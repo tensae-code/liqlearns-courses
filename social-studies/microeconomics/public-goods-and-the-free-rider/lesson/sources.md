@@ -1,6 +1,6 @@
 # Sources — Public goods and the free rider
 
-countries: Ethiopia, Rwanda, Malaysia, Dominica, Uzbekistan, Egypt, India
+countries: Ethiopia, Rwanda, Malaysia, Dominica, Uzbekistan, Egypt, India, United States
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -65,7 +65,24 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | India part — Ch 9 Public Facilities: a public facility's benefits can be shared by many once provided; private companies work for profit and find none in drains or anti-malaria work, so government must provide facilities for all at affordable prices — teaches: why government, not the market, must supply public facilities | India, *India Grade 8 Social and Political Life-III*, Ch 9 Public Facilities — printed p. 110 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Rwanda, Malaysia, Dominica, Uzbekistan, Egypt, India).**
+**Book 10:** *Principles of Microeconomics for AP® Courses 2e* (student book, English) — OpenStax, Rice University; year 2017; ISBN 978-1-947172-45-6 (PDF version; hardcover 978-1-947172-44-9). Title as printed: Principles of Microeconomics for AP® Courses 2e. Grade: Grade 12 (AP® / introductory college level) (student/teacher: STUDENT). PDF pages: 575 (cover/title page verified against the record title; rescued file 30,894,376 bytes). Verdict: COMPLETE — full page-by-page read to the last teaching page (Chapter 20 and Appendices B–C). Rescue history: first filed without a read after grab.py (Git Blob API) truncated twice; the complete file was then fetched over the git protocol with its blob SHA verified against the repo tree, and this filing is from that verified complete file. Contents map: Economics parts — the whole book is Economics: Chapters 1–20, printed pp. 9–488; Appendix B (Indifference Curves) pp. 505–518; Appendix C (Present Discounted Value) pp. 519–562; Appendix A (The Use of Mathematics in Principles of Economics) pp. 489–504 is maths apparatus, named not placed; chapter-end Key Terms, Summaries and Review/Problem sets are assessment apparatus, not placed; Index pp. 563–end is inventory-only. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| United States part — 13.3 Public Goods — teaches: public goods identified by nonexcludable and non-rival, the free rider problem, and where public goods come from | United States, *United States Grade 12 Principles of Microeconomics for AP® Courses 2e*, 13.3 Public Goods — printed p. 317 |
+
+**Book 11:** *American Government 3e* (student book, English) — OpenStax, Rice University; year 2021; ISBN 978-1-951693-38-1 (digital). Title as printed: American Government 3e. Grade: Grade 13 (college introductory) (student/teacher: STUDENT). PDF pages: 726 (cover verified against the record title). Verdict: COMPLETE (contents-first read: the whole contents mapped; the Economics teaching parts — Ch. 1 §1.1's economic-systems passage and Ch. 16's policy chapters — read fully page by page). Contents map: Economics parts printed pp. 8–13 (§1.1 passage) and pp. 545–570 (Chapter 16, Domestic Policy); Civics — everything else: Constitution pp. 31–63, Federalism pp. 65–99, Civil Liberties pp. 101–141, Civil Rights pp. 143–183, Public Opinion pp. 185–222, Voting pp. 223–263, Media pp. 265–302, Parties pp. 303–337, Interest Groups pp. 339–371, Congress pp. 373–409, Presidency pp. 411–445, Courts pp. 447–479, State/Local Government pp. 481–513, Bureaucracy pp. 515–543, Foreign Policy pp. 577–605. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| United States part — 16.2 Categorizing Public Policy — teaches: the economist's classification of goods — public (collective) goods, common goods, toll goods and private goods — and why unregulated common goods get depleted | United States, *United States Grade 13 American Government 3e*, 16.2 Categorizing Public Policy — printed p. 549 |
+| United States part — 16.3 Policy Arenas — teaches: the principles of free-market economics (supply and demand allocate private goods most efficiently) and its two problems — goods too large or essential for private provision, the Hoover Dam as case | United States, *United States Grade 13 American Government 3e*, 16.3 Policy Arenas — printed p. 555 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Rwanda, Malaysia, Dominica, Uzbekistan, Egypt, India, United States).**
+
+United States' own way (United States Grade 12 Principles of Microeconomics for AP® Courses 2e): an AP®-framed American university text — every model is run on US data and institutions (Bureau of Labor Statistics spending data, FRED series, US antitrust and environmental law, the US safety net, a US–Mexico trade worked example), dollars throughout, graph-first with a named four-step method for equilibrium changes.
+
+United States' own way (United States Grade 13 American Government 3e): economics appears inside civics as the machinery of public policy — goods classified by who can be excluded, and the federal budget as the arena where Keynesian ideas meet mandatory spending.
 
 India's own way (India Grade 8 Social and Political Life-III): The government's economic role is taught through Chennai's water — who gets how much, who pays, and what happens when a basic need is left to profit — and through Bhopal, where cheap labour and weak safety enforcement are priced in workers' lives.
 
@@ -77,4 +94,4 @@ Malaysia's own way (Malaysia Grade 11 Ekonomi Tingkatan 5): Form 5 turns to the 
 
 Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
 
-Searchable tags: public goods and the free rider, grade 12 economics, ethiopia, social studies, microeconomics, rwanda, malaysia, dominica, csec principles of business, caribbean, uzbekistan, egypt, india
+Searchable tags: public goods and the free rider, grade 12 economics, ethiopia, social studies, microeconomics, rwanda, malaysia, dominica, csec principles of business, caribbean, uzbekistan, egypt, india, united states

@@ -1,6 +1,6 @@
 # Sources — Externalities — costs that fall on others
 
-countries: Ethiopia, Vietnam
+countries: Ethiopia, Vietnam, United States
 
 **Book 1:** *Economics, Teacher Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed (M.Sc.), Tadesse Ababu (M.Sc.). Editors: Mesfin Ketema (M.Sc., Content Editor), Enguday Ademe (Ph.D., Curriculum Editor), Birhanu Engidaw (Ph.D., Language Editor). Illustrator: Endalkachew Mengesha (M.Sc.). Designer: Derejaw Lake (M.Sc.). The Evaluators line on the title page is left blank. Copyright page reads "First Published xxxxx 2022" under GEQIP-E; printer, contract number and ISBN are all printed as placeholders. Printed page = PDF page - 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-teacher-placements.md
 
@@ -15,10 +15,18 @@ countries: Ethiopia, Vietnam
 | Lesson part | Where it comes from |
 |---|---|
 | Vietnam part — Topic 1, Lesson 2: why development's environmental damage must be solved — teaches: the negative impacts fall directly on people's lives and on economic activity itself — air pollution ranks among Vietnam's top causes of death and disease (respiratory and cardiovascular illness, occupational lung disease in mining and construction), polluted water and soil spread disease and damage health through food and daily contact, and salinity intrusion from sea-level rise has cut rice yields by 20–50% in Mekong Delta provinces and threatens farmers with lost livelihoods and environmental migration — so quality of life falls, the disease burden grows, and the economy's sustainable development is blocked (Economics expansion, 2026-11-16) | Vietnam, *Vietnam Grade 11 Economic & Legal Education, Study Topics*, Topic 1, Lesson 2: why development's environmental damage must be solved — printed p. 16 |
-**Acceptance count: taught in 1 country (Vietnam). Ethiopia is teacher-guide evidence only — named here, counted nowhere.**
+**Book 3:** *Principles of Microeconomics for AP® Courses 2e* (student book, English) — OpenStax, Rice University; year 2017; ISBN 978-1-947172-45-6 (PDF version; hardcover 978-1-947172-44-9). Title as printed: Principles of Microeconomics for AP® Courses 2e. Grade: Grade 12 (AP® / introductory college level) (student/teacher: STUDENT). PDF pages: 575 (cover/title page verified against the record title; rescued file 30,894,376 bytes). Verdict: COMPLETE — full page-by-page read to the last teaching page (Chapter 20 and Appendices B–C). Rescue history: first filed without a read after grab.py (Git Blob API) truncated twice; the complete file was then fetched over the git protocol with its blob SHA verified against the repo tree, and this filing is from that verified complete file. Contents map: Economics parts — the whole book is Economics: Chapters 1–20, printed pp. 9–488; Appendix B (Indifference Curves) pp. 505–518; Appendix C (Present Discounted Value) pp. 519–562; Appendix A (The Use of Mathematics in Principles of Economics) pp. 489–504 is maths apparatus, named not placed; chapter-end Key Terms, Summaries and Review/Problem sets are assessment apparatus, not placed; Index pp. 563–end is inventory-only. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| United States part — 13.1 Why the Private Sector Underinvests in Innovation — teaches: the positive externalities of new technology — private benefit versus social benefit, rates of return, and why competition alone underinvests in innovation | United States, *United States Grade 12 Principles of Microeconomics for AP® Courses 2e*, 13.1 Why the Private Sector Underinvests in Innovation — printed p. 311 |
+
+**Acceptance count: taught in 2 countries (Vietnam, United States). Ethiopia is teacher-guide evidence only — named here, counted nowhere.**
+
+United States' own way (United States Grade 12 Principles of Microeconomics for AP® Courses 2e): an AP®-framed American university text — every model is run on US data and institutions (Bureau of Labor Statistics spending data, FRED series, US antitrust and environmental law, the US safety net, a US–Mexico trade worked example), dollars throughout, graph-first with a named four-step method for equilibrium changes.
 
 Vietnam's own way (Vietnam Grade 11 Economic & Legal Education, Study Topics): the environment topic is taught entirely from national reports (Ministry of Natural Resources and Environment state-of-environment data) — extraction tables, Red River levels, Mekong Delta salinity — and closes with the State's own remedy plans, ending on green growth and the circular economy.
 
 Pairing note carried from the placements: the student textbook is the finished 2023 edition, while the teacher guide is ©2022 with an unfinished placeholder printing block — edition-mismatched companions; the guide's answer keys are partly incomplete/misaligned with this book's review questions, and no answer-key figure is taught here unchecked.
 
-Searchable tags: externalities, external cost, negative externality air pollution, costs borne by society, ethiopia, social studies, global issues, vietnam
+Searchable tags: externalities, external cost, negative externality air pollution, costs borne by society, ethiopia, social studies, global issues, vietnam, united states

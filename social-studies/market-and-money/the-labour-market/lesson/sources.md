@@ -1,6 +1,6 @@
 # Sources — The labour market
 
-countries: Ethiopia, Bahamas, Mongolia, Albania, Cambodia, Uzbekistan, Honduras, Fiji, Vietnam, India
+countries: Ethiopia, Bahamas, Mongolia, Albania, Cambodia, Uzbekistan, Honduras, Fiji, Vietnam, India, United States
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -79,7 +79,16 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | India part — Ch 1: labour is the most abundant factor — many landless and small-farm workers compete for limited farm work and are paid low wages — teaches: abundant labour and low farm wages (Economics expansion, 2026-11-16; stocked as a row against the book already cited in this lesson from the Geography wave) | India, *India Grade 9 Economics*, Ch 1 — printed p. 7 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Bahamas, Mongolia, Cambodia, Uzbekistan, Honduras, Fiji, Vietnam, India). Albania is teacher-guide evidence only — named here, counted nowhere. Honduras's Grade 1 teacher guide is cited as evidence only — Honduras is counted for its Grade 9 student book named here, not for that guide.**
+**Book 12:** *Principles of Microeconomics for AP® Courses 2e* (student book, English) — OpenStax, Rice University; year 2017; ISBN 978-1-947172-45-6 (PDF version; hardcover 978-1-947172-44-9). Title as printed: Principles of Microeconomics for AP® Courses 2e. Grade: Grade 12 (AP® / introductory college level) (student/teacher: STUDENT). PDF pages: 575 (cover/title page verified against the record title; rescued file 30,894,376 bytes). Verdict: COMPLETE — full page-by-page read to the last teaching page (Chapter 20 and Appendices B–C). Rescue history: first filed without a read after grab.py (Git Blob API) truncated twice; the complete file was then fetched over the git protocol with its blob SHA verified against the repo tree, and this filing is from that verified complete file. Contents map: Economics parts — the whole book is Economics: Chapters 1–20, printed pp. 9–488; Appendix B (Indifference Curves) pp. 505–518; Appendix C (Present Discounted Value) pp. 519–562; Appendix A (The Use of Mathematics in Principles of Economics) pp. 489–504 is maths apparatus, named not placed; chapter-end Key Terms, Summaries and Review/Problem sets are assessment apparatus, not placed; Index pp. 563–end is inventory-only. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| United States part — 4.1 Demand and Supply at Work in Labor Markets — teaches: demand and supply in labour markets, including how new technology shifts both curves | United States, *United States Grade 12 Principles of Microeconomics for AP® Courses 2e*, 4.1 Demand and Supply at Work in Labor Markets — printed p. 84 |
+| United States part — 15.1 Market Power on the Supply Side of Labor Markets: Unions — teaches: labour unions as market power on the supply side — membership levels, union wages, arguments for and against, and the decline of US union membership | United States, *United States Grade 12 Principles of Microeconomics for AP® Courses 2e*, 15.1 Market Power on the Supply Side of Labor Markets: Unions — printed p. 356 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Bahamas, Mongolia, Cambodia, Uzbekistan, Honduras, Fiji, Vietnam, India, United States). Albania is teacher-guide evidence only — named here, counted nowhere. Honduras's Grade 1 teacher guide is cited as evidence only — Honduras is counted for its Grade 9 student book named here, not for that guide.**
+
+United States' own way (United States Grade 12 Principles of Microeconomics for AP® Courses 2e): an AP®-framed American university text — every model is run on US data and institutions (Bureau of Labor Statistics spending data, FRED series, US antitrust and environmental law, the US safety net, a US–Mexico trade worked example), dollars throughout, graph-first with a named four-step method for equilibrium changes.
 
 India's own way (India Grade 9 Economics): The whole first Economics course is built on Indian cases — a fictional UP village for production, two boys (Sakal who studies, Vilas who cannot) for human capital, Tendulkar poverty-line numbers, and the FCI/PDS machinery for food security.
 
@@ -103,4 +112,4 @@ Honduras's own way (Honduras Grade 1 G1 Teacher CCSS) (teacher guide — evidenc
 
 Honduras's own way (Honduras Grade 9 G9 Student CCSS): Grade 9 closes the cycle with the world economy and Honduras inside it — work formal and informal, the lempira's devaluation named the country's biggest problem, and remittances weighed honestly: a strong boost to the economy that also demotivates production and drains the labour force.
 
-Searchable tags: labour market, employees supply labour, employers supply jobs, ethiopia, social studies, market and money, bahamas, mongolia, labour market, training job matching information, albania, cambodia, uzbekistan, honduras, Fiji, vietnam, india
+Searchable tags: labour market, employees supply labour, employers supply jobs, ethiopia, social studies, market and money, bahamas, mongolia, labour market, training job matching information, albania, cambodia, uzbekistan, honduras, Fiji, vietnam, india, united states

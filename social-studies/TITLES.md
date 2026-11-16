@@ -4236,7 +4236,7 @@ History lessons: 3677 → 3897.
 
 ## Economics expansion totals
 
-Economics lessons across the Economics titles: **696**
+Economics lessons across the Economics titles: **726**
 (376 before the expansion; +2 for United Arab Emirates,
 2026-11-15 — Microeconomics: Basic needs and other needs
 and Work and its different forms; +2 for Iceland,
@@ -4598,4 +4598,35 @@ production across countries, What enabled
 globalisation, Globalisation in India — winners
 and losers, The struggle for fair globalisation,
 Cheap labour and cost-cutting bring foreign
-companies and Who gains from the market).
+companies and Who gains from the market); +30 for United States,
+2026-11-16 — Microeconomics: Consumer surplus,
+producer surplus and efficiency, Elasticity and
+pricing — total revenue, Labour–leisure choice and
+the backward-bending labour supply, Efficiency in
+perfectly competitive markets, Mergers,
+concentration ratios and the HHI, Antitrust law and
+restrictive practices, Regulating natural
+monopolies — cost-plus and price-cap, Deregulation
+and regulatory capture, Command-and-control
+environmental regulation, Benefits and costs of
+environmental protection, International
+externalities and biodiversity, Government policies
+to encourage innovation, Public choice — rational
+ignorance and voter turnout, Special interest
+politics — pork barrel and logrolling and Flaws of
+democratic choice — median voter and voting cycles;
+Market and Money: Prices carry information,
+Intertemporal choice — saving and borrowing,
+Insurance and imperfect information, Accumulating
+personal wealth — compound interest and the random
+walk and Present discounted value; Macroeconomics:
+Globalization and its effects on economies, The
+poverty trap — benefits and work incentives, The
+safety net — US antipoverty programmes, Government
+policies to reduce income inequality, Employment
+discrimination and earnings gaps, Economic effects
+of immigration, Intra-industry trade and economies
+of scale, Trade, jobs, wages and working conditions,
+Arguments for restricting imports — infant industry,
+dumping and national interest and Tradeoffs of trade
+policy and disruptive market change).

@@ -1,6 +1,6 @@
 # Sources — Financial Markets — Shares and Bonds
 
-countries: Mongolia, Uzbekistan, Egypt, Vietnam, Armenia, Nepal
+countries: Mongolia, Uzbekistan, Egypt, Vietnam, Armenia, Nepal, United States
 
 **Book 1:** *Нийгэм судлал X (Social Studies X)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2019; ISBN no ISBN printed on the pages checked. Title as printed: Нийгэм судлал X (Social Studies X). Grade: Grade 10 (student). 151 PDF pp. (cover verified against the record title; secured GitHub release asset, 91,224,144 bytes, byte-size verified on download; contents also cross-checked against the ministry econtent flipbook of the same book — note the books.json record says 7,193,154 bytes, which does not match the secured asset: a library debt, see group log). Verdict: COMPLETE for Geography scope (contents page and chapter openings read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mongolia-placements.md.
 
@@ -41,7 +41,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Nepal part — Unit 8 Lesson 5 "Bittiya Upakaran (Financial Tools)", securities — teaches: securities (dhitopatra) as the financial instruments issued to raise capital — government bonds, debentures and company shares, bonds — a share's face value commonly Rs. 100, the shareholder as part-owner sharing profit and loss, preference shares (a fixed dividend paid first, no vote) against ordinary shares (the dividend that remains, and the risk), and the demat account in which shares are now held electronically | Nepal, *Nepal Grade 10 Social Studies*, Unit 8 Lesson 5 "Bittiya Upakaran (Financial Tools)", securities — printed p. 233 |
 
-**Acceptance count: taught in 6 countries (Mongolia, Uzbekistan, Egypt, Vietnam, Armenia, Nepal).**
+**Book 7:** *Principles of Microeconomics for AP® Courses 2e* (student book, English) — OpenStax, Rice University; year 2017; ISBN 978-1-947172-45-6 (PDF version; hardcover 978-1-947172-44-9). Title as printed: Principles of Microeconomics for AP® Courses 2e. Grade: Grade 12 (AP® / introductory college level) (student/teacher: STUDENT). PDF pages: 575 (cover/title page verified against the record title; rescued file 30,894,376 bytes). Verdict: COMPLETE — full page-by-page read to the last teaching page (Chapter 20 and Appendices B–C). Rescue history: first filed without a read after grab.py (Git Blob API) truncated twice; the complete file was then fetched over the git protocol with its blob SHA verified against the repo tree, and this filing is from that verified complete file. Contents map: Economics parts — the whole book is Economics: Chapters 1–20, printed pp. 9–488; Appendix B (Indifference Curves) pp. 505–518; Appendix C (Present Discounted Value) pp. 519–562; Appendix A (The Use of Mathematics in Principles of Economics) pp. 489–504 is maths apparatus, named not placed; chapter-end Key Terms, Summaries and Review/Problem sets are assessment apparatus, not placed; Index pp. 563–end is inventory-only. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| United States part — 17.2 How Households Supply Financial Capital — teaches: the household side — savers, banks and borrowers, bond yield calculated, and bonds, stocks, mutual funds and assets contrasted on return against risk | United States, *United States Grade 12 Principles of Microeconomics for AP® Courses 2e*, 17.2 How Households Supply Financial Capital — printed p. 402 |
+
+**Acceptance count: taught in 7 countries (Mongolia, Uzbekistan, Egypt, Vietnam, Armenia, Nepal, United States).**
+
+United States' own way (United States Grade 12 Principles of Microeconomics for AP® Courses 2e): an AP®-framed American university text — every model is run on US data and institutions (Bureau of Labor Statistics spending data, FRED series, US antitrust and environmental law, the US safety net, a US–Mexico trade worked example), dollars throughout, graph-first with a named four-step method for equilibrium changes.
 
 Nepal's own way (Nepal Grade 10 Social Studies): Grade 10 economics is the money-and-state unit, taught as documents a pupil could meet in life — a student's study report for energy, a first-person story for foreign employment, a central-bank officer's school visit for financial education, a mother's letter for insurance, a street-corner conversation with a businessman for revenue, and the Sixteenth Plan's own target table for planning.
 
@@ -53,4 +61,4 @@ Mongolia's own way: the senior cycle drops the “Individual and…” frame for
 
 Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
 
-Searchable tags: financial markets, shares, bonds, investment, Mongolia, Нийгэм судлал X, social studies, culture and work, uzbekistan, egypt, vietnam, armenia, nepal
+Searchable tags: financial markets, shares, bonds, investment, Mongolia, Нийгэм судлал X, social studies, culture and work, uzbekistan, egypt, vietnam, armenia, nepal, united states

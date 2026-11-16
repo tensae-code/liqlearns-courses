@@ -1,6 +1,6 @@
 # Sources — Fiscal policy — the government's budget as a lever
 
-countries: Ethiopia, Malaysia, Albania, Cambodia, Uzbekistan, Egypt, Honduras, Vietnam, Armenia, Indonesia, Nicaragua
+countries: Ethiopia, Malaysia, Albania, Cambodia, Uzbekistan, Egypt, Honduras, Vietnam, Armenia, Indonesia, Nicaragua, United States
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -81,7 +81,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Nicaragua part — Política fiscal — teaches: Nicaragua's fiscal policy — tax policy meant to stimulate investment and production rather than only collect, spending directed to poverty reduction and infrastructure, a prudent public deficit on a medium-term sustainability path, and subsidies (US$19 million to the water-pumping tariff) | Nicaragua, *Nicaragua Grade 10 Ciencias Sociales 10*, Política fiscal — printed pp. 251–254 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Malaysia, Cambodia, Uzbekistan, Egypt, Honduras, Vietnam, Armenia, Indonesia, Nicaragua). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 14:** *American Government 3e* (student book, English) — OpenStax, Rice University; year 2021; ISBN 978-1-951693-38-1 (digital). Title as printed: American Government 3e. Grade: Grade 13 (college introductory) (student/teacher: STUDENT). PDF pages: 726 (cover verified against the record title). Verdict: COMPLETE (contents-first read: the whole contents mapped; the Economics teaching parts — Ch. 1 §1.1's economic-systems passage and Ch. 16's policy chapters — read fully page by page). Contents map: Economics parts printed pp. 8–13 (§1.1 passage) and pp. 545–570 (Chapter 16, Domestic Policy); Civics — everything else: Constitution pp. 31–63, Federalism pp. 65–99, Civil Liberties pp. 101–141, Civil Rights pp. 143–183, Public Opinion pp. 185–222, Voting pp. 223–263, Media pp. 265–302, Parties pp. 303–337, Interest Groups pp. 339–371, Congress pp. 373–409, Presidency pp. 411–445, Courts pp. 447–479, State/Local Government pp. 481–513, Bureaucracy pp. 515–543, Foreign Policy pp. 577–605. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| United States part — 16.5 Budgeting and Tax Policy — teaches: fiscal policy tools for a healthy economy, the Keynesian era of US spending policy, mandatory versus discretionary spending (2020 federal chart) and the annual deficit | United States, *United States Grade 13 American Government 3e*, 16.5 Budgeting and Tax Policy — printed p. 564 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Malaysia, Cambodia, Uzbekistan, Egypt, Honduras, Vietnam, Armenia, Indonesia, Nicaragua, United States). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+United States' own way (United States Grade 13 American Government 3e): economics appears inside civics as the machinery of public policy — goods classified by who can be excluded, and the federal budget as the arena where Keynesian ideas meet mandatory spending.
 
 Nicaragua's own way (Nicaragua Grade 10 Ciencias Sociales 10): Economics is taught as a national project — definitions are given in both the objective (Engels) and subjective (Robbins) currents, the five basic problems are posed as Nicaragua's own choices (stay a dependent raw-material supplier or seek economic independence), and every institution is Nicaraguan: ENABAS fair-price shops, the MEFCCA family-economy ministry, Banco Produzcamos, the Central Bank's pre-announced 5% crawl, ALBA and PETROCARIBE.
 
@@ -106,4 +114,4 @@ Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics
 
 Honduras's own way (Honduras Grade 8 G8 Student CCSS): Grade 8 teaches Latin America's development problem head-on — development vs underdevelopment, the integration ladder, and the debt lesson built around Honduras's own fiscal-deficit chart and the structural-adjustment era.
 
-Searchable tags: fiscal policy — the government's budget as a lever, grade 12 economics, ethiopia, social studies, macroeconomics, malaysia, albania, cambodia, uzbekistan, egypt, honduras, vietnam, armenia, indonesia, nicaragua
+Searchable tags: fiscal policy — the government's budget as a lever, grade 12 economics, ethiopia, social studies, macroeconomics, malaysia, albania, cambodia, uzbekistan, egypt, honduras, vietnam, armenia, indonesia, nicaragua, united states

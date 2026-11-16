@@ -1,6 +1,6 @@
 # Sources — Tariffs and quotas — restricting trade
 
-countries: Ethiopia, Malaysia, Albania, Dominica, Uzbekistan, Honduras, Fiji, Indonesia, Nicaragua, India
+countries: Ethiopia, Malaysia, Albania, Dominica, Uzbekistan, Honduras, Fiji, Indonesia, Nicaragua, India, United States
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -64,7 +64,16 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | India part — Ch 4: trade barriers — a tax on imports (Chinese toys) and quotas; India's post-Independence protection of infant industries, and the 1991 liberalisation that removed barriers so Indian producers would compete and improve — teaches: barriers and liberalisation | India, *India Grade 10 Understanding Economic Development*, Ch 4 — printed p. 64 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Malaysia, Dominica, Uzbekistan, Honduras, Fiji, Indonesia, Nicaragua, India). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 11:** *Principles of Microeconomics for AP® Courses 2e* (student book, English) — OpenStax, Rice University; year 2017; ISBN 978-1-947172-45-6 (PDF version; hardcover 978-1-947172-44-9). Title as printed: Principles of Microeconomics for AP® Courses 2e. Grade: Grade 12 (AP® / introductory college level) (student/teacher: STUDENT). PDF pages: 575 (cover/title page verified against the record title; rescued file 30,894,376 bytes). Verdict: COMPLETE — full page-by-page read to the last teaching page (Chapter 20 and Appendices B–C). Rescue history: first filed without a read after grab.py (Git Blob API) truncated twice; the complete file was then fetched over the git protocol with its blob SHA verified against the repo tree, and this filing is from that verified complete file. Contents map: Economics parts — the whole book is Economics: Chapters 1–20, printed pp. 9–488; Appendix B (Indifference Curves) pp. 505–518; Appendix C (Present Discounted Value) pp. 519–562; Appendix A (The Use of Mathematics in Principles of Economics) pp. 489–504 is maths apparatus, named not placed; chapter-end Key Terms, Summaries and Review/Problem sets are assessment apparatus, not placed; Index pp. 563–end is inventory-only. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| United States part — 19.3 The Benefits of Reducing Barriers to International Trade — teaches: tariffs as taxes on imports and barriers to trade, and the benefits of reducing those barriers | United States, *United States Grade 12 Principles of Microeconomics for AP® Courses 2e*, 19.3 The Benefits of Reducing Barriers to International Trade — printed p. 448 |
+| United States part — 20.1 Protectionism: An Indirect Subsidy from Consumers to Producers — teaches: protectionism in its three main forms analysed through demand and supply as an indirect subsidy from consumers to producers, its effects on equilibrium calculated | United States, *United States Grade 12 Principles of Microeconomics for AP® Courses 2e*, 20.1 Protectionism: An Indirect Subsidy from Consumers to Producers — printed p. 462 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Malaysia, Dominica, Uzbekistan, Honduras, Fiji, Indonesia, Nicaragua, India, United States). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+United States' own way (United States Grade 12 Principles of Microeconomics for AP® Courses 2e): an AP®-framed American university text — every model is run on US data and institutions (Bureau of Labor Statistics spending data, FRED series, US antitrust and environmental law, the US safety net, a US–Mexico trade worked example), dollars throughout, graph-first with a named four-step method for equilibrium changes.
 
 India's own way (India Grade 10 Understanding Economic Development): Development economics taught entirely on Indian data and institutions — per-capita and HDI comparisons with Sri Lanka and Kerala against Haryana, MGNREGA, Sonpur village credit, SEZs, and COPRA consumer courts.
 
@@ -82,4 +91,4 @@ Malaysia's own way (Malaysia Grade 11 Ekonomi Tingkatan 5): Form 5 turns to the 
 
 Honduras's own way (Honduras Grade 3 G3 Student CCSS): Grade 3 scales up from family to country — occupations and production for the whole nation, social classes by income, the production-distribution-exchange-consumption chain, and exports/imports through customs with the arancel explained.
 
-Searchable tags: tariffs and quotas, restricting trade, ethiopia, social studies, macroeconomics, malaysia, albania, dominica, csec principles of business, caribbean, uzbekistan, honduras, Fiji, indonesia, nicaragua, india
+Searchable tags: tariffs and quotas, restricting trade, ethiopia, social studies, macroeconomics, malaysia, albania, dominica, csec principles of business, caribbean, uzbekistan, honduras, Fiji, indonesia, nicaragua, india, united states

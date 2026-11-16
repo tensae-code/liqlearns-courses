@@ -1,6 +1,6 @@
 # Sources — The production possibilities frontier
 
-countries: Ethiopia, Malaysia, Albania, Cambodia, Bangladesh, Armenia, Iran, Iraq
+countries: Ethiopia, Malaysia, Albania, Cambodia, Bangladesh, Armenia, Iran, Iraq, United States
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -51,7 +51,16 @@ Bangladesh's own way (Bangladesh Grade 9 History and Social Science): Class 9 te
 |---|---|
 | Iraq part — The production possibility frontier — teaches: society's choice drawn as a curve between two goods — foodstuffs (civilian) against rifles (military spending) — and the frontier shifting right as GDP grows (Economics expansion, 2026-11-16; original placement slug: microeconomics/the-production-possibility-curve — stocked here as the closest existing lesson covering this thing) | Iraq, *Iraq Grade 12 Economics*, The production possibility frontier — printed p. 12 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Malaysia, Cambodia, Bangladesh, Armenia, Iran, Iraq). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 9:** *Principles of Microeconomics for AP® Courses 2e* (student book, English) — OpenStax, Rice University; year 2017; ISBN 978-1-947172-45-6 (PDF version; hardcover 978-1-947172-44-9). Title as printed: Principles of Microeconomics for AP® Courses 2e. Grade: Grade 12 (AP® / introductory college level) (student/teacher: STUDENT). PDF pages: 575 (cover/title page verified against the record title; rescued file 30,894,376 bytes). Verdict: COMPLETE — full page-by-page read to the last teaching page (Chapter 20 and Appendices B–C). Rescue history: first filed without a read after grab.py (Git Blob API) truncated twice; the complete file was then fetched over the git protocol with its blob SHA verified against the repo tree, and this filing is from that verified complete file. Contents map: Economics parts — the whole book is Economics: Chapters 1–20, printed pp. 9–488; Appendix B (Indifference Curves) pp. 505–518; Appendix C (Present Discounted Value) pp. 519–562; Appendix A (The Use of Mathematics in Principles of Economics) pp. 489–504 is maths apparatus, named not placed; chapter-end Key Terms, Summaries and Review/Problem sets are assessment apparatus, not placed; Index pp. 563–end is inventory-only. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| United States part — 2.2 The Production Possibilities Frontier and Social Choices — teaches: the production possibilities frontier read and interpreted, and productive efficiency versus allocative efficiency on it | United States, *United States Grade 12 Principles of Microeconomics for AP® Courses 2e*, 2.2 The Production Possibilities Frontier and Social Choices — printed p. 33 |
+| United States part — 12.6 The Tradeoff between Economic Output and Environmental Protection — teaches: the production possibilities frontier used a second time, now as the tradeoff between economic output and environmental protection | United States, *United States Grade 12 Principles of Microeconomics for AP® Courses 2e*, 12.6 The Tradeoff between Economic Output and Environmental Protection — printed p. 297 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Malaysia, Cambodia, Bangladesh, Armenia, Iran, Iraq, United States). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+United States' own way (United States Grade 12 Principles of Microeconomics for AP® Courses 2e): an AP®-framed American university text — every model is run on US data and institutions (Bureau of Labor Statistics spending data, FRED series, US antitrust and environmental law, the US safety net, a US–Mexico trade worked example), dollars throughout, graph-first with a named four-step method for equilibrium changes.
 
 Iraq's own way (Iraq Grade 12 Economics): the senior course runs from Mesopotamia's first city-states to BRICS, and keeps landing in Iraq — the choice example is electricity versus optical internet, the sustainable-development example is cutting Iraq's dependence on oil, foreign borrowing is illustrated by Iraq's infrastructure projects, and students are sent to the Central Bank of Iraq's own website.
 
@@ -67,4 +76,4 @@ Cambodia's own way (Cambodia Grade 11 Economics): a full academic course built a
 
 Iran's own way (Iran Grade 10 Economics): the whole book is taught through one running family story (the Mohammadi family and their bio-input workshop); Iran-specific content is woven in throughout — export orders from Oman and Iraq blocked by US banking sanctions, the "resistance economy" (اقتصاد مقاومتی) as the answer to sanctions, and warnings against parking savings in gold coins, dollars, cars and housing instead of production.
 
-Searchable tags: PPF PPC, production possibilities, efficient inefficient unattainable, assumptions, ethiopia, social studies, microeconomics, malaysia, albania, cambodia, bangladesh, armenia, iran, iraq
+Searchable tags: PPF PPC, production possibilities, efficient inefficient unattainable, assumptions, ethiopia, social studies, microeconomics, malaysia, albania, cambodia, bangladesh, armenia, iran, iraq, united states

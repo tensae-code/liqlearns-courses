@@ -1,6 +1,6 @@
 # Sources — Total, average and marginal product
 
-countries: Ethiopia, Malaysia
+countries: Ethiopia, Malaysia, United States
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 **Book 2:** *Economics, Teacher Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed (M.Sc.), Tadesse Ababu (M.Sc.). Editors: Mesfin Ketema (M.Sc., Content Editor), Enguday Ademe (Ph.D., Curriculum Editor), Birhanu Engidaw (Ph.D., Language Editor). Illustrator: Endalkachew Mengesha (M.Sc.). Designer: Derejaw Lake (M.Sc.). The Evaluators line on the title page is left blank. Copyright page reads "First Published xxxxx 2022" under GEQIP-E; printer, contract number and ISBN are all printed as placeholders. Printed page = PDF page - 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-teacher-placements.md
@@ -20,7 +20,15 @@ countries: Ethiopia, Malaysia
 | Sub lesson 5 — The wheat hectare worked (Grade 10) | Ethiopia, *Economics, Student Textbook, Grade 10*, Unit 3 — Theories of Production and Cost, printed pp. 52–54 |
 | Sub lesson 6 — The law of diminishing marginal productivity (Grade 10) | Ethiopia, *Economics, Student Textbook, Grade 10*, Unit 3 — Theories of Production and Cost, printed pp. 52–54 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Malaysia).**
+**Book 5:** *Principles of Microeconomics for AP® Courses 2e* (student book, English) — OpenStax, Rice University; year 2017; ISBN 978-1-947172-45-6 (PDF version; hardcover 978-1-947172-44-9). Title as printed: Principles of Microeconomics for AP® Courses 2e. Grade: Grade 12 (AP® / introductory college level) (student/teacher: STUDENT). PDF pages: 575 (cover/title page verified against the record title; rescued file 30,894,376 bytes). Verdict: COMPLETE — full page-by-page read to the last teaching page (Chapter 20 and Appendices B–C). Rescue history: first filed without a read after grab.py (Git Blob API) truncated twice; the complete file was then fetched over the git protocol with its blob SHA verified against the repo tree, and this filing is from that verified complete file. Contents map: Economics parts — the whole book is Economics: Chapters 1–20, printed pp. 9–488; Appendix B (Indifference Curves) pp. 505–518; Appendix C (Present Discounted Value) pp. 519–562; Appendix A (The Use of Mathematics in Principles of Economics) pp. 489–504 is maths apparatus, named not placed; chapter-end Key Terms, Summaries and Review/Problem sets are assessment apparatus, not placed; Index pp. 563–end is inventory-only. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| United States part — 7.2 Production in the Short Run — teaches: total and marginal product of a variable input, and diminishing marginal productivity | United States, *United States Grade 12 Principles of Microeconomics for AP® Courses 2e*, 7.2 Production in the Short Run — printed p. 166 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Malaysia, United States).**
+
+United States' own way (United States Grade 12 Principles of Microeconomics for AP® Courses 2e): an AP®-framed American university text — every model is run on US data and institutions (Bureau of Labor Statistics spending data, FRED series, US antitrust and environmental law, the US safety net, a US–Mexico trade worked example), dollars throughout, graph-first with a named four-step method for equilibrium changes.
 
 Book error named here, taught corrected: the student book's marginal-product text describes MP once as a percentage change; MP is a unit change — the extra units of output from one more unit of input — as its own formula MP = ΔTP/ΔL shows. This lesson teaches the unit change.
 
@@ -28,4 +36,4 @@ Pairing note carried from the placements: the student textbook is the finished 2
 
 Malaysia's own way (Malaysia Grade 10 Ekonomi Tingkatan 4): a full KSSM economics course in Malay with bilingual BM–BI glossaries, ringgit-denominated tables throughout, and Malaysian institutions (Bank Negara, KWSP/EPF, PERKESO) as the living examples.
 
-Searchable tags: total average marginal product, AP=TP/L MP=dTP/dL, productivity, AP MP relationship, ethiopia, social studies, microeconomics, malaysia
+Searchable tags: total average marginal product, AP=TP/L MP=dTP/dL, productivity, AP MP relationship, ethiopia, social studies, microeconomics, malaysia, united states

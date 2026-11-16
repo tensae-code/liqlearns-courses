@@ -1,6 +1,6 @@
 # Sources — Scarcity — wants without end, resources with limits
 
-countries: Ethiopia, Mongolia, Malaysia, Bangladesh, Egypt, Yemen, Fiji, Iraq
+countries: Ethiopia, Mongolia, Malaysia, Bangladesh, Egypt, Yemen, Fiji, Iraq, United States
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -57,7 +57,15 @@ Bangladesh's own way (Bangladesh Grade 8 History and Social Science): Class 8 tu
 |---|---|
 | Iraq part — Scarcity, the first element of the economic problem — teaches: scarcity as relative, not absolute — it is what makes a resource economic, with a price as the measure of scarcity (timber, minerals, oil, a doctor's services), while free resources like air and sunlight carry no price (Economics expansion, 2026-11-16; original placement slug: microeconomics/scarcity-the-heart-of-economics — stocked here as the closest existing lesson covering this thing) | Iraq, *Iraq Grade 12 Economics*, Scarcity, the first element of the economic problem — printed p. 10 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Mongolia, Malaysia, Bangladesh, Egypt, Yemen, Fiji, Iraq).**
+**Book 10:** *Principles of Microeconomics for AP® Courses 2e* (student book, English) — OpenStax, Rice University; year 2017; ISBN 978-1-947172-45-6 (PDF version; hardcover 978-1-947172-44-9). Title as printed: Principles of Microeconomics for AP® Courses 2e. Grade: Grade 12 (AP® / introductory college level) (student/teacher: STUDENT). PDF pages: 575 (cover/title page verified against the record title; rescued file 30,894,376 bytes). Verdict: COMPLETE — full page-by-page read to the last teaching page (Chapter 20 and Appendices B–C). Rescue history: first filed without a read after grab.py (Git Blob API) truncated twice; the complete file was then fetched over the git protocol with its blob SHA verified against the repo tree, and this filing is from that verified complete file. Contents map: Economics parts — the whole book is Economics: Chapters 1–20, printed pp. 9–488; Appendix B (Indifference Curves) pp. 505–518; Appendix C (Present Discounted Value) pp. 519–562; Appendix A (The Use of Mathematics in Principles of Economics) pp. 489–504 is maths apparatus, named not placed; chapter-end Key Terms, Summaries and Review/Problem sets are assessment apparatus, not placed; Index pp. 563–end is inventory-only. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| United States part — 1.1 What Is Economics, and Why Is It Important? — teaches: scarcity — wants exceeding the resources available — as the fact that forces choice on individuals, firms and societies | United States, *United States Grade 12 Principles of Microeconomics for AP® Courses 2e*, 1.1 What Is Economics, and Why Is It Important? — printed p. 10 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Mongolia, Malaysia, Bangladesh, Egypt, Yemen, Fiji, Iraq, United States).**
+
+United States' own way (United States Grade 12 Principles of Microeconomics for AP® Courses 2e): an AP®-framed American university text — every model is run on US data and institutions (Bureau of Labor Statistics spending data, FRED series, US antitrust and environmental law, the US safety net, a US–Mexico trade worked example), dollars throughout, graph-first with a named four-step method for equilibrium changes.
 
 Iraq's own way (Iraq Grade 11 Economics): a full Western-style microeconomics course rooted in Iraq — economics itself is traced to Mesopotamia (the first banks at Nasiriyah, loan-interest rules, Hammurabi's laws), worked examples run in dinars on chickens, notebooks, dates and children's toys, and the monopoly and oligopoly examples are Iraq's white-oil distribution and its three mobile-phone companies.
 
@@ -75,4 +83,4 @@ Malaysia's own way (Malaysia Grade 10 Ekonomi Tingkatan 4): a full KSSM economic
 
 Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
 
-Searchable tags: scarcity shortage, unlimited wants finite resources, zero price test, ethiopia, social studies, microeconomics, mongolia, unlimited needs limited resources, tögrög, malaysia, bangladesh, egypt, yemen, Fiji, iraq
+Searchable tags: scarcity shortage, unlimited wants finite resources, zero price test, ethiopia, social studies, microeconomics, mongolia, unlimited needs limited resources, tögrög, malaysia, bangladesh, egypt, yemen, Fiji, iraq, united states

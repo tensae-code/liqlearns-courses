@@ -1,6 +1,6 @@
 # Sources — The World Trade Organization
 
-countries: South Sudan, Cambodia, Uzbekistan, Vietnam, Nepal, Iraq, India
+countries: South Sudan, Cambodia, Uzbekistan, Vietnam, Nepal, Iraq, India, United States
 
 **Book 1:** *Secondary Geography 4 Student's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Secondary Geography 4 Student's Book. Grade: Secondary 4 / Grade 12 (student/teacher: STUDENT). PDF pages: 200 (cover/title page verified against the record title). Image-only PDF: read via 100-DPI 4-up contact sheets; the full printed table of contents (printed pp. 2–194) was read and every unit spot-checked on the sheets.. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
 
@@ -50,7 +50,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | India part — Ch 4: the WTO's aim of liberalised trade and its rules, set against practice — developed countries kept barriers and pay their farmers vast subsidies that let them dump cheap farm produce, while developing countries were made to open up — teaches: the fair-trade debate | India, *India Grade 10 Understanding Economic Development*, Ch 4 — printed p. 65 |
 
-**Acceptance count: taught in 7 countries (South Sudan, Cambodia, Uzbekistan, Vietnam, Nepal, Iraq, India).**
+**Book 9:** *Principles of Microeconomics for AP® Courses 2e* (student book, English) — OpenStax, Rice University; year 2017; ISBN 978-1-947172-45-6 (PDF version; hardcover 978-1-947172-44-9). Title as printed: Principles of Microeconomics for AP® Courses 2e. Grade: Grade 12 (AP® / introductory college level) (student/teacher: STUDENT). PDF pages: 575 (cover/title page verified against the record title; rescued file 30,894,376 bytes). Verdict: COMPLETE — full page-by-page read to the last teaching page (Chapter 20 and Appendices B–C). Rescue history: first filed without a read after grab.py (Git Blob API) truncated twice; the complete file was then fetched over the git protocol with its blob SHA verified against the repo tree, and this filing is from that verified complete file. Contents map: Economics parts — the whole book is Economics: Chapters 1–20, printed pp. 9–488; Appendix B (Indifference Curves) pp. 505–518; Appendix C (Present Discounted Value) pp. 519–562; Appendix A (The Use of Mathematics in Principles of Economics) pp. 489–504 is maths apparatus, named not placed; chapter-end Key Terms, Summaries and Review/Problem sets are assessment apparatus, not placed; Index pp. 563–end is inventory-only. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| United States part — 20.4 How Governments Enact Trade Policy: Globally, Regionally, and Nationally — teaches: the origin and role of the World Trade Organization and the GATT, regional trading agreements, national trade policy, and the long-term fall in trade barriers | United States, *United States Grade 12 Principles of Microeconomics for AP® Courses 2e*, 20.4 How Governments Enact Trade Policy: Globally, Regionally, and Nationally — printed p. 477 |
+
+**Acceptance count: taught in 8 countries (South Sudan, Cambodia, Uzbekistan, Vietnam, Nepal, Iraq, India, United States).**
+
+United States' own way (United States Grade 12 Principles of Microeconomics for AP® Courses 2e): an AP®-framed American university text — every model is run on US data and institutions (Bureau of Labor Statistics spending data, FRED series, US antitrust and environmental law, the US safety net, a US–Mexico trade worked example), dollars throughout, graph-first with a named four-step method for equilibrium changes.
 
 India's own way (India Grade 10 Understanding Economic Development): Development economics taught entirely on Indian data and institutions — per-capita and HDI comparisons with Sri Lanka and Kerala against Haryana, MGNREGA, Sonpur village credit, SEZs, and COPRA consumer courts.
 
@@ -66,4 +74,4 @@ South Sudan's own way (South Sudan Grade 12 S4 Geography TG) (teacher guide — 
 
 Cambodia's own way (Cambodia Grade 12 Economics): the final-year course turns practical — the market is studied the way a Cambodian trader meets it (consumers, prices, banks, riel exchange), and macro policy is taught as coordination: monetary policy, exchange rates and public finance fitted together, closing with foreign trade and the world trading system.
 
-Searchable tags: the world trade organization, South Sudan, social studies, culture-and-work, cambodia, uzbekistan, vietnam, nepal, iraq, india
+Searchable tags: the world trade organization, South Sudan, social studies, culture-and-work, cambodia, uzbekistan, vietnam, nepal, iraq, india, united states

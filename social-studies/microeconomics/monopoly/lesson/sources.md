@@ -1,6 +1,6 @@
 # Sources — Monopoly
 
-countries: Ethiopia, Albania, Yemen, Armenia
+countries: Ethiopia, Albania, Yemen, Armenia, United States
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -34,7 +34,15 @@ Grade 10 teacher-guide note (placement 11): the added monopoly source and the fo
 |---|---|
 | Armenia part — Economics expansion — 3.3 Market competition and monopoly: monopoly (one-seller dominance) as a market type alongside perfect competition and oligopoly | Armenia, *Armenia Grade 10 Social Science student*, 3.3 Market competition and monopoly — printed p. 78 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Yemen, Armenia). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 6:** *Principles of Microeconomics for AP® Courses 2e* (student book, English) — OpenStax, Rice University; year 2017; ISBN 978-1-947172-45-6 (PDF version; hardcover 978-1-947172-44-9). Title as printed: Principles of Microeconomics for AP® Courses 2e. Grade: Grade 12 (AP® / introductory college level) (student/teacher: STUDENT). PDF pages: 575 (cover/title page verified against the record title; rescued file 30,894,376 bytes). Verdict: COMPLETE — full page-by-page read to the last teaching page (Chapter 20 and Appendices B–C). Rescue history: first filed without a read after grab.py (Git Blob API) truncated twice; the complete file was then fetched over the git protocol with its blob SHA verified against the repo tree, and this filing is from that verified complete file. Contents map: Economics parts — the whole book is Economics: Chapters 1–20, printed pp. 9–488; Appendix B (Indifference Curves) pp. 505–518; Appendix C (Present Discounted Value) pp. 519–562; Appendix A (The Use of Mathematics in Principles of Economics) pp. 489–504 is maths apparatus, named not placed; chapter-end Key Terms, Summaries and Review/Problem sets are assessment apparatus, not placed; Index pp. 563–end is inventory-only. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| United States part — 9.1 How Monopolies Form: Barriers to Entry — teaches: natural versus legal monopoly, economies of scale and control of resources as barriers, patents and trademarks, and predatory pricing | United States, *United States Grade 12 Principles of Microeconomics for AP® Courses 2e*, 9.1 How Monopolies Form: Barriers to Entry — printed p. 224 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Yemen, Armenia, United States). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+United States' own way (United States Grade 12 Principles of Microeconomics for AP® Courses 2e): an AP®-framed American university text — every model is run on US data and institutions (Bureau of Labor Statistics spending data, FRED series, US antitrust and environmental law, the US safety net, a US–Mexico trade worked example), dollars throughout, graph-first with a named four-step method for equilibrium changes.
 
 Armenia's own way (Armenia Grade 10 Social Science student): Grade 10 is a full Economics course inside Social Science — demand and supply are taught with a school-canteen juice schedule priced in dram, the production-possibilities curve with duduks and shvis (Armenian instruments), and personal finance through Armenian institutions: Central-Bank-licensed lenders, the ACRA credit bureau, the Financial System Mediator and the Rate.am / Appa.am comparison sites, including a fake "Gazprom Armenia" investment-scam case.
 
@@ -42,4 +50,4 @@ Yemen's own way (Grade 11 Mabadi' Ilm al-Iqtisad): a compact principles course t
 
 Albania's own way (Albania Grade 12 Ekonomia 12 Teacher Guide): a full Grade 12 course that runs micro to macro and then turns practical — business ethics, success skills and personal finance close the course; Albanian anchors throughout (Bank of Albania videos for the personal-budget lesson, the Albanian government budget in the government chapter, the types of money in circulation in Albania). This Albania material stands on the teacher guide as evidence only.
 
-Searchable tags: monopoly, one seller, price maker, Ethiopian Electric Power, sources of monopoly power, Ambo spring, patents, MR below AR, TR peak 30, ethiopia, social studies, microeconomics, albania, yemen, armenia
+Searchable tags: monopoly, one seller, price maker, Ethiopian Electric Power, sources of monopoly power, Ambo spring, patents, MR below AR, TR peak 30, ethiopia, social studies, microeconomics, albania, yemen, armenia, united states

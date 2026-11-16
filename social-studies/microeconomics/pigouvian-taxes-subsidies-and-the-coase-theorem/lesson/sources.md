@@ -1,6 +1,6 @@
 # Sources — Pigouvian taxes, subsidies and the Coase theorem
 
-countries: Ethiopia, France, Dominica
+countries: Ethiopia, France, Dominica, United States
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -23,7 +23,15 @@ countries: Ethiopia, France, Dominica
 |---|---|
 | Dominica part — Unit 9.2: taxes to discourage harmful products — teaches: high taxes on cigarettes and alcohol, the Barbados and Dominica "sugar tax" against obesity, and green taxes on waste, emissions and energy use that businesses avoid by cleaning up (Economics expansion, 2026-11-16; original placement slug: macroeconomics/taxes-to-correct-market-failure — stocked here as the closest existing lesson covering this thing) | Dominica, *Principles of Business for CSEC Examinations, Second Edition*, Unit 9.2: taxes to discourage harmful products — printed p. 328 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, France, Dominica).**
+**Book 4:** *Principles of Microeconomics for AP® Courses 2e* (student book, English) — OpenStax, Rice University; year 2017; ISBN 978-1-947172-45-6 (PDF version; hardcover 978-1-947172-44-9). Title as printed: Principles of Microeconomics for AP® Courses 2e. Grade: Grade 12 (AP® / introductory college level) (student/teacher: STUDENT). PDF pages: 575 (cover/title page verified against the record title; rescued file 30,894,376 bytes). Verdict: COMPLETE — full page-by-page read to the last teaching page (Chapter 20 and Appendices B–C). Rescue history: first filed without a read after grab.py (Git Blob API) truncated twice; the complete file was then fetched over the git protocol with its blob SHA verified against the repo tree, and this filing is from that verified complete file. Contents map: Economics parts — the whole book is Economics: Chapters 1–20, printed pp. 9–488; Appendix B (Indifference Curves) pp. 505–518; Appendix C (Present Discounted Value) pp. 519–562; Appendix A (The Use of Mathematics in Principles of Economics) pp. 489–504 is maths apparatus, named not placed; chapter-end Key Terms, Summaries and Review/Problem sets are assessment apparatus, not placed; Index pp. 563–end is inventory-only. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| United States part — 12.3 Market-Oriented Environmental Tools — teaches: market-oriented tools that price the externality — pollution charges, marketable permits and strengthened property rights — and which fits which situation | United States, *United States Grade 12 Principles of Microeconomics for AP® Courses 2e*, 12.3 Market-Oriented Environmental Tools — printed p. 289 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, France, Dominica, United States).**
+
+United States' own way (United States Grade 12 Principles of Microeconomics for AP® Courses 2e): an AP®-framed American university text — every model is run on US data and institutions (Bureau of Labor Statistics spending data, FRED series, US antitrust and environmental law, the US safety net, a US–Mexico trade worked example), dollars throughout, graph-first with a named four-step method for equilibrium changes.
 
 Dominica's own way: Economics lives inside the CSEC Principles of Business course — money, markets, banks, taxes, GDP and Caribbean problems (unemployment, migration, debt) are taught as the economics core of a business textbook, always through Caribbean cases (ECCB, CARICOM/CSME, sou-sou savings, the Barbados and Dominica sugar taxes). This lesson teaches the placement's content in the course's own words — the book's text itself is never transcribed.
 
@@ -31,4 +39,4 @@ France's own way (SES 2de, Manuels Libres): SES teaches economics, sociology and
 
 No matching teacher guide exists in this band: the book recorded as this text's teacher guide proved to be the 2011 GEQIP Grade 12 teacher's guide for the old syllabus, not this book's companion, and supplies no answer keys for it (proof in the placements file's verification block).
 
-Searchable tags: pigouvian taxes, subsidies and the coase theorem, grade 12 economics, ethiopia, france, ses, ecological taxation, housing aid, social studies, microeconomics, dominica, csec principles of business, caribbean
+Searchable tags: pigouvian taxes, subsidies and the coase theorem, grade 12 economics, ethiopia, france, ses, ecological taxation, housing aid, social studies, microeconomics, dominica, csec principles of business, caribbean, united states
