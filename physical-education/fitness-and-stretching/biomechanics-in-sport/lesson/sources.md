@@ -1,0 +1,16 @@
+# Sources — Biomechanics in Sport
+
+countries: United Kingdom
+
+**Acceptance count: taught in 1 country (United Kingdom).** United Kingdom is student-book stock (see its rows below), inside the acceptance count.
+
+**Book — United Kingdom GCSE Edexcel PE student book (student book):** *Edexcel GCSE (9-1) Physical Education Student Book, 2nd edition* (student book, English) — Title as printed: Edexcel GCSE (9-1) Physical Education — Tony Scott (cover: "2nd edition") — Grade: GCSE, Years 10–11 (student/teacher: STUDENT) — Publisher: Pearson Education; year first published 2016 (2nd edition; imprint number line 19 18 17 16); ISBN 978 1 29212 988 4 — PDF pages: 228 (cover verified against the record title; file size 20,156,655 B and MD5 match the archive.org item metadata exactly). Verdict: COMPLETE — read in full via the extracted text layer. The book's own "Preparing for your exam" sections (printed pp. 118, 176) are assessment preparation — named here, excluded from placements per the standing exclusions; the glossary (p. 205) and index (p. 210) are inventory-only, named, not placed. Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/united-kingdom-pe-placements.md. United Kingdom's own way: PE at GCSE is an examined academic subject — anatomy, physiology, movement analysis and training theory, plus health, psychology and the sociology of sport, with practical performance in three chosen activities and a written Personal Exercise Programme. The second United Kingdom record, *Edexcel GCSE Physical Education Student Book* (2009 edition, Pearson (Edexcel), archive.org item `edexcelgcsephysi0000scot`), is UNREAD — lending-restricted on archive.org, direct GET returned 401/403, no login routes permitted — with 0 placements; nothing is stocked from it.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — Lever systems — the three lever classes in the body and mechanical advantage in sport (original target `fitness-and-stretching/lever-systems-and-movement-analysis`) | United Kingdom, *Edexcel GCSE (9-1) Physical Education Student Book, 2nd edition* (United Kingdom GCSE Edexcel PE Student Book), Component 1 Topic 2.1, printed p. 50 |
+| Sub lesson 2 — Planes and axes of movement — the planes and axes along which sporting movements happen (original target `fitness-and-stretching/planes-and-axes-of-movement`) | United Kingdom, *Edexcel GCSE (9-1) Physical Education Student Book, 2nd edition* (United Kingdom GCSE Edexcel PE Student Book), Component 1 Topic 2.2, printed p. 55 |
+
+This is a canonical NEW lesson (slug-registry Part 1: `fitness-and-stretching/biomechanics-in-sport` — Biomechanics in sport: forces, levers, planes of movement, projectile flight, and analysing and correcting technique); the United Kingdom placements were filed under the original strings `fitness-and-stretching/lever-systems-and-movement-analysis` and `fitness-and-stretching/planes-and-axes-of-movement`, both resolved to this canonical slug by registry Part 2 and recorded in the provenance rows above. United Kingdom enters this lesson as student-book stock, inside the acceptance count.
+
+Searchable tags: biomechanics in sport, lever systems, three lever classes, mechanical advantage, planes and axes of movement, movement analysis, Edexcel GCSE Physical Education, United Kingdom GCSE Edexcel PE Student Book

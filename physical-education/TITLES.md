@@ -97,3 +97,13 @@ The PE expansion then added: **Kickball**
 (`ball-games/kickball`) and **Ultimate Frisbee**
 (`ball-games/ultimate-frisbee`)
 — 2 new lessons, bringing this course to 84 lessons.
+
+The PE expansion then added: **The Body in Exercise**
+(`fitness-and-stretching/the-body-in-exercise`),
+**Biomechanics in Sport**
+(`fitness-and-stretching/biomechanics-in-sport`),
+**Testing Your Fitness**
+(`fitness-and-stretching/testing-your-fitness`) and
+**Sports Nutrition and Hydration**
+(`fitness-and-stretching/sports-nutrition-and-hydration`)
+— 4 new lessons, bringing this course to 88 lessons.

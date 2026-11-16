@@ -160,6 +160,22 @@ third record, the 2011 secondary curriculum plan
 (Plano Curricular do Ensino Secundário, on Scribd), is
 UNREAD with 0 placements.
 
+**PE expansion — United Kingdom — BUILT 2026-11-16:** 21 placements
+from the United Kingdom's Edexcel GCSE (9-1) Physical
+Education Student Book, 2nd edition (GCSE, Years 10–11)
+stocked — 16 into existing lessons and 5 as 4 new lessons
+(The Body in Exercise; Biomechanics in Sport; Testing
+Your Fitness; Sports Nutrition and Hydration) — bringing
+this course to **88 lessons**. The book is a student book,
+filed as student-book stock, inside the acceptance counts.
+Four further placements from the same book resolve through
+the slug registry to Health-course lessons (preventing
+injury in training; mental preparation for performance;
+health, fitness and well-being; the sedentary lifestyle
+and obesity) and are not stocked in this course. The
+second record, the 2009 Edexcel GCSE student book, is
+UNREAD (archive.org lending-restricted) with 0 placements.
+
 ## Unit 1 — Moving Basics
 
 1. **Combined Travelling and On-the-Spot Movements** (`moving-basics/combined-travelling-and-on-the-spot`) — joining travelling movements together, joining on-the-spot movements together, and chaining the two families in one sequence.
@@ -180,6 +196,10 @@ UNREAD with 0 placements.
 4. **Muscle Strength and Endurance** (`fitness-and-stretching/muscle-strength-and-endurance`) — what muscle endurance is, and the movements that make legs, arms and stomach muscles work for a long time without tiring.
 5. **Stretching and Flexibility** (`fitness-and-stretching/stretching-and-flexibility`) — stretching and flexibility — what they are, why they prevent injury, and the stretches for neck, waist, arms and legs.
 6. **Staying Active for Life** (`fitness-and-stretching/staying-active-for-life`) — staying active for life: regular participation, activity outdoors and in the community, and keeping fitness for the long term — taught in Tajikistan's Grades 1–4 book as Your Sports Corner, setting up your own sports corner at home with a skipping rope, gymnastic equipment and space for morning exercises (Tajikistan's student book).
+7. **The Body in Exercise** (`fitness-and-stretching/the-body-in-exercise`) — the body in exercise: bones, joints, muscles and the body systems that produce movement — taught in the United Kingdom's GCSE book as the structure and functions of the musculo-skeletal system (United Kingdom's student book).
+8. **Biomechanics in Sport** (`fitness-and-stretching/biomechanics-in-sport`) — biomechanics in sport: forces, levers, planes of movement, projectile flight, and analysing and correcting technique — taught in the United Kingdom's GCSE book as lever systems, mechanical advantage, and planes and axes of movement (United Kingdom's student book).
+9. **Testing Your Fitness** (`fitness-and-stretching/testing-your-fitness`) — testing your fitness: the standard fitness tests, measuring the body, and reading your results — taught in the United Kingdom's GCSE book as fitness testing, its protocols and using its data (United Kingdom's student book).
+10. **Sports Nutrition and Hydration** (`fitness-and-stretching/sports-nutrition-and-hydration`) — sports nutrition and hydration: what to eat and drink for exercise, before, during and after competition — taught in the United Kingdom's GCSE book as energy use, diet, nutrition and hydration: energy balance, a balanced diet, and water and electrolytes for performers (United Kingdom's student book).
 
 ## Unit 3 — Gymnastics
 
