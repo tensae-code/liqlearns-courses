@@ -1,6 +1,6 @@
 # Sources — Beat Instruments
 
-countries: Ethiopia, Malta, Colombia
+countries: Ethiopia, Malta, Colombia, Bulgaria
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 85 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -23,8 +23,14 @@ countries: Ethiopia, Malta, Colombia
 
 | Colombia — Project 2, Subproject 1, Momento 2 "La fuerza y el poder de la percusión y de los idiófonos": percussion and idiophones — the hand-struck drums: bongos, congas, cununos, the tambora of merengue and the caja vallenata (student book; original target `music/beat-instruments`) | Book 4, printed pp. 110–119 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Colombia).** Malta is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 3 countries (Ethiopia, Colombia, Bulgaria).** Malta is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 3 closing exercise asks whether the atamo is one of the church beat instruments; the book's own §2.1.2 teaching places the atamo in secular music, and the lesson teaches that — the exercise item is carried in sources only, exactly as printed, and is not taught as church use. The bell, qachil and tsenatsil are named in this lesson's set because the book lists them in it; their teaching lives in the Church Instruments lesson, from the same page.
 
 Searchable tags: beat instruments, percussion, atamo, አታሞ, kebero, ከበሮ, negarit, ነጋሪት, proclamation drum, Malta, Music Shines, Colombia
+
+**Book 5:** *Музика за първи клас (Music for First Grade), by Адриан Георгиев, Ангелина Петрова, Мая Андасорова, Рая Ковачева* (student book, Bulgarian) — Bulgaria, ИК „РИВА“ АД, Sofia; year 2016 (2nd ed. 2018); ISBN 978-619-225-022-5. Grade: 1 (student/teacher: STUDENT). PDF pages: 68 (cover verified; byte size 20,284,508 and page count match the record exactly — this file's first two download attempts failed on the slow uchebnicite.bg server and it was completed by range-resume in this run). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bulgaria — Topic 30: Ударни инструменти (percussion instruments) (student book) | Book 5, printed p. 37 |

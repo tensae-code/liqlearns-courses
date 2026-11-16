@@ -1,6 +1,6 @@
 # Sources — Sculpture and Historic Places
 
-countries: Ethiopia, Maldives, Albania, Romania, Haiti, Serbia, Mozambique, Pakistan, Colombia, Belarus, Brazil
+countries: Ethiopia, Maldives, Albania, Romania, Haiti, Serbia, Mozambique, Pakistan, Colombia, Belarus, Brazil, Bulgaria
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -92,8 +92,15 @@ countries: Ethiopia, Maldives, Albania, Romania, Haiti, Serbia, Mozambique, Paki
 
 | Brazil — Folha 15 — Paraná's sculptors: João Turin's animalist works, Zaco Paraná's O Semeador, Erbo Stenzel's Praça 19 de Dezembro monuments (student book; original target `visual-art/sculpture-and-historic-places`) | Book 20, printed p. 240 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Maldives, Romania, Serbia, Mozambique, Pakistan, Colombia, Belarus, Brazil).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher programme — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 10 countries (Ethiopia, Maldives, Romania, Serbia, Mozambique, Pakistan, Colombia, Belarus, Brazil, Bulgaria).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher programme — evidence only, kept outside the acceptance count.
 
 Honesty notes: Sub lessons 5 and 6 rest on teacher-guide evidence and are labelled so in the lesson text and in this table; the lesson as a whole rests on student books (Books 1–6), so the acceptance count stands at 1 country. Book 7 (the Grade 8 teacher guide) is a truncated copy — body printed pp. 1–56 plus syllabus tables — and both of its parts used here (pp. 33–39 and pp. 53–56) sit inside the surviving body. Books 8 and 9 are teacher guides for grades with no student books in this set; their parts are evidence only. The Grade 7 student book's carving deep-dive is stocked here only as the fourth technique named inside the four-techniques part, exactly as its placement frames it against the other three.
 
 Searchable tags: Maldives, Exploring Creative Arts 4, sculpture, ኪነ ቅርፅ, in the round, ዙረያ ገባ, relief, ሪሊፍ, modelling, carving, assembling, ማያያዝና መገጣጠም, casting, ኪነ-ቅርፅን ማራባት, mould, ሞልድ, gypsum, ጀሶ, jute, ጆንያ, papier-mâché, monuments, artifacts, historic places, Romania, Haiti, Colombia, Brazil
+
+**Book 21:** *Изобразително изкуство за 8. клас (Fine Arts for Grade 8)* (student book, Bulgarian) — Bulgaria, Педагог 6 (Pedagog 6), Sofia; year 2024 (Second Edition; approved by Order РД 09-388/09.02.2024 of the Minister of Education and Science); ISBN 978-954-324-332-7. Authors: Мариета Петрова Савчева-Ангелова, Елена Веселинова Панайотова, Благомир Кирилов Папазов, Анна Илчева Цоловска. Grade: 8 (student/teacher: STUDENT). PDF pages: 50 (cover/title page verified against the record title; 57,104,388 bytes and 50 pages match the record exactly). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bulgaria — Модерно изкуство, §§2–3 Kinetic and Modern Sculpture — kinetic sculpture that actually moves: Alexander Calder's mobiles, Jean Tinguely's machines and Theo Jansen's wind-walking Strandbeesten; and modern sculpture: Lynn Chadwick's figures, Man Ray's surrealist "Gift" (1921) and Henry Moore's Re… (student book) | Book 21, printed pp. 15–16 |
+| Bulgaria — Скулптура (Sculpture) — sculpture works in volumetric three-dimensional forms, in clay, gypsum, stone, wood, bone, metal and plasticine; a work is preceded by sketches (ескизи) and studies (етюди) from nature, then a model in soft material, then the chosen materia… (student book) | Book 21, printed pp. 37–38 |

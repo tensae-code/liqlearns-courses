@@ -1,6 +1,6 @@
 # Sources — Caricature
 
-countries: Bhutan, Colombia, Sudan
+countries: Bhutan, Colombia, Sudan, Bulgaria
 
 **Book 1:** *Arts Education — Student's Workbook for Class IV* (student book, English) — Bhutan, Department of School Education (DSE), Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu, © 2023, revised edition 2021, reprint 2024, ISBN 178-99936-0-415-0 (as printed), Class IV, 30 PDF pp. STUDENT — student's workbook. Verdict: COMPLETE. Byte size 5,783,098 and MD5 match the record exactly; cover verified against the record title; fetched with grab.py (release route — the book lives in GitHub Releases), read in full as text in the 2026-11-16 Art expansion read, PDF deleted after filing. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bhutan-placements.md.
 
@@ -16,8 +16,14 @@ countries: Bhutan, Colombia, Sudan
 | Colombia — Módulo 1, Guía 4 "La figura humana en caricatura" — caricature and the comic from their beginnings as reflections of legends, through the press and advertising posters, to their fullest twentieth-century expression and the Japanese manga with its short lines, oversized head and small mouth; famous caricatures of all times (student book; original target `visual-art/caricature-drawing-with-exaggeration`) | Book 2, printed pp. 28–35 |
 | Sudan — Design & Ornament Topic "Designing Awareness Posters and Caricature Drawings", part 3: caricature — drawing in an unfamiliar way, distorted and exaggerated in character, bringing a personality's real-life role close to the viewer so an idea lands easily, simply and freely; the pupil draws a caricature from imagination telling a real life situation (student book; original target `visual-art/caricature-drawing`) | Book 3, printed p. 17 |
 
-**Acceptance count: taught in 3 countries (Bhutan, Colombia, Sudan).**
+**Acceptance count: taught in 4 countries (Bhutan, Colombia, Sudan, Bulgaria).**
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/caricature`); the Bhutan placements were filed as NEW LESSON NEEDED under the original string `visual-art/drawing-cartoon-faces`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Bhutan's own way, carried in the placements: a one-lesson-one-page workbook that builds the hand first — lines, curves, tone, mixing — then spends half its pages making things, with Bhutanese life (tshechu, losar) and Bhutan's own traditional forms as content.
 
 Searchable tags: caricature, cartoon faces, comic drawing, Bhutan, Colombia
+
+**Book 4:** *Изобразително изкуство за 9. клас (Fine Arts for Grade 9)* (student book, Bulgarian) — Bulgaria, Педагог 6 (Pedagog 6), Sofia; year 2024 (Second Edition; approved by Order РД 09-384/09.02.2024 of the Minister of Education and Science); ISBN 978-954-324-333-4. Authors: доц. д-р Мариета Петрова Савчева-Ангелова, Елена Веселинова Панайотова, доц. д-р Анна Илчева Цоловска, проф. д-р Благомир Кирилов Папазов. Grade: 9 (student/teacher: STUDENT). PDF pages: 34 (cover/title page verified against the record title; 38,891,240 bytes and 34 pages match the record exactly). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bulgaria — Създаване на карикатури и комикси (Creating Caricatures and Comics) — the road to a caricature begins with the шарж (charge): a lightly caricatured image with exaggerated emphasis on the specific features of the face, figure, pose and character; first sketch the composition in pencil, then shape the charge, a… (student book; original target `visual-art/making-caricatures-and-comics`) | Book 4, printed pp. 22–23 |

@@ -1,6 +1,6 @@
 # Sources — Cave Art and Church Painting
 
-countries: Ethiopia, Uganda, Romania, Trinidad and Tobago, Pakistan, Colombia, Sudan, Brazil
+countries: Ethiopia, Uganda, Romania, Trinidad and Tobago, Pakistan, Colombia, Sudan, Brazil, Bulgaria
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -50,8 +50,17 @@ countries: Ethiopia, Uganda, Romania, Trinidad and Tobago, Pakistan, Colombia, S
 
 | Brazil — Folha 3 "Você suporta Arte?" — cave painting: detailed Paleolithic animals against simplified Neolithic figures, Lascaux's Black Bull, natural pigments; drawing in both styles using only natural materials (student book; original target `visual-art/cave-art-and-church-painting`) | Book 11, printed p. 43 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Uganda, Romania, Pakistan, Colombia, Sudan, Brazil).** Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 8 countries (Ethiopia, Uganda, Romania, Pakistan, Colombia, Sudan, Brazil, Bulgaria).** Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count.
 
 Why cave people painted is not certainly known; the lesson teaches the scholars' suggestions — communication, worship and gatherings — as suggestions, exactly as the Grade 5 book gives them. The Grade 9 teacher-guide part is evidence only and is labelled so; it adds Dire Dawa as the guide's home example and the four types of Ethiopian painting, and the lesson does not present those guide-only details as pupil-taught.
 
 Searchable tags: cave art, Lascaux, Altamira, Porc-Epic, Lega Oda, Dire Dawa, Book of Paintings, መጽሐፈ ስዕላት, church painting, Debre Birhan Selassie, Romania, Colombia
+
+**Book 12:** *Изобразително изкуство за 8. клас (Fine Arts for Grade 8)* (student book, Bulgarian) — Bulgaria, Педагог 6 (Pedagog 6), Sofia; year 2024 (Second Edition; approved by Order РД 09-388/09.02.2024 of the Minister of Education and Science); ISBN 978-954-324-332-7. Authors: Мариета Петрова Савчева-Ангелова, Елена Веселинова Панайотова, Благомир Кирилов Папазов, Анна Илчева Цоловска. Grade: 8 (student/teacher: STUDENT). PDF pages: 50 (cover/title page verified against the record title; 57,104,388 bytes and 50 pages match the record exactly). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
+
+**Book 13:** *Изобразително изкуство за 9. клас (Fine Arts for Grade 9)* (student book, Bulgarian) — Bulgaria, Педагог 6 (Pedagog 6), Sofia; year 2024 (Second Edition; approved by Order РД 09-384/09.02.2024 of the Minister of Education and Science); ISBN 978-954-324-333-4. Authors: доц. д-р Мариета Петрова Савчева-Ангелова, Елена Веселинова Панайотова, доц. д-р Анна Илчева Цоловска, проф. д-р Благомир Кирилов Папазов. Grade: 9 (student/teacher: STUDENT). PDF pages: 34 (cover/title page verified against the record title; 38,891,240 bytes and 34 pages match the record exactly). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bulgaria — Изкуство и време (Art and Time), §1 Prehistoric Art — art appears almost together with speech; Palaeolithic art (40,000–10,000 BCE): the cave drawings of Chauvet (France, 30,000 BCE) and Altamira (Spain, 18,000 BCE) and the Venus of Willendorf (25,000 BCE); Neolithic art (8000–2000 BCE): Stone… (student book) | Book 12, printed pp. 6–8 |
+| Bulgaria — Изкуство и религия, practical task — paint a copy of an icon, following the sequence of its making: choose a suitable icon and photocopy it; lay transparent paper over the reproduction, fix it with clips and copy the contours and the most important details (face and facial fea… (student book) | Book 13, printed p. 6 |

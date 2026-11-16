@@ -1,6 +1,6 @@
 # Sources — School Songs
 
-countries: Ethiopia, Andorra, Barbados, Samoa, Nicaragua, Singapore, Malta, Finland, Turkmenistan, Fiji
+countries: Ethiopia, Andorra, Barbados, Samoa, Nicaragua, Singapore, Malta, Finland, Turkmenistan, Fiji, Bulgaria
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 96 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -55,8 +55,14 @@ countries: Ethiopia, Andorra, Barbados, Samoa, Nicaragua, Singapore, Malta, Finl
 | Turkmenistan — "Наша школа" (Our School; words G. Bäşiýew, music N. Muhadow, Russian text Yu. Kushak) — the school song, in the main text and the notation appendix (summary only) (student book; original target `music/school-songs`) | Book 13, printed pp. 10, 56 |
 | Fiji — Unit 3 Books — songs celebrating books and reading (Books I Love in English and iTaukei, the Library Song with its animal visitors), sung with meaning, expression and group movement (teacher guide — evidence; original target `music/songs-about-books-and-reading`) | Book 14, printed pp. 14–16 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Finland, Turkmenistan). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document and teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 4 countries (Ethiopia, Finland, Turkmenistan, Bulgaria). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document and teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Fidel song and the ABC song are charts sung, not lyrics: the letters in order are their content, and only the letter orders the placements themselves quote are printed in this lesson. The Grade 3 book prints the Twinkle song in English as its one full English text; this lesson names it and places it, and does not re-transcribe it.
 
 Searchable tags: school songs, ABC song, Twinkle Twinkle, fidel song, let's go to school, morning song, praising the teacher, ፊደል ከ ሀ እስከ ፐ, እንሂድ ትምህርት ቤት, ወንድሜ ያዕቆብ, ጠዋት ተነስተን, ኑር መምህሬ, Nicaragua, Malta, Music Shines, Finland
+
+**Book 15:** *Музика за четвърти клас (Music for Fourth Grade), by Адриан Георгиев, Мая Андасорова, Рая Ковачева* (student book, Bulgarian) — Bulgaria, РИВА (Riva), Sofia; year 2019; ISBN 978-619-225-098-0 (from the cover barcode). Grade: 4 (student/teacher: STUDENT). PDF pages: 68 (cover verified — "Музика за четвърти клас", Riva, 4. клас). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bulgaria — the book's singing stock of 41 songs (author songs and folk songs for the school year, contents-listed) — Bulgaria Grade 4 Riva Music, printed pp. 58–60 (contents; songs named only) (student book) | Book 15, printed pp. 58–60 (contents; songs named only) |

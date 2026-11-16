@@ -1,6 +1,6 @@
 # Sources — Moving to Music
 
-countries: Ethiopia, Guatemala, Canada, Barbados, Nicaragua, Singapore, Trinidad and Tobago, Malta, Finland, Fiji, Suriname
+countries: Ethiopia, Guatemala, Canada, Barbados, Nicaragua, Singapore, Trinidad and Tobago, Malta, Finland, Fiji, Suriname, Bulgaria
 
 **Book 2:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -61,8 +61,17 @@ countries: Ethiopia, Guatemala, Canada, Barbados, Nicaragua, Singapore, Trinidad
 | Fiji — Unit 8 Sea, Activity 3 — a tempo listening game: two groups stand and sit on cued words while singing, starting slowly and increasing tempo (teacher guide — evidence) | Book 14, printed p. 29 |
 | Suriname — Dance Les 3–4: leading, following, leaning and supporting — partner work inside group dance — meeting on your routes and taking over each other's movements, now leading, now following; and in Lesson 4 the agreed signs X, Y and Z that switch the group between dancing a route together, freezing together in a leaning-and-supporting group shape for at least three seconds "like a group photo", and changing movement form (teacher guide — evidence; original target `drama-and-dance/dance-partner-work`) | Book 18, printed pp. 71, 75–76 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Canada, Finland). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Finland's module-plan part (Book 17) is evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 4 countries (Ethiopia, Canada, Finland, Bulgaria). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Finland's module-plan part (Book 17) is evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 1 teacher-guide row is labelled evidence: it names the same free-movement strand at its Grade 1 root and does not change the count. The song ዳንስ (Dans) is placed by name, source (KCLS, as printed) and its direction content, exactly as the placement gives it; its verses are not transcribed.
 
 Searchable tags: free movement to music, free dance, partner dance, ዳንስ, Dans, directions, dances that carry values, appreciation, Grade 2, Nicaragua, Malta, Music Shines, Finland
+
+**Book 19:** *Музика за първи клас (Music for First Grade), by Адриан Георгиев, Ангелина Петрова, Мая Андасорова, Рая Ковачева* (student book, Bulgarian) — Bulgaria, ИК „РИВА“ АД, Sofia; year 2016 (2nd ed. 2018); ISBN 978-619-225-022-5. Grade: 1 (student/teacher: STUDENT). PDF pages: 68 (cover verified; byte size 20,284,508 and page count match the record exactly — this file's first two download attempts failed on the slow uchebnicite.bg server and it was completed by range-resume in this run). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bulgaria — Topic 8: Марш (the march — moving and listening in march time) (student book) | Book 19, printed p. 12 |
+| Bulgaria — Topic 11: Музика и танц (music and dance together) (student book) | Book 19, printed p. 16 |
+| Bulgaria — Topics 34–35: Ръченица and Народни танци (the Rachenitsa and folk dances) (student book) | Book 19, printed pp. 42, 43 |
+| Bulgaria — Topics 37–38: Валс and Валс и ръченица (the waltz, and waltz beside rachenitsa — two dance characters compared) (student book) | Book 19, printed pp. 45, 46 |

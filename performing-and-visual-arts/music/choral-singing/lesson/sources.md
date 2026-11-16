@@ -1,6 +1,6 @@
 # Sources — Choral Singing
 
-countries: Honduras, Morocco
+countries: Honduras, Morocco, Bulgaria
 
 **Book 1:** *Libro del Estudiante — Educación Artística — 7mo Grado (Telebásica)* (student book, Spanish) — Honduras, Secretaría de Educación, República de Honduras (Programa de Televisión Educativa Hondureña — Telebásica); author Licda. Corina Milikza Hernández Estrada; no year printed on the pages read; no ISBN printed, Grade 7, 207 PDF pp. STUDENT. Verdict: COMPLETE. Fetched from the recorded libroshonduras.com source URLs. Placements at liqlearns-courses-work/expansion-art-2026-11-16/honduras-placements.md.
 
@@ -15,8 +15,14 @@ countries: Honduras, Morocco
 |---|---|
 | Morocco — "The Vocal Group" (المجموعة الصوتية) — the choir (la chorale) and its conductor — a song's sections may be sung by the whole choir, alternated between boys and girls, or sung solo by one member, and playing likewise is solo or ensemble (the band with its conductor); the class forms choirs, takes turns conducting, and accompanies on simple instruments or table-tapping (teacher guide — evidence; original target `music/the-choir-and-its-conductor`) | Book 2, printed p. 109 |
 
-**Acceptance count: taught in 1 country (Honduras).** Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 2 countries (Honduras, Bulgaria).** Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/choral-singing`). Honduras's own way: the Grade 7 Telebásica book teaches choral singing as singing the country's own music together — voice-tuning and choral direction in one sequence. Songs are placed by kind and purpose only, never transcribed.
 
 Searchable tags: choral singing, choir, dirección coral, canto coral, Honduras
+
+**Book 3:** *Музика за първи клас (Music for First Grade), by Адриан Георгиев, Ангелина Петрова, Мая Андасорова, Рая Ковачева* (student book, Bulgarian) — Bulgaria, ИК „РИВА“ АД, Sofia; year 2016 (2nd ed. 2018); ISBN 978-619-225-022-5. Grade: 1 (student/teacher: STUDENT). PDF pages: 68 (cover verified; byte size 20,284,508 and page count match the record exactly — this file's first two download attempts failed on the slow uchebnicite.bg server and it was completed by range-resume in this run). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bulgaria — Topic 10: Детски хор (the children's choir — singing together in a choir) (student book; original target `music/childrens-choir`) | Book 3, printed p. 15 |

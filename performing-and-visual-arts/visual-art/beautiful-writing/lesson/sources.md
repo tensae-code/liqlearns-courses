@@ -1,6 +1,6 @@
 # Sources — Beautiful Writing
 
-countries: Ethiopia, Kuwait, Egypt, Nicaragua, Serbia, Pakistan, Sudan, Belarus, Iran, Brazil, Morocco
+countries: Ethiopia, Kuwait, Egypt, Nicaragua, Serbia, Pakistan, Sudan, Belarus, Iran, Brazil, Morocco, Bulgaria
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -113,7 +113,7 @@ countries: Ethiopia, Kuwait, Egypt, Nicaragua, Serbia, Pakistan, Sudan, Belarus,
 |---|---|
 | Morocco — "The Art of Calligraphy" (فن الخط) — calligraphy defined as the art of beautiful writing in the world's languages; Arabic writing is joined and takes geometric shapes, which gives it its special beauty; pupils write the motto "God, Homeland, King" and colour the Basmala (teacher guide — evidence; original target `visual-art/beautiful-writing`) | Book 22, printed p. 48 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Kuwait, Egypt, Serbia, Pakistan, Sudan, Belarus, Iran, Brazil). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 10 countries (Ethiopia, Kuwait, Egypt, Serbia, Pakistan, Sudan, Belarus, Iran, Brazil, Bulgaria). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Honesty notes: the Grade 5 calligraphy plates placement (single/double/shaded examples in Amharic and English, with a two-tied-pencils GIF need) is stocked inside Sub lesson 5's practice set, where the Grade 6 book turns the same two-tools method into practice; no separate plate part is claimed. Line-kind Amharic names and spellings (ቋሚ, አግድም, ሠያፍ, ጎባጣ, ወጣ ገባ, ነጠላ, ድርብ) are copied exactly from the Grade 3 placements.
 
@@ -122,3 +122,9 @@ Kuwait honesty notes, carried exactly as filed: Kuwait's own way — beautiful w
 Egypt honesty notes, carried exactly as filed: Egypt's own way — beautiful writing is practised as pure copying: the whole workbook is page after page of one model sentence written in Ruqʿah script (خط الرقعة) at the head of the page and printed again mid-page, with ruled lines between and below for the pupil to copy it over and over, each page closed by date and grade lines for the teacher. Exclusions: none named for this workbook — it carries no separate assessment or glossary sections; its back cover carries five value statements in print (not pupil teaching items).
 
 Searchable tags: calligraphy, ኪነ-ፅህፈት, beautiful writing, letter forms, single writing, ነጠላ, double writing, ድርብ, line types, ቋሚ, አግድም, ሠያፍ, ጎባጣ, ወጣ ገባ, fidel, English letters, Yigezu Bisrat, ሰላም, Kuwait, Arabic calligraphy, الخط العربي, Naskh, خط النسخ, Ruqʿah, خط الرقعة, Noura Khaled Al-Owaiban Al-Enezi, Egypt, Egypt Grade 9 calligraphy, Nicaragua, Brazil
+
+**Book 23:** *Изобразително изкуство за 8. клас (Fine Arts for Grade 8)* (student book, Bulgarian) — Bulgaria, Педагог 6 (Pedagog 6), Sofia; year 2024 (Second Edition; approved by Order РД 09-388/09.02.2024 of the Minister of Education and Science); ISBN 978-954-324-332-7. Authors: Мариета Петрова Савчева-Ангелова, Елена Веселинова Панайотова, Благомир Кирилов Папазов, Анна Илчева Цоловска. Grade: 8 (student/teacher: STUDENT). PDF pages: 50 (cover/title page verified against the record title; 57,104,388 bytes and 50 pages match the record exactly). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bulgaria — Шрифт (Typeface) — the typeface defined: a set of graphic drawings of letter outlines and signs in one stylistic and compositional system; the first writing was pictography — information as pictures on rock, cave walls, bone and skin; cuneiform of Sumer and t… (student book) | Book 23, printed pp. 19–22 |

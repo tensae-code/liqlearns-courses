@@ -1,6 +1,6 @@
 # Sources — Appreciating the Arts
 
-countries: Ethiopia, Cyprus, Jamaica, Andorra, Guatemala, Canada, Barbados, Singapore, Trinidad and Tobago, Serbia, Malta, Finland, Turkmenistan, Fiji, Colombia, Sudan, Belarus, Iran, Brazil
+countries: Ethiopia, Cyprus, Jamaica, Andorra, Guatemala, Canada, Barbados, Singapore, Trinidad and Tobago, Serbia, Malta, Finland, Turkmenistan, Fiji, Colombia, Sudan, Belarus, Iran, Brazil, Bulgaria
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -86,7 +86,7 @@ countries: Ethiopia, Cyprus, Jamaica, Andorra, Guatemala, Canada, Barbados, Sing
 
 | Brazil — Folha 1 — the Bienal: international art exhibitions (Venice 1895, São Paulo 1951) as places where art is shown and judged (student book; original target `first-steps/appreciating-the-arts`) | Book 24, printed p. 12 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Canada, Serbia, Finland, Turkmenistan, Fiji, Colombia, Sudan, Belarus, Iran, Brazil).** Cyprus is added as teacher unit material — evidence only, kept outside the acceptance count. Jamaica is added as teacher curriculum guide — evidence only, kept outside the acceptance count. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Finland's module-plan part (Book 16) is evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 12 countries (Ethiopia, Canada, Serbia, Finland, Turkmenistan, Fiji, Colombia, Sudan, Belarus, Iran, Brazil, Bulgaria).** Cyprus is added as teacher unit material — evidence only, kept outside the acceptance count. Jamaica is added as teacher curriculum guide — evidence only, kept outside the acceptance count. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Finland's module-plan part (Book 16) is evidence only, kept outside the acceptance count.
 
 The Sof Omar and Tis Abay Falls photographs are also the stock of the Photographs lesson in the Visual Art title; per the course structure map, their Grade 3 review placement is stocked here as appreciation content — the activity the book itself sets ('say which of the photographs pleased you'). The two definitions of appreciation (Grade 3's visiting-and-looking, Grade 2's expressing-by-doing) are both taught, as the books state them; they complete each other and neither is silently preferred.
 
@@ -97,3 +97,21 @@ The Sof Omar and Tis Abay Falls photographs are also the stock of the Photograph
 | Belarus — Part 4, "How to learn to listen to music": learning to stay inside a work — Lybin's "The House with a Ghost" (fragment) and a fragment of Mozart's Symphony No. 40 (student book; original target `first-steps/appreciating-the-arts`) | Book 22, printed pp. 125–130 |
 | Iran — Module 1, Looking, listening and behaviour: how we perceive art: looking, listening and behaving before a work, including showing feelings such as anxiety and fear in groups without words (student book) | Book 23, printed p. 11 |
 Searchable tags: appreciating the arts, appreciation, visiting, ጉብኝት, Sof Omar, Tis Abay, Malta, Music Shines, Finland, Colombia, Brazil
+
+**Book 25:** *Музика за четвърти клас (Music for Fourth Grade), by Адриан Георгиев, Мая Андасорова, Рая Ковачева* (student book, Bulgarian) — Bulgaria, РИВА (Riva), Sofia; year 2019; ISBN 978-619-225-098-0 (from the cover barcode). Grade: 4 (student/teacher: STUDENT). PDF pages: 68 (cover verified — "Музика за четвърти клас", Riva, 4. клас). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
+
+**Book 26:** *Музика за първи клас (Music for First Grade), by Адриан Георгиев, Ангелина Петрова, Мая Андасорова, Рая Ковачева* (student book, Bulgarian) — Bulgaria, ИК „РИВА“ АД, Sofia; year 2016 (2nd ed. 2018); ISBN 978-619-225-022-5. Grade: 1 (student/teacher: STUDENT). PDF pages: 68 (cover verified; byte size 20,284,508 and page count match the record exactly — this file's first two download attempts failed on the slow uchebnicite.bg server and it was completed by range-resume in this run). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
+
+**Book 27:** *Музика за втори клас (Music for Second Grade), by Адриан Георгиев, Мая Андасорова, Рая Ковачева* (student book, Bulgarian) — Bulgaria, ИК „РИВА“ АД, Sofia; year 2017; ISBN 978-619-225-040-9. Grade: 2 (student/teacher: STUDENT). PDF pages: 68 (cover verified; byte size 16,220,641 and page count match the record exactly; completed by range-resume after two failed attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
+
+**Book 28:** *Музика за трети клас (Music for Third Grade), by Адриан Георгиев, Мая Андасорова, Рая Ковачева* (student book, Bulgarian) — Bulgaria, ИК „РИВА“ АД, Sofia; year 2017; ISBN 978-619-225-077-5. Grade: 3 (student/teacher: STUDENT). PDF pages: 60 (cover verified; byte size 21,503,567 and page count match the record exactly; completed by range-resume after two failed attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bulgaria — Topic 47: Музикална разходка (a musical walk — a listening journey gathering the year's music) (student book) | Book 25, printed p. 54 |
+| Bulgaria — Topic 6: Настроение в музиката (mood in music) (student book) | Book 26, printed p. 8 |
+| Bulgaria — Topic 26: Изпълнител, слушател, публика (performer, listener, audience — the three roles of music) (student book) | Book 26, printed p. 33 |
+| Bulgaria — Topics 12–13: Авторска музика and Композитор (composed/author music, and what a composer is) (student book) | Book 27, printed pp. 18, 19 |
+| Bulgaria — Topics 31 and 34: Музикална разходка (a musical walk) and Инструментална музика (instrumental music as a kind) (student book) | Book 27, printed pp. 48, 54 |
+| Bulgaria — Topic 17: На гости на български изпълнители (a visit to Bulgarian performers) (student book) | Book 28, printed p. 25 |
+| Bulgaria — Topics 36 and 38: Музикална разходка (a musical walk) and Празничен концерт (a festive concert) (student book) | Book 28, printed pp. 46, 50 |

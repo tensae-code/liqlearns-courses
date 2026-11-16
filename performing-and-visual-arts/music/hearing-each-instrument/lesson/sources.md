@@ -1,6 +1,6 @@
 # Sources — Hearing Each Instrument
 
-countries: Ethiopia, United Kingdom, Andorra, Barbados, Honduras, Albania, Singapore, Trinidad and Tobago, Iceland, Malta, Fiji, Colombia, Belarus, Morocco
+countries: Ethiopia, United Kingdom, Andorra, Barbados, Honduras, Albania, Singapore, Trinidad and Tobago, Iceland, Malta, Fiji, Colombia, Belarus, Morocco, Bulgaria
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -68,8 +68,28 @@ countries: Ethiopia, United Kingdom, Andorra, Barbados, Honduras, Albania, Singa
 |---|---|
 | Morocco — "I Distinguish String Instruments by Sound" (أميز أصوات آلات وترية) — knowing string instruments by ear — raising the right hand for a string sound (violin, qanun, banjo, watar, rabab, oud) and the left for a non-string sound (darbuka, tabl), then writing the name of each string instrument heard (oud, violin, rabab, qanun, ginbri, guitar) (teacher guide — evidence; original target `music/hearing-each-instrument`) | Book 16, printed p. 141 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, United Kingdom, Honduras, Colombia, Belarus).** Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 6 countries (Ethiopia, United Kingdom, Honduras, Colombia, Belarus, Bulgaria).** Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The song is placed by name, purpose and teaching content only — its words are never transcribed; only the sound-words are the teaching content, as the placements state. A coffee-ceremony painting printed with the Grade 1 chapter's singing work belongs to the course's appreciation material and is not stocked as a part of this lesson.
 
 Searchable tags: hearing instruments by sound, We Too Have Music, እኛም አለን ሙዚቃ, trumpet, ጥሩንባ, listening, Iceland, Dægurspor, Malta, Music Shines, Colombia
+
+**Book 17:** *Музика за четвърти клас (Music for Fourth Grade), by Адриан Георгиев, Мая Андасорова, Рая Ковачева* (student book, Bulgarian) — Bulgaria, РИВА (Riva), Sofia; year 2019; ISBN 978-619-225-098-0 (from the cover barcode). Grade: 4 (student/teacher: STUDENT). PDF pages: 68 (cover verified — "Музика за четвърти клас", Riva, 4. клас). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
+
+**Book 18:** *Музика за първи клас (Music for First Grade), by Адриан Георгиев, Ангелина Петрова, Мая Андасорова, Рая Ковачева* (student book, Bulgarian) — Bulgaria, ИК „РИВА“ АД, Sofia; year 2016 (2nd ed. 2018); ISBN 978-619-225-022-5. Grade: 1 (student/teacher: STUDENT). PDF pages: 68 (cover verified; byte size 20,284,508 and page count match the record exactly — this file's first two download attempts failed on the slow uchebnicite.bg server and it was completed by range-resume in this run). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
+
+**Book 19:** *Музика за втори клас (Music for Second Grade), by Адриан Георгиев, Мая Андасорова, Рая Ковачева* (student book, Bulgarian) — Bulgaria, ИК „РИВА“ АД, Sofia; year 2017; ISBN 978-619-225-040-9. Grade: 2 (student/teacher: STUDENT). PDF pages: 68 (cover verified; byte size 16,220,641 and page count match the record exactly; completed by range-resume after two failed attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
+
+**Book 20:** *Музика за трети клас (Music for Third Grade), by Адриан Георгиев, Мая Андасорова, Рая Ковачева* (student book, Bulgarian) — Bulgaria, ИК „РИВА“ АД, Sofia; year 2017; ISBN 978-619-225-077-5. Grade: 3 (student/teacher: STUDENT). PDF pages: 60 (cover verified; byte size 21,503,567 and page count match the record exactly; completed by range-resume after two failed attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bulgaria — Topic 16: Тембър (timbre — telling instruments and voices by their sound colour) (student book) | Book 17, printed p. 19 |
+| Bulgaria — Topics 22–24 (listening): the groups of the symphony orchestra, kinds of orchestras, and musical instruments heard and named (student book) | Book 17, printed pp. 33–36 |
+| Bulgaria — Topics 25, 27, 28, 39, 40: Пиано, Цигулка (violin), Контрабас (double bass), Тромпет (trumpet) and Оркестър (the orchestra) — meeting the instruments one by one (student book) | Book 18, printed pp. 32, 34, 35, 47, 48 |
+| Bulgaria — Topic 36: Видове гласове (kinds of voices) (student book) | Book 18, printed p. 44 |
+| Bulgaria — Topics 20–22: Китара (guitar), Арфа (harp) and Струнни музикални инструменти (string instruments as a family) (student book) | Book 19, printed pp. 30–32 |
+| Bulgaria — Topic 24: Флейта (the flute) (student book) | Book 19, printed p. 36 |
+| Bulgaria — Topic 27: Музикални инструменти (musical instruments gathered) (student book) | Book 19, printed p. 40 |
+| Bulgaria — Topics 14–16: Орган (organ), Акордеон (accordion), Кларинет (clarinet) (student book) | Book 20, printed pp. 22–24 |
+| Bulgaria — Topic 18: Духови инструменти (wind instruments as a family) (student book) | Book 20, printed p. 26 |

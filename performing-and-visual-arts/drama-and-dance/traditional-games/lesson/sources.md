@@ -1,6 +1,6 @@
 # Sources — Traditional Games
 
-countries: Ethiopia, Iceland, Turkmenistan, Belarus
+countries: Ethiopia, Iceland, Turkmenistan, Belarus, Bulgaria
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -30,8 +30,14 @@ countries: Ethiopia, Iceland, Turkmenistan, Belarus
 
 | Belarus — Part 1, "The joyful world of play": the counting rhyme (Lichylka, words Klimkovich, music Voitsik) and the game folk song "Siuka-voronka" (student book; original target `drama-and-dance/traditional-games`) | Book 6, printed pp. 31–33 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Turkmenistan, Belarus).** Iceland is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 4 countries (Ethiopia, Turkmenistan, Belarus, Bulgaria).** Iceland is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Per STRUCTURE.md, the Practical Exercises chapter opener stocks into this lesson as its opening part; the opener's other strands (notes on drums, colour mixing, calligraphy, leaf printing) belong to their own lessons and are not stocked here, and its Review fold is carried by those same lessons. The games' songs (the Dimbushe Gela song, the Qilmosh counting song beyond the one refrain line the placement itself quotes, and ገመድ ዝለሉ Gemed Zilelu) are placed by name and shape only; verses are not transcribed.
 
 Searchable tags: traditional games, ሰኞ ማክሰኞ, Senyo Maksenyo, ድብብቆሽ, hide-and-seek, ድምቡሸ ገላ, Dimbushe Gela, ቅልሞሽ, Qilmosh, ገመድ ዝላይ, rope jumping, ሳንካ, sanka, jebena, rekebot, Grade 1, Grade 2, Grade 3, Iceland, Dægurspor
+
+**Book 7:** *Музика за първи клас (Music for First Grade), by Адриан Георгиев, Ангелина Петрова, Мая Андасорова, Рая Ковачева* (student book, Bulgarian) — Bulgaria, ИК „РИВА“ АД, Sofia; year 2016 (2nd ed. 2018); ISBN 978-619-225-022-5. Grade: 1 (student/teacher: STUDENT). PDF pages: 68 (cover verified; byte size 20,284,508 and page count match the record exactly — this file's first two download attempts failed on the slow uchebnicite.bg server and it was completed by range-resume in this run). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bulgaria — Topic 13: Народни игри (folk games) (student book) | Book 7, printed p. 19 |

@@ -1,6 +1,6 @@
 # Sources — Traditional Music and What It Does
 
-countries: Ethiopia, Haiti
+countries: Ethiopia, Haiti, Bulgaria
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -14,8 +14,14 @@ countries: Ethiopia, Haiti
 
 | Haiti — Séance 1, La musique comme moyen de communication — music is a means of communication and a language — the classic scheme sender → message → receiver applied to music; music emits emotions and makes the listener feel emotions (teacher guide — evidence; original target `music/music-as-communication`) | Book 2, printed p. 2 |
 
-**Acceptance count: taught in 1 country (Ethiopia).** Haiti is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 2 countries (Ethiopia, Bulgaria).** Haiti is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Content is the Grade 5 student book's §3.1.1 and its uses list, taught as printed (printed pp. 85–86); no song is transcribed.
 
 Searchable tags: traditional music, culture, society's marks, social communication, national feeling, heroism, love of country, Haiti
+
+**Book 3:** *Музика за втори клас (Music for Second Grade), by Адриан Георгиев, Мая Андасорова, Рая Ковачева* (student book, Bulgarian) — Bulgaria, ИК „РИВА“ АД, Sofia; year 2017; ISBN 978-619-225-040-9. Grade: 2 (student/teacher: STUDENT). PDF pages: 68 (cover verified; byte size 16,220,641 and page count match the record exactly; completed by range-resume after two failed attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bulgaria — Topic 11: Народна музика (folk music — the people's own music) (student book) | Book 3, printed p. 16 |

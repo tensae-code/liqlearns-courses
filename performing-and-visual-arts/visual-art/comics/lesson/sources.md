@@ -1,6 +1,6 @@
 # Sources — Comics
 
-countries: Maldives, Honduras, Haiti, Serbia, Finland, Mozambique, Colombia, Brazil
+countries: Maldives, Honduras, Haiti, Serbia, Finland, Mozambique, Colombia, Brazil, Bulgaria
 
 **Book 1:** *Exploring Creative Arts 4* (student book, English) — Maldives, National Institute of Education, Ministry of Education, Malé, Maldives; © 2025, first published 2025; ISBN 978-99915-0-956-3 (paperback); development editor Shirumeen Ahmed; printed by M7 Print Pvt. Ltd. Based on the Creative Arts in the National Curriculum syllabus, 2022. 93 PDF pp (printed pp. 1–81 plus acknowledgements and back cover; cover verified — two children painting at easels). Verdict: COMPLETE. Read in full as extracted text in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/maldives-placements.md. The book's glossary (printed pp. 79–81) is inventory only, named here and never stocked as parts.
 
@@ -42,8 +42,14 @@ countries: Maldives, Honduras, Haiti, Serbia, Finland, Mozambique, Colombia, Bra
 
 | Brazil — Folha 5 — Lichtenstein and the language of comics: panels, speech balloons, onomatopoeia, flat colour with black outline; enlarging a comic panel 1:10 (student book; original target `visual-art/comics-as-art`) | Book 10, printed p. 91 |
 
-**Acceptance count: taught in 7 countries (Maldives, Honduras, Serbia, Finland, Mozambique, Colombia, Brazil).** Haiti is added as teacher programme — evidence only, kept outside the acceptance count. Finland's module-plan part (Book 6) is evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 8 countries (Maldives, Honduras, Serbia, Finland, Mozambique, Colombia, Brazil, Bulgaria).** Haiti is added as teacher programme — evidence only, kept outside the acceptance count. Finland's module-plan part (Book 6) is evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/comics`); the Maldives placement was filed under the original string `visual-art/character-design`, recorded in the provenance rows above. The digital building of the same character is stocked in Digital and Computer Art, from the same unit's digital pages.
 
 Searchable tags: comics, character design, cartoon characters, Kyle and Lulu, Hussain Ihwan, Maldives, Exploring Creative Arts 4, Haiti, Finland, Colombia, Brazil
+
+**Book 11:** *Изобразително изкуство за 9. клас (Fine Arts for Grade 9)* (student book, Bulgarian) — Bulgaria, Педагог 6 (Pedagog 6), Sofia; year 2024 (Second Edition; approved by Order РД 09-384/09.02.2024 of the Minister of Education and Science); ISBN 978-954-324-333-4. Authors: доц. д-р Мариета Петрова Савчева-Ангелова, Елена Веселинова Панайотова, доц. д-р Анна Илчева Цоловска, проф. д-р Благомир Кирилов Папазов. Grade: 9 (student/teacher: STUDENT). PDF pages: 34 (cover/title page verified against the record title; 38,891,240 bytes and 34 pages match the record exactly). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bulgaria — Изкуството на карикатурата (The Art of Caricature) — caricature and the comic created by artists who express elegantly and often wittily what they want to share with viewers, making them reflect on themes or on themselves and reach conclusions with a smile (caricaturist Brian Farrington: the… (student book; original target `visual-art/caricature-and-comics`) | Book 11, printed pp. 18–21 |

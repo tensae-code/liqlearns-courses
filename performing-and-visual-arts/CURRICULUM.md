@@ -1844,7 +1844,71 @@ lessons are the books'.
   Reggada, and children personifying Moroccan cities
   in regional dress.
 
-**The whole course stands at 489 lessons, 6,270 questions and
+**Art expansion — Bulgaria (2026-11-16):** 126 placements
+  stocked from 7 student books: *Fine Arts for
+  Grades 8, 9 and 10* (Педагог 6, Sofia, 2024, second
+  editions) and *Музика (Music) for Grades 1–4*
+  (РИВА / Riva, Sofia, 2016–2019). All are STUDENT
+  books, so Bulgaria counts in every stocked lesson's
+  acceptance count. 104 placements into existing and
+  already-built canonical lessons (Hearing Each
+  Instrument ×9; Faster Notes, Dynamics and Tempo ×7;
+  Festivals and Their Arts ×7; Appreciating the Arts
+  ×7; Reading Music on the Staff ×6; The Elements of
+  Music ×6; Reading the Beat ×6; and the rest), and
+  22 into 15 NEW lessons (First Steps: The Artist and
+  Creativity ×2. Visual Art: Modern Art Movements
+  ×2; Contemporary Architecture; Bulgarian Folk
+  Crafts and Decorative Art; Carving and
+  Woodcarving; Protest Art and Art Activism;
+  Exhibiting Art and Museums. Music: Music
+  Technology and Electronic Instruments ×2;
+  Bulgarian Folk Music ×2; Bulgarian Folk
+  Instruments ×2. Drama and Dance: Bulgarian Horo
+  Dances ×3. Culture and Values: Bulgarian Art
+  Through the Ages; Art and Religion; Art Around
+  the World Research; Art of Oceania and the
+  Ancient Americas), 180 questions added, media as
+  described slots only. Registry resolutions
+  carried: the reader strings are resolved in
+  slug-registry Part 2 throughout — among them
+  art-of-the-ancient-and-medieval-worlds → History
+  of Art; renaissance-baroque-and-romantic-art →
+  Renaissance Art; the-artwork-and-the-museum →
+  Museums and Galleries; contemporary-art-forms →
+  Modern and Contemporary Art; book-design-and-
+  illustration and visual-interpretation-of-a-text
+  → Illustration and Book Design; caricature-and-
+  comics → Comics; making-caricatures-and-comics →
+  Caricature; carving-fruit-and-materials →
+  Carving and Woodcarving; virtual-museums →
+  Exhibiting Art and Museums; design-technologies
+  → Design Thinking and Design Technology;
+  digital-art-and-design → Digital and Computer
+  Art; graffiti-and-street-art → Street Art and
+  Graffiti; electronic-instruments-and-sound →
+  Music Technology and Electronic Instruments;
+  bulgarian-folk-music (filed under Culture and
+  Values) and visiting-a-folk-ensemble → Bulgarian
+  Folk Music; childrens-choir → Choral Singing;
+  choirs-and-vocal-music → Choir and Choral
+  Singing. Honesty carried exactly as filed: all
+  seven books are COMPLETE and read in full; songs
+  are placed by name and summary only, never
+  transcribed; the entry tests, review and
+  assessment sections named in the placements are
+  excluded as filed. Bulgaria's own way is kept as
+  named parts: the gallery-first Fine Arts years
+  that weave Bulgaria's own art — Varna necropolis,
+  Kazanlak tomb, Boyana Church, the Revival
+  monasteries — into the world story at every
+  epoch, and the Riva music years built equally on
+  Bulgarian folk music — gaida, kaval, gadulka,
+  tambura and tapan, the horo dances in uneven
+  metres, and the counted uneven pulse taught as a
+  skill of its own.
+
+**The whole course stands at 504 lessons, 6,450 questions and
 210 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 

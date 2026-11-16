@@ -1,6 +1,6 @@
 # Sources — Sounds Around Us
 
-countries: Ethiopia, Andorra, Samoa, Nicaragua, Singapore, Malta, Turkmenistan, Fiji, Colombia, Papua New Guinea, Brazil
+countries: Ethiopia, Andorra, Samoa, Nicaragua, Singapore, Malta, Turkmenistan, Fiji, Colombia, Papua New Guinea, Brazil, Bulgaria
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -80,8 +80,14 @@ countries: Ethiopia, Andorra, Samoa, Nicaragua, Singapore, Malta, Turkmenistan, 
 
 | Brazil — Folha 10 "O som nosso de cada dia" — sound sources and vibration; the resonance box that amplifies sound in guitar, piano and wind instruments (student book; original target `music/sounds-around-us`) | Book 21, printed p. 158 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Turkmenistan, Colombia, Brazil). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 5 countries (Ethiopia, Turkmenistan, Colombia, Brazil, Bulgaria). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
 
 No staff notation is claimed for Grade 1: the Grade 1 book teaches music by ear, and this lesson follows it. The teacher-guide part is evidence for the listening-first way of working; the pupil-taught parts stand on the two student textbooks.
 
 Searchable tags: sounds around us, listening, sound, imitating sounds, ear, birds, animals, instruments, አካባቢያችን, Nicaragua, Malta, Music Shines, Colombia, Papua New Guinea, Brazil
+
+**Book 22:** *Музика за първи клас (Music for First Grade), by Адриан Георгиев, Ангелина Петрова, Мая Андасорова, Рая Ковачева* (student book, Bulgarian) — Bulgaria, ИК „РИВА“ АД, Sofia; year 2016 (2nd ed. 2018); ISBN 978-619-225-022-5. Grade: 1 (student/teacher: STUDENT). PDF pages: 68 (cover verified; byte size 20,284,508 and page count match the record exactly — this file's first two download attempts failed on the slow uchebnicite.bg server and it was completed by range-resume in this run). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bulgaria — Topics 1–3: Да се запознаем / Отивам на училище / Звукови картини (meeting music, going to school, sound pictures — the sounds around us pictured in music) (student book) | Book 22, printed pp. 2–4 |

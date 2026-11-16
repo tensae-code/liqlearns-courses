@@ -1,6 +1,6 @@
 # Sources — Faster Notes, Dynamics and Tempo
 
-countries: Ethiopia, United Kingdom, Barbados, Albania, Nicaragua, Singapore, Trinidad and Tobago, Iceland, Haiti, Malta, Turkmenistan, Fiji, Suriname, Colombia, Belarus, Papua New Guinea, Morocco
+countries: Ethiopia, United Kingdom, Barbados, Albania, Nicaragua, Singapore, Trinidad and Tobago, Iceland, Haiti, Malta, Turkmenistan, Fiji, Suriname, Colombia, Belarus, Papua New Guinea, Morocco, Bulgaria
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -96,8 +96,26 @@ countries: Ethiopia, United Kingdom, Barbados, Albania, Nicaragua, Singapore, Tr
 |---|---|
 | Morocco — "I Learn the Eighth Note and the Eighth Rest" (أتعرف أحادية السن ونصف الزفرة) — the eighth note (أحادية السن) — a sound sign in two shapes worth half a beat, its beat kept by four light taps or by folding four fingers in turn — and the eighth rest (نصف الزفرة), the matching silence sign; writing both on the staff and reading short passages on Fa, Sol and La (teacher guide — evidence; original target `music/faster-notes-dynamics-and-tempo`) | Book 23, printed p. 66 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, United Kingdom, Turkmenistan, Fiji, Colombia, Belarus). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 7 countries (Ethiopia, United Kingdom, Turkmenistan, Fiji, Colombia, Belarus, Bulgaria). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 5 book's tempo table lists Allegretto as "very fast", above Allegro "fast" — the lesson keeps the book's own ordering and says so in the tempo sub lesson, for fidelity to the source, exactly as the placements flag it. The seven-sounds table is the book's own mapping (C = Do … B = Si) with Do taken as the starting base, as printed.
 
 Searchable tags: eighth note, dotted notes, dynamics, piano, forte, crescendo, decrescendo, tempo, metronome, Andante, Moderato, Allegro, Allegretto, noise, musical sound, ሁካታ, seven sounds, sol-fa, Nicaragua, Iceland, Dægurspor, Haiti, Malta, Music Shines, Colombia, Papua New Guinea
+
+**Book 24:** *Музика за четвърти клас (Music for Fourth Grade), by Адриан Георгиев, Мая Андасорова, Рая Ковачева* (student book, Bulgarian) — Bulgaria, РИВА (Riva), Sofia; year 2019; ISBN 978-619-225-098-0 (from the cover barcode). Grade: 4 (student/teacher: STUDENT). PDF pages: 68 (cover verified — "Музика за четвърти клас", Riva, 4. клас). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
+
+**Book 25:** *Музика за първи клас (Music for First Grade), by Адриан Георгиев, Ангелина Петрова, Мая Андасорова, Рая Ковачева* (student book, Bulgarian) — Bulgaria, ИК „РИВА“ АД, Sofia; year 2016 (2nd ed. 2018); ISBN 978-619-225-022-5. Grade: 1 (student/teacher: STUDENT). PDF pages: 68 (cover verified; byte size 20,284,508 and page count match the record exactly — this file's first two download attempts failed on the slow uchebnicite.bg server and it was completed by range-resume in this run). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
+
+**Book 26:** *Музика за втори клас (Music for Second Grade), by Адриан Георгиев, Мая Андасорова, Рая Ковачева* (student book, Bulgarian) — Bulgaria, ИК „РИВА“ АД, Sofia; year 2017; ISBN 978-619-225-040-9. Grade: 2 (student/teacher: STUDENT). PDF pages: 68 (cover verified; byte size 16,220,641 and page count match the record exactly; completed by range-resume after two failed attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
+
+**Book 27:** *Музика за трети клас (Music for Third Grade), by Адриан Георгиев, Мая Андасорова, Рая Ковачева* (student book, Bulgarian) — Bulgaria, ИК „РИВА“ АД, Sofia; year 2017; ISBN 978-619-225-077-5. Grade: 3 (student/teacher: STUDENT). PDF pages: 60 (cover verified; byte size 21,503,567 and page count match the record exactly; completed by range-resume after two failed attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bulgaria — Topic 5: Четвъртина нота с точка (the dotted quarter note) (student book) | Book 24, printed p. 8 |
+| Bulgaria — Topic 11: Темпо (tempo) (student book) | Book 24, printed p. 14 |
+| Bulgaria — Topic 15: Динамика (dynamics — loud and soft) (student book) | Book 24, printed p. 18 |
+| Bulgaria — Topic 7: Бързо и бавно (fast and slow — tempo) (student book) | Book 25, printed p. 10 |
+| Bulgaria — Topic 24: Силно и тихо (loud and quiet — dynamics) (student book) | Book 25, printed p. 31 |
+| Bulgaria — Topic 6: Темпо and Topic 25: Динамика (tempo; dynamics) (student book) | Book 26, printed pp. 10, 37 |
+| Bulgaria — Topic 23: Половина нота с точка (the dotted half note) (student book) | Book 27, printed p. 32 |

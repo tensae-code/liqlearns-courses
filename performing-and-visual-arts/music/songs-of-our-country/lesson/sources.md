@@ -1,6 +1,6 @@
 # Sources — Songs of Our Country
 
-countries: Ethiopia, Albania, Turkmenistan, Fiji, Belarus, Morocco
+countries: Ethiopia, Albania, Turkmenistan, Fiji, Belarus, Morocco, Bulgaria
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -50,8 +50,23 @@ countries: Ethiopia, Albania, Turkmenistan, Fiji, Belarus, Morocco
 | Morocco — "My Homeland! O Land of Peace!" (وطني! يا أرض السلام!) — a patriotic anthem (words and music Aghlalo Abdelali, sung by Oumaima Ben Zouine) — the homeland as mother and father, land of ancestors and grandchildren, of the two Atlases, mountains and snows, deserts and seas, olives and generosity (summary only) (teacher guide — evidence; original target `music/moroccos-homeland-songs`) | Book 12, printed p. 68 |
 | Morocco — "Live, My Country!" (يا بلادي عيشي) — a patriotic zajal (words Ali El Haddani, music Mohamed Ben Abdessalam, sung by Mahmoud El Idrissi) — "live, live, my country, live": Morocco the generous mother overflowing with goodness, her scent musk and perfume in the air, her people praying for their beloved King (summary only) (teacher guide — evidence; original target `music/moroccos-homeland-songs`) | Book 12, printed p. 118 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Turkmenistan, Belarus).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 4 countries (Ethiopia, Turkmenistan, Belarus, Bulgaria).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 2 teacher guide is a scan with no text layer, read visually at section level; its part here is cited at section level only and labelled evidence, exactly as its placements file states. Work songs are named by their work and purpose only — their lyrics are not transcribed, as the placements direct.
 
 Searchable tags: songs of our country, Ethiopia, flag, tizta, love of country, our arts, work songs, threshing, reaping, ploughing, music itself, ሀገራችን, የሀገር ፍቅር ትዝታው, የኛ ጥበባት, ሙዚቃ
+
+**Book 13:** *Музика за четвърти клас (Music for Fourth Grade), by Адриан Георгиев, Мая Андасорова, Рая Ковачева* (student book, Bulgarian) — Bulgaria, РИВА (Riva), Sofia; year 2019; ISBN 978-619-225-098-0 (from the cover barcode). Grade: 4 (student/teacher: STUDENT). PDF pages: 68 (cover verified — "Музика за четвърти клас", Riva, 4. клас). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
+
+**Book 14:** *Музика за първи клас (Music for First Grade), by Адриан Георгиев, Ангелина Петрова, Мая Андасорова, Рая Ковачева* (student book, Bulgarian) — Bulgaria, ИК „РИВА“ АД, Sofia; year 2016 (2nd ed. 2018); ISBN 978-619-225-022-5. Grade: 1 (student/teacher: STUDENT). PDF pages: 68 (cover verified; byte size 20,284,508 and page count match the record exactly — this file's first two download attempts failed on the slow uchebnicite.bg server and it was completed by range-resume in this run). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
+
+**Book 15:** *Музика за втори клас (Music for Second Grade), by Адриан Георгиев, Мая Андасорова, Рая Ковачева* (student book, Bulgarian) — Bulgaria, ИК „РИВА“ АД, Sofia; year 2017; ISBN 978-619-225-040-9. Grade: 2 (student/teacher: STUDENT). PDF pages: 68 (cover verified; byte size 16,220,641 and page count match the record exactly; completed by range-resume after two failed attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
+
+**Book 16:** *Музика за трети клас (Music for Third Grade), by Адриан Георгиев, Мая Андасорова, Рая Ковачева* (student book, Bulgarian) — Bulgaria, ИК „РИВА“ АД, Sofia; year 2017; ISBN 978-619-225-077-5. Grade: 3 (student/teacher: STUDENT). PDF pages: 60 (cover verified; byte size 21,503,567 and page count match the record exactly; completed by range-resume after two failed attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bulgaria — Topic 39: Любими песни (favourite songs) together with the patriotic and school song stock («Хубава си, моя горо», the Cyril-and-Methodius hymns) (student book) | Book 13, printed pp. 46, 52 |
+| Bulgaria — Topic 9: Народни будители (the National Awakeners — Bulgaria's cultural heroes honoured in song) (student book) | Book 14, printed p. 14 |
+| Bulgaria — Topic 28: Национален празник (the national holiday and its music) (student book) | Book 15, printed p. 42 |
+| Bulgaria — Topics 19–20: Възрожденски песни (Revival-period songs) and Национален празник (the national holiday) (student book) | Book 16, printed pp. 28, 29 |

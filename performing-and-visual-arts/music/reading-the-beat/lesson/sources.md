@@ -1,6 +1,6 @@
 # Sources — Reading the Beat
 
-countries: Ethiopia, Uganda, Albania, Samoa, Nicaragua, Singapore, Trinidad and Tobago, Iceland, Haiti, Malta, Turkmenistan, Colombia, Belarus, Iran, Morocco
+countries: Ethiopia, Uganda, Albania, Samoa, Nicaragua, Singapore, Trinidad and Tobago, Iceland, Haiti, Malta, Turkmenistan, Colombia, Belarus, Iran, Morocco, Bulgaria
 
 **Book 1:** *Grade 6 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 6ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
 
@@ -96,8 +96,23 @@ countries: Ethiopia, Uganda, Albania, Samoa, Nicaragua, Singapore, Trinidad and 
 | Morocco — "I Read a Musical Score" (أقرأ مدونة موسيقية) — sight-reading a whole simple score built from the quarter note, half note and their matching rests, to the pulse, worked through the French song "Au clair de la lune" (named; its words not transcribed) (teacher guide — evidence; original target `music/reading-the-beat`) | Book 21, printed p. 121 |
 | Morocco — "Duple Meter" (الوزن الثنائي), beating time like the conductor — the conductor (the maestro) beats duple meter with two vertical hand movements — down for the strong first beat, up for the weak second — so the musicians play in harmony and order; musical meter divides a piece into equal parts in duration (teacher guide — evidence; original target `music/reading-the-beat`) | Book 22, printed p. 90 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Uganda, Turkmenistan, Colombia, Belarus, Iran).** The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide / curriculum guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide / teacher programme — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 7 countries (Ethiopia, Uganda, Turkmenistan, Colombia, Belarus, Iran, Bulgaria).** The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide / curriculum guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide / teacher programme — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The off-staff melody is named by its opening letters exactly as the placement quotes them; no melody is transcribed beyond that placement-quoted fragment, and no song is transcribed.
 
 Searchable tags: reading the beat, sight-reading rhythm, beat movement-act with time, Exercise 2.1, letters under notes, off-staff melody, sol-fa rows, atamo tsenatsil, Nicaragua, Iceland, Dægurspor, Haiti, Malta, Music Shines, Colombia
+
+**Book 23:** *Музика за четвърти клас (Music for Fourth Grade), by Адриан Георгиев, Мая Андасорова, Рая Ковачева* (student book, Bulgarian) — Bulgaria, РИВА (Riva), Sofia; year 2019; ISBN 978-619-225-098-0 (from the cover barcode). Grade: 4 (student/teacher: STUDENT). PDF pages: 68 (cover verified — "Музика за четвърти клас", Riva, 4. клас). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
+
+**Book 24:** *Музика за втори клас (Music for Second Grade), by Адриан Георгиев, Мая Андасорова, Рая Ковачева* (student book, Bulgarian) — Bulgaria, ИК „РИВА“ АД, Sofia; year 2017; ISBN 978-619-225-040-9. Grade: 2 (student/teacher: STUDENT). PDF pages: 68 (cover verified; byte size 16,220,641 and page count match the record exactly; completed by range-resume after two failed attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
+
+**Book 25:** *Музика за трети клас (Music for Third Grade), by Адриан Георгиев, Мая Андасорова, Рая Ковачева* (student book, Bulgarian) — Bulgaria, ИК „РИВА“ АД, Sofia; year 2017; ISBN 978-619-225-077-5. Grade: 3 (student/teacher: STUDENT). PDF pages: 60 (cover verified; byte size 21,503,567 and page count match the record exactly; completed by range-resume after two failed attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bulgaria — Topic 9: Ритъм (rhythm) (student book) | Book 23, printed p. 12 |
+| Bulgaria — Topic 10: Метрум (metre) (student book) | Book 23, printed p. 13 |
+| Bulgaria — Topics 1–2: Вече знам / Музикална главоблъсканица 1 (the opening review: notation elements found in a real example, melody direction shown by hand, instruments named by ear) (student book) | Book 23, printed pp. 2–5 |
+| Bulgaria — Topic 29: Равномерно броене (even counting — keeping the beat) (student book) | Book 24, printed p. 44 |
+| Bulgaria — Topic 12: Такт и размер (bar and time signature/metre) (student book) | Book 25, printed p. 18 |
+| Bulgaria — Topic 24: Размер 4/4 (the 4/4 metre) (student book) | Book 25, printed p. 33 |

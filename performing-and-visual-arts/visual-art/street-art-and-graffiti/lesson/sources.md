@@ -1,6 +1,6 @@
 # Sources — Street Art and Graffiti
 
-countries: Albania, Brazil
+countries: Albania, Brazil, Bulgaria
 
 **Book 1:** *Libër mësuesi Arti Pamor 9* (teacher guide, Albanian) — Albania, Shtëpia Botuese Mediaprint, 2018, ISBN 978-9928-08-354-8, Grade 9, 67 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Fetched from the recorded Mediaprint source URLs; byte size matches the record exactly. Cover/title page verified against the record title. Exclusions named in the placements: the term tests (printed section 6) are assessment — named, not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/albania-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -14,8 +14,14 @@ countries: Albania, Brazil
 
 | Brazil — Folha 3 — graffiti: Bronx writers, Basquiat, Haring and Brazil's grafiteiros; its styles (3D, WildStyle, Bomber, stencil, free figuration) and trying a style on big paper (student book; original target `visual-art/graffiti-and-street-art`) | Book 2, printed p. 52 |
 
-**Acceptance count: taught in 1 country (Brazil). Before Brazil, this lesson stood on Albania teacher-guide evidence only, named here, counted nowhere.**
+**Acceptance count: taught in 2 countries (Brazil, Bulgaria). Before Brazil, this lesson stood on Albania teacher-guide evidence only, named here, counted nowhere.**
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/street-art-and-graffiti`; the Albania placement's original target `visual-art/urban-graffiti` resolves to it in slug-registry Part 2). Albania's own way: the Grade 9 course runs graffiti inside its modern visual-art sequence, between graphic techniques and decorative stamping — a city art taught in the same strand as the classical techniques.
 
 Searchable tags: street art, graffiti, urban painting, lettering, wall work, Albania, Arti Pamor 9, Brazil
+
+**Book 3:** *Изобразително изкуство за 8. клас (Fine Arts for Grade 8)* (student book, Bulgarian) — Bulgaria, Педагог 6 (Pedagog 6), Sofia; year 2024 (Second Edition; approved by Order РД 09-388/09.02.2024 of the Minister of Education and Science); ISBN 978-954-324-332-7. Authors: Мариета Петрова Савчева-Ангелова, Елена Веселинова Панайотова, Благомир Кирилов Папазов, Анна Илчева Цоловска. Grade: 8 (student/teacher: STUDENT). PDF pages: 50 (cover/title page verified against the record title; 57,104,388 bytes and 50 pages match the record exactly). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bulgaria — Изкуство и социална комуникация – графити и стрийтарт (Art and Social Communication — Graffiti and Street Art) — street art in the urbanised environment (streets, squares, parks, buildings) that goes to the viewer instead of changing the definition of the artwork, including 3D street art, busking and installations; graffiti… (student book; original target `visual-art/graffiti-and-street-art`) | Book 3, printed pp. 29–32 |

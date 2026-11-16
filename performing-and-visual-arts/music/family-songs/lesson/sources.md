@@ -1,6 +1,6 @@
 # Sources — Family Songs
 
-countries: Ethiopia, Albania, Turkmenistan, Belarus
+countries: Ethiopia, Albania, Turkmenistan, Belarus, Bulgaria
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -37,8 +37,14 @@ countries: Ethiopia, Albania, Turkmenistan, Belarus
 | Belarus — Songs of mother and the lullaby: the song "Mama" (words Entin, music Bourgeois and Popa), motherhood in painting (Kuzmich's "Madonna") and poem, and the Belarusian folk lullaby "Liuli-liuli, tsely dom spits" — with what mood and feeling lullabies are sung, and why (student book; original target `music/family-songs`) | Book 8, printed pp. 28–31 |
 | Belarus — Part 3, "The miracle of the lullaby": lullabies of different peoples side by side — a Belarusian folk lullaby, Gershwin's lullaby from the opera "Porgy and Bess", and Pauls's song of the boy and the cricket (student book; original target `music/family-songs`) | Book 9, printed pp. 95–99 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Turkmenistan, Belarus).** Albania is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 4 countries (Ethiopia, Turkmenistan, Belarus, Bulgaria).** Albania is added as teacher guide — evidence only, kept outside the acceptance count.
 
 No lyrics of any family song are transcribed; the songs are named and their messages summarised, as the placements give them. The same holds for Sub lesson 4's "ልጅነቴ" (My Childhood), added by Group G: named, sourced (ህይወት ማሞ, traditional melody) and summarised — never transcribed. The written-notes step is named and explained in words only — this lesson does not teach reading the notes themselves; that belongs to the notation lessons of Group E.
 
 Searchable tags: family songs, mother, father, sister, brother, እናቴ, አባቴ, እህቴ, ወንድሜ, ቤተሰብ, ቤተሰቦቻችን, singing from notes, ልጅነቴ, my childhood, ህይወት ማሞ
+
+**Book 10:** *Музика за първи клас (Music for First Grade), by Адриан Георгиев, Ангелина Петрова, Мая Андасорова, Рая Ковачева* (student book, Bulgarian) — Bulgaria, ИК „РИВА“ АД, Sofia; year 2016 (2nd ed. 2018); ISBN 978-619-225-022-5. Grade: 1 (student/teacher: STUDENT). PDF pages: 68 (cover verified; byte size 20,284,508 and page count match the record exactly — this file's first two download attempts failed on the slow uchebnicite.bg server and it was completed by range-resume in this run). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bulgaria — Topic 33: Песни за мама (songs for mother) (student book) | Book 10, printed p. 40 |

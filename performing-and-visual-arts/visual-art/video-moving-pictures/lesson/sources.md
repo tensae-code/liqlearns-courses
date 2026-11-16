@@ -1,6 +1,6 @@
 # Sources — Video: Moving Pictures
 
-countries: Ethiopia, Guatemala, Finland, Brazil
+countries: Ethiopia, Guatemala, Finland, Brazil, Bulgaria
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -32,8 +32,14 @@ countries: Ethiopia, Guatemala, Finland, Brazil
 | Brazil — Folha 6 — the videoclip: from Beatles and Dylan promo films to MTV (1981) (student book; original target `visual-art/video-moving-pictures`) | Book 7, printed p. 109 |
 | Brazil — Folha 8 "Arte: ilusão ou realidade?" — cinema, the Seventh Art: the Lumière brothers' first public show (1895) and the illusion that feels real; shooting a 5–10 minute class film with script, direction, sets and costume teams (student book; original target `visual-art/cinema-the-seventh-art`) | Book 7, printed p. 130 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Finland, Brazil). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.**
+**Acceptance count: taught in 4 countries (Ethiopia, Finland, Brazil, Bulgaria). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.**
 
 The Grade 5 book's tempo table oddity (Allegretto above Allegro) belongs to the music lesson and is not used here. The Grade 8 teacher-guide parts are inside that guide's surviving body pages (printed pp. 4–6) and are labelled evidence. Creative photography's techniques are taught as the Grade 7 guide names them; 'painting onto a printed photo' and double exposure are described, not faked — the lesson's picture is a drawn teaching board, not a photograph claiming those effects.
 
 Searchable tags: video, moving pictures, shot sizes, close-up, medium view, long view, የቅርብ እይታ ቀረጻ, creative photography, bokeh, double exposure, motion blur, macro, film form, shot, scene, sequence, Finland, Brazil
+
+**Book 8:** *Изобразително изкуство за 10. клас (Fine Arts for Grade 10)* (student book, Bulgarian) — Bulgaria, Педагог 6 (Pedagog 6), Sofia; year 2024 (Second Edition; approved by Order РД 09-2189/05.09.2023 of the Minister of Education and Science); ISBN 978-954-324-334-1. Authors: доц. д-р Мариета Савчева-Ангелова, Елена Панайотова, Виолета Георгиева, проф. д-р Благомир Папазов. Grade: 10 (student/teacher: STUDENT). PDF pages: 34 (cover/title page verified against the record title; 38,346,738 bytes and 34 pages match the record exactly). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bulgaria — Изобразителното изкуство и другите изкуства – екранни изкуства (Fine Art and the Other Arts — the Screen Arts) — cinematography (from "kinesis" — movement, and "graphos" — I write): moving images lit and recorded on photographic film or in digital form, comprising film art and the film industry, special effects, animation and the sh… (student book) | Book 8, printed pp. 16–19 |

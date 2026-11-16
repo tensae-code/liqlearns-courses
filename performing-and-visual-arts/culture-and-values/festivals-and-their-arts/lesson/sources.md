@@ -1,6 +1,6 @@
 # Sources — Festivals and Their Arts
 
-countries: Ethiopia, Jamaica, Honduras, Albania, Trinidad and Tobago, Turkmenistan, Fiji
+countries: Ethiopia, Jamaica, Honduras, Albania, Trinidad and Tobago, Turkmenistan, Fiji, Bulgaria
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -38,7 +38,7 @@ countries: Ethiopia, Jamaica, Honduras, Albania, Trinidad and Tobago, Turkmenist
 | Turkmenistan — "Nowruz" (music Aşyr Abdyllaýew, words Araznury Ataýew) — the Nowruz festival song: Nowruz is the beginning of the new and the end of the old, the source of hopes, and its good customs pass to the generations (summary only) (student book; original target `culture-and-values/festivals-and-their-arts`) | Book 8, printed p. 69 |
 | Fiji — Unit 3 Fiji Day — Fiji Day (independence, 10 Oct 1970) and its arts: the marching band leading the town march, and celebrating through song and dance (teacher guide — evidence) | Book 9, printed p. 13 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Honduras, Turkmenistan).** Jamaica is added as teacher curriculum guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 4 countries (Ethiopia, Honduras, Turkmenistan, Bulgaria).** Jamaica is added as teacher curriculum guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Citation fix (PVA coverage audit §4, G3S-64): the Genna game song 'አሲና በል' (Asina Bel) stands on printed p. 54 in the Grade 3 book; this lesson previously folded it under the Arafa-and-Genna citation at printed p. 53. The row above now cites its own page, printed p. 54. The song is placed by name and purpose only — a call-and-response game song of the Genna game — and is never transcribed.
 
@@ -47,3 +47,21 @@ Songs are placed by name and purpose only, per the standing rule: the Abebayesh 
 | Jamaica — Social Studies: research Chinese and East Indian culture in Jamaica — food, dress, music, dance, celebrations — and watch presentations on festivals in the Caribbean, describing the celebrations (food, dress, dance, music), their origins and significance, and how festivals preserve Caribbean culture (teacher curriculum guide — evidence; original target `culture-and-values/festivals-and-their-arts`) | Book 3, PDF p. 182 |
 
 Searchable tags: festivals, Meskel, Demera, Timket, Arafa, Genna, እንቁር, Abebayesh, አበባዬሽ ሆይ, Adwa, fukera, shilela, qererito
+
+**Book 10:** *Музика за четвърти клас (Music for Fourth Grade), by Адриан Георгиев, Мая Андасорова, Рая Ковачева* (student book, Bulgarian) — Bulgaria, РИВА (Riva), Sofia; year 2019; ISBN 978-619-225-098-0 (from the cover barcode). Grade: 4 (student/teacher: STUDENT). PDF pages: 68 (cover verified — "Музика за четвърти клас", Riva, 4. клас). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
+
+**Book 11:** *Музика за първи клас (Music for First Grade), by Адриан Георгиев, Ангелина Петрова, Мая Андасорова, Рая Ковачева* (student book, Bulgarian) — Bulgaria, ИК „РИВА“ АД, Sofia; year 2016 (2nd ed. 2018); ISBN 978-619-225-022-5. Grade: 1 (student/teacher: STUDENT). PDF pages: 68 (cover verified; byte size 20,284,508 and page count match the record exactly — this file's first two download attempts failed on the slow uchebnicite.bg server and it was completed by range-resume in this run). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
+
+**Book 12:** *Музика за втори клас (Music for Second Grade), by Адриан Георгиев, Мая Андасорова, Рая Ковачева* (student book, Bulgarian) — Bulgaria, ИК „РИВА“ АД, Sofia; year 2017; ISBN 978-619-225-040-9. Grade: 2 (student/teacher: STUDENT). PDF pages: 68 (cover verified; byte size 16,220,641 and page count match the record exactly; completed by range-resume after two failed attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
+
+**Book 13:** *Музика за трети клас (Music for Third Grade), by Адриан Георгиев, Мая Андасорова, Рая Ковачева* (student book, Bulgarian) — Bulgaria, ИК „РИВА“ АД, Sofia; year 2017; ISBN 978-619-225-077-5. Grade: 3 (student/teacher: STUDENT). PDF pages: 60 (cover verified; byte size 21,503,567 and page count match the record exactly; completed by range-resume after two failed attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bulgaria — Topic 13: Зимни празници и обичаи (winter festivals and customs — the Christmas-season customs and their songs) (student book) | Book 10, printed p. 16 |
+| Bulgaria — Topic 45: 24 май (24 May — the Day of Saints Cyril and Methodius and of Bulgarian letters, with its hymns) (student book) | Book 10, printed p. 52 |
+| Bulgaria — Topics 18–23: the winter festival cycle — Щурчо коледар (carolling), author songs for winter, Рождество (Christmas), a Christmas concert, Сурвакари (New Year survakari) and Кукери (Kukeri mummers) (student book) | Book 11, printed pp. 24–30 |
+| Bulgaria — Topics 29, 31, 32, 41, 42, 44: the spring and school festivals — Празник на буквите (Festival of Letters), Баба Марта, България празнува, Лазарки (Lazarus Saturday girls), Великден (Easter) and 24 май (student book) | Book 11, printed pp. 36, 38, 39, 50, 51, 54 |
+| Bulgaria — Topics 16–19: the winter cycle — author winter songs by composer Христо Недялков, Коледари (carollers), Светът посреща Нова година (how the world meets the New Year), Зимни народни празници (winter folk festivals) (student book) | Book 12, printed pp. 22–28 |
+| Bulgaria — Topics 32–33 and 36: Пролетни народни празници (spring folk festivals), Великден у нас и по света (Easter at home and around the world) and 24 май (student book) | Book 12, printed pp. 50, 52, 58 |
+| Bulgaria — Topic 30: Великден (Easter) and Topic 35: 24 май (student book) | Book 13, printed pp. 39, 45 |

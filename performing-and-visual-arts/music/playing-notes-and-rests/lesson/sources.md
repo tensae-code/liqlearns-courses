@@ -1,6 +1,6 @@
 # Sources — Playing Notes and Rests
 
-countries: Ethiopia, Barbados, Morocco
+countries: Ethiopia, Barbados, Morocco, Bulgaria
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 85 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -30,8 +30,17 @@ countries: Ethiopia, Barbados, Morocco
 | Morocco — "I Read the Half Note and the Half Rest" (أقرأ البيضاء ونصف البرهة) — reading the half note and half rest inside short scores to the pulse (the two-beat word "maman" in "Ah! vous dirai-je maman" as the half-note example) (teacher guide — evidence; original target `music/playing-notes-and-rests`) | Book 5, printed p. 105 |
 | Morocco — "I Learn the Half Note and the Half Rest" (أتعرف البيضاء ونصف البرهة) — the half note (La blanche) — a sound sign in two shapes worth two beats — and the half rest (La demi-pause), the silence sign worth two beats; every sound sign has its matching silence sign; writing and reading them in simple scores on Fa, Sol and La (teacher guide — evidence; original target `music/playing-notes-and-rests`) | Book 6, printed p. 78 |
 
-**Acceptance count: taught in 1 country (Ethiopia). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 2 countries (Ethiopia, Bulgaria). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 5 book continues past this lesson to the eighth note and dotted notes; those signs have their own targets in the placements and are not stocked here — this lesson stocks only the whole, half and quarter playing the placements assign to “Playing Notes and Rests”. The Grade 3 photographs of children drumming are described, not reproduced; GIF 9622 is a drawn practice loop in their place.
 
 Searchable tags: playing notes and rests, drums, relay, ቅብብሎሽ, performing notation, whole half quarter practice
+
+**Book 7:** *Музика за четвърти клас (Music for Fourth Grade), by Адриан Георгиев, Мая Андасорова, Рая Ковачева* (student book, Bulgarian) — Bulgaria, РИВА (Riva), Sofia; year 2019; ISBN 978-619-225-098-0 (from the cover barcode). Grade: 4 (student/teacher: STUDENT). PDF pages: 68 (cover verified — "Музика за четвърти клас", Riva, 4. клас). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
+
+**Book 8:** *Музика за първи клас (Music for First Grade), by Адриан Георгиев, Ангелина Петрова, Мая Андасорова, Рая Ковачева* (student book, Bulgarian) — Bulgaria, ИК „РИВА“ АД, Sofia; year 2016 (2nd ed. 2018); ISBN 978-619-225-022-5. Grade: 1 (student/teacher: STUDENT). PDF pages: 68 (cover verified; byte size 20,284,508 and page count match the record exactly — this file's first two download attempts failed on the slow uchebnicite.bg server and it was completed by range-resume in this run). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bulgaria — Topic 12: Ритмичен съпровод (rhythmic accompaniment played along with music) (student book) | Book 7, printed p. 15 |
+| Bulgaria — Topic 4: Съпровод (accompaniment — playing along) (student book) | Book 8, printed p. 5 |

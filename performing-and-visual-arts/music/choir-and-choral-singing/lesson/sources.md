@@ -1,6 +1,6 @@
 # Sources — Choir and Choral Singing
 
-countries: Iceland
+countries: Iceland, Bulgaria
 
 **Book 1:** *Dægurspor: Kennsluleiðbeiningar (teacher guide, Icelandic)* (teacher guide) — Iceland, no publisher, year or ISBN printed in the guide (first page is the contents list), Grade 5, Icelandic, 79 PDF pp. TEACHER — teacher's guide to the Dægurspor set: student book, listening material, teacher guide and web tasks; the guide itself addresses compulsory-school music teachers (tónmennt). Verdict: COMPLETE. Read in full as text in the 2026-11-16 Art expansion read; fetched with grab.py from the pushed tree, PDF deleted after filing. The closing Listi yfir hlustunarefni (listening-material catalogue, printed pp. 73–79) is inventory-only, named here, never stocked as parts; the songs whose notation and words the guide prints are placed by their teaching topics, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/iceland-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -9,8 +9,17 @@ countries: Iceland
 | Sub lesson 1 — The M.A. Quartet (teacher guide — evidence; original target `music/vocal-groups-and-close-harmony`) | Book 1, printed p. 37 |
 | Sub lesson 2 — The Comedian Harmonists and the other vocal groups (teacher guide — evidence; original target `music/vocal-groups-and-close-harmony`) | Book 1, printed p. 39 |
 
-**Acceptance count: taught in 0 countries — this lesson stands on Iceland teacher guide evidence only, named here, counted nowhere.**
+**Acceptance count: taught in 1 country (Bulgaria).** Iceland is added as teacher guide evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/choir-and-choral-singing`). The Iceland placements were filed as NEW LESSON NEEDED under the original string(s) `music/vocal-groups-and-close-harmony`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Iceland's own way, carried in the placements: a listening journey through the whole history of popular music — taught by listening, playing rhythm parts from notation, singing, and dancing, with Iceland's own musicians, revue songs, seamen's songs and dance bands woven through as national content. Songs are placed by their teaching topics only — no lyrics or notation are transcribed.
 
 Searchable tags: choir, choral singing, vocal groups, close harmony, M.A. Quartet, Comedian Harmonists, Andrews Sisters, Iceland, Dægurspor
+
+**Book 2:** *Музика за втори клас (Music for Second Grade), by Адриан Георгиев, Мая Андасорова, Рая Ковачева* (student book, Bulgarian) — Bulgaria, ИК „РИВА“ АД, Sofia; year 2017; ISBN 978-619-225-040-9. Grade: 2 (student/teacher: STUDENT). PDF pages: 68 (cover verified; byte size 16,220,641 and page count match the record exactly; completed by range-resume after two failed attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
+
+**Book 3:** *Музика за трети клас (Music for Third Grade), by Адриан Георгиев, Мая Андасорова, Рая Ковачева* (student book, Bulgarian) — Bulgaria, ИК „РИВА“ АД, Sofia; year 2017; ISBN 978-619-225-077-5. Grade: 3 (student/teacher: STUDENT). PDF pages: 60 (cover verified; byte size 21,503,567 and page count match the record exactly; completed by range-resume after two failed attempts). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bulgaria — Topics 14–15: Мъжки хор (men's choir) and Вокална музика (vocal music) (student book; original target `music/choirs-and-vocal-music`) | Book 2, printed pp. 20, 21 |
+| Bulgaria — Topics 27–29: Женски хор (women's choir), Смесен хор (mixed choir) and Хоров концерт (a choral concert) (student book; original target `music/choirs-and-vocal-music`) | Book 3, printed pp. 36–38 |

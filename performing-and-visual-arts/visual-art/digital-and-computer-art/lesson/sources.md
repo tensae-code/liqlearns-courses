@@ -1,6 +1,6 @@
 # Sources — Digital and Computer Art
 
-countries: Maldives, Turkmenistan, Sudan, Brazil, Morocco
+countries: Maldives, Turkmenistan, Sudan, Brazil, Morocco, Bulgaria
 
 **Book 1:** *Exploring Creative Arts 4* (student book, English) — Maldives, National Institute of Education, Ministry of Education, Malé, Maldives; © 2025, first published 2025; ISBN 978-99915-0-956-3 (paperback); development editor Shirumeen Ahmed; printed by M7 Print Pvt. Ltd. Based on the Creative Arts in the National Curriculum syllabus, 2022. 93 PDF pp (printed pp. 1–81 plus acknowledgements and back cover; cover verified — two children painting at easels). Verdict: COMPLETE. Read in full as extracted text in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/maldives-placements.md. The book's glossary (printed pp. 79–81) is inventory only, named here and never stocked as parts.
 
@@ -27,8 +27,14 @@ countries: Maldives, Turkmenistan, Sudan, Brazil, Morocco
 | Morocco — "Strange Animals" (حيوانات غريبة), changing an image — working on an image by deletion (الحذف — removing an element), addition (الإضافة — adding a new element) and exaggeration (المبالغة — enlarging an element), first seen in a digitally altered animal picture: what is strange in the giraffe, the elephant and the crow (teacher guide — evidence; original target `visual-art/the-digital-image`) | Book 5, printed p. 100 |
 | Morocco — "The Digital Image" (الصورة الرقمية) — what a digital image is and the tools that capture it (the mobile phone first, then the digital camera, tablet and computer); digital image processing (Traitement d'image numérique) — loading an image into processing software and using its icons to change colour, size, shape and position, cut, glue, add writing and add new elements; the guide's first step into digital work comes earlier, in Unit 4's introduction to digitising (Numériser) and processing images and texts (printed p. 88) (teacher guide — evidence; original target `visual-art/the-digital-image`) | Book 5, printed p. 102 |
 
-**Acceptance count: taught in 4 countries (Maldives, Turkmenistan, Sudan, Brazil).** Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 5 countries (Maldives, Turkmenistan, Sudan, Brazil, Bulgaria).** Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/digital-and-computer-art`); the two Maldives placements were filed under the original strings `visual-art/posterisation` and `visual-art/the-digital-image`, recorded in the provenance rows above.
 
 Searchable tags: digital art, computer art, posterisation, character design, Maldives, Exploring Creative Arts 4, Brazil
+
+**Book 6:** *Изобразително изкуство за 8. клас (Fine Arts for Grade 8)* (student book, Bulgarian) — Bulgaria, Педагог 6 (Pedagog 6), Sofia; year 2024 (Second Edition; approved by Order РД 09-388/09.02.2024 of the Minister of Education and Science); ISBN 978-954-324-332-7. Authors: Мариета Петрова Савчева-Ангелова, Елена Веселинова Панайотова, Благомир Кирилов Папазов, Анна Илчева Цоловска. Grade: 8 (student/teacher: STUDENT). PDF pages: 50 (cover/title page verified against the record title; 57,104,388 bytes and 50 pages match the record exactly). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bulgaria — Дигитално изкуство (Digital Art) — what was once drawn by hand (posters, notices, banners, billboards, light advertising) is now digital: advertising materials for a firm or event (calendars, notebooks, pens, folders, bags, business cards, leaflets, invitations, posters) com… (student book; original target `visual-art/digital-art-and-design`) | Book 6, printed pp. 39–44 |

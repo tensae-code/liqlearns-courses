@@ -1,6 +1,6 @@
 # Sources — History of Art
 
-countries: Andorra, Sudan, Brazil
+countries: Andorra, Sudan, Brazil, Bulgaria
 
 **Book 1:** *Programa de l'assignatura d'història de les arts del batxillerat general de l'Escola Andorrana — Decret del 9-12-2020 (BOPA núm. 149, 16-12-2020), republishing the full programme as amended (Decret del 20-3-2019 as modified by Decret del 9-12-2020)* (curriculum programme document, Catalan) — Andorra, Ministeri d'Educació i Ensenyament Superior, Govern d'Andorra, 2020 (programme first published 2019), no ISBN printed in the fetched text, Batxillerat general (ages 16–18), 28 PDF pp. TEACHER — programme document. Verdict: COMPLETE as a programme document — read in full via the source_url text; assessment criteria (CA1 pertinence, CA2 precision, CA3 critical sense), end-of-cycle expectations and the synthesis table are apparatus, named here and not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/andorra-placements.md. **Curriculum programme document — EVIDENCE only, kept outside the acceptance count.**
 
@@ -19,8 +19,14 @@ countries: Andorra, Sudan, Brazil
 
 | Brazil — Folha 1 — the style words hidden in the song "Bienal" (Barroco, Rococó, Art Nouveau, neo-expressionismo, natureza-morta) as a first map of art terms (student book; original target `visual-art/art-movement-names-and-styles`) | Book 3, printed p. 11 |
 
-**Acceptance count: taught in 2 countries (Sudan, Brazil). Before Sudan, this lesson stood on Andorra curriculum programme document evidence only, named here, counted nowhere.**
+**Acceptance count: taught in 3 countries (Sudan, Brazil, Bulgaria). Before Sudan, this lesson stood on Andorra curriculum programme document evidence only, named here, counted nowhere.**
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/history-of-art`); the Andorra placements were filed under the original strings `visual-art/art-of-the-world` (twice) and `visual-art/art-history-timeline`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Andorra's own Romanesque, placed inside this lesson's art-and-power block by the programme, is stocked in full in Art of Our Country. The book is a curriculum programme document, so every part of this lesson is labelled evidence; no student-textbook claim is made for it.
 
 Searchable tags: history of art, art and power, Baroque, Romanesque, Gothic, Renaissance, humanism, modernisme, Gaudí, Guernica, Goya, Picasso, Banksy, Andorra, Brazil
+
+**Book 4:** *Изобразително изкуство за 8. клас (Fine Arts for Grade 8)* (student book, Bulgarian) — Bulgaria, Педагог 6 (Pedagog 6), Sofia; year 2024 (Second Edition; approved by Order РД 09-388/09.02.2024 of the Minister of Education and Science); ISBN 978-954-324-332-7. Authors: Мариета Петрова Савчева-Ангелова, Елена Веселинова Панайотова, Благомир Кирилов Папазов, Анна Илчева Цоловска. Grade: 8 (student/teacher: STUDENT). PDF pages: 50 (cover/title page verified against the record title; 57,104,388 bytes and 50 pages match the record exactly). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bulgaria — Изкуство и време, §§2–5 — the art of Mesopotamia (the Ishtar Gate of Babylon, the Assyrian lion-hunt relief) and Ancient Egypt (the pyramids and Great Sphinx of Giza, Tutankhamun's gold funerary mask, the Ebers Papyrus); Ancient Greece in its archaic, classical and… (student book; original target `visual-art/art-of-the-ancient-and-medieval-worlds`) | Book 4, printed pp. 7–10 |

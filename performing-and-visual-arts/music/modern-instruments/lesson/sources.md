@@ -1,6 +1,6 @@
 # Sources — Modern Instruments
 
-countries: Ethiopia, Turkmenistan, Colombia, Belarus
+countries: Ethiopia, Turkmenistan, Colombia, Belarus, Bulgaria
 
 **Book 1:** *Grade 8 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 8ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–139. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-student-placements.md.
 
@@ -24,8 +24,14 @@ countries: Ethiopia, Turkmenistan, Colombia, Belarus
 | Belarus — Village musicians and the wind orchestra: Pomazov's "Village Musicians" — naming the folk instruments heard and miming their playing; Sviridov's "Military March" and the wind (brass) orchestra of wooden and brass winds and percussion that marches in squares and parks (student book; original target `music/modern-instruments`) | Book 5, printed pp. 62–63 |
 | Belarus — Orchestras and the land Symphony: orchestras are of many kinds — symphonic, wind, variety, jazz and folk-instrument — the symphony orchestra the largest, of strings, winds and percussion under a conductor, playing great works in several parts; Haydn's "Children's Symphony" with toy instruments (clay whistles, rattles, pipes, triangles, little drums); Glazunov's Symphony No. 1 and Tchaikovsky's Symphony No. 2 built on folk melodies; Churkin's Sinfonietta "Belarusian Pictures" — a sinfonietta is a little symphony (student book; original target `music/modern-instruments`) | Book 5, printed pp. 111–121 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Turkmenistan, Colombia, Belarus).**
+**Acceptance count: taught in 5 countries (Ethiopia, Turkmenistan, Colombia, Belarus, Bulgaria).**
 
 Modern instruments are treated at the level the Grade 8 placements carry them — the book treats traditional and modern families exhaustively; the sound-role pairings follow the book's family order. No brand names or models are introduced.
 
 Searchable tags: modern instruments, trumpet saxophone keyboard drum kit, modern Ethiopian band, traditional and modern together, Colombia
+
+**Book 6:** *Музика за четвърти клас (Music for Fourth Grade), by Адриан Георгиев, Мая Андасорова, Рая Ковачева* (student book, Bulgarian) — Bulgaria, РИВА (Riva), Sofia; year 2019; ISBN 978-619-225-098-0 (from the cover barcode). Grade: 4 (student/teacher: STUDENT). PDF pages: 68 (cover verified — "Музика за четвърти клас", Riva, 4. клас). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bulgaria — Topic 36: Използване на техника в музиката (using technology in music) (student book) | Book 6, printed p. 43 |
