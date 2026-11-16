@@ -1,6 +1,6 @@
 # Sources — Playing the Team Games
 
-countries: Ethiopia, Kazakhstan, Tajikistan, Samoa, Timor-Leste, Thailand
+countries: Ethiopia, Kazakhstan, Tajikistan, Samoa, Timor-Leste, Thailand, China
 
 **Book — Grade 5 student:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 106 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md. COMPLETE.
 
@@ -43,7 +43,7 @@ countries: Ethiopia, Kazakhstan, Tajikistan, Samoa, Timor-Leste, Thailand
 | Timor-Leste — Period 3: Choosing a sport — the class chooses its Period 3 sport (original target `ball-games/playing-the-team-games`) | Timor-Leste, *Educação Física 7, Manual do aluno* (Timor-Leste Grade 7 Student Book), printed p. 43 |
 | Timor-Leste — Appendix 2: Organising a tournament — a teacher's guide to running the class tournament (teacher guide — evidence) (original target `ball-games/playing-the-team-games`) | Timor-Leste, *Educação Física 7, Guia do Professor* (Timor-Leste Grade 7 Teacher Guide), printed p. 129 |
 | Thailand — Unit 4, Ch. 2 International sports (กีฬาสากล) — playing one individual and one team international sport, observing the rules, rights and duties of play, with sporting spirit (student book — SSR flipbook sample, PARTIAL) (original target `ball-games/playing-the-team-games`) | Thailand, *Health & PE, Grade 5* (Thailand Grade 5 SSR Health & PE), Unit 4, Ch. 2, printed p. 104 |
-**Acceptance count: taught in 4 countries (Ethiopia, Tajikistan, Timor-Leste, Thailand).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Samoa is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Timor-Leste is added as student-book stock (see its rows above), inside the acceptance count; its Appendix 2 tournament row rests on the teacher guide and is evidence only. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count.
+**Acceptance count: taught in 5 countries (Ethiopia, Tajikistan, Timor-Leste, Thailand, China).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Samoa is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Timor-Leste is added as student-book stock (see its rows above), inside the acceptance count; its Appendix 2 tournament row rests on the teacher guide and is evidence only. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count.
 
 Student books Grades 5–7 are complete. No page is claimed that the placements do not give.
 
@@ -54,5 +54,25 @@ The Grade 9 books are the English federal 2023 GEQIP-E series (the Grades 1–8 
 Honesty — the Grade 9 guide's football rules, exactly as the placements flag them: the guide prints the international playing area as 110 m × 75 m, and the lesson teaches that figure as the guide's printed international size; the guide's wording that a team "fields a minimum of eleven players" is taught corrected — a team plays with eleven players — and the guide's printed total of nine referees is not taught as a count: the lesson instead teaches the referee's authority (already carried in sub lesson 3 from the student book) and names Collina as the guide does. Both wordings are recorded here, and only here, exactly as the placements flag them with "(as printed)".
 
 Thailand's rows in this lesson rest on publisher sample editions (PARTIAL, as filed — see the book lines above): each sample carries its book's complete printed contents, and the placements are taken from those contents; the sample label is carried exactly as filed and is never upgraded to a complete read. Thailand enters this lesson as student-book stock, inside the acceptance count. Game and movement rules are taught only as the placements summarise them; no rules have been invented.
+
+## China — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/china-pe-placements.md. China's book read for this expansion is the PEP Senior-High PE & Health compulsory complete volume (student book, Chinese), read in full (266 PDF pages; printed page = PDF page − 7); its Health parts are filed in china-health-placements.md and placed in the Health course. Records 2 and 3 in the placements file (the Ningxia textbook-selection results notice and the 2025 national catalogue excerpt) are record-only catalogue/notice evidence with 0 placements, nothing stocked from them. China is student-book stock, inside the acceptance count, in this lesson.
+
+**Book — China Senior High PEP PE & Health (student book):**
+## Book 1 — PEP Senior-High PE & Health, Compulsory, Complete Volume (student book, Chinese)
+- Title as printed: 普通高中教科书·体育与健康必修 全一册
+- Grade: Senior high (filed grade-12) (student/teacher: STUDENT)
+- Publisher: People's Education Press （人民教育出版社）, PEP Curriculum & Textbook Research Institute; chief editors Li Zhigang, Luo Bingquan; year: no year printed on the copyright page in this scan (cover production file dated 2022); ISBN: no ISBN printed on the copyright page (barcode on back cover)
+- PDF pages: 266 (cover/title page verified against the record title)
+- Verdict: COMPLETE — all 13 chapters read; the appendix (National Student Physical Fitness Standard indicator and scoring tables, printed pp. 252–258) is assessment-table material, named here and not placed, per the assessment exclusion
+- Tally: 46 placements — 23 to existing lessons, 23 NEW LESSON NEEDED
+- China's own way: one compulsory combined volume for all senior-high students built around three core competencies (movement ability, healthy behaviour, sporting character); two required modules (fitness, health education) plus elective sport modules the student chooses; every sport chapter follows the same rhythm — know the sport, raise the technique, apply it in play — and traditional Chinese content (wushu, Taijiquan, folk sports, health-keeping qigong sets) sits beside Olympic and world sport.
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — football match method and team play (original target `ball-games/playing-the-team-games`) | China, *China Senior High PEP PE & Health*, 第八章 第一节 足球, printed p. 114 |
+
+China's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. China's own way is content, as the book line above records it: one compulsory combined volume for all senior-high students built around three core competencies (movement ability, healthy behaviour, sporting character), with traditional Chinese content (wushu, Taijiquan, folk sports, health-keeping qigong sets) beside Olympic and world sport. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: playing the team games, small ball games, team games, football rules, 110 m by 75 m pitch, offside, throw-in, corner kick, Pierluigi Collina, physical education, Ethiopia

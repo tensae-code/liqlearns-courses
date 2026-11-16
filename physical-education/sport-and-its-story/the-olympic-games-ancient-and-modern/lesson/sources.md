@@ -1,6 +1,6 @@
 # Sources — The Olympic Games, Ancient and Modern
 
-countries: Ethiopia, Cyprus, Tajikistan, Afghanistan
+countries: Ethiopia, Cyprus, Tajikistan, Afghanistan, China
 
 **Book 1:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–106 + front matter (114 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md.
 
@@ -37,7 +37,7 @@ countries: Ethiopia, Cyprus, Tajikistan, Afghanistan
 | Cyprus — Part 2, Modern Olympic Games (Σύγχρονοι Ολυμπιακοί Αγώνες) — every edition in chronological order, the events that carry the Olympic name, qualification quotas and entry criteria by sport and age (student book) | Cyprus, *Olympic Education Insert, Lyceum Years 2–3*, Part 2, printed pp. 21–68 |
 
 | Tajikistan — Part 1, How the World Festival Was Born (the Olympic Games); Modern Olympic Games — the birth of the Games, their revival, and the modern Games with flag and symbols (original target `sport-and-its-story/the-olympic-games-ancient-and-modern`) | Tajikistan, *Fizicheskaya Kultura (Physical Culture), Grades 1–4*, Part 1, printed pp. ~10–20 |
-**Acceptance count: taught in 3 countries (Ethiopia, Cyprus, Tajikistan).** Cyprus is added as student-book stock (see its rows above), inside the acceptance count. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 4 countries (Ethiopia, Cyprus, Tajikistan, China).** Cyprus is added as student-book stock (see its rows above), inside the acceptance count. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count.
 
 The Grade 5 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -75,5 +75,25 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/afghanistan-
 | Afghanistan — Ancient Greece: the Homeric games, the five contest events, and the Olympic Games held at Olympia from 776 BC with the pentathlon (teacher guide — evidence) (original target `sport-and-its-story/the-olympic-games-ancient-and-modern`) | Afghanistan, *Afghanistan G7 PE TG Dari*, printed p. 21 |
 
 Afghanistan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Afghanistan's own way is content, as the book lines above record it: the Grade 7 year is planned twice over — one annual plan for cold-region schools (year starts in Hamal) and one for warm-region schools (year starts in Sunbula) — with theory taught orally at the start or end of the practical hour, and the practical year resting on fitness, athletics, volleyball and Afghanistan's own traditional games; the Grade 10 lycee year is built on exactly two sports — basketball in the first half-year, tennis in the second — over a base of physical fitness, with the sciences around sport, first aid, sports massage and a full chapter on including disabled children in PE. Both Afghanistan books are teacher guides, filed as evidence only, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## China — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/china-pe-placements.md. China's book read for this expansion is the PEP Senior-High PE & Health compulsory complete volume (student book, Chinese), read in full (266 PDF pages; printed page = PDF page − 7); its Health parts are filed in china-health-placements.md and placed in the Health course. Records 2 and 3 in the placements file (the Ningxia textbook-selection results notice and the 2025 national catalogue excerpt) are record-only catalogue/notice evidence with 0 placements, nothing stocked from them. China is student-book stock, inside the acceptance count, in this lesson.
+
+**Book — China Senior High PEP PE & Health (student book):**
+## Book 1 — PEP Senior-High PE & Health, Compulsory, Complete Volume (student book, Chinese)
+- Title as printed: 普通高中教科书·体育与健康必修 全一册
+- Grade: Senior high (filed grade-12) (student/teacher: STUDENT)
+- Publisher: People's Education Press （人民教育出版社）, PEP Curriculum & Textbook Research Institute; chief editors Li Zhigang, Luo Bingquan; year: no year printed on the copyright page in this scan (cover production file dated 2022); ISBN: no ISBN printed on the copyright page (barcode on back cover)
+- PDF pages: 266 (cover/title page verified against the record title)
+- Verdict: COMPLETE — all 13 chapters read; the appendix (National Student Physical Fitness Standard indicator and scoring tables, printed pp. 252–258) is assessment-table material, named here and not placed, per the assessment exclusion
+- Tally: 46 placements — 23 to existing lessons, 23 NEW LESSON NEEDED
+- China's own way: one compulsory combined volume for all senior-high students built around three core competencies (movement ability, healthy behaviour, sporting character); two required modules (fitness, health education) plus elective sport modules the student chooses; every sport chapter follows the same rhythm — know the sport, raise the technique, apply it in play — and traditional Chinese content (wushu, Taijiquan, folk sports, health-keeping qigong sets) sits beside Olympic and world sport.
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — the Olympic movement, from the ancient Games at Olympia to the modern Games (original target `sport-and-its-story/the-olympic-games-ancient-and-modern`) | China, *China Senior High PEP PE & Health*, 第五章 第三节 奥林匹克运动, printed p. 90 |
+
+China's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. China's own way is content, as the book line above records it: one compulsory combined volume for all senior-high students built around three core competencies (movement ability, healthy behaviour, sporting character), with traditional Chinese content (wushu, Taijiquan, folk sports, health-keeping qigong sets) beside Olympic and world sport. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: Olympic Games, Olympia 776 BC, Zeus, Pierre de Coubertin, IOC 1894, Athens 1896, Olympic flag five rings, motto Citius Altius Fortius Faster Higher Stronger, IFs NOCs, Olympic principles, Ethiopia HPE Grades 5–7

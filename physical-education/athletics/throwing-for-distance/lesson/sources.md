@@ -1,6 +1,6 @@
 # Sources — Throwing for Distance
 
-countries: Ethiopia, Kazakhstan, Tajikistan, Thailand, Pakistan
+countries: Ethiopia, Kazakhstan, Tajikistan, Thailand, Pakistan, China
 
 **Book — Grade 5 student:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 106 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md. COMPLETE.
 
@@ -29,7 +29,7 @@ countries: Ethiopia, Kazakhstan, Tajikistan, Thailand, Pakistan
 | Kazakhstan — Quarter 1 — the thrower's special exercises and throwing a small ball for distance and at a target (teacher guide — evidence) (original target `athletics/throwing-for-distance`) | Kazakhstan, *Physical Culture, Methodological Guide for Grade 4 Teachers* (Kazakhstan Grade 4 TG), printed p. 5 |
 | Tajikistan — Part 2, Throwing the Ball (Метание мяча) — throwing the small ball at horizontal and vertical targets from 3–4 m and throwing for distance (original target `athletics/throwing-for-distance`) | Tajikistan, *Fizicheskaya Kultura (Physical Culture), Grades 1–4*, Part 2, printed pp. ~106–112 |
 | Thailand — Unit 8 (part 2) Throwing — movement with equipment: throwing (การขว้าง) (student book — MAC sample, PARTIAL) (original target `athletics/throwing-for-distance`) | Thailand, *Health & PE, Grade 2* (Thailand Grade 2 MAC Health & PE), Unit 8 (part 2), printed pp. 141–146 |
-**Acceptance count: taught in 4 countries (Ethiopia, Tajikistan, Thailand, Pakistan).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count.
+**Acceptance count: taught in 5 countries (Ethiopia, Tajikistan, Thailand, Pakistan, China).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count.
 
 Student books Grades 5–7 are complete. No page is claimed that the placements do not give.
 
@@ -53,5 +53,25 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/pakistan-pe-
 | Pakistan — Chapter 7: Discus throw — sector, circle and rules, inside Rules and Skills of Sports (original target `jumping-and-throwing/throwing-the-discus`) | Pakistan, *Pakistan Grade 12 Sehat-o-Jismani Taleem*, Chapter 7: Discus throw, inside Rules and Skills of Sports, printed p. 69 |
 
 Pakistan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Pakistan's own way is content: its Urdu-medium combined Health and Physical Education books teach PE inside one subject alongside health, with biomechanics carried through every grade from 6 to 12 and its own games — kabaddi among them — taught in the senior books. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## China — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/china-pe-placements.md. China's book read for this expansion is the PEP Senior-High PE & Health compulsory complete volume (student book, Chinese), read in full (266 PDF pages; printed page = PDF page − 7); its Health parts are filed in china-health-placements.md and placed in the Health course. Records 2 and 3 in the placements file (the Ningxia textbook-selection results notice and the 2025 national catalogue excerpt) are record-only catalogue/notice evidence with 0 placements, nothing stocked from them. China is student-book stock, inside the acceptance count, in this lesson.
+
+**Book — China Senior High PEP PE & Health (student book):**
+## Book 1 — PEP Senior-High PE & Health, Compulsory, Complete Volume (student book, Chinese)
+- Title as printed: 普通高中教科书·体育与健康必修 全一册
+- Grade: Senior high (filed grade-12) (student/teacher: STUDENT)
+- Publisher: People's Education Press （人民教育出版社）, PEP Curriculum & Textbook Research Institute; chief editors Li Zhigang, Luo Bingquan; year: no year printed on the copyright page in this scan (cover production file dated 2022); ISBN: no ISBN printed on the copyright page (barcode on back cover)
+- PDF pages: 266 (cover/title page verified against the record title)
+- Verdict: COMPLETE — all 13 chapters read; the appendix (National Student Physical Fitness Standard indicator and scoring tables, printed pp. 252–258) is assessment-table material, named here and not placed, per the assessment exclusion
+- Tally: 46 placements — 23 to existing lessons, 23 NEW LESSON NEEDED
+- China's own way: one compulsory combined volume for all senior-high students built around three core competencies (movement ability, healthy behaviour, sporting character); two required modules (fitness, health education) plus elective sport modules the student chooses; every sport chapter follows the same rhythm — know the sport, raise the technique, apply it in play — and traditional Chinese content (wushu, Taijiquan, folk sports, health-keeping qigong sets) sits beside Olympic and world sport.
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — throwing events technique improvement and application (original target `athletics/throwing-for-distance`) | China, *China Senior High PEP PE & Health*, 第九章 第三节 投掷, printed p. 170 |
+
+China's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. China's own way is content, as the book line above records it: one compulsory combined volume for all senior-high students built around three core competencies (movement ability, healthy behaviour, sporting character), with traditional Chinese content (wushu, Taijiquan, folk sports, health-keeping qigong sets) beside Olympic and world sport. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: throwing for distance, throwing a small ball and a stick, ring and javelin-style throwing, shot put, javelin, discus, physical education, Ethiopia

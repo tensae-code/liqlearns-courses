@@ -1,6 +1,6 @@
 # Sources — The Rules of Basketball
 
-countries: Ethiopia, Timor-Leste, Pakistan, Afghanistan
+countries: Ethiopia, Timor-Leste, Pakistan, Afghanistan, China
 
 **Book — Grade 9 student:** *Health and Physical Education Student's Textbook Grade 9* (student textbook, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, First Published August 2023, ISBN 978-99990-0-072-7, 156 printed pp. Printed page = PDF page − 10. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g09-student-placements.md. COMPLETE.
 **Book — Grade 9 teacher (teacher guide — evidence):** *Health and Physical Education — Teacher Guide, Grade 9* (teacher guide, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, © 2022, printed pp. I–IX + 1–116. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g09-teacher-placements.md. COMPLETE.
@@ -18,7 +18,7 @@ countries: Ethiopia, Timor-Leste, Pakistan, Afghanistan
 | Teams of twelve, uniforms, and how the game is run (teacher guide — evidence) | Ethiopia, Grade 10 teacher Unit 6, Basketball rules in detail (teacher guide — evidence) (§6.1.1 teams of twelve incl. captain, coach and assistant coach as delegates; §6.1.2 uniform, numbers 0–99; §6.1.4 the captain; §6.1.5 the head coach; §6.1.6 playing regulation; §6.1.7 goal; §6.1.8 throw-in; §6.1.9 time-out; §6.1.10 substitution), printed pp. 70–72 |
 
 | Timor-Leste — Appendix 4: Basketball — the game's rules and mini-games (teacher guide — evidence) (original target `ball-games/the-rules-of-basketball`) | Timor-Leste, *Educação Física 7, Guia do Professor* (Timor-Leste Grade 7 Teacher Guide), printed p. 197 |
-**Acceptance count: taught in 2 countries (Ethiopia, Pakistan).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Timor-Leste is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 3 countries (Ethiopia, Pakistan, China).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Timor-Leste is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count.
 
 The Grade 10 teacher guide is substantively complete (printed pp. I–IX + 1–93): all 8 units, knowledge content and answer keys are present; only §8.3's final step-by-step teaching procedure is cut mid-sentence at printed p. 92. Nothing in this lesson rests on the cut tail. Teacher-guide rows are evidence only and never count as pupil-taught.
 
@@ -66,5 +66,25 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/afghanistan-
 | Afghanistan — Fouls in basketball: personal, disqualifying, unsportsmanlike, technical and double fouls, the charging foul, and the free-throw penalties each one carries (teacher guide — evidence) (original target `ball-games/the-rules-of-basketball`) | Afghanistan, *Afghanistan G10 PE TG Pashto*, printed p. 59 |
 
 Afghanistan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Afghanistan's own way is content, as the book lines above record it: the Grade 7 year is planned twice over — one annual plan for cold-region schools (year starts in Hamal) and one for warm-region schools (year starts in Sunbula) — with theory taught orally at the start or end of the practical hour, and the practical year resting on fitness, athletics, volleyball and Afghanistan's own traditional games; the Grade 10 lycee year is built on exactly two sports — basketball in the first half-year, tennis in the second — over a base of physical fitness, with the sciences around sport, first aid, sports massage and a full chapter on including disabled children in PE. Both Afghanistan books are teacher guides, filed as evidence only, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## China — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/china-pe-placements.md. China's book read for this expansion is the PEP Senior-High PE & Health compulsory complete volume (student book, Chinese), read in full (266 PDF pages; printed page = PDF page − 7); its Health parts are filed in china-health-placements.md and placed in the Health course. Records 2 and 3 in the placements file (the Ningxia textbook-selection results notice and the 2025 national catalogue excerpt) are record-only catalogue/notice evidence with 0 placements, nothing stocked from them. China is student-book stock, inside the acceptance count, in this lesson.
+
+**Book — China Senior High PEP PE & Health (student book):**
+## Book 1 — PEP Senior-High PE & Health, Compulsory, Complete Volume (student book, Chinese)
+- Title as printed: 普通高中教科书·体育与健康必修 全一册
+- Grade: Senior high (filed grade-12) (student/teacher: STUDENT)
+- Publisher: People's Education Press （人民教育出版社）, PEP Curriculum & Textbook Research Institute; chief editors Li Zhigang, Luo Bingquan; year: no year printed on the copyright page in this scan (cover production file dated 2022); ISBN: no ISBN printed on the copyright page (barcode on back cover)
+- PDF pages: 266 (cover/title page verified against the record title)
+- Verdict: COMPLETE — all 13 chapters read; the appendix (National Student Physical Fitness Standard indicator and scoring tables, printed pp. 252–258) is assessment-table material, named here and not placed, per the assessment exclusion
+- Tally: 46 placements — 23 to existing lessons, 23 NEW LESSON NEEDED
+- China's own way: one compulsory combined volume for all senior-high students built around three core competencies (movement ability, healthy behaviour, sporting character); two required modules (fitness, health education) plus elective sport modules the student chooses; every sport chapter follows the same rhythm — know the sport, raise the technique, apply it in play — and traditional Chinese content (wushu, Taijiquan, folk sports, health-keeping qigong sets) sits beside Olympic and world sport.
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — how a basketball game is played: method and rules (original target `ball-games/the-rules-of-basketball`) | China, *China Senior High PEP PE & Health*, 第八章 第二节 篮球, printed p. 126 |
+
+China's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. China's own way is content, as the book line above records it: one compulsory combined volume for all senior-high students built around three core competencies (movement ability, healthy behaviour, sporting character), with traditional Chinese content (wushu, Taijiquan, folk sports, health-keeping qigong sets) beside Olympic and world sport. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: the rules of basketball, basketball court 28 m by 15 m, quarters and overtime, 3 seconds, 5 seconds, free throws, technical foul, scoring 2 points 3 points 1 point, teams of twelve, uniforms 0 to 99, captain, throw-in, time-out, substitution, red perimeter lighting, physical education, Ethiopia

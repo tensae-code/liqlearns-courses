@@ -1,8 +1,8 @@
 # Sources — Swimming Basics
 
-countries: Turkmenistan, Tajikistan, Timor-Leste
+countries: Turkmenistan, Tajikistan, Timor-Leste, China
 
-**Acceptance count: taught in 3 countries (Turkmenistan, Tajikistan, Timor-Leste).** Turkmenistan is student-book stock (see its row below), inside the acceptance count. Tajikistan is added as student-book stock (see its row below), inside the acceptance count. Timor-Leste is added as student-book stock (see its rows below), inside the acceptance count; its teacher-guide water-safety row is evidence only.
+**Acceptance count: taught in 4 countries (Turkmenistan, Tajikistan, Timor-Leste, China).** Turkmenistan is student-book stock (see its row below), inside the acceptance count. Tajikistan is added as student-book stock (see its row below), inside the acceptance count. Timor-Leste is added as student-book stock (see its rows below), inside the acceptance count; its teacher-guide water-safety row is evidence only. China is added as student-book stock (see its rows below), inside the acceptance count.
 
 **Book — Turkmenistan Bedenterbiýe (student book):** *Bedenterbiýe (Physical Education)* (student book — study guide for higher schools, Turkmen) — Title as printed: Bedenterbiýe — Ýokary okuw mekdepleri üçin okuw gollanmasy (Physical Education — a study guide for higher schools) — Grade: Higher education (university) students and PE teachers; the abstract also names school PE teachers, coaches and athletes as users (student/teacher: STUDENT — university textbook) — Publisher: Türkmen döwlet neşirýat gullugy (Turkmen State Publishing Service), Aşgabat; year 2020; author S. Altyýew (Sapardurdy Altyýew); recommended by the Ministry of Education of Turkmenistan; no ISBN printed (UDK 378.796) — PDF pages: 192 (cover/title page verified against the record title; downloaded 12,849,582 B). Verdict: COMPLETE — with two parts named but not placed: Part IX (the PE teacher's and coach's professional pedagogy, pp. 120–131) is written for teachers about their own profession, and Part XIV (promoting mass PE and sport through TV/radio, print and visual agitation, pp. 171–177) is organiser-facing promotion method; the closing Tests (pp. 178–184) are the book's own assessment and the glossary of main concepts (pp. 185–188) is inventory-only, both excluded per the brief. Read in full in the 2026-11-16 PE expansion read. Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkmenistan-pe-placements.md. Turkmenistan's own way: PE theory is taught as one systematic university course that runs from the origin of physical culture through the physical qualities, training loads and recovery to healthy lifestyle, nutrition and medical control — the same theory spine Turkmen school PE teachers are trained on.
 
@@ -26,5 +26,25 @@ This is a canonical NEW lesson (slug-registry Part 1: `moving-basics/swimming-ba
 Tajikistan enters this lesson as student-book stock, inside the acceptance count, under its original string `athletics/swimming-for-everyone`, resolved to this canonical slug by registry Part 2.
 
 Timor-Leste enters this lesson under its original string `moving-basics/swimming-and-water-safety`, resolved to this canonical slug by registry Part 2 (the string's five placed lines — Jamaica's three swimming-and-water-safety units and Timor-Leste's two water-safety units — all resolve to `moving-basics/swimming-basics`) and recorded in the provenance rows above. The Timor-Leste teaching itself is a water-safety investigation and unit — how to be safe in and around water — stocked here as the registry directs. The student-book row is student-book stock, inside the acceptance count; the teacher-guide row is evidence only.
+
+## China — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/china-pe-placements.md. China's book read for this expansion is the PEP Senior-High PE & Health compulsory complete volume (student book, Chinese), read in full (266 PDF pages; printed page = PDF page − 7); its Health parts are filed in china-health-placements.md and placed in the Health course. Records 2 and 3 in the placements file (the Ningxia textbook-selection results notice and the 2025 national catalogue excerpt) are record-only catalogue/notice evidence with 0 placements, nothing stocked from them. China is student-book stock, inside the acceptance count, in this lesson.
+
+**Book — China Senior High PEP PE & Health (student book):**
+## Book 1 — PEP Senior-High PE & Health, Compulsory, Complete Volume (student book, Chinese)
+- Title as printed: 普通高中教科书·体育与健康必修 全一册
+- Grade: Senior high (filed grade-12) (student/teacher: STUDENT)
+- Publisher: People's Education Press （人民教育出版社）, PEP Curriculum & Textbook Research Institute; chief editors Li Zhigang, Luo Bingquan; year: no year printed on the copyright page in this scan (cover production file dated 2022); ISBN: no ISBN printed on the copyright page (barcode on back cover)
+- PDF pages: 266 (cover/title page verified against the record title)
+- Verdict: COMPLETE — all 13 chapters read; the appendix (National Student Physical Fitness Standard indicator and scoring tables, printed pp. 252–258) is assessment-table material, named here and not placed, per the assessment exclusion
+- Tally: 46 placements — 23 to existing lessons, 23 NEW LESSON NEEDED
+- China's own way: one compulsory combined volume for all senior-high students built around three core competencies (movement ability, healthy behaviour, sporting character); two required modules (fitness, health education) plus elective sport modules the student chooses; every sport chapter follows the same rhythm — know the sport, raise the technique, apply it in play — and traditional Chinese content (wushu, Taijiquan, folk sports, health-keeping qigong sets) sits beside Olympic and world sport.
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — swimming: breaststroke and freestyle technique improvement (the section's drowning-rescue part is filed in the Health file) (original target `moving-basics/swimming`) | China, *China Senior High PEP PE & Health*, 第十二章 第一节 游泳, printed p. 218 |
+
+China's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. China's own way is content, as the book line above records it: one compulsory combined volume for all senior-high students built around three core competencies (movement ability, healthy behaviour, sporting character), with traditional Chinese content (wushu, Taijiquan, folk sports, health-keeping qigong sets) beside Olympic and world sport. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: swimming basics, swimming in the water, Suwda ýüzmek, the importance of swimming, Suwda ýüzmegiň ähmiýeti, all-round physical development, Turkmenistan Bedenterbiýe, water safety investigation, Segurança na Água, Timor-Leste Educação Física Grade 7

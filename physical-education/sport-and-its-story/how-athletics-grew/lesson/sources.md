@@ -1,6 +1,6 @@
 # Sources — How Athletics Grew — A Short History
 
-countries: Ethiopia, Afghanistan
+countries: Ethiopia, Afghanistan, China
 
 **Book 1:** *Grade 7 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–96 + front matter (104 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g07-student-placements.md.
 
@@ -24,7 +24,7 @@ countries: Ethiopia, Afghanistan
 | Athletics — the base sport (teacher guide — evidence) | Ethiopia, *Grade 5 Teacher Guide*, Chapter 4 intro and §4.3, printed pp. 35 and 40–41 |
 | The Grade 10 guide's telling (teacher guide — evidence) | Ethiopia, *Grade 10 Teacher Guide*, Unit 3 — Athletics histories, printed pp. 26–28 (teacher guide — evidence): world athletics (modern athletics, major events, world-class athletes); African athletics — contribution back to the very foundation of the IAAF (International Amateur Athletics Federation), prominence grew from the 1960s; Ethiopian athletics — Bikila's barefoot marathon victory and his retained Tokyo title, wearing shoes |
 
-**Acceptance count: taught in 1 country (Ethiopia).** Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 2 countries (Ethiopia, China).** Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count.
 
 The Grade 7 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -54,5 +54,25 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/afghanistan-
 | Afghanistan — History of athletics: athletics as the "mother of sports" built on running, jumping and throwing, and its full event family — sprints, middle and long distance, hurdles, relays, jumps, throws, race walking, decathlon and heptathlon (teacher guide — evidence) (original target `sport-and-its-story/how-athletics-grew`) | Afghanistan, *Afghanistan G7 PE TG Dari*, printed p. 43 |
 
 Afghanistan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Afghanistan's own way is content, as the book lines above record it: the Grade 7 year is planned twice over — one annual plan for cold-region schools (year starts in Hamal) and one for warm-region schools (year starts in Sunbula) — with theory taught orally at the start or end of the practical hour, and the practical year resting on fitness, athletics, volleyball and Afghanistan's own traditional games; the Grade 10 lycee year is built on exactly two sports — basketball in the first half-year, tennis in the second — over a base of physical fitness, with the sciences around sport, first aid, sports massage and a full chapter on including disabled children in PE. Both Afghanistan books are teacher guides, filed as evidence only, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## China — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/china-pe-placements.md. China's book read for this expansion is the PEP Senior-High PE & Health compulsory complete volume (student book, Chinese), read in full (266 PDF pages; printed page = PDF page − 7); its Health parts are filed in china-health-placements.md and placed in the Health course. Records 2 and 3 in the placements file (the Ningxia textbook-selection results notice and the 2025 national catalogue excerpt) are record-only catalogue/notice evidence with 0 placements, nothing stocked from them. China is student-book stock, inside the acceptance count, in this lesson.
+
+**Book — China Senior High PEP PE & Health (student book):**
+## Book 1 — PEP Senior-High PE & Health, Compulsory, Complete Volume (student book, Chinese)
+- Title as printed: 普通高中教科书·体育与健康必修 全一册
+- Grade: Senior high (filed grade-12) (student/teacher: STUDENT)
+- Publisher: People's Education Press （人民教育出版社）, PEP Curriculum & Textbook Research Institute; chief editors Li Zhigang, Luo Bingquan; year: no year printed on the copyright page in this scan (cover production file dated 2022); ISBN: no ISBN printed on the copyright page (barcode on back cover)
+- PDF pages: 266 (cover/title page verified against the record title)
+- Verdict: COMPLETE — all 13 chapters read; the appendix (National Student Physical Fitness Standard indicator and scoring tables, printed pp. 252–258) is assessment-table material, named here and not placed, per the assessment exclusion
+- Tally: 46 placements — 23 to existing lessons, 23 NEW LESSON NEEDED
+- China's own way: one compulsory combined volume for all senior-high students built around three core competencies (movement ability, healthy behaviour, sporting character); two required modules (fitness, health education) plus elective sport modules the student chooses; every sport chapter follows the same rhythm — know the sport, raise the technique, apply it in play — and traditional Chinese content (wushu, Taijiquan, folk sports, health-keeping qigong sets) sits beside Olympic and world sport.
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — how sport evolved from ancient to modern society (original target `sport-and-its-story/how-sport-grew-through-history`) | China, *China Senior High PEP PE & Health*, 第五章 第一节 体育的演变与发展, printed p. 86 |
+
+China's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. China's own way is content, as the book line above records it: one compulsory combined volume for all senior-high students built around three core competencies (movement ability, healthy behaviour, sporting character), with traditional Chinese content (wushu, Taijiquan, folk sports, health-keeping qigong sets) beside Olympic and world sport. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: history of athletics, athletics base sport, running jumping throwing, modern sport commercial industry, Ethiopia HPE Grades 5 and 7

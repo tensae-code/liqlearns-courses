@@ -229,6 +229,35 @@ risman kashi); the Grade 10 lycee year built on basketball in
 the first half-year and tennis in the second, with a full
 chapter on including disabled children in PE.
 
+**PE expansion — China — BUILT 2026-11-16:** 46 placements
+from China's PEP Senior-High PE & Health, Compulsory,
+Complete Volume (student book, Chinese, COMPLETE) stocked —
+30 into existing lessons (including Correct Posture, How We
+Learn Movement Skills, Table Tennis, Swimming Basics and
+Skiing for Beginners, built earlier in this expansion) and
+16 as 11 new lessons (Choosing Your Sport; Fair Play and
+Sporting Character; Traditional Sports of China; Wushu and
+Taijiquan; Chinese Health-Keeping Exercises; Using Tactics
+in a Match; Badminton Techniques; Ice Skating; Roller
+Skating; Orienteering and Hiking; Rope Skipping) —
+bringing this course to **119 lessons**. The China book is
+a student book, filed as student-book stock, inside the
+acceptance counts; its Health parts are placed in the
+Health course. No China placement resolves to a
+Health-course lesson, so none was excluded as Health-bound.
+The book's appendix (National Student Physical Fitness
+Standard indicator and scoring tables, printed pp. 252–258)
+is assessment-table material, named and not placed, as
+filed; Records 2 and 3 (the Ningxia textbook-selection
+results notice and the 2025 national catalogue excerpt)
+are record-only catalogue/notice evidence with 0
+placements. China's own way is content: one compulsory
+combined volume for all senior-high students built around
+three core competencies (movement ability, healthy
+behaviour, sporting character), with traditional Chinese
+content (wushu, Taijiquan, folk sports, health-keeping
+qigong sets) beside Olympic and world sport.
+
 ## Unit 1 — Moving Basics
 
 1. **Combined Travelling and On-the-Spot Movements** (`moving-basics/combined-travelling-and-on-the-spot`) — joining travelling movements together, joining on-the-spot movements together, and chaining the two families in one sequence.
@@ -241,6 +270,8 @@ chapter on including disabled children in PE.
 8. **Swimming Basics** (`moving-basics/swimming-basics`) — swimming basics: first steps in the water — getting in, floating, moving through water and playing in it, and why everyone should learn to swim — taught in Turkmenistan's Bedenterbiýe as swimming in the water (Suwda ýüzmek) and the importance of swimming (Suwda ýüzmegiň ähmiýeti), part of all-round physical development (Turkmenistan's student book).
 9. **How We Learn Movement Skills** (`moving-basics/how-we-learn-movement-skills`) — how we learn movement skills: the factors affecting movement and performance — biomechanical efficiency (the swimmer's arm recovery) and effective equipment — and feedback in skill learning: intrinsic, extrinsic and kinaesthetic (Samoa's Years 11–12 teacher guide, evidence only).
 10. **Correct Posture** (`moving-basics/correct-posture`) — correct posture: holding the body well standing, sitting, walking, lifting and in sport — and recognising and correcting posture faults — taught in Pakistan's Grade 6 book as Posture, correct and faulty posture, inside the skeletal system and muscles chapter (Pakistan's student book).
+11. **Ice Skating** (`moving-basics/ice-skating`) — ice skating: the sport and its technique — taught in China's Senior High book as ice skating (滑冰) (China's student book).
+12. **Roller Skating** (`moving-basics/roller-skating`) — roller skating: choosing skates and protective gear, safe falling, standing up and basic technique — taught in China's Senior High book as roller skating (轮滑): safe falling and standing up, and basic technique (China's student book).
 
 ## Unit 2 — Fitness and Stretching
 
@@ -257,6 +288,7 @@ chapter on including disabled children in PE.
 11. **Warming Up and Cooling Down** (`fitness-and-stretching/warming-up-and-cooling-down`) — warming up and cooling down: preparing the body for exercise, and relaxing and returning to calm afterwards — taught in Pakistan's Grade 10 book as Warm-Up and Warm-Down (Cool-Down) Activities for Sports (Pakistan's student book).
 12. **Planning Your Own Training** (`fitness-and-stretching/planning-your-own-training`) — planning your own training: fitness plans, FITT, training zones and cycles, and designing training from your goals and data — taught in Pakistan's Grade 11 book as the Fitness Plan (Pakistan's student book).
 13. **Adapted Physical Education** (`fitness-and-stretching/adapted-physical-education`) — adapted physical education: adjusting activity so every child — including children with disabilities — can take part — taught in Afghanistan's Grade 10 guide as PE for children with disabilities: who needs adapted PE, and how activity is adjusted for children with intellectual disability, postural and bone problems, hearing and sight impairment, hyperactivity, and children who are withdrawn or afraid of activity (Afghanistan's Grade 10 teacher guide, evidence only).
+14. **Rope Skipping** (`fitness-and-stretching/rope-skipping`) — rope skipping: swinging and jumping the rope — basic, fancy and complex rope skills, alone and in groups — taught in China's Senior High book as fancy rope skipping (花样跳绳): solo and group patterned skipping (China's student book).
 
 ## Unit 3 — Gymnastics
 
@@ -276,6 +308,7 @@ chapter on including disabled children in PE.
 5. **Timed and Distance Running** (`athletics/timed-and-distance-running`) — running against the clock — short timed sprints, middle-distance runs to the clock, and 1500 and 2000 metre distance runs.
 6. **Skiing for Beginners** (`athletics/skiing-for-beginners`) — skiing for beginners: the sliding step, the alternating stride, descending in a stance, the step turn, climbing "ladder" style, covering 2–3 km and free skiing, with safety theory and drill on skis (Kazakhstan's Grade 4 teacher guide, evidence only).
 7. **The Rules of Athletics** (`athletics/the-rules-of-athletics`) — the rules of athletics competition: starts, false starts, and the jump, throw and track rules — taught in Pakistan's Grade 7 book as Rules and Skills of Athletics and in its Grade 8 book inside Rules and Skills of Sports and Athletics (Pakistan's student books).
+8. **Orienteering and Hiking** (`athletics/orienteering-and-hiking`) — orienteering and hiking: reading a map and plan, using a compass, following a route and walking the land — taught in China's Senior High book as orienteering (定向运动): moving by map and compass (China's student book).
 
 ## Unit 5 — Ball Games
 
@@ -296,6 +329,8 @@ chapter on including disabled children in PE.
 15. **Basketball Passing, Dribbling and Shooting** (`ball-games/basketball-passing-dribbling-and-shooting`) — basketball passing, dribbling and shooting: the passes, beating a defender, and shots at the basket — taught in Afghanistan's Grade 10 guide as the chest pass and passing while running, the baseball pass, feinting and pivoting, and shooting and dribbling points (Afghanistan's Grade 10 teacher guide, evidence only).
 16. **The Rules of Tennis** (`ball-games/the-rules-of-tennis`) — the rules of tennis: court, equipment, scoring, the serve and how a match runs — taught in Afghanistan's Grade 10 guide as the tennis court, equipment and rules (Afghanistan's Grade 10 teacher guide, evidence only).
 17. **Tennis Strokes and Serves** (`ball-games/tennis-strokes-and-serves`) — tennis strokes and serves: grips, groundstrokes, the serve, volleys, smashes and touch shots — taught in Afghanistan's Grade 10 guide as the groundstrokes and the serve, volley and touch shots (Afghanistan's Grade 10 teacher guide, evidence only).
+18. **Using Tactics in a Match** (`ball-games/using-tactics-in-a-match`) — using tactics in a match: planning a tactic, attack and defence patterns, and making decisions under pressure — taught in China's Senior High book as drawing up a match tactic plan (比赛战术的制订) and applying tactics in a match (比赛战术的运用) (China's student book).
+19. **Badminton Techniques** (`ball-games/badminton-techniques`) — badminton techniques: grip, serves, clears, drop shots, drives, smashes and rally play — taught in China's Senior High book as badminton (羽毛球): the game, its techniques and how a match is played (China's student book).
 
 ## Unit 6 — Games to Play
 
@@ -338,6 +373,9 @@ chapter on including disabled children in PE.
 26. **Kabaddi** (`traditional-games-and-dances/kabaddi`) — kabaddi: the raiding game — how it is played, the court and rules, raiding, holding and tactics — taught in Pakistan's Grade 11 book as kabaddi: match time, raids and the court, inside Rules and Skills of Sports (Pakistan's student book).
 27. **Buzkashi** (`traditional-games-and-dances/buzkashi`) — buzkashi: Afghanistan's national game — mounted riders (chapandaz) carrying the goat or calf carcass past the flag to the scoring circle (Afghanistan's Grade 7 teacher guide, evidence only).
 28. **Tug of War** (`traditional-games-and-dances/tug-of-war`) — tug of war: two teams pulling a rope to drag the other across the line — strength, coordination and teamwork — taught in Afghanistan's Grade 7 guide as risman kashi, the traditional Afghan holiday game played with a rope of 20 m or more (Afghanistan's Grade 7 teacher guide, evidence only).
+29. **Traditional Sports of China** (`traditional-games-and-dances/traditional-sports-of-china`) — China's traditional sports culture — its deep cultural meaning and body-and-mind harmony — and its ethnic folk sports: board-shoe racing, stilt racing, flower-cannon scramble, pearl ball, shuttlecock kicking, diabolo and dragon-boat racing (China's student book).
+30. **Wushu and Taijiquan** (`traditional-games-and-dances/wushu-and-taijiquan`) — Chinese martial arts — what wushu is, the Xingshen Quan form in the Changquan style with its hand forms and stances, and Taijiquan's Eight Methods and Five Steps beginner form (China's student book).
+31. **Chinese Health-Keeping Exercises** (`traditional-games-and-dances/chinese-health-keeping-exercises`) — the health-keeping exercise sets: Yijinjing, Wuqinxi (Five Animal Frolics) and Baduanjin (China's student book).
 
 ## Unit 8 — Sport and Its Story
 
@@ -360,3 +398,5 @@ chapter on including disabled children in PE.
 17. **What Sport Is — and How It Differs from PE** (`sport-and-its-story/what-sport-is`) — what sport is — organised competitive play with its own rules, where a winner and a loser are decided — and how it differs from physical education,…
 18. **Organising Competitions and Events** (`sport-and-its-story/organising-competitions-and-events`) — organising competitions and events: fixtures, draws, tournaments, sports days and running a sports event well — taught in Pakistan's Grade 11 book as tournament systems: knock-out, league and combination fixtures (Pakistan's student book).
 19. **Basketball in Afghanistan** (`sport-and-its-story/basketball-in-afghanistan`) — basketball in Afghanistan: how the game arrived and grew — the foreign coach at Bala Hissar in 1317 HS, Kabul University and the schools, girls' and women's teams, the national team tours and joining FIBA (Afghanistan's Grade 10 teacher guide, evidence only).
+20. **Choosing Your Sport** (`sport-and-its-story/choosing-your-sport`) — choosing your sport: picking the sports and modules you will learn, by interest, foundation and what is offered — taught in China's Senior High book as the guidance on choosing option modules in its 12-module course (2 required + 10 elective) (China's student book).
+21. **Fair Play and Sporting Character** (`sport-and-its-story/fair-play-and-sporting-character`) — fair play and sporting character: why sport needs rules, sporting spirit, ethics, codes of conduct and equal participation — taught in China's Senior High book as sporting spirit (体育精神), sports morality (体育道德) and sporting character (体育品格) (China's student book).

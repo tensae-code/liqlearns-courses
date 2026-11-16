@@ -1,6 +1,6 @@
 # Sources — Volleyball Passing and Setting
 
-countries: Ethiopia, Afghanistan
+countries: Ethiopia, Afghanistan, China
 
 **Book — Grade 5 student:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 106 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md. COMPLETE.
 
@@ -27,7 +27,7 @@ countries: Ethiopia, Afghanistan
 | The spike — Grade 9 | Ethiopia, Grade 9 teacher Unit 5 spike (teacher guide — evidence), printed pp. 65–72 |
 | Blocking — Grade 10 | Ethiopia, Grade 10 student §5.2 Blocking skills + §5.1 rules, printed pp. 86–98 |
 | Blocking — Grade 10 | Ethiopia, Grade 10 teacher Unit 5 blocking and rules (teacher guide — evidence), printed pp. 60–69 |
-**Acceptance count: taught in 1 country (Ethiopia).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 2 countries (Ethiopia, China).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count.
 
 The Grade 5 and Grade 6 teacher guides' ball-games chapters are in the truncated missing ranges of those scans (G5T Chapter 6, pp. 57–77; G6T Chapter 6, pp. 65–82), so this lesson rests on the complete student books only; no teacher-guide pages are claimed for it.
 
@@ -58,5 +58,25 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/afghanistan-
 | Afghanistan — The forearm pass (the dig): locked straight arms forming a platform, body position, taking the serve, and defending with a dive and roll (teacher guide — evidence) (original target `ball-games/volleyball-passing-and-setting`) | Afghanistan, *Afghanistan G7 PE TG Dari*, printed p. 85 |
 
 Afghanistan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Afghanistan's own way is content, as the book lines above record it: the Grade 7 year is planned twice over — one annual plan for cold-region schools (year starts in Hamal) and one for warm-region schools (year starts in Sunbula) — with theory taught orally at the start or end of the practical hour, and the practical year resting on fitness, athletics, volleyball and Afghanistan's own traditional games; the Grade 10 lycee year is built on exactly two sports — basketball in the first half-year, tennis in the second — over a base of physical fitness, with the sciences around sport, first aid, sports massage and a full chapter on including disabled children in PE. Both Afghanistan books are teacher guides, filed as evidence only, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## China — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/china-pe-placements.md. China's book read for this expansion is the PEP Senior-High PE & Health compulsory complete volume (student book, Chinese), read in full (266 PDF pages; printed page = PDF page − 7); its Health parts are filed in china-health-placements.md and placed in the Health course. Records 2 and 3 in the placements file (the Ningxia textbook-selection results notice and the 2025 national catalogue excerpt) are record-only catalogue/notice evidence with 0 placements, nothing stocked from them. China is student-book stock, inside the acceptance count, in this lesson.
+
+**Book — China Senior High PEP PE & Health (student book):**
+## Book 1 — PEP Senior-High PE & Health, Compulsory, Complete Volume (student book, Chinese)
+- Title as printed: 普通高中教科书·体育与健康必修 全一册
+- Grade: Senior high (filed grade-12) (student/teacher: STUDENT)
+- Publisher: People's Education Press （人民教育出版社）, PEP Curriculum & Textbook Research Institute; chief editors Li Zhigang, Luo Bingquan; year: no year printed on the copyright page in this scan (cover production file dated 2022); ISBN: no ISBN printed on the copyright page (barcode on back cover)
+- PDF pages: 266 (cover/title page verified against the record title)
+- Verdict: COMPLETE — all 13 chapters read; the appendix (National Student Physical Fitness Standard indicator and scoring tables, printed pp. 252–258) is assessment-table material, named here and not placed, per the assessment exclusion
+- Tally: 46 placements — 23 to existing lessons, 23 NEW LESSON NEEDED
+- China's own way: one compulsory combined volume for all senior-high students built around three core competencies (movement ability, healthy behaviour, sporting character); two required modules (fitness, health education) plus elective sport modules the student chooses; every sport chapter follows the same rhythm — know the sport, raise the technique, apply it in play — and traditional Chinese content (wushu, Taijiquan, folk sports, health-keeping qigong sets) sits beside Olympic and world sport.
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — volleyball techniques: passing and setting (original target `ball-games/volleyball-passing-and-setting`) | China, *China Senior High PEP PE & Health*, 第八章 第三节 排球, printed p. 138 |
+
+China's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. China's own way is content, as the book line above records it: one compulsory combined volume for all senior-high students built around three core competencies (movement ability, healthy behaviour, sporting character), with traditional Chinese content (wushu, Taijiquan, folk sports, health-keeping qigong sets) beside Olympic and world sport. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: volleyball passing and setting, the forearm pass, the finger pass, setting the ball for a team-mate, underarm serve and forearm receive, side underarm serve and receiving stance, physical education, Ethiopia

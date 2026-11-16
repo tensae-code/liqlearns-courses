@@ -1,6 +1,6 @@
 # Sources — What Physical Education Is and Where It Came From
 
-countries: Ethiopia, Mozambique, Namibia, Turkmenistan, Tajikistan, Afghanistan
+countries: Ethiopia, Mozambique, Namibia, Turkmenistan, Tajikistan, Afghanistan, China
 
 **Book 1:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–106 + front matter (114 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md.
 
@@ -32,7 +32,7 @@ countries: Ethiopia, Mozambique, Namibia, Turkmenistan, Tajikistan, Afghanistan
 
 | Turkmenistan — Part I, The Origin of Physical Education — PE as part of general human culture, sport as the future of cultural life, and how PE and sport differ and join (original target `sport-and-its-story/what-physical-education-is-and-where-it-came-from`) | Turkmenistan, *Bedenterbiýe (Physical Education)*, Part I, printed pp. 15–18 |
 | Tajikistan — Part 1, The Origin of Physical Culture and Sport — how physical exercise began with early people's hunting, defence and work, and how throws, runs and jumps became practised movements (original target `sport-and-its-story/what-physical-education-is-and-where-it-came-from`) | Tajikistan, *Fizicheskaya Kultura (Physical Culture), Grades 1–4*, Part 1, printed pp. 6–9 |
-**Acceptance count: taught in 3 countries (Ethiopia, Turkmenistan, Tajikistan).** Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Namibia is likewise added as teacher-guide evidence only, outside the acceptance count. Turkmenistan is added as student-book stock (see its row above), inside the acceptance count. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 4 countries (Ethiopia, Turkmenistan, Tajikistan, China).** Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Namibia is likewise added as teacher-guide evidence only, outside the acceptance count. Turkmenistan is added as student-book stock (see its row above), inside the acceptance count. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count.
 
 The Grade 5 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -76,5 +76,25 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/afghanistan-
 | Afghanistan — What physical education is: several definitions of PE, and PE as the part of general education that develops the whole person — body, mind, society, feeling and character — through physical activity (teacher guide — evidence) (original target `sport-and-its-story/what-physical-education-is-and-where-it-came-from`) | Afghanistan, *Afghanistan G10 PE TG Pashto*, printed p. 34 |
 
 Afghanistan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Afghanistan's own way is content, as the book lines above record it: the Grade 7 year is planned twice over — one annual plan for cold-region schools (year starts in Hamal) and one for warm-region schools (year starts in Sunbula) — with theory taught orally at the start or end of the practical hour, and the practical year resting on fitness, athletics, volleyball and Afghanistan's own traditional games; the Grade 10 lycee year is built on exactly two sports — basketball in the first half-year, tennis in the second — over a base of physical fitness, with the sciences around sport, first aid, sports massage and a full chapter on including disabled children in PE. Both Afghanistan books are teacher guides, filed as evidence only, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## China — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/china-pe-placements.md. China's book read for this expansion is the PEP Senior-High PE & Health compulsory complete volume (student book, Chinese), read in full (266 PDF pages; printed page = PDF page − 7); its Health parts are filed in china-health-placements.md and placed in the Health course. Records 2 and 3 in the placements file (the Ningxia textbook-selection results notice and the 2025 national catalogue excerpt) are record-only catalogue/notice evidence with 0 placements, nothing stocked from them. China is student-book stock, inside the acceptance count, in this lesson.
+
+**Book — China Senior High PEP PE & Health (student book):**
+## Book 1 — PEP Senior-High PE & Health, Compulsory, Complete Volume (student book, Chinese)
+- Title as printed: 普通高中教科书·体育与健康必修 全一册
+- Grade: Senior high (filed grade-12) (student/teacher: STUDENT)
+- Publisher: People's Education Press （人民教育出版社）, PEP Curriculum & Textbook Research Institute; chief editors Li Zhigang, Luo Bingquan; year: no year printed on the copyright page in this scan (cover production file dated 2022); ISBN: no ISBN printed on the copyright page (barcode on back cover)
+- PDF pages: 266 (cover/title page verified against the record title)
+- Verdict: COMPLETE — all 13 chapters read; the appendix (National Student Physical Fitness Standard indicator and scoring tables, printed pp. 252–258) is assessment-table material, named here and not placed, per the assessment exclusion
+- Tally: 46 placements — 23 to existing lessons, 23 NEW LESSON NEEDED
+- China's own way: one compulsory combined volume for all senior-high students built around three core competencies (movement ability, healthy behaviour, sporting character); two required modules (fitness, health education) plus elective sport modules the student chooses; every sport chapter follows the same rhythm — know the sport, raise the technique, apply it in play — and traditional Chinese content (wushu, Taijiquan, folk sports, health-keeping qigong sets) sits beside Olympic and world sport.
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — what the senior-high PE & Health course is for; adolescent physical and mental development and the course's role in it (original target `sport-and-its-story/what-physical-education-is-and-where-it-came-from`) | China, *China Senior High PEP PE & Health*, 第一章 第一节 上好高中体育与健康课的意义, printed p. 4 |
+
+China's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. China's own way is content, as the book line above records it: one compulsory combined volume for all senior-high students built around three core competencies (movement ability, healthy behaviour, sporting character), with traditional Chinese content (wushu, Taijiquan, folk sports, health-keeping qigong sets) beside Olympic and world sport. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: what physical education is, history of physical education, ancient Greece PE, modern PE, four words ጤና ሰውነት ማጎልመሻ ትምህርት, four growths, four purposes of PE, Ethiopia HPE Grades 5–6

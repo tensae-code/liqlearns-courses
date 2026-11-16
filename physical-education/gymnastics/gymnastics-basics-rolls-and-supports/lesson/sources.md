@@ -1,6 +1,6 @@
 # Sources — Gymnastics Basics — Positions, Rolls and Supports
 
-countries: Ethiopia, Zambia, Kazakhstan, Tajikistan, Timor-Leste
+countries: Ethiopia, Zambia, Kazakhstan, Tajikistan, Timor-Leste, China
 
 **Book — Grade 1 student:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 81 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md. COMPLETE.
 
@@ -45,10 +45,30 @@ countries: Ethiopia, Zambia, Kazakhstan, Tajikistan, Timor-Leste
 | Tajikistan — Part 2, Gymnastics (ГИМНАСТИКА) — what gymnastics is as a sport: drill and commands, acrobatics, rope climbing and supports, with the rules of behaviour in gymnastics lessons (original target `gymnastics/gymnastics-basics-rolls-and-supports`) | Tajikistan, *Fizicheskaya Kultura (Physical Culture), Grades 1–4*, Part 2, printed pp. 67–97 |
 | Timor-Leste — Period 3: Gymnastics demonstration/presentation — preparing and showing gymnastics work as the gymkhana alternative (original target `gymnastics/gymnastics-basics-rolls-and-supports`) | Timor-Leste, *Educação Física 7, Manual do aluno* (Timor-Leste Grade 7 Student Book), printed p. 42 |
 | Timor-Leste — Appendix 5: Gymnastics — gymnastics skills and progressions for the class (teacher guide — evidence) (original target `gymnastics/gymnastics-basics-rolls-and-supports`) | Timor-Leste, *Educação Física 7, Guia do Professor* (Timor-Leste Grade 7 Teacher Guide), printed p. 231 |
-**Acceptance count: taught in 3 countries (Ethiopia, Tajikistan, Timor-Leste).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Zambia is added as teacher-module evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Timor-Leste is added as student-book stock (see its rows above), inside the acceptance count; its Appendix 5 gymnastics row rests on the teacher guide and is evidence only.
+**Acceptance count: taught in 4 countries (Ethiopia, Tajikistan, Timor-Leste, China).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Zambia is added as teacher-module evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Timor-Leste is added as student-book stock (see its rows above), inside the acceptance count; its Appendix 5 gymnastics row rests on the teacher guide and is evidence only. China is added as student-book stock (see its rows below), inside the acceptance count.
 
 Student books Grades 1–4 are complete. No page is claimed that the placements do not give. Dance and game rules are taught only as the placements summarise them; no rules have been invented for any game the placements leave game-dependent.
 
 The Grade 1 teacher guide scan is TRUNCATED: it holds printed pp. 1–43 of 85+. Missing: the rest of §4.2, §4.3 Stretching and flexibility (p. 47), §4.4 Agility (p. 53), all of Chapter 5 Gymnastics (pp. 59–78) and all of Chapter 6 (pp. 79–85+). Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
+
+## China — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/china-pe-placements.md. China's book read for this expansion is the PEP Senior-High PE & Health compulsory complete volume (student book, Chinese), read in full (266 PDF pages; printed page = PDF page − 7); its Health parts are filed in china-health-placements.md and placed in the Health course. Records 2 and 3 in the placements file (the Ningxia textbook-selection results notice and the 2025 national catalogue excerpt) are record-only catalogue/notice evidence with 0 placements, nothing stocked from them. China is student-book stock, inside the acceptance count, in this lesson.
+
+**Book — China Senior High PEP PE & Health (student book):**
+## Book 1 — PEP Senior-High PE & Health, Compulsory, Complete Volume (student book, Chinese)
+- Title as printed: 普通高中教科书·体育与健康必修 全一册
+- Grade: Senior high (filed grade-12) (student/teacher: STUDENT)
+- Publisher: People's Education Press （人民教育出版社）, PEP Curriculum & Textbook Research Institute; chief editors Li Zhigang, Luo Bingquan; year: no year printed on the copyright page in this scan (cover production file dated 2022); ISBN: no ISBN printed on the copyright page (barcode on back cover)
+- PDF pages: 266 (cover/title page verified against the record title)
+- Verdict: COMPLETE — all 13 chapters read; the appendix (National Student Physical Fitness Standard indicator and scoring tables, printed pp. 252–258) is assessment-table material, named here and not placed, per the assessment exclusion
+- Tally: 46 placements — 23 to existing lessons, 23 NEW LESSON NEEDED
+- China's own way: one compulsory combined volume for all senior-high students built around three core competencies (movement ability, healthy behaviour, sporting character); two required modules (fitness, health education) plus elective sport modules the student chooses; every sport chapter follows the same rhythm — know the sport, raise the technique, apply it in play — and traditional Chinese content (wushu, Taijiquan, folk sports, health-keeping qigong sets) sits beside Olympic and world sport.
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — tumbling: handstand into forward roll, straight-leg backward roll (original target `gymnastics/gymnastics-basics-rolls-and-supports`) | China, *China Senior High PEP PE & Health*, 第十章 第一节 技巧, printed p. 176 |
+
+China's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. China's own way is content, as the book line above records it: one compulsory combined volume for all senior-high students built around three core competencies (movement ability, healthy behaviour, sporting character), with traditional Chinese content (wushu, Taijiquan, folk sports, health-keeping qigong sets) beside Olympic and world sport. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: gymnastics basics — positions, rolls and supports, what gymnastics is, positions and rolls, rolls and steps, harder, rolls and supports in pairs, physical education, Ethiopia, Rolling, jumping and turning — the Grade 1 guide's second body parts (teacher guide — evidence)

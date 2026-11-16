@@ -1,6 +1,6 @@
 # Sources — Kicking, Passing and Dribbling
 
-countries: Ethiopia, Kazakhstan, Tajikistan, Timor-Leste, Pakistan
+countries: Ethiopia, Kazakhstan, Tajikistan, Timor-Leste, Pakistan, China
 
 **Book — Grade 1 student:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 81 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md. COMPLETE.
 
@@ -51,7 +51,7 @@ countries: Ethiopia, Kazakhstan, Tajikistan, Timor-Leste, Pakistan
 | Kazakhstan — Quarter 1, football elements — dribbling the ball with the inside and outside of the instep, kicking the ball, and stopping a rolling ball (teacher guide — evidence) (original target `ball-games/kicking-passing-and-dribbling`) | Kazakhstan, *Physical Culture, Methodological Guide for Grade 4 Teachers* (Kazakhstan Grade 4 TG), printed p. 5 |
 | Tajikistan — Part 2, Mini-Football — learning mini-football technique at the first stage, passing the ball with running, and the game "Score a Goal" (Забей гол) (original target `ball-games/kicking-passing-and-dribbling`) | Tajikistan, *Fizicheskaya Kultura (Physical Culture), Grades 1–4*, Part 2, printed pp. ~128–140 |
 | Timor-Leste — Appendix 4: Football/Futsal — basic rules (goalkeeper's hands, fouls, throw-ins, corners) and football games and activities (teacher guide — evidence) (original target `ball-games/kicking-passing-and-dribbling`) | Timor-Leste, *Educação Física 7, Guia do Professor* (Timor-Leste Grade 7 Teacher Guide), printed p. 157 |
-**Acceptance count: taught in 3 countries (Ethiopia, Tajikistan, Pakistan).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Timor-Leste is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 4 countries (Ethiopia, Tajikistan, Pakistan, China).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Timor-Leste is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count.
 
 The Grade 4 teacher guide scan is TRUNCATED: it holds printed pp. 1–39 of 72+. Missing: all of Chapter 4 (pp. 40–54), Chapter 5 Gymnastics (pp. 55–65) and Chapter 6 (pp. 66–72+). Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
 
@@ -81,5 +81,25 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/pakistan-pe-
 | Pakistan — Chapter 9: Football skills — stopping the ball, kicking, heading and dribbling, inside Sports Skills (original target `ball-games/kicking-passing-and-dribbling`) | Pakistan, *Pakistan Grade 6 Sehat-o-Jismani Taleem*, Chapter 9: Football skills, inside Sports Skills, printed p. 69 |
 
 Pakistan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Pakistan's own way is content: its Urdu-medium combined Health and Physical Education books teach PE inside one subject alongside health, with biomechanics carried through every grade from 6 to 12 and its own games — kabaddi among them — taught in the senior books. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## China — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/china-pe-placements.md. China's book read for this expansion is the PEP Senior-High PE & Health compulsory complete volume (student book, Chinese), read in full (266 PDF pages; printed page = PDF page − 7); its Health parts are filed in china-health-placements.md and placed in the Health course. Records 2 and 3 in the placements file (the Ningxia textbook-selection results notice and the 2025 national catalogue excerpt) are record-only catalogue/notice evidence with 0 placements, nothing stocked from them. China is student-book stock, inside the acceptance count, in this lesson.
+
+**Book — China Senior High PEP PE & Health (student book):**
+## Book 1 — PEP Senior-High PE & Health, Compulsory, Complete Volume (student book, Chinese)
+- Title as printed: 普通高中教科书·体育与健康必修 全一册
+- Grade: Senior high (filed grade-12) (student/teacher: STUDENT)
+- Publisher: People's Education Press （人民教育出版社）, PEP Curriculum & Textbook Research Institute; chief editors Li Zhigang, Luo Bingquan; year: no year printed on the copyright page in this scan (cover production file dated 2022); ISBN: no ISBN printed on the copyright page (barcode on back cover)
+- PDF pages: 266 (cover/title page verified against the record title)
+- Verdict: COMPLETE — all 13 chapters read; the appendix (National Student Physical Fitness Standard indicator and scoring tables, printed pp. 252–258) is assessment-table material, named here and not placed, per the assessment exclusion
+- Tally: 46 placements — 23 to existing lessons, 23 NEW LESSON NEEDED
+- China's own way: one compulsory combined volume for all senior-high students built around three core competencies (movement ability, healthy behaviour, sporting character); two required modules (fitness, health education) plus elective sport modules the student chooses; every sport chapter follows the same rhythm — know the sport, raise the technique, apply it in play — and traditional Chinese content (wushu, Taijiquan, folk sports, health-keeping qigong sets) sits beside Olympic and world sport.
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — football techniques: kicking, passing and dribbling (original target `ball-games/kicking-passing-and-dribbling`) | China, *China Senior High PEP PE & Health*, 第八章 第一节 足球, printed p. 114 |
+
+China's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. China's own way is content, as the book line above records it: one compulsory combined volume for all senior-high students built around three core competencies (movement ability, healthy behaviour, sporting character), with traditional Chinese content (wushu, Taijiquan, folk sports, health-keeping qigong sets) beside Olympic and world sport. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: kicking, passing and dribbling, kicking and passing a ball, ball control with the feet, equipment skills — balls, rings and targets, football dribbling and net ball (teacher guide — evidence), physical education, Ethiopia, Kicking a ball, and up-and-down steps (teacher guide — evidence), Passing the football; hit the target (teacher guide — evidence)

@@ -146,3 +146,22 @@ in Afghanistan** (`sport-and-its-story/basketball-in-afghanistan`),
 Physical Education**
 (`fitness-and-stretching/adapted-physical-education`)
 — 8 new lessons, bringing this course to 108 lessons.
+
+The PE expansion then added: **Choosing Your Sport**
+(`sport-and-its-story/choosing-your-sport`), **Fair Play and
+Sporting Character**
+(`sport-and-its-story/fair-play-and-sporting-character`),
+**Traditional Sports of China**
+(`traditional-games-and-dances/traditional-sports-of-china`),
+**Wushu and Taijiquan**
+(`traditional-games-and-dances/wushu-and-taijiquan`),
+**Chinese Health-Keeping Exercises**
+(`traditional-games-and-dances/chinese-health-keeping-exercises`),
+**Using Tactics in a Match**
+(`ball-games/using-tactics-in-a-match`), **Badminton
+Techniques** (`ball-games/badminton-techniques`), **Ice
+Skating** (`moving-basics/ice-skating`), **Roller Skating**
+(`moving-basics/roller-skating`), **Orienteering and
+Hiking** (`athletics/orienteering-and-hiking`) and **Rope
+Skipping** (`fitness-and-stretching/rope-skipping`)
+— 11 new lessons, bringing this course to 119 lessons.

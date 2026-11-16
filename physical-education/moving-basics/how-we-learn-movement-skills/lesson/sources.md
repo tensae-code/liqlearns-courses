@@ -1,8 +1,8 @@
 # Sources — How We Learn Movement Skills
 
-countries: Samoa, United Kingdom
+countries: Samoa, United Kingdom, China
 
-**Acceptance count: taught in 1 country (United Kingdom)** (Samoa's rows below rest on teacher-guide evidence only; the United Kingdom rows rest on a pupil's book). Samoa is named in the countries line and in the rows below, but outside the acceptance count. United Kingdom is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 2 countries (United Kingdom, China)** (Samoa's rows below rest on teacher-guide evidence only; the United Kingdom rows rest on a pupil's book). Samoa is named in the countries line and in the rows below, but outside the acceptance count. United Kingdom is added as student-book stock (see its rows above), inside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count.
 
 **Book — Samoa Years 11–12 teacher guide (teacher guide — evidence):** *Health and Physical Education Teacher Guide, Years 11 and 12* (teacher guide, English) — Title as printed: Health and Physical Education Teacher Guide, Years 11 and 12 — Grade: Years 11–12 (student/teacher: TEACHER) — Publisher: Ministry of Education, Sports and Culture, Samoa; year 2004 (© MESC Samoa 2004); no ISBN printed — PDF pages: 88 (title page verified: "01 Health & PE Yr11-12 Final"; 18,702,938 bytes, exactly the size in the download-list record). Verdict: COMPLETE as a guide — all four units for both years plus Appendix 1 (Samoa Secondary Schools Fitness Test Battery) present. NOTE: the two secured books.json records (grade-11 and grade-12 staging paths) are NOT in GitHub (Contents API 404 on both) although marked pushed — a phantom-push library debt; the book was read from the ministry download-list copy and that copy has been staged at both staging paths under the push-don't-delete rule. Read in full in the 2026-11-16 PE expansion read. Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/samoa-pe-placements.md. Samoa's own way: senior HPE is organised family-outward — personal health, then human movement, then family health, then community health — and movement science (biomechanics, sports psychology, club organisation) is taught as examinable knowledge alongside a national fitness test battery.
 
@@ -19,5 +19,26 @@ countries: Samoa, United Kingdom
 This is a canonical NEW lesson (slug-registry Part 1: `moving-basics/how-we-learn-movement-skills` — How we learn movement skills: the stages of learning, feedback, practice, transfer between skills, and checking and improving your own level); the Samoa placement was filed under the original string `sport-and-its-story/biomechanics-and-how-we-learn-skills`, resolved to this canonical slug by registry Part 2 and recorded in the provenance rows above. The single placement was split by its two named parts — the factors affecting movement and performance, and feedback in skill learning — both on the same source. Samoa enters this lesson as teacher-guide evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count — a teacher guide never substitutes for a pupil's book. The lesson teaches only what the placement summarises; no skill-learning stages or practice methods have been invented beyond that summary.
 
 The three United Kingdom placements were filed under the original strings `games-to-play/classification-of-skills`, `games-to-play/goal-setting-and-smart-goals` and `games-to-play/guidance-and-feedback-on-performance`, all resolved to this canonical slug by registry Part 2 and recorded in the provenance rows above. United Kingdom is added as student-book stock (see its rows above), inside the acceptance count.
+
+## China — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/china-pe-placements.md. China's book read for this expansion is the PEP Senior-High PE & Health compulsory complete volume (student book, Chinese), read in full (266 PDF pages; printed page = PDF page − 7); its Health parts are filed in china-health-placements.md and placed in the Health course. Records 2 and 3 in the placements file (the Ningxia textbook-selection results notice and the 2025 national catalogue excerpt) are record-only catalogue/notice evidence with 0 placements, nothing stocked from them. China is student-book stock, inside the acceptance count, in this lesson.
+
+**Book — China Senior High PEP PE & Health (student book):**
+## Book 1 — PEP Senior-High PE & Health, Compulsory, Complete Volume (student book, Chinese)
+- Title as printed: 普通高中教科书·体育与健康必修 全一册
+- Grade: Senior high (filed grade-12) (student/teacher: STUDENT)
+- Publisher: People's Education Press （人民教育出版社）, PEP Curriculum & Textbook Research Institute; chief editors Li Zhigang, Luo Bingquan; year: no year printed on the copyright page in this scan (cover production file dated 2022); ISBN: no ISBN printed on the copyright page (barcode on back cover)
+- PDF pages: 266 (cover/title page verified against the record title)
+- Verdict: COMPLETE — all 13 chapters read; the appendix (National Student Physical Fitness Standard indicator and scoring tables, printed pp. 252–258) is assessment-table material, named here and not placed, per the assessment exclusion
+- Tally: 46 placements — 23 to existing lessons, 23 NEW LESSON NEEDED
+- China's own way: one compulsory combined volume for all senior-high students built around three core competencies (movement ability, healthy behaviour, sporting character); two required modules (fitness, health education) plus elective sport modules the student chooses; every sport chapter follows the same rhythm — know the sport, raise the technique, apply it in play — and traditional Chinese content (wushu, Taijiquan, folk sports, health-keeping qigong sets) sits beside Olympic and world sport.
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — the stages of learning a motor skill and how skills are classified (original target `sport-and-its-story/how-motor-skills-are-learned`) | China, *China Senior High PEP PE & Health*, 第六章 第一节 运动技能的学习过程与分类, printed p. 100 |
+| China — feedback, arousal level and other factors that affect skill learning and performance (original target `sport-and-its-story/what-helps-and-hinders-skill-learning`) | China, *China Senior High PEP PE & Health*, 第六章 第二节 影响运动技能学习与发挥的因素, printed p. 102 |
+
+China's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. China's own way is content, as the book line above records it: one compulsory combined volume for all senior-high students built around three core competencies (movement ability, healthy behaviour, sporting character), with traditional Chinese content (wushu, Taijiquan, folk sports, health-keeping qigong sets) beside Olympic and world sport. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: how we learn movement skills, biomechanics, biomechanical efficiency, swimmer's arm recovery, effective equipment, feedback, intrinsic, extrinsic, kinaesthetic, skill learning, physical education, Samoa Years 11–12 TG

@@ -1,6 +1,6 @@
 # Sources — Gymnastics with Apparatus
 
-countries: Ethiopia, Kazakhstan
+countries: Ethiopia, Kazakhstan, China
 
 **Book — Grade 5 student:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 106 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md. COMPLETE.
 
@@ -24,10 +24,32 @@ countries: Ethiopia, Kazakhstan
 | Parallel bars — the support swing — Grade 8 | Ethiopia, Grade 8 student §5.3 Apparatus gymnastics — parallel bars, printed pp. 59–63 |
 | Strong in my own space: weight shifts and hanging — Grade 3 (teacher guide — evidence) | Ethiopia, Grade 3 teacher §1.2 Tasks 1–3 (teacher guide — evidence), printed pp. 8–11 |
 | Kazakhstan — Quarters 1, 2 and 4 — exercises on gymnastic apparatus (mats, bars, vaulting horse, goat, rope, horizontal bar in the Lesson 19 equipment list) and the obstacle course (полоса препятствий) (teacher guide — evidence) (original target `gymnastics/gymnastics-with-apparatus`) | Kazakhstan, *Physical Culture, Methodological Guide for Grade 4 Teachers* (Kazakhstan Grade 4 TG), printed pp. 5, 20 |
-**Acceptance count: taught in 1 country (Ethiopia).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1.
+**Acceptance count: taught in 2 countries (Ethiopia, China).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. China is added as student-book stock (see its rows below), inside the acceptance count.
 
 The Grade 3 teacher guide scan is TRUNCATED: it holds printed pp. 1–52 of 89+. Missing: §4.1 (p. 53), §4.2 (p. 57), §4.3 (p. 62), §4.4 (p. 65), all of Chapter 5 Gymnastics (pp. 69–84) and all of Chapter 6 (pp. 85–89+). Chapter 4 is present as its introduction page (printed p. 52) only. Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
 
 Student books Grades 5–7 are complete. No page is claimed that the placements do not give.
+
+## China — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/china-pe-placements.md. China's book read for this expansion is the PEP Senior-High PE & Health compulsory complete volume (student book, Chinese), read in full (266 PDF pages; printed page = PDF page − 7); its Health parts are filed in china-health-placements.md and placed in the Health course. Records 2 and 3 in the placements file (the Ningxia textbook-selection results notice and the 2025 national catalogue excerpt) are record-only catalogue/notice evidence with 0 placements, nothing stocked from them. China is student-book stock, inside the acceptance count, in this lesson.
+
+**Book — China Senior High PEP PE & Health (student book):**
+## Book 1 — PEP Senior-High PE & Health, Compulsory, Complete Volume (student book, Chinese)
+- Title as printed: 普通高中教科书·体育与健康必修 全一册
+- Grade: Senior high (filed grade-12) (student/teacher: STUDENT)
+- Publisher: People's Education Press （人民教育出版社）, PEP Curriculum & Textbook Research Institute; chief editors Li Zhigang, Luo Bingquan; year: no year printed on the copyright page in this scan (cover production file dated 2022); ISBN: no ISBN printed on the copyright page (barcode on back cover)
+- PDF pages: 266 (cover/title page verified against the record title)
+- Verdict: COMPLETE — all 13 chapters read; the appendix (National Student Physical Fitness Standard indicator and scoring tables, printed pp. 252–258) is assessment-table material, named here and not placed, per the assessment exclusion
+- Tally: 46 placements — 23 to existing lessons, 23 NEW LESSON NEEDED
+- China's own way: one compulsory combined volume for all senior-high students built around three core competencies (movement ability, healthy behaviour, sporting character); two required modules (fitness, health education) plus elective sport modules the student chooses; every sport chapter follows the same rhythm — know the sport, raise the technique, apply it in play — and traditional Chinese content (wushu, Taijiquan, folk sports, health-keeping qigong sets) sits beside Olympic and world sport.
+
+| Lesson part | Where it comes from |
+|---|---|
+| China — parallel bars work (original target `gymnastics/gymnastics-with-apparatus`) | China, *China Senior High PEP PE & Health*, 第十章 第二节 双杠, printed p. 178 |
+| China — horizontal bar work and bar fitness development (original target `gymnastics/gymnastics-with-apparatus`) | China, *China Senior High PEP PE & Health*, 第十章 第三节 单杠, printed p. 180 |
+| China — vaulting: straddle vault over the long box, with spotting (original target `gymnastics/gymnastics-with-apparatus`) | China, *China Senior High PEP PE & Health*, 第十章 第四节 支撑跳跃, printed p. 182 |
+
+China's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. China's own way is content, as the book line above records it: one compulsory combined volume for all senior-high students built around three core competencies (movement ability, healthy behaviour, sporting character), with traditional Chinese content (wushu, Taijiquan, folk sports, health-keeping qigong sets) beside Olympic and world sport. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: gymnastics with apparatus, apparatus gymnastics, single bar, uneven bars, bar work, weight shifts ክብደትን በመስናክል ላይ የማከተላለፍ እንቅስቃሴ, high rope hanging ለከፍታ ገመድ ማንጠልጠል, alternate hanging መሳብና በአምራጭ መንጠልጠል, physical education, Ethiopia
