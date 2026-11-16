@@ -28,6 +28,12 @@ countries: Armenia, Dominica, Cambodia
 |---|---|
 | Cambodia part — Ch. 2, Lesson 5: State intervention in the market — teaches: the ways the state steps into the market and what each intervention does to prices and quantities | Cambodia, *Cambodia Grade 11 G11 Economics*, Ch. 2, Lesson 5: State intervention in the market — printed p. 104 |
 
+**Economics expansion — Armenia (against Book 3 above, already cited in this file from the earlier waves; the Economics placement is stocked as a distinct evidence row, not as a second book):**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Economics expansion — 4.2 Market economy: how and why the state intervenes in the economy, through taxes, the state budget, regulation and law | Armenia, *Armenia Grade 9 Social Science student*, 4.2 Market economy — printed p. 99 |
+
 **Acceptance count: taught in 3 countries (Armenia, Dominica, Cambodia).**
 
 Dominica's own way: Economics lives inside the CSEC Principles of Business course — money, markets, banks, taxes, GDP and Caribbean problems (unemployment, migration, debt) are taught as the economics core of a business textbook, always through Caribbean cases (ECCB, CARICOM/CSME, sou-sou savings, the Barbados and Dominica sugar taxes). This lesson teaches the placement's content in the course's own words — the book's text itself is never transcribed.

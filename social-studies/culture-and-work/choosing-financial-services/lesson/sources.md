@@ -9,6 +9,12 @@ countries: Armenia
 | Sub lesson 1 — 4.1 Comparison and choice of financial services | Armenia, *Armenia Grade 10 Social Science student*, 4.1 Comparison and choice of financial services — printed p. 88 |
 | Sub lesson 2 — Armenia's way — the book's own teaching way | Armenia — the book's own way of teaching (see below) |
 
+**Economics expansion — Armenia (against Book 1 above, already cited in this file from the earlier waves; the Economics placement is stocked as a distinct evidence row, not as a second book):**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Economics expansion — 4.1 Comparing and choosing financial services: the rational consumer versus the impulse purchase, behavioural cases (a "only 4" fries advert raising sales 56%), and comparing deposits, loans, cards and insurance before choosing, with Armenian comparison sites Rate.am and Appa.am (filed as NEW LESSON NEEDED — market-and-money/choosing-financial-services; stocked here as the closest existing lesson covering that thing, the original slug recorded in this row) | Armenia, *Armenia Grade 10 Social Science student*, 4.1 Comparing and choosing financial services — printed p. 88 |
+
 **Acceptance count: taught in 1 country (Armenia).**
 
 Armenia's own way (Armenia Grade 10 Social Science student): the senior Social Science course turns practical — after ideologies it teaches the market economy and then personal finance (choosing financial services, savings, credit, consumer rights, fraud) as life skills.

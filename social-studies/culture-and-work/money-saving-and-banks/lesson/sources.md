@@ -1,6 +1,6 @@
 # Sources — Money Saving And Banks
 
-countries: Bhutan, Rwanda
+countries: Bhutan, Rwanda, Armenia
 
 **Book 1:** *SOCIAL STUDIES CLASS V* (student book, English) — Center for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; year Provisional Edition 2020, Reprint 2025; ISBN no ISBN printed (blank ISBN line on imprint page). Title as printed: SOCIAL STUDIES CLASS V. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 78 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bhutan-placements.md.
 
@@ -34,8 +34,16 @@ Rwanda's own way (Rwanda Grade 3): P3 Economics is a saving curriculum — where
 Rwanda's own way (Rwanda Grade 4): P4 separates needs from wants for the first time and ties money to the district — Lake Kivu fishing, Kigali markets and tourist crafts — with saving taught as planning before spending and comparing what a bank pays.
 
 
-**Acceptance count: taught in 2 countries (Bhutan, Rwanda).**
+**Book 5:** *ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 10 — Դասագիրք նպատակային ծրագրի համար (Social Science 10, textbook for the target programme)* (student book, Armenian) — «Զանգակ» (Zangak), Yerevan; year 2023 (2024 target-programme printing); ISBN 978-9939-99-040-8. Title as printed: ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 10 — Դասագիրք նպատակային ծրագրի համար (Social Science 10, textbook for the target programme). Grade: 10 (student/teacher: STUDENT). PDF pages: 130 (cover/title page verified against the record title; grab.py tree route verified 1,653,670 bytes). Verdict: COMPLETE. Contents map: Economics parts printed pp. 54-87 (Theme 3 Market Economy) and pp. 88-127 (Theme 4 Personal Finance Management); Theme 1 Problems of Modern Man and Society pp. 4-18; Theme 2 Political Ideologies pp. 19-53 (Civics). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Economics expansion — 4.2 Managing savings: saving defined, yield as a percentage (100,000 dram at 12% brings 12,000 dram in a year), SMART saving goals, and Armenia's own saving habits (winter preserves, seasonal pig-keeping, the savings box) | Armenia, *Armenia Grade 10 Social Science student*, 4.2 Managing savings — printed p. 97 |
+
+**Acceptance count: taught in 3 countries (Bhutan, Rwanda, Armenia).**
+
+Armenia's own way (Armenia Grade 10 Social Science student): Grade 10 is a full Economics course inside Social Science — demand and supply are taught with a school-canteen juice schedule priced in dram, the production-possibilities curve with duduks and shvis (Armenian instruments), and personal finance through Armenian institutions: Central-Bank-licensed lenders, the ACRA credit bureau, the Financial System Mediator and the Rate.am / Appa.am comparison sites, including a fake "Gazprom Armenia" investment-scam case.
 
 Bhutan's own way (Bhutan Grade 5 Social Studies): Grade 5 spirals from the Earth and lat/long straight into Bhutan itself — its location, three physical zones, neighbours, major rivers and protected areas — so world geography is anchored in the home country's map first.
 
-Searchable tags: money saving and banks, Bhutan, social studies, culture-and-work, rwanda
+Searchable tags: money saving and banks, Bhutan, social studies, culture-and-work, rwanda, armenia

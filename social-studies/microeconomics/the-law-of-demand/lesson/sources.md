@@ -1,6 +1,6 @@
 # Sources — The law of demand
 
-countries: Ethiopia, France, Kazakhstan, Albania, Jordan, Bangladesh, Yemen
+countries: Ethiopia, France, Kazakhstan, Albania, Jordan, Bangladesh, Yemen, Armenia
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 **Book 2:** *Economics, Teacher Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed (M.Sc.), Tadesse Ababu (M.Sc.). Editors: Mesfin Ketema (M.Sc., Content Editor), Enguday Ademe (Ph.D., Curriculum Editor), Birhanu Engidaw (Ph.D., Language Editor). Illustrator: Endalkachew Mengesha (M.Sc.). Designer: Derejaw Lake (M.Sc.). The Evaluators line on the title page is left blank. Copyright page reads "First Published xxxxx 2022" under GEQIP-E; printer, contract number and ISBN are all printed as placeholders. Printed page = PDF page - 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-teacher-placements.md
@@ -57,7 +57,15 @@ Bangladesh's own way (Bangladesh Grade 9 History and Social Science): Class 9 te
 |---|---|
 | Yemen part — Unit 4 L2 Demand §law of demand — teaches: price up, quantity demanded down, other factors held constant | Yemen, *Yemen Grade 11 Mabadi' Ilm al-Iqtisad*, Unit 4 L2 Demand §law of demand — printed p. 41 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, France, Kazakhstan, Jordan, Bangladesh, Yemen). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 10:** *ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 10 — Դասագիրք նպատակային ծրագրի համար (Social Science 10, textbook for the target programme)* (student book, Armenian) — «Զանգակ» (Zangak), Yerevan; year 2023 (2024 target-programme printing); ISBN 978-9939-99-040-8. Title as printed: ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 10 — Դասագիրք նպատակային ծրագրի համար (Social Science 10, textbook for the target programme). Grade: 10 (student/teacher: STUDENT). PDF pages: 130 (cover/title page verified against the record title; grab.py tree route verified 1,653,670 bytes). Verdict: COMPLETE. Contents map: Economics parts printed pp. 54-87 (Theme 3 Market Economy) and pp. 88-127 (Theme 4 Personal Finance Management); Theme 1 Problems of Modern Man and Society pp. 4-18; Theme 2 Political Ideologies pp. 19-53 (Civics). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Economics expansion — 3.2 Demand, supply and market price: market, demand and the law of demand defined (price and quantity demanded move in opposite directions); substitutes and complements | Armenia, *Armenia Grade 10 Social Science student*, 3.2 Demand, supply and market price — printed p. 65 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, France, Kazakhstan, Jordan, Bangladesh, Yemen, Armenia). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Armenia's own way (Armenia Grade 10 Social Science student): Grade 10 is a full Economics course inside Social Science — demand and supply are taught with a school-canteen juice schedule priced in dram, the production-possibilities curve with duduks and shvis (Armenian instruments), and personal finance through Armenian institutions: Central-Bank-licensed lenders, the ACRA credit bureau, the Financial System Mediator and the Rate.am / Appa.am comparison sites, including a fake "Gazprom Armenia" investment-scam case.
 
 Yemen's own way (Grade 11 Mabadi' Ilm al-Iqtisad): a compact principles course that starts from the history of economic thought — including Hammurabi, Confucius, Kautilya, Ibn Khaldun and Al-Maqrizi — and works every schedule and elasticity example in Yemeni rials on one good, oranges, from demand through equilibrium.
 
@@ -73,4 +81,4 @@ Kazakhstan's own way (Kazakhstan Grade 10 Duisenkhanov Part 1): the same nationa
 
 Jordan's own way (Jordan Grade 5 Term 2): Grade 5 gets the first formal market lesson in the whole set — supply and demand open with frost-damaged vegetables and Ramadan meat prices, trade is read off Aqaba port and Jordan's real export/import lists, and services are toured through Jordan's own schools platform, hospitals and tourist sites.
 
-Searchable tags: law of demand, ceteris paribus, demand schedule oranges, real income substitution, salt inelastic, ethiopia, france, ses, tobacco prices, milk producers, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics, albania, jordan, bangladesh, yemen
+Searchable tags: law of demand, ceteris paribus, demand schedule oranges, real income substitution, salt inelastic, ethiopia, france, ses, tobacco prices, milk producers, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics, albania, jordan, bangladesh, yemen, armenia

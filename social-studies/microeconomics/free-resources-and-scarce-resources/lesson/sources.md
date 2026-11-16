@@ -1,6 +1,6 @@
 # Sources — Free resources and scarce resources
 
-countries: Ethiopia, Mongolia, Egypt, Yemen, Fiji
+countries: Ethiopia, Mongolia, Egypt, Yemen, Fiji, Armenia
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 **Book 2:** *Economics, Teacher Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed (M.Sc.), Tadesse Ababu (M.Sc.). Editors: Mesfin Ketema (M.Sc., Content Editor), Enguday Ademe (Ph.D., Curriculum Editor), Birhanu Engidaw (Ph.D., Language Editor). Illustrator: Endalkachew Mengesha (M.Sc.). Designer: Derejaw Lake (M.Sc.). The Evaluators line on the title page is left blank. Copyright page reads "First Published xxxxx 2022" under GEQIP-E; printer, contract number and ISBN are all printed as placeholders. Printed page = PDF page - 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-teacher-placements.md
@@ -36,7 +36,15 @@ countries: Ethiopia, Mongolia, Egypt, Yemen, Fiji
 |---|---|
 | Fiji part — Unit 4.1 Uses and Management of Resources, Land Resources in Fiji — teaches: land resources satisfy basic needs, some are abundant and others limited in supply | Fiji, *Fiji Grade 5 Year 5 Social Studies*, Unit 4.1 Uses and Management of Resources, Land Resources in Fiji — teaches: land resources satisfy basic needs, some are abundant and others limited in supply — printed p. 49 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Mongolia, Egypt, Yemen, Fiji).**
+**Book 7:** *ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 10 — Դասագիրք նպատակային ծրագրի համար (Social Science 10, textbook for the target programme)* (student book, Armenian) — «Զանգակ» (Zangak), Yerevan; year 2023 (2024 target-programme printing); ISBN 978-9939-99-040-8. Title as printed: ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 10 — Դասագիրք նպատակային ծրագրի համար (Social Science 10, textbook for the target programme). Grade: 10 (student/teacher: STUDENT). PDF pages: 130 (cover/title page verified against the record title; grab.py tree route verified 1,653,670 bytes). Verdict: COMPLETE. Contents map: Economics parts printed pp. 54-87 (Theme 3 Market Economy) and pp. 88-127 (Theme 4 Personal Finance Management); Theme 1 Problems of Modern Man and Society pp. 4-18; Theme 2 Political Ideologies pp. 19-53 (Civics). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Economics expansion — 3.1 Economic resources and factors of production: what a resource is; resources given by nature (minerals, land, water, flora and fauna) versus created by people, material and non-material | Armenia, *Armenia Grade 10 Social Science student*, 3.1 Economic resources and factors of production — printed p. 56 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Mongolia, Egypt, Yemen, Fiji, Armenia).**
+
+Armenia's own way (Armenia Grade 10 Social Science student): Grade 10 is a full Economics course inside Social Science — demand and supply are taught with a school-canteen juice schedule priced in dram, the production-possibilities curve with duduks and shvis (Armenian instruments), and personal finance through Armenian institutions: Central-Bank-licensed lenders, the ACRA credit bureau, the Financial System Mediator and the Rate.am / Appa.am comparison sites, including a fake "Gazprom Armenia" investment-scam case.
 
 Fiji's own way (Fiji Grade 5 Year 5 Social Studies): A full primary money curriculum in one unit — work and wages first, then the Fiji dollar against other currencies, then a family budget, a personal saving plan and what banks do.
 
@@ -48,4 +56,4 @@ Mongolia's own way (Mongolia Grade 7 Social Studies 7): Economics enters through
 
 Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
 
-Searchable tags: free resources economic resources, zero price test, price test, externality preview, ethiopia, social studies, microeconomics, mongolia, food non-food services, produced goods natural resources, egypt, yemen, Fiji
+Searchable tags: free resources economic resources, zero price test, price test, externality preview, ethiopia, social studies, microeconomics, mongolia, food non-food services, produced goods natural resources, egypt, yemen, Fiji, armenia

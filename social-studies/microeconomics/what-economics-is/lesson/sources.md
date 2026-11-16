@@ -1,6 +1,6 @@
 # Sources — What economics is
 
-countries: Ethiopia, France, Dominican Republic, Albania, Jordan, Cambodia, Egypt, Yemen, Fiji
+countries: Ethiopia, France, Dominican Republic, Albania, Jordan, Cambodia, Egypt, Yemen, Fiji, Armenia
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 **Book 2:** *Economics, Teacher Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed (M.Sc.), Tadesse Ababu (M.Sc.). Editors: Mesfin Ketema (M.Sc., Content Editor), Enguday Ademe (Ph.D., Curriculum Editor), Birhanu Engidaw (Ph.D., Language Editor). Illustrator: Endalkachew Mengesha (M.Sc.). Designer: Derejaw Lake (M.Sc.). The Evaluators line on the title page is left blank. Copyright page reads "First Published xxxxx 2022" under GEQIP-E; printer, contract number and ISBN are all printed as placeholders. Printed page = PDF page - 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-teacher-placements.md
@@ -61,7 +61,15 @@ countries: Ethiopia, France, Dominican Republic, Albania, Jordan, Cambodia, Egyp
 |---|---|
 | Fiji part — Lesson 1.1 The Subject of Economics — teaches: economics as choosing how to use scarce resources for unlimited wants, definitions by Smith, Keynes, Robbins, Marshall and Samuelson, schools of thought, and the role of economists | Fiji, *Fiji Grade 11 Economics Year 11 Part 1*, Lesson 1.1 The Subject of Economics — teaches: economics as choosing how to use scarce resources for unlimited wants, definitions by Smith, Keynes, Robbins, Marshall and Samuelson, schools of thought, and the role of economists — printed p. 7 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, France, Dominican Republic, Jordan, Cambodia, Egypt, Yemen, Fiji). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 11:** *Հասարակագիտություն 7 — Դասագիրք հանրակրթական դպրոցի համար (Social Science 7, textbook for general school)* (student book, Armenian) — «Մասնակցային դպրոց» ԿՀ (Participatory School), Yerevan; year 2023; ISBN 978-9939-1-1725-6. Title as printed: Հասարակագիտություն 7 — Դասագիրք հանրակրթական դպրոցի համար (Social Science 7, textbook for general school). Grade: 7 (student/teacher: STUDENT). PDF pages: 146 (cover/title page verified against the record title; grab verified 92,681,662 bytes). Verdict: COMPLETE. Contents map: Economics parts printed pp. 102-127 (Ch. 7 Man and Economy); Man-and-Nature pp. 12-27; Society/Civics-type parts pp. 28-101, 128-139; Glossary pp. 140-144 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Economics expansion — 7.1 The importance of the economy in human life and our role in it: what the economy is, where shop goods come from and choosing a profession as your future role in the economy | Armenia, *Armenia Grade 7 Social Science student*, 7.1 The importance of the economy in human life and our role in it — printed p. 104 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, France, Dominican Republic, Jordan, Cambodia, Egypt, Yemen, Fiji, Armenia). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Armenia's own way (Armenia Grade 7 Social Science student): Economics enters in Grade 7 as one chapter of Social Science, built around the learner's own future profession, household money in dram, and a worked personal budget from Abovyan; scarcity is also presented critically, as partly created by market arrangements.
 
 Fiji's own way (Fiji Grade 11 Economics Year 11 Part 1): A full direct-approach course built on the circular flow, with Fiji examples throughout — ginger supply curves, Fiji import tables, quarry and land-rent income, the Attu family budget, Fiji credit facilities, sugar-industry production stages and Reserve Bank of Fiji policy tools.
 
@@ -83,4 +91,4 @@ Cambodia's own way (Cambodia Grade 11 Economics): a full academic course built a
 
 Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
 
-Searchable tags: economics definition, oikonomia, scarcity definition, wealth welfare scarcity, smith ricardo say walker mill, ethiopia, france, ses, questions economists ask, social studies, microeconomics, dominican republic, albania, jordan, cambodia, egypt, yemen, Fiji
+Searchable tags: economics definition, oikonomia, scarcity definition, wealth welfare scarcity, smith ricardo say walker mill, ethiopia, france, ses, questions economists ask, social studies, microeconomics, dominican republic, albania, jordan, cambodia, egypt, yemen, Fiji, armenia

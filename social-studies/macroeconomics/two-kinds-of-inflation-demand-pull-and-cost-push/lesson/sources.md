@@ -1,6 +1,6 @@
 # Sources — Two kinds of inflation — demand-pull and cost-push
 
-countries: Ethiopia, Albania, Bangladesh, Uzbekistan, Fiji, Vietnam
+countries: Ethiopia, Albania, Bangladesh, Uzbekistan, Fiji, Vietnam, Armenia
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -44,7 +44,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 | Lesson part | Where it comes from |
 |---|---|
 | Vietnam part — Lesson 3: the causes of inflation — teaches: basic causes are rising production costs (higher prices of inputs such as petrol, electricity and raw materials push up the prices of many goods — Vietnam's 2021 CPI rose with petrol up 31.74% and gas up 25.89%), high demand growth (aggregate demand rises while aggregate supply does not change, so the general price level rises) and excess money issuance (more money in circulation than needed, so money holders are ready to spend more per unit of goods and prices climb) (Economics expansion, 2026-11-16; original placement slug: macroeconomics/demand-pull-and-cost-push-inflation — stocked here as the closest existing lesson covering this thing) | Vietnam, *Vietnam Grade 11 Economic & Legal Education*, Lesson 3: the causes of inflation — printed p. 19 |
-**Acceptance count: taught in 5 countries (Ethiopia, Bangladesh, Uzbekistan, Fiji, Vietnam). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 7:** *ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 11-րդ դասարան — Հանրակրթական ավագ դպրոցի դասագիրք (Social Science, Grade 11, senior-school textbook)* (student book, Armenian) — «Զանգակ» (Zangak), Yerevan; year 2025; ISBN 978-9939-99-280-8. Title as printed: ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 11-րդ դասարան — Հանրակրթական ավագ դպրոցի դասագիրք (Social Science, Grade 11, senior-school textbook). Grade: 11 (student/teacher: STUDENT). PDF pages: 192 (cover verified against the record title; release grab verified 234,716,578 bytes; the staging-tree route 404s for this file — the book lives only in the full-quality-oversized-books release under the record's exact asset name). Verdict: COMPLETE. Contents map: Economics part printed pp. 46-76 (Theme 2 The Role of the State in the Economy); Theme 1 State System and Rights-Protection Mechanisms pp. 5-45 (Law/Civics); Theme 3 Political Participation and Elections pp. 77-108 (Civics); Theme 4 Parties and Interest Groups pp. 109-132 (Civics); Theme 5 International Law pp. 133-171 (Civics); Theme 6 International Relations and Foreign Policy pp. 172-190 (Civics). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Economics expansion — 2.2 Employment and unemployment (inflation block): demand-pull inflation (aggregate demand rises, supply unchanged — from rising incomes, lower taxes, more state spending) and cost-push inflation as aggregate supply falls and prices rise from about 3,050 to 3,200 (filed as macroeconomics/demand-pull-and-cost-push-inflation; stocked here as the closest existing lesson covering that thing, the original slug recorded in this row) | Armenia, *Armenia Grade 11 Social Science student*, 2.2 Employment and unemployment (inflation block) — printed p. 66 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Bangladesh, Uzbekistan, Fiji, Vietnam, Armenia). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Armenia's own way (Armenia Grade 11 Social Science student): Grade 11 macroeconomics is anchored in Armenian official statistics — learners compute with the Statistical Committee's data, meet the 425-item consumer basket Armenia uses for inflation, the Central Bank's 3% ±1 inflation target, and the Armenian-born Nobel laureate Daron Acemoglu's "Narrow Corridor" on institutions and prosperity.
 
 Vietnam's own way (Vietnam Grade 11 Economic & Legal Education): the macro topics are taught from Vietnam's own statistics and history — the CPI chart 2016–2021, the 775% inflation of 1986, COVID-era unemployment of 3.2%, the Q3 2022 labour-market bulletin — and the State's controlling role is quoted from the Law on the State Bank and the Labour Code.
 
@@ -54,4 +62,4 @@ Albania's own way (Albania Grade 12 Ekonomia 12 Teacher Guide): a full Grade 12 
 
 Pairing note carried from the placements: the student textbook is the finished 2023 edition, while the teacher guide is ©2022 with an unfinished placeholder printing block — edition-mismatched companions; the guide's answer keys are partly incomplete/misaligned with this book's review questions, and no answer-key figure is taught here unchecked.
 
-Searchable tags: demand-pull inflation, cost-push inflation, too much money chasing too few goods, aggregate demand supply, ethiopia, social studies, macroeconomics, albania, bangladesh, uzbekistan, Fiji, vietnam
+Searchable tags: demand-pull inflation, cost-push inflation, too much money chasing too few goods, aggregate demand supply, ethiopia, social studies, macroeconomics, albania, bangladesh, uzbekistan, Fiji, vietnam, armenia

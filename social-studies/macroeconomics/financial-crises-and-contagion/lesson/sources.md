@@ -1,6 +1,6 @@
 # Sources — Financial crises and contagion
 
-countries: Ethiopia, Venezuela
+countries: Ethiopia, Venezuela, Armenia
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -16,10 +16,24 @@ countries: Ethiopia, Venezuela
 |---|---|
 | Venezuela part — Primera crisis sistémica del capitalismo: lack of planning and excessive economic liberalism made the US boom short — automation produced great quantities of goods (overproduction) while the population's wages did not rise and it could not buy (low demand); the explosion came in October 1929 on the New York Stock Exchange (Black Thursday), bankruptcies spread from small firms to great corporations and the crisis propagated to Germany, France, England, Spain and the developing countries, raising unemployment, scarcity and hunger; governments then had to regulate, and Roosevelt's 1933 policy regulated banking and the stock exchange and controlled industrial and agricultural exploitation | Venezuela, *Venezuela Grade 8 Venezuela G8 Historia de la Humanidad SB Spanish*, Primera crisis sistémica del capitalismo — printed p. 240 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Venezuela).**
+**Book 3:** *Հասարակագիտություն — 9-րդ դասարան, հանրակրթական հիմնական դպրոցի դասագիրք (Social Science, Grade 9)* (student book, Armenian) — Զանգակ (Zangak), Yerevan; year 2025; ISBN printed on the imprint page but not legible in the scanned copy. Title as printed: Հասարակագիտություն — 9-րդ դասարան, հանրակրթական հիմնական դպրոցի դասագիրք (Social Science, Grade 9). Grade: 9 (student/teacher: STUDENT). PDF pages: 180 (cover/title page verified against the record title; image-only PDF, read from rendered pages and contact sheets; the identical book was read from the record's own ministry source_url, lib.armedu.am, 38,679,191 bytes — the GitHub release grab failed twice on timeouts). Verdict: COMPLETE. Contents map: Economics parts printed pp. 84-127 (Theme 4 State and Economy); Civics pp. 5-83, 128-171 (Themes 1-3 State/Sovereignty, State and Culture, State and Political System; Theme 5 State and Politics); Glossary pp. 172-174 (inventory-only, not placed); Contents p. 175. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Economics expansion — 4.1 Economic systems: economic crisis defined, with the Black Death's and the Great Depression's economic shocks as case material | Armenia, *Armenia Grade 9 Social Science student*, 4.1 Economic systems — printed p. 87 |
+**Book 4:** *ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 10 — Դասագիրք նպատակային ծրագրի համար (Social Science 10, textbook for the target programme)* (student book, Armenian) — «Զանգակ» (Zangak), Yerevan; year 2023 (2024 target-programme printing); ISBN 978-9939-99-040-8. Title as printed: ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 10 — Դասագիրք նպատակային ծրագրի համար (Social Science 10, textbook for the target programme). Grade: 10 (student/teacher: STUDENT). PDF pages: 130 (cover/title page verified against the record title; grab.py tree route verified 1,653,670 bytes). Verdict: COMPLETE. Contents map: Economics parts printed pp. 54-87 (Theme 3 Market Economy) and pp. 88-127 (Theme 4 Personal Finance Management); Theme 1 Problems of Modern Man and Society pp. 4-18; Theme 2 Political Ideologies pp. 19-53 (Civics). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Economics expansion — 3.3 Factors affecting the market: external shocks to markets, the COVID pandemic breaking world supply chains, closing firms and leaving millions unemployed | Armenia, *Armenia Grade 10 Social Science student*, 3.3 Factors affecting the market — printed p. 85 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Venezuela, Armenia).**
+
+Armenia's own way (Armenia Grade 9 Social Science student): the new-format Grade 9 book gives Economics a full theme, "State and Economy": systems first (with Smith, Marx and Keynes as the thinkers), then the market and where it fails, then Armenia's own financial system and the state's economic and social policies, closing with Lorenz/Gini inequality graphs, World Bank income groups and the SDGs.
+Armenia's own way (Armenia Grade 10 Social Science student): Grade 10 is a full Economics course inside Social Science — demand and supply are taught with a school-canteen juice schedule priced in dram, the production-possibilities curve with duduks and shvis (Armenian instruments), and personal finance through Armenian institutions: Central-Bank-licensed lenders, the ACRA credit bureau, the Financial System Mediator and the Rate.am / Appa.am comparison sites, including a fake "Gazprom Armenia" investment-scam case.
 
 Venezuela's own way (Venezuela Grade 8 Venezuela G8 Historia de la Humanidad SB Spanish): economic systems are taught as history's engine — modes of production (feudal, capitalist, socialist) are defined and compared, and the 1929 crisis is taught with its mechanism: overproduction meeting wages that did not rise. This lesson teaches the placements' content in the course's own words — the book's text itself is never transcribed.
 
 No matching teacher guide exists in this band: the book recorded as this text's teacher guide proved to be the 2011 GEQIP Grade 12 teacher's guide for the old syllabus, not this book's companion, and supplies no answer keys for it (proof in the placements file's verification block).
 
-Searchable tags: financial crises and contagion, grade 12 economics, ethiopia, social studies, macroeconomics, venezuela
+Searchable tags: financial crises and contagion, grade 12 economics, ethiopia, social studies, macroeconomics, venezuela, armenia

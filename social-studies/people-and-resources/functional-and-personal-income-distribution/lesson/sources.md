@@ -1,6 +1,6 @@
 # Sources — Functional and personal income distribution
 
-countries: Ethiopia, France, Bangladesh, Egypt, Honduras, Vietnam
+countries: Ethiopia, France, Bangladesh, Egypt, Honduras, Vietnam, Armenia
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -57,7 +57,15 @@ Bangladesh's own way (Bangladesh Grade 9 History and Social Science): Class 9 te
 | Lesson part | Where it comes from |
 |---|---|
 | Vietnam part — Lesson 1: distribution–exchange activity — teaches: distribution runs in two stages — distribution for production (sharing out the factors of production among sectors and units) and distribution for consumption (sharing the results: enterprises receive profit, workers receive wages and salaries, the State collects taxes for society's common activities), while exchange is the bridge linking production with consumption, as at the Si Ma Cai periodic market (Economics expansion, 2026-11-16) | Vietnam, *Vietnam Grade 10 Economic & Legal Education*, Lesson 1: distribution–exchange activity — printed p. 8 |
-**Acceptance count: taught in 6 countries (Ethiopia, France, Bangladesh, Egypt, Honduras, Vietnam).**
+**Book 9:** *Հասարակագիտություն 7 — Դասագիրք հանրակրթական դպրոցի համար (Social Science 7, textbook for general school)* (student book, Armenian) — «Մասնակցային դպրոց» ԿՀ (Participatory School), Yerevan; year 2023; ISBN 978-9939-1-1725-6. Title as printed: Հասարակագիտություն 7 — Դասագիրք հանրակրթական դպրոցի համար (Social Science 7, textbook for general school). Grade: 7 (student/teacher: STUDENT). PDF pages: 146 (cover/title page verified against the record title; grab verified 92,681,662 bytes). Verdict: COMPLETE. Contents map: Economics parts printed pp. 102-127 (Ch. 7 Man and Economy); Man-and-Nature pp. 12-27; Society/Civics-type parts pp. 28-101, 128-139; Glossary pp. 140-144 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Economics expansion — Material 3 How should distribution be carried out: distribution by equal right, by need, by inheritance and by merit compared as rival principles | Armenia, *Armenia Grade 7 Social Science student*, Material 3 How should distribution be carried out — printed p. 114 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, France, Bangladesh, Egypt, Honduras, Vietnam, Armenia).**
+
+Armenia's own way (Armenia Grade 7 Social Science student): Economics enters in Grade 7 as one chapter of Social Science, built around the learner's own future profession, household money in dram, and a worked personal budget from Abovyan; scarcity is also presented critically, as partly created by market arrangements.
 
 Vietnam's own way (Vietnam Grade 10 Economic & Legal Education): a full school Economics course built on Vietnamese cases and current law — the Si Ma Cai periodic market for exchange, pork-price swings for market functions, the 2025 State Budget Law's own revenue/expenditure tables, corporate income-tax tiers and the progressive personal income-tax schedule, and a student's 80/13/7 spending rule for personal finance.
 
@@ -69,4 +77,4 @@ Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics
 
 Honduras's own way (Honduras Grade 3 G3 Student CCSS): Grade 3 scales up from family to country — occupations and production for the whole nation, social classes by income, the production-distribution-exchange-consumption chain, and exports/imports through customs with the arancel explained.
 
-Searchable tags: functional and personal income distribution, grade 12 economics, ethiopia, france, ses, gender pay gap, efficiency wages, social studies, people and resources, bangladesh, egypt, honduras, vietnam
+Searchable tags: functional and personal income distribution, grade 12 economics, ethiopia, france, ses, gender pay gap, efficiency wages, social studies, people and resources, bangladesh, egypt, honduras, vietnam, armenia

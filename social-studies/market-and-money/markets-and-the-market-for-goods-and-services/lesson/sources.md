@@ -1,6 +1,6 @@
 # Sources — Markets — and the market for goods and services
 
-countries: Ethiopia, Guatemala, France, Laos, Mongolia, Rwanda, Palestine, Cambodia, Bangladesh, Yemen, Vietnam
+countries: Ethiopia, Guatemala, France, Laos, Mongolia, Rwanda, Palestine, Cambodia, Bangladesh, Yemen, Vietnam, Armenia
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -83,7 +83,15 @@ Bangladesh's own way (Bangladesh Grade 8 History and Social Science): Class 8 tu
 | Lesson part | Where it comes from |
 |---|---|
 | Vietnam part — Lesson 3: the market — teaches: the market is the totality of economic relations in which actors' needs are met through exchange, with prices and quantities of goods and services determined — its elements are the supply–demand, goods–money and competition relations; markets are classified by object (goods and service markets: rice, oil, money, securities, real estate), by the actors' role (markets for means of production, consumer goods, labour, science–technology) and by scope (domestic, international) (Economics expansion, 2026-11-16) | Vietnam, *Vietnam Grade 10 Economic & Legal Education*, Lesson 3: the market — printed p. 19 |
-**Acceptance count: taught in 10 countries (Ethiopia, France, Laos, Mongolia, Rwanda, Palestine, Cambodia, Bangladesh, Yemen, Vietnam). Guatemala is teacher-guide evidence only — named here, counted nowhere.**
+**Book 13:** *Հասարակագիտություն — 9-րդ դասարան, հանրակրթական հիմնական դպրոցի դասագիրք (Social Science, Grade 9)* (student book, Armenian) — Զանգակ (Zangak), Yerevan; year 2025; ISBN printed on the imprint page but not legible in the scanned copy. Title as printed: Հասարակագիտություն — 9-րդ դասարան, հանրակրթական հիմնական դպրոցի դասագիրք (Social Science, Grade 9). Grade: 9 (student/teacher: STUDENT). PDF pages: 180 (cover/title page verified against the record title; image-only PDF, read from rendered pages and contact sheets; the identical book was read from the record's own ministry source_url, lib.armedu.am, 38,679,191 bytes — the GitHub release grab failed twice on timeouts). Verdict: COMPLETE. Contents map: Economics parts printed pp. 84-127 (Theme 4 State and Economy); Civics pp. 5-83, 128-171 (Themes 1-3 State/Sovereignty, State and Culture, State and Political System; Theme 5 State and Politics); Glossary pp. 172-174 (inventory-only, not placed); Contents p. 175. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Economics expansion — 4.2 Market economy: a market as where buyers and sellers meet to buy and sell goods and services, physical (a food market) or virtual (an online shop) | Armenia, *Armenia Grade 9 Social Science student*, 4.2 Market economy — printed p. 93 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, France, Laos, Mongolia, Rwanda, Palestine, Cambodia, Bangladesh, Yemen, Vietnam, Armenia). Guatemala is teacher-guide evidence only — named here, counted nowhere.**
+
+Armenia's own way (Armenia Grade 9 Social Science student): the new-format Grade 9 book gives Economics a full theme, "State and Economy": systems first (with Smith, Marx and Keynes as the thinkers), then the market and where it fails, then Armenia's own financial system and the state's economic and social policies, closing with Lorenz/Gini inequality graphs, World Bank income groups and the SDGs.
 
 Vietnam's own way (Vietnam Grade 10 Economic & Legal Education): a full school Economics course built on Vietnamese cases and current law — the Si Ma Cai periodic market for exchange, pork-price swings for market functions, the 2025 State Budget Law's own revenue/expenditure tables, corporate income-tax tiers and the progressive personal income-tax schedule, and a student's 80/13/7 spending rule for personal finance.
 
@@ -103,4 +111,4 @@ Mongolia's own way (Mongolia Grade 8 Social Studies 8): the economy is taught fr
 
 Cambodia's own way (Cambodia Grade 11 Economics): a full academic course built around Cambodia's own transition — the market system is introduced, judged, and then located in Cambodia itself (its market-economy foundations, its national economy, its reform programme), and the book closes with the history of economic thought from the first schools to Keynes.
 
-Searchable tags: market institution, goods and services market, physical digital exchange, ethiopia, guatemala, minimercado, teacher guide evidence, france, ses, art market, auction, social studies, market and money, laos, what is a market, everyday sense, economic sense, mongolia, local market, buyers sellers profit, rwanda, palestine, cambodia, bangladesh, yemen, vietnam
+Searchable tags: market institution, goods and services market, physical digital exchange, ethiopia, guatemala, minimercado, teacher guide evidence, france, ses, art market, auction, social studies, market and money, laos, what is a market, everyday sense, economic sense, mongolia, local market, buyers sellers profit, rwanda, palestine, cambodia, bangladesh, yemen, vietnam, armenia

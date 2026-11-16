@@ -1,6 +1,6 @@
 # Sources — The production possibilities frontier
 
-countries: Ethiopia, Malaysia, Albania, Cambodia, Bangladesh
+countries: Ethiopia, Malaysia, Albania, Cambodia, Bangladesh, Armenia
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -33,7 +33,15 @@ countries: Ethiopia, Malaysia, Albania, Cambodia, Bangladesh
 
 Bangladesh's own way (Bangladesh Grade 9 History and Social Science): Class 9 teaches the working core of microeconomics as one connected story — a farmer splitting his land between paddy and vegetables becomes opportunity cost and a paddy-versus-jute production possibility table whose opportunity cost rises (1, 2, 4, 8 lakh tons), wheat carries the demand and supply schedules and curves, an ice-cream market finds its equilibrium price, and Bangladesh's garment trade ($45 billion of exports at a $3 cost against Turkey's $8) shows why the country wins its markets.
 
-**Acceptance count: taught in 4 countries (Ethiopia, Malaysia, Cambodia, Bangladesh). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 6:** *ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 10 — Դասագիրք նպատակային ծրագրի համար (Social Science 10, textbook for the target programme)* (student book, Armenian) — «Զանգակ» (Zangak), Yerevan; year 2023 (2024 target-programme printing); ISBN 978-9939-99-040-8. Title as printed: ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 10 — Դասագիրք նպատակային ծրագրի համար (Social Science 10, textbook for the target programme). Grade: 10 (student/teacher: STUDENT). PDF pages: 130 (cover/title page verified against the record title; grab.py tree route verified 1,653,670 bytes). Verdict: COMPLETE. Contents map: Economics parts printed pp. 54-87 (Theme 3 Market Economy) and pp. 88-127 (Theme 4 Personal Finance Management); Theme 1 Problems of Modern Man and Society pp. 4-18; Theme 2 Political Ideologies pp. 19-53 (Civics). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Economics expansion — 3.1 Economic resources and factors of production: the production-possibilities curve built from a table of duduks versus shvis, points inside the curve (resources unused) and outside it (unattainable), and opportunity cost read off the curve | Armenia, *Armenia Grade 10 Social Science student*, 3.1 Economic resources and factors of production — printed p. 62 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Malaysia, Cambodia, Bangladesh, Armenia). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Armenia's own way (Armenia Grade 10 Social Science student): Grade 10 is a full Economics course inside Social Science — demand and supply are taught with a school-canteen juice schedule priced in dram, the production-possibilities curve with duduks and shvis (Armenian instruments), and personal finance through Armenian institutions: Central-Bank-licensed lenders, the ACRA credit bureau, the Financial System Mediator and the Rate.am / Appa.am comparison sites, including a fake "Gazprom Armenia" investment-scam case.
 
 Albania's own way (Albania Grade 12 Ekonomia 12 Teacher Guide): a full Grade 12 course that runs micro to macro and then turns practical — business ethics, success skills and personal finance close the course; Albanian anchors throughout (Bank of Albania videos for the personal-budget lesson, the Albanian government budget in the government chapter, the types of money in circulation in Albania). This Albania material stands on the teacher guide as evidence only.
 
@@ -43,4 +51,4 @@ Malaysia's own way (Malaysia Grade 10 Ekonomi Tingkatan 4): a full KSSM economic
 
 Cambodia's own way (Cambodia Grade 11 Economics): a full academic course built around Cambodia's own transition — the market system is introduced, judged, and then located in Cambodia itself (its market-economy foundations, its national economy, its reform programme), and the book closes with the history of economic thought from the first schools to Keynes.
 
-Searchable tags: PPF PPC, production possibilities, efficient inefficient unattainable, assumptions, ethiopia, social studies, microeconomics, malaysia, albania, cambodia, bangladesh
+Searchable tags: PPF PPC, production possibilities, efficient inefficient unattainable, assumptions, ethiopia, social studies, microeconomics, malaysia, albania, cambodia, bangladesh, armenia

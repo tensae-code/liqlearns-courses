@@ -1,6 +1,6 @@
 # Sources — Market failure — types and remedies
 
-countries: Ethiopia, Uzbekistan, Egypt, Fiji, Vietnam
+countries: Ethiopia, Uzbekistan, Egypt, Fiji, Vietnam, Armenia
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -36,7 +36,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 | Lesson part | Where it comes from |
 |---|---|
 | Vietnam part — Lesson 4: the weaknesses of the market mechanism — teaches: the mechanism carries inherent weaknesses: it harbours risks of crisis and recession when firms chase profit and expand production into supply–demand imbalance and bankruptcy, it breeds unfair competition that harms producers and consumers, and it cannot by itself correct deep social polarisation — so the State must strengthen macro-management to overcome and limit them (Economics expansion, 2026-11-16) | Vietnam, *Vietnam Grade 10 Economic & Legal Education*, Lesson 4: the weaknesses of the market mechanism — printed p. 25 |
-**Acceptance count: taught in 5 countries (Ethiopia, Uzbekistan, Egypt, Fiji, Vietnam).**
+**Book 6:** *Հասարակագիտություն — 9-րդ դասարան, հանրակրթական հիմնական դպրոցի դասագիրք (Social Science, Grade 9)* (student book, Armenian) — Զանգակ (Zangak), Yerevan; year 2025; ISBN printed on the imprint page but not legible in the scanned copy. Title as printed: Հասարակագիտություն — 9-րդ դասարան, հանրակրթական հիմնական դպրոցի դասագիրք (Social Science, Grade 9). Grade: 9 (student/teacher: STUDENT). PDF pages: 180 (cover/title page verified against the record title; image-only PDF, read from rendered pages and contact sheets; the identical book was read from the record's own ministry source_url, lib.armedu.am, 38,679,191 bytes — the GitHub release grab failed twice on timeouts). Verdict: COMPLETE. Contents map: Economics parts printed pp. 84-127 (Theme 4 State and Economy); Civics pp. 5-83, 128-171 (Themes 1-3 State/Sovereignty, State and Culture, State and Political System; Theme 5 State and Politics); Glossary pp. 172-174 (inventory-only, not placed); Contents p. 175. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Economics expansion — 4.2 Market economy: market failure defined (the market cannot supply the right quantity at the right price) and subsidies as a state remedy | Armenia, *Armenia Grade 9 Social Science student*, 4.2 Market economy — printed p. 93 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Uzbekistan, Egypt, Fiji, Vietnam, Armenia).**
+
+Armenia's own way (Armenia Grade 9 Social Science student): the new-format Grade 9 book gives Economics a full theme, "State and Economy": systems first (with Smith, Marx and Keynes as the thinkers), then the market and where it fails, then Armenia's own financial system and the state's economic and social policies, closing with Lorenz/Gini inequality graphs, World Bank income groups and the SDGs.
 
 Vietnam's own way (Vietnam Grade 10 Economic & Legal Education): a full school Economics course built on Vietnamese cases and current law — the Si Ma Cai periodic market for exchange, pork-price swings for market functions, the 2025 State Budget Law's own revenue/expenditure tables, corporate income-tax tiers and the progressive personal income-tax schedule, and a student's 80/13/7 spending rule for personal finance.
 
@@ -46,4 +54,4 @@ No matching teacher guide exists in this band: the book recorded as this text's 
 
 Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
 
-Searchable tags: market failure — types and remedies, grade 12 economics, ethiopia, social studies, microeconomics, uzbekistan, egypt, Fiji, vietnam
+Searchable tags: market failure — types and remedies, grade 12 economics, ethiopia, social studies, microeconomics, uzbekistan, egypt, Fiji, vietnam, armenia

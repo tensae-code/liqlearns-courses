@@ -4236,7 +4236,7 @@ History lessons: 3677 → 3897.
 
 ## Economics expansion totals
 
-Economics lessons across the Economics titles: **581**
+Economics lessons across the Economics titles: **583**
 (376 before the expansion; +2 for United Arab Emirates,
 2026-11-15 — Microeconomics: Basic needs and other needs
 and Work and its different forms; +2 for Iceland,
@@ -4489,3 +4489,7 @@ The market mechanism — the invisible hand;
 Macroeconomics: Consumption drives production
 and growth; Culture and Work: Insurance —
 sharing risk).
++2 for Armenia,
+2026-11-16 — Market and Money: Consumer protection
+in finance; Macroeconomics: Institutions and
+prosperity).

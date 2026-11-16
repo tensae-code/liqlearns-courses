@@ -1,6 +1,6 @@
 # Sources — Financial intermediaries — savers to borrowers
 
-countries: Ethiopia, Mongolia, Zimbabwe, Palestine, Dominica, Cambodia, Yemen, Vietnam
+countries: Ethiopia, Mongolia, Zimbabwe, Palestine, Dominica, Cambodia, Yemen, Vietnam, Armenia
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -55,7 +55,15 @@ Palestine's own way: Economics enters through the land itself — natural resour
 | Lesson part | Where it comes from |
 |---|---|
 | Vietnam part — Lesson 8: credit and the role of banks — teaches: credit is the economic relation between the owner of idle capital (the lender) and the user of that capital (the borrower) on the principle of repaying principal and interest by an agreed term — based on trust, temporary, and repayable with interest unconditionally; banks concentrate large capital from the temporarily idle money of individuals, enterprises and organisations across society and supply it to those who want to borrow for production, business and consumption (Economics expansion, 2026-11-16) | Vietnam, *Vietnam Grade 10 Economic & Legal Education*, Lesson 8: credit and the role of banks — printed p. 54 |
-**Acceptance count: taught in 7 countries (Ethiopia, Mongolia, Palestine, Dominica, Cambodia, Yemen, Vietnam). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+**Book 9:** *Հասարակագիտություն — 9-րդ դասարան, հանրակրթական հիմնական դպրոցի դասագիրք (Social Science, Grade 9)* (student book, Armenian) — Զանգակ (Zangak), Yerevan; year 2025; ISBN printed on the imprint page but not legible in the scanned copy. Title as printed: Հասարակագիտություն — 9-րդ դասարան, հանրակրթական հիմնական դպրոցի դասագիրք (Social Science, Grade 9). Grade: 9 (student/teacher: STUDENT). PDF pages: 180 (cover/title page verified against the record title; image-only PDF, read from rendered pages and contact sheets; the identical book was read from the record's own ministry source_url, lib.armedu.am, 38,679,191 bytes — the GitHub release grab failed twice on timeouts). Verdict: COMPLETE. Contents map: Economics parts printed pp. 84-127 (Theme 4 State and Economy); Civics pp. 5-83, 128-171 (Themes 1-3 State/Sovereignty, State and Culture, State and Political System; Theme 5 State and Politics); Glossary pp. 172-174 (inventory-only, not placed); Contents p. 175. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Economics expansion — 4.3 Armenia's financial system: the financial system as the whole set of institutions that let people and organisations exchange, save and invest money — deposits, loans, insurers, credit and investment companies, payment organisations and pension-fund managers | Armenia, *Armenia Grade 9 Social Science student*, 4.3 Armenia's financial system — printed p. 106 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Mongolia, Palestine, Dominica, Cambodia, Yemen, Vietnam, Armenia). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+
+Armenia's own way (Armenia Grade 9 Social Science student): the new-format Grade 9 book gives Economics a full theme, "State and Economy": systems first (with Smith, Marx and Keynes as the thinkers), then the market and where it fails, then Armenia's own financial system and the state's economic and social policies, closing with Lorenz/Gini inequality graphs, World Bank income groups and the SDGs.
 
 Vietnam's own way (Vietnam Grade 10 Economic & Legal Education): a full school Economics course built on Vietnamese cases and current law — the Si Ma Cai periodic market for exchange, pork-price swings for market functions, the 2025 State Budget Law's own revenue/expenditure tables, corporate income-tax tiers and the progressive personal income-tax schedule, and a student's 80/13/7 spending rule for personal finance.
 
@@ -70,4 +78,4 @@ Mongolia's own way (Mongolia Grade 9 Social Studies 9): the labour market is tau
 
 Cambodia's own way (Cambodia Grade 12 Economics): the final-year course turns practical — the market is studied the way a Cambodian trader meets it (consumers, prices, banks, riel exchange), and macro policy is taught as coordination: monetary policy, exchange rates and public finance fitted together, closing with foreign trade and the world trading system.
 
-Searchable tags: financial intermediation, surplus deficit units, Commercial Bank of Ethiopia, safety interest, finance blood of the economy, ethiopia, social studies, market and money, mongolia, saving, six steps, demand term deposits, zimbabwe, teacher guide evidence, palestine, dominica, csec principles of business, caribbean, cambodia, yemen, vietnam
+Searchable tags: financial intermediation, surplus deficit units, Commercial Bank of Ethiopia, safety interest, finance blood of the economy, ethiopia, social studies, market and money, mongolia, saving, six steps, demand term deposits, zimbabwe, teacher guide evidence, palestine, dominica, csec principles of business, caribbean, cambodia, yemen, vietnam, armenia

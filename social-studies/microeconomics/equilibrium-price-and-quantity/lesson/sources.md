@@ -1,6 +1,6 @@
 # Sources — Equilibrium price and quantity — where the curves cross
 
-countries: Ethiopia, France, Mongolia, Kazakhstan, Malaysia, Albania, Bangladesh, Yemen, Fiji, Vietnam
+countries: Ethiopia, France, Mongolia, Kazakhstan, Malaysia, Albania, Bangladesh, Yemen, Fiji, Vietnam, Armenia
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -75,7 +75,15 @@ Bangladesh's own way (Bangladesh Grade 9 History and Social Science): Class 9 te
 | Lesson part | Where it comes from |
 |---|---|
 | Vietnam part — Lesson 2: the supply–demand relationship and its role — teaches: supply and demand are tightly linked and determine each other — demand fixes the volume and structure of supply like the market's "order" to producers, and supply acts back on and stimulates demand; when supply exceeds demand prices fall, when supply falls short prices rise, and when the two balance price is stable — the relationship guides producers' decisions to expand or narrow production, consumers' buying choices, and the State's measures to keep a reasonable supply–demand balance (as when African swine fever cut pork supply in 2019 and the Government acted to rebuild herds and steady prices) (Economics expansion, 2026-11-16) | Vietnam, *Vietnam Grade 11 Economic & Legal Education*, Lesson 2: the supply–demand relationship and its role — printed p. 14 |
-**Acceptance count: taught in 9 countries (Ethiopia, France, Mongolia, Kazakhstan, Malaysia, Bangladesh, Yemen, Fiji, Vietnam). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 13:** *ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 10 — Դասագիրք նպատակային ծրագրի համար (Social Science 10, textbook for the target programme)* (student book, Armenian) — «Զանգակ» (Zangak), Yerevan; year 2023 (2024 target-programme printing); ISBN 978-9939-99-040-8. Title as printed: ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 10 — Դասագիրք նպատակային ծրագրի համար (Social Science 10, textbook for the target programme). Grade: 10 (student/teacher: STUDENT). PDF pages: 130 (cover/title page verified against the record title; grab.py tree route verified 1,653,670 bytes). Verdict: COMPLETE. Contents map: Economics parts printed pp. 54-87 (Theme 3 Market Economy) and pp. 88-127 (Theme 4 Personal Finance Management); Theme 1 Problems of Modern Man and Society pp. 4-18; Theme 2 Political Ideologies pp. 19-53 (Civics). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Economics expansion — 3.2 Demand, supply and market price: the equilibrium or market price where demand and supply curves meet | Armenia, *Armenia Grade 10 Social Science student*, 3.2 Demand, supply and market price — printed p. 73 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, France, Mongolia, Kazakhstan, Malaysia, Bangladesh, Yemen, Fiji, Vietnam, Armenia). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Armenia's own way (Armenia Grade 10 Social Science student): Grade 10 is a full Economics course inside Social Science — demand and supply are taught with a school-canteen juice schedule priced in dram, the production-possibilities curve with duduks and shvis (Armenian instruments), and personal finance through Armenian institutions: Central-Bank-licensed lenders, the ACRA credit bureau, the Financial System Mediator and the Rate.am / Appa.am comparison sites, including a fake "Gazprom Armenia" investment-scam case.
 
 Vietnam's own way (Vietnam Grade 10 Economic & Legal Education): a full school Economics course built on Vietnamese cases and current law — the Si Ma Cai periodic market for exchange, pork-price swings for market functions, the 2025 State Budget Law's own revenue/expenditure tables, corporate income-tax tiers and the progressive personal income-tax schedule, and a student's 80/13/7 spending rule for personal finance.
 
@@ -99,4 +107,4 @@ Kazakhstan's own way (Kazakhstan Grade 10 Duisenkhanov Part 1): the same nationa
 
 Malaysia's own way (Malaysia Grade 10 Ekonomi Tingkatan 4): a full KSSM economics course in Malay with bilingual BM–BI glossaries, ringgit-denominated tables throughout, and Malaysian institutions (Bank Negara, KWSP/EPF, PERKESO) as the living examples.
 
-Searchable tags: equilibrium price quantity, curves intersection, market equilibrium, ethiopia, france, ses, lunch deal, french housing, social studies, microeconomics, mongolia, flour schedule, shortage surplus, kazakhstan, tenge, entrepreneurship and business basics, malaysia, albania, bangladesh, yemen, Fiji, vietnam
+Searchable tags: equilibrium price quantity, curves intersection, market equilibrium, ethiopia, france, ses, lunch deal, french housing, social studies, microeconomics, mongolia, flour schedule, shortage surplus, kazakhstan, tenge, entrepreneurship and business basics, malaysia, albania, bangladesh, yemen, Fiji, vietnam, armenia

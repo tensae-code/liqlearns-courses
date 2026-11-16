@@ -1,6 +1,6 @@
 # Sources — Production — turning inputs into outputs
 
-countries: Ethiopia, Syria, France, Bahamas, Zimbabwe, Jordan, Cambodia, Bangladesh, Fiji, Vietnam
+countries: Ethiopia, Syria, France, Bahamas, Zimbabwe, Jordan, Cambodia, Bangladesh, Fiji, Vietnam, Armenia
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -95,7 +95,15 @@ Bangladesh's own way (Bangladesh Grade 9 History and Social Science): Class 9 te
 | Lesson part | Where it comes from |
 |---|---|
 | Vietnam part — Lesson 1: production activity — teaches: production is people using the factors of production to create products meeting society's needs; it is the most basic human activity and decides the distribution–exchange and consumption activities (Economics expansion, 2026-11-16) | Vietnam, *Vietnam Grade 10 Economic & Legal Education*, Lesson 1: production activity — printed p. 7 |
-**Acceptance count: taught in 9 countries (Ethiopia, Syria, France, Bahamas, Jordan, Cambodia, Bangladesh, Fiji, Vietnam). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+**Book 16:** *Հասարակագիտություն 7 — Դասագիրք հանրակրթական դպրոցի համար (Social Science 7, textbook for general school)* (student book, Armenian) — «Մասնակցային դպրոց» ԿՀ (Participatory School), Yerevan; year 2023; ISBN 978-9939-1-1725-6. Title as printed: Հասարակագիտություն 7 — Դասագիրք հանրակրթական դպրոցի համար (Social Science 7, textbook for general school). Grade: 7 (student/teacher: STUDENT). PDF pages: 146 (cover/title page verified against the record title; grab verified 92,681,662 bytes). Verdict: COMPLETE. Contents map: Economics parts printed pp. 102-127 (Ch. 7 Man and Economy); Man-and-Nature pp. 12-27; Society/Civics-type parts pp. 28-101, 128-139; Glossary pp. 140-144 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Economics expansion — 7.1 Production, distribution, exchange and consumption: the economy as four linked processes, production using natural resources, labour, tools and premises | Armenia, *Armenia Grade 7 Social Science student*, 7.1 Production, distribution, exchange and consumption — printed p. 108 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Syria, France, Bahamas, Jordan, Cambodia, Bangladesh, Fiji, Vietnam, Armenia). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+
+Armenia's own way (Armenia Grade 7 Social Science student): Economics enters in Grade 7 as one chapter of Social Science, built around the learner's own future profession, household money in dram, and a worked personal budget from Abovyan; scarcity is also presented critically, as partly created by market arrangements.
 
 Vietnam's own way (Vietnam Grade 10 Economic & Legal Education): a full school Economics course built on Vietnamese cases and current law — the Si Ma Cai periodic market for exchange, pork-price swings for market functions, the 2025 State Budget Law's own revenue/expenditure tables, corporate income-tax tiers and the progressive personal income-tax schedule, and a student's 80/13/7 spending rule for personal finance.
 
@@ -122,4 +130,4 @@ Jordan's own way (Jordan Grade 3 Term 2): Trade is taught as a Jordanian family 
 
 Cambodia's own way (Cambodia Grade 11 Economics): a full academic course built around Cambodia's own transition — the market system is introduced, judged, and then located in Cambodia itself (its market-economy foundations, its national economy, its reform programme), and the book closes with the history of economic thought from the first schools to Keynes.
 
-Searchable tags: production inputs outputs, tangible intangible, wheat example, ethiopia, syria, made in syria, bread, raw materials, france, ses, market non-market production, social studies, microeconomics, bahamas, zimbabwe, teacher guide evidence, jordan, cambodia, bangladesh, Fiji, vietnam
+Searchable tags: production inputs outputs, tangible intangible, wheat example, ethiopia, syria, made in syria, bread, raw materials, france, ses, market non-market production, social studies, microeconomics, bahamas, zimbabwe, teacher guide evidence, jordan, cambodia, bangladesh, Fiji, vietnam, armenia

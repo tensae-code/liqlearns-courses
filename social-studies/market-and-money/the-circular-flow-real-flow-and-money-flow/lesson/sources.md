@@ -1,6 +1,6 @@
 # Sources — The circular flow — real flow and money flow
 
-countries: Ethiopia, Laos, Albania, Vietnam
+countries: Ethiopia, Laos, Albania, Vietnam, Armenia
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 **Book 2:** *Economics, Teacher Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed (M.Sc.), Tadesse Ababu (M.Sc.). Editors: Mesfin Ketema (M.Sc., Content Editor), Enguday Ademe (Ph.D., Curriculum Editor), Birhanu Engidaw (Ph.D., Language Editor). Illustrator: Endalkachew Mengesha (M.Sc.). Designer: Derejaw Lake (M.Sc.). The Evaluators line on the title page is left blank. Copyright page reads "First Published xxxxx 2022" under GEQIP-E; printer, contract number and ISBN are all printed as placeholders. Printed page = PDF page - 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-teacher-placements.md
@@ -36,7 +36,15 @@ countries: Ethiopia, Laos, Albania, Vietnam
 | Lesson part | Where it comes from |
 |---|---|
 | Vietnam part — Lesson 1: how the four activities relate — teaches: production, distribution–exchange and consumption are tightly linked — production is the root and plays the deciding role, consumption is the purpose and motive of production (society's "order" to it, fixing quantity, structure and quality), and distribution–exchange is the bridge that acts back on both (Economics expansion, 2026-11-16) | Vietnam, *Vietnam Grade 10 Economic & Legal Education*, Lesson 1: how the four activities relate — printed p. 10 |
-**Acceptance count: taught in 3 countries (Ethiopia, Laos, Vietnam). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 7:** *Հասարակագիտություն — 9-րդ դասարան, հանրակրթական հիմնական դպրոցի դասագիրք (Social Science, Grade 9)* (student book, Armenian) — Զանգակ (Zangak), Yerevan; year 2025; ISBN printed on the imprint page but not legible in the scanned copy. Title as printed: Հասարակագիտություն — 9-րդ դասարան, հանրակրթական հիմնական դպրոցի դասագիրք (Social Science, Grade 9). Grade: 9 (student/teacher: STUDENT). PDF pages: 180 (cover/title page verified against the record title; image-only PDF, read from rendered pages and contact sheets; the identical book was read from the record's own ministry source_url, lib.armedu.am, 38,679,191 bytes — the GitHub release grab failed twice on timeouts). Verdict: COMPLETE. Contents map: Economics parts printed pp. 84-127 (Theme 4 State and Economy); Civics pp. 5-83, 128-171 (Themes 1-3 State/Sovereignty, State and Culture, State and Political System; Theme 5 State and Politics); Glossary pp. 172-174 (inventory-only, not placed); Contents p. 175. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Economics expansion — 4.3 Armenia's financial system: the circular-flow diagram linking households, firms, the state and the foreign sector through the financial system | Armenia, *Armenia Grade 9 Social Science student*, 4.3 Armenia's financial system — printed p. 108 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Laos, Vietnam, Armenia). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Armenia's own way (Armenia Grade 9 Social Science student): the new-format Grade 9 book gives Economics a full theme, "State and Economy": systems first (with Smith, Marx and Keynes as the thinkers), then the market and where it fails, then Armenia's own financial system and the state's economic and social policies, closing with Lorenz/Gini inequality graphs, World Bank income groups and the SDGs.
 
 Vietnam's own way (Vietnam Grade 10 Economic & Legal Education): a full school Economics course built on Vietnamese cases and current law — the Si Ma Cai periodic market for exchange, pork-price swings for market functions, the 2025 State Budget Law's own revenue/expenditure tables, corporate income-tax tiers and the progressive personal income-tax schedule, and a student's 80/13/7 spending rule for personal finance.
 
@@ -46,4 +54,4 @@ Pairing note carried from the placements: the student textbook is the finished 2
 
 Laos' own way (Laos Grade 10 Business student): Economics is taught as the theory inside a "become a businessperson" course, drawn from village life — weaving, market stalls and repair shops sorted into producing, trading and services; the circular flow is drawn between households and the village business, and "produce for whom?" is answered with a Rolls-Royce.
 
-Searchable tags: circular flow, real flow money flow, clockwise counter-clockwise, birr, market system coordinator, ethiopia, social studies, market and money, laos, circular flow, households and businesses, village business, albania, vietnam
+Searchable tags: circular flow, real flow money flow, clockwise counter-clockwise, birr, market system coordinator, ethiopia, social studies, market and money, laos, circular flow, households and businesses, village business, albania, vietnam, armenia

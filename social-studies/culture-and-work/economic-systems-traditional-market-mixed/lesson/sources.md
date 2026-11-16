@@ -12,6 +12,17 @@ countries: Armenia, Malaysia
 | Sub lesson 2 — Armenia's way — the book's own teaching way | Armenia — the book's own way of teaching (see below) |
 | Malaysia — 1.2 Economic systems and solving the basic economic problems: capitalist, socialist, mixed and Islamic economic systems compared, and how each answers what, how and for whom to produce, with the market mechanism | Malaysia, *Ekonomi Tingkatan 4*, 1.2 Economic systems and solving the basic economic problems — printed p. 16 |
 
+**Economics expansion — Armenia (against Book 1 above, already cited in this file from the earlier waves; the Economics placement is stocked as a distinct evidence row, not as a second book):**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Economics expansion — 4.1 Economic systems: an economic system defined, then traditional, planned (command), market and mixed systems each defined and contrasted | Armenia, *Armenia Grade 9 Social Science student*, 4.1 Economic systems — printed p. 84 |
+**Book 3:** *ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 10 — Դասագիրք նպատակային ծրագրի համար (Social Science 10, textbook for the target programme)* (student book, Armenian) — «Զանգակ» (Zangak), Yerevan; year 2023 (2024 target-programme printing); ISBN 978-9939-99-040-8. Title as printed: ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 10 — Դասագիրք նպատակային ծրագրի համար (Social Science 10, textbook for the target programme). Grade: 10 (student/teacher: STUDENT). PDF pages: 130 (cover/title page verified against the record title; grab.py tree route verified 1,653,670 bytes). Verdict: COMPLETE. Contents map: Economics parts printed pp. 54-87 (Theme 3 Market Economy) and pp. 88-127 (Theme 4 Personal Finance Management); Theme 1 Problems of Modern Man and Society pp. 4-18; Theme 2 Political Ideologies pp. 19-53 (Civics). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Economics expansion — 3.3 Market competition and monopoly, closing terms: an economic system as the regulated relations between producers and consumers; market, planned and mixed as the three types | Armenia, *Armenia Grade 10 Social Science student*, 3.3 Market competition and monopoly, closing terms — printed p. 83 |
+
 **Acceptance count: taught in 2 countries (Armenia, Malaysia).**
 
 Armenia's own way (Armenia Grade 9 Social Science student): grade-9 Social Science circles one idea — the state — through culture, civil society, the economy and citizenship; its economy theme runs from economic systems to Armenia's own financial system.

@@ -1,6 +1,6 @@
 # Sources — Gross domestic product
 
-countries: Ethiopia, Dominican Republic, Albania, Cambodia, Bangladesh, Honduras
+countries: Ethiopia, Dominican Republic, Albania, Cambodia, Bangladesh, Honduras, Armenia
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -42,7 +42,16 @@ Bangladesh's own way (Bangladesh Grade 7 History and Social Science): Class 7 bu
 |---|---|
 | Honduras part — Lesson 35 "Indicadores económicos en Honduras" — teaches: reading a GDP growth-rate chart (IMF data 2014–2018) alongside unemployment and the 2019 trade deficit as whole-economy indicators | Honduras, *Honduras Grade 7 G7 Student CCSS*, Lesson 35 "Indicadores económicos en Honduras" — printed p. 219 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Dominican Republic, Cambodia, Bangladesh, Honduras). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 7:** *ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 11-րդ դասարան — Հանրակրթական ավագ դպրոցի դասագիրք (Social Science, Grade 11, senior-school textbook)* (student book, Armenian) — «Զանգակ» (Zangak), Yerevan; year 2025; ISBN 978-9939-99-280-8. Title as printed: ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 11-րդ դասարան — Հանրակրթական ավագ դպրոցի դասագիրք (Social Science, Grade 11, senior-school textbook). Grade: 11 (student/teacher: STUDENT). PDF pages: 192 (cover verified against the record title; release grab verified 234,716,578 bytes; the staging-tree route 404s for this file — the book lives only in the full-quality-oversized-books release under the record's exact asset name). Verdict: COMPLETE. Contents map: Economics part printed pp. 46-76 (Theme 2 The Role of the State in the Economy); Theme 1 State System and Rights-Protection Mechanisms pp. 5-45 (Law/Civics); Theme 3 Political Participation and Elections pp. 77-108 (Civics); Theme 4 Parties and Interest Groups pp. 109-132 (Civics); Theme 5 International Law pp. 133-171 (Civics); Theme 6 International Relations and Foreign Policy pp. 172-190 (Civics). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Economics expansion — 2.1 Rich and poor countries, GDP and economic growth: GDP and GDP at purchasing-power parity defined for comparing countries (filed as macroeconomics/gdp-what-it-measures; stocked here as the closest existing lesson covering that thing, the original slug recorded in this row) | Armenia, *Armenia Grade 11 Social Science student*, 2.1 Rich and poor countries, GDP and economic growth — printed p. 46 |
+| Armenia part — Economics expansion — 2.1 Rich and poor countries, GDP and economic growth: the expenditure, income and production methods of measuring GDP, the production method worked with a 360,000-dram three-product example (filed as macroeconomics/the-three-ways-to-measure-gdp; stocked here as the closest existing lesson covering that thing, the original slug recorded in this row) | Armenia, *Armenia Grade 11 Social Science student*, 2.1 Rich and poor countries, GDP and economic growth — printed p. 48 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Dominican Republic, Cambodia, Bangladesh, Honduras, Armenia). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Armenia's own way (Armenia Grade 11 Social Science student): Grade 11 macroeconomics is anchored in Armenian official statistics — learners compute with the Statistical Committee's data, meet the 425-item consumer basket Armenia uses for inflation, the Central Bank's 3% ±1 inflation target, and the Armenian-born Nobel laureate Daron Acemoglu's "Narrow Corridor" on institutions and prosperity.
 
 Albania's own way (Albania Grade 12 Ekonomia 12 Teacher Guide): a full Grade 12 course that runs micro to macro and then turns practical — business ethics, success skills and personal finance close the course; Albanian anchors throughout (Bank of Albania videos for the personal-budget lesson, the Albanian government budget in the government chapter, the types of money in circulation in Albania). This Albania material stands on the teacher guide as evidence only.
 
@@ -52,4 +61,4 @@ Cambodia's own way (Cambodia Grade 11 Economics): a full academic course built a
 
 Honduras's own way (Honduras Grade 7 G7 Student CCSS): Grade 7 carries the set's first real Economics block — it starts from the community economy and the Banco Central's own activity classification, then builds Honduras's national story: sectors, formal/informal work (70.8% informal per INE), indicators, poverty, globalisation and the foreign lenders behind structural adjustment.
 
-Searchable tags: GDP, gross domestic product, market value final goods services, within borders, one year, income expenditure equal, ethiopia, social studies, macroeconomics, dominican republic, albania, cambodia, bangladesh, honduras
+Searchable tags: GDP, gross domestic product, market value final goods services, within borders, one year, income expenditure equal, ethiopia, social studies, macroeconomics, dominican republic, albania, cambodia, bangladesh, honduras, armenia

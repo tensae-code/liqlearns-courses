@@ -1,6 +1,6 @@
 # Sources — Needs versus wants
 
-countries: Rwanda, Jordan
+countries: Rwanda, Jordan, Armenia
 
 **Book 1:** *Primary Social and Religious Studies for Rwanda — P4 Pupil's Book (Revised Edition 2019)* (student book, English) — Rwanda, REB; year 2019; ISBN no ISBN printed. Title as printed: Primary Social and Religious Studies for Rwanda — P4 Pupil's Book (Revised Edition 2019). Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 113 (cover verified against the record title; 97,794,186 bytes via release grab, size-verified by grab.py; an earlier interrupted download was discarded as corrupt and re-grabbed). Verdict: COMPLETE. Contents map: Economics parts printed pp. 40–46 (Unit 4 Economy) and pp. 2–13 (Unit 1 Socio-economic activities in our district); other units: Human/children's rights pp. 16–28, Hygiene pp. 31–38, Civics and governance pp. 49–58, Geography units pp. 60–98, History (Traditional Rwanda) pp. 100–107, Religious Studies pp. 108–188 (named only, not placed); glossary p. 189 is inventory-only, not placed. Teacher evidence: the P4 teacher guide (New Primary Social and Religious Studies for Rwanda — P4 Teacher's Guide, 100 PDF pp.) mirrors this pupil book's Unit 4 Economy — cited as teacher evidence for the same content, outside the acceptance count, with no separate placements, as filed. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/rwanda-placements.md
 
@@ -19,7 +19,15 @@ countries: Rwanda, Jordan
 | Jordan part — Economics expansion — Unit 8 Lesson 3: Needs and wants: people seek basic needs they cannot live without (food, water, shelter) and extra wants/desires (such as buying a game), and an economic system must balance resources against needs and wants (filed as NEW LESSON NEEDED — microeconomics/needs-and-wants-basic-and-extra; stocked here as the closest existing lesson covering that thing, the original slug recorded in this row) | Jordan, *Social Studies, Grade 6, Term 2*, Unit 8 Lesson 3: Needs and wants — printed p. 75 |
 | Jordan part — Economics expansion — Unit 4 Lesson 4: The Smart Consumer — necessary and unnecessary goods: consumption is using goods and services to satisfy a person's needs and wants; necessary goods are those a person cannot live without (water, food, clothes, medicine, knowledge), unlike extra goods, and a smart consumer chooses between them with the money in hand (filed as NEW LESSON NEEDED — microeconomics/needs-and-wants-basic-and-extra; stocked here as the closest existing lesson covering that thing, the original slug recorded in this row) | Jordan, *Social Studies, Grade 3, Term 2*, Unit 4 Lesson 4: The Smart Consumer — necessary and unnecessary goods — printed p. 38 |
 
-**Acceptance count: taught in 2 countries (Rwanda, Jordan).**
+**Book 4:** *Հասարակագիտություն 7 — Դասագիրք հանրակրթական դպրոցի համար (Social Science 7, textbook for general school)* (student book, Armenian) — «Մասնակցային դպրոց» ԿՀ (Participatory School), Yerevan; year 2023; ISBN 978-9939-1-1725-6. Title as printed: Հասարակագիտություն 7 — Դասագիրք հանրակրթական դպրոցի համար (Social Science 7, textbook for general school). Grade: 7 (student/teacher: STUDENT). PDF pages: 146 (cover/title page verified against the record title; grab verified 92,681,662 bytes). Verdict: COMPLETE. Contents map: Economics parts printed pp. 102-127 (Ch. 7 Man and Economy); Man-and-Nature pp. 12-27; Society/Civics-type parts pp. 28-101, 128-139; Glossary pp. 140-144 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Economics expansion — 7.2 Our requirements, needs and wants: biological requirements, needs and wants/luxuries distinguished, wants shaped by advertising and surroundings, conspicuous consumption in consumer society (filed as NEW LESSON NEEDED — microeconomics/needs-versus-wants; that lesson already exists in the current tree, built earlier in this expansion, so the placement is stocked into it here) | Armenia, *Armenia Grade 7 Social Science student*, 7.2 Our requirements, needs and wants — printed p. 116 |
+
+**Acceptance count: taught in 3 countries (Rwanda, Jordan, Armenia).**
+
+Armenia's own way (Armenia Grade 7 Social Science student): Economics enters in Grade 7 as one chapter of Social Science, built around the learner's own future profession, household money in dram, and a worked personal budget from Abovyan; scarcity is also presented critically, as partly created by market arrangements.
 
 Rwanda's own way (Rwanda Grade 4): P4 separates needs from wants for the first time and ties money to the district — Lake Kivu fishing, Kigali markets and tourist crafts — with saving taught as planning before spending and comparing what a bank pays.
 
@@ -27,4 +35,4 @@ Jordan's own way (Jordan Grade 6 Term 2): Economics arrives as one late unit bui
 
 Jordan's own way (Jordan Grade 3 Term 2): Trade is taught as a Jordanian family story that starts at the hundred-year-old Hejaz railway, runs from barter and camel peddlers to e-commerce, and lands on the child's own choices — what a family can and cannot do without, where income comes from, and what 2, 3, 5 or 12 dinars in hand can buy.
 
-Searchable tags: needs versus wants, needs, wants, prioritise, rwanda, social studies, microeconomics, jordan
+Searchable tags: needs versus wants, needs, wants, prioritise, rwanda, social studies, microeconomics, jordan, armenia

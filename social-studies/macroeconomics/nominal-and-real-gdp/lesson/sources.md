@@ -1,6 +1,6 @@
 # Sources — Nominal and real GDP
 
-countries: Ethiopia, Dominican Republic, Albania, Uzbekistan
+countries: Ethiopia, Dominican Republic, Albania, Uzbekistan, Armenia
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -30,10 +30,18 @@ countries: Ethiopia, Dominican Republic, Albania, Uzbekistan
 
 Uzbekistan's own way: a post-transition primer that teaches the whole market economy through the firm first (entrepreneurship, business plans, Uzbek registration at the khokimiyat), then the state, then the nation — every formula is worked in sum on Uzbek cases (a dekhkan cotton farm's costs, the "Ziyo-LTD" family joint-stock company, Umid's photo studio, the Sadullaev family budget, Ipotekabank deposit offers), with Uzbek data throughout (2004 state budget and tax shares, 1995–2004 inflation, 2004 trade by category, the sum exchange rate) and Eastern-wisdom sidebars (Amir Temur, Sahibkiran) beside Fisher, Ricardo and Hume.
 
-**Acceptance count: taught in 3 countries (Ethiopia, Dominican Republic, Uzbekistan). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 5:** *ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 11-րդ դասարան — Հանրակրթական ավագ դպրոցի դասագիրք (Social Science, Grade 11, senior-school textbook)* (student book, Armenian) — «Զանգակ» (Zangak), Yerevan; year 2025; ISBN 978-9939-99-280-8. Title as printed: ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 11-րդ դասարան — Հանրակրթական ավագ դպրոցի դասագիրք (Social Science, Grade 11, senior-school textbook). Grade: 11 (student/teacher: STUDENT). PDF pages: 192 (cover verified against the record title; release grab verified 234,716,578 bytes; the staging-tree route 404s for this file — the book lives only in the full-quality-oversized-books release under the record's exact asset name). Verdict: COMPLETE. Contents map: Economics part printed pp. 46-76 (Theme 2 The Role of the State in the Economy); Theme 1 State System and Rights-Protection Mechanisms pp. 5-45 (Law/Civics); Theme 3 Political Participation and Elections pp. 77-108 (Civics); Theme 4 Parties and Interest Groups pp. 109-132 (Civics); Theme 5 International Law pp. 133-171 (Civics); Theme 6 International Relations and Foreign Policy pp. 172-190 (Civics). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Economics expansion — 2.1 Rich and poor countries, GDP and economic growth: if the same quantities are produced two years running but prices rise, nominal GDP grows while real output does not (filed as macroeconomics/nominal-versus-real-gdp; stocked here as the closest existing lesson covering that thing, the original slug recorded in this row) | Armenia, *Armenia Grade 11 Social Science student*, 2.1 Rich and poor countries, GDP and economic growth — printed p. 51 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Dominican Republic, Uzbekistan, Armenia). Albania is teacher-guide evidence only — named here, counted nowhere.**
+
+Armenia's own way (Armenia Grade 11 Social Science student): Grade 11 macroeconomics is anchored in Armenian official statistics — learners compute with the Statistical Committee's data, meet the 425-item consumer basket Armenia uses for inflation, the Central Bank's 3% ±1 inflation target, and the Armenian-born Nobel laureate Daron Acemoglu's "Narrow Corridor" on institutions and prosperity.
 
 Albania's own way (Albania Grade 12 Ekonomia 12 Teacher Guide): a full Grade 12 course that runs micro to macro and then turns practical — business ethics, success skills and personal finance close the course; Albanian anchors throughout (Bank of Albania videos for the personal-budget lesson, the Albanian government budget in the government chapter, the types of money in circulation in Albania). This Albania material stands on the teacher guide as evidence only.
 
 Dominican Republic's own way (Dominican Republic Grade 12 Ciencias Sociales 6° Secundaria): the school-leaving book ends with the national economy measured — GDP, openness, the balance of payments and per-capita income are all taught on Central Bank tables for 2010–2022, and the unit's own conclusion is critical: GDP per capita doubled while the average worker's income stagnated, so other sectors appropriated the increase.
 
-Searchable tags: nominal GDP current prices, real GDP base year prices, quantities only, base year equal, capital labour productivity, ethiopia, social studies, macroeconomics, dominican republic, albania, uzbekistan
+Searchable tags: nominal GDP current prices, real GDP base year prices, quantities only, base year equal, capital labour productivity, ethiopia, social studies, macroeconomics, dominican republic, albania, uzbekistan, armenia

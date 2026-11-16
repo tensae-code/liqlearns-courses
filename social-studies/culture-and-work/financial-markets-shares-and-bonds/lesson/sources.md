@@ -1,6 +1,6 @@
 # Sources — Financial Markets — Shares and Bonds
 
-countries: Mongolia, Uzbekistan, Egypt, Vietnam
+countries: Mongolia, Uzbekistan, Egypt, Vietnam, Armenia
 
 **Book 1:** *Нийгэм судлал X (Social Studies X)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2019; ISBN no ISBN printed on the pages checked. Title as printed: Нийгэм судлал X (Social Studies X). Grade: Grade 10 (student). 151 PDF pp. (cover verified against the record title; secured GitHub release asset, 91,224,144 bytes, byte-size verified on download; contents also cross-checked against the ministry econtent flipbook of the same book — note the books.json record says 7,193,154 bytes, which does not match the secured asset: a library debt, see group log). Verdict: COMPLETE for Geography scope (contents page and chapter openings read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mongolia-placements.md.
 
@@ -29,7 +29,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 | Lesson part | Where it comes from |
 |---|---|
 | Vietnam part — Lesson 9: state credit — teaches: state credit covers the State borrowing (to cover a budget deficit or expand investment for national construction) and lending at preferential rates for key economic goals and support of disadvantaged groups; its forms include issuing government bonds (treasury bills and bonds and national-construction bonds — terms from one year, saleable and pledgeable at banks and resalable on the securities market) and lending through the Social Policy Bank to poor households and policy beneficiaries, a non-profit state credit organisation (Economics expansion, 2026-11-16) | Vietnam, *Vietnam Grade 10 Economic & Legal Education*, Lesson 9: state credit — printed p. 64 |
-**Acceptance count: taught in 4 countries (Mongolia, Uzbekistan, Egypt, Vietnam).**
+**Book 5:** *ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 10 — Դասագիրք նպատակային ծրագրի համար (Social Science 10, textbook for the target programme)* (student book, Armenian) — «Զանգակ» (Zangak), Yerevan; year 2023 (2024 target-programme printing); ISBN 978-9939-99-040-8. Title as printed: ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 10 — Դասագիրք նպատակային ծրագրի համար (Social Science 10, textbook for the target programme). Grade: 10 (student/teacher: STUDENT). PDF pages: 130 (cover/title page verified against the record title; grab.py tree route verified 1,653,670 bytes). Verdict: COMPLETE. Contents map: Economics parts printed pp. 54-87 (Theme 3 Market Economy) and pp. 88-127 (Theme 4 Personal Finance Management); Theme 1 Problems of Modern Man and Society pp. 4-18; Theme 2 Political Ideologies pp. 19-53 (Civics). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Economics expansion — 4.2 Managing savings: shares as a savings vehicle that can bring high long-term returns but can be lost if the company goes bankrupt; the safety-yield-liquidity trade-off across savings services | Armenia, *Armenia Grade 10 Social Science student*, 4.2 Managing savings — printed p. 101 |
+
+**Acceptance count: taught in 5 countries (Mongolia, Uzbekistan, Egypt, Vietnam, Armenia).**
+
+Armenia's own way (Armenia Grade 10 Social Science student): Grade 10 is a full Economics course inside Social Science — demand and supply are taught with a school-canteen juice schedule priced in dram, the production-possibilities curve with duduks and shvis (Armenian instruments), and personal finance through Armenian institutions: Central-Bank-licensed lenders, the ACRA credit bureau, the Financial System Mediator and the Rate.am / Appa.am comparison sites, including a fake "Gazprom Armenia" investment-scam case.
 
 Vietnam's own way (Vietnam Grade 10 Economic & Legal Education): a full school Economics course built on Vietnamese cases and current law — the Si Ma Cai periodic market for exchange, pork-price swings for market functions, the 2025 State Budget Law's own revenue/expenditure tables, corporate income-tax tiers and the progressive personal income-tax schedule, and a student's 80/13/7 spending rule for personal finance.
 
@@ -37,4 +45,4 @@ Mongolia's own way: the senior cycle drops the “Individual and…” frame for
 
 Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
 
-Searchable tags: financial markets, shares, bonds, investment, Mongolia, Нийгэм судлал X, social studies, culture and work, uzbekistan, egypt, vietnam
+Searchable tags: financial markets, shares, bonds, investment, Mongolia, Нийгэм судлал X, social studies, culture and work, uzbekistan, egypt, vietnam, armenia

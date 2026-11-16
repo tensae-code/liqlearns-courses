@@ -1,6 +1,6 @@
 # Sources — Frictional, structural and cyclical unemployment
 
-countries: Ethiopia, France, Malaysia, Dominica
+countries: Ethiopia, France, Malaysia, Dominica, Armenia
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -26,7 +26,17 @@ countries: Ethiopia, France, Malaysia, Dominica
 |---|---|
 | Dominica part — Unit 10.4 Economic Problems in the Caribbean: unemployment — teaches: the three types with Caribbean cases — structural (Caroni 1975 sugar closure in Trinidad), cyclical (the economic cycle diagram, demand-deficient) and frictional ("search and wait") — and the costs of unemployment to the person and the economy | Dominica, *Principles of Business for CSEC Examinations, Second Edition*, Unit 10.4 Economic Problems in the Caribbean: unemployment — printed p. 378 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, France, Malaysia, Dominica).**
+**Book 5:** *ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 11-րդ դասարան — Հանրակրթական ավագ դպրոցի դասագիրք (Social Science, Grade 11, senior-school textbook)* (student book, Armenian) — «Զանգակ» (Zangak), Yerevan; year 2025; ISBN 978-9939-99-280-8. Title as printed: ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 11-րդ դասարան — Հանրակրթական ավագ դպրոցի դասագիրք (Social Science, Grade 11, senior-school textbook). Grade: 11 (student/teacher: STUDENT). PDF pages: 192 (cover verified against the record title; release grab verified 234,716,578 bytes; the staging-tree route 404s for this file — the book lives only in the full-quality-oversized-books release under the record's exact asset name). Verdict: COMPLETE. Contents map: Economics part printed pp. 46-76 (Theme 2 The Role of the State in the Economy); Theme 1 State System and Rights-Protection Mechanisms pp. 5-45 (Law/Civics); Theme 3 Political Participation and Elections pp. 77-108 (Civics); Theme 4 Parties and Interest Groups pp. 109-132 (Civics); Theme 5 International Law pp. 133-171 (Civics); Theme 6 International Relations and Foreign Policy pp. 172-190 (Civics). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Economics expansion — 2.2 Employment and unemployment: frictional unemployment — people between jobs — and how job-search and retraining opportunities shorten it (filed as macroeconomics/frictional-unemployment; stocked here as the closest existing lesson covering that thing, the original slug recorded in this row) | Armenia, *Armenia Grade 11 Social Science student*, 2.2 Employment and unemployment — printed p. 59 |
+| Armenia part — Economics expansion — 2.2 Employment and unemployment: automation, robots and AI reshaping labour markets — an Oxford Economics forecast of some 20 million workers replaced by robots by 2030 (filed as macroeconomics/structural-unemployment; stocked here as the closest existing lesson covering that thing, the original slug recorded in this row) | Armenia, *Armenia Grade 11 Social Science student*, 2.2 Employment and unemployment — printed p. 60 |
+| Armenia part — Economics expansion — 2.2 Employment and unemployment: natural unemployment plus cyclical unemployment at the cycle's trough, and the full-employment line where all resources are in use (filed as macroeconomics/cyclical-unemployment-and-full-employment; stocked here as the closest existing lesson covering that thing, the original slug recorded in this row) | Armenia, *Armenia Grade 11 Social Science student*, 2.2 Employment and unemployment — printed p. 61 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, France, Malaysia, Dominica, Armenia).**
+
+Armenia's own way (Armenia Grade 11 Social Science student): Grade 11 macroeconomics is anchored in Armenian official statistics — learners compute with the Statistical Committee's data, meet the 425-item consumer basket Armenia uses for inflation, the Central Bank's 3% ±1 inflation target, and the Armenian-born Nobel laureate Daron Acemoglu's "Narrow Corridor" on institutions and prosperity.
 
 Dominica's own way: Economics lives inside the CSEC Principles of Business course — money, markets, banks, taxes, GDP and Caribbean problems (unemployment, migration, debt) are taught as the economics core of a business textbook, always through Caribbean cases (ECCB, CARICOM/CSME, sou-sou savings, the Barbados and Dominica sugar taxes). This lesson teaches the placement's content in the course's own words — the book's text itself is never transcribed.
 
@@ -36,4 +46,4 @@ Pairing note carried from the placements: the student textbook is the finished 2
 
 Malaysia's own way (Malaysia Grade 11 Ekonomi Tingkatan 5): Form 5 turns to the state and the world — Bank Negara's policy tools, the national budget (Belanjawan), and Malaysia's own trade composition and direction as the data pupils analyse.
 
-Searchable tags: frictional structural cyclical unemployment, mismatch skills location, trade cycle, ethiopia, france, ses, unemployment by diploma, qualification mismatch, social studies, macroeconomics, malaysia, dominica, csec principles of business, caribbean
+Searchable tags: frictional structural cyclical unemployment, mismatch skills location, trade cycle, ethiopia, france, ses, unemployment by diploma, qualification mismatch, social studies, macroeconomics, malaysia, dominica, csec principles of business, caribbean, armenia

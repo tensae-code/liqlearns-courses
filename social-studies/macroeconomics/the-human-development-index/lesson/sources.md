@@ -1,6 +1,6 @@
 # Sources — The Human Development Index
 
-countries: Ethiopia, Venezuela, Dominica, Uzbekistan, Vietnam
+countries: Ethiopia, Venezuela, Dominica, Uzbekistan, Vietnam, Armenia
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -49,7 +49,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 | Lesson part | Where it comes from |
 |---|---|
 | Vietnam part — Lesson 1: the social-progress indicators — teaches: social progress shows in rising living standards, a narrowing rich–poor gap and expanding social welfare, measured by the Human Development Index HDI (a composite of average life expectancy, the education index from mean and expected years of schooling, and the income index from GNI per person), the multidimensional poverty rate (the share of households whose members cannot meet minimum basic needs), and the Gini coefficient of inequality in income distribution, which runs from 0 (absolute equality) to 1 (absolute inequality), a higher Gini meaning more unequal distribution (Vietnam's HDI rose 0.693 → 0.737 and its Gini fell 0.425 → 0.375 over 2018–2022) (Economics expansion, 2026-11-16; original placement slug: macroeconomics/measuring-development-hdi-and-beyond-gdp — stocked here as the closest existing lesson covering this thing) | Vietnam, *Vietnam Grade 12 Economic & Legal Education*, Lesson 1: the social-progress indicators — printed p. 12 |
-**Acceptance count: taught in 5 countries (Ethiopia, Venezuela, Dominica, Uzbekistan, Vietnam).**
+**Book 8:** *ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 11-րդ դասարան — Հանրակրթական ավագ դպրոցի դասագիրք (Social Science, Grade 11, senior-school textbook)* (student book, Armenian) — «Զանգակ» (Zangak), Yerevan; year 2025; ISBN 978-9939-99-280-8. Title as printed: ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 11-րդ դասարան — Հանրակրթական ավագ դպրոցի դասագիրք (Social Science, Grade 11, senior-school textbook). Grade: 11 (student/teacher: STUDENT). PDF pages: 192 (cover verified against the record title; release grab verified 234,716,578 bytes; the staging-tree route 404s for this file — the book lives only in the full-quality-oversized-books release under the record's exact asset name). Verdict: COMPLETE. Contents map: Economics part printed pp. 46-76 (Theme 2 The Role of the State in the Economy); Theme 1 State System and Rights-Protection Mechanisms pp. 5-45 (Law/Civics); Theme 3 Political Participation and Elections pp. 77-108 (Civics); Theme 4 Parties and Interest Groups pp. 109-132 (Civics); Theme 5 International Law pp. 133-171 (Civics); Theme 6 International Relations and Foreign Policy pp. 172-190 (Civics). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Economics expansion — 2.1 Rich and poor countries, GDP and economic growth: the Human Development Index (life expectancy, years of schooling, GNI per capita at PPP) and the UN happiness index as measures beyond GDP (filed as macroeconomics/measures-beyond-gdp-hdi; stocked here as the closest existing lesson covering that thing, the original slug recorded in this row) | Armenia, *Armenia Grade 11 Social Science student*, 2.1 Rich and poor countries, GDP and economic growth — printed p. 54 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Venezuela, Dominica, Uzbekistan, Vietnam, Armenia).**
+
+Armenia's own way (Armenia Grade 11 Social Science student): Grade 11 macroeconomics is anchored in Armenian official statistics — learners compute with the Statistical Committee's data, meet the 425-item consumer basket Armenia uses for inflation, the Central Bank's 3% ±1 inflation target, and the Armenian-born Nobel laureate Daron Acemoglu's "Narrow Corridor" on institutions and prosperity.
 
 Vietnam's own way (Vietnam Grade 12 Economic & Legal Education, Study Topics): integration is taught as national history with milestones (Đổi mới 1986, ASEAN 1995, APEC 1998, WTO 2007) and the CPTPP as the worked case, and development is measured with Vietnam's own HDI, income and Gini figures.
 
@@ -63,4 +71,4 @@ Venezuela's own way (Venezuela Grade 11 Venezuela G11 Geografía de Venezuela SB
 
 No matching teacher guide exists in this band: the book recorded as this text's teacher guide proved to be the 2011 GEQIP Grade 12 teacher's guide for the old syllabus, not this book's companion, and supplies no answer keys for it (proof in the placements file's verification block).
 
-Searchable tags: the human development index, grade 12 economics, ethiopia, social studies, macroeconomics, venezuela, dominica, csec principles of business, caribbean, uzbekistan, vietnam
+Searchable tags: the human development index, grade 12 economics, ethiopia, social studies, macroeconomics, venezuela, dominica, csec principles of business, caribbean, uzbekistan, vietnam, armenia

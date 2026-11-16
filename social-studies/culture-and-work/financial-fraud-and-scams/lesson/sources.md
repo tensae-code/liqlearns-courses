@@ -9,6 +9,12 @@ countries: Armenia
 | Sub lesson 1 — 4.5 Financial fraud and scams | Armenia, *Armenia Grade 10 Social Science student*, 4.5 Financial fraud and scams — printed p. 118 |
 | Sub lesson 2 — Armenia's way — the book's own teaching way | Armenia — the book's own way of teaching (see below) |
 
+**Economics expansion — Armenia (against Book 1 above, already cited in this file from the earlier waves; the Economics placement is stocked as a distinct evidence row, not as a second book):**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Economics expansion — 4.5 Financial fraud and scams: financial fraud defined, CVV and card-data safety, identity and bank-data theft, phishing "prize" cases, pyramid signs and a fake Gazprom Armenia investment scam, with protection rules (strong passwords, two-factor checks, only Central-Bank-licensed organisations) (filed as NEW LESSON NEEDED — market-and-money/financial-fraud-and-how-to-avoid-it; stocked here as the closest existing lesson covering that thing, the original slug recorded in this row) | Armenia, *Armenia Grade 10 Social Science student*, 4.5 Financial fraud and scams — printed p. 118 |
+
 **Acceptance count: taught in 1 country (Armenia).**
 
 Armenia's own way (Armenia Grade 10 Social Science student): the senior Social Science course turns practical — after ideologies it teaches the market economy and then personal finance (choosing financial services, savings, credit, consumer rights, fraud) as life skills.

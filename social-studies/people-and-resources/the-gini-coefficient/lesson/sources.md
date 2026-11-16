@@ -13,10 +13,16 @@ countries: Ethiopia, Armenia
 | Sub lesson 3 — Reading the direction | Ethiopia, *Economics, Student Textbook, Grade 12*, Unit 6 — Poverty and Inequality, printed pp. 133–134 |
 | Armenia part — 2.2 Inequality and its measurement | Armenia, *Armenia Grade 11 Social Science student*, 2.2 Inequality and its measurement — printed p. 57 |
 
+**Book 3:** *Հասարակագիտություն — 9-րդ դասարան, հանրակրթական հիմնական դպրոցի դասագիրք (Social Science, Grade 9)* (student book, Armenian) — Զանգակ (Zangak), Yerevan; year 2025; ISBN printed on the imprint page but not legible in the scanned copy. Title as printed: Հասարակագիտություն — 9-րդ դասարան, հանրակրթական հիմնական դպրոցի դասագիրք (Social Science, Grade 9). Grade: 9 (student/teacher: STUDENT). PDF pages: 180 (cover/title page verified against the record title; image-only PDF, read from rendered pages and contact sheets; the identical book was read from the record's own ministry source_url, lib.armedu.am, 38,679,191 bytes — the GitHub release grab failed twice on timeouts). Verdict: COMPLETE. Contents map: Economics parts printed pp. 84-127 (Theme 4 State and Economy); Civics pp. 5-83, 128-171 (Themes 1-3 State/Sovereignty, State and Culture, State and Political System; Theme 5 State and Politics); Glossary pp. 172-174 (inventory-only, not placed); Contents p. 175. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Economics expansion — 4.4 State economic and social policies: the Gini coefficient as the single number for income inequality, the bigger the number the more unequal the society | Armenia, *Armenia Grade 9 Social Science student*, 4.4 State economic and social policies — printed p. 114 |
+
 **Acceptance count: taught in 2 countries (Ethiopia, Armenia).**
 
 No matching teacher guide exists in this band: the book recorded as this text's teacher guide proved to be the 2011 GEQIP Grade 12 teacher's guide for the old syllabus, not this book's companion, and supplies no answer keys for it (proof in the placements file's verification block).
 
-Searchable tags: the gini coefficient, grade 12 economics, ethiopia, social studies, people and resources
+Searchable tags: the gini coefficient, grade 12 economics, ethiopia, social studies, people and resources, armenia
 
 Armenia's own way (Armenia Grade 11 Social Science student): grade-11 Social Science is the state year — law, the economy's state, elections, parties, international law and relations — with the economy theme measuring countries by GDP, growth, inflation and unemployment before judging state intervention.

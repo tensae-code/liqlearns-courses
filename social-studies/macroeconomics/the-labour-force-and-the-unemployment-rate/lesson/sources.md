@@ -1,6 +1,6 @@
 # Sources — The labour force and the unemployment rate
 
-countries: Ethiopia, Laos, Mongolia, Jordan
+countries: Ethiopia, Laos, Mongolia, Jordan, Armenia
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -34,7 +34,15 @@ countries: Ethiopia, Laos, Mongolia, Jordan
 |---|---|
 | Jordan part — Economics expansion — Unit 4 Lesson 2: The labour force: increasing population raises the size of the labour force — the people able to work, aged 15 to 65 — and the quality of human resources affects economic development, which is measured by the rise in each worker's productivity | Jordan, *Social Studies, Grade 8, Term 1*, Unit 4 Lesson 2: The labour force — printed p. 99 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Laos, Mongolia, Jordan).**
+**Book 6:** *ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 11-րդ դասարան — Հանրակրթական ավագ դպրոցի դասագիրք (Social Science, Grade 11, senior-school textbook)* (student book, Armenian) — «Զանգակ» (Zangak), Yerevan; year 2025; ISBN 978-9939-99-280-8. Title as printed: ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 11-րդ դասարան — Հանրակրթական ավագ դպրոցի դասագիրք (Social Science, Grade 11, senior-school textbook). Grade: 11 (student/teacher: STUDENT). PDF pages: 192 (cover verified against the record title; release grab verified 234,716,578 bytes; the staging-tree route 404s for this file — the book lives only in the full-quality-oversized-books release under the record's exact asset name). Verdict: COMPLETE. Contents map: Economics part printed pp. 46-76 (Theme 2 The Role of the State in the Economy); Theme 1 State System and Rights-Protection Mechanisms pp. 5-45 (Law/Civics); Theme 3 Political Participation and Elections pp. 77-108 (Civics); Theme 4 Parties and Interest Groups pp. 109-132 (Civics); Theme 5 International Law pp. 133-171 (Civics); Theme 6 International Relations and Foreign Policy pp. 172-190 (Civics). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Economics expansion — 2.2 Employment and unemployment: a worked unemployment-rate calculation (504,000 unemployed in a 3,360,000 labour force drawn from a 6-million population) (filed as macroeconomics/measuring-unemployment-rate-and-participation-rate; stocked here as the closest existing lesson covering that thing, the original slug recorded in this row) | Armenia, *Armenia Grade 11 Social Science student*, 2.2 Employment and unemployment — printed p. 59 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Laos, Mongolia, Jordan, Armenia).**
+
+Armenia's own way (Armenia Grade 11 Social Science student): Grade 11 macroeconomics is anchored in Armenian official statistics — learners compute with the Statistical Committee's data, meet the 425-item consumer basket Armenia uses for inflation, the Central Bank's 3% ±1 inflation target, and the Armenian-born Nobel laureate Daron Acemoglu's "Narrow Corridor" on institutions and prosperity.
 
 No matching teacher guide exists in this band: the book recorded as this text's teacher guide proved to be the 2011 GEQIP Grade 12 teacher's guide for the old syllabus, not this book's companion, and supplies no answer keys for it (proof in the placements file's verification block).
 
@@ -44,4 +52,4 @@ Mongolia's own way (Mongolia Grade 9 Social Studies 9): the labour market is tau
 
 Jordan's own way (Jordan Grade 8 Term 1): Development is taught head-on — growth against development, Malthus against the food supply, and the labour force counted the Jordanian way (everyone aged 15–65 able to work), before the sustainable-development goals close the unit.
 
-Searchable tags: the labour force and the unemployment rate, grade 12 economics, ethiopia, social studies, macroeconomics, laos, employment, business is the employer, mongolia, labour force, participation rate, 2016 population, jordan
+Searchable tags: the labour force and the unemployment rate, grade 12 economics, ethiopia, social studies, macroeconomics, laos, employment, business is the employer, mongolia, labour force, participation rate, 2016 population, jordan, armenia

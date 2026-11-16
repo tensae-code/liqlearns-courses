@@ -1,6 +1,6 @@
 # Sources — Barter — and why it fails
 
-countries: Ethiopia, Saudi Arabia, Syria, Uganda, Eritrea, Mongolia, South Sudan, Zimbabwe, Palestine, Venezuela, Dominica, Jordan, Egypt, Yemen
+countries: Ethiopia, Saudi Arabia, Syria, Uganda, Eritrea, Mongolia, South Sudan, Zimbabwe, Palestine, Venezuela, Dominica, Jordan, Egypt, Yemen, Armenia
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -119,7 +119,15 @@ Palestine's own way: Economics enters through the land itself — natural resour
 |---|---|
 | Yemen part — Unit 5 L1 Money §barter — teaches: barter (المقايضة) and its difficulties, told as a wheat-for-sheep exchange problem: no common measure, goods that cannot be divided | Yemen, *Yemen Grade 11 Mabadi' Ilm al-Iqtisad*, Unit 5 L1 Money §barter — printed p. 61 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Saudi Arabia, Syria, Uganda, Eritrea, Mongolia, South Sudan, Palestine, Venezuela, Dominica, Jordan, Egypt, Yemen). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+**Book 18:** *Հասարակագիտություն — 9-րդ դասարան, հանրակրթական հիմնական դպրոցի դասագիրք (Social Science, Grade 9)* (student book, Armenian) — Զանգակ (Zangak), Yerevan; year 2025; ISBN printed on the imprint page but not legible in the scanned copy. Title as printed: Հասարակագիտություն — 9-րդ դասարան, հանրակրթական հիմնական դպրոցի դասագիրք (Social Science, Grade 9). Grade: 9 (student/teacher: STUDENT). PDF pages: 180 (cover/title page verified against the record title; image-only PDF, read from rendered pages and contact sheets; the identical book was read from the record's own ministry source_url, lib.armedu.am, 38,679,191 bytes — the GitHub release grab failed twice on timeouts). Verdict: COMPLETE. Contents map: Economics parts printed pp. 84-127 (Theme 4 State and Economy); Civics pp. 5-83, 128-171 (Themes 1-3 State/Sovereignty, State and Culture, State and Political System; Theme 5 State and Politics); Glossary pp. 172-174 (inventory-only, not placed); Contents p. 175. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Economics expansion — 4.1 Economic systems, terms: barter as exchanging goods without using money | Armenia, *Armenia Grade 9 Social Science student*, 4.1 Economic systems, terms — printed p. 84 |
+
+**Acceptance count: taught in 14 countries (Ethiopia, Saudi Arabia, Syria, Uganda, Eritrea, Mongolia, South Sudan, Palestine, Venezuela, Dominica, Jordan, Egypt, Yemen, Armenia). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+
+Armenia's own way (Armenia Grade 9 Social Science student): the new-format Grade 9 book gives Economics a full theme, "State and Economy": systems first (with Smith, Marx and Keynes as the thinkers), then the market and where it fails, then Armenia's own financial system and the state's economic and social policies, closing with Lorenz/Gini inequality graphs, World Bank income groups and the SDGs.
 
 Yemen's own way (Grade 11 Mabadi' Ilm al-Iqtisad): a compact principles course that starts from the history of economic thought — including Hammurabi, Confucius, Kautilya, Ibn Khaldun and Al-Maqrizi — and works every schedule and elasticity example in Yemeni rials on one good, oranges, from demand through equilibrium.
 
@@ -142,4 +150,4 @@ Jordan's own way (Jordan Grade 3 Term 2): Trade is taught as a Jordanian family 
 
 Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
 
-Searchable tags: barter limitations, double coincidence of wants, common measure, indivisibility, deferred payments, ethiopia, saudi arabia, barter dried yoghurt dates ghee wheat, online exchange, syria, damascus, oil for eggs and wheat, minting money, social studies, market and money, uganda, pre-colonial uganda, pre-colonial east africa, barter trade, eritrea, cow for ten sheep, grain for salt, sheep for an ox, mongolia, barter, livestock goods-money, paper money 1236, south sudan, zimbabwe, teacher guide evidence, palestine, venezuela, dominica, csec principles of business, caribbean, jordan, egypt, yemen
+Searchable tags: barter limitations, double coincidence of wants, common measure, indivisibility, deferred payments, ethiopia, saudi arabia, barter dried yoghurt dates ghee wheat, online exchange, syria, damascus, oil for eggs and wheat, minting money, social studies, market and money, uganda, pre-colonial uganda, pre-colonial east africa, barter trade, eritrea, cow for ten sheep, grain for salt, sheep for an ox, mongolia, barter, livestock goods-money, paper money 1236, south sudan, zimbabwe, teacher guide evidence, palestine, venezuela, dominica, csec principles of business, caribbean, jordan, egypt, yemen, armenia

@@ -1,6 +1,6 @@
 # Sources — Foreign Investment — Money from Abroad
 
-countries: Mongolia, Egypt, Honduras
+countries: Mongolia, Egypt, Honduras, Armenia
 
 **Book 1:** *Нийгэм судлал XI (Social Studies XI)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2019; ISBN no ISBN printed on the pages checked. Title as printed: Нийгэм судлал XI (Social Studies XI). Grade: Grade 11 (student). ~196 PDF pp. (printed book to p. 191+) (cover verified against the record title via the ministry econtent flipbook — the same book as the secured GitHub release asset; note the release asset is 131,050,983 bytes under a doubled-prefix asset name while the books.json record says 86,546,502 bytes: a library debt, see group log). Verdict: COMPLETE for Geography scope (contents page and chapter structure read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mongolia-placements.md.
 
@@ -21,7 +21,15 @@ countries: Mongolia, Egypt, Honduras
 |---|---|
 | Honduras part — Lesson 17 "Ubicación de Honduras en el mundo" (additional theory: Inversión extranjera en Honduras) — teaches: Honduras's economy rests partly on foreign investment, channelled mostly into financial intermediation (teacher guide — evidence) | Honduras, *Honduras Grade 6 G6 Teacher CCSS* (teacher guide), Lesson 17 "Ubicación de Honduras en el mundo" (additional theory: Inversión extranjera en Honduras) — printed p. 72 |
 
-**Acceptance count: taught in 2 countries (Mongolia, Egypt). Honduras is teacher-guide evidence only — named here, counted nowhere.**
+**Book 4:** *Հասարակագիտություն — 9-րդ դասարան, հանրակրթական հիմնական դպրոցի դասագիրք (Social Science, Grade 9)* (student book, Armenian) — Զանգակ (Zangak), Yerevan; year 2025; ISBN printed on the imprint page but not legible in the scanned copy. Title as printed: Հասարակագիտություն — 9-րդ դասարան, հանրակրթական հիմնական դպրոցի դասագիրք (Social Science, Grade 9). Grade: 9 (student/teacher: STUDENT). PDF pages: 180 (cover/title page verified against the record title; image-only PDF, read from rendered pages and contact sheets; the identical book was read from the record's own ministry source_url, lib.armedu.am, 38,679,191 bytes — the GitHub release grab failed twice on timeouts). Verdict: COMPLETE. Contents map: Economics parts printed pp. 84-127 (Theme 4 State and Economy); Civics pp. 5-83, 128-171 (Themes 1-3 State/Sovereignty, State and Culture, State and Political System; Theme 5 State and Politics); Glossary pp. 172-174 (inventory-only, not placed); Contents p. 175. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Economics expansion — 4.3 Armenia's financial system: the role of foreign investment in Armenia's economy | Armenia, *Armenia Grade 9 Social Science student*, 4.3 Armenia's financial system — printed p. 112 |
+
+**Acceptance count: taught in 3 countries (Mongolia, Egypt, Armenia). Honduras is teacher-guide evidence only — named here, counted nowhere.**
+
+Armenia's own way (Armenia Grade 9 Social Science student): the new-format Grade 9 book gives Economics a full theme, "State and Economy": systems first (with Smith, Marx and Keynes as the thinkers), then the market and where it fails, then Armenia's own financial system and the state's economic and social policies, closing with Lorenz/Gini inequality graphs, World Bank income groups and the SDGs.
 
 Mongolia's own way: the final year is the state-and-world year — cultural globalization and freedom, monetary policy, foreign trade and investment, and Mongolia's signature “third neighbour” and soft-power policies taught as named topics. That way is stocked here as the way Mongolia teaches this thing. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
 
@@ -29,4 +37,4 @@ Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics
 
 Honduras's own way (Honduras Grade 6 G6 Teacher CCSS) (teacher guide — evidence): the guide mirrors the student book; the one additional-theory section placed here teaches that Honduras's economy rests partly on foreign investment, channelled mostly into financial intermediation. That book is a teacher guide, cited as evidence only, outside acceptance counts.
 
-Searchable tags: foreign investment, capital, Mongolia, Нийгэм судлал XI, social studies, people and resources, egypt, honduras
+Searchable tags: foreign investment, capital, Mongolia, Нийгэм судлал XI, social studies, people and resources, egypt, honduras, armenia

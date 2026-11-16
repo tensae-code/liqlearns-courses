@@ -1,6 +1,6 @@
 # Sources — Market equilibrium — shortage and surplus
 
-countries: Ethiopia, Kazakhstan, Bangladesh, Yemen
+countries: Ethiopia, Kazakhstan, Bangladesh, Yemen, Armenia
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -36,7 +36,15 @@ Bangladesh's own way (Bangladesh Grade 9 History and Social Science): Class 9 te
 |---|---|
 | Yemen part — Unit 4 L4 Market equilibrium — teaches: surplus of supply above and excess demand below the equilibrium price, and how price moves back to equilibrium | Yemen, *Yemen Grade 11 Mabadi' Ilm al-Iqtisad*, Unit 4 L4 Market equilibrium — printed p. 56 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Kazakhstan, Bangladesh, Yemen).**
+**Book 6:** *ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 10 — Դասագիրք նպատակային ծրագրի համար (Social Science 10, textbook for the target programme)* (student book, Armenian) — «Զանգակ» (Zangak), Yerevan; year 2023 (2024 target-programme printing); ISBN 978-9939-99-040-8. Title as printed: ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 10 — Դասագիրք նպատակային ծրագրի համար (Social Science 10, textbook for the target programme). Grade: 10 (student/teacher: STUDENT). PDF pages: 130 (cover/title page verified against the record title; grab.py tree route verified 1,653,670 bytes). Verdict: COMPLETE. Contents map: Economics parts printed pp. 54-87 (Theme 3 Market Economy) and pp. 88-127 (Theme 4 Personal Finance Management); Theme 1 Problems of Modern Man and Society pp. 4-18; Theme 2 Political Ideologies pp. 19-53 (Civics). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Economics expansion — 3.2 Demand, supply and market price: surplus when price sits above equilibrium (at 600 dram, 19 demanded against 45 supplied) and shortage below it, with graphs | Armenia, *Armenia Grade 10 Social Science student*, 3.2 Demand, supply and market price — printed p. 74 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Kazakhstan, Bangladesh, Yemen, Armenia).**
+
+Armenia's own way (Armenia Grade 10 Social Science student): Grade 10 is a full Economics course inside Social Science — demand and supply are taught with a school-canteen juice schedule priced in dram, the production-possibilities curve with duduks and shvis (Armenian instruments), and personal finance through Armenian institutions: Central-Bank-licensed lenders, the ACRA credit bureau, the Financial System Mediator and the Rate.am / Appa.am comparison sites, including a fake "Gazprom Armenia" investment-scam case.
 
 Yemen's own way (Grade 11 Mabadi' Ilm al-Iqtisad): a compact principles course that starts from the history of economic thought — including Hammurabi, Confucius, Kautilya, Ibn Khaldun and Al-Maqrizi — and works every schedule and elasticity example in Yemeni rials on one good, oranges, from demand through equilibrium.
 
@@ -44,4 +52,4 @@ Kazakhstan's own way (Kazakhstan Grade 10 Aganina): Economics is taught inside a
 
 Kazakhstan's own way (Kazakhstan Grade 10 Duisenkhanov Part 1): the same national curriculum taught in a three-lesson rhythm — one theory lesson, one game, one Kazakhstani or world business case (Rocket Study, Yuframe, Shymbulak, Elon Musk) — so every Economics concept is immediately played and then applied.
 
-Searchable tags: market equilibrium, shortage surplus, excess demand excess supply, shirts birr 20, price adjustment, ethiopia, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics, bangladesh, yemen
+Searchable tags: market equilibrium, shortage surplus, excess demand excess supply, shirts birr 20, price adjustment, ethiopia, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics, bangladesh, yemen, armenia

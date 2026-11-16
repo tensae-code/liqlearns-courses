@@ -1,6 +1,6 @@
 # Sources — For whom to produce?
 
-countries: Ethiopia, Laos, Bangladesh, Yemen
+countries: Ethiopia, Laos, Bangladesh, Yemen, Armenia
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -36,7 +36,15 @@ Bangladesh's own way (Bangladesh Grade 8 History and Social Science): Class 8 tu
 |---|---|
 | Yemen part — Unit 2 L1 The economic problem — teaches: the distribution question — for whom the produced goods are | Yemen, *Yemen Grade 11 Mabadi' Ilm al-Iqtisad*, Unit 2 L1 The economic problem — printed p. 18 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Laos, Bangladesh, Yemen).**
+**Book 6:** *Հասարակագիտություն 7 — Դասագիրք հանրակրթական դպրոցի համար (Social Science 7, textbook for general school)* (student book, Armenian) — «Մասնակցային դպրոց» ԿՀ (Participatory School), Yerevan; year 2023; ISBN 978-9939-1-1725-6. Title as printed: Հասարակագիտություն 7 — Դասագիրք հանրակրթական դպրոցի համար (Social Science 7, textbook for general school). Grade: 7 (student/teacher: STUDENT). PDF pages: 146 (cover/title page verified against the record title; grab verified 92,681,662 bytes). Verdict: COMPLETE. Contents map: Economics parts printed pp. 102-127 (Ch. 7 Man and Economy); Man-and-Nature pp. 12-27; Society/Civics-type parts pp. 28-101, 128-139; Glossary pp. 140-144 (inventory-only, not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part — Economics expansion — Material 2 The 3 basic questions of economics: for whom to produce, deciding the buyer group when setting a price | Armenia, *Armenia Grade 7 Social Science student*, Material 2 The 3 basic questions of economics — printed p. 113 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Laos, Bangladesh, Yemen, Armenia).**
+
+Armenia's own way (Armenia Grade 7 Social Science student): Economics enters in Grade 7 as one chapter of Social Science, built around the learner's own future profession, household money in dram, and a worked personal budget from Abovyan; scarcity is also presented critically, as partly created by market arrangements.
 
 Yemen's own way (Grade 11 Mabadi' Ilm al-Iqtisad): a compact principles course that starts from the history of economic thought — including Hammurabi, Confucius, Kautilya, Ibn Khaldun and Al-Maqrizi — and works every schedule and elasticity example in Yemeni rials on one good, oranges, from demand through equilibrium.
 
@@ -44,4 +52,4 @@ Pairing note carried from the placements: the student textbook is the finished 2
 
 Laos' own way (Laos Grade 10 Business student): Economics is taught as the theory inside a "become a businessperson" course, drawn from village life — weaving, market stalls and repair shops sorted into producing, trading and services; the circular flow is drawn between households and the village business, and "produce for whom?" is answered with a Rolls-Royce.
 
-Searchable tags: for whom to produce, distribution national product, necessities first, ethiopia, social studies, microeconomics, laos, produce for whom, rolls-royce, high-income buyers, bangladesh, yemen
+Searchable tags: for whom to produce, distribution national product, necessities first, ethiopia, social studies, microeconomics, laos, produce for whom, rolls-royce, high-income buyers, bangladesh, yemen, armenia
