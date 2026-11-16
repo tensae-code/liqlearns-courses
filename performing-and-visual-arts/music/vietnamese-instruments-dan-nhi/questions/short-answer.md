@@ -1,0 +1,12 @@
+# Vietnamese Instruments: Đàn Nhị, Đàn T'rưng, Drums and Clappers — short answer
+
+Answer in a short sentence.
+
+**1. (Sub lesson 1)** Name the first part of this lesson.
+**Answer: Vietnam Grade 1 Âm nhạc 1.**
+
+**2. (Sub lesson 1)** Which country's school books teach this lesson here?
+**Answer: Vietnam's.**
+
+**3. (Sub lesson 5)** Say one thing the last part of the lesson teaches.
+**Answer: Vietnam Grade 12 Music — as the book teaches it.**

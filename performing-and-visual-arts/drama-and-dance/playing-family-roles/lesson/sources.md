@@ -1,6 +1,6 @@
 # Sources — Playing Family Roles
 
-countries: Ethiopia, Morocco, Indonesia
+countries: Ethiopia, Morocco, Indonesia, Vietnam
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -32,8 +32,16 @@ countries: Ethiopia, Morocco, Indonesia
 |---|---|
 | Indonesia — Bab 2, Seni Teater — theatre for young children as role play (bermain peran) — drama from storybooks read in class, playing shop, playing father–mother–child, playing professions, and a year-end drama performance (teacher guide — evidence; original target `drama-and-dance/playing-family-roles`) | Book 9, printed p. 71 |
 
-**Acceptance count: taught in 1 country (Ethiopia).** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 2 countries (Ethiopia, Vietnam).** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Per STRUCTURE.md, the Developing Creativity (Grade 1) and Expressing Creativity (Grade 2) chapter openers and their Review folds stock into this lesson as its opening part; the reviews' non-drama items (scribbling, palm printing, note names) belong to their own lessons and are not stocked here. The father-and-mother costume detail (gabi wrap, hat, stick, coat) is stocked in full in the Playing a Person lesson, where the Grade 2 book places the role-play sequence; it is named here only as the roles' own things. The teacher-guide row is evidence for the same pupil-taught content, not a separate count.
 
 Searchable tags: playing family roles, family responsibilities, role play, creativity, የፈጠራ ችሎታን ማዳበር, Developing Creativity, Expressing Creativity, mother, father, Grade 1, Grade 2
+
+**Book 10:** *Âm nhạc 1 (student book, Vietnamese)* — Title as printed: Âm nhạc 1 (Kết nối tri thức với cuộc sống) Grade: 1 (student/teacher: STUDENT) Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2020 (6th reprint); ISBN 978-604-0-19566-1 PDF pages: 58 (cover/title page verified against the record title; the record carried no page count) Verdict: COMPLETE Vietnam's own way: eight themes, each built from the same strands — Sing, Read music, Instruments, Listen, Appreciate, Apply–Create. Note reading grows by sol-fa steps with hand signs (Đô–Rê–Mi, then Pha and Son join); every song is learned by the same pictured steps and accompanied on Vietnamese classroom percussion; Vietnamese folk material (Cống Khao and Southern lí folk songs, a Tết children's rhyme, trống con / trống cái drums, thanh phách clappers) sits beside Mozart and Tchaikovsky. Excluded per brief: Semester-1 review (printed pp. 29–30) and assessment (p. 31); year-end review (p. 53) and assessment (p. 54); the glossary of terms (p. 55, inventory only — it defines trống con, thanh phách and triangle in the book's own words). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/vietnam-placements.md (Vietnam placements, main wave, Book 2). Source note, as filed: this book was fetched from the textbooks repo's mid-size-books GitHub releases (the tree route 404s for these; they were secured as release assets), verified by byte size, pdfinfo page count and cover render before reading, and read page-by-page via pdftotext plus cover/contents renders (see the placements header and reading-log-vn.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Theme 7 Apply–Create "Music corner" — the role-play game — mother, child, father and grandparents each sing their own line of the family-tree song, then the whole family sings together — and the "Những người bạn" band game accompanying with trống con and thanh phách (student book) | Book 10, printed p. 48 |
+
+Vietnam is added as student-book stock (see its rows above), inside the acceptance count.

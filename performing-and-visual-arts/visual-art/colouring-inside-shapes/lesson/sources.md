@@ -1,7 +1,7 @@
 # Sources — Colouring Inside Shapes
 
 
-countries: Ethiopia, Libya, Angola, Afghanistan, Armenia
+countries: Ethiopia, Libya, Angola, Afghanistan, Armenia, Vietnam
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -23,7 +23,7 @@ countries: Ethiopia, Libya, Angola, Afghanistan, Armenia
 | Armenia — Colour the musical instruments — naming instruments by colouring them (student book; original target `visual-art/colouring-inside-shapes`) | Book 9, printed p. 70 |
 
 
-**Acceptance count: taught in 4 countries (Ethiopia, Angola, Afghanistan, Armenia).** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 5 countries (Ethiopia, Angola, Afghanistan, Armenia, Vietnam).** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 No honesty flags attach to these placements; they are followed exactly as read. The Grade 1 colouring pages are picture-led (outline shapes to colour); Exercise 6's wording — draw carefully, then colour in carefully — is carried as the lesson's own rule.
 
@@ -82,3 +82,11 @@ Searchable tags: colouring inside shapes, careful colouring, outline shapes, Exe
 | Afghanistan — Lesson 26: Colouring household vessels — colouring the drawn vessels (student book; original target `visual-art/colouring-inside-shapes`) | Book 8, printed p. 51 |
 
 Afghanistan is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 10:** *Mĩ thuật 1 (student book, Vietnamese)* — Title as printed: Mĩ thuật 1 (Kết nối tri thức với cuộc sống) Grade: 1 (student/teacher: STUDENT) Publisher: Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year 2020 (6th reprint); ISBN 978-604-0-19564-7 PDF pages: 74 (cover/title page verified against the record title) Verdict: COMPLETE Vietnam's own way: every theme runs the same four activities — Observe, Express, Discuss, Apply — moving from spotting an art element in nature and daily life to a step-by-step pictured craft; Vietnamese exemplars throughout (Đông Hồ folk print, brocade patterns, bánh chưng, nón lá, the five-fruit tray). Excluded per brief: the glossary "Một số thuật ngữ dùng trong sách" and the foreign-name pronunciation table, printed p. 71 (inventory only, not placed). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/vietnam-placements.md (Vietnam placements, main wave, Book 1). Source note, as filed: this book was fetched from the textbooks repo's mid-size-books GitHub releases (the tree route 404s for these; they were secured as release assets), verified by byte size, pdfinfo page count and cover render before reading, and read page-by-page via pdftotext plus cover/contents renders (see the placements header and reading-log-vn.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Theme 4 — ways to colour a basic shape with crayons, shown step by step — flat hatching, outline-then-fill, two-colour blending on the square, spiral filling on the circle (student book) | Book 10, printed p. 26 |
+
+Vietnam is added as student-book stock (see its rows above), inside the acceptance count.

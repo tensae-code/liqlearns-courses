@@ -1,6 +1,6 @@
 # Sources — Looking at Pictures
 
-countries: Ethiopia, Honduras, Singapore, Finland, Morocco, Libya, Mongolia, Rwanda, Moldova, Indonesia, Greece
+countries: Ethiopia, Honduras, Singapore, Finland, Morocco, Libya, Mongolia, Rwanda, Moldova, Indonesia, Greece, Vietnam
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -77,7 +77,7 @@ countries: Ethiopia, Honduras, Singapore, Finland, Morocco, Libya, Mongolia, Rwa
 |---|---|
 | Indonesia — Bab II Bicara Tentang Karya — talking about artworks — the basic art vocabulary (point, line, shape, form, colour) and the expression words a work can carry (cheerful, calm, crowded, dark, warm), with positive comments on friends' work (teacher guide — evidence; original target `first-steps/looking-at-pictures`) | Book 17, printed p. 102 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Honduras, Finland, Mongolia, Moldova, Greece). Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 7 countries (Ethiopia, Honduras, Finland, Mongolia, Moldova, Greece, Vietnam). Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Sub lesson 1 rests on the Grade 1 teacher guide's named visual-perception skill and is labelled teacher-guide evidence in the table; the lesson as a whole also rests on the student book's §1.5, so the acceptance count below counts the student book. The four family scenes are the student book's own §1.5 picture pages, described — not reproduced.
 
@@ -111,3 +111,17 @@ Searchable tags: looking at pictures, reading a picture, picture message, identi
 | Greece — Unit B B5: Δημιουργίες μέσα από τον μεγεθυντικό φακό (creations through the magnifying lens — looking very closely) (student book) | Book 19, printed p. 47 |
 
 Greece is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 20:** *Mĩ thuật 1 (student book, Vietnamese)* — Title as printed: Mĩ thuật 1 (Kết nối tri thức với cuộc sống) Grade: 1 (student/teacher: STUDENT) Publisher: Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year 2020 (6th reprint); ISBN 978-604-0-19564-7 PDF pages: 74 (cover/title page verified against the record title) Verdict: COMPLETE Vietnam's own way: every theme runs the same four activities — Observe, Express, Discuss, Apply — moving from spotting an art element in nature and daily life to a step-by-step pictured craft; Vietnamese exemplars throughout (Đông Hồ folk print, brocade patterns, bánh chưng, nón lá, the five-fruit tray). Excluded per brief: the glossary "Một số thuật ngữ dùng trong sách" and the foreign-name pronunciation table, printed p. 71 (inventory only, not placed). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/vietnam-placements.md (Vietnam placements, main wave, Book 1). Source note, as filed: this book was fetched from the textbooks repo's mid-size-books GitHub releases (the tree route 404s for these; they were secured as release assets), verified by byte size, pdfinfo page count and cover render before reading, and read page-by-page via pdftotext plus cover/contents renders (see the placements header and reading-log-vn.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Theme 9 — pictures of school life — photographs of an art lesson, shuttlecock play and group study, and paintings on the theme, including Đỗ Hữu Huề's 1976 oil painting of Hồ Chí Minh visiting a literacy class (student book) | Book 20, printed p. 66 |
+
+**Book 21:** *Mĩ thuật 2 (student book, Vietnamese)* — Title as printed: Mĩ thuật 2 (Kết nối tri thức với cuộc sống) Grade: 2 (student/teacher: STUDENT) Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2021 (5th reprint); ISBN 978-604-0-25140-4 PDF pages: 67 (cover/title page verified against the record title) Verdict: COMPLETE Vietnam's own way: ten themes deepen Grade 1's elements — line, shape, colour, solid — by COMBINING them, and every theme reads real named artworks: Vietnamese masters (Nguyễn Hải, Phạm Gia Giang, Nguyễn Sáng, Nguyễn Tư Nghiêm, Điềm Phùng Thị) beside Paul Klee, Kandinsky, Hokusai and Giacometti; Vietnamese exemplars include Đông Sơn bronze-drum patterns, the nón lá, the Mid-Autumn star lantern and tò he folk toys. Excluded per brief: the glossary of terms and the foreign-name pronunciation table, printed p. 64 (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/vietnam-placements.md (Vietnam placements, main wave, Book 3). Source note, as filed: this book was fetched from the textbooks repo's mid-size-books GitHub releases (the tree route 404s for these; they were secured as release assets), verified by byte size, pdfinfo page count and cover render before reading, and read page-by-page via pdftotext plus cover/contents renders (see the placements header and reading-log-vn.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Theme 9 "My teachers" — teachers in pictures — photographs of teachers coaching, teaching outdoors and greeting pupils, and paintings of teachers, including the Đông Hồ folk print "Bình dân học vụ" (The People's Literacy Class) (student book) | Book 21, printed p. 54 |
+
+Vietnam is added as student-book stock (see its rows above), inside the acceptance count.

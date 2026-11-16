@@ -1,6 +1,6 @@
 # Sources — Observing Our Surroundings
 
-countries: Ethiopia, Uganda, Barbados, Singapore, Serbia, Finland, Suriname, Belarus, Jordan, Sri Lanka, Angola, Rwanda, Moldova, Indonesia, Greece, China
+countries: Ethiopia, Uganda, Barbados, Singapore, Serbia, Finland, Suriname, Belarus, Jordan, Sri Lanka, Angola, Rwanda, Moldova, Indonesia, Greece, China, Vietnam
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -85,7 +85,7 @@ countries: Ethiopia, Uganda, Barbados, Singapore, Serbia, Finland, Suriname, Bel
 |---|---|
 | Indonesia — BAB I Ekspedisi Visual — a visual expedition — going out to observe, record and gather visual material from the world as an artist's research (teacher guide — evidence; original target `visual-art/visual-expedition`) | Book 20, printed p. 32 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Uganda, Serbia, Finland, Belarus, Jordan, Angola, Rwanda, Moldova, Greece, China). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 12 countries (Ethiopia, Uganda, Serbia, Finland, Belarus, Jordan, Angola, Rwanda, Moldova, Greece, China, Vietnam). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The definition of surroundings and the sound/movement distinction are the Grade 1 book's own Chapter 1 summary words (printed pp. 14–15), taught as the book states them. The teacher-guide row is evidence for the same watching skill and is labelled as such; the lesson's pupil-taught content rests on the student book.
 
@@ -141,3 +141,13 @@ Greece is added as student-book stock (see its rows above), inside the acceptanc
 | China — Lesson 14 繁忙的大街 — observing a busy street closely (vehicles, crossings, buildings, hurrying people) and drawing the busy scene (student book) | Book 25, printed p. 26 |
 
 China is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 26:** *Mĩ thuật 1 (student book, Vietnamese)* — Title as printed: Mĩ thuật 1 (Kết nối tri thức với cuộc sống) Grade: 1 (student/teacher: STUDENT) Publisher: Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year 2020 (6th reprint); ISBN 978-604-0-19564-7 PDF pages: 74 (cover/title page verified against the record title) Verdict: COMPLETE Vietnam's own way: every theme runs the same four activities — Observe, Express, Discuss, Apply — moving from spotting an art element in nature and daily life to a step-by-step pictured craft; Vietnamese exemplars throughout (Đông Hồ folk print, brocade patterns, bánh chưng, nón lá, the five-fruit tray). Excluded per brief: the glossary "Một số thuật ngữ dùng trong sách" and the foreign-name pronunciation table, printed p. 71 (inventory only, not placed). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/vietnam-placements.md (Vietnam placements, main wave, Book 1). Source note, as filed: this book was fetched from the textbooks repo's mid-size-books GitHub releases (the tree route 404s for these; they were secured as release assets), verified by byte size, pdfinfo page count and cover render before reading, and read page-by-page via pdftotext plus cover/contents renders (see the placements header and reading-log-vn.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Theme 2 "Creating from colour dots" — dots in nature — the spotted cat, sika deer, butterfly, grouper fish and speckled leaves; dots have many shapes and colours (student book) | Book 26, printed p. 12 |
+| Vietnam — Theme 7 "Flowers, fruit" — observing Vietnam's flowers — hibiscus, lotus, kapok, apricot and peach blossom, heliconia, crape myrtle, water lily, flamboyant — and fruits — starfruit, durian, dragon fruit, pumpkin, watermelon, papaya — and their many shapes and colours (student book) | Book 26, printed p. 48 |
+| Vietnam — Theme 9 "I am a grade-1 pupil" — observing the scenes and things on one pupil's way from home to school — village house, trees, river, fields and the schoolyard — and naming the ones you love (student book) | Book 26, printed p. 64 |
+
+Vietnam is added as student-book stock (see its rows above), inside the acceptance count.

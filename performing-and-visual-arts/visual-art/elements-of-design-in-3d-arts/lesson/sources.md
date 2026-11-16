@@ -1,6 +1,6 @@
 # Sources — Elements of Design in 3D Arts
 
-countries: Ethiopia, Maldives, Mozambique, Libya, Venezuela, Angola, Bolivia, Malaysia, Indonesia, Syria
+countries: Ethiopia, Maldives, Mozambique, Libya, Venezuela, Angola, Bolivia, Malaysia, Indonesia, Syria, Vietnam
 
 **Book 1:** *Performing and Visual Arts, Teacher's Guide Book, Grade 8* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau (March 2022). Writers: Bareke Tadesse, Gizachew Tasew, Daniel Sisay, Ashenafi Nigussie. 68 PDF pages; printed page = PDF page − 8 in the body. The secured copy is TRUNCATED (body printed pp. 1–56 held, then syllabus only) — this lesson's part is Unit 1, inside the body held. Read page by page in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-teacher-placements.md.
 
@@ -66,7 +66,7 @@ countries: Ethiopia, Maldives, Mozambique, Libya, Venezuela, Angola, Bolivia, Ma
 |---|---|
 | Syria — Lesson 27 "Mass in Space" — the maquette — a small study model of a building or buildings in card, paper or plastic — building a balanced architectural mass in space from cardboard boxes of different sizes (student book; original target `visual-art/elements-of-design-in-3d-arts`) | Book 14, printed p. 52 |
 
-**Acceptance count: taught in 8 countries (Maldives, Mozambique, Venezuela, Angola, Bolivia, Malaysia, Indonesia, Syria).** Ethiopia is named in this lesson on teacher-guide evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as student-book stock (see its rows above), inside the acceptance count; Indonesia's teacher-guide rows in this lesson are evidence. Syria is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 9 countries (Maldives, Mozambique, Venezuela, Angola, Bolivia, Malaysia, Indonesia, Syria, Vietnam).** Ethiopia is named in this lesson on teacher-guide evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as student-book stock (see its rows above), inside the acceptance count; Indonesia's teacher-guide rows in this lesson are evidence. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 Honesty notes: This lesson rests ONLY on the Grade 8 teacher's guide (Addis Ababa City Administration Education Bureau, March 2022). The secured copy of that guide is truncated — its body runs to printed p. 56 — but this lesson's part is Unit 1 (printed pp. 11–12), inside the body held, and is NOT evidence-limited in that sense; it is still teacher-guide evidence and labelled so. The placements file summarises the item by its topic list; the lesson teaches at exactly that level and invents no definitions beyond the placement's own words (line made of points, dynamic, expressing gesture/direction, activating surrounding space; shape as 2D enclosed area, geometric or organic).
 
@@ -85,3 +85,11 @@ Searchable tags: Maldives, Exploring Creative Arts 4, 3D arts, elements of desig
 | Lesson part | Where it comes from |
 |---|---|
 | Libya — Forming a solid body — designing and making a three-dimensional work from different materials: measuring, cutting, pasting and assembling cartons, cans, cups and bottle tops into a useful or beautiful object — a house, a pencil case, a holder, a money box (teacher guide — evidence; original target `visual-art/elements-of-design-in-3d-arts`) | Book 5, printed pp. 72–76 |
+
+**Book 15:** *Mĩ thuật 12 — Thiết kế công nghiệp (student book, Vietnamese)* — Title as printed: Mĩ thuật 12 — THIẾT KẾ CÔNG NGHIỆP (Fine Art 12 — Industrial Design), Kết nối tri thức với cuộc sống Grade: 12 (student/teacher: STUDENT) Publisher: Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); no ISBN printed on the pages read PDF pages: 35 assembled pages = the record's 35 pages (cover and contents verified) Verdict: COMPLETE Standing exclusions named: the glossary, printed p. 31 — inventory-only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/vietnam-placements.md (Vietnam placements, links group, Book 7). Source note, as filed: this book was assembled page-by-page from the publisher's own page images served by its taphuan.nxbgd.vn flipbook viewer (the recorded source_url), verified (assembled page count against the recorded page count + cover looked at), read, and staged under the push-don't-delete rule; because the staged file is an assembly of page images, its byte size differs from the publisher's own PDF, while the printed book is identical (see reading-log-links.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Bài 2 — Thiết kế đồ dùng sinh hoạt bằng vật liệu sẵn có (designing household items from ready-to-hand materials — form and function in three dimensions) (student book) | Book 15, printed p. 16 |
+
+Vietnam is added as student-book stock (see its rows above), inside the acceptance count.

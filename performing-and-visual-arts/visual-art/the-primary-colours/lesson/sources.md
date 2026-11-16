@@ -1,7 +1,7 @@
 # Sources — The Primary Colours
 
 
-countries: Ethiopia, Barbados, Nicaragua, Pakistan, Fiji, Colombia, Iran, Jordan, Angola, Afghanistan, Rwanda, Moldova, Syria, Armenia, Greece, China
+countries: Ethiopia, Barbados, Nicaragua, Pakistan, Fiji, Colombia, Iran, Jordan, Angola, Afghanistan, Rwanda, Moldova, Syria, Armenia, Greece, China, Vietnam
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -77,7 +77,7 @@ countries: Ethiopia, Barbados, Nicaragua, Pakistan, Fiji, Colombia, Iran, Jordan
 | Armenia — COLOUR (ԳՈՒՅՆ) — there are three main colours: the primary colours introduced (student book; original target `visual-art/the-primary-colours`) | Book 18, printed p. 11 |
 
 
-**Acceptance count: taught in 14 countries (Ethiopia, Pakistan, Fiji, Colombia, Iran, Jordan, Angola, Afghanistan, Rwanda, Moldova, Syria, Armenia, Greece, China). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 15 countries (Ethiopia, Pakistan, Fiji, Colombia, Iran, Jordan, Angola, Afghanistan, Rwanda, Moldova, Syria, Armenia, Greece, China, Vietnam). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Sub lesson 5 rests on teacher-guide evidence only for its own content (the Grade 3 teacher guide's basic-colours lesson and colour framework); it is labelled as evidence in the part name, in the lesson text and in this table. The lesson as a whole stands on the Grade 3 student textbook, so the acceptance count counts pupil-taught content. The song "መስራች ቀለማት" is named and its teaching summarised only — its words are not transcribed; the song is sung in the Music unit's Primary Colours Song lesson. The Grade 3 chapter summary's closing exercise carries the check item "green is a primary colour — false", which the question stock uses.
 
@@ -119,3 +119,11 @@ Greece is added as student-book stock (see its rows above), inside the acceptanc
 | China — Lesson 1 魔幻的颜色 — the magic of the three primary colours — red, yellow and blue blending in water into many new colours (secondaries orange, green, purple); painting a rainbow or seven-colour flower (student book) | Book 20, printed p. 1 |
 
 China is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 21:** *Mĩ thuật 1 (student book, Vietnamese)* — Title as printed: Mĩ thuật 1 (Kết nối tri thức với cuộc sống) Grade: 1 (student/teacher: STUDENT) Publisher: Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year 2020 (6th reprint); ISBN 978-604-0-19564-7 PDF pages: 74 (cover/title page verified against the record title) Verdict: COMPLETE Vietnam's own way: every theme runs the same four activities — Observe, Express, Discuss, Apply — moving from spotting an art element in nature and daily life to a step-by-step pictured craft; Vietnamese exemplars throughout (Đông Hồ folk print, brocade patterns, bánh chưng, nón lá, the five-fruit tray). Excluded per brief: the glossary "Một số thuật ngữ dùng trong sách" and the foreign-name pronunciation table, printed p. 71 (inventory only, not placed). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/vietnam-placements.md (Vietnam placements, main wave, Book 1). Source note, as filed: this book was fetched from the textbooks repo's mid-size-books GitHub releases (the tree route 404s for these; they were secured as release assets), verified by byte size, pdfinfo page count and cover render before reading, and read page-by-page via pdftotext plus cover/contents renders (see the placements header and reading-log-vn.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Theme 5 "Basic colours in art" — the three basic colours — red, blue, yellow — on a three-part colour circle, in a child's painting, and one by one in life: red apple, hibiscus and the red scarf; yellow corn, banana and flowers; blue shirt, traffic sign and flowers (student book) | Book 21, printed p. 32 |
+
+Vietnam is added as student-book stock (see its rows above), inside the acceptance count.

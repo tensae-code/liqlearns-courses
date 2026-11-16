@@ -1,7 +1,7 @@
 # Sources — Appreciating Drawing
 
 
-countries: Ethiopia, Pakistan, Saudi Arabia, Angola, Rwanda, Indonesia, Armenia
+countries: Ethiopia, Pakistan, Saudi Arabia, Angola, Rwanda, Indonesia, Armenia, Vietnam
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -104,8 +104,16 @@ countries: Ethiopia, Pakistan, Saudi Arabia, Angola, Rwanda, Indonesia, Armenia
 | Armenia — Compare and find sameness and difference — Picasso and Saryan side by side: looking slowly and saying what you see (student book; original target `visual-art/appreciating-drawing`) | Book 17, printed p. 55 |
 
 
-**Acceptance count: taught in 6 countries (Ethiopia, Pakistan, Saudi Arabia, Angola, Rwanda, Armenia).** Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 7 countries (Ethiopia, Pakistan, Saudi Arabia, Angola, Rwanda, Armenia, Vietnam).** Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 No honesty flags attach to this placement; it is followed exactly as read.
 
 Searchable tags: appreciating drawing, what is drawing, drawing materials charcoal, classroom exhibition showing work, Ethiopia Grade 2 drawing appreciation, Rwanda, Armenia
+
+**Book 18:** *Mĩ thuật 11 — Lí luận và lịch sử mĩ thuật / Art 11 — Art Theory and History of Art (student book, Vietnamese)* — Title as printed: Mĩ thuật 11 — Lí luận và lịch sử mĩ thuật (Kết nối tri thức với cuộc sống series) PDF pages: 34 (cover verified: printed title and grade match the record) Verdict: COMPLETE Vietnam's own way: theory and history here means Vietnam's own modern art history — the 1925 Indochina Fine Arts School as the founding milestone, Nguyễn Sáng's lacquer "Kết nạp Đảng ở Điện Biên Phủ" as a national treasure, Tô Ngọc Vân as painter, theorist and martyr, and the Hồ Chí Minh Prize table as the canon of Vietnamese artists; world art (Rodin, Picasso, Dalí, Gehry, Bourgeois) enters as comparison around that core Excluded (named, not placed): "Một số thuật ngữ dùng trong sách" (some terms used in the book), printed p.30 — inventory only: art public, creative trend, form-creation fine art, applied fine art, fine-art appreciation, fine-art school; and the foreign proper-name lookup table, printed p.31 Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/vietnam-placements.md (Vietnam placements, main wave, Book 36). Source note, as filed: this book was fetched from the textbooks repo's mid-size-books GitHub releases (the tree route 404s for these; they were secured as release assets), verified by byte size, pdfinfo page count and cover render before reading, and read page-by-page via pdftotext plus cover/contents renders (see the placements header and reading-log-vn.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Bài 3, Explore and Recognise — how a work is appreciated, and what a work is made of — each fine-art work shows many elements such as culture, time, place and material and conveys diverse ideas and content, and the viewer appreciates it by concept and creative trend fitting the era, through the form-creation elements and principles, through aesthetic experience (experience, life capital, understanding of the specific field), and by exploring the hidden ideas behind the images each author wants to convey (Phạm Văn Đôn's wood-engraving print "Bác Hồ với nông dân" — Uncle Hồ with Farmers, 1972); and a form-creation or applied fine-art work gathers the basic elements — dot, line, shape, mass, colour, dark-light, texture, space — arranged and handled fittingly by the form-creation principles — balance, contrast, repetition, rhythm, emphasis, proportion, movement, harmony (Phạm Hậu's lacquer "Gió mùa hạ" — Summer Wind, 1940; Lương Xuân Nhị's oil painting "Thiếu nữ Nhật Bản" — Japanese Young Woman, 1942; Nguyễn Đình Hàm's silk painting of 1958) (student book) | Book 18, printed p. 20 |
+
+Vietnam is added as student-book stock (see its rows above), inside the acceptance count.

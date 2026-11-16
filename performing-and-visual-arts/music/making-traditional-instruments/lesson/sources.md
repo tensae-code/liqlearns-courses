@@ -1,6 +1,6 @@
 # Sources — Making Traditional Instruments
 
-countries: Ethiopia, Honduras, Nicaragua, Fiji, Jordan, Angola, Bolivia, Greece, China
+countries: Ethiopia, Honduras, Nicaragua, Fiji, Jordan, Angola, Bolivia, Greece, China, Vietnam
 
 **Book 1:** *Grade 7 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 7ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–170. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g07-student-placements.md.
 
@@ -39,7 +39,7 @@ countries: Ethiopia, Honduras, Nicaragua, Fiji, Jordan, Angola, Bolivia, Greece,
 | Bolivia — Musical glasses — a homemade instrument in the idiophones chapter: take seven glasses of one model, a jar of water (coloured if possible) and a fork; fill the glasses with water, tuning each against a recorder's note until the exact sound is reached (student book) | Book 10, printed p. 14 |
 | Bolivia — Making the claves and the triangle — the rhythmic band's instruments built in class: claves — a cylindrical stick of about 2 cm (a broomstick serves), cut in pieces of 15–20 cm, sanded with medium-grain paper and varnished, the length, thickness and density deciding the sound's quality; and the triangle — 45–60 cm of thin construction iron or aluminium tube, a beater of thinner iron or a big 10–12 cm nail, hung from strong string or nylon (student book) | Book 10, printed pp. 41–42 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Honduras, Jordan, Angola, Bolivia, Greece, China). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 8 countries (Ethiopia, Honduras, Jordan, Angola, Bolivia, Greece, China, Vietnam). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Making steps are taught at the level the placements carry them — materials, building order and tuning by ear; no measurements or tool procedures beyond the placements are invented.
 
@@ -67,3 +67,11 @@ Greece is added as student-book stock (see its rows above), inside the acceptanc
 | China — Unit 4 自制小乐器 (activity) — making your own small instruments and using them to invent rhythmic accompaniment for a song (student book; original target `music/making-our-own-instruments`) | Book 12, printed p. 32 |
 
 China is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 13:** *Âm nhạc 6 (student book, Vietnamese)* — Title as printed: Âm nhạc 6 (Kết nối tri thức với cuộc sống) Grade: 6 (student/teacher: STUDENT) Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2021 (5th reprint); ISBN 978-604-0-25649-2 PDF pages: 70 (cover/title page verified against the record title) Verdict: COMPLETE Vietnam's own way: secondary music runs in eight themes, each built from the same six strands — Singing, Listening, Music Reading, Instruments (recorder or melodica, the pupil's choice from Grade 4), Music Theory, Music Appreciation — plus an Apply–Create section. Vietnamese composers (Văn Ký, Phạm Tuyên, Đỗ Nhuận) stand beside Brahms, Beethoven and Strauss; the folk strand reaches the Khmu people's song and the khèn and bamboo flute. Excluded per brief: the mid-year review, printed p. 36; the year-end review, printed p. 66; the glossary of musical terms, printed p. 67 (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/vietnam-placements.md (Vietnam placements, main wave, Book 12). Source note, as filed: this book was fetched from the textbooks repo's mid-size-books GitHub releases (the tree route 404s for these; they were secured as release assets), verified by byte size, pdfinfo page count and cover render before reading, and read page-by-page via pdftotext plus cover/contents renders (see the placements header and reading-log-vn.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Theme 3, Apply–Create — making your own rhythm instruments from used materials at hand — shakers from shells, drums from milk tins and cake tins — to accompany the songs learned (student book) | Book 13, printed p. 28 |
+
+Vietnam is added as student-book stock (see its rows above), inside the acceptance count.

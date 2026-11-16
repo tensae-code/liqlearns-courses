@@ -1,6 +1,6 @@
 # Sources — Making Music with Computers and Apps
 
-countries: United Kingdom, Haiti, Malaysia, Armenia, North Macedonia, China
+countries: United Kingdom, Haiti, Malaysia, Armenia, North Macedonia, China, Vietnam
 
 **Book 1:** *Edexcel GCSE (9–1) Anthology of Music* (student book, English), edited by Julia Winterson — United Kingdom, Pearson Education Ltd with Peters Edition Ltd and Faber Music Ltd, 2016 (first published 2016), ISBN 978-1-292-11838-3, Grade 10 (GCSE, Years 10–11), 97 PDF pp. Verdict: COMPLETE — all 97 pages read (score pages placed as study summaries only; no notation or song lyrics transcribed). Read from the scanned page images at the book's recorded source (Internet Archive item `edexcel-gcse-9-1-anthology-of-music`, 97 pages, matching the record) in the 2026-11-16 Art expansion read, because the recorded GitHub copy is a PHANTOM PUSH — marked pushed but absent from the tree and the releases, so it could not be fetched by the tree route (see the placements file). Placements at liqlearns-courses-work/expansion-art-2026-11-16/united-kingdom-placements.md. The book's Glossary of Key Words (printed pp. 90–93) is inventory only, named here and never stocked as parts.
 
@@ -38,7 +38,7 @@ countries: United Kingdom, Haiti, Malaysia, Armenia, North Macedonia, China
 | Armenia — Music and the computer — the closing section of Theme 2 on the computer's possibilities for studying and making music (student book; original target `music/music-and-the-computer`) | Book 7, printed p. 97 |
 
 
-**Acceptance count: taught in 5 countries (United Kingdom, Malaysia, Armenia, North Macedonia, China).** Haiti is added as teacher guide / teacher programme — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 6 countries (United Kingdom, Malaysia, Armenia, North Macedonia, China, Vietnam).** Haiti is added as teacher guide / teacher programme — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/making-music-with-computers-and-apps`); the United Kingdom placements were filed under the original string `music/copyright-and-music-publishing`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. The scores in the Anthology are placed as study summaries only — no notation or song lyrics are transcribed in this lesson. The United Kingdom's own way, carried in the placements: music is learned by appraising eight fixed set works — following the printed score while listening, after short teaching notes on period context, structure and what to listen for.
 
@@ -60,3 +60,14 @@ North Macedonia is added as student-book stock (see its rows above), inside the 
 | China — Unit 6 计算机音乐基础： computer music foundations — computer-assisted composition systems; entering a score, laying out full score and parts, exporting and printing; practice with the Schindler's List theme and a folk-song chorus arrangement (student book; original target `music/computer-music-and-notation-software`) | Book 9, printed pp. 64–76 |
 
 China is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 10:** *Chuyên đề học tập Âm nhạc 12 (Music study topics) (student book, Vietnamese)* — Title as printed: CHUYÊN ĐỀ HỌC TẬP ÂM NHẠC 12 (Music 12 — Study Topics), Kết nối tri thức với cuộc sống (cover: a student recording at a laptop with microphone and mixer) Grade: 12 (student/teacher: STUDENT) Publisher: Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); no ISBN printed on the pages read PDF pages: 44 assembled pages = the record's 44 pages (cover and contents verified) Verdict: COMPLETE — the music study topics are the music software trio: notation, audio editing/recording, and automatic accompaniment, each taught on a named free program. Standing exclusions named: Giải thích một số thuật ngữ (glossary), printed p. 40 — inventory-only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/vietnam-placements.md (Vietnam placements, links group, Book 12). Source note, as filed: this book was assembled page-by-page from the publisher's own page images served by its taphuan.nxbgd.vn flipbook viewer (the recorded source_url), verified (assembled page count against the recorded page count + cover looked at), read, and staged under the push-don't-delete rule; because the staged file is an assembly of page images, its byte size differs from the publisher's own PDF, while the printed book is identical (see reading-log-links.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Topic 1 — Phần mềm chép nhạc (music notation software) — Bài 1: the MuseScore notation program; Bài 2: its basic features (student book; original target `music/computer-music-and-notation-software`) | Book 10, printed pp. 5, 9 (same NEW lesson proposed from the China senior music books) |
+| Vietnam — Topic 2 — Phần mềm biên tập âm thanh và thu âm (audio editing and recording software) — Bài 1: the Audacity program; Bài 2: editing audio in Audacity; Bài 3: recording in Audacity (student book; original target `music/audio-editing-and-recording`) | Book 10, printed pp. 18, 21, 25 |
+| Vietnam — Topic 3 — Phần mềm hoà âm tự động (automatic accompaniment software) — Bài 1: the JJazzLab program; Bài 2: automatic-accompaniment operations in JJazzLab (student book; original target `music/automatic-accompaniment-software`) | Book 10, printed pp. 30, 32 |
+| Vietnam — the topic set as a whole — the computer as the musician's third instrument — writing music down, shaping recorded sound, and generating accompaniment (student book; original target `music/music-and-the-computer`) | Book 10, printed pp. 5–39 (same NEW lesson proposed from the Armenia and China books) |
+
+Vietnam is added as student-book stock (see its rows above), inside the acceptance count.

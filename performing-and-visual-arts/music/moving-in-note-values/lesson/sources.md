@@ -1,6 +1,6 @@
 # Sources — Moving in Note Values
 
-countries: Ethiopia, Haiti, Belarus, Bulgaria, Syria, Greece
+countries: Ethiopia, Haiti, Belarus, Bulgaria, Syria, Greece, Vietnam
 
 **Book 1:** *ሥነ-ጥበባት የተማሪ መጽሐፍ 4ኛ ክፍል (Performing and Visual Arts, Student's Book, Grade 4)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 100 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-student-placements.md.
 
@@ -39,7 +39,7 @@ countries: Ethiopia, Haiti, Belarus, Bulgaria, Syria, Greece
 |---|---|
 | Syria — Lesson 28 "The Swallow (al-Sununu)" — the swallow's life on video; the class splits in two — one group performs the exercise on the percussion instruments, the other imitates the swallow's sounds in the exercise (student book; original target `music/rhythm-and-movement`) | Book 8, printed p. 64 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Belarus, Bulgaria, Syria, Greece).** Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 6 countries (Ethiopia, Belarus, Bulgaria, Syria, Greece, Vietnam).** Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 No honesty flags: the activity is taught exactly as the Grade 4 book sets it on printed p. 6.
 
@@ -69,3 +69,18 @@ Searchable tags: moving in note values, rows and circles, body movement, note va
 | Greece — Chapter 5: Τα Μαθηματικά... της μουσικής! (The mathematics of music — note values counted) (student book) | Book 10, printed p. 14 |
 
 Greece is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 11:** *Âm nhạc 2 (student book, Vietnamese)* — Title as printed: Âm nhạc 2 (Kết nối tri thức với cuộc sống) Grade: 2 (student/teacher: STUDENT) Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2021 (5th reprint); ISBN 978-604-0-25646-1 PDF pages: 62 (cover/title page verified against the record title) Verdict: COMPLETE Vietnam's own way: eight themes on five strands (Sing, Listen, Read music, Instruments, Appreciate). Reading pieces are numbered and grow note by note (La joins in Reading No. 1; eighth notes in No. 3; rests in No. 4), always with hand signs and body percussion. The folk theme (Theme 2, "I love folk melodies") teaches two Vietnamese instruments outright — song loan and đàn bầu — and the appreciation story honours composer Phạm Tuyên and his Ê-đê-inspired elephant song. Excluded per brief: Semester-1 review (printed pp. 30–31) and assessment (p. 32); year-end review (p. 58) and assessment (p. 59); the glossary of music terms (p. 60, inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/vietnam-placements.md (Vietnam placements, main wave, Book 4). Source note, as filed: this book was fetched from the textbooks repo's mid-size-books GitHub releases (the tree route 404s for these; they were secured as release assets), verified by byte size, pdfinfo page count and cover render before reading, and read page-by-page via pdftotext plus cover/contents renders (see the placements header and reading-log-vn.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Theme 3 Apply–Create — Reading Piece No. 2 performed with body movement — claps and stamps printed under the notes — and the school song sung fast and slow at will (student book) | Book 11, printed p. 24 |
+| Vietnam — Theme 7 Apply–Create — Reading Piece No. 4 read with clapping, question-and-answer singing of the farm song, and moving with the golden ants (high sounds) and the brown bear (low sounds) (student book) | Book 11, printed p. 52 |
+
+**Book 12:** *Âm nhạc 3 (student book, Vietnamese)* — Title as printed: Âm nhạc 3 (Kết nối tri thức với cuộc sống) Grade: 3 (student/teacher: STUDENT) Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2022 (4th reprint); ISBN 978-604-0-30705-7 PDF pages: 66 (cover/title page verified against the record title) Verdict: COMPLETE Vietnam's own way: Grade 3 gives the National Anthem its own theme (composer, occasion, solemn stance), builds a whole folk theme from the peoples of the Central Highlands (a Gia-rai-based song, a t'rưng listening piece, a Xê-đăng lullaby), and compares the lullabies of Vietnam's three regions inside a mother-and-child story. Reading pieces reach the high Đô; percussion work grows to three layered groups. Excluded per brief: Semester-1 review (printed pp. 31–32) and year-end review (pp. 60–62); the glossary of music terms (p. 63, inventory only — it defines timbre, rap-reading, march and lullaby). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/vietnam-placements.md (Vietnam placements, main wave, Book 6). Source note, as filed: this book was fetched from the textbooks repo's mid-size-books GitHub releases (the tree route 404s for these; they were secured as release assets), verified by byte size, pdfinfo page count and cover render before reading, and read page-by-page via pdftotext plus cover/contents renders (see the placements header and reading-log-vn.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Theme 5 Apply–Create — the read-fast-read-right game; rapping the spring song's words with movement (the book's own "đọc Rap": reading words to a rhythm, caring for speed and length, not pitch); and performing "Đón xuân về" in your own chosen form (student book) | Book 12, printed p. 40 |
+
+Vietnam is added as student-book stock (see its rows above), inside the acceptance count.

@@ -2645,7 +2645,48 @@ Rwanda's twelve placement-bearing books (Creative Arts Fine
   tally of 37); the lines present were stocked, as filed in the
   MERGE-LOG.
 
-**The whole course stands at 978 lessons, 11,973 questions and
+- **Art expansion — Vietnam (2026-11-16):** 1,088 placements
+  stocked from 57 books (all student books, counted): 663 into
+  existing lessons, 251 into already-built canonical lessons, and
+  174 into 28 NEW lessons (Visual Art: Dinh Lang Communal House
+  Carving; Ethnic Costume Patterns of Vietnam; Vietnamese Craft
+  Villages; Vietnamese Folk Painting; Vietnamese National Heroes
+  in Art. Music: Accompaniment Rhythm Patterns; Cồng Chiêng:
+  Gongs of the Central Highlands; Đàn Bầu: Vietnam's One-Stringed
+  Instrument; Đàn Đá: The Vietnamese Lithophone; Đàn Đáy: The
+  Vietnamese Lute; Đàn Nguyệt: The Moon Lute; Đàn Tính: The Gourd
+  Lute; Đàn Tranh: The Vietnamese Zither; Guitar and Ukulele;
+  Khèn: The Vietnamese Mouth Organ; Nhã Nhạc: Huế Royal Court
+  Music; Performance Forms: Vocal and Instrumental; Sáo Trúc: The
+  Vietnamese Bamboo Flute; Song Loan: The Vietnamese Clacker; The
+  Vietnamese Folk Ensemble; Vietnamese Instruments: Đàn Nhị, Đàn
+  T'rưng, Drums and Clappers; Vietnamese Songs and Folk Songs.
+  Drama and Dance: Vietnamese Folk Dances; Vietnamese Traditional
+  Theatre; Vietnamese Water Puppetry. Culture and Values:
+  Vietnamese Ancient Art; Vietnamese Festival Arts; Vietnamese
+  Medieval Art). Every placement string resolved via
+  slug-registry Part 2 — no unresolved strings, no mid-merge
+  registry additions needed; original strings are recorded in
+  the provenance rows wherever they differ from the canonical
+  target. Vietnam's own way is kept as named parts throughout —
+  its own instruments (đàn bầu, đàn tranh, đàn nhị, đàn t'rưng,
+  trống con and trống cái, thanh phách, song loan), its folk
+  painting (Đông Hồ), its communal-house carving, its ethnic
+  costume patterns and its festival arts. Songs are placed by
+  summary only, never transcribed. Honesty, as filed: the 45
+  main-wave books were fetched from the mid-size-books GitHub
+  releases (the tree route 404s for these), verified and read in
+  full; the 12 links-group Grade 12 books were assembled
+  page-by-page from the publisher's own viewer page images,
+  verified, and staged under the push-don't-delete rule.
+  Vietnam's Grade-12 art specialist volumes that exist as
+  release assets (mid-size-books-8) but were NOT in the wave's
+  targets and were NOT read have no placements — none were
+  invented. The placements file's header tallies sum to 1,088
+  and the lines present are 1,088 — the lines present were
+  stocked, as filed in the MERGE-LOG.
+
+**The whole course stands at 1,006 lessons, 12,309 questions and
 210 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 

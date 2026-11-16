@@ -1,6 +1,6 @@
 # Sources — Installation Art
 
-countries: Venezuela, Bolivia, Moldova, North Macedonia
+countries: Venezuela, Bolivia, Moldova, North Macedonia, Vietnam
 
 **Book 1:** *Educación Artística 1 — EDUCACIÓN ARTÍSTICA — Artes visuales / Artes escénicas / Artes musicales — 1er AÑO (Colección Bicentenario)* (student book, Spanish) — Venezuela, Ministerio del Poder Popular para la Educación, República Bolivariana de Venezuela; third edition, April 2014; ISBN 978-980-218-315-9 (Depósito Legal lf5162012370748). Series coordination Ángela Beatriz Calzadilla; authors Aura Marina Orta, Marianella Morales Mistron, Trina Borrego, Luis Galíndez, Alexander Lugo Rodríguez and others. Grade 7 (1er año, first year of secondary; student/teacher: STUDENT). PDF pages: 75 (printed pp. 10–143; the fetched PDF is 50,417,591 bytes; cover and title page verified — blue cover with indigenous petroglyph-style figures, “EDUCACIÓN ARTÍSTICA 1er AÑO”). Verdict: COMPLETE — read in full as extracted text (text PDF), cover verified. Named, not placed: the front-matter presidential message (not teaching content); the end-of-chapter suggested activities and question boxes (their skills are folded into the lesson lines they practise); the bibliography (printed pp. 141–143) — inventory only. Venezuela's own way: one single book teaches all three art languages together — visual, scenic (theatre/dance) and musical. Placements at liqlearns-courses-work/expansion-art-2026-11-16/venezuela-placements.md.
 
@@ -29,7 +29,7 @@ countries: Venezuela, Bolivia, Moldova, North Macedonia
 |---|---|
 | Moldova — Unit II §6 — modernity breaks the classical rules: new means — collage, the imprint, the jet of paint, letters and text themselves (Apollinaire's calligram); contemporary works that can no longer be classified as painting, graphics or sculpture; the installation — a work made in space from objects, materials or technologies to carry an idea (student book; original target `visual-art/installation-and-new-media`) | Book 4, printed pp. 22–23 |
 
-**Acceptance count: taught in 4 countries (Venezuela, Bolivia, Moldova, North Macedonia).** Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 5 countries (Venezuela, Bolivia, Moldova, North Macedonia, Vietnam).** Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/installation-art`); the Venezuela placements were filed under the original string(s) `visual-art/environments-and-interventions` and resolved to this lesson by slug-registry Part 2. Songs and stories are placed by summary only, never transcribed.
@@ -51,3 +51,12 @@ Searchable tags: installation art, Venezuela
 | North Macedonia — Објекти и инсталации — art objects and installations: ready things and whole rooms arranged so the space itself carries the artist's idea — Koons, Boltanski, Nam June Paik (student book; original target `visual-art/installation-and-new-media`) | Book 6, printed p. 141 |
 
 North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 7:** *Mĩ thuật 12 — Điêu khắc (student book, Vietnamese)* — Title as printed: Mĩ thuật 12 — ĐIÊU KHẮC (Fine Art 12 — Sculpture), Kết nối tri thức với cuộc sống (cover: stacked painted-stone installation) Grade: 12 (student/teacher: STUDENT) Publisher: Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); no ISBN printed on the pages read PDF pages: 35 assembled pages = the record's 35 pages (cover verified) Verdict: COMPLETE — the sculpture strand is taught as installation: arranging sculpture products, including from materials at hand. Standing exclusions named: the glossary and foreign-name index, printed p. 32 — inventory-only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/vietnam-placements.md (Vietnam placements, links group, Book 3). Source note, as filed: this book was assembled page-by-page from the publisher's own page images served by its taphuan.nxbgd.vn flipbook viewer (the recorded source_url), verified (assembled page count against the recorded page count + cover looked at), read, and staged under the push-don't-delete rule; because the staged file is an assembly of page images, its byte size differs from the publisher's own PDF, while the printed book is identical (see reading-log-links.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Bài 1 — Khái quát về sắp đặt sản phẩm điêu khắc (an overview of arranging sculpture products — installation as an art form: placing three-dimensional work in space) (student book; original target `visual-art/installation-and-arrangement-art`) | Book 7, printed p. 5 |
+| Vietnam — Bài 2 — Sắp đặt sản phẩm điêu khắc bằng vật liệu sẵn có (arranging a sculpture product from ready-to-hand materials — building an installation from what is available) (student book; original target `visual-art/installation-and-arrangement-art`) | Book 7, printed p. 15 |
+
+Vietnam is added as student-book stock (see its rows above), inside the acceptance count.

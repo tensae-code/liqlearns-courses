@@ -1,6 +1,6 @@
 # Sources — Pictures of What We Do Every Day
 
-countries: Ethiopia, Armenia, China
+countries: Ethiopia, Armenia, China, Vietnam
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -25,7 +25,7 @@ countries: Ethiopia, Armenia, China
 | Armenia — My school things; my bag — what is in my school bag, drawn and named (student book; original target `first-steps/pictures-of-what-we-do-every-day`) | Book 2, printed p. 4 |
 
 
-**Acceptance count: taught in 3 countries (Ethiopia, Armenia, China).** Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 4 countries (Ethiopia, Armenia, China, Vietnam).** Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Book error, carried as the placements flag it: Figure 1.5.4's caption as printed reads 'cleaning teeth with water and soap', while its section heading is simply 'cleaning teeth' and the chapter's morning song says 'brush my teeth' (ጥርሴን ቦርሼ); the lesson follows the heading and the song — teeth are cleaned/brushed — and the caption wording is recorded here rather than silently resolved. The sub-lesson order follows the course structure map; the book's own §1.5 order places Eating before Cleaning Teeth, and each sub lesson's sources row gives its own section and page, so nothing is hidden by the reordering.
 
@@ -50,3 +50,31 @@ Searchable tags: daily activities, pictures of the day, getting up, washing, mes
 | China — Lesson 10 那一刻的我 — drawing your most memorable moment — stress the main subject and vary the figures' actions to make the story lively (student book) | Book 5, printed p. 18 |
 
 China is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 6:** *Mĩ thuật 2 (student book, Vietnamese)* — Title as printed: Mĩ thuật 2 (Kết nối tri thức với cuộc sống) Grade: 2 (student/teacher: STUDENT) Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2021 (5th reprint); ISBN 978-604-0-25140-4 PDF pages: 67 (cover/title page verified against the record title) Verdict: COMPLETE Vietnam's own way: ten themes deepen Grade 1's elements — line, shape, colour, solid — by COMBINING them, and every theme reads real named artworks: Vietnamese masters (Nguyễn Hải, Phạm Gia Giang, Nguyễn Sáng, Nguyễn Tư Nghiêm, Điềm Phùng Thị) beside Paul Klee, Kandinsky, Hokusai and Giacometti; Vietnamese exemplars include Đông Sơn bronze-drum patterns, the nón lá, the Mid-Autumn star lantern and tò he folk toys. Excluded per brief: the glossary of terms and the foreign-name pronunciation table, printed p. 64 (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/vietnam-placements.md (Vietnam placements, main wave, Book 3). Source note, as filed: this book was fetched from the textbooks repo's mid-size-books GitHub releases (the tree route 404s for these; they were secured as release assets), verified by byte size, pdfinfo page count and cover render before reading, and read page-by-page via pdftotext plus cover/contents renders (see the placements header and reading-log-vn.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Theme 8 "The family meal" — the meal in photographs — a weekend family meal, a meal at home, a harvest-day meal shared by the village (student book) | Book 6, printed p. 48 |
+
+**Book 7:** *Mĩ thuật 3 (student book, Vietnamese)* — Title as printed: Mĩ thuật 3 (Kết nối tri thức với cuộc sống) Grade: 3 (student/teacher: STUDENT) Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2022 (4th reprint); ISBN 978-604-0-30704-0 PDF pages: 67 (cover/title page verified against the record title) Verdict: COMPLETE Vietnam's own way: Grade 3 names the kinds of art product (2D, 3D, applied), studies the costume patterns of Vietnam's Mông, Ê-đê and Chăm peoples as national heritage, and reads Vietnamese masters (Lương Xuân Nhị, Phan Kế An, Sỹ Tốt) beside Matisse, Picasso and Giacometti; two themes turn on Vietnamese school life — the wall newspaper for Teachers' Day (20/11) and traffic-safety art. Excluded per brief: the glossary of terms and the foreign-name pronunciation table, printed p. 64 (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/vietnam-placements.md (Vietnam placements, main wave, Book 5). Source note, as filed: this book was fetched from the textbooks repo's mid-size-books GitHub releases (the tree route 404s for these; they were secured as release assets), verified by byte size, pdfinfo page count and cover render before reading, and read page-by-page via pdftotext plus cover/contents renders (see the placements header and reading-log-vn.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Theme 6 "Grateful to teachers" — our teachers in photographs — guiding a lesson, receiving flowers from pupils, leading children across the highland fields — and choosing the teacher image for your own artwork (student book) | Book 7, printed p. 34 |
+| Vietnam — Theme 9 "Family life" — family activities in photographs — feeding the horse, pounding rice in front of the communal house, parents playing with their children (student book) | Book 7, printed p. 52 |
+
+**Book 8:** *Mĩ thuật 4 (student book, Vietnamese)* — Title as printed: Mĩ thuật 4 (Kết nối tri thức với cuộc sống) Grade: 4 (student/teacher: STUDENT) Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2022 (3rd reprint); ISBN 978-604-0-35030-5 PDF pages: 67 (cover/title page verified against the record title) Verdict: COMPLETE Vietnam's own way: Grade 4 turns to heritage outright — a full theme on village communal-house (đình) sculpture and another on space in Vietnamese folk painting (Đông Hồ, Hàng Trống, Kim Hoàng, Làng Sình) — and gives two Vietnamese masters full biographies (Nguyễn Tư Nghiêm, Trần Văn Cẩn). Applied work is design with ready materials: souvenir cups, photo frames, school models, study boxes, bottle plant-pots. Excluded per brief: the glossary of terms and the foreign-name pronunciation table, printed p. 63 (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/vietnam-placements.md (Vietnam placements, main wave, Book 7). Source note, as filed: this book was fetched from the textbooks repo's mid-size-books GitHub releases (the tree route 404s for these; they were secured as release assets), verified by byte size, pdfinfo page count and cover render before reading, and read page-by-page via pdftotext plus cover/contents renders (see the placements header and reading-log-vn.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Theme 4 "Beauty in life" — beauty in photographs — rows of soy-sauce jars drying in the sun, a grandmother holding her grandchild, an old man playing the khèn on his porch (student book) | Book 8, printed p. 25 |
+| Vietnam — Theme 7 "Green – clean – beautiful environment" — protecting the environment in photographs — pupils caring for the school's green trees, putting rubbish in the bin, and cleaning the Tầm Vu Martyrs' Cemetery in Cần Thơ (student book) | Book 8, printed p. 49 |
+
+**Book 9:** *Mĩ thuật 5 (student book, Vietnamese)* — Title as printed: Mĩ thuật 5 (Kết nối tri thức với cuộc sống) Grade: 5 (student/teacher: STUDENT) Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2024 (2nd reprint); ISBN 978-604-0-39222-0 PDF pages: 67 (cover/title page verified against the record title) Verdict: COMPLETE Vietnam's own way: Grade 5 names the visual elements and principles outright and reads them in real artworks — Tô Ngọc Vân, Cézanne, Nguyễn Tư Nghiêm, Trần Văn Cẩn's generation and today's lacquer painters. National heroes get a whole theme across painting, print, statue and relief; peace closes the primary years, with presentation software introduced for art research. Excluded per brief: the glossary of terms and the foreign-name pronunciation table, printed p. 63 (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/vietnam-placements.md (Vietnam placements, main wave, Book 9). Source note, as filed: this book was fetched from the textbooks repo's mid-size-books GitHub releases (the tree route 404s for these; they were secured as release assets), verified by byte size, pdfinfo page count and cover render before reading, and read page-by-page via pdftotext plus cover/contents renders (see the placements header and reading-log-vn.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Theme 5 "Simple but noble work in life" — good work in photographs — workers bringing electricity to a mountain village, youth volunteers helping the farmers in the fields, border-guard doctors checking the health of the people, and officials sitting on the grass listening to the people's wishes (student book) | Book 9, printed p. 31 |
+
+Vietnam is added as student-book stock (see its rows above), inside the acceptance count.

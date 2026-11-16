@@ -338,6 +338,14 @@ The titles, in ladder order:
    chinese woodblock new year pictures — China's woodblock New Year pictures — the folk prints, such as Yangjiabu's, made to celebrate the new year.;
    dunhuang murals and flying apsaras — The Dunhuang murals — China's cave-wall paintings and their flying apsaras figures.;
    product design — Product design — designing useful things: function and beauty, improving and innovating products, furniture design and production. (China student books).
+ The Art expansion added:
+   dinh lang communal house carving — Vietnam's communal-house
+   wood carving; ethnic costume patterns of Vietnam — the woven
+   patterns of the Mông, Ê-đê and Chăm peoples' dress; Vietnamese
+   craft villages — the goldsmith and craft villages; Vietnamese
+   folk painting — the Đông Hồ folk-print tradition and its
+   painters; and Vietnamese national heroes in art — the heroes
+   pictured in Vietnam's art (Vietnam student books).
 
 3. **Music** — the ear and the voice: sounds around us, naming
    sounds, the songs (animals, family, nature, movement, festivals,
@@ -625,6 +633,22 @@ The titles, in ladder order:
    pingju and yueju opera — China's regional operas — Pingju of the north and Yueju of Shaoxing.;
    singing our first songs — singing Our First Songs — its forms, history and cultural meaning, taught as one topic lesson.;
    writing lyrics — Writing the words of a song — lyric craft, in China's book. (China student books).
+ The Art expansion added:
+   accompaniment rhythm patterns — the tiết điệu patterns that
+   accompany songs; cồng chiêng — the gongs of the Central
+   Highlands; đàn bầu — Vietnam's one-stringed instrument; đàn
+   đá — the lithophone; đàn đáy — the ca trù lute; đàn nguyệt —
+   the moon lute; đàn tính — the Tày gourd lute; đàn tranh — the
+   Vietnamese zither; guitar and ukulele; khèn — the highland
+   mouth organ; nhã nhạc — Huế royal court music; performance
+   forms: vocal and instrumental — solo, ensemble, orchestra,
+   part-singing and chorus; sáo trúc — the bamboo flute; song
+   loan — the Vietnamese clacker; the Vietnamese folk ensemble;
+   Vietnamese instruments: đàn nhị, đàn t'rưng, drums and
+   clappers — trống con, trống cái and thanh phách; and
+   Vietnamese songs and folk songs — the national anthem, the
+   homeland songs and the folk songs of Vietnam's regions and
+   peoples (Vietnam student books).
 
 4. **Drama and Dance** — the body: how things, animals and people
    move; playing family roles; acting together; playing a person;
@@ -803,6 +827,12 @@ The titles, in ladder order:
    chinese opera (xiqu) — Chinese opera beyond Peking opera — regional xiqu forms, their singing, acting and stage conventions.;
    yangge dance — Yangge, the Han folk dance of northern China, above all the north-eastern yangge with fans and handkerchiefs.;
    peking opera — Peking opera, China's best-known opera form — its singing, painted faces, costumes and hats. (China student books).
+ The Art expansion added:
+   Vietnamese folk dances — Múa sạp, the bamboo-pole dance, and
+   the lion dance; Vietnamese traditional theatre — chèo, tuồng
+   and cải lương appreciated as a family; and Vietnamese water
+   puppetry — the figures that play on a pond stage (Vietnam
+   student books).
 
 5. **Culture and Values** — the arts as a people's memory:
    traditional dress then and now, houses then and now, the
@@ -963,3 +993,10 @@ The titles, in ladder order:
  The Art expansion added:
    art of asia africa and latin america — art of Asia Africa and Latin America — its forms, history and cultural meaning, taught as one topic lesson.;
    keeping and valuing our heritage — keeping and Valuing Our Heritage — its forms, history and cultural meaning, taught as one topic lesson. (China student books).
+ The Art expansion added:
+   Vietnamese ancient art — Vietnam's art from the Hoà Bình cave
+   face and the Đông Sơn bronze drums onward; Vietnamese
+   festival arts — the mâm quả fruit tray, the five-colour
+   festival flags and the tò he folk toys; and Vietnamese
+   medieval art — the art of Vietnam's Lý, Trần, Lê, Mạc, Tây Sơn
+   and Nguyễn periods (Vietnam student books).

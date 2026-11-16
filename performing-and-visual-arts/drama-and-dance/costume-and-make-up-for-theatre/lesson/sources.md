@@ -1,6 +1,6 @@
 # Sources — Costume and Make-Up for Theatre
 
-countries: Ethiopia, Nicaragua, Romania, Bhutan, Serbia, Suriname, Papua New Guinea, Venezuela, Malaysia, Indonesia, North Macedonia, Greece, China
+countries: Ethiopia, Nicaragua, Romania, Bhutan, Serbia, Suriname, Papua New Guinea, Venezuela, Malaysia, Indonesia, North Macedonia, Greece, China, Vietnam
 
 **Book 1:** *Grade 5 Performing and Visual Arts Teacher Guide (፭ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed front matter ii–v + body from printed p.1 + syllabus tables at the end. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-teacher-placements.md.
 
@@ -97,7 +97,7 @@ countries: Ethiopia, Nicaragua, Romania, Bhutan, Serbia, Suriname, Papua New Gui
 |---|---|
 | Indonesia — Unit Pembelajaran 3 Menggagas Unsur-unsur Pendukung Tari — conceiving a dance's supporting elements — costume: the traditional dress of Yogyakarta, Riau and West Java and themed costumes (Kijang, farmer, bird dances); make-up: transferring a face design to the face, character make-up sketched and applied (peacock, other birds, flora), and corrective make-up for formal events and for dance (teacher guide — evidence; original target `drama-and-dance/costume-and-make-up-for-theatre`) | Book 19, printed p. 145 |
 
-**Acceptance count: taught in 8 countries (Romania, Bhutan, Serbia, Venezuela, Malaysia, North Macedonia, Greece, China).** Ethiopia teacher-guide evidence is named here, counted nowhere. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 9 countries (Romania, Bhutan, Serbia, Venezuela, Malaysia, North Macedonia, Greece, China, Vietnam).** Ethiopia teacher-guide evidence is named here, counted nowhere. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This lesson stands on the Grade 5 teacher guide (printed pp. 48–61, §2.3) as labelled evidence — the guide's longest theatre section, on the practical craft of stage appearance.
 
@@ -162,3 +162,12 @@ Greece is added as student-book stock (see its rows above), inside the acceptanc
 | China — Lesson 8 我设计的服装 — clothes of my own design — fashion as an art (Marc Jacobs, Jean Paul Gaultier): draw the design sketch first, mind the colour matching, then make the garment in a group from ready materials and wear it in a show (student book; original target `drama-and-dance/costumes-and-disguise`) | Book 28, printed p. 14 |
 
 China is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 29:** *Mĩ thuật 12 — Thiết kế mĩ thuật sân khấu, điện ảnh (student book, Vietnamese)* — Title as printed: Mĩ thuật 12 — THIẾT KẾ MĨ THUẬT SÂN KHẤU, ĐIỆN ẢNH (Fine Art 12 — Stage and Film Art Design), Kết nối tri thức với cuộc sống Grade: 12 (student/teacher: STUDENT) Publisher: Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); no ISBN printed on the pages read PDF pages: 35 assembled pages = the record's 35 pages (cover and contents verified) Verdict: COMPLETE — the stage-and-film strand is taught as costume design. Standing exclusions named: the glossary, printed p. 31 — inventory-only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/vietnam-placements.md (Vietnam placements, links group, Book 9). Source note, as filed: this book was assembled page-by-page from the publisher's own page images served by its taphuan.nxbgd.vn flipbook viewer (the recorded source_url), verified (assembled page count against the recorded page count + cover looked at), read, and staged under the push-don't-delete rule; because the staged file is an assembly of page images, its byte size differs from the publisher's own PDF, while the printed book is identical (see reading-log-links.md).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Bài 1 — Khái quát về thiết kế trang phục nghệ thuật (an overview of artistic costume design — dressing a character for stage and screen) (student book) | Book 29, printed p. 5 |
+| Vietnam — Bài 2 — Thực hành thiết kế trang phục sân khấu, điện ảnh từ vật liệu sẵn có (practising stage and film costume design from ready-to-hand materials) (student book) | Book 29, printed p. 19 |
+
+Vietnam is added as student-book stock (see its rows above), inside the acceptance count.
