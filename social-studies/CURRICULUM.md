@@ -12441,3 +12441,29 @@ HONESTY: the two split placement files were read and merged as one country — 4
 The existing lessons stocked rise with Kazakhstan added: 1789 — Colonisation — the partition and Fashoda 6 → 7, Decolonisation — North Africa 7 → 8, Africa, cradle of humankind — Chad, Afar and Lucy 12 → 13, Ancient Egypt — the Nile Kingdom 39 → 40, Ancient Egypt — What Egypt Gave 18 → 19, From stone tools to farming — the Neolithic Revolution 43 → 44, Ancient civilisations — Athens and democracy 22 → 23, Ancient civilisations — China 29 → 30, Ancient civilisations — Greece: Crete 36 → 37, Ancient civilisations — India 27 → 28, Ancient civilisations — India's order and gifts 9 → 10, Ancient civilisations — Mesopotamia 37 → 38, Ancient civilisations — Mesopotamia's gifts 12 → 13, Ancient civilisations — Rome 42 → 43, Ancient civilisations — Rome divides 19 → 20, Ancient civilisations — Sparta, and Athens against Sparta 12 → 13, Ancient civilisations — the Great Wall and China's gifts 12 → 13, Christianity — from persecuted sect to state religion 16 → 17, Legacy Of The Ancient World 1 → 2, Medieval world — Byzantium and Justinian 16 → 17, Medieval world — the Dark Age and feudalism 29 → 30, Medieval world — the Ottomans 20 → 21, The rise and expansion of Islam 37 → 38, Trade routes that linked the old world 19 → 20, Dating the past — calendars, timelines and periods 47 → 48, From evidence to a written history 45 → 46, Historiography — history of history-writing 21 → 22, What history is 52 → 53, 1917 twice — February and October in Russia 26 → 27, American independence 30 → 31, Assessment — early-modern and modern world history 3 → 4, Cold War Crises 1948 1962 2 → 3, Effects of industrialisation — cities, classes, empires 20 → 21, Exploration — causes and results 22 → 23, Exploration — Columbus, Vespucci and Magellan 30 → 31, Exploration — Portugal and the sea routes to India 21 → 22, Fascism and Nazism — two dictatorships compared 20 → 21, Germany unifies — Bismarck, Blood and Iron, Versailles 1871 14 → 15, Italy unifies — Cavour and the patriots 13 → 14, Militarism in Japan — the army above the state 7 → 8, Napoleon — reformer, conqueror, fallen 19 → 20, Republic and Reign of Terror 12 → 13, Scientific Revolution and Enlightenment 26 → 27, The American Civil War — union against slavery's states 17 → 18, The Eastern Question — nationalism in the Balkans, empires in collision 9 → 10, The English Revolution and Cromwell 5 → 6, The First World War — causes 33 → 34, The First World War — course of the war 22 → 23, The First World War — Versailles and the results 25 → 26, 1789 — the French Revolution breaks out 34 → 35, The Great Depression — 1929 and the world it broke 24 → 25, The Industrial Revolution — what changed and why England first 28 → 29, The Reformation — Luther and the spread of Protestantism 20 → 21, The Reformation — the Catholic Counter-Reformation 10 → 11, The Renaissance — its great figures 15 → 16, The Renaissance — what it was 31 → 32, The Second World War — causes 31 → 32, The Second World War — course in Europe 31 → 32.
 
 History lessons across the History titles: **3897** (3677 before Kazakhstan).
+
+## Economics expansion — United Arab Emirates — built 2026-11-15
+
+United Arab Emirates — 3 placements stocked from *Social Studies
+and National Education, Grade 1, Volume 3* (student book, Arabic,
+COMPLETE; Ministry of Education, United Arab Emirates,
+2025–2026; no ISBN printed; glossary p. 95 inventory-only, named
+in the book entries, not stocked). 1 stocked into a standing
+lesson — **Market and Money**: What money is (Unit 5 Lesson 3
+"I love to work", printed p. 52 — the UAE dirham's notes and
+coins, 1 dirham coin and 5, 100 and 1000 dirham notes, recognised
+and each one's value written; now taught in 2 countries,
+Ethiopia and United Arab Emirates) — and 2 new lessons built
+(12 questions each) — in **Microeconomics**: Basic needs and
+other needs (1 placement, Unit 5 Lesson 3, part 2 "Our needs",
+printed p. 45 — basic needs that cannot be done without: food,
+water, housing, clothing, versus non-basic needs such as games,
+computers and tourism, sorted through a family supermarket
+dialogue) and Work and its different forms (1 placement, Unit 5
+Lesson 3 "I love to work", printed p. 40 — the importance of
+work and its different forms, the most important jobs in my
+country, and a profession defined as a job built on knowledge
+and experience). UAE's own way: economics begins in Grade 1
+inside the work lesson — needs sorted at the supermarket shelf,
+then the child's own dirham coins named by value. Economics
+lessons: 376 → 378.
