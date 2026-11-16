@@ -1,6 +1,6 @@
 # Sources — Impressionism
 
-countries: Maldives, Sudan, Brazil
+countries: Maldives, Sudan, Brazil, Armenia
 
 **Book 1:** *Exploring Creative Arts 4* (student book, English) — Maldives, National Institute of Education, Ministry of Education, Malé, Maldives; © 2025, first published 2025; ISBN 978-99915-0-956-3 (paperback); development editor Shirumeen Ahmed; printed by M7 Print Pvt. Ltd. Based on the Creative Arts in the National Curriculum syllabus, 2022. 93 PDF pp (printed pp. 1–81 plus acknowledgements and back cover; cover verified — two children painting at easels). Verdict: COMPLETE. Read in full as extracted text in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/maldives-placements.md. The book's glossary (printed pp. 79–81) is inventory only, named here and never stocked as parts.
 
@@ -18,8 +18,15 @@ countries: Maldives, Sudan, Brazil
 | Brazil — Folha 7 — Monet's Rouen Cathedral series: the same façade painted again and again as the light changes (student book; original target `visual-art/impressionism`) | Book 3, printed p. 122 |
 | Brazil — Folha 17 — Impressionism: contours dissolved, shadow painted in the complementary colour instead of black, working outdoors (Monet); shading an orange first with black, then with cyan (student book; original target `visual-art/impressionism`) | Book 3, printed p. 282 |
 
-**Acceptance count: taught in 3 countries (Maldives, Sudan, Brazil).**
+**Book 4:** *Արվեստ 11 (Art 11)* (student book, Armenian) — Armenia, not printed in the extracted front matter; year not printed in the extracted front matter; ISBN not printed in the extracted front matter. Grade: 11 (student/teacher: STUDENT). PDF pages: 196 (cover verified against the record title; byte size 49,701,682 matches the release index exactly; fetched via the recorded ministry source_url). Verdict: COMPLETE — the full text layer was read: preface, the Renaissance opening chapters and the complete contents (printed p. 192). Authors: Elena Gyulmisaryan, Anush Aslibekyan, Artur Avanesov, Siranuysh Galstyan, Ani Hakobyan. The integrated grade-11 survey runs century by century — Renaissance, 17th-18th centuries, 19th century — each in fine art, theatre, music and cinema, with an Armenian thread in every century. Armenia's own way: each century closes at home — the foundations of the Armenian new theatre, the Mkhitaryan school theatre, 19th-century Armenian classical music, and the Armenian painters: Aivazovsky, Bashinjaghyan, Hovnatanyan, Sureniants. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia — IMPRESSIONISM and POST-IMPRESSIONISM — inside the 19th-century European fine-art survey (Spain, France): Impressionism (printed p. 143) and Post-Impressionism (printed p. 151) given their own chapters (student book; original target `visual-art/impressionism`) | Book 4, printed p. 140 |
+
+
+**Acceptance count: taught in 4 countries (Maldives, Sudan, Brazil, Armenia).** Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/impressionism`); the Maldives placement was filed under the original string `visual-art/impressionism-and-impasto`, recorded in the provenance rows above.
 
-Searchable tags: impressionism, impasto, Monet, ocean wave, Maldives, Exploring Creative Arts 4, Brazil
+Searchable tags: impressionism, impasto, Monet, ocean wave, Maldives, Exploring Creative Arts 4, Brazil, Armenia

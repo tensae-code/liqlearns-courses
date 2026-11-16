@@ -1,6 +1,6 @@
 # Sources — Beat Instruments
 
-countries: Ethiopia, Malta, Colombia, Bulgaria, Libya, Angola, Bolivia
+countries: Ethiopia, Malta, Colombia, Bulgaria, Libya, Angola, Bolivia, Armenia
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 85 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -38,11 +38,18 @@ countries: Ethiopia, Malta, Colombia, Bulgaria, Libya, Angola, Bolivia
 |---|---|
 | Bolivia — Idiophones by the action that sounds them — clashed together (castanets, claves, cymbals); struck with stick or mallet (xylophone, bells, triangle); struck with hands or fingers; shaken (jingle bells, maracas, shaker); plucked (the kalimba or thumb piano, the jew's harp); and scraped (the anise bottle, the güira, the Tibetan bowl) — and, before all classification, the autófonos found sounding in nature (stones, branches, leaves) and the cotidiáfonos of everyday life (pens as drumsticks, tables, sticks) (teacher compendium — evidence) | Book 11, PDF pp. 20–21 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Colombia, Bulgaria, Angola, Bolivia).** Malta is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count.
+**Book 12:** *Երաժշտություն 1 — Հանրակրթական հիմնական դպրոցի 1-ին դասարանի դասագիրք (Music 1, grade 1 textbook)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2025; ISBN 978-9939-99-259-4. Grade: 1 (student/teacher: STUDENT). PDF pages: 68 (cover/title page verified against the record title; image-only book, read visually page by page on contact sheets; fetched via the recorded ministry source_url after grab.py tree returned 404 — the file is held in GitHub Releases, not the tree — and grab.py url stalled through the proxy; byte size 40,792,586 matches the release index exactly). Verdict: COMPLETE Authors: Marine Avetisyan (Ախալախյան in title page listing: Մարինե Ավալախյան), Artur Avanesov. The book teaches by singing, listening (QR-linked recordings) and moving: two mascot figures mark sing / listen / play activities on every spread. Excluded per brief: the closing song list (Երգերի ցանկ, printed pp. 62-64) is inventory only; the guide's revision lessons 30-31 and 57-60 (անցած նյութի կրկնություն) are revision, not placed. Armenia's own way: a first music book built almost wholly from Armenian folk songs and Armenian composers (Komitas above all), organised by the seasons of the child's own year — sun, moon, birds, autumn, winter feasts, spring, Easter, summer. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia — Rain and beat instruments — the rain page pictures maracas, tambourine and drum: shaken and struck instruments that sound like weather; listening: Pashinyan's "Andzrev" (student book; original target `music/beat-instruments`) | Book 12, printed p. 22 |
+
+
+**Acceptance count: taught in 6 countries (Ethiopia, Colombia, Bulgaria, Angola, Bolivia, Armenia).** Malta is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 The Grade 3 closing exercise asks whether the atamo is one of the church beat instruments; the book's own §2.1.2 teaching places the atamo in secular music, and the lesson teaches that — the exercise item is carried in sources only, exactly as printed, and is not taught as church use. The bell, qachil and tsenatsil are named in this lesson's set because the book lists them in it; their teaching lives in the Church Instruments lesson, from the same page.
 
-Searchable tags: beat instruments, percussion, atamo, አታሞ, kebero, ከበሮ, negarit, ነጋሪት, proclamation drum, Malta, Music Shines, Colombia
+Searchable tags: beat instruments, percussion, atamo, አታሞ, kebero, ከበሮ, negarit, ነጋሪት, proclamation drum, Malta, Music Shines, Colombia, Armenia
 
 **Book 5:** *Музика за първи клас (Music for First Grade), by Адриан Георгиев, Ангелина Петрова, Мая Андасорова, Рая Ковачева* (student book, Bulgarian) — Bulgaria, ИК „РИВА“ АД, Sofia; year 2016 (2nd ed. 2018); ISBN 978-619-225-022-5. Grade: 1 (student/teacher: STUDENT). PDF pages: 68 (cover verified; byte size 20,284,508 and page count match the record exactly — this file's first two download attempts failed on the slow uchebnicite.bg server and it was completed by range-resume in this run). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
 

@@ -1,6 +1,6 @@
 # Sources — Ancient Egyptian Art
 
-countries: Uganda, Brazil, Venezuela
+countries: Uganda, Brazil, Venezuela, Armenia
 
 **Book 1:** *Art and Design Textbook — Senior One (Lower Secondary Curriculum), PROTOTYPE* (student book, English) — Uganda, National Curriculum Development Centre (NCDC), Uganda, 2020 (file dated 11/05/2020), no ISBN printed, Senior One (= Grade 8), 86 PDF pp. STUDENT — student book. Verdict: COMPLETE — with one book fault: the contents lists the Ancient Art chapter as "Chapter 10" while the chapter itself is numbered Chapter 9 in its body (figures 9.1, activities 9.1–9.3); there is no Chapter 9 in the contents and no separate Chapter 10 body. Chapter summaries and end-of-chapter activities are the book's own study apparatus — the teaching sections are placed, the summaries are not separate placements. The repo tree path is a PHANTOM PUSH (grab.py tree returned HTTP 404); the book was fetched from the recorded NCDC source_url with resumable downloads and verified by cover and pdfinfo, and the downloaded copy is staged under the push-don't-delete rule at its phase3-staging record path (books.json record already exists there). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/uganda-placements.md.
 
@@ -21,8 +21,21 @@ countries: Uganda, Brazil, Venezuela
 | Venezuela — Escultura egipcia: Egyptian sculpture — statues as the Ka, the magical double of the dead; the law of frontality, one leg forward in march; reliefs of court scenes, rituals and hunts in granite, basalt, diorite and wood (student book) | Book 3, printed p. 74 |
 | Venezuela — Pintura egipcia: Egyptian painting on ceramics, papyri and tomb walls — flat, without shading, in natural earth colours; the law of torsion: face in profile, eye and trunk front-on, legs in profile; enamel work on jewels (student book) | Book 3, printed p. 74 |
 
-**Acceptance count: taught in 3 countries (Uganda, Brazil, Venezuela).**
+**Book 4:** *ԱՐՎԵՍՏ 10 — Հանրակրթական ավագ դպրոցի 10-րդ դասարանի դասագիրք (Art 10, textbook for grade 10 of general senior school)* (student book, Armenian) — Armenia, Zangak («Զանգակ» հրատարակչություն), Yerevan; year 2024; ISBN 978-9939-99-192-4. Grade: 10 (student/teacher: STUDENT). PDF pages: 196 (cover/title page verified against the record title; read in place from phase3-staging, 44,553,049 bytes — matches the books.json file_size_bytes). Verdict: COMPLETE Authors: Artur Avanesov, Elena Gyulmisaryan, Anush Aslibekyan, Tatevik Shakhkulyan, Ani Hakobyan. Approved by the RA Ministry of Education, Science, Culture and Sport. Library debt noted: the GitHub release asset under this same filename is 8,402,447 bytes — the older Կերպարվեստ 10 file pushed under the shared name (already recorded in the Armenia checklist, 2026-11-05 refill scan); the staged 44.5 MB Արվեստ 10 is the book read here. Armenia's own way: a one-volume history of all the arts — world art from prehistory to Japan, with Armenia woven through it on its own terms: the Van (Urartu) kingdom, Hellenism in Armenia, Armenian medieval music, khaz notation, miniature painting and medieval theatre each get their own chapters. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia — Ancient Egypt (Հին Եգիպտոս) — Egyptian painting, sculpture and building and the beliefs they served (student book; original target `visual-art/ancient-egyptian-art`) | Book 4, printed p. 34 |
+
+**Book 5:** *Արվեստ 10 — Մեթոդական ուղեցույց (Art 10, methodological guide)* (teacher guide, Armenian) — Armenia, not printed in the extracted front matter; year not printed in the extracted front matter; ISBN not printed in the extracted front matter. Grade: 10 (student/teacher: TEACHER). PDF pages: 30 (title verified; byte size 15,292,939 matches the release index exactly; fetched via the recorded ministry source_url). Verdict: PARTIAL — the introduction, aims, textbook-structure and discussion-method chapters were read in full; the assessment rubrics (printed pp. 22-24) are apparatus, named not placed; the recommended-literature list (pp. 25-28) is inventory only. Author: Artur Avanesov — a co-author of the textbook it serves (Book 38, read complete). The guide explains the 2023 standard for the integrated "Arvest" subject: an elective-based course where the arts are met as one continuous story. Armenia's own way: among the stated aims, a special place is expressly reserved for national art inside the world survey. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia — The ancient-world section (teacher-guide evidence) — its separate texts turn to Ancient Egypt, the Aegean and Ancient Greece (sculpture among them) (teacher guide — evidence; original target `visual-art/ancient-egyptian-art`) | Book 5, printed p. 13 |
+
+
+**Acceptance count: taught in 4 countries (Uganda, Brazil, Venezuela, Armenia).** Armenia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/ancient-egyptian-art`); the Uganda placement was filed under the original string recorded in the provenance rows above, resolved by slug-registry Part 2 to this lesson. Uganda's own way: art is learned from the natural environment — materials are gathered from the surroundings, African styles are to be adapted into the learner's own work, and basketry is taught as a functional craft of the cultural setting, made for use and for sale.
 
-Searchable tags: ancient Egypt, pyramids, sphinx, Egyptian painting, Nile boats, Uganda, Brazil
+Searchable tags: ancient Egypt, pyramids, sphinx, Egyptian painting, Nile boats, Uganda, Brazil, Armenia

@@ -1,6 +1,6 @@
 # Sources — Pop Music
 
-countries: United Kingdom, Cuba, Moldova
+countries: United Kingdom, Cuba, Moldova, Armenia
 
 **Book 1:** *Edexcel GCSE (9–1) Anthology of Music* (student book, English), edited by Julia Winterson — United Kingdom, Pearson Education Ltd with Peters Edition Ltd and Faber Music Ltd, 2016 (first published 2016), ISBN 978-1-292-11838-3, Grade 10 (GCSE, Years 10–11), 97 PDF pp. Verdict: COMPLETE — all 97 pages read (score pages placed as study summaries only; no notation or song lyrics transcribed). Read from the scanned page images at the book's recorded source (Internet Archive item `edexcel-gcse-9-1-anthology-of-music`, 97 pages, matching the record) in the 2026-11-16 Art expansion read, because the recorded GitHub copy is a PHANTOM PUSH — marked pushed but absent from the tree and the releases, so it could not be fetched by the tree route (see the placements file). Placements at liqlearns-courses-work/expansion-art-2026-11-16/united-kingdom-placements.md. The book's Glossary of Key Words (printed pp. 90–93) is inventory only, named here and never stocked as parts.
 
@@ -23,11 +23,18 @@ countries: United Kingdom, Cuba, Moldova
 | Moldova — Unit 2, Muzica și natura — Michael Jackson's "Earth Song", a pop song sung as a prayer for the Earth (student book; original target `music/light-music`) | Book 5, printed p. 29 |
 | Moldova — Unit 4, song "Hai să fim fericiți" — "Let's be happy", a children's pop song from the "Do-re-mi Show" repertoire, its meaning found first by singing it on onomatopoeias without the words (student book; original target `music/light-music`) | Book 5, printed pp. 64–65 |
 
-**Acceptance count: taught in 2 countries (United Kingdom, Moldova).** Cuba is added as a student book, inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 6:** *Երաժշտություն 8 (Music 8)* (student book, Armenian) — Armenia, not printed in the extracted front matter; year not printed in the extracted front matter; ISBN not printed in the extracted front matter. Grade: 8 (student/teacher: STUDENT). PDF pages: 106 (cover verified against the record title; byte size 43,616,457 matches the release index exactly; fetched via the recorded ministry source_url). Verdict: PARTIAL — the book is image-only (no text layer); read visually on contact sheets: the opening genre survey and Blues chapters and the pop chapters in full, the rest sampled; the theme frame is confirmed by its teacher guide (Book 31, read complete): contemporary genres, ethnic music, modern arrangements of classical and folk works, author and urban songs. Author: Ruzanna Yesayan (per the guide). Armenia's own way: the contemporary survey is told as "in the world AND in Armenia" from its first page — Armenian jazz stands in the opening concert programme beside blues, jazz, rock and British beat. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia — The "King of Pop" — Michael Jackson (1958-2009): the Jackson 5 boy who became the best-selling artist; "Thriller" (1982), "Billie Jean" with the moonwalk, "Beat It" — pop music as world culture (student book; original target `music/pop-music`) | Book 6, printed p. 57 |
+
+
+**Acceptance count: taught in 3 countries (United Kingdom, Moldova, Armenia).** Cuba is added as a student book, inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/pop-music`); the United Kingdom placements were filed under the original string `music/killer-queen-verse-chorus-pop-song`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. The scores in the Anthology are placed as study summaries only — no notation or song lyrics are transcribed in this lesson. The United Kingdom's own way, carried in the placements: music is learned by appraising eight fixed set works — following the printed score while listening, after short teaching notes on period context, structure and what to listen for.
 
-Searchable tags: pop music, Queen, Killer Queen, Freddie Mercury, verse and chorus, 12/8, multi-tracking, overdubbing, United Kingdom, GCSE Anthology of Music
+Searchable tags: pop music, Queen, Killer Queen, Freddie Mercury, verse and chorus, 12/8, multi-tracking, overdubbing, United Kingdom, GCSE Anthology of Music, Armenia
 
 **Book 2:** *Las músicas de Cuba y del mundo — Educación Musical, sexto grado* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2025; ISBN 978-959-13-5171-5 (print) / 978-959-13-5185-2 (digital). Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 170. Verdict: COMPLETE. Songs placed by title, genre and purpose only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
 

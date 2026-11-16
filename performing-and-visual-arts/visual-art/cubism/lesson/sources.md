@@ -1,6 +1,6 @@
 # Sources — Cubism
 
-countries: Haiti, Sudan, Moldova
+countries: Haiti, Sudan, Moldova, Armenia
 
 **Book 1:** *EEA — Programme du 3e cycle (7e à 9e AF) — Éducation Esthétique et Artistique (EEA)* (teacher programme, French) — Haiti, Ministère de l'Éducation Nationale et de la Formation Professionnelle (MENFP), Direction Enseignement Fondamental (DEF), 2024 (« version définitive, 28 juillet 2024 » per the record; cover marked Tous Droits Réservés 2024–2025), no ISBN printed, Grades 7e à 9e AF combined, French, 63 PDF pp (3,278,166 bytes, matching the record's size_bytes). TEACHER — teacher programme. Verdict: COMPLETE — read in place in staging (cover verified against the record title — EEA programme cover, 3e cycle 7e à 9e AF). The common part for all subjects (PDF pp. 1–22) is out of scope and was not placed. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/haiti-placements.md. **Teacher programme — EVIDENCE only, kept outside the acceptance count.**
 
@@ -19,8 +19,15 @@ countries: Haiti, Sudan, Moldova
 |---|---|
 | Moldova — Unit IV §19 — Cubism (1907, Picasso and Braque): the spatial planes dissolved, objects built from cube, cylinder and cone and shown from several angles at once, in a limited colour range, without the laws of linear or aerial perspective (student book; original target `visual-art/cubism`) | Book 3, printed p. 58 |
 
-**Acceptance count: taught in 2 countries (Sudan, Moldova). Before Sudan, this lesson stood on Haiti teacher-guide / teacher-programme evidence only, named here, counted nowhere.** Moldova is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 4:** *Կերպարվեստ 9 (Fine Arts 9)* (student book, Armenian) — Armenia, not printed in the extracted front matter; year not printed in the extracted front matter; ISBN not printed in the extracted front matter. Grade: 9 (student/teacher: STUDENT). PDF pages: 178 (cover verified against the record title; byte size 9,346,630 matches the release index exactly; fetched via the recorded ministry source_url). Verdict: COMPLETE Authors: Ara Hakobyan (doctor of art studies, professor), Syuzanna Grigoryan. A deep art-history and technique course: drawing, the architectural orders, museums, carpets, stained glass, biblical themes in painting, stage design, seasons in landscape, carnival masks, Delacroix, Cézanne and Cubism, still life and Vanitas, restoration, book illustration, Armenian masters (Adamyan, Khanjian, Minas), pop art, the portrait and self-portrait. Armenia's own way: Armenian art is a co-author of the course — the Vishapagorg dragon carpet as the nation's value system in wool, Zakar Zakarian's still lifes in a French museum, Yakulov's stage designs, Khanjian's mixed-technique travel works, and Minas Avetisyan closing the book under Saryan's blessing. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia — CUBISM — Cézanne's still life with apples and oranges (1895-1900) and his "Card Players"; Braque's "Houses at L'Estaque" (1908); Picasso — painter, sculptor, ceramist, stage designer: "Les Demoiselles d'Avignon" (1907), "Girl with a Mandolin" (1910), "Woman's Head: Fernande" (1909); Cubism also influenced Armenian fine art; task: make your own cubist work from a famous piece (student book; original target `visual-art/cubism`) | Book 4, printed p. 97 |
+
+
+**Acceptance count: taught in 3 countries (Sudan, Moldova, Armenia). Before Sudan, this lesson stood on Haiti teacher-guide / teacher-programme evidence only, named here, counted nowhere.** Moldova is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/cubism`); the Haiti placements were filed under the original strings recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Haiti's own way, carried in the placements: EEA is built in three volets — arts plastiques et visuels, arts de la scène (mainly music), and knowledge of Haitian culture and heritage (patrimoine haïtien) — taught in atelier sequences that make, analyse and verbalise, rooted in Haiti's own art forms. Every part of this lesson is labelled evidence; no student-textbook claim is made for it.
 
-Searchable tags: cubism, geometric forms, natural forms, Vèvès, decomposition, Haiti
+Searchable tags: cubism, geometric forms, natural forms, Vèvès, decomposition, Haiti, Armenia

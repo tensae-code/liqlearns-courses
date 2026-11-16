@@ -1,6 +1,6 @@
 # Sources — Shapes, Forms and Patterns in Colour
 
-countries: Ethiopia, Maldives, Uganda, Bhutan, Serbia, Mozambique, Pakistan, Fiji, Belarus, Papua New Guinea, Jordan, Libya, Mongolia, Afghanistan, Rwanda, Bolivia, Moldova, Indonesia
+countries: Ethiopia, Maldives, Uganda, Bhutan, Serbia, Mozambique, Pakistan, Fiji, Belarus, Papua New Guinea, Jordan, Libya, Mongolia, Afghanistan, Rwanda, Bolivia, Moldova, Indonesia, Armenia
 
 **Book 1:** *Grade 4 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 4ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–100. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-student-placements.md.
 
@@ -120,11 +120,19 @@ countries: Ethiopia, Maldives, Uganda, Bhutan, Serbia, Mozambique, Pakistan, Fij
 |---|---|
 | Indonesia — Bab IV — drawing a favourite animal, folding and cutting coloured paper into new shapes, a geometric patchwork (quilt dari kain perca) picture, and decorating the letters of one's own name with line, shape and colour (teacher guide — evidence; original target `visual-art/shapes-forms-and-patterns-in-colour`) | Book 29, printed p. 129 |
 
-**Acceptance count: taught in 15 countries (Ethiopia, Maldives, Uganda, Bhutan, Serbia, Mozambique, Pakistan, Fiji, Belarus, Jordan, Mongolia, Afghanistan, Rwanda, Bolivia, Moldova).** Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 30:** *Կերպարվեստ 1 — Աշխատանքային տետր (Fine Arts 1, workbook)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2025 (companion to the 2025 programme); ISBN not printed in the extracted front matter. Grade: 1 (student/teacher: STUDENT). PDF pages: 64 (cover verified against the record title; byte size 11,036,742 matches the release index exactly; fetched via the recorded ministry source_url, grab.py routes as for Book 1). Verdict: COMPLETE Authors: Mariam Petrosyan, Marine Manukyan. A draw-and-colour workbook: every spread gives a thing to complete, colour, join or model, marked with listen / describe / draw activity signs. Armenia's own way: the alphabet itself is drawing material — the child depicts the Armenian letters and colours Easter eggs, so first art and first literacy grow together. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia — The seasons of the year — spring, summer, autumn, winter told apart by their colours and shapes (student book; original target `visual-art/shapes-forms-and-patterns-in-colour`) | Book 30, printed p. 25 |
+| Armenia — FORM (ՁԵՎ) — things have different forms; mosaic pictures coloured piece by piece (student book; original target `visual-art/shapes-forms-and-patterns-in-colour`) | Book 30, printed p. 28 |
+
+
+**Acceptance count: taught in 16 countries (Ethiopia, Maldives, Uganda, Bhutan, Serbia, Mozambique, Pakistan, Fiji, Belarus, Jordan, Mongolia, Afghanistan, Rwanda, Bolivia, Moldova, Armenia).** Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 The Grade 2 teacher-guide part is cited at section level only (§§1.4–1.5, printed pp. 12–22) because that guide is a scan with no text layer and two of its contents entries are partly degraded in the scan — the placements say so, and the lesson claims no body wording from it. The fraction work is taught as the Grade 4 book's own question — into how many parts is the circle divided, and what fraction is the blue part — without importing a fraction curriculum from outside the placements.
 
-Searchable tags: Maldives, Exploring Creative Arts 4, shapes in colour, ዝርግ ቅርፅ, forms, patterns, fractions through drawing, pictorial composition, stories through pictures, locality practice, Bhutan, Papua New Guinea, Rwanda
+Searchable tags: Maldives, Exploring Creative Arts 4, shapes in colour, ዝርግ ቅርፅ, forms, patterns, fractions through drawing, pictorial composition, stories through pictures, locality practice, Bhutan, Papua New Guinea, Rwanda, Armenia
 
 
 **Book 14:** *التربية الفنية والموسيقية والمسرحية — الصف الأول (Art, Music and Theatre Education — Grade 1)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (first experimental edition, for school year 2024/2025); ISBN 978-9923-41-691-4. Grade: 1 (student/teacher: STUDENT). PDF pages: 76 (cover/title page verified against the record title; byte size 40,406,311 matches record exactly; printed page numbers = PDF page numbers). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.

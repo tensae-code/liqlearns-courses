@@ -2494,7 +2494,48 @@ Rwanda's twelve placement-bearing books (Creative Arts Fine
   ornament, and the roll of Syrian artists from Mahmoud Hammad and
   Nazem al-Jaafari to Duaa al-Bastati.
 
-**The whole course stands at 803 lessons, 9,873 questions and
+- **Art expansion — Armenia (2026-11-16):** 522 placements stocked from
+  48 placement-bearing books (25 student books and 23 teacher guides,
+  Armenian, Grades 1–12 plus the Grade 5 Music pair filed at the end
+  of the placements file): 438 student-book placements counted and
+  84 teacher-guide placements as evidence only, kept outside the
+  acceptance counts; 383 into existing and already-built canonical
+  lessons, and 139 into 41 NEW lessons (Music: Komitas, Aram
+  Khachaturian, Armenian Folk Songs, Armenian Folk and Celebration
+  Songs, Armenian National Instruments, Armenian Sacred Music and
+  Sharakan Hymns, Armenian Khaz Notation, Armenian Medieval Music,
+  Armenian Classical Music, Armenian Urban Songs, Ashugh Minstrel
+  Art, Collecting Folk Songs, Folk Songs from Around the World,
+  Gregorian Chant and Medieval Music, How Music Expresses and Makes
+  Us Feel, Lullabies, Medieval Secular Music and the Estampie,
+  Sayat-Nova, Song Forms: Choir, Romance and Cantata, Story Songs,
+  The Transient and the Eternal in Music; Visual Art: Aegean Art,
+  Armenian Carpet Weaving, Armenian Miniature Painting, Art
+  Restoration, Hellenistic Art, Khachkar Carving, Martiros Saryan,
+  Minas Avetisyan, Armenian Painter, Sergei Parajanov Collage,
+  Vordan Karmir: Armenian Red Dye; Drama and Dance: Armenian
+  National Dances, Armenian Opera, Armenian Theatre Through
+  History, Japanese Noh and Kabuki Theatre, Kochari: Armenian
+  Dance, Shushiki: Armenian Solo Dance; Culture and Values: Ancient
+  Armenian Art, Armenian Heritage Arts and Places, Arts of Many
+  Cultures, Sasna Tsrer Epic in Art), 492 questions added, media as
+  described slots only. Honesty carried exactly as filed: Armenia is
+  PARTIAL-grade — most of its books are PARTIAL reads as named in
+  their headers, and every book entry carries its header's read
+  status exactly; Book 11 (Grade 3
+  Music teacher guide) is a duplicate of the student book — the real
+  guide was never secured — and carries no placements; Book 13's
+  release asset is an incomplete .part file (134,770,688 B of
+  471,267,402 B); Book 38's release asset is the older edition file
+  under the shared name. Songs are placed by title, subject and
+  composer only, never transcribed; glossaries are inventory only.
+  Armenia's own way is kept as named parts throughout: Komitas and
+  the folk-song collectors, the duduk, blul, dhol and kamancha,
+  Kochari, Govnd and Ververi, the khachkar, Toros Roslin's
+  miniatures, Martiros Saryan and Minas Avetisyan, the Sasna Tsrer
+  epic, Zvartnots and Erebuni.
+
+**The whole course stands at 844 lessons, 10,365 questions and
 210 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 

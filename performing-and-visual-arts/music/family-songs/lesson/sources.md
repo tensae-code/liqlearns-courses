@@ -1,6 +1,6 @@
 # Sources — Family Songs
 
-countries: Ethiopia, Albania, Turkmenistan, Belarus, Bulgaria, Jordan, Libya, Angola, Rwanda, Malaysia, Moldova, Syria
+countries: Ethiopia, Albania, Turkmenistan, Belarus, Bulgaria, Jordan, Libya, Angola, Rwanda, Malaysia, Moldova, Syria, Armenia
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -88,11 +88,18 @@ countries: Ethiopia, Albania, Turkmenistan, Belarus, Bulgaria, Jordan, Libya, An
 | Syria — Lesson 4 "Grandmothers' Tales" — singing for our grandmother, and cutting the pictures to tell one of the grandmothers' tales (student book; original target `music/family-songs`) | Book 20, printed p. 12 |
 | Syria — Lesson 21 "A Family Party" — visiting relatives — "I will visit my grandfather" — listening to a music piece and getting to know its composer (student book; original target `music/family-songs`) | Book 20, printed p. 50 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Turkmenistan, Belarus, Bulgaria, Jordan, Angola, Malaysia, Moldova, Syria).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 21:** *Երաժշտություն 1 — Հանրակրթական հիմնական դպրոցի 1-ին դասարանի դասագիրք (Music 1, grade 1 textbook)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2025; ISBN 978-9939-99-259-4. Grade: 1 (student/teacher: STUDENT). PDF pages: 68 (cover/title page verified against the record title; image-only book, read visually page by page on contact sheets; fetched via the recorded ministry source_url after grab.py tree returned 404 — the file is held in GitHub Releases, not the tree — and grab.py url stalled through the proxy; byte size 40,792,586 matches the release index exactly). Verdict: COMPLETE Authors: Marine Avetisyan (Ախալախյան in title page listing: Մարինե Ավալախյան), Artur Avanesov. The book teaches by singing, listening (QR-linked recordings) and moving: two mascot figures mark sing / listen / play activities on every spread. Excluded per brief: the closing song list (Երգերի ցանկ, printed pp. 62-64) is inventory only; the guide's revision lessons 30-31 and 57-60 (անցած նյութի կրկնություն) are revision, not placed. Armenia's own way: a first music book built almost wholly from Armenian folk songs and Armenian composers (Komitas above all), organised by the seasons of the child's own year — sun, moon, birds, autumn, winter feasts, spring, Easter, summer. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia — "Im mayrik" (My mother, Jbyan/Muradyan) — a song honouring mother above sun, moon and stars (student book; original target `music/family-songs`) | Book 21, printed p. 48 |
+
+
+**Acceptance count: taught in 10 countries (Ethiopia, Turkmenistan, Belarus, Bulgaria, Jordan, Angola, Malaysia, Moldova, Syria, Armenia).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 No lyrics of any family song are transcribed; the songs are named and their messages summarised, as the placements give them. The same holds for Sub lesson 4's "ልጅነቴ" (My Childhood), added by Group G: named, sourced (ህይወት ማሞ, traditional melody) and summarised — never transcribed. The written-notes step is named and explained in words only — this lesson does not teach reading the notes themselves; that belongs to the notation lessons of Group E.
 
-Searchable tags: family songs, mother, father, sister, brother, እናቴ, አባቴ, እህቴ, ወንድሜ, ቤተሰብ, ቤተሰቦቻችን, singing from notes, ልጅነቴ, my childhood, ህይወት ማሞ, Rwanda, Syria
+Searchable tags: family songs, mother, father, sister, brother, እናቴ, አባቴ, እህቴ, ወንድሜ, ቤተሰብ, ቤተሰቦቻችን, singing from notes, ልጅነቴ, my childhood, ህይወት ማሞ, Rwanda, Syria, Armenia
 
 **Book 10:** *Музика за първи клас (Music for First Grade), by Адриан Георгиев, Ангелина Петрова, Мая Андасорова, Рая Ковачева* (student book, Bulgarian) — Bulgaria, ИК „РИВА“ АД, Sofia; year 2016 (2nd ed. 2018); ISBN 978-619-225-022-5. Grade: 1 (student/teacher: STUDENT). PDF pages: 68 (cover verified; byte size 20,284,508 and page count match the record exactly — this file's first two download attempts failed on the slow uchebnicite.bg server and it was completed by range-resume in this run). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
 

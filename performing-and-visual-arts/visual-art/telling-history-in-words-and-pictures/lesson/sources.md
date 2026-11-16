@@ -1,6 +1,6 @@
 # Sources — Telling History in Words and Pictures
 
-countries: Ethiopia, Suriname, Syria
+countries: Ethiopia, Suriname, Syria, Armenia
 
 **Book 1:** *Grade 6 Performing and Visual Arts Teacher Guide* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. Writers: Tibebu Woldeyohannes, Yirga Qumelachew, Yohannes Sebsebie. 96 PDF pages; printed front matter I–VI + body and syllabus to printed p. 119. Read in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-teacher-placements.md.
 
@@ -26,8 +26,15 @@ countries: Ethiopia, Suriname, Syria
 |---|---|
 | Syria — Lesson 5 "Expressive and Symbolic Drawings" — creating a visual subject with artistic expressions and symbols (student book; original target `first-steps/telling-a-story-with-pictures`) | Book 4, printed p. 18 |
 
-**Acceptance count: taught in 1 country (Syria).** Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 5:** *ԱՐՎԵՍՏ 10 — Հանրակրթական ավագ դպրոցի 10-րդ դասարանի դասագիրք (Art 10, textbook for grade 10 of general senior school)* (student book, Armenian) — Armenia, Zangak («Զանգակ» հրատարակչություն), Yerevan; year 2024; ISBN 978-9939-99-192-4. Grade: 10 (student/teacher: STUDENT). PDF pages: 196 (cover/title page verified against the record title; read in place from phase3-staging, 44,553,049 bytes — matches the books.json file_size_bytes). Verdict: COMPLETE Authors: Artur Avanesov, Elena Gyulmisaryan, Anush Aslibekyan, Tatevik Shakhkulyan, Ani Hakobyan. Approved by the RA Ministry of Education, Science, Culture and Sport. Library debt noted: the GitHub release asset under this same filename is 8,402,447 bytes — the older Կերպարվեստ 10 file pushed under the shared name (already recorded in the Armenia checklist, 2026-11-05 refill scan); the staged 44.5 MB Արվեստ 10 is the book read here. Armenia's own way: a one-volume history of all the arts — world art from prehistory to Japan, with Armenia woven through it on its own terms: the Van (Urartu) kingdom, Hellenism in Armenia, Armenian medieval music, khaz notation, miniature painting and medieval theatre each get their own chapters. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia — What does art tell about the past and the future? — art as evidence of past life and a window on what comes next (student book; original target `visual-art/telling-history-in-words-and-pictures`) | Book 5, printed p. 17 |
+
+
+**Acceptance count: taught in 2 countries (Syria, Armenia).** Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Honesty notes: This lesson rests ONLY on the Grade 6 teacher's guide (Addis Ababa City Administration Education Bureau, © 2014 E.C.) — a different bureau's guide from the Amhara-bureau student book beside it in Telling History with Illustration. The placements file summarises the guide's two sections by their titles, scope and page spans; the lesson teaches the craft at exactly that level and invents no narration rules, examples or quotations the placements do not give. Both parts are labelled teacher-guide evidence in the table, in the lesson text, and in the plan.
 
-Searchable tags: narration, ታሪክ እንዴት ይተረካል, written history in pictures, የተጻፈ ታሪኮችን በዕይታ ጥበባት ማብራራት, storytelling technique, teacher guide evidence, Syria
+Searchable tags: narration, ታሪክ እንዴት ይተረካል, written history in pictures, የተጻፈ ታሪኮችን በዕይታ ጥበባት ማብራራት, storytelling technique, teacher guide evidence, Syria, Armenia

@@ -1,6 +1,6 @@
 # Sources — Circle Dances and Traditional Steps
 
-countries: Ethiopia, Nicaragua, Singapore, Iceland, Turkmenistan, Cuba, Venezuela, Angola, Mongolia
+countries: Ethiopia, Nicaragua, Singapore, Iceland, Turkmenistan, Cuba, Venezuela, Angola, Mongolia, Armenia
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -36,11 +36,25 @@ countries: Ethiopia, Nicaragua, Singapore, Iceland, Turkmenistan, Cuba, Venezuel
 |---|---|
 | Mongolia — Ёохор (the yokhor — the Buryat-Mongol round dance) (student book; original target `drama-and-dance/circle-dances-and-traditional-steps`) | Book 9, printed p. 65 |
 
-**Acceptance count: taught in 5 countries(Ethiopia, Turkmenistan, Venezuela, Angola, Mongolia). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 10:** *Երաժշտություն 1 — Հանրակրթական հիմնական դպրոցի 1-ին դասարանի դասագիրք (Music 1, grade 1 textbook)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2025; ISBN 978-9939-99-259-4. Grade: 1 (student/teacher: STUDENT). PDF pages: 68 (cover/title page verified against the record title; image-only book, read visually page by page on contact sheets; fetched via the recorded ministry source_url after grab.py tree returned 404 — the file is held in GitHub Releases, not the tree — and grab.py url stalled through the proxy; byte size 40,792,586 matches the release index exactly). Verdict: COMPLETE Authors: Marine Avetisyan (Ախալախյան in title page listing: Մարինե Ավալախյան), Artur Avanesov. The book teaches by singing, listening (QR-linked recordings) and moving: two mascot figures mark sing / listen / play activities on every spread. Excluded per brief: the closing song list (Երգերի ցանկ, printed pp. 62-64) is inventory only; the guide's revision lessons 30-31 and 57-60 (անցած նյութի կրկնություն) are revision, not placed. Armenia's own way: a first music book built almost wholly from Armenian folk songs and Armenian composers (Komitas above all), organised by the seasons of the child's own year — sun, moon, birds, autumn, winter feasts, spring, Easter, summer. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia — Circle dance (Շուրջպար): the folk songs "Hoy Nar" and "Hop, tri" sung for dancing in a ring; listening: Khachatryan's "Tsatkatsaran", Pashinyan's and Barseghyan's "Shurjpar" (student book; original target `drama-and-dance/circle-dances-and-traditional-steps`) | Book 10, printed p. 23 |
+| Armenia — Summer and its feasts: the folk dance-song "Hoy, Nare" and the "Hambardzman erg" (Ascension song) — dancing out of doors at the summer feasts (student book; original target `drama-and-dance/circle-dances-and-traditional-steps`) | Book 10, printed p. 61 |
+
+**Book 11:** *Երաժշտություն 1 — Մեթոդական ուղեցույց (Music 1, methodological guide)* (teacher guide, Armenian) — Armenia, Zangak, Yerevan; year 2025; ISBN not separately printed in the extracted front matter. Grade: 1 (student/teacher: TEACHER). PDF pages: 192 (cover verified against the record title; byte size 21,358,086 matches the release index exactly; fetched via the recorded ministry source_url, grab.py routes as for Book 1). Verdict: COMPLETE Authors: Sarine Avetandilyan, Artur Avanesov. The guide opens with Komitas's 1912 lecture words on music as the child's balanced upbringing, then gives the subject standard, the full 60-lesson table for the student book, a song-teaching methodology, and a description of every lesson; the appendix (printed pp. 130-188) is sheet music for the book's songs — inventory only, not placed. Armenia's own way: the guide insists first-grade songs be in the mother tongue and folk-rooted, foreign songs saved for higher grades; singing is taught unaccompanied where possible so nothing harms the music. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia — Kochari taught step by step (teacher-guide evidence) — the guide teaches the basic movements of the Kochari dance and dances it to Khosrovyan's arrangement, inside the "Our country" lessons (teacher guide — evidence; original target `drama-and-dance/circle-dances-and-traditional-steps`) | Book 11, printed p. 102 |
+
+
+**Acceptance count: taught in 6 countries (Ethiopia, Turkmenistan, Venezuela, Angola, Mongolia, Armenia). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Nothing flagged. The circle song is named and its movement taught; its words are not transcribed beyond the title the placement gives.
 
-Searchable tags: circle dance, እንሽከረከራለን, Enshikerekeralen, traditional dance steps, facing dancers, group performance, Grade 1, Nicaragua, Iceland, Dægurspor
+Searchable tags: circle dance, እንሽከረከራለን, Enshikerekeralen, traditional dance steps, facing dancers, group performance, Grade 1, Nicaragua, Iceland, Dægurspor, Armenia
 
 **Book 6:** *Orientaciones Metodológicas — Educación Musical, quinto grado* (teacher guide, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4689-6 (print) / 978-959-13-4690-2 (digital). Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 172. Verdict: COMPLETE. Evaluation guidance and bibliographies excluded as filed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 

@@ -1,6 +1,6 @@
 # Sources — Literary Elements of Drama
 
-countries: Ethiopia, Colombia, Venezuela, Indonesia
+countries: Ethiopia, Colombia, Venezuela, Indonesia, Armenia
 
 **Book 1:** *Grade 8 Performing and Visual Arts Teacher's Guide Book* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, March 2022, printed pp. 1–110 as promised by its contents; the library file is TRUNCATED — its body holds printed pp. 1–56 plus syllabus tables, and Units 4–5 are placed from its contents and syllabus only. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-teacher-placements.md.
 
@@ -24,8 +24,15 @@ countries: Ethiopia, Colombia, Venezuela, Indonesia
 |---|---|
 | Indonesia — BAB I Lakon — the lakon — the play as a complete structure, the foundation every staging is built on (teacher guide — evidence; original target `drama-and-dance/literary-elements-of-drama`) | Book 4, printed p. 15 |
 
-**Acceptance count: taught in 2 countries (Colombia, Venezuela).** Ethiopia teacher-guide evidence is named here, counted nowhere. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 5:** *ԱՐՎԵՍՏ 10 — Հանրակրթական ավագ դպրոցի 10-րդ դասարանի դասագիրք (Art 10, textbook for grade 10 of general senior school)* (student book, Armenian) — Armenia, Zangak («Զանգակ» հրատարակչություն), Yerevan; year 2024; ISBN 978-9939-99-192-4. Grade: 10 (student/teacher: STUDENT). PDF pages: 196 (cover/title page verified against the record title; read in place from phase3-staging, 44,553,049 bytes — matches the books.json file_size_bytes). Verdict: COMPLETE Authors: Artur Avanesov, Elena Gyulmisaryan, Anush Aslibekyan, Tatevik Shakhkulyan, Ani Hakobyan. Approved by the RA Ministry of Education, Science, Culture and Sport. Library debt noted: the GitHub release asset under this same filename is 8,402,447 bytes — the older Կերպարվեստ 10 file pushed under the shared name (already recorded in the Armenia checklist, 2026-11-05 refill scan); the staged 44.5 MB Արվեստ 10 is the book read here. Armenia's own way: a one-volume history of all the arts — world art from prehistory to Japan, with Armenia woven through it on its own terms: the Van (Urartu) kingdom, Hellenism in Armenia, Armenian medieval music, khaz notation, miniature painting and medieval theatre each get their own chapters. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia — Ancient Greek drama; the Greek tragedians — tragedy and its great writers (student book; original target `drama-and-dance/literary-elements-of-drama`) | Book 5, printed p. 74 |
+
+
+**Acceptance count: taught in 3 countries (Colombia, Venezuela, Armenia).** Ethiopia teacher-guide evidence is named here, counted nowhere. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This lesson stands on the Grade 8 teacher guide (printed pp. 8–10) as labelled evidence; the topic sits in the guide's full body (Units 1–3).
 
-Searchable tags: Aristotle, literary elements, plot, climax, denouement, Grade 8 teacher guide, evidence, Colombia
+Searchable tags: Aristotle, literary elements, plot, climax, denouement, Grade 8 teacher guide, evidence, Colombia, Armenia

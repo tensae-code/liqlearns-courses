@@ -1,6 +1,6 @@
 # Sources — The Value of Practising Music
 
-countries: Ethiopia, Mongolia
+countries: Ethiopia, Mongolia, Armenia
 
 **Book 1:** *Grade 4 Performing and Visual Arts Teacher Guide (፬ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed front matter i–iii + body to printed p.62 + syllabus to printed p.93. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-teacher-placements.md.
 
@@ -27,8 +27,15 @@ countries: Ethiopia, Mongolia
 |---|---|
 | Mongolia — Бүлэг II, 2.4: Хөгжимдье (Let's play music — playing from notation on melodica/keyboard: finger numbers, the F-key notes, and the chords C, Dm, Em, F, G, Am) (student book; original target `music/the-value-of-practising-music`; PARTIAL — grade part placed from the full chapter structure with section openings sampled, as filed) | Book 4, printed p. 61 |
 
-**Acceptance count: taught in 1 country (Mongolia).** Mongolia is added as student-book stock (see its rows above), inside the acceptance count; the earlier evidence-only entries stay outside the acceptance count.
+**Book 5:** *Երաժշտություն 1 — Մեթոդական ուղեցույց (Music 1, methodological guide)* (teacher guide, Armenian) — Armenia, Zangak, Yerevan; year 2025; ISBN not separately printed in the extracted front matter. Grade: 1 (student/teacher: TEACHER). PDF pages: 192 (cover verified against the record title; byte size 21,358,086 matches the release index exactly; fetched via the recorded ministry source_url, grab.py routes as for Book 1). Verdict: COMPLETE Authors: Sarine Avetandilyan, Artur Avanesov. The guide opens with Komitas's 1912 lecture words on music as the child's balanced upbringing, then gives the subject standard, the full 60-lesson table for the student book, a song-teaching methodology, and a description of every lesson; the appendix (printed pp. 130-188) is sheet music for the book's songs — inventory only, not placed. Armenia's own way: the guide insists first-grade songs be in the mother tongue and folk-rooted, foreign songs saved for higher grades; singing is taught unaccompanied where possible so nothing harms the music. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia — Methodology of teaching songs (Երգերի ուսուցման մեթոդաբանություն) (teacher-guide evidence) — how a song is taught by voice, hearing, speech and rhythm work, step by step (teacher guide — evidence; original target `music/the-value-of-practising-music`) | Book 5, printed p. 26 |
+
+
+**Acceptance count: taught in 1 country (Mongolia).** Mongolia is added as student-book stock (see its rows above), inside the acceptance count; the earlier evidence-only entries stay outside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This lesson stands on teacher-guide evidence only and is labelled so throughout. The guide placement rests on its contents/syllabus for Chapter 4's opening (§4.1, pp. 63–64 in the contents); the teaching is carried at that level and no finer wording is claimed.
 
-Searchable tags: value of practising music, practice, steadiness accuracy confidence, teacher guide evidence
+Searchable tags: value of practising music, practice, steadiness accuracy confidence, teacher guide evidence, Armenia

@@ -1,6 +1,6 @@
 # Sources — Melody and Musical Phrases
 
-countries: Malaysia, Moldova
+countries: Malaysia, Moldova, Armenia
 
 **Book 1:** *Pendidikan Kesenian Tahun 4 Sekolah Kebangsaan (Kurikulum Standard Sekolah Rendah, Semakan 2017)* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2019 (Cetakan Pertama 2019); ISBN 978-983-49-2474-8 (as printed on the copyright spread) Tahun 4 / Grade 4 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 57 scan spreads = 108 printed pages (cover/title page verified against the record title; the PDF's internal metadata title "Buku Teks Muzik Tahun 4" is a scanner artefact — the printed cover and contents are Pendidikan Kesenian) Verdict: COMPLETE. Exclusions named: Glosari Seni Visual (printed p. 104) and Glosari Seni Muzik (printed p. 106) — glossaries, inventory-only, not placed. The two term-end exhibition/performance projects (Projek Kesenian Penggal Satu, printed p. 4; Penggal Dua, printed p. 54) are placed below as appreciation/exhibition teaching, not as assessment. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
 
@@ -41,8 +41,15 @@ countries: Malaysia, Moldova
 | Moldova — Unit 2, Melodia — melody, the chief means of musical expression: the composer's thought carried by a line of sounds shaped by rhythm, tempo, dynamics, mode and timbre (student book; original target `music/melody-the-soul-of-music`) | Book 6, printed p. 44 |
 | Moldova — Unit 3, Organizarea ideilor muzicale — the building blocks: the motif, smallest element; the phrase of two or more motifs; the period of two phrases, question and answer (student book; original target `music/structure-of-a-melody`) | Book 6, printed p. 50 |
 
-**Acceptance count: taught in 2 countries (Malaysia, Moldova).** Moldova is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 7:** *Երաժշտություն 3 (Music 3)* (student book, Armenian) — Armenia, Arevik, Yerevan; year 2024; ISBN not printed in the extracted front matter. Grade: 3 (student/teacher: STUDENT). PDF pages: 104 (cover verified against the record title; byte size 24,767,407 matches the release index exactly; fetched via the recorded ministry source_url). Verdict: COMPLETE (appendix, printed pp. 88-101, is sheet music — inventory only, not placed). Authors: Anahit Gevorgyan, Ani Baghdasaryan, Gohar Meliksetyan. Themes: "What does music tell about" (intonation), "What joins speech and music", "Children's operas", "The symphony orchestra and its instruments", "Armenian national-folk" — with composer letters from Grieg, Komitas and Khachaturian. Armenia's own way: a whole closing theme is Armenia's own — the ritual songs of Great Lent, Easter and Hambardzum (Ascension), the wedding songs, and the national instruments named one by one: qamani, kamancha, sring, shvi, duduk, blul, zurna, tar, dhol. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia — Theme 2: What joins speech and music — the "Musical alphabet" song (Ohanyan) divided into motives, phrases and sentences: how a melody is built like speech (student book; original target `music/melody-and-accompaniment`) | Book 7, printed p. 25 |
+
+
+**Acceptance count: taught in 3 countries (Malaysia, Moldova, Armenia).** Moldova is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/melody-and-musical-phrases`). The Malaysia placements were filed as NEW LESSON NEEDED under the original string(s) `music/melodic-contour-and-development`, `music/question-and-answer-melodies`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Malaysia's own way is the lesson itself where the topic is Malaysian: the country's own music, dances, crafts and art forms are kept as named parts. Songs are placed by title and theme only, never transcribed.
 
-Searchable tags: Malaysia, Creating question phrases and answer phrases (frasa soalan dan frasa, Melodic question and answer, Melody and Musical Phrases, Melody craft
+Searchable tags: Malaysia, Creating question phrases and answer phrases (frasa soalan dan frasa, Melodic question and answer, Melody and Musical Phrases, Melody craft, Armenia

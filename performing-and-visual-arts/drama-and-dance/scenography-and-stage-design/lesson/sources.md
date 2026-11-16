@@ -1,6 +1,6 @@
 # Sources — Scenography and Stage Design
 
-countries: Serbia, Brazil, Bulgaria, Venezuela, Malaysia, Indonesia
+countries: Serbia, Brazil, Bulgaria, Venezuela, Malaysia, Indonesia, Armenia
 
 **Book 1:** *Ликовна култура — за 2. разред основне школе (Likovna kultura / Visual Culture — for Grade 2 of primary school)* (student book, Serbian) — Serbia, by др Рајка Бошковић (Dr Rajka Bošković); Завод за уџбенике (Zavod za udžbenike), Београд, and АрхиКњига (Arhiknjiga), Стара Пазова; first edition 2019 (the Arhiknjiga issue ©2021); ISBN 978-86-17-20168-3; approved for Grade 2 use by ministerial decision 650-02-00159/2019-07 of 21 May 2019, Grade 2, 56 PDF pp. (the printed book has 55 pages). STUDENT — student book. Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read (image-only PDF read visually from page renders). The record's title adds "и окружење" (and environment) — the curriculum area name, which the book's Part One carries as its title. Named, not placed: the three part summaries "НАУЧИЛИ СМО ДА..." (We learned that..., printed pp. 14, 42, 54), the closing contents (printed p. 55) and colophon — inventory only; the think boxes (РАЗМИСЛИ...) are discussion prompts folded into their lessons. Placements at liqlearns-courses-work/expansion-art-2026-11-16/serbia-placements.md.
 
@@ -51,11 +51,18 @@ countries: Serbia, Brazil, Bulgaria, Venezuela, Malaysia, Indonesia
 |---|---|
 | Indonesia — Bab V Merancang Tata Artistik Panggung Teater — designing the stage's artistic arrangement — analysing and noting the script's needs (property, lighting, make-up), sketching the stage design, then building the stage background with its full artistic arrangement (teacher guide — evidence; original target `drama-and-dance/stage-artistic-design`) | Book 10, printed p. 201 |
 
-**Acceptance count: taught in 5 countries (Serbia, Brazil, Bulgaria, Venezuela, Malaysia).** Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 11:** *Կերպարվեստ 9 (Fine Arts 9)* (student book, Armenian) — Armenia, not printed in the extracted front matter; year not printed in the extracted front matter; ISBN not printed in the extracted front matter. Grade: 9 (student/teacher: STUDENT). PDF pages: 178 (cover verified against the record title; byte size 9,346,630 matches the release index exactly; fetched via the recorded ministry source_url). Verdict: COMPLETE Authors: Ara Hakobyan (doctor of art studies, professor), Syuzanna Grigoryan. A deep art-history and technique course: drawing, the architectural orders, museums, carpets, stained glass, biblical themes in painting, stage design, seasons in landscape, carnival masks, Delacroix, Cézanne and Cubism, still life and Vanitas, restoration, book illustration, Armenian masters (Adamyan, Khanjian, Minas), pop art, the portrait and self-portrait. Armenia's own way: Armenian art is a co-author of the course — the Vishapagorg dragon carpet as the nation's value system in wool, Zakar Zakarian's still lifes in a French museum, Yakulov's stage designs, Khanjian's mixed-technique travel works, and Minas Avetisyan closing the book under Saryan's blessing. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia — STAGE DESIGN (բեմանկարչություն) — at the 20th century's start stage design entered an innovative phase; Georgi Yakulov: decor for Prokofiev's ballet "The Steel Step" (1927), the "Hamlet" staging design, a costume sketch for the "Carmen" ballet (1923); in 1918 he co-founded Moscow's Armenian Drama Studio and designed Paronyan's "The Honourable Beggars" (1924) (student book; original target `drama-and-dance/stage-design`) | Book 11, printed p. 51 |
+
+
+**Acceptance count: taught in 6 countries (Serbia, Brazil, Bulgaria, Venezuela, Malaysia, Armenia).** Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `drama-and-dance/scenography-and-stage-design`); the Serbia placements were filed under the original string(s) `drama-and-dance/stage-space-and-scenography`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Serbia's own way: scenography is taught from the Greek open stage at Epidaurus, where nature completed the set, to the child's own group-built stage of foils, fabrics, mirrors and LED strips.
 
-Searchable tags: scenography, stage design, stage space, Epidaurus, stage lighting, backdrops, special effects, Serbia, Brazil
+Searchable tags: scenography, stage design, stage space, Epidaurus, stage lighting, backdrops, special effects, Serbia, Brazil, Armenia
 
 **Book 4:** *Изобразително изкуство за 9. клас (Fine Arts for Grade 9)* (student book, Bulgarian) — Bulgaria, Педагог 6 (Pedagog 6), Sofia; year 2024 (Second Edition; approved by Order РД 09-384/09.02.2024 of the Minister of Education and Science); ISBN 978-954-324-333-4. Authors: доц. д-р Мариета Петрова Савчева-Ангелова, Елена Веселинова Панайотова, доц. д-р Анна Илчева Цоловска, проф. д-р Благомир Кирилов Папазов. Grade: 9 (student/teacher: STUDENT). PDF pages: 34 (cover/title page verified against the record title; 38,891,240 bytes and 34 pages match the record exactly). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
 

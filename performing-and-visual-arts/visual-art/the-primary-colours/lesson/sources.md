@@ -1,7 +1,7 @@
 # Sources — The Primary Colours
 
 
-countries: Ethiopia, Barbados, Nicaragua, Pakistan, Fiji, Colombia, Iran, Jordan, Angola, Afghanistan, Rwanda, Moldova, Syria
+countries: Ethiopia, Barbados, Nicaragua, Pakistan, Fiji, Colombia, Iran, Jordan, Angola, Afghanistan, Rwanda, Moldova, Syria, Armenia
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -70,11 +70,18 @@ countries: Ethiopia, Barbados, Nicaragua, Pakistan, Fiji, Colombia, Iran, Jordan
 |---|---|
 | Syria — Lesson 3 "The Primary Colours and Their Derivatives" — the primary colours are the colours the artist cannot derive from other colours; formations where the primaries mix and overlap with lines (student book; original target `first-steps/primary-and-secondary-colours`) | Book 17, printed p. 11 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Pakistan, Fiji, Colombia, Iran, Jordan, Angola, Afghanistan, Rwanda, Moldova, Syria). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 18:** *Կերպարվեստ 1 — Աշխատանքային տետր (Fine Arts 1, workbook)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2025 (companion to the 2025 programme); ISBN not printed in the extracted front matter. Grade: 1 (student/teacher: STUDENT). PDF pages: 64 (cover verified against the record title; byte size 11,036,742 matches the release index exactly; fetched via the recorded ministry source_url, grab.py routes as for Book 1). Verdict: COMPLETE Authors: Mariam Petrosyan, Marine Manukyan. A draw-and-colour workbook: every spread gives a thing to complete, colour, join or model, marked with listen / describe / draw activity signs. Armenia's own way: the alphabet itself is drawing material — the child depicts the Armenian letters and colours Easter eggs, so first art and first literacy grow together. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia — COLOUR (ԳՈՒՅՆ) — there are three main colours: the primary colours introduced (student book; original target `visual-art/the-primary-colours`) | Book 18, printed p. 11 |
+
+
+**Acceptance count: taught in 12 countries (Ethiopia, Pakistan, Fiji, Colombia, Iran, Jordan, Angola, Afghanistan, Rwanda, Moldova, Syria, Armenia). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Sub lesson 5 rests on teacher-guide evidence only for its own content (the Grade 3 teacher guide's basic-colours lesson and colour framework); it is labelled as evidence in the part name, in the lesson text and in this table. The lesson as a whole stands on the Grade 3 student textbook, so the acceptance count counts pupil-taught content. The song "መስራች ቀለማት" is named and its teaching summarised only — its words are not transcribed; the song is sung in the Music unit's Primary Colours Song lesson. The Grade 3 chapter summary's closing exercise carries the check item "green is a primary colour — false", which the question stock uses.
 
-Searchable tags: primary colours መስራች, red yellow blue, basic colours, mother and father of colours, sorting colours, Ethiopia Grade 3 colours, Nicaragua, Colombia, Rwanda, Syria
+Searchable tags: primary colours መስራች, red yellow blue, basic colours, mother and father of colours, sorting colours, Ethiopia Grade 3 colours, Nicaragua, Colombia, Rwanda, Syria, Armenia
 
 
 **Book 9:** *التربية الفنية والموسيقية والمسرحية — الصف الأول (Art, Music and Theatre Education — Grade 1)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (first experimental edition, for school year 2024/2025); ISBN 978-9923-41-691-4. Grade: 1 (student/teacher: STUDENT). PDF pages: 76 (cover/title page verified against the record title; byte size 40,406,311 matches record exactly; printed page numbers = PDF page numbers). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.

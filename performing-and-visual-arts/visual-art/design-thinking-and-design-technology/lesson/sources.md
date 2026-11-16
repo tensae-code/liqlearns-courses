@@ -1,6 +1,6 @@
 # Sources — Design Thinking and Design Technology
 
-countries: Sudan, Bulgaria, Saudi Arabia, Indonesia
+countries: Sudan, Bulgaria, Saudi Arabia, Indonesia, Armenia
 
 **Book 1:** *الفنون والتصميم (Arts & Design) — الصف الثالث الثانوي (Third Secondary Year), Secondary Stage (التعليم الثانوي)* (student book, Arabic) — Sudan, National Center for Curricula and Educational Research (المركز القومي للمناهج والبحث التربوي), Bakht Al-Ruda — Republic of Sudan, Ministry of Education; prepared by a committee chaired by Prof. Mohamed Al-Amin Ali (University of Juba, College of Arts and Humanities) with Abdul Basit Abdullah Al-Khatim, Mohamed Mohamed Idris (University of Sudan, College of Arts) and Dr. Khidir Mohamed Othman (NCCR); revised edition 2007 (الطبعة المنقحة ٢٠٠٧م); ISBN 978-99942-53-7-4; legal deposit 788/2008, Grade 12, 161 PDF pp. STUDENT. Verdict: COMPLETE — read in full, page by page. Named in the header, not placed: Book 1's closing "Exercise" (printed p. 35) and Book 4's opening "Revision Exercises" (printed p. 102) are assessment; Book 5, "The Study Plan" (printed pp. 150–154), is syllabus tables — apparatus, not teaching content. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sudan-placements.md.
 
@@ -20,11 +20,18 @@ countries: Sudan, Bulgaria, Saudi Arabia, Indonesia
 |---|---|
 | Indonesia — Bab II Mengenal Design Thinking untuk Menemukan Gagasan dalam Berkarya — design thinking as the way to find ideas for artworks — empathising, observing surroundings and experimenting toward a concept (teacher guide — evidence; original target `visual-art/design-thinking-for-artmaking`) | Book 4, printed p. 55 |
 
-**Acceptance count: taught in 3 countries (Sudan, Bulgaria, Saudi Arabia).** Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 5:** *Կերպարվեստ 3 (Fine Arts 3)* (student book, Armenian) — Armenia, Zangak, Yerevan (ministry-approved); year not printed in the extracted front matter; ISBN not printed in the extracted front matter. Grade: 3 (student/teacher: STUDENT). PDF pages: 72 (cover verified against the record title; byte size 89,615,518 matches the release index exactly; fetched via the recorded ministry source_url). Verdict: COMPLETE (the closing word-list, printed p. 70, is a glossary — inventory only, not placed). Authors: Mariam Petrosyan, Marine Manukyan. The grade-2 module frame deepened: Creation (watercolour, clay), Elements and design principles (volume, space, proportion), Innovation and imagination (realistic, landscape, portrait, abstract, imaginary), Presentation and critical response, Connections (art history: the kinds of art; the role of art; monuments and museums; a shadow-theatre project). Armenia's own way: the year's monuments are Armenia's storytellers — the statues of Sasuntsi Davit and Mesrop Mashtots "tell stories" — and the final project is a shadow theatre the class builds and posters itself. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia — Project "A flower for mother" — watercolour and line-pencil work planned and made as a gift (student book; original target `visual-art/projects-with-purpose`) | Book 5, printed p. 12 |
+
+
+**Acceptance count: taught in 4 countries (Sudan, Bulgaria, Saudi Arabia, Armenia).** Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/design-thinking-and-design-technology`); the Sudan placements were filed under the original strings recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Sudan's own way is kept as the named sub lessons above.
 
-Searchable tags: design thinking and design technology, Sudan
+Searchable tags: design thinking and design technology, Sudan, Armenia
 
 **Book 2:** *Изобразително изкуство за 10. клас (Fine Arts for Grade 10)* (student book, Bulgarian) — Bulgaria, Педагог 6 (Pedagog 6), Sofia; year 2024 (Second Edition; approved by Order РД 09-2189/05.09.2023 of the Minister of Education and Science); ISBN 978-954-324-334-1. Authors: доц. д-р Мариета Савчева-Ангелова, Елена Панайотова, Виолета Георгиева, проф. д-р Благомир Папазов. Grade: 10 (student/teacher: STUDENT). PDF pages: 34 (cover/title page verified against the record title; 38,346,738 bytes and 34 pages match the record exactly). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
 

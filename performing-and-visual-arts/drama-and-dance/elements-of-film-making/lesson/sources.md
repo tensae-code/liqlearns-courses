@@ -1,6 +1,6 @@
 # Sources — Elements of Film Making
 
-countries: Ethiopia, Serbia, Suriname, Venezuela
+countries: Ethiopia, Serbia, Suriname, Venezuela, Armenia
 
 **Book 1:** *Grade 8 Performing and Visual Arts Teacher's Guide Book* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, March 2022, printed pp. 1–110 as promised by its contents; the library file is TRUNCATED — its body holds printed pp. 1–56 plus syllabus tables, and Units 4–5 are placed from its contents and syllabus only. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-teacher-placements.md.
 
@@ -28,8 +28,23 @@ countries: Ethiopia, Serbia, Suriname, Venezuela
 | Venezuela — Cine en América Latina: Latin American cinema's rise — Mexico's industrial production projected across the continent, rooted in its social and aesthetic identity: El Indio Fernández's María Candelaria and the films of Mario Moreno "Cantinflas" (student book) | Book 6, printed pp. 217–218 |
 | Venezuela — Cine en el siglo XX: 20th-century cinema — silent masters (Buñuel, Eisenstein, Wiene, Chaplin); cinema consolidating as art, industry and entertainment; the hegemonic North American industry, European cinema, and the cinemas of India, China, Japan, Korea, Iran and Latin America; digital editing deepening science fiction (student book) | Book 6, printed pp. 226–227 |
 
-**Acceptance count: taught in 2 countries (Serbia, Venezuela). Ethiopia teacher-guide evidence is named here, counted nowhere.** Suriname is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 7:** *ԱՐՎԵՍՏ 10 — Հանրակրթական ավագ դպրոցի 10-րդ դասարանի դասագիրք (Art 10, textbook for grade 10 of general senior school)* (student book, Armenian) — Armenia, Zangak («Զանգակ» հրատարակչություն), Yerevan; year 2024; ISBN 978-9939-99-192-4. Grade: 10 (student/teacher: STUDENT). PDF pages: 196 (cover/title page verified against the record title; read in place from phase3-staging, 44,553,049 bytes — matches the books.json file_size_bytes). Verdict: COMPLETE Authors: Artur Avanesov, Elena Gyulmisaryan, Anush Aslibekyan, Tatevik Shakhkulyan, Ani Hakobyan. Approved by the RA Ministry of Education, Science, Culture and Sport. Library debt noted: the GitHub release asset under this same filename is 8,402,447 bytes — the older Կերպարվեստ 10 file pushed under the shared name (already recorded in the Armenia checklist, 2026-11-05 refill scan); the staged 44.5 MB Արվեստ 10 is the book read here. Armenia's own way: a one-volume history of all the arts — world art from prehistory to Japan, with Armenia woven through it on its own terms: the Van (Urartu) kingdom, Hellenism in Armenia, Armenian medieval music, khaz notation, miniature painting and medieval theatre each get their own chapters. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia — Cinema art (Կինոարվեստ) — film introduced as the youngest combined art (student book; original target `drama-and-dance/elements-of-film-making`) | Book 7, printed p. 13 |
+| Armenia — Films about the ancient world: "Cleopatra" (1963), "Pharaoh" (1966), "Spartacus" (1960) — reading history films by Mankiewicz, Mamoulian, Kawalerowicz and Kubrick (student book; original target `drama-and-dance/elements-of-film-making`) | Book 7, printed p. 112 |
+| Armenia — "The Brave Heart" (Քաջ սիրտը) — a film studied as a work of cinema art (student book; original target `drama-and-dance/elements-of-film-making`) | Book 7, printed p. 176 |
+
+**Book 8:** *«Երաժշտություն» (Music), 5-րդ դասարան* (student book, Armenian) — Armenia (Armenia placements file section 48 of 49 — filed there as 'Book 1 — Armenia G5 Music student'), «Արևիկ» (Arevik), Yerevan; year 2023; ISBN 978-5-8077-0905-9 (ISMN 979-0-69380-365-1). Grade: 5 (student/teacher: STUDENT). PDF pages: 126 (cover/title page verified against the record title — title page shows "5 ԵՐԱԺՇՏՈՒԹՅՈՒՆ", Arevik, Yerevan 2023). Verdict: COMPLETE Armenia's own way: the whole book is built on how music relates to the other arts — literature, fine art, dance, theatre, cinema, media and the computer — with Armenian folk songs, Armenian composers and Komitas woven through every theme; songs are named and summarised only, never transcribed. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia — Theme 2.2: Music and cinema — cinema as a synthetic visual art resting on script, décor, acting and music; silent film and the first sound film (1928); Armenian cinema and the Hayfilm studio (student book; original target `drama-and-dance/elements-of-film-making`) | Book 8, printed pp. 84–91 |
+
+
+**Acceptance count: taught in 3 countries (Serbia, Venezuela, Armenia). Ethiopia teacher-guide evidence is named here, counted nowhere.** Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This lesson stands on the Grade 8 teacher guide (printed pp. 5–6) as labelled evidence. The G8 guide's Units 4–5 are EVIDENCE-LIMITED (contents + syllabus only); this topic sits in the guide's full body (Units 1–3), so it is labelled teacher-guide evidence without the limited tag.
 
-Searchable tags: film making, camera shots, mise-en-scène, lighting, editing, Grade 8 teacher guide, evidence
+Searchable tags: film making, camera shots, mise-en-scène, lighting, editing, Grade 8 teacher guide, evidence, Armenia

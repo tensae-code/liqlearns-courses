@@ -1,6 +1,6 @@
 # Sources — What Theatre Is
 
-countries: Ethiopia, Egypt, Nicaragua, Trinidad and Tobago, Suriname, Iran, Jordan, Venezuela, Malaysia, Moldova, Indonesia
+countries: Ethiopia, Egypt, Nicaragua, Trinidad and Tobago, Suriname, Iran, Jordan, Venezuela, Malaysia, Moldova, Indonesia, Armenia
 
 **Book 1:** *Grade 4 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 4ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–100. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-student-placements.md.
 
@@ -53,13 +53,26 @@ countries: Ethiopia, Egypt, Nicaragua, Trinidad and Tobago, Suriname, Iran, Jord
 |---|---|
 | Indonesia — Bab I Selisik Teater — delving into theatre — what theatre is, its forms and how a performance is put together, investigated closely (teacher guide — evidence; original target `drama-and-dance/what-theatre-is`) | Book 12, printed p. 23 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Egypt, Iran, Jordan, Venezuela, Malaysia, Moldova). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 13:** *ԱՐՎԵՍՏ 10 — Հանրակրթական ավագ դպրոցի 10-րդ դասարանի դասագիրք (Art 10, textbook for grade 10 of general senior school)* (student book, Armenian) — Armenia, Zangak («Զանգակ» հրատարակչություն), Yerevan; year 2024; ISBN 978-9939-99-192-4. Grade: 10 (student/teacher: STUDENT). PDF pages: 196 (cover/title page verified against the record title; read in place from phase3-staging, 44,553,049 bytes — matches the books.json file_size_bytes). Verdict: COMPLETE Authors: Artur Avanesov, Elena Gyulmisaryan, Anush Aslibekyan, Tatevik Shakhkulyan, Ani Hakobyan. Approved by the RA Ministry of Education, Science, Culture and Sport. Library debt noted: the GitHub release asset under this same filename is 8,402,447 bytes — the older Կերպարվեստ 10 file pushed under the shared name (already recorded in the Armenia checklist, 2026-11-05 refill scan); the staged 44.5 MB Արվեստ 10 is the book read here. Armenia's own way: a one-volume history of all the arts — world art from prehistory to Japan, with Armenia woven through it on its own terms: the Van (Urartu) kingdom, Hellenism in Armenia, Armenian medieval music, khaz notation, miniature painting and medieval theatre each get their own chapters. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia — Theatre (Թատրոն) — theatre introduced as an art type (student book; original target `drama-and-dance/what-theatre-is`) | Book 13, printed p. 11 |
+
+**Book 14:** *«Երաժշտություն» (Music), 5-րդ դասարան* (student book, Armenian) — Armenia (Armenia placements file section 48 of 49 — filed there as 'Book 1 — Armenia G5 Music student'), «Արևիկ» (Arevik), Yerevan; year 2023; ISBN 978-5-8077-0905-9 (ISMN 979-0-69380-365-1). Grade: 5 (student/teacher: STUDENT). PDF pages: 126 (cover/title page verified against the record title — title page shows "5 ԵՐԱԺՇՏՈՒԹՅՈՒՆ", Arevik, Yerevan 2023). Verdict: COMPLETE Armenia's own way: the whole book is built on how music relates to the other arts — literature, fine art, dance, theatre, cinema, media and the computer — with Armenian folk songs, Armenian composers and Komitas woven through every theme; songs are named and summarised only, never transcribed. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia — Theme 2.1: Music and theatre — theatre as an art revealed through actors' play before an audience, built on literature, painting, sculpture, architecture, music and dance together; the actor as bearer of the artistic image (student book; original target `drama-and-dance/what-theatre-is`) | Book 14, printed p. 76 |
+
+
+**Acceptance count: taught in 8 countries (Ethiopia, Egypt, Iran, Jordan, Venezuela, Malaysia, Moldova, Armenia). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This lesson rests on the Grade 4 student book's own definition (§1.3). The book's performance picture (Fig. 1.12, printed p. 16) is described as a slot; it is not reproduced.
 
 Egypt's own way: school theatre (التربية المسرحية) is taught as a full subject through story-framed topics — each topic opens with a theatre game, tells a story, then teaches one theatre craft inside it, always tied to values and sustainable-development themes. The Grade 7 book's closing skills-tree self-tracking page (printed p. 49) is self-assessment apparatus — named in the placements, not placed.
 
-Searchable tags: theatre, definition, director, audience, Grade 4, §1.3, Egypt, school theatre, التربية المسرحية, Nicaragua
+Searchable tags: theatre, definition, director, audience, Grade 4, §1.3, Egypt, school theatre, التربية المسرحية, Nicaragua, Armenia
 
 
 **Book 7:** *التربية الفنية والموسيقية والمسرحية — الصف الأول (Art, Music and Theatre Education — Grade 1)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (first experimental edition, for school year 2024/2025); ISBN 978-9923-41-691-4. Grade: 1 (student/teacher: STUDENT). PDF pages: 76 (cover/title page verified against the record title; byte size 40,406,311 matches record exactly; printed page numbers = PDF page numbers). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.

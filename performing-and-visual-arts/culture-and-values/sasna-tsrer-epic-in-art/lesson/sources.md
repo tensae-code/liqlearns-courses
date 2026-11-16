@@ -1,0 +1,27 @@
+# Sources — Sasna Tsrer Epic in Art
+
+countries: Armenia
+
+**Book 1:** *Կերպարվեստ 5 (Fine Arts 5)* (student book, Armenian) — Armenia, Zangak, Yerevan; year not printed in the extracted front matter; ISBN not printed in the extracted front matter. Grade: 5 (student/teacher: STUDENT). PDF pages: 92 (cover verified against the record title; byte size 26,444,847 matches the release index exactly; fetched via the recorded ministry source_url). Verdict: PARTIAL — the book teaches mostly through pictures: every caption, task and text passage was read in full, but the many picture-only spreads (notably printed pp. 43-52 and 80-92) were sampled, not all viewed page by page. Authors: Lusine Ghazaryan, Margarita Margaryan, Araksya Ananyan. Armenia's own way: Armenian art carries the second half of the book — Minas Avetisyan's "Landscape with khachkars", the ornament belt of Etchmiadzin cathedral, Armenian blue ceramics, the Sasna Tsrer epic in Kochar's and Kojoyan's art, Toros Roslin, and the Matenadaran. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia — The EPIC (էպոս) in art — "the epic is the splendid treasury of the Armenian people's life": Yervand Kochar's illustrations and the Sasuntsi Davit statue (second version, set up 3 Dec 1959; the first, gypsum, 1939), Hakob Kojoyan's Davit, and Davit as a wall-relief (որմնաքանդակ) at the centre (student book; original target `culture-and-values/sasna-tsrer-epic-in-art`) | Book 1, printed p. 64 |
+
+**Book 2:** *Երաժշտություն 7 — հանրակրթական հիմնական դպրոցի 7-րդ դասարանի դասագիրք (Music 7, textbook for grade 7 of the general basic school)* (student book, Armenian) — Armenia, Yerevan; year 2023 (ministry-approved); ISBN not printed in the extracted front matter (ՀՏԴ/ԳՄԴ given as 000 placeholders). Grade: 7 (student/teacher: STUDENT). PDF pages: 120 (cover verified against the record title; fetched via the recorded ministry source_url — this record is NOT in the GitHub release index, so no release byte size exists to check against; the served file is 4,307,046 bytes). Verdict: COMPLETE (the dictionary, name index, place index and subject index, printed pp. 110-117, are inventory only, not placed). Author: Tatevik Shakhkulyan. Four sections: Armenian national songs and dances (pp. 3-54); Armenian ashugh art (pp. 55-76); Armenian composers' song art (pp. 77-92); Classical popular music (pp. 93-109). Armenia's own way: grade 7 is the Armenian year — folk genres one by one (peasant songs, dance-songs, wedding, feast and work songs, epic songs), the ashugh guild art with Sayat-Nova at its head, and only then the Viennese classics. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia — EPIC SONGS (վիպական երգեր) — tales sung since ancient times: the Sasna Tsrer epic, much of it sung in Davit's own voice; Kochar's painting "Sasuntsi Davit with Kurkik Jalali" (1939); hear the epic's sung fragments by the Kayt ensemble; gather the other nations' epics (student book; original target `culture-and-values/sasna-tsrer-epic-in-art`) | Book 2, printed p. 42 |
+
+**Book 3:** *Երաժշտություն 11 (Music 11)* (student book, Armenian) — Armenia, not printed in the extracted front matter; year not printed in the extracted front matter; ISBN not printed in the extracted front matter. Grade: 11 (student/teacher: STUDENT). PDF pages: 116 (cover verified against the record title; byte size 82,690,285 matches the release index exactly; fetched via the recorded ministry source_url). Verdict: PARTIAL — read through the text layer: introduction, the opera chapters in full and the composers'-school chapter opening; the closing chapters were sampled. The book is the story of Armenian opera and the Armenian composers' school. Author: Tatevik Shakhkulyan. Armenia's own way: a whole grade-11 music book for one national story — how opera was born in Florence, came to Armenia with Chukhajian, and grew an Armenian school: Spendiaryan, Stepanyan, Hovhannisyan, and the Sasna Tsrer epic sung on stage. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia — The SASNA TSRER epic on the opera stage — in folk music the epic was told and sung whole; in opera art the first turn to the "Sasna Tsrer" theme was Komitas's; Edgar Hovhannisyan (1930-1998) made the opera-ballet "Sasuntsi Davit" on the epic; Spendiaryan wrote no ballet, but ballets were made from his works (student book; original target `culture-and-values/sasna-tsrer-epic-in-art`) | Book 3, printed p. 25 |
+
+**Acceptance count: taught in 1 country (Armenia).**
+
+This is a canonical NEW lesson (slug-registry Part 1: `culture-and-values/sasna-tsrer-epic-in-art`). The Armenia placements were filed under the original string(s) `culture-and-values/sasna-tsrer-epic-in-art`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2 where the string differs. Armenia's own way is the lesson itself where the topic is Armenian: the country's own music, dances, crafts and art forms are kept as named parts. Songs are placed by title and theme only, never transcribed.
+
+Searchable tags: Armenia, Sasna Tsrer Epic in Art, The EPIC (էպոս) in art

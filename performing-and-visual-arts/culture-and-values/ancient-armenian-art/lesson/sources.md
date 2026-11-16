@@ -1,0 +1,22 @@
+# Sources — Ancient Armenian Art
+
+countries: Armenia
+
+**Book 1:** *Կերպարվեստ 6 (Fine Arts 6)* (student book, Armenian) — Armenia, not printed in the extracted front matter; year not printed in the extracted front matter; ISBN not printed in the extracted front matter. Grade: 6 (student/teacher: STUDENT). PDF pages: 76 (cover verified against the record title; byte size 14,311,605 matches the release index exactly; fetched via the recorded ministry source_url). Verdict: PARTIAL — the book is image-only (no text layer); read visually on contact sheets: Module 1 (materials: pastel) and the elements spreads (symmetry, texture patterns, contrast, accent) in full, the exhibition/response spreads and the closing art-history spreads (Zvartnots, Erebuni) in full; the middle modules were sampled, not viewed page by page. The module frame of grades 2-3 continued: Creation (materials and means), Elements of fine art and design, Innovation and imagination, Presentation (school and electronic exhibitions), Response, and Connections — art history ending in Armenia's own monuments. Armenia's own way: the art-history close is Zvartnots cathedral and the Erebuni fortress — the child reads a cuneiform inscription's contents list, learns how a sundial tells time, and models Zvartnots from cardboard. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia — EREBUNI (Էրեբունի) — at the end of the 19th century a cuneiform (սեպագիր) inscription stone was found on Arin Berd hill: Argishti's inscription, one of 23 cuneiform inscriptions found in Armenia; the fortress-city Erebuni-Yerevan and its painted walls (lions and the tree of life) (student book; original target `culture-and-values/erebuni-and-cuneiform`) | Book 1, printed p. 65 |
+
+**Book 2:** *ԱՐՎԵՍՏ 10 — Հանրակրթական ավագ դպրոցի 10-րդ դասարանի դասագիրք (Art 10, textbook for grade 10 of general senior school)* (student book, Armenian) — Armenia, Zangak («Զանգակ» հրատարակչություն), Yerevan; year 2024; ISBN 978-9939-99-192-4. Grade: 10 (student/teacher: STUDENT). PDF pages: 196 (cover/title page verified against the record title; read in place from phase3-staging, 44,553,049 bytes — matches the books.json file_size_bytes). Verdict: COMPLETE Authors: Artur Avanesov, Elena Gyulmisaryan, Anush Aslibekyan, Tatevik Shakhkulyan, Ani Hakobyan. Approved by the RA Ministry of Education, Science, Culture and Sport. Library debt noted: the GitHub release asset under this same filename is 8,402,447 bytes — the older Կերպարվեստ 10 file pushed under the shared name (already recorded in the Armenia checklist, 2026-11-05 refill scan); the staged 44.5 MB Արվեստ 10 is the book read here. Armenia's own way: a one-volume history of all the arts — world art from prehistory to Japan, with Armenia woven through it on its own terms: the Van (Urartu) kingdom, Hellenism in Armenia, Armenian medieval music, khaz notation, miniature painting and medieval theatre each get their own chapters. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia — Art of the Van Kingdom (Վանի թագավորության արվեստը) — the art of Urartu, the ancient kingdom of the Armenian highland: metalwork, fortresses, painting (student book; original target `culture-and-values/van-kingdom-urartu-art`) | Book 2, printed p. 45 |
+| Armenia — Hellenism in Armenia (Հելլենիզմը Հայաստանում) — how the Hellenistic world met Armenian art (student book; original target `culture-and-values/hellenism-in-armenia`) | Book 2, printed p. 81 |
+
+**Acceptance count: taught in 1 country (Armenia).**
+
+This is a canonical NEW lesson (slug-registry Part 1: `culture-and-values/ancient-armenian-art`). The Armenia placements were filed under the original string(s) `culture-and-values/erebuni-and-cuneiform`, `culture-and-values/hellenism-in-armenia`, `culture-and-values/van-kingdom-urartu-art`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2 where the string differs. Armenia's own way is the lesson itself where the topic is Armenian: the country's own music, dances, crafts and art forms are kept as named parts. Songs are placed by title and theme only, never transcribed.
+
+Searchable tags: Armenia, Ancient Armenian Art, EREBUNI (Էրեբունի)

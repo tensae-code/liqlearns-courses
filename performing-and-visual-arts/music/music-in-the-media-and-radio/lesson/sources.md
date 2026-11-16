@@ -1,6 +1,6 @@
 # Sources — Music in the Media and on Radio
 
-countries: Cuba
+countries: Cuba, Armenia
 
 **Book 1:** *Programa — Educación Musical, quinto grado* (teacher programme, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4654-4 (print) / 978-959-13-4655-1 (digital). Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 82. Verdict: COMPLETE. Songs placed by title, genre and purpose only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md. **Teacher programme — EVIDENCE only, kept outside the acceptance count.**
 
@@ -15,8 +15,15 @@ countries: Cuba
 |---|---|
 | Cuba — Chapter 1 — radio as an art medium: its stages, and the listening audience as the centre of radio programming (student book; original target `music/radio-programming-and-audiences`) | Book 2, printed pp. 53–54 |
 
-**Acceptance count: taught in 1 country (Cuba).**
+**Book 3:** *«Երաժշտություն» (Music), 5-րդ դասարան* (student book, Armenian) — Armenia (Armenia placements file section 48 of 49 — filed there as 'Book 1 — Armenia G5 Music student'), «Արևիկ» (Arevik), Yerevan; year 2023; ISBN 978-5-8077-0905-9 (ISMN 979-0-69380-365-1). Grade: 5 (student/teacher: STUDENT). PDF pages: 126 (cover/title page verified against the record title — title page shows "5 ԵՐԱԺՇՏՈՒԹՅՈՒՆ", Arevik, Yerevan 2023). Verdict: COMPLETE Armenia's own way: the whole book is built on how music relates to the other arts — literature, fine art, dance, theatre, cinema, media and the computer — with Armenian folk songs, Armenian composers and Komitas woven through every theme; songs are named and summarised only, never transcribed. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia — Theme 2.3: Music in the mass media — music and television: TV as the youngest and most widespread art form and a mass medium carrying events to millions (with the note that the first colour-TV system was created by an Armenian) (student book; original target `music/music-in-the-media`) | Book 3, printed p. 92 |
+
+
+**Acceptance count: taught in 2 countries (Cuba, Armenia).** Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/music-in-the-media-and-radio`); the Cuba placements were filed under the original string(s) `music/kinds-of-sound-media`, `music/radio-programming-and-audiences` and resolved to this lesson by slug-registry Part 2. Songs and stories are placed by summary only, never transcribed.
 
-Searchable tags: music in the media and on radio, Cuba
+Searchable tags: music in the media and on radio, Cuba, Armenia

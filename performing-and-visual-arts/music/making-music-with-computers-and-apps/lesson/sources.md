@@ -1,6 +1,6 @@
 # Sources — Making Music with Computers and Apps
 
-countries: United Kingdom, Haiti, Malaysia
+countries: United Kingdom, Haiti, Malaysia, Armenia
 
 **Book 1:** *Edexcel GCSE (9–1) Anthology of Music* (student book, English), edited by Julia Winterson — United Kingdom, Pearson Education Ltd with Peters Edition Ltd and Faber Music Ltd, 2016 (first published 2016), ISBN 978-1-292-11838-3, Grade 10 (GCSE, Years 10–11), 97 PDF pp. Verdict: COMPLETE — all 97 pages read (score pages placed as study summaries only; no notation or song lyrics transcribed). Read from the scanned page images at the book's recorded source (Internet Archive item `edexcel-gcse-9-1-anthology-of-music`, 97 pages, matching the record) in the 2026-11-16 Art expansion read, because the recorded GitHub copy is a PHANTOM PUSH — marked pushed but absent from the tree and the releases, so it could not be fetched by the tree route (see the placements file). Placements at liqlearns-courses-work/expansion-art-2026-11-16/united-kingdom-placements.md. The book's Glossary of Key Words (printed pp. 90–93) is inventory only, named here and never stocked as parts.
 
@@ -31,8 +31,15 @@ countries: United Kingdom, Haiti, Malaysia
 |---|---|
 | Malaysia — Units 3–5 — DAW work filed with the Book 10 studio strand: processing files, folios and editing (filed under the Book 10 lesson slug music/recording-and-daw) (student book; original target `music/recording-and-daw`) | Book 6, printed pp. 54, 64, 90 |
 
-**Acceptance count: taught in 2 country (United Kingdom, Malaysia).** Haiti is added as teacher guide / teacher programme — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 7:** *«Երաժշտություն» (Music), 5-րդ դասարան* (student book, Armenian) — Armenia (Armenia placements file section 48 of 49 — filed there as 'Book 1 — Armenia G5 Music student'), «Արևիկ» (Arevik), Yerevan; year 2023; ISBN 978-5-8077-0905-9 (ISMN 979-0-69380-365-1). Grade: 5 (student/teacher: STUDENT). PDF pages: 126 (cover/title page verified against the record title — title page shows "5 ԵՐԱԺՇՏՈՒԹՅՈՒՆ", Arevik, Yerevan 2023). Verdict: COMPLETE Armenia's own way: the whole book is built on how music relates to the other arts — literature, fine art, dance, theatre, cinema, media and the computer — with Armenian folk songs, Armenian composers and Komitas woven through every theme; songs are named and summarised only, never transcribed. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia — Music and the computer — the closing section of Theme 2 on the computer's possibilities for studying and making music (student book; original target `music/music-and-the-computer`) | Book 7, printed p. 97 |
+
+
+**Acceptance count: taught in 3 countries (United Kingdom, Malaysia, Armenia).** Haiti is added as teacher guide / teacher programme — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/making-music-with-computers-and-apps`); the United Kingdom placements were filed under the original string `music/copyright-and-music-publishing`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. The scores in the Anthology are placed as study summaries only — no notation or song lyrics are transcribed in this lesson. The United Kingdom's own way, carried in the placements: music is learned by appraising eight fixed set works — following the printed score while listening, after short teaching notes on period context, structure and what to listen for.
 
-Searchable tags: copyright, music publishing, royalties, PRS for Music, MCPS, master recording, synchronisation, mechanical, print rights, United Kingdom, GCSE Anthology of Music, Haiti
+Searchable tags: copyright, music publishing, royalties, PRS for Music, MCPS, master recording, synchronisation, mechanical, print rights, United Kingdom, GCSE Anthology of Music, Haiti, Armenia

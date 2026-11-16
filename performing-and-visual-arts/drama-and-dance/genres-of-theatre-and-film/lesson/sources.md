@@ -1,6 +1,6 @@
 # Sources — Genres of Theatre and Film
 
-countries: Ethiopia, Egypt, United Kingdom, Papua New Guinea, Venezuela, Mongolia, Malaysia
+countries: Ethiopia, Egypt, United Kingdom, Papua New Guinea, Venezuela, Mongolia, Malaysia, Armenia
 
 **Book 1:** *Performing and Visual Arts Teacher Guide Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, first published 2022, GEQIP-E, ISBN 978-997744-2-046-9, printed pp. i–ix + 1–79. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g09-teacher-placements.md.
 
@@ -41,10 +41,18 @@ countries: Ethiopia, Egypt, United Kingdom, Papua New Guinea, Venezuela, Mongoli
 |---|---|
 | Malaysia — Unit 4.2 Teater Realisme — realism theatre: introduction, its characteristics, and how a realism production is staged (student book; original target `drama-and-dance/genres-of-theatre-and-film`) | Book 8, printed pp. 127–132 |
 
-**Acceptance count: taught in 5 countries(Egypt, United Kingdom, Venezuela, Mongolia, Malaysia).** Ethiopia teacher-guide evidence is named here, counted nowhere. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 9:** *ԱՐՎԵՍՏ 10 — Հանրակրթական ավագ դպրոցի 10-րդ դասարանի դասագիրք (Art 10, textbook for grade 10 of general senior school)* (student book, Armenian) — Armenia, Zangak («Զանգակ» հրատարակչություն), Yerevan; year 2024; ISBN 978-9939-99-192-4. Grade: 10 (student/teacher: STUDENT). PDF pages: 196 (cover/title page verified against the record title; read in place from phase3-staging, 44,553,049 bytes — matches the books.json file_size_bytes). Verdict: COMPLETE Authors: Artur Avanesov, Elena Gyulmisaryan, Anush Aslibekyan, Tatevik Shakhkulyan, Ani Hakobyan. Approved by the RA Ministry of Education, Science, Culture and Sport. Library debt noted: the GitHub release asset under this same filename is 8,402,447 bytes — the older Կերպարվեստ 10 file pushed under the shared name (already recorded in the Armenia checklist, 2026-11-05 refill scan); the staged 44.5 MB Արվեստ 10 is the book read here. Armenia's own way: a one-volume history of all the arts — world art from prehistory to Japan, with Armenia woven through it on its own terms: the Van (Urartu) kingdom, Hellenism in Armenia, Armenian medieval music, khaz notation, miniature painting and medieval theatre each get their own chapters. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia — Aristophanes — comedy in the ancient Greek theatre (student book; original target `drama-and-dance/genres-of-theatre-and-film`) | Book 9, printed p. 77 |
+| Armenia — Miracle, mystery, morality and farce — the play kinds of the medieval town (student book; original target `drama-and-dance/genres-of-theatre-and-film`) | Book 9, printed p. 141 |
+
+
+**Acceptance count: taught in 6 countries (Egypt, United Kingdom, Venezuela, Mongolia, Malaysia, Armenia).** Ethiopia teacher-guide evidence is named here, counted nowhere. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Grade 9 has NO student book; this lesson stands on the federal Grade 9 teacher guide (Lessons 20–21, printed pp. 31–35) as labelled evidence only, exactly as the placement directs.
 
 Egypt's Grade 7 student book adds a student-book source to this lesson: the play-versus-sketch distinction above. The United Kingdom's GCSE Anthology of Music adds a second student-book source: the definition of a musical, taught through Wicked. The Grade 9 Ethiopia statement below it stands for the Ethiopia guide evidence only.
 
-Searchable tags: genre, tragedy, comedy, film genres, Grade 9 teacher guide, Lessons 20-21, evidence, Egypt, theatre sketch, الاسكتش المسرحي, Papua New Guinea
+Searchable tags: genre, tragedy, comedy, film genres, Grade 9 teacher guide, Lessons 20-21, evidence, Egypt, theatre sketch, الاسكتش المسرحي, Papua New Guinea, Armenia

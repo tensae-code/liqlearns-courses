@@ -1,6 +1,6 @@
 # Sources — Decorating Home and Environment
 
-countries: Ethiopia, Haiti, Finland, Turkmenistan, Belarus, Iran, Cuba, Bolivia, Malaysia, Indonesia
+countries: Ethiopia, Haiti, Finland, Turkmenistan, Belarus, Iran, Cuba, Bolivia, Malaysia, Indonesia, Armenia
 
 **Book 1:** *Performing and Visual Arts, Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors ማስተዋል ጌታ ማስረሻ (Mastewal Geta Masresha) and ዮሐንስ ታደሰ በትሬ (Yohannes Tadesse Betre). Printed pp. i–vi + 1–170. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g07-student-placements.md.
 
@@ -62,11 +62,18 @@ countries: Ethiopia, Haiti, Finland, Turkmenistan, Belarus, Iran, Cuba, Bolivia,
 |---|---|
 | Indonesia — Unit 2, Kegiatan 3 — making interior accessory products that decorate the home (teacher guide — evidence; original target `visual-art/decorating-home-and-environment`) | Book 13, printed p. 131 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Finland, Turkmenistan, Belarus, Iran, Malaysia).** Haiti is added as teacher programme — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 14:** *Կերպարվեստ 1 — Աշխատանքային տետր (Fine Arts 1, workbook)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2025 (companion to the 2025 programme); ISBN not printed in the extracted front matter. Grade: 1 (student/teacher: STUDENT). PDF pages: 64 (cover verified against the record title; byte size 11,036,742 matches the release index exactly; fetched via the recorded ministry source_url, grab.py routes as for Book 1). Verdict: COMPLETE Authors: Mariam Petrosyan, Marine Manukyan. A draw-and-colour workbook: every spread gives a thing to complete, colour, join or model, marked with listen / describe / draw activity signs. Armenia's own way: the alphabet itself is drawing material — the child depicts the Armenian letters and colours Easter eggs, so first art and first literacy grow together. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia — Decorate the cake; fill the vessel as you wish — decorating useful things beautifully (student book; original target `visual-art/decorating-home-and-environment`) | Book 14, printed p. 56 |
+
+
+**Acceptance count: taught in 7 countries (Ethiopia, Finland, Turkmenistan, Belarus, Iran, Malaysia, Armenia).** Haiti is added as teacher programme — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Honesty notes: The book's two Chapter 5 figures (paths and garden places; the ceramic interior) are described in words only, never copied. The festival-and-rains beautifying, and the soils/cattle-products/ash "paint", are taught exactly as the placement records them.
 
-Searchable tags: decorating, home and environment, ceramics, pottery, beautifying paths, interior decoration, gardening, architecture, Haiti, Finland
+Searchable tags: decorating, home and environment, ceramics, pottery, beautifying paths, interior decoration, gardening, architecture, Haiti, Finland, Armenia
 
 **Book 7:** *Orientaciones Metodológicas — Educación Plástica, quinto grado* (teacher guide, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4687-2 (print) / 978-959-13-4688-9 (digital). Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 77. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 

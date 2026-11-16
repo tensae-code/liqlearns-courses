@@ -1,6 +1,6 @@
 # Sources — Playing Notes and Rests
 
-countries: Ethiopia, Barbados, Morocco, Bulgaria, Libya, Bolivia
+countries: Ethiopia, Barbados, Morocco, Bulgaria, Libya, Bolivia, Armenia
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 85 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -36,11 +36,18 @@ countries: Ethiopia, Barbados, Morocco, Bulgaria, Libya, Bolivia
 |---|---|
 | Bolivia — Forming the rhythmic band — once every idiophone has its rhythmic line: begin playing two lines together, add a third, and finally play all the lines at once — the banda rítmica formed, a percussion group interpreting rhythms with idiophones alone (student book) | Book 12, printed p. 42 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Bulgaria, Bolivia). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 13:** *«Երաժշտություն» 5-րդ դասարան, մեթոդական ուղեցույց (Music Grade 5, Methodological Guide), by Յու. Վ. Յուզբաշյան and colleagues* (teacher guide, Armenian) — Armenia (Armenia placements file section 49 of 49 — filed there as 'Book 2 — Armenia G5 Music teacher guide'), «Զանգակ-97» (Zangak-97), Yerevan; year 2023; no ISBN printed (title page shows placeholder codes). Grade: 5 (student/teacher: TEACHER). PDF pages: 78 (cover/title page verified against the record title). Verdict: COMPLETE Armenia's own way: the guide grounds Grade 5 music education in Armenian national music first, without neglecting other peoples' music and the world classics; singing is built up in two and three parts with canons. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia — teaching a song from notation: the worked example of teaching "Կաքավի երգը" (The Partridge Song) — feeling phrase boundaries, regulating breathing, and accompanying with rhythm instruments (bells, frame drum, triangle) (teacher guide — evidence; original target `music/playing-notes-and-rests`) | Book 13, printed pp. 17–20 (teacher-guide evidence; song named only) |
+
+
+**Acceptance count: taught in 3 countries (Ethiopia, Bulgaria, Bolivia). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 5 book continues past this lesson to the eighth note and dotted notes; those signs have their own targets in the placements and are not stocked here — this lesson stocks only the whole, half and quarter playing the placements assign to “Playing Notes and Rests”. The Grade 3 photographs of children drumming are described, not reproduced; GIF 9622 is a drawn practice loop in their place.
 
-Searchable tags: playing notes and rests, drums, relay, ቅብብሎሽ, performing notation, whole half quarter practice
+Searchable tags: playing notes and rests, drums, relay, ቅብብሎሽ, performing notation, whole half quarter practice, Armenia
 
 **Book 7:** *Музика за четвърти клас (Music for Fourth Grade), by Адриан Георгиев, Мая Андасорова, Рая Ковачева* (student book, Bulgarian) — Bulgaria, РИВА (Riva), Sofia; year 2019; ISBN 978-619-225-098-0 (from the cover barcode). Grade: 4 (student/teacher: STUDENT). PDF pages: 68 (cover verified — "Музика за четвърти клас", Riva, 4. клас). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
 

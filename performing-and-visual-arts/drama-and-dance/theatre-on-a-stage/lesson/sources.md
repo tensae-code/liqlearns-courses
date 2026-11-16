@@ -1,6 +1,6 @@
 # Sources — Theatre on a Stage
 
-countries: Ethiopia, Egypt, Honduras, Singapore, Brazil, Jordan, Sri Lanka, Venezuela, Rwanda
+countries: Ethiopia, Egypt, Honduras, Singapore, Brazil, Jordan, Sri Lanka, Venezuela, Rwanda, Armenia
 
 **Book 2:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -50,11 +50,18 @@ countries: Ethiopia, Egypt, Honduras, Singapore, Brazil, Jordan, Sri Lanka, Vene
 | Rwanda — Part 1 Unit 3 Lesson 6: Staging a concert using the learners' own composed songs — staging a concert of the class's own compositions (patriotism, unity and reconciliation, hard work and success, religion) (teacher guide evidence) (teacher guide — evidence) | Book 15, printed p. 44 |
 
 
-**Acceptance count: taught in 6 countries (Ethiopia, Egypt, Honduras, Brazil, Jordan, Venezuela). Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 16:** *ԱՐՎԵՍՏ 10 — Հանրակրթական ավագ դպրոցի 10-րդ դասարանի դասագիրք (Art 10, textbook for grade 10 of general senior school)* (student book, Armenian) — Armenia, Zangak («Զանգակ» հրատարակչություն), Yerevan; year 2024; ISBN 978-9939-99-192-4. Grade: 10 (student/teacher: STUDENT). PDF pages: 196 (cover/title page verified against the record title; read in place from phase3-staging, 44,553,049 bytes — matches the books.json file_size_bytes). Verdict: COMPLETE Authors: Artur Avanesov, Elena Gyulmisaryan, Anush Aslibekyan, Tatevik Shakhkulyan, Ani Hakobyan. Approved by the RA Ministry of Education, Science, Culture and Sport. Library debt noted: the GitHub release asset under this same filename is 8,402,447 bytes — the older Կերպարվեստ 10 file pushed under the shared name (already recorded in the Armenia checklist, 2026-11-05 refill scan); the staged 44.5 MB Արվեստ 10 is the book read here. Armenia's own way: a one-volume history of all the arts — world art from prehistory to Japan, with Armenia woven through it on its own terms: the Van (Urartu) kingdom, Hellenism in Armenia, Armenian medieval music, khaz notation, miniature painting and medieval theatre each get their own chapters. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia — Structure of the theatre building (Թատերական շինության կառուցվածքը) — how the Greek theatre building was laid out (student book; original target `drama-and-dance/theatre-on-a-stage`) | Book 16, printed p. 72 |
+
+
+**Acceptance count: taught in 7 countries (Ethiopia, Egypt, Honduras, Brazil, Jordan, Venezuela, Armenia). Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 The Grade 5 row is the series' own deepening of the same stage idea (its elements list — setting, character, plot, script, theme — is named in the provenance row only; the lesson's teaching stays at the Grade 2 stage picture and the menibanib, exactly as STRUCTURE.md groups them).
 
-Searchable tags: theatre on a stage, stage, audience, curtains, መነባንብ, menibanib, recitation, Abbay, Blue Nile, Grade 2, Grade 5, Egypt, stage areas, خشبة المسرح, Brazil, Rwanda
+Searchable tags: theatre on a stage, stage, audience, curtains, መነባንብ, menibanib, recitation, Abbay, Blue Nile, Grade 2, Grade 5, Egypt, stage areas, خشبة المسرح, Brazil, Rwanda, Armenia
 
 
 **Book 11:** *التربية الفنية والموسيقية والمسرحية — الصف الثاني (Art, Music and Theatre Education — Grade 2)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (first experimental edition, for school year 2024/2025); ISBN 978-9923-41-693-8. Grade: 2 (student/teacher: STUDENT). PDF pages: 94 (cover/title page verified against the record title; byte size 29,623,603 matches record exactly; printed page numbers = PDF page numbers). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.

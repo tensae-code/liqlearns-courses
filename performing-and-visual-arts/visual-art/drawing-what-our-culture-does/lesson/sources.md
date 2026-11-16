@@ -1,7 +1,7 @@
 # Sources — Drawing What Our Culture Does
 
 
-countries: Ethiopia, Guatemala, Bhutan, Turkmenistan, Pakistan, Sudan, Afghanistan
+countries: Ethiopia, Guatemala, Bhutan, Turkmenistan, Pakistan, Sudan, Afghanistan, Armenia
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -25,11 +25,31 @@ countries: Ethiopia, Guatemala, Bhutan, Turkmenistan, Pakistan, Sudan, Afghanist
 | Pakistan — Chapter 8: drawing and making what Pakistan's own culture makes — ajrak blocks, ralli quilts, embroidery (student book; original target `visual-art/drawing-what-our-culture-does`) | Book 5, printed pp. 176–196 |
 | Sudan — Drawing Lesson 3 "The Joy of Eid": drawing and colouring a festival the pupil lives — children and adults in their new bright Eid clothes at the prayer rows and at home — expressing the joy of Eid in water or wood colours (student book — PARTIAL, as filed (partial scan, 27 of ~60 pages)) | Book 6, printed p. 13 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Bhutan, Turkmenistan, Pakistan, Sudan, Afghanistan). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.**
+**Book 8:** *Կերպարվեստ 2 (Fine Arts 2)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2023; ISBN not printed in the extracted front matter. Grade: 2 (student/teacher: STUDENT). PDF pages: 64 (cover verified against the record title; byte size 45,977,899 matches the release index exactly; fetched via the recorded ministry source_url). Verdict: COMPLETE Authors: Mariam Petrosyan, Marine Manukyan, Araksya Ananyan. Built in modules: Creation (materials and means), the Elements of fine art and design, Innovation and imagination, Presentation — review and exhibition, and Connections (art and technologies, art history, the role of art). Excluded per brief: the self-check questionnaire (printed p. 61) is assessment only; the used word-list (printed p. 62) is a glossary, inventory only. Armenia's own way: Armenian masters stand beside world masters from grade 2 — Saryan next to Van Gogh and Picasso, Aivazovsky next to Monet, the Noravank church and the Sardarapat memorial as art to look at — and Mesrop Mashtots, inventor of the alphabet, is met as a sculpted monument. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia — Drawing from nature (բնօրինակից) — sit before the thing itself and depict simple-built objects (student book; original target `visual-art/drawing-what-our-culture-does`) | Book 8, printed p. 31 |
+| Armenia — Imaginary fine art — pictures of things that do not exist, made by imagination; the "Cipollino" book illustrations and a cartoon watched, then your own invented world drawn (student book; original target `visual-art/drawing-what-our-culture-does`) | Book 8, printed p. 34 |
+
+**Book 9:** *Կերպարվեստ 3 (Fine Arts 3)* (student book, Armenian) — Armenia, Zangak, Yerevan (ministry-approved); year not printed in the extracted front matter; ISBN not printed in the extracted front matter. Grade: 3 (student/teacher: STUDENT). PDF pages: 72 (cover verified against the record title; byte size 89,615,518 matches the release index exactly; fetched via the recorded ministry source_url). Verdict: COMPLETE (the closing word-list, printed p. 70, is a glossary — inventory only, not placed). Authors: Mariam Petrosyan, Marine Manukyan. The grade-2 module frame deepened: Creation (watercolour, clay), Elements and design principles (volume, space, proportion), Innovation and imagination (realistic, landscape, portrait, abstract, imaginary), Presentation and critical response, Connections (art history: the kinds of art; the role of art; monuments and museums; a shadow-theatre project). Armenia's own way: the year's monuments are Armenia's storytellers — the statues of Sasuntsi Davit and Mesrop Mashtots "tell stories" — and the final project is a shadow theatre the class builds and posters itself. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia — IMAGINARY fine art — "Charachchi Leonardo": the boy Leonardo da Vinci who drew what he imagined; hear a tale and present its content in pictures (student book; original target `visual-art/drawing-what-our-culture-does`) | Book 9, printed p. 40 |
+
+**Book 10:** *Արվեստ 8 (Art 8)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2024 (per the guide's imprint); ISBN not printed in the extracted front matter. Grade: 8 (student/teacher: STUDENT). PDF pages: 154 (cover verified against the record title; byte size 86,480,220 matches the release index exactly; fetched via the recorded ministry source_url). Verdict: COMPLETE (the professional-terms dictionary, printed pp. 149-151, is a glossary — inventory only; the used-literature list, p. 148, is inventory only). Authors: A. Hakobyan, G. Meliksetyan, K. Poghosyan. The combined "Arvest" subject for grade 8, in the familiar sections (Perception of reality through art / Art history; Artistic activity — elements, innovation, review and exhibition, critical thinking), running from Greek theatre to Parajanov. Armenia's own way: Armenian art is woven through every era — Ani and Aghtamar beside Greece and Rome, khachkars and vordan karmir as national crafts, Chukhajian's first Armenian opera, Surenyants's murals, Parajanov's collages, and the dance-costume map of Arakel Patrik. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia — Leonardo the inventor — the parachute prototype and the war machines he designed: innovation and imagination in one mind (student book; original target `visual-art/drawing-what-our-culture-does`) | Book 10, printed p. 77 |
+
+
+**Acceptance count: taught in 7 countries (Ethiopia, Bhutan, Turkmenistan, Pakistan, Sudan, Afghanistan, Armenia). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 No honesty flags attach to this placement; it is followed exactly as read. Exercise 11's questions (when traditional dress is worn, and what it is for) are carried as part of the drawing work, as placed; the dress itself is taught in the Culture and Values unit's Traditional Dress lesson.
 
-Searchable tags: drawing cultural practices, threshing oxen, genna game, coffee roasting, children dancing, expressing feelings in drawing, Ethiopia Grade 1 drawing culture, Bhutan
+Searchable tags: drawing cultural practices, threshing oxen, genna game, coffee roasting, children dancing, expressing feelings in drawing, Ethiopia Grade 1 drawing culture, Bhutan, Armenia
 
 **Book 7:** Title as printed: هنر — صنف ۸ (Art — Grade 8) Grade: Grade 8 (student/teacher: STUDENT) Publisher: Ministry of Education, Islamic Republic of Afghanistan; printed 1399 SH (2020); no ISBN printed PDF pages: 62 (cover verified visually against the record title; fetched from GitHub release mid-size-books-7, asset grade-08-gov-afghanistan-d6c13d5ade.pdf, 11,015,808 bytes — secured as a release asset, not in the repo tree) Verdict: COMPLETE Tally: 21 placements — 9 to existing lessons, 12 NEW LESSON NEEDED Afghanistan's own way: Grade 8 is the Islamic-art year — Islamic art, its designs copied by hand, Islamic calligraphy crowned by copying the Basmala itself, Islamic architecture and a model bridge, the clay pen-holder and the wooden Quran stand (رحل) that the calligrapher needs, and miniature painting — all framed by Afghanistan's own Islamic-period history (Ghaznavid Ghazna, the Herat of the Ghurids and Timurids) and by the living crafts of every province, from Kabul's coppersmiths to Herat's glassblowers. Not placed: the Pashto national anthem front matter and the bibliography. Placements at liqlearns-courses-work/expansion-art-2026-11-16/afghanistan-placements.md.
 

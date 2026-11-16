@@ -1,6 +1,6 @@
 # Sources — Conducting
 
-countries: Andorra, Colombia, Indonesia
+countries: Andorra, Colombia, Indonesia, Armenia
 
 **Book 1:** *Programa d'educació musical de primera ensenyança de l'Escola Andorrana — Annex IV of Decret 376/2021, BOPA núm. 123, 24-11-2021* (curriculum programme document, Catalan) — Andorra, Ministeri d'Educació i Ensenyament Superior, Govern d'Andorra, 2021, ISBN 978-99920-0-931-4, Primera ensenyança, cycles 1–3 (ages 6–12), 39 PDF pp (record; Annex IV runs at BOPA pp. 199–237 of the full 510-page BOPA issue). TEACHER — programme document. Verdict: COMPLETE as a programme document — the decree's legal preamble and the programme's assessment criteria and end-of-cycle expectation tables are apparatus, named here and not placed. Read via its recorded source_url (BOPA official gazette PDF) in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/andorra-placements.md. **Curriculum programme document — EVIDENCE only, kept outside the acceptance count.**
 
@@ -31,8 +31,21 @@ countries: Andorra, Colombia, Indonesia
 |---|---|
 | Indonesia — Bab III Bernyanyi Bersama — singing together following the conductor's cues (aba-aba pengaba) — understanding the conductor's signals and learning to conduct (mengaba) oneself, after vocalise and warm-up (teacher guide — evidence; original target `music/conducting-movements`) | Book 5, printed p. 139 |
 
-**Acceptance count: taught in 1 country (Colombia).** Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 6:** *Երաժշտություն 2 (Music 2), publisher imprint "Արևիկ" (Arevik), Yerevan* (student book, Armenian) — Armenia, Arevik, Yerevan; year 2023; ISBN not printed in the extracted front matter. Grade: 2 (student/teacher: STUDENT). PDF pages: 124 (cover verified; byte size 31,347,883 matches the release index exactly; fetched via the recorded ministry source_url). Verdict: COMPLETE (appendix, printed pp. 110-121, is sheet music of the book's songs — inventory only, not placed). Authors include Anahit Gevorgyan, Ani Baghdasaryan, Gohar Meliksetyan. Built on three themes: "The simple and accessible genres of music" (march, song, dance, opera, ballet, symphony), "How music is created (the musical alphabet)" and "The expressive means of music" — composers themselves greet the child in first-person letters (Komitas, Robert Petrosyan, Tchaikovsky, Mozart, Saint-Saëns). Armenia's own way: the Armenian alphabet gets its own song, Komitas writes the child a letter about his childhood name Soghomon, and the folk songs are sung three ways — with words, with notes, and with hand signs. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia — Beating time — any song can be performed while beating time, the hand moving evenly down and up; notating a fragment of "My horse" (student book; original target `music/conducting-and-keeping-time`) | Book 6, printed p. 65 |
+
+**Book 7:** *Երաժշտություն 6 (Music 6)* (student book, Armenian) — Armenia, Yerevan; year not printed in the extracted front matter; ISBN not printed in the extracted front matter. Grade: 6 (student/teacher: STUDENT). PDF pages: 124 (cover verified against the record title; byte size 17,557,574 matches the release index exactly; fetched via the recorded ministry source_url). Verdict: PARTIAL — the book is image-only (no text layer); read visually on contact sheets: the opening letter and Opera chapters in full and sampled spreads through the book (concert etiquette, composers as performers, the conductor), with the theme structure confirmed against its teacher guide (Book 20, read). Not every spread was viewed. The year's themes (from the opening letter and the guide): the complex (synthetic) genres — opera, ballet, operetta, musical — and the instrumental genres: sonata, concerto, symphonic picture, symphony. Spendiaryan's opera and ballet are named in the opening letter as Armenia's own academic theatres' works. Armenia's own way: the Yerevan Opera Theatre itself is a lesson object — Tamanyan's building pictured beside Paris's Garnier palace — and Armenian composers appear as performers and conductors of their own music. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia — The conductor and the soloist — the conductor leads with the baton, the soloist or ensemble follows; what each must know of the other for the performance to become one whole (student book; original target `music/conducting-and-keeping-time`) | Book 7, printed p. 77 |
+
+
+**Acceptance count: taught in 2 countries (Colombia, Armenia).** Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/conducting`); the Andorra placement was filed under the original string `music/conducting-an-ensemble`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. The book is a curriculum programme document, so every part of this lesson is labelled evidence; no student-textbook claim is made for it. Colombia's parts above come from a student book and are counted in the acceptance count.
 
-Searchable tags: conducting, conductor, pulse, metre, tempo, cueing entries, rehearsal, Andorra, Colombia
+Searchable tags: conducting, conductor, pulse, metre, tempo, cueing entries, rehearsal, Andorra, Colombia, Armenia

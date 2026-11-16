@@ -1,7 +1,7 @@
 # Sources — Appreciating Drawing
 
 
-countries: Ethiopia, Pakistan, Saudi Arabia, Angola, Rwanda, Indonesia
+countries: Ethiopia, Pakistan, Saudi Arabia, Angola, Rwanda, Indonesia, Armenia
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -97,8 +97,15 @@ countries: Ethiopia, Pakistan, Saudi Arabia, Angola, Rwanda, Indonesia
 |---|---|
 | Indonesia — Bab II Belajar dari Karya Orang Lain — appreciating artworks — observing, identifying elements and design principles in one's own and friends' work, and giving an opinion openly and honestly in proper art words (teacher guide — evidence; original target `visual-art/appreciating-drawing`) | Book 16, printed p. 71 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Pakistan, Saudi Arabia, Angola, Rwanda).** Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 17:** *Կերպարվեստ 2 (Fine Arts 2)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2023; ISBN not printed in the extracted front matter. Grade: 2 (student/teacher: STUDENT). PDF pages: 64 (cover verified against the record title; byte size 45,977,899 matches the release index exactly; fetched via the recorded ministry source_url). Verdict: COMPLETE Authors: Mariam Petrosyan, Marine Manukyan, Araksya Ananyan. Built in modules: Creation (materials and means), the Elements of fine art and design, Innovation and imagination, Presentation — review and exhibition, and Connections (art and technologies, art history, the role of art). Excluded per brief: the self-check questionnaire (printed p. 61) is assessment only; the used word-list (printed p. 62) is a glossary, inventory only. Armenia's own way: Armenian masters stand beside world masters from grade 2 — Saryan next to Van Gogh and Picasso, Aivazovsky next to Monet, the Noravank church and the Sardarapat memorial as art to look at — and Mesrop Mashtots, inventor of the alphabet, is met as a sculpted monument. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia — Compare and find sameness and difference — Picasso and Saryan side by side: looking slowly and saying what you see (student book; original target `visual-art/appreciating-drawing`) | Book 17, printed p. 55 |
+
+
+**Acceptance count: taught in 6 countries (Ethiopia, Pakistan, Saudi Arabia, Angola, Rwanda, Armenia).** Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 No honesty flags attach to this placement; it is followed exactly as read.
 
-Searchable tags: appreciating drawing, what is drawing, drawing materials charcoal, classroom exhibition showing work, Ethiopia Grade 2 drawing appreciation, Rwanda
+Searchable tags: appreciating drawing, what is drawing, drawing materials charcoal, classroom exhibition showing work, Ethiopia Grade 2 drawing appreciation, Rwanda, Armenia

@@ -1,6 +1,6 @@
 # Sources — Animal Songs
 
-countries: Ethiopia, Turkmenistan, Belarus, Jordan, Libya, Angola, Mongolia
+countries: Ethiopia, Turkmenistan, Belarus, Jordan, Libya, Angola, Mongolia, Armenia
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -27,11 +27,22 @@ countries: Ethiopia, Turkmenistan, Belarus, Jordan, Libya, Angola, Mongolia
 |---|---|
 | Mongolia — the animal songs: Хоёр ишиг (two kids), Сүхийн цагаан морь (the white horse), Тахиа (the hen), Чардаш... and Хургатай хонь (the sheep with its lamb) — named only (student book; original target `music/animal-songs`) | Book 7, printed pp. 9, 10, 31, 53 |
 
-**Acceptance count: taught in 6 countries(Ethiopia, Turkmenistan, Belarus, Jordan, Angola, Mongolia).** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 8:** *Երաժշտություն 1 — Հանրակրթական հիմնական դպրոցի 1-ին դասարանի դասագիրք (Music 1, grade 1 textbook)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2025; ISBN 978-9939-99-259-4. Grade: 1 (student/teacher: STUDENT). PDF pages: 68 (cover/title page verified against the record title; image-only book, read visually page by page on contact sheets; fetched via the recorded ministry source_url after grab.py tree returned 404 — the file is held in GitHub Releases, not the tree — and grab.py url stalled through the proxy; byte size 40,792,586 matches the release index exactly). Verdict: COMPLETE Authors: Marine Avetisyan (Ախալախյան in title page listing: Մարինե Ավալախյան), Artur Avanesov. The book teaches by singing, listening (QR-linked recordings) and moving: two mascot figures mark sing / listen / play activities on every spread. Excluded per brief: the closing song list (Երգերի ցանկ, printed pp. 62-64) is inventory only; the guide's revision lessons 30-31 and 57-60 (անցած նյութի կրկնություն) are revision, not placed. Armenia's own way: a first music book built almost wholly from Armenian folk songs and Armenian composers (Komitas above all), organised by the seasons of the child's own year — sun, moon, birds, autumn, winter feasts, spring, Easter, summer. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia — Birds: the folk song "Tsitik" (Little bird), words G. Geghuni — a bird on a branch coaxed not to fly away (student book; original target `music/animal-songs`) | Book 8, printed p. 13 |
+| Armenia — Penguins: "Pingvin Vini erg" (The penguin Vini's song, Shaboyan) — a singing penguin in a far cold land, with a cartoon to watch (student book; original target `music/animal-songs`) | Book 8, printed p. 36 |
+| Armenia — The hare and the cuckoo: "Napastaki erg" (The hare's song, Mihranyan/Muradyan) and Ohanyan's "Ku-ku" — animal voices imitated in song, the cuckoo's two notes named (student book; original target `music/animal-songs`) | Book 8, printed p. 37 |
+| Armenia — The lark's song: Galikyan's "Artuyti erg" — the lark praised for singing above the green field (student book; original target `music/animal-songs`) | Book 8, printed p. 55 |
+| Armenia — Insects: Safaryan's "Meghun" (The bee) and Astvatsatryan's "Titern u meghun" (The butterfly and the bee) — small flying creatures in song and story (student book; original target `music/animal-songs`) | Book 8, printed p. 57 |
+
+
+**Acceptance count: taught in 7 countries (Ethiopia, Turkmenistan, Belarus, Jordan, Angola, Mongolia, Armenia).** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 The placements name these songs, their givers and their sound-moments only; no lyrics are transcribed anywhere in this lesson, and none are claimed. The Grade 1 lamb placement asks for a GIF of a lamb bleating, mouth moving; that motion was judged a failed-motion risk (a drawn mouth cannot bleat truly) and was NOT filed — the bleating moment is carried by the described AUDIO slot instead, and the board picture covers the visual slot.
 
-Searchable tags: animal songs, lamb, cat, dog, bird, ትንሽ በግ አለኝ, ትንሽ ድመት አለችኝ, ትንሽዬ ውሻ አለኝ, ወፏን እወዳታለሁ, miyaw, bleating, barking, chirping
+Searchable tags: animal songs, lamb, cat, dog, bird, ትንሽ በግ አለኝ, ትንሽ ድመት አለችኝ, ትንሽዬ ውሻ አለኝ, ወፏን እወዳታለሁ, miyaw, bleating, barking, chirping, Armenia
 
 
 **Book 4:** *"Children Songs — KG (Song Book)"* (song book, Arabic) — Jordan, no publisher, year or ISBN printed anywhere in the file (a Ministry of Education / Minhaji kindergarten song booklet; the repo record's own download pointer was minhaji.net); no title page in the file — the booklet opens directly with the songs; the record title matches the contents (45 short children's songs/chants, each titled, one to three per page). Grade: KG (student/teacher: STUDENT). PDF pages: 18 (byte size 1,557,981 matches record exactly; fetched with grab.py tree — this small book IS in the repo tree; printed page numbers = PDF page numbers). Verdict: COMPLETE — all 45 songs read and placed, as summaries only (no lyrics transcribed). Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.

@@ -1,0 +1,27 @@
+# Sources — Armenian Classical Music
+
+countries: Armenia
+
+**Book 1:** *Արվեստ 11 (Art 11)* (student book, Armenian) — Armenia, not printed in the extracted front matter; year not printed in the extracted front matter; ISBN not printed in the extracted front matter. Grade: 11 (student/teacher: STUDENT). PDF pages: 196 (cover verified against the record title; byte size 49,701,682 matches the release index exactly; fetched via the recorded ministry source_url). Verdict: COMPLETE — the full text layer was read: preface, the Renaissance opening chapters and the complete contents (printed p. 192). Authors: Elena Gyulmisaryan, Anush Aslibekyan, Artur Avanesov, Siranuysh Galstyan, Ani Hakobyan. The integrated grade-11 survey runs century by century — Renaissance, 17th-18th centuries, 19th century — each in fine art, theatre, music and cinema, with an Armenian thread in every century. Armenia's own way: each century closes at home — the foundations of the Armenian new theatre, the Mkhitaryan school theatre, 19th-century Armenian classical music, and the Armenian painters: Aivazovsky, Bashinjaghyan, Hovnatanyan, Sureniants. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia — ARMENIAN CLASSICAL MUSIC in the 19th century — the national classical school forms inside the century's music survey (student book; original target `music/armenian-classical-music`) | Book 1, printed p. 167 |
+
+**Book 2:** *Երաժշտություն 11 (Music 11)* (student book, Armenian) — Armenia, not printed in the extracted front matter; year not printed in the extracted front matter; ISBN not printed in the extracted front matter. Grade: 11 (student/teacher: STUDENT). PDF pages: 116 (cover verified against the record title; byte size 82,690,285 matches the release index exactly; fetched via the recorded ministry source_url). Verdict: PARTIAL — read through the text layer: introduction, the opera chapters in full and the composers'-school chapter opening; the closing chapters were sampled. The book is the story of Armenian opera and the Armenian composers' school. Author: Tatevik Shakhkulyan. Armenia's own way: a whole grade-11 music book for one national story — how opera was born in Florence, came to Armenia with Chukhajian, and grew an Armenian school: Spendiaryan, Stepanyan, Hovhannisyan, and the Sasna Tsrer epic sung on stage. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia — The formation of the ARMENIAN COMPOSERS' SCHOOL — in the 19th century Armenian music took a new path: folk and sacred music and the ashugh art stood behind the new school (student book; original target `music/armenian-classical-music`) | Book 2, printed p. 28 |
+
+**Book 3:** *Երաժշտություն 11 — Մեթոդական ուղեցույց (Music 11, methodological guide; teacher's manual)* (teacher guide, Armenian) — Armenia, Zangak-97, Yerevan; year 2025; ISBN not printed in the extracted front matter. Grade: 11 (student/teacher: TEACHER). PDF pages: 88 (84 printed pages; cover verified against the record title; byte size 41,849,396 matches the release index exactly; fetched via the recorded ministry source_url). Verdict: PARTIAL — the text layer extracts with broken glyph mapping; read visually: cover, imprint, contents and the aims chapter (printed pp. 4-6) in full. The contents map the rest: the "Music" subject in high school, final outcomes, textbook content, interdisciplinary links, how to use the textbook, how to study music, classroom discussions, home assignments, project works, hourly distribution and daily plans (apparatus), recommended literature (inventory). Author: Tatevik Shakhkulyan — the author of the textbook it serves (Book 44, read). Armenia's own way: the manual states the system's goal outright — build an Armenian musical-education system in which learners can recognise, evaluate, discuss and analyse Armenian music itself. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia — The textbook's purpose (teacher-guide evidence) — the aim is to create an Armenian musical education in which learners, listening with understanding, can recognise and evaluate Armenian music, discuss and analyse it — the study of Armenian musical culture (teacher guide — evidence; original target `music/armenian-classical-music`) | Book 3, printed p. 6 |
+
+**Acceptance count: taught in 1 country (Armenia).** Armenia's teacher-guide placements in this lesson are evidence only, kept outside the acceptance count; its student-book stock is inside the count.
+
+This is a canonical NEW lesson (slug-registry Part 1: `music/armenian-classical-music`). The Armenia placements were filed under the original string(s) `music/armenian-classical-music`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2 where the string differs. Armenia's own way is the lesson itself where the topic is Armenian: the country's own music, dances, crafts and art forms are kept as named parts. Songs are placed by title and theme only, never transcribed.
+
+Searchable tags: Armenia, Armenian Classical Music, ARMENIAN CLASSICAL MUSIC in the 19th century

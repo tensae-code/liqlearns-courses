@@ -1,7 +1,7 @@
 # Sources — Colouring Inside Shapes
 
 
-countries: Ethiopia, Libya, Angola, Afghanistan
+countries: Ethiopia, Libya, Angola, Afghanistan, Armenia
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -15,11 +15,19 @@ countries: Ethiopia, Libya, Angola, Afghanistan
 | Sub lesson 2 — Drawing and colouring fruit: the orange | Ethiopia, *Grade 2 Performing and Visual Arts Student Textbook*, §2.4.3(መ), Figure 2.4.6 and Activity 2.4.6, printed p. 39 |
 | Angola — Tema 2.1 A delimitação das áreas através da pintura: drawing is usually monochromatic (the grey of the charcoal pencil), but in painting the areas of a form are delimited not by lines but by differences of colour, or by different tonalities of the same colour (student book; original target `visual-art/delimiting-areas-with-paint`) | Book 4, printed pp. 23–24 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Angola, Afghanistan).** Libya is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 9:** *Կերպարվեստ 1 — Աշխատանքային տետր (Fine Arts 1, workbook)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2025 (companion to the 2025 programme); ISBN not printed in the extracted front matter. Grade: 1 (student/teacher: STUDENT). PDF pages: 64 (cover verified against the record title; byte size 11,036,742 matches the release index exactly; fetched via the recorded ministry source_url, grab.py routes as for Book 1). Verdict: COMPLETE Authors: Mariam Petrosyan, Marine Manukyan. A draw-and-colour workbook: every spread gives a thing to complete, colour, join or model, marked with listen / describe / draw activity signs. Armenia's own way: the alphabet itself is drawing material — the child depicts the Armenian letters and colours Easter eggs, so first art and first literacy grow together. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia — Colour by the sample; colour the city — colouring given pictures true to a model (student book; original target `visual-art/colouring-inside-shapes`) | Book 9, printed p. 15 |
+| Armenia — Colour the musical instruments — naming instruments by colouring them (student book; original target `visual-art/colouring-inside-shapes`) | Book 9, printed p. 70 |
+
+
+**Acceptance count: taught in 4 countries (Ethiopia, Angola, Afghanistan, Armenia).** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 No honesty flags attach to these placements; they are followed exactly as read. The Grade 1 colouring pages are picture-led (outline shapes to colour); Exercise 6's wording — draw carefully, then colour in carefully — is carried as the lesson's own rule.
 
-Searchable tags: colouring inside shapes, careful colouring, outline shapes, Exercise 6, drawing and colouring fruit orange, Ethiopia Grade 1 Grade 2 drawing
+Searchable tags: colouring inside shapes, careful colouring, outline shapes, Exercise 6, drawing and colouring fruit orange, Ethiopia Grade 1 Grade 2 drawing, Armenia
 
 **Book 3:** *دليل المعلم لمادة التربية الفنية — للصف الأول من مرحلة التعليم الأساسي (Teacher's Guide for Art Education, Grade 1 of Basic Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2018–2019 (1439–1440 AH); ISBN no ISBN printed. Grade: 1 (student/teacher: TEACHER). PDF pages: 84 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 

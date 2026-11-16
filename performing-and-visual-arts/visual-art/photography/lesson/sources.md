@@ -1,6 +1,6 @@
 # Sources — Photography
 
-countries: Ethiopia, Honduras, Trinidad and Tobago, Finland, Iran, Venezuela, Malaysia, Moldova, Syria
+countries: Ethiopia, Honduras, Trinidad and Tobago, Finland, Iran, Venezuela, Malaysia, Moldova, Syria, Armenia
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -86,8 +86,15 @@ countries: Ethiopia, Honduras, Trinidad and Tobago, Finland, Iran, Venezuela, Ma
 |---|---|
 | Syria — Lesson 6 "Photography" — photography is the process of producing pictures by light effects; using the mobile device to capture smart artistic photos that archive the memory of place and time, and drawing them in your notebook; exchanging artistic photos with friends (student book; original target `culture-and-values/photography-and-film-as-art`) | Book 17, printed p. 19 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Honduras, Finland, Iran, Venezuela, Malaysia, Moldova, Syria).** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 18:** *ԱՐՎԵՍՏ 10 — Հանրակրթական ավագ դպրոցի 10-րդ դասարանի դասագիրք (Art 10, textbook for grade 10 of general senior school)* (student book, Armenian) — Armenia, Zangak («Զանգակ» հրատարակչություն), Yerevan; year 2024; ISBN 978-9939-99-192-4. Grade: 10 (student/teacher: STUDENT). PDF pages: 196 (cover/title page verified against the record title; read in place from phase3-staging, 44,553,049 bytes — matches the books.json file_size_bytes). Verdict: COMPLETE Authors: Artur Avanesov, Elena Gyulmisaryan, Anush Aslibekyan, Tatevik Shakhkulyan, Ani Hakobyan. Approved by the RA Ministry of Education, Science, Culture and Sport. Library debt noted: the GitHub release asset under this same filename is 8,402,447 bytes — the older Կերպարվեստ 10 file pushed under the shared name (already recorded in the Armenia checklist, 2026-11-05 refill scan); the staged 44.5 MB Արվեստ 10 is the book read here. Armenia's own way: a one-volume history of all the arts — world art from prehistory to Japan, with Armenia woven through it on its own terms: the Van (Urartu) kingdom, Hellenism in Armenia, Armenian medieval music, khaz notation, miniature painting and medieval theatre each get their own chapters. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia — Photography (Լուսանկարչություն) — the camera art as one of the art types (student book; original target `visual-art/photography`) | Book 18, printed p. 9 |
+
+
+**Acceptance count: taught in 9 countries (Ethiopia, Honduras, Finland, Iran, Venezuela, Malaysia, Moldova, Syria, Armenia).** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Honesty notes: Book 2's photography part is a teacher-guide part, cited at the section level its placement gives (§1.4, printed pp. 18–22, inside a wider shapes/forms/colours section) and labelled evidence; the lesson's core rests on Book 1, a student book. The Grade 3 book's camera is a film camera — light through a lens, an image on film, printed on prepared papers — and the lesson keeps the book's own account; phone cameras are mentioned only in the Do It First looking activity, not as book content. No camera technique beyond the placements (no exposure settings, no lens types) has been added.
 
-Searchable tags: photography, taking a photograph, camera, lens, film, vertical, ቋሚ, horizontal, አግዳሚ, portrait, landscape, ቁምና ዝርግ ፎቶግራፍ, passing a message by photograph, passing a message by video, Finland, Syria
+Searchable tags: photography, taking a photograph, camera, lens, film, vertical, ቋሚ, horizontal, አግዳሚ, portrait, landscape, ቁምና ዝርግ ፎቶግራፍ, passing a message by photograph, passing a message by video, Finland, Syria, Armenia

@@ -1,6 +1,6 @@
 # Sources — Shadow Theatre
 
-countries: Romania, Serbia
+countries: Romania, Serbia, Armenia
 
 **Book 1:** *Arte vizuale și abilități practice — Manual pentru clasa a III-a, Semestrul al II-lea (Visual Arts and Practical Skills, Grade 3, Semester 2)* (student book, Romanian) — Romania, Ministerul Educației și Cercetării Științifice / Editura CD Press, 2015; authors Mirela Flonta, Claudia Stupineanu, Simona Dobrescu; approved by ministerial order 5046/25.08.2015; ISBN 978-606-528-223-0 (work), 978-606-528-269-8 (Part 2), Grade 3, 48 PDF pp. STUDENT — student book. Verdict: COMPLETE. The PDF is image-only (no text layer), so it was read visually page by page from 100-DPI renders; PDF and renders deleted after filing. Cover verified: title, grade and semester match the record. Excluded per the placements: the three Recapitulare. Evaluare test pages (printed pp. 24, 34, 46) and the final evaluation test part (printed p. 47) are the book's own assessment — excluded; their companion PROJECTS (plaster vase, School Street, Hansel and Gretel set) do teach skills and are placed. The closing Dicționar (printed p. 48) is a glossary — inventory-only, named here, never stocked as parts. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/romania-placements.md.
 
@@ -12,8 +12,15 @@ countries: Romania, Serbia
 | Sub lesson 2 — Did You Know?: shadow theatre appeared in India, its technique developed by the Chinese, known in Europe only in the 18th century, and an inspiration for animated drawings; the hand-shadow game and a glove puppet sewn from an old glove (original target `drama-and-dance/shadow-theatre`) | Book 1, printed p. 41 |
 | Serbia — "Body speech": shadow play — shadow play (игра сенки) is a form of conveying feelings, moods and ideas with shadow alone, practised by special theatre groups; it conveys the characters' feelings although there is neither gaze nor facial expression; a shadow's size is achieved by moving away from, or closer to, the wall or screen; using a lamp and a screen, make the performance "Playful Shadows" (Разигране сенке) — one group holds the screen and lamp, one acts the shadow play, one produces sound effects, one films it; then watch the recordings and say what was done successfully and what less well, and why (original target `drama-and-dance/shadow-theatre`) | Book 2, printed p. 43 |
 
-**Acceptance count: taught in 2 countries (Romania, Serbia).**
+**Book 3:** *Կերպարվեստ 3 (Fine Arts 3)* (student book, Armenian) — Armenia, Zangak, Yerevan (ministry-approved); year not printed in the extracted front matter; ISBN not printed in the extracted front matter. Grade: 3 (student/teacher: STUDENT). PDF pages: 72 (cover verified against the record title; byte size 89,615,518 matches the release index exactly; fetched via the recorded ministry source_url). Verdict: COMPLETE (the closing word-list, printed p. 70, is a glossary — inventory only, not placed). Authors: Mariam Petrosyan, Marine Manukyan. The grade-2 module frame deepened: Creation (watercolour, clay), Elements and design principles (volume, space, proportion), Innovation and imagination (realistic, landscape, portrait, abstract, imaginary), Presentation and critical response, Connections (art history: the kinds of art; the role of art; monuments and museums; a shadow-theatre project). Armenia's own way: the year's monuments are Armenia's storytellers — the statues of Sasuntsi Davit and Mesrop Mashtots "tell stories" — and the final project is a shadow theatre the class builds and posters itself. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia — In the SHADOW THEATRE (ստվերային թատրոն) — the actors can be the shadows of our hands or of puppets: build the figures step by step, fix the stick, "bring the pictures alive", make a poster and invite the family (student book; original target `drama-and-dance/shadow-theatre`) | Book 3, printed p. 68 |
+
+
+**Acceptance count: taught in 3 countries (Romania, Serbia, Armenia).** Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `drama-and-dance/shadow-theatre`); the Romania placements were filed under the original string `drama-and-dance/shadow-theatre`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Romania's own way: shadow theatre is taught as a complete staging craft — screen, figures, lamp and show — with its history told as the book tells it, and the glove puppet sewn from an old glove as its companion making. (In this lesson's sources, Book 1 is the Romania Grade 3 Arte vizuale book.)
 
-Searchable tags: shadow theatre, shadow puppets, screen, hand shadows, glove puppet, India, China, Romania
+Searchable tags: shadow theatre, shadow puppets, screen, hand shadows, glove puppet, India, China, Romania, Armenia

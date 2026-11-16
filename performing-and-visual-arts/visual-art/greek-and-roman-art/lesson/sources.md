@@ -1,6 +1,6 @@
 # Sources — Greek and Roman Art
 
-countries: Jordan, Venezuela
+countries: Jordan, Venezuela, Armenia
 
 **Book 1:** *التربية الفنية والموسيقية والمسرحية — الصف العاشر (Art, Music and Theatre Education — Grade Ten), teacher's guide (دليل المعلم)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Amman; year 2025 (first experimental edition, 1446H/2025); ISBN 978-9923-41-960-1. Grade: Grade 10 (student/teacher: TEACHER). PDF pages: 125 (cover/title page verified against the record title; printed page numbers equal PDF page numbers). Verdict: COMPLETE — read in full, page by page. Note: the Grade 10 student book is not among this group's records; this guide is the only evidence held for the Grade 10 curriculum, so every placement from it is marked teacher-guide evidence. The per-lesson self-assessment rubrics are assessment apparatus with no teaching content and are not placed; the three embedded play/story texts are summarised, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -18,8 +18,22 @@ countries: Jordan, Venezuela
 | Venezuela — Pintura griega: Greek painting, preserved on ceramics — narrative scenes, first black figures on red ground, then red on black, gaining naturalism and depth by overlapping (student book) | Book 2, printed p. 93 |
 | Venezuela — Pintura romana y mosaico: Roman painting — frescoes and mosaics of small coloured tesserae of stone, ceramic or glass, often copying Greek masters such as Apelles, with Hellenistic naturalism, volume and perspective (student book) | Book 2, printed pp. 94–95 |
 
-**Acceptance count: taught in 1 country (Venezuela).** Jordan is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 3:** *Արվեստ 8 (Art 8), methodological guide; authors A. Hakobyan, G. Meliksetyan, K. Poghosyan* (teacher guide, Armenian) — Armenia, Antares, Yerevan; year 2024; ISBN not printed in the extracted front matter. Grade: 8 (student/teacher: TEACHER). PDF pages: 29 (title verified; fetched via the recorded ministry source_url — this record is NOT in the GitHub release index, so no release byte size exists to check against; the served file is 325,055 bytes). Verdict: COMPLETE (the sample lesson plan, printed pp. 13-15, is apparatus, named not placed; the professional-terms dictionary, pp. 25-27, is a glossary — inventory only; the literature list, p. 28, is inventory only). The guide to the combined grade-8 "Arvest" subject (Book 28): the subject joins fine art, decorative-applied art, music, theatre, architecture, cinema and dance. Section 1: perceiving reality through art (art history); Section 2: artistic activity (elements and principles). Armenia's own way: the combined subject keeps Armenia inside every section — Armenian national songs and dances in the history section, the Kochari among the national dances in the activity section, and Armenian art of the ancient world and middle ages analysed beside Greece and Rome. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia — The thematic plan (teacher-guide evidence) — study the theatre of Ancient Greece and the Ancient World, analyse samples of Armenian art of the ancient world and the middle ages, and know the Renaissance's greatest representatives and their works (teacher guide — evidence; original target `visual-art/ancient-greek-art`) | Book 3, printed p. 9 |
+
+**Book 4:** *ԱՐՎԵՍՏ 10 — Հանրակրթական ավագ դպրոցի 10-րդ դասարանի դասագիրք (Art 10, textbook for grade 10 of general senior school)* (student book, Armenian) — Armenia, Zangak («Զանգակ» հրատարակչություն), Yerevan; year 2024; ISBN 978-9939-99-192-4. Grade: 10 (student/teacher: STUDENT). PDF pages: 196 (cover/title page verified against the record title; read in place from phase3-staging, 44,553,049 bytes — matches the books.json file_size_bytes). Verdict: COMPLETE Authors: Artur Avanesov, Elena Gyulmisaryan, Anush Aslibekyan, Tatevik Shakhkulyan, Ani Hakobyan. Approved by the RA Ministry of Education, Science, Culture and Sport. Library debt noted: the GitHub release asset under this same filename is 8,402,447 bytes — the older Կերպարվեստ 10 file pushed under the shared name (already recorded in the Armenia checklist, 2026-11-05 refill scan); the staged 44.5 MB Արվեստ 10 is the book read here. Armenia's own way: a one-volume history of all the arts — world art from prehistory to Japan, with Armenia woven through it on its own terms: the Van (Urartu) kingdom, Hellenism in Armenia, Armenian medieval music, khaz notation, miniature painting and medieval theatre each get their own chapters. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia — Art in Ancient Greece; classical art — Greek sculpture, painting and building at their classical height (student book; original target `visual-art/ancient-greek-art`) | Book 4, printed p. 63 |
+| Armenia — Art of Ancient Rome (Հին Հռոմի արվեստը) — Roman building, sculpture and painting (student book; original target `visual-art/ancient-roman-art`) | Book 4, printed p. 88 |
+
+
+**Acceptance count: taught in 2 countries (Venezuela, Armenia).** Jordan is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/greek-and-roman-art`); the Jordan placements were filed under the original string(s) `visual-art/art-of-roman-civilisation` and resolved to this lesson by slug-registry Part 2. Songs and stories are placed by summary only, never transcribed.
 
-Searchable tags: greek and roman art, Jordan
+Searchable tags: greek and roman art, Jordan, Armenia
