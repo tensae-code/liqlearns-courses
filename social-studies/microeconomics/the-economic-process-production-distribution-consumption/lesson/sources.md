@@ -1,0 +1,15 @@
+# Sources — The economic process — production, distribution, consumption
+
+countries: Bolivia
+
+**Book 1:** *Texto de Aprendizaje — Área: Ciencias Sociales, Cuarto año de Educación Secundaria Comunitaria Productiva* (student book, Spanish) — Ministerio de Educación, Estado Plurinacional de Bolivia; gestión 2023–2024; no ISBN printed. Title as printed: Texto de Aprendizaje — Área: Ciencias Sociales, Cuarto año de Educación Secundaria Comunitaria Productiva. Grade: 10 (Secundaria 4) (student/teacher: STUDENT). PDF pages: 108 (byte size 16,369,358 and page count verified against the record; placements cite PDF pages, as in the Secundaria 1 and 2 books). Verdict: COMPLETE. Contents map: Economics parts pp. 17 (Sucre's direct contribution), 30–33 (librecambismo defined, Santa Cruz's protectionism, primitive accumulation through the hacienda), 51–55 (the silver-mining phases and the rescate monopoly), 54 (the pulperías), 67 (the rubber boom), 75–80 (natural resources, supply and demand, the economic process, the three sectors), 95 (sustainable development); History/Civics parts (named, not placed) fill the rest. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bolivia-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia part — Las actividades económicas — teaches: an economic activity produces or exchanges goods and services to satisfy a population's needs, and every such activity runs a three-phase cycle — production (transforming raw material), distribution (reaching the commercial circuits and consumers) and consumption (closing the circuit and returning the capital to sustain the scheme) — with low production and high consumption leading to price rises and scarcity, and the opposite to cheapening | Bolivia, *Bolivia Grade 10 Texto de Aprendizaje Ciencias Sociales Secundaria 4*, Las actividades económicas — PDF p. 78 |
+
+**Acceptance count: taught in 1 country (Bolivia).**
+
+Bolivia's own way (Bolivia Grade 10 Texto de Aprendizaje Ciencias Sociales Secundaria 4): alongside the national story (Sucre's tax design, the silver cycle, the rubber boom), this year carries the wave's most textbook-like basic economics in the Bolivia set — supply and demand, the production–distribution–consumption cycle and the three sectors, all inside a unit on natural resources and Mother Earth.
+
+Searchable tags: the economic process — production, distribution, consumption, bolivia, social studies, microeconomics

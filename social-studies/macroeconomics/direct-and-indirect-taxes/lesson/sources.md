@@ -1,6 +1,6 @@
 # Sources — Direct and indirect taxes
 
-countries: Ethiopia, Uganda, Dominica, Uzbekistan, Egypt, Vietnam, Indonesia, Pakistan
+countries: Ethiopia, Uganda, Dominica, Uzbekistan, Egypt, Vietnam, Indonesia, Pakistan, Bolivia
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -55,7 +55,15 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Pakistan part — Ch. 4.4 Kinds of Taxes — teaches: direct taxes against indirect taxes, each with its advantages and disadvantages, and the ratio of taxes in national income | Pakistan, *Pakistan Grade 12 Economics Class 12*, Ch. 4.4 Kinds of Taxes — printed pp. 79-83 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Uganda, Dominica, Uzbekistan, Egypt, Vietnam, Indonesia, Pakistan).**
+**Book 9:** *Texto de Aprendizaje — Área: Ciencias Sociales, Cuarto año de Educación Secundaria Comunitaria Productiva* (student book, Spanish) — Ministerio de Educación, Estado Plurinacional de Bolivia; gestión 2023–2024; no ISBN printed. Title as printed: Texto de Aprendizaje — Área: Ciencias Sociales, Cuarto año de Educación Secundaria Comunitaria Productiva. Grade: 10 (Secundaria 4) (student/teacher: STUDENT). PDF pages: 108 (byte size 16,369,358 and page count verified against the record; placements cite PDF pages, as in the Secundaria 1 and 2 books). Verdict: COMPLETE. Contents map: Economics parts pp. 17 (Sucre's direct contribution), 30–33 (librecambismo defined, Santa Cruz's protectionism, primitive accumulation through the hacienda), 51–55 (the silver-mining phases and the rescate monopoly), 54 (the pulperías), 67 (the rubber boom), 75–80 (natural resources, supply and demand, the economic process, the three sectors), 95 (sustainable development); History/Civics parts (named, not placed) fill the rest. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bolivia-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bolivia part — La consolidación del tributo indigenal y la servidumbre — teaches: to replace the indigenous tribute (one of the fundamental supports of the administrative economy), Sucre designed the contribución directa from three sources — a personal contribution from every man aged 18 to 60, a property contribution as a percentage of the property's value in city or countryside, and a primitive income tax (a deduction from public officials and a tax on people active in a profession or trade) | Bolivia, *Bolivia Grade 10 Texto de Aprendizaje Ciencias Sociales Secundaria 4*, La consolidación del tributo indigenal y la servidumbre — PDF p. 17 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Uganda, Dominica, Uzbekistan, Egypt, Vietnam, Indonesia, Pakistan, Bolivia).**
+
+Bolivia's own way (Bolivia Grade 10 Texto de Aprendizaje Ciencias Sociales Secundaria 4): alongside the national story (Sucre's tax design, the silver cycle, the rubber boom), this year carries the wave's most textbook-like basic economics in the Bolivia set — supply and demand, the production–distribution–consumption cycle and the three sectors, all inside a unit on natural resources and Mother Earth.
 
 Pakistan's own way (Pakistan Grade 12 Economics Class 12): the Class 12 book runs the standard macro course (national income, money, banks, public finance, trade) and then turns the same tools onto Pakistan itself for six chapters — Pakistan's sectors, national income, planning, transport and manpower, banking system, government finances and foreign trade — closing with the Islamic economic system (Zakat, Ushr, interest-free banking) taught as a full alternative system, not a footnote.
 
@@ -72,4 +80,4 @@ Uganda's own way (Uganda Primary 5 Excel Standard Social Studies): a commercial 
 
 Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
 
-Searchable tags: direct and indirect taxes, grade 12 economics, ethiopia, social studies, macroeconomics, uganda, PAYE, VAT, customs duty, excise duty, uganda revenue authority, smuggling, dominica, csec principles of business, caribbean, uzbekistan, egypt, vietnam, indonesia, pakistan
+Searchable tags: direct and indirect taxes, grade 12 economics, ethiopia, social studies, macroeconomics, uganda, PAYE, VAT, customs duty, excise duty, uganda revenue authority, smuggling, dominica, csec principles of business, caribbean, uzbekistan, egypt, vietnam, indonesia, pakistan, bolivia

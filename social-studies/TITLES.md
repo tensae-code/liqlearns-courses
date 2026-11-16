@@ -4236,7 +4236,7 @@ History lessons: 3677 → 3897.
 
 ## Economics expansion totals
 
-Economics lessons across the Economics titles: **764**
+Economics lessons across the Economics titles: **799**
 (376 before the expansion; +2 for United Arab Emirates,
 2026-11-15 — Microeconomics: Basic needs and other needs
 and Work and its different forms; +2 for Iceland,
@@ -4656,4 +4656,37 @@ Federal and provincial revenue and expenditure in
 Pakistan, Zakat and Ushr, Pakistan's exports and imports,
 Pakistan's balance of payments and trade problems, WTO and
 Pakistan, The Islamic economic system; People and
-Resources: Malthusian theory of population).
+Resources: Malthusian theory of population); +35 for Bolivia,
+2026-11-16 — Microeconomics: Division of labour — many
+hands, each doing one part, Taylorism and the division
+of production tasks, Economic liberalism — free trade
+and a minimal state, The economic process — production,
+distribution, consumption; Market and Money: The state's
+silver rescate monopoly and the moneda feble,
+Bolivianización — confidence in the national currency,
+Desdolarización and the parallel dollar market, 1982,
+Expansive and contractive monetary policy; Macroeconomics:
+Forced labour systems of the colonial world, Latifundio
+expansion against the ayllu in colonial Bolivia, The
+Bourbon free-trade regulations of 1778, The slave-trade
+triangle and the Industrial Revolution, Free trade versus
+protectionism in 19th-century Bolivia, The rise of
+capitalism and the silver magnates in Bolivia,
+Privatisation of communal land and the hacienda regime,
+The Cochabamba Water War and water privatisation, The
+1929 crisis in Latin America and Bolivia, Bolivia's tin
+boom and export-led growth, Nationalisation of Standard
+Oil in Bolivia, 1937, Social constitutionalism and
+property with a social function, 1938, Nationalisation
+of the mines, 1952, Bolivia's 1953 agrarian reform and
+its effects, The Eder stabilisation plan, 1956, The
+Triangular Plan and conditionality, Decree 21060 and
+Bolivia's neoliberal turn, OPEC and the 1973 oil crisis,
+The Davenport Code and oil denationalisation, The
+neoliberal model in Latin America, The UDP economic
+package and dedollarisation, 1982, Bolivia's
+hyperinflation, 1982–1985, Nationalisation of
+hydrocarbons, 2006, Potosí silver and Spain's mortgaged
+treasure, Primitive accumulation through the latifundio
+hacienda, Bolivia's rubber boom and the Casa Suárez;
+Culture and Work: Tiahuanaco's Andean trade network).
