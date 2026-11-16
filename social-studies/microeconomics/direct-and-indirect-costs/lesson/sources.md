@@ -1,0 +1,39 @@
+# Sources — Direct and indirect costs
+
+countries: Laos
+
+**Book 1:** *ທຸລະກິດສໍາລັບຮຽນຄວບ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 6 (Business Combined, Secondary Year 6)* (student book, Lao) — Educational Sciences Research Institute, Ministry of Education and Sports, Lao PDR; year 2015; no ISBN printed. Title as printed: ທຸລະກິດສໍາລັບຮຽນຄວບ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 6 (Business Combined, Secondary Year 6). Grade: 11 (ມ.6) (student/teacher: STUDENT). PDF pages: 65 (cover and contents verified against the record title; 635,341 bytes, exact match to the record; read via the record's own recorded source_url (the Lao-Textbook GitHub mirror) after the grab.py tree route failed with RemoteDisconnected; the Lao text layer is a legacy non-Unicode font, so the book was read as an image book — pages rendered at 100 DPI and read in 4-up contact sheets). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/laos-placements.md. Contents map: Economics parts printed pp. 1-19 (Ch. 1 start-up capital and getting money) and pp. 20-28 (Ch. 2 §1 production costs, incl. depreciation); Business/Accounting pp. 29-38 (Ch. 2 §2 financial management and accounts), pp. 39-43 (Ch. 3 preparing a business plan) and pp. 44-64 (Ch. 4 presenting your own business plan in detail).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — Knowing the production costs of your business | Laos, *Laos Grade 11 Business Combined student*, Ch. 2 §1 Knowing the production costs of your business — printed p. 20 |
+| Sub lesson 2 — Direct costs — material costs and direct labour costs | Laos, *Laos Grade 11 Business Combined student*, Ch. 2 §1 Knowing the production costs of your business — printed p. 20 |
+| Sub lesson 3 — Indirect costs — the rest of running the business | Laos, *Laos Grade 11 Business Combined student*, Ch. 2 §1 Knowing the production costs of your business — printed p. 20 |
+
+**Book 2:** *ຄູ່ມື ທຸລະກິດສໍາລັບຮຽນຄວບ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 6 (Teacher Guide: Business Combined, Secondary Year 6)* (teacher guide, Lao) — Educational Sciences Research Institute, Ministry of Education and Sports, Lao PDR; year 2015; no ISBN printed. Title as printed: ຄູ່ມື ທຸລະກິດສໍາລັບຮຽນຄວບ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 6 (Teacher Guide: Business Combined, Secondary Year 6). Grade: 11 (ມ.6) (student/teacher: TEACHER). PDF pages: 65 (cover and contents verified against the record title; 941,417 bytes, exact match to the record; read as an image book, as the pupil book above). Verdict: COMPLETE — guide mirrors the pupil book; no separate placements filed to avoid double-counting. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/laos-placements.md. Contents map: general introduction then lesson plans for the same 4 chapters as the pupil book; Economics parts mirror the pupil book's Ch. 1 and Ch. 2 §1 (guide evidence for the capital, credit, costs and depreciation content placed there).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Teacher guide — evidence for the Laos parts above: the guide mirrors the pupil book (lesson plans for the same chapters); no separate placement was filed from it, to avoid double-counting (teacher guide — evidence) | Laos, *Laos Grade 11 Business Combined Teacher Guide*, lesson plans mirroring the pupil book's Ch. 1 and Ch. 2 §1 |
+
+**Book 3:** *ທຸລະກິດ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 6 (Business, Secondary Year 6)* (student book, Lao) — Educational Sciences Research Institute, Ministry of Education and Sports, Lao PDR; year 2015; no ISBN printed. Title as printed: ທຸລະກິດ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 6 (Business, Secondary Year 6). Grade: 11 (ມ.6) (student/teacher: STUDENT). PDF pages: 153 (cover and contents verified against the record title; 2,037,547 bytes, exact match to the record; read via the record's own recorded source_url (the Lao-Textbook GitHub mirror) after the grab.py tree route failed with RemoteDisconnected; the Lao text layer is a legacy non-Unicode font, so the book was read as an image book — pages rendered at 100 DPI and read in 4-up contact sheets). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/laos-placements.md. Contents map: Economics parts printed pp. 1-17 (Ch. 1 §1 choosing a suitable market: what a market is, customers and demand), pp. 31-52 (Ch. 1 §§4-5 start-up capital and obtaining money) and pp. 76-84 (Ch. 2 §6 production costs, incl. depreciation); Business pp. 18-30 (choosing a location, legal forms of business ownership), pp. 53-75 (Ch. 2 §§1-5 employing and managing people, time, sales, suppliers, technology), pp. 99-133 (Ch. 3 the business plan) and pp. 134-152 (Ch. 4 presenting the plan); Accounting pp. 85-98 (Ch. 2 §§7-8 financial management and using financial statements/accounts).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — Knowing the production costs of your business (the Grade 11 Business book's worked tables) | Laos, *Laos Grade 11 Business student*, Ch. 2 §6.1 Direct and indirect costs — printed p. 76 |
+| Sub lesson 2 — Direct costs — material costs and direct labour costs (the Grade 11 Business book's diagram) | Laos, *Laos Grade 11 Business student*, Ch. 2 §6.1 Direct and indirect costs — printed p. 76 |
+| Sub lesson 3 — Indirect costs — the rest of running the business (the Grade 11 Business book's list) | Laos, *Laos Grade 11 Business student*, Ch. 2 §6.1 Direct and indirect costs — printed p. 76 |
+
+**Book 4:** *ຄູ່ມື ທຸລະກິດ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 6 (Teacher Guide: Business, Secondary Year 6)* (teacher guide, Lao) — Educational Sciences Research Institute, Ministry of Education and Sports, Lao PDR; year 2015; no ISBN printed. Title as printed: ຄູ່ມື ທຸລະກິດ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 6 (Teacher Guide: Business, Secondary Year 6). Grade: 11 (ມ.6) (student/teacher: TEACHER). PDF pages: 161 (cover and contents verified against the record title; 1,933,793 bytes, exact match to the record; read as an image book, as the pupil book above). Verdict: COMPLETE — guide mirrors the pupil book; no separate placements filed to avoid double-counting. Cited as teacher-guide evidence only, outside acceptance counts. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/laos-placements.md. Contents map: general introduction then lesson plans for the same 4 chapters as the pupil book (guide Ch. 1 printed pp. 13-52, Ch. 2 pp. 53-107, Ch. 3 pp. 108-136, Ch. 4 pp. 137-160); Economics parts mirror the pupil book's Ch. 1 §§1, 4-5 and Ch. 2 §6 (guide evidence for the market, demand, capital, credit, costs and depreciation content placed there).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Teacher guide — evidence for the Laos parts above: the guide mirrors the pupil book (lesson plans for the same chapters); no separate placement was filed from it, to avoid double-counting (teacher guide — evidence) | Laos, *Laos Grade 11 Business Teacher Guide*, lesson plans mirroring the pupil book's Ch. 1 §§1, 4-5 and Ch. 2 §6 |
+
+**Acceptance count: taught in 1 country (Laos).**
+
+Laos' own way (Laos Grade 11 Business Combined student): costs and capital are taught with full kip arithmetic — a machine bought for 120,000,000 kip is depreciated over its 5-year life at 24,000,000 kip a year, inside a printed table of asset lives (buildings 20 years at 5%, machinery 8-10 years, vehicles 5 years).
+
+Laos' own way (Laos Grade 11 Business student): the market is defined three ways at once — everyday (a place to buy and sell), economic (the group of buyers and sellers who exchange), and marketing (people with a need and the money to pay) — and costs are drilled with the SMOC sorting exercise (Salary, Material, Other, Capital).
+
+Searchable tags: direct and indirect costs, material costs, direct labour costs, rent, salaries, loan interest, electricity, telephone, insurance, SMOC, laos, social studies, microeconomics

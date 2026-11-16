@@ -13483,3 +13483,102 @@ the Freeport container port); Grade 6 teaches the state's
 economic machinery (Ministry of Finance, budget and taxes,
 unions' collective voice) and files human resources under
 conservation. Economics lessons: 411 → 417.
+
+## Economics expansion — Laos — built 2026-11-16
+
+Laos — 23 placements stocked from 4 student books (all
+Educational Sciences Research Institute, Ministry of
+Education and Sports, Lao PDR): *Business Combined,
+Secondary Year 5* (Grade 10, 2014, no ISBN printed,
+COMPLETE), *Business, Secondary Year 5* (Grade 10, 2014,
+no ISBN printed, COMPLETE), *Business Combined, Secondary
+Year 6* (Grade 11, 2015, no ISBN printed, COMPLETE) and
+*Business, Secondary Year 6* (Grade 11, 2015, no ISBN
+printed, COMPLETE). laos-placements.md was read in full
+(8 records / 8 distinct books). The placement lines
+actually written are 15 to existing lessons + 8 NEW
+LESSON NEEDED lines, matching the wave close — and the
+8 NEW lines name only 5 distinct new lessons, since
+market-and-money/start-up-capital-and-working-capital,
+microeconomics/direct-and-indirect-costs and
+microeconomics/depreciation-spreading-the-cost-of-
+equipment are each placed twice (Grade 11 Combined book
+and Grade 11 Business book). All 4 student books count
+in acceptance. The 4 companion teacher guides (Grade 10
+Combined, Grade 10, Grade 11 Combined, Grade 11 — all
+COMPLETE) mirror the pupil books and carry 0 placements
+as filed, to avoid double-counting; each is cited in the
+lessons as teacher-guide evidence only, outside the
+acceptance counts. Route note carried as filed: the
+grab.py tree route failed with RemoteDisconnected, so
+each file was read from the record's own recorded
+source_url (the Lao-Textbook GitHub mirror) and verified
+exactly against the record (byte size and page count);
+the Lao text layer is a legacy non-Unicode font, so the
+books were read as image books. 15 stocked into standing
+lessons — **Culture and Work**: Sources of income (Grade
+10 Combined, Ch. 4 §1.1, printed p. 25; acceptance 1 →
+2); Market competition and monopoly (Grade 10, Ch. 2
+Case Study 1, printed p. 30; acceptance 1 → 2); Managing
+credit and loans (Grade 11 Combined, Ch. 1 §2, printed
+p. 8, and Grade 11, Ch. 1 §5, printed p. 38; acceptance
+2 → 3) — **People and Resources**: Sectors of the
+economy (Grade 10, Ch. 1 §1, printed p. 5; acceptance
+4 → 5) — **Microeconomics**: Land, labour, capital,
+entrepreneurship (Grade 10, Ch. 2 §1.4, printed p. 27;
+acceptance 3 → 4); The capitalist economy (Grade 10,
+Ch. 2 §2.1, printed p. 29; acceptance 1 → 2); What to
+produce (Grade 10, Ch. 4 §1.2, printed p. 99; acceptance
+1 → 2); For whom to produce (Grade 10, Ch. 4 §1.2,
+printed p. 99; acceptance 1 → 2); How to produce (Grade
+10, Ch. 4 §1.2, printed p. 99; acceptance 1 → 2); Demand
+— wanting, plus able and willing to pay (Grade 11, Ch. 1
+§1.1.1, printed p. 1; acceptance 1 → 2) — **Market and
+Money**: The circular flow — real flow and money flow
+(Grade 10, Ch. 4 §3 and §1.1, printed p. 96; acceptance
+1 → 2); Markets — and the market for goods and services
+(Grade 11, Ch. 1 §1.1.1, printed p. 1; acceptance 2 → 3)
+— **Macroeconomics**: The labour force and the
+unemployment rate (Grade 10, Ch. 4 §1.1, printed p. 97;
+acceptance 1 → 2); What a tax is (Grade 10, Ch. 4 §1.1,
+printed p. 97; acceptance 4 → 5) — and 5 new lessons
+built (12 questions each) — in **Microeconomics**:
+Self-employment versus wage employment (1 placement,
+Grade 10 Combined, Ch. 4 §§1.2-1.3 and §2, printed
+p. 26 — side-by-side advantage/disadvantage tables on
+independence, income and security; profit and income as
+the self-employed person's return; part of each year's
+income to be saved), Direct and indirect costs (2
+placements, Grade 11 Combined, Ch. 2 §1, printed p. 20,
+and Grade 11, Ch. 2 §6.1, printed p. 76 — direct costs
+as material costs and direct labour costs, indirect
+costs as the rest: rent, salaries, loan interest,
+electricity, telephone, insurance) and Depreciation —
+spreading the cost of equipment (2 placements, Grade 11
+Combined, Ch. 2 §1.2.6, printed p. 23, and Grade 11,
+Ch. 2 §6.1.6, printed p. 81 — price divided by years of
+use, 120,000,000 kip over 5 years = 24,000,000 kip a
+year, with the printed table of asset lives: buildings
+20 years/5%, machinery 8-10 years/10-12%, printers
+3-5 years/20-33%, vehicles 5 years/20%); in
+**Macroeconomics**: What business does for the economy
+(1 placement, Grade 10, Ch. 2 §§1.2-1.3, printed p. 25 —
+business creates jobs, starts private enterprise,
+promotes competition, spreads development and creates
+income for people and the state); in **Market and
+Money**: Start-up capital and working capital (2
+placements, Grade 11 Combined, Ch. 1 §1, printed p. 1,
+and Grade 11, Ch. 1 §4, printed p. 31 — investment money
+spent once before opening: land, buildings, machinery,
+equipment, licences; working capital spent again and
+again: stock, wages, transport, covering the wait
+before income arrives). Laos' own way: Economics is
+taught as the theory inside a "become a businessperson"
+course, drawn from village life — weaving, market stalls
+and repair shops; work choices are taught through kip
+amounts (10,000 kip a year against 100,000 kip a year);
+the market is defined three ways at once (everyday,
+economic, marketing); and costs and capital are taught
+with full kip arithmetic and the SMOC sorting exercise
+(Salary, Material, Other, Capital). Economics lessons:
+417 → 422.

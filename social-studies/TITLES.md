@@ -4236,7 +4236,7 @@ History lessons: 3677 → 3897.
 
 ## Economics expansion totals
 
-Economics lessons across the Economics titles: **417**
+Economics lessons across the Economics titles: **422**
 (376 before the expansion; +2 for United Arab Emirates,
 2026-11-15 — Microeconomics: Basic needs and other needs
 and Work and its different forms; +2 for Iceland,
@@ -4282,4 +4282,9 @@ economy, Human capital formation and Natural
 resources, exports and jobs; Market and Money:
 Offshore banking and insurance, Transshipment and
 the container port and Collective bargaining and
-wage setting).
+wage setting); +5 for Laos,
+2026-11-16 — Microeconomics: Self-employment versus
+wage employment, Direct and indirect costs and
+Depreciation — spreading the cost of equipment;
+Macroeconomics: What business does for the economy;
+Market and Money: Start-up capital and working capital).
