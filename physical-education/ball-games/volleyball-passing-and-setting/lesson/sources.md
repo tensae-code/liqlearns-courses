@@ -1,6 +1,6 @@
 # Sources — Volleyball Passing and Setting
 
-countries: Ethiopia
+countries: Ethiopia, Afghanistan
 
 **Book — Grade 5 student:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 106 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md. COMPLETE.
 
@@ -27,7 +27,7 @@ countries: Ethiopia
 | The spike — Grade 9 | Ethiopia, Grade 9 teacher Unit 5 spike (teacher guide — evidence), printed pp. 65–72 |
 | Blocking — Grade 10 | Ethiopia, Grade 10 student §5.2 Blocking skills + §5.1 rules, printed pp. 86–98 |
 | Blocking — Grade 10 | Ethiopia, Grade 10 teacher Unit 5 blocking and rules (teacher guide — evidence), printed pp. 60–69 |
-**Acceptance count: taught in 1 country (Ethiopia).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught.
+**Acceptance count: taught in 1 country (Ethiopia).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count.
 
 The Grade 5 and Grade 6 teacher guides' ball-games chapters are in the truncated missing ranges of those scans (G5T Chapter 6, pp. 57–77; G6T Chapter 6, pp. 65–82), so this lesson rests on the complete student books only; no teacher-guide pages are claimed for it.
 
@@ -36,5 +36,27 @@ Student books Grades 5–7 are complete. No page is claimed that the placements 
 The Grade 10 teacher guide is substantively complete (printed pp. I–IX + 1–93): all 8 units, knowledge content and answer keys are present; only §8.3's final step-by-step teaching procedure is cut mid-sentence at printed p. 92. Teacher-guide rows are evidence only and never count as pupil-taught.
 
 The Grade 9 books are the English federal 2023 GEQIP-E series (the Grades 1–8 books are Amharic-medium); Grade 9–10 target terms are given as the books print them, in English. The Grade 9 teacher guide is COMPLETE.
+
+## Afghanistan — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/afghanistan-pe-placements.md. Afghanistan's two PE books read for this expansion are both TEACHER guides — the Grade 7 guide in Dari and the Grade 10 guide in Pashto — both COMPLETE, read in full, and both staged in phase3-staging under the push-don't-delete rule (neither is in the GitHub repo tree), as filed. Afghanistan is therefore filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. The other Afghanistan records are record-only, as filed in the placements file: one login-blocked Darakhtdanesh library resource (UNREAD, no-login rule), a Telegram hunt note stating PE was not found, a ministry file that proved to be a PE teacher-skills exam-results spreadsheet, and records that proved to be other subjects (Grade 5 Pashto art, Forty Hadiths, a Grade 9 Dari language book, a Grade 7 Dari civics book) or a duplicate shop page for the Grade 7 guide read as Book 1 — nothing is stocked from any of them.
+
+**Book — Afghanistan Grade 7 PE teacher guide, Dari (teacher guide — evidence):**
+## Book 1 — G7 PE Teacher Guide, Dari (teacher guide, Dari)
+- Title as printed: رهنمای معلم تربیت بدنی — صنف هفتم (Physical Education Teacher's Guide — Grade Seven)
+- Grade: 7 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Afghanistan (Curriculum Development & Teacher Education); year 1396 HS (2017/18) as printed on the cover; no ISBN printed
+- PDF pages: 105 (cover/title page verified against the record title — cover image read: "رهنمای معلم تربیت بدنی، صنف هفتم", MoE)
+- Source: download-list link record — Internet Archive, books_tg collection (G7-Dr-Physical_Education.pdf). Not present in the GitHub repo tree (checked grade-07/gov/afghanistan) — staged in phase3-staging under the push-don't-delete rule (see reading log).
+- Verdict: COMPLETE
+- Tally: 22 placements — 18 to existing lessons, 4 NEW LESSON NEEDED
+- Afghanistan's own way: the year is planned twice over — one annual plan for cold-region schools (year starts in Hamal) and one for warm-region schools (year starts in Sunbula) — and theory is taught orally by the teacher at the start or end of the practical hour. The practical year rests on three sports only (fitness components, athletics, volleyball) plus Afghanistan's own traditional games. Front matter named, not placed: annual/monthly plans and teaching-guide plans (printed pp. 2–15), two sample lesson plans (physical fitness; basketball — basketball appears only as this sample plan, no skills chapter), and the PE assessment procedure with mark tables (printed pp. 12–15, assessment — excluded).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Afghanistan — The overhead finger pass (the set): finger and hand shape, cushioning and releasing the ball, and its variants — side set, back set, falling set and jump set — with wall, circle and partner drills (teacher guide — evidence) (original target `ball-games/volleyball-passing-and-setting`) | Afghanistan, *Afghanistan G7 PE TG Dari*, printed p. 80 |
+| Afghanistan — The forearm pass (the dig): locked straight arms forming a platform, body position, taking the serve, and defending with a dive and roll (teacher guide — evidence) (original target `ball-games/volleyball-passing-and-setting`) | Afghanistan, *Afghanistan G7 PE TG Dari*, printed p. 85 |
+
+Afghanistan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Afghanistan's own way is content, as the book lines above record it: the Grade 7 year is planned twice over — one annual plan for cold-region schools (year starts in Hamal) and one for warm-region schools (year starts in Sunbula) — with theory taught orally at the start or end of the practical hour, and the practical year resting on fitness, athletics, volleyball and Afghanistan's own traditional games; the Grade 10 lycee year is built on exactly two sports — basketball in the first half-year, tennis in the second — over a base of physical fitness, with the sciences around sport, first aid, sports massage and a full chapter on including disabled children in PE. Both Afghanistan books are teacher guides, filed as evidence only, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: volleyball passing and setting, the forearm pass, the finger pass, setting the ball for a team-mate, underarm serve and forearm receive, side underarm serve and receiving stance, physical education, Ethiopia

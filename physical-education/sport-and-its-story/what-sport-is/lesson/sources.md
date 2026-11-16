@@ -1,6 +1,6 @@
 # Sources — What Sport Is — and How It Differs from PE
 
-countries: Ethiopia
+countries: Ethiopia, Afghanistan
 
 **Book 1:** *Grade 6 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–95 + front matter (103 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g06-student-placements.md.
 
@@ -18,7 +18,7 @@ countries: Ethiopia
 | Prove-it questions folded from the book's own Chapter 1 review — Sub lesson 2 (teacher guide — evidence) | Ethiopia, *Grade 6 Teacher Guide*, Chapter 1 summary + assessment answers, printed pp. 10–11 (teacher guide — evidence) |
 | Prove-it questions folded from the book's own Chapter 1 review — Sub lesson 3 (teacher guide — evidence) | Ethiopia, *Grade 7 Teacher Guide*, §1.6 and Chapter 1 summary + review answers, printed pp. 12–13 (teacher guide — evidence) |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 1 country (Ethiopia).** Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count.
 
 The Grade 6 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -27,5 +27,26 @@ The Grade 6 teacher guide is a TRUNCATED scan: the file holds printed pp. 1–43
 The Grade 7 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
 The Grade 7 teacher guide is a TRUNCATED scan: the file holds printed pp. 1–45 — Chapters 1–3 complete — and ends at the end of Chapter 3. Chapters beyond Chapter 3 (by the series pattern: athletics, gymnastics, ball games and traditional games) are missing from the file. Parts resting on this guide are labelled (teacher guide — evidence) and never count as pupil-taught.
+
+## Afghanistan — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/afghanistan-pe-placements.md. Afghanistan's two PE books read for this expansion are both TEACHER guides — the Grade 7 guide in Dari and the Grade 10 guide in Pashto — both COMPLETE, read in full, and both staged in phase3-staging under the push-don't-delete rule (neither is in the GitHub repo tree), as filed. Afghanistan is therefore filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. The other Afghanistan records are record-only, as filed in the placements file: one login-blocked Darakhtdanesh library resource (UNREAD, no-login rule), a Telegram hunt note stating PE was not found, a ministry file that proved to be a PE teacher-skills exam-results spreadsheet, and records that proved to be other subjects (Grade 5 Pashto art, Forty Hadiths, a Grade 9 Dari language book, a Grade 7 Dari civics book) or a duplicate shop page for the Grade 7 guide read as Book 1 — nothing is stocked from any of them.
+
+**Book — Afghanistan Grade 10 PE teaching guide, Pashto (teacher guide — evidence):**
+## Book 2 — G10 PE Teaching Guide, Pashto (teacher guide, Pashto)
+- Title as printed: د ښوونکي کتاب — د بدني روزنې د تدریس لارښود — لسم ټولګی (Teacher's Book — Guide to Teaching Physical Education — Grade Ten)
+- Grade: 10 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Afghanistan (Curriculum Development Directorate); year 1399 HS (2020/21) as printed; no ISBN printed
+- PDF pages: 88 (title page verified against the record — "Tarbiyat G-10 Pashto": the book's own specification page names the subject, grade 10, Pashto text)
+- Source: download-list candidate record — moe.gov.af file served by Wayback Machine capture 20210509115206. NOT in GitHub — staged in phase3-staging under the push-don't-delete rule (see reading log).
+- Verdict: COMPLETE
+- Tally: 21 placements — 12 to existing lessons, 9 NEW LESSON NEEDED
+- Afghanistan's own way: the lycee PE year is built on exactly two sports — basketball in the first half-year, tennis in the second — over a base of physical fitness, and the theory course adds the sciences around sport (sociology, biomechanics), first aid, sports massage, and a full chapter on including disabled children in PE. Front matter named, not placed: annual and nine-month lesson plans for cold/warm-region schools (printed pp. 3–14), two sample lesson plans (physical fitness; basketball), the assessment procedure and mark tables (printed pp. 13–16, assessment — excluded), the aims and scope-and-sequence tables for the lycee cycle (printed pp. 17–18), measurement and evaluation in PE (printed p. 26, assessment — excluded), and PE teaching methods and lesson structure (printed pp. 27–30, teacher pedagogy; its warm-up/cool-down teaching is placed below).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Afghanistan — What sport is: the literal and technical definitions of sport as competitive activity bound by rules, and how it differs from PE (teacher guide — evidence) (original target `sport-and-its-story/what-sport-is`) | Afghanistan, *Afghanistan G10 PE TG Pashto*, printed p. 34 |
+
+Afghanistan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Afghanistan's own way is content, as the book lines above record it: the Grade 7 year is planned twice over — one annual plan for cold-region schools (year starts in Hamal) and one for warm-region schools (year starts in Sunbula) — with theory taught orally at the start or end of the practical hour, and the practical year resting on fitness, athletics, volleyball and Afghanistan's own traditional games; the Grade 10 lycee year is built on exactly two sports — basketball in the first half-year, tennis in the second — over a base of physical fitness, with the sciences around sport, first aid, sports massage and a full chapter on including disabled children in PE. Both Afghanistan books are teacher guides, filed as evidence only, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: what sport is, sport definition, PE and sport difference, Charles A. Butcher 1964, sport kinds የአገር ኳስ የመረብ ኳስ የእጅ ኳስ የቅርጫት ኳስ, Ethiopia HPE Grades 6–7

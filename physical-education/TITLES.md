@@ -131,3 +131,18 @@ Softball Skills** (`ball-games/baseball-and-softball-skills`),
 **Organising Competitions and Events**
 (`sport-and-its-story/organising-competitions-and-events`)
 — 9 new lessons, bringing this course to 100 lessons.
+
+The PE expansion then added: **Buzkashi**
+(`traditional-games-and-dances/buzkashi`), **Tug of War**
+(`traditional-games-and-dances/tug-of-war`), **Volleyball
+Spiking and Blocking**
+(`ball-games/volleyball-spiking-and-blocking`), **Basketball
+in Afghanistan** (`sport-and-its-story/basketball-in-afghanistan`),
+**Basketball Passing, Dribbling and Shooting**
+(`ball-games/basketball-passing-dribbling-and-shooting`),
+**The Rules of Tennis** (`ball-games/the-rules-of-tennis`),
+**Tennis Strokes and Serves**
+(`ball-games/tennis-strokes-and-serves`) and **Adapted
+Physical Education**
+(`fitness-and-stretching/adapted-physical-education`)
+— 8 new lessons, bringing this course to 108 lessons.

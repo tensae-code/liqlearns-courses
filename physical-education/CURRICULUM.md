@@ -208,6 +208,27 @@ Health-bound. Pakistan's own way is content: biomechanics
 carried through every grade from 6 to 12, and kabaddi taught
 in the Grade 11 book.
 
+**PE expansion — Afghanistan — BUILT 2026-11-16:** 43 placements
+from Afghanistan's two PE teacher guides (Grade 7, Dari, 1396 HS;
+Grade 10, Pashto, 1399 HS — both COMPLETE) stocked — 30 into
+existing lessons and 13 as 8 new lessons (Buzkashi; Tug of War;
+Volleyball Spiking and Blocking; Basketball in Afghanistan;
+Basketball Passing, Dribbling and Shooting; The Rules of Tennis;
+Tennis Strokes and Serves; Adapted Physical Education) —
+bringing this course to **108 lessons**. Both Afghanistan books
+are teacher guides, filed as teacher-guide evidence only, named
+in the countries lines but outside the acceptance counts; the
+new lessons stand at acceptance count 0, founded on
+teacher-guide evidence only, no pupil's book in hand. No
+Afghanistan placement resolves to a Health-course lesson, so
+none was excluded as Health-bound. Afghanistan's own way is
+content: the Grade 7 year planned twice over for cold-region
+and warm-region schools, resting on fitness, athletics,
+volleyball and Afghanistan's own traditional games (buzkashi,
+risman kashi); the Grade 10 lycee year built on basketball in
+the first half-year and tennis in the second, with a full
+chapter on including disabled children in PE.
+
 ## Unit 1 — Moving Basics
 
 1. **Combined Travelling and On-the-Spot Movements** (`moving-basics/combined-travelling-and-on-the-spot`) — joining travelling movements together, joining on-the-spot movements together, and chaining the two families in one sequence.
@@ -235,6 +256,7 @@ in the Grade 11 book.
 10. **Sports Nutrition and Hydration** (`fitness-and-stretching/sports-nutrition-and-hydration`) — sports nutrition and hydration: what to eat and drink for exercise, before, during and after competition — taught in the United Kingdom's GCSE book as energy use, diet, nutrition and hydration: energy balance, a balanced diet, and water and electrolytes for performers (United Kingdom's student book).
 11. **Warming Up and Cooling Down** (`fitness-and-stretching/warming-up-and-cooling-down`) — warming up and cooling down: preparing the body for exercise, and relaxing and returning to calm afterwards — taught in Pakistan's Grade 10 book as Warm-Up and Warm-Down (Cool-Down) Activities for Sports (Pakistan's student book).
 12. **Planning Your Own Training** (`fitness-and-stretching/planning-your-own-training`) — planning your own training: fitness plans, FITT, training zones and cycles, and designing training from your goals and data — taught in Pakistan's Grade 11 book as the Fitness Plan (Pakistan's student book).
+13. **Adapted Physical Education** (`fitness-and-stretching/adapted-physical-education`) — adapted physical education: adjusting activity so every child — including children with disabilities — can take part — taught in Afghanistan's Grade 10 guide as PE for children with disabilities: who needs adapted PE, and how activity is adjusted for children with intellectual disability, postural and bone problems, hearing and sight impairment, hyperactivity, and children who are withdrawn or afraid of activity (Afghanistan's Grade 10 teacher guide, evidence only).
 
 ## Unit 3 — Gymnastics
 
@@ -270,6 +292,10 @@ in the Grade 11 book.
 11. **Netball Skills** (`ball-games/netball-skills`) — netball skills: footwork, landing, pivoting, passing, receiving and dodging — taught in Pakistan's Grade 6 book (court, goal post, passes and rules) and Grade 9 book (ball weight, centre circle and pass, court dimensions and players) (Pakistan's student books).
 12. **Table Tennis** (`ball-games/table-tennis`) — table tennis: grips, strokes, serves, spin and how a match is played — taught in Pakistan's Grade 7 book inside Rules and Skills of Games (Pakistan's student book).
 13. **Baseball and Softball Skills** (`ball-games/baseball-and-softball-skills`) — baseball and softball skills: batting, base running, fielding and pitching — taught in Pakistan's Grade 8 book as baseball: the field and its measurements, pitching and play (Pakistan's student book).
+14. **Volleyball Spiking and Blocking** (`ball-games/volleyball-spiking-and-blocking`) — volleyball spiking and blocking: the attack hit at the net and the block that stops it — taught in Afghanistan's Grade 7 guide as serving and spiking (the underhand serve and the overhand "hammer" serve, the spike and its safe landing) and blocking at the net (Afghanistan's Grade 7 teacher guide, evidence only).
+15. **Basketball Passing, Dribbling and Shooting** (`ball-games/basketball-passing-dribbling-and-shooting`) — basketball passing, dribbling and shooting: the passes, beating a defender, and shots at the basket — taught in Afghanistan's Grade 10 guide as the chest pass and passing while running, the baseball pass, feinting and pivoting, and shooting and dribbling points (Afghanistan's Grade 10 teacher guide, evidence only).
+16. **The Rules of Tennis** (`ball-games/the-rules-of-tennis`) — the rules of tennis: court, equipment, scoring, the serve and how a match runs — taught in Afghanistan's Grade 10 guide as the tennis court, equipment and rules (Afghanistan's Grade 10 teacher guide, evidence only).
+17. **Tennis Strokes and Serves** (`ball-games/tennis-strokes-and-serves`) — tennis strokes and serves: grips, groundstrokes, the serve, volleys, smashes and touch shots — taught in Afghanistan's Grade 10 guide as the groundstrokes and the serve, volley and touch shots (Afghanistan's Grade 10 teacher guide, evidence only).
 
 ## Unit 6 — Games to Play
 
@@ -310,6 +336,8 @@ in the Grade 11 book.
 24. **Traditional Games of Thailand** (`traditional-games-and-dances/traditional-games-of-thailand`) — Thai folk play (การละเล่นพื้นเมือง), played by its own rules and agreements (Thailand's Grade 3 student book — SSR flipbook sample, PARTIAL).
 25. **Muay Thai** (`traditional-games-and-dances/muay-thai`) — Muay Thai: Thailand's own martial art — the guard stance (การจดมวย), the swinging punch and the uppercut, and elbow strikes (การใช้ศอกตี) (Thailand's Grade 5 student book — SSR flipbook sample, PARTIAL).
 26. **Kabaddi** (`traditional-games-and-dances/kabaddi`) — kabaddi: the raiding game — how it is played, the court and rules, raiding, holding and tactics — taught in Pakistan's Grade 11 book as kabaddi: match time, raids and the court, inside Rules and Skills of Sports (Pakistan's student book).
+27. **Buzkashi** (`traditional-games-and-dances/buzkashi`) — buzkashi: Afghanistan's national game — mounted riders (chapandaz) carrying the goat or calf carcass past the flag to the scoring circle (Afghanistan's Grade 7 teacher guide, evidence only).
+28. **Tug of War** (`traditional-games-and-dances/tug-of-war`) — tug of war: two teams pulling a rope to drag the other across the line — strength, coordination and teamwork — taught in Afghanistan's Grade 7 guide as risman kashi, the traditional Afghan holiday game played with a rope of 20 m or more (Afghanistan's Grade 7 teacher guide, evidence only).
 
 ## Unit 8 — Sport and Its Story
 
@@ -331,3 +359,4 @@ in the Grade 11 book.
 16. **What Physical Fitness Is** (`sport-and-its-story/what-physical-fitness-is`) — the knowledge that opens the fitness line: physical fitness is the body's capacity foundation, in four named parts — heart and blood-vessel working…
 17. **What Sport Is — and How It Differs from PE** (`sport-and-its-story/what-sport-is`) — what sport is — organised competitive play with its own rules, where a winner and a loser are decided — and how it differs from physical education,…
 18. **Organising Competitions and Events** (`sport-and-its-story/organising-competitions-and-events`) — organising competitions and events: fixtures, draws, tournaments, sports days and running a sports event well — taught in Pakistan's Grade 11 book as tournament systems: knock-out, league and combination fixtures (Pakistan's student book).
+19. **Basketball in Afghanistan** (`sport-and-its-story/basketball-in-afghanistan`) — basketball in Afghanistan: how the game arrived and grew — the foreign coach at Bala Hissar in 1317 HS, Kabul University and the schools, girls' and women's teams, the national team tours and joining FIBA (Afghanistan's Grade 10 teacher guide, evidence only).

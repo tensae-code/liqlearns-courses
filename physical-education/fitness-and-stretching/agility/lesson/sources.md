@@ -1,6 +1,6 @@
 # Sources — Agility — Rising, Running and Quick Changes
 
-countries: Ethiopia, Namibia, Turkmenistan, Tajikistan
+countries: Ethiopia, Namibia, Turkmenistan, Tajikistan, Afghanistan
 
 **Book — Grade 1 teacher (teacher guide — evidence):** *Grade 1 Health and Physical Education Teacher Guide* (የጤናና ሰውነት ማጎልመሻ ትምህርት የመምህር መምሪያ መጽሐፍ, አንድኛ ክፍል) (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, 2015 E.C. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-teacher-placements.md. TRUNCATED scan — see honesty paragraph.
 
@@ -48,7 +48,7 @@ countries: Ethiopia, Namibia, Turkmenistan, Tajikistan
 | Namibia — Chapter 6, Sample Session 6 — practical session: skill-related fitness and well-being (agility, balance, coordination) (teacher guide — evidence) (original target `fitness-and-stretching/agility`) | Namibia, *Physical Education 4 Life: A Guide for Physical Education Teachers in Namibia, Grades 10–11 (PE4Life Guide)*, Chapter 6, Sample Session 6, printed p. 88 |
 | Turkmenistan — Part III §3.4, Methods for Developing Speed/Agility (Çalasynlygy ösdürmegiň usullary) — how quickness and agility are trained (original target `fitness-and-stretching/agility`) | Turkmenistan, *Bedenterbiýe (Physical Education)*, Part III §3.4, printed pp. 66–69 |
 | Tajikistan — Part 2, Strong, Brave and Agile — games and exercises that build strength, courage and agility, including tug-of-war and one-leg games (original target `fitness-and-stretching/agility`) | Tajikistan, *Fizicheskaya Kultura (Physical Culture), Grades 1–4*, Part 2, printed pp. ~113–125 |
-**Acceptance count: taught in 3 countries (Ethiopia, Turkmenistan, Tajikistan).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Namibia is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Turkmenistan is added as student-book stock (see its row above), inside the acceptance count. Tajikistan is added as student-book stock (see its row above), inside the acceptance count.
+**Acceptance count: taught in 3 countries (Ethiopia, Turkmenistan, Tajikistan).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Namibia is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Turkmenistan is added as student-book stock (see its row above), inside the acceptance count. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count.
 
 The Grade 1 teacher guide scan is TRUNCATED: it holds printed pp. 1–43 of 85+. Missing: the rest of §4.2, §4.3 Stretching and flexibility (p. 47), §4.4 Agility (p. 53), all of Chapter 5 Gymnastics (pp. 59–78) and all of Chapter 6 (pp. 79–85+). Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
 
@@ -67,5 +67,26 @@ The Grade 7 teacher guide's §3.4 drill procedures each print "run 20 meters" �
 The Grade 8 teacher guide scan is the worst-truncated of the series: it holds printed pp. 3–50 of 104+ (Chapters 1–3 complete); Chapters 4–7 entire (Athletics, Gymnastics, Ball skills, Cultural games, printed pp. 51–104+) are missing from the file. Where a Grade 8 part of this lesson rests on the complete Grade 8 student book, it says so in the table and no guide content is cited for it; teacher-guide rows are evidence only and never count as pupil-taught.
 
 The Grade 10 teacher guide is substantively complete (printed pp. I–IX + 1–93): all 8 units, knowledge content and answer keys are present; only §8.3's final step-by-step teaching procedure is cut mid-sentence at printed p. 92. Teacher-guide rows are evidence only and never count as pupil-taught.
+
+## Afghanistan — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/afghanistan-pe-placements.md. Afghanistan's two PE books read for this expansion are both TEACHER guides — the Grade 7 guide in Dari and the Grade 10 guide in Pashto — both COMPLETE, read in full, and both staged in phase3-staging under the push-don't-delete rule (neither is in the GitHub repo tree), as filed. Afghanistan is therefore filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. The other Afghanistan records are record-only, as filed in the placements file: one login-blocked Darakhtdanesh library resource (UNREAD, no-login rule), a Telegram hunt note stating PE was not found, a ministry file that proved to be a PE teacher-skills exam-results spreadsheet, and records that proved to be other subjects (Grade 5 Pashto art, Forty Hadiths, a Grade 9 Dari language book, a Grade 7 Dari civics book) or a duplicate shop page for the Grade 7 guide read as Book 1 — nothing is stocked from any of them.
+
+**Book — Afghanistan Grade 7 PE teacher guide, Dari (teacher guide — evidence):**
+## Book 1 — G7 PE Teacher Guide, Dari (teacher guide, Dari)
+- Title as printed: رهنمای معلم تربیت بدنی — صنف هفتم (Physical Education Teacher's Guide — Grade Seven)
+- Grade: 7 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Afghanistan (Curriculum Development & Teacher Education); year 1396 HS (2017/18) as printed on the cover; no ISBN printed
+- PDF pages: 105 (cover/title page verified against the record title — cover image read: "رهنمای معلم تربیت بدنی، صنف هفتم", MoE)
+- Source: download-list link record — Internet Archive, books_tg collection (G7-Dr-Physical_Education.pdf). Not present in the GitHub repo tree (checked grade-07/gov/afghanistan) — staged in phase3-staging under the push-don't-delete rule (see reading log).
+- Verdict: COMPLETE
+- Tally: 22 placements — 18 to existing lessons, 4 NEW LESSON NEEDED
+- Afghanistan's own way: the year is planned twice over — one annual plan for cold-region schools (year starts in Hamal) and one for warm-region schools (year starts in Sunbula) — and theory is taught orally by the teacher at the start or end of the practical hour. The practical year rests on three sports only (fitness components, athletics, volleyball) plus Afghanistan's own traditional games. Front matter named, not placed: annual/monthly plans and teaching-guide plans (printed pp. 2–15), two sample lesson plans (physical fitness; basketball — basketball appears only as this sample plan, no skills chapter), and the PE assessment procedure with mark tables (printed pp. 12–15, assessment — excluded).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Afghanistan — Speed: its three parts (reaction time, stride frequency, driving force), the things that change it (heredity, muscle elasticity, will and concentration), ways to train it, and the 35 m and 50 m speed tests (teacher guide — evidence) (original target `fitness-and-stretching/agility`) | Afghanistan, *Afghanistan G7 PE TG Dari*, printed p. 58 |
+
+Afghanistan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Afghanistan's own way is content, as the book lines above record it: the Grade 7 year is planned twice over — one annual plan for cold-region schools (year starts in Hamal) and one for warm-region schools (year starts in Sunbula) — with theory taught orally at the start or end of the practical hour, and the practical year resting on fitness, athletics, volleyball and Afghanistan's own traditional games; the Grade 10 lycee year is built on exactly two sports — basketball in the first half-year, tennis in the second — over a base of physical fitness, with the sciences around sport, first aid, sports massage and a full chapter on including disabled children in PE. Both Afghanistan books are teacher guides, filed as evidence only, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: agility — rising, running and quick changes, what physical fitness is (teacher guide — evidence), rising and running, line drills, physical education, Ethiopia

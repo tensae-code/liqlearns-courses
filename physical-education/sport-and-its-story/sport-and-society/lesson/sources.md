@@ -1,6 +1,6 @@
 # Sources — Sport and Society — Money, Media, Gender, Technology and Jobs
 
-countries: Ethiopia, Cyprus, Namibia, United Kingdom
+countries: Ethiopia, Cyprus, Namibia, United Kingdom, Afghanistan
 
 **Book 1:** *Grade 8 Health and Physical Education Teacher Guide* (teacher guide, English) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. TRUNCATED — worst-truncated of the series: the file holds printed pp. 3–50 of 104+ (54 PDF pages); printed pp. 51–104+ (Chapters 4–7 entire) are missing. Printed page = PDF page − 4 (contents scheme; the guide prints no folios). Read in full from 100 DPI renders (no text layer), in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g08-teacher-placements.md.
 
@@ -33,10 +33,31 @@ countries: Ethiopia, Cyprus, Namibia, United Kingdom
 | United Kingdom — Component 2 Topic 3.2: Commercialisation of physical activity and sport — sponsorship, the media and the golden triangle in sport (original target `sport-and-its-story/sport-and-society`) | United Kingdom, *Edexcel GCSE (9-1) Physical Education Student Book, 2nd edition* (United Kingdom GCSE Edexcel PE Student Book), Component 2 Topic 3.2, printed p. 168 |
 | United Kingdom — Component 2 Topic 3.3: Ethical and socio-cultural issues in physical activity and sport — sportsmanship and gamesmanship, performance-enhancing drugs, and spectator behaviour including hooliganism (original target `sport-and-its-story/sport-and-society`) | United Kingdom, *Edexcel GCSE (9-1) Physical Education Student Book, 2nd edition* (United Kingdom GCSE Edexcel PE Student Book), Component 2 Topic 3.3, printed p. 172 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Cyprus, United Kingdom).** Cyprus is added as student-book stock (see its rows above), inside the acceptance count. Namibia is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 2. United Kingdom is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 3 countries (Ethiopia, Cyprus, United Kingdom).** Cyprus is added as student-book stock (see its rows above), inside the acceptance count. Namibia is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 2. United Kingdom is added as student-book stock (see its rows above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count.
 
 The Grade 8 teacher guide is truncated — printed pp. 51–104+ missing — and is used only for its held Chapter 1, labelled (teacher guide — evidence). The Grade 9 guide is complete. The Grade 10 guide is truncated only at its §8.3 tail (p. 92); its Unit 1 material here is complete in the held file. The Grade 10 guide's internal period-count inconsistency for its Unit 2 is not used in this lesson. This lesson carries the [Both] sport-and-society placements whose content is societal knowledge, not movement skill; the Grade 9/10 student books are the English federal 2023 GEQIP-E series and their terms are given as printed.
 
 All three United Kingdom placements were filed under this lesson's own slug, `sport-and-its-story/sport-and-society`, and are recorded in the provenance rows above. United Kingdom is added as student-book stock (see its rows above), inside the acceptance count.
+
+## Afghanistan — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/afghanistan-pe-placements.md. Afghanistan's two PE books read for this expansion are both TEACHER guides — the Grade 7 guide in Dari and the Grade 10 guide in Pashto — both COMPLETE, read in full, and both staged in phase3-staging under the push-don't-delete rule (neither is in the GitHub repo tree), as filed. Afghanistan is therefore filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. The other Afghanistan records are record-only, as filed in the placements file: one login-blocked Darakhtdanesh library resource (UNREAD, no-login rule), a Telegram hunt note stating PE was not found, a ministry file that proved to be a PE teacher-skills exam-results spreadsheet, and records that proved to be other subjects (Grade 5 Pashto art, Forty Hadiths, a Grade 9 Dari language book, a Grade 7 Dari civics book) or a duplicate shop page for the Grade 7 guide read as Book 1 — nothing is stocked from any of them.
+
+**Book — Afghanistan Grade 10 PE teaching guide, Pashto (teacher guide — evidence):**
+## Book 2 — G10 PE Teaching Guide, Pashto (teacher guide, Pashto)
+- Title as printed: د ښوونکي کتاب — د بدني روزنې د تدریس لارښود — لسم ټولګی (Teacher's Book — Guide to Teaching Physical Education — Grade Ten)
+- Grade: 10 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Afghanistan (Curriculum Development Directorate); year 1399 HS (2020/21) as printed; no ISBN printed
+- PDF pages: 88 (title page verified against the record — "Tarbiyat G-10 Pashto": the book's own specification page names the subject, grade 10, Pashto text)
+- Source: download-list candidate record — moe.gov.af file served by Wayback Machine capture 20210509115206. NOT in GitHub — staged in phase3-staging under the push-don't-delete rule (see reading log).
+- Verdict: COMPLETE
+- Tally: 21 placements — 12 to existing lessons, 9 NEW LESSON NEEDED
+- Afghanistan's own way: the lycee PE year is built on exactly two sports — basketball in the first half-year, tennis in the second — over a base of physical fitness, and the theory course adds the sciences around sport (sociology, biomechanics), first aid, sports massage, and a full chapter on including disabled children in PE. Front matter named, not placed: annual and nine-month lesson plans for cold/warm-region schools (printed pp. 3–14), two sample lesson plans (physical fitness; basketball), the assessment procedure and mark tables (printed pp. 13–16, assessment — excluded), the aims and scope-and-sequence tables for the lycee cycle (printed pp. 17–18), measurement and evaluation in PE (printed p. 26, assessment — excluded), and PE teaching methods and lesson structure (printed pp. 27–30, teacher pedagogy; its warm-up/cool-down teaching is placed below).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Afghanistan — The sciences that stand with sport: sociology of sport (sport in society) and biomechanics (the study of human movement) as branches of PE knowledge (teacher guide — evidence) (original target `sport-and-its-story/sport-and-society`) | Afghanistan, *Afghanistan G10 PE TG Pashto*, printed p. 35 |
+
+Afghanistan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Afghanistan's own way is content, as the book lines above record it: the Grade 7 year is planned twice over — one annual plan for cold-region schools (year starts in Hamal) and one for warm-region schools (year starts in Sunbula) — with theory taught orally at the start or end of the practical hour, and the practical year resting on fitness, athletics, volleyball and Afghanistan's own traditional games; the Grade 10 lycee year is built on exactly two sports — basketball in the first half-year, tennis in the second — over a base of physical fitness, with the sciences around sport, first aid, sports massage and a full chapter on including disabled children in PE. Both Afghanistan books are teacher guides, filed as evidence only, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: sport and society, sport and economy, VAR, Article 35(1), sports diplomacy, Sport for all, PE professions, sedentary life, Ethiopia HPE Grades 8–10
