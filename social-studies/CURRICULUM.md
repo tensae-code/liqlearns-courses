@@ -14404,3 +14404,111 @@ capital, self-reliance through cooperatives
 and vending, and tourism counted in foreign
 currency and jobs. Economics lessons:
 461 → 467.
+
+## Economics expansion — Dominican Republic — built 2026-11-16
+
+Dominican Republic — 41 placements stocked
+from 10 books (20 records / 10 distinct
+books filed; each book appears twice — TSV
+release record + books.json record for the
+same repo path — and is counted once; all
+mixed-ss Ciencias Sociales (Libro Abierto)
+student books, Grades 2, 3, 5, 6, 7, 8, 9,
+10, 11, 12, MINERD, 2023). The placement
+lines actually written are 38 to existing
+lessons + 3 NEW LESSON NEEDED, matching
+the wave close's 41. All 10 books are
+student books, so every placement counts
+in acceptance. Stocked into standing
+lessons — Microeconomics: What economics
+is (Grade 2 p. 35); The capitalist economy
+(Grade 6 p. 70; Grade 7 p. 124; Grade 10
+p. 130); The command economy (Grade 6
+p. 71); Renewable and non-renewable
+resources (Grade 9 p. 66); Collusive
+oligopoly — cartels and price leadership
+(Grade 10 p. 162) — Market and Money: What
+money is (Grade 2 p. 35) — Macroeconomics:
+Gross domestic product (Grade 5 p. 48);
+What a tax is (Grade 5 p. 146; Grade 7
+p. 180); VAT — how value added tax works
+(Grade 7 p. 180 — the ITBIS at 18%, reduced
+16%, with food-basket, water, electricity,
+health and education exemptions); Import
+substitution versus export promotion
+(Grade 9 p. 62); The objectives of taxation
+(Grade 9 p. 197); Stages of economic
+integration (Grade 10 p. 68 — DR-CAFTA);
+Measuring GDP — value added at every stage
+(Grade 12 p. 156); Nominal and real GDP
+(Grade 12 p. 156); The balance of trade
+(Grade 12 p. 160); The balance of payments
+(Grade 12 p. 162); Per-capita GDP (Grade 12
+p. 164); The limits of averages — income
+distribution (Grade 12 p. 164) — Culture
+and Work: Making a family budget (Grade 2
+p. 52); From craft to factory — the growth
+of industry (Grade 6 p. 68; Grade 7 p. 110);
+Industrialization spreads and modern
+industry (Grade 9 p. 60) — People and
+Resources: Sectors of the economy (Grade 3
+p. 44; Grade 5 pp. 20, 48, 50; Grade 12
+p. 158); The development gap — an unequal
+world (Grade 8 p. 158); Measuring a
+country's development (Grade 8 p. 160);
+Causes of uneven development (Grade 8
+p. 162); The world economy today (Grade 8
+p. 164); Employment structure — reading an
+economy (Grade 12 p. 194) — Global Issues:
+Impacts of industries (Grade 9 p. 64); The
+economic bases of state power (Grade 10
+p. 64); Economic geopolitics of the
+continents (Grade 10 p. 66 — stocked as a
+distinct Economics evidence row against
+the book entry already cited there from
+the Geography wave, which placed the same
+Grade 10 book at printed p. 64; Dominican
+Republic was already counted in that
+lesson, so its acceptance count is
+unchanged at 1). And 3 new lessons built
+(12 questions each), all in Macroeconomics:
+Industrialisation in the Dominican Republic
+(Grade 9 p. 68 — Trujillo's timid import
+substitution from 1937, his monopoly
+factories, and the wartime switch from rice
+importer to exporter of 630,000 quintales,
+irrigated land up 91.8% 1936–1944); The
+Dominican economy after independence
+(Grade 11 p. 158 — the depressed 1844–1861
+economy of self-consumption, meagre
+foreign-trade taxes, no unified market, and
+the Cibao tobacco / southern mahogany /
+El Seibo cattle regions); The transition to
+capitalism in the Dominican Republic
+(Grade 11 p. 210 — the liberal experiment
+from the late 1870s, merchant credit
+companies at 24–36%, sugar in the
+capitalist sector, cacao and coffee
+bringing the peasantry into the market).
+Checked first: no existing lesson covers
+the Dominican Republic's own
+industrialisation, its post-independence
+economy, or its transition to capitalism —
+import-substitution-versus-export-promotion
+covers the general Latin American strategy,
+not the Dominican case built here.
+Dominican Republic's own way: Economics
+enters through the family and the
+community in Grade 2, climbs the
+campo–ciudad contrast and a four-sector
+classification with larimar, tobacco and
+Punta Cana as national examples, meets
+capitalism and socialism inside world
+history, turns concrete with the ITBIS at
+the shop till, reads development as a
+North–South divide from inside the South,
+and closes at Grade 12 with the national
+economy measured on Central Bank tables —
+GDP per capita doubled 2010–2022 while the
+average worker's income stagnated.
+Economics lessons: 467 → 470.

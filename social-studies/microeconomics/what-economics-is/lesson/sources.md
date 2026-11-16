@@ -1,6 +1,6 @@
 # Sources — What economics is
 
-countries: Ethiopia, France
+countries: Ethiopia, France, Dominican Republic
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 **Book 2:** *Economics, Teacher Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed (M.Sc.), Tadesse Ababu (M.Sc.). Editors: Mesfin Ketema (M.Sc., Content Editor), Enguday Ademe (Ph.D., Curriculum Editor), Birhanu Engidaw (Ph.D., Language Editor). Illustrator: Endalkachew Mengesha (M.Sc.). Designer: Derejaw Lake (M.Sc.). The Evaluators line on the title page is left blank. Copyright page reads "First Published xxxxx 2022" under GEQIP-E; printer, contract number and ISBN are all printed as placeholders. Printed page = PDF page - 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-teacher-placements.md
@@ -19,7 +19,15 @@ countries: Ethiopia, France
 |---|---|
 | France part — the questions economists ask, built on resources, scarce resources and the allocation of resources (with the origin of the word "économie") | France, *SES 2de, Manuel Libre de Sciences économiques et sociales, Seconde (Manuels Libres)*, Ch. Method, section "Quelles questions se posent les économistes" |
 
-**Acceptance count: taught in 2 countries (Ethiopia, France).**
+**Book 4:** *Ciencias Sociales 2° Primaria* (student book, Spanish) — Ministerio de Educación de la República Dominicana (MINERD), Unidad Editorial; year 2023; ISBN 978-99934-43-99-5. Title as printed: Ciencias Sociales — Segundo Grado. Primer Ciclo. Educación Primaria (Libro Abierto, Serie 1). Grade: Grade 2 (student/teacher: STUDENT). PDF pages: 112 (cover/title page verified against the record title; printed page numbers match PDF pages). Verdict: COMPLETE. Contents map: Economics parts printed pp. 34–35, 52–53; Geography pp. 9–24 (orientation, maps, globe), 25–33, 36–40 (community, urban/rural); History pp. 41–51, 54–58 (family history, founders), 91–110 (Taínos, independence, national symbols); Civics pp. 59–74 (children's rights and duties, values), 75–90 (traffic education and signals). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic part — Bienes y recursos: goods are the things that satisfy human needs and are obtained in exchange for money, resources are the natural and social elements around the community, and Economics is defined as the social science that studies production, distribution, exchange and consumption of goods and services | Dominican Republic, *Ciencias Sociales 2° Primaria*, Bienes y recursos — printed p. 35 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, France, Dominican Republic).**
+
+Dominican Republic's own way (Dominican Republic Grade 2 Ciencias Sociales 2° Primaria): Economics enters through the family and the community — goods are introduced from what a child receives and consumes at home, money from family purchases, and budgeting from a story about neighbours who spend on parties and brand clothes and then cannot buy food.
 
 France's own way (SES 2de, Manuels Libres): SES teaches economics, sociology and political science as one subject from Seconde; the economics is built from data and cases (INSEE, the France Relance plan read as a Keynesian model, housing and oil prices, the gender pay gap in spreadsheets) with a synthesis and exercise for nearly every notion.
 
@@ -27,4 +35,4 @@ The attributed definitions (Smith, Ricardo, Say, Walker, Mill) and the guide's v
 
 Pairing note carried from the placements: the student textbook is the finished 2023 edition, while the teacher guide is ©2022 with an unfinished placeholder printing block — edition-mismatched companions; the guide's answer keys are partly incomplete/misaligned with this book's review questions, and no answer-key figure is taught here unchecked.
 
-Searchable tags: economics definition, oikonomia, scarcity definition, wealth welfare scarcity, smith ricardo say walker mill, ethiopia, france, ses, questions economists ask, social studies, microeconomics
+Searchable tags: economics definition, oikonomia, scarcity definition, wealth welfare scarcity, smith ricardo say walker mill, ethiopia, france, ses, questions economists ask, social studies, microeconomics, dominican republic

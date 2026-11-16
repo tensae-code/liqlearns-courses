@@ -1,6 +1,6 @@
 # Sources — Making a Family Budget
 
-countries: Rwanda, Zambia, Ecuador
+countries: Rwanda, Zambia, Ecuador, Dominican Republic
 
 **Book 1:** *Social Studies — Teacher's Guide for Rwanda Primary Schools, P5, Revised Edition 2019* (teacher guide, English) — Rwanda, Rwanda Education Board (REB); year ©2019, Revised Edition 2019; ISBN no ISBN printed. Title as printed: Social Studies — Teacher's Guide for Rwanda Primary Schools, P5, Revised Edition 2019. Grade: Grade 5 (Primary 5) (student/teacher: TEACHER). PDF pages: 106 (cover verified against the record title — read from the record's own edufeeds source URL after grab.py failed with GitHub API RemoteDisconnected; this book appears only as a books.json record, with no size/pages in the record to check against). Verdict: COMPLETE. Cited as teacher-guide evidence only, outside acceptance counts. Non-Geography parts named, not placed: Unit 2 Complementarity and social cohesion in society (Civics), TG content map printed p. xvi; Unit 3 Hygiene and sanitation, incl. HIV/AIDS, STIs and TB (Health), p. xviii; Unit 4 Civics and governance — peer pressure, national symbols, leadership and good governance (Civics), p. xviii; Unit 10 Colonial Rwanda (History), p. xxvi. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/rwanda-placements.md.
 
@@ -41,7 +41,15 @@ countries: Rwanda, Zambia, Ecuador
 Rwanda's own way (Rwanda Grade 2): Economics enters at P2 through the household — basic needs first, then money in the family, then shared public property in the village and cell — taught with picture-observation activities in Kinyarwanda.
 
 
-**Acceptance count: taught in 2 countries (Rwanda, Ecuador). Zambia is teacher-module evidence only — named here, counted nowhere.**
+**Book 8:** *Ciencias Sociales 2° Primaria* (student book, Spanish) — Ministerio de Educación de la República Dominicana (MINERD), Unidad Editorial; year 2023; ISBN 978-99934-43-99-5. Title as printed: Ciencias Sociales — Segundo Grado. Primer Ciclo. Educación Primaria (Libro Abierto, Serie 1). Grade: Grade 2 (student/teacher: STUDENT). PDF pages: 112 (cover/title page verified against the record title; printed page numbers match PDF pages). Verdict: COMPLETE. Contents map: Economics parts printed pp. 34–35, 52–53; Geography pp. 9–24 (orientation, maps, globe), 25–33, 36–40 (community, urban/rural); History pp. 41–51, 54–58 (family history, founders), 91–110 (Taínos, independence, national symbols); Civics pp. 59–74 (children's rights and duties, values), 75–90 (traffic education and signals). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic part — Organizo mis gastos (Elaborando nuestro presupuesto familiar): a family budget estimates income and spending to make better decisions, prioritise basic needs, check spending weekly and always save something for emergencies, with a practice task budgeting a birthday | Dominican Republic, *Ciencias Sociales 2° Primaria*, Organizo mis gastos (Elaborando nuestro presupuesto familiar) — printed p. 52 |
+
+**Acceptance count: taught in 3 countries (Rwanda, Ecuador, Dominican Republic). Zambia is teacher-module evidence only — named here, counted nowhere.**
+
+Dominican Republic's own way (Dominican Republic Grade 2 Ciencias Sociales 2° Primaria): Economics enters through the family and the community — goods are introduced from what a child receives and consumes at home, money from family purchases, and budgeting from a story about neighbours who spend on parties and brand clothes and then cannot buy food.
 
 Zambia's own way: Economics at Grade 4 is money and enterprise in kwacha — market sellers, maize farmers and shopkeepers as the entrepreneurs, a K10/K20 in play money for the needs-vs-wants lessons, and a classroom market day. The budget is a shopping list in kwacha that puts needs before wants. This Zambia material stands on the teacher module as evidence only.
 
@@ -55,4 +63,4 @@ Rwanda's own way (Rwanda Grade 6 Social Studies SB): the P6 pupil's book is the 
 
 Ecuador's own way (Ecuador Grade 13 Emprendimiento y Gestión): Economics enters the entrepreneurship course through the family and the small venture — costs are worked through a school-desk factory costed month by month in dollars, and every unit closes with a financial-education section that takes the same tools home to the family budget and the family's debts. The family budget itself is drawn up monthly, income (salaries, overtime, microenterprise income) against spending sorted as essential, of medium importance, or eventual/emergency, closing with the month's surplus or deficit.
 
-Searchable tags: making a family budget, Rwanda, Zambia, Ecuador, kwacha, shopping list, needs before wants, family budget, surplus, deficit, teacher module evidence, social studies, culture-and-work
+Searchable tags: making a family budget, Rwanda, Zambia, Ecuador, kwacha, shopping list, needs before wants, family budget, surplus, deficit, teacher module evidence, social studies, culture-and-work, Dominican Republic

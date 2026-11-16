@@ -1,6 +1,6 @@
 # Sources — Collusive oligopoly — cartels and price leadership
 
-countries: Ethiopia, Kuwait
+countries: Ethiopia, Kuwait, Dominican Republic
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -17,8 +17,16 @@ countries: Ethiopia, Kuwait
 | Kuwait part — OPEC as a model independent organisation — what OPEC is and how it was founded, and what it does — setting member oil-production quotas, protecting the interests of producers and consumers, and using oil revenues in development projects | Kuwait, *Kuwait Grade 9 Social Studies G9 T2*, OPEC as a model independent organisation — printed p. 59 |
 
 
-**Acceptance count: taught in 2 countries (Ethiopia, Kuwait).**
+**Book 3:** *Ciencias Sociales 4° Secundaria* (student book, Spanish) — Ministerio de Educación de la República Dominicana (MINERD), Unidad Editorial; year 2023; ISBN 978-9945-646-76-4. Title as printed: Ciencias Sociales — Cuarto Grado. Segundo Ciclo. Educación Secundaria (Libro Abierto, Serie 1, Segunda edición). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 208 (title page verified against the record title; page count matches the books.json record; printed page numbers match PDF pages). Verdict: COMPLETE. Contents map: Economics parts printed pp. 64–69, 130–131, 162–163; Geography pp. 10–25 (the universe and the solar system), 26–41 (continental drift, relief, volcanoes, earthquakes), 42–57 (water in the continents, natural regions), 58–63 (political geography, borders); History pp. 74–89 (history as a science), 90–105 (the long beginnings of humanity), 106–121 (European classical antiquity), 122–129, 132–137 (the feudal system, the Renaissance), 138–154 (European primacy, the English and French Revolutions, the First Industrial Revolution), 155–161, 164–169 (postrevolutionary Europe, the labour and socialist movement, the subjection of Asia and Africa), 170–185 (wars of liberation, the Russian and Chinese Revolutions, the fall of the Soviet bloc); Civics pp. 186–207 (citizen education: the Constitution, sovereignty, powers of the State, human rights). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic part — La Segunda Revolución Industrial y el imperialismo (Unidad 10, Modernidad y capitalismo): the economy moved from individual industrial units in a free-competition market to groups of firms directed toward monopolistic centralisation; these cartels relocated to vulnerable zones to obtain cheap products and raw materials, lower the cost of labour in the industrialised centre and raise the rate of profit — the export of capital to industrial countries, backward independent countries and colonies is presented as the economic phenomenon of imperialism, distinct from pre-industrial colonial domination | Dominican Republic, *Ciencias Sociales 4° Secundaria*, La Segunda Revolución Industrial y el imperialismo (Unidad 10, Modernidad y capitalismo) — printed p. 162 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Kuwait, Dominican Republic).**
+
+Dominican Republic's own way (Dominican Republic Grade 10 Ciencias Sociales 4° Secundaria): at this level the analysis turns Marxian in vocabulary — capitalism is explained through the separation of the worker from the means of production and the owner's appropriation of surplus labour (plusvalía), and imperialism through cartels, monopoly centralisation and the export of capital.
 
 Kuwait's own way (Kuwait Grade 9 Term 2): the middle-stage course closes by going global — economic relations between states, OPEC as the oil-producers' organisation Kuwait belongs to, and world challenges (poverty, the food crisis) framed as production-versus-consumption problems.
 
-Searchable tags: collusive oligopoly, cartel fixes price output, common selling agency, price leadership, joint profit monopoly price, ethiopia, social studies, microeconomics
+Searchable tags: collusive oligopoly, cartel fixes price output, common selling agency, price leadership, joint profit monopoly price, ethiopia, social studies, microeconomics, dominican republic

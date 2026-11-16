@@ -1,6 +1,6 @@
 # Sources — Renewable and non-renewable resources
 
-countries: Ethiopia, Nauru, Niue, Tuvalu, Syria, Uganda, Mongolia
+countries: Ethiopia, Nauru, Niue, Tuvalu, Syria, Uganda, Mongolia, Dominican Republic
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -70,7 +70,15 @@ Syria's own way: the resources lesson sits inside Unit 1, Nature in my country S
 |---|---|
 | Mongolia — 3.4 Division of labour and its significance — production uses resources; natural resources divide into exhaustible and non-exhaustible, taught through Mongolia's gold (about 10 tonnes mined a year) | Mongolia, *Social Studies 7*, Chapter III, 3.4 Division of labour and its significance — printed p. 51 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Nauru, Niue, Tuvalu, Syria, Uganda, Mongolia).**
+**Book 11:** *Ciencias Sociales 3° Secundaria* (student book, Spanish) — Ministerio de Educación de la República Dominicana (MINERD), Unidad Editorial; year 2023; ISBN 978-9945-646-75-7. Title as printed: Ciencias Sociales — Tercer Grado. Primer Ciclo. Educación Secundaria (Libro Abierto, Serie 1, Segunda edición). Grade: Grade 9 (student/teacher: STUDENT). PDF pages: 208 (title page verified against the record title; page count matches the books.json record; printed page numbers match PDF pages). Verdict: COMPLETE. Contents map: Economics parts printed pp. 58–73 (Unidad 4, Geografía económica de América) and p. 197; Geography pp. 10–25 (geological origin of America), 26–41 (physical geography of America), 42–57 (human geography of America); History pp. 74–89 (US expansionism and hegemony), 90–105 (the US occupation), 106–121 (dictatorships and populism in Latin America), 122–137 (Trujillo dictatorship 1930–1945), 138–153 (Trujillo 1945–1961), 154–169 (the postwar period and the Cold War); Civics pp. 170–185 (citizen education, human rights, rule of law), 186–195, 198–207 (drug trafficking as a social ill, civic and road education). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic part — ¿Qué son los recursos naturales de un país? (Unidad 4): a country's natural resources are the elements and materials in nature that humans use to satisfy their needs and economic activities; renewable resources regenerate at a rate similar to their consumption (forests, water, fertile soils, solar and wind energy, wildlife) and can be used sustainably for future generations, while non-renewable resources exist in limited quantities (oil, natural gas, coal, precious metals); Latin America's stock is illustrated with Peruvian and Chilean copper, Mexican silver, and Brazil's coffee, soya and sugar exports | Dominican Republic, *Ciencias Sociales 3° Secundaria*, ¿Qué son los recursos naturales de un país? (Unidad 4) — printed p. 66 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Nauru, Niue, Tuvalu, Syria, Uganda, Mongolia, Dominican Republic).**
+
+Dominican Republic's own way (Dominican Republic Grade 9 Ciencias Sociales 3° Secundaria): economic geography is taught continent-first and then brought home — North America's industrial rise, Latin America's import-substitution strategy, and finally the Dominican Republic's own industrialisation, told through Trujillo's monopoly factories and the wartime switch from rice importer to rice exporter.
 
 Pairing note carried from the placements: the student textbook is the finished 2023 edition, while the teacher guide is ©2022 with an unfinished placeholder printing block — edition-mismatched companions; the guide's answer keys are partly incomplete/misaligned with this book's review questions, and no answer-key figure is taught here unchecked.
 
@@ -80,4 +88,4 @@ Uganda's own way: Uganda teaches the two kinds of resources three times over —
 
 Mongolia's own way (Mongolia Grade 7 Social Studies 7): Economics enters through the child's own life — needs, the family budget in tögrög, household chores and herding work — before any market abstraction; property is taught through the school itself.
 
-Searchable tags: renewable non-renewable resources, fixed stock, recycling, solar soil coal oil, ethiopia, nauru, niue, tuvalu, syria, oil, gas, phosphates, natural resources, social studies, microeconomics, uganda, natural resources of uganda, east africa resources, land water minerals, resource conservation, misuse of resources, mongolia, exhaustible non-exhaustible, gold
+Searchable tags: renewable non-renewable resources, fixed stock, recycling, solar soil coal oil, ethiopia, nauru, niue, tuvalu, syria, oil, gas, phosphates, natural resources, social studies, microeconomics, uganda, natural resources of uganda, east africa resources, land water minerals, resource conservation, misuse of resources, mongolia, exhaustible non-exhaustible, gold, dominican republic

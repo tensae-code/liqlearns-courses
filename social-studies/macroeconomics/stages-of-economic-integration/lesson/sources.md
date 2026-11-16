@@ -1,6 +1,6 @@
 # Sources — Stages of economic integration
 
-countries: Argentina, Ethiopia, Guatemala, South Sudan, Malaysia
+countries: Argentina, Ethiopia, Guatemala, South Sudan, Malaysia, Dominican Republic
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -37,8 +37,16 @@ Guatemala's own way: integration is taught as Guatemala's own treaty story — t
 
 South Sudan's own way (South Sudan Primary 7): the country's economy is told through oil and minerals — mining is debated in class as "the backbone to the economy of South Sudan", with over-reliance on it (and world price swings) named as a danger in the same unit — and regional integration is taught through the blocs South Sudan actually belongs to (EAC, IGAD) alongside ECOWAS, SADC and the AU.
 
-**Acceptance count: taught in 4 countries (Ethiopia, Guatemala, South Sudan, Malaysia). Argentina is teacher-guide evidence only — named here, counted nowhere.**
+**Book 6:** *Ciencias Sociales 4° Secundaria* (student book, Spanish) — Ministerio de Educación de la República Dominicana (MINERD), Unidad Editorial; year 2023; ISBN 978-9945-646-76-4. Title as printed: Ciencias Sociales — Cuarto Grado. Segundo Ciclo. Educación Secundaria (Libro Abierto, Serie 1, Segunda edición). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 208 (title page verified against the record title; page count matches the books.json record; printed page numbers match PDF pages). Verdict: COMPLETE. Contents map: Economics parts printed pp. 64–69, 130–131, 162–163; Geography pp. 10–25 (the universe and the solar system), 26–41 (continental drift, relief, volcanoes, earthquakes), 42–57 (water in the continents, natural regions), 58–63 (political geography, borders); History pp. 74–89 (history as a science), 90–105 (the long beginnings of humanity), 106–121 (European classical antiquity), 122–129, 132–137 (the feudal system, the Renaissance), 138–154 (European primacy, the English and French Revolutions, the First Industrial Revolution), 155–161, 164–169 (postrevolutionary Europe, the labour and socialist movement, the subjection of Asia and Africa), 170–185 (wars of liberation, the Russian and Chinese Revolutions, the fall of the Soviet bloc); Civics pp. 186–207 (citizen education: the Constitution, sovereignty, powers of the State, human rights). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic part — Acuerdos internacionales (Unidad 4): in the commercial field, many treaties promote trade relations — some eliminate tariffs, reduce trade barriers or create free-trade zones — naming the United States–Mexico–Canada Agreement (2018), the Trans-Pacific Partnership (2016), Canada–EU and Japan–EU agreements, and the Dominican Republic's own membership of DR-CAFTA, signed in 2004 with the United States and Central America to promote regional trade; countries that break agreements can face economic blockades and trade and financial sanctions | Dominican Republic, *Ciencias Sociales 4° Secundaria*, Acuerdos internacionales (Unidad 4) — printed p. 68 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Guatemala, South Sudan, Malaysia, Dominican Republic). Argentina is teacher-guide evidence only — named here, counted nowhere.**
+
+Dominican Republic's own way (Dominican Republic Grade 10 Ciencias Sociales 4° Secundaria): at this level the analysis turns Marxian in vocabulary — capitalism is explained through the separation of the worker from the means of production and the owner's appropriation of surplus labour (plusvalía), and imperialism through cartels, monopoly centralisation and the export of capital.
 
 Malaysia's own way (Malaysia Grade 11 Ekonomi Tingkatan 5): Form 5 turns to the state and the world — Bank Negara's policy tools, the national budget (Belanjawan), and Malaysia's own trade composition and direction as the data pupils analyse.
 
-Searchable tags: stages of economic integration, ethiopia, argentina, mercosur, teacher guide evidence, guatemala, mercomún, TLC, free trade treaties, social studies, macroeconomics, south sudan, malaysia
+Searchable tags: stages of economic integration, ethiopia, argentina, mercosur, teacher guide evidence, guatemala, mercomún, TLC, free trade treaties, social studies, macroeconomics, south sudan, malaysia, dominican republic, DR-CAFTA

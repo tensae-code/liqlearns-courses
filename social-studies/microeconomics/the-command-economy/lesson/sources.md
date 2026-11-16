@@ -1,6 +1,6 @@
 # Sources — The command economy
 
-countries: Ethiopia
+countries: Ethiopia, Dominican Republic
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 **Book 2:** *Economics, Teacher Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed (M.Sc.), Tadesse Ababu (M.Sc.). Editors: Mesfin Ketema (M.Sc., Content Editor), Enguday Ademe (Ph.D., Curriculum Editor), Birhanu Engidaw (Ph.D., Language Editor). Illustrator: Endalkachew Mengesha (M.Sc.). Designer: Derejaw Lake (M.Sc.). The Evaluators line on the title page is left blank. Copyright page reads "First Published xxxxx 2022" under GEQIP-E; printer, contract number and ISBN are all printed as placeholders. Printed page = PDF page - 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-teacher-placements.md
@@ -12,8 +12,16 @@ countries: Ethiopia
 | Sub lesson 3 — Its promise — equal shares | Ethiopia, *Economics, Student Textbook, Grade 9*, Unit 2 — The Basic Economic Problems and Economic Systems, printed pp. 23 |
 | The guide's expanded feature list for the command economy (teacher guide — evidence) | Ethiopia, *Economics, Teacher Guide, Grade 9*, printed pp. 18–19 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Book 3:** *Ciencias Sociales 6° Primaria* (student book, Spanish) — Ministerio de Educación de la República Dominicana (MINERD), Unidad Editorial; year 2023; ISBN 978-9945-646-03-0. Title as printed: Ciencias Sociales — Sexto Grado. Segundo Ciclo. Educación Primaria (Libro Abierto, Serie 1). Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 192 (title page verified against the record title; page count matches the books.json record; printed page numbers match PDF pages). Verdict: COMPLETE. Contents map: Economics parts printed pp. 66–71 (inside Unidad 4, modern civilisations); Geography pp. 11–28 (universal geography), 29–44 (the continents); History pp. 45–59 (ancient civilisations, Middle Ages), 60–65, 72–75 (Renaissance, empires, modern civilisations), 76–91 (history of America), 92–107 (America and the contemporary era), 108–125 (Dominican history 1916–1963), 126–143 (Dominican history from 1965, including economic transformations of 1996–2000 told as political history); Civics pp. 144–159 (nation and State, Constitution, municipalities, democracy), 160–175 (coexistence, road education, culture of peace). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic part — Movimientos y pensamiento social: Socialismo: socialism (Marx and Engels, the Communist Manifesto of 1848) is characterised by equity, collective property, economic planning, solidarity and cooperation; the Russian case expropriated upper-class property and built an economy on state property that lasted until the USSR dissolved in 1991, and Cuba, Venezuela, North Korea, Vietnam and China are named as present-day systems with socialist elements | Dominican Republic, *Ciencias Sociales 6° Primaria*, Movimientos y pensamiento social: Socialismo — printed p. 71 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Dominican Republic).**
+
+Dominican Republic's own way (Dominican Republic Grade 6 Ciencias Sociales 6° Primaria): economic systems arrive inside world history — capitalism is introduced through the Scientific and Industrial Revolutions and Adam Smith, then set against socialism and Marx in a compare-the-systems table the pupils build themselves, opening with the question of whether their own country is capitalist or socialist.
 
 Pairing note carried from the placements: the student textbook is the finished 2023 edition, while the teacher guide is ©2022 with an unfinished placeholder printing block — edition-mismatched companions; the guide's answer keys are partly incomplete/misaligned with this book's review questions, and no answer-key figure is taught here unchecked.
 
-Searchable tags: command economy socialist, central planning, collective ownership, ethiopia derg, social studies, microeconomics
+Searchable tags: command economy socialist, central planning, collective ownership, ethiopia derg, social studies, microeconomics, dominican republic

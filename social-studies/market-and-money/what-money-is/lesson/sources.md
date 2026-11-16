@@ -1,6 +1,6 @@
 # Sources — What money is
 
-countries: Ethiopia, United Arab Emirates, Zambia, Syria, Uganda, Mongolia, Rwanda, Malaysia
+countries: Ethiopia, United Arab Emirates, Zambia, Syria, Uganda, Mongolia, Rwanda, Malaysia, Dominican Republic
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -72,7 +72,15 @@ Rwanda's own way (Rwanda Grade 2): Economics enters at P2 through the household 
 Rwanda's own way (Rwanda Grade 4): P4 separates needs from wants for the first time and ties money to the district — Lake Kivu fishing, Kigali markets and tourist crafts — with saving taught as planning before spending and comparing what a bank pays.
 
 
-**Acceptance count: taught in 7 countries (Ethiopia, United Arab Emirates, Syria, Uganda, Mongolia, Rwanda, Malaysia). Zambia is teacher-module evidence only — named here, counted nowhere.**
+**Book 11:** *Ciencias Sociales 2° Primaria* (student book, Spanish) — Ministerio de Educación de la República Dominicana (MINERD), Unidad Editorial; year 2023; ISBN 978-99934-43-99-5. Title as printed: Ciencias Sociales — Segundo Grado. Primer Ciclo. Educación Primaria (Libro Abierto, Serie 1). Grade: Grade 2 (student/teacher: STUDENT). PDF pages: 112 (cover/title page verified against the record title; printed page numbers match PDF pages). Verdict: COMPLETE. Contents map: Economics parts printed pp. 34–35, 52–53; Geography pp. 9–24 (orientation, maps, globe), 25–33, 36–40 (community, urban/rural); History pp. 41–51, 54–58 (family history, founders), 91–110 (Taínos, independence, national symbols); Civics pp. 59–74 (children's rights and duties, values), 75–90 (traffic education and signals). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic part — Bienes y recursos: money is everything the community accepts as payment for goods, services and debts, and the family uses it as a means of payment for goods it does not produce at home | Dominican Republic, *Ciencias Sociales 2° Primaria*, Bienes y recursos — printed p. 35 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, United Arab Emirates, Syria, Uganda, Mongolia, Rwanda, Malaysia, Dominican Republic). Zambia is teacher-module evidence only — named here, counted nowhere.**
+
+Dominican Republic's own way (Dominican Republic Grade 2 Ciencias Sociales 2° Primaria): Economics enters through the family and the community — goods are introduced from what a child receives and consumes at home, money from family purchases, and budgeting from a story about neighbours who spend on parties and brand clothes and then cannot buy food.
 
 Pairing note carried from the placements: the student textbook is the finished 2023 edition, while the teacher guide is ©2022 with an unfinished placeholder printing block — edition-mismatched companions; the guide's answer keys are partly incomplete/misaligned with this book's review questions, and no answer-key figure is taught here unchecked.
 
@@ -82,4 +90,4 @@ Mongolia's own way (Mongolia Grade 9 Social Studies 9): the labour market is tau
 
 Malaysia's own way (Malaysia Grade 10 Ekonomi Tingkatan 4): a full KSSM economics course in Malay with bilingual BM–BI glossaries, ringgit-denominated tables throughout, and Malaysian institutions (Bank Negara, KWSP/EPF, PERKESO) as the living examples.
 
-Searchable tags: what money is, general acceptance, qualities of money, standardised divisible portable durable, ethiopia, united arab emirates, dirham, notes and coins, zambia, kwacha, maize for fish, teacher module evidence, syria, banknotes, antiquities on banknotes, social studies, market and money, uganda, qualities of money, uses of money, coins and notes, mongolia, four functions of money, metal paper card electronic money, tögrög, rwanda, malaysia
+Searchable tags: what money is, general acceptance, qualities of money, standardised divisible portable durable, ethiopia, united arab emirates, dirham, notes and coins, zambia, kwacha, maize for fish, teacher module evidence, syria, banknotes, antiquities on banknotes, social studies, market and money, uganda, qualities of money, uses of money, coins and notes, mongolia, four functions of money, metal paper card electronic money, tögrög, rwanda, malaysia, dominican republic

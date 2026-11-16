@@ -1,6 +1,6 @@
 # Sources — Measuring GDP — value added at every stage
 
-countries: Ethiopia, France
+countries: Ethiopia, France, Dominican Republic
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -16,8 +16,16 @@ countries: Ethiopia, France
 |---|---|
 | France part — "Principaux indicateurs": turnover, value added and profit, and how value added is shared out, worked on a bicycle firm and Nike's figures | France, *SES 2de, Manuel Libre de Sciences économiques et sociales, Seconde (Manuels Libres)*, Ch. Richesses, section "Principaux indicateurs" |
 
-**Acceptance count: taught in 2 countries (Ethiopia, France).**
+**Book 3:** *Ciencias Sociales 6° Secundaria* (student book, Spanish) — Ministerio de Educación de la República Dominicana (MINERD), Unidad Editorial; year 2023; ISBN 978-9945-646-78-8. Title as printed: Ciencias Sociales — Sexto Grado. Segundo Ciclo. Educación Secundaria (Libro Abierto, Serie 1, Segunda edición). Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 240 (title page verified against the record title; page count matches the books.json record; printed page numbers match PDF pages). Verdict: COMPLETE. Contents map: Economics parts printed pp. 154–171 (Unidad 9, La economía dominicana en el presente) and pp. 194–195; History pp. 10–27 (the US occupation and the sugar boom), 28–42 (the Trujillo dictatorship), 43–63 (democratic and revolutionary struggles 1961–1965), 64–81 (the neo-authoritarian phase 1966–1978, including its economic boom told as history), 82–99 (transition to the present democratic order 1978–1996), 100–117 (the discourse on the Dominican condition); Civics pp. 118–135 (constitutional evolution), 208–239 (democracy, duties, rights and participation); Geography pp. 136–153 (evolution of the Dominican population), 172–189 (spatial distribution of the population), 190–193, 196–207 (migration movements, modernisation disparities, regional poles). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic part — El Producto Interno Bruto (Unidad 9): GDP is the monetary value of all final goods and services produced in a period, computed as the sum of the value added in all final goods and services produced in a year; it is the tool for characterising an economy's evolution and comparing it with others, and the country's sectoral structure of GDP at current prices in 2010 and 2020 barely changed, apart from the growing weight of construction | Dominican Republic, *Ciencias Sociales 6° Secundaria*, El Producto Interno Bruto (Unidad 9) — printed p. 156 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, France, Dominican Republic).**
+
+Dominican Republic's own way (Dominican Republic Grade 12 Ciencias Sociales 6° Secundaria): the school-leaving book ends with the national economy measured — GDP, openness, the balance of payments and per-capita income are all taught on Central Bank tables for 2010–2022, and the unit's own conclusion is critical: GDP per capita doubled while the average worker's income stagnated, so other sectors appropriated the increase.
 
 France's own way (SES 2de, Manuels Libres): SES teaches economics, sociology and political science as one subject from Seconde; the economics is built from data and cases (INSEE, the France Relance plan read as a Keynesian model, housing and oil prices, the gender pay gap in spreadsheets) with a synthesis and exercise for nearly every notion.
 
-Searchable tags: value added approach, bread chain wheat flour bread, selling price minus inputs, no double counting, three approaches agree, ethiopia, france, ses, bicycle firm, nike, social studies, macroeconomics
+Searchable tags: value added approach, bread chain wheat flour bread, selling price minus inputs, no double counting, three approaches agree, ethiopia, france, ses, bicycle firm, nike, social studies, macroeconomics, dominican republic

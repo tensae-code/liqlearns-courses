@@ -1,6 +1,6 @@
 # Sources — The Economic Bases Of State Power
 
-countries: Iraq
+countries: Iraq, Dominican Republic
 
 **Book 1:** *الجغرافية البشرية للصف السادس الأدبي (Human Geography for the Sixth Literary Grade) — the record's "Geography (Literary Track)" is the same book: same grade and track, verified by cover and contents* (student book, Arabic) — Republic of Iraq, Ministry of Education, General Directorate of Curricula; revised by a committee in the Ministry of Education; year 1445 AH / 2023 CE, revised 13th edition (الطبعة الثالثة عشرة / المنقحة); ISBN no ISBN printed on the title pages. Title as printed: الجغرافية البشرية للصف السادس الأدبي (Human Geography for the Sixth Literary Grade) — the record's "Geography (Literary Track)" is the same book: same grade and track, verified by cover and contents. Grade: 12 (sixth secondary, literary track) (student/teacher: STUDENT). PDF pages: 172 (cover/title page verified as above; read via the books.json record's own Google Drive source file — same book, cover and contents verified — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iraq-placements.md.
 
@@ -9,8 +9,16 @@ countries: Iraq
 | Sub lesson 1 — Ch. 6: The economic bases of state power — food, labour and resources; oil and its crises in international relations; and latent power (القوة الكامنة) a state can build for the future | Iraq, *Iraq Grade 12 Human Geography*, Ch. 6: The economic bases of state power — food, labour and resources; oil and its crises in international relations; and latent power (القوة الكامنة) a state can build for the future — printed p. 149 |
 | Sub lesson 2 — Iraq's way — the book's own teaching way | Iraq — the book's own way of teaching (see below) |
 
-**Acceptance count: taught in 1 country (Iraq).**
+**Book 2:** *Ciencias Sociales 4° Secundaria* (student book, Spanish) — Ministerio de Educación de la República Dominicana (MINERD), Unidad Editorial; year 2023; ISBN 978-9945-646-76-4. Title as printed: Ciencias Sociales — Cuarto Grado. Segundo Ciclo. Educación Secundaria (Libro Abierto, Serie 1, Segunda edición). Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 208 (title page verified against the record title; page count matches the books.json record; printed page numbers match PDF pages). Verdict: COMPLETE. Contents map: Economics parts printed pp. 64–69, 130–131, 162–163; Geography pp. 10–25 (the universe and the solar system), 26–41 (continental drift, relief, volcanoes, earthquakes), 42–57 (water in the continents, natural regions), 58–63 (political geography, borders); History pp. 74–89 (history as a science), 90–105 (the long beginnings of humanity), 106–121 (European classical antiquity), 122–129, 132–137 (the feudal system, the Renaissance), 138–154 (European primacy, the English and French Revolutions, the First Industrial Revolution), 155–161, 164–169 (postrevolutionary Europe, the labour and socialist movement, the subjection of Asia and Africa), 170–185 (wars of liberation, the Russian and Chinese Revolutions, the fall of the Soviet bloc); Civics pp. 186–207 (citizen education: the Constitution, sovereignty, powers of the State, human rights). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic part — Orden geopolítico y articulación del espacio geográfico (Unidad 4): the geopolitical order is the distribution of power among countries, in which territories with global influence in politics, the economy or military control count as powers; transport networks move strategic resources such as oil and food and their control gives economic and political advantage, while trade interconnects and economically integrates countries and regions through flows of goods, services, capital and people | Dominican Republic, *Ciencias Sociales 4° Secundaria*, Orden geopolítico y articulación del espacio geográfico (Unidad 4) — printed p. 64 |
+
+**Acceptance count: taught in 2 countries (Iraq, Dominican Republic).**
+
+Dominican Republic's own way (Dominican Republic Grade 10 Ciencias Sociales 4° Secundaria): at this level the analysis turns Marxian in vocabulary — capitalism is explained through the separation of the worker from the means of production and the owner's appropriation of surplus labour (plusvalía), and imperialism through cartels, monopoly centralisation and the export of capital.
 
 Iraq's own way (Iraq Grade 12 Human Geography): a human-geography course in six chapters — population, cities and countryside, agriculture, industry and mining, transport and trade, political geography and tourism — and every chapter closes with an applied study of Iraq itself, so the world pattern is always brought home.
 
-Searchable tags: the economic bases of state power, Iraq, social studies, global-issues
+Searchable tags: the economic bases of state power, Iraq, social studies, global-issues, Dominican Republic

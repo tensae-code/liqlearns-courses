@@ -1,6 +1,6 @@
 # Sources — Employment structure — reading an economy
 
-countries: Ethiopia, Mongolia, Cambodia, Venezuela, Moldova, Mozambique, Armenia, Cuba
+countries: Ethiopia, Mongolia, Cambodia, Venezuela, Moldova, Mozambique, Armenia, Cuba, Dominican Republic
 
 **Book 1:** *Geography, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluators: Dereje Guteta (PhD), Tesfaye Shiferaw (PhD), Abebe Yibeltie (MA), Hussein Seid (MA). First published 2023 under GEQIP-E. ISBN 978-99990-0-049-9. Printed by Gravity Group IND LLC, 13th Industrial Area, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. Printed page = PDF page − 6 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-student-placements.md
 
@@ -35,13 +35,21 @@ countries: Ethiopia, Mongolia, Cambodia, Venezuela, Moldova, Mozambique, Armenia
 | Armenia part — §2 Reading an economy by its employment/output structure | Armenia, *Armenia Grade 11 Geography student*, §2 Reading an economy by its employment/output structure — printed p. 10 |
 | Cuba part — Unidad 5 El Producto Interno Bruto y el PIB per cápita para comparar la producción de los países (teacher guide — evidence) | Cuba, *Cuba Grade 8 OM Geografía Económica y Social G8* (teacher guide), Unidad 5 El Producto Interno Bruto y el PIB per cápita para comparar la producción de los países — printed p. 67 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Mongolia, Cambodia, Venezuela, Moldova, Mozambique, Armenia). Cuba is named here as teacher-guide evidence only, counted nowhere.**
+**Book 10:** *Ciencias Sociales 6° Secundaria* (student book, Spanish) — Ministerio de Educación de la República Dominicana (MINERD), Unidad Editorial; year 2023; ISBN 978-9945-646-78-8. Title as printed: Ciencias Sociales — Sexto Grado. Segundo Ciclo. Educación Secundaria (Libro Abierto, Serie 1, Segunda edición). Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 240 (title page verified against the record title; page count matches the books.json record; printed page numbers match PDF pages). Verdict: COMPLETE. Contents map: Economics parts printed pp. 154–171 (Unidad 9, La economía dominicana en el presente) and pp. 194–195; History pp. 10–27 (the US occupation and the sugar boom), 28–42 (the Trujillo dictatorship), 43–63 (democratic and revolutionary struggles 1961–1965), 64–81 (the neo-authoritarian phase 1966–1978, including its economic boom told as history), 82–99 (transition to the present democratic order 1978–1996), 100–117 (the discourse on the Dominican condition); Civics pp. 118–135 (constitutional evolution), 208–239 (democracy, duties, rights and participation); Geography pp. 136–153 (evolution of the Dominican population), 172–189 (spatial distribution of the population), 190–193, 196–207 (migration movements, modernisation disparities, regional poles). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic part — Distribución de la población por ramas económicas y ocupaciones (Unidad 11): over half a century the occupied population's branch structure transformed — agriculture's share shrank to 9.7%, the difference redistributed above all to emerging sectors such as commerce and hotels and restaurants, which rose from 6.7% to 28.3%, with occupational-category tables (2010) comparing urban and rural areas | Dominican Republic, *Ciencias Sociales 6° Secundaria*, Distribución de la población por ramas económicas y ocupaciones (Unidad 11) — printed p. 194 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Mongolia, Cambodia, Venezuela, Moldova, Mozambique, Armenia, Dominican Republic). Cuba is named here as teacher-guide evidence only, counted nowhere.**
+
+Dominican Republic's own way (Dominican Republic Grade 12 Ciencias Sociales 6° Secundaria): the school-leaving book ends with the national economy measured — GDP, openness, the balance of payments and per-capita income are all taught on Central Bank tables for 2010–2022, and the unit's own conclusion is critical: GDP per capita doubled while the average worker's income stagnated, so other sectors appropriated the increase.
 
 Mongolia's own way (Grade 8): the Grade 8 year is the LOCAL year — every chapter is re-anchored to the child's own орон нутаг (local area/homeland): its environment and problems, its heritage, its economy and market, its governance. The book's Law/Civics parts (Chapters IV–V, printed pp. 63–94) are named in the placements, not placed. That way is stocked here as the way Mongolia teaches this thing.
 
 No book error is flagged for this lesson's pages in the placements. The teacher guide was first published in 2022 against the student book's 2023; the student book is the learner text of record, and the guide is cited as evidence only.
 
-Searchable tags: employment structure, primary secondary tertiary quaternary, sectors, development signal, ethiopia, social studies, people and resources, Mongolia, Нийгэм судлал
+Searchable tags: employment structure, primary secondary tertiary quaternary, sectors, development signal, ethiopia, social studies, people and resources, Mongolia, Нийгэм судлал, Dominican Republic
 
 Cambodia's own way (Cambodia Grade 9 Social Studies): Grade 9 Geography turns homeward and outward — Cambodia's own minerals, natural tourist sites and economy first, then full country profiles of the wider Asian neighbours (China, India, Malaysia, Brunei, Timor-Leste).
 
