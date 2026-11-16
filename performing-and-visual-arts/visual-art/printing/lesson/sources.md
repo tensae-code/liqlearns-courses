@@ -1,6 +1,6 @@
 # Sources — Printing
 
-countries: Ethiopia, Maldives, Uganda
+countries: Ethiopia, Maldives, Uganda, Barbados
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -28,6 +28,8 @@ countries: Ethiopia, Maldives, Uganda
 
 **Book 13:** *Art and Design Textbook — Senior One (Lower Secondary Curriculum), PROTOTYPE* (student book, English) — Uganda, National Curriculum Development Centre (NCDC), Uganda, 2020 (file dated 11/05/2020), no ISBN printed, Senior One (= Grade 8), 86 PDF pp. STUDENT — student book. Verdict: COMPLETE — with one book fault: the contents lists the Ancient Art chapter as "Chapter 10" while the chapter itself is numbered Chapter 9 in its body (figures 9.1, activities 9.1–9.3); there is no Chapter 9 in the contents and no separate Chapter 10 body. Chapter summaries and end-of-chapter activities are the book's own study apparatus — the teaching sections are placed, the summaries are not separate placements. The repo tree path is a PHANTOM PUSH (grab.py tree returned HTTP 404); the book was fetched from the recorded NCDC source_url with resumable downloads and verified by cover and pdfinfo, and the downloaded copy is staged under the push-don't-delete rule at its phase3-staging record path (books.json record already exists there). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/uganda-placements.md.
 
+**Book 14:** *Primary Visual Arts Curriculum Guide, Classes 1–4* (curriculum guide, English) — Barbados, Ministry of Education and Human Resource Development, Barbados; year not printed (document dated 2011 in file metadata); no ISBN printed, Classes 1–4 (ages 7–11), 64 PDF pp. TEACHER — curriculum guide for teachers. Verdict: COMPLETE. The same file (identical MD5) is filed under the grade-01, grade-02, grade-03 and grade-04 records; it was read once and is placed once, with all four records named here. Read in place in phase3-staging in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/barbados-placements.md. **Curriculum guide — EVIDENCE only, kept outside the acceptance count.**
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Printing and direct printing defined; Exercise 2.5, name your favourite colour | Book 1, §2.5–2.5.1, printed p. 39 |
@@ -52,6 +54,8 @@ countries: Ethiopia, Maldives, Uganda
 | Sub lesson 6 — Silk-screen printing: silk on a frame, holes blocked opposite the design, squeegee pushes colour; tools and process (Fig. 25) | Book 7, §2.5, printed pp. 66–68 |
 | Sub lesson 6 (teacher guide — evidence) — Printmaking: a painting is a one-off, prints are multiples; four methods — intaglio, block/relief, lithography, screen printing | Book 10, printed pp. 74–76 |
 | Sub lesson 6 (teacher guide — evidence) — Printmaking, "the art of stamping": five processes — silkscreen, lithography, intaglio/etching, monotype, relief | Book 11, printed pp. 28–32 |
+| Barbados — Design Awareness: Printing (Class 1) — collecting, sorting and testing found materials for printing; found-material prints, printing blocks and monoprints; repeat patterns and overlapping prints for a handkerchief, tie or scarf design (curriculum guide — evidence) | Book 14, printed p. 3 |
+| Barbados — Design Awareness: Printing (Class 2) — creating printing blocks and block printing; stencil production and use; positive and negative techniques; patterns from letters and figures; paper folding and cutting patterns; greeting cards combining graphics and text (curriculum guide — evidence) | Book 14, printed p. 6 |
 
 | Sub lesson 7 — Carving safety (Grade 7): sharp tools (cutter, blade, knife) cause bleeding and cuts — work carefully; never share or pass sharp tools | Book 6, printed p. 48 |
 | Sub lessons 1, 5 and 6 — Printing kinds (Grade 5): printing is multiplying an image, text or design in the wanted quantity by carving, gouging, or painting the backs of found things; the kinds surveyed | Book 4, §2.3.3, printed p. 67 |
@@ -59,7 +63,7 @@ countries: Ethiopia, Maldives, Uganda
 | Maldives — Printed Landscapes: landscapes in print, and monotype printing — painting a picture on a smooth surface and pressing paper onto the wet paint to lift one unique print; Degas's imaginary landscapes; making a monotype of an imaginary landscape, scraping lines and textures with the brush's wooden tip (original target `visual-art/monotype-printing`) | Book 12, Unit 7, printed pp. 27–31 |
 | Uganda — Chapter 6: Introduction to Fabric Decoration and Printmaking — the techniques of printmaking, traditional and contemporary: impression, block, plate, matrix and mono-print, and documenting the process | Book 13, printed pp. 36–37 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Maldives, Uganda).**
+**Acceptance count: taught in 3 countries (Ethiopia, Maldives, Uganda). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count.**
 
 Honesty notes: Books 10 and 11 are teacher guides; the Grade 7 guide is a truncated copy (body printed pp. 1–109 only) and the Grade 8 guide is truncated (body printed pp. 1–56 plus syllabus) — the printmaking parts used here sit inside the surviving body pages of both, and are labelled teacher-guide evidence. The Grade 6 book captions its stencil figure (Fig. 33, printed p. 53) "relief-cut printing works" while its own labels describe a stencil and its print; the lesson follows the content of the section, as the placements record it. The Grade 7 student book numbers its printing block §2.1.2 a second time (the paint kinds carry the same number) — placements follow the content, not the numbers, and so does this lesson. Batik and silk-screen keep their own book-given names and steps; nothing about them is borrowed from outside the placements.
 

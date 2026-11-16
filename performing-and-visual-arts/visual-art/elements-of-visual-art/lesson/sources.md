@@ -1,6 +1,6 @@
 # Sources — The Elements of Visual Art
 
-countries: Ethiopia, Andorra, Uganda
+countries: Ethiopia, Andorra, Uganda, Barbados
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Andorra, Uganda
 
 **Book 9:** *Art and Design Textbook — Senior One (Lower Secondary Curriculum), PROTOTYPE* (student book, English) — Uganda, National Curriculum Development Centre (NCDC), Uganda, 2020 (file dated 11/05/2020), no ISBN printed, Senior One (= Grade 8), 86 PDF pp. STUDENT — student book. Verdict: COMPLETE — with one book fault: the contents lists the Ancient Art chapter as "Chapter 10" while the chapter itself is numbered Chapter 9 in its body (figures 9.1, activities 9.1–9.3); there is no Chapter 9 in the contents and no separate Chapter 10 body. Chapter summaries and end-of-chapter activities are the book's own study apparatus — the teaching sections are placed, the summaries are not separate placements. The repo tree path is a PHANTOM PUSH (grab.py tree returned HTTP 404); the book was fetched from the recorded NCDC source_url with resumable downloads and verified by cover and pdfinfo, and the downloaded copy is staged under the push-don't-delete rule at its phase3-staging record path (books.json record already exists there). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/uganda-placements.md.
 
+**Book 10:** *Primary Visual Arts Curriculum Guide, Classes 1–4* (curriculum guide, English) — Barbados, Ministry of Education and Human Resource Development, Barbados; year not printed (document dated 2011 in file metadata); no ISBN printed, Classes 1–4 (ages 7–11), 64 PDF pp. TEACHER — curriculum guide for teachers. Verdict: COMPLETE. The same file (identical MD5) is filed under the grade-01, grade-02, grade-03 and grade-04 records; it was read once and is placed once, with all four records named here. Read in place in phase3-staging in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/barbados-placements.md. **Curriculum guide — EVIDENCE only, kept outside the acceptance count.**
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Visual art is a language | Book 1, printed pp. 2–3 |
@@ -27,6 +29,7 @@ countries: Ethiopia, Andorra, Uganda
 | Sub lesson 3 — Form, and positive and negative space | Book 1, printed pp. 5–6 |
 | Sub lesson 4 — Value: light and dark steps | Book 1, printed pp. 7–8 |
 | Sub lesson 5 — The principles of design | Book 2, printed pp. 8–12 |
+| Barbados — Observation / Design Awareness (Class 1) — identifying patterns and designs in the classroom and environment and discussing how patterns are made from lines, colours, shapes and textures (curriculum guide — evidence) | Book 10, printed pp. 1–2, 27–28 |
 
 | Sub lesson 6 — Composition (Grade 6): the arrangement of the artist's imagined idea/feeling for the viewer; subject, form and content; pictured and abstract kinds; three zones — middleground, background, foreground (Fig. 21) | Book 4, §2.2, printed p. 42 |
 | Sub lesson 7 — The portrait worked example (Grade 8): Fig. 1 Agegnehu Engida's self-portrait colour painting as the organising example | Book 5, §1.1, printed p. 2 |
@@ -66,7 +69,7 @@ countries: Ethiopia, Andorra, Uganda
 | Andorra — Bloc 1: the plastic language (batxillerat) — visual narrative built from signifiers and meanings: metaphor and symbol; the symbolic function and codes of colour; light's expressive function, chiaroscuro and light as a compositional element in 3D space; tonal ranges (gradations, flat surfaces, hatching, blending); negative and positive forms, contour and inner contour; textures visual, rough, smooth, satiny and opaque (programme document — evidence; original target `visual-art/elements-of-visual-art`) | Book 8, printed p. 16 |
 | Uganda — Chapter 2: Exploring Space, Line and Shape — the elements of art one by one: line, shape or form and space, texture, colour | Book 9, printed pp. 7–10 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Uganda). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.**
+**Acceptance count: taught in 2 countries (Ethiopia, Uganda). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Barbados is added as curriculum guide — evidence only, kept outside the acceptance count.**
 
 The Grade 5 book teaches Allegretto as "very fast", above Allegro "fast", in its tempo table; that table belongs to the music lesson and is not used here. The Grade 7 teacher-guide parts in this lesson sit inside the guide's surviving body pages (printed pp. 26–41) and are labelled teacher-guide evidence; the pupil-taught parts stand on the two student textbooks, so the acceptance count is 1 country.
 

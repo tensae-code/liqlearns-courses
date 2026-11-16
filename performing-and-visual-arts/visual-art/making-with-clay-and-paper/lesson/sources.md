@@ -1,6 +1,6 @@
 # Sources — Making with Clay and Paper
 
-countries: Ethiopia, Maldives, Uganda
+countries: Ethiopia, Maldives, Uganda, Barbados
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Maldives, Uganda
 
 **Book 7:** *Art and Design Textbook — Senior One (Lower Secondary Curriculum), PROTOTYPE* (student book, English) — Uganda, National Curriculum Development Centre (NCDC), Uganda, 2020 (file dated 11/05/2020), no ISBN printed, Senior One (= Grade 8), 86 PDF pp. STUDENT — student book. Verdict: COMPLETE — with one book fault: the contents lists the Ancient Art chapter as "Chapter 10" while the chapter itself is numbered Chapter 9 in its body (figures 9.1, activities 9.1–9.3); there is no Chapter 9 in the contents and no separate Chapter 10 body. Chapter summaries and end-of-chapter activities are the book's own study apparatus — the teaching sections are placed, the summaries are not separate placements. The repo tree path is a PHANTOM PUSH (grab.py tree returned HTTP 404); the book was fetched from the recorded NCDC source_url with resumable downloads and verified by cover and pdfinfo, and the downloaded copy is staged under the push-don't-delete rule at its phase3-staging record path (books.json record already exists there). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/uganda-placements.md.
 
+**Book 8:** *Primary Visual Arts Curriculum Guide, Classes 1–4* (curriculum guide, English) — Barbados, Ministry of Education and Human Resource Development, Barbados; year not printed (document dated 2011 in file metadata); no ISBN printed, Classes 1–4 (ages 7–11), 64 PDF pp. TEACHER — curriculum guide for teachers. Verdict: COMPLETE. The same file (identical MD5) is filed under the grade-01, grade-02, grade-03 and grade-04 records; it was read once and is placed once, with all four records named here. Read in place in phase3-staging in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/barbados-placements.md. **Curriculum guide — EVIDENCE only, kept outside the acceptance count.**
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Clay modelling steps: knead until it softens; design on paper; roll, adding and taking away, until the wanted picture is obtained; Activity 18 — model an animal you enjoy (Drawing 28) | Book 1, §2.5, printed pp. 37–38 |
@@ -29,12 +31,14 @@ countries: Ethiopia, Maldives, Uganda
 | Sub lesson 4 — Architecture (ኪነ ህንፃ): Drawing 17, house building; Activity 7 — design the house buildings of your area. Pottery: Drawing 18; Activity 7 — knead the soils of your area and make a pottery work in imitation | Book 1, printed p. 67 |
 | Sub lesson 5 — A New Year gift card: make a New Year gift card by colour-painting and show it (Activity 5) | Book 1, printed p. 56 |
 | Sub lesson 6 — Shaping letters from materials: shape the Amharic letters from different materials and show them (Activity 1, language activities page) | Book 1, printed p. 72 |
+| Barbados — Modelling (Class 2) — modelling animals, birds, fish and fruit; 3D and free-standing objects; papier-mâché puppets; mobiles (curriculum guide — evidence) | Book 8, printed p. 9 |
+| Barbados — Modelling Using Clay (Class 3) — clay relief patterns by the additive method; pinch and coil pots; clay animals, birds and fish; researching the types of clay and pottery found in the island (curriculum guide — evidence) | Book 8, printed p. 11 |
 
 | Sub lesson 7 — Papier-mâché (Grade 8 pupil content): making forms by cutting and kneading (ማቡካት) varied papers; tools — paper pieces, water, bucket, cooled boiled wheat/teff flour paste with sugar; process — soak ~24 hours, knead until binding, mix with paste, paste onto a form or join like clay; Figs. 29–30; Activity 2.13 — a waste basket for each classroom | Book 4, §2.6.3, printed pp. 72–75 |
 | Maldives — Decorative Textures: ceramics — objects of clay hardened in a brick-lined kiln, and the ceramicists who make them; decorating by carving lines, dots and textures with simple tools; making and decorating a pinch pot pinched from a ball of clay | Book 6, Unit 12, printed pp. 50–54 |
 | Uganda — Chapter 7: Introduction to Pottery — clay as a natural material (found on river banks, stream beds and road cuts, made durable with fire), the clay methods, and making a pinch pot: clay preparation and forming the pot | Book 7, printed pp. 43–47 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Maldives, Uganda).**
+**Acceptance count: taught in 3 countries (Ethiopia, Maldives, Uganda). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count.**
 
 Honesty notes: Book 5 (the Grade 2 teacher guide) is a scan with no usable text layer; its part is cited at section level only, exactly as its placements give it, and is labelled teacher-guide evidence. The Grade 5 modelling pages also teach the relief / in-the-round distinction; that distinction is taught in full in the Sculpture and Historic Places lesson, and here it appears only inside the clay-figure method. The Grade 3 New Year page (p. 56) pairs the card with collecting New Year songs; only the card — the visual-art part — is stocked here, as the structure map directs.
 

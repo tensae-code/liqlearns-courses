@@ -1,6 +1,6 @@
 # Sources — Reading Music on the Staff
 
-countries: Ethiopia, United Kingdom, Andorra
+countries: Ethiopia, United Kingdom, Andorra, Barbados
 
 **Book 1:** *Grade 4 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 4ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–100. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, United Kingdom, Andorra
 
 **Book 7:** *Programa d'educació musical de primera ensenyança de l'Escola Andorrana — Annex IV of Decret 376/2021, BOPA núm. 123, 24-11-2021* (curriculum programme document, Catalan) — Andorra, Ministeri d'Educació i Ensenyament Superior, Govern d'Andorra, 2021, ISBN 978-99920-0-931-4, Primera ensenyança, cycles 1–3 (ages 6–12), 39 PDF pp (record; Annex IV runs at BOPA pp. 199–237 of the full 510-page BOPA issue). TEACHER — programme document. Verdict: COMPLETE as a programme document — the decree's legal preamble and the programme's assessment criteria and end-of-cycle expectation tables are apparatus, named here and not placed. Read via its recorded source_url (BOPA official gazette PDF) in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/andorra-placements.md. **Curriculum programme document — EVIDENCE only, kept outside the acceptance count.**
 
+**Book 8:** *Primary Music Syllabus, Classes 1–4* (curriculum syllabus, English) — Barbados, Ministry of Education and Human Resource Development, Barbados; year not printed (document dated 2011 in file metadata); no ISBN printed, Classes 1–4 (ages 7–11), 44 PDF pp. TEACHER — syllabus for teachers. Verdict: COMPLETE. The record title says “Class 1”; the printed cover and contents cover Classes 1–4. Read in place in phase3-staging in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/barbados-placements.md. **Curriculum syllabus — EVIDENCE only, kept outside the acceptance count.**
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The staff: five lines, four spaces | Book 1, §2.1, printed pp. 22–23 |
@@ -24,6 +26,7 @@ countries: Ethiopia, United Kingdom, Andorra
 | Sub lesson 4 — Accidentals: sharp, flat, natural | Book 2, printed pp. 47–48 |
 | Sub lesson 5 — Ledger lines: notes beyond the staff | Book 2, printed pp. 50–51 |
 | Sub lesson 6 — Time signatures and reading a melody | Book 2, printed pp. 52–54 |
+| Barbados — Introduction to Music Reading through recorder work (Class 1) — recognising the treble clef and its place on the staff; first recorder technique: holding, fingering, blowing, posture and care of the recorder (curriculum syllabus — evidence) | Book 8, printed p. 6 |
 
 | Sub lesson — music as written language; the sign inventory | Grade 8 Student Textbook, printed p. 50 |
 
@@ -47,7 +50,7 @@ countries: Ethiopia, United Kingdom, Andorra
 | United Kingdom — Three-part score and repeat signs (Samba Em Prelúdio): following a three-part score (voice, guitar, bass guitar) one part at a time, the D.S. al Coda repeat instruction; wider listening to Afro-Cuban jazz and Buena Vista Social Club | Book 6, printed pp. 82–83 |
 | Andorra — Bloc 1: recording creations (cycles 1–3) — keeping music in conventional and non-conventional notation (scores) and in sound and audiovisual recordings, with technology as the tool for composing, editing and reproducing (programme document — evidence; original target `music/reading-music-on-the-staff`) | Book 7, printed p. 26 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, United Kingdom). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.**
+**Acceptance count: taught in 2 countries (Ethiopia, United Kingdom). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.**
 
 The Grade 5 book teaches the tempo word Allegretto as "very fast", above Allegro — a tempo-table matter kept in the music lesson on dynamics and tempo, not repeated here. The G clef's and F clef's stroke orders are taught as the Grade 4 placements describe the figures (the G clef rising from the second line; the F clef from the fourth line with its two dots around that line); no stroke order beyond the placements is claimed.
 

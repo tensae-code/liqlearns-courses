@@ -1,10 +1,12 @@
 # Sources — Scales, Pitch and Key Signatures
 
-countries: Ethiopia
+countries: Ethiopia, Barbados
 
 **Book 1:** *Grade 6 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 6ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
 
 **Book 2:** *Grade 6 Performing and Visual Arts Teacher Guide (6ተኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መማሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed front matter I–VI + body from printed p.1 + syllabus to printed p.119. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-teacher-placements.md.
+
+**Book 3:** *Primary Music Syllabus, Classes 1–4* (curriculum syllabus, English) — Barbados, Ministry of Education and Human Resource Development, Barbados; year not printed (document dated 2011 in file metadata); no ISBN printed, Classes 1–4 (ages 7–11), 44 PDF pp. TEACHER — syllabus for teachers. Verdict: COMPLETE. The record title says “Class 1”; the printed cover and contents cover Classes 1–4. Read in place in phase3-staging in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/barbados-placements.md. **Curriculum syllabus — EVIDENCE only, kept outside the acceptance count.**
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -13,6 +15,7 @@ countries: Ethiopia
 | Sub lesson 3 — Pitch: high and low | Book 1, §1.2.3, printed pp. 20–22 |
 | Sub lesson 4 — Key signatures: sharps and flats in order | Book 1, §1.2.4, printed pp. 23–25 |
 | Sub lesson 5 — Scales and key signatures in the guide (teacher guide — evidence) | Book 2, §1.1, printed pp. 3–16; §2.1, printed pp. 37–44 |
+| Barbados — Performance & Instrument (Classes 3–4) — recorder fluency grows: notes C and D, pinch E, right hand added, then F, F-sharp and C-sharp, playing the scales of C, G and D major (curriculum syllabus — evidence) | Book 3, printed pp. 18, 24 |
 
 | Sub lesson — Exercise 1.2: nine major-scale constructions | Grade 6 Student Textbook, printed p. 17 |
 | Sub lesson — Exercise 2.2: singing high | Grade 6 Student Textbook, printed pp. 39–40 |
@@ -25,7 +28,7 @@ countries: Ethiopia
 | Sub lesson 8 — The Grade 6 chapter's self-checks — two tables (self-check stock) — G6S-37 | Grade 6 Student Textbook, Ch. 1 self-check tables, printed pp. 30–31 |
 | Sub lesson 8 — The Grade 6 chapter's closing exercise (exercise stock) — G6S-38 | Grade 6 Student Textbook, Ch. 1 closing exercise, printed pp. 31–32 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 1 country (Ethiopia). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.**
 
 The Grade 6 book's key-signature exercise prints "E♭" in Amharic beside "(E Major scale)" in English — a printing tangle the placements record; the lesson teaches the D, E, A-flat exercise set as the placements resolve it and does not present the tangled line as a fact. The Grade 6 teacher-guide parts are evidence and are labelled so; the pupil-taught scale work stands on the Grade 6 student book.
 

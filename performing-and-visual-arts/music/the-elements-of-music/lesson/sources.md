@@ -1,6 +1,6 @@
 # Sources — The Elements of Music
 
-countries: Ethiopia, United Kingdom, Andorra, Uganda
+countries: Ethiopia, United Kingdom, Andorra, Uganda, Barbados
 
 **Book 1:** *ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል (Performing and Visual Arts, Student's Book, Grade 5)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 141 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -14,10 +14,13 @@ countries: Ethiopia, United Kingdom, Andorra, Uganda
 
 **Book 6:** *Performing Arts Textbook — Senior One (Lower Secondary Curriculum), PROTOTYPE* (student book, English) — Uganda, National Curriculum Development Centre (NCDC), Uganda, 2020, no ISBN printed, Senior One (= Grade 8), 48 PDF pp. STUDENT — student book. Verdict: COMPLETE — with one book fault: the contents lists Chapters 1, 2, 3, 5, 6, 7, 8 — there is no Chapter 4 in the textbook (the Teacher's Guide's Chapter 4, "Performing Arts Making Using African Styles", appears in the textbook only as Chapter 7, "Performing Arts in African Styles"). The repo tree path is a PHANTOM PUSH (grab.py tree returned HTTP 404); the book was fetched from the recorded NCDC source_url with resumable downloads and verified by cover and pdfinfo, and the downloaded copy is staged under the push-don't-delete rule at its phase3-staging record path (books.json record already exists there). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/uganda-placements.md.
 
+**Book 7:** *Primary Music Syllabus, Classes 1–4* (curriculum syllabus, English) — Barbados, Ministry of Education and Human Resource Development, Barbados; year not printed (document dated 2011 in file metadata); no ISBN printed, Classes 1–4 (ages 7–11), 44 PDF pp. TEACHER — syllabus for teachers. Verdict: COMPLETE. The record title says “Class 1”; the printed cover and contents cover Classes 1–4. Read in place in phase3-staging in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/barbados-placements.md. **Curriculum syllabus — EVIDENCE only, kept outside the acceptance count.**
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — the six elements of music; Grade 5's scope | Grade 5 Student Textbook, printed p. 16 (§1.2) |
 | Sub lesson 2 — the eight elements of music (teacher guide — evidence) | Grade 5 Teacher Guide, printed pp. 1–11 |
+| Barbados — Appreciation & Listening (Class 4) — programme music and critical listening: identifying instruments and motifs in works such as Peter and the Wolf and Carnival of the Animals, and discussing dub, reggae, calypso and Latin American styles critically (curriculum syllabus — evidence) | Book 7, printed p. 27 |
 
 | United Kingdom — Structure and texture (Bach): ABA ternary structure and contrapuntal (polyphonic) texture — a short opening theme passed between instruments at different times as fugal writing — with guided listening and wider listening to Handel's Concerto Grosso Op.6 No.5 and Vivaldi's 'Winter' | Book 3, printed p. 7 |
 | United Kingdom — Structure through changing elements (Defying Gravity): a song built in contrasting sections mapped bar by bar — changes of tempo, key, dynamics, texture and orchestration building to a climax; the vocal line's wide angular range; wider listening to songs from Matilda and Hairspray | Book 3, printed p. 53 |
@@ -25,7 +28,7 @@ countries: Ethiopia, United Kingdom, Andorra, Uganda
 | Uganda — Chapter 2: Exploring the Basic Elements of Music — the basic elements worked through song: pitch, duration, tempo and rhythm, appreciating and using them to create and present music pieces (teacher guide — evidence) | Book 5, printed pp. 11–20 |
 | Uganda — Chapter 2: Exploring the Basic Elements of Music — pitch, duration and tempo explored through songs you sing, compose and present | Book 6, printed pp. 6–11 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, United Kingdom, Uganda). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count.**
+**Acceptance count: taught in 3 countries (Ethiopia, United Kingdom, Uganda). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.**
 
 The pupil book's list is pupil teaching; the guide's eight-element list is carried as labelled teacher-guide evidence, exactly as the placements label it. No element is added to either list.
 

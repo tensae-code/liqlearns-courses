@@ -416,7 +416,45 @@ lessons are the books'.
   placed; songs are placed by name and kind only, never
   transcribed.
 
-**The whole course stands at 223 lessons, 3,410 questions and
+- **Art expansion — Barbados (2026-11-16):** 37 placements
+  stocked from 2 books — the *Primary Music Syllabus,
+  Classes 1–4* (44 PDF pp) and the *Primary Visual Arts
+  Curriculum Guide, Classes 1–4* (64 PDF pp; the same file
+  filed under the grade-01 to grade-04 records), both
+  Ministry of Education and Human Resource Development,
+  Barbados, TEACHER documents — curriculum syllabus /
+  curriculum guide evidence only, kept outside the
+  acceptance counts. 27 placements into 24 existing lessons
+  (School Songs; Moving to Music; Playing Notes and Rests;
+  Reading Music on the Staff; Notes and Rests; Appreciating
+  the Arts; Hearing Each Instrument; Traditional and
+  Festival Songs; Faster Notes, Dynamics and Tempo; Scales,
+  Pitch and Key Signatures; The Elements of Music;
+  Observing Our Surroundings; The Elements of Visual Art;
+  Making with Paper and Pieces ×2; Printing ×2; The
+  Primary Colours; Mixing Colours; Painting Still Life;
+  Drawing: The Foundation Skill; Elements and Principles
+  of Design; Making with Clay and Paper ×2; The Colour
+  Wheel; Design and Perspective: Near and Far; Emblems and
+  Posters That Speak), 10 NEW lessons (Music: Making and
+  Composing Music — from composing-simple-tunes-and-lyrics;
+  The Tuk Band of Barbados; Building Instruments from
+  Recycled and Found Materials — from
+  music-from-found-materials; Composing Calypso; The Steel
+  Pan — from steel-pan-first-tunes; Drama and Dance:
+  Puppet Theatre — from puppetry-and-masks; Visual Art:
+  Kite Making; Barbadian Crafts and Makers — from
+  culture-and-values/barbadian-crafts-and-makers; Weaving
+  — from weaving-baskets-and-textiles; Assemblage —
+  from assemblage-and-found-object-art), 120 questions
+  added, media as described slots only. Songs are placed
+  by name and kind only, never transcribed. The placements
+  file's Book 1 header tally (9 existing / 7 new) does not
+  match its own lines (11 existing / 5 NEW-marked); the
+  Book 1 total of 16 and the overall total of 37 reconcile
+  exactly.
+
+**The whole course stands at 233 lessons, 3,530 questions and
 203 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 

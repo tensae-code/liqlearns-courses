@@ -1,9 +1,11 @@
 # Sources — Painting Still Life
 
-countries: Ethiopia
+countries: Ethiopia, Barbados
 
 **Book 1:** *Performing and Visual Arts, Student Textbook, Grade 6* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors እሸቱ ታደሰ (Eshetu Tadesse) and ደስታ ይትባረክ (Desta Yitbarek); editors አታላይ መስፍን (Atalay Mesfin) and ደምሌ አባተ (Demle Abate). Printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
 **Book 2:** *Performing and Visual Arts, Teacher's Guide Book, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. (September 2021). Writers: Bareke Tadesse, Gizachew Tasew, Sara Mengistu, Ashenafi Nigussie. Printed pp. 1–161 as paginated; the secured copy's body runs to printed p. 109 (Units 4–5 missing — this lesson's part is Unit 2, inside the body held). Printed page ≈ PDF page + 10 in the body. Read page by page in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g07-teacher-placements.md.
+
+**Book 3:** *Primary Visual Arts Curriculum Guide, Classes 1–4* (curriculum guide, English) — Barbados, Ministry of Education and Human Resource Development, Barbados; year not printed (document dated 2011 in file metadata); no ISBN printed, Classes 1–4 (ages 7–11), 64 PDF pp. TEACHER — curriculum guide for teachers. Verdict: COMPLETE. The same file (identical MD5) is filed under the grade-01, grade-02, grade-03 and grade-04 records; it was read once and is placed once, with all four records named here. Read in place in phase3-staging in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/barbados-placements.md. **Curriculum guide — EVIDENCE only, kept outside the acceptance count.**
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -12,8 +14,9 @@ countries: Ethiopia
 | Sub lesson 3 — Doing the still-life painting: repeated drawing practice and good drawing skill are the basis; tools — thick drawing paper, watercolour, palette, clean water, cloth piece, pencil, eraser, sharpener, support board and the still-life model arrangement; steps — arrange the model in a comfortable place, draw it lightly in pencil on thick paper using the support, pour the needed colours on the palette, paint starting from the lightest colour, waiting for drying; the four pictured stages (ሀ) prepare the model, (ለ) draw it, (ሐ) paint it gradually in watercolour, (መ) finish it | Book 1, §2.3.1, printed pp. 49–50 |
 | Sub lesson 4 — Exercise 2.4: paint the three pictured still-life arrangements (ሀ, ለ, ሐ) in colour | Book 1, Exercise 2.4, printed p. 51 |
 | Sub lesson 5 (teacher guide — evidence) — Drawing and painting: drawing as the starting point of most artwork (recording ideas, planning finished works; used by sculptors, painters, printmakers, ceramic artists); still-life drawing practice, then preparing a still life for painting; painting media — pigment + medium; equipment (acrylic, watercolor, gouache, tempera, oil, poster colour, canvas, brushes, palette, sponge, palette knives); watercolour method taught step by step, with the worked example of a Lake Hawassa watercolour by Solomon Wagaye | Book 2, Unit 2 item 31, printed pp. 67–71 |
+| Barbados — Picture Composition (Class 1) — mood painting inspired by music; drawing and painting from themes and life experiences; sketching and painting local scenery (curriculum guide — evidence) | Book 3, printed p. 4 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 1 country (Ethiopia). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count.**
 
 Honesty notes: Sub lesson 5 stands on the Grade 7 teacher's guide and is labelled evidence there and in the table; it is not pupil text. The artist's name in that part, Solomon Wagaye, is copied from the placements file's own summary of the guide. The book's still-life plates (Fig. 23, the stage pictures, the Exercise 2.4 arrangements) are described in words only — artworks are described, never copied. Media 14200 and 14203 are the builders' own drawn plates, not the book's figures.
 

@@ -1,6 +1,6 @@
 # Sources — The Colour Wheel
 
-countries: Ethiopia, Maldives
+countries: Ethiopia, Maldives, Barbados
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Maldives
 
 **Book 5:** *Exploring Creative Arts 4* (student book, English) — Maldives, National Institute of Education, Ministry of Education, Malé, Maldives; © 2025, first published 2025; ISBN 978-99915-0-956-3 (paperback); development editor Shirumeen Ahmed; printed by M7 Print Pvt. Ltd. Based on the Creative Arts in the National Curriculum syllabus, 2022. 93 PDF pp (printed pp. 1–81 plus acknowledgements and back cover; cover verified — two children painting at easels). Verdict: COMPLETE. Read in full as extracted text in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/maldives-placements.md. The book's glossary (printed pp. 79–81) is inventory only, named here and never stocked as parts.
 
+**Book 6:** *Primary Visual Arts Curriculum Guide, Classes 1–4* (curriculum guide, English) — Barbados, Ministry of Education and Human Resource Development, Barbados; year not printed (document dated 2011 in file metadata); no ISBN printed, Classes 1–4 (ages 7–11), 64 PDF pp. TEACHER — curriculum guide for teachers. Verdict: COMPLETE. The same file (identical MD5) is filed under the grade-01, grade-02, grade-03 and grade-04 records; it was read once and is placed once, with all four records named here. Read in place in phase3-staging in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/barbados-placements.md. **Curriculum guide — EVIDENCE only, kept outside the acceptance count.**
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Colour basics: light, surface, eye | Book 1, printed pp. 8–9 |
@@ -19,6 +21,7 @@ countries: Ethiopia, Maldives
 | Sub lesson 3 — Tertiary colours and the colour value chart | Book 1, printed pp. 10–11 |
 | Sub lesson 4 — Warm and cool colours, and the neutrals | Book 1, printed p. 12 |
 | Sub lesson 5 — Opposite colours | Book 1, printed pp. 12–13 |
+| Barbados — Picture Composition (Class 3) — monochromatic painting; a colour-mixing booklet; tertiary colours; tints and tones (curriculum guide — evidence) | Book 6, printed p. 10 |
 
 | Sub lesson 6 — Colour character (Grade 6): warm/cool; monochromatic; complementary; analogous colour families | Book 3, §2.3, printed p. 47 |
 | Sub lessons 2–3 — The colour study's three levels (Grade 6): primary colours red, yellow, blue; equal mixes give secondary colours; the three-level colour study | Book 3, §2.3, printed p. 45 |
@@ -26,7 +29,7 @@ countries: Ethiopia, Maldives
 | Sub lessons 1–6 (teacher guide — evidence) — Colour (Grade 7 TG): colour produced when light waves strike an object; three properties — hue, intensity/saturation, value (tint/shade); the 12-part wheel; primaries, secondaries, tertiaries; warm/cool; neutrals; complementaries | Book 2, printed pp. 36–41 |
 | Maldives — Colour Mixology: intermediate colours — a primary mixed with the secondary next to it on the colour wheel, sitting between its two parents; different amounts giving different intermediates (lime, yellow-green, aquamarine, turquoise) | Book 5, Unit 16, printed pp. 67–69 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Maldives).**
+**Acceptance count: taught in 2 countries (Ethiopia, Maldives). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count.**
 
 The Grade 5 book's tertiary formula list names red + violet as magenta (ሀምራዊ); the lesson keeps the book's own formula list as printed. The Grade 7 teacher-guide colour part (printed pp. 36–41) sits inside that guide's surviving body pages and is labelled teacher-guide evidence in the table; it adds the wheel's history (Newton, 1666) and the tint/shade wording — the pupil-taught wheel itself stands on the Grade 5 student book.
 

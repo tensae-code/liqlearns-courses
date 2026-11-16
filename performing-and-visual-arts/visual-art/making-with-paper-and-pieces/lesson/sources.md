@@ -1,6 +1,6 @@
 # Sources — Making with Paper and Pieces
 
-countries: Ethiopia, Maldives, Uganda
+countries: Ethiopia, Maldives, Uganda, Barbados
 
 **Book 1:** *Grade 4 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 4ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–100. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Maldives, Uganda
 
 **Book 9:** *Art and Design Textbook — Senior One (Lower Secondary Curriculum), PROTOTYPE* (student book, English) — Uganda, National Curriculum Development Centre (NCDC), Uganda, 2020 (file dated 11/05/2020), no ISBN printed, Senior One (= Grade 8), 86 PDF pp. STUDENT — student book. Verdict: COMPLETE — with one book fault: the contents lists the Ancient Art chapter as "Chapter 10" while the chapter itself is numbered Chapter 9 in its body (figures 9.1, activities 9.1–9.3); there is no Chapter 9 in the contents and no separate Chapter 10 body. Chapter summaries and end-of-chapter activities are the book's own study apparatus — the teaching sections are placed, the summaries are not separate placements. The repo tree path is a PHANTOM PUSH (grab.py tree returned HTTP 404); the book was fetched from the recorded NCDC source_url with resumable downloads and verified by cover and pdfinfo, and the downloaded copy is staged under the push-don't-delete rule at its phase3-staging record path (books.json record already exists there). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/uganda-placements.md.
 
+**Book 10:** *Primary Visual Arts Curriculum Guide, Classes 1–4* (curriculum guide, English) — Barbados, Ministry of Education and Human Resource Development, Barbados; year not printed (document dated 2011 in file metadata); no ISBN printed, Classes 1–4 (ages 7–11), 64 PDF pp. TEACHER — curriculum guide for teachers. Verdict: COMPLETE. The same file (identical MD5) is filed under the grade-01, grade-02, grade-03 and grade-04 records; it was read once and is placed once, with all four records named here. Read in place in phase3-staging in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/barbados-placements.md. **Curriculum guide — EVIDENCE only, kept outside the acceptance count.**
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Papier-mâché: mould and pulp | Book 1, §2.3.1, printed pp. 29–30 |
@@ -28,6 +30,8 @@ countries: Ethiopia, Maldives, Uganda
 | Sub lesson 4 — Paper mosaic and potato printing (teacher guide — evidence) | Book 2, §2.3.2, printed p. 66 |
 | Sub lesson 5 — Tie-dye: tie, boil, reveal | Book 3, printed pp. 45–46 |
 | Sub lesson 6 — Decorating and drawing with materials (teacher guide — evidence) | Book 5, §2.4, printed pp. 35–37 (section level only — scan with no text layer) |
+| Barbados — Design Awareness (Class 1) — designs from rubbings of found objects (shells, seeds, leaves); paper tearing for negative and positive shapes; simple tabby weave with coloured paper; making fans, boats and aeroplanes (curriculum guide — evidence) | Book 10, printed pp. 2–3, 28 |
+| Barbados — Design Awareness (Class 3) — tie-dye by paper folding and dyeing, and dyeing techniques on small pieces of fabric, displayed and discussed (curriculum guide — evidence) | Book 10, printed p. 10 |
 
 | Sub lesson 7 — Drawing texture (Grade 5): texture felt by touch and sight — smooth: glass, cotton, soft wool; rough: bark, brick wall, sacking; in drawing, roughness by cross-hatching lines or repeated dots, smoothness by smudging or leaving untouched (Fig. 5) | Book 2, printed pp. 6–7 |
 | Sub lesson 2 (teacher guide — evidence) — Collage from local materials + design + texture (Grade 4 TG): making collage (ኮላዥ) from materials found in the locality; design (ንድፍ) — direct design and conceptual design (የቀጥታ/ሀሳባዊ ንድፍ); the collage steps; form and surface — smoothness and roughness (ልስላሴና ሻካራነት) by touch and sight | Book 6, §2.4, printed pp. 40–46 |
@@ -41,7 +45,7 @@ countries: Ethiopia, Maldives, Uganda
 | Maldives — Drawing with Scissors: the cut-paper collage — Matisse's freehand cutting of shapes from coloured paper; representing objects by their shapes alone, sizing and overlapping them to show near and far; the class's subject is the tourist attractions of the Maldives, the Munnaaru minaret among them | Book 8, Unit 9, printed pp. 37–41 |
 | Uganda — Chapter 5: Multi Media — Mosaic/Collage — collage techniques and the collage making process: choose a simple object or theme, observe your space, and build the work creatively from available materials of the surrounding environment | Book 9, printed pp. 31–33 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Maldives, Uganda).**
+**Acceptance count: taught in 3 countries (Ethiopia, Maldives, Uganda). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count.**
 
 The Grade 5 teacher-guide part (potato printing and paper mosaic) and the Grade 2 teacher-guide part (decorating and drawing) are teacher-guide evidence and are labelled so; the Grade 2 guide is a scan with no text layer, cited at section level only (§2.4, printed pp. 35–37), as its placements require. Tie-dye's boiling step is taught as the Grade 7 book gives it and is a grown-up's job in the hands-on work; the lesson says so.
 

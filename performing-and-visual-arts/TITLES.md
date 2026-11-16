@@ -74,7 +74,19 @@ The titles, in ladder order:
    ancient Egyptian art — pyramids, the sphinx and paintings
    evaluated by their elements and principles; and basketry —
    coiling, plaiting, wicker and twining, patterned baskets
-   for use and for sale (Uganda student book).
+   for use and for sale (Uganda student book). The Art expansion
+   added: kite making — kites designed and made to depict
+   given themes, with weaving in natural and man-made
+   materials; weaving — various items from natural
+   materials, growing to complex and mixed-media weaving
+   for decorative and useful objects; assemblage — bead
+   jewellery from natural and man-made beads, 3D objects
+   showing space and balance, and toys designed and made
+   from wood; and Barbadian crafts and makers — the
+   Historic and Marine museums, local artifacts collected
+   and drawn, and Barbadian textile artists, sculptors,
+   potters and basket weavers (Barbados curriculum
+   guide, evidence).
 3. **Music** — the ear and the voice: sounds around us, naming
    sounds, the songs (animals, family, nature, movement, festivals,
    school, counting, clean living, our country, colours), the
@@ -142,7 +154,19 @@ The titles, in ladder order:
    Art expansion added: Ugandan folk songs — each ethnic
    group's own tradition, Bunyoro's Kuhugura and Buganda's
    eggono vocal tones, pentatonic songs with traditional
-   instruments (Uganda student book; teacher guide, evidence).
+   instruments (Uganda student book; teacher guide, evidence). The
+   Art expansion added: making and composing music —
+   simple tunes from the notes B, A and G fitted to given
+   rhythm patterns, with simple lyrics; the tuk band of
+   Barbados — its instruments named and recognised, and
+   written about with how they are played; building
+   instruments from recycled and found materials —
+   bottles, saw, comb, maracas and bamboo; composing
+   calypso — simple calypso tunes on local topics, and
+   calypsos for graduations, Crop Over and other social
+   events; and the steel pan — playing simple tunes and
+   taking part in a steel band group (Barbados curriculum
+   syllabus, evidence).
 4. **Drama and Dance** — the body: how things, animals and people
    move; playing family roles; acting together; playing a person;
    theatre on a stage; acting our history; circle dances and
@@ -187,7 +211,11 @@ The titles, in ladder order:
    books, Nunavut). The Art expansion added:
    Ugandan folk dances — each group's motifs, instruments,
    costumes and props, choreographed to its folk song
-   (Uganda student book; teacher guide, evidence).
+   (Uganda student book; teacher guide, evidence). The
+   Art expansion added: puppet theatre — creating cartoon
+   characters and stick puppets, and cutting, arranging
+   and pasting paper-bag and sock puppets (Barbados
+   curriculum guide, evidence).
 5. **Culture and Values** — the arts as a people's memory:
    traditional dress then and now, houses then and now, the
    festivals and their arts (Meskel, Timket, Arafa, Genna, New

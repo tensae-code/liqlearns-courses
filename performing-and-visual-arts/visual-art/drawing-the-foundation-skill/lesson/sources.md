@@ -1,6 +1,6 @@
 # Sources — Drawing: The Foundation Skill
 
-countries: Ethiopia, Guatemala, Uganda
+countries: Ethiopia, Guatemala, Uganda, Barbados
 
 **Book 1:** *Grade 6 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 6ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Guatemala, Uganda
 
 **Book 6:** *Art and Design Textbook — Senior One (Lower Secondary Curriculum), PROTOTYPE* (student book, English) — Uganda, National Curriculum Development Centre (NCDC), Uganda, 2020 (file dated 11/05/2020), no ISBN printed, Senior One (= Grade 8), 86 PDF pp. STUDENT — student book. Verdict: COMPLETE — with one book fault: the contents lists the Ancient Art chapter as "Chapter 10" while the chapter itself is numbered Chapter 9 in its body (figures 9.1, activities 9.1–9.3); there is no Chapter 9 in the contents and no separate Chapter 10 body. Chapter summaries and end-of-chapter activities are the book's own study apparatus — the teaching sections are placed, the summaries are not separate placements. The repo tree path is a PHANTOM PUSH (grab.py tree returned HTTP 404); the book was fetched from the recorded NCDC source_url with resumable downloads and verified by cover and pdfinfo, and the downloaded copy is staged under the push-don't-delete rule at its phase3-staging record path (books.json record already exists there). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/uganda-placements.md.
 
+**Book 7:** *Primary Visual Arts Curriculum Guide, Classes 1–4* (curriculum guide, English) — Barbados, Ministry of Education and Human Resource Development, Barbados; year not printed (document dated 2011 in file metadata); no ISBN printed, Classes 1–4 (ages 7–11), 64 PDF pp. TEACHER — curriculum guide for teachers. Verdict: COMPLETE. The same file (identical MD5) is filed under the grade-01, grade-02, grade-03 and grade-04 records; it was read once and is placed once, with all four records named here. Read in place in phase3-staging in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/barbados-placements.md. **Curriculum guide — EVIDENCE only, kept outside the acceptance count.**
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Drawing defined: the basis of all visual art | Book 1, printed pp. 3–6 |
@@ -22,6 +24,7 @@ countries: Ethiopia, Guatemala, Uganda
 | Sub lesson 4 — Freeing the hand: line drills | Book 2, printed p. 56 |
 | Sub lesson 5 — Bigger and smaller on a grid; drawing what you see | Book 3, printed pp. 86, 97 |
 | Sub lesson 6 — The five basic skills of drawing (teacher guide — evidence) | Book 4, Lessons 22–25, printed pp. 40–44 |
+| Barbados — Observation (Class 2) — sketching and painting local fauna and flora; observing and drawing objects with strong linear structures; plant study of variegated leaves (curriculum guide — evidence) | Book 7, printed pp. 5–6 |
 
 | Sub lesson 7 — Light and shadow in drawing (Grade 5): where light falls, shadow forms opposite; darken the shadow part with the pencil, leave the lit part light; Fig. 10 objects; Exercise 4 and receiving the teacher's comments | Book 2, printed p. 14 |
 | Sub lesson 2 — The drawing tools and the pencil grades (Grade 5 evidence of the same teaching): drawing needs pencil, charcoal pencil, paper, sketchbook and eraser; hard pencils lay thin, clear lines; soft pencils lay dark, soft lines | Book 2, §1.1.3, printed p. 13 |
@@ -31,7 +34,7 @@ countries: Ethiopia, Guatemala, Uganda
 | Guatemala — Creative drawing: drawing with no fixed technical rules to express a thought, an experience or an idea — Experiencia 1 "Conviviendo contigo" (Grade 4), activity "Dibujándonos" (theme/method level; activity pages not in this PDF) (teacher guide — evidence; original target `visual-art/drawing-the-foundation-skill`) | Book 5, printed p. 15 |
 | Uganda — Chapter 3: Exploring the Natural Environment — materials and tools for drawing and painting (including preparing your own materials), then drawing and painting objects from the natural environment | Book 6, printed pp. 18–19 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Uganda). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.**
+**Acceptance count: taught in 2 countries (Ethiopia, Uganda). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Barbados is added as curriculum guide — evidence only, kept outside the acceptance count.**
 
 The Grade 9 teacher-guide part (the five basic skills of drawing) is teacher-guide evidence only and is labelled so in the table; the lesson's pupil-taught parts stand on the Grade 4–6 student books. The Grade 6 book's exercise prints "E♭" in Amharic beside "(E Major scale)" in its key-signature exercise — a music matter, not used in this lesson, recorded here because the same book is cited.
 

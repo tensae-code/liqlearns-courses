@@ -1,6 +1,6 @@
 # Sources — Moving to Music
 
-countries: Ethiopia, Guatemala, Canada
+countries: Ethiopia, Guatemala, Canada, Barbados
 
 **Book 2:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -13,6 +13,8 @@ countries: Ethiopia, Guatemala, Canada
 **Book 9:** *Tuka's Big Dance — ᑐᑲᐅᑉ ᒧᒥᕐᓂᖓ, Tundra Friends series* (student book, Inuktitut syllabics and English editions) — Canada, Arvaaq Press Inc.; design, text and story © Government of Nunavut, Department of Education; illustrations by Amiel Sandland; written by Thomas Anguti Johnston, 2024, ISBN 978-1-77450-832-9 (Inuktitut edition) / 978-1-77450-828-2 (English edition), nursery, 36 PDF pp each edition. STUDENT. Verdict: COMPLETE — the English edition was read fully and the Inuktitut edition page-by-page from its extracted text; the two tell the same story page for page, so placements are made once for both, page numbers from the English edition. The story is placed by summary only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/canada-placements.md.
 
 **Book 10:** *I Want to Dance! / Mumirumajunga! / Numirumajunga! / Je veux danser !* (student book, Inuinnaqtun+English, Inuktitut+English and Inuktitut+French editions) — Canada, Inhabit Education Books Inc.; written by Heather Main and developed in partnership with Nunavut's Department of Education, 2019–2022 by edition, ISBN 978-1-77450-486-4 (Inuinnaqtun+English, 2022, illus. Amiel Sandland) / 978-0-2287-0490-4 (Inuktitut+English, 2019/2020, illus. Amanda Sandland) / 978-1-77450-248-8 (Inuktitut+French, illus. Amiel Sandland), nursery, 48 PDF pp each edition. STUDENT. Verdict: COMPLETE — the Inuktitut+English and Inuinnaqtun+English editions were read fully and the Inuktitut+French edition spot-checked; all three tell the same story, so placements are made once for all three, page numbers from the Inuktitut+English edition. NOTE: the French edition's record is marked in_pushed, but the file is NOT in the pushed repo (grab.py returned HTTP 404 twice) — it was read from its recorded source_url instead and re-staged (library debt, carried as filed). The closing glossary is inventory-only — named here, never stocked; the back-page "Taking Care of My Body Sorting Game" and the "Let's Talk!" pages are named in the placements, not placed. The story is placed by summary only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/canada-placements.md.
+
+**Book 11:** *Primary Music Syllabus, Classes 1–4* (curriculum syllabus, English) — Barbados, Ministry of Education and Human Resource Development, Barbados; year not printed (document dated 2011 in file metadata); no ISBN printed, Classes 1–4 (ages 7–11), 44 PDF pp. TEACHER — syllabus for teachers. Verdict: COMPLETE. The record title says “Class 1”; the printed cover and contents cover Classes 1–4. Read in place in phase3-staging in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/barbados-placements.md. **Curriculum syllabus — EVIDENCE only, kept outside the acceptance count.**
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -28,8 +30,9 @@ countries: Ethiopia, Guatemala, Canada
 | Guatemala — Dancing a poem: creative dance that develops body movement, imagination and musical expression from a text — Experiencia 1 (Grade 4), activity "Así se baila un poema" (theme/title level; activity pages not in this PDF) (teacher guide — evidence; original target `drama-and-dance/moving-to-music`) | Book 8, printed pp. 15, 17 |
 | Canada — Showing the dance to a friend: dancing your own best moves freely for a friend, who claps along to the dance (student book; original target `drama-and-dance/moving-to-music`) | Book 9, printed p. 6 |
 | Canada — The competition performance: performing the practised dance to the music before the whole community at the competition, and the audience answering with cheers and loud clapping (student book; original target `drama-and-dance/moving-to-music`) | Book 10, printed pp. 33–34 |
+| Barbados — Singing / movement (Class 1) — using movement, marching and dance to express the rhythmic patterns in songs (curriculum syllabus — evidence) | Book 11, printed p. 5 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Canada). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.**
+**Acceptance count: taught in 2 countries (Ethiopia, Canada). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.**
 
 The Grade 1 teacher-guide row is labelled evidence: it names the same free-movement strand at its Grade 1 root and does not change the count. The song ዳንስ (Dans) is placed by name, source (KCLS, as printed) and its direction content, exactly as the placement gives it; its verses are not transcribed.
 

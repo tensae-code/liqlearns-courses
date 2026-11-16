@@ -1,12 +1,14 @@
 # Sources — Playing Notes and Rests
 
-countries: Ethiopia
+countries: Ethiopia, Barbados
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 85 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
 **Book 2:** *ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል (Performing and Visual Arts, Student's Book, Grade 5)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 141 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
 **Book 3:** *Grade 3 Performing and Visual Arts Teacher Guide (፫ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., body to printed p. 79 + syllabus to printed p. 96. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-teacher-placements.md.
+
+**Book 4:** *Primary Music Syllabus, Classes 1–4* (curriculum syllabus, English) — Barbados, Ministry of Education and Human Resource Development, Barbados; year not printed (document dated 2011 in file metadata); no ISBN printed, Classes 1–4 (ages 7–11), 44 PDF pp. TEACHER — syllabus for teachers. Verdict: COMPLETE. The record title says “Class 1”; the printed cover and contents cover Classes 1–4. Read in place in phase3-staging in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/barbados-placements.md. **Curriculum syllabus — EVIDENCE only, kept outside the acceptance count.**
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -16,8 +18,9 @@ countries: Ethiopia
 | Sub lesson 2 — playing the half note; half notes mixed with whole rests; played with rests in groups to local beat instruments | Grade 5 Student Textbook, printed pp. 18–19 |
 | Sub lesson 3 — playing the quarter note; movements from daily life matched to the note's value; quarters mixed with rests | Grade 5 Student Textbook, printed pp. 19–20 |
 | Practical music exercises: the note and rest signs in use; reading and clapping written notes and rests (teacher guide — evidence) | Grade 3 Teacher Guide, printed pp. 20–33 (§2.1) |
+| Barbados — Performance & Instruments (Class 1) — performing with tuned and untuned percussion (castanets/shak-shak, drums, maracas), alone, in pairs, in groups and as a class (curriculum syllabus — evidence) | Book 4, printed p. 5 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 1 country (Ethiopia). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.**
 
 The Grade 5 book continues past this lesson to the eighth note and dotted notes; those signs have their own targets in the placements and are not stocked here — this lesson stocks only the whole, half and quarter playing the placements assign to “Playing Notes and Rests”. The Grade 3 photographs of children drumming are described, not reproduced; GIF 9622 is a drawn practice loop in their place.
 
