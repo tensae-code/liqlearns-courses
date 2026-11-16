@@ -1,6 +1,6 @@
 # Sources — Traditional and Festival Songs
 
-countries: Ethiopia, Barbados, Albania, Nicaragua
+countries: Ethiopia, Barbados, Albania, Nicaragua, Malta
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Barbados, Albania, Nicaragua
 
 **Book 10:** *Manual Metodológico Expresión Cultural y Artística — 4° Grado* (teacher guide, Spanish) — Nicaragua, Ministerio de Educación (MINED), no year printed on the pages read, no ISBN printed, Grade 4, 148 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Cover/title verified against the record title; the fetched file is the low-resolution "BAJA" edition named in the record's source. Fetched from the recorded MINED source URL after the GitHub grab route disconnected. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/nicaragua-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
+**Book 11:** *Music Shines II — Unit 4 Singing (Chapter 4)* (teacher guide + song sheets with scores, English and Maltese) — Malta, Music Shines (Skola); year not printed on these pages; no ISBN printed, Year 4 per record; the PDF carries song sets for Years 4, 5 and 6 (printed pp. 68–88), 21 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE for Unit 4. Cover/title page verified against the record title — first page is the Unit 4 divider, printed p. 68. Fetch note: two grab.py attempts failed (size mismatch, then connection drop); the file was then taken from the record's own recorded source_url (Wayback copy of music.skola.edu.mt) and matched the record exactly — 4,563,412 bytes, 21 pages. Songs are placed by summary only, never transcribed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malta-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — "አበባየሁሽ" (Abebayehush), the girls' Meskel-season call-and-response song/game | Grade 1 student textbook, printed pp. 39–40 |
@@ -40,8 +42,12 @@ countries: Ethiopia, Barbados, Albania, Nicaragua
 | Nicaragua — Children's rounds and songs of my community — performing the rounds and children's songs of the child's own community, writing short songs using the made instruments, and taking part in the school's and community's cultural activities (teacher guide — evidence) | Book 9, printed p. 115 |
 | Nicaragua — Traditional and popular songs of the community; the National Anthem in choral practice — singing the community's traditional and popular songs and the National Anthem as choral practice (teacher guide — evidence) | Book 10, printed p. 125 |
 
-**Acceptance count: taught in 1 country (Ethiopia). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.
+| Malta — Year 4 Activity 2 "Hevenu Shalom": the traditional Jewish celebration song 'Hevenu Shalom Aleichem' — a wish of peace and success on everyone, with its pronunciation taught syllable by syllable (arr. Reuben Pace) — placed by summary only (teacher guide — evidence; original target `music/traditional-and-festival-songs`) | Book 11, printed pp. 74–75 |
+| Malta — Year 5 Activity 2 "Greensleeves": the English traditional folk song from about 1580 (composer unknown) — a gentleman charmed by Lady Greensleeves who does not return his love; the same tune later took Christmas words; Rossetti's 1864 painting of the Lady is shown — placed by summary only (teacher guide — evidence; original target `music/traditional-and-festival-songs`) | Book 11, printed pp. 79–81 |
+| Malta — Year 6 Activity 2 "Santa Lucia": the famous Neapolitan song of Naples — the boatman of the Borgo Santa Lucia waterfront inviting you aboard to enjoy the cool air of the bay (traditional, arr. Reuben Pace) — placed by summary only (teacher guide — evidence; original target `music/traditional-and-festival-songs`) | Book 11, printed pp. 85–86 |
+
+**Acceptance count: taught in 1 country (Ethiopia). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Traditional songs are placed by name, season and purpose only; their lyrics are never transcribed in this lesson — the books themselves print several of them as repertoire, and the lesson follows the placements in naming and summarising rather than copying. The Genna game song "አሲና በል" (Asina Bel, Grade 3 student textbook, printed p. 54) is named in the placements as its own target and belongs with the Genna game in the Culture and Values festival lesson, not here; it is not stocked in this lesson.
 
-Searchable tags: traditional songs, festival songs, Abebayehush, Adey, Hoya Hoye, Buhe, wedding songs, አበባየሁሽ, አደይ, ሆያ ሆዬ, ቡሄ በሉ, ሙሽራየ, Meskel, Enqutatash, Debre Tabor, Nicaragua
+Searchable tags: traditional songs, festival songs, Abebayehush, Adey, Hoya Hoye, Buhe, wedding songs, አበባየሁሽ, አደይ, ሆያ ሆዬ, ቡሄ በሉ, ሙሽራየ, Meskel, Enqutatash, Debre Tabor, Nicaragua, Malta, Music Shines

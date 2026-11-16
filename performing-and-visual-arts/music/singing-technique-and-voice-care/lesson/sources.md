@@ -1,12 +1,14 @@
 # Sources — Singing Technique and Voice Care
 
-countries: Nicaragua, Haiti
+countries: Nicaragua, Haiti, Malta
 
 **Book 1:** *Expresión Cultural y Artística — Manual Metodológico para la y el maestro — Segundo grado* (teacher guide, Spanish) — Nicaragua, Ministerio de Educación (MINED), no year printed on the pages read, no ISBN printed, Grade 2, 150 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Title/grade verified in the book's presentation: a support document for Grade 2 primary teachers. Fetched from the recorded MINED source URL after the GitHub grab route disconnected. Exclusions named: the Glossary (printed p. 135) is a word list — inventory-only, named here, not stocked; Webgrafía not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/nicaragua-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
 **Book 2:** *Éducation esthétique et artistique — Musique — La théorie musicale* (teacher guide, French) — Haiti, Projet Nectar, MENFP (Canoprof); Creative Commons BY-NC-SA; no year printed on the cover; no ISBN printed, Grade 7e année, French, 16 PDF pp (printed pp. 3–16 per its own table of contents). TEACHER — teacher guide. Verdict: COMPLETE (cover verified against the record title). Exclusions per the placements: Séance 8 (Révisions) and Séance 9 (Examens) — named, not placed. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/haiti-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
 **Book 3:** *Éducation esthétique et artistique — Musique — La voix* (teacher guide, French) — Haiti, Projet Nectar, MENFP (Canoprof); Creative Commons BY-NC-SA; no year printed on the cover; no ISBN printed, Grade 7e année (7a per the record's file name), French, 14 PDF pp (printed pp. 3–14 per its own table of contents). TEACHER — teacher guide. Verdict: COMPLETE (cover verified against the record title). Exclusions per the placements: Séance 7 (Révision) and Séance 8 (Évaluation) — named, not placed. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/haiti-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 4:** *Music Shines II — Unit 4 Singing (Chapter 4)* (teacher guide + song sheets with scores, English and Maltese) — Malta, Music Shines (Skola); year not printed on these pages; no ISBN printed, Year 4 per record; the PDF carries song sets for Years 4, 5 and 6 (printed pp. 68–88), 21 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE for Unit 4. Cover/title page verified against the record title — first page is the Unit 4 divider, printed p. 68. Fetch note: two grab.py attempts failed (size mismatch, then connection drop); the file was then taken from the record's own recorded source_url (Wayback copy of music.skola.edu.mt) and matched the record exactly — 4,563,412 bytes, 21 pages. Songs are placed by summary only, never transcribed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malta-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -17,8 +19,10 @@ countries: Nicaragua, Haiti
 | Haiti — Séance 4, Postures corporelles — head-and-body posture as tuning the vocal instrument (accordage de l'instrument vocal) — posture practice, a supple stance on the feet, and the comfort and endurance a proper posture and ergonomics give the singer (teacher guide — evidence; original target `music/singing-posture-and-warm-up`) | Book 3, printed pp. 8–10 |
 | Haiti — Séance 5, La respiration — breathing for singing — the kinds of breathing and six practical exercises, beginning with abdominal breathing on the floor (teacher guide — evidence; original target `music/breathing-for-singing`) | Book 3, printed pp. 10–11 |
 
-**Acceptance count: taught in 0 countries — this lesson stands on Nicaragua teacher-guide evidence only, named here, counted nowhere.** Haiti is added as teacher guide — evidence only, kept outside the acceptance count.
+| Malta — Chapter 4 introduction + "Let's warm up our voices!": voice warm-up exercises for class and choir — singing the vowel ladder a-e-i-o-u up and back down to D near middle C, then the same shapes on consonant syllables (ma, da, ba, pa) and on 'la'; the guide frames singing as developing musical, vocal and expressive skills and sensitivity (teacher guide — evidence; original target `music/singing-and-voice-warm-ups`) | Book 4, printed pp. 69–70 |
+
+**Acceptance count: taught in 0 countries — this lesson stands on Nicaragua teacher-guide evidence only, named here, counted nowhere.** Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/singing-technique-and-voice-care`); the Nicaragua placement was filed under the original string `music/breathing-for-singing`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Nicaragua's own way: singing breath is practised with chimbombas (balloons), so the learner can feel the air being taken in, held and let out.
 
-Searchable tags: singing technique, voice care, breathing for singing, chimbombas, balloons, inhaling, exhaling, holding the air, Nicaragua, Haiti
+Searchable tags: singing technique, voice care, breathing for singing, chimbombas, balloons, inhaling, exhaling, holding the air, Nicaragua, Haiti, Malta, Music Shines

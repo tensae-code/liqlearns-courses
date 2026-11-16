@@ -1,16 +1,21 @@
 # Sources — Intervals
 
-countries: Albania
+countries: Albania, Malta
 
 **Book 1:** *Libër mësuesi Muzika 7 (botim i përmirësuar)* (teacher guide, Albanian) — Albania, Shtëpia Botuese Mediaprint, 2016, ISBN 978-9928-08-232-9, Grade 7, 97 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Fetched from the recorded Mediaprint source URLs; byte size matches the record exactly. Cover/title page verified against the record title. Exclusions named in the placements: term tests and the achievement-presentation project are assessment apparatus — named, not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/albania-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 2:** *Music Shines II — Unit 3 Pitch (§§3.4–3.6)* (teacher guide pages + pupil activities, English) — Malta, Music Shines (Skola); year not printed on these pages; no ISBN printed, Year 4 per record; the PDF carries the Year 4, Year 5 and Year 6 levels (printed pp. 44–67), 24 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE for Unit 3. Cover/title page verified against the record title — first page is the Unit 3 divider, printed p. 44. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malta-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What an interval is: the distance between two sounds, counted 1–2, 1–3 up to the octave 1–8 (teacher guide — evidence) | Book 1, printed p. 28 |
 | Sub lesson 2 — Building, singing and playing simple intervals inside the octave: naming, building, singing and playing them (teacher guide — evidence) | Book 1, printed p. 28 |
 
-**Acceptance count: taught in 0 countries — this lesson stands on Albania teacher-guide evidence only, named here, counted nowhere.**
+| Malta — §3.4 (Year 4) Intervals of a 2nd and a 3rd: an interval as the counted distance between two notes; 2nds (line-to-space) and 3rds (line-to-line) recognised by ear and eye, ascending and descending, melodic and harmonic, sung/played and written by raising or lowering a given note (teacher guide — evidence; original target `music/intervals`) | Book 2, printed pp. 49–51 |
+| Malta — §3.5 (Year 5) Intervals of a 4th, 5th, 6th, 7th and octave: the remaining intervals in the treble clef, each sung/played and written up and down, closing with a mixed exercise challenging recognition of every interval from a 2nd to an octave (teacher guide — evidence; original target `music/intervals`) | Book 2, printed pp. 52–58 |
+
+**Acceptance count: taught in 0 countries — this lesson stands on Albania teacher-guide evidence only, named here, counted nowhere.** Malta is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/intervals`). Albania's own way: the Grade 7 Kodály-based course teaches intervals inside its scales-and-accidentals work — distances named by counting from the first sound, then built, sung and played, on voice, keyboard and fyell.
 
-Searchable tags: intervals, octave, distance between sounds, Albania, Muzika 7
+Searchable tags: intervals, octave, distance between sounds, Albania, Muzika 7, Malta, Music Shines

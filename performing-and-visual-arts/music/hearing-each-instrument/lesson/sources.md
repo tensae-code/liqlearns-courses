@@ -1,6 +1,6 @@
 # Sources — Hearing Each Instrument
 
-countries: Ethiopia, United Kingdom, Andorra, Barbados, Honduras, Albania, Singapore, Trinidad and Tobago, Iceland
+countries: Ethiopia, United Kingdom, Andorra, Barbados, Honduras, Albania, Singapore, Trinidad and Tobago, Iceland, Malta
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, United Kingdom, Andorra, Barbados, Honduras, Albania, Singa
 
 **Book 10:** *Dægurspor: Kennsluleiðbeiningar (teacher guide, Icelandic)* (teacher guide) — Iceland, no publisher, year or ISBN printed in the guide (first page is the contents list), Grade 5, Icelandic, 79 PDF pp. TEACHER — teacher's guide to the Dægurspor set: student book, listening material, teacher guide and web tasks; the guide itself addresses compulsory-school music teachers (tónmennt). Verdict: COMPLETE. Read in full as text in the 2026-11-16 Art expansion read; fetched with grab.py from the pushed tree, PDF deleted after filing. The closing Listi yfir hlustunarefni (listening-material catalogue, printed pp. 73–79) is inventory-only, named here, never stocked as parts; the songs whose notation and words the guide prints are placed by their teaching topics, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/iceland-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
+**Book 11:** *Music Shines I — Unit 8 Instruments of the Orchestra (Chapter 7)* (teacher guide pages + pupil activities, English) — Malta, Music Shines (Skola); year not printed on these pages; no ISBN printed, Year 1 per record; the PDF carries the Year 1, Year 2 and Year 3 levels (printed pp. 116–122), 7 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE for Unit 8. Cover/title page verified against the record title — first page is the Unit 8 divider, printed p. 116. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malta-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
 | Lesson part | Where it comes from |
 |---|---|
 | The song “እኛም አለን ሙዚቃ” (We Too Have Music) — verses imitating each instrument's sound in turn (masenqo, krar, kebero, washint) | Grade 1 Student Textbook, printed p. 68 |
@@ -42,8 +44,10 @@ countries: Ethiopia, United Kingdom, Andorra, Barbados, Honduras, Albania, Singa
 | Iceland — The harmonica: single-row against double-row — the double row's 21 notes give twice as many tones, because each note changes pitch as the bellows are drawn out or pressed in (teacher guide — evidence) | Book 10, printed p. 38 |
 | Iceland — The first drum kits: when the drum kit appeared its bass drums were marching-band huge (measure them in inches against pizzas); Gene Krupa and the drum battle (teacher guide — evidence) | Book 10, printed p. 43 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, United Kingdom, Honduras).** Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count.
+| Malta — Year 3 Activity 2 "Fill in the blanks": knowing each instrument by its sound alone — eight heard sounds identified and named from piano, flute, violin, drum, trumpet, clarinet, trombone and triangle (teacher guide — evidence; original target `music/hearing-each-instrument`) | Book 11, printed p. 122 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, United Kingdom, Honduras).** Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The song is placed by name, purpose and teaching content only — its words are never transcribed; only the sound-words are the teaching content, as the placements state. A coffee-ceremony painting printed with the Grade 1 chapter's singing work belongs to the course's appreciation material and is not stocked as a part of this lesson.
 
-Searchable tags: hearing instruments by sound, We Too Have Music, እኛም አለን ሙዚቃ, trumpet, ጥሩንባ, listening, Iceland, Dægurspor
+Searchable tags: hearing instruments by sound, We Too Have Music, እኛም አለን ሙዚቃ, trumpet, ጥሩንባ, listening, Iceland, Dægurspor, Malta, Music Shines

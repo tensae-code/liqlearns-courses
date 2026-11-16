@@ -1,6 +1,6 @@
 # Sources — Sounds Around Us
 
-countries: Ethiopia, Andorra, Samoa, Nicaragua, Singapore
+countries: Ethiopia, Andorra, Samoa, Nicaragua, Singapore, Malta
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -22,6 +22,10 @@ countries: Ethiopia, Andorra, Samoa, Nicaragua, Singapore
 
 **Book 10:** *Nurturing Early Learners — A Curriculum Framework for Preschool Education in Singapore: Educators' Guide for Aesthetics and Creative Expression* (teacher guide, English) — Singapore, Ministry of Education, Singapore, © 2023, ISBN 978-981-18-7421-5, Nursery–Kindergarten (children aged 4–6: Nursery 2, Kindergarten 1–2), 126 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Read in full as text in the 2026-11-16 Art expansion read; fetched with grab.py from the pushed tree (byte size 4,232,854 matches the record), PDF deleted after filing. Chapter 4's classroom-environment organisation and Chapter 5's monitoring-and-assessment framework are teacher apparatus — their worked examples' teaching content IS placed; the Bibliography (printed pp. 122–125) is inventory-only, named here, never stocked. Songs are filed by summary only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/singapore-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
+**Book 11:** *Music Shines I — Unit 7 History (§§6.2–6.3 as filed)* (teacher guide pages + pupil activities, English) — Malta, Music Shines (Skola); year not printed on these pages; no ISBN printed, Year 1 per record; the PDF carries Year 2 §6.2 and Year 3 §6.3 only (printed pp. 110–115), 6 PDF pp. TEACHER — teacher guide. Verdict: PARTIAL — the Year 1 History section (§6.1) is not in this file; only the Year 2 and Year 3 sections are present. Cover/title page verified against the record title — first page is the Unit 7 divider, printed p. 110. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malta-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 12:** *Music Shines I — Unit 9 Listening and Appraising (§§8.1–8.3)* (teacher guide pages + pupil activities, English, with one Maltese song title) — Malta, Music Shines (Skola); year not printed on these pages; no ISBN printed, Year 1 per record; the PDF carries the Year 1, Year 2 and Year 3 levels (printed pp. 123–131), 9 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE for Unit 9 (note: the Year 3 activity sheets are mis-headed "Instruments of the orchestra" in print; their content is this unit's listening work). Cover/title page verified against the record title — first page is the Unit 9 divider, printed p. 123. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malta-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Sounds around us | Grade 1 student textbook, §1.2, printed p. 2 (sounds on the way to school; sounds inside the home) |
@@ -38,8 +42,11 @@ countries: Ethiopia, Andorra, Samoa, Nicaragua, Singapore
 | Nicaragua — Natural and artificial sound — sounds made by people, animals and nature against machine-made artificial sounds (teacher guide — evidence) | Book 9, printed p. 52 |
 | Singapore — "Making Music to Singapore Town" (Kindergarten 2): a listening walk — record the environment's sounds, describe them (soft, loud, high, low, long, short), imitate them with the voice, and layer them in three groups as an accompaniment to the song "Singapore Town" (filed by summary only) — Goal 3 example (teacher guide — evidence) | Book 10, printed p. 56 |
 
-**Acceptance count: taught in 1 country (Ethiopia). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.
+| Malta — Year 2 Activity 2 "Prehistory: Make these sounds with your voice and body": making the first music's sounds yourself — clapping, stamping, shrieking, humming and hissing, each shown in a picture to copy (teacher guide — evidence, PARTIAL file — §6.1 missing; original target `music/sounds-around-us`) | Book 11, printed p. 113 |
+| Malta — §8.3 / Year 3 Activity 1 "Be silent, listen attentively": eyes closed, silent, listening to the sounds around you; writing down every sound heard, imitating one with your voice, then sounding two together with a partner and judging the result (teacher guide — evidence; original target `music/sounds-around-us`) | Book 12, printed pp. 128–129 |
+
+**Acceptance count: taught in 1 country (Ethiopia). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count.
 
 No staff notation is claimed for Grade 1: the Grade 1 book teaches music by ear, and this lesson follows it. The teacher-guide part is evidence for the listening-first way of working; the pupil-taught parts stand on the two student textbooks.
 
-Searchable tags: sounds around us, listening, sound, imitating sounds, ear, birds, animals, instruments, አካባቢያችን, Nicaragua
+Searchable tags: sounds around us, listening, sound, imitating sounds, ear, birds, animals, instruments, አካባቢያችን, Nicaragua, Malta, Music Shines

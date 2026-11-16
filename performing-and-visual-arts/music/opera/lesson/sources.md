@@ -1,15 +1,22 @@
 # Sources — Opera
 
-countries: Iceland
+countries: Iceland, Malta
 
 **Book 1:** *Dægurspor: Kennsluleiðbeiningar (teacher guide, Icelandic)* (teacher guide) — Iceland, no publisher, year or ISBN printed in the guide (first page is the contents list), Grade 5, Icelandic, 79 PDF pp. TEACHER — teacher's guide to the Dægurspor set: student book, listening material, teacher guide and web tasks; the guide itself addresses compulsory-school music teachers (tónmennt). Verdict: COMPLETE. Read in full as text in the 2026-11-16 Art expansion read; fetched with grab.py from the pushed tree, PDF deleted after filing. The closing Listi yfir hlustunarefni (listening-material catalogue, printed pp. 73–79) is inventory-only, named here, never stocked as parts; the songs whose notation and words the guide prints are placed by their teaching topics, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/iceland-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 2:** *Music Shines II — Unit 7 History (§§7.4–7.6)* (teacher guide pages + pupil activities, English) — Malta, Music Shines (Skola); year not printed on these pages; no ISBN printed, Year 4 per record; the PDF carries the Year 4, Year 5 and Year 6 levels (printed pp. 127–143), 17 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE for Unit 7. Cover/title page verified against the record title — first page is the Unit 7 divider, printed p. 127. Fetch note: grab.py returned HTTP 404 for the record's tree path; the file was taken from the record's own recorded source_url (Wayback copy) and matched the record exactly — 8,322,767 bytes, 17 pages; the tree-path 404 is logged in the placements group log as a library debt (possible phantom push / release-only file). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malta-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 3:** *Music Shines II — Unit 9 Listening and Appraising (§§9.4–9.6)* (teacher guide pages + pupil activities, English) — Malta, Music Shines (Skola); year not printed on these pages; no ISBN printed, Year 4 per record; the PDF carries the Year 4, Year 5 and Year 6 levels (printed pp. 157–169), 13 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE for Unit 9. Cover/title page verified against the record title — first page is the Unit 9 divider, printed p. 157. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malta-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Operetta (teacher guide — evidence; original target `music/opera-and-the-total-work-of-art`) | Book 1, printed p. 8 |
 
-**Acceptance count: taught in 0 countries — this lesson stands on Iceland teacher guide evidence only, named here, counted nowhere.**
+| Malta — Year 6 Opera: opera as the form where music and drama combine into spectacle — stories turning realistic, emotions spoken and shown on stage; pupils follow an opera's story-line and watch short excerpts (in English where possible): Humperdinck's Hansel and Gretel, Rossini's Barber of Seville, Mozart's Magic Flute and Bizet's Carmen children's scene — with Malta's own opera singers Joseph Calleja and Miriam Gauci pictured (teacher guide — evidence; original target `drama-and-dance/opera-music-and-drama-together`) | Book 2, printed pp. 142–143 |
+| Malta — Year 5 Activity 3 "Hansel and Gretel" by E. Humperdinck: an opera's plot followed as a story — the Grimm fairytale opera summarised in full in the guide: the hungry children sent for strawberries, lost in the woods, the gingerbread cottage, the witch outwitted at her own oven and the family reunited — placed by summary only (teacher guide — evidence; original target `drama-and-dance/opera-music-and-drama-together`) | Book 3, printed p. 165 |
+
+**Acceptance count: taught in 0 countries — this lesson stands on Iceland teacher guide evidence only, named here, counted nowhere.** Malta is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/opera`). The Iceland placements were filed as NEW LESSON NEEDED under the original string(s) `music/opera-and-the-total-work-of-art`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Iceland's own way, carried in the placements: a listening journey through the whole history of popular music — taught by listening, playing rhythm parts from notation, singing, and dancing, with Iceland's own musicians, revue songs, seamen's songs and dance bands woven through as national content. Songs are placed by their teaching topics only — no lyrics or notation are transcribed.
 
-Searchable tags: opera, operetta, Kálmán, Das Veilchen von Montmartre, Iceland, Dægurspor
+Searchable tags: opera, operetta, Kálmán, Das Veilchen von Montmartre, Iceland, Dægurspor, Malta, Music Shines

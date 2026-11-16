@@ -1091,7 +1091,65 @@ lessons are the books'.
   Belgrade's museums and monuments, the Pirot kilim and the
   Zlakusa potters.
 
-**The whole course stands at 326 lessons, 4,646 questions and
+- **Art expansion — Malta — BUILT 2026-11-16:** 65 placements
+  stocked from 11 records / 11 distinct books, all TEACHER
+  (Music Shines I and II, Skola / music.skola.edu.mt; year and
+  ISBN not printed on these pages; Units 2, 6, 7, 8 and 9 of
+  Book I and Units 3, 4, 5, 7, 8 and 9 of Book II, printed
+  pp. 29–169 in all): 30 into existing lessons (Reading the
+  Beat ×4; Notes and Rests ×3; History of African and World
+  Music ×7; Traditional and Festival Songs ×3; Sounds Around
+  Us ×2; Appreciating the Arts ×2; Reading Music on the
+  Staff ×2; and one each into Faster Notes, Dynamics and
+  Tempo, School Songs, Hearing Each Instrument, Appreciating
+  and Valuing the Arts, The Elements of Music, Moving to
+  Music and Beat Instruments), 8 into already-built canonical
+  lessons (Making Your Own Instruments ×3 — from
+  building-home-made-instruments; Intervals ×2; Opera ×2 —
+  from opera-music-and-drama-together; Singing Technique and
+  Voice Care — from singing-and-voice-warm-ups), 12 NEW
+  lessons (Music: Graphic Notation ×6 — from
+  graphic-notation-and-composition; The Orchestra and Its
+  Instruments ×7 — from instruments-of-the-orchestra;
+  Maltese Children's Songs ×3; Maltese Folk Songs and
+  Il-Festa ×2 — from il-festa-song-of-the-maltese-village-feast
+  and folk-songs-of-malta-and-il-festa; Percussion
+  Instruments: Tuned and Untuned ×2 — from
+  tuned-and-untuned-percussion; The Science of Sound and
+  Pitch; Maltese Folk Percussion Instruments; Percussion
+  Instruments of India; Percussion Instruments of Africa;
+  Program Music — from programme-music-that-tells-a-story;
+  Charles Camilleri and the Malta Suite; Drama and Dance:
+  Ballet — from ballet-a-story-told-in-dance), 108 questions
+  added, media as described slots only. DIFFERENCE
+  EXPLAINED: the placements file tallied 30 to existing
+  lessons and 35 NEW LESSON NEEDED lines; the slug registry
+  resolves 8 of those NEW lines to canonical lessons already
+  built (not rebuilt) and the remaining 27 to the 12 new
+  lessons built here — so 38 placements went to lessons that
+  already existed, 27 to new lessons, and the total of 65
+  reconciles exactly. Honesty carried exactly as filed:
+  Music Shines I Unit 7 History is PARTIAL — its Year 1
+  History section (§6.1) is missing from the secured file,
+  only §§6.2–6.3 are present, and no content is claimed
+  from the missing part; the Year 5 Percussion Family
+  Crossword (Book II Unit 5, printed p. 102) and the Year 4
+  crossword (Book II Unit 8, printed p. 148) are excluded
+  per the placements as assessment puzzles with no new
+  teaching content, named in the book entries, not placed.
+  All Malta books are teacher guides — EVIDENCE only, kept
+  outside every acceptance count (the twelve new lessons
+  stand at acceptance count 0). Malta's own way is kept as
+  named parts — rhythm before notation (pictures, dots,
+  then ta / ti-ti / ta-a), composition before notation
+  mastery, the festa's three sounds, Malta's folk
+  percussion (Tanbur, Żafżafa, Ċuqlajta), its train, band
+  and sacristan songs, Ħaġar Qim, the Manoel Theatre,
+  Calleja and Gauci, Renzo Spiteri, and Camilleri's Malta
+  Suite. Songs and stories are placed by summary only,
+  never transcribed.
+
+**The whole course stands at 338 lessons, 4,754 questions and
 203 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 

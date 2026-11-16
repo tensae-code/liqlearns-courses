@@ -335,6 +335,22 @@ The titles, in ladder order:
    voice and its types — the voice's anatomy, its four
    mechanisms, and types told apart by tessitura and timbre
    (Haiti teacher guides / teacher programme, evidence).
+ The Art expansion added:
+   graphic notation — symbol grids, drawn pitch lines, the
+   body-percussion chart, Lub-Dab-Rest and the percussion
+   box score; the orchestra and its instruments — met
+   ears-first by timbre, sorted into Strings, Woodwinds,
+   Brass and Percussion, through Grieg's Mountain King and
+   Britten's Young Person's Guide; the science of sound
+   and pitch — vibration, frequency and tube length;
+   Maltese children's songs — Il-Vapur ta' l-Art, Il-Banda
+   t' Indri and Is-Sagristan; Maltese folk songs and
+   Il-Festa — the village feast in its two Il-Festa songs;
+   percussion instruments tuned and untuned; Maltese folk
+   percussion instruments — Tanbur, Żafżafa and Ċuqlajta;
+   percussion instruments of India and of Africa; program
+   music — Peter and the Wolf; and Charles Camilleri and
+   the Malta Suite (Malta teacher guides, evidence).
 
 4. **Drama and Dance** — the body: how things, animals and people
    move; playing family roles; acting together; playing a person;
@@ -433,6 +449,10 @@ The titles, in ladder order:
    light, painted backdrops, and a stage space built by a group
    of five from foils, fabrics, mirrors and card (Serbia student
    books).
+ The Art expansion added:
+   ballet — a story told in dance, met through
+   Tchaikovsky's Nutcracker: Clara, the Mouse King battle
+   and the Land of Sweets (Malta teacher guide, evidence).
 
 5. **Culture and Values** — the arts as a people's memory:
    traditional dress then and now, houses then and now, the

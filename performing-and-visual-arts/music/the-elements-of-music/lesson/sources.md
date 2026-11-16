@@ -1,6 +1,6 @@
 # Sources — The Elements of Music
 
-countries: Ethiopia, United Kingdom, Andorra, Uganda, Barbados, Honduras, Albania, Samoa, Nicaragua, Singapore, Trinidad and Tobago, Iceland, Haiti
+countries: Ethiopia, United Kingdom, Andorra, Uganda, Barbados, Honduras, Albania, Samoa, Nicaragua, Singapore, Trinidad and Tobago, Iceland, Haiti, Malta
 
 **Book 1:** *ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል (Performing and Visual Arts, Student's Book, Grade 5)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 141 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -36,6 +36,8 @@ countries: Ethiopia, United Kingdom, Andorra, Uganda, Barbados, Honduras, Albani
 
 **Book 17:** *Éducation esthétique et artistique — Musique — La théorie musicale* (teacher guide, French) — Haiti, Projet Nectar, MENFP (Canoprof); Creative Commons BY-NC-SA; no year printed on the cover; no ISBN printed, Grade 7e année, French, 16 PDF pp (printed pp. 3–16 per its own table of contents). TEACHER — teacher guide. Verdict: COMPLETE (cover verified against the record title). Exclusions per the placements: Séance 8 (Révisions) and Séance 9 (Examens) — named, not placed. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/haiti-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
+**Book 18:** *Music Shines I — Unit 9 Listening and Appraising (§§8.1–8.3)* (teacher guide pages + pupil activities, English, with one Maltese song title) — Malta, Music Shines (Skola); year not printed on these pages; no ISBN printed, Year 1 per record; the PDF carries the Year 1, Year 2 and Year 3 levels (printed pp. 123–131), 9 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE for Unit 9 (note: the Year 3 activity sheets are mis-headed "Instruments of the orchestra" in print; their content is this unit's listening work). Cover/title page verified against the record title — first page is the Unit 9 divider, printed p. 123. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malta-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — the six elements of music; Grade 5's scope | Grade 5 Student Textbook, printed p. 16 (§1.2) |
@@ -67,8 +69,10 @@ countries: Ethiopia, United Kingdom, Andorra, Uganda, Barbados, Honduras, Albani
 
 | Haiti — Séance 6, Une vision globale de l'œuvre — seeing a musical work whole — its overall shape and structure, beyond its single notes and phrases (teacher guide — evidence) | Book 17, printed pp. 12–13 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, United Kingdom, Uganda, Honduras).** Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count.
+| Malta — Year 2 Activity 1: describing heard music in element words — long notes / short notes, forte / piano, high in pitch / low in pitch — naming the heard instrument (guitar, violin or piano) and matching a heard sound to its picture (breaking glass, a train, birdsong, a slamming door) (teacher guide — evidence; original target `music/the-elements-of-music`) | Book 18, printed p. 127 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, United Kingdom, Uganda, Honduras).** Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The pupil book's list is pupil teaching; the guide's eight-element list is carried as labelled teacher-guide evidence, exactly as the placements label it. No element is added to either list.
 
-Searchable tags: elements of music, beat melody harmony structure dynamics tone colour, rhythm tempo pitch timbre duration, ስልተ-ምት, ኃይለ ድምፅ, ዜማ, Nicaragua, Iceland, Dægurspor, Haiti
+Searchable tags: elements of music, beat melody harmony structure dynamics tone colour, rhythm tempo pitch timbre duration, ስልተ-ምት, ኃይለ ድምፅ, ዜማ, Nicaragua, Iceland, Dægurspor, Haiti, Malta, Music Shines
