@@ -4236,10 +4236,13 @@ History lessons: 3677 → 3897.
 
 ## Economics expansion totals
 
-Economics lessons across the Economics titles: **380**
+Economics lessons across the Economics titles: **383**
 (376 before the expansion; +2 for United Arab Emirates,
 2026-11-15 — Microeconomics: Basic needs and other needs
 and Work and its different forms; +2 for Iceland,
 2026-11-15 — Market and Money: Trade unions and the strike
 decision and Child labour and workers' conditions in early
-industry).
+industry; +3 for Belarus, 2026-11-15 — Market and Money:
+Wages — nominal and real, piece-rate and time-rate;
+Macroeconomics: The subsistence minimum and the consumer
+basket; Microeconomics: Consumer rights and protection).

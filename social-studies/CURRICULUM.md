@@ -12514,3 +12514,49 @@ arrives inside 19th-century history — pupils role-play a
 factory meeting where wages must fall, and rank
 strike-decision cards, before they ever meet a textbook
 definition. Economics lessons: 378 → 380.
+## Economics expansion — Belarus — built 2026-11-15
+
+Belarus — 5 placements stocked from *Person. Society. State,
+Grade 9 — Book 2 «Свет людзей» (The World of People)* (student
+book, Belarusian, COMPLETE for the volume in hand; Народная
+асвета (Narodnaya Asveta), Minsk, 2001; ISBN 985-12-0294-0;
+name glossary pp. 230–238 inventory-only, named in the book
+entries, not stocked). 2 stocked into standing lessons —
+**Microeconomics**: Cost curves and profit (§28 At work —
+profit (прыбытак) as enterprise income minus production
+costs, net profit as what remains after taxes and payments
+to the budget, and profit rising through rational use of
+the factors of production, printed p. 216; now taught in 2
+countries, Ethiopia and Belarus) and Opportunity cost (§29
+The person as a consumer — the "price of choice" (цана
+выбару): with limited life possibilities and money,
+satisfying a need means giving something up, and the
+rational consumer picks the variant whose price of choice
+is lowest, printed p. 224; now taught in 2 countries,
+Ethiopia and Belarus) — and 3 new lessons built (12
+questions each) — in **Market and Money**: Wages — nominal
+and real, piece-rate and time-rate (1 placement, §29,
+printed p. 221 — wages as the price of labour: nominal wage
+the money sum versus real wage the goods and services it
+buys at a given price level, and the two main forms,
+piece-rate (здзельная, per unit produced) and time-rate
+(пачасовая, per hour actually worked), with bonuses and
+profit-sharing on top); in **Macroeconomics**: The
+subsistence minimum and the consumer basket (1 placement,
+§29, printed p. 223 — consumption as using goods and
+services to meet needs, its level set by personal income;
+the subsistence minimum (пражытачны мінімум) and the
+"consumer basket" (спажывецкі кошык) of typical goods and
+services as the yardstick of living standards across
+countries, from which the state sets the minimum wage);
+and in **Microeconomics**: Consumer rights and protection
+(1 placement, §29, printed p. 225 — the consumer's legal,
+economic and social rights under Belarus's law on consumer
+protection: quality goods, full information, free repair
+or replacement of faulty goods, compensation — defended
+by state bodies, courts and consumer societies). Belarus's
+own way: economics arrives inside a philosophy-and-civics
+course as the ethics of work — profit defined on one
+diagram, then wages, the subsistence minimum and the
+consumer basket as measures of a decent life. Economics
+lessons: 380 → 383.
