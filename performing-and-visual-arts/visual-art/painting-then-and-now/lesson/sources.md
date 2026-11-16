@@ -1,12 +1,14 @@
 # Sources — Painting Then and Now
 
-countries: Ethiopia
+countries: Ethiopia, Albania
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
 **Book 2:** *Grade 3 Performing and Visual Arts Teacher Guide (፫ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed pp. i–iv + body to printed p.79 + syllabus to printed p.96. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-teacher-placements.md.
 
 **Book 3:** *Grade 6 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 6ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
+
+**Book 4:** *Libër mësuesi Arti Pamor 9* (teacher guide, Albanian) — Albania, Shtëpia Botuese Mediaprint, 2018, ISBN 978-9928-08-354-8, Grade 9, 67 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Fetched from the recorded Mediaprint source URLs; byte size matches the record exactly. Cover/title page verified against the record title. Exclusions named in the placements: the term tests (printed section 6) are assessment — named, not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/albania-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -19,8 +21,9 @@ countries: Ethiopia
 | Sub lesson 5 — How appreciation is expressed, the photo route (Grade 6): stories founded on indigenous knowledge; documentary films; photography — a photo exhibition, photos on stamps, posters, flyers, notice boards; Fig. 55 Konso waka and an ancient instrument | Book 3, §4.2, printed p. 90 |
 | Sub lesson 6 — The heritage practicals (Grade 6): ask theatre circles how an indigenous-knowledge script is prepared; stage the traditional justice system and reconciliation ceremony; discuss preservation; culture-and-tourism office photographs and their messages | Book 3, §4.2, printed p. 91 |
 | Sub lesson 7 — Visual art and our heritage (Grade 6): Lalibela, Gondar palace, Mikael's Ayiteyef hall, Goze mosque, Ankober Menelik palace, clothes, jewellery, pottery (Fig. 62); protecting heritage by posters, stamps, drawing, sculpture, painting, jewellery | Book 3, §5.1.1, printed p. 104 |
+| Albania — Art from Post-Impressionism to the second half of the 20th century — Post-Impressionism, the avant-gardes (Fauvism, Expressionism, Cubism, Abstraction, Dada, Surrealism), then Abstract Expressionism, Pop Art, sculpture and architecture after 1950, and art in Albania in the socialist-building period (teacher guide — evidence) | Book 4, printed p. 5 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 1 country (Ethiopia).** Albania is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Honesty notes: this lesson stocks only what the structure map assigns to it — the Grade 3 then-and-now comparison and the appreciating-paintings pages, with the Grade 3 teacher guide's valuing part as labelled evidence. Other painting placements in the series carry their own lesson targets in the placements files (the paint kinds, watercolour and oil, cave art, and the great painters) and are not stocked here; they are recorded as not-in-this-map in the build log. Afework Tekle is named in the lesson exactly as the Grade 3 book names him — the modern example — with no biography added beyond the placements.
 

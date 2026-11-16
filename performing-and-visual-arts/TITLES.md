@@ -90,7 +90,12 @@ The titles, in ladder order:
    added: artists of Central America — Honduras's first
    artists and its current artists, known and valued by
    name, widening to the artists of all Central America,
-   known by their works (Honduras student books).
+   known by their works (Honduras student books). The Art expansion
+   added: street art and graffiti — graffiti as urban
+   painting, lettering and wall work as a public art
+   form; and fashion design — textile design, pattern
+   for cloth, and dress designed as applied visual art
+   (Albania teacher guide, evidence).
 3. **Music** — the ear and the voice: sounds around us, naming
    sounds, the songs (animals, family, nature, movement, festivals,
    school, counting, clean living, our country, colours), the
@@ -180,7 +185,10 @@ The titles, in ladder order:
    voices; and Latin American and Caribbean music — the
    region's genres valued and appreciated, and its
    instruments with how they are played (Honduras student
-   books).
+   books). The Art expansion added: intervals — the
+   distances between sounds, counted from the first
+   sound, 1–2 up to the octave 1–8, named, built, sung
+   and played (Albania teacher guide, evidence).
 4. **Drama and Dance** — the body: how things, animals and people
    move; playing family roles; acting together; playing a person;
    theatre on a stage; acting our history; circle dances and

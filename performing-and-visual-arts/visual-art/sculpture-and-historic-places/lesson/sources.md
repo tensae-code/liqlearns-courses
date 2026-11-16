@@ -1,6 +1,6 @@
 # Sources — Sculpture and Historic Places
 
-countries: Ethiopia, Maldives
+countries: Ethiopia, Maldives, Albania
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -21,6 +21,8 @@ countries: Ethiopia, Maldives
 **Book 9:** *Performing and Visual Arts Teacher Guide Grade 10* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, first published 2022, GEQIP-E, printed pp. i–vi + 1–78. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g10-teacher-placements.md.
 
 **Book 10:** *Exploring Creative Arts 4* (student book, English) — Maldives, National Institute of Education, Ministry of Education, Malé, Maldives; © 2025, first published 2025; ISBN 978-99915-0-956-3 (paperback); development editor Shirumeen Ahmed; printed by M7 Print Pvt. Ltd. Based on the Creative Arts in the National Curriculum syllabus, 2022. 93 PDF pp (printed pp. 1–81 plus acknowledgements and back cover; cover verified — two children painting at easels). Verdict: COMPLETE. Read in full as extracted text in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/maldives-placements.md. The book's glossary (printed pp. 79–81) is inventory only, named here and never stocked as parts.
+
+**Book 11:** *Libër mësuesi Arti Pamor 9* (teacher guide, Albanian) — Albania, Shtëpia Botuese Mediaprint, 2018, ISBN 978-9928-08-354-8, Grade 9, 67 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Fetched from the recorded Mediaprint source URLs; byte size matches the record exactly. Cover/title page verified against the record title. Exclusions named in the placements: the term tests (printed section 6) are assessment — named, not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/albania-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -50,8 +52,9 @@ countries: Ethiopia, Maldives
 | Sub lesson 12 — Heritage in pictures, three (Grade 4): Fig. 3.8 the Yemrehane Kristos rock church (Lalibela) | Book 2, printed p. 49 |
 | Sub lesson 12 — Activity 3.1 (Grade 4): draw and paint a traditional heritage object on paper | Book 2, printed p. 51 |
 | Maldives — A Relief (tile): building a relief tile — drawing a nature design on a Styrofoam tile, raising it with soaked paper strips, wrapping it in foil (or sand for a stone-like texture), painting black then gold — and joining the whole class's tiles into one mural (original target `visual-art/relief-raised-and-sunken`) | Book 10, Unit 3, printed pp. 11–12 |
+| Albania — Modelling, carving and casting — modelling sculpture in different materials, carving in soft materials, and casting positive and negative forms (teacher guide — evidence) | Book 11, printed p. 5 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Maldives).**
+**Acceptance count: taught in 2 countries (Ethiopia, Maldives).** Albania is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Honesty notes: Sub lessons 5 and 6 rest on teacher-guide evidence and are labelled so in the lesson text and in this table; the lesson as a whole rests on student books (Books 1–6), so the acceptance count stands at 1 country. Book 7 (the Grade 8 teacher guide) is a truncated copy — body printed pp. 1–56 plus syllabus tables — and both of its parts used here (pp. 33–39 and pp. 53–56) sit inside the surviving body. Books 8 and 9 are teacher guides for grades with no student books in this set; their parts are evidence only. The Grade 7 student book's carving deep-dive is stocked here only as the fourth technique named inside the four-techniques part, exactly as its placement frames it against the other three.
 

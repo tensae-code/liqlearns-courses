@@ -1,6 +1,6 @@
 # Sources — Faster Notes, Dynamics and Tempo
 
-countries: Ethiopia, United Kingdom, Barbados
+countries: Ethiopia, United Kingdom, Barbados, Albania
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -9,6 +9,10 @@ countries: Ethiopia, United Kingdom, Barbados
 **Book 3:** *Edexcel GCSE (9–1) Anthology of Music* (student book, English), edited by Julia Winterson — United Kingdom, Pearson Education Ltd with Peters Edition Ltd and Faber Music Ltd, 2016 (first published 2016), ISBN 978-1-292-11838-3, Grade 10 (GCSE, Years 10–11), 97 PDF pp. Verdict: COMPLETE — all 97 pages read (score pages placed as study summaries only; no notation or song lyrics transcribed). Read from the scanned page images at the book's recorded source (Internet Archive item `edexcel-gcse-9-1-anthology-of-music`, 97 pages, matching the record) in the 2026-11-16 Art expansion read, because the recorded GitHub copy is a PHANTOM PUSH — marked pushed but absent from the tree and the releases, so it could not be fetched by the tree route (see the placements file). Placements at liqlearns-courses-work/expansion-art-2026-11-16/united-kingdom-placements.md. The book's Glossary of Key Words (printed pp. 90–93) is inventory only, named here and never stocked as parts.
 
 **Book 4:** *Primary Music Syllabus, Classes 1–4* (curriculum syllabus, English) — Barbados, Ministry of Education and Human Resource Development, Barbados; year not printed (document dated 2011 in file metadata); no ISBN printed, Classes 1–4 (ages 7–11), 44 PDF pp. TEACHER — syllabus for teachers. Verdict: COMPLETE. The record title says “Class 1”; the printed cover and contents cover Classes 1–4. Read in place in phase3-staging in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/barbados-placements.md. **Curriculum syllabus — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 5:** *Libër mësuesi Muzikë 6 (Libër mësuesi Muzika 6)* (teacher guide, Albanian) — Albania, Shtëpia Botuese Mediaprint, 2015, reprint 2019, ISBN 978-9928-08-202-2, Grade 6, 85 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Fetched from the recorded Mediaprint source URLs after the GitHub grab route disconnected twice (RemoteDisconnected); byte size matches the record exactly. Covers/title pages verified against the record title (p. 1 is the publisher's web page, title/imprint on printed pp. 3–4). Exclusions named in the placements: portfolio/assessment-level sections (printed pp. 79–85) are assessment apparatus with no new teaching content — not placed; the Revision/Questionnaire lessons in the annual plan are revision — not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/albania-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 6:** *Libër mësuesi Muzika 7 (botim i përmirësuar)* (teacher guide, Albanian) — Albania, Shtëpia Botuese Mediaprint, 2016, ISBN 978-9928-08-232-9, Grade 7, 97 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Fetched from the recorded Mediaprint source URLs; byte size matches the record exactly. Cover/title page verified against the record title. Exclusions named in the placements: term tests and the achievement-presentation project are assessment apparatus — named, not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/albania-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -23,8 +27,10 @@ countries: Ethiopia, United Kingdom, Barbados
 | The Grade 5 closing exercise on faster notes, dynamics and tempo (citation completed) | Grade 5 Student Textbook, printed pp. 41–43 |
 
 | United Kingdom — Dynamics and tempo in the 'Pathétique': the fp (forte-piano) chord, dramatic dynamic contrast, tremolo octaves and staccato chords, alla breve time and the Grave–Allegro tempo contrast; wider listening to Mozart's Piano Sonata K.545 and Haydn's 'English' Sonata Hob.50 | Book 3, printed p. 19 |
+| Albania — Time signatures 2/4, 3/4, 4/4, 3/8 and 6/8, dotted values and ties — simple and compound metres, the value dot, value and expression ties, the fermata and repeat signs (teacher guide — evidence) | Book 5, printed p. 15 |
+| Albania — The incomplete bar, the fermata and staccato — the upbeat/incomplete measure, and the character signs fermata (korona) and staccato (teacher guide — evidence) | Book 6, printed p. 23 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, United Kingdom). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.**
+**Acceptance count: taught in 2 countries (Ethiopia, United Kingdom). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 5 book's tempo table lists Allegretto as "very fast", above Allegro "fast" — the lesson keeps the book's own ordering and says so in the tempo sub lesson, for fidelity to the source, exactly as the placements flag it. The seven-sounds table is the book's own mapping (C = Do … B = Si) with Do taken as the starting base, as printed.
 

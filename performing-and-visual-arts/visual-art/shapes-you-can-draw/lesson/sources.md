@@ -1,13 +1,15 @@
 # Sources — Shapes You Can Draw
 
 
-countries: Ethiopia
+countries: Ethiopia, Albania
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
 **Book 2:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
 **Book 3:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
+
+**Book 4:** *Libër mësuesi Arti Pamor 9* (teacher guide, Albanian) — Albania, Shtëpia Botuese Mediaprint, 2018, ISBN 978-9928-08-354-8, Grade 9, 67 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Fetched from the recorded Mediaprint source URLs; byte size matches the record exactly. Cover/title page verified against the record title. Exclusions named in the placements: the term tests (printed section 6) are assessment — named, not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/albania-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -20,8 +22,9 @@ countries: Ethiopia
 | Sub lesson 7 — Joining and colouring geometric shapes | Ethiopia, *Grade 3 Performing and Visual Arts Student Textbook*, Figures 10–12 and Activities 6–7, printed pp. 28–29 |
 | Sub lesson 8 — Building a house from shapes | Ethiopia, *Grade 2 Performing and Visual Arts Student Textbook*, §2.4.3(ለ), Figure 2.4.4ለ and Activity 2.4.4, printed pp. 36–38 |
 | Sub lesson 9 — Building a car from shapes | Ethiopia, *Grade 2 Performing and Visual Arts Student Textbook*, §2.4.3(ሐ), Figure 2.4.5ሐ and Activity 2.4.5, printed p. 38 |
+| Albania — Positive and negative two-dimensional form — telling and using positive and negative shapes in a flat composition (teacher guide — evidence) | Book 4, printed p. 4 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 1 country (Ethiopia).** Albania is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 3 forms placement (printed pp. 30–31) also carries a paper-collage picture (Drawing 17, flowers made by cutting and pasting papers); collage-making belongs to the Making cluster of this course, so only the forms content of those pages is stocked here and the collage is not taught in this lesson. Grade 2's house placement spans printed pp. 36–38 and the car placement is on printed p. 38, exactly as placed.
 

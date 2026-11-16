@@ -1,6 +1,6 @@
 # Sources — Photographs
 
-countries: Ethiopia, Guatemala
+countries: Ethiopia, Guatemala, Albania
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -9,6 +9,8 @@ countries: Ethiopia, Guatemala
 **Book 3:** *ሥነ-ጥበባት የተማሪ መጽሐፍ 4ኛ ክፍል (Performing and Visual Arts, Student's Book, Grade 4)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–100. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-student-placements.md.
 
 **Book 4:** *Guía de orientaciones metodológicas para docentes de Segundo ciclo de primaria — Expresión artística: Expresemos y construyamos paz* (teacher guide, Spanish) — Guatemala, Ministerio de Educación de Guatemala (MINEDUC), with OEI Guatemala, 2017, no ISBN printed, Grades 4–6 (segundo ciclo de primaria), 51 PDF pp. TEACHER — teacher guide. Verdict: PARTIAL — this PDF is an excerpt: it holds the front matter and introduction (printed pp. 1–15), the opening page of every learning experience (printed pp. 23, 33, 41, 51, 61), and Grade 6 in full (printed pp. 62–91, incl. teacher orientations and bibliography). The Grade 4 and Grade 5 activity pages (printed pp. 16–22, 24–32, 34–40, 42–50, 52–60) are NOT in the file; Grade 4–5 placements below are made from each experience's opening page (competence, learning themes, methods) and its named activities in the contents, and are marked title/theme-level where that is all the evidence there is. Excluded per the placements: "Revisión de lo aprendido" (printed p. 75, revision), all autoevaluación/coevaluación checklists and teacher rubrics, and the bibliography (printed pp. 85–91 teacher orientations are method guidance, not pupil teaching content). The same PDF serves the grade-04, grade-05 and grade-06 records; it was read from the recorded archive.org source after the repo tree path returned 404 twice — byte size and pages match the record exactly, so the book is read, but the pushed copy is a PHANTOM PUSH (library debt). Placements at liqlearns-courses-work/expansion-art-2026-11-16/guatemala-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 5:** *Libër mësuesi Arti Pamor 9* (teacher guide, Albanian) — Albania, Shtëpia Botuese Mediaprint, 2018, ISBN 978-9928-08-354-8, Grade 9, 67 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Fetched from the recorded Mediaprint source URLs; byte size matches the record exactly. Cover/title page verified against the record title. Exclusions named in the placements: the term tests (printed section 6) are assessment — named, not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/albania-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -23,8 +25,9 @@ countries: Ethiopia, Guatemala
 
 | Grade 4 Ch. 1 closing exercise — photo-format items (G4S-21) (question stock, Sub lesson 5) | Grade 4 Student Textbook, Ch. 1 closing exercise, printed pp. 20–21 |
 | Guatemala — Reading photographs that show social problems (violence, discrimination, war, exclusion): say what you see, what emotions the image wakes, and what the people in it may have been thinking, using named Guatemalan photographs as the examples — Experiencia 2 "Publicarte" (Grade 6), activity "Más de mil palabras" (teacher guide — evidence; original target `visual-art/photographs`) | Book 4, printed pp. 70–72 |
+| Albania — Photo-collage — building a new picture by cutting and joining photographs (teacher guide — evidence) | Book 5, printed p. 5 |
 
-**Acceptance count: taught in 1 country (Ethiopia). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.**
+**Acceptance count: taught in 1 country (Ethiopia). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Honesty notes: every photograph in this lesson is described only as its placement describes it — the Sof Omar cave as a cave entrance in rock, the Tis Abay Falls as a wide waterfall, Bete Giyorgis as the rock-hewn church of St George at Lalibela, the Axum stele standing among ruins, Fasilides' castle at Gondar, Abebe Bikila running on a stadium track in a race, the walia standing on rocks against the sky, the Abbay Dam as a dam wall with water pouring through, and the market, harvest, landscape and aeroplane photographs as the Grade 2 figures name them. No photographic detail beyond the placements has been added. The Grade 3 page (Book 2, p. 68) also carries a chapter summary and closing exercise and a Review placement for Appreciating the Arts; only its two photographs and the "which pleased you" activity are stocked here, as the structure map directs — the review fold belongs to the First Steps appreciating lesson.
 

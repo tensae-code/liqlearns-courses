@@ -1,6 +1,6 @@
 # Sources — Hearing Each Instrument
 
-countries: Ethiopia, United Kingdom, Andorra, Barbados, Honduras
+countries: Ethiopia, United Kingdom, Andorra, Barbados, Honduras, Albania
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, United Kingdom, Andorra, Barbados, Honduras
 
 **Book 6:** *Libro del Estudiante — Educación Artística — 8vo Grado (Telebásica)* (student book, Spanish) — Honduras, Secretaría de Educación, República de Honduras (Programa de Televisión Educativa Hondureña — Telebásica); author Licda. Corina Milikza Hernández Estrada; no year printed on the pages read; no ISBN printed, Grade 8, 290 PDF pp. STUDENT. Verdict: COMPLETE. Cover verified against the record title ("Libro del Estudiante, Educación Artística, 8vo Grado"). Fetched from the recorded libroshonduras.com source URLs. The Introduction repeats the Grade 7 book's art-definitions opening (placed there, not re-placed here). Exclusions named in the placements: the "Valorando lo que Aprendo" self-assessment sequences (printed pp. 95, 167, 203, 267) are named, not placed; Senderos (printed p. 17) is book-orientation apparatus, named, not placed; the Glosario (printed p. 269) is a word list — inventory-only, named, not stocked; Anexo and Bibliografía not placed. The parallel Grade 8 teacher guide, *Guía del Docente — Educación Artística — 8vo Grado (Telebásica)* (198 PDF pp, TEACHER; its first download was corrupt with a broken xref, was discarded and re-fetched), parallels this book sequence by sequence and carries 0 placements — its arts teaching content is placed once, from this student book; its own additions are teaching method, Telebásica TV-programme guidance, materials lists and evaluation criteria. Placements at liqlearns-courses-work/expansion-art-2026-11-16/honduras-placements.md.
 
+**Book 7:** *Libër mësuesi Muzika 7 (botim i përmirësuar)* (teacher guide, Albanian) — Albania, Shtëpia Botuese Mediaprint, 2016, ISBN 978-9928-08-232-9, Grade 7, 97 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Fetched from the recorded Mediaprint source URLs; byte size matches the record exactly. Cover/title page verified against the record title. Exclusions named in the placements: term tests and the achievement-presentation project are assessment apparatus — named, not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/albania-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
 | Lesson part | Where it comes from |
 |---|---|
 | The song “እኛም አለን ሙዚቃ” (We Too Have Music) — verses imitating each instrument's sound in turn (masenqo, krar, kebero, washint) | Grade 1 Student Textbook, printed p. 68 |
@@ -24,8 +26,9 @@ countries: Ethiopia, United Kingdom, Andorra, Barbados, Honduras
 | Andorra — Bloc 3: analysing listened music (cycles 1–3) — the parameters of sound (intensity, duration, pitch, timbre) identified, analysed and classified; instrument families (string, wind, percussion); genres and styles (traditional, classical, jazz, modern, fusion); vocal and instrumental groupings; and music's places — in tales, advertising, cinema and the performing arts (programme document — evidence; original target `music/hearing-each-instrument`) | Book 4, printed pp. 30–31 |
 
 | Honduras — Block II S2, Interpreting instrumental music — the classification of musical instruments, known by family and sound | Book 6, printed p. 111 |
+| Albania — Classifying voices and instruments; the orchestra and its kinds — telling singing voices apart and classifying them, classifying musical instruments and their role in the orchestra, and the kinds of orchestra/formation (teacher guide — evidence) | Book 7, printed p. 23 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, United Kingdom, Honduras).** Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.**
+**Acceptance count: taught in 3 countries (Ethiopia, United Kingdom, Honduras).** Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count.**
 
 The song is placed by name, purpose and teaching content only — its words are never transcribed; only the sound-words are the teaching content, as the placements state. A coffee-ceremony painting printed with the Grade 1 chapter's singing work belongs to the course's appreciation material and is not stocked as a part of this lesson.
 

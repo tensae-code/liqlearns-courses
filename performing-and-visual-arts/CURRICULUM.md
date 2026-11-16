@@ -492,7 +492,55 @@ lessons are the books'.
   entries and not placed; songs are placed by name and kind
   only, never transcribed.
 
-**The whole course stands at 239 lessons, 3,602 questions and
+- **Art expansion — Albania — BUILT 2026-11-16:** 42 placements
+  stocked from 3 teacher guides (all Shtëpia Botuese
+  Mediaprint, Albanian, COMPLETE, fetched from the recorded
+  Mediaprint source URLs; byte sizes match the records
+  exactly: *Libër mësuesi Muzikë 6*, 2015, reprint 2019,
+  ISBN 978-9928-08-202-2, Grade 6, 85 PDF pp; *Libër
+  mësuesi Muzika 7 (botim i përmirësuar)*, 2016, ISBN
+  978-9928-08-232-9, Grade 7, 97 PDF pp; *Libër mësuesi
+  Arti Pamor 9*, 2018, ISBN 978-9928-08-354-8, Grade 9,
+  67 PDF pp). All three are TEACHER guides — EVIDENCE
+  only, kept outside the acceptance counts. 39 into
+  existing lessons (Reading Music on the Staff; Notes
+  and Rests ×2; Faster Notes, Dynamics and Tempo ×2;
+  Scales, Pitch and Key Signatures ×3; The Elements of
+  Music ×2; Reading the Beat; Anthems and Songs That
+  Teach ×2; Songs of Our Country; Family Songs;
+  Traditional and Festival Songs ×2; Our Instruments
+  ×2; History of African and World Music ×2; Hearing
+  Each Instrument; Appreciating and Valuing the Arts
+  ×2; How the Arts Belong Together; Lines in Every
+  Direction; Shapes You Can Draw; The Colour Wheel;
+  Elements of Visual Art ×2; Design and Perspective:
+  Near and Far; Composition in Visual Art; Drawing:
+  The Foundation Skill; Printing; Photographs;
+  Sculpture and Historic Places; Painting Then and
+  Now; Festivals and Their Arts; Technical and
+  Performance Elements of Theatre — the miniature
+  stage set), 3 NEW lessons (Music: Intervals; Visual
+  Art: Street Art and Graffiti — from urban-graffiti;
+  Fashion Design — from textile-and-fashion-design),
+  36 questions added, media as described slots only.
+  The placements file tallied 4 NEW LESSON NEEDED; the
+  slug registry resolves the fourth,
+  miniature-stage-set-construction, to the existing
+  Technical and Performance Elements of Theatre, so 3
+  new lessons were built and 39 (not 38) placements
+  went to existing lessons. Exclusions named: Muzika 6
+  portfolio/assessment sections (printed pp. 79–85) and
+  its Revision/Questionnaire lessons; Muzika 7 term
+  tests and the achievement-presentation project; Arti
+  Pamor 9 term tests (printed section 6) — assessment
+  apparatus, named, not placed. Songs are placed by
+  name and purpose only, never transcribed; Albania's
+  own way is kept as named parts — the fyell played
+  from notation and in two scales, iso-polyphonic
+  song, and the museum-cities' traditional
+  architecture.
+
+**The whole course stands at 242 lessons, 3,638 questions and
 203 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 

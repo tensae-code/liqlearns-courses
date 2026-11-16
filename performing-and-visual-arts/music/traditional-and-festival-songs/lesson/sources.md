@@ -1,6 +1,6 @@
 # Sources — Traditional and Festival Songs
 
-countries: Ethiopia, Barbados
+countries: Ethiopia, Barbados, Albania
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -13,6 +13,10 @@ countries: Ethiopia, Barbados
 **Book 5:** *Grade 3 Performing and Visual Arts Teacher Guide (፫ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed front matter i–iv + body to printed p.79 + syllabus to printed p.96. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-teacher-placements.md.
 
 **Book 6:** *Primary Music Syllabus, Classes 1–4* (curriculum syllabus, English) — Barbados, Ministry of Education and Human Resource Development, Barbados; year not printed (document dated 2011 in file metadata); no ISBN printed, Classes 1–4 (ages 7–11), 44 PDF pp. TEACHER — syllabus for teachers. Verdict: COMPLETE. The record title says “Class 1”; the printed cover and contents cover Classes 1–4. Read in place in phase3-staging in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/barbados-placements.md. **Curriculum syllabus — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 7:** *Libër mësuesi Muzikë 6 (Libër mësuesi Muzika 6)* (teacher guide, Albanian) — Albania, Shtëpia Botuese Mediaprint, 2015, reprint 2019, ISBN 978-9928-08-202-2, Grade 6, 85 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Fetched from the recorded Mediaprint source URLs after the GitHub grab route disconnected twice (RemoteDisconnected); byte size matches the record exactly. Covers/title pages verified against the record title (p. 1 is the publisher's web page, title/imprint on printed pp. 3–4). Exclusions named in the placements: portfolio/assessment-level sections (printed pp. 79–85) are assessment apparatus with no new teaching content — not placed; the Revision/Questionnaire lessons in the annual plan are revision — not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/albania-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 8:** *Libër mësuesi Muzika 7 (botim i përmirësuar)* (teacher guide, Albanian) — Albania, Shtëpia Botuese Mediaprint, 2016, ISBN 978-9928-08-232-9, Grade 7, 97 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Fetched from the recorded Mediaprint source URLs; byte size matches the record exactly. Cover/title page verified against the record title. Exclusions named in the placements: term tests and the achievement-presentation project are assessment apparatus — named, not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/albania-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -27,8 +31,10 @@ countries: Ethiopia, Barbados
 | Sub lesson 4 (teacher guide — evidence): songs for every occasion — joy, festival songs, worship songs, work songs, war songs, mourning-time songs, each with its kind of melody | Grade 3 teacher guide, §3.1, printed pp. 48–55 |
 | Whole-lesson (teacher guide — evidence): the songs sung around the child — at home, at celebrations, in the neighbourhood | Grade 1 teacher guide, Ch. 3 §3.1, printed p. 37 |
 | Barbados — Singing (Class 2) — singing more varied songs and rounds: Caribbean, African and Latin American folk songs, calypsos, modern songs and hymns (curriculum syllabus — evidence) | Book 6, printed p. 12 |
+| Albania — Folk songs one-voiced and many-voiced, and the song-game — single-voice and multi-voice folk singing from the folk heritage, and the play-song sung with movement and dance (teacher guide — evidence) | Book 7, printed p. 21 |
+| Albania — Iso-polyphonic song — the three-voice iso-polyphonic song "Poshtë nga çairetë" heard as Albania's own many-voiced tradition (song placed by name only, never transcribed) (teacher guide — evidence) | Book 8, printed p. 3 |
 
-**Acceptance count: taught in 1 country (Ethiopia). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.**
+**Acceptance count: taught in 1 country (Ethiopia). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Traditional songs are placed by name, season and purpose only; their lyrics are never transcribed in this lesson — the books themselves print several of them as repertoire, and the lesson follows the placements in naming and summarising rather than copying. The Genna game song "አሲና በል" (Asina Bel, Grade 3 student textbook, printed p. 54) is named in the placements as its own target and belongs with the Genna game in the Culture and Values festival lesson, not here; it is not stocked in this lesson.
 

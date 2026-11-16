@@ -1,6 +1,6 @@
 # Sources — Technical and Performance Elements of Theatre
 
-countries: Ethiopia, Egypt, Honduras
+countries: Ethiopia, Egypt, Honduras, Albania
 
 **Book 1:** *Grade 8 Performing and Visual Arts Teacher's Guide Book* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, March 2022, printed pp. 1–110 as promised by its contents; the library file is TRUNCATED — its body holds printed pp. 1–56 plus syllabus tables, and Units 4–5 are placed from its contents and syllabus only. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-teacher-placements.md.
 
@@ -9,7 +9,10 @@ countries: Ethiopia, Egypt, Honduras
 **Book 3:** *Theatre Education — Second Preparatory, Grade 8, First Term (التربية المسرحية — الصف الثاني الإعدادي — الفصل الدراسي الأول)* (student book, Arabic) — Egypt, وزارة التربية والتعليم (Ministry of Education and Technical Education, Egypt), 2025, no ISBN printed, Grade 8, Arabic, 81 PDF pp. Verdict: COMPLETE (cover/title page verified against the record title). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/egypt-placements.md.
 
 **Book 4:** *Libro del Estudiante — Educación Artística — 7mo Grado (Telebásica)* (student book, Spanish) — Honduras, Secretaría de Educación, República de Honduras (Programa de Televisión Educativa Hondureña — Telebásica); author Licda. Corina Milikza Hernández Estrada; no year printed on the pages read; no ISBN printed, Grade 7, 207 PDF pp. STUDENT. Verdict: COMPLETE. Cover verified against the record title ("Libro del Estudiante, Educación Artística, 7mo Grado", honouring the Honduran singer-songwriter Guillermo Anderson, 1962–2016). Fetched from the recorded libroshonduras.com source URLs. Exclusions named in the placements: the "Valorando lo que Aprendo" self-assessment sequences closing each block (printed pp. 63, 119, 145, 187) are named, not placed; the Senderos section (printed pp. 15–24) is book-orientation apparatus, named, not placed; the Glosario (printed p. 189) is a word list — inventory-only, named, not stocked; Anexo and Bibliografía not placed. The parallel Grade 7 teacher guide, *Guía del Docente — Educación Artística — 7mo Grado (Telebásica)* (185 PDF pp, TEACHER), parallels this book sequence by sequence and carries 0 placements — its arts teaching content is placed once, from this student book; its own additions are teaching method, TV-programme guidance and evaluation criteria. Placements at liqlearns-courses-work/expansion-art-2026-11-16/honduras-placements.md.
+
 **Book 5:** *Libro del Estudiante — Educación Artística — 8vo Grado (Telebásica)* (student book, Spanish) — Honduras, Secretaría de Educación, República de Honduras (Programa de Televisión Educativa Hondureña — Telebásica); author Licda. Corina Milikza Hernández Estrada; no year printed on the pages read; no ISBN printed, Grade 8, 290 PDF pp. STUDENT. Verdict: COMPLETE. Cover verified against the record title ("Libro del Estudiante, Educación Artística, 8vo Grado"). Fetched from the recorded libroshonduras.com source URLs. The Introduction repeats the Grade 7 book's art-definitions opening (placed there, not re-placed here). Exclusions named in the placements: the "Valorando lo que Aprendo" self-assessment sequences (printed pp. 95, 167, 203, 267) are named, not placed; Senderos (printed p. 17) is book-orientation apparatus, named, not placed; the Glosario (printed p. 269) is a word list — inventory-only, named, not stocked; Anexo and Bibliografía not placed. The parallel Grade 8 teacher guide, *Guía del Docente — Educación Artística — 8vo Grado (Telebásica)* (198 PDF pp, TEACHER; its first download was corrupt with a broken xref, was discarded and re-fetched), parallels this book sequence by sequence and carries 0 placements — its arts teaching content is placed once, from this student book; its own additions are teaching method, Telebásica TV-programme guidance, materials lists and evaluation criteria. Placements at liqlearns-courses-work/expansion-art-2026-11-16/honduras-placements.md.
+
+**Book 6:** *Libër mësuesi Arti Pamor 9* (teacher guide, Albanian) — Albania, Shtëpia Botuese Mediaprint, 2018, ISBN 978-9928-08-354-8, Grade 9, 67 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Fetched from the recorded Mediaprint source URLs; byte size matches the record exactly. Cover/title page verified against the record title. Exclusions named in the placements: the term tests (printed section 6) are assessment — named, not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/albania-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
 | Lesson part | Book | Printed pages |
 |---|---|---|
@@ -20,8 +23,9 @@ countries: Ethiopia, Egypt, Honduras
 
 | Honduras — Block III S1, Body expression — expresión corporal: expressing with the body | Book 4, printed p. 123 |
 | Honduras — Block III S1, Communicating with the body — the characteristics of expresión corporal: the body as the actor's communication tool | Book 5, printed p. 171 |
+| Albania — Miniature stage-set construction — building a small scene/set model from different and recycled materials (teacher guide — evidence; original target `visual-art/miniature-stage-set-construction`) | Book 6, printed p. 5 |
 
-**Acceptance count: taught in 2 countries (Egypt, Honduras).** Ethiopia teacher-guide evidence is named here, counted nowhere.
+**Acceptance count: taught in 2 countries (Egypt, Honduras).** Ethiopia teacher-guide evidence is named here, counted nowhere. Albania is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This lesson stands on the Grade 8 teacher guide (printed pp. 10–11) as labelled evidence; the topic sits in the guide's full body (Units 1–3).
 
