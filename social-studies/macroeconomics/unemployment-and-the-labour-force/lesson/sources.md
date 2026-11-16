@@ -1,6 +1,6 @@
 # Sources — Unemployment and the labour force
 
-countries: Ethiopia, Mongolia, Malaysia, Cambodia, Vietnam
+countries: Ethiopia, Mongolia, Malaysia, Cambodia, Vietnam, Greece
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -31,7 +31,13 @@ countries: Ethiopia, Mongolia, Malaysia, Cambodia, Vietnam
 | Lesson part | Where it comes from |
 |---|---|
 | Vietnam part — Lesson 4: the causes and consequences of unemployment — teaches: causes are subjective (dismissal for breaking discipline, quitting a disliked job, lacking work skills) and objective (production and business establishments closing, and supply–demand imbalance on the labour market — as when many pharmacy and nursing graduates cannot be placed while highly specialised doctors are hard to recruit); the consequences are heavy — the unemployed lose income and their skills decay, firms face falling social demand and shrink or close, the economy wastes resources, slides toward recession with slower growth and a smaller state budget, and social disorder, strikes and protests increase (Economics expansion, 2026-11-16; original placement slug: people-and-resources/the-costs-of-unemployment — stocked here as the closest existing lesson covering this thing) | Vietnam, *Vietnam Grade 11 Economic & Legal Education*, Lesson 4: the causes and consequences of unemployment — printed p. 25 |
-**Acceptance count: taught in 5 countries (Ethiopia, Mongolia, Malaysia, Cambodia, Vietnam).**
+**Book 5:** *Arches Oikonomikis Theorias G12* (student book, Greek) — Ministry of Education / ITYE «Διόφαντος»; reissue printing file dated 2025; ISBN 978-960-06-2385-2. Title as printed: Αρχές Οικονομικής Θεωρίας — Μικροοικονομία Μακροοικονομία. Grade: Grade 12 (Γ' Γενικού Λυκείου, Economics & Informatics orientation) (student/teacher: STUDENT). PDF pages: 210 (cover/title page verified against the record title; byte size 4,109,900 = record size_bytes exactly, via the record's ebooks.edu.gr source URL after grab.py failed twice with RemoteDisconnected). Verdict: COMPLETE. Contents map: Economics parts pp. 9–202 (whole book); end-of-chapter questions pp. 25–27, 49–52, 73–78, 89–92, 104–108, 129–132, 144–150, 159–162, 172–176, 184–186, 197–202 (assessment, named not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/greece-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch.9 §4 Unemployment — teaches: the labour force, the unemployed versus the inactive, and the unemployment rate | Greece, *Greece Grade 12 Arches Oikonomikis Theorias*, Ch.9 §4 Unemployment — printed p. 168 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Mongolia, Malaysia, Cambodia, Vietnam, Greece).**
 
 Vietnam's own way (Vietnam Grade 11 Economic & Legal Education): the macro topics are taught from Vietnam's own statistics and history — the CPI chart 2016–2021, the 775% inflation of 1986, COVID-era unemployment of 3.2%, the Q3 2022 labour-market bulletin — and the State's controlling role is quoted from the Law on the State Bank and the Labour Code.
 
@@ -43,4 +49,6 @@ Malaysia's own way (Malaysia Grade 11 Ekonomi Tingkatan 5): Form 5 turns to the 
 
 Cambodia's own way (Cambodia Grade 11 Economics): a full academic course built around Cambodia's own transition — the market system is introduced, judged, and then located in Cambodia itself (its market-economy foundations, its national economy, its reform programme), and the book closes with the history of economic thought from the first schools to Keynes.
 
-Searchable tags: unemployment labour force, unemployment rate, marginally attached discouraged workers, 15-64, ethiopia, social studies, macroeconomics, mongolia, registered unemployed, 34300, april 2017, education level, malaysia, cambodia, vietnam
+Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
+
+Searchable tags: unemployment labour force, unemployment rate, marginally attached discouraged workers, 15-64, ethiopia, social studies, macroeconomics, mongolia, registered unemployed, 34300, april 2017, education level, malaysia, cambodia, vietnam, greece

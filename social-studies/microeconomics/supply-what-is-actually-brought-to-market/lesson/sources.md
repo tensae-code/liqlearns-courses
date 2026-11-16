@@ -1,6 +1,6 @@
 # Sources — Supply — what is actually brought to market
 
-countries: Ethiopia, Yemen, Vietnam, Pakistan, Nigeria
+countries: Ethiopia, Yemen, Vietnam, Pakistan, Nigeria, Greece
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -34,7 +34,13 @@ countries: Ethiopia, Yemen, Vietnam, Pakistan, Nigeria
 |---|---|
 | Nigeria part — Chapter 3 — Supply, schedules and curves — teaches: meaning of supply with supply schedules and curves | Nigeria, *Nigeria Grade 10 New Economics SS1*, Chapter 3 — Supply, schedules and curves — printed p. 30 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Yemen, Vietnam, Pakistan, Nigeria).**
+**Book 6:** *Oikonomika G9* (student book, Greek) — Ministry of Education / IEP / ITYE «Διόφαντος», Greek edition 2024 (adapted from the Cyprus Pedagogical Institute's «Οικονομικά Α' Λυκείου», 2020); ISBN 978-960-06-6509-3. Title as printed: Οικονομικά Γ΄ Γυμνασίου. Grade: Grade 9 (Γ' Γυμνασίου) (student/teacher: STUDENT). PDF pages: 98 (cover/title page verified against the record title; byte size 5,594,876 = record size_bytes exactly, via the record's ebooks.edu.gr source URL after grab.py failed with RemoteDisconnected). Verdict: COMPLETE. Contents map: Economics parts pp. 7–92 (whole book); chapter questions/worksheets after each chapter (assessment, named not placed); bibliography p. 93 (inventory only). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/greece-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — 4.3.2 Supply — teaches: quantity supplied at each price and the supply curve | Greece, *Greece Grade 9 Oikonomika*, 4.3.2 Supply — printed p. 64 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Yemen, Vietnam, Pakistan, Nigeria, Greece).**
 
 Nigeria's own way (Nigeria Grade 10 New Economics SS1): SS1 builds the whole subject from Nigerian daily life — naira prices, markets, banks and sectors — before any formal theory, and gives Nigeria's own economy, agriculture in West Africa and Nigerian banking a full chapter each.
 
@@ -47,4 +53,6 @@ Yemen's own way (Grade 11 Mabadi' Ilm al-Iqtisad): a compact principles course t
 
 Pairing note carried from the placements: the student textbook is the finished 2023 edition, while the teacher guide is ©2022 with an unfinished placeholder printing block — edition-mismatched companions; the guide's answer keys are partly incomplete/misaligned with this book's review questions, and no answer-key figure is taught here unchecked.
 
-Searchable tags: supply vs stock, cold storage, quantity supplied, ethiopia, social studies, microeconomics, yemen, vietnam, pakistan, nigeria
+Greece's own way (Greece Grade 9 Oikonomika): a workbook-style first economics course adapted from Cyprus, built around fill-in worksheets and Greek data — the labour-force shift table is Greece's own movement from farms to services.
+
+Searchable tags: supply vs stock, cold storage, quantity supplied, ethiopia, social studies, microeconomics, yemen, vietnam, pakistan, nigeria, greece

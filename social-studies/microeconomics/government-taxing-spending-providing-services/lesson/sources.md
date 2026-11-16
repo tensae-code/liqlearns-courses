@@ -1,6 +1,6 @@
 # Sources — Government — taxing, spending, providing services
 
-countries: Ethiopia, Vietnam, Iran, India
+countries: Ethiopia, Vietnam, Iran, India, Greece
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 **Book 2:** *Economics, Teacher Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed (M.Sc.), Tadesse Ababu (M.Sc.). Editors: Mesfin Ketema (M.Sc., Content Editor), Enguday Ademe (Ph.D., Curriculum Editor), Birhanu Engidaw (Ph.D., Language Editor). Illustrator: Endalkachew Mengesha (M.Sc.). Designer: Derejaw Lake (M.Sc.). The Evaluators line on the title page is left blank. Copyright page reads "First Published xxxxx 2022" under GEQIP-E; printer, contract number and ISBN are all printed as placeholders. Printed page = PDF page - 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-teacher-placements.md
@@ -30,7 +30,13 @@ countries: Ethiopia, Vietnam, Iran, India
 |---|---|
 | India part — Ch 2: public against private sector — private activity runs for profit while government, funded by taxes, must provide what society needs but private firms will not supply at reasonable cost, and support producers with subsidised electricity and fair-price grain purchase — teaches: why a public sector exists | India, *India Grade 10 Understanding Economic Development*, Ch 2 — printed p. 33 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Vietnam, Iran, India).**
+**Book 6:** *Arches Oikonomikis Theorias G12* (student book, Greek) — Ministry of Education / ITYE «Διόφαντος»; reissue printing file dated 2025; ISBN 978-960-06-2385-2. Title as printed: Αρχές Οικονομικής Θεωρίας — Μικροοικονομία Μακροοικονομία. Grade: Grade 12 (Γ' Γενικού Λυκείου, Economics & Informatics orientation) (student/teacher: STUDENT). PDF pages: 210 (cover/title page verified against the record title; byte size 4,109,900 = record size_bytes exactly, via the record's ebooks.edu.gr source URL after grab.py failed twice with RemoteDisconnected). Verdict: COMPLETE. Contents map: Economics parts pp. 9–202 (whole book); end-of-chapter questions pp. 25–27, 49–52, 73–78, 89–92, 104–108, 129–132, 144–150, 159–162, 172–176, 184–186, 197–202 (assessment, named not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/greece-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch.10 §2 The economic functions of the state — teaches: the state's economic roles: allocation, distribution, stabilisation | Greece, *Greece Grade 12 Arches Oikonomikis Theorias*, Ch.10 §2 The economic functions of the state — printed p. 177 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Vietnam, Iran, India, Greece).**
 
 India's own way (India Grade 10 Understanding Economic Development): Development economics taught entirely on Indian data and institutions — per-capita and HDI comparisons with Sri Lanka and Kerala against Haryana, MGNREGA, Sonpur village credit, SEZs, and COPRA consumer courts.
 
@@ -40,7 +46,9 @@ Pairing note carried from the placements: the student textbook is the finished 2
 
 Iran's own way (Iran Grade 10 Economics): the whole book is taught through one running family story (the Mohammadi family and their bio-input workshop); Iran-specific content is woven in throughout — export orders from Oman and Iraq blocked by US banking sanctions, the "resistance economy" (اقتصاد مقاومتی) as the answer to sanctions, and warnings against parking savings in gold coins, dollars, cars and housing instead of production.
 
-Searchable tags: government decision unit, taxation direct indirect, public services revenue, ethiopia, social studies, microeconomics, vietnam, iran, india
+Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
+
+Searchable tags: government decision unit, taxation direct indirect, public services revenue, ethiopia, social studies, microeconomics, vietnam, iran, india, greece
 
 ## Teacher-guide evidence added (Wave 4, Band F)
 

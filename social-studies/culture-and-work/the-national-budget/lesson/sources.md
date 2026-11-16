@@ -1,6 +1,6 @@
 # Sources — The National Budget
 
-countries: Rwanda, Uganda, Bahamas, Uzbekistan, Vietnam, Indonesia, Nepal, Iran, Nigeria
+countries: Rwanda, Uganda, Bahamas, Uzbekistan, Vietnam, Indonesia, Nepal, Iran, Nigeria, Greece
 
 **Book 1:** *Social Studies for Rwanda Schools — Primary 6, Teacher's Book, Revised Edition 2019* (teacher guide, English) — Rwanda, Rwanda Education Board (REB); year ©2019, Revised Edition 2019; ISBN no ISBN printed. Title as printed: Social Studies for Rwanda Schools — Primary 6, Teacher's Book, Revised Edition 2019. Grade: Grade 6 (Primary 6) (student/teacher: TEACHER). PDF pages: 137 (cover/title page verified against the record title; PDF page count is lower than the printed pagination, which runs to p. 244 with references — the PDF is a condensed-layout copy; read from the record's own edufeeds source URL after grab.py failed with GitHub API RemoteDisconnected). Verdict: COMPLETE (all 13 units' lesson lists and lesson developments read). Cited as teacher-guide evidence only, outside acceptance counts. Non-Geography parts named, not placed: Unit 2 Civics and governance — unity and co-operation, heroism, risky behaviour, citizenship, leadership and organs of government (Civics), printed pp. 12–68; Unit 3 Hygiene — puberty, menstrual hygiene, chronic diseases (Health), pp. 69–84; Unit 11 Post-independent Rwanda — First and Second Republics, Liberation 1990–1994 (History), pp. 191–203; Unit 12 The 1994 Genocide Against the Tutsi — causes, planning and execution, ideology, denial and prevention (History), pp. 204–220; Unit 13 Effects of foreigners in East Africa — explorers, missionaries, traders, colonialists (History), pp. 221–239. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/rwanda-placements.md.
 
@@ -90,7 +90,13 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Nigeria part — Chapter 11 — Budget — teaches: the government budget and sources of government revenue | Nigeria, *Nigeria Grade 11 New Economics SS2*, Chapter 11 — Budget — printed p. 142 |
 
-**Acceptance count: taught in 9 countries (Rwanda, Uganda, Bahamas, Uzbekistan, Vietnam, Indonesia, Nepal, Iran, Nigeria).**
+**Book 15:** *Arches Oikonomikis Theorias G12* (student book, Greek) — Ministry of Education / ITYE «Διόφαντος»; reissue printing file dated 2025; ISBN 978-960-06-2385-2. Title as printed: Αρχές Οικονομικής Θεωρίας — Μικροοικονομία Μακροοικονομία. Grade: Grade 12 (Γ' Γενικού Λυκείου, Economics & Informatics orientation) (student/teacher: STUDENT). PDF pages: 210 (cover/title page verified against the record title; byte size 4,109,900 = record size_bytes exactly, via the record's ebooks.edu.gr source URL after grab.py failed twice with RemoteDisconnected). Verdict: COMPLETE. Contents map: Economics parts pp. 9–202 (whole book); end-of-chapter questions pp. 25–27, 49–52, 73–78, 89–92, 104–108, 129–132, 144–150, 159–162, 172–176, 184–186, 197–202 (assessment, named not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/greece-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch.10 §4 The state budget — teaches: the annual state budget, its revenue and spending sides | Greece, *Greece Grade 12 Arches Oikonomikis Theorias*, Ch.10 §4 The state budget — printed p. 182 |
+
+**Acceptance count: taught in 10 countries (Rwanda, Uganda, Bahamas, Uzbekistan, Vietnam, Indonesia, Nepal, Iran, Nigeria, Greece).**
 
 Nigeria's own way (Nigeria Grade 11 New Economics SS2): SS2 pairs every theory block with its Nigerian application in the same theme — wage policy and trade unions, agricultural policy and marketing, revenue allocation in the federation, the Nigerian Stock Exchange and inflation in Nigeria.
 
@@ -116,4 +122,6 @@ Uganda's own way (Uganda Primary 5 Excel Standard Social Studies): the national 
 
 Iran's own way (Iran Grade 8 Social Studies): cooperation is taught as an economic form, not only a virtue — the cooperative company with one member one vote, and the centuries-old waqf endowment whose farm and workshop income is directed to the needy.
 
-Searchable tags: the national budget, Rwanda, social studies, culture-and-work, uganda, national budget, surplus balanced deficit, ministry of finance, financial year, bahamas, uzbekistan, vietnam, indonesia, nepal, iran, nigeria
+Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
+
+Searchable tags: the national budget, Rwanda, social studies, culture-and-work, uganda, national budget, surplus balanced deficit, ministry of finance, financial year, bahamas, uzbekistan, vietnam, indonesia, nepal, iran, nigeria, greece

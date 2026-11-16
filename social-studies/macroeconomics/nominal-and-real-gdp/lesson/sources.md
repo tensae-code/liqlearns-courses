@@ -1,6 +1,6 @@
 # Sources — Nominal and real GDP
 
-countries: Ethiopia, Dominican Republic, Albania, Uzbekistan, Armenia
+countries: Ethiopia, Dominican Republic, Albania, Uzbekistan, Armenia, Greece
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -36,7 +36,13 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Armenia part — Economics expansion — 2.1 Rich and poor countries, GDP and economic growth: if the same quantities are produced two years running but prices rise, nominal GDP grows while real output does not (filed as macroeconomics/nominal-versus-real-gdp; stocked here as the closest existing lesson covering that thing, the original slug recorded in this row) | Armenia, *Armenia Grade 11 Social Science student*, 2.1 Rich and poor countries, GDP and economic growth — printed p. 51 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Dominican Republic, Uzbekistan, Armenia). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 6:** *Arches Oikonomikis Theorias G12* (student book, Greek) — Ministry of Education / ITYE «Διόφαντος»; reissue printing file dated 2025; ISBN 978-960-06-2385-2. Title as printed: Αρχές Οικονομικής Θεωρίας — Μικροοικονομία Μακροοικονομία. Grade: Grade 12 (Γ' Γενικού Λυκείου, Economics & Informatics orientation) (student/teacher: STUDENT). PDF pages: 210 (cover/title page verified against the record title; byte size 4,109,900 = record size_bytes exactly, via the record's ebooks.edu.gr source URL after grab.py failed twice with RemoteDisconnected). Verdict: COMPLETE. Contents map: Economics parts pp. 9–202 (whole book); end-of-chapter questions pp. 25–27, 49–52, 73–78, 89–92, 104–108, 129–132, 144–150, 159–162, 172–176, 184–186, 197–202 (assessment, named not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/greece-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch.7 §4 The effect of price changes on GDP — teaches: separating real output growth from price rises | Greece, *Greece Grade 12 Arches Oikonomikis Theorias*, Ch.7 §4 The effect of price changes on GDP — printed p. 135 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Dominican Republic, Uzbekistan, Armenia, Greece). Albania is teacher-guide evidence only — named here, counted nowhere.**
 
 Armenia's own way (Armenia Grade 11 Social Science student): Grade 11 macroeconomics is anchored in Armenian official statistics — learners compute with the Statistical Committee's data, meet the 425-item consumer basket Armenia uses for inflation, the Central Bank's 3% ±1 inflation target, and the Armenian-born Nobel laureate Daron Acemoglu's "Narrow Corridor" on institutions and prosperity.
 
@@ -44,4 +50,6 @@ Albania's own way (Albania Grade 12 Ekonomia 12 Teacher Guide): a full Grade 12 
 
 Dominican Republic's own way (Dominican Republic Grade 12 Ciencias Sociales 6° Secundaria): the school-leaving book ends with the national economy measured — GDP, openness, the balance of payments and per-capita income are all taught on Central Bank tables for 2010–2022, and the unit's own conclusion is critical: GDP per capita doubled while the average worker's income stagnated, so other sectors appropriated the increase.
 
-Searchable tags: nominal GDP current prices, real GDP base year prices, quantities only, base year equal, capital labour productivity, ethiopia, social studies, macroeconomics, dominican republic, albania, uzbekistan, armenia
+Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
+
+Searchable tags: nominal GDP current prices, real GDP base year prices, quantities only, base year equal, capital labour productivity, ethiopia, social studies, macroeconomics, dominican republic, albania, uzbekistan, armenia, greece

@@ -1,6 +1,6 @@
 # Sources — Stages of economic integration
 
-countries: Argentina, Ethiopia, Guatemala, South Sudan, Malaysia, Dominican Republic, Honduras, Indonesia, Nepal, Nicaragua, Colombia, Nigeria
+countries: Argentina, Ethiopia, Guatemala, South Sudan, Malaysia, Dominican Republic, Honduras, Indonesia, Nepal, Nicaragua, Colombia, Nigeria, Greece
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -92,7 +92,13 @@ South Sudan's own way (South Sudan Primary 7): the country's economy is told thr
 |---|---|
 | Nigeria part — Chapter 7 — Economic integration — teaches: stages of economic integration, with ECOWAS among the groupings | Nigeria, *Nigeria Grade 12 New Economics SS3*, Chapter 7 — Economic integration — printed p. 66 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Guatemala, South Sudan, Malaysia, Dominican Republic, Honduras, Indonesia, Nepal, Nicaragua, Colombia, Nigeria). Argentina is teacher-guide evidence only — named here, counted nowhere.**
+**Book 15:** *Arches Oikonomikis Theorias G12* (student book, Greek) — Ministry of Education / ITYE «Διόφαντος»; reissue printing file dated 2025; ISBN 978-960-06-2385-2. Title as printed: Αρχές Οικονομικής Θεωρίας — Μικροοικονομία Μακροοικονομία. Grade: Grade 12 (Γ' Γενικού Λυκείου, Economics & Informatics orientation) (student/teacher: STUDENT). PDF pages: 210 (cover/title page verified against the record title; byte size 4,109,900 = record size_bytes exactly, via the record's ebooks.edu.gr source URL after grab.py failed twice with RemoteDisconnected). Verdict: COMPLETE. Contents map: Economics parts pp. 9–202 (whole book); end-of-chapter questions pp. 25–27, 49–52, 73–78, 89–92, 104–108, 129–132, 144–150, 159–162, 172–176, 184–186, 197–202 (assessment, named not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/greece-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch.11 §6 The European Union — teaches: the EU as deep economic integration, Greece inside it | Greece, *Greece Grade 12 Arches Oikonomikis Theorias*, Ch.11 §6 The European Union — printed p. 192 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, Guatemala, South Sudan, Malaysia, Dominican Republic, Honduras, Indonesia, Nepal, Nicaragua, Colombia, Nigeria, Greece). Argentina is teacher-guide evidence only — named here, counted nowhere.**
 
 Nigeria's own way (Nigeria Grade 12 New Economics SS3): SS3 is Nigeria's national-economy story as a course — petroleum and NNPC/OPEC, planning and the Structural Adjustment Programme, NEEDS and Vision 2020, bank consolidation, privatisation and the anti-corruption agencies — with the Asian Tigers and Japan taught explicitly as lessons for Nigeria.
 
@@ -112,4 +118,6 @@ Honduras's own way (Honduras Grade 6 G6 Student CCSS): Grade 6 goes global — w
 
 Honduras's own way (Honduras Grade 8 G8 Student CCSS): Grade 8 teaches Latin America's development problem head-on — development vs underdevelopment, the integration ladder, and the debt lesson built around Honduras's own fiscal-deficit chart and the structural-adjustment era.
 
-Searchable tags: stages of economic integration, ethiopia, argentina, mercosur, teacher guide evidence, guatemala, mercomún, TLC, free trade treaties, social studies, macroeconomics, south sudan, malaysia, dominican republic, DR-CAFTA, honduras, indonesia, nepal, nicaragua, colombia, nigeria
+Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
+
+Searchable tags: stages of economic integration, ethiopia, argentina, mercosur, teacher guide evidence, guatemala, mercomún, TLC, free trade treaties, social studies, macroeconomics, south sudan, malaysia, dominican republic, DR-CAFTA, honduras, indonesia, nepal, nicaragua, colombia, nigeria, greece

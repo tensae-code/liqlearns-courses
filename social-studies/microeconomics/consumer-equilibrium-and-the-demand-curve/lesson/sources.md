@@ -1,6 +1,6 @@
 # Sources — Consumer equilibrium and the demand curve
 
-countries: Ethiopia, United States, Pakistan, Nigeria
+countries: Ethiopia, United States, Pakistan, Nigeria, Greece
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -28,7 +28,13 @@ countries: Ethiopia, United States, Pakistan, Nigeria
 |---|---|
 | Nigeria part — Chapter 6 — Derivation of demand curve from utility theory — teaches: deriving the demand curve from utility theory | Nigeria, *Nigeria Grade 11 New Economics SS2*, Chapter 6 — Derivation of demand curve from utility theory — printed p. 79 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, United States, Pakistan, Nigeria).**
+**Book 5:** *Arches Oikonomikis Theorias G12* (student book, Greek) — Ministry of Education / ITYE «Διόφαντος»; reissue printing file dated 2025; ISBN 978-960-06-2385-2. Title as printed: Αρχές Οικονομικής Θεωρίας — Μικροοικονομία Μακροοικονομία. Grade: Grade 12 (Γ' Γενικού Λυκείου, Economics & Informatics orientation) (student/teacher: STUDENT). PDF pages: 210 (cover/title page verified against the record title; byte size 4,109,900 = record size_bytes exactly, via the record's ebooks.edu.gr source URL after grab.py failed twice with RemoteDisconnected). Verdict: COMPLETE. Contents map: Economics parts pp. 9–202 (whole book); end-of-chapter questions pp. 25–27, 49–52, 73–78, 89–92, 104–108, 129–132, 144–150, 159–162, 172–176, 184–186, 197–202 (assessment, named not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/greece-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch.2 §2 Consumer behaviour — teaches: the rational consumer in equilibrium when income is allocated to maximise utility | Greece, *Greece Grade 12 Arches Oikonomikis Theorias*, Ch.2 §2 Consumer behaviour — printed p. 29 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, United States, Pakistan, Nigeria, Greece).**
 
 Nigeria's own way (Nigeria Grade 11 New Economics SS2): SS2 pairs every theory block with its Nigerian application in the same theme — wage policy and trade unions, agricultural policy and marketing, revenue allocation in the federation, the Nigerian Stock Exchange and inflation in Nigeria.
 
@@ -37,4 +43,6 @@ Pakistan's own way (Pakistan Grade 11 Economics Class 11): a full Urdu-medium mi
 
 United States' own way (United States Grade 12 Principles of Microeconomics for AP® Courses 2e): an AP®-framed American university text — every model is run on US data and institutions (Bureau of Labor Statistics spending data, FRED series, US antitrust and environmental law, the US safety net, a US–Mexico trade worked example), dollars throughout, graph-first with a named four-step method for equilibrium changes.
 
-Searchable tags: consumer equilibrium, MU equals price, marginal utility per birr, demand curve derived, budget equation, bread injera birr 22, 40 utils, ethiopia, social studies, microeconomics, united states, pakistan, nigeria
+Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
+
+Searchable tags: consumer equilibrium, MU equals price, marginal utility per birr, demand curve derived, budget equation, bread injera birr 22, 40 utils, ethiopia, social studies, microeconomics, united states, pakistan, nigeria, greece

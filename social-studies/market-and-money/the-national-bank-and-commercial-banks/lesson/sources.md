@@ -1,6 +1,6 @@
 # Sources — The National Bank and commercial banks
 
-countries: Ethiopia, Saudi Arabia, Bahamas, Mongolia, Rwanda, Malaysia, Albania, Dominica, Uzbekistan, Egypt, Yemen, Armenia, Nicaragua, Iraq, Pakistan, Bolivia, Costa Rica
+countries: Ethiopia, Saudi Arabia, Bahamas, Mongolia, Rwanda, Malaysia, Albania, Dominica, Uzbekistan, Egypt, Yemen, Armenia, Nicaragua, Iraq, Pakistan, Bolivia, Costa Rica, Greece
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -125,7 +125,13 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 | Costa Rica part — Las acciones de González Flores — teaches: in 1914 President González Flores created the Banco Internacional de Costa Rica (today the Banco Nacional), the country's first state bank, to regulate financial and monetary activity when every bank was private, fight interest rates, lend cheaply to small and medium producers and help control the exchange rate against excessive inflation | Costa Rica, *Estudios Sociales 11, Porras y Gamboa*, Grade 11 — printed p. 65 |
 | Costa Rica part — Banca estatal en el desarrollo de Costa Rica (1950–1980) — teaches: nationalising the banks from 1949 gave the state the tool to organise the national economy — the banks lent to the new industries and to small and medium entrepreneurs, and the book lists the effects: it democratised credit, laid the foundations of economic progress, enabled access to capital for diversifying production, extended social services to the poor, guaranteed the public's deposits and brought new social sectors into production | Costa Rica, *Estudios Sociales 11, Porras y Gamboa*, Grade 11 — printed p. 110 |
 
-**Acceptance count: taught in 16 countries (Ethiopia, Saudi Arabia, Bahamas, Mongolia, Rwanda, Malaysia, Dominica, Uzbekistan, Egypt, Yemen, Armenia, Nicaragua, Iraq, Pakistan, Bolivia, Costa Rica). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 21:** *Arches Oikonomikis Theorias G12* (student book, Greek) — Ministry of Education / ITYE «Διόφαντος»; reissue printing file dated 2025; ISBN 978-960-06-2385-2. Title as printed: Αρχές Οικονομικής Θεωρίας — Μικροοικονομία Μακροοικονομία. Grade: Grade 12 (Γ' Γενικού Λυκείου, Economics & Informatics orientation) (student/teacher: STUDENT). PDF pages: 210 (cover/title page verified against the record title; byte size 4,109,900 = record size_bytes exactly, via the record's ebooks.edu.gr source URL after grab.py failed twice with RemoteDisconnected). Verdict: COMPLETE. Contents map: Economics parts pp. 9–202 (whole book); end-of-chapter questions pp. 25–27, 49–52, 73–78, 89–92, 104–108, 129–132, 144–150, 159–162, 172–176, 184–186, 197–202 (assessment, named not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/greece-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch.8 §4 The banking system — teaches: the central bank and commercial banks as one system | Greece, *Greece Grade 12 Arches Oikonomikis Theorias*, Ch.8 §4 The banking system — printed p. 153 |
+
+**Acceptance count: taught in 17 countries (Ethiopia, Saudi Arabia, Bahamas, Mongolia, Rwanda, Malaysia, Dominica, Uzbekistan, Egypt, Yemen, Armenia, Nicaragua, Iraq, Pakistan, Bolivia, Costa Rica, Greece). Albania is teacher-guide evidence only — named here, counted nowhere.**
 
 Costa Rica's own way (Estudios Sociales 11, Porras y Gamboa): a commercial textbook built on the same national programme as the CONED anthology but with far more economic detail — full PAE I/II/III measure lists, the CAT export-certificate fraud, state banking's six effects, and Costa Rica's services/call-centre economy measured against the region.
 
@@ -156,7 +162,9 @@ Malaysia's own way (Malaysia Grade 10 Ekonomi Tingkatan 4): a full KSSM economic
 
 Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
 
-Searchable tags: national bank of ethiopia roles, commercial bank of ethiopia services, development bank of ethiopia, issuing currency, price stability, ethiopia, saudi arabia, central bank, commercial banks, current and savings accounts, riyal, social studies, market and money, bahamas, mongolia, central bank, commercial banks, deposits loans payments, rwanda, malaysia, albania, dominica, csec principles of business, caribbean, uzbekistan, egypt, yemen, armenia, nicaragua, iraq, pakistan, bolivia
+Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
+
+Searchable tags: national bank of ethiopia roles, commercial bank of ethiopia services, development bank of ethiopia, issuing currency, price stability, ethiopia, saudi arabia, central bank, commercial banks, current and savings accounts, riyal, social studies, market and money, bahamas, mongolia, central bank, commercial banks, deposits loans payments, rwanda, malaysia, albania, dominica, csec principles of business, caribbean, uzbekistan, egypt, yemen, armenia, nicaragua, iraq, pakistan, bolivia, greece
 
 ## Teacher-guide evidence added (Wave 4, Band F)
 

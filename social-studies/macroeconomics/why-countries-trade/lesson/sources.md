@@ -1,6 +1,6 @@
 # Sources — Why countries trade
 
-countries: Ethiopia, Saudi Arabia, South Sudan, Malaysia, Palestine, Dominica, Jordan, Honduras, Fiji, Indonesia, Nicaragua, Iran, Iraq, Pakistan, Nigeria
+countries: Ethiopia, Saudi Arabia, South Sudan, Malaysia, Palestine, Dominica, Jordan, Honduras, Fiji, Indonesia, Nicaragua, Iran, Iraq, Pakistan, Nigeria, Greece
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -116,7 +116,13 @@ Palestine's own way: Economics enters through the land itself — natural resour
 |---|---|
 | Nigeria part — Chapter 7 — International trade — teaches: domestic trade against international trade and why countries trade | Nigeria, *Nigeria Grade 12 New Economics SS3*, Chapter 7 — International trade — printed p. 58 |
 
-**Acceptance count: taught in 15 countries (Ethiopia, Saudi Arabia, South Sudan, Malaysia, Palestine, Dominica, Jordan, Honduras, Fiji, Indonesia, Nicaragua, Iran, Iraq, Pakistan, Nigeria).**
+**Book 19:** *Arches Oikonomikis Theorias G12* (student book, Greek) — Ministry of Education / ITYE «Διόφαντος»; reissue printing file dated 2025; ISBN 978-960-06-2385-2. Title as printed: Αρχές Οικονομικής Θεωρίας — Μικροοικονομία Μακροοικονομία. Grade: Grade 12 (Γ' Γενικού Λυκείου, Economics & Informatics orientation) (student/teacher: STUDENT). PDF pages: 210 (cover/title page verified against the record title; byte size 4,109,900 = record size_bytes exactly, via the record's ebooks.edu.gr source URL after grab.py failed twice with RemoteDisconnected). Verdict: COMPLETE. Contents map: Economics parts pp. 9–202 (whole book); end-of-chapter questions pp. 25–27, 49–52, 73–78, 89–92, 104–108, 129–132, 144–150, 159–162, 172–176, 184–186, 197–202 (assessment, named not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/greece-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch.11 §2 Internationalisation of the economy — teaches: why economies open to international exchange | Greece, *Greece Grade 12 Arches Oikonomikis Theorias*, Ch.11 §2 Internationalisation of the economy — printed p. 187 |
+
+**Acceptance count: taught in 16 countries (Ethiopia, Saudi Arabia, South Sudan, Malaysia, Palestine, Dominica, Jordan, Honduras, Fiji, Indonesia, Nicaragua, Iran, Iraq, Pakistan, Nigeria, Greece).**
 
 Nigeria's own way (Nigeria Grade 12 New Economics SS3): SS3 is Nigeria's national-economy story as a course — petroleum and NNPC/OPEC, planning and the Structural Adjustment Programme, NEEDS and Vision 2020, bank consolidation, privatisation and the anti-corruption agencies — with the Asian Tigers and Japan taught explicitly as lessons for Nigeria.
 
@@ -147,4 +153,6 @@ Honduras's own way (Honduras Grade 5 G5 Student CCSS): Grade 5 turns outward to 
 
 Iran's own way (Iran Grade 10 Economics): the whole book is taught through one running family story (the Mohammadi family and their bio-input workshop); Iran-specific content is woven in throughout — export orders from Oman and Iraq blocked by US banking sanctions, the "resistance economy" (اقتصاد مقاومتی) as the answer to sanctions, and warnings against parking savings in gold coins, dollars, cars and housing instead of production.
 
-Searchable tags: why countries trade, ethiopia, saudi arabia, oil derivatives dates exports, electronics cars imports, social studies, macroeconomics, south sudan, malaysia, palestine, dominica, csec principles of business, caribbean, jordan, honduras, Fiji, indonesia, nicaragua, iran, iraq, pakistan, nigeria
+Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
+
+Searchable tags: why countries trade, ethiopia, saudi arabia, oil derivatives dates exports, electronics cars imports, social studies, macroeconomics, south sudan, malaysia, palestine, dominica, csec principles of business, caribbean, jordan, honduras, Fiji, indonesia, nicaragua, iran, iraq, pakistan, nigeria, greece

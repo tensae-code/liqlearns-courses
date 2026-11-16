@@ -1,6 +1,6 @@
 # Sources — Cost per unit — ATC, AFC, AVC and marginal cost
 
-countries: Ethiopia, Ecuador, Albania, Uzbekistan, Fiji, Iraq, United States, Pakistan, Nigeria
+countries: Ethiopia, Ecuador, Albania, Uzbekistan, Fiji, Iraq, United States, Pakistan, Nigeria, Greece
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 **Book 2:** *Economics, Teacher Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed (M.Sc.), Tadesse Ababu (M.Sc.). Editors: Mesfin Ketema (M.Sc., Content Editor), Enguday Ademe (Ph.D., Curriculum Editor), Birhanu Engidaw (Ph.D., Language Editor). Illustrator: Endalkachew Mengesha (M.Sc.). Designer: Derejaw Lake (M.Sc.). The Evaluators line on the title page is left blank. Copyright page reads "First Published xxxxx 2022" under GEQIP-E; printer, contract number and ISBN are all printed as placeholders. Printed page = PDF page - 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-teacher-placements.md
@@ -63,7 +63,13 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Nigeria part — Chapter 4 — Cost and production — teaches: cost curves and how marginal cost and average cost are related | Nigeria, *Nigeria Grade 11 New Economics SS2*, Chapter 4 — Cost and production — printed p. 40 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Ecuador, Uzbekistan, Fiji, Iraq, United States, Pakistan, Nigeria). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 11:** *Arches Oikonomikis Theorias G12* (student book, Greek) — Ministry of Education / ITYE «Διόφαντος»; reissue printing file dated 2025; ISBN 978-960-06-2385-2. Title as printed: Αρχές Οικονομικής Θεωρίας — Μικροοικονομία Μακροοικονομία. Grade: Grade 12 (Γ' Γενικού Λυκείου, Economics & Informatics orientation) (student/teacher: STUDENT). PDF pages: 210 (cover/title page verified against the record title; byte size 4,109,900 = record size_bytes exactly, via the record's ebooks.edu.gr source URL after grab.py failed twice with RemoteDisconnected). Verdict: COMPLETE. Contents map: Economics parts pp. 9–202 (whole book); end-of-chapter questions pp. 25–27, 49–52, 73–78, 89–92, 104–108, 129–132, 144–150, 159–162, 172–176, 184–186, 197–202 (assessment, named not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/greece-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch.3 Cost §3 Average cost — teaches: average total, fixed and variable cost per unit | Greece, *Greece Grade 12 Arches Oikonomikis Theorias*, Ch.3 Cost §3 Average cost — printed p. 62 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Ecuador, Uzbekistan, Fiji, Iraq, United States, Pakistan, Nigeria, Greece). Albania is teacher-guide evidence only — named here, counted nowhere.**
 
 Nigeria's own way (Nigeria Grade 11 New Economics SS2): SS2 pairs every theory block with its Nigerian application in the same theme — wage policy and trade unions, agricultural policy and marketing, revenue allocation in the federation, the Nigerian Stock Exchange and inflation in Nigeria.
 
@@ -84,4 +90,6 @@ Pairing note carried from the placements: the student textbook is the finished 2
 
 Ecuador's own way (Ecuador Grade 13 Emprendimiento y Gestión): Economics enters the entrepreneurship course through the family and the small venture — costs are worked through a school-desk factory costed month by month in dollars, and every unit closes with a financial-education section that takes the same tools home to the family budget and the family's debts. The unit cost is built differently for each kind of firm — industrial, commercial, services and agricultural each count their own components.
 
-Searchable tags: ATC AFC AVC marginal cost, cost per unit formulas, MC minimum points, ethiopia, ecuador, unit cost, social studies, microeconomics, albania, uzbekistan, Fiji, iraq, united states, pakistan, nigeria
+Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
+
+Searchable tags: ATC AFC AVC marginal cost, cost per unit formulas, MC minimum points, ethiopia, ecuador, unit cost, social studies, microeconomics, albania, uzbekistan, Fiji, iraq, united states, pakistan, nigeria, greece

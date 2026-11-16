@@ -1,6 +1,6 @@
 # Sources — Scarcity — wants without end, resources with limits
 
-countries: Ethiopia, Mongolia, Malaysia, Bangladesh, Egypt, Yemen, Fiji, Iraq, United States, Pakistan, Nigeria
+countries: Ethiopia, Mongolia, Malaysia, Bangladesh, Egypt, Yemen, Fiji, Iraq, United States, Pakistan, Nigeria, Greece
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -75,7 +75,19 @@ Bangladesh's own way (Bangladesh Grade 8 History and Social Science): Class 8 tu
 |---|---|
 | Nigeria part — Chapter 1 — Basic concepts of economics — teaches: wants, scarcity, scale of preference and choice as the basic concepts | Nigeria, *Nigeria Grade 10 New Economics SS1*, Chapter 1 — Basic concepts of economics — printed p. 2 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Mongolia, Malaysia, Bangladesh, Egypt, Yemen, Fiji, Iraq, United States, Pakistan, Nigeria).**
+**Book 13:** *Arches Oikonomikis Theorias G12* (student book, Greek) — Ministry of Education / ITYE «Διόφαντος»; reissue printing file dated 2025; ISBN 978-960-06-2385-2. Title as printed: Αρχές Οικονομικής Θεωρίας — Μικροοικονομία Μακροοικονομία. Grade: Grade 12 (Γ' Γενικού Λυκείου, Economics & Informatics orientation) (student/teacher: STUDENT). PDF pages: 210 (cover/title page verified against the record title; byte size 4,109,900 = record size_bytes exactly, via the record's ebooks.edu.gr source URL after grab.py failed twice with RemoteDisconnected). Verdict: COMPLETE. Contents map: Economics parts pp. 9–202 (whole book); end-of-chapter questions pp. 25–27, 49–52, 73–78, 89–92, 104–108, 129–132, 144–150, 159–162, 172–176, 184–186, 197–202 (assessment, named not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/greece-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch.1 §3 The needs — teaches: needs, how they multiply and are shaped by habit, fashion and advertising | Greece, *Greece Grade 12 Arches Oikonomikis Theorias*, Ch.1 §3 The needs — printed p. 10 |
+
+**Book 14:** *Oikonomika G9* (student book, Greek) — Ministry of Education / IEP / ITYE «Διόφαντος», Greek edition 2024 (adapted from the Cyprus Pedagogical Institute's «Οικονομικά Α' Λυκείου», 2020); ISBN 978-960-06-6509-3. Title as printed: Οικονομικά Γ΄ Γυμνασίου. Grade: Grade 9 (Γ' Γυμνασίου) (student/teacher: STUDENT). PDF pages: 98 (cover/title page verified against the record title; byte size 5,594,876 = record size_bytes exactly, via the record's ebooks.edu.gr source URL after grab.py failed with RemoteDisconnected). Verdict: COMPLETE. Contents map: Economics parts pp. 7–92 (whole book); chapter questions/worksheets after each chapter (assessment, named not placed); bibliography p. 93 (inventory only). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/greece-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — 1.2 Needs — teaches: natural and social needs and their endless growth | Greece, *Greece Grade 9 Oikonomika*, 1.2 Needs — printed p. 10 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, Mongolia, Malaysia, Bangladesh, Egypt, Yemen, Fiji, Iraq, United States, Pakistan, Nigeria, Greece).**
 
 Nigeria's own way (Nigeria Grade 10 New Economics SS1): SS1 builds the whole subject from Nigerian daily life — naira prices, markets, banks and sectors — before any formal theory, and gives Nigeria's own economy, agriculture in West Africa and Nigerian banking a full chapter each.
 
@@ -100,4 +112,8 @@ Malaysia's own way (Malaysia Grade 10 Ekonomi Tingkatan 4): a full KSSM economic
 
 Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
 
-Searchable tags: scarcity shortage, unlimited wants finite resources, zero price test, ethiopia, social studies, microeconomics, mongolia, unlimited needs limited resources, tögrög, malaysia, bangladesh, egypt, yemen, Fiji, iraq, united states, pakistan, nigeria
+Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
+
+Greece's own way (Greece Grade 9 Oikonomika): a workbook-style first economics course adapted from Cyprus, built around fill-in worksheets and Greek data — the labour-force shift table is Greece's own movement from farms to services.
+
+Searchable tags: scarcity shortage, unlimited wants finite resources, zero price test, ethiopia, social studies, microeconomics, mongolia, unlimited needs limited resources, tögrög, malaysia, bangladesh, egypt, yemen, Fiji, iraq, united states, pakistan, nigeria, greece

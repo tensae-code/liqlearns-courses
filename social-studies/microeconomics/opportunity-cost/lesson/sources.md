@@ -1,6 +1,6 @@
 # Sources — Opportunity cost — the next best thing you gave up
 
-countries: Ethiopia, Belarus, France, Malaysia, Albania, Bangladesh, Egypt, Yemen, Fiji, Armenia, Bulgaria, Iran, United States, Nigeria
+countries: Ethiopia, Belarus, France, Malaysia, Albania, Bangladesh, Egypt, Yemen, Fiji, Armenia, Bulgaria, Iran, United States, Nigeria, Greece
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 **Book 2:** *Economics, Teacher Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed (M.Sc.), Tadesse Ababu (M.Sc.). Editors: Mesfin Ketema (M.Sc., Content Editor), Enguday Ademe (Ph.D., Curriculum Editor), Birhanu Engidaw (Ph.D., Language Editor). Illustrator: Endalkachew Mengesha (M.Sc.). Designer: Derejaw Lake (M.Sc.). The Evaluators line on the title page is left blank. Copyright page reads "First Published xxxxx 2022" under GEQIP-E; printer, contract number and ISBN are all printed as placeholders. Printed page = PDF page - 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-teacher-placements.md
@@ -107,7 +107,13 @@ Bangladesh's own way (Bangladesh Grade 9 History and Social Science): Class 9 te
 |---|---|
 | Nigeria part — Chapter 1 — Opportunity cost and its relevance — teaches: opportunity cost, alternative uses of resources and why the concept matters | Nigeria, *Nigeria Grade 10 New Economics SS1*, Chapter 1 — Opportunity cost and its relevance — printed p. 4 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Belarus, France, Malaysia, Bangladesh, Egypt, Yemen, Fiji, Armenia, Bulgaria, Iran, United States, Nigeria). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 18:** *Oikonomika G9* (student book, Greek) — Ministry of Education / IEP / ITYE «Διόφαντος», Greek edition 2024 (adapted from the Cyprus Pedagogical Institute's «Οικονομικά Α' Λυκείου», 2020); ISBN 978-960-06-6509-3. Title as printed: Οικονομικά Γ΄ Γυμνασίου. Grade: Grade 9 (Γ' Γυμνασίου) (student/teacher: STUDENT). PDF pages: 98 (cover/title page verified against the record title; byte size 5,594,876 = record size_bytes exactly, via the record's ebooks.edu.gr source URL after grab.py failed with RemoteDisconnected). Verdict: COMPLETE. Contents map: Economics parts pp. 7–92 (whole book); chapter questions/worksheets after each chapter (assessment, named not placed); bibliography p. 93 (inventory only). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/greece-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — 1.4 Choice and opportunity cost — teaches: every choice costs the best alternative given up | Greece, *Greece Grade 9 Oikonomika*, 1.4 Choice and opportunity cost — printed p. 14 |
+
+**Acceptance count: taught in 14 countries (Ethiopia, Belarus, France, Malaysia, Bangladesh, Egypt, Yemen, Fiji, Armenia, Bulgaria, Iran, United States, Nigeria, Greece). Albania is teacher-guide evidence only — named here, counted nowhere.**
 
 Nigeria's own way (Nigeria Grade 10 New Economics SS1): SS1 builds the whole subject from Nigerian daily life — naira prices, markets, banks and sectors — before any formal theory, and gives Nigeria's own economy, agriculture in West Africa and Nigerian banking a full chapter each.
 
@@ -138,4 +144,6 @@ Bulgaria's own way (Bulgaria Grade 6 Technology and Entrepreneurship): Grade 6 p
 
 Iran's own way (Iran Grade 10 Economics): the whole book is taught through one running family story (the Mohammadi family and their bio-input workshop); Iran-specific content is woven in throughout — export orders from Oman and Iraq blocked by US banking sanctions, the "resistance economy" (اقتصاد مقاومتی) as the answer to sanctions, and warnings against parking savings in gold coins, dollars, cars and housing instead of production.
 
-Searchable tags: opportunity cost, next best alternative, production possibility calculation, ethiopia, belarus, price of choice, rational consumer, france, ses, cout d'opportunite, social studies, microeconomics, malaysia, albania, bangladesh, egypt, yemen, Fiji, armenia, bulgaria, iran, united states, nigeria
+Greece's own way (Greece Grade 9 Oikonomika): a workbook-style first economics course adapted from Cyprus, built around fill-in worksheets and Greek data — the labour-force shift table is Greece's own movement from farms to services.
+
+Searchable tags: opportunity cost, next best alternative, production possibility calculation, ethiopia, belarus, price of choice, rational consumer, france, ses, cout d'opportunite, social studies, microeconomics, malaysia, albania, bangladesh, egypt, yemen, Fiji, armenia, bulgaria, iran, united states, nigeria, greece

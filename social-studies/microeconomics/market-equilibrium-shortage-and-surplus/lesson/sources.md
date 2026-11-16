@@ -1,6 +1,6 @@
 # Sources — Market equilibrium — shortage and surplus
 
-countries: Ethiopia, Kazakhstan, Bangladesh, Yemen, Armenia, Bulgaria, Iraq, United States
+countries: Ethiopia, Kazakhstan, Bangladesh, Yemen, Armenia, Bulgaria, Iraq, United States, Greece
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -68,7 +68,19 @@ Bangladesh's own way (Bangladesh Grade 9 History and Social Science): Class 9 te
 |---|---|
 | United States part — 3.3 Changes in Equilibrium Price and Quantity: The Four-Step Process — teaches: the book's four-step process for working out a new equilibrium after an event shifts demand or supply, and shifts versus movements along a curve | United States, *United States Grade 12 Principles of Microeconomics for AP® Courses 2e*, 3.3 Changes in Equilibrium Price and Quantity: The Four-Step Process — printed p. 61 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Kazakhstan, Bangladesh, Yemen, Armenia, Bulgaria, Iraq, United States).**
+**Book 11:** *Arches Oikonomikis Theorias G12* (student book, Greek) — Ministry of Education / ITYE «Διόφαντος»; reissue printing file dated 2025; ISBN 978-960-06-2385-2. Title as printed: Αρχές Οικονομικής Θεωρίας — Μικροοικονομία Μακροοικονομία. Grade: Grade 12 (Γ' Γενικού Λυκείου, Economics & Informatics orientation) (student/teacher: STUDENT). PDF pages: 210 (cover/title page verified against the record title; byte size 4,109,900 = record size_bytes exactly, via the record's ebooks.edu.gr source URL after grab.py failed twice with RemoteDisconnected). Verdict: COMPLETE. Contents map: Economics parts pp. 9–202 (whole book); end-of-chapter questions pp. 25–27, 49–52, 73–78, 89–92, 104–108, 129–132, 144–150, 159–162, 172–176, 184–186, 197–202 (assessment, named not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/greece-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch.5 §4 Changes in equilibrium price and quantity — teaches: how shifts move equilibrium, and shortage/surplus away from it | Greece, *Greece Grade 12 Arches Oikonomikis Theorias*, Ch.5 §4 Changes in equilibrium price and quantity — printed p. 96 |
+
+**Book 12:** *Oikonomika G9* (student book, Greek) — Ministry of Education / IEP / ITYE «Διόφαντος», Greek edition 2024 (adapted from the Cyprus Pedagogical Institute's «Οικονομικά Α' Λυκείου», 2020); ISBN 978-960-06-6509-3. Title as printed: Οικονομικά Γ΄ Γυμνασίου. Grade: Grade 9 (Γ' Γυμνασίου) (student/teacher: STUDENT). PDF pages: 98 (cover/title page verified against the record title; byte size 5,594,876 = record size_bytes exactly, via the record's ebooks.edu.gr source URL after grab.py failed with RemoteDisconnected). Verdict: COMPLETE. Contents map: Economics parts pp. 7–92 (whole book); chapter questions/worksheets after each chapter (assessment, named not placed); bibliography p. 93 (inventory only). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/greece-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — 4.3 Price formation — teaches: shortage below and surplus above the equilibrium price in the same worked table | Greece, *Greece Grade 9 Oikonomika*, 4.3 Price formation — printed p. 67 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Kazakhstan, Bangladesh, Yemen, Armenia, Bulgaria, Iraq, United States, Greece).**
 
 United States' own way (United States Grade 12 Principles of Microeconomics for AP® Courses 2e): an AP®-framed American university text — every model is run on US data and institutions (Bureau of Labor Statistics spending data, FRED series, US antitrust and environmental law, the US safety net, a US–Mexico trade worked example), dollars throughout, graph-first with a named four-step method for equilibrium changes.
 
@@ -87,4 +99,8 @@ Bulgaria's own way (Bulgaria Grade 5 Technology and Entrepreneurship): from Grad
 
 Bulgaria's own way (Bulgaria Grade 6 Technology and Entrepreneurship): Grade 6 prices a product the Bulgarian way — cost price (себестойност) built from direct and indirect costs, a calculation (калкулация) that adds the planned profit, and an "alternative price" for the road not taken.
 
-Searchable tags: market equilibrium, shortage surplus, excess demand excess supply, shirts birr 20, price adjustment, ethiopia, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics, bangladesh, yemen, armenia, bulgaria, iraq, united states
+Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
+
+Greece's own way (Greece Grade 9 Oikonomika): a workbook-style first economics course adapted from Cyprus, built around fill-in worksheets and Greek data — the labour-force shift table is Greece's own movement from farms to services.
+
+Searchable tags: market equilibrium, shortage surplus, excess demand excess supply, shirts birr 20, price adjustment, ethiopia, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics, bangladesh, yemen, armenia, bulgaria, iraq, united states, greece

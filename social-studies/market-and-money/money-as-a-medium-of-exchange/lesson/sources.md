@@ -1,6 +1,6 @@
 # Sources — Money as a medium of exchange
 
-countries: Ethiopia, Dominica, Jordan, Yemen, Nicaragua, Iran, Nigeria
+countries: Ethiopia, Dominica, Jordan, Yemen, Nicaragua, Iran, Nigeria, Greece
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -47,7 +47,13 @@ countries: Ethiopia, Dominica, Jordan, Yemen, Nicaragua, Iran, Nigeria
 |---|---|
 | Nigeria part — Chapter 11 — Functions of money — teaches: money as medium of exchange, measure of value, store of value and standard of deferred payment | Nigeria, *Nigeria Grade 10 New Economics SS1*, Chapter 11 — Functions of money — printed p. 142 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Dominica, Jordan, Yemen, Nicaragua, Iran, Nigeria).**
+**Book 8:** *Arches Oikonomikis Theorias G12* (student book, Greek) — Ministry of Education / ITYE «Διόφαντος»; reissue printing file dated 2025; ISBN 978-960-06-2385-2. Title as printed: Αρχές Οικονομικής Θεωρίας — Μικροοικονομία Μακροοικονομία. Grade: Grade 12 (Γ' Γενικού Λυκείου, Economics & Informatics orientation) (student/teacher: STUDENT). PDF pages: 210 (cover/title page verified against the record title; byte size 4,109,900 = record size_bytes exactly, via the record's ebooks.edu.gr source URL after grab.py failed twice with RemoteDisconnected). Verdict: COMPLETE. Contents map: Economics parts pp. 9–202 (whole book); end-of-chapter questions pp. 25–27, 49–52, 73–78, 89–92, 104–108, 129–132, 144–150, 159–162, 172–176, 184–186, 197–202 (assessment, named not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/greece-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch.8 §2 Functions of money — teaches: medium of exchange and measure of value functions | Greece, *Greece Grade 12 Arches Oikonomikis Theorias*, Ch.8 §2 Functions of money — printed p. 152 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Dominica, Jordan, Yemen, Nicaragua, Iran, Nigeria, Greece).**
 
 Nigeria's own way (Nigeria Grade 10 New Economics SS1): SS1 builds the whole subject from Nigerian daily life — naira prices, markets, banks and sectors — before any formal theory, and gives Nigeria's own economy, agriculture in West Africa and Nigerian banking a full chapter each.
 
@@ -63,4 +69,6 @@ Jordan's own way (Jordan Grade 2 Term 2): A whole early-years Economics unit bui
 
 Iran's own way (Iran Grade 7 Social Studies): production and consumption are taught with Iranian anchors throughout — the historic bazaar as market and social centre, compulsory third-party car insurance, and the Silk Road crossing Iran as a bridge between East and West.
 
-Searchable tags: medium of exchange, transaction cost, specialisation division of labour, lubricant, ethiopia, social studies, market and money, dominica, csec principles of business, caribbean, jordan, yemen, nicaragua, iran, nigeria
+Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
+
+Searchable tags: medium of exchange, transaction cost, specialisation division of labour, lubricant, ethiopia, social studies, market and money, dominica, csec principles of business, caribbean, jordan, yemen, nicaragua, iran, nigeria, greece

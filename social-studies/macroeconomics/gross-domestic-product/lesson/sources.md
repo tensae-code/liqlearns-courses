@@ -1,6 +1,6 @@
 # Sources — Gross domestic product
 
-countries: Ethiopia, Dominican Republic, Albania, Cambodia, Bangladesh, Honduras, Armenia, United States, Pakistan, Nigeria
+countries: Ethiopia, Dominican Republic, Albania, Cambodia, Bangladesh, Honduras, Armenia, United States, Pakistan, Nigeria, Greece
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -67,7 +67,13 @@ Bangladesh's own way (Bangladesh Grade 7 History and Social Science): Class 7 bu
 |---|---|
 | Nigeria part — Chapter 12 — Major national income concepts — teaches: GDP, GNP and the other national income aggregates | Nigeria, *Nigeria Grade 11 New Economics SS2*, Chapter 12 — Major national income concepts — printed p. 154 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Dominican Republic, Cambodia, Bangladesh, Honduras, Armenia, United States, Pakistan, Nigeria). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 11:** *Oikonomika G9* (student book, Greek) — Ministry of Education / IEP / ITYE «Διόφαντος», Greek edition 2024 (adapted from the Cyprus Pedagogical Institute's «Οικονομικά Α' Λυκείου», 2020); ISBN 978-960-06-6509-3. Title as printed: Οικονομικά Γ΄ Γυμνασίου. Grade: Grade 9 (Γ' Γυμνασίου) (student/teacher: STUDENT). PDF pages: 98 (cover/title page verified against the record title; byte size 5,594,876 = record size_bytes exactly, via the record's ebooks.edu.gr source URL after grab.py failed with RemoteDisconnected). Verdict: COMPLETE. Contents map: Economics parts pp. 7–92 (whole book); chapter questions/worksheets after each chapter (assessment, named not placed); bibliography p. 93 (inventory only). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/greece-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — 5.2 Gross Domestic Product — teaches: GDP as the economy's total production measure | Greece, *Greece Grade 9 Oikonomika*, 5.2 Gross Domestic Product — printed p. 76 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Dominican Republic, Cambodia, Bangladesh, Honduras, Armenia, United States, Pakistan, Nigeria, Greece). Albania is teacher-guide evidence only — named here, counted nowhere.**
 
 Nigeria's own way (Nigeria Grade 11 New Economics SS2): SS2 pairs every theory block with its Nigerian application in the same theme — wage policy and trade unions, agricultural policy and marketing, revenue allocation in the federation, the Nigerian Stock Exchange and inflation in Nigeria.
 
@@ -86,4 +92,6 @@ Cambodia's own way (Cambodia Grade 11 Economics): a full academic course built a
 
 Honduras's own way (Honduras Grade 7 G7 Student CCSS): Grade 7 carries the set's first real Economics block — it starts from the community economy and the Banco Central's own activity classification, then builds Honduras's national story: sectors, formal/informal work (70.8% informal per INE), indicators, poverty, globalisation and the foreign lenders behind structural adjustment.
 
-Searchable tags: GDP, gross domestic product, market value final goods services, within borders, one year, income expenditure equal, ethiopia, social studies, macroeconomics, dominican republic, albania, cambodia, bangladesh, honduras, armenia, united states, pakistan, nigeria
+Greece's own way (Greece Grade 9 Oikonomika): a workbook-style first economics course adapted from Cyprus, built around fill-in worksheets and Greek data — the labour-force shift table is Greece's own movement from farms to services.
+
+Searchable tags: GDP, gross domestic product, market value final goods services, within borders, one year, income expenditure equal, ethiopia, social studies, macroeconomics, dominican republic, albania, cambodia, bangladesh, honduras, armenia, united states, pakistan, nigeria, greece

@@ -1,6 +1,6 @@
 # Sources — The balance of payments — a country's account with the world
 
-countries: Ethiopia, Malaysia, Dominican Republic, Albania, Egypt, Fiji, Indonesia, Pakistan, Costa Rica, Nigeria
+countries: Ethiopia, Malaysia, Dominican Republic, Albania, Egypt, Fiji, Indonesia, Pakistan, Costa Rica, Nigeria, Greece
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -73,7 +73,13 @@ countries: Ethiopia, Malaysia, Dominican Republic, Albania, Egypt, Fiji, Indones
 |---|---|
 | Nigeria part — Chapter 8 — Balance of payments — teaches: meaning and components of the balance of payments | Nigeria, *Nigeria Grade 12 New Economics SS3*, Chapter 8 — Balance of payments — printed p. 84 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Malaysia, Dominican Republic, Egypt, Fiji, Indonesia, Pakistan, Costa Rica, Nigeria). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 14:** *Arches Oikonomikis Theorias G12* (student book, Greek) — Ministry of Education / ITYE «Διόφαντος»; reissue printing file dated 2025; ISBN 978-960-06-2385-2. Title as printed: Αρχές Οικονομικής Θεωρίας — Μικροοικονομία Μακροοικονομία. Grade: Grade 12 (Γ' Γενικού Λυκείου, Economics & Informatics orientation) (student/teacher: STUDENT). PDF pages: 210 (cover/title page verified against the record title; byte size 4,109,900 = record size_bytes exactly, via the record's ebooks.edu.gr source URL after grab.py failed twice with RemoteDisconnected). Verdict: COMPLETE. Contents map: Economics parts pp. 9–202 (whole book); end-of-chapter questions pp. 25–27, 49–52, 73–78, 89–92, 104–108, 129–132, 144–150, 159–162, 172–176, 184–186, 197–202 (assessment, named not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/greece-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch.11 §5 The balance of payments — teaches: the record of a country's transactions with the rest of the world | Greece, *Greece Grade 12 Arches Oikonomikis Theorias*, Ch.11 §5 The balance of payments — printed p. 191 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Malaysia, Dominican Republic, Egypt, Fiji, Indonesia, Pakistan, Costa Rica, Nigeria, Greece). Albania is teacher-guide evidence only — named here, counted nowhere.**
 
 Nigeria's own way (Nigeria Grade 12 New Economics SS3): SS3 is Nigeria's national-economy story as a course — petroleum and NNPC/OPEC, planning and the Structural Adjustment Programme, NEEDS and Vision 2020, bank consolidation, privatisation and the anti-corruption agencies — with the Asian Tigers and Japan taught explicitly as lessons for Nigeria.
 
@@ -98,7 +104,9 @@ Malaysia's own way (Malaysia Grade 11 Ekonomi Tingkatan 5): Form 5 turns to the 
 
 Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics course in six chapters, ending at home — the last chapter brings globalisation back to Egypt and Africa, and the money chapter tells Egypt's own story (the National Bank's 1898 notes, the Central Bank of Egypt from 1961).
 
-Searchable tags: balance of payments, residents rest of world, disequilibrium deficit surplus, reserves, trade deficit link, ethiopia, social studies, macroeconomics, malaysia, dominican republic, albania, egypt, Fiji, indonesia, pakistan, nigeria
+Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
+
+Searchable tags: balance of payments, residents rest of world, disequilibrium deficit surplus, reserves, trade deficit link, ethiopia, social studies, macroeconomics, malaysia, dominican republic, albania, egypt, Fiji, indonesia, pakistan, nigeria, greece
 
 ## Teacher-guide evidence added (Wave 4, Band F)
 

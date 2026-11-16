@@ -1,6 +1,6 @@
 # Sources — The labour force and the unemployment rate
 
-countries: Ethiopia, Laos, Mongolia, Jordan, Armenia, Indonesia, Iran
+countries: Ethiopia, Laos, Mongolia, Jordan, Armenia, Indonesia, Iran, Greece
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -58,7 +58,13 @@ countries: Ethiopia, Laos, Mongolia, Jordan, Armenia, Indonesia, Iran
 |---|---|
 | Iran part — Economics expansion — Lesson 8, section "Employment and unemployment": employed = paid work, full- or part-time; unemployed = over 15, without work and seeking it; how the unemployment rate is calculated | Iran, *Iran Grade 10 Economics*, Lesson 8, section "Employment and unemployment" — Iran Grade 10 Economics, printed p. 82 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Laos, Mongolia, Jordan, Armenia, Indonesia, Iran).**
+**Book 10:** *Oikonomika G9* (student book, Greek) — Ministry of Education / IEP / ITYE «Διόφαντος», Greek edition 2024 (adapted from the Cyprus Pedagogical Institute's «Οικονομικά Α' Λυκείου», 2020); ISBN 978-960-06-6509-3. Title as printed: Οικονομικά Γ΄ Γυμνασίου. Grade: Grade 9 (Γ' Γυμνασίου) (student/teacher: STUDENT). PDF pages: 98 (cover/title page verified against the record title; byte size 5,594,876 = record size_bytes exactly, via the record's ebooks.edu.gr source URL after grab.py failed with RemoteDisconnected). Verdict: COMPLETE. Contents map: Economics parts pp. 7–92 (whole book); chapter questions/worksheets after each chapter (assessment, named not placed); bibliography p. 93 (inventory only). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/greece-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — 5.7 Labour force – unemployment — teaches: who counts in the labour force and how unemployment is measured | Greece, *Greece Grade 9 Oikonomika*, 5.7 Labour force – unemployment — printed p. 83 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Laos, Mongolia, Jordan, Armenia, Indonesia, Iran, Greece).**
 
 Indonesia's own way (Indonesia Grade 11 Ekonomi): national income worked in rupiah with Indonesian provincial data; cooperatives taught as the “soko guru” (main pillar) of the Indonesian economy with SHU surplus-sharing calculations; the state/regional/private ownership ladder (BUMN–BUMD–BUMS) as the map of who owns the economy.
 
@@ -76,4 +82,6 @@ Jordan's own way (Jordan Grade 8 Term 1): Development is taught head-on — grow
 
 Iran's own way (Iran Grade 10 Economics): the whole book is taught through one running family story (the Mohammadi family and their bio-input workshop); Iran-specific content is woven in throughout — export orders from Oman and Iraq blocked by US banking sanctions, the "resistance economy" (اقتصاد مقاومتی) as the answer to sanctions, and warnings against parking savings in gold coins, dollars, cars and housing instead of production.
 
-Searchable tags: the labour force and the unemployment rate, grade 12 economics, ethiopia, social studies, macroeconomics, laos, employment, business is the employer, mongolia, labour force, participation rate, 2016 population, jordan, armenia, indonesia, iran
+Greece's own way (Greece Grade 9 Oikonomika): a workbook-style first economics course adapted from Cyprus, built around fill-in worksheets and Greek data — the labour-force shift table is Greece's own movement from farms to services.
+
+Searchable tags: the labour force and the unemployment rate, grade 12 economics, ethiopia, social studies, macroeconomics, laos, employment, business is the employer, mongolia, labour force, participation rate, 2016 population, jordan, armenia, indonesia, iran, greece

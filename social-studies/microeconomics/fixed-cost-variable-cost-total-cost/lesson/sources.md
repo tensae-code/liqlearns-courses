@@ -1,6 +1,6 @@
 # Sources — Fixed cost, variable cost, total cost
 
-countries: Ethiopia, Ecuador, Albania, Uzbekistan, Iran
+countries: Ethiopia, Ecuador, Albania, Uzbekistan, Iran, Greece
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -37,7 +37,13 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Iran part — Economics expansion — Section 27 "Business model part 9: cost estimation": the cost block describes the most important costs of running a business model and costs should be cut as far as possible; fixed costs (هزینه ثابت, defined) stay the same whatever the quantity of goods and services produced (wages, physical facilities), variable costs (هزینه متغیر, defined) change with the quantity produced — tested on a bookshop's monthly internet bill | Iran, *Iran Grade 10 Entrepreneurship Workshop*, Section 27 "Business model part 9: cost estimation" — Iran Grade 10 Entrepreneurship Workshop, printed p. 103 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Ecuador, Uzbekistan, Iran). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 6:** *Arches Oikonomikis Theorias G12* (student book, Greek) — Ministry of Education / ITYE «Διόφαντος»; reissue printing file dated 2025; ISBN 978-960-06-2385-2. Title as printed: Αρχές Οικονομικής Θεωρίας — Μικροοικονομία Μακροοικονομία. Grade: Grade 12 (Γ' Γενικού Λυκείου, Economics & Informatics orientation) (student/teacher: STUDENT). PDF pages: 210 (cover/title page verified against the record title; byte size 4,109,900 = record size_bytes exactly, via the record's ebooks.edu.gr source URL after grab.py failed twice with RemoteDisconnected). Verdict: COMPLETE. Contents map: Economics parts pp. 9–202 (whole book); end-of-chapter questions pp. 25–27, 49–52, 73–78, 89–92, 104–108, 129–132, 144–150, 159–162, 172–176, 184–186, 197–202 (assessment, named not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/greece-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch.3 Cost §1 Production cost in the short run — teaches: fixed, variable and total cost of the firm | Greece, *Greece Grade 12 Arches Oikonomikis Theorias*, Ch.3 Cost §1 Production cost in the short run — printed p. 60 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Ecuador, Uzbekistan, Iran, Greece). Albania is teacher-guide evidence only — named here, counted nowhere.**
 
 Albania's own way (Albania Grade 12 Ekonomia 12 Teacher Guide): a full Grade 12 course that runs micro to macro and then turns practical — business ethics, success skills and personal finance close the course; Albanian anchors throughout (Bank of Albania videos for the personal-budget lesson, the Albanian government budget in the government chapter, the types of money in circulation in Albania). This Albania material stands on the teacher guide as evidence only.
 
@@ -47,4 +53,6 @@ Ecuador's own way (Ecuador Grade 13 Emprendimiento y Gestión): Economics enters
 
 Iran's own way (Iran Grade 10 Entrepreneurship Workshop): entrepreneurship is a hands-on workshop for every branch, built around the business-model canvas (بوم مدل کسب و کار) that each student team must complete section by section.
 
-Searchable tags: fixed cost variable cost total cost, TC=TFC+TVC, birr 60 table, cost curves, ethiopia, ecuador, school desk, social studies, microeconomics, albania, uzbekistan, iran
+Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
+
+Searchable tags: fixed cost variable cost total cost, TC=TFC+TVC, birr 60 table, cost curves, ethiopia, ecuador, school desk, social studies, microeconomics, albania, uzbekistan, iran, greece

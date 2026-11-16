@@ -1,6 +1,6 @@
 # Sources — Central Banks, Money and Credit Policy
 
-countries: Mongolia, Guatemala, Vietnam
+countries: Mongolia, Guatemala, Vietnam, Greece
 
 **Book 1:** *Нийгэм судлал XI (Social Studies XI)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2019; ISBN no ISBN printed on the pages checked. Title as printed: Нийгэм судлал XI (Social Studies XI). Grade: Grade 11 (student). ~196 PDF pp. (printed book to p. 191+) (cover verified against the record title via the ministry econtent flipbook — the same book as the secured GitHub release asset; note the release asset is 131,050,983 bytes under a doubled-prefix asset name while the books.json record says 86,546,502 bytes: a library debt, see group log). Verdict: COMPLETE for Geography scope (contents page and chapter structure read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mongolia-placements.md.
 
@@ -21,7 +21,13 @@ countries: Mongolia, Guatemala, Vietnam
 | Lesson part | Where it comes from |
 |---|---|
 | Vietnam part — Lesson 3: the State's role in controlling inflation — teaches: the State always tracks market price movements and keeps the inflation rate at the permitted level: the National Assembly decides the annual inflation (CPI) target and supervises national monetary policy, the Government submits the target and the State Bank Governor decides the monetary-policy tools and measures to meet it, and in practice the State raises interest rates, reduces the money supply, cuts public spending, supports the incomes of people in difficulty, strengthens market management against speculation and hoarding, and uses national reserves to balance supply–demand and stabilise prices (Economics expansion, 2026-11-16; original placement slug: culture-and-work/central-banks — stocked here as the closest existing lesson covering this thing) | Vietnam, *Vietnam Grade 11 Economic & Legal Education*, Lesson 3: the State's role in controlling inflation — printed p. 21 |
-**Acceptance count: taught in 3 countries (Mongolia, Guatemala, Vietnam).**
+**Book 4:** *Arches Oikonomikis Theorias G12* (student book, Greek) — Ministry of Education / ITYE «Διόφαντος»; reissue printing file dated 2025; ISBN 978-960-06-2385-2. Title as printed: Αρχές Οικονομικής Θεωρίας — Μικροοικονομία Μακροοικονομία. Grade: Grade 12 (Γ' Γενικού Λυκείου, Economics & Informatics orientation) (student/teacher: STUDENT). PDF pages: 210 (cover/title page verified against the record title; byte size 4,109,900 = record size_bytes exactly, via the record's ebooks.edu.gr source URL after grab.py failed twice with RemoteDisconnected). Verdict: COMPLETE. Contents map: Economics parts pp. 9–202 (whole book); end-of-chapter questions pp. 25–27, 49–52, 73–78, 89–92, 104–108, 129–132, 144–150, 159–162, 172–176, 184–186, 197–202 (assessment, named not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/greece-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch.8 §6 The issuing bank — teaches: the bank of issue and its control of money and credit | Greece, *Greece Grade 12 Arches Oikonomikis Theorias*, Ch.8 §6 The issuing bank — printed p. 155 |
+
+**Acceptance count: taught in 4 countries (Mongolia, Guatemala, Vietnam, Greece).**
 
 Vietnam's own way (Vietnam Grade 11 Economic & Legal Education): the macro topics are taught from Vietnam's own statistics and history — the CPI chart 2016–2021, the 775% inflation of 1986, COVID-era unemployment of 3.2%, the Q3 2022 labour-market bulletin — and the State's controlling role is quoted from the Law on the State Bank and the Labour Code.
 
@@ -29,4 +35,6 @@ Mongolia's own way: the final year is the state-and-world year — cultural glob
 
 Guatemala's own way (Guatemala Grade 4 Ciencias Sociales G4): the central bank is taught through Guatemala's own money story — many issuers and farm tokens causing instability until the 1924 reform unified the quetzal under a single central bank.
 
-Searchable tags: monetary policy, credit policy, central bank, Mongolia, Guatemala, quetzal, Banco Central de Guatemala, 1924 monetary reform, Нийгэм судлал XI, social studies, culture and work, vietnam
+Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
+
+Searchable tags: monetary policy, credit policy, central bank, Mongolia, Guatemala, quetzal, Banco Central de Guatemala, 1924 monetary reform, Нийгэм судлал XI, social studies, culture and work, vietnam, greece

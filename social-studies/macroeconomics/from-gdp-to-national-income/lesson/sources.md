@@ -1,6 +1,6 @@
 # Sources — From GDP to national income
 
-countries: Ethiopia, Uzbekistan, Indonesia, Pakistan
+countries: Ethiopia, Uzbekistan, Indonesia, Pakistan, Greece
 
 **Book 1:** *Economics, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Guta Legesse Tessema (PhD), Dereje Fekadu Deressa (MSc). Curriculum editor: Chanyalew Degefa Merga (MA). Content editor: Degela Ergano Done (PhD). Language editor: Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Book designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), Ararsa Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-058-1. Printed page = PDF page - 11 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g11-student-placements.md
 
@@ -30,11 +30,19 @@ Uzbekistan's own way: a post-transition primer that teaches the whole market eco
 |---|---|
 | Pakistan part — Ch. 1.1-1.2 National Income — teaches: the definition of national income and the chain of concepts — Gross Domestic Product, Gross National Product, Net National Product, Personal Income and Disposable Personal Income (with undistributed corporate profits, profit tax, social security deductions and transfer payments placed on the chain) | Pakistan, *Pakistan Grade 12 Economics Class 12*, Ch. 1.1-1.2 National Income — printed pp. 1-5 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Uzbekistan, Indonesia, Pakistan).**
+**Book 5:** *Arches Oikonomikis Theorias G12* (student book, Greek) — Ministry of Education / ITYE «Διόφαντος»; reissue printing file dated 2025; ISBN 978-960-06-2385-2. Title as printed: Αρχές Οικονομικής Θεωρίας — Μικροοικονομία Μακροοικονομία. Grade: Grade 12 (Γ' Γενικού Λυκείου, Economics & Informatics orientation) (student/teacher: STUDENT). PDF pages: 210 (cover/title page verified against the record title; byte size 4,109,900 = record size_bytes exactly, via the record's ebooks.edu.gr source URL after grab.py failed twice with RemoteDisconnected). Verdict: COMPLETE. Contents map: Economics parts pp. 9–202 (whole book); end-of-chapter questions pp. 25–27, 49–52, 73–78, 89–92, 104–108, 129–132, 144–150, 159–162, 172–176, 184–186, 197–202 (assessment, named not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/greece-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch.7 §8 Net National Product – National Income – Disposable Income — teaches: the step-down chain from GNP through depreciation and indirect taxes | Greece, *Greece Grade 12 Arches Oikonomikis Theorias*, Ch.7 §8 Net National Product – National Income – Disposable Income — printed p. 141 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Uzbekistan, Indonesia, Pakistan, Greece).**
 
 Pakistan's own way (Pakistan Grade 12 Economics Class 12): the Class 12 book runs the standard macro course (national income, money, banks, public finance, trade) and then turns the same tools onto Pakistan itself for six chapters — Pakistan's sectors, national income, planning, transport and manpower, banking system, government finances and foreign trade — closing with the Islamic economic system (Zakat, Ushr, interest-free banking) taught as a full alternative system, not a footnote.
 
 
 Indonesia's own way (Indonesia Grade 11 Ekonomi): national income worked in rupiah with Indonesian provincial data; cooperatives taught as the “soko guru” (main pillar) of the Indonesian economy with SHU surplus-sharing calculations; the state/regional/private ownership ladder (BUMN–BUMD–BUMS) as the map of who owns the economy.
 
-Searchable tags: net domestic product NDP, GDP minus depreciation, national income components, compensation of employees, proprietors income, corporate profits dividends retained earnings profit taxes, ethiopia, social studies, macroeconomics, uzbekistan, indonesia, pakistan
+Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
+
+Searchable tags: net domestic product NDP, GDP minus depreciation, national income components, compensation of employees, proprietors income, corporate profits dividends retained earnings profit taxes, ethiopia, social studies, macroeconomics, uzbekistan, indonesia, pakistan, greece

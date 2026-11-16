@@ -1,6 +1,6 @@
 # Sources — What GDP misses
 
-countries: Ethiopia, France, Dominica, India
+countries: Ethiopia, France, Dominica, India, Greece
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -37,7 +37,19 @@ Grade 11 note (placement 40): the problems-and-fixes material in the added sub l
 |---|---|
 | India part — Ch 2: women's household work is not paid and is not recognised in the National Income, and women's market earnings are set by education and skill — teaches: unpaid work invisible in national income (Economics expansion, 2026-11-16; stocked as a row against the book already cited in this lesson from the Geography wave) | India, *India Grade 9 Economics*, Ch 2 — printed p. 20 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, France, Dominica, India).**
+**Book 6:** *Arches Oikonomikis Theorias G12* (student book, Greek) — Ministry of Education / ITYE «Διόφαντος»; reissue printing file dated 2025; ISBN 978-960-06-2385-2. Title as printed: Αρχές Οικονομικής Θεωρίας — Μικροοικονομία Μακροοικονομία. Grade: Grade 12 (Γ' Γενικού Λυκείου, Economics & Informatics orientation) (student/teacher: STUDENT). PDF pages: 210 (cover/title page verified against the record title; byte size 4,109,900 = record size_bytes exactly, via the record's ebooks.edu.gr source URL after grab.py failed twice with RemoteDisconnected). Verdict: COMPLETE. Contents map: Economics parts pp. 9–202 (whole book); end-of-chapter questions pp. 25–27, 49–52, 73–78, 89–92, 104–108, 129–132, 144–150, 159–162, 172–176, 184–186, 197–202 (assessment, named not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/greece-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch.7 §10 GDP as an indicator of economic welfare and its weaknesses — teaches: what GDP leaves out of welfare | Greece, *Greece Grade 12 Arches Oikonomikis Theorias*, Ch.7 §10 GDP as an indicator of economic welfare and its weaknesses — printed p. 142 |
+
+**Book 7:** *Oikonomika G9* (student book, Greek) — Ministry of Education / IEP / ITYE «Διόφαντος», Greek edition 2024 (adapted from the Cyprus Pedagogical Institute's «Οικονομικά Α' Λυκείου», 2020); ISBN 978-960-06-6509-3. Title as printed: Οικονομικά Γ΄ Γυμνασίου. Grade: Grade 9 (Γ' Γυμνασίου) (student/teacher: STUDENT). PDF pages: 98 (cover/title page verified against the record title; byte size 5,594,876 = record size_bytes exactly, via the record's ebooks.edu.gr source URL after grab.py failed with RemoteDisconnected). Verdict: COMPLETE. Contents map: Economics parts pp. 7–92 (whole book); chapter questions/worksheets after each chapter (assessment, named not placed); bibliography p. 93 (inventory only). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/greece-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — 5.6 GDP – standard of living — teaches: why GDP per head alone does not settle how well people live | Greece, *Greece Grade 9 Oikonomika*, 5.6 GDP – standard of living — printed p. 81 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, France, Dominica, India, Greece).**
 
 India's own way (India Grade 9 Economics): The whole first Economics course is built on Indian cases — a fictional UP village for production, two boys (Sakal who studies, Vilas who cannot) for human capital, Tendulkar poverty-line numbers, and the FCI/PDS machinery for food security.
 
@@ -47,4 +59,8 @@ France's own way (SES 2de, Manuels Libres): SES teaches economics, sociology and
 
 Grade 12 extension added 2026-11-12 (Ethiopia Wave 4, Band E): sub lesson 6 and its questions rest on the Grade 12 student book named above.
 
-Searchable tags: GDP weaknesses, leisure, non-market production, volunteer work, environmental quality, income distribution, black market, ethiopia, france, ses, angola oil, social studies, macroeconomics, dominica, csec principles of business, caribbean, india
+Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
+
+Greece's own way (Greece Grade 9 Oikonomika): a workbook-style first economics course adapted from Cyprus, built around fill-in worksheets and Greek data — the labour-force shift table is Greece's own movement from farms to services.
+
+Searchable tags: GDP weaknesses, leisure, non-market production, volunteer work, environmental quality, income distribution, black market, ethiopia, france, ses, angola oil, social studies, macroeconomics, dominica, csec principles of business, caribbean, india, greece

@@ -1,6 +1,6 @@
 # Sources — Functional and personal income distribution
 
-countries: Ethiopia, France, Bangladesh, Egypt, Honduras, Vietnam, Armenia, Costa Rica
+countries: Ethiopia, France, Bangladesh, Egypt, Honduras, Vietnam, Armenia, Costa Rica, Greece
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -69,7 +69,13 @@ Bangladesh's own way (Bangladesh Grade 9 History and Social Science): Class 9 te
 |---|---|
 | Costa Rica part — El Estado Benefactor y la sociedad costarricense — teaches: social democracy under the welfare state aimed at a better distribution of wealth and a larger middle class with a smaller poor class — the middle sectors grew (own house and car, stable jobs, study), while the traditionally richest class fell from 46% to 34% between 1961 and 1971 | Costa Rica, *Estudios Sociales 11, Porras y Gamboa*, Grade 11 — printed pp. 117 and 120 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, France, Bangladesh, Egypt, Honduras, Vietnam, Armenia, Costa Rica).**
+**Book 11:** *Oikonomika G9* (student book, Greek) — Ministry of Education / IEP / ITYE «Διόφαντος», Greek edition 2024 (adapted from the Cyprus Pedagogical Institute's «Οικονομικά Α' Λυκείου», 2020); ISBN 978-960-06-6509-3. Title as printed: Οικονομικά Γ΄ Γυμνασίου. Grade: Grade 9 (Γ' Γυμνασίου) (student/teacher: STUDENT). PDF pages: 98 (cover/title page verified against the record title; byte size 5,594,876 = record size_bytes exactly, via the record's ebooks.edu.gr source URL after grab.py failed with RemoteDisconnected). Verdict: COMPLETE. Contents map: Economics parts pp. 7–92 (whole book); chapter questions/worksheets after each chapter (assessment, named not placed); bibliography p. 93 (inventory only). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/greece-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — 5.5 Unequal distribution of income — teaches: how income is shared unevenly between people and groups | Greece, *Greece Grade 9 Oikonomika*, 5.5 Unequal distribution of income — printed p. 80 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, France, Bangladesh, Egypt, Honduras, Vietnam, Armenia, Costa Rica, Greece).**
 
 Costa Rica's own way (Estudios Sociales 11, Porras y Gamboa): a commercial textbook built on the same national programme as the CONED anthology but with far more economic detail — full PAE I/II/III measure lists, the CAT export-certificate fraud, state banking's six effects, and Costa Rica's services/call-centre economy measured against the region.
 
@@ -85,4 +91,6 @@ Egypt's own way (Secondary 12 Statistics and Economics): a full school Economics
 
 Honduras's own way (Honduras Grade 3 G3 Student CCSS): Grade 3 scales up from family to country — occupations and production for the whole nation, social classes by income, the production-distribution-exchange-consumption chain, and exports/imports through customs with the arancel explained.
 
-Searchable tags: functional and personal income distribution, grade 12 economics, ethiopia, france, ses, gender pay gap, efficiency wages, social studies, people and resources, bangladesh, egypt, honduras, vietnam, armenia
+Greece's own way (Greece Grade 9 Oikonomika): a workbook-style first economics course adapted from Cyprus, built around fill-in worksheets and Greek data — the labour-force shift table is Greece's own movement from farms to services.
+
+Searchable tags: functional and personal income distribution, grade 12 economics, ethiopia, france, ses, gender pay gap, efficiency wages, social studies, people and resources, bangladesh, egypt, honduras, vietnam, armenia, greece

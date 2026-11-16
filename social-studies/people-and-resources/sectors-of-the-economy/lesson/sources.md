@@ -1,6 +1,6 @@
 # Sources — Sectors Of The Economy
 
-countries: Iran, Ecuador, Guatemala, Syria, Laos, Kuwait, Zimbabwe, Dominican Republic, Palestine, Dominica, Cambodia, Egypt, Honduras, Nicaragua, Bulgaria, India, Bolivia, Colombia, Costa Rica
+countries: Iran, Ecuador, Guatemala, Syria, Laos, Kuwait, Zimbabwe, Dominican Republic, Palestine, Dominica, Cambodia, Egypt, Honduras, Nicaragua, Bulgaria, India, Bolivia, Colombia, Costa Rica, Greece
 
 **Book 1:** *مطالعات اجتماعی ـ پایه هفتم دوره اول متوسطه (Social Studies, Grade 7, first secondary cycle)* (student book, Persian) — Ministry of Education, Organization for Educational Research and Planning (سازمان پژوهش و برنامه‌ریزی آموزشی); prepared by the Office for Compiling General and Theoretical Secondary Textbooks (دفتر تألیف کتاب‌های درسی عمومی و متوسطه نظری); printed by the Iran Textbook Printing and Publishing Company; 13th printing, 1405; book code 707 (matches the record's C707). Title as printed: مطالعات اجتماعی ـ پایه هفتم دوره اول متوسطه (Social Studies, Grade 7, first secondary cycle). Grade: 7 (student/teacher: STUDENT). PDF pages: 184 (printed pagination runs 6 behind the PDF pages: printed p. 2 = PDF p. 8; title page verified as above; read via the books.json record's own ministry source file at chap.sch.ir — same book, exact byte size and page count as the record — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iran-placements.md.
 
@@ -255,7 +255,13 @@ Palestine's own way: Economics enters through the land itself — natural resour
 |---|---|
 | Costa Rica part — Conceptos básicos: los sectores — teaches: the primary sector (direct exploitation of natural resources), the secondary (transforming raw material into manufactured products) and the tertiary/services sector (health, education, transport, tourism, finance and more) | Costa Rica, *Estudios Sociales 11, Porras y Gamboa*, Grade 11 — printed p. 19 |
 
-**Acceptance count: taught in 18 countries (Iran, Ecuador, Guatemala, Syria, Laos, Kuwait, Dominican Republic, Palestine, Dominica, Cambodia, Egypt, Honduras, Nicaragua, Bulgaria, India, Bolivia, Colombia, Costa Rica). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
+**Book 39:** *Oikonomika G9* (student book, Greek) — Ministry of Education / IEP / ITYE «Διόφαντος», Greek edition 2024 (adapted from the Cyprus Pedagogical Institute's «Οικονομικά Α' Λυκείου», 2020); ISBN 978-960-06-6509-3. Title as printed: Οικονομικά Γ΄ Γυμνασίου. Grade: Grade 9 (Γ' Γυμνασίου) (student/teacher: STUDENT). PDF pages: 98 (cover/title page verified against the record title; byte size 5,594,876 = record size_bytes exactly, via the record's ebooks.edu.gr source URL after grab.py failed with RemoteDisconnected). Verdict: COMPLETE. Contents map: Economics parts pp. 7–92 (whole book); chapter questions/worksheets after each chapter (assessment, named not placed); bibliography p. 93 (inventory only). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/greece-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — 2.2 Distinctions of production — teaches: the primary, secondary and tertiary sectors of production | Greece, *Greece Grade 9 Oikonomika*, 2.2 Distinctions of production — printed p. 26 |
+
+**Acceptance count: taught in 19 countries (Iran, Ecuador, Guatemala, Syria, Laos, Kuwait, Dominican Republic, Palestine, Dominica, Cambodia, Egypt, Honduras, Nicaragua, Bulgaria, India, Bolivia, Colombia, Costa Rica, Greece). Zimbabwe is teacher-guide evidence only — named here, counted nowhere.**
 
 Costa Rica's own way (Estudios Sociales 11, Porras y Gamboa): a commercial textbook built on the same national programme as the CONED anthology but with far more economic detail — full PAE I/II/III measure lists, the CAT export-certificate fraud, state banking's six effects, and Costa Rica's services/call-centre economy measured against the region.
 
@@ -331,4 +337,6 @@ Bulgaria's own way (Bulgaria Grade 6 Geography and Economics): each continent's 
 
 Bulgaria's own way (Bulgaria Grade 10 Geography and Economics): at Grade 10 the pupil meets the whole national economy at once — its three sectors with the 2021 employment shares (services 74.2%, processing 21.9%, extractive 3.9%), GDP and GNI defined in a box, and the market economy explained through Bulgaria's own post-1989 reform: privatisation, commodity and labour exchanges, and prices set on the market.
 
-Searchable tags: sectors of the economy, Iran, Ecuador, Guatemala, Syria, Central America, economic activities, quetzal, economic activities, parish, canton, paja toquilla, tourism, social studies, people-and-resources, laos, three kinds of business, producing trading services, weaving, repair shops, zimbabwe, teacher guide evidence, dominican republic, palestine, cambodia, egypt, honduras, nicaragua, bulgaria, india, bolivia, colombia
+Greece's own way (Greece Grade 9 Oikonomika): a workbook-style first economics course adapted from Cyprus, built around fill-in worksheets and Greek data — the labour-force shift table is Greece's own movement from farms to services.
+
+Searchable tags: sectors of the economy, Iran, Ecuador, Guatemala, Syria, Central America, economic activities, quetzal, economic activities, parish, canton, paja toquilla, tourism, social studies, people-and-resources, laos, three kinds of business, producing trading services, weaving, repair shops, zimbabwe, teacher guide evidence, dominican republic, palestine, cambodia, egypt, honduras, nicaragua, bulgaria, india, bolivia, colombia, greece

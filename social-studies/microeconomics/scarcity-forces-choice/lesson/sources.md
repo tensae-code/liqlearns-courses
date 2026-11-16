@@ -1,6 +1,6 @@
 # Sources — Scarcity forces choice
 
-countries: Ethiopia, Syria, Mongolia, Albania, Egypt, Yemen, Fiji, Armenia, Bulgaria, Iran, Iraq, Pakistan
+countries: Ethiopia, Syria, Mongolia, Albania, Egypt, Yemen, Fiji, Armenia, Bulgaria, Iran, Iraq, Pakistan, Greece
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -100,7 +100,19 @@ countries: Ethiopia, Syria, Mongolia, Albania, Egypt, Yemen, Fiji, Armenia, Bulg
 |---|---|
 | Pakistan part — Ch. 1.4 Scarcity — teaches: scarcity as the root economic problem — ends unlimited, means limited | Pakistan, *Pakistan Grade 11 Economics Class 11*, Ch. 1.4 Scarcity — printed p. 10 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Syria, Mongolia, Egypt, Yemen, Fiji, Armenia, Bulgaria, Iran, Iraq, Pakistan). Albania is teacher-guide evidence only — named here, counted nowhere.**
+**Book 17:** *Arches Oikonomikis Theorias G12* (student book, Greek) — Ministry of Education / ITYE «Διόφαντος»; reissue printing file dated 2025; ISBN 978-960-06-2385-2. Title as printed: Αρχές Οικονομικής Θεωρίας — Μικροοικονομία Μακροοικονομία. Grade: Grade 12 (Γ' Γενικού Λυκείου, Economics & Informatics orientation) (student/teacher: STUDENT). PDF pages: 210 (cover/title page verified against the record title; byte size 4,109,900 = record size_bytes exactly, via the record's ebooks.edu.gr source URL after grab.py failed twice with RemoteDisconnected). Verdict: COMPLETE. Contents map: Economics parts pp. 9–202 (whole book); end-of-chapter questions pp. 25–27, 49–52, 73–78, 89–92, 104–108, 129–132, 144–150, 159–162, 172–176, 184–186, 197–202 (assessment, named not placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/greece-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — Ch.1 §7 The production possibilities of the economy — teaches: scarcity forcing choice between competing uses of resources | Greece, *Greece Grade 12 Arches Oikonomikis Theorias*, Ch.1 §7 The production possibilities of the economy — printed p. 15 |
+
+**Book 18:** *Oikonomika G9* (student book, Greek) — Ministry of Education / IEP / ITYE «Διόφαντος», Greek edition 2024 (adapted from the Cyprus Pedagogical Institute's «Οικονομικά Α' Λυκείου», 2020); ISBN 978-960-06-6509-3. Title as printed: Οικονομικά Γ΄ Γυμνασίου. Grade: Grade 9 (Γ' Γυμνασίου) (student/teacher: STUDENT). PDF pages: 98 (cover/title page verified against the record title; byte size 5,594,876 = record size_bytes exactly, via the record's ebooks.edu.gr source URL after grab.py failed with RemoteDisconnected). Verdict: COMPLETE. Contents map: Economics parts pp. 7–92 (whole book); chapter questions/worksheets after each chapter (assessment, named not placed); bibliography p. 93 (inventory only). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/greece-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — 1.3 Scarcity (Στενότητα) — teaches: scarcity as wants exceeding available goods | Greece, *Greece Grade 9 Oikonomika*, 1.3 Scarcity (Στενότητα) — printed p. 11 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, Syria, Mongolia, Egypt, Yemen, Fiji, Armenia, Bulgaria, Iran, Iraq, Pakistan, Greece). Albania is teacher-guide evidence only — named here, counted nowhere.**
 
 Pakistan's own way (Pakistan Grade 4 Social Studies Class 4 SNC): Economics enters at Class 4 as one named chapter of Social Studies, taught in Urdu with English concept labels, through Pakistani examples — the State Bank of Pakistan, a National Bank of Pakistan cheque, and Pakistan's own import/export goods.
 
@@ -135,4 +147,8 @@ Bulgaria's own way (Bulgaria Grade 5 Technology and Entrepreneurship): from Grad
 
 Iran's own way (Iran Grade 10 Economics): the whole book is taught through one running family story (the Mohammadi family and their bio-input workshop); Iran-specific content is woven in throughout — export orders from Oman and Iraq blocked by US banking sanctions, the "resistance economy" (اقتصاد مقاومتی) as the answer to sanctions, and warnings against parking savings in gold coins, dollars, cars and housing instead of production.
 
-Searchable tags: scarcity choice chain, limited output, households firms governments choose, ethiopia, syria, syrian pounds, necessary purchases, postponable purchases, social studies, microeconomics, mongolia, opportunity cost, family examples, albania, egypt, yemen, Fiji, armenia, bulgaria, iran, iraq, pakistan
+Greece's own way (Greece Grade 12 Arches Oikonomikis Theorias): the national Lykeio textbook teaches micro first then macro in one volume, opening economics through Robinson Crusoe's one-man economy, and closes with the EU and the Greek economy itself; worked examples use euros, olive oil and peaches.
+
+Greece's own way (Greece Grade 9 Oikonomika): a workbook-style first economics course adapted from Cyprus, built around fill-in worksheets and Greek data — the labour-force shift table is Greece's own movement from farms to services.
+
+Searchable tags: scarcity choice chain, limited output, households firms governments choose, ethiopia, syria, syrian pounds, necessary purchases, postponable purchases, social studies, microeconomics, mongolia, opportunity cost, family examples, albania, egypt, yemen, Fiji, armenia, bulgaria, iran, iraq, pakistan, greece
