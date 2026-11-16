@@ -1,6 +1,6 @@
 # Sources — Observing Our Surroundings
 
-countries: Ethiopia, Uganda, Barbados, Singapore, Serbia, Finland, Suriname, Belarus
+countries: Ethiopia, Uganda, Barbados, Singapore, Serbia, Finland, Suriname, Belarus, Jordan
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -39,8 +39,15 @@ countries: Ethiopia, Uganda, Barbados, Singapore, Serbia, Finland, Suriname, Bel
 
 | Belarus — Part 1: The beauty of the surrounding environment — the colours of the native land in a picture gallery of the home countryside through the seasons, learning to notice the state of nature (student book; original target `first-steps/observing-our-surroundings`) | Book 10, printed pp. 6–7 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Uganda, Serbia, Finland, Belarus). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Suriname is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 6 countries (Ethiopia, Uganda, Serbia, Finland, Belarus, Jordan). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Suriname is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The definition of surroundings and the sound/movement distinction are the Grade 1 book's own Chapter 1 summary words (printed pp. 14–15), taught as the book states them. The teacher-guide row is evidence for the same watching skill and is labelled as such; the lesson's pupil-taught content rests on the student book.
 
 Searchable tags: observing our surroundings, surroundings, watching and telling, አካባቢን ማስተዋል, አካባቢ, Finland
+
+
+**Book 11:** *التربية الفنية والموسيقية والمسرحية — الصف الثاني (Art, Music and Theatre Education — Grade 2)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (first experimental edition, for school year 2024/2025); ISBN 978-9923-41-693-8. Grade: 2 (student/teacher: STUDENT). PDF pages: 94 (cover/title page verified against the record title; byte size 29,623,603 matches record exactly; printed page numbers = PDF page numbers). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan — Unit 1 Lesson 10 "Nature Around Us" — nature is beautiful and must be preserved; God granted Jordan many forms of nature — mountains, plains, desert and sea — and many shapes can be drawn from the shapes in nature: matching river, sea, desert and mountain pictures to their words and drawing an island, a river and mountains (student book; original target `first-steps/observing-our-surroundings`) | Book 11, printed p. 38 |

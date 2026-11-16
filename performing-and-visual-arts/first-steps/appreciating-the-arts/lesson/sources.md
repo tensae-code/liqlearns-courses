@@ -1,6 +1,6 @@
 # Sources — Appreciating the Arts
 
-countries: Ethiopia, Cyprus, Jamaica, Andorra, Guatemala, Canada, Barbados, Singapore, Trinidad and Tobago, Serbia, Malta, Finland, Turkmenistan, Fiji, Colombia, Sudan, Belarus, Iran, Brazil, Bulgaria
+countries: Ethiopia, Cyprus, Jamaica, Andorra, Guatemala, Canada, Barbados, Singapore, Trinidad and Tobago, Serbia, Malta, Finland, Turkmenistan, Fiji, Colombia, Sudan, Belarus, Iran, Brazil, Bulgaria, Jordan
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -86,7 +86,7 @@ countries: Ethiopia, Cyprus, Jamaica, Andorra, Guatemala, Canada, Barbados, Sing
 
 | Brazil — Folha 1 — the Bienal: international art exhibitions (Venice 1895, São Paulo 1951) as places where art is shown and judged (student book; original target `first-steps/appreciating-the-arts`) | Book 24, printed p. 12 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Canada, Serbia, Finland, Turkmenistan, Fiji, Colombia, Sudan, Belarus, Iran, Brazil, Bulgaria).** Cyprus is added as teacher unit material — evidence only, kept outside the acceptance count. Jamaica is added as teacher curriculum guide — evidence only, kept outside the acceptance count. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Finland's module-plan part (Book 16) is evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 13 countries (Ethiopia, Canada, Serbia, Finland, Turkmenistan, Fiji, Colombia, Sudan, Belarus, Iran, Brazil, Bulgaria, Jordan).** Cyprus is added as teacher unit material — evidence only, kept outside the acceptance count. Jamaica is added as teacher curriculum guide — evidence only, kept outside the acceptance count. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Finland's module-plan part (Book 16) is evidence only, kept outside the acceptance count.
 
 The Sof Omar and Tis Abay Falls photographs are also the stock of the Photographs lesson in the Visual Art title; per the course structure map, their Grade 3 review placement is stocked here as appreciation content — the activity the book itself sets ('say which of the photographs pleased you'). The two definitions of appreciation (Grade 3's visiting-and-looking, Grade 2's expressing-by-doing) are both taught, as the books state them; they complete each other and neither is silently preferred.
 
@@ -115,3 +115,22 @@ Searchable tags: appreciating the arts, appreciation, visiting, ጉብኝት, So
 | Bulgaria — Topics 31 and 34: Музикална разходка (a musical walk) and Инструментална музика (instrumental music as a kind) (student book) | Book 27, printed pp. 48, 54 |
 | Bulgaria — Topic 17: На гости на български изпълнители (a visit to Bulgarian performers) (student book) | Book 28, printed p. 25 |
 | Bulgaria — Topics 36 and 38: Музикална разходка (a musical walk) and Празничен концерт (a festive concert) (student book) | Book 28, printed pp. 46, 50 |
+
+
+**Book 29:** *التربية الفنية والموسيقية والمسرحية — الصف الأول (Art, Music and Theatre Education — Grade 1)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (first experimental edition, for school year 2024/2025); ISBN 978-9923-41-691-4. Grade: 1 (student/teacher: STUDENT). PDF pages: 76 (cover/title page verified against the record title; byte size 40,406,311 matches record exactly; printed page numbers = PDF page numbers). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.
+
+**Book 30:** *التربية الفنية والموسيقية والمسرحية — الصف الثاني (Art, Music and Theatre Education — Grade 2)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (first experimental edition, for school year 2024/2025); ISBN 978-9923-41-693-8. Grade: 2 (student/teacher: STUDENT). PDF pages: 94 (cover/title page verified against the record title; byte size 29,623,603 matches record exactly; printed page numbers = PDF page numbers). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.
+
+**Book 31:** *التربية الفنية والموسيقية والمسرحية — الصف الثالث (Art, Music and Theatre Education — Grade 3)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (first experimental edition, for school year 2024/2025); ISBN 978-9923-41-694-5. Grade: 3 (student/teacher: STUDENT). PDF pages: 82 (cover/title page verified against the record title; byte size 40,732,046 matches record exactly; printed page numbers = PDF page numbers). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan — Unit 3 Lesson 10 "Watching a Play" — watching a piece of theatre work to know its basic components — the play is entertainment, pleasure and benefit, and stage, actors and audience are essential to its success; after watching, talk about the play's elements and about the audience's behaviour (student book; original target `first-steps/appreciating-the-arts`) | Book 29, printed p. 74 |
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan — Unit 3 Lesson 10 "Watching Theatrical Scenes" — watching a piece of theatre work to know the basic components of theatre — the play tells a story through the actors' voices and movements; after watching, talk about the play's basic components, the vocal and movement communication between the actors, and whether improvised dialogue or movement appeared (student book; original target `first-steps/appreciating-the-arts`) | Book 30, printed p. 93 |
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan — Unit 3 Lesson 10 "Watching a Play" — watching a piece of theatre work to know the most important basic components of theatre and its skills — the play consists of a story performed by actors and actresses on the stage in front of the audience, with the help of the set, the clothes and the music; committing to positive behaviours when watching a play; watching plays develops the artistic taste, and theatre achieves direct interaction with the audience — recalling the watched play: was the actors' delivery clear, was there communication between the actors by voice and movement, and did the audience interact with the play (student book; original target `first-steps/appreciating-the-arts`) | Book 31, printed p. 80 |

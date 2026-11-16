@@ -1,6 +1,6 @@
 # Sources — Movement Songs
 
-countries: Ethiopia, Turkmenistan, Fiji, Papua New Guinea
+countries: Ethiopia, Turkmenistan, Fiji, Papua New Guinea, Jordan
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -41,8 +41,15 @@ countries: Ethiopia, Turkmenistan, Fiji, Papua New Guinea
 | Papua New Guinea — Unit 3 Music, Topic Performing a Simple Song (Lessons 32–47) — illustrated music, pitch in music, familiar tunes, beats/silence/rhythm performed, vocal control, childhood rhythms, combining rhythm and pitch, percussion instruments accompanying songs and chants, moving to rhythms (teacher guide — evidence) | Book 9, printed pp. 20, 31 |
 | Papua New Guinea — Unit 3 Music, Topic Music Performance (Lessons 34–48) — singing repertoire and familiar songs with increasing vocal control, songs and games, folk tunes from other countries, action songs and hymns, singing rounds or canons, call-and-response songs, singing in parts, simple hymns and carols, melodic patterns, and playing percussion and melodic instruments in different ways (teacher guide — evidence) | Book 10, printed pp. 20–21, 39–40 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Turkmenistan, Fiji).** Fiji's Year 1-2 teacher guides are also stocked in this lesson as evidence, kept outside the acceptance count beyond the student-book count above. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 4 countries (Ethiopia, Turkmenistan, Fiji, Jordan).** Fiji's Year 1-2 teacher guides are also stocked in this lesson as evidence, kept outside the acceptance count beyond the student-book count above. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 1 placement asks for a GIF of the full clapping step pattern with children; full-body step choreography drawn frame by frame did not read truly, so the filed GIF carries the clap itself — the beat moment of the song — and the step pattern is taught in words and in the hands-on work. No motion that failed its frame check was filed.
 
 Searchable tags: movement songs, clapping, walking, riding, እናጨበጭባለን, ሽርሽር እንሂድ, ቼ ቼ ፈረሴ, beat, che che, Papua New Guinea
+
+
+**Book 11:** *"Children Songs — KG (Song Book)"* (song book, Arabic) — Jordan, no publisher, year or ISBN printed anywhere in the file (a Ministry of Education / Minhaji kindergarten song booklet; the repo record's own download pointer was minhaji.net); no title page in the file — the booklet opens directly with the songs; the record title matches the contents (45 short children's songs/chants, each titled, one to three per page). Grade: KG (student/teacher: STUDENT). PDF pages: 18 (byte size 1,557,981 matches record exactly; fetched with grab.py tree — this small book IS in the repo tree; printed page numbers = PDF page numbers). Verdict: COMPLETE — all 45 songs read and placed, as summaries only (no lyrics transcribed). Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan — "I Have Five Fingers" and "This Child" — the five-fingers song counts and names the fingers (little finger, ring, middle, index, thumb) and tells how thumb and index together help hold pens (printed p. 1); the call-and-response song of Hassan and his sister Hanan playing on the seesaw, its lines marked to be sung twice, teaching singing in turns (printed p. 11) (student book; original target `music/finger-songs-and-action-rhymes`) | Book 11, printed pp. 1, 11 |

@@ -1908,7 +1908,77 @@ lessons are the books'.
   metres, and the counted uneven pulse taught as a
   skill of its own.
 
-**The whole course stands at 504 lessons, 6,450 questions and
+**Art expansion — Jordan (2026-11-16):** 135 placements
+  stocked from 6 books: *Art, Music and Theatre
+  Education — Grades 1, 2 and 3* (National Center
+  for Curriculum Development (NCCD), Jordan, 2024,
+  first experimental editions, Arabic, student
+  books), *Children Songs — KG* (kindergarten song
+  booklet, Arabic, student book, no publisher, year
+  or ISBN printed), *Jude's Drawing* (NCCD, Amman,
+  2022 imprint, KG story book, student book), and
+  *Art, Music and Theatre Education — Grade Ten*
+  (NCCD, Amman, 2025, teacher guide, Arabic). The
+  five student books count in every stocked lesson's
+  acceptance count; the Grade 10 teacher guide is
+  EVIDENCE only, kept outside the acceptance count.
+  94 placements into existing and already-built
+  canonical lessons (Technical and Performance
+  Elements of Theatre ×7; The Elements of Visual
+  Art ×5; Faster Notes, Dynamics and Tempo ×5;
+  Shapes You Can Draw ×4; School Songs ×4; and the
+  rest), and 41 into 29 NEW lessons (Visual Art:
+  Jordanian Folk Heritage Art ×2; Jordanian Mosaic
+  Heritage; Greek and Roman Art; Byzantine Art;
+  Painting on Glass; Mahmoud Taha, Jordanian
+  Artist. Music: Jordanian Folk Instruments:
+  Rababa, Tabla and Daf; The Jordanian Folk Rain
+  Song; Jordanian Folk Singing; The Shababa and the
+  Drum Kit; Fox and Waltz Rhythms; Timbre: Tone
+  Colour; The Piano; Arab Rhythmic Cycles ×2;
+  Timpani and Cajón; The Bendir and the Triangle;
+  Songs About My Body; Sacred and Religious Songs
+  ×2; The Nay and the Oud; Emotions in Music;
+  Xylophone and Marimba; The Guitar and the Violin;
+  Uneven and Asymmetric Metres; The Longa: An Arab
+  Instrumental Form; The Tuba and the Harpsichord.
+  Drama and Dance: Theatre and the Five Senses ×5;
+  Becoming a Character ×3; Arab Theatre ×2;
+  Theatre Criticism and Appreciation ×3), 348
+  questions added, media as described slots only.
+  Registry resolutions carried: the reader strings
+  are resolved in slug-registry Part 2 throughout —
+  among them jordanian-badia-art and
+  jordanian-folk-heritage-art (filed under Culture
+  and Values) → Jordanian Folk Heritage Art;
+  jordanian-mosaic-heritage (filed under Culture
+  and Values) → Jordanian Mosaic Heritage;
+  attention-and-concentration-for-actors and
+  imagination-in-acting → Becoming a Character;
+  breathing-for-actors → Voice Projection and
+  Diction; the-theatre-audience → Theatre on a
+  Stage; eid-festival-chant → Traditional and
+  Festival Songs; mawtini-anthem and
+  jordanian-flag-anthem → Anthems and Songs That
+  Teach; aqsaq-rhythm → Uneven and Asymmetric
+  Metres; mahmoud-taha-calligraphy-and-clay →
+  Mahmoud Taha, Jordanian Artist. Honesty carried
+  exactly as filed: all six books are COMPLETE;
+  the Grade 10 guide is the only evidence held for
+  the Grade 10 curriculum and is marked
+  teacher-guide evidence throughout; songs and the
+  Jude's Drawing story are placed by summary only,
+  never transcribed; each book's own Review
+  exercises and the Grade 10 self-assessment
+  rubrics are excluded as filed. Jordan's own way
+  is kept as named parts: one combined art, music
+  and theatre book per grade, Jordan's folk
+  instruments (rababa, tabla, daf, shababa), the
+  folk rain song, folk dress and heritage rug
+  patterns, the Badia's art, Madaba mosaic, and the
+  potter-calligrapher Mahmoud Taha.
+
+**The whole course stands at 533 lessons, 6,798 questions and
 210 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 

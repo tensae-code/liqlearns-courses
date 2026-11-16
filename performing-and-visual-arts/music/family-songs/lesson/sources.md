@@ -1,6 +1,6 @@
 # Sources — Family Songs
 
-countries: Ethiopia, Albania, Turkmenistan, Belarus, Bulgaria
+countries: Ethiopia, Albania, Turkmenistan, Belarus, Bulgaria, Jordan
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -37,7 +37,7 @@ countries: Ethiopia, Albania, Turkmenistan, Belarus, Bulgaria
 | Belarus — Songs of mother and the lullaby: the song "Mama" (words Entin, music Bourgeois and Popa), motherhood in painting (Kuzmich's "Madonna") and poem, and the Belarusian folk lullaby "Liuli-liuli, tsely dom spits" — with what mood and feeling lullabies are sung, and why (student book; original target `music/family-songs`) | Book 8, printed pp. 28–31 |
 | Belarus — Part 3, "The miracle of the lullaby": lullabies of different peoples side by side — a Belarusian folk lullaby, Gershwin's lullaby from the opera "Porgy and Bess", and Pauls's song of the boy and the cricket (student book; original target `music/family-songs`) | Book 9, printed pp. 95–99 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Turkmenistan, Belarus, Bulgaria).** Albania is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 5 countries (Ethiopia, Turkmenistan, Belarus, Bulgaria, Jordan).** Albania is added as teacher guide — evidence only, kept outside the acceptance count.
 
 No lyrics of any family song are transcribed; the songs are named and their messages summarised, as the placements give them. The same holds for Sub lesson 4's "ልጅነቴ" (My Childhood), added by Group G: named, sourced (ህይወት ማሞ, traditional melody) and summarised — never transcribed. The written-notes step is named and explained in words only — this lesson does not teach reading the notes themselves; that belongs to the notation lessons of Group E.
 
@@ -48,3 +48,11 @@ Searchable tags: family songs, mother, father, sister, brother, እናቴ, አ�
 | Lesson part | Where it comes from |
 |---|---|
 | Bulgaria — Topic 33: Песни за мама (songs for mother) (student book) | Book 10, printed p. 40 |
+
+
+**Book 11:** *"Children Songs — KG (Song Book)"* (song book, Arabic) — Jordan, no publisher, year or ISBN printed anywhere in the file (a Ministry of Education / Minhaji kindergarten song booklet; the repo record's own download pointer was minhaji.net); no title page in the file — the booklet opens directly with the songs; the record title matches the contents (45 short children's songs/chants, each titled, one to three per page). Grade: KG (student/teacher: STUDENT). PDF pages: 18 (byte size 1,557,981 matches record exactly; fetched with grab.py tree — this small book IS in the repo tree; printed page numbers = PDF page numbers). Verdict: COMPLETE — all 45 songs read and placed, as summaries only (no lyrics transcribed). Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan — the family songs — "My Father", loved and dear, who answers my request and helps me in everything (printed p. 2); "My Doll", the pretty doll from the shop who says Mama and Baba (printed p. 6); "My Mother", who feeds me, dresses me, cares for me and teaches me the love of God and of all people (printed p. 14); "My Mother and My Father", my two moons, light of my heart and eye, greeted a thousand times morning and evening (printed p. 17) (student book; original target `culture-and-values/songs-about-family`) | Book 11, printed pp. 2, 6, 14, 17 |
+| Jordan — the home songs — "The Beautiful House", built with sticks and clay for the generations, with flowers and birds, a door and a fence, which I shall decorate with colours and make bigger as I grow (printed p. 8); "The House", I have a house and you have a house — the bird's house is on the tree, the sea is the fish's house — with the animals' sounds woven in (printed p. 18) (student book; original target `culture-and-values/songs-about-family`) | Book 11, printed pp. 8, 18 |

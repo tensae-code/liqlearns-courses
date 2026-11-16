@@ -1,6 +1,6 @@
 # Sources — Animal Songs
 
-countries: Ethiopia, Turkmenistan, Belarus
+countries: Ethiopia, Turkmenistan, Belarus, Jordan
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -18,8 +18,15 @@ countries: Ethiopia, Turkmenistan, Belarus
 
 | Belarus — Part 1, "In a good fairy-tale land": the folk song of the sparrow who built his little house, Kortes's "Dance of the Fairy" for listening, and the song of friends (words Klimkovich, music Voitsik) (student book; original target `music/animal-songs`) | Book 3, printed pp. 26–30 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Turkmenistan, Belarus).**
+**Acceptance count: taught in 4 countries (Ethiopia, Turkmenistan, Belarus, Jordan).**
 
 The placements name these songs, their givers and their sound-moments only; no lyrics are transcribed anywhere in this lesson, and none are claimed. The Grade 1 lamb placement asks for a GIF of a lamb bleating, mouth moving; that motion was judged a failed-motion risk (a drawn mouth cannot bleat truly) and was NOT filed — the bleating moment is carried by the described AUDIO slot instead, and the board picture covers the visual slot.
 
 Searchable tags: animal songs, lamb, cat, dog, bird, ትንሽ በግ አለኝ, ትንሽ ድመት አለችኝ, ትንሽዬ ውሻ አለኝ, ወፏን እወዳታለሁ, miyaw, bleating, barking, chirping
+
+
+**Book 4:** *"Children Songs — KG (Song Book)"* (song book, Arabic) — Jordan, no publisher, year or ISBN printed anywhere in the file (a Ministry of Education / Minhaji kindergarten song booklet; the repo record's own download pointer was minhaji.net); no title page in the file — the booklet opens directly with the songs; the record title matches the contents (45 short children's songs/chants, each titled, one to three per page). Grade: KG (student/teacher: STUDENT). PDF pages: 18 (byte size 1,557,981 matches record exactly; fetched with grab.py tree — this small book IS in the repo tree; printed page numbers = PDF page numbers). Verdict: COMPLETE — all 45 songs read and placed, as summaries only (no lyrics transcribed). Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan — the animal songs — "Ali Baba", the cumulative farm song imitating the cat's, dog's, chicken's and sheep's sounds, ending with the cunning fox who eats the little chickens (printed p. 3); "The Camel", big and obedient, ridden in the desert (printed p. 5); "The Hen and Her Chicks", who walk to the valley, eat sweet grain and return on time (printed p. 6); "The Cat" and "My Cat Namira", the beautiful white house cat who loves cleanliness, food and play and can catch the mouse (printed pp. 14, 16); "The Elephant", heavy as a mountain and slow, against the light bird jumping happily on the branch, and "The Chicks", who drank the water and raised their heads in thanks (printed p. 16); "My Rabbit", called to come, jump, eat the sweet green grass and play (printed p. 17) (student book; original target `music/songs-about-animals`) | Book 4, printed pp. 3, 5, 6, 14, 16, 17 |

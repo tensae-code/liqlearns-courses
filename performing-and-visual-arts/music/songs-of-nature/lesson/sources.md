@@ -1,6 +1,6 @@
 # Sources — Songs of Nature
 
-countries: Ethiopia, Turkmenistan, Fiji, Belarus, Morocco
+countries: Ethiopia, Turkmenistan, Fiji, Belarus, Morocco, Jordan
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -44,8 +44,15 @@ countries: Ethiopia, Turkmenistan, Fiji, Belarus, Morocco
 | Morocco — "Nature Is God's Wonderful Blessing" (الطبيعة نعمة الله البديعة) — a nature song (words and music Deeb Abu Shala) — nature's seas, rivers, mountains, trees, birds and stars obey their Creator; we eat from its crops, drink from its springs, are gladdened by the nightingale's voice, and must guard the trust (summary only) (teacher guide — evidence; original target `music/songs-of-nature`) | Book 9, printed p. 127 |
 | Morocco — "Long Live the Tree" (تحيا الشجرة) — a tree song (words Bayan al-Samadi, "Color Dréamine") — the tree as mother of fruit and sweet home of the bird, dreaming of shade and light, thanking the rain, her green leaves the colour of hope, defying wind and cold; the children promise to plant and water her (summary only) (teacher guide — evidence; original target `music/songs-of-nature`) | Book 10, printed p. 106 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Turkmenistan, Belarus).** Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 4 countries (Ethiopia, Turkmenistan, Belarus, Jordan).** Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 2 book prints the star song in Amharic and the Grade 3 book prints the same song in English; both placements are stocked — the Amharic here, the English in School Songs — exactly as the books place them. No song lyrics are transcribed; songs are named and their pictures summarised.
 
 Searchable tags: nature songs, surroundings, birds, star, planting, green land, አካባቢያችን, ወፎች ዘመሩ, አዕዋፍ, ኮከብ, እፅዋት እተክላለሁ, የመልከዓ ምድር ልምላሜ
+
+
+**Book 11:** *"Children Songs — KG (Song Book)"* (song book, Arabic) — Jordan, no publisher, year or ISBN printed anywhere in the file (a Ministry of Education / Minhaji kindergarten song booklet; the repo record's own download pointer was minhaji.net); no title page in the file — the booklet opens directly with the songs; the record title matches the contents (45 short children's songs/chants, each titled, one to three per page). Grade: KG (student/teacher: STUDENT). PDF pages: 18 (byte size 1,557,981 matches record exactly; fetched with grab.py tree — this small book IS in the repo tree; printed page numbers = PDF page numbers). Verdict: COMPLETE — all 45 songs read and placed, as summaries only (no lyrics transcribed). Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan — the nature songs — "The Sand", playing in the garden's many-coloured sand (printed p. 4); "Water", the river's sweet water, rain, washing — water is the life of people, crops and animals (printed p. 4); "The Field", ploughing my field whose land gives fruit and vegetables, the rest sent to the markets (printed p. 4); "Look, Look With Us", at the sea's blue, the crops' green and the flowers' red — the Creator's making in every shape and colour (printed p. 9); "The Apple", red among the greens, who asks to be washed before eating (printed p. 13); "The World Is Cold", teeth chattering tak-tak with cold, against last year's heat (printed p. 14); "The Morning", which has come back with sun and light after darkness, small and great rising (printed p. 15) (student book; original target `first-steps/nature-songs`) | Book 11, printed pp. 4, 9, 13, 14, 15 |

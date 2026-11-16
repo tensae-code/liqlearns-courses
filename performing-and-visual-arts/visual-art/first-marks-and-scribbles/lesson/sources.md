@@ -1,6 +1,6 @@
 # Sources — First Marks and Scribbles
 
-countries: Ethiopia, Maldives, Nicaragua, Singapore
+countries: Ethiopia, Maldives, Nicaragua, Singapore, Jordan
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -21,8 +21,15 @@ countries: Ethiopia, Maldives, Nicaragua, Singapore
 | Nicaragua — Free drawing — "Me gusta el dibujo libre" — drawing freely for pleasure as the first art creation (teacher guide — evidence) | Book 4, printed p. 10 |
 
 | Singapore — How young children's mark-making grows: exploration, then predictability and regularity, then symbolic and representative drawing — Ch.1, Art in the Early Years (teacher guide — evidence) | Book 5, printed p. 10 |
-**Acceptance count: taught in 2 countries (Ethiopia, Maldives). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.**
+**Acceptance count: taught in 3 countries (Ethiopia, Maldives, Jordan). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.**
 
 Review placements fold into this lesson under the course folding rules: the Grade 1 Chapter 2 summary + review (printed pp. 34–35) and the Grade 2 Chapter 2 summary + closing exercise (printed pp. 45–46) are stocked as Sub lesson 3 and as question stock; no standalone Review lesson is built. The Grade 1 scribble page is picture-led (a full page of red scribble with no text layer beyond the running head); the placement is followed exactly as read.
 
 Searchable tags: Maldives, Exploring Creative Arts 4, scribbling, ሞነጫጨር, first marks, free drawing, loosening the hand, first-level drawing method, Ethiopia Grade 1 Grade 2 drawing, Nicaragua
+
+
+**Book 6:** *رَسْمَةُ جود (Jude's Drawing) — Developmental Kindergarten Curriculum, Letters Stories Series (منهاج رياض الأطفال التطوري — سلسلة قصص الحروف); author Huda Al-Sha'er; illustrations Jihad Gharaybeh and Sireen Gharaybeh* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Amman; year 2022 imprint (first experimental edition 2020–2021); ISBN 978-9923-41-096-7. Grade: KG (student/teacher: STUDENT). PDF pages: 8 (cover/title page verified against the record title; byte size 6,290,452 matches record exactly; the story itself runs on printed pp. 3–8). Verdict: COMPLETE. Story placed by summary only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan — the story "Jude's Drawing" — a first drawing experience told as a story — choosing what to draw (a flower, then a sheep or a cat; Walid draws a puppy), not being satisfied with a drawing and trying again and again, and seeing your finished drawing hung on the wall (student book; original target `first-steps/my-first-drawing`) | Book 6, printed pp. 3–8 |

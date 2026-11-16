@@ -1,6 +1,6 @@
 # Sources — School Songs
 
-countries: Ethiopia, Andorra, Barbados, Samoa, Nicaragua, Singapore, Malta, Finland, Turkmenistan, Fiji, Bulgaria
+countries: Ethiopia, Andorra, Barbados, Samoa, Nicaragua, Singapore, Malta, Finland, Turkmenistan, Fiji, Bulgaria, Jordan
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 96 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -55,7 +55,7 @@ countries: Ethiopia, Andorra, Barbados, Samoa, Nicaragua, Singapore, Malta, Finl
 | Turkmenistan — "Наша школа" (Our School; words G. Bäşiýew, music N. Muhadow, Russian text Yu. Kushak) — the school song, in the main text and the notation appendix (summary only) (student book; original target `music/school-songs`) | Book 13, printed pp. 10, 56 |
 | Fiji — Unit 3 Books — songs celebrating books and reading (Books I Love in English and iTaukei, the Library Song with its animal visitors), sung with meaning, expression and group movement (teacher guide — evidence; original target `music/songs-about-books-and-reading`) | Book 14, printed pp. 14–16 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Finland, Turkmenistan, Bulgaria). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document and teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 5 countries (Ethiopia, Finland, Turkmenistan, Bulgaria, Jordan). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document and teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Fidel song and the ABC song are charts sung, not lyrics: the letters in order are their content, and only the letter orders the placements themselves quote are printed in this lesson. The Grade 3 book prints the Twinkle song in English as its one full English text; this lesson names it and places it, and does not re-transcribe it.
 
@@ -66,3 +66,28 @@ Searchable tags: school songs, ABC song, Twinkle Twinkle, fidel song, let's go t
 | Lesson part | Where it comes from |
 |---|---|
 | Bulgaria — the book's singing stock of 41 songs (author songs and folk songs for the school year, contents-listed) — Bulgaria Grade 4 Riva Music, printed pp. 58–60 (contents; songs named only) (student book) | Book 15, printed pp. 58–60 (contents; songs named only) |
+
+
+**Book 16:** *التربية الفنية والموسيقية والمسرحية — الصف الأول (Art, Music and Theatre Education — Grade 1)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (first experimental edition, for school year 2024/2025); ISBN 978-9923-41-691-4. Grade: 1 (student/teacher: STUDENT). PDF pages: 76 (cover/title page verified against the record title; byte size 40,406,311 matches record exactly; printed page numbers = PDF page numbers). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.
+
+**Book 17:** *التربية الفنية والموسيقية والمسرحية — الصف الثاني (Art, Music and Theatre Education — Grade 2)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (first experimental edition, for school year 2024/2025); ISBN 978-9923-41-693-8. Grade: 2 (student/teacher: STUDENT). PDF pages: 94 (cover/title page verified against the record title; byte size 29,623,603 matches record exactly; printed page numbers = PDF page numbers). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.
+
+**Book 18:** *"Children Songs — KG (Song Book)"* (song book, Arabic) — Jordan, no publisher, year or ISBN printed anywhere in the file (a Ministry of Education / Minhaji kindergarten song booklet; the repo record's own download pointer was minhaji.net); no title page in the file — the booklet opens directly with the songs; the record title matches the contents (45 short children's songs/chants, each titled, one to three per page). Grade: KG (student/teacher: STUDENT). PDF pages: 18 (byte size 1,557,981 matches record exactly; fetched with grab.py tree — this small book IS in the repo tree; printed page numbers = PDF page numbers). Verdict: COMPLETE — all 45 songs read and placed, as summaries only (no lyrics transcribed). Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.
+
+**Book 19:** *التربية الفنية والموسيقية والمسرحية — الصف الثالث (Art, Music and Theatre Education — Grade 3)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (first experimental edition, for school year 2024/2025); ISBN 978-9923-41-694-5. Grade: 3 (student/teacher: STUDENT). PDF pages: 82 (cover/title page verified against the record title; byte size 40,732,046 matches record exactly; printed page numbers = PDF page numbers). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan — Unit 2 Lesson 7 (chant part) — the school chant "Saffi, Ma Ahla Saffi" (My Class, How Lovely Is My Class) — a chant praising the class as wide and beautiful, its friends, growing in knowledge like a treasure, sung with its recording (student book; original target `music/school-songs`) | Book 16, printed p. 47 |
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan — Unit 2 Lesson 6 "The Song of the Arabic and English Alphabet Letters" — every language in the world has its alphabet letters and each letter has its own sound; naming and reading the sounds of the Arabic and English letters with correct articulation, and singing both alphabets to the tune of the Twinkle Twinkle song (student book; original target `music/school-songs`) | Book 17, printed p. 57 |
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan — the school-day songs — "The Active Pupil", neat and clean, who wakes without crying and washes ears, face and hands (printed p. 2); "The Sound of the Clock", whose tick-tock teaches keeping time and hurrying to beat the lesson bell (printed p. 5); "My Kindergarten", meeting-place of loved ones, comfort, fun and joy (printed p. 8); "O My School", where the nicest time is spent between lesson and games with friends (printed p. 17); "The Clothes", a song of the child's garment whose colours harmonise (printed p. 18) (student book; original target `music/school-songs`) | Book 18, printed pp. 2, 5, 8, 17, 18 |
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan — Unit 2 Lesson 10 "The BINGO Song" — silence (the rest) is one of the important elements in music, learned through performing the BINGO song — the English song of the farmer and his dog Bingo, whose name's letters are dropped one by one and replaced by silence as the verses repeat; music is used in teaching foreign languages, since songs' words are memorised easily because of the tune and the enjoyable repetition of the words (summary only — no words transcribed) (student book; original target `music/school-songs`) | Book 19, printed p. 56 |

@@ -1,6 +1,6 @@
 # Sources — Technical and Performance Elements of Theatre
 
-countries: Ethiopia, Egypt, Honduras, Albania, Romania, Trinidad and Tobago, Finland, Colombia, Iran, Brazil
+countries: Ethiopia, Egypt, Honduras, Albania, Romania, Trinidad and Tobago, Finland, Colombia, Iran, Brazil, Jordan
 
 **Book 1:** *Grade 8 Performing and Visual Arts Teacher's Guide Book* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, March 2022, printed pp. 1–110 as promised by its contents; the library file is TRUNCATED — its body holds printed pp. 1–56 plus syllabus tables, and Units 4–5 are placed from its contents and syllabus only. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-teacher-placements.md.
 
@@ -49,8 +49,36 @@ countries: Ethiopia, Egypt, Honduras, Albania, Romania, Trinidad and Tobago, Fin
 
 | Brazil — Folha 11 — the actor's instruments: gestural and facial expression and mime; vocal expression, diction and voice care; dramatic action and conflict; improvisation, with Boal's image games (Completando a imagem) (student book; original target `drama-and-dance/the-actors-body-voice-and-improvisation`) | Book 12, printed p. 178 |
 
-**Acceptance count: taught in 7 countries (Egypt, Honduras, Romania, Finland, Colombia, Iran, Brazil).** Ethiopia teacher-guide evidence is named here, counted nowhere. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 8 countries (Egypt, Honduras, Romania, Finland, Colombia, Iran, Brazil, Jordan).** Ethiopia teacher-guide evidence is named here, counted nowhere. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Jordan's Grade 10 teacher guide is also stocked in this lesson as evidence, as labelled in its rows.
 
 This lesson stands on the Grade 8 teacher guide (printed pp. 10–11) as labelled evidence; the topic sits in the guide's full body (Units 1–3).
 
 Searchable tags: technical elements, performance elements, scenery, props, projection, diction, Grade 8 teacher guide, evidence, Egypt, voice variety, breathing, preparing the actor, Romania, Finland, Colombia, Brazil
+
+
+**Book 13:** *التربية الفنية والموسيقية والمسرحية — الصف الأول (Art, Music and Theatre Education — Grade 1)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (first experimental edition, for school year 2024/2025); ISBN 978-9923-41-691-4. Grade: 1 (student/teacher: STUDENT). PDF pages: 76 (cover/title page verified against the record title; byte size 40,406,311 matches record exactly; printed page numbers = PDF page numbers). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.
+
+**Book 14:** *التربية الفنية والموسيقية والمسرحية — الصف الثاني (Art, Music and Theatre Education — Grade 2)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (first experimental edition, for school year 2024/2025); ISBN 978-9923-41-693-8. Grade: 2 (student/teacher: STUDENT). PDF pages: 94 (cover/title page verified against the record title; byte size 29,623,603 matches record exactly; printed page numbers = PDF page numbers). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.
+
+**Book 15:** *التربية الفنية والموسيقية والمسرحية — الصف الثالث (Art, Music and Theatre Education — Grade 3)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (first experimental edition, for school year 2024/2025); ISBN 978-9923-41-694-5. Grade: 3 (student/teacher: STUDENT). PDF pages: 82 (cover/title page verified against the record title; byte size 40,732,046 matches record exactly; printed page numbers = PDF page numbers). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.
+
+**Book 16:** *التربية الفنية والموسيقية والمسرحية — الصف العاشر (Art, Music and Theatre Education — Grade Ten), teacher's guide (دليل المعلم)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Amman; year 2025 (first experimental edition, 1446H/2025); ISBN 978-9923-41-960-1. Grade: Grade 10 (student/teacher: TEACHER). PDF pages: 125 (cover/title page verified against the record title; printed page numbers equal PDF page numbers). Verdict: COMPLETE — read in full, page by page. Note: the Grade 10 student book is not among this group's records; this guide is the only evidence held for the Grade 10 curriculum, so every placement from it is marked teacher-guide evidence. The per-lesson self-assessment rubrics are assessment apparatus with no teaching content and are not placed; the three embedded play/story texts are summarised, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan — Unit 3 Lesson 7 "Expressing Feelings with the Voice" — the voice is the actor's basic tool for expressing characters' feelings — joy, anger, fear and sadness shown on paper-bag faces and carried by voice to the audience (student book; original target `drama-and-dance/technical-and-performance-elements-of-theatre`) | Book 13, printed p. 68 |
+| Jordan — Unit 3 Lesson 8 "Expressing Feelings with Movement" — the actor's movement carries a character's feelings to the audience; every person has their own way of expressing feelings by movement — the shivering, clutching boy and the girl hugging her flowers read as feeling shown in the body (student book; original target `drama-and-dance/technical-and-performance-elements-of-theatre`) | Book 13, printed p. 70 |
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan — Unit 3 Lesson 6 "Communication by Voice Between the Actors" — vocal communication between the actors is speech and listening, to convey the idea of the play to the audience; dialogue between actors inside a performance helps deliver the play's idea, and the actor must choose the voice that suits the nature of the character he presents (student book; original target `drama-and-dance/technical-and-performance-elements-of-theatre`) | Book 14, printed p. 85 |
+| Jordan — Unit 3 Lesson 7 "Communication by Movement Between the Actors" — movement communication between the actors is a way of expressing through body movements and gestures; it makes the audience understand the play in a clear and enjoyable way, and the actor must choose the movements and gestures that suit the character he presents (student book; original target `drama-and-dance/technical-and-performance-elements-of-theatre`) | Book 14, printed p. 87 |
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan — Unit 3 Lesson 7 "Voice and Delivery in Theatre" — voice and delivery are an important skill for expressing the character's thoughts and feelings in the play; the voice is a means of expression and communication with others, and delivery (ilqa') is the way of pronouncing the words in a clear manner (student book; original target `drama-and-dance/technical-and-performance-elements-of-theatre`) | Book 15, printed p. 74 |
+| Jordan — Unit 3 Lesson 9 "Dealing Between the Actors in the Play" — vocal and movement interaction and communication between the actors helps the play's success; dealing between the actors in the play means the cooperation and communication between them, by movement and by voice, on the stage — with concentration when exchanging the vocal and movement signals (cues) between the actors; the nature of the communication between the characters, and how focus and attention achieve communication between the actors (student book; original target `drama-and-dance/technical-and-performance-elements-of-theatre`) | Book 15, printed p. 78 |
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan — Theatre Lesson 5 "Theatrical Scenography" — scenography, from the Greek skini (scene) and grafo (drawing) — designing the stage scene as one coordinated whole of seven elements: the actor as prime mover, decor, lighting, costumes, makeup, visual and sound effects such as wind, rain and thunder, and the props actors handle; pupils design scenography for a scene and build a model scene in a cardboard box (teacher guide — evidence; original target `drama-and-dance/technical-and-performance-elements-of-theatre`) | Book 16, printed p. 110 |

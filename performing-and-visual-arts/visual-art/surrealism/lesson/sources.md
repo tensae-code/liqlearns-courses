@@ -1,6 +1,6 @@
 # Sources — Surrealism
 
-countries: Sudan, Brazil
+countries: Sudan, Brazil, Jordan
 
 **Book 1:** *الفنون والتصميم (Arts & Design) — الصف الثالث الثانوي (Third Secondary Year), Secondary Stage (التعليم الثانوي)* (student book, Arabic) — Sudan, National Center for Curricula and Educational Research (المركز القومي للمناهج والبحث التربوي), Bakht Al-Ruda — Republic of Sudan, Ministry of Education; prepared by a committee chaired by Prof. Mohamed Al-Amin Ali (University of Juba, College of Arts and Humanities) with Abdul Basit Abdullah Al-Khatim, Mohamed Mohamed Idris (University of Sudan, College of Arts) and Dr. Khidir Mohamed Othman (NCCR); revised edition 2007 (الطبعة المنقحة ٢٠٠٧م); ISBN 978-99942-53-7-4; legal deposit 788/2008, Grade 12, 161 PDF pp. STUDENT. Verdict: COMPLETE — read in full, page by page. Named in the header, not placed: Book 1's closing "Exercise" (printed p. 35) and Book 4's opening "Revision Exercises" (printed p. 102) are assessment; Book 5, "The Study Plan" (printed pp. 150–154), is syllabus tables — apparatus, not teaching content. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sudan-placements.md.
 
@@ -13,8 +13,15 @@ countries: Sudan, Brazil
 
 | Brazil — Folha 4 "Esses fazedores de arte" — Surrealism: Dalí, Breton's 1924 Manifesto, Freud and the unconscious; making a surrealist collage over a painted landscape (student book; original target `visual-art/surrealism`) | Book 2, printed p. 65 |
 
-**Acceptance count: taught in 2 countries (Sudan, Brazil).**
+**Acceptance count: taught in 2 countries (Sudan, Brazil).** Jordan is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/surrealism`); the Sudan placements were filed under the original strings recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Sudan's own way is kept as the named sub lessons above.
 
 Searchable tags: surrealism, Sudan, Brazil
+
+
+**Book 3:** *التربية الفنية والموسيقية والمسرحية — الصف العاشر (Art, Music and Theatre Education — Grade Ten), teacher's guide (دليل المعلم)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Amman; year 2025 (first experimental edition, 1446H/2025); ISBN 978-9923-41-960-1. Grade: Grade 10 (student/teacher: TEACHER). PDF pages: 125 (cover/title page verified against the record title; printed page numbers equal PDF page numbers). Verdict: COMPLETE — read in full, page by page. Note: the Grade 10 student book is not among this group's records; this guide is the only evidence held for the Grade 10 curriculum, so every placement from it is marked teacher-guide evidence. The per-lesson self-assessment rubrics are assessment apparatus with no teaching content and are not placed; the three embedded play/story texts are summarised, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan — Visual Lesson 1 "The Surrealist School" — Surrealism as a modern school expressing thoughts, feelings and dreams from the subconscious in illogical, symbol-laden images; Dalí, Magritte and Miró named, Dalí's Persistence of Memory analysed, and pupils draw their own surreal composition of unconnected elements and research Jordanian and Arab artists influenced by the school (teacher guide — evidence; original target `visual-art/surrealism-dreams-and-the-unconscious`) | Book 3, printed p. 8 |

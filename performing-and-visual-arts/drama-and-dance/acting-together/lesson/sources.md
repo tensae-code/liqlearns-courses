@@ -1,6 +1,6 @@
 # Sources — Acting Together
 
-countries: Ethiopia, Egypt, Uganda, Nicaragua, Finland, Fiji, Morocco
+countries: Ethiopia, Egypt, Uganda, Nicaragua, Finland, Fiji, Morocco, Jordan
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -54,10 +54,23 @@ countries: Ethiopia, Egypt, Uganda, Nicaragua, Finland, Fiji, Morocco
 | Morocco — "The Forest Calls for Help" (الغابة تستنجد) — a play — in spring the Trees (willow, holm oak and cedar) dance and sing until a picnicking man lights a fire to cook and ignores their pleas (they shelter birds and animals, hold back the wind, scent the air); they call for help, the Forest Guard makes him put the fire out and fines him, and the Trees applaud justice and dance again (plot only) (teacher guide — evidence; original target `drama-and-dance/acting-together`) | Book 14, printed p. 108 |
 | Morocco — "I Am Morocco" (أنا المغرب) — a play — a visiting tourist girl with camera and map meets Morocco himself (a boy in jellaba, selham, balgha slippers and tarboush), who presents his parts one by one: the Atlas Mountains (white cap for snow, branches for forests), the Green Plains (flowers and a basket of fruit), the Sea (with his fishing rod), the Desert (a girl in Saharan melhafa), Moroccan Dress (a girl in caftan and cherbil — "my caftan crossed borders") and Moroccan Cuisine (a cook with a tagine — couscous, tagine, bastilla); all close clapping, dancing and singing "Live, My Country!" (plot only) (teacher guide — evidence; original target `drama-and-dance/acting-together`) | Book 14, printed p. 120 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Egypt, Uganda, Finland, Fiji).** The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Finland's module-plan part (Book 10) is evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 6 countries (Ethiopia, Egypt, Uganda, Finland, Fiji, Jordan).** The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Finland's module-plan part (Book 10) is evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Nothing flagged. The Grade 3 methods passage is stocked in its book's own order; the four methods are the placement's four, word for word in substance.
 
 Egypt Grade 8 exclusions, carried exactly as filed: نماذج اختبارات (test models, printed p. 74) are assessment — named, not placed; قاموس المصطلحات (glossary of terms, printed p. 81) is a word list — inventory-only, named, not stocked. Egypt's own way in the Grade 8 book: the actor's craft taught step by step — expression, stance, character-building and monodrama first as solo skills, then theatre used for peace-making and for history, ending with the stage's nine areas and a full class theatre project.
 
 Searchable tags: acting together, group drama, simple drama methods, passing a message by drama, cause and effect, self-confidence, Grade 1, Grade 3, Egypt, curriculum play, مسرحية منهجية, theatre project, Nicaragua, Finland
+
+
+**Book 15:** *التربية الفنية والموسيقية والمسرحية — الصف الثاني (Art, Music and Theatre Education — Grade 2)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (first experimental edition, for school year 2024/2025); ISBN 978-9923-41-693-8. Grade: 2 (student/teacher: STUDENT). PDF pages: 94 (cover/title page verified against the record title; byte size 29,623,603 matches record exactly; printed page numbers = PDF page numbers). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.
+
+**Book 16:** *رَسْمَةُ جود (Jude's Drawing) — Developmental Kindergarten Curriculum, Letters Stories Series (منهاج رياض الأطفال التطوري — سلسلة قصص الحروف); author Huda Al-Sha'er; illustrations Jihad Gharaybeh and Sireen Gharaybeh* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Amman; year 2022 imprint (first experimental edition 2020–2021); ISBN 978-9923-41-096-7. Grade: KG (student/teacher: STUDENT). PDF pages: 8 (cover/title page verified against the record title; byte size 6,290,452 matches record exactly; the story itself runs on printed pp. 3–8). Verdict: COMPLETE. Story placed by summary only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan — Unit 3 Lesson 5 "Theatre Is Group Work" — cooperation and group work among the members of the theatre team help the play succeed — cooperation brings benefit and pleasure to everyone, and completing a play and its success need cooperation (builders and a football team pictured as group work) (student book; original target `culture-and-values/working-together-in-art`) | Book 15, printed p. 83 |
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan — the story's ending — the mess of crumpled, scattered paper the drawing made, and tidying it together — Jude gathers the paper and Walid helps her (student book; original target `culture-and-values/working-together-in-art`) | Book 16, printed p. 8 |

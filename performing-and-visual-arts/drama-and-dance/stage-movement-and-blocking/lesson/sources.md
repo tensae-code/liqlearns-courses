@@ -1,6 +1,6 @@
 # Sources — Stage Movement and Blocking
 
-countries: Egypt, Suriname, Iran, Morocco
+countries: Egypt, Suriname, Iran, Morocco, Jordan
 
 **Book 1:** *Theatre Education — Second Preparatory, Grade 8, First Term (التربية المسرحية — الصف الثاني الإعدادي — الفصل الدراسي الأول)* (student book, Arabic) — Egypt, وزارة التربية والتعليم (Ministry of Education and Technical Education, Egypt), 2025, no ISBN printed, Grade 8, Arabic, 81 PDF pp. Verdict: COMPLETE (cover/title page verified against the record title). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/egypt-placements.md.
 
@@ -27,8 +27,15 @@ countries: Egypt, Suriname, Iran, Morocco
 | Morocco — "The Forest Calls for Help" (الغابة تستنجد), placing the actors — before performing, pupils draw the stage plan and mark where the Willow and the Guard stand among the nine stage positions, then change positions as they play their roles (teacher guide — evidence; original target `drama-and-dance/the-nine-stage-positions`) | Book 5, printed p. 108 |
 | Morocco — Appendix: "The Actor's Movement on the Stage" (حركة الممثل على خشبة المسرح) — movement shapes and their meanings in full — straight (firmness, directness, honesty, pressure), circular (clashing interests), curved (a character's inner contradiction), zigzag/broken (shock, confusion); movement heavy or light, fast or slow, vertical (pride and power) against horizontal; and the three kinds named in writing and directing — obligatory movement written by the author (the handkerchief in Shakespeare's Othello), reflexive movement that betrays a hidden feeling (Hamlet), and technical movement left to the director (slug first proposed in the Grade 3 filing) (teacher guide — evidence; original target `drama-and-dance/stage-movement-and-its-meanings`) | Book 5, printed pp. 132–133 |
 
-**Acceptance count: taught in 2 countries (Egypt, Iran).** Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 3 countries (Egypt, Iran, Jordan).** Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `drama-and-dance/stage-movement-and-blocking` — "How actors move on stage — movement paths and their meanings, blocking, the nine stage positions, stances, entrances and exits"); the Egypt placement's original string `drama-and-dance/stage-stances` resolves to it in slug-registry Part 2, and the original string is recorded in the provenance rows above. The lesson keeps exactly the scope the placement states — stances only: no movement paths, blocking positions or entrances and exits are claimed from this book. (Egypt's nine stage areas are stocked separately, in Theatre on a Stage, from the same book's Lesson 9, printed p. 62.) Egypt's own way in the Grade 8 book: the actor's craft taught step by step — expression, stance, character-building and monodrama first as solo skills, then theatre used for peace-making and for history. Exclusions for this book, as filed: نماذج اختبارات (test models, printed p. 74) are assessment — named, not placed; قاموس المصطلحات (glossary of terms, printed p. 81) is a word list — inventory-only, named, not stocked.
 
 Searchable tags: stage movement, blocking, stance, وقفة, my stance speaks, Egypt
+
+
+**Book 6:** *التربية الفنية والموسيقية والمسرحية — الصف الثاني (Art, Music and Theatre Education — Grade 2)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (first experimental edition, for school year 2024/2025); ISBN 978-9923-41-693-8. Grade: 2 (student/teacher: STUDENT). PDF pages: 94 (cover/title page verified against the record title; byte size 29,623,603 matches record exactly; printed page numbers = PDF page numbers). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan — Unit 3 Lesson 4 "The Actors' Movement on the Stage" — the basic movements of the actors on the stage are the straight movement, the circular movement and the curved movement, told apart from arrow diagrams and from mime pictures (student book; original target `drama-and-dance/stage-movement-paths`) | Book 6, printed p. 81 |

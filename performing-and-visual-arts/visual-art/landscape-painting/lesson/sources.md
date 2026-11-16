@@ -1,6 +1,6 @@
 # Sources — Landscape Painting
 
-countries: Turkmenistan, Pakistan, Sudan, Belarus
+countries: Turkmenistan, Pakistan, Sudan, Belarus, Jordan
 
 **Book 1:** *Surat — Umumy orta bilim berýän mekdepleriň I synpy üçin okuw kitaby (Art — textbook for Grade 1 of general secondary schools), Dördünji neşir (4th edition)* (student book, Turkmen) — Turkmenistan, by Wepa Amangeldiýew, Döwletgeldi Akyýew; Türkmen döwlet neşirýat gullugy (Turkmen State Publishing Service), Ashgabat, 2022, no ISBN printed, Grade 1, 80 PDF pp. STUDENT. Recommended by the Ministry of Education of Turkmenistan. Verdict: COMPLETE. The repo tree path is a PHANTOM PUSH (HTTP 404); the book was fetched from the recorded kitaphana.bilim.tm source via the library's own API file link, 79,070,978 bytes and 80 pages, matching the record exactly, and the copy is staged under the push-don't-delete rule. Placements at liqlearns-courses-work/expansion-art-2026-11-16/turkmenistan-placements.md.
 
@@ -23,8 +23,15 @@ countries: Turkmenistan, Pakistan, Sudan, Belarus
 | Belarus — Part 3, the ABC of art: Depicting a landscape — passing on the depth of space, the state and mood of nature, and the landscape's colour scheme (kalaryt), in paint and in graphic media, through Belarusian and Russian landscape masters (Chepik, Tsvirka, Vasiliev, Maslenikau, Nemenski, Sadzin) (student book; original target `visual-art/painting-landscapes`) | Book 4, printed pp. 37–40 |
 | Belarus — Section 7, "The landscape genre": the national schools of realistic landscape painting in the 18th–19th centuries and the emotional qualities famous landscape painters gave it; in Belarus, Vashchanka's "In Polesie" and the oil-workers of Polesie (student book; original target `visual-art/painting-landscapes`) | Book 5, printed pp. 28–31 |
 
-**Acceptance count: taught in 4 countries (Turkmenistan, Pakistan, Sudan, Belarus).**
+**Acceptance count: taught in 5 countries (Turkmenistan, Pakistan, Sudan, Belarus, Jordan).**
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/landscape-painting`); the Turkmenistan placement(s) were filed as NEW LESSON NEEDED under the original string `visual-art/landscapes-and-seasons`, recorded in the provenance row(s) above and resolved to this lesson by slug-registry Part 2. This canonical lesson is built from the three Turkmenistan placements filed under the original string `visual-art/landscapes-and-seasons`, resolved here by slug-registry Part 2. Songs and stories are placed by summary only, never transcribed.
 
 Searchable tags: landscape, seasons, autumn, winter gouache, rainbow, älemgoşar, Turkmenistan
+
+
+**Book 6:** *التربية الفنية والموسيقية والمسرحية — الصف الثالث (Art, Music and Theatre Education — Grade 3)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (first experimental edition, for school year 2024/2025); ISBN 978-9923-41-694-5. Grade: 3 (student/teacher: STUDENT). PDF pages: 82 (cover/title page verified against the record title; byte size 40,732,046 matches record exactly; printed page numbers = PDF page numbers). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan — Unit 1 Lesson 8 "Drawing a Scene from Nature" — nature is the main source and the first inspiration for the artist in drawing his panels — the artist feels the Creator's power in nature's diverse forms and imitates them into art panels (the Irbid plains, Wadi Rum and the Koura lake pictured as Jordanian scenes); the artist's panels mostly express his environment and surroundings, so many panels around us are of natural scenes — ticking which pictured panel shows a natural scene, then drawing and colouring a natural scene I love, choosing its suitable colours (student book; original target `visual-art/landscapes`) | Book 6, printed p. 26 |

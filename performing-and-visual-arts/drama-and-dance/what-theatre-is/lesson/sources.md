@@ -1,6 +1,6 @@
 # Sources — What Theatre Is
 
-countries: Ethiopia, Egypt, Nicaragua, Trinidad and Tobago, Suriname, Iran
+countries: Ethiopia, Egypt, Nicaragua, Trinidad and Tobago, Suriname, Iran, Jordan
 
 **Book 1:** *Grade 4 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 4ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–100. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-student-placements.md.
 
@@ -26,10 +26,17 @@ countries: Ethiopia, Egypt, Nicaragua, Trinidad and Tobago, Suriname, Iran
 | Suriname — Theatre domain introduction: what theatre is — theatre is a message shared with an audience — without an audience, no theatre; its three basics are a playing space, the players and the public, and it is the art where the disciplines come together — dance, song, poetry and music on the inner side, architecture, sculpture, painting and drawing on the outer; the maker means the audience can use to build a performance are named: play, playing space, make-up (grime), costume, dance, set (decor), light, sound, music and image projection (teacher guide — evidence) | Book 5, printed pp. 156–157 |
 | Iran — Dramatic arts L1, Play and acting: بازی و بازیگری: what play and acting are, and choosing and reading a play script (student book) | Book 6, printed p. 128 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Egypt, Iran). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 4 countries (Ethiopia, Egypt, Iran, Jordan). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This lesson rests on the Grade 4 student book's own definition (§1.3). The book's performance picture (Fig. 1.12, printed p. 16) is described as a slot; it is not reproduced.
 
 Egypt's own way: school theatre (التربية المسرحية) is taught as a full subject through story-framed topics — each topic opens with a theatre game, tells a story, then teaches one theatre craft inside it, always tied to values and sustainable-development themes. The Grade 7 book's closing skills-tree self-tracking page (printed p. 49) is self-assessment apparatus — named in the placements, not placed.
 
 Searchable tags: theatre, definition, director, audience, Grade 4, §1.3, Egypt, school theatre, التربية المسرحية, Nicaragua
+
+
+**Book 7:** *التربية الفنية والموسيقية والمسرحية — الصف الأول (Art, Music and Theatre Education — Grade 1)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (first experimental edition, for school year 2024/2025); ISBN 978-9923-41-691-4. Grade: 1 (student/teacher: STUDENT). PDF pages: 76 (cover/title page verified against the record title; byte size 40,406,311 matches record exactly; printed page numbers = PDF page numbers). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan — Unit 3 Lesson 1 "The Art of Theatre" — theatre is a form of art that actors present to spectators, holding pleasure and benefit; its emblem is the laughing face and the crying face, and cooperation is necessary in theatre (student book; original target `drama-and-dance/what-theatre-is`) | Book 7, printed p. 56 |

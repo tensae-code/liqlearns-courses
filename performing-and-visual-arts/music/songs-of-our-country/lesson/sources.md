@@ -1,6 +1,6 @@
 # Sources — Songs of Our Country
 
-countries: Ethiopia, Albania, Turkmenistan, Fiji, Belarus, Morocco, Bulgaria
+countries: Ethiopia, Albania, Turkmenistan, Fiji, Belarus, Morocco, Bulgaria, Jordan
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -50,7 +50,7 @@ countries: Ethiopia, Albania, Turkmenistan, Fiji, Belarus, Morocco, Bulgaria
 | Morocco — "My Homeland! O Land of Peace!" (وطني! يا أرض السلام!) — a patriotic anthem (words and music Aghlalo Abdelali, sung by Oumaima Ben Zouine) — the homeland as mother and father, land of ancestors and grandchildren, of the two Atlases, mountains and snows, deserts and seas, olives and generosity (summary only) (teacher guide — evidence; original target `music/moroccos-homeland-songs`) | Book 12, printed p. 68 |
 | Morocco — "Live, My Country!" (يا بلادي عيشي) — a patriotic zajal (words Ali El Haddani, music Mohamed Ben Abdessalam, sung by Mahmoud El Idrissi) — "live, live, my country, live": Morocco the generous mother overflowing with goodness, her scent musk and perfume in the air, her people praying for their beloved King (summary only) (teacher guide — evidence; original target `music/moroccos-homeland-songs`) | Book 12, printed p. 118 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Turkmenistan, Belarus, Bulgaria).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 5 countries (Ethiopia, Turkmenistan, Belarus, Bulgaria, Jordan).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 2 teacher guide is a scan with no text layer, read visually at section level; its part here is cited at section level only and labelled evidence, exactly as its placements file states. Work songs are named by their work and purpose only — their lyrics are not transcribed, as the placements direct.
 
@@ -70,3 +70,10 @@ Searchable tags: songs of our country, Ethiopia, flag, tizta, love of country, o
 | Bulgaria — Topic 9: Народни будители (the National Awakeners — Bulgaria's cultural heroes honoured in song) (student book) | Book 14, printed p. 14 |
 | Bulgaria — Topic 28: Национален празник (the national holiday and its music) (student book) | Book 15, printed p. 42 |
 | Bulgaria — Topics 19–20: Възрожденски песни (Revival-period songs) and Национален празник (the national holiday) (student book) | Book 16, printed pp. 28, 29 |
+
+
+**Book 17:** *"Children Songs — KG (Song Book)"* (song book, Arabic) — Jordan, no publisher, year or ISBN printed anywhere in the file (a Ministry of Education / Minhaji kindergarten song booklet; the repo record's own download pointer was minhaji.net); no title page in the file — the booklet opens directly with the songs; the record title matches the contents (45 short children's songs/chants, each titled, one to three per page). Grade: KG (student/teacher: STUDENT). PDF pages: 18 (byte size 1,557,981 matches record exactly; fetched with grab.py tree — this small book IS in the repo tree; printed page numbers = PDF page numbers). Verdict: COMPLETE — all 45 songs read and placed, as summaries only (no lyrics transcribed). Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan — "O My Country" — my country is the most beautiful of countries to me — in it majestic trees, fragrant flowers and delicious fruits (summary only) (student book; original target `music/songs-about-my-country`) | Book 17, printed p. 6 |

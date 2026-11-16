@@ -1,7 +1,7 @@
 # Sources — Lines in Every Direction
 
 
-countries: Ethiopia, Albania, Nicaragua, Singapore, Bhutan, Fiji, Belarus, Iran, Papua New Guinea
+countries: Ethiopia, Albania, Nicaragua, Singapore, Bhutan, Fiji, Belarus, Iran, Papua New Guinea, Jordan
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -20,6 +20,7 @@ countries: Ethiopia, Albania, Nicaragua, Singapore, Bhutan, Fiji, Belarus, Iran,
 **Book 8:** *Выяўленчае мастацтва. 1 клас (Fine Arts, Grade 1)* (student book, Belarusian) — Belarus, «Адукацыя і выхаванне» (Adukacyja i Vykhavanne), Minsk; year 2011; ISBN 978-985-471-426-4; authors М. А. Шкуратава (M. A. Shkuratava), Ю. А. Новікава (Yu. A. Novikava); approved by the Ministry of Education of the Republic of Belarus. Title as printed: Выяўленчае мастацтва — Вучэбны дапаможнік для 1 класа ўстаноў агульнай сярэдняй адукацыі з беларускай і рускай мовамі навучання — Для работы ў класе (Fine Arts — textbook for Grade 1, for work in class). Grade 1 (student book: STUDENT). PDF pages: 96 (cover verified: printed title, authors, publisher and year match the record; byte size 8,399,826). Verdict: COMPLETE — read in full: whole text layer plus rendered spot-checks of the picture sequences (drawing a horse from ovals, printed p. 22; modelling animals from a clay log, printed p. 54; paper-strip curling and gluing, printed p. 72; vytsinanka cut borders, printed p. 87). Read from the records' archive.org source_urls (the GitHub tree route failed — see the placements group log). Placements at liqlearns-courses-work/expansion-art-2026-11-16/belarus-placements.md.
 
 **Book 9:** *فرهنگ و هنر — پایه هشتم (Culture and Art, Grade 8)* (student book, Persian) — Iran, وزارت آموزش و پرورش (Ministry of Education, Islamic Republic of Iran); year 1405–1406 (2026–27); ISBN 978-964-05-3474-8, Grade 8, 144 PDF pp. STUDENT. Verdict: COMPLETE (cover/title page verified against the record title; byte size 13,567,566 and page count match the record exactly). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/iran-placements.md.
+
 **Book 10:** *فرهنگ و هنر — پایه هفتم (Culture and Art, Grade 7)* (student book, Persian) — Iran, سازمان پژوهش و برنامه‌ریزی آموزشی، وزارت آموزش و پرورش (Educational Research and Planning Organization, Ministry of Education, Iran); year 1405–1406 (2026–27); ISBN 978-964-05-2217-2, Grade 7, 136 PDF pp. STUDENT. Verdict: COMPLETE (cover/title page verified against the record title; byte size 13,892,647 and page count match the record exactly — re-fetched from the recorded chap.sch.ir source URL after the GitHub grab route disconnected and an earlier partial download of 12,159,714 bytes was discarded). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/iran-placements.md.
 
 | Lesson part | Where it comes from |
@@ -46,8 +47,27 @@ countries: Ethiopia, Albania, Nicaragua, Singapore, Bhutan, Fiji, Belarus, Iran,
 
 | Papua New Guinea — Unit 1 Arts, Topic Drawing (Lessons 1–6) — line characteristics straight/curve, thick/thin, short/long, vertical/horizontal; how a line feels; the expressed line; lines becoming shapes, regular and irregular, including traditionally created shapes (teacher guide — evidence) | Book 11, printed pp. 20, 30, 38–39 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Bhutan, Fiji, Belarus, Iran).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 6 countries (Ethiopia, Bhutan, Fiji, Belarus, Iran, Jordan).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Sub lesson 4 rests on teacher-guide evidence only for its own content (the Grade 1 teacher guide's line lesson); it is labelled as evidence in the part name, in the lesson text and in this table. The lesson as a whole stands on the Grade 1 student textbook, so the acceptance count counts pupil-taught content. The Grade 1 line-model pages are picture-led full pages; placements are followed exactly as read.
 
 Searchable tags: lines, horizontal vertical diagonal curved, zigzag, wave pattern, oval loops, what is a line, Ethiopia Grade 1 drawing, Nicaragua, Bhutan, Papua New Guinea
+
+
+**Book 12:** *التربية الفنية والموسيقية والمسرحية — الصف الأول (Art, Music and Theatre Education — Grade 1)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (first experimental edition, for school year 2024/2025); ISBN 978-9923-41-691-4. Grade: 1 (student/teacher: STUDENT). PDF pages: 76 (cover/title page verified against the record title; byte size 40,406,311 matches record exactly; printed page numbers = PDF page numbers). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.
+
+**Book 13:** *التربية الفنية والموسيقية والمسرحية — الصف الثاني (Art, Music and Theatre Education — Grade 2)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (first experimental edition, for school year 2024/2025); ISBN 978-9923-41-693-8. Grade: 2 (student/teacher: STUDENT). PDF pages: 94 (cover/title page verified against the record title; byte size 29,623,603 matches record exactly; printed page numbers = PDF page numbers). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.
+
+**Book 14:** *التربية الفنية والموسيقية والمسرحية — الصف الثالث (Art, Music and Theatre Education — Grade 3)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (first experimental edition, for school year 2024/2025); ISBN 978-9923-41-694-5. Grade: 3 (student/teacher: STUDENT). PDF pages: 82 (cover/title page verified against the record title; byte size 40,732,046 matches record exactly; printed page numbers = PDF page numbers). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan — Unit 1 Lesson 1 "The Horizontal Line and the Vertical Line" — the line is drawing's tool of expression, a moving point; horizontal and vertical lines, traced on dotted lines (bee to hive, spider to web, ladybird down to the grass) and used to draw a cat picture (student book; original target `visual-art/lines-in-every-direction`) | Book 12, printed p. 8 |
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan — Unit 1 Lesson 1 "The Curved Line and the Zigzag Line" — lines come in many kinds; the curved line and the zigzag line show movement in different directions — traced on dotted paths (animals to their food), used to draw an ice-cream in four pictured steps, and the curved line chosen as the right line for drawing a human face (student book; original target `visual-art/lines-in-every-direction`) | Book 13, printed p. 8 |
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan — Unit 1 Lesson 1 "The Thick Line, the Thin Line and the Broken Line" — the line has many kinds — thick, thin and broken among them — and each kind has its own use in drawing; naming the line kinds used in a cat drawing, why the thick white line is used in a pedestrian crossing, and drawing a beach scene in four steps while observing the kinds of lines learned (student book; original target `visual-art/lines-in-every-direction`) | Book 14, printed p. 8 |

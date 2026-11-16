@@ -1,6 +1,6 @@
 # Sources — Scales, Pitch and Key Signatures
 
-countries: Ethiopia, Barbados, Albania, Samoa, Haiti, Fiji, Belarus, Papua New Guinea, Bulgaria
+countries: Ethiopia, Barbados, Albania, Samoa, Haiti, Fiji, Belarus, Papua New Guinea, Bulgaria, Jordan
 
 **Book 1:** *Grade 6 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 6ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
 
@@ -62,7 +62,7 @@ countries: Ethiopia, Barbados, Albania, Samoa, Haiti, Fiji, Belarus, Papua New G
 
 | Papua New Guinea — Units 11.1 and 12.1, Melody Studies — tones and semitones (a tone = two semitones) on the keyboard; accidentals — sharp raises, flat lowers, natural restores; the major scale's tone/semitone pattern in C major, then the G, D and F major scales, each sung in solfa, numbers and letter names; and tonic triads — a chord of root, third and fifth built on the keynote (teacher guide — evidence) | Book 12, printed pp. 31–32, 51–52 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Fiji, Belarus, Bulgaria). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 5 countries (Ethiopia, Fiji, Belarus, Bulgaria, Jordan). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 6 book's key-signature exercise prints "E♭" in Amharic beside "(E Major scale)" in English — a printing tangle the placements record; the lesson teaches the D, E, A-flat exercise set as the placements resolve it and does not present the tangled line as a fact. The Grade 6 teacher-guide parts are evidence and are labelled so; the pupil-taught scale work stands on the Grade 6 student book.
 
@@ -73,3 +73,11 @@ Searchable tags: scale, major scale, minor scale, natural minor, harmonic minor,
 | Lesson part | Where it comes from |
 |---|---|
 | Bulgaria — Topic 5: Високи и ниски тонове (high and low tones) (student book) | Book 13, printed p. 6 |
+
+
+**Book 14:** *التربية الفنية والموسيقية والمسرحية — الصف الأول (Art, Music and Theatre Education — Grade 1)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (first experimental edition, for school year 2024/2025); ISBN 978-9923-41-691-4. Grade: 1 (student/teacher: STUDENT). PDF pages: 76 (cover/title page verified against the record title; byte size 40,406,311 matches record exactly; printed page numbers = PDF page numbers). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan — Unit 2 Lesson 8 "The Thin Sound and the Thick Sound" — pitch — some sounds are thin/high and some thick/low (chick, cow, whistle, big drum); a man's voice counts as thick and a woman's as thin, and whether an animal's size relates to its sound (student book; original target `music/scales-pitch-and-key-signatures`) | Book 14, printed p. 48 |
+| Jordan — Unit 2 Lesson 9 "Rising and Falling in the Pitch of Sound" — pitch movement — moving from a thick sound up to a thinner one is rising, and the reverse is falling, pictured by a slide, a rocket launch and a plane taking off and landing (student book; original target `music/scales-pitch-and-key-signatures`) | Book 14, printed p. 50 |

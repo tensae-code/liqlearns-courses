@@ -1,7 +1,7 @@
 # Sources — The Primary Colours
 
 
-countries: Ethiopia, Barbados, Nicaragua, Pakistan, Fiji, Colombia, Iran
+countries: Ethiopia, Barbados, Nicaragua, Pakistan, Fiji, Colombia, Iran, Jordan
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -34,8 +34,21 @@ countries: Ethiopia, Barbados, Nicaragua, Pakistan, Fiji, Colombia, Iran
 | Colombia — Módulo 2, Guía 6 "El color" — the three primary colours (yellow, blue, red) that no mixture produces, explored against the colours of the student's own region's landscapes, with Cézanne's Mont Sainte-Victoire (student book; original target `visual-art/the-primary-colours`) | Book 7, printed pp. 51–55 |
 | Iran — Painting L2, Primary colours: رنگهای اصلی: the pure primary colours, known by name and seen at work in Persian miniature painting (student book) | Book 8, printed p. 24 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Pakistan, Fiji, Colombia, Iran). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.**
+**Acceptance count: taught in 6 countries (Ethiopia, Pakistan, Fiji, Colombia, Iran, Jordan). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.**
 
 Sub lesson 5 rests on teacher-guide evidence only for its own content (the Grade 3 teacher guide's basic-colours lesson and colour framework); it is labelled as evidence in the part name, in the lesson text and in this table. The lesson as a whole stands on the Grade 3 student textbook, so the acceptance count counts pupil-taught content. The song "መስራች ቀለማት" is named and its teaching summarised only — its words are not transcribed; the song is sung in the Music unit's Primary Colours Song lesson. The Grade 3 chapter summary's closing exercise carries the check item "green is a primary colour — false", which the question stock uses.
 
 Searchable tags: primary colours መስራች, red yellow blue, basic colours, mother and father of colours, sorting colours, Ethiopia Grade 3 colours, Nicaragua, Colombia
+
+
+**Book 9:** *التربية الفنية والموسيقية والمسرحية — الصف الأول (Art, Music and Theatre Education — Grade 1)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (first experimental edition, for school year 2024/2025); ISBN 978-9923-41-691-4. Grade: 1 (student/teacher: STUDENT). PDF pages: 76 (cover/title page verified against the record title; byte size 40,406,311 matches record exactly; printed page numbers = PDF page numbers). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.
+
+**Book 10:** *"Children Songs — KG (Song Book)"* (song book, Arabic) — Jordan, no publisher, year or ISBN printed anywhere in the file (a Ministry of Education / Minhaji kindergarten song booklet; the repo record's own download pointer was minhaji.net); no title page in the file — the booklet opens directly with the songs; the record title matches the contents (45 short children's songs/chants, each titled, one to three per page). Grade: KG (student/teacher: STUDENT). PDF pages: 18 (byte size 1,557,981 matches record exactly; fetched with grab.py tree — this small book IS in the repo tree; printed page numbers = PDF page numbers). Verdict: COMPLETE — all 45 songs read and placed, as summaries only (no lyrics transcribed). Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan — Unit 1 Lesson 4 "The Primary Colours" — red, yellow and blue are the primary colours because they cannot be got by mixing other colours; picking them out among paint splashes and naming the colour used in traffic lights (student book; original target `visual-art/the-primary-colours`) | Book 9, printed p. 18 |
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan — "The Colours" — sung colour learning — my blue pencil draws a boat and a sky whose sun shines, my red pencil takes the view, all roses are red, and my yellow pencil asks where the yellow colour's place is (summary only) (student book; original target `visual-art/primary-colours-in-painting`) | Book 10, printed p. 7 |

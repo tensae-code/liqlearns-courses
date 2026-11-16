@@ -1,6 +1,6 @@
 # Sources — Making Traditional Instruments
 
-countries: Ethiopia, Honduras, Nicaragua, Fiji
+countries: Ethiopia, Honduras, Nicaragua, Fiji, Jordan
 
 **Book 1:** *Grade 7 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 7ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–170. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g07-student-placements.md.
 
@@ -29,8 +29,15 @@ countries: Ethiopia, Honduras, Nicaragua, Fiji
 | Nicaragua — Simple percussion instruments from local materials — building chischiles, maracas and the drum from materials of the surroundings (teacher guide — evidence) | Book 6, printed p. 56 |
 | Fiji — Unit 1, Activity 2 — making sound-makers from available materials (tapping, shaking, clapping), a box-and-rubber-band string instrument, a straw recorder and a bottle flute, and changing pitch by band tension, straw length and water amount (teacher guide — evidence; original target `music/making-simple-instruments-and-changing-pitch`) | Book 7, printed p. 11 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Honduras). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Fiji is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 3 countries (Ethiopia, Honduras, Jordan). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Fiji is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Making steps are taught at the level the placements carry them — materials, building order and tuning by ear; no measurements or tool procedures beyond the placements are invented.
 
 Searchable tags: making traditional instruments, kebero trunk hide, washint bamboo, masenqo krar, indigenous knowledge making, Nicaragua
+
+
+**Book 8:** *التربية الفنية والموسيقية والمسرحية — الصف الثالث (Art, Music and Theatre Education — Grade 3)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (first experimental edition, for school year 2024/2025); ISBN 978-9923-41-694-5. Grade: 3 (student/teacher: STUDENT). PDF pages: 82 (cover/title page verified against the record title; byte size 40,732,046 matches record exactly; printed page numbers = PDF page numbers). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan — Unit 2 Lesson 8 "I Make My Musical Instrument" — simple materials available around us can be used to make some musical instruments by hand, manually and easily — matching instruments to the stuff they are made of (copper, wood, plastic, leather), and the ancient civilisations' care for music and instrument-making, with instrument carvings on ancient Egyptian stone (a hieroglyph picture of a player of a stringed instrument); the pictured Balloon Drum project: a plastic cup, a big balloon, a wooden pencil and rubber bands — choose a balloon bigger than the cup's mouth, cut its upper part with the family's help, stretch the cut balloon fully over the cup's top, fix it with the rubber bands, then try playing the drum with the wooden pencil (student book; original target `music/making-an-instrument`) | Book 8, printed p. 50 |

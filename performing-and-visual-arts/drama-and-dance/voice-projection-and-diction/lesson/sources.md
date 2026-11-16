@@ -1,6 +1,6 @@
 # Sources — Voice Projection, Diction and Delivery
 
-countries: Morocco
+countries: Morocco, Jordan
 
 **Book 1:** *المفيد في التربية الفنية — دليل الأستاذ والأستاذ(ة) (Al-Moufid in Art Education — Teacher's Guide), Grade 3 of primary education* (teacher guide, Arabic) — Morocco, Dar Attakafa (دار الثقافة), Casablanca; author team coordinated by Mohamed Warrash (with Abdelmalek Ibn Zakour, Safaa Azzawi, Mohamed El Hajji for music, Hafid El Abaya for visual arts); written for the Ministry's January 2021 art-education curriculum (school year 2021–2022); no ISBN printed, Grade 3 primary, 152 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE (read in full, 152 pp.). All placements from this book are teacher-guide evidence; songs and play scripts printed in the guide are summarised only, never transcribed. Named, not placed: Part 1, the theoretical/methodological section (printed pp. 9–39) and the diagnostic-assessment card (printed pp. 41–42). Standing exclusion: each unit's week-5 assessment-and-support card (تقويم ودعم الوحدة). Placements at liqlearns-courses-work/expansion-art-2026-11-16/morocco-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -13,8 +13,15 @@ countries: Morocco
 | Morocco — "We Are the Hobbies" (نحن الهوايات), expressive delivery — expressive delivery (الإلقاء المعبر) — changing the voice's level from shout to whisper and its softness, the facial features, head and limb gestures, and movement on the stage (slug first proposed in the Grade 3 filing) (teacher guide — evidence; original target `drama-and-dance/delivery-speaking-on-stage`) | Book 2, printed p. 82 |
 | Morocco — Appendix: "The Art of Delivery" (فن الإلقاء) — delivery as an old art theatre shares with oratory, in its three kinds — oratorical delivery (in classical Arabic, demanding eloquence and correct pronunciation, the oldest kind, from the old Arab markets and poetry contests), poetic delivery (keeping the verse's metre and rhyme while holding the audience), and acting delivery (free, may be in everyday speech, carried by the actor's suggestion and movement) (slug first proposed in the Grade 3 filing) (teacher guide — evidence; original target `drama-and-dance/delivery-speaking-on-stage`) | Book 2, printed p. 131 |
 
-**Acceptance count: taught in 0 countries.** Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 1 country (Jordan).** Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `drama-and-dance/voice-projection-and-diction`); the Morocco placements were filed under the original string(s) recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Morocco's own way: delivery is taught from Grade 3 onward as a named art with its own appendix in the Grade 4 guide — the three kinds are learned first by imitation, each modelled by the teacher, then practised in scenes. Songs and play scripts are summarised only, never transcribed.
 
 Searchable tags: voice projection, diction, delivery, الإلقاء, oratorical, poetic, acting delivery, Morocco
+
+
+**Book 3:** *التربية الفنية والموسيقية والمسرحية — الصف الثالث (Art, Music and Theatre Education — Grade 3)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (first experimental edition, for school year 2024/2025); ISBN 978-9923-41-694-5. Grade: 3 (student/teacher: STUDENT). PDF pages: 82 (cover/title page verified against the record title; byte size 40,732,046 matches record exactly; printed page numbers = PDF page numbers). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan — Unit 3 Lesson 8 "Breathing and Delivery" — correct breathing helps the actor in sound delivery and in representing the character to the audience in a clear manner; inhalation is drawing the air in by way of the nose and exhalation is pushing the air out by way of the mouth, and correct breathing controls the strength of the voice and the clarity of the speech — pictured in a boy breathing out through the mouth and a girl in the breathing posture; why athletes' correct breathing helps them cover long distances and play correctly (student book; original target `drama-and-dance/breathing-for-actors`) | Book 3, printed p. 76 |

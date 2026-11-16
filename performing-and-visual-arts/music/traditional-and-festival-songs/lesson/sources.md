@@ -1,6 +1,6 @@
 # Sources — Traditional and Festival Songs
 
-countries: Ethiopia, Barbados, Albania, Nicaragua, Malta, Turkmenistan, Colombia, Belarus, Bulgaria
+countries: Ethiopia, Barbados, Albania, Nicaragua, Malta, Turkmenistan, Colombia, Belarus, Bulgaria, Jordan
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -65,7 +65,7 @@ countries: Ethiopia, Barbados, Albania, Nicaragua, Malta, Turkmenistan, Colombia
 | Belarus — Part 4, "The Kupala wreath": the midsummer festival songs "Kupalinka", "Oi, rana na Ivana" and "Sionnia Kupala, a zaustra Yan" (student book; original target `music/traditional-and-festival-songs`) | Book 16, printed pp. 131–134 |
 | Belarus — Part 3, "Returning home": calling the spring — the folk song "Zhavoronochki, pryliatsitse" (Larks, fly to us) and "My idziom hukats viasnu" (We are going to call the spring, words Tsitavets, music Siarykh) (student book; original target `music/traditional-and-festival-songs`) | Book 16, printed pp. 100–105 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Turkmenistan, Colombia, Belarus, Bulgaria). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 6 countries (Ethiopia, Turkmenistan, Colombia, Belarus, Bulgaria, Jordan). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Traditional songs are placed by name, season and purpose only; their lyrics are never transcribed in this lesson — the books themselves print several of them as repertoire, and the lesson follows the placements in naming and summarising rather than copying. The Genna game song "አሲና በል" (Asina Bel, Grade 3 student textbook, printed p. 54) is named in the placements as its own target and belongs with the Genna game in the Culture and Values festival lesson, not here; it is not stocked in this lesson.
 
@@ -80,3 +80,10 @@ Searchable tags: traditional songs, festival songs, Abebayehush, Adey, Hoya Hoye
 | Bulgaria — Topic 14: Коледен концерт (a Christmas concert — preparing and performing the festival songs) (student book) | Book 17, printed p. 17 |
 | Bulgaria — Topic 38: Народни песни (folk songs — the book's folk-song stock, e.g. «Вода тече», «Брала мома», «Раданчице, малка моме», named only) (student book) | Book 17, printed pp. 35–45 (contents) |
 | Bulgaria — Topics 10–11: Коледа (Christmas) and Коледен концерт (a Christmas concert) (student book) | Book 18, printed pp. 14, 16 |
+
+
+**Book 19:** *التربية الفنية والموسيقية والمسرحية — الصف الأول (Art, Music and Theatre Education — Grade 1)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (first experimental edition, for school year 2024/2025); ISBN 978-9923-41-691-4. Grade: 1 (student/teacher: STUDENT). PDF pages: 76 (cover/title page verified against the record title; byte size 40,406,311 matches record exactly; printed page numbers = PDF page numbers). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan — Unit 2 Lesson 9 (chant part) — the Eid chant "Ya Eid, Ahlan Ahlan wa Sahlan" — a welcome chant for the Eid festival, greeting the month of goodness whose crescent has appeared, sung with its recording (student book; original target `music/eid-festival-chant`) | Book 19, printed p. 51 |

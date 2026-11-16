@@ -1,6 +1,6 @@
 # Sources — Intervals
 
-countries: Albania, Malta, Papua New Guinea
+countries: Albania, Malta, Papua New Guinea, Jordan
 
 **Book 1:** *Libër mësuesi Muzika 7 (botim i përmirësuar)* (teacher guide, Albanian) — Albania, Shtëpia Botuese Mediaprint, 2016, ISBN 978-9928-08-232-9, Grade 7, 97 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Fetched from the recorded Mediaprint source URLs; byte size matches the record exactly. Cover/title page verified against the record title. Exclusions named in the placements: term tests and the achievement-presentation project are assessment apparatus — named, not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/albania-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -19,8 +19,15 @@ countries: Albania, Malta, Papua New Guinea
 
 | Papua New Guinea — Units 11.1 and 12.1, Ear Training 1 and 2 — intervals from unison to the octave (2nd, 3rd, 4th, 5th, 6th, 7th, 8ve): defining, naming, singing, performing and transcribing intervals, and composing and arranging pieces using intervals, inside a two-year ear-training course of rhythm and melody studies (teacher guide — evidence; original target `music/intervals-and-ear-training`) | Book 3, printed pp. 26, 33 |
 
-**Acceptance count: taught in 0 countries — this lesson stands on Albania teacher-guide evidence only, named here, counted nowhere.** Malta is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 0 countries — this lesson stands on Albania teacher-guide evidence only, named here, counted nowhere.** Malta is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Jordan is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/intervals`). Albania's own way: the Grade 7 Kodály-based course teaches intervals inside its scales-and-accidentals work — distances named by counting from the first sound, then built, sung and played, on voice, keyboard and fyell.
 
 Searchable tags: intervals, octave, distance between sounds, Albania, Muzika 7, Malta, Music Shines, Papua New Guinea
+
+
+**Book 4:** *التربية الفنية والموسيقية والمسرحية — الصف العاشر (Art, Music and Theatre Education — Grade Ten), teacher's guide (دليل المعلم)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Amman; year 2025 (first experimental edition, 1446H/2025); ISBN 978-9923-41-960-1. Grade: Grade 10 (student/teacher: TEACHER). PDF pages: 125 (cover/title page verified against the record title; printed page numbers equal PDF page numbers). Verdict: COMPLETE — read in full, page by page. Note: the Grade 10 student book is not among this group's records; this guide is the only evidence held for the Grade 10 curriculum, so every placement from it is marked teacher-guide evidence. The per-lesson self-assessment rubrics are assessment apparatus with no teaching content and are not placed; the three embedded play/story texts are summarised, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan — Music Lesson 6 "Musical Intervals: Major, Minor and Perfect" — an interval as the melodic distance between two notes, counted by the notes it spans — second to octave — and its quality in the major scale: the fourths, fifths and octaves are perfect, the seconds, thirds, sixths and sevenths major, with the semitone steps between mi–fa and si–do the exceptions (teacher guide — evidence; original target `music/musical-intervals-major-minor-and-perfect`) | Book 4, printed p. 76 |

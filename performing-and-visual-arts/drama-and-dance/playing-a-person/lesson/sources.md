@@ -1,6 +1,6 @@
 # Sources — Playing a Person
 
-countries: Ethiopia, Egypt, Samoa, Nicaragua, Romania, Colombia, Papua New Guinea, Brazil, Morocco
+countries: Ethiopia, Egypt, Samoa, Nicaragua, Romania, Colombia, Papua New Guinea, Brazil, Morocco, Jordan
 
 **Book 2:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -55,8 +55,15 @@ countries: Ethiopia, Egypt, Samoa, Nicaragua, Romania, Colombia, Papua New Guine
 | Morocco — "I Portray the Doctor" (أشخص الطبيب) — turning the short story "The Little Doctor" (الطبيب الصغير) — Saïd dresses in his doctor father's white coat and plays at examining his sister Zaynab, who flees laughing at the injection — into an acted scene: pupils draw the dialogue out of the story, build the scene and act it in pairs with props (white coat, glassless glasses frame, a whistle on a string as stethoscope, syringe, empty medicine box) (plot only) (teacher guide — evidence; original target `drama-and-dance/playing-a-person`) | Book 11, printed p. 91 |
 | Morocco — "I Play a Theatrical Role" (ألعب دورا مسرحيا) — playing varied characters — a doctor examining a patient, a lawyer pleading in court, a traffic policeman, and characters the pupils propose — alongside the actor's on-stage activities: dialoguing, orating, chanting, playing an instrument and dancing; imitating an actor delivering an oration (teacher guide — evidence; original target `drama-and-dance/playing-a-person`) | Book 12, printed p. 70 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Egypt, Romania, Colombia, Brazil).** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 6 countries (Ethiopia, Egypt, Romania, Colombia, Brazil, Jordan).** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Book error, taught corrected: the Grade 2 book mislabels the artist's activity as ተግባር 2.3.1 (a publisher numbering error, flagged in the placement); the lesson follows the roles' printed order (§§2.3–2.3.6), not the faulty activity number. The teacher's praise song ንኢር መምህሬ (Nur Mehire) shares §2.3.4 with the teacher role; the song itself is stocked in the Music lessons and is named here only, not taught as a song.
 
 Searchable tags: playing a person, theatre game, role play, father, mother, teacher, soldier, health worker, artist, seller and buyer, gabi, Grade 2, Egypt, theatre character, Nicaragua, Romania, Colombia, Papua New Guinea, Brazil
+
+
+**Book 13:** *التربية الفنية والموسيقية والمسرحية — الصف الأول (Art, Music and Theatre Education — Grade 1)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (first experimental edition, for school year 2024/2025); ISBN 978-9923-41-691-4. Grade: 1 (student/teacher: STUDENT). PDF pages: 76 (cover/title page verified against the record title; byte size 40,406,311 matches record exactly; printed page numbers = PDF page numbers). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan — Unit 3 Lesson 6 "Imitating the Roles in a Play" — imitating a role means the actor performs a job, a profession or a character in the play — chef, fisherman, doctor, firefighter, clown — and role imitation makes the audience interact with the play (student book; original target `drama-and-dance/playing-a-person`) | Book 13, printed p. 66 |

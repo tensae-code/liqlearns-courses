@@ -1,6 +1,6 @@
 # Sources — Sounds Around Us
 
-countries: Ethiopia, Andorra, Samoa, Nicaragua, Singapore, Malta, Turkmenistan, Fiji, Colombia, Papua New Guinea, Brazil, Bulgaria
+countries: Ethiopia, Andorra, Samoa, Nicaragua, Singapore, Malta, Turkmenistan, Fiji, Colombia, Papua New Guinea, Brazil, Bulgaria, Jordan
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -80,7 +80,7 @@ countries: Ethiopia, Andorra, Samoa, Nicaragua, Singapore, Malta, Turkmenistan, 
 
 | Brazil — Folha 10 "O som nosso de cada dia" — sound sources and vibration; the resonance box that amplifies sound in guitar, piano and wind instruments (student book; original target `music/sounds-around-us`) | Book 21, printed p. 158 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Turkmenistan, Colombia, Brazil, Bulgaria). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 6 countries (Ethiopia, Turkmenistan, Colombia, Brazil, Bulgaria, Jordan). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
 
 No staff notation is claimed for Grade 1: the Grade 1 book teaches music by ear, and this lesson follows it. The teacher-guide part is evidence for the listening-first way of working; the pupil-taught parts stand on the two student textbooks.
 
@@ -91,3 +91,11 @@ Searchable tags: sounds around us, listening, sound, imitating sounds, ear, bird
 | Lesson part | Where it comes from |
 |---|---|
 | Bulgaria — Topics 1–3: Да се запознаем / Отивам на училище / Звукови картини (meeting music, going to school, sound pictures — the sounds around us pictured in music) (student book) | Book 22, printed pp. 2–4 |
+
+
+**Book 23:** *التربية الفنية والموسيقية والمسرحية — الصف الأول (Art, Music and Theatre Education — Grade 1)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (first experimental edition, for school year 2024/2025); ISBN 978-9923-41-691-4. Grade: 1 (student/teacher: STUDENT). PDF pages: 76 (cover/title page verified against the record title; byte size 40,406,311 matches record exactly; printed page numbers = PDF page numbers). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan — Unit 2 Lesson 1 "Expressing with Voice and Body" — a person makes sound through the larynx and mouth and through body movements — patting the thigh, laughing, snapping the fingers, singing — heard through QR recordings and imitated (student book; original target `music/sounds-around-us`) | Book 23, printed p. 34 |
+| Jordan — Unit 2 Lesson 2 "A World Full of Sounds" — imitating the sounds of the countryside (rooster's crow, bird's chirp, horse's neigh) and of the city (traffic policeman's whistle, cars, the jet plane); nature's sounds fill the countryside and man-made sounds fill the city (student book; original target `music/sounds-around-us`) | Book 23, printed p. 36 |

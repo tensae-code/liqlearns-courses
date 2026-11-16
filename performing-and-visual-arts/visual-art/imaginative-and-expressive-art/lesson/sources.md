@@ -1,6 +1,6 @@
 # Sources — Imaginative and Expressive Art
 
-countries: Maldives, Pakistan, Belarus
+countries: Maldives, Pakistan, Belarus, Jordan
 
 **Book 1:** *Exploring Creative Arts 4* (student book, English) — Maldives, National Institute of Education, Ministry of Education, Malé, Maldives; © 2025, first published 2025; ISBN 978-99915-0-956-3 (paperback); development editor Shirumeen Ahmed; printed by M7 Print Pvt. Ltd. Based on the Creative Arts in the National Curriculum syllabus, 2022. 93 PDF pp (printed pp. 1–81 plus acknowledgements and back cover; cover verified — two children painting at easels). Verdict: COMPLETE. Read in full as extracted text in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/maldives-placements.md. The book's glossary (printed pp. 79–81) is inventory only, named here and never stocked as parts.
 
@@ -19,8 +19,15 @@ countries: Maldives, Pakistan, Belarus
 
 | Belarus — Part 3, the ABC of art: Depicting fantasy images — invented, fairy-tale creatures drawn from imagination, with Vasnetsov's prophetic bird Gamayun as the master example (student book; original target `visual-art/drawing-fantasy-images`) | Book 4, printed p. 24 |
 
-**Acceptance count: taught in 3 countries (Maldives, Pakistan, Belarus).**
+**Acceptance count: taught in 4 countries (Maldives, Pakistan, Belarus, Jordan).**
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/imaginative-and-expressive-art`); the Maldives placement was filed under the original string `visual-art/fantasy-landscapes`, recorded in the provenance rows above.
 
 Searchable tags: fantasy landscape, imagination, expressive art, Kush, Maldives, Exploring Creative Arts 4
+
+
+**Book 5:** *التربية الفنية والموسيقية والمسرحية — الصف الأول (Art, Music and Theatre Education — Grade 1)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (first experimental edition, for school year 2024/2025); ISBN 978-9923-41-691-4. Grade: 1 (student/teacher: STUDENT). PDF pages: 76 (cover/title page verified against the record title; byte size 40,406,311 matches record exactly; printed page numbers = PDF page numbers). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan — Unit 1 Lesson 8 "Expressing Feelings" — drawing is used to express what we feel, joy or sadness; reading feelings from pictured faces, then making a feelings plate — a paper plate cut in half, a partner drawing the shape that expresses your feeling on the other half, glued on a stick and shared with friends (student book; original target `visual-art/expressing-feelings-in-drawing`) | Book 5, printed p. 26 |
