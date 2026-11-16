@@ -1,6 +1,6 @@
 # Sources — Markets — and the market for goods and services
 
-countries: Ethiopia, Guatemala
+countries: Ethiopia, Guatemala, France
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -16,7 +16,15 @@ countries: Ethiopia, Guatemala
 |---|---|
 | Guatemala part — Experience 3, Actividad 1 "Minimercado": the factors that influence a market, found by running one — pupil groups become firms that may sell only what is in their box, must plan the prices of their products or services and a sales strategy, and sell across three rounds, reviewing results and changing strategy between rounds, while the buyers are given different purchasing power (alto, medio y bajo) in symbolic money and are free not to buy; the closing questions draw out what happened between firm and firm and why buyers bought or did not buy (teacher guide — evidence) | Guatemala, *Emprendimiento para la Productividad II Teacher's Guide*, Grade 8, Experience 3, Actividad 1 "Minimercado" — printed p. 51 |
 
-**Acceptance count: taught in 1 country (Ethiopia). Guatemala is teacher-guide evidence only — named here, counted nowhere.**
+**Book 3:** *SES 2de, Manuel Libre de Sciences économiques et sociales, Seconde* (student book, French) — France, Les Manuels Libres (DRANE Île-de-France, Éducation nationale open-manual project); year not printed in the files read; no ISBN printed (open-licensed web manual). Title as printed: SES 2de — Manuels Libres (v. libre de droits); the manual's own info file reads "Seconde / SES / SES GT" (Les Manuels Libres, forge.apps.education.fr). Grade: Seconde (Grade 10) (student/teacher: STUDENT). Records: 2 records / 1 distinct book (TSV release + books.json tree path are the same zip), verified (35,633,384 bytes, matching the record). PDF pages: none — this record is an HTML manual (a zip of web pages organised by chapter and section), verified against the record title from its own info/about pages; placements cite the chapter and section instead of a printed page. Verdict: COMPLETE (for Economics scope) — combined SES (economics + sociology + political science) manual mapped contents-first; the Economics chapters were read in full and are placed; the Sociology and Political Science chapters are named, not placed. Contents map: Ch. "Comment les économistes, les sociologues et les politistes raisonnent et travaillent" (method — Economics parts placed; the correlation/causality and crossed-gazes sections are method/cross-disciplinary, named here); Ch. "Comment crée-t-on des richesses et comment les mesure-t-on ?" (Economics — placed); Ch. "Comment se forment les prix sur un marché ?" (Economics — placed); Ch. "Comment devenons-nous des acteurs sociaux ?" (Sociology — socialisation; named, not placed); Ch. "Comment s'organise la vie politique ?" (Political Science — named, not placed); Ch. "Quelles relations entre le diplôme, l'emploi et le salaire ?" (Economics — placed). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/france-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| France part — "Qu'est-ce qu'un marché ?": a market as the meeting of supply and demand, resting on institutions, with its actors identified across fruit-seller, estate-agent, auction and art-market cases (and a look at the money market) | France, *SES 2de, Manuel Libre de Sciences économiques et sociales, Seconde (Manuels Libres)*, Ch. Marché, section "Qu'est-ce qu'un marché ?" |
+
+**Acceptance count: taught in 2 countries (Ethiopia, France). Guatemala is teacher-guide evidence only — named here, counted nowhere.**
+
+France's own way (SES 2de, Manuels Libres): SES teaches economics, sociology and political science as one subject from Seconde; the economics is built from data and cases (INSEE, the France Relance plan read as a Keynesian model, housing and oil prices, the gender pay gap in spreadsheets) with a synthesis and exercise for nearly every notion.
 
 Contents misprint named here: the student book's contents page prints the title of Unit 3 as "Markerts" for Markets. The unit itself is Markets, as this lesson names it.
 
@@ -24,4 +32,4 @@ Pairing note carried from the placements: the student textbook is the finished 2
 
 Guatemala's own way (teacher guide — evidence): the market is learned by running one in the classroom — pupil firms with stalls, set prices and sales strategies across three selling rounds, facing buyers handed different amounts of symbolic money.
 
-Searchable tags: market institution, goods and services market, physical digital exchange, ethiopia, guatemala, minimercado, teacher guide evidence, social studies, market and money
+Searchable tags: market institution, goods and services market, physical digital exchange, ethiopia, guatemala, minimercado, teacher guide evidence, france, ses, art market, auction, social studies, market and money

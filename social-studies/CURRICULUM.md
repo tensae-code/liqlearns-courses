@@ -13094,3 +13094,97 @@ named Pillars of the Economy in Syria in Grade 4,
 and institutions sorted by sector and by size inside
 a civics unit in Grade 6. Economics lessons:
 401 → 404.
+
+## Economics expansion — France — built 2026-11-16
+
+France — 21 placements stocked from 1 student book
+(SES 2de, Manuel Libre de Sciences économiques et
+sociales, Seconde — an open-licensed HTML manual,
+Les Manuels Libres; 2 records / 1 distinct book).
+The filing's tally (19 to existing lessons + 2 NEW
+LESSON NEEDED) matches the placement lines exactly
+— no difference. The book is a student book in
+French, so every placement counts in acceptance;
+placements cite the chapter and section instead of
+a printed page, the manual having no PDF pages.
+19 stocked into standing lessons —
+**Microeconomics**: What economics is (Ch. Method,
+"Quelles questions se posent les économistes";
+acceptance 1 → 2 countries); Opportunity cost
+(Ch. Method, same section — "Qu'est-ce que le coût
+d'opportunité"; acceptance 2 → 3); Production —
+turning inputs into outputs (Ch. Richesses, "Que
+produit-on ?" — market vs non-market production
+through bakery, hairdressing, teaching and care
+cases; acceptance 2 → 3); Land, labour, capital,
+entrepreneurship (Ch. Richesses, "Comment
+produit-on ?" — complementary and substitutable
+factors and the most profitable combination;
+acceptance 2 → 3); The law of demand (Ch. Marché —
+tobacco prices and milk producers; acceptance
+1 → 2); The law of supply (Ch. Marché — the
+quinoa-in-Côte-d'Or case; acceptance 1 → 2);
+Equilibrium price and quantity (Ch. Marché — the
+lunch-deal market, oil prices and French housing;
+acceptance 1 → 2); Pigouvian taxes, subsidies and
+the Coase theorem (Ch. Marché — tax on buyer and
+on producer, housing aid captured by landlords,
+ecological taxation; acceptance 1 → 2) —
+**Macroeconomics**: Expansionary fiscal policy
+(Ch. Method — the France Relance plan read as a
+Keynesian model; acceptance 1 → 2); Measuring GDP
+— value added at every stage (Ch. Richesses,
+"Principaux indicateurs" — a bicycle firm and
+Nike's figures; acceptance 1 → 2); GDP — what a
+country produces inside its borders (Ch. Richesses
+— how INSEE computes growth; acceptance 1 → 2);
+Measuring economic growth (Ch. Richesses — the
+Malthusian trap, the Trente Glorieuses, world
+growth since 1900; acceptance 1 → 2); Per-capita
+GDP (Ch. Richesses, "Quelles sont les limites du
+PIB ?" — GDP per inhabitant across Europe;
+acceptance 1 → 2); What GDP misses (Ch. Richesses,
+same section — inequality and the Angola oil case;
+acceptance 1 → 2); Frictional, structural and
+cyclical unemployment (Ch. Diplôme — unemployment
+as a qualifications mismatch, rates by diploma;
+acceptance 1 → 2) — **Market and Money**: Markets
+and the market for goods and services (Ch. Marché,
+"Qu'est-ce qu'un marché ?" — fruit-seller,
+estate-agent, auction and art-market cases;
+acceptance 1 → 2 countries, Ethiopia and France;
+Guatemala remains teacher-guide evidence only);
+Wage determination in the labour market
+(Ch. Diplôme — salary by level of training/diploma;
+acceptance 1 → 2 countries, Ethiopia and France;
+Iceland remains teacher-guide evidence only) —
+**Global Issues**: The economy and the environment
+— sources and sinks (Ch. Richesses — the ecological
+limits of growth, ecological footprint, species
+loss and temperature/CO2 graphs; acceptance
+5 → 6 countries) — **People and Resources**:
+Functional and personal income distribution
+(Ch. Diplôme, "Quelles inégalités face au
+diplôme ?" — the gender pay gap in data, cadre
+salaries, efficiency wages; acceptance 1 → 2).
+2 new lessons built (12 questions each):
+**Microeconomics**: Who produces — firms,
+administrations and the social economy
+(Ch. Richesses, "Qui produit ?" — enterprises
+with a common structure, hierarchy and the
+contract, public administrations, and the social
+and solidarity economy, ESS) —
+**Macroeconomics**: Investing in human capital
+(Ch. Diplôme, "Les études, un investissement
+rentable ?" — the cost of studies in France,
+Europe and the USA against the returns in salary,
+well-being and capabilities, and the role of
+public education policy). France's own way: SES
+teaches economics, sociology and political
+science as one subject from Seconde; the economics
+is built from data and cases (INSEE, the France
+Relance plan read as a Keynesian model, housing
+and oil prices, the gender pay gap in
+spreadsheets) with a synthesis and exercise for
+nearly every notion. Economics lessons:
+404 → 406.
