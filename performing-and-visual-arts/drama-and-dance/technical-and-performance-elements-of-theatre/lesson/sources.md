@@ -1,6 +1,6 @@
 # Sources — Technical and Performance Elements of Theatre
 
-countries: Ethiopia, Egypt, Honduras, Albania, Romania, Trinidad and Tobago
+countries: Ethiopia, Egypt, Honduras, Albania, Romania, Trinidad and Tobago, Finland
 
 **Book 1:** *Grade 8 Performing and Visual Arts Teacher's Guide Book* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, March 2022, printed pp. 1–110 as promised by its contents; the library file is TRUNCATED — its body holds printed pp. 1–56 plus syllabus tables, and Units 4–5 are placed from its contents and syllabus only. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-teacher-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Egypt, Honduras, Albania, Romania, Trinidad and Tobago
 
 **Book 8:** *Teacher's Guide — Secondary School Curriculum — DRAMA — Visual and Performing Arts* (teacher guide, English) — Trinidad and Tobago, Ministry of Education, Curriculum Development Division, Rudranath Capildeo Learning Resource Centre, Couva, 2014; no ISBN printed, Forms 1–3 (Grades 7–9), 52 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE — Part 3 assessment strategies, mark sheets and the sample Playmaking rubric, and the Glossary of Key Terms in Drama (printed pp. 39–51), are apparatus/inventory only, named here and not placed. Read in full via its recorded ministry source_url in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/trinidad-and-tobago-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
+**Book 9:** *Opetusjakso nimeltä Kahdeksan (A Teaching Unit Named Eight); North Sámi edition: Gávcci-nammásaš oahpahusoassi, ed. Saara Krook* (teaching unit, Finnish + North Sámi) — Finland, LUMA Centre Lapland, University of Lapland, Rovaniemi, 2024, ISBN Finnish PDF 978-952-337-467-6, Sámi PDF 978-952-337-465-2 (Sámi print 978-952-337-466-9), CC BY-NC-SA, Grades 3–6, Finnish 66 PDF pp, Sámi 84 PDF pp. STUDENT — teaching unit pack. The Finnish edition was read fully; the Sámi edition was spot-checked (cover, imprint, introduction, contents and the season table): same unit, same eight-season structure and same lesson set in North Sámi — placed once here, both editions named. Verdict: COMPLETE for its arts parts. The unit's spine is environmental studies and maths — named in the placements, not placed; the Mustikkamagiaa (Blueberry Magic) art activity's step-by-step sheet is held on the LUMA Lapland site and only its goals and framing are printed in the book — its placement below is evidence at that level. FETCH NOTE: both GitHub tree paths returned HTTP 404 on two grab attempts; both editions were read from their recorded aoe.fi source_urls, byte sizes 18,451,934 (FI) and 21,841,122 (SME) = the records' size_bytes exactly, printed titles matching the records — the content is the recorded books (phantom pushes recovered byte-exact from aoe.fi); the 404 tree paths are logged as library debts. Placements at liqlearns-courses-work/expansion-art-2026-11-16/finland-placements.md.
+
 | Lesson part | Book | Printed pages |
 |---|---|---|
 | Sub lesson 1 — Technical elements (teacher guide — evidence) (teacher guide — evidence) | Grade 8 Teacher Guide, printed pp. 10–11 |
@@ -31,9 +33,10 @@ countries: Ethiopia, Egypt, Honduras, Albania, Romania, Trinidad and Tobago
 | Romania — Project: Set — create the set and play, staging the Brothers Grimm's Hansel and Gretel: draw the little house, trees, flowers and characters on card, colour them, cut carefully along the outline, fold on the dotted line so the cut-outs stand upright, and improvise a scene on a piece of cardboard or expanded polystyrene on which you mount the set and move the characters | Book 7, printed p. 46 |
 
 | Trinidad and Tobago — Content Framework (Form 3) — technical theatre whole: set design and construction, props, costume design and construction, lighting design and operation, sound effects, stage management and front of house (teacher guide — evidence) | Book 8, printed p. 6 |
+| Finland — Chapter 7: Spring Equinox Theatre — building a theatre set for the sky: crafting a curved horizon stage inside a corrugated-cardboard roll, the audience sitting inside it while a torch plays the sun (student teaching unit, FI + SME editions) | Book 9, printed pp. 56–57 |
 
-**Acceptance count: taught in 3 countries (Egypt, Honduras, Romania).** Ethiopia teacher-guide evidence is named here, counted nowhere. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 4 countries (Egypt, Honduras, Romania, Finland).** Ethiopia teacher-guide evidence is named here, counted nowhere. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This lesson stands on the Grade 8 teacher guide (printed pp. 10–11) as labelled evidence; the topic sits in the guide's full body (Units 1–3).
 
-Searchable tags: technical elements, performance elements, scenery, props, projection, diction, Grade 8 teacher guide, evidence, Egypt, voice variety, breathing, preparing the actor, Romania
+Searchable tags: technical elements, performance elements, scenery, props, projection, diction, Grade 8 teacher guide, evidence, Egypt, voice variety, breathing, preparing the actor, Romania, Finland

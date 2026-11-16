@@ -1149,7 +1149,75 @@ lessons are the books'.
   Suite. Songs and stories are placed by summary only,
   never transcribed.
 
-**The whole course stands at 338 lessons, 4,754 questions and
+- **Art expansion — Finland — BUILT 2026-11-16:** 66 placements
+  stocked, reconciled against the placements file's own
+  tallies (Book 1: 7, Book 2: 9, Book 3: 5, Book 4: 6,
+  Book 5 Light Painting: 2, Book 7: 6, Book 8: 2, Book 10: 2,
+  Book 13: 2, Book 14: 5, Book 15: 3, Katse tulevaan: 7,
+  Book 16 Kahdeksan: 10 = 66; the three record-only books —
+  Tutkimustaulukko: magneetti, Kasvin seurantatehtävä and
+  Suljettu ekosysteemi — carry 0 placements, excluded by the
+  wave as science apparatus / mislabels, never placed):
+  53 into existing and already-built canonical lessons
+  (Appreciating the Arts ×4; Making with Paper and Pieces
+  ×6; Abstract Art ×7 — three of them filed under
+  ernst-mether-borgstrom-and-finnish-abstract-art; Crafts
+  Around Us ×5; Acting Together ×3; Observing Our
+  Surroundings ×2; Looking at Pictures ×2; Moving to Music
+  ×2; How the Arts Belong Together ×2; Weaving ×2 — from
+  tufting-and-woven-pictures; Comics ×2 — from comic-strips;
+  Architectural Models ×3 — from making-a-model-city; and
+  one each into Decorating Home and Environment, Photography,
+  Mime, Fables and First Plays, Anthems and Songs That Teach,
+  Making with Clay and Paper, Elements and Principles of
+  Design, The Arts Connect to Everything, Video: Moving
+  Pictures, Stories and Folktales, Technical and Performance
+  Elements of Theatre, School Songs — from the-days-song,
+  Printing — from fabric-printing, and Origami — from
+  paper-folding-and-origami), 8 NEW lessons (Visual Art:
+  Light Painting; Magnet Painting ×2; Painting with Natural
+  Pigments ×3; Model Making ×2 — from making-a-star-projector;
+  Recycled and Sustainable Crafting — from
+  responsible-craft-and-lifecycle-thinking; Natural Dyes and
+  Dyeing — from dyeing-with-natural-dyes; Painting with
+  Blown, Poured and Pressed Colour — from string-painting;
+  Culture and Values: The Eight Seasons of Sapmi ×2),
+  72 questions added, media as described slots only.
+  DIFFERENCE EXPLAINED: the placements file tallied 36 to
+  existing lessons and 30 NEW LESSON NEEDED lines; the slug
+  registry Part 2 resolves 17 of those NEW lines to lessons
+  that already existed (Abstract Art ×7 — including the
+  three ernst-mether-borgstrom-and-finnish-abstract-art
+  lines folded into it; Weaving ×2; Comics ×2; Architectural
+  Models ×3; Origami ×1; and the official lessons School
+  Songs ×1 and Printing ×1) and the remaining 13 NEW lines
+  to the 8 new lessons built here — so 53 placements went
+  to lessons that already existed, 13 to new lessons, and
+  the total of 66 reconciles exactly. Honesty carried exactly
+  as filed: Boostia käsityön opetukseen is PARTIAL (a
+  teacher-training project report — evidence only);
+  Yhdessä enemmän is PARTIAL (arts parts only); the From
+  words module plan, the Tulevaisuuden tekijät teacher
+  guide, the Tähtitaivaan taiteilijat teacher guide and the
+  Katse tulevaan project material are EVIDENCE only, kept
+  outside every acceptance count (the Model Making,
+  Recycled and Sustainable Crafting and Natural Dyes and
+  Dyeing lessons stand at acceptance count 0); the Kahdeksan
+  unit's Blueberry Magic placement stands at goals-and-framing
+  level (its step sheet lives on the LUMA Lapland site);
+  songs and the fire-fox tale are placed by summary only,
+  never transcribed. Finland's three phantom-push records
+  (Katse tulevaan; Kahdeksan FI + SME) were recovered
+  byte-exact from their recorded aoe.fi source_urls — the
+  fetch notes are carried in the book entries as filed, the
+  404 tree paths logged as library debts. Finland's own way
+  is kept as named parts: Ernst Mether-Borgström's black
+  line, magnet painting, light painting, red-cabbage and
+  blueberry pigments, the day's-song pot chain, the model
+  city, the craft life-cycle, and Sápmi's eight seasons with
+  shoe-hay, the fire-fox and the string-painted aurora.
+
+**The whole course stands at 346 lessons, 4,826 questions and
 203 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 

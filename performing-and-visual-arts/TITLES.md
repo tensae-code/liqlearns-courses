@@ -172,7 +172,21 @@ The titles, in ladder order:
    the Pirot kilim and the Radul ring; and ornamentation —
    pattern repeated in a definite rhythm, from Ravenna's mosaic
    to an ornament in your own region's spirit (Serbia student
-   books).
+   books). The Art expansion added: abstract art — Ernst
+   Mether-Borgström and Finnish abstract art, tuning in,
+   trying it and collective painting; magnet painting — the
+   magnet as paintbrush, in Finnish and English editions;
+   light painting — drawing with a torch on a long exposure;
+   painting with natural pigments — red-cabbage juice that
+   changes colour, and blueberry magic; painting with blown,
+   poured and pressed colour — string painting the aurora;
+   model making — a star projector from a milk carton
+   (teacher guide, evidence); recycled and sustainable
+   crafting — the craft life-cycle whole (project material,
+   evidence); and natural dyes and dyeing — plant-dyed
+   material sewn into a product (project material, evidence)
+   (Finland student workshop materials, instruction sheets
+   and teaching unit).
 
 3. **Music** — the ear and the voice: sounds around us, naming
    sounds, the songs (animals, family, nature, movement, festivals,
@@ -512,3 +526,8 @@ The titles, in ladder order:
    occasions, and the costumes of the world's peoples from
    Arctic dress and the Indian sari to a Serbian couple in
    folk costume (Serbia student book).
+ The Art expansion added:
+   the eight seasons of Sapmi — Sápmi's eight-season year,
+   nature's round and the reindeer-herding work round, and
+   the shoe-hay gathering of autumn-summer (Finland teaching
+   unit, Finnish and North Sámi editions).

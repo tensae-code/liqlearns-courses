@@ -1,6 +1,6 @@
 # Sources — How the Arts Belong Together
 
-countries: Ethiopia, Maldives, Uganda, Albania, Samoa, Singapore, Trinidad and Tobago, Iceland, Serbia
+countries: Ethiopia, Maldives, Uganda, Albania, Samoa, Singapore, Trinidad and Tobago, Iceland, Serbia, Finland
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -30,6 +30,11 @@ countries: Ethiopia, Maldives, Uganda, Albania, Samoa, Singapore, Trinidad and T
 
 
 **Book 14:** *Ликовна култура — за 2. разред основне школе (Likovna kultura / Visual Culture — for Grade 2 of primary school)* (student book, Serbian) — Serbia, by др Рајка Бошковић (Dr Rajka Bošković); Завод за уџбенике (Zavod za udžbenike), Београд, and АрхиКњига (Arhiknjiga), Стара Пазова; first edition 2019 (the Arhiknjiga issue ©2021); ISBN 978-86-17-20168-3; approved for Grade 2 use by ministerial decision 650-02-00159/2019-07 of 21 May 2019, Grade 2, 56 PDF pp. (the printed book has 55 pages). STUDENT — student book. Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read (image-only PDF read visually from page renders). The record's title adds "и окружење" (and environment) — the curriculum area name, which the book's Part One carries as its title. Named, not placed: the three part summaries "НАУЧИЛИ СМО ДА..." (We learned that..., printed pp. 14, 42, 54), the closing contents (printed p. 55) and colophon — inventory only; the think boxes (РАЗМИСЛИ...) are discussion prompts folded into their lessons. Placements at liqlearns-courses-work/expansion-art-2026-11-16/serbia-placements.md.
+
+**Book 15:** *AJATUSVIIVOJA — Herätä taideteos henkiin (Bring an Artwork to Life)* (student workshop material, Finnish) — Finland, University of Jyväskylä / JYUniorit, AJATUSVIIVOJA project, Mether-Borgström Foundation, 2022, no ISBN printed, Grades 4–6, 9 PDF pp. STUDENT — workshop pack. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/finland-placements.md.
+
+**Book 16:** *AJATUSVIIVOJA — Päivän biisi (Song of the Day)* (student workshop material, Finnish) — Finland, University of Jyväskylä / JYUniorit, AJATUSVIIVOJA project, Mether-Borgström Foundation, 2022, no ISBN printed, Preschool / Eskarit, 7 PDF pp. STUDENT — workshop pack. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/finland-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The arts woven together (Sub lesson 1) | Grade 1 Student Textbook, Ch.5 chapter aims + §5.1, printed p. 67; Grade 2 Student Textbook, Ch.5 chapter aims, printed p. 71; Grade 3 Student Textbook, Ch.5 chapter aims + §5.1, printed p. 69 |
@@ -54,9 +59,11 @@ countries: Ethiopia, Maldives, Uganda, Albania, Samoa, Singapore, Trinidad and T
 
 | Iceland — Multiculturalism demonstrated: a classroom experiment with glasses of coloured water — mix two colours and a colour appears that was in neither bottle — the visual proof of how mixing musical cultures creates music never heard before (teacher guide — evidence) | Book 13, printed p. 13 |
 | Serbia — "The colours of forms", painting a mood from music — choose a composition without words, listen carefully and paint the mood it evokes — a joyful mood in light colours or a sad one in dark colours — and explain why; make a work for your favourite song's mood, dabbing paint on with a cork stopper | Book 14, printed p. 25 |
+| Finland — Lesson 3: Sound and speech of a painting — turning one art into another: asking what sound, music, speech, taste and feel the painting would have, and producing its sound with instruments, body and materials (student workshop material) | Book 15, printed p. 7 |
+| Finland — Lesson 1: Music and colour — listening together to different music styles (rock, pop, classical) and painting half a recycled pot in the colour the music brings to mind, then switching music and treating the other half (student workshop material) | Book 16, printed p. 5 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Maldives, Uganda, Serbia).** The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 5 countries (Ethiopia, Maldives, Uganda, Serbia, Finland).** The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The coin picture and the music example are Grade 2's own (§5.1, printed p. 71); the drama-into-drawing direction is Grade 3's own (§5.1, printed p. 69); the classroom doing-all-three scene and both review summaries are the books' own closing words, folded into the last sub lesson as the course structure map rules for review placements. No relationship claim is made that a book does not make.
 
-Searchable tags: Maldives, Exploring Creative Arts 4, how the arts belong together, two sides of one coin, relationship of the arts, drama into drawing, Iceland, Dægurspor
+Searchable tags: Maldives, Exploring Creative Arts 4, how the arts belong together, two sides of one coin, relationship of the arts, drama into drawing, Iceland, Dægurspor, Finland

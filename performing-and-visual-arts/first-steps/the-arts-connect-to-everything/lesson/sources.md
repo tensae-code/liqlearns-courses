@@ -1,6 +1,6 @@
 # Sources — The Arts Connect to Everything
 
-countries: Ethiopia, Jamaica, Uganda
+countries: Ethiopia, Jamaica, Uganda, Finland
 
 **Book 1:** *Performing and Visual Arts Teacher Guide Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, first published 2022, GEQIP-E, ISBN 978-997744-2-046-9, printed pp. i–ix + 1–79. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g09-teacher-placements.md.
 
@@ -21,6 +21,8 @@ countries: Ethiopia, Jamaica, Uganda
 **Book 9:** *Performing Arts Teacher's Guide — Senior One (Lower Secondary Curriculum), PROTOTYPE* (teacher guide, English) — Uganda, National Curriculum Development Centre (NCDC), Uganda, 2020, no ISBN printed, Senior One (= Grade 8), 74 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. The guide incorporates all the Learner's Book activities with additional guidance and possible responses (its own preface says so), so its placements are teacher-guide evidence for the same programme the textbook teaches. The repo tree path is a PHANTOM PUSH (grab.py tree returned HTTP 404); the book was fetched from the recorded NCDC source_url with resumable downloads and verified by cover and pdfinfo, and the downloaded copy is staged under the push-don't-delete rule at its phase3-staging record path (books.json record already exists there). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/uganda-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
 **Book 10:** *Performing Arts Textbook — Senior One (Lower Secondary Curriculum), PROTOTYPE* (student book, English) — Uganda, National Curriculum Development Centre (NCDC), Uganda, 2020, no ISBN printed, Senior One (= Grade 8), 48 PDF pp. STUDENT — student book. Verdict: COMPLETE — with one book fault: the contents lists Chapters 1, 2, 3, 5, 6, 7, 8 — there is no Chapter 4 in the textbook (the Teacher's Guide's Chapter 4, "Performing Arts Making Using African Styles", appears in the textbook only as Chapter 7, "Performing Arts in African Styles"). The repo tree path is a PHANTOM PUSH (grab.py tree returned HTTP 404); the book was fetched from the recorded NCDC source_url with resumable downloads and verified by cover and pdfinfo, and the downloaded copy is staged under the push-don't-delete rule at its phase3-staging record path (books.json record already exists there). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/uganda-placements.md.
+
+**Book 11:** *Tulevaisuuden tekijät -projekti — Opettajan käsikirja (Future Makers Project — Teacher's Handbook), by Ville Etonen, Tommi Nurmi, Kimmo Nyyssönen* (teacher guide, Finnish) — Finland, University of Eastern Finland / FCLab.fi, year not printed, no ISBN printed, Grade 4 project, 39 PDF pp. TEACHER. Verdict: COMPLETE for its arts/craft parts. The Micro:bit automation strand (connecting and coding a sign board, LED light and servo motor, printed pp. 18–26) is technology — named in the placements, not placed; assessment forms and project diary templates in the appendices are apparatus, not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/finland-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -47,11 +49,12 @@ countries: Ethiopia, Jamaica, Uganda
 | Sub lesson 13 — The Grade 8 chapter closes (chapter closing — Grade 8) — G8S-107 | Grade 8 Student Textbook, Ch. 5 summary, checklist and closing exercises (closing fold), printed pp. 136–137 |
 | Uganda — Chapter 1 — how elements of the natural environment are reflected in the song, the drama and the dance, and how the pieces preserve and highlight cultural heritage (teacher guide — evidence) | Book 9, printed pp. 1–5 |
 | Uganda — Chapter 1 — explore how elements of the natural environment are reflected in the song, drama and dance, and highlight the aspects of cultural heritage in them | Book 10, printed pp. 1–5 |
+| Finland — §1 Introduction — one project weaving visual art and craft together with civics, Finnish and environmental studies around one built thing: the sustainable, working city the pupils design themselves (teacher guide — evidence) | Book 11, printed p. 4 |
 
-**Acceptance count: taught in 1 country (Uganda).** This lesson's earlier stock stands on teacher-guide evidence only (Ethiopia) and Jamaica teacher curriculum-guide evidence, named here, counted nowhere; the Uganda Teacher's Guide is likewise evidence only.
+**Acceptance count: taught in 1 country (Uganda).** This lesson's earlier stock stands on teacher-guide evidence only (Ethiopia) and Jamaica teacher curriculum-guide evidence, named here, counted nowhere; the Uganda Teacher's Guide is likewise evidence only. Finland is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This lesson stands on teacher-guide evidence only and carries the teacher-guide-evidence acceptance line. Its Grade 7–8 parts are EVIDENCE-LIMITED in the strict sense — those guides' files are truncated and their Unit 5 topics are placed from contents pages only, with no body wording claimed. The Grade 9–10 parts are read in full from the federal guides, which have no student books.
 
 | Jamaica — Perspectives of STEM/STEAM in relation to the National Standard Curriculum: why the Arts belong inside STEM — the "A" as Aesthetics, the discontent at neglecting the Performing Arts when creative industries contribute significantly to economic development, and the benefits of integrating the Arts (divergent thinking, arts integration, intrinsic motivation) (teacher curriculum guide — evidence; original target `first-steps/the-arts-connect-to-everything`) | Book 8, printed pp. xiv–xv |
 
-Searchable tags: arts integration, visual arts with other subjects, performing arts with other subjects, arts in society, arts in education, curriculum connections
+Searchable tags: arts integration, visual arts with other subjects, performing arts with other subjects, arts in society, arts in education, curriculum connections, Finland

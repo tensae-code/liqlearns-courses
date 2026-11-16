@@ -1,6 +1,6 @@
 # Sources — Acting Together
 
-countries: Ethiopia, Egypt, Uganda, Nicaragua
+countries: Ethiopia, Egypt, Uganda, Nicaragua, Finland
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -16,6 +16,12 @@ countries: Ethiopia, Egypt, Uganda, Nicaragua
 
 **Book 8:** *Expresión Cultural y Artística — Manual Metodológico para la y el maestro — Segundo grado* (teacher guide, Spanish) — Nicaragua, Ministerio de Educación (MINED), no year printed on the pages read, no ISBN printed, Grade 2, 150 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Title/grade verified in the book's presentation: a support document for Grade 2 primary teachers. Fetched from the recorded MINED source URL after the GitHub grab route disconnected. Exclusions named: the Glossary (printed p. 135) is a word list — inventory-only, named here, not stocked; Webgrafía not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/nicaragua-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
+**Book 9:** *AJATUSVIIVOJA — Herätä taideteos henkiin (Bring an Artwork to Life)* (student workshop material, Finnish) — Finland, University of Jyväskylä / JYUniorit, AJATUSVIIVOJA project, Mether-Borgström Foundation, 2022, no ISBN printed, Grades 4–6, 9 PDF pp. STUDENT — workshop pack. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/finland-placements.md.
+
+**Book 10:** *Kielipainotteinen monialainen oppimiskokonaisuus — From words to stories and art: Sanoista tarinoita ja taidetta* (integrated module plan, Finnish/English) — Finland, University of Jyväskylä (course-produced module plan by Siiri From, Julia Lehtovalo and Mona Markkola), via aoe.fi, year not printed, no ISBN printed, Grades 3–4, 14 PDF pp. TEACHER — module plan. Verdict: COMPLETE for its arts parts. The module's core is Finnish/English word classes — the language parts (word-class dice game, word hunt, word-class houses, sentence writing, printed pp. 8–12) are named in the placements, not placed; the song lyrics printed in the appendices (the English song "Friend of Mine" and Pekka Simojoki's "Ystävyyden talo" / House of Friendship) are inventory-only — named, not stocked. Placements at liqlearns-courses-work/expansion-art-2026-11-16/finland-placements.md. **Teacher module plan — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 11:** *Yhdessä enemmän — Vapaaehtoistoiminnan kerhomateriaali yläkouluille (More Together — Volunteering Club Material for Lower Secondary Schools), by Laura Hirvenlahti* (club material, Finnish) — Finland, Kerhokeskus (Club Centre), 2011, ISBN 978-952-5853-20-9 (pdf), Grades 7–9 club use, 24 PDF pp. STUDENT — club leader's material. Verdict: PARTIAL (arts parts only) — a volunteering-education club book, not an arts book; the non-art parts (what volunteering is, influencing your local environment, decision-making, visiting volunteering projects, feedback and opinion writing, printed pp. 10–20) and the youth project reports inside it are named in the placements, not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/finland-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Acting together in a group | Grade 1 Student Textbook, §5.2, printed p. 71 |
@@ -26,11 +32,14 @@ countries: Ethiopia, Egypt, Uganda, Nicaragua
 | Uganda — Chapter 1: Performing African traditional drama — retell the story in the folk song, identify its characters and dramatize it, then brainstorm the basic African characteristics of drama (teacher guide — evidence) | Book 6, printed p. 5 |
 | Uganda — Chapter 1 — retell the story in the folk song, identify the characters in it and dramatise it; a class play should have some folk songs, mimicry and simple dances | Book 7, printed pp. 3–5 |
 | Nicaragua — Initiation in theatre works — first children's theatre works, and theatre works built on children's songs (teacher guide — evidence) | Book 8, printed p. 33 |
+| Finland — Lesson 3: The picture's story — building a story, poem, dialogue or short play in a small group from the words and feelings the group's abstract painting raises (student workshop material) | Book 9, printed p. 7 |
+| Finland — Session 5: Play sequel — continuing another group's comic story as a short play (3–5 minutes) — every member with a role and lines, performed to the class (teacher module plan — evidence) | Book 10, printed p. 12 |
+| Finland — Session 1: Role play — role play (roolileikki) as a group exercise for building group spirit and interaction in the club's first session (student club material, PARTIAL — arts parts only) | Book 11, printed p. 7 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Egypt, Uganda).** The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 4 countries (Ethiopia, Egypt, Uganda, Finland).** The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Finland's module-plan part (Book 10) is evidence only, kept outside the acceptance count.
 
 Nothing flagged. The Grade 3 methods passage is stocked in its book's own order; the four methods are the placement's four, word for word in substance.
 
 Egypt Grade 8 exclusions, carried exactly as filed: نماذج اختبارات (test models, printed p. 74) are assessment — named, not placed; قاموس المصطلحات (glossary of terms, printed p. 81) is a word list — inventory-only, named, not stocked. Egypt's own way in the Grade 8 book: the actor's craft taught step by step — expression, stance, character-building and monodrama first as solo skills, then theatre used for peace-making and for history, ending with the stage's nine areas and a full class theatre project.
 
-Searchable tags: acting together, group drama, simple drama methods, passing a message by drama, cause and effect, self-confidence, Grade 1, Grade 3, Egypt, curriculum play, مسرحية منهجية, theatre project, Nicaragua
+Searchable tags: acting together, group drama, simple drama methods, passing a message by drama, cause and effect, self-confidence, Grade 1, Grade 3, Egypt, curriculum play, مسرحية منهجية, theatre project, Nicaragua, Finland
