@@ -1,6 +1,6 @@
 # Sources — Singing in Rounds: Canon
 
-countries: Fiji, Moldova, North Macedonia
+countries: Fiji, Moldova, North Macedonia, Kazakhstan
 
 **Book 1:** *Performing Arts — Music Is Fun, Teachers Guide Year 2* (teacher guide, English) — Fiji, Curriculum Development Unit, Ministry of Education, Fiji, 2016 (Trial Version), no ISBN printed, Grade 2, 34 PDF pp. TEACHER — teacher guide. The record says student book; the cover proves TEACHER GUIDE — carried exactly as filed. Verdict: COMPLETE (cover/title page verified against the record title). Fiji's own way: every theme is sung in up to three languages (English, iTaukei, Fiji Hindi); Fiji's own songs (Isa Noqu Vanua Ko Viti, Viti, Choo-choo, Basi Levu, Lori Levu, O Bawa) sit beside imported songs, and safety teaching (earthquake, flood, cyclone, tsunami, fire) is carried by song. Placements at liqlearns-courses-work/expansion-art-2026-11-16/fiji-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -24,7 +24,7 @@ countries: Fiji, Moldova, North Macedonia
 | Moldova — Unit 2, exercise-song "Vine iarna" — "Winter is coming" sung first in unison, then in canon (student book; original target `music/canon-singing-in-rounds`) | Book 3, printed p. 35 |
 | Moldova — Unit 4, Cântați — Mozart's "Canon" ("Blânda seară lin coboară") sung first in unison, then in canon (student book; original target `music/canon-singing-in-rounds`) | Book 3, printed p. 70 |
 
-**Acceptance count: taught in 2 countries (Moldova, North Macedonia) — this lesson stands on Fiji teacher-guide evidence only, named here, counted nowhere.** Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 3 countries (Moldova, North Macedonia, Kazakhstan) — this lesson stands on Fiji teacher-guide evidence only, named here, counted nowhere.** Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/singing-in-rounds-canon`); the Fiji placements were filed under the original strings recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Songs and stories are placed by name, purpose and summary only — never transcribed.
 
@@ -37,3 +37,30 @@ Searchable tags: canon, rounds, London's Burning, Lodoni Sa Kama, iTaukei, Fiji
 | North Macedonia — Вива ла мизика — Praetorius's "Viva la musica" sung as a canon, and what a canon is: the simplest form of many-voiced singing, one melody imitated by two, three or four voices entering at different times (student book; original target `music/canon-singing-in-rounds`) | Book 4, printed p. 5 |
 
 North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 5:** *Музыка, учебник для 2 класса общеобразовательных школ (Valiullina R.N. et al.)* — Kazakhstan. Grade: 2 (student/teacher: STUDENT) Publisher: Atamura; year 2022 PDF pages: 969.pdf — title verified against the record; image-only book read visually, contents at printed pp. 141-142 Verdict: COMPLETE Kazakhstan's own way: a Russian-medium Grade 2 music year that still teaches the Kazakh sound-world: the orteke puppet dance, the kobyz, the kui contest idea and Nauryz stand inside the general musicianship (waltz, canon, rondo). Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Lesson 20 "Canon" — singing the same tune after each other (student book; original target `music/singing-in-rounds`) | Book 5, printed  |
+
+**Book 6:** *Музыка 4 — Горчакова Е.Б., Плешакова Т.Б.* — Kazakhstan. Grade: 4 (student/teacher: STUDENT) Publisher: Алматыкітап, Almaty; year 2019; no ISBN printed on the pages read PDF pages: 98 = 98 in the record (cover and title pages LOOKED at and matched; record grade-04/gov/kazakhstan/muzyka/student/112.pdf) Second record named in this book: grade-04/gov/kazakhstan/muzyka/student/1252.pdf — the 2023 reprint of the same book (104 PDF pages): cover, contents and spot-checked spreads identical, same printed pagination; the extra pages are a «Музыкальная шпаргалка» revision cheat-sheet at the back (apparatus only, not placed). Verdict: COMPLETE (image-only book read page by page on contact sheets; all 34 lessons checked against the book's own contents, printed pp. 96–97). Every song is placed as a summary of what it is about and teaches — no lyrics transcribed. Kazakhstan's own way: a listening-and-singing year that keeps circling home — the musical map of Kazakhstan, the kui tradition from Kurmangazy to the symphonic kui, zhyrau, akyn, sal and seri, Abai — set inside world music from Verdi and Grieg to space music and computer music. Excluded per brief (named, not placed): the emotional dictionary (printed p. 92, a word list — inventory-only) and the glossary (printed pp. 93–95, inventory-only). Lesson 34's year review is assessment in form; its new song is placed. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — 16. Мастерская праздника — the canon: one melody entering voice after voice with a delay, like "Frère Jacques" sung in Russian, English and Kazakh versions; the shankobyz's relative the vargan (Jew's harp) (student book; original target `music/singing-in-canon`) | Book 6, printed p. 44 |
+
+**Book 7:** *Музыка 4 — Құлманова Ш.Б., Сүлейменова Б.Р., Тоқжанов Т.Т.* — Kazakhstan. Grade: 4 (student/teacher: STUDENT) Publisher: Атамұра, Almaty; year 2019; ISBN 978-601-331-501-0 PDF pages: 160 = 160 in the record (cover and title pages LOOKED at and matched; record grade-04/gov/kazakhstan/muzyka/student/90.pdf) Verdict: COMPLETE (image-only book read page by page on contact sheets; all 34 lessons checked against the book's own contents, printed pp. 157–158). Every song is placed as a summary of what it is about and teaches — no lyrics transcribed. Kazakhstan's own way: the Kazakh-medium twin of the Grade 4 music year — same eight-section journey (Homeland, Values, Cultural Heritage, Professions, Nature, Environment, Space, Future) but built from Kazakh works: the kui line from «Ақсақ құлан» and Ykylas's kobyz to Tattimbet and the symphony orchestra, Estai and Zhayau Musa, Gaziza Zhubanova's «Хиросима» ballet, Baikonur and Didier Marouani, Jarre's laser harp and the Reactable. Excluded per brief (named, not placed): the eight «Біліміңді тексер» knowledge checks (printed pp. 18–19, 30–31, 50–51, 66–67, 89–91, 112–113, 126–127, 140–141, assessment); the crossword/crossword-answer pages (printed pp. 142–143, apparatus); the glossary (printed pp. 144–156, inventory-only). Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — 2-сабақ — the canon defined and practised: the refrain of «Дарқан дала» sung by two groups entering one after another from a printed scheme (student book; original target `music/singing-in-canon`) | Book 7, printed p. 12 |
+
+**Book 8:** *Музыка. Учебник для 6 класса общеобразовательной школы / Музыка (6-сынып)* — Kazakhstan. Grade 6 (STUDENT) Publisher: «Қазақ энциклопедиясы», Almaty; 2018; ISBN 978-601-7967-04-8 (Russian ed.), 978-601-7967-03-1 (Kazakh ed.) Authors: Мусахаджаева А., Сабырова А., Абугазы М., Гизатова Г. PDF pages: 144 (Russian record, read in full from its text layer) / 136 (Kazakh record, spot-checked — its table of contents lists the same 34 lessons in the same order and titles; parallel edition, placed once) Records covered: grade-06/gov/kazakhstan/muzyka/student (Russian ed., 144 pp) and its Kazakh parallel (136 pp) — targets-kz-b idx16 + idx15 Verdict: COMPLETE Kazakhstan's own way: the year is built as four quarters of listening, singing and a research project each quarter; Kazakh professional music is taught in three layers — oral-professional instrumental (kui), oral-professional song (sal/seri), and written professional music — and every world topic (jazz, estrada, cinema, games) is paired with its Kazakh counterpart and a Kazakh singer or composer. Named but not placed: Glossary (Глоссарий), printed pp. 131–143 — inventory only, per brief. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Lesson 20, English folk song «Спать пора!» — what it teaches: an English folk song sung as a canon — voices entering one after another on the same melody (student book; original target `music/singing-in-canon`) | Book 8, printed p. 87 |
+| Kazakhstan — Lesson 22, English folk song «Музыканты» — what it teaches: an English song about musicians who fear neither blizzard nor thunder, sung as a canon; finding the canon's step and playing a mime canon (student book; original target `music/singing-in-canon`) | Book 8, printed p. 94 |
+
+Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count.

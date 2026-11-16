@@ -1,7 +1,7 @@
 # Sources — Shapes You Can Draw
 
 
-countries: Ethiopia, Albania, Romania, Haiti, Serbia, Pakistan, Fiji, Sudan, Belarus, Morocco, Jordan, Sri Lanka, Libya, Angola, Mongolia, Afghanistan, Rwanda, Bolivia, Indonesia, Syria, Armenia, Greece, China, Vietnam
+countries: Ethiopia, Albania, Romania, Haiti, Serbia, Pakistan, Fiji, Sudan, Belarus, Morocco, Jordan, Sri Lanka, Libya, Angola, Mongolia, Afghanistan, Rwanda, Bolivia, Indonesia, Syria, Armenia, Greece, China, Vietnam, Kazakhstan
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -401,3 +401,11 @@ China is added as student-book stock (see its rows above), inside the acceptance
 | Vietnam — Bài 1 Recognise — the shape element in graphic design — shape is the closed stroke surrounding the object's perimeter, including the familiar geometric shapes (circle, square, triangle, rectangle…) and the natural shapes (grass, trees, flowers, leaves, clouds, water…); shown in the geometric shape set, Joost Schmidt's poster for the 1923 Bauhaus Exhibition in Weimar, natural-shape patterns and natural shapes applied in packaging design (student book) | Book 64, printed p. 10 |
 
 Vietnam is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 65:** *Еңбекке баулу, 1-сынып, Әдістемелік нұсқау (Rakhmetova N.B., Abylova G.K., Kashkynbayeva R.O.)* — Kazakhstan. Grade: 1 (student/teacher: TEACHER) Publisher: Almatykitap Baspasy; year 2023; ISBN not printed in the extracted front matter PDF pages: 133 (1195.pdf) — title page verified against the record; full text read; the 35-lesson long-term plan (printed pp. 7-11, plan pages are scanned images inside the PDF and were read visually) plus every short-term lesson plan Verdict: COMPLETE Excluded per brief (named, not placed): the self-service / hygiene lessons (lessons on workplace hygiene inside most plans) are apparatus, not art teaching; the closing "Observe. Learn. Construct" (lesson 35) is a review-and-assessment lesson. Kazakhstan's own way: first labour is craft with the hands — paper, natural materials, plasticine — and Kazakh culture enters as work: national ornament, the national dastarkhan (laid table), dishes with national elements. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md. **Teacher material — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Lesson 19 "Symmetrical figures" (teacher-guide evidence) — symmetry found by folding and cutting (teacher-guide evidence) | Book 65, printed pp. 9-10 |
+
+Kazakhstan is added as teacher-material evidence only (see its rows above), kept outside the acceptance count.

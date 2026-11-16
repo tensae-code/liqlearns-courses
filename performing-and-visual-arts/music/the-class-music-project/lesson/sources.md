@@ -1,6 +1,6 @@
 # Sources — The Class Music Project
 
-countries: North Macedonia
+countries: North Macedonia, Kazakhstan
 
 **Book 1:** *Музичка уметност за III година гимназиско образование (изборен предмет) (Music Art for Year III of gymnasium education, elective subject)* (student book, Macedonian) — North Macedonia, Министерство за образование и наука на Република Македонија (Ministry of Education and Science), Skopje; year 2010 (CIP), copy in hand is the 2013 printing; ISBN 978-608-226-255-0; author Suzana Tnokova Kuzmanovska; Ministry approval decision no. 22-4030/1 of 29.06.2010 Grade: Grade 12 (gymnasium Year III, elective) (student/teacher: STUDENT). PDF pages: 104 (102 printed pages per CIP plus covers; image-only scan read page by page from rendered sheets; read in place from phase3-staging, never deleted). Verdict: COMPLETE. North Macedonia's own way: half the book is Macedonia itself — its musical folklore and the science that studies it, folk songs sorted by their work, costumes of the four regions, every folk instrument family, the oro dances region by region (Teshkoto, Kopachka, Rusalii), village and chalgija ensembles, Macedonian opera singers, composers and conductors, the first Macedonian opera and ballet, Badnik customs, Cyril and Methodius, and the country's festivals. Excluded per standing rules: the quotations page (printed p. 3) and the photo spreads (pp. 4, 5, 11, 37, 53) carry no teachable text; the "listening at the pupils' suggestion" page (p. 71) is an activity, not content; the Задача task boxes throughout are exercises inside the placed chapters, not placed separately. Song lyrics are summarised, never transcribed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/north-macedonia-placements.md.
 
@@ -8,8 +8,16 @@ countries: North Macedonia
 |---|---|
 | North Macedonia — Проект во наставата — the class music project: groups of five or six research a composer, a performer or an element of folklore, form a performing group, and present — the time shared out: theme 1 part, research half, presentation-making and rehearsal a quarter each (student book; original target `music/the-class-music-project`) | Book 1, printed pp. 97–98 |
 
-**Acceptance count: taught in 1 country (North Macedonia).**
+**Acceptance count: taught in 2 countries (North Macedonia, Kazakhstan).**
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/the-class-music-project`). The North Macedonia placements were filed under the original string(s) `music/the-class-music-project`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2 where the string differs. North Macedonia's own way is the lesson itself where the topic is Macedonian: the country's own music, dances, crafts and art forms are kept as named parts. Songs are placed by title and theme only, never transcribed.
 
 Searchable tags: North Macedonia, The Class Music Project, Проект во наставата
+
+**Book 2:** *Музыка 4 — Құлманова Ш.Б., Сүлейменова Б.Р., Тоқжанов Т.Т.* — Kazakhstan. Grade: 4 (student/teacher: STUDENT) Publisher: Атамұра, Almaty; year 2019; ISBN 978-601-331-501-0 PDF pages: 160 = 160 in the record (cover and title pages LOOKED at and matched; record grade-04/gov/kazakhstan/muzyka/student/90.pdf) Verdict: COMPLETE (image-only book read page by page on contact sheets; all 34 lessons checked against the book's own contents, printed pp. 157–158). Every song is placed as a summary of what it is about and teaches — no lyrics transcribed. Kazakhstan's own way: the Kazakh-medium twin of the Grade 4 music year — same eight-section journey (Homeland, Values, Cultural Heritage, Professions, Nature, Environment, Space, Future) but built from Kazakh works: the kui line from «Ақсақ құлан» and Ykylas's kobyz to Tattimbet and the symphony orchestra, Estai and Zhayau Musa, Gaziza Zhubanova's «Хиросима» ballet, Baikonur and Didier Marouani, Jarre's laser harp and the Reactable. Excluded per brief (named, not placed): the eight «Біліміңді тексер» knowledge checks (printed pp. 18–19, 30–31, 50–51, 66–67, 89–91, 112–113, 126–127, 140–141, assessment); the crossword/crossword-answer pages (printed pp. 142–143, apparatus); the glossary (printed pp. 144–156, inventory-only). Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — 4-сабақ «Туған өлкемді жырлаймын» — the "Musical Gifts" group project: teams gather songs, pictures and facts about their home region, school and class and present them; the song «Менің Отаным» (words B. Yskakov, music O. Baidildaev) (student book; original target `music/musical-gifts-research-project`) | Book 2, printed p. 15 |
+
+Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count.

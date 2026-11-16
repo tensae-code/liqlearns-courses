@@ -1,6 +1,6 @@
 # Sources — Family Songs
 
-countries: Ethiopia, Albania, Turkmenistan, Belarus, Bulgaria, Jordan, Libya, Angola, Rwanda, Malaysia, Moldova, Syria, Armenia, China, Vietnam
+countries: Ethiopia, Albania, Turkmenistan, Belarus, Bulgaria, Jordan, Libya, Angola, Rwanda, Malaysia, Moldova, Syria, Armenia, China, Vietnam, Kazakhstan
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -95,7 +95,7 @@ countries: Ethiopia, Albania, Turkmenistan, Belarus, Bulgaria, Jordan, Libya, An
 | Armenia — "Im mayrik" (My mother, Jbyan/Muradyan) — a song honouring mother above sun, moon and stars (student book; original target `music/family-songs`) | Book 21, printed p. 48 |
 
 
-**Acceptance count: taught in 12 countries (Ethiopia, Turkmenistan, Belarus, Bulgaria, Jordan, Angola, Malaysia, Moldova, Syria, Armenia, China, Vietnam).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 13 countries (Ethiopia, Turkmenistan, Belarus, Bulgaria, Jordan, Angola, Malaysia, Moldova, Syria, Armenia, China, Vietnam, Kazakhstan).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 No lyrics of any family song are transcribed; the songs are named and their messages summarised, as the placements give them. The same holds for Sub lesson 4's "ልጅነቴ" (My Childhood), added by Group G: named, sourced (ህይወት ማሞ, traditional melody) and summarised — never transcribed. The written-notes step is named and explained in words only — this lesson does not teach reading the notes themselves; that belongs to the notation lessons of Group E.
 
@@ -149,3 +149,61 @@ China is added as student-book stock (see its rows above), inside the acceptance
 | Vietnam — Theme 6 (Mother in My Heart), Singing — "Chỉ có một trên đời" (Only One in the World), music by Trương Quang Lục from the poem by Nga — in the high sky are countless stars, in the green fields countless rice plants, the forest birds have countless songs and the garden trees countless leaves and flowers, but the sun is only one — and mother is only one in the world; the song's humming "a à" bridge leads into its deeper, more heartfelt second section; sung with two solo leaders and unison (student book) | Book 25, printed p. 46 |
 
 Vietnam is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 26:** *Музыка, учебник для 1 класса общеобразовательной школы (Kaydarova A.A. et al., Nazarbayev Intellectual Schools)* — Kazakhstan. Grade: 1 (student/teacher: STUDENT) Publisher: Nazarbayev Intellectual Schools; year not printed in the extracted front matter; ISBN not printed in the extracted front matter PDF pages: 128 (921.pdf) — title page verified against the record; full text read, contents at printed pp. 3-4 Verdict: COMPLETE Excluded per brief (named, not placed): the closing Glossary (printed p. 119) is inventory only. Kazakhstan's own way: the NIS music year is built on the eight cross-cutting themes and Kazakh material is structural, not decorative: Kazakh folk instruments, Kazakh folk dance, Kazakh legends and the Nauryz song each carry a whole lesson. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md. **Teacher material — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Section 3 "My family and friends", Lessons 9-11 — "A musical family"; "Mother's lullaby"; "Friendship is a miracle!" (teacher-guide evidence) | Book 26, printed pp. 36-42 |
+
+**Book 27:** *Музыка, учебник для 2 класса общеобразовательных школ (Valiullina R.N. et al.)* — Kazakhstan. Grade: 2 (student/teacher: STUDENT) Publisher: Atamura; year 2022 PDF pages: 969.pdf — title verified against the record; image-only book read visually, contents at printed pp. 141-142 Verdict: COMPLETE Kazakhstan's own way: a Russian-medium Grade 2 music year that still teaches the Kazakh sound-world: the orteke puppet dance, the kobyz, the kui contest idea and Nauryz stand inside the general musicianship (waltz, canon, rondo). Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Lessons 9-12 — family songs and the lullaby thread (student book) | Book 27, printed  |
+
+**Book 28:** *Музыка, жалпы білім беретін мектептің 2-сыныбына арналған оқулық (Kulmanova Sh.B. et al.)* — Kazakhstan. Grade: 2 (student/teacher: STUDENT) Publisher: Atamura; years 2022 (985.pdf) and 2017 (60.pdf-recorded file 38.pdf) PDF pages: 144 each (985.pdf, 2022 ed. / 38.pdf, 2017 ed.) — titles verified against the records; both files are the Kazakh-medium Kulmanova book in two editions (contents compared, printed pp. 142-143); read in full from the 2022 edition with the 2017 edition spot-checked Verdict: COMPLETE Kazakhstan's own way: Kulmanova's Grade 2 year is the most Kazakh of the set: a kui contest, the sybyzgy flute's legend, the orteke, and Korkyt — the father of kui — stand at the centre of the listening programme. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Lessons 9-12 — family and friends sung (student book) | Book 28, printed  |
+
+**Book 29:** *Музыка, учебник для 2 класса общеобразовательных школ (Gorchakova E.V. et al.)* — Kazakhstan. Grade: 2 (student/teacher: STUDENT) Publisher: Almatykitap Baspasy; year not printed in the extracted front matter PDF pages: 96 (48.pdf) — title verified against the record; full text read, contents extracted in full Verdict: COMPLETE Kazakhstan's own way: Gorchakova's 34 lessons run the general musicianship course (march, dance, song; opera and ballet visits) and give a whole lesson to Kazakh puppet-musical art. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Lessons 9-11 — family in song (student book) | Book 29, printed  |
+
+**Book 30:** *Музыка, 2-сынып оқушыларына арналған оқулық (Orazalieva M.A. et al.)* — Kazakhstan. Grade: 2 (student/teacher: STUDENT) Publisher: Almatykitap Baspasy; year not printed in the extracted front matter PDF pages: 112 (1012.pdf) — title verified against the record; full text read, contents at printed pp. 110-111 (34 lessons in eight sections) Verdict: COMPLETE Kazakhstan's own way: Orazalieva's Kazakh-medium Grade 2 year names its heroes: "Korkyt — the father of kui" opens the traditions section, the orteke dances mid-year, the Zhaparapazan Ramadan song is sung, and a choir lesson teaches singing together. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Section III, Lessons 9-12 — family and friends (student book) | Book 30, printed pp. 110-111 |
+
+**Book 31:** *Музыка, учебник для 2 класса общеобразовательной школы (NIS)* — Kazakhstan. Grade: 2 (student/teacher: STUDENT) Publisher: Nazarbayev Intellectual Schools; year not printed in the extracted front matter PDF pages: 1029.pdf — title verified against the record; full text read, contents at printed pp. 3-4 Verdict: COMPLETE Kazakhstan's own way: the NIS Grade 2 year deepens the eight-theme course: registers, forms and the orchestra, with Kazakh instruments, dance and Nauryz in their theme places. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md. **Teacher material — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Section 3 lessons — family songs (teacher-guide evidence) | Book 31, printed pp. 3-4 |
+
+**Book 32:** *Музыка 4 — Горчакова Е.Б., Плешакова Т.Б.* — Kazakhstan. Grade: 4 (student/teacher: STUDENT) Publisher: Алматыкітап, Almaty; year 2019; no ISBN printed on the pages read PDF pages: 98 = 98 in the record (cover and title pages LOOKED at and matched; record grade-04/gov/kazakhstan/muzyka/student/112.pdf) Second record named in this book: grade-04/gov/kazakhstan/muzyka/student/1252.pdf — the 2023 reprint of the same book (104 PDF pages): cover, contents and spot-checked spreads identical, same printed pagination; the extra pages are a «Музыкальная шпаргалка» revision cheat-sheet at the back (apparatus only, not placed). Verdict: COMPLETE (image-only book read page by page on contact sheets; all 34 lessons checked against the book's own contents, printed pp. 96–97). Every song is placed as a summary of what it is about and teaches — no lyrics transcribed. Kazakhstan's own way: a listening-and-singing year that keeps circling home — the musical map of Kazakhstan, the kui tradition from Kurmangazy to the symphonic kui, zhyrau, akyn, sal and seri, Abai — set inside world music from Verdi and Grieg to space music and computer music. Excluded per brief (named, not placed): the emotional dictionary (printed p. 92, a word list — inventory-only) and the glossary (printed pp. 93–95, inventory-only). Lesson 34's year review is assessment in form; its new song is placed. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — 24, song «Анажаным» (words and music B. Beisenova) — a tender song to mother, the child's happiness and protection (student book) | Book 32, printed p. 67 |
+
+**Book 33:** *Музыка 4 — Құлманова Ш.Б., Сүлейменова Б.Р., Тоқжанов Т.Т.* — Kazakhstan. Grade: 4 (student/teacher: STUDENT) Publisher: Атамұра, Almaty; year 2019; ISBN 978-601-331-501-0 PDF pages: 160 = 160 in the record (cover and title pages LOOKED at and matched; record grade-04/gov/kazakhstan/muzyka/student/90.pdf) Verdict: COMPLETE (image-only book read page by page on contact sheets; all 34 lessons checked against the book's own contents, printed pp. 157–158). Every song is placed as a summary of what it is about and teaches — no lyrics transcribed. Kazakhstan's own way: the Kazakh-medium twin of the Grade 4 music year — same eight-section journey (Homeland, Values, Cultural Heritage, Professions, Nature, Environment, Space, Future) but built from Kazakh works: the kui line from «Ақсақ құлан» and Ykylas's kobyz to Tattimbet and the symphony orchestra, Estai and Zhayau Musa, Gaziza Zhubanova's «Хиросима» ballet, Baikonur and Didier Marouani, Jarre's laser harp and the Reactable. Excluded per brief (named, not placed): the eight «Біліміңді тексер» knowledge checks (printed pp. 18–19, 30–31, 50–51, 66–67, 89–91, 112–113, 126–127, 140–141, assessment); the crossword/crossword-answer pages (printed pp. 142–143, apparatus); the glossary (printed pp. 144–156, inventory-only). Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — 6-сабақ «Үлкенге құрмет», song «Ата-әже» (words I. Isa, music A. Beksultan) — grandfather and grandmother honoured: respect for elders as a value (student book) | Book 33, printed p. 25 |
+| Kazakhstan — 7-сабақ «Достығымыз жарасқан», song «Жан досым» (words T. Moldagaliev, music S. Baiterekov) — the soul-friend: what a true friend is (student book) | Book 33, printed p. 27 |
+| Kazakhstan — 7-сабақ, song «Достар әні» (words A. Rakhmetov, music N. Myrzhanov) — friends together through the days; the class sings the first verse split by dynamics — one group forte, the other piano (student book) | Book 33, printed p. 28 |
+
+**Book 34:** *Музыка. Учебник для 6 класса общеобразовательной школы / Музыка (6-сынып)* — Kazakhstan. Grade 6 (STUDENT) Publisher: «Қазақ энциклопедиясы», Almaty; 2018; ISBN 978-601-7967-04-8 (Russian ed.), 978-601-7967-03-1 (Kazakh ed.) Authors: Мусахаджаева А., Сабырова А., Абугазы М., Гизатова Г. PDF pages: 144 (Russian record, read in full from its text layer) / 136 (Kazakh record, spot-checked — its table of contents lists the same 34 lessons in the same order and titles; parallel edition, placed once) Records covered: grade-06/gov/kazakhstan/muzyka/student (Russian ed., 144 pp) and its Kazakh parallel (136 pp) — targets-kz-b idx16 + idx15 Verdict: COMPLETE Kazakhstan's own way: the year is built as four quarters of listening, singing and a research project each quarter; Kazakh professional music is taught in three layers — oral-professional instrumental (kui), oral-professional song (sal/seri), and written professional music — and every world topic (jazz, estrada, cinema, games) is paired with its Kazakh counterpart and a Kazakh singer or composer. Named but not placed: Glossary (Глоссарий), printed pp. 131–143 — inventory only, per brief. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Lesson 30, song «Әжетайым» (Abilzhanov/Kaliev) — what it teaches: a song for grandmother, who saved her tastiest kurt and butter for her grandchild and is honoured by the whole village (student book) | Book 34, printed p. 118 |
+
+Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count; its teacher-material rows are evidence only, kept outside the acceptance count.

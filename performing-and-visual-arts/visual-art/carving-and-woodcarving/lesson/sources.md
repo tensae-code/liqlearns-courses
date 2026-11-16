@@ -1,6 +1,6 @@
 # Sources — Carving and Woodcarving
 
-countries: Bulgaria, Mongolia, Greece
+countries: Bulgaria, Mongolia, Greece, Kazakhstan
 
 **Book 1:** *Изобразително изкуство за 9. клас (Fine Arts for Grade 9)* (student book, Bulgarian) — Bulgaria, Педагог 6 (Pedagog 6), Sofia; year 2024 (Second Edition; approved by Order РД 09-384/09.02.2024 of the Minister of Education and Science); ISBN 978-954-324-333-4. Authors: доц. д-р Мариета Петрова Савчева-Ангелова, Елена Веселинова Панайотова, доц. д-р Анна Илчева Цоловска, проф. д-р Благомир Кирилов Папазов. Grade: 9 (student/teacher: STUDENT). PDF pages: 34 (cover/title page verified against the record title; 38,891,240 bytes and 34 pages match the record exactly). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
 
@@ -14,7 +14,7 @@ countries: Bulgaria, Mongolia, Greece
 |---|---|
 | Mongolia — Part II: Чулуугаар урлах (Crafting with stones) — a butterfly assembled from stones; a dog sculpted by sticking stones together with clay, its surroundings built around it (B. Altanbayar's "Man with a dog", age 7); what does this stone resemble?; and clay care — never hold it long in the hand, store it sorted by colour, gather stones and set the sculpture in clay for the exhibition (student book; original target `visual-art/crafting-with-stones`) | Book 2, printed pp. 67–68 |
 
-**Acceptance count: taught in 3 countries (Bulgaria, Mongolia, Greece).** Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 4 countries (Bulgaria, Mongolia, Greece, Kazakhstan).** Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/carving-and-woodcarving`); the Bulgaria placements were filed under the original string(s) recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Songs and stories are placed by summary only, never transcribed.
 
@@ -27,3 +27,11 @@ Searchable tags: carving and woodcarving, Bulgaria
 | Greece — Ενότητα 1, Θέμα 3: Γλυπτική με ξύλο και ξυλογλυπτική (Wood sculpture and woodcarving) — wood sculpture in the history of civilisations; woodcarving in the Greek tradition; the woodcarving technique (student book; original target `visual-art/woodcarving`) | Book 3, printed p. 37 |
 
 Greece is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 4:** *Художественный труд. Учебник для учащихся 5 класса общеобразовательной школы (вариант для мальчиков) + CD / Көркем еңбек (ұл балаларға арналған нұсқа)* — Kazakhstan. Grade: 5 (STUDENT) Publisher; year; ISBN: Келешек-2030 (Kokshetau), 2017; ISBN 978-601-317-161-6 (Russian edition) PDF pages: 96 = record (both records) Verdict: COMPLETE Records covered: grade-05 student record (Russian, read in full from books.okulyk.kz source) + Kazakh parallel record (spot-checked identical — title page and §14 timber at the same printed p. 48) Kazakhstan's own way: the visual-art chapters (§1–7) are page-for-page the same as the girls' variant (Book 9); the boys' applied-art and design chapters turn to the Kazakh master's crafts — the terishi leatherworker, the zerger silver jeweller, the usta wood carver — and end by designing Kazakh percussion instruments (dabyl, asatayak, dauylpaz). Named but NOT placed (combined volume — technology/home parts): «Культура питания» §21 — healthy eating and menus, printed pp. 70–75; «Культура дома» §22–24 — sources of electrical energy, electrical fittings, experiments with electricity, home repairs, printed pp. 76–83; §25–26 — plant growing and spring garden work, printed pp. 84–87; Правила техники безопасности, printed p. 88 (safety apparatus); Словарь, printed pp. 89–91 (glossary — inventory only). Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — §17 «Художественное выпиливание изделий криволинейной формы» — what it teaches: cutting curved contours — transfer the drawing through carbon paper, cut inner contours before outer ones through a drilled entry hole, turn corners in two directions, keep the blade vertical at 60–80 strokes a minute, finish with files and sandpaper (student book; original target `visual-art/cutting-curved-contours-fretwork`) | Book 4, printed p. 58 |
+
+Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count.

@@ -1,6 +1,6 @@
 # Sources — Recycled and Sustainable Crafting
 
-countries: Finland, Papua New Guinea, Cuba, Angola, Indonesia
+countries: Finland, Papua New Guinea, Cuba, Angola, Indonesia, Kazakhstan
 
 **Book 1:** *KATSE TULEVAAN — Tulevaisuuden taidot, vastuulliset materiaalivalinnat ja elinkaariajattelu käsityöprosessissa (A Look Ahead — Future Skills, Responsible Material Choices and Life-Cycle Thinking in the Craft Process)* (craft-school project material, Finnish) — Finland, Taito käsityö- ja muotoilukoulut (craft and design schools), TuleVa project, year not printed (project material, c. 2024–2025), no ISBN printed, basic art education craft schools, pupils aged 7–15 in the pilots, 47 PDF pp. TEACHER — project material of the Taito craft and design schools (Näpsä, Taito Etelä-Suomi, Näppi, Jyväskylä). Verdict: COMPLETE for its craft parts. The development surveys (kehittämiskartoitukset) and skills tables are project apparatus — named in the placements, not placed; the "Useful 3D printing" pilot (product development and repairs by 3D printing, ages 9–14, printed p. 14) is technology — named, not placed. FETCH NOTE: the GitHub tree path returned HTTP 404 on two grab attempts; the book was read from its recorded aoe.fi source_url, byte size 15,895,944 = the record's size_bytes exactly, and its printed title matches the record — the content is the recorded book (a phantom push recovered byte-exact from aoe.fi); the 404 tree path is logged as a library debt. Placements at liqlearns-courses-work/expansion-art-2026-11-16/finland-placements.md. **Teacher project material — EVIDENCE only, kept outside the acceptance count.**
 
@@ -22,7 +22,7 @@ countries: Finland, Papua New Guinea, Cuba, Angola, Indonesia
 |---|---|
 | Indonesia — Unit 4–5 Kerajinan Limbah Anorganik — the field of craft products from inorganic waste (limbah anorganik), then making craft products from inorganic waste (teacher guide — evidence; original target `visual-art/crafts-from-inorganic-waste`) | Book 5, printed p. 215 |
 
-**Acceptance count: taught in 1 country (Angola).** Finland is added as teacher project material — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count. Angola is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 2 countries (Angola, Kazakhstan).** Finland is added as teacher project material — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count. Angola is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/recycled-and-sustainable-crafting`); the Finland placement was filed as NEW LESSON NEEDED under the original string `visual-art/responsible-craft-and-lifecycle-thinking`, recorded in the provenance row above and resolved to this lesson by slug-registry Part 2. Finland's own way: craft taught as a whole life-cycle — design, responsible material choice, making, care and repair, and recycling.
 
@@ -34,3 +34,11 @@ Searchable tags: sustainable crafting, life-cycle thinking, repair, recycling, K
 | Lesson part | Where it comes from |
 |---|---|
 | Cuba — Unit 3, Expresiones del arte popular — making a rag doll (muñeca de trapo) or another craft toy out of waste/discarded materials (teacher guide — evidence; original target `visual-art/craft-toys-from-recycled-materials`) | Book 3, printed p. 43 |
+
+**Book 6:** *Трудовое обучение 4 — Мураткызы Г., Бухабай М., Кисимисов Е.Т., Дерябина Е.П.* — Kazakhstan. Grade: 4 (student/teacher: STUDENT) Publisher: Атамұра, Almaty; year 2025; ISBN 978-601-10-0596-8 PDF pages: 136 = 136 in the record (cover and title pages LOOKED at and matched; record grade-04/gov/kazakhstan/trudovoe-obuchenie/student/1501.pdf) Verdict: COMPLETE (image-only book read page by page on contact sheets; all 34 lessons checked against the book's own contents, printed pp. 3–4) Kazakhstan's own way: the same national craft curriculum as the Мектеп book but a different object for almost every lesson — Aisha Bibi and yurt models, a dombra model, berkut origami, altybakan, besik, kamchi, asyk and a felt torsyk — each lesson pairs one heritage object with one material technique. Excluded per brief (named, not placed): safety rules (printed pp. 6–7, apparatus); the end-of-year knowledge check inside Урок 34 (printed p. 132, assessment); the glossary «Краткий словарь терминов» (printed pp. 133–134, inventory-only); the bibliography (printed p. 135). Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Урок 32 «Подставка для посуды» — cardboard tubes, a waste material with a history (invented 1870); a flower-shaped dish stand from cut tube ovals, with a national ornament strip (student book; original target `visual-art/dish-stand-from-cardboard-tubes`) | Book 6, printed p. 125 |
+
+Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count.

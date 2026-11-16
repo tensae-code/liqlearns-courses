@@ -1,6 +1,6 @@
 # Sources — Rock Music
 
-countries: North Macedonia, Greece
+countries: North Macedonia, Greece, Kazakhstan
 
 **Book 1:** *Музичка уметност за II година гимназиско образование (Musical Art for the Second Year of Gymnasium Education)* (student book, Macedonian) — North Macedonia, Литера Гроуп (Litera Group), Skopje; year 2026; ISBN 978-608-4855-91-0; authors Simona Zafirovska & Lejla Alimi Lumani; Ministry approval decision no. 26-748/1 of 16.6.2026 Grade: Grade 11 (gymnasium Year II; student/teacher: STUDENT). PDF pages: 176 (175 printed pages per CIP plus cover; read in place from phase3-staging, never deleted). Verdict: COMPLETE. North Macedonia's own way: a full European music history is taught, but the book keeps coming home — a whole Macedonian composer school in three generations plus a parallel popular-and-jazz line, Macedonian festivals beside Glastonbury and Eurovision, and a closing heritage unit where the ritual songs and wedding dances of every people in the country are taught side by side, before the Balkans, Europe and the world. Excluded per standing rules: the bibliography (printed pp. 174–175) is not content; this book has no glossary. Directed-listening examples, singing exercises and notation-app tasks ride inside the placed lessons, not placed separately. Song lyrics are summarised, never transcribed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/north-macedonia-placements.md.
 
@@ -14,7 +14,7 @@ countries: North Macedonia, Greece
 |---|---|
 | North Macedonia — Рок музика — rock music: from the rock'n'roll of the 1940s–50s, fed by blues, country, classical and electronic music; folk rock, blues rock and jazz-rock fusion; the 1970s' soft rock, heavy metal, hard, progressive and punk rock; the 1980s' synth-pop, hardcore and alternative; the 1990s' grunge, britpop, indie and nu metal; the electric guitar at its centre — Hendrix its virtuoso — and the rock band of guitarist, singer, bassist and drummer (student book; original target `music/rock-music`) | Book 2, printed p. 102 |
 
-**Acceptance count: taught in 2 countries (North Macedonia, Greece).**
+**Acceptance count: taught in 3 countries (North Macedonia, Greece, Kazakhstan).**
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/rock-music`). The North Macedonia placements were filed under the original string(s) `music/rock-music`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2 where the string differs. North Macedonia's own way is the lesson itself where the topic is Macedonian: the country's own music, dances, crafts and art forms are kept as named parts. Songs are placed by title and theme only, never transcribed.
 
@@ -35,3 +35,11 @@ Searchable tags: North Macedonia, Rock Music, rock music, Рок музика
 | Greece — Η ιστορία ενός τοίχου (The story of a wall) — Pink Floyd's "Another Brick in the Wall" — rock as protest story (student book) | Book 4, printed p. 46 |
 
 Greece is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 5:** *Музыка. Учебник для 6 класса общеобразовательной школы / Музыка (6-сынып)* — Kazakhstan. Grade 6 (STUDENT) Publisher: «Қазақ энциклопедиясы», Almaty; 2018; ISBN 978-601-7967-04-8 (Russian ed.), 978-601-7967-03-1 (Kazakh ed.) Authors: Мусахаджаева А., Сабырова А., Абугазы М., Гизатова Г. PDF pages: 144 (Russian record, read in full from its text layer) / 136 (Kazakh record, spot-checked — its table of contents lists the same 34 lessons in the same order and titles; parallel edition, placed once) Records covered: grade-06/gov/kazakhstan/muzyka/student (Russian ed., 144 pp) and its Kazakh parallel (136 pp) — targets-kz-b idx16 + idx15 Verdict: COMPLETE Kazakhstan's own way: the year is built as four quarters of listening, singing and a research project each quarter; Kazakh professional music is taught in three layers — oral-professional instrumental (kui), oral-professional song (sal/seri), and written professional music — and every world topic (jazz, estrada, cinema, games) is paired with its Kazakh counterpart and a Kazakh singer or composer. Named but not placed: Glossary (Глоссарий), printed pp. 131–143 — inventory only, per brief. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Lesson 12 «Современные жанры и стили» — what it teaches: rock'n'roll (Presley), the twist, rock (the Beatles and Beatlemania, the Rolling Stones), electronic music and hip-hop/rap, born 1979 around the DJ; comparing performances of «Yesterday» (student book; original target `music/rock-n-roll-rock-and-hip-hop`) | Book 5, printed p. 61 |
+
+Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count.

@@ -1,0 +1,46 @@
+# Lesson plan — Kazakh Leather Craft
+
+**Course:** Performing and Visual Arts · **Title:** Visual Art · **Lesson:** Kazakh Leather Craft
+**Place in the curriculum:** Visual Art (CURRICULUM.md).
+**The one thing this lesson teaches:** kazakh Leather Craft — its forms, history and cultural meaning, taught as one topic lesson..
+**This lesson's own level:** it stands on the earlier lessons of this course in the same title.
+
+A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video, an audio. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees from the start, locked ahead, each opening when the one before it is proved:
+
+1. **Kazakhstan Grade 4 Labour Training (Muratkыzy)** — the kamchi, the Kazakh whip: symbol of power, wisdom and luck, still honouring the home; traditionally braided from five to forty leather cords with a tavolga-wood handle dressed in metal, leather and fringe; the class braids a round kamchi from cellophane-bag strips; the torsyk, the old leather vessel for kumis and shubat sewn from two pieces of camel, deer or bull hide with a wooden cone stopper; the saba and Kazakh national dishes
+2. **Kazakhstan Grade 5 Artistic Labour (girls, Alimsaeva)** — what it teaches: plaiting the Kazakh kamcha whip from leather — the kamcha's place in Kazakh life, cutting the leather, numbering four strips and plaiting them over-under in sequence
+3. **Kazakhstan Grade 5 Artistic Labour (boys, Chukalin)** — what it teaches: the terishi leatherworker's goods — the ton fur coat, saptama etik high boots and the torsyk kumys flask — and every part of Kazakh horse harness named on the diagram (bridle, saddle, girths, stirrups); what it teaches: plaiting the Kazakh kamcha whip from leather — the kamcha's place in Kazakh life, cutting the leather, numbering four strips and plaiting them over-under in sequence
+4. **Kazakhstan Grade 7 Artistic Labour (boys, Chukalin)** — what it teaches: leather in Kazakh life — from the hides of cattle and camels came clothing, from leather footwear, belts, vessels of many purposes, horse harness and chests (сундуки); the leather-worker's techniques — embossing, perforation, carving (высечка), plaiting, pyrography and engraving on leather, used singly or combined as the product and its artistic idea demand; leather appliqué — pieces of any leather glued or sewn onto a ground, the way panels and souvenirs are decorated
+5. **Kazakhstan Grade 8 Artistic Labour (boys, Chukalin)** — torsyk, round table) — what it teaches: in Kazakh craft leather was widely used, and items made from it took a notable place in the nomadic people's life; vessels prepared from processed leather are varied in kind and volume and are used for varied purposes; from old times travellers and herdsmen took a торсық when going on the road — a торсық is a vessel for pouring a drink, made of leather; the торсық was tied to the saddle or the cart's shady side; as it moved, the drink inside the торсық shook and its taste entered; when the kymys or airag in the торсық ran out, a қатық formed at its neck side; water was added to it and a шалап was made and drunk; the торсық was made from soaked (жідитілген) leather — cut by putting it on a mould, then sewn with a strap; later two wooden boards were put between and, by pressing, an ornament was imprinted; wood was also widely used in Kazakh craft — for nomadic and semi-nomadic life to be convenient, ancient furniture and dishes and other household things were prepared light, small in volume and convenient to carry; items made of wood were decorated with ornament and inlaid (бедерленген) with bone and silver; the дөңгелек үстел (round table) is a low table joined together from wooden boards — around it көрпешелер (cushions) are laid and бестек (?) spread, and people sitting around the round table see each other freely; the round table is kept and carried conveniently — this was very convenient for nomadic life; by the tradition formed from old times, Kazakhs brought a guest up to the төр (place of honour) and gave food — a stranger who came to the house was received with open arms without asking where he came from or who he was, and seen off without giving food (?); what it teaches: wood timber is used in varied production fields and in life; making a product from wood timber begins from choosing the preparation (blank) needed for the future product's parts — that is, the material (board, plywood and so on); its base — that is, the flattest face — is chosen, and on the preparation, lines and points are drawn showing the places to be processed; then sawing is carried out; the sawn face of the preparation can be rough — an allowance is left for processing it; planing (сүргілеу) the timber to smooth the preparation and bring it to the needed form and measurement — that is, the preparation's thin layers are cut off in the form of shavings; for changing the preparation's form and measurements varied hand tools and machines are used: a drill (бұрғы), a jointer (жонғыш), a thicknesser (рейсмус), a milling machine (фрезер) and so on; alongside wood timber, leather is counted a very strong and valuable material; before making a product from leather the pattern (пішім) must be prepared; when cutting paired pieces, take into account that leather stretches well crosswise, and cut in one direction; for sewing a leather product a strong kapron thread is used, and a decorative seam is run on its top; the strongest thread used in sewing leather is called ыңыршақ жіп (sinew thread) — it was first used in making the saddle (ер-тоқым) and horse gear (атәбзел); today the sinew thread is used in sewing leather products; for putting a seam mark on the leather's face a белгітүсіргіш (roller) is used; with a біз (awl) the seam's holes are pierced; the sewn leather pieces' cut places are smoothed with a борд tool; the leather souvenir (былғары кәдесый), variant 1 — a торсық: made from leather scraps (қиықтарынан); the soaked leather, taken from the wooden mould, was put into dye, boiled and dried; then the product was cut and the ornament sewn; by the sketch drawn on the торсық with a stylus (батырғы), hot sand was poured in (at work the leather was damp); after it fully dried the sand inside was poured out and the торсық dried in the wind — through that the торсық's form is preserved; what it teaches: the souvenir's material can be old leather scraps — before use they must be cleaned with a brush; to tan the leather it must be put into a solution of table salt and vinegar acid (500 ml water, 25 g table salt, 10 ml of 9% vinegar acid); variant 2 in twenty-six step photographs: the sketch drawn, a paper template cut, the ornament-shaped leather piece cut out, the ornament tooled in with stamps and cutting tools, the piece dyed, glued to its backing, the edges finished and a cord attached — the finished торсық-shaped leather pendant
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
+
+## Before this lesson
+- Recommended first: the earlier lessons of this title. Recommended, never forced.
+
+## What the learner can do when it ends
+1. Say what Kazakh Leather Craft teaches, part by part, in the books' own terms.
+
+## What you need
+The materials each part names; where a part is making, the tools it names.
+
+## The run of the lesson (in order)
+1. **Do it first** — say what you already know about this lesson's thing (lesson/lesson.md).
+2. **The explanation** — the parts in order (lesson/lesson.md).
+   - ADD IMAGE: a picture of the lesson's first part at work — the student names what they see.
+   - ADD VIDEO: the script in video-script.md, filmed — made later, when videos are made.
+3. **Questions** — from questions/: multiple-choice, true-or-false, short-answer (levels.md).
+4. **Hands-on** — hands-on.md.
+
+## Add-ons for this lesson (the full list)
+- IMAGE — the lesson's first part at work → the student names what they see.
+- VIDEO — the video-script filmed (made later) → the student listens and answers.
+
+## If the learner is stuck
+- Cannot name a part → go back to that part's own words in lesson/lesson.md and say them back.
+
+## Teacher note
+The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

@@ -1,6 +1,6 @@
 # Sources — Shapes, Forms and Patterns in Colour
 
-countries: Ethiopia, Maldives, Uganda, Bhutan, Serbia, Mozambique, Pakistan, Fiji, Belarus, Papua New Guinea, Jordan, Libya, Mongolia, Afghanistan, Rwanda, Bolivia, Moldova, Indonesia, Armenia, Greece, China, Vietnam
+countries: Ethiopia, Maldives, Uganda, Bhutan, Serbia, Mozambique, Pakistan, Fiji, Belarus, Papua New Guinea, Jordan, Libya, Mongolia, Afghanistan, Rwanda, Bolivia, Moldova, Indonesia, Armenia, Greece, China, Vietnam, Kazakhstan
 
 **Book 1:** *Grade 4 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 4ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–100. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-student-placements.md.
 
@@ -276,3 +276,11 @@ China is added as student-book stock (see its rows above), inside the acceptance
 | Vietnam — Topic 2, Bài 2 — Thực hành trang trí đường diềm (practising border decoration) (student book) | Book 44, printed p. 38 |
 
 Vietnam is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 45:** *Бейнелеу өнері, Әдістемелік нұсқау, 1-сынып (Kazakh guide, Akbaeva Sh.A., Suleev U.M., Khabambaev A.E.) / Изобразительное искусство, Методическое руководство для учителей 1 класса (Russian guide, Rabilova Z.Zh., Korolkova N.A.)* — Kazakhstan. Grade: 1 (student/teacher: TEACHER) Publisher: Almatykitap Baspasy; year 2023 (Kazakh guide colophon); ISBN not printed in the extracted front matter PDF pages: 127 (Kazakh, 1196.pdf) / 179 (Russian, 1203.pdf) — title pages verified against the records; the two guides carry the same 35-hour programme (same long-term plan topics in both languages: museum trip, rainbow, fruits, ornament in a strip, brush stand, house, day and night), read in full from the text layer, plans at Kazakh pp. 7-13 / Russian pp. 15-20, parallel edition spot-checked (cover, plan, two lesson plans) Verdict: COMPLETE Kazakhstan's own way: visual art is taught in rotating blocks — perceiving artworks, graphics, painting, sculpture, decorative-applied art, design and architecture — every block returning each term, and Kazakh national ornament and the yurt enter already in Grade 1. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md. **Teacher material — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — "A puppy" — animal figure proportions (teacher-guide evidence) — drawing an animal true to its proportions (teacher-guide evidence) | Book 45, printed p. 11 |
+
+Kazakhstan is added as teacher-material evidence only (see its rows above), kept outside the acceptance count.

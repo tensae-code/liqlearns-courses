@@ -1,6 +1,6 @@
 # Sources — Mural Painting
 
-countries: Maldives, Brazil, Syria
+countries: Maldives, Brazil, Syria, Kazakhstan
 
 **Book 1:** *Exploring Creative Arts 4* (student book, English) — Maldives, National Institute of Education, Ministry of Education, Malé, Maldives; © 2025, first published 2025; ISBN 978-99915-0-956-3 (paperback); development editor Shirumeen Ahmed; printed by M7 Print Pvt. Ltd. Based on the Creative Arts in the National Curriculum syllabus, 2022. 93 PDF pp (printed pp. 1–81 plus acknowledgements and back cover; cover verified — two children painting at easels). Verdict: COMPLETE. Read in full as extracted text in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/maldives-placements.md. The book's glossary (printed pp. 79–81) is inventory only, named here and never stocked as parts.
 
@@ -21,8 +21,16 @@ countries: Maldives, Brazil, Syria
 |---|---|
 | Syria — "Art Around Us: The Art of Painting on Walls" — whole houses and rooms painted as murals; joining your classmates and teacher to design an artwork that can be executed on your school's wall (student book; original target `visual-art/murals-and-poster-art`) | Book 3, printed p. 38 |
 
-**Acceptance count: taught in 3 countries (Maldives, Brazil, Syria). Syria is added as student-book stock (see its rows above), inside the acceptance count.**
+**Acceptance count: taught in 4 countries (Maldives, Brazil, Syria, Kazakhstan). Syria is added as student-book stock (see its rows above), inside the acceptance count.**
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/mural-painting`); the Maldives placement was filed under the original string `visual-art/mural-art`, recorded in the provenance rows above. The making of a relief tile that joins a class mural is stocked in Sculpture and Historic Places, where the same book's Unit 3 making pages were placed.
 
 Searchable tags: murals, mural painting, relief mural, Kanduras, Ahmed Ihsaan, Maldives, Exploring Creative Arts 4, Brazil, Syria
+
+**Book 4:** *Өнер. 8 сынып / Искусство. Учебник для 8 класса* — Kazakhstan. Grade 8 (STUDENT) Publisher: АОО «Назарбаев Интеллектуальные школы», Nur-Sultan; 2019 (per the NIS «Искусство» programme for grades 6–10, version 2, May 2017); ISBN 978-601-328-324-1 / 978-601-328-336-4 (the two ISBNs printed across the two language editions) Authors: Ахметкалиева С.А., Ермилова Е.В., Пак Е.Л. PDF pages: 152 = records MATCH (printed book 152 pp.) Records covered: targets-kz-b idx46 (Kazakh ed., read in full) + idx47 (Russian ed., spot-checked identical — imprint and the batik lesson at the same printed p. 15) Verdict: COMPLETE Kazakhstan's own way: a visual-art-only NIS book in four sections — 2D microsystems, 3D microorganisms, product design and pop-art — and the Kazakhstani thread runs through all of it: Gulnar Umirbek's, Yulia Ismagbetova's and Tansyk Mazhitova's batik, the national game Togyzkumalak analysed as board-game design, and a whole Kazakhstani pop-art survey (Bernd Lutz's media-mix collages, Kuanysh Bazargaliev's «Қошқармүйіз» ram's-horn series, Zulkharnai Kozhamkulov's pop portraits, Saule Suleimenova's paintings on cellophane packets), ending in packaging design for Kazakh products (Ainash Ybyldaeva's «Құртафела» kurt). Named but not placed: section summaries (Қорытындылайық) — Section 1, p. 30; Section 2, p. 64; Section 3, p. 102; Section 4, p. 140 — section summary lessons, per brief; Соңғы сөз (final word), p. 141; Глоссарий, pp. 142–148 — inventory only, per brief. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — 2.3 Суретші ретінде шығармашылық жұмыс істеу (2.3 Working creatively as an artist) — what it teaches: a mural (мураль) is a copy (көшірмесі) of a picture made of plaster, papier-mâché and other materials, often presented as any thing's copy; a relief image (көлемді-бедерлі бейне) — a flat wall's coming-out image; the traditional method used in making art works has long gone out of use; of course at what time classics will also go out of use is expected; artists experiment with varied materials; at the end of the 20th – start of the 21st century artists began to make works from wire, paper, thread and all kinds of things; discuss: 1. by what methods did the works' authors attract the viewer's attention to butterflies?; 2. what value do you think this master has?; 3. what innovative (инновациялық) computer programmes can be used for making such works? (student book; original target `visual-art/mural-wall-painting`) | Book 4, printed p. 36 |
+
+Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count.

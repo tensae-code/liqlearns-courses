@@ -1,6 +1,6 @@
 # Sources — Ebru and Marbling: Painting on Water
 
-countries: Malaysia
+countries: Malaysia, Kazakhstan
 
 **Book 1:** *Pendidikan Kesenian Tahun 4 Sekolah Kebangsaan (Kurikulum Standard Sekolah Rendah, Semakan 2017)* (student book, Malay) — Malaysia, Dewan Bahasa dan Pustaka, Kuala Lumpur; year 2019 (Cetakan Pertama 2019); ISBN 978-983-49-2474-8 (as printed on the copyright spread) Tahun 4 / Grade 4 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 57 scan spreads = 108 printed pages (cover/title page verified against the record title; the PDF's internal metadata title "Buku Teks Muzik Tahun 4" is a scanner artefact — the printed cover and contents are Pendidikan Kesenian) Verdict: COMPLETE. Exclusions named: Glosari Seni Visual (printed p. 104) and Glosari Seni Muzik (printed p. 106) — glossaries, inventory-only, not placed. The two term-end exhibition/performance projects (Projek Kesenian Penggal Satu, printed p. 4; Penggal Dua, printed p. 54) are placed below as appreciation/exhibition teaching, not as assessment. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
 
@@ -8,8 +8,16 @@ countries: Malaysia
 |---|---|
 | Malaysia — Unit 8 Helo, Helo Apa Khabar? — pualaman (marbling): floating oil paint on water with complementary colours, lifting the print, and using the marbled paper to make a rabbit phone stand (student book; original target `visual-art/marbling-pualaman`) | Book 1, printed pp. 72–77 |
 
-**Acceptance count: taught in 1 country (Malaysia).**
+**Acceptance count: taught in 2 countries (Malaysia, Kazakhstan).**
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/ebru-and-marbling-painting-on-water`). The Malaysia placements were filed as NEW LESSON NEEDED under the original string(s) `visual-art/marbling-pualaman`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Malaysia's own way is the lesson itself where the topic is Malaysian: the country's own music, dances, crafts and art forms are kept as named parts. Songs are placed by title and theme only, never transcribed.
 
 Searchable tags: Malaysia, Ebru and Marbling: Painting on Water, Pualaman (marbling)
+
+**Book 2:** *Өнер. 9-сыныпқа арналған оқулық / Искусство. Учебник для 9 класса* — Kazakhstan. Grade 9 (STUDENT) Publisher: АОО «Назарбаев Интеллектуальные школы», Nur-Sultan; 2019; ISBN 978-601-328-627-3 KZ / 978-601-328-611-2 RU Authors: Ахметкалиева С.А., Ермилова Е.В., Горбачева А.А., Тажбенова М.И. Developed per the NIS «Өнер» programme for grades 6–10 (May 2018, version 3). PDF pages: 168 = records MATCH (printed book 168 pp.) Records covered: targets-kz-b idx52 (Kazakh ed., read in full) + idx53 (Russian ed., spot-checked — imprint ISBN 978-601-328-611-2) Verdict: COMPLETE Kazakhstan's own way: cultural identity is taught through Kazakhstan's own artists, crafts masters and athletes; the yurt's interior is a design study of its own; and the city sections are anchored on Nur-Sultan — its master plan, its Foster/Nicoletti buildings, the «Атамекен» map-model and the 2018 Atyrau bridge. Named but not placed: Қорытынды жасаймыз (section conclusions), pp. 38, 84, 124, 160 — section summary lessons, per brief; Қорытынды (final conclusion), p. 161; Глоссарий (glossary), pp. 162–167 — inventory only, per brief. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — 2.9–2.10. Табиғаттың төрт элементі. Шығармашылық жұмысқа арналған идеялар ұсыну (The nature's four elements. Offering ideas for the creative work) — Эбру — what it teaches: can you draw a picture on water's face? For that no magic power is needed, only the Эбру (ebru) method: Эбру is a special method of drawing a picture — in it first a pattern is drawn on water, then it is transferred to another thing (fabric, paper); it, as an art kind, formed in the XVI century in the Ottoman (Turkish) state; in ebru the paints are first sprinkled on specially thickened water's face, then they float like a thin film (қалқып тұрады); without drawing the picture, it must be taken by laying [paper] on it; the drawn picture is taken by putting it in water and... to keep the floating state a sticky mixture is needed; for drawing on water, alongside special paints, acrylic and oil paints are also used (the pictured ebru process 1–4 photos) (student book; original target `visual-art/ebru-painting-on-water`) | Book 2, printed p. 66 |
+
+Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count.

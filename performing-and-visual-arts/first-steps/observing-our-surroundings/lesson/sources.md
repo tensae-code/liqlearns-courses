@@ -1,6 +1,6 @@
 # Sources — Observing Our Surroundings
 
-countries: Ethiopia, Uganda, Barbados, Singapore, Serbia, Finland, Suriname, Belarus, Jordan, Sri Lanka, Angola, Rwanda, Moldova, Indonesia, Greece, China, Vietnam
+countries: Ethiopia, Uganda, Barbados, Singapore, Serbia, Finland, Suriname, Belarus, Jordan, Sri Lanka, Angola, Rwanda, Moldova, Indonesia, Greece, China, Vietnam, Kazakhstan
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -85,7 +85,7 @@ countries: Ethiopia, Uganda, Barbados, Singapore, Serbia, Finland, Suriname, Bel
 |---|---|
 | Indonesia — BAB I Ekspedisi Visual — a visual expedition — going out to observe, record and gather visual material from the world as an artist's research (teacher guide — evidence; original target `visual-art/visual-expedition`) | Book 20, printed p. 32 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Uganda, Serbia, Finland, Belarus, Jordan, Angola, Rwanda, Moldova, Greece, China, Vietnam). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 13 countries (Ethiopia, Uganda, Serbia, Finland, Belarus, Jordan, Angola, Rwanda, Moldova, Greece, China, Vietnam, Kazakhstan). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The definition of surroundings and the sound/movement distinction are the Grade 1 book's own Chapter 1 summary words (printed pp. 14–15), taught as the book states them. The teacher-guide row is evidence for the same watching skill and is labelled as such; the lesson's pupil-taught content rests on the student book.
 
@@ -151,3 +151,11 @@ China is added as student-book stock (see its rows above), inside the acceptance
 | Vietnam — Theme 9 "I am a grade-1 pupil" — observing the scenes and things on one pupil's way from home to school — village house, trees, river, fields and the schoolyard — and naming the ones you love (student book) | Book 26, printed p. 64 |
 
 Vietnam is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 27:** *Көркем еңбек, жалпы білім беретін мектептің 1-сыныбына арналған оқулық (Raupova N.A.)* — Kazakhstan. Grade: 1 (student/teacher: STUDENT) Publisher: Atamura, Almaty; year 2016 (signed to print 23.06.2016); ISBN not printed in the colophon as rendered (IB № 127) PDF pages: 128 (9.pdf) — title and colophon verified against the record; image-only book read visually, contents at printed pp. 125-127 plus lesson pages sampled on contact sheets Verdict: COMPLETE Excluded per brief (named, not placed): the recurring "Presentation, discussion and assessment" and "Basket of knowledge" pages are assessment apparatus; the closing Terms Dictionary (printed p. 122) is inventory only. Kazakhstan's own way: the older (2016) art-labour course is organised by the four school terms and teaches through named artists' works — every unit opens with paintings to look at before the making begins — and Kazakh applied art (qoshqarmuiz ornament, felt, the Nauryz open-air feast) is a whole term theme. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Term 3 "Journey", Lesson 17 "Journey — the road to knowledge" — the beautiful places of the homeland, looked at closely (student book) | Book 27, printed pp. 74-75 |
+
+Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count.

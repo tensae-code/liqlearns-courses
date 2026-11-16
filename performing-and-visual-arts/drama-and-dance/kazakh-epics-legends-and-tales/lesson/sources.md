@@ -1,0 +1,21 @@
+# Sources — Kazakh Epics Legends and Tales
+
+countries: Kazakhstan
+
+**Book 1:** *Трудовое обучение 4 — Орманбекова Г.К., Мамырова А.Т., Сухаева Д.А.* — Kazakhstan. Grade: 4 (student/teacher: STUDENT) Publisher: Мектеп, Almaty; year 2025; no ISBN printed on the pages read PDF pages: 153 = 153 in the record (cover and title pages LOOKED at and matched; record grade-04/gov/kazakhstan/trudovoe-obuchenie/student/1503.pdf) Verdict: COMPLETE (image-only book read page by page on contact sheets; all 34 lessons checked against the book's own contents, printed pp. 150–151) Kazakhstan's own way: a craft-and-construction year built on Kazakhstan's places and heritage — Charyn Canyon reliefs, Lake Kaindy, the yurt interior and sandyk chest, the kamzol, the sazsyrnai flute, Aldarkose and the Silk Road — every lesson ends in a made object. Excluded per brief (named, not placed): safety and workplace rules (printed pp. 6–8, apparatus); the eight section summaries «Подведём итоги» (printed pp. 26, 44, 62, 78, 98, 116, 132, 146 — review/assessment); the glossary (printed pp. 147–148, inventory-only); the bibliography (printed p. 149). Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — §5 «Преданья старины глубокой», Урок 17 — Aldarkose, hero of Kazakh fairy tales, who teaches kindness, honesty and helping the weak; making a sliding puzzle game from his picture in a frame decorated with Kazakh ornament (student book; original target `culture-and-values/kazakh-fairy-tales-and-aldarkose`) | Book 1, printed p. 80 |
+| Kazakhstan — Урок 18 «Священная гора Казыгурт и ласточка» — the legend in brief: after the Flood the released birds vanished, but the swallow returned with a green twig, and Kazakhs honour it still (student book; original target `culture-and-values/kazakh-legends-in-art`) | Book 1, printed p. 84 |
+
+**Book 2:** *Музыка 4 — Құлманова Ш.Б., Сүлейменова Б.Р., Тоқжанов Т.Т.* — Kazakhstan. Grade: 4 (student/teacher: STUDENT) Publisher: Атамұра, Almaty; year 2019; ISBN 978-601-331-501-0 PDF pages: 160 = 160 in the record (cover and title pages LOOKED at and matched; record grade-04/gov/kazakhstan/muzyka/student/90.pdf) Verdict: COMPLETE (image-only book read page by page on contact sheets; all 34 lessons checked against the book's own contents, printed pp. 157–158). Every song is placed as a summary of what it is about and teaches — no lyrics transcribed. Kazakhstan's own way: the Kazakh-medium twin of the Grade 4 music year — same eight-section journey (Homeland, Values, Cultural Heritage, Professions, Nature, Environment, Space, Future) but built from Kazakh works: the kui line from «Ақсақ құлан» and Ykylas's kobyz to Tattimbet and the symphony orchestra, Estai and Zhayau Musa, Gaziza Zhubanova's «Хиросима» ballet, Baikonur and Didier Marouani, Jarre's laser harp and the Reactable. Excluded per brief (named, not placed): the eight «Біліміңді тексер» knowledge checks (printed pp. 18–19, 30–31, 50–51, 66–67, 89–91, 112–113, 126–127, 140–141, assessment); the crossword/crossword-answer pages (printed pp. 142–143, apparatus); the glossary (printed pp. 144–156, inventory-only). Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — §2 «Құндылықтар», 5-сабақ «Отан-Ана» — what a value (құндылық) is — homeland, family, mother tongue, state symbols — through A. Seitimbetov's tale «Әйел-Ана» (Mother Woman), told in summary: a mother's counsel saves her people (student book; original target `culture-and-values/the-mother-homeland-tale`) | Book 2, printed p. 22 |
+| Kazakhstan — §8 «Болашаққа саяхат», 31-сабақ «Ән, жыр әлемі — болашақта» — one heritage in three arts: the «Қыз Жібек» zhyr heard as zhyr, as feature film and as Brusilovsky's opera (whose Jibek is unveiled to Ukili Ybyrai's song «Гәкку»); vocal rock against instrumental rock (student book; original target `culture-and-values/kiz-zhibek-in-zhyr-film-and-opera`) | Book 2, printed p. 130 |
+
+**Acceptance count: taught in 1 country (Kazakhstan).**
+
+Searchable tags: kazakh epics legends and tales, Kazakhstan

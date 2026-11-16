@@ -1,0 +1,14 @@
+# Sources — String Art
+
+countries: Kazakhstan
+
+**Book 1:** *Өнер. 9-сыныпқа арналған оқулық / Искусство. Учебник для 9 класса* — Kazakhstan. Grade 9 (STUDENT) Publisher: АОО «Назарбаев Интеллектуальные школы», Nur-Sultan; 2019; ISBN 978-601-328-627-3 KZ / 978-601-328-611-2 RU Authors: Ахметкалиева С.А., Ермилова Е.В., Горбачева А.А., Тажбенова М.И. Developed per the NIS «Өнер» programme for grades 6–10 (May 2018, version 3). PDF pages: 168 = records MATCH (printed book 168 pp.) Records covered: targets-kz-b idx52 (Kazakh ed., read in full) + idx53 (Russian ed., spot-checked — imprint ISBN 978-601-328-611-2) Verdict: COMPLETE Kazakhstan's own way: cultural identity is taught through Kazakhstan's own artists, crafts masters and athletes; the yurt's interior is a design study of its own; and the city sections are anchored on Nur-Sultan — its master plan, its Foster/Nicoletti buildings, the «Атамекен» map-model and the 2018 Atyrau bridge. Named but not placed: Қорытынды жасаймыз (section conclusions), pp. 38, 84, 124, 160 — section summary lessons, per brief; Қорытынды (final conclusion), p. 161; Глоссарий (glossary), pp. 162–167 — inventory only, per brief. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — 2.9–2.10 (continued). Стринг-арт (String art) — what it teaches: in the same methods table: Стринг-арт (string art) — the art of drawing pictures with thread and nails (шегелер мен жіптерді қолданып картиналар салу өнері); one side of it is that in the work not a pre-drawn picture but... (бұл әдістің ерекшелігі — табиғи материалдың (ағаш, ұсақ тас, құм, қағаз, картон, тері, мата) бетіне қолданбалы өнер мен көркем графикада қолданылатын негізгі... ) — string art is counted a graphic art kind (student book) | Book 1, printed p. 68 |
+| Kazakhstan — 2.11–2.14 (continued). 1-нұсқа. Стринг-арт (String Art) әдісі (Variant 1. The String Art method) — what it teaches: to use the ideas, familiar methods can be used, new methods can also be used; 1-нұсқа — Стринг-арт (String Art) method: define the picture's density and take a thick cardboard, foam plastic, foam board (пеноплекс) as the base; put the sketch on the prepared base's face; mark the nail places 5–7 mm apart; drive the nails into the marked places; take the paper templates off the nails; the paper's leftovers must be cleaned; make a knot tying the thread's end at the top, wind the second end criss-cross (қиғаштап) tying to each nail; so a line is made; and wind the thread round each nail once each time the direction changes; after all the nails are wound with thread, tie the thread's end in a knot and cut it carefully (the pictured string-art geometric schemes and the making photos) (student book) | Book 1, printed p. 73 |
+
+**Acceptance count: taught in 1 country (Kazakhstan).**
+
+Searchable tags: string art, Kazakhstan

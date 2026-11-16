@@ -1,6 +1,6 @@
 # Sources — Signs, Symbols and Pictograms
 
-countries: Serbia, Mozambique, Colombia, Belarus, Venezuela
+countries: Serbia, Mozambique, Colombia, Belarus, Venezuela, Kazakhstan
 
 **Book 1:** *Ликовна култура — за 2. разред основне школе (Likovna kultura / Visual Culture — for Grade 2 of primary school)* (student book, Serbian) — Serbia, by др Рајка Бошковић (Dr Rajka Bošković); Завод за уџбенике (Zavod za udžbenike), Београд, and АрхиКњига (Arhiknjiga), Стара Пазова; first edition 2019 (the Arhiknjiga issue ©2021); ISBN 978-86-17-20168-3; approved for Grade 2 use by ministerial decision 650-02-00159/2019-07 of 21 May 2019, Grade 2, 56 PDF pp. (the printed book has 55 pages). STUDENT — student book. Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read (image-only PDF read visually from page renders). The record's title adds "и окружење" (and environment) — the curriculum area name, which the book's Part One carries as its title. Named, not placed: the three part summaries "НАУЧИЛИ СМО ДА..." (We learned that..., printed pp. 14, 42, 54), the closing contents (printed p. 55) and colophon — inventory only; the think boxes (РАЗМИСЛИ...) are discussion prompts folded into their lessons. Placements at liqlearns-courses-work/expansion-art-2026-11-16/serbia-placements.md.
 
@@ -26,8 +26,17 @@ countries: Serbia, Mozambique, Colombia, Belarus, Venezuela
 | Belarus — Section 15, "The concept of generalised and symbolic depiction": forms as symbols — the circle for movement and dynamism, others for calm; colour's large role in how a work's meaning is perceived; and the ex-libris (U. Karatkevich's bookplates), which must read as one solid spot (student book; original target `visual-art/art-that-speaks-in-symbols`) | Book 5, printed pp. 57–60 |
 | Venezuela — Diseño señalético: signage design — coordinated systems of signs that orient people where a service is given; the sign families (formative, informative) and the types: informative, orientation, normative, prohibition, attention, obligation, prevention, safety and road signs (slug first proposed by Mozambique) (student book) | Book 6, printed pp. 96–100 |
 
-**Acceptance count: taught in 5 countries (Serbia, Mozambique, Colombia, Belarus, Venezuela).**
+**Acceptance count: taught in 6 countries (Serbia, Mozambique, Colombia, Belarus, Venezuela, Kazakhstan).**
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/signs-symbols-and-pictograms`); the Serbia placements were filed under the original string(s) `visual-art/signs-symbols-and-pictograms`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Serbia's own way: signs are taught through Serbia's own three pictured flags — 1804, the King's Guard of 1904, and the Republic's flag — and through the sign of Belgrade's National Museum.
 
 Searchable tags: signs, symbols, pictograms, sign language hand alphabet, Braille, traffic signs, seals, coats of arms, Serbian flags, Serbia, Colombia
+
+**Book 7:** *Көркем еңбек 4 / Художественный труд 4 — Раупова Н.А., Төлебиев Ә.Т., Дашкевич Е.В.* — Kazakhstan. Grade: 4 (student/teacher: STUDENT) Publisher: Атамұра, Almaty; year 2019; ISBN 978-601-331-497-6 (Kazakh edition, printed in the book) PDF pages: 144 = 144 in the record (covers and title pages LOOKED at and matched; Russian edition spot-checked — cover, contents and two spreads identical in content and pagination, so the book is placed once for both editions; records grade-04/…/hudozhestvennyj-trud/student/91.pdf Kazakh and student/113.pdf Russian) Verdict: COMPLETE (image-only book read page by page on contact sheets) Kazakhstan's own way: a full-year visual-art course in eight sections that keeps returning to Kazakhstan itself — its landscapes painted with aerial perspective, its Silk Road mausoleums, the yurt's felt art and ornament families, national dress and silver jewellery — alongside world art (Impressionism, poster art, space art). Excluded per brief (named, not placed): the eight unit review/assessment pages «Таныстыру, талдау және бағалау» (printed pp. 20, 38, 58, 70, 86, 98, 112, 125); the end-of-year summary (printed pp. 126–130); the glossary «Қысқаша сөздік» (printed pp. 131–138, inventory-only); safety rules for art lessons (printed p. 139, apparatus). Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — §6 «Қоршаған ортаны қорғау», lessons 22–23 — nature is our home and it is in danger: reading environmental sign-symbols (fire, car exhaust, factory, litter) as pictures that speak (student book; original target `visual-art/symbols-and-signs-in-art`) | Book 7, printed p. 90 |
+| Kazakhstan — a folding book (буктемелі кітап) of symbol-pictures showing right and wrong attitudes to the environment (student book; original target `visual-art/symbols-and-signs-in-art`) | Book 7, printed p. 91 |
+
+Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count.

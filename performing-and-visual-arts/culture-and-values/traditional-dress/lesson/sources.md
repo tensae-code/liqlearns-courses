@@ -1,6 +1,6 @@
 # Sources — Traditional Dress
 
-countries: Ethiopia, Samoa, Venezuela, Malaysia, North Macedonia, Vietnam
+countries: Ethiopia, Samoa, Venezuela, Malaysia, North Macedonia, Vietnam, Kazakhstan
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 **Book 2:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
@@ -62,3 +62,11 @@ North Macedonia is added as student-book stock (see its rows above), inside the 
 | Vietnam — Bài 2 — Thiết kế trang phục từ vật liệu sẵn có (designing clothing from ready-to-hand materials — dress made from what a place provides) (student book) | Book 10, printed p. 16 |
 
 Vietnam is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 11:** *Бейнелеу өнері, Әдістемелік нұсқау, 1-сынып (Kazakh guide, Akbaeva Sh.A., Suleev U.M., Khabambaev A.E.) / Изобразительное искусство, Методическое руководство для учителей 1 класса (Russian guide, Rabilova Z.Zh., Korolkova N.A.)* — Kazakhstan. Grade: 1 (student/teacher: TEACHER) Publisher: Almatykitap Baspasy; year 2023 (Kazakh guide colophon); ISBN not printed in the extracted front matter PDF pages: 127 (Kazakh, 1196.pdf) / 179 (Russian, 1203.pdf) — title pages verified against the records; the two guides carry the same 35-hour programme (same long-term plan topics in both languages: museum trip, rainbow, fruits, ornament in a strip, brush stand, house, day and night), read in full from the text layer, plans at Kazakh pp. 7-13 / Russian pp. 15-20, parallel edition spot-checked (cover, plan, two lesson plans) Verdict: COMPLETE Kazakhstan's own way: visual art is taught in rotating blocks — perceiving artworks, graphics, painting, sculpture, decorative-applied art, design and architecture — every block returning each term, and Kazakh national ornament and the yurt enter already in Grade 1. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md. **Teacher material — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — "National clothes" + "Flower ornament" (teacher-guide evidence) — the dress of the people drawn and ornamented (teacher-guide evidence) | Book 11, printed p. 11 |
+
+Kazakhstan is added as teacher-material evidence only (see its rows above), kept outside the acceptance count.

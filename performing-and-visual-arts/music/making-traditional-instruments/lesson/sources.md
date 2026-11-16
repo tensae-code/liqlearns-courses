@@ -1,6 +1,6 @@
 # Sources — Making Traditional Instruments
 
-countries: Ethiopia, Honduras, Nicaragua, Fiji, Jordan, Angola, Bolivia, Greece, China, Vietnam
+countries: Ethiopia, Honduras, Nicaragua, Fiji, Jordan, Angola, Bolivia, Greece, China, Vietnam, Kazakhstan
 
 **Book 1:** *Grade 7 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 7ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–170. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g07-student-placements.md.
 
@@ -39,7 +39,7 @@ countries: Ethiopia, Honduras, Nicaragua, Fiji, Jordan, Angola, Bolivia, Greece,
 | Bolivia — Musical glasses — a homemade instrument in the idiophones chapter: take seven glasses of one model, a jar of water (coloured if possible) and a fork; fill the glasses with water, tuning each against a recorder's note until the exact sound is reached (student book) | Book 10, printed p. 14 |
 | Bolivia — Making the claves and the triangle — the rhythmic band's instruments built in class: claves — a cylindrical stick of about 2 cm (a broomstick serves), cut in pieces of 15–20 cm, sanded with medium-grain paper and varnished, the length, thickness and density deciding the sound's quality; and the triangle — 45–60 cm of thin construction iron or aluminium tube, a beater of thinner iron or a big 10–12 cm nail, hung from strong string or nylon (student book) | Book 10, printed pp. 41–42 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Honduras, Jordan, Angola, Bolivia, Greece, China, Vietnam). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 9 countries (Ethiopia, Honduras, Jordan, Angola, Bolivia, Greece, China, Vietnam, Kazakhstan). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Making steps are taught at the level the placements carry them — materials, building order and tuning by ear; no measurements or tool procedures beyond the placements are invented.
 
@@ -75,3 +75,12 @@ China is added as student-book stock (see its rows above), inside the acceptance
 | Vietnam — Theme 3, Apply–Create — making your own rhythm instruments from used materials at hand — shakers from shells, drums from milk tins and cake tins — to accompany the songs learned (student book) | Book 13, printed p. 28 |
 
 Vietnam is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 14:** *Художественный труд. Учебник для учащихся 5 класса общеобразовательной школы (вариант для мальчиков) + CD / Көркем еңбек (ұл балаларға арналған нұсқа)* — Kazakhstan. Grade: 5 (STUDENT) Publisher; year; ISBN: Келешек-2030 (Kokshetau), 2017; ISBN 978-601-317-161-6 (Russian edition) PDF pages: 96 = record (both records) Verdict: COMPLETE Records covered: grade-05 student record (Russian, read in full from books.okulyk.kz source) + Kazakh parallel record (spot-checked identical — title page and §14 timber at the same printed p. 48) Kazakhstan's own way: the visual-art chapters (§1–7) are page-for-page the same as the girls' variant (Book 9); the boys' applied-art and design chapters turn to the Kazakh master's crafts — the terishi leatherworker, the zerger silver jeweller, the usta wood carver — and end by designing Kazakh percussion instruments (dabyl, asatayak, dauylpaz). Named but NOT placed (combined volume — technology/home parts): «Культура питания» §21 — healthy eating and menus, printed pp. 70–75; «Культура дома» §22–24 — sources of electrical energy, electrical fittings, experiments with electricity, home repairs, printed pp. 76–83; §25–26 — plant growing and spring garden work, printed pp. 84–87; Правила техники безопасности, printed p. 88 (safety apparatus); Словарь, printed pp. 89–91 (glossary — inventory only). Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — §20 «Проектирование музыкальных (ударно-шумовых) инструментов» — what it teaches: percussion-noise instruments in two families — membranophones, whose skin or plastic membrane sounds (kettledrums, drums, tambourine, dabyl), and idiophones, whose whole body sounds (gong, triangle, xylophone, bells); drum, maracas, xylophone, tambourine and triangle pictured and explained (student book; original target `music/percussion-and-noise-instruments`) | Book 14, printed p. 66 |
+| Kazakhstan — §20, project — what it teaches: designing a percussion instrument like a master (research, several sketch variants, working project) and making a drum in six steps — a hollow cylinder, two leather circles traced and cut with allowance, holes punched round the edge, laced zigzag over the cylinder and tightened, then tested for sound (student book; original target `music/designing-and-making-a-drum`) | Book 14, printed p. 69 |
+
+Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count.

@@ -1,6 +1,6 @@
 # Sources — Counterpoint, Polyphony and the Fugue
 
-countries: Venezuela, Malaysia, Armenia, North Macedonia
+countries: Venezuela, Malaysia, Armenia, North Macedonia, Kazakhstan
 
 **Book 1:** *Educación Artística 1 — EDUCACIÓN ARTÍSTICA — Artes visuales / Artes escénicas / Artes musicales — 1er AÑO (Colección Bicentenario)* (student book, Spanish) — Venezuela, Ministerio del Poder Popular para la Educación, República Bolivariana de Venezuela; third edition, April 2014; ISBN 978-980-218-315-9 (Depósito Legal lf5162012370748). Series coordination Ángela Beatriz Calzadilla; authors Aura Marina Orta, Marianella Morales Mistron, Trina Borrego, Luis Galíndez, Alexander Lugo Rodríguez and others. Grade 7 (1er año, first year of secondary; student/teacher: STUDENT). PDF pages: 75 (printed pp. 10–143; the fetched PDF is 50,417,591 bytes; cover and title page verified — blue cover with indigenous petroglyph-style figures, “EDUCACIÓN ARTÍSTICA 1er AÑO”). Verdict: COMPLETE — read in full as extracted text (text PDF), cover verified. Named, not placed: the front-matter presidential message (not teaching content); the end-of-chapter suggested activities and question boxes (their skills are folded into the lesson lines they practise); the bibliography (printed pp. 141–143) — inventory only. Venezuela's own way: one single book teaches all three art languages together — visual, scenic (theatre/dance) and musical. Placements at liqlearns-courses-work/expansion-art-2026-11-16/venezuela-placements.md.
 
@@ -21,7 +21,7 @@ countries: Venezuela, Malaysia, Armenia, North Macedonia
 | Armenia — The birth of polyphony (Բազմաձայնության ծնունդը); "Ave Maria" — voices begin to sing together in parts (student book; original target `music/the-birth-of-polyphony`) | Book 3, printed p. 134 |
 
 
-**Acceptance count: taught in 4 countries (Venezuela, Malaysia, Armenia, North Macedonia).** Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 5 countries (Venezuela, Malaysia, Armenia, North Macedonia, Kazakhstan).** Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/counterpoint-and-the-fugue`); the Venezuela placements were filed under the original string(s) `music/counterpoint-and-fugue` and resolved to this lesson by slug-registry Part 2. Songs and stories are placed by summary only, never transcribed.
@@ -36,3 +36,11 @@ Searchable tags: counterpoint, polyphony and the fugue, Venezuela, Armenia
 | North Macedonia — Фуга — the fugue: the polyphonic form built on imitation — the exposition, where the voices chase the theme one after another (fuga — flight); the development through episodes; and the final part with its stretto, entries piling close — Bach its greatest master (student book; original target `music/the-fugue`) | Book 4, printed p. 63 |
 
 North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 5:** *Музыка 4 — Горчакова Е.Б., Плешакова Т.Б.* — Kazakhstan. Grade: 4 (student/teacher: STUDENT) Publisher: Алматыкітап, Almaty; year 2019; no ISBN printed on the pages read PDF pages: 98 = 98 in the record (cover and title pages LOOKED at and matched; record grade-04/gov/kazakhstan/muzyka/student/112.pdf) Second record named in this book: grade-04/gov/kazakhstan/muzyka/student/1252.pdf — the 2023 reprint of the same book (104 PDF pages): cover, contents and spot-checked spreads identical, same printed pagination; the extra pages are a «Музыкальная шпаргалка» revision cheat-sheet at the back (apparatus only, not placed). Verdict: COMPLETE (image-only book read page by page on contact sheets; all 34 lessons checked against the book's own contents, printed pp. 96–97). Every song is placed as a summary of what it is about and teaches — no lyrics transcribed. Kazakhstan's own way: a listening-and-singing year that keeps circling home — the musical map of Kazakhstan, the kui tradition from Kurmangazy to the symphonic kui, zhyrau, akyn, sal and seri, Abai — set inside world music from Verdi and Grieg to space music and computer music. Excluded per brief (named, not placed): the emotional dictionary (printed p. 92, a word list — inventory-only) and the glossary (printed pp. 93–95, inventory-only). Lesson 34's year review is assessment in form; its new song is placed. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — 14. Голоса и подголоски — polyphony: the podgolosok, a voice that seconds the main melody; timbre, each voice's own colour (sharp, soft, chest, head, mixed); caring for the voice; Albinoni's Adagio sung by two boy sopranos (student book; original target `music/voices-together-polyphony-and-timbre`) | Book 5, printed p. 39 |
+
+Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count.

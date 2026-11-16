@@ -1,6 +1,6 @@
 # Sources — Festivals and Their Arts
 
-countries: Ethiopia, Jamaica, Honduras, Albania, Trinidad and Tobago, Turkmenistan, Fiji, Bulgaria, Venezuela, Mongolia, Malaysia, Armenia
+countries: Ethiopia, Jamaica, Honduras, Albania, Trinidad and Tobago, Turkmenistan, Fiji, Bulgaria, Venezuela, Mongolia, Malaysia, Armenia, Kazakhstan
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -100,7 +100,7 @@ countries: Ethiopia, Jamaica, Honduras, Albania, Trinidad and Tobago, Turkmenist
 | Armenia — The Venetian carnival — the mask tradition comes from the Middle Ages; the February carnival ends with Barekendan; Canaletto's Grand Canal (1740), Longhi's "Ridotto" (1750), Tiepolo's "Masked Ball" (1757) (student book; original target `culture-and-values/festivals-and-their-arts`) | Book 24, printed p. 80 |
 
 
-**Acceptance count: taught in 8 countries (Ethiopia, Honduras, Turkmenistan, Bulgaria, Venezuela, Mongolia, Malaysia, Armenia).** Jamaica is added as teacher curriculum guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 9 countries (Ethiopia, Honduras, Turkmenistan, Bulgaria, Venezuela, Mongolia, Malaysia, Armenia, Kazakhstan).** Jamaica is added as teacher curriculum guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Citation fix (PVA coverage audit §4, G3S-64): the Genna game song 'አሲና በል' (Asina Bel) stands on printed p. 54 in the Grade 3 book; this lesson previously folded it under the Arafa-and-Genna citation at printed p. 53. The row above now cites its own page, printed p. 54. The song is placed by name and purpose only — a call-and-response game song of the Genna game — and is never transcribed.
 
@@ -127,3 +127,71 @@ Searchable tags: festivals, Meskel, Demera, Timket, Arafa, Genna, እንቁር, 
 | Bulgaria — Topics 16–19: the winter cycle — author winter songs by composer Христо Недялков, Коледари (carollers), Светът посреща Нова година (how the world meets the New Year), Зимни народни празници (winter folk festivals) (student book) | Book 12, printed pp. 22–28 |
 | Bulgaria — Topics 32–33 and 36: Пролетни народни празници (spring folk festivals), Великден у нас и по света (Easter at home and around the world) and 24 май (student book) | Book 12, printed pp. 50, 52, 58 |
 | Bulgaria — Topic 30: Великден (Easter) and Topic 35: 24 май (student book) | Book 13, printed pp. 39, 45 |
+
+**Book 25:** *Көркем еңбек, жалпы білім беретін мектептің 1-сыныбына арналған оқулық (Raupova N.A.)* — Kazakhstan. Grade: 1 (student/teacher: STUDENT) Publisher: Atamura, Almaty; year 2016 (signed to print 23.06.2016); ISBN not printed in the colophon as rendered (IB № 127) PDF pages: 128 (9.pdf) — title and colophon verified against the record; image-only book read visually, contents at printed pp. 125-127 plus lesson pages sampled on contact sheets Verdict: COMPLETE Excluded per brief (named, not placed): the recurring "Presentation, discussion and assessment" and "Basket of knowledge" pages are assessment apparatus; the closing Terms Dictionary (printed p. 122) is inventory only. Kazakhstan's own way: the older (2016) art-labour course is organised by the four school terms and teaches through named artists' works — every unit opens with paintings to look at before the making begins — and Kazakh applied art (qoshqarmuiz ornament, felt, the Nauryz open-air feast) is a whole term theme. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Term 3 continued, Lessons 22-25 — "Kazakh people's traditions and oral literature"; "National ornaments on crafts"; "A festive open-air [Nauryz] greeting card" (student book) | Book 25, printed pp. 88-95 |
+
+**Book 26:** *Музыка, учебник для 1 класса общеобразовательной школы (Kaydarova A.A. et al., Nazarbayev Intellectual Schools)* — Kazakhstan. Grade: 1 (student/teacher: STUDENT) Publisher: Nazarbayev Intellectual Schools; year not printed in the extracted front matter; ISBN not printed in the extracted front matter PDF pages: 128 (921.pdf) — title page verified against the record; full text read, contents at printed pp. 3-4 Verdict: COMPLETE Excluded per brief (named, not placed): the closing Glossary (printed p. 119) is inventory only. Kazakhstan's own way: the NIS music year is built on the eight cross-cutting themes and Kazakh material is structural, not decorative: Kazakh folk instruments, Kazakh folk dance, Kazakh legends and the Nauryz song each carry a whole lesson. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md. **Teacher material — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Section 6 "Traditions and folklore", Lessons 21-25 — "Songs of my people"; "Kazakh folk legends"; "Kazakh folk instruments"; "Kazakh folk dance"; "A song about Nauryz" (teacher-guide evidence) | Book 26, printed pp. 78-89 |
+
+**Book 27:** *Музыка, учебник для учащихся 1 класса общеобразовательной школы (Russian edition: Sadovskaya I.A., Urazalieva M.A., Pleshakova T.B.) / Музыка, 1-сынып оқушыларына арналған оқулық (Kazakh edition: Orazalieva M.A., Omarova S.K.)* — Kazakhstan. Grade: 1 (student/teacher: STUDENT) Publisher: Almatykitap Baspasy; year 2019 (both title pages) PDF pages: 96 (17.pdf, Russian) / 96 (8.pdf, Kazakh) — title pages verified against the records (the record titles both name Sadovskaya; the Kazakh file's printed authors are Orazalieva/Omarova — a record-title inaccuracy, see group log); the two editions carry the same 33 lessons in the same order (contents compared in full, printed pp. 94-95 of each), read in full from the Russian text with the Kazakh edition spot-checked (cover, contents, two spreads) Verdict: COMPLETE Kazakhstan's own way: the Almatykitap first music book sings the child's own day — acquaintance, mood, voice — and reaches the nation through the State Anthem at the front, folk tales, folk dances and the Nauryz welcome. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Section "Traditions and folklore", Lessons 21-22 "Traditions" — the people's customs met in music (student book) | Book 27, printed pp. 58-60 |
+
+**Book 28:** *Көркем еңбек, жалпы білім беретін мектептің 2-сыныбына арналған оқулық (Kazakh ed.) / Художественный труд, учебник для 2 класса общеобразовательных школ (Russian ed.) (Korolkova E., Sakenova G. et al.)* — Kazakhstan. Grade: 2 (student/teacher: STUDENT) Publisher: Mektep; year not printed in the extracted front matter of either edition PDF pages: 1009.pdf (Kazakh) / 1007.pdf (Russian) — titles verified against the records; the two editions carry the same 34 lessons in the same order (contents compared in full, printed pp. 134-135 of each); read in full from the Russian text (extracted in full) with the Kazakh edition spot-checked (cover, contents, two spreads) Verdict: COMPLETE Kazakhstan's own way: the Mektep Grade 2 art-labour year runs on the same eight themes and makes Kazakh things: a tulip applique of the native land, an ornament-decorated trunk (sandyk), a shanyrak, embroidery and a felt pen case (kese-kap). Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Section 6 "Traditions and folklore", Lessons 21-24 — the shanyrak; the dombra; a Kazakh fairy tale; a musical greeting card (student book) | Book 28, printed pp. 80-93 |
+
+**Book 29:** *Көркем еңбек, жалпы білім беретін мектептің 2-сыныбына арналған оқулық (Kazakh eds.) / Художественный труд, учебник для 2 класса общеобразовательных школ (Russian eds.) (Raupova N.A.)* — Kazakhstan. Grade: 2 (student/teacher: STUDENT) Publisher: Atamura, Almaty; years 2016 and 2022 printings PDF pages: 37.pdf (Kazakh 2016) / 988.pdf (Kazakh 2022) / 47.pdf (Russian 2016) / 978.pdf (Russian 2022) — titles verified against the records; all four files carry the same book (contents compared visually across editions; pagination shifts slightly between the 2016 and 2022 printings); read in full from the Kazakh 2016 edition with the other three spot-checked (cover, contents, two spreads each) Verdict: COMPLETE Excluded per brief (named, not placed): the recurring "Presentation, discussion and assessment" pages are assessment apparatus. Kazakhstan's own way: Raupova's Grade 2 year keeps the four-term shape and deepens the Kazakh thread: ornament in a strip and in a circle, the tekemet, national costume and the aitys (improvised song-duel) appear as art subjects. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Term 3 festival lessons — Nauryz and the people's feasts in art (student book) | Book 29, printed  |
+
+**Book 30:** *Бәдиий әмгәк 2 (Artistic Labour 2), Ermilova E.V. et al.* — Kazakhstan. Grade: 2 (student/teacher: STUDENT) Publisher: Mektep, Almaty; year 2022 PDF pages: 168 (1394.pdf) — cover and colophon verified: this file is the UYGHUR-medium edition of the Ermilova Grade 2 book, although the record names it as the Russian "Художественный труд Ермилова". Language mismatch is a library debt (see group log). Contents read in full visually (printed pp. 4-5) plus lesson spreads sampled; the Uyghur edition carries the same lesson set as the Korolkova/Ermilova Grade 2 eight-theme programme. Verdict: COMPLETE Kazakhstan's own way: the same eight-theme art-labour year delivered in Uyghur, with the Kazakh content intact — ornament, the sandyk trunk, the shanyrak, weaving and felt — showing the course serves every language track of the country. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Section 6 "Traditions and folklore" lessons (Uyghur ed.) — traditions, the dombra, a Kazakh tale, a musical card (student book) | Book 30, printed  |
+
+**Book 31:** *Музыка, учебник для 2 класса общеобразовательных школ (Valiullina R.N. et al.)* — Kazakhstan. Grade: 2 (student/teacher: STUDENT) Publisher: Atamura; year 2022 PDF pages: 969.pdf — title verified against the record; image-only book read visually, contents at printed pp. 141-142 Verdict: COMPLETE Kazakhstan's own way: a Russian-medium Grade 2 music year that still teaches the Kazakh sound-world: the orteke puppet dance, the kobyz, the kui contest idea and Nauryz stand inside the general musicianship (waltz, canon, rondo). Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Lesson 25 "Nauryz" — the spring feast in music (student book) | Book 31, printed  |
+
+**Book 32:** *Музыка, жалпы білім беретін мектептің 2-сыныбына арналған оқулық (Kulmanova Sh.B. et al.)* — Kazakhstan. Grade: 2 (student/teacher: STUDENT) Publisher: Atamura; years 2022 (985.pdf) and 2017 (60.pdf-recorded file 38.pdf) PDF pages: 144 each (985.pdf, 2022 ed. / 38.pdf, 2017 ed.) — titles verified against the records; both files are the Kazakh-medium Kulmanova book in two editions (contents compared, printed pp. 142-143); read in full from the 2022 edition with the 2017 edition spot-checked Verdict: COMPLETE Kazakhstan's own way: Kulmanova's Grade 2 year is the most Kazakh of the set: a kui contest, the sybyzgy flute's legend, the orteke, and Korkyt — the father of kui — stand at the centre of the listening programme. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Lesson 26 "Nauryz" — the new year feast sung (student book) | Book 32, printed  |
+
+**Book 33:** *Музыка, учебник для 2 класса общеобразовательных школ (Gorchakova E.V. et al.)* — Kazakhstan. Grade: 2 (student/teacher: STUDENT) Publisher: Almatykitap Baspasy; year not printed in the extracted front matter PDF pages: 96 (48.pdf) — title verified against the record; full text read, contents extracted in full Verdict: COMPLETE Kazakhstan's own way: Gorchakova's 34 lessons run the general musicianship course (march, dance, song; opera and ballet visits) and give a whole lesson to Kazakh puppet-musical art. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Lessons 25-27 — festivals and Nauryz (student book) | Book 33, printed  |
+
+**Book 34:** *Музыка, 2-сынып оқушыларына арналған оқулық (Orazalieva M.A. et al.)* — Kazakhstan. Grade: 2 (student/teacher: STUDENT) Publisher: Almatykitap Baspasy; year not printed in the extracted front matter PDF pages: 112 (1012.pdf) — title verified against the record; full text read, contents at printed pp. 110-111 (34 lessons in eight sections) Verdict: COMPLETE Kazakhstan's own way: Orazalieva's Kazakh-medium Grade 2 year names its heroes: "Korkyt — the father of kui" opens the traditions section, the orteke dances mid-year, the Zhaparapazan Ramadan song is sung, and a choir lesson teaches singing together. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — the traditions section's festival lessons — Nauryz and the year's feasts (student book) | Book 34, printed pp. 110-111 |
+
+**Book 35:** *Музыка, учебник для 2 класса общеобразовательной школы (NIS)* — Kazakhstan. Grade: 2 (student/teacher: STUDENT) Publisher: Nazarbayev Intellectual Schools; year not printed in the extracted front matter PDF pages: 1029.pdf — title verified against the record; full text read, contents at printed pp. 3-4 Verdict: COMPLETE Kazakhstan's own way: the NIS Grade 2 year deepens the eight-theme course: registers, forms and the orchestra, with Kazakh instruments, dance and Nauryz in their theme places. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md. **Teacher material — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Section 6 lessons — traditions and folklore: folk instruments, folk dance, the Nauryz song (teacher-guide evidence) | Book 35, printed pp. 3-4 |
+
+Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count; its teacher-material rows are evidence only, kept outside the acceptance count.

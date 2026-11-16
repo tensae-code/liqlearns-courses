@@ -1,6 +1,6 @@
 # Sources — Wire Modelling and Wire Sculpture
 
-countries: Sri Lanka, Afghanistan, Moldova, Greece
+countries: Sri Lanka, Afghanistan, Moldova, Greece, Kazakhstan
 
 **Book 1:** *Grade 11 Art and Craft pupil textbook, Tamil medium, of the "Ilavasap Paada Nool" (free textbook) series* (student textbook) — Sri Lanka, Educational Publications Department, Sri Lanka, 2016; no ISBN visible on the pages scanned. Grade: 11 (student/teacher: STUDENT). PDF pages: 221 (printed pages run 1–221). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md.
 
@@ -18,7 +18,7 @@ countries: Sri Lanka, Afghanistan, Moldova, Greece
 |---|---|
 | Moldova — G4 Ch. 1, Articole din sîrmă — modelling with copper or aluminium wire: bending and twisting it into artworks, a bird built step by step (beak, tail, legs) in pictured stages (student book; original target `visual-art/modelling-with-wire`) | Book 3, printed p. 58 |
 
-**Acceptance count: taught in 4 countries (Sri Lanka, Afghanistan, Moldova, Greece).** Moldova is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 5 countries (Sri Lanka, Afghanistan, Moldova, Greece, Kazakhstan).** Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/wire-modelling-and-wire-sculpture`); the Sri Lanka placements were filed under the original string(s) `visual-art/wire-armature-sculpture` and resolved to this lesson by slug-registry Part 2. Songs and stories are placed by summary only, never transcribed.
 
@@ -46,3 +46,12 @@ Afghanistan is added as student-book stock (see its rows above), inside the acce
 | Greece — Part A 4: Σύρμα (wire — many kinds of line, wire outlines, wire volumes: sculpture in wire) (student book; original target `visual-art/wire-sculpture`) | Book 5, printed pp. 26–29 |
 
 Greece is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 6:** *Художественный труд. Учебник для учащихся 5 класса общеобразовательной школы (вариант для мальчиков) + CD / Көркем еңбек (ұл балаларға арналған нұсқа)* — Kazakhstan. Grade: 5 (STUDENT) Publisher; year; ISBN: Келешек-2030 (Kokshetau), 2017; ISBN 978-601-317-161-6 (Russian edition) PDF pages: 96 = record (both records) Verdict: COMPLETE Records covered: grade-05 student record (Russian, read in full from books.okulyk.kz source) + Kazakh parallel record (spot-checked identical — title page and §14 timber at the same printed p. 48) Kazakhstan's own way: the visual-art chapters (§1–7) are page-for-page the same as the girls' variant (Book 9); the boys' applied-art and design chapters turn to the Kazakh master's crafts — the terishi leatherworker, the zerger silver jeweller, the usta wood carver — and end by designing Kazakh percussion instruments (dabyl, asatayak, dauylpaz). Named but NOT placed (combined volume — technology/home parts): «Культура питания» §21 — healthy eating and menus, printed pp. 70–75; «Культура дома» §22–24 — sources of electrical energy, electrical fittings, experiments with electricity, home repairs, printed pp. 76–83; §25–26 — plant growing and spring garden work, printed pp. 84–87; Правила техники безопасности, printed p. 88 (safety apparatus); Словарь, printed pp. 89–91 (glossary — inventory only). Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — §19 «Моделирование изделий из проволоки» — what it teaches: wire as a modelling material — how wire is rolled and drawn through dies, steel, aluminium and copper wire of 1.5–2 mm for crafts; the tools (round-nose and flat pliers, cutters, files); sketching the piece at natural size and measuring wire length with a cord (student book; original target `visual-art/wire-modelling`) | Book 6, printed p. 62 |
+| Kazakhstan — §19, practical — what it teaches: a decorative wire chain in ten steps (cut 22 copper blanks, loop each end with round-nose pliers, link them) and an elephant wire puzzle in eight steps (template on a board, nails at the bends, a removable «П» piece); wire art is some 5,000 years old (student book; original target `visual-art/making-a-wire-chain-and-puzzle`) | Book 6, printed p. 64 |
+
+Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count.

@@ -1,6 +1,6 @@
 # Sources — Stories and Folktales
 
-countries: Ethiopia, Guatemala, Samoa, Trinidad and Tobago, Finland, Fiji, Suriname, Brazil, Morocco, Libya, Venezuela, Mongolia, Indonesia, China, Vietnam
+countries: Ethiopia, Guatemala, Samoa, Trinidad and Tobago, Finland, Fiji, Suriname, Brazil, Morocco, Libya, Venezuela, Mongolia, Indonesia, China, Vietnam, Kazakhstan
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -86,7 +86,7 @@ countries: Ethiopia, Guatemala, Samoa, Trinidad and Tobago, Finland, Fiji, Surin
 |---|---|
 | Indonesia — Bab I — storytelling (mendongeng) — narrative structure, vocabulary and emotional expression in telling (teacher guide — evidence; original target `drama-and-dance/stories-and-folktales`) | Book 18, printed p. 20 |
 
-**Acceptance count: taught in 8 countries(Ethiopia, Finland, Fiji, Brazil, Venezuela, Mongolia, China, Vietnam). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 9 countries (Ethiopia, Finland, Fiji, Brazil, Venezuela, Mongolia, China, Vietnam, Kazakhstan). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 All three stories are taught as PLOT SUMMARY ONLY, exactly as the placements give them — no sentence of the books' text is reproduced. The Grade 1 and Grade 2 teacher guides' tales-and-riddles placements (g01-teacher p. 47 §3.3; g02-teacher pp. 46–48 §3.3) name tales and riddles as theatre's roots; that framing is carried in this lesson's plan level line and in the Riddles lesson, labelled there as teacher-guide evidence, and does not change this lesson's pupil-book count.
 
@@ -122,3 +122,24 @@ China is added as student-book stock (see its rows above), inside the acceptance
 | Vietnam — Theme 5 discussion — introducing your artwork to friends and family — write a short paragraph about it, or play the part of a museum guide presenting it (student book; original target `drama-and-dance/storytelling-through-pictures`) | Book 21, printed p. 37 |
 
 Vietnam is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 22:** *Музыка, жалпы білім беретін мектептің 1-сыныбына арналған оқулық (Kulmanova Sh.B., Suleimenova B.R., Tokzhanov T.)* — Kazakhstan. Grade: 1 (student/teacher: STUDENT) Publisher: Atamura, Almaty; year not printed on the title page as rendered; ISBN not printed on the title page as rendered PDF pages: 144 (931.pdf) — title page verified against the record; image-only book read visually, contents at printed pp. 142-143 Verdict: COMPLETE Excluded per brief (named, not placed): the closing Glossary (printed p. 140) and the riddle answers (printed p. 141) are inventory/apparatus only. Kazakhstan's own way: a 33-lesson Kazakh-medium music year on the same eight themes, but sung from inside Kazakh life: kui for the four seasons, folk games in music, legends and tales in music, and the zhailau journey. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Section 3 "My family and friends", Lessons 9-12 — "A family tale"; "My friends"; "My little friends"; "A merry event" — tales and friendship sung (student book) | Book 22, printed pp. 42-54 |
+| Kazakhstan — Lesson 24 "Legends and tales in music" — the aŋyz-ertegiler (legend-tales) heard in music (student book) | Book 22, printed p. 99 |
+
+**Book 23:** *Музыка, учебник для учащихся 1 класса общеобразовательной школы (Russian edition: Sadovskaya I.A., Urazalieva M.A., Pleshakova T.B.) / Музыка, 1-сынып оқушыларына арналған оқулық (Kazakh edition: Orazalieva M.A., Omarova S.K.)* — Kazakhstan. Grade: 1 (student/teacher: STUDENT) Publisher: Almatykitap Baspasy; year 2019 (both title pages) PDF pages: 96 (17.pdf, Russian) / 96 (8.pdf, Kazakh) — title pages verified against the records (the record titles both name Sadovskaya; the Kazakh file's printed authors are Orazalieva/Omarova — a record-title inaccuracy, see group log); the two editions carry the same 33 lessons in the same order (contents compared in full, printed pp. 94-95 of each), read in full from the Russian text with the Kazakh edition spot-checked (cover, contents, two spreads) Verdict: COMPLETE Kazakhstan's own way: the Almatykitap first music book sings the child's own day — acquaintance, mood, voice — and reaches the nation through the State Anthem at the front, folk tales, folk dances and the Nauryz welcome. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Lesson 23 "Folk tales" — tales told and sung (student book) | Book 23, printed p. 62 |
+
+**Book 24:** *Көркем еңбек, жалпы білім беретін мектептің 2-сыныбына арналған оқулық (Kazakh ed.) / Художественный труд, учебник для 2 класса общеобразовательных школ (Russian ed.) (Korolkova E., Sakenova G. et al.)* — Kazakhstan. Grade: 2 (student/teacher: STUDENT) Publisher: Mektep; year not printed in the extracted front matter of either edition PDF pages: 1009.pdf (Kazakh) / 1007.pdf (Russian) — titles verified against the records; the two editions carry the same 34 lessons in the same order (contents compared in full, printed pp. 134-135 of each); read in full from the Russian text (extracted in full) with the Kazakh edition spot-checked (cover, contents, two spreads) Verdict: COMPLETE Kazakhstan's own way: the Mektep Grade 2 art-labour year runs on the same eight themes and makes Kazakh things: a tulip applique of the native land, an ornament-decorated trunk (sandyk), a shanyrak, embroidery and a felt pen case (kese-kap). Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Lessons 11-12 "A fairy-tale town" and "The magic world of fairy tales" — the tale built and pictured (student book) | Book 24, printed pp. 42-47 |
+
+Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count.

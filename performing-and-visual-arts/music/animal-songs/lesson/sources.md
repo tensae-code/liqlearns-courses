@@ -1,6 +1,6 @@
 # Sources — Animal Songs
 
-countries: Ethiopia, Turkmenistan, Belarus, Jordan, Libya, Angola, Mongolia, Armenia, North Macedonia, China, Vietnam
+countries: Ethiopia, Turkmenistan, Belarus, Jordan, Libya, Angola, Mongolia, Armenia, North Macedonia, China, Vietnam, Kazakhstan
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -38,7 +38,7 @@ countries: Ethiopia, Turkmenistan, Belarus, Jordan, Libya, Angola, Mongolia, Arm
 | Armenia — Insects: Safaryan's "Meghun" (The bee) and Astvatsatryan's "Titern u meghun" (The butterfly and the bee) — small flying creatures in song and story (student book; original target `music/animal-songs`) | Book 8, printed p. 57 |
 
 
-**Acceptance count: taught in 10 countries (Ethiopia, Turkmenistan, Belarus, Jordan, Angola, Mongolia, Armenia, North Macedonia, China, Vietnam).** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 11 countries (Ethiopia, Turkmenistan, Belarus, Jordan, Angola, Mongolia, Armenia, North Macedonia, China, Vietnam, Kazakhstan).** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 The placements name these songs, their givers and their sound-moments only; no lyrics are transcribed anywhere in this lesson, and none are claimed. The Grade 1 lamb placement asks for a GIF of a lamb bleating, mouth moving; that motion was judged a failed-motion risk (a drawn mouth cannot bleat truly) and was NOT filed — the bleating moment is carried by the described AUDIO slot instead, and the board picture covers the visual slot.
 
@@ -137,3 +137,17 @@ China is added as student-book stock (see its rows above), inside the acceptance
 | Vietnam — Theme 7 — the song "Đất nước tươi đẹp sao" (How Beautiful the Country; a Malaysian melody, Vietnamese words by Vũ Trọng Tường) — how beautiful the country, like a poem: the blue sea glimpsed with so many sails, green coconut palms cradling the rows of houses, and the lullaby murmuring on the childhood cradle (student book) | Book 18, printed p. 59 |
 
 Vietnam is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 19:** *Музыка, учебник для учащихся 1 класса общеобразовательной школы (Russian edition: Sadovskaya I.A., Urazalieva M.A., Pleshakova T.B.) / Музыка, 1-сынып оқушыларына арналған оқулық (Kazakh edition: Orazalieva M.A., Omarova S.K.)* — Kazakhstan. Grade: 1 (student/teacher: STUDENT) Publisher: Almatykitap Baspasy; year 2019 (both title pages) PDF pages: 96 (17.pdf, Russian) / 96 (8.pdf, Kazakh) — title pages verified against the records (the record titles both name Sadovskaya; the Kazakh file's printed authors are Orazalieva/Omarova — a record-title inaccuracy, see group log); the two editions carry the same 33 lessons in the same order (contents compared in full, printed pp. 94-95 of each), read in full from the Russian text with the Kazakh edition spot-checked (cover, contents, two spreads) Verdict: COMPLETE Kazakhstan's own way: the Almatykitap first music book sings the child's own day — acquaintance, mood, voice — and reaches the nation through the State Anthem at the front, folk tales, folk dances and the Nauryz welcome. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Lessons 11-12 "Merry friends" and "Animals are my friends" (student book) | Book 19, printed pp. 32-34 |
+
+**Book 20:** *Музыка 4 — Горчакова Е.Б., Плешакова Т.Б.* — Kazakhstan. Grade: 4 (student/teacher: STUDENT) Publisher: Алматыкітап, Almaty; year 2019; no ISBN printed on the pages read PDF pages: 98 = 98 in the record (cover and title pages LOOKED at and matched; record grade-04/gov/kazakhstan/muzyka/student/112.pdf) Second record named in this book: grade-04/gov/kazakhstan/muzyka/student/1252.pdf — the 2023 reprint of the same book (104 PDF pages): cover, contents and spot-checked spreads identical, same printed pagination; the extra pages are a «Музыкальная шпаргалка» revision cheat-sheet at the back (apparatus only, not placed). Verdict: COMPLETE (image-only book read page by page on contact sheets; all 34 lessons checked against the book's own contents, printed pp. 96–97). Every song is placed as a summary of what it is about and teaches — no lyrics transcribed. Kazakhstan's own way: a listening-and-singing year that keeps circling home — the musical map of Kazakhstan, the kui tradition from Kurmangazy to the symphonic kui, zhyrau, akyn, sal and seri, Abai — set inside world music from Verdi and Grieg to space music and computer music. Excluded per brief (named, not placed): the emotional dictionary (printed p. 92, a word list — inventory-only) and the glossary (printed pp. 93–95, inventory-only). Lesson 34's year review is assessment in form; its new song is placed. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — 23 — the English folk song of the three little kittens who lost their mittens, read from notation and sung in English and in Russian translation (student book) | Book 20, printed p. 64 |
+
+Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count.

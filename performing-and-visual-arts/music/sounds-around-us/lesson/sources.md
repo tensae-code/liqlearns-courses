@@ -1,6 +1,6 @@
 # Sources — Sounds Around Us
 
-countries: Ethiopia, Andorra, Samoa, Nicaragua, Singapore, Malta, Turkmenistan, Fiji, Colombia, Papua New Guinea, Brazil, Bulgaria, Jordan, Cuba, Angola, Mongolia, Bolivia, Malaysia, Indonesia, Armenia, Greece, China, Vietnam
+countries: Ethiopia, Andorra, Samoa, Nicaragua, Singapore, Malta, Turkmenistan, Fiji, Colombia, Papua New Guinea, Brazil, Bulgaria, Jordan, Cuba, Angola, Mongolia, Bolivia, Malaysia, Indonesia, Armenia, Greece, China, Vietnam, Kazakhstan
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -153,7 +153,7 @@ countries: Ethiopia, Andorra, Samoa, Nicaragua, Singapore, Malta, Turkmenistan, 
 | Armenia — listening to music (երաժշտության ունկնդրում): perceiving a work whole through its expressive means, and listening as an activity developed across all school years (teacher guide — evidence; original target `music/sounds-around-us`) | Book 38, printed pp. 28–33 (teacher-guide evidence) |
 
 
-**Acceptance count: taught in 14 countries (Ethiopia, Turkmenistan, Colombia, Brazil, Bulgaria, Jordan, Cuba, Angola, Mongolia, Bolivia, Malaysia, Greece, China, Vietnam). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 15 countries (Ethiopia, Turkmenistan, Colombia, Brazil, Bulgaria, Jordan, Cuba, Angola, Mongolia, Bolivia, Malaysia, Greece, China, Vietnam, Kazakhstan). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 No staff notation is claimed for Grade 1: the Grade 1 book teaches music by ear, and this lesson follows it. The teacher-guide part is evidence for the listening-first way of working; the pupil-taught parts stand on the two student textbooks.
 
@@ -255,3 +255,36 @@ China is added as student-book stock (see its rows above), inside the acceptance
 | Vietnam — Theme 1 appreciation story — teacher Khoá Son takes Đô, Rê and Mi into the wondrous forest to listen and copy its sounds — birdsong, horses, the murmuring stream — and to hear a boy's bamboo flute under a tree; the forest's sounds together make an alluring piece of music (student book) | Book 47, printed p. 8 |
 
 Vietnam is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 48:** *Музыка, учебник для 1 класса общеобразовательной школы (Kaydarova A.A. et al., Nazarbayev Intellectual Schools)* — Kazakhstan. Grade: 1 (student/teacher: STUDENT) Publisher: Nazarbayev Intellectual Schools; year not printed in the extracted front matter; ISBN not printed in the extracted front matter PDF pages: 128 (921.pdf) — title page verified against the record; full text read, contents at printed pp. 3-4 Verdict: COMPLETE Excluded per brief (named, not placed): the closing Glossary (printed p. 119) is inventory only. Kazakhstan's own way: the NIS music year is built on the eight cross-cutting themes and Kazakh material is structural, not decorative: Kazakh folk instruments, Kazakh folk dance, Kazakh legends and the Nauryz song each carry a whole lesson. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md. **Teacher material — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Section 1 "All about me", Lesson 1 "I am in the world of sounds" — noise sounds and musical sounds told apart (teacher-guide evidence) | Book 48, printed p. 8 |
+| Kazakhstan — Section 2 "My school", Lessons 5-6 "Sounds of the school" and "The ABC of music" — the school's sounds and music's first letters (teacher-guide evidence) | Book 48, printed pp. 22-25 |
+
+**Book 49:** *Музыка, учебник для учащихся 1 класса общеобразовательной школы (Russian edition: Sadovskaya I.A., Urazalieva M.A., Pleshakova T.B.) / Музыка, 1-сынып оқушыларына арналған оқулық (Kazakh edition: Orazalieva M.A., Omarova S.K.)* — Kazakhstan. Grade: 1 (student/teacher: STUDENT) Publisher: Almatykitap Baspasy; year 2019 (both title pages) PDF pages: 96 (17.pdf, Russian) / 96 (8.pdf, Kazakh) — title pages verified against the records (the record titles both name Sadovskaya; the Kazakh file's printed authors are Orazalieva/Omarova — a record-title inaccuracy, see group log); the two editions carry the same 33 lessons in the same order (contents compared in full, printed pp. 94-95 of each), read in full from the Russian text with the Kazakh edition spot-checked (cover, contents, two spreads) Verdict: COMPLETE Kazakhstan's own way: the Almatykitap first music book sings the child's own day — acquaintance, mood, voice — and reaches the nation through the State Anthem at the front, folk tales, folk dances and the Nauryz welcome. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Section "All about me", Lessons 1-5 — "Acquaintance"; "My name is..."; "My voice"; "My mood"; "My favourite songs" (student book) | Book 49, printed pp. 8-16 |
+
+**Book 50:** *Музыка, учебник для 2 класса общеобразовательных школ (Valiullina R.N. et al.)* — Kazakhstan. Grade: 2 (student/teacher: STUDENT) Publisher: Atamura; year 2022 PDF pages: 969.pdf — title verified against the record; image-only book read visually, contents at printed pp. 141-142 Verdict: COMPLETE Kazakhstan's own way: a Russian-medium Grade 2 music year that still teaches the Kazakh sound-world: the orteke puppet dance, the kobyz, the kui contest idea and Nauryz stand inside the general musicianship (waltz, canon, rondo). Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Lessons 1-4 — sounds, voice and the first songs of the year (student book) | Book 50, printed  |
+
+**Book 51:** *Музыка, учебник для 2 класса общеобразовательных школ (Gorchakova E.V. et al.)* — Kazakhstan. Grade: 2 (student/teacher: STUDENT) Publisher: Almatykitap Baspasy; year not printed in the extracted front matter PDF pages: 96 (48.pdf) — title verified against the record; full text read, contents extracted in full Verdict: COMPLETE Kazakhstan's own way: Gorchakova's 34 lessons run the general musicianship course (march, dance, song; opera and ballet visits) and give a whole lesson to Kazakh puppet-musical art. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Lessons 1-4 — the world of musical sounds revisited (student book) | Book 51, printed  |
+
+**Book 52:** *Музыка, учебник для 2 класса общеобразовательной школы (NIS)* — Kazakhstan. Grade: 2 (student/teacher: STUDENT) Publisher: Nazarbayev Intellectual Schools; year not printed in the extracted front matter PDF pages: 1029.pdf — title verified against the record; full text read, contents at printed pp. 3-4 Verdict: COMPLETE Kazakhstan's own way: the NIS Grade 2 year deepens the eight-theme course: registers, forms and the orchestra, with Kazakh instruments, dance and Nauryz in their theme places. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md. **Teacher material — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Section 1 lessons — musical sounds and their properties, one year on (teacher-guide evidence) | Book 52, printed pp. 3-4 |
+
+Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count; its teacher-material rows are evidence only, kept outside the acceptance count.

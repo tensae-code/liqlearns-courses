@@ -1,6 +1,6 @@
 # Sources — Art from Natural Materials
 
-countries: Mongolia, Moldova, Laos
+countries: Mongolia, Moldova, Laos, Kazakhstan
 
 **Book 1:** *ДҮРСЛЭХ УРЛАГ, ТЕХНОЛОГИ I — Ерөнхий боловсролын сургуулийн 1 дүгээр ангийн сурах бичиг (Visual Art & Technology 1, textbook for grade 1 of the general education school)* (student book, Mongolian) — Mongolia, Боловсрол, Соёл, Шинжлэх Ухаан, Спортын Яам (Ministry of Education, Culture, Science and Sports), Ulaanbaatar; cover edition 2020 (bibliographic record: UB 2014, 76 pages); authors' team led by Д.Цэдэн-Иш (D. Tseden-Ish), editor С.Нямсүрэн; ISBN 978-99973-69-53-6. Grade 1 (student book: STUDENT). Read as the ministry flipbook's 78 page images = cover + printed pp. 1–76 + back cover; every printed page read. Verdict: COMPLETE. Combined Visual Art & Technology volume: Part II (printed pp. 44–74) is the design-and-making strand — paper, leaf and clay construction, including simple models — placed as art-making; no electronics, machines or other non-art technology content exists in the volume. Exclusions named, not placed: Foreword (printed p. 5); the two poems and the song are placed by name and theme only — no verse text transcribed; Bibliography (printed p. 75 — inventory only). No PDF exists in the repo for this book — the library record is a PHANTOM PUSH (the repo holds no copy, in the tree or in any release); the book was read from the record's own recorded source, the Ministry's econtent.edu.mn flipbook edition, page-image by page-image — the same ministry book, verified by cover, imprint and ISBN against the record. The phantom-push debt stands for the library. Placements at liqlearns-courses-work/expansion-art-2026-11-16/mongolia-placements.md.
 
@@ -34,7 +34,7 @@ countries: Mongolia, Moldova, Laos
 | Moldova — Unit II §7, Tehnici mixte și mijloace inovative — art from non-artistic materials: ephemeral compositions of snow, ice, leaves, sand and flowers that melt or blow away; and art from recyclables — a tea-time set from used tea bags, a composition of recovered pans (student book; original target `visual-art/making-with-natural-and-found-materials`) | Book 5, printed pp. 24–25 |
 | Moldova — Unit II §7 — Picasso's "Bull's Head" (1942): a bicycle saddle and handlebars found among waste, seen with an artist's eye, become a sculpture (student book; original target `visual-art/making-with-natural-and-found-materials`) | Book 5, printed p. 25 |
 
-**Acceptance count: taught in 2 countries (Mongolia, Moldova).** Moldova is added as student-book stock (see its rows above), inside the acceptance count. Laos is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 3 countries (Mongolia, Moldova, Kazakhstan).** Moldova is added as student-book stock (see its rows above), inside the acceptance count. Laos is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/art-from-natural-materials`); the Mongolia placements were filed as NEW LESSON NEEDED under the original strings recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Songs are placed by name and theme only, never transcribed.
 
@@ -108,3 +108,18 @@ Searchable tags: Art from Natural Materials, Mongolia
 |---|---|
 | Laos — Arts Lesson 10, creating art with leaves — making art from real leaves (teacher guide — evidence) | Book 16, printed p. 38 |
 | Laos — Arts Lesson 31, creating art with plant seeds — making pictures with the seeds of plants (teacher guide — evidence) | Book 16, printed p. 101 |
+
+**Book 17:** *Трудовое обучение 4 — Орманбекова Г.К., Мамырова А.Т., Сухаева Д.А.* — Kazakhstan. Grade: 4 (student/teacher: STUDENT) Publisher: Мектеп, Almaty; year 2025; no ISBN printed on the pages read PDF pages: 153 = 153 in the record (cover and title pages LOOKED at and matched; record grade-04/gov/kazakhstan/trudovoe-obuchenie/student/1503.pdf) Verdict: COMPLETE (image-only book read page by page on contact sheets; all 34 lessons checked against the book's own contents, printed pp. 150–151) Kazakhstan's own way: a craft-and-construction year built on Kazakhstan's places and heritage — Charyn Canyon reliefs, Lake Kaindy, the yurt interior and sandyk chest, the kamzol, the sazsyrnai flute, Aldarkose and the Silk Road — every lesson ends in a made object. Excluded per brief (named, not placed): safety and workplace rules (printed pp. 6–8, apparatus); the eight section summaries «Подведём итоги» (printed pp. 26, 44, 62, 78, 98, 116, 132, 146 — review/assessment); the glossary (printed pp. 147–148, inventory-only); the bibliography (printed p. 149). Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Урок 1, practical — an ecological bookmark: dried flowers and leaves sealed between two cardboard frames with tape, finished with a ribbon (student book; original target `visual-art/making-with-natural-materials`) | Book 17, printed p. 13 |
+| Kazakhstan — Урок 4, practical — "Lake": a creative work about Kazakhstan's lakes (Kaindy, Balkhash, Alakol) as plasticine sculpture or as appliqué from natural materials (student book; original target `visual-art/making-with-natural-materials`) | Book 17, printed p. 23 |
+
+**Book 18:** *Трудовое обучение 4 — Мураткызы Г., Бухабай М., Кисимисов Е.Т., Дерябина Е.П.* — Kazakhstan. Grade: 4 (student/teacher: STUDENT) Publisher: Атамұра, Almaty; year 2025; ISBN 978-601-10-0596-8 PDF pages: 136 = 136 in the record (cover and title pages LOOKED at and matched; record grade-04/gov/kazakhstan/trudovoe-obuchenie/student/1501.pdf) Verdict: COMPLETE (image-only book read page by page on contact sheets; all 34 lessons checked against the book's own contents, printed pp. 3–4) Kazakhstan's own way: the same national craft curriculum as the Мектеп book but a different object for almost every lesson — Aisha Bibi and yurt models, a dombra model, berkut origami, altybakan, besik, kamchi, asyk and a felt torsyk — each lesson pairs one heritage object with one material technique. Excluded per brief (named, not placed): safety rules (printed pp. 6–7, apparatus); the end-of-year knowledge check inside Урок 34 (printed p. 132, assessment); the glossary «Краткий словарь терминов» (printed pp. 133–134, inventory-only); the bibliography (printed p. 135). Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Урок 15 «Профессия — агроном. Яблоневое дерево» — the agronomist and Kazakhstan's crops; an apple-tree model: a real branch for a trunk, folded-paper apples and cut leaves fixed with plasticine (student book; original target `visual-art/making-with-natural-materials`) | Book 18, printed p. 62 |
+
+Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count.

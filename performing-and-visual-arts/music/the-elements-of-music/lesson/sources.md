@@ -1,6 +1,6 @@
 # Sources — The Elements of Music
 
-countries: Ethiopia, United Kingdom, Andorra, Uganda, Barbados, Honduras, Albania, Samoa, Nicaragua, Singapore, Trinidad and Tobago, Iceland, Haiti, Malta, Turkmenistan, Fiji, Suriname, Colombia, Belarus, Iran, Papua New Guinea, Brazil, Bulgaria, Jordan, Libya, Cuba, Venezuela, Angola, Mongolia, Bolivia, Malaysia, Moldova, Indonesia, Armenia, North Macedonia, Greece, Laos, China, Vietnam
+countries: Ethiopia, United Kingdom, Andorra, Uganda, Barbados, Honduras, Albania, Samoa, Nicaragua, Singapore, Trinidad and Tobago, Iceland, Haiti, Malta, Turkmenistan, Fiji, Suriname, Colombia, Belarus, Iran, Papua New Guinea, Brazil, Bulgaria, Jordan, Libya, Cuba, Venezuela, Angola, Mongolia, Bolivia, Malaysia, Moldova, Indonesia, Armenia, North Macedonia, Greece, Laos, China, Vietnam, Kazakhstan
 
 **Book 1:** *ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል (Performing and Visual Arts, Student's Book, Grade 5)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 141 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -402,3 +402,17 @@ China is added as student-book stock (see its rows above), inside the acceptance
 | Vietnam — Theme 1, Music Theory — the four basic properties of musical sound — pitch (how high or low), duration (how long or short), intensity (how strong or weak, loud or soft) and timbre (the different colour of each instrument's sound and of voices, men's and women's) (student book) | Book 74, printed p. 10 |
 
 Vietnam is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 75:** *Музыка 1, Руководство для учителя (Kaydarova A.A., Esbatyrova I.R., Daniyarova A.R., Ospanova A.D.)* — Kazakhstan. Grade: 1 (student/teacher: TEACHER) Publisher: Nazarbayev Intellectual Schools; year not printed in the extracted front matter; UDC 373 / BBK 74.268.53 as printed PDF pages: 160 (1017.pdf) — title page verified against the record; full text read, contents at printed pp. 3-4; companion guide to Book 6, placed only for what it adds beyond the student book Verdict: COMPLETE Kazakhstan's own way: the guide fixes the method — every lesson works through listening, singing and playing, with the new musical word of the lesson named in a terms table. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md. **Teacher material — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — the guide's lesson notes for Lessons 1-4 (teacher-guide evidence) — forte and piano, noise vs musical sound, and tempo taught as the elements of music in action (teacher-guide evidence) | Book 75, printed pp. 9-17 |
+
+**Book 76:** *Музыка 2, Руководство для учителя (NIS)* — Kazakhstan. Grade: 2 (student/teacher: TEACHER) Publisher: Nazarbayev Intellectual Schools; year not printed in the extracted front matter PDF pages: 1028.pdf — title verified against the record; full text read; companion guide to Book 23, placed only for what it adds beyond the student book Verdict: COMPLETE Kazakhstan's own way: the guide carries the method: lesson-by-lesson listening/singing/playing plans and the terms table for each lesson's new musical word. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md. **Teacher material — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — the guide's lesson notes (teacher-guide evidence) — the elements (tempo, dynamics, register, rhythm) taught lesson by lesson (teacher-guide evidence) | Book 76, printed  |
+
+Kazakhstan is added as teacher-material evidence only (see its rows above), kept outside the acceptance count.

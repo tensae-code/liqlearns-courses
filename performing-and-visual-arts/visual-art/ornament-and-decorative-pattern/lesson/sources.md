@@ -1,6 +1,6 @@
 # Sources — Ornament and Decorative Pattern
 
-countries: Sudan, Iran, Saudi Arabia
+countries: Sudan, Iran, Saudi Arabia, Kazakhstan
 
 **Book 1:** *التربية الفنية — الصف الرابع (Art Education — Grade Four), Primary Stage (المرحلة الابتدائية)* (student book, Arabic) — Sudan, National Center for Curricula and Educational Research (المركز القومي للمناهج والبحث التربوي), Bakht Al-Ruda — Republic of Sudan, Ministry of Education; year 2021; no ISBN printed, Grade 4, 52 PDF pp. STUDENT. Verdict: COMPLETE — read in full, page by page: Drawing field (4 lessons), Design & Decoration field (5 lessons), Forming & Composition field (5 lessons) and the closing picture-models appendix. Sudan's own way: the book teaches in three fields — Drawing, Design & Decoration, Forming & Composition — anchored in the pupil's Sudan: Meroe's pyramids for light and shadow, the Jirtig tray and woven birsh mats for heritage, Nile-valley and Nubian pottery ornament for clay, and palm-frond and straw weaving for the loom. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sudan-placements.md.
 
@@ -26,8 +26,16 @@ countries: Sudan, Iran, Saudi Arabia
 | Saudi Arabia — Total symmetry in our Islamic ornaments — ornament units divide into geometric, plant and calligraphic; geometric ornament arises from the linear relations born of meeting straight and curved lines — polygons, triangles, quadrilaterals, the rhombus and parallelogram, pentagons and hexagons, circles and stars — and geometric ornaments are used on every kind of… (student book; original target `visual-art/total-symmetry-in-islamic-ornament`) | Book 4, printed pp. 115–117 |
 | Saudi Arabia — Opposite total symmetry in our ornaments — a wooden panel inlaid with pearl, ivory, ebony, bone, turquoise, shell and gold, made in the second half of the tenth Hijri century, shows repeated geometric shapes in the panel's centre and edges, and the main qibla mihrab wall of the Thatta mosque in Pakistan, built in 1647 CE, shows geometric ornaments in reversed… (student book; original target `visual-art/opposite-total-symmetry`) | Book 4, printed pp. 120–122 |
 
-**Acceptance count: taught in 3 countries (Sudan, Iran, Saudi Arabia).**
+**Acceptance count: taught in 4 countries (Sudan, Iran, Saudi Arabia, Kazakhstan).**
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/ornament-and-decorative-pattern`); the Sudan placements were filed under the original strings recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Sudan's own way is kept as the named sub lessons above.
 
 Searchable tags: ornament and decorative pattern, Sudan
+
+**Book 5:** *Художественный труд. Учебник для учащихся 5 класса общеобразовательной школы (вариант для девочек) + CD / Көркем еңбек (қыз балаларға арналған нұсқа)* — Kazakhstan. Grade: 5 (STUDENT) Publisher; year; ISBN: Келешек-2030 (Kokshetau), 2017 (this file a 2019 printing); ISBN 978-601-317-162-3 (Russian edition) PDF pages: 108 = record (both records) Verdict: COMPLETE Records covered: grade-05 student/162.pdf (Russian, read in full from books.okulyk.kz source) + grade-05 student/760.pdf (Kazakh parallel, spot-checked identical — title page and §14 hand-sewing at the same printed p. 50) Kazakhstan's own way: visual art is taught through named Kazakhstani painters (Kasteev, Ismailova, Kim, Toghyzbaev, Aitbaev) and Kazakh heritage objects — a decorative still life is composed from a torsyk, saukele and kalpak; ornament is taught as four named motif families; the patchwork tradition has its own name, kurak, and its own named pattern schemes. Named but NOT placed (combined Художественный труд volume — technology/home parts): «Культура питания» §19–24 — healthy eating, menus, kitchen equipment, sandwiches and salads, printed pp. 74–90; «Культура дома» §25–27 — personal hygiene, plant growing, spring garden work, printed pp. 92–97; Санитарно-гигиенические требования and Правила техники безопасности, printed pp. 98–100 (safety apparatus); Словарь, printed pp. 101–102 (glossary — inventory only). Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — §8 «Краткая история и виды орнамента» — what it teaches: the grammar of ornament — a pattern of rhythmically alternating elements; symmetry, rhythm, motif, rapport and element, and how a composition keeps size, timing and taste (student book; original target `visual-art/ornament-rhythm-symmetry-and-rapport`) | Book 5, printed p. 29 |
+
+Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count.

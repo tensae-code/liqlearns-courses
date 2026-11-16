@@ -1,0 +1,15 @@
+# Sources — Kazakh Wedding and Life Cycle Customs
+
+countries: Kazakhstan
+
+**Book 1:** *Музыка 5 — Кульманова Ш.Б., Сулейменова Б.Р., Токжанов Т.Т., Сивакова И.С. (Russian edition); Құлманова Ш., Сүлейменова Б., Тоқжанов Т. (Kazakh edition)* — Kazakhstan. Grade: 5 (student/teacher: STUDENT) Publisher: Атамұра, Almaty; year 2017; ISBN 978-601-306-719-3 (Russian edition) PDF pages: 112 = 112 in both records (covers and title pages LOOKED at and matched; records grade-05/gov/kazakhstan/muzyka/student/160.pdf (Russian, read in full) and grade-05/gov/kazakhstan/muzyka/student/940.pdf (Kazakh, spot-checked: title page, Lesson 5 at the same printed p. 17, and the answer pages — same lessons, same pagination)) Verdict: COMPLETE (Russian edition read page by page on contact sheets; all 34 lessons checked against the book's own contents, printed pp. 109–110; Kazakh edition placed once with it as a parallel). Songs placed as summaries only. Kazakhstan's own way: Grade 5 music is a journey outward from home — Kazakh song schools, aitys and the two kui manners first, then ritual songs and their modern arrangements, then the Turkic world, the East and Europe, and home again to the peoples of Kazakhstan under one shanyrak. Excluded per brief (named, not placed): the four «Проверь свои знания» checks (printed pp. 26–27, 39, 74–75, 98–99, assessment); the glossary (printed pp. 100–104, inventory-only); the used-electronic-resources list (printed pp. 105–108, apparatus). Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Урок 11 «Тұсаукесер» — the rite in brief: when a child takes first steps, the two-coloured cord on its legs is cut with good wishes so it will walk fast and become a good person; the folk song «Тұсаукесер жыры»; M. Arinbaev's «Балама тілек», a father's sung blessing — may the son grow a batyr, an akyn, a zhyrau (student book; original target `culture-and-values/tusaukeser-cutting-the-fetters`) | Book 1, printed p. 30 |
+| Kazakhstan — Урок 12 «Обрядово-бытовые песни и современность» — the song «Қазағымның дәстүрлері-ай» (music N. Abzhambekov, words T. Anisimov) names the rites still kept: shildekhana, besik toi, tusaukeser, sundet toi, kuda tusu, syrga salu, betashar; the wedding song «Жар-жар» in two texts (words A. Rakhmetov; words A. Asylbek) — tell the wedding one from the bride's farewell by its words; the synsu lament and betashar explained (student book; original target `culture-and-values/kazakh-wedding-songs-zhar-zhar`) | Book 1, printed p. 32 |
+| Kazakhstan — Уроки 15–16 — class project "The Wedding Rite (Жар-жар)": research the wedding songs in books and online, perform «Жар-жар», and rework the rite songs in your own presentation (student book; original target `culture-and-values/kazakh-wedding-songs-zhar-zhar`) | Book 1, printed p. 38 |
+
+**Acceptance count: taught in 1 country (Kazakhstan).**
+
+Searchable tags: kazakh wedding and life cycle customs, Kazakhstan

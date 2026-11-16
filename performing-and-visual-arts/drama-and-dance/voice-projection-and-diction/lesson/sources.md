@@ -1,6 +1,6 @@
 # Sources — Voice Projection, Diction and Delivery
 
-countries: Morocco, Jordan, Sri Lanka, Malaysia, Indonesia
+countries: Morocco, Jordan, Sri Lanka, Malaysia, Indonesia, Kazakhstan
 
 **Book 1:** *المفيد في التربية الفنية — دليل الأستاذ والأستاذ(ة) (Al-Moufid in Art Education — Teacher's Guide), Grade 3 of primary education* (teacher guide, Arabic) — Morocco, Dar Attakafa (دار الثقافة), Casablanca; author team coordinated by Mohamed Warrash (with Abdelmalek Ibn Zakour, Safaa Azzawi, Mohamed El Hajji for music, Hafid El Abaya for visual arts); written for the Ministry's January 2021 art-education curriculum (school year 2021–2022); no ISBN printed, Grade 3 primary, 152 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE (read in full, 152 pp.). All placements from this book are teacher-guide evidence; songs and play scripts printed in the guide are summarised only, never transcribed. Named, not placed: Part 1, the theoretical/methodological section (printed pp. 9–39) and the diagnostic-assessment card (printed pp. 41–42). Standing exclusion: each unit's week-5 assessment-and-support card (تقويم ودعم الوحدة). Placements at liqlearns-courses-work/expansion-art-2026-11-16/morocco-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -25,7 +25,7 @@ countries: Morocco, Jordan, Sri Lanka, Malaysia, Indonesia
 |---|---|
 | Indonesia — Bab II Ekspresi Dramatik — voice training — breathing technique, sound, voice and word; expressing meaning through diction, articulation, intonation and voice expression, voicing the sounds of language (teacher guide — evidence; original target `drama-and-dance/voice-projection-and-diction`) | Book 6, printed p. 83 |
 
-**Acceptance count: taught in 2 country (Jordan, Malaysia).** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 3 countries (Jordan, Malaysia, Kazakhstan).** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `drama-and-dance/voice-projection-and-diction`); the Morocco placements were filed under the original string(s) recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Morocco's own way: delivery is taught from Grade 3 onward as a named art with its own appendix in the Grade 4 guide — the three kinds are learned first by imitation, each modelled by the teacher, then practised in scenes. Songs and play scripts are summarised only, never transcribed.
 
@@ -47,3 +47,11 @@ Searchable tags: voice projection, diction, delivery, الإلقاء, oratorical
 |---|---|
 
 | Sri Lanka — Competency 3.6.1 "Let's speak the Sasankada verses" — voice and diction training through Sinhala tongue-twister verses (the Sasankada set: hard, rolling sound-patterns spoken faster and faster without stumbling) — the actor's mouth, breath and clarity drilled by play (teacher guide — evidence; original target `drama-and-dance/voice-training-with-tongue-twisters`) | Book 4, printed p. 46 |
+
+**Book 7:** *Музыка 4 — Құлманова Ш.Б., Сүлейменова Б.Р., Тоқжанов Т.Т.* — Kazakhstan. Grade: 4 (student/teacher: STUDENT) Publisher: Атамұра, Almaty; year 2019; ISBN 978-601-331-501-0 PDF pages: 160 = 160 in the record (cover and title pages LOOKED at and matched; record grade-04/gov/kazakhstan/muzyka/student/90.pdf) Verdict: COMPLETE (image-only book read page by page on contact sheets; all 34 lessons checked against the book's own contents, printed pp. 157–158). Every song is placed as a summary of what it is about and teaches — no lyrics transcribed. Kazakhstan's own way: the Kazakh-medium twin of the Grade 4 music year — same eight-section journey (Homeland, Values, Cultural Heritage, Professions, Nature, Environment, Space, Future) but built from Kazakh works: the kui line from «Ақсақ құлан» and Ykylas's kobyz to Tattimbet and the symphony orchestra, Estai and Zhayau Musa, Gaziza Zhubanova's «Хиросима» ballet, Baikonur and Didier Marouani, Jarre's laser harp and the Reactable. Excluded per brief (named, not placed): the eight «Біліміңді тексер» knowledge checks (printed pp. 18–19, 30–31, 50–51, 66–67, 89–91, 112–113, 126–127, 140–141, assessment); the crossword/crossword-answer pages (printed pp. 142–143, apparatus); the glossary (printed pp. 144–156, inventory-only). Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — 9-сабақ — the contest-game «Шешендік өнер» (Oratory): teams watch a master make a dombra, then one speaker per team describes the instrument's construction without stopping, expressively, while the others score the eloquence (student book; original target `drama-and-dance/oratory-contest-describing-an-instrument`) | Book 7, printed p. 37 |
+
+Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count.

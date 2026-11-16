@@ -1,6 +1,6 @@
 # Sources — Impressionism
 
-countries: Maldives, Sudan, Brazil, Armenia, North Macedonia, Greece
+countries: Maldives, Sudan, Brazil, Armenia, North Macedonia, Greece, Kazakhstan
 
 **Book 1:** *Exploring Creative Arts 4* (student book, English) — Maldives, National Institute of Education, Ministry of Education, Malé, Maldives; © 2025, first published 2025; ISBN 978-99915-0-956-3 (paperback); development editor Shirumeen Ahmed; printed by M7 Print Pvt. Ltd. Based on the Creative Arts in the National Curriculum syllabus, 2022. 93 PDF pp (printed pp. 1–81 plus acknowledgements and back cover; cover verified — two children painting at easels). Verdict: COMPLETE. Read in full as extracted text in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/maldives-placements.md. The book's glossary (printed pp. 79–81) is inventory only, named here and never stocked as parts.
 
@@ -25,7 +25,7 @@ countries: Maldives, Sudan, Brazil, Armenia, North Macedonia, Greece
 | Armenia — IMPRESSIONISM and POST-IMPRESSIONISM — inside the 19th-century European fine-art survey (Spain, France): Impressionism (printed p. 143) and Post-Impressionism (printed p. 151) given their own chapters (student book; original target `visual-art/impressionism`) | Book 4, printed p. 140 |
 
 
-**Acceptance count: taught in 6 countries (Maldives, Sudan, Brazil, Armenia, North Macedonia, Greece).** Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 7 countries (Maldives, Sudan, Brazil, Armenia, North Macedonia, Greece, Kazakhstan).** Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/impressionism`); the Maldives placement was filed under the original string `visual-art/impressionism-and-impasto`, recorded in the provenance rows above.
 
@@ -52,3 +52,11 @@ North Macedonia is added as student-book stock (see its rows above), inside the 
 | Greece — Δ2. Ιμπρεσιονισμός (Impressionism) — the games of light; how the Impressionists paint light's play; creating with pastels and with watercolours (student book; original target `visual-art/impressionism-light-and-colour`) | Book 7, printed p. 70 |
 
 Greece is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 8:** *Көркем еңбек 4 / Художественный труд 4 — Раупова Н.А., Төлебиев Ә.Т., Дашкевич Е.В.* — Kazakhstan. Grade: 4 (student/teacher: STUDENT) Publisher: Атамұра, Almaty; year 2019; ISBN 978-601-331-497-6 (Kazakh edition, printed in the book) PDF pages: 144 = 144 in the record (covers and title pages LOOKED at and matched; Russian edition spot-checked — cover, contents and two spreads identical in content and pagination, so the book is placed once for both editions; records grade-04/…/hudozhestvennyj-trud/student/91.pdf Kazakh and student/113.pdf Russian) Verdict: COMPLETE (image-only book read page by page on contact sheets) Kazakhstan's own way: a full-year visual-art course in eight sections that keeps returning to Kazakhstan itself — its landscapes painted with aerial perspective, its Silk Road mausoleums, the yurt's felt art and ornament families, national dress and silver jewellery — alongside world art (Impressionism, poster art, space art). Excluded per brief (named, not placed): the eight unit review/assessment pages «Таныстыру, талдау және бағалау» (printed pp. 20, 38, 58, 70, 86, 98, 112, 125); the end-of-year summary (printed pp. 126–130); the glossary «Қысқаша сөздік» (printed pp. 131–138, inventory-only); safety rules for art lessons (printed p. 139, apparatus). Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — «Импрессионист-суретшілер салған табиғат көріністері» — the Impressionists: painting outdoors (plein air), Monet's "Impression, Sunrise" and the 1874 Paris exhibition, Manet and Pissarro (student book; original target `visual-art/impressionism-and-plein-air`) | Book 8, printed p. 78 |
+
+Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count.

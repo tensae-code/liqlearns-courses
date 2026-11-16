@@ -1,6 +1,6 @@
 # Sources — Pottery Making
 
-countries: Sri Lanka, Saudi Arabia
+countries: Sri Lanka, Saudi Arabia, Kazakhstan
 
 **Book 1:** *Grade 10 Art and Craft pupil textbook (மாணவர் பாட நூல்), Tamil medium, of the "Ilavasap Paada Nool" (free textbook) series* (student textbook) — Sri Lanka, Educational Publications Department, Sri Lanka, 2016; no ISBN visible on the pages scanned. Grade: 10 (student/teacher: STUDENT). PDF pages: 223 (printed pages run 1–223). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md.
 
@@ -31,8 +31,16 @@ countries: Sri Lanka, Saudi Arabia
 | Saudi Arabia — What pottery is — clay's importance across civilisations (pottery, bricks, tiles, ceramics); the clay shape's three states — wet, dry and brittle, hard; softness comes from added water and hardness (الصلابة) only from high heat; pottery is defined as clay work fired in special kilns until hard and porous (student book; original target `visual-art/what-pottery-is`) | Book 3, printed pp. 50–55 |
 | Saudi Arabia — The beginnings of pottery and firing — first man hand-formed hollow vessels from his environment's clay and sun-dried them; fire was found to make them hard — firing on the ground under branches, pit firing, then a kiln — and later came the potter's wheel and electric kilns (student book; original target `visual-art/the-first-pottery-and-firing`) | Book 3, printed pp. 59–63 |
 
-**Acceptance count: taught in 2 countries (Sri Lanka, Saudi Arabia).**
+**Acceptance count: taught in 3 countries (Sri Lanka, Saudi Arabia, Kazakhstan).**
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/pottery-making`); the Sri Lanka placements were filed under the original string(s) `visual-art/clays-and-ceramic-materials`, `visual-art/making-plaster-moulds-for-pottery`, `visual-art/pottery-heritage-of-sri-lanka` and resolved to this lesson by slug-registry Part 2. Songs and stories are placed by summary only, never transcribed.
 
 Searchable tags: pottery making, Sri Lanka
+
+**Book 4:** *Художественный труд. Учебник для учащихся 5 класса общеобразовательной школы (вариант для мальчиков) + CD / Көркем еңбек (ұл балаларға арналған нұсқа)* — Kazakhstan. Grade: 5 (STUDENT) Publisher; year; ISBN: Келешек-2030 (Kokshetau), 2017; ISBN 978-601-317-161-6 (Russian edition) PDF pages: 96 = record (both records) Verdict: COMPLETE Records covered: grade-05 student record (Russian, read in full from books.okulyk.kz source) + Kazakh parallel record (spot-checked identical — title page and §14 timber at the same printed p. 48) Kazakhstan's own way: the visual-art chapters (§1–7) are page-for-page the same as the girls' variant (Book 9); the boys' applied-art and design chapters turn to the Kazakh master's crafts — the terishi leatherworker, the zerger silver jeweller, the usta wood carver — and end by designing Kazakh percussion instruments (dabyl, asatayak, dauylpaz). Named but NOT placed (combined volume — technology/home parts): «Культура питания» §21 — healthy eating and menus, printed pp. 70–75; «Культура дома» §22–24 — sources of electrical energy, electrical fittings, experiments with electricity, home repairs, printed pp. 76–83; §25–26 — plant growing and spring garden work, printed pp. 84–87; Правила техники безопасности, printed p. 88 (safety apparatus); Словарь, printed pp. 89–91 (glossary — inventory only). Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — §18 «Изготовление изделия из глины. Лепка» — what it teaches: clay — one of humanity's first materials, for dishes, storage vessels and the clay tablets people wrote on before paper; a fine-grained rock, dusty dry and plastic wet; the making order — big parts first, stacks for small detail, a wet-sponge finish, 7–10 days drying, then firing (student book; original target `visual-art/clay-and-its-story`) | Book 4, printed p. 60 |
+
+Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count.

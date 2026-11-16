@@ -1,6 +1,6 @@
 # Sources — Tapestry and Gobelin Weaving
 
-countries: North Macedonia
+countries: North Macedonia, Kazakhstan
 
 **Book 1:** *Ликовна уметност за III година (Visual Art for Year III of gymnasium education)* (student book, Macedonian) — North Macedonia, Просветно дело АД (Prosvetno Delo AD), Skopje; year 2004; ISBN 9989-0-0412-9; authors Dančo Ordev, Maja Raunik Kirkov, Aleksandar Ordev, Igor Vasilev, Miško Ralev, Viktorija Eremeeva-Naumovska; Ministry approval decision no. 11-3880/1 of 15.7.2004 Grade: Grade 12 (gymnasium Year III, elective) (student/teacher: STUDENT). PDF pages: 149 (148 printed pages per CIP plus cover; read in place from phase3-staging, never deleted). Verdict: COMPLETE. North Macedonia's own way: the techniques are taught through Macedonia's own treasures — the frescoes of Nerezi and Kurbinovo are named world-class, the kopaničari woodcarvers and the Sveti Spas iconostasis stand for wood carving, Prilep's sivec marble for stone, silver filigree and the Ohrid pearl for jewellery, the Macedonian folk costume for costume design, and Milton Manaki of Bitola carries the country's own first chapter of film history. Excluded per standing rules: none required — the book carries no assessment sections and no glossary; the closing Project chapter (printed p. 147) is placed as content. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/north-macedonia-placements.md.
 
@@ -8,8 +8,16 @@ countries: North Macedonia
 |---|---|
 | North Macedonia — Таписерија — tapestry: the picture woven on a frame, warp and weft, that warmed medieval walls and can stand up as sculpture (student book; original target `visual-art/tapestry`) | Book 1, printed p. 59 |
 
-**Acceptance count: taught in 1 country (North Macedonia).**
+**Acceptance count: taught in 2 countries (North Macedonia, Kazakhstan).**
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/tapestry-and-gobelin-weaving`). The North Macedonia placements were filed under the original string(s) `visual-art/tapestry`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2 where the string differs. North Macedonia's own way is the lesson itself where the topic is Macedonian: the country's own music, dances, crafts and art forms are kept as named parts. Songs are placed by title and theme only, never transcribed.
 
 Searchable tags: North Macedonia, Tapestry and Gobelin Weaving, Таписерија
+
+**Book 2:** *«Көркем еңбек» / «Художественный труд» (қыз балаларға арналған нұсқа / вариант для девочек) + CD — Алимсаева Р. Ш., Велькер Е. Е.* — Kazakhstan. Grade: 9 (STUDENT) Publisher: Көкшетау: Кепешек-2030 баспасы, 2020; ISBN 978-601-317-443-3 (KZ) / 978-601-317-444-0 (RU) PDF pages: 111 (printed book 112 pp) Records covered: targets-kz-b idx55 (KZ, read in full) + idx56 (RU, spot-checked identical — imprint + § 12 «Fast cloth» page at printed p. 56) Verdict: COMPLETE Kazakhstan's own way: the year opens with Kazakhstan's own carpet weaving (Pazyryk, felt carpets, алаша, басқұр) and its modern gobelin school of Құрасбек Тыныбеков; fashion is taught through Kazakhstan Fashion Week and Kazakhstani designers (Аида Кауменова, Ая Бапани, Балнұр Асанова and others in the appendix gallery); landscape design is shown on Nur-Sultan's and Almaty's own boulevards and parks. Named but not placed: Қауіпсіздік ережелері (safety rules, printed pp. 92–94 — apparatus/safety, excluded by brief); Сөздік (glossary, printed pp. 95–99 — word list, inventory-only); Пайдаланылған / Қосымша әдебиеттер тізімі (bibliographies, printed pp. 110–111). Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — § 5. Шығармашылық жұмысты орындау. Сәндеу мен безендіру (Carrying out the creative work. Decorating and beautifying) — Гобелен (Gobelin) — what it teaches: a gobelin panel is woven on a frame loom in eighteen photographed steps (Орындау реттілігі): the ornament design is drawn — a white Kazakh ornament rosette on a green ground with a red centre motif (the finished design is shown coloured) — the wooden frame loom is strung with white warp threads, green and orange shuttles are prepared, and the green ground is woven row by row passing the weft by hand and beating it down; the red ornament is then built up area by area following the design, the weft ends are worked in, the weaving is finished at the top edge, taken off, and its warp ends are cut and knotted into a fringe — the finished green-and-red ornament panel is shown flat (student book; original target `visual-art/weaving-a-gobelin-panel`) | Book 2, printed p. 22 |
+
+Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count.

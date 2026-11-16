@@ -1,6 +1,6 @@
 # Sources — Faster Notes, Dynamics and Tempo
 
-countries: Ethiopia, United Kingdom, Barbados, Albania, Nicaragua, Singapore, Trinidad and Tobago, Iceland, Haiti, Malta, Turkmenistan, Fiji, Suriname, Colombia, Belarus, Papua New Guinea, Morocco, Bulgaria, Jordan, Libya, Cuba, Bolivia, Malaysia, Moldova, Indonesia, Syria, Armenia, North Macedonia, Greece, Laos, China, Vietnam
+countries: Ethiopia, United Kingdom, Barbados, Albania, Nicaragua, Singapore, Trinidad and Tobago, Iceland, Haiti, Malta, Turkmenistan, Fiji, Suriname, Colombia, Belarus, Papua New Guinea, Morocco, Bulgaria, Jordan, Libya, Cuba, Bolivia, Malaysia, Moldova, Indonesia, Syria, Armenia, North Macedonia, Greece, Laos, China, Vietnam, Kazakhstan
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -389,3 +389,11 @@ China is added as student-book stock (see its rows above), inside the acceptance
 | Vietnam — Theme 6 theory — some signs and terms for tempo and dynamic shading — the tempo is usually written above the staff, at the head of the piece, in Italian or Latin (in Vietnam composers often use Vietnamese): the tempo terms fall into three main groups, slow (Lento — very slow, Adagio — slow, Andante — slightly slow), medium (Andantino — leisurely, Moderato — moderate, Allegretto — slightly fast) and fast (Allegro — fast, Vivace — fast and lively, Presto — very fast, hurried); the dynamic signs are words or symbols written below the staff to show how loud or soft the sound is — p (piano, soft), mp (mezzo piano, moderately soft), mf (mezzo forte, moderately loud), f (forte, loud), crescendo (growing louder), decrescendo (growing softer) and the accent (a note emphasised); the terms are heard at work in an excerpt of Albert W. Ketèlbey's "In a Persian Market" (Allegretto, pp) (student book) | Book 67, printed p. 47 |
 
 Vietnam is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 68:** *Музыка, учебник для 1 класса общеобразовательной школы (Kaydarova A.A. et al., Nazarbayev Intellectual Schools)* — Kazakhstan. Grade: 1 (student/teacher: STUDENT) Publisher: Nazarbayev Intellectual Schools; year not printed in the extracted front matter; ISBN not printed in the extracted front matter PDF pages: 128 (921.pdf) — title page verified against the record; full text read, contents at printed pp. 3-4 Verdict: COMPLETE Excluded per brief (named, not placed): the closing Glossary (printed p. 119) is inventory only. Kazakhstan's own way: the NIS music year is built on the eight cross-cutting themes and Kazakh material is structural, not decorative: Kazakh folk instruments, Kazakh folk dance, Kazakh legends and the Nauryz song each carry a whole lesson. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md. **Teacher material — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Lesson 12 "Register in music" — high, middle and low registers heard and sung (teacher-guide evidence) | Book 68, printed p. 45 |
+
+Kazakhstan is added as teacher-material evidence only (see its rows above), kept outside the acceptance count.

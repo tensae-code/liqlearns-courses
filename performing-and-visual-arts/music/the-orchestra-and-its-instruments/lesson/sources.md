@@ -1,6 +1,6 @@
 # Sources — The Orchestra and Its Instruments
 
-countries: Malta, Sri Lanka, Cuba, Moldova, Armenia, North Macedonia, China
+countries: Malta, Sri Lanka, Cuba, Moldova, Armenia, North Macedonia, China, Kazakhstan
 
 **Book 1:** *Music Shines I — Unit 8 Instruments of the Orchestra (Chapter 7)* (teacher guide pages + pupil activities, English) — Malta, Music Shines (Skola); year not printed on these pages; no ISBN printed, Year 1 per record; the PDF carries the Year 1, Year 2 and Year 3 levels (printed pp. 116–122), 7 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE for Unit 8. Cover/title page verified against the record title — first page is the Unit 8 divider, printed p. 116. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malta-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -60,7 +60,7 @@ countries: Malta, Sri Lanka, Cuba, Moldova, Armenia, North Macedonia, China
 | Armenia — Pop of the 1990s — the boy- and girl-group era: Robbie Williams and Take That, the Spice Girls (formed in London, 1994; "Wannabe", 1996), the Backstreet Boys, Britney Spears, Christina Aguilera, Jennifer Lopez, Celine Dion, Ricky Martin (student book; original target `music/kinds-of-ensembles`) | Book 12, printed p. 58 |
 
 
-**Acceptance count: taught in 5 countries (Cuba, Moldova, Armenia, North Macedonia, China). Earlier evidence-only entries stay outside the acceptance count.** Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 6 countries (Cuba, Moldova, Armenia, North Macedonia, China, Kazakhstan). Earlier evidence-only entries stay outside the acceptance count.** Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/the-orchestra-and-its-instruments`). The Malta placements were filed as NEW LESSON NEEDED under the original string(s) `music/instruments-of-the-orchestra`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Malta's own way: orchestral instruments are learned ears-first — every instrument is met with its recorded sound, recognised by timbre, and only then sorted into its family; the orchestra is then learned through story (Grieg) and seating plan (Britten). Songs and stories are placed by summary only, never transcribed.
 
@@ -174,3 +174,17 @@ North Macedonia is added as student-book stock (see its rows above), inside the 
 | China — Unit 3 乐器陈列室：钢片琴 — the glockenspiel (orchestral bells) — a percussion instrument of pure, clear tone spanning four octaves, heard inside the Grand Canyon music (student book; original target `music/our-musical-instruments`) | Book 24, printed p. 21 |
 
 China is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 25:** *Музыка, учебник для 3 класса общеобразовательной школы (Valiullina R.N., Makhanova A.K., Besbai N.N.)* — Kazakhstan. Grade: 3 (student/teacher: STUDENT) Publisher: Atamura, Almaty; year 2018 PDF pages: 128 each (71.pdf read in full from its text layer, contents at printed pp. 126-127; 994.pdf is a second scan of the same book — cover and lesson titles verified identical) Verdict: COMPLETE Excluded per brief (named, not placed): Lessons 9, 16, 27 and 34 "Вспоминаем, повторяем" (Remember and repeat) are review lessons; song lyrics are summarised, never transcribed. Kazakhstan's own way: Grade 3 music thinks in architecture — music is built from "bricks" into "houses" and "cities" — and its heroes are Prokofiev the boy composer and a Kazakh girl dombrist given two whole lessons. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Lesson 20 "Our orchestra" — the orchestra and its instruments, with a song about the orchestra (student book; original target `music/musical-instruments`) | Book 25, printed p. 74 |
+
+**Book 26:** *Музыка, жалпы білім беретін мектептің 3-сыныбына арналған оқулық (Kulmanova Sh., Suleimenova B., Tokzhanov T., Makhametova Zh.)* — Kazakhstan. Grade: 3 (student/teacher: STUDENT) Publisher: Atamura, Almaty; year 2018 (edition of the A. Baikadamova Institute of Harmonious Human Development) PDF pages: 165 (1001.pdf) and 160 (60.pdf) — two scans of the same book; 60.pdf read in full from its text layer, contents at printed pp. 158-159; 1001.pdf cover verified identical Verdict: COMPLETE Excluded per brief (named, not placed): song lyrics are summarised, never transcribed; the year-end review tasks inside Lesson 26 "Musical kaleidoscope" are revision apparatus, the lesson itself is placed for its listening survey. Kazakhstan's own way: the Kazakh-track Grade 3 book is the most Kazakh of the wave — terme and aitys taught as genres, the zhetygen "come down from antiquity", the sal-seris of the Great Steppe, and Akhmet Zhubanov founding the Kazakh orchestra. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Lesson 13 "Our orchestra" — the class orchestra and its instruments (student book; original target `music/musical-instruments`) | Book 26, printed p. 51 |
+
+Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count.

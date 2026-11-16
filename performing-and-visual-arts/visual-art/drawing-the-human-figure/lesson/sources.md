@@ -1,6 +1,6 @@
 # Sources — Drawing the Human Figure
 
-countries: Colombia, Sudan, Brazil, Moldova, North Macedonia, Greece
+countries: Colombia, Sudan, Brazil, Moldova, North Macedonia, Greece, Kazakhstan
 
 **Book 1:** *Educación Artística — Postprimaria Rural — Guías del estudiante, Grados 6 y 7 (Artistic Education, Rural Post-primary, student guides, Grades 6 and 7)* (student book, Spanish) — Colombia, Ministerio de Educación Nacional (MEN), Bogotá; year 2010; ISBN libro 978-958-691-416-1; ISBN obra 978-958-691-411-6. Grades 6–7 (student book: STUDENT). PDF pages: 218 (title/imprint pages verified against the record; byte size 113,210,688). Verdict: COMPLETE — read in full from the downloaded file's text layer, all 6 modules and 27 guides Placements at liqlearns-courses-work/expansion-art-2026-11-16/colombia-placements.md. Every guide ends in an "Evaluemos" self/peer/teacher assessment section — assessment apparatus, named here and not placed.
 
@@ -23,7 +23,7 @@ countries: Colombia, Sudan, Brazil, Moldova, North Macedonia, Greece
 |---|---|
 | Moldova — Unit I §4, Figura umană în stare statică și dinamică — static and dynamic states of the figure: the centre of gravity found by a vertical line from the neck to the support; Polykleitos' contrapposto in the "Doryphoros"; the angles of the joints; Matisse drawing movement summarily, without anatomy ("Dance II", "Icarus") (student book; original target `visual-art/the-figure-in-movement`) | Book 4, printed pp. 17–18 |
 
-**Acceptance count: taught in 6 countries (Colombia, Sudan, Brazil, Moldova, North Macedonia, Greece).** Moldova is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 7 countries (Colombia, Sudan, Brazil, Moldova, North Macedonia, Greece, Kazakhstan).** Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/drawing-the-human-figure`); the Colombia placements were filed under the original strings recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Colombia's own way: the rural guide opens the body module with Da Vinci, then puts the pencil in the pupil's hand at arm's length — proportion is learned on a classmate's real body, on a marked vertical.
 
@@ -44,3 +44,11 @@ North Macedonia is added as student-book stock (see its rows above), inside the 
 | Greece — Δ2 Άνθρωποι στη σειρά (People in a row — figures repeated in order) (student book; original target `visual-art/people-in-a-row-figures-in-order`) | Book 6, printed p. 79 |
 
 Greece is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 7:** *Көркем еңбек 4 / Художественный труд 4 — Раупова Н.А., Төлебиев Ә.Т., Дашкевич Е.В.* — Kazakhstan. Grade: 4 (student/teacher: STUDENT) Publisher: Атамұра, Almaty; year 2019; ISBN 978-601-331-497-6 (Kazakh edition, printed in the book) PDF pages: 144 = 144 in the record (covers and title pages LOOKED at and matched; Russian edition spot-checked — cover, contents and two spreads identical in content and pagination, so the book is placed once for both editions; records grade-04/…/hudozhestvennyj-trud/student/91.pdf Kazakh and student/113.pdf Russian) Verdict: COMPLETE (image-only book read page by page on contact sheets) Kazakhstan's own way: a full-year visual-art course in eight sections that keeps returning to Kazakhstan itself — its landscapes painted with aerial perspective, its Silk Road mausoleums, the yurt's felt art and ornament families, national dress and silver jewellery — alongside world art (Impressionism, poster art, space art). Excluded per brief (named, not placed): the eight unit review/assessment pages «Таныстыру, талдау және бағалау» (printed pp. 20, 38, 58, 70, 86, 98, 112, 125); the end-of-year summary (printed pp. 126–130); the glossary «Қысқаша сөздік» (printed pp. 131–138, inventory-only); safety rules for art lessons (printed p. 139, apparatus). Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — §4 «Мамандықтар әлемі», lessons 13–14 — professions in fine art: reading portraits of people at work (Akanaev's doctor, Krylov's Karaganda miners, Aitbaev, Vekhvadze, Breslau's sculptor) (student book; original target `visual-art/people-at-work-in-art`) | Book 7, printed p. 60 |
+
+Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count.

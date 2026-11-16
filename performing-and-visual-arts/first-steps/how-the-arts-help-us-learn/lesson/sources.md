@@ -1,6 +1,6 @@
 # Sources — How the Arts Help Us Learn
 
-countries: Ethiopia, Jamaica, Libya, Venezuela, Armenia
+countries: Ethiopia, Jamaica, Libya, Venezuela, Armenia, Kazakhstan
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 **Book 2:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
@@ -85,3 +85,17 @@ Searchable tags: how the arts help us learn, arts for language, arts for maths, 
 | Lesson part | Where it comes from |
 |---|---|
 | Libya — Game 4: Telling words apart — pupils hold cards lettered with the letters of words already studied, stand in two big squares, and on the teacher's signal pair their cards to build the winning word, then step into a circle with the matching pair — a music-game road into reading (teacher guide — evidence; original target `first-steps/how-the-arts-help-us-learn`) | Book 10, printed pp. 16–17 |
+
+**Book 16:** *Музыка 1, Руководство для учителя (Kaydarova A.A., Esbatyrova I.R., Daniyarova A.R., Ospanova A.D.)* — Kazakhstan. Grade: 1 (student/teacher: TEACHER) Publisher: Nazarbayev Intellectual Schools; year not printed in the extracted front matter; UDC 373 / BBK 74.268.53 as printed PDF pages: 160 (1017.pdf) — title page verified against the record; full text read, contents at printed pp. 3-4; companion guide to Book 6, placed only for what it adds beyond the student book Verdict: COMPLETE Kazakhstan's own way: the guide fixes the method — every lesson works through listening, singing and playing, with the new musical word of the lesson named in a terms table. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md. **Teacher material — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — the guide's introduction (teacher-guide evidence) — music's three goal-lines (performing, listening, creating) tying music to every other subject (teacher-guide evidence) | Book 16, printed pp. 5-6 |
+
+**Book 17:** *Музыка 2, Руководство для учителя (NIS)* — Kazakhstan. Grade: 2 (student/teacher: TEACHER) Publisher: Nazarbayev Intellectual Schools; year not printed in the extracted front matter PDF pages: 1028.pdf — title verified against the record; full text read; companion guide to Book 23, placed only for what it adds beyond the student book Verdict: COMPLETE Kazakhstan's own way: the guide carries the method: lesson-by-lesson listening/singing/playing plans and the terms table for each lesson's new musical word. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md. **Teacher material — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — the guide's introduction (teacher-guide evidence) — music's goal-lines across the subjects (teacher-guide evidence) | Book 17, printed  |
+
+Kazakhstan is added as teacher-material evidence only (see its rows above), kept outside the acceptance count.

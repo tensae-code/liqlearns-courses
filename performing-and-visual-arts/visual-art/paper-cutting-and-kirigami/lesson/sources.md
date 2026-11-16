@@ -1,6 +1,6 @@
 # Sources — Paper Cutting and Kirigami
 
-countries: Angola, Vietnam
+countries: Angola, Vietnam, Kazakhstan
 
 **Book 1:** *Educação Manual e Plástica — 3.ª Classe, Manual do Aluno* (student book, Portuguese) — Angola, Progresso Editora (Ministério da Educação); year 2018; no ISBN printed (registered at Biblioteca Nacional de Angola no. 4290/07). Grade 3 (student/teacher: STUDENT). PDF pages: 57 (cover/title page verified against the record title). Verdict: COMPLETE (the colour-theory spread the printing chapter points to, printed pp. 18–19, is a divider/blank spread in this PDF; the complementary-pair teaching is placed from §2.2-II itself). Angola's own way: Angolan and African art carries the appreciation content — Cokwe heritage pieces (O Pensador, Mwana Pwo), Benguela dolls, Etona's wood sculpture and Neves e Sousa's painting — and the coil technique is taught by building a sounding clay wind instrument. Placements at liqlearns-courses-work/expansion-art-2026-11-16/angola-placements.md.
 
@@ -8,7 +8,7 @@ countries: Angola, Vietnam
 |---|---|
 | Angola — Tema 1.3: picotagem — draw the figure on the back of coloured paper, lay it on a soft/padded surface, prick holes along the drawing's lines with a pin or needle (thread wrapped at the eye for safety), then tear or cut the figure out along the dotted line (student book; original target `visual-art/pierced-paper-technique`) | Book 1, printed pp. 16–17 |
 
-**Acceptance count: taught in 2 countries (Angola, Vietnam).**
+**Acceptance count: taught in 3 countries (Angola, Vietnam, Kazakhstan).**
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/paper-cutting-and-kirigami`); the Angola placements were filed under the original strings recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2.
 
@@ -23,3 +23,11 @@ Searchable tags: picotagem, pierced paper, paper cutting, Angola
 | Vietnam — Lesson 10 — the hand paper-cutting and paper-carving art (nghệ thuật cắt, trổ giấy thủ công) has existed for a long time in the cultures of some Eastern countries (China, Japan…): in China the paper-cutting art is called Jianzhi, and in Japan it is called Kirigami; in Vietnam the paper-cutting art is used in many decorative products such as pictures and postcards (shown: a Vietnamese paper-cut picture, "The Tiger"); today laser paper-cutting machines are used instead, both saving labour and meeting the needs of modern society — yet the hand paper-cutting art still has its vitality through its rustic, unique beauty, which industrially produced products cannot have (student book) | Book 2, printed p. 44 |
 
 Vietnam is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 3:** *Художественный труд. Учебник для учащихся 5 класса общеобразовательной школы (вариант для девочек) + CD / Көркем еңбек (қыз балаларға арналған нұсқа)* — Kazakhstan. Grade: 5 (STUDENT) Publisher; year; ISBN: Келешек-2030 (Kokshetau), 2017 (this file a 2019 printing); ISBN 978-601-317-162-3 (Russian edition) PDF pages: 108 = record (both records) Verdict: COMPLETE Records covered: grade-05 student/162.pdf (Russian, read in full from books.okulyk.kz source) + grade-05 student/760.pdf (Kazakh parallel, spot-checked identical — title page and §14 hand-sewing at the same printed p. 50) Kazakhstan's own way: visual art is taught through named Kazakhstani painters (Kasteev, Ismailova, Kim, Toghyzbaev, Aitbaev) and Kazakh heritage objects — a decorative still life is composed from a torsyk, saukele and kalpak; ornament is taught as four named motif families; the patchwork tradition has its own name, kurak, and its own named pattern schemes. Named but NOT placed (combined Художественный труд volume — technology/home parts): «Культура питания» §19–24 — healthy eating, menus, kitchen equipment, sandwiches and salads, printed pp. 74–90; «Культура дома» §25–27 — personal hygiene, plant growing, spring garden work, printed pp. 92–97; Санитарно-гигиенические требования and Правила техники безопасности, printed pp. 98–100 (safety apparatus); Словарь, printed pp. 101–102 (glossary — inventory only). Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — §8, practical — what it teaches: cutting a Kazakh ornament from folded paper by algorithm (the «мүйіз» horn and «төртқұлақ» cross motifs) and laying out a symmetrical carpet composition on an A3 sheet (student book; original target `visual-art/paper-cut-ornament-and-carpet-composition`) | Book 3, printed p. 31 |
+
+Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count.

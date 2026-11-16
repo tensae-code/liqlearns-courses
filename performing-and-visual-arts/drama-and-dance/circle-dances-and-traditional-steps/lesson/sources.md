@@ -1,6 +1,6 @@
 # Sources — Circle Dances and Traditional Steps
 
-countries: Ethiopia, Nicaragua, Singapore, Iceland, Turkmenistan, Cuba, Venezuela, Angola, Mongolia, Armenia, North Macedonia, China
+countries: Ethiopia, Nicaragua, Singapore, Iceland, Turkmenistan, Cuba, Venezuela, Angola, Mongolia, Armenia, North Macedonia, China, Kazakhstan
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -50,7 +50,7 @@ countries: Ethiopia, Nicaragua, Singapore, Iceland, Turkmenistan, Cuba, Venezuel
 | Armenia — Kochari taught step by step (teacher-guide evidence) — the guide teaches the basic movements of the Kochari dance and dances it to Khosrovyan's arrangement, inside the "Our country" lessons (teacher guide — evidence; original target `drama-and-dance/circle-dances-and-traditional-steps`) | Book 11, printed p. 102 |
 
 
-**Acceptance count: taught in 8 countries (Ethiopia, Turkmenistan, Venezuela, Angola, Mongolia, Armenia, North Macedonia, China). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 9 countries (Ethiopia, Turkmenistan, Venezuela, Angola, Mongolia, Armenia, North Macedonia, China, Kazakhstan). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Nothing flagged. The circle song is named and its movement taught; its words are not transcribed beyond the title the placement gives.
 
@@ -84,3 +84,23 @@ North Macedonia is added as student-book stock (see its rows above), inside the 
 | China — Unit 8 社交舞： social/ballroom dance — its origins, uses and dress; a waltz combination practised; International Standard ballroom dance; the Ländler from The Sound of Music appreciated (student book) | Book 14, printed pp. 104–113 |
 
 China is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 15:** *Музыка, учебник для 1 класса общеобразовательной школы (Kaydarova A.A. et al., Nazarbayev Intellectual Schools)* — Kazakhstan. Grade: 1 (student/teacher: STUDENT) Publisher: Nazarbayev Intellectual Schools; year not printed in the extracted front matter; ISBN not printed in the extracted front matter PDF pages: 128 (921.pdf) — title page verified against the record; full text read, contents at printed pp. 3-4 Verdict: COMPLETE Excluded per brief (named, not placed): the closing Glossary (printed p. 119) is inventory only. Kazakhstan's own way: the NIS music year is built on the eight cross-cutting themes and Kazakh material is structural, not decorative: Kazakh folk instruments, Kazakh folk dance, Kazakh legends and the Nauryz song each carry a whole lesson. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md. **Teacher material — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Lesson 24 "Kazakh folk dance" — the people's dance learned as a dance, not a picture (teacher-guide evidence) | Book 15, printed p. 86 |
+
+**Book 16:** *Музыка, учебник для учащихся 1 класса общеобразовательной школы (Russian edition: Sadovskaya I.A., Urazalieva M.A., Pleshakova T.B.) / Музыка, 1-сынып оқушыларына арналған оқулық (Kazakh edition: Orazalieva M.A., Omarova S.K.)* — Kazakhstan. Grade: 1 (student/teacher: STUDENT) Publisher: Almatykitap Baspasy; year 2019 (both title pages) PDF pages: 96 (17.pdf, Russian) / 96 (8.pdf, Kazakh) — title pages verified against the records (the record titles both name Sadovskaya; the Kazakh file's printed authors are Orazalieva/Omarova — a record-title inaccuracy, see group log); the two editions carry the same 33 lessons in the same order (contents compared in full, printed pp. 94-95 of each), read in full from the Russian text with the Kazakh edition spot-checked (cover, contents, two spreads) Verdict: COMPLETE Kazakhstan's own way: the Almatykitap first music book sings the child's own day — acquaintance, mood, voice — and reaches the nation through the State Anthem at the front, folk tales, folk dances and the Nauryz welcome. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Lesson 24 "Folk dances" — the people's dances danced (student book) | Book 16, printed p. 64 |
+
+**Book 17:** *Музыка, учебник для 2 класса общеобразовательной школы (NIS)* — Kazakhstan. Grade: 2 (student/teacher: STUDENT) Publisher: Nazarbayev Intellectual Schools; year not printed in the extracted front matter PDF pages: 1029.pdf — title verified against the record; full text read, contents at printed pp. 3-4 Verdict: COMPLETE Kazakhstan's own way: the NIS Grade 2 year deepens the eight-theme course: registers, forms and the orchestra, with Kazakh instruments, dance and Nauryz in their theme places. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md. **Teacher material — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Section 6 dance lesson — the Kazakh folk dance (teacher-guide evidence) | Book 17, printed pp. 3-4 |
+
+Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count; its teacher-material rows are evidence only, kept outside the acceptance count.

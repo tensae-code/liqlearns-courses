@@ -1,6 +1,6 @@
 # Sources — Houses of Our Country
 
-countries: Ethiopia, Sudan, Belarus, Venezuela, Afghanistan, Malaysia, Greece, Vietnam
+countries: Ethiopia, Sudan, Belarus, Venezuela, Afghanistan, Malaysia, Greece, Vietnam, Kazakhstan
 
 **Book 1:** *Grade 4 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 4ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–100. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-student-placements.md.
 
@@ -74,3 +74,11 @@ Greece is added as student-book stock (see its rows above), inside the acceptanc
 | Vietnam — Bài 1 — Di sản kiến trúc (architectural heritage — knowing and valuing the built heritage, Vietnam's traditional buildings first) (student book) | Book 10, printed p. 5 |
 
 Vietnam is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 11:** *Бейнелеу өнері, Әдістемелік нұсқау, 1-сынып (Kazakh guide, Akbaeva Sh.A., Suleev U.M., Khabambaev A.E.) / Изобразительное искусство, Методическое руководство для учителей 1 класса (Russian guide, Rabilova Z.Zh., Korolkova N.A.)* — Kazakhstan. Grade: 1 (student/teacher: TEACHER) Publisher: Almatykitap Baspasy; year 2023 (Kazakh guide colophon); ISBN not printed in the extracted front matter PDF pages: 127 (Kazakh, 1196.pdf) / 179 (Russian, 1203.pdf) — title pages verified against the records; the two guides carry the same 35-hour programme (same long-term plan topics in both languages: museum trip, rainbow, fruits, ornament in a strip, brush stand, house, day and night), read in full from the text layer, plans at Kazakh pp. 7-13 / Russian pp. 15-20, parallel edition spot-checked (cover, plan, two lesson plans) Verdict: COMPLETE Kazakhstan's own way: visual art is taught in rotating blocks — perceiving artworks, graphics, painting, sculpture, decorative-applied art, design and architecture — every block returning each term, and Kazakh national ornament and the yurt enter already in Grade 1. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md. **Teacher material — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — "Making a house" modelled on a juice-box base (teacher-guide evidence) — what architecture and modelling are; marking and cutting coloured-paper parts for a house (teacher-guide evidence) | Book 11, printed p. 8 |
+
+Kazakhstan is added as teacher-material evidence only (see its rows above), kept outside the acceptance count.

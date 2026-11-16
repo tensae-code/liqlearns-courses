@@ -1,6 +1,6 @@
 # Sources — Traditional Games
 
-countries: Ethiopia, Iceland, Turkmenistan, Belarus, Bulgaria, Angola, Indonesia, China
+countries: Ethiopia, Iceland, Turkmenistan, Belarus, Bulgaria, Angola, Indonesia, China, Kazakhstan
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -54,7 +54,7 @@ countries: Ethiopia, Iceland, Turkmenistan, Belarus, Bulgaria, Angola, Indonesia
 |---|---|
 | Indonesia — Unit Pembelajaran 2 Menata Gerak Tari Kreasi Baru — traditional games as dance themes, named and described — Terompah Panjang/Bakiak (long wooden clogs walked in together), Lompat Tali, Petak Umpet, and Cublak-cublak Suweng of Central Java, Yogyakarta and East Java — with Bakiak, Cublak-cublak Suweng and Gobag Sodor dance videos appreciated (teacher guide — evidence; original target `drama-and-dance/traditional-games`) | Book 11, printed p. 89 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Turkmenistan, Belarus, Bulgaria, Angola, China).** Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 7 countries (Ethiopia, Turkmenistan, Belarus, Bulgaria, Angola, China, Kazakhstan).** Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Per STRUCTURE.md, the Practical Exercises chapter opener stocks into this lesson as its opening part; the opener's other strands (notes on drums, colour mixing, calligraphy, leaf printing) belong to their own lessons and are not stocked here, and its Review fold is carried by those same lessons. The games' songs (the Dimbushe Gela song, the Qilmosh counting song beyond the one refrain line the placement itself quotes, and ገመድ ዝለሉ Gemed Zilelu) are placed by name and shape only; verses are not transcribed.
 
@@ -73,3 +73,30 @@ Searchable tags: traditional games, ሰኞ ማክሰኞ, Senyo Maksenyo, ድብ�
 | China — Unit 6 童年的游戏 singing 打花巴掌， listening 陀螺： Childhood Games — the Clapping-Palms song; the Spinning Top heard (student book) | Book 12, printed pp. 44, 46 |
 
 China is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 13:** *Музыка, жалпы білім беретін мектептің 1-сыныбына арналған оқулық (Kulmanova Sh.B., Suleimenova B.R., Tokzhanov T.)* — Kazakhstan. Grade: 1 (student/teacher: STUDENT) Publisher: Atamura, Almaty; year not printed on the title page as rendered; ISBN not printed on the title page as rendered PDF pages: 144 (931.pdf) — title page verified against the record; image-only book read visually, contents at printed pp. 142-143 Verdict: COMPLETE Excluded per brief (named, not placed): the closing Glossary (printed p. 140) and the riddle answers (printed p. 141) are inventory/apparatus only. Kazakhstan's own way: a 33-lesson Kazakh-medium music year on the same eight themes, but sung from inside Kazakh life: kui for the four seasons, folk games in music, legends and tales in music, and the zhailau journey. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Lesson 23 "Folk games in music" — the people's games played with music (student book) | Book 13, printed p. 95 |
+
+**Book 14:** *Музыка, жалпы білім беретін мектептің 2-сыныбына арналған оқулық (Kulmanova Sh.B. et al.)* — Kazakhstan. Grade: 2 (student/teacher: STUDENT) Publisher: Atamura; years 2022 (985.pdf) and 2017 (60.pdf-recorded file 38.pdf) PDF pages: 144 each (985.pdf, 2022 ed. / 38.pdf, 2017 ed.) — titles verified against the records; both files are the Kazakh-medium Kulmanova book in two editions (contents compared, printed pp. 142-143); read in full from the 2022 edition with the 2017 edition spot-checked Verdict: COMPLETE Kazakhstan's own way: Kulmanova's Grade 2 year is the most Kazakh of the set: a kui contest, the sybyzgy flute's legend, the orteke, and Korkyt — the father of kui — stand at the centre of the listening programme. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — the book's games thread — folk games played to music (student book) | Book 14, printed  |
+
+**Book 15:** *Музыка, 2-сынып оқушыларына арналған оқулық (Orazalieva M.A. et al.)* — Kazakhstan. Grade: 2 (student/teacher: STUDENT) Publisher: Almatykitap Baspasy; year not printed in the extracted front matter PDF pages: 112 (1012.pdf) — title verified against the record; full text read, contents at printed pp. 110-111 (34 lessons in eight sections) Verdict: COMPLETE Kazakhstan's own way: Orazalieva's Kazakh-medium Grade 2 year names its heroes: "Korkyt — the father of kui" opens the traditions section, the orteke dances mid-year, the Zhaparapazan Ramadan song is sung, and a choir lesson teaches singing together. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — the book's games thread — the people's games with music (student book) | Book 15, printed pp. 110-111 |
+
+**Book 16:** *Музыка 4 — Құлманова Ш.Б., Сүлейменова Б.Р., Тоқжанов Т.Т.* — Kazakhstan. Grade: 4 (student/teacher: STUDENT) Publisher: Атамұра, Almaty; year 2019; ISBN 978-601-331-501-0 PDF pages: 160 = 160 in the record (cover and title pages LOOKED at and matched; record grade-04/gov/kazakhstan/muzyka/student/90.pdf) Verdict: COMPLETE (image-only book read page by page on contact sheets; all 34 lessons checked against the book's own contents, printed pp. 157–158). Every song is placed as a summary of what it is about and teaches — no lyrics transcribed. Kazakhstan's own way: the Kazakh-medium twin of the Grade 4 music year — same eight-section journey (Homeland, Values, Cultural Heritage, Professions, Nature, Environment, Space, Future) but built from Kazakh works: the kui line from «Ақсақ құлан» and Ykylas's kobyz to Tattimbet and the symphony orchestra, Estai and Zhayau Musa, Gaziza Zhubanova's «Хиросима» ballet, Baikonur and Didier Marouani, Jarre's laser harp and the Reactable. Excluded per brief (named, not placed): the eight «Біліміңді тексер» knowledge checks (printed pp. 18–19, 30–31, 50–51, 66–67, 89–91, 112–113, 126–127, 140–141, assessment); the crossword/crossword-answer pages (printed pp. 142–143, apparatus); the glossary (printed pp. 144–156, inventory-only). Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — 3-сабақ «Астанаға тарту» — the "Gift for Astana" game: the class splits into Artists, Singers and Dancers; each group researches the capital and prepares its own gift — a drawing, a song, a dance — then presents it; the song «Астанам» (A. Abikhanova) (student book; original target `drama-and-dance/musical-gift-games-for-the-capital`) | Book 16, printed p. 13 |
+| Kazakhstan — 6-сабақ — the game «Жасырынбақ» (Hide-and-Seek): two teams find the words about respect hidden inside counsel verses, then sing the found words to a given notation together (student book; original target `drama-and-dance/hidden-words-song-game`) | Book 16, printed p. 26 |
+
+Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count.

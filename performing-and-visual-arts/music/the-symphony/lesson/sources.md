@@ -1,6 +1,6 @@
 # Sources — The Symphony
 
-countries: Moldova, North Macedonia
+countries: Moldova, North Macedonia, Kazakhstan
 
 **Book 1:** *Educație muzicală: Manual pentru clasa a VI-a* (student book, Romanian) — Moldova, Î.E.P. Știința, Chișinău; year 2024; ISBN 978-9975-85-445-0 Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 74 (72 printed pages plus covers; cover and CIP page verified against the record). Verdict: COMPLETE. Excluded per standing rules: the four Evaluare (assessment) sections, printed pp. 26, 38, 55, 72 — assessment only, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
 
@@ -8,7 +8,7 @@ countries: Moldova, North Macedonia
 |---|---|
 | Moldova — Unit 4, Genul de simfonie — the symphony: a great work for orchestra, "a sonata for orchestra", Haydn its father (104 symphonies), Mozart its strengthener, Beethoven its philosopher — through Mozart's Symphony No. 25 in G minor, written at 17, and the classical symphony's four-movement plan (student book; original target `music/the-symphony`) | Book 1, printed pp. 69–70 |
 
-**Acceptance count: taught in 2 countries (Moldova, North Macedonia).**
+**Acceptance count: taught in 3 countries (Moldova, North Macedonia, Kazakhstan).**
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/the-symphony`). The Moldova placements were filed as NEW LESSON NEEDED under the original string(s) `music/the-symphony`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Moldova's own way is the lesson itself where the topic is Moldovan: the country's own music, dances, crafts and art forms are kept as named parts. Songs are placed by title and theme only, never transcribed.
 
@@ -28,3 +28,11 @@ Searchable tags: Moldova, The Symphony, Genul de simfonie
 | North Macedonia — Симфонија — the symphony: the orchestral sonata-cycle of two dualistic themes worked out and reconciled, grown from the three-movement Italian overture with a minuet inserted; its foundations laid by the Mannheim school, and Haydn, with 108 symphonies, its greatest perfecter (student book; original target `music/the-symphony`) | Book 3, printed p. 65 |
 
 North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 4:** *Музыка. Учебник для 6 класса общеобразовательной школы / Музыка (6-сынып)* — Kazakhstan. Grade 6 (STUDENT) Publisher: «Қазақ энциклопедиясы», Almaty; 2018; ISBN 978-601-7967-04-8 (Russian ed.), 978-601-7967-03-1 (Kazakh ed.) Authors: Мусахаджаева А., Сабырова А., Абугазы М., Гизатова Г. PDF pages: 144 (Russian record, read in full from its text layer) / 136 (Kazakh record, spot-checked — its table of contents lists the same 34 lessons in the same order and titles; parallel edition, placed once) Records covered: grade-06/gov/kazakhstan/muzyka/student (Russian ed., 144 pp) and its Kazakh parallel (136 pp) — targets-kz-b idx16 + idx15 Verdict: COMPLETE Kazakhstan's own way: the year is built as four quarters of listening, singing and a research project each quarter; Kazakh professional music is taught in three layers — oral-professional instrumental (kui), oral-professional song (sal/seri), and written professional music — and every world topic (jazz, estrada, cinema, games) is paired with its Kazakh counterpart and a Kazakh singer or composer. Named but not placed: Glossary (Глоссарий), printed pp. 131–143 — inventory only, per brief. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Lesson 2 «Симфоническая музыка» — what it teaches: symphonic music through classicism (Haydn, Mozart, Beethoven and the four-part symphony), romanticism and impressionism; Mozart's Symphony No. 40 first movement taken apart in sonata form (student book; original target `music/symphonic-music-and-the-symphony`) | Book 4, printed p. 11 |
+
+Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count.

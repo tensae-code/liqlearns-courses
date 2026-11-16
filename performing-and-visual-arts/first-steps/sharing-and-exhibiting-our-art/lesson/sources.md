@@ -1,6 +1,6 @@
 # Sources — Sharing and Exhibiting Our Art
 
-countries: Turkmenistan, Syria, China, Vietnam
+countries: Turkmenistan, Syria, China, Vietnam, Kazakhstan
 
 **Book 1:** *Surat — Umumy orta bilim berýän mekdepleriň I synpy üçin okuw kitaby (Art — textbook for Grade 1 of general secondary schools), Dördünji neşir (4th edition)* (student book, Turkmen) — Turkmenistan, by Wepa Amangeldiýew, Döwletgeldi Akyýew; Türkmen döwlet neşirýat gullugy (Turkmen State Publishing Service), Ashgabat, 2022, no ISBN printed, Grade 1, 80 PDF pp. STUDENT. Recommended by the Ministry of Education of Turkmenistan. Verdict: COMPLETE. The repo tree path is a PHANTOM PUSH (HTTP 404); the book was fetched from the recorded kitaphana.bilim.tm source via the library's own API file link, 79,070,978 bytes and 80 pages, matching the record exactly, and the copy is staged under the push-don't-delete rule. Placements at liqlearns-courses-work/expansion-art-2026-11-16/turkmenistan-placements.md.
 
@@ -22,7 +22,7 @@ countries: Turkmenistan, Syria, China, Vietnam
 |---|---|
 | Syria — Closing exhibition — "An Exhibition of Our Pupils' Works in Our Schools" — pages of the exhibition: works by our children in varied materials, drawings of children from my country in different techniques, and the child's panel — exchanging opinions: when we draw we must draw from our memory and not copy others (student book; original target `culture-and-values/exhibiting-and-talking-about-your-art`) | Book 3, printed p. 60 |
 
-**Acceptance count: taught in 4 countries (Turkmenistan, Syria, China, Vietnam). Syria is added as student-book stock (see its rows above), inside the acceptance count.**
+**Acceptance count: taught in 5 countries (Turkmenistan, Syria, China, Vietnam, Kazakhstan). Syria is added as student-book stock (see its rows above), inside the acceptance count.**
 
 This is a canonical NEW lesson (slug-registry Part 1: `first-steps/sharing-and-exhibiting-our-art`); the Turkmenistan placement(s) were filed as NEW LESSON NEEDED under the original string `first-steps/showing-and-sharing-our-art`, recorded in the provenance row(s) above and resolved to this lesson by slug-registry Part 2. This canonical lesson is built from the Turkmenistan placement filed under the original string `first-steps/showing-and-sharing-our-art`, resolved here by slug-registry Part 2. The four review lessons themselves are excluded as apparatus, exactly as filed; only their standing exhibition task is placed. Songs and stories are placed by summary only, never transcribed.
 
@@ -81,3 +81,23 @@ China is added as student-book stock (see its rows above), inside the acceptance
 | Vietnam — Bài 2 — Tổ chức hoạt động triển lãm mĩ thuật trong nhà trường (organising an art exhibition in school — determining display content and space, building and carrying out the exhibition plan, presenting and introducing the works, and judging the exhibition's aesthetic effect) (student book; original target `first-steps/organising-a-school-art-exhibition`) | Book 11, printed p. 14 |
 
 Vietnam is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 12:** *Музыка, учебник для учащихся 1 класса общеобразовательной школы (Russian edition: Sadovskaya I.A., Urazalieva M.A., Pleshakova T.B.) / Музыка, 1-сынып оқушыларына арналған оқулық (Kazakh edition: Orazalieva M.A., Omarova S.K.)* — Kazakhstan. Grade: 1 (student/teacher: STUDENT) Publisher: Almatykitap Baspasy; year 2019 (both title pages) PDF pages: 96 (17.pdf, Russian) / 96 (8.pdf, Kazakh) — title pages verified against the records (the record titles both name Sadovskaya; the Kazakh file's printed authors are Orazalieva/Omarova — a record-title inaccuracy, see group log); the two editions carry the same 33 lessons in the same order (contents compared in full, printed pp. 94-95 of each), read in full from the Russian text with the Kazakh edition spot-checked (cover, contents, two spreads) Verdict: COMPLETE Kazakhstan's own way: the Almatykitap first music book sings the child's own day — acquaintance, mood, voice — and reaches the nation through the State Anthem at the front, folk tales, folk dances and the Nauryz welcome. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Lesson 33 "Festival of arts: Goodbye, first grade!" — the year's arts gathered into one festival (student book; original target `first-steps/art-festival`) | Book 12, printed p. 86 |
+
+**Book 13:** *Еңбекке баулу, жалпы білім беретін мектептің 3-сыныбына арналған оқулық (Syzdykov A.M., Seitmoldinov D.N., Baybakisheva M.K.)* — Kazakhstan. Grade: 3 (student/teacher: STUDENT) Publisher: Nazarbayev Intellectual Schools (NIS), Astana; year 2024; ISBN 978-601-348-589-8 PDF pages: 137 (1573.pdf) — cover and colophon verified against the record; image-only book read in full on contact sheets, contents at printed p. 133 Verdict: COMPLETE Excluded per brief (named, not placed): the Glossary (printed pp. 129-131) is inventory only; the recurring "What did you learn?" section closers are review apparatus. Kazakhstan's own way: the NIS labour book teaches research habits (Анықта / Зертте — "find out / investigate") inside the craft lesson: the baskur's ornaments are decoded before one is cut, a birdhouse is built to a measured drawing, and waste is studied as a material with a Turkish artist's portraits as the model. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Topic 16 "Exhibition of creative works" — how an exhibition is made: exhibits (zhadiger), labels and podiums; a podium built and the class exhibition held (student book; original target `first-steps/art-festival`) | Book 13, printed pp. 59-62 |
+
+**Book 14:** *Еңбекке баулу 3, Мұғалімге арналған нұсқаулық (Syzdykov A.M., Seitmoldinov D.N., Baybakisheva M.K.)* — Kazakhstan. Grade: 3 (student/teacher: TEACHER) Publisher: Nazarbayev Intellectual Schools (NIS), Astana; year 2024; ISBN 978-601-348-588-1 PDF pages: 177 (1572.pdf) — cover verified; NOTE: this record is catalogued as a STUDENT book in the targets list, but the file is the teacher guide (see the group log's library debts); the matching student book is Book 29 (1573.pdf) Verdict: COMPLETE (guide read: contents, curriculum framework and long-term plan verified against Book 29's 34 topics, which it mirrors lesson for lesson) Kazakhstan's own way: the NIS guide frames the whole Grade 3 labour year as a maker's cycle — explore materials, make the creative work, present and judge it — with soft skills named as the subject's real product. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md. **Teacher material — EVIDENCE only, kept outside the acceptance count.**
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Curriculum section 3 "Presentation, analysis and evaluation" (guide's framework) — presenting one's work, analysing classmates' works and evaluating by criteria (teacher-guide evidence; original target `first-steps/art-festival`) | Book 14, printed pp. 7-8 (teacher-guide evidence) |
+
+Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count; its teacher-material rows are evidence only, kept outside the acceptance count.

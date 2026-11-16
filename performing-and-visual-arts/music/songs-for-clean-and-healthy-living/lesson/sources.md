@@ -1,6 +1,6 @@
 # Sources — Songs for Clean and Healthy Living
 
-countries: Ethiopia, Rwanda, Syria, China
+countries: Ethiopia, Rwanda, Syria, China, Kazakhstan
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 96 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -87,7 +87,7 @@ countries: Ethiopia, Rwanda, Syria, China
 |---|---|
 | Syria — Lesson 19 "My Environment" — observing the picture and defining the problem and an immediate solution; singing in French to the teacher's playing — "La pollution, ce n'est…" — the pollution song (student book; original target `music/songs-for-clean-and-healthy-living`) | Book 14, printed p. 48 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Rwanda, Syria, China). Syria is added as student-book stock (see its rows above), inside the acceptance count.**
+**Acceptance count: taught in 5 countries (Ethiopia, Rwanda, Syria, China, Kazakhstan). Syria is added as student-book stock (see its rows above), inside the acceptance count.**
 
 The Grade 4 teacher-guide part is syllabus-level evidence only (its Ch. 5 detail sits in the guide's syllabus tables), and it is labelled as such; the lesson's taught content stands on the two student textbooks. The placements ask for a GIF of the full handwashing sequence; a ten-step sequence cannot be drawn truthfully in a two-second loop, so no handwashing GIF was filed — the numbered ten-panel picture and the sing-along audio slot carry the sequence instead.
 
@@ -100,3 +100,30 @@ Searchable tags: clean living songs, handwashing, ten steps, science science, ke
 | China — Unit 2 健康歌 歌表演 健康歌， singing 小雪橇： the Health Song sung and acted; the Little Sled sung (student book) | Book 15, printed pp. 10, 12 |
 
 China is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 16:** *Музыка, жалпы білім беретін мектептің 1-сыныбына арналған оқулық (Kulmanova Sh.B., Suleimenova B.R., Tokzhanov T.)* — Kazakhstan. Grade: 1 (student/teacher: STUDENT) Publisher: Atamura, Almaty; year not printed on the title page as rendered; ISBN not printed on the title page as rendered PDF pages: 144 (931.pdf) — title page verified against the record; image-only book read visually, contents at printed pp. 142-143 Verdict: COMPLETE Excluded per brief (named, not placed): the closing Glossary (printed p. 140) and the riddle answers (printed p. 141) are inventory/apparatus only. Kazakhstan's own way: a 33-lesson Kazakh-medium music year on the same eight themes, but sung from inside Kazakh life: kui for the four seasons, folk games in music, legends and tales in music, and the zhailau journey. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Section 7 "Food and drink", Lessons 26-29 — "Foods in the world of music"; "Serving the food"; "The melody of fruits"; "Fruits" (student book) | Book 16, printed pp. 110-120 |
+
+**Book 17:** *Музыка, учебник для учащихся 1 класса общеобразовательной школы (Russian edition: Sadovskaya I.A., Urazalieva M.A., Pleshakova T.B.) / Музыка, 1-сынып оқушыларына арналған оқулық (Kazakh edition: Orazalieva M.A., Omarova S.K.)* — Kazakhstan. Grade: 1 (student/teacher: STUDENT) Publisher: Almatykitap Baspasy; year 2019 (both title pages) PDF pages: 96 (17.pdf, Russian) / 96 (8.pdf, Kazakh) — title pages verified against the records (the record titles both name Sadovskaya; the Kazakh file's printed authors are Orazalieva/Omarova — a record-title inaccuracy, see group log); the two editions carry the same 33 lessons in the same order (contents compared in full, printed pp. 94-95 of each), read in full from the Russian text with the Kazakh edition spot-checked (cover, contents, two spreads) Verdict: COMPLETE Kazakhstan's own way: the Almatykitap first music book sings the child's own day — acquaintance, mood, voice — and reaches the nation through the State Anthem at the front, folk tales, folk dances and the Nauryz welcome. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Section "Food and drinks", Lessons 26-29 — "The musical dastarkhan: welcoming guests"; "Musical colours"; "The adventures of vegetables and fruits"; "A concert of fruits and vegetables" (student book) | Book 17, printed pp. 70-76 |
+| Kazakhstan — Lesson 32 "Cleanliness is the pledge of health" — health sung as a rule of life (student book) | Book 17, printed p. 84 |
+
+**Book 18:** *Музыка, жалпы білім беретін мектептің 2-сыныбына арналған оқулық (Kulmanova Sh.B. et al.)* — Kazakhstan. Grade: 2 (student/teacher: STUDENT) Publisher: Atamura; years 2022 (985.pdf) and 2017 (60.pdf-recorded file 38.pdf) PDF pages: 144 each (985.pdf, 2022 ed. / 38.pdf, 2017 ed.) — titles verified against the records; both files are the Kazakh-medium Kulmanova book in two editions (contents compared, printed pp. 142-143); read in full from the 2022 edition with the 2017 edition spot-checked Verdict: COMPLETE Kazakhstan's own way: Kulmanova's Grade 2 year is the most Kazakh of the set: a kui contest, the sybyzgy flute's legend, the orteke, and Korkyt — the father of kui — stand at the centre of the listening programme. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Lessons 27-30 — food, the table and health in song (student book) | Book 18, printed  |
+
+**Book 19:** *Музыка, 2-сынып оқушыларына арналған оқулық (Orazalieva M.A. et al.)* — Kazakhstan. Grade: 2 (student/teacher: STUDENT) Publisher: Almatykitap Baspasy; year not printed in the extracted front matter PDF pages: 112 (1012.pdf) — title verified against the record; full text read, contents at printed pp. 110-111 (34 lessons in eight sections) Verdict: COMPLETE Kazakhstan's own way: Orazalieva's Kazakh-medium Grade 2 year names its heroes: "Korkyt — the father of kui" opens the traditions section, the orteke dances mid-year, the Zhaparapazan Ramadan song is sung, and a choir lesson teaches singing together. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Section VII, Lessons 27-30 — food and health in song (student book) | Book 19, printed pp. 110-111 |
+
+Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count.

@@ -1,6 +1,6 @@
 # Sources — Kinetic Art and Moving Sculpture
 
-countries: Serbia, North Macedonia, Greece
+countries: Serbia, North Macedonia, Greece, Kazakhstan
 
 **Book 1:** *Ликовна култура — за 2. разред основне школе (Likovna kultura / Visual Culture — for Grade 2 of primary school)* (student book, Serbian) — Serbia, by др Рајка Бошковић (Dr Rajka Bošković); Завод за уџбенике (Zavod za udžbenike), Београд, and АрхиКњига (Arhiknjiga), Стара Пазова; first edition 2019 (the Arhiknjiga issue ©2021); ISBN 978-86-17-20168-3; approved for Grade 2 use by ministerial decision 650-02-00159/2019-07 of 21 May 2019, Grade 2, 56 PDF pp. (the printed book has 55 pages). STUDENT — student book. Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read (image-only PDF read visually from page renders). The record's title adds "и окружење" (and environment) — the curriculum area name, which the book's Part One carries as its title. Named, not placed: the three part summaries "НАУЧИЛИ СМО ДА..." (We learned that..., printed pp. 14, 42, 54), the closing contents (printed p. 55) and colophon — inventory only; the think boxes (РАЗМИСЛИ...) are discussion prompts folded into their lessons. Placements at liqlearns-courses-work/expansion-art-2026-11-16/serbia-placements.md.
 
@@ -8,7 +8,7 @@ countries: Serbia, North Macedonia, Greece
 |---|---|
 | Serbia — "Moving sculptures" — during the 20th century artists took up new ways of artistic work; one new kind of artwork is sculptures of different materials that move — their parts move at the slightest breath of wind — and such works are called moving sculptures (Calder's mobiles pictured, hanging and standing); using wire, sticky tape and pieces of coloured collage paper, make a sculpture of an animal of your choice, but such that its parts can flutter in a current of air (original target `visual-art/kinetic-sculpture-and-mobiles`) | Book 1, printed pp. 40–41 |
 
-**Acceptance count: taught in 3 countries (Serbia, North Macedonia, Greece).**
+**Acceptance count: taught in 4 countries (Serbia, North Macedonia, Greece, Kazakhstan).**
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/kinetic-art-and-moving-sculpture`); the Serbia placements were filed under the original string(s) `visual-art/kinetic-sculpture-and-mobiles`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Serbia's own way: the moving sculpture is taught as a making first — the child's own wire-and-paper animal must flutter in a current of air, as Calder's mobiles hang and stand in the book's pictures.
 
@@ -47,3 +47,11 @@ North Macedonia is added as student-book stock (see its rows above), inside the 
 | Greece — Unit Δ Δ5: Γλυπτά που πάλλονται (sculptures that vibrate — moving/kinetic sculpture) (student book; original target `visual-art/kinetic-sculpture`) | Book 6, printed p. 85 |
 
 Greece is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 7:** *Көркем еңбек 4 / Художественный труд 4 — Раупова Н.А., Төлебиев Ә.Т., Дашкевич Е.В.* — Kazakhstan. Grade: 4 (student/teacher: STUDENT) Publisher: Атамұра, Almaty; year 2019; ISBN 978-601-331-497-6 (Kazakh edition, printed in the book) PDF pages: 144 = 144 in the record (covers and title pages LOOKED at and matched; Russian edition spot-checked — cover, contents and two spreads identical in content and pagination, so the book is placed once for both editions; records grade-04/…/hudozhestvennyj-trud/student/91.pdf Kazakh and student/113.pdf Russian) Verdict: COMPLETE (image-only book read page by page on contact sheets) Kazakhstan's own way: a full-year visual-art course in eight sections that keeps returning to Kazakhstan itself — its landscapes painted with aerial perspective, its Silk Road mausoleums, the yurt's felt art and ornament families, national dress and silver jewellery — alongside world art (Impressionism, poster art, space art). Excluded per brief (named, not placed): the eight unit review/assessment pages «Таныстыру, талдау және бағалау» (printed pp. 20, 38, 58, 70, 86, 98, 112, 125); the end-of-year summary (printed pp. 126–130); the glossary «Қысқаша сөздік» (printed pp. 131–138, inventory-only); safety rules for art lessons (printed p. 139, apparatus). Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — «Айналмалы-ілмелі суреттер жасаймыз» — making rotating hanging pictures: a group mobile of drawings and photos of one natural phenomenon at different times, hung on threads (student book; original target `visual-art/hanging-mobile-pictures`) | Book 7, printed p. 80 |
+
+Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count.

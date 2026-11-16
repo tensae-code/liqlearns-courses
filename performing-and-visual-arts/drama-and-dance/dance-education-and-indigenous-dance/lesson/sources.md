@@ -1,6 +1,6 @@
 # Sources — Dance Education and Indigenous Dance
 
-countries: Ethiopia, Samoa, Trinidad and Tobago, Venezuela, Indonesia, Armenia, China
+countries: Ethiopia, Samoa, Trinidad and Tobago, Venezuela, Indonesia, Armenia, China, Kazakhstan
 
 **Book 1:** *Grade 7 Performing and Visual Arts Teacher's Guide Book* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. (September 2021), printed pp. 1–161 as promised by its contents; the library file is TRUNCATED — its body ends at printed p.109, and Units 4–5 are placed from its contents and syllabus only. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g07-teacher-placements.md.
 
@@ -75,7 +75,7 @@ countries: Ethiopia, Samoa, Trinidad and Tobago, Venezuela, Indonesia, Armenia, 
 | Armenia — Dance (Պար) — dance introduced as an art type, movement as expression (student book; original target `drama-and-dance/dance-education-and-indigenous-dance`) | Book 13, printed p. 15 |
 
 
-**Acceptance count: taught in 3 countries (Venezuela, Armenia, China) — this lesson stands on teacher-guide evidence only (Ethiopia), named here, counted nowhere.** Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 4 countries (Venezuela, Armenia, China, Kazakhstan) — this lesson stands on teacher-guide evidence only (Ethiopia), named here, counted nowhere.** Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This lesson stands on the Grade 7 teacher guide (printed pp. 86–94) as labelled evidence, including its Paleolithic rock-painting history and its Wolayta Seleme-Seleme viewing example.
 
@@ -88,3 +88,11 @@ Searchable tags: dance education, indigenous dance, Wolayta, Seleme-Seleme, purp
 | China — Unit 1 走近舞蹈： the origins of dance (in labour, ritual and social life) and the kinds of dance (student book) | Book 14, printed pp. 4–9 |
 
 China is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 15:** *Бейнелеу өнері 4, жалпы білім беретін мектептің 4-сыныбына арналған оқулық (Mamyrova A.T., Ormanbekova G.K., Sukhaeva D.A.)* — Kazakhstan. Grade: 4 (student/teacher: STUDENT) Publisher: Mektep, Almaty; year 2025; ISBN 978-601-07-1724-4 PDF pages: 144 each — 1464.pdf read in full on contact sheets (contents at printed p. 142); 1462.pdf is a second scan of the same book (cover verified identical) RECORD MISMATCH (library debt): record 1462.pdf is catalogued as Tolebiev's Grade 4 visual art book, but the file behind it is this Mamyrova book — no Tolebiev Grade 4 Kazakh book was obtained from that record. Verdict: COMPLETE Excluded per brief (named, not placed): the Glossary (printed p. 139) is inventory only; the section-closing "Қорытынды" pages are review apparatus. Kazakhstan's own way: the Mektep Grade 4 course is organised as journeys — My wide Kazakhstan, Cultural heritage, Ancestors' treasure — and its craft summit is kiiz basu: children felt a tekemet and a syrmak themselves, wet and dry, and even "paint" with wool. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Lesson 11 "The art of dance" — dynamics and proportion: how artists show movement (Ysmailova's Kazakh dance paintings); a dancing figure drawn in stages with an emotion (student book; original target `drama-and-dance/dance-and-movement`) | Book 15, printed pp. 48-51 |
+
+Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count.

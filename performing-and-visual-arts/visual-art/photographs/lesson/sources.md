@@ -1,6 +1,6 @@
 # Sources — Photographs
 
-countries: Ethiopia, Guatemala, Albania, Iran, Brazil, Cuba, Angola, Moldova, Syria, North Macedonia, Greece, Vietnam
+countries: Ethiopia, Guatemala, Albania, Iran, Brazil, Cuba, Angola, Moldova, Syria, North Macedonia, Greece, Vietnam, Kazakhstan
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -51,7 +51,7 @@ countries: Ethiopia, Guatemala, Albania, Iran, Brazil, Cuba, Angola, Moldova, Sy
 |---|---|
 | Syria — Lesson 29 "From Human Heritage: The Camera" — humanity's drive to document by image, from cave drawing to Ibn al-Haytham founding optics and the camera (qamara), drawing a person photographing with an old camera (student book; original target `visual-art/photographs`) | Book 11, printed p. 61 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Iran, Brazil, Cuba, Angola, Moldova, Syria, North Macedonia, Greece, Vietnam). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 11 countries (Ethiopia, Iran, Brazil, Cuba, Angola, Moldova, Syria, North Macedonia, Greece, Vietnam, Kazakhstan). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 Honesty notes: every photograph in this lesson is described only as its placement describes it — the Sof Omar cave as a cave entrance in rock, the Tis Abay Falls as a wide waterfall, Bete Giyorgis as the rock-hewn church of St George at Lalibela, the Axum stele standing among ruins, Fasilides' castle at Gondar, Abebe Bikila running on a stadium track in a race, the walia standing on rocks against the sky, the Abbay Dam as a dam wall with water pouring through, and the market, harvest, landscape and aeroplane photographs as the Grade 2 figures name them. No photographic detail beyond the placements has been added. The Grade 3 page (Book 2, p. 68) also carries a chapter summary and closing exercise and a Review placement for Appreciating the Arts; only its two photographs and the "which pleased you" activity are stocked here, as the structure map directs — the review fold belongs to the First Steps appreciating lesson.
 
@@ -148,3 +148,11 @@ Greece is added as student-book stock (see its rows above), inside the acceptanc
 | Vietnam — Topic 3 Bài 2, Apply — gathering material for the figure composition through photography and sketching — photography (framing) — choose a topic (a market corner, workers' labour scenes at a construction site or factory, family living scenes, festival scenes), choose groups of people that have composition by the figure-composition knowledge learned, and shoot small groups of few people; sketching (composition) — sketch each group of three to four figures in simple strokes, with composition, adding objects to create linkage between the figures (student book) | Book 23, printed p. 61 |
 
 Vietnam is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 24:** *Көркем еңбек 4 / Художественный труд 4 — Раупова Н.А., Төлебиев Ә.Т., Дашкевич Е.В.* — Kazakhstan. Grade: 4 (student/teacher: STUDENT) Publisher: Атамұра, Almaty; year 2019; ISBN 978-601-331-497-6 (Kazakh edition, printed in the book) PDF pages: 144 = 144 in the record (covers and title pages LOOKED at and matched; Russian edition spot-checked — cover, contents and two spreads identical in content and pagination, so the book is placed once for both editions; records grade-04/…/hudozhestvennyj-trud/student/91.pdf Kazakh and student/113.pdf Russian) Verdict: COMPLETE (image-only book read page by page on contact sheets) Kazakhstan's own way: a full-year visual-art course in eight sections that keeps returning to Kazakhstan itself — its landscapes painted with aerial perspective, its Silk Road mausoleums, the yurt's felt art and ornament families, national dress and silver jewellery — alongside world art (Impressionism, poster art, space art). Excluded per brief (named, not placed): the eight unit review/assessment pages «Таныстыру, талдау және бағалау» (printed pp. 20, 38, 58, 70, 86, 98, 112, 125); the end-of-year summary (printed pp. 126–130); the glossary «Қысқаша сөздік» (printed pp. 131–138, inventory-only); safety rules for art lessons (printed p. 139, apparatus). Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — photographing one city view at different times of day and analysing how its colour harmony changes (Almaty canal photographs) (student book) | Book 24, printed p. 75 |
+
+Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count.

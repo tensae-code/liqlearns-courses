@@ -1,6 +1,6 @@
 # Sources — Beat Instruments
 
-countries: Ethiopia, Malta, Colombia, Bulgaria, Libya, Angola, Bolivia, Armenia, China
+countries: Ethiopia, Malta, Colombia, Bulgaria, Libya, Angola, Bolivia, Armenia, China, Kazakhstan
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 85 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -45,7 +45,7 @@ countries: Ethiopia, Malta, Colombia, Bulgaria, Libya, Angola, Bolivia, Armenia,
 | Armenia — Rain and beat instruments — the rain page pictures maracas, tambourine and drum: shaken and struck instruments that sound like weather; listening: Pashinyan's "Andzrev" (student book; original target `music/beat-instruments`) | Book 12, printed p. 22 |
 
 
-**Acceptance count: taught in 7 countries (Ethiopia, Colombia, Bulgaria, Angola, Bolivia, Armenia, China).** Malta is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 8 countries (Ethiopia, Colombia, Bulgaria, Angola, Bolivia, Armenia, China, Kazakhstan).** Malta is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 The Grade 3 closing exercise asks whether the atamo is one of the church beat instruments; the book's own §2.1.2 teaching places the atamo in secular music, and the lesson teaches that — the exercise item is carried in sources only, exactly as printed, and is not taught as church use. The bell, qachil and tsenatsil are named in this lesson's set because the book lists them in it; their teaching lives in the Church Instruments lesson, from the same page.
 
@@ -105,3 +105,11 @@ Searchable tags: beat instruments, percussion, atamo, አታሞ, kebero, ከበ�
 | China — Unit 3 §10 打击乐器： Western percussion — main instruments and representative techniques (student book) | Book 15, printed pp. 35–37 |
 
 China is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 16:** *Музыка 4 — Горчакова Е.Б., Плешакова Т.Б.* — Kazakhstan. Grade: 4 (student/teacher: STUDENT) Publisher: Алматыкітап, Almaty; year 2019; no ISBN printed on the pages read PDF pages: 98 = 98 in the record (cover and title pages LOOKED at and matched; record grade-04/gov/kazakhstan/muzyka/student/112.pdf) Second record named in this book: grade-04/gov/kazakhstan/muzyka/student/1252.pdf — the 2023 reprint of the same book (104 PDF pages): cover, contents and spot-checked spreads identical, same printed pagination; the extra pages are a «Музыкальная шпаргалка» revision cheat-sheet at the back (apparatus only, not placed). Verdict: COMPLETE (image-only book read page by page on contact sheets; all 34 lessons checked against the book's own contents, printed pp. 96–97). Every song is placed as a summary of what it is about and teaches — no lyrics transcribed. Kazakhstan's own way: a listening-and-singing year that keeps circling home — the musical map of Kazakhstan, the kui tradition from Kurmangazy to the symphonic kui, zhyrau, akyn, sal and seri, Abai — set inside world music from Verdi and Grieg to space music and computer music. Excluded per brief (named, not placed): the emotional dictionary (printed p. 92, a word list — inventory-only) and the glossary (printed pp. 93–95, inventory-only). Lesson 34's year review is assessment in form; its new song is placed. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — §5 «Природные явления», 17. Природные явления. Земля — percussion instruments, the oldest family: unpitched (cymbals, drums) and pitched (xylophone, celesta); Grieg's Peer Gynt — "Morning" and "In the Hall of the Mountain King"; the dangyra chant worked for rhythm (student book) | Book 16, printed p. 47 |
+
+Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count.

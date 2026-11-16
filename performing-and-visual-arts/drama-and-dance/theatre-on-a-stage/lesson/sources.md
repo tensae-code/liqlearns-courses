@@ -1,6 +1,6 @@
 # Sources — Theatre on a Stage
 
-countries: Ethiopia, Egypt, Honduras, Singapore, Brazil, Jordan, Sri Lanka, Venezuela, Rwanda, Armenia, Greece
+countries: Ethiopia, Egypt, Honduras, Singapore, Brazil, Jordan, Sri Lanka, Venezuela, Rwanda, Armenia, Greece, Kazakhstan
 
 **Book 2:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -57,7 +57,7 @@ countries: Ethiopia, Egypt, Honduras, Singapore, Brazil, Jordan, Sri Lanka, Vene
 | Armenia — Structure of the theatre building (Թատերական շինության կառուցվածքը) — how the Greek theatre building was laid out (student book; original target `drama-and-dance/theatre-on-a-stage`) | Book 16, printed p. 72 |
 
 
-**Acceptance count: taught in 8 countries (Ethiopia, Egypt, Honduras, Brazil, Jordan, Venezuela, Armenia, Greece). Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 9 countries (Ethiopia, Egypt, Honduras, Brazil, Jordan, Venezuela, Armenia, Greece, Kazakhstan). Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 The Grade 5 row is the series' own deepening of the same stage idea (its elements list — setting, character, plot, script, theme — is named in the provenance row only; the lesson's teaching stays at the Grade 2 stage picture and the menibanib, exactly as STRUCTURE.md groups them).
 
@@ -101,3 +101,11 @@ Searchable tags: theatre on a stage, stage, audience, curtains, መነባንብ,
 | Greece — Zone 5: Ο χώρος (space — the playing space) (student book) | Book 19, printed  |
 
 Greece is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 20:** *Музыка, жалпы білім беретін мектептің 3-сыныбына арналған оқулық (Kulmanova Sh., Suleimenova B., Tokzhanov T., Makhametova Zh.)* — Kazakhstan. Grade: 3 (student/teacher: STUDENT) Publisher: Atamura, Almaty; year 2018 (edition of the A. Baikadamova Institute of Harmonious Human Development) PDF pages: 165 (1001.pdf) and 160 (60.pdf) — two scans of the same book; 60.pdf read in full from its text layer, contents at printed pp. 158-159; 1001.pdf cover verified identical Verdict: COMPLETE Excluded per brief (named, not placed): song lyrics are summarised, never transcribed; the year-end review tasks inside Lesson 26 "Musical kaleidoscope" are revision apparatus, the lesson itself is placed for its listening survey. Kazakhstan's own way: the Kazakh-track Grade 3 book is the most Kazakh of the wave — terme and aitys taught as genres, the zhetygen "come down from antiquity", the sal-seris of the Great Steppe, and Akhmet Zhubanov founding the Kazakh orchestra. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Lesson 16 "Theatres of the world" — the great theatres and what happens in them (student book; original target `drama-and-dance/going-to-the-theatre`) | Book 20, printed p. 69 |
+
+Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count.

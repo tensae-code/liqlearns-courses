@@ -1,6 +1,6 @@
 # Sources — Handmade Cards and Gifts
 
-countries: Mongolia
+countries: Mongolia, Kazakhstan
 
 **Book 1:** *ДҮРСЛЭХ УРЛАГ, ТЕХНОЛОГИ I — Ерөнхий боловсролын сургуулийн 1 дүгээр ангийн сурах бичиг (Visual Art & Technology 1, textbook for grade 1 of the general education school)* (student book, Mongolian) — Mongolia, Боловсрол, Соёл, Шинжлэх Ухаан, Спортын Яам (Ministry of Education, Culture, Science and Sports), Ulaanbaatar; cover edition 2020 (bibliographic record: UB 2014, 76 pages); authors' team led by Д.Цэдэн-Иш (D. Tseden-Ish), editor С.Нямсүрэн; ISBN 978-99973-69-53-6. Grade 1 (student book: STUDENT). Read as the ministry flipbook's 78 page images = cover + printed pp. 1–76 + back cover; every printed page read. Verdict: COMPLETE. Combined Visual Art & Technology volume: Part II (printed pp. 44–74) is the design-and-making strand — paper, leaf and clay construction, including simple models — placed as art-making; no electronics, machines or other non-art technology content exists in the volume. Exclusions named, not placed: Foreword (printed p. 5); the two poems and the song are placed by name and theme only — no verse text transcribed; Bibliography (printed p. 75 — inventory only). No PDF exists in the repo for this book — the library record is a PHANTOM PUSH (the repo holds no copy, in the tree or in any release); the book was read from the record's own recorded source, the Ministry's econtent.edu.mn flipbook edition, page-image by page-image — the same ministry book, verified by cover, imprint and ISBN against the record. The phantom-push debt stands for the library. Placements at liqlearns-courses-work/expansion-art-2026-11-16/mongolia-placements.md.
 
@@ -14,8 +14,17 @@ countries: Mongolia
 |---|---|
 | Mongolia — Part II: Төрөл бүрийн материал ашиглах (Using all kinds of materials) — bookmarks: a folded oblong bookmark decorated with shiny beads and a ribbon, glued at the book's top; a fancy bookmark made as a keepsake for a friend; bookmarks for the class library's books; and paperclip bookmarks tied with ribbon bows and beaded (student book; original target `visual-art/cards-and-gifts-we-make`) | Book 2, printed pp. 69–70 |
 
-**Acceptance count: taught in 1 country (Mongolia).**
+**Acceptance count: taught in 2 countries (Mongolia, Kazakhstan).**
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/handmade-cards-and-gifts`); the Mongolia placements were filed as NEW LESSON NEEDED under the original strings recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Songs are placed by name and theme only, never transcribed.
 
 Searchable tags: Handmade Cards and Gifts, Mongolia
+
+**Book 3:** *Көркем еңбек 4 / Художественный труд 4 — Раупова Н.А., Төлебиев Ә.Т., Дашкевич Е.В.* — Kazakhstan. Grade: 4 (student/teacher: STUDENT) Publisher: Атамұра, Almaty; year 2019; ISBN 978-601-331-497-6 (Kazakh edition, printed in the book) PDF pages: 144 = 144 in the record (covers and title pages LOOKED at and matched; Russian edition spot-checked — cover, contents and two spreads identical in content and pagination, so the book is placed once for both editions; records grade-04/…/hudozhestvennyj-trud/student/91.pdf Kazakh and student/113.pdf Russian) Verdict: COMPLETE (image-only book read page by page on contact sheets) Kazakhstan's own way: a full-year visual-art course in eight sections that keeps returning to Kazakhstan itself — its landscapes painted with aerial perspective, its Silk Road mausoleums, the yurt's felt art and ornament families, national dress and silver jewellery — alongside world art (Impressionism, poster art, space art). Excluded per brief (named, not placed): the eight unit review/assessment pages «Таныстыру, талдау және бағалау» (printed pp. 20, 38, 58, 70, 86, 98, 112, 125); the end-of-year summary (printed pp. 126–130); the glossary «Қысқаша сөздік» (printed pp. 131–138, inventory-only); safety rules for art lessons (printed p. 139, apparatus). Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — «Ашықхаттарды безендіру өнері» — the art of the greeting card: cards for Nauryz, New Year, Victory Day and birthdays; the first cards in 18th-century France and Japanese congratulatory prints (student book; original target `visual-art/handmade-cards-and-letters`) | Book 3, printed p. 32 |
+| Kazakhstan — «Жақындарымыз бен достарымызға ашықхат жасамыз» — making your own greeting card: choosing the person, the wish, the lettering and the colour harmony (student book; original target `visual-art/handmade-cards-and-letters`) | Book 3, printed p. 36 |
+
+Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count.

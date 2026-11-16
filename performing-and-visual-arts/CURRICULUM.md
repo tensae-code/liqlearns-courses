@@ -2686,7 +2686,36 @@ Rwanda's twelve placement-bearing books (Creative Arts Fine
   and the lines present are 1,088 — the lines present were
   stocked, as filed in the MERGE-LOG.
 
-**The whole course stands at 1,006 lessons, 12,309 questions and
+- **Art expansion — Kazakhstan (2026-11-16):** 1,573 placements
+  stocked from 72 placement-bearing books (58 records in the
+  Grades 1–4 half and 58 in the Grades 4–9 half; 3 plan
+  documents are record-only with no placements): 1,099 into
+  existing lessons and 474 into 81 NEW lessons (Visual Art: Kazakh Ornament Patterns; Kazakh Artists; Kazakh Applied Art; Micro Art; Modern Art of Kazakhstan; Pyrography: Wood Burning; Transforming and Upcycling Clothes; Artists of Kazakhstan; Kazakh Felt and Textile Arts; Sewing and Garment Making; Kazakh Silver Jewellery; Foil Embossing; Space in Art; City of the Future; Herbarium and Dried-Flower Art; Painting with Plasticine; Kazakh Leather Craft; Shevchenko and His Aral Paintings; Kasteev and Kazakh Painting; Knitting; Russian Folk Painting: Gzhel and Khokhloma; Designing Board Games; Garment Pattern Drafting; Painting with Wool; Encaustic Wax Painting; String Art; City Planning; Tenerife Weaving. Culture and Values: The Kazakh Yurt and Its Interior; Peoples of Kazakhstan Under One Shanyrak; Kazakhstan Heritage Places and Symbols; Art That Teaches Us; Kazakh Ornament and Its Meanings; Kazakh Traditional Clothing; Kazakh Enlighteners and Thinkers; Kazakh Wedding and Life Cycle Customs. Music: The Dombra and Kazakh Instruments; Kui: Dombra Music; The Musical Dastarkhan; Korkyt and the Kobyz; The Sybyzgy; Zhaparapazan; What Is Music; The Sazsyrnai Clay Flute; Kazakhstan's Musical Map; Musical Guidebooks and Classical Singing; Vocalise: Singing Without Words; Kazakh Composers and Singers; Sirtaki and Mikis Theodorakis; Ensembles: From Duet to Choir; Kazakh Singer-Poets and Folk Song; Abai Kunanbaev; Wind Instruments and the Sounds of Nature; The Oratorio; Cosmic Music: The Energy of Sound; Zhyr: The Kazakh Heroic Epic; Music of Kazakhstan Today; Aitys: The Improvised Song Duel; Turkic Music and Throat Singing; Music of the East and the Silk Road; Music of the Peoples of Kazakhstan; Kazakh Percussion Instruments; The Organ: King of Instruments; From Folk Song to Symphonic Poem; The Seven Regional Kui Schools; The Symphonic Kui; Kazakh Piano Music; Estrada: Pop Stage Music; Rock Opera; Jazz in Kazakhstan; Ethno-Jazz on Ancient Instruments; Kazakh Verse Forms: Zhyr and Kara Olen; Music for the Soul and Rest; Music for Video Games; Sound Design for Film and Animation. Drama and Dance: Dances Around the World; Orteke: The Dombra Puppet Dance; Kazakh Epics Legends and Tales; Kazakh Traditional Games and Play; Kara Zhorga: Kazakh Dance; Kazakh Theatre and Its Origins). Every placement string resolved via
+  slug-registry Part 2 — no unresolved strings, no mid-merge
+  registry additions needed; original strings are recorded in
+  the provenance rows wherever they differ from the canonical
+  target. Kazakhstan's own way is kept as named parts
+  throughout — Kazakh ornament and its kinds, the dombra and
+  the kui, the kobyz and Korkyt, felt and textile arts,
+  silver jewellery of the zergers, the yurt and its interior,
+  batik and pyrography in the labour books. Songs are placed
+  by summary only, never transcribed; glossaries are
+  inventory-only in the book entries. Teacher guides are
+  stocked as evidence, kept outside the acceptance counts.
+  Honesty, as filed: 1462.pdf holds a different book than its
+  record names (record says Tolebiev Grade 4 Kazakh; the file
+  is Mamyrova Grade 4) — book entries name the file's actual
+  book and carry the RECORD MISMATCH note; 932.pdf has lost
+  the text of printed pp. 1–80, so its first-half placements
+  were made from the pictures and are labelled
+  EVIDENCE-LIMITED; targets-kz-b idx32 is listed as the
+  Russian parallel but its file delivers the Kazakh edition —
+  carried as filed in the book entry. The placements file's
+  lines present are 1,573 and were stocked as present; the
+  wave tally of 1,566 differs by 7 (see MERGE-LOG for the
+  per-book reconciliation).
+
+**The whole course stands at 1,087 lessons, 13,193 questions and
 210 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 

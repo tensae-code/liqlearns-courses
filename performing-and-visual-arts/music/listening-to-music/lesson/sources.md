@@ -1,6 +1,6 @@
 # Sources — Listening to Music
 
-countries: Sri Lanka, Libya, Mongolia, Armenia, North Macedonia, Greece, China
+countries: Sri Lanka, Libya, Mongolia, Armenia, North Macedonia, Greece, China, Kazakhstan
 
 **Book 1:** *Western Music — Teachers' Guide, Grade 9 (Implemented from 2018)* (teacher guide, English) — Sri Lanka, Department of Aesthetic Education, National Institute of Education, Maharagama, Sri Lanka; first print 2017; ISBN line printed blank. Grade: 9 (student/teacher: TEACHER). PDF pages: 100. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -116,7 +116,7 @@ countries: Sri Lanka, Libya, Mongolia, Armenia, North Macedonia, Greece, China
 | Armenia — Your own taste, examined (teacher-guide evidence) — among the aims: give learners the chance to reflect on their own musical preferences, justify them and reach independent conclusions (teacher guide — evidence; original target `music/listening-and-describing`) | Book 18, printed p. 10 |
 
 
-**Acceptance count: taught in 5 countries (Mongolia, Armenia, North Macedonia, Greece, China).** Mongolia is added as student-book stock (see its rows above), inside the acceptance count; the earlier evidence-only entries stay outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 6 countries (Mongolia, Armenia, North Macedonia, Greece, China, Kazakhstan).** Mongolia is added as student-book stock (see its rows above), inside the acceptance count; the earlier evidence-only entries stay outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/listening-to-music`); the Sri Lanka placements were filed under the original string(s) `music/listening-and-responding-to-music` and resolved to this lesson by slug-registry Part 2. Songs and stories are placed by summary only, never transcribed.
 
@@ -221,3 +221,29 @@ Greece is added as student-book stock (see its rows above), inside the acceptanc
 | China — Back matter 选听 听妈妈讲那过去的事情 — optional listening — "Listen to Mother Tell of Days Gone By", children by a grain stack hearing how life used to be (student book) | Book 27, printed p. 57 |
 
 China is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 28:** *Еңбекке баулу, жалпы білім беретін мектептің 3-сыныбына арналған оқулық (Syzdykov A.M., Seitmoldinov D.N., Baybakisheva M.K.)* — Kazakhstan. Grade: 3 (student/teacher: STUDENT) Publisher: Nazarbayev Intellectual Schools (NIS), Astana; year 2024; ISBN 978-601-348-589-8 PDF pages: 137 (1573.pdf) — cover and colophon verified against the record; image-only book read in full on contact sheets, contents at printed p. 133 Verdict: COMPLETE Excluded per brief (named, not placed): the Glossary (printed pp. 129-131) is inventory only; the recurring "What did you learn?" section closers are review apparatus. Kazakhstan's own way: the NIS labour book teaches research habits (Анықта / Зертте — "find out / investigate") inside the craft lesson: the baskur's ornaments are decoded before one is cut, a birdhouse is built to a measured drawing, and waste is studied as a material with a Turkish artist's portraits as the model. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Topic 4 "The world of insects" — a bee built from a paper roll while listening to Rimsky-Korsakov's "Flight of the Bumblebee" (the book's own music-listening moment, music used as the working image) (student book) | Book 28, printed pp. 17-19 |
+
+**Book 29:** *Музыка, учебник для 3 класса общеобразовательной школы (Valiullina R.N., Makhanova A.K., Besbai N.N.)* — Kazakhstan. Grade: 3 (student/teacher: STUDENT) Publisher: Atamura, Almaty; year 2018 PDF pages: 128 each (71.pdf read in full from its text layer, contents at printed pp. 126-127; 994.pdf is a second scan of the same book — cover and lesson titles verified identical) Verdict: COMPLETE Excluded per brief (named, not placed): Lessons 9, 16, 27 and 34 "Вспоминаем, повторяем" (Remember and repeat) are review lessons; song lyrics are summarised, never transcribed. Kazakhstan's own way: Grade 3 music thinks in architecture — music is built from "bricks" into "houses" and "cities" — and its heroes are Prokofiev the boy composer and a Kazakh girl dombrist given two whole lessons. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Lessons 18-19 "Musical pictures" — listening to music that paints pictures and describing them (student book) | Book 29, printed pp. 70-73 |
+
+**Book 30:** *Музыка 4 — Горчакова Е.Б., Плешакова Т.Б.* — Kazakhstan. Grade: 4 (student/teacher: STUDENT) Publisher: Алматыкітап, Almaty; year 2019; no ISBN printed on the pages read PDF pages: 98 = 98 in the record (cover and title pages LOOKED at and matched; record grade-04/gov/kazakhstan/muzyka/student/112.pdf) Second record named in this book: grade-04/gov/kazakhstan/muzyka/student/1252.pdf — the 2023 reprint of the same book (104 PDF pages): cover, contents and spot-checked spreads identical, same printed pagination; the extra pages are a «Музыкальная шпаргалка» revision cheat-sheet at the back (apparatus only, not placed). Verdict: COMPLETE (image-only book read page by page on contact sheets; all 34 lessons checked against the book's own contents, printed pp. 96–97). Every song is placed as a summary of what it is about and teaches — no lyrics transcribed. Kazakhstan's own way: a listening-and-singing year that keeps circling home — the musical map of Kazakhstan, the kui tradition from Kurmangazy to the symphonic kui, zhyrau, akyn, sal and seri, Abai — set inside world music from Verdi and Grieg to space music and computer music. Excluded per brief (named, not placed): the emotional dictionary (printed p. 92, a word list — inventory-only) and the glossary (printed pp. 93–95, inventory-only). Lesson 34's year review is assessment in form; its new song is placed. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — 32 — choosing photo and video fragments that carry a song's meaning, and making a video clip for the Victory Day song with classmates (student book; original target `music/matching-pictures-to-music`) | Book 30, printed p. 85 |
+
+**Book 31:** *Музыка. Учебник для 6 класса общеобразовательной школы / Музыка (6-сынып)* — Kazakhstan. Grade 6 (STUDENT) Publisher: «Қазақ энциклопедиясы», Almaty; 2018; ISBN 978-601-7967-04-8 (Russian ed.), 978-601-7967-03-1 (Kazakh ed.) Authors: Мусахаджаева А., Сабырова А., Абугазы М., Гизатова Г. PDF pages: 144 (Russian record, read in full from its text layer) / 136 (Kazakh record, spot-checked — its table of contents lists the same 34 lessons in the same order and titles; parallel edition, placed once) Records covered: grade-06/gov/kazakhstan/muzyka/student (Russian ed., 144 pp) and its Kazakh parallel (136 pp) — targets-kz-b idx16 + idx15 Verdict: COMPLETE Kazakhstan's own way: the year is built as four quarters of listening, singing and a research project each quarter; Kazakh professional music is taught in three layers — oral-professional instrumental (kui), oral-professional song (sal/seri), and written professional music — and every world topic (jazz, estrada, cinema, games) is paired with its Kazakh counterpart and a Kazakh singer or composer. Named but not placed: Glossary (Глоссарий), printed pp. 131–143 — inventory only, per brief. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Lesson 27 «Интеллектуальная музыка» — what it teaches: intellectual music — works of complex form and deep philosophical content that ask much of player and listener; in Kazakh music, songs and kui carrying philosophical, aesthetic and ethical thought (student book; original target `music/intellectual-music-deep-listening`) | Book 31, printed p. 109 |
+
+Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count.

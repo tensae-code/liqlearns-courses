@@ -1,6 +1,6 @@
 # Sources — Textile Design and Surface Pattern
 
-countries: Sudan, Jordan, Indonesia
+countries: Sudan, Jordan, Indonesia, Kazakhstan
 
 **Book 1:** *الفنون والتصميم (Arts & Design) — للصفين الأول والثاني الثانوي (for the First and Second Secondary years), Secondary Stage (المرحلة الثانوية)* (student book, Arabic) — Sudan, National Center for Curricula and Educational Research (المركز القومي للمناهج والبحث التربوي), Bakht Al-Ruda — Republic of Sudan, Ministry of Education; authors Mohamed Al-Amin Ali, Abdul Basit Abdullah Al-Khatim, Mohamed Mohamed Idris (College of Arts, University of Sudan) and Khidir Mohamed Othman (NCCR); no year printed in the pages held; ISBN 978-99942-53-46-3, Grade 10, 103 PDF pp. STUDENT — the printed volume is one combined book serving the First and Second Secondary years (Grades 10 and 11); this entry is its Grade 10 row. Verdict: COMPLETE — read in full, page by page. Named in the header, not placed: "Design Tools & Materials" (printed pp. 63–64) is a materials inventory and "Guidance for the Student" (printed pp. 64–65) is workshop-care instruction — apparatus/inventory; the Colouring book's closing questions and exercises (printed p. 84) are assessment, not placed. The Grade 11 record is a duplicate scan of this same volume — record-only, not stocked twice. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sudan-placements.md.
 
@@ -20,7 +20,7 @@ countries: Sudan, Jordan, Indonesia
 |---|---|
 | Indonesia — Unit 1, Kegiatan 2–3 — designing a ragam hias motif for a fashion product and making it on the product itself (teacher guide — evidence; original target `visual-art/designing-motifs-for-fashion`) | Book 4, printed p. 62 |
 
-**Acceptance count: taught in 2 countries (Sudan, Jordan).** Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 3 countries (Sudan, Jordan, Kazakhstan).** Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/textile-design-and-surface-pattern`); the Sudan placements were filed under the original strings recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Sudan's own way is kept as the named sub lessons above.
 
@@ -32,3 +32,11 @@ Searchable tags: textile design and surface pattern, Sudan
 | Lesson part | Where it comes from |
 |---|---|
 | Jordan — Unit 1 Lesson 6 "Repetition" — repetition is repeating the same shape, pattern or movement more than once in one artwork — found in an apple pattern, colouring a repeated flower pattern by its model, counting repeated shapes in the classroom, and drawing the missing repeated shape in its place in a row (student book; original target `visual-art/patterns-and-symmetry-in-textile-design`) | Book 2, printed p. 24 |
+
+**Book 5:** *Художественный труд. Учебник для учащихся 6 класса общеобразовательной школы (вариант для девочек) + CD / Көркем еңбек (қыз балаларға арналған нұсқа)* — Kazakhstan. Grade 6 (STUDENT) Publisher: Келешек-2030 (Kokshetau); 2018; ISBN 978-601-317-338-2 (Russian ed.), 978-601-317-344-3 (Kazakh ed.) Authors: Алимсаева Р.Ш., Развенкова И.А., Лосенко О.С., Велькер Е.Е. PDF pages: 112 = both records MATCH Records covered: targets-kz-b idx17 (Russian ed.) + idx13 (Kazakh ed., spot-checked identical — title page and §14 crochet at the same printed p. 39) Verdict: COMPLETE Kazakhstan's own way: the portrait year — Kazakhstani portrait painters (Kasteev, Togyzbaev, Ismailova, Akiev, Sariev, Abuov) and watercolourists anchor the visual-art half, Kazakhstani photographers the photo lesson, and the first Kazakh cartoon (Khaidarov, 1967) the animation lesson; the craft half builds crochet, knitting, an author's doll and a sewn apron, each from sketch to exhibition. Named but not placed: «Культура питания» §29–32, printed pp. 80–89 (table etiquette in Kazakh and other cultures, table setting, dishes from semi-finished products, express cooking, desserts incl. zhent); «Культура дома» §33–35, pp. 90–95 (hygiene and wet/dry cleaning, care and storage of clothes and shoes, decorative flower growing and spring work); Санитарно-гигиенические требования and Правила техники безопасности, pp. 96–99; Глоссарий, pp. 100–103, and Словарь профессий, p. 104 — inventory only, per brief; Список иллюстраций, p. 105; literature lists, pp. 110–111. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — §23 «Дизайн текстильных изделий для дома (фартук, кухонные принадлежности). Разработка идей. Эскиз» — what it teaches: textile as the soul of the home hearth — curtains, tablecloths, chair covers; kitchen pieces «with meaning» — potholders, hot pads, aprons, pocketed panels, teapot cosies — practical and decorative at once, answering one another in colour and finish across the room; sketching your own home textile (student book; original target `visual-art/designing-home-textiles-for-the-kitchen`) | Book 5, printed p. 64 |
+
+Kazakhstan is added as student-book stock (see its rows above), inside the acceptance count.
