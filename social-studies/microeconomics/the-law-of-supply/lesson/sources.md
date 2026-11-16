@@ -1,6 +1,6 @@
 # Sources — The law of supply
 
-countries: Ethiopia, France
+countries: Ethiopia, France, Kazakhstan
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -16,7 +16,19 @@ countries: Ethiopia, France
 |---|---|
 | France part — "Comment évoluent la demande et l'offre par rapport au prix ?": how supplied quantity moves with price, including the quinoa-in-Côte-d'Or case | France, *SES 2de, Manuel Libre de Sciences économiques et sociales, Seconde (Manuels Libres)*, Ch. Marché, section "Comment évoluent la demande et l'offre par rapport au prix ?" |
 
-**Acceptance count: taught in 2 countries (Ethiopia, France).**
+**Book 3:** *Кәсіпкерлік және бизнес негіздері / Основы предпринимательства и бизнеса (Fundamentals of Entrepreneurship and Business)* (student book, Kazakh edition 603 + Russian edition 616 — parallel language editions of the same book, placed once with every edition named) — Kazakhstan, Арман-ПВ (Arman-PV), Nur-Sultan; year 2019; ISBN 978-601-318-234-6 (Kazakh edition 603), 978-601-318-249-0 (Russian edition 616). Title as printed: Кәсіпкерлік және бизнес негіздері / Основы предпринимательства и бизнеса (Fundamentals of Entrepreneurship and Business). Authors: Aganina, Karaev, Sultanov, Karaev. Grade: 10 (student/teacher: STUDENT). PDF pages: 192 in both editions (covers verified: Kazakh cover 603 and Russian cover 616 carry the same title, authors Aganina, Karaev, Sultanov, Karaev, Grade 10; contents pages identical in structure — Russian edition read for the Economics parts, Kazakh edition spot-checked at cover, contents and section starts). Verdict: COMPLETE. Contents map: Economics parts printed pp. 5-46 (Section 1 Entrepreneurship as an Economic Phenomenon) and pp. 78-94 (2.5 Competition, 2.6 Pricing); Business pp. 47-77 (Section 2 remainder: starting a business, legal forms, start-up culture, innovation trends), pp. 95-148 (Section 3 Marketing in Action), pp. 149-185 (Section 4 Design Thinking); Glossary pp. 186-188 (inventory-only, not placed). Grab route note, carried as filed: grab.py release and tree routes both failed (release route RemoteDisconnected twice; tree route 404 for the 603 path), so each file was downloaded from the record's own recorded source_url and verified by exact page count against the record (603: 192, 616: 192) and by cover; the books.json tree paths recorded as pushed could not be confirmed in GitHub via the tree route (404 on 603) — a library debt, as filed. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — 1.5 The Mechanism of Market Functioning: the direct relation between price and quantity supplied, drawn as a rising supply curve with a tenge potato example | Kazakhstan, *Fundamentals of Entrepreneurship and Business (Aganina, Grade 10)*, 1.5 The Mechanism of Market Functioning — printed p. 34 |
+
+**Book 4:** *Кәсіпкерлік және бизнес негіздері — Оқулық, 10-сынып, 1-бөлім (Fundamentals of Entrepreneurship and Business, Textbook Grade 10, Part 1)* (student book, Kazakh) — Kazakhstan, Atameken / Көкжиек-Горизонт (Kokzhiek-Gorizont), Almaty; year 2019; ISBN 978-601-7817-00-8 (part), 978-601-7832-99-5 (set). Title as printed: Кәсіпкерлік және бизнес негіздері — Оқулық, 10-сынып, 1-бөлім (Fundamentals of Entrepreneurship and Business, Textbook Grade 10, Part 1). Authors: Duisenkhanov, Shcheglov, Khanin, Fazylzhanova, Seitenova. Grade: 10 (student/teacher: STUDENT). PDF pages: 144 (cover verified: same title, Grade 10, Part 1, authors Duisenkhanov, Shcheglov, Khanin, Fazylzhanova, Seitenova). Verdict: COMPLETE. Contents map: Economics parts printed pp. 3-64 (Section 1, lessons 1, 2, 5, 8, 11, 14) and pp. 108-130 (lessons 27, 30); Business pp. 65-107 (Section 2 remainder: starting a business, legal forms, start-up culture, innovation), lesson 5 (entrepreneurial mindset) Business within Section 1; the interleaved game lessons (3, 6, 9, 12, 15, 19, 22, 25, 28, 31) and case lessons (4, 7, 10, 13, 16, 20, 23, 26, 29, 32) are pure activity/case companions to the theory lessons — excluded as activity items, not placed; Glossary pp. 131-141 (inventory-only, not placed). Grab route note, carried as filed: grab.py release and tree routes both failed, so the file was downloaded from the record's own recorded source_url and verified by exact page count against the record (144) and by cover. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan — Lesson 11 The Mechanism of Market Functioning: the law of supply alongside the law of demand | Kazakhstan, *Fundamentals of Entrepreneurship and Business, Part 1 (Duisenkhanov, Grade 10)*, Lesson 11 The Mechanism of Market Functioning — printed p. 42 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, France, Kazakhstan).**
 
 France's own way (SES 2de, Manuels Libres): SES teaches economics, sociology and political science as one subject from Seconde; the economics is built from data and cases (INSEE, the France Relance plan read as a Keynesian model, housing and oil prices, the gender pay gap in spreadsheets) with a synthesis and exercise for nearly every notion.
 
@@ -24,4 +36,8 @@ Book error named here, taught corrected: the paragraph under the student book's 
 
 Pairing note carried from the placements: the student textbook is the finished 2023 edition, while the teacher guide is ©2022 with an unfinished placeholder printing block — edition-mismatched companions; the guide's answer keys are partly incomplete/misaligned with this book's review questions, and no answer-key figure is taught here unchecked.
 
-Searchable tags: law of supply, supply schedule curve, upward sloping, direct relationship, ethiopia, france, ses, quinoa cote d'or, social studies, microeconomics
+Kazakhstan's own way (Kazakhstan Grade 10 Aganina): Economics is taught inside an entrepreneurship course — market theory arrives as the theory an entrepreneur needs, with tenge-denominated supply examples (a potato supply curve at 50-70 tenge), world oil prices deciding whether an Almaty-region furniture workshop profits, and Kazakhstan's own post-Soviet transition as the opening history.
+
+Kazakhstan's own way (Kazakhstan Grade 10 Duisenkhanov Part 1): the same national curriculum taught in a three-lesson rhythm — one theory lesson, one game, one Kazakhstani or world business case (Rocket Study, Yuframe, Shymbulak, Elon Musk) — so every Economics concept is immediately played and then applied.
+
+Searchable tags: law of supply, supply schedule curve, upward sloping, direct relationship, ethiopia, france, ses, quinoa cote d'or, social studies, microeconomics, kazakhstan, tenge, entrepreneurship and business basics

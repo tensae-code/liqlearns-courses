@@ -4236,7 +4236,7 @@ History lessons: 3677 → 3897.
 
 ## Economics expansion totals
 
-Economics lessons across the Economics titles: **427**
+Economics lessons across the Economics titles: **431**
 (376 before the expansion; +2 for United Arab Emirates,
 2026-11-15 — Microeconomics: Basic needs and other needs
 and Work and its different forms; +2 for Iceland,
@@ -4295,3 +4295,9 @@ at work and A small business plan project;
 Macroeconomics: The local economy — sectors and
 entities; Market and Money: How a payslip is worked
 out — nominal and real wages).
++4 for Kazakhstan,
+2026-11-16 — Microeconomics: Entrepreneurship and
+the entrepreneur, Price and non-price competition
+and Price as an economic category — and pricing;
+Macroeconomics: Kazakhstan's economy after
+independence).

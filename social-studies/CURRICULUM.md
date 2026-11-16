@@ -13690,3 +13690,125 @@ taught with real Mongolian wage schedules in tögrög,
 a full payslip worked line by line, and national
 statistics pupils must compute rates from (Grade 9).
 Economics lessons: 422 → 427.
+
+## Economics expansion — Kazakhstan — built 2026-11-16
+
+Kazakhstan — 33 placements stocked from 2 student
+books with placements (3 distinct content books /
+4 files read): *Fundamentals of Entrepreneurship
+and Business* (Aganina, Grade 10, Арман-ПВ
+(Arman-PV), Nur-Sultan, 2019 — Kazakh edition 603,
+ISBN 978-601-318-234-6, and Russian edition 616,
+ISBN 978-601-318-249-0, parallel language editions
+of the same book, placed once with every edition
+named, 192 PDF pp. each, COMPLETE) and
+*Fundamentals of Entrepreneurship and Business,
+Part 1* (Duisenkhanov, Grade 10, Atameken /
+Көкжиек-Горизонт (Kokzhiek-Gorizont), Almaty, 2019,
+ISBN 978-601-7817-00-8 (part), 978-601-7832-99-5
+(set), 144 PDF pp., COMPLETE). kazakhstan-placements.md
+was read in full (8 records / 4 distinct files /
+3 distinct content books). The placement lines
+actually written are 25 to existing lessons + 8
+NEW LESSON NEEDED lines, matching the wave close —
+but the 8 NEW lines name only 4 distinct new
+lessons, because each NEW topic is placed twice
+(once from each book). All books are student books,
+so all 33 placements count in acceptance. Part 2
+(Duisenkhanov, Grade 10, 188 PDF pp.) is
+RECORD-ONLY as filed — no Economics teaching parts;
+the whole volume is Marketing (Section 3) and
+Design Thinking (Section 4), both Business — 0
+placements, stocked nowhere. Both books' glossaries
+(Aganina pp. 186-188; Duisenkhanov Part 1
+pp. 131-141) are inventory-only, named in the book
+entries, not stocked. Library debt, carried as
+filed: grab.py release and tree routes both failed,
+so the files were read from the records' own
+recorded source_urls and verified by exact page
+count (603: 192, 604: 144, 605: 188, 616: 192) and
+by cover; the books.json tree paths recorded as
+pushed could not be confirmed in GitHub via the
+tree route (404 on 603). 25 stocked into standing
+lessons — **Macroeconomics**: Macroeconomics — the
+whole economy at once (Aganina 1.2, printed p. 17;
+Duisenkhanov Lesson 2, printed p. 10; acceptance
+1 → 2) — **Microeconomics**: Land, labour, capital,
+entrepreneurship (Aganina 1.4, printed p. 27;
+Duisenkhanov Lesson 8, printed p. 32; acceptance
+4 → 5); The law of demand (Aganina 1.5, printed
+p. 33; Duisenkhanov Lesson 11, printed p. 42;
+acceptance 2 → 3); The law of supply (Aganina 1.5,
+printed p. 34; Duisenkhanov Lesson 11, printed
+p. 42; acceptance 2 → 3); What shifts demand
+(Aganina 1.5, printed p. 35; Duisenkhanov Lesson 11,
+printed p. 42; acceptance 1 → 2); What shifts supply
+(Aganina 1.5, printed p. 36; Duisenkhanov Lesson 11,
+printed p. 42; acceptance 1 → 2); Equilibrium price
+and quantity (Aganina 1.6, printed p. 40;
+Duisenkhanov Lesson 14, printed p. 55; acceptance
+3 → 4); Market equilibrium — shortage and surplus
+(Aganina 1.6, printed p. 41; Duisenkhanov Lesson 14,
+printed p. 55; acceptance 1 → 2); Price elasticity
+of demand (Aganina 1.6, printed p. 42; Duisenkhanov
+Lesson 14, printed p. 55; acceptance 1 → 2); Cross
+and income elasticity (Aganina 1.6, printed p. 44;
+acceptance 1 → 2); Elasticity of supply (Aganina
+1.6, printed p. 44; Duisenkhanov Lesson 14, printed
+p. 55; acceptance 1 → 2); Perfect competition
+(Aganina 2.5, printed p. 82; Duisenkhanov Lesson 27,
+printed p. 108; acceptance 1 → 2); Four market
+structures — the spectrum (Aganina 2.5, printed
+p. 82; Duisenkhanov Lesson 27, printed p. 108;
+acceptance 1 → 2) — and 4 new lessons built
+(12 questions each, 8 placements stocked into
+them) — in **Microeconomics**: Entrepreneurship
+and the entrepreneur (Aganina 1.1, printed p. 6;
+Duisenkhanov Lesson 1, printed p. 5 —
+entrepreneurship as independent, initiative,
+risk-bearing activity; individual entrepreneur vs
+businessman; needs and goods; the subject, aims
+and tasks of entrepreneurship), Price and non-price
+competition (Aganina 2.5, printed p. 78;
+Duisenkhanov Lesson 27, printed p. 108 — competing
+on lower price vs on quality and difference, with
+flank attack, encirclement and "blue ocean"
+strategies) and Price as an economic category —
+and pricing (Aganina 2.6, printed p. 86;
+Duisenkhanov Lesson 30, printed p. 120 — what a
+price is and its functions; the price built from
+production cost, profit, excise and VAT into
+wholesale and retail prices; pricing policy,
+strategies and state pricing policy); in
+**Macroeconomics**: Kazakhstan's economy after
+independence (Aganina 1.2, printed p. 13;
+Duisenkhanov Lesson 2, printed p. 10 — the
+post-Soviet crisis and rebuilding of markets after
+1991, the role of small and medium business and
+the state's support for domestic business, and
+Schumpeter's entrepreneur as the engine of economic
+development). Checked first: none of the 4 NEW
+slugs existed in the current tree — Zambia's
+Entrepreneurship and its benefits covers an
+entrepreneur's benefits at Grade 4 scope, not the
+entrepreneur/businessman and needs/goods concepts;
+no existing lesson covers a country's own
+post-independence economy story for Kazakhstan,
+price vs non-price competition as a pair, or price
+as an economic category with its build — so the
+four NEW lessons were built in the Tier A titles
+as filed. Kazakhstan's own way: Economics is taught
+inside an entrepreneurship course — market theory
+arrives as the theory an entrepreneur needs, with
+tenge-denominated supply examples (a potato supply
+curve at 50-70 tenge), world oil prices deciding
+whether an Almaty-region furniture workshop profits,
+and Kazakhstan's own post-Soviet transition as the
+opening history (Aganina); the same national
+curriculum is taught in a three-lesson rhythm —
+one theory lesson, one game, one Kazakhstani or
+world business case (Rocket Study, Yuframe,
+Shymbulak, Elon Musk) — so every Economics concept
+is immediately played and then applied
+(Duisenkhanov Part 1).
+Economics lessons: 427 → 431.
