@@ -12990,3 +12990,107 @@ treaties — and entrepreneurship by running real
 school projects, a bakery and a juice stall, whose
 paperwork carries the costs, prices and profits.
 Economics lessons: 398 → 401.
+
+## Economics expansion — Syria — built 2026-11-16
+
+Syria — 19 placements stocked from 5 student books
+with placements (Grades 1, 2, 3, 4 and 6) of 6
+distinct books across the two filings
+(syria-placements.md and the links-group
+syria-placements-b.md): the wave close's 19 (16 to
+existing lessons + 3 NEW LESSON NEEDED) is the two
+filings together — 17 placement lines in the main
+filing and 2 in the links filing. The record named
+"Syria Social Studies G5" delivers the Grade 6 book
+— filed once, under Grade 6, never as a Grade 5 row;
+the real Grade 5 book is not in hand (library debt).
+All five books are student books in Arabic, so every
+placement counts in acceptance. 16 stocked into
+standing lessons and 3 new lessons built. Stocked
+into standing lessons — **Culture and Work**:
+Personal budget and saving (Grade 1 money box,
+printed pp. 70–71 in the main filing and p. 80 in
+the links filing; Grade 2 — spending 900 saved
+Syrian pounds by need, printed pp. 94–95; acceptance
+1 → 2 countries, Armenia and Syria); Trade —
+supply, demand and consumer rights (Grade 3 — buying
+the right product: two orange-juice cartons compared
+by production date, expiry date and price, and a
+450-pound water bill, printed pp. 53, 55; Grade 4 —
+the supply-and-demand price rule stated outright,
+printed pp. 89–90; acceptance 5 → 6 countries);
+Industry in Syria (Grade 4 — industry as turning raw
+materials into products, traditional crafts against
+modern industry, printed pp. 83–87, stocked as an
+Economics row against the Grade 4 book the Geography
+wave already holds in this lesson; acceptance
+unchanged — taught in 1 country, Syria); Trade —
+internal and external trade, and its uses (Grade 4 —
+internal trade between producing and consuming
+regions, exports of surplus wheat and cotton, oil
+and phosphates through Lattakia port and the
+Damascus International Fair against imports of
+factory equipment and farm machinery, printed
+pp. 89–92; acceptance unchanged — Syria was already
+counted in this lesson through its Grade 12
+Geography book, 28 countries) — **People and
+Resources**: Sectors of the economy (Grade 2 — the
+work of a drawn quarter sorted into agriculture,
+industry, trade, transport and services, printed
+pp. 90–93; Grade 6 — productive institutions sorted
+by sector into a table, printed p. 73; acceptance
+3 → 4 countries, Iran, Ecuador, Guatemala and
+Syria); Importance of farming to the economy (Grade
+4 — agriculture as the main income of many Syrians,
+raw materials for industry, surplus exported, crops
+following climate and rainfall, printed pp. 78–82;
+acceptance 1 → 2 countries, South Sudan and Syria);
+Factors of production and entrepreneurship (Grade 4
+— what modern industry needs: raw materials, power
+and energy, trained workers, capital and markets,
+printed p. 85; acceptance 1 → 2 countries, Jordan
+and Syria) — **Microeconomics**: Scarcity forces
+choice (Grade 2 — necessary purchases that cannot be
+postponed against postponable ones, closing on two
+needed things and money for only one, printed p. 95;
+acceptance 1 → 2 countries, Ethiopia and Syria);
+Production — turning inputs into outputs (Grade 3,
+Made in Syria — bread the old way against the modern
+way, and the products-and-raw-materials table,
+printed pp. 50–52; acceptance 1 → 2 countries);
+Renewable and non-renewable resources (Grade 4 —
+sun, river water, air, farmland and plants renewing
+against oil, gas and phosphates formed over
+thousands of years, printed pp. 25–28; acceptance
+4 → 5 countries) — **Market and Money**: Barter —
+and why it fails (Grade 4 — old Damascus barter, oil
+for eggs and wheat, until peoples began to mint
+money, printed p. 88; acceptance 2 → 3 countries);
+What money is (links-filing Grade 1 — recognising
+Syria's banknotes, each note's denomination and the
+antiquity shown on it, printed p. 74; acceptance
+2 → 3 countries). 3 new lessons built (12 questions
+each): **Microeconomics**: Producers and consumers
+(Grade 3, Made in Syria — the wheat grower and the
+bread maker are producers, the buyer who eats the
+bread is a consumer, proved in "produces/consumes"
+sentences, printed pp. 52, 54–55); Enterprises —
+big, medium and small (Grade 6, Institutions — the
+size pyramid: large companies, medium companies,
+small companies and small informal institutions,
+read top to bottom, printed p. 74) —
+**Macroeconomics**: Why tourism matters to an
+economy (Grade 4, Tourism in Syria — thousands of
+tourists setting hotels, restaurants and food and
+gift buying moving, built on natural beauty, sites
+such as Palmyra, transport routes, and tourist
+institutions and hospitality, printed pp. 93–96).
+Syria's own way: Economics grows inside the homeland
+and community units — saving in a decorated money
+box in Grade 1, the sectors of work and the
+900-pound choice in Grade 2, one six-page Made in
+Syria lesson carrying all of Grade 3, a whole unit
+named Pillars of the Economy in Syria in Grade 4,
+and institutions sorted by sector and by size inside
+a civics unit in Grade 6. Economics lessons:
+401 → 404.

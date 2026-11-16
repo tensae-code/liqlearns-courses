@@ -1,6 +1,6 @@
 # Sources — What money is
 
-countries: Ethiopia, United Arab Emirates, Zambia
+countries: Ethiopia, United Arab Emirates, Zambia, Syria
 
 **Book 1:** *Economics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hussien Mohammed Oumer (M.Sc.), Tadesse Ababu Abebe (M.Sc.). Editors: Mesfin Ketema (M.Sc.), Enguday Ademe Mekonnen (Ph.D.), Birhanu Engidaw Getahun (Ph.D.). Illustrator: Endalkachew Mengesha Yasab (M.Sc.). Designer: Derejaw Lake Melie (M.Sc.). Evaluators: Mekonnen Bersisa Gadisa (Ph.D.), Tariku Mulushewa Dessea (Ph.D.), Ararssa Hora Dabi (M.Sc.). First published 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under GEQIP-E. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, Contract no. MOE/GEQIP-E/LICB/G-01/23. No ISBN is printed on the copyright page of this copy. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g09-student-placements.md
 
@@ -26,8 +26,16 @@ United Arab Emirates' own way: economics begins in Grade 1 inside the work lesso
 
 Zambia's own way: Economics at Grade 4 is money and enterprise in kwacha — market sellers, maize farmers and shopkeepers as the entrepreneurs, a K10/K20 in play money for the needs-vs-wants lessons, and a classroom market day. This Zambia material stands on the teacher module as evidence only.
 
-**Acceptance count: taught in 2 countries (Ethiopia, United Arab Emirates). Zambia is teacher-module evidence only — named here, counted nowhere.**
+**Book 4:** *الدراسات الاجتماعية — الصف الأول الأساسي (Social Studies, First Basic Grade)* (student book, Arabic) — Ministry of Education, Syrian Arab Republic; year 2025–2026 edition (first printed 2018–2019); no ISBN printed. Title as printed: الدراسات الاجتماعية — الصف الأول الأساسي (Social Studies, First Basic Grade). Grade: 1 (student/teacher: STUDENT). PDF pages: 74 (cover verified against the record title; full text layer read page by page). Verdict: COMPLETE. Contents map: Economics parts — آثار من وطني (banknote denominations) printed p. 74, حصّالتي (saving) printed p. 80; Self/feelings (Unit: أنا) printed pp. 10–20; Family and helping (أنا وأنت) pp. 24–30; Safety and health (سلامتي) pp. 34–40; School, rights and duties (مجتمعي) pp. 44–48; Environment — nature, farm, soil "more precious than gold", water "our precious treasure" (بيئتي) pp. 52–68; Homeland — antiquities, pictures of my homeland, professions "let's work together" (وطني) pp. 74–84; projects pp. 88+. The professions lesson (لنعمل معًا, p. 78) names jobs and their tools old and new but teaches no Economics concept, and the soil/water lessons are environment lessons, so they are named here and not placed. This is the links-group filing of the same Grade 1 book as the main filing above; its printed pagination as read there runs higher (the saving lesson at printed p. 80 against pp. 70–71 in the main filing) — both filings are carried exactly as filed. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/syria-placements-b.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria part — آثار من وطني (Antiquities of my homeland): recognising Syria's money — the child identifies the denomination of the banknotes pictured and the antiquity shown on each note | Syria, *Syria Grade 1 Social Studies (links filing)*, آثار من وطني (Antiquities of my homeland) — printed p. 74 |
+
+Syria's own way: Economics enters Grade 1 through the homeland unit — the child meets money first as the nation's own banknotes, identifying each pictured note's denomination and the antiquity shown on it, before the same unit's money-box lesson turns to saving.
+
+**Acceptance count: taught in 3 countries (Ethiopia, United Arab Emirates, Syria). Zambia is teacher-module evidence only — named here, counted nowhere.**
 
 Pairing note carried from the placements: the student textbook is the finished 2023 edition, while the teacher guide is ©2022 with an unfinished placeholder printing block — edition-mismatched companions; the guide's answer keys are partly incomplete/misaligned with this book's review questions, and no answer-key figure is taught here unchecked.
 
-Searchable tags: what money is, general acceptance, qualities of money, standardised divisible portable durable, ethiopia, united arab emirates, dirham, notes and coins, zambia, kwacha, maize for fish, teacher module evidence, social studies, market and money
+Searchable tags: what money is, general acceptance, qualities of money, standardised divisible portable durable, ethiopia, united arab emirates, dirham, notes and coins, zambia, kwacha, maize for fish, teacher module evidence, syria, banknotes, antiquities on banknotes, social studies, market and money

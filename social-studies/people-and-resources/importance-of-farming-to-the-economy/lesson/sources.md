@@ -1,6 +1,6 @@
 # Sources — Importance of Farming to the Economy
 
-countries: South Sudan
+countries: South Sudan, Syria
 
 **Book 1:** *Primary Social Studies 8 Pupil's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Primary Social Studies 8 Pupil's Book. Grade: Primary 8 / Grade 8 (student/teacher: STUDENT). PDF pages: 92 (title page verified against the record title). Note: this record's repo file sits at the nonstandard flat path grade-08/gov/south-sudan/social-studies/full-year-student.pdf (see group log, library debts).. Verdict: COMPLETE (combined Social Studies book — Geography parts placed; other-subject parts named here, not placed). Other subjects in this book (named, not placed): Unit 1 The Coming of Europeans into Africa — colonisation, collaboration and resistance, colonial contributions (History), printed pp. 1–18 (the migration activity is placed below); Unit 4 National Unity (Civics), printed pp. 54–77; Unit 5 Peace in Our Time (Civics), printed pp. 78–86. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
 
@@ -12,10 +12,18 @@ countries: South Sudan
 | Sub lesson 1 — Guide: agriculture provides raw materials to industries — a country's industrialisation depends a lot on its agricultural sector (teacher guide — evidence) | South Sudan, *South Sudan Grade 8 P8 Social Studies TG* (teacher guide), Guide: agriculture provides raw materials to industries — a country's industrialisation depends a lot on its agricultural sector — printed p. 43 |
 | Sub lesson 2 — South Sudan's way — the book's own teaching way | South Sudan — the book's own way of teaching (see below) |
 
-**Acceptance count: taught in 1 country (South Sudan).**
+**Book 3:** *الدراسات الاجتماعية — الصف الرابع (Social Studies, Fourth Grade)* (student book, Arabic) — Syrian Ministry of Education (وزارة التربية والتعليم), Syrian Arab Republic; school year 2025–2026 (1447 H); no ISBN printed. Title as printed: الدراسات الاجتماعية — الصف الرابع (Social Studies, Fourth Grade). Grade: 4 (student/teacher: STUDENT). PDF pages: 112 (cover/title page verified against the record title; byte size 271,613,622 and page count 112 match the books.json record exactly; the TSV record is the same book via the full-quality-oversized-books release). Verdict: COMPLETE. Contents map: Geography parts (Unit 1, Nature in my country Syria — location, landforms, plants, weather and climate, water resources) printed pp. 8–24 and 29–33; Economics part printed pp. 25–28 (renewable and non-renewable resources, inside Unit 1); History parts (Unit 2, Syria and history — cradle of civilisation, historic sites) printed pp. 34–42; Geography parts (means of transport and communication in Syria) printed pp. 43–50; Geography parts (Unit 3, Life in my country Syria — population, life in the desert, countryside and city, Syrian cities) printed pp. 51–75; Economics parts (Unit 4, دعائم الاقتصاد في سورية — Pillars of the economy in Syria: agriculture, industry, trade, tourism) printed pp. 76–97; Civics parts (Unit 5, Citizenship — rights, duties, the martyrs) printed pp. 98–111. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria part — العمل في الزراعة في سورية (Work in agriculture in Syria): agriculture is the main source of income for many Syrians and provides the basic needs; farm products feed industry as raw materials (cotton for textiles, wheat for bread and pasta), the surplus is exported and what Syria does not produce is imported; crops follow climate and rainfall (citrus on the coast, wheat, olives, industrial crops such as cotton and sugar beet), with livestock as a second income | Syria, *Syria Grade 4 Social Studies*, العمل في الزراعة في سورية (Work in agriculture in Syria) — printed pp. 78–82 |
+
+**Acceptance count: taught in 2 countries (South Sudan, Syria).**
 
 South Sudan's own way (South Sudan Grade 8 P8 Social Studies SB): The climate unit is two-way and practical — how climate shapes people's activities (poor climate ruins roads) and how people adapt: use scarce water efficiently, build flood defences and raise dykes, grow drought-tolerant crops, and make biogas.
 
 South Sudan's own way (South Sudan Grade 8 P8 Social Studies TG) (teacher guide — evidence): The guide keeps climate personal and economic — which climate would you choose to live in, and why — and ties the farming system that suits a local area directly to its climatic conditions. That book is a teacher guide, cited as evidence only; South Sudan is counted in this lesson for its student book(s) named here, not for this guide.
 
-Searchable tags: importance of farming to the economy, South Sudan, social studies, people-and-resources
+Syria's own way (Syria Grade 4 Social Studies): Grade 4 carries a whole unit named Pillars of the Economy in Syria — the population's economic activities (agriculture, industry, trade, and services such as education, health, transport and tourism) — and agriculture stands first among the pillars: the main income of many Syrians, the raw material of its industry, and a surplus for export.
+
+Searchable tags: importance of farming to the economy, South Sudan, Syria, cotton, wheat, olives, citrus, sugar beet, social studies, people-and-resources
