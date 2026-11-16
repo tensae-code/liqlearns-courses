@@ -1,7 +1,7 @@
 # Sources — Lines in Every Direction
 
 
-countries: Ethiopia, Albania, Nicaragua, Singapore, Bhutan, Fiji, Belarus, Iran, Papua New Guinea, Jordan, Libya, Saudi Arabia, Venezuela, Angola, Mongolia, Afghanistan, Bolivia, Moldova, Indonesia
+countries: Ethiopia, Albania, Nicaragua, Singapore, Bhutan, Fiji, Belarus, Iran, Papua New Guinea, Jordan, Libya, Saudi Arabia, Venezuela, Angola, Mongolia, Afghanistan, Bolivia, Moldova, Indonesia, Syria
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -151,11 +151,33 @@ countries: Ethiopia, Albania, Nicaragua, Singapore, Bhutan, Fiji, Belarus, Iran,
 |---|---|
 | Indonesia — Bab I — kinds of line — straight, curved, broken, wavy, thick, thin, short, long — and how line gives boundary, direction, movement and feeling (teacher guide — evidence; original target `visual-art/lines-in-every-direction`) | Book 38, printed p. 29 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Bhutan, Fiji, Belarus, Iran, Jordan, Saudi Arabia, Venezuela, Angola, Mongolia, Afghanistan, Bolivia, Moldova).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 39:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education)* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 6 (student/teacher: STUDENT). PDF pages: 84 (cover/title page verified against the record title; byte size 23,066,016 matches record). Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 18 "Lines and Visual Intersections" — drawing the shapes inside each square with curved lines, coloured or in ink pen, to make visual intersections and creative effects (student book; original target `visual-art/lines-in-every-direction`) | Book 39, printed p. 55 |
+| Syria — Lesson 19 "Moving Colour Lines" — the kinds of geometric lines and using them in an artwork coloured to feel in motion (student book; original target `visual-art/lines-in-every-direction`) | Book 39, printed p. 58 |
+
+**Book 40:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Pupil's Book* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching (rights held with the National Centre for Curriculum Development); year: first printed 2019-2020, this copy school year 2025-2026; no ISBN printed Grade: 3 (student/teacher: STUDENT). PDF pages: 75 (cover verified against the record title; byte size 62,939,881 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Excluded (named, not placed): the closing recall page, printed p. 74 — "let us always remember: the primary colours and their derivatives" (revision apparatus, inventory only). The school-exhibition pages at the end are placed, as the book's own gallery of pupils' work. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 1 "Curves and Free Lines" — how artworks are made from interlacing free lines — forming overlapping shapes from free lines and thinking what colours the painting used (student book; original target `first-steps/lines-and-where-they-lead`) | Book 40, printed p. 6 |
+
+**Book 41:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Pupil's Book, First Grade of Basic Education* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; first printed school year 2017-2018, this copy school year 2025-2026; no ISBN printed Grade: 1 (student/teacher: STUDENT — pupil's book). PDF pages: 63 (cover verified against the record title; byte size 518,700,726 matches record — fetched byte-exact from the library GitHub release full-quality-oversized-books; read through the text layer and page-by-page visual sheets). Verdict: COMPLETE. Named, not placed: the "Blackboard" enrichment, printed p. 53 — a photo spread of pupils' chalk drawings on the school board (classroom display, no distinct teaching step); the closing holidays list itself is placed below as festivals, its calendar facts being inventory. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 1 "Lines and Shapes" — what do I see in this panel? The artist Henri Matisse relied in his panel on the different lines — find lines like these in the panel: straight, triangle, broken, circle, arc, curve; let us draw free random shapes through the curved lines on the drawing notebook's space, and search for the shapes resulting from the coloured lines' intersections in my panel; forming shapes from the straight and broken lines without using the ruler, and colouring the intersections formed by the lines in the fitting colours (student book; original target `visual-art/lines-in-every-direction`) | Book 41, printed p. 6 |
+
+**Acceptance count: taught in 14 countries (Ethiopia, Bhutan, Fiji, Belarus, Iran, Jordan, Saudi Arabia, Venezuela, Angola, Mongolia, Afghanistan, Bolivia, Moldova, Syria).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 Sub lesson 4 rests on teacher-guide evidence only for its own content (the Grade 1 teacher guide's line lesson); it is labelled as evidence in the part name, in the lesson text and in this table. The lesson as a whole stands on the Grade 1 student textbook, so the acceptance count counts pupil-taught content. The Grade 1 line-model pages are picture-led full pages; placements are followed exactly as read.
 
-Searchable tags: lines, horizontal vertical diagonal curved, zigzag, wave pattern, oval loops, what is a line, Ethiopia Grade 1 drawing, Nicaragua, Bhutan, Papua New Guinea
+Searchable tags: lines, horizontal vertical diagonal curved, zigzag, wave pattern, oval loops, what is a line, Ethiopia Grade 1 drawing, Nicaragua, Bhutan, Papua New Guinea, Syria
 
 
 **Book 12:** *التربية الفنية والموسيقية والمسرحية — الصف الأول (Art, Music and Theatre Education — Grade 1)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (first experimental edition, for school year 2024/2025); ISBN 978-9923-41-691-4. Grade: 1 (student/teacher: STUDENT). PDF pages: 76 (cover/title page verified against the record title; byte size 40,406,311 matches record exactly; printed page numbers = PDF page numbers). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Our Community's Values
 
-countries: Ethiopia, Guatemala, Nicaragua, Fiji, Libya, Malaysia
+countries: Ethiopia, Guatemala, Nicaragua, Fiji, Libya, Malaysia, Syria
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 **Book 2:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
@@ -44,11 +44,19 @@ countries: Ethiopia, Guatemala, Nicaragua, Fiji, Libya, Malaysia
 |---|---|
 | Malaysia — Unit 6 Etika Persembahan dan Nilai Murni — performance ethics and noble values in singing performance (student book; original target `culture-and-values/our-communitys-values`) | Book 10, printed p. 104 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Fiji, Malaysia). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 11:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Pupil's Book* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching (rights held with the National Centre for Curriculum Development); year: first printed 2019-2020, this copy school year 2025-2026; no ISBN printed Grade: 3 (student/teacher: STUDENT). PDF pages: 75 (cover verified against the record title; byte size 62,939,881 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Excluded (named, not placed): the closing recall page, printed p. 74 — "let us always remember: the primary colours and their derivatives" (revision apparatus, inventory only). The school-exhibition pages at the end are placed, as the book's own gallery of pupils' work. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 19 "The Exchange Garden" — let us not throw books in the street — keep them in our home library, share them with classmates and exchange them (student book; original target `culture-and-values/looking-after-shared-things`) | Book 11, printed p. 56 |
+| Syria — Lesson 20 "Behaviours in the Art Lesson" — how to behave in the art lesson — the class's shared rules for making and respecting work (student book; original target `culture-and-values/respecting-others-work`) | Book 11, printed p. 58 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Fiji, Malaysia, Syria). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 The values list is Grade 2's own (§3.1–3.1.1, printed p. 48), including shimglina glossed as the book's placements gloss it (elder mediation/reconciliation). The Adwa story stands inside Grade 2's values chapter (its introduction, printed p. 47); the full Adwa telling belongs to the drama-and-dance lessons and is not duplicated here beyond that chapter fact. Exemplarity is Grade 3's own definition (§2.1.4, printed p. 25).
 
-Searchable tags: cultural values, our community's values, shimglina, mesob, receiving guests, exemplarity, being an example, Nicaragua
+Searchable tags: cultural values, our community's values, shimglina, mesob, receiving guests, exemplarity, being an example, Nicaragua, Syria
 
 **Book 7:** *كتاب المعلم لمادة التربية الفنية — للصف الثالث من مرحلة التعليم الأساسي (Teacher's Book for Art Education — Grade Three of Basic Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2018–2019 (1439–1440 AH); ISBN no ISBN printed. Grade: 3 (student/teacher: TEACHER). PDF pages: 112 (cover/title page verified against the record title). Verdict: COMPLETE — the front matter (definition of art education, the curriculum and plan, aims for the cycle and the grade) is the series' shared teacher apparatus, named here; the fourteen lessons are placed below. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. Note as filed: the front matter (definition of art education, curriculum and plan, aims) is the series' shared teacher apparatus, named in the placements. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 

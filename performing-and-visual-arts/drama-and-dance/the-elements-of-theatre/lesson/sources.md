@@ -1,6 +1,6 @@
 # Sources — The Elements of Theatre
 
-countries: Ethiopia, Egypt, Honduras, Nicaragua, Trinidad and Tobago, Iran, Papua New Guinea, Brazil, Morocco, Jordan, Sri Lanka, Cuba, Venezuela, Malaysia
+countries: Ethiopia, Egypt, Honduras, Nicaragua, Trinidad and Tobago, Iran, Papua New Guinea, Brazil, Morocco, Jordan, Sri Lanka, Cuba, Venezuela, Malaysia, Syria
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -82,11 +82,32 @@ countries: Ethiopia, Egypt, Honduras, Nicaragua, Trinidad and Tobago, Iran, Papu
 |---|---|
 | Malaysia — Unit 1 Asas Lakon — the elements of theatre inside acting: actor, space, message, script, audience and the combination of art forms (student book; original target `drama-and-dance/the-elements-of-theatre`) | Book 22, printed p. x (learning standards 1.1.1 iv) |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Egypt, Honduras, Iran, Brazil, Jordan, Cuba, Venezuela, Malaysia). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 23:** *التربية الموسيقية (Music Education)* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 6 (student/teacher: STUDENT). PDF pages: 72 (cover/title page verified against the record title; byte size 27,174,319 matches record). Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 3 "Father of the Arts" — the stage work that holds all the arts together — story, characters, acting, singing, dances and dialogue watched and sorted from a filmed performance (student book; original target `drama-and-dance/the-elements-of-theatre`) | Book 23, printed p. 12 |
+
+**Book 24:** *التربية الموسيقية (Music Education)* (student book, Arabic) — Syria, Syrian Ministry of Education / National Centre for Curriculum Development (NCCD developed-curriculum edition); year: school year 2021-2022 (1442 AH); no ISBN printed Grade: 7 (student/teacher: STUDENT). PDF pages: 53 (cover/title page verified against the record title; byte size 47,782,278 matches record; image-only scan, read visually page by page). Verdict: COMPLETE. Excluded (named, not placed): closing score appendix, printed pp. 48-53 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 13 "Opera" — opera is a poetic play sung in full, its dialogue all music, accompanied by orchestra or string quartet; sorting its elements — dance, acting, solo and group singing, sound effects, decor, sung and unsung dialogue — with Mozart's "The Magic Flute" heard (student book; original target `drama-and-dance/the-elements-of-theatre`) | Book 24, printed p. 32 |
+
+**Book 25:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Pupil's Book, First Grade of Basic Education* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; first printed school year 2017-2018, this copy school year 2025-2026; no ISBN printed Grade: 1 (student/teacher: STUDENT — pupil's book). PDF pages: 63 (cover verified against the record title; byte size 518,700,726 matches record — fetched byte-exact from the library GitHub release full-quality-oversized-books; read through the text layer and page-by-page visual sheets). Verdict: COMPLETE. Named, not placed: the "Blackboard" enrichment, printed p. 53 — a photo spread of pupils' chalk drawings on the school board (classroom display, no distinct teaching step); the closing holidays list itself is placed below as festivals, its calendar facts being inventory. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Accompanying Activity "Masks from the Environment's Leftovers (Paper)" — making play masks from paper leftovers — the child's first theatre prop, made by his own hands (student book; original target `drama-and-dance/the-elements-of-theatre`) | Book 25, printed p. 44 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Egypt, Honduras, Iran, Brazil, Jordan, Cuba, Venezuela, Malaysia, Syria). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 The Grade 5 book's plot example is taught as the book gives it — a soldier wounded by enemy fire, his wife dying of grief, the story told by flashback — summarised, never reprinted. The teacher-guide parts (shot sizes move to the Video lesson; the Grade 6 guide's theatre-elements and genres part) are evidence and are labelled so.
 
-Searchable tags: theatre elements, setting, መቼት, character, plot, ሴራ, theme, ጭብጥ, actors, audience, director, frontal stage, ፊት ለፊት መድረክ, arena stage, ክብ መድረክ, props, costume, Egypt, actor's four dimensions, Nicaragua, Papua New Guinea, Brazil
+Searchable tags: theatre elements, setting, መቼት, character, plot, ሴራ, theme, ጭብጥ, actors, audience, director, frontal stage, ፊት ለፊት መድረክ, arena stage, ክብ መድረክ, props, costume, Egypt, actor's four dimensions, Nicaragua, Papua New Guinea, Brazil, Syria
 
 
 **Book 18:** *التربية الفنية والموسيقية والمسرحية — الصف الأول (Art, Music and Theatre Education — Grade 1)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (first experimental edition, for school year 2024/2025); ISBN 978-9923-41-691-4. Grade: 1 (student/teacher: STUDENT). PDF pages: 76 (cover/title page verified against the record title; byte size 40,406,311 matches record exactly; printed page numbers = PDF page numbers). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.

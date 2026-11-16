@@ -1,6 +1,6 @@
 # Sources — Reading the Beat
 
-countries: Ethiopia, Uganda, Albania, Samoa, Nicaragua, Singapore, Trinidad and Tobago, Iceland, Haiti, Malta, Turkmenistan, Colombia, Belarus, Iran, Morocco, Bulgaria, Jordan, Sri Lanka, Libya, Cuba, Venezuela, Angola, Mongolia, Rwanda, Bolivia, Malaysia, Moldova, Indonesia
+countries: Ethiopia, Uganda, Albania, Samoa, Nicaragua, Singapore, Trinidad and Tobago, Iceland, Haiti, Malta, Turkmenistan, Colombia, Belarus, Iran, Morocco, Bulgaria, Jordan, Sri Lanka, Libya, Cuba, Venezuela, Angola, Mongolia, Rwanda, Bolivia, Malaysia, Moldova, Indonesia, Syria
 
 **Book 1:** *Grade 6 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 6ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
 
@@ -244,11 +244,85 @@ countries: Ethiopia, Uganda, Albania, Samoa, Nicaragua, Singapore, Trinidad and 
 |---|---|
 | Indonesia — Bab II Bermain Alat Musik Sederhana — rhythm in music (ritme dalam musik) as the chapter's first core material (teacher guide — evidence; original target `music/rhythm-and-beat`) | Book 57, printed p. 83 |
 
-**Acceptance count: taught in 15 countries (Ethiopia, Uganda, Turkmenistan, Colombia, Belarus, Iran, Bulgaria, Cuba, Venezuela, Angola, Mongolia, Rwanda, Bolivia, Malaysia, Moldova).** The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide / curriculum guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide / teacher programme — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Jordan is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 58:** *التربية الموسيقية (Music Education)* (student book, Arabic) — Syria, Syrian Ministry of Education / National Centre for Curriculum Development (NCCD); year: school year 2021-2022; no ISBN printed Grade: 5 (student/teacher: STUDENT). PDF pages: 72 (cover/title page verified against the record title; byte size 29,485,010 matches record). Verdict: COMPLETE. Excluded (named, not placed): "I Play and I Learn" board game, printed pp. 60-63 — a revision game apparatus covering the book's topics; the closing anthem-score appendix, printed pp. 64-72 — printed scores of songs already placed above (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 8 "The Rhythmic Form" — matching and reading rhythmic forms, singing solfege to them, and hearing a new rhythmic form inside the anthem "Syria, My Beloved" (student book; original target `music/reading-the-beat`) | Book 58, printed p. 26 |
+| Syria — Lesson 20 "Rhythmic Games" — rhythm games — performing rhythmic exercises on chosen percussion, the cup game (tap the table, clap, lift and set down the cup in rhythm), group songs with cup accompaniment, and movement rhythm in 2, 3 and 4 (student book; original target `music/reading-the-beat`) | Book 58, printed p. 56 |
+
+**Book 59:** *التربية الموسيقية (Music Education)* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 6 (student/teacher: STUDENT). PDF pages: 72 (cover/title page verified against the record title; byte size 27,174,319 matches record). Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 9 "The Complete Meters" — the fuller family of musical meters and how each is counted and performed (student book; original target `music/reading-the-beat`) | Book 59, printed p. 30 |
+
+**Book 60:** *التربية الموسيقية (Music Education)* (student book, Arabic) — Syria, Syrian Ministry of Education / National Centre for Curriculum Development (NCCD developed-curriculum edition); year: school year 2021-2022 (1442 AH); no ISBN printed Grade: 7 (student/teacher: STUDENT). PDF pages: 53 (cover/title page verified against the record title; byte size 47,782,278 matches record; image-only scan, read visually page by page). Verdict: COMPLETE. Excluded (named, not placed): closing score appendix, printed pp. 48-53 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 20 "My Musical Band" — forming a class rhythm band from cups — the pictured cup-playing steps (clap, tap the table, lift, turn, pass) — and accompanying the morning song with dum and tak rhythm syllables (student book; original target `music/reading-the-beat`) | Book 60, printed p. 46 |
+
+**Book 61:** *التربية الموسيقية (Music Education), First Grade Primary* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026 (1446 AH); no ISBN printed Grade: 1 (student/teacher: STUDENT). PDF pages: 66 (cover verified against the record title; byte size 34,464,970 matches record — fetched byte-exact from the library GitHub release mid-size-books after a first truncated attempt was retried). Verdict: COMPLETE. Excluded (named, not placed): closing score appendix, printed pp. 60-66 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 3 "Fast and Slow" — clapping four claps fast, then slow; listening to "Zorba" and running round the place fast or slow as the music goes (student book; original target `music/reading-the-beat`) | Book 61, printed p. 10 |
+| Syria — Lesson 4 "I Am the Black Note" — the quarter note personified — "I am black, my leg comes down straight; clap me one clap and walk me one step" — the note worth one beat (student book; original target `music/reading-the-beat`) | Book 61, printed p. 12 |
+| Syria — Lesson 16 "The Round One (Whole Note)" — the whole note sings of herself — "a circle is my shape, four is my time" — circling the new shape (student book; original target `music/reading-the-beat`) | Book 61, printed p. 36 |
+| Syria — Lesson 18 "The Little Musician" — matching each rhythmic shape to its time — the white note (Blanche) — and reading and singing a solfege with the hand signs (student book; original target `music/reading-the-beat`) | Book 61, printed p. 40 |
+| Syria — Lesson 20 "The Regular Rhythm" — putting a mark under the thing that gives a regular rhythm — like the clock's tick tick tock (student book; original target `music/reading-the-beat`) | Book 61, printed p. 44 |
+
+**Book 62:** *التربية الموسيقية (Music Education), Second Grade* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: first printed 2018-2019, this copy school year 2025-2026; no ISBN printed Grade: 2 (student/teacher: STUDENT). PDF pages: 68 (cover verified against the record title; byte size 38,314,134 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Excluded (named, not placed): closing "Songs of the Book" appendix, printed p. 62 to the end — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 4 "The Binary Measure" — the 2/4 measure — grouping the time values two by two and reading and singing a note written in binary measure (student book; original target `music/reading-the-beat`) | Book 62, printed p. 12 |
+| Syria — Lesson 9 "She of the Tooth (the Eighth Note)" — naming the rhythmic shapes and writing their times; a story of the time signs in which the toothed one is sad — the short note values and their durations (student book; original target `music/reading-the-beat`) | Book 62, printed p. 22 |
+| Syria — Lesson 18 "Come, Let Us Work Together" — cooperating with friends to play the exercise on the percussion instruments in 2/4 (student book; original target `music/reading-the-beat`) | Book 62, printed p. 40 |
+
+**Book 63:** *التربية الموسيقية (Music Education), Third Grade* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 3 (student/teacher: STUDENT). PDF pages: 75 (cover verified against the record title; byte size 84,462,201 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Excluded (named, not placed): closing songs appendix, printed pp. 66-75 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 2 "Musical Pulses" — the time signature (dalil al-maqas) — deducing 2/4 and 4/4 and joining each signature to its fitting squares of beats (student book; original target `music/reading-the-beat`) | Book 63, printed p. 8 |
+| Syria — Lesson 9 "The Measure of Times" — building the rhythmic shapes, computing each one's time, and clapping the shapes that result (student book; original target `music/reading-the-beat`) | Book 63, printed p. 24 |
+| Syria — Lesson 23 "Rhythmic Shapes" — writing the rhythmic shapes you obtained, and clapping them (student book; original target `music/reading-the-beat`) | Book 63, printed p. 54 |
+
+**Book 64:** *التربية الموسيقية (Music Education), Fourth Grade Basic* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026 (1446 AH); no ISBN printed Grade: 4 (student/teacher: STUDENT). PDF pages: 48 (cover verified against the record title; byte size 82,650,289 matches record — fetched byte-exact from the library GitHub release mid-size-books; image-only scan, read visually page by page). Verdict: COMPLETE. Excluded (named, not placed): closing score appendix, printed pp. 44-48 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 3 "The Tie Arc (Qaws al-Wasl al-Zamani)" — the tie joins two music degrees of the same pitch and adds the first's time to the second so they become one degree; writing the rest sign facing each rhythmic shape, and listening to Mozart's music (student book; original target `music/reading-the-beat`) | Book 64, printed p. 10 |
+| Syria — Lesson 11 "The Dotted Note" — Jad and Sara's chat — the dot changed the note's time value: the dotted black note equals a time and a half, for the dot adds half the note's value; conducting the triple metre 3/4 in a triangle, and writing four bars of it (student book; original target `music/reading-the-beat`) | Book 64, printed p. 28 |
+
+**Book 65:** *التربية الموسيقية (Music Education), Ninth Grade* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 9 (student/teacher: STUDENT). PDF pages: 64 (cover verified against the record title; byte size 63,391,665 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Excluded (named, not placed): closing "Notes of the Anthems and Songs" appendix, printed p. 54 to the end — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 1 "A Song and a Rhythm" — listening to a vocal composition and accompanying it with rhythm; this rhythm is called al-Dawr al-Hindi and its metre is 7/8 — singing the words to the rhythm before it (student book; original target `music/reading-the-beat`) | Book 65, printed p. 6 |
+| Syria — Lesson 20 "We Sing with the Rhythm" — watching the video of the rhythm exercises and numbering them as they are performed (student book; original target `music/reading-the-beat`) | Book 65, printed p. 50 |
+
+**Book 66:** *التربية الموسيقية (Music Education), Eighth Grade* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; first printed school year 2018-2019, this copy school year 2025-2026; no ISBN printed Grade: 8 (student/teacher: STUDENT). PDF pages: 64 (cover verified against the record title; byte size 85,804,582 matches record — fetched byte-exact from the library GitHub release mid-size-books; image-only book, read visually page by page). Verdict: COMPLETE. Excluded (named, not placed): "Let Us Play and Test Our Knowledge," printed p. 52 — a board-game revision of the book's content (assessment play, inventory only); closing "Anthems of the Book" appendix, printed pp. 54-64 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 8 "The Triplet (al-Thulathiyya)" — expecting how to clap the exercise — now we perform three equal claps within one count; the new rhythmic figure produced is the triplet (Triolet), distinguished by the number 3 above or below the three equal signs (student book; original target `music/reading-the-beat`) | Book 66, printed p. 24 |
+
+**Acceptance count: taught in 16 countries (Ethiopia, Uganda, Turkmenistan, Colombia, Belarus, Iran, Bulgaria, Cuba, Venezuela, Angola, Mongolia, Rwanda, Bolivia, Malaysia, Moldova, Syria).** The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide / curriculum guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide / teacher programme — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Jordan is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 The off-staff melody is named by its opening letters exactly as the placement quotes them; no melody is transcribed beyond that placement-quoted fragment, and no song is transcribed.
 
-Searchable tags: reading the beat, sight-reading rhythm, beat movement-act with time, Exercise 2.1, letters under notes, off-staff melody, sol-fa rows, atamo tsenatsil, Nicaragua, Iceland, Dægurspor, Haiti, Malta, Music Shines, Colombia, Rwanda
+Searchable tags: reading the beat, sight-reading rhythm, beat movement-act with time, Exercise 2.1, letters under notes, off-staff melody, sol-fa rows, atamo tsenatsil, Nicaragua, Iceland, Dægurspor, Haiti, Malta, Music Shines, Colombia, Rwanda, Syria
 
 **Book 23:** *Музика за четвърти клас (Music for Fourth Grade), by Адриан Георгиев, Мая Андасорова, Рая Ковачева* (student book, Bulgarian) — Bulgaria, РИВА (Riva), Sofia; year 2019; ISBN 978-619-225-098-0 (from the cover barcode). Grade: 4 (student/teacher: STUDENT). PDF pages: 68 (cover verified — "Музика за четвърти клас", Riva, 4. клас). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
 

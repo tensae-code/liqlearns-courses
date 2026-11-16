@@ -1,6 +1,6 @@
 # Sources — How the Arts Belong Together
 
-countries: Ethiopia, Maldives, Uganda, Albania, Samoa, Singapore, Trinidad and Tobago, Iceland, Serbia, Finland, Turkmenistan, Colombia, Belarus, Papua New Guinea, Brazil, Cuba, Venezuela, Mongolia, Moldova, Indonesia
+countries: Ethiopia, Maldives, Uganda, Albania, Samoa, Singapore, Trinidad and Tobago, Iceland, Serbia, Finland, Turkmenistan, Colombia, Belarus, Papua New Guinea, Brazil, Cuba, Venezuela, Mongolia, Moldova, Indonesia, Syria
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -126,11 +126,47 @@ countries: Ethiopia, Maldives, Uganda, Albania, Samoa, Singapore, Trinidad and T
 |---|---|
 | Indonesia — Unit Pembelajaran 1 Keunikan Karya Tari Tradisi dan Kreasi dari Perspektif Seni Lain (Rupa, Musik, Drama) — the uniqueness of traditional and kreasi dance works seen from the perspective of the other arts — visual art, music and drama (teacher guide — evidence; original target `first-steps/how-the-arts-belong-together`) | Book 35, printed p. 9 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Maldives, Uganda, Serbia, Finland, Turkmenistan, Colombia, Belarus, Brazil, Cuba, Venezuela, Mongolia, Moldova).** The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 36:** *التربية الموسيقية (Music Education)* (student book, Arabic) — Syria, Syrian Ministry of Education / National Centre for Curriculum Development (NCCD); year: school year 2021-2022; no ISBN printed Grade: 5 (student/teacher: STUDENT). PDF pages: 72 (cover/title page verified against the record title; byte size 29,485,010 matches record). Verdict: COMPLETE. Excluded (named, not placed): "I Play and I Learn" board game, printed pp. 60-63 — a revision game apparatus covering the book's topics; the closing anthem-score appendix, printed pp. 64-72 — printed scores of songs already placed above (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Projects "My Projects" — group music projects — designing a music magazine, making models of wind instruments, or choosing poems, inventing a melody for them and accompanying the singing on percussion (student book; original target `first-steps/how-the-arts-belong-together`) | Book 36, printed p. 58 |
+
+**Book 37:** *التربية الموسيقية (Music Education)* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 6 (student/teacher: STUDENT). PDF pages: 72 (cover/title page verified against the record title; byte size 27,174,319 matches record). Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — "My Project" — music projects — organising a concert with instrumental playing, and forming a rhythm band that includes an Eastern percussion instrument (student book; original target `first-steps/how-the-arts-belong-together`) | Book 37, printed p. 36 |
+
+**Book 38:** *التربية الموسيقية (Music Education)* (student book, Arabic) — Syria, Syrian Ministry of Education / National Centre for Curriculum Development (NCCD developed-curriculum edition); year: school year 2021-2022 (1442 AH); no ISBN printed Grade: 7 (student/teacher: STUDENT). PDF pages: 53 (cover/title page verified against the record title; byte size 47,782,278 matches record; image-only scan, read visually page by page). Verdict: COMPLETE. Excluded (named, not placed): closing score appendix, printed pp. 48-53 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Projects — group projects — building models of instruments sorted by family for the school exhibition; performing a Syrian heritage wasla with a dancing art panel at a school occasion; writing songs on cleanliness, environment, the teacher and the homeland, building percussion instruments from environment waste and forming a band to play them (student book; original target `first-steps/how-the-arts-belong-together`) | Book 38, printed p. 26 |
+
+**Book 39:** *التربية الموسيقية (Music Education), Third Grade* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 3 (student/teacher: STUDENT). PDF pages: 75 (cover verified against the record title; byte size 84,462,201 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Excluded (named, not placed): closing songs appendix, printed pp. 66-75 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 13 "The Sculptor" — talking with friends about the arts in the pictures — the sculptor and his tools among the arts (student book; original target `first-steps/how-the-arts-belong-together`) | Book 39, printed p. 32 |
+| Syria — The Project — choosing one of the projects for an occasion — joining friends to design a music magazine (student book; original target `first-steps/how-the-arts-belong-together`) | Book 39, printed p. 36 |
+
+**Book 40:** *التربية الموسيقية (Music Education), Fourth Grade Basic* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026 (1446 AH); no ISBN printed Grade: 4 (student/teacher: STUDENT). PDF pages: 48 (cover verified against the record title; byte size 82,650,289 matches record — fetched byte-exact from the library GitHub release mid-size-books; image-only scan, read visually page by page). Verdict: COMPLETE. Excluded (named, not placed): closing score appendix, printed pp. 44-48 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — My Project — choose and execute a project — (1) a music notebook of pictures and information on our favourite instruments; (2) form a group, choose a music wasla from our Syrian heritage or our region's heritage and build a dancing art panel to perform at a school occasion; (3) design instruments from environment waste for the school exhibition — with the planning steps: introduction, groups, goals, sources, roles, tools, timetable (student book; original target `first-steps/how-the-arts-belong-together`) | Book 40, printed p. 22 |
+
+**Acceptance count: taught in 14 countries (Ethiopia, Maldives, Uganda, Serbia, Finland, Turkmenistan, Colombia, Belarus, Brazil, Cuba, Venezuela, Mongolia, Moldova, Syria).** The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 The coin picture and the music example are Grade 2's own (§5.1, printed p. 71); the drama-into-drawing direction is Grade 3's own (§5.1, printed p. 69); the classroom doing-all-three scene and both review summaries are the books' own closing words, folded into the last sub lesson as the course structure map rules for review placements. No relationship claim is made that a book does not make.
 
-Searchable tags: Maldives, Exploring Creative Arts 4, how the arts belong together, two sides of one coin, relationship of the arts, drama into drawing, Iceland, Dægurspor, Finland, Colombia, Papua New Guinea, Brazil
+Searchable tags: Maldives, Exploring Creative Arts 4, how the arts belong together, two sides of one coin, relationship of the arts, drama into drawing, Iceland, Dægurspor, Finland, Colombia, Papua New Guinea, Brazil, Syria
 
 **Book 27:** *Educación Musical — Las músicas de Cuba, Latinoamérica y el Caribe — quinto grado* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4715-2 (print) / 978-959-13-4716-9 (digital). Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 170. Verdict: COMPLETE. Glosario (printed p. 159) inventory only and Bibliografía (p. 161) excluded as filed; songs placed by title, genre and purpose only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
 

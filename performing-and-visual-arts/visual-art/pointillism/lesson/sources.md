@@ -1,6 +1,6 @@
 # Sources — Pointillism
 
-countries: Mozambique, Angola, Mongolia, Moldova
+countries: Mozambique, Angola, Mongolia, Moldova, Syria
 
 **Book 1:** *Educação Visual — Módulo 1 (PESD I — Programa do Ensino Secundário à Distância, 1º Ciclo)* (student book, Portuguese) — Mozambique, Ministério da Educação e Desenvolvimento Humano (MINEDH), Instituto de Educação Aberta e à Distância (IEDA), Moçambique, 2023; elaborated by Dionísio Manjate and Félix Mindú; no ISBN printed, Grades 7–9 (the PESD I cycle is taught as one combined cycle, not split by grade), 152 PDF pp. STUDENT. Verdict: COMPLETE (cover/title verified — "EDUCAÇÃO VISUAL, MÓDULO 1, PESD I"; 20,947,967 bytes, exact match to the record; fetched from GitHub Releases, mid-size-books-8). Mozambique's own way: a self-study distance module — every lesson carries objectives, the teaching body, exercises, a summary and an answer key for the lone learner. Named, not placed: the per-lesson glossaries and the closing Bibliography (printed p. 150) — inventory only; the Unit 5 introduction (printed p. 127) announces a third textiles lesson on basketry (cestaria) that does not appear in this module — a gap in the book, noted as filed. Excluded per the placements: the end-of-module preparation test (Teste de Preparação de Fim do Módulo, printed pp. 138–144) and its answer key (printed pp. 145–149) — the book's own assessment; the lessons' exercises and answer keys are self-study apparatus (all teaching content is placed from the lesson bodies). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/mozambique-placements.md.
 
@@ -41,8 +41,15 @@ countries: Mozambique, Angola, Mongolia, Moldova
 |---|---|
 | Moldova — Unit II §3.1, Punctul cromatic — the coloured point: the neo-impressionists Signac, Pissarro and Seurat covered whole canvases with colour points; big and warm points come near, small and cold ones recede (student book; original target `visual-art/pointillism`) | Book 7, printed p. 31 |
 
-**Acceptance count: taught in 4 countries (Mozambique, Angola, Mongolia, Moldova).** Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 8:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education)* (student book, Arabic) — Syria, Syrian Ministry of Education (NCCD developed-curriculum edition); year: this copy printed for school year 2021-2022 (first printed 2018-2019); no ISBN printed Grade: 5 (student/teacher: STUDENT). PDF pages: 65 (cover/title page verified against the record title; byte size 52,010,128 matches record). Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 15 "Pointillism" — painting a landscape entirely from small dots of colour, Georges Seurat's invented technique, minding light areas and shadow areas (student book; original target `visual-art/pointillism-painting-with-dots`) | Book 8, printed p. 32 |
+
+**Acceptance count: taught in 5 countries (Mozambique, Angola, Mongolia, Moldova, Syria).** Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/pointillism`); the Mozambique placements were filed under the original string(s) `visual-art/pointillism`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Mozambique's own way: pointillism is taught as a step-by-step procedure with household materials, inside its drawing lesson, for the lone distance learner.
 
-Searchable tags: pointillism, pontilhismo, dots, graphite, tone, Mozambique
+Searchable tags: pointillism, pontilhismo, dots, graphite, tone, Mozambique, Syria

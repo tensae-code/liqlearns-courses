@@ -1,6 +1,6 @@
 # Sources — The Voice and Its Types
 
-countries: Haiti, Moldova
+countries: Haiti, Moldova, Syria
 
 **Book 1:** *Éducation esthétique et artistique — Musique — La voix* (teacher guide, French) — Haiti, Projet Nectar, MENFP (Canoprof); Creative Commons BY-NC-SA; no year printed on the cover; no ISBN printed, Grade 7e année (7a per the record's file name), French, 14 PDF pp (printed pp. 3–14 per its own table of contents). TEACHER — teacher guide. Verdict: COMPLETE (cover verified against the record title). Exclusions per the placements: Séance 7 (Révision) and Séance 8 (Évaluation) — named, not placed. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/haiti-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -33,8 +33,22 @@ countries: Haiti, Moldova
 |---|---|
 | Moldova — Unit 2, Timbrul vocilor umane — the human voice, the one instrument we are born with; voice timbres of children, women and men; Bizet's "Carmen" — the Habanera and the Toreador's aria (student book; original target `music/vocal-timbre-and-voice-types`) | Book 4, printed p. 39 |
 
-**Acceptance count: taught in 1 country (Moldova) — this lesson stands on Haiti teacher-guide / teacher-programme evidence only, named here, counted nowhere.** Moldova is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 5:** *التربية الموسيقية (Music Education)* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 6 (student/teacher: STUDENT). PDF pages: 72 (cover/title page verified against the record title; byte size 27,174,319 matches record). Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 12 "I Test My Voice" — testing your own singing voice — starting at middle C with the teacher's playing, singing upward and marking your highest reachable note — then singing the New Year anthem (student book; original target `music/finding-your-vocal-range`) | Book 5, printed p. 42 |
+
+**Book 6:** *التربية الموسيقية (Music Education)* (student book, Arabic) — Syria, Syrian Ministry of Education / National Centre for Curriculum Development (NCCD developed-curriculum edition); year: school year 2021-2022 (1442 AH); no ISBN printed Grade: 7 (student/teacher: STUDENT). PDF pages: 53 (cover/title page verified against the record title; byte size 47,782,278 matches record; image-only scan, read visually page by page). Verdict: COMPLETE. Excluded (named, not placed): closing score appendix, printed pp. 48-53 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 3 "Her Voice and Your Voice" — classifying human voices — women's soprano (high) and alto (low), men's tenor (high) and basso (low) — hearing named singers, comparing instruments with voices, and finding your own voice type (student book; original target `music/finding-your-vocal-range`) | Book 6, printed p. 10 |
+
+**Acceptance count: taught in 2 countries (Moldova, Syria) — this lesson stands on Haiti teacher-guide / teacher-programme evidence only, named here, counted nowhere.** Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/the-voice-and-its-types`); the Haiti placements were filed under the original strings recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Haiti's own way, carried in the placements: EEA is built in three volets — arts plastiques et visuels, arts de la scène (mainly music), and knowledge of Haitian culture and heritage (patrimoine haïtien) — taught in atelier sequences that make, analyse and verbalise, rooted in Haiti's own art forms. Every part of this lesson is labelled evidence; no student-textbook claim is made for it.
 
-Searchable tags: voice, vocal types, soprano, tenor, baritone, bass, tessitura, timbre, larynx, whistle voice, vocalises, Haiti
+Searchable tags: voice, vocal types, soprano, tenor, baritone, bass, tessitura, timbre, larynx, whistle voice, vocalises, Haiti, Syria

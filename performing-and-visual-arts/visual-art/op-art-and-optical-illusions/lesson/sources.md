@@ -1,6 +1,6 @@
 # Sources — Op Art and Optical Illusions
 
-countries: Serbia, Brazil
+countries: Serbia, Brazil, Syria
 
 **Book 1:** *Ликовна култура — за 3. разред основне школе (Likovna kultura / Visual Culture — for Grade 3 of primary school)* (student book, Serbian) — Serbia, by др Рајка Бошковић (Dr Rajka Bošković), illustrations by Слађана Љубић (Slađana Ljubić); Завод за уџбенике (Zavod za udžbenike), Београд, and АрхиКњига (Arhiknjiga), Стара Пазова; first edition 2020 (the Arhiknjiga issue ©2021); ISBN 978-86-17-20327-4; approved for Grade 3 use by ministerial decision 650-02-00629/2019-07 of 16 January 2020, Grade 3, 76 PDF pp. STUDENT — student book. Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read (image-only PDF read visually from page renders). The record's title adds "и окружење" (and environment) — the curriculum area name, which the book's Part One carries as its title. Named, not placed: the three part summaries "НАУЧИЛИ СМО ДА..." (printed pp. 22, 38, 54); the story "Јежић" (The Little Hedgehog) by Elena Mikhalenko (printed pp. 57–59) — a reading text, named and not placed, its classroom use placed from printed p. 51; the work appendix (ornament strips printed pp. 55–56, picture grounds printed pp. 61–71, cut-out sculptures printed p. 73) — their classroom uses placed from printed pp. 7 and 9; the closing contents (printed pp. 74–75) and colophon — inventory only. Placements at liqlearns-courses-work/expansion-art-2026-11-16/serbia-placements.md.
 
@@ -14,8 +14,32 @@ countries: Serbia, Brazil
 | Brazil — Folha 8 — optical illusions (duck-rabbit, Fraser's false spiral) and Op Art (Vasarely); building your own kaleidoscope from three rulers and beads (student book; original target `visual-art/optical-illusion-and-op-art`) | Book 2, printed p. 134 |
 | Brazil — Folha 8 — Escher: drawing as illusion, a 3D world conjured on 2D paper (Espelho Mágico) (student book; original target `visual-art/escher-and-impossible-pictures`) | Book 2, printed p. 137 |
 
-**Acceptance count: taught in 2 countries (Serbia, Brazil).**
+**Book 3:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Basic Education Stage, Student's Book* (student book, Arabic) — Syria, Syrian Ministry of Education (specialist committee authorship); year: first printed 2017-2018, this copy school year 2021-2022; no ISBN printed Grade: 7 (student/teacher: STUDENT). PDF pages: 67 (cover/title pages verified against the record title; byte size 525,814,190 matches record; image-heavy scan read visually page by page with its text layer). Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 7 "Optical Illusion in Black and White (Op Art)" — Op art — a modern pattern that organises lines, shapes and space to make a visual illusion that deceives you with movement; Victor Vasarely (1906-1997), French painter-sculptor born in Hungary, first maker of the optical-illusion art; making a work in his spirit (student book; original target `visual-art/op-art-optical-illusion`) | Book 3, printed p. 16 |
+| Syria — "Art Around Us: 3D Drawings in the Street" — three-dimensional pavement drawings that open false chasms and waterfalls under your feet — how do you feel before this kind of art? Designing a 3D work in your sketchbook fit for a street (student book; original target `visual-art/op-art-optical-illusion`) | Book 3, printed p. 36 |
+
+**Book 4:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Student's Book* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 9 (student/teacher: STUDENT). PDF pages: 82 (cover verified against the record title; byte size 46,063,992 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Excluded (named, not placed): the closing recall page, printed p. 82 — "let us always remember the primary colours and their derivatives" (revision apparatus, inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 24 "Optical Illusion (Op Art)" — Op art defined — a pattern of modern art in which lines, shapes and space are organised to provide an illusion of movement; why did the artist rely on black and white? Making a work where perspective surfaces and lines turn surfaces into volumes (student book; original target `visual-art/op-art-optical-illusion`) | Book 4, printed p. 58 |
+| Syria — Lesson 29 "A Composition from Optical Movement" — creating a design of a composition distinguished by optical movement, and discussing with teacher and classmates whether it can be executed (student book; original target `visual-art/op-art-optical-illusion`) | Book 4, printed p. 71 |
+
+**Book 5:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Student's Book, Basic Education Stage* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; first printed school year 2017-2018, this copy school year 2025-2026; no ISBN printed Grade: 8 (student/teacher: STUDENT). PDF pages: 68 (cover verified against the record title; byte size 283,756,204 matches record — fetched byte-exact from the library GitHub release full-quality-oversized-books; image-only book, read visually page by page). Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 2 "Straight Lines and Their Harmony with Black and White" — observe how man benefited from straight lines in black and white and employed them in his daily life (the cushions); think of forming an artwork from straight lines in black and white to create visual movement (student book; original target `visual-art/op-art-optical-illusion`) | Book 5, printed p. 5 |
+| Syria — Lesson 11 (the Op Art panel) — contemplating the panel before you, which forms an optical illusion (Op Art) through the perspective straight lines that form surfaces and volumes; forming an optical artwork showing the importance of the surfaces and perspective straight lines that turned the compositions into volumes (student book; original target `visual-art/op-art-optical-illusion`) | Book 5, printed p. 22 |
+
+**Acceptance count: taught in 3 countries (Serbia, Brazil, Syria). Syria is added as student-book stock (see its rows above), inside the acceptance count.**
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/op-art-and-optical-illusions`); the Serbia placements were filed under the original string(s) `visual-art/optical-illusions`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Serbia's own way: optical illusion is taught by testing — the child measures the dotted and arrowed lines for sameness of length and judges whether the blue and red circles rest or move, before following Vasarely.
 
-Searchable tags: op art, optical illusions, optical tricks, Bridget Riley, Victor Vasarely, wavy lines, Serbia, Brazil
+Searchable tags: op art, optical illusions, optical tricks, Bridget Riley, Victor Vasarely, wavy lines, Serbia, Brazil, Syria

@@ -1,6 +1,6 @@
 # Sources — Masks
 
-countries: Libya, Venezuela, Bolivia, Indonesia
+countries: Libya, Venezuela, Bolivia, Indonesia, Syria
 
 **Book 1:** *دليل المعلم لمادة التربية الفنية — للصف الأول من مرحلة التعليم الأساسي (Teacher's Guide for Art Education, Grade 1 of Basic Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2018–2019 (1439–1440 AH); ISBN no ISBN printed Grade: 1 (student/teacher: TEACHER). PDF pages: 84 (cover/title page verified against the record title). Verdict: COMPLETE Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -37,8 +37,15 @@ countries: Libya, Venezuela, Bolivia, Indonesia
 |---|---|
 | Indonesia — Bab I, Kegiatan 4 — making masks of animals and natural events (membuat topeng binatang dan peristiwa alam), with drawing the animal first (teacher guide — evidence; original target `visual-art/making-animal-masks`) | Book 6, printed p. 42 |
 
-**Acceptance count: taught in 2 countries (Venezuela, Bolivia).** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 7:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Basic Education Stage, Student's Book* (student book, Arabic) — Syria, Syrian Ministry of Education (specialist committee authorship); year: first printed 2017-2018, this copy school year 2021-2022; no ISBN printed Grade: 7 (student/teacher: STUDENT). PDF pages: 67 (cover/title pages verified against the record title; byte size 525,814,190 matches record; image-heavy scan read visually page by page with its text layer). Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — "Various Techniques: Masks from Different Materials" — inventing our masks from mixed materials and holding a masquerade party with our teacher in the class (student book; original target `visual-art/making-masks`) | Book 7, printed p. 49 |
+
+**Acceptance count: taught in 3 countries (Venezuela, Bolivia, Syria).** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/masks`); the Libya placements were filed under the original string(s) `visual-art/making-masks` and resolved to this lesson by slug-registry Part 2. Songs and stories are placed by summary only, never transcribed.
 
-Searchable tags: masks, Libya
+Searchable tags: masks, Libya, Syria

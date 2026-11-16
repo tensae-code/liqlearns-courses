@@ -1,6 +1,6 @@
 # Sources — Kinds of Traditional Music
 
-countries: Ethiopia, Cyprus, Guatemala, Samoa, Turkmenistan, Colombia, Belarus, Moldova
+countries: Ethiopia, Cyprus, Guatemala, Samoa, Turkmenistan, Colombia, Belarus, Moldova, Syria
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 96 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -47,8 +47,76 @@ countries: Ethiopia, Cyprus, Guatemala, Samoa, Turkmenistan, Colombia, Belarus, 
 |---|---|
 | Moldova — Unit 4, Genurile primare în audiție — hearing the primary genres: Doga's march "Majestic" and Grigoraș Dinicu's "Hora staccato" and "Hora mărțișorului" (student book; original target `music/kinds-of-traditional-music`) | Book 10, printed p. 68 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Turkmenistan, Colombia, Belarus, Moldova).** Cyprus is added as teacher unit material — evidence only, kept outside the acceptance count. Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 11:** *التربية الموسيقية (Music Education)* (student book, Arabic) — Syria, Syrian Ministry of Education / National Centre for Curriculum Development (NCCD); year: school year 2021-2022; no ISBN printed Grade: 5 (student/teacher: STUDENT). PDF pages: 72 (cover/title page verified against the record title; byte size 29,485,010 matches record). Verdict: COMPLETE. Excluded (named, not placed): "I Play and I Learn" board game, printed pp. 60-63 — a revision game apparatus covering the book's topics; the closing anthem-score appendix, printed pp. 64-72 — printed scores of songs already placed above (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 14 "Our Varied Heritage" — listening to the Syrian heritage song "Taht Hawdajha", judging its melody, dialect words and Eastern vocal form (student book; original target `music/kinds-of-traditional-music`) | Book 11, printed p. 40 |
+
+**Book 12:** *التربية الموسيقية (Music Education)* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 6 (student/teacher: STUDENT). PDF pages: 72 (cover/title page verified against the record title; byte size 27,174,319 matches record). Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 16 "From Heritage" — a heritage song of Syria's central region, heard and studied among pictures of the region's landmarks (student book; original target `music/kinds-of-traditional-music`) | Book 12, printed p. 54 |
+
+**Book 13:** *التربية الموسيقية (Music Education)* (student book, Arabic) — Syria, Syrian Ministry of Education / National Centre for Curriculum Development (NCCD developed-curriculum edition); year: school year 2021-2022 (1442 AH); no ISBN printed Grade: 7 (student/teacher: STUDENT). PDF pages: 53 (cover/title page verified against the record title; byte size 47,782,278 matches record; image-only scan, read visually page by page). Verdict: COMPLETE. Excluded (named, not placed): closing score appendix, printed pp. 48-53 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 10 "From Heritage" — the folk song "Rozana" and its story — the Ottoman-era ship whose Aleppo merchants' goods Beirut's people bought, and the thanksgiving song the people of Beirut made for her (student book; original target `music/kinds-of-traditional-music`) | Book 13, printed p. 24 |
+| Syria — Lesson 10 (activities) — naming the folk instruments in pictures (rababa, tabl drum, nay, bagpipes), the laff rhythm that accompanies singing in 2/4, and singing a folk song of your own region, telling its story if it has one (student book; original target `music/kinds-of-traditional-music`) | Book 13, printed p. 25 |
+
+**Book 14:** *التربية الموسيقية (Music Education), First Grade Primary* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026 (1446 AH); no ISBN printed Grade: 1 (student/teacher: STUDENT). PDF pages: 66 (cover verified against the record title; byte size 34,464,970 matches record — fetched byte-exact from the library GitHub release mid-size-books after a first truncated attempt was retried). Verdict: COMPLETE. Excluded (named, not placed): closing score appendix, printed pp. 60-66 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 14 (listening time) — listening to songs from our Syrian heritage and accompanying them with folk dance steps, with your friends (student book; original target `music/kinds-of-traditional-music`) | Book 14, printed p. 33 |
+
+**Book 15:** *التربية الموسيقية (Music Education), Second Grade* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: first printed 2018-2019, this copy school year 2025-2026; no ISBN printed Grade: 2 (student/teacher: STUDENT). PDF pages: 68 (cover verified against the record title; byte size 38,314,134 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Excluded (named, not placed): closing "Songs of the Book" appendix, printed p. 62 to the end — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 21 "Our Beautiful Heritage" — listening to a heritage song ("Zayyinu…"), and joining each folk instrument to the modern one it resembles in the way of playing (student book; original target `music/kinds-of-traditional-music`) | Book 15, printed p. 46 |
+
+**Book 16:** *التربية الموسيقية (Music Education), Third Grade* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 3 (student/teacher: STUDENT). PDF pages: 75 (cover verified against the record title; byte size 84,462,201 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Excluded (named, not placed): closing songs appendix, printed pp. 66-75 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — The Project (folk troupe) — joining friends to form a folk-arts troupe from our region's heritage and present its folk songs at a school party (student book; original target `music/kinds-of-traditional-music`) | Book 16, printed p. 37 |
+| Syria — Lesson 27 "Songs on My Mind" — the songs we keep on our minds — my dearest friends, and "who knows the harvest season?" — the folk songs of the land (student book; original target `music/kinds-of-traditional-music`) | Book 16, printed p. 62 |
+
+**Book 17:** *التربية الموسيقية (Music Education), Fourth Grade Basic* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026 (1446 AH); no ISBN printed Grade: 4 (student/teacher: STUDENT). PDF pages: 48 (cover verified against the record title; byte size 82,650,289 matches record — fetched byte-exact from the library GitHub release mid-size-books; image-only scan, read visually page by page). Verdict: COMPLETE. Excluded (named, not placed): closing score appendix, printed pp. 44-48 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 16 "From Our Heritage" — we will sing songs from our Syrian folk heritage and express them with the fitting movements (the dabke line in folk dress) (student book; original target `music/kinds-of-traditional-music`) | Book 17, printed p. 38 |
+| Syria — Lesson 16 (what folk melody is) — "Did you know? The melodies of folk songs are easy and simple, inherited across the generations; non-professional musicians composed them while performing their daily rituals — the harvest, the wedding, the henna, the olive pressing" (student book; original target `music/kinds-of-traditional-music`) | Book 17, printed p. 39 |
+
+**Book 18:** *التربية الموسيقية (Music Education), Ninth Grade* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 9 (student/teacher: STUDENT). PDF pages: 64 (cover verified against the record title; byte size 63,391,665 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Excluded (named, not placed): closing "Notes of the Anthems and Songs" appendix, printed p. 54 to the end — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 17 "Between the Present and the Past" — heritage vocal excerpts from a region — trying with classmates to set the past's singing beside the present's (student book; original target `music/kinds-of-traditional-music`) | Book 18, printed p. 44 |
+
+**Book 19:** *التربية الموسيقية (Music Education), Eighth Grade* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; first printed school year 2018-2019, this copy school year 2025-2026; no ISBN printed Grade: 8 (student/teacher: STUDENT). PDF pages: 64 (cover verified against the record title; byte size 85,804,582 matches record — fetched byte-exact from the library GitHub release mid-size-books; image-only book, read visually page by page). Verdict: COMPLETE. Excluded (named, not placed): "Let Us Play and Test Our Knowledge," printed p. 52 — a board-game revision of the book's content (assessment play, inventory only); closing "Anthems of the Book" appendix, printed pp. 54-64 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 5 (the tango) — the music in both works is the tango — a kind of music built on a binary or quaternary metre, Argentine in origin, which entered Arabic music; Farid al-Atrash used it most (student book; original target `music/kinds-of-traditional-music`) | Book 19, printed p. 19 |
+| Syria — Lesson 15 "Our Beautiful Songs" — beautiful heritage songs spread through the regions of my country; choosing the right answers — the folk melody is easy and inherited across the generations, the text unchangeable, the words colloquial; the folk song expresses the reality and customs of the people and society (student book; original target `music/kinds-of-traditional-music`) | Book 19, printed p. 38 |
+| Syria — My Project — planning to form a folk or heritage troupe comprising songs and dabkes from all the governorates, and taking part with it in school occasions (student book; original target `music/kinds-of-traditional-music`) | Book 19, printed p. 50 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Turkmenistan, Colombia, Belarus, Moldova, Syria).** Cyprus is added as teacher unit material — evidence only, kept outside the acceptance count. Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 The book prints one short shilela (qererito) example and one fukera example as repertoire; following the placements, they are placed by kind and purpose only — no chant verses are transcribed in this lesson. The Grade 2 chapter review's wording on this topic is folded into this lesson's questions, as review stock, per the course folding rules; it is not a separate lesson.
 
-Searchable tags: traditional music kinds, shilela, ሽለላ, fukera, ፉከራ, qererito, praise chanting, wedding songs, work songs, Colombia
+Searchable tags: traditional music kinds, shilela, ሽለላ, fukera, ፉከራ, qererito, praise chanting, wedding songs, work songs, Colombia, Syria

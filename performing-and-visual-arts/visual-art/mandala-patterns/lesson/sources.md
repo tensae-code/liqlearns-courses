@@ -1,0 +1,21 @@
+# Sources — Mandala Patterns
+
+countries: Syria
+
+**Book 1:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education)* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 6 (student/teacher: STUDENT). PDF pages: 84 (cover/title page verified against the record title; byte size 23,066,016 matches record). Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 13 "Indian Art" — Indian mandala art — circular patterned designs built from plant and geometric ornaments, drawn and coloured (student book; original target `visual-art/mandala-patterns`) | Book 1, printed p. 41 |
+
+**Book 2:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Basic Education Stage, Student's Book* (student book, Arabic) — Syria, Syrian Ministry of Education (specialist committee authorship); year: first printed 2017-2018, this copy school year 2021-2022; no ISBN printed Grade: 7 (student/teacher: STUDENT). PDF pages: 67 (cover/title pages verified against the record title; byte size 525,814,190 matches record; image-heavy scan read visually page by page with its text layer). Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — "Various Techniques: Coloured Formations" — drawing a geometric or plant ornament in colour and joining your classmates' squares into one shared wall formation (student book; original target `visual-art/mandala-patterns`) | Book 2, printed p. 55 |
+
+**Acceptance count: taught in 1 country (Syria).**
+
+This is a canonical NEW lesson (slug-registry Part 1: `visual-art/mandala-patterns`). The Syria placements were filed under the original string(s) `visual-art/mandala-patterns`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2 where the string differs. Syria's own way is the lesson itself where the topic is Syrian: the country's own music, dances, crafts and art forms are kept as named parts. Songs are placed by title and theme only, never transcribed.
+
+Searchable tags: Syria, Mandala Patterns, Lesson 13 "Indian Art"

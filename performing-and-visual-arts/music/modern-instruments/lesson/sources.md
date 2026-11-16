@@ -1,6 +1,6 @@
 # Sources — Modern Instruments
 
-countries: Ethiopia, Turkmenistan, Colombia, Belarus, Bulgaria, Libya, Angola, Bolivia, Malaysia, Indonesia
+countries: Ethiopia, Turkmenistan, Colombia, Belarus, Bulgaria, Libya, Angola, Bolivia, Malaysia, Indonesia, Syria
 
 **Book 1:** *Grade 8 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 8ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–139. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-student-placements.md.
 
@@ -76,11 +76,80 @@ countries: Ethiopia, Turkmenistan, Colombia, Belarus, Bulgaria, Libya, Angola, B
 |---|---|
 | Indonesia — Bab I Keterampilan Bermusik — musicianship skills — correct guitar playing technique and cajon (box percussion) technique, and writing notation with music software (teacher guide — evidence; original target `music/modern-instruments`) | Book 16, printed p. 15 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Turkmenistan, Colombia, Belarus, Bulgaria, Angola, Bolivia, Malaysia).** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 17:** *التربية الموسيقية (Music Education)* (student book, Arabic) — Syria, Syrian Ministry of Education / National Centre for Curriculum Development (NCCD); year: school year 2021-2022; no ISBN printed Grade: 5 (student/teacher: STUDENT). PDF pages: 72 (cover/title page verified against the record title; byte size 29,485,010 matches record). Verdict: COMPLETE. Excluded (named, not placed): "I Play and I Learn" board game, printed pp. 60-63 — a revision game apparatus covering the book's topics; the closing anthem-score appendix, printed pp. 64-72 — printed scores of songs already placed above (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 2 "From the Music of the West" (activity) — the drum kit (drums) — naming its parts and which are struck with sticks, which with the pedal (student book; original target `music/modern-instruments`) | Book 17, printed p. 10 |
+| Syria — Lesson 6 "Brass Wind Instruments" — the brass family told apart by their marks — three pistons, five pistons, the sliding tube — with listening to Tchaikovsky's Nutcracker (student book; original target `music/modern-instruments`) | Book 17, printed p. 20 |
+
+**Book 18:** *التربية الموسيقية (Music Education)* (student book, Arabic) — Syria, Syrian Ministry of Education / National Centre for Curriculum Development (NCCD developed-curriculum edition); year: school year 2021-2022 (1442 AH); no ISBN printed Grade: 7 (student/teacher: STUDENT). PDF pages: 53 (cover/title page verified against the record title; byte size 47,782,278 matches record; image-only scan, read visually page by page). Verdict: COMPLETE. Excluded (named, not placed): closing score appendix, printed pp. 48-53 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 6 "Musical Instruments" — classifying all instruments on one mind map — Eastern and Western; strings bowed and plucked, winds wooden and metal, percussion tuned and untuned; which family piano, organ/keyboard and accordion belong to; singing "Au Clair de la Lune" to a solfege line (student book; original target `music/modern-instruments`) | Book 18, printed p. 16 |
+
+**Book 19:** *التربية الموسيقية (Music Education), First Grade Primary* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026 (1446 AH); no ISBN printed Grade: 1 (student/teacher: STUDENT). PDF pages: 66 (cover verified against the record title; byte size 34,464,970 matches record — fetched byte-exact from the library GitHub release mid-size-books after a first truncated attempt was retried). Verdict: COMPLETE. Excluded (named, not placed): closing score appendix, printed pp. 60-66 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 6 "The Piano" — watching the piano and its parts in a video and joining its picture to its name (student book; original target `music/modern-instruments`) | Book 19, printed p. 16 |
+| Syria — Lesson 8 "The Violin" — telling the thin high sound from the wide low sound, and singing while imitating the violin player (student book; original target `music/modern-instruments`) | Book 19, printed p. 20 |
+| Syria — Lesson 9 "The Harp (al-Qithara)" — the new instrument is the harp — joining it to its shadow, naming it and singing to it (student book; original target `music/modern-instruments`) | Book 19, printed p. 22 |
+
+**Book 20:** *التربية الموسيقية (Music Education), Second Grade* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: first printed 2018-2019, this copy school year 2025-2026; no ISBN printed Grade: 2 (student/teacher: STUDENT). PDF pages: 68 (cover verified against the record title; byte size 38,314,134 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Excluded (named, not placed): closing "Songs of the Book" appendix, printed p. 62 to the end — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 6 "The Companion of Tarab" — naming the instruments you know and watching the video — the oud, struck with the plectrum (risha), companion of Arabic tarab (student book; original target `music/modern-instruments`) | Book 20, printed p. 16 |
+| Syria — Lesson 14 "The Trumpet" — watching the trumpet video and telling what you saw; the numbers game (student book; original target `music/modern-instruments`) | Book 20, printed p. 32 |
+| Syria — Lesson 19 "The Cello" — the new instrument from the violin family is the cello — watching its video and imitating the playing of the instrument you loved (student book; original target `music/modern-instruments`) | Book 20, printed p. 42 |
+| Syria — Lesson 23 "The Recorder" — the recorder — watching its video, filling its blanks, and singing the exercise to the teacher's recorder playing (student book; original target `music/modern-instruments`) | Book 20, printed p. 50 |
+| Syria — Lesson 27 "The Musical Instruments" — singing with the musical instruments, and joining every instrument to its group — percussion, wind and string instruments (student book; original target `music/modern-instruments`) | Book 20, printed p. 58 |
+
+**Book 21:** *التربية الموسيقية (Music Education), Third Grade* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 3 (student/teacher: STUDENT). PDF pages: 75 (cover verified against the record title; byte size 84,462,201 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Excluded (named, not placed): closing songs appendix, printed pp. 66-75 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 7 "Me and My Family" — the violin family — how many members has the violin family? Violin, viola, cello and contrabass compared by strings, bow, size, sound, shape and way of playing (student book; original target `music/modern-instruments`) | Book 21, printed p. 18 |
+| Syria — Lesson 16 "The Accordion" — watching the accordion video, naming the instrument seen, watching its bellows move, and singing the solfege observing the performance terms (student book; original target `music/modern-instruments`) | Book 21, printed p. 40 |
+| Syria — Lesson 17 (the qanun) — writing a description of the qanun — "did you know?" the Arabic zither whose strings are plucked in the takht (student book; original target `music/modern-instruments`) | Book 21, printed p. 43 |
+| Syria — Lesson 24 "My Favourite Instrument" — writing the names of the instruments seen in the video in order, and numbering each instrument at its name — bassoon, clarinet, contrabass, flute (student book; original target `music/modern-instruments`) | Book 21, printed p. 56 |
+| Syria — Lesson 26 "A Western Instrument" — watching the video and naming the Western instrument and what it is made of (student book; original target `music/modern-instruments`) | Book 21, printed p. 60 |
+
+**Book 22:** *التربية الموسيقية (Music Education), Fourth Grade Basic* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026 (1446 AH); no ISBN printed Grade: 4 (student/teacher: STUDENT). PDF pages: 48 (cover verified against the record title; byte size 82,650,289 matches record — fetched byte-exact from the library GitHub release mid-size-books; image-only scan, read visually page by page). Verdict: COMPLETE. Excluded (named, not placed): closing score appendix, printed pp. 44-48 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 2 (the xylophone) — "Do you know who I am? I sit with the percussion group… some melodies are played on me, so I was described as a melodic percussion instrument, played with mallets — my name is the xylophone" — listening to it and researching pieces written for it (student book; original target `music/modern-instruments`) | Book 22, printed p. 7 |
+| Syria — Lesson 5 "The Musical Instruments" — classifying the pictured instruments as strings, winds and percussion; naming the Eastern instruments in the pictures; and the marimba — a melodic percussion instrument of bars fixed over tubes, played with mallets, its bars ordered like piano keys (student book; original target `music/modern-instruments`) | Book 22, printed p. 14 |
+| Syria — Lesson 6 (orchestra) — watching how the instruments are distributed on the stage inside the orchestra, and filling the concept map — instruments divide into tuned percussion, wooden winds and the string family (student book; original target `music/modern-instruments`) | Book 22, printed p. 15 |
+
+**Book 23:** *التربية الموسيقية (Music Education), Ninth Grade* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 9 (student/teacher: STUDENT). PDF pages: 64 (cover verified against the record title; byte size 63,391,665 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Excluded (named, not placed): closing "Notes of the Anthems and Songs" appendix, printed p. 54 to the end — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 2 "The Plectrum Player" — reading and singing the solfege, then the song of the oud player and his plectrum (risha) — "weave life into roses with the plectrum" (student book; original target `music/modern-instruments`) | Book 23, printed p. 8 |
+
+**Book 24:** *التربية الموسيقية (Music Education), Eighth Grade* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; first printed school year 2018-2019, this copy school year 2025-2026; no ISBN printed Grade: 8 (student/teacher: STUDENT). PDF pages: 64 (cover verified against the record title; byte size 85,804,582 matches record — fetched byte-exact from the library GitHub release mid-size-books; image-only book, read visually page by page). Verdict: COMPLETE. Excluded (named, not placed): "Let Us Play and Test Our Knowledge," printed p. 52 — a board-game revision of the book's content (assessment play, inventory only); closing "Anthems of the Book" appendix, printed pp. 54-64 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 12 (the buzuq) — observing the picture and describing the buzuq instrument; listening to a piece by the buzuq player Mohamed Abdel Karim, nicknamed "Prince of the Buzuq" for his creative playing on it, who also excelled on the oud and composed many famous melodies for the greatest singers (student book; original target `music/modern-instruments`) | Book 24, printed p. 31 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Turkmenistan, Colombia, Belarus, Bulgaria, Angola, Bolivia, Malaysia, Syria).** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 Modern instruments are treated at the level the Grade 8 placements carry them — the book treats traditional and modern families exhaustively; the sound-role pairings follow the book's family order. No brand names or models are introduced.
 
-Searchable tags: modern instruments, trumpet saxophone keyboard drum kit, modern Ethiopian band, traditional and modern together, Colombia
+Searchable tags: modern instruments, trumpet saxophone keyboard drum kit, modern Ethiopian band, traditional and modern together, Colombia, Syria
 
 **Book 6:** *Музика за четвърти клас (Music for Fourth Grade), by Адриан Георгиев, Мая Андасорова, Рая Ковачева* (student book, Bulgarian) — Bulgaria, РИВА (Riva), Sofia; year 2019; ISBN 978-619-225-098-0 (from the cover barcode). Grade: 4 (student/teacher: STUDENT). PDF pages: 68 (cover verified — "Музика за четвърти клас", Riva, 4. клас). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
 

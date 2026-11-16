@@ -1,6 +1,6 @@
 # Sources — Anthems and Songs That Teach
 
-countries: Ethiopia, Honduras, Albania, Samoa, Nicaragua, Iceland, Finland, Fiji, Belarus, Brazil, Morocco, Jordan, Libya, Cuba, Venezuela, Angola, Mongolia, Rwanda, Bolivia, Malaysia, Moldova, Indonesia
+countries: Ethiopia, Honduras, Albania, Samoa, Nicaragua, Iceland, Finland, Fiji, Belarus, Brazil, Morocco, Jordan, Libya, Cuba, Venezuela, Angola, Mongolia, Rwanda, Bolivia, Malaysia, Moldova, Indonesia, Syria
 
 **Book 1:** *Grade 4 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 4ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–100. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-student-placements.md.
 
@@ -198,11 +198,56 @@ countries: Ethiopia, Honduras, Albania, Samoa, Nicaragua, Iceland, Finland, Fiji
 |---|---|
 | Indonesia — Bab I Mengenal Musik dan Unsurnya — recognising national songs (lagu nasional) and popular children's songs and what each kind is for (teacher guide — evidence; original target `music/anthems-and-songs-that-teach`) | Book 46, printed p. 24 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Honduras, Belarus, Brazil, Jordan, Cuba, Venezuela, Angola, Mongolia, Rwanda, Bolivia, Malaysia, Moldova).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Finland is added as teacher module plan — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 47:** *التربية الموسيقية (Music Education)* (student book, Arabic) — Syria, Syrian Ministry of Education / National Centre for Curriculum Development (NCCD); year: school year 2021-2022; no ISBN printed Grade: 5 (student/teacher: STUDENT). PDF pages: 72 (cover/title page verified against the record title; byte size 29,485,010 matches record). Verdict: COMPLETE. Excluded (named, not placed): "I Play and I Learn" board game, printed pp. 60-63 — a revision game apparatus covering the book's topics; the closing anthem-score appendix, printed pp. 64-72 — printed scores of songs already placed above (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 15 "Voluntary Work" — a song that teaches voluntary work — discussing the voluntary deeds children can do and singing the work into a class project (student book; original target `music/anthems-and-songs-that-teach`) | Book 47, printed p. 42 |
+| Syria — Lesson 17 "Childhood Dream" — a peace song (words by George Isa) asking why people hunt birds and make weapons when children could live without fear — with listening to piano music and drawing the feelings it raises (student book; original target `music/anthems-and-songs-that-teach`) | Book 47, printed p. 48 |
+
+**Book 48:** *التربية الموسيقية (Music Education)* (student book, Arabic) — Syria, Syrian Ministry of Education / National Centre for Curriculum Development (NCCD developed-curriculum edition); year: school year 2021-2022 (1442 AH); no ISBN printed Grade: 7 (student/teacher: STUDENT). PDF pages: 53 (cover/title page verified against the record title; byte size 47,782,278 matches record; image-only scan, read visually page by page). Verdict: COMPLETE. Excluded (named, not placed): closing score appendix, printed pp. 48-53 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 1 "Makers of Hope" — a song (words by Bayan al-Safadi, music by Hussein Nazek) calling children to walk to the future rather than wait for it, with rhythmic-form analysis and inventing a melody from the forms (student book; original target `music/anthems-and-songs-that-teach`) | Book 48, printed p. 6 |
+
+**Book 49:** *التربية الموسيقية (Music Education), First Grade Primary* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026 (1446 AH); no ISBN printed Grade: 1 (student/teacher: STUDENT). PDF pages: 66 (cover verified against the record title; byte size 34,464,970 matches record — fetched byte-exact from the library GitHub release mid-size-books after a first truncated attempt was retried). Verdict: COMPLETE. Excluded (named, not placed): closing score appendix, printed pp. 60-66 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 2 "Master Your Work" — the work song — "master your work, come on, work" — sung over pictures of field and city work so the world becomes more beautiful (student book; original target `music/anthems-and-songs-that-teach`) | Book 49, printed p. 8 |
+
+**Book 50:** *التربية الموسيقية (Music Education), Third Grade* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 3 (student/teacher: STUDENT). PDF pages: 75 (cover verified against the record title; byte size 84,462,201 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Excluded (named, not placed): closing songs appendix, printed pp. 66-75 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 8 "Little Hearts" — discussing our duty toward our friends, and listening to a piano piece, colouring the picture quietly by its times (student book; original target `music/anthems-and-songs-that-teach`) | Book 50, printed p. 22 |
+
+**Book 51:** *التربية الموسيقية (Music Education), Fourth Grade Basic* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026 (1446 AH); no ISBN printed Grade: 4 (student/teacher: STUDENT). PDF pages: 48 (cover verified against the record title; byte size 82,650,289 matches record — fetched byte-exact from the library GitHub release mid-size-books; image-only scan, read visually page by page). Verdict: COMPLETE. Excluded (named, not placed): closing score appendix, printed pp. 44-48 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 6 (anthem) — her anthem "The Promising Future" — "I came from the voice of the future, and I carry a most beautiful hope… if we, O my homeland, desire, our striving is to work" (music by Ilham Abu al-Suoud) (student book; original target `music/anthems-and-songs-that-teach`) | Book 51, printed p. 16 |
+| Syria — Lesson 14 "Think and Work" — the work anthem — "when you want a better life, think and work until you arrive; the fruit of thought is the sweetest, the fruit of work is the most beautiful" (words by Abd al-Jabbar al-Ashur, music by Hussein Qadri) — expressing each worker's role in the pictures (student book; original target `music/anthems-and-songs-that-teach`) | Book 51, printed p. 34 |
+| Syria — Lesson 17 (anthem) — his anthem "Sing with Us for Our Childhood, O Children of the World" — "we are from the homeland of freedom and we call you from Syria, O children of the world" (words by Issa Ayoub, music by Suhail Arafa) (student book; original target `music/anthems-and-songs-that-teach`) | Book 51, printed p. 40 |
+
+**Book 52:** *التربية الموسيقية (Music Education), Ninth Grade* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 9 (student/teacher: STUDENT). PDF pages: 64 (cover verified against the record title; byte size 63,391,665 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Excluded (named, not placed): closing "Notes of the Anthems and Songs" appendix, printed p. 54 to the end — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 3 (song) — singing the words to the previous solfege — love is giving: no hatred, no rancour in the heart (student book; original target `music/anthems-and-songs-that-teach`) | Book 52, printed p. 11 |
+
+**Acceptance count: taught in 14 countries (Ethiopia, Honduras, Belarus, Brazil, Jordan, Cuba, Venezuela, Angola, Mongolia, Rwanda, Bolivia, Malaysia, Moldova, Syria).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Finland is added as teacher module plan — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 Both anthems are printed in full in the Grade 4 book; following the placements, they are placed here by name, role and teaching point only — no anthem or song text is transcribed anywhere in this lesson. The professionals song's credits are the book's own printed credits (melody Alemayehu W/Yohannes, poem Asefa Bekele). The Grade 6 appearance of the professionals song is the same song met again at the next level, as its placement extends it — it is one song, counted once.
 
-Searchable tags: anthem, regional anthem, national anthem, የታታሪ ህዝቦች, school song, ትምህርት ቤታችን, heritage song, elders' counsel, የአረጋውያን መዝሙር, professionals, forests, festival songs, Enqutatash, ethics song, Nicaragua, Iceland, Dægurspor, Finland, Brazil, Rwanda
+Searchable tags: anthem, regional anthem, national anthem, የታታሪ ህዝቦች, school song, ትምህርት ቤታችን, heritage song, elders' counsel, የአረጋውያን መዝሙር, professionals, forests, festival songs, Enqutatash, ethics song, Nicaragua, Iceland, Dægurspor, Finland, Brazil, Rwanda, Syria
 
 
 **Book 17:** *التربية الفنية والموسيقية والمسرحية — الصف الثاني (Art, Music and Theatre Education — Grade 2)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (first experimental edition, for school year 2024/2025); ISBN 978-9923-41-693-8. Grade: 2 (student/teacher: STUDENT). PDF pages: 94 (cover/title page verified against the record title; byte size 29,623,603 matches record exactly; printed page numbers = PDF page numbers). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.

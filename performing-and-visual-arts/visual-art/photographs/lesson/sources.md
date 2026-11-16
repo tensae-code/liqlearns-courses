@@ -1,6 +1,6 @@
 # Sources — Photographs
 
-countries: Ethiopia, Guatemala, Albania, Iran, Brazil, Cuba, Angola, Moldova
+countries: Ethiopia, Guatemala, Albania, Iran, Brazil, Cuba, Angola, Moldova, Syria
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -44,11 +44,18 @@ countries: Ethiopia, Guatemala, Albania, Iran, Brazil, Cuba, Angola, Moldova
 |---|---|
 | Moldova — Unit 1, Fotocolajul — the photo collage: photographs gathered on one theme (family, class), arranged overlapped or in sequence on cardboard, canvas or plywood (student book; original target `visual-art/photographs`) | Book 10, printed p. 15 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Iran, Brazil, Cuba, Angola, Moldova). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 11:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education)* (student book, Arabic) — Syria, Syrian Ministry of Education (NCCD developed-curriculum edition); year: this copy printed for school year 2021-2022 (first printed 2018-2019); no ISBN printed Grade: 5 (student/teacher: STUDENT). PDF pages: 65 (cover/title page verified against the record title; byte size 52,010,128 matches record). Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 29 "From Human Heritage: The Camera" — humanity's drive to document by image, from cave drawing to Ibn al-Haytham founding optics and the camera (qamara), drawing a person photographing with an old camera (student book; original target `visual-art/photographs`) | Book 11, printed p. 61 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Iran, Brazil, Cuba, Angola, Moldova, Syria). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 Honesty notes: every photograph in this lesson is described only as its placement describes it — the Sof Omar cave as a cave entrance in rock, the Tis Abay Falls as a wide waterfall, Bete Giyorgis as the rock-hewn church of St George at Lalibela, the Axum stele standing among ruins, Fasilides' castle at Gondar, Abebe Bikila running on a stadium track in a race, the walia standing on rocks against the sky, the Abbay Dam as a dam wall with water pouring through, and the market, harvest, landscape and aeroplane photographs as the Grade 2 figures name them. No photographic detail beyond the placements has been added. The Grade 3 page (Book 2, p. 68) also carries a chapter summary and closing exercise and a Review placement for Appreciating the Arts; only its two photographs and the "which pleased you" activity are stocked here, as the structure map directs — the review fold belongs to the First Steps appreciating lesson.
 
-Searchable tags: photographs, looking at photographs, Tis Abay, Blue Nile Falls, Abebe Bikila, Abbay Dam, walia ibex, market, harvest, landscape, መልክዓምድር, aeroplane, Bete Giyorgis, Axum, Fasilides, Sof Omar, appreciating photographs, Brazil
+Searchable tags: photographs, looking at photographs, Tis Abay, Blue Nile Falls, Abebe Bikila, Abbay Dam, walia ibex, market, harvest, landscape, መልክዓምድር, aeroplane, Bete Giyorgis, Axum, Fasilides, Sof Omar, appreciating photographs, Brazil, Syria
 
 **Book 8:** *Cultura Artística — décimo grado* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2023; ISBN 978-959-13-3989-8. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 204. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
 

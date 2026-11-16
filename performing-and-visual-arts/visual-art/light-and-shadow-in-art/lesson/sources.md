@@ -1,6 +1,6 @@
 # Sources — Light and Shadow in Art
 
-countries: Saudi Arabia, Angola, Moldova, Indonesia
+countries: Saudi Arabia, Angola, Moldova, Indonesia, Syria
 
 **Book 1:** *التربية الفنية — الصف الرابع الابتدائي (Art Education — Fourth Grade Primary; the PDF binds الجزء الأول من المقرر, Part One of the Course, and الجزء الثاني من المقرر, Part Two, in one file)* (student book, Arabic) — Saudi Arabia, Ministry of Education / National Curriculum Center, Saudi Arabia, print edition 1448H / 2026 CE (cataloguing-in-publication 1446H); ISBN 978-603-8527-28-5, legal deposit 1446/12941. Grade: 4 (student/teacher: STUDENT). PDF pages: 179 (179 printed pages; printed folios match PDF pages throughout), text layer present. Verdict: COMPLETE per its own tables of contents. Excluded per standing rules, named here: unit assessments at printed pp. 36, 51–52, 69, 90 (Part One) and 112, 123, 138, 152, 172 (Part Two); figure indexes pp. 94–96 and 176–177 and references pp. 178–179, inventory-only; the term-project forms' blank fields are apparatus (the project itself is placed). Placements at liqlearns-courses-work/expansion-art-2026-11-16/saudi-arabia-placements.md.
 
@@ -35,8 +35,16 @@ countries: Saudi Arabia, Angola, Moldova, Indonesia
 |---|---|
 | Indonesia — Bab I — the shading technique (teknik arsir) practised as its own activity (teacher guide — evidence; original target `visual-art/light-shadow-and-shading`) | Book 6, printed p. 27 |
 
-**Acceptance count: taught in 3 countries (Saudi Arabia, Angola, Moldova).** Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 7:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Basic Education Stage, Student's Book* (student book, Arabic) — Syria, Syrian Ministry of Education (specialist committee authorship); year: first printed 2017-2018, this copy school year 2021-2022; no ISBN printed Grade: 7 (student/teacher: STUDENT). PDF pages: 67 (cover/title pages verified against the record title; byte size 525,814,190 matches record; image-heavy scan read visually page by page with its text layer). Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 4 "Shadow and Light in Pencil" — shadow and light give drawn forms their size; two light sources (sun and artificial); the gradient from light value to dark; shading a sphere, cube, cylinder and still life by the rules (student book; original target `visual-art/light-shadow-and-shading`) | Book 7, printed p. 11 |
+| Syria — "Various Techniques: Shadow and Light (study)" — putting an object before you and drawing and shading it — glass, crystal and cloth rendered by tone alone (student book; original target `visual-art/light-shadow-and-shading`) | Book 7, printed p. 54 |
+
+**Acceptance count: taught in 4 countries (Saudi Arabia, Angola, Moldova, Syria).** Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/light-and-shadow-in-art`); the Saudi Arabia placements were filed under the original string(s) `visual-art/light-and-shadow` and resolved to this lesson by slug-registry Part 2. Songs and stories are placed by summary only, never transcribed.
 
-Searchable tags: light and shadow, real shadow, cast shadow, الظل الحقيقي, الظل الساقط, Saudi Arabia
+Searchable tags: light and shadow, real shadow, cast shadow, الظل الحقيقي, الظل الساقط, Saudi Arabia, Syria

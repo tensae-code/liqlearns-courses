@@ -1,6 +1,6 @@
 # Sources — Painting Then and Now
 
-countries: Ethiopia, Albania, Trinidad and Tobago, Cuba, Mongolia, Malaysia
+countries: Ethiopia, Albania, Trinidad and Tobago, Cuba, Mongolia, Malaysia, Syria
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -64,11 +64,21 @@ countries: Ethiopia, Albania, Trinidad and Tobago, Cuba, Mongolia, Malaysia
 |---|---|
 | Malaysia — Bab 4 Aplikasi/Ekspresi Catan — painting applied and creatively expressed (student book; original target `visual-art/painting-then-and-now`) | Book 13, printed pp. 133, 162 |
 
-**Acceptance count: taught in 3 countries(Ethiopia, Mongolia, Malaysia).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Cuba is added as a student book, inside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 14:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education)* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 6 (student/teacher: STUDENT). PDF pages: 84 (cover/title page verified against the record title; byte size 23,066,016 matches record). Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 7 "The Artist Ahmed Madoun" — the Syrian artist Ahmed Madoun, born in Palmyra, and how the Palmyrene environment lives in his paintings (student book; original target `visual-art/painting-then-and-now`) | Book 14, printed p. 20 |
+| Syria — Lesson 10 "The Artist Zuhair Hadramout" — describing and studying the paintings of the Syrian painter and musician Zuhair Hadramout (student book; original target `visual-art/painting-then-and-now`) | Book 14, printed p. 32 |
+| Syria — Lesson 12 "Haidar Yazji" — the Syrian painter Haidar Yazji, born in Antioch, whose works are known for their dyeing/colour handling — describing his artwork and painting in his spirit (student book; original target `visual-art/painting-then-and-now`) | Book 14, printed p. 38 |
+| Syria — Lesson 14 "Ziad Zakari" — the Damascus-born Syrian artist Ziad Zakari, skilled in painting folk dress; making a folk-costume work in his spirit (student book; original target `visual-art/painting-then-and-now`) | Book 14, printed p. 45 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Mongolia, Malaysia, Syria).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Cuba is added as a student book, inside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 Honesty notes: this lesson stocks only what the structure map assigns to it — the Grade 3 then-and-now comparison and the appreciating-paintings pages, with the Grade 3 teacher guide's valuing part as labelled evidence. Other painting placements in the series carry their own lesson targets in the placements files (the paint kinds, watercolour and oil, cave art, and the great painters) and are not stocked here; they are recorded as not-in-this-map in the build log. Afework Tekle is named in the lesson exactly as the Grade 3 book names him — the modern example — with no biography added beyond the placements.
 
-Searchable tags: painting, Ethiopian painting, then and now, Afework Tekle, appreciating paintings, colour-painting, ቀለምቅብ
+Searchable tags: painting, Ethiopian painting, then and now, Afework Tekle, appreciating paintings, colour-painting, ቀለምቅብ, Syria
 
 **Book 6:** *Por los caminos del arte: un acercamiento a sus manifestaciones en Cuba (Educación Artística, séptimo grado)* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2013; ISBN 978-959-13-2480-1. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 176. Verdict: COMPLETE. Self-check apparatus named, not placed, as filed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
 

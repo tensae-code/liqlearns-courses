@@ -1,6 +1,6 @@
 # Sources — Acting Together
 
-countries: Ethiopia, Egypt, Uganda, Nicaragua, Finland, Fiji, Morocco, Jordan, Sri Lanka, Malaysia, Indonesia
+countries: Ethiopia, Egypt, Uganda, Nicaragua, Finland, Fiji, Morocco, Jordan, Sri Lanka, Malaysia, Indonesia, Syria
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -78,13 +78,27 @@ countries: Ethiopia, Egypt, Uganda, Nicaragua, Finland, Fiji, Morocco, Jordan, S
 |---|---|
 | Indonesia — BAB I Improvisasi — working as an ensemble — building scenes together in groups, optimising shared props, and presenting group improvisations (teacher guide — evidence; original target `drama-and-dance/acting-together`) | Book 21, printed p. 41 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Egypt, Uganda, Finland, Fiji, Jordan, Malaysia).** The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Finland's module-plan part (Book 10) is evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 22:** *التربية الموسيقية (Music Education)* (student book, Arabic) — Syria, Syrian Ministry of Education / National Centre for Curriculum Development (NCCD developed-curriculum edition); year: school year 2021-2022 (1442 AH); no ISBN printed Grade: 7 (student/teacher: STUDENT). PDF pages: 53 (cover/title page verified against the record title; byte size 47,782,278 matches record; image-only scan, read visually page by page). Verdict: COMPLETE. Excluded (named, not placed): closing score appendix, printed pp. 48-53 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 16 (activity) — acting a scene with your friends to Chopin's music ("Song, My Mother") — Sara, sad at the back of the class because her little brother is sick, is comforted by acting the scene and given a solution (student book; original target `drama-and-dance/acting-together`) | Book 22, printed p. 37 |
+
+**Book 23:** *التربية الموسيقية (Music Education), Ninth Grade* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 9 (student/teacher: STUDENT). PDF pages: 64 (cover verified against the record title; byte size 63,391,665 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Excluded (named, not placed): closing "Notes of the Anthems and Songs" appendix, printed p. 54 to the end — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — My Project — choosing with friends a play text to act, and choosing the fitting costumes and the theatre (student book; original target `drama-and-dance/acting-together`) | Book 23, printed p. 52 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Egypt, Uganda, Finland, Fiji, Jordan, Malaysia, Syria).** The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Finland's module-plan part (Book 10) is evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 Nothing flagged. The Grade 3 methods passage is stocked in its book's own order; the four methods are the placement's four, word for word in substance.
 
 Egypt Grade 8 exclusions, carried exactly as filed: نماذج اختبارات (test models, printed p. 74) are assessment — named, not placed; قاموس المصطلحات (glossary of terms, printed p. 81) is a word list — inventory-only, named, not stocked. Egypt's own way in the Grade 8 book: the actor's craft taught step by step — expression, stance, character-building and monodrama first as solo skills, then theatre used for peace-making and for history, ending with the stage's nine areas and a full class theatre project.
 
-Searchable tags: acting together, group drama, simple drama methods, passing a message by drama, cause and effect, self-confidence, Grade 1, Grade 3, Egypt, curriculum play, مسرحية منهجية, theatre project, Nicaragua, Finland
+Searchable tags: acting together, group drama, simple drama methods, passing a message by drama, cause and effect, self-confidence, Grade 1, Grade 3, Egypt, curriculum play, مسرحية منهجية, theatre project, Nicaragua, Finland, Syria
 
 
 **Book 15:** *التربية الفنية والموسيقية والمسرحية — الصف الثاني (Art, Music and Theatre Education — Grade 2)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (first experimental edition, for school year 2024/2025); ISBN 978-9923-41-693-8. Grade: 2 (student/teacher: STUDENT). PDF pages: 94 (cover/title page verified against the record title; byte size 29,623,603 matches record exactly; printed page numbers = PDF page numbers). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.

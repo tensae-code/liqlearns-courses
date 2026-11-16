@@ -2468,7 +2468,33 @@ Rwanda's twelve placement-bearing books (Creative Arts Fine
   Kecak, Tari Saman, Tari Baris, Tari Topeng Betawi, lenong,
   wayang, ragam hias Nusantara, rumah adat, batik and ecoprint.
 
-**The whole course stands at 784 lessons, 9,645 questions and
+- **Art expansion — Syria (2026-11-16):** 516 placements stocked from
+  18 student books (Art Education and Music Education, Grades 1–9,
+  Arabic — all STUDENT, all COMPLETE, all counted): 438 into existing
+  and already-built canonical lessons, and 78 into 19 NEW lessons
+  (Music: Syrian and Arab Musicians ×13, Composers and Their Lives,
+  Classical Period and Viennese Classicism ×2, Music and Our
+  Identity ×2, The Tabla: Eastern Hand Drum; Visual Art: Contemporary
+  Syrian Artists ×32, Land Art ×4, Paint and Colour Crafts ×4, Women
+  Artists Around the World ×4, Textile Arts ×2, Mandala Patterns ×2,
+  Arabic Thread Wood Ornament — Damascus, Colouring Your Surroundings
+  Beautiful, Damascene Marble Inlay: Al-Mushaqqaf, Stained Glass;
+  Drama and Dance: Sama Dance of Syria; Culture and Values: Festivals
+  Around the World ×2, Looking at Buildings and Places ×2, Syrian
+  Folk Costumes ×2), 228 questions added, media as described slots
+  only. Honesty carried exactly as filed: every book is a student
+  book, so Syria stands inside the acceptance count of every lesson
+  it stocks; the books' closing score appendices, board-game revision
+  pages and recall pages are named in the placements and in the book
+  entries, not placed; songs are placed by title, subject and
+  composer only, never transcribed. Syria's own way is kept as named
+  parts throughout: qudud, muwashshah, maqam, the Sama dance of
+  Aleppo and Damascus, dabke, Palmyra and the beehive houses,
+  Damascus mosaic, al-mushaqqaf marble inlay and the Arabic thread
+  ornament, and the roll of Syrian artists from Mahmoud Hammad and
+  Nazem al-Jaafari to Duaa al-Bastati.
+
+**The whole course stands at 803 lessons, 9,873 questions and
 210 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 

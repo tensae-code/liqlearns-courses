@@ -1,6 +1,6 @@
 # Sources — Telling History with Illustration
 
-countries: Ethiopia, Nicaragua, Moldova, Indonesia
+countries: Ethiopia, Nicaragua, Moldova, Indonesia, Syria
 
 **Book 1:** *Performing and Visual Arts, Student Textbook, Grade 6* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors እሸቱ ታደሰ (Eshetu Tadesse) and ደስታ ይትባረክ (Desta Yitbarek); editors አታላይ መስፍን (Atalay Mesfin) and ደምሌ አባተ (Demle Abate). Printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
 
@@ -32,8 +32,15 @@ countries: Ethiopia, Nicaragua, Moldova, Indonesia
 |---|---|
 | Indonesia — BAB II Bercerita dengan Seni Rupa — telling stories with visual art — narrative carried by images (teacher guide — evidence; original target `visual-art/telling-history-with-illustration`) | Book 5, printed p. 78 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Moldova). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 6:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education)* (student book, Arabic) — Syria, Syrian Ministry of Education (NCCD developed-curriculum edition); year: this copy printed for school year 2021-2022 (first printed 2018-2019); no ISBN printed Grade: 5 (student/teacher: STUDENT). PDF pages: 65 (cover/title page verified against the record title; byte size 52,010,128 matches record). Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 18 "An Artist and a Homeland" — Nazem al-Jaafari, who documented Damascus and the Damascene family in thousands of oil paintings and line studies; drawing a scene from your own city in his spirit (student book; original target `visual-art/telling-history-with-illustration`) | Book 6, printed p. 38 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Moldova, Syria). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 Honesty notes: The named plays in Sub lesson 4 are placed by name and venue only, exactly as the placement gives them; no play text is transcribed. The Menelik-era photographs (the book's Fig. 37) are described, never copied. Ethiopia's age as a civilisation is taught in the book's own framing ("among the world's ancient civilisations, a country of many languages and astonishing cultures") and is carried as the book's teaching, not as a new claim.
 
-Searchable tags: history, illustration, photography as witness, Menelik, Hindeke, ህንደኬ, The Vision of Tewodros, የቴዎድሮስ ራዕይ, Taytu, ጣይቱ, Qaqe Wirdiwet, የቃቄ ውርደወት, National Theatre, Hager Fikir, Nicaragua
+Searchable tags: history, illustration, photography as witness, Menelik, Hindeke, ህንደኬ, The Vision of Tewodros, የቴዎድሮስ ራዕይ, Taytu, ጣይቱ, Qaqe Wirdiwet, የቃቄ ውርደወት, National Theatre, Hager Fikir, Nicaragua, Syria

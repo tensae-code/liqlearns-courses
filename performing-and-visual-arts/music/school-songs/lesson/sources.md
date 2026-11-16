@@ -1,6 +1,6 @@
 # Sources — School Songs
 
-countries: Ethiopia, Andorra, Barbados, Samoa, Nicaragua, Singapore, Malta, Finland, Turkmenistan, Fiji, Bulgaria, Jordan, Sri Lanka, Libya, Angola, Mongolia, Rwanda, Malaysia, Moldova
+countries: Ethiopia, Andorra, Barbados, Samoa, Nicaragua, Singapore, Malta, Finland, Turkmenistan, Fiji, Bulgaria, Jordan, Sri Lanka, Libya, Angola, Mongolia, Rwanda, Malaysia, Moldova, Syria
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 96 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -115,11 +115,70 @@ countries: Ethiopia, Andorra, Barbados, Samoa, Nicaragua, Singapore, Malta, Finl
 |---|---|
 | Moldova — Unit 4, song "Să cânte lumea!" — "Let the world sing!" (words and music Gabriela Sauciuc Cicone), a class song with a rhythmic accompaniment to devise and perform (student book; original target `music/school-songs`) | Book 34, printed p. 71 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Finland, Turkmenistan, Bulgaria, Jordan, Angola, Mongolia, Malaysia, Moldova). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document and teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 35:** *التربية الموسيقية (Music Education)* (student book, Arabic) — Syria, Syrian Ministry of Education / National Centre for Curriculum Development (NCCD); year: school year 2021-2022; no ISBN printed Grade: 5 (student/teacher: STUDENT). PDF pages: 72 (cover/title page verified against the record title; byte size 29,485,010 matches record). Verdict: COMPLETE. Excluded (named, not placed): "I Play and I Learn" board game, printed pp. 60-63 — a revision game apparatus covering the book's topics; the closing anthem-score appendix, printed pp. 64-72 — printed scores of songs already placed above (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 7 "Children's World" — the song "As children we go out into the world" — children growing like plants toward the sun — sung with a class rhythm band accompanying (student book; original target `music/school-songs`) | Book 35, printed p. 23 |
+| Syria — Lesson 10 "Me and My Computer" — a song (words by Sa'ir Ibrahim) praising the computer's uses after lessons, with rhythmic dictation and inventing a melody to a given time signature (student book; original target `music/school-songs`) | Book 35, printed p. 30 |
+| Syria — Lesson 18 "The Postman" — the English song "Postman Pat" sung and role-played — delivering letters of love between friends — with xylophone playing at Moderato, a moderate speed (student book; original target `music/school-songs`) | Book 35, printed p. 51 |
+
+**Book 36:** *التربية الموسيقية (Music Education)* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 6 (student/teacher: STUDENT). PDF pages: 72 (cover/title page verified against the record title; byte size 27,174,319 matches record). Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 1 "I Missed My School" — a song of longing for school, sung and played as a circle game by a group of pupils (student book; original target `music/school-songs`) | Book 36, printed p. 6 |
+| Syria — Lesson 4 "The Library" — a song praising the school library and its wooden shelves, sung together with a class rhythm band formed by the pupils (student book; original target `music/school-songs`) | Book 36, printed p. 15 |
+
+**Book 37:** *التربية الموسيقية (Music Education), First Grade Primary* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026 (1446 AH); no ISBN printed Grade: 1 (student/teacher: STUDENT). PDF pages: 66 (cover verified against the record title; byte size 34,464,970 matches record — fetched byte-exact from the library GitHub release mid-size-books after a first truncated attempt was retried). Verdict: COMPLETE. Excluded (named, not placed): closing score appendix, printed pp. 60-66 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 5 "The Cities and the Forest" — a song of people in the cities and animals in the forest, and the dawn song "Talaa al-Fajr" performed with the movements in its pictures (student book; original target `music/school-songs`) | Book 37, printed p. 14 |
+| Syria — Lesson 11 "The Teapot" — the teapot song sung with the degrees Do Re Mi Fa Sol La Si (student book; original target `music/school-songs`) | Book 37, printed p. 26 |
+| Syria — Lesson 15 "The Sun and the River" — a song of the sun in the morning; watching a music band video and expressing your feeling; arranging a jumbled picture to win an instrument's name (student book; original target `music/school-songs`) | Book 37, printed p. 34 |
+| Syria — Lesson 25 "The Colours" — the colours lesson-song — joining each degree to its colour (green, yellow…) (student book; original target `music/school-songs`) | Book 37, printed p. 54 |
+| Syria — Lesson 27 "I Am an Artist" — "I am a little artist, I will sing this exercise" — repeating the exercise when you see the repeat sign, and watching a video of a player of the instrument you love and imitating them (student book; original target `music/school-songs`) | Book 37, printed p. 58 |
+
+**Book 38:** *التربية الموسيقية (Music Education), Second Grade* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: first printed 2018-2019, this copy school year 2025-2026; no ISBN printed Grade: 2 (student/teacher: STUDENT). PDF pages: 68 (cover verified against the record title; byte size 38,314,134 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Excluded (named, not placed): closing "Songs of the Book" appendix, printed p. 62 to the end — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 8 "My Hobby" — marking what you love to do and singing with our friend who loves sport — "my wing flew, I run with the morning" (student book; original target `music/school-songs`) | Book 38, printed p. 20 |
+
+**Book 39:** *التربية الموسيقية (Music Education), Third Grade* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 3 (student/teacher: STUDENT). PDF pages: 75 (cover verified against the record title; byte size 84,462,201 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Excluded (named, not placed): closing songs appendix, printed pp. 66-75 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 1 "Radiance of the Morning" — a morning song — "what made the morning radiant? hearts… and the roads bloom with it" — expressing the picture in words (student book; original target `music/school-songs`) | Book 39, printed p. 6 |
+| Syria — Lesson 20 "Sounds Around Us" — listening to the sound of the sea's waves, and the sailor's song of the boat, danger and the open sea (student book; original target `music/school-songs`) | Book 39, printed p. 48 |
+
+**Book 40:** *التربية الموسيقية (Music Education), Fourth Grade Basic* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026 (1446 AH); no ISBN printed Grade: 4 (student/teacher: STUDENT). PDF pages: 48 (cover verified against the record title; byte size 82,650,289 matches record — fetched byte-exact from the library GitHub release mid-size-books; image-only scan, read visually page by page). Verdict: COMPLETE. Excluded (named, not placed): closing score appendix, printed pp. 44-48 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 1 "What Is It?" — a riddle song in praise of the book — "the bell rang, time for the lesson… if you ask it what you do not know, the world was in your hands; the best of companions, children" (words by Ibrahim Abbas Yassin, music by Ziad Aajan) (student book; original target `music/school-songs`) | Book 40, printed p. 6 |
+| Syria — Lesson 10 "Spring" — the spring song — "everything blooms, everything is green; welcome, spring has come" (words by Suleiman al-Issa, music by Kamil al-Qudsi) — why must we learn the musical metres? Because weight in music is among the most important foundations the melody is built on; and listening to a piece for the nay (student book; original target `music/school-songs`) | Book 40, printed p. 26 |
+| Syria — Lesson 12 "A Letter to My Teacher" — the song of thanks to the teacher — "to you, my teacher, I decorate the letters… you taught me loyalty and hope, love, building and work; you taught me love of homeland" (words by Muzhar al-Hajji, music by Ziad Aajan), with which the class receives its teacher (student book; original target `music/school-songs`) | Book 40, printed p. 30 |
+
+**Book 41:** *التربية الموسيقية (Music Education), Ninth Grade* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 9 (student/teacher: STUDENT). PDF pages: 64 (cover verified against the record title; byte size 63,391,665 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Excluded (named, not placed): closing "Notes of the Anthems and Songs" appendix, printed p. 54 to the end — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 7 "The Message of Knowledge" — the teachers' song — many teachers were like family members to the school's pupils — and the rhythm game: the class splits into two groups and performs the exercise (student book; original target `music/school-songs`) | Book 41, printed p. 20 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Finland, Turkmenistan, Bulgaria, Jordan, Angola, Mongolia, Malaysia, Moldova, Syria). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Samoa is added as curriculum programme document and teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 The Fidel song and the ABC song are charts sung, not lyrics: the letters in order are their content, and only the letter orders the placements themselves quote are printed in this lesson. The Grade 3 book prints the Twinkle song in English as its one full English text; this lesson names it and places it, and does not re-transcribe it.
 
-Searchable tags: school songs, ABC song, Twinkle Twinkle, fidel song, let's go to school, morning song, praising the teacher, ፊደል ከ ሀ እስከ ፐ, እንሂድ ትምህርት ቤት, ወንድሜ ያዕቆብ, ጠዋት ተነስተን, ኑር መምህሬ, Nicaragua, Malta, Music Shines, Finland, Rwanda
+Searchable tags: school songs, ABC song, Twinkle Twinkle, fidel song, let's go to school, morning song, praising the teacher, ፊደል ከ ሀ እስከ ፐ, እንሂድ ትምህርት ቤት, ወንድሜ ያዕቆብ, ጠዋት ተነስተን, ኑር መምህሬ, Nicaragua, Malta, Music Shines, Finland, Rwanda, Syria
 
 **Book 15:** *Музика за четвърти клас (Music for Fourth Grade), by Адриан Георгиев, Мая Андасорова, Рая Ковачева* (student book, Bulgarian) — Bulgaria, РИВА (Riva), Sofia; year 2019; ISBN 978-619-225-098-0 (from the cover barcode). Grade: 4 (student/teacher: STUDENT). PDF pages: 68 (cover verified — "Музика за четвърти клас", Riva, 4. клас). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
 

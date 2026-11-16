@@ -1,6 +1,6 @@
 # Sources — Telling History in Words and Pictures
 
-countries: Ethiopia, Suriname
+countries: Ethiopia, Suriname, Syria
 
 **Book 1:** *Grade 6 Performing and Visual Arts Teacher Guide* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. Writers: Tibebu Woldeyohannes, Yirga Qumelachew, Yohannes Sebsebie. 96 PDF pages; printed front matter I–VI + body and syllabus to printed p. 119. Read in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-teacher-placements.md.
 
@@ -12,8 +12,22 @@ countries: Ethiopia, Suriname
 | Sub lesson 2 (teacher guide — evidence) — Explaining written histories through visual art (የተጻፈ ታሪኮችን በዕይታ ጥበባት ማብራራት): written histories explained by means of visual art — story and history carried across into pictures | Book 1, §3.4, printed pp. 80–85 |
 | Suriname — Cultural Heritage Les 3 "Een verhaal schrijven en presentatie oefenen" — writing your own story about a heritage object or tradition — built on the four W's (Who, What, Where, When), with a storyline that runs from the past through the present to the future, a beginning, middle and end, short sentences that read aloud well — and inside it a new application you invent for the old thing: the book's examples are a historic jug given a present-day use, an Anansi story modernised (Anansi given a laptop or smartphone, or the hero changed to a family member, a friend or yourself), a traditional garment worked into a new outfit, today's music played on an old instrument, a traditional recipe turned into a wholly new dish (teacher guide — evidence) | Book 2, printed pp. 145–147 |
 
-**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Ethiopia), named here, counted nowhere.** Suriname is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 3:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Pupil's Book* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: first printed 2018-2019, this copy school year 2025-2026; no ISBN printed Grade: 2 (student/teacher: STUDENT). PDF pages: 58 (cover verified against the record title; byte size 29,734,718 matches record — fetched from the source URL recorded in the library record (ministry PDF via Wayback capture); the identical byte-exact file also sits in the library GitHub release mid-size-books. Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 4 (practice) — drawing a scene from a folk tale (student book; original target `first-steps/telling-a-story-with-pictures`) | Book 3, printed p. 13 |
+
+**Book 4:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Student's Book* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 9 (student/teacher: STUDENT). PDF pages: 82 (cover verified against the record title; byte size 46,063,992 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Excluded (named, not placed): the closing recall page, printed p. 82 — "let us always remember the primary colours and their derivatives" (revision apparatus, inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 5 "Expressive and Symbolic Drawings" — creating a visual subject with artistic expressions and symbols (student book; original target `first-steps/telling-a-story-with-pictures`) | Book 4, printed p. 18 |
+
+**Acceptance count: taught in 1 country (Syria).** Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 Honesty notes: This lesson rests ONLY on the Grade 6 teacher's guide (Addis Ababa City Administration Education Bureau, © 2014 E.C.) — a different bureau's guide from the Amhara-bureau student book beside it in Telling History with Illustration. The placements file summarises the guide's two sections by their titles, scope and page spans; the lesson teaches the craft at exactly that level and invents no narration rules, examples or quotations the placements do not give. Both parts are labelled teacher-guide evidence in the table, in the lesson text, and in the plan.
 
-Searchable tags: narration, ታሪክ እንዴት ይተረካል, written history in pictures, የተጻፈ ታሪኮችን በዕይታ ጥበባት ማብራራት, storytelling technique, teacher guide evidence
+Searchable tags: narration, ታሪክ እንዴት ይተረካል, written history in pictures, የተጻፈ ታሪኮችን በዕይታ ጥበባት ማብራራት, storytelling technique, teacher guide evidence, Syria

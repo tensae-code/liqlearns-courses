@@ -1,6 +1,6 @@
 # Sources — Sculpture and Historic Places
 
-countries: Ethiopia, Maldives, Albania, Romania, Haiti, Serbia, Mozambique, Pakistan, Colombia, Belarus, Brazil, Bulgaria, Sri Lanka, Libya, Cuba, Venezuela, Angola, Mongolia, Bolivia, Malaysia, Moldova, Indonesia
+countries: Ethiopia, Maldives, Albania, Romania, Haiti, Serbia, Mozambique, Pakistan, Colombia, Belarus, Brazil, Bulgaria, Sri Lanka, Libya, Cuba, Venezuela, Angola, Mongolia, Bolivia, Malaysia, Moldova, Indonesia, Syria
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -210,11 +210,74 @@ countries: Ethiopia, Maldives, Albania, Romania, Haiti, Serbia, Mozambique, Paki
 |---|---|
 | Indonesia — Bab III Berkreasi Seni Tiga Dimensi — making three-dimensional art — designing the work's concept first, then the tools, materials and techniques of 3D art-making, on plant and environment themes (teacher guide — evidence; original target `visual-art/sculpture-and-modelling`) | Book 47, printed p. 76 |
 
-**Acceptance count: taught in 18 countries (Ethiopia, Maldives, Romania, Serbia, Mozambique, Pakistan, Colombia, Belarus, Brazil, Bulgaria, Sri Lanka, Cuba, Venezuela, Angola, Mongolia, Bolivia, Malaysia, Moldova).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher programme — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 48:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education)* (student book, Arabic) — Syria, Syrian Ministry of Education (NCCD developed-curriculum edition); year: this copy printed for school year 2021-2022 (first printed 2018-2019); no ISBN printed Grade: 5 (student/teacher: STUDENT). PDF pages: 65 (cover/title page verified against the record title; byte size 52,010,128 matches record). Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 5 "Relief Sculpture" — relief carving (raised figures on a flat ground) from Mesopotamian art, its materials (clay, stone, wood) and old uses in wall panels, seals and amulets, then making a medal in soap, paste or clay (student book; original target `visual-art/sculpture-and-historic-places`) | Book 48, printed p. 14 |
+| Syria — Lesson 8 "Carving on Wax" — carving a solid form from wax by removing the excess from the block, a precise old sculptural method (student book; original target `visual-art/sculpture-and-historic-places`) | Book 48, printed p. 20 |
+| Syria — Lesson 9 "Carving on Soap" — carving a small sculpture from a bar of soap as a beginner's carving material (student book; original target `visual-art/sculpture-and-historic-places`) | Book 48, printed p. 21 |
+
+**Book 49:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education)* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 6 (student/teacher: STUDENT). PDF pages: 84 (cover/title page verified against the record title; byte size 23,066,016 matches record). Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 6 "Palmyrene Art" — the art of Palmyra (Tadmor) — its relief sculpture and heritage — trying a relief or a solid animal sculpture using Palmyrene art (student book; original target `visual-art/sculpture-and-historic-places`) | Book 49, printed p. 18 |
+
+**Book 50:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Basic Education Stage, Student's Book* (student book, Arabic) — Syria, Syrian Ministry of Education (specialist committee authorship); year: first printed 2017-2018, this copy school year 2021-2022; no ISBN printed Grade: 7 (student/teacher: STUDENT). PDF pages: 67 (cover/title pages verified against the record title; byte size 525,814,190 matches record; image-heavy scan read visually page by page with its text layer). Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — "Art Around Us: Sculpture in the Street" — the beauty of sculptures standing in streets and public gardens and how to care for them; designing a sculpture fit to stand in a garden, in a material you choose (student book; original target `visual-art/sculpture-and-3d-forms`) | Book 50, printed p. 34 |
+| Syria — "Various Techniques: Formations from Metal Wires — Birds" — shaping a bird from metal wire — line birds, woven-wire hens, roosters and swans (student book; original target `visual-art/sculpture-and-3d-forms`) | Book 50, printed p. 50 |
+| Syria — "Various Techniques: Life and Matter" — sculptors show the soul's expressions in clay — sculpting a face that carries one feeling (laughter, crying, joy, contemplation) in clay (student book; original target `visual-art/sculpture-and-3d-forms`) | Book 50, printed p. 51 |
+
+**Book 51:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Pupil's Book* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching (rights held with the National Centre for Curriculum Development); year: first printed 2019-2020, this copy school year 2025-2026; no ISBN printed Grade: 3 (student/teacher: STUDENT). PDF pages: 75 (cover verified against the record title; byte size 62,939,881 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Excluded (named, not placed): the closing recall page, printed p. 74 — "let us always remember: the primary colours and their derivatives" (revision apparatus, inventory only). The school-exhibition pages at the end are placed, as the book's own gallery of pupils' work. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 13 "Wires and Fabrics" — executing with your classmates a form from metal wires and decorating it with fabric leftovers (student book; original target `visual-art/sculpture-and-3d-forms`) | Book 51, printed p. 39 |
+
+**Book 52:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Pupil's Book* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 4 (student/teacher: STUDENT). PDF pages: 55 (cover verified against the record title; byte size 33,539,389 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Companion pages (named): the teacher-companion activities, printed pp. 40-48, are the lessons' own activity bank; four distinct ones are placed below and the rest repeat the same techniques (coloured-paper work, waste collage variants). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 13 "Mass and Void" — the sculptor Jamil Qasha and what he carved; carving animal forms — creating by carving your favourite animal in the material you see fit, in your own way (student book; original target `visual-art/sculpture-and-3d-forms`) | Book 52, printed p. 26 |
+| Syria — Lesson 15 "Hangings in Space (Mobiles)" — 3D forms made by your hands that can be hung — putting environment waste you find around you into a hanging form; creating innovative artistic hangings in groups (student book; original target `visual-art/sculpture-and-3d-forms`) | Book 52, printed p. 30 |
+
+**Book 53:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Student's Book* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 9 (student/teacher: STUDENT). PDF pages: 82 (cover verified against the record title; byte size 46,063,992 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Excluded (named, not placed): the closing recall page, printed p. 82 — "let us always remember the primary colours and their derivatives" (revision apparatus, inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 14 "The Artist Auguste Rodin" — Auguste Rodin, the world sculptor — reading the artwork and its forms (student book; original target `visual-art/sculpture-and-3d-forms`) | Book 53, printed p. 36 |
+| Syria — Lesson 25 "Art in Every Place" — the panoramic panel sculpted on the rock cliff known as Qal'at al-Nahhalat near Barmana al-Mashaykh, fifty kilometres from Tartous — a group of Syrian artists from different governorates carved many faces into the rock (student book; original target `visual-art/sculpture-and-3d-forms`) | Book 53, printed p. 62 |
+
+**Book 54:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Student's Book, Basic Education Stage* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; first printed school year 2017-2018, this copy school year 2025-2026; no ISBN printed Grade: 8 (student/teacher: STUDENT). PDF pages: 68 (cover verified against the record title; byte size 283,756,204 matches record — fetched byte-exact from the library GitHub release full-quality-oversized-books; image-only book, read visually page by page). Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 5 (making) — design a sculptural work in pencil inspired by Said Makhlouf's works, then execute it with the materials available (soap — clay — putty) as a sculptural work (student book; original target `visual-art/sculpture-and-3d-forms`) | Book 54, printed p. 11 |
+| Syria — Lesson 8 "The Environment Workers" — the memorial monument (al-nasb al-tidhkari) is a sculptural or architectural artwork whose aim is to honour one of the persons, placed in the public squares; contemplating the memorial before you — who are the environment workers, what is their role in our life, and what is the human and national aim of honouring their effort? Draw an artwork or design a memorial showing your love and respect for them (student book; original target `visual-art/sculpture-and-3d-forms`) | Book 54, printed p. 16 |
+
+**Book 55:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Pupil's Book, First Grade of Basic Education* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; first printed school year 2017-2018, this copy school year 2025-2026; no ISBN printed Grade: 1 (student/teacher: STUDENT — pupil's book). PDF pages: 63 (cover verified against the record title; byte size 518,700,726 matches record — fetched byte-exact from the library GitHub release full-quality-oversized-books; read through the text layer and page-by-page visual sheets). Verdict: COMPLETE. Named, not placed: the "Blackboard" enrichment, printed p. 53 — a photo spread of pupils' chalk drawings on the school board (classroom display, no distinct teaching step); the closing holidays list itself is placed below as festivals, its calendar facts being inventory. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 7 "Surfaces Differ in Their Texture" — think — how can my pot be formed, and how will its feel be? I form a ball and press in its middle with my thumb to form my own pot — clay surfaces, smooth and rough (student book; original target `visual-art/sculpture-and-3d-forms`) | Book 55, printed p. 19 |
+
+**Acceptance count: taught in 19 countries (Ethiopia, Maldives, Romania, Serbia, Mozambique, Pakistan, Colombia, Belarus, Brazil, Bulgaria, Sri Lanka, Cuba, Venezuela, Angola, Mongolia, Bolivia, Malaysia, Moldova, Syria).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher programme — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 Honesty notes: Sub lessons 5 and 6 rest on teacher-guide evidence and are labelled so in the lesson text and in this table; the lesson as a whole rests on student books (Books 1–6), so the acceptance count stands at 1 country. Book 7 (the Grade 8 teacher guide) is a truncated copy — body printed pp. 1–56 plus syllabus tables — and both of its parts used here (pp. 33–39 and pp. 53–56) sit inside the surviving body. Books 8 and 9 are teacher guides for grades with no student books in this set; their parts are evidence only. The Grade 7 student book's carving deep-dive is stocked here only as the fourth technique named inside the four-techniques part, exactly as its placement frames it against the other three.
 
-Searchable tags: Maldives, Exploring Creative Arts 4, sculpture, ኪነ ቅርፅ, in the round, ዙረያ ገባ, relief, ሪሊፍ, modelling, carving, assembling, ማያያዝና መገጣጠም, casting, ኪነ-ቅርፅን ማራባት, mould, ሞልድ, gypsum, ጀሶ, jute, ጆንያ, papier-mâché, monuments, artifacts, historic places, Romania, Haiti, Colombia, Brazil
+Searchable tags: Maldives, Exploring Creative Arts 4, sculpture, ኪነ ቅርፅ, in the round, ዙረያ ገባ, relief, ሪሊፍ, modelling, carving, assembling, ማያያዝና መገጣጠም, casting, ኪነ-ቅርፅን ማራባት, mould, ሞልድ, gypsum, ጀሶ, jute, ጆንያ, papier-mâché, monuments, artifacts, historic places, Romania, Haiti, Colombia, Brazil, Syria
 
 **Book 21:** *Изобразително изкуство за 8. клас (Fine Arts for Grade 8)* (student book, Bulgarian) — Bulgaria, Педагог 6 (Pedagog 6), Sofia; year 2024 (Second Edition; approved by Order РД 09-388/09.02.2024 of the Minister of Education and Science); ISBN 978-954-324-332-7. Authors: Мариета Петрова Савчева-Ангелова, Елена Веселинова Панайотова, Благомир Кирилов Папазов, Анна Илчева Цоловска. Grade: 8 (student/teacher: STUDENT). PDF pages: 50 (cover/title page verified against the record title; 57,104,388 bytes and 50 pages match the record exactly). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
 

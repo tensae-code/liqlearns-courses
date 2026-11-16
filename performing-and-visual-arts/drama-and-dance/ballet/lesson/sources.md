@@ -1,6 +1,6 @@
 # Sources — Ballet
 
-countries: Malta, Belarus, Cuba, Moldova
+countries: Malta, Belarus, Cuba, Moldova, Syria
 
 **Book 1:** *Music Shines II — Unit 9 Listening and Appraising (§§9.4–9.6)* (teacher guide pages + pupil activities, English) — Malta, Music Shines (Skola); year not printed on these pages; no ISBN printed, Year 4 per record; the PDF carries the Year 4, Year 5 and Year 6 levels (printed pp. 157–169), 13 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE for Unit 9. Cover/title page verified against the record title — first page is the Unit 9 divider, printed p. 157. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malta-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -18,11 +18,18 @@ countries: Malta, Belarus, Cuba, Moldova
 |---|---|
 | Moldova — Unit 1, Muzica și teatrul — ballet and its music: Mozart's ballet "Les petits riens" (1778, with choreographer Noverre) and Tchaikovsky's "Sleeping Beauty" — its Waltz, its Adagio, and the libretto that tells the story (student book; original target `drama-and-dance/ballet-and-its-music`) | Book 5, printed pp. 23–24 |
 
-**Acceptance count: taught in 2 countries (Belarus, Moldova).** Malta teacher guide evidence is named here, counted nowhere. Cuba is added as a student book, inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 6:** *التربية الموسيقية (Music Education), Fourth Grade Basic* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026 (1446 AH); no ISBN printed Grade: 4 (student/teacher: STUDENT). PDF pages: 48 (cover verified against the record title; byte size 82,650,289 matches record — fetched byte-exact from the library GitHub release mid-size-books; image-only scan, read visually page by page). Verdict: COMPLETE. Excluded (named, not placed): closing score appendix, printed pp. 44-48 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 8 "Dance of the Sugar Plum Fairy" — watching the Sugar Plum Fairy's dance (from The Nutcracker) — which melodic percussion instrument do we hear? Imagining a dancer moving to this music; reading notation with body movements; and the explainer: ballet is an art dance performed with music, the dancers expressing the story or stage event by rhythmic body movements and measured steps — its marks are dancing on the toe-tips and moving the body with the greatest flexibility, speed and grace (student book; original target `drama-and-dance/ballet-and-concert-dance`) | Book 6, printed p. 20 |
+
+**Acceptance count: taught in 3 countries (Belarus, Moldova, Syria).** Malta teacher guide evidence is named here, counted nowhere. Cuba is added as a student book, inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `drama-and-dance/ballet`). The Malta placements were filed as NEW LESSON NEEDED under the original string(s) `drama-and-dance/ballet-a-story-told-in-dance`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Malta's own way: ballet is met inside the listening-and-appraising unit — a story told in dance, appraised through Tchaikovsky's Nutcracker, retold by summary only. Songs and stories are placed by summary only, never transcribed.
 
-Searchable tags: ballet, Nutcracker, Tchaikovsky, story in dance, Malta, Music Shines
+Searchable tags: ballet, Nutcracker, Tchaikovsky, story in dance, Malta, Music Shines, Syria
 
 **Book 3:** *Por los caminos del arte: un acercamiento a sus manifestaciones en Cuba (Educación Artística, séptimo grado)* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2013; ISBN 978-959-13-2480-1. Grade: Grade 7 (student/teacher: STUDENT). PDF pages: 176. Verdict: COMPLETE. Self-check apparatus named, not placed, as filed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
 

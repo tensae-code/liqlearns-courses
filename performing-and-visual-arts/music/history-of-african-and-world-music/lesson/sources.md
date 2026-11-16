@@ -1,6 +1,6 @@
 # Sources — History of African and World Music
 
-countries: Ethiopia, Honduras, Albania, Samoa, Iceland, Malta, Belarus, Papua New Guinea, Libya, Bolivia, Indonesia
+countries: Ethiopia, Honduras, Albania, Samoa, Iceland, Malta, Belarus, Papua New Guinea, Libya, Bolivia, Indonesia, Syria
 
 **Book 1:** *Performing and Visual Arts Teacher Guide Grade 10* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education (first published 2022, GEQIP-E). Grade 10 has no student book; this guide is evidence only. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g10-teacher-placements.md.
 
@@ -100,11 +100,52 @@ countries: Ethiopia, Honduras, Albania, Samoa, Iceland, Malta, Belarus, Papua Ne
 |---|---|
 | Indonesia — Bab II Era Perkembangan Musik — the eras of music — Western Medieval, Renaissance, Baroque, Classical, Romantic and Modern set against Indonesia's own eras from traditional music through the post-independence and modern/popular periods (teacher guide — evidence; original target `music/music-through-the-ages`) | Book 18, printed p. 57 |
 
-**Acceptance count: taught in 3 countries (Honduras, Belarus, Bolivia).** Ethiopia is added as teacher guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 19:** *التربية الموسيقية (Music Education)* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 6 (student/teacher: STUDENT). PDF pages: 72 (cover/title page verified against the record title; byte size 27,174,319 matches record). Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 19 "Culture Around the World" — the world's folk cultures — a play-and-learn matching of instruments and peoples around the world (student book; original target `music/history-of-african-and-world-music`) | Book 19, printed p. 63 |
+
+**Book 20:** *التربية الموسيقية (Music Education)* (student book, Arabic) — Syria, Syrian Ministry of Education / National Centre for Curriculum Development (NCCD developed-curriculum edition); year: school year 2021-2022 (1442 AH); no ISBN printed Grade: 7 (student/teacher: STUDENT). PDF pages: 53 (cover/title page verified against the record title; byte size 47,782,278 matches record; image-only scan, read visually page by page). Verdict: COMPLETE. Excluded (named, not placed): closing score appendix, printed pp. 48-53 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 2 "The Baroque Era" — the Baroque age of music — Bach and Vivaldi lived in it — comparing two heard pieces by speed, sadness, ornament, strings and winds (student book; original target `music/history-of-african-and-world-music`) | Book 20, printed p. 8 |
+| Syria — Lesson 8 "Music of the Peoples" — watching and placing the music of Russia, China, India and Egypt, and singing the Russian song "Katyusha" (words by Isakovsky, music by Blanter) in Arabic (student book; original target `music/history-of-african-and-world-music`) | Book 20, printed p. 20 |
+| Syria — Lesson 18 "West and East" — naming the world's ensembles from their pictures — Eastern takht, orchestra, opera company, brass band, string quartet — and sorting the forms: muwashshah and taqtouqa are Eastern vocal; concerto and symphony Western instrumental; bashraf, longa and taqasim Eastern instrumental; opera a sung play (student book; original target `music/history-of-african-and-world-music`) | Book 20, printed p. 42 |
+
+**Book 21:** *التربية الموسيقية (Music Education), Third Grade* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 3 (student/teacher: STUDENT). PDF pages: 75 (cover verified against the record title; byte size 84,462,201 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Excluded (named, not placed): closing songs appendix, printed pp. 66-75 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 6 "Music of the Seasons" — music that paints the four seasons — listening and telling which season each piece belongs to (student book; original target `music/history-of-african-and-world-music`) | Book 21, printed p. 16 |
+| Syria — Lesson 12 "A Music Band" — filling the band's blanks from the video, and Joseph Haydn, the world musician who wrote his first works at the age of ten (student book; original target `music/history-of-african-and-world-music`) | Book 21, printed p. 30 |
+
+**Book 22:** *التربية الموسيقية (Music Education), Ninth Grade* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 9 (student/teacher: STUDENT). PDF pages: 64 (cover verified against the record title; byte size 63,391,665 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Excluded (named, not placed): closing "Notes of the Anthems and Songs" appendix, printed p. 54 to the end — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 13 "Cradle of Melody (Mahd al-Nagham)" — testing your culture — ancient civilisations you know; a documentary film on the kingdom of Mari in Mesopotamia; how melody developed from the temples of the ancient civilisations; listening to an excerpt of Assyrian singing; the Sumerians' instruments (student book; original target `music/history-of-african-and-world-music`) | Book 22, printed p. 34 |
+| Syria — Lesson 14 "The Arabic Song Between the Old and the New" — watching the video and singing with the teacher's playing — judging the Arabic song between its classical and its modern faces (student book; original target `music/history-of-african-and-world-music`) | Book 22, printed p. 38 |
+
+**Book 23:** *التربية الموسيقية (Music Education), Eighth Grade* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; first printed school year 2018-2019, this copy school year 2025-2026; no ISBN printed Grade: 8 (student/teacher: STUDENT). PDF pages: 64 (cover verified against the record title; byte size 85,804,582 matches record — fetched byte-exact from the library GitHub release mid-size-books; image-only book, read visually page by page). Verdict: COMPLETE. Excluded (named, not placed): "Let Us Play and Test Our Knowledge," printed p. 52 — a board-game revision of the book's content (assessment play, inventory only); closing "Anthems of the Book" appendix, printed pp. 54-64 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 12 "The First Music Notation" — tablet H6, found in Ugarit (Ras Shamra, near the city of Latakia on the Syrian coast — the name Ugarit in Babylonian means "the brides' field"); one of its faces bears the first alphabet of music notation — symbols — and the other face the words of an Ugaritic hymn; listening to the piece as decoded in Vitali's attempt to crack the tablet (student book; original target `music/history-of-african-and-world-music`) | Book 23, printed p. 32 |
+| Syria — Lesson 16 "From Ugarit" — archaeological discoveries and historical studies proved that the oldest music notation in the world was found in Ugarit; reading an excerpt of the notation of the Ugaritic Hymn of Supplication as notated by the researcher Ziad al-Ajjan, and analysing its intervals in the table (student book; original target `music/history-of-african-and-world-music`) | Book 23, printed p. 40 |
+| Syria — Lesson 19 "Music Around the World" — singing together the French song "L'oiseau et l'enfant"; listening to a song in Russian and discussing whether its melody is familiar; researching a song in several languages that carries the same musical melody (student book; original target `music/history-of-african-and-world-music`) | Book 23, printed p. 48 |
+
+**Acceptance count: taught in 4 countries (Honduras, Belarus, Bolivia, Syria).** Ethiopia is added as teacher guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 This lesson stands on teacher-guide evidence only: Grade 10 has no student book. The two history lessons are carried at the scope the guide's unit table names (Lessons 22–23, printed pp. 35–38) and no historical detail beyond that scope and this course's earlier pupil-taught origins content is claimed.
 
-Searchable tags: history of African music, history of world music, Grade 10 teacher guide evidence, Lessons 22-23, Iceland, Dægurspor, Malta, Music Shines, Papua New Guinea
+Searchable tags: history of African music, history of world music, Grade 10 teacher guide evidence, Lessons 22-23, Iceland, Dægurspor, Malta, Music Shines, Papua New Guinea, Syria
 
 **Book 11:** *دليل المعلم لمادة التربية الموسيقية — للسنة الأولى بمرحلة التعليم الثانوي (Teacher's Guide for Music Education — First Year of Secondary Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2019–2020 (1440–1441 AH); ISBN no ISBN printed. Grade: 10 (student/teacher: TEACHER). PDF pages: 65 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 

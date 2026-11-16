@@ -1,6 +1,6 @@
 # Sources — Photography
 
-countries: Ethiopia, Honduras, Trinidad and Tobago, Finland, Iran, Venezuela, Malaysia, Moldova
+countries: Ethiopia, Honduras, Trinidad and Tobago, Finland, Iran, Venezuela, Malaysia, Moldova, Syria
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -79,8 +79,15 @@ countries: Ethiopia, Honduras, Trinidad and Tobago, Finland, Iran, Venezuela, Ma
 |---|---|
 | Moldova — Unit II §7 — photography pushed by new technologies: Veronesi's transformed experimental portrait set against Potârniche's straight photograph — traditional against non-traditional (student book; original target `visual-art/photography`) | Book 16, printed p. 25 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Honduras, Finland, Iran, Venezuela, Malaysia, Moldova).** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 17:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Student's Book* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 9 (student/teacher: STUDENT). PDF pages: 82 (cover verified against the record title; byte size 46,063,992 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Excluded (named, not placed): the closing recall page, printed p. 82 — "let us always remember the primary colours and their derivatives" (revision apparatus, inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 6 "Photography" — photography is the process of producing pictures by light effects; using the mobile device to capture smart artistic photos that archive the memory of place and time, and drawing them in your notebook; exchanging artistic photos with friends (student book; original target `culture-and-values/photography-and-film-as-art`) | Book 17, printed p. 19 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Honduras, Finland, Iran, Venezuela, Malaysia, Moldova, Syria).** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 Honesty notes: Book 2's photography part is a teacher-guide part, cited at the section level its placement gives (§1.4, printed pp. 18–22, inside a wider shapes/forms/colours section) and labelled evidence; the lesson's core rests on Book 1, a student book. The Grade 3 book's camera is a film camera — light through a lens, an image on film, printed on prepared papers — and the lesson keeps the book's own account; phone cameras are mentioned only in the Do It First looking activity, not as book content. No camera technique beyond the placements (no exposure settings, no lens types) has been added.
 
-Searchable tags: photography, taking a photograph, camera, lens, film, vertical, ቋሚ, horizontal, አግዳሚ, portrait, landscape, ቁምና ዝርግ ፎቶግራፍ, passing a message by photograph, passing a message by video, Finland
+Searchable tags: photography, taking a photograph, camera, lens, film, vertical, ቋሚ, horizontal, አግዳሚ, portrait, landscape, ቁምና ዝርግ ፎቶግራፍ, passing a message by photograph, passing a message by video, Finland, Syria

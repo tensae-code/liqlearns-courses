@@ -1,6 +1,6 @@
 # Sources — Songs for Clean and Healthy Living
 
-countries: Ethiopia, Rwanda
+countries: Ethiopia, Rwanda, Syria
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 96 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -57,8 +57,38 @@ countries: Ethiopia, Rwanda
 | Rwanda — Part 1 Unit 1 Lesson 2: Singing songs about General health with emotional expressions — general-health songs performed with emotional (facial) expressions and actions (teacher guide evidence) (teacher guide — evidence) | Book 10, printed p. 4 |
 
 
-**Acceptance count: taught in 2 countries (Ethiopia, Rwanda).**
+**Book 11:** *التربية الموسيقية (Music Education)* (student book, Arabic) — Syria, Syrian Ministry of Education / National Centre for Curriculum Development (NCCD developed-curriculum edition); year: school year 2021-2022 (1442 AH); no ISBN printed Grade: 7 (student/teacher: STUDENT). PDF pages: 53 (cover/title page verified against the record title; byte size 47,782,278 matches record; image-only scan, read visually page by page). Verdict: COMPLETE. Excluded (named, not placed): closing score appendix, printed pp. 48-53 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 4 "The Clean Environment" — an environment anthem (words by Burhan al-Shalil, music by Ilham Abu al-Suoud) sung by pupil groups while they clean the school surroundings (student book; original target `music/songs-for-clean-and-healthy-living`) | Book 11, printed p. 12 |
+
+**Book 12:** *التربية الموسيقية (Music Education), Second Grade* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: first printed 2018-2019, this copy school year 2025-2026; no ISBN printed Grade: 2 (student/teacher: STUDENT). PDF pages: 68 (cover verified against the record title; byte size 38,314,134 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Excluded (named, not placed): closing "Songs of the Book" appendix, printed p. 62 to the end — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 15 "Water Is Life" — the water song — "welcome to the water running in our valleys, it waters us" — and telling the difference between the pictures of water clean and spoiled (student book; original target `music/songs-for-clean-and-healthy-living`) | Book 12, printed p. 34 |
+| Syria — Lesson 20 "Protect Yourself" — Jad and Sara meet a strange body on the road — the safety song: beware of touching strange things (student book; original target `music/songs-for-clean-and-healthy-living`) | Book 12, printed p. 44 |
+| Syria — Lesson 25 "The Tree" — talking with your friend about the tree's benefits, joining the percussion instruments to their symbols, and forming a singing group with friends (student book; original target `music/songs-for-clean-and-healthy-living`) | Book 12, printed p. 54 |
+
+**Book 13:** *التربية الموسيقية (Music Education), Third Grade* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 3 (student/teacher: STUDENT). PDF pages: 75 (cover verified against the record title; byte size 84,462,201 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Excluded (named, not placed): closing songs appendix, printed pp. 66-75 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 18 (the song) — the caution song — the flower smelled of perfume, yet beware: war's remnants hide in the ground; caution, caution (student book; original target `music/songs-for-clean-and-healthy-living`) | Book 13, printed p. 45 |
+
+**Book 14:** *التربية الموسيقية (Music Education), Ninth Grade* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 9 (student/teacher: STUDENT). PDF pages: 64 (cover verified against the record title; byte size 63,391,665 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Excluded (named, not placed): closing "Notes of the Anthems and Songs" appendix, printed p. 54 to the end — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 19 "My Environment" — observing the picture and defining the problem and an immediate solution; singing in French to the teacher's playing — "La pollution, ce n'est…" — the pollution song (student book; original target `music/songs-for-clean-and-healthy-living`) | Book 14, printed p. 48 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Rwanda, Syria). Syria is added as student-book stock (see its rows above), inside the acceptance count.**
 
 The Grade 4 teacher-guide part is syllabus-level evidence only (its Ch. 5 detail sits in the guide's syllabus tables), and it is labelled as such; the lesson's taught content stands on the two student textbooks. The placements ask for a GIF of the full handwashing sequence; a ten-step sequence cannot be drawn truthfully in a two-second loop, so no handwashing GIF was filed — the numbered ten-panel picture and the sing-along audio slot carry the sequence instead.
 
-Searchable tags: clean living songs, handwashing, ten steps, science science, keeping clean, ስለ ንጽህና አጠባበቅ, ሳይንስ ሳይንስ, ንጽህናችንን እንጠብቅ, hygiene, Rwanda
+Searchable tags: clean living songs, handwashing, ten steps, science science, keeping clean, ስለ ንጽህና አጠባበቅ, ሳይንስ ሳይንስ, ንጽህናችንን እንጠብቅ, hygiene, Rwanda, Syria

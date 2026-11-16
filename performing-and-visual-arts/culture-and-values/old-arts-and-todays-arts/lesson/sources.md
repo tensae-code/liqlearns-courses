@@ -1,6 +1,6 @@
 # Sources — Old Arts and Today's Arts
 
-countries: Ethiopia, Andorra, Guatemala, Pakistan, Colombia, Belarus, Iran, Brazil, Bulgaria, Venezuela, Angola
+countries: Ethiopia, Andorra, Guatemala, Pakistan, Colombia, Belarus, Iran, Brazil, Bulgaria, Venezuela, Angola, Syria
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -57,11 +57,18 @@ countries: Ethiopia, Andorra, Guatemala, Pakistan, Colombia, Belarus, Iran, Braz
 | Venezuela — Bienes de creación individual: goods of individual creation — plastic, literary, interpretive and audiovisual creations of known or unknown authors, registered as cultural goods, and the heritage bearers who activate them (student book) | Book 13, printed p. 138 |
 | Angola — Tema 2.1.2 Estudo de obras de tecelagem tradicional: studying traditional weaving where it lives — visit a weaver in your neighbourhood or family, or a museum or art gallery; the weaving handcraft of our people since our ancestors is a heritage to preserve and transmit to the new generations (student book; original target `culture-and-values/old-arts-and-todays-arts`) | Book 14, printed p. 63 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Pakistan, Colombia, Belarus, Iran, Brazil, Bulgaria, Venezuela, Angola). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.**
+**Book 15:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education)* (student book, Arabic) — Syria, Syrian Ministry of Education (NCCD developed-curriculum edition); year: this copy printed for school year 2021-2022 (first printed 2018-2019); no ISBN printed Grade: 5 (student/teacher: STUDENT). PDF pages: 65 (cover/title page verified against the record title; byte size 52,010,128 matches record). Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 29 "From Human Heritage: The Radio" — the old radio as human heritage — how its making developed across the ages, what it meant in grandparents' lives, drawing a family listening together (student book; original target `culture-and-values/old-arts-and-todays-arts`) | Book 15, printed p. 60 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Pakistan, Colombia, Belarus, Iran, Brazil, Bulgaria, Venezuela, Angola, Syria). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.**
 
 The definition of ancient arts, the oral-to-recorded contrast and the protection ruling are Grade 3's own words (printed pp. 45 and 58), taught as printed. The closing exercise's keyed-false item (wedding poems and melodies are the same in all areas — false) is taught as the book keys it.
 
-Searchable tags: old arts and today's arts, expressing culture in the arts, ancient arts, culture protected, cassette and CD, debo, Colombia, Brazil
+Searchable tags: old arts and today's arts, expressing culture in the arts, ancient arts, culture protected, cassette and CD, debo, Colombia, Brazil, Syria
 
 **Book 12:** *Музика за четвърти клас (Music for Fourth Grade), by Адриан Георгиев, Мая Андасорова, Рая Ковачева* (student book, Bulgarian) — Bulgaria, РИВА (Riva), Sofia; year 2019; ISBN 978-619-225-098-0 (from the cover barcode). Grade: 4 (student/teacher: STUDENT). PDF pages: 68 (cover verified — "Музика за четвърти клас", Riva, 4. клас). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
 

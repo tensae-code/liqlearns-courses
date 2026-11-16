@@ -1,6 +1,6 @@
 # Sources — Architecture
 
-countries: Colombia, Belarus, Morocco, Cuba
+countries: Colombia, Belarus, Morocco, Cuba, Syria
 
 **Book 1:** *Secundaria Activa — Educación Artística - Artes Visuales (student guide)* (student book, Spanish) — Colombia, Ministerio de Educación Nacional, Bogotá; year 2012; ISBN libro 978-958-691-497-0, ISBN serie Secundaria Activa 978-958-691-485-7; authors Paola Lorena Coral Pérez and Marcela Tristancho (update and qualification by Aguirre Asesores S.A.S., contract 428 of 2010). Grades 6–9 (recorded grade-06; STUDENT). PDF pages: 168 (title page verified against the record; byte size 9,617,292). Verdict: COMPLETE — read in full locally from the downloaded file's text layer, all 2 projects / 4 subprojects / 12 Momentos. The book's self-assessment rubrics (autoevaluación) are assessment apparatus, named here and not placed. READ ROUTE: the ministry host (redes.colombiaaprende.edu.co) drops direct connections after the TLS handshake, and its June 2023 Wayback capture is a truncated ~538 KB file; this copy is the Wayback Machine's 10 Dec 2022 capture of the same ministry file (canonical digest), downloaded whole and verified. Placements at liqlearns-courses-work/expansion-art-2026-11-16/colombia-placements.md.
 
@@ -22,11 +22,57 @@ countries: Colombia, Belarus, Morocco, Cuba
 | Morocco — "Kasbahs and Doors" (قصبات وأبواب) — Morocco's own architectural forms — kasbahs, palaces and doors: their walls, the ornaments decorating the walls, the dominant door colours and how the doors are ornamented; colouring a kasbah and its sky, and completing and colouring a door's decoration in two suitable colours (teacher guide — evidence; original target `visual-art/kasbahs-and-moroccan-doors`) | Book 3, printed p. 110 |
 | Morocco — "Architectural Art" (الفن المعماري), the madrasa — Morocco's old madrasa architecture as art — walls of zellige mosaic and carved wood read as a designed surface (slug first proposed in the Grade 3 filing for kasbahs and decorated doors) (teacher guide — evidence; original target `visual-art/kasbahs-and-moroccan-doors`) | Book 4, printed p. 62 |
 
-**Acceptance count: taught in 3 countries (Colombia, Belarus, Cuba).** Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 6:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Basic Education Stage, Student's Book* (student book, Arabic) — Syria, Syrian Ministry of Education (specialist committee authorship); year: first printed 2017-2018, this copy school year 2021-2022; no ISBN printed Grade: 7 (student/teacher: STUDENT). PDF pages: 67 (cover/title pages verified against the record title; byte size 525,814,190 matches record; image-heavy scan read visually page by page with its text layer). Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 13 "Designing a Door" — doors of the Syrian heritage — how their shapes, sizes and colours differ by region, historical stage, function and material; designing and colouring a wooden door for your own home (student book; original target `visual-art/architecture-in-art`) | Book 6, printed p. 28 |
+| Syria — "The Human Architectural Heritage" — the environment rules architecture — land, level and climate set the laws of building a home; Old Damascus, the oldest inhabited city in the world, its style and beauty; Old Sanaa and the Yemeni style whose buildings carry simple decorative lines; drawing a design in the old-Damascus manner (student book; original target `visual-art/architecture-in-art`) | Book 6, printed p. 56 |
+
+**Book 7:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Pupil's Book* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: first printed 2018-2019, this copy school year 2025-2026; no ISBN printed Grade: 2 (student/teacher: STUDENT). PDF pages: 58 (cover verified against the record title; byte size 29,734,718 matches record — fetched from the source URL recorded in the library record (ministry PDF via Wayback capture); the identical byte-exact file also sits in the library GitHub release mid-size-books. Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 5 "The Rectangle and the Square in Buildings" — the shapes the artist used in his painting of buildings — rectangles and squares as the bones of houses (student book; original target `visual-art/architecture-in-art`) | Book 7, printed p. 14 |
+| Syria — Lesson 8 (design) — designing a tile (15×15) from your imagination (student book; original target `visual-art/architecture-in-art`) | Book 7, printed p. 21 |
+
+**Book 8:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Pupil's Book* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 4 (student/teacher: STUDENT). PDF pages: 55 (cover verified against the record title; byte size 33,539,389 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Companion pages (named): the teacher-companion activities, printed pp. 40-48, are the lessons' own activity bank; four distinct ones are placed below and the rest repeat the same techniques (coloured-paper work, waste collage variants). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — "The Syrian Architectural Heritage" — Bosra, a historic city belonging to Daraa governorate in the Syrian Arab Republic, and Maaloula — Syria's archaeological site counted among the world's important heritage places (student book; original target `visual-art/architecture-in-art`) | Book 8, printed p. 50 |
+
+**Book 9:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Student's Book* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 9 (student/teacher: STUDENT). PDF pages: 82 (cover verified against the record title; byte size 46,063,992 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Excluded (named, not placed): the closing recall page, printed p. 82 — "let us always remember the primary colours and their derivatives" (revision apparatus, inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 21 "Arches in Eastern Architecture" — the Umayyad Mosque in Damascus and Khan Asad Pasha — how arches were relied on to execute the buildings; drawing an Eastern building showing its arches and artistic ornaments, influenced by Eastern architecture (student book; original target `visual-art/architecture-in-art`) | Book 9, printed p. 51 |
+| Syria — Lesson 28 "Surrealist Architecture" — surrealist architecture departs from reality and relies wholly on imagination, marked by boldness and distance from symmetry and classicism; observing the buildings' shapes and designs and where each design's idea came from; designing a composition (student book; original target `visual-art/architecture-in-art`) | Book 9, printed p. 69 |
+
+**Book 10:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Student's Book, Basic Education Stage* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; first printed school year 2017-2018, this copy school year 2025-2026; no ISBN printed Grade: 8 (student/teacher: STUDENT). PDF pages: 68 (cover verified against the record title; byte size 283,756,204 matches record — fetched byte-exact from the library GitHub release full-quality-oversized-books; image-only book, read visually page by page). Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 20 "Contemporary Architecture" — the traits of contemporary architecture — it does not rely on symmetry; it relies on free artistic forms made of different materials; discussing modern building designs with classmates and trying to design an architectural composition of geometric shapes (student book; original target `visual-art/architecture-in-art`) | Book 10, printed p. 42 |
+| Syria — Lesson 21 "Classical Architecture" — the Central Bank of Syria building in Damascus and the Dar al-Salam School in Damascus; the traits of classical architecture — most of it relies on symmetry and balance; most of it is made of natural stone, clay and wood; designing an external façade for a building relying on symmetry (student book; original target `visual-art/architecture-in-art`) | Book 10, printed p. 43 |
+
+**Book 11:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Pupil's Book, First Grade of Basic Education* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; first printed school year 2017-2018, this copy school year 2025-2026; no ISBN printed Grade: 1 (student/teacher: STUDENT — pupil's book). PDF pages: 63 (cover verified against the record title; byte size 518,700,726 matches record — fetched byte-exact from the library GitHub release full-quality-oversized-books; read through the text layer and page-by-page visual sheets). Verdict: COMPLETE. Named, not placed: the "Blackboard" enrichment, printed p. 53 — a photo spread of pupils' chalk drawings on the school board (classroom display, no distinct teaching step); the closing holidays list itself is placed below as festivals, its calendar facts being inventory. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Enrichment "The Syrian Architectural Heritage" — Palmyra, in the middle of Syria in Homs governorate — one of the world's most important ancient cities, which rivalled Rome and spread its influence over wide regions; the "Bride of the Desert," a great trading centre whose remains — colonnaded streets, gates, temples, a theatre, palaces and tombs — tell its greatness; and the mud houses, among the oldest urban patterns in Syria that imitate nature — sun-dried brick (al-libn) dried under the sun's heat, usually built in summer (the beehive houses) (student book; original target `visual-art/architecture-in-art`) | Book 11, printed p. 59 |
+
+**Acceptance count: taught in 4 countries (Colombia, Belarus, Cuba, Syria).** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/architecture`); the Colombia placements were filed under the original strings recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Colombia's own way: architecture is taught inside a design project on transforming spaces — the world's shelters are read by the human need each one answers.
 
-Searchable tags: architecture, tipi, palafitos, Chiloé, Calatrava, Forbidden City, Colombia
+Searchable tags: architecture, tipi, palafitos, Chiloé, Calatrava, Forbidden City, Colombia, Syria
 
 **Book 5:** *Cultura Artística — décimo grado* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2023; ISBN 978-959-13-3989-8. Grade: Grade 10 (student/teacher: STUDENT). PDF pages: 204. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
 

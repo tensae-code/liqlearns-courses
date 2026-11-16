@@ -1,6 +1,6 @@
 # Sources — Art from Recycled Materials
 
-countries: Romania, Singapore, Serbia, Sudan, Morocco, Angola, Mongolia, Indonesia
+countries: Romania, Singapore, Serbia, Sudan, Morocco, Angola, Mongolia, Indonesia, Syria
 
 **Book 1:** *Arte vizuale și abilități practice — Manual pentru clasa a III-a, Semestrul al II-lea (Visual Arts and Practical Skills, Grade 3, Semester 2)* (student book, Romanian) — Romania, Ministerul Educației și Cercetării Științifice / Editura CD Press, 2015; authors Mirela Flonta, Claudia Stupineanu, Simona Dobrescu; approved by ministerial order 5046/25.08.2015; ISBN 978-606-528-223-0 (work), 978-606-528-269-8 (Part 2), Grade 3, 48 PDF pp. STUDENT — student book. Verdict: COMPLETE. The PDF is image-only (no text layer), so it was read visually page by page from 100-DPI renders; PDF and renders deleted after filing. Cover verified: title, grade and semester match the record. Excluded per the placements: the three Recapitulare. Evaluare test pages (printed pp. 24, 34, 46) and the final evaluation test part (printed p. 47) are the book's own assessment — excluded; their companion PROJECTS (plaster vase, School Street, Hansel and Gretel set) do teach skills and are placed. The closing Dicționar (printed p. 48) is a glossary — inventory-only, named here, never stocked as parts. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/romania-placements.md.
 
@@ -65,8 +65,65 @@ countries: Romania, Singapore, Serbia, Sudan, Morocco, Angola, Mongolia, Indones
 |---|---|
 | Indonesia — Bab IV — making functional products from dry waste — dry leaves, plastic, cans and bottles (teacher guide — evidence; original target `visual-art/upcycling-used-materials-into-art`) | Book 13, printed p. 125 |
 
-**Acceptance count: taught in 5 countries(Romania, Serbia, Sudan, Angola, Mongolia). Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 14:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Basic Education Stage, Student's Book* (student book, Arabic) — Syria, Syrian Ministry of Education (specialist committee authorship); year: first printed 2017-2018, this copy school year 2021-2022; no ISBN printed Grade: 7 (student/teacher: STUDENT). PDF pages: 67 (cover/title pages verified against the record title; byte size 525,814,190 matches record; image-heavy scan read visually page by page with its text layer). Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — "Art Around Us: Street Art from the Remains of the Environment" — the Damascus mosaic mural that entered the Guinness records — 720 square metres of wall made from environment waste by Syria's "Rhythm of Life" team of art teachers under the artist Moafak Makhoul (2014), to spread street-art culture — then creating your own artwork from the environment's remains (student book; original target `visual-art/recycled-materials-craft`) | Book 14, printed p. 42 |
+| Syria — "Various Techniques: What Can I Make from Cardboard Boxes?" — building whole buildings and old-town models from cardboard boxes and environment waste, together with classmates (student book; original target `visual-art/recycled-materials-craft`) | Book 14, printed p. 45 |
+| Syria — "Various Techniques: Drawing on Environment Waste" — turning a thrown-away bottle into a painted rocket, and decorating any waste piece your own way so it can be used in a new way (student book; original target `visual-art/recycled-materials-craft`) | Book 14, printed p. 46 |
+| Syria — "Various Techniques: Various Cylinders" — decorating a set of usable cardboard cylinders with classmates — turning tubes into lamps, shades and jewellery stands (student book; original target `visual-art/recycled-materials-craft`) | Book 14, printed p. 53 |
+
+**Book 15:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Pupil's Book* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: first printed 2018-2019, this copy school year 2025-2026; no ISBN printed Grade: 2 (student/teacher: STUDENT). PDF pages: 58 (cover verified against the record title; byte size 29,734,718 matches record — fetched from the source URL recorded in the library record (ministry PDF via Wayback capture); the identical byte-exact file also sits in the library GitHub release mid-size-books. Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 15 "Artworks from Cardboard" — thinking, creating and executing a model artwork from used cardboard (student book; original target `visual-art/recycled-materials-craft`) | Book 15, printed p. 34 |
+| Syria — Lessons 16-17 "Drawing on Tree Sticks / Decorating Tree Sticks" — drawing on dry branches and twigs, and joining classmates to decorate waste wooden pieces with elements from the environment (student book; original target `visual-art/recycled-materials-craft`) | Book 15, printed p. 36 |
+
+**Book 16:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Pupil's Book* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching (rights held with the National Centre for Curriculum Development); year: first printed 2019-2020, this copy school year 2025-2026; no ISBN printed Grade: 3 (student/teacher: STUDENT). PDF pages: 75 (cover verified against the record title; byte size 62,939,881 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Excluded (named, not placed): the closing recall page, printed p. 74 — "let us always remember: the primary colours and their derivatives" (revision apparatus, inventory only). The school-exhibition pages at the end are placed, as the book's own gallery of pupils' work. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Techniques pages — forming a group artwork from dry tree branches and twigs, executed with flowers (student book; original target `visual-art/recycled-materials-craft`) | Book 16, printed p. 46 |
+
+**Book 17:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Pupil's Book* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 4 (student/teacher: STUDENT). PDF pages: 55 (cover verified against the record title; byte size 33,539,389 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Companion pages (named): the teacher-companion activities, printed pp. 40-48, are the lessons' own activity bank; four distinct ones are placed below and the rest repeat the same techniques (coloured-paper work, waste collage variants). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Companion activities — creating a pencil box from environment waste to put your pencils in (student book; original target `visual-art/recycled-materials-craft`) | Book 17, printed p. 41 |
+
+**Book 18:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Student's Book* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 9 (student/teacher: STUDENT). PDF pages: 82 (cover verified against the record title; byte size 46,063,992 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Excluded (named, not placed): the closing recall page, printed p. 82 — "let us always remember the primary colours and their derivatives" (revision apparatus, inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 10 "Free Drawings" — drawing need not be only on the panel — benefit from the things around you and draw on them; draw on things you no longer need and turn them into an artwork (student book; original target `visual-art/recycled-materials-craft`) | Book 18, printed p. 28 |
+| Syria — Lesson 27 "Visual Creations" — designing an ornamental work executable on a metal piece (a barrel, a tank, metal cans, damaged empties); group work — benefiting from industrial remains and the things around you to turn them into an innovative artwork (student book; original target `visual-art/recycled-materials-craft`) | Book 18, printed p. 67 |
+| Syria — Lesson 31 "Recycling" — benefiting from the fabric remains you have and reformulating them by recycling to form an artwork in the way you see fit (student book; original target `visual-art/recycled-materials-craft`) | Book 18, printed p. 73 |
+
+**Book 19:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Student's Book, Basic Education Stage* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; first printed school year 2017-2018, this copy school year 2025-2026; no ISBN printed Grade: 8 (student/teacher: STUDENT). PDF pages: 68 (cover verified against the record title; byte size 283,756,204 matches record — fetched byte-exact from the library GitHub release full-quality-oversized-books; image-only book, read visually page by page). Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 16 "The Art of Recycling" — the concept of recycling — a means that helps preserve the environment by reusing the leftovers produced by the materials used at home or school, benefiting from manufactured-material remains such as plastic cans, glass or paper; the recycling idea spread in the twentieth century and recycling art played an important role in making important artworks from the environment's remains; discussing the materials available in our environment that can enter art-making; try with your family to execute a table panel or a cushion to beautify your home from fabric remains (student book; original target `visual-art/recycled-materials-craft`) | Book 19, printed p. 34 |
+| Syria — Lesson 24 "Artworks Made from Tree Branches" — discussing how we can use tree branches and trunks in an artistic and useful way — nature must be loved by using its remains in artworks instead of burning them and damaging them (branch chairs, shelves and lamps); create a contemporary artwork usable at home or in public places using tree branches (student book; original target `visual-art/recycled-materials-craft`) | Book 19, printed p. 48 |
+| Syria — Lesson 29 "Frames from Different Materials" — waste must be benefited from and recycled to make artworks (tree branches — fabric — carton — magazine paper); execute a picture frame made of waste and decorate it as you see fitting, with the materials available in your environment that can enter the artwork — twig frames, newspaper frames, frames of coloured pencil shavings (student book; original target `visual-art/recycled-materials-craft`) | Book 19, printed p. 58 |
+
+**Book 20:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Pupil's Book, First Grade of Basic Education* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; first printed school year 2017-2018, this copy school year 2025-2026; no ISBN printed Grade: 1 (student/teacher: STUDENT — pupil's book). PDF pages: 63 (cover verified against the record title; byte size 518,700,726 matches record — fetched byte-exact from the library GitHub release full-quality-oversized-books; read through the text layer and page-by-page visual sheets). Verdict: COMPLETE. Named, not placed: the "Blackboard" enrichment, printed p. 53 — a photo spread of pupils' chalk drawings on the school board (classroom display, no distinct teaching step); the closing holidays list itself is placed below as festivals, its calendar facts being inventory. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Accompanying Activity "Decoration from the Environment's Leftovers" — animals formed from fallen leaves (the deer, the owl, the fox) and flowers framed in carton frames — decorating from what the environment leaves behind (student book; original target `visual-art/recycled-materials-craft`) | Book 20, printed p. 48 |
+
+**Acceptance count: taught in 6 countries (Romania, Serbia, Sudan, Angola, Mongolia, Syria). Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/art-from-recycled-materials`); the Romania placements were filed under the original string `visual-art/constructing-with-recycled-materials`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Romania's own way: recycling is taught as invention — named toys (Roboțel, the Eco Butterfly) built step by step, then the child's own invented, useful toy, shown in an exhibition. (In this lesson's sources, Book 1 is the Romania Grade 3 Arte vizuale book.)
 
-Searchable tags: recycled materials, recyclable, robot, Robotel, eco butterfly, toys, exhibition, invention, Romania
+Searchable tags: recycled materials, recyclable, robot, Robotel, eco butterfly, toys, exhibition, invention, Romania, Syria

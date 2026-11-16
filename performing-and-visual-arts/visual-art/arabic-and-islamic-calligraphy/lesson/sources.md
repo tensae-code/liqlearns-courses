@@ -1,6 +1,6 @@
 # Sources — Arabic and Islamic Calligraphy
 
-countries: Pakistan, Saudi Arabia, Afghanistan
+countries: Pakistan, Saudi Arabia, Afghanistan, Syria
 
 **Book 1:** *آرٹ اینڈ ڈرائنگ 7 (Art and Drawing 7)* (student book, Urdu with English lesson titles) — Pakistan, Punjab Curriculum and Textbook Board, Lahore; year 2018 (first edition, February 2018 printing shown on contents page); no ISBN printed, Class 7, 84 PDF pp. STUDENT. Verdict: COMPLETE (cover verified against the record title; 8,109,694 bytes, matches the record exactly). Read from the recorded source_url (Google Drive via freebooks.pk) after grab.py tree returned HTTP 404 — byte size matches the record exactly, so the book is read, but the pushed copy is a PHANTOM PUSH (library debt). The book is a scan with no usable text layer; it was read visually, page by page, from 100-DPI contact sheets. Downloaded copy staged under the push-don't-delete rule at the phase3-staging grade-07 record path (books.json record already exists there). Excluded per standing rules: the Glossary (فرہنگ, printed pp. 80–83) — inventory-only, named here, not stocked. Pakistan's own way: a drawing-first book — every lesson is a pictured construction: set the centre line and eye level, build the object from ellipses and boxes in numbered steps, then finish in colour; its own traditions close the book: Islamic calligraphy written freehand inside geometric frames, a mosque built up step by step and modelled in wheat straw, and abri — marbled paper made with oil colour on water. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/pakistan-placements.md.
 
@@ -22,11 +22,18 @@ countries: Pakistan, Saudi Arabia, Afghanistan
 | Saudi Arabia — My letters, decorative frames (أحرفي إطارات زخرفية) — artists used calligraphy as the ornament element in this kind of ornament; Arabic calligraphy carries a knowledge dimension and an aesthetic dimension full of life, strengthened by the Ministry of Culture's Year of Arabic Calligraphy 2021 initiative, and stylising (تحوير) parts of letters, compound and single, is… (student book; original target `visual-art/arabic-calligraphy-ornament`) | Book 3, printed pp. 10–12 |
 | Saudi Arabia — Drawing letters inside an ornament frame — mark the empty space inside a coloured ornament frame, draw some Arabic letters in it by opposite (mirror) repetition or regular repetition, and colour them creatively with coloured pencils (student book; original target `visual-art/arabic-calligraphy-ornament`) | Book 3, printed p. 13 |
 
-**Acceptance count: taught in 3 countries (Pakistan, Saudi Arabia, Afghanistan).**
+**Book 5:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education)* (student book, Arabic) — Syria, Syrian Ministry of Education (NCCD developed-curriculum edition); year: this copy printed for school year 2021-2022 (first printed 2018-2019); no ISBN printed Grade: 5 (student/teacher: STUDENT). PDF pages: 65 (cover/title page verified against the record title; byte size 52,010,128 matches record). Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 1 "Forming from the Arabic Letter" — building a painting from the movement, balance and colour harmony of Arabic letterforms, in the way of Syrian pioneer Mahmoud Hammad, without the letters needing to be readable (student book; original target `visual-art/arabic-letter-composition`) | Book 5, printed p. 6 |
+
+**Acceptance count: taught in 4 countries (Pakistan, Saudi Arabia, Afghanistan, Syria). Syria is added as student-book stock (see its rows above), inside the acceptance count.**
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/arabic-and-islamic-calligraphy`); the Pakistan placement was filed as NEW LESSON NEEDED under the original string `visual-art/islamic-calligraphy`, recorded in the provenance row above and resolved to this lesson by slug-registry Part 2. Pakistan's own way: in its Class 7 design chapter, calligraphy is not a separate writing drill — it is design, composed inside geometric frames and coloured like every other design in the chapter.
 
-Searchable tags: calligraphy, Islamic calligraphy, Allah, Muhammad, four caliphs, geometric frame, Pakistan
+Searchable tags: calligraphy, Islamic calligraphy, Allah, Muhammad, four caliphs, geometric frame, Pakistan, Syria
 
 **Book 4:** Title as printed: هنر — صنف ۸ (Art — Grade 8) Grade: Grade 8 (student/teacher: STUDENT) Publisher: Ministry of Education, Islamic Republic of Afghanistan; printed 1399 SH (2020); no ISBN printed PDF pages: 62 (cover verified visually against the record title; fetched from GitHub release mid-size-books-7, asset grade-08-gov-afghanistan-d6c13d5ade.pdf, 11,015,808 bytes — secured as a release asset, not in the repo tree) Verdict: COMPLETE Tally: 21 placements — 9 to existing lessons, 12 NEW LESSON NEEDED Afghanistan's own way: Grade 8 is the Islamic-art year — Islamic art, its designs copied by hand, Islamic calligraphy crowned by copying the Basmala itself, Islamic architecture and a model bridge, the clay pen-holder and the wooden Quran stand (رحل) that the calligrapher needs, and miniature painting — all framed by Afghanistan's own Islamic-period history (Ghaznavid Ghazna, the Herat of the Ghurids and Timurids) and by the living crafts of every province, from Kabul's coppersmiths to Herat's glassblowers. Not placed: the Pashto national anthem front matter and the bibliography. Placements at liqlearns-courses-work/expansion-art-2026-11-16/afghanistan-placements.md.
 

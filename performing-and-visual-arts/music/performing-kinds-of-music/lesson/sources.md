@@ -1,6 +1,6 @@
 # Sources — Performing Kinds of Music
 
-countries: Ethiopia, Cyprus, Andorra, Uganda, Samoa, Iceland, Colombia, Libya, Cuba, Angola, Mongolia, Rwanda, Bolivia, Malaysia
+countries: Ethiopia, Cyprus, Andorra, Uganda, Samoa, Iceland, Colombia, Libya, Cuba, Angola, Mongolia, Rwanda, Bolivia, Malaysia, Syria
 
 **Book 1:** *Grade 2 Performing and Visual Arts Teacher Guide (የክወናና የዕይታ ጥበባት ትምህርት ፪ኛ ክፍል የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., body/syllabus to printed p. 80. Printed page = PDF page − 6 in the body. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-teacher-placements.md.
 
@@ -126,11 +126,78 @@ countries: Ethiopia, Cyprus, Andorra, Uganda, Samoa, Iceland, Colombia, Libya, C
 |---|---|
 | Malaysia — Units 1–6 Ensembel Vokal — singing in three, then four voice parts with breathing, voice projection, articulation, pitch and dynamics: Kain Songket, Payung Mahkota, Selamat Pergi Pahlawanku and Kereta Lembu (student book; original target `music/performing-kinds-of-music`) | Book 28, printed pp. 2, 6, 12, 22, 44, 60, 82, 96 |
 
-**Acceptance count: taught in 7 countries(Uganda, Colombia, Cuba, Angola, Mongolia, Bolivia, Malaysia).** This lesson's earlier stock stands on teacher-guide evidence only (Ethiopia) and Cyprus teacher unit material — evidence only, named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 29:** *التربية الموسيقية (Music Education)* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 6 (student/teacher: STUDENT). PDF pages: 72 (cover/title page verified against the record title; byte size 27,174,319 matches record). Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 6 "Kinds of Singing" — kinds of vocal music — a duet dialogue between two singers on stage, and searching out the names of vocal compositions (student book; original target `music/performing-kinds-of-music`) | Book 29, printed p. 21 |
+| Syria — Lesson 20 "A Choir Ensemble" — choral singing against solo singing — listening to sung pieces and performing the notes in order as a choir (student book; original target `music/performing-kinds-of-music`) | Book 29, printed p. 66 |
+
+**Book 30:** *التربية الموسيقية (Music Education)* (student book, Arabic) — Syria, Syrian Ministry of Education / National Centre for Curriculum Development (NCCD developed-curriculum edition); year: school year 2021-2022 (1442 AH); no ISBN printed Grade: 7 (student/teacher: STUDENT). PDF pages: 53 (cover/title page verified against the record title; byte size 47,782,278 matches record; image-only scan, read visually page by page). Verdict: COMPLETE. Excluded (named, not placed): closing score appendix, printed pp. 48-53 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 19 "The Language of the World" — music is the world's language — one melody ("Frère Jacques") sung in many languages with the notes unchanged; Do Re Mi Fa Sol La Si Do are music's names in every country; forming groups to sing solfege and words together (student book; original target `music/performing-kinds-of-music`) | Book 30, printed p. 44 |
+
+**Book 31:** *التربية الموسيقية (Music Education), First Grade Primary* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026 (1446 AH); no ISBN printed Grade: 1 (student/teacher: STUDENT). PDF pages: 66 (cover verified against the record title; byte size 34,464,970 matches record — fetched byte-exact from the library GitHub release mid-size-books after a first truncated attempt was retried). Verdict: COMPLETE. Excluded (named, not placed): closing score appendix, printed pp. 60-66 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 7 "Round and Round" — the English action song "Round and round the garden, like a teddy bear — one step, two steps" sung and acted, and telling its story in your own language (student book; original target `music/performing-kinds-of-music`) | Book 31, printed p. 18 |
+| Syria — Lesson 13 "Row Your Boat" — the English rowing song sung with Sarah and Jad — clap and row, one two, like the oar's movement — and meeting the white note (Blanche) (student book; original target `music/performing-kinds-of-music`) | Book 31, printed p. 30 |
+| Syria — Lesson 26 "The Poet" — singing a solfege exercise in your own tune; colouring the beans that carry the whole note and its rest red (student book; original target `music/performing-kinds-of-music`) | Book 31, printed p. 56 |
+
+**Book 32:** *التربية الموسيقية (Music Education), Second Grade* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: first printed 2018-2019, this copy school year 2025-2026; no ISBN printed Grade: 2 (student/teacher: STUDENT). PDF pages: 68 (cover verified against the record title; byte size 38,314,134 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Excluded (named, not placed): closing "Songs of the Book" appendix, printed p. 62 to the end — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 10 "This Is the Way" — the English action song — "This is the way I wash my hands" — singing time (student book; original target `music/performing-kinds-of-music`) | Book 32, printed p. 24 |
+| Syria — Lesson 24 "The Bobbin" — the English action song "Wind the bobbin up — pull, pull, clap, clap, clap; wind it back again" (student book; original target `music/performing-kinds-of-music`) | Book 32, printed p. 52 |
+| Syria — Lesson 28 "Our Music Concert" — holding our own concert — writing a rhythm line in 2/4 as a group and beginning the rehearsal (student book; original target `music/performing-kinds-of-music`) | Book 32, printed p. 60 |
+
+**Book 33:** *التربية الموسيقية (Music Education), Third Grade* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 3 (student/teacher: STUDENT). PDF pages: 75 (cover verified against the record title; byte size 84,462,201 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Excluded (named, not placed): closing songs appendix, printed pp. 66-75 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 11 "A Rainy Day" — naming the weather fit for each work in the pictures, and the English song "Rain, rain, go away, come on back some other day" (student book; original target `music/performing-kinds-of-music`) | Book 33, printed p. 28 |
+| Syria — Lesson 14 "A Musical Performance" — observing the pictures and imitating the sounds coming from them at school; discussing with friends the difference between playing the first music scale and the second, and the consecutive sounds (student book; original target `music/performing-kinds-of-music`) | Book 33, printed p. 34 |
+| Syria — Lesson 22 "The Traffic Policeman" — play and learn — act the traffic policeman organising the rhythm band, conducting the players (student book; original target `music/performing-kinds-of-music`) | Book 33, printed p. 52 |
+
+**Book 34:** *التربية الموسيقية (Music Education), Fourth Grade Basic* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026 (1446 AH); no ISBN printed Grade: 4 (student/teacher: STUDENT). PDF pages: 48 (cover verified against the record title; byte size 82,650,289 matches record — fetched byte-exact from the library GitHub release mid-size-books; image-only scan, read visually page by page). Verdict: COMPLETE. Excluded (named, not placed): closing score appendix, printed pp. 44-48 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 4 "An English Song: Kookaburra and the King" — expressing the story in your own language and singing "Kookaburra sits in the old gum tree" — the kookaburra is a bird that lives in Australia, nicknamed the laughing bird — and listening to songs in different languages (student book; original target `music/performing-kinds-of-music`) | Book 34, printed p. 12 |
+| Syria — Lesson 15 "My Little Band" — forming our own music band for our school — first read the exercise, then perform it on triangle, maracas and castanets; then read the solfege and sing it together; and singing the Eid song to the previous melody (student book; original target `music/performing-kinds-of-music`) | Book 34, printed p. 36 |
+| Syria — Lesson 18 "Think and Play" — the play lesson — your favourite anthem and why; cooperating with friends to form a rhythm band (maracas, triangle, daf, cymbals) and playing your part in it while singing; listening to a song in Italian; the number game that turns 1-8 into Do-do, Re, Mi, Fa, Sol, La, Si, Do; and a music crossword (student book; original target `music/performing-kinds-of-music`) | Book 34, printed p. 42 |
+
+**Book 35:** *التربية الموسيقية (Music Education), Ninth Grade* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 9 (student/teacher: STUDENT). PDF pages: 64 (cover verified against the record title; byte size 63,391,665 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Excluded (named, not placed): closing "Notes of the Anthems and Songs" appendix, printed p. 54 to the end — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 5 "The Bright Tomorrow" — reading and singing a solfege in canon form (part of the melody of "Nahnu al-Shabab") — two voices chasing one melody (student book; original target `music/performing-kinds-of-music`) | Book 35, printed p. 16 |
+| Syria — Lesson 15 "Our Changing Life" — listening to the English song — "Way back then, a long time ago, life was different…" — and singing it together (student book; original target `music/performing-kinds-of-music`) | Book 35, printed p. 40 |
+| Syria — My Project (singing) — choosing with friends a group of songs from the same maqam and performing them as a group (student book; original target `music/performing-kinds-of-music`) | Book 35, printed p. 53 |
+
+**Book 36:** *التربية الموسيقية (Music Education), Eighth Grade* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; first printed school year 2018-2019, this copy school year 2025-2026; no ISBN printed Grade: 8 (student/teacher: STUDENT). PDF pages: 64 (cover verified against the record title; byte size 85,804,582 matches record — fetched byte-exact from the library GitHub release mid-size-books; image-only book, read visually page by page). Verdict: COMPLETE. Excluded (named, not placed): "Let Us Play and Test Our Knowledge," printed p. 52 — a board-game revision of the book's content (assessment play, inventory only); closing "Anthems of the Book" appendix, printed pp. 54-64 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 10 "Al-Tardad (The Canon)" — listening to the English song — were the voices successive in performance or at the same time? This vocal style is called the Canon: a musical style built on several vocal or instrumental voices entering at set time intervals; performing the canon exercise with three vocal voices, then the English "One Song" split into two groups (A-B) in canon style (student book; original target `music/performing-kinds-of-music`) | Book 36, printed p. 28 |
+
+**Acceptance count: taught in 8 countries (Uganda, Colombia, Cuba, Angola, Mongolia, Bolivia, Malaysia, Syria).** This lesson's earlier stock stands on teacher-guide evidence only (Ethiopia) and Cyprus teacher unit material — evidence only, named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 This lesson stands on teacher-guide evidence only and is labelled so in its plan, text and sources. The Grade 2 teacher guide is a scan with no text layer; its parts are cited at section level only and no wording is quoted from it.
 
-Searchable tags: performing kinds of music, call and answer, two groups singing, teacher guide evidence, Iceland, Dægurspor, Colombia, Rwanda
+Searchable tags: performing kinds of music, call and answer, two groups singing, teacher guide evidence, Iceland, Dægurspor, Colombia, Rwanda, Syria
 
 **Book 9:** *كتاب دليل المعلم — مادة التربية الموسيقية — الصف الأول بمرحلة التعليم الأساسي (Teacher's Guide Book — Music Education, Grade 1 of Basic Education)* (teacher guide, Arabic) — Libya, State of Libya, Ministry of Education — Center for Educational Curricula and Educational Research; year 2018–2019 (1439–1440 AH); ISBN no ISBN printed. Grade: 1 (student/teacher: TEACHER). PDF pages: 40 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/libya-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 

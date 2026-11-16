@@ -1,6 +1,6 @@
 # Sources — Puppet Theatre
 
-countries: Barbados, Nicaragua, Romania, Bhutan, Colombia, Belarus, Cuba, Mongolia, Rwanda, Bolivia
+countries: Barbados, Nicaragua, Romania, Bhutan, Colombia, Belarus, Cuba, Mongolia, Rwanda, Bolivia, Syria
 
 **Book 1:** *Primary Visual Arts Curriculum Guide, Classes 1–4* (curriculum guide, English) — Barbados, Ministry of Education and Human Resource Development, Barbados; year not printed (document dated 2011 in file metadata); no ISBN printed, Classes 1–4 (ages 7–11), 64 PDF pp. TEACHER — curriculum guide for teachers. Verdict: COMPLETE. The same file (identical MD5) is filed under the grade-01, grade-02, grade-03 and grade-04 records; it was read once and is placed once, with all four records named here. Read in place in phase3-staging in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/barbados-placements.md. **Curriculum guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -59,11 +59,25 @@ countries: Barbados, Nicaragua, Romania, Bhutan, Colombia, Belarus, Cuba, Mongol
 |---|---|
 | Bolivia — Puppets (títeres) in Bolivia — the puppet theatre the Quechua and Aymara peoples practised (Potosí, the Villa Imperial, is named as its likely home): one of the most accepted arts of its age, telling of the harvest, indigenous and peasant life, dances and ceremonies, pre-Columbian tales, legends and myths, with decoration, music, masks, costume and language all in the show (student book; original target `drama-and-dance/puppets-and-shadow-plays`) | Book 12, printed p. 41 |
 
-**Acceptance count: taught in 6 countries(Romania, Bhutan, Colombia, Belarus, Mongolia, Bolivia).** Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 13:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Pupil's Book* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: first printed 2018-2019, this copy school year 2025-2026; no ISBN printed Grade: 2 (student/teacher: STUDENT). PDF pages: 58 (cover verified against the record title; byte size 29,734,718 matches record — fetched from the source URL recorded in the library record (ministry PDF via Wayback capture); the identical byte-exact file also sits in the library GitHub release mid-size-books. Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 12 "Making Dolls" — making a doll from environment waste your own way, then writing a dialogue with classmates and performing it with the dolls you made (student book; original target `drama-and-dance/puppets-and-shadow-puppets`) | Book 13, printed p. 28 |
+
+**Book 14:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Pupil's Book* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 4 (student/teacher: STUDENT). PDF pages: 55 (cover verified against the record title; byte size 33,539,389 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Companion pages (named): the teacher-companion activities, printed pp. 40-48, are the lessons' own activity bank; four distinct ones are placed below and the rest repeat the same techniques (coloured-paper work, waste collage variants). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Companion activities — making dolls from fabric — "I make my doll from fabric leftovers" (student book; original target `drama-and-dance/puppets-and-shadow-puppets`) | Book 14, printed p. 47 |
+
+**Acceptance count: taught in 7 countries (Romania, Bhutan, Colombia, Belarus, Mongolia, Bolivia, Syria).** Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `drama-and-dance/puppet-theatre`); the Barbados placements were filed under the original string `drama-and-dance/puppetry-and-masks`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Barbados's own way: puppet theatre starts in Class 1 Cultural Awareness, with characters the children invent and puppets made from sticks, paper bags and socks. (In this lesson's sources, Book 1 is the Barbados Visual Arts Curriculum Guide.)
 
-Searchable tags: puppet theatre, stick puppets, paper-bag puppets, sock puppets, cartoon characters, Barbados, Nicaragua, Romania, Bhutan, Colombia, Rwanda
+Searchable tags: puppet theatre, stick puppets, paper-bag puppets, sock puppets, cartoon characters, Barbados, Nicaragua, Romania, Bhutan, Colombia, Rwanda, Syria
 
 **Book 7:** *Orientaciones Metodológicas — Educación Plástica, quinto grado* (teacher guide, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4687-2 (print) / 978-959-13-4688-9 (digital). Grade: Grade 5 (student/teacher: TEACHER). PDF pages: 77. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 

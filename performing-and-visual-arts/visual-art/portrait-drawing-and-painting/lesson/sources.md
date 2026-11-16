@@ -1,6 +1,6 @@
 # Sources — Portrait Drawing and Painting
 
-countries: Singapore, Serbia, Colombia, Sudan, Belarus, Brazil, Angola, Moldova
+countries: Singapore, Serbia, Colombia, Sudan, Belarus, Brazil, Angola, Moldova, Syria
 
 **Book 1:** *Nurturing Early Learners — A Curriculum Framework for Preschool Education in Singapore: Educators' Guide for Aesthetics and Creative Expression* (teacher guide, English) — Singapore, Ministry of Education, Singapore, © 2023, ISBN 978-981-18-7421-5, Nursery–Kindergarten (children aged 4–6: Nursery 2, Kindergarten 1–2), 126 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Read in full as text in the 2026-11-16 Art expansion read; fetched with grab.py from the pushed tree (byte size 4,232,854 matches the record), PDF deleted after filing. Chapter 4's classroom-environment organisation and Chapter 5's monitoring-and-assessment framework are teacher apparatus — their worked examples' teaching content IS placed; the Bibliography (printed pp. 122–125) is inventory-only, named here, never stocked. Songs are filed by summary only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/singapore-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -49,8 +49,44 @@ countries: Singapore, Serbia, Colombia, Sudan, Belarus, Brazil, Angola, Moldova
 | Moldova — Unit I §5, Portretul — the portrait and its kinds (portrait, self-portrait, statuary portrait, bust, group portrait, portrait with arms, equestrian portrait); the head's positions first studied in sketches; and the portrait's second task — the model's character and state of soul, heightened by deliberately neglecting realistic proportions (student book; original target `visual-art/the-portrait`) | Book 10, printed pp. 19–20 |
 | Moldova — Unit I §5 — the digital portrait and the portrait-symbol: computer image tools (Photoshop, Illustrator, Procreate, ZBrush); Arman's "Robot Self-Portrait", a 3D collage of the artist's own objects under plexiglass; Arcimboldo's composite heads of fruit and vegetables (student book; original target `visual-art/the-portrait`) | Book 10, printed p. 20 |
 
-**Acceptance count: taught in 7 countries (Serbia, Colombia, Sudan, Belarus, Brazil, Angola, Moldova). Singapore teacher-guide evidence is named here, counted nowhere.** Moldova is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 11:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Pupil's Book* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching (rights held with the National Centre for Curriculum Development); year: first printed 2019-2020, this copy school year 2025-2026; no ISBN printed Grade: 3 (student/teacher: STUDENT). PDF pages: 75 (cover verified against the record title; byte size 62,939,881 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Excluded (named, not placed): the closing recall page, printed p. 74 — "let us always remember: the primary colours and their derivatives" (revision apparatus, inventory only). The school-exhibition pages at the end are placed, as the book's own gallery of pupils' work. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 12 "Cartoon Faces Inspired by Picasso" — inventing an artwork of an expressive face in the spirit of Picasso's works (student book; original target `visual-art/drawing-faces-and-people`) | Book 11, printed p. 38 |
+
+**Book 12:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Pupil's Book* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 4 (student/teacher: STUDENT). PDF pages: 55 (cover verified against the record title; byte size 33,539,389 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Companion pages (named): the teacher-companion activities, printed pp. 40-48, are the lessons' own activity bank; four distinct ones are placed below and the rest repeat the same techniques (coloured-paper work, waste collage variants). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 11 (practice) — drawing people inspired by Modigliani's works, in your own special way (student book; original target `visual-art/drawing-faces-and-people`) | Book 12, printed p. 24 |
+
+**Book 13:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Student's Book* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 9 (student/teacher: STUDENT). PDF pages: 82 (cover verified against the record title; byte size 46,063,992 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Excluded (named, not placed): the closing recall page, printed p. 82 — "let us always remember the primary colours and their derivatives" (revision apparatus, inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 15 "A Corner from the Wall Magazine: The Art of Caricature" — caricature is a satirical art of drawing — a picture that exaggerates a face's features; caricature faces of Beethoven and Salvador Dalí; drawing a character you love, or expressing an idea that treats a social issue (student book; original target `visual-art/drawing-faces-and-people`) | Book 13, printed p. 38 |
+| Syria — Lesson 19 "The Portrait in Orientalist Art" — Orientalism is the art that depicts the civilisation of the East through Western eyes — contemplating Orientalist portraits: the ornaments and inscriptions in their clothes, the faces' states and expressions, the light source (student book; original target `visual-art/drawing-faces-and-people`) | Book 13, printed p. 47 |
+
+**Book 14:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Student's Book, Basic Education Stage* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; first printed school year 2017-2018, this copy school year 2025-2026; no ISBN printed Grade: 8 (student/teacher: STUDENT). PDF pages: 68 (cover verified against the record title; byte size 283,756,204 matches record — fetched byte-exact from the library GitHub release full-quality-oversized-books; image-only book, read visually page by page). Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 12 "Drawing the Parts of the Human Face (the Eye — the Nose — the Ear — the Mouth)" — models of complete linear studies of the human eye, nose, ear and mouth — redraw one of them with regard to the pencil grades' use and showing shade and light; models of the whole face — try drawing a human face copied from reality, of one of your family members (student book; original target `visual-art/drawing-faces-and-people`) | Book 14, printed p. 23 |
+
+**Book 15:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Pupil's Book, First Grade of Basic Education* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; first printed school year 2017-2018, this copy school year 2025-2026; no ISBN printed Grade: 1 (student/teacher: STUDENT — pupil's book). PDF pages: 63 (cover verified against the record title; byte size 518,700,726 matches record — fetched byte-exact from the library GitHub release full-quality-oversized-books; read through the text layer and page-by-page visual sheets). Verdict: COMPLETE. Named, not placed: the "Blackboard" enrichment, printed p. 53 — a photo spread of pupils' chalk drawings on the school board (classroom display, no distinct teaching step); the closing holidays list itself is placed below as festivals, its calendar facts being inventory. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 13 "Drawing the Face" — drawing the human face — the child's first portrait studies, feature by feature (student book; original target `visual-art/drawing-faces-and-people`) | Book 15, printed p. 30 |
+
+**Acceptance count: taught in 8 countries (Serbia, Colombia, Sudan, Belarus, Brazil, Angola, Moldova, Syria). Singapore teacher-guide evidence is named here, counted nowhere.** Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/portrait-drawing-and-painting`); the Singapore placements were filed under the original string `visual-art/self-portraits-and-the-artists-who-paint-them`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Singapore's own way, carried in the placements: one national early-years guide that treats art, music and movement as a single learning area, with Singapore's own heritage woven through as content. Every part of this lesson is labelled evidence; no student-textbook claim is made for it.
 
-Searchable tags: portrait, self-portrait, Georgette Chen, van Gogh, Kusama, clay portrait, Singapore, Colombia, Brazil
+Searchable tags: portrait, self-portrait, Georgette Chen, van Gogh, Kusama, clay portrait, Singapore, Colombia, Brazil, Syria

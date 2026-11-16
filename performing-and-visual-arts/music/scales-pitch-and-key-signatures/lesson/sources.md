@@ -1,6 +1,6 @@
 # Sources — Scales, Pitch and Key Signatures
 
-countries: Ethiopia, Barbados, Albania, Samoa, Haiti, Fiji, Belarus, Papua New Guinea, Bulgaria, Jordan, Sri Lanka, Libya, Cuba, Mongolia, Bolivia, Malaysia, Moldova, Indonesia
+countries: Ethiopia, Barbados, Albania, Samoa, Haiti, Fiji, Belarus, Papua New Guinea, Bulgaria, Jordan, Sri Lanka, Libya, Cuba, Mongolia, Bolivia, Malaysia, Moldova, Indonesia, Syria
 
 **Book 1:** *Grade 6 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 6ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
 
@@ -163,11 +163,82 @@ countries: Ethiopia, Barbados, Albania, Samoa, Haiti, Fiji, Belarus, Papua New G
 |---|---|
 | Indonesia — Bab II — playing melody using the intervals of the major scale (tangga nada mayor) (teacher guide — evidence; original target `music/scales-pitch-and-key-signatures`) | Book 36, printed p. 64 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Fiji, Belarus, Bulgaria, Jordan, Cuba, Mongolia, Bolivia, Malaysia, Moldova). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 37:** *التربية الموسيقية (Music Education)* (student book, Arabic) — Syria, Syrian Ministry of Education / National Centre for Curriculum Development (NCCD); year: school year 2021-2022; no ISBN printed Grade: 5 (student/teacher: STUDENT). PDF pages: 72 (cover/title page verified against the record title; byte size 29,485,010 matches record). Verdict: COMPLETE. Excluded (named, not placed): "I Play and I Learn" board game, printed pp. 60-63 — a revision game apparatus covering the book's topics; the closing anthem-score appendix, printed pp. 64-72 — printed scores of songs already placed above (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 3 (activity) — playing the scale up and down on the xylophone with mallets — Do Re Mi Fa Sol La Si Do matched to C D E F G A B C (student book; original target `music/scales-pitch-and-key-signatures`) | Book 37, printed p. 14 |
+| Syria — Lesson 9 "Qarar and Jawab (Low and High)" — every note has a low twin (qarar) and a high twin (jawab) an octave apart; writing notes above and below the staff on ledger lines, and solfege reading (student book; original target `music/scales-pitch-and-key-signatures`) | Book 37, printed p. 28 |
+
+**Book 38:** *التربية الموسيقية (Music Education)* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 6 (student/teacher: STUDENT). PDF pages: 72 (cover/title page verified against the record title; byte size 27,174,319 matches record). Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 2 "The Major Scale" — the major scale — where its semitone steps fall (the black-key distances), singing the scale and playing it (student book; original target `music/scales-pitch-and-key-signatures`) | Book 38, printed p. 9 |
+
+**Book 39:** *التربية الموسيقية (Music Education)* (student book, Arabic) — Syria, Syrian Ministry of Education / National Centre for Curriculum Development (NCCD developed-curriculum edition); year: school year 2021-2022 (1442 AH); no ISBN printed Grade: 7 (student/teacher: STUDENT). PDF pages: 53 (cover/title page verified against the record title; byte size 47,782,278 matches record; image-only scan, read visually page by page). Verdict: COMPLETE. Excluded (named, not placed): closing score appendix, printed pp. 48-53 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 5 "The Key Signatures (al-Lawa'ih)" — the key signature is the set of sharp/flat signs placed after the clef that turns C-major steps into other scales; writing the steps of Do major and solving a notes sudoku (student book; original target `music/scales-pitch-and-key-signatures`) | Book 39, printed p. 14 |
+| Syria — Lesson 11 "The La Minor Scale (A Minor)" — the A minor scale — its steps, its key signature, its relative major (Do major, built on the minor's third degree... as the book presents it, the minor scale built on the sixth degree of its relative major) — and listening to Vivaldi's concerto in A minor (student book; original target `music/scales-pitch-and-key-signatures`) | Book 39, printed p. 28 |
+
+**Book 40:** *التربية الموسيقية (Music Education), First Grade Primary* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026 (1446 AH); no ISBN printed Grade: 1 (student/teacher: STUDENT). PDF pages: 66 (cover verified against the record title; byte size 34,464,970 matches record — fetched byte-exact from the library GitHub release mid-size-books after a first truncated attempt was retried). Verdict: COMPLETE. Excluded (named, not placed): closing score appendix, printed pp. 60-66 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 10 "The Ladder of Melodies" — singing up and down the ladder of degrees with "la", watching a child's feet climb and descend (student book; original target `first-steps/music-scales-and-melodies`) | Book 40, printed p. 24 |
+| Syria — Lesson 12 "The Three Guests" — a story that builds the music staff — three note-guests each take a step of the ladder, and Do chooses a little ledger line of her own below the first line (student book; original target `first-steps/music-scales-and-melodies`) | Book 40, printed p. 28 |
+| Syria — Lesson 24 "The Degrees Sing" — singing with the degrees on the staff — Re under the first line, Do on a ledger line — and joining each degree to its name: Do, Re, Mi, Fa, Sol (student book; original target `first-steps/music-scales-and-melodies`) | Book 40, printed p. 52 |
+
+**Book 41:** *التربية الموسيقية (Music Education), Second Grade* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: first printed 2018-2019, this copy school year 2025-2026; no ISBN printed Grade: 2 (student/teacher: STUDENT). PDF pages: 68 (cover verified against the record title; byte size 38,314,134 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Excluded (named, not placed): closing "Songs of the Book" appendix, printed p. 62 to the end — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 1 "My Beautiful Language" — talking to friends about using our beautiful language, and writing the music degrees' names on the tree trunk — the staff as a tree of notes (student book; original target `first-steps/music-scales-and-melodies`) | Book 41, printed p. 6 |
+| Syria — Lesson 7 "Tunes and Colours" — the degrees as a stair — Do's answer, the eighth degree, and tunes matched with colours (student book; original target `first-steps/music-scales-and-melodies`) | Book 41, printed p. 18 |
+| Syria — Lesson 13 "I Express in My Style" — drawing the degrees on the staff from the cards, and listening to music and expressing the thin high sound and the thick low sound in your own drawing style (student book; original target `first-steps/music-scales-and-melodies`) | Book 41, printed p. 30 |
+
+**Book 42:** *التربية الموسيقية (Music Education), Third Grade* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 3 (student/teacher: STUDENT). PDF pages: 75 (cover verified against the record title; byte size 84,462,201 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Excluded (named, not placed): closing songs appendix, printed pp. 66-75 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 15 "Music and Colours" — joining each music degree to its colour (student book; original target `first-steps/music-scales-and-melodies`) | Book 42, printed p. 38 |
+| Syria — Lesson 17 "The Constitution of Tones (Dustur al-Naghamat)" — the key signature system — the standing set of signs that governs a piece's tones (student book; original target `music/scales-pitch-and-key-signatures`) | Book 42, printed p. 42 |
+
+**Book 43:** *التربية الموسيقية (Music Education), Fourth Grade Basic* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026 (1446 AH); no ISBN printed Grade: 4 (student/teacher: STUDENT). PDF pages: 48 (cover verified against the record title; byte size 82,650,289 matches record — fetched byte-exact from the library GitHub release mid-size-books; image-only scan, read visually page by page). Verdict: COMPLETE. Excluded (named, not placed): closing score appendix, printed pp. 44-48 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 2 "My Music Knowledge" — designing a panel of the rhythmic shapes learned before, and writing the scale's degrees in their places on the staff, then singing them with the sound signs (student book; original target `first-steps/music-scales-and-melodies`) | Book 43, printed p. 8 |
+
+**Book 44:** *التربية الموسيقية (Music Education), Ninth Grade* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 9 (student/teacher: STUDENT). PDF pages: 64 (cover verified against the record title; byte size 63,391,665 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Excluded (named, not placed): closing "Notes of the Anthems and Songs" appendix, printed p. 54 to the end — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 9 "Music Scales" — reading and singing the solfege of the scale exercises, ascending and descending (student book; original target `first-steps/music-scales-and-melodies`) | Book 44, printed p. 24 |
+
+**Book 45:** *التربية الموسيقية (Music Education), Eighth Grade* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; first printed school year 2018-2019, this copy school year 2025-2026; no ISBN printed Grade: 8 (student/teacher: STUDENT). PDF pages: 64 (cover verified against the record title; byte size 85,804,582 matches record — fetched byte-exact from the library GitHub release mid-size-books; image-only book, read visually page by page). Verdict: COMPLETE. Excluded (named, not placed): "Let Us Play and Test Our Knowledge," printed p. 52 — a board-game revision of the book's content (assessment play, inventory only); closing "Anthems of the Book" appendix, printed pp. 54-64 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 2 "The Mi Minor Scale" — arranging the proper intervals for each of the two scales and singing them; the Mi minor scale's key signature and its intervals; comparing Mi minor with its relative, Sol major — same key signature, differing tonic; singing the exercise in Mi minor and marking the heard piece's mood (sad, joyful, poetic, repellent) (student book; original target `first-steps/music-scales-and-melodies`) | Book 45, printed p. 8 |
+| Syria — Lesson 13 (scale writing) — placing the major scale's intervals on the Fa scale and writing its key signature — so Fa major's signature is one flat (student book; original target `first-steps/music-scales-and-melodies`) | Book 45, printed p. 34 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Fiji, Belarus, Bulgaria, Jordan, Cuba, Mongolia, Bolivia, Malaysia, Moldova, Syria). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 The Grade 6 book's key-signature exercise prints "E♭" in Amharic beside "(E Major scale)" in English — a printing tangle the placements record; the lesson teaches the D, E, A-flat exercise set as the placements resolve it and does not present the tangled line as a fact. The Grade 6 teacher-guide parts are evidence and are labelled so; the pupil-taught scale work stands on the Grade 6 student book.
 
-Searchable tags: scale, major scale, minor scale, natural minor, harmonic minor, melodic minor, pitch, የድምፅ ቃና, key signature, sharp, flat, diatonic, Haiti, Papua New Guinea
+Searchable tags: scale, major scale, minor scale, natural minor, harmonic minor, melodic minor, pitch, የድምፅ ቃና, key signature, sharp, flat, diatonic, Haiti, Papua New Guinea, Syria
 
 **Book 13:** *Музика за първи клас (Music for First Grade), by Адриан Георгиев, Ангелина Петрова, Мая Андасорова, Рая Ковачева* (student book, Bulgarian) — Bulgaria, ИК „РИВА“ АД, Sofia; year 2016 (2nd ed. 2018); ISBN 978-619-225-022-5. Grade: 1 (student/teacher: STUDENT). PDF pages: 68 (cover verified; byte size 20,284,508 and page count match the record exactly — this file's first two download attempts failed on the slow uchebnicite.bg server and it was completed by range-resume in this run). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
 

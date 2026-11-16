@@ -1,7 +1,7 @@
 # Sources — Shapes You Can Draw
 
 
-countries: Ethiopia, Albania, Romania, Haiti, Serbia, Pakistan, Fiji, Sudan, Belarus, Morocco, Jordan, Sri Lanka, Libya, Angola, Mongolia, Afghanistan, Rwanda, Bolivia, Indonesia
+countries: Ethiopia, Albania, Romania, Haiti, Serbia, Pakistan, Fiji, Sudan, Belarus, Morocco, Jordan, Sri Lanka, Libya, Angola, Mongolia, Afghanistan, Rwanda, Bolivia, Indonesia, Syria
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -189,11 +189,33 @@ countries: Ethiopia, Albania, Romania, Haiti, Serbia, Pakistan, Fiji, Sudan, Bel
 |---|---|
 | Indonesia — Bab I Menggambar — drawing compositions of geometric forms — geometric shape and lighting as visual elements, first spotted inside the traditional ornament and craft around the students (teacher guide — evidence; original target `visual-art/drawing-shapes-and-forms`) | Book 45, printed p. 25 |
 
-**Acceptance count: taught in 14 countries(Ethiopia, Romania, Serbia, Pakistan, Fiji, Sudan, Belarus, Jordan, Sri Lanka, Angola, Mongolia, Afghanistan, Rwanda, Bolivia).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 46:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Basic Education Stage, Student's Book* (student book, Arabic) — Syria, Syrian Ministry of Education (specialist committee authorship); year: first printed 2017-2018, this copy school year 2021-2022; no ISBN printed Grade: 7 (student/teacher: STUDENT). PDF pages: 67 (cover/title pages verified against the record title; byte size 525,814,190 matches record; image-heavy scan read visually page by page with its text layer). Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 5 "Geometric Shapes and Solids" — turning the circle, square, triangle and rectangle into sphere, cube, cone and cylinder with shade and perspective, and seeing a kettle as built of geometric shapes (student book; original target `visual-art/shapes-2d-and-3d`) | Book 46, printed p. 13 |
+| Syria — "Various Techniques: Cubes from Cardboard" — the cube's net, and building a shared composition of cardboard cubes of different colours, sizes and ornaments with your classmates (student book; original target `visual-art/shapes-2d-and-3d`) | Book 46, printed p. 52 |
+
+**Book 47:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Student's Book* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 9 (student/teacher: STUDENT). PDF pages: 82 (cover verified against the record title; byte size 46,063,992 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Excluded (named, not placed): the closing recall page, printed p. 82 — "let us always remember the primary colours and their derivatives" (revision apparatus, inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 1 "Architectural Geometric Compositions" — drawing an artistic composition from interlocking solids, shaded or coloured as you see fit; trying to draw the geometric shapes in perspective to form an architectural shape usable as a memorial monument in public gardens (student book; original target `visual-art/shapes-2d-and-3d`) | Book 47, printed p. 6 |
+
+**Book 48:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Student's Book, Basic Education Stage* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; first printed school year 2017-2018, this copy school year 2025-2026; no ISBN printed Grade: 8 (student/teacher: STUDENT). PDF pages: 68 (cover verified against the record title; byte size 283,756,204 matches record — fetched byte-exact from the library GitHub release full-quality-oversized-books; image-only book, read visually page by page). Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 11 "Surfaces and Volumes" — contemplating the geometric shapes in the flat panels and how they turned into compositions through the shapes' volumes (student book; original target `visual-art/shapes-2d-and-3d`) | Book 48, printed p. 21 |
+
+**Acceptance count: taught in 15 countries (Ethiopia, Romania, Serbia, Pakistan, Fiji, Sudan, Belarus, Jordan, Sri Lanka, Angola, Mongolia, Afghanistan, Rwanda, Bolivia, Syria).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 The Grade 3 forms placement (printed pp. 30–31) also carries a paper-collage picture (Drawing 17, flowers made by cutting and pasting papers); collage-making belongs to the Making cluster of this course, so only the forms content of those pages is stocked here and the collage is not taught in this lesson. Grade 2's house placement spans printed pp. 36–38 and the car placement is on printed p. 38, exactly as placed.
 
-Searchable tags: shapes, oval ዝርግ ቅርፅ open shape, regular shapes, geometric shapes pyramid circle square rectangle, forms ፎርም cylinder cube cone, house from shapes, car from shapes, Ethiopia drawing, Romania, Haiti, Rwanda
+Searchable tags: shapes, oval ዝርግ ቅርፅ open shape, regular shapes, geometric shapes pyramid circle square rectangle, forms ፎርም cylinder cube cone, house from shapes, car from shapes, Ethiopia drawing, Romania, Haiti, Rwanda, Syria
 
 
 **Book 14:** *التربية الفنية والموسيقية والمسرحية — الصف الأول (Art, Music and Theatre Education — Grade 1)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (first experimental edition, for school year 2024/2025); ISBN 978-9923-41-691-4. Grade: 1 (student/teacher: STUDENT). PDF pages: 76 (cover/title page verified against the record title; byte size 40,406,311 matches record exactly; printed page numbers = PDF page numbers). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.

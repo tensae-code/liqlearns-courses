@@ -1,6 +1,6 @@
 # Sources — Landscape Painting
 
-countries: Turkmenistan, Pakistan, Sudan, Belarus, Jordan, Sri Lanka, Moldova, Indonesia
+countries: Turkmenistan, Pakistan, Sudan, Belarus, Jordan, Sri Lanka, Moldova, Indonesia, Syria
 
 **Book 1:** *Surat — Umumy orta bilim berýän mekdepleriň I synpy üçin okuw kitaby (Art — textbook for Grade 1 of general secondary schools), Dördünji neşir (4th edition)* (student book, Turkmen) — Turkmenistan, by Wepa Amangeldiýew, Döwletgeldi Akyýew; Türkmen döwlet neşirýat gullugy (Turkmen State Publishing Service), Ashgabat, 2022, no ISBN printed, Grade 1, 80 PDF pp. STUDENT. Recommended by the Ministry of Education of Turkmenistan. Verdict: COMPLETE. The repo tree path is a PHANTOM PUSH (HTTP 404); the book was fetched from the recorded kitaphana.bilim.tm source via the library's own API file link, 79,070,978 bytes and 80 pages, matching the record exactly, and the copy is staged under the push-don't-delete rule. Placements at liqlearns-courses-work/expansion-art-2026-11-16/turkmenistan-placements.md.
 
@@ -39,11 +39,25 @@ countries: Turkmenistan, Pakistan, Sudan, Belarus, Jordan, Sri Lanka, Moldova, I
 | Indonesia — Bab V Mengenal Lukisan Pemandangan Alam — the naturalism style (gaya naturalisme) identified through the landscape paintings of Indonesia's maestro painters — analysing naturalistic works so students know, appreciate and love Indonesia's nature (teacher guide — evidence; original target `visual-art/naturalism-in-indonesian-painting`) | Book 9, printed p. 152 |
 | Indonesia — Bab V — landscape painting (lukisan pemandangan alam) as the chapter's subject — how a natural scene is rendered in the naturalist manner (teacher guide — evidence; original target `visual-art/landscape-and-city-scenes`) | Book 9, printed p. 152 |
 
-**Acceptance count: taught in 6 countries (Turkmenistan, Pakistan, Sudan, Belarus, Jordan, Moldova).** Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 10:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Basic Education Stage, Student's Book* (student book, Arabic) — Syria, Syrian Ministry of Education (specialist committee authorship); year: first printed 2017-2018, this copy school year 2021-2022; no ISBN printed Grade: 7 (student/teacher: STUDENT). PDF pages: 67 (cover/title pages verified against the record title; byte size 525,814,190 matches record; image-heavy scan read visually page by page with its text layer). Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 8 (practice) — creating an artwork from your own environment, as Shamma painted Syria's nature and people around him in a realistic style (student book; original target `visual-art/drawing-landscapes`) | Book 10, printed p. 19 |
+
+**Book 11:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Pupil's Book* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: first printed 2018-2019, this copy school year 2025-2026; no ISBN printed Grade: 2 (student/teacher: STUDENT). PDF pages: 58 (cover verified against the record title; byte size 29,734,718 matches record — fetched from the source URL recorded in the library record (ministry PDF via Wayback capture); the identical byte-exact file also sits in the library GitHub release mid-size-books. Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 3 "The Horizon Line" — the horizon is the line dividing sky from earth; what can be seen above it and below it; drawing a work with a balloon placed against the horizon, decorated your own way (student book; original target `visual-art/drawing-landscapes`) | Book 11, printed p. 10 |
+
+**Acceptance count: taught in 7 countries (Turkmenistan, Pakistan, Sudan, Belarus, Jordan, Moldova, Syria).** Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/landscape-painting`); the Turkmenistan placement(s) were filed as NEW LESSON NEEDED under the original string `visual-art/landscapes-and-seasons`, recorded in the provenance row(s) above and resolved to this lesson by slug-registry Part 2. This canonical lesson is built from the three Turkmenistan placements filed under the original string `visual-art/landscapes-and-seasons`, resolved here by slug-registry Part 2. Songs and stories are placed by summary only, never transcribed.
 
-Searchable tags: landscape, seasons, autumn, winter gouache, rainbow, älemgoşar, Turkmenistan
+Searchable tags: landscape, seasons, autumn, winter gouache, rainbow, älemgoşar, Turkmenistan, Syria
 
 
 **Book 6:** *التربية الفنية والموسيقية والمسرحية — الصف الثالث (Art, Music and Theatre Education — Grade 3)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (first experimental edition, for school year 2024/2025); ISBN 978-9923-41-694-5. Grade: 3 (student/teacher: STUDENT). PDF pages: 82 (cover/title page verified against the record title; byte size 40,732,046 matches record exactly; printed page numbers = PDF page numbers). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.

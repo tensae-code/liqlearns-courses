@@ -1,6 +1,6 @@
 # Sources — Composing Music
 
-countries: Andorra, Singapore, Fiji, Suriname, Jordan, Cuba, Mongolia, Malaysia
+countries: Andorra, Singapore, Fiji, Suriname, Jordan, Cuba, Mongolia, Malaysia, Syria
 
 **Book 1:** *Programa d'educació musical de primera ensenyança de l'Escola Andorrana — Annex IV of Decret 376/2021, BOPA núm. 123, 24-11-2021* (curriculum programme document, Catalan) — Andorra, Ministeri d'Educació i Ensenyament Superior, Govern d'Andorra, 2021, ISBN 978-99920-0-931-4, Primera ensenyança, cycles 1–3 (ages 6–12), 39 PDF pp (record; Annex IV runs at BOPA pp. 199–237 of the full 510-page BOPA issue). TEACHER — programme document. Verdict: COMPLETE as a programme document — the decree's legal preamble and the programme's assessment criteria and end-of-cycle expectation tables are apparatus, named here and not placed. Read via its recorded source_url (BOPA official gazette PDF) in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/andorra-placements.md. **Curriculum programme document — EVIDENCE only, kept outside the acceptance count.**
 
@@ -46,11 +46,18 @@ countries: Andorra, Singapore, Fiji, Suriname, Jordan, Cuba, Mongolia, Malaysia
 |---|---|
 | Malaysia — Unit 6 Penghasilan Lagu Tema — composing a theme song, inside producing a complete music work (student book; original target `music/composing-a-theme-song`) | Book 11, printed pp. 106, 108 |
 
-**Acceptance count: taught in 4 countries(Fiji, Jordan, Mongolia, Malaysia).** Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 12:** *التربية الموسيقية (Music Education), Eighth Grade* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; first printed school year 2018-2019, this copy school year 2025-2026; no ISBN printed Grade: 8 (student/teacher: STUDENT). PDF pages: 64 (cover verified against the record title; byte size 85,804,582 matches record — fetched byte-exact from the library GitHub release mid-size-books; image-only book, read visually page by page). Verdict: COMPLETE. Excluded (named, not placed): "Let Us Play and Test Our Knowledge," printed p. 52 — a board-game revision of the book's content (assessment play, inventory only); closing "Anthems of the Book" appendix, printed pp. 54-64 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 18 "My Melodies" — writing the phrases under the rhythm fitting them; forming a group with classmates to invent a melody for the verses we choose in the fitting rhythmic shapes, singing our own melodies to the teacher's playing, and cooperating to choose poetic verses and compose them (student book; original target `music/composing-rhythm-and-beats`) | Book 12, printed p. 46 |
+
+**Acceptance count: taught in 5 countries (Fiji, Jordan, Mongolia, Malaysia, Syria).** Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/composing-music`); the Andorra placements were filed under the original strings `music/composing-from-cells-patterns-and-ostinatos` and `music/experimenting-improvising-composing`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Andorra's own way, carried in the placements: primary music is built as a triangle — create, perform, analyse — and batxillerat music rests on creation and interpretation feeding each other. Both books are curriculum programme documents, so every part of this lesson is labelled evidence; no student-textbook claim is made for it.
 
-Searchable tags: composing music, cells, patterns, ostinatos, question and answer phrases, improvisation, experimentation, composition, Andorra
+Searchable tags: composing music, cells, patterns, ostinatos, question and answer phrases, improvisation, experimentation, composition, Andorra, Syria
 
 
 **Book 6:** *التربية الفنية والموسيقية والمسرحية — الصف الثاني (Art, Music and Theatre Education — Grade 2)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Jordan; year 2024 (first experimental edition, for school year 2024/2025); ISBN 978-9923-41-693-8. Grade: 2 (student/teacher: STUDENT). PDF pages: 94 (cover/title page verified against the record title; byte size 29,623,603 matches record exactly; printed page numbers = PDF page numbers). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.

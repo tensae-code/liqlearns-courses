@@ -1,6 +1,6 @@
 # Sources — Museums and Galleries
 
-countries: Serbia, Bulgaria, Cuba, Moldova
+countries: Serbia, Bulgaria, Cuba, Moldova, Syria
 
 **Book 1:** *Ликовна култура — за 2. разред основне школе (Likovna kultura / Visual Culture — for Grade 2 of primary school)* (student book, Serbian) — Serbia, by др Рајка Бошковић (Dr Rajka Bošković); Завод за уџбенике (Zavod za udžbenike), Београд, and АрхиКњига (Arhiknjiga), Стара Пазова; first edition 2019 (the Arhiknjiga issue ©2021); ISBN 978-86-17-20168-3; approved for Grade 2 use by ministerial decision 650-02-00159/2019-07 of 21 May 2019, Grade 2, 56 PDF pp. (the printed book has 55 pages). STUDENT — student book. Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read (image-only PDF read visually from page renders). The record's title adds "и окружење" (and environment) — the curriculum area name, which the book's Part One carries as its title. Named, not placed: the three part summaries "НАУЧИЛИ СМО ДА..." (We learned that..., printed pp. 14, 42, 54), the closing contents (printed p. 55) and colophon — inventory only; the think boxes (РАЗМИСЛИ...) are discussion prompts folded into their lessons. Placements at liqlearns-courses-work/expansion-art-2026-11-16/serbia-placements.md.
 
@@ -36,11 +36,32 @@ countries: Serbia, Bulgaria, Cuba, Moldova
 | Moldova — Unit V §24, Muzee și spații pentru artă — museums and art spaces: the museum (from the Greek museion, temple of the muses) and its three functions — collecting masterpieces, conserving the artistic heritage, exhibiting to the public; holdings classified by epoch or by land; single-artist museums (Picasso in Paris, Miró in Barcelona); galleries, where works can be bought; and the visitor's rules — do not touch, view from a distance, no food, no loud talk (student book; original target `first-steps/art-museums-and-galleries`) | Book 9, printed p. 70 |
 | Moldova — Unit V §24 — art beyond the museum walls: public spaces as art spaces (the AIDS Memorial and the "Rugina & Co" sculptural complex in Chișinău's parks), Brâncuși's reconstructed atelier inside the Pompidou Centre, museums gone online in the pandemic — and the Ivankiv museum destroyed in the 2022 war in Ukraine, with dozens of Maria Prymachenko's works (student book; original target `first-steps/art-museums-and-galleries`) | Book 9, printed p. 71 |
 
-**Acceptance count: taught in 4 countries (Serbia, Bulgaria, Cuba, Moldova).** Moldova is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 10:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Pupil's Book* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: first printed 2018-2019, this copy school year 2025-2026; no ISBN printed Grade: 2 (student/teacher: STUDENT). PDF pages: 58 (cover verified against the record title; byte size 29,734,718 matches record — fetched from the source URL recorded in the library record (ministry PDF via Wayback capture); the identical byte-exact file also sits in the library GitHub release mid-size-books. Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — "From Human Heritage" — the school museum in Damascus, Syria, and its holdings — models of the old lantern (fanous), one of the lighting tools people used and developed before electricity; talking with grandparents about the old lighting and the tales told around it (student book; original target `culture-and-values/museums-and-why-they-matter`) | Book 10, printed p. 50 |
+
+**Book 11:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Pupil's Book* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching (rights held with the National Centre for Curriculum Development); year: first printed 2019-2020, this copy school year 2025-2026; no ISBN printed Grade: 3 (student/teacher: STUDENT). PDF pages: 75 (cover verified against the record title; byte size 62,939,881 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Excluded (named, not placed): the closing recall page, printed p. 74 — "let us always remember: the primary colours and their derivatives" (revision apparatus, inventory only). The school-exhibition pages at the end are placed, as the book's own gallery of pupils' work. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 17 "The Damascus Educational Museum — a Cultural Edifice from My Homeland" — the museum's floors — stuffed animals, teaching aids — our duty to protect its holdings; whether your city has a museum; and drawing the beautiful old things in your grandmother's house (the iron, the primus stove, the telephone) in an artwork (student book; original target `culture-and-values/museums-and-why-they-matter`) | Book 11, printed p. 50 |
+
+**Book 12:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Pupil's Book, First Grade of Basic Education* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; first printed school year 2017-2018, this copy school year 2025-2026; no ISBN printed Grade: 1 (student/teacher: STUDENT — pupil's book). PDF pages: 63 (cover verified against the record title; byte size 518,700,726 matches record — fetched byte-exact from the library GitHub release full-quality-oversized-books; read through the text layer and page-by-page visual sheets). Verdict: COMPLETE. Named, not placed: the "Blackboard" enrichment, printed p. 53 — a photo spread of pupils' chalk drawings on the school board (classroom display, no distinct teaching step); the closing holidays list itself is placed below as festivals, its calendar facts being inventory. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 6 "The Museum" — visiting an art exhibition — 1: I walk slowly; 2: I look and think, and ask questions; 3: I speak quietly; 4: I draw a quick drawing of any work I loved; I create an artwork inspired by a panel I saw in the museum or in any place, or from my memory (student book; original target `culture-and-values/museums-and-why-they-matter`) | Book 12, printed p. 16 |
+
+**Acceptance count: taught in 5 countries (Serbia, Bulgaria, Cuba, Moldova, Syria).** Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `first-steps/museums-and-galleries`); the Serbia placements were filed under the original string(s) `culture-and-values/museums-and-what-they-keep`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Serbia's own way: the museum is taught from Belgrade's own two pictured museums — the Museum of Contemporary Art and the Museum of Applied Art — and from the store rooms behind the exhibition rooms.
 
-Searchable tags: museum, galleries, exhibition rooms, store rooms, Museum of Contemporary Art Belgrade, Museum of Applied Art, Serbia
+Searchable tags: museum, galleries, exhibition rooms, store rooms, Museum of Contemporary Art Belgrade, Museum of Applied Art, Serbia, Syria
 
 **Book 2:** *Изобразително изкуство за 8. клас (Fine Arts for Grade 8)* (student book, Bulgarian) — Bulgaria, Педагог 6 (Pedagog 6), Sofia; year 2024 (Second Edition; approved by Order РД 09-388/09.02.2024 of the Minister of Education and Science); ISBN 978-954-324-332-7. Authors: Мариета Петрова Савчева-Ангелова, Елена Веселинова Панайотова, Благомир Кирилов Папазов, Анна Илчева Цоловска. Grade: 8 (student/teacher: STUDENT). PDF pages: 50 (cover/title page verified against the record title; 57,104,388 bytes and 50 pages match the record exactly). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
 

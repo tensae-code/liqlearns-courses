@@ -1,6 +1,6 @@
 # Sources — Famous Artists and Masterpieces
 
-countries: Andorra, Colombia, Bolivia, Moldova
+countries: Andorra, Colombia, Bolivia, Moldova, Syria
 
 **Book 1:** *Programa de l'assignatura d'història de les arts del batxillerat general de l'Escola Andorrana — Decret del 9-12-2020 (BOPA núm. 149, 16-12-2020), republishing the full programme as amended (Decret del 20-3-2019 as modified by Decret del 9-12-2020)* (curriculum programme document, Catalan) — Andorra, Ministeri d'Educació i Ensenyament Superior, Govern d'Andorra, 2020 (programme first published 2019), no ISBN printed in the fetched text, Batxillerat general (ages 16–18), 28 PDF pp. TEACHER — programme document. Verdict: COMPLETE as a programme document — read in full via the source_url text; assessment criteria (CA1 pertinence, CA2 precision, CA3 critical sense), end-of-cycle expectations and the synthesis table are apparatus, named here and not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/andorra-placements.md. **Curriculum programme document — EVIDENCE only, kept outside the acceptance count.**
 
@@ -67,8 +67,60 @@ countries: Andorra, Colombia, Bolivia, Moldova
 |---|---|
 | Moldova — Unit IV §20 — Moldova's masters named for the portfolio: Alexandru Plămădeală, Lazăr Dubinovschi, Mihai Grecu, Glebus Sainciuc, Valentina Rusu-Ciobanu, Igor Vieru, Mihai Grati, Andrei Sârbu — who painted, who sculpted, who worked otherwise (student book; original target `visual-art/masters-and-masterpieces`) | Book 11, printed p. 62 |
 
-**Acceptance count: taught in 3 countries (Colombia, Bolivia, Moldova).** Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 12:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Pupil's Book* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: first printed 2018-2019, this copy school year 2025-2026; no ISBN printed Grade: 2 (student/teacher: STUDENT). PDF pages: 58 (cover verified against the record title; byte size 29,734,718 matches record — fetched from the source URL recorded in the library record (ministry PDF via Wayback capture); the identical byte-exact file also sits in the library GitHub release mid-size-books. Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 7 "The Artist and Nature" — Henri Rousseau (1844-1910), the French painter whose work is marked by nature and its creatures (student book; original target `visual-art/famous-foreign-artists`) | Book 12, printed p. 18 |
+
+**Book 13:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Pupil's Book* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching (rights held with the National Centre for Curriculum Development); year: first printed 2019-2020, this copy school year 2025-2026; no ISBN printed Grade: 3 (student/teacher: STUDENT). PDF pages: 75 (cover verified against the record title; byte size 62,939,881 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Excluded (named, not placed): the closing recall page, printed p. 74 — "let us always remember: the primary colours and their derivatives" (revision apparatus, inventory only). The school-exhibition pages at the end are placed, as the book's own gallery of pupils' work. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 5 "The Artist Henri Matisse" — Henri Matisse (1869-1954), French painter whose works are marked by spontaneity and boldness and wide gradations; children's drawings and coloured-paper works made in his spirit, and a group work from coloured-paper leftovers under the teacher's eye (student book; original target `visual-art/famous-foreign-artists`) | Book 13, printed p. 15 |
+| Syria — Lesson 9 "The Artist Marc Chagall" — Marc Chagall (1887-1985), Russian-born painter who lived in France, in whose art music played a role — naming the colours and effects in his paintings (student book; original target `visual-art/famous-foreign-artists`) | Book 13, printed p. 30 |
+| Syria — Lesson 11 "Faces of Pablo Picasso" — Pablo Picasso (1880-1973 as printed), Spanish painter and sculptor, among the most important artists of the twentieth century — discussing his face paintings (student book; original target `visual-art/famous-foreign-artists`) | Book 13, printed p. 35 |
+
+**Book 14:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Pupil's Book* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 4 (student/teacher: STUDENT). PDF pages: 55 (cover verified against the record title; byte size 33,539,389 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Companion pages (named): the teacher-companion activities, printed pp. 40-48, are the lessons' own activity bank; four distinct ones are placed below and the rest repeat the same techniques (coloured-paper work, waste collage variants). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 1 (artist) — Gustav Klimt, world artist — talking about the colours of his painting and their relation to each other (student book; original target `visual-art/famous-foreign-artists`) | Book 14, printed p. 6 |
+| Syria — Lesson 5 "The Artist Pablo Picasso" — Picasso's "The Clown" and "The Musicians" — what do you see, and what did he build his painting from? Pablo Picasso, Spanish painter and sculptor (student book; original target `visual-art/famous-foreign-artists`) | Book 14, printed p. 12 |
+| Syria — Lesson 8 "Human Subjects" — the Arab artist Ismail Shammout — talking about what you see in his painting of human subjects (student book; original target `visual-art/famous-foreign-artists`) | Book 14, printed p. 18 |
+| Syria — Lesson 10 "Freedom of Creation" — Vasily Kandinsky, Russian painter and artist — thinking how you will execute your work from coloured-paper scraps in the spirit of Kandinsky (student book; original target `visual-art/famous-foreign-artists`) | Book 14, printed p. 21 |
+| Syria — Lesson 11 "Expressive Faces" — Amedeo Modigliani — contemplating his artworks (student book; original target `visual-art/famous-foreign-artists`) | Book 14, printed p. 23 |
+
+**Book 15:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Student's Book* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 9 (student/teacher: STUDENT). PDF pages: 82 (cover verified against the record title; byte size 46,063,992 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Excluded (named, not placed): the closing recall page, printed p. 82 — "let us always remember the primary colours and their derivatives" (revision apparatus, inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 3 "The Artist Nasrallah Dinet" — Nasreddine Dinet (1861-1929), born in Paris, counted among the Orientalist artists — not only a famous painter; reading his artwork: what is the nature of the paintings we can see? (student book; original target `visual-art/famous-foreign-artists`) | Book 15, printed p. 12 |
+| Syria — Lesson 9 "The Artist Johannes Vermeer" — Johannes Vermeer (1632-1675), Dutch painter who embodies interior scenes and figures — reading "The Girl with the Pearl Earring": describe what you see (student book; original target `visual-art/famous-foreign-artists`) | Book 15, printed p. 26 |
+| Syria — Lesson 11 "The Artist Joseph Turner" — Joseph Mallord William Turner (1775-1851), English painter nicknamed the artist of light, whose genius showed in his precise expression — reading his works: what subjects do they raise? (student book; original target `visual-art/famous-foreign-artists`) | Book 15, printed p. 30 |
+
+**Book 16:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Student's Book, Basic Education Stage* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; first printed school year 2017-2018, this copy school year 2025-2026; no ISBN printed Grade: 8 (student/teacher: STUDENT). PDF pages: 68 (cover verified against the record title; byte size 283,756,204 matches record — fetched byte-exact from the library GitHub release full-quality-oversized-books; image-only book, read visually page by page). Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 17 "The World Artist Antoni Gaudí" — Antoni Gaudí (1852-1926), among the most famous Spanish architect-artists; his works reflect his distinctive, unique architectural style, most of them concentrated in Barcelona; his great passion for architecture, nature and religion; he cared for every detail of his designs and merged in them a group of the crafts he mastered — ceramics, coloured glass, forged-iron work and carpentry (Casa Batlló, the Sagrada Família church, Park Güell); design a building inspired by Gaudí's works with visual additions of your own (student book; original target `visual-art/famous-foreign-artists`) | Book 16, printed p. 36 |
+| Syria — Lesson 28 "The World Artist Frida Kahlo" — Frida Kahlo (1907-1954), among the most famous artists in Mexico; she was struck at six by polio, which gave her the push to draw, and her talent developed until she became an artist whose works' axis is reality and destiny springing from her own experience in suffering; her panels are realistic with hard-to-understand symbolism and much documentation and reportage, clear even to the simple viewer, and she became famous for drawing her self-portraits; after her death her house was turned into a museum dedicated to her works (The Two Fridas); draw an artwork inspired by her works (student book; original target `visual-art/famous-foreign-artists`) | Book 16, printed p. 56 |
+
+**Book 17:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Pupil's Book, First Grade of Basic Education* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; first printed school year 2017-2018, this copy school year 2025-2026; no ISBN printed Grade: 1 (student/teacher: STUDENT — pupil's book). PDF pages: 63 (cover verified against the record title; byte size 518,700,726 matches record — fetched byte-exact from the library GitHub release full-quality-oversized-books; read through the text layer and page-by-page visual sheets). Verdict: COMPLETE. Named, not placed: the "Blackboard" enrichment, printed p. 53 — a photo spread of pupils' chalk drawings on the school board (classroom display, no distinct teaching step); the closing holidays list itself is placed below as festivals, its calendar facts being inventory. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 1 (the artist) — Henri Matisse, the French painter (1869-1954) — his panel of the cat and the goldfish is the class's first artwork (student book; original target `visual-art/famous-foreign-artists`) | Book 17, printed p. 6 |
+| Syria — Lesson 2 (the artist) — Paul Klee — a German visual painter, born in Switzerland in 1879 and died in 1940 (student book; original target `visual-art/famous-foreign-artists`) | Book 17, printed p. 8 |
+
+**Acceptance count: taught in 4 countries (Colombia, Bolivia, Moldova, Syria).** Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/famous-artists-and-masterpieces`); the Andorra placement was filed under the original string `visual-art/famous-artists` (its Bloc 7, Art and the latest trends), recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Artists and movements are met by name and kind only, as the placement gives them. The book is a curriculum programme document, so every part of this lesson is labelled evidence; no student-textbook claim is made for it. Colombia's parts above come from a student book and are counted in the acceptance count.
 
-Searchable tags: famous artists, latest trends, op art, kinetic art, Vasarely, Calder, minimal art, arte povera, hyperrealism, conceptual art, Kosuth, Beuys, land art, neo-expressionism, Baselitz, Barceló, Andorra, Colombia
+Searchable tags: famous artists, latest trends, op art, kinetic art, Vasarely, Calder, minimal art, arte povera, hyperrealism, conceptual art, Kosuth, Beuys, land art, neo-expressionism, Baselitz, Barceló, Andorra, Colombia, Syria

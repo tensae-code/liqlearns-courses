@@ -1,6 +1,6 @@
 # Sources — Family Songs
 
-countries: Ethiopia, Albania, Turkmenistan, Belarus, Bulgaria, Jordan, Libya, Angola, Rwanda, Malaysia, Moldova
+countries: Ethiopia, Albania, Turkmenistan, Belarus, Bulgaria, Jordan, Libya, Angola, Rwanda, Malaysia, Moldova, Syria
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -65,11 +65,34 @@ countries: Ethiopia, Albania, Turkmenistan, Belarus, Bulgaria, Jordan, Libya, An
 |---|---|
 | Moldova — Unit 3, song "Mama, doar mama" — "Mother, only mother" (verses Eugen Rotaru, music Marius Țeicu), sung three ways: choir, soloists with choir, and dialogue (student book; original target `music/family-songs`) | Book 17, printed p. 54 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Turkmenistan, Belarus, Bulgaria, Jordan, Angola, Malaysia, Moldova).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 18:** *التربية الموسيقية (Music Education)* (student book, Arabic) — Syria, Syrian Ministry of Education / National Centre for Curriculum Development (NCCD developed-curriculum edition); year: school year 2021-2022 (1442 AH); no ISBN printed Grade: 7 (student/teacher: STUDENT). PDF pages: 53 (cover/title page verified against the record title; byte size 47,782,278 matches record; image-only scan, read visually page by page). Verdict: COMPLETE. Excluded (named, not placed): closing score appendix, printed pp. 48-53 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 15 "The Beating Heart" — singing with those who care for us — a mother's song ("I am a mother, I fill the world with smiles") honouring the mother who watches the night for her child (student book; original target `music/family-songs`) | Book 18, printed p. 36 |
+
+**Book 19:** *التربية الموسيقية (Music Education), Second Grade* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: first printed 2018-2019, this copy school year 2025-2026; no ISBN printed Grade: 2 (student/teacher: STUDENT). PDF pages: 68 (cover verified against the record title; byte size 38,314,134 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Excluded (named, not placed): closing "Songs of the Book" appendix, printed p. 62 to the end — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 3 "Mama" — the mother song — "Mama, Mama, melody of love, you settled in my heart, how sweet and how precious you are" (student book; original target `music/family-songs`) | Book 19, printed p. 10 |
+| Syria — Lesson 12 "Me and My Family" — talking to friends about your family and the family song — I love papa, I love mama, my brother, my sister (student book; original target `music/family-songs`) | Book 19, printed p. 28 |
+
+**Book 20:** *التربية الموسيقية (Music Education), Third Grade* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 3 (student/teacher: STUDENT). PDF pages: 75 (cover verified against the record title; byte size 84,462,201 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Excluded (named, not placed): closing songs appendix, printed pp. 66-75 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 4 "Grandmothers' Tales" — singing for our grandmother, and cutting the pictures to tell one of the grandmothers' tales (student book; original target `music/family-songs`) | Book 20, printed p. 12 |
+| Syria — Lesson 21 "A Family Party" — visiting relatives — "I will visit my grandfather" — listening to a music piece and getting to know its composer (student book; original target `music/family-songs`) | Book 20, printed p. 50 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Turkmenistan, Belarus, Bulgaria, Jordan, Angola, Malaysia, Moldova, Syria).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 No lyrics of any family song are transcribed; the songs are named and their messages summarised, as the placements give them. The same holds for Sub lesson 4's "ልጅነቴ" (My Childhood), added by Group G: named, sourced (ህይወት ማሞ, traditional melody) and summarised — never transcribed. The written-notes step is named and explained in words only — this lesson does not teach reading the notes themselves; that belongs to the notation lessons of Group E.
 
-Searchable tags: family songs, mother, father, sister, brother, እናቴ, አባቴ, እህቴ, ወንድሜ, ቤተሰብ, ቤተሰቦቻችን, singing from notes, ልጅነቴ, my childhood, ህይወት ማሞ, Rwanda
+Searchable tags: family songs, mother, father, sister, brother, እናቴ, አባቴ, እህቴ, ወንድሜ, ቤተሰብ, ቤተሰቦቻችን, singing from notes, ልጅነቴ, my childhood, ህይወት ማሞ, Rwanda, Syria
 
 **Book 10:** *Музика за първи клас (Music for First Grade), by Адриан Георгиев, Ангелина Петрова, Мая Андасорова, Рая Ковачева* (student book, Bulgarian) — Bulgaria, ИК „РИВА“ АД, Sofia; year 2016 (2nd ed. 2018); ISBN 978-619-225-022-5. Grade: 1 (student/teacher: STUDENT). PDF pages: 68 (cover verified; byte size 20,284,508 and page count match the record exactly — this file's first two download attempts failed on the slow uchebnicite.bg server and it was completed by range-resume in this run). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
 

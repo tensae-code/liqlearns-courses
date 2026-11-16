@@ -1,6 +1,6 @@
 # Sources — The Waltz
 
-countries: Iceland, Cuba, Mongolia, Moldova
+countries: Iceland, Cuba, Mongolia, Moldova, Syria
 
 **Book 1:** *Dægurspor: Kennsluleiðbeiningar (teacher guide, Icelandic)* (teacher guide) — Iceland, no publisher, year or ISBN printed in the guide (first page is the contents list), Grade 5, Icelandic, 79 PDF pp. TEACHER — teacher's guide to the Dægurspor set: student book, listening material, teacher guide and web tasks; the guide itself addresses compulsory-school music teachers (tónmennt). Verdict: COMPLETE. Read in full as text in the 2026-11-16 Art expansion read; fetched with grab.py from the pushed tree, PDF deleted after filing. The closing Listi yfir hlustunarefni (listening-material catalogue, printed pp. 73–79) is inventory-only, named here, never stocked as parts; the songs whose notation and words the guide prints are placed by their teaching topics, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/iceland-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -32,11 +32,18 @@ countries: Iceland, Cuba, Mongolia, Moldova
 |---|---|
 | Moldova — Unit 4, Valsul nr. 15 — Brahms' Waltz No. 15 in C minor (from the 16 Waltzes, Op. 39): a lyrical piano waltz of legato, gliding sounds, made for music-making in the family (student book; original target `drama-and-dance/waltz`) | Book 6, printed p. 60 |
 
-**Acceptance count: taught in 3 countries (Cuba, Mongolia, Moldova). Earlier evidence-only entries stay outside the acceptance count.** Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 7:** *التربية الموسيقية (Music Education)* (student book, Arabic) — Syria, Syrian Ministry of Education / National Centre for Curriculum Development (NCCD); year: school year 2021-2022; no ISBN printed Grade: 5 (student/teacher: STUDENT). PDF pages: 72 (cover/title page verified against the record title; byte size 29,485,010 matches record). Verdict: COMPLETE. Excluded (named, not placed): "I Play and I Learn" board game, printed pp. 60-63 — a revision game apparatus covering the book's topics; the closing anthem-score appendix, printed pp. 64-72 — printed scores of songs already placed above (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 19 "The Waltz" — pieces in triple time are called waltzes and dances are built on them; hearing a waltz among other pieces and learning the waltz's steps (student book; original target `drama-and-dance/the-waltz`) | Book 7, printed p. 54 |
+
+**Acceptance count: taught in 4 countries (Cuba, Mongolia, Moldova, Syria). Earlier evidence-only entries stay outside the acceptance count.** Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `drama-and-dance/waltz`). The Iceland placements were filed as NEW LESSON NEEDED under the original string(s) `drama-and-dance/the-waltz`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Iceland's own way, carried in the placements: a listening journey through the whole history of popular music — taught by listening, playing rhythm parts from notation, singing, and dancing, with Iceland's own musicians, revue songs, seamen's songs and dance bands woven through as national content. Songs are placed by their teaching topics only — no lyrics or notation are transcribed.
 
-Searchable tags: waltz, Ländler, Viennese waltz, Blue Danube, triple time, Iceland, Dægurspor
+Searchable tags: waltz, Ländler, Viennese waltz, Blue Danube, triple time, Iceland, Dægurspor, Syria
 
 **Book 2:** *Las músicas de Cuba y del mundo — Educación Musical, sexto grado* (student book, Spanish) — Cuba, Ministerio de Educación, Cuba / Editorial Pueblo y Educación; year 2025; ISBN 978-959-13-5171-5 (print) / 978-959-13-5185-2 (digital). Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 170. Verdict: COMPLETE. Songs placed by title, genre and purpose only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/cuba-placements.md.
 

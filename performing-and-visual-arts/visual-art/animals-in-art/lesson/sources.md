@@ -1,6 +1,6 @@
 # Sources — Animals in Art
 
-countries: Belarus, Mongolia
+countries: Belarus, Mongolia, Syria
 
 **Book 1:** *Выяўленчае мастацтва. 5 клас (Fine Arts, Grade 5)* (student book, Belarusian) — Belarus, Нацыянальны інстытут адукацыі (National Institute of Education), Minsk; year 2009; ISBN 978-985-465-593-2; authors М. І. Касабуцкі (M. I. Kasabutski), В. М. Касабуцкі (V. M. Kasabutski); approved by the Ministry of Education of the Republic of Belarus. Title as printed: ВЫЯЎЛЕНЧАЕ МАСТАЦТВА — Вучэбны дапаможнік для 5 класа агульнаадукацыйных устаноў з беларускай і рускай мовамі навучання. Для работы ў класе (Fine Arts — textbook for Grade 5, for work in class). Grade 5 (student book: STUDENT). PDF pages: 96 (imprint title verified against the record; byte size 7,948,218). Verdict: COMPLETE — read in full from the downloaded file's text layer, page by page through all 28 numbered sections (contents verified at printed p. 94); the "Пытанні і творчыя заданні" (questions and creative tasks) pages are named here as apparatus and not placed separately. Placements at liqlearns-courses-work/expansion-art-2026-11-16/belarus-placements.md.
 
@@ -16,8 +16,25 @@ countries: Belarus, Mongolia
 | Mongolia — Part I: Шувуу зурах (Drawing a bird) — chicks and birds in flight poses to copy and colour, a duck and a swallow, and the crane: a photograph of a real crane, stylised cranes in many poses, observing the crane's movement, then drawing the bird I know best (student book; original target `visual-art/drawing-animals-and-birds`) | Book 2, printed pp. 36–37 |
 | Mongolia — Part I: Дуртай амьтнаа зурах (Drawing a favourite animal) — how animals are drawn, discussed over named children's gouache lion and tiger and a five-year-old's ink camel caravan ("A guest on a camel"), then outlines of fox, squirrel, fawn, bear cub, piglet, elephant, hedgehog and puppy to draw and colour (student book; original target `visual-art/drawing-animals-and-birds`) | Book 2, printed pp. 42–43 |
 
-**Acceptance count: taught in 2 countries(Belarus, Mongolia).** Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 3:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Student's Book, Basic Education Stage* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; first printed school year 2017-2018, this copy school year 2025-2026; no ISBN printed Grade: 8 (student/teacher: STUDENT). PDF pages: 68 (cover verified against the record title; byte size 283,756,204 matches record — fetched byte-exact from the library GitHub release full-quality-oversized-books; image-only book, read visually page by page). Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 13 "Drawing Animals in Pencil" — discussing with teacher and classmates the technique used in executing the panels (hatching — shaded areas) and the pencil's tonal grades; exercises — draw animals in pencil with regard to the degrees of shade and light (student book; original target `visual-art/drawing-animals-and-nature`) | Book 3, printed p. 28 |
+| Syria — Lesson 14 "Drawing Animals in Wooden (Coloured) Pencils" — the technique used in the panels (hatching — colour areas); the colours' relation to each other and their harmony; is there visual balance in the panel, and what is the difference between the water-colour and wooden-colour techniques? The wooden colours are used the way the pencil is used; try drawing one of the animals before you using the wooden colours, with regard to blending the colours with each other (student book; original target `visual-art/drawing-animals-and-nature`) | Book 3, printed p. 30 |
+| Syria — Lesson 31 "Art and Nature" — discussing with classmates or family the importance of nature and how to benefit from its forms in serving contemporary art (a lamp in the artichoke's form, seats in the tulip's form); design an industrial product inspired by nature (an animal or a plant) — a car from a fish's form, a chair from a butterfly (student book; original target `visual-art/drawing-animals-and-nature`) | Book 3, printed p. 62 |
+
+**Book 4:** *التربية الفنية البصرية والجمالية (Visual and Aesthetic Art Education), Pupil's Book, First Grade of Basic Education* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; first printed school year 2017-2018, this copy school year 2025-2026; no ISBN printed Grade: 1 (student/teacher: STUDENT — pupil's book). PDF pages: 63 (cover verified against the record title; byte size 518,700,726 matches record — fetched byte-exact from the library GitHub release full-quality-oversized-books; read through the text layer and page-by-page visual sheets). Verdict: COMPLETE. Named, not placed: the "Blackboard" enrichment, printed p. 53 — a photo spread of pupils' chalk drawings on the school board (classroom display, no distinct teaching step); the closing holidays list itself is placed below as festivals, its calendar facts being inventory. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 5 "Living with Art" — how did man take inspiration from the environment around him? — the mandarin duck's colours, the butterfly, the bee and the honeycomb's hexagons become shelves; the swallow's nest; the sea's colours; think of a creative artwork — create a panel from nature whose colours you loved (student book; original target `visual-art/drawing-animals-and-nature`) | Book 4, printed p. 14 |
+| Syria — Enrichment "Contemplating Art in Nature" — I contemplate the art in nature and nature's relation to making art in man's life — the peacock's feather and its eye of colours, the butterflies' wings and their patterns, the weaver bird's nest, the sunflower and lavender fields (student book; original target `visual-art/drawing-animals-and-nature`) | Book 4, printed p. 35 |
+
+**Acceptance count: taught in 3 countries (Belarus, Mongolia, Syria).** Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/animals-in-art`). The Belarus placement(s) were filed under the original string(s) `visual-art/drawing-animals`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Songs and stories are placed by summary only, never transcribed.
 
-Searchable tags: animals in art, animalistic genre, Vatagin, proportions, movement, Belarus
+Searchable tags: animals in art, animalistic genre, Vatagin, proportions, movement, Belarus, Syria

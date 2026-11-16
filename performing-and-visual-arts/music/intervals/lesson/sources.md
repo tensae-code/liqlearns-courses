@@ -1,6 +1,6 @@
 # Sources — Intervals
 
-countries: Albania, Malta, Papua New Guinea, Jordan, Sri Lanka, Malaysia
+countries: Albania, Malta, Papua New Guinea, Jordan, Sri Lanka, Malaysia, Syria
 
 **Book 1:** *Libër mësuesi Muzika 7 (botim i përmirësuar)* (teacher guide, Albanian) — Albania, Shtëpia Botuese Mediaprint, 2016, ISBN 978-9928-08-232-9, Grade 7, 97 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Fetched from the recorded Mediaprint source URLs; byte size matches the record exactly. Cover/title page verified against the record title. Exclusions named in the placements: term tests and the achievement-presentation project are assessment apparatus — named, not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/albania-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -31,11 +31,33 @@ countries: Albania, Malta, Papua New Guinea, Jordan, Sri Lanka, Malaysia
 |---|---|
 | Malaysia — Units 3–4 — intervals (jeda) written and recognised in the scales studied (filed under the Book 4 lesson slug music/intervals-and-tonic-triads) (student book; original target `music/intervals-and-tonic-triads`) | Book 7, printed pp. 45, 52 |
 
-**Acceptance count: taught in 1 country (Malaysia). Earlier stock stands on Albania teacher-guide evidence only, named here, counted nowhere.** Malta is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Jordan is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 8:** *التربية الموسيقية (Music Education)* (student book, Arabic) — Syria, Syrian Ministry of Education / National Centre for Curriculum Development (NCCD); year: school year 2021-2022; no ISBN printed Grade: 5 (student/teacher: STUDENT). PDF pages: 72 (cover/title page verified against the record title; byte size 29,485,010 matches record). Verdict: COMPLETE. Excluded (named, not placed): "I Play and I Learn" board game, printed pp. 60-63 — a revision game apparatus covering the book's topics; the closing anthem-score appendix, printed pp. 64-72 — printed scores of songs already placed above (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 12 "Musical Intervals" — the interval as the distance between two notes, named by counting the steps between them (second, third, perfect intervals), ascending or descending; calculating intervals and singing solfege (student book; original target `music/musical-intervals`) | Book 8, printed p. 35 |
+
+**Book 9:** *التربية الموسيقية (Music Education), Ninth Grade* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 9 (student/teacher: STUDENT). PDF pages: 64 (cover verified against the record title; byte size 63,391,665 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Excluded (named, not placed): closing "Notes of the Anthems and Songs" appendix, printed p. 54 to the end — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 3 "Love Is Giving" — extracting the intervals from the solfege in different positions and naming each interval (al-fasila) (student book; original target `music/musical-intervals`) | Book 9, printed p. 10 |
+
+**Book 10:** *التربية الموسيقية (Music Education), Eighth Grade* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; first printed school year 2018-2019, this copy school year 2025-2026; no ISBN printed Grade: 8 (student/teacher: STUDENT). PDF pages: 64 (cover verified against the record title; byte size 85,804,582 matches record — fetched byte-exact from the library GitHub release mid-size-books; image-only book, read visually page by page). Verdict: COMPLETE. Excluded (named, not placed): "Let Us Play and Test Our Knowledge," printed p. 52 — a board-game revision of the book's content (assessment play, inventory only); closing "Anthems of the Book" appendix, printed pp. 54-64 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 13 "The Fa Major Scale" — writing the name of the interval between the degrees; recalling that the flat sign (♭) lowers the degree by a semitone distance (student book; original target `music/musical-intervals`) | Book 10, printed p. 34 |
+| Syria — Lesson 16 (Ugaritic intervals) — Ugaritic music used the musical intervals, each interval bearing a name that indicates its number and direction; Ugaritic music rests on a scale of clear musical distances called the Ugaritic seven-note scale; the Ugaritic musical scale is among the oldest musical scales known in the world — about 900 years before the diatonic scale the world ascribes to the Greek Pythagoras (student book; original target `music/musical-intervals`) | Book 10, printed p. 41 |
+
+**Acceptance count: taught in 2 countries (Malaysia, Syria). Earlier stock stands on Albania teacher-guide evidence only, named here, counted nowhere.** Malta is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Jordan is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/intervals`). Albania's own way: the Grade 7 Kodály-based course teaches intervals inside its scales-and-accidentals work — distances named by counting from the first sound, then built, sung and played, on voice, keyboard and fyell.
 
-Searchable tags: intervals, octave, distance between sounds, Albania, Muzika 7, Malta, Music Shines, Papua New Guinea
+Searchable tags: intervals, octave, distance between sounds, Albania, Muzika 7, Malta, Music Shines, Papua New Guinea, Syria
 
 
 **Book 4:** *التربية الفنية والموسيقية والمسرحية — الصف العاشر (Art, Music and Theatre Education — Grade Ten), teacher's guide (دليل المعلم)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Amman; year 2025 (first experimental edition, 1446H/2025); ISBN 978-9923-41-960-1. Grade: Grade 10 (student/teacher: TEACHER). PDF pages: 125 (cover/title page verified against the record title; printed page numbers equal PDF page numbers). Verdict: COMPLETE — read in full, page by page. Note: the Grade 10 student book is not among this group's records; this guide is the only evidence held for the Grade 10 curriculum, so every placement from it is marked teacher-guide evidence. The per-lesson self-assessment rubrics are assessment apparatus with no teaching content and are not placed; the three embedded play/story texts are summarised, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**

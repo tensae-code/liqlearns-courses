@@ -1,6 +1,6 @@
 # Sources — Songs of Nature
 
-countries: Ethiopia, Turkmenistan, Fiji, Belarus, Morocco, Jordan, Libya, Mongolia, Rwanda, Malaysia, Moldova
+countries: Ethiopia, Turkmenistan, Fiji, Belarus, Morocco, Jordan, Libya, Mongolia, Rwanda, Malaysia, Moldova, Syria
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -106,11 +106,26 @@ countries: Ethiopia, Turkmenistan, Fiji, Belarus, Morocco, Jordan, Libya, Mongol
 | Moldova — Unit 3, song "Vine iar primăvara" — "Spring is coming again" (verses Petre Popa, music Valeriu Ceban), with a body-percussion accompaniment the class designs and judges (student book; original target `music/songs-of-nature`) | Book 22, printed p. 48 |
 | Moldova — Unit 4, folk melody "Cucul" — the Swiss folk melody "The Cuckoo", sung with rhythmic accompaniment models (student book; original target `music/songs-of-nature`) | Book 22, printed p. 67 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Turkmenistan, Belarus, Jordan, Mongolia, Malaysia, Moldova).** Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 23:** *التربية الموسيقية (Music Education)* (student book, Arabic) — Syria, Syrian Ministry of Education / National Centre for Curriculum Development (NCCD); year: school year 2021-2022; no ISBN printed Grade: 5 (student/teacher: STUDENT). PDF pages: 72 (cover/title page verified against the record title; byte size 29,485,010 matches record). Verdict: COMPLETE. Excluded (named, not placed): "I Play and I Learn" board game, printed pp. 60-63 — a revision game apparatus covering the book's topics; the closing anthem-score appendix, printed pp. 64-72 — printed scores of songs already placed above (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 1 "Children's Sun" — a beloved children's song (words and music by the Rahbani brothers) about the sun visiting and lighting children's homes while they play (student book; original target `music/songs-of-nature`) | Book 23, printed p. 6 |
+
+**Book 24:** *التربية الموسيقية (Music Education)* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 6 (student/teacher: STUDENT). PDF pages: 72 (cover/title page verified against the record title; byte size 27,174,319 matches record). Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 8 "Children of Life" — a song of children going out to the countryside to play, tire and have fun in open nature (student book; original target `music/songs-of-nature`) | Book 24, printed p. 27 |
+| Syria — Lesson 14 "Sing, O Cloud" — a song to the rain cloud about the shared need for water, with notes written in their places on both the treble and bass clefs (student book; original target `music/songs-of-nature`) | Book 24, printed p. 48 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Turkmenistan, Belarus, Jordan, Mongolia, Malaysia, Moldova, Syria).** Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 The Grade 2 book prints the star song in Amharic and the Grade 3 book prints the same song in English; both placements are stocked — the Amharic here, the English in School Songs — exactly as the books place them. No song lyrics are transcribed; songs are named and their pictures summarised.
 
-Searchable tags: nature songs, surroundings, birds, star, planting, green land, አካባቢያችን, ወፎች ዘመሩ, አዕዋፍ, ኮከብ, እፅዋት እተክላለሁ, የመልከዓ ምድር ልምላሜ, Rwanda
+Searchable tags: nature songs, surroundings, birds, star, planting, green land, አካባቢያችን, ወፎች ዘመሩ, አዕዋፍ, ኮከብ, እፅዋት እተክላለሁ, የመልከዓ ምድር ልምላሜ, Rwanda, Syria
 
 
 **Book 11:** *"Children Songs — KG (Song Book)"* (song book, Arabic) — Jordan, no publisher, year or ISBN printed anywhere in the file (a Ministry of Education / Minhaji kindergarten song booklet; the repo record's own download pointer was minhaji.net); no title page in the file — the booklet opens directly with the songs; the record title matches the contents (45 short children's songs/chants, each titled, one to three per page). Grade: KG (student/teacher: STUDENT). PDF pages: 18 (byte size 1,557,981 matches record exactly; fetched with grab.py tree — this small book IS in the repo tree; printed page numbers = PDF page numbers). Verdict: COMPLETE — all 45 songs read and placed, as summaries only (no lyrics transcribed). Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.

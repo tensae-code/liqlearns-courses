@@ -1,6 +1,6 @@
 # Sources — Movement Songs
 
-countries: Ethiopia, Turkmenistan, Fiji, Papua New Guinea, Jordan, Libya, Angola, Rwanda, Malaysia, Moldova
+countries: Ethiopia, Turkmenistan, Fiji, Papua New Guinea, Jordan, Libya, Angola, Rwanda, Malaysia, Moldova, Syria
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -70,11 +70,18 @@ countries: Ethiopia, Turkmenistan, Fiji, Papua New Guinea, Jordan, Libya, Angola
 |---|---|
 | Moldova — Unit 1, Folclorul copiilor — children's own folklore: lullabies, the swinging game "Huța huța", calls to the sun, butterfly and rain, and the song-game "Facem hora mare" (student book; original target `music/movement-songs`) | Book 18, printed p. 13 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Turkmenistan, Fiji, Jordan, Angola, Malaysia, Moldova).** Fiji's Year 1-2 teacher guides are also stocked in this lesson as evidence, kept outside the acceptance count beyond the student-book count above. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 19:** *التربية الموسيقية (Music Education)* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 6 (student/teacher: STUDENT). PDF pages: 72 (cover/title page verified against the record title; byte size 27,174,319 matches record). Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 7 "I Sing with Joy" — the English skipping-rope song "Jump the Rope" — singing while swinging the rope high, holding it tight and skipping lightly, two together (student book; original target `music/movement-songs`) | Book 19, printed p. 24 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Turkmenistan, Fiji, Jordan, Angola, Malaysia, Moldova, Syria).** Fiji's Year 1-2 teacher guides are also stocked in this lesson as evidence, kept outside the acceptance count beyond the student-book count above. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 The Grade 1 placement asks for a GIF of the full clapping step pattern with children; full-body step choreography drawn frame by frame did not read truly, so the filed GIF carries the clap itself — the beat moment of the song — and the step pattern is taught in words and in the hands-on work. No motion that failed its frame check was filed.
 
-Searchable tags: movement songs, clapping, walking, riding, እናጨበጭባለን, ሽርሽር እንሂድ, ቼ ቼ ፈረሴ, beat, che che, Papua New Guinea, Rwanda
+Searchable tags: movement songs, clapping, walking, riding, እናጨበጭባለን, ሽርሽር እንሂድ, ቼ ቼ ፈረሴ, beat, che che, Papua New Guinea, Rwanda, Syria
 
 
 **Book 11:** *"Children Songs — KG (Song Book)"* (song book, Arabic) — Jordan, no publisher, year or ISBN printed anywhere in the file (a Ministry of Education / Minhaji kindergarten song booklet; the repo record's own download pointer was minhaji.net); no title page in the file — the booklet opens directly with the songs; the record title matches the contents (45 short children's songs/chants, each titled, one to three per page). Grade: KG (student/teacher: STUDENT). PDF pages: 18 (byte size 1,557,981 matches record exactly; fetched with grab.py tree — this small book IS in the repo tree; printed page numbers = PDF page numbers). Verdict: COMPLETE — all 45 songs read and placed, as summaries only (no lyrics transcribed). Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Songs of Our Country
 
-countries: Ethiopia, Albania, Turkmenistan, Fiji, Belarus, Morocco, Bulgaria, Jordan, Libya, Mongolia, Malaysia, Moldova
+countries: Ethiopia, Albania, Turkmenistan, Fiji, Belarus, Morocco, Bulgaria, Jordan, Libya, Mongolia, Malaysia, Moldova, Syria
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -121,11 +121,67 @@ countries: Ethiopia, Albania, Turkmenistan, Fiji, Belarus, Morocco, Bulgaria, Jo
 | Moldova — Unit 3, song "Cinste lor" — "Honour to Them", Liana Opriș's song of remembrance for those who fought and gave their lives for the nation's freedom (student book; original target `music/songs-of-our-country`) | Book 29, printed p. 46 |
 | Moldova — Unit 4, folk song "Moldovă, Moldovioara mea" — the folk song "Moldova, my little Moldova", sung with plastic movements and dance steps fitted to it (student book; original target `music/songs-of-our-country`) | Book 29, printed p. 68 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Turkmenistan, Belarus, Bulgaria, Jordan, Mongolia, Malaysia, Moldova).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
+**Book 30:** *التربية الموسيقية (Music Education)* (student book, Arabic) — Syria, Syrian Ministry of Education / National Centre for Curriculum Development (NCCD); year: school year 2021-2022; no ISBN printed Grade: 5 (student/teacher: STUDENT). PDF pages: 72 (cover/title page verified against the record title; byte size 29,485,010 matches record). Verdict: COMPLETE. Excluded (named, not placed): "I Play and I Learn" board game, printed pp. 60-63 — a revision game apparatus covering the book's topics; the closing anthem-score appendix, printed pp. 64-72 — printed scores of songs already placed above (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 3 "For All the Children of the Country" — a song (words by Mohamed Wahid Ali) about a little boat of palm fronds carrying a white dove, a smile, a rose and a wish to every child in the homeland (student book; original target `music/songs-of-our-country`) | Book 30, printed p. 12 |
+| Syria — Lesson 11 "The Martyr" — a patriotic anthem (words by Ibrahim Abbas Yassin) honouring the martyr whose voice still calls the homeland to cast off mourning (student book; original target `music/songs-of-our-country`) | Book 30, printed p. 32 |
+
+**Book 31:** *التربية الموسيقية (Music Education)* (student book, Arabic) — Syria, Syrian Ministry of Education / National Centre for Curriculum Development (NCCD developed-curriculum edition); year: school year 2021-2022 (1442 AH); no ISBN printed Grade: 7 (student/teacher: STUDENT). PDF pages: 53 (cover/title page verified against the record title; byte size 47,782,278 matches record; image-only scan, read visually page by page). Verdict: COMPLETE. Excluded (named, not placed): closing score appendix, printed pp. 48-53 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 7 (anthem) — the patriotic song "Watani" (words by Adnan Mardini, music by Adnan Abu al-Shamat), sung by Sabah Fakhri, chanted together in class (student book; original target `music/songs-of-our-country`) | Book 31, printed p. 18 |
+
+**Book 32:** *التربية الموسيقية (Music Education), First Grade Primary* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026 (1446 AH); no ISBN printed Grade: 1 (student/teacher: STUDENT). PDF pages: 66 (cover verified against the record title; byte size 34,464,970 matches record — fetched byte-exact from the library GitHub release mid-size-books after a first truncated attempt was retried). Verdict: COMPLETE. Excluded (named, not placed): closing score appendix, printed pp. 60-66 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 1 "My Homeland (Watani)" — a homeland song, breathing in like smelling a flower with the longest breath, and listening to "The Bees" music — flying like bees to the work of the hive (student book; original target `music/songs-of-our-country`) | Book 32, printed p. 6 |
+| Syria — Lesson 14 "My Village" — the village song — a pure river in our village, a willow branch playing, ducks swimming in the river (student book; original target `music/songs-of-our-country`) | Book 32, printed p. 32 |
+| Syria — Lesson 17 "My Country (Baladi)" — the video "Daqqu ala al-Khashab"; naming the flag the child carries — the Syrian flag — describing it, and building it with your friends from coloured papers (student book; original target `music/songs-of-our-country`) | Book 32, printed p. 38 |
+
+**Book 33:** *التربية الموسيقية (Music Education), Second Grade* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: first printed 2018-2019, this copy school year 2025-2026; no ISBN printed Grade: 2 (student/teacher: STUDENT). PDF pages: 68 (cover verified against the record title; byte size 38,314,134 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Excluded (named, not placed): closing "Songs of the Book" appendix, printed p. 62 to the end — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 5 "My Flag" — our duty as children toward the homeland, and the flag song — "we raised our heads, we greeted it above our heads; we said, my flag, we ransom you, we protect you, precious one" (student book; original target `music/songs-of-our-country`) | Book 33, printed p. 14 |
+
+**Book 34:** *التربية الموسيقية (Music Education), Fourth Grade Basic* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026 (1446 AH); no ISBN printed Grade: 4 (student/teacher: STUDENT). PDF pages: 48 (cover verified against the record title; byte size 82,650,289 matches record — fetched byte-exact from the library GitHub release mid-size-books; image-only scan, read visually page by page). Verdict: COMPLETE. Excluded (named, not placed): closing score appendix, printed pp. 44-48 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 9 "I Love My Village" — the village anthem — "O my village, in my village is abundant good… from my village the morning shone; in it is bliss, in it the peasant" (words by Abd al-Aziz al-Tamimi, music by Kamil al-Qudsi) (student book; original target `music/songs-of-our-country`) | Book 34, printed p. 24 |
+
+**Book 35:** *التربية الموسيقية (Music Education), Ninth Grade* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; year: school year 2025-2026; no ISBN printed Grade: 9 (student/teacher: STUDENT). PDF pages: 64 (cover verified against the record title; byte size 63,391,665 matches record — fetched byte-exact from the library GitHub release mid-size-books). Verdict: COMPLETE. Excluded (named, not placed): closing "Notes of the Anthems and Songs" appendix, printed p. 54 to the end — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 8 "Tales from My Country" — singing the homeland anthem of the lesson — tales and songs of my country (student book; original target `music/songs-of-our-country`) | Book 35, printed p. 22 |
+| Syria — Lesson 11 "Morning of My Homeland" — reciting the poem with expressive delivery — the dew, the morning of my homeland — and inventing a rhythm line fit for the anthem's melody (student book; original target `music/songs-of-our-country`) | Book 35, printed p. 28 |
+
+**Book 36:** *التربية الموسيقية (Music Education), Eighth Grade* (student book, Arabic) — Syria, Syrian Ministry of Education and Teaching; first printed school year 2018-2019, this copy school year 2025-2026; no ISBN printed Grade: 8 (student/teacher: STUDENT). PDF pages: 64 (cover verified against the record title; byte size 85,804,582 matches record — fetched byte-exact from the library GitHub release mid-size-books; image-only book, read visually page by page). Verdict: COMPLETE. Excluded (named, not placed): "Let Us Play and Test Our Knowledge," printed p. 52 — a board-game revision of the book's content (assessment play, inventory only); closing "Anthems of the Book" appendix, printed pp. 54-64 — printed sheet music of the book's own songs (inventory only). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/syria-placements.md.
+
+
+| Lesson part | Where it comes from |
+|---|---|
+| Syria — Lesson 3 "From the Bounties of My Country" — singing the anthem (words: Jamal Abu Samra) — from the bounties of the earth we ate, O bread of the tannour; my land's wheat tended by the forearms of my country — and discussing the bounties in it (student book; original target `music/songs-of-our-country`) | Book 36, printed p. 10 |
+| Syria — Lesson 7 "Sham" — watching the video — Damascus accompanied by dance music — and singing the Sham poem (words: Said Akl), then the solfege of "Jayibli Salam" and singing the song after hearing it (student book; original target `music/songs-of-our-country`) | Book 36, printed p. 22 |
+| Syria — Lesson 9 "Longing (Hanin)" — watching the video and discussing the land of the beloved Golan; singing together the longing song (words: Abd al-Majid al-Ghaouri) — I devoted my poetry to the Golan, O my homeland (student book; original target `music/songs-of-our-country`) | Book 36, printed p. 26 |
+| Syria — Lesson 13 (Ugaritic song) — singing a song from Ugaritic literature — I have a message to tell you, the message of the tree and the whisper of the stone; the writer reworked some Ugaritic texts and the researcher-composer Ziad Ajjan composed pieces in the Ugaritic manner using the musical intervals Ugaritic music used (his works include "Nature, Light and Life — the Hymn of the Earth") (student book; original target `music/songs-of-our-country`) | Book 36, printed p. 33 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Turkmenistan, Belarus, Bulgaria, Jordan, Mongolia, Malaysia, Moldova, Syria).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 The Grade 2 teacher guide is a scan with no text layer, read visually at section level; its part here is cited at section level only and labelled evidence, exactly as its placements file states. Work songs are named by their work and purpose only — their lyrics are not transcribed, as the placements direct.
 
-Searchable tags: songs of our country, Ethiopia, flag, tizta, love of country, our arts, work songs, threshing, reaping, ploughing, music itself, ሀገራችን, የሀገር ፍቅር ትዝታው, የኛ ጥበባት, ሙዚቃ
+Searchable tags: songs of our country, Ethiopia, flag, tizta, love of country, our arts, work songs, threshing, reaping, ploughing, music itself, ሀገራችን, የሀገር ፍቅር ትዝታው, የኛ ጥበባት, ሙዚቃ, Syria
 
 **Book 13:** *Музика за четвърти клас (Music for Fourth Grade), by Адриан Георгиев, Мая Андасорова, Рая Ковачева* (student book, Bulgarian) — Bulgaria, РИВА (Riva), Sofia; year 2019; ISBN 978-619-225-098-0 (from the cover barcode). Grade: 4 (student/teacher: STUDENT). PDF pages: 68 (cover verified — "Музика за четвърти клас", Riva, 4. клас). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bulgaria-placements.md.
 
