@@ -1,6 +1,6 @@
 # Sources — Comics
 
-countries: Maldives, Honduras, Haiti, Serbia, Finland, Mozambique, Colombia, Brazil, Bulgaria, Sri Lanka, Cuba, Bolivia, Indonesia
+countries: Maldives, Honduras, Haiti, Serbia, Finland, Mozambique, Colombia, Brazil, Bulgaria, Sri Lanka, Cuba, Bolivia, Indonesia, Greece
 
 **Book 1:** *Exploring Creative Arts 4* (student book, English) — Maldives, National Institute of Education, Ministry of Education, Malé, Maldives; © 2025, first published 2025; ISBN 978-99915-0-956-3 (paperback); development editor Shirumeen Ahmed; printed by M7 Print Pvt. Ltd. Based on the Creative Arts in the National Curriculum syllabus, 2022. 93 PDF pp (printed pp. 1–81 plus acknowledgements and back cover; cover verified — two children painting at easels). Verdict: COMPLETE. Read in full as extracted text in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/maldives-placements.md. The book's glossary (printed pp. 79–81) is inventory only, named here and never stocked as parts.
 
@@ -56,7 +56,7 @@ countries: Maldives, Honduras, Haiti, Serbia, Finland, Mozambique, Colombia, Bra
 |---|---|
 | Indonesia — Bab II — making a comic strip from a local story, with plant characters (teacher guide — evidence; original target `visual-art/comic-strips-from-local-stories`) | Book 15, printed p. 51 |
 
-**Acceptance count: taught in 9 countries (Maldives, Honduras, Serbia, Finland, Mozambique, Colombia, Brazil, Bulgaria, Bolivia).** Haiti is added as teacher programme — evidence only, kept outside the acceptance count. Finland's module-plan part (Book 6) is evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 10 countries (Maldives, Honduras, Serbia, Finland, Mozambique, Colombia, Brazil, Bulgaria, Bolivia, Greece).** Haiti is added as teacher programme — evidence only, kept outside the acceptance count. Finland's module-plan part (Book 6) is evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/comics`); the Maldives placement was filed under the original string `visual-art/character-design`, recorded in the provenance rows above. The digital building of the same character is stocked in Digital and Computer Art, from the same unit's digital pages.
 
@@ -84,3 +84,17 @@ Searchable tags: comics, character design, cartoon characters, Kyle and Lulu, Hu
 | Lesson part | Where it comes from |
 |---|---|
 | Cuba — Unit 4, Historietas y dibujos animados — creating your own small comic strip (historieta) with paper, coloured pencils and watercolour in only four tones (teacher guide — evidence; original target `visual-art/drawing-comics-historietas`) | Book 13, printed p. 52 |
+
+**Book 16:** *Eikastika E'-ST' Dimotikou (student book, Greek)* — Title as printed: Εικαστικά — Παρατηρώ & δημιουργώ, Ε΄ & Στ΄ Δημοτικού (Visual Arts — I Observe & Create) Grade: Grades 5-6 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); ISBN 978-960-06-2605-6 (book code 0-10-0139) PDF pages: 94 (cover verified against the record title; byte size 25,466,091 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: a materials-and-professions book — simple materials (paper, wire, tesserae, clay) taught as real techniques including Byzantine-rooted mosaic methods, then the visual professions (cartoonist, comics artist, lettering designer, model-maker, photographer), then art history taught as five movements you try yourself. Excluded per standing rules: the Appendix (Παράρτημα) — glossary, bibliography, index — is inventory-only, named here, not stocked. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 4).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Γ2. Κόμικς – Σχεδιαστής (Comics – the comics artist) — "and now Asterix" — how comics are built; making your own comics (student book; original target `visual-art/comics-drawing`) | Book 16, printed p. 50 |
+
+**Book 17:** *Eikastika A' Gymnasiou, Tetradio Ergasion (workbook, Greek)* — Title as printed: Εικαστικά Α΄ Γυμνασίου — Τετράδιο Εργασιών (Visual Arts Grade 7 — Workbook) Grade: Grade 7 (student/teacher: STUDENT workbook) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); revised V2 edition (2025 printing in the PDF); ISBN 978-960-06-2663-6 (book code 0-21-0019) PDF pages: 34 (cover verified against the record title; byte size 6,570,847 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: a personal sketch-portfolio the pupil fills all year — collecting doodles, colour swatches, technique samples and artwork analyses; Greek heritage enters through the statues' axes exercise and completing the Parthenon in pencil. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 6).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Χάρτινοι ήρωες (Paper heroes) — designing your own heroes starting from a geometric form, as in the examples (workbook; original target `visual-art/comics-drawing`) | Book 17, printed p. 26 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

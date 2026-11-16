@@ -1,6 +1,6 @@
 # Sources — Writing and Putting On a Play
 
-countries: Ethiopia, Egypt, Guatemala, Trinidad and Tobago, Suriname, Iran, Papua New Guinea, Brazil, Morocco, Jordan, Malaysia, Indonesia
+countries: Ethiopia, Egypt, Guatemala, Trinidad and Tobago, Suriname, Iran, Papua New Guinea, Brazil, Morocco, Jordan, Malaysia, Indonesia, Greece
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -139,7 +139,7 @@ countries: Ethiopia, Egypt, Guatemala, Trinidad and Tobago, Suriname, Iran, Papu
 |---|---|
 | Indonesia — Bab 2 Menulis Naskah Teater — writing a theatre script — building an original naskah from idea to performable text (teacher guide — evidence; original target `drama-and-dance/writing-and-putting-on-a-play`) | Book 29, printed p. 90 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Egypt, Iran, Brazil, Malaysia). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Jordan is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 6 countries (Ethiopia, Egypt, Iran, Brazil, Malaysia, Greece). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Jordan is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The model play 'ሰላም' (Peace) in the Grade 8 student book is placed by its role — the rehearsal ladder's worked example from a local history — and is not transcribed. Screenwriting's worked examples use the book's own Ethiopian character names (Biruk, Tewodros) as the placements give them. The Grade 10 guide's harmonising example (the 'Feliz Navidad' composition) belongs to the music strand and is not used here.
 
@@ -151,3 +151,17 @@ Searchable tags: plot, ሴራ, cause and effect, flashback, ምልሰት, play s
 | Lesson part | Where it comes from |
 |---|---|
 | Jordan — Theatre Lesson 1 "The Theatrical Text" — the elements of writing a play text — idea, characters, dialogue, language, time and place, sequence of events, plot and conflict, conflict being the story's axis — with the craft advice to begin from a real or dreamed experience, choose characters carefully, add movement and sound directions, and open strikingly and end memorably; the pupil then writes and performs a short scene of their own (teacher guide — evidence; original target `drama-and-dance/writing-and-putting-on-a-play`) | Book 18, printed p. 90 |
+
+**Book 30:** *Theatriki Agogi E'-ST' Dimotikou (student book, Greek)* — Title as printed: Θεατρική Αγωγή Ε΄ & Στ΄ Δημοτικού (Theatre Education, Grades 5 & 6) Grade: Grades 5-6 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); year 2013 (revised printing 2015); ISBN 978-960-06-2606-7 (book code 0-10-0142) PDF pages: 106 (cover verified against the record title — portraits of Antigone and of Karolos Koun on the cover; byte size 11,795,755 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: theatre taught as a GAME with levels called "zones" — the class plays its way from circle name-games to a full performance, every zone run twice, once at Grade 5 level and once harder at Grade 6; the cover honours Sophocles' Antigone and Karolos Koun, founder of Greece's Art Theatre. Excluded per standing rules: Appendix 1 «Με τη γλώσσα του θεάτρου» (printed p. 101) is a theatre-language word list — inventory-only, named here, not stocked. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 5).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Ζώνη 11: Δραματοποίηση 3 — Εργαστήρι Γραφής (Zone 11: Dramatisation 3 — writing workshop) — writing your own play text in a writers' workshop (Grade 5 p. 68, Grade 6 p. 70) (student book) | Book 30, printed p. 67 |
+
+**Book 31:** *Θεατρική Αγωγή Ε΄ & Στ΄ Δημοτικού (student book, Greek)* — Title as printed: Θεατρική Αγωγή Ε΄ & Στ΄ Δημοτικού (Theatre Education, Primary Grades 5 & 6), by Πέτρος Μουγιακάκος, Αντιγόνη Μώρου, Χρήστος Παπαδημούλης, Μαρία Φραγκή Grade: 6 record (the book serves Grades 5 & 6; student/teacher: STUDENT) Publisher: ITYE «Διόφαντος», book code 0-10-0142, ISBN 978-960-06-2608-7 PDF pages: 106 (byte size 11,795,755 matches the record exactly; cover and contents verified — 16 "zones", each worked at both grade levels, plus two appendices) Verdict: COMPLETE Greece's own way: a whole primary theatre course built as zones of play — body, expression, partner, group, space, object, action, improvisation — that grow, zone by zone, into dramatisation, play-writing and a full school production the children then watch as audience. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 43).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Zone 11: Δραματοποίηση 3: Εργαστήρι Γραφής (dramatisation 3 — the writing workshop) (student book) | Book 31, printed  |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

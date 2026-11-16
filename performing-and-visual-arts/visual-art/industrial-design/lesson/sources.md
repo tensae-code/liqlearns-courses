@@ -1,6 +1,6 @@
 # Sources — Industrial Design
 
-countries: Sudan, Malaysia, North Macedonia
+countries: Sudan, Malaysia, North Macedonia, Greece
 
 **Book 1:** *الفنون والتصميم (Arts & Design) — للصفين الأول والثاني الثانوي (for the First and Second Secondary years), Secondary Stage (المرحلة الثانوية)* (student book, Arabic) — Sudan, National Center for Curricula and Educational Research (المركز القومي للمناهج والبحث التربوي), Bakht Al-Ruda — Republic of Sudan, Ministry of Education; authors Mohamed Al-Amin Ali, Abdul Basit Abdullah Al-Khatim, Mohamed Mohamed Idris (College of Arts, University of Sudan) and Khidir Mohamed Othman (NCCR); no year printed in the pages held; ISBN 978-99942-53-46-3, Grade 10, 103 PDF pp. STUDENT — the printed volume is one combined book serving the First and Second Secondary years (Grades 10 and 11); this entry is its Grade 10 row. Verdict: COMPLETE — read in full, page by page. Named in the header, not placed: "Design Tools & Materials" (printed pp. 63–64) is a materials inventory and "Guidance for the Student" (printed pp. 64–65) is workshop-care instruction — apparatus/inventory; the Colouring book's closing questions and exercises (printed p. 84) are assessment, not placed. The Grade 11 record is a duplicate scan of this same volume — record-only, not stocked twice. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sudan-placements.md.
 
@@ -50,7 +50,7 @@ countries: Sudan, Malaysia, North Macedonia
 |---|---|
 | Malaysia — Bab 3 Aplikasi/Ekspresi Reka Bentuk Industri — industrial design applied and creatively expressed (filed under the Book 9 lesson slug visual-art/industrial-design) (student book; original target `visual-art/industrial-design`) | Book 8, printed pp. 103, 112 |
 
-**Acceptance count: taught in 3 countries (Sudan, Malaysia, North Macedonia).** Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 4 countries (Sudan, Malaysia, North Macedonia, Greece).** Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/industrial-design`); the Sudan placements were filed under the original strings recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Sudan's own way is kept as the named sub lessons above.
 
@@ -69,3 +69,17 @@ Searchable tags: industrial design, Sudan
 | North Macedonia — Индустриски дизајн — industrial design: form follows function — the technical, aesthetic, economic and ergonomic parts of a good product, from Peter Behrens and the Werkbund to today's sustainable design (student book; original target `visual-art/industrial-design`) | Book 10, printed pp. 88–89 |
 
 North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 11:** *Eikastika C' Gymnasiou, Tetradio Ergasion (workbook, Greek)* — Title as printed: Εικαστικά Γ΄ Γυμνασίου — Τετράδιο Εργασιών (Visual Arts Grade 9 — Workbook) Grade: Grade 9 (student/teacher: STUDENT workbook) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); revised V2 edition; ISBN 978-960-06-2758-9 (book code 0-21-0134) PDF pages: 34 (cover verified against the record title; byte size 5,631,611 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: the analysis workbook for Grade 9 — Greek art is the test material throughout: the Munich School painters compared for their common style, Greek landscapes matched to ways of rendering space, Moralis' structural axes drawn over his paintings, and Tsarouchis' figures read for their era and their regional dress (mainland, Ionian, Cretan). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 16).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Ενότητα 2, Θέμα 2: Βιομηχανικός σχεδιασμός (Industrial design) — investigating five objects' design for originality, form and function — does form follow function? — Mendini's redesigns and "Kandinsky" sofa, Tiffany's lamp (workbook) | Book 11, printed p. 18 |
+
+**Book 12:** *Eikastika C' Gymnasiou (student book, Greek)* — Title as printed: Εικαστικά Γ΄ Γυμνασίου — Βιβλίο Μαθητή (Visual Arts Grade 9) Grade: Grade 9 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); revised V3 edition; ISBN 978-960-06-2757-2 (book code 0-21-0133) PDF pages: 106 (cover verified against the record title; byte size 20,062,728 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: the theory text behind Book 16's workbook — form elements first, then the applied arts (graphics, industrial design, dress), then new technologies, then contemporary forms; Greek content is woven in — 20th-century Greek painters inside the volume theme, and dress history that ends at disguise and the theatre costume. Excluded per standing rules: the per-theme «ΓΛΩΣΣΑΡΙ» sections are inventory-only; the suggested bibliography (printed p. 102) is apparatus. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 17).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Ενότητα 2, Θέμα 2: Βιομηχανικός σχεδιασμός (Industrial design) — what industrial design is, and its history (student book) | Book 12, printed p. 58 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

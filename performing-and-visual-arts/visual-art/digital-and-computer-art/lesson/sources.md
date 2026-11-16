@@ -1,6 +1,6 @@
 # Sources — Digital and Computer Art
 
-countries: Maldives, Turkmenistan, Sudan, Brazil, Morocco, Bulgaria, Libya, Cuba, Venezuela, Afghanistan, Bolivia, Malaysia, Armenia, North Macedonia
+countries: Maldives, Turkmenistan, Sudan, Brazil, Morocco, Bulgaria, Libya, Cuba, Venezuela, Afghanistan, Bolivia, Malaysia, Armenia, North Macedonia, Greece
 
 **Book 1:** *Exploring Creative Arts 4* (student book, English) — Maldives, National Institute of Education, Ministry of Education, Malé, Maldives; © 2025, first published 2025; ISBN 978-99915-0-956-3 (paperback); development editor Shirumeen Ahmed; printed by M7 Print Pvt. Ltd. Based on the Creative Arts in the National Curriculum syllabus, 2022. 93 PDF pp (printed pp. 1–81 plus acknowledgements and back cover; cover verified — two children painting at easels). Verdict: COMPLETE. Read in full as extracted text in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/maldives-placements.md. The book's glossary (printed pp. 79–81) is inventory only, named here and never stocked as parts.
 
@@ -99,7 +99,7 @@ countries: Maldives, Turkmenistan, Sudan, Brazil, Morocco, Bulgaria, Libya, Cuba
 | Armenia — OLD ART OR COMPUTER ART? — art, technologies and knowledge: later came colours with which manuscript miniatures were drawn, and in churches wall-paintings; Urartu's bronze winged bulls; the Erebuni fortress wall painting with its lion ornament band; a French manuscript miniature and an Armenian one ("The Crossing of the Red Sea"); then a making task: salt-dough modelling (1 cup flour, half a cup of salt, water...) (student book; original target `visual-art/computer-art-and-old-art`) | Book 21, printed p. 68 |
 
 
-**Acceptance count: taught in 12 countries (Maldives, Turkmenistan, Sudan, Brazil, Bulgaria, Cuba, Venezuela, Afghanistan, Bolivia, Malaysia, Armenia, North Macedonia).** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 13 countries (Maldives, Turkmenistan, Sudan, Brazil, Bulgaria, Cuba, Venezuela, Afghanistan, Bolivia, Malaysia, Armenia, North Macedonia, Greece).** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/digital-and-computer-art`); the two Maldives placements were filed under the original strings `visual-art/posterisation` and `visual-art/the-digital-image`, recorded in the provenance rows above.
 
@@ -148,3 +148,11 @@ Afghanistan is added as student-book stock (see its rows above), inside the acce
 | North Macedonia — Компјутерска графика — computer graphics: the artwork made in drawing and design programs, endlessly revisable, then printed, plotted or projected (student book; original target `visual-art/digital-media-and-multimedia`) | Book 23, printed pp. 82–83 |
 
 North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 24:** *Fotografia II, B' EPAL (student book, Greek)* — Title as printed: Φωτογραφία ΙΙ — Β΄ ΕΠΑ.Λ. Επιλογής, Τομέας Εφαρμοσμένων Τεχνών (Photography II, Vocational Lykeio Grade 11 elective, Applied Arts sector) Grade: Grade 11 vocational elective (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); V1 edition; ISBN 978-960-06-3188-3 (set 978-960-06-3183-6; book code 0-24-0170) PDF pages: 186 (cover verified against the record title — early Greek photographs; byte size 10,355,150 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: the second vocational year goes professional — bigger cameras, studio light, colour, infrared and the digital bench — and closes with aesthetics, ending on "the Greek aesthetic view of the phenomenon 'photography'": Greece judging its own photographic eye. Excluded per standing rules: the Επεξήγηση Όρων (explanation of terms, printed p. 178) is a glossary — inventory-only; the bibliography is apparatus. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 22).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Κεφάλαιο V: Προγράμματα επεξεργασίας εικόνας (Image-editing programmes) — file sizes; selections; colour concepts and correction of brightness, contrast and colour; filters; retouching; printers (student book; original target `visual-art/digital-image-editing`) | Book 24, printed p. 146 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

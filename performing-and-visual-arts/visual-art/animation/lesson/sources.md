@@ -1,6 +1,6 @@
 # Sources — Animation
 
-countries: Serbia, Venezuela, Malaysia
+countries: Serbia, Venezuela, Malaysia, Greece
 
 **Book 1:** *Ликовна култура — за 2. разред основне школе (Likovna kultura / Visual Culture — for Grade 2 of primary school)* (student book, Serbian) — Serbia, by др Рајка Бошковић (Dr Rajka Bošković); Завод за уџбенике (Zavod za udžbenike), Београд, and АрхиКњига (Arhiknjiga), Стара Пазова; first edition 2019 (the Arhiknjiga issue ©2021); ISBN 978-86-17-20168-3; approved for Grade 2 use by ministerial decision 650-02-00159/2019-07 of 21 May 2019, Grade 2, 56 PDF pp. (the printed book has 55 pages). STUDENT — student book. Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read (image-only PDF read visually from page renders). The record's title adds "и окружење" (and environment) — the curriculum area name, which the book's Part One carries as its title. Named, not placed: the three part summaries "НАУЧИЛИ СМО ДА..." (We learned that..., printed pp. 14, 42, 54), the closing contents (printed p. 55) and colophon — inventory only; the think boxes (РАЗМИСЛИ...) are discussion prompts folded into their lessons. Placements at liqlearns-courses-work/expansion-art-2026-11-16/serbia-placements.md.
 
@@ -20,8 +20,16 @@ countries: Serbia, Venezuela, Malaysia
 |---|---|
 | Malaysia — Bab 2 Karya Animasi dan Karya Komik — making animation works and comic works as creative design expression (student book; original target `visual-art/animation-and-comics`) | Book 4, printed pp. 81, 86 |
 
-**Acceptance count: taught in 3 countries (Serbia, Venezuela, Malaysia).** Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 4 countries (Serbia, Venezuela, Malaysia, Greece).** Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/animation`); the Serbia placements were filed under the original string(s) `drama-and-dance/animated-film`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Serbia's own way: animation is taught as a whole-class production — the printed story "Ježić" (The Little Hedgehog) is divided into 15 scenes, painted by pairs, exhibited in order and named by the class together. The story itself is placed by summary only, never transcribed.
 
 Searchable tags: animation, animated film, cartoon film, puppets, Ježić, Little Hedgehog, fifteen scenes, Serbia
+
+**Book 5:** *Eikastika A' Gymnasiou (student book, Greek)* — Title as printed: Εικαστικά Α΄ Γυμνασίου — Βιβλίο Μαθητή (Visual Arts Grade 7) Grade: Grade 7 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); revised V2 edition (2025 printing in the PDF); ISBN 978-960-06-2662-9 (book code 0-21-0018) PDF pages: 130 (cover verified against the record title; byte size 23,877,592 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: a full Gymnasium art course by two painter-engravers — every unit ends with "Τι θυμάμαι;" (What do I remember?) and a glossary; the course's crown is a whole unit spent at the Parthenon, and clay is taught as a journey through the history of ceramics from ancient civilisations. Excluded per standing rules: every unit's closing «Τι θυμάμαι; Γλωσσάρι» revision-and-glossary spread (inventory/revision only); the closing Εικαστικό Κουίζ (Art Quiz, printed p. 120) is assessment; bibliography and image credits are apparatus. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 7).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Ενότητα 6: Κινούμενο σχέδιο (Animation) — magic images — the history of the animated cartoon; step by step — the technique; games with sketches, creating drawings in sequence; cartoon stars and their symbolism (student book) | Book 5, printed p. 61 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

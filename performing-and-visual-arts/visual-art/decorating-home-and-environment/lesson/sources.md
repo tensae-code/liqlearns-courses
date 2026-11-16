@@ -1,6 +1,6 @@
 # Sources — Decorating Home and Environment
 
-countries: Ethiopia, Haiti, Finland, Turkmenistan, Belarus, Iran, Cuba, Bolivia, Malaysia, Indonesia, Armenia
+countries: Ethiopia, Haiti, Finland, Turkmenistan, Belarus, Iran, Cuba, Bolivia, Malaysia, Indonesia, Armenia, Greece
 
 **Book 1:** *Performing and Visual Arts, Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors ማስተዋል ጌታ ማስረሻ (Mastewal Geta Masresha) and ዮሐንስ ታደሰ በትሬ (Yohannes Tadesse Betre). Printed pp. i–vi + 1–170. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g07-student-placements.md.
 
@@ -69,7 +69,7 @@ countries: Ethiopia, Haiti, Finland, Turkmenistan, Belarus, Iran, Cuba, Bolivia,
 | Armenia — Decorate the cake; fill the vessel as you wish — decorating useful things beautifully (student book; original target `visual-art/decorating-home-and-environment`) | Book 14, printed p. 56 |
 
 
-**Acceptance count: taught in 7 countries (Ethiopia, Finland, Turkmenistan, Belarus, Iran, Malaysia, Armenia).** Haiti is added as teacher programme — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 8 countries (Ethiopia, Finland, Turkmenistan, Belarus, Iran, Malaysia, Armenia, Greece).** Haiti is added as teacher programme — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Honesty notes: The book's two Chapter 5 figures (paths and garden places; the ceramic interior) are described in words only, never copied. The festival-and-rains beautifying, and the soils/cattle-products/ash "paint", are taught exactly as the placement records them.
 
@@ -81,3 +81,11 @@ Searchable tags: decorating, home and environment, ceramics, pottery, beautifyin
 | Lesson part | Where it comes from |
 |---|---|
 | Cuba — Unit 6, El diseño del ambiente escolar — decorating the classroom for the end of the course with paper work, beautifying the school environment by hand (teacher guide — evidence; original target `visual-art/decorating-home-and-environment`) | Book 7, printed p. 63 |
+
+**Book 15:** *Eikastika B' Gymnasiou (student book, Greek)* — Title as printed: Εικαστικά Β΄ Γυμνασίου — Βιβλίο Μαθητή (Visual Arts Grade 8) Grade: Grade 8 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); revised V2 edition (2025 printing in the PDF); ISBN 978-960-06-2711-4 (book code 0-21-0077) PDF pages: 114 (cover verified against the record title; byte size 23,557,700 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: an applied-arts year — interiors and stage sets, texture and volume — that keeps returning to Greece: woodcarving taught as a Greek traditional craft, Byzantine art as a full theme (church architecture, the portable icon's technique), and scenography that begins at the ancient theatre. Excluded per standing rules: the per-theme «ΓΛΩΣΣΑΡΙ» (glossary) sections are inventory-only; the closing suggested bibliography is apparatus — named here, not stocked. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 12).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Ενότητα 2, Θέμα 1: Διακόσμηση εσωτερικών χώρων (Interior decoration) — the role of colours in a space, the properties and families of colours, the role of light, composition in the interior, decoration and decorative styles (student book) | Book 15, printed p. 42 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

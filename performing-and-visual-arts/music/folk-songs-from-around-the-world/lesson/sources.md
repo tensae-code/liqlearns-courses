@@ -1,6 +1,6 @@
 # Sources — Folk Songs from Around the World
 
-countries: Armenia
+countries: Armenia, Greece
 
 **Book 1:** *Երաժշտություն 2 (Music 2), publisher imprint "Արևիկ" (Arevik), Yerevan* (student book, Armenian) — Armenia, Arevik, Yerevan; year 2023; ISBN not printed in the extracted front matter. Grade: 2 (student/teacher: STUDENT). PDF pages: 124 (cover verified; byte size 31,347,883 matches the release index exactly; fetched via the recorded ministry source_url). Verdict: COMPLETE (appendix, printed pp. 110-121, is sheet music of the book's songs — inventory only, not placed). Authors include Anahit Gevorgyan, Ani Baghdasaryan, Gohar Meliksetyan. Built on three themes: "The simple and accessible genres of music" (march, song, dance, opera, ballet, symphony), "How music is created (the musical alphabet)" and "The expressive means of music" — composers themselves greet the child in first-person letters (Komitas, Robert Petrosyan, Tchaikovsky, Mozart, Saint-Saëns). Armenia's own way: the Armenian alphabet gets its own song, Komitas writes the child a letter about his childhood name Soghomon, and the folk songs are sung three ways — with words, with notes, and with hand signs. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md.
 
@@ -14,8 +14,32 @@ countries: Armenia
 |---|---|
 | Armenia — In what language are folk songs sung — besides literary Armenian there are many dialects: Komitas's noted and arranged "The rain has come"; Naples' song "Santa Lucia" in its own dialect (student book; original target `music/singing-in-different-languages`) | Book 2, printed p. 18 |
 
-**Acceptance count: taught in 1 country (Armenia).**
+**Acceptance count: taught in 2 countries (Armenia, Greece).**
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/folk-songs-from-around-the-world`). The Armenia placements were filed under the original string(s) `music/singing-in-different-languages`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2 where the string differs. Armenia's own way is the lesson itself where the topic is Armenian: the country's own music, dances, crafts and art forms are kept as named parts. Songs are placed by title and theme only, never transcribed.
 
 Searchable tags: Armenia, Folk Songs from Around the World, The tale of Queen Music (Հեքիաթ երաժշտություն թագուհու մասին)
+
+**Book 3:** *Mousiki G'-D' Dimotikou (student book, Greek)* — Title as printed: Μουσική Γ΄ & Δ΄ Δημοτικού — Βιβλίο Μαθητή Grade: Grades 3-4 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); year 2013 (revised printings 2015-16 in the PDF); ISBN 978-960-06-2534-9 (book code 0-10-0073) PDF pages: 90 (cover verified against the record title — ancient Greek lyre player on the cover; byte size 9,170,811 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: an Orff-style journey (lead author is an Orff music pedagogue) — sound adventures, voice games and homemade instruments first, notation growing out of play; Greece enters by name in the Greek folk instruments chapter and the May-tree custom. Excluded per standing rules: Ch. 16 «Ακούγοντας μουσική θυμάμαι...» (printed p. 53) is a consolidation/revision chapter of listening-recall games — not placed; the closing Γλωσσάρι (glossary) is inventory-only — named, not stocked. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 3).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — 24. Ταξιδεύοντας με τη μουσική σε όλη τη γη (Travelling with music over all the earth) — a music-balloon journey meeting the music of different countries and peoples (student book; original target `music/music-around-the-world`) | Book 3, printed p. 80 |
+
+**Book 4:** *Mousiki B' Gymnasiou, Tetradio Ergasion (workbook, Greek)* — Title as printed: Μουσική Β΄ Γυμνασίου — Τετράδιο Εργασιών (Music Grade 8 — Workbook) Grade: Grade 8 (student/teacher: STUDENT workbook) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); year 2013; ISBN 978-960-06-2723-7 (book code 0-21-0219) PDF pages: 58 (cover verified against the record title; byte size 5,065,097 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: the world first, then home — after Africa, India, Bali, China, Japan, Latin America and Europe, the last and longest unit is «Ο γύρος της Ελλάδας» (The tour of Greece): asymmetric Greek metres, region-by-region song origins, and learning to name the gaida, tsambouna, Cretan lyra, santouri, kanonaki, zournas, clarino and daouli by ear alone, with the zygies and kompanies (regional ensembles) mapped. Excluded per standing rules: each unit's closing «Τι έμαθα...» (What I learned) self-check pages are revision/assessment — named here, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 13).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Ένας κόσμος... μετά μουσικής: Μουσικές της Γης (A world... with music: Musics of the Earth) — hearing five samples from different parts of the world and placing their origins; matching instruments (santouri, toumbeleki, bells, gaida) to the idiophone/chordophone/aerophone/membranophone families (workbook; original target `music/music-around-the-world`) | Book 4, printed p. 5 |
+| Greece — Η πολυσύνθετη μουσική της Κίνας (China's many-layered music) — Chinese music's texture, met through Tchaikovsky's Chinese Dance in the Nutcracker; adding cymbals and sound effects to a text (workbook; original target `music/music-around-the-world`) | Book 4, printed p. 15 |
+| Greece — Μουσική για... χορό: Η μουσική στη Λατινική Αμερική (Music for dance: Latin America) — hearing three excerpts and naming which musical civilisation influenced each; accompanying a song with improvised desk-and-pencil rhythm patterns (workbook; original target `music/music-around-the-world`) | Book 4, printed p. 20 |
+
+**Book 5:** *Mousiki B' Gymnasiou (student book, Greek)* — Title as printed: Μουσική Β΄ Γυμνασίου — Βιβλίο Μαθητή (Music Grade 8) Grade: Grade 8 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); ISBN 978-960-06-2722-0 (book code 0-21-0089) PDF pages: 86 (cover verified against the record title; byte size 7,104,208 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: the teaching text behind Book 13's workbook — a round-the-world year that defines traditional music and ethnomusicology properly (Hornbostel–Sachs instrument classification), then lands home for its longest unit: Greece's rhythms, regions, instruments and ensembles. Excluded per standing rules: the closing Ευρετήριο (index, printed p. 82) is apparatus. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 14).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Μουσικές της γης (Musics of the earth) — what traditional music is — a people's music spread orally and evolving through variation; ethnomusicology; the Hornbostel–Sachs classification of all instruments into chordophones, membranophones, aerophones and idiophones (student book; original target `music/music-around-the-world`) | Book 5, printed p. 8 |
+| Greece — Η πολυσύνθετη μουσική της Κίνας (China's many-layered music) — the layered texture of Chinese music and its instruments (student book; original target `music/music-around-the-world`) | Book 5, printed p. 26 |
+| Greece — Η μουσική στη Λατινική Αμερική (Music in Latin America) — Latin America's music as a meeting of Indigenous, African and European civilisations (student book; original target `music/music-around-the-world`) | Book 5, printed p. 34 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

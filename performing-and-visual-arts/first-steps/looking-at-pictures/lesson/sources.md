@@ -1,6 +1,6 @@
 # Sources — Looking at Pictures
 
-countries: Ethiopia, Honduras, Singapore, Finland, Morocco, Libya, Mongolia, Rwanda, Moldova, Indonesia
+countries: Ethiopia, Honduras, Singapore, Finland, Morocco, Libya, Mongolia, Rwanda, Moldova, Indonesia, Greece
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -77,7 +77,7 @@ countries: Ethiopia, Honduras, Singapore, Finland, Morocco, Libya, Mongolia, Rwa
 |---|---|
 | Indonesia — Bab II Bicara Tentang Karya — talking about artworks — the basic art vocabulary (point, line, shape, form, colour) and the expression words a work can carry (cheerful, calm, crowded, dark, warm), with positive comments on friends' work (teacher guide — evidence; original target `first-steps/looking-at-pictures`) | Book 17, printed p. 102 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Honduras, Finland, Mongolia, Moldova). Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 6 countries (Ethiopia, Honduras, Finland, Mongolia, Moldova, Greece). Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Sub lesson 1 rests on the Grade 1 teacher guide's named visual-perception skill and is labelled teacher-guide evidence in the table; the lesson as a whole also rests on the student book's §1.5, so the acceptance count below counts the student book. The four family scenes are the student book's own §1.5 picture pages, described — not reproduced.
 
@@ -96,3 +96,18 @@ Searchable tags: looking at pictures, reading a picture, picture message, identi
 | Lesson part | Where it comes from |
 |---|---|
 | Libya — Works by Libyan artists — the trees lesson studies paintings by Libyan artists (the Sidi al-Misri forest in Tripoli), then builds its own trees in pictured stages: sketching the elements, the outlines, the details, and three stages of colouring (teacher guide — evidence; original target `first-steps/looking-at-pictures`) | Book 10, printed pp. 79–85 |
+
+**Book 18:** *Eikastika A' Gymnasiou, Tetradio Ergasion (workbook, Greek)* — Title as printed: Εικαστικά Α΄ Γυμνασίου — Τετράδιο Εργασιών (Visual Arts Grade 7 — Workbook) Grade: Grade 7 (student/teacher: STUDENT workbook) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); revised V2 edition (2025 printing in the PDF); ISBN 978-960-06-2663-6 (book code 0-21-0019) PDF pages: 34 (cover verified against the record title; byte size 6,570,847 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: a personal sketch-portfolio the pupil fills all year — collecting doodles, colour swatches, technique samples and artwork analyses; Greek heritage enters through the statues' axes exercise and completing the Parthenon in pencil. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 6).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Τι συμβαίνει εδώ; Παρατηρώ, συγκρίνω, ταξινομώ (What's happening here? I observe, compare, classify) — sorting works 2-7 into abstract and representational and saying why (workbook) | Book 18, printed p. 7 |
+| Greece — Ανθρώπινες μορφές (Human forms) — completing the rest of a photograph by imagination, and judging works 36-39 — abstract or representational, what exactly they show (workbook) | Book 18, printed p. 16 |
+
+**Book 19:** *Εικαστικά Γ΄ & Δ΄ Δημοτικού (student book, Greek)* — Title as printed: Εικαστικά Γ΄ & Δ΄ Δημοτικού (Visual Arts, Primary Grades 3 & 4), by Θωμάς Ζωγράφος, Αριάδνη Αξαοπούλου, Δημήτρης Μπέσσας, Ελεονόρα Μπέσσα Grade: 4 record (the book serves Grades 3 & 4; student/teacher: STUDENT) Publisher: ITYE «Διόφαντος», book code 0-10-0070, ISBN 978-960-06-2531-8 PDF pages: 98 (byte size 26,373,502 matches the record exactly; cover and contents verified) Verdict: COMPLETE Greece's own way: the older-primary art book walks from formal elements to Greece's own heritage — two dialogues in ancient Greek art and Byzantine icon painting — and out to Duchamp-style found objects and sculptures that move. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 33).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Unit B B5: Δημιουργίες μέσα από τον μεγεθυντικό φακό (creations through the magnifying lens — looking very closely) (student book) | Book 19, printed p. 47 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

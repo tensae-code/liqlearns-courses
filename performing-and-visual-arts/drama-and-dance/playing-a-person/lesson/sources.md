@@ -1,6 +1,6 @@
 # Sources — Playing a Person
 
-countries: Ethiopia, Egypt, Samoa, Nicaragua, Romania, Colombia, Papua New Guinea, Brazil, Morocco, Jordan, Sri Lanka, Venezuela, Malaysia, Indonesia
+countries: Ethiopia, Egypt, Samoa, Nicaragua, Romania, Colombia, Papua New Guinea, Brazil, Morocco, Jordan, Sri Lanka, Venezuela, Malaysia, Indonesia, Greece
 
 **Book 2:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -107,7 +107,7 @@ countries: Ethiopia, Egypt, Samoa, Nicaragua, Romania, Colombia, Papua New Guine
 |---|---|
 | Indonesia — Bab 3 Mewujudkan Tokoh — realising a character — the character's profile, showing the character, and understanding action and reaction (aksi–reaksi) (teacher guide — evidence; original target `drama-and-dance/playing-a-person`) | Book 23, printed p. 149 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Egypt, Romania, Colombia, Brazil, Jordan, Venezuela, Malaysia).** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 9 countries (Ethiopia, Egypt, Romania, Colombia, Brazil, Jordan, Venezuela, Malaysia, Greece).** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Book error, taught corrected: the Grade 2 book mislabels the artist's activity as ተግባር 2.3.1 (a publisher numbering error, flagged in the placement); the lesson follows the roles' printed order (§§2.3–2.3.6), not the faulty activity number. The teacher's praise song ንኢር መምህሬ (Nur Mehire) shares §2.3.4 with the teacher role; the song itself is stocked in the Music lessons and is named here only, not taught as a song.
 
@@ -129,3 +129,19 @@ Searchable tags: playing a person, theatre game, role play, father, mother, teac
 |---|---|
 
 | Sri Lanka — Competency 2.2 "Let's study roles" — role (භූමිකා) analysis — how one person carries many roles (the guide's diagram webs a single figure's roles at home, school and society) and how a stage role is built from the roles of life (teacher guide — evidence; original target `drama-and-dance/playing-a-person`) | Book 14, printed pp. 13–14 |
+
+**Book 24:** *Theatriki Agogi E'-ST' Dimotikou (student book, Greek)* — Title as printed: Θεατρική Αγωγή Ε΄ & Στ΄ Δημοτικού (Theatre Education, Grades 5 & 6) Grade: Grades 5-6 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); year 2013 (revised printing 2015); ISBN 978-960-06-2606-7 (book code 0-10-0142) PDF pages: 106 (cover verified against the record title — portraits of Antigone and of Karolos Koun on the cover; byte size 11,795,755 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: theatre taught as a GAME with levels called "zones" — the class plays its way from circle name-games to a full performance, every zone run twice, once at Grade 5 level and once harder at Grade 6; the cover honours Sophocles' Antigone and Karolos Koun, founder of Greece's Art Theatre. Excluded per standing rules: Appendix 1 «Με τη γλώσσα του θεάτρου» (printed p. 101) is a theatre-language word list — inventory-only, named here, not stocked. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 5).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Ζώνη 3: Εγώ κι εσύ (Zone 3: Me and you) — pair work — facing a partner, mirroring and answering another person in play (Grade 5 p. 23, Grade 6 p. 26) (student book) | Book 24, printed p. 22 |
+| Greece — Ζώνη 13: Πορεία της Θεατρικής Παράστασης 2 — Ρόλος (Zone 13: Road to the Performance 2 — the role) — building a role — becoming the character for the performance (Grade 5 p. 78, Grade 6 p. 80) (student book) | Book 24, printed p. 77 |
+
+**Book 25:** *Θεατρική Αγωγή Ε΄ & Στ΄ Δημοτικού (student book, Greek)* — Title as printed: Θεατρική Αγωγή Ε΄ & Στ΄ Δημοτικού (Theatre Education, Primary Grades 5 & 6), by Πέτρος Μουγιακάκος, Αντιγόνη Μώρου, Χρήστος Παπαδημούλης, Μαρία Φραγκή Grade: 6 record (the book serves Grades 5 & 6; student/teacher: STUDENT) Publisher: ITYE «Διόφαντος», book code 0-10-0142, ISBN 978-960-06-2608-7 PDF pages: 106 (byte size 11,795,755 matches the record exactly; cover and contents verified — 16 "zones", each worked at both grade levels, plus two appendices) Verdict: COMPLETE Greece's own way: a whole primary theatre course built as zones of play — body, expression, partner, group, space, object, action, improvisation — that grow, zone by zone, into dramatisation, play-writing and a full school production the children then watch as audience. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 43).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Zone 2: Σώμα και έκφραση (body and expression) (student book) | Book 25, printed  |
+| Greece — Zone 13: Πορεία της Θεατρικής Παράστασης 2: Ρόλος (the road to the performance 2 — the role) (student book) | Book 25, printed  |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

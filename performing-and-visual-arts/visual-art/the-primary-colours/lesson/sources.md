@@ -1,7 +1,7 @@
 # Sources — The Primary Colours
 
 
-countries: Ethiopia, Barbados, Nicaragua, Pakistan, Fiji, Colombia, Iran, Jordan, Angola, Afghanistan, Rwanda, Moldova, Syria, Armenia
+countries: Ethiopia, Barbados, Nicaragua, Pakistan, Fiji, Colombia, Iran, Jordan, Angola, Afghanistan, Rwanda, Moldova, Syria, Armenia, Greece
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -77,7 +77,7 @@ countries: Ethiopia, Barbados, Nicaragua, Pakistan, Fiji, Colombia, Iran, Jordan
 | Armenia — COLOUR (ԳՈՒՅՆ) — there are three main colours: the primary colours introduced (student book; original target `visual-art/the-primary-colours`) | Book 18, printed p. 11 |
 
 
-**Acceptance count: taught in 12 countries (Ethiopia, Pakistan, Fiji, Colombia, Iran, Jordan, Angola, Afghanistan, Rwanda, Moldova, Syria, Armenia). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 13 countries (Ethiopia, Pakistan, Fiji, Colombia, Iran, Jordan, Angola, Afghanistan, Rwanda, Moldova, Syria, Armenia, Greece). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Sub lesson 5 rests on teacher-guide evidence only for its own content (the Grade 3 teacher guide's basic-colours lesson and colour framework); it is labelled as evidence in the part name, in the lesson text and in this table. The lesson as a whole stands on the Grade 3 student textbook, so the acceptance count counts pupil-taught content. The song "መስራች ቀለማት" is named and its teaching summarised only — its words are not transcribed; the song is sung in the Music unit's Primary Colours Song lesson. The Grade 3 chapter summary's closing exercise carries the check item "green is a primary colour — false", which the question stock uses.
 
@@ -103,3 +103,11 @@ Searchable tags: primary colours መስራች, red yellow blue, basic colours, m
 | Afghanistan — Lesson 20: The primary colours (رنگ‌های اصلی) — the colours seen above — yellow, red, blue — are the primary colours; picking the primaries out from purple, green and orange, and finding primary-coloured objects at home (student book; original target `visual-art/the-primary-colours`) | Book 12, printed p. 39 |
 
 Afghanistan is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 19:** *Εικαστικά Α΄ & Β΄ Δημοτικού, new edition (student book, Greek) — also the content of the older-edition Grade 2 art record (see Book 2 note)* — Title as printed: Εικαστικά (Visual Arts) Α΄ & Β΄ Δημοτικού Grade: 1–2 (record filed at grade-02) (student/teacher: STUDENT) Publisher: Υπουργείο Παιδείας / ΙΤΥΕ «Διόφαντος»; book code 10-0231; ISBN 978-960-06-3475-5 (cover barcode, looked at) PDF pages: 98 (cover verified — red cover, Εικαστικά Α΄ & Β΄ Δημοτικού) Verdict: COMPLETE — note: the PDF served for the new-edition record carries the same 10-0022 indd content and the same contents list as the older edition; the two records are placed once here and both editions are named in this header. Greece's own way: a studio-style art book for the youngest pupils — every lesson starts from looking closely (lines in a leaf, a fish skeleton, a snail; famous paintings) and ends in making, with Greek artists (Dimitris Mytaras' studio, a "painter of joy and dream") and Paul Klee as the children's guides. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 24).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — A3 Η γέφυρα του ουράνιου τόξου (The rainbow's bridge — the colours of the rainbow) (student book) | Book 19, printed p. 18 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

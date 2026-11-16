@@ -1,7 +1,7 @@
 # Sources — Shapes You Can Draw
 
 
-countries: Ethiopia, Albania, Romania, Haiti, Serbia, Pakistan, Fiji, Sudan, Belarus, Morocco, Jordan, Sri Lanka, Libya, Angola, Mongolia, Afghanistan, Rwanda, Bolivia, Indonesia, Syria, Armenia
+countries: Ethiopia, Albania, Romania, Haiti, Serbia, Pakistan, Fiji, Sudan, Belarus, Morocco, Jordan, Sri Lanka, Libya, Angola, Mongolia, Afghanistan, Rwanda, Bolivia, Indonesia, Syria, Armenia, Greece
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -230,7 +230,7 @@ countries: Ethiopia, Albania, Romania, Haiti, Serbia, Pakistan, Fiji, Sudan, Bel
 | Armenia — FORM (ՁԵՎ) — form is a thing's outer look, its outline its edge-line (student book; original target `visual-art/shapes-you-can-draw`) | Book 51, printed p. 24 |
 
 
-**Acceptance count: taught in 16 countries (Ethiopia, Romania, Serbia, Pakistan, Fiji, Sudan, Belarus, Jordan, Sri Lanka, Angola, Mongolia, Afghanistan, Rwanda, Bolivia, Syria, Armenia).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 17 countries (Ethiopia, Romania, Serbia, Pakistan, Fiji, Sudan, Belarus, Jordan, Sri Lanka, Angola, Mongolia, Afghanistan, Rwanda, Bolivia, Syria, Armenia, Greece).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 3 forms placement (printed pp. 30–31) also carries a paper-collage picture (Drawing 17, flowers made by cutting and pasting papers); collage-making belongs to the Making cluster of this course, so only the forms content of those pages is stocked here and the collage is not taught in this lesson. Grade 2's house placement spans printed pp. 36–38 and the car placement is on printed p. 38, exactly as placed.
 
@@ -314,3 +314,17 @@ Searchable tags: shapes, oval ዝርግ ቅርፅ open shape, regular shapes, ge
 | Afghanistan — Lesson 13: Drawing geometric shapes (ترسیم اشکال هندسی) — drawing the geometric shapes (the cover shows the cone and the cube among them) (student book; original target `visual-art/shapes-you-can-draw`) | Book 31, printed p. 25 |
 
 Afghanistan is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 52:** *Eikastika A'-B' Dimotikou (student book, Greek)* — Title as printed: Εικαστικά Α΄ & Β΄ Δημοτικού — Βιβλίο Μαθητή Grade: Grades 1-2 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); year 2013 (αναθεωρημένη έκδοση); ISBN 978-960-06-2475-5 (book code 0-10-0231) PDF pages: 98 (cover/title page verified against the record title; byte size 41,216,105 matches the record exactly) Verdict: COMPLETE Greece's own way: a story-and-picture journey book — each chapter opens with artworks (Greek painters Dimitris Mytaras, Alexis Akrithakis, Giannis Gaitis, Vasilis Skylakos; also Dubuffet and Paul Klee) and turns looking into making; nature materials and even rubbish are treated as art supplies. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 1).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Α2 Ο κόσμος όλος με σχήματα (The whole world in shapes) — seeing circle/rectangle/triangle/square in tree and house, cutting coloured-paper shapes and building a collage vase of flowers (student book) | Book 52, printed p. 14 |
+
+**Book 53:** *Εικαστικά Α΄ & Β΄ Δημοτικού, new edition (student book, Greek) — also the content of the older-edition Grade 2 art record (see Book 2 note)* — Title as printed: Εικαστικά (Visual Arts) Α΄ & Β΄ Δημοτικού Grade: 1–2 (record filed at grade-02) (student/teacher: STUDENT) Publisher: Υπουργείο Παιδείας / ΙΤΥΕ «Διόφαντος»; book code 10-0231; ISBN 978-960-06-3475-5 (cover barcode, looked at) PDF pages: 98 (cover verified — red cover, Εικαστικά Α΄ & Β΄ Δημοτικού) Verdict: COMPLETE — note: the PDF served for the new-edition record carries the same 10-0022 indd content and the same contents list as the older edition; the two records are placed once here and both editions are named in this header. Greece's own way: a studio-style art book for the youngest pupils — every lesson starts from looking closely (lines in a leaf, a fish skeleton, a snail; famous paintings) and ends in making, with Greek artists (Dimitris Mytaras' studio, a "painter of joy and dream") and Paul Klee as the children's guides. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 24).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — A2 Ο κόσμος όλος με σχήματα (The whole world made of shapes) (student book) | Book 53, printed p. 14 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

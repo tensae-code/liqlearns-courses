@@ -1,6 +1,6 @@
 # Sources — The Human Voice
 
-countries: Honduras, Colombia, Venezuela, Mongolia
+countries: Honduras, Colombia, Venezuela, Mongolia, Greece
 
 **Book 1:** *Libro del Estudiante — Educación Artística — 8vo Grado (Telebásica)* (student book, Spanish) — Honduras, Secretaría de Educación, República de Honduras (Programa de Televisión Educativa Hondureña — Telebásica); author Licda. Corina Milikza Hernández Estrada; no year printed on the pages read; no ISBN printed, Grade 8, 290 PDF pp. STUDENT. Verdict: COMPLETE. Fetched from the recorded libroshonduras.com source URLs. Placements at liqlearns-courses-work/expansion-art-2026-11-16/honduras-placements.md.
 
@@ -22,8 +22,16 @@ countries: Honduras, Colombia, Venezuela, Mongolia
 |---|---|
 | Mongolia — Би гоё харагдаж байна уу? / Хөгжилтэй агшин (Do I look nice? / A fun moment) — a singing-posture game: standing straight with a book balanced on the head, breathing deeply and letting the breath out slowly while the teacher counts to ten; then the nonsense-word song "Goyo goyo" sung with movements and clapping in place of the words (student book; original target `music/using-your-voice`) | Book 4, printed p. 5 |
 
-**Acceptance count: taught in 4 countries(Honduras, Colombia, Venezuela, Mongolia).** Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 5 countries (Honduras, Colombia, Venezuela, Mongolia, Greece).** Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/the-human-voice`). Honduras's own way: the Grade 8 Telebásica book teaches musical intonation from the voice itself — its apparatus first, then its classification.
 
 Searchable tags: human voice, la voz humana, aparato fonador, phonation, voice classification, Honduras, Colombia
+
+**Book 5:** *Μουσική Στ΄ Δημοτικού (student book, Greek)* — Title as printed: Μουσική Στ΄ Δημοτικού (Music, Primary Grade 6), by Μαρία Θεοδωρακοπούλου, Γρηγόριος Παπαντώνης, Χαρίκλεια-Άννα Παρασκευοπούλου, Ιωάννης Σπετσιώτης Grade: 6 (student/teacher: STUDENT) Publisher: ITYE «Διόφαντος», book code 0-10-0175, ISBN 978-960-06-2641-4 PDF pages: 82 (byte size 20,359,696 matches the record exactly; cover and contents verified) Verdict: COMPLETE — songs placed by theme only (no lyrics). Greece's own way: the final primary year gives Greek music its own history (Topics 9–10: Η ελληνική μουσική στους αιώνες — Greek music through the centuries) and binds music to freedom (Topics 8 & 17: people–song–freedom; songs for liberty). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 41).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Topic 3: Φωνή, η δική σου ταυτότητα (Voice — your own identity) (student book; original target `music/the-voice-as-identity`) | Book 5, printed p. 11 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

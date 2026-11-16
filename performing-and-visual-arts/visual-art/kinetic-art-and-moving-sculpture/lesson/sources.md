@@ -1,6 +1,6 @@
 # Sources — Kinetic Art and Moving Sculpture
 
-countries: Serbia, North Macedonia
+countries: Serbia, North Macedonia, Greece
 
 **Book 1:** *Ликовна култура — за 2. разред основне школе (Likovna kultura / Visual Culture — for Grade 2 of primary school)* (student book, Serbian) — Serbia, by др Рајка Бошковић (Dr Rajka Bošković); Завод за уџбенике (Zavod za udžbenike), Београд, and АрхиКњига (Arhiknjiga), Стара Пазова; first edition 2019 (the Arhiknjiga issue ©2021); ISBN 978-86-17-20168-3; approved for Grade 2 use by ministerial decision 650-02-00159/2019-07 of 21 May 2019, Grade 2, 56 PDF pp. (the printed book has 55 pages). STUDENT — student book. Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read (image-only PDF read visually from page renders). The record's title adds "и окружење" (and environment) — the curriculum area name, which the book's Part One carries as its title. Named, not placed: the three part summaries "НАУЧИЛИ СМО ДА..." (We learned that..., printed pp. 14, 42, 54), the closing contents (printed p. 55) and colophon — inventory only; the think boxes (РАЗМИСЛИ...) are discussion prompts folded into their lessons. Placements at liqlearns-courses-work/expansion-art-2026-11-16/serbia-placements.md.
 
@@ -8,7 +8,7 @@ countries: Serbia, North Macedonia
 |---|---|
 | Serbia — "Moving sculptures" — during the 20th century artists took up new ways of artistic work; one new kind of artwork is sculptures of different materials that move — their parts move at the slightest breath of wind — and such works are called moving sculptures (Calder's mobiles pictured, hanging and standing); using wire, sticky tape and pieces of coloured collage paper, make a sculpture of an animal of your choice, but such that its parts can flutter in a current of air (original target `visual-art/kinetic-sculpture-and-mobiles`) | Book 1, printed pp. 40–41 |
 
-**Acceptance count: taught in 2 countries (Serbia, North Macedonia).**
+**Acceptance count: taught in 3 countries (Serbia, North Macedonia, Greece).**
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/kinetic-art-and-moving-sculpture`); the Serbia placements were filed under the original string(s) `visual-art/kinetic-sculpture-and-mobiles`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Serbia's own way: the moving sculpture is taught as a making first — the child's own wire-and-paper animal must flutter in a current of air, as Calder's mobiles hang and stand in the book's pictures.
 
@@ -21,3 +21,29 @@ Searchable tags: kinetic art, moving sculpture, mobiles, Calder, wind, flutter, 
 | North Macedonia — Кинетичка уметност — kinetic art: sculpture that really moves, by wind, weight or motor — Calder's mobiles (student book; original target `visual-art/kinetic-art`) | Book 2, printed p. 138 |
 
 North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 3:** *Eikastika A'-B' Dimotikou (student book, Greek)* — Title as printed: Εικαστικά Α΄ & Β΄ Δημοτικού — Βιβλίο Μαθητή Grade: Grades 1-2 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); year 2013 (αναθεωρημένη έκδοση); ISBN 978-960-06-2475-5 (book code 0-10-0231) PDF pages: 98 (cover/title page verified against the record title; byte size 41,216,105 matches the record exactly) Verdict: COMPLETE Greece's own way: a story-and-picture journey book — each chapter opens with artworks (Greek painters Dimitris Mytaras, Alexis Akrithakis, Giannis Gaitis, Vasilis Skylakos; also Dubuffet and Paul Klee) and turns looking into making; nature materials and even rubbish are treated as art supplies. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 1).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Γ3 Αιωρούμενα παιχνίδια (Hanging/balancing toys) — how cranes and porters balance loads; building a balance scale from twigs and hanging balancing toys (student book; original target `visual-art/mobiles-and-balancing-toys`) | Book 3, printed p. 61 |
+
+**Book 4:** *Eikastika G'-D' Dimotikou (student book, Greek)* — Title as printed: Εικαστικά Γ΄ & Δ΄ Δημοτικού — Βιβλίο Μαθητή Grade: Grades 3-4 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); year 2013, revised printing 2015; ISBN 978-960-06-2531-8 (book code 0-10-0070) PDF pages: 98 (cover/title page verified against the record title; byte size 26,373,502 matches the record exactly — fetched from the record's ministry source_url after the GitHub API grab dropped twice with RemoteDisconnected) Verdict: COMPLETE Greece's own way: the elements of art (points, lines, shapes, colour) are taught through named artists — Greek (Chryssa Romanou, Stefanos Antonakos, Pavlos) and world (Seurat, Klee, Moore, Picasso) — and through Greece's own heritage: ancient Greek sculpture and Byzantine icon painting taught by visiting a working icon painter's studio. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 2).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Δ5 Γλυπτά που πάλλονται (Sculptures that pulse) — experimenting with magnets and small metal objects, recording observations, and naming/building little magnetic sculptures (student book; original target `visual-art/kinetic-and-magnetic-sculpture`) | Book 4, printed p. 85 |
+
+**Book 5:** *Εικαστικά Α΄ & Β΄ Δημοτικού, new edition (student book, Greek) — also the content of the older-edition Grade 2 art record (see Book 2 note)* — Title as printed: Εικαστικά (Visual Arts) Α΄ & Β΄ Δημοτικού Grade: 1–2 (record filed at grade-02) (student/teacher: STUDENT) Publisher: Υπουργείο Παιδείας / ΙΤΥΕ «Διόφαντος»; book code 10-0231; ISBN 978-960-06-3475-5 (cover barcode, looked at) PDF pages: 98 (cover verified — red cover, Εικαστικά Α΄ & Β΄ Δημοτικού) Verdict: COMPLETE — note: the PDF served for the new-edition record carries the same 10-0022 indd content and the same contents list as the older edition; the two records are placed once here and both editions are named in this header. Greece's own way: a studio-style art book for the youngest pupils — every lesson starts from looking closely (lines in a leaf, a fish skeleton, a snail; famous paintings) and ends in making, with Greek artists (Dimitris Mytaras' studio, a "painter of joy and dream") and Paul Klee as the children's guides. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 24).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Γ3 Αιωρούμενα παιχνίδια (Hanging/swinging toys — mobiles that move in the air) (student book; original target `visual-art/mobiles-and-hanging-toys`) | Book 5, printed p. 61 |
+
+**Book 6:** *Εικαστικά Γ΄ & Δ΄ Δημοτικού (student book, Greek)* — Title as printed: Εικαστικά Γ΄ & Δ΄ Δημοτικού (Visual Arts, Primary Grades 3 & 4), by Θωμάς Ζωγράφος, Αριάδνη Αξαοπούλου, Δημήτρης Μπέσσας, Ελεονόρα Μπέσσα Grade: 4 record (the book serves Grades 3 & 4; student/teacher: STUDENT) Publisher: ITYE «Διόφαντος», book code 0-10-0070, ISBN 978-960-06-2531-8 PDF pages: 98 (byte size 26,373,502 matches the record exactly; cover and contents verified) Verdict: COMPLETE Greece's own way: the older-primary art book walks from formal elements to Greece's own heritage — two dialogues in ancient Greek art and Byzantine icon painting — and out to Duchamp-style found objects and sculptures that move. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 33).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Unit Δ Δ5: Γλυπτά που πάλλονται (sculptures that vibrate — moving/kinetic sculpture) (student book; original target `visual-art/kinetic-sculpture`) | Book 6, printed p. 85 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

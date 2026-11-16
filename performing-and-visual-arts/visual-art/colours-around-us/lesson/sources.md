@@ -1,7 +1,7 @@
 # Sources — Colours Around Us
 
 
-countries: Ethiopia, Guatemala, Mozambique, Colombia, Sudan, Brazil, Libya, Saudi Arabia, Angola, Afghanistan, Rwanda, Bolivia, Moldova, Indonesia, Armenia
+countries: Ethiopia, Guatemala, Mozambique, Colombia, Sudan, Brazil, Libya, Saudi Arabia, Angola, Afghanistan, Rwanda, Bolivia, Moldova, Indonesia, Armenia, Greece
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -120,7 +120,7 @@ countries: Ethiopia, Guatemala, Mozambique, Colombia, Sudan, Brazil, Libya, Saud
 | Armenia — The first colour set (teacher-guide evidence) — tell apart and use red, yellow, green, blue, black, white and brown (teacher guide — evidence; original target `visual-art/colours-around-us`) | Book 27, printed p. 6 |
 
 
-**Acceptance count: taught in 11 countries (Ethiopia, Mozambique, Colombia, Sudan, Brazil, Saudi Arabia, Angola, Afghanistan, Bolivia, Moldova, Armenia). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 12 countries (Ethiopia, Mozambique, Colombia, Sudan, Brazil, Saudi Arabia, Angola, Afghanistan, Bolivia, Moldova, Armenia, Greece). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Sub lesson 6 rests on teacher-guide evidence only for its own content; it is labelled as evidence in the part name, in the lesson text and in this table. The Grade 2 teacher guide is a scan with no usable text layer, read visually; its citation here is at section level only, as its placements require. The lesson as a whole stands on the Grade 1 and Grade 3 student textbooks, so the acceptance count counts pupil-taught content. The Grade 1 Chapter 3 summary's line — colours distinguish our clothes and beautify the surroundings (plants green, flowers red and yellow) — is carried in Colours on Clothes and in the question stock of this lesson, under the folding rules.
 
@@ -153,3 +153,30 @@ Searchable tags: colours around us, yellow adey bananas, red roses sunrise sacri
 | Afghanistan — Lesson 4: Kinds of colours (انواع رنگ‌ها) — the different kinds of colours, met in pictures (student book; original target `visual-art/colours-around-us`) | Book 16, printed p. 7 |
 
 Afghanistan is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 28:** *Eikastika A'-B' Dimotikou (student book, Greek)* — Title as printed: Εικαστικά Α΄ & Β΄ Δημοτικού — Βιβλίο Μαθητή Grade: Grades 1-2 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); year 2013 (αναθεωρημένη έκδοση); ISBN 978-960-06-2475-5 (book code 0-10-0231) PDF pages: 98 (cover/title page verified against the record title; byte size 41,216,105 matches the record exactly) Verdict: COMPLETE Greece's own way: a story-and-picture journey book — each chapter opens with artworks (Greek painters Dimitris Mytaras, Alexis Akrithakis, Giannis Gaitis, Vasilis Skylakos; also Dubuffet and Paul Klee) and turns looking into making; nature materials and even rubbish are treated as art supplies. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 1).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Β2 Η παλέτα των λουλουδιών (The flowers' palette) — flowers' shapes and colours; planting a school flower garden and making bouquets and wreaths from gathered flowers (student book) | Book 28, printed p. 34 |
+
+**Book 29:** *Εικαστικά Α΄ & Β΄ Δημοτικού, OLD edition (student book, Greek)* — Title as printed: Εικαστικά Α΄ & Β΄ Δημοτικού (Visual Arts, Primary Grades 1 & 2), by Θωμάς Ζωγράφος, Δημήτρης Μπέσσας, Ελεονόρα Μπέσσα Grade: 2 record (the book serves Grades 1 & 2; student/teacher: STUDENT) Publisher: ITYE «Διόφαντος» for the Ministry of Education (older ministry masthead), book code 0-10-0022, ISBN 978-960-06-2475-5 PDF pages: 98 (byte size 40,109,148 matches the record exactly; cover and contents verified — this is the genuine older edition, a different book from the NEW edition 10-0231 filed as Book 1 of this file, not the same file under two names) Verdict: COMPLETE Greece's own way: the same four activity kinds run through every chapter — artists' works, ideas for creating, our own creations, and observing nature and the environment; two chapters take children inside Greek art itself (Dimitris Mytaras's studio, and land art). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 27).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Unit B (A short walk in nature) B1: Με το πινέλο και τα χρώματα της φύσης (with the brush and nature's colours) (student book) | Book 29, printed p. 30 |
+| Greece — Unit B B2: Η παλέτα των λουλουδιών (the flowers' palette) (student book) | Book 29, printed p. 34 |
+
+**Book 30:** *Εικαστικά Α΄ & Β΄ Δημοτικού, Τετράδιο εργασιών (workbook, Greek)* — Title as printed: Εικαστικά Α΄ & Β΄ Δημοτικού — Τετράδιο εργασιών (Visual Arts Workbook), by Θωμάς Ζωγράφος, Δημήτρης Μπέσσας, Ελεονόρα Μπέσσα Grade: 2 (student/teacher: STUDENT workbook) Publisher: ITYE «Διόφαντος», book code 0-10-0023, ISBN 978-960-06-2476-2 PDF pages: 58 (byte size 17,117,877 matches the record exactly; cover verified) Verdict: COMPLETE — the workbook mirrors the OLD-edition student book chapter for chapter (A1 p. 10 … Δ5 p. 46), giving each chapter hands-on practice pages; placed at unit level. Greece's own way: every workbook chapter sends the child back to the same artists and nature the student book showed — e.g. the Klee chapter has the child imagine a dialogue with Klee's fruit and repair a Klee drawing that "has lost its rhythm". Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 28).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Unit B workbook pages: nature's palette and faces practice (Β2 Η παλέτα των λουλουδιών onwards) (workbook) | Book 30, printed pp. 17–31 |
+
+**Book 31:** *Εικαστικά Γ΄ & Δ΄ Δημοτικού, Τετράδιο εργασιών (workbook, Greek)* — Title as printed: Εικαστικά Γ΄ & Δ΄ Δημοτικού — Τετράδιο εργασιών (Visual Arts Workbook, Primary Grades 3 & 4) Grade: 4 record (student/teacher: STUDENT workbook) Publisher: ITYE «Διόφαντος» PDF pages: 58 (byte size 36,259,987 matches the record exactly; contents verified — mirrors the Γ΄&Δ΄ student book, Α2 Τροχιογραμμές p. 11 … Δ2 Βυζαντινή αγιογραφία p. 41) Verdict: COMPLETE — practice pages for the student book's chapters; placed at unit level. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 34).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Unit B workbook pages: nature, contrast, shadow and reflection practice (workbook) | Book 31, printed pp. 21–31 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

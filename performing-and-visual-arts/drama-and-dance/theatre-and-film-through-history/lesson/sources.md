@@ -1,6 +1,6 @@
 # Sources — Theatre and Film Through History
 
-countries: Ethiopia, Samoa, Trinidad and Tobago, Papua New Guinea, Brazil, Cuba, Venezuela, Mongolia, Armenia
+countries: Ethiopia, Samoa, Trinidad and Tobago, Papua New Guinea, Brazil, Cuba, Venezuela, Mongolia, Armenia, Greece
 
 **Book 1:** *Grade 6 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 6ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
 
@@ -87,7 +87,7 @@ countries: Ethiopia, Samoa, Trinidad and Tobago, Papua New Guinea, Brazil, Cuba,
 | Armenia — The 19TH CENTURY IN CINEMA — Victor Fleming's "Gone with the Wind" (1939); Scorsese's "The Age of Innocence" (1993); Bondarchuk's "War and Peace" (1967); Parajanov's "Hakob Hovnatanyan" (1967) (student book; original target `drama-and-dance/the-birth-of-cinema`) | Book 19, printed p. 119 |
 
 
-**Acceptance count: taught in 6 countries (Ethiopia, Brazil, Cuba, Venezuela, Mongolia, Armenia).** Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 7 countries (Ethiopia, Brazil, Cuba, Venezuela, Mongolia, Armenia, Greece).** Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Claims of firsts are taught as their sources give them: Fabula is 'probably the first original African play' and Hager Fikir the 'oldest indigenous theatre in Africa' — the guide's own wordings, kept with their caution. The Grade 10 guide records no separate 'Lesson 27' heading in its theatre sequence; the lesson follows its placements (Lesson 26 African theatre onward) and claims nothing about a Lesson 27.
 
@@ -108,3 +108,11 @@ Searchable tags: theatre history, film history, theatron, Fabula, Tekle Hawariat
 |---|---|
 | Cuba — §1.7, Retablos de ensueños: el teatro cubano — theatre from the aboriginal areítos and mimetismo through Heredia, Avellaneda and Milanés to José Triana, the Teatro Escambray, satirical theatre and the mountain theatre brigades (student book; original target `drama-and-dance/theatre-and-film-through-history`) | Book 14, printed pp. 94–106 |
 | Cuba — §1.8, Miradas y perspectivas: el cine cubano contemporáneo — Cuban cinema from the Lumière arrival through the golden 1960s, the documentary school, Lucía, Cecilia, Juan Padrón's animation, Lista de espera, Suite Habana and Conducta (student book; original target `drama-and-dance/theatre-and-film-through-history`) | Book 14, printed pp. 107–121 |
+
+**Book 20:** *Theatriki Agogi E'-ST' Dimotikou (student book, Greek)* — Title as printed: Θεατρική Αγωγή Ε΄ & Στ΄ Δημοτικού (Theatre Education, Grades 5 & 6) Grade: Grades 5-6 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); year 2013 (revised printing 2015); ISBN 978-960-06-2606-7 (book code 0-10-0142) PDF pages: 106 (cover verified against the record title — portraits of Antigone and of Karolos Koun on the cover; byte size 11,795,755 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: theatre taught as a GAME with levels called "zones" — the class plays its way from circle name-games to a full performance, every zone run twice, once at Grade 5 level and once harder at Grade 6; the cover honours Sophocles' Antigone and Karolos Koun, founder of Greece's Art Theatre. Excluded per standing rules: Appendix 1 «Με τη γλώσσα του θεάτρου» (printed p. 101) is a theatre-language word list — inventory-only, named here, not stocked. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 5).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Παράρτημα 2: Με τα πρόσωπα του θεάτρου (Appendix 2: With the people of theatre) — meeting the faces of Greek theatre — the people who made it, Karolos Koun among them (student book) | Book 20, printed p. 102 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

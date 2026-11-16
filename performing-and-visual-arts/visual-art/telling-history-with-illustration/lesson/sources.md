@@ -1,6 +1,6 @@
 # Sources — Telling History with Illustration
 
-countries: Ethiopia, Nicaragua, Moldova, Indonesia, Syria
+countries: Ethiopia, Nicaragua, Moldova, Indonesia, Syria, Greece
 
 **Book 1:** *Performing and Visual Arts, Student Textbook, Grade 6* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors እሸቱ ታደሰ (Eshetu Tadesse) and ደስታ ይትባረክ (Desta Yitbarek); editors አታላይ መስፍን (Atalay Mesfin) and ደምሌ አባተ (Demle Abate). Printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
 
@@ -39,8 +39,41 @@ countries: Ethiopia, Nicaragua, Moldova, Indonesia, Syria
 |---|---|
 | Syria — Lesson 18 "An Artist and a Homeland" — Nazem al-Jaafari, who documented Damascus and the Damascene family in thousands of oil paintings and line studies; drawing a scene from your own city in his spirit (student book; original target `visual-art/telling-history-with-illustration`) | Book 6, printed p. 38 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Moldova, Syria). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 4 countries (Ethiopia, Moldova, Syria, Greece). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 Honesty notes: The named plays in Sub lesson 4 are placed by name and venue only, exactly as the placement gives them; no play text is transcribed. The Menelik-era photographs (the book's Fig. 37) are described, never copied. Ethiopia's age as a civilisation is taught in the book's own framing ("among the world's ancient civilisations, a country of many languages and astonishing cultures") and is carried as the book's teaching, not as a new claim.
 
 Searchable tags: history, illustration, photography as witness, Menelik, Hindeke, ህንደኬ, The Vision of Tewodros, የቴዎድሮስ ራዕይ, Taytu, ጣይቱ, Qaqe Wirdiwet, የቃቄ ውርደወት, National Theatre, Hager Fikir, Nicaragua, Syria
+
+**Book 7:** *Eikastika G'-D' Dimotikou (student book, Greek)* — Title as printed: Εικαστικά Γ΄ & Δ΄ Δημοτικού — Βιβλίο Μαθητή Grade: Grades 3-4 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); year 2013, revised printing 2015; ISBN 978-960-06-2531-8 (book code 0-10-0070) PDF pages: 98 (cover/title page verified against the record title; byte size 26,373,502 matches the record exactly — fetched from the record's ministry source_url after the GitHub API grab dropped twice with RemoteDisconnected) Verdict: COMPLETE Greece's own way: the elements of art (points, lines, shapes, colour) are taught through named artists — Greek (Chryssa Romanou, Stefanos Antonakos, Pavlos) and world (Seurat, Klee, Moore, Picasso) — and through Greece's own heritage: ancient Greek sculpture and Byzantine icon painting taught by visiting a working icon painter's studio. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 2).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Γ3 Από τις λέξεις στις εικόνες (From words to images) — people drew pictures before writing existed; illustrated Byzantine manuscript pages where text and image carry meaning together (student book) | Book 7, printed p. 62 |
+
+**Book 8:** *Eikastika A' Gymnasiou (student book, Greek)* — Title as printed: Εικαστικά Α΄ Γυμνασίου — Βιβλίο Μαθητή (Visual Arts Grade 7) Grade: Grade 7 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); revised V2 edition (2025 printing in the PDF); ISBN 978-960-06-2662-9 (book code 0-21-0018) PDF pages: 130 (cover verified against the record title; byte size 23,877,592 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: a full Gymnasium art course by two painter-engravers — every unit ends with "Τι θυμάμαι;" (What do I remember?) and a glossary; the course's crown is a whole unit spent at the Parthenon, and clay is taught as a journey through the history of ceramics from ancient civilisations. Excluded per standing rules: every unit's closing «Τι θυμάμαι; Γλωσσάρι» revision-and-glossary spread (inventory/revision only); the closing Εικαστικό Κουίζ (Art Quiz, printed p. 120) is assessment; bibliography and image credits are apparatus. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 7).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Ενότητα 9α: Εικόνες των μύθων (Images of the myths) — illustration — picturing the myths (student book) | Book 8, printed p. 95 |
+
+**Book 9:** *Εικαστικά Γ΄ & Δ΄ Δημοτικού (student book, Greek)* — Title as printed: Εικαστικά Γ΄ & Δ΄ Δημοτικού (Visual Arts, Primary Grades 3 & 4), by Θωμάς Ζωγράφος, Αριάδνη Αξαοπούλου, Δημήτρης Μπέσσας, Ελεονόρα Μπέσσα Grade: 4 record (the book serves Grades 3 & 4; student/teacher: STUDENT) Publisher: ITYE «Διόφαντος», book code 0-10-0070, ISBN 978-960-06-2531-8 PDF pages: 98 (byte size 26,373,502 matches the record exactly; cover and contents verified) Verdict: COMPLETE Greece's own way: the older-primary art book walks from formal elements to Greece's own heritage — two dialogues in ancient Greek art and Byzantine icon painting — and out to Duchamp-style found objects and sculptures that move. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 33).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Unit Γ Γ3: Από τις λέξεις στις εικόνες (from words to images — illustration) (student book) | Book 9, printed p. 62 |
+
+**Book 10:** *Εικαστικά Ε΄ & Στ΄ Δημοτικού «Παρατηρώ & δημιουργώ» (student book, Greek)* — Title as printed: Εικαστικά Ε΄ & Στ΄ Δημοτικού — «Παρατηρώ & δημιουργώ» (Visual Arts, Primary Grades 5 & 6 — "I Observe & I Create"), by Απόστολος Ν. Μαγουλιώτης, Αθανάσιος Τσιπλητάρης Grade: 6 record (the book serves Grades 5 & 6; student/teacher: STUDENT) Publisher: ITYE «Διόφαντος», book code 0-10-0139, ISBN 978-960-06-2605-6 PDF pages: 94 (byte size 25,466,091 matches the record exactly; cover and contents verified) Verdict: COMPLETE Greece's own way: a materials-first course — colour, paper, mosaic, wire, clay — that ends in art history (Realism to Pop Art) and a museum visit; the mosaic unit is Greece's own Byzantine-rooted craft taught by both construction methods. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 39).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Part Γ (Visual-art professions) 1: Γελοιογραφία – Γελοιογράφος (caricature and the cartoonist — laughter is health; your own cartoons) (student book) | Book 10, printed  |
+| Greece — Part Γ 2: Κόμικς – Σχεδιαστής (comics and the comics artist — "and now Asterix"; your own comics) (student book) | Book 10, printed  |
+
+**Book 11:** *Εικαστικά Ε΄ & Στ΄ Δημοτικού, Τετράδιο εργασιών (workbook, Greek)* — Title as printed: Εικαστικά Ε΄ & Στ΄ Δημοτικού — Τετράδιο εργασιών (Visual Arts Workbook, Primary Grades 5 & 6) Grade: 6 record (student/teacher: STUDENT workbook) Publisher: ITYE «Διόφαντος» PDF pages: 50 (byte size 6,016,364 matches the record exactly; spot-verified against the student book's parts) Verdict: COMPLETE — practice pages mirroring the «Παρατηρώ & δημιουργώ» student book; placed at part level. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 40).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Part Γ workbook pages: professions practice (cartoon, comics, lettering, models, photography) (workbook) | Book 11, printed  |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

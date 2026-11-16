@@ -1,6 +1,6 @@
 # Sources — Story Songs
 
-countries: Armenia
+countries: Armenia, Greece
 
 **Book 1:** *Երաժշտություն 2 (Music 2), publisher imprint "Արևիկ" (Arevik), Yerevan* (student book, Armenian) — Armenia, Arevik, Yerevan; year 2023; ISBN not printed in the extracted front matter. Grade: 2 (student/teacher: STUDENT). PDF pages: 124 (cover verified; byte size 31,347,883 matches the release index exactly; fetched via the recorded ministry source_url). Verdict: COMPLETE (appendix, printed pp. 110-121, is sheet music of the book's songs — inventory only, not placed). Authors include Anahit Gevorgyan, Ani Baghdasaryan, Gohar Meliksetyan. Built on three themes: "The simple and accessible genres of music" (march, song, dance, opera, ballet, symphony), "How music is created (the musical alphabet)" and "The expressive means of music" — composers themselves greet the child in first-person letters (Komitas, Robert Petrosyan, Tchaikovsky, Mozart, Saint-Saëns). Armenia's own way: the Armenian alphabet gets its own song, Komitas writes the child a letter about his childhood name Soghomon, and the folk songs are sung three ways — with words, with notes, and with hand signs. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md.
 
@@ -20,8 +20,22 @@ countries: Armenia
 |---|---|
 | Armenia — Are there special performers among the people — the folk songs "Chem krna khagha" and "Naz mi ani": the people's own singers (student book; original target `music/songs-and-what-they-say`) | Book 3, printed p. 27 |
 
-**Acceptance count: taught in 1 country (Armenia).**
+**Acceptance count: taught in 2 countries (Armenia, Greece).**
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/story-songs`). The Armenia placements were filed under the original string(s) `music/songs-and-what-they-say`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2 where the string differs. Armenia's own way is the lesson itself where the topic is Armenian: the country's own music, dances, crafts and art forms are kept as named parts. Songs are placed by title and theme only, never transcribed.
 
 Searchable tags: Armenia, Story Songs, The SONG
+
+**Book 4:** *Mousiki G'-D' Dimotikou (student book, Greek)* — Title as printed: Μουσική Γ΄ & Δ΄ Δημοτικού — Βιβλίο Μαθητή Grade: Grades 3-4 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); year 2013 (revised printings 2015-16 in the PDF); ISBN 978-960-06-2534-9 (book code 0-10-0073) PDF pages: 90 (cover verified against the record title — ancient Greek lyre player on the cover; byte size 9,170,811 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: an Orff-style journey (lead author is an Orff music pedagogue) — sound adventures, voice games and homemade instruments first, notation growing out of play; Greece enters by name in the Greek folk instruments chapter and the May-tree custom. Excluded per standing rules: Ch. 16 «Ακούγοντας μουσική θυμάμαι...» (printed p. 53) is a consolidation/revision chapter of listening-recall games — not placed; the closing Γλωσσάρι (glossary) is inventory-only — named, not stocked. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 3).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — 14. Ένα παραμύθι γίνεται τραγούδι (A fairy tale becomes a song) — singing a song that seems to step out of a fairy tale's pages, and building from a song (student book) | Book 4, printed p. 47 |
+
+**Book 5:** *Mousiki A' Gymnasiou, Tetradio Ergasion (workbook, Greek)* — Title as printed: Μουσική Α΄ Γυμνασίου — Τετράδιο Εργασιών (Music Grade 7 — Workbook) Grade: Grade 7 (student/teacher: STUDENT workbook) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); ISBN 978-960-06-3126-9 (book code 0-21-0218). The series' authors are Cypriot music educators (University of Nicosia / Cyprus education service) — a Cyprus-written course adopted for Greek Gymnasia. PDF pages: 70 (cover verified against the record title; byte size 7,220,054 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: a weaving metaphor runs through it ("Υφαίνω μουσική" — I weave music): pupils compose ostinati, scales and rondos themselves, and the dance unit is Greece's own — Kalamatianos in 7/8 and Tsamikos — before a Viennese waltz party. Excluded per standing rules: Unit Γ΄ «Ας κάνουμε μια επανάληψη (1)» (printed p. 30) and Unit Ζ΄ «Ας κάνουμε μια επανάληψη (2)» (printed p. 56) are revision units (scale review, musical dictation/"spelling", crosswords) — named here, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 9).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Ε2. Στη χώρα του παραμυθιού (In fairy-tale land) — group creative work that turns a story text into music; recognising accelerando and rallentando by ear (workbook) | Book 5, printed p. 50 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

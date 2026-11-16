@@ -1,6 +1,6 @@
 # Sources — Making Models and Maquettes
 
-countries: Bhutan, Pakistan, Sudan, Saudi Arabia, Indonesia
+countries: Bhutan, Pakistan, Sudan, Saudi Arabia, Indonesia, Greece
 
 **Book 1:** *Arts Education — Student's Workbook for Class III* (student book, English) — Bhutan, Department of School Education (DSE), Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu, © 2023, reprint 2024, ISBN 178-99936-0-414-3 (as printed), Class III, 32 PDF pp. STUDENT — student's workbook. Verdict: COMPLETE. Byte size 6,328,406 and MD5 match the record exactly; cover verified against the record title; fetched with grab.py (release route — the book lives in GitHub Releases), read in full as text in the 2026-11-16 Art expansion read, PDF deleted after filing. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bhutan-placements.md.
 
@@ -28,8 +28,22 @@ countries: Bhutan, Pakistan, Sudan, Saudi Arabia, Indonesia
 |---|---|
 | Indonesia — Bab IV Membuat Konstruksi Sederhana — simple constructions — a miniature rumah adat, a palace miniature, a dream building, or a public building (place of worship, market, hospital, school) built from objects around the class, choosing forms and matching colours for balance (teacher guide — evidence; original target `visual-art/miniature-buildings-from-found-objects`) | Book 5, printed p. 103 |
 
-**Acceptance count: taught in 4 countries (Bhutan, Pakistan, Sudan, Saudi Arabia).** Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 5 countries (Bhutan, Pakistan, Sudan, Saudi Arabia, Greece).** Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/making-models-and-maquettes`); the Bhutan placements were filed as NEW LESSON NEEDED under the original string `visual-art/making-models`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Bhutan's own way, carried in the placements: a one-lesson-one-page workbook that builds the hand first — lines, curves, tone, mixing — then spends half its pages making things, with Bhutanese life (tshechu, losar) and Bhutan's own traditional forms as content.
 
 Searchable tags: models, maquettes, school model, model making, Bhutan
+
+**Book 6:** *Eikastika G'-D' Dimotikou (student book, Greek)* — Title as printed: Εικαστικά Γ΄ & Δ΄ Δημοτικού — Βιβλίο Μαθητή Grade: Grades 3-4 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); year 2013, revised printing 2015; ISBN 978-960-06-2531-8 (book code 0-10-0070) PDF pages: 98 (cover/title page verified against the record title; byte size 26,373,502 matches the record exactly — fetched from the record's ministry source_url after the GitHub API grab dropped twice with RemoteDisconnected) Verdict: COMPLETE Greece's own way: the elements of art (points, lines, shapes, colour) are taught through named artists — Greek (Chryssa Romanou, Stefanos Antonakos, Pavlos) and world (Seurat, Klee, Moore, Picasso) — and through Greece's own heritage: ancient Greek sculpture and Byzantine icon painting taught by visiting a working icon painter's studio. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 2).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Β6 Γεφύρια (Bridges) — why people built bridges since ancient times, Greece's beautiful stone bridges, and bridge forms as drawing/building subjects (student book; original target `visual-art/drawing-and-building-bridges`) | Book 6, printed p. 49 |
+
+**Book 7:** *Eikastika E'-ST' Dimotikou (student book, Greek)* — Title as printed: Εικαστικά — Παρατηρώ & δημιουργώ, Ε΄ & Στ΄ Δημοτικού (Visual Arts — I Observe & Create) Grade: Grades 5-6 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); ISBN 978-960-06-2605-6 (book code 0-10-0139) PDF pages: 94 (cover verified against the record title; byte size 25,466,091 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: a materials-and-professions book — simple materials (paper, wire, tesserae, clay) taught as real techniques including Byzantine-rooted mosaic methods, then the visual professions (cartoonist, comics artist, lettering designer, model-maker, photographer), then art history taught as five movements you try yourself. Excluded per standing rules: the Appendix (Παράρτημα) — glossary, bibliography, index — is inventory-only, named here, not stocked. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 4).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Γ4. Μακέτα – Αρχιτέκτονας – Μακετίστας (Model – architect – model-maker) — buildings in the world's neighbourhoods; what comes before building; models from different materials; models as stage sets (student book; original target `visual-art/making-architectural-models`) | Book 7, printed p. 56 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

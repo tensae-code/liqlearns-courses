@@ -1,6 +1,6 @@
 # Sources — Op Art and Optical Illusions
 
-countries: Serbia, Brazil, Syria, North Macedonia
+countries: Serbia, Brazil, Syria, North Macedonia, Greece
 
 **Book 1:** *Ликовна култура — за 3. разред основне школе (Likovna kultura / Visual Culture — for Grade 3 of primary school)* (student book, Serbian) — Serbia, by др Рајка Бошковић (Dr Rajka Bošković), illustrations by Слађана Љубић (Slađana Ljubić); Завод за уџбенике (Zavod za udžbenike), Београд, and АрхиКњига (Arhiknjiga), Стара Пазова; first edition 2020 (the Arhiknjiga issue ©2021); ISBN 978-86-17-20327-4; approved for Grade 3 use by ministerial decision 650-02-00629/2019-07 of 16 January 2020, Grade 3, 76 PDF pp. STUDENT — student book. Verdict: COMPLETE. Read in full in the 2026-11-16 Art expansion read (image-only PDF read visually from page renders). The record's title adds "и окружење" (and environment) — the curriculum area name, which the book's Part One carries as its title. Named, not placed: the three part summaries "НАУЧИЛИ СМО ДА..." (printed pp. 22, 38, 54); the story "Јежић" (The Little Hedgehog) by Elena Mikhalenko (printed pp. 57–59) — a reading text, named and not placed, its classroom use placed from printed p. 51; the work appendix (ornament strips printed pp. 55–56, picture grounds printed pp. 61–71, cut-out sculptures printed p. 73) — their classroom uses placed from printed pp. 7 and 9; the closing contents (printed pp. 74–75) and colophon — inventory only. Placements at liqlearns-courses-work/expansion-art-2026-11-16/serbia-placements.md.
 
@@ -38,7 +38,7 @@ countries: Serbia, Brazil, Syria, North Macedonia
 | Syria — Lesson 2 "Straight Lines and Their Harmony with Black and White" — observe how man benefited from straight lines in black and white and employed them in his daily life (the cushions); think of forming an artwork from straight lines in black and white to create visual movement (student book; original target `visual-art/op-art-optical-illusion`) | Book 5, printed p. 5 |
 | Syria — Lesson 11 (the Op Art panel) — contemplating the panel before you, which forms an optical illusion (Op Art) through the perspective straight lines that form surfaces and volumes; forming an optical artwork showing the importance of the surfaces and perspective straight lines that turned the compositions into volumes (student book; original target `visual-art/op-art-optical-illusion`) | Book 5, printed p. 22 |
 
-**Acceptance count: taught in 4 countries (Serbia, Brazil, Syria, North Macedonia). Syria is added as student-book stock (see its rows above), inside the acceptance count.**
+**Acceptance count: taught in 5 countries (Serbia, Brazil, Syria, North Macedonia, Greece). Syria is added as student-book stock (see its rows above), inside the acceptance count.**
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/op-art-and-optical-illusions`); the Serbia placements were filed under the original string(s) `visual-art/optical-illusions`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Serbia's own way: optical illusion is taught by testing — the child measures the dotted and arrowed lines for sameness of length and judges whether the blue and red circles rest or move, before following Vasarely.
 
@@ -57,3 +57,12 @@ Searchable tags: op art, optical illusions, optical tricks, Bridget Riley, Victo
 | North Macedonia — Оп-арт — Op-art: geometry that moves in the eye — Vasarely, Riley, Albers (student book; original target `visual-art/op-art`) | Book 7, printed p. 137 |
 
 North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 8:** *Eikastika B' Gymnasiou, Tetradio Ergasion (workbook, Greek)* — Title as printed: Εικαστικά Β΄ Γυμνασίου — Τετράδιο Εργασιών (Visual Arts Grade 8 — Workbook) Grade: Grade 8 (student/teacher: STUDENT workbook) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); revised V2 edition (2025 printing in the PDF); ISBN 978-960-06-2712-1 (book code 0-21-0078) PDF pages: 34 (cover verified against the record title; byte size 6,186,945 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: thirty numbered "works" in two movements — first "I observe, think and find" (analysis of real artworks, Botticelli and El Greco among them), then "I observe and create"; Greece enters through the Vergina star's geometry, a folk Greek chest in the composition set, a basilica floor mosaic, and a closing Byzantine-art unit built around Fotis Kontoglou. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 11).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Εργασία 1: Οπτικές ψευδαισθήσεις (Optical illusions) — looking at each picture and finding where its optical illusion hides (workbook; original target `visual-art/optical-illusions`) | Book 8, printed p. 4 |
+| Greece — Εργασία 26: Χώρος — μορφή και φόντο (Figure and ground) — in black-and-white images the figure-ground relation flips — focus on the black shapes and they come forward, focus on the white and they do (workbook; original target `visual-art/optical-illusions`) | Book 8, printed p. 28 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

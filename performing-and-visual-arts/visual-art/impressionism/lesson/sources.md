@@ -1,6 +1,6 @@
 # Sources — Impressionism
 
-countries: Maldives, Sudan, Brazil, Armenia, North Macedonia
+countries: Maldives, Sudan, Brazil, Armenia, North Macedonia, Greece
 
 **Book 1:** *Exploring Creative Arts 4* (student book, English) — Maldives, National Institute of Education, Ministry of Education, Malé, Maldives; © 2025, first published 2025; ISBN 978-99915-0-956-3 (paperback); development editor Shirumeen Ahmed; printed by M7 Print Pvt. Ltd. Based on the Creative Arts in the National Curriculum syllabus, 2022. 93 PDF pp (printed pp. 1–81 plus acknowledgements and back cover; cover verified — two children painting at easels). Verdict: COMPLETE. Read in full as extracted text in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/maldives-placements.md. The book's glossary (printed pp. 79–81) is inventory only, named here and never stocked as parts.
 
@@ -25,7 +25,7 @@ countries: Maldives, Sudan, Brazil, Armenia, North Macedonia
 | Armenia — IMPRESSIONISM and POST-IMPRESSIONISM — inside the 19th-century European fine-art survey (Spain, France): Impressionism (printed p. 143) and Post-Impressionism (printed p. 151) given their own chapters (student book; original target `visual-art/impressionism`) | Book 4, printed p. 140 |
 
 
-**Acceptance count: taught in 5 countries (Maldives, Sudan, Brazil, Armenia, North Macedonia).** Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 6 countries (Maldives, Sudan, Brazil, Armenia, North Macedonia, Greece).** Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/impressionism`); the Maldives placement was filed under the original string `visual-art/impressionism-and-impasto`, recorded in the provenance rows above.
 
@@ -44,3 +44,11 @@ Searchable tags: impressionism, impasto, Monet, ocean wave, Maldives, Exploring 
 | North Macedonia — Импресионизам — Impressionism: colour and light first, form dissolved in the short stroke, painted out of doors — Monet, Renoir, Degas, Pissarro (student book; original target `visual-art/impressionism`) | Book 6, printed p. 133 |
 
 North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 7:** *Eikastika E'-ST' Dimotikou (student book, Greek)* — Title as printed: Εικαστικά — Παρατηρώ & δημιουργώ, Ε΄ & Στ΄ Δημοτικού (Visual Arts — I Observe & Create) Grade: Grades 5-6 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); ISBN 978-960-06-2605-6 (book code 0-10-0139) PDF pages: 94 (cover verified against the record title; byte size 25,466,091 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: a materials-and-professions book — simple materials (paper, wire, tesserae, clay) taught as real techniques including Byzantine-rooted mosaic methods, then the visual professions (cartoonist, comics artist, lettering designer, model-maker, photographer), then art history taught as five movements you try yourself. Excluded per standing rules: the Appendix (Παράρτημα) — glossary, bibliography, index — is inventory-only, named here, not stocked. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 4).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Δ2. Ιμπρεσιονισμός (Impressionism) — the games of light; how the Impressionists paint light's play; creating with pastels and with watercolours (student book; original target `visual-art/impressionism-light-and-colour`) | Book 7, printed p. 70 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

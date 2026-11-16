@@ -1,6 +1,6 @@
 # Sources — Qenet: Ethiopia's Scales
 
-countries: Ethiopia, Trinidad and Tobago, Sri Lanka, Angola, Armenia
+countries: Ethiopia, Trinidad and Tobago, Sri Lanka, Angola, Armenia, Greece
 
 **Book 1:** *Grade 7 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 7ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–170. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g07-student-placements.md.
 
@@ -61,7 +61,7 @@ countries: Ethiopia, Trinidad and Tobago, Sri Lanka, Angola, Armenia
 | Armenia — The first octave — the do sound-row runs from low do to high do; a song written in the re row is re-written in the la row (student book; original target `music/solfa-and-the-scale`) | Book 10, printed p. 49 |
 
 
-**Acceptance count: taught in 3 countries (Ethiopia, Angola, Armenia).** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 4 countries (Ethiopia, Angola, Armenia, Greece).** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Anchihoye practice songs named in the Grade 8 guide's answer key are placed by title and purpose only — no song is transcribed. The Grade 8 student book's four-qenet-from-intervals work is taught at the level its placement gives (the qenet rebuilt from interval theory) without inventing interval tables the placement does not print. Teacher-guide parts are labelled evidence; the qenet constructions themselves stand on the Grade 7 student book.
 
@@ -76,3 +76,17 @@ Searchable tags: qenet, ቅኝት, Tizta, Bati, Anchi Hoye, Ambassel, pentatonic
 |---|---|
 
 | Sri Lanka — Competency 8.1 "Sight sings from a score / Sings scales" — the singer's reading skill — an unseen score sung at sight with correct technique, and scales sung clean (teacher guide — evidence; original target `music/sight-singing-and-singing-scales`) | Book 6, printed p. 78 |
+
+**Book 11:** *Mousiki A' Gymnasiou, Tetradio Ergasion (workbook, Greek)* — Title as printed: Μουσική Α΄ Γυμνασίου — Τετράδιο Εργασιών (Music Grade 7 — Workbook) Grade: Grade 7 (student/teacher: STUDENT workbook) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); ISBN 978-960-06-3126-9 (book code 0-21-0218). The series' authors are Cypriot music educators (University of Nicosia / Cyprus education service) — a Cyprus-written course adopted for Greek Gymnasia. PDF pages: 70 (cover verified against the record title; byte size 7,220,054 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: a weaving metaphor runs through it ("Υφαίνω μουσική" — I weave music): pupils compose ostinati, scales and rondos themselves, and the dance unit is Greece's own — Kalamatianos in 7/8 and Tsamikos — before a Viennese waltz party. Excluded per standing rules: Unit Γ΄ «Ας κάνουμε μια επανάληψη (1)» (printed p. 30) and Unit Ζ΄ «Ας κάνουμε μια επανάληψη (2)» (printed p. 56) are revision units (scale review, musical dictation/"spelling", crosswords) — named here, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 9).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Β2. Μουσικές σε πέντε τόνους (Musics in five tones) — improvising in a circle on classroom melodic instruments with five tones; adding words to Dvořák's New World theme; Ravel's Mother Goose — building a small work from a word's feeling over a steady pulse (workbook; original target `music/pentatonic-scales`) | Book 11, printed p. 24 |
+
+**Book 12:** *Mousiki A' Gymnasiou (student book, Greek)* — Title as printed: Μουσική Α΄ Γυμνασίου — Βιβλίο Μαθητή (Music Grade 7 — Student Book) Grade: Grade 7 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); reissue 2019; ISBN 978-960-06-3026-8 (book code 0-21-0217). Same Cyprus-written series as Book 9, whose workbook it accompanies. PDF pages: 142 (cover verified against the record title; byte size 17,913,031 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: the teaching text behind Book 9's workbook — every lesson opens with its aim and key words; Greece's dances are taught as music theory: the Kalamatianos carries the 7/8 metre and the A harmonic minor scale, the Tsamikos carries the traditional clarinet, with Skalkottas' 36 Greek Dances and Theodorakis' «Άξιον Εστί» as listening. Excluded per standing rules: Units Γ΄ and Ζ΄ «Ας κάνουμε μια επανάληψη» (printed pp. 51, 112) are revision units — named here, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 10).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Β2. Μουσικέs σε πέντε τόνουs 1-2 (Musics in five tones) — the pentatonic world — five-tone improvisation and composition, with Dvořák and Ravel as listening (student book; original target `music/pentatonic-scales`) | Book 12, printed p. 37 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

@@ -1,6 +1,6 @@
 # Sources — Traditional and Festival Songs
 
-countries: Ethiopia, Barbados, Albania, Nicaragua, Malta, Turkmenistan, Colombia, Belarus, Bulgaria, Jordan, Sri Lanka, Angola, Rwanda, Moldova, Armenia, North Macedonia
+countries: Ethiopia, Barbados, Albania, Nicaragua, Malta, Turkmenistan, Colombia, Belarus, Bulgaria, Jordan, Sri Lanka, Angola, Rwanda, Moldova, Armenia, North Macedonia, Greece
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -99,7 +99,7 @@ countries: Ethiopia, Barbados, Albania, Nicaragua, Malta, Turkmenistan, Colombia
 | Armenia — Easter and spring feasts: the Easter eggs pictured and the folk song "Tata-tore" (Ladybird) — spring festival singing (student book; original target `music/traditional-and-festival-songs`) | Book 27, printed p. 56 |
 
 
-**Acceptance count: taught in 10 countries (Ethiopia, Turkmenistan, Colombia, Belarus, Bulgaria, Jordan, Angola, Moldova, Armenia, North Macedonia). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 11 countries (Ethiopia, Turkmenistan, Colombia, Belarus, Bulgaria, Jordan, Angola, Moldova, Armenia, North Macedonia, Greece). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Malta is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Traditional songs are placed by name, season and purpose only; their lyrics are never transcribed in this lesson — the books themselves print several of them as repertoire, and the lesson follows the placements in naming and summarising rather than copying. The Genna game song "አሲና በል" (Asina Bel, Grade 3 student textbook, printed p. 54) is named in the placements as its own target and belongs with the Genna game in the Culture and Values festival lesson, not here; it is not stocked in this lesson.
 
@@ -178,3 +178,38 @@ Searchable tags: traditional songs, festival songs, Abebayehush, Adey, Hoya Hoye
 | North Macedonia — Машка поворка — the men's masked processions of the Unbaptised Days (the twelve days from Christmas to Vodici), when nature is dangerous and the Dzhamalii, Surovaskari, Babari, Eshkari, Mechkari and Rusalii drive out the unwanted and restore order and wellbeing (student book; original target `music/traditional-and-festival-songs`) | Book 30, printed p. 31 |
 
 North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 31:** *Mousiki G'-D' Dimotikou (student book, Greek)* — Title as printed: Μουσική Γ΄ & Δ΄ Δημοτικού — Βιβλίο Μαθητή Grade: Grades 3-4 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); year 2013 (revised printings 2015-16 in the PDF); ISBN 978-960-06-2534-9 (book code 0-10-0073) PDF pages: 90 (cover verified against the record title — ancient Greek lyre player on the cover; byte size 9,170,811 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: an Orff-style journey (lead author is an Orff music pedagogue) — sound adventures, voice games and homemade instruments first, notation growing out of play; Greece enters by name in the Greek folk instruments chapter and the May-tree custom. Excluded per standing rules: Ch. 16 «Ακούγοντας μουσική θυμάμαι...» (printed p. 53) is a consolidation/revision chapter of listening-recall games — not placed; the closing Γλωσσάρι (glossary) is inventory-only — named, not stocked. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 3).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — 9. Χριστουγεννιάτικες μελωδίες (Christmas melodies) — Christmas as a season full of melodies — the carols and Christmas songs of the festival (student book) | Book 31, printed p. 32 |
+
+**Book 32:** *Μουσική Α΄ Δημοτικού (student book, Greek)* — Title as printed: Μουσική Α΄ Δημοτικού — Βιβλίο Μαθητή (Music, Primary Grade 1); the book's promise on its opening page: "With this book you will listen, you will sing, you will dance and you will play MUSIC" Grade: 1 (student/teacher: STUDENT) Publisher: ITYE «Διόφαντος» for the Ministry of Education (reissue via digital layout, ESPA-funded; Pedagogical Institute team) PDF pages: 58 (byte size 13,616,710 matches the record exactly; cover verified) Verdict: COMPLETE — song chapters placed by theme only (no lyrics); a closing listening guide (Ακούγοντας μουσική… στο μάθημα!) pairs chapters with listening pieces, named in the placements where they teach a skill. Greece's own way: Grade 1 music is sound-play — a music corner of one's own, sounds of nature and of the yard, tempo and loud/soft lands, and Greece's own Christmas carols (κάλαντα) from Samos, Metsovo, Athens and Crete, plus the Karagkiozis shadow theatre's voices in the listening guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 31).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Chapters 5–6: singing with letters and yard play-songs (Με το Άλφα και το Ρο τραγουδάω και εγώ; Τα παιχνίδια της αυλής — traditional play-songs named only) (student book) | Book 32, printed pp. 11–12 |
+| Greece — Chapters 11–13: the festive chapters — the kalikantzaros song and the κάλαντα (Christmas carols of Samos, Metsovo, Athens and Crete, named only) (student book) | Book 32, printed pp. 17–19 |
+
+**Book 33:** *Μουσική Α΄ Δημοτικού, Τετράδιο εργασιών (workbook, Greek)* — Title as printed: ΜΟΥΣΙΚΗ Α΄ ΔΗΜΟΤΙΚΟΥ — ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ (Music Workbook, Primary Grade 1), by Μαρία Αργυρίου, Ελένη Τσούτσια-Λουλάκη, Μαρία Μαγαλιού Grade: 1 (student/teacher: STUDENT workbook) Publisher: ITYE «Διόφαντος», book code 0-10-0018, ISBN 978-960-06-2471-7 PDF pages: 58 (byte size 34,977,663 matches the record exactly; cover verified) Verdict: COMPLETE — practice pages mirroring the Grade 1 student book's chapters; placed at the skill points. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 32).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — workbook practice for the festive chapters (the kalikantzaros; the κάλαντα carols, named only) (workbook) | Book 33, printed pp. 17–19 |
+
+**Book 34:** *Μουσική Γ΄ & Δ΄ Δημοτικού (student book, Greek)* — Title as printed: Μουσική Γ΄ & Δ΄ Δημοτικού (Music, Primary Grades 3 & 4), by Δέσποινα Μπογδάνη-Σουγιούλ, Δέσποινα Σαλκιτζόγλου, Μαρία Καψημάνη Grade: 4 record (the book serves Grades 3 & 4; student/teacher: STUDENT) Publisher: ITYE «Διόφαντος», book code 0-10-0073, ISBN 978-960-06-2534-9 PDF pages: 90 (byte size 9,170,811 matches the record exactly; cover and contents verified) Verdict: COMPLETE — songs placed by theme only (no lyrics); the listening chapters name serious repertoire (Strauss, Handel, Vivaldi, Paganini in the listening guide). Standing exclusions named: the closing Γλωσσάρι (glossary) — inventory-only, not placed. Greece's own way: a full musicianship year — staff, rhythm, forms, listening — that ends by meeting Greece's own folk instruments (Ch. 22) and the May-tree custom (Ch. 25). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 35).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Chapter 9: Χριστουγεννιάτικες μελωδίες (Christmas melodies, named only) (student book) | Book 34, printed p. 23 |
+| Greece — Chapter 25: Το δέντρο του Μάη (the May tree — the May Day custom in song, named only) (student book) | Book 34, printed p. 59 |
+
+**Book 35:** *Μουσική Ε΄ Δημοτικού (student book, Greek)* — Title as printed: Μουσική Ε΄ Δημοτικού (Music, Primary Grade 5), by Κατερίνα Αποστολίδου, Χρυσάνθη Ζεπάτου Grade: 5 (student/teacher: STUDENT) Publisher: ITYE «Διόφαντος», book code 0-10-0129, ISBN 978-960-06-2596-7 PDF pages: 74 (byte size 7,715,092 matches the record exactly; cover and contents verified) Verdict: COMPLETE — songs placed by theme only (no lyrics); the closing ΑΝΘΟΛΟΓΙΟ ΤΡΑΓΟΥΔΙΩΝ (song anthology, pp. 55–65) is named here, not placed song by song. Standing exclusions named: the ΕΥΡΕΤΗΡΙΟ ΟΡΩΝ ΚΑΙ ΕΝΝΟΙΩΝ (index of terms and concepts), printed p. 66 — inventory-only, not placed. Greece's own way: the homeland sings three times in the year (28 October, 17 November, 25 March — the national days), the Easter hymn Χριστός Ανέστη is a chapter, and Greece's own Byzantine chant gets its own musical alphabet chapter (Ch. 14). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 37).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Chapter 12: Να τα πούμε; (Shall we say them? — the carol-singing custom, named only) (student book) | Book 35, printed p. 28 |
+| Greece — Chapter 22: Χριστός Ανέστη (Christ is Risen — the Easter hymn, named only) (student book) | Book 35, printed p. 48 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

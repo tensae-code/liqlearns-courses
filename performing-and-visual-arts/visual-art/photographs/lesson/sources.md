@@ -1,6 +1,6 @@
 # Sources — Photographs
 
-countries: Ethiopia, Guatemala, Albania, Iran, Brazil, Cuba, Angola, Moldova, Syria, North Macedonia
+countries: Ethiopia, Guatemala, Albania, Iran, Brazil, Cuba, Angola, Moldova, Syria, North Macedonia, Greece
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -51,7 +51,7 @@ countries: Ethiopia, Guatemala, Albania, Iran, Brazil, Cuba, Angola, Moldova, Sy
 |---|---|
 | Syria — Lesson 29 "From Human Heritage: The Camera" — humanity's drive to document by image, from cave drawing to Ibn al-Haytham founding optics and the camera (qamara), drawing a person photographing with an old camera (student book; original target `visual-art/photographs`) | Book 11, printed p. 61 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Iran, Brazil, Cuba, Angola, Moldova, Syria, North Macedonia). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 9 countries (Ethiopia, Iran, Brazil, Cuba, Angola, Moldova, Syria, North Macedonia, Greece). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 Honesty notes: every photograph in this lesson is described only as its placement describes it — the Sof Omar cave as a cave entrance in rock, the Tis Abay Falls as a wide waterfall, Bete Giyorgis as the rock-hewn church of St George at Lalibela, the Axum stele standing among ruins, Fasilides' castle at Gondar, Abebe Bikila running on a stadium track in a race, the walia standing on rocks against the sky, the Abbay Dam as a dam wall with water pouring through, and the market, harvest, landscape and aeroplane photographs as the Grade 2 figures name them. No photographic detail beyond the placements has been added. The Grade 3 page (Book 2, p. 68) also carries a chapter summary and closing exercise and a Review placement for Appreciating the Arts; only its two photographs and the "which pleased you" activity are stocked here, as the structure map directs — the review fold belongs to the First Steps appreciating lesson.
 
@@ -72,3 +72,17 @@ Searchable tags: photographs, looking at photographs, Tis Abay, Blue Nile Falls,
 | North Macedonia — Мотиви — photographic motifs: the portrait first of all — the face and character of a person — then reportage, and photography wedded to text in advertising (student book; original target `visual-art/photographs`) | Book 12, printed p. 117 |
 
 North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 13:** *Fotografia I, B' EPAL (student book, Greek)* — Title as printed: Φωτογραφία Ι — Β΄ ΕΠΑ.Λ., Τομέας Εφαρμοσμένων Τεχνών (Photography I, Vocational Lykeio Grade 11, Applied Arts sector) Grade: Grade 11 vocational (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); V1 edition; ISBN 978-960-06-3184-6 (set 978-960-06-3183-6; book code 0-24-0154) PDF pages: 210 (cover verified against the record title — a black-and-white street photograph; byte size 12,104,800 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: in the vocational school photography is a trade taught end to end on film — shoot, develop, print, control the negative, then judge and present the image; the darkroom is a classroom, not a museum piece. Excluded per standing rules: the Γλωσσάριο (printed p. 200) is inventory-only; the biographical notes and bibliography are apparatus. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 21).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Κεφ. 8: Αξιολόγηση και παρουσίαση της φωτογραφικής εικόνας (Judging and presenting the photographic image) — the meaning of criticism; why the way a photograph is presented matters (student book; original target `visual-art/critiquing-and-presenting-photographs`) | Book 13, printed p. 177 |
+
+**Book 14:** *Fotografia II, B' EPAL (student book, Greek)* — Title as printed: Φωτογραφία ΙΙ — Β΄ ΕΠΑ.Λ. Επιλογής, Τομέας Εφαρμοσμένων Τεχνών (Photography II, Vocational Lykeio Grade 11 elective, Applied Arts sector) Grade: Grade 11 vocational elective (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); V1 edition; ISBN 978-960-06-3188-3 (set 978-960-06-3183-6; book code 0-24-0170) PDF pages: 186 (cover verified against the record title — early Greek photographs; byte size 10,355,150 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: the second vocational year goes professional — bigger cameras, studio light, colour, infrared and the digital bench — and closes with aesthetics, ending on "the Greek aesthetic view of the phenomenon 'photography'": Greece judging its own photographic eye. Excluded per standing rules: the Επεξήγηση Όρων (explanation of terms, printed p. 178) is a glossary — inventory-only; the bibliography is apparatus. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 22).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Κεφάλαιο VΙ: Αισθητική (Aesthetics) — the aesthetics of photography, closing with the Greek aesthetic view of the phenomenon "photography" (student book; original target `visual-art/critiquing-and-presenting-photographs`) | Book 14, printed p. 157 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

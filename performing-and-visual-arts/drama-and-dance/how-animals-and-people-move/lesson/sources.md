@@ -1,6 +1,6 @@
 # Sources — How Animals and People Move
 
-countries: Ethiopia, Samoa, Nicaragua, Singapore, Papua New Guinea, Brazil, Indonesia
+countries: Ethiopia, Samoa, Nicaragua, Singapore, Papua New Guinea, Brazil, Indonesia, Greece
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 **Book 2:** *Grade 4 Performing and Visual Arts Teacher Guide (፬ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed pp. i–iii + body to printed p.62 + syllabus to printed p.93. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-teacher-placements.md.
@@ -68,8 +68,16 @@ countries: Ethiopia, Samoa, Nicaragua, Singapore, Papua New Guinea, Brazil, Indo
 |---|---|
 | Indonesia — Bab 2, Seni Tari — dance for young children — structured and free movement, rhythmic gymnastics, traditional and modern kreasi dance, and dances imitating the movements of nature and animals, with a rabbit dance pictured (teacher guide — evidence; original target `drama-and-dance/how-animals-and-people-move`) | Book 14, printed p. 69 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Brazil).** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 3 countries (Ethiopia, Brazil, Greece).** Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 1 teacher guide's opening movement-to-music placement (printed p. 8, §1.2 of g01-teacher-placements.md) belongs to the Moving to Music lesson's family, not this one, and is stocked there. The family-walking GIF (9752) is cited in this lesson's plan add-on list; its marker sits in Sub lesson 1 of lesson.md, where the family walk is taught.
 
 Searchable tags: how animals move, how people move, gait, gallop, prowl, hen, horse, cat, donkey, bird take-off, Grade 1, Nicaragua, Papua New Guinea, Brazil
+
+**Book 15:** *Θεατρική Αγωγή Ε΄ & Στ΄ Δημοτικού (student book, Greek)* — Title as printed: Θεατρική Αγωγή Ε΄ & Στ΄ Δημοτικού (Theatre Education, Primary Grades 5 & 6), by Πέτρος Μουγιακάκος, Αντιγόνη Μώρου, Χρήστος Παπαδημούλης, Μαρία Φραγκή Grade: 6 record (the book serves Grades 5 & 6; student/teacher: STUDENT) Publisher: ITYE «Διόφαντος», book code 0-10-0142, ISBN 978-960-06-2608-7 PDF pages: 106 (byte size 11,795,755 matches the record exactly; cover and contents verified — 16 "zones", each worked at both grade levels, plus two appendices) Verdict: COMPLETE Greece's own way: a whole primary theatre course built as zones of play — body, expression, partner, group, space, object, action, improvisation — that grow, zone by zone, into dramatisation, play-writing and a full school production the children then watch as audience. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 43).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Zone 1: Το σώμα μου – Γνωριζόμαστε σε κύκλο (my body — we meet in a circle) (student book) | Book 15, printed  |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

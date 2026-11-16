@@ -1,6 +1,6 @@
 # Sources — Beautiful Writing
 
-countries: Ethiopia, Kuwait, Egypt, Nicaragua, Serbia, Pakistan, Sudan, Belarus, Iran, Brazil, Morocco, Bulgaria, Libya, Cuba, Mongolia, Rwanda, Bolivia, Armenia, North Macedonia
+countries: Ethiopia, Kuwait, Egypt, Nicaragua, Serbia, Pakistan, Sudan, Belarus, Iran, Brazil, Morocco, Bulgaria, Libya, Cuba, Mongolia, Rwanda, Bolivia, Armenia, North Macedonia, Greece
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -176,7 +176,7 @@ countries: Ethiopia, Kuwait, Egypt, Nicaragua, Serbia, Pakistan, Sudan, Belarus,
 | Armenia — Art and technologies: letters can be written and drawn — in our old books, the manuscripts (մատյաններ), letters were pictured; Chubaryan's monument "Mesrop Mashtots and Koryun" at Oshakan (student book; original target `visual-art/beautiful-writing`) | Book 42, printed p. 47 |
 
 
-**Acceptance count: taught in 17 countries (Ethiopia, Kuwait, Egypt, Serbia, Pakistan, Sudan, Belarus, Iran, Brazil, Bulgaria, Libya, Cuba, Mongolia, Rwanda, Bolivia, Armenia, North Macedonia). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added on its Grades 3–9 student calligraphy workbooks — counted in the acceptance count; the Libya Grade 1 teacher guide part is evidence only, kept outside it. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 18 countries (Ethiopia, Kuwait, Egypt, Serbia, Pakistan, Sudan, Belarus, Iran, Brazil, Bulgaria, Libya, Cuba, Mongolia, Rwanda, Bolivia, Armenia, North Macedonia, Greece). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added on its Grades 3–9 student calligraphy workbooks — counted in the acceptance count; the Libya Grade 1 teacher guide part is evidence only, kept outside it. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Honesty notes: the Grade 5 calligraphy plates placement (single/double/shaded examples in Amharic and English, with a two-tied-pencils GIF need) is stocked inside Sub lesson 5's practice set, where the Grade 6 book turns the same two-tools method into practice; no separate plate part is claimed. Line-kind Amharic names and spellings (ቋሚ, አግድም, ሠያፍ, ጎባጣ, ወጣ ገባ, ነጠላ, ድርብ) are copied exactly from the Grade 3 placements.
 
@@ -281,3 +281,41 @@ Searchable tags: calligraphy, ኪነ-ፅህፈት, beautiful writing, letter for
 | North Macedonia — Калиграфија — calligraphy: the history of writing from Babylonian clay tablets to paper, the Latin scripts and the Glagolitic and Cyrillic, the decorated initial that opened old manuscripts, and beautiful handwriting kept for the documents that matter (student book; original target `visual-art/beautiful-writing`) | Book 43, printed pp. 91–93 |
 
 North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 44:** *Eikastika A'-B' Dimotikou (student book, Greek)* — Title as printed: Εικαστικά Α΄ & Β΄ Δημοτικού — Βιβλίο Μαθητή Grade: Grades 1-2 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); year 2013 (αναθεωρημένη έκδοση); ISBN 978-960-06-2475-5 (book code 0-10-0231) PDF pages: 98 (cover/title page verified against the record title; byte size 41,216,105 matches the record exactly) Verdict: COMPLETE Greece's own way: a story-and-picture journey book — each chapter opens with artworks (Greek painters Dimitris Mytaras, Alexis Akrithakis, Giannis Gaitis, Vasilis Skylakos; also Dubuffet and Paul Klee) and turns looking into making; nature materials and even rubbish are treated as art supplies. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 1).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Α5 Χρωματογράμματα (Colour-letters) — writing your name and letters/numbers beautifully in colour with markers, wax crayons and brushes (student book) | Book 44, printed p. 25 |
+
+**Book 45:** *Eikastika E'-ST' Dimotikou (student book, Greek)* — Title as printed: Εικαστικά — Παρατηρώ & δημιουργώ, Ε΄ & Στ΄ Δημοτικού (Visual Arts — I Observe & Create) Grade: Grades 5-6 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); ISBN 978-960-06-2605-6 (book code 0-10-0139) PDF pages: 94 (cover verified against the record title; byte size 25,466,091 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: a materials-and-professions book — simple materials (paper, wire, tesserae, clay) taught as real techniques including Byzantine-rooted mosaic methods, then the visual professions (cartoonist, comics artist, lettering designer, model-maker, photographer), then art history taught as five movements you try yourself. Excluded per standing rules: the Appendix (Παράρτημα) — glossary, bibliography, index — is inventory-only, named here, not stocked. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 4).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Γ3. Γράμματα – Σχεδιαστής (Letters – the lettering designer) — hidden letters and shapes; letters that tell stories; the street's galleries (graffiti); advertising begins with the packaging (student book) | Book 45, printed p. 52 |
+
+**Book 46:** *Eikastika A' Gymnasiou, Tetradio Ergasion (workbook, Greek)* — Title as printed: Εικαστικά Α΄ Γυμνασίου — Τετράδιο Εργασιών (Visual Arts Grade 7 — Workbook) Grade: Grade 7 (student/teacher: STUDENT workbook) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); revised V2 edition (2025 printing in the PDF); ISBN 978-960-06-2663-6 (book code 0-21-0019) PDF pages: 34 (cover verified against the record title; byte size 6,570,847 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: a personal sketch-portfolio the pupil fills all year — collecting doodles, colour swatches, technique samples and artwork analyses; Greek heritage enters through the statues' axes exercise and completing the Parthenon in pencil. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 6).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Εικαστικό γράμμα (A picture-letter) — writing a letter in pictures — dividing a geometric shape and composing a letter from images (workbook) | Book 46, printed p. 10 |
+
+**Book 47:** *Eikastika B' Gymnasiou, Tetradio Ergasion (workbook, Greek)* — Title as printed: Εικαστικά Β΄ Γυμνασίου — Τετράδιο Εργασιών (Visual Arts Grade 8 — Workbook) Grade: Grade 8 (student/teacher: STUDENT workbook) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); revised V2 edition (2025 printing in the PDF); ISBN 978-960-06-2712-1 (book code 0-21-0078) PDF pages: 34 (cover verified against the record title; byte size 6,186,945 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: thirty numbered "works" in two movements — first "I observe, think and find" (analysis of real artworks, Botticelli and El Greco among them), then "I observe and create"; Greece enters through the Vergina star's geometry, a folk Greek chest in the composition set, a basilica floor mosaic, and a closing Byzantine-art unit built around Fotis Kontoglou. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 11).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Εργασία 29: Βυζαντινά αρχικά γράμματα (Byzantine initial letters) — drawing a capital letter in the manner of the decorated Byzantine manuscript initials (workbook) | Book 47, printed p. 31 |
+
+**Book 48:** *Εικαστικά Γ΄ & Δ΄ Δημοτικού (student book, Greek)* — Title as printed: Εικαστικά Γ΄ & Δ΄ Δημοτικού (Visual Arts, Primary Grades 3 & 4), by Θωμάς Ζωγράφος, Αριάδνη Αξαοπούλου, Δημήτρης Μπέσσας, Ελεονόρα Μπέσσα Grade: 4 record (the book serves Grades 3 & 4; student/teacher: STUDENT) Publisher: ITYE «Διόφαντος», book code 0-10-0070, ISBN 978-960-06-2531-8 PDF pages: 98 (byte size 26,373,502 matches the record exactly; cover and contents verified) Verdict: COMPLETE Greece's own way: the older-primary art book walks from formal elements to Greece's own heritage — two dialogues in ancient Greek art and Byzantine icon painting — and out to Duchamp-style found objects and sculptures that move. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 33).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Unit B B6: Ιερογλυφικά (hieroglyphics — picture writing) (student book) | Book 48, printed p. 49 |
+
+**Book 49:** *Εικαστικά Ε΄ & Στ΄ Δημοτικού «Παρατηρώ & δημιουργώ» (student book, Greek)* — Title as printed: Εικαστικά Ε΄ & Στ΄ Δημοτικού — «Παρατηρώ & δημιουργώ» (Visual Arts, Primary Grades 5 & 6 — "I Observe & I Create"), by Απόστολος Ν. Μαγουλιώτης, Αθανάσιος Τσιπλητάρης Grade: 6 record (the book serves Grades 5 & 6; student/teacher: STUDENT) Publisher: ITYE «Διόφαντος», book code 0-10-0139, ISBN 978-960-06-2605-6 PDF pages: 94 (byte size 25,466,091 matches the record exactly; cover and contents verified) Verdict: COMPLETE Greece's own way: a materials-first course — colour, paper, mosaic, wire, clay — that ends in art history (Realism to Pop Art) and a museum visit; the mosaic unit is Greece's own Byzantine-rooted craft taught by both construction methods. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 39).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Part Γ 3: Γράμματα – Σχεδιαστής (letters and the lettering designer — hidden letters and shapes; letters that tell stories; street galleries; advertising begins with the packaging) (student book) | Book 49, printed  |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

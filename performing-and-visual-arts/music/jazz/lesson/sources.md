@@ -1,6 +1,6 @@
 # Sources — Jazz
 
-countries: Iceland, Cuba, Malaysia, North Macedonia
+countries: Iceland, Cuba, Malaysia, North Macedonia, Greece
 
 **Book 1:** *Dægurspor: Kennsluleiðbeiningar (teacher guide, Icelandic)* (teacher guide) — Iceland, no publisher, year or ISBN printed in the guide (first page is the contents list), Grade 5, Icelandic, 79 PDF pp. TEACHER — teacher's guide to the Dægurspor set: student book, listening material, teacher guide and web tasks; the guide itself addresses compulsory-school music teachers (tónmennt). Verdict: COMPLETE. Read in full as text in the 2026-11-16 Art expansion read; fetched with grab.py from the pushed tree, PDF deleted after filing. The closing Listi yfir hlustunarefni (listening-material catalogue, printed pp. 73–79) is inventory-only, named here, never stocked as parts; the songs whose notation and words the guide prints are placed by their teaching topics, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/iceland-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -16,7 +16,7 @@ countries: Iceland, Cuba, Malaysia, North Macedonia
 |---|---|
 | Malaysia — Unit 2 Apresiasi: Muzik Jaz — jazz: its American history, its key elements, famous jazz figures, how jazz is performed (New Orleans and Chicago styles among them), and jazz in Malaysia from its pioneers to Datuk Sheila Majid, the country's jazz queen (student book; original target `music/jazz`) | Book 4, printed pp. 8–19 |
 
-**Acceptance count: taught in 3 countries (Cuba, Malaysia, North Macedonia). Earlier evidence-only entries stay outside the acceptance count.** Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 4 countries (Cuba, Malaysia, North Macedonia, Greece). Earlier evidence-only entries stay outside the acceptance count.** Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/jazz`). The Iceland placements were filed as NEW LESSON NEEDED under the original string(s) `music/dixieland`, `music/the-birth-of-jazz-in-new-orleans`, `music/women-in-jazz`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Iceland's own way, carried in the placements: a listening journey through the whole history of popular music — taught by listening, playing rhythm parts from notation, singing, and dancing, with Iceland's own musicians, revue songs, seamen's songs and dance bands woven through as national content. Songs are placed by their teaching topics only — no lyrics or notation are transcribed.
 
@@ -61,3 +61,19 @@ Searchable tags: jazz, New Orleans, Dixieland, Tiger Rag, women in jazz, Mary Lo
 | North Macedonia — Џез — the history of jazz: New Orleans (to 1918), Dixieland's collective improvisation, swing and the big written arrangements (Goodman), bebop (Monk, Gillespie), cool (c. 1950) and modern bop (1956); its giants — Armstrong, Gillespie, Miles Davis, Parker, Ellington, Corea, Zappa, Holiday, Fitzgerald, Miller — and its idioms in Gershwin, Stravinsky and Hindemith (student book; original target `music/jazz`) | Book 7, printed p. 100 |
 
 North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 8:** *Mousiki C' Gymnasiou, Tetradio Ergasion (workbook, Greek)* — Title as printed: Μουσική Γ΄ Γυμνασίου — Τετράδιο Εργασιών (Music Grade 9 — Workbook) Grade: Grade 9 (student/teacher: STUDENT workbook) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); revised edition; ISBN 978-960-06-2709-5 (book code 0-21-0146) PDF pages: 58 (cover verified against the record title — a sol-fa colour grid; byte size 4,158,154 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: after the 20th century and the road from gospel to rock, half the book walks "the neighbourhoods of Greek song" street by street — Hadjidakis street, the Axion Esti of Theodorakis, Markopoulos' "return to the roots", Xarchakos' neighbourhood, Loizos' road, Savvopoulos' little Greece — with rebetiko and Greek jazz given their own stops. Songs are placed by name and purpose only, never lyrics. Excluded per standing rules: the «Τι έμαθα...» self-checks and the Ανακεφαλαιωτικές ασκήσεις (recap exercises, printed p. 19) are revision/assessment — named here, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 18).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — All that Jazz! — Duke Ellington's "Mood Indigo"; accompanying Cab Calloway's "Minnie the Moocher" with the swing rhythmic pattern (workbook) | Book 8, printed p. 23 |
+| Greece — Ελληνική τζαζ (Greek jazz) — hearing three examples of Greek jazz and matching them; an excerpt of «Αν σ' αρνηθώ αγάπη μου» on the staff (workbook) | Book 8, printed p. 38 |
+
+**Book 9:** *Mousiki C' Gymnasiou (student book, Greek)* — Title as printed: Μουσική Γ΄ Γυμνασίου — Βιβλίο Μαθητή (Music Grade 9) Grade: Grade 9 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); V2 edition; ISBN 978-960-06-2768-8 (book code 0-21-0220) PDF pages: 90 (cover verified against the record title; byte size 9,185,197 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: the theory text behind Book 18's workbook, closing "instead of an epilogue" with two production projects — the class makes its own radio programme and its own multi-art spectacle — so the Greek song history ends by handing the microphone to the students. Excluded per standing rules: the closing Ευρετήριο (index, printed p. 85) is apparatus, inventory-only. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 19).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — All that Jazz! — jazz — Ellington, Calloway and swing (student book) | Book 9, printed p. 33 |
+| Greece — Ελληνική τζαζ (Greek jazz) — jazz naturalised in Greece (student book) | Book 9, printed p. 63 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

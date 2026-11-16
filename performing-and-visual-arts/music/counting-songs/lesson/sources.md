@@ -1,6 +1,6 @@
 # Sources — Counting Songs
 
-countries: Ethiopia, Turkmenistan, Libya, Rwanda
+countries: Ethiopia, Turkmenistan, Libya, Rwanda, Greece
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 96 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -21,7 +21,7 @@ countries: Ethiopia, Turkmenistan, Libya, Rwanda
 | Rwanda — Unit 1 Lesson 5: Songs related to numeracy — counting songs that carry the numbers one to ten in Kinyarwanda, sung and performed in public (teacher guide — evidence) | Book 5, printed p. 34 |
 
 
-**Acceptance count: taught in 2 countries (Ethiopia, Turkmenistan).** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 3 countries (Ethiopia, Turkmenistan, Greece).** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Only the counting structure of each song is taught — the placements themselves state that the verses are not transcribed, and this lesson follows them. The bottles GIF shows one fall and the count dropping 5 to 4, the first verse's motion; it does not claim the song's later verses.
 
@@ -33,3 +33,11 @@ Searchable tags: counting songs, counting back, five little ducks, five green bo
 | Lesson part | Where it comes from |
 |---|---|
 | Libya — The Numbers Song (نشيد جمع الأعداد) — counting by song: one hand has five fingers, and when the other hand is added they make ten for certain (teacher guide — evidence; original target `music/counting-songs`) | Book 4, printed p. 33 |
+
+**Book 6:** *Μουσική Ε΄ Δημοτικού (student book, Greek)* — Title as printed: Μουσική Ε΄ Δημοτικού (Music, Primary Grade 5), by Κατερίνα Αποστολίδου, Χρυσάνθη Ζεπάτου Grade: 5 (student/teacher: STUDENT) Publisher: ITYE «Διόφαντος», book code 0-10-0129, ISBN 978-960-06-2596-7 PDF pages: 74 (byte size 7,715,092 matches the record exactly; cover and contents verified) Verdict: COMPLETE — songs placed by theme only (no lyrics); the closing ΑΝΘΟΛΟΓΙΟ ΤΡΑΓΟΥΔΙΩΝ (song anthology, pp. 55–65) is named here, not placed song by song. Standing exclusions named: the ΕΥΡΕΤΗΡΙΟ ΟΡΩΝ ΚΑΙ ΕΝΝΟΙΩΝ (index of terms and concepts), printed p. 66 — inventory-only, not placed. Greece's own way: the homeland sings three times in the year (28 October, 17 November, 25 March — the national days), the Easter hymn Χριστός Ανέστη is a chapter, and Greece's own Byzantine chant gets its own musical alphabet chapter (Ch. 14). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 37).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Chapter 25: Ας παίξουμε μουσικά παιχνίδια και ας λύσουμε γρίφους (let's play music games and solve riddles) (student book) | Book 6, printed p. 54 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

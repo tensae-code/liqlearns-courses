@@ -1,6 +1,6 @@
 # Sources — Pointillism
 
-countries: Mozambique, Angola, Mongolia, Moldova, Syria, North Macedonia
+countries: Mozambique, Angola, Mongolia, Moldova, Syria, North Macedonia, Greece
 
 **Book 1:** *Educação Visual — Módulo 1 (PESD I — Programa do Ensino Secundário à Distância, 1º Ciclo)* (student book, Portuguese) — Mozambique, Ministério da Educação e Desenvolvimento Humano (MINEDH), Instituto de Educação Aberta e à Distância (IEDA), Moçambique, 2023; elaborated by Dionísio Manjate and Félix Mindú; no ISBN printed, Grades 7–9 (the PESD I cycle is taught as one combined cycle, not split by grade), 152 PDF pp. STUDENT. Verdict: COMPLETE (cover/title verified — "EDUCAÇÃO VISUAL, MÓDULO 1, PESD I"; 20,947,967 bytes, exact match to the record; fetched from GitHub Releases, mid-size-books-8). Mozambique's own way: a self-study distance module — every lesson carries objectives, the teaching body, exercises, a summary and an answer key for the lone learner. Named, not placed: the per-lesson glossaries and the closing Bibliography (printed p. 150) — inventory only; the Unit 5 introduction (printed p. 127) announces a third textiles lesson on basketry (cestaria) that does not appear in this module — a gap in the book, noted as filed. Excluded per the placements: the end-of-module preparation test (Teste de Preparação de Fim do Módulo, printed pp. 138–144) and its answer key (printed pp. 145–149) — the book's own assessment; the lessons' exercises and answer keys are self-study apparatus (all teaching content is placed from the lesson bodies). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/mozambique-placements.md.
 
@@ -48,7 +48,7 @@ countries: Mozambique, Angola, Mongolia, Moldova, Syria, North Macedonia
 |---|---|
 | Syria — Lesson 15 "Pointillism" — painting a landscape entirely from small dots of colour, Georges Seurat's invented technique, minding light areas and shadow areas (student book; original target `visual-art/pointillism-painting-with-dots`) | Book 8, printed p. 32 |
 
-**Acceptance count: taught in 6 countries (Mozambique, Angola, Mongolia, Moldova, Syria, North Macedonia).** Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 7 countries (Mozambique, Angola, Mongolia, Moldova, Syria, North Macedonia, Greece).** Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/pointillism`); the Mozambique placements were filed under the original string(s) `visual-art/pointillism`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Mozambique's own way: pointillism is taught as a step-by-step procedure with household materials, inside its drawing lesson, for the lone distance learner.
 
@@ -62,3 +62,17 @@ Searchable tags: pointillism, pontilhismo, dots, graphite, tone, Mozambique, Syr
 | North Macedonia — Неоимпресионизам — Neo-Impressionism: the scientific point — pure colours set as dots to mix in the viewer's eye — Seurat and Signac (student book; original target `visual-art/pointillism`) | Book 9, printed p. 133 |
 
 North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 10:** *Eikastika G'-D' Dimotikou (student book, Greek)* — Title as printed: Εικαστικά Γ΄ & Δ΄ Δημοτικού — Βιβλίο Μαθητή Grade: Grades 3-4 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); year 2013, revised printing 2015; ISBN 978-960-06-2531-8 (book code 0-10-0070) PDF pages: 98 (cover/title page verified against the record title; byte size 26,373,502 matches the record exactly — fetched from the record's ministry source_url after the GitHub API grab dropped twice with RemoteDisconnected) Verdict: COMPLETE Greece's own way: the elements of art (points, lines, shapes, colour) are taught through named artists — Greek (Chryssa Romanou, Stefanos Antonakos, Pavlos) and world (Seurat, Klee, Moore, Picasso) — and through Greece's own heritage: ancient Greek sculpture and Byzantine icon painting taught by visiting a working icon painter's studio. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 2).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Α1 «……….», χωρίς τίτλο (Untitled — points) — countless points in sand grains and stars; artists who built whole works from points alone (details from Seurat, a work by Signac), and children experimenting with iron filings and magnets (student book; original target `visual-art/pointillism-drawing-with-dots`) | Book 10, printed p. 10 |
+
+**Book 11:** *Eikastika A' Gymnasiou, Tetradio Ergasion (workbook, Greek)* — Title as printed: Εικαστικά Α΄ Γυμνασίου — Τετράδιο Εργασιών (Visual Arts Grade 7 — Workbook) Grade: Grade 7 (student/teacher: STUDENT workbook) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); revised V2 edition (2025 printing in the PDF); ISBN 978-960-06-2663-6 (book code 0-21-0019) PDF pages: 34 (cover verified against the record title; byte size 6,570,847 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: a personal sketch-portfolio the pupil fills all year — collecting doodles, colour swatches, technique samples and artwork analyses; Greek heritage enters through the statues' axes exercise and completing the Parthenon in pencil. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 6).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Σημεία, γραμμές και φόρμες (Points, lines and forms) — making a whole work from points only — dense marker dots, or torn bits of coloured magazine paper — and enriching an old work with points and lines (workbook; original target `visual-art/pointillism-drawing-with-dots`) | Book 11, printed p. 12 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

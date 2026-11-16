@@ -1,6 +1,6 @@
 # Sources — The Voice and Its Types
 
-countries: Haiti, Moldova, Syria, North Macedonia
+countries: Haiti, Moldova, Syria, North Macedonia, Greece
 
 **Book 1:** *Éducation esthétique et artistique — Musique — La voix* (teacher guide, French) — Haiti, Projet Nectar, MENFP (Canoprof); Creative Commons BY-NC-SA; no year printed on the cover; no ISBN printed, Grade 7e année (7a per the record's file name), French, 14 PDF pp (printed pp. 3–14 per its own table of contents). TEACHER — teacher guide. Verdict: COMPLETE (cover verified against the record title). Exclusions per the placements: Séance 7 (Révision) and Séance 8 (Évaluation) — named, not placed. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/haiti-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -47,7 +47,7 @@ countries: Haiti, Moldova, Syria, North Macedonia
 |---|---|
 | Syria — Lesson 3 "Her Voice and Your Voice" — classifying human voices — women's soprano (high) and alto (low), men's tenor (high) and basso (low) — hearing named singers, comparing instruments with voices, and finding your own voice type (student book; original target `music/finding-your-vocal-range`) | Book 6, printed p. 10 |
 
-**Acceptance count: taught in 3 countries (Moldova, Syria, North Macedonia) — this lesson stands on Haiti teacher-guide / teacher-programme evidence only, named here, counted nowhere.** Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 4 countries (Moldova, Syria, North Macedonia, Greece) — this lesson stands on Haiti teacher-guide / teacher-programme evidence only, named here, counted nowhere.** Moldova is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/the-voice-and-its-types`); the Haiti placements were filed under the original strings recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Haiti's own way, carried in the placements: EEA is built in three volets — arts plastiques et visuels, arts de la scène (mainly music), and knowledge of Haitian culture and heritage (patrimoine haïtien) — taught in atelier sequences that make, analyse and verbalise, rooted in Haiti's own art forms. Every part of this lesson is labelled evidence; no student-textbook claim is made for it.
 
@@ -67,3 +67,23 @@ Searchable tags: voice, vocal types, soprano, tenor, baritone, bass, tessitura, 
 | North Macedonia — Машки гласови — the men's voices: tenor (Alva, Bocelli, Carreras, Caruso, Del Monaco, Schipa), baritone (Cappuccilli, Gobbi, Merrill, Hvorostovsky), bass (Chaliapin, Christoff, Pinza, Siepi, Salminen, Talvela) (student book; original target `music/vocal-timbre-and-voice-types`) | Book 8, printed p. 67 |
 
 North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 9:** *Mousiki G'-D' Dimotikou (student book, Greek)* — Title as printed: Μουσική Γ΄ & Δ΄ Δημοτικού — Βιβλίο Μαθητή Grade: Grades 3-4 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); year 2013 (revised printings 2015-16 in the PDF); ISBN 978-960-06-2534-9 (book code 0-10-0073) PDF pages: 90 (cover verified against the record title — ancient Greek lyre player on the cover; byte size 9,170,811 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: an Orff-style journey (lead author is an Orff music pedagogue) — sound adventures, voice games and homemade instruments first, notation growing out of play; Greece enters by name in the Greek folk instruments chapter and the May-tree custom. Excluded per standing rules: Ch. 16 «Ακούγοντας μουσική θυμάμαι...» (printed p. 53) is a consolidation/revision chapter of listening-recall games — not placed; the closing Γλωσσάρι (glossary) is inventory-only — named, not stocked. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 3).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — 4. Τα παιχνίδια της φωνής (The voice's games) — discovering your voice's different sounds; in singing, the voice transforms into a wonderful musical instrument (student book; original target `music/the-voice-as-an-instrument`) | Book 9, printed p. 14 |
+
+**Book 10:** *Mousiki A' Gymnasiou, Tetradio Ergasion (workbook, Greek)* — Title as printed: Μουσική Α΄ Γυμνασίου — Τετράδιο Εργασιών (Music Grade 7 — Workbook) Grade: Grade 7 (student/teacher: STUDENT workbook) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); ISBN 978-960-06-3126-9 (book code 0-21-0218). The series' authors are Cypriot music educators (University of Nicosia / Cyprus education service) — a Cyprus-written course adopted for Greek Gymnasia. PDF pages: 70 (cover verified against the record title; byte size 7,220,054 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: a weaving metaphor runs through it ("Υφαίνω μουσική" — I weave music): pupils compose ostinati, scales and rondos themselves, and the dance unit is Greece's own — Kalamatianos in 7/8 and Tsamikos — before a Viennese waltz party. Excluded per standing rules: Unit Γ΄ «Ας κάνουμε μια επανάληψη (1)» (printed p. 30) and Unit Ζ΄ «Ας κάνουμε μια επανάληψη (2)» (printed p. 56) are revision units (scale review, musical dictation/"spelling", crosswords) — named here, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 9).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Α3. Ανακαλύπτω τη φωνή (I discover the voice) — an introduction-and-improvisation game with the voice; shaping chosen words with vocal techniques; the accepted symbols of modern graphic notation (speech sounds, clicks, short sounds) (workbook; original target `music/the-voice-as-an-instrument`) | Book 10, printed p. 12 |
+
+**Book 11:** *Mousiki A' Gymnasiou (student book, Greek)* — Title as printed: Μουσική Α΄ Γυμνασίου — Βιβλίο Μαθητή (Music Grade 7 — Student Book) Grade: Grade 7 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); reissue 2019; ISBN 978-960-06-3026-8 (book code 0-21-0217). Same Cyprus-written series as Book 9, whose workbook it accompanies. PDF pages: 142 (cover verified against the record title; byte size 17,913,031 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: the teaching text behind Book 9's workbook — every lesson opens with its aim and key words; Greece's dances are taught as music theory: the Kalamatianos carries the 7/8 metre and the A harmonic minor scale, the Tsamikos carries the traditional clarinet, with Skalkottas' 36 Greek Dances and Theodorakis' «Άξιον Εστί» as listening. Excluded per standing rules: Units Γ΄ and Ζ΄ «Ας κάνουμε μια επανάληψη» (printed pp. 51, 112) are revision units — named here, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 10).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Α3. Ανακαλύπτω τη φωνή (I discover the voice) — the voice's ranges and colours, vocal techniques and graphic symbols for voice sounds (student book; original target `music/the-voice-as-an-instrument`) | Book 11, printed p. 17 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

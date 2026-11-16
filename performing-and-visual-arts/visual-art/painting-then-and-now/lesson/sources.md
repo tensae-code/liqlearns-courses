@@ -1,6 +1,6 @@
 # Sources — Painting Then and Now
 
-countries: Ethiopia, Albania, Trinidad and Tobago, Cuba, Mongolia, Malaysia, Syria, Armenia
+countries: Ethiopia, Albania, Trinidad and Tobago, Cuba, Mongolia, Malaysia, Syria, Armenia, Greece
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -133,7 +133,7 @@ countries: Ethiopia, Albania, Trinidad and Tobago, Cuba, Mongolia, Malaysia, Syr
 | Armenia — Armenian fine art, later 19th century — the LANDSCAPE genre: Hovhannes Aivazovsky (1817-1900), Gevorg Bashinjaghyan (1857-1925); the PORTRAIT genre: Hakob Hovnatanyan (1806-1881); the HISTORICAL genre: Vardges Sureniants (1860-1921) (student book; original target `visual-art/painting-then-and-now`) | Book 22, printed p. 171 |
 
 
-**Acceptance count: taught in 5 countries (Ethiopia, Mongolia, Malaysia, Syria, Armenia).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Cuba is added as a student book, inside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 6 countries (Ethiopia, Mongolia, Malaysia, Syria, Armenia, Greece).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Cuba is added as a student book, inside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Honesty notes: this lesson stocks only what the structure map assigns to it — the Grade 3 then-and-now comparison and the appreciating-paintings pages, with the Grade 3 teacher guide's valuing part as labelled evidence. Other painting placements in the series carry their own lesson targets in the placements files (the paint kinds, watercolour and oil, cave art, and the great painters) and are not stocked here; they are recorded as not-in-this-map in the build log. Afework Tekle is named in the lesson exactly as the Grade 3 book names him — the modern example — with no biography added beyond the placements.
 
@@ -153,3 +153,63 @@ Searchable tags: painting, Ethiopian painting, then and now, Afework Tekle, appr
 | Lesson part | Where it comes from |
 |---|---|
 | Cuba — §1.4, Líneas, formas y colores: las artes visuales — the abstract group Los Once (Raúl Martínez, Antonio Vidal, Fayad Jamís), Servando Cabrera's "Milicias Campesinas", Martínez's "15 repeticiones de Martí", and today's history painters Flora Fong, Nelson Domínguez and Ever Fonseca (student book; original target `visual-art/painting-then-and-now`) | Book 7, printed pp. 20–24 |
+
+**Book 23:** *Eikastika A'-B' Dimotikou (student book, Greek)* — Title as printed: Εικαστικά Α΄ & Β΄ Δημοτικού — Βιβλίο Μαθητή Grade: Grades 1-2 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); year 2013 (αναθεωρημένη έκδοση); ISBN 978-960-06-2475-5 (book code 0-10-0231) PDF pages: 98 (cover/title page verified against the record title; byte size 41,216,105 matches the record exactly) Verdict: COMPLETE Greece's own way: a story-and-picture journey book — each chapter opens with artworks (Greek painters Dimitris Mytaras, Alexis Akrithakis, Giannis Gaitis, Vasilis Skylakos; also Dubuffet and Paul Klee) and turns looking into making; nature materials and even rubbish are treated as art supplies. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 1).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Δ1 Ταξίδια με τον ζωγράφο της χαράς και του ονείρου (Journeys with the painter of joy and dream) — looking at Alexis Akrithakis' works and packing your colours for fantastic painted journeys of your own (student book) | Book 23, printed p. 76 |
+
+**Book 24:** *Eikastika G'-D' Dimotikou (student book, Greek)* — Title as printed: Εικαστικά Γ΄ & Δ΄ Δημοτικού — Βιβλίο Μαθητή Grade: Grades 3-4 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); year 2013, revised printing 2015; ISBN 978-960-06-2531-8 (book code 0-10-0070) PDF pages: 98 (cover/title page verified against the record title; byte size 26,373,502 matches the record exactly — fetched from the record's ministry source_url after the GitHub API grab dropped twice with RemoteDisconnected) Verdict: COMPLETE Greece's own way: the elements of art (points, lines, shapes, colour) are taught through named artists — Greek (Chryssa Romanou, Stefanos Antonakos, Pavlos) and world (Seurat, Klee, Moore, Picasso) — and through Greece's own heritage: ancient Greek sculpture and Byzantine icon painting taught by visiting a working icon painter's studio. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 2).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Δ3 Συντροφιά με ένα άλογο στα μονοπάτια της τέχνης (In a horse's company on the paths of art) — the horse in art from the primitive man's admiration and myths to today's works (student book) | Book 24, printed p. 75 |
+
+**Book 25:** *Eikastika C' Gymnasiou (student book, Greek)* — Title as printed: Εικαστικά Γ΄ Γυμνασίου — Βιβλίο Μαθητή (Visual Arts Grade 9) Grade: Grade 9 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); revised V3 edition; ISBN 978-960-06-2757-2 (book code 0-21-0133) PDF pages: 106 (cover verified against the record title; byte size 20,062,728 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: the theory text behind Book 16's workbook — form elements first, then the applied arts (graphics, industrial design, dress), then new technologies, then contemporary forms; Greek content is woven in — 20th-century Greek painters inside the volume theme, and dress history that ends at disguise and the theatre costume. Excluded per standing rules: the per-theme «ΓΛΩΣΣΑΡΙ» sections are inventory-only; the suggested bibliography (printed p. 102) is apparatus. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 17).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Ενότητα 1, Θέμα 2.3: Έλληνες ζωγράφοι του 20ού αιώνα (Greek painters of the 20th century) — Greece's modern painters met inside the study of volume and colour (student book) | Book 25, printed p. 22 |
+
+**Book 26:** *Εικαστικά Α΄ & Β΄ Δημοτικού, new edition (student book, Greek) — also the content of the older-edition Grade 2 art record (see Book 2 note)* — Title as printed: Εικαστικά (Visual Arts) Α΄ & Β΄ Δημοτικού Grade: 1–2 (record filed at grade-02) (student/teacher: STUDENT) Publisher: Υπουργείο Παιδείας / ΙΤΥΕ «Διόφαντος»; book code 10-0231; ISBN 978-960-06-3475-5 (cover barcode, looked at) PDF pages: 98 (cover verified — red cover, Εικαστικά Α΄ & Β΄ Δημοτικού) Verdict: COMPLETE — note: the PDF served for the new-edition record carries the same 10-0022 indd content and the same contents list as the older edition; the two records are placed once here and both editions are named in this header. Greece's own way: a studio-style art book for the youngest pupils — every lesson starts from looking closely (lines in a leaf, a fish skeleton, a snail; famous paintings) and ends in making, with Greek artists (Dimitris Mytaras' studio, a "painter of joy and dream") and Paul Klee as the children's guides. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 24).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — B4 Ένα παιδί ζωγραφίζει τ' άστρα (A child paints the stars) (student book) | Book 26, printed p. 43 |
+| Greece — Δ3 Καράβι που ταξιδεύει στο όνειρο (A ship travelling into dream) (student book) | Book 26, printed p. 82 |
+
+**Book 27:** *Εικαστικά Α΄ & Β΄ Δημοτικού, OLD edition (student book, Greek)* — Title as printed: Εικαστικά Α΄ & Β΄ Δημοτικού (Visual Arts, Primary Grades 1 & 2), by Θωμάς Ζωγράφος, Δημήτρης Μπέσσας, Ελεονόρα Μπέσσα Grade: 2 record (the book serves Grades 1 & 2; student/teacher: STUDENT) Publisher: ITYE «Διόφαντος» for the Ministry of Education (older ministry masthead), book code 0-10-0022, ISBN 978-960-06-2475-5 PDF pages: 98 (byte size 40,109,148 matches the record exactly; cover and contents verified — this is the genuine older edition, a different book from the NEW edition 10-0231 filed as Book 1 of this file, not the same file under two names) Verdict: COMPLETE Greece's own way: the same four activity kinds run through every chapter — artists' works, ideas for creating, our own creations, and observing nature and the environment; two chapters take children inside Greek art itself (Dimitris Mytaras's studio, and land art). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 27).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Unit Δ (Journeys into the creators' imaginary world) Δ1: Ταξίδια με τον ζωγράφο της χαράς και του ονείρου (journeys with the painter of joy and of the dream — Marc Chagall) (student book) | Book 27, printed p. 76 |
+| Greece — Unit Δ Δ5: Ο Πάουλ Κλέε μιλάει με ένα παιδί (Paul Klee talks with a child) (student book) | Book 27, printed p. 86 |
+
+**Book 28:** *Εικαστικά Α΄ & Β΄ Δημοτικού, Τετράδιο εργασιών (workbook, Greek)* — Title as printed: Εικαστικά Α΄ & Β΄ Δημοτικού — Τετράδιο εργασιών (Visual Arts Workbook), by Θωμάς Ζωγράφος, Δημήτρης Μπέσσας, Ελεονόρα Μπέσσα Grade: 2 (student/teacher: STUDENT workbook) Publisher: ITYE «Διόφαντος», book code 0-10-0023, ISBN 978-960-06-2476-2 PDF pages: 58 (byte size 17,117,877 matches the record exactly; cover verified) Verdict: COMPLETE — the workbook mirrors the OLD-edition student book chapter for chapter (A1 p. 10 … Δ5 p. 46), giving each chapter hands-on practice pages; placed at unit level. Greece's own way: every workbook chapter sends the child back to the same artists and nature the student book showed — e.g. the Klee chapter has the child imagine a dialogue with Klee's fruit and repair a Klee drawing that "has lost its rhythm". Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 28).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Unit Δ workbook pages: meeting the creators in practice (Δ5 Ο Πάουλ Κλέε μιλάει με ένα παιδί) (workbook) | Book 28, printed pp. 41–46 |
+
+**Book 29:** *Εικαστικά Γ΄ & Δ΄ Δημοτικού (student book, Greek)* — Title as printed: Εικαστικά Γ΄ & Δ΄ Δημοτικού (Visual Arts, Primary Grades 3 & 4), by Θωμάς Ζωγράφος, Αριάδνη Αξαοπούλου, Δημήτρης Μπέσσας, Ελεονόρα Μπέσσα Grade: 4 record (the book serves Grades 3 & 4; student/teacher: STUDENT) Publisher: ITYE «Διόφαντος», book code 0-10-0070, ISBN 978-960-06-2531-8 PDF pages: 98 (byte size 26,373,502 matches the record exactly; cover and contents verified) Verdict: COMPLETE Greece's own way: the older-primary art book walks from formal elements to Greece's own heritage — two dialogues in ancient Greek art and Byzantine icon painting — and out to Duchamp-style found objects and sculptures that move. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 33).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Unit Δ Δ3: Συντροφιά με ένα άλογο στα μονοπάτια της τέχνης (in company with a horse along the paths of art — the horse through art history) (student book) | Book 29, printed p. 75 |
+
+**Book 30:** *Εικαστικά Ε΄ & Στ΄ Δημοτικού «Παρατηρώ & δημιουργώ» (student book, Greek)* — Title as printed: Εικαστικά Ε΄ & Στ΄ Δημοτικού — «Παρατηρώ & δημιουργώ» (Visual Arts, Primary Grades 5 & 6 — "I Observe & I Create"), by Απόστολος Ν. Μαγουλιώτης, Αθανάσιος Τσιπλητάρης Grade: 6 record (the book serves Grades 5 & 6; student/teacher: STUDENT) Publisher: ITYE «Διόφαντος», book code 0-10-0139, ISBN 978-960-06-2605-6 PDF pages: 94 (byte size 25,466,091 matches the record exactly; cover and contents verified) Verdict: COMPLETE Greece's own way: a materials-first course — colour, paper, mosaic, wire, clay — that ends in art history (Realism to Pop Art) and a museum visit; the mosaic unit is Greece's own Byzantine-rooted craft taught by both construction methods. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 39).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Part Δ (History of art) 1: Ρεαλισμός (Realism — scenes of everyday life, yours and the artists') (student book) | Book 30, printed  |
+| Greece — Part Δ 2: Ιμπρεσιονισμός (Impressionism — games of light; creating with pastels and watercolours) (student book) | Book 30, printed  |
+| Greece — Part Δ 4: Αφαίρεση (Abstraction — looking at the world with another eye; Mondrian paints; seeing colours and shapes) (student book) | Book 30, printed  |
+
+**Book 31:** *Εικαστικά Ε΄ & Στ΄ Δημοτικού, Τετράδιο εργασιών (workbook, Greek)* — Title as printed: Εικαστικά Ε΄ & Στ΄ Δημοτικού — Τετράδιο εργασιών (Visual Arts Workbook, Primary Grades 5 & 6) Grade: 6 record (student/teacher: STUDENT workbook) Publisher: ITYE «Διόφαντος» PDF pages: 50 (byte size 6,016,364 matches the record exactly; spot-verified against the student book's parts) Verdict: COMPLETE — practice pages mirroring the «Παρατηρώ & δημιουργώ» student book; placed at part level. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 40).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Part Δ workbook pages: art-history practice (Realism to Pop Art) and the museum (workbook) | Book 31, printed  |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

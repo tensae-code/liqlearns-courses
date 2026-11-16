@@ -1,7 +1,7 @@
 # Sources — Mixing Colours
 
 
-countries: Ethiopia, Barbados, Nicaragua, Singapore, Bhutan, Serbia, Mozambique, Fiji, Colombia, Belarus, Iran, Papua New Guinea, Brazil, Libya, Venezuela, Angola, Afghanistan, Rwanda, Moldova, Indonesia, Armenia
+countries: Ethiopia, Barbados, Nicaragua, Singapore, Bhutan, Serbia, Mozambique, Fiji, Colombia, Belarus, Iran, Papua New Guinea, Brazil, Libya, Venezuela, Angola, Afghanistan, Rwanda, Moldova, Indonesia, Armenia, Greece
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -124,7 +124,7 @@ countries: Ethiopia, Barbados, Nicaragua, Singapore, Bhutan, Serbia, Mozambique,
 | Armenia — Mixing the main colours gives the secondary colours (student book; original target `visual-art/mixing-colours`) | Book 30, printed p. 12 |
 
 
-**Acceptance count: taught in 15 countries (Ethiopia, Bhutan, Serbia, Mozambique, Fiji, Colombia, Belarus, Iran, Brazil, Venezuela, Angola, Afghanistan, Rwanda, Moldova, Armenia). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 16 countries (Ethiopia, Bhutan, Serbia, Mozambique, Fiji, Colombia, Belarus, Iran, Brazil, Venezuela, Angola, Afghanistan, Rwanda, Moldova, Armenia, Greece). Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Sub lesson 2 rests on teacher-guide evidence only for its own content (the Grade 3 teacher guide's colour framework); it is labelled as evidence in the part name, in the lesson text and in this table. The lesson as a whole stands on the Grade 3 student textbook. The Grade 3 Chapter 2 closing exercise carries the trap item "red mixed equally with yellow creates green" (false — it creates orange, per §2.3); the lesson teaches the corrected mixing and uses the trap as a question, exactly as the book's exercise frames it.
 
@@ -157,3 +157,36 @@ Searchable tags: mixing colours, secondary colours, green orange purple ወይ�
 | Afghanistan — Lesson 4: The primary colours (رنگ‌های اصلی) — the three primary colours and the way of combining them — mixing two colours in equal measure (red, yellow, blue giving orange, green, purple), naming the colours obtained, and working the combinations in the drawing notebook (student book; original target `visual-art/mixing-colours`) | Book 21, printed p. 7 |
 
 Afghanistan is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 31:** *Eikastika A'-B' Dimotikou (student book, Greek)* — Title as printed: Εικαστικά Α΄ & Β΄ Δημοτικού — Βιβλίο Μαθητή Grade: Grades 1-2 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); year 2013 (αναθεωρημένη έκδοση); ISBN 978-960-06-2475-5 (book code 0-10-0231) PDF pages: 98 (cover/title page verified against the record title; byte size 41,216,105 matches the record exactly) Verdict: COMPLETE Greece's own way: a story-and-picture journey book — each chapter opens with artworks (Greek painters Dimitris Mytaras, Alexis Akrithakis, Giannis Gaitis, Vasilis Skylakos; also Dubuffet and Paul Klee) and turns looking into making; nature materials and even rubbish are treated as art supplies. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 1).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Α3 Η γέφυρα του ουράνιου τόξου (The rainbow bridge) — sunlight gives nature its colours; the primary colours yellow, red and blue make orange, green and violet; a landscape-photo collage sorted by rainbow colours (student book) | Book 31, printed p. 18 |
+
+**Book 32:** *Eikastika E'-ST' Dimotikou (student book, Greek)* — Title as printed: Εικαστικά — Παρατηρώ & δημιουργώ, Ε΄ & Στ΄ Δημοτικού (Visual Arts — I Observe & Create) Grade: Grades 5-6 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); ISBN 978-960-06-2605-6 (book code 0-10-0139) PDF pages: 94 (cover verified against the record title; byte size 25,466,091 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: a materials-and-professions book — simple materials (paper, wire, tesserae, clay) taught as real techniques including Byzantine-rooted mosaic methods, then the visual professions (cartoonist, comics artist, lettering designer, model-maker, photographer), then art history taught as five movements you try yourself. Excluded per standing rules: the Appendix (Παράρτημα) — glossary, bibliography, index — is inventory-only, named here, not stocked. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 4).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Α1. Χρώμα (Colour) — nature "paints" first; how artists choose colours (Van Gogh's night café, Matisse's Harmony in Red); magazines as a palette source; mixing oil pastels (student book) | Book 32, printed p. 12 |
+
+**Book 33:** *Εικαστικά Α΄ & Β΄ Δημοτικού, new edition (student book, Greek) — also the content of the older-edition Grade 2 art record (see Book 2 note)* — Title as printed: Εικαστικά (Visual Arts) Α΄ & Β΄ Δημοτικού Grade: 1–2 (record filed at grade-02) (student/teacher: STUDENT) Publisher: Υπουργείο Παιδείας / ΙΤΥΕ «Διόφαντος»; book code 10-0231; ISBN 978-960-06-3475-5 (cover barcode, looked at) PDF pages: 98 (cover verified — red cover, Εικαστικά Α΄ & Β΄ Δημοτικού) Verdict: COMPLETE — note: the PDF served for the new-edition record carries the same 10-0022 indd content and the same contents list as the older edition; the two records are placed once here and both editions are named in this header. Greece's own way: a studio-style art book for the youngest pupils — every lesson starts from looking closely (lines in a leaf, a fish skeleton, a snail; famous paintings) and ends in making, with Greek artists (Dimitris Mytaras' studio, a "painter of joy and dream") and Paul Klee as the children's guides. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 24).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — A5 Χρωματογράμματα (colour strips/charts — laying colours in order and seeing them side by side) (student book; original target `visual-art/colour-stripes-and-mixtures`) | Book 33, printed p. 25 |
+| Greece — B2 Η παλέτα των λουλουδιών (The flowers' palette) (student book) | Book 33, printed p. 34 |
+
+**Book 34:** *Εικαστικά Α΄ & Β΄ Δημοτικού, OLD edition (student book, Greek)* — Title as printed: Εικαστικά Α΄ & Β΄ Δημοτικού (Visual Arts, Primary Grades 1 & 2), by Θωμάς Ζωγράφος, Δημήτρης Μπέσσας, Ελεονόρα Μπέσσα Grade: 2 record (the book serves Grades 1 & 2; student/teacher: STUDENT) Publisher: ITYE «Διόφαντος» for the Ministry of Education (older ministry masthead), book code 0-10-0022, ISBN 978-960-06-2475-5 PDF pages: 98 (byte size 40,109,148 matches the record exactly; cover and contents verified — this is the genuine older edition, a different book from the NEW edition 10-0231 filed as Book 1 of this file, not the same file under two names) Verdict: COMPLETE Greece's own way: the same four activity kinds run through every chapter — artists' works, ideas for creating, our own creations, and observing nature and the environment; two chapters take children inside Greek art itself (Dimitris Mytaras's studio, and land art). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 27).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Unit A A5: Χρωματογράμματα (colour-grams — colour compositions) (student book) | Book 34, printed p. 25 |
+
+**Book 35:** *Εικαστικά Ε΄ & Στ΄ Δημοτικού «Παρατηρώ & δημιουργώ» (student book, Greek)* — Title as printed: Εικαστικά Ε΄ & Στ΄ Δημοτικού — «Παρατηρώ & δημιουργώ» (Visual Arts, Primary Grades 5 & 6 — "I Observe & I Create"), by Απόστολος Ν. Μαγουλιώτης, Αθανάσιος Τσιπλητάρης Grade: 6 record (the book serves Grades 5 & 6; student/teacher: STUDENT) Publisher: ITYE «Διόφαντος», book code 0-10-0139, ISBN 978-960-06-2605-6 PDF pages: 94 (byte size 25,466,091 matches the record exactly; cover and contents verified) Verdict: COMPLETE Greece's own way: a materials-first course — colour, paper, mosaic, wire, clay — that ends in art history (Realism to Pop Art) and a museum visit; the mosaic unit is Greece's own Byzantine-rooted craft taught by both construction methods. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 39).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Part A (Simple materials & formal elements) 1: Χρώμα (colour — nature "paints", artists choose colours, magazines as a palette source, mixing oil pastels) (student book) | Book 35, printed pp. 12–15 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

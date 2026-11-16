@@ -1,6 +1,6 @@
 # Sources — Arts of Many Cultures
 
-countries: Armenia, North Macedonia
+countries: Armenia, North Macedonia, Greece
 
 **Book 1:** *Երաժշտություն 4 (Music 4)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2025 (guide's imprint year; the textbook is ministry-approved, ՀՏԴ 373:78(075.3)); ISBN not printed in the extracted front matter. Grade: 4 (student/teacher: STUDENT). PDF pages: 104 (cover verified against the record title; byte size 46,004,309 matches the release index exactly; fetched via the recorded ministry source_url). Verdict: COMPLETE (the closing notation appendix, printed pp. 84-99, gives the year's songs in notation — inventory only; the subject index, pp. 100-101, is a glossary — inventory only). Author: Tatevik Shakhkulyan. The whole year is FOLK MUSIC: what a folk song is, how it reaches us, collectors, dances, work songs, feast songs, the instruments blul and dhol, strings and Sayat-Nova, weddings, choirs — Armenia's folk art first, then the world's (French, Italian, Polish, Scottish, Japanese, Maori, Ukrainian, American songs). Armenia's own way: grade 4 is the folk year — Komitas, Spiridon Melikyan and Mihran Tumajan are taught as the collectors who saved the songs; the Govnd and Ververi dances, the plough song and the spinning songs, Tsaghkazard and the wedding praise-songs are the core repertoire. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/armenia-placements.md.
 
@@ -53,7 +53,7 @@ countries: Armenia, North Macedonia
 |---|---|
 | Armenia — Art in the land of the rising sun — the arts of Japan met as another people's heritage (student book; original target `culture-and-values/japanese-art`) | Book 8, printed p. 179 |
 
-**Acceptance count: taught in 2 countries (Armenia, North Macedonia).** Armenia's teacher-guide placements in this lesson are evidence only, kept outside the acceptance count; its student-book stock is inside the count.
+**Acceptance count: taught in 3 countries (Armenia, North Macedonia, Greece).** Armenia's teacher-guide placements in this lesson are evidence only, kept outside the acceptance count; its student-book stock is inside the count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `culture-and-values/arts-of-many-cultures`). The Armenia placements were filed under the original string(s) `culture-and-values/arts-of-other-cultures`, `culture-and-values/japanese-art`, `culture-and-values/music-of-many-cultures`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2 where the string differs. Armenia's own way is the lesson itself where the topic is Armenian: the country's own music, dances, crafts and art forms are kept as named parts. Songs are placed by title and theme only, never transcribed.
 
@@ -66,3 +66,23 @@ Searchable tags: Armenia, Arts of Many Cultures, Do ALL nations have folk songs
 | North Macedonia — the world's musical heritage: West Africa's djembe and xylophones, the kora of the East, North Africa's oud and daf, the South's group singing; Asia's erhu, koto, sitar and tabla, Southeast Asia's metal and wooden percussion, the Middle East's ney and qanun; the Americas' Native and African-rooted music, Andean pan flute, salsa and samba; Aboriginal Australia's didgeridoo and the song-dances of Oceania (student book; original target `culture-and-values/world-music-heritage`) | Book 9, printed pp. 170–171 |
 
 North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 10:** *Μουσική Β΄ Δημοτικού (student book, Greek)* — Title as printed: Μουσική Β΄ Δημοτικού — Βιβλίο Μαθητή (Music, Primary Grade 2), by Μαρία Αργυρίου, Μαγδαληνή Λουλάκη, Ελένη Τσολιά, Μαρία Μπαγ... (title-page text partially garbled in extraction; authors as printed) Grade: 2 (student/teacher: STUDENT) Publisher: ITYE «Διόφαντος» for the Ministry of Education, book code 0-10-0046, ISBN 978-960-06-2503-5 PDF pages: 58 (byte size 12,309,804 matches the record exactly; cover verified) Verdict: COMPLETE — 25 short song-chapters; per the standing rule the songs themselves are placed by theme only, never with lyrics; the skill chapters are placed individually below. Greece's own way: a year of singing built as 25 story-chapters — sound, instruments, notes, rhythm, dance and the seasons — including a waltz chapter and a round-the-world closing chapter. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 29).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Chapter 25: Ο γύρος του κόσμου (the round-the-world journey in song — songs named only) (student book; original target `culture-and-values/songs-around-the-world`) | Book 10, printed p. 31 |
+
+**Book 11:** *Μουσική Γ΄ & Δ΄ Δημοτικού (student book, Greek)* — Title as printed: Μουσική Γ΄ & Δ΄ Δημοτικού (Music, Primary Grades 3 & 4), by Δέσποινα Μπογδάνη-Σουγιούλ, Δέσποινα Σαλκιτζόγλου, Μαρία Καψημάνη Grade: 4 record (the book serves Grades 3 & 4; student/teacher: STUDENT) Publisher: ITYE «Διόφαντος», book code 0-10-0073, ISBN 978-960-06-2534-9 PDF pages: 90 (byte size 9,170,811 matches the record exactly; cover and contents verified) Verdict: COMPLETE — songs placed by theme only (no lyrics); the listening chapters name serious repertoire (Strauss, Handel, Vivaldi, Paganini in the listening guide). Standing exclusions named: the closing Γλωσσάρι (glossary) — inventory-only, not placed. Greece's own way: a full musicianship year — staff, rhythm, forms, listening — that ends by meeting Greece's own folk instruments (Ch. 22) and the May-tree custom (Ch. 25). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 35).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Chapter 24: Ταξιδεύοντας με τη μουσική σε όλη τη γη (travelling with music over the whole earth, songs named only) (student book; original target `culture-and-values/songs-around-the-world`) | Book 11, printed p. 57 |
+
+**Book 12:** *Μουσική Στ΄ Δημοτικού (student book, Greek)* — Title as printed: Μουσική Στ΄ Δημοτικού (Music, Primary Grade 6), by Μαρία Θεοδωρακοπούλου, Γρηγόριος Παπαντώνης, Χαρίκλεια-Άννα Παρασκευοπούλου, Ιωάννης Σπετσιώτης Grade: 6 (student/teacher: STUDENT) Publisher: ITYE «Διόφαντος», book code 0-10-0175, ISBN 978-960-06-2641-4 PDF pages: 82 (byte size 20,359,696 matches the record exactly; cover and contents verified) Verdict: COMPLETE — songs placed by theme only (no lyrics). Greece's own way: the final primary year gives Greek music its own history (Topics 9–10: Η ελληνική μουσική στους αιώνες — Greek music through the centuries) and binds music to freedom (Topics 8 & 17: people–song–freedom; songs for liberty). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 41).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Topic 12: Ο γύρος του κόσμου σε... 8' (the round-the-world trip in 8 minutes, songs named only) — placement against the NEW lesson proposed from the Grade 2/3–4 books (student book; original target `culture-and-values/songs-around-the-world`) | Book 12, printed p. 38 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

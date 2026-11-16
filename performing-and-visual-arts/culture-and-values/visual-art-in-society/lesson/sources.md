@@ -1,6 +1,6 @@
 # Sources — Visual Art in Society
 
-countries: Ethiopia, Andorra, Libya, Malaysia, Moldova
+countries: Ethiopia, Andorra, Libya, Malaysia, Moldova, Greece
 
 **Book 1:** *Grade 4 Performing and Visual Arts Teacher Guide (፬ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed pp. i–iii + body to printed p.62 + syllabus to printed p.93. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-teacher-placements.md.
 
@@ -24,7 +24,7 @@ countries: Ethiopia, Andorra, Libya, Malaysia, Moldova
 |---|---|
 | Moldova — Unit IV §1, Rolul artelor plastice în societate și în cultură — what visual art does in society: a language of expression and a way of knowing — old paintings report an age's history, wars, trades, tastes and dress (student book; original target `culture-and-values/visual-art-in-society`) | Book 5, printed p. 61 |
 
-**Acceptance count: taught in 2 countries (Malaysia, Moldova). Earlier stock stands on teacher-guide evidence only (Ethiopia), named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 3 countries (Malaysia, Moldova, Greece). Earlier stock stands on teacher-guide evidence only (Ethiopia), named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 This lesson rests only on the Grade 4 teacher guide's §§3.4–3.4.2 (printed pp. 59–61), labelled teacher-guide evidence throughout.
 
@@ -36,3 +36,11 @@ Searchable tags: visual art in society, culture, history, public art, teacher gu
 | Lesson part | Where it comes from |
 |---|---|
 | Libya — The mural — the year's closing workshop: a collective wall panel assembled from the pupils' artworks of the whole year — the rules and techniques of large group works (designing, assembling, organising, distributing, preparing the ground) (teacher guide — evidence; original target `culture-and-values/visual-art-in-society`) | Book 3, printed pp. 107–111 |
+
+**Book 6:** *Εικαστικά Ε΄ & Στ΄ Δημοτικού «Παρατηρώ & δημιουργώ» (student book, Greek)* — Title as printed: Εικαστικά Ε΄ & Στ΄ Δημοτικού — «Παρατηρώ & δημιουργώ» (Visual Arts, Primary Grades 5 & 6 — "I Observe & I Create"), by Απόστολος Ν. Μαγουλιώτης, Αθανάσιος Τσιπλητάρης Grade: 6 record (the book serves Grades 5 & 6; student/teacher: STUDENT) Publisher: ITYE «Διόφαντος», book code 0-10-0139, ISBN 978-960-06-2605-6 PDF pages: 94 (byte size 25,466,091 matches the record exactly; cover and contents verified) Verdict: COMPLETE Greece's own way: a materials-first course — colour, paper, mosaic, wire, clay — that ends in art history (Realism to Pop Art) and a museum visit; the mosaic unit is Greece's own Byzantine-rooted craft taught by both construction methods. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 39).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Part B 3: Περιβάλλον (the environment and us; the environment in our dreams — art for the environment) (student book) | Book 6, printed  |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

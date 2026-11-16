@@ -1,6 +1,6 @@
 # Sources — Music in Society
 
-countries: Ethiopia, Andorra, Iceland, Cuba, Mongolia, Malaysia, Moldova, Indonesia
+countries: Ethiopia, Andorra, Iceland, Cuba, Mongolia, Malaysia, Moldova, Indonesia, Greece
 
 **Book 1:** *Grade 4 Performing and Visual Arts Teacher Guide (፬ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed pp. i–iii + body to printed p.62 + syllabus to printed p.93. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-teacher-placements.md.
 
@@ -56,7 +56,7 @@ countries: Ethiopia, Andorra, Iceland, Cuba, Mongolia, Malaysia, Moldova, Indone
 |---|---|
 | Indonesia — Bab IV Penerapan Musik dalam Kehidupan — applying music in life — where music works in everyday and community life (teacher guide — evidence; original target `culture-and-values/music-in-society`) | Book 12, printed p. 151 |
 
-**Acceptance count: taught in 4 countries (Cuba, Mongolia, Malaysia, Moldova). Earlier evidence-only entries stay outside the acceptance count. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 5 countries (Cuba, Mongolia, Malaysia, Moldova, Greece). Earlier evidence-only entries stay outside the acceptance count. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This lesson rests only on the Grade 4 teacher guide's society chapter (printed pp. 47–56), labelled teacher-guide evidence throughout. Songs are named and their functions taught; no lyrics are transcribed.
 
@@ -82,3 +82,31 @@ Searchable tags: music in society, war songs, የጦርነት ዘፈኖች, lame
 | Lesson part | Where it comes from |
 |---|---|
 | Cuba — Chapter 1, La música como manifestación artística — music's social functions: it accompanies celebrations and funerals, communicates values and forms of behaviour, and builds thought, memory, attention and creativity (student book; original target `culture-and-values/music-in-society`) | Book 6, printed p. 7 |
+
+**Book 13:** *Μουσική Γ΄ & Δ΄ Δημοτικού (student book, Greek)* — Title as printed: Μουσική Γ΄ & Δ΄ Δημοτικού (Music, Primary Grades 3 & 4), by Δέσποινα Μπογδάνη-Σουγιούλ, Δέσποινα Σαλκιτζόγλου, Μαρία Καψημάνη Grade: 4 record (the book serves Grades 3 & 4; student/teacher: STUDENT) Publisher: ITYE «Διόφαντος», book code 0-10-0073, ISBN 978-960-06-2534-9 PDF pages: 90 (byte size 9,170,811 matches the record exactly; cover and contents verified) Verdict: COMPLETE — songs placed by theme only (no lyrics); the listening chapters name serious repertoire (Strauss, Handel, Vivaldi, Paganini in the listening guide). Standing exclusions named: the closing Γλωσσάρι (glossary) — inventory-only, not placed. Greece's own way: a full musicianship year — staff, rhythm, forms, listening — that ends by meeting Greece's own folk instruments (Ch. 22) and the May-tree custom (Ch. 25). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 35).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Chapter 23: Μουσική! Παντού μουσική (Music! Music everywhere) (student book) | Book 13, printed p. 55 |
+
+**Book 14:** *Μουσική Ε΄ Δημοτικού (student book, Greek)* — Title as printed: Μουσική Ε΄ Δημοτικού (Music, Primary Grade 5), by Κατερίνα Αποστολίδου, Χρυσάνθη Ζεπάτου Grade: 5 (student/teacher: STUDENT) Publisher: ITYE «Διόφαντος», book code 0-10-0129, ISBN 978-960-06-2596-7 PDF pages: 74 (byte size 7,715,092 matches the record exactly; cover and contents verified) Verdict: COMPLETE — songs placed by theme only (no lyrics); the closing ΑΝΘΟΛΟΓΙΟ ΤΡΑΓΟΥΔΙΩΝ (song anthology, pp. 55–65) is named here, not placed song by song. Standing exclusions named: the ΕΥΡΕΤΗΡΙΟ ΟΡΩΝ ΚΑΙ ΕΝΝΟΙΩΝ (index of terms and concepts), printed p. 66 — inventory-only, not placed. Greece's own way: the homeland sings three times in the year (28 October, 17 November, 25 March — the national days), the Easter hymn Χριστός Ανέστη is a chapter, and Greece's own Byzantine chant gets its own musical alphabet chapter (Ch. 14). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 37).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Chapter 17: Μουσική για όλους (Music for everyone) (student book) | Book 14, printed p. 38 |
+| Greece — Chapter 23: Οι μουσικές του κόσμου (the musics of the world) (student book) | Book 14, printed p. 50 |
+
+**Book 15:** *Μουσική Στ΄ Δημοτικού (student book, Greek)* — Title as printed: Μουσική Στ΄ Δημοτικού (Music, Primary Grade 6), by Μαρία Θεοδωρακοπούλου, Γρηγόριος Παπαντώνης, Χαρίκλεια-Άννα Παρασκευοπούλου, Ιωάννης Σπετσιώτης Grade: 6 (student/teacher: STUDENT) Publisher: ITYE «Διόφαντος», book code 0-10-0175, ISBN 978-960-06-2641-4 PDF pages: 82 (byte size 20,359,696 matches the record exactly; cover and contents verified) Verdict: COMPLETE — songs placed by theme only (no lyrics). Greece's own way: the final primary year gives Greek music its own history (Topics 9–10: Η ελληνική μουσική στους αιώνες — Greek music through the centuries) and binds music to freedom (Topics 8 & 17: people–song–freedom; songs for liberty). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 41).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Topics 5–6: Η μουσική εμψυχώνει (music encourages/animates — what music does for people) (student book) | Book 15, printed pp. 18, 20 |
+| Greece — Topics 11, 13 & 14: Μουσική και... μουσικές (Music and... musics), Η μουσική μάς ενώνει (music unites us), Μουσική... χωρίς σύνορα (music without borders) (student book) | Book 15, printed pp. 34, 41, 44 |
+
+**Book 16:** *Μουσική Στ΄ Δημοτικού, Τετράδιο εργασιών (workbook, Greek)* — Title as printed: Μουσική Στ΄ Δημοτικού — Τετράδιο εργασιών (Music Workbook, Primary Grade 6) Grade: 6 (student/teacher: STUDENT workbook) Publisher: ITYE «Διόφαντος» PDF pages: 58 (byte size 9,338,125 matches the record exactly; spot-verified against the student book's topics) Verdict: COMPLETE — practice pages mirroring the Grade 6 student book; placed at the skill points. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 42).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — workbook practice for Topics 13–14 (music unites us; music without borders) (workbook) | Book 16, printed  |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

@@ -1,6 +1,6 @@
 # Sources — Greek and Roman Art
 
-countries: Jordan, Venezuela, Armenia, North Macedonia
+countries: Jordan, Venezuela, Armenia, North Macedonia, Greece
 
 **Book 1:** *التربية الفنية والموسيقية والمسرحية — الصف العاشر (Art, Music and Theatre Education — Grade Ten), teacher's guide (دليل المعلم)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Amman; year 2025 (first experimental edition, 1446H/2025); ISBN 978-9923-41-960-1. Grade: Grade 10 (student/teacher: TEACHER). PDF pages: 125 (cover/title page verified against the record title; printed page numbers equal PDF page numbers). Verdict: COMPLETE — read in full, page by page. Note: the Grade 10 student book is not among this group's records; this guide is the only evidence held for the Grade 10 curriculum, so every placement from it is marked teacher-guide evidence. The per-lesson self-assessment rubrics are assessment apparatus with no teaching content and are not placed; the three embedded play/story texts are summarised, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -32,7 +32,7 @@ countries: Jordan, Venezuela, Armenia, North Macedonia
 | Armenia — Art of Ancient Rome (Հին Հռոմի արվեստը) — Roman building, sculpture and painting (student book; original target `visual-art/ancient-roman-art`) | Book 4, printed p. 88 |
 
 
-**Acceptance count: taught in 3 countries (Venezuela, Armenia, North Macedonia).** Jordan is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 4 countries (Venezuela, Armenia, North Macedonia, Greece).** Jordan is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/greek-and-roman-art`); the Jordan placements were filed under the original string(s) `visual-art/art-of-roman-civilisation` and resolved to this lesson by slug-registry Part 2. Songs and stories are placed by summary only, never transcribed.
 
@@ -46,3 +46,11 @@ Searchable tags: greek and roman art, Jordan, Armenia
 | North Macedonia — Римска уметност — Roman art: the great builders — Pantheon, Colosseum, aqueducts and triumphal arches — realistic portrait busts, mosaics and illusionistic wall painting (student book; original target `visual-art/ancient-roman-art`) | Book 5, printed p. 129 |
 
 North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 6:** *Eikastika G'-D' Dimotikou (student book, Greek)* — Title as printed: Εικαστικά Γ΄ & Δ΄ Δημοτικού — Βιβλίο Μαθητή Grade: Grades 3-4 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); year 2013, revised printing 2015; ISBN 978-960-06-2531-8 (book code 0-10-0070) PDF pages: 98 (cover/title page verified against the record title; byte size 26,373,502 matches the record exactly — fetched from the record's ministry source_url after the GitHub API grab dropped twice with RemoteDisconnected) Verdict: COMPLETE Greece's own way: the elements of art (points, lines, shapes, colour) are taught through named artists — Greek (Chryssa Romanou, Stefanos Antonakos, Pavlos) and world (Seurat, Klee, Moore, Picasso) — and through Greece's own heritage: ancient Greek sculpture and Byzantine icon painting taught by visiting a working icon painter's studio. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 2).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Δ1 Δύο διάλογοι στην αρχαία ελληνική τέχνη (Two dialogues in ancient Greek art) — ancient Greek sculpture in its archaic and classical periods — the kouroi, symmetrical, spare, standing naked figures facing forward (student book; original target `visual-art/ancient-greek-sculpture`) | Book 6, printed p. 68 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

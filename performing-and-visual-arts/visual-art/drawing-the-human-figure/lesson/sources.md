@@ -1,6 +1,6 @@
 # Sources — Drawing the Human Figure
 
-countries: Colombia, Sudan, Brazil, Moldova, North Macedonia
+countries: Colombia, Sudan, Brazil, Moldova, North Macedonia, Greece
 
 **Book 1:** *Educación Artística — Postprimaria Rural — Guías del estudiante, Grados 6 y 7 (Artistic Education, Rural Post-primary, student guides, Grades 6 and 7)* (student book, Spanish) — Colombia, Ministerio de Educación Nacional (MEN), Bogotá; year 2010; ISBN libro 978-958-691-416-1; ISBN obra 978-958-691-411-6. Grades 6–7 (student book: STUDENT). PDF pages: 218 (title/imprint pages verified against the record; byte size 113,210,688). Verdict: COMPLETE — read in full from the downloaded file's text layer, all 6 modules and 27 guides Placements at liqlearns-courses-work/expansion-art-2026-11-16/colombia-placements.md. Every guide ends in an "Evaluemos" self/peer/teacher assessment section — assessment apparatus, named here and not placed.
 
@@ -23,7 +23,7 @@ countries: Colombia, Sudan, Brazil, Moldova, North Macedonia
 |---|---|
 | Moldova — Unit I §4, Figura umană în stare statică și dinamică — static and dynamic states of the figure: the centre of gravity found by a vertical line from the neck to the support; Polykleitos' contrapposto in the "Doryphoros"; the angles of the joints; Matisse drawing movement summarily, without anatomy ("Dance II", "Icarus") (student book; original target `visual-art/the-figure-in-movement`) | Book 4, printed pp. 17–18 |
 
-**Acceptance count: taught in 5 countries (Colombia, Sudan, Brazil, Moldova, North Macedonia).** Moldova is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 6 countries (Colombia, Sudan, Brazil, Moldova, North Macedonia, Greece).** Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/drawing-the-human-figure`); the Colombia placements were filed under the original strings recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Colombia's own way: the rural guide opens the body module with Da Vinci, then puts the pencil in the pupil's hand at arm's length — proportion is learned on a classmate's real body, on a marked vertical.
 
@@ -36,3 +36,11 @@ Searchable tags: human figure, proportion, Vitruvian, Da Vinci, head-units, cano
 | North Macedonia — Пропорција — proportion: part to part and part to whole, and the golden section, the ratio the old masters trusted (student book; original target `visual-art/proportion-and-the-golden-section`) | Book 5, printed p. 35 |
 
 North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 6:** *Εικαστικά Α΄ & Β΄ Δημοτικού, new edition (student book, Greek) — also the content of the older-edition Grade 2 art record (see Book 2 note)* — Title as printed: Εικαστικά (Visual Arts) Α΄ & Β΄ Δημοτικού Grade: 1–2 (record filed at grade-02) (student/teacher: STUDENT) Publisher: Υπουργείο Παιδείας / ΙΤΥΕ «Διόφαντος»; book code 10-0231; ISBN 978-960-06-3475-5 (cover barcode, looked at) PDF pages: 98 (cover verified — red cover, Εικαστικά Α΄ & Β΄ Δημοτικού) Verdict: COMPLETE — note: the PDF served for the new-edition record carries the same 10-0022 indd content and the same contents list as the older edition; the two records are placed once here and both editions are named in this header. Greece's own way: a studio-style art book for the youngest pupils — every lesson starts from looking closely (lines in a leaf, a fish skeleton, a snail; famous paintings) and ends in making, with Greek artists (Dimitris Mytaras' studio, a "painter of joy and dream") and Paul Klee as the children's guides. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 24).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Δ2 Άνθρωποι στη σειρά (People in a row — figures repeated in order) (student book; original target `visual-art/people-in-a-row-figures-in-order`) | Book 6, printed p. 79 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

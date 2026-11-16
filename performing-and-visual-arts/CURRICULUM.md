@@ -2557,7 +2557,37 @@ Rwanda's twelve placement-bearing books (Creative Arts Fine
   Skalovski to Bužarovski, the Nerezi and Kurbinovo frescoes, the kopaničari
   woodcarvers, silver filigree and the Ohrid pearl.
 
-**The whole course stands at 895 lessons, 10,977 questions and
+- **Art expansion — Greece (2026-11-16):** 596 placements stocked from
+  43 book sections (23 in the main wave, 20 in the links group; Greek,
+  Grades 1–12 including the Ecclesiastical Gymnasium and Lyceum chant
+  volumes and the EPAL vocational books — all student books and student
+  workbooks, no teacher guides, so Greece counts inside every acceptance
+  count): 498 into existing and already-built canonical lessons, and
+  98 into 23 NEW lessons (Music: Balkan Music; Byzantine Chant;
+  Byzantine Modes and the Octaechia; Byzantine Notation; Flamenco and
+  Spanish Music; Greek Folk Instruments; Greek Modern Composers; Greek
+  Regional Music; Greek Song and Its History; Japanese Taiko Drumming;
+  Music and Poetry; Music in Public Life; Musicology; Ostinato;
+  Rebetiko and Laiko; Twentieth-Century Experimental Music;
+  Visual Art: Found-Object Art; Handmade Paper;
+  Drama and Dance: Euripides' Helen; Greek Folk Dances; Karagkiozis:
+  Greek Shadow Theatre; Samba and Brazilian Rhythms;
+  Culture and Values: Greek May Day Tree Custom), 276 questions added,
+  media as described slots only. Honesty carried exactly as filed:
+  glossaries, indexes and revision/assessment sections named in the
+  placements headers are inventory-only, never stocked; songs and
+  hymns are placed by name, title and purpose only, never transcribed;
+  Euripides' Helen is placed by plot summary only. Greece's own way is
+  kept as named parts throughout: Byzantine chant with its neume
+  notation, eight echoi and three genera; the Kalamatianos in 7/8 and
+  the Tsamikos; the gaida, tsambouna, Cretan and Pontic lyra, santouri
+  and kanonaki; rebetiko and laiko and the neighbourhoods of Greek
+  song — Hadjidakis, Theodorakis, Markopoulos, Xarchakos, Loizos,
+  Savvopoulos; the Parthenon unit, Byzantine icon painting and mosaic
+  by the direct and indirect methods; Karagkiozis shadow theatre; and
+  the May-tree custom.
+
+**The whole course stands at 918 lessons, 11,253 questions and
 210 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 

@@ -1,6 +1,6 @@
 # Sources — Listening to Music
 
-countries: Sri Lanka, Libya, Mongolia, Armenia, North Macedonia
+countries: Sri Lanka, Libya, Mongolia, Armenia, North Macedonia, Greece
 
 **Book 1:** *Western Music — Teachers' Guide, Grade 9 (Implemented from 2018)* (teacher guide, English) — Sri Lanka, Department of Aesthetic Education, National Institute of Education, Maharagama, Sri Lanka; first print 2017; ISBN line printed blank. Grade: 9 (student/teacher: TEACHER). PDF pages: 100. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -116,7 +116,7 @@ countries: Sri Lanka, Libya, Mongolia, Armenia, North Macedonia
 | Armenia — Your own taste, examined (teacher-guide evidence) — among the aims: give learners the chance to reflect on their own musical preferences, justify them and reach independent conclusions (teacher guide — evidence; original target `music/listening-and-describing`) | Book 18, printed p. 10 |
 
 
-**Acceptance count: taught in 3 countries (Mongolia, Armenia, North Macedonia).** Mongolia is added as student-book stock (see its rows above), inside the acceptance count; the earlier evidence-only entries stay outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 4 countries (Mongolia, Armenia, North Macedonia, Greece).** Mongolia is added as student-book stock (see its rows above), inside the acceptance count; the earlier evidence-only entries stay outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/listening-to-music`); the Sri Lanka placements were filed under the original string(s) `music/listening-and-responding-to-music` and resolved to this lesson by slug-registry Part 2. Songs and stories are placed by summary only, never transcribed.
 
@@ -137,3 +137,18 @@ Searchable tags: listening to music, Sri Lanka, Armenia
 | North Macedonia — directed listening: hearing a work on purpose and with attention — noting its style period, composer, performing forces, dynamics, tempo, character, melody and rhythm, and following its form and development; and what music does in the brain — mood, memory, movement (student book; original target `music/directed-listening`) | Book 19, printed p. 96 |
 
 North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 20:** *Mousiki G'-D' Dimotikou (student book, Greek)* — Title as printed: Μουσική Γ΄ & Δ΄ Δημοτικού — Βιβλίο Μαθητή Grade: Grades 3-4 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); year 2013 (revised printings 2015-16 in the PDF); ISBN 978-960-06-2534-9 (book code 0-10-0073) PDF pages: 90 (cover verified against the record title — ancient Greek lyre player on the cover; byte size 9,170,811 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: an Orff-style journey (lead author is an Orff music pedagogue) — sound adventures, voice games and homemade instruments first, notation growing out of play; Greece enters by name in the Greek folk instruments chapter and the May-tree custom. Excluded per standing rules: Ch. 16 «Ακούγοντας μουσική θυμάμαι...» (printed p. 53) is a consolidation/revision chapter of listening-recall games — not placed; the closing Γλωσσάρι (glossary) is inventory-only — named, not stocked. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 3).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — 13. Ταξιδεύοντας με τη μουσική (Travelling with music) — letting sounds carry your imagination far away — a journey of sounds, images and colours (student book; original target `music/imagining-with-music`) | Book 20, printed p. 44 |
+
+**Book 21:** *Mousikokinitiki Agogi, G' EPAL (student book, Greek)* — Title as printed: Μουσικοκινητική Αγωγή — Γ΄΄ ΕΠΑ.Λ., Τομέας Υγείας – Πρόνοιας – Ευεξίας (Music-and-Movement Education, Vocational Lykeio Grade 12, Health–Welfare sector) Grade: Grade 12 vocational (student/teacher: STUDENT) — a methods book for future early-childhood educators Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); V1 edition; ISBN 978-960-06-3022-0 (book code 0-24-0258) PDF pages: 214 (cover verified against the record title — a toy-box of instruments; byte size 6,599,217 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: the vocational school's future nursery teachers learn music the Dalcroze way — every musical element (timbre, loudness, tempo, duration, pitch) is first lived in the body and in movement, instruments are built by hand before they are played, and the course ends in sound stories, Aesop's lion and hare told in noise and music. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 23).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Ενότητα 1: Ηχόχρωμα (Timbre) — sounds from the environment and from sound-making objects; sounds from the body and the human voice; voices of animals; presenting the instruments; recognising instruments by ear and answering with body movement (student book; original target `music/listening-to-music-what-do-you-hear`) | Book 21, printed p. 11 |
+| Greece — Ενότητα 8: Ηχοϊστορίες (Sound stories) — stories told in sound — "A sudden rain", "Mr Mathios' flock", "A visit to a park with animals and birds", Aesop's "The lion and the hare", "Summer", "The forest" (stories placed by name and theme only) (student book; original target `music/imagining-with-music`) | Book 21, printed p. 185 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

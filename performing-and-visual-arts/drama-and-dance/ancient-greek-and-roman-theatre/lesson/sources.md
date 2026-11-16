@@ -1,6 +1,6 @@
 # Sources — Ancient Greek and Roman Theatre
 
-countries: Venezuela, Armenia
+countries: Venezuela, Armenia, Greece
 
 **Book 1:** *Recorriendo el Arte 2 — RECORRIENDO EL ARTE — Educación Artística — 2do AÑO (Colección Bicentenario)* (student book, Spanish) — Venezuela, Ministerio del Poder Popular para la Educación, República Bolivariana de Venezuela; third edition, April 2014; ISBN 978-980-218-331-9 (Depósito Legal lf51620123701319, as printed). Series coordination Ángela Beatriz Calzadilla; same author team as Book 1. Grade 8 (2do año, second year of secondary; student/teacher: STUDENT). PDF pages: 132 (printed pp. 12–255; the fetched PDF is 13,377,588 bytes; cover verified — blue cover with pre-Columbian artefacts). Verdict: COMPLETE — read in full as extracted text (text PDF), cover verified. Named, not placed: the closing teacher-facing essay “Conceptos básicos para la conducción estratégica del aprendizaje artístico” (printed pp. 247–250) — pedagogical guidance for teachers; its core teaching about sensitive knowledge is placed once, as filed; the bibliography (printed pp. 251–255) — inventory only; end-of-chapter suggested activities (their skills folded into the lines they practise). Venezuela's own way: Book 2 walks the whole history of art, starting at home — Venezuela's original peoples first — and returning to Venezuela for the colonial, republican, 20th-century and contemporary chapters. Placements at liqlearns-courses-work/expansion-art-2026-11-16/venezuela-placements.md.
 
@@ -22,10 +22,18 @@ countries: Venezuela, Armenia
 | Armenia — The circus (Կրկեսը) — spectacle performance in Rome (student book; original target `drama-and-dance/roman-circus-spectacle`) | Book 3, printed p. 99 |
 
 
-**Acceptance count: taught in 2 countries (Venezuela, Armenia).** Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 3 countries (Venezuela, Armenia, Greece).** Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 
 This is a canonical NEW lesson (slug-registry Part 1: `drama-and-dance/ancient-greek-and-roman-theatre`); the Venezuela placements were filed under the original string(s) `drama-and-dance/greek-and-roman-theatre` and resolved to this lesson by slug-registry Part 2. Songs and stories are placed by summary only, never transcribed.
 
 
 Searchable tags: ancient greek and roman theatre, Venezuela, Armenia
+
+**Book 4:** *Dramatiki Poiisi: Euripidi Eleni, C' Gymnasiou (student book, Greek)* — Title as printed: Δραματική Ποίηση — Ευριπίδη Ελένη (Dramatic Poetry — Euripides' Helen), translation by Tasos Roussos Grade: Grade 9 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); ISBN 978-960-06-2755-8 (book code 0-21-0131) PDF pages: 150 (cover verified against the record title — a torn-paper theatre mask; byte size 8,993,571 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: Greece's founding theatre taught from inside a performance — the introduction opens with the house lights going down, contrasts the traditional Helen with Euripides' "new" one (only her phantom went to Troy), follows a fifteen-year-old to Epidaurus, and lists real productions (National Theatre 1962); every part of the play carries plot/theme analysis and «Ας γίνουμε θεατές» (Let's become spectators) staging boxes. The play is placed by plot summary only — no text transcribed. Excluded per standing rules: the closing Ανακεφαλαιωτικές ερωτήσεις (recap questions, printed p. 139) are assessment; the Λεξικό προσώπων της μυθολογίας and Λεξικό όρων της αρχαίας ελληνικής τραγωδίας (printed pp. 141-144) are glossaries — inventory-only, named here, not stocked; the image-sources table is apparatus. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 15).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Εισαγωγή (Introduction) — the theatre lights go down; the traditional Helen against Euripides' "new" Helen — the real Helen waited in Egypt while a phantom was fought over at Troy; a boy's first tragedy at Epidaurus; the play's production history (student book; original target `drama-and-dance/ancient-greek-tragedy`) | Book 4, printed p. 5 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

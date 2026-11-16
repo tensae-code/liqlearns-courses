@@ -1,6 +1,6 @@
 # Sources — Uneven and Asymmetric Metres
 
-countries: Jordan, North Macedonia
+countries: Jordan, North Macedonia, Greece
 
 **Book 1:** *التربية الفنية والموسيقية والمسرحية — الصف العاشر (Art, Music and Theatre Education — Grade Ten), teacher's guide (دليل المعلم)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Amman; year 2025 (first experimental edition, 1446H/2025); ISBN 978-9923-41-960-1. Grade: Grade 10 (student/teacher: TEACHER). PDF pages: 125 (cover/title page verified against the record title; printed page numbers equal PDF page numbers). Verdict: COMPLETE — read in full, page by page. Note: the Grade 10 student book is not among this group's records; this guide is the only evidence held for the Grade 10 curriculum, so every placement from it is marked teacher-guide evidence. The per-lesson self-assessment rubrics are assessment apparatus with no teaching content and are not placed; the three embedded play/story texts are summarised, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -9,7 +9,7 @@ countries: Jordan, North Macedonia
 |---|---|
 | Jordan — Music Lesson 4 "Rhythmic Beats: the Aqsaq Rhythm" — Aqsaq, an Arab rhythm (darb) written in 9/8 with the quaver as its counting unit and nine quaver forms to the cycle, much used in the muwashshahat; read and clapped in two parts against a steady quaver line, and compared with the Nawakht rhythm (teacher guide — evidence; original target `music/aqsaq-rhythm`) | Book 1, printed p. 68 |
 
-**Acceptance count: taught in 1 country (North Macedonia).** Jordan is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 2 countries (North Macedonia, Greece).** Jordan is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/uneven-and-asymmetric-metres`); the Jordan placements were filed under the original string(s) `music/aqsaq-rhythm` and resolved to this lesson by slug-registry Part 2. Songs and stories are placed by summary only, never transcribed.
 
@@ -32,3 +32,17 @@ Searchable tags: uneven and asymmetric metres, Jordan
 | North Macedonia — the 9/8 bar, even as 3+3+3 or uneven in its mixed groupings; uneven metres as the natural expression of the Balkans and the Middle East, learned from earliest childhood through singing, dance and movement (student book; original target `music/uneven-metres`) | Book 3, printed pp. 76–77 |
 
 North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 4:** *Mousiki B' Gymnasiou, Tetradio Ergasion (workbook, Greek)* — Title as printed: Μουσική Β΄ Γυμνασίου — Τετράδιο Εργασιών (Music Grade 8 — Workbook) Grade: Grade 8 (student/teacher: STUDENT workbook) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); year 2013; ISBN 978-960-06-2723-7 (book code 0-21-0219) PDF pages: 58 (cover verified against the record title; byte size 5,065,097 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: the world first, then home — after Africa, India, Bali, China, Japan, Latin America and Europe, the last and longest unit is «Ο γύρος της Ελλάδας» (The tour of Greece): asymmetric Greek metres, region-by-region song origins, and learning to name the gaida, tsambouna, Cretan lyra, santouri, kanonaki, zournas, clarino and daouli by ear alone, with the zygies and kompanies (regional ensembles) mapped. Excluded per standing rules: each unit's closing «Τι έμαθα...» (What I learned) self-check pages are revision/assessment — named here, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 13).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Ο γύρος της Ελλάδας: Μουσικοί ρυθμοί στην Ελλάδα (The tour of Greece: musical rhythms) — the iamb and trochee still used to call monks to services; placing the three-beat unit inside 5/8, 7/8 and 9/8 — 3+2, 2+3, 3+2+2, 2+2+3 and the rest (workbook; original target `music/greek-rhythms-asymmetric-metres`) | Book 4, printed p. 42 |
+
+**Book 5:** *Mousiki B' Gymnasiou (student book, Greek)* — Title as printed: Μουσική Β΄ Γυμνασίου — Βιβλίο Μαθητή (Music Grade 8) Grade: Grade 8 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); ISBN 978-960-06-2722-0 (book code 0-21-0089) PDF pages: 86 (cover verified against the record title; byte size 7,104,208 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: the teaching text behind Book 13's workbook — a round-the-world year that defines traditional music and ethnomusicology properly (Hornbostel–Sachs instrument classification), then lands home for its longest unit: Greece's rhythms, regions, instruments and ensembles. Excluded per standing rules: the closing Ευρετήριο (index, printed p. 82) is apparatus. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 14).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Μουσικοί ρυθμοί στην Ελλάδα (Musical rhythms in Greece) — Greece's asymmetric metres — how 5/8, 7/8 and 9/8 are built from two- and three-beat units (student book; original target `music/greek-rhythms-asymmetric-metres`) | Book 5, printed p. 66 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

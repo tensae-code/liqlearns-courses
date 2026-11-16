@@ -1,6 +1,6 @@
 # Sources — Landscape Painting
 
-countries: Turkmenistan, Pakistan, Sudan, Belarus, Jordan, Sri Lanka, Moldova, Indonesia, Syria, Armenia
+countries: Turkmenistan, Pakistan, Sudan, Belarus, Jordan, Sri Lanka, Moldova, Indonesia, Syria, Armenia, Greece
 
 **Book 1:** *Surat — Umumy orta bilim berýän mekdepleriň I synpy üçin okuw kitaby (Art — textbook for Grade 1 of general secondary schools), Dördünji neşir (4th edition)* (student book, Turkmen) — Turkmenistan, by Wepa Amangeldiýew, Döwletgeldi Akyýew; Türkmen döwlet neşirýat gullugy (Turkmen State Publishing Service), Ashgabat, 2022, no ISBN printed, Grade 1, 80 PDF pp. STUDENT. Recommended by the Ministry of Education of Turkmenistan. Verdict: COMPLETE. The repo tree path is a PHANTOM PUSH (HTTP 404); the book was fetched from the recorded kitaphana.bilim.tm source via the library's own API file link, 79,070,978 bytes and 80 pages, matching the record exactly, and the copy is staged under the push-don't-delete rule. Placements at liqlearns-courses-work/expansion-art-2026-11-16/turkmenistan-placements.md.
 
@@ -93,7 +93,7 @@ countries: Turkmenistan, Pakistan, Sudan, Belarus, Jordan, Sri Lanka, Moldova, I
 | Armenia — Winter landscapes — Monet was so taken by snow's changing shades that he painted some 140 winter works ("The Magpie", 1868-1869); Pissarro, Gauguin, Munch, Levitan's "March" (1895), Grabar, Morisot, Serebryakova, Plastov; and the Armenian winter: Saryan's "Winter in the South" (1934), Vahram Gayfejian's "Early Winter" (1947), Zardaryan (1946), Gyurjyan's "Aghayan Street in Winter" (1959); task: paint your winter landscape (student book; original target `visual-art/landscape-art`) | Book 17, printed p. 63 |
 
 
-**Acceptance count: taught in 8 countries (Turkmenistan, Pakistan, Sudan, Belarus, Jordan, Moldova, Syria, Armenia).** Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 9 countries (Turkmenistan, Pakistan, Sudan, Belarus, Jordan, Moldova, Syria, Armenia, Greece).** Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/landscape-painting`); the Turkmenistan placement(s) were filed as NEW LESSON NEEDED under the original string `visual-art/landscapes-and-seasons`, recorded in the provenance row(s) above and resolved to this lesson by slug-registry Part 2. This canonical lesson is built from the three Turkmenistan placements filed under the original string `visual-art/landscapes-and-seasons`, resolved here by slug-registry Part 2. Songs and stories are placed by summary only, never transcribed.
 
@@ -115,3 +115,23 @@ Searchable tags: landscape, seasons, autumn, winter gouache, rainbow, älemgoşa
 |---|---|
 
 | Sri Lanka — Activity 5.2.1 "Let's go to the sea beach" — landscape painting from a real place — the seashore studied and painted as a scene composition, its natural features, light and colour observed on site (teacher guide — evidence; original target `visual-art/painting-the-seashore`) | Book 7, printed pp. 30–32 |
+
+**Book 18:** *Eikastika A'-B' Dimotikou (student book, Greek)* — Title as printed: Εικαστικά Α΄ & Β΄ Δημοτικού — Βιβλίο Μαθητή Grade: Grades 1-2 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); year 2013 (αναθεωρημένη έκδοση); ISBN 978-960-06-2475-5 (book code 0-10-0231) PDF pages: 98 (cover/title page verified against the record title; byte size 41,216,105 matches the record exactly) Verdict: COMPLETE Greece's own way: a story-and-picture journey book — each chapter opens with artworks (Greek painters Dimitris Mytaras, Alexis Akrithakis, Giannis Gaitis, Vasilis Skylakos; also Dubuffet and Paul Klee) and turns looking into making; nature materials and even rubbish are treated as art supplies. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 1).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Β4 Ένα παιδί ζωγραφίζει τ' άστρα (A child paints the stars) — painting the night sky and fantastic space pictures on an imaginary astronaut-painter's journey (student book; original target `visual-art/painting-the-night-sky`) | Book 18, printed p. 43 |
+
+**Book 19:** *Εικαστικά Α΄ & Β΄ Δημοτικού, OLD edition (student book, Greek)* — Title as printed: Εικαστικά Α΄ & Β΄ Δημοτικού (Visual Arts, Primary Grades 1 & 2), by Θωμάς Ζωγράφος, Δημήτρης Μπέσσας, Ελεονόρα Μπέσσα Grade: 2 record (the book serves Grades 1 & 2; student/teacher: STUDENT) Publisher: ITYE «Διόφαντος» for the Ministry of Education (older ministry masthead), book code 0-10-0022, ISBN 978-960-06-2475-5 PDF pages: 98 (byte size 40,109,148 matches the record exactly; cover and contents verified — this is the genuine older edition, a different book from the NEW edition 10-0231 filed as Book 1 of this file, not the same file under two names) Verdict: COMPLETE Greece's own way: the same four activity kinds run through every chapter — artists' works, ideas for creating, our own creations, and observing nature and the environment; two chapters take children inside Greek art itself (Dimitris Mytaras's studio, and land art). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 27).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Unit B B4: Ένα παιδί ζωγραφίζει τ' άστρα (a child paints the stars) (student book; original target `visual-art/painting-nature`) | Book 19, printed p. 43 |
+
+**Book 20:** *Εικαστικά Ε΄ & Στ΄ Δημοτικού «Παρατηρώ & δημιουργώ» (student book, Greek)* — Title as printed: Εικαστικά Ε΄ & Στ΄ Δημοτικού — «Παρατηρώ & δημιουργώ» (Visual Arts, Primary Grades 5 & 6 — "I Observe & I Create"), by Απόστολος Ν. Μαγουλιώτης, Αθανάσιος Τσιπλητάρης Grade: 6 record (the book serves Grades 5 & 6; student/teacher: STUDENT) Publisher: ITYE «Διόφαντος», book code 0-10-0139, ISBN 978-960-06-2605-6 PDF pages: 94 (byte size 25,466,091 matches the record exactly; cover and contents verified) Verdict: COMPLETE Greece's own way: a materials-first course — colour, paper, mosaic, wire, clay — that ends in art history (Realism to Pop Art) and a museum visit; the mosaic unit is Greece's own Byzantine-rooted craft taught by both construction methods. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 39).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Part B (Our world) 1: Ψάρια (fish — travelling under the waves; in wavy lines) (student book; original target `visual-art/painting-nature`) | Book 20, printed  |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

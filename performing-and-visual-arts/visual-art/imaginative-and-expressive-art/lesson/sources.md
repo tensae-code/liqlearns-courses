@@ -1,6 +1,6 @@
 # Sources — Imaginative and Expressive Art
 
-countries: Maldives, Pakistan, Belarus, Jordan, Indonesia
+countries: Maldives, Pakistan, Belarus, Jordan, Indonesia, Greece
 
 **Book 1:** *Exploring Creative Arts 4* (student book, English) — Maldives, National Institute of Education, Ministry of Education, Malé, Maldives; © 2025, first published 2025; ISBN 978-99915-0-956-3 (paperback); development editor Shirumeen Ahmed; printed by M7 Print Pvt. Ltd. Based on the Creative Arts in the National Curriculum syllabus, 2022. 93 PDF pp (printed pp. 1–81 plus acknowledgements and back cover; cover verified — two children painting at easels). Verdict: COMPLETE. Read in full as extracted text in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/maldives-placements.md. The book's glossary (printed pp. 79–81) is inventory only, named here and never stocked as parts.
 
@@ -31,7 +31,7 @@ countries: Maldives, Pakistan, Belarus, Jordan, Indonesia
 |---|---|
 | Indonesia — BAB III Seni Rupa Ekspresi Personal — art as personal expression — making work that carries the maker's own feeling and view (teacher guide — evidence; original target `visual-art/personal-expression-in-art`) | Book 7, printed p. 118 |
 
-**Acceptance count: taught in 4 countries (Maldives, Pakistan, Belarus, Jordan).** Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 5 countries (Maldives, Pakistan, Belarus, Jordan, Greece).** Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/imaginative-and-expressive-art`); the Maldives placement was filed under the original string `visual-art/fantasy-landscapes`, recorded in the provenance rows above.
 
@@ -43,3 +43,11 @@ Searchable tags: fantasy landscape, imagination, expressive art, Kush, Maldives,
 | Lesson part | Where it comes from |
 |---|---|
 | Jordan — Unit 1 Lesson 8 "Expressing Feelings" — drawing is used to express what we feel, joy or sadness; reading feelings from pictured faces, then making a feelings plate — a paper plate cut in half, a partner drawing the shape that expresses your feeling on the other half, glued on a stick and shared with friends (student book; original target `visual-art/expressing-feelings-in-drawing`) | Book 5, printed p. 26 |
+
+**Book 8:** *Εικαστικά Α΄ & Β΄ Δημοτικού, OLD edition (student book, Greek)* — Title as printed: Εικαστικά Α΄ & Β΄ Δημοτικού (Visual Arts, Primary Grades 1 & 2), by Θωμάς Ζωγράφος, Δημήτρης Μπέσσας, Ελεονόρα Μπέσσα Grade: 2 record (the book serves Grades 1 & 2; student/teacher: STUDENT) Publisher: ITYE «Διόφαντος» for the Ministry of Education (older ministry masthead), book code 0-10-0022, ISBN 978-960-06-2475-5 PDF pages: 98 (byte size 40,109,148 matches the record exactly; cover and contents verified — this is the genuine older edition, a different book from the NEW edition 10-0231 filed as Book 1 of this file, not the same file under two names) Verdict: COMPLETE Greece's own way: the same four activity kinds run through every chapter — artists' works, ideas for creating, our own creations, and observing nature and the environment; two chapters take children inside Greek art itself (Dimitris Mytaras's studio, and land art). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 27).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Unit Δ Δ3: Καράβι που ταξιδεύει στο όνειρο (a ship that travels in a dream) (student book; original target `visual-art/imagination-in-art`) | Book 8, printed p. 82 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

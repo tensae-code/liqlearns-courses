@@ -1,6 +1,6 @@
 # Sources — Video: Moving Pictures
 
-countries: Ethiopia, Guatemala, Finland, Brazil, Bulgaria, Cuba, Venezuela, Malaysia, North Macedonia
+countries: Ethiopia, Guatemala, Finland, Brazil, Bulgaria, Cuba, Venezuela, Malaysia, North Macedonia, Greece
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -43,7 +43,7 @@ countries: Ethiopia, Guatemala, Finland, Brazil, Bulgaria, Cuba, Venezuela, Mala
 |---|---|
 | Malaysia — Bab 1 Fotografi Kreatif, Pengiklanan, Kewartawanan — creative photography, advertising photography and photojournalism as working kinds (student book; original target `visual-art/video-moving-pictures`) | Book 14, printed pp. 30–33 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Finland, Brazil, Bulgaria, Cuba, Venezuela, Malaysia, North Macedonia). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 9 countries (Ethiopia, Finland, Brazil, Bulgaria, Cuba, Venezuela, Malaysia, North Macedonia, Greece). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.** Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 The Grade 5 book's tempo table oddity (Allegretto above Allegro) belongs to the music lesson and is not used here. The Grade 8 teacher-guide parts are inside that guide's surviving body pages (printed pp. 4–6) and are labelled evidence. Creative photography's techniques are taught as the Grade 7 guide names them; 'painting onto a printed photo' and double exposure are described, not faked — the lesson's picture is a drawn teaching board, not a photograph claiming those effects.
 
@@ -86,3 +86,17 @@ Searchable tags: video, moving pictures, shot sizes, close-up, medium view, long
 | North Macedonia — Видеоуметност — moving images as the medium: Nam June Paik, "father of video art", and his "TV Buddha" (a Buddha statue watching its own television); Bill Viola's water-and-fire "The Crossing"; Pipilotti Rist's playful video performances; video exploring time, identity, technology and society (student book; original target `visual-art/video-moving-pictures`) | Book 15, printed p. 44 |
 
 North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 16:** *Eikastika C' Gymnasiou, Tetradio Ergasion (workbook, Greek)* — Title as printed: Εικαστικά Γ΄ Γυμνασίου — Τετράδιο Εργασιών (Visual Arts Grade 9 — Workbook) Grade: Grade 9 (student/teacher: STUDENT workbook) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); revised V2 edition; ISBN 978-960-06-2758-9 (book code 0-21-0134) PDF pages: 34 (cover verified against the record title; byte size 5,631,611 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: the analysis workbook for Grade 9 — Greek art is the test material throughout: the Munich School painters compared for their common style, Greek landscapes matched to ways of rendering space, Moralis' structural axes drawn over his paintings, and Tsarouchis' figures read for their era and their regional dress (mainland, Ionian, Cretan). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 16).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Ενότητα 3, Θέμα 2: Βίντεο και Ηλεκτρονικός Υπολογιστής (Video and computer) — imagining a story over six works by Joan Miró and narrating it in the order you place the images — sequence builds meaning; hunting the hidden objects in a computer-made 3D (stereogram) image (workbook) | Book 16, printed p. 24 |
+
+**Book 17:** *Eikastika C' Gymnasiou (student book, Greek)* — Title as printed: Εικαστικά Γ΄ Γυμνασίου — Βιβλίο Μαθητή (Visual Arts Grade 9) Grade: Grade 9 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); revised V3 edition; ISBN 978-960-06-2757-2 (book code 0-21-0133) PDF pages: 106 (cover verified against the record title; byte size 20,062,728 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: the theory text behind Book 16's workbook — form elements first, then the applied arts (graphics, industrial design, dress), then new technologies, then contemporary forms; Greek content is woven in — 20th-century Greek painters inside the volume theme, and dress history that ends at disguise and the theatre costume. Excluded per standing rules: the per-theme «ΓΛΩΣΣΑΡΙ» sections are inventory-only; the suggested bibliography (printed p. 102) is apparatus. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 17).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Ενότητα 3, Θέμα 2: Βίντεο και Ηλεκτρονικός Υπολογιστής (Video and computer) — cinema and video; the computer and the digital image; Video Art (student book) | Book 17, printed p. 76 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

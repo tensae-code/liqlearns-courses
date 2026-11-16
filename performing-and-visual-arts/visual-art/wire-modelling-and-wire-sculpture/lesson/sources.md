@@ -1,6 +1,6 @@
 # Sources — Wire Modelling and Wire Sculpture
 
-countries: Sri Lanka, Afghanistan, Moldova
+countries: Sri Lanka, Afghanistan, Moldova, Greece
 
 **Book 1:** *Grade 11 Art and Craft pupil textbook, Tamil medium, of the "Ilavasap Paada Nool" (free textbook) series* (student textbook) — Sri Lanka, Educational Publications Department, Sri Lanka, 2016; no ISBN visible on the pages scanned. Grade: 11 (student/teacher: STUDENT). PDF pages: 221 (printed pages run 1–221). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/sri-lanka-placements.md.
 
@@ -18,7 +18,7 @@ countries: Sri Lanka, Afghanistan, Moldova
 |---|---|
 | Moldova — G4 Ch. 1, Articole din sîrmă — modelling with copper or aluminium wire: bending and twisting it into artworks, a bird built step by step (beak, tail, legs) in pictured stages (student book; original target `visual-art/modelling-with-wire`) | Book 3, printed p. 58 |
 
-**Acceptance count: taught in 3 countries (Sri Lanka, Afghanistan, Moldova).** Moldova is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 4 countries (Sri Lanka, Afghanistan, Moldova, Greece).** Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/wire-modelling-and-wire-sculpture`); the Sri Lanka placements were filed under the original string(s) `visual-art/wire-armature-sculpture` and resolved to this lesson by slug-registry Part 2. Songs and stories are placed by summary only, never transcribed.
 
@@ -32,3 +32,17 @@ Searchable tags: wire modelling and wire sculpture, Sri Lanka
 | Afghanistan — Lesson 19: Making kinds of wire volumes (ساختن انواع حجم‌های سیمی) — building different solids and forms from wire (student book; original target `visual-art/wire-sculpture`) | Book 2, printed p. 41 |
 
 Afghanistan is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 4:** *Eikastika E'-ST' Dimotikou (student book, Greek)* — Title as printed: Εικαστικά — Παρατηρώ & δημιουργώ, Ε΄ & Στ΄ Δημοτικού (Visual Arts — I Observe & Create) Grade: Grades 5-6 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); ISBN 978-960-06-2605-6 (book code 0-10-0139) PDF pages: 94 (cover verified against the record title; byte size 25,466,091 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: a materials-and-professions book — simple materials (paper, wire, tesserae, clay) taught as real techniques including Byzantine-rooted mosaic methods, then the visual professions (cartoonist, comics artist, lettering designer, model-maker, photographer), then art history taught as five movements you try yourself. Excluded per standing rules: the Appendix (Παράρτημα) — glossary, bibliography, index — is inventory-only, named here, not stocked. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 4).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Α4. Σύρμα (Wire) — wire as many different lines; how artists create with wire; wire outlines/contours and wire volumes (student book; original target `visual-art/wire-sculpture`) | Book 4, printed p. 26 |
+
+**Book 5:** *Εικαστικά Ε΄ & Στ΄ Δημοτικού «Παρατηρώ & δημιουργώ» (student book, Greek)* — Title as printed: Εικαστικά Ε΄ & Στ΄ Δημοτικού — «Παρατηρώ & δημιουργώ» (Visual Arts, Primary Grades 5 & 6 — "I Observe & I Create"), by Απόστολος Ν. Μαγουλιώτης, Αθανάσιος Τσιπλητάρης Grade: 6 record (the book serves Grades 5 & 6; student/teacher: STUDENT) Publisher: ITYE «Διόφαντος», book code 0-10-0139, ISBN 978-960-06-2605-6 PDF pages: 94 (byte size 25,466,091 matches the record exactly; cover and contents verified) Verdict: COMPLETE Greece's own way: a materials-first course — colour, paper, mosaic, wire, clay — that ends in art history (Realism to Pop Art) and a museum visit; the mosaic unit is Greece's own Byzantine-rooted craft taught by both construction methods. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 39).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Part A 4: Σύρμα (wire — many kinds of line, wire outlines, wire volumes: sculpture in wire) (student book; original target `visual-art/wire-sculpture`) | Book 5, printed pp. 26–29 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

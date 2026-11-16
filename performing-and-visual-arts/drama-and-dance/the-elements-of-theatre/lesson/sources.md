@@ -1,6 +1,6 @@
 # Sources — The Elements of Theatre
 
-countries: Ethiopia, Egypt, Honduras, Nicaragua, Trinidad and Tobago, Iran, Papua New Guinea, Brazil, Morocco, Jordan, Sri Lanka, Cuba, Venezuela, Malaysia, Syria, Armenia
+countries: Ethiopia, Egypt, Honduras, Nicaragua, Trinidad and Tobago, Iran, Papua New Guinea, Brazil, Morocco, Jordan, Sri Lanka, Cuba, Venezuela, Malaysia, Syria, Armenia, Greece
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -116,7 +116,7 @@ countries: Ethiopia, Egypt, Honduras, Nicaragua, Trinidad and Tobago, Iran, Papu
 | Armenia — 19th-century European THEATRE — Romanticism in the drama; François-Joseph Talma (1763-1826); naturalism and Émile Zola (1840-1902); the establishing of DIRECTING; André Antoine (1858-1943); the preconditions of the 19th-century Armenian theatre (student book; original target `drama-and-dance/acting-and-roles`) | Book 27, printed p. 127 |
 
 
-**Acceptance count: taught in 11 countries (Ethiopia, Egypt, Honduras, Iran, Brazil, Jordan, Cuba, Venezuela, Malaysia, Syria, Armenia). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 12 countries (Ethiopia, Egypt, Honduras, Iran, Brazil, Jordan, Cuba, Venezuela, Malaysia, Syria, Armenia, Greece). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 The Grade 5 book's plot example is taught as the book gives it — a soldier wounded by enemy fire, his wife dying of grief, the story told by flashback — summarised, never reprinted. The teacher-guide parts (shot sizes move to the Video lesson; the Grade 6 guide's theatre-elements and genres part) are evidence and are labelled so.
 
@@ -145,3 +145,17 @@ Searchable tags: theatre elements, setting, መቼት, character, plot, ሴራ, 
 | Lesson part | Where it comes from |
 |---|---|
 | Cuba — Chapter 1 — theatre: from the Greek theatron, "place for seeing", to theatre's forms, musical theatre and opera among them (student book; original target `drama-and-dance/the-elements-of-theatre`) | Book 20, printed pp. 46–48 |
+
+**Book 28:** *Theatriki Agogi E'-ST' Dimotikou (student book, Greek)* — Title as printed: Θεατρική Αγωγή Ε΄ & Στ΄ Δημοτικού (Theatre Education, Grades 5 & 6) Grade: Grades 5-6 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); year 2013 (revised printing 2015); ISBN 978-960-06-2606-7 (book code 0-10-0142) PDF pages: 106 (cover verified against the record title — portraits of Antigone and of Karolos Koun on the cover; byte size 11,795,755 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: theatre taught as a GAME with levels called "zones" — the class plays its way from circle name-games to a full performance, every zone run twice, once at Grade 5 level and once harder at Grade 6; the cover honours Sophocles' Antigone and Karolos Koun, founder of Greece's Art Theatre. Excluded per standing rules: Appendix 1 «Με τη γλώσσα του θεάτρου» (printed p. 101) is a theatre-language word list — inventory-only, named here, not stocked. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 5).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Ζώνη 5: Ο χώρος (Zone 5: Space) — the acting space — how space is defined, divided and used on stage (Grade 5 p. 34, Grade 6 p. 37) (student book) | Book 28, printed p. 33 |
+
+**Book 29:** *Θεατρική Αγωγή Ε΄ & Στ΄ Δημοτικού (student book, Greek)* — Title as printed: Θεατρική Αγωγή Ε΄ & Στ΄ Δημοτικού (Theatre Education, Primary Grades 5 & 6), by Πέτρος Μουγιακάκος, Αντιγόνη Μώρου, Χρήστος Παπαδημούλης, Μαρία Φραγκή Grade: 6 record (the book serves Grades 5 & 6; student/teacher: STUDENT) Publisher: ITYE «Διόφαντος», book code 0-10-0142, ISBN 978-960-06-2608-7 PDF pages: 106 (byte size 11,795,755 matches the record exactly; cover and contents verified — 16 "zones", each worked at both grade levels, plus two appendices) Verdict: COMPLETE Greece's own way: a whole primary theatre course built as zones of play — body, expression, partner, group, space, object, action, improvisation — that grow, zone by zone, into dramatisation, play-writing and a full school production the children then watch as audience. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 43).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Zone 12: Πορεία της Θεατρικής Παράστασης 1: Θεατρικό Έργο (the road to the performance 1 — the play) (student book) | Book 29, printed  |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

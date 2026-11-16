@@ -1,6 +1,6 @@
 # Sources — First Marks and Scribbles
 
-countries: Ethiopia, Maldives, Nicaragua, Singapore, Jordan, Mongolia, Afghanistan, Rwanda
+countries: Ethiopia, Maldives, Nicaragua, Singapore, Jordan, Mongolia, Afghanistan, Rwanda, Greece
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -34,7 +34,7 @@ countries: Ethiopia, Maldives, Nicaragua, Singapore, Jordan, Mongolia, Afghanist
 | Rwanda — Unit 1 Lesson 1: How to use basic tools and materials; scribbles and simple shapes — identifying pencils, coloured pencils, pens, rubber, sharpener and paper, and drawing curved and zigzag scribbles (teacher guide — evidence) | Book 9, printed p. 14 |
 
 
-**Acceptance count: taught in 5 countries(Ethiopia, Maldives, Jordan, Mongolia, Afghanistan). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 6 countries (Ethiopia, Maldives, Jordan, Mongolia, Afghanistan, Greece). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Review placements fold into this lesson under the course folding rules: the Grade 1 Chapter 2 summary + review (printed pp. 34–35) and the Grade 2 Chapter 2 summary + closing exercise (printed pp. 45–46) are stocked as Sub lesson 3 and as question stock; no standalone Review lesson is built. The Grade 1 scribble page is picture-led (a full page of red scribble with no text layer beyond the running head); the placement is followed exactly as read.
 
@@ -54,3 +54,11 @@ Searchable tags: Maldives, Exploring Creative Arts 4, scribbling, ሞነጫጨ�
 | Afghanistan — Lesson 4: Free lines (خط‌های آزاد) — free lines practised by hand movement with different tools, in groups, and again in the notebook at home (student book; original target `visual-art/first-marks-and-scribbles`) | Book 8, printed p. 7 |
 
 Afghanistan is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 10:** *Eikastika A' Gymnasiou, Tetradio Ergasion (workbook, Greek)* — Title as printed: Εικαστικά Α΄ Γυμνασίου — Τετράδιο Εργασιών (Visual Arts Grade 7 — Workbook) Grade: Grade 7 (student/teacher: STUDENT workbook) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); revised V2 edition (2025 printing in the PDF); ISBN 978-960-06-2663-6 (book code 0-21-0019) PDF pages: 34 (cover verified against the record title; byte size 6,570,847 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: a personal sketch-portfolio the pupil fills all year — collecting doodles, colour swatches, technique samples and artwork analyses; Greek heritage enters through the statues' axes exercise and completing the Parthenon in pencil. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 6).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Εκφράζομαι ελεύθερα: Συλλογή ιδεών (I express myself freely: collecting ideas) — collecting the traces/doodles you leave in paper margins while phoning or thinking, picking the most interesting and pasting samples in (workbook) | Book 10, printed p. 6 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

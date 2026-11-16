@@ -1,6 +1,6 @@
 # Sources — Patterns and Texture
 
-countries: Mongolia, Rwanda, Syria
+countries: Mongolia, Rwanda, Syria, Greece
 
 **Book 1:** *ДҮРСЛЭХ УРЛАГ, ТЕХНОЛОГИ I — Ерөнхий боловсролын сургуулийн 1 дүгээр ангийн сурах бичиг (Visual Art & Technology 1, textbook for grade 1 of the general education school)* (student book, Mongolian) — Mongolia, Боловсрол, Соёл, Шинжлэх Ухаан, Спортын Яам (Ministry of Education, Culture, Science and Sports), Ulaanbaatar; cover edition 2020 (bibliographic record: UB 2014, 76 pages); authors' team led by Д.Цэдэн-Иш (D. Tseden-Ish), editor С.Нямсүрэн; ISBN 978-99973-69-53-6. Grade 1 (student book: STUDENT). Read as the ministry flipbook's 78 page images = cover + printed pp. 1–76 + back cover; every printed page read. Verdict: COMPLETE. Combined Visual Art & Technology volume: Part II (printed pp. 44–74) is the design-and-making strand — paper, leaf and clay construction, including simple models — placed as art-making; no electronics, machines or other non-art technology content exists in the volume. Exclusions named, not placed: Foreword (printed p. 5); the two poems and the song are placed by name and theme only — no verse text transcribed; Bibliography (printed p. 75 — inventory only). No PDF exists in the repo for this book — the library record is a PHANTOM PUSH (the repo holds no copy, in the tree or in any release); the book was read from the record's own recorded source, the Ministry's econtent.edu.mn flipbook edition, page-image by page-image — the same ministry book, verified by cover, imprint and ISBN against the record. The phantom-push debt stands for the library. Placements at liqlearns-courses-work/expansion-art-2026-11-16/mongolia-placements.md.
 
@@ -66,8 +66,28 @@ countries: Mongolia, Rwanda, Syria
 |---|---|
 | Syria — Lesson 1 "Straight Lines and Their Harmony with Colours" — straight lines, when they intersect, form an artistic panel; think and use straight lines to form a modern visual panel and colour it in warm and cold colours (student book; original target `visual-art/abstract-pattern-design`) | Book 9, printed p. 4 |
 
-**Acceptance count: taught in 3 countries (Mongolia, Rwanda, Syria). Syria is added as student-book stock (see its rows above), inside the acceptance count.**
+**Acceptance count: taught in 4 countries (Mongolia, Rwanda, Syria, Greece). Syria is added as student-book stock (see its rows above), inside the acceptance count.**
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/patterns-and-texture`); the Mongolia placements were filed as NEW LESSON NEEDED under the original strings recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Songs are placed by name and theme only, never transcribed.
 
 Searchable tags: Patterns and Texture, Mongolia, Rwanda, Syria
+
+**Book 10:** *Eikastika A' Gymnasiou, Tetradio Ergasion (workbook, Greek)* — Title as printed: Εικαστικά Α΄ Γυμνασίου — Τετράδιο Εργασιών (Visual Arts Grade 7 — Workbook) Grade: Grade 7 (student/teacher: STUDENT workbook) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); revised V2 edition (2025 printing in the PDF); ISBN 978-960-06-2663-6 (book code 0-21-0019) PDF pages: 34 (cover verified against the record title; byte size 6,570,847 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: a personal sketch-portfolio the pupil fills all year — collecting doodles, colour swatches, technique samples and artwork analyses; Greek heritage enters through the statues' axes exercise and completing the Parthenon in pencil. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 6).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Σχέδιο με βάθος (Drawing with depth) — studying a surface (soil, wood, your own skin) through a magnifying glass and drawing its shapes and textures in the frames (workbook; original target `visual-art/drawing-textures-up-close`) | Book 10, printed p. 18 |
+
+**Book 11:** *Eikastika B' Gymnasiou, Tetradio Ergasion (workbook, Greek)* — Title as printed: Εικαστικά Β΄ Γυμνασίου — Τετράδιο Εργασιών (Visual Arts Grade 8 — Workbook) Grade: Grade 8 (student/teacher: STUDENT workbook) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); revised V2 edition (2025 printing in the PDF); ISBN 978-960-06-2712-1 (book code 0-21-0078) PDF pages: 34 (cover verified against the record title; byte size 6,186,945 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: thirty numbered "works" in two movements — first "I observe, think and find" (analysis of real artworks, Botticelli and El Greco among them), then "I observe and create"; Greece enters through the Vergina star's geometry, a folk Greek chest in the composition set, a basilica floor mosaic, and a closing Byzantine-art unit built around Fotis Kontoglou. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 11).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Εργασία 6: Υφή (Texture) — telling what each photographed surface is, which are natural and which artificial, and naming the feeling each gives with adjectives (workbook; original target `visual-art/drawing-textures-up-close`) | Book 11, printed p. 9 |
+
+**Book 12:** *Eikastika B' Gymnasiou (student book, Greek)* — Title as printed: Εικαστικά Β΄ Γυμνασίου — Βιβλίο Μαθητή (Visual Arts Grade 8) Grade: Grade 8 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); revised V2 edition (2025 printing in the PDF); ISBN 978-960-06-2711-4 (book code 0-21-0077) PDF pages: 114 (cover verified against the record title; byte size 23,557,700 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: an applied-arts year — interiors and stage sets, texture and volume — that keeps returning to Greece: woodcarving taught as a Greek traditional craft, Byzantine art as a full theme (church architecture, the portable icon's technique), and scenography that begins at the ancient theatre. Excluded per standing rules: the per-theme «ΓΛΩΣΣΑΡΙ» (glossary) sections are inventory-only; the closing suggested bibliography is apparatus — named here, not stocked. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 12).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Ενότητα 3, Θέμα 1: Η υφή (Texture) — what texture is, and techniques for making textures (matières) (student book; original target `visual-art/drawing-textures-up-close`) | Book 12, printed p. 50 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

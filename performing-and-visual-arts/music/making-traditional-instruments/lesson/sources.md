@@ -1,6 +1,6 @@
 # Sources — Making Traditional Instruments
 
-countries: Ethiopia, Honduras, Nicaragua, Fiji, Jordan, Angola, Bolivia
+countries: Ethiopia, Honduras, Nicaragua, Fiji, Jordan, Angola, Bolivia, Greece
 
 **Book 1:** *Grade 7 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 7ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–170. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g07-student-placements.md.
 
@@ -39,7 +39,7 @@ countries: Ethiopia, Honduras, Nicaragua, Fiji, Jordan, Angola, Bolivia
 | Bolivia — Musical glasses — a homemade instrument in the idiophones chapter: take seven glasses of one model, a jar of water (coloured if possible) and a fork; fill the glasses with water, tuning each against a recorder's note until the exact sound is reached (student book) | Book 10, printed p. 14 |
 | Bolivia — Making the claves and the triangle — the rhythmic band's instruments built in class: claves — a cylindrical stick of about 2 cm (a broomstick serves), cut in pieces of 15–20 cm, sanded with medium-grain paper and varnished, the length, thickness and density deciding the sound's quality; and the triangle — 45–60 cm of thin construction iron or aluminium tube, a beater of thinner iron or a big 10–12 cm nail, hung from strong string or nylon (student book) | Book 10, printed pp. 41–42 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Honduras, Jordan, Angola, Bolivia). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 6 countries (Ethiopia, Honduras, Jordan, Angola, Bolivia, Greece). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Making steps are taught at the level the placements carry them — materials, building order and tuning by ear; no measurements or tool procedures beyond the placements are invented.
 
@@ -51,3 +51,11 @@ Searchable tags: making traditional instruments, kebero trunk hide, washint bamb
 | Lesson part | Where it comes from |
 |---|---|
 | Jordan — Unit 2 Lesson 8 "I Make My Musical Instrument" — simple materials available around us can be used to make some musical instruments by hand, manually and easily — matching instruments to the stuff they are made of (copper, wood, plastic, leather), and the ancient civilisations' care for music and instrument-making, with instrument carvings on ancient Egyptian stone (a hieroglyph picture of a player of a stringed instrument); the pictured Balloon Drum project: a plastic cup, a big balloon, a wooden pencil and rubber bands — choose a balloon bigger than the cup's mouth, cut its upper part with the family's help, stretch the cut balloon fully over the cup's top, fix it with the rubber bands, then try playing the drum with the wooden pencil (student book; original target `music/making-an-instrument`) | Book 8, printed p. 50 |
+
+**Book 11:** *Μουσική Γ΄ & Δ΄ Δημοτικού (student book, Greek)* — Title as printed: Μουσική Γ΄ & Δ΄ Δημοτικού (Music, Primary Grades 3 & 4), by Δέσποινα Μπογδάνη-Σουγιούλ, Δέσποινα Σαλκιτζόγλου, Μαρία Καψημάνη Grade: 4 record (the book serves Grades 3 & 4; student/teacher: STUDENT) Publisher: ITYE «Διόφαντος», book code 0-10-0073, ISBN 978-960-06-2534-9 PDF pages: 90 (byte size 9,170,811 matches the record exactly; cover and contents verified) Verdict: COMPLETE — songs placed by theme only (no lyrics); the listening chapters name serious repertoire (Strauss, Handel, Vivaldi, Paganini in the listening guide). Standing exclusions named: the closing Γλωσσάρι (glossary) — inventory-only, not placed. Greece's own way: a full musicianship year — staff, rhythm, forms, listening — that ends by meeting Greece's own folk instruments (Ch. 22) and the May-tree custom (Ch. 25). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 35).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Chapter 17: Πώς μπορώ να φτιάξω μουσικά όργανα (how I can make musical instruments) (student book) | Book 11, printed p. 41 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

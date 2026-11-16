@@ -1,6 +1,6 @@
 # Sources — Metre and Time Signatures
 
-countries: Moldova, Armenia, North Macedonia
+countries: Moldova, Armenia, North Macedonia, Greece
 
 **Book 1:** *Educație muzicală: Manual pentru clasa a IV-a* (student book, Romanian) — Moldova, Î.E.P. Știința, Chișinău; year 2023; ISBN 978-9975-85-382-8 (CIP page; authors Ion Gagim, Marina Cosumov, Liliana Cîșlaru) Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 98 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded per standing rules: the Autoevaluare sections at printed pp. 28, 49, 76 and the summative Autoevaluare at pp. 93–95 — assessment only, not placed. Short "Dicționar" glossary boxes are inventory-only and not placed. Printed scores of songs already placed from their teaching sections are not placed twice. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
 
@@ -27,7 +27,7 @@ countries: Moldova, Armenia, North Macedonia
 | Armenia — Three beats — in this song there are 3 beats, the first strong, the others softer: the 3-beat measure, clapped then beaten (student book; original target `music/strong-and-weak-beats`) | Book 4, printed p. 27 |
 
 
-**Acceptance count: taught in 3 countries (Moldova, Armenia, North Macedonia).** Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 4 countries (Moldova, Armenia, North Macedonia, Greece).** Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/metre-and-time-signatures`). The Moldova placements were filed as NEW LESSON NEEDED under the original string(s) `music/anacrusis-the-upbeat`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Moldova's own way is the lesson itself where the topic is Moldovan: the country's own music, dances, crafts and art forms are kept as named parts. Songs are placed by title and theme only, never transcribed.
 
@@ -40,3 +40,17 @@ Searchable tags: Moldova, Metre and Time Signatures, Anacruza, creative work, Ar
 | North Macedonia — the anacrusis (predtakt): the incomplete opening bar that is not counted as the first bar and is completed by the incomplete final bar (student book; original target `music/anacrusis-the-upbeat`) | Book 5, printed p. 110 |
 
 North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 6:** *Mousiki A' Gymnasiou, Tetradio Ergasion (workbook, Greek)* — Title as printed: Μουσική Α΄ Γυμνασίου — Τετράδιο Εργασιών (Music Grade 7 — Workbook) Grade: Grade 7 (student/teacher: STUDENT workbook) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); ISBN 978-960-06-3126-9 (book code 0-21-0218). The series' authors are Cypriot music educators (University of Nicosia / Cyprus education service) — a Cyprus-written course adopted for Greek Gymnasia. PDF pages: 70 (cover verified against the record title; byte size 7,220,054 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: a weaving metaphor runs through it ("Υφαίνω μουσική" — I weave music): pupils compose ostinati, scales and rondos themselves, and the dance unit is Greece's own — Kalamatianos in 7/8 and Tsamikos — before a Viennese waltz party. Excluded per standing rules: Unit Γ΄ «Ας κάνουμε μια επανάληψη (1)» (printed p. 30) and Unit Ζ΄ «Ας κάνουμε μια επανάληψη (2)» (printed p. 56) are revision units (scale review, musical dictation/"spelling", crosswords) — named here, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 9).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Δ1. Μουσική σε δύο χρόνους (Music in two beats) — hearing which works are in duple metre; composing your own melody in duple metre in pairs (workbook) | Book 6, printed p. 33 |
+
+**Book 7:** *Mousiki A' Gymnasiou (student book, Greek)* — Title as printed: Μουσική Α΄ Γυμνασίου — Βιβλίο Μαθητή (Music Grade 7 — Student Book) Grade: Grade 7 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); reissue 2019; ISBN 978-960-06-3026-8 (book code 0-21-0217). Same Cyprus-written series as Book 9, whose workbook it accompanies. PDF pages: 142 (cover verified against the record title; byte size 17,913,031 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: the teaching text behind Book 9's workbook — every lesson opens with its aim and key words; Greece's dances are taught as music theory: the Kalamatianos carries the 7/8 metre and the A harmonic minor scale, the Tsamikos carries the traditional clarinet, with Skalkottas' 36 Greek Dances and Theodorakis' «Άξιον Εστί» as listening. Excluded per standing rules: Units Γ΄ and Ζ΄ «Ας κάνουμε μια επανάληψη» (printed pp. 51, 112) are revision units — named here, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 10).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Δ1. Μουσική σε δύο χρόνουs (Music in two beats) — duple metre — hearing it, counting it, composing in it (student book) | Book 7, printed p. 60 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

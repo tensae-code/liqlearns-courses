@@ -1,6 +1,6 @@
 # Sources — The Photographic Darkroom
 
-countries: North Macedonia
+countries: North Macedonia, Greece
 
 **Book 1:** *Ликовна уметност за III година (Visual Art for Year III of gymnasium education)* (student book, Macedonian) — North Macedonia, Просветно дело АД (Prosvetno Delo AD), Skopje; year 2004; ISBN 9989-0-0412-9; authors Dančo Ordev, Maja Raunik Kirkov, Aleksandar Ordev, Igor Vasilev, Miško Ralev, Viktorija Eremeeva-Naumovska; Ministry approval decision no. 11-3880/1 of 15.7.2004 Grade: Grade 12 (gymnasium Year III, elective) (student/teacher: STUDENT). PDF pages: 149 (148 printed pages per CIP plus cover; read in place from phase3-staging, never deleted). Verdict: COMPLETE. North Macedonia's own way: the techniques are taught through Macedonia's own treasures — the frescoes of Nerezi and Kurbinovo are named world-class, the kopaničari woodcarvers and the Sveti Spas iconostasis stand for wood carving, Prilep's sivec marble for stone, silver filigree and the Ohrid pearl for jewellery, the Macedonian folk costume for costume design, and Milton Manaki of Bitola carries the country's own first chapter of film history. Excluded per standing rules: none required — the book carries no assessment sections and no glossary; the closing Project chapter (printed p. 147) is placed as content. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/north-macedonia-placements.md.
 
@@ -9,8 +9,24 @@ countries: North Macedonia
 | North Macedonia — Развивање — developing the film: developer and fixer at exactly 20 °C, washing and drying — how the invisible picture becomes a negative (student book; original target `visual-art/the-darkroom-developing-and-printing`) | Book 1, printed p. 114 |
 | North Macedonia — Темна комора — the darkroom: printing the positive with the enlarger under red light, and the test strip that finds the right exposure (student book; original target `visual-art/the-darkroom-developing-and-printing`) | Book 1, printed pp. 115–116 |
 
-**Acceptance count: taught in 1 country (North Macedonia).**
+**Acceptance count: taught in 2 countries (North Macedonia, Greece).**
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/film-developing-darkroom`). The North Macedonia placements were filed under the original string(s) `visual-art/the-darkroom-developing-and-printing`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2 where the string differs. North Macedonia's own way is the lesson itself where the topic is Macedonian: the country's own music, dances, crafts and art forms are kept as named parts. Songs are placed by title and theme only, never transcribed.
 
 Searchable tags: North Macedonia, The Photographic Darkroom, Развивање, Темна комора
+
+**Book 2:** *Fotografia I, B' EPAL (student book, Greek)* — Title as printed: Φωτογραφία Ι — Β΄ ΕΠΑ.Λ., Τομέας Εφαρμοσμένων Τεχνών (Photography I, Vocational Lykeio Grade 11, Applied Arts sector) Grade: Grade 11 vocational (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); V1 edition; ISBN 978-960-06-3184-6 (set 978-960-06-3183-6; book code 0-24-0154) PDF pages: 210 (cover verified against the record title — a black-and-white street photograph; byte size 12,104,800 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: in the vocational school photography is a trade taught end to end on film — shoot, develop, print, control the negative, then judge and present the image; the darkroom is a classroom, not a museum piece. Excluded per standing rules: the Γλωσσάριο (printed p. 200) is inventory-only; the biographical notes and bibliography are apparatus. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 21).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Κεφ. 4: Εμφανίζοντας (Developing) — the darkroom; loading the film into the developing tank; the equipment and chemistry of developing; the practice of developing black-and-white film; the factors that decide the negative's quality (student book) | Book 2, printed p. 79 |
+| Greece — Κεφ. 7: Ο έλεγχος του αρνητικού (Controlling the negative) — special exposure and developing techniques; controlling image quality through exposure and development of a black-and-white film; the need to control natural light (student book) | Book 2, printed p. 155 |
+
+**Book 3:** *Fotografia II, B' EPAL (student book, Greek)* — Title as printed: Φωτογραφία ΙΙ — Β΄ ΕΠΑ.Λ. Επιλογής, Τομέας Εφαρμοσμένων Τεχνών (Photography II, Vocational Lykeio Grade 11 elective, Applied Arts sector) Grade: Grade 11 vocational elective (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); V1 edition; ISBN 978-960-06-3188-3 (set 978-960-06-3183-6; book code 0-24-0170) PDF pages: 186 (cover verified against the record title — early Greek photographs; byte size 10,355,150 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: the second vocational year goes professional — bigger cameras, studio light, colour, infrared and the digital bench — and closes with aesthetics, ending on "the Greek aesthetic view of the phenomenon 'photography'": Greece judging its own photographic eye. Excluded per standing rules: the Επεξήγηση Όρων (explanation of terms, printed p. 178) is a glossary — inventory-only; the bibliography is apparatus. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 22).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Κεφάλαιο ΙV: Ειδικές γνώσεις — Αντιγραφές φωτογραφιών, επεμβάσεις, υπέρυθρο φιλμ (Special knowledge: copying photographs, chemical interventions, infrared film) — copying opaque and transparent originals; intervening in the chemical processing of panchromatic film; black-and-white and colour infrared film — shooting, processing, printing (student book) | Book 3, printed p. 91 |
+| Greece — Κεφάλαιο ΙV: Τεχνικές σκοτεινού θαλάμου (Darkroom techniques) — the photogram and its variations; the Sabattier effect; toning (student book) | Book 3, printed p. 118 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

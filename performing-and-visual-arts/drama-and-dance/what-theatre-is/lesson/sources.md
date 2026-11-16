@@ -1,6 +1,6 @@
 # Sources — What Theatre Is
 
-countries: Ethiopia, Egypt, Nicaragua, Trinidad and Tobago, Suriname, Iran, Jordan, Venezuela, Malaysia, Moldova, Indonesia, Armenia
+countries: Ethiopia, Egypt, Nicaragua, Trinidad and Tobago, Suriname, Iran, Jordan, Venezuela, Malaysia, Moldova, Indonesia, Armenia, Greece
 
 **Book 1:** *Grade 4 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 4ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–100. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-student-placements.md.
 
@@ -66,7 +66,7 @@ countries: Ethiopia, Egypt, Nicaragua, Trinidad and Tobago, Suriname, Iran, Jord
 | Armenia — Theme 2.1: Music and theatre — theatre as an art revealed through actors' play before an audience, built on literature, painting, sculpture, architecture, music and dance together; the actor as bearer of the artistic image (student book; original target `drama-and-dance/what-theatre-is`) | Book 14, printed p. 76 |
 
 
-**Acceptance count: taught in 8 countries (Ethiopia, Egypt, Iran, Jordan, Venezuela, Malaysia, Moldova, Armenia). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 9 countries (Ethiopia, Egypt, Iran, Jordan, Venezuela, Malaysia, Moldova, Armenia, Greece). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This lesson rests on the Grade 4 student book's own definition (§1.3). The book's performance picture (Fig. 1.12, printed p. 16) is described as a slot; it is not reproduced.
 
@@ -80,3 +80,11 @@ Searchable tags: theatre, definition, director, audience, Grade 4, §1.3, Egypt,
 | Lesson part | Where it comes from |
 |---|---|
 | Jordan — Unit 3 Lesson 1 "The Art of Theatre" — theatre is a form of art that actors present to spectators, holding pleasure and benefit; its emblem is the laughing face and the crying face, and cooperation is necessary in theatre (student book; original target `drama-and-dance/what-theatre-is`) | Book 7, printed p. 56 |
+
+**Book 15:** *Theatriki Agogi E'-ST' Dimotikou (student book, Greek)* — Title as printed: Θεατρική Αγωγή Ε΄ & Στ΄ Δημοτικού (Theatre Education, Grades 5 & 6) Grade: Grades 5-6 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); year 2013 (revised printing 2015); ISBN 978-960-06-2606-7 (book code 0-10-0142) PDF pages: 106 (cover verified against the record title — portraits of Antigone and of Karolos Koun on the cover; byte size 11,795,755 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: theatre taught as a GAME with levels called "zones" — the class plays its way from circle name-games to a full performance, every zone run twice, once at Grade 5 level and once harder at Grade 6; the cover honours Sophocles' Antigone and Karolos Koun, founder of Greece's Art Theatre. Excluded per standing rules: Appendix 1 «Με τη γλώσσα του θεάτρου» (printed p. 101) is a theatre-language word list — inventory-only, named here, not stocked. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 5).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Εισαγωγή: Το Παιχνίδι (Introduction: The Game) — the book's idea — theatre learned through play, in levels called zones, some played alone and some in groups, with the "Stage Magician" (teacher) guiding (student book) | Book 15, printed p. 7 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

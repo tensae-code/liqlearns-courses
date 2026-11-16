@@ -1,6 +1,6 @@
 # Sources — Architecture
 
-countries: Colombia, Belarus, Morocco, Cuba, Syria, Armenia, North Macedonia
+countries: Colombia, Belarus, Morocco, Cuba, Syria, Armenia, North Macedonia, Greece
 
 **Book 1:** *Secundaria Activa — Educación Artística - Artes Visuales (student guide)* (student book, Spanish) — Colombia, Ministerio de Educación Nacional, Bogotá; year 2012; ISBN libro 978-958-691-497-0, ISBN serie Secundaria Activa 978-958-691-485-7; authors Paola Lorena Coral Pérez and Marcela Tristancho (update and qualification by Aguirre Asesores S.A.S., contract 428 of 2010). Grades 6–9 (recorded grade-06; STUDENT). PDF pages: 168 (title page verified against the record; byte size 9,617,292). Verdict: COMPLETE — read in full locally from the downloaded file's text layer, all 2 projects / 4 subprojects / 12 Momentos. The book's self-assessment rubrics (autoevaluación) are assessment apparatus, named here and not placed. READ ROUTE: the ministry host (redes.colombiaaprende.edu.co) drops direct connections after the TLS handshake, and its June 2023 Wayback capture is a truncated ~538 KB file; this copy is the Wayback Machine's 10 Dec 2022 capture of the same ministry file (canonical digest), downloaded whole and verified. Placements at liqlearns-courses-work/expansion-art-2026-11-16/colombia-placements.md.
 
@@ -113,7 +113,7 @@ countries: Colombia, Belarus, Morocco, Cuba, Syria, Armenia, North Macedonia
 | Armenia — Architecture (Ճարտարապետություն) — building as an art type: form, purpose and beauty in built space (student book; original target `visual-art/architecture-as-art`) | Book 18, printed p. 7 |
 
 
-**Acceptance count: taught in 6 countries (Colombia, Belarus, Cuba, Syria, Armenia, North Macedonia).** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 7 countries (Colombia, Belarus, Cuba, Syria, Armenia, North Macedonia, Greece).** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/architecture`); the Colombia placements were filed under the original strings recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Colombia's own way: architecture is taught inside a design project on transforming spaces — the world's shelters are read by the human need each one answers.
 
@@ -141,3 +141,17 @@ Searchable tags: architecture, tipi, palafitos, Chiloé, Calatrava, Forbidden Ci
 | North Macedonia — Урбанизам — urbanism: how cities are born and grow — from the first villages to polis, industrial city and megalopolis — and the planner's tasks: zoning for housing, work, rest and culture, and building a humane, sustainable city (student book; original target `visual-art/architecture-and-urbanism`) | Book 20, printed pp. 122–125 |
 
 North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 21:** *Eikastika A' Gymnasiou, Tetradio Ergasion (workbook, Greek)* — Title as printed: Εικαστικά Α΄ Γυμνασίου — Τετράδιο Εργασιών (Visual Arts Grade 7 — Workbook) Grade: Grade 7 (student/teacher: STUDENT workbook) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); revised V2 edition (2025 printing in the PDF); ISBN 978-960-06-2663-6 (book code 0-21-0019) PDF pages: 34 (cover verified against the record title; byte size 6,570,847 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: a personal sketch-portfolio the pupil fills all year — collecting doodles, colour swatches, technique samples and artwork analyses; Greek heritage enters through the statues' axes exercise and completing the Parthenon in pencil. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 6).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Σχεδιάζω: ο Παρθενώνας (I draw: the Parthenon) — completing the Parthenon in pencil from the student book's images, adding its details; the Corinthian capital inspired by a basket full of acanthus (workbook; original target `visual-art/greek-temple-architecture`) | Book 21, printed p. 28 |
+
+**Book 22:** *Eikastika A' Gymnasiou (student book, Greek)* — Title as printed: Εικαστικά Α΄ Γυμνασίου — Βιβλίο Μαθητή (Visual Arts Grade 7) Grade: Grade 7 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); revised V2 edition (2025 printing in the PDF); ISBN 978-960-06-2662-9 (book code 0-21-0018) PDF pages: 130 (cover verified against the record title; byte size 23,877,592 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: a full Gymnasium art course by two painter-engravers — every unit ends with "Τι θυμάμαι;" (What do I remember?) and a glossary; the course's crown is a whole unit spent at the Parthenon, and clay is taught as a journey through the history of ceramics from ancient civilisations. Excluded per standing rules: every unit's closing «Τι θυμάμαι; Γλωσσάρι» revision-and-glossary spread (inventory/revision only); the closing Εικαστικό Κουίζ (Art Quiz, printed p. 120) is assessment; bibliography and image credits are apparatus. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 7).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Ενότητα 10: Ένα πρωινό στον Παρθενώνα (A morning at the Parthenon) — gazing at the Parthenon; the secrets of its art — rhythm and refinements (entasis, curvature); a journey in time; at the heart of creation; the mythical gods; material and light; the Greek colours (student book; original target `visual-art/greek-temple-architecture`) | Book 22, printed p. 102 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

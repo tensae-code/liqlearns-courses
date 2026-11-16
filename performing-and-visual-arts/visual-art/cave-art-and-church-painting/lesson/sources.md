@@ -1,6 +1,6 @@
 # Sources — Cave Art and Church Painting
 
-countries: Ethiopia, Uganda, Romania, Trinidad and Tobago, Pakistan, Colombia, Sudan, Brazil, Bulgaria, Libya, Cuba, Saudi Arabia, Venezuela, Mongolia, Afghanistan, Bolivia, Moldova, Indonesia, Armenia, North Macedonia
+countries: Ethiopia, Uganda, Romania, Trinidad and Tobago, Pakistan, Colombia, Sudan, Brazil, Bulgaria, Libya, Cuba, Saudi Arabia, Venezuela, Mongolia, Afghanistan, Bolivia, Moldova, Indonesia, Armenia, North Macedonia, Greece
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -129,7 +129,7 @@ countries: Ethiopia, Uganda, Romania, Trinidad and Tobago, Pakistan, Colombia, S
 | Armenia — The Origin of Art: primitive art (Արվեստի ծագումը, Նախնադարյան արվեստ) — how art began with the first peoples (student book; original target `visual-art/cave-art-and-church-painting`) | Book 29, printed p. 22 |
 
 
-**Acceptance count: taught in 17 countries (Ethiopia, Uganda, Romania, Pakistan, Colombia, Sudan, Brazil, Bulgaria, Cuba, Saudi Arabia, Venezuela, Mongolia, Afghanistan, Bolivia, Moldova, Armenia, North Macedonia).** Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 18 countries (Ethiopia, Uganda, Romania, Pakistan, Colombia, Sudan, Brazil, Bulgaria, Cuba, Saudi Arabia, Venezuela, Mongolia, Afghanistan, Bolivia, Moldova, Armenia, North Macedonia, Greece).** Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia's teacher compendia are added as teacher compendium evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Why cave people painted is not certainly known; the lesson teaches the scholars' suggestions — communication, worship and gatherings — as suggestions, exactly as the Grade 5 book gives them. The Grade 9 teacher-guide part is evidence only and is labelled so; it adds Dire Dawa as the guide's home example and the four types of Ethiopian painting, and the lesson does not present those guide-only details as pupil-taught.
 
@@ -174,3 +174,17 @@ Afghanistan is added as student-book stock (see its rows above), inside the acce
 | North Macedonia — Неолит — Neolithic art: settled villages, pottery, and the megaliths — menhirs, dolmens and Stonehenge (student book; original target `visual-art/cave-art-and-church-painting`) | Book 30, printed p. 126 |
 
 North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 31:** *Εικαστικά Γ΄ & Δ΄ Δημοτικού (student book, Greek)* — Title as printed: Εικαστικά Γ΄ & Δ΄ Δημοτικού (Visual Arts, Primary Grades 3 & 4), by Θωμάς Ζωγράφος, Αριάδνη Αξαοπούλου, Δημήτρης Μπέσσας, Ελεονόρα Μπέσσα Grade: 4 record (the book serves Grades 3 & 4; student/teacher: STUDENT) Publisher: ITYE «Διόφαντος», book code 0-10-0070, ISBN 978-960-06-2531-8 PDF pages: 98 (byte size 26,373,502 matches the record exactly; cover and contents verified) Verdict: COMPLETE Greece's own way: the older-primary art book walks from formal elements to Greece's own heritage — two dialogues in ancient Greek art and Byzantine icon painting — and out to Duchamp-style found objects and sculptures that move. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 33).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Unit Δ Δ2: Βυζαντινή αγιογραφία (Byzantine icon painting — Greece's own church art) (student book) | Book 31, printed p. 72 |
+
+**Book 32:** *Εικαστικά Γ΄ & Δ΄ Δημοτικού, Τετράδιο εργασιών (workbook, Greek)* — Title as printed: Εικαστικά Γ΄ & Δ΄ Δημοτικού — Τετράδιο εργασιών (Visual Arts Workbook, Primary Grades 3 & 4) Grade: 4 record (student/teacher: STUDENT workbook) Publisher: ITYE «Διόφαντος» PDF pages: 58 (byte size 36,259,987 matches the record exactly; contents verified — mirrors the Γ΄&Δ΄ student book, Α2 Τροχιογραμμές p. 11 … Δ2 Βυζαντινή αγιογραφία p. 41) Verdict: COMPLETE — practice pages for the student book's chapters; placed at unit level. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 34).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Unit Δ workbook pages: creators yesterday and today in practice (Δ2 Βυζαντινή αγιογραφία) (workbook) | Book 32, printed pp. 41–50 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

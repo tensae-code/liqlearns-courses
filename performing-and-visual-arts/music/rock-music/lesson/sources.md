@@ -1,6 +1,6 @@
 # Sources — Rock Music
 
-countries: North Macedonia
+countries: North Macedonia, Greece
 
 **Book 1:** *Музичка уметност за II година гимназиско образование (Musical Art for the Second Year of Gymnasium Education)* (student book, Macedonian) — North Macedonia, Литера Гроуп (Litera Group), Skopje; year 2026; ISBN 978-608-4855-91-0; authors Simona Zafirovska & Lejla Alimi Lumani; Ministry approval decision no. 26-748/1 of 16.6.2026 Grade: Grade 11 (gymnasium Year II; student/teacher: STUDENT). PDF pages: 176 (175 printed pages per CIP plus cover; read in place from phase3-staging, never deleted). Verdict: COMPLETE. North Macedonia's own way: a full European music history is taught, but the book keeps coming home — a whole Macedonian composer school in three generations plus a parallel popular-and-jazz line, Macedonian festivals beside Glastonbury and Eurovision, and a closing heritage unit where the ritual songs and wedding dances of every people in the country are taught side by side, before the Balkans, Europe and the world. Excluded per standing rules: the bibliography (printed pp. 174–175) is not content; this book has no glossary. Directed-listening examples, singing exercises and notation-app tasks ride inside the placed lessons, not placed separately. Song lyrics are summarised, never transcribed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/north-macedonia-placements.md.
 
@@ -14,8 +14,24 @@ countries: North Macedonia
 |---|---|
 | North Macedonia — Рок музика — rock music: from the rock'n'roll of the 1940s–50s, fed by blues, country, classical and electronic music; folk rock, blues rock and jazz-rock fusion; the 1970s' soft rock, heavy metal, hard, progressive and punk rock; the 1980s' synth-pop, hardcore and alternative; the 1990s' grunge, britpop, indie and nu metal; the electric guitar at its centre — Hendrix its virtuoso — and the rock band of guitarist, singer, bassist and drummer (student book; original target `music/rock-music`) | Book 2, printed p. 102 |
 
-**Acceptance count: taught in 1 country (North Macedonia).**
+**Acceptance count: taught in 2 countries (North Macedonia, Greece).**
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/rock-music`). The North Macedonia placements were filed under the original string(s) `music/rock-music`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2 where the string differs. North Macedonia's own way is the lesson itself where the topic is Macedonian: the country's own music, dances, crafts and art forms are kept as named parts. Songs are placed by title and theme only, never transcribed.
 
 Searchable tags: North Macedonia, Rock Music, rock music, Рок музика
+
+**Book 3:** *Mousiki C' Gymnasiou, Tetradio Ergasion (workbook, Greek)* — Title as printed: Μουσική Γ΄ Γυμνασίου — Τετράδιο Εργασιών (Music Grade 9 — Workbook) Grade: Grade 9 (student/teacher: STUDENT workbook) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); revised edition; ISBN 978-960-06-2709-5 (book code 0-21-0146) PDF pages: 58 (cover verified against the record title — a sol-fa colour grid; byte size 4,158,154 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: after the 20th century and the road from gospel to rock, half the book walks "the neighbourhoods of Greek song" street by street — Hadjidakis street, the Axion Esti of Theodorakis, Markopoulos' "return to the roots", Xarchakos' neighbourhood, Loizos' road, Savvopoulos' little Greece — with rebetiko and Greek jazz given their own stops. Songs are placed by name and purpose only, never lyrics. Excluded per standing rules: the «Τι έμαθα...» self-checks and the Ανακεφαλαιωτικές ασκήσεις (recap exercises, printed p. 19) are revision/assessment — named here, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 18).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Πέτρα που κυλάει δε χορταριάζει (A rolling stone gathers no moss) — singing "Rock Around the Clock"; the Doors' "Riders on the Storm" (1971) and Ray Manzarek's electric piano (workbook) | Book 3, printed p. 25 |
+| Greece — Η ιστορία ενός τοίχου (The story of a wall) — singing Pink Floyd's "Another Brick in the Wall" and reading the wall's story (workbook) | Book 3, printed p. 30 |
+
+**Book 4:** *Mousiki C' Gymnasiou (student book, Greek)* — Title as printed: Μουσική Γ΄ Γυμνασίου — Βιβλίο Μαθητή (Music Grade 9) Grade: Grade 9 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); V2 edition; ISBN 978-960-06-2768-8 (book code 0-21-0220) PDF pages: 90 (cover verified against the record title; byte size 9,185,197 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: the theory text behind Book 18's workbook, closing "instead of an epilogue" with two production projects — the class makes its own radio programme and its own multi-art spectacle — so the Greek song history ends by handing the microphone to the students. Excluded per standing rules: the closing Ευρετήριο (index, printed p. 85) is apparatus, inventory-only. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 19).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Πέτρα που κυλάει δε χορταριάζει (A rolling stone gathers no moss) — rock and roll's arrival — "Rock Around the Clock" to the Doors (student book) | Book 4, printed p. 39 |
+| Greece — Η ιστορία ενός τοίχου (The story of a wall) — Pink Floyd's "Another Brick in the Wall" — rock as protest story (student book) | Book 4, printed p. 46 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

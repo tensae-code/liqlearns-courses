@@ -1,0 +1,19 @@
+# Greek May Day Tree Custom
+
+## Do it first
+
+Before you read: say what you already know about greek may day tree custom. Then read on and check yourself.
+
+## Sub lesson 1 — 25. Το δέντρο του Μάη (The May tree)
+
+one of Greece's traditional customs — the May Day tree celebration
+
+## Say it to your companion
+
+Tell your companion what each part of this lesson teaches, part by part, in your own words. Companion checks: did every sub lesson get named?
+
+## Do It Yourself
+
+1. Do the hands-on tasks in hands-on.md.
+2. Write one sentence: what is the one thing this lesson — Greek May Day Tree Custom — teaches?
+3. Teach it to someone at home, the way this lesson taught you.

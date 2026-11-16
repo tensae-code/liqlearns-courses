@@ -1,6 +1,6 @@
 # Sources — Stages of Film and Theatre Production
 
-countries: Ethiopia, Suriname, Colombia
+countries: Ethiopia, Suriname, Colombia, Greece
 
 **Book 1:** *Grade 8 Performing and Visual Arts Teacher's Guide Book* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, March 2022, printed pp. 1–110 as promised by its contents; the library file is TRUNCATED — its body holds printed pp. 1–56 plus syllabus tables, and Units 4–5 are placed from its contents and syllabus only. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-teacher-placements.md.
 
@@ -21,8 +21,16 @@ countries: Ethiopia, Suriname, Colombia
 
 | Colombia — Project 2, Subproject 1, Momento 1 "¡Vamos a hacer un montaje!": staging a production — the functions of an actor: a person who interprets, recreates and lives a character, following the director's indications and the dramatic demands of the work; acting techniques have varied through history (student book; original target `drama-and-dance/stages-of-film-and-theatre-production`) | Book 4 | printed pp. 97–112 |
 
-**Acceptance count: taught in 1 country (Colombia).** Ethiopia teacher-guide evidence is named here, counted nowhere. Suriname is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 2 countries (Colombia, Greece).** Ethiopia teacher-guide evidence is named here, counted nowhere. Suriname is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This lesson stands on the Grade 8 teacher guide (printed pp. 6–8) as labelled evidence; the topic sits in the guide's full body (Units 1–3).
 
 Searchable tags: film production stages, pre-production, principal photography, wrap, post-production, distribution, Grade 8 teacher guide, evidence, Colombia
+
+**Book 5:** *Θεατρική Αγωγή Ε΄ & Στ΄ Δημοτικού (student book, Greek)* — Title as printed: Θεατρική Αγωγή Ε΄ & Στ΄ Δημοτικού (Theatre Education, Primary Grades 5 & 6), by Πέτρος Μουγιακάκος, Αντιγόνη Μώρου, Χρήστος Παπαδημούλης, Μαρία Φραγκή Grade: 6 record (the book serves Grades 5 & 6; student/teacher: STUDENT) Publisher: ITYE «Διόφαντος», book code 0-10-0142, ISBN 978-960-06-2608-7 PDF pages: 106 (byte size 11,795,755 matches the record exactly; cover and contents verified — 16 "zones", each worked at both grade levels, plus two appendices) Verdict: COMPLETE Greece's own way: a whole primary theatre course built as zones of play — body, expression, partner, group, space, object, action, improvisation — that grow, zone by zone, into dramatisation, play-writing and a full school production the children then watch as audience. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 43).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Zone 15: Η θεατρική παράσταση (the performance itself) and Zone 16: Βλέπω μια θεατρική παράσταση (I watch a performance — being an audience) (student book) | Book 5, printed  |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

@@ -1,6 +1,6 @@
 # Sources — Ballroom and Social Dances
 
-countries: Trinidad and Tobago, Iceland, Papua New Guinea, Brazil
+countries: Trinidad and Tobago, Iceland, Papua New Guinea, Brazil, Greece
 
 **Book 1:** *Teacher's Guide — Secondary School Curriculum — DANCE — Visual and Performing Arts* (teacher guide, English) — Trinidad and Tobago, Ministry of Education, Curriculum Development Division, Rudranath Capildeo Learning Resource Centre, Couva; year not printed in fetched text; no ISBN printed, Forms 1–3 (Grades 7–9), 57 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE — assessment rubrics/checklists (Part 3) and the Glossary of Key Terms in Dance (printed pp. 49+) are apparatus/inventory only, named here and not placed. Read in full via its recorded ministry source_url in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/trinidad-and-tobago-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -24,8 +24,22 @@ countries: Trinidad and Tobago, Iceland, Papua New Guinea, Brazil
 
 | Brazil — Folha 19 — ballroom dances: the minuet's etiquette, the tango, the waltz of the bride and groom and the serenata; researching and presenting one ballroom dance (student book; original target `drama-and-dance/ballroom-dances`) | Book 4, printed p. 314 |
 
-**Acceptance count: taught in 1 country (Brazil). Before Brazil, this lesson stood on Trinidad and Tobago teacher guide evidence only, named here, counted nowhere.** Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 2 countries (Brazil, Greece). Before Brazil, this lesson stood on Trinidad and Tobago teacher guide evidence only, named here, counted nowhere.** Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `drama-and-dance/ballroom-dances`); the Trinidad and Tobago placements were filed as NEW LESSON NEEDED under the original string(s) `drama-and-dance/social-dance-and-responsible-dancing`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Trinidad and Tobago's own way: social dancing is taught frankly inside its Dance curriculum — the country's own party musics, Soca and Dancehall, are the lesson's music, and the lesson's work is the line between appropriate and inappropriate dancing and the responsible choices of adolescence.
 
 Searchable tags: ballroom, social dance, Soca, Dancehall, appropriate dancing, responsible choices, Trinidad and Tobago, Iceland, Dægurspor, Papua New Guinea, Brazil
+
+**Book 5:** *Mousiki A' Gymnasiou, Tetradio Ergasion (workbook, Greek)* — Title as printed: Μουσική Α΄ Γυμνασίου — Τετράδιο Εργασιών (Music Grade 7 — Workbook) Grade: Grade 7 (student/teacher: STUDENT workbook) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); ISBN 978-960-06-3126-9 (book code 0-21-0218). The series' authors are Cypriot music educators (University of Nicosia / Cyprus education service) — a Cyprus-written course adopted for Greek Gymnasia. PDF pages: 70 (cover verified against the record title; byte size 7,220,054 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: a weaving metaphor runs through it ("Υφαίνω μουσική" — I weave music): pupils compose ostinati, scales and rondos themselves, and the dance unit is Greece's own — Kalamatianos in 7/8 and Tsamikos — before a Viennese waltz party. Excluded per standing rules: Unit Γ΄ «Ας κάνουμε μια επανάληψη (1)» (printed p. 30) and Unit Ζ΄ «Ας κάνουμε μια επανάληψη (2)» (printed p. 56) are revision units (scale review, musical dictation/"spelling", crosswords) — named here, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 9).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — ΣΤ2. Χορεύω ευρωπαϊκά — Βαλς (I dance European — the waltz) — creating "a 19th-century Viennese party" — the waltz as Europe's ballroom dance (workbook; original target `drama-and-dance/waltz-and-european-dances`) | Book 5, printed p. 55 |
+
+**Book 6:** *Mousiki A' Gymnasiou (student book, Greek)* — Title as printed: Μουσική Α΄ Γυμνασίου — Βιβλίο Μαθητή (Music Grade 7 — Student Book) Grade: Grade 7 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); reissue 2019; ISBN 978-960-06-3026-8 (book code 0-21-0217). Same Cyprus-written series as Book 9, whose workbook it accompanies. PDF pages: 142 (cover verified against the record title; byte size 17,913,031 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: the teaching text behind Book 9's workbook — every lesson opens with its aim and key words; Greece's dances are taught as music theory: the Kalamatianos carries the 7/8 metre and the A harmonic minor scale, the Tsamikos carries the traditional clarinet, with Skalkottas' 36 Greek Dances and Theodorakis' «Άξιον Εστί» as listening. Excluded per standing rules: Units Γ΄ and Ζ΄ «Ας κάνουμε μια επανάληψη» (printed pp. 51, 112) are revision units — named here, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 10).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — ΣΤ2. Χορεύω Ευρωπαϊκά — Βαλς (I dance European — the waltz) — the waltz — a triple-metre dance (3/4, sometimes 3/8 or 6/8) that grew from the folk Ländler of Central Europe; Johann Strauss II's "On the Beautiful Blue Danube" (student book; original target `drama-and-dance/waltz-and-european-dances`) | Book 6, printed p. 109 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

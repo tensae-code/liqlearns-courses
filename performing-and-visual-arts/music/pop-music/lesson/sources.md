@@ -1,6 +1,6 @@
 # Sources — Pop Music
 
-countries: United Kingdom, Cuba, Moldova, Armenia, North Macedonia
+countries: United Kingdom, Cuba, Moldova, Armenia, North Macedonia, Greece
 
 **Book 1:** *Edexcel GCSE (9–1) Anthology of Music* (student book, English), edited by Julia Winterson — United Kingdom, Pearson Education Ltd with Peters Edition Ltd and Faber Music Ltd, 2016 (first published 2016), ISBN 978-1-292-11838-3, Grade 10 (GCSE, Years 10–11), 97 PDF pp. Verdict: COMPLETE — all 97 pages read (score pages placed as study summaries only; no notation or song lyrics transcribed). Read from the scanned page images at the book's recorded source (Internet Archive item `edexcel-gcse-9-1-anthology-of-music`, 97 pages, matching the record) in the 2026-11-16 Art expansion read, because the recorded GitHub copy is a PHANTOM PUSH — marked pushed but absent from the tree and the releases, so it could not be fetched by the tree route (see the placements file). Placements at liqlearns-courses-work/expansion-art-2026-11-16/united-kingdom-placements.md. The book's Glossary of Key Words (printed pp. 90–93) is inventory only, named here and never stocked as parts.
 
@@ -30,7 +30,7 @@ countries: United Kingdom, Cuba, Moldova, Armenia, North Macedonia
 | Armenia — The "King of Pop" — Michael Jackson (1958-2009): the Jackson 5 boy who became the best-selling artist; "Thriller" (1982), "Billie Jean" with the moonwalk, "Beat It" — pop music as world culture (student book; original target `music/pop-music`) | Book 6, printed p. 57 |
 
 
-**Acceptance count: taught in 4 countries (United Kingdom, Moldova, Armenia, North Macedonia).** Cuba is added as a student book, inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 5 countries (United Kingdom, Moldova, Armenia, North Macedonia, Greece).** Cuba is added as a student book, inside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/pop-music`); the United Kingdom placements were filed under the original string `music/killer-queen-verse-chorus-pop-song`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. The scores in the Anthology are placed as study summaries only — no notation or song lyrics are transcribed in this lesson. The United Kingdom's own way, carried in the placements: music is learned by appraising eight fixed set works — following the printed score while listening, after short teaching notes on period context, structure and what to listen for.
 
@@ -80,3 +80,17 @@ Searchable tags: pop music, Queen, Killer Queen, Freddie Mercury, verse and chor
 | North Macedonia — Поп музика — pop music: the popular music that rose in the USA before the Second World War — simple melodies and catchy refrains; Frank Sinatra, the first teen idol, and his screaming "bobby-soxers"; pop's essence its unpredictability, and its name as the most commercial kind of music (student book; original target `music/pop-music`) | Book 10, printed p. 101 |
 
 North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 11:** *Mousiki C' Gymnasiou, Tetradio Ergasion (workbook, Greek)* — Title as printed: Μουσική Γ΄ Γυμνασίου — Τετράδιο Εργασιών (Music Grade 9 — Workbook) Grade: Grade 9 (student/teacher: STUDENT workbook) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); revised edition; ISBN 978-960-06-2709-5 (book code 0-21-0146) PDF pages: 58 (cover verified against the record title — a sol-fa colour grid; byte size 4,158,154 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: after the 20th century and the road from gospel to rock, half the book walks "the neighbourhoods of Greek song" street by street — Hadjidakis street, the Axion Esti of Theodorakis, Markopoulos' "return to the roots", Xarchakos' neighbourhood, Loizos' road, Savvopoulos' little Greece — with rebetiko and Greek jazz given their own stops. Songs are placed by name and purpose only, never lyrics. Excluded per standing rules: the «Τι έμαθα...» self-checks and the Ανακεφαλαιωτικές ασκήσεις (recap exercises, printed p. 19) are revision/assessment — named here, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 18).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Το φαινόμενο Beatles (The Beatles phenomenon) — hearing and singing "Eleanor Rigby"; John Lennon's "Give Peace a Chance" and its refrain (workbook; original target `music/the-beatles-and-pop`) | Book 11, printed p. 28 |
+
+**Book 12:** *Mousiki C' Gymnasiou (student book, Greek)* — Title as printed: Μουσική Γ΄ Γυμνασίου — Βιβλίο Μαθητή (Music Grade 9) Grade: Grade 9 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); V2 edition; ISBN 978-960-06-2768-8 (book code 0-21-0220) PDF pages: 90 (cover verified against the record title; byte size 9,185,197 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: the theory text behind Book 18's workbook, closing "instead of an epilogue" with two production projects — the class makes its own radio programme and its own multi-art spectacle — so the Greek song history ends by handing the microphone to the students. Excluded per standing rules: the closing Ευρετήριο (index, printed p. 85) is apparatus, inventory-only. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 19).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Το φαινόμενο Beatles (The Beatles phenomenon) — the Beatles as a phenomenon — "Eleanor Rigby", Lennon's "Give Peace a Chance" (student book; original target `music/the-beatles-and-pop`) | Book 12, printed p. 43 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

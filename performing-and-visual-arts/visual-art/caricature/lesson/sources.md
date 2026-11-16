@@ -1,6 +1,6 @@
 # Sources — Caricature
 
-countries: Bhutan, Colombia, Sudan, Bulgaria, Libya, Mongolia, Bolivia
+countries: Bhutan, Colombia, Sudan, Bulgaria, Libya, Mongolia, Bolivia, Greece
 
 **Book 1:** *Arts Education — Student's Workbook for Class IV* (student book, English) — Bhutan, Department of School Education (DSE), Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu, © 2023, revised edition 2021, reprint 2024, ISBN 178-99936-0-415-0 (as printed), Class IV, 30 PDF pp. STUDENT — student's workbook. Verdict: COMPLETE. Byte size 5,783,098 and MD5 match the record exactly; cover verified against the record title; fetched with grab.py (release route — the book lives in GitHub Releases), read in full as text in the 2026-11-16 Art expansion read, PDF deleted after filing. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bhutan-placements.md.
 
@@ -34,7 +34,7 @@ countries: Bhutan, Colombia, Sudan, Bulgaria, Libya, Mongolia, Bolivia
 |---|---|
 | Bolivia — Caricature of the human figure — the caricature as exaggerated, humorous drawing: find a reference (oneself, friends, a public figure), identify the features (eyes, nose, mouth, limbs), draw the base lines (rectangle, oval, circle), exaggerate the feature (the oval face more oval), and emphasise the expression — smiling, sad, thoughtful (student book; original target `visual-art/characters-and-caricature`) | Book 8, printed pp. 25–26 |
 
-**Acceptance count: taught in 6 countries(Bhutan, Colombia, Sudan, Bulgaria, Mongolia, Bolivia).** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 7 countries (Bhutan, Colombia, Sudan, Bulgaria, Mongolia, Bolivia, Greece).** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/caricature`); the Bhutan placements were filed as NEW LESSON NEEDED under the original string `visual-art/drawing-cartoon-faces`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Bhutan's own way, carried in the placements: a one-lesson-one-page workbook that builds the hand first — lines, curves, tone, mixing — then spends half its pages making things, with Bhutanese life (tshechu, losar) and Bhutan's own traditional forms as content.
 
@@ -52,3 +52,11 @@ Searchable tags: caricature, cartoon faces, comic drawing, Bhutan, Colombia
 | Lesson part | Where it comes from |
 |---|---|
 | Libya — Cartoon drawings — drawing cartoon characters with stress on line, colour and movement; knowing the famous characters and inventing new ones born of the pupils' own history, civilisation and culture; drawing scenes from cartoon episodes and satirical drawings of the pupil's own invention (teacher guide — evidence; original target `visual-art/characters-and-caricature`) | Book 5, printed pp. 91–96 |
+
+**Book 9:** *Eikastika E'-ST' Dimotikou (student book, Greek)* — Title as printed: Εικαστικά — Παρατηρώ & δημιουργώ, Ε΄ & Στ΄ Δημοτικού (Visual Arts — I Observe & Create) Grade: Grades 5-6 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); ISBN 978-960-06-2605-6 (book code 0-10-0139) PDF pages: 94 (cover verified against the record title; byte size 25,466,091 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: a materials-and-professions book — simple materials (paper, wire, tesserae, clay) taught as real techniques including Byzantine-rooted mosaic methods, then the visual professions (cartoonist, comics artist, lettering designer, model-maker, photographer), then art history taught as five movements you try yourself. Excluded per standing rules: the Appendix (Παράρτημα) — glossary, bibliography, index — is inventory-only, named here, not stocked. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 4).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Γ1. Γελοιογραφία – Γελοιογράφος (Caricature – the cartoonist) — laughter is health — what a caricature is and how the cartoonist works; drawing your own caricatures (student book; original target `visual-art/caricature-and-cartoons`) | Book 9, printed p. 48 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

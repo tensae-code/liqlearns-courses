@@ -1,6 +1,6 @@
 # Sources — Film Music
 
-countries: United Kingdom, Iceland, Brazil, North Macedonia
+countries: United Kingdom, Iceland, Brazil, North Macedonia, Greece
 
 **Book 1:** *Edexcel GCSE (9–1) Anthology of Music* (student book, English), edited by Julia Winterson — United Kingdom, Pearson Education Ltd with Peters Edition Ltd and Faber Music Ltd, 2016 (first published 2016), ISBN 978-1-292-11838-3, Grade 10 (GCSE, Years 10–11), 97 PDF pp. Verdict: COMPLETE — all 97 pages read (score pages placed as study summaries only; no notation or song lyrics transcribed). Read from the scanned page images at the book's recorded source (Internet Archive item `edexcel-gcse-9-1-anthology-of-music`, 97 pages, matching the record) in the 2026-11-16 Art expansion read, because the recorded GitHub copy is a PHANTOM PUSH — marked pushed but absent from the tree and the releases, so it could not be fetched by the tree route (see the placements file). Placements at liqlearns-courses-work/expansion-art-2026-11-16/united-kingdom-placements.md. The book's Glossary of Key Words (printed pp. 90–93) is inventory only, named here and never stocked as parts.
 
@@ -18,7 +18,7 @@ countries: United Kingdom, Iceland, Brazil, North Macedonia
 
 | Brazil — Folha 6 — sound in cinema: live musicians of the silent era, The Jazz Singer (1927), Disney's Fantasia, scores written for each film kind; writing down a scene heard without its images (student book; original target `music/film-scores-and-soundtracks`) | Book 3, printed p. 105 |
 
-**Acceptance count: taught in 3 countries (United Kingdom, Brazil, North Macedonia).** Iceland is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 4 countries (United Kingdom, Brazil, North Macedonia, Greece).** Iceland is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/film-music`); the United Kingdom placements were filed under the original string `music/film-music-and-leitmotif-star-wars`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. The scores in the Anthology are placed as study summaries only — no notation or song lyrics are transcribed in this lesson. The United Kingdom's own way, carried in the placements: music is learned by appraising eight fixed set works — following the printed score while listening, after short teaching notes on period context, structure and what to listen for.
 
@@ -48,3 +48,17 @@ Searchable tags: film music, John Williams, Star Wars, leitmotif, cue, underscor
 | North Macedonia — Музика за цртани филмови — music for cartoons: Disney's ten-minute "Mickey Mouse" (1928), a year after the first sound feature "The Jazz Singer"; "Snow White", "Dumbo", "Fantasia", "Pinocchio", the "Silly Symphonies"; Tom and Jerry's feast of classical fragments — Strauss's waltzes, Chopin's "Revolutionary" Étude, Bach, Brahms, Beethoven, Mozart; and the cartoon-music composers — Cole Porter, Sidney Bechet, Eric Serra, Elton John, Bernard Herrmann, Gabriel Yared, Henry Mancini of the "Pink Panther", Scott Bradley (student book; original target `music/film-music`) | Book 6, printed p. 88 |
 
 North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 7:** *Mousiki C' Gymnasiou, Tetradio Ergasion (workbook, Greek)* — Title as printed: Μουσική Γ΄ Γυμνασίου — Τετράδιο Εργασιών (Music Grade 9 — Workbook) Grade: Grade 9 (student/teacher: STUDENT workbook) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); revised edition; ISBN 978-960-06-2709-5 (book code 0-21-0146) PDF pages: 58 (cover verified against the record title — a sol-fa colour grid; byte size 4,158,154 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: after the 20th century and the road from gospel to rock, half the book walks "the neighbourhoods of Greek song" street by street — Hadjidakis street, the Axion Esti of Theodorakis, Markopoulos' "return to the roots", Xarchakos' neighbourhood, Loizos' road, Savvopoulos' little Greece — with rebetiko and Greek jazz given their own stops. Songs are placed by name and purpose only, never lyrics. Excluded per standing rules: the «Τι έμαθα...» self-checks and the Ανακεφαλαιωτικές ασκήσεις (recap exercises, printed p. 19) are revision/assessment — named here, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 18).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Μουσική και κινηματογράφος (Music and cinema) — your favourite film soundtrack and what it does; naming songs from Greek musical films (workbook; original target `music/music-in-film`) | Book 7, printed p. 16 |
+
+**Book 8:** *Mousiki C' Gymnasiou (student book, Greek)* — Title as printed: Μουσική Γ΄ Γυμνασίου — Βιβλίο Μαθητή (Music Grade 9) Grade: Grade 9 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); V2 edition; ISBN 978-960-06-2768-8 (book code 0-21-0220) PDF pages: 90 (cover verified against the record title; byte size 9,185,197 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: the theory text behind Book 18's workbook, closing "instead of an epilogue" with two production projects — the class makes its own radio programme and its own multi-art spectacle — so the Greek song history ends by handing the microphone to the students. Excluded per standing rules: the closing Ευρετήριο (index, printed p. 85) is apparatus, inventory-only. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 19).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Μουσική και κινηματογράφος (Music and cinema) — what music does inside a film (student book; original target `music/music-in-film`) | Book 8, printed p. 21 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

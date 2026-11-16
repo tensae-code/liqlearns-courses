@@ -1,6 +1,6 @@
 # Sources — Costume and Make-Up for Theatre
 
-countries: Ethiopia, Nicaragua, Romania, Bhutan, Serbia, Suriname, Papua New Guinea, Venezuela, Malaysia, Indonesia, North Macedonia
+countries: Ethiopia, Nicaragua, Romania, Bhutan, Serbia, Suriname, Papua New Guinea, Venezuela, Malaysia, Indonesia, North Macedonia, Greece
 
 **Book 1:** *Grade 5 Performing and Visual Arts Teacher Guide (፭ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed front matter ii–v + body from printed p.1 + syllabus tables at the end. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-teacher-placements.md.
 
@@ -97,7 +97,7 @@ countries: Ethiopia, Nicaragua, Romania, Bhutan, Serbia, Suriname, Papua New Gui
 |---|---|
 | Indonesia — Unit Pembelajaran 3 Menggagas Unsur-unsur Pendukung Tari — conceiving a dance's supporting elements — costume: the traditional dress of Yogyakarta, Riau and West Java and themed costumes (Kijang, farmer, bird dances); make-up: transferring a face design to the face, character make-up sketched and applied (peacock, other birds, flora), and corrective make-up for formal events and for dance (teacher guide — evidence; original target `drama-and-dance/costume-and-make-up-for-theatre`) | Book 19, printed p. 145 |
 
-**Acceptance count: taught in 6 countries (Romania, Bhutan, Serbia, Venezuela, Malaysia, North Macedonia).** Ethiopia teacher-guide evidence is named here, counted nowhere. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 7 countries (Romania, Bhutan, Serbia, Venezuela, Malaysia, North Macedonia, Greece).** Ethiopia teacher-guide evidence is named here, counted nowhere. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Suriname is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Malaysia is added as student-book stock (see its rows above), inside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This lesson stands on the Grade 5 teacher guide (printed pp. 48–61, §2.3) as labelled evidence — the guide's longest theatre section, on the practical craft of stage appearance.
 
@@ -110,3 +110,29 @@ Searchable tags: costume, make-up, face painting, albasat, Grade 5 teacher guide
 | North Macedonia — Костимографија — costume design for theatre, film, opera and ballet: the costume interpreting character, time, place, social status and inner state — Broadway's "The Lion King", where Julie Taymor's 232 puppets and masks let the audience see puppet and actor at once (student book; original target `drama-and-dance/costume-and-make-up-for-theatre`) | Book 20, printed p. 105 |
 
 North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 21:** *Eikastika A' Gymnasiou, Tetradio Ergasion (workbook, Greek)* — Title as printed: Εικαστικά Α΄ Γυμνασίου — Τετράδιο Εργασιών (Visual Arts Grade 7 — Workbook) Grade: Grade 7 (student/teacher: STUDENT workbook) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); revised V2 edition (2025 printing in the PDF); ISBN 978-960-06-2663-6 (book code 0-21-0019) PDF pages: 34 (cover verified against the record title; byte size 6,570,847 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: a personal sketch-portfolio the pupil fills all year — collecting doodles, colour swatches, technique samples and artwork analyses; Greek heritage enters through the statues' axes exercise and completing the Parthenon in pencil. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 6).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Μεταμορφώσεις (Transformations) — painting a new face on your own face with stage make-up colours — becoming a funny or sad type, a flower, an animal, a robot (workbook) | Book 21, printed p. 25 |
+
+**Book 22:** *Eikastika A' Gymnasiou (student book, Greek)* — Title as printed: Εικαστικά Α΄ Γυμνασίου — Βιβλίο Μαθητή (Visual Arts Grade 7) Grade: Grade 7 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); revised V2 edition (2025 printing in the PDF); ISBN 978-960-06-2662-9 (book code 0-21-0018) PDF pages: 130 (cover verified against the record title; byte size 23,877,592 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: a full Gymnasium art course by two painter-engravers — every unit ends with "Τι θυμάμαι;" (What do I remember?) and a glossary; the course's crown is a whole unit spent at the Parthenon, and clay is taught as a journey through the history of ceramics from ancient civilisations. Excluded per standing rules: every unit's closing «Τι θυμάμαι; Γλωσσάρι» revision-and-glossary spread (inventory/revision only); the closing Εικαστικό Κουίζ (Art Quiz, printed p. 120) is assessment; bibliography and image credits are apparatus. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 7).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Ενότητα 9β-γ: Φανταστικός κόσμος και μάσκα (Fantastic world and mask) — theatrical happenings in a fantastic world; transforming yourself — constructing a three-dimensional mask; art and imitation (student book) | Book 22, printed p. 96 |
+
+**Book 23:** *Eikastika C' Gymnasiou (student book, Greek)* — Title as printed: Εικαστικά Γ΄ Γυμνασίου — Βιβλίο Μαθητή (Visual Arts Grade 9) Grade: Grade 9 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); revised V3 edition; ISBN 978-960-06-2757-2 (book code 0-21-0133) PDF pages: 106 (cover verified against the record title; byte size 20,062,728 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: the theory text behind Book 16's workbook — form elements first, then the applied arts (graphics, industrial design, dress), then new technologies, then contemporary forms; Greek content is woven in — 20th-century Greek painters inside the volume theme, and dress history that ends at disguise and the theatre costume. Excluded per standing rules: the per-theme «ΓΛΩΣΣΑΡΙ» sections are inventory-only; the suggested bibliography (printed p. 102) is apparatus. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 17).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Ενότητα 2, Θέμα 3.4: Η μεταμφίεση και το θεατρικό κοστούμι (Disguise and the theatre costume) — dressing up and the stage costume as design (student book) | Book 23, printed p. 65 |
+
+**Book 24:** *Θεατρική Αγωγή Ε΄ & Στ΄ Δημοτικού (student book, Greek)* — Title as printed: Θεατρική Αγωγή Ε΄ & Στ΄ Δημοτικού (Theatre Education, Primary Grades 5 & 6), by Πέτρος Μουγιακάκος, Αντιγόνη Μώρου, Χρήστος Παπαδημούλης, Μαρία Φραγκή Grade: 6 record (the book serves Grades 5 & 6; student/teacher: STUDENT) Publisher: ITYE «Διόφαντος», book code 0-10-0142, ISBN 978-960-06-2608-7 PDF pages: 106 (byte size 11,795,755 matches the record exactly; cover and contents verified — 16 "zones", each worked at both grade levels, plus two appendices) Verdict: COMPLETE Greece's own way: a whole primary theatre course built as zones of play — body, expression, partner, group, space, object, action, improvisation — that grow, zone by zone, into dramatisation, play-writing and a full school production the children then watch as audience. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 43).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Zone 14: Πορεία της Θεατρικής Παράστασης 3: Σκηνικό–Κοστούμι–Ήχος–Μουσική–Φωτισμός (set, costume, sound, music, lighting) (student book) | Book 24, printed  |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

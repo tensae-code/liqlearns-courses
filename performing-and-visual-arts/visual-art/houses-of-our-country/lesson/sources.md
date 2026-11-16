@@ -1,6 +1,6 @@
 # Sources — Houses of Our Country
 
-countries: Ethiopia, Sudan, Belarus, Venezuela, Afghanistan, Malaysia
+countries: Ethiopia, Sudan, Belarus, Venezuela, Afghanistan, Malaysia, Greece
 
 **Book 1:** *Grade 4 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 4ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–100. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-student-placements.md.
 
@@ -29,7 +29,7 @@ countries: Ethiopia, Sudan, Belarus, Venezuela, Afghanistan, Malaysia
 |---|---|
 | Malaysia — Tajuk 1 Rumah Tradisional — appreciating Malaysia's traditional houses closely as artworks (student book; original target `visual-art/houses-of-our-country`) | Book 7, printed pp. 4–7 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Sudan, Belarus, Venezuela, Afghanistan, Malaysia).** Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 7 countries (Ethiopia, Sudan, Belarus, Venezuela, Afghanistan, Malaysia, Greece).** Malaysia is added as student-book stock (see its rows above), inside the acceptance count.
 
 The book's house and building plates are photographs; the lesson describes them only as their captions and placements describe them — highland against lowland building, the named church and mosque buildings — and invents no architectural detail beyond the placements.
 
@@ -50,3 +50,11 @@ Searchable tags: appreciating art, houses, highland, lowland, Merto Lemariam, Te
 | Afghanistan — Lesson 30: Drawing historical monuments (ترسیم آثار تاریخی) — drawing and colouring the historic minarets — in groups, sketching (اسکیچ) and colouring a historic minaret from the model, then showing the work to the other group (student book; original target `visual-art/houses-of-our-country`) | Book 6, printed p. 59 |
 
 Afghanistan is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 8:** *Εικαστικά Ε΄ & Στ΄ Δημοτικού «Παρατηρώ & δημιουργώ» (student book, Greek)* — Title as printed: Εικαστικά Ε΄ & Στ΄ Δημοτικού — «Παρατηρώ & δημιουργώ» (Visual Arts, Primary Grades 5 & 6 — "I Observe & I Create"), by Απόστολος Ν. Μαγουλιώτης, Αθανάσιος Τσιπλητάρης Grade: 6 record (the book serves Grades 5 & 6; student/teacher: STUDENT) Publisher: ITYE «Διόφαντος», book code 0-10-0139, ISBN 978-960-06-2605-6 PDF pages: 94 (byte size 25,466,091 matches the record exactly; cover and contents verified) Verdict: COMPLETE Greece's own way: a materials-first course — colour, paper, mosaic, wire, clay — that ends in art history (Realism to Pop Art) and a museum visit; the mosaic unit is Greece's own Byzantine-rooted craft taught by both construction methods. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 39).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Part Γ 4: Μακέτα – Αρχιτέκτονας – Μακετίστας (the model, the architect, the model-maker — buildings in the world's neighbourhoods; before the building; models in many materials; models as stage sets) (student book) | Book 8, printed  |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

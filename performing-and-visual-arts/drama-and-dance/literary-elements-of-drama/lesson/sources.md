@@ -1,6 +1,6 @@
 # Sources — Literary Elements of Drama
 
-countries: Ethiopia, Colombia, Venezuela, Indonesia, Armenia
+countries: Ethiopia, Colombia, Venezuela, Indonesia, Armenia, Greece
 
 **Book 1:** *Grade 8 Performing and Visual Arts Teacher's Guide Book* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, March 2022, printed pp. 1–110 as promised by its contents; the library file is TRUNCATED — its body holds printed pp. 1–56 plus syllabus tables, and Units 4–5 are placed from its contents and syllabus only. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-teacher-placements.md.
 
@@ -31,8 +31,22 @@ countries: Ethiopia, Colombia, Venezuela, Indonesia, Armenia
 | Armenia — Ancient Greek drama; the Greek tragedians — tragedy and its great writers (student book; original target `drama-and-dance/literary-elements-of-drama`) | Book 5, printed p. 74 |
 
 
-**Acceptance count: taught in 3 countries (Colombia, Venezuela, Armenia).** Ethiopia teacher-guide evidence is named here, counted nowhere. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 4 countries (Colombia, Venezuela, Armenia, Greece).** Ethiopia teacher-guide evidence is named here, counted nowhere. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This lesson stands on the Grade 8 teacher guide (printed pp. 8–10) as labelled evidence; the topic sits in the guide's full body (Units 1–3).
 
 Searchable tags: Aristotle, literary elements, plot, climax, denouement, Grade 8 teacher guide, evidence, Colombia, Armenia
+
+**Book 6:** *Theatriki Agogi E'-ST' Dimotikou (student book, Greek)* — Title as printed: Θεατρική Αγωγή Ε΄ & Στ΄ Δημοτικού (Theatre Education, Grades 5 & 6) Grade: Grades 5-6 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); year 2013 (revised printing 2015); ISBN 978-960-06-2606-7 (book code 0-10-0142) PDF pages: 106 (cover verified against the record title — portraits of Antigone and of Karolos Koun on the cover; byte size 11,795,755 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: theatre taught as a GAME with levels called "zones" — the class plays its way from circle name-games to a full performance, every zone run twice, once at Grade 5 level and once harder at Grade 6; the cover honours Sophocles' Antigone and Karolos Koun, founder of Greece's Art Theatre. Excluded per standing rules: Appendix 1 «Με τη γλώσσα του θεάτρου» (printed p. 101) is a theatre-language word list — inventory-only, named here, not stocked. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 5).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Ζώνη 9: Δραματοποίηση 1 — Δραματική ανάλυση (Zone 9: Dramatisation 1 — dramatic analysis) — taking a text apart dramatically — its persons, situations and action — before staging it (Grade 5 p. 58, Grade 6 p. 59) (student book) | Book 6, printed p. 57 |
+
+**Book 7:** *Θεατρική Αγωγή Ε΄ & Στ΄ Δημοτικού (student book, Greek)* — Title as printed: Θεατρική Αγωγή Ε΄ & Στ΄ Δημοτικού (Theatre Education, Primary Grades 5 & 6), by Πέτρος Μουγιακάκος, Αντιγόνη Μώρου, Χρήστος Παπαδημούλης, Μαρία Φραγκή Grade: 6 record (the book serves Grades 5 & 6; student/teacher: STUDENT) Publisher: ITYE «Διόφαντος», book code 0-10-0142, ISBN 978-960-06-2608-7 PDF pages: 106 (byte size 11,795,755 matches the record exactly; cover and contents verified — 16 "zones", each worked at both grade levels, plus two appendices) Verdict: COMPLETE Greece's own way: a whole primary theatre course built as zones of play — body, expression, partner, group, space, object, action, improvisation — that grow, zone by zone, into dramatisation, play-writing and a full school production the children then watch as audience. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 43).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Zone 9: Δραματοποίηση 1: Δραματική ανάλυση (dramatisation 1 — dramatic analysis) (student book) | Book 7, printed  |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

@@ -1,6 +1,6 @@
 # Sources — Elements of Drama
 
-countries: Ethiopia, Samoa, Trinidad and Tobago, Iran, Papua New Guinea, Brazil, Morocco, Sri Lanka, Cuba, Venezuela, Indonesia
+countries: Ethiopia, Samoa, Trinidad and Tobago, Iran, Papua New Guinea, Brazil, Morocco, Sri Lanka, Cuba, Venezuela, Indonesia, Greece
 
 **Book 1:** *Grade 7 Performing and Visual Arts Teacher's Guide Book* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. (September 2021), printed pp. 1–161 as promised by its contents; the library file is TRUNCATED — its body ends at printed p.109, and Units 4–5 are placed from its contents and syllabus only. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g07-teacher-placements.md.
 
@@ -52,7 +52,7 @@ countries: Ethiopia, Samoa, Trinidad and Tobago, Iran, Papua New Guinea, Brazil,
 |---|---|
 | Indonesia — Bab 2 Menulis Lakon — what a lakon (play) is and its function, and the elements that form a lakon (teacher guide — evidence; original target `drama-and-dance/elements-of-drama`) | Book 13, printed p. 85 |
 
-**Acceptance count: taught in 4 countries (Iran, Brazil, Cuba, Venezuela).** Iran is added as a student book, inside the acceptance count; the earlier evidence-only entries stay outside it. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 5 countries (Iran, Brazil, Cuba, Venezuela, Greece).** Iran is added as a student book, inside the acceptance count; the earlier evidence-only entries stay outside it. Samoa is added as curriculum programme document — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The element list is the guide's own (printed pp. 54–56), given whole; nothing is added to it or taken from it.
 
@@ -74,3 +74,17 @@ Searchable tags: elements of drama, character, tension, symbol, dramatic action,
 | Lesson part | Where it comes from |
 |---|---|
 | Cuba — Chapter 2 — the theatre text's structure (inicio, nudo/conflicto, desenlace) and silence's high expressive value on stage (student book; original target `drama-and-dance/elements-of-drama`) | Book 11, printed pp. 87–88 |
+
+**Book 14:** *Theatriki Agogi E'-ST' Dimotikou (student book, Greek)* — Title as printed: Θεατρική Αγωγή Ε΄ & Στ΄ Δημοτικού (Theatre Education, Grades 5 & 6) Grade: Grades 5-6 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); year 2013 (revised printing 2015); ISBN 978-960-06-2606-7 (book code 0-10-0142) PDF pages: 106 (cover verified against the record title — portraits of Antigone and of Karolos Koun on the cover; byte size 11,795,755 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: theatre taught as a GAME with levels called "zones" — the class plays its way from circle name-games to a full performance, every zone run twice, once at Grade 5 level and once harder at Grade 6; the cover honours Sophocles' Antigone and Karolos Koun, founder of Greece's Art Theatre. Excluded per standing rules: Appendix 1 «Με τη γλώσσα του θεάτρου» (printed p. 101) is a theatre-language word list — inventory-only, named here, not stocked. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 5).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Ζώνη 7: Δράση (Zone 7: Action) — dramatic action — doing with purpose on stage, action that carries the play forward (Grade 5 p. 46, Grade 6 p. 48) (student book) | Book 14, printed p. 45 |
+
+**Book 15:** *Θεατρική Αγωγή Ε΄ & Στ΄ Δημοτικού (student book, Greek)* — Title as printed: Θεατρική Αγωγή Ε΄ & Στ΄ Δημοτικού (Theatre Education, Primary Grades 5 & 6), by Πέτρος Μουγιακάκος, Αντιγόνη Μώρου, Χρήστος Παπαδημούλης, Μαρία Φραγκή Grade: 6 record (the book serves Grades 5 & 6; student/teacher: STUDENT) Publisher: ITYE «Διόφαντος», book code 0-10-0142, ISBN 978-960-06-2608-7 PDF pages: 106 (byte size 11,795,755 matches the record exactly; cover and contents verified — 16 "zones", each worked at both grade levels, plus two appendices) Verdict: COMPLETE Greece's own way: a whole primary theatre course built as zones of play — body, expression, partner, group, space, object, action, improvisation — that grow, zone by zone, into dramatisation, play-writing and a full school production the children then watch as audience. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 43).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Zone 7: Δράση (action) (student book) | Book 15, printed  |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

@@ -1,6 +1,6 @@
 # Sources — Musical Forms
 
-countries: Moldova, North Macedonia
+countries: Moldova, North Macedonia, Greece
 
 **Book 1:** *Educație muzicală: Manual pentru clasa a 3-a* (student book, Romanian) — Moldova, Î.E.P. Știința, Chișinău; year 2016; ISBN 978-9975-85-026-1 (barcode on back cover) Grade: Grade 3 (student/teacher: STUDENT). PDF pages: 98 (cover/title page verified against the record title). Verdict: COMPLETE. Excluded per standing rules: the three Autoevaluare (self-assessment) sections, printed pp. 37, 67, 90 — assessment only, not placed. The listening repertoire of score fragments, printed pp. 91–95, repeats pieces already placed from Themes 1–2 and is not placed twice. Short "Dicționar" glossary boxes are inventory-only and not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/moldova-placements.md.
 
@@ -24,7 +24,7 @@ countries: Moldova, North Macedonia
 | Moldova — Unit 3, Forme muzicale compuse — compound forms built from simple ones: the rondo (A+B+A+C+A…), the sonata and the free fantasy; Chopin's Waltz in A minor heard as a rondo (student book; original target `music/musical-forms`) | Book 2, printed p. 61 |
 | Moldova — Unit 3, Temă cu variațiuni — theme and variations: a theme stated, then transformed again and again — Mozart's 12 Variations on "Ah, vous dirai-je, maman" and the Andante of Haydn's "Surprise" Symphony (student book; original target `music/musical-forms`) | Book 2, printed p. 63 |
 
-**Acceptance count: taught in 2 countries (Moldova, North Macedonia).**
+**Acceptance count: taught in 3 countries (Moldova, North Macedonia, Greece).**
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/musical-forms`). The Moldova placements were filed as NEW LESSON NEEDED under the original string(s) `music/musical-forms`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Moldova's own way is the lesson itself where the topic is Moldovan: the country's own music, dances, crafts and art forms are kept as named parts. Songs are placed by title and theme only, never transcribed.
 
@@ -47,3 +47,27 @@ Searchable tags: Moldova, Musical Forms, Forma muzicală, Forma strofică and Fo
 | North Macedonia — Прелудиум — the prelude: the keyboard form born in the Baroque, in two or three parts, kin to the suite's dances — and Debussy's preludes, where all of Impressionism is gathered, with the "Prélude à l'après-midi d'un faune" for listening (student book; original target `music/musical-forms`) | Book 4, printed p. 69 |
 
 North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 5:** *Mousiki G'-D' Dimotikou (student book, Greek)* — Title as printed: Μουσική Γ΄ & Δ΄ Δημοτικού — Βιβλίο Μαθητή Grade: Grades 3-4 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); year 2013 (revised printings 2015-16 in the PDF); ISBN 978-960-06-2534-9 (book code 0-10-0073) PDF pages: 90 (cover verified against the record title — ancient Greek lyre player on the cover; byte size 9,170,811 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: an Orff-style journey (lead author is an Orff music pedagogue) — sound adventures, voice games and homemade instruments first, notation growing out of play; Greece enters by name in the Greek folk instruments chapter and the May-tree custom. Excluded per standing rules: Ch. 16 «Ακούγοντας μουσική θυμάμαι...» (printed p. 53) is a consolidation/revision chapter of listening-recall games — not placed; the closing Γλωσσάρι (glossary) is inventory-only — named, not stocked. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 3).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — 20. Μουσικές φόρμες (Musical forms) — when rhythm and melody decide to work together they build works with their own form and structure (student book) | Book 5, printed p. 65 |
+
+**Book 6:** *Mousiki A' Gymnasiou, Tetradio Ergasion (workbook, Greek)* — Title as printed: Μουσική Α΄ Γυμνασίου — Τετράδιο Εργασιών (Music Grade 7 — Workbook) Grade: Grade 7 (student/teacher: STUDENT workbook) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); ISBN 978-960-06-3126-9 (book code 0-21-0218). The series' authors are Cypriot music educators (University of Nicosia / Cyprus education service) — a Cyprus-written course adopted for Greek Gymnasia. PDF pages: 70 (cover verified against the record title; byte size 7,220,054 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: a weaving metaphor runs through it ("Υφαίνω μουσική" — I weave music): pupils compose ostinati, scales and rondos themselves, and the dance unit is Greece's own — Kalamatianos in 7/8 and Tsamikos — before a Viennese waltz party. Excluded per standing rules: Unit Γ΄ «Ας κάνουμε μια επανάληψη (1)» (printed p. 30) and Unit Ζ΄ «Ας κάνουμε μια επανάληψη (2)» (printed p. 56) are revision units (scale review, musical dictation/"spelling", crosswords) — named here, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 9).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Δ2. Α, Β στη σειρά (A, B in a row) — two-part form — improvising a rhythmic composition in pairs with the body as percussion; the major scale's tone-semitone structure (workbook) | Book 6, printed p. 35 |
+| Greece — Δ4. Μουσική σε κύκλο (Music in a circle — rondo) — "let's make our own rondo" — four groups each compose a four-bar episode in 2/4 with quarters, eighths and sixteenths around a returning refrain (workbook) | Book 6, printed p. 40 |
+| Greece — Ε1. Ταξίδι στο παρελθόν (Journey into the past) — comparing Schubert's hymn «Δόξα στ' όνομά Του» with Rodgers' "Edelweiss"; recognising ternary form in Tchaikovsky's Nutcracker dances — the Sugar Plum Fairy's celesta and the Russian Trepak (workbook) | Book 6, printed p. 42 |
+
+**Book 7:** *Mousiki A' Gymnasiou (student book, Greek)* — Title as printed: Μουσική Α΄ Γυμνασίου — Βιβλίο Μαθητή (Music Grade 7 — Student Book) Grade: Grade 7 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); reissue 2019; ISBN 978-960-06-3026-8 (book code 0-21-0217). Same Cyprus-written series as Book 9, whose workbook it accompanies. PDF pages: 142 (cover verified against the record title; byte size 17,913,031 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: the teaching text behind Book 9's workbook — every lesson opens with its aim and key words; Greece's dances are taught as music theory: the Kalamatianos carries the 7/8 metre and the A harmonic minor scale, the Tsamikos carries the traditional clarinet, with Skalkottas' 36 Greek Dances and Theodorakis' «Άξιον Εστί» as listening. Excluded per standing rules: Units Γ΄ and Ζ΄ «Ας κάνουμε μια επανάληψη» (printed pp. 51, 112) are revision units — named here, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 10).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Δ2. A, B στη σειρά (A, B in a row) — two-part (binary) form — a first section and its contrasting answer (student book) | Book 7, printed p. 66 |
+| Greece — Δ4. Μουσική σε κύκλο (Music in a circle) — the rondo — a refrain that keeps returning between episodes (student book) | Book 7, printed p. 74 |
+| Greece — Ε1. Ταξίδι στο παρελθόν 1-2 (Journey into the past) — ternary form and listening across eras — Schubert and Rodgers compared; Tchaikovsky's Nutcracker dances heard for their form (student book) | Book 7, printed p. 82 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

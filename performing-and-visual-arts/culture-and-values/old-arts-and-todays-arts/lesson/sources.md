@@ -1,6 +1,6 @@
 # Sources — Old Arts and Today's Arts
 
-countries: Ethiopia, Andorra, Guatemala, Pakistan, Colombia, Belarus, Iran, Brazil, Bulgaria, Venezuela, Angola, Syria, North Macedonia
+countries: Ethiopia, Andorra, Guatemala, Pakistan, Colombia, Belarus, Iran, Brazil, Bulgaria, Venezuela, Angola, Syria, North Macedonia, Greece
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -64,7 +64,7 @@ countries: Ethiopia, Andorra, Guatemala, Pakistan, Colombia, Belarus, Iran, Braz
 |---|---|
 | Syria — Lesson 29 "From Human Heritage: The Radio" — the old radio as human heritage — how its making developed across the ages, what it meant in grandparents' lives, drawing a family listening together (student book; original target `culture-and-values/old-arts-and-todays-arts`) | Book 15, printed p. 60 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Pakistan, Colombia, Belarus, Iran, Brazil, Bulgaria, Venezuela, Angola, Syria, North Macedonia). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.**
+**Acceptance count: taught in 12 countries (Ethiopia, Pakistan, Colombia, Belarus, Iran, Brazil, Bulgaria, Venezuela, Angola, Syria, North Macedonia, Greece). Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.**
 
 The definition of ancient arts, the oral-to-recorded contrast and the protection ruling are Grade 3's own words (printed pp. 45 and 58), taught as printed. The closing exercise's keyed-false item (wedding poems and melodies are the same in all areas — false) is taught as the book keys it.
 
@@ -90,3 +90,23 @@ Searchable tags: old arts and today's arts, expressing culture in the arts, anci
 | North Macedonia — keeping the musical heritage: why the music of the region, Europe and the world must be preserved, and how — digital archives and ICT, festivals, education projects, and the part each person can play in carrying traditional music forward (student book; original target `culture-and-values/old-arts-and-todays-arts`) | Book 17, printed pp. 172–173 |
 
 North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 18:** *Εικαστικά Α΄ & Β΄ Δημοτικού, OLD edition (student book, Greek)* — Title as printed: Εικαστικά Α΄ & Β΄ Δημοτικού (Visual Arts, Primary Grades 1 & 2), by Θωμάς Ζωγράφος, Δημήτρης Μπέσσας, Ελεονόρα Μπέσσα Grade: 2 record (the book serves Grades 1 & 2; student/teacher: STUDENT) Publisher: ITYE «Διόφαντος» for the Ministry of Education (older ministry masthead), book code 0-10-0022, ISBN 978-960-06-2475-5 PDF pages: 98 (byte size 40,109,148 matches the record exactly; cover and contents verified — this is the genuine older edition, a different book from the NEW edition 10-0231 filed as Book 1 of this file, not the same file under two names) Verdict: COMPLETE Greece's own way: the same four activity kinds run through every chapter — artists' works, ideas for creating, our own creations, and observing nature and the environment; two chapters take children inside Greek art itself (Dimitris Mytaras's studio, and land art). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 27).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Unit Γ (More ideas for creating) Γ1: Στο εργαστήρι του Δημήτρη Μυταρά (in the studio of Dimitris Mytaras, the Greek painter) (student book) | Book 18, printed p. 54 |
+
+**Book 19:** *Εικαστικά Γ΄ & Δ΄ Δημοτικού (student book, Greek)* — Title as printed: Εικαστικά Γ΄ & Δ΄ Δημοτικού (Visual Arts, Primary Grades 3 & 4), by Θωμάς Ζωγράφος, Αριάδνη Αξαοπούλου, Δημήτρης Μπέσσας, Ελεονόρα Μπέσσα Grade: 4 record (the book serves Grades 3 & 4; student/teacher: STUDENT) Publisher: ITYE «Διόφαντος», book code 0-10-0070, ISBN 978-960-06-2531-8 PDF pages: 98 (byte size 26,373,502 matches the record exactly; cover and contents verified) Verdict: COMPLETE Greece's own way: the older-primary art book walks from formal elements to Greece's own heritage — two dialogues in ancient Greek art and Byzantine icon painting — and out to Duchamp-style found objects and sculptures that move. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 33).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Unit Δ (Creations and creators yesterday and today) Δ1: Δύο διάλογοι στην αρχαία ελληνική τέχνη (two dialogues in ancient Greek art) (student book) | Book 19, printed p. 68 |
+
+**Book 20:** *Μουσική Στ΄ Δημοτικού (student book, Greek)* — Title as printed: Μουσική Στ΄ Δημοτικού (Music, Primary Grade 6), by Μαρία Θεοδωρακοπούλου, Γρηγόριος Παπαντώνης, Χαρίκλεια-Άννα Παρασκευοπούλου, Ιωάννης Σπετσιώτης Grade: 6 (student/teacher: STUDENT) Publisher: ITYE «Διόφαντος», book code 0-10-0175, ISBN 978-960-06-2641-4 PDF pages: 82 (byte size 20,359,696 matches the record exactly; cover and contents verified) Verdict: COMPLETE — songs placed by theme only (no lyrics). Greece's own way: the final primary year gives Greek music its own history (Topics 9–10: Η ελληνική μουσική στους αιώνες — Greek music through the centuries) and binds music to freedom (Topics 8 & 17: people–song–freedom; songs for liberty). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 41).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Topics 9–10: Η ελληνική μουσική στους αιώνες (Greek music through the centuries, and "...of the centuries!") — Greece's own music history (student book) | Book 20, printed pp. 27, 31 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

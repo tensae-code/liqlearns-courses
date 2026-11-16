@@ -1,6 +1,6 @@
 # Sources — Assemblage
 
-countries: Barbados, Serbia, Moldova, North Macedonia
+countries: Barbados, Serbia, Moldova, North Macedonia, Greece
 
 **Book 1:** *Primary Visual Arts Curriculum Guide, Classes 1–4* (curriculum guide, English) — Barbados, Ministry of Education and Human Resource Development, Barbados; year not printed (document dated 2011 in file metadata); no ISBN printed, Classes 1–4 (ages 7–11), 64 PDF pp. TEACHER — curriculum guide for teachers. Verdict: COMPLETE. The same file (identical MD5) is filed under the grade-01, grade-02, grade-03 and grade-04 records; it was read once and is placed once, with all four records named here. Read in place in phase3-staging in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/barbados-placements.md. **Curriculum guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -20,7 +20,7 @@ countries: Barbados, Serbia, Moldova, North Macedonia
 |---|---|
 | Moldova — Unit II §7 — mixed techniques: working "with anything on anything", blurring the border of flat and spatial art; collage and assemblage born in 1912 when Picasso set a piece of printed oilcloth into a painting; the plastic gestures — spraying paint, merging materials, scratching the surface, incorporating objects (student book; original target `visual-art/mixed-techniques-and-assemblage`) | Book 3, printed pp. 25–26 |
 
-**Acceptance count: taught in 3 countries (Serbia, Moldova, North Macedonia). Barbados curriculum guide evidence is named here, counted nowhere.** Moldova is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 4 countries (Serbia, Moldova, North Macedonia, Greece). Barbados curriculum guide evidence is named here, counted nowhere.** Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/assemblage`); the Barbados placements were filed under the original string `visual-art/assemblage-and-found-object-art`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Barbados's own way: assemblage in Class 4 is jewellery from the island's natural beads joined with man-made ones, objects built for space and balance, and wooden toys designed and made by the children. (In this lesson's sources, Book 1 is the Barbados Visual Arts Curriculum Guide.)
 
@@ -33,3 +33,17 @@ Searchable tags: assemblage, bead jewellery, 3D objects, space, balance, wooden 
 | North Macedonia — Колаж — collage: building a picture from cut and pasted paper, printed matter and cloth (student book; original target `visual-art/mixed-techniques-and-assemblage`) | Book 4, printed p. 52 |
 
 North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 5:** *Eikastika C' Gymnasiou, Tetradio Ergasion (workbook, Greek)* — Title as printed: Εικαστικά Γ΄ Γυμνασίου — Τετράδιο Εργασιών (Visual Arts Grade 9 — Workbook) Grade: Grade 9 (student/teacher: STUDENT workbook) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); revised V2 edition; ISBN 978-960-06-2758-9 (book code 0-21-0134) PDF pages: 34 (cover verified against the record title; byte size 5,631,611 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: the analysis workbook for Grade 9 — Greek art is the test material throughout: the Munich School painters compared for their common style, Greek landscapes matched to ways of rendering space, Moralis' structural axes drawn over his paintings, and Tsarouchis' figures read for their era and their regional dress (mainland, Ionian, Cretan). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 16).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Ενότητα 4, Θέμα 2: Ασαμπλάζ, παρεμβάσεις στον χώρο (Assemblage, interventions in space) — investigating works by their materials, technique and theme; before an artwork the viewer observes, recognises, judges and communicates — creator, work and viewer in direct relation (workbook; original target `visual-art/assemblage-and-installation`) | Book 5, printed p. 28 |
+
+**Book 6:** *Eikastika C' Gymnasiou (student book, Greek)* — Title as printed: Εικαστικά Γ΄ Γυμνασίου — Βιβλίο Μαθητή (Visual Arts Grade 9) Grade: Grade 9 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); revised V3 edition; ISBN 978-960-06-2757-2 (book code 0-21-0133) PDF pages: 106 (cover verified against the record title; byte size 20,062,728 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: the theory text behind Book 16's workbook — form elements first, then the applied arts (graphics, industrial design, dress), then new technologies, then contemporary forms; Greek content is woven in — 20th-century Greek painters inside the volume theme, and dress history that ends at disguise and the theatre costume. Excluded per standing rules: the per-theme «ΓΛΩΣΣΑΡΙ» sections are inventory-only; the suggested bibliography (printed p. 102) is apparatus. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 17).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Ενότητα 4, Θέμα 2: Ασαμπλάζ, παρεμβάσεις στον χώρο (Assemblage, interventions in space) — painting and constructing works with objects — assemblage — and intervening in real space (student book; original target `visual-art/assemblage-and-installation`) | Book 6, printed p. 88 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

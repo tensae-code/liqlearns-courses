@@ -1,6 +1,6 @@
 # Sources — Moving in Note Values
 
-countries: Ethiopia, Haiti, Belarus, Bulgaria, Syria
+countries: Ethiopia, Haiti, Belarus, Bulgaria, Syria, Greece
 
 **Book 1:** *ሥነ-ጥበባት የተማሪ መጽሐፍ 4ኛ ክፍል (Performing and Visual Arts, Student's Book, Grade 4)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 100 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-student-placements.md.
 
@@ -39,7 +39,7 @@ countries: Ethiopia, Haiti, Belarus, Bulgaria, Syria
 |---|---|
 | Syria — Lesson 28 "The Swallow (al-Sununu)" — the swallow's life on video; the class splits in two — one group performs the exercise on the percussion instruments, the other imitates the swallow's sounds in the exercise (student book; original target `music/rhythm-and-movement`) | Book 8, printed p. 64 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Belarus, Bulgaria, Syria).** Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 5 countries (Ethiopia, Belarus, Bulgaria, Syria, Greece).** Haiti is added as teacher guide — evidence only, kept outside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 No honesty flags: the activity is taught exactly as the Grade 4 book sets it on printed p. 6.
 
@@ -55,3 +55,17 @@ Searchable tags: moving in note values, rows and circles, body movement, note va
 | Bulgaria — Topic 44: Съпровод на българска народна музика с неравномерно броене (accompanying Bulgarian folk music in its uneven metres — the counted pulse of the horo) (student book) | Book 4, printed p. 51 |
 | Bulgaria — Topic 25: Равномерно броене (even counting) (student book) | Book 5, printed p. 34 |
 | Bulgaria — Topic 26: Неравномерно броене (uneven counting — the counted pulse of Bulgarian folk metres) (student book) | Book 5, printed p. 35 |
+
+**Book 9:** *Μουσική Α΄ Δημοτικού (student book, Greek)* — Title as printed: Μουσική Α΄ Δημοτικού — Βιβλίο Μαθητή (Music, Primary Grade 1); the book's promise on its opening page: "With this book you will listen, you will sing, you will dance and you will play MUSIC" Grade: 1 (student/teacher: STUDENT) Publisher: ITYE «Διόφαντος» for the Ministry of Education (reissue via digital layout, ESPA-funded; Pedagogical Institute team) PDF pages: 58 (byte size 13,616,710 matches the record exactly; cover verified) Verdict: COMPLETE — song chapters placed by theme only (no lyrics); a closing listening guide (Ακούγοντας μουσική… στο μάθημα!) pairs chapters with listening pieces, named in the placements where they teach a skill. Greece's own way: Grade 1 music is sound-play — a music corner of one's own, sounds of nature and of the yard, tempo and loud/soft lands, and Greece's own Christmas carols (κάλαντα) from Samos, Metsovo, Athens and Crete, plus the Karagkiozis shadow theatre's voices in the listening guide. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 31).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Chapter 8: Ο ήχος που δεν ήθελε... να τελειώσει! (the sound that didn't want to end — long and short sounds; listening guide: natural and artificial sounds, cut-off or prolonged) (student book) | Book 9, printed p. 14 |
+
+**Book 10:** *Μουσική Ε΄ Δημοτικού (student book, Greek)* — Title as printed: Μουσική Ε΄ Δημοτικού (Music, Primary Grade 5), by Κατερίνα Αποστολίδου, Χρυσάνθη Ζεπάτου Grade: 5 (student/teacher: STUDENT) Publisher: ITYE «Διόφαντος», book code 0-10-0129, ISBN 978-960-06-2596-7 PDF pages: 74 (byte size 7,715,092 matches the record exactly; cover and contents verified) Verdict: COMPLETE — songs placed by theme only (no lyrics); the closing ΑΝΘΟΛΟΓΙΟ ΤΡΑΓΟΥΔΙΩΝ (song anthology, pp. 55–65) is named here, not placed song by song. Standing exclusions named: the ΕΥΡΕΤΗΡΙΟ ΟΡΩΝ ΚΑΙ ΕΝΝΟΙΩΝ (index of terms and concepts), printed p. 66 — inventory-only, not placed. Greece's own way: the homeland sings three times in the year (28 October, 17 November, 25 March — the national days), the Easter hymn Χριστός Ανέστη is a chapter, and Greece's own Byzantine chant gets its own musical alphabet chapter (Ch. 14). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 37).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Chapter 5: Τα Μαθηματικά... της μουσικής! (The mathematics of music — note values counted) (student book) | Book 10, printed p. 14 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

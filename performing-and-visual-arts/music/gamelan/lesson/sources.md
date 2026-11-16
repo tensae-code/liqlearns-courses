@@ -1,6 +1,6 @@
 # Sources — Gamelan
 
-countries: Malaysia, Indonesia
+countries: Malaysia, Indonesia, Greece
 
 **Book 1:** *Pendidikan Muzik Tingkatan 1 (Kurikulum Standard Sekolah Menengah, KSSM)* (student book, Malay) — Malaysia, Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2016 (Cetakan Pertama 2016); ISBN 978-967-0520-70-4 Tingkatan 1 / Grade 7 (student/teacher: STUDENT) (student/teacher: STUDENT). PDF pages: 123 (cover verified against the record title) Verdict: COMPLETE. Exclusions named: the end-of-unit Penilaian (assessment) pages are assessment-only and not placed; no glossary is printed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/malaysia-placements.md.
 
@@ -39,8 +39,22 @@ countries: Malaysia, Indonesia
 |---|---|
 | Indonesia — Bab I — the gamelan family pictured and studied — gamelan instruments with degung notation, the Javanese gamelan set and Balinese gamelan presentation (teacher guide — evidence; original target `music/gamelan`) | Book 6, printed p. 28 |
 
-**Acceptance count: taught in 1 country (Malaysia).** Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 2 countries (Malaysia, Greece).** Indonesia is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/gamelan`). The Malaysia placements were filed as NEW LESSON NEEDED under the original string(s) `music/gamelan-melayu`, `music/gamelan-repertoire`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Malaysia's own way is the lesson itself where the topic is Malaysian: the country's own music, dances, crafts and art forms are kept as named parts. Songs are placed by title and theme only, never transcribed.
 
 Searchable tags: Malaysia, Gamelan, Malay gamelan as a performed ensemble, Malay gamelan of Pahang, Performing named gamelan pieces from scores, Performing the gamelan pieces Perang and Kunang-kunang Mabuk (filed
+
+**Book 7:** *Mousiki B' Gymnasiou, Tetradio Ergasion (workbook, Greek)* — Title as printed: Μουσική Β΄ Γυμνασίου — Τετράδιο Εργασιών (Music Grade 8 — Workbook) Grade: Grade 8 (student/teacher: STUDENT workbook) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); year 2013; ISBN 978-960-06-2723-7 (book code 0-21-0219) PDF pages: 58 (cover verified against the record title; byte size 5,065,097 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: the world first, then home — after Africa, India, Bali, China, Japan, Latin America and Europe, the last and longest unit is «Ο γύρος της Ελλάδας» (The tour of Greece): asymmetric Greek metres, region-by-region song origins, and learning to name the gaida, tsambouna, Cretan lyra, santouri, kanonaki, zournas, clarino and daouli by ear alone, with the zygies and kompanies (regional ensembles) mapped. Excluded per standing rules: each unit's closing «Τι έμαθα...» (What I learned) self-check pages are revision/assessment — named here, not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 13).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Μπαλινέζικο γκαμελάν (Balinese gamelan) — the kecak, performed by a whole Balinese village seated in concentric circles (workbook; original target `music/balinese-gamelan`) | Book 7, printed p. 14 |
+
+**Book 8:** *Mousiki B' Gymnasiou (student book, Greek)* — Title as printed: Μουσική Β΄ Γυμνασίου — Βιβλίο Μαθητή (Music Grade 8) Grade: Grade 8 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); ISBN 978-960-06-2722-0 (book code 0-21-0089) PDF pages: 86 (cover verified against the record title; byte size 7,104,208 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: the teaching text behind Book 13's workbook — a round-the-world year that defines traditional music and ethnomusicology properly (Hornbostel–Sachs instrument classification), then lands home for its longest unit: Greece's rhythms, regions, instruments and ensembles. Excluded per standing rules: the closing Ευρετήριο (index, printed p. 82) is apparatus. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 14).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Μπαλινέζικο Γκαμελάν (Balinese gamelan) — the gamelan orchestra and the kecak — a whole village performing in circles (student book; original target `music/balinese-gamelan`) | Book 8, printed p. 24 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

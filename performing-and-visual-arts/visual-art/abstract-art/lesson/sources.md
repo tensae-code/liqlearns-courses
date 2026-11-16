@@ -1,6 +1,6 @@
 # Sources — Abstract Art
 
-countries: Bhutan, Finland, Sudan, Brazil, Moldova, North Macedonia
+countries: Bhutan, Finland, Sudan, Brazil, Moldova, North Macedonia, Greece
 
 **Book 1:** *Arts Education — Student's Workbook for Class III* (student book, English) — Bhutan, Department of School Education (DSE), Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu, © 2023, reprint 2024, ISBN 178-99936-0-414-3 (as printed), Class III, 32 PDF pp. STUDENT — student's workbook. Verdict: COMPLETE. Byte size 6,328,406 and MD5 match the record exactly; cover verified against the record title; fetched with grab.py (release route — the book lives in GitHub Releases), read in full as text in the 2026-11-16 Art expansion read, PDF deleted after filing. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bhutan-placements.md.
 
@@ -43,7 +43,7 @@ countries: Bhutan, Finland, Sudan, Brazil, Moldova, North Macedonia
 | Moldova — Unit IV §19, Arta modernă și contemporană — transfiguration: Picasso's Sylvette as photograph-true portrait, as transformed vision, as flat silhouette — simplification and flattening as the first step toward modern art; figurative content against nonfigurative and abstract (student book; original target `visual-art/abstract-art`) | Book 8, printed p. 57 |
 | Moldova — Unit IV §19 — Kandinsky's abstractionism: the painted object disappears altogether and lines, colours and forms themselves remain; and contemporary art (after the Second World War) fusing the old branches, using new technologies, classifying itself no longer by branch (student book; original target `visual-art/abstract-art`) | Book 8, printed pp. 58–59 |
 
-**Acceptance count: taught in 6 countries (Bhutan, Finland, Sudan, Brazil, Moldova, North Macedonia).** Moldova is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 7 countries (Bhutan, Finland, Sudan, Brazil, Moldova, North Macedonia, Greece).** Moldova is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/abstract-art`); the Bhutan placements were filed as NEW LESSON NEEDED under the original string `visual-art/abstract-and-figurative-painting`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Bhutan's own way, carried in the placements: a one-lesson-one-page workbook that builds the hand first — lines, curves, tone, mixing — then spends half its pages making things, with Bhutanese life (tshechu, losar) and Bhutan's own traditional forms as content.
 
@@ -56,3 +56,29 @@ Searchable tags: abstract art, abstract painting, Bhutan, Finland, Brazil
 | North Macedonia — Апстрактна уметност — colour, line and form set free from objects: Kandinsky, father of abstraction ("Composition VIII"); Mondrian's neoplasticism of geometry and primary colours; Malevich's Suprematist "Black Square"; Klee; abstract sculpture — Brâncuși's "Bird in Space", Henry Moore's reclining figures; the Bauhaus joining abstraction to design and architecture; Stieglitz's cloud "Equivalents" and Georgia O'Keeffe's stylised nature (student book; original target `visual-art/abstract-art`) | Book 9, printed pp. 30–32 |
 
 North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 10:** *Eikastika E'-ST' Dimotikou (student book, Greek)* — Title as printed: Εικαστικά — Παρατηρώ & δημιουργώ, Ε΄ & Στ΄ Δημοτικού (Visual Arts — I Observe & Create) Grade: Grades 5-6 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); ISBN 978-960-06-2605-6 (book code 0-10-0139) PDF pages: 94 (cover verified against the record title; byte size 25,466,091 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: a materials-and-professions book — simple materials (paper, wire, tesserae, clay) taught as real techniques including Byzantine-rooted mosaic methods, then the visual professions (cartoonist, comics artist, lettering designer, model-maker, photographer), then art history taught as five movements you try yourself. Excluded per standing rules: the Appendix (Παράρτημα) — glossary, bibliography, index — is inventory-only, named here, not stocked. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 4).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Δ4. Αφαίρεση (Abstraction) — looking at the world with another eye; how Mondrian paints; creating abstractly; seeing colours and shapes (student book) | Book 10, printed p. 78 |
+
+**Book 11:** *Eikastika A' Gymnasiou (student book, Greek)* — Title as printed: Εικαστικά Α΄ Γυμνασίου — Βιβλίο Μαθητή (Visual Arts Grade 7) Grade: Grade 7 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); revised V2 edition (2025 printing in the PDF); ISBN 978-960-06-2662-9 (book code 0-21-0018) PDF pages: 130 (cover verified against the record title; byte size 23,877,592 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: a full Gymnasium art course by two painter-engravers — every unit ends with "Τι θυμάμαι;" (What do I remember?) and a glossary; the course's crown is a whole unit spent at the Parthenon, and clay is taught as a journey through the history of ceramics from ancient civilisations. Excluded per standing rules: every unit's closing «Τι θυμάμαι; Γλωσσάρι» revision-and-glossary spread (inventory/revision only); the closing Εικαστικό Κουίζ (Art Quiz, printed p. 120) is assessment; bibliography and image credits are apparatus. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 7).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Ενότητα 1: Από την κίνηση στην έκφραση (From movement to expression) — painting freely and getting to know the painting materials; the abstract and the "beautiful" — abstraction and the idea of beauty in art (student book) | Book 11, printed p. 10 |
+
+**Book 12:** *Eikastika C' Gymnasiou, Tetradio Ergasion (workbook, Greek)* — Title as printed: Εικαστικά Γ΄ Γυμνασίου — Τετράδιο Εργασιών (Visual Arts Grade 9 — Workbook) Grade: Grade 9 (student/teacher: STUDENT workbook) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); revised V2 edition; ISBN 978-960-06-2758-9 (book code 0-21-0134) PDF pages: 34 (cover verified against the record title; byte size 5,631,611 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: the analysis workbook for Grade 9 — Greek art is the test material throughout: the Munich School painters compared for their common style, Greek landscapes matched to ways of rendering space, Moralis' structural axes drawn over his paintings, and Tsarouchis' figures read for their era and their regional dress (mainland, Ionian, Cretan). Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 16).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Ενότητα 4, Θέμα 1: Αφηρημένη Τέχνη — τα μη παραστατικά έργα (Abstract art — non-representational works) — in Fernand Léger's works line rules — now describing figures, now free — while colour spreads independently; matching written texts to abstract works by Greek painters (workbook) | Book 12, printed p. 26 |
+
+**Book 13:** *Eikastika C' Gymnasiou (student book, Greek)* — Title as printed: Εικαστικά Γ΄ Γυμνασίου — Βιβλίο Μαθητή (Visual Arts Grade 9) Grade: Grade 9 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); revised V3 edition; ISBN 978-960-06-2757-2 (book code 0-21-0133) PDF pages: 106 (cover verified against the record title; byte size 20,062,728 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: the theory text behind Book 16's workbook — form elements first, then the applied arts (graphics, industrial design, dress), then new technologies, then contemporary forms; Greek content is woven in — 20th-century Greek painters inside the volume theme, and dress history that ends at disguise and the theatre costume. Excluded per standing rules: the per-theme «ΓΛΩΣΣΑΡΙ» sections are inventory-only; the suggested bibliography (printed p. 102) is apparatus. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 17).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Ενότητα 4, Θέμα 1: Αφηρημένη Τέχνη (Abstract art) — what abstract art (abstraction) is; the two directions of abstraction (student book) | Book 13, printed p. 82 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

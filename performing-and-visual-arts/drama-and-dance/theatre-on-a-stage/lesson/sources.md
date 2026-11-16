@@ -1,6 +1,6 @@
 # Sources — Theatre on a Stage
 
-countries: Ethiopia, Egypt, Honduras, Singapore, Brazil, Jordan, Sri Lanka, Venezuela, Rwanda, Armenia
+countries: Ethiopia, Egypt, Honduras, Singapore, Brazil, Jordan, Sri Lanka, Venezuela, Rwanda, Armenia, Greece
 
 **Book 2:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -57,7 +57,7 @@ countries: Ethiopia, Egypt, Honduras, Singapore, Brazil, Jordan, Sri Lanka, Vene
 | Armenia — Structure of the theatre building (Թատերական շինության կառուցվածքը) — how the Greek theatre building was laid out (student book; original target `drama-and-dance/theatre-on-a-stage`) | Book 16, printed p. 72 |
 
 
-**Acceptance count: taught in 7 countries (Ethiopia, Egypt, Honduras, Brazil, Jordan, Venezuela, Armenia). Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 8 countries (Ethiopia, Egypt, Honduras, Brazil, Jordan, Venezuela, Armenia, Greece). Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Sri Lanka is added as teacher guide — evidence only, kept outside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 The Grade 5 row is the series' own deepening of the same stage idea (its elements list — setting, character, plot, script, theme — is named in the provenance row only; the lesson's teaching stays at the Grade 2 stage picture and the menibanib, exactly as STRUCTURE.md groups them).
 
@@ -81,3 +81,23 @@ Searchable tags: theatre on a stage, stage, audience, curtains, መነባንብ,
 |---|---|
 
 | Sri Lanka — Competency 1.3 "Let's identify the stage aspects of drama" — the two classical stage manners, Loka Dharmi (life-like) and Natya Dharmi (stylised), met through the Kanda Vala folk play (teacher guide — evidence; original target `drama-and-dance/theatre-on-a-stage`) | Book 12, printed pp. 5–6 |
+
+**Book 17:** *Theatriki Agogi E'-ST' Dimotikou (student book, Greek)* — Title as printed: Θεατρική Αγωγή Ε΄ & Στ΄ Δημοτικού (Theatre Education, Grades 5 & 6) Grade: Grades 5-6 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); year 2013 (revised printing 2015); ISBN 978-960-06-2606-7 (book code 0-10-0142) PDF pages: 106 (cover verified against the record title — portraits of Antigone and of Karolos Koun on the cover; byte size 11,795,755 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: theatre taught as a GAME with levels called "zones" — the class plays its way from circle name-games to a full performance, every zone run twice, once at Grade 5 level and once harder at Grade 6; the cover honours Sophocles' Antigone and Karolos Koun, founder of Greece's Art Theatre. Excluded per standing rules: Appendix 1 «Με τη γλώσσα του θεάτρου» (printed p. 101) is a theatre-language word list — inventory-only, named here, not stocked. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 5).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Ζώνη 15: Η θεατρική παράσταση (Zone 15: The theatre performance) — the performance itself — players, stage and audience coming together (Grade 5 p. 90, Grade 6 p. 93) (student book) | Book 17, printed p. 89 |
+
+**Book 18:** *Dramatiki Poiisi: Euripidi Eleni, C' Gymnasiou (student book, Greek)* — Title as printed: Δραματική Ποίηση — Ευριπίδη Ελένη (Dramatic Poetry — Euripides' Helen), translation by Tasos Roussos Grade: Grade 9 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); ISBN 978-960-06-2755-8 (book code 0-21-0131) PDF pages: 150 (cover verified against the record title — a torn-paper theatre mask; byte size 8,993,571 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: Greece's founding theatre taught from inside a performance — the introduction opens with the house lights going down, contrasts the traditional Helen with Euripides' "new" one (only her phantom went to Troy), follows a fifteen-year-old to Epidaurus, and lists real productions (National Theatre 1962); every part of the play carries plot/theme analysis and «Ας γίνουμε θεατές» (Let's become spectators) staging boxes. The play is placed by plot summary only — no text transcribed. Excluded per standing rules: the closing Ανακεφαλαιωτικές ερωτήσεις (recap questions, printed p. 139) are assessment; the Λεξικό προσώπων της μυθολογίας and Λεξικό όρων της αρχαίας ελληνικής τραγωδίας (printed pp. 141-144) are glossaries — inventory-only, named here, not stocked; the image-sources table is apparatus. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 15).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — «Ας γίνουμε θεατές» (Let's become spectators) — the running staging commentary — the Athenians climbing to the Theatre of Dionysus, the actor who must carry Helen's long opening monologue, the stage directions hidden inside the text (student book) | Book 18, printed p. 11 |
+
+**Book 19:** *Θεατρική Αγωγή Ε΄ & Στ΄ Δημοτικού (student book, Greek)* — Title as printed: Θεατρική Αγωγή Ε΄ & Στ΄ Δημοτικού (Theatre Education, Primary Grades 5 & 6), by Πέτρος Μουγιακάκος, Αντιγόνη Μώρου, Χρήστος Παπαδημούλης, Μαρία Φραγκή Grade: 6 record (the book serves Grades 5 & 6; student/teacher: STUDENT) Publisher: ITYE «Διόφαντος», book code 0-10-0142, ISBN 978-960-06-2608-7 PDF pages: 106 (byte size 11,795,755 matches the record exactly; cover and contents verified — 16 "zones", each worked at both grade levels, plus two appendices) Verdict: COMPLETE Greece's own way: a whole primary theatre course built as zones of play — body, expression, partner, group, space, object, action, improvisation — that grow, zone by zone, into dramatisation, play-writing and a full school production the children then watch as audience. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, links group, Book 43).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Zone 5: Ο χώρος (space — the playing space) (student book) | Book 19, printed  |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

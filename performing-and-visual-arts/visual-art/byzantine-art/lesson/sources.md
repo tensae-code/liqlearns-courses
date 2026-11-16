@@ -1,6 +1,6 @@
 # Sources — Byzantine Art
 
-countries: Jordan, Moldova, Armenia, North Macedonia
+countries: Jordan, Moldova, Armenia, North Macedonia, Greece
 
 **Book 1:** *التربية الفنية والموسيقية والمسرحية — الصف العاشر (Art, Music and Theatre Education — Grade Ten), teacher's guide (دليل المعلم)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD), Amman; year 2025 (first experimental edition, 1446H/2025); ISBN 978-9923-41-960-1. Grade: Grade 10 (student/teacher: TEACHER). PDF pages: 125 (cover/title page verified against the record title; printed page numbers equal PDF page numbers). Verdict: COMPLETE — read in full, page by page. Note: the Grade 10 student book is not among this group's records; this guide is the only evidence held for the Grade 10 curriculum, so every placement from it is marked teacher-guide evidence. The per-lesson self-assessment rubrics are assessment apparatus with no teaching content and are not placed; the three embedded play/story texts are summarised, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/jordan-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -22,7 +22,7 @@ countries: Jordan, Moldova, Armenia, North Macedonia
 | Armenia — Byzantine art (Բյուզանդական արվեստ) — icons, mosaics and church building of Byzantium (student book; original target `visual-art/byzantine-art`) | Book 3, printed p. 121 |
 
 
-**Acceptance count: taught in 3 countries (Moldova, Armenia, North Macedonia).** Jordan is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 4 countries (Moldova, Armenia, North Macedonia, Greece).** Jordan is added as teacher guide — evidence only, kept outside the acceptance count. Moldova is added as student-book stock (see its rows above), inside the acceptance count. Armenia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/byzantine-art`); the Jordan placements were filed under the original string(s) `visual-art/art-of-byzantine-civilisation` and resolved to this lesson by slug-registry Part 2. Songs and stories are placed by summary only, never transcribed.
 
@@ -36,3 +36,23 @@ Searchable tags: byzantine art, Jordan, Armenia
 | North Macedonia — Византиска уметност — Byzantine art: the domed church, and mosaics of gold-ground, flat figures carrying the sacred message — Hagia Sophia, and Justinian and Theodora at Ravenna (student book; original target `visual-art/byzantine-art-and-icons`) | Book 4, printed pp. 129–130 |
 
 North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 5:** *Eikastika G'-D' Dimotikou (student book, Greek)* — Title as printed: Εικαστικά Γ΄ & Δ΄ Δημοτικού — Βιβλίο Μαθητή Grade: Grades 3-4 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); year 2013, revised printing 2015; ISBN 978-960-06-2531-8 (book code 0-10-0070) PDF pages: 98 (cover/title page verified against the record title; byte size 26,373,502 matches the record exactly — fetched from the record's ministry source_url after the GitHub API grab dropped twice with RemoteDisconnected) Verdict: COMPLETE Greece's own way: the elements of art (points, lines, shapes, colour) are taught through named artists — Greek (Chryssa Romanou, Stefanos Antonakos, Pavlos) and world (Seurat, Klee, Moore, Picasso) — and through Greece's own heritage: ancient Greek sculpture and Byzantine icon painting taught by visiting a working icon painter's studio. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 2).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Δ2 Βυζαντινή αγιογραφία (Byzantine icon painting) — visiting a working icon painter's studio — how an icon is prepared, his materials and colours, and the stages to finish it — then making one following his steps (student book; original target `visual-art/byzantine-icon-painting`) | Book 5, printed p. 72 |
+
+**Book 6:** *Eikastika B' Gymnasiou, Tetradio Ergasion (workbook, Greek)* — Title as printed: Εικαστικά Β΄ Γυμνασίου — Τετράδιο Εργασιών (Visual Arts Grade 8 — Workbook) Grade: Grade 8 (student/teacher: STUDENT workbook) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); revised V2 edition (2025 printing in the PDF); ISBN 978-960-06-2712-1 (book code 0-21-0078) PDF pages: 34 (cover verified against the record title; byte size 6,186,945 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: thirty numbered "works" in two movements — first "I observe, think and find" (analysis of real artworks, Botticelli and El Greco among them), then "I observe and create"; Greece enters through the Vergina star's geometry, a folk Greek chest in the composition set, a basilica floor mosaic, and a closing Byzantine-art unit built around Fotis Kontoglou. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 11).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Εργασίες 28-30: Βυζαντινή τέχνη (Byzantine art) — Fotis Kontoglou's many-sided gift to modern Greek painting; drawing a letter like the Byzantine initial capitals; visiting a church and noting its architecture and decorative elements (workbook; original target `visual-art/byzantine-icon-painting`) | Book 6, printed p. 30 |
+
+**Book 7:** *Eikastika B' Gymnasiou (student book, Greek)* — Title as printed: Εικαστικά Β΄ Γυμνασίου — Βιβλίο Μαθητή (Visual Arts Grade 8) Grade: Grade 8 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); revised V2 edition (2025 printing in the PDF); ISBN 978-960-06-2711-4 (book code 0-21-0077) PDF pages: 114 (cover verified against the record title; byte size 23,557,700 matches the record exactly; fetched from the record's ministry source_url) Verdict: COMPLETE Greece's own way: an applied-arts year — interiors and stage sets, texture and volume — that keeps returning to Greece: woodcarving taught as a Greek traditional craft, Byzantine art as a full theme (church architecture, the portable icon's technique), and scenography that begins at the ancient theatre. Excluded per standing rules: the per-theme «ΓΛΩΣΣΑΡΙ» (glossary) sections are inventory-only; the closing suggested bibliography is apparatus — named here, not stocked. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 12).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Ενότητα 4, Θέμα 3: Βυζαντινή τέχνη (Byzantine art) — the architecture of the church; the other arts in Byzantium; the technique of the portable icon (student book; original target `visual-art/byzantine-icon-painting`) | Book 7, printed p. 86 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.

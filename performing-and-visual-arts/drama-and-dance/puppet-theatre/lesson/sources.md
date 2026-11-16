@@ -1,6 +1,6 @@
 # Sources — Puppet Theatre
 
-countries: Barbados, Nicaragua, Romania, Bhutan, Colombia, Belarus, Cuba, Mongolia, Rwanda, Bolivia, Syria, North Macedonia
+countries: Barbados, Nicaragua, Romania, Bhutan, Colombia, Belarus, Cuba, Mongolia, Rwanda, Bolivia, Syria, North Macedonia, Greece
 
 **Book 1:** *Primary Visual Arts Curriculum Guide, Classes 1–4* (curriculum guide, English) — Barbados, Ministry of Education and Human Resource Development, Barbados; year not printed (document dated 2011 in file metadata); no ISBN printed, Classes 1–4 (ages 7–11), 64 PDF pp. TEACHER — curriculum guide for teachers. Verdict: COMPLETE. The same file (identical MD5) is filed under the grade-01, grade-02, grade-03 and grade-04 records; it was read once and is placed once, with all four records named here. Read in place in phase3-staging in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/barbados-placements.md. **Curriculum guide — EVIDENCE only, kept outside the acceptance count.**
 
@@ -73,7 +73,7 @@ countries: Barbados, Nicaragua, Romania, Bhutan, Colombia, Belarus, Cuba, Mongol
 |---|---|
 | Syria — Companion activities — making dolls from fabric — "I make my doll from fabric leftovers" (student book; original target `drama-and-dance/puppets-and-shadow-puppets`) | Book 14, printed p. 47 |
 
-**Acceptance count: taught in 8 countries (Romania, Bhutan, Colombia, Belarus, Mongolia, Bolivia, Syria, North Macedonia).** Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 9 countries (Romania, Bhutan, Colombia, Belarus, Mongolia, Bolivia, Syria, North Macedonia, Greece).** Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count. Rwanda is added as teacher guide — evidence only, kept outside the acceptance count. Bolivia is added as student-book stock (see its rows above), inside the acceptance count. Syria is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `drama-and-dance/puppet-theatre`); the Barbados placements were filed under the original string `drama-and-dance/puppetry-and-masks`, recorded in the provenance rows above and resolved to this lesson by slug-registry Part 2. Barbados's own way: puppet theatre starts in Class 1 Cultural Awareness, with characters the children invent and puppets made from sticks, paper bags and socks. (In this lesson's sources, Book 1 is the Barbados Visual Arts Curriculum Guide.)
 
@@ -94,3 +94,11 @@ Searchable tags: puppet theatre, stick puppets, paper-bag puppets, sock puppets,
 | North Macedonia — Кукларство — making a glove puppet: the head modelled by kaširanje over a bottle with flour-and-water glue, the finger rings in neck and hands, cloth hands, the shirt-body, and the costume that tells the character (student book; original target `drama-and-dance/puppet-theatre`) | Book 15, printed pp. 97–99 |
 
 North Macedonia is added as student-book stock (see its rows above), inside the acceptance count.
+
+**Book 16:** *Eikastika G'-D' Dimotikou (student book, Greek)* — Title as printed: Εικαστικά Γ΄ & Δ΄ Δημοτικού — Βιβλίο Μαθητή Grade: Grades 3-4 (student/teacher: STUDENT) Publisher: ΙΤΥΕ «Διόφαντος» (Ministry of Education / Institute of Educational Policy); year 2013, revised printing 2015; ISBN 978-960-06-2531-8 (book code 0-10-0070) PDF pages: 98 (cover/title page verified against the record title; byte size 26,373,502 matches the record exactly — fetched from the record's ministry source_url after the GitHub API grab dropped twice with RemoteDisconnected) Verdict: COMPLETE Greece's own way: the elements of art (points, lines, shapes, colour) are taught through named artists — Greek (Chryssa Romanou, Stefanos Antonakos, Pavlos) and world (Seurat, Klee, Moore, Picasso) — and through Greece's own heritage: ancient Greek sculpture and Byzantine icon painting taught by visiting a working icon painter's studio. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/greece-placements.md (Greece placements, main wave, Book 2).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Δ6 Άνθρωποι–κούκλες (People-dolls) — artists dressing dolls in old clothes for the theatre; making a doll's head from newspapers and paper tape (student book; original target `drama-and-dance/making-puppets-and-dolls`) | Book 16, printed p. 88 |
+
+Greece is added as student-book stock (see its rows above), inside the acceptance count.
