@@ -1,6 +1,6 @@
 # Sources — Notes and Rests
 
-countries: Ethiopia, Barbados, Albania
+countries: Ethiopia, Barbados, Albania, Trinidad and Tobago
 
 **Book 1:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 96 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
@@ -17,6 +17,8 @@ countries: Ethiopia, Barbados, Albania
 **Book 7:** *Libër mësuesi Muzikë 6 (Libër mësuesi Muzika 6)* (teacher guide, Albanian) — Albania, Shtëpia Botuese Mediaprint, 2015, reprint 2019, ISBN 978-9928-08-202-2, Grade 6, 85 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Fetched from the recorded Mediaprint source URLs after the GitHub grab route disconnected twice (RemoteDisconnected); byte size matches the record exactly. Covers/title pages verified against the record title (p. 1 is the publisher's web page, title/imprint on printed pp. 3–4). Exclusions named in the placements: portfolio/assessment-level sections (printed pp. 79–85) are assessment apparatus with no new teaching content — not placed; the Revision/Questionnaire lessons in the annual plan are revision — not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/albania-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
 **Book 8:** *Libër mësuesi Muzika 7 (botim i përmirësuar)* (teacher guide, Albanian) — Albania, Shtëpia Botuese Mediaprint, 2016, ISBN 978-9928-08-232-9, Grade 7, 97 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Fetched from the recorded Mediaprint source URLs; byte size matches the record exactly. Cover/title page verified against the record title. Exclusions named in the placements: term tests and the achievement-presentation project are assessment apparatus — named, not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/albania-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 9:** *Secondary School Teacher's Guide — Music* (teacher guide, English) — Trinidad and Tobago, Ministry of Education, Curriculum Planning & Development Division, Rudranath Capildeo Learning Resource Centre, Couva, 2014; no ISBN printed, Forms 1–3 (Grades 7–9), 64 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE — Part 3 assessment strategies, VAPA mark sheets, rubrics and assessment adaptations, and the Glossary of Key Terms in Music (printed pp. 49–57), are apparatus/inventory only, named here and not placed. Read in full via its recorded ministry source_url in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/trinidad-and-tobago-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -44,7 +46,9 @@ countries: Ethiopia, Barbados, Albania
 | Albania — Pyramid of note and rest values — the lengths of notes and rests as a value pyramid, extended to the eighth note and its rest (teacher guide — evidence) | Book 7, printed p. 21 |
 | Albania — The sixteenth note — the 1/16 note value added to the note-value pyramid, used in singing exercises and fyell playing (teacher guide — evidence) | Book 8, printed p. 28 |
 
-**Acceptance count: taught in 1 country (Ethiopia). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count.
+| Trinidad and Tobago — Lesson Plan 1: Duration (Form 1) — crotchet, minim and semibreve rests named, timed, written from hearing and shown by freezing movement for exactly the rest's duration, then played in rhythm patterns on percussion (teacher guide — evidence) | Book 9, printed p. 16 |
+
+**Acceptance count: taught in 1 country (Ethiopia). Barbados is added as curriculum syllabus — evidence only, kept outside the acceptance count.** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Notation diagrams in this lesson's pictures are drawn exactly as the placements describe the signs: whole note an open oval with no stem (4 beats), half note the open oval with a stem on its right side (2 beats), quarter note a filled head with stem (1 beat); whole rest a filled block hanging from a line (4 silent beats), half rest a filled block sitting on a line (2 silent beats), quarter rest its printed squiggle (1 silent beat). The Grade 3 book's whole-note diagram shows a dark oval head above its beat line while the Grade 2 book and the value tables teach the open oval; the lesson teaches the open oval, the form the definitions and the Grade 4 table agree on, and the Grade 3 wording is carried as the egg-shape and four-beat teaching. The Note-Values Song is placed by name and teaching content only; its words are not transcribed. No staff notation is taught in this lesson: the books' signs are learned as signs with values first, exactly as Grades 2–4 teach them.
 

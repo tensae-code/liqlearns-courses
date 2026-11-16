@@ -1,6 +1,6 @@
 # Sources — Technical and Performance Elements of Theatre
 
-countries: Ethiopia, Egypt, Honduras, Albania, Romania
+countries: Ethiopia, Egypt, Honduras, Albania, Romania, Trinidad and Tobago
 
 **Book 1:** *Grade 8 Performing and Visual Arts Teacher's Guide Book* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, March 2022, printed pp. 1–110 as promised by its contents; the library file is TRUNCATED — its body holds printed pp. 1–56 plus syllabus tables, and Units 4–5 are placed from its contents and syllabus only. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-teacher-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Egypt, Honduras, Albania, Romania
 
 **Book 7:** *Arte vizuale și abilități practice — Manual pentru clasa a III-a, Semestrul al II-lea (Visual Arts and Practical Skills, Grade 3, Semester 2)* (student book, Romanian) — Romania, Ministerul Educației și Cercetării Științifice / Editura CD Press, 2015; authors Mirela Flonta, Claudia Stupineanu, Simona Dobrescu; approved by ministerial order 5046/25.08.2015; ISBN 978-606-528-223-0 (work), 978-606-528-269-8 (Part 2), Grade 3, 48 PDF pp. STUDENT — student book. Verdict: COMPLETE. The PDF is image-only (no text layer), so it was read visually page by page from 100-DPI renders; PDF and renders deleted after filing. Cover verified: title, grade and semester match the record. Excluded per the placements: the three Recapitulare. Evaluare test pages (printed pp. 24, 34, 46) and the final evaluation test part (printed p. 47) are the book's own assessment — excluded; their companion PROJECTS (plaster vase, School Street, Hansel and Gretel set) do teach skills and are placed. The closing Dicționar (printed p. 48) is a glossary — inventory-only, named here, never stocked as parts. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/romania-placements.md.
 
+**Book 8:** *Teacher's Guide — Secondary School Curriculum — DRAMA — Visual and Performing Arts* (teacher guide, English) — Trinidad and Tobago, Ministry of Education, Curriculum Development Division, Rudranath Capildeo Learning Resource Centre, Couva, 2014; no ISBN printed, Forms 1–3 (Grades 7–9), 52 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE — Part 3 assessment strategies, mark sheets and the sample Playmaking rubric, and the Glossary of Key Terms in Drama (printed pp. 39–51), are apparatus/inventory only, named here and not placed. Read in full via its recorded ministry source_url in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/trinidad-and-tobago-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
 | Lesson part | Book | Printed pages |
 |---|---|---|
 | Sub lesson 1 — Technical elements (teacher guide — evidence) (teacher guide — evidence) | Grade 8 Teacher Guide, printed pp. 10–11 |
@@ -28,7 +30,9 @@ countries: Ethiopia, Egypt, Honduras, Albania, Romania
 | Albania — Miniature stage-set construction — building a small scene/set model from different and recycled materials (teacher guide — evidence; original target `visual-art/miniature-stage-set-construction`) | Book 6, printed p. 5 |
 | Romania — Project: Set — create the set and play, staging the Brothers Grimm's Hansel and Gretel: draw the little house, trees, flowers and characters on card, colour them, cut carefully along the outline, fold on the dotted line so the cut-outs stand upright, and improvise a scene on a piece of cardboard or expanded polystyrene on which you mount the set and move the characters | Book 7, printed p. 46 |
 
-**Acceptance count: taught in 3 countries (Egypt, Honduras, Romania).** Ethiopia teacher-guide evidence is named here, counted nowhere. Albania is added as teacher guide — evidence only, kept outside the acceptance count.
+| Trinidad and Tobago — Content Framework (Form 3) — technical theatre whole: set design and construction, props, costume design and construction, lighting design and operation, sound effects, stage management and front of house (teacher guide — evidence) | Book 8, printed p. 6 |
+
+**Acceptance count: taught in 3 countries (Egypt, Honduras, Romania).** Ethiopia teacher-guide evidence is named here, counted nowhere. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This lesson stands on the Grade 8 teacher guide (printed pp. 10–11) as labelled evidence; the topic sits in the guide's full body (Units 1–3).
 

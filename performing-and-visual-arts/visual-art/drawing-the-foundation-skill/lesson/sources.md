@@ -1,6 +1,6 @@
 # Sources — Drawing: The Foundation Skill
 
-countries: Ethiopia, Guatemala, Uganda, Barbados, Honduras, Albania, Bhutan
+countries: Ethiopia, Guatemala, Uganda, Barbados, Honduras, Albania, Bhutan, Trinidad and Tobago
 
 **Book 1:** *Grade 6 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 6ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
 
@@ -25,6 +25,8 @@ countries: Ethiopia, Guatemala, Uganda, Barbados, Honduras, Albania, Bhutan
 **Book 11:** *Arts Education — Student's Workbook for Class III* (student book, English) — Bhutan, Department of School Education (DSE), Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu, © 2023, reprint 2024, ISBN 178-99936-0-414-3 (as printed), Class III, 32 PDF pp. STUDENT — student's workbook. Verdict: COMPLETE. Byte size 6,328,406 and MD5 match the record exactly; cover verified against the record title; fetched with grab.py (release route — the book lives in GitHub Releases), read in full as text in the 2026-11-16 Art expansion read, PDF deleted after filing. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bhutan-placements.md.
 
 **Book 12:** *Arts Education — Student's Workbook for Class IV* (student book, English) — Bhutan, Department of School Education (DSE), Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu, © 2023, revised edition 2021, reprint 2024, ISBN 178-99936-0-415-0 (as printed), Class IV, 30 PDF pp. STUDENT — student's workbook. Verdict: COMPLETE. Byte size 5,783,098 and MD5 match the record exactly; cover verified against the record title; fetched with grab.py (release route — the book lives in GitHub Releases), read in full as text in the 2026-11-16 Art expansion read, PDF deleted after filing. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bhutan-placements.md.
+
+**Book 13:** *Teacher's Guide — Secondary School Curriculum — VISUAL ARTS — Visual and Performing Arts* (teacher guide, English) — Trinidad and Tobago, Ministry of Education, Curriculum Development Division, Rudranath Capildeo Learning Resource Centre, Couva, 2014; no ISBN printed, Forms 1–3 (Grades 7–9), 73 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE — Part 3 assessment strategies, portfolio/journal/research-project frameworks, VAPA mark sheets and curriculum adaptations, and Part 4 resource lists, are apparatus/inventory only, named here and not placed. Read in full via its recorded ministry source_url in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/trinidad-and-tobago-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -56,7 +58,10 @@ countries: Ethiopia, Guatemala, Uganda, Barbados, Honduras, Albania, Bhutan
 | Bhutan — Lesson 7, Portrait — look at a friend's face and draw it using facial proportion, with eyes, nose and mouth placed, and tones (light, medium, dark) worked in 4B, B and 2B pencils | Book 12, printed p. 7 |
 | Bhutan — Lesson 26, Grid Drawing — look at the picture and draw an enlarged version of it on the empty grid provided | Book 12, printed p. 26 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Uganda, Honduras, Bhutan).** Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count.**
+| Trinidad and Tobago — Drawing as foundation (Forms 1–3) — drawing emphasised as fundamental to all other art-making and repeated at every level, learned by observational learning from still life: attention, retention, reproduction, motivation (teacher guide — evidence) | Book 13, printed pp. 5–7 |
+| Trinidad and Tobago — Sample Lesson Plan 9: Scaling (Form 3) — enlarging a drawing with grids: ruling a numbered/lettered one-inch grid over an observed composition, then redrawing it at 2:1 on a proportionally larger grid, with line weight showing near and far (teacher guide — evidence) | Book 13, printed p. 28 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Uganda, Honduras, Bhutan).** Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 9 teacher-guide part (the five basic skills of drawing) is teacher-guide evidence only and is labelled so in the table; the lesson's pupil-taught parts stand on the Grade 4–6 student books. The Grade 6 book's exercise prints "E♭" in Amharic beside "(E Major scale)" in its key-signature exercise — a music matter, not used in this lesson, recorded here because the same book is cited.
 

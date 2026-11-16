@@ -1,6 +1,6 @@
 # Sources — Mime, Fables and First Plays
 
-countries: Ethiopia, Jamaica, Egypt, Guatemala, Nicaragua
+countries: Ethiopia, Jamaica, Egypt, Guatemala, Nicaragua, Trinidad and Tobago
 
 **Book 1:** *Grade 3 Performing and Visual Arts Teacher Guide (፫ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed pp. i–iv + body to printed p.79 + syllabus to printed p.96. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-teacher-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Jamaica, Egypt, Guatemala, Nicaragua
 
 **Book 8:** *Manual Metodológico para la y el maestro — Expresión Cultural y Artística — Tercer grado* (teacher guide, Spanish) — Nicaragua, Ministerio de Educación (MINED), no year printed on the pages read, no ISBN printed, Grade 3, 78 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Cover/title verified against the record title; the fetched file is the low-resolution "baja" edition named in the record's source. Fetched from the recorded MINED source URL after the GitHub grab route disconnected. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/nicaragua-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
+**Book 9:** *Teacher's Guide — Secondary School Curriculum — DRAMA — Visual and Performing Arts* (teacher guide, English) — Trinidad and Tobago, Ministry of Education, Curriculum Development Division, Rudranath Capildeo Learning Resource Centre, Couva, 2014; no ISBN printed, Forms 1–3 (Grades 7–9), 52 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE — Part 3 assessment strategies, mark sheets and the sample Playmaking rubric, and the Glossary of Key Terms in Drama (printed pp. 39–51), are apparatus/inventory only, named here and not placed. Read in full via its recorded ministry source_url in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/trinidad-and-tobago-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What is drama? A first play (teacher guide — evidence) | Book 1, §1.2 (§1.2.2, p. 9), printed pp. 8–14 |
@@ -30,7 +32,9 @@ countries: Ethiopia, Jamaica, Egypt, Guatemala, Nicaragua
 | Guatemala — Improvisation: everyone improvises, creating performance on the spot — Experiencia 3 "Mi cuerpo habla" (Grade 4), activity "Todos a improvisar" (title/theme level; activity pages not in this PDF) (teacher guide — evidence; original target `drama-and-dance/mime-fables-and-first-plays`) | Book 7, printed p. 34 |
 | Nicaragua — Body-expression and gestural-language techniques — body expression through traditional games and rounds, and gestural language of face and hands as communication (teacher guide — evidence) | Book 8, printed p. 40 |
 
-**Acceptance count: taught in 1 country (Egypt).** Ethiopia teacher-guide evidence, Jamaica teacher curriculum-guide evidence and Guatemala teacher-guide evidence (PARTIAL) are named here, counted nowhere. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.
+| Trinidad and Tobago — Drama Strategies (Forms 1–3) — the teacher's convention toolkit taught as content: conscience alley, hot-seating, Mantle of the Expert, mime, puppetry, Readers Theatre, role on the wall, side coaching, soundscape, still images/freeze frames, tableau, teacher in role and thought-tracking (teacher guide — evidence) | Book 9, printed pp. 9–12 |
+
+**Acceptance count: taught in 1 country (Egypt).** Ethiopia teacher-guide evidence, Jamaica teacher curriculum-guide evidence and Guatemala teacher-guide evidence (PARTIAL) are named here, counted nowhere. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This lesson stands on teacher-guide evidence only — the Grade 3, 4 and 6 Addis Ababa teacher guides — and its acceptance line says so: the pupil-taught drama it supports lives in the built Drama and Dance lessons, and no part here is counted as pupil-taught. The fable plays and the named plays ("ቤት የለሽ ጨዋታ" and "ግመል") are placed by title and subject only, never transcribed, exactly as their placements require.
 

@@ -1,6 +1,6 @@
 # Sources — Appreciating and Valuing the Arts
 
-countries: Ethiopia, Cyprus, Andorra, Guatemala, Uganda, Albania, Romania, Singapore
+countries: Ethiopia, Cyprus, Andorra, Guatemala, Uganda, Albania, Romania, Singapore, Trinidad and Tobago
 
 **Book 1:** *Grade 7 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 7ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–170. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g07-student-placements.md.
 
@@ -28,6 +28,8 @@ countries: Ethiopia, Cyprus, Andorra, Guatemala, Uganda, Albania, Romania, Singa
 
 **Book 13:** *Nurturing Early Learners — A Curriculum Framework for Preschool Education in Singapore: Educators' Guide for Aesthetics and Creative Expression* (teacher guide, English) — Singapore, Ministry of Education, Singapore, © 2023, ISBN 978-981-18-7421-5, Nursery–Kindergarten (children aged 4–6: Nursery 2, Kindergarten 1–2), 126 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Read in full as text in the 2026-11-16 Art expansion read; fetched with grab.py from the pushed tree (byte size 4,232,854 matches the record), PDF deleted after filing. Chapter 4's classroom-environment organisation and Chapter 5's monitoring-and-assessment framework are teacher apparatus — their worked examples' teaching content IS placed; the Bibliography (printed pp. 122–125) is inventory-only, named here, never stocked. Songs are filed by summary only, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/singapore-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
+**Book 14:** *Teacher's Guide — Secondary School Curriculum — VISUAL ARTS — Visual and Performing Arts* (teacher guide, English) — Trinidad and Tobago, Ministry of Education, Curriculum Development Division, Rudranath Capildeo Learning Resource Centre, Couva, 2014; no ISBN printed, Forms 1–3 (Grades 7–9), 73 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE — Part 3 assessment strategies, portfolio/journal/research-project frameworks, VAPA mark sheets and curriculum adaptations, and Part 4 resource lists, are apparatus/inventory only, named here and not placed. Read in full via its recorded ministry source_url in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/trinidad-and-tobago-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Aesthetic value: judging beauty | Book 1, printed pp. 127–131 |
@@ -50,7 +52,9 @@ countries: Ethiopia, Cyprus, Andorra, Guatemala, Uganda, Albania, Romania, Singa
 | Singapore — "Art at Public Places" (Kindergarten 2): a field trip to artworks in public places (MRT stations, galleries, museums, public art trails), describing them by line, shape, colour and texture, then recreating a favourite back in class — Goal 3 example (teacher guide — evidence) | Book 13, printed p. 54 |
 | Singapore — Murals in the neighbourhood and public art trails: noticing the aesthetics of the art that lives in the child's own environment — Ch.3 strategy, using artwork (teacher guide — evidence) | Book 13, printed p. 76 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Uganda, Romania).** Cyprus is added as teacher unit material — evidence only, kept outside the acceptance count. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.
+| Trinidad and Tobago — Critiquing works of art (Forms 1–3) — art criticism in four moves, each with its questions: Describe (the visual facts), Analyze (how elements and principles organise the work), Interpret (what the artist was saying and what it means to you), and Judgment (the work's value, honestly weighed) (teacher guide — evidence) | Book 14, printed pp. 13–18 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Uganda, Romania).** Cyprus is added as teacher unit material — evidence only, kept outside the acceptance count. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 7 and 8 teacher-guide parts are EVIDENCE-LIMITED in the strict sense: those guides' files are truncated, so Units 4–5 are placed from their contents pages and syllabus tables only, and every such part is labelled so in its provenance — no body wording is claimed from pages that were not read. The Grade 9–10 parts stand on teacher-guide evidence (those grades have no student books). The lesson's first part rests on the Grade 7 student book, so the lesson counts as taught in 1 country (Ethiopia); every other part is evidence, labelled part by part.
 

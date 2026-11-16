@@ -1,6 +1,6 @@
 # Sources — The Elements of Theatre
 
-countries: Ethiopia, Egypt, Honduras, Nicaragua
+countries: Ethiopia, Egypt, Honduras, Nicaragua, Trinidad and Tobago
 
 **Book 1:** *Grade 5 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–141. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Egypt, Honduras, Nicaragua
 **Book 11:** *Expresión Cultural y Artística — Texto para el Docente — 1er Grado, Educación Primaria* (teacher guide, Spanish) — Nicaragua, Ministerio de Educación (MINED), Managua, 2014 (Primera Edición, Septiembre 2014), no ISBN printed, Grade 1, 160 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Cover/title page verified against the record title; Grade 1 byte size matches the record exactly (5,555,205). Fetched from the recorded MINED source URL after the GitHub grab route disconnected. Exclusions named: the Glossary (printed p. 146) is a word list — inventory-only, named here, not stocked; Bibliography not placed. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/nicaragua-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
 **Book 12:** *Manual Metodológico Expresión Cultural y Artística — 4° Grado* (teacher guide, Spanish) — Nicaragua, Ministerio de Educación (MINED), no year printed on the pages read, no ISBN printed, Grade 4, 148 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Cover/title verified against the record title; the fetched file is the low-resolution "BAJA" edition named in the record's source. Fetched from the recorded MINED source URL after the GitHub grab route disconnected. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/nicaragua-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 13:** *Teacher's Guide — Secondary School Curriculum — DRAMA — Visual and Performing Arts* (teacher guide, English) — Trinidad and Tobago, Ministry of Education, Curriculum Development Division, Rudranath Capildeo Learning Resource Centre, Couva, 2014; no ISBN printed, Forms 1–3 (Grades 7–9), 52 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE — Part 3 assessment strategies, mark sheets and the sample Playmaking rubric, and the Glossary of Key Terms in Drama (printed pp. 39–51), are apparatus/inventory only, named here and not placed. Read in full via its recorded ministry source_url in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/trinidad-and-tobago-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -45,7 +47,9 @@ countries: Ethiopia, Egypt, Honduras, Nicaragua
 | Nicaragua — The stage space — mastering the scenic space in a children's play, gestural language with emotions and sensations, and practising the sounds of nature and animals (teacher guide — evidence) | Book 11, printed p. 90 |
 | Nicaragua — Theatre techniques and body expression — stage handling, body movements, improvisation, vocabulary, characterisation and voice quality; emblematic, emotive and adaptive gestures, the gaze and the smile (teacher guide — evidence) | Book 12, printed p. 68 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Egypt, Honduras). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.**
+| Trinidad and Tobago — Content Framework: blocking and stagecraft (Form 1) — blocking taught whole: stage positions, stage areas, set levels, movement on stage, entrances and exits, stage setting and staging the play, with theatre spaces, theatre etiquette and safety in drama (teacher guide — evidence) | Book 13, printed p. 5 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Egypt, Honduras). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 5 book's plot example is taught as the book gives it — a soldier wounded by enemy fire, his wife dying of grief, the story told by flashback — summarised, never reprinted. The teacher-guide parts (shot sizes move to the Video lesson; the Grade 6 guide's theatre-elements and genres part) are evidence and are labelled so.
 

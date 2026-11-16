@@ -255,7 +255,16 @@ The titles, in ladder order:
    clicks to toe taps, the Orff road into instruments; and
    dikir barat — Singapore's Malay seated group singing, its
    drums, synchronised hands and shouted "Hah!", studied,
-   then made your own (Singapore teacher guide, evidence).
+   then made your own (Singapore teacher guide, evidence). The Art
+   expansion added: making music with the whole body: Orff and
+   audiation — Orff's whole body as a percussive instrument,
+   Suzuki's mother-tongue listening, rote and repetition, and
+   Gordon's audiation, thinking music in the mind; and tassa,
+   tabla and harmonium — timbre taught by telling instruments
+   by their sound, piano, steel pan, recorder and voice set
+   beside the instruments of the country's Indian musical
+   heritage (Trinidad and Tobago teacher guide / curriculum
+   guide, evidence).
 4. **Drama and Dance** — the body: how things, animals and people
    move; playing family roles; acting together; playing a person;
    theatre on a stage; acting our history; circle dances and
@@ -326,7 +335,21 @@ The titles, in ladder order:
    wayang kulit shadow puppetry — Singapore's Malay-Indonesian
    heritage shadow theatre, named first among the shadow arts,
    with puppet props made for your own shadow play (Singapore
-   teacher guide, evidence).
+   teacher guide, evidence). The Art expansion added:
+   ballroom and social dances — appropriate social dancing to
+   Soca and Dancehall, with responsible choices at adolescence;
+   the Tobago jig — its partner invitation, four steps and
+   Tambrin Band music; Trinidad Tobago folk dances — Bele,
+   Limbo, Quadrille, Ghadka and Kalinda, with Bhangra and
+   Kollattam from its Indian heritage; Trinidad and Tobago
+   Carnival dances and characters — Canboulay and Carnival's
+   origins, Sailor Mas and Jab Molassie, the Traditional
+   Carnival Characters and the makers McBurnie, Johnson and
+   Edwards; masks in performance — neutral, half and character
+   masks, ritual, Greek chorus work and a built half mask; and
+   Kolattam — the Indian-heritage stick dance, performed for
+   its locomotor and axial movements (Trinidad and Tobago
+   teacher guides / curriculum guide, evidence).
 5. **Culture and Values** — the arts as a people's memory:
    traditional dress then and now, houses then and now, the
    festivals and their arts (Meskel, Timket, Arafa, Genna, New
@@ -362,3 +385,11 @@ The titles, in ladder order:
    lion dance, the arts of Singapore's diverse heritage,
    beside music and dance from the wider world (Singapore
    teacher guide, evidence).
+ The Art expansion added:
+   festivals and playwrights of Trinidad and Tobago — the
+   festival calendar as drama material (Carnival, Christmas
+   Parang, Divali, Hosay, Phagwa, Ramleela, Tobago Heritage
+   Festival and more) and fifteen named playwrights, from
+   Errol Hill and Errol John to Derek Walcott and Pearl
+   Eintou Springer (Trinidad and Tobago teacher guide,
+   evidence).

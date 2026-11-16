@@ -1,6 +1,6 @@
 # Sources — Photography
 
-countries: Ethiopia, Honduras
+countries: Ethiopia, Honduras, Trinidad and Tobago
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -11,6 +11,8 @@ countries: Ethiopia, Honduras
 **Book 4:** *Grade 6 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 6ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
 
 **Book 5:** *Libro del Estudiante — Educación Artística — 8vo Grado (Telebásica)* (student book, Spanish) — Honduras, Secretaría de Educación, República de Honduras (Programa de Televisión Educativa Hondureña — Telebásica); author Licda. Corina Milikza Hernández Estrada; no year printed on the pages read; no ISBN printed, Grade 8, 290 PDF pp. STUDENT. Verdict: COMPLETE. Cover verified against the record title ("Libro del Estudiante, Educación Artística, 8vo Grado"). Fetched from the recorded libroshonduras.com source URLs. The Introduction repeats the Grade 7 book's art-definitions opening (placed there, not re-placed here). Exclusions named in the placements: the "Valorando lo que Aprendo" self-assessment sequences (printed pp. 95, 167, 203, 267) are named, not placed; Senderos (printed p. 17) is book-orientation apparatus, named, not placed; the Glosario (printed p. 269) is a word list — inventory-only, named, not stocked; Anexo and Bibliografía not placed. The parallel Grade 8 teacher guide, *Guía del Docente — Educación Artística — 8vo Grado (Telebásica)* (198 PDF pp, TEACHER; its first download was corrupt with a broken xref, was discarded and re-fetched), parallels this book sequence by sequence and carries 0 placements — its arts teaching content is placed once, from this student book; its own additions are teaching method, Telebásica TV-programme guidance, materials lists and evaluation criteria. Placements at liqlearns-courses-work/expansion-art-2026-11-16/honduras-placements.md.
+
+**Book 6:** *Teacher's Guide — Secondary School Curriculum — VISUAL ARTS — Visual and Performing Arts* (teacher guide, English) — Trinidad and Tobago, Ministry of Education, Curriculum Development Division, Rudranath Capildeo Learning Resource Centre, Couva, 2014; no ISBN printed, Forms 1–3 (Grades 7–9), 73 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE — Part 3 assessment strategies, portfolio/journal/research-project frameworks, VAPA mark sheets and curriculum adaptations, and Part 4 resource lists, are apparatus/inventory only, named here and not placed. Read in full via its recorded ministry source_url in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/trinidad-and-tobago-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -28,7 +30,9 @@ countries: Ethiopia, Honduras
 
 | Honduras — Block I S5, Knowing photography — fotografía: what photography is and its norms of composition | Book 5, printed p. 79 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Honduras).**
+| Trinidad and Tobago — Sample Lesson Plan 5: Photography (Form 1) — introduction to the parts of a camera and their functions: exploring a digital camera in pairs, naming its parts on a diagram, then experimenting with taking pictures (teacher guide — evidence) | Book 6, printed p. 24 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Honduras).** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Honesty notes: Book 2's photography part is a teacher-guide part, cited at the section level its placement gives (§1.4, printed pp. 18–22, inside a wider shapes/forms/colours section) and labelled evidence; the lesson's core rests on Book 1, a student book. The Grade 3 book's camera is a film camera — light through a lens, an image on film, printed on prepared papers — and the lesson keeps the book's own account; phone cameras are mentioned only in the Do It First looking activity, not as book content. No camera technique beyond the placements (no exposure settings, no lens types) has been added.
 

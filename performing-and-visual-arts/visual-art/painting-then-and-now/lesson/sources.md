@@ -1,6 +1,6 @@
 # Sources — Painting Then and Now
 
-countries: Ethiopia, Albania
+countries: Ethiopia, Albania, Trinidad and Tobago
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -9,6 +9,8 @@ countries: Ethiopia, Albania
 **Book 3:** *Grade 6 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 6ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
 
 **Book 4:** *Libër mësuesi Arti Pamor 9* (teacher guide, Albanian) — Albania, Shtëpia Botuese Mediaprint, 2018, ISBN 978-9928-08-354-8, Grade 9, 67 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Fetched from the recorded Mediaprint source URLs; byte size matches the record exactly. Cover/title page verified against the record title. Exclusions named in the placements: the term tests (printed section 6) are assessment — named, not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/albania-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 5:** *Secondary School Curriculum — THE VISUAL AND PERFORMING ARTS (VAPA) Curriculum Guide* (curriculum guide, English) — Trinidad and Tobago, Ministry of Education, Curriculum Development Division, Rudranath Capildeo Learning Resource Centre, Couva, 2014; no ISBN printed, Forms 1–3 (Grades 7–9), 195 PDF pp. TEACHER — curriculum guide. Verdict: COMPLETE — Part 1 (national curriculum framework, policies) is general-education apparatus, named here and not placed; the per-subject curriculum content (Dance printed pp. 55–67, Drama pp. 76–101, Music pp. 109–132, Visual Arts pp. 140–184) is placed at framework level, the four Teacher's Guides carrying the same content in lesson form. Read in full via its recorded ministry source_url in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/trinidad-and-tobago-placements.md. **Curriculum guide — EVIDENCE only, kept outside the acceptance count.**
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -23,7 +25,9 @@ countries: Ethiopia, Albania
 | Sub lesson 7 — Visual art and our heritage (Grade 6): Lalibela, Gondar palace, Mikael's Ayiteyef hall, Goze mosque, Ankober Menelik palace, clothes, jewellery, pottery (Fig. 62); protecting heritage by posters, stamps, drawing, sculpture, painting, jewellery | Book 3, §5.1.1, printed p. 104 |
 | Albania — Art from Post-Impressionism to the second half of the 20th century — Post-Impressionism, the avant-gardes (Fauvism, Expressionism, Cubism, Abstraction, Dada, Surrealism), then Abstract Expressionism, Pop Art, sculpture and architecture after 1950, and art in Albania in the socialist-building period (teacher guide — evidence) | Book 4, printed p. 5 |
 
-**Acceptance count: taught in 1 country (Ethiopia).** Albania is added as teacher guide — evidence only, kept outside the acceptance count.
+| Trinidad and Tobago — Visual Arts Content: History of Art in Trinidad and Tobago (Form 1 Term 1) — exploring the history of art in Trinidad and Tobago and discussing local artists and their influence, Michel-Jean Cazabon named as the example (curriculum guide — evidence) | Book 5, printed p. 140 |
+
+**Acceptance count: taught in 1 country (Ethiopia).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count.
 
 Honesty notes: this lesson stocks only what the structure map assigns to it — the Grade 3 then-and-now comparison and the appreciating-paintings pages, with the Grade 3 teacher guide's valuing part as labelled evidence. Other painting placements in the series carry their own lesson targets in the placements files (the paint kinds, watercolour and oil, cave art, and the great painters) and are not stocked here; they are recorded as not-in-this-map in the build log. Afework Tekle is named in the lesson exactly as the Grade 3 book names him — the modern example — with no biography added beyond the placements.
 

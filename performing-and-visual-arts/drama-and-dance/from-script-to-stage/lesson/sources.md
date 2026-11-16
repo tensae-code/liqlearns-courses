@@ -1,6 +1,6 @@
 # Sources — From Script to Stage
 
-countries: Ethiopia, Egypt, Guatemala, Samoa, Nicaragua
+countries: Ethiopia, Egypt, Guatemala, Samoa, Nicaragua, Trinidad and Tobago
 
 **Book 1:** *Grade 7 Performing and Visual Arts Teacher's Guide Book* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. (September 2021), printed pp. 1–161 as promised by its contents; the library file is TRUNCATED — its body ends at printed p.109, and Units 4–5 are placed from its contents and syllabus only. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g07-teacher-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Egypt, Guatemala, Samoa, Nicaragua
 
 **Book 7:** *Manual Metodológico Expresión Cultural y Artística — 4° Grado* (teacher guide, Spanish) — Nicaragua, Ministerio de Educación (MINED), no year printed on the pages read, no ISBN printed, Grade 4, 148 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Cover/title verified against the record title; the fetched file is the low-resolution "BAJA" edition named in the record's source. Fetched from the recorded MINED source URL after the GitHub grab route disconnected. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/nicaragua-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
+**Book 8:** *Teacher's Guide — Secondary School Curriculum — DRAMA — Visual and Performing Arts* (teacher guide, English) — Trinidad and Tobago, Ministry of Education, Curriculum Development Division, Rudranath Capildeo Learning Resource Centre, Couva, 2014; no ISBN printed, Forms 1–3 (Grades 7–9), 52 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE — Part 3 assessment strategies, mark sheets and the sample Playmaking rubric, and the Glossary of Key Terms in Drama (printed pp. 39–51), are apparatus/inventory only, named here and not placed. Read in full via its recorded ministry source_url in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/trinidad-and-tobago-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
 | Lesson part | Book | Printed pages |
 |---|---|---|
 | Sub lesson 1 — Choosing and preparing (teacher guide — evidence) (teacher guide — evidence) | Grade 7 Teacher Guide, printed pp. 57–59 |
@@ -27,7 +29,10 @@ countries: Ethiopia, Egypt, Guatemala, Samoa, Nicaragua
 | Nicaragua — The theatrical speech and stage representations — the importance of the parlamento (spoken text), the play's script (guión), characterisation, stage movement and mastery, and presenting a children's play (teacher guide — evidence) | Book 6, printed p. 45 |
 | Nicaragua — Preparing a theatre work — choosing the work, writing the theatrical script, characterising the characters, and the utilería (props) (teacher guide — evidence) | Book 7, printed p. 91 |
 
-**Acceptance count: taught in 1 country (Egypt).** Ethiopia teacher-guide evidence and Guatemala teacher-guide evidence (PARTIAL) are named here, counted nowhere. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.
+| Trinidad and Tobago — Content Framework (Form 1, Term 3) — text analysis, audition and casting, responsibilities of crew, character analysis and development, writing the programme/brochure, and self and peer critique and reflection (teacher guide — evidence) | Book 8, printed p. 5 |
+| Trinidad and Tobago — Sample Lesson Plans 1 and 3 (Forms 1–3) — preparing and maintaining a production's rehearsal schedule over six weeks (stage manager's and director's roles, problem situations) and the nine stage areas with their abbreviations, learned by walking and calling them (teacher guide — evidence) | Book 8, printed pp. 16, 20 |
+
+**Acceptance count: taught in 1 country (Egypt).** Ethiopia teacher-guide evidence and Guatemala teacher-guide evidence (PARTIAL) are named here, counted nowhere. Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The journey is the guide's own (printed pp. 57–59), including its Ethiopian-values script test and its 'nitty gritty' outline phrase, kept as the guide words it.
 

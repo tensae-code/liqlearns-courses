@@ -1,6 +1,6 @@
 # Sources — Dance Composition and Modern Dance
 
-countries: Ethiopia, Andorra, Canada, Uganda, Samoa, Nicaragua
+countries: Ethiopia, Andorra, Canada, Uganda, Samoa, Nicaragua, Trinidad and Tobago
 
 **Book 1:** *Grade 5 Performing and Visual Arts Teacher Guide (፭ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed front matter ii–v + body from printed p.1 + syllabus tables at the end. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-teacher-placements.md.
 
@@ -23,6 +23,8 @@ countries: Ethiopia, Andorra, Canada, Uganda, Samoa, Nicaragua
 
 **Book 11:** *Manual Metodológico para la y el maestro — Expresión Cultural y Artística — Tercer grado* (teacher guide, Spanish) — Nicaragua, Ministerio de Educación (MINED), no year printed on the pages read, no ISBN printed, Grade 3, 78 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Cover/title verified against the record title; the fetched file is the low-resolution "baja" edition named in the record's source. Fetched from the recorded MINED source URL after the GitHub grab route disconnected. Read in full in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/nicaragua-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
+**Book 12:** *Teacher's Guide — Secondary School Curriculum — DANCE — Visual and Performing Arts* (teacher guide, English) — Trinidad and Tobago, Ministry of Education, Curriculum Development Division, Rudranath Capildeo Learning Resource Centre, Couva; year not printed in fetched text; no ISBN printed, Forms 1–3 (Grades 7–9), 57 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE — assessment rubrics/checklists (Part 3) and the Glossary of Key Terms in Dance (printed pp. 49+) are apparatus/inventory only, named here and not placed. Read in full via its recorded ministry source_url in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/trinidad-and-tobago-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The elements of dance: body, space, partner (teacher guide — evidence) | Book 1, §1.2, printed pp. 12–14 |
@@ -41,7 +43,12 @@ countries: Ethiopia, Andorra, Canada, Uganda, Samoa, Nicaragua
 | Samoa — Year 11 Dance Forms 1 & 2 and the Duet unit — study two dance forms with their history and cultural context from videoed examples, copy their basic movements to build dance vocabulary, create 16-count sequences for a class piece, and choreograph, rehearse and perform a duet mixing two dance forms (ballroom, tango, taualuga, ballet, contemporary, tap named), with settings, sounds, costumes and a basic lighting plan (teacher-guide evidence) | Book 10, printed pp. 11, 14–38, 38–44 |
 | Nicaragua — Creative and harmonic movement — the elements of movement (body, body space, fluency, time, energy), body warm-up, and the gesture language of arms, head and posture (teacher guide — evidence) | Book 11, printed p. 22 |
 
-**Acceptance count: taught in 2 countries (Canada, Uganda).** This lesson's original stock stands on teacher-guide evidence only (Ethiopia), named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document and teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count.
+| Trinidad and Tobago — Content Framework / Laban analysis (Forms 1–3) — the elements of dance taught as body themes, space themes, dynamics and relationships, built on Laban's movement factors Flow, Weight, Time and Space and his eight effort qualities (teacher guide — evidence) | Book 12, printed pp. 5–8, 44 |
+| Trinidad and Tobago — Lesson Plan 2: Fundamental Principles (Form 1) — turnout from the hip rotators and pointing the feet (pointe, extend and flex through ankle, instep, metatarsals and toes), then varied in open, closed, raised and alternating leg positions (teacher guide — evidence) | Book 12, printed p. 18 |
+| Trinidad and Tobago — Lesson Plans 3–4: Space and Space Themes (Form 2) — the categories of space (pathways, directions, levels, body-shape design) observed in professional dance and used to build choreography on a theme, with symmetrical/asymmetrical shapes moved in sustained and quick qualities (teacher guide — evidence) | Book 12, printed pp. 20–21 |
+| Trinidad and Tobago — Lesson Plan 7: Movement and Meaning (Form 3) — literal, symbolic and abstract movement distinguished and performed, using the elements of dance to show contrasting moods (teacher guide — evidence) | Book 12, printed p. 25 |
+
+**Acceptance count: taught in 2 countries (Canada, Uganda).** This lesson's original stock stands on teacher-guide evidence only (Ethiopia), named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. The Uganda Teacher's Guide is added as teacher guide — evidence only, kept outside the acceptance count. Samoa is added as curriculum programme document and teacher guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count.
 
 This lesson stands on teacher-guide evidence only — the Grade 5, 6, 9 and 10 guides — and its acceptance line says so; the pupil-taught dances it builds on live in the built dance lessons of this course. Modern dance is taught at the level the Grade 10 guide's placements give (styles, techniques, and the traditional/modern difference); no named modern-dance school or choreographer beyond the placements is introduced.
 

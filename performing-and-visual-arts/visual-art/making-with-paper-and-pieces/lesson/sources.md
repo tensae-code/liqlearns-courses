@@ -1,6 +1,6 @@
 # Sources — Making with Paper and Pieces
 
-countries: Ethiopia, Maldives, Uganda, Barbados, Honduras, Nicaragua, Romania, Singapore, Bhutan
+countries: Ethiopia, Maldives, Uganda, Barbados, Honduras, Nicaragua, Romania, Singapore, Bhutan, Trinidad and Tobago
 
 **Book 1:** *Grade 4 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 4ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–100. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-student-placements.md.
 
@@ -33,6 +33,8 @@ countries: Ethiopia, Maldives, Uganda, Barbados, Honduras, Nicaragua, Romania, S
 **Book 15:** *Arts Education — Student's Workbook for Class III* (student book, English) — Bhutan, Department of School Education (DSE), Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu, © 2023, reprint 2024, ISBN 178-99936-0-414-3 (as printed), Class III, 32 PDF pp. STUDENT — student's workbook. Verdict: COMPLETE. Byte size 6,328,406 and MD5 match the record exactly; cover verified against the record title; fetched with grab.py (release route — the book lives in GitHub Releases), read in full as text in the 2026-11-16 Art expansion read, PDF deleted after filing. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bhutan-placements.md.
 
 **Book 16:** *Arts Education — Student's Workbook for Class IV* (student book, English) — Bhutan, Department of School Education (DSE), Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu, © 2023, revised edition 2021, reprint 2024, ISBN 178-99936-0-415-0 (as printed), Class IV, 30 PDF pp. STUDENT — student's workbook. Verdict: COMPLETE. Byte size 5,783,098 and MD5 match the record exactly; cover verified against the record title; fetched with grab.py (release route — the book lives in GitHub Releases), read in full as text in the 2026-11-16 Art expansion read, PDF deleted after filing. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bhutan-placements.md.
+
+**Book 17:** *Teacher's Guide — Secondary School Curriculum — VISUAL ARTS — Visual and Performing Arts* (teacher guide, English) — Trinidad and Tobago, Ministry of Education, Curriculum Development Division, Rudranath Capildeo Learning Resource Centre, Couva, 2014; no ISBN printed, Forms 1–3 (Grades 7–9), 73 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE — Part 3 assessment strategies, portfolio/journal/research-project frameworks, VAPA mark sheets and curriculum adaptations, and Part 4 resource lists, are apparatus/inventory only, named here and not placed. Read in full via its recorded ministry source_url in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/trinidad-and-tobago-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -87,7 +89,9 @@ countries: Ethiopia, Maldives, Uganda, Barbados, Honduras, Nicaragua, Romania, S
 | Singapore — Paper sculpture: bending and folding strips of paper of different thicknesses, colours and lengths and pasting them on a base to build a 3-D artwork — Goal 2 extension (teacher guide — evidence) | Book 14, printed p. 40 |
 | Singapore — Camouflage learned through art: a collage of magazine-paper strips that hides an animal in its environment — Ch.3 strategy, themes (teacher guide — evidence) | Book 14, printed p. 68 |
 | Singapore — Eric Carle's collage technique with hand-painted papers (beside Ed Young's mixed media and Taro Gomi's hidden-object drawings) as illustration children can study and try — Ch.3 strategy, picture books (teacher guide — evidence) | Book 14, printed p. 71 |
-**Acceptance count: taught in 6 countries (Ethiopia, Maldives, Uganda, Honduras, Romania, Bhutan).** Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.**
+| Trinidad and Tobago — Sample Lesson Plan 4: Tie Dye (Form 1) — resist methods in tie-dye: the tie itself makes the resist and the design; other resist materials (stones, pegs, bottles) combined and dye applied by the brush-on technique (teacher guide — evidence) | Book 17, printed p. 23 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Maldives, Uganda, Honduras, Romania, Bhutan).** Barbados is added as curriculum guide — evidence only, kept outside the acceptance count. Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 5 teacher-guide part (potato printing and paper mosaic) and the Grade 2 teacher-guide part (decorating and drawing) are teacher-guide evidence and are labelled so; the Grade 2 guide is a scan with no text layer, cited at section level only (§2.4, printed pp. 35–37), as its placements require. Tie-dye's boiling step is taught as the Grade 7 book gives it and is a grown-up's job in the hands-on work; the lesson says so.
 

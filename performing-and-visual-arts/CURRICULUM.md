@@ -816,7 +816,79 @@ lessons are the books'.
   Do-Yen-Na-Nga drawing and Sumdang painting — taught by copying
   and by step order.
 
-**The whole course stands at 274 lessons, 4,022 questions and
+- **Art expansion — Trinidad and Tobago — BUILT 2026-11-16:** 57 placements
+  stocked from 5 records / 5 distinct books, all TEACHER evidence
+  (NCSE Dance Teacher's Guide, Forms 1–3, Ministry of Education,
+  Curriculum Development Division, Rudranath Capildeo Learning
+  Resource Centre, Couva, year not printed, 57 PDF pp, COMPLETE;
+  NCSE Drama Teacher's Guide, same publisher, 2014, 52 PDF pp,
+  COMPLETE; NCSE Music Teacher's Guide, Curriculum Planning &
+  Development Division, 2014, 64 PDF pp, COMPLETE; NCSE Visual Arts
+  Teacher's Guide, 2014, 73 PDF pp, COMPLETE; and the VAPA
+  Curriculum Guide, Forms 1–3, 2014, 195 PDF pp, COMPLETE — all
+  read in full via their recorded ministry source_urls): 43 into
+  existing lessons (Dance Composition and Modern Dance ×4;
+  Dance Practice and Imitation ×2; From Script to Stage ×2;
+  Reading the Beat ×2; Elements of Visual Art ×2; Drawing: The
+  Foundation Skill ×2; and one each into Appreciating the Arts,
+  Dance Education and Indigenous Dance, Traditional Dances and
+  Culture, What Theatre Is, Elements of Drama, The Elements of
+  Theatre, Stories and Folktales, Theatre and Film Through
+  History, Technical and Performance Elements of Theatre,
+  Writing and Putting On a Play, Mime Fables and First Plays,
+  The Elements of Music, Notes and Rests, Reading Music on the
+  Staff, Faster Notes Dynamics and Tempo, Qenet: Ethiopia's
+  Scales — the Kodály hand-sign/solfège placement, Moving to
+  Music — the Dalcroze placement, Hearing Each Instrument,
+  Appreciating and Valuing the Arts, Emblems and Posters That
+  Speak, Making with Paper and Pieces, Photography, Painting
+  Still Life, Printing, How the Arts Belong Together, What the
+  Arts Are, Festivals and Their Arts, Cave Art and Church
+  Painting, Painting Then and Now), 2 into already-built
+  canonical lessons (The Dancer's Body: Conditioning and Safe
+  Practice — from safe-dance-practice-and-careers; Weaving —
+  from woven-paper-assemblage, the woven-paper 3-D assemblage),
+  9 NEW lessons (Drama and Dance: Ballroom and Social Dances —
+  from social-dance-and-responsible-dancing, Soca and Dancehall
+  dancing with responsible choices; Tobago Jig — its invitation,
+  four steps and Tambrin Band music; Trinidad Tobago Folk Dances
+  — from trinidad-tobago-folk-dances, Bele, Limbo, Quadrille,
+  Ghadka and Kalinda; Trinidad and Tobago Carnival Dances and
+  Characters — from carnival-mas-dances,
+  dances-of-trinidad-and-tobago-makers,
+  carnival-characters-of-trinidad-and-tobago and
+  canboulay-and-carnival-origins; Masks in Performance — from
+  mask-work-and-ritual, the seven-week Masks unit; Kolattam
+  Stick Dance — from kollattam-stick-dance; Music: Making Music
+  with the Whole Body: Orff and Audiation; Tassa, Tabla and
+  Harmonium; Culture and Values: Festivals and Playwrights of
+  Trinidad and Tobago), 108 questions added, media as described
+  slots only. DIFFERENCE FROM THE FILE'S OWN TALLY, EXPLAINED:
+  the placements file tallied 43 to existing lessons and 14 NEW
+  LESSON NEEDED lines. The slug registry resolves two of those
+  fourteen lines to canonical lessons already built
+  (safe-dance-practice-and-careers to The Dancer's Body, and
+  woven-paper-assemblage to Weaving) — stocked, not rebuilt —
+  and four lines to one canonical lesson (Trinidad and Tobago
+  Carnival Dances and Characters), so 45 (not 43) placements
+  went to lessons that already existed, 12 to new lessons, and
+  9 new lessons were built; the total of 57 reconciles exactly.
+  No exclusions: all five books are COMPLETE teacher/curriculum
+  guides and every placed line was stocked; their assessment
+  parts and glossaries are apparatus/inventory only, named in
+  the book entries, never stocked. As teacher guides / a
+  curriculum guide, all five books are EVIDENCE only, kept
+  outside every acceptance count (the nine new lessons stand
+  at acceptance count 0). Trinidad and Tobago's own way is kept
+  as named parts — Laban-based dance spiralling through folk
+  and Carnival heritage (Tobago Jig, Bele, Limbo, Kalinda,
+  Sailor Mas, Jab Molassie, Canboulay), drama stocked with its
+  Traditional Carnival Characters, festivals and playwrights,
+  music taught Whole–Part–Whole through Dalcroze, Kodály, Orff,
+  Suzuki and Gordon with the tenor pan beside the violin, and
+  visual art as a visual language anchored by its own makers.
+
+**The whole course stands at 283 lessons, 4,130 questions and
 203 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 
