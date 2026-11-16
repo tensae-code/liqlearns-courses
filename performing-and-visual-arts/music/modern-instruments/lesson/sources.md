@@ -1,15 +1,21 @@
 # Sources — Modern Instruments
 
-countries: Ethiopia
+countries: Ethiopia, Turkmenistan
 
 **Book 1:** *Grade 8 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 8ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–139. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-student-placements.md.
+
+**Book 2:** *Aýdym-saz — Umumy orta bilim berýän mekdepleriň I synpy üçin okuw kitaby (Music and Singing, textbook for Grade 1 of general secondary schools), Üçünji neşir (3rd edition)* (student book, Turkmen) — Turkmenistan, by R. Amangeldiýew, K. Garowow; Türkmen döwlet neşirýat gullugy (Turkmen State Publishing Service), Ashgabat, 2019, no ISBN printed (UOK/KBK codes only), Grade 1, 80 PDF pp. STUDENT. Recommended by the Ministry of Education of Turkmenistan. Verdict: COMPLETE (title page verified against the record title; fetched with grab.py tree, 4,729,163 bytes and 80 pages, both matching the record). Excluded per the placements: the end-of-section "Soraglar" question sets and "Gönükme" exercises are the book's own apparatus, named here, not placed; the State Anthem is printed in the front matter and is placed once as a song of the country, by title only. All songs are placed by title, subject and composer/poet only — never lyrics. Placements at liqlearns-courses-work/expansion-art-2026-11-16/turkmenistan-placements.md.
+
+**Book 3:** *Музыка и пение — Учебник для 1 класса с русским языком обучения общеобразовательных средних школ (Music and Singing, textbook for Grade 1 with Russian language of instruction), Издание четвёртое (4th edition)* (student book, Russian) — Turkmenistan, by L. Afonova, E. Volkova; Туркменская государственная издательская служба (Turkmen State Publishing Service), Ashgabat, 2022, no ISBN printed (UDK/BBK codes only), Grade 1, 104 PDF pp. STUDENT. Recommended by the Ministry of Education of Turkmenistan. Verdict: COMPLETE. A parallel-track book, not a translation of Book 1 of this country's set: different authors and mostly different songs, though two songs (Aglama, gurjak; Aýterek-günterek) appear in both, in the notation appendix here. The repo tree path is a PHANTOM PUSH — grab.py tree returned HTTP 404 — so the book was fetched from the recorded kitaphana.bilim.tm source via the library's own API file link; 27,218,175 bytes and 104 pages, both matching the record exactly. Downloaded copy staged under the push-don't-delete rule at the phase3-staging record path. Excluded per the placements: the closing "Повторение" (Revision, printed p. 52) — the book's own revision lesson, named here, not placed; all songs placed by title/subject/composer only, never lyrics. Placements at liqlearns-courses-work/expansion-art-2026-11-16/turkmenistan-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — the modern instruments and their sound-roles | Grade 8 Student Textbook, printed pp. 20–24 (§1.2.2) |
 | Sub lesson 2 — modern and traditional instruments together | Grade 8 Student Textbook, printed pp. 24–26 (§1.2.2) |
+| Turkmenistan — "Saz gurallary" (Musical instruments) — the instruments used all over the world beside the national ones: fortepiano, accordion, violin, flute and clarinet, pictured (student book; original target `music/modern-instruments`) | Book 2, printed p. 43 |
+| Turkmenistan — the fortepiano, whose name is built from forte (loud, f) and piano (quiet, p), the signs that mark the strength of sound, in the instruments chapter (student book; original target `music/modern-instruments`) | Book 3, printed p. 37 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Turkmenistan).**
 
 Modern instruments are treated at the level the Grade 8 placements carry them — the book treats traditional and modern families exhaustively; the sound-role pairings follow the book's family order. No brand names or models are introduced.
 

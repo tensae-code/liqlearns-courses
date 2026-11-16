@@ -34,7 +34,7 @@ The titles, in ladder order:
    reality and imagination as equal spurs to creating, unreal
    scenes built from everyday surroundings, with Magritte, Klee,
    Tabaković, de Chirico and Miró (Serbia student books).
-
+ The Art expansion added: getting started with drawing tools — the plain pencil's thick and thin lines, erasing without tearing, coloured pencils pressed rich, watercolour and gouache mixed with water, and tools cleaned and put away; and sharing and exhibiting our art — the standing term task, a picture on a term theme and the best drawings placed in a sergi exhibition (Turkmenistan student books).
 2. **Visual Art** — the hand and the eye: first marks and lines,
    shapes and forms, colouring, colours and mixing them, the crafts
    around us (metal, pottery, weaving), making with clay and paper,
@@ -187,7 +187,7 @@ The titles, in ladder order:
    material sewn into a product (project material, evidence)
    (Finland student workshop materials, instruction sheets
    and teaching unit).
-
+ The Art expansion added: Turkmen nagysh ornament — national patterns, each with its own name, recalling flowers and plants, studied on real dress and used to decorate a dress model and New Year tree toys; patchwork and appliqué — a flowering tree branch made from coloured paper pieces; drawing from imagination — a free theme chosen from your own daily life; and landscape painting — autumn's leaf carpet with near trees bigger and far trees smaller, leafless trees and winter in gouache, and spring's rainbow (Turkmenistan student book).
 3. **Music** — the ear and the voice: sounds around us, naming
    sounds, the songs (animals, family, nature, movement, festivals,
    school, counting, clean living, our country, colours), the
@@ -365,7 +365,7 @@ The titles, in ladder order:
    percussion instruments of India and of Africa; program
    music — Peter and the Wolf; and Charles Camilleri and
    the Malta Suite (Malta teacher guides, evidence).
-
+ The Art expansion added: bagshy and sazanda — Turkmen music's people by role, the kompozitor, şahyr, bagshy, sazanda, ýerine ýetiriji and diňleýji; Turkmen national instruments — dutar, gyjak, gargy tüýdük, dilli tüýdük and gopuz, pictured before any world instrument; and Tchaikovsky for children — the Children's Album pieces and the Waltz of the Snowflakes from The Nutcracker (Turkmenistan student books, Turkmen and Russian tracks).
 4. **Drama and Dance** — the body: how things, animals and people
    move; playing family roles; acting together; playing a person;
    theatre on a stage; acting our history; circle dances and
@@ -467,7 +467,7 @@ The titles, in ladder order:
    ballet — a story told in dance, met through
    Tchaikovsky's Nutcracker: Clara, the Mouse King battle
    and the Land of Sweets (Malta teacher guide, evidence).
-
+ The Art expansion added: Kushtdepdi — the Turkmen folk dance, taught by listening to its music, saying how it sounds, and performing its movements, with its music printed in the book's appendix in Durdy Nuryýew's arrangement (Turkmenistan student book, Russian track).
 5. **Culture and Values** — the arts as a people's memory:
    traditional dress then and now, houses then and now, the
    festivals and their arts (Meskel, Timket, Arafa, Genna, New

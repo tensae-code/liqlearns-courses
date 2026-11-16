@@ -1,6 +1,6 @@
 # Sources — Songs of Our Country
 
-countries: Ethiopia, Albania
+countries: Ethiopia, Albania, Turkmenistan
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -12,6 +12,10 @@ countries: Ethiopia, Albania
 
 **Book 5:** *Libër mësuesi Muzikë 6 (Libër mësuesi Muzika 6)* (teacher guide, Albanian) — Albania, Shtëpia Botuese Mediaprint, 2015, reprint 2019, ISBN 978-9928-08-202-2, Grade 6, 85 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Fetched from the recorded Mediaprint source URLs after the GitHub grab route disconnected twice (RemoteDisconnected); byte size matches the record exactly. Covers/title pages verified against the record title (p. 1 is the publisher's web page, title/imprint on printed pp. 3–4). Exclusions named in the placements: portfolio/assessment-level sections (printed pp. 79–85) are assessment apparatus with no new teaching content — not placed; the Revision/Questionnaire lessons in the annual plan are revision — not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/albania-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
+**Book 6:** *Aýdym-saz — Umumy orta bilim berýän mekdepleriň I synpy üçin okuw kitaby (Music and Singing, textbook for Grade 1 of general secondary schools), Üçünji neşir (3rd edition)* (student book, Turkmen) — Turkmenistan, by R. Amangeldiýew, K. Garowow; Türkmen döwlet neşirýat gullugy (Turkmen State Publishing Service), Ashgabat, 2019, no ISBN printed (UOK/KBK codes only), Grade 1, 80 PDF pp. STUDENT. Recommended by the Ministry of Education of Turkmenistan. Verdict: COMPLETE (title page verified against the record title; fetched with grab.py tree, 4,729,163 bytes and 80 pages, both matching the record). Excluded per the placements: the end-of-section "Soraglar" question sets and "Gönükme" exercises are the book's own apparatus, named here, not placed; the State Anthem is printed in the front matter and is placed once as a song of the country, by title only. All songs are placed by title, subject and composer/poet only — never lyrics. Placements at liqlearns-courses-work/expansion-art-2026-11-16/turkmenistan-placements.md.
+
+**Book 7:** *Музыка и пение — Учебник для 1 класса с русским языком обучения общеобразовательных средних школ (Music and Singing, textbook for Grade 1 with Russian language of instruction), Издание четвёртое (4th edition)* (student book, Russian) — Turkmenistan, by L. Afonova, E. Volkova; Туркменская государственная издательская служба (Turkmen State Publishing Service), Ashgabat, 2022, no ISBN printed (UDK/BBK codes only), Grade 1, 104 PDF pp. STUDENT. Recommended by the Ministry of Education of Turkmenistan. Verdict: COMPLETE. A parallel-track book, not a translation of Book 1 of this country's set: different authors and mostly different songs, though two songs (Aglama, gurjak; Aýterek-günterek) appear in both, in the notation appendix here. The repo tree path is a PHANTOM PUSH — grab.py tree returned HTTP 404 — so the book was fetched from the recorded kitaphana.bilim.tm source via the library's own API file link; 27,218,175 bytes and 104 pages, both matching the record exactly. Downloaded copy staged under the push-don't-delete rule at the phase3-staging record path. Excluded per the placements: the closing "Повторение" (Revision, printed p. 52) — the book's own revision lesson, named here, not placed; all songs placed by title/subject/composer only, never lyrics. Placements at liqlearns-courses-work/expansion-art-2026-11-16/turkmenistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — "ሀገራችን" (Our Country), with the book's flag drawing | Grade 3 student textbook, printed p. 13 |
@@ -21,8 +25,10 @@ countries: Ethiopia, Albania
 | Sub lesson 3 — "ሙዚቃ" (Music) (A Song About Music Itself), with the appreciation activity | Grade 2 student textbook, §4.1, printed p. 64 |
 | Sub lesson 1 (teacher guide — evidence, section level): the cultural value of Ethiopian song — what the community's songs carry and why they matter | Grade 2 teacher guide, §3.2, printed pp. 44–45 |
 | Albania — Patriotic and partisan songs — the patriotic song "Për mëmëdhenë" and the partisan song "Malet me blerim mbuluar" sung for Independence and Liberation (songs placed by name and purpose only, never transcribed) (teacher guide — evidence) | Book 5, printed p. 21 |
+| Turkmenistan — "Türkmenistan Diýarym" (Turkmenistan, My Country; music Aşyr Abdyllaýew, words Tirkeş Sadykow) — a song of the independent, neutral homeland, its cotton, horses and carpets (summary only); the State Anthem of Turkmenistan is printed at the front of the book (student book; original target `music/songs-of-our-country`) | Book 6, printed pp. 9, 49 |
+| Turkmenistan — the homeland songs of the appendix: "Родной напев" (Native Tune; music Suhan Tuýliýew), "Родной край" (Native Land; words Kaýum Taňrygulyýew, music Weli Ahmedow) and "Виноград" (Grapes), with the State Anthem of Turkmenistan opening the notation appendix (summaries only) (student book; original target `music/songs-of-our-country`) | Book 7, printed pp. 54, 66, 93, 96 |
 
-**Acceptance count: taught in 1 country (Ethiopia).** Albania is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 2 countries (Ethiopia, Turkmenistan).** Albania is added as teacher guide — evidence only, kept outside the acceptance count.
 
 The Grade 2 teacher guide is a scan with no text layer, read visually at section level; its part here is cited at section level only and labelled evidence, exactly as its placements file states. Work songs are named by their work and purpose only — their lyrics are not transcribed, as the placements direct.
 

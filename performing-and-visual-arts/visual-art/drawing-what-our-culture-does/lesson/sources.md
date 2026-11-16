@@ -1,7 +1,7 @@
 # Sources — Drawing What Our Culture Does
 
 
-countries: Ethiopia, Guatemala, Bhutan
+countries: Ethiopia, Guatemala, Bhutan, Turkmenistan
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -9,14 +9,17 @@ countries: Ethiopia, Guatemala, Bhutan
 
 **Book 3:** *Arts Education — Student's Workbook for Class III* (student book, English) — Bhutan, Department of School Education (DSE), Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu, © 2023, reprint 2024, ISBN 178-99936-0-414-3 (as printed), Class III, 32 PDF pp. STUDENT — student's workbook. Verdict: COMPLETE. Byte size 6,328,406 and MD5 match the record exactly; cover verified against the record title; fetched with grab.py (release route — the book lives in GitHub Releases), read in full as text in the 2026-11-16 Art expansion read, PDF deleted after filing. Placements at liqlearns-courses-work/expansion-art-2026-11-16/bhutan-placements.md.
 
+**Book 4:** *Surat — Umumy orta bilim berýän mekdepleriň I synpy üçin okuw kitaby (Art — textbook for Grade 1 of general secondary schools), Dördünji neşir (4th edition)* (student book, Turkmen) — Turkmenistan, by Wepa Amangeldiýew, Döwletgeldi Akyýew; Türkmen döwlet neşirýat gullugy (Turkmen State Publishing Service), Ashgabat, 2022, no ISBN printed, Grade 1, 80 PDF pp. STUDENT. Recommended by the Ministry of Education of Turkmenistan. Verdict: COMPLETE. Title page verified against the record title; the repo tree path is a PHANTOM PUSH — grab.py tree returned HTTP 404 — so the book was fetched from the recorded kitaphana.bilim.tm source via the library's own API file link; 79,070,978 bytes and 80 pages, both matching the record exactly. Downloaded copy staged under the push-don't-delete rule at the phase3-staging record path. Excluded per the placements: the four "Umumylaşdyryjy/Jemleýji sapak" (generalising/final review lessons, printed pp. 23, 40, 60, 76) — the book's own review lessons, named here; their questions are not placed, though their standing exhibition task is placed once as sharing practice. The short verses printed inside lessons (by Atamyrat Atabaýew, Berdi Kerbabaýew, Tagan Söhbedow, Ýagmyr Pirgulyýew) belong to the language course and are not placed here. Placements at liqlearns-courses-work/expansion-art-2026-11-16/turkmenistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The four pictured practices — threshing, dancing, genna, coffee roasting | Ethiopia, *Grade 1 Performing and Visual Arts Student Textbook*, §4.4, printed pp. 64–65 (Exercise 11, printed p. 64) |
 | Expressing feelings in drawing | Ethiopia, *Grade 1 Performing and Visual Arts Student Textbook*, §4.4, printed pp. 64–65 |
 | Guatemala — Representing the expressions of one's own culture through drawing — Experiencia 2 (Grade 4) (theme level; activity pages not in this PDF) (teacher guide — evidence; original target `visual-art/drawing-what-our-culture-does`) | Book 2, printed p. 23 |
 | Bhutan — Lesson 13, Memorable Moments — draw and paint a memorable day of your own life — a picnic, a trek, tshechu, losar — and talk about the artwork | Book 3, printed p. 13 |
+| Turkmenistan — 3.9 "Milli bahar baýramy" (The National Spring Holiday) — the people celebrate the spring holiday (Nowruz) with special dishes; draw a decorative picture of the holiday and give it to your loved ones as a gift (student book; original target `visual-art/festivals-and-celebrations-in-art`) | Book 4, printed pp. 58–59 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Bhutan). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.**
+**Acceptance count: taught in 3 countries (Ethiopia, Bhutan, Turkmenistan). Guatemala is added as teacher guide (PARTIAL) — evidence only, kept outside the acceptance count.**
 
 No honesty flags attach to this placement; it is followed exactly as read. Exercise 11's questions (when traditional dress is worn, and what it is for) are carried as part of the drawing work, as placed; the dress itself is taught in the Culture and Values unit's Traditional Dress lesson.
 

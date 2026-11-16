@@ -1,15 +1,18 @@
 # Sources — Digital and Computer Art
 
-countries: Maldives
+countries: Maldives, Turkmenistan
 
 **Book 1:** *Exploring Creative Arts 4* (student book, English) — Maldives, National Institute of Education, Ministry of Education, Malé, Maldives; © 2025, first published 2025; ISBN 978-99915-0-956-3 (paperback); development editor Shirumeen Ahmed; printed by M7 Print Pvt. Ltd. Based on the Creative Arts in the National Curriculum syllabus, 2022. 93 PDF pp (printed pp. 1–81 plus acknowledgements and back cover; cover verified — two children painting at easels). Verdict: COMPLETE. Read in full as extracted text in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/maldives-placements.md. The book's glossary (printed pp. 79–81) is inventory only, named here and never stocked as parts.
+
+**Book 2:** *Surat — Umumy orta bilim berýän mekdepleriň I synpy üçin okuw kitaby (Art — textbook for Grade 1 of general secondary schools), Dördünji neşir (4th edition)* (student book, Turkmen) — Turkmenistan, by Wepa Amangeldiýew, Döwletgeldi Akyýew; Türkmen döwlet neşirýat gullugy (Turkmen State Publishing Service), Ashgabat, 2022, no ISBN printed, Grade 1, 80 PDF pp. STUDENT. Recommended by the Ministry of Education of Turkmenistan. Verdict: COMPLETE. Title page verified against the record title; the repo tree path is a PHANTOM PUSH — grab.py tree returned HTTP 404 — so the book was fetched from the recorded kitaphana.bilim.tm source via the library's own API file link; 79,070,978 bytes and 80 pages, both matching the record exactly. Downloaded copy staged under the push-don't-delete rule at the phase3-staging record path. Excluded per the placements: the four "Umumylaşdyryjy/Jemleýji sapak" (generalising/final review lessons, printed pp. 23, 40, 60, 76) — the book's own review lessons, named here; their questions are not placed, though their standing exhibition task is placed once as sharing practice. The short verses printed inside lessons (by Atamyrat Atabaýew, Berdi Kerbabaýew, Tagan Söhbedow, Ýagmyr Pirgulyýew) belong to the language course and are not placed here. Placements at liqlearns-courses-work/expansion-art-2026-11-16/turkmenistan-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Posterisation: colours and tones used as separate shapes of flat colour; numbering a portrait's tones from lightest to darkest, mixing tints and shades of one colour, and painting a posterised portrait — the book's example honours Shaheed Hussain Adam (original target `visual-art/posterisation`) | Book 1, Unit 4: Separate Tones, printed pp. 13–16 |
 | Sub lesson 2 — Designing a character digitally: building a character shape by shape with a word processor's shapes, filling colour, grouping parts, sending shapes to the back, rotating, and finishing it as a poster with a message (original target `visual-art/the-digital-image`) | Book 1, Unit 11, printed pp. 48–49 |
+| Turkmenistan — 3.7–8 "Kompýuterde surat çekmek" (Drawing on the computer) — open the PAINT program and learn its tools (pencil, brush, eraser, simple shapes), then draw flowers, trees and insects with them (student book; original target `visual-art/digital-and-computer-art`) | Book 2, printed pp. 54–57 |
 
-**Acceptance count: taught in 1 country (Maldives).**
+**Acceptance count: taught in 2 countries (Maldives, Turkmenistan).**
 
 This is a canonical NEW lesson (slug-registry Part 1: `visual-art/digital-and-computer-art`); the two Maldives placements were filed under the original strings `visual-art/posterisation` and `visual-art/the-digital-image`, recorded in the provenance rows above.
 

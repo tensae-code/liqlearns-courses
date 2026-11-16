@@ -1,6 +1,6 @@
 # Sources — Festivals and Their Arts
 
-countries: Ethiopia, Jamaica, Honduras, Albania, Trinidad and Tobago
+countries: Ethiopia, Jamaica, Honduras, Albania, Trinidad and Tobago, Turkmenistan
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -15,6 +15,8 @@ countries: Ethiopia, Jamaica, Honduras, Albania, Trinidad and Tobago
 **Book 6:** *Libër mësuesi Arti Pamor 9* (teacher guide, Albanian) — Albania, Shtëpia Botuese Mediaprint, 2018, ISBN 978-9928-08-354-8, Grade 9, 67 PDF pp. TEACHER — teacher guide. Verdict: COMPLETE. Fetched from the recorded Mediaprint source URLs; byte size matches the record exactly. Cover/title page verified against the record title. Exclusions named in the placements: the term tests (printed section 6) are assessment — named, not placed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/albania-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
 
 **Book 7:** *Secondary School Curriculum — THE VISUAL AND PERFORMING ARTS (VAPA) Curriculum Guide* (curriculum guide, English) — Trinidad and Tobago, Ministry of Education, Curriculum Development Division, Rudranath Capildeo Learning Resource Centre, Couva, 2014; no ISBN printed, Forms 1–3 (Grades 7–9), 195 PDF pp. TEACHER — curriculum guide. Verdict: COMPLETE — Part 1 (national curriculum framework, policies) is general-education apparatus, named here and not placed; the per-subject curriculum content (Dance printed pp. 55–67, Drama pp. 76–101, Music pp. 109–132, Visual Arts pp. 140–184) is placed at framework level, the four Teacher's Guides carrying the same content in lesson form. Read in full via its recorded ministry source_url in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/trinidad-and-tobago-placements.md. **Curriculum guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 8:** *Aýdym-saz — Umumy orta bilim berýän mekdepleriň I synpy üçin okuw kitaby (Music and Singing, textbook for Grade 1 of general secondary schools), Üçünji neşir (3rd edition)* (student book, Turkmen) — Turkmenistan, by R. Amangeldiýew, K. Garowow; Türkmen döwlet neşirýat gullugy (Turkmen State Publishing Service), Ashgabat, 2019, no ISBN printed (UOK/KBK codes only), Grade 1, 80 PDF pp. STUDENT. Recommended by the Ministry of Education of Turkmenistan. Verdict: COMPLETE (title page verified against the record title; fetched with grab.py tree, 4,729,163 bytes and 80 pages, both matching the record). Excluded per the placements: the end-of-section "Soraglar" question sets and "Gönükme" exercises are the book's own apparatus, named here, not placed; the State Anthem is printed in the front matter and is placed once as a song of the country, by title only. All songs are placed by title, subject and composer/poet only — never lyrics. Placements at liqlearns-courses-work/expansion-art-2026-11-16/turkmenistan-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -31,8 +33,9 @@ countries: Ethiopia, Jamaica, Honduras, Albania, Trinidad and Tobago
 | Albania — Museum-cities, exhibitions and cultural events — Albania's museum-cities and their traditional architecture as heritage, and exhibitions and art projects in class, school and community (teacher guide — evidence) | Book 6, printed p. 6 |
 
 | Trinidad and Tobago — Integrated Arts themes (Form 2) — festivals named as ready-made integrated themes: Christmas, Republic Day, Emancipation, Divali, Phagwa, Eid ul Fitr, Hosay, Ramleela and Carnival, each already joining visual art, drama, music and dance (curriculum guide — evidence) | Book 7, printed p. 35 |
+| Turkmenistan — "Nowruz" (music Aşyr Abdyllaýew, words Araznury Ataýew) — the Nowruz festival song: Nowruz is the beginning of the new and the end of the old, the source of hopes, and its good customs pass to the generations (summary only) (student book; original target `culture-and-values/festivals-and-their-arts`) | Book 8, printed p. 69 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Honduras).** Jamaica is added as teacher curriculum guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 3 countries (Ethiopia, Honduras, Turkmenistan).** Jamaica is added as teacher curriculum guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count.
 
 Citation fix (PVA coverage audit §4, G3S-64): the Genna game song 'አሲና በል' (Asina Bel) stands on printed p. 54 in the Grade 3 book; this lesson previously folded it under the Arafa-and-Genna citation at printed p. 53. The row above now cites its own page, printed p. 54. The song is placed by name and purpose only — a call-and-response game song of the Genna game — and is never transcribed.
 

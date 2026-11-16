@@ -1217,7 +1217,76 @@ lessons are the books'.
   city, the craft life-cycle, and Sápmi's eight seasons with
   shoe-hay, the fire-fox and the string-painted aurora.
 
-**The whole course stands at 346 lessons, 4,826 questions and
+- **Art expansion — Turkmenistan — BUILT 2026-11-16:** 66 placements
+  stocked, reconciled against the placements file's own
+  tallies (Book 1 Aýdym-saz, Turkmen track: 26, Book 2
+  Музыка и пение, Russian track: 20, Book 3 Surat: 20 = 66):
+  53 into existing and already-built canonical lessons
+  (What the Arts Are ×3; School Songs ×3; Sounds Around Us
+  ×3; Songs of Nature ×3; Appreciating the Arts ×3; Notes
+  and Rests ×2; Kinds of Traditional Music ×2; Movement
+  Songs ×2; The Elements of Music ×2; Faster Notes,
+  Dynamics and Tempo ×2; Modern Instruments ×2; Traditional
+  and Festival Songs ×2; Songs of Our Country ×2; Family
+  Songs ×2; Drawing: The Foundation Skill ×5 — three of
+  them filed under drawing-from-observation, one under
+  drawing-my-home-and-community and one under
+  drawing-animals-and-insects; Making with Clay and Paper
+  ×2 — from modelling-with-clay; and one each into
+  Traditional Games, Reading Music on the Staff, Counting
+  Songs, How the Arts Belong Together, Animal Songs,
+  Festivals and Their Arts, Reading the Beat, Circle
+  Dances and Traditional Steps, Emblems and Posters That
+  Speak — from national-symbols-in-art, Decorating Home
+  and Environment — from making-decorations, Making with
+  Paper and Pieces — from greeting-cards-and-gifts,
+  Digital and Computer Art, and Drawing What Our Culture
+  Does — from festivals-and-celebrations-in-art), 10 NEW
+  lessons (First Steps: Getting Started With Drawing
+  Tools — from my-first-art-tools; Sharing and Exhibiting
+  Our Art — from showing-and-sharing-our-art; Visual Art:
+  Turkmen Nagysh Ornament; Patchwork and Appliqué — from
+  collage-and-applique; Drawing from Imagination;
+  Landscape Painting ×3 — from landscapes-and-seasons;
+  Music: Bagshy and Sazanda; Turkmen National Instruments
+  ×2; Tchaikovsky for Children; Drama and Dance:
+  Kushtdepdi: Turkmen Folk Dance), 90 questions added,
+  media as described slots only. DIFFERENCE EXPLAINED:
+  the placements file tallied 60 to existing lessons and
+  6 NEW LESSON NEEDED lines; the slug registry Part 2
+  resolves 7 of the file's Book 3 'existing' lines to
+  canonical NEW lessons not yet built (Getting Started
+  With Drawing Tools ×1, Sharing and Exhibiting Our Art
+  ×1, Patchwork and Appliqué ×1, Drawing from
+  Imagination ×1, Landscape Painting ×3) — so 53
+  placements went to lessons that already existed, 13 to
+  new lessons, and the total of 66 reconciles exactly.
+  Honesty carried exactly as filed: all three books are
+  STUDENT books, COMPLETE, so Turkmenistan enters every
+  stocked lesson's acceptance count (the 10 new lessons
+  stand at acceptance count 1, Turkmenistan). Books 2
+  and 3 are PHANTOM PUSHES — their repo tree paths
+  returned HTTP 404; both were fetched byte-exact from
+  their recorded kitaphana.bilim.tm source_urls via the
+  library's own API file link and are staged under the
+  push-don't-delete rule, as the book entries record.
+  Songs are placed by title, subject and composer/poet
+  only, never transcribed. Excluded as filed, named in
+  the book entries, not placed: Book 1's Soraglar /
+  Gönükme apparatus; Book 2's Повторение revision lesson
+  (printed p. 52); Book 3's four review lessons (printed
+  pp. 23, 40, 60, 76 — only their standing exhibition
+  task is placed) and its in-lesson verses, which belong
+  to the language course. Turkmenistan's own way is kept
+  as named parts: the bagshy and sazanda, the dutar,
+  gyjak, gargy tüýdük, dilli tüýdük and gopuz, the
+  Kushtdepdi dance, the cotton boll called "ak altyn"
+  (white gold), the State Emblem in coloured paper,
+  New Year toys decorated with national nagyş, every
+  nagyş pattern with its own name, and Nowruz drawn
+  and sung in both music and art books.
+
+**The whole course stands at 356 lessons, 4,916 questions and
 203 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 

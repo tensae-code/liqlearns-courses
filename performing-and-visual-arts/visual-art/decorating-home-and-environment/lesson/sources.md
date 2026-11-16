@@ -1,12 +1,14 @@
 # Sources — Decorating Home and Environment
 
-countries: Ethiopia, Haiti, Finland
+countries: Ethiopia, Haiti, Finland, Turkmenistan
 
 **Book 1:** *Performing and Visual Arts, Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors ማስተዋል ጌታ ማስረሻ (Mastewal Geta Masresha) and ዮሐንስ ታደሰ በትሬ (Yohannes Tadesse Betre). Printed pp. i–vi + 1–170. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g07-student-placements.md.
 
 **Book 2:** *EEA — Programme du 3e cycle (7e à 9e AF) — Éducation Esthétique et Artistique (EEA)* (teacher programme, French) — Haiti, Ministère de l'Éducation Nationale et de la Formation Professionnelle (MENFP), Direction Enseignement Fondamental (DEF), 2024 (« version définitive, 28 juillet 2024 » per the record; cover marked Tous Droits Réservés 2024–2025), no ISBN printed, Grades 7e à 9e AF combined, French, 63 PDF pp (3,278,166 bytes, matching the record's size_bytes). TEACHER — teacher programme. Verdict: COMPLETE — read in place in staging (cover verified against the record title — EEA programme cover, 3e cycle 7e à 9e AF). The common part for all subjects (PDF pp. 1–22) is out of scope and was not placed. Read in the 2026-11-16 Art expansion read. Placements at liqlearns-courses-work/expansion-art-2026-11-16/haiti-placements.md. **Teacher programme — EVIDENCE only, kept outside the acceptance count.**
 
 **Book 3:** *AJATUSVIIVOJA — Päivän biisi (Song of the Day)* (student workshop material, Finnish) — Finland, University of Jyväskylä / JYUniorit, AJATUSVIIVOJA project, Mether-Borgström Foundation, 2022, no ISBN printed, Preschool / Eskarit, 7 PDF pp. STUDENT — workshop pack. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-art-2026-11-16/finland-placements.md.
+
+**Book 4:** *Surat — Umumy orta bilim berýän mekdepleriň I synpy üçin okuw kitaby (Art — textbook for Grade 1 of general secondary schools), Dördünji neşir (4th edition)* (student book, Turkmen) — Turkmenistan, by Wepa Amangeldiýew, Döwletgeldi Akyýew; Türkmen döwlet neşirýat gullugy (Turkmen State Publishing Service), Ashgabat, 2022, no ISBN printed, Grade 1, 80 PDF pp. STUDENT. Recommended by the Ministry of Education of Turkmenistan. Verdict: COMPLETE. Title page verified against the record title; the repo tree path is a PHANTOM PUSH — grab.py tree returned HTTP 404 — so the book was fetched from the recorded kitaphana.bilim.tm source via the library's own API file link; 79,070,978 bytes and 80 pages, both matching the record exactly. Downloaded copy staged under the push-don't-delete rule at the phase3-staging record path. Excluded per the placements: the four "Umumylaşdyryjy/Jemleýji sapak" (generalising/final review lessons, printed pp. 23, 40, 60, 76) — the book's own review lessons, named here; their questions are not placed, though their standing exhibition task is placed once as sharing practice. The short verses printed inside lessons (by Atamyrat Atabaýew, Berdi Kerbabaýew, Tagan Söhbedow, Ýagmyr Pirgulyýew) belong to the language course and are not placed here. Placements at liqlearns-courses-work/expansion-art-2026-11-16/turkmenistan-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -15,8 +17,9 @@ countries: Ethiopia, Haiti, Finland
 
 | Haiti — Unité 3, La décoration — decoration and interior design (design intérieur) as visual art — the relations between design, decoration and craft (teacher programme — evidence) | Book 2, PDF pp. 38, 47–48 |
 | Finland — Lesson 2: The pot chain display — piercing the decorated pots, threading them on string into chains against coloured card backings to create moods, and hanging the chains in a place the children choose (student workshop material) | Book 3, printed p. 6 |
+| Turkmenistan — 2.8 "Täze ýyl arçasy" (The New Year tree) — gluing (ýelimlemek): make the New Year tree's shape from coloured paper — with 3.3 "Meniň oýnawaçlarym" (My toys), decorative work on one's own toys (student book; original target `visual-art/making-decorations`) | Book 4, printed pp. 38–39, 45–47 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Finland).** Haiti is added as teacher programme — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 3 countries (Ethiopia, Finland, Turkmenistan).** Haiti is added as teacher programme — evidence only, kept outside the acceptance count.
 
 Honesty notes: The book's two Chapter 5 figures (paths and garden places; the ceramic interior) are described in words only, never copied. The festival-and-rains beautifying, and the soils/cattle-products/ash "paint", are taught exactly as the placement records them.
 

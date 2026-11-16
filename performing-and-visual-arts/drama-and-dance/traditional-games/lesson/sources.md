@@ -1,6 +1,6 @@
 # Sources — Traditional Games
 
-countries: Ethiopia, Iceland
+countries: Ethiopia, Iceland, Turkmenistan
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -9,6 +9,8 @@ countries: Ethiopia, Iceland
 **Book 3:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
 **Book 4:** *Dægurspor: Kennsluleiðbeiningar (teacher guide, Icelandic)* (teacher guide) — Iceland, no publisher, year or ISBN printed in the guide (first page is the contents list), Grade 5, Icelandic, 79 PDF pp. TEACHER — teacher's guide to the Dægurspor set: student book, listening material, teacher guide and web tasks; the guide itself addresses compulsory-school music teachers (tónmennt). Verdict: COMPLETE. Read in full as text in the 2026-11-16 Art expansion read; fetched with grab.py from the pushed tree, PDF deleted after filing. The closing Listi yfir hlustunarefni (listening-material catalogue, printed pp. 73–79) is inventory-only, named here, never stocked as parts; the songs whose notation and words the guide prints are placed by their teaching topics, never transcribed. Placements at liqlearns-courses-work/expansion-art-2026-11-16/iceland-placements.md. **Teacher guide — EVIDENCE only, kept outside the acceptance count.**
+
+**Book 5:** *Aýdym-saz — Umumy orta bilim berýän mekdepleriň I synpy üçin okuw kitaby (Music and Singing, textbook for Grade 1 of general secondary schools), Üçünji neşir (3rd edition)* (student book, Turkmen) — Turkmenistan, by R. Amangeldiýew, K. Garowow; Türkmen döwlet neşirýat gullugy (Turkmen State Publishing Service), Ashgabat, 2019, no ISBN printed (UOK/KBK codes only), Grade 1, 80 PDF pp. STUDENT. Recommended by the Ministry of Education of Turkmenistan. Verdict: COMPLETE (title page verified against the record title; fetched with grab.py tree, 4,729,163 bytes and 80 pages, both matching the record). Excluded per the placements: the end-of-section "Soraglar" question sets and "Gönükme" exercises are the book's own apparatus, named here, not placed; the State Anthem is printed in the front matter and is placed once as a song of the country, by title only. All songs are placed by title, subject and composer/poet only — never lyrics. Placements at liqlearns-courses-work/expansion-art-2026-11-16/turkmenistan-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -22,8 +24,9 @@ countries: Ethiopia, Iceland
 | Sub lesson 5 — Playing with traditional things | Grade 1 Student Textbook, §4.2, printed pp. 61–62 |
 
 | Iceland — Minstrel shows and the cakewalk: the cakewalk, the enslaved people's dance-game on the Southern plantations, played in class to lively ragtime in fancy dress, with a cake for a prize as in the old days (teacher guide — evidence) | Book 4, printed p. 18 |
+| Turkmenistan — "Aýterek-günterek" (words from folk art; music Kerimguly Garowow) — a sung game for two groups who call and answer each other, choosing a singing girl (summary only) (student book; original target `drama-and-dance/traditional-games`) | Book 5, printed p. 31 |
 
-**Acceptance count: taught in 1 country (Ethiopia).** Iceland is added as teacher guide — evidence only, kept outside the acceptance count.
+**Acceptance count: taught in 2 countries (Ethiopia, Turkmenistan).** Iceland is added as teacher guide — evidence only, kept outside the acceptance count.
 
 Per STRUCTURE.md, the Practical Exercises chapter opener stocks into this lesson as its opening part; the opener's other strands (notes on drums, colour mixing, calligraphy, leaf printing) belong to their own lessons and are not stocked here, and its Review fold is carried by those same lessons. The games' songs (the Dimbushe Gela song, the Qilmosh counting song beyond the one refrain line the placement itself quotes, and ገመድ ዝለሉ Gemed Zilelu) are placed by name and shape only; verses are not transcribed.
 
