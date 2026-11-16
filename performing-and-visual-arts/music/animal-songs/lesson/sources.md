@@ -1,6 +1,6 @@
 # Sources — Animal Songs
 
-countries: Ethiopia, Turkmenistan, Belarus, Jordan, Libya, Angola
+countries: Ethiopia, Turkmenistan, Belarus, Jordan, Libya, Angola, Mongolia
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 73 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -21,7 +21,13 @@ countries: Ethiopia, Turkmenistan, Belarus, Jordan, Libya, Angola
 | Belarus — Part 1, "In a good fairy-tale land": the folk song of the sparrow who built his little house, Kortes's "Dance of the Fairy" for listening, and the song of friends (words Klimkovich, music Voitsik) (student book; original target `music/animal-songs`) | Book 3, printed pp. 26–30 |
 | Angola — G1 Tema 1.3 Canções populares locais e escolares: animal songs — the ducklings swimming in line, the frog, the rabbit in its burrow (student book; original target `music/animal-songs`) | Book 6, printed pp. 12–14 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Turkmenistan, Belarus, Jordan, Angola).** Libya is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 7:** *ХӨГЖИМ III (Music III)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports, Ulaanbaatar; ISBN 978-99973-69-67-3 (content 2014 series, Х-545). Grade 3 (student book: STUDENT). PDF pages: 70 assembled pages (contents page read in full; the book's own imprint page verified). Verdict: COMPLETE — a solfège year: the notes taught one by one (До, Ре, Ми, Фа, Соль, Ля, Си) inside some 50 songs and pieces (all named only); this is the year children begin playing the бишгүүр (bishguur, the Mongolian end-blown flute). Standing exclusions named: Өөрийгөө сориорой (Test yourself), printed pp. 20, 35, 68 — pure assessment, not placed. The recorded source is an econtent.edu.mn flipbook viewer page (not a direct PDF); the book was assembled page-by-page from the publisher's own page images served by that viewer, verified (assembled page count + cover looked at), read, and staged under the push-don't-delete rule; because the staged file is an assembly of the publisher's page images, its byte size differs from the size recorded for the publisher's own PDF; the printed book is identical. Placements at liqlearns-courses-work/expansion-art-2026-11-16/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia — the animal songs: Хоёр ишиг (two kids), Сүхийн цагаан морь (the white horse), Тахиа (the hen), Чардаш... and Хургатай хонь (the sheep with its lamb) — named only (student book; original target `music/animal-songs`) | Book 7, printed pp. 9, 10, 31, 53 |
+
+**Acceptance count: taught in 6 countries(Ethiopia, Turkmenistan, Belarus, Jordan, Angola, Mongolia).** Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
 
 The placements name these songs, their givers and their sound-moments only; no lyrics are transcribed anywhere in this lesson, and none are claimed. The Grade 1 lamb placement asks for a GIF of a lamb bleating, mouth moving; that motion was judged a failed-motion risk (a drawn mouth cannot bleat truly) and was NOT filed — the bleating moment is carried by the described AUDIO slot instead, and the board picture covers the visual slot.
 

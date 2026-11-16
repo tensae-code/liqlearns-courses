@@ -1,6 +1,6 @@
 # Sources — Music in Society
 
-countries: Ethiopia, Andorra, Iceland, Cuba
+countries: Ethiopia, Andorra, Iceland, Cuba, Mongolia
 
 **Book 1:** *Grade 4 Performing and Visual Arts Teacher Guide (፬ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed pp. i–iii + body to printed p.62 + syllabus to printed p.93. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-teacher-placements.md.
 
@@ -20,7 +20,13 @@ countries: Ethiopia, Andorra, Iceland, Cuba
 | Iceland — Argentine tango lyrics: two tangos, two worlds — Malena sings the sorrow (tristeza) of the hard La Boca quarter; Por Una Cabeza belongs to the finest salons (and a famous film tango scene) (teacher guide — evidence) | Book 3, printed p. 24 |
 | Iceland — The Great Depression: songs of the crash — Bing Crosby's Brother, Can You Spare a Dime? read line by line, and Disney's Big Bad Wolf as the Depression itself, with the pigs' answer standing for Roosevelt's New Deal (teacher guide — evidence) | Book 3, printed p. 41 |
 
-**Acceptance count: taught in 1 country (Cuba). Earlier evidence-only entries stay outside the acceptance count. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Iceland is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 7:** *ХӨГЖИМ VIII–IX (Music VIII–IX)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2019; no ISBN printed on the pages read. Grade 8 (student book: STUDENT) — this record is the Grade 8 book: one volume carrying Grade 8 (printed pp. 7–67) and Grade 9; the placements stocked from it are the Grade 8 part; the Grade 9 part (modern music movements, per the preface) is named in the placements, not placed under this record. PDF pages: 139 assembled pages (cover verified; Grade 8 contents page read in full). Verdict: COMPLETE for the Grade 8 part. Standing exclusions named: the self-tests and knowledge-check questions (Өөрийгөө сориорой, Сонсголын сорил, Мэдлэг сорих асуулга) at printed pp. 17, 28, 43–45 — pure assessment, not placed. Works named only. The recorded source is an econtent.edu.mn flipbook viewer page (not a direct PDF); the book was assembled page-by-page from the publisher's own page images served by that viewer, verified (assembled page count + cover looked at), read, and staged under the push-don't-delete rule; because the staged file is an assembly of the publisher's page images, its byte size differs from the size recorded for the publisher's own PDF; the printed book is identical. Placements at liqlearns-courses-work/expansion-art-2026-11-16/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia — Chapter 1 opener: opera as the art where music, poetry, theatre, dance and visual art join — and its place in world culture (Covent Garden, Bolshoi, Sydney, La Scala, the Met and Mongolia's own State Academic Theatre of Opera and Ballet pictured) (student book; original target `culture-and-values/music-in-society`) | Book 7, printed p. 7 |
+
+**Acceptance count: taught in 2 countries(Cuba, Mongolia). Earlier evidence-only entries stay outside the acceptance count. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count.** Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This lesson rests only on the Grade 4 teacher guide's society chapter (printed pp. 47–56), labelled teacher-guide evidence throughout. Songs are named and their functions taught; no lyrics are transcribed.
 

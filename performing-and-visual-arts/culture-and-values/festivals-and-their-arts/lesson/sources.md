@@ -1,6 +1,6 @@
 # Sources — Festivals and Their Arts
 
-countries: Ethiopia, Jamaica, Honduras, Albania, Trinidad and Tobago, Turkmenistan, Fiji, Bulgaria, Venezuela
+countries: Ethiopia, Jamaica, Honduras, Albania, Trinidad and Tobago, Turkmenistan, Fiji, Bulgaria, Venezuela, Mongolia
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -43,7 +43,13 @@ countries: Ethiopia, Jamaica, Honduras, Albania, Trinidad and Tobago, Turkmenist
 | Venezuela — Manifestaciones colectivas: collective manifestations — ceremonial, festive and productive expressions of groups who share a history: the Fiesta de San Juan, the Quema de Judas, the Cruz de Mayo and the Warime, a dance inspired by Piaroa tradition (student book) | Book 14, printed pp. 136–137 |
 | Venezuela — Sentido estético de los pueblos de Latinoamérica y el Caribe: the deepest aesthetic sense of the peoples of Latin America and the Caribbean expressed in their traditional festivals — the ornamentation of the spaces, the design and making of costumes, body painting, music and theatricality in the fiesta (Oruro, the Fiesta del Sol, the Day of the Dead) (student book) | Book 15, printed p. 246 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Honduras, Turkmenistan, Bulgaria, Venezuela).** Jamaica is added as teacher curriculum guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 16:** *ХӨГЖИМ IV (Music IV), Ерөнхий боловсролын сургуулийн 4 дүгээр ангийн сурах бичиг* (student book, Mongolian) — Mongolia, by Оюунбилэг Ч. and others, ed. Баттогоо Ш.; Ministry of Education, Culture, Science and Sports, Ulaanbaatar; content year 2014 (67 printed pp.), this printing 2020; ISBN 978-99973-69-69-7. Grade 4 (student book: STUDENT). PDF pages: 71 assembled pages (cover verified). Verdict: COMPLETE. Standing exclusions named: the recurring Өөрийгөө сориорой (Test yourself) pages are assessment items — named in the contents, not placed. Songs named only. The recorded source is an econtent.edu.mn flipbook viewer page (not a direct PDF); the book was assembled page-by-page from the publisher's own page images served by that viewer, verified (assembled page count + cover looked at), read, and staged under the push-don't-delete rule; because the staged file is an assembly of the publisher's page images, its byte size differs from the size recorded for the publisher's own PDF; the printed book is identical. Placements at liqlearns-courses-work/expansion-art-2026-11-16/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia — Өргөөний баяр наадам (a Naadam festival celebration piece) (student book; original target `culture-and-values/festivals-and-their-arts`) | Book 16, printed p. 28 |
+
+**Acceptance count: taught in 6 countries(Ethiopia, Honduras, Turkmenistan, Bulgaria, Venezuela, Mongolia).** Jamaica is added as teacher curriculum guide — evidence only, kept outside the acceptance count. Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Fiji is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Citation fix (PVA coverage audit §4, G3S-64): the Genna game song 'አሲና በል' (Asina Bel) stands on printed p. 54 in the Grade 3 book; this lesson previously folded it under the Arafa-and-Genna citation at printed p. 53. The row above now cites its own page, printed p. 54. The song is placed by name and purpose only — a call-and-response game song of the Genna game — and is never transcribed.
 

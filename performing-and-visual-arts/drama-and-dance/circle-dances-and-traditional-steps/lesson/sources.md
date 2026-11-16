@@ -1,6 +1,6 @@
 # Sources — Circle Dances and Traditional Steps
 
-countries: Ethiopia, Nicaragua, Singapore, Iceland, Turkmenistan, Cuba, Venezuela, Angola
+countries: Ethiopia, Nicaragua, Singapore, Iceland, Turkmenistan, Cuba, Venezuela, Angola, Mongolia
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -30,7 +30,13 @@ countries: Ethiopia, Nicaragua, Singapore, Iceland, Turkmenistan, Cuba, Venezuel
 | Venezuela — El baile de las turas: the Arawak turas dance of Lara and Falcón, for sowing and harvest — dancers circling the Palacio behind the Mayordomo, blowing turas flutes and horns and shaking maracas, leaping and miming a hunt, the circle protecting crops and hunt from evil spirits (student book) | Book 7, printed p. 34 |
 | Angola — G2 Tema 2.2 Danças de roda e de fila: circle dances and line dances demonstrated — children in a circle answering body sounds in turn, and the line dance shown by the National Dance School students (student book; original target `drama-and-dance/circle-dances-and-traditional-steps`) | Book 8, printed p. 35 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Turkmenistan, Venezuela, Angola). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count.
+**Book 9:** *ХӨГЖИМ V (Music V)* (student book, Mongolian) — Mongolia, by Оюунбилэг Ч. et al., ed. Эрдэнэтуяа Ц.; Ministry of Education, Culture, Science and Sports, Ulaanbaatar; content 2014, this printing 2020; ISBN 978-99973-69-71-0. Grade 5 (student book: STUDENT). PDF pages: 71 assembled pages (cover verified; contents page read in full). Verdict: COMPLETE — a songbook year: some 55 songs, dances and pieces (all named only) carried by five activity strands — Дуулъя (sing), Сонсъё (listen), Хөгжимдье (play), Бүжиглэе (dance), Зохион найруулъя (compose). Standing exclusions named: Өөрийгөө сориорой (Test yourself), printed pp. 20, 35 — pure assessment, not placed. The recorded source is an econtent.edu.mn flipbook viewer page (not a direct PDF); the book was assembled page-by-page from the publisher's own page images served by that viewer, verified (assembled page count + cover looked at), read, and staged under the push-don't-delete rule; because the staged file is an assembly of the publisher's page images, its byte size differs from the size recorded for the publisher's own PDF; the printed book is identical. Placements at liqlearns-courses-work/expansion-art-2026-11-16/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia — Ёохор (the yokhor — the Buryat-Mongol round dance) (student book; original target `drama-and-dance/circle-dances-and-traditional-steps`) | Book 9, printed p. 65 |
+
+**Acceptance count: taught in 5 countries(Ethiopia, Turkmenistan, Venezuela, Angola, Mongolia). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Iceland is added as teacher guide — evidence only, kept outside the acceptance count. Cuba is added as teacher guide/programme — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Nothing flagged. The circle song is named and its movement taught; its words are not transcribed beyond the title the placement gives.
 

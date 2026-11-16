@@ -1,6 +1,6 @@
 # Sources — Traditional Dances and Culture
 
-countries: Ethiopia, Andorra, Trinidad and Tobago, Belarus
+countries: Ethiopia, Andorra, Trinidad and Tobago, Belarus, Mongolia
 
 **Book 1:** *Grade 4 Performing and Visual Arts Teacher Guide (፬ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed pp. i–iii + body to printed p.62 + syllabus to printed p.93. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-teacher-placements.md.
 
@@ -20,7 +20,13 @@ countries: Ethiopia, Andorra, Trinidad and Tobago, Belarus
 
 | Belarus — Part 1, "The dance music of our people": Yanka-polka, Mikita, Yurachka, the Belarusian folk dance Kryzhachok, the Bulba-polka song-dance, and a Courante from the Polotsk Notebook, Belarus's old written music (student book; original target `drama-and-dance/traditional-dances-and-culture`) | Book 4, printed pp. 44–48 |
 
-**Acceptance count: taught in 1 country (Belarus).** Ethiopia teacher-guide evidence is named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 5:** *ХӨГЖИМ V (Music V)* (student book, Mongolian) — Mongolia, by Оюунбилэг Ч. et al., ed. Эрдэнэтуяа Ц.; Ministry of Education, Culture, Science and Sports, Ulaanbaatar; content 2014, this printing 2020; ISBN 978-99973-69-71-0. Grade 5 (student book: STUDENT). PDF pages: 71 assembled pages (cover verified; contents page read in full). Verdict: COMPLETE — a songbook year: some 55 songs, dances and pieces (all named only) carried by five activity strands — Дуулъя (sing), Сонсъё (listen), Хөгжимдье (play), Бүжиглэе (dance), Зохион найруулъя (compose). Standing exclusions named: Өөрийгөө сориорой (Test yourself), printed pp. 20, 35 — pure assessment, not placed. The recorded source is an econtent.edu.mn flipbook viewer page (not a direct PDF); the book was assembled page-by-page from the publisher's own page images served by that viewer, verified (assembled page count + cover looked at), read, and staged under the push-don't-delete rule; because the staged file is an assembly of the publisher's page images, its byte size differs from the size recorded for the publisher's own PDF; the printed book is identical. Placements at liqlearns-courses-work/expansion-art-2026-11-16/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia — the dance strand's own dances: Навчис бүжиг (leaf dance) p. 16, Алчууртай бүжиг (handkerchief dance) p. 31, Сэлэмт бүжиг (sword dance) p. 61 (student book; original target `drama-and-dance/traditional-dances-and-culture`) | Book 5, printed pp. 16, 31, 61 |
+
+**Acceptance count: taught in 2 countries(Belarus, Mongolia).** Ethiopia teacher-guide evidence is named here, counted nowhere. Andorra is added as curriculum programme document — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This lesson stands on the Grade 4 teacher guide (printed pp. 36–37, §2.2) as labelled evidence; the definitions are the guide's own framing of the pupil-taught dances.
 

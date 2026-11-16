@@ -1,6 +1,6 @@
 # Sources — First Marks and Scribbles
 
-countries: Ethiopia, Maldives, Nicaragua, Singapore, Jordan
+countries: Ethiopia, Maldives, Nicaragua, Singapore, Jordan, Mongolia
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -21,7 +21,13 @@ countries: Ethiopia, Maldives, Nicaragua, Singapore, Jordan
 | Nicaragua — Free drawing — "Me gusta el dibujo libre" — drawing freely for pleasure as the first art creation (teacher guide — evidence) | Book 4, printed p. 10 |
 
 | Singapore — How young children's mark-making grows: exploration, then predictability and regularity, then symbolic and representative drawing — Ch.1, Art in the Early Years (teacher guide — evidence) | Book 5, printed p. 10 |
-**Acceptance count: taught in 3 countries (Ethiopia, Maldives, Jordan). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.**
+**Book 7:** *Дүрслэх урлаг, технологи 3 (Visual Art & Technology 3)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2020 printing (contents pages read in full). Grade 3 (student book: STUDENT). PDF pages: 70 assembled pages (cover and contents verified). Verdict: COMPLETE for the art parts. COMBINED BOOK: Part I is visual art (printed pp. 6–35, placed); Part II (printed pp. 36–67) is the making/technology part — its paper-model and technical-model lessons (pp. 36–51) are named in the placements; its craft lessons (natural materials, clay, thread) are placed with the art. The recorded source is an econtent.edu.mn flipbook viewer page (not a direct PDF); the book was assembled page-by-page from the publisher's own page images served by that viewer, verified (assembled page count + cover looked at), read, and staged under the push-don't-delete rule; because the staged file is an assembly of the publisher's page images, its byte size differs from the size recorded for the publisher's own PDF; the printed book is identical. Placements at liqlearns-courses-work/expansion-art-2026-11-16/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia — Part I: Санаамсаргүйгээр толболон зурах (drawing with spots/blots spontaneously — free mark-making) (student book; original target `visual-art/first-marks-and-scribbles`) | Book 7, printed p. 10 |
+
+**Acceptance count: taught in 4 countries(Ethiopia, Maldives, Jordan, Mongolia). Nicaragua is added as teacher guide — evidence only, kept outside the acceptance count. Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Review placements fold into this lesson under the course folding rules: the Grade 1 Chapter 2 summary + review (printed pp. 34–35) and the Grade 2 Chapter 2 summary + closing exercise (printed pp. 45–46) are stocked as Sub lesson 3 and as question stock; no standalone Review lesson is built. The Grade 1 scribble page is picture-led (a full page of red scribble with no text layer beyond the running head); the placement is followed exactly as read.
 

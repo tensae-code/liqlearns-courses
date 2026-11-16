@@ -1,6 +1,6 @@
 # Sources — Genres of Theatre and Film
 
-countries: Ethiopia, Egypt, United Kingdom, Papua New Guinea, Venezuela
+countries: Ethiopia, Egypt, United Kingdom, Papua New Guinea, Venezuela, Mongolia
 
 **Book 1:** *Performing and Visual Arts Teacher Guide Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, first published 2022, GEQIP-E, ISBN 978-997744-2-046-9, printed pp. i–ix + 1–79. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g09-teacher-placements.md.
 
@@ -23,7 +23,13 @@ countries: Ethiopia, Egypt, United Kingdom, Papua New Guinea, Venezuela
 | Papua New Guinea — Unit 5 Drama, Topic Tragedy and Comedy Plays (Lessons 56–76) — what tragedy and comedy dramas are and their features; planning, writing, rehearsing and performing a tragedy drama and a comedy drama; a tragedy drama built on a health issue (its causes, symptoms and prevention — tuberculosis, malaria, HIV/AIDS and others named) and a comedy drama built on a social issue, both used to create awareness (teacher guide — evidence; original target `drama-and-dance/tragedy-and-comedy-plays`) | Book 4, printed pp. 17, 40, 52–53 |
 | Venezuela — Géneros del discurso teatral: the genres of theatre — dramatic (tragedy, drama, melodrama) and comic (comedy, farce, sainete) (student book) | Book 5, printed p. 38 |
 
-**Acceptance count: taught in 3 countries (Egypt, United Kingdom, Venezuela).** Ethiopia teacher-guide evidence is named here, counted nowhere. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 6:** *ХӨГЖИМ VI–VII (Music VI–VII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2019; no ISBN printed on the pages read. Grade 6 (student book: STUDENT) — this record is the Grade 6 book: one volume carrying Grade 6 and Grade 7; the placements stocked from it are the Grade 6 part (Бүлэг I–II, printed pp. 4–67); the Grade 7 part is named in the placements, not placed under this record. PDF pages: 139 assembled pages (cover verified). Verdict: PARTIAL — the Grade 6 part was read through its front matter, its opening chapter in full, and its section openings sampled across the whole part (printed pp. 11, 21, 31, 41, 51, 61); its chapter structure and teaching are certain, but it was not read line-by-line like the single-grade books; the placements from this book are labelled PARTIAL as filed. The listening tests (Сонсголын сорил) inside it are assessment, named in the placements and not placed. The recorded source is an econtent.edu.mn flipbook viewer page (not a direct PDF); the book was assembled page-by-page from the publisher's own page images served by that viewer, verified (assembled page count + cover looked at), read, and staged under the push-don't-delete rule; because the staged file is an assembly of the publisher's page images, its byte size differs from the size recorded for the publisher's own PDF; the printed book is identical. Placements at liqlearns-courses-work/expansion-art-2026-11-16/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia — Бүлэг I: Театр ба хөгжим (theatre and music — the musical (мюзикл) as the genre where literature, visual art, music, theatre and dance join; Mongolia's own theatres pictured) (student book; original target `drama-and-dance/genres-of-theatre-and-film`; PARTIAL — grade part placed from the full chapter structure with section openings sampled, as filed) | Book 6, printed p. 21 |
+
+**Acceptance count: taught in 4 countries(Egypt, United Kingdom, Venezuela, Mongolia).** Ethiopia teacher-guide evidence is named here, counted nowhere. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Grade 9 has NO student book; this lesson stands on the federal Grade 9 teacher guide (Lessons 20–21, printed pp. 31–35) as labelled evidence only, exactly as the placement directs.
 

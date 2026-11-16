@@ -1,6 +1,6 @@
 # Sources — Looking at Pictures
 
-countries: Ethiopia, Honduras, Singapore, Finland, Morocco, Libya
+countries: Ethiopia, Honduras, Singapore, Finland, Morocco, Libya, Mongolia
 
 **Book 1:** *Grade 1 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 1ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–iii + 1–73. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-student-placements.md.
 
@@ -34,7 +34,19 @@ countries: Ethiopia, Honduras, Singapore, Finland, Morocco, Libya
 |---|---|
 | Morocco — "Green Morocco" (المغرب الأخضر), the kinds of image — the four kinds of image — the artistic image (addresses feelings, draws us to beauty), the communicative image (informs and raises awareness), the documentary image (dates and witnesses an important event, like the 1956 photo of Mohammed V launching collective ploughing) and the advertising image (promotes a product to sell it, like argan oil) — and reading an image's dimensions and meaningful zones (teacher guide — evidence; original target `first-steps/looking-at-pictures`) | Book 8, printed p. 86 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Honduras, Finland). Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 11:** *ДҮРСЛЭХ УРЛАГ, ТЕХНОЛОГИ IV (Visual Art, Technology IV)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2020 printing; no ISBN printed on the pages read. Grade 4 (student book: STUDENT). PDF pages: 75 assembled pages (cover verified; contents pages read in full). Verdict: COMPLETE for the art scope. COMBINED book: art parts placed, technology parts named only — Non-art parts named, not placed (printed pp. 57–72): Техникийн загвар зохион бүтээх (designing a technical model, p. 57), Нисэх онгоцны загвар (aircraft model, p. 59), Оёдлын багаж хэрэгсэл ашиглах (using sewing tools, p. 61), Жижиг эдлэлийн загвар (small-item model, p. 63), Амин дэмээр баялаг салат хийх (making a vitamin salad — cooking, p. 68), Ажил мэргэжлийн тухай мэдэх (learning about jobs and professions, p. 70). The recorded source is an econtent.edu.mn flipbook viewer page (not a direct PDF); the book was assembled page-by-page from the publisher's own page images served by that viewer, verified (assembled page count + cover looked at), read, and staged under the push-don't-delete rule; because the staged file is an assembly of the publisher's page images, its byte size differs from the size recorded for the publisher's own PDF; the printed book is identical. Placements at liqlearns-courses-work/expansion-art-2026-11-16/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia — Part I: Хүүхдийн уран зургийн бүтээл унших (reading children's artworks — saying what a picture shows and tells) (student book; original target `first-steps/looking-at-pictures`) | Book 11, printed p. 29 |
+
+**Book 12:** *Дүрслэх урлаг, технологи 3 (Visual Art & Technology 3)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2020 printing (contents pages read in full). Grade 3 (student book: STUDENT). PDF pages: 70 assembled pages (cover and contents verified). Verdict: COMPLETE for the art parts. COMBINED BOOK: Part I is visual art (printed pp. 6–35, placed); Part II (printed pp. 36–67) is the making/technology part — its paper-model and technical-model lessons (pp. 36–51) are named in the placements; its craft lessons (natural materials, clay, thread) are placed with the art. The recorded source is an econtent.edu.mn flipbook viewer page (not a direct PDF); the book was assembled page-by-page from the publisher's own page images served by that viewer, verified (assembled page count + cover looked at), read, and staged under the push-don't-delete rule; because the staged file is an assembly of the publisher's page images, its byte size differs from the size recorded for the publisher's own PDF; the printed book is identical. Placements at liqlearns-courses-work/expansion-art-2026-11-16/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia — Part I: Хүүхдийн бүтээлийг унших (reading children's artworks) and Бодит болон хийсвэр зургийг харьцуулан унших (comparing and reading realistic and abstract pictures) (student book; original target `first-steps/looking-at-pictures`) | Book 12, printed pp. 18, 23 |
+
+**Acceptance count: taught in 4 countries(Ethiopia, Honduras, Finland, Mongolia). Singapore is added as teacher guide — evidence only, kept outside the acceptance count.** Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Sub lesson 1 rests on the Grade 1 teacher guide's named visual-perception skill and is labelled teacher-guide evidence in the table; the lesson as a whole also rests on the student book's §1.5, so the acceptance count below counts the student book. The four family scenes are the student book's own §1.5 picture pages, described — not reproduced.
 

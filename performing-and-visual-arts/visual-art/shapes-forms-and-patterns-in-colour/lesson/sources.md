@@ -1,6 +1,6 @@
 # Sources — Shapes, Forms and Patterns in Colour
 
-countries: Ethiopia, Maldives, Uganda, Bhutan, Serbia, Mozambique, Pakistan, Fiji, Belarus, Papua New Guinea, Jordan, Libya
+countries: Ethiopia, Maldives, Uganda, Bhutan, Serbia, Mozambique, Pakistan, Fiji, Belarus, Papua New Guinea, Jordan, Libya, Mongolia
 
 **Book 1:** *Grade 4 Performing and Visual Arts Student's Book (ሥነ-ጥበባት የተማሪ መጽሐፍ 4ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–100. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-student-placements.md.
 
@@ -59,7 +59,19 @@ countries: Ethiopia, Maldives, Uganda, Bhutan, Serbia, Mozambique, Pakistan, Fij
 | Papua New Guinea — Content Background: Exploring Patterns — patterns driven by repetition, by numbers and by symmetry, patterns judged by the artist's eye, and random patterns made by a coin-toss printing game (teacher guide — evidence) | Book 12, printed pp. 27–28 |
 | Papua New Guinea — Content Background: Exploring Patterns — patterns driven by repetition, by numbers and by symmetry, patterns judged by the artist's eye, and random patterns made by a coin-toss printing game (teacher guide — evidence (PARTIAL — the guide itself is unfinished)) | Book 13, printed pp. 21–22 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Maldives, Uganda, Bhutan, Serbia, Mozambique, Pakistan, Fiji, Belarus, Jordan).** Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 19:** *Дүрслэх урлаг, технологи 5 (Visual Art & Technology 5)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2020 printing (contents and imprint pages read). Grade 5 (student book: STUDENT). PDF pages: 75 assembled pages (cover and both contents pages read in full). Verdict: COMPLETE for the art parts. COMBINED BOOK: Part I is visual art (printed pp. 6–37, placed); Part II (printed pp. 38–72) is technology — named in the placements, not placed, except its craft items. The recorded source is an econtent.edu.mn flipbook viewer page (not a direct PDF); the book was assembled page-by-page from the publisher's own page images served by that viewer, verified (assembled page count + cover looked at), read, and staged under the push-don't-delete rule; because the staged file is an assembly of the publisher's page images, its byte size differs from the size recorded for the publisher's own PDF; the printed book is identical. Placements at liqlearns-courses-work/expansion-art-2026-11-16/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia — Part I: Цэг, толбоор чимэглэн зурах (drawing decorated with dots and spots) and Геометрийн дүрсийн хээ угалз зурах (drawing geometric ornament patterns) (student book; original target `visual-art/shapes-forms-and-patterns-in-colour`) | Book 19, printed pp. 13, 30 |
+
+**Book 20:** *Дүрслэх урлаг, технологи 3 (Visual Art & Technology 3)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2020 printing (contents pages read in full). Grade 3 (student book: STUDENT). PDF pages: 70 assembled pages (cover and contents verified). Verdict: COMPLETE for the art parts. COMBINED BOOK: Part I is visual art (printed pp. 6–35, placed); Part II (printed pp. 36–67) is the making/technology part — its paper-model and technical-model lessons (pp. 36–51) are named in the placements; its craft lessons (natural materials, clay, thread) are placed with the art. The recorded source is an econtent.edu.mn flipbook viewer page (not a direct PDF); the book was assembled page-by-page from the publisher's own page images served by that viewer, verified (assembled page count + cover looked at), read, and staged under the push-don't-delete rule; because the staged file is an assembly of the publisher's page images, its byte size differs from the size recorded for the publisher's own PDF; the printed book is identical. Placements at liqlearns-courses-work/expansion-art-2026-11-16/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia — Part I: Эвэр угалзыг харьцуулах (comparing the horn pattern) and Хамар угалзтай танилцах (getting to know the nose pattern) — Mongolia's own угалз ornament (student book; original target `visual-art/shapes-forms-and-patterns-in-colour`) | Book 20, printed pp. 30, 31 |
+
+**Acceptance count: taught in 11 countries(Ethiopia, Maldives, Uganda, Bhutan, Serbia, Mozambique, Pakistan, Fiji, Belarus, Jordan, Mongolia).** Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Libya is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
 
 The Grade 2 teacher-guide part is cited at section level only (§§1.4–1.5, printed pp. 12–22) because that guide is a scan with no text layer and two of its contents entries are partly degraded in the scan — the placements say so, and the lesson claims no body wording from it. The fraction work is taught as the Grade 4 book's own question — into how many parts is the circle divided, and what fraction is the blue part — without importing a fraction curriculum from outside the placements.
 

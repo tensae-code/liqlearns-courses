@@ -1,6 +1,6 @@
 # Sources — Theatre and Film Through History
 
-countries: Ethiopia, Samoa, Trinidad and Tobago, Papua New Guinea, Brazil, Cuba, Venezuela
+countries: Ethiopia, Samoa, Trinidad and Tobago, Papua New Guinea, Brazil, Cuba, Venezuela, Mongolia
 
 **Book 1:** *Grade 6 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 6ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
 
@@ -57,7 +57,13 @@ countries: Ethiopia, Samoa, Trinidad and Tobago, Papua New Guinea, Brazil, Cuba,
 | Venezuela — Teatro venezolano en la primera década del siglo XX: Venezuelan theatre into the 20th century — drama, sainete, comedy, tragicomedy and zarzuela written by intellectuals as literary exercise and by theatre men in practice; César Rengifo's Por qué canta el pueblo (1945) opening the modern Venezuelan dramaturgy of the people's own reality; the First National Theatre Festival (1959) and the generation of Chocrón, Chalbaud, Cabrujas and Lerner (student book) | Book 15, printed p. 187 |
 | Venezuela — Nicolás Curiel y el Teatro Universitario: Nicolás Curiel and university theatre — a lifetime teaching theatre at the Universidad Central de Venezuela, forming the Teatro Universitario to address great audiences and denounce social change; his maxim that theatre and politics go together in forming the Venezuelan (student book) | Book 15, printed pp. 240–241 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Brazil, Cuba, Venezuela).** Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 16:** *ХӨГЖИМ VIII–IX (Music VIII–IX)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2019; no ISBN printed on the pages read. Grade 8 (student book: STUDENT) — this record is the Grade 8 book: one volume carrying Grade 8 (printed pp. 7–67) and Grade 9; the placements stocked from it are the Grade 8 part; the Grade 9 part (modern music movements, per the preface) is named in the placements, not placed under this record. PDF pages: 139 assembled pages (cover verified; Grade 8 contents page read in full). Verdict: COMPLETE for the Grade 8 part. Standing exclusions named: the self-tests and knowledge-check questions (Өөрийгөө сориорой, Сонсголын сорил, Мэдлэг сорих асуулга) at printed pp. 17, 28, 43–45 — pure assessment, not placed. Works named only. The recorded source is an econtent.edu.mn flipbook viewer page (not a direct PDF); the book was assembled page-by-page from the publisher's own page images served by that viewer, verified (assembled page count + cover looked at), read, and staged under the push-don't-delete rule; because the staged file is an assembly of the publisher's page images, its byte size differs from the size recorded for the publisher's own PDF; the printed book is identical. Placements at liqlearns-courses-work/expansion-art-2026-11-16/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia — Chapter 1 (Opera): Дууриiн урлагийн үүсэл (the origin of the art of opera — born in Italy, Peri's Dafne 1597, and the world's great opera houses) (student book; original target `drama-and-dance/theatre-and-film-through-history`) | Book 16, printed p. 7 |
+
+**Acceptance count: taught in 5 countries(Ethiopia, Brazil, Cuba, Venezuela, Mongolia).** Samoa is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as teacher guide — evidence only, kept outside the acceptance count. Papua New Guinea is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Claims of firsts are taught as their sources give them: Fabula is 'probably the first original African play' and Hager Fikir the 'oldest indigenous theatre in Africa' — the guide's own wordings, kept with their caution. The Grade 10 guide records no separate 'Lesson 27' heading in its theatre sequence; the lesson follows its placements (Lesson 26 African theatre onward) and claims nothing about a Lesson 27.
 

@@ -2267,7 +2267,46 @@ lessons are the books'.
   Macieira; and the history of Angolan children's music
   itself.
 
-**The whole course stands at 630 lessons, 7,962 questions and
+Mongolia's thirteen student books (Grades 1–8: Visual Art &
+  Technology 1–5, Visual Art 6 and 8, Music 1, 3, 4, 5, 6 and 8)
+  stocked 254 placements: 133 into existing lessons, 104 into
+  already-built canonical lessons, and 17 into 17 NEW lessons
+  (First Steps: From Idea to Finished Picture. Visual Art:
+  Art from Natural Materials; Handmade Cards and Gifts;
+  Mongolian Crafts; Mongolian Khee Ornament Patterns; Mongolian
+  Painters and Their Works; Mongolian Painting Imagery;
+  Mongolian Painting Method; Mongolian Script Calligraphy;
+  Patterns and Texture. Music: Folk Songs of Mongolia's
+  Peoples; Playing the Bishguur. Drama and Dance: Mongolian
+  Dances — Biyelgee and Tovshoo. Culture and Values: Colour
+  Symbolism in Mongolian Art; Deel: Mongolian Traditional
+  Dress; The Flag of Mongolia and the Soyombo Symbol;
+  Mongolian Opera, Ballet and Symphonic Music), 107 questions
+  added, media as described slots only. Honesty carried exactly
+  as filed: the three mn-do books (Visual Art & Technology 1,
+  Music 1, Visual Art & Technology 2) are PHANTOM PUSHES in the
+  library — no file exists in the repo — and were read from the
+  Ministry's econtent.edu.mn flipbook edition, page-image by
+  page-image, verified by cover, imprint and ISBN; the ten
+  links-group books were likewise read from the ministry
+  flipbook edition (no PDF exists), assembled page-by-page from
+  the publisher's own page images. The two VI–VII combined
+  volumes (Music 6, Visual Art 6) are PARTIAL by design — their
+  Grade 6 parts were placed from the full chapter structure
+  with section openings sampled, and their placements are
+  labelled PARTIAL. Combined-book technology parts are named,
+  not placed; test-yourself pages are assessment, named, not
+  placed; songs and poems are placed by name and theme only,
+  never transcribed; bibliographies are inventory only.
+  Mongolia's own way is kept as named parts throughout: the
+  chagtan khee and ever ugalz ornaments, the deel and the
+  tsatsag, the Soyombo flag, the bishguur, shagai rhythm
+  composing, the Tovshoo and Dörvöd biyelgee dances, felt
+  crafts, Mongolian painting's method and imagery, Mongolian
+  script calligraphy, and Mongolia's own opera, symphonies and
+  ballets beside the world repertoire.
+
+**The whole course stands at 647 lessons, 8,069 questions and
 210 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
 

@@ -1,6 +1,6 @@
 # Sources — Dance Practice and Imitation
 
-countries: Ethiopia, Canada, Trinidad and Tobago, Morocco, Jordan
+countries: Ethiopia, Canada, Trinidad and Tobago, Morocco, Jordan, Mongolia
 
 **Book 1:** *Grade 3 Performing and Visual Arts Teacher Guide (፫ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed pp. i–iv + body to printed p.79 + syllabus to printed p.96. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-teacher-placements.md.
 
@@ -30,7 +30,19 @@ countries: Ethiopia, Canada, Trinidad and Tobago, Morocco, Jordan
 |---|---|
 | Morocco — "I Imitate and I Act" (أقلد وأمثل), week 2 — imitation as a drama skill beyond the family — imitating the teacher and friends in a classroom dialogue about who broke the glass (plot only) (teacher guide — evidence; original target `drama-and-dance/dance-practice-and-imitation`) | Book 6, printed p. 114 |
 
-**Acceptance count: taught in 2 countries (Canada, Jordan).** Ethiopia is teacher-guide evidence only, named here, counted nowhere. Trinidad and Tobago is added as teacher guide / curriculum guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count.
+**Book 8:** *ХӨГЖИМ V (Music V)* (student book, Mongolian) — Mongolia, by Оюунбилэг Ч. et al., ed. Эрдэнэтуяа Ц.; Ministry of Education, Culture, Science and Sports, Ulaanbaatar; content 2014, this printing 2020; ISBN 978-99973-69-71-0. Grade 5 (student book: STUDENT). PDF pages: 71 assembled pages (cover verified; contents page read in full). Verdict: COMPLETE — a songbook year: some 55 songs, dances and pieces (all named only) carried by five activity strands — Дуулъя (sing), Сонсъё (listen), Хөгжимдье (play), Бүжиглэе (dance), Зохион найруулъя (compose). Standing exclusions named: Өөрийгөө сориорой (Test yourself), printed pp. 20, 35 — pure assessment, not placed. The recorded source is an econtent.edu.mn flipbook viewer page (not a direct PDF); the book was assembled page-by-page from the publisher's own page images served by that viewer, verified (assembled page count + cover looked at), read, and staged under the push-don't-delete rule; because the staged file is an assembly of the publisher's page images, its byte size differs from the size recorded for the publisher's own PDF; the printed book is identical. Placements at liqlearns-courses-work/expansion-art-2026-11-16/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia — the world's dances in the same year: Вальс (waltz) p. 50 and Полька (polka) p. 66, with the Бүжиглэе dance-practice pages (student book; original target `drama-and-dance/dance-practice-and-imitation`) | Book 8, printed pp. 49–51, 66 |
+
+**Book 9:** *ХӨГЖИМ III (Music III)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports, Ulaanbaatar; ISBN 978-99973-69-67-3 (content 2014 series, Х-545). Grade 3 (student book: STUDENT). PDF pages: 70 assembled pages (contents page read in full; the book's own imprint page verified). Verdict: COMPLETE — a solfège year: the notes taught one by one (До, Ре, Ми, Фа, Соль, Ля, Си) inside some 50 songs and pieces (all named only); this is the year children begin playing the бишгүүр (bishguur, the Mongolian end-blown flute). Standing exclusions named: Өөрийгөө сориорой (Test yourself), printed pp. 20, 35, 68 — pure assessment, not placed. The recorded source is an econtent.edu.mn flipbook viewer page (not a direct PDF); the book was assembled page-by-page from the publisher's own page images served by that viewer, verified (assembled page count + cover looked at), read, and staged under the push-don't-delete rule; because the staged file is an assembly of the publisher's page images, its byte size differs from the size recorded for the publisher's own PDF; the printed book is identical. Placements at liqlearns-courses-work/expansion-art-2026-11-16/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia — the dances: Бий биелгээ (biyelgee) p. 32, Нарны бүжиг (sun dance) p. 39, Вальс (waltz) p. 49 (student book; original target `drama-and-dance/dance-practice-and-imitation`) | Book 9, printed pp. 32, 39, 49 |
+
+**Acceptance count: taught in 3 countries(Canada, Jordan, Mongolia).** Ethiopia is teacher-guide evidence only, named here, counted nowhere. Trinidad and Tobago is added as teacher guide / curriculum guide — evidence only, kept outside the acceptance count. Morocco is added as teacher guide — evidence only, kept outside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This lesson's original stock stands on the Grade 3 teacher guide (printed pp. 34–40, §§2.2–2.3.1) as labelled evidence. Canada's nursery student books now teach the same cluster directly: practising for weeks for a talent show, learning a move by watching and copying it, and practising a routine until both bodies move as one. The Canada stories are placed by summary only, never transcribed.
 

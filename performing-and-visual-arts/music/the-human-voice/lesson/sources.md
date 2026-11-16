@@ -1,6 +1,6 @@
 # Sources — The Human Voice
 
-countries: Honduras, Colombia, Venezuela
+countries: Honduras, Colombia, Venezuela, Mongolia
 
 **Book 1:** *Libro del Estudiante — Educación Artística — 8vo Grado (Telebásica)* (student book, Spanish) — Honduras, Secretaría de Educación, República de Honduras (Programa de Televisión Educativa Hondureña — Telebásica); author Licda. Corina Milikza Hernández Estrada; no year printed on the pages read; no ISBN printed, Grade 8, 290 PDF pp. STUDENT. Verdict: COMPLETE. Fetched from the recorded libroshonduras.com source URLs. Placements at liqlearns-courses-work/expansion-art-2026-11-16/honduras-placements.md.
 
@@ -16,7 +16,13 @@ countries: Honduras, Colombia, Venezuela
 | Colombia — Project 1, Subproject 1, Momento 2 "La voz y la canción: lenguajes de comunicación": the voice as an instrument and a language — the organs of phonation (larynx, vocal cords, and the nasal, oral and pharyngeal resonators); watching your own voice work in a mirror: speaking, singing a piece of a song you like, shouting, whispering (student book; original target `music/how-the-voice-works`) | Book 2, printed pp. 28–43 |
 | Venezuela — La voz: the human voice, sung or spoken — its classification into white voices (children's and women's: soprano, mezzosoprano, contralto) and dark voices (men's: countertenor, tenor, baritone, bass), and intonation as exact vocal production (student book; original target `music/the-singing-voice`) | Book 3, printed p. 82 |
 
-**Acceptance count: taught in 3 countries (Honduras, Colombia, Venezuela).**
+**Book 4:** *ХӨГЖИМ I — Ерөнхий боловсролын сургуулийн 1 дүгээр ангийн сурах бичиг (Music 1, textbook for grade 1 of the general education school)* (student book, Mongolian) — Mongolia, Боловсрол, Соёл, Шинжлэх Ухаан, Спортын Яам (Ministry of Education, Culture, Science and Sports), Ulaanbaatar; cover edition 2020 (bibliographic record: UB 2014, 68 pages); authors' team led by Ч.Оюунбилэг (Ch. Oyunbileg), editor Х.Бүдхүү; ISBN 978-99973-69-63-5. Grade 1 (student book: STUDENT). Read as the ministry flipbook's 71 page images = cover + printed pp. 1–68 + colophon and back cover; every printed page read. Verdict: COMPLETE. Five activity marks run through the book — Дуулъя (let's sing), Сонсъё (let's listen), Хөгжимдъе (let's play instruments), Бүжиглэе (let's dance), Зохион найруулъя (let's compose) — and a classroom CD is referenced by track numbers throughout. Exclusions named, not placed: the Өөрийгөө сориорой (Test yourself) spreads at printed pp. 23, 37 and 68 are assessment pages; the Test-yourself-headed page at printed p. 54 is the exception — its making and composing tasks are placed. Every song is placed by name, authors and theme only — no lyrics or notation transcribed. No PDF exists in the repo for this book — the library record is a PHANTOM PUSH (the repo holds no copy, in the tree or in any release); the book was read from the record's own recorded source, the Ministry's econtent.edu.mn flipbook edition, page-image by page-image — the same ministry book, verified by cover, imprint and ISBN against the record. The phantom-push debt stands for the library. Placements at liqlearns-courses-work/expansion-art-2026-11-16/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia — Би гоё харагдаж байна уу? / Хөгжилтэй агшин (Do I look nice? / A fun moment) — a singing-posture game: standing straight with a book balanced on the head, breathing deeply and letting the breath out slowly while the teacher counts to ten; then the nonsense-word song "Goyo goyo" sung with movements and clapping in place of the words (student book; original target `music/using-your-voice`) | Book 4, printed p. 5 |
+
+**Acceptance count: taught in 4 countries(Honduras, Colombia, Venezuela, Mongolia).** Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
 
 This is a canonical NEW lesson (slug-registry Part 1: `music/the-human-voice`). Honduras's own way: the Grade 8 Telebásica book teaches musical intonation from the voice itself — its apparatus first, then its classification.
 

@@ -1,6 +1,6 @@
 # Sources — Painting Then and Now
 
-countries: Ethiopia, Albania, Trinidad and Tobago, Cuba
+countries: Ethiopia, Albania, Trinidad and Tobago, Cuba, Mongolia
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–85. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
@@ -27,7 +27,26 @@ countries: Ethiopia, Albania, Trinidad and Tobago, Cuba
 
 | Trinidad and Tobago — Visual Arts Content: History of Art in Trinidad and Tobago (Form 1 Term 1) — exploring the history of art in Trinidad and Tobago and discussing local artists and their influence, Michel-Jean Cazabon named as the example (curriculum guide — evidence) | Book 5, printed p. 140 |
 
-**Acceptance count: taught in 1 country (Ethiopia).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Cuba is added as a student book, inside the acceptance count.
+**Book 8:** *ДҮРСЛЭХ УРЛАГ VIII (Visual Art VIII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2019; no ISBN printed on the pages read. Grade 8 (student book: STUDENT). PDF pages: 82 assembled pages (cover verified; contents page read in full). Verdict: COMPLETE. The recorded source is an econtent.edu.mn flipbook viewer page (not a direct PDF); the book was assembled page-by-page from the publisher's own page images served by that viewer, verified (assembled page count + cover looked at), read, and staged under the push-don't-delete rule; because the staged file is an assembly of the publisher's page images, its byte size differs from the size recorded for the publisher's own PDF; the printed book is identical. Placements at liqlearns-courses-work/expansion-art-2026-11-16/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia — Lesson 5: Сэргэн мандалтын үеийн дүрслэх урлагийн бүтээлтэй танилцах (meeting the art works of the Renaissance) (student book; original target `visual-art/painting-then-and-now`) | Book 8, printed p. 20 |
+| Mongolia — Lesson 16: Дүрслэх урлагийн чиг хандлагыг ойлгож мэдэх (understanding the movements/directions of fine art) (student book; original target `visual-art/painting-then-and-now`) | Book 8, printed p. 60 |
+
+**Book 9:** *Дүрслэх урлаг, технологи 5 (Visual Art & Technology 5)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2020 printing (contents and imprint pages read). Grade 5 (student book: STUDENT). PDF pages: 75 assembled pages (cover and both contents pages read in full). Verdict: COMPLETE for the art parts. COMBINED BOOK: Part I is visual art (printed pp. 6–37, placed); Part II (printed pp. 38–72) is technology — named in the placements, not placed, except its craft items. The recorded source is an econtent.edu.mn flipbook viewer page (not a direct PDF); the book was assembled page-by-page from the publisher's own page images served by that viewer, verified (assembled page count + cover looked at), read, and staged under the push-don't-delete rule; because the staged file is an assembly of the publisher's page images, its byte size differs from the size recorded for the publisher's own PDF; the printed book is identical. Placements at liqlearns-courses-work/expansion-art-2026-11-16/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia — Part I: Гадаадын зураачдын уран бүтээлтэй танилцах (meeting the works of foreign painters) (student book; original target `visual-art/painting-then-and-now`) | Book 9, printed p. 28 |
+
+**Book 10:** *ДҮРСЛЭХ УРЛАГ VI–VII (Visual Art VI–VII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2019; no ISBN printed on the pages read. Grade 6 (student book: STUDENT) — this record is the Grade 6 book: one volume carrying Grade 6 and Grade 7; the placements stocked from it are the Grade 6 part (printed pp. 4–59); the Grade 7 part is named in the placements, not placed under this record. PDF pages: 119 assembled pages (cover verified). Verdict: PARTIAL — the Grade 6 part was read through its opening chapter in full and its section openings sampled across the whole part (printed pp. 15, 25, 35, 45); its themes and teaching are certain, but it was not read line-by-line like the single-grade books; the placements from this book are labelled PARTIAL as filed. The recorded source is an econtent.edu.mn flipbook viewer page (not a direct PDF); the book was assembled page-by-page from the publisher's own page images served by that viewer, verified (assembled page count + cover looked at), read, and staged under the push-don't-delete rule; because the staged file is an assembly of the publisher's page images, its byte size differs from the size recorded for the publisher's own PDF; the printed book is identical. Placements at liqlearns-courses-work/expansion-art-2026-11-16/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia — the painting chapter: Б.Чогсом's "Хорго" analysed — warm light against cold shadow colours, deep space, the morning air — and a part of the painting copied by the pupil (student book; original target `visual-art/painting-then-and-now`; PARTIAL — grade part placed from the full chapter structure with section openings sampled, as filed) | Book 10, printed p. 25 |
+
+**Acceptance count: taught in 2 countries(Ethiopia, Mongolia).** Albania is added as teacher guide — evidence only, kept outside the acceptance count. Trinidad and Tobago is added as curriculum guide — evidence only, kept outside the acceptance count. Cuba is added as a student book, inside the acceptance count. Mongolia is added as student-book stock (see its rows above), inside the acceptance count.
 
 Honesty notes: this lesson stocks only what the structure map assigns to it — the Grade 3 then-and-now comparison and the appreciating-paintings pages, with the Grade 3 teacher guide's valuing part as labelled evidence. Other painting placements in the series carry their own lesson targets in the placements files (the paint kinds, watercolour and oil, cave art, and the great painters) and are not stocked here; they are recorded as not-in-this-map in the build log. Afework Tekle is named in the lesson exactly as the Grade 3 book names him — the modern example — with no biography added beyond the placements.
 
