@@ -1,6 +1,6 @@
 # Sources — Importance of Farming to the Economy
 
-countries: South Sudan, Syria, Eritrea
+countries: South Sudan, Syria, Eritrea, Bahamas
 
 **Book 1:** *Primary Social Studies 8 Pupil's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Primary Social Studies 8 Pupil's Book. Grade: Primary 8 / Grade 8 (student/teacher: STUDENT). PDF pages: 92 (title page verified against the record title). Note: this record's repo file sits at the nonstandard flat path grade-08/gov/south-sudan/social-studies/full-year-student.pdf (see group log, library debts).. Verdict: COMPLETE (combined Social Studies book — Geography parts placed; other-subject parts named here, not placed). Other subjects in this book (named, not placed): Unit 1 The Coming of Europeans into Africa — colonisation, collaboration and resistance, colonial contributions (History), printed pp. 1–18 (the migration activity is placed below); Unit 4 National Unity (Civics), printed pp. 54–77; Unit 5 Peace in Our Time (Civics), printed pp. 78–86. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
 
@@ -26,7 +26,16 @@ countries: South Sudan, Syria, Eritrea
 
 Eritrea's own way (Eritrea Grade 8 Social Studies 8): the Economics is Eritrea itself — its own post-independence development story (National Charter principles, 1995 land reform, self-reliance, the Warsai-Yikaalo campaign) followed by a full survey of its farming, fishing, trade and industries with national statistics.
 
-**Acceptance count: taught in 3 countries (South Sudan, Syria, Eritrea).**
+**Book 5:** *Bahamas Primary Social Studies Digital Textbook, Grade 4* (student book, English) — Bahamas Ministry of Education (Produced by: The Innovation Unit); First Edition 2023; no ISBN printed. Title as printed: BAHAMAS PRIMARY SOCIAL STUDIES Digital Textbook — Grade 4. Grade: Grade 4 (student/teacher: STUDENT). PDF pages: 23 (cover verified against the record title; the digital textbook paginates by topic spread, so placements cite the spread/PDF page; each spread references the Bahamas Primary Social Studies Curriculum 2022–2027). Verdict: COMPLETE (Economics parts read in full — text layer plus rendered spreads; other parts named in the Contents map only, per the mixed-ss rule). The same book is filed a second time in bahamas-placements-b.md as *Bahamas Primary Social Studies, Digital Textbook, Grade 4 (First Edition 2023)*, Ministry of Education, Technical and Vocational Training, The Bahamas, year 2023, no ISBN printed, 23 PDF pp. — the file is an infographic set of the textbook's spreads (printed pp. 78–101), with the last 7 PDF pages blank, its embedded fonts broken (body text prints as cipher glyphs), read visually from page renders; verdict there COMPLETE (for the spreads the file contains). Both filings are carried exactly as filed, each with its own pagination. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bahamas-placements.md and bahamas-placements-b.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bahamas (first filing) — Economic Impact of Farming and Fishing: fishing as a lucrative industry generating foreign exchange and employment on all islands; farming as a source of income (Andros, Abaco, Long Island, Exuma, Eleuthera) and keeping the industry sustainable | Bahamas, *Bahamas Primary Social Studies Digital Textbook, Grade 4*, Economic Impact of Farming and Fishing spread — printed p. 11 |
+| Bahamas (second filing) — Farming: farming as a source of income for The Bahamas, keeping farm products economically viable with a cost-effective workforce, and not letting imported goods undercut the price or quality of local produce | Bahamas, *Bahamas Primary Social Studies, Digital Textbook, Grade 4 (First Edition 2023)*, Farming — printed pp. 96–98 (PDF p. 11) |
+
+**Acceptance count: taught in 4 countries (South Sudan, Syria, Eritrea, Bahamas).**
+
+Bahamas' own way: the economy is taught through the country's real industries — tourism first, then farming and fishing as income and foreign exchange, island by island (Andros, Abaco, Long Island, Exuma, Eleuthera).
 
 South Sudan's own way (South Sudan Grade 8 P8 Social Studies SB): The climate unit is two-way and practical — how climate shapes people's activities (poor climate ruins roads) and how people adapt: use scarce water efficiently, build flood defences and raise dykes, grow drought-tolerant crops, and make biogas.
 
@@ -34,4 +43,4 @@ South Sudan's own way (South Sudan Grade 8 P8 Social Studies TG) (teacher guide 
 
 Syria's own way (Syria Grade 4 Social Studies): Grade 4 carries a whole unit named Pillars of the Economy in Syria — the population's economic activities (agriculture, industry, trade, and services such as education, health, transport and tourism) — and agriculture stands first among the pillars: the main income of many Syrians, the raw material of its industry, and a surplus for export.
 
-Searchable tags: importance of farming to the economy, South Sudan, Syria, Eritrea, cotton, wheat, olives, citrus, sugar beet, ox-plough, contour ploughing, Elabered, Alighider, Sawa, livestock, social studies, people-and-resources
+Searchable tags: importance of farming to the economy, South Sudan, Syria, Eritrea, cotton, wheat, olives, citrus, sugar beet, ox-plough, contour ploughing, Elabered, Alighider, Sawa, livestock, social studies, people-and-resources, bahamas

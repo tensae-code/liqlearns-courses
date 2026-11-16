@@ -1,6 +1,6 @@
 # Sources — What a tax is
 
-countries: Ethiopia, Guatemala, Uganda
+countries: Ethiopia, Guatemala, Uganda, Bahamas
 
 **Book 1:** *Economics, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Seyoum Yunkura Hameso (PhD), Abate Yesigat Taye (PhD). Editors: Chanyalew Degefa Merga (MSc), Degela Ergano Done (PhD), Taye Gebremariam Olamo (PhD). Illustrator: Tadele Bayu Genet (MSc). Designer: Amsalu Dinote Kuye (MSc). Evaluators: Mekonnen Bersisa Gadisa (PhD), Tariku Mulushewa Dessea (MSc), "Ararssa" Hora Dabi (MSc). First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-059-8. Printed page = PDF page − 10 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g12-student-placements.md
 
@@ -21,7 +21,15 @@ countries: Ethiopia, Guatemala, Uganda
 |---|---|
 | Uganda part — Chapter 5.1.3: Tax Sources: a tax as a compulsory monetary payment charged by government on individuals or companies to finance its expenditure, not charged in return for any specific service; taxes as the most important source of government revenue, naming income tax, Value Added Tax (VAT), customs duty and excise duty | Uganda, *Uganda Senior 1 Entrepreneurship Textbook (NCDC Prototype)*, Chapter 5.1.3: Tax Sources — printed p. 62 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Guatemala, Uganda).**
+**Book 4:** *Bahamas Primary Social Studies Digital Textbook, Grade 6* (student book, English) — Bahamas Ministry of Education (Innovation Unit); First Edition 2023; no ISBN printed. Title as printed: BAHAMAS PRIMARY SOCIAL STUDIES Digital Textbook — Grade 6. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 35 (cover verified against the record title; digital textbook paginated by topic spread — placements cite the spread/PDF page; spreads reference the Bahamas Primary Social Studies Curriculum 2022–2027). Verdict: COMPLETE (Economics parts read in full — text layer plus rendered spreads; other parts named in the Contents map only, per the mixed-ss rule). The same book is filed a second time in bahamas-placements-b.md as *Bahamas Primary Social Studies, Digital Textbook, Grade 6 (First Edition 2023)*, Ministry of Education, Technical and Vocational Training, The Bahamas, year 2023, no ISBN printed, 35 PDF pp. — infographic spreads, PDF pp. 26–35 blank, embedded fonts broken, read visually; verdict there COMPLETE (for the spreads the file contains), with its Ministry of Finance spread at PDF p. 25 where the first filing reads printed p. 21 — both paginations carried exactly as filed. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bahamas-placements.md and bahamas-placements-b.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bahamas — The Ministry of Finance: the ministry suggests, increases and enforces various taxes and regulates banking policy for local and offshore banks | Bahamas, *Bahamas Primary Social Studies Digital Textbook, Grade 6*, The Ministry of Finance spread — printed p. 21 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Guatemala, Uganda, Bahamas).**
+
+Bahamas' own way: Grade 6 teaches the state's economic machinery — the Ministry of Finance suggesting, increasing and enforcing various taxes, alongside making the national budget.
 
 No matching teacher guide exists in this band: the book recorded as this text's teacher guide proved to be the 2011 GEQIP Grade 12 teacher's guide for the old syllabus, not this book's companion, and supplies no answer keys for it (proof in the placements file's verification block).
 
@@ -29,4 +37,4 @@ Guatemala's own way (Guatemala Grade 4 Ciencias Sociales G4): taxes are taught a
 
 Uganda's own way (Uganda Senior 1 Entrepreneurship Textbook (NCDC Prototype)): an Entrepreneurship textbook that ends by teaching public finance — the Senior One learner meets government revenue, taxation and toll roads (the Entebbe Express Highway) as the last chapter of learning how businesses and the state fit together; this placement keeps that way: a tax is defined inside the government-revenue chapter, as the state's most important revenue source.
 
-Searchable tags: what a tax is, grade 12 economics, ethiopia, guatemala, IVA, IUSI, arbitrios, social studies, macroeconomics, uganda, compulsory payment, income tax, VAT, customs duty, excise duty, government revenue
+Searchable tags: what a tax is, grade 12 economics, ethiopia, guatemala, IVA, IUSI, arbitrios, social studies, macroeconomics, uganda, compulsory payment, income tax, VAT, customs duty, excise duty, government revenue, bahamas

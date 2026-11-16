@@ -13378,3 +13378,108 @@ Economics is a ladder of systems — communal, slave,
 feudal — and at Grade 8 it becomes Eritrea itself,
 its development programme and its farming, fishing,
 trade and industries. Economics lessons: 407 → 411.
+
+## Economics expansion — Bahamas — built 2026-11-16
+
+Bahamas — 23 placements stocked from 5 student books (all
+Bahamas Ministry of Education): *Social Science — Grade 3*
+(Lower Primary Social Science Content Notes, Version 1,
+January 2024, no ISBN printed, COMPLETE in the secured
+copy), *Bahamas Primary Social Studies Digital Textbook,
+Grade 4* (Innovation Unit, First Edition 2023, no ISBN
+printed, COMPLETE), the same title Grade 5 (COMPLETE) and
+Grade 6 (COMPLETE). Two filings were read in full and
+merged as one country: bahamas-placements.md (17
+placements: 11 to existing lessons, 6 NEW LESSON NEEDED
+lines) and the links-group bahamas-placements-b.md (6
+placements: 5 to existing lessons, 1 NEW LESSON NEEDED) —
+23 placement lines in total (16 to existing lessons, 7
+NEW), naming 6 distinct new lessons, since
+macroeconomics/tourism-in-the-bahamian-economy is placed
+twice (Grade 4, printed p. 9, and Grade 5, printed p. 27).
+All books are student books, so every placement counts in
+acceptance. Honesty carried exactly as filed: the links
+copy of the Grade 3 Social Science e-book is DEFECTIVE
+beyond p. 13 — only PDF pp. 1–13 carry page images, PDF
+pp. 14–70 are blank, its Natural Resources topic is absent
+and it carries 0 placements; that label stands in the book
+entry in microeconomics/caring-for-resources-reduce-reuse-
+recycle and is never upgraded (the Grade 3 placement comes
+from the complete secured copy). The Grade 4–6 books are
+filed by both groups with different pagination as read
+(topic spreads vs printed pp. 78–101 / PDF pages, the
+Grade 6 Ministry of Finance spread at printed p. 21 in the
+first filing and PDF p. 25 in the second) — both filings
+carried exactly as filed. Record-only, stocked nowhere:
+the Grade 4–6 benchmarks document, the BJC Social Studies
+Syllabus and the BGCSE Economics Syllabus
+(curriculum/examination documents, not textbooks), and the
+Grade 1 Social Science e-book (no Economics teaching
+parts). 16 stocked into standing lessons —
+**Microeconomics**: Caring for resources — reduce, reuse,
+recycle (Grade 3, Topic 20, printed p. 42; acceptance 1 →
+2); Production — turning inputs into outputs (Grade 6,
+Manufacturing spread, printed p. 24; acceptance 3 → 4) —
+**Market and Money**: The national bank and commercial
+banks (Grade 5, Banks and Insurance Companies spread,
+printed p. 26; acceptance 2 → 3); The labour market (Grade
+6, Conservation – Human Resources spread, printed p. 11,
+Human Resources (Job Market) spread, printed p. 23, and
+the second filing's Conservation: Human Resources, PDF p.
+11; acceptance 1 → 2) — **Macroeconomics**: What a tax is
+(Grade 6, Ministry of Finance spread, printed p. 21;
+acceptance 3 → 4) — **People and Resources**: Importance
+of farming to the economy (Grade 4, Economic Impact of
+Farming and Fishing spread, printed p. 11, and the second
+filing's Farming, printed pp. 96–98; acceptance 3 → 4);
+Resources that develop an economy (Grade 5, Marine
+Resources spread, printed p. 23; acceptance 1 → 2); Models
+of tourism development (Grade 4, Tourism, printed pp.
+93–95, and Grade 5, Tourism, PDF p. 12 — both from the
+second filing; acceptance 1 → 2) — **Culture and Work**:
+Secondary activities — cottage industries (Grade 5,
+Manufacturing Sisal and Straw spread, printed p. 25;
+acceptance 7 → 8); The national budget (Grade 6, Ministry
+of Finance spread, printed p. 21, and the second filing's
+Ministry of Finance, PDF p. 25; acceptance 2 → 3); Banks
+and what they do for you (Grade 6, Ministry of Finance
+spread, printed p. 21; acceptance 1 → 2) — and 6 new
+lessons built (12 questions each) — in **Macroeconomics**:
+Tourism in the Bahamian economy (2 placements, Grade 4
+Tourism spread, printed p. 9, and Grade 5 International
+and Domestic Tourism spread, printed p. 27 — the number
+one industry, over half the workforce directly or
+indirectly, most revenue, Sir Stafford Sands' year-round
+business, international vs domestic tourism at Atlantis
+scale), Human capital formation (1 placement, Grade 6,
+Conservation – Human Resources spread, printed p. 11 —
+maximising the investment from human capital while
+minimising economic and social risk) and Natural
+resources, exports and jobs (1 placement, Grade 4, Natural
+Resources, printed pp. 89–91 (PDF p. 8) — resources built
+the economy, sisal and sponging in the past, food for
+local consumption and export, cascarilla, aragonite and
+salt shipped abroad for manufacturing, fishing and
+farming's direct and indirect jobs); in **Market and
+Money**: Offshore banking and insurance (1 placement,
+Grade 5, Banks and Insurance Companies spread, printed p.
+26 — financial services the second largest industry, an
+offshore banking centre for the Americas,
+life/health/home/vehicle/marine cover and hurricane
+claims), Transshipment and the container port (1
+placement, Grade 5, Transshipment and Container Port
+spread, printed p. 28 — transshipment defined, the Grand
+Bahama port over 10% of global container traffic, $25–30
+million a year in local wages) and Collective bargaining
+and wage setting (1 placement, Grade 6, Conservation –
+Human Resources spread, printed p. 11 — unions effective
+for bargaining and handling worker disputes, a collective
+voice and more bargaining power). Bahamas' own way: the
+economy is taught through the country's real industries —
+tourism first, then farming and fishing; Grade 5 teaches
+the service economy directly (financial services second,
+the one-to-one dollar peg, offshore banking and insurance,
+the Freeport container port); Grade 6 teaches the state's
+economic machinery (Ministry of Finance, budget and taxes,
+unions' collective voice) and files human resources under
+conservation. Economics lessons: 411 → 417.

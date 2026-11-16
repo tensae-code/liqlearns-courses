@@ -1,6 +1,6 @@
 # Sources — The National Bank and commercial banks
 
-countries: Ethiopia, Saudi Arabia
+countries: Ethiopia, Saudi Arabia, Bahamas
 
 **Book 1:** *Economics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Achalu Berecha Dhaba (MA, MSc), Leta Sera Bedada (PhD). Editors: Mesfin Ketema, Enguday Ademe Mekonnen, Birhanu Engidaw Getahun. Illustrator: Endalkachew Mengesha Yasab. Designer: Derejaw Lake Melie. Evaluators: Mekonnen Bersisa Gadisa, Tariku Mulushewa Dessea, Ararssa Hora Dabi. First published August 2023 by the Federal Democratic Republic of Ethiopia, Ministry of Education, under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-057-4. Printed page = PDF page - 8 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/economics/g10-student-placements.md
 
@@ -18,9 +18,17 @@ countries: Ethiopia, Saudi Arabia
 
 Saudi Arabia's own way: a whole Economics unit in Grade 4, anchored in the Kingdom's own production — dates, milk and oil — and ending with a buy-Saudi-made activity at the supermarket. This placement keeps that way: banks are met through the riyal in the child's hand and the current and savings accounts a family actually uses.
 
-**Acceptance count: taught in 2 countries (Ethiopia, Saudi Arabia).**
+**Book 3:** *Bahamas Primary Social Studies Digital Textbook, Grade 5* (student book, English) — Bahamas Ministry of Education (Innovation Unit); First Edition 2023; no ISBN printed. Title as printed: BAHAMAS PRIMARY SOCIAL STUDIES Digital Textbook — Grade 5. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 36 (cover verified against the record title; digital textbook paginated by topic spread — placements cite the spread/PDF page; spreads reference the Bahamas Primary Social Studies Curriculum 2022–2027). Verdict: COMPLETE (Economics parts read in full — text layer plus rendered spreads; other parts named in the Contents map only, per the mixed-ss rule). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bahamas-placements.md.
 
-Searchable tags: national bank of ethiopia roles, commercial bank of ethiopia services, development bank of ethiopia, issuing currency, price stability, ethiopia, saudi arabia, central bank, commercial banks, current and savings accounts, riyal, social studies, market and money
+| Lesson part | Where it comes from |
+|---|---|
+| Bahamas — Banks and Insurance Companies: the Central Bank of The Bahamas regulates all banks and issues Bahamian notes; the Bahamian dollar exchanges one-to-one with the US dollar; a commercial bank accepts demand deposits and makes loans that put money into the economy | Bahamas, *Bahamas Primary Social Studies Digital Textbook, Grade 5*, Banks and Insurance Companies spread — printed p. 26 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Saudi Arabia, Bahamas).**
+
+Bahamas' own way: the Central Bank of The Bahamas regulates all banks and issues Bahamian notes, and the Bahamian dollar exchanges one-to-one with the US dollar.
+
+Searchable tags: national bank of ethiopia roles, commercial bank of ethiopia services, development bank of ethiopia, issuing currency, price stability, ethiopia, saudi arabia, central bank, commercial banks, current and savings accounts, riyal, social studies, market and money, bahamas
 
 ## Teacher-guide evidence added (Wave 4, Band F)
 

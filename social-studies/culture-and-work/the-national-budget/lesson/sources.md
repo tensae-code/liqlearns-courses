@@ -1,6 +1,6 @@
 # Sources — The National Budget
 
-countries: Rwanda, Uganda
+countries: Rwanda, Uganda, Bahamas
 
 **Book 1:** *Social Studies for Rwanda Schools — Primary 6, Teacher's Book, Revised Edition 2019* (teacher guide, English) — Rwanda, Rwanda Education Board (REB); year ©2019, Revised Edition 2019; ISBN no ISBN printed. Title as printed: Social Studies for Rwanda Schools — Primary 6, Teacher's Book, Revised Edition 2019. Grade: Grade 6 (Primary 6) (student/teacher: TEACHER). PDF pages: 137 (cover/title page verified against the record title; PDF page count is lower than the printed pagination, which runs to p. 244 with references — the PDF is a condensed-layout copy; read from the record's own edufeeds source URL after grab.py failed with GitHub API RemoteDisconnected). Verdict: COMPLETE (all 13 units' lesson lists and lesson developments read). Cited as teacher-guide evidence only, outside acceptance counts. Non-Geography parts named, not placed: Unit 2 Civics and governance — unity and co-operation, heroism, risky behaviour, citizenship, leadership and organs of government (Civics), printed pp. 12–68; Unit 3 Hygiene — puberty, menstrual hygiene, chronic diseases (Health), pp. 69–84; Unit 11 Post-independent Rwanda — First and Second Republics, Liberation 1990–1994 (History), pp. 191–203; Unit 12 The 1994 Genocide Against the Tutsi — causes, planning and execution, ideology, denial and prevention (History), pp. 204–220; Unit 13 Effects of foreigners in East Africa — explorers, missionaries, traders, colonialists (History), pp. 221–239. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/rwanda-placements.md.
 
@@ -18,7 +18,16 @@ countries: Rwanda, Uganda
 |---|---|
 | Uganda part — Budgeting and Government Expenditure: a budget and a national budget (income against expenditure for a financial year, 1 July–30 June in Uganda, prepared by the Ministry of Finance); surplus, balanced and deficit budgets with causes and dangers of a deficit; and how government spends its revenue — schools, health, roads, salaries, loans, development programmes | Uganda, *Uganda Primary 5 Excel Standard Social Studies*, Budgeting and Government Expenditure — printed p. 184 |
 
-**Acceptance count: taught in 2 countries (Rwanda, Uganda).**
+**Book 4:** *Bahamas Primary Social Studies Digital Textbook, Grade 6* (student book, English) — Bahamas Ministry of Education (Innovation Unit); First Edition 2023; no ISBN printed. Title as printed: BAHAMAS PRIMARY SOCIAL STUDIES Digital Textbook — Grade 6. Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 35 (cover verified against the record title; digital textbook paginated by topic spread — placements cite the spread/PDF page; spreads reference the Bahamas Primary Social Studies Curriculum 2022–2027). Verdict: COMPLETE (Economics parts read in full — text layer plus rendered spreads; other parts named in the Contents map only, per the mixed-ss rule). The same book is filed a second time in bahamas-placements-b.md as *Bahamas Primary Social Studies, Digital Textbook, Grade 6 (First Edition 2023)*, Ministry of Education, Technical and Vocational Training, The Bahamas, year 2023, no ISBN printed, 35 PDF pp. — infographic spreads, PDF pp. 26–35 blank, embedded fonts broken, read visually; verdict there COMPLETE (for the spreads the file contains), with its Ministry of Finance spread at PDF p. 25 where the first filing reads printed p. 21 — both paginations carried exactly as filed. Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bahamas-placements.md and bahamas-placements-b.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bahamas (first filing) — The Ministry of Finance: the ministry creates and reports the national Budget; a budget defined as the statement of an administration's financial position based on estimated expenditures and how to finance them; government borrows money for capital works such as roads and schools | Bahamas, *Bahamas Primary Social Studies Digital Textbook, Grade 6*, The Ministry of Finance spread — printed p. 21 |
+| Bahamas (second filing) — The Ministry of Finance: the Ministry of Finance creates and reports the national budget and manages the government's resources and finances, including money for capital works, roads and schools | Bahamas, *Bahamas Primary Social Studies, Digital Textbook, Grade 6 (First Edition 2023)*, The Ministry of Finance — PDF p. 25 (printed page number not legible in this font-broken file) |
+
+**Acceptance count: taught in 3 countries (Rwanda, Uganda, Bahamas).**
+
+Bahamas' own way: public finance is taught through the Ministry of Finance and the national budget — the ministry creates and reports the Budget, and government borrows for capital works such as roads and schools.
 
 Rwanda's own way (Rwanda Grade 6 Social Studies TG) (teacher guide — evidence): P6 widens the frame from the province to the country, then to East Africa and Africa — Rwanda is located by latitude and longitude (1°S–3°S, 28°E–31°E), its landlocked position is taught as the reason for regional co-operation, and every unit is built around a problem statement with the pupil's book activities answered in the guide. That book is a teacher guide, cited as evidence only; Rwanda is counted in this lesson for its student book(s) named here, not for this guide.
 
@@ -26,4 +35,4 @@ Rwanda's own way (Rwanda Grade 6 Social Studies SB): the P6 pupil's book is the 
 
 Uganda's own way (Uganda Primary 5 Excel Standard Social Studies): the national budget is Uganda's own — a financial year running 1 July–30 June, prepared by the Ministry of Finance — and the three kinds of budget (surplus, balanced, deficit) are taught with the causes and dangers of a deficit, at Primary Five.
 
-Searchable tags: the national budget, Rwanda, social studies, culture-and-work, uganda, national budget, surplus balanced deficit, ministry of finance, financial year
+Searchable tags: the national budget, Rwanda, social studies, culture-and-work, uganda, national budget, surplus balanced deficit, ministry of finance, financial year, bahamas

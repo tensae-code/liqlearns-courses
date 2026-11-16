@@ -1,6 +1,6 @@
 # Sources — Secondary activities — cottage industries
 
-countries: Ethiopia, Zimbabwe, Syria, Sri Lanka, Mauritania, Kuwait, Nepal, Eritrea
+countries: Ethiopia, Zimbabwe, Syria, Sri Lanka, Mauritania, Kuwait, Nepal, Eritrea, Bahamas
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -57,11 +57,19 @@ countries: Ethiopia, Zimbabwe, Syria, Sri Lanka, Mauritania, Kuwait, Nepal, Erit
 | Eritrea part — Unit 11.2B Secondary activities: handicrafts: Eritrea's handicraft industries (pottery, weaving, metalwork, basketry) as the country's main industry before modern industry, with a local raw-materials-to-market research project | Eritrea, *Eritrea Grade 6 Social Studies 6*, Unit 11.2B Secondary activities: handicrafts — printed p. 97 |
 | Eritrea part — Unit 10 §9.4 Cottage Industries: Eritrea's home-based cottage industries (weaving, pottery, basketry, metalwork, jewellery) using local raw materials, selling for money and paying tax to local government | Eritrea, *Eritrea Grade 8 Social Studies 8*, Unit 10 §9.4 Cottage Industries — printed p. 146 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Syria, Sri Lanka, Mauritania, Kuwait, Nepal, Eritrea). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+**Book 18:** *Bahamas Primary Social Studies Digital Textbook, Grade 5* (student book, English) — Bahamas Ministry of Education (Innovation Unit); First Edition 2023; no ISBN printed. Title as printed: BAHAMAS PRIMARY SOCIAL STUDIES Digital Textbook — Grade 5. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 36 (cover verified against the record title; digital textbook paginated by topic spread — placements cite the spread/PDF page; spreads reference the Bahamas Primary Social Studies Curriculum 2022–2027). Verdict: COMPLETE (Economics parts read in full — text layer plus rendered spreads; other parts named in the Contents map only, per the mixed-ss rule). Placements at liqlearns-courses-work/expansion-economics-2026-11-15/bahamas-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bahamas — Manufacturing Sisal and Straw: straw work and sisal as cottage manufacturing — harvesting, drying and plaiting straw into hats and bags sold for up to $300; sisal fibre bundled and sent to rope factories abroad | Bahamas, *Bahamas Primary Social Studies Digital Textbook, Grade 5*, Manufacturing Sisal and Straw spread — printed p. 25 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Syria, Sri Lanka, Mauritania, Kuwait, Nepal, Eritrea, Bahamas). Zimbabwe is named here as teacher-guide evidence only, counted nowhere.**
+
+Bahamas' own way: cottage manufacturing is straw work and sisal — straw plaited into hats and bags sold for up to $300, sisal fibre bundled and sent to rope factories abroad.
 
 Honesty: pupil content comes from the Amhara student book. The Addis Ababa Grade 8 teacher guide is NOT edition-matched to this student book and is truncated (only printed pp. 1–47, Units 1–3, in hand); no guide coverage is claimed for this lesson beyond what its sources rows name.
 
-Searchable tags: secondary activities: cottage industries, culture and work, social studies, ethiopia, eritrea, handicrafts, pottery, weaving, metalwork, basketry, jewellery
+Searchable tags: secondary activities: cottage industries, culture and work, social studies, ethiopia, eritrea, handicrafts, pottery, weaving, metalwork, basketry, jewellery, bahamas
 
 Zimbabwe's own way (Grade 5) (teacher guide — evidence): Grade 5 transport is taught as a landlocked country's system — goods by rail/road/air/sea, animal transport (riding, leading, herding), and the roadports, seaports and airports Zimbabwe depends on; shelter links heritage sites (Matobo Hills) and map-drawing of Zimbabwe to building safely in disaster-prone areas. That evidence is stocked here as the way Zimbabwe teaches this thing; it does not change the acceptance count above.
 
