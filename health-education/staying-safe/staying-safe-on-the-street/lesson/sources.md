@@ -1,6 +1,6 @@
 # Sources — Staying Safe on the Street — Self-Defence Principles and Resolving Conflict
 
-countries: Ethiopia, China, Malaysia
+countries: Ethiopia, China, Malaysia, Jamaica
 
 **Book 1:** *Health and Physical Education Student's Textbook Grade 9* (student textbook, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, First Published August 2023, under GEQIP-E, ISBN 978-99990-0-072-7, printed pp. 1–156 (167 PDF pages). Printed page = PDF page − 10. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g09-student-placements.md.
 
@@ -21,7 +21,7 @@ countries: Ethiopia, China, Malaysia
 | Sub lesson 4 — Resolving conflict without fighting — and why learn self-defence | Ethiopia, *Grade 10 Student Textbook*, §§8.1.2 and 8.2, printed pp. 132–139; and *Grade 10 Teacher Guide*, Unit 8, printed pp. 90–91 (teacher guide — evidence) |
 | China — 第四章 第六节 紧急避险 — emergency avoidance: preventing crowd crushes and stampedes; escaping and self-rescue in a violent attack (filed under `staying-safe/staying-safe-on-the-street`, this lesson itself) | China, *普通高中教科书·体育与健康必修 全一册 (PEP Senior-High PE & Health, Compulsory, Complete Volume)*, 第四章 第六节 紧急避险， printed p. 82 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, China, Malaysia).**
+**Acceptance count: taught in 3 countries (Ethiopia, China, Malaysia).** Jamaica is filed as curriculum-guide evidence only in this lesson (see its Jamaica section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Jamaica rows in this lesson — both read Jamaica books are curriculum guides (TEACHER).
 
 The Grade 9 guide is complete. The Grade 10 guide's §8.3 procedure tail is cut at printed p. 92; nothing in this lesson rests on the missing steps — this lesson teaches the books' principles, rules and ethics (knowledge), and leaves the physical techniques themselves (stance, escapes, strikes, grappling) to the skills build, exactly as its safety framing requires. This lesson stocks the [Both] self-defence placements whose content is purely safety knowledge, as the wave-2 guide directs for Health Education.
 
@@ -82,4 +82,38 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/malaysia-hea
 
 Malaysia is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — all five Malaysia books are STUDENT books, so Malaysia is named in the countries line and provenance rows and the acceptance count rises from 2 to 3 countries. The Malaysia placements in this lesson were filed under the original strings recorded in the provenance rows above; the placements were filed under the slug of this lesson itself. Malaysia's own way is content, as the book lines above record it: health is taught as the PEERS programme (Pendidikan Kesihatan Reproduktif dan Sosial — reproductive and social health education), with psychosocial skills — assertiveness, communication and decision-making — running through every topic, followed by standalone Nutrition and First Aid units. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: self-defence principles, street safety, bash and dash, conflict resolution, sport ethics fairness integrity responsibility respect, Ethiopia HPE Grades 9–10, emergency avoidance, crowd crushes and stampedes, escaping a violent attack, self-rescue, 紧急避险， China Senior High PEP PE & Health, Malaysia PJPK, Keselamatan, sexual harassment and sexual abuse, incest sumbang mahram, exploitation, human trafficking pemerdagangan manusia, sexual grooming amang seksual, cyberbullying buli siber, PEERS
+## Jamaica — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/jamaica-health-placements.md. 3 Jamaica placement(s) stocked in this lesson. The Jamaica book(s) stocked in this lesson: Book 1, Book 2 of that file. Both read Jamaica books are curriculum guides (TEACHER — curriculum guide), so Jamaica is filed as curriculum-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. The placements file records 4 records / 4 distinct books for Health — 2 read in full (Books 1–2, COMPLETE) and 2 UNREAD (Books 3–4). Books 3 and 4 of that file are UNREAD with 0 placements, nothing stocked from them: Book 3, *Health and Family Life Education: Student's Book 1* (Grade 7), by Gerard Drakes (Macmillan Caribbean; ISBN 9780230443303, as recorded), and Book 4, *Health and Family Life Education: Student's Book 2* (Grade 8), by Gerard Drakes (Macmillan Caribbean; ISBN 9780230443334, as recorded) — both sold as non-printable eBooks on BookFusion (price USD 19.90, readable only inside BookFusion's own software/account — a purchase/platform route; no open PDF exists at the recorded link); their public contents lists are noted for the record in the placements file, not placed, and the ministry's 2023 HFLE curriculum guides (Books 1–2) are different books and do not substitute for these pupil books. No Jamaica placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 1 — HFLE Curriculum, Grades 7–8, New Edition (curriculum guide, English):**
+- Title as printed: Health and Family Life Education Curriculum — Grades 7–8, New Edition
+- Grade: 7–8 (student/teacher: TEACHER — curriculum guide)
+- Publisher: Ministry of Education and Youth, Jamaica; year 2023 ©; no ISBN printed
+- PDF pages: 484 (cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 51 placements — 2 to existing lessons, 49 NEW LESSON NEEDED
+- Jamaica's own way: HFLE is a life-skills subject built on the CARICOM regional framework — five themes (Self and Interpersonal Relationships; Safety and Security, new in this edition; Sexuality and Sexual Health; Appropriate Eating and Fitness; Managing the Environment) taught through reflective, affective-domain lessons, with sample lesson plans and a mental-health appendix.
+- Inventory-only, not placed: glossaries (printed p. 443) and the Mental Health & High School Curriculum Guide appendix (printed p. 419), which maps these same units to mental-health teaching.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/jamaica-health-placements.md (Book 1 of that file).
+
+**Book 2 — HFLE Curriculum, Grade 9, New Edition (curriculum guide, English):**
+- Title as printed: Health and Family Life Education Curriculum — Grade 9, New Edition
+- Grade: 9 (student/teacher: TEACHER — curriculum guide)
+- Publisher: Ministry of Education and Youth, Jamaica; year 2023 ©; no ISBN printed
+- PDF pages: 261 (cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 29 placements — 1 to existing lessons, 28 NEW LESSON NEEDED
+- Jamaica's own way: the Grade 9 book completes the same five-theme life-skills spiral, adding sexually transmitted infections, food security and a "Responsible Earthlings" environmental unit; its cover wheel states the subject's motto — students make better choices when they learn life skills.
+- Inventory-only, not placed: Glossary (printed p. 229) and the Mental Health & High School Curriculum Guide appendix (printed p. 206), which also names an "Embracing Diversity" unit inside that appendix.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/jamaica-health-placements.md (Book 2 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jamaica — Unit 3: Conflict Management — resolving conflict without harm (curriculum guide — evidence) (original string `staying-safe/staying-safe-on-the-street`) | Jamaica, *Health and Family Life Education Curriculum — Grades 7–8, New Edition* (Jamaica Grade 7 HFLE Curriculum 2023, curriculum guide), printed p. 3 |
+| Jamaica — Unit 1: Conflict Management — managing conflict, Grade 8 level (curriculum guide — evidence) (original string `staying-safe/staying-safe-on-the-street`) | Jamaica, *Health and Family Life Education Curriculum — Grades 7–8, New Edition* (Jamaica Grade 8 HFLE Curriculum 2023, curriculum guide), printed p. 204 |
+| Jamaica — Unit 2: Conflict Management — managing conflict, Grade 9 level (curriculum guide — evidence) (original string `staying-safe/staying-safe-on-the-street`) | Jamaica, *Health and Family Life Education Curriculum — Grade 9, New Edition* (Jamaica Grade 9 HFLE Curriculum 2023, curriculum guide), printed p. 2 |
+
+Jamaica is filed as curriculum-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — the read Jamaica books are curriculum guides (TEACHER), so Jamaica is named in the countries line and provenance rows and the acceptance count is unchanged at 3 countries. The Jamaica placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved to this canonical lesson (`staying-safe/staying-safe-on-the-street`) by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Jamaica's own way is content, as the book lines above record it: HFLE is a life-skills subject built on the CARICOM regional framework — five themes (Self and Interpersonal Relationships; Safety and Security, new in this edition; Sexuality and Sexual Health; Appropriate Eating and Fitness; Managing the Environment) taught through reflective, affective-domain lessons, with sample lesson plans and a mental-health appendix, the Grade 9 book completing the same spiral with sexually transmitted infections, food security and a "Responsible Earthlings" environmental unit. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: self-defence principles, street safety, bash and dash, conflict resolution, sport ethics fairness integrity responsibility respect, Ethiopia HPE Grades 9–10, emergency avoidance, crowd crushes and stampedes, escaping a violent attack, self-rescue, 紧急避险， China Senior High PEP PE & Health, Malaysia PJPK, Keselamatan, sexual harassment and sexual abuse, incest sumbang mahram, exploitation, human trafficking pemerdagangan manusia, sexual grooming amang seksual, cyberbullying buli siber, PEERS, Jamaica, Jamaica HFLE, Health and Family Life Education Jamaica, CARICOM HFLE, Ministry of Education and Youth Jamaica 2023, Conflict Management

@@ -1,8 +1,8 @@
 # Sources — Checking Health Information
 
-countries: Thailand, Indonesia
+countries: Thailand, Indonesia, Jamaica
 
-**Acceptance count: taught in 2 countries.** Thailand is filed as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count, in this lesson. This lesson is founded on Thailand student-book stock (SAMPLE) only. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count.
+**Acceptance count: taught in 2 countries.** Thailand is filed as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count, in this lesson. This lesson is founded on Thailand student-book stock (SAMPLE) only. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count. Jamaica is filed as curriculum-guide evidence only in this lesson (see its Jamaica section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Jamaica rows in this lesson — both read Jamaica books are curriculum guides (TEACHER).
 
 ## Thailand — Health expansion 2026-11-16
 
@@ -55,4 +55,41 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/indonesia-he
 
 Indonesia is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the acceptance count rises from 1 to 2 countries. The Indonesia placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved to this lesson by the slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Indonesia's own way is content, as the book lines above record it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: checking health information, health advertising, health news, media literacy, รู้ทันข้อมูลข่าวสาร, Thailand, Thailand Health & PE, สุขศึกษาและพลศึกษา, Indonesia, Indonesia PJOK, Pendidikan Jasmani Olahraga dan Kesehatan, Dasar-Dasar Layanan Kesehatan, Isi Piringku
+## Jamaica — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/jamaica-health-placements.md. 6 Jamaica placement(s) stocked in this lesson. The Jamaica book(s) stocked in this lesson: Book 1, Book 2 of that file. Both read Jamaica books are curriculum guides (TEACHER — curriculum guide), so Jamaica is filed as curriculum-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. The placements file records 4 records / 4 distinct books for Health — 2 read in full (Books 1–2, COMPLETE) and 2 UNREAD (Books 3–4). Books 3 and 4 of that file are UNREAD with 0 placements, nothing stocked from them: Book 3, *Health and Family Life Education: Student's Book 1* (Grade 7), by Gerard Drakes (Macmillan Caribbean; ISBN 9780230443303, as recorded), and Book 4, *Health and Family Life Education: Student's Book 2* (Grade 8), by Gerard Drakes (Macmillan Caribbean; ISBN 9780230443334, as recorded) — both sold as non-printable eBooks on BookFusion (price USD 19.90, readable only inside BookFusion's own software/account — a purchase/platform route; no open PDF exists at the recorded link); their public contents lists are noted for the record in the placements file, not placed, and the ministry's 2023 HFLE curriculum guides (Books 1–2) are different books and do not substitute for these pupil books. No Jamaica placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 1 — HFLE Curriculum, Grades 7–8, New Edition (curriculum guide, English):**
+- Title as printed: Health and Family Life Education Curriculum — Grades 7–8, New Edition
+- Grade: 7–8 (student/teacher: TEACHER — curriculum guide)
+- Publisher: Ministry of Education and Youth, Jamaica; year 2023 ©; no ISBN printed
+- PDF pages: 484 (cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 51 placements — 2 to existing lessons, 49 NEW LESSON NEEDED
+- Jamaica's own way: HFLE is a life-skills subject built on the CARICOM regional framework — five themes (Self and Interpersonal Relationships; Safety and Security, new in this edition; Sexuality and Sexual Health; Appropriate Eating and Fitness; Managing the Environment) taught through reflective, affective-domain lessons, with sample lesson plans and a mental-health appendix.
+- Inventory-only, not placed: glossaries (printed p. 443) and the Mental Health & High School Curriculum Guide appendix (printed p. 419), which maps these same units to mental-health teaching.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/jamaica-health-placements.md (Book 1 of that file).
+
+**Book 2 — HFLE Curriculum, Grade 9, New Edition (curriculum guide, English):**
+- Title as printed: Health and Family Life Education Curriculum — Grade 9, New Edition
+- Grade: 9 (student/teacher: TEACHER — curriculum guide)
+- Publisher: Ministry of Education and Youth, Jamaica; year 2023 ©; no ISBN printed
+- PDF pages: 261 (cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 29 placements — 1 to existing lessons, 28 NEW LESSON NEEDED
+- Jamaica's own way: the Grade 9 book completes the same five-theme life-skills spiral, adding sexually transmitted infections, food security and a "Responsible Earthlings" environmental unit; its cover wheel states the subject's motto — students make better choices when they learn life skills.
+- Inventory-only, not placed: Glossary (printed p. 229) and the Mental Health & High School Curriculum Guide appendix (printed p. 206), which also names an "Embracing Diversity" unit inside that appendix.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/jamaica-health-placements.md (Book 2 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jamaica — Unit 1: Accessing Accurate Health-related Information — finding health information I can trust (curriculum guide — evidence) (original string `staying-safe/HELD-title-decision`) | Jamaica, *Health and Family Life Education Curriculum — Grades 7–8, New Edition* (Jamaica Grade 7 HFLE Curriculum 2023, curriculum guide), printed p. 137 |
+| Jamaica — Unit 1: Access to Sources of Environmental Health Information — where environmental health information lives (curriculum guide — evidence) (original string `staying-safe/HELD-title-decision`) | Jamaica, *Health and Family Life Education Curriculum — Grades 7–8, New Edition* (Jamaica Grade 7 HFLE Curriculum 2023, curriculum guide), printed p. 166 |
+| Jamaica — Unit 3: Sources and Information — safety sources and information (curriculum guide — evidence) (original string `staying-safe/HELD-title-decision`) | Jamaica, *Health and Family Life Education Curriculum — Grades 7–8, New Edition* (Jamaica Grade 8 HFLE Curriculum 2023, curriculum guide), printed p. 243 |
+| Jamaica — Unit 1: Assessing Accurate Health-related Information — judging health information (curriculum guide — evidence) (original string `staying-safe/HELD-title-decision`) | Jamaica, *Health and Family Life Education Curriculum — Grades 7–8, New Edition* (Jamaica Grade 8 HFLE Curriculum 2023, curriculum guide), printed p. 345 |
+| Jamaica — Unit 2: Assessing Safety and Security Information — judging safety information (curriculum guide — evidence) (original string `staying-safe/HELD-title-decision`) | Jamaica, *Health and Family Life Education Curriculum — Grade 9, New Edition* (Jamaica Grade 9 HFLE Curriculum 2023, curriculum guide), printed p. 43 |
+| Jamaica — Unit 1: Assessing Accurate Health-related Information — judging health information, Grade 9 level (curriculum guide — evidence) (original string `staying-safe/HELD-title-decision`) | Jamaica, *Health and Family Life Education Curriculum — Grade 9, New Edition* (Jamaica Grade 9 HFLE Curriculum 2023, curriculum guide), printed p. 138 |
+
+Jamaica is filed as curriculum-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — the read Jamaica books are curriculum guides (TEACHER), so Jamaica is named in the countries line and provenance rows and the acceptance count is unchanged at 2 countries. The Jamaica placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved to this canonical lesson (`staying-safe/checking-health-information`) by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Jamaica's own way is content, as the book lines above record it: HFLE is a life-skills subject built on the CARICOM regional framework — five themes (Self and Interpersonal Relationships; Safety and Security, new in this edition; Sexuality and Sexual Health; Appropriate Eating and Fitness; Managing the Environment) taught through reflective, affective-domain lessons, with sample lesson plans and a mental-health appendix, the Grade 9 book completing the same spiral with sexually transmitted infections, food security and a "Responsible Earthlings" environmental unit. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: checking health information, health advertising, health news, media literacy, รู้ทันข้อมูลข่าวสาร, Thailand, Thailand Health & PE, สุขศึกษาและพลศึกษา, Indonesia, Indonesia PJOK, Pendidikan Jasmani Olahraga dan Kesehatan, Dasar-Dasar Layanan Kesehatan, Isi Piringku, Jamaica, Jamaica HFLE, Health and Family Life Education Jamaica, CARICOM HFLE, Ministry of Education and Youth Jamaica 2023, Access to Sources of Environmental Health Information, Accessing Accurate Health-related Information, Assessing Accurate Health-related Information, Assessing Safety and Security Information, Sources and Information

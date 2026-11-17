@@ -582,3 +582,27 @@ the acceptance counts, in every lesson it touches (each
 touched lesson's count rose by 1). No Eritrea placement
 resolves to a PE-course lesson, so none was excluded as
 PE-bound.
+
+The Health expansion then added (Jamaica): no new lessons —
+80 placements stocked into existing lessons (Keeping Our
+Environment Healthy ×12, Family and Friends ×11, Sex and
+Consent ×9, Avoiding Accidents and Staying Safe ×7,
+Checking Health Information ×6, Eating a Balanced Diet ×5,
+Healthy Habits Every Day ×4, Making Good Decisions ×4,
+Knowing Myself and My Feelings ×3, Protecting Myself from
+Abuse ×3, Reproduction and Pregnancy ×3, Staying Safe on
+the Street ×3, Food Hygiene and Safe Cooking ×2, Knowing
+My Body ×2, Mental Health and Wellbeing ×2, Why Exercise
+Keeps You Healthy ×2, Staying Safe in Disasters, STIs and
+HIV Prevention) — this course stays at 55 lessons. Both
+read Jamaica books (*Health and Family Life Education
+Curriculum — Grades 7–8, New Edition* and *— Grade 9, New
+Edition*, Ministry of Education and Youth, Jamaica, 2023)
+are curriculum guides (TEACHER), so Jamaica is
+curriculum-guide evidence only, outside the acceptance
+counts, in every lesson it touches (each touched lesson's
+count is unchanged). Books 3 and 4 (Macmillan Caribbean
+student books, Grades 7 and 8) are UNREAD as filed —
+BookFusion non-printable eBooks, no open copy — nothing
+stocked from them. No Jamaica placement resolves to a
+PE-course lesson, so none was excluded as PE-bound.

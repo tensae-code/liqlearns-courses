@@ -1554,3 +1554,56 @@ learner-centred activity books built from case studies,
 dramas, role plays and community projects, spiralling goals,
 friendship, gender, abuse protection, HIV, puberty, nutrition,
 values, risk and community health through Grades 6–8.
+
+**Health expansion — Jamaica — BUILT 2026-11-17:** 80
+placements from Jamaica's two ministry HFLE curriculum
+guides — *Health and Family Life Education Curriculum —
+Grades 7–8, New Edition* (Ministry of Education and Youth,
+Jamaica, 2023, 484 PDF pages, COMPLETE) and *Health and
+Family Life Education Curriculum — Grade 9, New Edition*
+(2023, 261 PDF pages, COMPLETE) — stocked into existing
+lessons: Keeping Our Environment Healthy ×12, Family and
+Friends ×11, Sex and Consent ×9, Avoiding Accidents and
+Staying Safe ×7, Checking Health Information ×6, Eating a
+Balanced Diet ×5, Healthy Habits Every Day ×4, Making Good
+Decisions ×4, Knowing Myself and My Feelings ×3, Protecting
+Myself from Abuse ×3, Reproduction and Pregnancy ×3,
+Staying Safe on the Street ×3, Food Hygiene and Safe
+Cooking ×2, Knowing My Body ×2, Mental Health and Wellbeing
+×2, Why Exercise Keeps You Healthy ×2, Staying Safe in
+Disasters ×1 and STIs and HIV Prevention ×1 — bringing no
+new lessons; this course stays at **55 lessons**. Both read
+Jamaica books are curriculum guides (TEACHER), so Jamaica is
+filed as curriculum-guide evidence only, outside the
+acceptance counts, in every lesson it touches (each touched
+lesson's count is unchanged). The 80 placements were filed
+as 3 to the existing Staying Safe on the Street lesson, 15
+NEW LESSON NEEDED under descriptive staying-safe slug
+strings and 62 NEW LESSON NEEDED under
+`staying-safe/HELD-title-decision`, all resolved by the
+health slug registry (Part 2A for descriptive strings,
+Part 2B for HELD lines) to the canonical lessons above,
+with the original string recorded in every provenance row.
+No Jamaica placement resolves to a PE-course lesson, so
+none was excluded as PE-bound. Honesty notes, exactly as
+filed: Books 3 and 4, the Macmillan Caribbean *Health and
+Family Life Education: Student's Book 1* (Grade 7, ISBN
+9780230443303) and *Student's Book 2* (Grade 8, ISBN
+9780230443334) by Gerard Drakes, are UNREAD — sold as
+non-printable eBooks on BookFusion, a purchase/platform
+route with no open copy; their public contents lists are
+noted for the record, not placed, and the ministry guides
+do not substitute for them. Inventory-only, not placed:
+Book 1's glossaries (printed p. 443) and Mental Health &
+High School Curriculum Guide appendix (printed p. 419),
+and Book 2's Glossary (printed p. 229) and Mental Health &
+High School Curriculum Guide appendix (printed p. 206).
+Jamaica's own way is content: HFLE is a life-skills subject
+built on the CARICOM regional framework — five themes
+(Self and Interpersonal Relationships; Safety and Security,
+new in this edition; Sexuality and Sexual Health;
+Appropriate Eating and Fitness; Managing the Environment)
+taught through reflective, affective-domain lessons, the
+Grade 9 book completing the spiral with sexually
+transmitted infections, food security and a "Responsible
+Earthlings" environmental unit.
