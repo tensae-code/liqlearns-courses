@@ -64,3 +64,18 @@ sources, as provenance.
   placed); Level 1 is sketched, not stocked. See
   `morocco/ABOUT.md` for the full book list and the acceptance
   reckoning.
+- **Guatemala** — [`guatemala/`](guatemala/) · 15 lessons: Levels
+  2–4 — citizen formation as peace-building ("Juntos construimos
+  la paz"): Guatemala's cultures and rights and duties first,
+  then violence against children, in the family and at school,
+  violence against named people (indigenous women, the elderly,
+  people with disabilities) and racism at school, and the new
+  violences (teachers and staff, cyberviolence, violence over
+  identity), from Guatemala's Ciencias Sociales y Formación
+  Ciudadana básico teacher guides for Grades 7–9 (MINEDUC,
+  Spanish; teacher-guide evidence only — the guides' pupil texts
+  are not in hand); Level 1 is sketched, not stocked — the
+  Grade 5 and 6 primary student books (MINEDUC 2025) are UNREAD,
+  their secured assets DAMAGED pushes (truncated uploads,
+  unopenable). See `guatemala/ABOUT.md` for the full book list
+  and the acceptance reckoning.
