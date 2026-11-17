@@ -1,6 +1,6 @@
 # Sources — My Neighbourhood And Its Places
 
-countries: Jordan, South Sudan, Libya, Oman
+countries: Jordan, South Sudan, Libya, Oman, Vietnam
 
 **Book 1:** *الدراسات الاجتماعية — الصف الأول — الفصل الدراسي الأول (Social Studies, Grade 1, Term 1)* (student book, Arabic) — National Center for Curriculum Development (NCCD), Jordan; year 2024 (2nd edition, revised; first experimental edition 2023, MoE decision 2023/216); ISBN 978-9923-41-573-3. Title as printed: الدراسات الاجتماعية — الصف الأول — الفصل الدراسي الأول (Social Studies, Grade 1, Term 1). Grade: 1 (student/teacher: STUDENT). PDF pages: 76 (cover/title page verified against the record title; byte size 40,293,333 matches the books.json twin record exactly — TSV + books.json records are the same book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/jordan-placements.md.
 
@@ -26,7 +26,7 @@ countries: Jordan, South Sudan, Libya, Oman
 
 Jordan's own way (Jordan G1 SS T1): Social Studies opens at Grade 1 with the child's own circles — self, family, neighbourhood — then the homeland (Jordan's map, capital, flag, king), all taught through colouring, matching and picture talk rather than text.
 
-Searchable tags: my neighbourhood and its places, Jordan, social studies, first-steps, Libya, Oman
+Searchable tags: my neighbourhood and its places, Jordan, social studies, first-steps, Libya, Oman, Vietnam
 
 South Sudan's own way (South Sudan Grade 1 P1 Social Studies SB): Geography begins at age six with the child's own neighbourhood and a hand-drawn map of their own classroom — symbols, key, title, frame and compass — before any wider world appears.
 
@@ -37,3 +37,16 @@ Libya's own way (National Education G4): the whole book is written in the first 
 Oman's own way (Identity and Citizenship Grade 1, Term 1) (teacher guide — evidence): citizenship is its own school subject from age six, built as widening circles — the child first names herself, her feelings and her family, and only then her neighbourhood; the state prints its map and anthem at the front of the teacher's guide, and the fourth unit-component is always participation, not obedience. That evidence is stocked here as the way Oman teaches this thing; it does not change the acceptance count above.
 
 Country honesty note: Oman's student books were not held — its placements are based on teacher guides, and the G7 Term-2 content is a named GAP (the Grade 7 framework assigns the Basic Statute of the State and government institutions to Grade 7, no Term 1 unit teaches them, and the Term 2 book was not reached, as filed in the oman-placements.md record-only section); all Oman placements in this lesson are evidence only, outside acceptance counts.
+
+Vietnam placements — Social Studies remaining strands (2026-11-17):
+
+**Book 7:** *Tự nhiên và Xã hội 1* (student book, Vietnamese) — Title as printed: Tự nhiên và Xã hội 1 (Kết nối tri thức với cuộc sống, 6th reprint) Grade (student/teacher: STUDENT) Publisher: NXB Giáo dục Việt Nam Year: ©2020 ISBN: 978-604-0-19571-5 PDF pages: 126 = record's 126 (read from the publisher reader's page images; cover verified: TỰ NHIÊN VÀ XÃ HỘI 1; general editor Vũ Văn Hùng, editor Nguyễn Thị Thân; book code G1HH1X001h26; printed page = image − 1) Verdict: COMPLETE for the remaining strands — ss track: contents mapped first, then Themes 1–3 read in full page by page. Named-not-placed: Bài 4 An toàn khi sử dụng đồ dùng trong nhà (safety with household things — sharp objects, burns, plugs, pp. 18–21) is personal safety, Health ground; Chủ đề 4 Thực vật và động vật (plants and animals, pp. 60–81) is Science; Chủ đề 5 Con người và sức khoẻ (the body, senses, food, exercise, self-protection, pp. 82–107) is Health; Chủ đề 6 Trái Đất và bầu trời (sky, weather, pp. 108–121) is Science; the three Ôn tập lessons (Bài 5, 9, 14) are the book's own revision lessons, excluded by the standing rule; glossary p. 122 (inventory only). Contents map: Chủ đề 1 Gia đình pp. 6–23 (SS — family, my house and its address, things in the house); Chủ đề 2 Trường học pp. 24–41 (SS — my classroom, exploring the school, fun at school); Chủ đề 3 Cộng đồng địa phương pp. 42–59 (SS — the scenery around me, the people where I live and their work, welcoming Tết, road safety); Chủ đề 4 pp. 60–81 (Science — named); Chủ đề 5 pp. 82–107 (Health — named); Chủ đề 6 pp. 108–121 (Science — named) Tally: 13 placements — 11 to existing lessons (5 of them lessons of the 113-list, 6 of them lessons proposed earlier in this file, which this file's counting rule treats as existing targets), 2 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — first-steps/my-neighbourhood-and-its-places — Bài 10 Cùng khám phá quang cảnh xung quanh (Explore the scenery around us together) — teaches: the places of the place where I live, in two scenes — the village (health station, post office, market, school, rice fields) and the city (hospital, supermarket, cinema, busy streets) — every living place has its own scenery, and you love and hold to the place where you live — Vietnam Grade 1 Tự nhiên và Xã hội 1, printed pp. 42–45 | Vietnam, *Tự nhiên và Xã hội 1* (student book), Bài 10 Cùng khám phá quang cảnh xung quanh (Explore the scenery around us together) — printed pp. 42–45 |
+| Vietnam's way — the books' own teaching way | Vietnam — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 4 countries (Jordan, South Sudan, Libya, Vietnam). Oman is named here as teacher-guide evidence only, counted nowhere.**
+
+Vietnam's own way (Book 7): the local community is introduced through two big picture scenes — the home village (health station, post office, market, school) against the city (hospital, supermarket, cinema, traffic) — and every job, from farmer to traffic policeman, is summed up in one sentence: any work that benefits society is precious.

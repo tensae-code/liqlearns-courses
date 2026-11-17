@@ -1,0 +1,18 @@
+# Sources — Knowing Who to Ask for Help
+
+countries: Vietnam
+
+**Book 2:** *Đạo đức 2* (student book, Vietnamese) — Title as printed: ĐẠO ĐỨC 2 — Kết nối tri thức với cuộc sống (5th reprint) Grade: Grade 2 (student/teacher: STUDENT) Publisher: Nhà xuất bản Giáo dục Việt Nam (NXBGD); year 2021 (copyright); general editor Nguyễn Thị Toan; ISBN 978-604-0-25139-8; book code G1HH2G001h26 PDF pages: 74 per the record (read as the publisher's 74 page images, printed pp. 1–71 plus covers; cover verified against the record title) Earlier waves: not read before Verdict: COMPLETE Contents map: Integrated SS pp. 5–13 (Theme 1 My homeland — its address, landscapes and people) and pp. 51–61 (Theme 7 Seeking support — who helps, at home, at school and in public, with the emergency numbers); Civics/Citizenship pp. 62–70 (Theme 8 Rules in public places); Morals/Values pp. 14–40 (respect for teachers, love of friends, valuing time, admitting and fixing faults, looking after belongings) and pp. 41–50 (Theme 6 Expressing my feelings — personal-development content, named here, not placed: it teaches naming and calming one's own emotions, the future Life Skills course's ground); glossary p. 71 (inventory only) Tally: 14 placements — 2 to existing lessons (both first proposed as NEW in Book 1 of this file), 12 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — first-steps/knowing-who-to-ask-for-help — Bài 11 Tìm kiếm sự hỗ trợ khi ở nhà (Seek support at home) — teaches: which troubles at home need an adult (a stomach ache, a tap that will not close, a smell of gas — ask neighbour Uncle An; a stranger's unwanted touching — tell mother at once) and which you can solve yourself — Vietnam Grade 2 Đạo đức 2, printed pp. 51–54 | Vietnam, *Đạo đức 2* (student book), Bài 11 Tìm kiếm sự hỗ trợ khi ở nhà (Seek support at home) — printed pp. 51–54 |
+| Sub lesson 2 — first-steps/knowing-who-to-ask-for-help — Bài 12 Tìm kiếm sự hỗ trợ khi ở trường (Seek support at school) — teaches: telling the teacher when you are ill, bullied or have lost something; asking the teacher's guidance on work you cannot do; and carrying a personal card with relatives' names, phone numbers and address — Vietnam Grade 2 Đạo đức 2, printed pp. 55–58 | Vietnam, *Đạo đức 2* (student book), Bài 12 Tìm kiếm sự hỗ trợ khi ở trường (Seek support at school) — printed pp. 55–58 |
+| Sub lesson 3 — first-steps/knowing-who-to-ask-for-help — Bài 13 Tìm kiếm sự hỗ trợ ở nơi công cộng (Seek support in public places) — teaches: staying calm when lost at the zoo and asking the security guard; knowing Vietnam's emergency numbers by heart — 111 child protection, 112 rescue, 113 police, 114 fire, 115 ambulance — Vietnam Grade 2 Đạo đức 2, printed pp. 59–61 | Vietnam, *Đạo đức 2* (student book), Bài 13 Tìm kiếm sự hỗ trợ ở nơi công cộng (Seek support in public places) — printed pp. 59–61 |
+| Sub lesson 4 — Vietnam's way — the books' own teaching way | Vietnam — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Vietnam).**
+
+Vietnam's own way: Grade 2 widens the circle from family to homeland and public space: love of homeland is proven in small deeds (a donation box for neighbours in difficulty, flowers planted along the village road, a class visit to a Heroic Vietnamese Mother), and the civics core is rules in public places, taught place by place — school, hospital, bus stop, library, cinema, zoo, historic site.
+
+Searchable tags: knowing who to ask for help, Vietnam, social studies, first-steps

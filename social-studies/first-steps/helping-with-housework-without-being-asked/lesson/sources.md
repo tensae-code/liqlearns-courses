@@ -1,6 +1,6 @@
 # Sources — Helping with Housework Without Being Asked
 
-countries: Cuba, Bahamas, Syria
+countries: Cuba, Bahamas, Syria, Vietnam
 
 **Book 1:** *El mundo en que vivimos — tercer grado* (student book, Spanish) — Title as printed: El mundo en que vivimos — tercer grado. Grade: Grade 3 (student/teacher: STUDENT). Publisher: Editorial Pueblo y Educación (MINED's publisher; authors M. Sc. Neris Esther Domínguez Oliva, Rosario Leal Arroyo, Zoila Ester Durán Aulet, Alfonso Cok Carballo, Zoraida Almerall Rueda, Addys Ramos Hernández); year: no year printed in the file; ISBN: no ISBN printed in the file. PDF pages: 258 (cover verified: title and grade as printed, school scene with Cuban flag). LIBRARY DEBT: the record says this book is pushed in GitHub, but grab.py tree returned HTTP 404 — a phantom push; the book was read instead from its recorded source (biblioteca.cubaeduca.cu) and the staged copy is listed in the group log. Earlier waves: the geography-wave Cuba file filed the MINED "Programa" documents RECORD-ONLY; no earlier wave placed any of these books' civics/SS strands. Verdict: COMPLETE for the remaining strands — contents mapped first, then every remaining-strand part read in full (Presentación pp. 1–5; Unidad 4 "Comportamiento social" pp. 236–241). Named-not-placed: Unidad 2 El Sol, la Tierra, la Luna, el aire, el agua y el suelo (Science); Unidad 3 Los seres vivos incl. the human body, table manners and pregnancy care (Science/Health); Unidad 4's province survey — coasts, relief, rivers, the 15 provinces and special municipality (Geography); the efemérides and Moncada/Fidel content (History); Glosario p. 243 (inventory only). Contents map: Presentación — Las brigadas protectoras de la naturaleza pp. 1–5 (Civics — care of shared places); Unidad 1 Descubriendo el mundo en que vivimos pp. 6–48 (Science, with humans' transformation of nature and responsible behaviour towards it); Unidad 2 pp. 49–97 (Science); Unidad 3 Los seres vivos pp. 98–150 (Science/Health); Unidad 4 ¡Cuba qué linda es! pp. 151–241 (Geography/History, closing chapter Comportamiento social pp. 236–241 = Civics — social behaviour, symbols, transport and traffic, care of the home place). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/cuba-placements.md.
 
@@ -32,4 +32,17 @@ Syria's own way (Social Studies Grade 1): the whole primary series opens with wi
 
 Registry note: the original coined string `culture-and-work/i-love-helping-helping-at-home` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/helping-with-housework-without-being-asked`.
 
-Searchable tags: helping with housework without being asked, Cuba, social studies, first-steps, Bahamas, Syria
+Searchable tags: helping with housework without being asked, Cuba, social studies, first-steps, Bahamas, Syria, Vietnam
+
+Vietnam placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *Đạo đức 1* (student book, Vietnamese) — Title as printed: ĐẠO ĐỨC 1 — Kết nối tri thức với cuộc sống Grade: Grade 1 (student/teacher: STUDENT) Publisher: Nhà xuất bản Giáo dục Việt Nam (NXBGD); year 2020 (copyright); editor-in-chief Phạm Vĩnh Thái; ISBN 978-604-0-19563-0; book code G1HH1G001h26 PDF pages: 74 per the record (read as the publisher's 74 page images, printed pp. 1–71 plus covers; cover verified against the record title) Earlier waves: not read before Verdict: COMPLETE Contents map: Morals/Values pp. 14–55 (family love and care, school rules, orderly living, doing one's own work, honesty); Integrated SS pp. 28–37 (school and class as the child's community, inside the school-rules theme) and p. 56 (road safety as community life); Health (named, not placed) pp. 6–13 (Theme 1 Self-care: hands, teeth, bathing, clothes — body hygiene, the Health course's) and pp. 58–70 (Theme 8 accident prevention: drowning, burns, falls, electric shock, food poisoning, abuse prevention — personal safety, the Health course's); glossary p. 71 (inventory only) Tally: 20 placements — 0 to existing lessons, 20 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — first-steps/helping-with-housework-without-being-asked — Bài 19 Tự giác làm việc nhà (Do housework without being asked) — teaches: sweeping, watering plants, folding clothes, feeding the dog — small hands do small work and the whole house is glad — Vietnam Grade 1 Đạo đức 1, printed pp. 46–47 | Vietnam, *Đạo đức 1* (student book), Bài 19 Tự giác làm việc nhà (Do housework without being asked) — printed pp. 46–47 |
+| Vietnam's way — the books' own teaching way | Vietnam — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 4 countries (Cuba, Bahamas, Syria, Vietnam).**
+
+Vietnam's own way (Book 1): Đạo đức (Ethics) is Vietnam's standalone primary moral-education subject; every lesson runs the same four moves — a song to open, picture stories to explore, practice pictures to judge, a role-play to apply — and closes with a two-line rhyme that states the duty; the family is taught three-generational (ông bà – cha mẹ – anh chị em) and school rules are taught as the child's first shared rules.

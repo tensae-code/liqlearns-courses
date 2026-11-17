@@ -1,6 +1,6 @@
 # Sources — Conflict Resolution
 
-countries: Albania, Eritrea, Syria, Morocco, Colombia, United Arab Emirates
+countries: Albania, Eritrea, Syria, Morocco, Colombia, United Arab Emirates, Vietnam
 
 **Book 1:** *Libër Mësuesi Qytetaria 5* (teacher guide, Albanian) — Title as printed: Libër mësuesi — Qytetaria 5 (Teacher's book for Citizenship 5), by Entela Alushi; the pupil text it serves was written by Dr. Brunilda Çërraga and Dr. Silvana Loka. Grade: Grade 5 (student/teacher: TEACHER). Publisher: Shtëpia Botuese Mediaprint, Tirana; year 2019 (first edition); ISBN 978-9928-08-397-5. PDF pages: 69 (title page verified against the record title; the GitHub API route failed repeatedly (RemoteDisconnected), so the book was fetched from the record's own publisher source (mediaprint.al) and verified exactly against the record: 2,380,357 bytes = record size_bytes, 69 PDF pages = record pages; the reading copy was deleted after filing; the book stays secured in the repo per the record). Earlier waves: not read before (the Economics wave read a different Albanian book, Ekonomia 12). Verdict: COMPLETE — read FULL page by page via pdftotext -layout. Contents map: Civics/Citizenship/Government printed pp. 19–53 (Kreu 1 Individuals, groups and society, topics 1.1–1.12, plans pp. 19–35; Kreu 2 Governance, topics 2.1–2.8, plans pp. 36–44; Kreu 3 The Road, topics 3.1–3.6, plans pp. 45–53 — where-I-live and transport as community life); Morals/Values inside Kreu 1 (cooperation, self-restraint and compromise, responsibility, conflict-solving) and Kreu 2 (tolerance, rights and responsibilities); Economics printed pp. 54–69 named, not placed (Kreu 4 Production, consumption, distribution); the guide's own yearly plans, analytic programme and portfolio-assessment tables (printed pp. 5–18) and topic 4.9 Final test are apparatus/assessment, named, not placed. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/albania-placements.md. Teacher guide — evidence only, outside the acceptance count.
 
@@ -33,7 +33,7 @@ Syria's own way (Social Studies Grade 3): Grade 3 is where the series turns civi
 
 Registry note: the original coined string `resources-and-conflict/protecting-my-friendship-settling-a-quarrel-calmly` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `resources-and-conflict/conflict-resolution`.
 
-Searchable tags: conflict resolution, Albania, Eritrea, social studies, resources-and-conflict, Syria
+Searchable tags: conflict resolution, Albania, Eritrea, social studies, resources-and-conflict, Syria, Vietnam
 
 Morocco placements — Social Studies remaining strands (2026-11-17):
 
@@ -78,3 +78,18 @@ United Arab Emirates placements — Social Studies remaining strands (2026-11-17
 United Arab Emirates' own way (Moral Education, G4 Term 2 teacher guide) (teacher guide — evidence): in the Moral Education course, nine-year-olds are trained as peer mediators with a named toolkit — settlement, concession, active listening — and the five ways of facing a dispute are taught through animals (the shark forces, the turtle withdraws, the bear yields, the fox compromises, the owl solves); responsibility is taught by a lost wallet with 800 dirhams in it. That evidence is stocked here as the way United Arab Emirates teaches this thing; it does not change the acceptance count above.
 
 Registry note: the original coined string `resources-and-conflict/resolving-disputes-at-home-and-school` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `resources-and-conflict/conflict-resolution`.
+
+Vietnam placements — Social Studies remaining strands (2026-11-17):
+
+**Book 3:** *Đạo đức 3* (student book, Vietnamese) — Title as printed: ĐẠO ĐỨC 3 — Kết nối tri thức với cuộc sống (4th reprint) Grade: Grade 3 (student/teacher: STUDENT) Publisher: Nhà xuất bản Giáo dục Việt Nam (NXBGD); year 2022 (copyright); general editor Nguyễn Thị Toan; ISBN 978-604-0-30702-6; book code G1HH3G001h26 PDF pages: 70 per the record (read as the publisher's 70 page images from the record's own source_url, sgk-dao-duc-3.4698713497; printed pp. 2–67 plus covers; cover verified — ĐẠO ĐỨC 3, KNTT watermark, Nguyễn Thị Toan. Note: grab.py tree for this file returned HTTP 404 from GitHub although the record says in_pushed — a phantom push, named as a library debt in the group log) Earlier waves: not read before Verdict: COMPLETE Contents map: Civics/Citizenship pp. 5–15 (Theme 1 I love my homeland Vietnam — the national name, flag and anthem, and pride in the homeland); Integrated SS pp. 16–21 (Theme 2 Caring for neighbours); Morals/Values pp. 22–41 (love of learning, keeping promises, completing tasks) and pp. 49–56 (Theme 7 Settling disagreements with friends — peace/conflict at a child's scale); Integrated SS pp. 57–66 (Theme 8 Obeying traffic-safety rules — walking and travelling safely, transport as community life); personal development named, not placed: pp. 42–48 (Theme 6 Discovering myself — knowing one's own strengths and weaknesses and planning to build on them; the future Life Skills course's ground, like Book 2's feelings theme); glossary p. 67 (inventory only) Tally: 9 placements — 4 to existing lessons (all first proposed as NEW earlier in this file), 5 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — resources-and-conflict/sorting-out-disagreements-with-friends — Bài 8 Xử lí bất hoà với bạn bè (Settle disagreements with friends) — teaches: how quarrels show themselves (sulking, gossip, exclusion), how to end them — stay calm, find the cause, listen without interrupting, apologise honestly if you are at fault, shake hands and make up — and how a third friend can mediate until both sides understand and forgive — Vietnam Grade 3 Đạo đức 3, printed pp. 49–56 | Vietnam, *Đạo đức 3* (student book), Bài 8 Xử lí bất hoà với bạn bè (Settle disagreements with friends) — printed pp. 49–56 |
+| Vietnam's way — the books' own teaching way | Vietnam — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 5 countries (Eritrea, Syria, Morocco, Colombia, Vietnam). ** Albania is named here as teacher-guide evidence only, counted nowhere. United Arab Emirates is named here as teacher-guide evidence only, counted nowhere.**
+
+Vietnam's own way (Book 3): Grade 3 opens the Ethics course with the state itself — the country's full official name, its flag and its anthem are taught as things a child must know and honour standing still — before widening to neighbours, promises and quarrels; traffic safety returns as a full closing theme, now split into walking rules and rules for riding in vehicles.
+
+Registry note: the original coined string `resources-and-conflict/sorting-out-disagreements-with-friends` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `resources-and-conflict/conflict-resolution`.

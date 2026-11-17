@@ -1,0 +1,16 @@
+# Sources — My Classroom My Second Home
+
+countries: Vietnam
+
+**Book 7:** *Tự nhiên và Xã hội 1* (student book, Vietnamese) — Title as printed: Tự nhiên và Xã hội 1 (Kết nối tri thức với cuộc sống, 6th reprint) Grade (student/teacher: STUDENT) Publisher: NXB Giáo dục Việt Nam Year: ©2020 ISBN: 978-604-0-19571-5 PDF pages: 126 = record's 126 (read from the publisher reader's page images; cover verified: TỰ NHIÊN VÀ XÃ HỘI 1; general editor Vũ Văn Hùng, editor Nguyễn Thị Thân; book code G1HH1X001h26; printed page = image − 1) Verdict: COMPLETE for the remaining strands — ss track: contents mapped first, then Themes 1–3 read in full page by page. Named-not-placed: Bài 4 An toàn khi sử dụng đồ dùng trong nhà (safety with household things — sharp objects, burns, plugs, pp. 18–21) is personal safety, Health ground; Chủ đề 4 Thực vật và động vật (plants and animals, pp. 60–81) is Science; Chủ đề 5 Con người và sức khoẻ (the body, senses, food, exercise, self-protection, pp. 82–107) is Health; Chủ đề 6 Trái Đất và bầu trời (sky, weather, pp. 108–121) is Science; the three Ôn tập lessons (Bài 5, 9, 14) are the book's own revision lessons, excluded by the standing rule; glossary p. 122 (inventory only). Contents map: Chủ đề 1 Gia đình pp. 6–23 (SS — family, my house and its address, things in the house); Chủ đề 2 Trường học pp. 24–41 (SS — my classroom, exploring the school, fun at school); Chủ đề 3 Cộng đồng địa phương pp. 42–59 (SS — the scenery around me, the people where I live and their work, welcoming Tết, road safety); Chủ đề 4 pp. 60–81 (Science — named); Chủ đề 5 pp. 82–107 (Health — named); Chủ đề 6 pp. 108–121 (Science — named) Tally: 13 placements — 11 to existing lessons (5 of them lessons of the 113-list, 6 of them lessons proposed earlier in this file, which this file's counting rule treats as existing targets), 2 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — first-steps/my-classroom-my-second-home — Bài 6 Lớp học của em (My classroom) — teaches: greeting the teacher at the door; the classroom's own things and how they are arranged (learning corner, creativity corner, the class-rules tree); the teacher and the classmates and each one's task; lending a friend your pen; the class's activities in lessons and outside them — the classroom is a second home where the children learn and play — Vietnam Grade 1 Tự nhiên và Xã hội 1, printed pp. 24–29 | Vietnam, *Tự nhiên và Xã hội 1* (student book), Bài 6 Lớp học của em (My classroom) — printed pp. 24–29 |
+| Sub lesson 2 — Vietnam's way — the books' own teaching way | Vietnam — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Vietnam).**
+
+Vietnam's own way: the local community is introduced through two big picture scenes — the home village (health station, post office, market, school) against the city (hospital, supermarket, cinema, traffic) — and every job, from farmer to traffic policeman, is summed up in one sentence: any work that benefits society is precious.
+
+Searchable tags: my classroom my second home, Vietnam, social studies, first-steps

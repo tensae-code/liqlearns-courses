@@ -1,6 +1,6 @@
 # Sources — Means of Transport
 
-countries: Albania, North Macedonia, Rwanda
+countries: Albania, North Macedonia, Rwanda, Vietnam
 
 **Book 1:** *Libër Mësuesi Qytetaria 5* (teacher guide, Albanian) — Title as printed: Libër mësuesi — Qytetaria 5 (Teacher's book for Citizenship 5), by Entela Alushi; the pupil text it serves was written by Dr. Brunilda Çërraga and Dr. Silvana Loka. Grade: Grade 5 (student/teacher: TEACHER). Publisher: Shtëpia Botuese Mediaprint, Tirana; year 2019 (first edition); ISBN 978-9928-08-397-5. PDF pages: 69 (title page verified against the record title; the GitHub API route failed repeatedly (RemoteDisconnected), so the book was fetched from the record's own publisher source (mediaprint.al) and verified exactly against the record: 2,380,357 bytes = record size_bytes, 69 PDF pages = record pages; the reading copy was deleted after filing; the book stays secured in the repo per the record). Earlier waves: not read before (the Economics wave read a different Albanian book, Ekonomia 12). Verdict: COMPLETE — read FULL page by page via pdftotext -layout. Contents map: Civics/Citizenship/Government printed pp. 19–53 (Kreu 1 Individuals, groups and society, topics 1.1–1.12, plans pp. 19–35; Kreu 2 Governance, topics 2.1–2.8, plans pp. 36–44; Kreu 3 The Road, topics 3.1–3.6, plans pp. 45–53 — where-I-live and transport as community life); Morals/Values inside Kreu 1 (cooperation, self-restraint and compromise, responsibility, conflict-solving) and Kreu 2 (tolerance, rights and responsibilities); Economics printed pp. 54–69 named, not placed (Kreu 4 Production, consumption, distribution); the guide's own yearly plans, analytic programme and portfolio-assessment tables (printed pp. 5–18) and topic 4.9 Final test are apparatus/assessment, named, not placed. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/albania-placements.md. Teacher guide — evidence only, outside the acceptance count.
 
@@ -15,7 +15,7 @@ Albania's own way (teacher guide — evidence): Citizenship in Grade 5 is taught
 
 Registry note: the original coined string `first-steps/means-of-transport-how-we-travel` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/means-of-transport`.
 
-Searchable tags: means of transport, Albania, social studies, first-steps, Rwanda
+Searchable tags: means of transport, Albania, social studies, first-steps, Rwanda, Vietnam
 
 
 North Macedonia placements — Social Studies remaining strands (2026-11-17):
@@ -43,3 +43,18 @@ Registry note: the original coined string `first-steps/means-of-transport-how-we
 **Acceptance count: taught in 2 countries (North Macedonia, Rwanda). Albania is named here as teacher-guide evidence only, counted nowhere.**
 
 Rwanda's own way (Primary Two — Rwanda P2 SB Kiny): P2 civics starts with who you belong to (small family, wide family, the exact Kinyarwanda name for every relation), then the two smallest rungs of the state — the village and the cell, their elected committees and what umuganda owes them — and the behaviour of peace: playing without discrimination, listening without shouting, and the rights of children and of people with disabilities
+
+Vietnam placements — Social Studies remaining strands (2026-11-17):
+
+**Book 8:** *Tự nhiên và Xã hội 2* (student book, Vietnamese) — Title as printed: Tự nhiên và Xã hội 2 (Kết nối tri thức với cuộc sống, 5th reprint) Grade (student/teacher: STUDENT) Publisher: NXB Giáo dục Việt Nam Year: ©2021 ISBN: 978-604-0-25145-9 PDF pages: 122 = record's 122 (read from the publisher reader's page images; cover verified: TỰ NHIÊN VÀ XÃ HỘI 2; general editor Vũ Văn Hùng, editor Nguyễn Thị Thân; book code G1HH2X001h26; printed page = image − 1) Verdict: COMPLETE for the remaining strands — ss track: contents mapped first, then Themes 1–3 read in full page by page. Named-not-placed: Bài 3 Phòng tránh ngộ độc khi ở nhà (preventing poisoning at home, pp. 14–17) and Bài 8 An toàn khi ở trường (safety at school, pp. 32–35) are personal safety, Health ground; Bài 11 Hoạt động mua bán hàng hoá and Bài 12 Thực hành mua bán hàng hoá (buying and selling goods — needs, prices, choosing by price and quality, classroom market practice, pp. 42–47) are Economics ground (the market and supermarket as community places were placed from Book 7's Bài 10); Chủ đề 4 Thực vật và động vật (pp. 58–77) is Science, including Bài 18 on protecting plants' and animals' living environment, which is framed there as nature study; Chủ đề 5 Con người và sức khoẻ (pp. 78–103) is Health; Chủ đề 6 Trái Đất và bầu trời (seasons and natural disasters, pp. 104–117) is Science; the Ôn tập lessons (Bài 5, 10, 15) are the book's own revision lessons, excluded by the standing rule; glossary p. 118 (inventory only). Contents map: Chủ đề 1 Gia đình pp. 6–23 (SS — the generations in the family, adults' occupations, keeping the house clean; poisoning prevention = Health, named); Chủ đề 2 Trường học pp. 24–41 (SS — welcoming the opening day, our reading festival, keeping the school hygienic; safety at school = Health, named); Chủ đề 3 Cộng đồng địa phương pp. 42–57 (buying and selling = Economics, named; traffic activities and joining traffic = SS); Chủ đề 4 pp. 58–77 (Science — named); Chủ đề 5 pp. 78–103 (Health — named); Chủ đề 6 pp. 104–117 (Science — named) Tally: 9 placements — 6 to existing (in-file) lessons, 3 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — first-steps/means-of-transport-and-the-roads-they-use — Bài 13 Hoạt động giao thông (Traffic activities) — teaches: the means of transport and the way each one travels — bicycles, motorbikes, cars and buses on the road, trains on rails, planes in the air, boats and ships on the water — and what transport gives people: faster travel and goods carried everywhere — Vietnam Grade 2 Tự nhiên và Xã hội 2, printed pp. 48–49 | Vietnam, *Tự nhiên và Xã hội 2* (student book), Bài 13 Hoạt động giao thông (Traffic activities) — printed pp. 48–49 |
+| Vietnam's way — the books' own teaching way | Vietnam — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 3 countries (North Macedonia, Rwanda, Vietnam). Albania is named here as teacher-guide evidence only, counted nowhere.**
+
+Vietnam's own way (Book 8): work is met first inside the family — the adults' occupations, paid and unpaid, with Hồ Chí Minh's saying "labour is glory" — and traffic is taught as a system of kinds (road, rail, air, water) whose signs fall into three colour-coded families every road user must obey.
+
+Registry note: the original coined string `first-steps/means-of-transport-and-the-roads-they-use` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/means-of-transport`.

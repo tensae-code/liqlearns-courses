@@ -1,6 +1,6 @@
 # Sources — My School as a Place
 
-countries: Fiji, Latvia, Mauritius, Ecuador, Yemen, Libya, Afghanistan, Eritrea, Serbia, Venezuela, Turkey, Iraq, Kazakhstan, North Macedonia, Angola, Sri Lanka, Cambodia
+countries: Fiji, Latvia, Mauritius, Ecuador, Yemen, Libya, Afghanistan, Eritrea, Serbia, Venezuela, Turkey, Iraq, Kazakhstan, North Macedonia, Angola, Sri Lanka, Cambodia, Vietnam
 
 **Book 1:** *Social Studies Year 3 (Re-edited 2017)* (student book, English) — Fiji, Ministry of Education, Heritage & Arts, Curriculum Development Unit (with UNESCO / Fiji Memory of the World support); year 2017 (re-edited); ISBN no ISBN printed. Title as printed: Social Studies Year 3 (Re-edited 2017). Grade: Year 3 (student/teacher: STUDENT). PDF pages: 64 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: grab.py GitHub API failed (RemoteDisconnected, release route ×2 and tree route ×1); read instead from the books.json record's own Wayback source_url — the ministry original of the same book. Non-Geography parts named, not placed: Part One Strand 1 Social Organisation — Lesson 1 My Family (printed p. 5), Lesson 2 Family Relationships (p. 11), Lesson 3 Family Roles (p. 17); Strand 2 Time, Continuity and Change — Lesson 4 Cultural Background (p. 24). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
 
@@ -166,7 +166,7 @@ Sri Lanka's own way (Sri Lanka Grade 6 Civic Education): civics starts inside th
 
 Registry note: the original coined string `first-steps/the-people-who-run-our-school-and-their-duties` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §5 into this existing lesson, `first-steps/my-school-as-a-place`.
 
-Searchable tags: my school as a place, Sri Lanka, social studies, first-steps
+Searchable tags: my school as a place, Sri Lanka, social studies, first-steps, Vietnam
 
 Cambodia placements — Social Studies remaining strands (2026-11-17):
 
@@ -180,3 +180,15 @@ Cambodia placements — Social Studies remaining strands (2026-11-17):
 
 Cambodia's own way (Cambodia Grade 2 Science–Social G2): the community chapter is built around the child's own school and village — where they stand, their story, and the child's own job of helping to care for the school; the book closes by widening to the King and the country's leaders and to the vehicles all around. That way is stocked here as the way Cambodia teaches this thing.
 
+Vietnam placements — Social Studies remaining strands (2026-11-17):
+
+**Book 7:** *Tự nhiên và Xã hội 1* (student book, Vietnamese) — Title as printed: Tự nhiên và Xã hội 1 (Kết nối tri thức với cuộc sống, 6th reprint) Grade (student/teacher: STUDENT) Publisher: NXB Giáo dục Việt Nam Year: ©2020 ISBN: 978-604-0-19571-5 PDF pages: 126 = record's 126 (read from the publisher reader's page images; cover verified: TỰ NHIÊN VÀ XÃ HỘI 1; general editor Vũ Văn Hùng, editor Nguyễn Thị Thân; book code G1HH1X001h26; printed page = image − 1) Verdict: COMPLETE for the remaining strands — ss track: contents mapped first, then Themes 1–3 read in full page by page. Named-not-placed: Bài 4 An toàn khi sử dụng đồ dùng trong nhà (safety with household things — sharp objects, burns, plugs, pp. 18–21) is personal safety, Health ground; Chủ đề 4 Thực vật và động vật (plants and animals, pp. 60–81) is Science; Chủ đề 5 Con người và sức khoẻ (the body, senses, food, exercise, self-protection, pp. 82–107) is Health; Chủ đề 6 Trái Đất và bầu trời (sky, weather, pp. 108–121) is Science; the three Ôn tập lessons (Bài 5, 9, 14) are the book's own revision lessons, excluded by the standing rule; glossary p. 122 (inventory only). Contents map: Chủ đề 1 Gia đình pp. 6–23 (SS — family, my house and its address, things in the house); Chủ đề 2 Trường học pp. 24–41 (SS — my classroom, exploring the school, fun at school); Chủ đề 3 Cộng đồng địa phương pp. 42–59 (SS — the scenery around me, the people where I live and their work, welcoming Tết, road safety); Chủ đề 4 pp. 60–81 (Science — named); Chủ đề 5 pp. 82–107 (Health — named); Chủ đề 6 pp. 108–121 (Science — named) Tally: 13 placements — 11 to existing lessons (5 of them lessons of the 113-list, 6 of them lessons proposed earlier in this file, which this file's counting rule treats as existing targets), 2 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — first-steps/my-school-as-a-place — Bài 7 Cùng khám phá trường học (Explore the school together) — teaches: walking the whole school — its classrooms, library, medical room, computer room, tradition room, kitchen and washrooms — and giving your own school's name and address and saying how it differs — Vietnam Grade 1 Tự nhiên và Xã hội 1, printed pp. 30–35 | Vietnam, *Tự nhiên và Xã hội 1* (student book), Bài 7 Cùng khám phá trường học (Explore the school together) — printed pp. 30–35 |
+| Vietnam's way — the books' own teaching way | Vietnam — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 16 countries (Fiji, Ecuador, Yemen, Libya, Afghanistan, Eritrea, Serbia, Venezuela, Turkey, Iraq, Kazakhstan, North Macedonia, Angola, Sri Lanka, Cambodia, Vietnam).**
+
+Vietnam's own way (Book 7): the local community is introduced through two big picture scenes — the home village (health station, post office, market, school) against the city (hospital, supermarket, cinema, traffic) — and every job, from farmer to traffic policeman, is summed up in one sentence: any work that benefits society is precious.

@@ -1,6 +1,6 @@
 # Sources — Discipline and Following Rules
 
-countries: Somalia, Sri Lanka, Cambodia
+countries: Somalia, Sri Lanka, Cambodia, Vietnam
 
 **Book 1:** *Barbaarinta iyo Cilmiga Beesha, Fasalka Koowaad* (teacher guide, Somali) — Title as printed: BARBAARINTA IYO CILMIGA BEESHA — FASALKA KOOWAAD (Upbringing and Social Studies — First Grade); Jamhuuriyadda Dimoqraadiga Soomaaliya, Wasaaradda Waxbarashada iyo Barbaarinta, Xafiiska Manaahiijta (Somali Democratic Republic, Ministry of Education, Curriculum Office). Grade: Grade 1 (student/teacher: TEACHER — the book states it is a Tusmo-Bare, a guide for the teacher only; every lesson is written as teacher steps, materials and questions). Publisher: Ministry of Education, Curriculum Office; printed by Madbacadda Qaranka (National Press), 1975 (imprint on verso); authors Maxamed Cali Warsame, Ibraahim Maxamuud Abyan, with Xaliima Cusmaan Axmed; no ISBN printed. PDF pages: 56 (cover and title page verified against the record title; 1,188,918 bytes exact match to the link record). Earlier waves: not read before (no Somalia filings in the Geography, History or Economics waves). Verdict: COMPLETE. Contents map: Integrated SS / Civics / Morals throughout — introduction and the making of the child's personality (qofnimo) printed pp. 1–6; the flag p. 7; the city p. 10; the motherland p. 14; work and socialism p. 17; the Revolution p. 22; Religion p. 28 (named, not placed); work and the workers p. 33; self-help p. 38; discipline and manners pp. 41–47; the society the pupil lives in p. 48. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/somalia-placements.md. Teacher guide — evidence only, outside the acceptance count. External-link book NOT in GitHub, staged under the 2026-11-13 rule, as filed.
 
@@ -30,7 +30,7 @@ Sri Lanka's own way (Sri Lanka Grade 6 Civic Education): civics starts inside th
 
 Registry note: the original coined string `culture-and-work/discipline-and-good-behaviour` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/discipline-and-following-rules`.
 
-Searchable tags: discipline and following rules, Sri Lanka, social studies, culture-and-work
+Searchable tags: discipline and following rules, Sri Lanka, social studies, culture-and-work, Vietnam
 
 Cambodia placements — Social Studies remaining strands (2026-11-17):
 
@@ -46,3 +46,17 @@ Cambodia's own way (Cambodia Grade 3 Science–Social G3): community living is t
 
 Registry note: the original coined string `culture-and-work/good-order-and-discipline` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/discipline-and-following-rules`.
 
+Vietnam placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *Đạo đức 1* (student book, Vietnamese) — Title as printed: ĐẠO ĐỨC 1 — Kết nối tri thức với cuộc sống Grade: Grade 1 (student/teacher: STUDENT) Publisher: Nhà xuất bản Giáo dục Việt Nam (NXBGD); year 2020 (copyright); editor-in-chief Phạm Vĩnh Thái; ISBN 978-604-0-19563-0; book code G1HH1G001h26 PDF pages: 74 per the record (read as the publisher's 74 page images, printed pp. 1–71 plus covers; cover verified against the record title) Earlier waves: not read before Verdict: COMPLETE Contents map: Morals/Values pp. 14–55 (family love and care, school rules, orderly living, doing one's own work, honesty); Integrated SS pp. 28–37 (school and class as the child's community, inside the school-rules theme) and p. 56 (road safety as community life); Health (named, not placed) pp. 6–13 (Theme 1 Self-care: hands, teeth, bathing, clothes — body hygiene, the Health course's) and pp. 58–70 (Theme 8 accident prevention: drowning, burns, falls, electric shock, food poisoning, abuse prevention — personal safety, the Health course's); glossary p. 71 (inventory only) Tally: 20 placements — 0 to existing lessons, 20 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — first-steps/keeping-order-in-school-and-class — Bài 12 Giữ trật tự trong trường, lớp (Keep order in school and class) — teaches: when order is needed (assembly under the flag, lining up, nap time, lessons) and why noise harms everyone's learning — Vietnam Grade 1 Đạo đức 1, printed pp. 32–33 | Vietnam, *Đạo đức 1* (student book), Bài 12 Giữ trật tự trong trường, lớp (Keep order in school and class) — printed pp. 32–33 |
+| Vietnam's way — the books' own teaching way | Vietnam — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 3 countries (Sri Lanka, Cambodia, Vietnam). ** Somalia is named here as teacher-guide evidence only, counted nowhere.**
+
+Vietnam's own way (Book 1): Đạo đức (Ethics) is Vietnam's standalone primary moral-education subject; every lesson runs the same four moves — a song to open, picture stories to explore, practice pictures to judge, a role-play to apply — and closes with a two-line rhyme that states the duty; the family is taught three-generational (ông bà – cha mẹ – anh chị em) and school rules are taught as the child's first shared rules.
+
+Registry note: the original coined string `first-steps/keeping-order-in-school-and-class` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/discipline-and-following-rules`.

@@ -1,6 +1,6 @@
 # Sources — Houses And Homes Where Families Live
 
-countries: Venezuela, India
+countries: Venezuela, India, Vietnam
 
 **Book 1:** *¡Viva Venezuela! Ciencias Sociales 1er Grado* (student book, Spanish) — Ministerio del Poder Popular para la Educación / Colección Bicentenario; year 2014 (fourth edition, April 2014); ISBN 978-980-218-297-8. Title as printed: ¡Viva Venezuela! Ciencias Sociales 1er Grado. Grade: Grade 1 (student/teacher: STUDENT). PDF pages: 67 (printed pages run to 128 in two-page spreads; cover/title page verified against the record title; grab SHA/size verified by grab.py). Verdict: COMPLETE. (Combined book — Geography parts placed below; parts named, not placed — History parts named, not placed: El niño Simón Bolívar (printed p. 103); Días para recordar (p. 80); Antes, es el pasado (p. 117, time/history notion).; Civics parts named, not placed: La bandera de las 8 estrellas (p. 82); La plaza Bolívar de Caracas (p. 90); Igualdad entre diferentes (p. 92); Ustedes tienen derechos y deberes (p. 105); school/family community lessons (pp. 8–24, 54).; Science parts named, not placed: ¿Para qué sirven los pies? (p. 22, the body).) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/venezuela-placements.md.
 
@@ -36,7 +36,7 @@ Venezuela's own way (Venezuela Grade 3 G3 CS Viva Venezuela): the second half is
 
 Venezuela's own way (Venezuela Grade 4 G4 CS Venezuela y Su Gente): geography is the first block ("Conóceme, soy Venezuela") and is built as widening circles — the child's house drawn to a stated scale (1 cm on the plan = 1 m), then Tomás's town, then Venezuela's territory and borders, then Latin America and the unequal world.
 
-Searchable tags: houses and homes where families live, Venezuela, social studies, first-steps, India
+Searchable tags: houses and homes where families live, Venezuela, social studies, first-steps, India, Vietnam
 
 India placements — Social Studies remaining strands (2026-11-17):
 
@@ -50,3 +50,16 @@ India placements — Social Studies remaining strands (2026-11-17):
 **Acceptance count: taught in 2 countries (Venezuela, India).**
 
 India's own way (Looking Around (EVS), Grade 3): the child's own family is the first school — relations, pet names, family work and respect for elders are learned at home before any classroom; and every neighbourhood trade, from dhobi to traffic policeman, is shown as work of equal worth.
+
+Vietnam placements — Social Studies remaining strands (2026-11-17):
+
+**Book 7:** *Tự nhiên và Xã hội 1* (student book, Vietnamese) — Title as printed: Tự nhiên và Xã hội 1 (Kết nối tri thức với cuộc sống, 6th reprint) Grade (student/teacher: STUDENT) Publisher: NXB Giáo dục Việt Nam Year: ©2020 ISBN: 978-604-0-19571-5 PDF pages: 126 = record's 126 (read from the publisher reader's page images; cover verified: TỰ NHIÊN VÀ XÃ HỘI 1; general editor Vũ Văn Hùng, editor Nguyễn Thị Thân; book code G1HH1X001h26; printed page = image − 1) Verdict: COMPLETE for the remaining strands — ss track: contents mapped first, then Themes 1–3 read in full page by page. Named-not-placed: Bài 4 An toàn khi sử dụng đồ dùng trong nhà (safety with household things — sharp objects, burns, plugs, pp. 18–21) is personal safety, Health ground; Chủ đề 4 Thực vật và động vật (plants and animals, pp. 60–81) is Science; Chủ đề 5 Con người và sức khoẻ (the body, senses, food, exercise, self-protection, pp. 82–107) is Health; Chủ đề 6 Trái Đất và bầu trời (sky, weather, pp. 108–121) is Science; the three Ôn tập lessons (Bài 5, 9, 14) are the book's own revision lessons, excluded by the standing rule; glossary p. 122 (inventory only). Contents map: Chủ đề 1 Gia đình pp. 6–23 (SS — family, my house and its address, things in the house); Chủ đề 2 Trường học pp. 24–41 (SS — my classroom, exploring the school, fun at school); Chủ đề 3 Cộng đồng địa phương pp. 42–59 (SS — the scenery around me, the people where I live and their work, welcoming Tết, road safety); Chủ đề 4 pp. 60–81 (Science — named); Chủ đề 5 pp. 82–107 (Health — named); Chủ đề 6 pp. 108–121 (Science — named) Tally: 13 placements — 11 to existing lessons (5 of them lessons of the 113-list, 6 of them lessons proposed earlier in this file, which this file's counting rule treats as existing targets), 2 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — first-steps/houses-and-homes-where-families-live — Bài 2 Ngôi nhà của em (My house) — teaches: houses differ — stilt house, garden house, house on the water, apartment block — and inside, each room (living room, bedroom, kitchen, bathroom) holds its own things; a dwelling is the place where the whole family lives — Vietnam Grade 1 Tự nhiên và Xã hội 1, printed pp. 10–13 | Vietnam, *Tự nhiên và Xã hội 1* (student book), Bài 2 Ngôi nhà của em (My house) — printed pp. 10–13 |
+| Vietnam's way — the books' own teaching way | Vietnam — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 3 countries (Venezuela, India, Vietnam).**
+
+Vietnam's own way (Book 7): the local community is introduced through two big picture scenes — the home village (health station, post office, market, school) against the city (hospital, supermarket, cinema, traffic) — and every job, from farmer to traffic policeman, is summed up in one sentence: any work that benefits society is precious.

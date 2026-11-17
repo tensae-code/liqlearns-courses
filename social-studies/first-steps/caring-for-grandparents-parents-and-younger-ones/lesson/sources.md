@@ -1,6 +1,6 @@
 # Sources — Caring for Grandparents Parents and Younger Ones
 
-countries: Eritrea, Syria
+countries: Eritrea, Syria, Vietnam
 
 **Book 1:** *Social Studies for Grade 6 — Pupils' Book* (student book, English) — Title as printed: Social Studies for Grade 6 — Pupils' Book. Grade: Grade 6 (student/teacher: STUDENT). Publisher: Ministry of Education, The State of Eritrea; year 2015 (reprinted 2015, Sabur Printing Services, Asmara); ISBN 99948-1-453-2. PDF pages: 127 (cover/title page verified against the record title in the earlier waves' identical grab; 2,730,732 bytes and 127 pages, both match the record). Earlier waves: Geography wave placed Units 3–12 (including Unit 7 Culture and Beliefs); History wave placed Units 1, 2, 8, 9; Economics wave placed Unit 11. Unit 13 was named by the Geography wave as "Civics / life-skills", not placed, and labelled Health Education by the History wave. Verdict: COMPLETE (contents-first; the remaining strand — Unit 13 — read fully, printed pp. 111–121. The unit is family life and care for others, not body hygiene: its safety teaching is the older child's duty to keep younger children safe, so it is placed here as integrated SS / morals, with the home-accident content named). Contents map: Integrated SS / Morals pp. 111–121 (Unit 13 Caring for Younger Children — kinds of families, companionship, looking after younger children, safety at home as a carer's duty); Geography pp. 15–110 (Units 3–6, 10, 12 — Geography wave); History pp. 1–14, 60–77 (Units 1, 2, 8, 9 — History wave); Culture pp. 43–59 (Unit 7 — Geography wave); Economics pp. 93–99 (Unit 11 — Economics wave). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/eritrea-placements.md.
 
@@ -26,4 +26,19 @@ Syria's own way (Social Studies Grade 1): the whole primary series opens with wi
 
 Registry note: the original coined string `culture-and-work/caring-for-my-grandparents` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/caring-for-grandparents-parents-and-younger-ones`.
 
-Searchable tags: caring for grandparents parents and younger ones, Eritrea, social studies, first-steps, Syria
+Searchable tags: caring for grandparents parents and younger ones, Eritrea, social studies, first-steps, Syria, Vietnam
+
+Vietnam placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *Đạo đức 1* (student book, Vietnamese) — Title as printed: ĐẠO ĐỨC 1 — Kết nối tri thức với cuộc sống Grade: Grade 1 (student/teacher: STUDENT) Publisher: Nhà xuất bản Giáo dục Việt Nam (NXBGD); year 2020 (copyright); editor-in-chief Phạm Vĩnh Thái; ISBN 978-604-0-19563-0; book code G1HH1G001h26 PDF pages: 74 per the record (read as the publisher's 74 page images, printed pp. 1–71 plus covers; cover verified against the record title) Earlier waves: not read before Verdict: COMPLETE Contents map: Morals/Values pp. 14–55 (family love and care, school rules, orderly living, doing one's own work, honesty); Integrated SS pp. 28–37 (school and class as the child's community, inside the school-rules theme) and p. 56 (road safety as community life); Health (named, not placed) pp. 6–13 (Theme 1 Self-care: hands, teeth, bathing, clothes — body hygiene, the Health course's) and pp. 58–70 (Theme 8 accident prevention: drowning, burns, falls, electric shock, food poisoning, abuse prevention — personal safety, the Health course's); glossary p. 71 (inventory only) Tally: 20 placements — 0 to existing lessons, 20 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — first-steps/caring-for-grandparents-parents-and-younger-ones — Bài 7 Quan tâm, chăm sóc ông bà (Care for grandparents) — teaches: asking after grandparents' health, helping them on the stairs, telling them your good news — gratitude and filial care as a daily habit — Vietnam Grade 1 Đạo đức 1, printed pp. 22–23 | Vietnam, *Đạo đức 1* (student book), Bài 7 Quan tâm, chăm sóc ông bà (Care for grandparents) — printed pp. 22–23 |
+| Vietnam part — first-steps/caring-for-grandparents-parents-and-younger-ones — Bài 8 Quan tâm, chăm sóc cha mẹ (Care for parents) — teaches: noticing when mother is ill or father comes home tired, speaking softly, helping with house jobs — Vietnam Grade 1 Đạo đức 1, printed pp. 24–25 | Vietnam, *Đạo đức 1* (student book), Bài 8 Quan tâm, chăm sóc cha mẹ (Care for parents) — printed pp. 24–25 |
+| Vietnam part — first-steps/caring-for-grandparents-parents-and-younger-ones — Bài 9 Chăm sóc, giúp đỡ em nhỏ (Care for and help younger siblings) — teaches: feeding, reading to, dressing and comforting a younger brother or sister — Vietnam Grade 1 Đạo đức 1, printed pp. 26–27 | Vietnam, *Đạo đức 1* (student book), Bài 9 Chăm sóc, giúp đỡ em nhỏ (Care for and help younger siblings) — printed pp. 26–27 |
+| Vietnam's way — the books' own teaching way | Vietnam — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 3 countries (Eritrea, Syria, Vietnam).**
+
+Vietnam's own way (Book 1): Đạo đức (Ethics) is Vietnam's standalone primary moral-education subject; every lesson runs the same four moves — a song to open, picture stories to explore, practice pictures to judge, a role-play to apply — and closes with a two-line rhyme that states the duty; the family is taught three-generational (ông bà – cha mẹ – anh chị em) and school rules are taught as the child's first shared rules.

@@ -1,6 +1,6 @@
 # Sources — Who is a Citizen
 
-countries: Eritrea, Guatemala
+countries: Eritrea, Guatemala, Vietnam
 
 **Book 1:** *Citizenship Education for Grade 6 — Textbook* (student book, English) — Title as printed: Citizenship Education for Grade 6 — Textbook. Grade: Grade 6 (student/teacher: STUDENT). Publisher: Ministry of Education, The State of Eritrea; year 2014 (first printed 2014, Sabur Printing Services, Asmara); ISBN 99948-1-743-4. PDF pages: 121 (cover/title page verified against the record title; 2,740,923 bytes and 121 pages, both match the record). Earlier waves: not read before (no earlier wave held this book). Verdict: COMPLETE (civics track — read in full, page by page, to printed p. 115). Contents map: Civics/Citizenship/Government pp. 62–75 (referendum and voting, national principles, government structure, rights and duties), 96–115 (rules, rights and responsibilities, good citizen); Morals/Values pp. 1–18 (responsible young person, family responsibility, honesty, friendship), 19–30 (a good student), 76–85 (patriotism as service), 107–115 (qualities of a good citizen, respecting parents); Integrated SS pp. 31–45 (family and culture, doing good for others, diversity of Eritrean society, religious harmony), 86–95 (national symbols and holidays); History pp. 46–61 (the Eritrean Revolution; the Liberation of Eritrea) — named, not placed (History wave's strand). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/eritrea-placements.md.
 
@@ -15,7 +15,7 @@ Eritrea's own way (ER G6 Citizenship Education): a standalone Citizenship Educat
 
 Registry note: the original coined string `culture-and-work/who-is-a-citizen-eritrea` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/who-is-a-citizen`.
 
-Searchable tags: who is a citizen, Eritrea, social studies, culture-and-work
+Searchable tags: who is a citizen, Eritrea, social studies, culture-and-work, Vietnam
 
 Guatemala placements — Social Studies remaining strands (2026-11-17):
 
@@ -29,3 +29,18 @@ Guatemala placements — Social Studies remaining strands (2026-11-17):
 
 Guatemala's own way (Book 5): citizenship is woven through every unit of the history/geography book — a fourth-grader meets the three powers, the human-rights declaration, the civil registry and the ballot box inside the same volume that tells the national story, under the unit motto "Vivamos en Armonía" (Let us live in harmony).
 Registry note: the original coined string `culture-and-work/who-is-a-guatemalan-citizen` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/who-is-a-citizen`.
+
+Vietnam placements — Social Studies remaining strands (2026-11-17):
+
+**Book 6:** *Giáo dục công dân 6* (student book, Vietnamese) — Title as printed: Giáo dục công dân 6 (Kết nối tri thức với cuộc sống, 5th reprint) Grade (student/teacher: STUDENT) Publisher: NXB Giáo dục Việt Nam Year: ©2021 ISBN: 978-604-0-25147-3 PDF pages: record 62; the publisher reader served 60 pages (outer covers omitted, as with Ethics 4 and 5) — printed pp. 2–59 plus credits all present (title page verified: GIÁO DỤC CÔNG DÂN 6, KNTT; general editor Nguyễn Thị Toan, editor Trần Thị Mai Phương; book code G1HH6G001h26) Verdict: COMPLETE — civics track, read in full page by page. Named-not-placed: Bài 5 Tự lập (self-reliance, pp. 22–25) and Bài 6 Tự nhận thức bản thân (self-awareness, pp. 26–29) — personal-development content, the same ground as Ethics 2's feelings theme and Ethics 3's self-discovery lesson; Bài 7 Ứng phó với tình huống nguy hiểm (coping with dangerous situations — abduction, fire, drowning, storms, flash floods, pp. 30–34) — personal safety, Health ground, as with Ethics 1's Theme 8 and Ethics 5's Bài 7 (its emergency-number box repeats 111/112/113/114/115); Bài 8 Tiết kiệm (thrift — saving money, time, water and electricity, pp. 35–40) — Economics, as with the money lessons of Ethics 4 and 5; glossary p. 59 (inventory only). The book's own preface sorts its 12 lessons into moral education, life skills, economic education and legal education. Contents map: Bài 1 Tự hào về truyền thống gia đình, dòng họ p. 5 (Culture — family and clan traditions); Bài 2 Yêu thương con người p. 9 (Values — loving people); Bài 3 Siêng năng, kiên trì p. 13 (Values — diligence and perseverance); Bài 4 Tôn trọng sự thật p. 17 (Values — respecting the truth); Bài 5 Tự lập p. 22 (named — personal development); Bài 6 Tự nhận thức bản thân p. 26 (named — personal development); Bài 7 Ứng phó với tình huống nguy hiểm p. 30 (named — Health/safety); Bài 8 Tiết kiệm p. 35 (named — Economics); Bài 9 Công dân nước Cộng hoà xã hội chủ nghĩa Việt Nam p. 41 (Civics — who is a citizen); Bài 10 Quyền và nghĩa vụ cơ bản của công dân p. 45 (Civics — citizens' basic rights and duties); Bài 11 Quyền cơ bản của trẻ em p. 50 (Civics — children's basic rights); Bài 12 Thực hiện quyền trẻ em p. 55 (Civics — putting children's rights into practice) Tally: 8 placements — 4 to existing (in-file) lessons, 4 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam part — culture-and-work/what-makes-me-a-citizen-of-my-country — Bài 9 Công dân nước Cộng hoà xã hội chủ nghĩa Việt Nam (Citizen of the Socialist Republic of Vietnam) — teaches: a citizen is a person who holds a state's nationality, with the rights and duties its law sets; Vietnam's Nationality Law (2008, arts. 5, 15–18) works the cases — a child of two Vietnamese parents, of one Vietnamese parent, born in Vietnam to stateless parents, a foundling — and nationality is what the passport, citizen identity card and birth certificate record — Vietnam Grade 6 Giáo dục công dân 6, printed pp. 41–44 | Vietnam, *Giáo dục công dân 6* (student book), Bài 9 Công dân nước Cộng hoà xã hội chủ nghĩa Việt Nam (Citizen of the Socialist Republic of Vietnam) — printed pp. 41–44 |
+| Vietnam's way — the books' own teaching way | Vietnam — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 3 countries (Eritrea, Guatemala, Vietnam).**
+
+Vietnam's own way (Book 6): citizenship is taught straight from the statute book — the Nationality Law decides who is a citizen case by case, the 2013 Constitution's Chapter II is read group by group (political, civil, economic, cultural-social rights, then duties), and children's rights arrive through the UN Convention and the 2016 Children Law in four groups: survival, protection, development, participation.
+
+Registry note: the original coined string `culture-and-work/what-makes-me-a-citizen-of-my-country` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/who-is-a-citizen`.
