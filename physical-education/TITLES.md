@@ -283,3 +283,20 @@ of Zimbabwe**
 and **Mass Displays**
 (`traditional-games-and-dances/mass-displays`)
 — 5 new lessons, bringing this course to 175 lessons.
+
+The PE expansion then added: **Football Techniques**
+(`ball-games/football-techniques`), **Sepak Takraw**
+(`ball-games/sepak-takraw`), **Touch Rugby**
+(`ball-games/touch-rugby`), **Hockey Skills**
+(`ball-games/hockey-skills`), **Dodgeball**
+(`ball-games/dodgeball`), **Race Walking**
+(`athletics/race-walking`), **Camp Craft**
+(`games-to-play/camp-craft`), **Fit-ball Games**
+(`games-to-play/fit-ball-games`), **Gymnastics for All**
+(`gymnastics/gymnastics-for-all`), **Chinlone**
+(`traditional-games-and-dances/chinlone`),
+**Traditional Dances of Malaysia**
+(`traditional-games-and-dances/traditional-dances-of-malaysia`)
+and **Traditional Games of Malaysia**
+(`traditional-games-and-dances/traditional-games-of-malaysia`)
+— 12 new lessons, bringing this course to 187 lessons.

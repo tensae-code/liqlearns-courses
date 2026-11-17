@@ -704,6 +704,35 @@ adventure), kids athletics and aquatics in every grade,
 and mass displays — choreography and formations — as a
 full topic of its own.
 
+**PE expansion — Malaysia — BUILT 2026-11-16:** 108 placements
+from Malaysia's five KSSM *Pendidikan Jasmani dan
+Pendidikan Kesihatan* (PJPK) student books — Tingkatan 1
+(Form 1 / Grade 7, Aras Mega, 2016), Tingkatan 2 (Form 2 /
+Grade 8, Telaga Biru, 2017), Tingkatan 3 (Form 3 / Grade 9,
+Aras Mega, 2018), Tingkatan 4 (Form 4 / Grade 10, Telaga
+Biru, 2019) and Tingkatan 5 (Form 5 / Grade 11,
+Karangkraf Network, 2020), all COMPLETE — stocked: 72
+into existing lessons (including canonical lessons built
+earlier in this expansion) and 36 as 12 new lessons
+(Football Techniques; Sepak Takraw; Touch Rugby; Hockey
+Skills; Dodgeball; Race Walking; Camp Craft; Fit-ball
+Games; Gymnastics for All; Chinlone; Traditional Dances
+of Malaysia; Traditional Games of Malaysia) — bringing
+this course to **187 lessons**. All five books are
+student books, so Malaysia is student-book stock, inside
+the acceptance counts, in every lesson it touches. No
+Malaysia placement resolves to a Health-course lesson
+through the PE slug registry, so none was excluded as
+Health-bound; the books' Health parts are filed in
+malaysia-health-placements.md. Malaysia's own way is
+content: one combined PE + Health book per form,
+organised by game categories (attacking / net games)
+taught through Teaching Games for Understanding (TGfU),
+with Malaysian traditional dances (Joget, Sumazau, Inang,
+Zapin, Ngajat, Sewang, lion dance, Bhangra, Farapeirra)
+and traditional games in every form, and sepak takraw,
+Malaysia's own sport, given a whole unit.
+
 ## Unit 1 — Moving Basics
 
 1. **Combined Travelling and On-the-Spot Movements** (`moving-basics/combined-travelling-and-on-the-spot`) — joining travelling movements together, joining on-the-spot movements together, and chaining the two families in one sequence.
@@ -780,6 +809,8 @@ full topic of its own.
 
 10. **Aerobic Gymnastics Steps and Choreography** (`gymnastics/aerobic-gymnastics-steps-and-choreography`) — aerobic gymnastics: the basic steps and building routines and choreography from them — taught in Iran's girls' Grade 10 book as basic aerobics moves and step and aerobics chains (Iran's student book).
 
+11. **Gymnastics for All** (`gymnastics/gymnastics-for-all`) — gymnastics for all (Gimnastrada): group gymnastics performance that everybody can join — taught in Malaysia's Grade 9 PJPK Tingkatan 3 book as Gimnastrada, "Gymnastics for All" (Malaysia's student book).
+
 ## Unit 4 — Athletics
 
 1. **Baton Relay Racing** (`athletics/baton-relay-racing`) — the baton relay — a team race won or lost at the changeover, with its two techniques: upsweep and downsweep.
@@ -795,6 +826,8 @@ full topic of its own.
 10. **Greco-Roman Wrestling** (`athletics/wrestling-greco-roman`) — Greco-Roman wrestling: upper-body holds and throws — taught in Iran's boys' Grade 10 book as Greco-Roman wrestling techniques (Iran's student book).
 
 11. **Athletics Competitions** (`athletics/athletics-competitions`) — athletics competitions: the stadium, the events programme, and putting your skills together in individual competition — taught in North Macedonia's Grade 11 book as athletics competitions: the 400 m stadium and the full programme of track races, hurdles, steeplechase, relays, race walking, jumps, throws, decathlon and heptathlon (North Macedonia's student book).
+
+12. **Race Walking** (`athletics/race-walking`) — race walking: the technique of fast walking with its support phases, posture and arm action — taught in Malaysia's Grade 8 PJPK Tingkatan 2 book as Lumba Jalan Kaki, race walking technique (Malaysia's student book).
 
 ## Unit 5 — Ball Games
 
@@ -835,6 +868,12 @@ full topic of its own.
 
 28. **Cricket Skills** (`ball-games/cricket-skills`) — cricket skills: grip, stance, footwork, batting, bowling and fielding — taught in Zimbabwe's Grade 6 learner's book as cricket grips (orthodox, 'O'-shaped and Knott grips, printed p. 81) and cricket stance, footwork and striking (printed p. 89), and in its Grade 7 teacher guide as grip, stance and footwork and the backward and forward drives (teacher guide, evidence only) (Zimbabwe's Grade 6 student book; its Grade 7 teacher guide, evidence only).
 
+29. **Football Techniques** (`ball-games/football-techniques`) — football techniques: kicking in its forms, heading and tackling — taught in Malaysia's Grade 7 PJPK Tingkatan 1 book as heading the ball and tackling in football (Malaysia's student book).
+30. **Sepak Takraw** (`ball-games/sepak-takraw`) — sepak takraw: the rattan-ball net game — serves, receiving, keeping the ball up and feeding the striker — taught in Malaysia's Grade 8 and Grade 10 PJPK books as sepak takraw, Malaysia's rattan-ball net game (Malaysia's student books).
+31. **Touch Rugby** (`ball-games/touch-rugby`) — touch rugby: passing, catching, feinting past defenders and scoring a try, under touch (non-contact) laws — taught in Malaysia's Grade 8 and Grade 11 PJPK books as Ragbi Sentuh, touch rugby (Malaysia's student books).
+32. **Hockey Skills** (`ball-games/hockey-skills`) — hockey skills: dribbling, passing, receiving and shooting with the stick — taught in Malaysia's Grade 9 and Grade 11 PJPK books as hockey passing, receiving, dribbling and shooting (Malaysia's student books).
+33. **Dodgeball** (`ball-games/dodgeball`) — dodgeball: the throwing-and-dodging game's basic skills and how it is played — taught in Malaysia's Grade 9 PJPK Tingkatan 3 book as dodgeball, with the Malaysian Dodgeball Association acknowledged as a source (Malaysia's student book).
+
 ## Unit 6 — Games to Play
 
 1. **Games for Awareness and Quick Response** (`games-to-play/games-for-awareness-and-quick-response`) — the Grade 3 book's new games family — awareness (ንቃተ ህሊና): hearing, feeling and responding the instant the moment comes.
@@ -854,6 +893,9 @@ full topic of its own.
 13. **Fun Trick Skills** (`games-to-play/fun-trick-skills`) — fun trick skills: showy trick skills performed for fun — taught in Iran's special-needs Year 1 fitness book as شیرین‌کاری, entertaining trick skills (Iran's student book).
 
 14. **Target Games** (`games-to-play/target-games`) — target games: aiming and throwing or kicking at targets, including archery — taught in Zimbabwe's Grade 6 learner's book as aiming and targeting: target toss games, aiming at moving targets and archery stages (printed p. 66), and across its ECD B and Grades 3, 4, 5 and 7 teacher guides as target throwing and target and combat games (teacher guides, evidence only) (Zimbabwe's Grade 6 student book; its teacher guides, evidence only).
+
+15. **Camp Craft** (`games-to-play/camp-craft`) — camp craft: knots and lashings, making fires and campfire places safely, and cooking food outdoors — taught in Malaysia's Grade 8 PJPK book as camping knots and lashings and in its Grade 11 book as primitive fire-making and cooking (Malaysia's student books).
+16. **Fit-ball Games** (`games-to-play/fit-ball-games`) — fit-ball games: games played with a big fit ball (Swiss ball) — taught in Malaysia's Grade 11 PJPK Tingkatan 5 book as games played with a fit ball: Pukul Golek and Bola Lantunan (Malaysia's student book).
 
 ## Unit 7 — Traditional Games and Dances
 
@@ -906,6 +948,10 @@ full topic of its own.
 
 43. **Traditional Dances of Zimbabwe** (`traditional-games-and-dances/traditional-dances-of-zimbabwe`) — traditional dances of Zimbabwe: Zimbabwe's indigenous dances, danced for learning and entertainment — taught in Zimbabwe's ECD A teacher guide as indigenous dances taught to young children and dancing for entertainment with Zimbabwean dances, and in its ECD B teacher guide as songs and dances from different cultures (teacher guides, evidence only).
 44. **Mass Displays** (`traditional-games-and-dances/mass-displays`) — mass displays: choreography and formations — exercise, circle, star and flower formations performed by large groups — taught in Zimbabwe's Grade 6 learner's book as choreography (structured and freestyle, cartwheel and calisthenics routines, printed p. 126) and formations (exercise, file, oblique, circle, star and flower formations, printed p. 130) (Zimbabwe's student book).
+
+45. **Chinlone** (`traditional-games-and-dances/chinlone`) — chinlone and sepak raga: the rattan-ball circle art of Myanmar and Malaysia — keeping the ball up with graded kicks — taught in Malaysia's Grade 7 PJPK Tingkatan 1 book as sepak raga, the traditional Malay rattan-ball circle game (Malaysia's student book).
+46. **Traditional Dances of Malaysia** (`traditional-games-and-dances/traditional-dances-of-malaysia`) — traditional dances of Malaysia: the Joget, Inang, Zapin, Sumazau, Ngajat, Sewang, lion dance, Bhangra and Farapeirra — taught in Malaysia's PJPK Tingkatan 1–5 books as the Malaysian traditional dances of each form (Malaysia's student books).
+47. **Traditional Games of Malaysia** (`traditional-games-and-dances/traditional-games-of-malaysia`) — traditional games of Malaysia: Malaysian traditional games such as Gelap Cerah, Aci Sep, Tiang Empat, Hoki Terbang and Usung Balak — taught in Malaysia's PJPK Tingkatan 2–5 books as Malaysian traditional games (Malaysia's student books).
 
 ## Unit 8 — Sport and Its Story
 
