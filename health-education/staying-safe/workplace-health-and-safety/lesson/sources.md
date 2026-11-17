@@ -1,8 +1,8 @@
 # Sources — Workplace Health and Safety
 
-countries: Iran
+countries: Iran, Estonia
 
-**Acceptance count: taught in 1 country.** Iran is filed as student-book stock, inside the acceptance count, in this lesson (see its Iran section below). This is a canonical NEW lesson (slug-registry Part 1: `staying-safe/workplace-health-and-safety` — Workplace health and safety: occupational safety and health, ergonomics and correct working posture, and safe, healthy work and childcare environments), founded on Iran's student books below.
+**Acceptance count: taught in 2 country.** Iran is filed as student-book stock, inside the acceptance count, in this lesson (see its Iran section below). This is a canonical NEW lesson (slug-registry Part 1: `staying-safe/workplace-health-and-safety` — Workplace health and safety: occupational safety and health, ergonomics and correct working posture, and safe, healthy work and childcare environments), founded on Iran's student books below. Estonia is filed as student-book stock, inside the acceptance count, in this lesson (see its Estonia section below).
 
 ## Iran — Health expansion 2026-11-16
 
@@ -55,4 +55,25 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/iran-health-
 
 Iran is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — this lesson stands at acceptance count 1, founded on Iran's student books. The Iran placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved to this canonical lesson (`staying-safe/workplace-health-and-safety`) by registry Part 2A; the original string is recorded in each provenance row above. Iran's own way is content, as the book lines above record it: safety, health and ergonomics codified once for the whole PE field in the companion every pupil carries, correct posture and lifting taught inside the Grade 12 health course, and childcare safety taught as inspection — open spaces, then closed spaces. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: workplace health and safety, ergonomics, correct working posture, back pain, childcare environment safety, sleep rest play safety, Iran Grade 12 Health and Hygiene, Iran Student Companion PE C210301, Iran Pre-school Environment Health and Safety C210314, Iran
+
+## Estonia — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/estonia-health-placements.md. 1 Estonia placement(s) stocked in this lesson. Estonia's Book 1 stocked in this lesson is a STUDENT web lesson, so Estonia is student-book stock, inside the acceptance count, in this lesson; the acceptance count rises by 1. The placement was filed as NEW LESSON NEEDED under the HELD-title-decision string and is resolved by the slug registry (Part 2B) to this canonical lesson; the original string is recorded in the provenance row below. Books 3–5 of the placements file (the Opiq e-textbooks *Ja vybiraju zdorov'e*, Grade 8; *Bud' zdorov!*, Grade 5; and *Obshchenie — eto zdorovo!*, Grade 6) are UNREAD — full text behind an Opiq account, a login route excluded by the brief — with 0 placements; nothing is stocked from them.
+
+**Book 1 — Tund24 "Tervisekaitse reeglid ja harjutused" (web lesson, Estonian):**
+- Title as printed: 24. tund. Tervisekaitse reeglid ja harjutused (Lesson 24: Health-protection rules and exercises), Digiõpik (digital textbook), University of Tartu Institute of Computer Science course site
+- Grade: not stated on the page (school digital-hygiene course lesson) (student/teacher: STUDENT)
+- Publisher: University of Tartu, courses.cs.ut.ee; year not printed; no ISBN (web page)
+- PDF pages: n/a — single web lesson page, read in full including its linked slide set reference and self-check task
+- Verdict: COMPLETE (the whole lesson as published)
+- Tally: 2 placements — 1 to existing lessons, 1 NEW LESSON NEEDED
+- Estonia's own way: health is also taught inside the ICT course — a digital-hygiene lesson that pairs screen-work health rules with break exercises and a scored self-check of device-related musculoskeletal complaints.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/estonia-health-placements.md (Book 1 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Estonia — Health-protection rules for computer work — health risks of screen work, safe workstation habits, and a 24-point self-check table for device-related aches by body area and time period (original string `staying-safe/HELD-title-decision`) | Estonia, Digiõpik Lesson 24, web page |
+
+Estonia is added in this lesson as student-book stock, inside the acceptance count (via Book 1, the student web lesson) — see the book line and row above. This lesson teaches its Estonia placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: workplace health and safety, ergonomics, correct working posture, back pain, childcare environment safety, sleep rest play safety, Iran Grade 12 Health and Hygiene, Iran Student Companion PE C210301, Iran Pre-school Environment Health and Safety C210314, Iran, Estonia, Toitumine ja liikumine, Digiõpik Lesson 24

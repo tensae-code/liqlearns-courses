@@ -442,3 +442,24 @@ PE-bound (registry Part 2B → PE Sports Nutrition and
 Hydration): the Grade 11 module is already stocked in PE; the
 Grade 12 module (C212300, printed p. 71) is not stocked
 anywhere and awaits a PE fix-up.
+
+The Health expansion then added (Estonia): no new lessons —
+56 placements stocked into existing lessons (Eating a Balanced
+Diet ×22, Why Exercise Keeps You Healthy ×8, Staying Safe
+While Exercising ×4, Caring for My Senses ×3, Fair Play in
+Sport ×3, The Body Systems ×2, Malnutrition ×2, Mental Health
+and Wellbeing ×2, Workplace Health and Safety, Food Hygiene
+and Safe Cooking, Knowing My Body, Healthy Habits Every Day,
+Sleep and Rest, Keeping My Body Clean, Your Body in Exercise,
+Doping — What It Is and What It Costs, Hygiene for Sport,
+Preventing Sports Injuries and First Aid) — this course stays
+at 54 lessons. Book 1, the Digiõpik Lesson 24 web lesson, is
+a student source, so Estonia is student-book stock, inside
+the acceptance counts, in Workplace Health and Safety and
+Staying Safe While Exercising; Book 2, *Toitumine ja
+liikumine* (teacher guide, 2014), is teacher-guide evidence
+only, outside the acceptance counts. One Estonia placement
+(§1.12 Athletes' nutrition, printed p. 45) resolves to the PE
+course's Sports Nutrition and Hydration lesson and was
+excluded here as PE-bound; it is not yet stocked in PE either
+(verified by git grep on origin/main).

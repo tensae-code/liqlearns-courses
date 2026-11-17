@@ -1,8 +1,8 @@
 # Sources — Sleep and Rest
 
-countries: Timor-Leste, Philippines, Ukraine, Turkey
+countries: Timor-Leste, Philippines, Ukraine, Turkey, Estonia
 
-**Acceptance count: taught in 4 countries.** Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book.
+**Acceptance count: taught in 4 countries.** Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book. Estonia is filed as teacher-guide evidence only in this lesson (see its Estonia section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is stocked in this lesson for Estonia.
 
 **Book 1 — Saúde e Bem-Estar 7, Manual do aluno (student book, Portuguese/Tetum):**
 - Title as printed: Saúde e Bem-Estar / Saúde no Rahun-Di'ak 7 — Manual do aluno / Manuál ba estudante
@@ -95,4 +95,26 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkey-healt
 
 Turkey's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the health slug registry (Part 2A / Part 2B) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Turkey's own way is content, as the book lines above record it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: sleep and rest, social media and sleep, sleep hygiene, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, sleep and rest for health, Ang Aking Pagtulog, sleeping and waking early, 11 hours sleep, clean bedding, Philippines Grade 1 PE and Health LM, food and sleep decide health, active rest, Ukraine G5 Health Safety and Wellbeing Vasylenko, sleep and health, Uyku Düzeni ve Sağlık, sleep cycle, sleep hygiene, Turkey Health & Traffic Culture
+
+## Estonia — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/estonia-health-placements.md. 1 Estonia placement(s) stocked in this lesson. Estonia's book stocked in this lesson is a TEACHER guide, so Estonia is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. The placements filed as NEW LESSON NEEDED under the HELD-title-decision string are resolved by the slug registry (Part 2B) to this canonical lesson, and placements filed under descriptive strings are resolved by registry Part 2A; the original string is recorded in each provenance row below. Books 3–5 of the placements file (the Opiq e-textbooks *Ja vybiraju zdorov'e*, Grade 8; *Bud' zdorov!*, Grade 5; and *Obshchenie — eto zdorovo!*, Grade 6) are UNREAD — full text behind an Opiq account, a login route excluded by the brief — with 0 placements; nothing is stocked from them.
+
+**Book 2 — Toitumine ja liikumine (teacher guide, Estonian):**
+- Title as printed: Toitumine ja liikumine — I–III kooliaste. Õpetajaraamat (Nutrition and Movement — school stages I–III. Teacher's book)
+- Grade: stages I–III (grades 1–9) (student/teacher: TEACHER)
+- Publisher: Tervise Arengu Instituut (National Institute for Health Development), published by Puffet Invest OÜ; year 2014; ISBN 978-9949-461-46-2 (print) / 978-9949-461-47-9 (pdf)
+- PDF pages: 303 (cover/title page verified against the record title; record's ISBN is the pdf ISBN)
+- Verdict: COMPLETE
+- Tally: 55 placements — 6 to existing lessons, 49 NEW LESSON NEEDED
+- Estonia's own way: one cross-subject teacher book that treats nutrition and movement together, built as evidence-based theory chapters plus piloted classroom "active works" (aktiivtööd) coded by school stage (KI/KII/KIII) for use inside human studies, PE, biology and home economics lessons alike.
+- Inventory-only, not placed: the remaining movement active works (posture, balance and speed tests, coordination, classroom exercise breaks KI-KIII L1, inventing a movement game, sports tournament, ancient Olympic games, athlete interview, Estonians at the Olympics, sports-club project, health trails, pedometer, fitness measurement, goal-setting and training-diary works) are PE-course skill/game/project material inside a Health-scoped record; the book's bibliographies (printed pp. 55, 179) are inventory-only.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/estonia-health-placements.md (Book 2 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Estonia — KI T3 Sleep and breakfast — why sleep and a morning meal matter, with a week-long sleep-and-breakfast diary, stage I (original string `staying-safe/HELD-title-decision`) | Estonia Stages I–III Toitumine ja liikumine TG, printed p. 65 |
+
+Estonia is added in this lesson as teacher-guide evidence only, outside the acceptance count — see the book lines and rows above. This lesson teaches its Estonia placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: sleep and rest, social media and sleep, sleep hygiene, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, sleep and rest for health, Ang Aking Pagtulog, sleeping and waking early, 11 hours sleep, clean bedding, Philippines Grade 1 PE and Health LM, food and sleep decide health, active rest, Ukraine G5 Health Safety and Wellbeing Vasylenko, sleep and health, Uyku Düzeni ve Sağlık, sleep cycle, sleep hygiene, Turkey Health & Traffic Culture, Estonia, Toitumine ja liikumine, Digiõpik Lesson 24

@@ -1126,3 +1126,50 @@ childcare health taught as environmental inspection, and
 health inside science for the youngest and for special-needs
 pupils, whose guide has pupils make a first-aid box, practise
 brush-and-floss technique, and rehearse earthquake safety.
+
+**Health expansion — Estonia — BUILT 2026-11-16:** 56 placements
+stocked into existing lessons — no new lessons, this course
+stays at **54 lessons**. From Book 1, *Tund24 "Tervisekaitse
+reeglid ja harjutused"* (web lesson, Estonian, Digiõpik,
+University of Tartu, STUDENT, COMPLETE), 2 placements stocked:
+Workplace Health and Safety (1) and Staying Safe While
+Exercising (1). From Book 2, *Toitumine ja liikumine —
+I–III kooliaste. Õpetajaraamat* (teacher guide, Estonian,
+Tervise Arengu Instituut, 2014, ISBN 978-9949-461-47-9 (pdf),
+COMPLETE), 54 placements stocked: Eating a Balanced Diet
+(22), Why Exercise Keeps You Healthy (8), Staying Safe While
+Exercising (3 more), Caring for My Senses (3), Fair Play in
+Sport (3), The Body Systems (2), Malnutrition (2), Mental
+Health and Wellbeing (2), Food Hygiene and Safe Cooking (1),
+Knowing My Body (1), Healthy Habits Every Day (1), Sleep and
+Rest (1), Keeping My Body Clean (1), Your Body in Exercise
+(1), Doping — What It Is and What It Costs (1), Hygiene for
+Sport (1) and Preventing Sports Injuries and First Aid (1).
+Book 1 is a STUDENT web lesson, so Estonia is student-book
+stock, inside the acceptance counts, in the two lessons it
+touches (Workplace Health and Safety rose from 1 to 2
+countries; Staying Safe While Exercising rose from 13 to 14).
+Book 2 is a TEACHER guide, so its 54 rows are teacher-guide
+evidence only, outside the acceptance counts, in every lesson
+they touch. One further Estonia placement, Book 2 §1.12
+Athletes' nutrition (printed p. 45), was NOT stocked in this
+course: the slug registry (Part 2B) resolves it to the PE
+course's Sports Nutrition and Hydration lesson, and verified
+by git grep on origin/main it is NOT stocked in the Physical
+Education course either (no Estonia rows anywhere in
+physical-education/), so it is excluded here as PE-bound and
+named here plainly for a PE fix-up. Books 3–5 of the
+placements file (the Opiq e-textbooks *Ja vybiraju zdorov'e*,
+Grade 8; *Bud' zdorov!*, Grade 5; and *Obshchenie — eto
+zdorovo!*, Grade 6) are UNREAD — full text behind an Opiq
+account, a login route excluded by the brief — with
+0 placements; nothing is stocked from them. Book 2's
+remaining movement active works and its bibliographies
+(printed pp. 55, 179) are inventory-only, as filed. Estonia's
+own ways are recorded as content in the book lines: health
+taught inside the ICT course as a digital-hygiene lesson with
+a 24-point self-check of device-related aches, and one
+cross-subject teacher book treating nutrition and movement
+together through theory chapters plus piloted stage-coded
+"active works" (aktiivtööd), including Estonia's own food
+pyramid, plate rule and traffic-light table.
