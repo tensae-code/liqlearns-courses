@@ -1,16 +1,21 @@
 # Sources — My School as a Place
 
-countries: Fiji
+countries: Fiji, Latvia
 
 **Book 1:** *Social Studies Year 3 (Re-edited 2017)* (student book, English) — Fiji, Ministry of Education, Heritage & Arts, Curriculum Development Unit (with UNESCO / Fiji Memory of the World support); year 2017 (re-edited); ISBN no ISBN printed. Title as printed: Social Studies Year 3 (Re-edited 2017). Grade: Year 3 (student/teacher: STUDENT). PDF pages: 64 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: grab.py GitHub API failed (RemoteDisconnected, release route ×2 and tree route ×1); read instead from the books.json record's own Wayback source_url — the ministry original of the same book. Non-Geography parts named, not placed: Part One Strand 1 Social Organisation — Lesson 1 My Family (printed p. 5), Lesson 2 Family Relationships (p. 11), Lesson 3 Family Roles (p. 17); Strand 2 Time, Continuity and Change — Lesson 4 Cultural Background (p. 24). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
+
+**Book 2:** *Sociālās zinības 1. klase* (teacher guide, Latvian) — Latviešu valodas aģentūra (Latvian Language Agency); year 2023; ISBN 978-9934-617-33-1. Title as printed: Sociālās zinības 1. klase — Latviešu valodas un sociālo zinību satura integrēta apguve lingvistiski neviendabīgā vidē — Metodisks līdzeklis skolotājam. Grade: Grade 1 (student/teacher: TEACHER). PDF pages: 61 (cover/title page verified against the record title — author Linda Krastiņa and ISBN match the record exactly). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Integrated SS (school life) printed pp. 7–17; Morals/Values (safe relationships, honesty, emotions) printed pp. 18–21; Culture in society (family/class festivals) printed pp. 22–24; Integrated SS (work/jobs, wants and needs) printed pp. 25–27; Appendices (worksheets/apparatus, inventory only) printed pp. 28–60. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/latvia-placements-b.md. Cited as teacher-guide evidence only, outside acceptance counts.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Strand 3, Lesson 2 My School (school as a place, researching my school, caring for the school grounds) | Fiji, *Fiji Year 3 Social Studies*, Strand 3, Lesson 2 My School (school as a place, researching my school, caring for the school grounds) — printed p. 43 |
 | Sub lesson 2 — Fiji's way — the book's own teaching way | Fiji — the book's own way of teaching (see below) |
+| Latvia part — first-steps/my-school-as-a-place — Theme 1 Ko nozīmē būt skolēnam? (What does it mean to be a pupil?) — teaches: the school's rooms and where things are, lesson rules, school supplies, the timetable and days of the week — Latvia Grade 1 Sociālās zinības teacher methodological book, printed p. 7 (teacher guide — evidence) | Latvia, *Sociālās zinības 1. klase* (teacher guide), Grade 1 Sociālās zinības teacher methodological book — printed p. 7 (teacher guide — evidence) |
 
-**Acceptance count: taught in 1 country (Fiji).**
+**Acceptance count: taught in 1 country (Fiji). Latvia is named here as teacher-guide evidence only, counted nowhere.**
 
 Fiji's own way (Fiji Year 3 Social Studies): Expanding-circles ("cyclic") approach — starts with self/family and widens to community/nation/world in later years; place is learned through the child's own home and school first.
 
-Searchable tags: my school as a place, Fiji, social studies, first-steps
+Latvia's own way (teacher guide — evidence): social studies is taught integrated with the Latvian language itself (CLIL) for linguistically mixed classes — every topic is framed as a question ("What does it mean to be a pupil?") and the social content is carried by the vocabulary and courtesies of school life. That evidence is stocked here as the way Latvia teaches this thing; it does not change the acceptance count above.
+
+Searchable tags: my school as a place, Fiji, Latvia, social studies, first-steps
