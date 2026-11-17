@@ -1,8 +1,8 @@
 # Sources — Using Medicines Safely
 
-countries: Turkey, Pakistan, Papua New Guinea, Thailand
+countries: Turkey, Pakistan, Papua New Guinea, Thailand, United Arab Emirates
 
-**Acceptance count: taught in 3 countries.** Turkey is filed as student-book stock, inside the acceptance count, in this lesson (see its Turkey section below). Pakistan is added as student-book stock (see its Pakistan section below), inside the acceptance count. Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Thailand is added as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count.
+**Acceptance count: taught in 4 countries.** United Arab Emirates is added as student-book stock (see its United Arab Emirates section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Turkey is filed as student-book stock, inside the acceptance count, in this lesson (see its Turkey section below). Pakistan is added as student-book stock (see its Pakistan section below), inside the acceptance count. Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Thailand is added as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count.
 
 ## Turkey — Health expansion 2026-11-16
 
@@ -147,4 +147,36 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/thailand-hea
 
 Thailand is added as student-book stock (SAMPLE) (see its book line(s) and row(s) above), inside the acceptance count. The Thailand placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved to this lesson by the slug registry (Part 2B for HELD-title-decision lines, Part 2A for descriptive slug strings; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Thailand's own way is content, as the book lines above record it: health behaviour anchored on Thailand's National Health Precepts (สุขบัญญัติแห่งชาติ), food teaching on the 9 Nutrition Precepts (โภชนบัญญัติ 9 ประการ) and the Nutrition Flag (ธงโภชนาการ), growth checked against the Department of Health weight-for-height graphs for Thai children, and the senior books turning outward to Thailand's own illness and death statistics, community accident planning and the Thai drug laws. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: using medicines safely, medicines and using them rationally, İlaçlar Akılcı İlaç Kullanımı, painkillers, antibiotics, Turkey Health & Traffic Culture, medicines and narcotics, medicines and smoking, opium, Pakistan Grades 6 7 9 11 Sehat-o-Jismani Taleem, Papua New Guinea, Papua New Guinea Grade 3 Health TG Grade 3, Papua New Guinea Grade 4 Health TG Grade 4, Thailand, Thailand Health & PE, สุขศึกษาและพลศึกษา
+## United Arab Emirates — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/united-arab-emirates-health-placements.md. 2 United Arab Emirates placement(s) stocked in this lesson. The United Arab Emirates book(s) stocked in this lesson: Book 1, Book 5 of that file. United Arab Emirates is student-book stock, inside the acceptance count, in this lesson; Book(s) 5 are TEACHER guide(s), so their rows are filed as teacher-guide evidence only, outside the acceptance count. Book 9 of that file (Moral Education G6 Term 2) is RECORD-ONLY / PARTIAL as filed — its Unit 2 Physical Health and Diet teaching is named only in the contents/parents'-guide pages and is NOT in the file — with 0 placements, nothing stocked from it. No United Arab Emirates placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 1 — Health Sciences G12 Term 3 student book (student book, English):**
+- Title as printed: Health Sciences — Grade 12, Term 3 (Units 9–12)
+- Grade: 12 (student/teacher: STUDENT)
+- Publisher: UAE Ministry of Education; year 2021-2022; no ISBN printed in the file
+- PDF pages: 144 (Unit 9 divider page verified against the record title)
+- Verdict: COMPLETE — the full Term-3 student volume: Unit 9 Mass casualty incidents, Unit 10 Food safety and hygiene, Unit 11 Clinical nutrition, Unit 12 Pharmacy
+- Tally: 23 placements — 0 to existing lessons, 23 NEW LESSON NEEDED (2 of them filed as named-not-placed below: §12.7 is a report-writing skill, named in the header only — so 22 placed + 1 named)
+- UAE's own way: Health Sciences in the senior grades is a vocational, exam-standard subject (HSC-coded learning outcomes) taught unit by unit — disaster response, food safety, clinical dietetics and pharmacy — with UAE-specific hazards (sandstorms) inside the disaster unit.
+- Named, not placed: §12.7 Scientific report writing (printed p. 141) — a general study/report-writing skill, out of Health scope.
+
+| Lesson part | Where it comes from |
+|---|---|
+| United Arab Emirates — 12.6 Safety measures in drug administration — giving medicines safely and storing them safely at home (original string `staying-safe/using-and-storing-medicines-safely`) | United Arab Emirates G12 Health Sciences T3 Student, printed p. 137 |
+
+**Book 5 — Health Sciences G12 Unit 12 teacher guide (teacher guide, English):**
+- Title as printed: Unit 12 — Pharmacy (G12 – Volume 3, Health Sciences)
+- Grade: 12 (student/teacher: TEACHER)
+- Publisher: UAE Ministry of Education; year 2020-2021; no ISBN printed (almanahj.com copy)
+- PDF pages: 39 (unit divider page verified against the record title)
+- Verdict: COMPLETE — teacher-guide extract for Unit 12 of the Term-3 volume (standard HSC.3.9.01)
+- Tally: 6 placements — 0 to existing lessons, 6 NEW LESSON NEEDED (5 HELD + 1 staying-safe); §12.7 Scientific report writing named, not placed (report-writing skill, out of Health scope)
+
+| Lesson part | Where it comes from |
+|---|---|
+| United Arab Emirates — 12.6 Safety measures in drug administration — safe administration and storage of drugs (TG teaching sequence) (original string `staying-safe/using-and-storing-medicines-safely`) | United Arab Emirates G12 Health Sciences Unit 12 TG, printed p. 32 (teacher guide — evidence) |
+
+United Arab Emirates is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the student book(s) stocked here are Book 1, so United Arab Emirates is named in the countries line and provenance rows and the acceptance count rises from 3 to 4 countries; the teacher-guide rows, where present, are teacher-guide evidence only, outside the count. The United Arab Emirates placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines), and the original string is recorded in each provenance row above. United Arab Emirates's own way is content, as the book lines above record it: Health Sciences in the senior grades is a vocational, exam-standard subject taught unit by unit, with UAE-specific content named in the rows (sandstorms in the disaster unit; the UAE Good Samaritan law of 2020, ambulance number 998 and the National Ambulance EMT pathway in first aid; MoHAP, Dubai Health Authority and Department of Health – Abu Dhabi patient rights in healthcare; and, in the older HECMA programme, scorpions, jellyfish, heat illness and drowning). This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: using medicines safely, medicines and using them rationally, İlaçlar Akılcı İlaç Kullanımı, painkillers, antibiotics, Turkey Health & Traffic Culture, medicines and narcotics, medicines and smoking, opium, Pakistan Grades 6 7 9 11 Sehat-o-Jismani Taleem, Papua New Guinea, Papua New Guinea Grade 3 Health TG Grade 3, Papua New Guinea Grade 4 Health TG Grade 4, Thailand, Thailand Health & PE, สุขศึกษาและพลศึกษา, United Arab Emirates, UAE Health Sciences

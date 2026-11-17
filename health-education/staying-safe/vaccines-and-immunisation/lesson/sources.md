@@ -1,8 +1,8 @@
 # Sources — Vaccines and Immunisation
 
-countries: El Salvador, Bulgaria
+countries: El Salvador, Bulgaria, United Arab Emirates
 
-**Acceptance count: taught in 2 countries.** El Salvador is filed as student-book stock, inside the acceptance count, in this lesson. Bulgaria is filed as student-book stock, inside the acceptance count, in this lesson.
+**Acceptance count: taught in 3 countries.** United Arab Emirates is added as student-book stock (see its United Arab Emirates section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. El Salvador is filed as student-book stock, inside the acceptance count, in this lesson. Bulgaria is filed as student-book stock, inside the acceptance count, in this lesson.
 
 **Book 1 — Ciencia, Salud y Medio Ambiente 1 (student book, Spanish):**
 - Title as printed: Ciencia, Salud y Medio Ambiente 1 (Colección Cipotas y Cipotes)
@@ -42,4 +42,22 @@ This is a canonical NEW lesson (slug-registry Part 1: `staying-safe/vaccines-and
 
 Bulgaria is added as student-book stock (see its book line and row above), inside the acceptance count — the Bulgaria book is a STUDENT book, so Bulgaria is named in the countries line and provenance row and the acceptance count rises from 1 to 2 countries. The Bulgaria placement was filed under the original string `staying-safe/vaccines-and-how-they-protect`, resolved to this canonical lesson `staying-safe/vaccines-and-immunisation` by registry Part 2 and recorded in the provenance row above. Bulgaria's own way is content, as the book line above records it: vaccines get a full debate-and-projects lesson built around Bulgaria's own Immunisation Calendar (thesis/antithesis: mandatory vaccines in the calendar vs the right to refuse). This lesson teaches its placement only as the placements file summarises it, and names nothing the summary does not name.
 
-Searchable tags: vaccines and immunisation, tetanus, vaccination prevents tetanus, bacteria soil dust rusty metal, El Salvador Ciencia Salud y Medio Ambiente 1, Cuidado con el tétano, vaccines Jenner smallpox vaccine immune system, Bulgaria Immunisation Calendar mandatory vaccination debate, vaccine safety monitoring, Bulgaria Biology and Health Education Grade 9 Pedagog 6
+## United Arab Emirates — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/united-arab-emirates-health-placements.md. 1 United Arab Emirates placement(s) stocked in this lesson. The United Arab Emirates book(s) stocked in this lesson: Book 6 of that file. United Arab Emirates is student-book stock, inside the acceptance count, in this lesson. Book 9 of that file (Moral Education G6 Term 2) is RECORD-ONLY / PARTIAL as filed — its Unit 2 Physical Health and Diet teaching is named only in the contents/parents'-guide pages and is NOT in the file — with 0 placements, nothing stocked from it. No United Arab Emirates placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 6 — Health Sciences G12 Term 2 Unit 5 student extract (student book, English):**
+- Title as printed: Unit 5 — Disease prevention (Health Sciences, Grade 12)
+- Grade: 12 (student/teacher: STUDENT)
+- Publisher: UAE Ministry of Education; year 2021-2022; no ISBN printed
+- PDF pages: 40 (unit divider page verified against the record title)
+- Verdict: COMPLETE — the record's file is the Unit 5 extract of the Term-2 student book (standard HSC.5.3.01)
+- Tally: 6 placements — 0 to existing lessons, 6 NEW LESSON NEEDED (5 HELD + 1 staying-safe)
+
+| Lesson part | Where it comes from |
+|---|---|
+| United Arab Emirates — 5.5 Medical care for disease prevention — immunisation and health screening for early detection (original string `fair-play-and-the-body/HELD-title-decision`) | United Arab Emirates G12 Health Sciences Unit 5 Student, printed p. 25 |
+
+United Arab Emirates is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the student book(s) stocked here are Book 6, so United Arab Emirates is named in the countries line and provenance rows and the acceptance count rises from 2 to 3 countries; the teacher-guide rows, where present, are teacher-guide evidence only, outside the count. The United Arab Emirates placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines), and the original string is recorded in each provenance row above. United Arab Emirates's own way is content, as the book lines above record it: Health Sciences in the senior grades is a vocational, exam-standard subject taught unit by unit, with UAE-specific content named in the rows (sandstorms in the disaster unit; the UAE Good Samaritan law of 2020, ambulance number 998 and the National Ambulance EMT pathway in first aid; MoHAP, Dubai Health Authority and Department of Health – Abu Dhabi patient rights in healthcare; and, in the older HECMA programme, scorpions, jellyfish, heat illness and drowning). This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: vaccines and immunisation, tetanus, vaccination prevents tetanus, bacteria soil dust rusty metal, El Salvador Ciencia Salud y Medio Ambiente 1, Cuidado con el tétano, vaccines Jenner smallpox vaccine immune system, Bulgaria Immunisation Calendar mandatory vaccination debate, vaccine safety monitoring, Bulgaria Biology and Health Education Grade 9 Pedagog 6, United Arab Emirates, UAE Health Sciences
