@@ -559,6 +559,57 @@ Index and build a personal exercise plan — and the Gymnasium
 aid, doping and stadium violence taught as health subjects in
 their own right.
 
+**Health expansion — Ukraine — BUILT 2026-11-16:** 35 placements
+stocked — 34 into existing lessons (Avoiding Accidents and
+Staying Safe ×8, Staying Safe in Disasters ×5, Mental Health
+and Wellbeing ×4, First Aid for Emergencies ×3, Puberty and
+Growing Up ×3, Sleep and Rest ×2, Why Exercise Keeps You
+Healthy, Keeping My Body Clean, Food Hygiene and Safe
+Cooking, Saying No to Drugs, Alcohol and Tobacco, Healthy
+Habits Every Day, What Health Is, Paying Attention and
+Crossing the Road Safely, Staying Safe in Nature, Staying
+Safe Online) and 1 as a new lesson (Staying Safe as a
+Passenger) — bringing this course to **48 lessons**. All 35
+placements are from Ukraine's two NUSH *Здоров'я, безпека та
+добробут* (Health, Safety and Wellbeing) student books:
+Book 1, Shyian et al., Grade 7 (Ранок (Ranok), Kharkiv, 2024,
+ISBN 978-617-09-8766-2, COMPLETE), 19 placements, and Book 2,
+Vasylenko, Коваль & Колотій, Grade 5 (Літера ЛТД, Kyiv, 2022,
+ISBN 978-966-945-352-5, COMPLETE), 16 placements. Both books
+are STUDENT books, so Ukraine is student-book stock, inside
+the acceptance counts (each touched lesson's count rose by 1;
+First Aid for Emergencies and Paying Attention and Crossing
+the Road Safely rise from 0 to 1, their first student-book
+stock; the new lesson stands at acceptance count 1). 7 of
+the 35 placements were filed as HELD-title-decision lines,
+resolved by registry Part 2B; 27 were filed under descriptive
+slug strings, resolved by registry Part 2A; 1 was filed
+directly under the canonical NEW string itself (Staying Safe
+Online). Honesty notes carried exactly as filed: the wider
+wellbeing scope of both integrated-course books (the Shyian
+volume's study-skills, habits, conflict and
+resources/communication sections, §§1–4, 15, 19, 26–35, and
+the Vasylenko sections named in its book header) is named in
+the book lines and NOT placed in the Health course; the
+Shyian volume's §14 is the book's own assessment lesson,
+named, not placed, and its module glossaries are
+inventory-only. The placements file's other records carry 0
+placements, nothing stocked from them: Record 2 (Typical
+Educational Programme, Grades 3–4) and Record 1 (the NUSH
+Grades 5–6 competition listing page) are RECORD ONLY;
+Record 3 (Khytra & Romanenko G6), Records 4–7 (Bekh &
+Vorontsova G5–G8, Russian editions 2013–2016), Record 8
+(Boychenko et al. G9 2017) and Record 9 (Polishchuk G8 2016)
+are UNREAD — no file could be obtained, and no other edition
+was substituted for any of them. No Ukraine placement
+resolves to a PE-course lesson, so none was excluded as
+PE-bound. Ukraine's own way is recorded as content in the
+book lines: the NUSH course fuses health with wartime safety
+— air-raid response and mine safety are core, examinable
+content — and the Grade 5 course teaches safety as a habit
+of independence, the child as pedestrian, passenger and
+trip-goer, at home and online.
+
 ## Unit 1 — Staying Safe
 
 1. **Hygiene for Sport — Wash After Exercise** (`staying-safe/hygiene-for-sport`) — personal hygiene around sport: sweat and dirt left unwashed become a breeding place for bacteria — so wash the body after PE and sport, keep sports…
@@ -608,6 +659,7 @@ their own right.
 36. **Health Services and Health Workers** (`staying-safe/health-services-and-health-workers`) — health services and health workers: doctors, nurses and health workers, clinics and hospitals, health checks and screening, patient rights, and health information and promotion in the community — taught in Samoa's Years 11–12 Teacher Guide as family and community health promotion: family health issues, family involvement in health promotion, health agencies and where to find them (AIDS awareness, family planning and others), effective use of community resources, the rights of all community members to good health, and village co-operatives such as Asiasiga Maumaga (taro growers) whose labour-intensive work keeps them fit (Samoa teacher guide, evidence only).
 37. **Sleep and Rest** (`staying-safe/sleep-and-rest`) — sleep and rest: why the body and mind need sleep and rest, and sleeping well — taught in Timor-Leste's Grade 7 *Saúde e Bem-Estar* student book as social media, sleep and sleep hygiene: how social media affects sleep, and what sleep hygiene is (Unit 4, printed p. 97).
 38. **Staying Safe in Nature** (`staying-safe/staying-safe-in-nature`) — staying safe in nature: poisonous plants, mushrooms and snakes, harmful insects, and finding the way out of danger outdoors — taught in Bulgaria's Grade 7 *Биология и здравно образование* student book as Bulgaria's own poisonous mushrooms (recognising the fly agaric, panther cap and death cap, symptoms appearing 8–24 hours after eating, and that a few grams of the green death cap can kill, printed p. 66) and Bulgaria's poisonous snakes (6 venomous snakes, the horned viper and adder dangerous to humans, medical help immediately after a bite, printed p. 114).
+39. **Staying Safe as a Passenger** (`staying-safe/staying-safe-as-a-passenger`) — staying safe as a passenger: safe behaviour as a passenger and future driver on road, air and sea transport — taught in Ukraine's Grade 5 *«Здоров'я, безпека та добробут»* student book as «Я — пасажир / пасажирка» (I am a passenger): safe behaviour as a passenger in transport (printed p. 21).
 
 ## Unit 2 — Fair Play and the Body
 

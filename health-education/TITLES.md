@@ -247,3 +247,28 @@ course's Sports Nutrition and Hydration lesson and were
 excluded here; they are not yet stocked in PE either
 (verified by git grep on origin/main — see CURRICULUM.md).
 
+The Health expansion then added (Ukraine): **Staying Safe
+as a Passenger** (`staying-safe/staying-safe-as-a-passenger`)
+— 1 new lesson, bringing this course to 48 lessons. A
+further 34 Ukraine placements were stocked into existing
+lessons (Avoiding Accidents and Staying Safe ×8, Staying
+Safe in Disasters ×5, Mental Health and Wellbeing ×4, First
+Aid for Emergencies ×3, Puberty and Growing Up ×3, Sleep and
+Rest ×2, Why Exercise Keeps You Healthy, Keeping My Body
+Clean, Food Hygiene and Safe Cooking, Saying No to Drugs,
+Alcohol and Tobacco, Healthy Habits Every Day, What Health
+Is, Paying Attention and Crossing the Road Safely, Staying
+Safe in Nature, Staying Safe Online), all as student-book
+stock — both Ukraine books (Shyian et al. Grade 7, Ранок,
+2024, and Vasylenko et al. Grade 5, Літера ЛТД, 2022, both
+COMPLETE) are student books, so each touched lesson's
+acceptance count rose by 1; First Aid for Emergencies and
+Paying Attention and Crossing the Road Safely rise from 0
+to 1, their first student-book stock; the new lesson stands
+at acceptance count 1. The placements file's other records
+are RECORD ONLY (the Grades 3–4 programme and the NUSH
+competition listing page) or UNREAD (Khytra & Romanenko G6;
+Bekh & Vorontsova G5–G8 Russian editions; Boychenko et al.
+G9 2017; Polishchuk G8 2016) with 0 placements, nothing
+stocked from them, and no other edition substituted.
+
