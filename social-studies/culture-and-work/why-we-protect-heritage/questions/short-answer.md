@@ -1,0 +1,9 @@
+# Why We Protect Heritage — short answer
+
+Answer in a sentence or two.
+
+**1. (Sub lesson 1)** What does this part of this lesson teach?
+**Answer: Why We Protect Heritage — neglecting heritage and being careless with it deprives the coming generations of it, cuts their emotional connection to their past, and makes them pliant tools of intellectual invasion and foreign dependence and its colonial policy of forging heritage, distorting it, erasing it and stealing it — as in the occupation's practices against Palestinian heritage, from which not even the birds, nature reserves, roads, passages and manuscripts were spared; UNESCO set 18 April each year as Heritage Day, and Palestine set 7 October as Palestinian Heritage Day, to affirm its national identity at home and in the diaspora and to face the challenges, first of them the occupation's policy of distorting and erasing it; the importance of preserving heritage lies in its being a symbol of identity and proof of the historical right — its images present on national and religious occasions, the currency, postage stamps and festivals; the spiritual bond — as the holy religious places in Jerusalem bind over half the world's inhabitants who believe in the heavenly messages; enriching world culture — people's acquaintance with the world's peoples' experiences and the exchange of cultures, heritage being a source of historical knowledge and a true witness to human creativity, its arts, beauty and authenticity; economic development — a basic element in activating tourism and feeding the state treasury with hard currency; and protecting the environment — preserving endangered plants, animals, birds and fish in nature reserves revives and restores the local environment (any close wording).**
+
+**2. (Sub lesson 2)** What does this part of this lesson teach?
+**Answer: Palestine's way — the book's own teaching way (any close wording).**

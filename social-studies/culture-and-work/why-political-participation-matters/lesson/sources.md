@@ -1,0 +1,16 @@
+# Sources — Why Political Participation Matters
+
+countries: Palestine
+
+**Book 1:** *الدراسات الاجتماعية (Social Studies), Grade 9, Part 1* (student book, Arabic) — Title as printed: الدراسات الاجتماعية (Social Studies), Grade 9, Part 1. Grade: 9 (student/teacher: STUDENT). Publisher: Ministry of Education, State of Palestine; year 2020 (third edition, 1441 AH, per the History wave's verified cover); no ISBN printed. PDF pages: 84 (verified in this wave by own grab: 2,648,552 bytes exactly as recorded, pdfinfo 84 pages, cover rendered and seen — State of Palestine, Ministry of Education and Higher Education, Social Studies, Grade 9 Part 1 tab; also blob-SHA-verified by the Geography and History waves; this wave read the waves' full-text extract of that verified file, printed p. = PDF p. − 4; own PDF deleted after filing). Earlier waves: Geography wave placed nothing (the book carries no Geography content) and named Unit 3 (pp. 63–79) as civics / History wave placed Units 1–2 (colonial policy; resistance and liberation) and named Unit 3 Participation in Building Civil Society (pp. 61–80) as Civics without placing it / Economics wave placed the colonial-economic-policy lesson (printed pp. 11–16, inside Unit 1). Verdict: COMPLETE. Contents map: History pp. 4–60 (Units 1–2); Economics pp. 11–16 (one lesson inside Unit 1); Civics pp. 61–79 (Unit 3 Participation in building civil society — teaching pp. 63–72; pp. 73–75 project-method appendix and pp. 76–78 bibliography, inventory only). The unit has only two lessons — political participation, and election and candidacy; there is no separate civil-society-institutions lesson in the book itself. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — culture-and-work/why-political-participation-matters — Unit 3 Lesson 1: The importance of political participation — teaches: political participation is tied to political and social life and is a principle of the democratic civil society: it lets individuals share in making decisions, contribute to developing their own independent personality and to developing their society with their ideas and experience, increases their awareness of the events around them, and strengthens solidarity, belonging and respect for plurality — Palestine Grade 9 Social Studies Part 1, printed p. 64 | Palestine, *Social Studies, Grade 9, Part 1* (student book), Unit 3 Lesson 1: The importance of political participation — printed p. 64 |
+| Sub lesson 2 — Palestine's way — the book's own teaching way | Palestine — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Palestine).**
+
+Palestine's own way (Grade 9 Social Studies Part 1): participation is taught as existence itself — "I participate, therefore I am" — and the lesson counts women's actual seats (56 of 744 in the National Council, 17 of 132 in the Legislative Council) before teaching the quota women won to change them; elections close the course with Palestine's own candidacy ages: 40 for president, 28 for the Legislative Council, 25 for local councils.
+
+Searchable tags: why political participation matters, Palestine, social studies, culture-and-work

@@ -1,0 +1,9 @@
+# Video script — The Six Families of Civic Values
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). This script is full: the placements name a video-script need for this lesson. Made later, when videos are made; the script is the slot's written form until then.
+
+---
+
+Palestine Grade 7 Social Studies Part 1, printed p. 85, teaches: civil society's values are varied and interlocking, covering all sides of human life: national values (love of homeland, sacrifice, struggle for its freedom and development, defending it); political values (freedom, democracy, the rule of law, justice, equality, accountability, respecting opinion and the other opinion); social values (respect for human dignity, tolerance, social solidarity, care for education, truthfulness, sincerity, honesty, cooperation, selflessness); economic values (justice in distributing wealth, no waste, respecting work practised according to law, respecting time, valuing manual work, forbidding cheating in commercial dealings, strengthening integrity and fighting corruption in all its forms); cultural values (interest in culture, literature and art, research and reading, adopting dialogue as a means of understanding, and using scientific research to develop the sides of life); and religious values (drawn from religion — faith in God, justice, equality, respect for human rights, tolerance, and rejecting racism and extremism).
+
+Palestine's own way: civil society is taught entirely through Palestinian institutions named one by one — the Red Crescent, Al-Haq, the Independent Commission for Human Rights, the teachers' and women's unions — and its values lesson ends in a project: mining Palestine's own Declaration of Independence and Basic Law for their values and sorting them into the book's six families.

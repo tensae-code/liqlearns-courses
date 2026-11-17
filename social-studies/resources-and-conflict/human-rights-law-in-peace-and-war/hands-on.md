@@ -1,0 +1,9 @@
+# Hands-on — Human Rights Law in Peace and War
+
+The lesson with your hands and your feet, not only your eyes.
+
+## Human Rights Law in Peace and War
+Work through this lesson's topic with your hands: Human-rights law was once thought to apply in peace and humanitarian law in armed conflict, but that is not exact — the inherent human rights in human-rights law can be violated in peace and in war, so its application continues during armed conflict, and warring states must protect their peoples' rights from government abuse under the pretext of war; shared rights protected at all times include the ban on discrimination by sex, race, language or religion, the right to life, the ban on torture in all its forms and on cruel treatment that degrades human dignity, and the ban on slavery; the chief humanitarian-law treaties are the four Geneva Conventions of 1949 (the wounded and sick in the field; the wounded, sick and shipwrecked at sea; the treatment of prisoners of war; the protection of civilians in wartime), the two Additional Protocols of 1977 (the first protecting victims of international conflicts and counting national-liberation wars against colonialism, foreign occupation and racist regimes as international conflicts, and the occupying power's settlement as a war crime; the second setting humane-treatment guarantees in non-international conflicts and protecting the wounded, the sick and medical teams and their emblems — the Red Cross, the Red Crescent and the Red Crystal), and the Rome Statute of the International Criminal Court (1998, in force 2002, seated at The Hague), a permanent court that investigates and punishes persons for crimes committed during wars. Say each part out loud as you do it, from the lesson.
+
+## Palestine's way
+Say how Palestine's book teaches this thing, in your own words, from the lesson.

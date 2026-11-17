@@ -1,0 +1,16 @@
+# Sources — Rights of Prisoners of War
+
+countries: Palestine
+
+**Book 1:** *الدراسات الاجتماعية (Social Studies), Grade 7, Part 2* (student book, Arabic) — Title as printed: الدراسات الاجتماعية (Social Studies), Grade 7, Part 2. Grade: 7 (student/teacher: STUDENT). Publisher: Ministry of Education, State of Palestine; year not printed on the pages checked; no ISBN printed. PDF pages: 76 (verified in this wave by own grab: 13,990,646 bytes exactly as recorded, pdfinfo 76 pages, cover rendered and seen — State of Palestine, Ministry of Education and Higher Education, Social Studies, Grade 7 Part 2 tab; also blob-SHA-verified by the Geography and History waves; this wave read the waves' full-text extract of that verified file, printed p. = PDF p. − 4; own PDF deleted after filing). Earlier waves: Geography wave placed Unit 5's geography parts / History wave placed Unit 4 (decline of the Islamic state) and named Unit 6 Human Rights (pp. 54–69) and Unit 5 Lesson 3's OIC parts without placing them / Economics wave filed the book record-only for Economics and named the same parts. Verdict: COMPLETE. Contents map: History pp. 4–31 (Unit 4); Geography pp. 32–53 (Unit 5 The Islamic world); Civics pp. 48–50 (inside Unit 5 Lesson 3: the Organisation of Islamic Cooperation's goals and its Palestine resolutions) and pp. 52–69 (Unit 6 Human rights — teaching pp. 54–65, the rest assessment and project); apparatus pp. 67–69 (project-method appendix, named not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — resources-and-conflict/rights-of-prisoners-of-war — Unit 6 Lesson 1: The rights of prisoners in armed conflicts — teaches: fixed rules protect prisoners of war: they may not be pursued for taking part in the fighting, and their detention is not a punishment but only to stop their further part in the war, so they must be released and returned to their homelands as soon as the war ends; they may be tried only if they commit grave crimes; they must be treated humanely in all circumstances, protected from killing, torture and every act that degrades human dignity; they must be given a suitable place, food, clothing, cleanliness and medical care; civilian detainees must be protected and not held under house arrest or detained for security reasons, and released when the reason ends; and prisoners must be allowed to communicate with their families until their release — Palestine Grade 7 Social Studies Part 2, printed p. 58 | Palestine, *Social Studies, Grade 7, Part 2* (student book), Unit 6 Lesson 1: The rights of prisoners in armed conflicts — printed p. 58 |
+| Sub lesson 2 — Palestine's way — the book's own teaching way | Palestine — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Palestine).**
+
+Palestine's own way (Grade 7 Social Studies Part 2): human rights are taught where Palestine lives them — the Geneva Conventions are read against the occupation's prisons, with the prisoners' own day (17 April) as a national day, and disability is taught with the occupation named among its causes in Palestine, down to the 1987 bone-breaking policy.
+
+Searchable tags: rights of prisoners of war, Palestine, social studies, resources-and-conflict

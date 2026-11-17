@@ -1,6 +1,6 @@
 # Sources — Cooperation Working Together
 
-countries: Mauritius, Libya, Oman, Bangladesh, Iraq, North Macedonia
+countries: Mauritius, Libya, Oman, Bangladesh, Iraq, North Macedonia, Palestine
 
 **Book 1:** *Values and Citizenship Education — Grade 1 Teacher’s Handbook* (teacher guide, English) — Title as printed: Values and Citizenship Education — Grade 1 Teacher’s Handbook. Grade: Grade 1 (student/teacher: TEACHER). Publisher: Mauritius Institute of Education (MIE); year 2020; ISBN 978-99949-53-93-6. PDF pages: no PDF — read via FlipHTML5 flipbook (88 pages, printed pp. i–80); cover/imprint page verified against the record title (Lesson 14 "About my country" named in the record is present, printed p. 70). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Morals/Values pp. 2–59, 75–79; Civics/Citizenship (national symbols, country identity) pp. 62–74; Health (body care, named only, not placed) pp. 8–20. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mauritius-placements-b.md. Teacher guide — evidence only, outside the acceptance count. Staging note: the book exists only as a FlipHTML5 flipbook — no PDF file was downloadable, so there is no file to stage under the 2026-11-13 rule; the read is from the flipbook’s full text.
 
@@ -29,7 +29,7 @@ Bangladesh's own way (Grade 7): civics is learned by doing it — the class runs
 
 Mauritius’s own way (teacher guide — evidence): Values taught through the child’s widening circles — self, people around me, then "I love my country" — with Mauritius’s own flag colours, anthem words, and its three islands (Mauritius, Rodrigues, Agalega) as the identity content, and unity taught through the country’s many festivals.
 
-Searchable tags: cooperation working together, Mauritius, social studies, culture-and-work, Libya, Oman, Bangladesh
+Searchable tags: cooperation working together, Mauritius, social studies, culture-and-work, Libya, Oman, Bangladesh, Palestine
 
 Libya's own way (National Education G5): Grade 5 is a pure values book — eight lessons, each a single civic virtue (equality, justice, solidarity, tolerance, accepting the other, dialogue), each anchored in a real instrument a child can hold: the Universal Declaration of Human Rights, the Convention on the Rights of the Child, UNESCO's 1995 Declaration on Tolerance, and the Libyan Scouts' "A World of Peace for Children" charter, which the pupil signs.
 
@@ -69,3 +69,16 @@ North Macedonia placements — Social Studies remaining strands (2026-11-17):
 North Macedonia's own way (Book 1): Society in Grade 2 is the child in three widening circles — school, home, settlement — and already runs a miniature democracy: the class community elects its president by secret ballot, sits in a pupil parliament, and learns decision-making, equality and respect as daily school practice, in a multi-ethnic classroom cast (Macedonian, Albanian and other names throughout).
 
 Registry note: the original coined string `culture-and-work/working-together-with-friends` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/cooperation-working-together`.
+
+**Book 5:** *الدراسات الاجتماعية (Social Studies), Grade 5, Part 1* (student book, Arabic) — Title as printed: الدراسات الاجتماعية (Social Studies), Grade 5, Part 1. Grade: 5 (student/teacher: STUDENT). Publisher: Ministry of Education, State of Palestine; year 2020 (3rd edition; adopted for school year 2017/2018); ISBN no ISBN printed. PDF pages: 92 (verified in this wave: own grab completed at 6,856,220 bytes, pdfinfo 92 pages, cover rendered and checked — State of Palestine, Ministry of Education, الدراسات الاجتماعية, Part 1, Grade 5 tab; the read itself used the Geography/History waves' full-text extract of the same verified file, printed p. = PDF p. − 4). Earlier waves: Geography wave placed the Geography parts (Planet Earth unit) / History wave placed Unit 2 (human life in ancient times) / Economics wave placed the resources segment inside Unit 1 (printed pp. 23–25) and named Unit 3 Civics pp. 72–86 without placing it. Verdict: COMPLETE. Contents map: Geography/Science pp. 2–39; History pp. 40–71; Economics pp. 23–25 (inside Unit 1); Integrated SS/Civics pp. 72–86 (Unit 3 The society we live in); apparatus pp. 84–86 (project-method appendix, named not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — first-steps/working-together-in-a-group — Unit 3 Lesson 1: The importance of group work in human life — teaches: through the story of boys who cannot move a boulder alone, a person cannot live alone and needs others as they need him — for food, work, security and protection; the group is a source of strength for the individual and the homeland, saves time and effort, exchanges experience and knowledge, and works only with interaction, organisation, exchanged opinions and the common interest put before the individual one — Palestine Grade 5 Social Studies Part 1, printed p. 77 | Palestine, *Social Studies, Grade 5, Part 1* (student book), Unit 3 Lesson 1: The importance of group work in human life — printed p. 77 |
+| Palestine's way — the book's own teaching way | Palestine — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 5 countries (Libya, Bangladesh, Iraq, North Macedonia, Palestine).. Mauritius is named here as teacher-guide evidence only, counted nowhere. Oman is named here as teacher-guide evidence only, counted nowhere.**
+
+Palestine's own way (Grade 5 Social Studies Part 1): the first civics unit opens with the child's own right to live inside a family and a state; the Palestinian family is taught in its two real forms — the small nuclear family and the large extended hamula — and the state lesson is taught under occupation, asking openly what prevents Palestine's independence while naming Jerusalem as its capital.
+
+Registry note: the original coined string `first-steps/working-together-in-a-group` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/cooperation-working-together`.

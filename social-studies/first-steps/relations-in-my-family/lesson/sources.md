@@ -1,6 +1,6 @@
 # Sources — Relations in My Family
 
-countries: Yemen, Iraq
+countries: Yemen, Iraq, Palestine
 
 **Book 1:** *التربية الاجتماعية للصف الثالث الأساسي (Social Education for Grade 3 of Basic Education)* (student book, Arabic) — Republic of Yemen, Ministry of Education; year 1442 AH / 2021 CE (cover print); ISBN no ISBN printed. Title as printed: التربية الاجتماعية للصف الثالث الأساسي (Social Education for Grade 3 of Basic Education). Grade: 3 (student/teacher: STUDENT). PDF pages: 82 (cover/title page verified against the record title; 6,153,895 bytes, Wayback snapshot 20240711065415 of the recorded source_url). Earlier waves: Geography wave placed Unit 3 L1 place of residence, L3 occupations, L4 cleanliness of neighbourhood, and Unit 4 (directions/Earth/seasons/time); History wave placed Unit 1 L1 my family and my relatives and Unit 4 L4 time; Economics wave placed Unit 3 L3 (one economics placement). Those parts are NOT re-placed here. Verdict: COMPLETE. Contents map: Integrated SS pp. 6–24 (Unit 1 family/home), pp. 34–42 (Unit 2 school lessons), p. 50 (Unit 3 L2 neighbours); Civics/Citizenship/Government pp. 12–23 (family relations, kindness, home duties, inside Unit 1); Morals/Values pp. 16–19 (kindness in the family), pp. 50–56 (good neighbourliness); Geography pp. 47–49, 63–75; History p. 73 (time, placed by History wave); Religion pp. 26–33 (Unit 2 mosque lessons — named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/yemen-placements.md.
 
@@ -13,7 +13,7 @@ countries: Yemen, Iraq
 
 Yemen's own way (G3 Social Studies): the combined Social Education book starts from the child's own family, mosque and school, then widens to neighbours and the neighbourhood/village — the remaining strands are taught as lived duties (kindness to parents, care of the home, good neighbourliness, school order) before any geography appears.
 
-Searchable tags: relations in my family, Yemen, social studies, first-steps
+Searchable tags: relations in my family, Yemen, social studies, first-steps, Palestine
 
 
 Iraq placements — Social Studies remaining strands (2026-11-17):
@@ -28,3 +28,16 @@ Iraq placements — Social Studies remaining strands (2026-11-17):
 
 Iraq's own way (Book 5): values are defined first as a system — standards that steer behaviour and spread peace "regardless of sex, religion, nationality, language or race" — and citizenship is cashed out in named rights (education, work, candidacy, the vote, freedom of opinion and belief), while the internet chapter warns in plain terms that the open network "is governed by no restrictions or conditions".
 Registry note: the original coined string `culture-and-work/family-relations` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/relations-in-my-family`.
+
+**Book 6:** *الدراسات الاجتماعية (Social Studies), Grade 5, Part 1* (student book, Arabic) — Title as printed: الدراسات الاجتماعية (Social Studies), Grade 5, Part 1. Grade: 5 (student/teacher: STUDENT). Publisher: Ministry of Education, State of Palestine; year 2020 (3rd edition; adopted for school year 2017/2018); ISBN no ISBN printed. PDF pages: 92 (verified in this wave: own grab completed at 6,856,220 bytes, pdfinfo 92 pages, cover rendered and checked — State of Palestine, Ministry of Education, الدراسات الاجتماعية, Part 1, Grade 5 tab; the read itself used the Geography/History waves' full-text extract of the same verified file, printed p. = PDF p. − 4). Earlier waves: Geography wave placed the Geography parts (Planet Earth unit) / History wave placed Unit 2 (human life in ancient times) / Economics wave placed the resources segment inside Unit 1 (printed pp. 23–25) and named Unit 3 Civics pp. 72–86 without placing it. Verdict: COMPLETE. Contents map: Geography/Science pp. 2–39; History pp. 40–71; Economics pp. 23–25 (inside Unit 1); Integrated SS/Civics pp. 72–86 (Unit 3 The society we live in); apparatus pp. 84–86 (project-method appendix, named not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — first-steps/good-relations-inside-the-family — Unit 3 Lesson 1: Our relations and roles — positive relations inside the family — teaches: positive family relations rest on cooperation and mutual help between all members, male and female, on love, respect and solidarity, on consultation and dialogue in solving problems and taking decisions, and on equality with no discrimination between members — Palestine Grade 5 Social Studies Part 1, printed p. 76 | Palestine, *Social Studies, Grade 5, Part 1* (student book), Unit 3 Lesson 1: Our relations and roles — positive relations inside the family — printed p. 76 |
+| Palestine's way — the book's own teaching way | Palestine — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 3 countries (Yemen, Iraq, Palestine)..**
+
+Palestine's own way (Grade 5 Social Studies Part 1): the first civics unit opens with the child's own right to live inside a family and a state; the Palestinian family is taught in its two real forms — the small nuclear family and the large extended hamula — and the state lesson is taught under occupation, asking openly what prevents Palestine's independence while naming Jerusalem as its capital.
+
+Registry note: the original coined string `first-steps/good-relations-inside-the-family` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/relations-in-my-family`.

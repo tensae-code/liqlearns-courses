@@ -1,0 +1,9 @@
+# Human Rights Law in Peace and War — short answer
+
+Answer in a sentence or two.
+
+**1. (Sub lesson 1)** What does this part of this lesson teach?
+**Answer: Human Rights Law in Peace and War — human-rights law was once thought to apply in peace and humanitarian law in armed conflict, but that is not exact — the inherent human rights in human-rights law can be violated in peace and in war, so its application continues during armed conflict, and warring states must protect their peoples' rights from government abuse under the pretext of war; shared rights protected at all times include the ban on discrimination by sex, race, language or religion, the right to life, the ban on torture in all its forms and on cruel treatment that degrades human dignity, and the ban on slavery; the chief humanitarian-law treaties are the four Geneva Conventions of 1949 (the wounded and sick in the field; the wounded, sick and shipwrecked at sea; the treatment of prisoners of war; the protection of civilians in wartime), the two Additional Protocols of 1977 (the first protecting victims of international conflicts and counting national-liberation wars against colonialism, foreign occupation and racist regimes as international conflicts, and the occupying power's settlement as a war crime; the second setting humane-treatment guarantees in non-international conflicts and protecting the wounded, the sick and medical teams and their emblems — the Red Cross, the Red Crescent and the Red Crystal), and the Rome Statute of the International Criminal Court (1998, in force 2002, seated at The Hague), a permanent court that investigates and punishes persons for crimes committed during wars (any close wording).**
+
+**2. (Sub lesson 2)** What does this part of this lesson teach?
+**Answer: Palestine's way — the book's own teaching way (any close wording).**

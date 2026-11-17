@@ -1,0 +1,9 @@
+# Video script — Elections How Leaders Are Chosen
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). This script is full: the placements name a video-script need for this lesson. Made later, when videos are made; the script is the slot's written form until then.
+
+---
+
+Palestine Grade 9 Social Studies Part 1, printed pp. 70–71, teaches: the call to elections — general elections are called by decision of the President three months before the end of his term or the Legislative Council's, fixing the dates of candidacy and polling and published in the official gazette and the local daily newspapers, while local elections are called by a Cabinet decision; registering the voters in the voters' register, to determine who meets the conditions of the right to vote; publishing the preliminary voters' register so voters can check their names and the correctness of their data; electoral campaigning — the activities by which the lists and candidates explain their programmes in a fixed period to urge voters to vote for them, provided they do not conflict with the laws and regulations; polling — the voters go to the electoral centres on a set day, and the day of general elections is an official holiday; and counting and announcing the results inside the polling centres — the ballot boxes are opened and the papers sorted in the presence of the centre's committee, local and international observers and media representatives, and after counting the election result is announced.
+
+Palestine's own way: participation is taught as existence itself — "I participate, therefore I am" — and the lesson counts women's actual seats (56 of 744 in the National Council, 17 of 132 in the Legislative Council) before teaching the quota women won to change them; elections close the course with Palestine's own candidacy ages: 40 for president, 28 for the Legislative Council, 25 for local councils.

@@ -1,6 +1,6 @@
 # Sources — The State — Definition and Types
 
-countries: Egypt, Haiti, Afghanistan, Eritrea, Mexico, Belarus, Syria, Bangladesh, Iraq, Armenia, Kazakhstan, United States
+countries: Egypt, Haiti, Afghanistan, Eritrea, Mexico, Belarus, Syria, Bangladesh, Iraq, Armenia, Kazakhstan, United States, Palestine
 
 **Book 1:** *الجغرافيا السياسية (Political Geography) — كتاب الطالب والأنشطة والتدريبات (Student Book, Activities and Exercises)* (student book with activities, Arabic) — Egypt, Ministry of Education and Technical Education, Egypt; no year or ISBN on the cover pages read (the file is the ministry's 2026-folder student book). Title as printed: الجغرافيا السياسية (Political Geography). Grade 12, Third Secondary, Term 1 (student). 172 PDF pp. (cover verified against the record title; 28,573,835 bytes = record size exactly, from the recorded Azure source; staged in phase3-staging/grade-12/gov/egypt/Geography_Sec3.pdf under the push-don't-delete rule — its books.json record already existed there). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/egypt-placements.md.
 
@@ -62,7 +62,7 @@ Eritrea's own way (ER G7 Social Studies): government is taught as a growth story
 
 Syria's own way (Social Studies Grade 6): civics is taught inside the Arab-world regional tour — the state lesson interrupts the geography of Africa to define the state from Syria's own case (sovereignty won 17 April 1946, land, nation, authority), and the family/institutions unit teaches society as a ladder of organised groups, from the family cell to the cultural institutions the Ministry of Culture runs.
 
-Searchable tags: the state definition and types, Egypt, Eritrea, social studies, global-issues, Haiti, Afghanistan, Mexico, Belarus, Syria, Bangladesh, United States
+Searchable tags: the state definition and types, Egypt, Eritrea, social studies, global-issues, Haiti, Afghanistan, Mexico, Belarus, Syria, Bangladesh, United States, Palestine
 
 Afghanistan's own way (Grade 6 Social Studies): the Afghan state is taught as the child's own house — society needs a state as a family needs order; the 2004 constitution is the "mother law"; the two houses are named in Pashto (Wolesi Jirga, Meshrano Jirga) and every right (children's, women's, human dignity) is grounded first in Islam and then in the constitution's own articles.
 
@@ -128,3 +128,14 @@ United States placements — Social Studies remaining strands (2026-11-17):
 **Acceptance count: taught in 11 countries (Egypt, Afghanistan, Eritrea, Mexico, Belarus, Syria, Bangladesh, Iraq, Armenia, Kazakhstan, United States). Haiti is named here as teacher-guide evidence only, counted nowhere.**
 
 United States' own way (Grade 13 American Government 3e): the United States teaches its own government as one complete system in one book — the Constitution is not a topic but the frame: every institution (Congress, presidency, courts, states, counties, cities, the civil service) is derived from it in turn, and rights are taught as the courts have interpreted them, case by case.
+
+**Book 12:** *الدراسات الاجتماعية (Social Studies), Grade 5, Part 1* (student book, Arabic) — Title as printed: الدراسات الاجتماعية (Social Studies), Grade 5, Part 1. Grade: 5 (student/teacher: STUDENT). Publisher: Ministry of Education, State of Palestine; year 2020 (3rd edition; adopted for school year 2017/2018); ISBN no ISBN printed. PDF pages: 92 (verified in this wave: own grab completed at 6,856,220 bytes, pdfinfo 92 pages, cover rendered and checked — State of Palestine, Ministry of Education, الدراسات الاجتماعية, Part 1, Grade 5 tab; the read itself used the Geography/History waves' full-text extract of the same verified file, printed p. = PDF p. − 4). Earlier waves: Geography wave placed the Geography parts (Planet Earth unit) / History wave placed Unit 2 (human life in ancient times) / Economics wave placed the resources segment inside Unit 1 (printed pp. 23–25) and named Unit 3 Civics pp. 72–86 without placing it. Verdict: COMPLETE. Contents map: Geography/Science pp. 2–39; History pp. 40–71; Economics pp. 23–25 (inside Unit 1); Integrated SS/Civics pp. 72–86 (Unit 3 The society we live in); apparatus pp. 84–86 (project-method appendix, named not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — global-issues/the-state-definition-and-types — Unit 3 Lesson 2: The state — its concept and components — teaches: a state is a defined piece of land whose inhabitants live on it under a political authority; its components are a defined area of land, a population holding its nationality, a political authority (government) that runs the inhabitants' affairs, and international recognition — applied to Palestine and what blocks its independence — Palestine Grade 5 Social Studies Part 1, printed p. 80 | Palestine, *Social Studies, Grade 5, Part 1* (student book), Unit 3 Lesson 2: The state — its concept and components — printed p. 80 |
+| Palestine's way — the book's own teaching way | Palestine — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 12 countries (Egypt, Afghanistan, Eritrea, Mexico, Belarus, Syria, Bangladesh, Iraq, Armenia, Kazakhstan, United States, Palestine).. Haiti is named here as teacher-guide evidence only, counted nowhere.**
+
+Palestine's own way (Grade 5 Social Studies Part 1): the first civics unit opens with the child's own right to live inside a family and a state; the Palestinian family is taught in its two real forms — the small nuclear family and the large extended hamula — and the state lesson is taught under occupation, asking openly what prevents Palestine's independence while naming Jerusalem as its capital.

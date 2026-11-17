@@ -1,6 +1,6 @@
 # Sources — Duties of a Citizen
 
-countries: Oman, Syria, Guatemala
+countries: Oman, Syria, Guatemala, Palestine
 
 **Book 1:** *Identity and Citizenship Grade 3, Term 2* (teacher guide, Arabic) — Title as printed: دليل المعلم لمادة الهوية والمواطنة — Teacher's Guide for the Subject Identity and Citizenship. Grade: Grade 3 (student/teacher: TEACHER), Term 2. Publisher: Ministry of Education, Sultanate of Oman; experimental edition (same series); no ISBN printed. PDF pages: 60 (15,415,504 bytes — exactly the ministry server's Content-Range total; ministry TeacherBook PDF service, after the afedne landing page for this record returned HTTP 520. Cover verified: الصف الثالث، الفصل الدراسي الثاني. STAGED under the new rule at phase3-staging/grade-03/gov/oman/identity-and-citizenship/teacher/term-2.pdf with a books.json record). Earlier waves: none. Verdict: COMPLETE — contents and standards read; the two units' lessons placed below, marked TEACHER. Contents map: Unit 4 أنا مواطن مسؤول (I Am a Responsible Citizen) printed p. 24 — lessons: حقوقي في وطني (My rights in my homeland), واجباتي تجاه وطني (My duties toward my homeland), وطني أمانة (My homeland is a trust); Unit 5 أنا مواطن عالمي (I Am a Global Citizen) printed p. 39 — lessons: نحن متساوون (We are equal), لنعش بأمان (Let us live in safety), صوتنا مسموع (Our voice is heard). The term's two standards are both "knowing rights and duties and committing to them" — in the homeland, then in the world. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/oman-placements.md. Teacher guide — evidence only, outside the acceptance count. Oman's student books were not held — its placements are based on teacher guides.
 
@@ -32,7 +32,7 @@ Syria's own way (Social Studies Grade 4): Grade 4 drops the Me-and-You ring stru
 
 Registry note: the original coined string `culture-and-work/the-citizens-duties-toward-himself-others-and-his-homeland` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/duties-of-a-citizen`.
 
-Searchable tags: duties of a citizen, Oman, social studies, culture-and-work, Syria
+Searchable tags: duties of a citizen, Oman, social studies, culture-and-work, Syria, Palestine
 
 Guatemala placements — Social Studies remaining strands (2026-11-17):
 
@@ -50,3 +50,16 @@ Guatemala placements — Social Studies remaining strands (2026-11-17):
 Guatemala's own way (Book 7): the fifth-grade book is the series' citizenship book proper — a pupil meets democracy four times over (definition, citizenship, duties, participation) and every right is tied to the article of Guatemala's own Constitution that grants it.
 Guatemala's own way (Book 8): the sixth-grade book widens the lens — democracy is traced from Athens to Guatemala's own authoritarian past, and citizenship ends at the world: Guatemala's Belize claim put to its own citizens in the 2018 popular consultation on the International Court of Justice.
 Registry note: the original coined string `culture-and-work/citizen-duties-in-the-constitution` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/duties-of-a-citizen`.
+
+**Book 9:** *الدراسات الاجتماعية (Social Studies), Grade 5, Part 1* (student book, Arabic) — Title as printed: الدراسات الاجتماعية (Social Studies), Grade 5, Part 1. Grade: 5 (student/teacher: STUDENT). Publisher: Ministry of Education, State of Palestine; year 2020 (3rd edition; adopted for school year 2017/2018); ISBN no ISBN printed. PDF pages: 92 (verified in this wave: own grab completed at 6,856,220 bytes, pdfinfo 92 pages, cover rendered and checked — State of Palestine, Ministry of Education, الدراسات الاجتماعية, Part 1, Grade 5 tab; the read itself used the Geography/History waves' full-text extract of the same verified file, printed p. = PDF p. − 4). Earlier waves: Geography wave placed the Geography parts (Planet Earth unit) / History wave placed Unit 2 (human life in ancient times) / Economics wave placed the resources segment inside Unit 1 (printed pp. 23–25) and named Unit 3 Civics pp. 72–86 without placing it. Verdict: COMPLETE. Contents map: Geography/Science pp. 2–39; History pp. 40–71; Economics pp. 23–25 (inside Unit 1); Integrated SS/Civics pp. 72–86 (Unit 3 The society we live in); apparatus pp. 84–86 (project-method appendix, named not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — culture-and-work/the-citizens-duties-toward-the-state — Unit 3 Lesson 2: The citizen's duties toward his state — teaches: the citizen must protect the state's property (schools, mosques, electricity networks, streets), protect the environment, defend the state against enemies, obey the laws, pay taxes, treat the state's inhabitants with mutual respect whatever their differences, and take part in charitable voluntary work — Palestine Grade 5 Social Studies Part 1, printed p. 82 | Palestine, *Social Studies, Grade 5, Part 1* (student book), Unit 3 Lesson 2: The citizen's duties toward his state — printed p. 82 |
+| Palestine's way — the book's own teaching way | Palestine — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 3 countries (Syria, Guatemala, Palestine).. Oman is named here as teacher-guide evidence only, counted nowhere.**
+
+Palestine's own way (Grade 5 Social Studies Part 1): the first civics unit opens with the child's own right to live inside a family and a state; the Palestinian family is taught in its two real forms — the small nuclear family and the large extended hamula — and the state lesson is taught under occupation, asking openly what prevents Palestine's independence while naming Jerusalem as its capital.
+
+Registry note: the original coined string `culture-and-work/the-citizens-duties-toward-the-state` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/duties-of-a-citizen`.

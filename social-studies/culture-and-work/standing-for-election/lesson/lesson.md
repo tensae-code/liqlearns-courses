@@ -1,0 +1,22 @@
+# Standing for Election
+
+## Do it first
+
+Before you read on, say in your mind what you already think this is about: candidacy is the process by which individuals, members of a political party, or of a government or civic institution compete to take over the post of president or membership in it; its conditions in Palestine — for the presidency: Palestinian, born to two Palestinian parents, having completed forty years of age or more on polling day, permanently resident in the Palestinian territories, and registered in the final voters' register; for the Legislative Council: Palestinian, twenty-eight years or more on polling day, name entered in the final voters' register, not convicted of a felony or a misdemeanour against honour and trust, and permanently resident; for the local councils: twenty-five years or more on polling day, name in the final register of the local body, no such conviction, not an employee of the Ministry of Local Government or of any public security body unless he has resigned and attached proof of its acceptance, resident within the body for at least a year before the elections, and not a candidate for another local body or list — as Palestine's book teaches it. Hold your idea; the lesson will test it.
+
+## Sub lesson 1 — Standing for Election
+
+Palestine Grade 9 Social Studies Part 1 (printed pp. 68–69), teaches: candidacy is the process by which individuals, members of a political party, or of a government or civic institution compete to take over the post of president or membership in it; its conditions in Palestine — for the presidency: Palestinian, born to two Palestinian parents, having completed forty years of age or more on polling day, permanently resident in the Palestinian territories, and registered in the final voters' register; for the Legislative Council: Palestinian, twenty-eight years or more on polling day, name entered in the final voters' register, not convicted of a felony or a misdemeanour against honour and trust, and permanently resident; for the local councils: twenty-five years or more on polling day, name in the final register of the local body, no such conviction, not an employee of the Ministry of Local Government or of any public security body unless he has resigned and attached proof of its acceptance, resident within the body for at least a year before the elections, and not a candidate for another local body or list. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Sub lesson 2 — Palestine's way — the book's own teaching way
+
+Palestine's own way (Grade 9 Social Studies Part 1): participation is taught as existence itself — "I participate, therefore I am" — and the lesson counts women's actual seats (56 of 744 in the National Council, 17 of 132 in the Legislative Council) before teaching the quota women won to change them; elections close the course with Palestine's own candidacy ages: 40 for president, 28 for the Legislative Council, 25 for local councils. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Say it to your companion
+
+Explain this lesson to your companion in your own words. Your companion asks you one hard question about it — answer from the lesson.
+
+## Do It Yourself
+
+1. Standing for Election: do the activity in hands-on.md under this name.
+2. Palestine's way — the book's own teaching way: do the activity in hands-on.md under this name.

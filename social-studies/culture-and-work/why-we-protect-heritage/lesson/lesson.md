@@ -1,0 +1,22 @@
+# Why We Protect Heritage
+
+## Do it first
+
+Before you read on, say in your mind what you already think this is about: neglecting heritage and being careless with it deprives the coming generations of it, cuts their emotional connection to their past, and makes them pliant tools of intellectual invasion and foreign dependence and its colonial policy of forging heritage, distorting it, erasing it and stealing it — as in the occupation's practices against Palestinian heritage, from which not even the birds, nature reserves, roads, passages and manuscripts were spared; UNESCO set 18 April each year as Heritage Day, and Palestine set 7 October as Palestinian Heritage Day, to affirm its national identity at home and in the diaspora and to face the challenges, first of them the occupation's policy of distorting and erasing it; the importance of preserving heritage lies in its being a symbol of identity and proof of the historical right — its images present on national and religious occasions, the currency, postage stamps and festivals; the spiritual bond — as the holy religious places in Jerusalem bind over half the world's inhabitants who believe in the heavenly messages; enriching world culture — people's acquaintance with the world's peoples' experiences and the exchange of cultures, heritage being a source of historical knowledge and a true witness to human creativity, its arts, beauty and authenticity; economic development — a basic element in activating tourism and feeding the state treasury with hard currency; and protecting the environment — preserving endangered plants, animals, birds and fish in nature reserves revives and restores the local environment — as Palestine's book teaches it. Hold your idea; the lesson will test it.
+
+## Sub lesson 1 — Why We Protect Heritage
+
+Palestine Grade 9 Social Studies Part 2 (printed p. 75), teaches: neglecting heritage and being careless with it deprives the coming generations of it, cuts their emotional connection to their past, and makes them pliant tools of intellectual invasion and foreign dependence and its colonial policy of forging heritage, distorting it, erasing it and stealing it — as in the occupation's practices against Palestinian heritage, from which not even the birds, nature reserves, roads, passages and manuscripts were spared; UNESCO set 18 April each year as Heritage Day, and Palestine set 7 October as Palestinian Heritage Day, to affirm its national identity at home and in the diaspora and to face the challenges, first of them the occupation's policy of distorting and erasing it; the importance of preserving heritage lies in its being a symbol of identity and proof of the historical right — its images present on national and religious occasions, the currency, postage stamps and festivals; the spiritual bond — as the holy religious places in Jerusalem bind over half the world's inhabitants who believe in the heavenly messages; enriching world culture — people's acquaintance with the world's peoples' experiences and the exchange of cultures, heritage being a source of historical knowledge and a true witness to human creativity, its arts, beauty and authenticity; economic development — a basic element in activating tourism and feeding the state treasury with hard currency; and protecting the environment — preserving endangered plants, animals, birds and fish in nature reserves revives and restores the local environment. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Sub lesson 2 — Palestine's way — the book's own teaching way
+
+Palestine's own way (Grade 9 Social Studies Part 2): the course ends at world scale and comes home — war is classified and costed, heritage is identity with a UNESCO date (full membership, 31 October 2011), and racial discrimination is defined by the very convention Palestine joined in 2014 without reservations, then answered by its own Basic Law and its protected minorities, the Samaritans of Mount Gerizim first. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Say it to your companion
+
+Explain this lesson to your companion in your own words. Your companion asks you one hard question about it — answer from the lesson.
+
+## Do It Yourself
+
+1. Why We Protect Heritage: do the activity in hands-on.md under this name.
+2. Palestine's way — the book's own teaching way: do the activity in hands-on.md under this name.

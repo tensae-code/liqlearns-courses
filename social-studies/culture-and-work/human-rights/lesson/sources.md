@@ -1,6 +1,6 @@
 # Sources — Human Rights
 
-countries: Oman, Bangladesh, Colombia, Guatemala, Iraq
+countries: Oman, Bangladesh, Colombia, Guatemala, Iraq, Palestine
 
 **Book 1:** *Identity and Citizenship Grade 3, Term 2* (teacher guide, Arabic) — Title as printed: دليل المعلم لمادة الهوية والمواطنة — Teacher's Guide for the Subject Identity and Citizenship. Grade: Grade 3 (student/teacher: TEACHER), Term 2. Publisher: Ministry of Education, Sultanate of Oman; experimental edition (same series); no ISBN printed. PDF pages: 60 (15,415,504 bytes — exactly the ministry server's Content-Range total; ministry TeacherBook PDF service, after the afedne landing page for this record returned HTTP 520. Cover verified: الصف الثالث، الفصل الدراسي الثاني. STAGED under the new rule at phase3-staging/grade-03/gov/oman/identity-and-citizenship/teacher/term-2.pdf with a books.json record). Earlier waves: none. Verdict: COMPLETE — contents and standards read; the two units' lessons placed below, marked TEACHER. Contents map: Unit 4 أنا مواطن مسؤول (I Am a Responsible Citizen) printed p. 24 — lessons: حقوقي في وطني (My rights in my homeland), واجباتي تجاه وطني (My duties toward my homeland), وطني أمانة (My homeland is a trust); Unit 5 أنا مواطن عالمي (I Am a Global Citizen) printed p. 39 — lessons: نحن متساوون (We are equal), لنعش بأمان (Let us live in safety), صوتنا مسموع (Our voice is heard). The term's two standards are both "knowing rights and duties and committing to them" — in the homeland, then in the world. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/oman-placements.md. Teacher guide — evidence only, outside the acceptance count. Oman's student books were not held — its placements are based on teacher guides.
 
@@ -30,7 +30,7 @@ Registry note: the original coined string `culture-and-work/human-rights-rights-
 
 Country honesty note: Oman's student books were not held — its placements are based on teacher guides, and the G7 Term-2 content is a named GAP (the Grade 7 framework assigns the Basic Statute of the State and government institutions to Grade 7, no Term 1 unit teaches them, and the Term 2 book was not reached, as filed in the oman-placements.md record-only section); all Oman placements in this lesson are evidence only, outside acceptance counts.
 
-Searchable tags: human rights, Oman, social studies, culture-and-work, Bangladesh
+Searchable tags: human rights, Oman, social studies, culture-and-work, Bangladesh, Palestine
 
 Registry note: the original coined string `culture-and-work/human-rights-born-with-us` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/human-rights`.
 
@@ -78,4 +78,17 @@ Iraq placements — Social Studies remaining strands (2026-11-17):
 **Acceptance count: taught in 4 countries (Bangladesh, Colombia, Guatemala, Iraq). Oman is named here as teacher-guide evidence only, counted nowhere.**
 
 Iraq's own way (Book 5): values are defined first as a system — standards that steer behaviour and spread peace "regardless of sex, religion, nationality, language or race" — and citizenship is cashed out in named rights (education, work, candidacy, the vote, freedom of opinion and belief), while the internet chapter warns in plain terms that the open network "is governed by no restrictions or conditions".
+Registry note: the original coined string `culture-and-work/human-rights-what-they-are` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/human-rights`.
+
+**Book 25:** *الدراسات الاجتماعية (Social Studies), Grade 6, Part 1* (student book, Arabic) — Title as printed: الدراسات الاجتماعية (Social Studies), Grade 6, Part 1. Grade: 6 (student/teacher: STUDENT). Publisher: Ministry of Education, State of Palestine; adopted for school year 2017/2018; no ISBN printed. PDF pages: 96 (verified in this wave by own grab: 1,796,736 bytes exactly as recorded, pdfinfo 96 pages, cover rendered and seen — State of Palestine, Ministry of Education and Higher Education, Social Studies, Grade 6 Part 1 tab; also blob-SHA-verified by the Geography and History waves; this wave read the waves' full-text extract of that verified file, printed p. = PDF p. − 4; own PDF deleted after filing). Earlier waves: Geography wave placed Unit 1's geography-method parts / History wave placed Unit 2 (the Arab homeland, cradle of civilisations) and named Unit 3 Civics without placing it / Economics wave filed the book record-only for Economics and named Unit 3 (Law and order, printed pp. 76–90) without placing it. Verdict: COMPLETE. Contents map: Geography/History pp. 2–75 (Units 1–2); Civics pp. 76–90 (Unit 3 Law and order protect our rights and duties — teaching pp. 78–85, the rest assessment); apparatus pp. 88–90 (project-method appendix, named not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/palestine-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Palestine part — culture-and-work/human-rights-what-they-are — Unit 3 Lesson 2: Human rights — concept — teaches: human rights are the rights inherent in human beings, which every human has the right to enjoy; among the international treaties and covenants that guarantee the protection of individuals and groups from acts that violate human rights are the Universal Declaration of Human Rights, the Convention on the Rights of the Child, the convention eliminating all forms of discrimination against women, and the International Covenant on Civil and Political Rights — Palestine Grade 6 Social Studies Part 1, printed p. 83 | Palestine, *Social Studies, Grade 6, Part 1* (student book), Unit 3 Lesson 2: Human rights — concept — printed p. 83 |
+| Palestine's way — the book's own teaching way | Palestine — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 5 countries (Bangladesh, Colombia, Guatemala, Iraq, Palestine).. Oman is named here as teacher-guide evidence only, counted nowhere.**
+
+Palestine's own way (Grade 6 Social Studies Part 1): the constitution is taught from Palestine's own draft Basic Law — pupils extract legal rules from its actual articles (the people as source of the authorities, a democratic parliamentary system, equality before the law) before they are given the definition, and the three authorities are each named by the Palestinian institution that holds them.
+
 Registry note: the original coined string `culture-and-work/human-rights-what-they-are` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/human-rights`.
