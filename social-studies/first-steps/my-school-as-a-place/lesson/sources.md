@@ -36,6 +36,7 @@ countries: Fiji, Latvia, Mauritius, Ecuador, Yemen, Libya, Afghanistan, Eritrea,
 
 | Serbia part — first-steps/my-school-as-a-place — Моја школа (My school) — teaches: the school known place by place — classroom, gym, dining room, library, assembly hall, the offices of the director, pedagogue and psychologist — and the pupils are the most important people in it — Serbia Grade 1 Свет око нас 1, printed pp. 22–23 | Serbia, *Свет око нас 1* (student book), Моја школа (My school) — printed pp. 22–23 |
 | Serbia part — first-steps/my-school-as-a-place — У учионици (In the classroom) — teaches: the classroom as the class's own place — "my friends and I make one class of the first grade" — its furniture, computers and the work done in it — Serbia Grade 1 Свет око нас 1, printed pp. 24–25 | Serbia, *Свет око нас 1* (student book), У учионици (In the classroom) — printed pp. 24–25 |
+| Fiji part — first-steps/my-school-as-a-place — Part Two, Strand 3 Lesson 2 My School — teaches: school as a place for learning and a second home — classrooms, classes and teachers, the Head Teacher leading the school, researching my own school, and school rules that guide everyone — Fiji Grade 3 Social Studies Year 3, printed p. 43 | Fiji, *Social Studies Year 3* (student book), Part Two, Strand 3 Lesson 2 My School — printed p. 43 |
 
 **Acceptance count: taught in 7 countries (Fiji, Ecuador, Yemen, Libya, Afghanistan, Eritrea, Serbia). Latvia and Mauritius are named here as teacher-guide evidence only, counted nowhere.**
 
@@ -53,6 +54,8 @@ Eritrea's own way (ER G6 Citizenship Education): a standalone Citizenship Educat
 
 
 Serbia's own way (Grade 1 Свет око нас): the integrated subject opens with the child herself (me, my feelings, my family) and widens circle by circle — family, home, neighbours, school, street — with rights taught from the first year as inseparable from duties ("every right seeks a duty"), and Serbia's own school slava, Saint Sava's Day on 27 January, taught as every school's feast.
+Fiji's own way (Grade 3): The whole primary course starts from the child in the family and widens outward year by year; Year 3 is built as a UNESCO-backed Family Tree project, so family, culture and heritage are researched by the child from their own household.
+
 Searchable tags: my school as a place, Fiji, Latvia, Mauritius, Eritrea, Serbia, social studies, first-steps, Ecuador, Yemen, Libya, Afghanistan
 
 Libya's own way (National Education G4): the whole book is written in the first person — every lesson is "I and …" (I and my family, I and my school, I and the neighbourhood) — citizenship starts as the child's own relationships, and even the environment unit is framed as the child's own behaviour: what I throw away, what I plant, which beach I clean.

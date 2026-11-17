@@ -1,16 +1,26 @@
 # Sources — Human Races And Peoples Of The World
 
-countries: Moldova
+countries: Moldova, Fiji
 
 **Book 1:** *Geografie — Manual pentru clasa a V-a* (student book, Romanian) — Editura Lumina, Chișinău; year 2015; ISBN printed (number not fully legible in the scan). Title as printed: Geografie — Manual pentru clasa a V-a. Grade: 5 (student/teacher: STUDENT). PDF pages: 128 (cover/title page verified against the record title; 16,733,891 bytes = record size exactly). Verdict: COMPLETE. 12 records / 6 distinct books (TSV + books.json duplicates of the same 6 manuals) — read from the recorded ministry source URLs (eduresurse.gov.md / ctice.md) after the GitHub API route disconnected twice; byte size and page count verified against each record before reading; full text-layer page-by-page reads, as the placements file header records. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/moldova-placements.md.
 
+
+**Book 2:** *Exploring the World Year 8 Social Science* (student book, English) — Title as printed: EXPLORING THE WORLD — YEAR 8 PUPIL'S BOOK. Grade: Year 8 (student/teacher: STUDENT). Publisher: Ministry of Education, Fiji; year 2015, Revised Edition (links record notes a 2021 revised imprint for the flipbook edition); ISBN no ISBN printed. PDF pages: 73 (title page verified against the record title; 2,849,215 bytes — byte-identical to the Economics wave's tree-verified copy; read from the record's own Wayback source_url after the grab.py routes failed). Earlier waves: Geography wave placed Unit 3 parts; History wave placed Unit 2; Economics wave placed Unit 4 (printed pp. 53–69). Unit 1 was named, not placed. Verdict: COMPLETE. Contents map: Civics/Global pp. 7–17 (Unit 1.1 world organisations); Culture pp. 18–23 (Unit 1.2 peoples of the world); History pp. 25–37; Geography pp. 38–52; Economics pp. 53–69; Glossary pp. 70–72 (inventory-only). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/fiji-placements.md.
+
+**Book 3:** *Year 7 Social Science Pupil's Book* (student book, English) — Title as printed: SOCIAL SCIENCE YEAR 7 — STUDY OF THE PACIFIC — PUPIL'S BOOK. Grade: Year 7 (student/teacher: STUDENT). Publisher: Ministry of Education, Heritage & Arts, Fiji (Curriculum Development Unit); year 2021, Revised Edition; ISBN no ISBN printed. PDF pages: 79 (cover verified against the record title; 3,929,316 bytes via grab.py blob route — the route failed repeatedly with RemoteDisconnected through the day and succeeded on a later retry; the record's only other source is a Google Drive view link, not used). Earlier waves: Geography wave placed Strand 3–4 parts; History wave placed Strand 2; Economics wave placed Strand 4 (printed pp. 59–74). Strand 1 was named, not placed. Verdict: COMPLETE. Contents map: Integrated SS / Culture pp. 4–26 (Strand 1: Pacific peoples; cultural identity, diversity and cohesion; family; rights and responsibilities); History pp. 27–45; Geography pp. 46–58; Economics pp. 59–74; Glossary pp. 76–78 (inventory-only). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/fiji-placements.md.
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — §27 Human races; the peoples of the world | Moldova, *Moldova Grade 5 G5 Geography*, §27 Human races; the peoples of the world — printed p. 107 |
 | Sub lesson 2 — Moldova's way — the book's own teaching way | Moldova — the book's own way of teaching (see below) |
+| Fiji part — culture-and-work/human-races-and-peoples-of-the-world — Unit 1.2 Cultural Identity, Diversity and Cohesion — teaches: the major groups of people of the world (African, American, Asian, Australian, European, Indian, Melanesian, Micronesian, Polynesian), their origins and characteristics, and what an indigenous group is — Fiji Grade 8 Exploring the World Year 8 Social Science, printed p. 18 | Fiji, *Exploring the World Year 8 Social Science* (student book), Unit 1.2 Cultural Identity, Diversity and Cohesion — printed p. 18 |
+| Fiji part — culture-and-work/human-races-and-peoples-of-the-world — Strand 1.1 Personal, Social Groups and Processes — teaches: the Pacific's peoples — Polynesians, Melanesians and Micronesians — their homes, characteristics and traditional ways of life (Kon Tiki and Lapita as evidence of their voyaging) — Fiji Grade 7 Year 7 Social Science Pupil's Book, printed p. 4 | Fiji, *Year 7 Social Science Pupil's Book* (student book), Strand 1.1 Personal, Social Groups and Processes — printed p. 4 |
 
-**Acceptance count: taught in 1 country (Moldova).**
+**Acceptance count: taught in 2 countries (Moldova, Fiji).**
 
 Moldova's own way (Moldova Grade 5 G5 Geography): first Geography year built as a single Earth-systems arc — planet, envelopes (lithosphere/atmosphere/hydrosphere/biosphere), human society, then a closing "Protecting the Earth" chapter; every paragraph opens with "you will be able to" outcomes and chapters close with evaluation tests, plus two practical applications (map work; a week-long weather calendar).
 
-Searchable tags: human races and peoples of the world, Moldova, social studies, culture-and-work
+Fiji's own way (Grade 8): The world is organised for a Fiji child as developed and developing countries, and the world organisations are met through the agencies that actually work in the Pacific — UNICEF, WHO, UNESCO, FAO, AusAID, World Vision and Plan International.
+
+Fiji's own way (Grade 7): Identity is taught as "what makes you who you are" — family, friends, school, church, province and culture — and valuing cultures starts from respecting your own roots.
+
+Searchable tags: human races and peoples of the world, Moldova, social studies, culture-and-work, Fiji

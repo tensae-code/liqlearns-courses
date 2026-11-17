@@ -1,18 +1,23 @@
 # Sources — My Family Tree
 
-countries: Eritrea
+countries: Eritrea, Fiji
 
 **Book 1:** *Citizenship Education for Grade 6 — Textbook* (student book, English) — Title as printed: Citizenship Education for Grade 6 — Textbook. Grade: Grade 6 (student/teacher: STUDENT). Publisher: Ministry of Education, The State of Eritrea; year 2014 (first printed 2014, Sabur Printing Services, Asmara); ISBN 99948-1-743-4. PDF pages: 121 (cover/title page verified against the record title; 2,740,923 bytes and 121 pages, both match the record). Earlier waves: not read before (no earlier wave held this book). Verdict: COMPLETE (civics track — read in full, page by page, to printed p. 115). Contents map: Civics/Citizenship/Government pp. 62–75 (referendum and voting, national principles, government structure, rights and duties), 96–115 (rules, rights and responsibilities, good citizen); Morals/Values pp. 1–18 (responsible young person, family responsibility, honesty, friendship), 19–30 (a good student), 76–85 (patriotism as service), 107–115 (qualities of a good citizen, respecting parents); Integrated SS pp. 31–45 (family and culture, doing good for others, diversity of Eritrean society, religious harmony), 86–95 (national symbols and holidays); History pp. 46–61 (the Eritrean Revolution; the Liberation of Eritrea) — named, not placed (History wave's strand). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/eritrea-placements.md.
 
+
+**Book 2:** *Social Studies Year 3* (student book, English) — Title as printed: SOCIAL STUDIES YEAR 3 (Family Tree Pupils Book 3, Re-edited 2017). Grade: Year 3 (student/teacher: STUDENT). Publisher: Ministry of Education, Heritage & Arts, Fiji (Curriculum Development Unit, with the Fiji Memory of the World Committee / UNESCO); year Re-edited 2017; ISBN no ISBN printed. PDF pages: 64 (cover verified against the record title; 6,945,812 bytes — byte-identical to the Economics wave's release-verified copy; read from the record's own Wayback source_url after grab.py tree returned 404 — the file lives only as a release asset — and the release route failed repeatedly with RemoteDisconnected). Earlier waves: Geography wave placed Part Two geography parts; History wave placed the family-history parts; Economics wave placed Part Two Lesson 3–4 money/work parts (printed pp. 50–61). The family/relationships/roles/home/school lessons were named, not placed. Verdict: COMPLETE. Contents map: Integrated SS pp. 5–23 (Part One family, relationships, roles); Culture pp. 24–34 (cultural backgrounds and values; religion activity p. 25 named, not placed); Integrated SS pp. 36–49 (Part Two home and school); Economics pp. 50–61; Glossary p. 62 (inventory-only). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/fiji-placements.md.
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — culture-and-work/my-family-tree — Unit 3.1.2 My Family Tree — teaches: the family tree as a diagram of family relationships across four generations, and the kinship words it needs — Eritrea Grade 6 Citizenship Education, printed p. 34 | Eritrea, *ER G6 Citizenship Education* (student book), Unit 3.1.2 My Family Tree — printed p. 34 |
 | Sub lesson 2 — Eritrea's way — the book's own teaching way | Eritrea — the book's own way of teaching (see below) |
+| Fiji part — first-steps/family-relationships-and-the-family-tree — Part One Lesson 2 Family Relationships — teaches: family members are related as father, mother, sister, brother and more, and a family tree diagram (with its male/female signs) shows the relationships from eldest to youngest — Fiji Grade 3 Social Studies Year 3, printed p. 11 (canonical lesson: first-steps/my-family-tree) | Fiji, *Social Studies Year 3* (student book), Part One Lesson 2 Family Relationships — printed p. 11 |
 
-**Acceptance count: taught in 1 country (Eritrea).**
+**Acceptance count: taught in 2 countries (Eritrea, Fiji).**
 
 Eritrea's own way (ER G6 Citizenship Education): a standalone Citizenship Education subject built entirely from Eritrean stories, poems and dialogues — responsibility is taught through a shop-queue drama and a family Tandoor day, the state through the 1993 referendum story, and patriotism as practical service (keeping the school clean, planting trees at the new clinic) that even a child can do.
 
 Registry note: the original coined string `culture-and-work/my-family-tree` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/my-family-tree`.
 
-Searchable tags: my family tree, Eritrea, social studies, first-steps
+Fiji's own way (Grade 3): The whole primary course starts from the child in the family and widens outward year by year; Year 3 is built as a UNESCO-backed Family Tree project, so family, culture and heritage are researched by the child from their own household.
+
+Searchable tags: my family tree, Eritrea, social studies, first-steps, Fiji

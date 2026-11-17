@@ -1,6 +1,6 @@
 # Sources — The UN — the League's successor, built to last
 
-countries: Ethiopia, Turkmenistan, Venezuela, Samoa, Somalia
+countries: Ethiopia, Turkmenistan, Venezuela, Samoa, Somalia, Fiji
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Turkmenistan, Venezuela, Samoa, Somalia
 
 **Book 4:** *Social Studies — Year 10 Book One* (student book, English) — Title as printed: Social Studies — Year 10 Book One. Grade: Year 10 (student/teacher: STUDENT). Publisher: Government of Samoa, Department of Education; year 2001; ISBN 982-517-009-3. PDF pages: 100 (cover/title page verified against the record title; MESC copy, size 2,049,510 B per download list). Read from the MESC ministry source URL recorded in the books.json record — the same MESC PDF the Geography wave verified byte-for-byte against the record and already secured in GitHub (in_pushed: true) — via the browser text route, cover/title page and ISBN checked against the record before reading; no file staged — the book is already in GitHub, as filed in samoa-placements.md. Earlier waves: Geography wave placed Unit 3–4 skills (graphs, census, pp. 59–98) and named Units 1–2 "Civics, not placed"; History wave placed Unit 1 Topic 1's development narrative, Unit 2's historical case studies, the rights-documents chain, the UDHR and the Mau timeline (pp. 5–6, 10, 25–48) and named the present-day civics parts not placed (voting/law-making pp. 8–18, Japan pp. 19–22, UN/Amnesty/protest pp. 33–45, 48–58); Economics wave placed the census/graph skills only. The civics teaching named by both waves was read and placed here. Verdict: COMPLETE. Contents map: Civics/Citizenship/Government pp. 5–58 (Unit 1 Government; Unit 2 Human Rights); Geography/Skills pp. 59–98 (Units 3–4, placed by Geography wave). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/samoa-placements.md.
 
+
+**Book 6:** *Year 10 Social Science* (student book, English) — Title as printed: SOCIAL SCIENCE YEAR 10 — GLOBAL PERSPECTIVES LOCAL INTERACTION. Grade: Year 10 (student/teacher: STUDENT). Publisher: Ministry of Education, Fiji (Curriculum Development Unit), Suva; year 2013 (recorded as PRE CDU 2015); ISBN no ISBN printed. PDF pages: 101 (cover verified against the record title; 7,406,229 bytes — byte-identical to the Economics wave's release-verified copy; read from the record's own Wayback source_url after the grab.py routes failed). Earlier waves: Geography wave placed Chapter 3 geography parts; History wave placed Chapter 2 (pp. 26–53); Economics wave placed Chapter 3 industries (pp. 60–80) and the capitalist-system definition (p. 8). Chapter 1's civics parts were named, not placed. Verdict: COMPLETE. Contents map: Civics/Citizenship/Government pp. 6–25 (Chapter 1: Government and Democracy, Parliamentary Rule, the United Nations); History pp. 26–53; Geography pp. 54–59, 81–101; Economics pp. 60–80. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/fiji-placements.md.
 | Lesson part | Where it comes from |
 |---|---|
 | 1945 — a successor on the Charter | Ethiopia, *History, Student Textbook, Grade 10*, Unit 5 — printed pp. 112–117 |
@@ -23,13 +25,15 @@ countries: Ethiopia, Turkmenistan, Venezuela, Samoa, Somalia
 
 | Somalia part — global-issues/the-un-the-leagues-successor-built-to-last — Ummadaha Midoobay (The United Nations) — teaches: the United Nations — the world's organisation of states, what it is and what it is for — Somalia Grade 6 Barbaarinta iyo Cilmiga Beesha, printed p. 46 | Somalia, *Barbaarinta iyo Cilmiga Beesha, Fasalka Lixaad* (student book), Ummadaha Midoobay (The United Nations) — printed p. 46 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Turkmenistan, Venezuela, Samoa, Somalia).**
+**Acceptance count: taught in 6 countries (Ethiopia, Turkmenistan, Venezuela, Samoa, Somalia, Fiji).**
 
 Dating error carried, taught corrected: §5.1 of the Grade 10 book dates the League of Nations "1926 to 1946" (printed pp. 112–117). The League was founded in 1919, as the book's own Unit 4 teaches; this lesson and the League lesson teach 1919, and the error is named in sources only. The book's Unit 5 summary also speaks of "the fall of Communism in Asia during the Cold War" where the unit's closing lesson is the collapse of the Soviet Union — no content is built on the summary's phrase.
 
 Samoa's own way: Government is taught as Samoa's own Westminster-style parliament first (matai seats, the Individual Voters Roll, its parties and its real 2001 election, problems included), then Japan's Peace-Constitution government as the comparison; rights are taught from the classroom's own rights list outward to the UN and Amnesty.
 
-Searchable tags: United Nations, Charter 1945, General Assembly, Security Council, Secretariat, International Court of Justice, Grade 10, Samoa, Somalia
+Fiji's own way (Grade 10): Government is taught from Fiji outward — Fiji's own traditional chiefly government and western-style government first, then Fiji's Parliament as the worked example of parliamentary rule, then the United Nations.
+
+Searchable tags: United Nations, Charter 1945, General Assembly, Security Council, Secretariat, International Court of Justice, Grade 10, Samoa, Somalia, Fiji
 
 ## History fix (2026-11-12) — provenance completed
 
@@ -54,6 +58,7 @@ History fix note (2026-11-12): the coverage audit recorded all nine Grade 12 uni
 | Lesson part | Where it comes from |
 |---|---|
 | The United Nations Organization — founded 1945, its organs and purposes, Ethiopia a founding member, as taught in this lesson | Ethiopia, *History, Student Textbook, Grade 12*, Unit 5 (§5), printed pp. 126–128 (placement 24) |
+| Fiji part — global-issues/the-un-the-leagues-successor-built-to-last — Chapter 1, The United Nation Organisation — teaches: the UN founded in October 1945 to replace the League of Nations, its Charter, aims (preserve peace, remove causes of conflict, safeguard rights), member rules, how a country joins, how it is funded and its structure — Fiji Grade 10 Year 10 Social Science, printed p. 19 | Fiji, *Year 10 Social Science* (student book), Chapter 1, The United Nation Organisation — printed p. 19 |
 
 History fix note (2026-11-12): the History coverage audit found this lesson's content standing but cited to another grade's book. The rows above cite the placement's own book at its own printed pages for the parts of this lesson that teach that placement's story; the lesson text was already teaching it, so no text change was needed — the provenance was the gap, and it is now closed.
 
