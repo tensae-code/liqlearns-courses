@@ -82,11 +82,58 @@ Three further Canada records in that file are RECORD-ONLY
 (Inuktitut early-reading and art books, out of scope) and are
 not stocked.
 
-**Course totals: 24 lessons** — Technical Drawing 17 lessons
+## Finland, Käsityö — life-cycle and textile materials (T&D expansion, stocked 2026-11-17)
+
+Stocked from Finland's *Katse tulevaan* ("Look to the
+future") — *KATSE TULEVAAN — Tulevaisuuden taidot,
+vastuulliset materiaalivalinnat ja elinkaariajattelu
+käsityöprosessissa*, Future skills, responsible material
+choices and life-cycle thinking in the craft process —
+TuleVa project learning material, a joint project of four
+craft schools (basic art education), published via aoe.fi
+(Avointen oppimateriaalien kirjasto — Library of Open
+Educational Resources, run by the Finnish Ministry of
+Education and Culture and OPH with CSC), in Finnish,
+47 pp., read COMPLETE (all 47 pages). All 7 placements
+were NEW LESSON NEEDED; each was resolved through the
+T&D slug registry to its canonical lesson and built new.
+Finland counts in the acceptance count (learning material
+for craft teaching, not evidence-only): every lesson below
+stands at taught in 1 country (Finland).
+
+- **Materials** (2 lessons, 13 questions each): Choosing
+  materials responsibly (printed p. 9); Life-cycle thinking
+  in the craft process (printed p. 12).
+- **Textiles and Fashion** (5 lessons, 13 questions each):
+  Dyeing and finishing textiles (printed p. 23); Fabric
+  printing techniques (printed p. 28); From material to
+  product (printed p. 29); Reuse in practice
+  (printed p. 14); Textile fibres (printed p. 32).
+
+Finland's own way is content and is carried in each
+lesson's sources: Käsityö (the Finnish craft subject)
+teaches the craft process as a whole life cycle —
+elinkaariajattelu — with responsible material choices,
+the textile-material cards (each fibre's properties, life
+cycle and care), kaavoitus (careful pattern drafting for
+economical cutting), kuviointi (fabric printing), and a
+reuse pilot for 7–9-year-olds making a new product from
+kierrätysfarkut (recycled jeans) while minimising the
+waste their own work produces.
+
+Placements at
+liqlearns-courses-work/expansion-td-2026-11-17/finland-placements.md.
+One further Finland record in that file is RECORD-ONLY
+(*Boostia käsityön opetukseen*, 2023–2025, a training
+project presentation/report — not a textbook and no
+teaching content to place) and is not stocked.
+
+**Course totals: 31 lessons** — Technical Drawing 17 lessons
 (Ethiopia, teacher-guide evidence) plus the 7 Canada lessons
 above (First Steps 3, Mechanisms and Machines 1, Electrical
 Installations and the Home 1, Textiles and Fashion 1,
-Radiography Technology 1).
+Radiography Technology 1) plus the 7 Finland lessons above
+(Materials 2, Textiles and Fashion 5).
 
 - **Coverage-audit fix pass (2026-11-12)** — the placement-coverage
   audit found 17 of 19 placements stocked; the fix build closed
