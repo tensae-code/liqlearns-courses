@@ -1,0 +1,9 @@
+# Building a dwelling — short answer
+
+Answer in one or two sentences.
+
+**1. (Sub lesson 1)** Say in one sentence what this lesson teaches.
+**Answer:** Building a dwelling — ancient dwellings; the kiiz ui (yurt) as the people's traditional dwelling; an ancient dwelling (tipi) constructed from sticks and fabric, with the fabric pattern/net diagrams shown.
+
+**2. (Sub lesson 2)** Name one material, tool or step this lesson works with.
+**Answer:** Any one named in the lesson text — for example, the first step of sub lesson 1: Building a dwelling.

@@ -1,0 +1,9 @@
+# Preparing materials and equipment for sewing — short answer
+
+Answer in one or two sentences.
+
+**1. (Sub lesson 1)** Say in one sentence what this lesson teaches.
+**Answer:** Preparing materials and equipment for sewing — fibre properties (natural fibres crease, synthetics blended in); the lockstitch and stitch quality (§10).
+
+**2. (Sub lesson 2)** Name one material, tool or step this lesson works with.
+**Answer:** Any one named in the lesson text — for example, the first step of sub lesson 1: Preparing materials and equipment for sewing.

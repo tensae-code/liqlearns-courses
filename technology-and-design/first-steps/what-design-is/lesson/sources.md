@@ -1,6 +1,6 @@
 # Sources — What design is
 
-countries: Malaysia
+countries: Malaysia, Kazakhstan
 
 **Book 1:** *Reka Bentuk dan Teknologi Tahun 4 (KSSR Semakan 2017), Sekolah Kebangsaan* (student book) — Malaysia, Publisher: Kementerian Pendidikan Malaysia / Dewan Bahasa dan Pustaka (first printing 2019, ISBN 978-983-49-2477-3 per imprint page). Grade: grade-04 (Tahun 4). Language: Malay. Pages: 54 PDF pp. (mostly two-page spreads; printed book runs to printed p. 98). Size verified: 49,124,292 bytes, exact match to the release asset in `mid-size-books-2`. Kind: student book. Route: grab.py url (release asset). Cover verified: "REKA BENTUK DAN TEKNOLOGI TAHUN 4 — SEKOLAH KEBANGSAAN", KSSR Semakan 2017 badge. COMPLETE — read to the last teaching page (Unit 6 closing Uji Minda, printed p. 98). Placements at liqlearns-courses-work/expansion-td-2026-11-17/malaysia-placements.md.
 
@@ -8,8 +8,16 @@ countries: Malaysia
 |---|---|
 | What design (reka bentuk) is: the pattern/form of a product that is designed — design in clothing, glasses, cakes and everyday products; why design matters (original string `What design (reka bentuk) is`) | Malaysia, *RBT Tahun 4*, printed p. 14–17 |
 
-**Acceptance count: taught in 1 country (Malaysia).**
+**Book 2:** Artistic Labour Grade 5, boys' variant (Chukalin; Russian + Kazakh parallel) — Title as printed: Художественный труд, учебник для 5 класса (вариант для мальчиков) (Chukalin V.G. et al.) Publisher: Келешек-2030, Kokshetau, 2017. Grade 5. Languages: Russian (161.pdf, read) + Kazakh (761.pdf, parallel — placed once here). Pages: 96 PDF pp. (161.pdf fetched by me via the release route, 15,189,946 bytes, grab-verified) — page count verified by me. Art content (§§1–7 visual art): placed by the Art wave (its Book 10) — not re-placed here. §§1–7 are page-identical to Book 20's visual-art part. OUT per brief, named in header: food §21, home/electrical §§22–24 as filed by the Art wave are home-culture content EXCEPT the electrical-safety/appliance teaching, which is placed below as technology; plants §§25–26 not placed; safety appendix and glossary named only. COMPLETE (technology parts). Placements at liqlearns-courses-work/expansion-td-2026-11-17/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| What design is; the design process — design as artistic planning of the object world; the designer's four stages (research similar objects, sketch project with many variants, full-size mock-up, working project) under five principles (reliability, manufacturability…) (§13) (original string `What design is; the design process`) | Kazakhstan, *KZ G5 Chukalin (boys)*, printed p. 42 |
+
+**Acceptance count: taught in 2 countries (Malaysia, Kazakhstan).**
+
+Kazakhstan's own way: Kazakhstan teaches this inside Художественный труд / Көркем еңбек (Artistic Labour) and Трудовое обучение / Еңбекке баулу (Labour Training) — Design as artistic planning of the object world; the designer's four stages (research similar objects, sketch project with many variants, full-size mock-up, working project) under five principles (reliability, manufacturability…) (§13). The Kazakh classroom's own examples, materials and national crafts named in the Kazakhstan provenance rows above are part of the teaching, not decoration.
 
 Malaysia's own way: Malaysia introduces reka bentuk in Tahun 4 through everyday products — clothing, glasses, cakes — before any formal elements are named.
 
-Searchable tags: design, reka bentuk, pattern, form, product, Malaysia, Tahun 4, Malay
+Searchable tags: design, reka bentuk, pattern, form, product, Malaysia, Tahun 4, Malay, Kazakhstan, Artistic Labour, Labour Training

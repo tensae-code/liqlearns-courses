@@ -1,6 +1,6 @@
 # Sources — Sketching techniques — lines, circles and proportion
 
-countries: Ethiopia, Indonesia, Iran, Malaysia
+countries: Ethiopia, Indonesia, Iran, Malaysia, Kazakhstan
 
 **Book 1:** *Basic Technical Drawing, Teacher Guide, Grade 12* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, in collaboration with Kuraz International Publisher P.L.C., Addis Ababa, first edition, 2003 E.C., ISBN 978-99944-2-097-2, 105 printed pp. Page rule: printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/technical-drawing/g12-teacher-placements.md.
 
@@ -23,7 +23,15 @@ countries: Ethiopia, Indonesia, Iran, Malaysia
 |---|---|
 | Unit IV Kegiatan 2: design sketch (sketsa rancangan) for a semi-hard/hard artificial-material product, e.g. wire miniature bicycle — technical-drawing/sketching-techniques-lines-circles-proportion (teacher guide — evidence) (original string `technical-drawing/sketching-techniques-lines-circles-proportion`) | Indonesia, *Prakarya Kerajinan G7 TG*, p. 216 |
 
-**Acceptance count: taught in 2 countries (Iran, Malaysia) — plus teacher-guide evidence only (Ethiopia, Indonesia), named here, counted nowhere.**
+**Book 5:** Artistic Labour Grade 7, boys' variant, 2017 edition (Chukalin; Russian + Kazakh parallel) — Title as printed: Художественный труд, учебник для 7 класса (вариант для мальчиков) (Chukalin V.G. et al.) Publisher: Келешек-2030, 2017. Grade 7. Languages: Russian (281.pdf, read) + Kazakh (254.pdf, parallel — placed once here). Pages: 80 PDF pp. (281.pdf fetched by me via the record's okulyk.kz source_url, 7,958,930 bytes; page count matches the record) — contents (printed p. 79) viewed by me. Art content (§§1–4 visual art): placed by the Art wave (its Book 15) — §§1–4 are shared with Book 26. Safety rules (printed p. 74) apparatus; glossary (printed p. 76) inventory only. COMPLETE (technology parts). Placements at liqlearns-courses-work/expansion-td-2026-11-17/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §14 — developing a wooden product: the sketch, technical drawing and blueprint; choosing the wood by its physical properties (lustre, colour, texture, moisture) and mechanical ones (strength, elasticity, plasticity), rejecting blanks with knots, cracks, resin pockets and rot; the product's cost built up by formula (materials, labour, depreciation, rent, utilities); computer design in 2D/3D and AutoCAD named (original string `technical-drawing/sketching-techniques-lines-circles-proportion`) | Kazakhstan, *KZ G7 Chukalin 2017 (boys)*, printed p. 52 |
+
+**Acceptance count: taught in 3 countries (Iran, Malaysia, Kazakhstan) — plus teacher-guide evidence only (Ethiopia, Indonesia), named here, counted nowhere.**
+
+Kazakhstan's own way: Kazakhstan teaches this inside Художественный труд / Көркем еңбек (Artistic Labour) and Трудовое обучение / Еңбекке баулу (Labour Training) — §14 — developing a wooden product: the sketch, technical drawing and blueprint; choosing the wood by its physical properties (lustre, colour, texture, moisture) and mechanical ones (strength, elasticity, plasticity), rejecting blanks with knots, cracks, resin pockets and rot; the product's cost built up by formula (materials, labour, depreciation, rent, utilities); computer design in 2D/3D and AutoCAD named. The Kazakh classroom's own examples, materials and national crafts named in the Kazakhstan provenance rows above are part of the teaching, not decoration.
 
 Indonesia's own way: Indonesia stocks this lesson from its Prakarya Kerajinan teacher guides (teacher-guide evidence only, counted nowhere) — sketching is taught inside designing a craft product: the design draft (rancangan) and design sketch (sketsa rancangan) come before making, and carry the product's display, packaging and presentation with them.
 
@@ -35,4 +43,4 @@ Malaysia's own way: Malaysia names two straight-line methods — the short-line 
 
 Iran's own way: Iran practises sketching inside its Grade 7 drawing module (Module 8) — straight horizontal and vertical lines drawn freehand and checked for true size, and a 45° line and a square drawn with ruler and set square.
 
-Searchable tags: technical drawing, sketching techniques, free-hand lines, circle sketching, proportion, multi-view, Grade 12, Ethiopia, Malaysia, Tingkatan 1, RBT, short-line method, two-point line, isometric box, Iran, Grade 7, Persian, Indonesia, Prakarya, teacher guide evidence
+Searchable tags: technical drawing, sketching techniques, free-hand lines, circle sketching, proportion, multi-view, Grade 12, Ethiopia, Malaysia, Tingkatan 1, RBT, short-line method, two-point line, isometric box, Iran, Grade 7, Persian, Indonesia, Prakarya, teacher guide evidence, Kazakhstan, Artistic Labour, Labour Training

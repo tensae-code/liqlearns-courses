@@ -1,0 +1,11 @@
+# Paper/cardboard and plastic-material modelling — matching
+
+Match each item on the left with the one on the right.
+
+**1. (Sub lesson 1)** Sub lesson 1 — Paper/cardboard and plastic-material modelling
+
+**2. (Sub lesson 2)** Sub lesson 2 — Paper/cardboard and plastic-material modelling — doing it yourself
+
+**3. (Sub lesson 1)** Kazakhstan — Artistic Labour and Labour Training
+
+**Answer key:** Sub lesson 1 → Paper/cardboard and plastic-material modelling; Sub lesson 2 → Paper/cardboard and plastic-material modelling — doing it yourself; Kazakhstan → Artistic Labour and Labour Training

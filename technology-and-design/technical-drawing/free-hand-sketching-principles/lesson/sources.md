@@ -1,6 +1,6 @@
 # Sources — Free-hand sketching — principles and place in design
 
-countries: Belarus, Cuba, Ethiopia, Fiji, Indonesia, Jamaica, Malaysia, Moldova, Sri Lanka
+countries: Belarus, Cuba, Ethiopia, Fiji, Indonesia, Jamaica, Malaysia, Moldova, Sri Lanka, Kazakhstan
 
 **Book 1:** *Basic Technical Drawing, Teacher Guide, Grade 12* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, in collaboration with Kuraz International Publisher P.L.C., Addis Ababa, first edition, 2003 E.C., ISBN 978-99944-2-097-2, 105 printed pp. Page rule: printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/technical-drawing/g12-teacher-placements.md.
 
@@ -64,7 +64,18 @@ countries: Belarus, Cuba, Ethiopia, Fiji, Indonesia, Jamaica, Malaysia, Moldova,
 | Cap. 4 Dibujo a mano alzada: freehand technique, drawing curved lines, sketching simple bodies (original string `technical-drawing/free-hand-sketching-principles`) | Cuba, *Educación Laboral — Trabajos de Taller y Dibujo Básico — 7mo grado (1989 edition)*, PDF p. 134-139 |
 | Cap. 1 §1.7 Dibujo a mano alzada: drawing straight lines freehand, flat figures, the ellipse; the sketch (croquis) (original string `technical-drawing/free-hand-sketching-principles`) | Cuba, *Educación Laboral y Dibujo Básico — 7mo grado (2023 Biblioteca edition)*, printed p. 40-46 |
 
-**Acceptance count: taught in 7 countries (Belarus, Cuba, Fiji, Jamaica, Malaysia, Moldova, Sri Lanka) — plus teacher-guide evidence only (Ethiopia, Indonesia), named here, counted nowhere.**
+**Book 17:** Artistic Labour Grade 9, boys' variant (Chukalin; Kazakh + Russian parallel) — Title as printed: Художественный труд, учебник для 9 класса (вариант для мальчиков) (Chukalin V.G., Tuleuov, Tanbaev) Publisher: Келешек-2030, 2020; ISBN 978-601-317-447-1 (KZ) / 978-601-317-448-8 (RU). Grade 9. Languages: Russian (464.pdf, read) + Kazakh (418.pdf, parallel — placed once here). Pages: 95 PDF pp. (464.pdf fetched by me via the release route) — page count verified by me; contents (printed p. 4) viewed by me; the book closes with a gallery of architectural models (printed p. 93, viewed by me). Art content (§§1–5 decorative-applied art, lamp and vinyl-clock makes as art lessons): placed by the Art wave (its Book 29) — not re-placed here, except where the same lessons teach technical drawing/documentation, placed below. «Культура дома» §§17–21 are the interior-design part — placed below as design/technology. Safety rules (printed p. 76) apparatus; glossary (printed p. 82) inventory only. COMPLETE (technology parts). Placements at liqlearns-courses-work/expansion-td-2026-11-17/kazakhstan-placements.md.
+
+**Book 18:** Artistic Labour Grade 7, girls' variant, 2017 edition (Alimsaeva; Russian + Kazakh parallel) — Title as printed: Художественный труд, учебник для 7 класса (вариант для девочек) (Alimsaeva R.Sh. et al.) Publisher: Келешек-2030, 2017. Grade 7. Languages: Russian (282.pdf, read) + Kazakh (255.pdf, parallel — placed once here). Pages: 76 PDF pp. (282.pdf fetched by me via the record's okulyk.kz source_url, 12,608,465 bytes — grab.py tree route 404s for Grade 7 and no tree books.json for Grade 7 could be fetched, the GitHub API dropping the connection; the file carries the OKULYK header and its page count matches the record) — contents (printed p. 75) viewed by me: the third part is «Дизайн и технология». Art content (§§1–7 visual art incl. batik/gzhel/khokhloma painting): placed by the Art wave (its Book 14) — not re-placed here. OUT per brief, named in header: «Культура питания» §§12–14 (printed pp. 48–54) — food content, not placed; safety/hygiene (printed p. 66) apparatus; glossary (printed p. 69) inventory only. Appendix stitch charts (printed pp. 71–73) placed below as sewing technology. COMPLETE (technology parts). Placements at liqlearns-courses-work/expansion-td-2026-11-17/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §8 — sketches and drawings (эскизы, чертежи) of architectural buildings and structures: reading and making the architectural drawing (original string `technical-drawing/free-hand-sketching-principles`) | Kazakhstan, *KZ G9 Chukalin (boys)*, printed p. 34 |
+| §9 — developing the transformer ideas: choosing the model, sketching the transformation, working out the graphic documents (drawing, scheme) (original string `technical-drawing/free-hand-sketching-principles`) | Kazakhstan, *KZ G7 Alimsaeva 2017 (girls)*, printed p. 36 |
+
+**Acceptance count: taught in 8 countries (Belarus, Cuba, Fiji, Jamaica, Malaysia, Moldova, Sri Lanka, Kazakhstan) — plus teacher-guide evidence only (Ethiopia, Indonesia), named here, counted nowhere.**
+
+Kazakhstan's own way: Kazakhstan teaches this inside Художественный труд / Көркем еңбек (Artistic Labour) and Трудовое обучение / Еңбекке баулу (Labour Training) — §8 — sketches and drawings (эскизы, чертежи) of architectural buildings and structures: reading and making the architectural drawing. The Kazakh classroom's own examples, materials and national crafts named in the Kazakhstan provenance rows above are part of the teaching, not decoration.
 
 Cuba's own way: Cuba teaches freehand drawing (dibujo a mano alzada) in Grade 7 in both editions — straight lines, curved lines, flat figures and the ellipse, and the two-view freehand drawing (frontal and lateral) of the article to be built; the croquis is its named product.
 
@@ -86,4 +97,4 @@ Malaysia's own way: Malaysia teaches sketching as the designer's thinking record
 
 Sri Lanka's own way: Sri Lanka adds its Tamil-medium Technology stream teaching (Educational Publications Department; visual-read method, as filed in the book entries above) — the intro's account of sketches as the first form of a drawing idea, before the formal drawing.
 
-Searchable tags: technical drawing, free-hand sketching, sketching principles, design process, Grade 12, Ethiopia, Jamaica, Grades 4–6, Resource & Technology, concept drawings, peer critique, Moldova, Grades 5–6, Grade 9, crochiu, schiță, schița de proiect, Malaysia, Tingkatan 1, RBT, kinds of sketch, concept sketch, Sri Lanka, Fiji, Indonesia, Prakarya, teacher guide evidence, Cuba, Educación Laboral
+Searchable tags: technical drawing, free-hand sketching, sketching principles, design process, Grade 12, Ethiopia, Jamaica, Grades 4–6, Resource & Technology, concept drawings, peer critique, Moldova, Grades 5–6, Grade 9, crochiu, schiță, schița de proiect, Malaysia, Tingkatan 1, RBT, kinds of sketch, concept sketch, Sri Lanka, Fiji, Indonesia, Prakarya, teacher guide evidence, Cuba, Educación Laboral, Kazakhstan, Artistic Labour, Labour Training

@@ -1,6 +1,6 @@
 # Sources — Dimensioning — Lines, Symbols and Reading Direction
 
-countries: Belarus, Cuba, Ethiopia, Fiji, Iran, Jamaica, Samoa, Sri Lanka
+countries: Belarus, Cuba, Ethiopia, Fiji, Iran, Jamaica, Samoa, Sri Lanka, Kazakhstan
 
 **Book 1:** *Basic Technical Drawing, Teacher Guide, Grade 12* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, in collaboration with Kuraz International Publisher P.L.C., Addis Ababa. Prepared by: Amanuel Berhanu (BSc), Tolossa Deberie (MSc). Edited and reviewed by: Abebe Basazeneu, Natenael Abebe, Yared Mekuria. First edition, 2003 (E.C.), funded through the General Education Quality Improvement Project (GEQIP). Developed, printed and distributed by Al Ghurair Printing and Publishing House CO. (LLC), Dubai, U.A.E., in collaboration with Kuraz International Publisher. ISBN: 978-99944-2-097-2. 109 PDF pages; printed page = PDF page - 4 throughout. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/technical-drawing/g12-teacher-placements.md.
 
@@ -39,7 +39,18 @@ countries: Belarus, Cuba, Ethiopia, Fiji, Iran, Jamaica, Samoa, Sri Lanka
 | Cap. 5 Acotado: elements of dimensioning (original string `technical-drawing/dimensioning-lines-symbols-and-reading-direction`) | Cuba, *Educación Laboral — Trabajos de Taller y Dibujo Básico — 7mo grado (1989 edition)*, PDF p. 140-145 |
 | Cap. 1 §1.8 Acotado (original string `technical-drawing/dimensioning-lines-symbols-and-reading-direction`) | Cuba, *Educación Laboral y Dibujo Básico — 7mo grado (2023 Biblioteca edition)*, printed p. 53-59 |
 
-**Acceptance count: taught in 7 countries (Belarus, Cuba, Fiji, Iran, Jamaica, Samoa, Sri Lanka) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+**Book 11:** Labour Training Grade 3, student book (NIS Syzdykov; Kazakh + Russian parallel) — Title as printed: Еңбекке баулу (Syzdykov A.M., Seitmoldinov D.N., Baybakisheva M.K.) Publisher: Nazarbayev Intellectual Schools (NIS), Astana, 2024; ISBN 978-601-348-589-8. Grade 3. Languages: Kazakh (1573.pdf, read) + Russian (1571.pdf, parallel edition — placed once here). Pages: 137 PDF pp. (1573.pdf fetched by me via the release route, 11 MB) — page count verified by me; the birdhouse/organiser pages read on my own contact sheets (printed pp. 36–48). Contents at printed p. 133. Art content: placed by the Art wave (its Books 29 + 38) — not re-placed here. Glossary (printed pp. 129–131) inventory only. COMPLETE (technology parts). Placements at liqlearns-courses-work/expansion-td-2026-11-17/kazakhstan-placements.md.
+
+**Book 12:** Artistic Labour Grade 9, boys' variant (Chukalin; Kazakh + Russian parallel) — Title as printed: Художественный труд, учебник для 9 класса (вариант для мальчиков) (Chukalin V.G., Tuleuov, Tanbaev) Publisher: Келешек-2030, 2020; ISBN 978-601-317-447-1 (KZ) / 978-601-317-448-8 (RU). Grade 9. Languages: Russian (464.pdf, read) + Kazakh (418.pdf, parallel — placed once here). Pages: 95 PDF pp. (464.pdf fetched by me via the release route) — page count verified by me; contents (printed p. 4) viewed by me; the book closes with a gallery of architectural models (printed p. 93, viewed by me). Art content (§§1–5 decorative-applied art, lamp and vinyl-clock makes as art lessons): placed by the Art wave (its Book 29) — not re-placed here, except where the same lessons teach technical drawing/documentation, placed below. «Культура дома» §§17–21 are the interior-design part — placed below as design/technology. Safety rules (printed p. 76) apparatus; glossary (printed p. 82) inventory only. COMPLETE (technology parts). Placements at liqlearns-courses-work/expansion-td-2026-11-17/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Topic 9 "Our little friends" — the birdhouse (құс ұясы) is built from a dimensioned drawing: wall, roof and base parts drawn with millimetre dimensions (90 mm, 110 mm, 160 mm) and transferred to cardboard before cutting (original string `technical-drawing/dimensioning-lines-symbols-and-reading-direction`) | Kazakhstan, *KZ G3 NIS Syzdykov Labour*, printed pp. 36–38 |
+| §14 — graphic documentation and technical specification: the documentation that accompanies the making of the interior item (original string `technical-drawing/dimensioning-lines-symbols-and-reading-direction`) | Kazakhstan, *KZ G9 Chukalin (boys)*, printed p. 52 |
+
+**Acceptance count: taught in 8 countries (Belarus, Cuba, Fiji, Iran, Jamaica, Samoa, Sri Lanka, Kazakhstan) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+
+Kazakhstan's own way: Kazakhstan teaches this inside Художественный труд / Көркем еңбек (Artistic Labour) and Трудовое обучение / Еңбекке баулу (Labour Training) — Topic 9 "Our little friends" — the birdhouse (құс ұясы) is built from a dimensioned drawing: wall, roof and base parts drawn with millimetre dimensions (90 mm, 110 mm, 160 mm) and transferred to cardboard before cutting. The Kazakh classroom's own examples, materials and national crafts named in the Kazakhstan provenance rows above are part of the teaching, not decoration.
 
 Cuba's own way: Cuba teaches acotado (dimensioning) in both Grade 7 editions — the 1989 book as its own chapter (Cap. 5) and the 2023 book inside Dibujo Básico I (§1.8).
 
@@ -59,4 +70,4 @@ Iran's own way: Iran teaches dimensioning twice over: in Grade 7 through Module 
 
 Sri Lanka's own way: Sri Lanka adds its Tamil-medium Technology stream teaching (Educational Publications Department; visual-read method, as filed in the book entries above) — adding dimensions to orthographic views (section 1.5.3 of the projection chapter).
 
-Searchable tags: dimensioning, dimension line, extension line, arrowhead, leader line, aligned system, unidirectional system, Ethiopia Grade 12 Technical Drawing Unit 4, Samoa, Year 11, architectural dimensioning, Iran, Grade 7, Persian, Iran, Grade 9, Persian, Sri Lanka, Fiji, Cuba, Educación Laboral
+Searchable tags: dimensioning, dimension line, extension line, arrowhead, leader line, aligned system, unidirectional system, Ethiopia Grade 12 Technical Drawing Unit 4, Samoa, Year 11, architectural dimensioning, Iran, Grade 7, Persian, Iran, Grade 9, Persian, Sri Lanka, Fiji, Cuba, Educación Laboral, Kazakhstan, Artistic Labour, Labour Training

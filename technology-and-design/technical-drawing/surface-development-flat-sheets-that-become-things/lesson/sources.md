@@ -1,6 +1,6 @@
 # Sources — Surface Development — Flat Sheets That Become Things
 
-countries: Belarus, Cuba, Ethiopia, Fiji, Malta, Moldova, Sri Lanka
+countries: Belarus, Cuba, Ethiopia, Fiji, Malta, Moldova, Sri Lanka, Kazakhstan
 
 **Book 1:** *Basic Technical Drawing, Teacher Guide, Grade 12* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, in collaboration with Kuraz International Publisher P.L.C., Addis Ababa. Prepared by: Amanuel Berhanu (BSc), Tolossa Deberie (MSc). Edited and reviewed by: Abebe Basazeneu, Natenael Abebe, Yared Mekuria. First edition, 2003 (E.C.), funded through the General Education Quality Improvement Project (GEQIP). Developed, printed and distributed by Al Ghurair Printing and Publishing House CO. (LLC), Dubai, U.A.E., in collaboration with Kuraz International Publisher. ISBN: 978-99944-2-097-2. 109 PDF pages; printed page = PDF page - 4 throughout. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/technical-drawing/g12-teacher-placements.md.
 
@@ -44,7 +44,18 @@ countries: Belarus, Cuba, Ethiopia, Fiji, Malta, Moldova, Sri Lanka
 | Unit 1: developments (desarrollos) of the geometric bodies studied (original string `technical-drawing/surface-development-flat-sheets-that-become-things`) (programme — evidence) | Cuba, *Programa: Educación Laboral — 8vo grado*, printed p. 11-15 |
 | Cap. 1 §1.4: developments of prism, pyramid, cone and cylinder (original string `technical-drawing/surface-development-flat-sheets-that-become-things`) | Cuba, *Educación Laboral — 8vo grado*, printed p. 40-46 |
 
-**Acceptance count: taught in 6 countries (Belarus, Cuba, Fiji, Malta, Moldova, Sri Lanka) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+**Book 12:** Labour Training Grade 3, student book (NIS Syzdykov; Kazakh + Russian parallel) — Title as printed: Еңбекке баулу (Syzdykov A.M., Seitmoldinov D.N., Baybakisheva M.K.) Publisher: Nazarbayev Intellectual Schools (NIS), Astana, 2024; ISBN 978-601-348-589-8. Grade 3. Languages: Kazakh (1573.pdf, read) + Russian (1571.pdf, parallel edition — placed once here). Pages: 137 PDF pp. (1573.pdf fetched by me via the release route, 11 MB) — page count verified by me; the birdhouse/organiser pages read on my own contact sheets (printed pp. 36–48). Contents at printed p. 133. Art content: placed by the Art wave (its Books 29 + 38) — not re-placed here. Glossary (printed pp. 129–131) inventory only. COMPLETE (technology parts). Placements at liqlearns-courses-work/expansion-td-2026-11-17/kazakhstan-placements.md.
+
+**Book 13:** Labour Training Grade 4, student book (Ormanbekova; Kazakh + Russian parallel) — Title as printed: Еңбекке баулу 4 (Ormanbekova G.K., Mamyrova A.T., Sukhaeva D.A.) Publisher: Mektep, Almaty, 2025; ISBN 978-601-07-1730-5. Grade 4. Languages: Kazakh (1461.pdf, read) + Russian (1503.pdf, parallel edition — placed once here; both 153 pp.). Pages: 153 PDF pp. (1461.pdf: release route dropped the connection, tree route 404 — fetched via the record's okulyk.kz source_url, 22,156,154 bytes; page count matches the record exactly) — contents at printed pp. 150–151. Safety/workplace rules (printed pp. 6–8) named as apparatus; glossary (printed p. 147) inventory only. Art content: placed by the Art wave (its kz-b Book 4, from the Russian edition) — not re-placed here. COMPLETE (technology parts). Placements at liqlearns-courses-work/expansion-td-2026-11-17/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Topic 9 continued — the birdhouse's flat part-nets (walls ×2, roof, base) are cut, folded along marked lines and glued into the 3D house, step by step in numbered pictures (original string `technical-drawing/surface-development-flat-sheets-that-become-things`) | Kazakhstan, *KZ G3 NIS Syzdykov Labour*, printed pp. 37–38 |
+| Lesson 32 "City of the future" — the technical drawing (чертёж/сызба) introduced; a house for the future city built from its net drawing and the class city presented (original string `technical-drawing/surface-development-flat-sheets-that-become-things`) | Kazakhstan, *KZ G4 Ormanbekova Labour*, printed p. 138 |
+
+**Acceptance count: taught in 7 countries (Belarus, Cuba, Fiji, Malta, Moldova, Sri Lanka, Kazakhstan) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+
+Kazakhstan's own way: Kazakhstan teaches this inside Художественный труд / Көркем еңбек (Artistic Labour) and Трудовое обучение / Еңбекке баулу (Labour Training) — Topic 9 continued — the birdhouse's flat part-nets (walls ×2, roof, base) are cut, folded along marked lines and glued into the 3D house, step by step in numbered pictures. The Kazakh classroom's own examples, materials and national crafts named in the Kazakhstan provenance rows above are part of the teaching, not decoration.
 
 Cuba's own way: Cuba teaches developments (desarrollos) in the Grade 8 programme and student book — the developments of prism, pyramid, cone and cylinder, taken right after their isometric drawings.
 
@@ -62,4 +73,4 @@ Moldova's own way: Moldova meets the development inside its Grade 5 line-types t
 
 Sri Lanka's own way: Sri Lanka adds its Tamil-medium Technology stream teaching (Educational Publications Department; visual-read method, as filed in the book entries above) — development drawings named as one of the standard drawing kinds in the mechanical-drawing survey.
 
-Searchable tags: surface development, sheet metal, hem, joint, seam, prism, cylinder, cone, pyramid, Ethiopia Grade 12 Technical Drawing Unit 5, Moldova, Grades 5–6, desfășurata, two-dot line, Sri Lanka, Fiji, Cuba, Educación Laboral
+Searchable tags: surface development, sheet metal, hem, joint, seam, prism, cylinder, cone, pyramid, Ethiopia Grade 12 Technical Drawing Unit 5, Moldova, Grades 5–6, desfășurata, two-dot line, Sri Lanka, Fiji, Cuba, Educación Laboral, Kazakhstan, Artistic Labour, Labour Training
