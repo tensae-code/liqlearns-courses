@@ -158,6 +158,43 @@ p. 9) was NOT stocked here: the registry resolves it to the
 PE course's Correct Posture lesson, where it is stocked in
 the Physical Education course.
 
+**Health expansion — Kiribati — BUILT 2026-11-16:** 8 placements
+stocked — 1 into the existing Puberty and Growing Up lesson
+and 7 as new lessons (Keeping My Body Clean, Safe Water and
+Toilets, Menstruation) — bringing this course to **23 lessons**.
+From Book 1, *Stay Clean and Healthy, Big Book Year 3 Term 1*
+(student book — big-book reader, Curriculum Development and
+Assessment Division, Ministry of Education, Republic of
+Kiribati, 2013, reprinted 2017), 2 placements stocked into
+Keeping My Body Clean; Kiribati is student-book stock, inside
+the acceptance count, in that lesson (acceptance count 1).
+From Book 2, *Teaching WASH in Schools: Menstrual Hygiene
+Management Guide* (teacher guide, Live & Learn Environmental
+Education for the Government of Kiribati with UNICEF and the
+New Zealand Ministry of Foreign Affairs and Trade, 2016),
+6 placements stocked — 1 into Keeping My Body Clean, 1 into
+Puberty and Growing Up, 1 as Safe Water and Toilets and 3 as
+Menstruation; the guide is a teacher guide, so its rows are
+teacher-guide evidence only, outside the acceptance counts
+(Safe Water and Toilets and Menstruation stand at acceptance
+count 0, founded on teacher-guide evidence only, no pupil's
+book in hand; Puberty and Growing Up stays at 1 country).
+Kiribati was omitted from the original Health merge order;
+a coordinator audit found its Health placements unmerged —
+this merge closes that gap. Books 3–5 of the placements file
+(the ministry HPE syllabi for Years 7 & 8, Year 9, and Years
+10 & 11) are RECORD-ONLY curriculum documents with
+0 placements; Book 6 is RECORD-ONLY — the file attached to
+the UNESCO record is the Maldives *Exploring Health & PE —
+Teacher's Guide 1*, not a Kiribati book, never placed;
+Book 7 (Year 7 Teacher Guide) is UNREAD, no file attached
+anywhere, with 0 placements; the placements file's header
+also names a second UNESCO-catalogued item (a Key Stage 2
+syllabus) with no file attached and no separate section,
+likewise UNREAD with 0 placements. No Kiribati placement
+resolves to a PE-course lesson, so none was excluded as
+PE-bound.
+
 ## Unit 1 — Staying Safe
 
 1. **Hygiene for Sport — Wash After Exercise** (`staying-safe/hygiene-for-sport`) — personal hygiene around sport: sweat and dirt left unwashed become a breeding place for bacteria — so wash the body after PE and sport, keep sports…
@@ -177,7 +214,10 @@ the Physical Education course.
 13. **Healthy Habits Every Day** (`staying-safe/healthy-habits-every-day`) — healthy habits every day: the daily lifestyle — food, activity, hygiene, rest and check-ups — that keeps you healthy for life — taught in Jordan's Grade 1 PE Term 2 book as following daily healthy habits, telling healthy from unhealthy pictures and aiming a ball at the picture of a daily healthy habit.
 14. **Staying Safe Online** (`staying-safe/staying-safe-online`) — staying safe online: safe use of phones, the internet and social media, and cyberbullying — taught in Jordan's Grade 7 PE Term 2 book as the healthy and best use of technology: useful educational content instead of wasting time, avoiding long sitting in front of screens, regular breaks and exercise, and what technology has done for sport (e.g. the video assistant referee).
 15. **Your Body in Exercise** (`staying-safe/your-body-in-exercise`) — your body in exercise: how the heart, lungs, blood and muscles respond to exercise, and monitoring your own state — taught in Jordan's Grade 7 PE Term 2 book as sport and the respiratory system: the respiratory system's organs and gas exchange, and how sport improves it (better gas exchange in the alveoli, more oxygen to the blood, lower asthma risk) with breathing exercises.
-16. **Puberty and Growing Up** (`staying-safe/puberty-and-growing-up`) — puberty and growing up: the changes of adolescence in body, feelings and life, and the stages of growth and life — taught in Jordan's Grade 9 PE Term 2 book as adolescence and sport: adolescence as the stage between childhood and maturity, sport as a lifestyle (choosing a suitable sport, a timetable, variety and balance, self-reward), and its benefits for adolescents (physical growth, stronger muscles and bones, mental health, less stress, self-confidence).
+16. **Puberty and Growing Up** (`staying-safe/puberty-and-growing-up`) — puberty and growing up: the changes of adolescence in body, feelings and life, and the stages of growth and life — taught in Jordan's Grade 9 PE Term 2 book as adolescence and sport: adolescence as the stage between childhood and maturity, sport as a lifestyle (choosing a suitable sport, a timetable, variety and balance, self-reward), and its benefits for adolescents (physical growth, stronger muscles and bones, mental health, less stress, self-confidence) — and in Kiribati's Years 5–6 WASH MHM Guide as what puberty is: the body changes of puberty, hormones, when puberty starts for girls and boys, and the new emotions that come with it (Kiribati teacher guide, evidence only).
+17. **Keeping My Body Clean** (`staying-safe/keeping-my-body-clean`) — keeping my body clean: washing the body, hands, hair and nails, grooming, and clean clothes — taught in Kiribati's Year 3 *Stay Clean and Healthy* big book as a morning washing routine and washing hands again and again through the day, one child's whole day told as a chain of washing moments, and in Kiribati's Years 5–6 WASH MHM Guide as hygiene in puberty (teacher guide, evidence).
+18. **Safe Water and Toilets** (`staying-safe/safe-water-and-toilets`) — safe water and toilets: clean drinking water and how to make it safe, toilets and latrines, sanitation and WASH — taught in Kiribati's Years 5–6 WASH MHM Guide as WASH in Schools (KWinS): what WASH stands for, children's rights to safe drinking water, basic sanitation and improved hygiene, and the roles of students, parents, community, schools and teachers (Kiribati teacher guide, evidence only).
+19. **Menstruation** (`staying-safe/menstruation`) — menstruation: the monthly cycle, menstrual hygiene, and cultural celebrations of first menstruation — taught in Kiribati's Years 5–6 WASH MHM Guide as what menstruation is (and what it is NOT — not an illness, not shameful, no reason to miss school), Te Katekateka — Kiribati's celebration of a girl's first menstruation, three days with a female elder learning hygiene practices — and Menstrual Hygiene Management in school, with washable cloth pads (pasador) (Kiribati teacher guide, evidence only).
 
 ## Unit 2 — Fair Play and the Body
 

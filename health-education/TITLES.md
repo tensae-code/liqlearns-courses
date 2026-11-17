@@ -50,3 +50,9 @@ Every Day** (`staying-safe/healthy-habits-every-day`),
 (`staying-safe/your-body-in-exercise`) and **Puberty and
 Growing Up** (`staying-safe/puberty-and-growing-up`) —
 4 new lessons, bringing this course to 20 lessons.
+
+The Health expansion then added (Kiribati): **Keeping My
+Body Clean** (`staying-safe/keeping-my-body-clean`), **Safe
+Water and Toilets** (`staying-safe/safe-water-and-toilets`)
+and **Menstruation** (`staying-safe/menstruation`) — 3 new
+lessons, bringing this course to 23 lessons.
