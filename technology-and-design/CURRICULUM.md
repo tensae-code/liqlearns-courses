@@ -451,7 +451,105 @@ parachute, balloon car, windsock, pallet bench).
 Placements at
 liqlearns-courses-work/expansion-td-2026-11-17/gabon-placements.md.
 
-**Course totals: 99 lessons** — Technical Drawing 17 lessons
+## Haiti, ITAP Projet Nectar sequences (T&D expansion, stocked 2026-11-17)
+
+Stocked from Haiti's *Initiation à la technologie et aux
+activités productives (ITAP)* Projet Nectar pedagogical
+sequences (MENFP, Canoprof sequences, CC BY-NC-SA, in
+French): *La pêche des vivaneaux en haut-fond* (8e AF,
+13 pp.), *Évolution des outils aratoires* (8e AF, 14 pp.),
+*Installation photovoltaïque pour une maison « Kay peyi »*
+(8e AF, 14 pp.), *Construction d'une serre pour faire
+pousser des concombres* (8e AF, 16 pp.) and *Conception,
+fabrication et diffusion d'une station de traitement de
+l'eau* (9e AF, 18 pp.), each read COMPLETE. All 29
+placements were NEW LESSON NEEDED; each was resolved
+through the T&D slug registry to its canonical lesson —
+20 built new, and 7 stocked into 2 existing lessons
+(The design process carries 6, The simple electric
+circuit carries 1). Haiti does NOT count in the
+acceptance count (teacher guides = EVIDENCE only):
+every lesson below stands on teacher-guide evidence
+only (Haiti), named in its sources, counted nowhere.
+The two existing lessons also keep their Jamaica
+acceptance count.
+
+- **First Steps** (3 lessons, 13 questions each):
+  Evolution of technical objects — a "lignée" of
+  ploughing tools (Outils aratoires, printed pp. 1, 3,
+  14); Representing a technical object in its
+  environment, with a written description (Outils
+  aratoires, printed pp. 4, 11); How a design keeps
+  evolving — wear parts, materials and safety in modern
+  plough design (Outils aratoires, printed p. 14).
+- **Design and Making** (10 new lessons, 13 questions
+  each): Making a model / maquette from drawings to
+  answer a specification (Pêche vivaneaux, printed
+  p. 7; Outils aratoires, printed p. 8); Workshop
+  safety and material-shaping processes (Pêche
+  vivaneaux, printed p. 8); Fabrication sheet / fiche
+  de fabrication (Pêche vivaneaux, printed p. 9);
+  Studying a technical object (Outils aratoires,
+  printed pp. 6-7 and p. 4); Technical documentation —
+  the user manual (Serre concombres, printed p. 14);
+  Choosing technical solutions (Serre concombres,
+  printed p. 16); Prototyping and testing solutions —
+  the bottle water-filter (Station de traitement de
+  l'eau, printed p. 11); Organising small-series
+  production (Station de traitement de l'eau, printed
+  pp. 12-13); Costing and pricing a made product
+  (Station de traitement de l'eau, printed pp. 3, 14);
+  Diffusing a product (Station de traitement de l'eau,
+  printed pp. 3, 16-17).
+- **Construction and Building** (2 new lessons,
+  13 questions each): Boatbuilding construction
+  sequence — keel, stem, transom, frames; Haiti's own
+  way (Pêche vivaneaux, printed pp. 11-12); Construction
+  technology — preparing a site and fabricating a
+  structure to specification (Serre concombres, printed
+  pp. 11-13).
+- **Energy** (3 new lessons, 13 questions each):
+  Renewable energy technology (Photovoltaïque Kay peyi,
+  printed pp. 3, 5-6, 13); Sizing a photovoltaic
+  installation (Photovoltaïque Kay peyi, printed
+  pp. 11, 14); Components of a photovoltaic system
+  (Photovoltaïque Kay peyi, printed pp. 13-14).
+- **Electricity and Electronics** (2 new lessons,
+  13 questions each): Electrical circuit diagrams
+  (Photovoltaïque Kay peyi, printed pp. 6-7); Electrical
+  measurement (Photovoltaïque Kay peyi, printed
+  pp. 4, 10, 12).
+- **Existing lessons stocked from Haiti** (7 placements):
+  The design process (6 placements: Pêche vivaneaux,
+  printed pp. 2, 4, 6 and pp. 2, 10-11; Serre concombres,
+  printed pp. 6-7 and pp. 4, 9-10; Station de traitement
+  de l'eau, printed pp. 2, 5, 7-8 and pp. 9-10); The
+  simple electric circuit (1 placement: Photovoltaïque
+  Kay peyi, printed pp. 4, 8).
+
+Haiti's own way is content and is carried in each
+lesson's sources: ITAP is taught as whole design
+projects in Nectar sequences — every project opens with
+the need written into a cahier des charges (main
+function and constraint functions) and a comparison of
+existing solutions; Haiti's own objects carry the
+teaching — the canot/Coralin boat build (keel first,
+stem angle for speed, oak and cedar timbers), the
+ploughing-tool lignée, the photovoltaic installation
+for a maison « Kay peyi », the cucumber greenhouse, and
+a drinking-water station that is specified from a field
+survey, prototyped as a bottle filter, produced in
+small series, priced and diffused.
+
+Placements at
+liqlearns-courses-work/expansion-td-2026-11-17/haiti-placements.md.
+Three further Haiti records in that file are RECORD-ONLY
+and are not stocked: the two ETAP programme volumes
+(3e cycle, MENFP, version définitive 28 juillet 2024 —
+curriculum/framework documents) and the LibreOffice
+Impress (PAO) sequence (pure ICT content).
+
+**Course totals: 119 lessons** — Technical Drawing 17 lessons
 (Ethiopia, teacher-guide evidence) plus the 7 Canada lessons
 above (First Steps 3, Mechanisms and Machines 1, Electrical
 Installations and the Home 1, Textiles and Fashion 1,
@@ -470,14 +568,20 @@ Installations and the Home 1, Models and Robotics 1)
 plus the 21 Gabon lessons above (First Steps 12, Design
 and Making 1, Materials 2, Mechanisms and Machines 4,
 Models and Robotics 2 — all teacher-guide evidence only,
-counted nowhere in the acceptance count);
+counted nowhere in the acceptance count) plus the
+20 Haiti lessons above (First Steps 3, Design and
+Making 10, Construction and Building 2, Energy 3,
+Electricity and Electronics 2 — all teacher-guide
+evidence only, counted nowhere in the acceptance count);
 Malta also stocked 6 placements into 4 existing Technical
 Drawing lessons, Jamaica also stocked 3 placements
 into 3 existing lessons (Measuring and marking out,
 Free-hand sketching — principles, Dimensioning —
-lines, symbols and reading direction), and Azerbaijan
+lines, symbols and reading direction), Azerbaijan
 also stocked 1 placement into the existing What
-technology is lesson.
+technology is lesson, and Haiti also stocked 7 placements
+into 2 existing lessons (The design process, The simple
+electric circuit).
 
 - **Coverage-audit fix pass (2026-11-12)** — the placement-coverage
   audit found 17 of 19 placements stocked; the fix build closed

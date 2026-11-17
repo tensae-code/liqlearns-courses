@@ -5,9 +5,9 @@ things works the same everywhere; only the way of teaching
 differs, and the way shows inside as examples. The path climbs
 from the hand to the drawing board to the workshop.
 
-**First Steps → Technical Drawing → Materials → Mechanisms and Machines → Electrical Installations and the Home → Textiles and Fashion → Radiography Technology → Design and Making → Models and Robotics → Workshop and Safety → Electricity and Electronics → Food Technology → Paper, Card and Modelling**
+**First Steps → Technical Drawing → Materials → Mechanisms and Machines → Electrical Installations and the Home → Textiles and Fashion → Radiography Technology → Design and Making → Models and Robotics → Workshop and Safety → Electricity and Electronics → Food Technology → Paper, Card and Modelling → Construction and Building → Energy**
 
-Stocked titles so far: **99 lessons**.
+Stocked titles so far: **119 lessons**.
 
 **Technical Drawing** (technical-drawing/) — 24 lessons:
 17 built from Ethiopia's Grade 12 teacher guide (2003 E.C.,
@@ -36,15 +36,18 @@ placements (2 placements): Free-hand sketching —
 principles and place in design; Dimensioning — lines,
 symbols and reading direction.
 
-**First Steps** (first-steps/) — 16 lessons: 3 stocked
+**First Steps** (first-steps/) — 19 lessons: 3 stocked
 2026-11-17 from Canada's *Technology in the Community*
 (Nunavut, Tulliniliara Level 14, student reader), 1
 stocked 2026-11-17 from Jamaica's *National Standards
 Curriculum Guide — Grades 4–6 — Resource &
-Technology* (Jamaica, 2018), and 12 stocked 2026-11-17
+Technology* (Jamaica, 2018), 12 stocked 2026-11-17
 from Gabon's *Super Efficace* Sciences teacher guides,
 Grades 3–5 (EDIG / Édicef, 2024 — teacher-guide
-evidence only, counted nowhere):
+evidence only, counted nowhere), and 3 stocked
+2026-11-17 from Haiti's ITAP Projet Nectar pedagogical
+sequences (MENFP, 8e AF — teacher-guide evidence only,
+counted nowhere):
 
 - What technology is (what-technology-is/) — also carries an Azerbaijan placement (Технология, Grade 2, Russian edition as held, printed p. 6)
 - Computers as community technology (computers-as-community-technology/)
@@ -62,6 +65,9 @@ evidence only, counted nowhere):
 - Eco-design (eco-design/)
 - Why maintain a technical object (why-maintain-a-technical-object/)
 - Giving an object a second life (making from pallets) (giving-an-object-a-second-life-making-from-pallets/)
+- Evolution of technical objects (evolution-of-technical-objects/)
+- Representing a technical object in its environment, with a written description (representing-a-technical-object-in-its-environment-with-a/)
+- How a design keeps evolving (how-a-design-keeps-evolving/)
 
 **Materials** (materials/) — 4 lessons: 2 stocked
 2026-11-17 from Finland's *Katse tulevaan*
@@ -123,15 +129,20 @@ and 2 stocked 2026-11-17 from Azerbaijan's *Технология
 
 - X-ray machines (x-ray-machines/)
 
-**Design and Making** (design-and-making/) — 8 lessons:
+**Design and Making** (design-and-making/) — 18 lessons:
 1 stocked 2026-11-17 from Kuwait's الذكاء الرقمي 8
 (*Digital Intelligence, Grade 8, Term 2*, Ministry of
 Education, State of Kuwait), 6 stocked 2026-11-17
 from Jamaica's *National Standards Curriculum Guide —
 Grades 4–6 — Resource & Technology* (Jamaica, 2018),
-and 1 stocked 2026-11-17 from Gabon's *Super
+1 stocked 2026-11-17 from Gabon's *Super
 Efficace* Sciences teacher guides, Grades 3–4
-(teacher-guide evidence only, counted nowhere):
+(teacher-guide evidence only, counted nowhere), and
+10 stocked 2026-11-17 from Haiti's ITAP Projet Nectar
+pedagogical sequences (MENFP, 8e–9e AF — teacher-guide
+evidence only, counted nowhere). The design process
+also carries 6 Haiti placements (teacher-guide
+evidence):
 
 - Taking an object apart and putting it back together (taking-an-object-apart-and-putting-it-back-together/)
 - The integrated smart-building project (design side) (the-integrated-smart-building-project-design-side/)
@@ -141,6 +152,16 @@ Efficace* Sciences teacher guides, Grades 3–4
 - Designing a product for a need (design criteria) (designing-a-product-for-a-need-design-criteria/)
 - Safety with simple circuits and cutting tools (safety-with-simple-circuits-and-cutting-tools/)
 - Evaluating a made product (evaluating-a-made-product/)
+- Making a model / maquette from drawings to answer a specification (making-a-model-maquette-from-drawings-to-answer-a-specification/)
+- Workshop safety and material-shaping processes (workshop-safety-and-material-shaping-processes/)
+- Fabrication sheet / fiche de fabrication (fabrication-sheet-fiche-de-fabrication/)
+- Studying a technical object (studying-a-technical-object/)
+- Technical documentation (technical-documentation/)
+- Choosing technical solutions (choosing-technical-solutions/)
+- Prototyping and testing solutions (prototyping-and-testing-solutions/)
+- Organising small-series production (organising-small-series-production/)
+- Costing and pricing a made product (costing-and-pricing-a-made-product/)
+- Diffusing a product (diffusing-a-product/)
 
 **Models and Robotics** (models-and-robotics/) —
 10 lessons: 6 stocked 2026-11-17 from the same Kuwait book,
@@ -175,11 +196,15 @@ also carries a Jamaica placement:
 - Hand tools (hand-tools/)
 
 **Electricity and Electronics**
-(electricity-and-electronics/) — 8 lessons: 2 stocked
-2026-11-17 from Malta's Workbook 2, and 6 stocked
+(electricity-and-electronics/) — 10 lessons: 2 stocked
+2026-11-17 from Malta's Workbook 2, 6 stocked
 2026-11-17 from Jamaica's *National Standards Curriculum
 Guide — Grades 4–6 — Resource & Technology*
-(Jamaica, 2018):
+(Jamaica, 2018), and 2 stocked 2026-11-17 from Haiti's
+ITAP Projet Nectar pedagogical sequences (MENFP, 8e AF —
+teacher-guide evidence only, counted nowhere). The
+simple electric circuit also carries a Haiti placement
+(teacher-guide evidence):
 
 - Electrical/electronic circuit diagrams and symbols (electrical-electronic-circuit-diagrams-and-symbols/)
 - Soldering electronic components (soldering-electronic-components/)
@@ -189,6 +214,8 @@ Guide — Grades 4–6 — Resource & Technology*
 - Magnets and electromagnetism for technology (magnets-and-electromagnetism-for-technology/)
 - Making an electromagnet (making-an-electromagnet/)
 - Building a simple electromagnetic motor (building-a-simple-electromagnetic-motor/)
+- Electrical circuit diagrams (electrical-circuit-diagrams/)
+- Electrical measurement (electrical-measurement/)
 
 **Food Technology** (food-technology/) — 1 lesson,
 stocked 2026-11-17 from Azerbaijan's *Технология
@@ -208,3 +235,20 @@ as held):
 - Straight weaving from paper strips (straight-weaving-from-paper-strips/)
 - Constructing from cardboard boxes (constructing-from-cardboard-boxes/)
 - A three-dimensional paper toy (a-three-dimensional-paper-toy/)
+
+**Construction and Building** (construction-and-building/) —
+2 lessons, stocked 2026-11-17 from Haiti's ITAP Projet
+Nectar pedagogical sequences (MENFP, 8e AF —
+teacher-guide evidence only, counted nowhere):
+
+- Boatbuilding construction sequence (boatbuilding-construction-sequence/)
+- Construction technology (construction-technology/)
+
+**Energy** (energy/) — 3 lessons, stocked 2026-11-17
+from Haiti's ITAP Projet Nectar pedagogical sequences
+(MENFP, 8e AF — teacher-guide evidence only, counted
+nowhere):
+
+- Renewable energy technology (renewable-energy-technology/)
+- Sizing a photovoltaic installation (sizing-a-photovoltaic-installation/)
+- Components of a photovoltaic system (components-of-a-photovoltaic-system/)
