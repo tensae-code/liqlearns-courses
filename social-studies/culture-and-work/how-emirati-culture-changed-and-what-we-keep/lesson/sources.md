@@ -1,0 +1,15 @@
+# Sources — How Emirati Culture Changed and What We Keep
+
+countries: United Arab Emirates
+
+**Book 1:** *التربية الأخلاقية — الصف السادس — الفصل الدراسي الثاني — دليل المعلم — نسخة تجريبية (Moral Education — Grade 6 — Term 2 — Teacher's Guide — pilot edition)* (teacher guide, Arabic) — Title as printed: التربية الأخلاقية — الصف السادس — الفصل الدراسي الثاني — دليل المعلم — نسخة تجريبية (Moral Education — Grade 6 — Term 2 — Teacher's Guide — pilot edition). Grade: Grade 6 (student/teacher: TEACHER). Publisher: Ministry of Education, United Arab Emirates; year 2017–2018 (1438–1439H), pilot edition; no ISBN printed. PDF pages: 85 (5,845,526 bytes; cover verified against the record). Earlier waves: not read before. Verdict: COMPLETE — civics track: read fully page by page from renders. This guide volume opens at Unit 2; Unit 2 is the Health strand (named in the contents map, not placed — Health course ground); the Unit 3 exhibition-making lessons are the class project and are named in the contents map only. (The Equality and Justice unit of this term stands in the newer student edition — see the unread afedne record, idx 94.). Contents map: Health pp. 3–35 of the student book (Unit 2 "Physical health and diet": how healthy is your lifestyle?; health and its challenges; obstacles to good health and getting help; kinds of disease; protection from disease); Culture-in-society pp. 37–66 (Unit 3, CIS2 "How the United Arab Emirates grew to become a diverse, inclusive society in its present form": museums in the UAE; change; exhibits in museums; preparing exhibitions; museum opening day). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/united-arab-emirates-placements.md. Teacher guide — evidence only, outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| United Arab Emirates part — culture-and-work/how-emirati-culture-changed-and-what-we-keep — Unit 3, Lesson 2 "Change" — teaches: studying the faces of change in Emirati culture over time and its causes, and the ways cultural bodies can preserve the heritage through that change — what of the past must be kept, and what may be learned from it for the future | United Arab Emirates Grade 6 Moral Education teacher guide, Term 2, printed p. 43 (TEACHER) |
+
+**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (United Arab Emirates), named here, counted nowhere.**
+
+United Arab Emirates' own way (Moral Education, G6 Term 2 teacher guide) (teacher guide — evidence): the federation's diversity is taught as a museum subject — the child learns the words cultural diversity and inclusion by walking the Sharjah Museum of Islamic Civilization, and the story lesson ends on the line that Emirati society today is a mixture of people from all over the world, bound to them and respecting their cultures. That evidence is stocked here as the way United Arab Emirates teaches this thing; it does not change the acceptance count above.
+
+Searchable tags: how emirati culture changed and what we keep, United Arab Emirates, social studies, culture-and-work

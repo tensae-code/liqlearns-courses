@@ -1,0 +1,15 @@
+# Sources — A Good Start Hard Work and Feedback
+
+countries: United Arab Emirates
+
+**Book 1:** *التربية الأخلاقية — الصف الثاني — الفصل الدراسي الثاني — دليل المعلم — نسخة تجريبية (Moral Education — Grade 2 — Term 2 — Teacher's Guide — pilot edition)* (teacher guide, Arabic) — Title as printed: التربية الأخلاقية — الصف الثاني — الفصل الدراسي الثاني — دليل المعلم — نسخة تجريبية (Moral Education — Grade 2 — Term 2 — Teacher's Guide — pilot edition). Grade: Grade 2 (student/teacher: TEACHER). Publisher: Ministry of Education, United Arab Emirates; year 2017–2018 (1438–1439H), pilot edition; no ISBN printed. PDF pages: 89 (8,730,553 bytes; cover verified) — RECORD NOTE: the download-list record gives the year as 2018–2019; the printed pilot edition is 2017–2018. The first download of this file was internally damaged (its later pages rendered blank); a fresh download of the same file was complete, and the read was made from it. Earlier waves: not read before. Verdict: COMPLETE — civics track, read in full from renders: both of the term's units stand in the remaining strands (Unit 3 is the programme's Cultural Studies pillar; Unit 4 its Individual-and-Community pillar). Contents map: Culture Unit 3 "What can artefacts and symbols tell us?" (we are skilled investigators 1 & 2; a visit to the museum; we are artists; we are archaeologists); Values Unit 4 "Self-identity and working with others" (a good start; perseverance; flexibility; what I find difficult; the final version). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/united-arab-emirates-placements.md. Teacher guide — evidence only, outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| United Arab Emirates part — culture-and-work/a-good-start-hard-work-and-feedback — Unit 4, Lesson 1 "A good start" — teaches: why we must work hard (العمل الجاد) at any task — putting serious effort into getting a job done; giving your view (إبداء الرأي) on a classmate's work and receiving views on your own; praise (الثناء) that values the effort against negative criticism (النقد السلبي) that does not help the work improve; and, in Tariq's butterfly drawing, how honest feedback makes the next version better | United Arab Emirates Grade 2 Moral Education teacher guide, Term 2, printed p. 35 (TEACHER) |
+
+**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (United Arab Emirates), named here, counted nowhere.**
+
+United Arab Emirates' own way (Moral Education, G2 Term 2 teacher guide) (teacher guide — evidence): in this programme a seven-year-old meets the national heritage with his hands — sorting his own family's old things into material and non-material heritage, walking a museum, digging like an archaeologist — and meets himself the same way: hard work, honest feedback, not giving up, and pride in the finished piece. That evidence is stocked here as the way United Arab Emirates teaches this thing; it does not change the acceptance count above.
+
+Searchable tags: a good start hard work and feedback, United Arab Emirates, social studies, culture-and-work

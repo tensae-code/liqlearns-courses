@@ -1,6 +1,6 @@
 # Sources — Conflict — Negotiation, Mediation, Arbitration
 
-countries: Ethiopia, Mongolia, Bahamas, Kuwait, Mexico, Colombia, Guatemala, Rwanda
+countries: Ethiopia, Mongolia, Bahamas, Kuwait, Mexico, Colombia, Guatemala, Rwanda, United Arab Emirates
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (placement 74).
 
@@ -105,3 +105,15 @@ Guatemala's own way (Book 8): the sixth-grade book widens the lens — democracy
 **Acceptance count: taught in 8 countries (Ethiopia, Mongolia, Bahamas, Kuwait, Mexico, Colombia, Guatemala, Rwanda).**
 
 Rwanda's own way (Primary Five — Rwanda Grade 5 P5 SB): the province is the child's civic world — complementarity (everyone's work fitting together) is the organising value, and national symbols, the 2003/2015 constitution and province leadership are taught as Rwanda's own frame inside it
+
+United Arab Emirates placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *نهج زايد الأخلاقي — الدراسات الاجتماعية والتربية الوطنية — الصف الحادي عشر (Zayed's Ethical Approach — Social Studies and National Education — Grade 11), first edition* (student book, Arabic) — Title as printed: نهج زايد الأخلاقي — الدراسات الاجتماعية والتربية الوطنية — الصف الحادي عشر (Zayed's Ethical Approach — Social Studies and National Education — Grade 11), first edition. Grade: Grade 11 (student/teacher: STUDENT). Publisher: Ministry of Education, United Arab Emirates; year 2020–2021 (1441–1442H); no ISBN printed. PDF pages: 129 (6,650,528 bytes; cover verified against the record). Earlier waves: not read before. Verdict: COMPLETE — contents-first; Chapters 4–5 (the values and conflict-settling chapters) read fully page by page from renders; the other chapters are History/biography strands, named in the contents map only. Contents map: Morals/Values pp. 55–78 (Ch. 4, Zayed's towering stands in the Arab homeland's events, framed by the values equality, cohesion, joint Arab action, sacrifice, justice); Conflict/Peace pp. 79–88 (Ch. 5, stands in disputes — upholding right and justice through reconciliation); History pp. 13–54 (Chs. 1–3: the young ruler's ethics in Al Ain, the 1971 union, founding the GCC), pp. 89–114 (Chs. 6–7: strengthening the union, the advanced state), pp. 115–128 (Ch. 8: heritage in Zayed's life — culture strand named, not placed: heritage content was placed by the History wave for this set). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/united-arab-emirates-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| United Arab Emirates part — resources-and-conflict/settling-conflict — Chapter 5 "Stands in disputes, upholding right and justice" — teaches: reconciliation between disputants (إصلاح ذات البين) as a leader's method — Zayed's written sea-border agreement between Dubai and the neighbouring emirates, his hosting of the Bahrain–Qatar dialogue, his mediation between North and South Yemen, and his 1974 Alexandria sitting that reconciled Egypt's Sadat and Libya's Gaddafi before their dispute became a border war — mediation by a trusted third party, as the UAE's own history teaches it | United Arab Emirates Grade 11 Zayed's Ethical Approach, printed p. 79 (chapter spans pp. 79–88) |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Mongolia, Bahamas, Kuwait, Mexico, Colombia, Guatemala, Rwanda, United Arab Emirates).**
+
+United Arab Emirates' own way (Zayed's Ethical Approach, G11 Term 1 reader): at Grade 11 the moral strand is taught as one man's method — the whole reader is built on Sheikh Zayed's "ethical approach" (النهج الأخلاقي): values are never listed abstractly for long, they are proven from stands he took — liberating Kuwait, refusing the Iraq embargo's harm, and reconciling Egypt and Libya in a single sitting in 1974. That way is stocked here as the way United Arab Emirates teaches this thing.

@@ -1,6 +1,6 @@
 # Sources — Patience Enduring Hardship
 
-countries: Kuwait, Saudi Arabia
+countries: Kuwait, Saudi Arabia, United Arab Emirates
 
 **Book 1:** *Social Studies G6 Term 1* (student book, Arabic) — Title as printed: دولة الكويت و دول الخليج العربية — الصف السادس — الفصل الدراسي الأول (State of Kuwait and the Arab Gulf States, Grade 6, Term 1). Grade: Grade 6 Term 1 (student/teacher: STUDENT). Publisher: Ministry of Education, State of Kuwait; year 2026–2027 (2nd edition, 1448H); ISBN 978-9921-33-030-4. PDF pages: 114 (cover verified — Kuwait Towers cover, title and grade as printed; read in place at phase3-staging/grade-06/gov/kuwait/social-studies/student/term-1.pdf, 50,971,017 bytes on disk; printed page numbers = PDF page numbers). Earlier waves: Geography wave placed the Geography units (printed pp. 18–37, 44–46, 64–68, 82–96); History wave placed pp. 47–76 history parts; Economics wave placed pp. 82–97 old economic activities. The values unit was named in all three headers, never placed. Verdict: COMPLETE. Contents map: Geography pp. 18–37; History/Civilisation pp. 44–76; Economics pp. 82–97; Morals/Values pp. 102–110 (the "Stations with Good Kuwait" وقفات مع كويت الطيب unit). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/kuwait-placements.md.
 
@@ -30,3 +30,17 @@ Saudi Arabia's own way (Book 1): the Grade 4 book opens with citizenship — nat
 
 Registry note: the original coined string `culture-and-work/patience-and-hard-work` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/patience-enduring-hardship`.
 
+
+United Arab Emirates placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *التربية الأخلاقية — الصف الخامس — الفصل الدراسي الثاني — دليل المعلم — نسخة تجريبية (Moral Education — Grade 5 — Term 2 — Teacher's Guide — pilot edition)* (teacher guide, Arabic) — Title as printed: التربية الأخلاقية — الصف الخامس — الفصل الدراسي الثاني — دليل المعلم — نسخة تجريبية (Moral Education — Grade 5 — Term 2 — Teacher's Guide — pilot edition). Grade: Grade 5 (student/teacher: TEACHER). Publisher: Ministry of Education, United Arab Emirates; year 2017–2018 (1438–1439H), pilot edition; no ISBN printed. PDF pages: 88 (5,807,264 bytes; cover verified against the record). Earlier waves: not read before. Verdict: COMPLETE — civics track: read fully page by page from renders; Unit 3's settlement-history lessons are named in the contents map, and the book's glossary (المصطلحات) is inventory-only, named not placed. Contents map: Family & society pp. 3–35 of the student book (Unit 3, CIS1 "Family stability in the United Arab Emirates": the first tribal settlements; learning from the past; diverse communities and circumstances; my tribe, my family; change and continuity); Values pp. 37–66 (Unit 4 "The moral personality and praiseworthy morals": what are praiseworthy morals?; patience; forgiveness; what qualities make a person righteous?; change and personal development); Glossary pp. 67–68 (inventory only). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/united-arab-emirates-placements.md. Teacher guide — evidence only, outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| United Arab Emirates part — culture-and-work/patience-a-praiseworthy-trait — Unit 4, Lesson 2 "Patience" — teaches: patience (صبر) defined as the ability to stick with a difficult or annoying situation or task for a long time; taught through the story of two friends at a games exhibition, where the one who loses his temper learns that patience is a praiseworthy trait, and through everyday waitings — for a cake to bake, a celebration day, a visit, fruit to ripen | United Arab Emirates Grade 5 Moral Education teacher guide, Term 2, printed p. 43 (TEACHER) |
+
+**Acceptance count: taught in 2 countries (Kuwait, Saudi Arabia).** United Arab Emirates is named here as teacher-guide evidence only, counted nowhere.
+
+United Arab Emirates' own way (Moral Education, G5 Term 2 teacher guide) (teacher guide — evidence): the course defines its key words for the child in a back-of-book glossary — forgiveness is "the ability to get past the feeling of hurt or anger you feel toward another person", a tribe is "a group of individuals living on one patch of land, bound by shared ties" — and the righteous person is analysed as mind, heart and hand: what he thinks, what he feels, what he does. That evidence is stocked here as the way United Arab Emirates teaches this thing; it does not change the acceptance count above.
+
+Registry note: the original coined string `culture-and-work/patience-a-praiseworthy-trait` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/patience-enduring-hardship`.

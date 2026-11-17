@@ -1,6 +1,6 @@
 # Sources — Public Places In My Locality
 
-countries: Mauritania, North Macedonia, Angola
+countries: Mauritania, North Macedonia, Angola, United Arab Emirates
 
 **Book 1:** *Kitab al-Jughrafia lilsana al-Thalitha min al-Ta'lim al-Ibtida'i (Geography Book, Third Year of Primary Education)* (student book, Arabic) — Institut Pédagogique National (IPN), Mauritania; year no year printed on title page; ISBN no ISBN printed. Title as printed: Kitab al-Jughrafia lilsana al-Thalitha min al-Ta'lim al-Ibtida'i (Geography Book, Third Year of Primary Education). Grade: Grade 3 (3e année fondamentale) (student/teacher: STUDENT). PDF pages: 52 (cover/title page verified against the record title; fetched from the record's source URL docs.bsimr.com/pdfs/fondamentals/GEO-3AF-M.pdf, 6,193,761 bytes — the same file the repo record was built from). Verdict: COMPLETE. Geography scope placed below; the book's time-landmark axis is local HISTORY and is NOT placed, as the placements file labels it: History of my village (printed p. 37), History of the founding of the mosque (p. 39), History of the founding of the mahadra (p. 41), History of the founding of the school (p. 43), History of the founding of the dispensary (p. 45). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mauritania-placements.md.
 
@@ -44,3 +44,15 @@ Angola placements — Social Studies remaining strands (2026-11-17):
 **Acceptance count: taught in 3 countries (Mauritania, North Macedonia, Angola).**
 
 Angola's own way (Book 4): Grade 3 is where Estudo do Meio turns outward — the child's own locality is inventoried place by place (school, hospital, market, bank, water fountain), and Angola's customs are taught region by region: dress, mother tongue, food, and festivals such as efico and circumcision celebrations.
+
+United Arab Emirates placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *الدراسات الاجتماعية والتربية الوطنية — كتاب الطالب — الصف 01 — المجلد الثالث (Social Studies and National Education — Student Book — Grade 1 — Volume 3)* (student book, Arabic) — Title as printed: الدراسات الاجتماعية والتربية الوطنية — كتاب الطالب — الصف 01 — المجلد الثالث (Social Studies and National Education — Student Book — Grade 1 — Volume 3). Grade: Grade 1 (student/teacher: STUDENT). Publisher: Ministry of Education, United Arab Emirates; year 2025–2026; no ISBN printed. PDF pages: 119 (9,953,539 bytes via grab.py tree; cover verified — title, Grade 01 and 2025-2026 match the record; the two target records are the same book: books.json in_pushed record + wave:economics TSV record). Earlier waves: Geography wave placed pp. 26–39 (environment/recycling), p. 56 (location/landmarks), p. 70 (Ibn Battuta), p. 82 (desert plants), p. 97 (desert wildlife) / History wave placed pp. 17–19 (schooling history), pp. 56–69 (union museum, Zayed sayings, heritage), pp. 70–81 (Ibn Battuta) / Economics wave placed pp. 40–53 (work, needs, money) and named the civics parts pp. 12–25 and 56–69 without placing them. Verdict: COMPLETE — remaining strands (Unit 5 Lesson 1 and Unit 6 Lesson 1 part 3) read fully page by page from renders; the rest was placed by the earlier waves as noted. Contents map: Integrated SS / Civics / Morals pp. 12–25 (order at home, school and neighbourhood) and pp. 65–69 (homeland of happiness and tolerance); Economics pp. 40–53; Geography/Science pp. 26–39, 56–64, 82–94, 97+ (appendix reader); History pp. 70–81; glossary p. 95 (inventory-only). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/united-arab-emirates-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| United Arab Emirates part — first-steps/public-places-in-my-locality — Unit 5 Lesson 1, part 3 "The neighbourhood" — teaches: public property belongs to the state and is everyone's — mosques, schools, roads, bridges, hospitals and public parks named as the public property found in my neighbourhood | United Arab Emirates Grade 1 Social Studies and National Education Vol. 3, printed p. 21 |
+
+**Acceptance count: taught in 4 countries (Mauritania, North Macedonia, Angola, United Arab Emirates).**
+
+United Arab Emirates' own way (Social Studies & National Education G1 Term 3): at Grade 1 "order" is taught as one widening circle — home, then school, then neighbourhood — each part closing with a "Zayed taught me" saying and a named national value (respect, safety), and the country itself is introduced as a homeland of happiness and tolerance with its own Minister of Happiness and a Year of Tolerance. That way is stocked here as the way United Arab Emirates teaches this thing.

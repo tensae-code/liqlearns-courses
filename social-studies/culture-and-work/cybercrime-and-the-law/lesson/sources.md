@@ -1,0 +1,15 @@
+# Sources — Cybercrime and the Law
+
+countries: United Arab Emirates
+
+**Book 1:** *الدراسات الاجتماعية والتربية الوطنية — كتاب النشاط للطالب — الصف الحادي عشر — المجلد الثالث — رؤية وتحليل لكتاب «التربية الأخلاقية في العصر الرقمي» (Student Activity Book, Vol. 3, analysing "Moral Education in the Digital Age")* (student book, Arabic) — Title as printed: الدراسات الاجتماعية والتربية الوطنية — كتاب النشاط للطالب — الصف الحادي عشر — المجلد الثالث — رؤية وتحليل لكتاب «التربية الأخلاقية في العصر الرقمي» (Student Activity Book, Vol. 3, analysing "Moral Education in the Digital Age"). Grade: Grade 11 (student/teacher: STUDENT). Publisher: Ministry of Education, United Arab Emirates; year 2023–2024 (1444–1445H); no ISBN printed. PDF pages: 113 (5,682,950 bytes — exactly the record's byte-verified size; cover verified against the record). Earlier waves: not read before. Verdict: COMPLETE — contents-first; Units 1, 4 and the ethics topics of Unit 5 read fully page by page from renders (the activity book teaches the source book's concepts in summary-and-analysis form, not worksheets alone); Units 2, 3 and 6 are ICT/Economics/Health strands, named in the contents map only. Contents map: Civics/Morals pp. 12–21 (Unit 1: electronic rights and duties), pp. 40–55 (Unit 4: technology and crime), pp. 56–88 (Unit 5: safe and ethical use of technologies — ethics topics pp. 58–80, the rest ICT security apparatus); ICT pp. 22–31 (Unit 2: the digital revolution); Economics pp. 32–39 (Unit 3: shopping via the internet); Health pp. 90–112 (Unit 6: health and safety at the computer — the Health course's strand, named not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/united-arab-emirates-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| United Arab Emirates part — culture-and-work/cybercrime-and-the-law — Unit 4 "Technology and crime" — teaches: electronic crimes defined (fraud, blackmail, theft and money-laundering moved online); harassment and blackmail punished under Article 16 of the UAE cybercrime law; privacy violations under Article 21 (eavesdropping, photographing others, publishing their news); the eight motives of the e-criminal; and how to protect yourself from becoming a victim | United Arab Emirates Grade 11 Moral Education in the Digital Age activity book, printed p. 42 (unit spans pp. 40–55) |
+
+**Acceptance count: taught in 1 country (United Arab Emirates).**
+
+United Arab Emirates' own way (Moral Education in the Digital Age, G11 Term 3 activity book): digital citizenship is taught as rights-and-duties law, not etiquette tips — every ethical rule is tied to the UAE's own cybercrime law articles and penalties, and equal access is proven from the state's own projects (Smart Dubai, Abu Dhabi's e-government) and its four-category support for People of Determination online. That way is stocked here as the way United Arab Emirates teaches this thing.
+
+Searchable tags: cybercrime and the law, United Arab Emirates, social studies, culture-and-work

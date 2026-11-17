@@ -1,0 +1,15 @@
+# Sources — Social Responsibility at Home School and Homeland
+
+countries: United Arab Emirates
+
+**Book 1:** *الدراسات الاجتماعية والتربية الوطنية — دليل المعلم — الصف التاسع — المجلد الثاني (Social Studies and National Education — Teacher's Guide — Grade 9 — Volume 2), "Zayed and the Emirati Woman" (زايد والمرأة الإماراتية) cover* (teacher guide, Arabic) — Title as printed: الدراسات الاجتماعية والتربية الوطنية — دليل المعلم — الصف التاسع — المجلد الثاني (Social Studies and National Education — Teacher's Guide — Grade 9 — Volume 2), "Zayed and the Emirati Woman" (زايد والمرأة الإماراتية) cover. Grade: Grade 9 (student/teacher: TEACHER). Publisher: Ministry of Education, United Arab Emirates; year 2021–2022 (1442–1443H); no ISBN printed. PDF pages: 156 (2,627,315 bytes; cover verified — the almanahj wrapper page precedes the ministry cover). Earlier waves: not read before. Verdict: COMPLETE — read from renders and the file's text layer; the long front section is teaching apparatus (learner characteristics, multiple intelligences, lesson-planning strategies) and is named here, not placed; Units 5–6 and the knowledge-economy lesson are the Geography, History and Economics strands, named in the contents map only. Contents map: Geography (Unit 5 "Human features": the population of the Arab homeland; contemporary population issues); History (Unit 6: the Gulf in history; "History is a speaking thought"); Economics (Unit 7, Lesson 1: the knowledge economy); Culture/Global/Values (Unit 7, Lessons 2–3: "Dome of Light"; the Makkah Charter 2019; Unit 8 "Zayed — an identity and witnessed stances": Zayed and the Emirati woman; social responsibility). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/united-arab-emirates-placements.md. Teacher guide — evidence only, outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| United Arab Emirates part — culture-and-work/social-responsibility-at-home-school-and-homeland — Unit 8, Lesson 2 "Social responsibility" — teaches: the conditions of responsibility (شروط المسؤولية) and its qualities; its importance in the individual's life; the individual's responsibilities in his family, his school and his homeland (في أسرته ومدرسته ووطنه); and telling the kinds of responsibility apart | United Arab Emirates Grade 9 Social Studies teacher guide, volume 2, printed p. 143 (TEACHER) |
+
+**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (United Arab Emirates), named here, counted nowhere.**
+
+United Arab Emirates' own way (Social Studies & National Education, G9 teacher guide, volume 2) (teacher guide — evidence): the volume closes the year with identity — a whole unit on Zayed as "an identity and witnessed stances", in which the Emirati woman's changing place in society and the citizen's social responsibility are taught as parts of that identity. That evidence is stocked here as the way United Arab Emirates teaches this thing; it does not change the acceptance count above.
+
+Searchable tags: social responsibility at home school and homeland, United Arab Emirates, social studies, culture-and-work

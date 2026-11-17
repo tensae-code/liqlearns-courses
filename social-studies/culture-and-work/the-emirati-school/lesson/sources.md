@@ -1,0 +1,15 @@
+# Sources — The Emirati School
+
+countries: United Arab Emirates
+
+**Book 1:** *الدراسات الاجتماعية والتربية الوطنية — دليل المعلم — الصف السادس — المجلد الثاني (Social Studies and National Education — Teacher's Guide — Grade 6 — Volume 2), "Zayed: a civilisation and achievements" (زايد حضارة وإنجاز) cover* (teacher guide, Arabic) — Title as printed: الدراسات الاجتماعية والتربية الوطنية — دليل المعلم — الصف السادس — المجلد الثاني (Social Studies and National Education — Teacher's Guide — Grade 6 — Volume 2), "Zayed: a civilisation and achievements" (زايد حضارة وإنجاز) cover. Grade: Grade 6 (student/teacher: TEACHER). Publisher: Ministry of Education, United Arab Emirates; year 2023–2024 (1444–1445H); no ISBN printed. PDF pages: 73 (6,907,318 bytes; cover verified — reached through a Google Drive file linked from the record's almanahj listing). Earlier waves: the G6 Term 1 student book was read as Book 9 of this file; this Term 2 guide was not read before. Verdict: COMPLETE — read from renders; Unit 4 is the Geography/History country-study strand (Asia and its states) and is named in the contents map only; Unit 5 "The Emirates: heritage and development" is placed in full. Contents map: Geography/History Unit 4 "The Emirates and the countries of Asia" (the continent of Asia; the Republic of India; the People's Republic of China; the Republic of Korea); Culture/Civics Unit 5 "The Emirates: heritage and development" (Zayed — a civilisation and achievements; my country's heritage; the Emirati school). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/united-arab-emirates-placements.md. Teacher guide — evidence only, outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| United Arab Emirates part — culture-and-work/the-emirati-school — Unit 5, Lesson 3 "The Emirati school" — teaches: what the Emirati school is — its concept and its goals — and its anthem; the stages education passed through in the Emirates before the Union (1953–1971) and the modern school system after it (1972–2016); education's developmental role in the country's society, with the citizens' own roles and participation in Emirati life; and Article 14 of the constitution, on education, drawn from the learning sources — the school studied as the nation's own house of learning | United Arab Emirates Grade 6 Social Studies teacher guide, volume 2, printed p. 67 (TEACHER) |
+
+**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (United Arab Emirates), named here, counted nowhere.**
+
+United Arab Emirates' own way (Social Studies & National Education, G6 teacher guide, volume 2) (teacher guide — evidence): the term pairs the world outside (Asia's great states) with the heritage inside — the founder's civilising work, the country's material and moral inheritance, and the Emirati school itself studied as one of the nation's own institutions. That evidence is stocked here as the way United Arab Emirates teaches this thing; it does not change the acceptance count above.
+
+Searchable tags: the emirati school, United Arab Emirates, social studies, culture-and-work

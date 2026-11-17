@@ -1,6 +1,6 @@
 # Sources — Understanding and Respecting Other Cultures
 
-countries: Mongolia, Mexico, Serbia, Fiji, Colombia
+countries: Mongolia, Mexico, Serbia, Fiji, Colombia, United Arab Emirates
 
 **Book 1:** *Нийгэм судлал VII (Social Studies VII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2019; ISBN no ISBN printed on the pages checked. Title as printed: Нийгэм судлал VII (Social Studies VII). Grade: Grade 7 (student). 99 PDF pp. (cover verified against the record title; secured GitHub release asset, 48,845,405 bytes, byte-size verified on download; contents also cross-checked against the ministry econtent flipbook of the same book). Verdict: COMPLETE for Geography scope (contents page and chapter structure read in full; the book follows the same five-chapter spiral as Grade 9). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mongolia-placements.md.
 
@@ -53,3 +53,15 @@ Colombia placements — Social Studies remaining strands (2026-11-17):
 
 Colombia's own way (Book 11): culture is taught through named Colombian expressions (Pasto's Carnaval de Negros y Blancos, Riosucio's Carnaval del Diablo, the Madre Monte myth) and through imagining life inside another Colombian culture — speaking Pamié or Tucano — while emotions and affection get a full primary unit of their own.
 
+
+United Arab Emirates placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *الدراسات الاجتماعية والتربية الوطنية — كتاب الطالب — الصف 01 — المجلد الثالث (Social Studies and National Education — Student Book — Grade 1 — Volume 3)* (student book, Arabic) — Title as printed: الدراسات الاجتماعية والتربية الوطنية — كتاب الطالب — الصف 01 — المجلد الثالث (Social Studies and National Education — Student Book — Grade 1 — Volume 3). Grade: Grade 1 (student/teacher: STUDENT). Publisher: Ministry of Education, United Arab Emirates; year 2025–2026; no ISBN printed. PDF pages: 119 (9,953,539 bytes via grab.py tree; cover verified — title, Grade 01 and 2025-2026 match the record; the two target records are the same book: books.json in_pushed record + wave:economics TSV record). Earlier waves: Geography wave placed pp. 26–39 (environment/recycling), p. 56 (location/landmarks), p. 70 (Ibn Battuta), p. 82 (desert plants), p. 97 (desert wildlife) / History wave placed pp. 17–19 (schooling history), pp. 56–69 (union museum, Zayed sayings, heritage), pp. 70–81 (Ibn Battuta) / Economics wave placed pp. 40–53 (work, needs, money) and named the civics parts pp. 12–25 and 56–69 without placing them. Verdict: COMPLETE — remaining strands (Unit 5 Lesson 1 and Unit 6 Lesson 1 part 3) read fully page by page from renders; the rest was placed by the earlier waves as noted. Contents map: Integrated SS / Civics / Morals pp. 12–25 (order at home, school and neighbourhood) and pp. 65–69 (homeland of happiness and tolerance); Economics pp. 40–53; Geography/Science pp. 26–39, 56–64, 82–94, 97+ (appendix reader); History pp. 70–81; glossary p. 95 (inventory-only). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/united-arab-emirates-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| United Arab Emirates part — culture-and-work/understanding-and-respecting-other-cultures — Unit 6 Lesson 1, part 3 "Homeland of happiness and tolerance" — teaches: good neighbourliness (حسن الجوار) and tolerance — people from the world's countries live on the UAE's land together in respect, tolerance and love; 2019 was declared the Year of Tolerance, making the UAE a capital of tolerance that accepts others and different cultures | United Arab Emirates Grade 1 Social Studies and National Education Vol. 3, printed p. 66 (part spans pp. 65–69) |
+
+**Acceptance count: taught in 6 countries (Mongolia, Mexico, Serbia, Fiji, Colombia, United Arab Emirates).**
+
+United Arab Emirates' own way (Social Studies & National Education G1 Term 3): at Grade 1 "order" is taught as one widening circle — home, then school, then neighbourhood — each part closing with a "Zayed taught me" saying and a named national value (respect, safety), and the country itself is introduced as a homeland of happiness and tolerance with its own Minister of Happiness and a Year of Tolerance. That way is stocked here as the way United Arab Emirates teaches this thing.

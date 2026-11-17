@@ -1,0 +1,15 @@
+# Sources — My Homeland is My Responsibility
+
+countries: United Arab Emirates
+
+**Book 1:** *الدراسات الاجتماعية والتربية الوطنية — دليل المعلم — الصف الثاني — المجلد الثاني (Social Studies and National Education — Teacher's Guide — Grade 2 — Volume 2), "Zayed, the founding builder" (زايد الباني المؤسس) cover* (teacher guide, Arabic) — Title as printed: الدراسات الاجتماعية والتربية الوطنية — دليل المعلم — الصف الثاني — المجلد الثاني (Social Studies and National Education — Teacher's Guide — Grade 2 — Volume 2), "Zayed, the founding builder" (زايد الباني المؤسس) cover. Grade: Grade 2 (student/teacher: TEACHER). Publisher: Ministry of Education, United Arab Emirates; year 2023–2024 (1445H); no ISBN printed. PDF pages: 82 (3,806,880 bytes; cover verified — the almanahj wrapper page precedes the ministry cover). Earlier waves: not read before. Verdict: COMPLETE — read from renders; Unit 3 is the Geography/Economics strand (water, energy and the country's wealth) and is named in the contents map only; Unit 4 "My homeland is my identity" is placed in full. Contents map: Geography/Economics Unit 3 "Homeland of blessings" (water in my country; energy in my country; my country's wealth); Civics/Identity Unit 4 "My homeland is my identity" (the founding builder; my national identity; my homeland is my responsibility). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/united-arab-emirates-placements.md. Teacher guide — evidence only, outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| United Arab Emirates part — culture-and-work/my-homeland-is-my-responsibility — Unit 4, Lesson 3 "My homeland is my responsibility" — teaches: the child's own role in group work (العمل الجماعي); the value of honesty/trustworthiness (الأمانة) in dealing with others; why truthfulness (الصدق) is a must in dealing with others; and taking an active part in class discussions and debates with classmates and peers — responsibility taught as how a small citizen behaves every day | United Arab Emirates Grade 2 Social Studies teacher guide, volume 2, printed p. 70 (TEACHER) |
+
+**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (United Arab Emirates), named here, counted nowhere.**
+
+United Arab Emirates' own way (Social Studies & National Education, G2 teacher guide, volume 2) (teacher guide — evidence): for seven-year-olds the state is a person first — the whole identity unit hangs on the founding builder: who Zayed was and what he built, then what "my identity" is made of (down to the child's own identity papers), then the child's share: my homeland is my responsibility. That evidence is stocked here as the way United Arab Emirates teaches this thing; it does not change the acceptance count above.
+
+Searchable tags: my homeland is my responsibility, United Arab Emirates, social studies, culture-and-work

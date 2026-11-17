@@ -1,6 +1,6 @@
 # Sources — Security and Protection Services
 
-countries: Saudi Arabia
+countries: Saudi Arabia, United Arab Emirates
 
 **Book 1:** *Social Studies, Grade 5 (student book, Arabic)* — Title as printed: الدراسات الاجتماعية — الصف الخامس الابتدائي (Social Studies — Fifth Grade, Primary) Grade: Grade 5 (student/teacher: STUDENT) Publisher: Ministry of Education, Kingdom of Saudi Arabia; cover dated 1448H / 2026 CE PDF pages: 179; printed page = PDF page. File verified: 65,373,328 bytes, size-verified via chunked Range assembly from Google Drive; cover rendered and looked at Verdict: COMPLETE — contents-first; the civics/citizenship strands (Unit 3 National Security, Unit 5 State Institutions) read in full and placed Contents map: Unit 1 History, Unit 2 Religion/History, Unit 3 National Security (this wave), Unit 4 Geography, Unit 5 State Institutions (this wave), Unit 6 Geography, Units 7–8 Economics — named, not placed Staged (2026-11-13 rule — external-link book not in GitHub, never deleted): ~/workspace/phase3-staging/grade-05/gov/saudi-arabia/social-studies/student/full-year.pdf with a new grade-05/gov/saudi-arabia/books.json record Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/saudi-arabia-placements.md.
 
@@ -16,3 +16,17 @@ Saudi Arabia's own way (Book 2): the Grade 5 book teaches security and state ins
 Registry note: the original coined string `culture-and-work/security-agencies` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/security-and-protection-services`.
 
 Searchable tags: security and protection services, Saudi Arabia, social studies, culture-and-work
+
+United Arab Emirates placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *الدراسات الاجتماعية والتربية الوطنية — كتاب الطالب — الصف 05 (Social Studies and National Education — Student Book — Grade 5), cover theme "Zayed, Knight of the Environment"* (student book, Arabic) — Title as printed: الدراسات الاجتماعية والتربية الوطنية — كتاب الطالب — الصف 05 (Social Studies and National Education — Student Book — Grade 5), cover theme "Zayed, Knight of the Environment". Grade: Grade 5 (student/teacher: STUDENT). Publisher: Ministry of Education, United Arab Emirates; year 2023–2024; no ISBN printed. PDF pages: 137 (6,360,393 bytes — exactly the byte-verified size in the download-list record; cover verified against the record). Earlier waves: not read before (the earlier waves' UAE files cover only the Grade 1 book). Verdict: COMPLETE — contents-first; Unit 3 (the civics unit) read fully page by page from renders; Units 1–2 are geography/history/environment strands, named in the contents map only. Contents map: Civics/Citizenship pp. 80–104 (Unit 3 "Glimpses from the Constitution": social underpinnings of the constitution; rights and duties in my country); Geography/History pp. 10–43 (Unit 1 "One Gulf": the GCC naturally, historically, its population); Geography/Science pp. 44–79 (Unit 2 "Zayed and the Environment": protected areas, green projects); glossary p. 105 (inventory-only); appendix reader p. 107. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/united-arab-emirates-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| United Arab Emirates part — culture-and-work/security-and-safety-in-my-country — Unit 3 Lesson 1, part 2 "Providing security and reassurance" — teaches: security (الأمن) as the state's ability to protect its land and internal cohesion; its five types — military, political, economic, social and environmental — and why it matters: no fear, justice done, development built on it, peace among society's members | United Arab Emirates Grade 5 Social Studies and National Education Term 2, printed p. 86 |
+
+**Acceptance count: taught in 2 countries (Saudi Arabia, United Arab Emirates).**
+
+United Arab Emirates' own way (Social Studies & National Education G5 Term 2): civics at Grade 5 is taught straight from the country's own constitution — Article 14 for equality, Article 43 for the duty of defence — with the state's own rankings, laws and named institutions (Family Development Foundation, Ministry of Community Development, the 2018 Emirati sign-language dictionary) as the evidence. That way is stocked here as the way United Arab Emirates teaches this thing.
+
+Registry note: the original coined string `culture-and-work/security-and-safety-in-my-country` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/security-and-protection-services`.

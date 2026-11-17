@@ -1,6 +1,6 @@
 # Sources — Fundamental Rights in the Constitution
 
-countries: Bhutan, Belarus, Turkey, India, Sri Lanka
+countries: Bhutan, Belarus, Turkey, India, Sri Lanka, United Arab Emirates
 
 **Book 3:** *Social Studies Class VI* (student book, English) — Title as printed: SOCIAL STUDIES CLASS VI. Grade: Class VI (student/teacher: STUDENT). Publisher: Center for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2021, Revised 2025; ISBN no ISBN printed. PDF pages: 68 (cover/title page verified against the record title in the Geography wave; record size 1,628,115 bytes and 68 pages match exactly). Earlier waves: Geography wave placed Ch.1–4, Ch.7–9 parts; History wave placed the Ch.4 heritage part and the 2008 transition line inside Ch.5.1; Economics wave placed Ch.10 Income (pp.53–60). Verdict: COMPLETE. Contents map: Civics/Citizenship/Government pp. 23–28 (Ch.5 The Government); Morals/Values pp. 29–36 (Ch.6 People and the Society — §6.1F Abortion, printed p. 35, is taught on reproductive-health lines — Health course's, named not placed); Culture pp. 17–22 (placed by the Geography/History waves); Geography pp. 1–16, 37–52; Economics pp. 53–60. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/bhutan-placements.md.
 
@@ -70,3 +70,17 @@ Sri Lanka's own way (Sri Lanka Grade 11 Social Education and History 2000): the 
 Registry note: the original coined string `culture-and-work/fundamental-rights-of-citizens` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/fundamental-rights-in-the-constitution`.
 
 Searchable tags: fundamental rights in the constitution, Sri Lanka, social studies, culture-and-work
+
+United Arab Emirates placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *الدراسات الاجتماعية والتربية الوطنية — كتاب الطالب — الصف 05 (Social Studies and National Education — Student Book — Grade 5), cover theme "Zayed, Knight of the Environment"* (student book, Arabic) — Title as printed: الدراسات الاجتماعية والتربية الوطنية — كتاب الطالب — الصف 05 (Social Studies and National Education — Student Book — Grade 5), cover theme "Zayed, Knight of the Environment". Grade: Grade 5 (student/teacher: STUDENT). Publisher: Ministry of Education, United Arab Emirates; year 2023–2024; no ISBN printed. PDF pages: 137 (6,360,393 bytes — exactly the byte-verified size in the download-list record; cover verified against the record). Earlier waves: not read before (the earlier waves' UAE files cover only the Grade 1 book). Verdict: COMPLETE — contents-first; Unit 3 (the civics unit) read fully page by page from renders; Units 1–2 are geography/history/environment strands, named in the contents map only. Contents map: Civics/Citizenship pp. 80–104 (Unit 3 "Glimpses from the Constitution": social underpinnings of the constitution; rights and duties in my country); Geography/History pp. 10–43 (Unit 1 "One Gulf": the GCC naturally, historically, its population); Geography/Science pp. 44–79 (Unit 2 "Zayed and the Environment": protected areas, green projects); glossary p. 105 (inventory-only); appendix reader p. 107. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/united-arab-emirates-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| United Arab Emirates part — culture-and-work/rights-guaranteed-by-the-constitution — Unit 3 Lesson 2, part 1 "Rights" — teaches: rights (الحقوق) defined as all a person may enjoy, guaranteed by society and law; the constitution guarantees every citizen's rights and dignity; the rights my homeland provides — health services, education services, security, leisure places, public facilities — and the rights my family provides — housing, food, care and a sound upbringing | United Arab Emirates Grade 5 Social Studies and National Education Term 2, printed p. 95 (lesson spans pp. 94–104) |
+
+**Acceptance count: taught in 6 countries (Bhutan, Belarus, Turkey, India, Sri Lanka, United Arab Emirates).**
+
+United Arab Emirates' own way (Social Studies & National Education G5 Term 2): civics at Grade 5 is taught straight from the country's own constitution — Article 14 for equality, Article 43 for the duty of defence — with the state's own rankings, laws and named institutions (Family Development Foundation, Ministry of Community Development, the 2018 Emirati sign-language dictionary) as the evidence. That way is stocked here as the way United Arab Emirates teaches this thing.
+
+Registry note: the original coined string `culture-and-work/rights-guaranteed-by-the-constitution` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/fundamental-rights-in-the-constitution`.

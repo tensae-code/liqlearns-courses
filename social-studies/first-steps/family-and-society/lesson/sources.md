@@ -1,6 +1,6 @@
 # Sources — Family and Society
 
-countries: Panama, Bahrain, Turkey, Iraq, Saudi Arabia
+countries: Panama, Bahrain, Turkey, Iraq, Saudi Arabia, United Arab Emirates
 
 **Book 2:** *Ciencias Sociales 1 — Cuaderno de trabajo — Primer grado* (student workbook, Spanish) — Ministerio de Educación de Panamá; year 2020; no ISBN printed. Title as printed: Ciencias Sociales 1 — Cuaderno de trabajo — Primer grado (Meduca, "Conéctate en casa" series). Grade: Grade 1 (student/teacher: STUDENT). PDF pages: 52 (downloaded via the Wayback capture of 2022-11-16 of the recorded Meduca file — the direct guias.meduca.gob.pa route failed repeatedly from this egress; cover and index verified against the record). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Integrated SS — Área 1 Naturaleza y sociedad en el espacio (family, family work) printed pp. 6–14; Área 2 Dinámica e interacción con el ambiente (housing, transport and communication) printed pp. 15–25; Civics — Área 3 Convivencia armónica (community living rules, duties and rights) printed pp. 26–37; History — Área 4 Acontecimientos históricos de los pueblos (community and national history, fiestas patrias) printed pp. 38–47 (named, not placed). Staged under the new rule: grade-01/gov/panama/social-studies/student/ciencias-sociales-1-cuaderno-de-trabajo.pdf (10,944,762 B as replayed) + books.json record. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/panama-placements-b.md.
 
@@ -56,3 +56,17 @@ Saudi Arabia placements — Social Studies remaining strands (2026-11-17):
 
 Saudi Arabia's own way (Book 1): the Grade 4 book opens with citizenship — national identity, the system of government, national symbols and the founding story of security and unity under one state — and returns in Unit 6 to responsible citizenship through family and society, rights and duties, the good citizen, teamwork, and heritage stories that teach patience and hard work.
 
+
+United Arab Emirates placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *الدراسات الاجتماعية والتربية الوطنية — دليل المعلم — الصف الرابع — المجلد الأول (Social Studies and National Education — Teacher's Guide — Grade 4 — Volume 1)* (teacher guide, Arabic) — Title as printed: الدراسات الاجتماعية والتربية الوطنية — دليل المعلم — الصف الرابع — المجلد الأول (Social Studies and National Education — Teacher's Guide — Grade 4 — Volume 1). Grade: Grade 4 (student/teacher: TEACHER). Publisher: Ministry of Education, United Arab Emirates; year 2023–2024 (1444–1445H); no ISBN printed. PDF pages: 137 (7,142,463 bytes; cover verified — reached through a direct file link on the record's almanahj listing). Earlier waves: not read before. Verdict: COMPLETE — read from renders; the long opening section is teaching apparatus (learner characteristics, multiple intelligences, thinking and communication strategies) and is named here, not placed, except its citizenship-concepts spread, which is itself teaching content and is placed; Unit 1 is the Geography strand and the "Zayed the First" lesson is the History strand — both named in the contents map only. Contents map: Geography Unit 1 (the Emirates' location; Asia; the inland plains; the climate of my country); Civics/Society Unit 2 (the family; the government; the martyrs of the Union); History (Zayed the First). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/united-arab-emirates-placements.md. Teacher guide — evidence only, outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| United Arab Emirates part — first-steps/the-family-in-emirati-society — Unit 2, Lesson 1 "The family" — teaches: what the family (الأسرة) means; the marks of the extended family in Emirati society before the Union (الأسرة الممتدة); the importance of the family in the Emirates' society; and the work women did in the Emirati community before the Union, read from the pictures — the family as the first society the child belongs to | United Arab Emirates Grade 4 Social Studies teacher guide, volume 1, printed p. 113 (TEACHER) |
+
+**Acceptance count: taught in 5 countries (Panama, Bahrain, Turkey, Iraq, Saudi Arabia).** United Arab Emirates is named here as teacher-guide evidence only, counted nowhere.
+
+United Arab Emirates' own way (Social Studies & National Education, G4 teacher guide, volume 1) (teacher guide — evidence): the fourth-grade guide teaches its civics as a set of named concepts first — citizenship, belonging, participation, responsibility, identity — and then walks them into the child's world in order: the family he lives in, the government that runs his state, and the martyrs the state honours. That evidence is stocked here as the way United Arab Emirates teaches this thing; it does not change the acceptance count above.
+
+Registry note: the original coined string `first-steps/the-family-in-emirati-society` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/family-and-society`.

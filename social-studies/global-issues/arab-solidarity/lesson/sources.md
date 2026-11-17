@@ -1,0 +1,15 @@
+# Sources — Arab Solidarity
+
+countries: United Arab Emirates
+
+**Book 1:** *الدراسات الاجتماعية والتربية الوطنية — دليل المعلم — الصف التاسع — المجلد الأول (Social Studies and National Education — Teacher's Guide — Grade 9 — Volume 1)* (teacher guide, Arabic) — Title as printed: الدراسات الاجتماعية والتربية الوطنية — دليل المعلم — الصف التاسع — المجلد الأول (Social Studies and National Education — Teacher's Guide — Grade 9 — Volume 1). Grade: Grade 9 (student/teacher: TEACHER). Publisher: Ministry of Education, United Arab Emirates; year 2024–2025 (1445–1446H); no ISBN printed. PDF pages: 59 (2,740,424 bytes; cover verified — the almanahj wrapper page precedes the ministry cover). Earlier waves: not read before. Verdict: COMPLETE — read from renders and the file's text layer; Units 2–4 are the Geography, History and Economics strands and are named in the contents map only. Contents map: Civics/Global pp. 6–25 of the guide (Unit 1 "The Emirates, pulse of the world": the Constitution of the UAE; Arab solidarity; the Human Fraternity Document, an analytical study; a firm Emirati–Saudi partnership); Geography pp. 26–37 (Unit 2 "Natural features of the Arab homeland": its location and importance; its terrain; its climate and natural plants); History pp. 38–47 (Unit 3 "History of the modern and contemporary Arab homeland": the rise of the Ottoman state; European colonialism in the Arab homeland); Economics pp. 48–59 (Unit 4 "Economic issues": international trade; economic blocs). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/united-arab-emirates-placements.md. Teacher guide — evidence only, outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| United Arab Emirates part — global-issues/arab-solidarity — Unit 1, Lesson 2 "Arab solidarity" — teaches: the factors that bind the Arab peoples and the aims of their solidarity (التضامن العربي); its models in practice — the efforts of the UAE and Saudi Arabia to protect the Arab region, Arab support in the October 1973 war, and the Emirati–Saudi alliance in Decisive Storm — solidarity taught as a duty peoples owe each other, under the citizenship concepts of belonging, cooperation and social responsibility | United Arab Emirates Grade 9 Social Studies teacher guide, volume 1, printed p. 11 (TEACHER) |
+
+**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (United Arab Emirates), named here, counted nowhere.**
+
+United Arab Emirates' own way (Social Studies & National Education, G9 teacher guide, volume 1) (teacher guide — evidence): the ninth-grade year opens with the state itself — its constitution first, then its place among peoples: Arab solidarity, and the Human Fraternity Document signed in its own capital, studied analytically and compared with the Prophet's Medina Charter. That evidence is stocked here as the way United Arab Emirates teaches this thing; it does not change the acceptance count above.
+
+Searchable tags: arab solidarity, United Arab Emirates, social studies, global-issues

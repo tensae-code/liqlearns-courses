@@ -1,6 +1,6 @@
 # Sources — Caring for Others
 
-countries: Mauritius, Tanzania, Cambodia
+countries: Mauritius, Tanzania, Cambodia, United Arab Emirates
 
 **Book 1:** *Values and Citizenship Education — Grade 1 Teacher’s Handbook* (teacher guide, English) — Title as printed: Values and Citizenship Education — Grade 1 Teacher’s Handbook. Grade: Grade 1 (student/teacher: TEACHER). Publisher: Mauritius Institute of Education (MIE); year 2020; ISBN 978-99949-53-93-6. PDF pages: no PDF — read via FlipHTML5 flipbook (88 pages, printed pp. i–80); cover/imprint page verified against the record title (Lesson 14 "About my country" named in the record is present, printed p. 70). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Morals/Values pp. 2–59, 75–79; Civics/Citizenship (national symbols, country identity) pp. 62–74; Health (body care, named only, not placed) pp. 8–20. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mauritius-placements-b.md. Teacher guide — evidence only, outside the acceptance count. Staging note: the book exists only as a FlipHTML5 flipbook — no PDF file was downloadable, so there is no file to stage under the 2026-11-13 rule; the read is from the flipbook’s full text.
 
@@ -39,3 +39,17 @@ Cambodia's own way (Cambodia Grade 3 Science–Social G3): community living is t
 
 Registry note: the original coined string `culture-and-work/caring-for-one-another` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/caring-for-others`.
 
+
+United Arab Emirates placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *التربية الأخلاقية — الصف الأول — الفصل الدراسي الثاني (Moral Education — Grade 1 — Term 2), pilot edition (نسخة تجريبية)* (student book, Arabic) — Title as printed: التربية الأخلاقية — الصف الأول — الفصل الدراسي الثاني (Moral Education — Grade 1 — Term 2), pilot edition (نسخة تجريبية). Grade: Grade 1 (student/teacher: STUDENT). Publisher: Ministry of Education, United Arab Emirates; year 2017–2018 (1438–1439H), pilot edition; no ISBN printed. PDF pages: 81 (3,903,291 bytes; cover verified — reached through a Google Drive file embedded in the record's afedne library page). Earlier waves: not read before. Verdict: COMPLETE — civics track, read in full from renders; Unit 4's first lesson (caring for ourselves — the body and its cleanliness) is the Health strand and is named in the contents map, not placed. Contents map: Culture Unit 3 "Discovering the heritage of the United Arab Emirates through storytelling" (what do you know about storytelling?; traditional storytelling; discovering the Emirates' heritage through storytelling; the narrator; writing our own stories); Values Unit 4 "Care and honesty" (caring for ourselves [Health]; caring for others; caring for the school environment; being honest; exploring honesty through storytelling). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/united-arab-emirates-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| United Arab Emirates part — first-steps/caring-for-others — Unit 4, Lesson 2 "Caring for others" — teaches: how a child can show care (الاهتمام) for others, above all his family and his friends — care sorted into thoughts, feelings, words and deeds (الأفكار، العواطف، الكلمات، الأفعال); caring for friends at school; and the story of Jack, who decides to care for the new boy until he is no longer a stranger | United Arab Emirates Grade 1 Moral Education student book, Term 2, printed p. 41 (STUDENT) |
+
+**Acceptance count: taught in 3 countries (Tanzania, Cambodia, United Arab Emirates).** Mauritius is named here as teacher-guide evidence only, counted nowhere.
+
+United Arab Emirates' own way (Moral Education, G1 Term 2 student book): the youngest pupils meet their heritage as a story told by a grandmother — the date palm and its fruit become a symbol of the country's identity — and meet honesty the same way, explored through tales before it is ever stated as a rule. That way is stocked here as the way United Arab Emirates teaches this thing.
+
+Registry note: the original coined string `first-steps/caring-for-others` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/caring-for-others`.
