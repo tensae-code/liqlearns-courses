@@ -1,10 +1,12 @@
 # Sources — Staying Safe While Exercising
 
-countries: Ethiopia
+countries: Ethiopia, Tajikistan
 
 **Book 1:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–106 + front matter (114 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md.
 
 **Book 2:** *Grade 5 Health and Physical Education Teacher Guide* (የጤናና ሰውነት ማጎልመሻ ትምህርት የመምህር መምሪያ መጽሐፍ, አምስተኛ ክፍል) (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C., printed pp. 1–41 held of 80+ (48 PDF pages). Printed page = PDF page − 7. TRUNCATED — the file holds printed pp. 1–41 of 80+. Read in full, page by page, from 100 DPI renders (no text layer), in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-teacher-placements.md.
+
+**Book 3:** *Fizicheskaya Kultura (Physical Culture), Grades 1–4* — Title as printed: ФИЗИЧЕСКАЯ КУЛЬТУРА — Учебник для младших школьников I–IV классов общеобразовательной школы (Physical Culture — textbook for younger schoolchildren of grades I–IV of the general school); the imprint describes it as the textbook for grades 1–4 of schools with Tajik as the language of instruction (student book, Russian) — Tajikistan, МАОРИФ (Maorif), Dushanbe, 2020; authors Ш.А. Сафаров, Л.А. Губанова (Safarov, Gubanova); recommended by the Collegium of the Ministry of Education and Science of the Republic of Tajikistan; ISBN 978-99947-1-523-7; PDF pages: 192 (cover/title page verified against the record title; downloaded 15,996,008 B against the record's 15.3 MB). Verdict: COMPLETE (Health parts) — the whole book was read in full; named but not placed, as filed: the closing per-grade study-norm tables for classes I–IV and the self-check section are the book's own assessment (excluded), and the closing "Physical-Culture ABC" is a glossary (inventory-only). Tally (Health parts): 4 placements — 3 to existing lessons, 1 NEW LESSON NEEDED. Tajikistan's own way: health knowledge opens the book before any sport — personal hygiene, hardening by sun, air and water, the right clothes for sport, and first aid for injuries are Part 1 theory every child reads first. Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/tajikistan-health-placements.md (full header in tajikistan-pe-placements.md, Book 1).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -12,11 +14,14 @@ countries: Ethiopia
 | Sub lesson 2 — Clothes, place, warm-up — the safety check (teacher guide — evidence) | Ethiopia, *Grade 5 Teacher Guide*, §1.2, printed pp. 5–6 |
 | Prove-it questions folded from the book's own Chapter 1 summary exercises — Sub lesson 1 | Ethiopia, *Grade 5 Student Textbook*, Chapter 1 summary exercises (the precautions before, during and after exercise), printed p. 7 |
 | Prove-it questions folded from the book's own Chapter 1 review — Sub lesson 2 (teacher guide — evidence) | Ethiopia, *Grade 5 Teacher Guide*, Chapter 1 summary + assessment answers (the safety written answer), printed pp. 10–11 (teacher guide — evidence) |
+| Tajikistan — Part 1, Your Sports Clothing — choosing and wearing the right clothing for sports activities | Tajikistan, *Fizicheskaya Kultura (Physical Culture), Grades 1–4*, Part 1, Your Sports Clothing, printed pp. ~50–55 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Tajikistan).**
+
+Tajikistan is added as student-book stock (see its book line above), inside the acceptance count. The Tajikistan placement was filed under the slug `staying-safe/staying-safe-while-exercising`, this lesson itself.
 
 The Grade 5 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
 The Grade 5 teacher guide is a TRUNCATED scan: the file holds printed pp. 1–41 of 80+. Missing from the file: the rest of §4.3, Chapter 5 Gymnastics (pp. 44–56), Chapter 6 Ball-game receiving skills (pp. 57–77) and Chapter 7 traditional movements and games (pp. 78–80+). Parts resting on this guide are labelled (teacher guide — evidence) and never count as pupil-taught.
 
-Searchable tags: staying safe while exercising, exercise precautions ጥንቃቄዎች, warm-up, cool-down, sport kit, injury prevention, safety check, Ethiopia HPE Grade 5
+Searchable tags: staying safe while exercising, exercise precautions ጥንቃቄዎች, warm-up, cool-down, sport kit, injury prevention, safety check, Ethiopia HPE Grade 5, sports clothing, right clothes for sport, Tajikistan Physical Culture Grades 1-4

@@ -113,6 +113,17 @@ placements file; these 4 placements are PE-phase
 carry-forwards from united-kingdom-pe-placements.md,
 resolved to Health lessons by the Health slug registry.
 
+**Health expansion — Tajikistan — BUILT 2026-11-16:** 4 placements
+from Tajikistan's *Fizicheskaya Kultura (Physical Culture),
+Grades 1–4* (student book, Russian, МАОРИФ (Maorif), Dushanbe,
+2020) stocked — 3 into existing lessons (Hygiene for Sport,
+Staying Safe While Exercising, Preventing Sports Injuries and
+First Aid) and 1 as a new lesson (Hardening the Body) —
+bringing this course to **14 lessons**. The Tajikistan book
+is a student book, so Tajikistan is student-book stock, inside
+the acceptance counts; the new lesson stands at acceptance
+count 1, and each existing lesson it touches rose by 1 country.
+
 ## Unit 1 — Staying Safe
 
 1. **Hygiene for Sport — Wash After Exercise** (`staying-safe/hygiene-for-sport`) — personal hygiene around sport: sweat and dirt left unwashed become a breeding place for bacteria — so wash the body after PE and sport, keep sports…
@@ -126,6 +137,7 @@ resolved to Health lessons by the Health slug registry.
 7. **The Body Systems** (`staying-safe/the-body-systems`) — the body systems: skeleton, muscles, digestion, breathing, circulation, nerves, glands, urinary and reproductive systems — how each works — taught in Croatia's vocational Čovjek i zdravlje (student book, publisher SAMPLE) as how the body is built from cells through tissues and organs to organ systems, and blood and its cells as the body's transport and defence system.
 8. **What Health Is** (`staying-safe/what-health-is`) — what health is: complete physical, mental and social well-being — and the dimensions and factors that make it up — taught in the United Kingdom's Edexcel GCSE PE Student Book as physical, emotional and social health, fitness and well-being, and the benefits of physical activity for each kind of health.
 9. **Diseases of Inactivity** (`staying-safe/diseases-of-inactivity`) — diseases of inactivity: the hypokinetic diseases of sitting still — heart disease, hypertension, obesity and diabetes — and how activity prevents them — taught in the United Kingdom's Edexcel GCSE PE Student Book as the consequences of a sedentary lifestyle, and obesity and body types (somatotypes).
+10. **Hardening the Body** (`staying-safe/hardening-the-body`) — hardening the body: using air, sun, water and natural terrain to harden the body and build fitness, safely — taught in Tajikistan's Grades 1–4 Physical Culture book as sun, air and water — our best friends (including walking barefoot on grass and sand in summer), and water and the drinking regime — how much water to drink and when.
 
 ## Unit 2 — Fair Play and the Body
 

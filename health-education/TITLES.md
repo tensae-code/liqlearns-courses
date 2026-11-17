@@ -32,3 +32,7 @@ carry-forward): **What Health Is**
 (`staying-safe/diseases-of-inactivity`) and **The Athlete's
 Mind** (`fair-play-and-the-body/the-athletes-mind`) — 3 new
 lessons, bringing this course to 13 lessons.
+
+The Health expansion then added (Tajikistan): **Hardening
+the Body** (`staying-safe/hardening-the-body`) — 1 new lesson,
+bringing this course to 14 lessons.
