@@ -1,6 +1,6 @@
 # Sources — Running Basics
 
-countries: Ethiopia, Samoa, Thailand, El Salvador, Philippines, Nicaragua, Maldives, Belize, Honduras, Fiji, North Macedonia, Zimbabwe, Jordan, Cuba, Kuwait, Oman, Papua New Guinea
+countries: Ethiopia, Samoa, Thailand, El Salvador, Philippines, Nicaragua, Maldives, Belize, Honduras, Fiji, North Macedonia, Zimbabwe, Jordan, Cuba, Kuwait, Oman, Papua New Guinea, Sri Lanka
 
 **Book — Grade 1 student:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 81 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md. COMPLETE.
 
@@ -24,7 +24,7 @@ countries: Ethiopia, Samoa, Thailand, El Salvador, Philippines, Nicaragua, Maldi
 | Speed runs and ladder feet — Grade 8 | Ethiopia, Grade 8 student §3.5 Speed, printed pp. 33–35 |
 | Samoa — Fundamental movement, Year 1 — basic locomotive skills in space, in motion and for stability, and the different body parts and how they move (curriculum statement — evidence) (original target `moving-basics/running-basics`) | Samoa, *Health and Physical Education, Years 1–8, Primary School Curriculum* (Samoa Years 1–8 Curriculum), printed p. 26 |
 | Thailand — Unit 7 (part 1) Travelling movement — what travelling movement means, and running in a set direction with correct running posture (student book — MAC sample, PARTIAL) (original target `moving-basics/running-basics`) | Thailand, *Health & PE, Grade 2* (Thailand Grade 2 MAC Health & PE), Unit 7 (part 1), printed pp. 117–121 |
-**Acceptance count: taught in 5 countries (Ethiopia, Thailand, Philippines, North Macedonia, Jordan).** Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Samoa is added as curriculum-statement evidence only (see its row above), named in the countries line but outside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as teacher-guide evidence only (see its Honduras section below), named in the countries line but outside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Zimbabwe is added as teacher-guide evidence only (see its Zimbabwe section below), named in the countries line but outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count.
+**Acceptance count: taught in 6 countries (Ethiopia, Thailand, Philippines, North Macedonia, Jordan, Sri Lanka).** Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Samoa is added as curriculum-statement evidence only (see its row above), named in the countries line but outside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as teacher-guide evidence only (see its Honduras section below), named in the countries line but outside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Zimbabwe is added as teacher-guide evidence only (see its Zimbabwe section below), named in the countries line but outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count.
 
 The Grade 1 teacher guide scan is TRUNCATED: it holds printed pp. 1–43 of 85+. Missing: the rest of §4.2, §4.3 Stretching and flexibility (p. 47), §4.4 Agility (p. 53), all of Chapter 5 Gymnastics (pp. 59–78) and all of Chapter 6 (pp. 79–85+). Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
 
@@ -369,3 +369,50 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/papua-new-gu
 | Papua New Guinea — Guided lesson 6: Shuttle Race — shuttle running as a movement-skills race (teacher guide — evidence) (original target `moving-basics/running-basics`) | Papua New Guinea, *Physical Education Teacher Guide, Primary Grade 3, Standards Based* (Papua New Guinea PE TG Grade 3), printed p. 43 |
 
 Papua New Guinea's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Papua New Guinea's own way is content, as the book lines above record it: PE organised in three strands — Safety, Movement, Physical Activity — in the primary guides, merging with Health into one six-strand subject from Grade 6, taught through village games, community modified sports and tabloid-sport station carnivals, with traditional leisure games, Tok Pisin-named modified sports (Kapul Soka, Tibol, Liklik Kriket, Mini Basketbol, Mini Volibol) and local leisure (gardening, fishing, sailing, sekapu stone games, string games) counted as PE content. Teacher guides are evidence of what is taught, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Sri Lanka — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/sri-lanka-pe-placements.md. The Sri Lanka books stocked in this lesson are Book 1, Book 7, Book L11. Sri Lanka is student-book stock, inside the acceptance count, in this lesson. The teacher guides among them (Book L11) are evidence only, outside the acceptance counts; Sri Lanka enters this lesson's acceptance count through its student books (Book 1, Book 7). Sri Lanka's own way is content, as the book lines below record it: Health and Physical Education is one combined subject in Sri Lanka, taught in English, Sinhala and Tamil media, with volleyball as the national game, Sri Lankan folk games, the country's own game Elle, and a full outdoor-education strand. The Health parts of these combined books are placed in sri-lanka-health-placements.md (Health course).
+
+**Book — Sri Lanka Book 1 — Grade 7 HPE English (student book, English):**
+## Book 1 — Grade 7 HPE English (student book, English)
+- Title as printed: Health and Physical Education, Grade 7
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; year 2015 (fifth print 2019); ISBN 978-955-25-0112-8
+- PDF pages: 186 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 15 placements — 9 to existing lessons, 6 NEW LESSON NEEDED
+- Sri Lanka's own way: Health and PE taught as one combined subject; each chapter opens with what Grade 6 covered, then "Let us learn more / put it into practice / test our knowledge"; volleyball is taught as the national game and Sri Lankan folk games get a full chapter.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch.8 Let us train for athletics — correct leg and arm action in running and running drills | Sri Lanka Grade 7 HPE English, printed p. 75 |
+
+**Book — Sri Lanka Book 7 — Grade 8 HPE Tamil (student book, Tamil):**
+## Book 7 — Grade 8 HPE Tamil (student book, Tamil)
+- Title as printed: Health and Physical Education (சுகாதாரமும் உடற்கல்வியும்), Grade 8 [Tamil cover verified]
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; year 2021 (per record); ISBN no ISBN printed in the pages sampled
+- PDF pages: 214 (cover and contents verified against the record title; downloaded from the record's own Noolaham source after the GitHub tree route returned 404 — see group log, library debt note)
+- Verdict: PARTIAL — image-only Tamil scan (Noolaham digitization): cover, full contents (14 chapters) and chapter openings (Ch. 1, 2, 5) read from rendered pages and placed at chapter level; not every interior page was read
+- Tally: 10 placements — 8 to existing lessons, 2 NEW LESSON NEEDED
+- Sri Lanka's own way: The Tamil-medium edition of the same EPD series: Grade 8 adds school marching drill (turns), sprint starts, and reproductive health, between Grade 7's folk games and Grade 9's outdoor education.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch.9 Let us learn running exercises — running drills and exercises | Sri Lanka Grade 8 HPE Tamil, printed p. 97 |
+
+**Book — Sri Lanka Book L11 — G7 TG 2016 English + Tamil (teacher guide, English/Tamil parallel editions) [group lk-l]:**
+## Book L11 — G7 TG 2016 English + Tamil (teacher guide, English/Tamil parallel editions) [group lk-l]
+- Title as printed: Health and Physical Education — Teacher's Guide, Grade 7 (effective from 2016)
+- Grade: 7 (student/teacher: TEACHER)
+- Publisher: National Institute of Education; 2016; no ISBN printed
+- PDF pages: English 129, Tamil 128 (covers verified; nie.lk records e7tim155 / t7tim155 in targets-lk-l)
+- Verdict: COMPLETE — English edition read (syllabus + term guidelines); Tamil edition is its parallel (contents and structure spot-checked, matching). The guide teaches the same content as the Grade 7 student book (placed by lk-t, Book 1) with lesson-by-lesson teaching guidance; placements below record the guide's own competency structure.
+- Tally: 5 placements — 3 to existing lessons, 2 NEW LESSON NEEDED (Health parts filed in the Health placements file, Book L11)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Competency 5 — teaching running: drills that can be used for running practice | Sri Lanka Grade 7 G7 TG 2016 English, syllabus printed pp. xi–xxxii |
+
+Sri Lanka's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Sri Lanka is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

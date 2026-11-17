@@ -1,6 +1,6 @@
 # Sources — How Training Works
 
-countries: Ethiopia, Namibia, Turkmenistan, Samoa, Timor-Leste, United Kingdom, Thailand, China, El Salvador, Philippines, Nicaragua, Azerbaijan, Maldives, Honduras, Fiji, Mauritius, Iran, North Macedonia, Malaysia, Cuba, Kuwait, Indonesia, Oman, Papua New Guinea
+countries: Ethiopia, Namibia, Turkmenistan, Samoa, Timor-Leste, United Kingdom, Thailand, China, El Salvador, Philippines, Nicaragua, Azerbaijan, Maldives, Honduras, Fiji, Mauritius, Iran, North Macedonia, Malaysia, Cuba, Kuwait, Indonesia, Oman, Papua New Guinea, Sri Lanka
 
 **Book — Grade 8 student:** *Grade 8 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 98 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g08-student-placements.md. COMPLETE.
 **Book — Grade 9 student:** *Health and Physical Education Student's Textbook Grade 9* (student textbook, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, First Published August 2023, ISBN 978-99990-0-072-7, 156 printed pp. Printed page = PDF page − 10. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g09-student-placements.md. COMPLETE.
@@ -43,7 +43,7 @@ countries: Ethiopia, Namibia, Turkmenistan, Samoa, Timor-Leste, United Kingdom, 
 | United Kingdom — Component 1 Topic 3.4: The long-term effects of exercise — lasting adaptations of the body systems to training (original target `fitness-and-stretching/how-training-works`) | United Kingdom, *Edexcel GCSE (9-1) Physical Education Student Book, 2nd edition* (United Kingdom GCSE Edexcel PE Student Book), Component 1 Topic 3.4, printed p. 97 |
 | United Kingdom — Component 4: Personal Exercise Programme (PEP) — planning, carrying out, monitoring and evaluating a six-week personal training programme (original target `fitness-and-stretching/how-training-works`) | United Kingdom, *Edexcel GCSE (9-1) Physical Education Student Book, 2nd edition* (United Kingdom GCSE Edexcel PE Student Book), Component 4, printed p. 196 |
 | Thailand — Unit 3, Ch. 3 Developing physical fitness — testing your physical fitness and improving it according to your test results (student book — SSR flipbook sample, PARTIAL) (original target `fitness-and-stretching/how-training-works`) | Thailand, *Health & PE, Grade 5* (Thailand Grade 5 SSR Health & PE), Unit 3, Ch. 3, printed p. 78 |
-**Acceptance count: taught in 16 countries (Ethiopia, Turkmenistan, Timor-Leste, United Kingdom, Thailand, China, Philippines, Nicaragua, Azerbaijan, Honduras, Fiji, Mauritius, Iran, North Macedonia, Malaysia, Indonesia).** Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Namibia is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Turkmenistan is added as student-book stock (see its row above), inside the acceptance count. Samoa is added as curriculum-statement and teacher-guide evidence only (see its rows above), named in the countries line but outside the acceptance count. Timor-Leste is added as student-book stock (see its row above), inside the acceptance count. United Kingdom is added as student-book stock (see its rows above), inside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; the Fiji teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count; the Mauritius teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count.
+**Acceptance count: taught in 17 countries (Ethiopia, Turkmenistan, Timor-Leste, United Kingdom, Thailand, China, Philippines, Nicaragua, Azerbaijan, Honduras, Fiji, Mauritius, Iran, North Macedonia, Malaysia, Indonesia, Sri Lanka).** Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Namibia is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Turkmenistan is added as student-book stock (see its row above), inside the acceptance count. Samoa is added as curriculum-statement and teacher-guide evidence only (see its rows above), named in the countries line but outside the acceptance count. Timor-Leste is added as student-book stock (see its row above), inside the acceptance count. United Kingdom is added as student-book stock (see its rows above), inside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; the Fiji teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count; the Mauritius teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count.
 
 The Grade 9 books are the English federal 2023 GEQIP-E series (the Grades 1–8 books are Amharic-medium); Grade 9–10 target terms are given as the books print them, in English. The Grade 9 teacher guide is COMPLETE.
 
@@ -755,3 +755,90 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/papua-new-gu
 | Papua New Guinea — Strand 2 (Physical Activity) Unit 1, Topics 29–30: benefits of physical activities; the relationship between physical activity and health (teacher guide — evidence) (original target `fitness-and-stretching/how-training-works`) | Papua New Guinea, *Physical Education Teacher Guide, Senior High Grade 11, Standards-Based* (Papua New Guinea PE TG Grade 11), printed p. 47 |
 
 Papua New Guinea's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Papua New Guinea's own way is content, as the book lines above record it: PE organised in three strands — Safety, Movement, Physical Activity — in the primary guides, merging with Health into one six-strand subject from Grade 6, taught through village games, community modified sports and tabloid-sport station carnivals, with traditional leisure games, Tok Pisin-named modified sports (Kapul Soka, Tibol, Liklik Kriket, Mini Basketbol, Mini Volibol) and local leisure (gardening, fishing, sailing, sekapu stone games, string games) counted as PE content. Teacher guides are evidence of what is taught, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Sri Lanka — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/sri-lanka-pe-placements.md. The Sri Lanka books stocked in this lesson are Book 1, Book 2, Book 3, Book L6, Book L13, Book L16. Sri Lanka is student-book stock, inside the acceptance count, in this lesson. The teacher guides among them (Book 3, Book L13, Book L16) are evidence only, outside the acceptance counts; Sri Lanka enters this lesson's acceptance count through its student books (Book 1, Book 2, Book L6). Sri Lanka's own way is content, as the book lines below record it: Health and Physical Education is one combined subject in Sri Lanka, taught in English, Sinhala and Tamil media, with volleyball as the national game, Sri Lankan folk games, the country's own game Elle, and a full outdoor-education strand. The Health parts of these combined books are placed in sri-lanka-health-placements.md (Health course).
+
+**Book — Sri Lanka Book 1 — Grade 7 HPE English (student book, English):**
+## Book 1 — Grade 7 HPE English (student book, English)
+- Title as printed: Health and Physical Education, Grade 7
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; year 2015 (fifth print 2019); ISBN 978-955-25-0112-8
+- PDF pages: 186 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 15 placements — 9 to existing lessons, 6 NEW LESSON NEEDED
+- Sri Lanka's own way: Health and PE taught as one combined subject; each chapter opens with what Grade 6 covered, then "Let us learn more / put it into practice / test our knowledge"; volleyball is taught as the national game and Sri Lankan folk games get a full chapter.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch.13 Physical fitness — developing fitness through natural activities (running, jumping, throwing) and fitness tests | Sri Lanka Grade 7 HPE English, printed p. 140 |
+
+**Book — Sri Lanka Book 2 — Grade 9 HPE English (student book, English):**
+## Book 2 — Grade 9 HPE English (student book, English)
+- Title as printed: Health and Physical Education, Grade 9 (this copy opens at Chapter 1, printed p. 1; no cover/imprint pages in the file)
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department (inferred from the series; not printed in this copy); year not printed in this copy; ISBN no ISBN printed
+- PDF pages: 211 (first page verified as the book's own Chapter 1 against the record title; glossary and lesson sequence at the end confirm the full 21-chapter book)
+- Verdict: PARTIAL — front cover/imprint pages missing from this copy; all 21 teaching chapters present
+- Tally: 17 placements — 11 to existing lessons, 6 NEW LESSON NEEDED
+- Sri Lanka's own way: Outdoor education is a full strand (organized games, knots and lashings, bonfires, outdoor cooking); athletics is taught event by event (relay, long jump, high jump, throws) and ball games progress to advanced skills (spiking/blocking, attacking/defending).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch.12 Health related physical fitness — developing health-related fitness through activity, warm-up and warm-down | Sri Lanka Grade 9 HPE English, printed p. 116 |
+
+**Book — Sri Lanka Book 3 — Grade 9 HPE Teacher Guide English 2018 (teacher guide, English):**
+## Book 3 — Grade 9 HPE Teacher Guide English 2018 (teacher guide, English)
+- Title as printed: Health and Physical Education — Teachers' Guide, Grade 09 (implemented from 2018). NOTE: the record title calls it a "Health Teacher Guide" and lists health only, but the printed book is the full Health AND Physical Education guide, so it is filed into both courses.
+- Grade: 9 (student/teacher: TEACHER)
+- Publisher: National Institute of Education (Health & Physical Education Unit, Department of Science); year 2018 (first print 2018); ISBN no ISBN printed
+- PDF pages: 172 (cover/title page verified against the record title; downloaded from the record's own NIE source after the GitHub tree route returned 404 — see group log, library debt note)
+- Verdict: COMPLETE
+- Tally: 13 placements — 8 to existing lessons, 5 NEW LESSON NEEDED
+- Sri Lanka's own way: A competency-based guide: 10 competencies with numbered levels, term-by-term lesson plans, quality inputs and activities for the matching Grade 9 student book.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Competency 9.1 — developing health-related fitness factors (guide's teaching sequence) | Sri Lanka Grade 9 HPE TG English 2018, printed pp. 43–86 |
+
+**Book — Sri Lanka Book L6 — G9 HPE Sinhala + Tamil (student book, Sinhala/Tamil parallel editions) [group lk-l]:**
+## Book L6 — G9 HPE Sinhala + Tamil (student book, Sinhala/Tamil parallel editions) [group lk-l]
+- Title as printed: Health and Physical Education — Grade 9 (Sinhala medium; Tamil medium)
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; Sinhala ed. ISBN 978-955-25-0371-9 (first print 2017); Tamil ed. ISBN 978-955-25-0169-2 (first print 2017)
+- PDF pages: Sinhala 222, Tamil 244 (covers verified; archive.org records 27/28 in targets-lk-l, the Tamil book being the same as the edupub.gov.lk record 5 — identical 59.0 MB — read once from archive.org)
+- Verdict: COMPLETE — parallel editions (21 chapters, same order in both, contents cross-checked); read via contents and chapter sampling in both editions (English glosses throughout: knots and lashings, jump techniques, gender terms)
+- Tally: 14 placements — 10 to existing lessons, 4 NEW LESSON NEEDED (Health parts filed in the Health placements file, Book L6)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 13 — facing the physical fitness test: warming up, push-ups and the standing long jump test | Sri Lanka Grade 9 G9 Sinhala/Tamil student book, printed p. 125 |
+
+**Book — Sri Lanka Book L13 — G8 TG new 2017 English + Tamil (teacher guide, English/Tamil parallel editions) [group lk-l]:**
+## Book L13 — G8 TG new 2017 English + Tamil (teacher guide, English/Tamil parallel editions) [group lk-l]
+- Title as printed: Health and Physical Education — Teacher's Guide, Grade 8 (new)
+- Grade: 8 (student/teacher: TEACHER)
+- Publisher: National Institute of Education; 2017; no ISBN printed
+- PDF pages: English 133, Tamil 148 (covers verified; nie.lk records Health_TG_Gr_8_English_new / Health_TG_8_Tamil_new in targets-lk-l; first downloads arrived truncated and corrupt — resumed to full byte size and verified)
+- Verdict: COMPLETE — English edition read (syllabus competencies 1–10 + term guidelines pp. 3–97); Tamil parallel spot-checked.
+- Tally: 6 placements — 4 to existing lessons, 2 NEW LESSON NEEDED (Health parts filed in the Health placements file, Book L13)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Competency 9 — teaching physical fitness: fitness factors and developing them | Sri Lanka Grade 8 G8 TG 2017 English, syllabus printed p. xi ff. |
+
+**Book — Sri Lanka Book L16 — G11 TG 2016 English + Tamil (teacher guide, English/Tamil parallel editions) [group lk-l]:**
+## Book L16 — G11 TG 2016 English + Tamil (teacher guide, English/Tamil parallel editions) [group lk-l]
+- Title as printed: Health and Physical Education — Teacher's Guide, Grade 11 (effective from 2016)
+- Grade: 11 (student/teacher: TEACHER)
+- Publisher: National Institute of Education; 2016; no ISBN printed
+- PDF pages: English 109, Tamil 146 (covers verified; nie.lk records e11tim155 / t11tim155 in targets-lk-l)
+- Verdict: COMPLETE — English edition read (syllabus + term guidelines pp. 2–84); Tamil parallel spot-checked.
+- Tally: 5 placements — 3 to existing lessons, 2 NEW LESSON NEEDED (Health parts filed in the Health placements file, Book L16)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Competency 9 — teaching health- and motor-skill-related fitness | Sri Lanka Grade 11 G11 TG 2016 English, syllabus printed pp. xi–xxiii |
+
+Sri Lanka's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Sri Lanka is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

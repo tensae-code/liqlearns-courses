@@ -1,8 +1,8 @@
 # Sources — Fair Play and Sporting Character
 
-countries: China, Maldives, Fiji, Indonesia
+countries: China, Maldives, Fiji, Indonesia, Sri Lanka
 
-**Acceptance count: taught in 2 countries (China, Indonesia).** China is student-book stock (see its rows below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count; the Indonesia teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
+**Acceptance count: taught in 3 countries (China, Indonesia, Sri Lanka).** China is student-book stock (see its rows below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count; the Indonesia teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count.
 
 ## China — PE expansion 2026-11-16
 
@@ -109,3 +109,75 @@ Indonesia's placements in this lesson were filed under the original strings reco
 This is a canonical NEW lesson (slug-registry Part 1: `sport-and-its-story/fair-play-and-sporting-character` — Fair play and sporting character: why sport needs rules, sporting spirit, ethics, codes of conduct and equal participation.); Indonesia's placements were filed under the original strings recorded in the provenance rows above, resolved by registry Part 2 to this canonical slug where the string differs. Indonesia is student-book stock, inside the acceptance count, in this lesson; the Indonesia teacher guides stocked here are teacher-guide evidence only, outside the acceptance count.
 
 Searchable tags: fair play and sporting character, Indonesia, PJOK G10 Student, PJOK G10 Teacher
+
+## Sri Lanka — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/sri-lanka-pe-placements.md. The Sri Lanka books stocked in this lesson are Book L2, Book L3, Book L11, Book L13, Book L17. Sri Lanka is student-book stock, inside the acceptance count, in this lesson. The teacher guides among them (Book L11, Book L13, Book L17) are evidence only, outside the acceptance counts; Sri Lanka enters this lesson's acceptance count through its student books (Book L2, Book L3). Sri Lanka's own way is content, as the book lines below record it: Health and Physical Education is one combined subject in Sri Lanka, taught in English, Sinhala and Tamil media, with volleyball as the national game, Sri Lankan folk games, the country's own game Elle, and a full outdoor-education strand. The Health parts of these combined books are placed in sri-lanka-health-placements.md (Health course).
+
+**Book — Sri Lanka Book L2 — G10 English Chapter 6 only (student book, English) [group lk-l]:**
+## Book L2 — G10 English Chapter 6 only (student book, English) [group lk-l]
+- Title as printed: Health and Physical Education — Grade 10, Chapter 6 "Let us adhere to rules, regulations and ethics in sports"
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; year not printed in the chapter file; no ISBN printed in the chapter file
+- PDF pages: 16 (first page verified visually: chapter opening, printed p. 111; file runs printed pp. 111–126)
+- Verdict: PARTIAL — the edupub record serves Chapter 6 only, not the whole Grade 10 English book
+- Tally: 3 placements — 1 to an existing lesson, 2 NEW LESSON NEEDED (the doping part is filed in the Health placements file, Book L2)
+- Sri Lanka's own way: sports ethics is taught through real match stories of fair play (a West Indies bowler's sportsmanship against Pakistan is the chapter's worked example).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 6, "Rules and regulations in sports" / "The need for rules and regulations in sports" — what sports rules are, who makes them, and why sport needs them: ethics, fair play, protecting participants, spectators and officials (original target `sport-and-its-story/sports-rules-ethics-and-fair-play`) | Sri Lanka Grade 10 G10 English student book Ch. 6, printed p. 111 |
+
+**Book — Sri Lanka Book L3 — G6 HPE Sinhala + Tamil (student book, Sinhala/Tamil parallel editions) [group lk-l]:**
+## Book L3 — G6 HPE Sinhala + Tamil (student book, Sinhala/Tamil parallel editions) [group lk-l]
+- Title as printed: Health and Physical Education — Grade 6 (Sinhala medium; Tamil medium)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; Sinhala ed. ISBN 978-955-25-0261-3; Tamil ed. ISBN 978-955-25-0085-5 (prints 2014–2019)
+- PDF pages: Sinhala 158, Tamil 184 (covers/title pages verified against the record titles; the two archive.org records 6 and 7 in targets-lk-l)
+- Verdict: COMPLETE — parallel language editions of one book: Tamil edition read in full via text (chapter headings carry English glosses), Sinhala edition contents and spreads spot-checked and matching chapter for chapter; placed once, both editions named here
+- Tally: 6 placements — 3 to existing lessons, 3 NEW LESSON NEEDED (Health parts filed in the Health placements file, Book L3)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 6 — playing games according to rules and regulations (PE side of the rules-and-ethics lesson) (original target `sport-and-its-story/sports-rules-ethics-and-fair-play`) | Sri Lanka Grade 6 G6 Sinhala/Tamil student book, printed p. 91 |
+
+**Book — Sri Lanka Book L11 — G7 TG 2016 English + Tamil (teacher guide, English/Tamil parallel editions) [group lk-l]:**
+## Book L11 — G7 TG 2016 English + Tamil (teacher guide, English/Tamil parallel editions) [group lk-l]
+- Title as printed: Health and Physical Education — Teacher's Guide, Grade 7 (effective from 2016)
+- Grade: 7 (student/teacher: TEACHER)
+- Publisher: National Institute of Education; 2016; no ISBN printed
+- PDF pages: English 129, Tamil 128 (covers verified; nie.lk records e7tim155 / t7tim155 in targets-lk-l)
+- Verdict: COMPLETE — English edition read (syllabus + term guidelines); Tamil edition is its parallel (contents and structure spot-checked, matching). The guide teaches the same content as the Grade 7 student book (placed by lk-t, Book 1) with lesson-by-lesson teaching guidance; placements below record the guide's own competency structure.
+- Tally: 5 placements — 3 to existing lessons, 2 NEW LESSON NEEDED (Health parts filed in the Health placements file, Book L11)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Competency 6 — teaching conformity to the rules and regulations of sports and social values (PE side) (original target `sport-and-its-story/sports-rules-ethics-and-fair-play`) | Sri Lanka Grade 7 G7 TG 2016 English, syllabus printed pp. xi–xxxii |
+
+**Book — Sri Lanka Book L13 — G8 TG new 2017 English + Tamil (teacher guide, English/Tamil parallel editions) [group lk-l]:**
+## Book L13 — G8 TG new 2017 English + Tamil (teacher guide, English/Tamil parallel editions) [group lk-l]
+- Title as printed: Health and Physical Education — Teacher's Guide, Grade 8 (new)
+- Grade: 8 (student/teacher: TEACHER)
+- Publisher: National Institute of Education; 2017; no ISBN printed
+- PDF pages: English 133, Tamil 148 (covers verified; nie.lk records Health_TG_Gr_8_English_new / Health_TG_8_Tamil_new in targets-lk-l; first downloads arrived truncated and corrupt — resumed to full byte size and verified)
+- Verdict: COMPLETE — English edition read (syllabus competencies 1–10 + term guidelines pp. 3–97); Tamil parallel spot-checked.
+- Tally: 6 placements — 4 to existing lessons, 2 NEW LESSON NEEDED (Health parts filed in the Health placements file, Book L13)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Competency 6 — teaching sports in a socialised way: evolution of sports rules and sporting values (PE side) (original target `sport-and-its-story/sports-rules-ethics-and-fair-play`) | Sri Lanka Grade 8 G8 TG 2017 English, syllabus printed p. xi ff. |
+
+**Book — Sri Lanka Book L17 — G6 TG 2015 Tamil (teacher guide, Tamil) [group lk-l]:**
+## Book L17 — G6 TG 2015 Tamil (teacher guide, Tamil) [group lk-l]
+- Title as printed: Health & Physical Education — Teacher's Guide, Grade 6 (new, 2015; Tamil medium)
+- Grade: 6 (student/teacher: TEACHER)
+- Publisher: National Institute of Education; 2015; no ISBN printed
+- PDF pages: 133 (cover verified; nie.lk record t6tim116 in targets-lk-l)
+- Verdict: COMPLETE — Tamil guide read via contents, syllabus structure and term guidelines (same 10-competency framework as the other new-syllabus guides); it guides the Grade 6 student book placed as Book L3.
+- Tally: 4 placements — 2 to existing lessons, 2 NEW LESSON NEEDED (Health parts filed in the Health placements file, Book L17)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — rules competency — teaching play according to rules and regulations (PE side) (original target `sport-and-its-story/sports-rules-ethics-and-fair-play`) | Sri Lanka Grade 6 G6 TG 2015 Tamil, syllabus |
+
+Sri Lanka's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Sri Lanka is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

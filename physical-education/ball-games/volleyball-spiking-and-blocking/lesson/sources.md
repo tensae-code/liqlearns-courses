@@ -1,8 +1,8 @@
 # Sources — Volleyball Spiking and Blocking
 
-countries: Afghanistan, Kuwait
+countries: Afghanistan, Kuwait, Sri Lanka
 
-**Acceptance count: taught in 0 countries.** Afghanistan is teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count — this lesson is founded on Afghanistan's teacher guides only, and no pupil's book is in hand for it. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 1 country (Sri Lanka).** Afghanistan is teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count — this lesson is founded on Afghanistan's teacher guides only, and no pupil's book is in hand for it. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count.
 
 ## Afghanistan — PE expansion 2026-11-16
 
@@ -62,3 +62,23 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/kuwait-pe-pl
 | Kuwait — Volleyball course, Weeks 4–6: linking the set to the attacking hit, linking set–spike–block, and practical applied games (teacher guide — evidence) (original target `ball-games/volleyball-attacking-and-blocking`) | Kuwait Grade 10 PE TG (1st ed.), printed pp. 195–205 |
 
 Kuwait's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Kuwait is teacher-guide evidence only, outside the acceptance count, in this lesson. Kuwait's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Sri Lanka — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/sri-lanka-pe-placements.md. The Sri Lanka books stocked in this lesson are Book 2. Sri Lanka is student-book stock, inside the acceptance count, in this lesson. Sri Lanka's own way is content, as the book lines below record it: Health and Physical Education is one combined subject in Sri Lanka, taught in English, Sinhala and Tamil media, with volleyball as the national game, Sri Lankan folk games, the country's own game Elle, and a full outdoor-education strand. The Health parts of these combined books are placed in sri-lanka-health-placements.md (Health course).
+
+**Book — Sri Lanka Book 2 — Grade 9 HPE English (student book, English):**
+## Book 2 — Grade 9 HPE English (student book, English)
+- Title as printed: Health and Physical Education, Grade 9 (this copy opens at Chapter 1, printed p. 1; no cover/imprint pages in the file)
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department (inferred from the series; not printed in this copy); year not printed in this copy; ISBN no ISBN printed
+- PDF pages: 211 (first page verified as the book's own Chapter 1 against the record title; glossary and lesson sequence at the end confirm the full 21-chapter book)
+- Verdict: PARTIAL — front cover/imprint pages missing from this copy; all 21 teaching chapters present
+- Tally: 17 placements — 11 to existing lessons, 6 NEW LESSON NEEDED
+- Sri Lanka's own way: Outdoor education is a full strand (organized games, knots and lashings, bonfires, outdoor cooking); athletics is taught event by event (relay, long jump, high jump, throws) and ball games progress to advanced skills (spiking/blocking, attacking/defending).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch.5 Let us play volleyball — spiking and blocking technique and practice activities | Sri Lanka Grade 9 HPE English, printed p. 37 |
+
+Sri Lanka's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Sri Lanka is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

@@ -1,8 +1,8 @@
 # Sources — Organising Competitions and Events
 
-countries: Pakistan, Fiji, Mauritius, Iran, Papua New Guinea
+countries: Pakistan, Fiji, Mauritius, Iran, Papua New Guinea, Sri Lanka
 
-**Acceptance count: taught in 3 countries (Pakistan, Fiji, Iran).** Pakistan is student-book stock (see its rows below), inside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count. Mauritius is added as teacher-guide evidence only (see its Mauritius section below), named in the countries line but outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count.
+**Acceptance count: taught in 4 countries (Pakistan, Fiji, Iran, Sri Lanka).** Pakistan is student-book stock (see its rows below), inside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count. Mauritius is added as teacher-guide evidence only (see its Mauritius section below), named in the countries line but outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count.
 
 ## Pakistan — PE expansion 2026-11-16
 
@@ -107,3 +107,50 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/papua-new-gu
 | Papua New Guinea — Strand 2 Unit 3 Sports Organization, Topics 37–38: national and international sport competitions in and outside the country (teacher guide — evidence) (original target `sport-and-its-story/national-and-international-competitions`) | Papua New Guinea, *Physical Education Teacher Guide, Junior High Grade 9, Standards-Based* (Papua New Guinea PE TG Grade 9), printed p. 28 |
 
 Papua New Guinea's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Papua New Guinea's own way is content, as the book lines above record it: PE organised in three strands — Safety, Movement, Physical Activity — in the primary guides, merging with Health into one six-strand subject from Grade 6, taught through village games, community modified sports and tabloid-sport station carnivals, with traditional leisure games, Tok Pisin-named modified sports (Kapul Soka, Tibol, Liklik Kriket, Mini Basketbol, Mini Volibol) and local leisure (gardening, fishing, sailing, sekapu stone games, string games) counted as PE content. Teacher guides are evidence of what is taught, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Sri Lanka — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/sri-lanka-pe-placements.md. The Sri Lanka books stocked in this lesson are Book L1, Book L2, Book L16. Sri Lanka is student-book stock, inside the acceptance count, in this lesson. The teacher guides among them (Book L16) are evidence only, outside the acceptance counts; Sri Lanka enters this lesson's acceptance count through its student books (Book L1, Book L2). Sri Lanka's own way is content, as the book lines below record it: Health and Physical Education is one combined subject in Sri Lanka, taught in English, Sinhala and Tamil media, with volleyball as the national game, Sri Lankan folk games, the country's own game Elle, and a full outdoor-education strand. The Health parts of these combined books are placed in sri-lanka-health-placements.md (Health course).
+
+**Book — Sri Lanka Book L1 — G11 English student book (student book, English) [group lk-l]:**
+## Book L1 — G11 English student book (student book, English) [group lk-l]
+- Title as printed: Health and Physical Education — Grade 11
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; first print 2015 (this file: fourth print 2019); ISBN 978-955-25-0335-1
+- PDF pages: 210 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 16 placements — 11 to existing lessons, 5 NEW LESSON NEEDED (Health parts of this combined book are filed in the Health placements file, Book L1)
+- Sri Lanka's own way: athletics, games and fitness are revisited each year at a higher level; Grade 11 adds biomechanics, the musculoskeletal system and organising/managing sport.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 10 "Let us cooperate with management and organizing through sports" — planning, managing and officiating school sports events and meets (original target `sport-and-its-story/organising-and-managing-sports-events`) | Sri Lanka Grade 11 G11 English student book, printed p. 90 |
+
+**Book — Sri Lanka Book L2 — G10 English Chapter 6 only (student book, English) [group lk-l]:**
+## Book L2 — G10 English Chapter 6 only (student book, English) [group lk-l]
+- Title as printed: Health and Physical Education — Grade 10, Chapter 6 "Let us adhere to rules, regulations and ethics in sports"
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; year not printed in the chapter file; no ISBN printed in the chapter file
+- PDF pages: 16 (first page verified visually: chapter opening, printed p. 111; file runs printed pp. 111–126)
+- Verdict: PARTIAL — the edupub record serves Chapter 6 only, not the whole Grade 10 English book
+- Tally: 3 placements — 1 to an existing lesson, 2 NEW LESSON NEEDED (the doping part is filed in the Health placements file, Book L2)
+- Sri Lanka's own way: sports ethics is taught through real match stories of fair play (a West Indies bowler's sportsmanship against Pakistan is the chapter's worked example).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 6, roles of the parties in organising sporting events at school level — organisers, officials and participants and what each is responsible for (original target `sport-and-its-story/organising-and-managing-sports-events`) | Sri Lanka Grade 10 G10 English student book Ch. 6, printed p. 122 |
+
+**Book — Sri Lanka Book L16 — G11 TG 2016 English + Tamil (teacher guide, English/Tamil parallel editions) [group lk-l]:**
+## Book L16 — G11 TG 2016 English + Tamil (teacher guide, English/Tamil parallel editions) [group lk-l]
+- Title as printed: Health and Physical Education — Teacher's Guide, Grade 11 (effective from 2016)
+- Grade: 11 (student/teacher: TEACHER)
+- Publisher: National Institute of Education; 2016; no ISBN printed
+- PDF pages: English 109, Tamil 146 (covers verified; nie.lk records e11tim155 / t11tim155 in targets-lk-l)
+- Verdict: COMPLETE — English edition read (syllabus + term guidelines pp. 2–84); Tamil parallel spot-checked.
+- Tally: 5 placements — 3 to existing lessons, 2 NEW LESSON NEEDED (Health parts filed in the Health placements file, Book L16)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Competency 6.1 — performing socially in sport: sports organisation structure and organising events (continues the new organising lesson) (original target `sport-and-its-story/organising-and-managing-sports-events`) | Sri Lanka Grade 11 G11 TG 2016 English, syllabus printed pp. xi–xxiii |
+
+Sri Lanka's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Sri Lanka is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

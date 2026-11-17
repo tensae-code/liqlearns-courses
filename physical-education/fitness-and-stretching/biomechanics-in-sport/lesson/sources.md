@@ -1,8 +1,8 @@
 # Sources — Biomechanics in Sport
 
-countries: United Kingdom, Pakistan, Fiji, Iran, Indonesia, Papua New Guinea
+countries: United Kingdom, Pakistan, Fiji, Iran, Indonesia, Papua New Guinea, Sri Lanka
 
-**Acceptance count: taught in 5 countries (United Kingdom, Pakistan, Fiji, Iran, Indonesia).** United Kingdom is student-book stock (see its rows below), inside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; the Fiji teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count; the Indonesia teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
+**Acceptance count: taught in 6 countries (United Kingdom, Pakistan, Fiji, Iran, Indonesia, Sri Lanka).** United Kingdom is student-book stock (see its rows below), inside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; the Fiji teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count; the Indonesia teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count.
 
 **Book — United Kingdom GCSE Edexcel PE student book (student book):** *Edexcel GCSE (9-1) Physical Education Student Book, 2nd edition* (student book, English) — Title as printed: Edexcel GCSE (9-1) Physical Education — Tony Scott (cover: "2nd edition") — Grade: GCSE, Years 10–11 (student/teacher: STUDENT) — Publisher: Pearson Education; year first published 2016 (2nd edition; imprint number line 19 18 17 16); ISBN 978 1 29212 988 4 — PDF pages: 228 (cover verified against the record title; file size 20,156,655 B and MD5 match the archive.org item metadata exactly). Verdict: COMPLETE — read in full via the extracted text layer. The book's own "Preparing for your exam" sections (printed pp. 118, 176) are assessment preparation — named here, excluded from placements per the standing exclusions; the glossary (p. 205) and index (p. 210) are inventory-only, named, not placed. Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/united-kingdom-pe-placements.md. United Kingdom's own way: PE at GCSE is an examined academic subject — anatomy, physiology, movement analysis and training theory, plus health, psychology and the sociology of sport, with practical performance in three chosen activities and a written Personal Exercise Programme. The second United Kingdom record, *Edexcel GCSE Physical Education Student Book* (2009 edition, Pearson (Edexcel), archive.org item `edexcelgcsephysi0000scot`), is UNREAD — lending-restricted on archive.org, direct GET returned 401/403, no login routes permitted — with 0 placements; nothing is stocked from it.
 
@@ -256,3 +256,36 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/papua-new-gu
 | Papua New Guinea — Strand 2 Unit 2 Sports, Topics 33–34: biomechanical principles in a field or court game and how they affect the sport skill (teacher guide — evidence) (original target `fitness-and-stretching/biomechanics-and-movement`) | Papua New Guinea, *Physical Education Teacher Guide, Senior High Grade 11, Standards-Based* (Papua New Guinea PE TG Grade 11), printed p. 47 |
 
 Papua New Guinea's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Papua New Guinea's own way is content, as the book lines above record it: PE organised in three strands — Safety, Movement, Physical Activity — in the primary guides, merging with Health into one six-strand subject from Grade 6, taught through village games, community modified sports and tabloid-sport station carnivals, with traditional leisure games, Tok Pisin-named modified sports (Kapul Soka, Tibol, Liklik Kriket, Mini Basketbol, Mini Volibol) and local leisure (gardening, fishing, sailing, sekapu stone games, string games) counted as PE content. Teacher guides are evidence of what is taught, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Sri Lanka — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/sri-lanka-pe-placements.md. The Sri Lanka books stocked in this lesson are Book L1, Book L16. Sri Lanka is student-book stock, inside the acceptance count, in this lesson. The teacher guides among them (Book L16) are evidence only, outside the acceptance counts; Sri Lanka enters this lesson's acceptance count through its student books (Book L1). Sri Lanka's own way is content, as the book lines below record it: Health and Physical Education is one combined subject in Sri Lanka, taught in English, Sinhala and Tamil media, with volleyball as the national game, Sri Lankan folk games, the country's own game Elle, and a full outdoor-education strand. The Health parts of these combined books are placed in sri-lanka-health-placements.md (Health course).
+
+**Book — Sri Lanka Book L1 — G11 English student book (student book, English) [group lk-l]:**
+## Book L1 — G11 English student book (student book, English) [group lk-l]
+- Title as printed: Health and Physical Education — Grade 11
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; first print 2015 (this file: fourth print 2019); ISBN 978-955-25-0335-1
+- PDF pages: 210 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 16 placements — 11 to existing lessons, 5 NEW LESSON NEEDED (Health parts of this combined book are filed in the Health placements file, Book L1)
+- Sri Lanka's own way: athletics, games and fitness are revisited each year at a higher level; Grade 11 adds biomechanics, the musculoskeletal system and organising/managing sport.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 3 "Let us identify principles of biomechanics to maintain correct postures" — levers, balance and body alignment applied to everyday and sporting posture (original target `fitness-and-stretching/biomechanics-and-correct-posture`) | Sri Lanka Grade 11 G11 English student book, printed p. 28 |
+
+**Book — Sri Lanka Book L16 — G11 TG 2016 English + Tamil (teacher guide, English/Tamil parallel editions) [group lk-l]:**
+## Book L16 — G11 TG 2016 English + Tamil (teacher guide, English/Tamil parallel editions) [group lk-l]
+- Title as printed: Health and Physical Education — Teacher's Guide, Grade 11 (effective from 2016)
+- Grade: 11 (student/teacher: TEACHER)
+- Publisher: National Institute of Education; 2016; no ISBN printed
+- PDF pages: English 109, Tamil 146 (covers verified; nie.lk records e11tim155 / t11tim155 in targets-lk-l)
+- Verdict: COMPLETE — English edition read (syllabus + term guidelines pp. 2–84); Tamil parallel spot-checked.
+- Tally: 5 placements — 3 to existing lessons, 2 NEW LESSON NEEDED (Health parts filed in the Health placements file, Book L16)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Competency 3.1 — teaching biomechanical principles for static and dynamic posture (continues the new biomechanics lesson opened by the Grade 11 student book) (original target `fitness-and-stretching/biomechanics-and-correct-posture`) | Sri Lanka Grade 11 G11 TG 2016 English, syllabus printed pp. xi–xxiii |
+
+Sri Lanka's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Sri Lanka is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

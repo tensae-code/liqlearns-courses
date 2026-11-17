@@ -1,8 +1,8 @@
 # Sources — Camping and Survival Outdoors
 
-countries: Honduras, North Macedonia, Zimbabwe, Malaysia, Indonesia
+countries: Honduras, North Macedonia, Zimbabwe, Malaysia, Indonesia, Sri Lanka
 
-**Acceptance count: taught in 5 countries (Honduras, North Macedonia, Zimbabwe, Malaysia, Indonesia).** Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Honduras is student-book stock (see its rows below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count; the Indonesia teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
+**Acceptance count: taught in 6 countries (Honduras, North Macedonia, Zimbabwe, Malaysia, Indonesia, Sri Lanka).** Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Honduras is student-book stock (see its rows below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count; the Indonesia teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count.
 
 ## Honduras — PE expansion 2026-11-16
 
@@ -207,3 +207,36 @@ Indonesia's placements in this lesson were filed under the original strings reco
 This is a canonical NEW lesson (slug-registry Part 1: `moving-basics/camping-and-survival-outdoors` — Camping and survival outdoors: camps, shelters, fire, camp equipment, outdoor trips and caring for nature while you are out.); Indonesia's placements were filed under the original strings recorded in the provenance rows above, resolved by registry Part 2 to this canonical slug where the string differs. Indonesia is student-book stock, inside the acceptance count, in this lesson; the Indonesia teacher guides stocked here are teacher-guide evidence only, outside the acceptance count.
 
 Searchable tags: camping and survival outdoors, Indonesia, PJOK G8 Student, PJOK G8 Teacher
+
+## Sri Lanka — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/sri-lanka-pe-placements.md. The Sri Lanka books stocked in this lesson are Book L1, Book L6. Sri Lanka is student-book stock, inside the acceptance count, in this lesson. Sri Lanka's own way is content, as the book lines below record it: Health and Physical Education is one combined subject in Sri Lanka, taught in English, Sinhala and Tamil media, with volleyball as the national game, Sri Lankan folk games, the country's own game Elle, and a full outdoor-education strand. The Health parts of these combined books are placed in sri-lanka-health-placements.md (Health course).
+
+**Book — Sri Lanka Book L1 — G11 English student book (student book, English) [group lk-l]:**
+## Book L1 — G11 English student book (student book, English) [group lk-l]
+- Title as printed: Health and Physical Education — Grade 11
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; first print 2015 (this file: fourth print 2019); ISBN 978-955-25-0335-1
+- PDF pages: 210 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 16 placements — 11 to existing lessons, 5 NEW LESSON NEEDED (Health parts of this combined book are filed in the Health placements file, Book L1)
+- Sri Lanka's own way: athletics, games and fitness are revisited each year at a higher level; Grade 11 adds biomechanics, the musculoskeletal system and organising/managing sport.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 8 "Let us engage in outdoor activities" — outdoor pursuits, camps and group challenges (original target `games-to-play/outdoor-activities-and-camps`) | Sri Lanka Grade 11 G11 English student book, printed p. 68 |
+
+**Book — Sri Lanka Book L6 — G9 HPE Sinhala + Tamil (student book, Sinhala/Tamil parallel editions) [group lk-l]:**
+## Book L6 — G9 HPE Sinhala + Tamil (student book, Sinhala/Tamil parallel editions) [group lk-l]
+- Title as printed: Health and Physical Education — Grade 9 (Sinhala medium; Tamil medium)
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; Sinhala ed. ISBN 978-955-25-0371-9 (first print 2017); Tamil ed. ISBN 978-955-25-0169-2 (first print 2017)
+- PDF pages: Sinhala 222, Tamil 244 (covers verified; archive.org records 27/28 in targets-lk-l, the Tamil book being the same as the edupub.gov.lk record 5 — identical 59.0 MB — read once from archive.org)
+- Verdict: COMPLETE — parallel editions (21 chapters, same order in both, contents cross-checked); read via contents and chapter sampling in both editions (English glosses throughout: knots and lashings, jump techniques, gender terms)
+- Tally: 14 placements — 10 to existing lessons, 4 NEW LESSON NEEDED (Health parts filed in the Health placements file, Book L6)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 11 — outdoor activities: knots and lashings (reef knot, bowline, clove hitch), camp fires and camping skills (continues the new outdoor lesson) (original target `games-to-play/outdoor-activities-and-camps`) | Sri Lanka Grade 9 G9 Sinhala/Tamil student book, printed p. 100 |
+
+Sri Lanka's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Sri Lanka is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

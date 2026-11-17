@@ -1,6 +1,6 @@
 # Sources — The Olympic Games, Ancient and Modern
 
-countries: Ethiopia, Cyprus, Tajikistan, Afghanistan, China, Honduras, Mauritius, Iran, Jordan
+countries: Ethiopia, Cyprus, Tajikistan, Afghanistan, China, Honduras, Mauritius, Iran, Jordan, Sri Lanka
 
 **Book 1:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–106 + front matter (114 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md.
 
@@ -37,7 +37,7 @@ countries: Ethiopia, Cyprus, Tajikistan, Afghanistan, China, Honduras, Mauritius
 | Cyprus — Part 2, Modern Olympic Games (Σύγχρονοι Ολυμπιακοί Αγώνες) — every edition in chronological order, the events that carry the Olympic name, qualification quotas and entry criteria by sport and age (student book) | Cyprus, *Olympic Education Insert, Lyceum Years 2–3*, Part 2, printed pp. 21–68 |
 
 | Tajikistan — Part 1, How the World Festival Was Born (the Olympic Games); Modern Olympic Games — the birth of the Games, their revival, and the modern Games with flag and symbols (original target `sport-and-its-story/the-olympic-games-ancient-and-modern`) | Tajikistan, *Fizicheskaya Kultura (Physical Culture), Grades 1–4*, Part 1, printed pp. ~10–20 |
-**Acceptance count: taught in 8 countries (Ethiopia, Cyprus, Tajikistan, China, Honduras, Mauritius, Iran, Jordan).** Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Cyprus is added as student-book stock (see its rows above), inside the acceptance count. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count.
+**Acceptance count: taught in 9 countries (Ethiopia, Cyprus, Tajikistan, China, Honduras, Mauritius, Iran, Jordan, Sri Lanka).** Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Cyprus is added as student-book stock (see its rows above), inside the acceptance count. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count.
 
 The Grade 5 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -178,3 +178,23 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/jordan-pe-pl
 | Jordan — Unit 5, Lesson 5: Carrying the Olympic Torch — running with the torch around the field and handing it to a teammate; Olympic values of excellence, respect and friendship; colouring the Olympic rings (original target `sport-and-its-story/the-olympic-games-ancient-and-modern`) | Jordan Grade 1 PE Term 2, printed p. 26 |
 
 Jordan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Jordan is student-book stock, inside the acceptance count, in this lesson. Jordan's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Sri Lanka — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/sri-lanka-pe-placements.md. The Sri Lanka books stocked in this lesson are Book L2. Sri Lanka is student-book stock, inside the acceptance count, in this lesson. Sri Lanka's own way is content, as the book lines below record it: Health and Physical Education is one combined subject in Sri Lanka, taught in English, Sinhala and Tamil media, with volleyball as the national game, Sri Lankan folk games, the country's own game Elle, and a full outdoor-education strand. The Health parts of these combined books are placed in sri-lanka-health-placements.md (Health course).
+
+**Book — Sri Lanka Book L2 — G10 English Chapter 6 only (student book, English) [group lk-l]:**
+## Book L2 — G10 English Chapter 6 only (student book, English) [group lk-l]
+- Title as printed: Health and Physical Education — Grade 10, Chapter 6 "Let us adhere to rules, regulations and ethics in sports"
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; year not printed in the chapter file; no ISBN printed in the chapter file
+- PDF pages: 16 (first page verified visually: chapter opening, printed p. 111; file runs printed pp. 111–126)
+- Verdict: PARTIAL — the edupub record serves Chapter 6 only, not the whole Grade 10 English book
+- Tally: 3 placements — 1 to an existing lesson, 2 NEW LESSON NEEDED (the doping part is filed in the Health placements file, Book L2)
+- Sri Lanka's own way: sports ethics is taught through real match stories of fair play (a West Indies bowler's sportsmanship against Pakistan is the chapter's worked example).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 6, "Evolution of the Olympics" — from Olympia 776 BC through the Roman ban to Coubertin's 1896 revival, the Olympic oath and the IOC | Sri Lanka Grade 10 G10 English student book Ch. 6, printed p. 117 |
+
+Sri Lanka's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Sri Lanka is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

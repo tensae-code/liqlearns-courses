@@ -1,6 +1,6 @@
 # Sources — Sport and Society — Money, Media, Gender, Technology and Jobs
 
-countries: Ethiopia, Cyprus, Namibia, United Kingdom, Afghanistan, Honduras, Fiji, Mauritius, Iran, Jordan
+countries: Ethiopia, Cyprus, Namibia, United Kingdom, Afghanistan, Honduras, Fiji, Mauritius, Iran, Jordan, Sri Lanka
 
 **Book 1:** *Grade 8 Health and Physical Education Teacher Guide* (teacher guide, English) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. TRUNCATED — worst-truncated of the series: the file holds printed pp. 3–50 of 104+ (54 PDF pages); printed pp. 51–104+ (Chapters 4–7 entire) are missing. Printed page = PDF page − 4 (contents scheme; the guide prints no folios). Read in full from 100 DPI renders (no text layer), in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g08-teacher-placements.md.
 
@@ -33,7 +33,7 @@ countries: Ethiopia, Cyprus, Namibia, United Kingdom, Afghanistan, Honduras, Fij
 | United Kingdom — Component 2 Topic 3.2: Commercialisation of physical activity and sport — sponsorship, the media and the golden triangle in sport (original target `sport-and-its-story/sport-and-society`) | United Kingdom, *Edexcel GCSE (9-1) Physical Education Student Book, 2nd edition* (United Kingdom GCSE Edexcel PE Student Book), Component 2 Topic 3.2, printed p. 168 |
 | United Kingdom — Component 2 Topic 3.3: Ethical and socio-cultural issues in physical activity and sport — sportsmanship and gamesmanship, performance-enhancing drugs, and spectator behaviour including hooliganism (original target `sport-and-its-story/sport-and-society`) | United Kingdom, *Edexcel GCSE (9-1) Physical Education Student Book, 2nd edition* (United Kingdom GCSE Edexcel PE Student Book), Component 2 Topic 3.3, printed p. 172 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Cyprus, United Kingdom, Honduras, Fiji, Mauritius, Iran, Jordan).** Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Cyprus is added as student-book stock (see its rows above), inside the acceptance count. Namibia is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 2. United Kingdom is added as student-book stock (see its rows above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count.
+**Acceptance count: taught in 9 countries (Ethiopia, Cyprus, United Kingdom, Honduras, Fiji, Mauritius, Iran, Jordan, Sri Lanka).** Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Cyprus is added as student-book stock (see its rows above), inside the acceptance count. Namibia is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 2. United Kingdom is added as student-book stock (see its rows above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count.
 
 The Grade 8 teacher guide is truncated — printed pp. 51–104+ missing — and is used only for its held Chapter 1, labelled (teacher guide — evidence). The Grade 9 guide is complete. The Grade 10 guide is truncated only at its §8.3 tail (p. 92); its Unit 1 material here is complete in the held file. The Grade 10 guide's internal period-count inconsistency for its Unit 2 is not used in this lesson. This lesson carries the [Both] sport-and-society placements whose content is societal knowledge, not movement skill; the Grade 9/10 student books are the English federal 2023 GEQIP-E series and their terms are given as printed.
 
@@ -175,3 +175,37 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/jordan-pe-pl
 | Jordan — Unit 9 Health Concepts and Habits, Lesson 2: Social Activities — taking part in sport and social activities (sports, arts and cultural clubs, volunteering, courses, family occasions) to relieve stress, build relationships and belonging (original target `sport-and-its-story/sport-and-society`) | Jordan Grade 9 PE Term 2, printed p. 59 |
 
 Jordan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Jordan is student-book stock, inside the acceptance count, in this lesson. Jordan's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Sri Lanka — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/sri-lanka-pe-placements.md. The Sri Lanka books stocked in this lesson are Book 2, Book 7. Sri Lanka is student-book stock, inside the acceptance count, in this lesson. Sri Lanka's own way is content, as the book lines below record it: Health and Physical Education is one combined subject in Sri Lanka, taught in English, Sinhala and Tamil media, with volleyball as the national game, Sri Lankan folk games, the country's own game Elle, and a full outdoor-education strand. The Health parts of these combined books are placed in sri-lanka-health-placements.md (Health course).
+
+**Book — Sri Lanka Book 2 — Grade 9 HPE English (student book, English):**
+## Book 2 — Grade 9 HPE English (student book, English)
+- Title as printed: Health and Physical Education, Grade 9 (this copy opens at Chapter 1, printed p. 1; no cover/imprint pages in the file)
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department (inferred from the series; not printed in this copy); year not printed in this copy; ISBN no ISBN printed
+- PDF pages: 211 (first page verified as the book's own Chapter 1 against the record title; glossary and lesson sequence at the end confirm the full 21-chapter book)
+- Verdict: PARTIAL — front cover/imprint pages missing from this copy; all 21 teaching chapters present
+- Tally: 17 placements — 11 to existing lessons, 6 NEW LESSON NEEDED
+- Sri Lanka's own way: Outdoor education is a full strand (organized games, knots and lashings, bonfires, outdoor cooking); athletics is taught event by event (relay, long jump, high jump, throws) and ball games progress to advanced skills (spiking/blocking, attacking/defending).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch.18 Let us develop social values through sports — community, team spirit and social values learned through sport | Sri Lanka Grade 9 HPE English, printed p. 165 |
+
+**Book — Sri Lanka Book 7 — Grade 8 HPE Tamil (student book, Tamil):**
+## Book 7 — Grade 8 HPE Tamil (student book, Tamil)
+- Title as printed: Health and Physical Education (சுகாதாரமும் உடற்கல்வியும்), Grade 8 [Tamil cover verified]
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; year 2021 (per record); ISBN no ISBN printed in the pages sampled
+- PDF pages: 214 (cover and contents verified against the record title; downloaded from the record's own Noolaham source after the GitHub tree route returned 404 — see group log, library debt note)
+- Verdict: PARTIAL — image-only Tamil scan (Noolaham digitization): cover, full contents (14 chapters) and chapter openings (Ch. 1, 2, 5) read from rendered pages and placed at chapter level; not every interior page was read
+- Tally: 10 placements — 8 to existing lessons, 2 NEW LESSON NEEDED
+- Sri Lanka's own way: The Tamil-medium edition of the same EPD series: Grade 8 adds school marching drill (turns), sprint starts, and reproductive health, between Grade 7's folk games and Grade 9's outdoor education.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch.13 Let us develop sportsmanship qualities — sportsmanship qualities in play | Sri Lanka Grade 8 HPE Tamil, printed p. 160 (contents) |
+
+Sri Lanka's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Sri Lanka is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

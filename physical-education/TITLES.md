@@ -356,3 +356,9 @@ Games and Sports**
 **Traditional Games of Papua New Guinea**
 (`traditional-games-and-dances/traditional-games-of-papua-new-guinea`)
 — 3 new lessons, bringing this course to 210 lessons.
+
+The PE expansion then added: **Elle**
+(`traditional-games-and-dances/elle`) and
+**Traditional Games of Sri Lanka**
+(`traditional-games-and-dances/traditional-games-of-sri-lanka`)
+— 2 new lessons, bringing this course to 212 lessons.

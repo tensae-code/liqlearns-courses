@@ -1,6 +1,6 @@
 # Sources — Volleyball Passing and Setting
 
-countries: Ethiopia, Afghanistan, China, Nicaragua, Belize, Mauritius, Iran, North Macedonia, Zimbabwe, Jordan, Malaysia, Cuba, Kuwait, Oman
+countries: Ethiopia, Afghanistan, China, Nicaragua, Belize, Mauritius, Iran, North Macedonia, Zimbabwe, Jordan, Malaysia, Cuba, Kuwait, Oman, Sri Lanka
 
 **Book — Grade 5 student:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 106 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md. COMPLETE.
 
@@ -27,7 +27,7 @@ countries: Ethiopia, Afghanistan, China, Nicaragua, Belize, Mauritius, Iran, Nor
 | The spike — Grade 9 | Ethiopia, Grade 9 teacher Unit 5 spike (teacher guide — evidence), printed pp. 65–72 |
 | Blocking — Grade 10 | Ethiopia, Grade 10 student §5.2 Blocking skills + §5.1 rules, printed pp. 86–98 |
 | Blocking — Grade 10 | Ethiopia, Grade 10 teacher Unit 5 blocking and rules (teacher guide — evidence), printed pp. 60–69 |
-**Acceptance count: taught in 8 countries (Ethiopia, China, Mauritius, Iran, North Macedonia, Zimbabwe, Jordan, Malaysia).** Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count; the Iran teacher guide stocked in this lesson (Book 13) is teacher-guide evidence only, outside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count.
+**Acceptance count: taught in 9 countries (Ethiopia, China, Mauritius, Iran, North Macedonia, Zimbabwe, Jordan, Malaysia, Sri Lanka).** Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count; the Iran teacher guide stocked in this lesson (Book 13) is teacher-guide evidence only, outside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count.
 
 The Grade 5 and Grade 6 teacher guides' ball-games chapters are in the truncated missing ranges of those scans (G5T Chapter 6, pp. 57–77; G6T Chapter 6, pp. 65–82), so this lesson rests on the complete student books only; no teacher-guide pages are claimed for it.
 
@@ -564,3 +564,131 @@ Oman's own way: Grade 8 mirrors Grade 7 with the fitness unit's emphases swapped
 | Oman — Unit 3, Sports and Movement Games (2) — Volleyball: the game's skills and play (teacher guide — evidence) (original target `ball-games/volleyball-passing-and-setting`) | Oman, *Oman G8 Teacher Guide*, printed p. 147 |
 
 Oman's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Oman's own way is content, as the book lines above record it: the subject is one combined Physical & Health Education course; the first cycle runs six units with child-facing mottos (Exercises, Basic Movements, Handling Movements, Motor Perception and Fluency, Movement Games, and Health Culture), the second cycle opens with Physical Fitness and Kids' Athletics and splits the games across two Movement Games units — including badminton, goalball for visually impaired pupils, table tennis adapted for visual impairment, and Omani folk games — with gymnastics in two tracks (rhythmic gymnastics for girls, floor gymnastics for boys), and the post-basic guides swap in health-related and skill-related fitness with named athletics events. Every topic follows one lesson-plan pattern: technical points, teaching steps, practice stations, games and competitions. Teacher guides are evidence of what is taught, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Sri Lanka — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/sri-lanka-pe-placements.md. The Sri Lanka books stocked in this lesson are Book 1, Book L1, Book 2, Book 3, Book L5, Book L6, Book L7, Book 7, Book L11. Sri Lanka is student-book stock, inside the acceptance count, in this lesson. The teacher guides among them (Book 3, Book L11) are evidence only, outside the acceptance counts; Sri Lanka enters this lesson's acceptance count through its student books (Book 1, Book L1, Book 2, Book L5, Book L6, Book L7, Book 7). Sri Lanka's own way is content, as the book lines below record it: Health and Physical Education is one combined subject in Sri Lanka, taught in English, Sinhala and Tamil media, with volleyball as the national game, Sri Lankan folk games, the country's own game Elle, and a full outdoor-education strand. The Health parts of these combined books are placed in sri-lanka-health-placements.md (Health course).
+
+**Book — Sri Lanka Book 1 — Grade 7 HPE English (student book, English):**
+## Book 1 — Grade 7 HPE English (student book, English)
+- Title as printed: Health and Physical Education, Grade 7
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; year 2015 (fifth print 2019); ISBN 978-955-25-0112-8
+- PDF pages: 186 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 15 placements — 9 to existing lessons, 6 NEW LESSON NEEDED
+- Sri Lanka's own way: Health and PE taught as one combined subject; each chapter opens with what Grade 6 covered, then "Let us learn more / put it into practice / test our knowledge"; volleyball is taught as the national game and Sri Lankan folk games get a full chapter.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch.4 Let us play volleyball — the six volleyball skills and under-arm serving and receiving technique in three stages | Sri Lanka Grade 7 HPE English, printed p. 39 |
+
+**Book — Sri Lanka Book L1 — G11 English student book (student book, English) [group lk-l]:**
+## Book L1 — G11 English student book (student book, English) [group lk-l]
+- Title as printed: Health and Physical Education — Grade 11
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; first print 2015 (this file: fourth print 2019); ISBN 978-955-25-0335-1
+- PDF pages: 210 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 16 placements — 11 to existing lessons, 5 NEW LESSON NEEDED (Health parts of this combined book are filed in the Health placements file, Book L1)
+- Sri Lanka's own way: athletics, games and fitness are revisited each year at a higher level; Grade 11 adds biomechanics, the musculoskeletal system and organising/managing sport.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 4 "Let us play Volleyball" — passing and setting skills practised for the game | Sri Lanka Grade 11 G11 English student book, printed p. 40 |
+
+**Book — Sri Lanka Book 2 — Grade 9 HPE English (student book, English):**
+## Book 2 — Grade 9 HPE English (student book, English)
+- Title as printed: Health and Physical Education, Grade 9 (this copy opens at Chapter 1, printed p. 1; no cover/imprint pages in the file)
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department (inferred from the series; not printed in this copy); year not printed in this copy; ISBN no ISBN printed
+- PDF pages: 211 (first page verified as the book's own Chapter 1 against the record title; glossary and lesson sequence at the end confirm the full 21-chapter book)
+- Verdict: PARTIAL — front cover/imprint pages missing from this copy; all 21 teaching chapters present
+- Tally: 17 placements — 11 to existing lessons, 6 NEW LESSON NEEDED
+- Sri Lanka's own way: Outdoor education is a full strand (organized games, knots and lashings, bonfires, outdoor cooking); athletics is taught event by event (relay, long jump, high jump, throws) and ball games progress to advanced skills (spiking/blocking, attacking/defending).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch.5 Let us play volleyball — advanced volleyball skills progression (spiking and blocking practice) | Sri Lanka Grade 9 HPE English, printed p. 37 |
+
+**Book — Sri Lanka Book 3 — Grade 9 HPE Teacher Guide English 2018 (teacher guide, English):**
+## Book 3 — Grade 9 HPE Teacher Guide English 2018 (teacher guide, English)
+- Title as printed: Health and Physical Education — Teachers' Guide, Grade 09 (implemented from 2018). NOTE: the record title calls it a "Health Teacher Guide" and lists health only, but the printed book is the full Health AND Physical Education guide, so it is filed into both courses.
+- Grade: 9 (student/teacher: TEACHER)
+- Publisher: National Institute of Education (Health & Physical Education Unit, Department of Science); year 2018 (first print 2018); ISBN no ISBN printed
+- PDF pages: 172 (cover/title page verified against the record title; downloaded from the record's own NIE source after the GitHub tree route returned 404 — see group log, library debt note)
+- Verdict: COMPLETE
+- Tally: 13 placements — 8 to existing lessons, 5 NEW LESSON NEEDED
+- Sri Lanka's own way: A competency-based guide: 10 competencies with numbered levels, term-by-term lesson plans, quality inputs and activities for the matching Grade 9 student book.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Competency 4.5 — engaging in volleyball using the skills correctly | Sri Lanka Grade 9 HPE TG English 2018, printed pp. 3–41 |
+
+**Book — Sri Lanka Book L5 — G8 HPE Tamil + Sinhala (student book, Tamil/Sinhala parallel editions) [group lk-l]:**
+## Book L5 — G8 HPE Tamil + Sinhala (student book, Tamil/Sinhala parallel editions) [group lk-l]
+- Title as printed: Health and Physical Education — Grade 8 (Tamil medium; Sinhala medium)
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; Tamil ed. ISBN 978-955-25-0139-5 (first print 2016; this file 2019 print)
+- PDF pages: Tamil 210, Sinhala 216 (covers verified; archive.org records 15/16 in targets-lk-l, the same books as the edupub.gov.lk records 3/4 — identical byte sizes 84.3 MB / 7.1 MB — read once from archive.org)
+- Verdict: COMPLETE — Tamil edition read via text (contents + chapter sampling with English glosses); the Sinhala edition is an image-only scan, spot-checked by rendered contents/spreads and matching. This is a different edition from the 2021 Tamil edition held secured (group lk-t), so it is placed separately.
+- Tally: 9 placements — 7 to existing lessons, 2 NEW LESSON NEEDED (Health parts filed in the Health placements file, Book L5)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 3 — under-arm service, dig pass and volley pass technique | Sri Lanka Grade 8 G8 Tamil/Sinhala student book, printed p. 26 |
+
+**Book — Sri Lanka Book L6 — G9 HPE Sinhala + Tamil (student book, Sinhala/Tamil parallel editions) [group lk-l]:**
+## Book L6 — G9 HPE Sinhala + Tamil (student book, Sinhala/Tamil parallel editions) [group lk-l]
+- Title as printed: Health and Physical Education — Grade 9 (Sinhala medium; Tamil medium)
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; Sinhala ed. ISBN 978-955-25-0371-9 (first print 2017); Tamil ed. ISBN 978-955-25-0169-2 (first print 2017)
+- PDF pages: Sinhala 222, Tamil 244 (covers verified; archive.org records 27/28 in targets-lk-l, the Tamil book being the same as the edupub.gov.lk record 5 — identical 59.0 MB — read once from archive.org)
+- Verdict: COMPLETE — parallel editions (21 chapters, same order in both, contents cross-checked); read via contents and chapter sampling in both editions (English glosses throughout: knots and lashings, jump techniques, gender terms)
+- Tally: 14 placements — 10 to existing lessons, 4 NEW LESSON NEEDED (Health parts filed in the Health placements file, Book L6)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 5 — volleyball passing, setting and serving technique | Sri Lanka Grade 9 G9 Sinhala/Tamil student book, printed p. 37 |
+
+**Book — Sri Lanka Book L7 — G10 HPE Sinhala + Tamil (student book, Sinhala/Tamil parallel editions) [group lk-l]:**
+## Book L7 — G10 HPE Sinhala + Tamil (student book, Sinhala/Tamil parallel editions) [group lk-l]
+- Title as printed: Health and Physical Education — Grade 10 (Sinhala medium; Tamil medium)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; Sinhala ed. ISBN 978-955-25-0401-3; Tamil ed. ISBN 978-955-25-0213-2 (prints 2014–2019)
+- PDF pages: Sinhala 238, Tamil 256 (covers verified; archive.org records 29/30 in targets-lk-l)
+- Verdict: COMPLETE — parallel editions (10 chapters, same order); read via contents and chapter sampling in both editions. Chapter 6 (rules, regulations and ethics in sports) is NOT re-placed here: it was already placed from the English edition chapter file (Book L2 in both files).
+- Tally: 8 placements — 5 to existing lessons, 3 NEW LESSON NEEDED (Health parts filed in the Health placements file, Book L7)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 4.1 — volleyball passing and setting | Sri Lanka Grade 10 G10 Sinhala/Tamil student book, printed p. 39 |
+
+**Book — Sri Lanka Book 7 — Grade 8 HPE Tamil (student book, Tamil):**
+## Book 7 — Grade 8 HPE Tamil (student book, Tamil)
+- Title as printed: Health and Physical Education (சுகாதாரமும் உடற்கல்வியும்), Grade 8 [Tamil cover verified]
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; year 2021 (per record); ISBN no ISBN printed in the pages sampled
+- PDF pages: 214 (cover and contents verified against the record title; downloaded from the record's own Noolaham source after the GitHub tree route returned 404 — see group log, library debt note)
+- Verdict: PARTIAL — image-only Tamil scan (Noolaham digitization): cover, full contents (14 chapters) and chapter openings (Ch. 1, 2, 5) read from rendered pages and placed at chapter level; not every interior page was read
+- Tally: 10 placements — 8 to existing lessons, 2 NEW LESSON NEEDED
+- Sri Lanka's own way: The Tamil-medium edition of the same EPD series: Grade 8 adds school marching drill (turns), sprint starts, and reproductive health, between Grade 7's folk games and Grade 9's outdoor education.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch.3 Let us engage in volleyball — volleyball play and skills | Sri Lanka Grade 8 HPE Tamil, printed p. 20 |
+
+**Book — Sri Lanka Book L11 — G7 TG 2016 English + Tamil (teacher guide, English/Tamil parallel editions) [group lk-l]:**
+## Book L11 — G7 TG 2016 English + Tamil (teacher guide, English/Tamil parallel editions) [group lk-l]
+- Title as printed: Health and Physical Education — Teacher's Guide, Grade 7 (effective from 2016)
+- Grade: 7 (student/teacher: TEACHER)
+- Publisher: National Institute of Education; 2016; no ISBN printed
+- PDF pages: English 129, Tamil 128 (covers verified; nie.lk records e7tim155 / t7tim155 in targets-lk-l)
+- Verdict: COMPLETE — English edition read (syllabus + term guidelines); Tamil edition is its parallel (contents and structure spot-checked, matching). The guide teaches the same content as the Grade 7 student book (placed by lk-t, Book 1) with lesson-by-lesson teaching guidance; placements below record the guide's own competency structure.
+- Tally: 5 placements — 3 to existing lessons, 2 NEW LESSON NEEDED (Health parts filed in the Health placements file, Book L11)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Competency 4 — teaching volleyball, netball and football skills, including ball controlling and stopping with the inside of the foot | Sri Lanka Grade 7 G7 TG 2016 English, syllabus printed pp. xi–xxxii |
+
+Sri Lanka's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Sri Lanka is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
