@@ -1,6 +1,6 @@
 # Sources — My Block My Community Lived Space
 
-countries: Venezuela, Albania, Bahamas, Somalia
+countries: Venezuela, Albania, Bahamas, Somalia, Nicaragua
 
 **Book 1:** *Patria y Ciudadanía — Ciencias Sociales, 1er Año* (student book, Spanish) — Ministerio del Poder Popular para la Educación / Colección Bicentenario; year 2014 (third edition, April 2014); ISBN 978-980-218-325-8. Title as printed: Patria y Ciudadanía — Ciencias Sociales, 1er Año. Grade: Grade 7 (1er Año de Educación Media) (student/teacher: STUDENT). PDF pages: 93 (cover/title page verified against the record title; release grab size-verified by grab.py — the repo asset itself is short). Verdict: PARTIAL — the file ends at printed p. 92 (a complementary reading, the Ananse fable). Missing from the book's own index: De la calle a Miraflores (printed p. 94), Patria y Ciudadanía: una permanente construcción (p. 110), Mi casa grande, nuestro planeta (p. 126), Somos promotores y promotoras de la paz (p. 160) and the Bibliografía (p. 176). LIBRARY DEBT: the secured copy of this book is incomplete.. (Combined book — Geography parts placed below; parts named, not placed — History parts named, not placed: Somos constructores y constructoras del sueño de los Simones (printed p. 8); ¿De dónde vengo? ¿Hacia dónde voy? (p. 30); Diáspora africana y la trata transatlántica (pp. 84–88).; Civics parts named, not placed: Te presento a mi familia — convivencia familiar (p. 40); community organisation and Consejos Comunales inside Mi casa, nuestra cuadra, nuestra comunidad (pp. 58–75); responsible-consumption pages (consumidores responsables, nunca consumistas).) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/venezuela-placements.md.
 
@@ -39,3 +39,15 @@ Albania's own way (teacher guide — evidence): Citizenship in Grade 5 is taught
 Searchable tags: my block my community lived space, Venezuela, social studies, first-steps, Albania, Bahamas, Somalia
 
 Somalia's own way (Grade 1, teacher guide — evidence): this subject was created by the 1969 Revolution to form the new Somali person — personality (qofnimo) is built, not born: family, food, dress, schooling and society shape it, and the school's job is to graft onto the child Somali-ness, straight morals, a living conscience, patriotism, responsibility and tolerance, in that order, from the flag outward to the society the pupil lives in.
+
+Nicaragua placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *Estudios Sociales G3 (student book, Spanish)* — Title as printed: Estudios Sociales 3. Grade: Grade 3 (student/teacher: STUDENT). Publisher: Ministerio de Educación (MINED), Nicaragua; year 2016 (Edición 2016); ISBN no ISBN printed. PDF pages: 118 (cover/title page verified against the record title; 5,722,375 bytes via Releases route, matches the wave record). Earlier waves: Geography wave placed the geography parts; History wave placed the history parts (Units VI–VIII history topics); Economics wave placed 3 placements (population/economics of Unit IV). Verdict: COMPLETE. Contents map: Integrated SS pp. 33–40 (Unit III Mi comunidad, mi municipio); Civics/Citizenship/Government pp. 76–79, 98–99 (women's participation, government social programmes, citizen participation, Caribbean Coast autonomy); Morals/Values inside the civics topics; Geography pp. 1–32, 41–70; History pp. 72–74, 80–97; Economics pp. 42–48, 66. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — first-steps/my-block-my-community-lived-space — La Comunidad donde vivimos — teaches: what a community is through Rama Cay (Bluefields): its people, stilt houses, health centre, bilingual schools and its ancestral council-of-elders government — Nicaragua Grade 3 Estudios Sociales G3, printed p. 34 | Nicaragua, *Estudios Sociales G3* (student book), La Comunidad donde vivimos — printed p. 34 |
+
+**Acceptance count: taught in 3 countries (Venezuela, Bahamas, Nicaragua).** Albania and Somalia are named here as teacher-guide evidence only, counted nowhere.
+
+Nicaragua's own way (Book 1 — Estudios Sociales G3 (student book, Spanish)): community is taught through Rama Cay — an ancestral Caribbean island community governed by a council of elders — and citizenship through the current government's named municipal social programmes and the Caribbean Coast autonomy system.

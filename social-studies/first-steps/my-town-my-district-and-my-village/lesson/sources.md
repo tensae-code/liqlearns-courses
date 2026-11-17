@@ -1,6 +1,6 @@
 # Sources — My Town, My District and My Village
 
-countries: Suriname, Somalia, Serbia, Kazakhstan, North Macedonia, Cambodia, Myanmar, Laos, Greece
+countries: Suriname, Somalia, Serbia, Kazakhstan, North Macedonia, Cambodia, Myanmar, Laos, Greece, Nicaragua
 
 **Book 1:** *Ik-boek* (student book, Dutch) — Suriname, Ministerie van Onderwijs en Volksontwikkeling (Suriname); year not printed (PDF created 2012); no ISBN printed. Title as printed: IK BOEK (OJW Leerjaar 3 — Ik-boek). Grade 3 (Leerjaar 3). 14 PDF pp. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/suriname-placements.md.
 
@@ -132,3 +132,15 @@ Greece's own way (Book 4): Grade 2 widens Grade 1's circles — the neighbourhoo
 Greece's own way (Book 7): Grade 3's opening unit is the primary civics core of the whole EVS series — living together needs rules, the community is cared for, and the child learns who decides by following municipal elections in their own dimos.
 
 Searchable tags: my town, my district and my village, Greece, social studies, first-steps
+
+Nicaragua placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *Estudios Sociales G3 (student book, Spanish)* — Title as printed: Estudios Sociales 3. Grade: Grade 3 (student/teacher: STUDENT). Publisher: Ministerio de Educación (MINED), Nicaragua; year 2016 (Edición 2016); ISBN no ISBN printed. PDF pages: 118 (cover/title page verified against the record title; 5,722,375 bytes via Releases route, matches the wave record). Earlier waves: Geography wave placed the geography parts; History wave placed the history parts (Units VI–VIII history topics); Economics wave placed 3 placements (population/economics of Unit IV). Verdict: COMPLETE. Contents map: Integrated SS pp. 33–40 (Unit III Mi comunidad, mi municipio); Civics/Citizenship/Government pp. 76–79, 98–99 (women's participation, government social programmes, citizen participation, Caribbean Coast autonomy); Morals/Values inside the civics topics; Geography pp. 1–32, 41–70; History pp. 72–74, 80–97; Economics pp. 42–48, 66. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — first-steps/my-town-my-district-and-my-village — La Comunidad Rural / La Comunidad Urbana — teaches: how a rural community and an urban community differ and how people and their surroundings act on each other — Nicaragua Grade 3 Estudios Sociales G3, printed p. 38 | Nicaragua, *Estudios Sociales G3* (student book), La Comunidad Rural / La Comunidad Urbana — printed p. 38 |
+
+**Acceptance count: taught in 9 countries (Suriname, Somalia, Serbia, Kazakhstan, North Macedonia, Cambodia, Myanmar, Greece, Nicaragua).** Laos is named here as teacher-guide evidence only, counted nowhere.
+
+Nicaragua's own way (Book 1 — Estudios Sociales G3 (student book, Spanish)): community is taught through Rama Cay — an ancestral Caribbean island community governed by a council of elders — and citizenship through the current government's named municipal social programmes and the Caribbean Coast autonomy system.

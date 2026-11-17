@@ -1,6 +1,6 @@
 # Sources — Perseverance
 
-countries: United Arab Emirates
+countries: United Arab Emirates, Nicaragua
 
 **Book 1:** *التربية الأخلاقية — الصف الثاني — الفصل الدراسي الثاني — دليل المعلم — نسخة تجريبية (Moral Education — Grade 2 — Term 2 — Teacher's Guide — pilot edition)* (teacher guide, Arabic) — Title as printed: التربية الأخلاقية — الصف الثاني — الفصل الدراسي الثاني — دليل المعلم — نسخة تجريبية (Moral Education — Grade 2 — Term 2 — Teacher's Guide — pilot edition). Grade: Grade 2 (student/teacher: TEACHER). Publisher: Ministry of Education, United Arab Emirates; year 2017–2018 (1438–1439H), pilot edition; no ISBN printed. PDF pages: 89 (8,730,553 bytes; cover verified) — RECORD NOTE: the download-list record gives the year as 2018–2019; the printed pilot edition is 2017–2018. The first download of this file was internally damaged (its later pages rendered blank); a fresh download of the same file was complete, and the read was made from it. Earlier waves: not read before. Verdict: COMPLETE — civics track, read in full from renders: both of the term's units stand in the remaining strands (Unit 3 is the programme's Cultural Studies pillar; Unit 4 its Individual-and-Community pillar). Contents map: Culture Unit 3 "What can artefacts and symbols tell us?" (we are skilled investigators 1 & 2; a visit to the museum; we are artists; we are archaeologists); Values Unit 4 "Self-identity and working with others" (a good start; perseverance; flexibility; what I find difficult; the final version). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/united-arab-emirates-placements.md. Teacher guide — evidence only, outside the acceptance count.
 
@@ -15,3 +15,15 @@ United Arab Emirates' own way (Moral Education, G2 Term 2 teacher guide) (teache
 Registry note: the original coined string `culture-and-work/perseverance-and-flexibility` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/perseverance`.
 
 Searchable tags: perseverance, United Arab Emirates, social studies, culture-and-work
+
+Nicaragua placements — Social Studies remaining strands (2026-11-17):
+
+**Book 6:** *Convivencia y Civismo G4 (student book, Spanish)* — Title as printed: Convivencia y Civismo 4 — Educación Primaria. Grade: Grade 4 (student/teacher: STUDENT). Publisher: Ministerio de Educación (MINED), Nicaragua; year not printed on cover; ISBN no ISBN printed. PDF pages: 128 (cover verified against the record title; 30,082,908 bytes — exactly the books.json size_bytes; same Wayback route as Books 2–5). Earlier waves: not read before. Verdict: COMPLETE (full read of the text layer to the last teaching page, printed p. 115). Contents map: Morals/Values pp. 3–34 (Unit I identity and coexistence — acceptance, optimism, perseverance, companionship, friendship, manners, responsible decisions, values); Culture/Identity pp. 35–54 (Unit II Nicaraguan cultural identity by region — Pacific, Caribbean Coast, north-centre — music, myths, crafts, typical foods); Civics/Citizenship/Government pp. 55–72 (Unit III homeland, symbols, founding figures), pp. 73–78 (Unit IV principles of the Constitution and the Powers of the State), pp. 79–90 (Unit V human rights, children's rights and duties, equality), pp. 91–100 (Unit VI road culture and land transport), pp. 109–114 (Unit VIII consumer education, spending and taxes), p. 115 (Unit IX working for the common good); Health pp. 101–108 (Unit VII healthy life and sexuality education — named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — culture-and-work/perseverance — La Perseverancia — teaches: perseverance — not giving up until the task is done — Nicaragua Grade 4 Convivencia y Civismo G4, printed p. 11 | Nicaragua, *Convivencia y Civismo G4* (student book), La Perseverancia — printed p. 11 |
+
+**Acceptance count: taught in 1 country (Nicaragua).**
+
+Nicaragua's own way (Book 6 — Convivencia y Civismo G4 (student book, Spanish)): Grade 4 teaches cultural identity region by region (Pacific, Caribbean Coast, north and centre each with their own traditions) before the Constitution's principles and the Powers of the State.

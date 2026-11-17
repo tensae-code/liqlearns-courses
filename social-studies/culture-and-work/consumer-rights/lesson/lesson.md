@@ -1,0 +1,27 @@
+# Consumer Rights
+
+## Do it first
+
+Before you read on, say in your mind what you already think this is about: consumers have rights — what a buyer can demand — as Nicaragua's books teach it. Hold your idea; the lesson will test it.
+
+## Sub lesson 1 — Las personas consumidoras tienen derechos
+
+Nicaragua Grade 6 Convivencia y Civismo G6 (printed p. 146), teaches: Consumers have rights — what a buyer can demand. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Sub lesson 2 — Educación del consumidor
+
+Nicaragua Grade 4 Convivencia y Civismo G4 (printed p. 110), teaches: Consumer education — buying with rights and judgement. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Sub lesson 3 — Nicaragua's way — the books' own teaching way
+
+Nicaragua's own way: the final primary civics book widens from Nicaragua to Central America (symbols and heroes compared across the isthmus) and from values to the machinery of rights — the Children's Convention, the CNA code, consumer rights and tax education. Grade 4 teaches cultural identity region by region (Pacific, Caribbean Coast, north and centre each with their own traditions) before the Constitution's principles and the Powers of the State. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Say it to your companion
+
+Explain this lesson to your companion in your own words. Your companion asks you one hard question about it — answer from the lesson.
+
+## Do It Yourself
+
+1. The book's topic: do the activity in hands-on.md under this name.
+2. Educación del consumidor: do the activity in hands-on.md under this name.
+3. Nicaragua's way: do the activity in hands-on.md under this name.

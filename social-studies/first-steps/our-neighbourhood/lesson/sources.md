@@ -1,6 +1,6 @@
 # Sources — Our Neighbourhood
 
-countries: Guyana, Albania, Fiji
+countries: Guyana, Albania, Fiji, Nicaragua
 
 **Book 1:** *Social Studies For Our Children Book 1* (student book, English) — Guyana, Ministry of Education, Georgetown, Guyana (Easy Path Series; a GOG/EFA-FTI Project); revised 2004 (first edition earlier); no ISBN printed. Title as printed: Social Studies For Our Children — Book 1. Grade 1. 57 PDF pp. Verdict: COMPLETE. Held on disk at phase3-staging (books.json record, on_disk: true, 9,866,801 bytes matching the record). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/guyana-placements.md.
 
@@ -29,3 +29,15 @@ Albania's own way (teacher guide — evidence): Citizenship in Grade 5 is taught
 Fiji's own way (Grade 4): The neighbourhood is taught through Fiji's own community types — farming, iTaukei village and urban/town communities — and the child's duties inside it.
 
 Searchable tags: neighbourhood, neighbours, Green Valley, Ron and Sue, social studies, Albania, Fiji
+
+Nicaragua placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *Estudios Sociales G3 (student book, Spanish)* — Title as printed: Estudios Sociales 3. Grade: Grade 3 (student/teacher: STUDENT). Publisher: Ministerio de Educación (MINED), Nicaragua; year 2016 (Edición 2016); ISBN no ISBN printed. PDF pages: 118 (cover/title page verified against the record title; 5,722,375 bytes via Releases route, matches the wave record). Earlier waves: Geography wave placed the geography parts; History wave placed the history parts (Units VI–VIII history topics); Economics wave placed 3 placements (population/economics of Unit IV). Verdict: COMPLETE. Contents map: Integrated SS pp. 33–40 (Unit III Mi comunidad, mi municipio); Civics/Citizenship/Government pp. 76–79, 98–99 (women's participation, government social programmes, citizen participation, Caribbean Coast autonomy); Morals/Values inside the civics topics; Geography pp. 1–32, 41–70; History pp. 72–74, 80–97; Economics pp. 42–48, 66. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — first-steps/our-neighbourhood — El entorno de mi comunidad — teaches: the community's surroundings split into the social environment (family, neighbours, classmates, teachers) and the natural environment, and why both shape a child's life — Nicaragua Grade 3 Estudios Sociales G3, printed p. 36 | Nicaragua, *Estudios Sociales G3* (student book), El entorno de mi comunidad — printed p. 36 |
+
+**Acceptance count: taught in 3 countries (Guyana, Fiji, Nicaragua).** Albania is named here as teacher-guide evidence only, counted nowhere.
+
+Nicaragua's own way (Book 1 — Estudios Sociales G3 (student book, Spanish)): community is taught through Rama Cay — an ancestral Caribbean island community governed by a council of elders — and citizenship through the current government's named municipal social programmes and the Caribbean Coast autonomy system.

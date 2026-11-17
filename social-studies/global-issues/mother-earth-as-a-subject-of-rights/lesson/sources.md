@@ -1,6 +1,6 @@
 # Sources — Mother Earth as a Subject of Rights
 
-countries: Bolivia, Ecuador
+countries: Bolivia, Ecuador, Nicaragua
 
 **Book 1:** *Texto de Aprendizaje — Área: Ciencias Sociales, Campo: Comunidad y Sociedad — Primer Año de Educación Secundaria Comunitaria Productiva* (student book, Spanish) — Bolivia, Ministerio de Educación, Estado Plurinacional de Bolivia; year not printed in the pages read; no ISBN printed. Title as printed: Texto de Aprendizaje — Área: Ciencias Sociales, Campo: Comunidad y Sociedad — Primer Año de Educación Secundaria Comunitaria Productiva. Grade 7 (student). 98 PDF pp. (cover verified against the record title; byte size 15,723,529 and page count match the staging books.json record exactly). Verdict: COMPLETE (combined book — Geography parts placed below; History/Civics parts named here, not placed: La ciencia de la historia, printed p. 24; Evolución de la especie humana, p. 28; Surgimiento de las sociedades humanas, p. 32; Formación y desarrollo de culturas en el mundo antiguo, p. 38; Civilizaciones de la Edad Antigua en Europa: Grecia y Roma, p. 44; Poblamiento del Abya Yala, p. 48; Civilizaciones originarias del Abya Yala, p. 52; Civilización Maya, p. 58; Las primeras culturas en el territorio que hoy es Bolivia, p. 70; Tiahuanaco, p. 76; Los Aymaras, p. 87; Arqueoastronomía, p. 93). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/bolivia-placements.md.
 
@@ -24,3 +24,15 @@ Bolivia's own way (teacher guide — evidence): The teacher compendium teaches t
 Ecuador's own way (Estudios Sociales 8vo EGB): at Superior level the civics strand is built on Ecuador's own 2008 constitutional order — Buen Vivir (Sumak Kawsay) as the state's development idea, a plurinational and intercultural state, nature itself as a subject of rights, and children's rights taught from Ecuador's own Código de la Niñez y Adolescencia. That evidence is stocked here as the way Ecuador teaches this thing; it is counted in the acceptance count above (student book).
 
 Searchable tags: mother earth as a subject of rights, Bolivia, Ciencias Sociales, Texto de Aprendizaje, social studies, global issues, teacher guide evidence, Ecuador
+
+Nicaragua placements — Social Studies remaining strands (2026-11-17):
+
+**Book 3:** *Convivencia y Civismo G3 (student book, Spanish)* — Title as printed: Convivencia y Civismo 3 — Educación Primaria. Grade: Grade 3 (student/teacher: STUDENT). Publisher: Ministerio de Educación (MINED), Nicaragua; year not printed on cover; ISBN no ISBN printed. PDF pages: 128 (cover verified against the record title; 29,641,093 bytes — exactly the books.json size_bytes; same Wayback route as Book 2). Earlier waves: not read before. Verdict: COMPLETE (full read of the text layer to the last teaching page; Unit VII consumer topics named as Economics, not placed). Contents map: Morals/Values pp. 1–36 (Unit I Aprendo a convivir); Integrated SS pp. 37–50 (Unit II national culture and dances); Civics/Citizenship/Government pp. 51–60 (Unit III symbols and heroes), pp. 61–79 (Unit IV human rights, equality, women's rights law, Mother Earth declaration), pp. 80–96 (Unit V traffic norms), p. 100 (Red Cross), p. 108 (disaster prevention); Health pp. 98–107 (self-care, healthy eating, body hygiene — named, not placed); Economics/consumer pp. 111–115 (Unit VII Aprendo a comprar — named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — global-issues/mother-earth-as-a-subject-of-rights — Declaración de la Madre Tierra — teaches: a declaration of Mother Earth's rights, taught to Grade 3 as a civic commitment — Nicaragua Grade 3 Convivencia y Civismo G3, printed p. 79 | Nicaragua, *Convivencia y Civismo G3* (student book), Declaración de la Madre Tierra — printed p. 79 |
+
+**Acceptance count: taught in 3 countries (Bolivia, Ecuador, Nicaragua).** The teacher compendium is named here as teacher-guide evidence only, counted nowhere beyond the student-book count.
+
+Nicaragua's own way (Book 3 — Convivencia y Civismo G3 (student book, Spanish)): Grade 3 civics adds Nicaragua-specific law to the values base — women's rights under Ley 779 and a Mother Earth declaration — and respect for public and private institutions as a civic duty.

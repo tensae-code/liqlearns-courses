@@ -1,6 +1,6 @@
 # Sources — How Cities And Villages Are Run
 
-countries: Iran, Egypt, Philippines, Samoa, Albania, Ecuador, Yemen, Bhutan, Afghanistan, Tanzania, Eritrea, Belarus, Fiji, Venezuela, Bangladesh, Turkey, Morocco, Colombia, Iraq, North Macedonia, India, United States, Rwanda, Sri Lanka, Cambodia, El Salvador, Mauritania, Zimbabwe, Dominican Republic, Honduras, Laos, Mongolia, Pakistan, Indonesia, Greece
+countries: Iran, Egypt, Philippines, Samoa, Albania, Ecuador, Yemen, Bhutan, Afghanistan, Tanzania, Eritrea, Belarus, Fiji, Venezuela, Bangladesh, Turkey, Morocco, Colombia, Iraq, North Macedonia, India, United States, Rwanda, Sri Lanka, Cambodia, El Salvador, Mauritania, Zimbabwe, Dominican Republic, Honduras, Laos, Mongolia, Pakistan, Indonesia, Greece, Nicaragua
 
 **Book 1:** *مطالعات اجتماعی ـ پایه هفتم دوره اول متوسطه (Social Studies, Grade 7, first secondary cycle)* (student book, Persian) — Ministry of Education, Organization for Educational Research and Planning (سازمان پژوهش و برنامه‌ریزی آموزشی); prepared by the Office for Compiling General and Theoretical Secondary Textbooks (دفتر تألیف کتاب‌های درسی عمومی و متوسطه نظری); printed by the Iran Textbook Printing and Publishing Company; 13th printing, 1405; book code 707 (matches the record's C707). Title as printed: مطالعات اجتماعی ـ پایه هفتم دوره اول متوسطه (Social Studies, Grade 7, first secondary cycle). Grade: 7 (student/teacher: STUDENT). PDF pages: 184 (printed pagination runs 6 behind the PDF pages: printed p. 2 = PDF p. 8; title page verified as above; read via the books.json record's own ministry source file at chap.sch.ir — same book, exact byte size and page count as the record — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iran-placements.md.
 
@@ -583,3 +583,15 @@ Greece's own way (Book 1): citizenship is taught through two child guides (Danai
 Greece's own way (Book 2): two Aristophanes characters (Dikaiopolis and Eirini, "Justice-City" and "Peace") guide the pupil outward from the family to the state, the EU and the world; Greece's own municipalities, constitution and EU membership are the worked examples.
 
 Searchable tags: how cities and villages are run, Greece, social studies, culture-and-work
+
+Nicaragua placements — Social Studies remaining strands (2026-11-17):
+
+**Book 11:** *Estudios Sociales G7 full-year (student book, Spanish)* — Title as printed: Ciencias Sociales 7 — Educación Secundaria. Grade: Grade 7 (student/teacher: STUDENT). Publisher: Ministerio de Educación (MINED), Nicaragua, with EU/PROSEN support; year not printed on cover; ISBN no ISBN printed. PDF pages: 280 (cover verified against the record title; 120,390,902 bytes via the record's MINED source URL). Earlier waves: Geography wave placed the geography parts and named Unit I's state institutions (printed pp. 14–16) as Civics, not placed; History wave placed the history parts; Economics wave placed 6 placements. Verdict: COMPLETE for the remaining strands (contents-first; Unit I civics topics read in full). Contents map: Geography Units I–V; History Units VI–XI; Economics inside Units III–IV; Civics/Citizenship/Government Unit I printed pp. 13–16 (municipal government and the institutions of the State). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — culture-and-work/how-cities-and-villages-are-run — El gobierno municipal: la Alcaldía — teaches: what the mayors and the municipal mayor's office (Alcaldía) do, who supports them, and the advantages of organising and working united for the community — Nicaragua Grade 7 Estudios Sociales G7 full-year, printed p. 13 | Nicaragua, *Estudios Sociales G7 full-year* (student book), El gobierno municipal: la Alcaldía — printed p. 13 |
+
+**Acceptance count: taught in 33 countries (Iran, Egypt, Philippines, Samoa, Ecuador, Yemen, Bhutan, Afghanistan, Tanzania, Eritrea, Belarus, Fiji, Venezuela, Bangladesh, Turkey, Morocco, Colombia, Iraq, North Macedonia, India, United States, Rwanda, Sri Lanka, Cambodia, El Salvador, Mauritania, Dominican Republic, Honduras, Mongolia, Pakistan, Indonesia, Greece, Nicaragua).** Albania, Zimbabwe and Laos are named here as teacher-guide evidence only, counted nowhere.
+
+Nicaragua's own way (Book 11 — Estudios Sociales G7 full-year (student book, Spanish)): secondary Social Studies opens with the State itself — the municipality and its mayor first, then Nicaragua's FOUR powers (the Electoral Power beside Executive, Legislative and Judicial), in a republic defined as democratic, participative and representative, where power resides in the people.

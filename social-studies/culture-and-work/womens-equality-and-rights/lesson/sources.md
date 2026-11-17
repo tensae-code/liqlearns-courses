@@ -1,6 +1,6 @@
 # Sources — Womens Equality and Rights
 
-countries: Bolivia, Afghanistan, Kuwait, Guatemala, Palestine, Pakistan
+countries: Bolivia, Afghanistan, Kuwait, Guatemala, Palestine, Pakistan, Nicaragua
 
 **Book 1:** *BO Social Sciences Secundaria 4* (student book, Spanish) — Title as printed: Texto de Aprendizaje — Área: Ciencias Sociales, Campo: Comunidad y Sociedad — Cuarto Año de Educación Secundaria Comunitaria Productiva. Grade: Grade 10 (Secundaria 4) (student/teacher: STUDENT). Publisher: Ministerio de Educación, Estado Plurinacional de Bolivia; year not printed in the pages read; no ISBN printed. PDF pages: 108 (cover verified against the record title; 16,369,358 bytes and 108 pages, matching the books.json record's page count; grabbed via the mid-size-books release asset). Earlier waves: Geography wave placed the opening Census unit, the Geography/economic-geography units and the closing nature/Vivir Bien units, and named the units below as Civics, not placed; History wave placed the nineteenth-century History units; Economics wave placed the economic-history parts. Verdict: COMPLETE (contents-first; the remaining strands — Democracia Directa y Participativa, Conceptos Ciudadanos de Fortalecimiento de Identidad Nacional, Las Olas del Feminismo and Despatriarcalización — read fully). Contents map: Civics/Citizenship pp. 39–41 (direct and participative democracy), 83–85 (citizen identity, biometrics, democratic values), 99–107 (women's rights, feminism, despatriarcalización) in the Geography wave's printed pagination; Integrated SS p. 2 (the Census — placed by the Geography wave); Geography pp. 74–98 (economic geography, nature and Vivir Bien — Geography wave); History pp. 6–73 (the nineteenth century — History wave); Economics within the history units (Economics wave). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/bolivia-placements.md.
 
@@ -88,3 +88,17 @@ Pakistan's own way (Book 8): the English-medium Class 9 book states the ideology
 Pakistan's own way (Book 10): the older book teaches the same state from the other end — culture defined before it is described, languages given a whole chapter with Urdu named the language of national integration, and national integration itself defined, factored and argued like a civics concept, not a slogan.
 
 Searchable tags: womens equality and rights, Pakistan, social studies, culture-and-work
+
+Nicaragua placements — Social Studies remaining strands (2026-11-17):
+
+**Book 3:** *Convivencia y Civismo G3 (student book, Spanish)* — Title as printed: Convivencia y Civismo 3 — Educación Primaria. Grade: Grade 3 (student/teacher: STUDENT). Publisher: Ministerio de Educación (MINED), Nicaragua; year not printed on cover; ISBN no ISBN printed. PDF pages: 128 (cover verified against the record title; 29,641,093 bytes — exactly the books.json size_bytes; same Wayback route as Book 2). Earlier waves: not read before. Verdict: COMPLETE (full read of the text layer to the last teaching page; Unit VII consumer topics named as Economics, not placed). Contents map: Morals/Values pp. 1–36 (Unit I Aprendo a convivir); Integrated SS pp. 37–50 (Unit II national culture and dances); Civics/Citizenship/Government pp. 51–60 (Unit III symbols and heroes), pp. 61–79 (Unit IV human rights, equality, women's rights law, Mother Earth declaration), pp. 80–96 (Unit V traffic norms), p. 100 (Red Cross), p. 108 (disaster prevention); Health pp. 98–107 (self-care, healthy eating, body hygiene — named, not placed); Economics/consumer pp. 111–115 (Unit VII Aprendo a comprar — named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua part — culture-and-work/womens-rights-under-the-law — Derechos de la mujer nicaragüense (Ley 779) — teaches: Nicaraguan women's rights under Ley 779, the law against violence toward women — Nicaragua Grade 3 Convivencia y Civismo G3, printed p. 77 | Nicaragua, *Convivencia y Civismo G3* (student book), Derechos de la mujer nicaragüense (Ley 779) — printed p. 77 |
+
+**Acceptance count: taught in 7 countries (Bolivia, Afghanistan, Kuwait, Guatemala, Palestine, Pakistan, Nicaragua).** .
+
+Nicaragua's own way (Book 3 — Convivencia y Civismo G3 (student book, Spanish)): Grade 3 civics adds Nicaragua-specific law to the values base — women's rights under Ley 779 and a Mother Earth declaration — and respect for public and private institutions as a civic duty.
+
+Registry note: the original coined string `culture-and-work/womens-rights-under-the-law` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/womens-equality-and-rights`.
