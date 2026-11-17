@@ -1,0 +1,13 @@
+# Celebrating National Days — short answer
+
+Answer in a sentence or two.
+
+**1. (Sub lesson 1)** What does this part of this lesson teach?
+**Answer: National Symbols — what citizens do on Founding Day, National Day and Flag Day — raise the homeland's flag and respect it, join the school's celebrations, take pride in the homeland and its government's and citizens' achievements, express national unity and social cohesion, and pledge sincere, perfected work to build the homeland (any close wording).**
+
+**2. (Sub lesson 2)** What does this part of this lesson teach?
+**Answer: Founding Day / National Day / Flag Day — why Founding Day is celebrated — pride in the Saudi state's firm roots and the citizens' close bond with its leaders since Imam Muhammad bin Saud founded the first state in mid-1139H (1727) with Diriyah its capital and the Quran and Sunnah its constitution, the unity and security it planted after centuries of division, and its survival through the second state (1240H/1824) to unification; the Founding Day logo's five elements — the palm, the Saudi flag, the falcon, the Arabian horse and the market; why National Day is celebrated — honouring the founder's and his men's efforts, deepening belonging and loyalty, recalling the homeland's history, heritage and foundations, and showing its achievements — and the negative practices to avoid (misusing the flag, breaking traffic systems); and the flag's specifications and rules — green, rectangular, its width two-thirds of its length, the two testimonies in white Thuluth script above a drawn sword, never lowered, never touching ground or water, not raised faded, with prison or a fine for whoever drops or insults it (any close wording).**
+
+**3. (Sub lesson 3)** What does this part of this lesson teach?
+**Answer: Saudi Arabia's way — the book's own teaching way — Saudi Arabia's own way (Book 1): the Grade 4 book opens with citizenship — national identity, the system of government, national symbols and the founding story of security and unity under one state — and returns in Unit 6 to responsible citizenship through family and society, rights and duties, the good citizen, teamwork, and heritage stories that teach patience and hard work. Saudi Arabia's own way (Book 6): the Grade 9 book teaches Saudi systems in detail — development and social protection, Saudi systems and sovereignty, the Basic Law of Governance, the three authorities, the Council of Ministers, the Shura Council and the Regions System — then the foundations of the Saudi state, national identity and national days, orders and decorations, self-achievement, responsibility, public decency, and volunteering in its fields and national programmes. (any close wording).**
+

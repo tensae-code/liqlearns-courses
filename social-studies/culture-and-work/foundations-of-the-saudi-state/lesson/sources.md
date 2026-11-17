@@ -1,0 +1,16 @@
+# Sources — Foundations of the Saudi State
+
+countries: Saudi Arabia
+
+**Book 1:** *Social Studies, Grade 9 (Third Intermediate) (student book, Arabic)* — Title as printed: الدراسات الاجتماعية — الصف الثالث المتوسط (Social Studies — Third Grade, Intermediate) Grade: Grade 9 (student/teacher: STUDENT) Publisher: Ministry of Education, Kingdom of Saudi Arabia; cover dated 1448H / 2026 CE PDF pages: 313; printed page = PDF page. File verified: 68,570,544 bytes, size-verified via chunked Range assembly from Google Drive; cover rendered and looked at. The volume as downloaded carries the course's two parts (part 2 opens at printed p. 169), Units 1–9, Lessons 1–43 Verdict: COMPLETE — contents-first; Unit 3 Lessons 12 & 15, Unit 4 Saudi Systems, Unit 5 National Identity, Unit 7 Lesson 35, Unit 8 Responsibility and Unit 9 Volunteering read in full and placed Contents map: Unit 1 Geography, Unit 2 Resources, Unit 3 National Development (Lessons 12 & 15 this wave; Lessons 13–14, 16–17 services/safety named, not placed), Unit 4 Saudi Systems (this wave), Unit 5 National Identity (this wave), Unit 6 Geography/Maps, Unit 7 Self-Achievement & Economy (Lesson 35 this wave; Lessons 36–38 Economics named, not placed), Unit 8 Responsibility (this wave), Unit 9 Volunteering (this wave) Staged: ~/workspace/phase3-staging/grade-09/gov/saudi-arabia/social-studies/student/term-1.pdf with a new grade-09/gov/saudi-arabia/books.json record Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — culture-and-work/foundations-of-the-saudi-state — Unit 5 Lesson 24: The Foundations of Saudi Arabia — teaches: the Kingdom's foundations — the religious foundation (the state stands on Islam as method and application), the historical foundation (an authentic heritage rooted over 590 years since Diriyah was built as the first Saudi state's capital in 850H; the first state in 1139H, the second in 1240H, and King Abdulaziz's unification in 1351H; the monarchy of the Al Saud ruling by Islam, with national unity), and the developmental foundation (investing human and natural resources wisely, comprehensive future planning — the five-year development plans and Vision 2030 — and continuous development, seen in Riyadh growing from 1.2 km² to 3,115 km² and Jeddah from 13 km² to over 1,765 km²) — Saudi Arabia Grade 9 Social Studies, printed pp. 174–178 | Saudi Arabia, *Social Studies, Grade 9* (student book), Unit 5 Lesson 24: The Foundations of Saudi Arabia — printed pp. 174–178 |
+| Sub lesson 2 — Saudi Arabia's way — the book's own teaching way | Saudi Arabia — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Saudi Arabia).**
+
+Saudi Arabia's own way (Book 6): the Grade 9 book teaches Saudi systems in detail — development and social protection, Saudi systems and sovereignty, the Basic Law of Governance, the three authorities, the Council of Ministers, the Shura Council and the Regions System — then the foundations of the Saudi state, national identity and national days, orders and decorations, self-achievement, responsibility, public decency, and volunteering in its fields and national programmes.
+
+Searchable tags: foundations of the saudi state, Saudi Arabia, social studies, culture-and-work

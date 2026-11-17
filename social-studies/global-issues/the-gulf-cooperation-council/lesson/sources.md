@@ -1,6 +1,6 @@
 # Sources — The Gulf Cooperation Council
 
-countries: Kuwait
+countries: Kuwait, Saudi Arabia
 
 **Book 2:** *Social Studies G6 Term 2* (student book, Arabic) — Title as printed: دولة الكويت و دول الخليج العربية — الصف السادس — الفصل الدراسي الثاني (State of Kuwait and the Arab Gulf States, Grade 6, Term 2). Grade: Grade 6 Term 2 (student/teacher: STUDENT). Publisher: Ministry of Education, State of Kuwait; year 2025–2026 (1st edition, 1447H); ISBN no ISBN printed. PDF pages: 114 (cover verified — Kuwait Towers cover, "Grade 6, Second Term"; 19,211,624 bytes via the staging books.json's recorded Google Drive source, matching the record size exactly; printed page numbers = PDF page numbers). Earlier waves: Geography wave placed pp. 18–48, 60–75 geography parts (incl. Unit 2 Lesson 3 cultural similarity, p. 46, into culture-and-work/culture-and-identity — ALREADY PLACED); History wave placed pp. 21–31 history parts (incl. Unit 1 Lesson 5, the development of political life in Kuwait — the 1962 constitution, sovereignty, democracy, human rights, women's political rights, p. 29 — ALREADY PLACED as a history lesson); Economics wave placed pp. 60–75 and the GCC joint economic cooperation lesson, p. 86 (ALREADY PLACED). Unit 2 Lesson 4 (digital culture: AI, cybersecurity, Kuwait's national cybersecurity centre, pp. 49–51) is ICT — outside this wave's scope, named only. Verdict: COMPLETE. Contents map: History pp. 18–33; Geography/Civics pp. 40–54; Economics pp. 60–75, 86–88; Civics/Organisations pp. 82–94 (GCC cooperation); Morals/Values pp. 100–107 ("Stations with Good Kuwait"); ICT pp. 49–51 (named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/kuwait-placements.md.
 
@@ -17,3 +17,19 @@ countries: Kuwait
 Kuwait's own way (Grade 6 Term 2): Term 2's civics is Gulf civics — after Kuwait's own constitution (placed by the History wave), the pupil's political world widens to the Gulf Cooperation Council: what it is, how the six states cooperate in security, economy, culture and education, and where they want to go (Kuwait Vision 2035); the values unit keeps the same widening local — Ramadan's drummer, the diwaniya's manners, a helping hand, a kind word.
 
 Searchable tags: the gulf cooperation council, Kuwait, social studies, global-issues
+
+
+Saudi Arabia placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *Social Studies, Grade 8 (Second Intermediate), both terms (student book, Arabic)* — Title as printed: الدراسات الاجتماعية — الصف الثاني المتوسط (Social Studies — Second Grade, Intermediate) Grade: Grade 8 (student/teacher: STUDENT) Publisher: Ministry of Education, Kingdom of Saudi Arabia; cover dated 1448H / 2026 CE PDF pages: 312; printed page = PDF page. File verified: 80,758,219 bytes, size-verified via chunked Range assembly from Google Drive; cover rendered and looked at Verdict: COMPLETE — contents-first; Unit 5 GCC, Unit 6 Systems & Regulations and Unit 8 Planning & Hobbies read in full and placed Contents map: Units 1–2 History, Units 3–4 Geography, Unit 5 GCC (Lessons 19–21 this wave; Lessons 17–18 Geography named, not placed), Unit 6 Systems & Regulations (this wave), Unit 7 Geography, Unit 8 Planning & Hobbies (this wave), Unit 9 Economics named, not placed Staged: ~/workspace/phase3-staging/grade-08/gov/saudi-arabia/social-studies/student/full-year.pdf with a new grade-08/gov/saudi-arabia/books.json record Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Saudi Arabia part — global-issues/the-gulf-cooperation-council-its-organs-and-goals — Unit 5 Lesson 19: The Founding of the Gulf Cooperation Council — teaches: the Council's main organs — the Supreme Council of the member states' leaders (meeting yearly), the Ministerial Council of foreign ministers (every three months) and the General Secretariat (the Secretary-General, assistants and staff) — and its basic goals: coordination, integration and interconnection among the member states, deepening the bonds and cooperation among their peoples, setting similar systems in all fields, advancing science and technology (research centres, joint projects, private-sector cooperation), coordinating positions on Arab and Islamic causes — above all Palestine — and sharing in keeping local and international security and peace; its attached bodies include the Arab Bureau of Education for the Gulf States and the Gulf Organisation for Industrial Consulting — Saudi Arabia Grade 8 Social Studies, printed pp. 184–187 | Saudi Arabia, *Social Studies, Grade 8* (student book), Unit 5 Lesson 19: The Founding of the Gulf Cooperation Council — printed pp. 184–187 |
+
+**Acceptance count: taught in 2 countries (Kuwait, Saudi Arabia).**
+
+Saudi Arabia's own way (Book 5): the Grade 8 book places Saudi Arabia inside the Gulf Cooperation Council — its organs and goals, its achievements and its challenges — then teaches systems and regulations (how a system is made, their kinds and their benefits), and ends with planning priorities, time management and evaluating plans, and hobbies including the old folk games.
+
+Registry note: the original coined string `global-issues/the-gulf-cooperation-council-its-organs-and-goals` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `global-issues/the-gulf-cooperation-council`.
+

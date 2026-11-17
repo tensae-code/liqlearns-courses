@@ -1,6 +1,6 @@
 # Sources — Family and Society
 
-countries: Panama, Bahrain, Turkey, Iraq
+countries: Panama, Bahrain, Turkey, Iraq, Saudi Arabia
 
 **Book 2:** *Ciencias Sociales 1 — Cuaderno de trabajo — Primer grado* (student workbook, Spanish) — Ministerio de Educación de Panamá; year 2020; no ISBN printed. Title as printed: Ciencias Sociales 1 — Cuaderno de trabajo — Primer grado (Meduca, "Conéctate en casa" series). Grade: Grade 1 (student/teacher: STUDENT). PDF pages: 52 (downloaded via the Wayback capture of 2022-11-16 of the recorded Meduca file — the direct guias.meduca.gob.pa route failed repeatedly from this egress; cover and index verified against the record). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Integrated SS — Área 1 Naturaleza y sociedad en el espacio (family, family work) printed pp. 6–14; Área 2 Dinámica e interacción con el ambiente (housing, transport and communication) printed pp. 15–25; Civics — Área 3 Convivencia armónica (community living rules, duties and rights) printed pp. 26–37; History — Área 4 Acontecimientos históricos de los pueblos (community and national history, fiestas patrias) printed pp. 38–47 (named, not placed). Staged under the new rule: grade-01/gov/panama/social-studies/student/ciencias-sociales-1-cuaderno-de-trabajo.pdf (10,944,762 B as replayed) + books.json record. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/panama-placements-b.md.
 
@@ -42,3 +42,17 @@ Iraq placements — Social Studies remaining strands (2026-11-17):
 
 Iraq's own way (Book 3): the state is defined as institutions that serve, its pillars are named homeland, people, federal authorities and sovereignty, and citizenship is taught as a two-way street — the state's services (free education first) on one side, and on the other a good citizen whose first quality is knowing his own abilities so he can fix his duties and his rights.
 Registry note: the original coined string `first-steps/the-family-part-of-society` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/family-and-society`.
+
+
+Saudi Arabia placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *Social Studies, Grade 4 (student book, Arabic)* — Title as printed: الدراسات الاجتماعية — الصف الرابع الابتدائي (Social Studies — Fourth Grade, Primary) Grade: Grade 4 (student/teacher: STUDENT) Publisher: Ministry of Education, Kingdom of Saudi Arabia; cover dated 1448H / 2026 CE; no ISBN printed on the cover PDF pages: 228; printed page = PDF page. File verified in this re-run: release asset assembled by chunked Range requests, 19,132,912 bytes, size-verified; cover rendered and looked at Earlier waves: Geography wave placed 13 geography placements (Units 3 and 5 and map parts) and Unit 1 Lesson 1; History wave placed 11 history placements (Units 2, 7–9 history parts); Economics wave placed 8 economics placements (Unit 4, printed pp. 90–109) Verdict: COMPLETE — the two owed units (Unit 1 Citizenship, printed pp. 10–37; Unit 6 Responsible Citizenship, printed pp. 142–159) read in full at lesson level in this re-run Contents map: Civics/Citizenship/Government pp. 10–37 and pp. 142–159 (this wave); Geography pp. 62–89, 112–141; History pp. 38–61, 160–227; Economics pp. 90–109; Religion parts inside Units 7–8 named, not placed Debts: (a) the books.json tree path grade-04/gov/saudi-arabia/social-studies/student/full-year.pdf returns 404 in the repo — only the release asset exists (confirmed by the Geography wave via git ls-tree); (b) year/ISBN conflict across earlier waves' filings — this re-run's asset cover reads 1448H/2026 with no ISBN; the History wave read a 1446H imprint, ISBN 978-603-8576-98-8; the Geography wave read ISBN 978-603-52-12-2, cover 1444H/2023 — the waves may have read different printings of the same book Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Saudi Arabia part — first-steps/family-and-society — Unit 6 Lesson 22: Family and Society — teaches: the family as the basis of society, and society as made of many families; inside a family everyone cares for the others — eating, playing, learning and working together, following order, doing duties, and joining together to protect and serve the homeland; the school is like a family — Saudi Arabia Grade 4 Social Studies, printed pp. 144–145 | Saudi Arabia, *Social Studies, Grade 4* (student book), Unit 6 Lesson 22: Family and Society — printed pp. 144–145 |
+
+**Acceptance count: taught in 5 countries (Panama, Bahrain, Turkey, Iraq, Saudi Arabia).**
+
+Saudi Arabia's own way (Book 1): the Grade 4 book opens with citizenship — national identity, the system of government, national symbols and the founding story of security and unity under one state — and returns in Unit 6 to responsible citizenship through family and society, rights and duties, the good citizen, teamwork, and heritage stories that teach patience and hard work.
+

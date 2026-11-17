@@ -1,6 +1,6 @@
 # Sources — Public Services And The People Who Provide Them
 
-countries: Honduras, Sweden, Bahrain, Philippines, Haiti, Ecuador, Yemen, Afghanistan, Somalia, Mexico, Uganda, Fiji, Oman, Syria, Morocco, India, Angola, United States, Rwanda, Papua New Guinea, Sri Lanka
+countries: Honduras, Sweden, Bahrain, Philippines, Haiti, Ecuador, Yemen, Afghanistan, Somalia, Mexico, Uganda, Fiji, Oman, Syria, Morocco, India, Angola, United States, Rwanda, Papua New Guinea, Sri Lanka, Saudi Arabia
 
 **Book 1:** *Libro para Estudiantes del área de Ciencias Sociales — Primer grado de Educación Básica (cover: 'Ciencias Sociales — Primer grado — Libro para Estudiantes')* (student book, Spanish) — Universidad Pedagógica Nacional Francisco Morazán (UPNFM), elaborated for the Secretaría de Estado en el Despacho de Educación de Honduras; preliminary edition (Edición Preliminar) 2020 as printed on the credits page; no ISBN printed. Title as printed: Libro para Estudiantes del área de Ciencias Sociales — Primer grado de Educación Básica (cover: 'Ciencias Sociales — Primer grado — Libro para Estudiantes'). Grade: Grade 1 (student/teacher: STUDENT). PDF pages: 182 (cover/title page verified against the record title; read from the recorded ministry source educatrachos.hn, 66,184,073 bytes, SHA-256 prefix 1c4e29b7525c2dd3). Verdict: COMPLETE. History/Civics parts NOT placed (named for later waves): Bloque 1 'La persona y su ser social' (personal/social and civics formation, printed pp. 10–46); Bloque 3 'Las sociedades y el tiempo social' (History, printed pp. 94–134); Bloque 4 lessons not placed above (social organisation, authorities, laws and demands — Civics, printed pp. 138 onwards). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/honduras-placements.md.
 
@@ -242,3 +242,17 @@ Papua New Guinea's own way (teacher guide — evidence) (Social Science TG Grade
 Sri Lanka's own way (Sri Lanka Grade 6 Civic Education): civics starts inside the child's own school — its history, its people and their duties, its rules, symbols and the pupil's own rights — then widens to the region (the Grama Niladhari ladder up to the province, the officers and councils that serve it) and closes with the good citizen's virtues: polite speech, listening, discipline, telling good from bad, using resources frugally, guarding public property and preserving the local identity with pride.
 
 Searchable tags: public services and the people who provide them, Sri Lanka, social studies, first-steps
+
+
+Saudi Arabia placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *Social Studies, Grade 5 (student book, Arabic)* — Title as printed: الدراسات الاجتماعية — الصف الخامس الابتدائي (Social Studies — Fifth Grade, Primary) Grade: Grade 5 (student/teacher: STUDENT) Publisher: Ministry of Education, Kingdom of Saudi Arabia; cover dated 1448H / 2026 CE PDF pages: 179; printed page = PDF page. File verified: 65,373,328 bytes, size-verified via chunked Range assembly from Google Drive; cover rendered and looked at Verdict: COMPLETE — contents-first; the civics/citizenship strands (Unit 3 National Security, Unit 5 State Institutions) read in full and placed Contents map: Unit 1 History, Unit 2 Religion/History, Unit 3 National Security (this wave), Unit 4 Geography, Unit 5 State Institutions (this wave), Unit 6 Geography, Units 7–8 Economics — named, not placed Staged (2026-11-13 rule — external-link book not in GitHub, never deleted): ~/workspace/phase3-staging/grade-05/gov/saudi-arabia/social-studies/student/full-year.pdf with a new grade-05/gov/saudi-arabia/books.json record Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Saudi Arabia part — first-steps/public-services-and-the-people-who-provide-them — Unit 5 Lessons 17–18: State Institutions / Government Services — teaches: what state institutions do for us — protection and security, organising work, public services, developing the economy, developing society, housing, building and maintaining roads, organising entertainment and sport; government services are the work the state does through its institutions for society's benefit, and each region's Emir receives citizens, hears their needs and runs the region's affairs — Saudi Arabia Grade 5 Social Studies, printed pp. 108–109 | Saudi Arabia, *Social Studies, Grade 5* (student book), Unit 5 Lessons 17–18: State Institutions / Government Services — printed pp. 108–109 |
+
+**Acceptance count: taught in 16 countries (Honduras, Bahrain, Philippines, Ecuador, Yemen, Afghanistan, Mexico, Uganda, Fiji, Syria, India, Angola, United States, Rwanda, Sri Lanka, Saudi Arabia). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+
+Saudi Arabia's own way (Book 2): the Grade 5 book teaches security and state institutions as service — security is defined first, the citizen is named the first line of security, the security agencies are listed one by one with their tasks, state institutions are split into public and private, and each region's Emir receives citizens and hears their needs.
+

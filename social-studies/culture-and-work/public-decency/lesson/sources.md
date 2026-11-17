@@ -1,0 +1,16 @@
+# Sources — Public Decency
+
+countries: Saudi Arabia
+
+**Book 1:** *Social Studies, Grade 9 (Third Intermediate) (student book, Arabic)* — Title as printed: الدراسات الاجتماعية — الصف الثالث المتوسط (Social Studies — Third Grade, Intermediate) Grade: Grade 9 (student/teacher: STUDENT) Publisher: Ministry of Education, Kingdom of Saudi Arabia; cover dated 1448H / 2026 CE PDF pages: 313; printed page = PDF page. File verified: 68,570,544 bytes, size-verified via chunked Range assembly from Google Drive; cover rendered and looked at. The volume as downloaded carries the course's two parts (part 2 opens at printed p. 169), Units 1–9, Lessons 1–43 Verdict: COMPLETE — contents-first; Unit 3 Lessons 12 & 15, Unit 4 Saudi Systems, Unit 5 National Identity, Unit 7 Lesson 35, Unit 8 Responsibility and Unit 9 Volunteering read in full and placed Contents map: Unit 1 Geography, Unit 2 Resources, Unit 3 National Development (Lessons 12 & 15 this wave; Lessons 13–14, 16–17 services/safety named, not placed), Unit 4 Saudi Systems (this wave), Unit 5 National Identity (this wave), Unit 6 Geography/Maps, Unit 7 Self-Achievement & Economy (Lesson 35 this wave; Lessons 36–38 Economics named, not placed), Unit 8 Responsibility (this wave), Unit 9 Volunteering (this wave) Staged: ~/workspace/phase3-staging/grade-09/gov/saudi-arabia/social-studies/student/term-1.pdf with a new grade-09/gov/saudi-arabia/books.json record Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — culture-and-work/public-decency — Unit 8 Lesson 41: Public Decency (الذوق العام) — teaches: public decency as the values, controls and manners governing a person's conduct in society; its foundations — respecting the homeland's prevailing values, customs, traditions and culture, avoiding appearing in a public place in immodest dress or clothing carrying offensive pictures, forms, signs or phrases, avoiding writing or drawing on walls and transport unless licensed, and avoiding in public places any word or act that harms, frightens or endangers their visitors; and the Council of Ministers' Public Decency Regulation issued to protect Saudi society from conduct against public manners and Arab and Islamic values and morals — Saudi Arabia Grade 9 Social Studies, printed pp. 288–290 | Saudi Arabia, *Social Studies, Grade 9* (student book), Unit 8 Lesson 41: Public Decency (الذوق العام) — printed pp. 288–290 |
+| Sub lesson 2 — Saudi Arabia's way — the book's own teaching way | Saudi Arabia — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Saudi Arabia).**
+
+Saudi Arabia's own way (Book 6): the Grade 9 book teaches Saudi systems in detail — development and social protection, Saudi systems and sovereignty, the Basic Law of Governance, the three authorities, the Council of Ministers, the Shura Council and the Regions System — then the foundations of the Saudi state, national identity and national days, orders and decorations, self-achievement, responsibility, public decency, and volunteering in its fields and national programmes.
+
+Searchable tags: public decency, Saudi Arabia, social studies, culture-and-work

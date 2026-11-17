@@ -1,6 +1,6 @@
 # Sources — Dialogue What It is
 
-countries: Libya, Iraq
+countries: Libya, Iraq, Saudi Arabia
 
 **Book 1:** *أنا المواطن (I Am the Citizen), National Education G5* (student book, Arabic) — Title as printed: أنا المواطن — كتاب التربية الوطنية للصف الخامس من مرحلة التعليم الأساسي (I Am the Citizen — National Education book for Grade 5 of basic education). Grade: 5 (student/teacher: STUDENT). Publisher: State of Libya, Ministry of Education — Curriculum and Educational Research Centre; year 2019–2020 / 1440–1441 AH; ISBN no ISBN printed on the cover pages read. PDF pages: 82 (cover rendered and verified against the record title; 15,170,496 bytes, Wayback capture 20211209161420 of the recorded source_url — image-only, read from page renders). Earlier waves: not read before. Verdict: COMPLETE (full page-by-page read, civics track). Contents map: Civics/Citizenship/Government Lesson 2 Libya is for all pp. 17–24, Lesson 3 equality pp. 26–32 (with the Universal Declaration of Human Rights); Culture-in-society Lesson 1 my country Libya pp. 8–16 (the regions' dress, dishes and customs); Morals/Values (Unit 2 "Human values") Lesson 4 justice pp. 33–42, Lesson 5 cooperation and solidarity pp. 43–52, Lesson 6 tolerance pp. 53–62; Conflict/Peace (Unit 3 "Living together") Lesson 7 accepting the other pp. 64–72, Lesson 8 the culture of dialogue pp. 73–82. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/libya-placements.md.
 
@@ -28,3 +28,17 @@ Iraq placements — Social Studies remaining strands (2026-11-17):
 
 Iraq's own way (Book 5): values are defined first as a system — standards that steer behaviour and spread peace "regardless of sex, religion, nationality, language or race" — and citizenship is cashed out in named rights (education, work, candidacy, the vote, freedom of opinion and belief), while the internet chapter warns in plain terms that the open network "is governed by no restrictions or conditions".
 Registry note: the original coined string `resources-and-conflict/dialogue-and-understanding` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `resources-and-conflict/dialogue-what-it-is`.
+
+
+Saudi Arabia placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *Social Studies, Grade 7 (First Intermediate) (student book, Arabic)* — Title as printed: الدراسات الاجتماعية — الصف الأول المتوسط (Social Studies — First Grade, Intermediate) Grade: Grade 7 (student/teacher: STUDENT) Publisher: Ministry of Education, Kingdom of Saudi Arabia; cover dated 1448H / 2026 CE PDF pages: 258; printed page = PDF page. File verified: 66,869,324 bytes, size-verified via chunked Range assembly from Google Drive; cover rendered and looked at. The link record's Arabic title says term 1 (فصل أول) while its term field says full-year; the volume as downloaded carries eight complete units, Lessons 1–35 Verdict: COMPLETE — contents-first; Unit 3 Planning, Unit 5 Lesson 23 Shura & Values, Unit 6 Personal Identity, Unit 7 National Security and Unit 8 Dialogue read in full and placed Contents map: Unit 1 Geography, Unit 2 History, Unit 3 Planning (this wave), Unit 4 History/Religion, Unit 5 History (Lesson 23 this wave), Unit 6 Personal Identity (this wave), Unit 7 National Security (this wave), Unit 8 Dialogue (this wave) Staged: ~/workspace/phase3-staging/grade-07/gov/saudi-arabia/social-studies/student/term-1.pdf with a new grade-07/gov/saudi-arabia/books.json record Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Saudi Arabia part — resources-and-conflict/dialogue-what-it-is — Unit 8 Lesson 32: The Concept of Dialogue and Its Importance — teaches: dialogue as the exchange of talk between two or more parties on a defined issue to enrich knowledge and ideas, marked by calm and distance from fanaticism and quarrelling; dialogue as old as humanity and a fixed root of Islamic culture in the Quran; why we dialogue — cooperating to know the truth, understanding others' opinions, opening channels of communication, awareness, and showing the civilised reality of nations — Saudi Arabia Grade 7 Social Studies, printed pp. 238–240 | Saudi Arabia, *Social Studies, Grade 7* (student book), Unit 8 Lesson 32: The Concept of Dialogue and Its Importance — printed pp. 238–240 |
+
+**Acceptance count: taught in 3 countries (Libya, Iraq, Saudi Arabia).**
+
+Saudi Arabia's own way (Book 4): the Grade 7 book moves from planning and organising time, through shura and the values of the Righteous Caliphs, personal identity, self-development and social interaction, to national security in its concept, pillars, fields and institutions and the citizen's part in it, and closes with dialogue — its concept, pillars and manners, and national dialogue.
+
