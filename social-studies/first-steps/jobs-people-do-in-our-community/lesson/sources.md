@@ -1,6 +1,6 @@
 # Sources — Jobs People Do in Our Community
 
-countries: Latvia, Philippines, Serbia, Bangladesh, Turkey
+countries: Latvia, Philippines, Serbia, Bangladesh, Turkey, North Macedonia
 
 **Book 1:** *Sociālās zinības 1. klase* (teacher guide, Latvian) — Latviešu valodas aģentūra (Latvian Language Agency); year 2023; ISBN 978-9934-617-33-1. Title as printed: Sociālās zinības 1. klase — Latviešu valodas un sociālo zinību satura integrēta apguve lingvistiski neviendabīgā vidē — Metodisks līdzeklis skolotājam. Grade: Grade 1 (student/teacher: TEACHER). PDF pages: 61 (cover/title page verified against the record title — author Linda Krastiņa and ISBN match the record exactly). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Integrated SS (school life) printed pp. 7–17; Morals/Values (safe relationships, honesty, emotions) printed pp. 18–21; Culture in society (family/class festivals) printed pp. 22–24; Integrated SS (work/jobs, wants and needs) printed pp. 25–27; Appendices (worksheets/apparatus, inventory only) printed pp. 28–60. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/latvia-placements-b.md. Teacher guide — evidence only, outside the acceptance count.
 
@@ -49,3 +49,18 @@ Searchable tags: jobs people do in our community, Latvia, Philippines, Serbia, s
 Registry note: the original coined string `first-steps/professional-communities-people-who-serve-us` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/jobs-people-do-in-our-community`.
 
 Registry note: the original coined string `first-steps/occupations-the-jobs-people-do-around-us` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/jobs-people-do-in-our-community`.
+
+
+North Macedonia placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *Society Grade 2 (Општество за второ одделение)* (student book, Macedonian) — Title as printed: ОПШТЕСТВО ЗА ВТОРО ОДДЕЛЕНИЕ (Society for Grade 2), by Гликерија Илиоска (Glikerija Ilioska). Grade: Grade 2 (student/teacher: STUDENT). Publisher: Министерство за образование и наука на Република Северна Македонија (Ministry of Education and Science), Skopje; year 2023; ISBN 978-608-273-352-4 (approved by the National Textbook Commission, decision 26-1660/1 of 07.12.2022). PDF pages: 102 (cover verified against the record title; byte size 19,999,462 matches the staging file; printed book is 98 pp. + 2). Earlier waves: not read before (the Geography and History waves read North Macedonia's secondary Geography/History books only). Verdict: COMPLETE. Contents map: Integrated SS pp. 5–98 (the whole book: Theme 1 At School pp. 5–44; Theme 2 At Home pp. 45–72; Theme 3 The Settlement pp. 73–98); Civics/Citizenship/Government pp. 18–24 (class community, its elected leadership and group decision-making, inside Theme 1); Morals/Values pp. 25–44 and pp. 63–66; Safety named, not placed: home appliances and safe handling pp. 60–62 is placed as home-life teaching; protection from natural disasters (fire, flood, earthquake) pp. 67–72 named only — personal/family safety teaching, outside this wave's strands. No Geography/History/Economics/Science/Religion parts. Tally: 29 placements — 7 to existing lessons, 22 NEW LESSON NEEDED. Read in place at phase3-staging (never deleted). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| North Macedonia part — culture-and-work/jobs-people-do-in-villages-and-towns — Животот во село и животот во град / Од нива до трпеза (Life in the village and life in the town / From field to table) — teaches: village people work in farming and animal husbandry, town people in industry and services; and the path of bread and milk from the farmer's field and farm to the family's table — North Macedonia Grade 2 Society, printed p. 81 | North Macedonia, *Society Grade 2 (Општество за второ одделение)* (student book), Животот во село и животот во град / Од нива до трпеза (Life in the village and life in the town / From field to table) — printed p. 81 |
+
+**Acceptance count: taught in 5 countries (Philippines, Serbia, Bangladesh, Turkey, North Macedonia). Latvia is named here as teacher-guide evidence only, counted nowhere.**
+
+North Macedonia's own way (Book 1): Society in Grade 2 is the child in three widening circles — school, home, settlement — and already runs a miniature democracy: the class community elects its president by secret ballot, sits in a pupil parliament, and learns decision-making, equality and respect as daily school practice, in a multi-ethnic classroom cast (Macedonian, Albanian and other names throughout).
+
+Registry note: the original coined string `culture-and-work/jobs-people-do-in-villages-and-towns` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/jobs-people-do-in-our-community`.

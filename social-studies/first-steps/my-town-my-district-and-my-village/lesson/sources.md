@@ -1,6 +1,6 @@
 # Sources — My Town, My District and My Village
 
-countries: Suriname, Somalia, Serbia, Kazakhstan
+countries: Suriname, Somalia, Serbia, Kazakhstan, North Macedonia
 
 **Book 1:** *Ik-boek* (student book, Dutch) — Suriname, Ministerie van Onderwijs en Volksontwikkeling (Suriname); year not printed (PDF created 2012); no ISBN printed. Title as printed: IK BOEK (OJW Leerjaar 3 — Ik-boek). Grade 3 (Leerjaar 3). 14 PDF pp. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/suriname-placements.md.
 
@@ -39,3 +39,17 @@ Kazakhstan placements — Social Studies remaining strands (2026-11-17):
 **Acceptance count: taught in 4 countries (Suriname, Somalia, Serbia, Kazakhstan).**
 
 Kazakhstan's own way (Book 2): Grade 2 turns the Grade 1 circles outward — the child meets "society" itself, etiquette as society's rules and the golden rule of politeness, then rights and duties read straight out of the Constitution, and service to society taught through volunteers and four named Kazakh figures (Abai, Akhmet Baitursynov, Kanysh Satpaev, Bauyrzhan Momyshuly).
+
+
+North Macedonia placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *Society Grade 2 (Општество за второ одделение)* (student book, Macedonian) — Title as printed: ОПШТЕСТВО ЗА ВТОРО ОДДЕЛЕНИЕ (Society for Grade 2), by Гликерија Илиоска (Glikerija Ilioska). Grade: Grade 2 (student/teacher: STUDENT). Publisher: Министерство за образование и наука на Република Северна Македонија (Ministry of Education and Science), Skopje; year 2023; ISBN 978-608-273-352-4 (approved by the National Textbook Commission, decision 26-1660/1 of 07.12.2022). PDF pages: 102 (cover verified against the record title; byte size 19,999,462 matches the staging file; printed book is 98 pp. + 2). Earlier waves: not read before (the Geography and History waves read North Macedonia's secondary Geography/History books only). Verdict: COMPLETE. Contents map: Integrated SS pp. 5–98 (the whole book: Theme 1 At School pp. 5–44; Theme 2 At Home pp. 45–72; Theme 3 The Settlement pp. 73–98); Civics/Citizenship/Government pp. 18–24 (class community, its elected leadership and group decision-making, inside Theme 1); Morals/Values pp. 25–44 and pp. 63–66; Safety named, not placed: home appliances and safe handling pp. 60–62 is placed as home-life teaching; protection from natural disasters (fire, flood, earthquake) pp. 67–72 named only — personal/family safety teaching, outside this wave's strands. No Geography/History/Economics/Science/Religion parts. Tally: 29 placements — 7 to existing lessons, 22 NEW LESSON NEEDED. Read in place at phase3-staging (never deleted). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| North Macedonia part — first-steps/my-town-my-district-and-my-village — Населно место / Град–село (The settlement / Town–village) — teaches: what a settlement is; a village is a smaller settlement with fewer people, a town is bigger — and how their houses, yards and buildings differ — North Macedonia Grade 2 Society, printed p. 76 | North Macedonia, *Society Grade 2 (Општество за второ одделение)* (student book), Населно место / Град–село (The settlement / Town–village) — printed p. 76 |
+| North Macedonia part — first-steps/my-town-my-district-and-my-village — Село или град? (Village or town?) — teaches: comparing life in a village and a town and saying which you would choose and why — North Macedonia Grade 2 Society, printed p. 85 | North Macedonia, *Society Grade 2 (Општество за второ одделение)* (student book), Село или град? (Village or town?) — printed p. 85 |
+
+**Acceptance count: taught in 5 countries (Suriname, Somalia, Serbia, Kazakhstan, North Macedonia).**
+
+North Macedonia's own way (Book 1): Society in Grade 2 is the child in three widening circles — school, home, settlement — and already runs a miniature democracy: the class community elects its president by secret ballot, sits in a pupil parliament, and learns decision-making, equality and respect as daily school practice, in a multi-ethnic classroom cast (Macedonian, Albanian and other names throughout).
