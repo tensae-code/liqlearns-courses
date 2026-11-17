@@ -1,0 +1,16 @@
+# Sources — Choosing a Leader
+
+countries: Bahrain
+
+**Book 1:** *التربية للمواطنة للصف الرابع الابتدائي (Citizenship Education for the Fourth Primary Grade)* (student book, Arabic) — Title as printed: التربية للمواطنة للصف الرابع الابتدائي (Citizenship Education for the Fourth Primary Grade). Grade: Grade 4 Primary (student/teacher: STUDENT). Publisher: Ministry of Education, Kingdom of Bahrain; authorship panel of MoE social-studies curriculum specialists (lead author Safia Khalifa al-Shorouqi); first edition 1431 AH / 2010 CE (experimental edition 1426 AH / 2005 CE); no ISBN printed. PDF pages: 66 (cover/title page verified against the record title — the GEI Edumedia Depot item 11163/6396 named in the record; 20,026,775 bytes; image-only legacy-font PDF, read in full from 100-DPI renders, 17 contact sheets). Earlier waves: not read before (Bahrain is link-only in all three earlier waves; no earlier-wave placements file exists for this country). Verdict: COMPLETE — standalone primary civics book, read page by page to the last teaching page (printed p. 64); the references list (printed pp. 65–66) is inventory-only, named not placed. Lesson 9 is Economics and is named in the contents map, not placed. Contents map: Civics/Citizenship/Government pp. 9–46, 53–64 (Lessons 1–8, 10–11); Integrated SS pp. 15–26 (Lessons 2–4: government services, family and society, the friends group); Morals/Values throughout (citizen's values in Lesson 1; friendship qualities and manners in Lesson 4; leader's qualities in Lesson 7); Economics p. 47 (Lesson 9, family income sources and daily dealings — jobs, the family's economic role, household spending and saving, with Constitution Arts. 13/16 on work quoted inside it — named, not placed: Economics strand). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/bahrain-placements-b.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — culture-and-work/choosing-a-leader — Lesson 7 اختيار القيادة (Choosing the leadership) — teaches: what leadership is; the qualities of a good leader (cooperation, sincerity, courage, bearing responsibility, honesty, sacrifice); choosing the class leader and standing for the student council; justice as the basis of rule (Constitution Art. 4); and what a leader does — keeps order, settles disagreements, protects rights — Bahrain Grade 4 BH Citizenship G4, printed p. 37 | Bahrain, *التربية للمواطنة للصف الرابع الابتدائي (Citizenship Education for the Fourth Primary Grade)* (student book), Lesson 7 اختيار القيادة (Choosing the leadership) — printed p. 37 |
+| Sub lesson 2 — Bahrain's way — the book's own teaching way | Bahrain — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Bahrain).**
+
+Bahrain's own way: citizenship is taught outwards from the child — homeland love and public property first, then the services of Bahrain's own government, the child's own rights under the UN Convention Bahrain ratified, choosing leaders from the class council up to the King, Crown Prince and Prime Minister, and finally Bahrain inside the Gulf Cooperation Council, its own regional family.
+
+Searchable tags: choosing a leader, leadership, leader qualities, student council, Bahrain, social studies, culture-and-work
