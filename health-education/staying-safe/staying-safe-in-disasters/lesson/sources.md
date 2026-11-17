@@ -1,8 +1,8 @@
 # Sources — Staying Safe in Disasters
 
-countries: El Salvador, Samoa, Timor-Leste, Azerbaijan, Ukraine, Turkey
+countries: El Salvador, Samoa, Timor-Leste, Azerbaijan, Ukraine, Turkey, Pakistan
 
-**Acceptance count: taught in 4 countries.** El Salvador is filed as student-book stock, inside the acceptance count, in this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below). Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Turkey is filed as teacher-guide evidence only in this lesson — Book 1 is a TEACHER guide, so Turkey is named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this Turkey row.
+**Acceptance count: taught in 5 countries.** El Salvador is filed as student-book stock, inside the acceptance count, in this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below). Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Turkey is filed as teacher-guide evidence only in this lesson — Book 1 is a TEACHER guide, so Turkey is named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this Turkey row. Pakistan is added as student-book stock (see its Pakistan section below), inside the acceptance count.
 
 **Book 1 — Ciencia, Salud y Medio Ambiente 1 (student book, Spanish):**
 - Title as printed: Ciencia, Salud y Medio Ambiente 1 (Colección Cipotas y Cipotes)
@@ -135,4 +135,49 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkey-healt
 
 Turkey's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the health slug registry (Part 2A / Part 2B) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Turkey's own way is content, as the book lines above record it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: staying safe in disasters, earthquakes, tremors, keeping calm, sheltering beside a strong desk, drill simulacro, El Salvador Ciencia Salud y Medio Ambiente 1, Cuando la Tierra se mece, disaster safety fire earthquake floods cyclone hurricane volcanic eruption tsunami landslide, Samoa Years 1–8 Curriculum, disasters and health types of disasters impact on health, personal disaster plan emergency contact numbers, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, Azerbaijan Fiziki Tərbiyə Grades 6-10, Georgian-language edition, hardening the body, self-control diary, air-raid alert how to act, mine safety explosive objects, emergency situations and their consequences, water and flood safety, Ukraine G7 Health Safety and Wellbeing Shyian, safe or dangerous, Güvenli mi Tehlikeli mi, earthquake simulation course, Deprem Simülasyon Parkuru, Turkey Preschool Movement & Health TG
+## Pakistan — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/pakistan-health-placements.md. Pakistan's books are combined Health and Physical Education student books (Urdu medium, Khyber Pakhtunkhwa Textbook Board, Peshawar); their PE chapters are filed in pakistan-pe-placements.md and placed in the Physical Education course. All seven books are scanned-image books read from rendered spreads (cover, credits, full contents, chapter openings/samples, closing pages), as filed. All seven books are STUDENT books, so Pakistan is student-book stock, inside the acceptance count, in this lesson.
+
+**Book 1 — Sehat-o-Jismani Taleem, Class 6 — Health chapters (student book):**
+- Title as printed: صحت و جسمانی تعلیم — چھٹی جماعت کے لیے
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Khyber Pakhtunkhwa Textbook Board, Peshawar; year academic year 2023-24; ISBN no ISBN printed
+- PDF pages: 56 scan pages
+- Verdict: COMPLETE
+- Tally: 6 placements — 0 to existing lessons, 6 NEW LESSON NEEDED (incl. 1 HELD)
+
+**Book 2 — Sehat-o-Jismani Taleem, Class 7 — Health chapters (student book):**
+- Title as printed: صحت و جسمانی تعلیم — ساتویں جماعت کے لیے
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Khyber Pakhtunkhwa Textbook Board, Peshawar; year academic year 2021-22; ISBN no ISBN printed
+- PDF pages: 64 scan pages
+- Verdict: COMPLETE
+- Tally: 8 placements — 0 to existing lessons, 8 NEW LESSON NEEDED (incl. 2 HELD)
+
+**Book 3 — Sehat-o-Jismani Taleem, Class 8 — Health chapters (student book):**
+- Title as printed: صحت و جسمانی تعلیم — آٹھویں جماعت کے لیے
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Khyber Pakhtunkhwa Textbook Board, Peshawar; year academic year 2021-22; ISBN no ISBN printed
+- PDF pages: 63 scan pages
+- Verdict: COMPLETE
+- Tally: 6 placements — 0 to existing lessons, 6 NEW LESSON NEEDED (incl. 1 HELD)
+
+**Book 4 — Sehat-o-Jismani Taleem, Class 9 — Health chapters (student book):**
+- Title as printed: صحت و جسمانی تعلیم برائے جماعت نہم
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Khyber Pakhtunkhwa Textbook Board, Peshawar; year academic year 2020-21; ISBN no ISBN printed
+- PDF pages: 117 scan pages
+- Verdict: COMPLETE
+- Tally: 6 placements — 0 to existing lessons, 6 NEW LESSON NEEDED (incl. 1 HELD)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pakistan — Chapter 5: Disasters and Hazards (آفات و خطرات) (original string `staying-safe/staying-safe-in-disasters`) | Pakistan, *Pakistan Grade 6 Sehat-o-Jismani Taleem*, Chapter 5, printed p. 30 |
+| Pakistan — Chapter 7: Disasters and Hazards (آفات و خطرات) (original string `staying-safe/staying-safe-in-disasters`) | Pakistan, *Pakistan Grade 7 Sehat-o-Jismani Taleem*, Chapter 7, printed p. 52 |
+| Pakistan — Chapter 5: Disasters and Hazards (آفات و خطرات) (original string `staying-safe/staying-safe-in-disasters`) | Pakistan, *Pakistan Grade 8 Sehat-o-Jismani Taleem*, Chapter 5, printed p. 43 |
+| Pakistan — Chapter 5: Landsliding (زمین کا کھسکاؤ) — the landslide disaster and staying safe (original string `staying-safe/staying-safe-in-disasters`) | Pakistan, *Pakistan Grade 9 Sehat-o-Jismani Taleem*, Chapter 5, printed p. 26 |
+
+Pakistan is added as student-book stock (see its book lines and rows above), inside the acceptance count — all seven Pakistan books are STUDENT books, so Pakistan is named in the countries line and provenance rows and the acceptance count rises from 4 to 5 countries. The Pakistan placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the health slug registry to this lesson; the original string is recorded in each row. Pakistan's own way is content: Urdu-medium combined Health and Physical Education books for Grades 6–12 in which each grade pairs body-system and disease teaching with diet, medicines and safety chapters, and the senior books close with conflicts, bullying, doping and violence. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: staying safe in disasters, earthquakes, tremors, keeping calm, sheltering beside a strong desk, drill simulacro, El Salvador Ciencia Salud y Medio Ambiente 1, Cuando la Tierra se mece, disaster safety fire earthquake floods cyclone hurricane volcanic eruption tsunami landslide, Samoa Years 1–8 Curriculum, disasters and health types of disasters impact on health, personal disaster plan emergency contact numbers, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, Azerbaijan Fiziki Tərbiyə Grades 6-10, Georgian-language edition, hardening the body, self-control diary, air-raid alert how to act, mine safety explosive objects, emergency situations and their consequences, water and flood safety, Ukraine G7 Health Safety and Wellbeing Shyian, safe or dangerous, Güvenli mi Tehlikeli mi, earthquake simulation course, Deprem Simülasyon Parkuru, Turkey Preschool Movement & Health TG, disasters and hazards, landsliding, landslide, Pakistan Grades 6 7 8 9 Sehat-o-Jismani Taleem

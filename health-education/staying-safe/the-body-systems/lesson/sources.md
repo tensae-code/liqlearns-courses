@@ -1,8 +1,8 @@
 # Sources — The Body Systems
 
-countries: Croatia, Honduras, Myanmar, Greece, Azerbaijan, Turkey, Zimbabwe
+countries: Croatia, Honduras, Myanmar, Greece, Azerbaijan, Turkey, Zimbabwe, Pakistan
 
-**Acceptance count: taught in 7 countries.** Zimbabwe is filed as student-book stock, inside the acceptance count, in this lesson (see its Zimbabwe section below) — Book 1 is a STUDENT book; Books 5–8 stocked there are teacher-guide evidence only, outside the count. Croatia is filed as student-book stock, inside the acceptance count, in this lesson — as a publisher SAMPLE read, exactly as filed (see the book line below). Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guide stocked here is teacher-guide evidence only, outside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count. Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 7, *Foundations of PE & Sport Grade 6*, is a STUDENT book; Book 8, the Grade 6 Differentiation Activities teacher guide, is filed as teacher-guide evidence only, outside the count.
+**Acceptance count: taught in 8 countries.** Zimbabwe is filed as student-book stock, inside the acceptance count, in this lesson (see its Zimbabwe section below) — Book 1 is a STUDENT book; Books 5–8 stocked there are teacher-guide evidence only, outside the count. Croatia is filed as student-book stock, inside the acceptance count, in this lesson — as a publisher SAMPLE read, exactly as filed (see the book line below). Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guide stocked here is teacher-guide evidence only, outside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count. Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 7, *Foundations of PE & Sport Grade 6*, is a STUDENT book; Book 8, the Grade 6 Differentiation Activities teacher guide, is filed as teacher-guide evidence only, outside the count. Pakistan is added as student-book stock (see its Pakistan section below), inside the acceptance count.
 
 **Book 1 — Čovjek i zdravlje (student book, Croatian):**
 - Title as printed: Čovjek i zdravlje — Udžbenik iz biologije za strukovne škole (Biology textbook for vocational schools)
@@ -225,4 +225,76 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/zimbabwe-hea
 
 Zimbabwe is added as student-book stock (see its book lines and rows above), inside the acceptance count — Book 1, the Grade 6 Learner's Book, is a STUDENT book, so Zimbabwe is named in the countries line and provenance rows and the acceptance count rises from 6 to 7 countries; Books 5–8 stocked here are TEACHER guides, so their rows are teacher-guide evidence only, outside the acceptance count. All five Zimbabwe placements in this lesson were filed as HELD-title-decision lines, resolved by registry Part 2B to this lesson, and the original string is recorded in each provenance row above. Zimbabwe's own way is content, as the book lines above record it: organs of the body is a named unit of the PlusOne PE and Arts books, from the Grade 6 respiratory and digestive systems to the guides' organs-and-what-they-do units.
 
-Searchable tags: body systems, cells tissues organs organ systems, blood red cells white cells platelets, transport of substances, homeostasis, Croatia, Čovjek i zdravlje, Mi cuerpo es una máquina perfecta, structure of the human body, cardiovascular lymphatic skeletal articular systems, Honduras Telebásica Grades 7, body systems in sport, respiratory circulatory muscular nervous systems, Myanmar PE Textbook Grade 10, ကာယပညာ, muscles bones and movement, Μύες οστά και κίνηση, force makes things move, stopping exercise ages the body faster, Greece Grades 5-6 Fysiki Agogi E-ST, Azerbaijan Fiziki Tərbiyə Grades 6-10, Georgian-language edition, hardening the body, self-control diary, basic anatomy and physiology, İnsan Vücudunun Temel Anatomisi, Turkey G6 Foundations of PE & Sport, organs of the body, respiratory and digestive systems, parts that store and transport food and air, Zimbabwe PlusOne PE and Arts, Zimbabwe Grade 6 PlusOne PE G6 LB, Secondary Book Press
+## Pakistan — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/pakistan-health-placements.md. Pakistan's books are combined Health and Physical Education student books (Urdu medium, Khyber Pakhtunkhwa Textbook Board, Peshawar); their PE chapters are filed in pakistan-pe-placements.md and placed in the Physical Education course. All seven books are scanned-image books read from rendered spreads (cover, credits, full contents, chapter openings/samples, closing pages), as filed. All seven books are STUDENT books, so Pakistan is student-book stock, inside the acceptance count, in this lesson.
+
+**Book 1 — Sehat-o-Jismani Taleem, Class 6 — Health chapters (student book):**
+- Title as printed: صحت و جسمانی تعلیم — چھٹی جماعت کے لیے
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Khyber Pakhtunkhwa Textbook Board, Peshawar; year academic year 2023-24; ISBN no ISBN printed
+- PDF pages: 56 scan pages
+- Verdict: COMPLETE
+- Tally: 6 placements — 0 to existing lessons, 6 NEW LESSON NEEDED (incl. 1 HELD)
+
+**Book 2 — Sehat-o-Jismani Taleem, Class 7 — Health chapters (student book):**
+- Title as printed: صحت و جسمانی تعلیم — ساتویں جماعت کے لیے
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Khyber Pakhtunkhwa Textbook Board, Peshawar; year academic year 2021-22; ISBN no ISBN printed
+- PDF pages: 64 scan pages
+- Verdict: COMPLETE
+- Tally: 8 placements — 0 to existing lessons, 8 NEW LESSON NEEDED (incl. 2 HELD)
+
+**Book 3 — Sehat-o-Jismani Taleem, Class 8 — Health chapters (student book):**
+- Title as printed: صحت و جسمانی تعلیم — آٹھویں جماعت کے لیے
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Khyber Pakhtunkhwa Textbook Board, Peshawar; year academic year 2021-22; ISBN no ISBN printed
+- PDF pages: 63 scan pages
+- Verdict: COMPLETE
+- Tally: 6 placements — 0 to existing lessons, 6 NEW LESSON NEEDED (incl. 1 HELD)
+
+**Book 4 — Sehat-o-Jismani Taleem, Class 9 — Health chapters (student book):**
+- Title as printed: صحت و جسمانی تعلیم برائے جماعت نہم
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Khyber Pakhtunkhwa Textbook Board, Peshawar; year academic year 2020-21; ISBN no ISBN printed
+- PDF pages: 117 scan pages
+- Verdict: COMPLETE
+- Tally: 6 placements — 0 to existing lessons, 6 NEW LESSON NEEDED (incl. 1 HELD)
+
+**Book 5 — Sehat-o-Jismani Taleem, Class 10 — Health chapters (student book):**
+- Title as printed: صحت و جسمانی تعلیم برائے جماعت دہم
+- Grade: Grade 10 (student/teacher: STUDENT)
+- Publisher: Khyber Pakhtunkhwa Textbook Board, Peshawar; year academic year 2020-21; ISBN no ISBN printed
+- PDF pages: 160 scan pages
+- Verdict: COMPLETE
+- Tally: 5 placements — 0 to existing lessons, 5 NEW LESSON NEEDED (incl. 1 HELD)
+
+**Book 6 — Sehat-o-Jismani Taleem, Class 11 — Health chapters (student book):**
+- Title as printed: صحت و جسمانی تعلیم برائے گیارہویں جماعت
+- Grade: Grade 11 (student/teacher: STUDENT)
+- Publisher: Khyber Pakhtunkhwa Textbook Board, Peshawar; year academic year 2020-21; ISBN no ISBN printed
+- PDF pages: 75 scan pages
+- Verdict: COMPLETE
+- Tally: 4 placements — 0 to existing lessons, 4 NEW LESSON NEEDED (incl. 1 HELD)
+
+**Book 7 — Sehat-o-Jismani Taleem, Class 12 — Health chapters (student book):**
+- Title as printed: صحت و جسمانی تعلیم برائے بارہویں جماعت
+- Grade: Grade 12 (student/teacher: STUDENT)
+- Publisher: Khyber Pakhtunkhwa Textbook Board, Peshawar; year academic year 2019-20; ISBN no ISBN printed
+- PDF pages: 157 scan pages
+- Verdict: COMPLETE
+- Tally: 5 placements — 0 to existing lessons, 5 NEW LESSON NEEDED (incl. 1 HELD)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pakistan — Chapter 2: Skeletal System and Muscles (نظامِ استخوان اور عضلات) — bones, their kinds and functions, muscles and their kinds (original string `staying-safe/HELD-title-decision`) | Pakistan, *Pakistan Grade 6 Sehat-o-Jismani Taleem*, Chapter 2, printed p. 10 |
+| Pakistan — Chapter 2: Skeletal System (نظامِ استخوان) (original string `staying-safe/HELD-title-decision`) | Pakistan, *Pakistan Grade 7 Sehat-o-Jismani Taleem*, Chapter 2, printed p. 13 |
+| Pakistan — Chapter 2: Types of Joints, Muscles and Bones (جوڑوں کی اقسام، عضلات اور ہڈیاں) (original string `staying-safe/HELD-title-decision`) | Pakistan, *Pakistan Grade 8 Sehat-o-Jismani Taleem*, Chapter 2, printed p. 7 |
+| Pakistan — Chapter 2: Respiratory System (عملِ تنفس) (original string `staying-safe/HELD-title-decision`) | Pakistan, *Pakistan Grade 9 Sehat-o-Jismani Taleem*, Chapter 2, printed p. 12 |
+| Pakistan — Chapter 2: Circulatory System (نظامِ دورانِ خون) (original string `staying-safe/HELD-title-decision`) | Pakistan, *Pakistan Grade 10 Sehat-o-Jismani Taleem*, Chapter 2, printed p. 7 |
+| Pakistan — Chapter 2: Respiratory System and Exercise (نظامِ تنفس اور ورزش) (original string `staying-safe/HELD-title-decision`) | Pakistan, *Pakistan Grade 11 Sehat-o-Jismani Taleem*, Chapter 2, printed p. 15 |
+| Pakistan — Chapter 2: Circulatory System and the Effects of Exercise (نظامِ دورانِ خون اور ورزش کے اثرات) (original string `staying-safe/HELD-title-decision`) | Pakistan, *Pakistan Grade 12 Sehat-o-Jismani Taleem*, Chapter 2, printed p. 11 |
+
+Pakistan is added as student-book stock (see its book lines and rows above), inside the acceptance count — all seven Pakistan books are STUDENT books, so Pakistan is named in the countries line and provenance rows and the acceptance count rises from 7 to 8 countries. The Pakistan placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the health slug registry to this lesson; the original string is recorded in each row. All seven Pakistan placements in this lesson were filed as HELD-title-decision lines, resolved to this canonical lesson by registry Part 2B from their HELD descriptions, recorded in the provenance rows. Pakistan's own way is content: Urdu-medium combined Health and Physical Education books for Grades 6–12 in which each grade pairs body-system and disease teaching with diet, medicines and safety chapters, and the senior books close with conflicts, bullying, doping and violence. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: body systems, cells tissues organs organ systems, blood red cells white cells platelets, transport of substances, homeostasis, Croatia, Čovjek i zdravlje, Mi cuerpo es una máquina perfecta, structure of the human body, cardiovascular lymphatic skeletal articular systems, Honduras Telebásica Grades 7, body systems in sport, respiratory circulatory muscular nervous systems, Myanmar PE Textbook Grade 10, ကာယပညာ, muscles bones and movement, Μύες οστά και κίνηση, force makes things move, stopping exercise ages the body faster, Greece Grades 5-6 Fysiki Agogi E-ST, Azerbaijan Fiziki Tərbiyə Grades 6-10, Georgian-language edition, hardening the body, self-control diary, basic anatomy and physiology, İnsan Vücudunun Temel Anatomisi, Turkey G6 Foundations of PE & Sport, organs of the body, respiratory and digestive systems, parts that store and transport food and air, Zimbabwe PlusOne PE and Arts, Zimbabwe Grade 6 PlusOne PE G6 LB, Secondary Book Press, skeletal system, muscles, joints, bones, respiratory system, circulatory system, Pakistan Grades 6 7 8 9 10 11 12 Sehat-o-Jismani Taleem

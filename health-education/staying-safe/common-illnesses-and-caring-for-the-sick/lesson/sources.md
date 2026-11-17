@@ -1,8 +1,8 @@
 # Sources — Common Illnesses and Caring for the Sick
 
-countries: Zambia, Timor-Leste, Philippines
+countries: Zambia, Timor-Leste, Philippines, Pakistan
 
-**Acceptance count: taught in 2 countries.** Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below).
+**Acceptance count: taught in 3 countries.** Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Pakistan is added as student-book stock (see its Pakistan section below), inside the acceptance count.
 
 **Book 1 — Health Teacher Training, Participants Manual 2025 (teacher training manual, English):**
 - Title as printed: Health Teacher Training — Participants Manual (LB)
@@ -74,4 +74,31 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/philippines-
 
 Philippines is added as student-book stock (see its book line and row above), inside the acceptance count — the Philippines book stocked here is a STUDENT book, so Philippines is named in the countries line and provenance row and the acceptance count rises from 1 to 2 countries. The Philippines placement in this lesson was filed under the original string `staying-safe/common-skin-diseases-in-adolescence`, resolved to this canonical lesson `staying-safe/common-illnesses-and-caring-for-the-sick` by registry Part 2, and the original string is recorded in the provenance row above. Philippines's own way is content, as the book line above records it: common skin diseases are taught as an adolescent topic in their own right, with facts sorted from myths; the book's own numbering gap (no Lesson 7) is recorded in the row, as filed.
 
-Searchable tags: common illnesses and caring for the sick, malaria nets spraying, worm infestations bilharzia schistosomiasis intestinal worms deworming, diarrhoeal diseases dehydration oral rehydration, acute respiratory tract infections ARTI, tuberculosis coughing treatment support stigma, eye ear skin infections urinary tract infection meningitis mumps, Zambia Health Teacher Training Manual 2025, diarrhoea what it is how it is treated, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, common skin diseases in adolescence, skin diseases prevention control facts vs myths, Philippines Grade 7 Health LM
+## Pakistan — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/pakistan-health-placements.md. Pakistan's books are combined Health and Physical Education student books (Urdu medium, Khyber Pakhtunkhwa Textbook Board, Peshawar); their PE chapters are filed in pakistan-pe-placements.md and placed in the Physical Education course. All seven books are scanned-image books read from rendered spreads (cover, credits, full contents, chapter openings/samples, closing pages), as filed. All seven books are STUDENT books, so Pakistan is student-book stock, inside the acceptance count, in this lesson.
+
+**Book 2 — Sehat-o-Jismani Taleem, Class 7 — Health chapters (student book):**
+- Title as printed: صحت و جسمانی تعلیم — ساتویں جماعت کے لیے
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Khyber Pakhtunkhwa Textbook Board, Peshawar; year academic year 2021-22; ISBN no ISBN printed
+- PDF pages: 64 scan pages
+- Verdict: COMPLETE
+- Tally: 8 placements — 0 to existing lessons, 8 NEW LESSON NEEDED (incl. 2 HELD)
+
+**Book 3 — Sehat-o-Jismani Taleem, Class 8 — Health chapters (student book):**
+- Title as printed: صحت و جسمانی تعلیم — آٹھویں جماعت کے لیے
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Khyber Pakhtunkhwa Textbook Board, Peshawar; year academic year 2021-22; ISBN no ISBN printed
+- PDF pages: 63 scan pages
+- Verdict: COMPLETE
+- Tally: 6 placements — 0 to existing lessons, 6 NEW LESSON NEEDED (incl. 1 HELD)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pakistan — Chapter 5: Hepatitis (Liver Inflammation) B and C (original string `staying-safe/hepatitis-b-and-c`) | Pakistan, *Pakistan Grade 7 Sehat-o-Jismani Taleem*, Chapter 5, printed p. 34 |
+| Pakistan — Chapter 1: Athlete's Foot (Disease) (ایتھلیٹ فٹ بیماری) — the fungal foot disease of athletes, its causes and care (original string `staying-safe/athletes-foot`) | Pakistan, *Pakistan Grade 8 Sehat-o-Jismani Taleem*, Chapter 1, printed p. 1 |
+
+Pakistan is added as student-book stock (see its book lines and rows above), inside the acceptance count — all seven Pakistan books are STUDENT books, so Pakistan is named in the countries line and provenance rows and the acceptance count rises from 2 to 3 countries. The Pakistan placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the health slug registry to this lesson; the original string is recorded in each row. Pakistan's own way is content: Urdu-medium combined Health and Physical Education books for Grades 6–12 in which each grade pairs body-system and disease teaching with diet, medicines and safety chapters, and the senior books close with conflicts, bullying, doping and violence. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: common illnesses and caring for the sick, malaria nets spraying, worm infestations bilharzia schistosomiasis intestinal worms deworming, diarrhoeal diseases dehydration oral rehydration, acute respiratory tract infections ARTI, tuberculosis coughing treatment support stigma, eye ear skin infections urinary tract infection meningitis mumps, Zambia Health Teacher Training Manual 2025, diarrhoea what it is how it is treated, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, common skin diseases in adolescence, skin diseases prevention control facts vs myths, Philippines Grade 7 Health LM, hepatitis B and C, liver inflammation, athlete's foot, fungal foot disease, Pakistan Grades 7 8 Sehat-o-Jismani Taleem

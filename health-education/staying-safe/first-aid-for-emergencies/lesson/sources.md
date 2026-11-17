@@ -1,8 +1,8 @@
 # Sources — First Aid for Emergencies
 
-countries: Zambia, Ukraine, Turkey
+countries: Zambia, Ukraine, Turkey, Pakistan
 
-**Acceptance count: taught in 1 country.** Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Turkey is filed as teacher-guide evidence only in this lesson — Book 1 is a TEACHER guide, so Turkey is named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this Turkey row.
+**Acceptance count: taught in 2 countries.** Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Turkey is filed as teacher-guide evidence only in this lesson — Book 1 is a TEACHER guide, so Turkey is named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this Turkey row. Pakistan is added as student-book stock (see its Pakistan section below), inside the acceptance count.
 
 **Book 1 — Health Teacher Training, Participants Manual 2025 (teacher training manual, English):**
 - Title as printed: Health Teacher Training — Participants Manual (LB)
@@ -81,4 +81,40 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkey-healt
 
 Turkey's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the health slug registry (Part 2A / Part 2B) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Turkey's own way is content, as the book lines above record it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: first aid for emergencies, ThinkMD, sick learner examination, child health referral system, refer a sick child, health facility, front-line care theory, Zambia Health Teacher Training Manual 2025, self-help and urgent aid, pre-medical aid after injury practicum, prevention over treatment, recognising illness by symptoms, measuring temperature, epidemic and pandemic behaviour, Ukraine G7 Health Safety and Wellbeing Shyian, Ukraine G5 Health Safety and Wellbeing Vasylenko, calling for help 112, Acil Durumda 112'yi Ara, who comes to help, Turkey Preschool Movement & Health TG
+## Pakistan — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/pakistan-health-placements.md. Pakistan's books are combined Health and Physical Education student books (Urdu medium, Khyber Pakhtunkhwa Textbook Board, Peshawar); their PE chapters are filed in pakistan-pe-placements.md and placed in the Physical Education course. All seven books are scanned-image books read from rendered spreads (cover, credits, full contents, chapter openings/samples, closing pages), as filed. All seven books are STUDENT books, so Pakistan is student-book stock, inside the acceptance count, in this lesson.
+
+**Book 5 — Sehat-o-Jismani Taleem, Class 10 — Health chapters (student book):**
+- Title as printed: صحت و جسمانی تعلیم برائے جماعت دہم
+- Grade: Grade 10 (student/teacher: STUDENT)
+- Publisher: Khyber Pakhtunkhwa Textbook Board, Peshawar; year academic year 2020-21; ISBN no ISBN printed
+- PDF pages: 160 scan pages
+- Verdict: COMPLETE
+- Tally: 5 placements — 0 to existing lessons, 5 NEW LESSON NEEDED (incl. 1 HELD)
+
+**Book 6 — Sehat-o-Jismani Taleem, Class 11 — Health chapters (student book):**
+- Title as printed: صحت و جسمانی تعلیم برائے گیارہویں جماعت
+- Grade: Grade 11 (student/teacher: STUDENT)
+- Publisher: Khyber Pakhtunkhwa Textbook Board, Peshawar; year academic year 2020-21; ISBN no ISBN printed
+- PDF pages: 75 scan pages
+- Verdict: COMPLETE
+- Tally: 4 placements — 0 to existing lessons, 4 NEW LESSON NEEDED (incl. 1 HELD)
+
+**Book 7 — Sehat-o-Jismani Taleem, Class 12 — Health chapters (student book):**
+- Title as printed: صحت و جسمانی تعلیم برائے بارہویں جماعت
+- Grade: Grade 12 (student/teacher: STUDENT)
+- Publisher: Khyber Pakhtunkhwa Textbook Board, Peshawar; year academic year 2019-20; ISBN no ISBN printed
+- PDF pages: 157 scan pages
+- Verdict: COMPLETE
+- Tally: 5 placements — 0 to existing lessons, 5 NEW LESSON NEEDED (incl. 1 HELD)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pakistan — Chapter 5: Emergency Situations (ہنگامی صورت حال) (original string `staying-safe/first-aid-in-emergencies`) | Pakistan, *Pakistan Grade 10 Sehat-o-Jismani Taleem*, Chapter 5, printed p. 32 |
+| Pakistan — Chapter 4: Emergency Situations (ہنگامی صورت حال) (original string `staying-safe/first-aid-in-emergencies`) | Pakistan, *Pakistan Grade 11 Sehat-o-Jismani Taleem*, Chapter 4, printed p. 29 |
+| Pakistan — Chapter 4: Emergency Situations (ہنگامی صورت حال) (original string `staying-safe/first-aid-in-emergencies`) | Pakistan, *Pakistan Grade 12 Sehat-o-Jismani Taleem*, Chapter 4, printed p. 28 |
+
+Pakistan is added as student-book stock (see its book lines and rows above), inside the acceptance count — all seven Pakistan books are STUDENT books, so Pakistan is named in the countries line and provenance rows and the acceptance count rises from 1 to 2 countries. The Pakistan placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the health slug registry to this lesson; the original string is recorded in each row. Pakistan's own way is content: Urdu-medium combined Health and Physical Education books for Grades 6–12 in which each grade pairs body-system and disease teaching with diet, medicines and safety chapters, and the senior books close with conflicts, bullying, doping and violence. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: first aid for emergencies, ThinkMD, sick learner examination, child health referral system, refer a sick child, health facility, front-line care theory, Zambia Health Teacher Training Manual 2025, self-help and urgent aid, pre-medical aid after injury practicum, prevention over treatment, recognising illness by symptoms, measuring temperature, epidemic and pandemic behaviour, Ukraine G7 Health Safety and Wellbeing Shyian, Ukraine G5 Health Safety and Wellbeing Vasylenko, calling for help 112, Acil Durumda 112'yi Ara, who comes to help, Turkey Preschool Movement & Health TG, emergency situations, Pakistan Grades 10 11 12 Sehat-o-Jismani Taleem

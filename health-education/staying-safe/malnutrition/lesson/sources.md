@@ -1,8 +1,8 @@
 # Sources — Malnutrition
 
-countries: Zambia, Samoa, Timor-Leste, Philippines, Greece
+countries: Zambia, Samoa, Timor-Leste, Philippines, Greece, Pakistan
 
-**Acceptance count: taught in 3 countries.** Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below).
+**Acceptance count: taught in 4 countries.** Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Pakistan is added as student-book stock (see its Pakistan section below), inside the acceptance count.
 
 **Book 1 — Health Teacher Training, Participants Manual 2025 (teacher training manual, English):**
 - Title as printed: Health Teacher Training — Participants Manual (LB)
@@ -108,4 +108,31 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/greece-healt
 
 Greece is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — both Greece books are STUDENT books, so Greece is named in the countries line and provenance row(s) and the acceptance count rises from 2 to 3 countries. The Greece placement(s) in this lesson were filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson by registry Part 2B (HELD description as recorded in the provenance row), and the original string is recorded in each provenance row above. Greece's own way is content, as the book line above records it: pupils calculate their own family's Body Mass Index — health taught as self-measurement. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: malnutrition, anaemia, undernutrition signs, iron and anaemia, school feeding, Zambia Health Teacher Training Manual 2025, body composition body image body types body size shape skin colour, Samoa Years 11–12 TG, malnutrition stunting undernutrition low height for age causes of malnutrition, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, malnutrition and eating disorders, Do You Eat Right, nutritional status of Filipino adolescents, anorexia nervosa bulimia nervosa compulsive eating, micronutrient deficiencies, Philippines Grade 7 Health LM, exercise nutrition and body-weight control, overweight and obesity treatment by diet and exercise, family Body Mass Index BMI, Greece Grades 5-6 Fysiki Agogi E-ST
+## Pakistan — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/pakistan-health-placements.md. Pakistan's books are combined Health and Physical Education student books (Urdu medium, Khyber Pakhtunkhwa Textbook Board, Peshawar); their PE chapters are filed in pakistan-pe-placements.md and placed in the Physical Education course. All seven books are scanned-image books read from rendered spreads (cover, credits, full contents, chapter openings/samples, closing pages), as filed. All seven books are STUDENT books, so Pakistan is student-book stock, inside the acceptance count, in this lesson.
+
+**Book 4 — Sehat-o-Jismani Taleem, Class 9 — Health chapters (student book):**
+- Title as printed: صحت و جسمانی تعلیم برائے جماعت نہم
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Khyber Pakhtunkhwa Textbook Board, Peshawar; year academic year 2020-21; ISBN no ISBN printed
+- PDF pages: 117 scan pages
+- Verdict: COMPLETE
+- Tally: 6 placements — 0 to existing lessons, 6 NEW LESSON NEEDED (incl. 1 HELD)
+
+**Book 5 — Sehat-o-Jismani Taleem, Class 10 — Health chapters (student book):**
+- Title as printed: صحت و جسمانی تعلیم برائے جماعت دہم
+- Grade: Grade 10 (student/teacher: STUDENT)
+- Publisher: Khyber Pakhtunkhwa Textbook Board, Peshawar; year academic year 2020-21; ISBN no ISBN printed
+- PDF pages: 160 scan pages
+- Verdict: COMPLETE
+- Tally: 5 placements — 0 to existing lessons, 5 NEW LESSON NEEDED (incl. 1 HELD)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pakistan — Chapter 3: Malnutrition (ناقص غذا) (original string `eating-healthy-food/malnutrition`) | Pakistan, *Pakistan Grade 9 Sehat-o-Jismani Taleem*, Chapter 3, printed p. 15 |
+| Pakistan — Chapter 3: Malnutrition (ناقص غذا) (original string `eating-healthy-food/malnutrition`) | Pakistan, *Pakistan Grade 10 Sehat-o-Jismani Taleem*, Chapter 3, printed p. 13 |
+
+Pakistan is added as student-book stock (see its book lines and rows above), inside the acceptance count — all seven Pakistan books are STUDENT books, so Pakistan is named in the countries line and provenance rows and the acceptance count rises from 3 to 4 countries. The Pakistan placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the health slug registry to this lesson; the original string is recorded in each row. Pakistan's own way is content: Urdu-medium combined Health and Physical Education books for Grades 6–12 in which each grade pairs body-system and disease teaching with diet, medicines and safety chapters, and the senior books close with conflicts, bullying, doping and violence. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: malnutrition, anaemia, undernutrition signs, iron and anaemia, school feeding, Zambia Health Teacher Training Manual 2025, body composition body image body types body size shape skin colour, Samoa Years 11–12 TG, malnutrition stunting undernutrition low height for age causes of malnutrition, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, malnutrition and eating disorders, Do You Eat Right, nutritional status of Filipino adolescents, anorexia nervosa bulimia nervosa compulsive eating, micronutrient deficiencies, Philippines Grade 7 Health LM, exercise nutrition and body-weight control, overweight and obesity treatment by diet and exercise, family Body Mass Index BMI, Greece Grades 5-6 Fysiki Agogi E-ST, malnutrition, Pakistan Grades 9 10 Sehat-o-Jismani Taleem

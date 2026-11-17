@@ -886,3 +886,39 @@ Skills subject taught through discussion-based lesson plans
 that build year by year — body changes and life skills in
 SSS1, sexuality, relationships and pregnancy in SSS2,
 violence, trafficking, substance abuse and HIV/Ebola in SSS3.
+
+**Health expansion — Pakistan — BUILT 2026-11-16:** 39 placements
+stocked — 34 into existing lessons and 5 as 1 new lesson
+(**Getting Along and Solving Conflicts**
+(`fair-play-and-the-body/getting-along-and-solving-conflicts`))
+— bringing this course to **52 lessons**. Stocked into existing
+lessons: Non-communicable Diseases (6), The Body Systems (7),
+Eating a Balanced Diet (3), Using Medicines Safely (4), Staying
+Safe in Disasters (4), Common Illnesses and Caring for the Sick
+(2), Saying No to Drugs, Alcohol and Tobacco (1), Malnutrition
+(2), First Aid for Emergencies (3), Doping — What It Is and What
+It Costs (1) and Protecting Myself from Abuse (1). All 39
+placements are from Pakistan's seven combined Health and
+Physical Education student books, Grades 6–12 (Urdu medium,
+Khyber Pakhtunkhwa Textbook Board, Peshawar, all COMPLETE,
+scanned-image books read from rendered spreads as filed). The
+Pakistan books are STUDENT books, so Pakistan is student-book
+stock, inside the acceptance counts, in every lesson it touches
+(each touched lesson's count rose by 1; the new lesson stands at
+acceptance count 1; Protecting Myself from Abuse rises from 0
+to 1, its first student-book stock). Seven of the placements
+were filed as HELD-title-decision lines (the body-systems
+chapters of every grade), resolved by registry Part 2B to The
+Body Systems. One further Pakistan Health-file placement
+(Grade 7, Chapter 3: Joints and Postural Defects, printed
+p. 18) was NOT stocked here: the registry resolves it to the PE
+course's Correct Posture lesson (`moving-basics/correct-posture`).
+Verified by git grep on origin/main: that specific placement is
+NOT yet stocked in the PE course either — the Correct Posture
+lesson holds Pakistan's Grade 6 posture part only — so it is
+recorded here as an open PE fix-up, not silently dropped.
+Pakistan's own way is recorded as content in the book lines:
+Urdu-medium combined Health and Physical Education books in
+which each grade pairs body-system and disease teaching with
+diet, medicines and safety chapters, and the senior books close
+with conflicts, bullying, doping and violence.

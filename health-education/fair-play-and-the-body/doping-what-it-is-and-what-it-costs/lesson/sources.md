@@ -1,6 +1,6 @@
 # Sources — Doping — What It Is and What It Costs
 
-countries: Ethiopia, China, Honduras, Greece
+countries: Ethiopia, China, Honduras, Greece, Pakistan
 
 **Book 1:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–106 + front matter (114 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md.
 
@@ -41,7 +41,7 @@ countries: Ethiopia, China, Honduras, Greece
 | Prove-it questions folded from the book's own Chapter 1 review — Sub lesson 4 (teacher guide — evidence) | Ethiopia, *Grade 7 Teacher Guide*, Chapter 1 review answers, printed pp. 12–13 (teacher guide — evidence) |
 | China — 第四章 第五节 运动安全（八）— what doping is and what counts as a doping violation (filed under `fair-play-and-the-body/doping-what-it-is-and-what-it-costs`, this lesson itself) | China, *普通高中教科书·体育与健康必修 全一册 (PEP Senior-High PE & Health, Compulsory, Complete Volume)*, 第四章 第五节 运动安全（八）, printed p. 78 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, China, Honduras, Greece).** Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below).
+**Acceptance count: taught in 5 countries (Ethiopia, China, Honduras, Greece, Pakistan).** Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Pakistan is added as student-book stock (see its Pakistan section below), inside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below).
 
 The Grade 5 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -113,4 +113,22 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/greece-healt
 
 Greece is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — both Greece books are STUDENT books, so Greece is named in the countries line and provenance row(s) and the acceptance count rises from 3 to 4 countries. The Greece placement(s) in this lesson were filed under this lesson's own slug, stocked directly, and the original string is recorded in each provenance row above. Greece's own way is content, as the book lines above record it: doping is taught as cheating that steals the victory and as a dishonest and health-dangerous behaviour, with the harms of anabolics to adolescents named. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: doping ዶፒንግ, performance-enhancing substances አበረታች ቅመማዎች, clean sport, WADA 1999, IOC medical commission 1967, Mexico 1968 tests, Ethiopia anti-doping office proclamation 400/2009, doping harms sanctions, Ethiopia HPE Grades 5–7, what doping is, doping violation, China Senior High PEP PE & Health, tabaquismo smoking addiction heart rate blood pressure sudden death, alcohol harm to physical capacities, harmful habits sedentarism smoking alcoholism bad eating habits, Honduras Telebásica Grade 9, true athletes do not cheat, supplements hiding banned substances, doping in sport Φαρμακοδιέγερση, blood doping, anabolics growth plates, diuretics, Greece Grades 5-6 Fysiki Agogi E-ST, Greece Grades 7-9 Fysiki Agogi Gymnasiou
+## Pakistan — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/pakistan-health-placements.md. Pakistan's books are combined Health and Physical Education student books (Urdu medium, Khyber Pakhtunkhwa Textbook Board, Peshawar); their PE chapters are filed in pakistan-pe-placements.md and placed in the Physical Education course. All seven books are scanned-image books read from rendered spreads (cover, credits, full contents, chapter openings/samples, closing pages), as filed. All seven books are STUDENT books, so Pakistan is student-book stock, inside the acceptance count, in this lesson.
+
+**Book 7 — Sehat-o-Jismani Taleem, Class 12 — Health chapters (student book):**
+- Title as printed: صحت و جسمانی تعلیم برائے بارہویں جماعت
+- Grade: Grade 12 (student/teacher: STUDENT)
+- Publisher: Khyber Pakhtunkhwa Textbook Board, Peshawar; year academic year 2019-20; ISBN no ISBN printed
+- PDF pages: 157 scan pages
+- Verdict: COMPLETE
+- Tally: 5 placements — 0 to existing lessons, 5 NEW LESSON NEEDED (incl. 1 HELD)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pakistan — Chapter 3: Doping (ڈوپنگ) (original string `fair-play-and-the-body/doping-in-sport`) | Pakistan, *Pakistan Grade 12 Sehat-o-Jismani Taleem*, Chapter 3, printed p. 23 |
+
+Pakistan is added as student-book stock (see its book lines and rows above), inside the acceptance count — all seven Pakistan books are STUDENT books, so Pakistan is named in the countries line and provenance rows and the acceptance count rises from 4 to 5 countries. The Pakistan placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the health slug registry to this lesson; the original string is recorded in each row. The Pakistan placement was filed under the original string `fair-play-and-the-body/doping-in-sport`, resolved by registry Part 2A to this EXISTING lesson. Pakistan's own way is content: Urdu-medium combined Health and Physical Education books for Grades 6–12 in which each grade pairs body-system and disease teaching with diet, medicines and safety chapters, and the senior books close with conflicts, bullying, doping and violence. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: doping ዶፒንግ, performance-enhancing substances አበረታች ቅመማዎች, clean sport, WADA 1999, IOC medical commission 1967, Mexico 1968 tests, Ethiopia anti-doping office proclamation 400/2009, doping harms sanctions, Ethiopia HPE Grades 5–7, what doping is, doping violation, China Senior High PEP PE & Health, tabaquismo smoking addiction heart rate blood pressure sudden death, alcohol harm to physical capacities, harmful habits sedentarism smoking alcoholism bad eating habits, Honduras Telebásica Grade 9, true athletes do not cheat, supplements hiding banned substances, doping in sport Φαρμακοδιέγερση, blood doping, anabolics growth plates, diuretics, Greece Grades 5-6 Fysiki Agogi E-ST, Greece Grades 7-9 Fysiki Agogi Gymnasiou, doping, Pakistan Grade 12 Sehat-o-Jismani Taleem

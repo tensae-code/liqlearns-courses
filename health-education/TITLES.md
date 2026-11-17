@@ -339,3 +339,23 @@ this merge and both new lessons stand at acceptance count 0.
 Records 2 and 3 of the Sierra Leone placements file are
 RECORD-ONLY non-textbook programme papers with 0 placements,
 nothing stocked from them.
+
+The Health expansion then added (Pakistan): **Getting Along
+and Solving Conflicts**
+(`fair-play-and-the-body/getting-along-and-solving-conflicts`)
+— 1 new lesson, bringing this course to 52 lessons. A further
+34 Pakistan placements were stocked into existing lessons
+(Non-communicable Diseases ×6, The Body Systems ×7, Eating a
+Balanced Diet ×3, Using Medicines Safely ×4, Staying Safe in
+Disasters ×4, Common Illnesses and Caring for the Sick ×2,
+Saying No to Drugs, Alcohol and Tobacco, Malnutrition ×2,
+First Aid for Emergencies ×3, Doping — What It Is and What It
+Costs, Protecting Myself from Abuse), all as student-book
+stock — all seven Pakistan books (Sehat-o-Jismani Taleem,
+Grades 6–12, Khyber Pakhtunkhwa Textbook Board) are student
+books, so each touched lesson's acceptance count rose by 1;
+the new lesson stands at acceptance count 1. One Pakistan
+placement (Grade 7, Chapter 3: Joints and Postural Defects)
+resolves to the PE course's Correct Posture lesson and was
+excluded here; it is not yet stocked in PE either (verified by
+git grep on origin/main — see CURRICULUM.md).
