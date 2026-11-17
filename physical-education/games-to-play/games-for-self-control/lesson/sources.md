@@ -1,6 +1,6 @@
 # Sources — Games for Self-Control
 
-countries: Ethiopia, Tajikistan, Rwanda, DR Congo
+countries: Ethiopia, Tajikistan, Rwanda, DR Congo, Turkey
 
 **Book 1:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–81 + front matter (88 PDF pages). Printed page = PDF page − 7. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md.
 
@@ -22,7 +22,7 @@ countries: Ethiopia, Tajikistan, Rwanda, DR Congo
 | Prove-it questions folded from the book's own Chapter 2 review — Sub lesson 4 (teacher guide — evidence) | Ethiopia, *Grade 6 Teacher Guide*, Chapter 2 summary + assessment answers, printed pp. 27–28 (teacher guide — evidence) |
 
 | Tajikistan — Part 1, Train Your Mind and Character; Self-Control — training will and character through exercise, and watching over your own state and progress (original target `games-to-play/games-for-self-control`) | Tajikistan, *Fizicheskaya Kultura (Physical Culture), Grades 1–4*, Part 1, printed pp. ~46–55 |
-**Acceptance count: taught in 3 countries (Ethiopia, Tajikistan, DR Congo).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 4 countries (Ethiopia, Tajikistan, DR Congo, Turkey).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count. Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count.
 
 The Grade 1 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -75,3 +75,80 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-pe-
 | DR Congo — Ch. 9 §9.2 Imitation games — camel and chamois slow animal-walk imitations (original target `games-to-play/games-for-self-control`) | DR Congo Grade 6 EPS Primaire 6, Ch. 9 §9.2 |
 
 DR Congo's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. DR Congo is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Turkey — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkey-pe-placements.md. The Turkey books stocked in this lesson are Book 9, Book 11, Book 13, Book 15, Book 20 — all read in full as filed (full text extraction, cover/title page verified against each record). Turkey is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 9, Book 11, Book 13); its teacher guides stocked here (Book 15, Book 20) are evidence only, outside the acceptance count. Turkey's own way is content, as the book lines below record it: Book 9: grade 6 adds team and group leadership and rule-bound games on top of the dance spine, and returns to Horon for a second, deeper year.; Book 11: the very first PE book already runs the full spine — move and protect your health, move with rhythm, play musical games, and learn a folk dance (Halay) in grade 1.; Book 13: by grade 7 the music-school pupils choreograph their own dances, and the folk-dance theme is Zeybek, the slow, proud Aegean dance.; Book 15: primary PE is four-to-six themes a year with the same spiral every year — move, play by the rules, move with rhythm, join physical activity for health — plus, in grades 3–4, exploring the environment by moving and Turkey's cultural game heritage; grade 4 ends with "movement knows no barriers" (inclusive movement).
+
+**Book — Turkey Book 9 (student book):**
+## Book 9 — PE, Game & Music Grade 6, Music Middle School (student book, Turkish)
+- Title as printed: Beden Eğitimi, Oyun ve Müzik 6. Sınıf Ders Kitabı (Müzik Ortaokulu — Music Middle School edition)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: MEB; year 2026; ISBN not legible in extracted front matter
+- PDF pages: 98 (cover/title page verified against the record title)
+- Verdict: COMPLETE — combined PE/Game/Music book; Music parts named, not placed: creating rhythms (printed p. 24)
+- Tally: 9 placements — 6 to existing lessons, 3 NEW LESSON NEEDED
+- Turkey's own way: grade 6 adds team and group leadership and rule-bound games on top of the dance spine, and returns to Horon for a second, deeper year.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Kurallı Oyunlar — games played by rules (original target `games-to-play/games-for-self-control`) | Turkey G6 PE Game & Music (Music MS), printed p. 50 |
+
+**Book — Turkey Book 11 (student book):**
+## Book 11 — PE, Game & Music Grade 1, Music Primary School (student book, Turkish)
+- Title as printed: Beden Eğitimi, Oyun ve Müzik 1. Sınıf Ders Kitabı (Müzik İlkokulu — Music Primary School edition)
+- Grade: 1 (student/teacher: STUDENT)
+- Publisher: MEB; year 2026; ISBN not legible in extracted front matter
+- PDF pages: 180 (cover/title page verified against the record title)
+- Verdict: COMPLETE — combined PE/Game/Music book; Music parts named, not placed: the rhythm-and-rhyme material inside Theme 2 (printed pp. 70–101). One Health part (balanced and regular nutrition, printed p. 56) is filed in turkey-health-placements.md.
+- Tally (PE file): 14 placements — 11 to existing lessons, 3 NEW LESSON NEEDED
+- Turkey's own way: the very first PE book already runs the full spine — move and protect your health, move with rhythm, play musical games, and learn a folk dance (Halay) in grade 1.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Oyun Kuralları — the rules of games (original target `games-to-play/games-for-self-control`) | Turkey G1 PE Game & Music (Music PS), printed p. 108 |
+
+**Book — Turkey Book 13 (student book):**
+## Book 13 — PE, Game & Music Grade 7, Music Middle School (student book, Turkish)
+- Title as printed: Beden Eğitimi, Oyun ve Müzik 7. Sınıf Ders Kitabı (Müzik Ortaokulu — Music Middle School edition)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: MEB; year 2026; ISBN not legible in extracted front matter
+- PDF pages: 106 (cover/title page verified against the record title)
+- Verdict: COMPLETE — combined PE/Game/Music book; Music parts named, not placed: the rhythm workshop (printed p. 30) and Zeybek music (printed p. 86)
+- Tally: 10 placements — 6 to existing lessons, 4 NEW LESSON NEEDED
+- Turkey's own way: by grade 7 the music-school pupils choreograph their own dances, and the folk-dance theme is Zeybek, the slow, proud Aegean dance.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Kurallı Oyunlar — games played by rules (original target `games-to-play/games-for-self-control`) | Turkey G7 PE Game & Music (Music MS), printed p. 52 |
+
+**Book — Turkey Book 15 (teacher guide):**
+## Book 15 — PE & Game TG Grades 1–4 (teacher guide, Turkish)
+- Title as printed: Beden Eğitimi ve Oyun Dersi (1, 2, 3 ve 4. Sınıflar) Öğretmen Kılavuz Kitabı (İlkokul)
+- Grade: 1–4 (student/teacher: TEACHER)
+- Publisher: MEB Devlet Kitapları; year 2025; ISBN not legible in extracted front matter
+- PDF pages: 382 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 20 placements — 16 to existing lessons, 4 NEW LESSON NEEDED
+- Turkey's own way: primary PE is four-to-six themes a year with the same spiral every year — move, play by the rules, move with rhythm, join physical activity for health — plus, in grades 3–4, exploring the environment by moving and Turkey's cultural game heritage; grade 4 ends with "movement knows no barriers" (inclusive movement).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — G1 Theme 2: Oyunu Kuralına Göre Oynuyorum — playing the game by its rules (original target `games-to-play/games-for-self-control`) | Turkey G1–4 PE & Game TG, printed p. 44 |
+| Turkey — G2 Theme 2: Oyunun Kurallarını Uyguluyorum — applying the rules of the game (original target `games-to-play/games-for-self-control`) | Turkey G1–4 PE & Game TG, printed p. 115 |
+
+**Book — Turkey Book 20 (teacher guide):**
+## Book 20 — Differentiation Activities TG, PE & Game Grades 1–4 (teacher guide, Turkish)
+- Title as printed: Beden Eğitimi ve Oyun (1, 2, 3 ve 4. Sınıflar) Farklılaştırma Etkinlikleri Öğretmen Kılavuz Kitabı (İlkokul)
+- Grade: 1–4 (student/teacher: TEACHER)
+- Publisher: MEB Devlet Kitapları (supplementary/resource series); year 2025/2026
+- PDF pages: 129 (cover/title page verified against the record title)
+- Verdict: COMPLETE — differentiation book keyed theme-by-theme to the Grades 1–4 teacher guide (Book 15); placed at theme level
+- Tally: 20 placements — 16 to existing lessons, 4 NEW LESSON NEEDED
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — G1 Theme 2 differentiated: Oyunu Kuralına Göre Oynuyorum (original target `games-to-play/games-for-self-control`) | Turkey G1–4 PE Differentiation TG, printed p. 17 |
+| Turkey — G2 Theme 2 differentiated: Oyunun Kurallarını Uyguluyorum (original target `games-to-play/games-for-self-control`) | Turkey G1–4 PE Differentiation TG, printed p. 42 |
+
+Turkey's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Turkey is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 9, Book 11, Book 13); its teacher guides stocked here (Book 15, Book 20) are evidence only, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

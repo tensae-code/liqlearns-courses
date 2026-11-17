@@ -911,6 +911,23 @@ once with both editions named, as filed. The Sylla Store record
 is a paywalled catalogue homepage, record-only UNREAD with
 0 placements.
 
+**PE expansion — Turkey — BUILT 2026-11-16:** 219 placements
+from Turkey's 24 MEB books (preschool, Grades 1–12 and the
+preparatory class; student books and teacher guides, Turkish,
+all COMPLETE as filed) stocked — 181 into existing lessons
+and 38 as 4 new lessons (Outdoor and Adventure Activities;
+Traditional Games of Turkey; Traditional Dances of Turkey;
+Sport in Turkey) — bringing this course to **223 lessons**.
+Turkey is student-book stock, inside the acceptance counts,
+in every lesson its student books touch; its many teacher
+guides (the lise and middle-school guides, the Grades 1–4
+guide and the differentiation guides) are evidence only,
+outside the acceptance counts. No Turkey PE placement
+resolves to a Health-course lesson, so none was excluded as
+Health-bound; the combined books' Health parts are filed in
+turkey-health-placements.md, and the PE/Game/Music books'
+Music parts are named, not placed, as filed.
+
 ## Unit 1 — Moving Basics
 
 1. **Combined Travelling and On-the-Spot Movements** (`moving-basics/combined-travelling-and-on-the-spot`) — joining travelling movements together, joining on-the-spot movements together, and chaining the two families in one sequence.
@@ -1014,6 +1031,8 @@ is a paywalled catalogue homepage, record-only UNREAD with
 11. **Athletics Competitions** (`athletics/athletics-competitions`) — athletics competitions: the stadium, the events programme, and putting your skills together in individual competition — taught in North Macedonia's Grade 11 book as athletics competitions: the 400 m stadium and the full programme of track races, hurdles, steeplechase, relays, race walking, jumps, throws, decathlon and heptathlon (North Macedonia's student book).
 
 12. **Race Walking** (`athletics/race-walking`) — race walking: the technique of fast walking with its support phases, posture and arm action — taught in Malaysia's Grade 8 PJPK Tingkatan 2 book as Lumba Jalan Kaki, race walking technique (Malaysia's student book).
+
+13. **Outdoor and Adventure Activities** (`athletics/outdoor-and-adventure-activities`) — outdoor and adventure activities: open-air, field and nature sports, their skills and tactics — taught in Turkey's Grade 10 teacher guide as field and nature sports (cycling and archery prominent), specialised skills then tactics and strategy, in its Grades 1–4 teacher guide as exploring the surroundings and nature by moving, and in its Grades 5–8 teacher guide as grade 7 open-air and adventure activities (Turkey's teacher guides, evidence only).
 
 ## Unit 5 — Ball Games
 
@@ -1164,6 +1183,9 @@ is a paywalled catalogue homepage, record-only UNREAD with
 56. **Traditional Dances of Greece** (`traditional-games-and-dances/traditional-dances-of-greece`) — traditional dances of Greece: Greek folk dance — where it lives (festivals, weddings, home) and dancing it — taught across Greece's four books: dance at home and at panigiria with its holds and costumes (Grades 1-2), dance in myth, ancient Greece and through time, with improvisation, mimetic dance and the dance bands (Grades 3-4), the named dances dance by dance — zonaradikos, tsamikos, syrtos-kalamatianos, tik, enteka, pentozalis (Grades 5-6) — and why Greece has many local dances (Grades 7-9) (Greece's student books).
 57. **Traditional Games of DR Congo** (`traditional-games-and-dances/traditional-games-of-dr-congo`) — traditional games of DR Congo: Congolese traditional games, including wrestling initiation games and Marelle (Kebo) — taught in DR Congo's Grade 1 EPS book as wrestling initiation, Marelle (Kebo), Zango and adapting local games from Kivu, Tshopo and other provinces, in its Grade 2 book as the wrestling game and Marelle (Kebo), and in its Grades 3–4 book as Nzango and Matadi wrestling games adapted inside the team-games chapter (DR Congo's student books).
 
+58. **Traditional Games of Turkey** (`traditional-games-and-dances/traditional-games-of-turkey`) — traditional games of Turkey: Turkey's traditional children's games and cultural game heritage — taught in Turkey's music-school books as Geleneksel Çocuk Oyunları (traditional children's games) at grades 2, 5, 6 and 7, and in its middle-school books as the theme Kültürel Birikimlerimiz ve Oyun, our cultural heritage and games (Turkey's student books; its teacher guides, evidence only).
+59. **Traditional Dances of Turkey** (`traditional-games-and-dances/traditional-dances-of-turkey`) — traditional dances of Turkey: the folk dances — Horon, Halay, Zeybek, Kaşık spoon dances and Karşılama — their features, dress and steps — taught across Turkey's music-school books dance by dance: folk-dance types and basic movements, Horon of the Black Sea, Halay, Zeybek of the Aegean, the Kaşık spoon dances and the Karşılama dance-games of Thrace (Turkey's student books; its differentiation teacher guides, evidence only).
+
 ## Unit 8 — Sport and Its Story
 
 1. **Athletes Beyond Sport — What Champions Give Back** (`sport-and-its-story/athletes-beyond-sport`) — what famous athletes do beyond racing: the jobs, businesses, hospitals, training centres and public work the books record for Abebe Bikila, Tirunes…
@@ -1193,3 +1215,4 @@ is a paywalled catalogue homepage, record-only UNREAD with
 24. **Cuba's Sporting Glories** (`sport-and-its-story/cubas-sporting-glories`) — Cuba's sporting glories: the leading figures and heroes of Cuban sport — taught in Cuba's Grade 2, 5, 8 and 11 Programas, where every grade's general objectives include knowing and admiring the "glorias deportivas" of the Cuban Sports Movement, local and national (Cuba's teacher guides/programmes, evidence only).
 25. **Kuwait's Famous Athletes** (`sport-and-its-story/kuwaits-famous-athletes`) — Kuwait's famous athletes: the champions of Kuwait held up as role models — taught in both Kuwait girls' guides as "Heroes of My Homeland", closing the folk-heritage teaching (Kuwait's teacher guides, evidence only).
 26. **Leadership and Roles in Sport** (`sport-and-its-story/leadership-and-roles-in-sport`) — leadership and roles in sport: captains, coaches, referees and organisers, and leading and collaborating in a team — taught in Indonesia's Grade 7 PJOK book as the roles in sport (captain, coach, referee and the Sport Education Model's pupil roles), in its Grade 9 book as leadership in PJOK lessons and applying leadership and collaboration, in its Grade 10 book as decision-making in teamwork, leadership skills and collaboration, and in its Grade 12 book as developing your leadership style (Indonesia's student books; its teacher guide, evidence only).
+27. **Sport in Turkey** (`sport-and-its-story/sport-in-turkey`) — sport in Turkey: the history of Turkish sport, Atatürk's place in it, and the national policies that shaped it — taught in Turkey's Grade 5 Foundations student book as the history of sport among the Turks with its key people and events, in its Grade 9 teacher guide as Atatürk ve Spor, and in its Grade 10 teacher guide as the effect of national sport policies on Turkish sport (Turkey's student book; its teacher guides, evidence only).

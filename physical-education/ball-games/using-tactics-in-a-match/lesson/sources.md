@@ -1,8 +1,8 @@
 # Sources — Using Tactics in a Match
 
-countries: China, Indonesia
+countries: China, Indonesia, Turkey
 
-**Acceptance count: taught in 2 countries (China, Indonesia).** China is student-book stock (see its rows below), inside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count; the Indonesia teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
+**Acceptance count: taught in 2 countries (China, Indonesia).** China is student-book stock (see its rows below), inside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count; the Indonesia teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Turkey is added as teacher-guide evidence only (see its Turkey section below), named in the countries line but outside the acceptance count.
 
 ## China — PE expansion 2026-11-16
 
@@ -158,3 +158,39 @@ Indonesia's placements in this lesson were filed under the original strings reco
 This is a canonical NEW lesson (slug-registry Part 1: `ball-games/using-tactics-in-a-match` — Using tactics in a match: planning a tactic, attack and defence patterns, and making decisions under pressure.); Indonesia's placements were filed under the original strings recorded in the provenance rows above, resolved by registry Part 2 to this canonical slug where the string differs. Indonesia is student-book stock, inside the acceptance count, in this lesson; the Indonesia teacher guides stocked here are teacher-guide evidence only, outside the acceptance count.
 
 Searchable tags: using tactics in a match, Indonesia, PJOK G7 Student, PJOK G8 Student, PJOK G8 Teacher, PJOK G10 Student, PJOK G11 Student, PJOK G11 Teacher, PJOK G12 Student, PJOK G12 Teacher
+
+## Turkey — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkey-pe-placements.md. The Turkey books stocked in this lesson are Book 1, Book 2 — all read in full as filed (full text extraction, cover/title page verified against each record). The Turkey books stocked in this lesson are teacher guides, so Turkey is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. Turkey's own way is content, as the book lines below record it: Book 1: the new MEB (TYMM) model organises PE into three themes — Fitness & Physical Activity, Sport Education, Sport Culture — with the same theme spine reused at every lise grade.; Book 2: grade 9 opens the lise spine with lifelong exercise and strength, then team and net/racket sports, closing with sport culture including a national Atatürk-and-sport section.
+
+**Book — Turkey Book 1 (teacher guide):**
+## Book 1 — PE TG Preparatory Class (teacher guide, Turkish)
+- Title as printed: Ortaöğretim Beden Eğitimi ve Spor Dersi Hazırlık Sınıfı Öğretmen Kılavuz Kitabı
+- Grade: Preparatory class (lise hazırlık) (student/teacher: TEACHER)
+- Publisher: MEB Devlet Kitapları; year 2025; ISBN not legible in extracted front matter
+- PDF pages: 64 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 6 placements — 4 to existing lessons, 2 NEW LESSON NEEDED
+- Turkey's own way: the new MEB (TYMM) model organises PE into three themes — Fitness & Physical Activity, Sport Education, Sport Culture — with the same theme spine reused at every lise grade.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — 2.3 File/Raket Sporlarında Özelleşmiş Hareket Becerileri — specialised skills of net/racket sports (tennis-led, with badminton and table tennis) (original target `ball-games/racket-and-net-sport-skills`) | Turkey Prep PE TG, printed p. 43 |
+| Turkey — 2.4 File/Raket Sporlarında Taktik ve Strateji Geliştirme — tactics and strategy in net/racket sports (original target `ball-games/racket-and-net-sport-skills`) | Turkey Prep PE TG, printed p. 50 |
+
+**Book — Turkey Book 2 (teacher guide):**
+## Book 2 — PE TG Grade 9 (teacher guide, Turkish)
+- Title as printed: Ortaöğretim Beden Eğitimi ve Spor Dersi 9. Sınıf Öğretmen Kılavuz Kitabı
+- Grade: 9 (student/teacher: TEACHER)
+- Publisher: MEB Devlet Kitapları; year 2025; ISBN 978-975-11-9255-4
+- PDF pages: 82 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 9 placements — 6 to existing lessons, 3 NEW LESSON NEEDED
+- Turkey's own way: grade 9 opens the lise spine with lifelong exercise and strength, then team and net/racket sports, closing with sport culture including a national Atatürk-and-sport section.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — 2.3 File/Raket Sporlarında Özelleşmiş Hareket Becerileri — specialised skills of net/racket sports (badminton and table tennis prominent) (original target `ball-games/racket-and-net-sport-skills`) | Turkey G9 PE TG, printed p. 42 |
+| Turkey — 2.4 File/Raket Sporlarında Taktik ve Strateji Geliştirme — tactics and strategy in net/racket sports (original target `ball-games/racket-and-net-sport-skills`) | Turkey G9 PE TG, printed p. 48 |
+
+Turkey's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. The Turkey books stocked in this lesson are teacher guides, so Turkey is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

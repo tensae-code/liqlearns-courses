@@ -1,6 +1,6 @@
 # Sources — Sport and Society — Money, Media, Gender, Technology and Jobs
 
-countries: Ethiopia, Cyprus, Namibia, United Kingdom, Afghanistan, Honduras, Fiji, Mauritius, Iran, Jordan, Sri Lanka, Greece
+countries: Ethiopia, Cyprus, Namibia, United Kingdom, Afghanistan, Honduras, Fiji, Mauritius, Iran, Jordan, Sri Lanka, Greece, Turkey
 
 **Book 1:** *Grade 8 Health and Physical Education Teacher Guide* (teacher guide, English) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. TRUNCATED — worst-truncated of the series: the file holds printed pp. 3–50 of 104+ (54 PDF pages); printed pp. 51–104+ (Chapters 4–7 entire) are missing. Printed page = PDF page − 4 (contents scheme; the guide prints no folios). Read in full from 100 DPI renders (no text layer), in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g08-teacher-placements.md.
 
@@ -33,7 +33,7 @@ countries: Ethiopia, Cyprus, Namibia, United Kingdom, Afghanistan, Honduras, Fij
 | United Kingdom — Component 2 Topic 3.2: Commercialisation of physical activity and sport — sponsorship, the media and the golden triangle in sport (original target `sport-and-its-story/sport-and-society`) | United Kingdom, *Edexcel GCSE (9-1) Physical Education Student Book, 2nd edition* (United Kingdom GCSE Edexcel PE Student Book), Component 2 Topic 3.2, printed p. 168 |
 | United Kingdom — Component 2 Topic 3.3: Ethical and socio-cultural issues in physical activity and sport — sportsmanship and gamesmanship, performance-enhancing drugs, and spectator behaviour including hooliganism (original target `sport-and-its-story/sport-and-society`) | United Kingdom, *Edexcel GCSE (9-1) Physical Education Student Book, 2nd edition* (United Kingdom GCSE Edexcel PE Student Book), Component 2 Topic 3.3, printed p. 172 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Cyprus, United Kingdom, Honduras, Fiji, Mauritius, Iran, Jordan, Sri Lanka, Greece).** Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Cyprus is added as student-book stock (see its rows above), inside the acceptance count. Namibia is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 2. United Kingdom is added as student-book stock (see its rows above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count.
+**Acceptance count: taught in 11 countries (Ethiopia, Cyprus, United Kingdom, Honduras, Fiji, Mauritius, Iran, Jordan, Sri Lanka, Greece, Turkey).** Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Cyprus is added as student-book stock (see its rows above), inside the acceptance count. Namibia is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 2. United Kingdom is added as student-book stock (see its rows above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count. Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count.
 
 The Grade 8 teacher guide is truncated — printed pp. 51–104+ missing — and is used only for its held Chapter 1, labelled (teacher guide — evidence). The Grade 9 guide is complete. The Grade 10 guide is truncated only at its §8.3 tail (p. 92); its Unit 1 material here is complete in the held file. The Grade 10 guide's internal period-count inconsistency for its Unit 2 is not used in this lesson. This lesson carries the [Both] sport-and-society placements whose content is societal knowledge, not movement skill; the Grade 9/10 student books are the English federal 2023 GEQIP-E series and their terms are given as printed.
 
@@ -230,3 +230,147 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/greece-pe-pl
 | Greece — Η οργάνωση του σύγχρονου αθλητισμού (The organisation of modern sport) — modern Greek PE begins with Ioannis Fokianos; from the 1960s sports clubs multiply and take up many new sports (original target `sport-and-its-story/sport-and-society`) | Greece Grades 7-9 Fysiki Agogi Gymnasiou, printed p. 21 |
 
 Greece's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Greece is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Turkey — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkey-pe-placements.md. The Turkey books stocked in this lesson are Book 2, Book 3, Book 5, Book 6, Book 10, Book 14, Book 18, Book 22, Book 23, Book 24 — all read in full as filed (full text extraction, cover/title page verified against each record). Turkey is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 5, Book 6, Book 10, Book 14); its teacher guides stocked here (Book 2, Book 3, Book 18, Book 22, Book 23, Book 24) are evidence only, outside the acceptance count. Turkey's own way is content, as the book lines below record it: Book 2: grade 9 opens the lise spine with lifelong exercise and strength, then team and net/racket sports, closing with sport culture including a national Atatürk-and-sport section.; Book 3: grade 10 turns from team sports to individual contest sports (combat sports) and field/nature sports (cycling, archery, orienteering-type activities), and pairs fitness with healthy eating and balance.; Book 5: a specialist music-school edition that still teaches the full PE spine — warm-up and turning movements, station work, fair play, Turkey's traditional children's games, and a whole theme on Horon, the Black Sea folk dance.; Book 6: the sports-school theory book — before any skills, grade 5 sports-school pupils study the history of sport (with Turkish sport history at its centre), the diversity of sports, sport's values, and how facilities and equipment work.; Book 10: grade 7 of the sports school is built around athletes with special needs — a full unit on Paralympic and Deaflympic sport — plus sport technology and innovation.; Book 14: grade 6 of the sports school turns inward — society and sport, then the individual: sport psychology and what goes on in an athlete's mind.
+
+**Book — Turkey Book 2 (teacher guide):**
+## Book 2 — PE TG Grade 9 (teacher guide, Turkish)
+- Title as printed: Ortaöğretim Beden Eğitimi ve Spor Dersi 9. Sınıf Öğretmen Kılavuz Kitabı
+- Grade: 9 (student/teacher: TEACHER)
+- Publisher: MEB Devlet Kitapları; year 2025; ISBN 978-975-11-9255-4
+- PDF pages: 82 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 9 placements — 6 to existing lessons, 3 NEW LESSON NEEDED
+- Turkey's own way: grade 9 opens the lise spine with lifelong exercise and strength, then team and net/racket sports, closing with sport culture including a national Atatürk-and-sport section.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — 3.1 Spor ile Ahlak Arasındaki İlişki — the relationship between sport and morality/ethics (original target `sport-and-its-story/sport-and-society`) | Turkey G9 PE TG, printed p. 56 |
+
+**Book — Turkey Book 3 (teacher guide):**
+## Book 3 — PE TG Grade 10 (teacher guide, Turkish)
+- Title as printed: Ortaöğretim Beden Eğitimi ve Spor Dersi 10. Sınıf Öğretmen Kılavuz Kitabı
+- Grade: 10 (student/teacher: TEACHER)
+- Publisher: MEB Devlet Kitapları; year 2026; ISBN not legible in extracted front matter
+- PDF pages: 81 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 8 placements — 3 to existing lessons, 5 NEW LESSON NEEDED
+- Turkey's own way: grade 10 turns from team sports to individual contest sports (combat sports) and field/nature sports (cycling, archery, orienteering-type activities), and pairs fitness with healthy eating and balance.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — 3.1 Spor ile Adil Oyun Arasındaki İlişki — the relationship between sport and fair play (original target `sport-and-its-story/sport-and-society`) | Turkey G10 PE TG, printed p. 64 |
+
+**Book — Turkey Book 5 (student book):**
+## Book 5 — PE, Game & Music Grade 5, Music Middle School (student book, Turkish)
+- Title as printed: Beden Eğitimi, Oyun ve Müzik 5. Sınıf Ders Kitabı (Müzik Ortaokulu — Music Middle School edition)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: MEB; year 2026 (record file dated 2026-10-07); ISBN not legible in extracted front matter
+- PDF pages: 98 (cover/title page verified against the record title)
+- Verdict: COMPLETE — combined PE/Game/Music book; Music parts named, not placed: Theme 2 rhythm instruments and accompanying with rhythm (printed pp. 28–36), Horon music (printed pp. 79–82)
+- Tally: 9 placements — 6 to existing lessons, 3 NEW LESSON NEEDED
+- Turkey's own way: a specialist music-school edition that still teaches the full PE spine — warm-up and turning movements, station work, fair play, Turkey's traditional children's games, and a whole theme on Horon, the Black Sea folk dance.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Adil Oyun — fair play: what it means and how to play fairly (original target `sport-and-its-story/sport-and-society`) | Turkey G5 PE Game & Music (Music MS), printed p. 50 |
+
+**Book — Turkey Book 6 (student book):**
+## Book 6 — Foundations of PE & Sport Grade 5, Sports Middle School (student book, Turkish)
+- Title as printed: Beden Eğitimi ve Sporun Temelleri 5. Sınıf Ders Kitabı (Spor Ortaokulu — Sports Middle School edition)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: MEB; year 2026; ISBN not legible in extracted front matter (MEB Yayınları No 10542)
+- PDF pages: 158 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 9 placements — 5 to existing lessons, 4 NEW LESSON NEEDED
+- Turkey's own way: the sports-school theory book — before any skills, grade 5 sports-school pupils study the history of sport (with Turkish sport history at its centre), the diversity of sports, sport's values, and how facilities and equipment work.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Sporun Paydaşları — the stakeholders of sport: athletes, coaches, federations, media and supporters (original target `sport-and-its-story/sport-and-society`) | Turkey G5 Foundations of PE & Sport, printed p. 66 |
+| Turkey — Spor Organizasyonlarının Kültürel ve Tarihî Önemi — the cultural and historical importance of sport organisations (original target `sport-and-its-story/sport-and-society`) | Turkey G5 Foundations of PE & Sport, printed p. 86 |
+| Turkey — Adil Oyun ve Spor Ahlakı — fair play and sport ethics (original target `sport-and-its-story/sport-and-society`) | Turkey G5 Foundations of PE & Sport, printed p. 109 |
+
+**Book — Turkey Book 10 (student book):**
+## Book 10 — Foundations of PE & Sport Grade 7, Sports Middle School (student book, Turkish)
+- Title as printed: Beden Eğitimi ve Sporun Temelleri 7. Sınıf Ders Kitabı (Spor Ortaokulu — Sports Middle School edition)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: MEB; year 2026; ISBN not legible in extracted front matter (MEB Yayınları No 10820)
+- PDF pages: 158 (cover/title page verified against the record title)
+- Verdict: COMPLETE — Health units (first aid, athlete nutrition) filed in turkey-health-placements.md
+- Tally (PE file): 5 placements — 2 to existing lessons, 3 NEW LESSON NEEDED
+- Turkey's own way: grade 7 of the sports school is built around athletes with special needs — a full unit on Paralympic and Deaflympic sport — plus sport technology and innovation.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Spor Teknolojisi — sport technology: its elements, what drives it, and technological developments (original target `sport-and-its-story/sport-and-society`) | Turkey G7 Foundations of PE & Sport, printed pp. 115, 117 |
+
+**Book — Turkey Book 14 (student book):**
+## Book 14 — Foundations of PE & Sport Grade 6, Sports Middle School (student book, Turkish)
+- Title as printed: Beden Eğitimi ve Sporun Temelleri 6. Sınıf Ders Kitabı (Spor Ortaokulu — Sports Middle School edition)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: MEB; year 2026; ISBN not legible in extracted front matter (MEB Yayınları No 10543)
+- PDF pages: 178 (cover/title page verified against the record title)
+- Verdict: COMPLETE — the anatomy/physiology unit is filed in turkey-health-placements.md under the HELD pattern
+- Tally (PE file): 6 placements — 4 to existing lessons, 2 NEW LESSON NEEDED
+- Turkey's own way: grade 6 of the sports school turns inward — society and sport, then the individual: sport psychology and what goes on in an athlete's mind.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Sporun Toplumdaki Yeri — the place of sport in society (original target `sport-and-its-story/sport-and-society`) | Turkey G6 Foundations of PE & Sport, printed p. 118 |
+
+**Book — Turkey Book 18 (teacher guide):**
+## Book 18 — Differentiation Activities TG, PE Game & Music Grade 5 (teacher guide, Turkish)
+- Title as printed: Beden Eğitimi, Oyun ve Müzik 5. Sınıf Farklılaştırma Etkinlikleri Öğretmen Kılavuz Kitabı (Müzik Ortaokulu)
+- Grade: 5 (student/teacher: TEACHER)
+- Publisher: MEB Devlet Kitapları (supplementary/resource series); year 2026
+- PDF pages: 48 (cover/title page verified; record size 23,598,573 bytes matches exactly)
+- Verdict: COMPLETE — differentiation book keyed theme-by-theme to the Grade 5 student book (Book 5); placed at theme level
+- Tally: 4 placements — 3 to existing lessons, 1 NEW LESSON NEEDED
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Theme 3 differentiated activities: Takım Ol, Adil Oyna — differentiated team and fair-play activities (original target `sport-and-its-story/sport-and-society`) | Turkey G5 BOM Differentiation TG, printed p. 28 |
+
+**Book — Turkey Book 22 (teacher guide):**
+## Book 22 — Differentiation Activities TG, Foundations of PE & Sport Grade 5 (teacher guide, Turkish)
+- Title as printed: Beden Eğitimi ve Sporun Temelleri 5. Sınıf Farklılaştırma Etkinlikleri Öğretmen Kılavuz Kitabı (Spor Ortaokulu)
+- Grade: 5 (student/teacher: TEACHER)
+- Publisher: MEB Devlet Kitapları (supplementary/resource series); year 2026
+- PDF pages: 65 (cover/title page verified; record size 31,499,154 bytes matches exactly)
+- Verdict: COMPLETE — differentiation book keyed unit-by-unit to the Grade 5 Foundations student book (Book 6); placed at unit level
+- Tally: 4 placements — 3 to existing lessons, 1 NEW LESSON NEEDED
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Unit 3 differentiated activities: Beden Eğitimi ve Sporun Temel Değerleri (original target `sport-and-its-story/sport-and-society`) | Turkey G5 Foundations Differentiation TG |
+
+**Book — Turkey Book 23 (teacher guide):**
+## Book 23 — Differentiation Activities TG, Foundations of PE & Sport Grade 6 (teacher guide, Turkish)
+- Title as printed: Beden Eğitimi ve Sporun Temelleri 6. Sınıf Farklılaştırma Etkinlikleri Öğretmen Kılavuz Kitabı (Spor Ortaokulu)
+- Grade: 6 (student/teacher: TEACHER)
+- Publisher: MEB Devlet Kitapları (supplementary/resource series); year 2026
+- PDF pages: 52 (cover/title page verified; record size 22,428,346 bytes matches exactly)
+- Verdict: COMPLETE — differentiation book keyed unit-by-unit to the Grade 6 Foundations student book (Book 14); its anatomy unit is filed in turkey-health-placements.md under the HELD pattern; placed at unit level
+- Tally (PE file): 3 placements — 2 to existing lessons, 1 NEW LESSON NEEDED
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Unit 3 differentiated activities: Toplum ve Spor (original target `sport-and-its-story/sport-and-society`) | Turkey G6 Foundations Differentiation TG |
+
+**Book — Turkey Book 24 (teacher guide):**
+## Book 24 — Differentiation Activities TG, Foundations of PE & Sport Grade 7 (teacher guide, Turkish)
+- Title as printed: Beden Eğitimi ve Sporun Temelleri 7. Sınıf Farklılaştırma Etkinlikleri Öğretmen Kılavuz Kitabı (Spor Ortaokulu)
+- Grade: 7 (student/teacher: TEACHER)
+- Publisher: MEB Devlet Kitapları (supplementary/resource series); year 2026
+- PDF pages: 65 (cover/title page verified; record size 27,360,479 bytes matches exactly)
+- Verdict: COMPLETE — differentiation book keyed unit-by-unit to the Grade 7 Foundations student book (Book 10); its first-aid and nutrition units are filed in turkey-health-placements.md; placed at unit level
+- Tally (PE file): 2 placements — 1 to an existing lesson, 1 NEW LESSON NEEDED
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Unit 4 differentiated activities: Spor Teknolojisi (original target `sport-and-its-story/sport-and-society`) | Turkey G7 Foundations Differentiation TG |
+
+Turkey's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Turkey is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 5, Book 6, Book 10, Book 14); its teacher guides stocked here (Book 2, Book 3, Book 18, Book 22, Book 23, Book 24) are evidence only, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

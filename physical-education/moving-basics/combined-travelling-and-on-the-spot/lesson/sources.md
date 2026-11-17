@@ -1,6 +1,6 @@
 # Sources — Combined Travelling and On-the-Spot Movements
 
-countries: Ethiopia, Samoa, Thailand, El Salvador, Philippines, Nicaragua, Maldives, Fiji, Mauritius, Zimbabwe, Cuba, Kuwait, Oman, Papua New Guinea, Sri Lanka, Rwanda, Greece, DR Congo
+countries: Ethiopia, Samoa, Thailand, El Salvador, Philippines, Nicaragua, Maldives, Fiji, Mauritius, Zimbabwe, Cuba, Kuwait, Oman, Papua New Guinea, Sri Lanka, Rwanda, Greece, DR Congo, Turkey
 
 **Book — Grade 1 teacher (teacher guide — evidence):** *Grade 1 Health and Physical Education Teacher Guide* (የጤናና ሰውነት ማጎልመሻ ትምህርት የመምህር መምሪያ መጽሐፍ, አንድኛ ክፍል) (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, 2015 E.C. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-teacher-placements.md. TRUNCATED scan — see honesty paragraph.
 
@@ -46,7 +46,7 @@ countries: Ethiopia, Samoa, Thailand, El Salvador, Philippines, Nicaragua, Maldi
 | Thailand — Unit 6 (part 2) Twisting, pulling and pushing — the twisting (การบิดตัว), pulling (การดึง) and pushing (การผลัก) movements and their correct postures (student book — MAC sample, PARTIAL) (original target `moving-basics/combined-travelling-and-on-the-spot`) | Thailand, *Health & PE, Grade 2* (Thailand Grade 2 MAC Health & PE), Unit 6 (part 2), printed pp. 108–115 |
 | Thailand — Unit 5.1 (part 1) Movement in sport — the basic movements of the parts of the body used in playing sport (student book — MAC sample, PARTIAL) (original target `moving-basics/combined-travelling-and-on-the-spot`) | Thailand, *Health & PE, Grade 12* (Thailand Grade 12 MAC Health & PE), Unit 5.1 (part 1), printed pp. 143–150 |
 | Thailand — Unit 3, Ch. 1 Moving the body — controlling body movement while on the spot, while travelling and while using equipment, with direction (student book — SSR flipbook sample, PARTIAL) (original target `moving-basics/combined-travelling-and-on-the-spot`) | Thailand, *Health & PE, Grade 3* (Thailand Grade 3 SSR Health & PE), Unit 3, Ch. 1, printed pp. 48–56 |
-**Acceptance count: taught in 9 countries (Ethiopia, Thailand, Philippines, Fiji, Mauritius, Zimbabwe, Sri Lanka, Greece, DR Congo).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Samoa is added as curriculum-statement evidence only (see its row above), named in the countries line but outside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; the Fiji teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count; the Mauritius teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count.
+**Acceptance count: taught in 10 countries (Ethiopia, Thailand, Philippines, Fiji, Mauritius, Zimbabwe, Sri Lanka, Greece, DR Congo, Turkey).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Samoa is added as curriculum-statement evidence only (see its row above), named in the countries line but outside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; the Fiji teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count; the Mauritius teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count. Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count.
 
 The Grade 1 teacher guide scan is TRUNCATED: it holds printed pp. 1–43 of 85+. Missing: the rest of §4.2, §4.3 Stretching and flexibility (p. 47), §4.4 Agility (p. 53), all of Chapter 5 Gymnastics (pp. 59–78) and all of Chapter 6 (pp. 79–85+). Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
 
@@ -708,3 +708,120 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-pe-
 | DR Congo — §2.4 Duck walk — full-squat waddle walks, races and courses (original target `moving-basics/combined-travelling-and-on-the-spot`) | DR Congo Grade 2 EPS Primaire 2, §2.4 |
 
 DR Congo's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. DR Congo is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Turkey — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkey-pe-placements.md. The Turkey books stocked in this lesson are Book 4, Book 8, Book 11, Book 12, Book 15, Book 16, Book 17, Book 20 — all read in full as filed (full text extraction, cover/title page verified against each record). Turkey is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 8, Book 11, Book 12); its teacher guides stocked here (Book 4, Book 15, Book 16, Book 17, Book 20) are evidence only, outside the acceptance count. Turkey's own way is content, as the book lines below record it: Book 4: preschool movement is taught entirely through named play activities (50+ of them), built on three skills — motor skills for an active life, healthy living/self-care, and risk & safety — with at least 180 minutes of daily physical activity stated as the norm.; Book 8: movement first, taught as named movement families (warm-up, breathing, travelling, balancing, object control), then playing together, then folk dance — the Karşılama dance-games of Thrace close the book.; Book 11: the very first PE book already runs the full spine — move and protect your health, move with rhythm, play musical games, and learn a folk dance (Halay) in grade 1.; Book 12: grade 2 teaches space awareness through signs and signals, and closes with the Kaşık (spoon) dances — children dance clicking wooden spoons.; Book 15: primary PE is four-to-six themes a year with the same spiral every year — move, play by the rules, move with rhythm, join physical activity for health — plus, in grades 3–4, exploring the environment by moving and Turkey's cultural game heritage; grade 4 ends with "movement knows no barriers" (inclusive movement).
+
+**Book — Turkey Book 4 (teacher guide):**
+## Book 4 — Preschool Movement & Health TG (teacher guide, Turkish) — PE parts
+- Title as printed: Okul Öncesi Hareket ve Sağlık Alanı Öğretmen Kılavuz Kitabı
+- Grade: Preschool (okul öncesi) (student/teacher: TEACHER)
+- Publisher: MEB Devlet Kitapları; year 2026; ISBN 978-625-8867-30-5
+- PDF pages: 132 (cover/title page verified against the record title)
+- Verdict: COMPLETE — combined Movement & Health book; Health parts filed in turkey-health-placements.md
+- Tally (PE file): 8 placements — 7 to existing lessons, 1 NEW LESSON NEEDED
+- Turkey's own way: preschool movement is taught entirely through named play activities (50+ of them), built on three skills — motor skills for an active life, healthy living/self-care, and risk & safety — with at least 180 minutes of daily physical activity stated as the norm.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Hareket ve Sağlık Alan Becerileri (HSAB1) — locomotor movements: walking, running, jumping, climbing, galloping, sliding and rolling as the base movement set (original target `moving-basics/combined-travelling-and-on-the-spot`) | Turkey Preschool Movement & Health TG, printed p. 9 |
+
+**Book — Turkey Book 8 (student book):**
+## Book 8 — PE, Game & Music Grade 3, Music Primary School (student book, Turkish)
+- Title as printed: Beden Eğitimi, Oyun ve Müzik 3. Sınıf Ders Kitabı (Müzik İlkokulu — Music Primary School edition)
+- Grade: 3 (student/teacher: STUDENT)
+- Publisher: MEB; year 2026; ISBN not legible in extracted front matter (MEB Yayınları No 10802)
+- PDF pages: 144 (cover/title page verified against the record title)
+- Verdict: COMPLETE — combined PE/Game/Music book; Music parts named, not placed: rhythm instruments (printed p. 52) and the rhythm teaching inside Theme 2 (printed pp. 45–57). One Health part (healthy eating, printed p. 38) is filed in turkey-health-placements.md.
+- Tally (PE file): 10 placements — 8 to existing lessons, 2 NEW LESSON NEEDED
+- Turkey's own way: movement first, taught as named movement families (warm-up, breathing, travelling, balancing, object control), then playing together, then folk dance — the Karşılama dance-games of Thrace close the book.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Yer Değiştirme Hareketleri — travelling (locomotor) movements (original target `moving-basics/combined-travelling-and-on-the-spot`) | Turkey G3 PE Game & Music (Music PS), printed p. 25 |
+
+**Book — Turkey Book 11 (student book):**
+## Book 11 — PE, Game & Music Grade 1, Music Primary School (student book, Turkish)
+- Title as printed: Beden Eğitimi, Oyun ve Müzik 1. Sınıf Ders Kitabı (Müzik İlkokulu — Music Primary School edition)
+- Grade: 1 (student/teacher: STUDENT)
+- Publisher: MEB; year 2026; ISBN not legible in extracted front matter
+- PDF pages: 180 (cover/title page verified against the record title)
+- Verdict: COMPLETE — combined PE/Game/Music book; Music parts named, not placed: the rhythm-and-rhyme material inside Theme 2 (printed pp. 70–101). One Health part (balanced and regular nutrition, printed p. 56) is filed in turkey-health-placements.md.
+- Tally (PE file): 14 placements — 11 to existing lessons, 3 NEW LESSON NEEDED
+- Turkey's own way: the very first PE book already runs the full spine — move and protect your health, move with rhythm, play musical games, and learn a folk dance (Halay) in grade 1.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Yer Değiştirme Hareketleri — travelling movements (original target `moving-basics/combined-travelling-and-on-the-spot`) | Turkey G1 PE Game & Music (Music PS), printed p. 32 |
+
+**Book — Turkey Book 12 (student book):**
+## Book 12 — PE, Game & Music Grade 2, Music Primary School (student book, Turkish)
+- Title as printed: Beden Eğitimi, Oyun ve Müzik 2. Sınıf Ders Kitabı (Müzik İlkokulu — Music Primary School edition)
+- Grade: 2 (student/teacher: STUDENT)
+- Publisher: MEB; year 2025/2026; ISBN not legible in extracted front matter
+- PDF pages: 142 (cover/title page verified against the record title)
+- Verdict: COMPLETE — combined PE/Game/Music book; Music parts named, not placed: performing rhymes with rhythm instruments and imitating sound sources (printed pp. 71, 83). One Health part (taking precautions and protecting health in games, printed p. 53) is filed in turkey-health-placements.md.
+- Tally (PE file): 13 placements — 9 to existing lessons, 4 NEW LESSON NEEDED
+- Turkey's own way: grade 2 teaches space awareness through signs and signals, and closes with the Kaşık (spoon) dances — children dance clicking wooden spoons.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Yer Değiştirme Hareketleri — travelling movements (original target `moving-basics/combined-travelling-and-on-the-spot`) | Turkey G2 PE Game & Music (Music PS), printed p. 31 |
+
+**Book — Turkey Book 15 (teacher guide):**
+## Book 15 — PE & Game TG Grades 1–4 (teacher guide, Turkish)
+- Title as printed: Beden Eğitimi ve Oyun Dersi (1, 2, 3 ve 4. Sınıflar) Öğretmen Kılavuz Kitabı (İlkokul)
+- Grade: 1–4 (student/teacher: TEACHER)
+- Publisher: MEB Devlet Kitapları; year 2025; ISBN not legible in extracted front matter
+- PDF pages: 382 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 20 placements — 16 to existing lessons, 4 NEW LESSON NEEDED
+- Turkey's own way: primary PE is four-to-six themes a year with the same spiral every year — move, play by the rules, move with rhythm, join physical activity for health — plus, in grades 3–4, exploring the environment by moving and Turkey's cultural game heritage; grade 4 ends with "movement knows no barriers" (inclusive movement).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — G1 Theme 1: Hareket Ediyorum — I am moving: the grade 1 movement theme (original target `moving-basics/combined-travelling-and-on-the-spot`) | Turkey G1–4 PE & Game TG, printed p. 17 |
+| Turkey — G2 Theme 1: Hareketimi Geliştiriyorum — developing my movement at grade 2 (original target `moving-basics/combined-travelling-and-on-the-spot`) | Turkey G1–4 PE & Game TG, printed p. 97 |
+
+**Book — Turkey Book 16 (teacher guide):**
+## Book 16 — Differentiation Activities TG, PE Game & Music Grade 1 (teacher guide, Turkish)
+- Title as printed: Beden Eğitimi, Oyun ve Müzik 1. Sınıf Farklılaştırma Etkinlikleri Öğretmen Kılavuz Kitabı (Müzik İlkokulu)
+- Grade: 1 (student/teacher: TEACHER)
+- Publisher: MEB Devlet Kitapları (Yardımcı ve Kaynak Kitaplar — supplementary/resource series); year 2025
+- PDF pages: 136 (cover/title page verified against the record title)
+- Verdict: COMPLETE — differentiation book: support + enrichment activities keyed theme-by-theme to the Grade 1 student book (Book 11); placed at theme level
+- Tally: 4 placements — 3 to existing lessons, 1 NEW LESSON NEEDED
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Theme 1 differentiated activities: Hareket Ediyorum, Sağlığımı Koruyorum — easier and richer versions of the grade 1 movement-and-health theme (original target `moving-basics/combined-travelling-and-on-the-spot`) | Turkey G1 BOM Differentiation TG, printed p. 11 (theme span) |
+
+**Book — Turkey Book 17 (teacher guide):**
+## Book 17 — Differentiation Activities TG, PE Game & Music Grade 2 (teacher guide, Turkish)
+- Title as printed: Beden Eğitimi, Oyun ve Müzik 2. Sınıf Farklılaştırma Etkinlikleri Öğretmen Kılavuz Kitabı (Müzik İlkokulu)
+- Grade: 2 (student/teacher: TEACHER)
+- Publisher: MEB Devlet Kitapları (supplementary/resource series); year 2025/2026
+- PDF pages: 67 (cover/title page verified; record size 21,988,646 bytes matches the downloaded file exactly)
+- Verdict: COMPLETE — differentiation book keyed theme-by-theme to the Grade 2 student book (Book 12); placed at theme level
+- Tally: 4 placements — 3 to existing lessons, 1 NEW LESSON NEEDED
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Theme 1 differentiated activities: Sağlığım İçin Hareket Ediyorum — differentiated movement-for-health activities (original target `moving-basics/combined-travelling-and-on-the-spot`) | Turkey G2 BOM Differentiation TG |
+
+**Book — Turkey Book 20 (teacher guide):**
+## Book 20 — Differentiation Activities TG, PE & Game Grades 1–4 (teacher guide, Turkish)
+- Title as printed: Beden Eğitimi ve Oyun (1, 2, 3 ve 4. Sınıflar) Farklılaştırma Etkinlikleri Öğretmen Kılavuz Kitabı (İlkokul)
+- Grade: 1–4 (student/teacher: TEACHER)
+- Publisher: MEB Devlet Kitapları (supplementary/resource series); year 2025/2026
+- PDF pages: 129 (cover/title page verified against the record title)
+- Verdict: COMPLETE — differentiation book keyed theme-by-theme to the Grades 1–4 teacher guide (Book 15); placed at theme level
+- Tally: 20 placements — 16 to existing lessons, 4 NEW LESSON NEEDED
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — G1 Theme 1 differentiated: Hareket Ediyorum (original target `moving-basics/combined-travelling-and-on-the-spot`) | Turkey G1–4 PE Differentiation TG, printed p. 11 |
+| Turkey — G2 Theme 1 differentiated: Hareketimi Geliştiriyorum (original target `moving-basics/combined-travelling-and-on-the-spot`) | Turkey G1–4 PE Differentiation TG, printed p. 36 |
+
+Turkey's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Turkey is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 8, Book 11, Book 12); its teacher guides stocked here (Book 4, Book 15, Book 16, Book 17, Book 20) are evidence only, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

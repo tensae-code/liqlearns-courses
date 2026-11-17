@@ -1,6 +1,6 @@
 # Sources — Moving to a Beat — Rhythmic Movement
 
-countries: Ethiopia, Zambia, Namibia, Kazakhstan, Samoa, Thailand, China, El Salvador, Philippines, Belize, Honduras, Fiji, Iran, North Macedonia, Zimbabwe, Jordan, Malaysia, Cuba, Kuwait, Indonesia, Oman, Papua New Guinea, Greece, DR Congo
+countries: Ethiopia, Zambia, Namibia, Kazakhstan, Samoa, Thailand, China, El Salvador, Philippines, Belize, Honduras, Fiji, Iran, North Macedonia, Zimbabwe, Jordan, Malaysia, Cuba, Kuwait, Indonesia, Oman, Papua New Guinea, Greece, DR Congo, Turkey
 
 **Book — Grade 1 student:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 81 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md. COMPLETE.
 
@@ -67,7 +67,7 @@ countries: Ethiopia, Zambia, Namibia, Kazakhstan, Samoa, Thailand, China, El Sal
 | Thailand — Unit 5.1 (part 2) Movement in rhythmic activities — moving in time within rhythmic activity (student book — MAC sample, PARTIAL) (original target `gymnastics/moving-to-a-beat`) | Thailand, *Health & PE, Grade 12* (Thailand Grade 12 MAC Health & PE), Unit 5.1 (part 2), printed pp. 151–152 |
 | Thailand — Unit 6.1 (part 1) Rhythmic activities — what rhythmic activity (กิจกรรมเข้าจังหวะ) means, its aims, and its types (student book — MAC sample, PARTIAL) (original target `gymnastics/moving-to-a-beat`) | Thailand, *Health & PE, Grade 12* (Thailand Grade 12 MAC Health & PE), Unit 6.1 (part 1), printed pp. 155–158 |
 | Thailand — Unit 6.1 (part 2) The value of rhythmic activity — its worth, beauty and joy, and the principles for organising rhythmic activities (student book — MAC sample, PARTIAL) (original target `gymnastics/moving-to-a-beat`) | Thailand, *Health & PE, Grade 12* (Thailand Grade 12 MAC Health & PE), Unit 6.1 (part 2), printed pp. 159–163 |
-**Acceptance count: taught in 12 countries (Ethiopia, Thailand, China, Philippines, Honduras, Iran, North Macedonia, Zimbabwe, Jordan, Malaysia, Greece, DR Congo).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Zambia is added as teacher-module evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Namibia is added as teacher-guide evidence only the same way, outside the acceptance count. Kazakhstan is added as teacher-guide evidence only the same way, outside the acceptance count. Samoa is added as curriculum-statement evidence only (see its row above), named in the countries line but outside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Indonesia is added as teacher-guide evidence only (see its Indonesia section below), named in the countries line but outside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count.
+**Acceptance count: taught in 13 countries (Ethiopia, Thailand, China, Philippines, Honduras, Iran, North Macedonia, Zimbabwe, Jordan, Malaysia, Greece, DR Congo, Turkey).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Zambia is added as teacher-module evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Namibia is added as teacher-guide evidence only the same way, outside the acceptance count. Kazakhstan is added as teacher-guide evidence only the same way, outside the acceptance count. Samoa is added as curriculum-statement evidence only (see its row above), named in the countries line but outside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Indonesia is added as teacher-guide evidence only (see its Indonesia section below), named in the countries line but outside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count. Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count.
 
 The Grade 3 teacher guide scan is TRUNCATED: it holds printed pp. 1–52 of 89+. Missing: §4.1 (p. 53), §4.2 (p. 57), §4.3 (p. 62), §4.4 (p. 65), all of Chapter 5 Gymnastics (pp. 69–84) and all of Chapter 6 (pp. 85–89+). Chapter 4 is present as its introduction page (printed p. 52) only. Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
 
@@ -796,3 +796,248 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-pe-
 | DR Congo — §2.2.2 Walking to music — matching the step to martial and folk rhythms (original target `gymnastics/moving-to-a-beat`) | DR Congo Grade 5 EPS Primaire 5, §2.2.2 |
 
 DR Congo's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. DR Congo is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Turkey — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkey-pe-placements.md. The Turkey books stocked in this lesson are Book 1, Book 3, Book 4, Book 5, Book 7, Book 8, Book 9, Book 11, Book 12, Book 13, Book 15, Book 16, Book 17, Book 18, Book 19, Book 20, Book 21 — all read in full as filed (full text extraction, cover/title page verified against each record). Turkey is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 5, Book 8, Book 9, Book 11, Book 12, Book 13); its teacher guides stocked here (Book 1, Book 3, Book 4, Book 7, Book 15, Book 16, Book 17, Book 18, Book 19, Book 20, Book 21) are evidence only, outside the acceptance count. Turkey's own way is content, as the book lines below record it: Book 1: the new MEB (TYMM) model organises PE into three themes — Fitness & Physical Activity, Sport Education, Sport Culture — with the same theme spine reused at every lise grade.; Book 3: grade 10 turns from team sports to individual contest sports (combat sports) and field/nature sports (cycling, archery, orienteering-type activities), and pairs fitness with healthy eating and balance.; Book 4: preschool movement is taught entirely through named play activities (50+ of them), built on three skills — motor skills for an active life, healthy living/self-care, and risk & safety — with at least 180 minutes of daily physical activity stated as the norm.; Book 5: a specialist music-school edition that still teaches the full PE spine — warm-up and turning movements, station work, fair play, Turkey's traditional children's games, and a whole theme on Horon, the Black Sea folk dance.; Book 7: middle-school PE is five themes per grade that spiral upward — fitness, cooperative and target games, cultural-heritage games, invasion games — ending in grade 8 with joining tournaments and running a sport festival.; Book 8: movement first, taught as named movement families (warm-up, breathing, travelling, balancing, object control), then playing together, then folk dance — the Karşılama dance-games of Thrace close the book.; Book 9: grade 6 adds team and group leadership and rule-bound games on top of the dance spine, and returns to Horon for a second, deeper year.; Book 11: the very first PE book already runs the full spine — move and protect your health, move with rhythm, play musical games, and learn a folk dance (Halay) in grade 1.; Book 12: grade 2 teaches space awareness through signs and signals, and closes with the Kaşık (spoon) dances — children dance clicking wooden spoons.; Book 13: by grade 7 the music-school pupils choreograph their own dances, and the folk-dance theme is Zeybek, the slow, proud Aegean dance.; Book 15: primary PE is four-to-six themes a year with the same spiral every year — move, play by the rules, move with rhythm, join physical activity for health — plus, in grades 3–4, exploring the environment by moving and Turkey's cultural game heritage; grade 4 ends with "movement knows no barriers" (inclusive movement).
+
+**Book — Turkey Book 1 (teacher guide):**
+## Book 1 — PE TG Preparatory Class (teacher guide, Turkish)
+- Title as printed: Ortaöğretim Beden Eğitimi ve Spor Dersi Hazırlık Sınıfı Öğretmen Kılavuz Kitabı
+- Grade: Preparatory class (lise hazırlık) (student/teacher: TEACHER)
+- Publisher: MEB Devlet Kitapları; year 2025; ISBN not legible in extracted front matter
+- PDF pages: 64 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 6 placements — 4 to existing lessons, 2 NEW LESSON NEEDED
+- Turkey's own way: the new MEB (TYMM) model organises PE into three themes — Fitness & Physical Activity, Sport Education, Sport Culture — with the same theme spine reused at every lise grade.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — 1.2 Ritmik Hareket Etme — moving rhythmically to a beat (original target `gymnastics/moving-to-a-beat`) | Turkey Prep PE TG, printed p. 21 |
+
+**Book — Turkey Book 3 (teacher guide):**
+## Book 3 — PE TG Grade 10 (teacher guide, Turkish)
+- Title as printed: Ortaöğretim Beden Eğitimi ve Spor Dersi 10. Sınıf Öğretmen Kılavuz Kitabı
+- Grade: 10 (student/teacher: TEACHER)
+- Publisher: MEB Devlet Kitapları; year 2026; ISBN not legible in extracted front matter
+- PDF pages: 81 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 8 placements — 3 to existing lessons, 5 NEW LESSON NEEDED
+- Turkey's own way: grade 10 turns from team sports to individual contest sports (combat sports) and field/nature sports (cycling, archery, orienteering-type activities), and pairs fitness with healthy eating and balance.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — 1.3 Fiziksel Etkinliklerde Ritmik Hareket Edebilme — moving rhythmically inside physical activities (original target `gymnastics/moving-to-a-beat`) | Turkey G10 PE TG, printed p. 27 |
+
+**Book — Turkey Book 4 (teacher guide):**
+## Book 4 — Preschool Movement & Health TG (teacher guide, Turkish) — PE parts
+- Title as printed: Okul Öncesi Hareket ve Sağlık Alanı Öğretmen Kılavuz Kitabı
+- Grade: Preschool (okul öncesi) (student/teacher: TEACHER)
+- Publisher: MEB Devlet Kitapları; year 2026; ISBN 978-625-8867-30-5
+- PDF pages: 132 (cover/title page verified against the record title)
+- Verdict: COMPLETE — combined Movement & Health book; Health parts filed in turkey-health-placements.md
+- Tally (PE file): 8 placements — 7 to existing lessons, 1 NEW LESSON NEEDED
+- Turkey's own way: preschool movement is taught entirely through named play activities (50+ of them), built on three skills — motor skills for an active life, healthy living/self-care, and risk & safety — with at least 180 minutes of daily physical activity stated as the norm.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Ritim Tut, Dans Et / Hareket Orkestrası / Renkli Kurdeleler / Ritim Adaları — rhythm, dance and moving with ribbons and music in time (original target `gymnastics/moving-to-a-beat`) | Turkey Preschool Movement & Health TG, printed pp. 66, 72, 102, 120 |
+
+**Book — Turkey Book 5 (student book):**
+## Book 5 — PE, Game & Music Grade 5, Music Middle School (student book, Turkish)
+- Title as printed: Beden Eğitimi, Oyun ve Müzik 5. Sınıf Ders Kitabı (Müzik Ortaokulu — Music Middle School edition)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: MEB; year 2026 (record file dated 2026-10-07); ISBN not legible in extracted front matter
+- PDF pages: 98 (cover/title page verified against the record title)
+- Verdict: COMPLETE — combined PE/Game/Music book; Music parts named, not placed: Theme 2 rhythm instruments and accompanying with rhythm (printed pp. 28–36), Horon music (printed pp. 79–82)
+- Tally: 9 placements — 6 to existing lessons, 3 NEW LESSON NEEDED
+- Turkey's own way: a specialist music-school edition that still teaches the full PE spine — warm-up and turning movements, station work, fair play, Turkey's traditional children's games, and a whole theme on Horon, the Black Sea folk dance.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Ritmi Harekete Dönüştürelim / Dans Edelim — turning rhythm into movement and dancing (original target `gymnastics/moving-to-a-beat`) | Turkey G5 PE Game & Music (Music MS), printed pp. 37, 42 |
+
+**Book — Turkey Book 7 (teacher guide):**
+## Book 7 — PE TG Grades 5–8 (teacher guide, Turkish)
+- Title as printed: Beden Eğitimi ve Spor Dersi (5, 6, 7 ve 8. Sınıflar) Öğretmen Kılavuz Kitabı (Ortaokul ve İmam Hatip Ortaokulu)
+- Grade: 5–8 (student/teacher: TEACHER)
+- Publisher: MEB Devlet Kitapları; year 2025; ISBN not legible in extracted front matter (MEB Yayınları No 10515)
+- PDF pages: 449 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 19 placements — 10 to existing lessons, 9 NEW LESSON NEEDED
+- Turkey's own way: middle-school PE is five themes per grade that spiral upward — fitness, cooperative and target games, cultural-heritage games, invasion games — ending in grade 8 with joining tournaments and running a sport festival.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — G5 Theme 4: Hareketin Estetiği ve Ritmi — the aesthetics and rhythm of movement (original target `gymnastics/moving-to-a-beat`) | Turkey G5–8 PE TG, printed p. 85 |
+
+**Book — Turkey Book 8 (student book):**
+## Book 8 — PE, Game & Music Grade 3, Music Primary School (student book, Turkish)
+- Title as printed: Beden Eğitimi, Oyun ve Müzik 3. Sınıf Ders Kitabı (Müzik İlkokulu — Music Primary School edition)
+- Grade: 3 (student/teacher: STUDENT)
+- Publisher: MEB; year 2026; ISBN not legible in extracted front matter (MEB Yayınları No 10802)
+- PDF pages: 144 (cover/title page verified against the record title)
+- Verdict: COMPLETE — combined PE/Game/Music book; Music parts named, not placed: rhythm instruments (printed p. 52) and the rhythm teaching inside Theme 2 (printed pp. 45–57). One Health part (healthy eating, printed p. 38) is filed in turkey-health-placements.md.
+- Tally (PE file): 10 placements — 8 to existing lessons, 2 NEW LESSON NEEDED
+- Turkey's own way: movement first, taught as named movement families (warm-up, breathing, travelling, balancing, object control), then playing together, then folk dance — the Karşılama dance-games of Thrace close the book.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Beden Hareketleri (Theme 2) — expressing feelings with rhythm through body movements (original target `gymnastics/moving-to-a-beat`) | Turkey G3 PE Game & Music (Music PS), printed p. 58 |
+
+**Book — Turkey Book 9 (student book):**
+## Book 9 — PE, Game & Music Grade 6, Music Middle School (student book, Turkish)
+- Title as printed: Beden Eğitimi, Oyun ve Müzik 6. Sınıf Ders Kitabı (Müzik Ortaokulu — Music Middle School edition)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: MEB; year 2026; ISBN not legible in extracted front matter
+- PDF pages: 98 (cover/title page verified against the record title)
+- Verdict: COMPLETE — combined PE/Game/Music book; Music parts named, not placed: creating rhythms (printed p. 24)
+- Tally: 9 placements — 6 to existing lessons, 3 NEW LESSON NEEDED
+- Turkey's own way: grade 6 adds team and group leadership and rule-bound games on top of the dance spine, and returns to Horon for a second, deeper year.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Müzikli Hareket / Dans Zamanı — moving to music and dance time (original target `gymnastics/moving-to-a-beat`) | Turkey G6 PE Game & Music (Music MS), printed pp. 30, 35 |
+
+**Book — Turkey Book 11 (student book):**
+## Book 11 — PE, Game & Music Grade 1, Music Primary School (student book, Turkish)
+- Title as printed: Beden Eğitimi, Oyun ve Müzik 1. Sınıf Ders Kitabı (Müzik İlkokulu — Music Primary School edition)
+- Grade: 1 (student/teacher: STUDENT)
+- Publisher: MEB; year 2026; ISBN not legible in extracted front matter
+- PDF pages: 180 (cover/title page verified against the record title)
+- Verdict: COMPLETE — combined PE/Game/Music book; Music parts named, not placed: the rhythm-and-rhyme material inside Theme 2 (printed pp. 70–101). One Health part (balanced and regular nutrition, printed p. 56) is filed in turkey-health-placements.md.
+- Tally (PE file): 14 placements — 11 to existing lessons, 3 NEW LESSON NEEDED
+- Turkey's own way: the very first PE book already runs the full spine — move and protect your health, move with rhythm, play musical games, and learn a folk dance (Halay) in grade 1.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Ritimle Hareket Ediyorum (Theme 2) — moving with rhythm, with rhymes and counting games (original target `gymnastics/moving-to-a-beat`) | Turkey G1 PE Game & Music (Music PS), printed pp. 68, 80, 86 |
+
+**Book — Turkey Book 12 (student book):**
+## Book 12 — PE, Game & Music Grade 2, Music Primary School (student book, Turkish)
+- Title as printed: Beden Eğitimi, Oyun ve Müzik 2. Sınıf Ders Kitabı (Müzik İlkokulu — Music Primary School edition)
+- Grade: 2 (student/teacher: STUDENT)
+- Publisher: MEB; year 2025/2026; ISBN not legible in extracted front matter
+- PDF pages: 142 (cover/title page verified against the record title)
+- Verdict: COMPLETE — combined PE/Game/Music book; Music parts named, not placed: performing rhymes with rhythm instruments and imitating sound sources (printed pp. 71, 83). One Health part (taking precautions and protecting health in games, printed p. 53) is filed in turkey-health-placements.md.
+- Tally (PE file): 13 placements — 9 to existing lessons, 4 NEW LESSON NEEDED
+- Turkey's own way: grade 2 teaches space awareness through signs and signals, and closes with the Kaşık (spoon) dances — children dance clicking wooden spoons.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Ritmik Hareket Ediyorum (Theme 2) — moving rhythmically: body as a rhythm instrument, moving to music's speed and structure (original target `gymnastics/moving-to-a-beat`) | Turkey G2 PE Game & Music (Music PS), printed pp. 62, 67, 75, 79 |
+
+**Book — Turkey Book 13 (student book):**
+## Book 13 — PE, Game & Music Grade 7, Music Middle School (student book, Turkish)
+- Title as printed: Beden Eğitimi, Oyun ve Müzik 7. Sınıf Ders Kitabı (Müzik Ortaokulu — Music Middle School edition)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: MEB; year 2026; ISBN not legible in extracted front matter
+- PDF pages: 106 (cover/title page verified against the record title)
+- Verdict: COMPLETE — combined PE/Game/Music book; Music parts named, not placed: the rhythm workshop (printed p. 30) and Zeybek music (printed p. 86)
+- Tally: 10 placements — 6 to existing lessons, 4 NEW LESSON NEEDED
+- Turkey's own way: by grade 7 the music-school pupils choreograph their own dances, and the folk-dance theme is Zeybek, the slow, proud Aegean dance.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Hareket ve Müzik — movement and music together (original target `gymnastics/moving-to-a-beat`) | Turkey G7 PE Game & Music (Music MS), printed p. 38 |
+| Turkey — Koreografi Zamanı — choreography time: building your own dance sequence (original target `gymnastics/moving-to-a-beat`) | Turkey G7 PE Game & Music (Music MS), printed p. 41 |
+
+**Book — Turkey Book 15 (teacher guide):**
+## Book 15 — PE & Game TG Grades 1–4 (teacher guide, Turkish)
+- Title as printed: Beden Eğitimi ve Oyun Dersi (1, 2, 3 ve 4. Sınıflar) Öğretmen Kılavuz Kitabı (İlkokul)
+- Grade: 1–4 (student/teacher: TEACHER)
+- Publisher: MEB Devlet Kitapları; year 2025; ISBN not legible in extracted front matter
+- PDF pages: 382 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 20 placements — 16 to existing lessons, 4 NEW LESSON NEEDED
+- Turkey's own way: primary PE is four-to-six themes a year with the same spiral every year — move, play by the rules, move with rhythm, join physical activity for health — plus, in grades 3–4, exploring the environment by moving and Turkey's cultural game heritage; grade 4 ends with "movement knows no barriers" (inclusive movement).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — G1 Theme 3: Ritimle Hareket Ediyorum — moving with rhythm at grade 1 (original target `gymnastics/moving-to-a-beat`) | Turkey G1–4 PE & Game TG, printed p. 64 |
+| Turkey — G2 Theme 3: Ritimle Hareket Ediyorum — moving with rhythm at grade 2 (original target `gymnastics/moving-to-a-beat`) | Turkey G1–4 PE & Game TG, printed p. 133 |
+| Turkey — G3 Theme 3: Farklı Ritimlerle Hareket Ediyorum — moving with different rhythms (original target `gymnastics/moving-to-a-beat`) | Turkey G1–4 PE & Game TG, printed p. 213 |
+| Turkey — G4 Theme 3: Yaratıcı Ritmik Adımlar Sergiliyorum — performing creative rhythmic steps (original target `gymnastics/moving-to-a-beat`) | Turkey G1–4 PE & Game TG, printed p. 308 |
+
+**Book — Turkey Book 16 (teacher guide):**
+## Book 16 — Differentiation Activities TG, PE Game & Music Grade 1 (teacher guide, Turkish)
+- Title as printed: Beden Eğitimi, Oyun ve Müzik 1. Sınıf Farklılaştırma Etkinlikleri Öğretmen Kılavuz Kitabı (Müzik İlkokulu)
+- Grade: 1 (student/teacher: TEACHER)
+- Publisher: MEB Devlet Kitapları (Yardımcı ve Kaynak Kitaplar — supplementary/resource series); year 2025
+- PDF pages: 136 (cover/title page verified against the record title)
+- Verdict: COMPLETE — differentiation book: support + enrichment activities keyed theme-by-theme to the Grade 1 student book (Book 11); placed at theme level
+- Tally: 4 placements — 3 to existing lessons, 1 NEW LESSON NEEDED
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Theme 2 differentiated activities: Ritimle Hareket Ediyorum — differentiated rhythm-movement activities (original target `gymnastics/moving-to-a-beat`) | Turkey G1 BOM Differentiation TG |
+
+**Book — Turkey Book 17 (teacher guide):**
+## Book 17 — Differentiation Activities TG, PE Game & Music Grade 2 (teacher guide, Turkish)
+- Title as printed: Beden Eğitimi, Oyun ve Müzik 2. Sınıf Farklılaştırma Etkinlikleri Öğretmen Kılavuz Kitabı (Müzik İlkokulu)
+- Grade: 2 (student/teacher: TEACHER)
+- Publisher: MEB Devlet Kitapları (supplementary/resource series); year 2025/2026
+- PDF pages: 67 (cover/title page verified; record size 21,988,646 bytes matches the downloaded file exactly)
+- Verdict: COMPLETE — differentiation book keyed theme-by-theme to the Grade 2 student book (Book 12); placed at theme level
+- Tally: 4 placements — 3 to existing lessons, 1 NEW LESSON NEEDED
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Theme 2 differentiated activities: Ritmik Hareket Ediyorum — differentiated rhythmic-movement activities (original target `gymnastics/moving-to-a-beat`) | Turkey G2 BOM Differentiation TG |
+
+**Book — Turkey Book 18 (teacher guide):**
+## Book 18 — Differentiation Activities TG, PE Game & Music Grade 5 (teacher guide, Turkish)
+- Title as printed: Beden Eğitimi, Oyun ve Müzik 5. Sınıf Farklılaştırma Etkinlikleri Öğretmen Kılavuz Kitabı (Müzik Ortaokulu)
+- Grade: 5 (student/teacher: TEACHER)
+- Publisher: MEB Devlet Kitapları (supplementary/resource series); year 2026
+- PDF pages: 48 (cover/title page verified; record size 23,598,573 bytes matches exactly)
+- Verdict: COMPLETE — differentiation book keyed theme-by-theme to the Grade 5 student book (Book 5); placed at theme level
+- Tally: 4 placements — 3 to existing lessons, 1 NEW LESSON NEEDED
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Theme 2 differentiated activities: Farklı Ritimler — differentiated rhythm activities (original target `gymnastics/moving-to-a-beat`) | Turkey G5 BOM Differentiation TG, printed p. 20 |
+
+**Book — Turkey Book 19 (teacher guide):**
+## Book 19 — Differentiation Activities TG, PE Game & Music Grade 6 (teacher guide, Turkish)
+- Title as printed: Beden Eğitimi, Oyun ve Müzik 6. Sınıf Farklılaştırma Etkinlikleri Öğretmen Kılavuz Kitabı (Müzik Ortaokulu)
+- Grade: 6 (student/teacher: TEACHER)
+- Publisher: MEB Devlet Kitapları (supplementary/resource series); year 2026
+- PDF pages: 48 (cover/title page verified; record size 25,592,148 bytes matches exactly)
+- Verdict: COMPLETE — differentiation book keyed theme-by-theme to the Grade 6 student book (Book 9); placed at theme level
+- Tally: 4 placements — 3 to existing lessons, 1 NEW LESSON NEEDED
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Theme 2 differentiated activities: Ritimlerle Dans — differentiated dancing-with-rhythms activities (original target `gymnastics/moving-to-a-beat`) | Turkey G6 BOM Differentiation TG, printed p. 20 |
+
+**Book — Turkey Book 20 (teacher guide):**
+## Book 20 — Differentiation Activities TG, PE & Game Grades 1–4 (teacher guide, Turkish)
+- Title as printed: Beden Eğitimi ve Oyun (1, 2, 3 ve 4. Sınıflar) Farklılaştırma Etkinlikleri Öğretmen Kılavuz Kitabı (İlkokul)
+- Grade: 1–4 (student/teacher: TEACHER)
+- Publisher: MEB Devlet Kitapları (supplementary/resource series); year 2025/2026
+- PDF pages: 129 (cover/title page verified against the record title)
+- Verdict: COMPLETE — differentiation book keyed theme-by-theme to the Grades 1–4 teacher guide (Book 15); placed at theme level
+- Tally: 20 placements — 16 to existing lessons, 4 NEW LESSON NEEDED
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — G1 Theme 3 differentiated: Ritimle Hareket Ediyorum (original target `gymnastics/moving-to-a-beat`) | Turkey G1–4 PE Differentiation TG, printed p. 22 |
+| Turkey — G2 Theme 3 differentiated: Ritimle Hareket Ediyorum (original target `gymnastics/moving-to-a-beat`) | Turkey G1–4 PE Differentiation TG, printed p. 49 |
+| Turkey — G3 Theme 3 differentiated: Farklı Ritimlerle Hareket Ediyorum (original target `gymnastics/moving-to-a-beat`) | Turkey G1–4 PE Differentiation TG, printed p. 70 |
+| Turkey — G4 Theme 3 differentiated: Yaratıcı Ritmik Adımlar Sergiliyorum (original target `gymnastics/moving-to-a-beat`) | Turkey G1–4 PE Differentiation TG, printed p. 108 |
+
+**Book — Turkey Book 21 (teacher guide):**
+## Book 21 — Differentiation Activities TG, PE & Sport Grades 5–8 (teacher guide, Turkish)
+- Title as printed: Beden Eğitimi ve Spor (5, 6, 7 ve 8. Sınıflar) Farklılaştırma Etkinlikleri Öğretmen Kılavuz Kitabı
+- Grade: 5–8 (student/teacher: TEACHER)
+- Publisher: MEB Devlet Kitapları (supplementary/resource series); year 2026
+- PDF pages: 182 (cover/title page verified against the record title)
+- Verdict: COMPLETE — differentiation book keyed theme-by-theme to the Grades 5–8 teacher guide (Book 7); placed at theme level
+- Tally: 19 placements — 10 to existing lessons, 9 NEW LESSON NEEDED
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — G5 Theme 4 differentiated: Hareketin Estetiği ve Ritmi (original target `gymnastics/moving-to-a-beat`) | Turkey G5–8 PE Differentiation TG, printed p. 37 |
+
+Turkey's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Turkey is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 5, Book 8, Book 9, Book 11, Book 12, Book 13); its teacher guides stocked here (Book 1, Book 3, Book 4, Book 7, Book 15, Book 16, Book 17, Book 18, Book 19, Book 20, Book 21) are evidence only, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

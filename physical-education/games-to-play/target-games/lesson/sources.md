@@ -1,8 +1,8 @@
 # Sources — Target Games
 
-countries: Zimbabwe
+countries: Zimbabwe, Turkey
 
-**Acceptance count: taught in 1 country (Zimbabwe).** Zimbabwe is student-book stock (see its rows below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
+**Acceptance count: taught in 1 country (Zimbabwe).** Zimbabwe is student-book stock (see its rows below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Turkey is added as teacher-guide evidence only (see its Turkey section below), named in the countries line but outside the acceptance count.
 
 ## Zimbabwe — PE expansion 2026-11-16
 
@@ -89,3 +89,36 @@ Zimbabwe's placements in this lesson were filed under the original strings recor
 This is a canonical NEW lesson (slug-registry Part 1: `games-to-play/target-games` — Target games: aiming and throwing or kicking at targets, including archery.)
 
 Searchable tags: target games, Zimbabwe
+
+## Turkey — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkey-pe-placements.md. The Turkey books stocked in this lesson are Book 7, Book 21 — all read in full as filed (full text extraction, cover/title page verified against each record). The Turkey books stocked in this lesson are teacher guides, so Turkey is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. Turkey's own way is content, as the book lines below record it: Book 7: middle-school PE is five themes per grade that spiral upward — fitness, cooperative and target games, cultural-heritage games, invasion games — ending in grade 8 with joining tournaments and running a sport festival.
+
+**Book — Turkey Book 7 (teacher guide):**
+## Book 7 — PE TG Grades 5–8 (teacher guide, Turkish)
+- Title as printed: Beden Eğitimi ve Spor Dersi (5, 6, 7 ve 8. Sınıflar) Öğretmen Kılavuz Kitabı (Ortaokul ve İmam Hatip Ortaokulu)
+- Grade: 5–8 (student/teacher: TEACHER)
+- Publisher: MEB Devlet Kitapları; year 2025; ISBN not legible in extracted front matter (MEB Yayınları No 10515)
+- PDF pages: 449 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 19 placements — 10 to existing lessons, 9 NEW LESSON NEEDED
+- Turkey's own way: middle-school PE is five themes per grade that spiral upward — fitness, cooperative and target games, cultural-heritage games, invasion games — ending in grade 8 with joining tournaments and running a sport festival.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — G6 Theme 2: Hedef Oyunları — target games: aiming and scoring at targets (original target `games-to-play/target-games`) | Turkey G5–8 PE TG, printed p. 156 |
+
+**Book — Turkey Book 21 (teacher guide):**
+## Book 21 — Differentiation Activities TG, PE & Sport Grades 5–8 (teacher guide, Turkish)
+- Title as printed: Beden Eğitimi ve Spor (5, 6, 7 ve 8. Sınıflar) Farklılaştırma Etkinlikleri Öğretmen Kılavuz Kitabı
+- Grade: 5–8 (student/teacher: TEACHER)
+- Publisher: MEB Devlet Kitapları (supplementary/resource series); year 2026
+- PDF pages: 182 (cover/title page verified against the record title)
+- Verdict: COMPLETE — differentiation book keyed theme-by-theme to the Grades 5–8 teacher guide (Book 7); placed at theme level
+- Tally: 19 placements — 10 to existing lessons, 9 NEW LESSON NEEDED
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — G6 Theme 2 differentiated: Hedef Oyunları (original target `games-to-play/target-games`) | Turkey G5–8 PE Differentiation TG, printed p. 66 |
+
+Turkey's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. The Turkey books stocked in this lesson are teacher guides, so Turkey is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

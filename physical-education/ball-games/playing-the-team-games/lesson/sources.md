@@ -1,6 +1,6 @@
 # Sources — Playing the Team Games
 
-countries: Ethiopia, Kazakhstan, Tajikistan, Samoa, Timor-Leste, Thailand, China, Nicaragua, Azerbaijan, Maldives, Honduras, Fiji, Mauritius, Iran, North Macedonia, Zimbabwe, Jordan, Malaysia, Cuba, Kuwait, Oman, Papua New Guinea, Sri Lanka, Rwanda, Greece, DR Congo
+countries: Ethiopia, Kazakhstan, Tajikistan, Samoa, Timor-Leste, Thailand, China, Nicaragua, Azerbaijan, Maldives, Honduras, Fiji, Mauritius, Iran, North Macedonia, Zimbabwe, Jordan, Malaysia, Cuba, Kuwait, Oman, Papua New Guinea, Sri Lanka, Rwanda, Greece, DR Congo, Turkey
 
 **Book — Grade 5 student:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 106 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md. COMPLETE.
 
@@ -43,7 +43,7 @@ countries: Ethiopia, Kazakhstan, Tajikistan, Samoa, Timor-Leste, Thailand, China
 | Timor-Leste — Period 3: Choosing a sport — the class chooses its Period 3 sport (original target `ball-games/playing-the-team-games`) | Timor-Leste, *Educação Física 7, Manual do aluno* (Timor-Leste Grade 7 Student Book), printed p. 43 |
 | Timor-Leste — Appendix 2: Organising a tournament — a teacher's guide to running the class tournament (teacher guide — evidence) (original target `ball-games/playing-the-team-games`) | Timor-Leste, *Educação Física 7, Guia do Professor* (Timor-Leste Grade 7 Teacher Guide), printed p. 129 |
 | Thailand — Unit 4, Ch. 2 International sports (กีฬาสากล) — playing one individual and one team international sport, observing the rules, rights and duties of play, with sporting spirit (student book — SSR flipbook sample, PARTIAL) (original target `ball-games/playing-the-team-games`) | Thailand, *Health & PE, Grade 5* (Thailand Grade 5 SSR Health & PE), Unit 4, Ch. 2, printed p. 104 |
-**Acceptance count: taught in 17 countries (Ethiopia, Tajikistan, Timor-Leste, Thailand, China, Nicaragua, Azerbaijan, Honduras, Mauritius, Iran, North Macedonia, Zimbabwe, Jordan, Malaysia, Sri Lanka, Greece, DR Congo).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Samoa is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Timor-Leste is added as student-book stock (see its rows above), inside the acceptance count; its Appendix 2 tournament row rests on the teacher guide and is evidence only. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count; the Mauritius teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count; the Iran teacher guide stocked in this lesson (Book 13) is teacher-guide evidence only, outside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count.
+**Acceptance count: taught in 17 countries (Ethiopia, Tajikistan, Timor-Leste, Thailand, China, Nicaragua, Azerbaijan, Honduras, Mauritius, Iran, North Macedonia, Zimbabwe, Jordan, Malaysia, Sri Lanka, Greece, DR Congo).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Samoa is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Timor-Leste is added as student-book stock (see its rows above), inside the acceptance count; its Appendix 2 tournament row rests on the teacher guide and is evidence only. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count; the Mauritius teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count; the Iran teacher guide stocked in this lesson (Book 13) is teacher-guide evidence only, outside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count. Turkey is added as teacher-guide evidence only (see its Turkey section below), named in the countries line but outside the acceptance count.
 
 Student books Grades 5–7 are complete. No page is claimed that the placements do not give.
 
@@ -1237,3 +1237,68 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-pe-
 | DR Congo — Ch. 6 §6.4 Adapted volleyball games — string for a net, 4-v-4, catch-and-throw allowed at first (original target `ball-games/playing-the-team-games`) | DR Congo Grade 6 EPS Primaire 6, Ch. 6 §6.4 |
 
 DR Congo's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. DR Congo is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Turkey — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkey-pe-placements.md. The Turkey books stocked in this lesson are Book 1, Book 2, Book 7, Book 21 — all read in full as filed (full text extraction, cover/title page verified against each record). The Turkey books stocked in this lesson are teacher guides, so Turkey is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. Turkey's own way is content, as the book lines below record it: Book 1: the new MEB (TYMM) model organises PE into three themes — Fitness & Physical Activity, Sport Education, Sport Culture — with the same theme spine reused at every lise grade.; Book 2: grade 9 opens the lise spine with lifelong exercise and strength, then team and net/racket sports, closing with sport culture including a national Atatürk-and-sport section.; Book 7: middle-school PE is five themes per grade that spiral upward — fitness, cooperative and target games, cultural-heritage games, invasion games — ending in grade 8 with joining tournaments and running a sport festival.
+
+**Book — Turkey Book 1 (teacher guide):**
+## Book 1 — PE TG Preparatory Class (teacher guide, Turkish)
+- Title as printed: Ortaöğretim Beden Eğitimi ve Spor Dersi Hazırlık Sınıfı Öğretmen Kılavuz Kitabı
+- Grade: Preparatory class (lise hazırlık) (student/teacher: TEACHER)
+- Publisher: MEB Devlet Kitapları; year 2025; ISBN not legible in extracted front matter
+- PDF pages: 64 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 6 placements — 4 to existing lessons, 2 NEW LESSON NEEDED
+- Turkey's own way: the new MEB (TYMM) model organises PE into three themes — Fitness & Physical Activity, Sport Education, Sport Culture — with the same theme spine reused at every lise grade.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — 2.1 Takım Mücadele Sporları Özelleşmiş Hareket Becerileri — specialised skills of team contest sports (basketball-led) (original target `ball-games/playing-the-team-games`) | Turkey Prep PE TG, printed p. 30 |
+| Turkey — 2.2 Takım Mücadele Sporlarında Taktik ve Strateji — building tactics and strategy in team contest sports (original target `ball-games/playing-the-team-games`) | Turkey Prep PE TG, printed p. 38 |
+
+**Book — Turkey Book 2 (teacher guide):**
+## Book 2 — PE TG Grade 9 (teacher guide, Turkish)
+- Title as printed: Ortaöğretim Beden Eğitimi ve Spor Dersi 9. Sınıf Öğretmen Kılavuz Kitabı
+- Grade: 9 (student/teacher: TEACHER)
+- Publisher: MEB Devlet Kitapları; year 2025; ISBN 978-975-11-9255-4
+- PDF pages: 82 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 9 placements — 6 to existing lessons, 3 NEW LESSON NEEDED
+- Turkey's own way: grade 9 opens the lise spine with lifelong exercise and strength, then team and net/racket sports, closing with sport culture including a national Atatürk-and-sport section.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — 2.1 Takım Mücadele Sporlarının Özelleşmiş Hareket Becerileri — specialised skills of team contest sports (original target `ball-games/playing-the-team-games`) | Turkey G9 PE TG, printed p. 28 |
+| Turkey — 2.2 Takım Mücadele Sporlarında Taktik ve Strateji Geliştirme — tactics and strategy in team contest sports (original target `ball-games/playing-the-team-games`) | Turkey G9 PE TG, printed p. 36 |
+
+**Book — Turkey Book 7 (teacher guide):**
+## Book 7 — PE TG Grades 5–8 (teacher guide, Turkish)
+- Title as printed: Beden Eğitimi ve Spor Dersi (5, 6, 7 ve 8. Sınıflar) Öğretmen Kılavuz Kitabı (Ortaokul ve İmam Hatip Ortaokulu)
+- Grade: 5–8 (student/teacher: TEACHER)
+- Publisher: MEB Devlet Kitapları; year 2025; ISBN not legible in extracted front matter (MEB Yayınları No 10515)
+- PDF pages: 449 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 19 placements — 10 to existing lessons, 9 NEW LESSON NEEDED
+- Turkey's own way: middle-school PE is five themes per grade that spiral upward — fitness, cooperative and target games, cultural-heritage games, invasion games — ending in grade 8 with joining tournaments and running a sport festival.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — G6 Theme 5: Hücum Oyunları — invasion (attacking) team games (original target `ball-games/playing-the-team-games`) | Turkey G5–8 PE TG, printed p. 232 |
+| Turkey — G7 Theme 5: Hücum Oyunları — invasion team games at grade 7 (original target `ball-games/playing-the-team-games`) | Turkey G5–8 PE TG, printed p. 339 |
+
+**Book — Turkey Book 21 (teacher guide):**
+## Book 21 — Differentiation Activities TG, PE & Sport Grades 5–8 (teacher guide, Turkish)
+- Title as printed: Beden Eğitimi ve Spor (5, 6, 7 ve 8. Sınıflar) Farklılaştırma Etkinlikleri Öğretmen Kılavuz Kitabı
+- Grade: 5–8 (student/teacher: TEACHER)
+- Publisher: MEB Devlet Kitapları (supplementary/resource series); year 2026
+- PDF pages: 182 (cover/title page verified against the record title)
+- Verdict: COMPLETE — differentiation book keyed theme-by-theme to the Grades 5–8 teacher guide (Book 7); placed at theme level
+- Tally: 19 placements — 10 to existing lessons, 9 NEW LESSON NEEDED
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — G6 Theme 5 differentiated: Hücum Oyunları (original target `ball-games/playing-the-team-games`) | Turkey G5–8 PE Differentiation TG, printed p. 88 |
+| Turkey — G7 Theme 5 differentiated: Hücum Oyunları (original target `ball-games/playing-the-team-games`) | Turkey G5–8 PE Differentiation TG, printed p. 132 |
+
+Turkey's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. The Turkey books stocked in this lesson are teacher guides, so Turkey is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

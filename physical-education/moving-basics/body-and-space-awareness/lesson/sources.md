@@ -1,8 +1,8 @@
 # Sources — Body and Space Awareness
 
-countries: Mozambique, El Salvador
+countries: Mozambique, El Salvador, Turkey
 
-**Acceptance count: taught in 0 countries** (founded on teacher-guide evidence only — Mozambique's *Manual do Professor, 1.ª classe*; no pupil's book in hand). Mozambique is named in the countries line and in the rows below, but outside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 1 country (Turkey)** (founded on teacher-guide evidence only — Mozambique's *Manual do Professor, 1.ª classe*; no pupil's book in hand). Mozambique is named in the countries line and in the rows below, but outside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count.
 
 **Book — Mozambique Grade 1 teacher manual (teacher guide — evidence):** *Manual do Professor — 1.ª classe — Língua Portuguesa / Matemática / Educação Física* (teacher guide, Portuguese) — Title as printed: Manual do Professor — 1.ª classe — Língua Portuguesa / Matemática / Educação Física — Grade: Grade 1 (student/teacher: TEACHER) — Publisher: MINEDH / IEDA (Mozambique); year: no year printed on the cover; ISBN: no ISBN printed — PDF pages: 216 (cover verified against the record title). Other subjects in the same manual (named, not placed): Língua Portuguesa, printed pp. 4–146; Matemática, printed pp. 147–182. The Educação Física part runs printed pp. 183–214, bibliography p. 215. Standing exclusion named: the PE part's Avaliação section (printed p. 194) is assessment guidance — named here, not placed. Verdict: COMPLETE (PE part). Downloaded PDF from the ministry IEDA site (5,891,019 bytes, exactly the recorded size; 216 pages), cover rendered and verified, full text read. Read in full in the 2026-11-16 PE expansion read. Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/mozambique-pe-placements.md. Mozambique's own way: Grade 1 PE is taught entirely through play — the manual's recommended "recreative-formative" method builds every lesson from recreational games, songs and dances; there are no sport modalities in the first cycle, and children teach each other the dances they know. Its traditional games (Neca, O pião, Ao fom fim…) are named as content handed down across generations.
 
@@ -36,3 +36,51 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/el-salvador-
 El Salvador's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. El Salvador's own way is content, as the book lines above record it: PE is organised in the same three units for every grade of the cycle — body awareness and orientation, then physical-motor and sporting skills, then body communication and protecting the organism — taught through named play sessions, with didactic resources made from recycled materials, and a bank of Salvadoran school games (juegos lúdicos) per grade in the annexes. The guide is a teacher guide, filed as evidence only, outside the acceptance count. Game rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: body and space awareness, finding your way in space, Orientação, spatial orientation, command voices, organisation and control exercises, left and right, personal space shared space, Mozambique Grade 1 Teacher Manual Educação Física
+
+## Turkey — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkey-pe-placements.md. The Turkey books stocked in this lesson are Book 4, Book 11, Book 12 — all read in full as filed (full text extraction, cover/title page verified against each record). Turkey is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 11, Book 12); its teacher guides stocked here (Book 4) are evidence only, outside the acceptance count. Turkey's own way is content, as the book lines below record it: Book 4: preschool movement is taught entirely through named play activities (50+ of them), built on three skills — motor skills for an active life, healthy living/self-care, and risk & safety — with at least 180 minutes of daily physical activity stated as the norm.; Book 11: the very first PE book already runs the full spine — move and protect your health, move with rhythm, play musical games, and learn a folk dance (Halay) in grade 1.; Book 12: grade 2 teaches space awareness through signs and signals, and closes with the Kaşık (spoon) dances — children dance clicking wooden spoons.
+
+**Book — Turkey Book 4 (teacher guide):**
+## Book 4 — Preschool Movement & Health TG (teacher guide, Turkish) — PE parts
+- Title as printed: Okul Öncesi Hareket ve Sağlık Alanı Öğretmen Kılavuz Kitabı
+- Grade: Preschool (okul öncesi) (student/teacher: TEACHER)
+- Publisher: MEB Devlet Kitapları; year 2026; ISBN 978-625-8867-30-5
+- PDF pages: 132 (cover/title page verified against the record title)
+- Verdict: COMPLETE — combined Movement & Health book; Health parts filed in turkey-health-placements.md
+- Tally (PE file): 8 placements — 7 to existing lessons, 1 NEW LESSON NEEDED
+- Turkey's own way: preschool movement is taught entirely through named play activities (50+ of them), built on three skills — motor skills for an active life, healthy living/self-care, and risk & safety — with at least 180 minutes of daily physical activity stated as the norm.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Benim Vücudum / Ellerim ve Parmaklarım / Ben Neredeyim? — knowing my body parts, my hands and fingers, and where I am in space (original target `moving-basics/body-and-space-awareness-for-young-children`) | Turkey Preschool Movement & Health TG, printed pp. 24, 64, 100 |
+
+**Book — Turkey Book 11 (student book):**
+## Book 11 — PE, Game & Music Grade 1, Music Primary School (student book, Turkish)
+- Title as printed: Beden Eğitimi, Oyun ve Müzik 1. Sınıf Ders Kitabı (Müzik İlkokulu — Music Primary School edition)
+- Grade: 1 (student/teacher: STUDENT)
+- Publisher: MEB; year 2026; ISBN not legible in extracted front matter
+- PDF pages: 180 (cover/title page verified against the record title)
+- Verdict: COMPLETE — combined PE/Game/Music book; Music parts named, not placed: the rhythm-and-rhyme material inside Theme 2 (printed pp. 70–101). One Health part (balanced and regular nutrition, printed p. 56) is filed in turkey-health-placements.md.
+- Tally (PE file): 14 placements — 11 to existing lessons, 3 NEW LESSON NEEDED
+- Turkey's own way: the very first PE book already runs the full spine — move and protect your health, move with rhythm, play musical games, and learn a folk dance (Halay) in grade 1.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Kişisel ve Genel Alan — personal and general space: knowing the space my body takes and the space we share (original target `moving-basics/body-and-space-awareness-for-young-children`) | Turkey G1 PE Game & Music (Music PS), printed p. 24 |
+
+**Book — Turkey Book 12 (student book):**
+## Book 12 — PE, Game & Music Grade 2, Music Primary School (student book, Turkish)
+- Title as printed: Beden Eğitimi, Oyun ve Müzik 2. Sınıf Ders Kitabı (Müzik İlkokulu — Music Primary School edition)
+- Grade: 2 (student/teacher: STUDENT)
+- Publisher: MEB; year 2025/2026; ISBN not legible in extracted front matter
+- PDF pages: 142 (cover/title page verified against the record title)
+- Verdict: COMPLETE — combined PE/Game/Music book; Music parts named, not placed: performing rhymes with rhythm instruments and imitating sound sources (printed pp. 71, 83). One Health part (taking precautions and protecting health in games, printed p. 53) is filed in turkey-health-placements.md.
+- Tally (PE file): 13 placements — 9 to existing lessons, 4 NEW LESSON NEEDED
+- Turkey's own way: grade 2 teaches space awareness through signs and signals, and closes with the Kaşık (spoon) dances — children dance clicking wooden spoons.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — İşaretler Yoluyla Alan Farkındalığı — space awareness through signs and signals (original target `moving-basics/body-and-space-awareness-for-young-children`) | Turkey G2 PE Game & Music (Music PS), printed p. 24 |
+
+Turkey's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Turkey is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 11, Book 12); its teacher guides stocked here (Book 4) are evidence only, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

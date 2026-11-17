@@ -1,6 +1,6 @@
 # Sources — Games for Self-Leadership
 
-countries: Ethiopia, Samoa, Fiji, DR Congo
+countries: Ethiopia, Samoa, Fiji, DR Congo, Turkey
 
 **Book 1:** *Grade 3 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–65 + front matter (72 PDF pages). Printed page = PDF page − 7. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g03-student-placements.md.
 
@@ -45,7 +45,7 @@ countries: Ethiopia, Samoa, Fiji, DR Congo
 | Prove-it questions folded from the book's own Chapter 2 review — Sub lesson 7 (teacher guide — evidence) | Ethiopia, *Grade 5 Teacher Guide*, Chapter 2 summary + assessment answers, printed pp. 20–21 (teacher guide — evidence) |
 | Prove-it questions folded from the book's own Chapter 2 review — Sub lesson 8 (teacher guide — evidence) | Ethiopia, *Grade 7 Teacher Guide*, Chapter 2 summary + review answers, printed pp. 25–26 (teacher guide — evidence) |
 | Samoa — Year 12 Unit 2D — leadership skills through movement activities (teacher guide — evidence) (original target `games-to-play/games-for-self-leadership`) | Samoa, *Health and Physical Education Teacher Guide, Years 11 and 12* (Samoa Years 11–12 TG), printed p. 64 |
-**Acceptance count: taught in 2 countries (Ethiopia, DR Congo).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Samoa is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 3 countries (Ethiopia, DR Congo, Turkey).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Samoa is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count.
 
 The Grade 3 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -105,3 +105,36 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-pe-
 | DR Congo — §5.4 Managing your own effort — pacing yourself and encouraging the group in relays and hikes (original target `games-to-play/games-for-self-leadership`) | DR Congo Humanities 2 Pédagogie Générale PE, §5.4 |
 
 DR Congo's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. DR Congo is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Turkey — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkey-pe-placements.md. The Turkey books stocked in this lesson are Book 9, Book 19 — all read in full as filed (full text extraction, cover/title page verified against each record). Turkey is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 9); its teacher guides stocked here (Book 19) are evidence only, outside the acceptance count. Turkey's own way is content, as the book lines below record it: Book 9: grade 6 adds team and group leadership and rule-bound games on top of the dance spine, and returns to Horon for a second, deeper year.
+
+**Book — Turkey Book 9 (student book):**
+## Book 9 — PE, Game & Music Grade 6, Music Middle School (student book, Turkish)
+- Title as printed: Beden Eğitimi, Oyun ve Müzik 6. Sınıf Ders Kitabı (Müzik Ortaokulu — Music Middle School edition)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: MEB; year 2026; ISBN not legible in extracted front matter
+- PDF pages: 98 (cover/title page verified against the record title)
+- Verdict: COMPLETE — combined PE/Game/Music book; Music parts named, not placed: creating rhythms (printed p. 24)
+- Tally: 9 placements — 6 to existing lessons, 3 NEW LESSON NEEDED
+- Turkey's own way: grade 6 adds team and group leadership and rule-bound games on top of the dance spine, and returns to Horon for a second, deeper year.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Takım ve Grup Liderliği — team and group leadership (original target `games-to-play/games-for-self-leadership`) | Turkey G6 PE Game & Music (Music MS), printed p. 44 |
+
+**Book — Turkey Book 19 (teacher guide):**
+## Book 19 — Differentiation Activities TG, PE Game & Music Grade 6 (teacher guide, Turkish)
+- Title as printed: Beden Eğitimi, Oyun ve Müzik 6. Sınıf Farklılaştırma Etkinlikleri Öğretmen Kılavuz Kitabı (Müzik Ortaokulu)
+- Grade: 6 (student/teacher: TEACHER)
+- Publisher: MEB Devlet Kitapları (supplementary/resource series); year 2026
+- PDF pages: 48 (cover/title page verified; record size 25,592,148 bytes matches exactly)
+- Verdict: COMPLETE — differentiation book keyed theme-by-theme to the Grade 6 student book (Book 9); placed at theme level
+- Tally: 4 placements — 3 to existing lessons, 1 NEW LESSON NEEDED
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Theme 3 differentiated activities: Takım Liderliği — differentiated team-leadership activities (original target `games-to-play/games-for-self-leadership`) | Turkey G6 BOM Differentiation TG, printed p. 28 |
+
+Turkey's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Turkey is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 9); its teacher guides stocked here (Book 19) are evidence only, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

@@ -1,6 +1,6 @@
 # Sources — Athletes Beyond Sport — What Champions Give Back
 
-countries: Ethiopia, Papua New Guinea
+countries: Ethiopia, Papua New Guinea, Turkey
 
 **Book 1:** *Grade 6 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–95 + front matter (103 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g06-student-placements.md.
 
@@ -27,7 +27,7 @@ countries: Ethiopia, Papua New Guinea
 | Sub lesson 3 — Athletes invest, employ and serve — the Grade 7 account | Ethiopia, *Grade 7 Student Textbook*, item 7 (§1.5), printed pp. 8–12 |
 | Sub lesson 4 — Sport legends at work — Haile, Derartu, Mengistu (teacher guide — evidence) | Ethiopia, *Grade 7 Teacher Guide*, §1.3, printed pp. 5–7 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Turkey).** Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count.
 
 The Grade 6 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -76,3 +76,23 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/papua-new-gu
 | Papua New Guinea — Unit 2, Topics 35–36: attributes that make a top athlete and a top coach (teacher guide — evidence) (original target `sport-and-its-story/athletes-beyond-sport`) | Papua New Guinea, *Physical Education Teacher Guide, Senior High Grade 11, Standards-Based* (Papua New Guinea PE TG Grade 11), printed p. 47 |
 
 Papua New Guinea's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Papua New Guinea's own way is content, as the book lines above record it: PE organised in three strands — Safety, Movement, Physical Activity — in the primary guides, merging with Health into one six-strand subject from Grade 6, taught through village games, community modified sports and tabloid-sport station carnivals, with traditional leisure games, Tok Pisin-named modified sports (Kapul Soka, Tibol, Liklik Kriket, Mini Basketbol, Mini Volibol) and local leisure (gardening, fishing, sailing, sekapu stone games, string games) counted as PE content. Teacher guides are evidence of what is taught, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Turkey — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkey-pe-placements.md. The Turkey books stocked in this lesson are Book 10 — all read in full as filed (full text extraction, cover/title page verified against each record). Turkey is student-book stock, inside the acceptance count, in this lesson. Turkey's own way is content, as the book lines below record it: Book 10: grade 7 of the sports school is built around athletes with special needs — a full unit on Paralympic and Deaflympic sport — plus sport technology and innovation.
+
+**Book — Turkey Book 10 (student book):**
+## Book 10 — Foundations of PE & Sport Grade 7, Sports Middle School (student book, Turkish)
+- Title as printed: Beden Eğitimi ve Sporun Temelleri 7. Sınıf Ders Kitabı (Spor Ortaokulu — Sports Middle School edition)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: MEB; year 2026; ISBN not legible in extracted front matter (MEB Yayınları No 10820)
+- PDF pages: 158 (cover/title page verified against the record title)
+- Verdict: COMPLETE — Health units (first aid, athlete nutrition) filed in turkey-health-placements.md
+- Tally (PE file): 5 placements — 2 to existing lessons, 3 NEW LESSON NEEDED
+- Turkey's own way: grade 7 of the sports school is built around athletes with special needs — a full unit on Paralympic and Deaflympic sport — plus sport technology and innovation.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Dünya ve Türkiye'de İz Bırakmış Özel Gereksinimli Sporcular — special-needs athletes who left their mark in the world and in Turkey (original target `sport-and-its-story/athletes-beyond-sport`) | Turkey G7 Foundations of PE & Sport, printed p. 32 |
+
+Turkey's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Turkey is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

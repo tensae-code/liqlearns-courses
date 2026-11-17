@@ -1,6 +1,6 @@
 # Sources — What Physical Education Is and Where It Came From
 
-countries: Ethiopia, Mozambique, Namibia, Turkmenistan, Tajikistan, Afghanistan, China, Nicaragua, Azerbaijan, Honduras, Iran, North Macedonia, Cuba, Kuwait, Papua New Guinea, Greece, DR Congo
+countries: Ethiopia, Mozambique, Namibia, Turkmenistan, Tajikistan, Afghanistan, China, Nicaragua, Azerbaijan, Honduras, Iran, North Macedonia, Cuba, Kuwait, Papua New Guinea, Greece, DR Congo, Turkey
 
 **Book 1:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–106 + front matter (114 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md.
 
@@ -32,7 +32,7 @@ countries: Ethiopia, Mozambique, Namibia, Turkmenistan, Tajikistan, Afghanistan,
 
 | Turkmenistan — Part I, The Origin of Physical Education — PE as part of general human culture, sport as the future of cultural life, and how PE and sport differ and join (original target `sport-and-its-story/what-physical-education-is-and-where-it-came-from`) | Turkmenistan, *Bedenterbiýe (Physical Education)*, Part I, printed pp. 15–18 |
 | Tajikistan — Part 1, The Origin of Physical Culture and Sport — how physical exercise began with early people's hunting, defence and work, and how throws, runs and jumps became practised movements (original target `sport-and-its-story/what-physical-education-is-and-where-it-came-from`) | Tajikistan, *Fizicheskaya Kultura (Physical Culture), Grades 1–4*, Part 1, printed pp. 6–9 |
-**Acceptance count: taught in 11 countries (Ethiopia, Turkmenistan, Tajikistan, China, Nicaragua, Azerbaijan, Honduras, Iran, North Macedonia, Greece, DR Congo).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Namibia is likewise added as teacher-guide evidence only, outside the acceptance count. Turkmenistan is added as student-book stock (see its row above), inside the acceptance count. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count.
+**Acceptance count: taught in 12 countries (Ethiopia, Turkmenistan, Tajikistan, China, Nicaragua, Azerbaijan, Honduras, Iran, North Macedonia, Greece, DR Congo, Turkey).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Namibia is likewise added as teacher-guide evidence only, outside the acceptance count. Turkmenistan is added as student-book stock (see its row above), inside the acceptance count. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count. Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count.
 
 The Grade 5 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -469,3 +469,36 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-pe-
 | DR Congo — §1.2 The skills PE builds — motor, methodological (warming up, organising, observing) and social skills (original target `sport-and-its-story/what-physical-education-is-and-where-it-came-from`) | DR Congo Humanities 2 Pédagogie Générale PE, §1.2 |
 
 DR Congo's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. DR Congo is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Turkey — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkey-pe-placements.md. The Turkey books stocked in this lesson are Book 6, Book 22 — all read in full as filed (full text extraction, cover/title page verified against each record). Turkey is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 6); its teacher guides stocked here (Book 22) are evidence only, outside the acceptance count. Turkey's own way is content, as the book lines below record it: Book 6: the sports-school theory book — before any skills, grade 5 sports-school pupils study the history of sport (with Turkish sport history at its centre), the diversity of sports, sport's values, and how facilities and equipment work.
+
+**Book — Turkey Book 6 (student book):**
+## Book 6 — Foundations of PE & Sport Grade 5, Sports Middle School (student book, Turkish)
+- Title as printed: Beden Eğitimi ve Sporun Temelleri 5. Sınıf Ders Kitabı (Spor Ortaokulu — Sports Middle School edition)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: MEB; year 2026; ISBN not legible in extracted front matter (MEB Yayınları No 10542)
+- PDF pages: 158 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 9 placements — 5 to existing lessons, 4 NEW LESSON NEEDED
+- Turkey's own way: the sports-school theory book — before any skills, grade 5 sports-school pupils study the history of sport (with Turkish sport history at its centre), the diversity of sports, sport's values, and how facilities and equipment work.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Beden Eğitimi ve Sporun Tarihsel Gelişimi — the historical development of PE and sport, through Central Asian, Near Eastern and Mediterranean civilisations (original target `sport-and-its-story/what-physical-education-is-and-where-it-came-from`) | Turkey G5 Foundations of PE & Sport, printed pp. 12, 18, 20, 21 |
+
+**Book — Turkey Book 22 (teacher guide):**
+## Book 22 — Differentiation Activities TG, Foundations of PE & Sport Grade 5 (teacher guide, Turkish)
+- Title as printed: Beden Eğitimi ve Sporun Temelleri 5. Sınıf Farklılaştırma Etkinlikleri Öğretmen Kılavuz Kitabı (Spor Ortaokulu)
+- Grade: 5 (student/teacher: TEACHER)
+- Publisher: MEB Devlet Kitapları (supplementary/resource series); year 2026
+- PDF pages: 65 (cover/title page verified; record size 31,499,154 bytes matches exactly)
+- Verdict: COMPLETE — differentiation book keyed unit-by-unit to the Grade 5 Foundations student book (Book 6); placed at unit level
+- Tally: 4 placements — 3 to existing lessons, 1 NEW LESSON NEEDED
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Unit 1 differentiated activities: Sporun Tarihi ve Temel Kavramları (original target `sport-and-its-story/what-physical-education-is-and-where-it-came-from`) | Turkey G5 Foundations Differentiation TG |
+
+Turkey's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Turkey is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 6); its teacher guides stocked here (Book 22) are evidence only, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

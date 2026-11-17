@@ -1,8 +1,8 @@
 # Sources — Sports Nutrition and Hydration
 
-countries: United Kingdom, Fiji, Iran, Papua New Guinea
+countries: United Kingdom, Fiji, Iran, Papua New Guinea, Turkey
 
-**Acceptance count: taught in 3 countries (United Kingdom, Fiji, Iran).** United Kingdom is student-book stock (see its rows below), inside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; the Fiji teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count.
+**Acceptance count: taught in 3 countries (United Kingdom, Fiji, Iran).** United Kingdom is student-book stock (see its rows below), inside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; the Fiji teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Turkey is added as teacher-guide evidence only (see its Turkey section below), named in the countries line but outside the acceptance count.
 
 **Book — United Kingdom GCSE Edexcel PE student book (student book):** *Edexcel GCSE (9-1) Physical Education Student Book, 2nd edition* (student book, English) — Title as printed: Edexcel GCSE (9-1) Physical Education — Tony Scott (cover: "2nd edition") — Grade: GCSE, Years 10–11 (student/teacher: STUDENT) — Publisher: Pearson Education; year first published 2016 (2nd edition; imprint number line 19 18 17 16); ISBN 978 1 29212 988 4 — PDF pages: 228 (cover verified against the record title; file size 20,156,655 B and MD5 match the archive.org item metadata exactly). Verdict: COMPLETE — read in full via the extracted text layer. The book's own "Preparing for your exam" sections (printed pp. 118, 176) are assessment preparation — named here, excluded from placements per the standing exclusions; the glossary (p. 205) and index (p. 210) are inventory-only, named, not placed. Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/united-kingdom-pe-placements.md. United Kingdom's own way: PE at GCSE is an examined academic subject — anatomy, physiology, movement analysis and training theory, plus health, psychology and the sociology of sport, with practical performance in three chosen activities and a written Personal Exercise Programme. The second United Kingdom record, *Edexcel GCSE Physical Education Student Book* (2009 edition, Pearson (Edexcel), archive.org item `edexcelgcsephysi0000scot`), is UNREAD — lending-restricted on archive.org, direct GET returned 401/403, no login routes permitted — with 0 placements; nothing is stocked from it.
 
@@ -134,3 +134,23 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/papua-new-gu
 | Papua New Guinea — Strand 2 Unit 1, Topics 26–28: nutrition for health; components of a balanced lifestyle; benefits of a healthy lifestyle in physical activities (teacher guide — evidence) (original target `fitness-and-stretching/nutrition-and-a-balanced-lifestyle`) | Papua New Guinea, *Physical Education Teacher Guide, Junior High Grade 9, Standards-Based* (Papua New Guinea PE TG Grade 9), printed p. 28 |
 
 Papua New Guinea's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Papua New Guinea's own way is content, as the book lines above record it: PE organised in three strands — Safety, Movement, Physical Activity — in the primary guides, merging with Health into one six-strand subject from Grade 6, taught through village games, community modified sports and tabloid-sport station carnivals, with traditional leisure games, Tok Pisin-named modified sports (Kapul Soka, Tibol, Liklik Kriket, Mini Basketbol, Mini Volibol) and local leisure (gardening, fishing, sailing, sekapu stone games, string games) counted as PE content. Teacher guides are evidence of what is taught, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Turkey — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkey-pe-placements.md. The Turkey books stocked in this lesson are Book 3 — all read in full as filed (full text extraction, cover/title page verified against each record). The Turkey books stocked in this lesson are teacher guides, so Turkey is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. Turkey's own way is content, as the book lines below record it: Book 3: grade 10 turns from team sports to individual contest sports (combat sports) and field/nature sports (cycling, archery, orienteering-type activities), and pairs fitness with healthy eating and balance.
+
+**Book — Turkey Book 3 (teacher guide):**
+## Book 3 — PE TG Grade 10 (teacher guide, Turkish)
+- Title as printed: Ortaöğretim Beden Eğitimi ve Spor Dersi 10. Sınıf Öğretmen Kılavuz Kitabı
+- Grade: 10 (student/teacher: TEACHER)
+- Publisher: MEB Devlet Kitapları; year 2026; ISBN not legible in extracted front matter
+- PDF pages: 81 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 8 placements — 3 to existing lessons, 5 NEW LESSON NEEDED
+- Turkey's own way: grade 10 turns from team sports to individual contest sports (combat sports) and field/nature sports (cycling, archery, orienteering-type activities), and pairs fitness with healthy eating and balance.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — 1.1 Sağlıklı Beslenme ile Fiziksel Etkinlik Arasındaki İlişki — how healthy eating and physical activity work together (original target `fitness-and-stretching/nutrition-and-physical-activity`) | Turkey G10 PE TG, printed p. 14 |
+
+Turkey's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. The Turkey books stocked in this lesson are teacher guides, so Turkey is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

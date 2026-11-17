@@ -1,8 +1,8 @@
 # Sources — Sports Spaces and Equipment
 
-countries: Fiji, Iran
+countries: Fiji, Iran, Turkey
 
-**Acceptance count: taught in 1 country (Iran).** Fiji's rows in this lesson rest on teacher-guide evidence only (Fiji's *PE is Fun* teacher guides/handbooks); Fiji is named in the countries line and in the rows below, but outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count — the first pupil's book in hand for this lesson.
+**Acceptance count: taught in 2 countries (Iran, Turkey).** Fiji's rows in this lesson rest on teacher-guide evidence only (Fiji's *PE is Fun* teacher guides/handbooks); Fiji is named in the countries line and in the rows below, but outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count — the first pupil's book in hand for this lesson. Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count.
 
 ## Fiji — PE expansion 2026-11-16
 
@@ -90,3 +90,37 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/iran-pe-plac
 | Iran — Module 5, Unit 2 "Equipping and maintaining sports spaces" — managing, equipping and maintaining sports venues (original target `sport-and-its-story/equipping-and-looking-after-sports-spaces`) | Iran, *Developing Health and Lifestyle with Sport, Grade 11 (C211304)*, Module 5, Unit 2 "Equipping and maintaining sports spaces", printed p. 237 |
 
 Iran's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Iran's own way is content, as the book lines above record it: PE taught as a profession with a knowledge base — a Grade 10 theory book before any workshop book, workshop books of competency units with continuous and final assessment, team games taught as full coaching units with kabaddi standing as a full module beside them, and a special-needs fitness course of very short lessons with one idea each. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Turkey — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkey-pe-placements.md. The Turkey books stocked in this lesson are Book 6, Book 22 — all read in full as filed (full text extraction, cover/title page verified against each record). Turkey is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 6); its teacher guides stocked here (Book 22) are evidence only, outside the acceptance count. Turkey's own way is content, as the book lines below record it: Book 6: the sports-school theory book — before any skills, grade 5 sports-school pupils study the history of sport (with Turkish sport history at its centre), the diversity of sports, sport's values, and how facilities and equipment work.
+
+**Book — Turkey Book 6 (student book):**
+## Book 6 — Foundations of PE & Sport Grade 5, Sports Middle School (student book, Turkish)
+- Title as printed: Beden Eğitimi ve Sporun Temelleri 5. Sınıf Ders Kitabı (Spor Ortaokulu — Sports Middle School edition)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: MEB; year 2026; ISBN not legible in extracted front matter (MEB Yayınları No 10542)
+- PDF pages: 158 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 9 placements — 5 to existing lessons, 4 NEW LESSON NEEDED
+- Turkey's own way: the sports-school theory book — before any skills, grade 5 sports-school pupils study the history of sport (with Turkish sport history at its centre), the diversity of sports, sport's values, and how facilities and equipment work.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Spor Tesis ve Malzemelerini Sınıflandırma — classifying sport facilities and equipment (original target `sport-and-its-story/sport-facilities-and-equipment`) | Turkey G5 Foundations of PE & Sport, printed p. 128 |
+| Turkey — Spor Ortam ve Malzemelerinin Güvenli Kullanımı ve Bakımı / Spor Tesislerinin Fiziksel Güvenlik Koşulları — using and caring for sport spaces and equipment safely; physical safety conditions of facilities (original target `sport-and-its-story/using-sport-facilities-and-equipment-safely`) | Turkey G5 Foundations of PE & Sport, printed pp. 136, 138 |
+
+**Book — Turkey Book 22 (teacher guide):**
+## Book 22 — Differentiation Activities TG, Foundations of PE & Sport Grade 5 (teacher guide, Turkish)
+- Title as printed: Beden Eğitimi ve Sporun Temelleri 5. Sınıf Farklılaştırma Etkinlikleri Öğretmen Kılavuz Kitabı (Spor Ortaokulu)
+- Grade: 5 (student/teacher: TEACHER)
+- Publisher: MEB Devlet Kitapları (supplementary/resource series); year 2026
+- PDF pages: 65 (cover/title page verified; record size 31,499,154 bytes matches exactly)
+- Verdict: COMPLETE — differentiation book keyed unit-by-unit to the Grade 5 Foundations student book (Book 6); placed at unit level
+- Tally: 4 placements — 3 to existing lessons, 1 NEW LESSON NEEDED
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Unit 4 differentiated activities: Spor Tesisleri ve Malzemeleri (original target `sport-and-its-story/sport-facilities-and-equipment`) | Turkey G5 Foundations Differentiation TG |
+
+Turkey's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Turkey is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 6); its teacher guides stocked here (Book 22) are evidence only, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

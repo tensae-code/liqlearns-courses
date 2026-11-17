@@ -1,8 +1,8 @@
 # Sources — Sport Psychology
 
-countries: Samoa, Fiji, Iran, Indonesia
+countries: Samoa, Fiji, Iran, Indonesia, Turkey
 
-**Acceptance count: taught in 3 countries (Fiji, Iran, Indonesia).** Samoa is teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count.
+**Acceptance count: taught in 4 countries (Fiji, Iran, Indonesia, Turkey).** Samoa is teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count. Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count.
 
 **Book — Samoa Years 11–12 teacher guide (teacher guide — evidence):** *Health and Physical Education Teacher Guide, Years 11 and 12* (teacher guide, English) — Title as printed: Health and Physical Education Teacher Guide, Years 11 and 12 — Grade: Years 11–12 (student/teacher: TEACHER) — Publisher: Ministry of Education, Sports and Culture, Samoa; year 2004 (© MESC Samoa 2004); no ISBN printed — PDF pages: 88 (title page verified: "01 Health & PE Yr11-12 Final"; 18,702,938 bytes, exactly the size in the download-list record). Verdict: COMPLETE as a guide — all four units for both years plus Appendix 1 (Samoa Secondary Schools Fitness Test Battery) present. NOTE: the two secured books.json records (grade-11 and grade-12 staging paths) are NOT in GitHub (Contents API 404 on both) although marked pushed — a phantom-push library debt; the book was read from the ministry download-list copy and that copy has been staged at both staging paths under the push-don't-delete rule. Read in full in the 2026-11-16 PE expansion read. Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/samoa-pe-placements.md. Samoa's own way: senior HPE is organised family-outward — personal health, then human movement, then family health, then community health — and movement science (biomechanics, sports psychology, club organisation) is taught as examinable knowledge alongside a national fitness test battery.
 
@@ -110,3 +110,37 @@ Indonesia's placements in this lesson were filed under the original strings reco
 This is a canonical NEW lesson (slug-registry Part 1: `sport-and-its-story/sport-psychology` — Sport psychology: mind, motivation, emotions, anxiety and arousal — and how they shape performance.); Indonesia's placements were filed under the original strings recorded in the provenance rows above, resolved by registry Part 2 to this canonical slug where the string differs. Indonesia is student-book stock, inside the acceptance count, in this lesson.
 
 Searchable tags: sport psychology, Indonesia, PJOK G7 Student
+
+## Turkey — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkey-pe-placements.md. The Turkey books stocked in this lesson are Book 14, Book 23 — all read in full as filed (full text extraction, cover/title page verified against each record). Turkey is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 14); its teacher guides stocked here (Book 23) are evidence only, outside the acceptance count. Turkey's own way is content, as the book lines below record it: Book 14: grade 6 of the sports school turns inward — society and sport, then the individual: sport psychology and what goes on in an athlete's mind.
+
+**Book — Turkey Book 14 (student book):**
+## Book 14 — Foundations of PE & Sport Grade 6, Sports Middle School (student book, Turkish)
+- Title as printed: Beden Eğitimi ve Sporun Temelleri 6. Sınıf Ders Kitabı (Spor Ortaokulu — Sports Middle School edition)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: MEB; year 2026; ISBN not legible in extracted front matter (MEB Yayınları No 10543)
+- PDF pages: 178 (cover/title page verified against the record title)
+- Verdict: COMPLETE — the anatomy/physiology unit is filed in turkey-health-placements.md under the HELD pattern
+- Tally (PE file): 6 placements — 4 to existing lessons, 2 NEW LESSON NEEDED
+- Turkey's own way: grade 6 of the sports school turns inward — society and sport, then the individual: sport psychology and what goes on in an athlete's mind.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Spor Psikolojisinin Temel Kavramları — the basic concepts of sport psychology (original target `sport-and-its-story/sport-psychology`) | Turkey G6 Foundations of PE & Sport, printed p. 132 |
+| Turkey — Spor Psikolojisinin Sporcu Performansı Üzerindeki Etkileri — how sport psychology affects athlete performance (original target `sport-and-its-story/sport-psychology`) | Turkey G6 Foundations of PE & Sport, printed p. 158 |
+
+**Book — Turkey Book 23 (teacher guide):**
+## Book 23 — Differentiation Activities TG, Foundations of PE & Sport Grade 6 (teacher guide, Turkish)
+- Title as printed: Beden Eğitimi ve Sporun Temelleri 6. Sınıf Farklılaştırma Etkinlikleri Öğretmen Kılavuz Kitabı (Spor Ortaokulu)
+- Grade: 6 (student/teacher: TEACHER)
+- Publisher: MEB Devlet Kitapları (supplementary/resource series); year 2026
+- PDF pages: 52 (cover/title page verified; record size 22,428,346 bytes matches exactly)
+- Verdict: COMPLETE — differentiation book keyed unit-by-unit to the Grade 6 Foundations student book (Book 14); its anatomy unit is filed in turkey-health-placements.md under the HELD pattern; placed at unit level
+- Tally (PE file): 3 placements — 2 to existing lessons, 1 NEW LESSON NEEDED
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Unit 4 differentiated activities: Birey ve Spor (sport psychology) (original target `sport-and-its-story/sport-psychology`) | Turkey G6 Foundations Differentiation TG |
+
+Turkey's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Turkey is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 14); its teacher guides stocked here (Book 23) are evidence only, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

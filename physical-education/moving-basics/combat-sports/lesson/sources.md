@@ -1,8 +1,8 @@
 # Sources — Combat Sports
 
-countries: Zimbabwe
+countries: Zimbabwe, Turkey
 
-**Acceptance count: taught in 1 country (Zimbabwe).** Zimbabwe is student-book stock (see its rows below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
+**Acceptance count: taught in 1 country (Zimbabwe).** Zimbabwe is student-book stock (see its rows below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Turkey is added as teacher-guide evidence only (see its Turkey section below), named in the countries line but outside the acceptance count.
 
 ## Zimbabwe — PE expansion 2026-11-16
 
@@ -53,3 +53,24 @@ Zimbabwe's placements in this lesson were filed under the original strings recor
 This is a canonical NEW lesson (slug-registry Part 1: `moving-basics/combat-sports` — Combat sports: safe falling, gripping, throws, holds and escapes — taught through judo-style practice, with combat ethics.)
 
 Searchable tags: combat sports, Zimbabwe
+
+## Turkey — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkey-pe-placements.md. The Turkey books stocked in this lesson are Book 3 — all read in full as filed (full text extraction, cover/title page verified against each record). The Turkey books stocked in this lesson are teacher guides, so Turkey is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. Turkey's own way is content, as the book lines below record it: Book 3: grade 10 turns from team sports to individual contest sports (combat sports) and field/nature sports (cycling, archery, orienteering-type activities), and pairs fitness with healthy eating and balance.
+
+**Book — Turkey Book 3 (teacher guide):**
+## Book 3 — PE TG Grade 10 (teacher guide, Turkish)
+- Title as printed: Ortaöğretim Beden Eğitimi ve Spor Dersi 10. Sınıf Öğretmen Kılavuz Kitabı
+- Grade: 10 (student/teacher: TEACHER)
+- Publisher: MEB Devlet Kitapları; year 2026; ISBN not legible in extracted front matter
+- PDF pages: 81 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 8 placements — 3 to existing lessons, 5 NEW LESSON NEEDED
+- Turkey's own way: grade 10 turns from team sports to individual contest sports (combat sports) and field/nature sports (cycling, archery, orienteering-type activities), and pairs fitness with healthy eating and balance.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — 2.1 Bireysel Mücadele Sporları Özelleşmiş Hareket Becerileri — specialised skills of individual contest (combat) sports (original target `games-to-play/combat-sports-skills-and-tactics`) | Turkey G10 PE TG, printed p. 36 |
+| Turkey — 2.2 Bireysel Mücadele Sporları Taktik ve Strateji — tactics and strategy in individual contest sports (original target `games-to-play/combat-sports-skills-and-tactics`) | Turkey G10 PE TG, printed p. 44 |
+
+Turkey's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. The Turkey books stocked in this lesson are teacher guides, so Turkey is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

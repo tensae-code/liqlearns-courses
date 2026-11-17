@@ -1,6 +1,6 @@
 # Sources — Running Basics
 
-countries: Ethiopia, Samoa, Thailand, El Salvador, Philippines, Nicaragua, Maldives, Belize, Honduras, Fiji, North Macedonia, Zimbabwe, Jordan, Cuba, Kuwait, Oman, Papua New Guinea, Sri Lanka, Rwanda, DR Congo
+countries: Ethiopia, Samoa, Thailand, El Salvador, Philippines, Nicaragua, Maldives, Belize, Honduras, Fiji, North Macedonia, Zimbabwe, Jordan, Cuba, Kuwait, Oman, Papua New Guinea, Sri Lanka, Rwanda, DR Congo, Turkey
 
 **Book — Grade 1 student:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 81 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md. COMPLETE.
 
@@ -24,7 +24,7 @@ countries: Ethiopia, Samoa, Thailand, El Salvador, Philippines, Nicaragua, Maldi
 | Speed runs and ladder feet — Grade 8 | Ethiopia, Grade 8 student §3.5 Speed, printed pp. 33–35 |
 | Samoa — Fundamental movement, Year 1 — basic locomotive skills in space, in motion and for stability, and the different body parts and how they move (curriculum statement — evidence) (original target `moving-basics/running-basics`) | Samoa, *Health and Physical Education, Years 1–8, Primary School Curriculum* (Samoa Years 1–8 Curriculum), printed p. 26 |
 | Thailand — Unit 7 (part 1) Travelling movement — what travelling movement means, and running in a set direction with correct running posture (student book — MAC sample, PARTIAL) (original target `moving-basics/running-basics`) | Thailand, *Health & PE, Grade 2* (Thailand Grade 2 MAC Health & PE), Unit 7 (part 1), printed pp. 117–121 |
-**Acceptance count: taught in 7 countries (Ethiopia, Thailand, Philippines, North Macedonia, Jordan, Sri Lanka, DR Congo).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Samoa is added as curriculum-statement evidence only (see its row above), named in the countries line but outside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as teacher-guide evidence only (see its Honduras section below), named in the countries line but outside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Zimbabwe is added as teacher-guide evidence only (see its Zimbabwe section below), named in the countries line but outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 8 countries (Ethiopia, Thailand, Philippines, North Macedonia, Jordan, Sri Lanka, DR Congo, Turkey).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Samoa is added as curriculum-statement evidence only (see its row above), named in the countries line but outside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as teacher-guide evidence only (see its Honduras section below), named in the countries line but outside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Zimbabwe is added as teacher-guide evidence only (see its Zimbabwe section below), named in the countries line but outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count. Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count.
 
 The Grade 1 teacher guide scan is TRUNCATED: it holds printed pp. 1–43 of 85+. Missing: the rest of §4.2, §4.3 Stretching and flexibility (p. 47), §4.4 Agility (p. 53), all of Chapter 5 Gymnastics (pp. 59–78) and all of Chapter 6 (pp. 79–85+). Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
 
@@ -490,3 +490,50 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-pe-
 | DR Congo — §2.5.1 On-the-spot jogging variations — both feet, right, left; high knees and heel-flicks (original target `moving-basics/running-basics`) | DR Congo Grade 5 EPS Primaire 5, §2.5.1 |
 
 DR Congo's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. DR Congo is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Turkey — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkey-pe-placements.md. The Turkey books stocked in this lesson are Book 4, Book 9, Book 19 — all read in full as filed (full text extraction, cover/title page verified against each record). Turkey is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 9); its teacher guides stocked here (Book 4, Book 19) are evidence only, outside the acceptance count. Turkey's own way is content, as the book lines below record it: Book 4: preschool movement is taught entirely through named play activities (50+ of them), built on three skills — motor skills for an active life, healthy living/self-care, and risk & safety — with at least 180 minutes of daily physical activity stated as the norm.; Book 9: grade 6 adds team and group leadership and rule-bound games on top of the dance spine, and returns to Horon for a second, deeper year.
+
+**Book — Turkey Book 4 (teacher guide):**
+## Book 4 — Preschool Movement & Health TG (teacher guide, Turkish) — PE parts
+- Title as printed: Okul Öncesi Hareket ve Sağlık Alanı Öğretmen Kılavuz Kitabı
+- Grade: Preschool (okul öncesi) (student/teacher: TEACHER)
+- Publisher: MEB Devlet Kitapları; year 2026; ISBN 978-625-8867-30-5
+- PDF pages: 132 (cover/title page verified against the record title)
+- Verdict: COMPLETE — combined Movement & Health book; Health parts filed in turkey-health-placements.md
+- Tally (PE file): 8 placements — 7 to existing lessons, 1 NEW LESSON NEEDED
+- Turkey's own way: preschool movement is taught entirely through named play activities (50+ of them), built on three skills — motor skills for an active life, healthy living/self-care, and risk & safety — with at least 180 minutes of daily physical activity stated as the norm.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Hareketli Parkur / Ben Bir Koşucuyum — obstacle-course running and "I am a runner" running play (original target `moving-basics/running-basics`) | Turkey Preschool Movement & Health TG, printed pp. 22, 98 |
+
+**Book — Turkey Book 9 (student book):**
+## Book 9 — PE, Game & Music Grade 6, Music Middle School (student book, Turkish)
+- Title as printed: Beden Eğitimi, Oyun ve Müzik 6. Sınıf Ders Kitabı (Müzik Ortaokulu — Music Middle School edition)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: MEB; year 2026; ISBN not legible in extracted front matter
+- PDF pages: 98 (cover/title page verified against the record title)
+- Verdict: COMPLETE — combined PE/Game/Music book; Music parts named, not placed: creating rhythms (printed p. 24)
+- Tally: 9 placements — 6 to existing lessons, 3 NEW LESSON NEEDED
+- Turkey's own way: grade 6 adds team and group leadership and rule-bound games on top of the dance spine, and returns to Horon for a second, deeper year.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Hareket Zamanı (Sağlıklı Adımlar) — movement time: taking healthy steps (original target `moving-basics/running-basics`) | Turkey G6 PE Game & Music (Music MS), printed p. 12 |
+
+**Book — Turkey Book 19 (teacher guide):**
+## Book 19 — Differentiation Activities TG, PE Game & Music Grade 6 (teacher guide, Turkish)
+- Title as printed: Beden Eğitimi, Oyun ve Müzik 6. Sınıf Farklılaştırma Etkinlikleri Öğretmen Kılavuz Kitabı (Müzik Ortaokulu)
+- Grade: 6 (student/teacher: TEACHER)
+- Publisher: MEB Devlet Kitapları (supplementary/resource series); year 2026
+- PDF pages: 48 (cover/title page verified; record size 25,592,148 bytes matches exactly)
+- Verdict: COMPLETE — differentiation book keyed theme-by-theme to the Grade 6 student book (Book 9); placed at theme level
+- Tally: 4 placements — 3 to existing lessons, 1 NEW LESSON NEEDED
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Theme 1 differentiated activities: Sağlıklı Adımlar — differentiated healthy-steps activities (original target `moving-basics/running-basics`) | Turkey G6 BOM Differentiation TG, printed p. 12 |
+
+Turkey's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Turkey is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 9); its teacher guides stocked here (Book 4, Book 19) are evidence only, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

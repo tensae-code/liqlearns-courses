@@ -1,6 +1,6 @@
 # Sources — What Sport Is — and How It Differs from PE
 
-countries: Ethiopia, Afghanistan, Nicaragua, Honduras, Fiji, Greece, DR Congo
+countries: Ethiopia, Afghanistan, Nicaragua, Honduras, Fiji, Greece, DR Congo, Turkey
 
 **Book 1:** *Grade 6 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–95 + front matter (103 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g06-student-placements.md.
 
@@ -18,7 +18,7 @@ countries: Ethiopia, Afghanistan, Nicaragua, Honduras, Fiji, Greece, DR Congo
 | Prove-it questions folded from the book's own Chapter 1 review — Sub lesson 2 (teacher guide — evidence) | Ethiopia, *Grade 6 Teacher Guide*, Chapter 1 summary + assessment answers, printed pp. 10–11 (teacher guide — evidence) |
 | Prove-it questions folded from the book's own Chapter 1 review — Sub lesson 3 (teacher guide — evidence) | Ethiopia, *Grade 7 Teacher Guide*, §1.6 and Chapter 1 summary + review answers, printed pp. 12–13 (teacher guide — evidence) |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Nicaragua, Honduras, Greece, DR Congo).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count.
+**Acceptance count: taught in 6 countries (Ethiopia, Nicaragua, Honduras, Greece, DR Congo, Turkey).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count. Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count.
 
 The Grade 6 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -180,3 +180,51 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-pe-
 | DR Congo — §3.9.2 The spirit of competition — rules for everyone, fair play, dignified losing, modest winning, greeting opponents (original target `sport-and-its-story/what-sport-is`) | DR Congo Grade 5 EPS Primaire 5, §3.9.2 |
 
 DR Congo's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. DR Congo is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Turkey — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkey-pe-placements.md. The Turkey books stocked in this lesson are Book 6, Book 14, Book 22 — all read in full as filed (full text extraction, cover/title page verified against each record). Turkey is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 6, Book 14); its teacher guides stocked here (Book 22) are evidence only, outside the acceptance count. Turkey's own way is content, as the book lines below record it: Book 6: the sports-school theory book — before any skills, grade 5 sports-school pupils study the history of sport (with Turkish sport history at its centre), the diversity of sports, sport's values, and how facilities and equipment work.; Book 14: grade 6 of the sports school turns inward — society and sport, then the individual: sport psychology and what goes on in an athlete's mind.
+
+**Book — Turkey Book 6 (student book):**
+## Book 6 — Foundations of PE & Sport Grade 5, Sports Middle School (student book, Turkish)
+- Title as printed: Beden Eğitimi ve Sporun Temelleri 5. Sınıf Ders Kitabı (Spor Ortaokulu — Sports Middle School edition)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: MEB; year 2026; ISBN not legible in extracted front matter (MEB Yayınları No 10542)
+- PDF pages: 158 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 9 placements — 5 to existing lessons, 4 NEW LESSON NEEDED
+- Turkey's own way: the sports-school theory book — before any skills, grade 5 sports-school pupils study the history of sport (with Turkish sport history at its centre), the diversity of sports, sport's values, and how facilities and equipment work.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Beden Eğitimi ve Sporun Temel Kavramları — the basic concepts of PE and sport (original target `sport-and-its-story/what-sport-is`) | Turkey G5 Foundations of PE & Sport, printed p. 37 |
+| Turkey — Farklı Spor Branşlarının Ortak Olan ve Olmayan Özellikleri / Sporun Ortaya Çıkış Nedenleri ve Çeşitliliği / Özelliklerine Göre Çeşitli Spor Türleri — what sports share and where they differ, why sports arose, and the types of sport (original target `sport-and-its-story/what-sport-is`) | Turkey G5 Foundations of PE & Sport, printed pp. 50, 52, 53 |
+
+**Book — Turkey Book 14 (student book):**
+## Book 14 — Foundations of PE & Sport Grade 6, Sports Middle School (student book, Turkish)
+- Title as printed: Beden Eğitimi ve Sporun Temelleri 6. Sınıf Ders Kitabı (Spor Ortaokulu — Sports Middle School edition)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: MEB; year 2026; ISBN not legible in extracted front matter (MEB Yayınları No 10543)
+- PDF pages: 178 (cover/title page verified against the record title)
+- Verdict: COMPLETE — the anatomy/physiology unit is filed in turkey-health-placements.md under the HELD pattern
+- Tally (PE file): 6 placements — 4 to existing lessons, 2 NEW LESSON NEEDED
+- Turkey's own way: grade 6 of the sports school turns inward — society and sport, then the individual: sport psychology and what goes on in an athlete's mind.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Toplum ve Spor Üzerine Temel Kavramlar — basic concepts of society and sport (original target `sport-and-its-story/what-sport-is`) | Turkey G6 Foundations of PE & Sport, printed p. 102 |
+
+**Book — Turkey Book 22 (teacher guide):**
+## Book 22 — Differentiation Activities TG, Foundations of PE & Sport Grade 5 (teacher guide, Turkish)
+- Title as printed: Beden Eğitimi ve Sporun Temelleri 5. Sınıf Farklılaştırma Etkinlikleri Öğretmen Kılavuz Kitabı (Spor Ortaokulu)
+- Grade: 5 (student/teacher: TEACHER)
+- Publisher: MEB Devlet Kitapları (supplementary/resource series); year 2026
+- PDF pages: 65 (cover/title page verified; record size 31,499,154 bytes matches exactly)
+- Verdict: COMPLETE — differentiation book keyed unit-by-unit to the Grade 5 Foundations student book (Book 6); placed at unit level
+- Tally: 4 placements — 3 to existing lessons, 1 NEW LESSON NEEDED
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Unit 2 differentiated activities: Sporun Çeşitliliği (original target `sport-and-its-story/what-sport-is`) | Turkey G5 Foundations Differentiation TG |
+
+Turkey's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Turkey is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 6, Book 14); its teacher guides stocked here (Book 22) are evidence only, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

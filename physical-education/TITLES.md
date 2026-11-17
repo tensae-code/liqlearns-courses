@@ -382,3 +382,12 @@ DR Congo**
 (`ball-games/introducing-racket-games`) and **Refereeing
 and Fair Play** (`ball-games/refereeing-and-fair-play`)
 — 3 new lessons, bringing this course to 219 lessons.
+
+The PE expansion then added: **Outdoor and Adventure
+Activities** (`athletics/outdoor-and-adventure-activities`),
+**Traditional Games of Turkey**
+(`traditional-games-and-dances/traditional-games-of-turkey`),
+**Traditional Dances of Turkey**
+(`traditional-games-and-dances/traditional-dances-of-turkey`)
+and **Sport in Turkey** (`sport-and-its-story/sport-in-turkey`)
+— 4 new lessons, bringing this course to 223 lessons.
