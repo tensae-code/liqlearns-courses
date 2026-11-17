@@ -1,16 +1,21 @@
 # Sources — Architectural and construction drawings
 
-countries: Belarus
+countries: Belarus, Fiji
 
 **Book 1:** *Чарчэнне — Вучэбны дапаможнік для 9 класа агульнаадукацыйных устаноў з беларускай мовай навучання (Technical Drawing — study aid for Grade 9 of general-education institutions with Belarusian as the language of instruction)* (student textbook) — Belarus, Author: В. Н. Вінаградаў (V. N. Vinogradov). Publisher: Нацыянальны інстытут адукацыі (National Institute of Education), Ministry of Education of the Republic of Belarus, Minsk; approved by the Ministry of Education of the Republic of Belarus; signed to print 10.12.2008; print run 31,023; ISBN 978-985-465-432-4. Year/edition: 2008. Grade: 9. Language: Belarusian. Pages: 224; verified byte size 12,603,822 (the record carries no size; the file was located by exact-name scan of the releases). Source + route: tensae-code/liqlearns-textbooks, release asset in mid-size-books-7 (asset grade-09-gov-belarus-technical-drawing-student-full-year.pdf), downloaded via the Releases API asset route after the tree route 404'd — grade-09/gov/belarus/technical-drawing/student/full-year.pdf. Kind: student textbook (вучэбны дапаможнік — study aid/textbook). Read: COMPLETE (all 34 sections mapped from the book's contents, pp. 220–222, with section content verified at the section pages; the Кароткі тэрміналагічны слоўнік — short terminological dictionary, printed p. 211 — is inventory-only and the Прадметны паказальнік is an index; neither is placed). Note on the record: the book's own text layer uses a broken font encoding, so the read was done from the book's table of contents and section pages via OCR (RapidOCR) plus the decoded text layer; printed page numbers are the book's own (printed p. = PDF p.). Placements at liqlearns-courses-work/expansion-td-2026-11-17/belarus-placements.md.
+
+**Book 2:** *Technical Drawing — Year 11* (student) — Fiji, Technical Vocational Education and Training / Technology and Employment Skills Training, Ministry of Education, Fiji. Title: Technical Drawing — Year 11 (Pupils Text Book; written for the Year 11 Technical Drawing syllabus trialled 2015). Year: draft 2015 (cover dated 29 Dec 2014). Grade: Year 11. Language: English. Pages: 118. Source: GitHub release asset (release `mid-size-books-3`, asset for `grade-11/gov/fiji/technical-drawing/student/full-year.pdf`), 6,392,271 bytes, cover verified. Kind: student. Read: COMPLETE. Note: printed pp. 106–109 (research skills and APA referencing) are academic-skills content — not placed. Placements at liqlearns-courses-work/expansion-td-2026-11-17/fiji-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | The features of architectural-construction drawings: plans, facades and sections of buildings and how they differ from machine drawings (original string `architectural and construction drawings`) | Belarus, *Чарчэнне (Technical Drawing / Drafting) — Grade 9*, printed p. 188 |
 | The conventional images and symbols used on architectural-construction drawings (original string `architectural and construction drawings`) | Belarus, *Чарчэнне (Technical Drawing / Drafting) — Grade 9*, printed p. 195 |
+| Architectural drawing — siting a dwelling, the set of plans, roofing and framing members, architectural symbols, elevations and floor plan, cross sections, roof/floor framing details, window and door schedules (original string `architectural drawing — siting a dwelling, the set of plans, roofing and framing members, architectural symbols, elevations and floor plan, cross sections, roof/floor framing details, window and door schedules`) | Fiji, *Technical Drawing — Year 11*, printed p. 68-79 |
 
-**Acceptance count: taught in 1 country (Belarus).**
+**Acceptance count: taught in 2 countries (Belarus, Fiji).**
+
+Fiji's own way: Fiji teaches architectural drawing in Year 11 as a complete dwelling set — siting the dwelling, the set of plans, roofing and framing members, architectural symbols, elevations and floor plan, cross sections, roof and floor framing details, and window and door schedules.
 
 Belarus's own way: Belarus teaches this inside *Чарчэнне*, its single Grade 9 technical drawing (drafting) course in Belarusian — a complete course in textbook order, from graphic information and standard execution rules through projection, sections, threads, joints and assembly to architectural-construction drawings, closing with a short terminological dictionary (inventory-only, not placed).
 
-Searchable tags: architectural drawings, construction drawings, plan, facade, section, building symbols, Belarus, Grade 9, Чарчэнне
+Searchable tags: architectural drawings, construction drawings, plan, facade, section, building symbols, Belarus, Grade 9, Чарчэнне, Fiji

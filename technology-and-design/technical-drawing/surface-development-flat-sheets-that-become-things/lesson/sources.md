@@ -1,6 +1,6 @@
 # Sources — Surface Development — Flat Sheets That Become Things
 
-countries: Belarus, Ethiopia, Malta, Moldova, Sri Lanka
+countries: Belarus, Ethiopia, Fiji, Malta, Moldova, Sri Lanka
 
 **Book 1:** *Basic Technical Drawing, Teacher Guide, Grade 12* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, in collaboration with Kuraz International Publisher P.L.C., Addis Ababa. Prepared by: Amanuel Berhanu (BSc), Tolossa Deberie (MSc). Edited and reviewed by: Abebe Basazeneu, Natenael Abebe, Yared Mekuria. First edition, 2003 (E.C.), funded through the General Education Quality Improvement Project (GEQIP). Developed, printed and distributed by Al Ghurair Printing and Publishing House CO. (LLC), Dubai, U.A.E., in collaboration with Kuraz International Publisher. ISBN: 978-99944-2-097-2. 109 PDF pages; printed page = PDF page - 4 throughout. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/technical-drawing/g12-teacher-placements.md.
 
@@ -14,6 +14,12 @@ countries: Belarus, Ethiopia, Malta, Moldova, Sri Lanka
 
 **Book 6:** Full title: Grade 12 Engineering Technology Part VI — Engineering Drawing, GCE A/L Technology stream. Publisher: Educational Publications Department (EPD), Sri Lanka. Year/edition: 2016 edition (foreword dated 2016.06.25; back cover print code 2016, Rs 185). Grade: 12 (A/L). Language: Tamil (scanned-image PDF, Noolaham Foundation digitization, no text layer). Pages: 116 PDF pages (printed pp. 1–108 + front matter i–viii). Kind: student textbook. Source: repo release asset `mid-size-books-5/grade-12-gov-sri-lanka-engineering-technology-textbook-part-6-engineering-drawing.pdf` via grab.py url route (tree route 404s — release-only); 20,316,676 bytes, matching the asset index and the staging books.json record (Noolaham no. 88098). Cover verified visually ("Engineering Drawing", gears/bearings over a blueprint). Read method: full contents page, every chapter opening, and teaching pages sampled across all chapters (printed pp. 1, 2, 3, 14, 25, 37, 53, 81, 88 + back cover) — placement-complete for this diagram-led book. COMPLETE. Read method note (as filed): this Sri Lanka Tamil-medium book is a scanned-image PDF with no text layer (Noolaham Foundation digitization); it was read by a VISUAL-READ method — rendered pages read as images — not by text extraction. Placements at liqlearns-courses-work/expansion-td-2026-11-17/sri-lanka-placements.md.
 
+**Book 7:** *Basic Technology — Year 9* (student) — Fiji, Industrial Arts Section, Technology and Employment Skills Training (TEST), Ministry of Education, Fiji — issued free to schools. Title: Basic Technology — Year 9 (written for the Form 3 Integrated Basic Technology syllabus, trialled 2014). Year: 2014 trial. Grade: Year 9. Language: English. Pages: 115. Source: GitHub release asset (release `mid-size-books-3`, asset for `grade-09/gov/fiji/basic-technology-industrial-arts/student/full-year.pdf`), 8,637,453 bytes, cover verified ("BASIC TECHNOLOGY YEAR 9"). Kind: student. Read: COMPLETE. Fiji books' printed page numbers equal their PDF page numbers. Placements at liqlearns-courses-work/expansion-td-2026-11-17/fiji-placements.md.
+
+**Book 8:** *Basic Technology — Year 10* (student) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Fiji — issued free to schools. Year: 2015 (final version). Grade: Year 10. Language: English. Pages: 88. Source: GitHub release asset (release `mid-size-books-3`, asset for `grade-10/gov/fiji/basic-technology/student/full-year.pdf`), 7,022,945 bytes, cover verified. Kind: student. Read: COMPLETE. Fiji books' printed page numbers equal their PDF page numbers. Placements at liqlearns-courses-work/expansion-td-2026-11-17/fiji-placements.md.
+
+**Book 9:** *Technical Drawing — Year 11* (student) — Fiji, Technical Vocational Education and Training / Technology and Employment Skills Training, Ministry of Education, Fiji. Title: Technical Drawing — Year 11 (Pupils Text Book; written for the Year 11 Technical Drawing syllabus trialled 2015). Year: draft 2015 (cover dated 29 Dec 2014). Grade: Year 11. Language: English. Pages: 118. Source: GitHub release asset (release `mid-size-books-3`, asset for `grade-11/gov/fiji/technical-drawing/student/full-year.pdf`), 6,392,271 bytes, cover verified. Kind: student. Read: COMPLETE. Note: printed pp. 106–109 (research skills and APA referencing) are academic-skills content — not placed. Placements at liqlearns-courses-work/expansion-td-2026-11-17/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What a development is (teacher guide — evidence) | Ethiopia, *Basic Technical Drawing, Teacher Guide, Grade 12*, Unit 5, Lesson '6.1', printed pp. 84–87 |
@@ -25,8 +31,13 @@ countries: Belarus, Ethiopia, Malta, Moldova, Sri Lanka
 | Constructing drawings of developments (разгорткі): unfolding a solid's surface into the flat pattern | Belarus, *Чарчэнне (Technical Drawing / Drafting) — Grade 9*, printed p. 120 |
 | The two-dot line on a drawing marks where the flat development (desfășurata) of a piece is folded | Moldova, *Educația tehnologică — Manual pentru clasele a 5-a – a 6-a (Grade 5 half)*, printed p. 14 |
 | development drawings named as one of the standard drawing kinds in the mechanical-drawing survey (original string `technical-drawing/surface-development-flat-sheets-that-become-things`) | Sri Lanka, *Grade 12 Engineering Technology Part VI — Engineering Drawing*, printed p. 2 |
+| Solid geometry: surface developments (pentagonal prism, cone) (original string `technical-drawing/surface-development-flat-sheets-that-become-things`) | Fiji, *Basic Technology — Year 9*, printed p. 102-105 |
+| Geometrical Drawing: developments of cylinder, cone and pyramid; truncated solids (original string `technical-drawing/surface-development-flat-sheets-that-become-things`) | Fiji, *Basic Technology — Year 10*, printed p. 64-67 |
+| Surface development (incl. truncated cylinder and prisms, cylinder-to-cylinder) (original string `technical-drawing/surface-development-flat-sheets-that-become-things`) | Fiji, *Technical Drawing — Year 11*, printed p. 40-51 |
 
-**Acceptance count: taught in 4 countries (Belarus, Malta, Moldova, Sri Lanka) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+**Acceptance count: taught in 5 countries (Belarus, Fiji, Malta, Moldova, Sri Lanka) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+
+Fiji's own way: Fiji teaches surface development in three years — Year 9 takes the pentagonal prism and cone; Year 10 takes cylinder, cone and pyramid, with truncated solids; Year 11 takes the truncated cylinder and prisms and cylinder-to-cylinder work.
 
 Era note: this guide is an older GEQIP-generation book (first edition, 2003 E.C., about 2010/11) — an earlier curriculum generation than Ethiopia's newer books. This lesson presents it as exactly that: the guide's testimony about that era's Grade 12 Technical Drawing course. It is never presented as the current syllabus, and nothing here has been checked against a current syllabus. No pupil (student) book for Technical Drawing has been read — no student book exists in hand — so this lesson stands on teacher-guide evidence only.
 
@@ -40,4 +51,4 @@ Moldova's own way: Moldova meets the development inside its Grade 5 line-types t
 
 Sri Lanka's own way: Sri Lanka adds its Tamil-medium Technology stream teaching (Educational Publications Department; visual-read method, as filed in the book entries above) — development drawings named as one of the standard drawing kinds in the mechanical-drawing survey.
 
-Searchable tags: surface development, sheet metal, hem, joint, seam, prism, cylinder, cone, pyramid, Ethiopia Grade 12 Technical Drawing Unit 5, Moldova, Grades 5–6, desfășurata, two-dot line, Sri Lanka
+Searchable tags: surface development, sheet metal, hem, joint, seam, prism, cylinder, cone, pyramid, Ethiopia Grade 12 Technical Drawing Unit 5, Moldova, Grades 5–6, desfășurata, two-dot line, Sri Lanka, Fiji

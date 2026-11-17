@@ -1,15 +1,20 @@
 # Sources — Drawing lettering and the title block
 
-countries: Belarus
+countries: Belarus, Fiji
 
 **Book 1:** *Чарчэнне — Вучэбны дапаможнік для 9 класа агульнаадукацыйных устаноў з беларускай мовай навучання (Technical Drawing — study aid for Grade 9 of general-education institutions with Belarusian as the language of instruction)* (student textbook) — Belarus, Author: В. Н. Вінаградаў (V. N. Vinogradov). Publisher: Нацыянальны інстытут адукацыі (National Institute of Education), Ministry of Education of the Republic of Belarus, Minsk; approved by the Ministry of Education of the Republic of Belarus; signed to print 10.12.2008; print run 31,023; ISBN 978-985-465-432-4. Year/edition: 2008. Grade: 9. Language: Belarusian. Pages: 224; verified byte size 12,603,822 (the record carries no size; the file was located by exact-name scan of the releases). Source + route: tensae-code/liqlearns-textbooks, release asset in mid-size-books-7 (asset grade-09-gov-belarus-technical-drawing-student-full-year.pdf), downloaded via the Releases API asset route after the tree route 404'd — grade-09/gov/belarus/technical-drawing/student/full-year.pdf. Kind: student textbook (вучэбны дапаможнік — study aid/textbook). Read: COMPLETE (all 34 sections mapped from the book's contents, pp. 220–222, with section content verified at the section pages; the Кароткі тэрміналагічны слоўнік — short terminological dictionary, printed p. 211 — is inventory-only and the Прадметны паказальнік is an index; neither is placed). Note on the record: the book's own text layer uses a broken font encoding, so the read was done from the book's table of contents and section pages via OCR (RapidOCR) plus the decoded text layer; printed page numbers are the book's own (printed p. = PDF p.). Placements at liqlearns-courses-work/expansion-td-2026-11-17/belarus-placements.md.
+
+**Book 2:** *Basic Technology — Year 9* (student) — Fiji, Industrial Arts Section, Technology and Employment Skills Training (TEST), Ministry of Education, Fiji — issued free to schools. Title: Basic Technology — Year 9 (written for the Form 3 Integrated Basic Technology syllabus, trialled 2014). Year: 2014 trial. Grade: Year 9. Language: English. Pages: 115. Source: GitHub release asset (release `mid-size-books-3`, asset for `grade-09/gov/fiji/basic-technology-industrial-arts/student/full-year.pdf`), 8,637,453 bytes, cover verified ("BASIC TECHNOLOGY YEAR 9"). Kind: student. Read: COMPLETE. Fiji books' printed page numbers equal their PDF page numbers. Placements at liqlearns-courses-work/expansion-td-2026-11-17/fiji-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | The standard execution rules: sheet formats and layout, the title block (асноўны надпіс), and the drawing font — lettering a drawing so it reads to standard (original string `drawing sheet layout, title block and drawing lettering`) | Belarus, *Чарчэнне (Technical Drawing / Drafting) — Grade 9*, printed p. 17 |
+| Line types and their uses; lettering and numbering styles; symbols and conventions in drawing (original string `line types and their uses; lettering and numbering styles; symbols and conventions in drawing`) | Fiji, *Basic Technology — Year 9*, printed p. 15-20 |
 
-**Acceptance count: taught in 1 country (Belarus).**
+**Acceptance count: taught in 2 countries (Belarus, Fiji).**
+
+Fiji's own way: Fiji teaches line types and their uses together with lettering and numbering styles and the symbols and conventions of drawing, as one opening block in Year 9 Basic Technology.
 
 Belarus's own way: Belarus teaches this inside *Чарчэнне*, its single Grade 9 technical drawing (drafting) course in Belarusian — a complete course in textbook order, from graphic information and standard execution rules through projection, sections, threads, joints and assembly to architectural-construction drawings, closing with a short terminological dictionary (inventory-only, not placed).
 
-Searchable tags: drawing lettering, title block, асноўны надпіс, sheet format, sheet layout, drawing font, Belarus, Grade 9, Чарчэнне
+Searchable tags: drawing lettering, title block, асноўны надпіс, sheet format, sheet layout, drawing font, Belarus, Grade 9, Чарчэнне, Fiji

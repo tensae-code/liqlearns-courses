@@ -1499,3 +1499,77 @@ named local products and processes.
 
 Placements at
 liqlearns-courses-work/expansion-td-2026-11-17/sri-lanka-placements.md.
+
+## Fiji, Basic Technology, Technical Drawing and Applied Technology (T&D expansion, stocked 2026-11-17)
+
+Stocked from Fiji's Ministry of Education textbooks (Technology
+and Employment Skills Training — TEST; Ministry of Education,
+Heritage and Arts): *Basic Technology — Year 9* (2014 trial),
+*Basic Technology — Year 10* (2015), *Technical Drawing —
+Year 11* (draft 2015), *Year 12 Technical Drawing Textbook*
+(2016 trial), *Year 13 Technical Drawing Textbook* (2018) and
+*Applied Technology Textbook — Year 12* (2015). All 94
+placements stocked: 70 NEW LESSON NEEDED resolved through
+the T&D slug registry to 52 canonical lessons — 42 lessons
+built new and 10 canonical lessons already built carrying
+Fiji provenance rows (Workshop safety; Drawing lettering and
+the title block; Geometrical constructions; The design
+process; Hand tools; Wood joints; Scales in drawing;
+Architectural and construction drawings; Assembly drawings;
+Computer-aided drawing (CAD)) — and 24 placed directly into
+9 founding Technical Drawing lessons. Fiji counts in the
+acceptance count (student textbooks, not evidence-only).
+
+COUNTRY HONESTY ITEM, carried exactly as filed: Fiji's
+*Applied Technology Textbook — Year 12* is an IMAGE-ONLY
+book (zero text layer) read at STRAND level — title page,
+preface, the full table of contents (printed p. 4), all six
+strand openers, and sampled pages across every strand. Its
+8 placements are PARTIAL and stay labelled PARTIAL in every
+sources.md they touch; an image-only strand-level read is
+never upgraded to a full read.
+
+RECORD-ONLY in the placements file, not stocked: Office
+Technology Years 9–13 (office practice / typing / ICT /
+business territory — each book opened and read through its
+contents and body structure before the verdict), and
+Technical Drawing Year 11 printed pp. 106–109 (research
+skills and APA referencing — academic-skills content).
+
+- **Technical Drawing** (15 new lessons, 13 questions each): Drawing equipment and preparing the drawing sheet (drawing-equipment-and-preparing-the-drawing-sheet/); Geometrical solids (geometrical-solids/); Drawing instruments, standards and preparing the sheet (drawing-instruments-standards-and-preparing-the-sheet/); Plane and space geometry (plane-and-space-geometry/); Conic sections (conic-sections/); Rolling wheels (rolling-wheels/); Centre of a triangle and the centroid (centre-of-a-triangle-and-the-centroid/); Forces in drawing (forces-in-drawing/); Surveying for drawing (surveying-for-drawing/); Spirals (spirals/); Surveying (surveying/); Helical springs (helical-springs/); The logarithmic spiral; conic sections; evolutes of the ellipse, parabola and hyperbola (the-logarithmic-spiral-conic-sections-evolutes-of-the-ellipse/); Traces of lines and planes (traces-of-lines-and-planes/); Navigation (navigation/).
+- **Design and Making** (8 new lessons, 13 questions each): Elements and principles of design (elements-and-principles-of-design/); Enterprise skills (enterprise-skills/); Sustainable design (sustainable-design/); Designing outdoor and indoor spaces (designing-outdoor-and-indoor-spaces/); Writing a design project proposal (writing-a-design-project-proposal/); Presenting and marketing a design (presenting-and-marketing-a-design/); Workplace health and safety (workplace-health-and-safety/); Design and enterprising (design-and-enterprising/).
+- **Workshop and Safety** (1 new lesson, 13 questions each): Hand tools and materials (hand-tools-and-materials/).
+- **Materials** (4 new lessons, 13 questions each): Materials (materials/); Natural resources and materials (natural-resources-and-materials/); Working and forming non-metals (working-and-forming-non-metals/); Engineering materials (engineering-materials/).
+- **Wood** (1 new lesson, 13 questions each): Carpentry and joinery (carpentry-and-joinery/).
+- **Metal** (2 new lessons, 13 questions each): Sheet-metal joints and seams (sheet-metal-joints-and-seams/); Joining metals (joining-metals/).
+- **Welding** (1 new lesson, 13 questions each): Welding and fabrication (welding-and-fabrication/).
+- **Mechanisms and Machines** (4 new lessons, 13 questions each): Cams (cams/); Applied mechanics (applied-mechanics/); Machines and engines (machines-and-engines/); Refrigeration and air-conditioning (refrigeration-and-air-conditioning/).
+- **Electrical Installations and the Home** (1 new lesson, 13 questions each): Electrical drawing (electrical-drawing/).
+- **Energy** (1 new lesson, 13 questions each): Solar-powered systems (solar-powered-systems/).
+- **Construction and Building** (4 new lessons, 13 questions each): Traditional Fijian building (traditional-fijian-building/); Heritage buildings in Fiji (Levuka) (heritage-buildings-in-fiji-levuka/); The building team (the-building-team/); Basic home improvement (basic-home-improvement/).
+
+Nine founding Technical Drawing lessons also carry the 24
+direct Fiji placements: Free-hand sketching — principles
+and place in design (3); Orthographic projection basics
+(3); Pictorial sketching — isometric (5); Surface
+development — flat sheets that become things (3);
+Developing solids — parallel line, radial line,
+triangulation (4); Dimensioning — lines, symbols and
+reading direction (1); Drawing an auxiliary view (1);
+Intersections — where two solids cross (2); Types of
+section (2).
+
+Fiji's own way is content and is carried in each lesson's
+sources: one continuous Basic Technology → Technical
+Drawing → Applied Technology ladder, Years 9–13, where the
+same topics return in widening passes (safety first in both
+Basic Technology years; cams, scales, conic sections,
+rolling wheels and the centroid across Years 11–13);
+traditional Fijian building — post (duru) construction and
+the drua tradition — taught as drawn design; the heritage
+buildings of Levuka; traditional Pacific farming systems as
+design context; and joint preparation taught by the FEWTEL
+steps.
+
+Placements at
+liqlearns-courses-work/expansion-td-2026-11-17/fiji-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Dimensioning — Lines, Symbols and Reading Direction
 
-countries: Belarus, Ethiopia, Iran, Jamaica, Samoa, Sri Lanka
+countries: Belarus, Ethiopia, Fiji, Iran, Jamaica, Samoa, Sri Lanka
 
 **Book 1:** *Basic Technical Drawing, Teacher Guide, Grade 12* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, in collaboration with Kuraz International Publisher P.L.C., Addis Ababa. Prepared by: Amanuel Berhanu (BSc), Tolossa Deberie (MSc). Edited and reviewed by: Abebe Basazeneu, Natenael Abebe, Yared Mekuria. First edition, 2003 (E.C.), funded through the General Education Quality Improvement Project (GEQIP). Developed, printed and distributed by Al Ghurair Printing and Publishing House CO. (LLC), Dubai, U.A.E., in collaboration with Kuraz International Publisher. ISBN: 978-99944-2-097-2. 109 PDF pages; printed page = PDF page - 4 throughout. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/technical-drawing/g12-teacher-placements.md.
 
@@ -16,6 +16,8 @@ countries: Belarus, Ethiopia, Iran, Jamaica, Samoa, Sri Lanka
 
 **Book 7:** Full title: Grade 12 Engineering Technology Part VI — Engineering Drawing, GCE A/L Technology stream. Publisher: Educational Publications Department (EPD), Sri Lanka. Year/edition: 2016 edition (foreword dated 2016.06.25; back cover print code 2016, Rs 185). Grade: 12 (A/L). Language: Tamil (scanned-image PDF, Noolaham Foundation digitization, no text layer). Pages: 116 PDF pages (printed pp. 1–108 + front matter i–viii). Kind: student textbook. Source: repo release asset `mid-size-books-5/grade-12-gov-sri-lanka-engineering-technology-textbook-part-6-engineering-drawing.pdf` via grab.py url route (tree route 404s — release-only); 20,316,676 bytes, matching the asset index and the staging books.json record (Noolaham no. 88098). Cover verified visually ("Engineering Drawing", gears/bearings over a blueprint). Read method: full contents page, every chapter opening, and teaching pages sampled across all chapters (printed pp. 1, 2, 3, 14, 25, 37, 53, 81, 88 + back cover) — placement-complete for this diagram-led book. COMPLETE. Read method note (as filed): this Sri Lanka Tamil-medium book is a scanned-image PDF with no text layer (Noolaham Foundation digitization); it was read by a VISUAL-READ method — rendered pages read as images — not by text extraction. Placements at liqlearns-courses-work/expansion-td-2026-11-17/sri-lanka-placements.md.
 
+**Book 8:** *Technical Drawing — Year 11* (student) — Fiji, Technical Vocational Education and Training / Technology and Employment Skills Training, Ministry of Education, Fiji. Title: Technical Drawing — Year 11 (Pupils Text Book; written for the Year 11 Technical Drawing syllabus trialled 2015). Year: draft 2015 (cover dated 29 Dec 2014). Grade: Year 11. Language: English. Pages: 118. Source: GitHub release asset (release `mid-size-books-3`, asset for `grade-11/gov/fiji/technical-drawing/student/full-year.pdf`), 6,392,271 bytes, cover verified. Kind: student. Read: COMPLETE. Note: printed pp. 106–109 (research skills and APA referencing) are academic-skills content — not placed. Placements at liqlearns-courses-work/expansion-td-2026-11-17/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The parts of a dimension (teacher guide — evidence) | Ethiopia, *Basic Technical Drawing, Teacher Guide, Grade 12*, Unit 4, Lesson 4.1, printed pp. 54–59 |
@@ -26,8 +28,11 @@ countries: Belarus, Ethiopia, Iran, Jamaica, Samoa, Sri Lanka
 | Module 8's table of line types and thicknesses (main line, centre/symmetry line…) and what each is used for (original string `technical-drawing/dimensioning-lines-symbols-and-reading-direction`) | Iran, *Work & Technology, Grade 7*, printed p. 95-96 |
 | dimensioning a drawing in CAD software, following the hand-dimensioning rules (original string `technical-drawing/dimensioning-lines-symbols-and-reading-direction`) | Iran, *Work & Technology, Grade 9*, printed p. 21 |
 | adding dimensions to orthographic views (section 1.5.3 of the projection chapter) (original string `technical-drawing/dimensioning-lines-symbols-and-reading-direction`) | Sri Lanka, *Grade 12 Engineering Technology Part VI — Engineering Drawing*, printed p. 53 |
+| Orthographic drawing: steps in dimensioning (original string `technical-drawing/dimensioning-lines-symbols-and-reading-direction`) | Fiji, *Technical Drawing — Year 11*, printed p. 64-67 |
 
-**Acceptance count: taught in 5 countries (Belarus, Iran, Jamaica, Samoa, Sri Lanka) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+**Acceptance count: taught in 6 countries (Belarus, Fiji, Iran, Jamaica, Samoa, Sri Lanka) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+
+Fiji's own way: Fiji teaches dimensioning inside Year 11 orthographic drawing, as the steps in dimensioning that follow the principal-views work.
 
 Jamaica's own way: Jamaica teaches working-drawing reading on the toy car the class is making — dimensions and annotations are interpreted on the car's own simple working drawing, and the finished product is evaluated against that drawing/plan, so the drawing is both the making instructions and the judge.
 
@@ -43,4 +48,4 @@ Iran's own way: Iran teaches dimensioning twice over: in Grade 7 through Module 
 
 Sri Lanka's own way: Sri Lanka adds its Tamil-medium Technology stream teaching (Educational Publications Department; visual-read method, as filed in the book entries above) — adding dimensions to orthographic views (section 1.5.3 of the projection chapter).
 
-Searchable tags: dimensioning, dimension line, extension line, arrowhead, leader line, aligned system, unidirectional system, Ethiopia Grade 12 Technical Drawing Unit 4, Samoa, Year 11, architectural dimensioning, Iran, Grade 7, Persian, Iran, Grade 9, Persian, Sri Lanka
+Searchable tags: dimensioning, dimension line, extension line, arrowhead, leader line, aligned system, unidirectional system, Ethiopia Grade 12 Technical Drawing Unit 4, Samoa, Year 11, architectural dimensioning, Iran, Grade 7, Persian, Iran, Grade 9, Persian, Sri Lanka, Fiji

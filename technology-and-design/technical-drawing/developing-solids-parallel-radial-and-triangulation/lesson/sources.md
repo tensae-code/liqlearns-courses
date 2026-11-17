@@ -1,8 +1,16 @@
 # Sources — Developing Solids — Parallel Line, Radial Line, Triangulation
 
-countries: Ethiopia
+countries: Ethiopia, Fiji
 
 **Book 1:** *Basic Technical Drawing, Teacher Guide, Grade 12* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, in collaboration with Kuraz International Publisher P.L.C., Addis Ababa. Prepared by: Amanuel Berhanu (BSc), Tolossa Deberie (MSc). Edited and reviewed by: Abebe Basazeneu, Natenael Abebe, Yared Mekuria. First edition, 2003 (E.C.), funded through the General Education Quality Improvement Project (GEQIP). Developed, printed and distributed by Al Ghurair Printing and Publishing House CO. (LLC), Dubai, U.A.E., in collaboration with Kuraz International Publisher. ISBN: 978-99944-2-097-2. 109 PDF pages; printed page = PDF page - 4 throughout. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/technical-drawing/g12-teacher-placements.md.
+
+**Book 2:** *Basic Technology — Year 9* (student) — Fiji, Industrial Arts Section, Technology and Employment Skills Training (TEST), Ministry of Education, Fiji — issued free to schools. Title: Basic Technology — Year 9 (written for the Form 3 Integrated Basic Technology syllabus, trialled 2014). Year: 2014 trial. Grade: Year 9. Language: English. Pages: 115. Source: GitHub release asset (release `mid-size-books-3`, asset for `grade-09/gov/fiji/basic-technology-industrial-arts/student/full-year.pdf`), 8,637,453 bytes, cover verified ("BASIC TECHNOLOGY YEAR 9"). Kind: student. Read: COMPLETE. Fiji books' printed page numbers equal their PDF page numbers. Placements at liqlearns-courses-work/expansion-td-2026-11-17/fiji-placements.md.
+
+**Book 3:** *Basic Technology — Year 10* (student) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Fiji — issued free to schools. Year: 2015 (final version). Grade: Year 10. Language: English. Pages: 88. Source: GitHub release asset (release `mid-size-books-3`, asset for `grade-10/gov/fiji/basic-technology/student/full-year.pdf`), 7,022,945 bytes, cover verified. Kind: student. Read: COMPLETE. Fiji books' printed page numbers equal their PDF page numbers. Placements at liqlearns-courses-work/expansion-td-2026-11-17/fiji-placements.md.
+
+**Book 4:** *Technical Drawing — Year 11* (student) — Fiji, Technical Vocational Education and Training / Technology and Employment Skills Training, Ministry of Education, Fiji. Title: Technical Drawing — Year 11 (Pupils Text Book; written for the Year 11 Technical Drawing syllabus trialled 2015). Year: draft 2015 (cover dated 29 Dec 2014). Grade: Year 11. Language: English. Pages: 118. Source: GitHub release asset (release `mid-size-books-3`, asset for `grade-11/gov/fiji/technical-drawing/student/full-year.pdf`), 6,392,271 bytes, cover verified. Kind: student. Read: COMPLETE. Note: printed pp. 106–109 (research skills and APA referencing) are academic-skills content — not placed. Placements at liqlearns-courses-work/expansion-td-2026-11-17/fiji-placements.md.
+
+**Book 5:** *Year 13 Technical Drawing Textbook* (student) — Fiji, Ministry of Education, Heritage and Arts, Fiji. Title: Year 13 Technical Drawing Textbook (First Edition; syllabus trialled 2018). Year: 2018. Grade: Year 13. Language: English. Pages: 104. Source: GitHub release asset (release `mid-size-books-7`, asset for `grade-13/gov/fiji/technical-drawing/student/full-year.pdf`), 7,798,125 bytes, cover verified. Kind: student. Read: COMPLETE. Bibliography (printed p. 103) is inventory-only. Placements at liqlearns-courses-work/expansion-td-2026-11-17/fiji-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -11,11 +19,17 @@ countries: Ethiopia
 | Sub lesson 3 — Triangulation and true length (teacher guide — evidence) | Ethiopia, *Basic Technical Drawing, Teacher Guide, Grade 12*, Unit 5, Lesson '6.2', printed pp. 87–89 |
 | The accuracy bar — worked solution plates (teacher guide — evidence) | Ethiopia, *Basic Technical Drawing, Teacher Guide, Grade 12*, printed pp. 100–104 (solution plates for the unit's development exercises) |
 | The GIF — a cone's radial development sweeping open (teacher guide — evidence) | Ethiopia, *Basic Technical Drawing, Teacher Guide, Grade 12*, Unit 5, Lesson '6.2', printed pp. 87–89 |
+| Solid geometry: radial-line development (original string `technical-drawing/developing-solids-parallel-radial-and-triangulation`) | Fiji, *Basic Technology — Year 9*, printed p. 102-105 |
+| Geometrical Drawing: surface development by the parallel-line and radial-line methods (original string `technical-drawing/developing-solids-parallel-radial-and-triangulation`) | Fiji, *Basic Technology — Year 10*, printed p. 64-67 |
+| Surface development: the parallel-line development method (original string `technical-drawing/developing-solids-parallel-radial-and-triangulation`) | Fiji, *Technical Drawing — Year 11*, printed p. 40-51 |
+| Ch. 1: development by triangulation (rectangular/square-to-round transitions) (original string `technical-drawing/developing-solids-parallel-radial-and-triangulation`) | Fiji, *Year 13 Technical Drawing Textbook*, printed p. 20-23 |
 
-**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+**Acceptance count: taught in 1 country (Fiji) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+
+Fiji's own way: Fiji teaches development by named methods — radial-line development in Year 9, the parallel-line and radial-line methods in Year 10, the parallel-line method in Year 11, and development by triangulation (rectangular and square-to-round transitions) in Year 13.
 
 Era note: this guide is an older GEQIP-generation book (first edition, 2003 E.C., about 2010/11) — an earlier curriculum generation than Ethiopia's newer books. This lesson presents it as exactly that: the guide's testimony about that era's Grade 12 Technical Drawing course. It is never presented as the current syllabus, and nothing here has been checked against a current syllabus. No pupil (student) book for Technical Drawing has been read — no student book exists in hand — so this lesson stands on teacher-guide evidence only.
 
 Book error, taught corrected: the guide numbers this lesson 6.2, inside Unit 5 — there is no Unit 6 in the book (see the development-introduction lesson's sources). The worked numbers in this lesson were checked in this build: a cylinder of diameter 50 has circumference about 157 (pi x 50); a cone of base radius 30 and slant height 90 has sector angle 360 x 30/90 = 120 degrees, and the arc of that sector (120/360 x 2 x pi x 90 = 60 pi) equals the base circumference (2 x pi x 30 = 60 pi) exactly. The guide's printed solution plates (printed pp. 100–104) set the accuracy standard these constructions are taught to; they are also logged for the course ABOUT.md (see the build log).
 
-Searchable tags: parallel line development, radial line development, triangulation, true length, stretch-out line, cone sector, Ethiopia Grade 12 Technical Drawing Unit 5
+Searchable tags: parallel line development, radial line development, triangulation, true length, stretch-out line, cone sector, Ethiopia Grade 12 Technical Drawing Unit 5, Fiji

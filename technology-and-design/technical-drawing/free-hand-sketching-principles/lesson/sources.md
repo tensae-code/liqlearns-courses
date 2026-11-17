@@ -1,6 +1,6 @@
 # Sources — Free-hand sketching — principles and place in design
 
-countries: Belarus, Ethiopia, Jamaica, Malaysia, Moldova, Sri Lanka
+countries: Belarus, Ethiopia, Fiji, Jamaica, Malaysia, Moldova, Sri Lanka
 
 **Book 1:** *Basic Technical Drawing, Teacher Guide, Grade 12* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, in collaboration with Kuraz International Publisher P.L.C., Addis Ababa, first edition, 2003 E.C., ISBN 978-99944-2-097-2, 105 printed pp. Page rule: printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/technical-drawing/g12-teacher-placements.md.
 
@@ -16,6 +16,12 @@ countries: Belarus, Ethiopia, Jamaica, Malaysia, Moldova, Sri Lanka
 
 **Book 7:** Full title: Grade 12 Engineering Technology Part VI — Engineering Drawing, GCE A/L Technology stream. Publisher: Educational Publications Department (EPD), Sri Lanka. Year/edition: 2016 edition (foreword dated 2016.06.25; back cover print code 2016, Rs 185). Grade: 12 (A/L). Language: Tamil (scanned-image PDF, Noolaham Foundation digitization, no text layer). Pages: 116 PDF pages (printed pp. 1–108 + front matter i–viii). Kind: student textbook. Source: repo release asset `mid-size-books-5/grade-12-gov-sri-lanka-engineering-technology-textbook-part-6-engineering-drawing.pdf` via grab.py url route (tree route 404s — release-only); 20,316,676 bytes, matching the asset index and the staging books.json record (Noolaham no. 88098). Cover verified visually ("Engineering Drawing", gears/bearings over a blueprint). Read method: full contents page, every chapter opening, and teaching pages sampled across all chapters (printed pp. 1, 2, 3, 14, 25, 37, 53, 81, 88 + back cover) — placement-complete for this diagram-led book. COMPLETE. Read method note (as filed): this Sri Lanka Tamil-medium book is a scanned-image PDF with no text layer (Noolaham Foundation digitization); it was read by a VISUAL-READ method — rendered pages read as images — not by text extraction. Placements at liqlearns-courses-work/expansion-td-2026-11-17/sri-lanka-placements.md.
 
+**Book 8:** *Basic Technology — Year 9* (student) — Fiji, Industrial Arts Section, Technology and Employment Skills Training (TEST), Ministry of Education, Fiji — issued free to schools. Title: Basic Technology — Year 9 (written for the Form 3 Integrated Basic Technology syllabus, trialled 2014). Year: 2014 trial. Grade: Year 9. Language: English. Pages: 115. Source: GitHub release asset (release `mid-size-books-3`, asset for `grade-09/gov/fiji/basic-technology-industrial-arts/student/full-year.pdf`), 8,637,453 bytes, cover verified ("BASIC TECHNOLOGY YEAR 9"). Kind: student. Read: COMPLETE. Fiji books' printed page numbers equal their PDF page numbers. Placements at liqlearns-courses-work/expansion-td-2026-11-17/fiji-placements.md.
+
+**Book 9:** *Basic Technology — Year 10* (student) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Fiji — issued free to schools. Year: 2015 (final version). Grade: Year 10. Language: English. Pages: 88. Source: GitHub release asset (release `mid-size-books-3`, asset for `grade-10/gov/fiji/basic-technology/student/full-year.pdf`), 7,022,945 bytes, cover verified. Kind: student. Read: COMPLETE. Fiji books' printed page numbers equal their PDF page numbers. Placements at liqlearns-courses-work/expansion-td-2026-11-17/fiji-placements.md.
+
+**Book 10:** *Year 13 Technical Drawing Textbook* (student) — Fiji, Ministry of Education, Heritage and Arts, Fiji. Title: Year 13 Technical Drawing Textbook (First Edition; syllabus trialled 2018). Year: 2018. Grade: Year 13. Language: English. Pages: 104. Source: GitHub release asset (release `mid-size-books-7`, asset for `grade-13/gov/fiji/technical-drawing/student/full-year.pdf`), 7,798,125 bytes, cover verified. Kind: student. Read: COMPLETE. Bibliography (printed p. 103) is inventory-only. Placements at liqlearns-courses-work/expansion-td-2026-11-17/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 (teacher guide — evidence) | Book 1, printed pp. 1–4 — use and application of free-hand sketching; sketching as graphical communication |
@@ -28,8 +34,13 @@ countries: Belarus, Ethiopia, Jamaica, Malaysia, Moldova, Sri Lanka
 
 | The role of sketching in design — sketches as the designer's thinking record, client-communication medium (concept sketches sent for approval), visual exploration, and visual detailing; the kinds of sketch (personal/doodle, exploration, technical with dimensions and materials, idea-development, presentation, digital) (original string `technical-drawing/free-hand-sketching-principles`) | Malaysia, *RBT Tingkatan 1*, printed p. 68–73 |
 | the intro's account of sketches as the first form of a drawing idea, before the formal drawing (original string `technical-drawing/free-hand-sketching-principles`) | Sri Lanka, *Grade 12 Engineering Technology Part VI — Engineering Drawing*, printed p. 1 |
+| Sketching and rendering/shading in the geometry section (original string `technical-drawing/free-hand-sketching-principles`) | Fiji, *Basic Technology — Year 9*, printed p. 21-24 |
+| Geometry: sketching (original string `technical-drawing/free-hand-sketching-principles`) | Fiji, *Basic Technology — Year 10*, printed p. 13-14 |
+| Ch. 3: freehand sketching and tone (original string `technical-drawing/free-hand-sketching-principles`) | Fiji, *Year 13 Technical Drawing Textbook*, printed p. 67-69 |
 
-**Acceptance count: taught in 5 countries (Belarus, Jamaica, Malaysia, Moldova, Sri Lanka) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+**Acceptance count: taught in 6 countries (Belarus, Fiji, Jamaica, Malaysia, Moldova, Sri Lanka) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+
+Fiji's own way: Fiji teaches free-hand sketching inside Basic Technology geometry — Year 9 takes sketching with rendering and shading, Year 10 returns to sketching in its geometry opening, and Year 13 Technical Drawing closes the set with freehand sketching and tone.
 
 Jamaica's own way: Jamaica teaches sketching inside designing — learners produce concept drawings of the model car they are making, present them for peer critique, and modify the drawings in response; the drawing is the design's visual representation, revised in public before making begins.
 
@@ -45,4 +56,4 @@ Malaysia's own way: Malaysia teaches sketching as the designer's thinking record
 
 Sri Lanka's own way: Sri Lanka adds its Tamil-medium Technology stream teaching (Educational Publications Department; visual-read method, as filed in the book entries above) — the intro's account of sketches as the first form of a drawing idea, before the formal drawing.
 
-Searchable tags: technical drawing, free-hand sketching, sketching principles, design process, Grade 12, Ethiopia, Jamaica, Grades 4–6, Resource & Technology, concept drawings, peer critique, Moldova, Grades 5–6, Grade 9, crochiu, schiță, schița de proiect, Malaysia, Tingkatan 1, RBT, kinds of sketch, concept sketch, Sri Lanka
+Searchable tags: technical drawing, free-hand sketching, sketching principles, design process, Grade 12, Ethiopia, Jamaica, Grades 4–6, Resource & Technology, concept drawings, peer critique, Moldova, Grades 5–6, Grade 9, crochiu, schiță, schița de proiect, Malaysia, Tingkatan 1, RBT, kinds of sketch, concept sketch, Sri Lanka, Fiji

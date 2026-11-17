@@ -5,9 +5,9 @@ things works the same everywhere; only the way of teaching
 differs, and the way shows inside as examples. The path climbs
 from the hand to the drawing board to the workshop.
 
-**First Steps → Technical Drawing → Materials → Metal → Machining → Wood → Mechanisms and Machines → Electrical Installations and the Home → Textiles and Fashion → Radiography Technology → Design and Making → Models and Robotics → Workshop and Safety → Electricity and Electronics → Food Technology → Paper, Card and Modelling → Construction and Building → Vehicle Technology → Printing and Bookbinding → Agriculture Technology → Networks and Computers → Energy → Chemical Technology**
+**First Steps → Technical Drawing → Materials → Metal → Welding → Machining → Wood → Mechanisms and Machines → Electrical Installations and the Home → Textiles and Fashion → Radiography Technology → Design and Making → Models and Robotics → Workshop and Safety → Electricity and Electronics → Food Technology → Paper, Card and Modelling → Construction and Building → Vehicle Technology → Printing and Bookbinding → Agriculture Technology → Networks and Computers → Energy → Chemical Technology**
 
-Stocked titles so far: **459 lessons**.
+Stocked titles so far: **501 lessons**.
 
 **Technical Drawing** (technical-drawing/) — 57 lessons:
 17 built from Ethiopia's Grade 12 teacher guide (2003 E.C.,
@@ -763,3 +763,52 @@ Renewable energy technology also carries 5 Iran placements (*Use of New Technolo
 **Chemical Technology** (chemical-technology/) — 10 lessons, a new unit in this course, stocked 2026-11-17 from Sri Lanka as listed above.
 
 Line types on drawings, Technical lettering and Workshop safety also carry Sri Lanka NEW placements (1 each). Eight founding Technical Drawing lessons also carry Sri Lanka placements (12 in all): Free-hand sketching — principles and place in design; Surface development — flat sheets that become things; Pictorial sketching — isometric (3); Orthographic projection basics (3); Dimensioning — lines, symbols and reading direction; Size and location dimensions; Sectioning — words and practice; Conventional practice in sectioning.
+
+**Fiji** additions — 42 lessons stocked 2026-11-17 from Fiji's Ministry of Education textbooks (TEST / Ministry of Education, Heritage and Arts: *Basic Technology* Years 9–10, *Technical Drawing* Years 11–13, and *Applied Technology* Year 12 — the Applied Technology placements are PARTIAL, from the image-only book read at strand level, as filed in each lesson's sources):
+
+- Drawing equipment and preparing the drawing sheet (drawing-equipment-and-preparing-the-drawing-sheet/) — Technical Drawing, stocked 2026-11-17 from Fiji's Ministry of Education textbooks (TEST)
+- Geometrical solids (geometrical-solids/) — Technical Drawing, stocked 2026-11-17 from Fiji's Ministry of Education textbooks (TEST)
+- Drawing instruments, standards and preparing the sheet (drawing-instruments-standards-and-preparing-the-sheet/) — Technical Drawing, stocked 2026-11-17 from Fiji's Ministry of Education textbooks (TEST)
+- Plane and space geometry (plane-and-space-geometry/) — Technical Drawing, stocked 2026-11-17 from Fiji's Ministry of Education textbooks (TEST)
+- Conic sections (conic-sections/) — Technical Drawing, stocked 2026-11-17 from Fiji's Ministry of Education textbooks (TEST)
+- Rolling wheels (rolling-wheels/) — Technical Drawing, stocked 2026-11-17 from Fiji's Ministry of Education textbooks (TEST)
+- Centre of a triangle and the centroid (centre-of-a-triangle-and-the-centroid/) — Technical Drawing, stocked 2026-11-17 from Fiji's Ministry of Education textbooks (TEST)
+- Forces in drawing (forces-in-drawing/) — Technical Drawing, stocked 2026-11-17 from Fiji's Ministry of Education textbooks (TEST)
+- Surveying for drawing (surveying-for-drawing/) — Technical Drawing, stocked 2026-11-17 from Fiji's Ministry of Education textbooks (TEST)
+- Spirals (spirals/) — Technical Drawing, stocked 2026-11-17 from Fiji's Ministry of Education textbooks (TEST)
+- Surveying (surveying/) — Technical Drawing, stocked 2026-11-17 from Fiji's Ministry of Education textbooks (TEST)
+- Helical springs (helical-springs/) — Technical Drawing, stocked 2026-11-17 from Fiji's Ministry of Education textbooks (TEST)
+- The logarithmic spiral; conic sections; evolutes of the ellipse, parabola and hyperbola (the-logarithmic-spiral-conic-sections-evolutes-of-the-ellipse/) — Technical Drawing, stocked 2026-11-17 from Fiji's Ministry of Education textbooks (TEST)
+- Traces of lines and planes (traces-of-lines-and-planes/) — Technical Drawing, stocked 2026-11-17 from Fiji's Ministry of Education textbooks (TEST)
+- Navigation (navigation/) — Technical Drawing, stocked 2026-11-17 from Fiji's Ministry of Education textbooks (TEST)
+- Elements and principles of design (elements-and-principles-of-design/) — Design and Making, stocked 2026-11-17 from Fiji's Ministry of Education textbooks (TEST)
+- Enterprise skills (enterprise-skills/) — Design and Making, stocked 2026-11-17 from Fiji's Ministry of Education textbooks (TEST)
+- Sustainable design (sustainable-design/) — Design and Making, stocked 2026-11-17 from Fiji's Ministry of Education textbooks (TEST)
+- Designing outdoor and indoor spaces (designing-outdoor-and-indoor-spaces/) — Design and Making, stocked 2026-11-17 from Fiji's Ministry of Education textbooks (TEST)
+- Writing a design project proposal (writing-a-design-project-proposal/) — Design and Making, stocked 2026-11-17 from Fiji's Ministry of Education textbooks (TEST)
+- Presenting and marketing a design (presenting-and-marketing-a-design/) — Design and Making, stocked 2026-11-17 from Fiji's Ministry of Education textbooks (TEST)
+- Workplace health and safety (workplace-health-and-safety/) — Design and Making, stocked 2026-11-17 from Fiji's Ministry of Education textbooks (TEST)
+- Design and enterprising (design-and-enterprising/) — Design and Making, stocked 2026-11-17 from Fiji's Ministry of Education textbooks (TEST)
+- Hand tools and materials (hand-tools-and-materials/) — Workshop and Safety, stocked 2026-11-17 from Fiji's Ministry of Education textbooks (TEST)
+- Materials (materials/) — Materials, stocked 2026-11-17 from Fiji's Ministry of Education textbooks (TEST)
+- Natural resources and materials (natural-resources-and-materials/) — Materials, stocked 2026-11-17 from Fiji's Ministry of Education textbooks (TEST)
+- Working and forming non-metals (working-and-forming-non-metals/) — Materials, stocked 2026-11-17 from Fiji's Ministry of Education textbooks (TEST)
+- Engineering materials (engineering-materials/) — Materials, stocked 2026-11-17 from Fiji's Ministry of Education textbooks (TEST)
+- Carpentry and joinery (carpentry-and-joinery/) — Wood, stocked 2026-11-17 from Fiji's Ministry of Education textbooks (TEST)
+- Sheet-metal joints and seams (sheet-metal-joints-and-seams/) — Metal, stocked 2026-11-17 from Fiji's Ministry of Education textbooks (TEST)
+- Joining metals (joining-metals/) — Metal, stocked 2026-11-17 from Fiji's Ministry of Education textbooks (TEST)
+- Welding and fabrication (welding-and-fabrication/) — Welding, stocked 2026-11-17 from Fiji's Ministry of Education textbooks (TEST)
+- Cams (cams/) — Mechanisms and Machines, stocked 2026-11-17 from Fiji's Ministry of Education textbooks (TEST)
+- Applied mechanics (applied-mechanics/) — Mechanisms and Machines, stocked 2026-11-17 from Fiji's Ministry of Education textbooks (TEST)
+- Machines and engines (machines-and-engines/) — Mechanisms and Machines, stocked 2026-11-17 from Fiji's Ministry of Education textbooks (TEST)
+- Refrigeration and air-conditioning (refrigeration-and-air-conditioning/) — Mechanisms and Machines, stocked 2026-11-17 from Fiji's Ministry of Education textbooks (TEST)
+- Electrical drawing (electrical-drawing/) — Electrical Installations and the Home, stocked 2026-11-17 from Fiji's Ministry of Education textbooks (TEST)
+- Solar-powered systems (solar-powered-systems/) — Energy, stocked 2026-11-17 from Fiji's Ministry of Education textbooks (TEST)
+- Traditional Fijian building (traditional-fijian-building/) — Construction and Building, stocked 2026-11-17 from Fiji's Ministry of Education textbooks (TEST)
+- Heritage buildings in Fiji (Levuka) (heritage-buildings-in-fiji-levuka/) — Construction and Building, stocked 2026-11-17 from Fiji's Ministry of Education textbooks (TEST)
+- The building team (the-building-team/) — Construction and Building, stocked 2026-11-17 from Fiji's Ministry of Education textbooks (TEST)
+- Basic home improvement (basic-home-improvement/) — Construction and Building, stocked 2026-11-17 from Fiji's Ministry of Education textbooks (TEST)
+
+**Welding** (welding/) — 1 lesson, a new unit in this course, stocked 2026-11-17 from Fiji as listed above.
+
+Ten canonical lessons already built also carry Fiji NEW placements (16 rows): Workshop safety (2); Hand tools (1); The design process (3); Drawing lettering and the title block (1); Geometrical constructions (2); Scales in drawing (2); Architectural and construction drawings (1); Assembly drawings (1); Computer-aided drawing (CAD) (1); Wood joints (2). Nine founding Technical Drawing lessons also carry Fiji placements (24 in all): Free-hand sketching — principles and place in design (3); Orthographic projection basics (3); Pictorial sketching — isometric (5); Surface development — flat sheets that become things (3); Developing solids — parallel line, radial line, triangulation (4); Dimensioning — lines, symbols and reading direction (1); Drawing an auxiliary view (1); Intersections — where two solids cross (2); Types of section (2).

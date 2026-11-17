@@ -1,0 +1,15 @@
+# Sources — Sheet-metal joints and seams
+
+countries: Fiji
+
+**Book 1:** *Basic Technology — Year 9* (student) — Fiji, Industrial Arts Section, Technology and Employment Skills Training (TEST), Ministry of Education, Fiji — issued free to schools. Title: Basic Technology — Year 9 (written for the Form 3 Integrated Basic Technology syllabus, trialled 2014). Year: 2014 trial. Grade: Year 9. Language: English. Pages: 115. Source: GitHub release asset (release `mid-size-books-3`, asset for `grade-09/gov/fiji/basic-technology-industrial-arts/student/full-year.pdf`), 8,637,453 bytes, cover verified ("BASIC TECHNOLOGY YEAR 9"). Kind: student. Read: COMPLETE. Fiji books' printed page numbers equal their PDF page numbers. Placements at liqlearns-courses-work/expansion-td-2026-11-17/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sheet-metal joints and seams — wire edge, notches, seams (original string `sheet-metal joints and seams — wire edge, notches, seams`) | Fiji, *Basic Technology — Year 9*, printed p. 111-114 |
+
+**Acceptance count: taught in 1 country (Fiji).**
+
+Fiji's own way: Fiji teaches sheet-metal joints and seams in Year 9 Basic Technology through the wire edge, notches and seams.
+
+Searchable tags: sheet-metal joints and seams, Fiji, metal, Ministry of Education, TEST

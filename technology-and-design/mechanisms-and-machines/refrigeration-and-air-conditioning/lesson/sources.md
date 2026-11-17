@@ -1,0 +1,17 @@
+# Sources — Refrigeration and air-conditioning
+
+countries: Fiji
+
+**Book 1:** *Applied Technology Textbook — Year 12* (student) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Fiji. Year: 2015. Grade: Year 12. Language: English. Pages: 143. Source: GitHub release asset (release `mid-size-books-3`, asset for `grade-12/gov/fiji/applied-technology/student/full-year.pdf`), 47,543,646 bytes, cover/title page verified ("APPLIED TECHNOLOGY TEXTBOOK, YEAR 12 … Ministry of Education, 2015"). Kind: student. Read: PARTIAL — the PDF is image-only (zero text layer). Read: title page, preface, the full table of contents (printed p. 4), all six strand openers, and sampled pages across every strand (printed pp. 20, 32, 40, 54, 72, 82, 92, 100, 102, 112, 118, 122, 128, 132, 138, 142). Routes tried for a full read: text extraction (empty — no text layer); OCR with tesseract (system CPU saturated by other jobs — repeated 90 s/page timeouts, abandoned); page-image rendering + visual reading (used for the pages above). The strand-level placements below are certain; sub-topic detail between sampled pages may be incomplete. Every placement from this book is filed PARTIAL and stays labelled PARTIAL. Placements at liqlearns-courses-work/expansion-td-2026-11-17/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Refrigeration and air-conditioning — refrigeration terminology (refrigeration effect, ton of refrigeration, COP, ice-making capacity), properties of a good refrigerant, the refrigeration mechanic's tools (gauge manifold, yoke vice, tape, hacksaw, drill), servicing refrigerators (thermostat/vents, coils, condenser fan, circuit board), air-conditioning principles and classification, psychrometric terms (dry/moist air, dry/wet-bulb temperature, dew point, humidity), the 10 steps of servicing an air conditioner — PARTIAL (strand-level placement from the image-only book) (original string `refrigeration and air-conditioning — refrigeration terminology (refrigeration effect, ton of refrigeration, COP, ice-making capacity), properties of a good refrigerant, the refrigeration mechanic's tools (gauge manifold, yoke vice, tape, hacksaw, drill), servicing refrigerators (thermostat/vents, coils, condenser fan, circuit board), air-conditioning principles and classification, psychrometric terms (dry/moist air, dry/wet-bulb temperature, dew point, humidity), the 10 steps of servicing an air conditioner`) | Fiji, *Applied Technology Textbook — Year 12*, printed p. 116-143 |
+
+**Acceptance count: taught in 1 country (Fiji).**
+
+PARTIAL: the placement(s) from *Applied Technology Textbook — Year 12* come from an image-only PDF (zero text layer) read at STRAND level — title page, preface, the full table of contents (printed p. 4), all six strand openers, and sampled pages across every strand. They are filed PARTIAL and are never upgraded to a full read.
+
+Fiji's own way: Fiji teaches refrigeration and air-conditioning at the close of Year 12 Applied Technology — refrigeration terminology (refrigeration effect, ton of refrigeration, COP, ice-making capacity), the properties of a good refrigerant, the refrigeration mechanic's tools, servicing refrigerators, air-conditioning principles and classification, psychrometric terms, and the 10 steps of servicing an air conditioner. The book is image-only and was read at strand level, so this placement is PARTIAL.
+
+Searchable tags: refrigeration and air-conditioning, Fiji, mechanisms and machines, Ministry of Education, TEST, PARTIAL
