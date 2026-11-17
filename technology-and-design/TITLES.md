@@ -5,9 +5,9 @@ things works the same everywhere; only the way of teaching
 differs, and the way shows inside as examples. The path climbs
 from the hand to the drawing board to the workshop.
 
-**First Steps → Technical Drawing → Materials → Mechanisms and Machines → Electrical Installations and the Home → Textiles and Fashion → Radiography Technology → Design and Making → Models and Robotics → Workshop and Safety → Electricity and Electronics**
+**First Steps → Technical Drawing → Materials → Mechanisms and Machines → Electrical Installations and the Home → Textiles and Fashion → Radiography Technology → Design and Making → Models and Robotics → Workshop and Safety → Electricity and Electronics → Food Technology → Paper, Card and Modelling**
 
-Stocked titles so far: **66 lessons**.
+Stocked titles so far: **78 lessons**.
 
 **Technical Drawing** (technical-drawing/) — 24 lessons:
 17 built from Ethiopia's Grade 12 teacher guide (2003 E.C.,
@@ -43,7 +43,7 @@ stocked 2026-11-17 from Jamaica's *National Standards
 Curriculum Guide — Grades 4–6 — Resource &
 Technology* (Jamaica, 2018):
 
-- What technology is (what-technology-is/)
+- What technology is (what-technology-is/) — also carries an Azerbaijan placement (Технология, Grade 2, Russian edition as held, printed p. 6)
 - Computers as community technology (computers-as-community-technology/)
 - GPS technology (gps-technology/)
 - Careers in automotive and mechanical engineering (careers-in-automotive-and-mechanical-engineering/)
@@ -67,15 +67,20 @@ Standards Curriculum Guide — Grades 4–6 — Resource
 - Shapes and solids for movement (shapes-and-solids-for-movement/)
 
 **Electrical Installations and the Home**
-(electrical-installations/) — 1 lesson, stocked 2026-11-17
-from the same Canada book:
+(electrical-installations/) — 2 lessons: 1 stocked
+2026-11-17 from the same Canada book, and 1 stocked
+2026-11-17 from Azerbaijan's *Технология (Technology),
+Grade 2* (Russian edition as held):
 
 - Heating technology at home (heating-technology-at-home/)
+- Technological machines and household appliances (technological-machines-and-household-appliances/)
 
 **Textiles and Fashion** (textiles-and-fashion/) —
-6 lessons: 1 stocked 2026-11-17 from the same Canada book,
-and 5 stocked 2026-11-17 from Finland's *Katse tulevaan*
-(TuleVa project learning material, published via aoe.fi):
+8 lessons: 1 stocked 2026-11-17 from the same Canada book,
+5 stocked 2026-11-17 from Finland's *Katse tulevaan*
+(TuleVa project learning material, published via aoe.fi),
+and 2 stocked 2026-11-17 from Azerbaijan's *Технология
+(Technology), Grade 2* (Russian edition as held):
 
 - The sewing machine (the-sewing-machine/)
 - Dyeing and finishing textiles (dyeing-and-finishing-textiles/)
@@ -83,6 +88,8 @@ and 5 stocked 2026-11-17 from Finland's *Katse tulevaan*
 - From material to product (from-material-to-product/)
 - Reuse in practice (reuse-in-practice/)
 - Textile fibres (textile-fibres/)
+- Sewing along a straight line (sewing-along-a-straight-line/)
+- Embroidery along curved lines (embroidery-along-curved-lines/)
 
 **Radiography Technology** (radiography-technology/) —
 1 lesson, stocked 2026-11-17 from the same Canada book:
@@ -105,11 +112,13 @@ Grades 4–6 — Resource & Technology* (Jamaica, 2018):
 - Evaluating a made product (evaluating-a-made-product/)
 
 **Models and Robotics** (models-and-robotics/) —
-7 lessons: 6 stocked 2026-11-17 from the same Kuwait book,
-and 1 stocked 2026-11-17 from Jamaica's *National
+8 lessons: 6 stocked 2026-11-17 from the same Kuwait book,
+1 stocked 2026-11-17 from Jamaica's *National
 Standards Curriculum Guide — Grades 4–6 — Resource
 & Technology* (Jamaica, 2018) — Making a toy car
-(making-a-toy-car/):
+(making-a-toy-car/) — and 1 stocked 2026-11-17 from
+Azerbaijan's *Технология (Technology), Grade 2*
+(Russian edition as held):
 
 - 3D printing, from idea to model (3d-printing-from-idea-to-model/)
 - First steps with UltiMaker Cura (first-steps-with-ultimaker-cura/)
@@ -117,6 +126,7 @@ Standards Curriculum Guide — Grades 4–6 — Resource
 - The model's strength from the inside (the-model-s-strength-from-the-inside/)
 - Printing overhanging parts (printing-overhanging-parts/)
 - Making the model stick to the printer bed (making-the-model-stick-to-the-printer-bed/)
+- Making a model of a truck (making-a-model-of-a-truck/)
 
 **Workshop and Safety** (workshop-and-safety/) —
 2 lessons: 1 stocked 2026-11-17 from Malta's Workbook 1,
@@ -143,3 +153,22 @@ Guide — Grades 4–6 — Resource & Technology*
 - Magnets and electromagnetism for technology (magnets-and-electromagnetism-for-technology/)
 - Making an electromagnet (making-an-electromagnet/)
 - Building a simple electromagnetic motor (building-a-simple-electromagnetic-motor/)
+
+**Food Technology** (food-technology/) — 1 lesson,
+stocked 2026-11-17 from Azerbaijan's *Технология
+(Technology), Grade 2* (Russian edition as held):
+
+- Setting and serving the table (setting-and-serving-the-table/)
+
+**Paper, Card and Modelling** (paper-card-and-modelling/) —
+7 lessons, stocked 2026-11-17 from Azerbaijan's
+*Технология (Technology), Grade 2* (Russian edition
+as held):
+
+- Modelling in plasticine (modelling-in-plasticine/)
+- Appliqué (applique/)
+- Mosaic — pictures from small pieces (mosaic-pictures-from-small-pieces/)
+- Origami — paper folding (origami-paper-folding/)
+- Straight weaving from paper strips (straight-weaving-from-paper-strips/)
+- Constructing from cardboard boxes (constructing-from-cardboard-boxes/)
+- A three-dimensional paper toy (a-three-dimensional-paper-toy/)

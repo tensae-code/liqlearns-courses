@@ -307,7 +307,74 @@ season.
 Placements at
 liqlearns-courses-work/expansion-td-2026-11-17/jamaica-placements.md.
 
-**Course totals: 66 lessons** — Technical Drawing 17 lessons
+## Azerbaijan, Технология Grade 2 (T&D expansion, stocked 2026-11-17)
+
+Stocked from Azerbaijan's *Технология (Technology),
+Grade 2* — Учебник по предмету «Технология» для 2-х
+классов общеобразовательных заведений, by Натик Ахундов
+(Natik Akhundov), Гумеир Ахмедов (Gumeir Akhmedov) and
+Светлана Яхьяева (Svetlana Yakhyaeva), © Ministry of
+Education of the Republic of Azerbaijan, published under
+CC BY-NC-SA 4.0 via www.trims.edu.az, 75 PDF pp., read
+COMPLETE (printed p. = PDF p. − 2). Edition honesty: the
+placements record names the Azerbaijani-sector edition
+("Texnologiya — 2-ci sinif"), but the file actually held
+is the parallel RUSSIAN-language edition of the same
+textbook (cover: «ТЕХНОЛОГИЯ 2 — УЧЕБНИК»); every
+sources entry names the edition as held (Russian
+edition), keeping the record's naming visible. All 24
+placements were NEW LESSON NEEDED; each was resolved
+through the T&D slug registry to its canonical lesson —
+12 built new, and 1 stocked into the existing What
+technology is lesson. Azerbaijan counts in the
+acceptance count (student textbook, not evidence-only).
+
+- **First Steps** (1 placement into an existing lesson):
+  What technology is (printed p. 6) — materials and the
+  means of processing them.
+- **Food Technology** (1 new lesson, 13 questions):
+  Setting and serving the table (printed p. 12).
+- **Paper, Card and Modelling** (7 new lessons,
+  13 questions each): Modelling in plasticine
+  (printed pp. 14, 16, 18, 20 — bowl, applied
+  decoration, pulling method, constructive method);
+  Appliqué (printed pp. 23, 25, 27 — torn-paper, fabric,
+  three-dimensional); Mosaic — pictures from small
+  pieces (printed pp. 31, 32, 34, 35, 36, 38 — paper
+  pieces, natural materials, pencil shavings, eggshell,
+  crumpled napkin, sponge); Origami — paper folding
+  (printed pp. 41, 46); Straight weaving from paper
+  strips (printed p. 47); Constructing from cardboard
+  boxes (printed p. 58); A three-dimensional paper toy
+  (printed p. 60).
+- **Textiles and Fashion** (2 new lessons, 13 questions
+  each): Sewing along a straight line (printed p. 51);
+  Embroidery along curved lines (printed p. 54).
+- **Electrical Installations and the Home** (1 new
+  lesson, 13 questions): Technological machines and
+  household appliances (printed p. 56).
+- **Models and Robotics** (1 new lesson, 13 questions):
+  Making a model of a truck (printed p. 62).
+
+Azerbaijan's own way is content and is carried in each
+lesson's sources: Grade 2 *Технология* teaches
+technology through making from the very first lessons —
+materials and the means of processing them first, then a
+named sequence of makes (plasticine modelling by named
+methods, appliqué, mosaic from many small materials,
+origami, paper-strip weaving and first sewing), each
+technique taught on one pictured make.
+
+Placements at
+liqlearns-courses-work/expansion-td-2026-11-17/azerbaijan-placements.md.
+Named in that file as not placed: Section 1's
+everyday-culture lessons (self-care, printed p. 8;
+plant care, printed p. 10; table manners, printed
+p. 11) — personal-care, plant-care and etiquette
+content, not technology teaching — and the book's own
+Appendix and cut-out templates (printed pp. 64–65).
+
+**Course totals: 78 lessons** — Technical Drawing 17 lessons
 (Ethiopia, teacher-guide evidence) plus the 7 Canada lessons
 above (First Steps 3, Mechanisms and Machines 1, Electrical
 Installations and the Home 1, Textiles and Fashion 1,
@@ -319,12 +386,17 @@ Workshop and Safety 1, Electricity and Electronics 2)
 plus the 19 Jamaica lessons above (First Steps 1,
 Technical Drawing 1, Design and Making 6, Workshop and
 Safety 1, Mechanisms and Machines 3, Models and
-Robotics 1, Electricity and Electronics 6);
+Robotics 1, Electricity and Electronics 6) plus the
+12 Azerbaijan lessons above (Food Technology 1, Paper,
+Card and Modelling 7, Textiles and Fashion 2, Electrical
+Installations and the Home 1, Models and Robotics 1);
 Malta also stocked 6 placements into 4 existing Technical
-Drawing lessons, and Jamaica also stocked 3 placements
+Drawing lessons, Jamaica also stocked 3 placements
 into 3 existing lessons (Measuring and marking out,
 Free-hand sketching — principles, Dimensioning —
-lines, symbols and reading direction).
+lines, symbols and reading direction), and Azerbaijan
+also stocked 1 placement into the existing What
+technology is lesson.
 
 - **Coverage-audit fix pass (2026-11-12)** — the placement-coverage
   audit found 17 of 19 placements stocked; the fix build closed
