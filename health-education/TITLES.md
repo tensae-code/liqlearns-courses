@@ -77,3 +77,9 @@ Body** (`staying-safe/knowing-my-body`) and **Sports Massage
 and Recovery**
 (`fair-play-and-the-body/sports-massage-and-recovery`) —
 2 new lessons, bringing this course to 31 lessons.
+
+The Health expansion then added (China): **Caring for My
+Senses** (`staying-safe/caring-for-my-senses`) and **Mental
+Health and Wellbeing**
+(`fair-play-and-the-body/mental-health-and-wellbeing`) —
+2 new lessons, bringing this course to 33 lessons.

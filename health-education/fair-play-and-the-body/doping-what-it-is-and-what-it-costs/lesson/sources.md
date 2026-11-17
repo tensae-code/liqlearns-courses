@@ -1,6 +1,6 @@
 # Sources — Doping — What It Is and What It Costs
 
-countries: Ethiopia
+countries: Ethiopia, China
 
 **Book 1:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–106 + front matter (114 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md.
 
@@ -26,6 +26,8 @@ countries: Ethiopia
 
 **Book 12:** *Grade 8 Health and Physical Education Teacher Guide* (teacher guide, English) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. TRUNCATED — worst-truncated of the series: the file holds printed pp. 3–50 of 104+ (54 PDF pages); printed pp. 51–104+ (Chapters 4–7 entire) are missing. Printed page = PDF page − 4 (contents scheme; the guide prints no folios). Read in full from 100 DPI renders (no text layer), in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g08-teacher-placements.md.
 
+**Book 13:** *普通高中教科书·体育与健康必修 全一册 (PEP Senior-High PE & Health, Compulsory, Complete Volume)* (student book, Chinese) — Title as printed: 普通高中教科书·体育与健康必修 全一册 — Grade: Senior high (filed grade-12) (student/teacher: STUDENT) — Publisher: People's Education Press （人民教育出版社）; ISBN: no ISBN printed on the copyright page in this scan — PDF pages: 266 (cover/title page verified against the record title). Verdict: COMPLETE — the whole Health chapter （第四章 塑造健康行为， printed pp. 46–83) read, plus the health parts inside the wushu and swimming chapters. Tally: 13 placements — 7 to existing lessons, 6 NEW LESSON NEEDED. China's own way: health is taught as behaviour-shaping — lifestyle and disease prevention first, then nutrition, environment, mental health and social adaptation, and a long practical safety section that runs from exercise-safety rules through injury treatment to CPR and AED use. Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/china-health-placements.md (same book as in china-pe-placements.md, read once, Health parts filed in the Health file). Records 2–3 of the placements file are catalogue/notice records filed record-only in china-pe-placements.md (Ningxia selection-results notice; 2025 national catalogue excerpt) — catalogue evidence, not teaching books, with 0 placements here; nothing is stocked from them.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 5 — Stopping doping — history, rules and bans (Grade 8) | Ethiopia, *Grade 8 Student Textbook*, §3.6, printed pp. 35–37 |
@@ -37,8 +39,9 @@ countries: Ethiopia
 | Sub lesson 4 — What doping costs — the Grade 7 reckoning | Ethiopia, *Grade 7 Student Textbook*, §3.6 item 20, printed pp. 37–38; and *Grade 7 Teacher Guide*, §1.6, printed pp. 11–12 (teacher guide — evidence) |
 | Prove-it questions folded from the book's own Chapter 1 review — Sub lesson 3 (teacher guide — evidence) | Ethiopia, *Grade 6 Teacher Guide*, Chapter 1 summary + assessment answers, printed pp. 10–11 (teacher guide — evidence) |
 | Prove-it questions folded from the book's own Chapter 1 review — Sub lesson 4 (teacher guide — evidence) | Ethiopia, *Grade 7 Teacher Guide*, Chapter 1 review answers, printed pp. 12–13 (teacher guide — evidence) |
+| China — 第四章 第五节 运动安全（八）— what doping is and what counts as a doping violation (filed under `fair-play-and-the-body/doping-what-it-is-and-what-it-costs`, this lesson itself) | China, *普通高中教科书·体育与健康必修 全一册 (PEP Senior-High PE & Health, Compulsory, Complete Volume)*, 第四章 第五节 运动安全（八）, printed p. 78 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, China).**
 
 The Grade 5 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -56,4 +59,6 @@ The Grade 5 student placement for §3.6 records the section's existence, title a
 
 The Grade 8 sanctions ladder (warning + up to 1 year / 2 years / lifetime) is carried exactly as the Grade 8 student book prints it; it differs from the Grade 7 guide's reckoning in Sub lesson 4 — both stand as their books print them, and the difference is named here rather than smoothed over. The Grade 10 teacher guide is truncated only at its tail (§8.3, p. 92); its Unit 1 anti-doping material is complete in the held file.
 
-Searchable tags: doping ዶፒንግ, performance-enhancing substances አበረታች ቅመማዎች, clean sport, WADA 1999, IOC medical commission 1967, Mexico 1968 tests, Ethiopia anti-doping office proclamation 400/2009, doping harms sanctions, Ethiopia HPE Grades 5–7
+China is added as student-book stock (see its book line and row above), inside the acceptance count — the China book is a STUDENT book, so China is named in the countries line and provenance row and the acceptance count rises from 1 to 2 countries. The China placement was filed under the slug `fair-play-and-the-body/doping-what-it-is-and-what-it-costs`, this lesson itself. China's own way is content, as the book line above records it: doping is taught inside the exercise-safety section — what doping is and what counts as a doping violation.
+
+Searchable tags: doping ዶፒንግ, performance-enhancing substances አበረታች ቅመማዎች, clean sport, WADA 1999, IOC medical commission 1967, Mexico 1968 tests, Ethiopia anti-doping office proclamation 400/2009, doping harms sanctions, Ethiopia HPE Grades 5–7, what doping is, doping violation, China Senior High PEP PE & Health

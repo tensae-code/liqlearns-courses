@@ -1,6 +1,6 @@
 # Sources — Staying Safe on the Street — Self-Defence Principles and Resolving Conflict
 
-countries: Ethiopia
+countries: Ethiopia, China
 
 **Book 1:** *Health and Physical Education Student's Textbook Grade 9* (student textbook, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, First Published August 2023, under GEQIP-E, ISBN 978-99990-0-072-7, printed pp. 1–156 (167 PDF pages). Printed page = PDF page − 10. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g09-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia
 
 **Book 4:** *Health and Physical Education — Teacher Guide, Grade 10* (teacher guide, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, 2022, under GEQIP-E. TRUNCATED (marginal): the file holds printed pp. I–IX + 1–93; §8.3's step-by-step teaching procedure breaks off mid-sentence on printed p. 92, so only that tail is missing — substantively complete. Read in full from the text layer, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g10-teacher-placements.md.
 
+**Book 5:** *普通高中教科书·体育与健康必修 全一册 (PEP Senior-High PE & Health, Compulsory, Complete Volume)* (student book, Chinese) — Title as printed: 普通高中教科书·体育与健康必修 全一册 — Grade: Senior high (filed grade-12) (student/teacher: STUDENT) — Publisher: People's Education Press （人民教育出版社）; ISBN: no ISBN printed on the copyright page in this scan — PDF pages: 266 (cover/title page verified against the record title). Verdict: COMPLETE — the whole Health chapter （第四章 塑造健康行为， printed pp. 46–83) read, plus the health parts inside the wushu and swimming chapters. Tally: 13 placements — 7 to existing lessons, 6 NEW LESSON NEEDED. China's own way: health is taught as behaviour-shaping — lifestyle and disease prevention first, then nutrition, environment, mental health and social adaptation, and a long practical safety section that runs from exercise-safety rules through injury treatment to CPR and AED use. Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/china-health-placements.md (same book as in china-pe-placements.md, read once, Health parts filed in the Health file). Records 2–3 of the placements file are catalogue/notice records filed record-only in china-pe-placements.md (Ningxia selection-results notice; 2025 national catalogue excerpt) — catalogue evidence, not teaching books, with 0 placements here; nothing is stocked from them.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What self-defence is — and the ethics that govern it | Ethiopia, *Grade 9 Student Textbook*, §8.1, printed pp. 142–145; *Grade 10 Student Textbook*, §8.1, printed pp. 128–131; and *Grade 10 Teacher Guide*, Unit 8, printed pp. 88–89 and 92–93 (teacher guide — evidence) |
@@ -17,9 +19,12 @@ countries: Ethiopia
 | Sub lesson 2 — The principles — alertness, speed, surprise | Ethiopia, *Grade 9 Student Textbook*, §8.2, printed pp. 145–149; and *Grade 9 Teacher Guide*, Unit 8, printed pp. 104–105 (teacher guide — evidence) |
 | Sub lesson 3 — Street-safety rules — the three strategies | Ethiopia, *Grade 9 Student Textbook*, §8.2, printed pp. 145–149; and *Grade 9 Teacher Guide*, Unit 8, printed pp. 104–105 (teacher guide — evidence) |
 | Sub lesson 4 — Resolving conflict without fighting — and why learn self-defence | Ethiopia, *Grade 10 Student Textbook*, §§8.1.2 and 8.2, printed pp. 132–139; and *Grade 10 Teacher Guide*, Unit 8, printed pp. 90–91 (teacher guide — evidence) |
+| China — 第四章 第六节 紧急避险 — emergency avoidance: preventing crowd crushes and stampedes; escaping and self-rescue in a violent attack (filed under `staying-safe/staying-safe-on-the-street`, this lesson itself) | China, *普通高中教科书·体育与健康必修 全一册 (PEP Senior-High PE & Health, Compulsory, Complete Volume)*, 第四章 第六节 紧急避险， printed p. 82 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, China).**
 
 The Grade 9 guide is complete. The Grade 10 guide's §8.3 procedure tail is cut at printed p. 92; nothing in this lesson rests on the missing steps — this lesson teaches the books' principles, rules and ethics (knowledge), and leaves the physical techniques themselves (stance, escapes, strikes, grappling) to the skills build, exactly as its safety framing requires. This lesson stocks the [Both] self-defence placements whose content is purely safety knowledge, as the wave-2 guide directs for Health Education.
 
-Searchable tags: self-defence principles, street safety, bash and dash, conflict resolution, sport ethics fairness integrity responsibility respect, Ethiopia HPE Grades 9–10
+China is added as student-book stock (see its book line and row above), inside the acceptance count — the China book is a STUDENT book, so China is named in the countries line and provenance row and the acceptance count rises from 1 to 2 countries. The China placement was filed under the slug `staying-safe/staying-safe-on-the-street`, this lesson itself. China's own way is content, as the book line above records it: emergency avoidance is taught as its own section — preventing crowd crushes and stampedes, and escaping and self-rescue in a violent attack.
+
+Searchable tags: self-defence principles, street safety, bash and dash, conflict resolution, sport ethics fairness integrity responsibility respect, Ethiopia HPE Grades 9–10, emergency avoidance, crowd crushes and stampedes, escaping a violent attack, self-rescue, 紧急避险， China Senior High PEP PE & Health

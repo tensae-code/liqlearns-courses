@@ -263,6 +263,28 @@ UNREAD under the no-login rule with 0 placements; nothing is
 stocked from them. No Afghanistan placement resolves to a
 PE-course lesson, so none was excluded as PE-bound.
 
+**Health expansion — China — BUILT 2026-11-16:** 13 placements
+from China's *普通高中教科书·体育与健康必修 全一册 (PEP Senior-High
+PE & Health, Compulsory, Complete Volume)* (student book,
+Chinese, People's Education Press) stocked — 11 into existing
+lessons (Healthy Habits Every Day, Preventing Common Diseases,
+Eating a Balanced Diet, Keeping Our Environment Healthy,
+Staying Safe While Exercising, Preventing Sports Injuries and
+First Aid ×3, Doping — What It Is and What It Costs, Staying
+Safe on the Street, Self-Defence Techniques) and 2 as new
+lessons (Caring for My Senses, Mental Health and Wellbeing) —
+bringing this course to **33 lessons**. The China book is a
+student book, so China is student-book stock, inside the
+acceptance counts; each new lesson stands at acceptance
+count 1, and each existing lesson it touches rose by 1 country.
+China was omitted from the original Health merge order; a
+coordinator audit found its Health placements unmerged — this
+merge closes that gap. Records 2–3 of the placements file are
+catalogue/notice records filed record-only in the PE file with
+0 placements; nothing is stocked from them. No China placement
+resolves to a PE-course lesson, so none was excluded as
+PE-bound.
+
 ## Unit 1 — Staying Safe
 
 1. **Hygiene for Sport — Wash After Exercise** (`staying-safe/hygiene-for-sport`) — personal hygiene around sport: sweat and dirt left unwashed become a breeding place for bacteria — so wash the body after PE and sport, keep sports…
@@ -293,6 +315,8 @@ PE-course lesson, so none was excluded as PE-bound.
 
 24. **Knowing My Body** (`staying-safe/knowing-my-body`) — knowing my body: the parts and organs of the body and what each one does — taught in Afghanistan's Grade 7 PE Teacher Guide as the water inside the body: body water as 40–60% of body weight, water inside and outside the cells, where the body's water comes from (drinks, food, metabolic water), and a table of the water content of common foods (Afghanistan teacher guide, evidence only).
 
+25. **Caring for My Senses** (`staying-safe/caring-for-my-senses`) — caring for my senses: the five senses and looking after eyes, ears, nose, tongue and skin — taught in China's Senior High PEP PE & Health book as preventing serious eye disease and preventing eye injuries, inside the lifestyle-and-disease-prevention section (printed p. 56).
+
 ## Unit 2 — Fair Play and the Body
 
 1. **Doping — What It Is and What It Costs** (`fair-play-and-the-body/doping-what-it-is-and-what-it-costs`) — what doping is — prohibited substances an athlete takes to gain strength and energy unfairly, strength not earned by nature or training — why it is…
@@ -300,3 +324,5 @@ PE-course lesson, so none was excluded as PE-bound.
 3. **Family and Friends** (`fair-play-and-the-body/family-and-friends`) — family and friends: family roles and love, choosing and keeping friends, manners and respect, diversity and including everyone — taught in Namibia's Grades 10–11 PE4Life Guide as healthy relationships (Healthy Lifestyle Session 5) and gender and sex: sex is not gender (Healthy Lifestyle Session 8) (Namibia teacher guide, evidence only).
 4. **Fair Play in Sport** (`fair-play-and-the-body/fair-play-in-sport`) — fair play in sport: sportsmanship, sporting values and ethics, responsibility in sport, and aggression and violence in sport — taught in Haiti's Grades 10–13 Programme-Cadre as fair play as democratic culture: identifying the values carried by games and physical activities, managing conflict in and out of play, learning refereeing and applying the rules, respecting authority and the adversary, and organising recreational tournaments for peace and camaraderie at school (Haiti teacher framework programme, evidence only).
 5. **Sports Massage and Recovery** (`fair-play-and-the-body/sports-massage-and-recovery`) — sports massage and recovery: what massage does for muscles, circulation and the mind, and its uses before, between and after competition — taught in Afghanistan's Grade 10 Teaching Guide as sports massage: what massage does for the nervous system, muscles, blood circulation, skeleton and skin, its three sporting uses (before, between and after competition), and massage to reduce an athlete's pre-game anxiety (Afghanistan teacher guide, evidence only).
+
+6. **Mental Health and Wellbeing** (`fair-play-and-the-body/mental-health-and-wellbeing`) — mental health and wellbeing: looking after the mind — stress, resilience, emotional balance, mental illness and getting help, including psychological first aid — taught in China's Senior High PEP PE & Health book as growing mental health: knowing yourself, and adapting to society, in the mental-health-and-social-adaptation section (printed p. 68).
