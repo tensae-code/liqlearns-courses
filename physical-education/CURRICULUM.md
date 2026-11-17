@@ -958,6 +958,47 @@ full circuit-training rounds, competition-fixture
 mathematics, and Myanmar's own games — sepak takraw,
 chinlone and htok-see-toe.
 
+**PE expansion — Laos — BUILT 2026-11-16:** 341 placements
+from Laos's thirteen PE teacher guides (Grades 1–6, 8–10
+and 12; Ministry of Education and Sports, Research
+Institute of Educational Sciences, Lao; read via the
+public Lao-Textbook mirror, byte sizes matching the
+secured records exactly, covers verified visually, as
+filed) stocked — 267 into existing lessons and 74 as 3
+new lessons (Traditional Games of Laos; Traditional
+Dances of Laos; Petanque) — bringing this course to
+**227 lessons**. All thirteen Laos books are TEACHER
+guides, so Laos is teacher-guide evidence only in every
+lesson it touches, outside the acceptance counts; the
+new lessons stand at acceptance count 0. The combined
+PE & Handicraft guides (Grades 1, 2, 3 and 5 of
+2007–2009 and Grade 4 of 2009) are PARTIAL as PE sources
+by design, as filed — their Handicraft parts are named,
+not placed; the Grade 3 guides of 2009 and 2021 are
+different editions with materially different lesson
+sets and both are placed, as filed. No Laos PE placement
+resolves to a Health-course lesson, so none was excluded
+as Health-bound; the Health placements inside these
+books (first aid and the self-defence strand among them)
+are filed in laos-health-placements.md. Record-only, as
+filed: Books R1–R2 are the two mislabelled "PE guide"
+files — the Grade 11 (M6) record's file is a French LV2
+teacher guide ("Français LV2 pour le lycée, Livre du
+maître", MoES/RIES 2015, 97 pp) and the Grade 7 (M2)
+record's file is a Japanese language student book
+("にほんご 2", 2018, 145 pp) — both UNREAD for PE, the
+real Grade 11 and Grade 7 PE guides not held (library
+debt); the BEQUAL news page, the Google Drive view-only
+records and the ministry duplicate routes carry 0
+placements. Laos's own way is content: primary PE built
+from short body-exercise posture lessons interleaved
+with rhythmic gymnastics to music, formation drill, and
+dozens of named Lao folk dances (fon) and playground
+games; secondary PE taught event by event, ending in
+Grade 12 with apparatus gymnastics, the triple jump,
+all three high-jump styles, and football and petanque
+as the two-sport elective.
+
 ## Unit 1 — Moving Basics
 
 1. **Combined Travelling and On-the-Spot Movements** (`moving-basics/combined-travelling-and-on-the-spot`) — joining travelling movements together, joining on-the-spot movements together, and chaining the two families in one sequence.
@@ -1117,6 +1158,7 @@ chinlone and htok-see-toe.
 40. **The Rules of Netball** (`ball-games/the-rules-of-netball`) — the rules of netball: positions, court areas and how the game is played — taught in Rwanda's Senior Two teacher's guide as the basic rules of netball (Rwanda's teacher guide, evidence only).
 41. **Introducing Racket Games** (`ball-games/introducing-racket-games`) — introducing racket games: first skills with a racket and bat — bouncing, hitting to a wall or partner, and first rallies — taught in DR Congo's Grade 1 EPS book as tennis first skills (palm, then small racket, to a wall or partner) and in its Grade 2 book as the table-tennis first skills (bat grip, bouncing on the table) (DR Congo's student books).
 42. **Refereeing and Fair Play** (`ball-games/refereeing-and-fair-play`) — refereeing and fair play: taking the whistle, judging impartially and playing fair — taught in DR Congo's 2ème Pédagogie Générale manual as refereeing and sportsmanship, with pupils taking the whistle (DR Congo's student book).
+43. **Petanque** (`ball-games/petanque`) — petanque: the story of the game and how to hold, point and shoot the boule — taught in Laos's Grade 12 (M7) teacher guide as its two-sport elective's second sport: the history and importance of petanque, a leading Lao sport, the basic petanque throwing techniques, and the rules of petanque, each cited to the guide's year scheme of work (Laos's teacher guide, evidence only).
 
 
 ## Unit 6 — Games to Play
@@ -1216,6 +1258,8 @@ chinlone and htok-see-toe.
 58. **Traditional Games of Turkey** (`traditional-games-and-dances/traditional-games-of-turkey`) — traditional games of Turkey: Turkey's traditional children's games and cultural game heritage — taught in Turkey's music-school books as Geleneksel Çocuk Oyunları (traditional children's games) at grades 2, 5, 6 and 7, and in its middle-school books as the theme Kültürel Birikimlerimiz ve Oyun, our cultural heritage and games (Turkey's student books; its teacher guides, evidence only).
 59. **Traditional Dances of Turkey** (`traditional-games-and-dances/traditional-dances-of-turkey`) — traditional dances of Turkey: the folk dances — Horon, Halay, Zeybek, Kaşık spoon dances and Karşılama — their features, dress and steps — taught across Turkey's music-school books dance by dance: folk-dance types and basic movements, Horon of the Black Sea, Halay, Zeybek of the Aegean, the Kaşık spoon dances and the Karşılama dance-games of Thrace (Turkey's student books; its differentiation teacher guides, evidence only).
 60. **Traditional Games of Myanmar** (`traditional-games-and-dances/traditional-games-of-myanmar`) — traditional games of Myanmar: Myanmar's own games — Htok-See-Toe tag, the Jasmine Flower game and White Rope, Black Rope — taught in Myanmar's Grade 6 and Grade 7 student books as Htok-See-Toe, the traditional line-crossing tag game with its court zones, runners, taggers and full rules, and in its Grade 2 student book as the two named traditional call-and-chase games, "What Time Is It, Great Jasmine Flower?" and White Rope, Black Rope, each printed with its full rules (Myanmar's student books; its teacher guides, evidence only).
+61. **Traditional Games of Laos** (`traditional-games-and-dances/traditional-games-of-laos`) — traditional games of Laos: the named Lao playground and chase games — animal games, circle games, dance-games and ball games — taught across Laos's primary teacher guides (Grades 1–5, 2007–2021) as named games: the bear carries rice, snatch the monkey's tail, the tiger chases the pig, Nang Mon hides the cloth, catch the rabbit, catch the bird, flowing water and whirlpool, the tortoise lays eggs, kick the ball at the target, zigzag running and dozens more (Laos's teacher guides, evidence only).
+62. **Traditional Dances of Laos** (`traditional-games-and-dances/traditional-dances-of-laos`) — traditional dances of Laos: the Lao folk dances (fon), taught step by step — taught in Laos's 2007–2009 primary teacher guides and its Grade 4 guide of 2009 as one named dance at a time: Kan Bin, Songkran, Thang Viset, Yat Duang, sending and receiving, dancing around the post and dozens more (Laos's teacher guides, evidence only).
 
 ## Unit 8 — Sport and Its Story
 

@@ -1,6 +1,6 @@
 # Sources — Games for Quick Decisions
 
-countries: Ethiopia, Thailand, Philippines, Nicaragua, Cuba, Papua New Guinea, Turkey, Myanmar
+countries: Ethiopia, Thailand, Philippines, Nicaragua, Cuba, Papua New Guinea, Turkey, Myanmar, Laos
 
 **Book 1:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–81 + front matter (88 PDF pages). Printed page = PDF page − 7. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md.
 
@@ -53,7 +53,7 @@ countries: Ethiopia, Thailand, Philippines, Nicaragua, Cuba, Papua New Guinea, T
 | Sub lesson 11 — Squat and stand; the Green-Yellow-Red game (teacher guide — evidence) | Ethiopia, *Grade 1 Teacher Guide*, squat/stand sequence and the Green-Yellow-Red game (teacher guide — evidence), printed pp. 14–15 |
 | Prove-it questions folded from the book's own Chapter 2 review — Sub lesson 9 (teacher guide — evidence) | Ethiopia, *Grade 7 Teacher Guide*, Chapter 2 review answers, printed pp. 25–26 (teacher guide — evidence) |
 | Thailand — Unit 3, Ch. 2 Game activities — games that use thinking and decision skills, lead-up games towards a chosen sport, and turn-and-change movement activities (student book — SSR flipbook sample, PARTIAL) (original target `games-to-play/games-for-quick-decisions`) | Thailand, *Health & PE, Grade 5* (Thailand Grade 5 SSR Health & PE), Unit 3, Ch. 2, printed pp. 67–77 |
-**Acceptance count: taught in 5 countries (Ethiopia, Thailand, Philippines, Turkey, Myanmar).** Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count; the Myanmar teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
+**Acceptance count: taught in 5 countries (Ethiopia, Thailand, Philippines, Turkey, Myanmar).** Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count; the Myanmar teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Laos is added as teacher-guide evidence only (see its Laos section below), named in the countries line but outside the acceptance count.
 
 The Grade 1 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -345,3 +345,24 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/myanmar-pe-p
 | Myanmar — Lesson plans, Games unit — teaching the hider game (Ch. 16) (original target `games-to-play/games-for-quick-decisions`) | Myanmar G4 PE Teacher Guide, Games unit lesson plans |
 
 Myanmar's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Myanmar is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 7, Book 8, Book 10, Book 11); its teacher guides stocked here (Book 9, Book 12, Book 13, Book 14) are evidence only, outside the acceptance count. The learnbig.net mirror records of these books are parallel records of the same books, not separate books, as filed in the placements file's reconciliation. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Laos — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/laos-pe-placements.md. Laos's thirteen books read for this expansion are all TEACHER guides (Ministry of Education and Sports, Research Institute of Educational Sciences, Lao), read via the public Lao-Textbook mirror (byte sizes match the secured records exactly) after the private-repo grab route dropped connections, covers verified visually, as filed. Laos is therefore filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. Combined PE & Handicraft guides (Books 2, 6, 7, 11, 12) are PARTIAL as PE sources by design, exactly as filed — their Handicraft parts are named in the book lines, not placed; the 2009 Grade 3 guide (Book 7) and the 2021 Grade 3 guide (Book 1) are different editions with materially different lesson sets and both are placed, as filed; pure revision lessons named in the book tallies are excluded, as filed.
+
+## Book 4 — G2 PE Teacher Guide 2020 (teacher guide, Lao)
+
+- Title as printed: ຄູ່ມືຄູ ພະລະສຶກສາ ຊັ້ນປະຖົມສຶກສາ ປີທີ 2 (Teacher Guide, Physical Education, Primary Grade 2)
+- Grade: 2 (student/teacher: TEACHER)
+- Publisher: Ministry of Education and Sports, Research Institute of Educational Sciences; year 2020; ISBN no ISBN printed
+- PDF pages: 150 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 29 placements — 22 to existing lessons, 7 NEW LESSON NEEDED
+- Laos's own way: Grade 2 keeps the exercise-lesson/game-lesson alternation of Grade 1 but works in pairs, adds drill turns, and builds the music-exercise strand by body region (upper, middle, lower, then combined sets).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/laos-pe-placements.md. This book is a TEACHER guide, so Laos is filed as teacher-guide evidence only in every lesson it touches — named in the countries line and provenance rows, but outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laos — Lesson 5 Game: run and collect the things: a collecting race game (teacher guide — evidence) (original target `games-to-play/games-for-quick-decisions`) | Laos, *Laos Grade 2 G2 PE TG 2020*, printed p. 29 |
+
+Laos's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. All thirteen Laos books stocked in this expansion are TEACHER guides, so Laos is teacher-guide evidence only in this lesson, outside the acceptance count. The two mislabelled "PE guide" files recorded in the placements file (Books R1–R2) are record-only UNREAD for PE, exactly as filed: the Grade 11 (M6) record's file is a French LV2 teacher guide and the Grade 7 (M2) record's file is a Japanese language student book; the real Grade 11 and Grade 7 PE guides are not held — library debt, as filed. Game, dance and sport rules are taught only as the placements summarise them; none have been invented.

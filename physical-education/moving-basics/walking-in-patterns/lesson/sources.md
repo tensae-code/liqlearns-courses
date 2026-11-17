@@ -1,6 +1,6 @@
 # Sources — Walking in Patterns
 
-countries: Ethiopia, Mozambique, Kazakhstan, El Salvador, Philippines, Nicaragua, Belize, Cuba, Kuwait, Oman, Rwanda, Greece, DR Congo, Myanmar
+countries: Ethiopia, Mozambique, Kazakhstan, El Salvador, Philippines, Nicaragua, Belize, Cuba, Kuwait, Oman, Rwanda, Greece, DR Congo, Myanmar, Laos
 
 **Book — Grade 1 student:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 81 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md. COMPLETE.
 
@@ -28,7 +28,7 @@ countries: Ethiopia, Mozambique, Kazakhstan, El Salvador, Philippines, Nicaragua
 | Mozambique — 2.ª Parte, Exercícios de organização e controlo: Formaturas — organisation and control exercises: the basic formations, done to command voices (teacher guide — evidence) (original target `moving-basics/walking-in-patterns`) | Mozambique, *Grade 1 Teacher Manual (Educação Física)*, 2.ª Parte, Exercícios de organização e controlo: Formaturas, printed p. 200 |
 | Mozambique — 2.ª Parte, Marchas — marching: files and columns all moving in the same direction (teacher guide — evidence) (original target `moving-basics/walking-in-patterns`) | Mozambique, *Grade 1 Teacher Manual (Educação Física)*, 2.ª Parte, Marchas, printed p. 204 |
 | Kazakhstan — All quarters — drill/formation exercises (строевые упражнения): turns, counting off, reforming ranks, and marching on the count (teacher guide — evidence) (original target `moving-basics/walking-in-patterns`) | Kazakhstan, *Physical Culture, Methodological Guide for Grade 4 Teachers* (Kazakhstan Grade 4 TG), printed pp. 4–5, 20, 48 |
-**Acceptance count: taught in 6 countries (Ethiopia, Philippines, Nicaragua, Greece, DR Congo, Myanmar).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count; the Myanmar teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
+**Acceptance count: taught in 6 countries (Ethiopia, Philippines, Nicaragua, Greece, DR Congo, Myanmar).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count; the Myanmar teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Laos is added as teacher-guide evidence only (see its Laos section below), named in the countries line but outside the acceptance count.
 
 The Grade 4 teacher guide scan is TRUNCATED: it holds printed pp. 1–39 of 72+. Missing: all of Chapter 4 (pp. 40–54), Chapter 5 Gymnastics (pp. 55–65) and Chapter 6 (pp. 66–72+). Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
 
@@ -385,3 +385,181 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/myanmar-pe-p
 | Myanmar — Chapter 1 Lining Up — forming lines and files, standing in order and moving off together (original target `moving-basics/walking-in-patterns`) | Myanmar G4 PE Textbook, printed p. 1 |
 
 Myanmar's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Myanmar is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 3, Book 7); its teacher guides stocked here (Book 4) are evidence only, outside the acceptance count. The learnbig.net mirror records of these books are parallel records of the same books, not separate books, as filed in the placements file's reconciliation. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Laos — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/laos-pe-placements.md. Laos's thirteen books read for this expansion are all TEACHER guides (Ministry of Education and Sports, Research Institute of Educational Sciences, Lao), read via the public Lao-Textbook mirror (byte sizes match the secured records exactly) after the private-repo grab route dropped connections, covers verified visually, as filed. Laos is therefore filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. Combined PE & Handicraft guides (Books 2, 6, 7, 11, 12) are PARTIAL as PE sources by design, exactly as filed — their Handicraft parts are named in the book lines, not placed; the 2009 Grade 3 guide (Book 7) and the 2021 Grade 3 guide (Book 1) are different editions with materially different lesson sets and both are placed, as filed; pure revision lessons named in the book tallies are excluded, as filed.
+
+## Book 2 — G4 PE & Handicraft Teacher Guide 2009 (teacher guide, Lao)
+
+- Title as printed: ຄູ່ມືຄູ ພະລະສຶກສາ ແລະ ຫັດຖະກຳ ຊັ້ນປະຖົມສຶກສາ ປີທີ 4 (Teacher Guide, Physical Education and Handicraft, Primary Grade 4)
+- Grade: 4 (student/teacher: TEACHER)
+- Publisher: Ministry of Education and Sports, Research Institute of Educational Sciences; year 2009; ISBN no ISBN printed
+- PDF pages: 203 (cover verified visually against the record title)
+- Verdict: PARTIAL as a PE source by design — combined PE + Handicraft guide; the Handicraft part (knot-tying lessons 26–27, 29, 30–31, 32, printed pp. 82–93, and the handicraft section after the PE part) is named here, not placed.
+- Tally: 26 placements — 14 to existing lessons, 12 NEW LESSON NEEDED (plus 1 Health placement from this book filed in the Health file)
+- Laos's own way: the older primary syllabus mixes formation drill and marching, a long strand of named Lao folk dances (ຟ້ອນ), counted gymnastics with and without music, and handicraft knot work in one combined guide; first aid closes the PE list.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/laos-pe-placements.md. This book is a TEACHER guide, so Laos is filed as teacher-guide evidence only in every lesson it touches — named in the countries line and provenance rows, but outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laos — Lesson 1 Forming lines and opening out, 1–4 rows: lining up and changing between one and four rows (teacher guide — evidence) (original target `moving-basics/walking-in-patterns`) | Laos, *Laos Grade 4 G4 PE & Handicraft TG 2009*, printed p. 11 |
+| Laos — Lesson 2 Drill order, rest order and marching steps: standing to order, resting and marching in formation (teacher guide — evidence) (original target `moving-basics/walking-in-patterns`) | Laos, *Laos Grade 4 G4 PE & Handicraft TG 2009*, printed p. 15 |
+| Laos — Lesson 4 Walking with left and right turns and walking back 40–50 m: turning while walking and returning over a set distance (teacher guide — evidence) (original target `moving-basics/walking-in-patterns`) | Laos, *Laos Grade 4 G4 PE & Handicraft TG 2009*, printed p. 22 |
+| Laos — Lesson 5 Counting off in line, reporting numbers and changing a line into a circle: formation counting and reshaping the class formation (teacher guide — evidence) (original target `moving-basics/walking-in-patterns`) | Laos, *Laos Grade 4 G4 PE & Handicraft TG 2009*, printed p. 24 |
+
+## Book 3 — G1 PE Teacher Guide 2020 (teacher guide, Lao)
+
+- Title as printed: ຄູ່ມືຄູ ພະລະສຶກສາ ຊັ້ນປະຖົມສຶກສາ ປີທີ 1 (Teacher Guide, Physical Education, Primary Grade 1)
+- Grade: 1 (student/teacher: TEACHER)
+- Publisher: Ministry of Education and Sports, Research Institute of Educational Sciences; year 2020 (revised curriculum 2016; master copy supported by the Australian Government, the EU and the state budget — the BEQUAL programme); ISBN no ISBN printed (registration line blank in this copy)
+- PDF pages: 125 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 29 placements — 22 to existing lessons, 7 NEW LESSON NEEDED
+- Laos's own way: Grade 1 PE in the revised curriculum alternates one body-exercise lesson with one named play lesson all year — warm-up and cool-down are taught as the first two lessons, and the games are Lao playground games (tiger chases pig, catch the bird, lightning-thunder-rain).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/laos-pe-placements.md. This book is a TEACHER guide, so Laos is filed as teacher-guide evidence only in every lesson it touches — named in the countries line and provenance rows, but outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laos — Lesson 3 Forming a straight row: lining up in a straight line (teacher guide — evidence) (original target `moving-basics/walking-in-patterns`) | Laos, *Laos Grade 1 G1 PE TG 2020*, printed p. 18 |
+| Laos — Lesson 4 Forming a cross row: lining up in a crosswise row (teacher guide — evidence) (original target `moving-basics/walking-in-patterns`) | Laos, *Laos Grade 1 G1 PE TG 2020*, printed p. 21 |
+
+## Book 4 — G2 PE Teacher Guide 2020 (teacher guide, Lao)
+
+- Title as printed: ຄູ່ມືຄູ ພະລະສຶກສາ ຊັ້ນປະຖົມສຶກສາ ປີທີ 2 (Teacher Guide, Physical Education, Primary Grade 2)
+- Grade: 2 (student/teacher: TEACHER)
+- Publisher: Ministry of Education and Sports, Research Institute of Educational Sciences; year 2020; ISBN no ISBN printed
+- PDF pages: 150 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 29 placements — 22 to existing lessons, 7 NEW LESSON NEEDED
+- Laos's own way: Grade 2 keeps the exercise-lesson/game-lesson alternation of Grade 1 but works in pairs, adds drill turns, and builds the music-exercise strand by body region (upper, middle, lower, then combined sets).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/laos-pe-placements.md. This book is a TEACHER guide, so Laos is filed as teacher-guide evidence only in every lesson it touches — named in the countries line and provenance rows, but outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laos — Lesson 3 Standing straight and standing at rest: drill stance and rest position (teacher guide — evidence) (original target `moving-basics/walking-in-patterns`) | Laos, *Laos Grade 2 G2 PE TG 2020*, printed p. 20 |
+| Laos — Lesson 4 Turning left, turning right and about-turn: drill turns on the spot (teacher guide — evidence) (original target `moving-basics/walking-in-patterns`) | Laos, *Laos Grade 2 G2 PE TG 2020*, printed p. 24 |
+
+## Book 5 — G9 (M4) PE Teacher Guide 2013 (teacher guide, Lao)
+
+- Title as printed: ຄູ່ມືຄູ ພະລະສຶກສາ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 4 (Teacher Guide, Physical Education, Secondary Year 4 = Grade 9)
+- Grade: 9 (student/teacher: TEACHER)
+- Publisher: Ministry of Education and Sports, Research Institute of Educational Sciences; year 2013; ISBN no ISBN printed
+- PDF pages: 104 (cover verified visually against the record title; legacy-font text layer, read from page renders)
+- Verdict: COMPLETE
+- Tally: 17 placements — 16 to existing lessons, 1 NEW LESSON NEEDED (plus 5 Health placements from this book filed in the Health file: the accident-causes theory lesson and the self-defence strand; lesson 19 is a combined review lesson, excluded as revision)
+- Laos's own way: the lower-secondary guide is organised in three parts — gymnastics (formation drill, the nine counted postures to music, climbing and tumbling), athletics (running, jumping, shot put, high jump), and an elective sport, here freestyle swimming taught as a 14-hour unit; a Lao striking/falling self-defence strand runs through the athletics part.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/laos-pe-placements.md. This book is a TEACHER guide, so Laos is filed as teacher-guide evidence only in every lesson it touches — named in the countries line and provenance rows, but outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laos — Lesson 2 Reporting in formation, standing and sitting in line: reporting to the teacher when lined up, standing and sitting in formation (teacher guide — evidence) (original target `moving-basics/walking-in-patterns`) | Laos, *Laos Grade 9 G9 PE TG 2013*, printed p. 4 |
+| Laos — Lesson 3 Stepping and marching development: marching steps and stepping drills in formation (teacher guide — evidence) (original target `moving-basics/walking-in-patterns`) | Laos, *Laos Grade 9 G9 PE TG 2013*, printed p. 7 |
+
+## Book 6 — G1 PE & Handicraft Teacher Guide 2007 (teacher guide, Lao)
+
+- Title as printed: ຄູ່ມືຄູ ພະລະສຶກສາ ແລະ ຫັດຖະກຳ ຊັ້ນປະຖົມສຶກສາ ປີທີ 1 (Teacher Guide, Physical Education and Handicraft, Primary Grade 1)
+- Grade: 1 (student/teacher: TEACHER)
+- Publisher: Ministry of Education and Sports, Research Institute of Educational Sciences; year 2007; ISBN no ISBN printed
+- PDF pages: 159 (cover verified visually against the record title; scanned book, read from the contents page and introduction)
+- Verdict: PARTIAL as a PE source by design — combined PE + Handicraft guide; the Handicraft part (printed pp. 79 onward) is named here, not placed. Pure revision lessons 3, 6, 9 and 28 are named in the tally note, not placed, per the standing exclusions.
+- Tally: 26 placements — 13 to existing lessons, 13 NEW LESSON NEEDED (4 revision lessons excluded)
+- Laos's own way: the 2007 Grade 1 course has four strands — formation drill, gymnastics postures, gymnastics with music, and dance/games (ການຟ້ອນ) — and most of its movement content is named Lao folk dances and dance-games, a strand the 2020 revised edition replaced with playground games.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/laos-pe-placements.md. This book is a TEACHER guide, so Laos is filed as teacher-guide evidence only in every lesson it touches — named in the countries line and provenance rows, but outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laos — Lesson 1 Learning formation drill: first lining-up and formation work (teacher guide — evidence) (original target `moving-basics/walking-in-patterns`) | Laos, *Laos Grade 1 G1 PE & Handicraft TG 2007*, printed p. 5 |
+| Laos — Lesson 4 Drill order and rest order: standing to order and resting in formation (teacher guide — evidence) (original target `moving-basics/walking-in-patterns`) | Laos, *Laos Grade 1 G1 PE & Handicraft TG 2007*, printed p. 12 |
+
+## Book 7 — G3 PE & Handicraft Teacher Guide 2009 (teacher guide, Lao)
+
+- Title as printed: ຄູ່ມືຄູ ພະລະສຶກສາ ແລະ ຫັດຖະກຳ ຊັ້ນປະຖົມສຶກສາ ປີທີ 3 (Teacher Guide, Physical Education and Handicraft, Primary Grade 3)
+- Grade: 3 (student/teacher: TEACHER)
+- Publisher: Ministry of Education and Sports, Research Institute of Educational Sciences; year 2009; ISBN no ISBN printed
+- PDF pages: 187 (cover verified visually against the record title; read from the contents pages — this 2009 edition's lesson set differs materially from the 2021 edition filed as Book 1, so both are placed)
+- Verdict: PARTIAL as a PE source by design — combined PE + Handicraft guide; the Handicraft part is named here, not placed. Pure revision lessons 5, 29 and 33 are excluded per the standing exclusions.
+- Tally: 30 placements — 20 to existing lessons, 10 NEW LESSON NEEDED (3 revision lessons excluded)
+- Laos's own way: same four-strand pattern as Grade 1 2007 (drill, gymnastics, gymnastics with music, folk dance), closing with a balance strand — keeping low balance and high balance as named lessons.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/laos-pe-placements.md. This book is a TEACHER guide, so Laos is filed as teacher-guide evidence only in every lesson it touches — named in the countries line and provenance rows, but outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laos — Lesson 1 Forming lines and opening out: formation drill (teacher guide — evidence) (original target `moving-basics/walking-in-patterns`) | Laos, *Laos Grade 3 G3 PE & Handicraft TG 2009*, printed p. 10 |
+| Laos — Lesson 2 Counting off in line: counting numbers in formation (teacher guide — evidence) (original target `moving-basics/walking-in-patterns`) | Laos, *Laos Grade 3 G3 PE & Handicraft TG 2009*, printed p. 14 |
+| Laos — Lesson 4 Changing formations: reshaping the class formation (teacher guide — evidence) (original target `moving-basics/walking-in-patterns`) | Laos, *Laos Grade 3 G3 PE & Handicraft TG 2009*, printed p. 19 |
+| Laos — Lesson 8 Formation drill: closing ranks (title as printed: ກັບທັງທັບ): formation work (teacher guide — evidence) (original target `moving-basics/walking-in-patterns`) | Laos, *Laos Grade 3 G3 PE & Handicraft TG 2009*, printed p. 31 |
+| Laos — Lesson 9 Walking in straight lines: straight-line walking drill (teacher guide — evidence) (original target `moving-basics/walking-in-patterns`) | Laos, *Laos Grade 3 G3 PE & Handicraft TG 2009*, printed p. 34 |
+
+## Book 8 — G6 (M1) PE Teacher Guide 2012 (teacher guide, Lao)
+
+- Title as printed: ຄູ່ມືຄູ ພະລະສຶກສາ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 1 (Teacher Guide, Physical Education, Secondary Year 1 = Grade 6)
+- Grade: 6 (student/teacher: TEACHER)
+- Publisher: Ministry of Education and Sports, Research Institute of Educational Sciences; year 2012; ISBN no ISBN printed
+- PDF pages: 96 (title page verified visually against the record title; read from the contents page and lesson pages)
+- Verdict: COMPLETE
+- Tally: 27 placements — 27 to existing lessons, 0 NEW LESSON NEEDED
+- Laos's own way: the first secondary guide splits into gymnastics (drill, the posture sets, climbing, long-rope jumping), athletics taught event by event with the long jump and high jump broken into run-up / take-off / flight / landing lessons, and one elective sport — football basics.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/laos-pe-placements.md. This book is a TEACHER guide, so Laos is filed as teacher-guide evidence only in every lesson it touches — named in the countries line and provenance rows, but outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laos — Lesson 2 Forming rows, from 1 to 4 rows: formation drill (teacher guide — evidence) (original target `moving-basics/walking-in-patterns`) | Laos, *Laos Grade 6 G6 PE TG 2012*, printed p. 2 |
+| Laos — Lesson 3 Turning left: drill turns to the left (teacher guide — evidence) (original target `moving-basics/walking-in-patterns`) | Laos, *Laos Grade 6 G6 PE TG 2012*, printed p. 6 |
+| Laos — Lesson 4 Turning right: drill turns to the right (teacher guide — evidence) (original target `moving-basics/walking-in-patterns`) | Laos, *Laos Grade 6 G6 PE TG 2012*, printed p. 9 |
+| Laos — Lesson 5 Drill order and rest order: standing to order and at rest (teacher guide — evidence) (original target `moving-basics/walking-in-patterns`) | Laos, *Laos Grade 6 G6 PE TG 2012*, printed p. 11 |
+
+## Book 9 — G8 (M3) PE Teacher Guide 2012 (teacher guide, Lao)
+
+- Title as printed: ຄູ່ມືຄູ ພະລະສຶກສາ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 3 (Teacher Guide, Physical Education, Secondary Year 3 = Grade 8)
+- Grade: 8 (student/teacher: TEACHER)
+- Publisher: Ministry of Education and Sports, Research Institute of Educational Sciences; year 2012; ISBN no ISBN printed
+- PDF pages: 106 (cover verified visually against the record title; read from the contents pages and introduction)
+- Verdict: COMPLETE
+- Tally: 26 placements — 26 to existing lessons, 0 NEW LESSON NEEDED (plus 1 Health placement from this book filed in the Health file)
+- Laos's own way: Grade 8 athletics is the 800 m taught bend by bend, then the hang-style long jump and stride-style high jump each split into run-up / take-off / flight / landing; the elective sport is volleyball, taught as one long basic-techniques lesson (serve, receive, set, spike, block).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/laos-pe-placements.md. This book is a TEACHER guide, so Laos is filed as teacher-guide evidence only in every lesson it touches — named in the countries line and provenance rows, but outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laos — Lesson 2 Marching and formation drill: marching in formation (teacher guide — evidence) (original target `moving-basics/walking-in-patterns`) | Laos, *Laos Grade 8 G8 PE TG 2012*, printed p. 2 |
+| Laos — Lesson 3 Opening out the formation: changing the shape of the class formation (teacher guide — evidence) (original target `moving-basics/walking-in-patterns`) | Laos, *Laos Grade 8 G8 PE TG 2012*, printed p. 6 |
+| Laos — Lesson 4 Rhythmic walking in a straight line: walking to rhythm in straight lines (teacher guide — evidence) (original target `moving-basics/walking-in-patterns`) | Laos, *Laos Grade 8 G8 PE TG 2012*, printed p. 8 |
+
+## Book 11 — G2 PE & Handicraft Teacher Guide 2007 (teacher guide, Lao)
+
+- Title as printed: ຄູ່ມືຄູ ພະລະສຶກສາ ແລະ ຫັດຖະກຳ ຊັ້ນປະຖົມສຶກສາ ປີທີ 2 (Teacher Guide, Physical Education and Handicraft, Primary Grade 2)
+- Grade: 2 (student/teacher: TEACHER)
+- Publisher: Ministry of Education and Sports, Research Institute of Educational Sciences; year 2007; ISBN no ISBN printed
+- PDF pages: 183 (cover verified visually against the record title; read from the contents pages)
+- Verdict: PARTIAL as a PE source by design — combined PE + Handicraft guide; the Handicraft part is named here, not placed. Pure revision lessons 4, 5, 10, 11 and 14 are excluded per the standing exclusions.
+- Tally: 28 placements — 18 to existing lessons, 10 NEW LESSON NEEDED (5 revision lessons excluded)
+- Laos's own way: the 2007 Grade 2 book follows the same drill / gymnastics / music-gymnastics / folk-dance pattern as Grades 1 and 3 of its series, with the dance-games drawn from Lao children's play (cat and mouse, catch the bird, who is fastest).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/laos-pe-placements.md. This book is a TEACHER guide, so Laos is filed as teacher-guide evidence only in every lesson it touches — named in the countries line and provenance rows, but outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laos — Lesson 1 Drill order and rest order: standing to order and at rest (teacher guide — evidence) (original target `moving-basics/walking-in-patterns`) | Laos, *Laos Grade 2 G2 PE & Handicraft TG 2007*, printed pp. 5–7 |
+| Laos — Lesson 2 The rest order: resting in formation (teacher guide — evidence) (original target `moving-basics/walking-in-patterns`) | Laos, *Laos Grade 2 G2 PE & Handicraft TG 2007*, printed pp. 8–9 |
+| Laos — Lesson 7 Turning left and turning right: drill turns (teacher guide — evidence) (original target `moving-basics/walking-in-patterns`) | Laos, *Laos Grade 2 G2 PE & Handicraft TG 2007*, printed pp. 18–20 |
+| Laos — Lesson 8 Formation drill (title as printed: ກັບທັງທັບ): formation work (teacher guide — evidence) (original target `moving-basics/walking-in-patterns`) | Laos, *Laos Grade 2 G2 PE & Handicraft TG 2007*, printed pp. 21–22 |
+| Laos — Lesson 13 Forming and opening lines: formation drill (teacher guide — evidence) (original target `moving-basics/walking-in-patterns`) | Laos, *Laos Grade 2 G2 PE & Handicraft TG 2007*, printed pp. 32–33 |
+
+## Book 12 — G5 PE & Handicraft Teacher Guide 2009 (teacher guide, Lao)
+
+- Title as printed: ຄູ່ມືຄູ ພະລະສຶກສາ ແລະ ຫັດຖະກຳ ຊັ້ນປະຖົມສຶກສາ ປີທີ 5 (Teacher Guide, Physical Education and Handicraft, Primary Grade 5)
+- Grade: 5 (student/teacher: TEACHER)
+- Publisher: Ministry of Education and Sports, Research Institute of Educational Sciences; year 2009; ISBN no ISBN printed
+- PDF pages: 233 (cover verified visually against the record title; read from the contents pages)
+- Verdict: PARTIAL as a PE source by design — combined PE + Handicraft guide; Handicraft lessons 31 (tying shoelaces/knots) and 32 (printed pp. 100–104) are named here, not placed; lesson 33 (first aid) is filed in the Health file.
+- Tally: 30 placements — 20 to existing lessons, 10 NEW LESSON NEEDED (plus 1 Health placement)
+- Laos's own way: Grade 5 keeps the dance-game strand but adds real athletics (60 m running, standing and ordinary long jump) and apparatus climbing, and closes the PE list with first aid — the oldest primary pupils get the fullest course in the series.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/laos-pe-placements.md. This book is a TEACHER guide, so Laos is filed as teacher-guide evidence only in every lesson it touches — named in the countries line and provenance rows, but outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laos — Lesson 1 Drill order, rest order and marching: formation drill with marching (teacher guide — evidence) (original target `moving-basics/walking-in-patterns`) | Laos, *Laos Grade 5 G5 PE & Handicraft TG 2009*, printed pp. 11–14 |
+| Laos — Lesson 3 Forming rows of 1, 2, 3 and 4: formation drill (teacher guide — evidence) (original target `moving-basics/walking-in-patterns`) | Laos, *Laos Grade 5 G5 PE & Handicraft TG 2009*, printed pp. 18–20 |
+| Laos — Lesson 5 Making circles: from one circle to two: formation changes into circles (teacher guide — evidence) (original target `moving-basics/walking-in-patterns`) | Laos, *Laos Grade 5 G5 PE & Handicraft TG 2009*, printed pp. 24–25 |
+
+Laos's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. All thirteen Laos books stocked in this expansion are TEACHER guides, so Laos is teacher-guide evidence only in this lesson, outside the acceptance count. The two mislabelled "PE guide" files recorded in the placements file (Books R1–R2) are record-only UNREAD for PE, exactly as filed: the Grade 11 (M6) record's file is a French LV2 teacher guide and the Grade 7 (M2) record's file is a Japanese language student book; the real Grade 11 and Grade 7 PE guides are not held — library debt, as filed. Game, dance and sport rules are taught only as the placements summarise them; none have been invented.

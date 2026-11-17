@@ -1,8 +1,8 @@
 # Sources — The Rules of Football
 
-countries: North Macedonia, Jordan, Rwanda, Greece
+countries: North Macedonia, Jordan, Rwanda, Greece, Laos
 
-**Acceptance count: taught in 3 countries (North Macedonia, Jordan, Greece).** Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. North Macedonia is student-book stock (see its rows below), inside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count.
+**Acceptance count: taught in 3 countries (North Macedonia, Jordan, Greece).** Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. North Macedonia is student-book stock (see its rows below), inside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count. Laos is added as teacher-guide evidence only (see its Laos section below), named in the countries line but outside the acceptance count.
 
 ## North Macedonia — PE expansion 2026-11-16
 
@@ -146,3 +146,24 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/greece-pe-pl
 | Greece — Ποδόσφαιρο (Football — history and rules) — football in Greece from Corfu 1866, the federation of 1926 and FIFA 1927; women play too; the pitch 90-120 × 45-90 m and the rules, including dangerous play (original target `ball-games/the-rules-of-football`) | Greece Grades 7-9 Fysiki Agogi Gymnasiou, printed p. 24 |
 
 Greece's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Greece is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Laos — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/laos-pe-placements.md. Laos's thirteen books read for this expansion are all TEACHER guides (Ministry of Education and Sports, Research Institute of Educational Sciences, Lao), read via the public Lao-Textbook mirror (byte sizes match the secured records exactly) after the private-repo grab route dropped connections, covers verified visually, as filed. Laos is therefore filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. Combined PE & Handicraft guides (Books 2, 6, 7, 11, 12) are PARTIAL as PE sources by design, exactly as filed — their Handicraft parts are named in the book lines, not placed; the 2009 Grade 3 guide (Book 7) and the 2021 Grade 3 guide (Book 1) are different editions with materially different lesson sets and both are placed, as filed; pure revision lessons named in the book tallies are excluded, as filed.
+
+## Book 13 — G10 (M5) PE Teacher Guide 2014 (teacher guide, Lao)
+
+- Title as printed: ຄູ່ມືຄູ ພະລະສຶກສາ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 5 (Teacher Guide, Physical Education, Secondary Year 5 = Grade 10)
+- Grade: 10 (student/teacher: TEACHER)
+- Publisher: Ministry of Education and Sports, Research Institute of Educational Sciences; year 2014; ISBN no ISBN printed
+- PDF pages: 121 (cover verified visually against the record title; read from the introduction, concept maps and lesson pages. NOTE: the download-list mirror copy of "m5_physical-education.pdf" is a different, smaller file — a French L1 teacher guide — and was NOT used; this filing is from the secured GitHub copy, byte size 3,690,517 as recorded)
+- Verdict: COMPLETE (assessment lesson 7 and review lessons 18 and 22 excluded per the standing exclusions)
+- Tally: 22 placements — 21 to existing lessons, 1 NEW LESSON NEEDED
+- Laos's own way: Grade 10 gymnastics is rope climbing and bar work taught separately for boys (parallel bars) and girls (bar), athletics is the 100 m and the 4×100 m relay plus hang-style long jump and two shot-put styles, and the 14-hour elective is football taught whole — history, techniques and rules in two long lessons.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/laos-pe-placements.md. This book is a TEACHER guide, so Laos is filed as teacher-guide evidence only in every lesson it touches — named in the countries line and provenance rows, but outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laos — Lessons 24–25 The rules of football: field, players, fouls and restarts as taught in the elective block (teacher guide — evidence) (original target `ball-games/the-rules-of-football`) | Laos, *Laos Grade 10 G10 PE TG 2014*, printed p. 107 |
+
+Laos's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. All thirteen Laos books stocked in this expansion are TEACHER guides, so Laos is teacher-guide evidence only in this lesson, outside the acceptance count. The two mislabelled "PE guide" files recorded in the placements file (Books R1–R2) are record-only UNREAD for PE, exactly as filed: the Grade 11 (M6) record's file is a French LV2 teacher guide and the Grade 7 (M2) record's file is a Japanese language student book; the real Grade 11 and Grade 7 PE guides are not held — library debt, as filed. Game, dance and sport rules are taught only as the placements summarise them; none have been invented.

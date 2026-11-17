@@ -1,6 +1,6 @@
 # Sources — Kicking, Passing and Dribbling
 
-countries: Ethiopia, Kazakhstan, Tajikistan, Timor-Leste, Pakistan, China, El Salvador, Azerbaijan, Maldives, Belize, Honduras, Mauritius, Iran, North Macedonia, Jordan, Malaysia, Cuba, Kuwait, Oman, Papua New Guinea, Sri Lanka, Rwanda, Greece, DR Congo, Myanmar
+countries: Ethiopia, Kazakhstan, Tajikistan, Timor-Leste, Pakistan, China, El Salvador, Azerbaijan, Maldives, Belize, Honduras, Mauritius, Iran, North Macedonia, Jordan, Malaysia, Cuba, Kuwait, Oman, Papua New Guinea, Sri Lanka, Rwanda, Greece, DR Congo, Myanmar, Laos
 
 **Book — Grade 1 student:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 81 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md. COMPLETE.
 
@@ -51,7 +51,7 @@ countries: Ethiopia, Kazakhstan, Tajikistan, Timor-Leste, Pakistan, China, El Sa
 | Kazakhstan — Quarter 1, football elements — dribbling the ball with the inside and outside of the instep, kicking the ball, and stopping a rolling ball (teacher guide — evidence) (original target `ball-games/kicking-passing-and-dribbling`) | Kazakhstan, *Physical Culture, Methodological Guide for Grade 4 Teachers* (Kazakhstan Grade 4 TG), printed p. 5 |
 | Tajikistan — Part 2, Mini-Football — learning mini-football technique at the first stage, passing the ball with running, and the game "Score a Goal" (Забей гол) (original target `ball-games/kicking-passing-and-dribbling`) | Tajikistan, *Fizicheskaya Kultura (Physical Culture), Grades 1–4*, Part 2, printed pp. ~128–140 |
 | Timor-Leste — Appendix 4: Football/Futsal — basic rules (goalkeeper's hands, fouls, throw-ins, corners) and football games and activities (teacher guide — evidence) (original target `ball-games/kicking-passing-and-dribbling`) | Timor-Leste, *Educação Física 7, Guia do Professor* (Timor-Leste Grade 7 Teacher Guide), printed p. 157 |
-**Acceptance count: taught in 15 countries (Ethiopia, Tajikistan, Pakistan, China, Azerbaijan, Honduras, Mauritius, Iran, North Macedonia, Jordan, Malaysia, Sri Lanka, Greece, DR Congo, Myanmar).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Timor-Leste is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count; the Mauritius teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count; the Myanmar teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
+**Acceptance count: taught in 15 countries (Ethiopia, Tajikistan, Pakistan, China, Azerbaijan, Honduras, Mauritius, Iran, North Macedonia, Jordan, Malaysia, Sri Lanka, Greece, DR Congo, Myanmar).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Timor-Leste is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count; the Mauritius teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count; the Myanmar teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Laos is added as teacher-guide evidence only (see its Laos section below), named in the countries line but outside the acceptance count.
 
 The Grade 4 teacher guide scan is TRUNCATED: it holds printed pp. 1–39 of 72+. Missing: all of Chapter 4 (pp. 40–54), Chapter 5 Gymnastics (pp. 55–65) and Chapter 6 (pp. 66–72+). Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
 
@@ -1257,3 +1257,101 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/myanmar-pe-p
 | Myanmar — Lesson plans, Ball unit — teaching dribbling with the feet (Ch. 10) (original target `ball-games/kicking-passing-and-dribbling`) | Myanmar G4 PE Teacher Guide, Ball unit lesson plans |
 
 Myanmar's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Myanmar is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 1, Book 3, Book 5, Book 7, Book 8, Book 10, Book 11); its teacher guides stocked here (Book 2, Book 4, Book 6, Book 9, Book 12, Book 13, Book 14) are evidence only, outside the acceptance count. The learnbig.net mirror records of these books are parallel records of the same books, not separate books, as filed in the placements file's reconciliation. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Laos — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/laos-pe-placements.md. Laos's thirteen books read for this expansion are all TEACHER guides (Ministry of Education and Sports, Research Institute of Educational Sciences, Lao), read via the public Lao-Textbook mirror (byte sizes match the secured records exactly) after the private-repo grab route dropped connections, covers verified visually, as filed. Laos is therefore filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. Combined PE & Handicraft guides (Books 2, 6, 7, 11, 12) are PARTIAL as PE sources by design, exactly as filed — their Handicraft parts are named in the book lines, not placed; the 2009 Grade 3 guide (Book 7) and the 2021 Grade 3 guide (Book 1) are different editions with materially different lesson sets and both are placed, as filed; pure revision lessons named in the book tallies are excluded, as filed.
+
+## Book 1 — G3 PE Teacher Guide 2021 (teacher guide, Lao)
+
+- Title as printed: ຄູ່ມືຄູ ພະລະສຶກສາ ຊັ້ນປະຖົມສຶກສາ ປີທີ 3 (Teacher Guide, Physical Education, Primary Grade 3)
+- Grade: 3 (student/teacher: TEACHER)
+- Publisher: Ministry of Education and Sports, Research Institute of Educational Sciences; year 2021; ISBN no ISBN printed
+- PDF pages: 118 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 29 placements — 27 to existing lessons, 2 NEW LESSON NEEDED
+- Laos's own way: a primary PE course built from short body-exercise (ກາຍະບໍລິຫານ) posture lessons interleaved with rhythmic gymnastics to music in four passes, football skills, and named Lao chase games; every lesson is a full teacher script with objectives, warm-up, main activity and assessment.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/laos-pe-placements.md. This book is a TEACHER guide, so Laos is filed as teacher-guide evidence only in every lesson it touches — named in the countries line and provenance rows, but outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laos — Lesson 16 Football kicking basics: first kicking technique with the foot (teacher guide — evidence) (original target `ball-games/kicking-passing-and-dribbling`) | Laos, *Laos Grade 3 G3 PE TG 2021*, printed p. 61 |
+| Laos — Lesson 17 Dribbling the ball forwards: moving the ball ahead under control (teacher guide — evidence) (original target `ball-games/kicking-passing-and-dribbling`) | Laos, *Laos Grade 3 G3 PE TG 2021*, printed p. 65 |
+| Laos — Lesson 19 Combining football kicking skills: linking kicking skills in one sequence (teacher guide — evidence) (original target `ball-games/kicking-passing-and-dribbling`) | Laos, *Laos Grade 3 G3 PE TG 2021*, printed p. 73 |
+
+## Book 3 — G1 PE Teacher Guide 2020 (teacher guide, Lao)
+
+- Title as printed: ຄູ່ມືຄູ ພະລະສຶກສາ ຊັ້ນປະຖົມສຶກສາ ປີທີ 1 (Teacher Guide, Physical Education, Primary Grade 1)
+- Grade: 1 (student/teacher: TEACHER)
+- Publisher: Ministry of Education and Sports, Research Institute of Educational Sciences; year 2020 (revised curriculum 2016; master copy supported by the Australian Government, the EU and the state budget — the BEQUAL programme); ISBN no ISBN printed (registration line blank in this copy)
+- PDF pages: 125 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 29 placements — 22 to existing lessons, 7 NEW LESSON NEEDED
+- Laos's own way: Grade 1 PE in the revised curriculum alternates one body-exercise lesson with one named play lesson all year — warm-up and cool-down are taught as the first two lessons, and the games are Lao playground games (tiger chases pig, catch the bird, lightning-thunder-rain).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/laos-pe-placements.md. This book is a TEACHER guide, so Laos is filed as teacher-guide evidence only in every lesson it touches — named in the countries line and provenance rows, but outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laos — Lesson 20 Zigzag dribbling: dribbling a ball in a zigzag path (teacher guide — evidence) (original target `ball-games/kicking-passing-and-dribbling`) | Laos, *Laos Grade 1 G1 PE TG 2020*, printed p. 74 |
+
+## Book 8 — G6 (M1) PE Teacher Guide 2012 (teacher guide, Lao)
+
+- Title as printed: ຄູ່ມືຄູ ພະລະສຶກສາ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 1 (Teacher Guide, Physical Education, Secondary Year 1 = Grade 6)
+- Grade: 6 (student/teacher: TEACHER)
+- Publisher: Ministry of Education and Sports, Research Institute of Educational Sciences; year 2012; ISBN no ISBN printed
+- PDF pages: 96 (title page verified visually against the record title; read from the contents page and lesson pages)
+- Verdict: COMPLETE
+- Tally: 27 placements — 27 to existing lessons, 0 NEW LESSON NEEDED
+- Laos's own way: the first secondary guide splits into gymnastics (drill, the posture sets, climbing, long-rope jumping), athletics taught event by event with the long jump and high jump broken into run-up / take-off / flight / landing lessons, and one elective sport — football basics.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/laos-pe-placements.md. This book is a TEACHER guide, so Laos is filed as teacher-guide evidence only in every lesson it touches — named in the countries line and provenance rows, but outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laos — Lesson 27 Elective sport: basic football techniques: first football skills as the elective sport (teacher guide — evidence) (original target `ball-games/kicking-passing-and-dribbling`) | Laos, *Laos Grade 6 G6 PE TG 2012*, printed p. 86 |
+
+## Book 10 — G12 (M7) PE Teacher Guide 2016 (teacher guide, Lao)
+
+- Title as printed: ຄູ່ມືຄູ ພະລະສຶກສາ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 7 (Teacher Guide, Physical Education, Secondary Year 7 = Grade 12)
+- Grade: 12 (student/teacher: TEACHER)
+- Publisher: Ministry of Education and Sports, Research Institute of Educational Sciences; year 2016; ISBN no ISBN printed
+- PDF pages: 146 (cover verified visually against the record title; read from the introduction, the year scheme of work at printed pp. 8–9, and the lesson plans — page cites below are to the scheme of work, which lists every lesson in teaching order)
+- Verdict: COMPLETE (assessment lessons 9, 17, 22, 26 and the exam/revision weeks are excluded per the standing exclusions)
+- Tally: 22 placements — 19 to existing lessons, 3 NEW LESSON NEEDED
+- Laos's own way: the final-year guide is written as UBD lesson plans and is the most technical of the set — apparatus gymnastics on the bar, all three high-jump styles across the secondary years ending with the back layout, the triple jump, and a two-sport elective: football and petanque, each taught with its history and rules.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/laos-pe-placements.md. This book is a TEACHER guide, so Laos is filed as teacher-guide evidence only in every lesson it touches — named in the countries line and provenance rows, but outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laos — Lesson 19 Basic football techniques: the foundation football skills (teacher guide — evidence) (original target `ball-games/kicking-passing-and-dribbling`) | Laos, *Laos Grade 12 G12 PE TG 2016*, printed p. 9 (scheme) |
+
+## Book 12 — G5 PE & Handicraft Teacher Guide 2009 (teacher guide, Lao)
+
+- Title as printed: ຄູ່ມືຄູ ພະລະສຶກສາ ແລະ ຫັດຖະກຳ ຊັ້ນປະຖົມສຶກສາ ປີທີ 5 (Teacher Guide, Physical Education and Handicraft, Primary Grade 5)
+- Grade: 5 (student/teacher: TEACHER)
+- Publisher: Ministry of Education and Sports, Research Institute of Educational Sciences; year 2009; ISBN no ISBN printed
+- PDF pages: 233 (cover verified visually against the record title; read from the contents pages)
+- Verdict: PARTIAL as a PE source by design — combined PE + Handicraft guide; Handicraft lessons 31 (tying shoelaces/knots) and 32 (printed pp. 100–104) are named here, not placed; lesson 33 (first aid) is filed in the Health file.
+- Tally: 30 placements — 20 to existing lessons, 10 NEW LESSON NEEDED (plus 1 Health placement)
+- Laos's own way: Grade 5 keeps the dance-game strand but adds real athletics (60 m running, standing and ordinary long jump) and apparatus climbing, and closes the PE list with first aid — the oldest primary pupils get the fullest course in the series.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/laos-pe-placements.md. This book is a TEACHER guide, so Laos is filed as teacher-guide evidence only in every lesson it touches — named in the countries line and provenance rows, but outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laos — Lesson 24 Dance-game: dribbling the ball around the posts: dribbling practice as a game (teacher guide — evidence) (original target `ball-games/kicking-passing-and-dribbling`) | Laos, *Laos Grade 5 G5 PE & Handicraft TG 2009*, printed pp. 80–81 |
+
+## Book 13 — G10 (M5) PE Teacher Guide 2014 (teacher guide, Lao)
+
+- Title as printed: ຄູ່ມືຄູ ພະລະສຶກສາ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 5 (Teacher Guide, Physical Education, Secondary Year 5 = Grade 10)
+- Grade: 10 (student/teacher: TEACHER)
+- Publisher: Ministry of Education and Sports, Research Institute of Educational Sciences; year 2014; ISBN no ISBN printed
+- PDF pages: 121 (cover verified visually against the record title; read from the introduction, concept maps and lesson pages. NOTE: the download-list mirror copy of "m5_physical-education.pdf" is a different, smaller file — a French L1 teacher guide — and was NOT used; this filing is from the secured GitHub copy, byte size 3,690,517 as recorded)
+- Verdict: COMPLETE (assessment lesson 7 and review lessons 18 and 22 excluded per the standing exclusions)
+- Tally: 22 placements — 21 to existing lessons, 1 NEW LESSON NEEDED
+- Laos's own way: Grade 10 gymnastics is rope climbing and bar work taught separately for boys (parallel bars) and girls (bar), athletics is the 100 m and the 4×100 m relay plus hang-style long jump and two shot-put styles, and the 14-hour elective is football taught whole — history, techniques and rules in two long lessons.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/laos-pe-placements.md. This book is a TEACHER guide, so Laos is filed as teacher-guide evidence only in every lesson it touches — named in the countries line and provenance rows, but outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laos — Lessons 24–25 Basic football techniques: dribbling, passing, shooting, heading and goalkeeping (12-hour elective block) (teacher guide — evidence) (original target `ball-games/kicking-passing-and-dribbling`) | Laos, *Laos Grade 10 G10 PE TG 2014*, printed p. 107 |
+
+Laos's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. All thirteen Laos books stocked in this expansion are TEACHER guides, so Laos is teacher-guide evidence only in this lesson, outside the acceptance count. The two mislabelled "PE guide" files recorded in the placements file (Books R1–R2) are record-only UNREAD for PE, exactly as filed: the Grade 11 (M6) record's file is a French LV2 teacher guide and the Grade 7 (M2) record's file is a Japanese language student book; the real Grade 11 and Grade 7 PE guides are not held — library debt, as filed. Game, dance and sport rules are taught only as the placements summarise them; none have been invented.

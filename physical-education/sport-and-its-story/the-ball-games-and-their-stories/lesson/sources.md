@@ -1,6 +1,6 @@
 # Sources — The Ball Games and Their Stories — Football, Volleyball, Basketball, Handball
 
-countries: Ethiopia, Cyprus, Afghanistan, Honduras, North Macedonia, Greece, Myanmar
+countries: Ethiopia, Cyprus, Afghanistan, Honduras, North Macedonia, Greece, Myanmar, Laos
 
 **Book 1:** *Health and Physical Education Student's Textbook Grade 9* (student textbook, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, First Published August 2023, under GEQIP-E, ISBN 978-99990-0-072-7, printed pp. 1–156 (167 PDF pages). Printed page = PDF page − 10. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g09-student-placements.md.
 
@@ -16,7 +16,7 @@ countries: Ethiopia, Cyprus, Afghanistan, Honduras, North Macedonia, Greece, Mya
 | Sub lesson 4 — Handball's story — ancient games to the IHF | Ethiopia, *Grade 9 Student Textbook*, §7.1, printed pp. 122–125; and *Grade 9 Teacher Guide*, Unit 7, printed pp. 91–93 (teacher guide — evidence) |
 | Cyprus — Part 2, Modern Olympic Games — the Olympic sports programme, summer and winter: the team ball games among the listed sports and the eight winter sports (curling, bobsleigh, luge, skeleton, short-track and speed skating, ice hockey, figure skating) (student book) | Cyprus, *Olympic Education Insert, Lyceum Years 2–3*, Part 2, printed pp. 21–68 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Cyprus, Honduras, North Macedonia, Greece, Myanmar).** Cyprus is added as student-book stock (see its row above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count.
+**Acceptance count: taught in 6 countries (Ethiopia, Cyprus, Honduras, North Macedonia, Greece, Myanmar).** Cyprus is added as student-book stock (see its row above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count. Laos is added as teacher-guide evidence only (see its Laos section below), named in the countries line but outside the acceptance count.
 
 The Grade 9 student book and teacher guide are both complete. Guide-only details (club title counts, federation dates in the guide's fuller form) are the guide's, carried in the prose at the places they belong; the student book's own three-scope histories are the lesson's spine. Terms are the federal book's English terms as printed.
 
@@ -171,3 +171,39 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/myanmar-pe-p
 | Myanmar — §2-4-1 Football — football's story, including Myanmar's own leagues (Myanmar National League, Myanmar Women League) (original target `sport-and-its-story/the-ball-games-and-their-stories`) | Myanmar G6 PE Textbook, printed p. 54 |
 
 Myanmar's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Myanmar is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 3, Book 5). The learnbig.net mirror records of these books are parallel records of the same books, not separate books, as filed in the placements file's reconciliation. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Laos — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/laos-pe-placements.md. Laos's thirteen books read for this expansion are all TEACHER guides (Ministry of Education and Sports, Research Institute of Educational Sciences, Lao), read via the public Lao-Textbook mirror (byte sizes match the secured records exactly) after the private-repo grab route dropped connections, covers verified visually, as filed. Laos is therefore filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. Combined PE & Handicraft guides (Books 2, 6, 7, 11, 12) are PARTIAL as PE sources by design, exactly as filed — their Handicraft parts are named in the book lines, not placed; the 2009 Grade 3 guide (Book 7) and the 2021 Grade 3 guide (Book 1) are different editions with materially different lesson sets and both are placed, as filed; pure revision lessons named in the book tallies are excluded, as filed.
+
+## Book 10 — G12 (M7) PE Teacher Guide 2016 (teacher guide, Lao)
+
+- Title as printed: ຄູ່ມືຄູ ພະລະສຶກສາ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 7 (Teacher Guide, Physical Education, Secondary Year 7 = Grade 12)
+- Grade: 12 (student/teacher: TEACHER)
+- Publisher: Ministry of Education and Sports, Research Institute of Educational Sciences; year 2016; ISBN no ISBN printed
+- PDF pages: 146 (cover verified visually against the record title; read from the introduction, the year scheme of work at printed pp. 8–9, and the lesson plans — page cites below are to the scheme of work, which lists every lesson in teaching order)
+- Verdict: COMPLETE (assessment lessons 9, 17, 22, 26 and the exam/revision weeks are excluded per the standing exclusions)
+- Tally: 22 placements — 19 to existing lessons, 3 NEW LESSON NEEDED
+- Laos's own way: the final-year guide is written as UBD lesson plans and is the most technical of the set — apparatus gymnastics on the bar, all three high-jump styles across the secondary years ending with the back layout, the triple jump, and a two-sport elective: football and petanque, each taught with its history and rules.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/laos-pe-placements.md. This book is a TEACHER guide, so Laos is filed as teacher-guide evidence only in every lesson it touches — named in the countries line and provenance rows, but outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laos — Lesson 18 History of football: how football began and grew (teacher guide — evidence) (original target `sport-and-its-story/the-ball-games-and-their-stories`) | Laos, *Laos Grade 12 G12 PE TG 2016*, printed p. 9 (scheme) |
+
+## Book 13 — G10 (M5) PE Teacher Guide 2014 (teacher guide, Lao)
+
+- Title as printed: ຄູ່ມືຄູ ພະລະສຶກສາ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 5 (Teacher Guide, Physical Education, Secondary Year 5 = Grade 10)
+- Grade: 10 (student/teacher: TEACHER)
+- Publisher: Ministry of Education and Sports, Research Institute of Educational Sciences; year 2014; ISBN no ISBN printed
+- PDF pages: 121 (cover verified visually against the record title; read from the introduction, concept maps and lesson pages. NOTE: the download-list mirror copy of "m5_physical-education.pdf" is a different, smaller file — a French L1 teacher guide — and was NOT used; this filing is from the secured GitHub copy, byte size 3,690,517 as recorded)
+- Verdict: COMPLETE (assessment lesson 7 and review lessons 18 and 22 excluded per the standing exclusions)
+- Tally: 22 placements — 21 to existing lessons, 1 NEW LESSON NEEDED
+- Laos's own way: Grade 10 gymnastics is rope climbing and bar work taught separately for boys (parallel bars) and girls (bar), athletics is the 100 m and the 4×100 m relay plus hang-style long jump and two shot-put styles, and the 14-hour elective is football taught whole — history, techniques and rules in two long lessons.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/laos-pe-placements.md. This book is a TEACHER guide, so Laos is filed as teacher-guide evidence only in every lesson it touches — named in the countries line and provenance rows, but outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laos — Lesson 23 History of football: football from its early forms to FIFA and the modern game (teacher guide — evidence) (original target `sport-and-its-story/the-ball-games-and-their-stories`) | Laos, *Laos Grade 10 G10 PE TG 2014*, printed p. 103 |
+
+Laos's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. All thirteen Laos books stocked in this expansion are TEACHER guides, so Laos is teacher-guide evidence only in this lesson, outside the acceptance count. The two mislabelled "PE guide" files recorded in the placements file (Books R1–R2) are record-only UNREAD for PE, exactly as filed: the Grade 11 (M6) record's file is a French LV2 teacher guide and the Grade 7 (M2) record's file is a Japanese language student book; the real Grade 11 and Grade 7 PE guides are not held — library debt, as filed. Game, dance and sport rules are taught only as the placements summarise them; none have been invented.

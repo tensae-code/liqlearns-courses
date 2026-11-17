@@ -1,8 +1,8 @@
 # Sources — Swimming Strokes
 
-countries: Fiji, Mauritius, Iran, North Macedonia, Zimbabwe, Indonesia
+countries: Fiji, Mauritius, Iran, North Macedonia, Zimbabwe, Indonesia, Laos
 
-**Acceptance count: taught in 4 countries (Mauritius, Iran, North Macedonia, Zimbabwe).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Fiji is added as teacher-guide evidence only, named in the countries line but outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Indonesia is added as teacher-guide evidence only (see its Indonesia section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 4 countries (Mauritius, Iran, North Macedonia, Zimbabwe).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Fiji is added as teacher-guide evidence only, named in the countries line but outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Indonesia is added as teacher-guide evidence only (see its Indonesia section below), named in the countries line but outside the acceptance count. Laos is added as teacher-guide evidence only (see its Laos section below), named in the countries line but outside the acceptance count.
 
 ## Fiji — PE expansion 2026-11-16
 
@@ -164,3 +164,24 @@ Indonesia's placements in this lesson were filed under the original strings reco
 This is a canonical NEW lesson (slug-registry Part 1: `moving-basics/swimming-strokes` — Swimming strokes: front crawl (freestyle), backstroke, breaststroke and butterfly, with diving and turns.); Indonesia's placements were filed under the original strings recorded in the provenance rows above, resolved by registry Part 2 to this canonical slug where the string differs. Indonesia's rows in this lesson rest on teacher-guide evidence only — Book 12, its Grade 12 PJOK teacher guide, an older sport-by-sport unit guide that does NOT mirror the 2025 Merdeka Grade 12 student book, filed as its own book as the placements file records; Indonesia is named in the countries line and in the rows below, but outside the acceptance count.
 
 Searchable tags: swimming strokes, Indonesia, PJOK G12 Teacher
+
+## Laos — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/laos-pe-placements.md. Laos's thirteen books read for this expansion are all TEACHER guides (Ministry of Education and Sports, Research Institute of Educational Sciences, Lao), read via the public Lao-Textbook mirror (byte sizes match the secured records exactly) after the private-repo grab route dropped connections, covers verified visually, as filed. Laos is therefore filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. Combined PE & Handicraft guides (Books 2, 6, 7, 11, 12) are PARTIAL as PE sources by design, exactly as filed — their Handicraft parts are named in the book lines, not placed; the 2009 Grade 3 guide (Book 7) and the 2021 Grade 3 guide (Book 1) are different editions with materially different lesson sets and both are placed, as filed; pure revision lessons named in the book tallies are excluded, as filed.
+
+## Book 5 — G9 (M4) PE Teacher Guide 2013 (teacher guide, Lao)
+
+- Title as printed: ຄູ່ມືຄູ ພະລະສຶກສາ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 4 (Teacher Guide, Physical Education, Secondary Year 4 = Grade 9)
+- Grade: 9 (student/teacher: TEACHER)
+- Publisher: Ministry of Education and Sports, Research Institute of Educational Sciences; year 2013; ISBN no ISBN printed
+- PDF pages: 104 (cover verified visually against the record title; legacy-font text layer, read from page renders)
+- Verdict: COMPLETE
+- Tally: 17 placements — 16 to existing lessons, 1 NEW LESSON NEEDED (plus 5 Health placements from this book filed in the Health file: the accident-causes theory lesson and the self-defence strand; lesson 19 is a combined review lesson, excluded as revision)
+- Laos's own way: the lower-secondary guide is organised in three parts — gymnastics (formation drill, the nine counted postures to music, climbing and tumbling), athletics (running, jumping, shot put, high jump), and an elective sport, here freestyle swimming taught as a 14-hour unit; a Lao striking/falling self-defence strand runs through the athletics part.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/laos-pe-placements.md. This book is a TEACHER guide, so Laos is filed as teacher-guide evidence only in every lesson it touches — named in the countries line and provenance rows, but outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laos — Lesson 23 Elective sport: freestyle swimming: a 14-hour swimming unit: entering the water, body position and the freestyle stroke cycle (teacher guide — evidence) (original target `athletics/lao-swimming-freestyle`) | Laos, *Laos Grade 9 G9 PE TG 2013*, printed p. 94 |
+
+Laos's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. All thirteen Laos books stocked in this expansion are TEACHER guides, so Laos is teacher-guide evidence only in this lesson, outside the acceptance count. The two mislabelled "PE guide" files recorded in the placements file (Books R1–R2) are record-only UNREAD for PE, exactly as filed: the Grade 11 (M6) record's file is a French LV2 teacher guide and the Grade 7 (M2) record's file is a Japanese language student book; the real Grade 11 and Grade 7 PE guides are not held — library debt, as filed. Game, dance and sport rules are taught only as the placements summarise them; none have been invented.

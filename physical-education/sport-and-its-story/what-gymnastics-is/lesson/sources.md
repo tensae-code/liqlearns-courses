@@ -1,6 +1,6 @@
 # Sources — What Gymnastics Is and Why We Do It
 
-countries: Ethiopia, Mozambique, Honduras, North Macedonia, Greece
+countries: Ethiopia, Mozambique, Honduras, North Macedonia, Greece, Laos
 
 **Book 1:** *Grade 3 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–65 + front matter (72 PDF pages). Printed page = PDF page − 7. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g03-student-placements.md.
 
@@ -24,7 +24,7 @@ countries: Ethiopia, Mozambique, Honduras, North Macedonia, Greece
 | The Grade 7 pass — a short history of gymnastics | Ethiopia, *Grade 7 Student Textbook*, item 27 (§5.1), printed p. 58 |
 | Mozambique — 2.ª Parte, Ginástica de base — what basic gymnastics is and how it improves and maintains physical condition (teacher guide — evidence) (original target `sport-and-its-story/what-gymnastics-is`) | Mozambique, *Grade 1 Teacher Manual (Educação Física)*, 2.ª Parte, Ginástica de base, printed p. 199 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Honduras, North Macedonia, Greece).** Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count.
+**Acceptance count: taught in 4 countries (Ethiopia, Honduras, North Macedonia, Greece).** Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count. Laos is added as teacher-guide evidence only (see its Laos section below), named in the countries line but outside the acceptance count.
 
 The Grade 3 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -131,3 +131,24 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/greece-pe-pl
 | Greece — Η αξία της αυτοσυγκέντρωσης (The value of concentration) — concentration is necessary in artistic and rhythmic gymnastics, in the PE lesson and in every school subject (original target `sport-and-its-story/what-gymnastics-is`) | Greece Grades 7-9 Fysiki Agogi Gymnasiou, printed p. 62 |
 
 Greece's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Greece is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Laos — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/laos-pe-placements.md. Laos's thirteen books read for this expansion are all TEACHER guides (Ministry of Education and Sports, Research Institute of Educational Sciences, Lao), read via the public Lao-Textbook mirror (byte sizes match the secured records exactly) after the private-repo grab route dropped connections, covers verified visually, as filed. Laos is therefore filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. Combined PE & Handicraft guides (Books 2, 6, 7, 11, 12) are PARTIAL as PE sources by design, exactly as filed — their Handicraft parts are named in the book lines, not placed; the 2009 Grade 3 guide (Book 7) and the 2021 Grade 3 guide (Book 1) are different editions with materially different lesson sets and both are placed, as filed; pure revision lessons named in the book tallies are excluded, as filed.
+
+## Book 8 — G6 (M1) PE Teacher Guide 2012 (teacher guide, Lao)
+
+- Title as printed: ຄູ່ມືຄູ ພະລະສຶກສາ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 1 (Teacher Guide, Physical Education, Secondary Year 1 = Grade 6)
+- Grade: 6 (student/teacher: TEACHER)
+- Publisher: Ministry of Education and Sports, Research Institute of Educational Sciences; year 2012; ISBN no ISBN printed
+- PDF pages: 96 (title page verified visually against the record title; read from the contents page and lesson pages)
+- Verdict: COMPLETE
+- Tally: 27 placements — 27 to existing lessons, 0 NEW LESSON NEEDED
+- Laos's own way: the first secondary guide splits into gymnastics (drill, the posture sets, climbing, long-rope jumping), athletics taught event by event with the long jump and high jump broken into run-up / take-off / flight / landing lessons, and one elective sport — football basics.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/laos-pe-placements.md. This book is a TEACHER guide, so Laos is filed as teacher-guide evidence only in every lesson it touches — named in the countries line and provenance rows, but outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laos — Lesson 1 The importance of gymnastics (theory): why gymnastics matters in physical education (teacher guide — evidence) (original target `sport-and-its-story/what-gymnastics-is`) | Laos, *Laos Grade 6 G6 PE TG 2012*, printed p. 1 |
+
+Laos's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. All thirteen Laos books stocked in this expansion are TEACHER guides, so Laos is teacher-guide evidence only in this lesson, outside the acceptance count. The two mislabelled "PE guide" files recorded in the placements file (Books R1–R2) are record-only UNREAD for PE, exactly as filed: the Grade 11 (M6) record's file is a French LV2 teacher guide and the Grade 7 (M2) record's file is a Japanese language student book; the real Grade 11 and Grade 7 PE guides are not held — library debt, as filed. Game, dance and sport rules are taught only as the placements summarise them; none have been invented.
