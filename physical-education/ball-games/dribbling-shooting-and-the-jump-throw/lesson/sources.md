@@ -1,6 +1,6 @@
 # Sources — Dribbling, Shooting and the Jump Throw
 
-countries: Ethiopia, China, Philippines, Maldives, Belize, Honduras, Mauritius, Iran, North Macedonia, Jordan, Malaysia, Cuba, Kuwait, Oman, Rwanda, Greece
+countries: Ethiopia, China, Philippines, Maldives, Belize, Honduras, Mauritius, Iran, North Macedonia, Jordan, Malaysia, Cuba, Kuwait, Oman, Rwanda, Greece, DR Congo
 
 **Book — Grade 5 student:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 106 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md. COMPLETE.
 
@@ -32,7 +32,7 @@ countries: Ethiopia, China, Philippines, Maldives, Belize, Honduras, Mauritius, 
 | Handball — the dive throw, goalkeeping and passing — Grades 8–10 | Ethiopia, Grade 10 student §7.2 Goalkeeping, printed pp. 116–120 |
 | Handball — the dive throw, goalkeeping and passing — Grades 8–10 | Ethiopia, Grade 9 teacher Unit 7 goalkeeping (teacher guide — evidence), printed pp. 95–100 |
 | Handball — the dive throw, goalkeeping and passing — Grades 8–10 | Ethiopia, Grade 10 teacher Unit 7 advanced goalkeeping (teacher guide — evidence), printed pp. 79–80 |
-**Acceptance count: taught in 10 countries (Ethiopia, China, Philippines, Honduras, Mauritius, Iran, North Macedonia, Jordan, Malaysia, Greece).** Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. China is added as student-book stock (see its rows below), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count; the Mauritius teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count.
+**Acceptance count: taught in 11 countries (Ethiopia, China, Philippines, Honduras, Mauritius, Iran, North Macedonia, Jordan, Malaysia, Greece, DR Congo).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. China is added as student-book stock (see its rows below), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count; the Mauritius teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count.
 
 The Grade 5 and Grade 6 teacher guides' ball-games chapters are in the truncated missing ranges of those scans (G5T Chapter 6, pp. 57–77; G6T Chapter 6, pp. 65–82), so this lesson rests on the complete student books only; no teacher-guide pages are claimed for it.
 
@@ -766,3 +766,58 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/greece-pe-pl
 | Greece — Ντριπλάρισμα της μπάλας (Dribbling the ball) — in handball you may take three steps or hold the ball 3 seconds before and after the dribble (original target `ball-games/dribbling-shooting-and-the-jump-throw`) | Greece Grades 7-9 Fysiki Agogi Gymnasiou, printed p. 48 |
 
 Greece's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Greece is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## DR Congo — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-pe-placements.md. The DR Congo books stocked in this lesson are Book 2, Book 3, Book 6 — student books (French, web editions, Édition 2025, read as full HTML text; web editions have no printed pagination, so citations give part/chapter/section numbers as printed on the page). DR Congo is student-book stock, inside the acceptance count, in this lesson. DR Congo's own way is content, as the book lines below record it: Book 2: adds swimming from Grade 2 (Lake Kivu named as the safe-water example) and keeps the Congolese games — lutte, Kebo marelle, sack race, bottle-filling relay — beside mini-football, mini-basket and frisbee; Book 3: a two-year combined manual that adds Scandinavian dynamic gymnastics, plyometrics, hanging/traversing work on whatever bars or trees the school has, and effort-awareness (feeling heart and breathing) as taught content; Nzango and Matadi wrestling games adapted inside the team-games chapter; Book 6: everything is taught "by progressions" — each gymnastic figure broken into graded steps (seated roll → crouched roll → partner-assisted → "lion jump"); sports are taught with adapted equipment as official method (worn buckets as basketball hoops, a stretched string as a volleyball net), and every lesson ends with a named cool-down system: physiological détente plus "psychological derivatives" (calm games). Book 3 covers two records (Primaire 3 EPS and Primaire 4 EPS): the Primaire 4 page carries byte-identical text to the combined 3–4 page — one book, two records, placed once here with both editions named, as filed. The Sylla Store record is a paywalled catalogue homepage, filed record-only UNREAD with 0 placements — nothing stocked from it.
+
+**Book — DR Congo EPS Primaire 2 (student book, French):**
+## Book 2 — EPS Primaire 2 (student book, French)
+- Title as printed: Manuel d'Éducation Physique pour la 2ème Année Primaire en RDC – Édition 2025
+- Grade: 2ème année primaire (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 33 placements — 25 to existing lessons, 8 NEW LESSON NEEDED (plus 1 health section cross-filed in the Health placements file)
+- DR Congo's own way: adds swimming from Grade 2 (Lake Kivu named as the safe-water example) and keeps the Congolese games — lutte, Kebo marelle, sack race, bottle-filling relay — beside mini-football, mini-basket and frisbee.
+- Annexes (named, not placed per brief): Annexe 1 safety guide for gymnastics and swimming (teacher checklist — cross-filed in part to Health); Annexe 2 illustrated movement glossary (inventory-only); Annexe 3 traditional game cards (sack race, bottle relay, wrestling — support for Ch. 8); Annexe 4 example 5-minute rhythmic warm-up (support for §1.3). Chapter 9 §§9.1–9.2 and §9.4 are the book's own assessment/oral-review lessons — excluded per brief (assessment items named, not placed). §1.1 hygiene and safety of the play area cross-filed to Health.
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §7.2 Mini-basket — dribbling walking then jogging, two-hand shot at a lowered basket (original target `ball-games/dribbling-shooting-and-the-jump-throw`) | DR Congo Grade 2 EPS Primaire 2, §7.2 |
+
+**Book — DR Congo EPS Primaire 3–4 (student book, French):**
+## Book 3 — EPS Primaire 3–4 (student book, French) — covers records "Primaire 3 EPS" and "Primaire 4 EPS"
+- Title as printed: Manuel d'Éducation Physique et Sportive pour la 3ème et 4ème Année Primaire (page heading shows 4ème Année Primaire, Édition 2025)
+- Grade: 3ème–4ème année primaire (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record titles)
+- Verdict: COMPLETE. The separate "Primaire 4 EPS" record page carries byte-identical text to this combined 3–4 page (verified line-by-line, 255 lines both) — one book, two records; placed once here, both editions named.
+- Tally: 35 placements — 27 to existing lessons, 8 NEW LESSON NEEDED
+- DR Congo's own way: a two-year combined manual that adds Scandinavian dynamic gymnastics, plyometrics, hanging/traversing work on whatever bars or trees the school has, and effort-awareness (feeling heart and breathing) as taught content; Nzango and Matadi wrestling games adapted inside the team-games chapter.
+- §9.1 Recognising the signs of effort (heart, breathing, sweat; effort vs exhaustion) is body-in-exercise knowledge — filed in the Health placements file as HELD-title-decision, not placed here.
+- Annexes (named, not placed per brief): Annexe 1 model lesson sheet (teacher apparatus); Annexe 2 exercise and game bank (activity support); Annexe 3 technical glossary (inventory-only).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §8.3 Basketball dribbling — right and left hand, on the spot then moving, head up (original target `ball-games/dribbling-shooting-and-the-jump-throw`) | DR Congo Grades 3–4 EPS Primaire 3–4, §8.3 |
+| DR Congo — §8.4 Basketball lay-up — the two-step approach and finish (original target `ball-games/dribbling-shooting-and-the-jump-throw`) | DR Congo Grades 3–4 EPS Primaire 3–4, §8.4 |
+
+**Book — DR Congo EPS Primaire 6 (student book, French):**
+## Book 6 — EPS Primaire 6 (student book, French)
+- Title as printed: Manuel d'Éducation Physique et Sports pour la 6ème Primaire en RDC – Édition 2025
+- Grade: 6ème année primaire (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 36 placements — 31 to existing lessons, 5 NEW LESSON NEEDED
+- DR Congo's own way: everything is taught "by progressions" — each gymnastic figure broken into graded steps (seated roll → crouched roll → partner-assisted → "lion jump"); sports are taught with adapted equipment as official method (worn buckets as basketball hoops, a stretched string as a volleyball net), and every lesson ends with a named cool-down system: physiological détente plus "psychological derivatives" (calm games).
+- Named, not placed (programme/method apparatus): front sections §2 exit profile, §3 methodology (competency approach, lesson structure), §4 essential equipment lists (mats, relay batons, adapted balls/nets, hoops).
+- Annexes (named, not placed per brief): Annexe 1 gymnastic progression sheets (support for Ch. 1–3); Annexe 2 simplified adapted rules for basketball/volleyball (support for Ch. 5–6); Annexe 3 two cool-down protocols (support for Ch. 8–9); Annexe 4 EPS glossary (inventory-only).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — Ch. 5 §5.2 Basketball dribble and pass — fingertip push dribble head-up; chest pass and bounce pass (original target `ball-games/dribbling-shooting-and-the-jump-throw`) | DR Congo Grade 6 EPS Primaire 6, Ch. 5 §5.2 |
+| DR Congo — Ch. 5 §5.3 Shooting at the basket — elbow-under-ball set shot, leg drive and wrist flick at a hoop or bucket (original target `ball-games/dribbling-shooting-and-the-jump-throw`) | DR Congo Grade 6 EPS Primaire 6, Ch. 5 §5.3 |
+
+DR Congo's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. DR Congo is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

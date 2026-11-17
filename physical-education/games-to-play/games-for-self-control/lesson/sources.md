@@ -1,6 +1,6 @@
 # Sources — Games for Self-Control
 
-countries: Ethiopia, Tajikistan, Rwanda
+countries: Ethiopia, Tajikistan, Rwanda, DR Congo
 
 **Book 1:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–81 + front matter (88 PDF pages). Printed page = PDF page − 7. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md.
 
@@ -22,7 +22,7 @@ countries: Ethiopia, Tajikistan, Rwanda
 | Prove-it questions folded from the book's own Chapter 2 review — Sub lesson 4 (teacher guide — evidence) | Ethiopia, *Grade 6 Teacher Guide*, Chapter 2 summary + assessment answers, printed pp. 27–28 (teacher guide — evidence) |
 
 | Tajikistan — Part 1, Train Your Mind and Character; Self-Control — training will and character through exercise, and watching over your own state and progress (original target `games-to-play/games-for-self-control`) | Tajikistan, *Fizicheskaya Kultura (Physical Culture), Grades 1–4*, Part 1, printed pp. ~46–55 |
-**Acceptance count: taught in 2 countries (Ethiopia, Tajikistan).** Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 3 countries (Ethiopia, Tajikistan, DR Congo).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count.
 
 The Grade 1 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -53,3 +53,25 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/rwanda-pe-pl
 | Rwanda — Play games by following instructions (Unit 2, Lesson 4) (teacher guide — evidence) (original target `games-to-play/games-for-self-control`) | Rwanda Grade 2 PES Teacher's Guide P2, printed p. 37 |
 
 Rwanda's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Rwanda is teacher-guide evidence only in this lesson, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## DR Congo — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-pe-placements.md. The DR Congo books stocked in this lesson are Book 6 — student books (French, web editions, Édition 2025, read as full HTML text; web editions have no printed pagination, so citations give part/chapter/section numbers as printed on the page). DR Congo is student-book stock, inside the acceptance count, in this lesson. DR Congo's own way is content, as the book lines below record it: Book 6: everything is taught "by progressions" — each gymnastic figure broken into graded steps (seated roll → crouched roll → partner-assisted → "lion jump"); sports are taught with adapted equipment as official method (worn buckets as basketball hoops, a stretched string as a volleyball net), and every lesson ends with a named cool-down system: physiological détente plus "psychological derivatives" (calm games). Book 3 covers two records (Primaire 3 EPS and Primaire 4 EPS): the Primaire 4 page carries byte-identical text to the combined 3–4 page — one book, two records, placed once here with both editions named, as filed. The Sylla Store record is a paywalled catalogue homepage, filed record-only UNREAD with 0 placements — nothing stocked from it.
+
+**Book — DR Congo EPS Primaire 6 (student book, French):**
+## Book 6 — EPS Primaire 6 (student book, French)
+- Title as printed: Manuel d'Éducation Physique et Sports pour la 6ème Primaire en RDC – Édition 2025
+- Grade: 6ème année primaire (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 36 placements — 31 to existing lessons, 5 NEW LESSON NEEDED
+- DR Congo's own way: everything is taught "by progressions" — each gymnastic figure broken into graded steps (seated roll → crouched roll → partner-assisted → "lion jump"); sports are taught with adapted equipment as official method (worn buckets as basketball hoops, a stretched string as a volleyball net), and every lesson ends with a named cool-down system: physiological détente plus "psychological derivatives" (calm games).
+- Named, not placed (programme/method apparatus): front sections §2 exit profile, §3 methodology (competency approach, lesson structure), §4 essential equipment lists (mats, relay batons, adapted balls/nets, hoops).
+- Annexes (named, not placed per brief): Annexe 1 gymnastic progression sheets (support for Ch. 1–3); Annexe 2 simplified adapted rules for basketball/volleyball (support for Ch. 5–6); Annexe 3 two cool-down protocols (support for Ch. 8–9); Annexe 4 EPS glossary (inventory-only).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — Ch. 9 §9.2 Imitation games — camel and chamois slow animal-walk imitations (original target `games-to-play/games-for-self-control`) | DR Congo Grade 6 EPS Primaire 6, Ch. 9 §9.2 |
+
+DR Congo's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. DR Congo is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

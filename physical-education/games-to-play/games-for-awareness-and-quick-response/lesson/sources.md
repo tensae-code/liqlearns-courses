@@ -1,6 +1,6 @@
 # Sources — Games for Awareness and Quick Response
 
-countries: Ethiopia, Mozambique, Kazakhstan, Thailand, Philippines, Nicaragua, Honduras, Iran, Zimbabwe, Jordan, Cuba, Rwanda
+countries: Ethiopia, Mozambique, Kazakhstan, Thailand, Philippines, Nicaragua, Honduras, Iran, Zimbabwe, Jordan, Cuba, Rwanda, DR Congo
 
 **Book 1:** *Grade 3 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–65 + front matter (72 PDF pages). Printed page = PDF page − 7. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g03-student-placements.md.
 
@@ -44,7 +44,7 @@ countries: Ethiopia, Mozambique, Kazakhstan, Thailand, Philippines, Nicaragua, H
 
 | Kazakhstan — Quarter 3 — games and relays that develop speed and strength qualities (игры на развитие быстроты, силы), and relay games with balls (teacher guide — evidence) (original target `games-to-play/games-for-awareness-and-quick-response`) | Kazakhstan, *Physical Culture, Methodological Guide for Grade 4 Teachers* (Kazakhstan Grade 4 TG), printed p. 6 (PDF p. 6) |
 | Thailand — Unit 9 (part 3) Travelling chase games — the Witch Hunts the Children (เกมแม่มดตามหาเด็ก), the Cat Pounces on the Bird (เกมแมวตะครุบนก), Step-Close Find a Partner (เกมก้าวชิดก้าวหาคู่) and the Horse into the Stable (เกมม้าเข้าคอก) (student book — MAC sample, PARTIAL) (original target `games-to-play/games-for-awareness-and-quick-response`) | Thailand, *Health & PE, Grade 2* (Thailand Grade 2 MAC Health & PE), Unit 9 (part 3), printed pp. 156–160 |
-**Acceptance count: taught in 7 countries (Ethiopia, Thailand, Philippines, Honduras, Iran, Zimbabwe, Jordan).** Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 8 countries (Ethiopia, Thailand, Philippines, Honduras, Iran, Zimbabwe, Jordan, DR Congo).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count.
 
 The Grade 3 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -311,3 +311,71 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/rwanda-pe-pl
 | Rwanda — Throwing and dodging the ball — dodgeball-style games (Unit 5, Lesson 3) (teacher guide — evidence) (original target `games-to-play/games-for-awareness-and-quick-response`) | Rwanda Grade 3 PES Teacher's Guide P3, printed p. 165 |
 
 Rwanda's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Rwanda is teacher-guide evidence only in this lesson, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## DR Congo — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-pe-placements.md. The DR Congo books stocked in this lesson are Book 1, Book 2, Book 5, Book 6 — student books (French, web editions, Édition 2025, read as full HTML text; web editions have no printed pagination, so citations give part/chapter/section numbers as printed on the page). DR Congo is student-book stock, inside the acceptance count, in this lesson. DR Congo's own way is content, as the book lines below record it: Book 1: builds PE from body awareness and signals first, walks before it runs, and roots games in Congolese play — marelle called Kebo, the Zango rhythm game, traditional wrestling values, local songs from Kasaï/Équateur to walk to; Book 2: adds swimming from Grade 2 (Lake Kivu named as the safe-water example) and keeps the Congolese games — lutte, Kebo marelle, sack race, bottle-filling relay — beside mini-football, mini-basket and frisbee; Book 5: Grade 5 is built on "gymnastique à prédominance" (functional activation) — on-the-spot jogging, pivots and multi-direction travel as a no-equipment fitness system — plus corrective posture walking with measured arm amplitudes, and sport values (abnégation, fair play, keeping a performance logbook) taught as content; Book 6: everything is taught "by progressions" — each gymnastic figure broken into graded steps (seated roll → crouched roll → partner-assisted → "lion jump"); sports are taught with adapted equipment as official method (worn buckets as basketball hoops, a stretched string as a volleyball net), and every lesson ends with a named cool-down system: physiological détente plus "psychological derivatives" (calm games). Book 3 covers two records (Primaire 3 EPS and Primaire 4 EPS): the Primaire 4 page carries byte-identical text to the combined 3–4 page — one book, two records, placed once here with both editions named, as filed. The Sylla Store record is a paywalled catalogue homepage, filed record-only UNREAD with 0 placements — nothing stocked from it.
+
+**Book — DR Congo EPS Primaire 1 (student book, French):**
+## Book 1 — EPS Primaire 1 (student book, French)
+- Title as printed: Manuel d'Éducation Physique pour la 1ère Année Primaire – Programme RDC
+- Grade: 1ère année primaire (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 35 placements — 28 to existing lessons, 7 NEW LESSON NEEDED (plus 2 health sections cross-filed in the Health placements file)
+- DR Congo's own way: builds PE from body awareness and signals first, walks before it runs, and roots games in Congolese play — marelle called Kebo, the Zango rhythm game, traditional wrestling values, local songs from Kasaï/Équateur to walk to.
+- Annexes (named, not placed per brief): Annexe 1 glossary of key terms (inventory-only); Annexe 2 example agility courses (apparatus/activity support for §5.4); Annexe 3 traditional game cards for Kebo and Zango (support for Ch. 8). Annexe 4 safety and first-aid checklist cross-filed to Health.
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §1.2 Signals and safety rules — whistle stop, raised hand, tambourine rhythm; no pushing, wait your turn, report injuries (original target `games-to-play/games-for-awareness-and-quick-response`) | DR Congo Grade 1 EPS Primaire 1, §1.2 |
+| DR Congo — §7.3 Reaction games — "Jacques a dit" and "1, 2, 3, Soleil" freeze games (original target `games-to-play/games-for-awareness-and-quick-response`) | DR Congo Grade 1 EPS Primaire 1, §7.3 |
+
+**Book — DR Congo EPS Primaire 2 (student book, French):**
+## Book 2 — EPS Primaire 2 (student book, French)
+- Title as printed: Manuel d'Éducation Physique pour la 2ème Année Primaire en RDC – Édition 2025
+- Grade: 2ème année primaire (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 33 placements — 25 to existing lessons, 8 NEW LESSON NEEDED (plus 1 health section cross-filed in the Health placements file)
+- DR Congo's own way: adds swimming from Grade 2 (Lake Kivu named as the safe-water example) and keeps the Congolese games — lutte, Kebo marelle, sack race, bottle-filling relay — beside mini-football, mini-basket and frisbee.
+- Annexes (named, not placed per brief): Annexe 1 safety guide for gymnastics and swimming (teacher checklist — cross-filed in part to Health); Annexe 2 illustrated movement glossary (inventory-only); Annexe 3 traditional game cards (sack race, bottle relay, wrestling — support for Ch. 8); Annexe 4 example 5-minute rhythmic warm-up (support for §1.3). Chapter 9 §§9.1–9.2 and §9.4 are the book's own assessment/oral-review lessons — excluded per brief (assessment items named, not placed). §1.1 hygiene and safety of the play area cross-filed to Health.
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §1.2 Answering sound and sight signals — instant stop at whistle, direction change at hand signal, pace to tambourine (original target `games-to-play/games-for-awareness-and-quick-response`) | DR Congo Grade 2 EPS Primaire 2, §1.2 |
+
+**Book — DR Congo EPS Primaire 5 (student book, French):**
+## Book 5 — EPS Primaire 5 (student book, French)
+- Title as printed: Manuel d'Éducation Physique et Sport pour la 5ème Année Primaire en RDC – Édition 2025
+- Grade: 5ème année primaire (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 36 placements — 36 to existing lessons, 0 NEW LESSON NEEDED
+- DR Congo's own way: Grade 5 is built on "gymnastique à prédominance" (functional activation) — on-the-spot jogging, pivots and multi-direction travel as a no-equipment fitness system — plus corrective posture walking with measured arm amplitudes, and sport values (abnégation, fair play, keeping a performance logbook) taught as content.
+- Annexes (named, not placed per brief): Annexe 1 functional-activation safety sheets (apparatus; hydration/warm-up content noted for Health cross-file); Annexe 2 exercise bank (activity support); Annexe 3 10-minute loosening protocols (support for Ch. 7–8); Annexe 4 glossary (inventory-only).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §3.3.4 Running to signals — one whistle stop, two go, raised arm change direction, while running (original target `games-to-play/games-for-awareness-and-quick-response`) | DR Congo Grade 5 EPS Primaire 5, §3.3.4 |
+
+**Book — DR Congo EPS Primaire 6 (student book, French):**
+## Book 6 — EPS Primaire 6 (student book, French)
+- Title as printed: Manuel d'Éducation Physique et Sports pour la 6ème Primaire en RDC – Édition 2025
+- Grade: 6ème année primaire (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 36 placements — 31 to existing lessons, 5 NEW LESSON NEEDED
+- DR Congo's own way: everything is taught "by progressions" — each gymnastic figure broken into graded steps (seated roll → crouched roll → partner-assisted → "lion jump"); sports are taught with adapted equipment as official method (worn buckets as basketball hoops, a stretched string as a volleyball net), and every lesson ends with a named cool-down system: physiological détente plus "psychological derivatives" (calm games).
+- Named, not placed (programme/method apparatus): front sections §2 exit profile, §3 methodology (competency approach, lesson structure), §4 essential equipment lists (mats, relay batons, adapted balls/nets, hoops).
+- Annexes (named, not placed per brief): Annexe 1 gymnastic progression sheets (support for Ch. 1–3); Annexe 2 simplified adapted rules for basketball/volleyball (support for Ch. 5–6); Annexe 3 two cool-down protocols (support for Ch. 8–9); Annexe 4 EPS glossary (inventory-only).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — Ch. 9 §9.4 The attentive sentinel — advance while the sentinel's back is turned, freeze when they turn (original target `games-to-play/games-for-awareness-and-quick-response`) | DR Congo Grade 6 EPS Primaire 6, Ch. 9 §9.4 |
+
+DR Congo's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. DR Congo is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

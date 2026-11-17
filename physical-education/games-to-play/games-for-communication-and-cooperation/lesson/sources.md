@@ -1,6 +1,6 @@
 # Sources — Games for Communication and Cooperation
 
-countries: Ethiopia, Samoa, Timor-Leste, Nicaragua, Honduras, Fiji, Cuba, Indonesia, Papua New Guinea, Sri Lanka, Rwanda
+countries: Ethiopia, Samoa, Timor-Leste, Nicaragua, Honduras, Fiji, Cuba, Indonesia, Papua New Guinea, Sri Lanka, Rwanda, DR Congo
 
 **Book 1:** *Grade 3 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–65 + front matter (72 PDF pages). Printed page = PDF page − 7. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g03-student-placements.md.
 
@@ -40,7 +40,7 @@ countries: Ethiopia, Samoa, Timor-Leste, Nicaragua, Honduras, Fiji, Cuba, Indone
 | Prove-it questions folded from the book's own Chapter 2 review — Sub lesson 7 (teacher guide — evidence) | Ethiopia, *Grade 7 Teacher Guide*, Chapter 2 review answers, printed pp. 25–26 (teacher guide — evidence) |
 | Samoa — Socialisation through physical activities, Years 1–4 — life skills in movement lessons: cooperation and sharing, following instructions and rules, trusting others (curriculum statement — evidence) (original target `games-to-play/games-for-communication-and-cooperation`) | Samoa, *Health and Physical Education, Years 1–8, Primary School Curriculum* (Samoa Years 1–8 Curriculum), printed p. 26 |
 | Timor-Leste — Period 1: Getting to know each other and creating essential agreements — the class agrees how it will work, play and treat each other (original target `games-to-play/games-for-communication-and-cooperation`) | Timor-Leste, *Educação Física 7, Manual do aluno* (Timor-Leste Grade 7 Student Book), printed p. 4 |
-**Acceptance count: taught in 4 countries (Ethiopia, Timor-Leste, Indonesia, Sri Lanka).** Samoa is added as curriculum-statement evidence only (see its row above), named in the countries line but outside the acceptance count. Timor-Leste is added as student-book stock (see its row above), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Honduras is added as teacher-guide evidence only (see its Honduras section below), named in the countries line but outside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count; the Indonesia teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 5 countries (Ethiopia, Timor-Leste, Indonesia, Sri Lanka, DR Congo).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Samoa is added as curriculum-statement evidence only (see its row above), named in the countries line but outside the acceptance count. Timor-Leste is added as student-book stock (see its row above), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Honduras is added as teacher-guide evidence only (see its Honduras section below), named in the countries line but outside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count; the Indonesia teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count.
 
 The Grade 3 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -334,3 +334,86 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/rwanda-pe-pl
 | Rwanda — Mutual aid (football teamwork) (Unit 5, Lesson 4) (teacher guide — evidence) (original target `games-to-play/games-for-communication-and-cooperation`) | Rwanda Senior Two PE Teacher's Guide 2, printed p. 72 |
 
 Rwanda's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Rwanda is teacher-guide evidence only in this lesson, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## DR Congo — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-pe-placements.md. The DR Congo books stocked in this lesson are Book 2, Book 3, Book 4, Book 5, Book 6 — student books (French, web editions, Édition 2025, read as full HTML text; web editions have no printed pagination, so citations give part/chapter/section numbers as printed on the page). DR Congo is student-book stock, inside the acceptance count, in this lesson. DR Congo's own way is content, as the book lines below record it: Book 2: adds swimming from Grade 2 (Lake Kivu named as the safe-water example) and keeps the Congolese games — lutte, Kebo marelle, sack race, bottle-filling relay — beside mini-football, mini-basket and frisbee; Book 3: a two-year combined manual that adds Scandinavian dynamic gymnastics, plyometrics, hanging/traversing work on whatever bars or trees the school has, and effort-awareness (feeling heart and breathing) as taught content; Nzango and Matadi wrestling games adapted inside the team-games chapter; Book 4: a teacher-training PE manual — the sport content is taught together with how to teach it: lesson sheets, yearly programming, low-cost improvised equipment, differentiated tasks and inclusion of disabled pupils, and pupil self/peer assessment; Book 5: Grade 5 is built on "gymnastique à prédominance" (functional activation) — on-the-spot jogging, pivots and multi-direction travel as a no-equipment fitness system — plus corrective posture walking with measured arm amplitudes, and sport values (abnégation, fair play, keeping a performance logbook) taught as content; Book 6: everything is taught "by progressions" — each gymnastic figure broken into graded steps (seated roll → crouched roll → partner-assisted → "lion jump"); sports are taught with adapted equipment as official method (worn buckets as basketball hoops, a stretched string as a volleyball net), and every lesson ends with a named cool-down system: physiological détente plus "psychological derivatives" (calm games). Book 3 covers two records (Primaire 3 EPS and Primaire 4 EPS): the Primaire 4 page carries byte-identical text to the combined 3–4 page — one book, two records, placed once here with both editions named, as filed. The Sylla Store record is a paywalled catalogue homepage, filed record-only UNREAD with 0 placements — nothing stocked from it.
+
+**Book — DR Congo EPS Primaire 2 (student book, French):**
+## Book 2 — EPS Primaire 2 (student book, French)
+- Title as printed: Manuel d'Éducation Physique pour la 2ème Année Primaire en RDC – Édition 2025
+- Grade: 2ème année primaire (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 33 placements — 25 to existing lessons, 8 NEW LESSON NEEDED (plus 1 health section cross-filed in the Health placements file)
+- DR Congo's own way: adds swimming from Grade 2 (Lake Kivu named as the safe-water example) and keeps the Congolese games — lutte, Kebo marelle, sack race, bottle-filling relay — beside mini-football, mini-basket and frisbee.
+- Annexes (named, not placed per brief): Annexe 1 safety guide for gymnastics and swimming (teacher checklist — cross-filed in part to Health); Annexe 2 illustrated movement glossary (inventory-only); Annexe 3 traditional game cards (sack race, bottle relay, wrestling — support for Ch. 8); Annexe 4 example 5-minute rhythmic warm-up (support for §1.3). Chapter 9 §§9.1–9.2 and §9.4 are the book's own assessment/oral-review lessons — excluded per brief (assessment items named, not placed). §1.1 hygiene and safety of the play area cross-filed to Health.
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §8.4 Bottle-filling relay — carrying water/sand in a cup or sponge to fill a team bottle (original target `games-to-play/games-for-communication-and-cooperation`) | DR Congo Grade 2 EPS Primaire 2, §8.4 |
+
+**Book — DR Congo EPS Primaire 3–4 (student book, French):**
+## Book 3 — EPS Primaire 3–4 (student book, French) — covers records "Primaire 3 EPS" and "Primaire 4 EPS"
+- Title as printed: Manuel d'Éducation Physique et Sportive pour la 3ème et 4ème Année Primaire (page heading shows 4ème Année Primaire, Édition 2025)
+- Grade: 3ème–4ème année primaire (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record titles)
+- Verdict: COMPLETE. The separate "Primaire 4 EPS" record page carries byte-identical text to this combined 3–4 page (verified line-by-line, 255 lines both) — one book, two records; placed once here, both editions named.
+- Tally: 35 placements — 27 to existing lessons, 8 NEW LESSON NEEDED
+- DR Congo's own way: a two-year combined manual that adds Scandinavian dynamic gymnastics, plyometrics, hanging/traversing work on whatever bars or trees the school has, and effort-awareness (feeling heart and breathing) as taught content; Nzango and Matadi wrestling games adapted inside the team-games chapter.
+- §9.1 Recognising the signs of effort (heart, breathing, sweat; effort vs exhaustion) is body-in-exercise knowledge — filed in the Health placements file as HELD-title-decision, not placed here.
+- Annexes (named, not placed per brief): Annexe 1 model lesson sheet (teacher apparatus); Annexe 2 exercise and game bank (activity support); Annexe 3 technical glossary (inventory-only).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §7.1 Team spirit and fair play — team success first, encouraging partners, respecting the referee (original target `games-to-play/games-for-communication-and-cooperation`) | DR Congo Grades 3–4 EPS Primaire 3–4, §7.1 |
+
+**Book — DR Congo Éducation Physique, 2ème Pédagogie Générale (student book for trainee teachers, French):**
+## Book 4 — Éducation Physique, 2ème Pédagogie Générale (student book for trainee teachers, French)
+- Title as printed: Manuel d'Éducation Physique pour la 2ème année Pédagogie Générale
+- Grade: 2ème année des humanités, Pédagogie Générale (student/teacher: STUDENT — trainee-teacher manual)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 22 placements — 20 to existing lessons, 2 NEW LESSON NEEDED (plus 1 health section cross-filed in the Health placements file)
+- DR Congo's own way: a teacher-training PE manual — the sport content is taught together with how to teach it: lesson sheets, yearly programming, low-cost improvised equipment, differentiated tasks and inclusion of disabled pupils, and pupil self/peer assessment.
+- Named, not placed (teacher-method apparatus per brief scope — the PE skill content inside these chapters is placed below): Ch. 6 lesson planning/session sheets, yearly programming, space/equipment management and transitions (§§6.1–6.4); Ch. 7 differentiated teaching and inclusion method (§§7.1–7.4); Ch. 8 assessment grids, self/peer assessment and reflective practice (§§8.1–8.4); annexes (session-sheet models, assessment grids, equipment list, bibliography).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §4.3 Team strategy and solidarity — simple collective plans, communication, team before individual (original target `games-to-play/games-for-communication-and-cooperation`) | DR Congo Humanities 2 Pédagogie Générale PE, §4.3 |
+
+**Book — DR Congo EPS Primaire 5 (student book, French):**
+## Book 5 — EPS Primaire 5 (student book, French)
+- Title as printed: Manuel d'Éducation Physique et Sport pour la 5ème Année Primaire en RDC – Édition 2025
+- Grade: 5ème année primaire (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 36 placements — 36 to existing lessons, 0 NEW LESSON NEEDED
+- DR Congo's own way: Grade 5 is built on "gymnastique à prédominance" (functional activation) — on-the-spot jogging, pivots and multi-direction travel as a no-equipment fitness system — plus corrective posture walking with measured arm amplitudes, and sport values (abnégation, fair play, keeping a performance logbook) taught as content.
+- Annexes (named, not placed per brief): Annexe 1 functional-activation safety sheets (apparatus; hydration/warm-up content noted for Health cross-file); Annexe 2 exercise bank (activity support); Annexe 3 10-minute loosening protocols (support for Ch. 7–8); Annexe 4 glossary (inventory-only).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §3.9.4 Team life — creating or joining a school team; solidarity, captain and coach respect (original target `games-to-play/games-for-communication-and-cooperation`) | DR Congo Grade 5 EPS Primaire 5, §3.9.4 |
+
+**Book — DR Congo EPS Primaire 6 (student book, French):**
+## Book 6 — EPS Primaire 6 (student book, French)
+- Title as printed: Manuel d'Éducation Physique et Sports pour la 6ème Primaire en RDC – Édition 2025
+- Grade: 6ème année primaire (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 36 placements — 31 to existing lessons, 5 NEW LESSON NEEDED
+- DR Congo's own way: everything is taught "by progressions" — each gymnastic figure broken into graded steps (seated roll → crouched roll → partner-assisted → "lion jump"); sports are taught with adapted equipment as official method (worn buckets as basketball hoops, a stretched string as a volleyball net), and every lesson ends with a named cool-down system: physiological détente plus "psychological derivatives" (calm games).
+- Named, not placed (programme/method apparatus): front sections §2 exit profile, §3 methodology (competency approach, lesson structure), §4 essential equipment lists (mats, relay batons, adapted balls/nets, hoops).
+- Annexes (named, not placed per brief): Annexe 1 gymnastic progression sheets (support for Ch. 1–3); Annexe 2 simplified adapted rules for basketball/volleyball (support for Ch. 5–6); Annexe 3 two cool-down protocols (support for Ch. 8–9); Annexe 4 EPS glossary (inventory-only).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — Ch. 9 §9.3 Tunnel ball — rolling the ball through the team's leg tunnel, then sprinting to the back (original target `games-to-play/games-for-communication-and-cooperation`) | DR Congo Grade 6 EPS Primaire 6, Ch. 9 §9.3 |
+
+DR Congo's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. DR Congo is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

@@ -374,3 +374,11 @@ Greece**
 and **Traditional Dances of Greece**
 (`traditional-games-and-dances/traditional-dances-of-greece`)
 — 2 new lessons, bringing this course to 216 lessons.
+
+The PE expansion then added: **Traditional Games of
+DR Congo**
+(`traditional-games-and-dances/traditional-games-of-dr-congo`),
+**Introducing Racket Games**
+(`ball-games/introducing-racket-games`) and **Refereeing
+and Fair Play** (`ball-games/refereeing-and-fair-play`)
+— 3 new lessons, bringing this course to 219 lessons.

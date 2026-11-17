@@ -1,6 +1,6 @@
 # Sources — Sliding and Changing Direction
 
-countries: Ethiopia, Thailand, Philippines, Nicaragua, Belize, Fiji, Mauritius, Jordan, Papua New Guinea, Rwanda
+countries: Ethiopia, Thailand, Philippines, Nicaragua, Belize, Fiji, Mauritius, Jordan, Papua New Guinea, Rwanda, DR Congo
 
 **Book — Grade 1 student:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 81 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md. COMPLETE.
 
@@ -23,7 +23,7 @@ countries: Ethiopia, Thailand, Philippines, Nicaragua, Belize, Fiji, Mauritius, 
 | Change direction, roll to the target, obstacle walking (teacher guide — evidence) | Ethiopia, Grade 3 teacher §1.1 Tasks 1–3 (teacher guide — evidence), printed pp. 2–5 |
 | Thailand — Unit 7 (part 3) Step-close step — the ก้าวชิดก้าว (step-together-step) side movement and its posture (student book — MAC sample, PARTIAL) (original target `moving-basics/sliding-and-changing-direction`) | Thailand, *Health & PE, Grade 2* (Thailand Grade 2 MAC Health & PE), Unit 7 (part 3), printed pp. 128–130 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Thailand, Philippines, Jordan).** Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Mauritius is added as teacher-guide evidence only (see its Mauritius section below), named in the countries line but outside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 5 countries (Ethiopia, Thailand, Philippines, Jordan, DR Congo).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Mauritius is added as teacher-guide evidence only (see its Mauritius section below), named in the countries line but outside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count.
 
 The Grade 3 teacher guide scan is TRUNCATED: it holds printed pp. 1–52 of 89+. Missing: §4.1 (p. 53), §4.2 (p. 57), §4.3 (p. 62), §4.4 (p. 65), all of Chapter 5 Gymnastics (pp. 69–84) and all of Chapter 6 (pp. 85–89+). Chapter 4 is present as its introduction page (printed p. 52) only. Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
 
@@ -209,3 +209,41 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/rwanda-pe-pl
 | Rwanda — Exercises of changing direction and speed (Unit 1, Lesson 3) (teacher guide — evidence) (original target `moving-basics/sliding-and-changing-direction`) | Rwanda Grade 3 PES Teacher's Guide P3, printed p. 38 |
 
 Rwanda's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Rwanda is teacher-guide evidence only in this lesson, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## DR Congo — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-pe-placements.md. The DR Congo books stocked in this lesson are Book 2, Book 5 — student books (French, web editions, Édition 2025, read as full HTML text; web editions have no printed pagination, so citations give part/chapter/section numbers as printed on the page). DR Congo is student-book stock, inside the acceptance count, in this lesson. DR Congo's own way is content, as the book lines below record it: Book 2: adds swimming from Grade 2 (Lake Kivu named as the safe-water example) and keeps the Congolese games — lutte, Kebo marelle, sack race, bottle-filling relay — beside mini-football, mini-basket and frisbee; Book 5: Grade 5 is built on "gymnastique à prédominance" (functional activation) — on-the-spot jogging, pivots and multi-direction travel as a no-equipment fitness system — plus corrective posture walking with measured arm amplitudes, and sport values (abnégation, fair play, keeping a performance logbook) taught as content. Book 3 covers two records (Primaire 3 EPS and Primaire 4 EPS): the Primaire 4 page carries byte-identical text to the combined 3–4 page — one book, two records, placed once here with both editions named, as filed. The Sylla Store record is a paywalled catalogue homepage, filed record-only UNREAD with 0 placements — nothing stocked from it.
+
+**Book — DR Congo EPS Primaire 2 (student book, French):**
+## Book 2 — EPS Primaire 2 (student book, French)
+- Title as printed: Manuel d'Éducation Physique pour la 2ème Année Primaire en RDC – Édition 2025
+- Grade: 2ème année primaire (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 33 placements — 25 to existing lessons, 8 NEW LESSON NEEDED (plus 1 health section cross-filed in the Health placements file)
+- DR Congo's own way: adds swimming from Grade 2 (Lake Kivu named as the safe-water example) and keeps the Congolese games — lutte, Kebo marelle, sack race, bottle-filling relay — beside mini-football, mini-basket and frisbee.
+- Annexes (named, not placed per brief): Annexe 1 safety guide for gymnastics and swimming (teacher checklist — cross-filed in part to Health); Annexe 2 illustrated movement glossary (inventory-only); Annexe 3 traditional game cards (sack race, bottle relay, wrestling — support for Ch. 8); Annexe 4 example 5-minute rhythmic warm-up (support for §1.3). Chapter 9 §§9.1–9.2 and §9.4 are the book's own assessment/oral-review lessons — excluded per brief (assessment items named, not placed). §1.1 hygiene and safety of the play area cross-filed to Health.
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §4.3 Slalom running — weaving between cones without touching them (original target `moving-basics/sliding-and-changing-direction`) | DR Congo Grade 2 EPS Primaire 2, §4.3 |
+
+**Book — DR Congo EPS Primaire 5 (student book, French):**
+## Book 5 — EPS Primaire 5 (student book, French)
+- Title as printed: Manuel d'Éducation Physique et Sport pour la 5ème Année Primaire en RDC – Édition 2025
+- Grade: 5ème année primaire (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 36 placements — 36 to existing lessons, 0 NEW LESSON NEEDED
+- DR Congo's own way: Grade 5 is built on "gymnastique à prédominance" (functional activation) — on-the-spot jogging, pivots and multi-direction travel as a no-equipment fitness system — plus corrective posture walking with measured arm amplitudes, and sport values (abnégation, fair play, keeping a performance logbook) taught as content.
+- Annexes (named, not placed per brief): Annexe 1 functional-activation safety sheets (apparatus; hydration/warm-up content noted for Health cross-file); Annexe 2 exercise bank (activity support); Annexe 3 10-minute loosening protocols (support for Ch. 7–8); Annexe 4 glossary (inventory-only).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §2.2.3 Changing direction and formation — half/quarter turns, crossing columns, line-to-column on signal (original target `moving-basics/sliding-and-changing-direction`) | DR Congo Grade 5 EPS Primaire 5, §2.2.3 |
+| DR Congo — §2.6.1 Moving forwards and backwards — 10 m sprint then backward running looking over the shoulder (original target `moving-basics/sliding-and-changing-direction`) | DR Congo Grade 5 EPS Primaire 5, §2.6.1 |
+| DR Congo — §2.6.2 Sideways travel (pas chassés) — side steps without crossing feet, the defence step of basketball/tennis (original target `moving-basics/sliding-and-changing-direction`) | DR Congo Grade 5 EPS Primaire 5, §2.6.2 |
+
+DR Congo's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. DR Congo is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

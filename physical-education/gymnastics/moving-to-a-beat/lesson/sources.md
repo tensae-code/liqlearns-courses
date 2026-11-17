@@ -1,6 +1,6 @@
 # Sources — Moving to a Beat — Rhythmic Movement
 
-countries: Ethiopia, Zambia, Namibia, Kazakhstan, Samoa, Thailand, China, El Salvador, Philippines, Belize, Honduras, Fiji, Iran, North Macedonia, Zimbabwe, Jordan, Malaysia, Cuba, Kuwait, Indonesia, Oman, Papua New Guinea, Greece
+countries: Ethiopia, Zambia, Namibia, Kazakhstan, Samoa, Thailand, China, El Salvador, Philippines, Belize, Honduras, Fiji, Iran, North Macedonia, Zimbabwe, Jordan, Malaysia, Cuba, Kuwait, Indonesia, Oman, Papua New Guinea, Greece, DR Congo
 
 **Book — Grade 1 student:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 81 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md. COMPLETE.
 
@@ -67,7 +67,7 @@ countries: Ethiopia, Zambia, Namibia, Kazakhstan, Samoa, Thailand, China, El Sal
 | Thailand — Unit 5.1 (part 2) Movement in rhythmic activities — moving in time within rhythmic activity (student book — MAC sample, PARTIAL) (original target `gymnastics/moving-to-a-beat`) | Thailand, *Health & PE, Grade 12* (Thailand Grade 12 MAC Health & PE), Unit 5.1 (part 2), printed pp. 151–152 |
 | Thailand — Unit 6.1 (part 1) Rhythmic activities — what rhythmic activity (กิจกรรมเข้าจังหวะ) means, its aims, and its types (student book — MAC sample, PARTIAL) (original target `gymnastics/moving-to-a-beat`) | Thailand, *Health & PE, Grade 12* (Thailand Grade 12 MAC Health & PE), Unit 6.1 (part 1), printed pp. 155–158 |
 | Thailand — Unit 6.1 (part 2) The value of rhythmic activity — its worth, beauty and joy, and the principles for organising rhythmic activities (student book — MAC sample, PARTIAL) (original target `gymnastics/moving-to-a-beat`) | Thailand, *Health & PE, Grade 12* (Thailand Grade 12 MAC Health & PE), Unit 6.1 (part 2), printed pp. 159–163 |
-**Acceptance count: taught in 11 countries (Ethiopia, Thailand, China, Philippines, Honduras, Iran, North Macedonia, Zimbabwe, Jordan, Malaysia, Greece).** Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Zambia is added as teacher-module evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Namibia is added as teacher-guide evidence only the same way, outside the acceptance count. Kazakhstan is added as teacher-guide evidence only the same way, outside the acceptance count. Samoa is added as curriculum-statement evidence only (see its row above), named in the countries line but outside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Indonesia is added as teacher-guide evidence only (see its Indonesia section below), named in the countries line but outside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count.
+**Acceptance count: taught in 12 countries (Ethiopia, Thailand, China, Philippines, Honduras, Iran, North Macedonia, Zimbabwe, Jordan, Malaysia, Greece, DR Congo).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Zambia is added as teacher-module evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Namibia is added as teacher-guide evidence only the same way, outside the acceptance count. Kazakhstan is added as teacher-guide evidence only the same way, outside the acceptance count. Samoa is added as curriculum-statement evidence only (see its row above), named in the countries line but outside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Indonesia is added as teacher-guide evidence only (see its Indonesia section below), named in the countries line but outside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count.
 
 The Grade 3 teacher guide scan is TRUNCATED: it holds printed pp. 1–52 of 89+. Missing: §4.1 (p. 53), §4.2 (p. 57), §4.3 (p. 62), §4.4 (p. 65), all of Chapter 5 Gymnastics (pp. 69–84) and all of Chapter 6 (pp. 85–89+). Chapter 4 is present as its introduction page (printed p. 52) only. Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
 
@@ -712,3 +712,87 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/greece-pe-pl
 | Greece — Το τρένο του ρυθμού (The rhythm train) — the rhythm of spoken words: clapping the stressed syllables and tapping the unstressed ones as the train passes (original target `gymnastics/moving-to-a-beat`) | Greece Grades 3-4 Fysiki Agogi G-D, printed p. 82 |
 
 Greece's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Greece is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## DR Congo — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-pe-placements.md. The DR Congo books stocked in this lesson are Book 1, Book 2, Book 3, Book 4, Book 5 — student books (French, web editions, Édition 2025, read as full HTML text; web editions have no printed pagination, so citations give part/chapter/section numbers as printed on the page). DR Congo is student-book stock, inside the acceptance count, in this lesson. DR Congo's own way is content, as the book lines below record it: Book 1: builds PE from body awareness and signals first, walks before it runs, and roots games in Congolese play — marelle called Kebo, the Zango rhythm game, traditional wrestling values, local songs from Kasaï/Équateur to walk to; Book 2: adds swimming from Grade 2 (Lake Kivu named as the safe-water example) and keeps the Congolese games — lutte, Kebo marelle, sack race, bottle-filling relay — beside mini-football, mini-basket and frisbee; Book 3: a two-year combined manual that adds Scandinavian dynamic gymnastics, plyometrics, hanging/traversing work on whatever bars or trees the school has, and effort-awareness (feeling heart and breathing) as taught content; Nzango and Matadi wrestling games adapted inside the team-games chapter; Book 4: a teacher-training PE manual — the sport content is taught together with how to teach it: lesson sheets, yearly programming, low-cost improvised equipment, differentiated tasks and inclusion of disabled pupils, and pupil self/peer assessment; Book 5: Grade 5 is built on "gymnastique à prédominance" (functional activation) — on-the-spot jogging, pivots and multi-direction travel as a no-equipment fitness system — plus corrective posture walking with measured arm amplitudes, and sport values (abnégation, fair play, keeping a performance logbook) taught as content. Book 3 covers two records (Primaire 3 EPS and Primaire 4 EPS): the Primaire 4 page carries byte-identical text to the combined 3–4 page — one book, two records, placed once here with both editions named, as filed. The Sylla Store record is a paywalled catalogue homepage, filed record-only UNREAD with 0 placements — nothing stocked from it.
+
+**Book — DR Congo EPS Primaire 1 (student book, French):**
+## Book 1 — EPS Primaire 1 (student book, French)
+- Title as printed: Manuel d'Éducation Physique pour la 1ère Année Primaire – Programme RDC
+- Grade: 1ère année primaire (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 35 placements — 28 to existing lessons, 7 NEW LESSON NEEDED (plus 2 health sections cross-filed in the Health placements file)
+- DR Congo's own way: builds PE from body awareness and signals first, walks before it runs, and roots games in Congolese play — marelle called Kebo, the Zango rhythm game, traditional wrestling values, local songs from Kasaï/Équateur to walk to.
+- Annexes (named, not placed per brief): Annexe 1 glossary of key terms (inventory-only); Annexe 2 example agility courses (apparatus/activity support for §5.4); Annexe 3 traditional game cards for Kebo and Zango (support for Ch. 8). Annexe 4 safety and first-aid checklist cross-filed to Health.
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §2.2 Rhythmic walking to a beat — stepping in time to tambourine/whistle with natural arm swing (original target `gymnastics/moving-to-a-beat`) | DR Congo Grade 1 EPS Primaire 1, §2.2 |
+| DR Congo — §2.3 Walking with music and song — matching pace to local songs and rhymes (original target `gymnastics/moving-to-a-beat`) | DR Congo Grade 1 EPS Primaire 1, §2.3 |
+
+**Book — DR Congo EPS Primaire 2 (student book, French):**
+## Book 2 — EPS Primaire 2 (student book, French)
+- Title as printed: Manuel d'Éducation Physique pour la 2ème Année Primaire en RDC – Édition 2025
+- Grade: 2ème année primaire (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 33 placements — 25 to existing lessons, 8 NEW LESSON NEEDED (plus 1 health section cross-filed in the Health placements file)
+- DR Congo's own way: adds swimming from Grade 2 (Lake Kivu named as the safe-water example) and keeps the Congolese games — lutte, Kebo marelle, sack race, bottle-filling relay — beside mini-football, mini-basket and frisbee.
+- Annexes (named, not placed per brief): Annexe 1 safety guide for gymnastics and swimming (teacher checklist — cross-filed in part to Health); Annexe 2 illustrated movement glossary (inventory-only); Annexe 3 traditional game cards (sack race, bottle relay, wrestling — support for Ch. 8); Annexe 4 example 5-minute rhythmic warm-up (support for §1.3). Chapter 9 §§9.1–9.2 and §9.4 are the book's own assessment/oral-review lessons — excluded per brief (assessment items named, not placed). §1.1 hygiene and safety of the play area cross-filed to Health.
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §2.1 Rhythmic synchronised walking — group stepping in time in ranks and columns (original target `gymnastics/moving-to-a-beat`) | DR Congo Grade 2 EPS Primaire 2, §2.1 |
+
+**Book — DR Congo EPS Primaire 3–4 (student book, French):**
+## Book 3 — EPS Primaire 3–4 (student book, French) — covers records "Primaire 3 EPS" and "Primaire 4 EPS"
+- Title as printed: Manuel d'Éducation Physique et Sportive pour la 3ème et 4ème Année Primaire (page heading shows 4ème Année Primaire, Édition 2025)
+- Grade: 3ème–4ème année primaire (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record titles)
+- Verdict: COMPLETE. The separate "Primaire 4 EPS" record page carries byte-identical text to this combined 3–4 page (verified line-by-line, 255 lines both) — one book, two records; placed once here, both editions named.
+- Tally: 35 placements — 27 to existing lessons, 8 NEW LESSON NEEDED
+- DR Congo's own way: a two-year combined manual that adds Scandinavian dynamic gymnastics, plyometrics, hanging/traversing work on whatever bars or trees the school has, and effort-awareness (feeling heart and breathing) as taught content; Nzango and Matadi wrestling games adapted inside the team-games chapter.
+- §9.1 Recognising the signs of effort (heart, breathing, sweat; effort vs exhaustion) is body-in-exercise knowledge — filed in the Health placements file as HELD-title-decision, not placed here.
+- Annexes (named, not placed per brief): Annexe 1 model lesson sheet (teacher apparatus); Annexe 2 exercise and game bank (activity support); Annexe 3 technical glossary (inventory-only).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §1.4 Scandinavian dynamic gymnastics — travelling chains of lunges, trunk turns and hops, often to music (original target `gymnastics/moving-to-a-beat`) | DR Congo Grades 3–4 EPS Primaire 3–4, §1.4 |
+
+**Book — DR Congo Éducation Physique, 2ème Pédagogie Générale (student book for trainee teachers, French):**
+## Book 4 — Éducation Physique, 2ème Pédagogie Générale (student book for trainee teachers, French)
+- Title as printed: Manuel d'Éducation Physique pour la 2ème année Pédagogie Générale
+- Grade: 2ème année des humanités, Pédagogie Générale (student/teacher: STUDENT — trainee-teacher manual)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 22 placements — 20 to existing lessons, 2 NEW LESSON NEEDED (plus 1 health section cross-filed in the Health placements file)
+- DR Congo's own way: a teacher-training PE manual — the sport content is taught together with how to teach it: lesson sheets, yearly programming, low-cost improvised equipment, differentiated tasks and inclusion of disabled pupils, and pupil self/peer assessment.
+- Named, not placed (teacher-method apparatus per brief scope — the PE skill content inside these chapters is placed below): Ch. 6 lesson planning/session sheets, yearly programming, space/equipment management and transitions (§§6.1–6.4); Ch. 7 differentiated teaching and inclusion method (§§7.1–7.4); Ch. 8 assessment grids, self/peer assessment and reflective practice (§§8.1–8.4); annexes (session-sheet models, assessment grids, equipment list, bibliography).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §3.3 Rhythmic expression and school dances — simple choreographies drawing on Congolese traditional dances (Équateur) (original target `gymnastics/moving-to-a-beat`) | DR Congo Humanities 2 Pédagogie Générale PE, §3.3 |
+
+**Book — DR Congo EPS Primaire 5 (student book, French):**
+## Book 5 — EPS Primaire 5 (student book, French)
+- Title as printed: Manuel d'Éducation Physique et Sport pour la 5ème Année Primaire en RDC – Édition 2025
+- Grade: 5ème année primaire (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 36 placements — 36 to existing lessons, 0 NEW LESSON NEEDED
+- DR Congo's own way: Grade 5 is built on "gymnastique à prédominance" (functional activation) — on-the-spot jogging, pivots and multi-direction travel as a no-equipment fitness system — plus corrective posture walking with measured arm amplitudes, and sport values (abnégation, fair play, keeping a performance logbook) taught as content.
+- Annexes (named, not placed per brief): Annexe 1 functional-activation safety sheets (apparatus; hydration/warm-up content noted for Health cross-file); Annexe 2 exercise bank (activity support); Annexe 3 10-minute loosening protocols (support for Ch. 7–8); Annexe 4 glossary (inventory-only).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §1.1.2 Rhythmic step walking — whole class stepping together to whistle/handclap cadence (original target `gymnastics/moving-to-a-beat`) | DR Congo Grade 5 EPS Primaire 5, §1.1.2 |
+| DR Congo — §2.2.2 Walking to music — matching the step to martial and folk rhythms (original target `gymnastics/moving-to-a-beat`) | DR Congo Grade 5 EPS Primaire 5, §2.2.2 |
+
+DR Congo's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. DR Congo is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

@@ -1,6 +1,6 @@
 # Sources — Games for Self-Leadership
 
-countries: Ethiopia, Samoa, Fiji
+countries: Ethiopia, Samoa, Fiji, DR Congo
 
 **Book 1:** *Grade 3 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–65 + front matter (72 PDF pages). Printed page = PDF page − 7. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g03-student-placements.md.
 
@@ -45,7 +45,7 @@ countries: Ethiopia, Samoa, Fiji
 | Prove-it questions folded from the book's own Chapter 2 review — Sub lesson 7 (teacher guide — evidence) | Ethiopia, *Grade 5 Teacher Guide*, Chapter 2 summary + assessment answers, printed pp. 20–21 (teacher guide — evidence) |
 | Prove-it questions folded from the book's own Chapter 2 review — Sub lesson 8 (teacher guide — evidence) | Ethiopia, *Grade 7 Teacher Guide*, Chapter 2 summary + review answers, printed pp. 25–26 (teacher guide — evidence) |
 | Samoa — Year 12 Unit 2D — leadership skills through movement activities (teacher guide — evidence) (original target `games-to-play/games-for-self-leadership`) | Samoa, *Health and Physical Education Teacher Guide, Years 11 and 12* (Samoa Years 11–12 TG), printed p. 64 |
-**Acceptance count: taught in 1 country (Ethiopia).** Samoa is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 2 countries (Ethiopia, DR Congo).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Samoa is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count.
 
 The Grade 3 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -84,3 +84,24 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/fiji-pe-plac
 | Fiji — Chapter 7 Games: Leadership Skills — leadership styles, leading by example, and motivating children to be active (teacher guide — evidence) (original target `games-to-play/games-for-self-leadership`) | Fiji Year 8 PE is Fun Teachers Guide, printed pp. 94–99 (Chapter 7) |
 
 Fiji's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Fiji's own way is content, as the book lines above record it: a *PE is Fun* series built on strands and KLA outcomes, moving from movement science to training, sports nutrition and tournament organisation, with Fiji Sevens rugby and the Skipper Cup as worked examples, named Fijian traditional games (Veibuka, Veisole, Veicibi, Veitiqa and more) and the games of Fiji's Indian community taught side by side, and swimming taught as a Fiji survival skill. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## DR Congo — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-pe-placements.md. The DR Congo books stocked in this lesson are Book 4 — student books (French, web editions, Édition 2025, read as full HTML text; web editions have no printed pagination, so citations give part/chapter/section numbers as printed on the page). DR Congo is student-book stock, inside the acceptance count, in this lesson. DR Congo's own way is content, as the book lines below record it: Book 4: a teacher-training PE manual — the sport content is taught together with how to teach it: lesson sheets, yearly programming, low-cost improvised equipment, differentiated tasks and inclusion of disabled pupils, and pupil self/peer assessment. Book 3 covers two records (Primaire 3 EPS and Primaire 4 EPS): the Primaire 4 page carries byte-identical text to the combined 3–4 page — one book, two records, placed once here with both editions named, as filed. The Sylla Store record is a paywalled catalogue homepage, filed record-only UNREAD with 0 placements — nothing stocked from it.
+
+**Book — DR Congo Éducation Physique, 2ème Pédagogie Générale (student book for trainee teachers, French):**
+## Book 4 — Éducation Physique, 2ème Pédagogie Générale (student book for trainee teachers, French)
+- Title as printed: Manuel d'Éducation Physique pour la 2ème année Pédagogie Générale
+- Grade: 2ème année des humanités, Pédagogie Générale (student/teacher: STUDENT — trainee-teacher manual)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 22 placements — 20 to existing lessons, 2 NEW LESSON NEEDED (plus 1 health section cross-filed in the Health placements file)
+- DR Congo's own way: a teacher-training PE manual — the sport content is taught together with how to teach it: lesson sheets, yearly programming, low-cost improvised equipment, differentiated tasks and inclusion of disabled pupils, and pupil self/peer assessment.
+- Named, not placed (teacher-method apparatus per brief scope — the PE skill content inside these chapters is placed below): Ch. 6 lesson planning/session sheets, yearly programming, space/equipment management and transitions (§§6.1–6.4); Ch. 7 differentiated teaching and inclusion method (§§7.1–7.4); Ch. 8 assessment grids, self/peer assessment and reflective practice (§§8.1–8.4); annexes (session-sheet models, assessment grids, equipment list, bibliography).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §5.4 Managing your own effort — pacing yourself and encouraging the group in relays and hikes (original target `games-to-play/games-for-self-leadership`) | DR Congo Humanities 2 Pédagogie Générale PE, §5.4 |
+
+DR Congo's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. DR Congo is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

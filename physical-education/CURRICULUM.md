@@ -892,6 +892,25 @@ Book 12's bela diri unit.
 
 **PE expansion — Greece — BUILT 2026-11-16:** 190 placements from Greece's four Fysiki Agogi student books (Grades 1-2, 3-4, 5-6 and 7-9, all COMPLETE) stocked — 160 into existing lessons and 30 as 2 new lessons (Traditional Games of Greece; Traditional Dances of Greece) — bringing this course to **216 lessons**. Greece is student-book stock, inside the acceptance counts, in every lesson it touches. No Greece placement resolves to a Health-course lesson, so none was excluded as Health-bound; Book 3's Chapter 8 and Chapter 9 placements and Book 4's health placements are filed in greece-health-placements.md. Book 4 (Grades 7-9) carries a LIBRARY DEBT as filed: its record claims it secured but the file is absent from the GitHub tree, and it was read from the ministry's official edition and staged under its existing record. Book 3's file still prints the earlier ISBN 978-960-06-2610-0 on its back cover beside the record ISBN 978-960-06-2810-0, kept as filed.
 
+**PE expansion — DR Congo — BUILT 2026-11-16:** 197 placements
+from DR Congo's six EPS student books (Grades 1, 2, 3–4, 5 and 6
+primaire, and the 2ème Pédagogie Générale trainee-teacher manual;
+French web editions, Édition 2025, all COMPLETE) stocked — 187 into
+existing lessons (including Swimming Basics, Warming Up and Cooling
+Down, Rope Skipping and Orienteering and Hiking, built earlier in
+this expansion) and 10 as 3 new lessons (Traditional Games of
+DR Congo; Introducing Racket Games; Refereeing and Fair Play) —
+bringing this course to **219 lessons**. DR Congo is student-book
+stock, inside the acceptance counts, in every lesson it touches.
+No DR Congo PE placement resolves to a Health-course lesson, so
+none was excluded as Health-bound; the books' health sections are
+cross-filed in dr-congo-health-placements.md. Book 3 covers two
+records (Primaire 3 EPS and Primaire 4 EPS) — the Primaire 4 page
+is byte-identical text to the combined 3–4 page, one book placed
+once with both editions named, as filed. The Sylla Store record
+is a paywalled catalogue homepage, record-only UNREAD with
+0 placements.
+
 ## Unit 1 — Moving Basics
 
 1. **Combined Travelling and On-the-Spot Movements** (`moving-basics/combined-travelling-and-on-the-spot`) — joining travelling movements together, joining on-the-spot movements together, and chaining the two families in one sequence.
@@ -1047,6 +1066,8 @@ Book 12's bela diri unit.
 38. **Table Tennis for the Visually Impaired** (`ball-games/table-tennis-for-the-visually-impaired`) — table tennis adapted for visually impaired players — taught in Oman's Grades 5, 6, 7 and 8 teacher guides as table tennis adapted for visually impaired pupils (Oman's teacher guides, evidence only).
 39. **Sitting Volleyball** (`ball-games/sitting-volleyball`) — sitting volleyball: playing volleyball seated on the floor — techniques and tactics — taught in Rwanda's Senior One teacher's guide as the techniques of playing volleyball seated on the floor and in its Senior Two teacher's guide as techniques and tactics (Rwanda's teacher guides, evidence only).
 40. **The Rules of Netball** (`ball-games/the-rules-of-netball`) — the rules of netball: positions, court areas and how the game is played — taught in Rwanda's Senior Two teacher's guide as the basic rules of netball (Rwanda's teacher guide, evidence only).
+41. **Introducing Racket Games** (`ball-games/introducing-racket-games`) — introducing racket games: first skills with a racket and bat — bouncing, hitting to a wall or partner, and first rallies — taught in DR Congo's Grade 1 EPS book as tennis first skills (palm, then small racket, to a wall or partner) and in its Grade 2 book as the table-tennis first skills (bat grip, bouncing on the table) (DR Congo's student books).
+42. **Refereeing and Fair Play** (`ball-games/refereeing-and-fair-play`) — refereeing and fair play: taking the whistle, judging impartially and playing fair — taught in DR Congo's 2ème Pédagogie Générale manual as refereeing and sportsmanship, with pupils taking the whistle (DR Congo's student book).
 
 
 ## Unit 6 — Games to Play
@@ -1141,6 +1162,7 @@ Book 12's bela diri unit.
 54. **Traditional Games of Sri Lanka** (`traditional-games-and-dances/traditional-games-of-sri-lanka`) — traditional games of Sri Lanka: the named Sri Lankan folk games and how to play them — taught in Sri Lanka's Grade 7 student book as its folk games chapter: Pancha, Nerenchi, Olinda, Coppara Coppara Pipingya, Iniweta Peralima, Mewara keliya, Pora Pol Gasima and others, with how to play several of them (Sri Lanka's student book).
 55. **Traditional Games of Greece** (`traditional-games-and-dances/traditional-games-of-greece`) — traditional games of Greece: the circle games, leapfrog, elastic games and seasonal customs Greek children play — taught in Greece's Grades 1-2 book as skipping rope (the world's game), Gyro Gyro Oloi, Varelakia leapfrog, the Chelidona spring swallow custom and Perperouna, and in its Grades 3-4 book as skipping rope, the elastic games and the Rogatsia carnival custom (Greece's student books).
 56. **Traditional Dances of Greece** (`traditional-games-and-dances/traditional-dances-of-greece`) — traditional dances of Greece: Greek folk dance — where it lives (festivals, weddings, home) and dancing it — taught across Greece's four books: dance at home and at panigiria with its holds and costumes (Grades 1-2), dance in myth, ancient Greece and through time, with improvisation, mimetic dance and the dance bands (Grades 3-4), the named dances dance by dance — zonaradikos, tsamikos, syrtos-kalamatianos, tik, enteka, pentozalis (Grades 5-6) — and why Greece has many local dances (Grades 7-9) (Greece's student books).
+57. **Traditional Games of DR Congo** (`traditional-games-and-dances/traditional-games-of-dr-congo`) — traditional games of DR Congo: Congolese traditional games, including wrestling initiation games and Marelle (Kebo) — taught in DR Congo's Grade 1 EPS book as wrestling initiation, Marelle (Kebo), Zango and adapting local games from Kivu, Tshopo and other provinces, in its Grade 2 book as the wrestling game and Marelle (Kebo), and in its Grades 3–4 book as Nzango and Matadi wrestling games adapted inside the team-games chapter (DR Congo's student books).
 
 ## Unit 8 — Sport and Its Story
 

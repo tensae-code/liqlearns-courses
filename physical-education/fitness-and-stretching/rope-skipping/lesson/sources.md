@@ -1,8 +1,8 @@
 # Sources — Rope Skipping
 
-countries: China, Iran
+countries: China, Iran, DR Congo
 
-**Acceptance count: taught in 2 countries (China, Iran).** China is student-book stock (see its rows below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count.
+**Acceptance count: taught in 3 countries (China, Iran, DR Congo).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. China is student-book stock (see its rows below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count.
 
 ## China — PE expansion 2026-11-16
 
@@ -47,3 +47,24 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/iran-pe-plac
 | Iran — Module 2, Unit 2 "Complex rope-skipping skills" — crossed, double and combined rope skills (original target `moving-basics/rope-skipping-advanced-skills`) | Iran, *Developing Agility–Mental Skills, Grade 10 (C210302)*, Module 2, Unit 2 "Complex rope-skipping skills", printed p. 86 |
 
 Iran's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Iran's own way is content, as the book lines above record it: PE taught as a profession with a knowledge base — a Grade 10 theory book before any workshop book, workshop books of competency units with continuous and final assessment, team games taught as full coaching units with kabaddi standing as a full module beside them, and a special-needs fitness course of very short lessons with one idea each. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## DR Congo — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-pe-placements.md. The DR Congo books stocked in this lesson are Book 1 — student books (French, web editions, Édition 2025, read as full HTML text; web editions have no printed pagination, so citations give part/chapter/section numbers as printed on the page). DR Congo is student-book stock, inside the acceptance count, in this lesson. DR Congo's own way is content, as the book lines below record it: Book 1: builds PE from body awareness and signals first, walks before it runs, and roots games in Congolese play — marelle called Kebo, the Zango rhythm game, traditional wrestling values, local songs from Kasaï/Équateur to walk to. Book 3 covers two records (Primaire 3 EPS and Primaire 4 EPS): the Primaire 4 page carries byte-identical text to the combined 3–4 page — one book, two records, placed once here with both editions named, as filed. The Sylla Store record is a paywalled catalogue homepage, filed record-only UNREAD with 0 placements — nothing stocked from it.
+
+**Book — DR Congo EPS Primaire 1 (student book, French):**
+## Book 1 — EPS Primaire 1 (student book, French)
+- Title as printed: Manuel d'Éducation Physique pour la 1ère Année Primaire – Programme RDC
+- Grade: 1ère année primaire (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 35 placements — 28 to existing lessons, 7 NEW LESSON NEEDED (plus 2 health sections cross-filed in the Health placements file)
+- DR Congo's own way: builds PE from body awareness and signals first, walks before it runs, and roots games in Congolese play — marelle called Kebo, the Zango rhythm game, traditional wrestling values, local songs from Kasaï/Équateur to walk to.
+- Annexes (named, not placed per brief): Annexe 1 glossary of key terms (inventory-only); Annexe 2 example agility courses (apparatus/activity support for §5.4); Annexe 3 traditional game cards for Kebo and Zango (support for Ch. 8). Annexe 4 safety and first-aid checklist cross-filed to Health.
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §4.4 Rope skipping initiation — jumping without rope, side-swing, long-rope and first solo skips (original target `moving-basics/skipping-with-a-rope`) | DR Congo Grade 1 EPS Primaire 1, §4.4 |
+
+DR Congo's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. DR Congo is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
