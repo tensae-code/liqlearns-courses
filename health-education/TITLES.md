@@ -56,3 +56,12 @@ Body Clean** (`staying-safe/keeping-my-body-clean`), **Safe
 Water and Toilets** (`staying-safe/safe-water-and-toilets`)
 and **Menstruation** (`staying-safe/menstruation`) — 3 new
 lessons, bringing this course to 23 lessons.
+
+The Health expansion then added (Namibia): **STIs and HIV
+Prevention** (`staying-safe/stis-and-hiv-prevention`),
+**Keeping Our Environment Healthy**
+(`staying-safe/keeping-our-environment-healthy`),
+**Preventing Common Diseases**
+(`staying-safe/preventing-common-diseases`) and **Family and
+Friends** (`fair-play-and-the-body/family-and-friends`) —
+4 new lessons, bringing this course to 27 lessons.
