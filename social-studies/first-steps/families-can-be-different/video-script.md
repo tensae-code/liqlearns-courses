@@ -1,0 +1,9 @@
+# Video script — Families Can Be Different
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). This script is full: the placements name a video-script need for this lesson. Made later, when videos are made; the script is the slot's written form until then.
+
+---
+
+Bahamas Grade 1 Social Science G1 (printed pp. 17–18), teaches: Families are special — the family types (single-parent, nuclear, extended, blended, foster), how families meet needs and care for each other, and families as part of a community.
+
+Bahamas' own way: the fused lower-primary Social Science book carries citizenship from Grade 1 — rights, leaders, my country and being a peaceful citizen sit between the Bible topics and the science topics.
