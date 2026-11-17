@@ -1,8 +1,8 @@
 # Sources — Safe Water and Toilets
 
-countries: Kiribati, El Salvador, Zambia, Papua New Guinea, Bhutan, Tanzania, Eritrea, Nepal, Sri Lanka, Fiji
+countries: Kiribati, El Salvador, Zambia, Papua New Guinea, Bhutan, Tanzania, Eritrea, Nepal, Sri Lanka, Fiji, DR Congo
 
-**Acceptance count: taught in 7 countries.** Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Tanzania is added as student-book stock (see its Tanzania section below), inside the acceptance count. El Salvador is filed as student-book stock, inside the acceptance count, in this lesson. Kiribati is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count (still taught in 1 country). Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — all five Bhutan books are STUDENT books. Eritrea is added as student-book stock (see its Eritrea section below), inside the acceptance count — all three Eritrea books are STUDENT books. Nepal is added as student-book stock (see its Nepal section below), inside the acceptance count.
+**Acceptance count: taught in 8 countries.** Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Tanzania is added as student-book stock (see its Tanzania section below), inside the acceptance count. El Salvador is filed as student-book stock, inside the acceptance count, in this lesson. Kiribati is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count (still taught in 1 country). Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — all five Bhutan books are STUDENT books. Eritrea is added as student-book stock (see its Eritrea section below), inside the acceptance count — all three Eritrea books are STUDENT books. Nepal is added as student-book stock (see its Nepal section below), inside the acceptance count. DR Congo is filed as student-book stock, inside the acceptance count, in this lesson (see its DR Congo section below); its teacher-guide rows in this lesson are teacher-guide evidence only, outside the count.
 
 **Book 2 — Teaching WASH in Schools: Menstrual Hygiene Management Guide (teacher guide, English):**
 - Title as printed: TEACHING WASH IN SCHOOLS — Menstrual Hygiene Management Guide
@@ -297,3 +297,205 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/fiji-health-
 | Fiji — Unit 34 Water Supply in Rural Areas — keeping rural water safe: springs fenced against animals with bamboo or piping drawing the water out; well water tested for bacteria at least three times a year with the Ministry of Health; rainwater tanks screened with gauze wire, cleaned regularly and purified with chlorine under Ministry advice; and untreated tap water boiled for about ten minutes and stored in clean, rust-free containers (original string `staying-safe/drinking-clean-water`) | Fiji Year 7 Healthy Living, printed pp. 75–77 |
 
 Fiji is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the student book(s) stocked here are Book 2, Book 3, Book 7, Book 13, so Fiji is named in the countries line and provenance rows and the acceptance count rises from 6 to 7 countries. The Fiji placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Fiji's own way is content, as the book lines above record it: health is taught through the Healthy Living series rooted in island life — floods and hurricanes, boats and swimming, village family life, Fiji's own foods (dalo, tavioka, kumala), its immunisation schedule and its own health services. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+## DR Congo — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md. 24 DR Congo placement(s) stocked in this lesson. The DR Congo book(s) stocked in this lesson: Book 1, Book 2, Book 4, Book 5, Book 8, Book 15, Book 16, Book 17, Book 18, Book 20, Book 21, Book 22. DR Congo's student books are student-book stock, inside the acceptance count, in this lesson; its teacher-guide rows (Books 15–17, the Maternelle health-promotion guides) are teacher-guide evidence only, outside the count, and are marked (teacher guide — evidence) in the rows below. Books 3 and 7 of that file are UNREAD — sales pages (only Chapter 1 offered free in an on-page flipbook serving no downloadable file), each with 0 placements — and Book 12 (Hygiène et Environnement, 3ème Vétérinaire) is record-only under the veterinary exclusion, with 0 placements; nothing is stocked from them in any lesson. No DR Congo placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 1 — Hygiène Alimentaire, 1ère Techniques Sociales (student book, French):**
+- Title as printed: Manuel d'Hygiène Alimentaire pour la 1ère Année, Option Techniques Sociales
+- Grade: 1ère année des humanités, Techniques Sociales (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 24 placements — 0 to existing lessons, 24 NEW LESSON NEEDED
+- DR Congo's own way: nutrition taught entirely through Congolese food — cassava, plantain, fumbwa and biteku-teku leaves, fretin (small dried fish), caterpillars and termites as valued protein — with the WHO five keys, home water treatment and the social technician's community-education role built in.
+- Annexes (named, not placed per brief): technical glossary (inventory-only); local-food nutrient guide and meal plans (reference support for §§2–5, 10); practical animation sheets (support for §11.1).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 1 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §6.1 Water — the body's need, what makes water drinkable, source risks, home treatment (filter, chlorinate, boil, sun) and safe storage (original string `staying-safe/safe-water-for-drinking`) | DR Congo Humanities 1 Techniques Sociales, Food Hygiene, §6.1 |
+
+**Book 2 — Hygiène Alimentaire, 1ère Option Nutrition (student book, French):**
+- Title as printed: Manuel d'Hygiène Alimentaire – 1ère Année Option Nutrition
+- Grade: 1ère année des humanités, Option Nutrition (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 22 placements — 0 to existing lessons, 22 NEW LESSON NEEDED
+- DR Congo's own way: the Nutrition option's twin of Book 1 — where Techniques Sociales teaches what to eat, this book teaches how food becomes dangerous: hazard types (Salmonella in poultry, cholera in fouled water, aflatoxins in badly dried groundnuts, cyanide in badly prepared cassava), the handler's own body and clothes as contamination sources, and market-visit practice (Gambela in Kinshasa, Mzee Kabila in Lubumbashi).
+- Named, not placed (course apparatus): §0.2 course objectives, §0.3 competency-approach methodology.
+- Annexes (named, not placed per brief): Annexe 1 illustrated handwashing guide (support for §3.1); Annexe 2 food-safety temperature chart (support for §5.4); Annexe 3 cleaning/disinfection protocol (support for §4.1).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 2 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §7.1 Managing drinking water — protecting water sources; home treatment by boiling, filtering, chlorinating (original string `staying-safe/safe-water-for-drinking`) | DR Congo Humanities 1 Nutrition, Food Hygiene, §7.1 |
+
+**Book 4 — Hygiène Individuelle et Collective, 1ère Techniques Sociales (student book, French):**
+- Title as printed: Cours d'Hygiène Individuelle et Collective pour la 1ère Année en Techniques Sociales
+- Grade: 1ère année des humanités, Techniques Sociales (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 20 placements — 0 to existing lessons, 20 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- DR Congo's own way: the general hygiene course behind the food books — body, clothes, house, water, latrines, rubbish and vectors, then the diseases themselves (malaria first, TB, cholera and the "5 Fs" of faecal transmission, worms), vaccination, and the Salongo community-cleaning tradition named as hygiene practice.
+- Annexes (named, not placed per brief): hygiene/public-health glossary (inventory-only); DRC vaccination calendar (reference tool supporting §7.1); disease fact sheets for ~10 priority diseases (support for Ch. 6–9); health-education session guide (support for §11.1).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 4 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §4.1 Drinking water at home — protecting wells/springs, clean dedicated jerrycans, covered storage with a tap, home treatment (boiling, chlorination, filtration) (original string `staying-safe/safe-water-for-drinking`) | DR Congo Humanities 1 Techniques Sociales, Individual & Collective Hygiene, §4.1 |
+| DR Congo — §4.2 Basic sanitation — hygienic latrines (slab, lid) and keeping them clean, soak-pits for household waste water, handwashing with soap after the latrine (original string `staying-safe/safe-water-for-drinking`) | DR Congo Humanities 1 Techniques Sociales, Individual & Collective Hygiene, §4.2 |
+
+**Book 5 — Hygiène, 1ère Hôtellerie et Restauration (student book, French):**
+- Title as printed: Manuel d'Hygiène pour la 1ère Année en Hôtellerie et Restauration
+- Grade: 1ère année des humanités, Hôtellerie et Restauration (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 37 placements — 1 to an existing lesson, 36 NEW LESSON NEEDED
+- DR Congo's own way: professional hygiene for hotels/restaurants built on applied microbiology — the C.H.A.T.T.E. growth conditions (heat, humidity, acidity, time, oxygen, nutrients), the blue-plaster wound rule, coloured chopping boards, FIFO stock rotation and probe-thermometer cooking checks, all localised (Karavia hotel Lubumbashi, Kikwit water supply, Matadi dining rooms).
+- Annexes (named, not placed per brief): Annexe 1 hygiene glossary (inventory-only); Annexe 2 model cleaning plan (support for §4.4); Annexe 3 fridge/freezer temperature record sheet (support for §7.3–7.4).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 5 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §5.1 Drinking-water supply — potability criteria; treating water by filtration, boiling, chlorination where supply is unreliable (original string `staying-safe/safe-water-for-drinking`) | DR Congo Humanities 1 Hôtellerie, Hygiene, §5.1 |
+
+**Book 8 — Hygiène Alimentaire, 2ème Option Nutrition (student book, French):**
+- Title as printed: Manuel d'Hygiène Alimentaire : 2ème Année, Option Nutrition (RDC)
+- Grade: 2ème année des humanités, Option Nutrition (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 19 placements — 0 to existing lessons, 19 NEW LESSON NEEDED
+- DR Congo's own way: Year 2 moves from rules to systems — the "5M" contamination framework, the FAT TOM growth factors, the "marche en avant" (clean never crosses dirty), and practice anchored in Kinshasa market risk audits, a Matadi water plan and a hygiene guide for beignet sellers.
+- Named, not placed (course apparatus): Préliminaires §§1–4 (objectives, competencies, pedagogy, assessment scheme).
+- Annexes (named, not placed per brief): Annexe 1 food-hygiene glossary (inventory-only); Annexe 2 simplified good-hygiene-practice guide for a small restaurant/"malewa" (support); Annexe 3 seven-step handwashing poster (support for §3.3).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 8 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §7.1 What makes water drinkable — potability criteria for water used in drinking and food preparation (original string `staying-safe/safe-water-for-drinking`) | DR Congo Humanities 2 Nutrition, Food Hygiene, §7.1 |
+| DR Congo — §7.2 Treating water — filtration, boiling and chlorination where there is no controlled tap supply (original string `staying-safe/safe-water-for-drinking`) | DR Congo Humanities 2 Nutrition, Food Hygiene, §7.2 |
+
+**Book 15 — Activités de Promotion de la Santé, 1ère Maternelle (teacher guide, French):**
+- Title as printed: Guide d'Activités de Promotion de la Santé : 1ère Année Maternelle
+- Grade: 1ère année maternelle (age 3) (student/teacher: TEACHER — an activity guide for the educator, teaching the child programme of Basic Competence 5, "taking care of one's body")
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: 150 as printed on the page — HTML web edition, complete detailed contents on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 36 placements — 0 to existing lessons, 36 NEW LESSON NEEDED
+- DR Congo's own way: health begins at age three as ritual and imitation — the teacher demonstrates, the child copies; handwashing stations are pedal bins and basins, and nutrition is taught entirely from local foods (fufu, chikwangue, mbinzo caterpillars, pondu) sorted into energy, builder and protector groups.
+- Named, not placed (teacher apparatus): §1.1–1.4 pedagogical preliminaries (nature of the course, demonstration method, the classroom hygiene corner, timetable and observation-based evaluation).
+- Annexes (named, not placed per brief): 11.1 classroom hygiene rota (support for Ch. 2); 11.2 picture set of local foods by group (support for Ch. 4–6); 11.3 safety pictograms for the classroom wall (support for Ch. 8); 11.4 health songs in French and national languages (support).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 15 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §4.1 Drinking safe water — telling drinking water from dirty water; never drinking untreated river or puddle water (teacher guide — evidence) (original string `staying-safe/safe-water-for-drinking`) | DR Congo Maternelle 1, Health Promotion, §4.1 |
+
+**Book 16 — Activités de Promotion de la Santé, 2ème Maternelle (teacher guide, French):**
+- Title as printed: Manuel d'Activités de Promotion de la Santé pour la 2ème Année Maternelle en RDC
+- Grade: 2ème année maternelle (age 4) (student/teacher: TEACHER — activity manual written for the educator)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title; unrelated language-course content that follows it on the same web page is a different book and is not part of this record)
+- Verdict: COMPLETE
+- Tally: 36 placements — 0 to existing lessons, 36 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- DR Congo's own way: Year 2 automates the Year 1 gestures (palm, back of hand, between the fingers) and widens the shield — malaria nets and larval sites, Ebola/Covid barrier gestures, toilet autonomy, and the child sent home as a health promoter for local food over imported processed food.
+- Annexes (named, not placed per brief): A.1 food pyramid of local products (support for Ch. 4–5); A.2 illustrated handwashing protocol poster (support for §1.1); A.3 tooth-brushing calendar to take home (support for §1.3); A.4 teacher observation grid for hygiene and health (teacher apparatus).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 16 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §3.1 Drinking safe water — never unsafe tap, river or puddle water; drinking filtered or boiled water (teacher guide — evidence) (original string `staying-safe/safe-water-for-drinking`) | DR Congo Maternelle 2, Health Promotion, §3.1 |
+
+**Book 17 — Activités de Promotion de la Santé, 3ème Maternelle (teacher guide, French):**
+- Title as printed: Manuel d'Activités de Promotion de la Santé pour la 3ème Maternelle
+- Grade: 3ème année maternelle (age 5) (student/teacher: TEACHER — activity manual written for the educator)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 36 placements — 1 to an existing lesson, 35 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- DR Congo's own way: the final kindergarten year makes the child an actor of sanitation — correct latrine use, sorting fresh from spoiled food, covering food against vectors, burn safety around cooking fires, and health widened to sleep, fatigue and emotional well-being.
+- Annexes (named, not placed per brief): Annexe 1 classification table of local foods (support for Ch. 4); Annexe 2 illustrated handwashing protocol (support for §1.1); Annexe 3 individual hygiene follow-up sheet (self-check tool); Annexe 4 first-aid guide for the child — alert, do not touch blood, reassure (support for §8.4).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 17 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §2.1 Drinking safe water — telling drinking water from soiled water; choosing boiled or filtered water and safe sources (teacher guide — evidence) (original string `staying-safe/safe-water-for-drinking`) | DR Congo Maternelle 3, Health Promotion, §2.1 |
+| DR Congo — §6.4 Regular hydration — drinking safe water all day, not only at meals; answering thirst with water, not sweet drinks (teacher guide — evidence) (original string `staying-safe/safe-water-for-drinking`) | DR Congo Maternelle 3, Health Promotion, §6.4 |
+
+**Book 18 — Éveil Scientifique (ESE), Primaire 1 (student book, French) — combined science/health book: health parts placed here:**
+- Title as printed: Cours et Exercices d'Éveil Scientifique pour la 1ère Année Primaire (ESE)
+- Grade: 1ère année primaire (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 30 placements — 2 to existing lessons, 28 NEW LESSON NEEDED
+- DR Congo's own way: health enters through the science-awakening course — my body, my living place, then prevention: local toilet materials (including the chewing stick), latrines and the rubbish pit, and road safety taught as a six-step crossing reflex.
+- Other subjects named, not placed: Partie 2 Ch. 5 discovering the environment — natural phenomena (rain, wind, storm, rainbow), natural disasters (flood, erosion), elements and importance of the environment (§§5.1–5.4, science); Ch. 6 §§6.1–6.2 human activities — agriculture, livestock, fishing, hunting, crafts and trades (science/social studies).
+- Annexes (named, not placed per brief): Annexe 1 visual handwashing guide in 6 pictures (support for §2.1); Annexe 2 simple classification of local foods (support for §7.1); Annexe 3 pictograms of domestic dangers (support for Ch. 8); Annexe 4 glossary of key terms (inventory-only).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 18 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §7.3 The importance of drinking water — water as an essential food: the body needs much of it daily to digest and replace sweat losses (original string `staying-safe/safe-water-for-drinking`) | DR Congo Grade 1 ESE Primaire 1, §7.3 |
+| DR Congo — §7.4 The qualities of drinking water — clear, odourless, tasteless — yet even clear water can hide microbes, so treated water is best (original string `staying-safe/safe-water-for-drinking`) | DR Congo Grade 1 ESE Primaire 1, §7.4 |
+
+**Book 20 — Éducation à la Santé et à l'Environnement (ESE), Primaire 3–4 (student book, French) — covers records "Primaire 3 ESE" and "Primaire 4 ESE":**
+- Title as printed: Manuels d'Éducation Sociale et Environnementale (ESE) pour la 3ème et 4ème Année Primaire (record title); page title: Manuel d'Éducation à la Santé et à l'Environnement (ESE) pour la 4ème Année Primaire – Édition 2025
+- Grade: 3ème et 4ème année primaire (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE. The separate "Primaire 4 ESE" record page carries identical text to this combined 3–4 page (same 280 lines, verified section by section) — one book, two records; placed once here, both editions named.
+- Tally: 36 placements — 0 to existing lessons, 36 NEW LESSON NEEDED
+- DR Congo's own way: the middle-primary course is organised by enemies and shields — skin diseases and their causes, sleep as mental hygiene, disease vectors and their breeding sites (anopheles, tsetse, the bilharzia snail), waste sorted and composted, and vaccination explained as a "trainer" that teaches the body to make its soldier antibodies.
+- Annexes (named, not placed per brief): Annexe 1 illustrated vector fact sheets (support for Ch. 3); Annexe 2 practical school composting guide (support for §4.3); Annexe 3 wall table of the three food groups (support for Ch. 9); Annexe 4 simplified DRC (PEV) vaccination calendar (support for Ch. 8).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 20 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §6.1 Water's role for human life — drinking, washing, cooking, laundry; the body mostly water, so clean water is a necessity for every organ (original string `staying-safe/safe-water-for-drinking`) | DR Congo Grades 3–4 ESE Primaire 3–4, §6.1 |
+| DR Congo — §6.2 Water's role for animal and plant life — livestock watering, roots absorbing water, rivers and lakes (Tanganyika) as the fishes' home (original string `staying-safe/safe-water-for-drinking`) | DR Congo Grades 3–4 ESE Primaire 3–4, §6.2 |
+| DR Congo — §6.3 Sanitation and protecting water sources — keeping springs, wells and rivers clean: no waste, laundry or defecation near them (original string `staying-safe/safe-water-for-drinking`) | DR Congo Grades 3–4 ESE Primaire 3–4, §6.3 |
+| DR Congo — §6.4 Keeping drinking water safe — clean tightly covered containers (jerrycans, jugs); drinking from a clean cup, never straight from the container (original string `staying-safe/safe-water-for-drinking`) | DR Congo Grades 3–4 ESE Primaire 3–4, §6.4 |
+
+**Book 21 — Éducation à la Santé et à l'Environnement (ESE), Primaire 5 (student book, French):**
+- Title as printed: Manuel d'Éducation à la Santé et à l'Environnement (ESE) – 5ème Année Primaire RDC
+- Grade: 5ème année primaire (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title; the book's own sub-section numbering, 1.1.1 style, is kept in the citations)
+- Verdict: COMPLETE
+- Tally: 37 placements — 0 to existing lessons, 37 NEW LESSON NEEDED
+- DR Congo's own way: Year 5 splits water by use — drinking water (typhoid, cholera) from bathing water (bilharzia through the skin) — refuses self-medication and street "pharmacies on the ground", and teaches malnutrition clinically: marasmus vs kwashiorkor, anaemia, and the vicious circle between malnutrition and infection.
+- Annexes (named, not placed per brief): Annexe 1 practical water-treatment guide — settle, filter, boil 5 minutes (support for §1.2.4); Annexe 2 simplified PEV vaccination calendar (support for Ch. 6); Annexe 3 visual malnutrition guide — healthy vs marasmus vs kwashiorkor child (support for §1.8.3); Annexe 4 health glossary (inventory-only).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 21 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §1.2.1 Diseases from drinking water: typhoid and cholera — the severe bacterial infection and the acute diarrhoea dehydrating fast, spreading quickly in Kinshasa supply failures (original string `staying-safe/safe-water-for-drinking`) | DR Congo Grade 5 ESE Primaire 5, §1.2.1 |
+| DR Congo — §1.2.2 Diseases from drinking water: dysentery and worm infestation — bloody/mucus diarrhoea and intestinal worms whose eggs travel in water, weakening the body and stunting growth (original string `staying-safe/safe-water-for-drinking`) | DR Congo Grade 5 ESE Primaire 5, §1.2.2 |
+| DR Congo — §1.2.3 Recognising drinking water — clear, odourless, colourless, tasteless; clear water is not necessarily safe, but cloudy or smelly water is certainly unfit (original string `staying-safe/safe-water-for-drinking`) | DR Congo Grade 5 ESE Primaire 5, §1.2.3 |
+| DR Congo — §1.2.4 Treating drinking water at home — settling, filtering (modern filter or clean thick cloth) and vigorous boiling, the surest microbe killer (original string `staying-safe/safe-water-for-drinking`) | DR Congo Grade 5 ESE Primaire 5, §1.2.4 |
+| DR Congo — §1.3.1 Diseases from infected bathing water: bilharzia — the parasite entering through the skin in stagnant or slow water; never bathing in suspect endemic waters (original string `staying-safe/safe-water-for-drinking`) | DR Congo Grade 5 ESE Primaire 5, §1.3.1 |
+| DR Congo — §1.3.3 Qualities of healthy bathing water — clear, odourless, colourless; protected well or borehole water over stagnant pool or river water (original string `staying-safe/safe-water-for-drinking`) | DR Congo Grade 5 ESE Primaire 5, §1.3.3 |
+
+**Book 22 — Éveil (ESE), Primaire 6 (student book, French):**
+- Title as printed: Manuel d'Éveil (ESE) 6ème Année Primaire – Programme RDC, Édition 2025
+- Grade: 6ème année primaire (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 36 placements — 4 to existing lessons, 32 NEW LESSON NEEDED
+- DR Congo's own way: the final primary year is public health — hygienic latrines with the Tippy-Tap handwash device against the "faecal peril", a full first-aid chapter, alcohol and tobacco refused (including traditional lotoko and munkoyo), toxic fishing condemned, and STIs/HIV taught with an absolute stress on prevention and on supporting people living with HIV without stigma.
+- Annexes (named, not placed per brief): Annexe 1 formative evaluation grids (teacher apparatus); Annexe 2 illustrated first-aid fact sheets (support for Ch. 2); Annexe 3 glossary of key terms (inventory-only); Annexe 4 school sanitation project sheets — building a Tippy-Tap, school garden, green space (support for §§1.1, 6.3).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 22 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §1.4 Treating and making water drinkable — settling (Congo river water), filtering (clean cloth, sand-and-charcoal filter) and boiling; keeping treated water in a clean covered container (original string `staying-safe/safe-water-for-drinking`) | DR Congo Grade 6 ESE Primaire 6, §1.4 |
+
+DR Congo is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the student book(s) stocked here are Book(s) 1, 2, 4, 5, 8, 18, 20, 21, 22, so DR Congo is named in the countries line and provenance rows and the acceptance count rises from 7 to 8 countries; the teacher-guide rows, where present, are teacher-guide evidence only, outside the count. The DR Congo placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug, or under its canonical NEW string, are recorded as filed), and the original string is recorded in each provenance row above. DR Congo's own way is content, as the book lines above record it: health teaching built on school hygiene, nutrition taught through Congolese food (cassava, plantain, fumbwa and biteku-teku leaves, fretin, caterpillars and termites as valued protein), food safety and the WHO five keys, water and sanitation, maternal and child health, and workplace safety, with the Salongo community-cleaning tradition named as hygiene practice. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.

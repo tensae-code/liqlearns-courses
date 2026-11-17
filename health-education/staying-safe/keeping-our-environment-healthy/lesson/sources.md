@@ -1,8 +1,8 @@
 # Sources — Keeping Our Environment Healthy
 
-countries: Namibia, China, Philippines, Papua New Guinea, Bhutan, Iran, Tanzania, Mauritius, Eritrea, Jamaica, Nepal, Maldives, Sri Lanka, Fiji, Belize
+countries: Namibia, China, Philippines, Papua New Guinea, Bhutan, Iran, Tanzania, Mauritius, Eritrea, Jamaica, Nepal, Maldives, Sri Lanka, Fiji, Belize, DR Congo
 
-**Acceptance count: taught in 10 countries.** Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Tanzania is added as student-book stock (see its Tanzania section below), inside the acceptance count. Namibia is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. China is filed as student-book stock, inside the acceptance count, in this lesson. Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — all five Bhutan books are STUDENT books. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Eritrea is added as student-book stock (see its Eritrea section below), inside the acceptance count — all three Eritrea books are STUDENT books. Jamaica is filed as curriculum-guide evidence only in this lesson (see its Jamaica section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Jamaica rows in this lesson — both read Jamaica books are curriculum guides (TEACHER). Nepal is added as student-book stock (see its Nepal section below), inside the acceptance count. Maldives is filed as teacher-guide evidence only in this lesson (see its Maldives section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Maldives rows in this lesson. Belize is filed as teacher-curriculum / teacher-guide evidence only in this lesson (see its Belize section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for Belize in this lesson.
+**Acceptance count: taught in 11 countries.** Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Tanzania is added as student-book stock (see its Tanzania section below), inside the acceptance count. Namibia is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. China is filed as student-book stock, inside the acceptance count, in this lesson. Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — all five Bhutan books are STUDENT books. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Eritrea is added as student-book stock (see its Eritrea section below), inside the acceptance count — all three Eritrea books are STUDENT books. Jamaica is filed as curriculum-guide evidence only in this lesson (see its Jamaica section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Jamaica rows in this lesson — both read Jamaica books are curriculum guides (TEACHER). Nepal is added as student-book stock (see its Nepal section below), inside the acceptance count. Maldives is filed as teacher-guide evidence only in this lesson (see its Maldives section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Maldives rows in this lesson. Belize is filed as teacher-curriculum / teacher-guide evidence only in this lesson (see its Belize section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for Belize in this lesson. DR Congo is filed as student-book stock, inside the acceptance count, in this lesson (see its DR Congo section below); its teacher-guide rows in this lesson are teacher-guide evidence only, outside the count.
 
 **Book 1 — Physical Education 4 Life: A Guide for Physical Education Teachers in Namibia, Grades 10–11 (teacher guide, English) — Health parts:**
 - Title as printed: Physical Education 4 Life — A Guide for Physical Education Teachers in Namibia — Grades 10–11
@@ -872,3 +872,348 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/fiji-health-
 | Fiji — Unit 35 Environmental Issues: Climate Change — climate change is any significant change in the Earth's climate (temperature, precipitation, wind, humidity), caused by the sun's heat, changes in the Earth's orbit, ocean circulation and human activity such as burning fossil fuels and cutting forests; ways we can reduce it (original string `staying-safe/conservation-and-recycling`) | Fiji Year 7 Healthy Living, printed p. 79 |
 
 Fiji is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the student book(s) stocked here are Book 1, Book 2, Book 3, Book 5, Book 7, Book 8, Book 10, Book 13, so Fiji is named in the countries line and provenance rows and the acceptance count rises from 9 to 10 countries. The Fiji placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Fiji's own way is content, as the book lines above record it: health is taught through the Healthy Living series rooted in island life — floods and hurricanes, boats and swimming, village family life, Fiji's own foods (dalo, tavioka, kumala), its immunisation schedule and its own health services. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+## DR Congo — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md. 94 DR Congo placement(s) stocked in this lesson. The DR Congo book(s) stocked in this lesson: Book 2, Book 4, Book 5, Book 6, Book 8, Book 9, Book 11, Book 13, Book 14, Book 15, Book 16, Book 17, Book 18, Book 19, Book 20, Book 21, Book 22. DR Congo's student books are student-book stock, inside the acceptance count, in this lesson; its teacher-guide rows (Books 15–17, the Maternelle health-promotion guides) are teacher-guide evidence only, outside the count, and are marked (teacher guide — evidence) in the rows below. Books 3 and 7 of that file are UNREAD — sales pages (only Chapter 1 offered free in an on-page flipbook serving no downloadable file), each with 0 placements — and Book 12 (Hygiène et Environnement, 3ème Vétérinaire) is record-only under the veterinary exclusion, with 0 placements; nothing is stocked from them in any lesson. No DR Congo placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 2 — Hygiène Alimentaire, 1ère Option Nutrition (student book, French):**
+- Title as printed: Manuel d'Hygiène Alimentaire – 1ère Année Option Nutrition
+- Grade: 1ère année des humanités, Option Nutrition (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 22 placements — 0 to existing lessons, 22 NEW LESSON NEEDED
+- DR Congo's own way: the Nutrition option's twin of Book 1 — where Techniques Sociales teaches what to eat, this book teaches how food becomes dangerous: hazard types (Salmonella in poultry, cholera in fouled water, aflatoxins in badly dried groundnuts, cyanide in badly prepared cassava), the handler's own body and clothes as contamination sources, and market-visit practice (Gambela in Kinshasa, Mzee Kabila in Lubumbashi).
+- Named, not placed (course apparatus): §0.2 course objectives, §0.3 competency-approach methodology.
+- Annexes (named, not placed per brief): Annexe 1 illustrated handwashing guide (support for §3.1); Annexe 2 food-safety temperature chart (support for §5.4); Annexe 3 cleaning/disinfection protocol (support for §4.1).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 2 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §7.2 Getting rid of waste — closed bins and regular removal so rubbish does not attract pests and spread contamination (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Humanities 1 Nutrition, Food Hygiene, §7.2 |
+| DR Congo — §7.3 Fighting pests — flies, cockroaches and rats; prevention by removing food and shelter (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Humanities 1 Nutrition, Food Hygiene, §7.3 |
+
+**Book 4 — Hygiène Individuelle et Collective, 1ère Techniques Sociales (student book, French):**
+- Title as printed: Cours d'Hygiène Individuelle et Collective pour la 1ère Année en Techniques Sociales
+- Grade: 1ère année des humanités, Techniques Sociales (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 20 placements — 0 to existing lessons, 20 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- DR Congo's own way: the general hygiene course behind the food books — body, clothes, house, water, latrines, rubbish and vectors, then the diseases themselves (malaria first, TB, cholera and the "5 Fs" of faecal transmission, worms), vaccination, and the Salongo community-cleaning tradition named as hygiene practice.
+- Annexes (named, not placed per brief): hygiene/public-health glossary (inventory-only); DRC vaccination calendar (reference tool supporting §7.1); disease fact sheets for ~10 priority diseases (support for Ch. 6–9); health-education session guide (support for §11.1).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 4 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §5.2 Fighting disease-carrying animals — mosquitoes (nets, no stagnant water), flies/cockroaches, rodents, and keeping domestic animals from spreading parasites/rabies (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Humanities 1 Techniques Sociales, Individual & Collective Hygiene, §5.2 |
+
+**Book 5 — Hygiène, 1ère Hôtellerie et Restauration (student book, French):**
+- Title as printed: Manuel d'Hygiène pour la 1ère Année en Hôtellerie et Restauration
+- Grade: 1ère année des humanités, Hôtellerie et Restauration (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 37 placements — 1 to an existing lesson, 36 NEW LESSON NEEDED
+- DR Congo's own way: professional hygiene for hotels/restaurants built on applied microbiology — the C.H.A.T.T.E. growth conditions (heat, humidity, acidity, time, oxygen, nutrients), the blue-plaster wound rule, coloured chopping boards, FIFO stock rotation and probe-thermometer cooking checks, all localised (Karavia hotel Lubumbashi, Kikwit water supply, Matadi dining rooms).
+- Annexes (named, not placed per brief): Annexe 1 hygiene glossary (inventory-only); Annexe 2 model cleaning plan (support for §4.4); Annexe 3 fridge/freezer temperature record sheet (support for §7.3–7.4).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 5 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §5.2 Waste-water drainage — grease traps, clean siphons and drains against smells and pest return (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Humanities 1 Hôtellerie, Hygiene, §5.2 |
+| DR Congo — §5.3 Sorting and collecting waste — dry/wet/recyclable; lidded lined bins emptied very regularly in food areas (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Humanities 1 Hôtellerie, Hygiene, §5.3 |
+| DR Congo — §5.4 The bin room and final disposal — isolated, washable, pest-proof waste room; temporary storage and removal procedures (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Humanities 1 Hôtellerie, Hygiene, §5.4 |
+| DR Congo — §6.1 Knowing the pests — cockroaches, flies, mosquitoes, rats and mice as disease carriers and food spoilers (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Humanities 1 Hôtellerie, Hygiene, §6.1 |
+| DR Congo — §6.2 Keeping pests out (passive prevention) — closed doors, window screens, sealing holes and cracks (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Humanities 1 Hôtellerie, Hygiene, §6.2 |
+| DR Congo — §6.3 Starving pests out (active prevention) — rigorous cleanliness, no accessible food, sealed waste (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Humanities 1 Hôtellerie, Hygiene, §6.3 |
+| DR Congo — §6.4 Curative pest control — insecticides/rodenticides with food-contamination precautions; specialist firms (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Humanities 1 Hôtellerie, Hygiene, §6.4 |
+
+**Book 6 — Santé, Sécurité et Environnement, 1ère Maçonnerie (student book, French):**
+- Title as printed: Manuel de Santé, Sécurité et Environnement : 1ère Année Maçonnerie (RDC)
+- Grade: 1ère année des humanités, Option Maçonnerie (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 36 placements — 1 to an existing lesson, 35 NEW LESSON NEEDED
+- DR Congo's own way: worker health taught as applied anatomy — every body system (bones, joints, muscles, heart, lungs, immunity, digestion, kidneys) is taught through the mason's own tasks, ending in PPE, first aid and site-waste duties; hydration in Kinshasa/Kalemie heat is named the mason's first safety measure.
+- Annexes (named, not placed per brief): A.1 anatomical plates (visual support); A.2 construction-medicine glossary (inventory-only); A.3 vital-signs record sheet (practical tool supporting §4.4/§8.3); A.4 ergonomic posture guide for masonry tasks (illustrated support for §§1.3, 2.4).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 6 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §9.4 Health promotion and site environment — managing building waste so soil and water stay clean; the mason as health-practice ambassador (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Humanities 1 Maçonnerie, SSE, §9.4 |
+
+**Book 8 — Hygiène Alimentaire, 2ème Option Nutrition (student book, French):**
+- Title as printed: Manuel d'Hygiène Alimentaire : 2ème Année, Option Nutrition (RDC)
+- Grade: 2ème année des humanités, Option Nutrition (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 19 placements — 0 to existing lessons, 19 NEW LESSON NEEDED
+- DR Congo's own way: Year 2 moves from rules to systems — the "5M" contamination framework, the FAT TOM growth factors, the "marche en avant" (clean never crosses dirty), and practice anchored in Kinshasa market risk audits, a Matadi water plan and a hygiene guide for beignet sellers.
+- Named, not placed (course apparatus): Préliminaires §§1–4 (objectives, competencies, pedagogy, assessment scheme).
+- Annexes (named, not placed per brief): Annexe 1 food-hygiene glossary (inventory-only); Annexe 2 simplified good-hygiene-practice guide for a small restaurant/"malewa" (support); Annexe 3 seven-step handwashing poster (support for §3.3).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 8 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §8.1 Waste kinds and storage — wet (biodegradable) vs dry waste; closed watertight bins away from preparation areas (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Humanities 2 Nutrition, Food Hygiene, §8.1 |
+| DR Congo — §8.2 Disposing of and reusing waste — hygienic removal; composting organic waste for kitchen gardens (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Humanities 2 Nutrition, Food Hygiene, §8.2 |
+| DR Congo — §8.3 Fighting pests — flies, cockroaches and rodents by physical measures and cleanliness first, chemicals last (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Humanities 2 Nutrition, Food Hygiene, §8.3 |
+
+**Book 9 — Hygiène et Sécurité au Travail, 2ème Menuiserie (student book, French):**
+- Title as printed: Manuel d'Hygiène et Sécurité au Travail pour la Menuiserie (2ème Année)
+- Grade: 2ème année des humanités, Option Menuiserie (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 36 placements — 4 to an existing lesson, 32 NEW LESSON NEEDED
+- DR Congo's own way: workshop safety taught machine by machine and product by product for Congolese joinery — the fitted "salopette" of Limete workshops, toxic tropical woods (Wenge; annexe table of Kambala and ebony), the glove paradox (gloves for carrying rough wood, never on rotating machines), and fire/evacuation drills for big Matadi workshops.
+- Annexes (named, not placed per brief): A.1 standardised safety pictograms (support for §6.2); A.2 periodic machine-check list (support for Ch. 4); A.3 table of toxic Congolese wood species — Kambala, ebony — with required respiratory PPE (support for §§2.3, 5.2); A.4 emergency-alert procedure with local numbers (support for §8.1).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 9 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §9.1 Sorting workshop waste — inert, hazardous (solvent cans, soaked rags) and ordinary waste; reusing untreated chips (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Humanities 2 Menuiserie, Hygiene & Work Safety, §9.1 |
+| DR Congo — §9.2 Storing dangerous products — ventilated cabinets on retention trays against soil/groundwater leaks (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Humanities 2 Menuiserie, Hygiene & Work Safety, §9.2 |
+| DR Congo — §9.3 Noise and air nuisances — reducing noise at source and filtering extracted air for the neighbourhood (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Humanities 2 Menuiserie, Hygiene & Work Safety, §9.3 |
+| DR Congo — §9.4 Eco-design and rational use — optimising cuts to reduce offcuts; choosing less-polluting water-based finishes (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Humanities 2 Menuiserie, Hygiene & Work Safety, §9.4 |
+
+**Book 11 — Qualité, Santé, Sécurité et Environnement (QSSE), 2ème Maçonnerie (student book, French):**
+- Title as printed: Manuel de Qualité, Santé, Sécurité et Environnement (QSSE) pour la Maçonnerie, 2ème Année
+- Grade: 2ème année des humanités, Option Maçonnerie (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 28 placements — 1 to an existing lesson, 27 NEW LESSON NEEDED
+- DR Congo's own way: Year 2 turns the mason's safety teaching into a system — risk analysis before every task, collective protection before individual, site waste and nuisances managed for the neighbourhood, and every accident, even a near-miss, debriefed and declared to the CNSS.
+- Named, not placed (out of scope — masonry trade quality, not health): Partie 3 Ch. 7 quality standards, dimensional tolerances, materials reception control and finish aesthetics (§§7.1–7.4); Ch. 8 measuring instruments, site tests (slump test), traceability sheets and non-conformity handling (§§8.1–8.4).
+- Annexes (named, not placed per brief): A.1 safety pictograms and chemical hazard symbols (visual support for §3.1/§3.4); A.2 model risk-analysis sheet (support for §2.2); A.3 scaffold check-list (support for §2.3); A.4 emergency eye-wash procedure, 15-minute rinse for lime/cement splashes (support for §9.2).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 11 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §4.1 Classifying site waste — inert, ordinary industrial and dangerous waste, and why each stream is treated differently (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Humanities 2 Maçonnerie, QSSE, §4.1 |
+| DR Congo — §4.2 Reducing and reusing waste — precise cutting plans; crushed rubble as sub-base and formwork timber reused (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Humanities 2 Maçonnerie, QSSE, §4.2 |
+| DR Congo — §4.3 Storing and evacuating waste lawfully — separate storage areas, approved dumps and structured recycling channels; never burning plastics on site (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Humanities 2 Maçonnerie, QSSE, §4.3 |
+| DR Congo — §4.4 Final cleaning and restoring the site — removing cement wash, decompacting soil and replanting (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Humanities 2 Maçonnerie, QSSE, §4.4 |
+| DR Congo — §5.1 Fighting silica dust — watering work zones, extraction at source and sheeting transport trucks (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Humanities 2 Maçonnerie, QSSE, §5.1 |
+| DR Congo — §5.2 Managing noise and vibrations — quieter machines, daytime hours and distance from neighbouring homes in dense Kinshasa (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Humanities 2 Maçonnerie, QSSE, §5.2 |
+| DR Congo — §5.3 Protecting soil and water — settling tanks for mixer wash-water; shielding sand and earth stocks from rain runoff (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Humanities 2 Maçonnerie, QSSE, §5.3 |
+| DR Congo — §5.4 Relations with neighbours — announcing noisy work, keeping the surroundings clean and hearing legitimate complaints (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Humanities 2 Maçonnerie, QSSE, §5.4 |
+| DR Congo — §6.1 Using water rationally — optimising mix water, rainwater for tool cleaning and fast leak detection (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Humanities 2 Maçonnerie, QSSE, §6.1 |
+| DR Congo — §6.2 Valuing local materials — fired earth brick, local cut stone and compressed earth blocks cut transport carbon and support regional skills (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Humanities 2 Maçonnerie, QSSE, §6.2 |
+| DR Congo — §6.3 Passive energy efficiency — sound joints, sun-breakers and heavy-wall thermal inertia for comfort without excess air-conditioning (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Humanities 2 Maçonnerie, QSSE, §6.3 |
+| DR Congo — §6.4 Protecting biodiversity on site — keeping existing trees and topsoil, limiting the site's footprint, care near watercourses (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Humanities 2 Maçonnerie, QSSE, §6.4 |
+
+**Book 13 — Hygiène et Sécurité du Travail, 4ème Techniques Sociales (student book, French):**
+- Title as printed: Manuel d'Hygiène et Sécurité du Travail pour la 4ème Année, Option Techniques Sociales
+- Grade: 4ème année des humanités, Option Techniques Sociales (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 56 placements — 1 to an existing lesson, 55 NEW LESSON NEEDED
+- DR Congo's own way: the final-year course is the complete occupational-health system — Congolese Labour Code duties, physical/chemical/biological risk families, occupational medicine, collective-before-individual prevention, recognised occupational diseases with CNSS reparation, and the social technician's own role: spotting risks, supporting victims, and running the safety talk.
+- Annexes (named, not placed per brief): Annexe 1 glossary of hygiene and safety (inventory-only); Annexe 2 selected Congolese Labour Code articles on hygiene and safety duties (legal source); Annexe 3 simplified table of recognised occupational diseases (support for Ch. 12); Annexe 4 model enterprise-visit report (support for Ch. 14).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 13 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §5.4 Waste management on the work site — handling industrial and household waste to prevent contamination, fire and pollution (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Humanities 4 Techniques Sociales, Hygiene & Work Safety, §5.4 |
+
+**Book 14 — Santé, Sécurité et Environnement, 4ème Menuiserie (student book, French):**
+- Title as printed: Manuel de Santé, Sécurité et Environnement pour la Menuiserie (4ème Année)
+- Grade: 4ème année des humanités, Option Menuiserie (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title; the page numbers its burns section "8.1" inside Chapter 9 — cited here as §9.1 as printed in sequence)
+- Verdict: COMPLETE
+- Tally: 28 placements — 8 to an existing lesson, 20 NEW LESSON NEEDED
+- DR Congo's own way: the final-year joinery course runs environment first (the Congo-basin forest as the joiner's own raw material), then the legal safety framework, and ends with the fullest first-aid training in the set — Protect–Examine–Alert–Rescue, the rule of 15s for burns, and care for severed fingers.
+- Named, not placed (out of scope — joinery trade quality, not health): Partie 2 Ch. 5 quality concepts and ISO norms, causes of non-quality, Pareto/Ishikawa tools (§§5.1–5.4); Ch. 6 measuring instruments, metrology, workstation quality control and traceability (§§6.1–6.4).
+- Annexes (named, not placed per brief): A.1 safety signal code plate (support for §3.3/Ch. 4); A.2 model accident-analysis form with cause tree (support); A.3 blank quality diagrams (trade-quality support); A.4 emergency-call procedure memo with Congolese city numbers (support for §7.3); A.5 HSE and quality glossary (inventory-only).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 14 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §1.1 Ecosystems and natural systems — living community and physical setting interacting; energy and matter flows in the Congolese tropical forest (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Humanities 4 Menuiserie, SSE, §1.1 |
+| DR Congo — §1.2 Communities and their physical setting — interdependence such as Wenge/Limba trees and seed-spreading fauna; what wood extraction does to soil and water (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Humanities 4 Menuiserie, SSE, §1.2 |
+| DR Congo — §1.3 Ecological balances — natural regulation of populations and resources, and the breaking points of over-deforestation (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Humanities 4 Menuiserie, SSE, §1.3 |
+| DR Congo — §1.4 Protecting nature and species — threatened species and critical habitats (Virunga, Salonga); recognising protected timbers and the ban on exploiting them illegally (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Humanities 4 Menuiserie, SSE, §1.4 |
+| DR Congo — §2.1 Types of systematic pollution — lasting air, water and soil pollution from wood processing: solvents, fine dust, noise; public-health effects in Kinshasa and Lubumbashi (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Humanities 4 Menuiserie, SSE, §2.1 |
+| DR Congo — §2.2 Biodegradability of materials — natural breakdown of wood and natural glues vs the persistence of plastics and synthetic varnishes; choosing kinder finishing products (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Humanities 4 Menuiserie, SSE, §2.2 |
+| DR Congo — §2.3 Recycling and valorisation — sawdust into fuel briquettes, bark composted, offcuts into small craft objects (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Humanities 4 Menuiserie, SSE, §2.3 |
+| DR Congo — §2.4 Reducing pollution at source — dust extraction, retention trays for chemicals, preventive machine maintenance against noise and oil leaks (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Humanities 4 Menuiserie, SSE, §2.4 |
+| DR Congo — §3.1 Sustainable development — balancing economy, social fairness and environment in joinery; FSC certification and traceability (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Humanities 4 Menuiserie, SSE, §3.1 |
+| DR Congo — §3.2 Environmental law and administration — the Congolese bodies regulating environment and public safety; environmental impact studies for industrial sites (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Humanities 4 Menuiserie, SSE, §3.2 |
+
+**Book 15 — Activités de Promotion de la Santé, 1ère Maternelle (teacher guide, French):**
+- Title as printed: Guide d'Activités de Promotion de la Santé : 1ère Année Maternelle
+- Grade: 1ère année maternelle (age 3) (student/teacher: TEACHER — an activity guide for the educator, teaching the child programme of Basic Competence 5, "taking care of one's body")
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: 150 as printed on the page — HTML web edition, complete detailed contents on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 36 placements — 0 to existing lessons, 36 NEW LESSON NEEDED
+- DR Congo's own way: health begins at age three as ritual and imitation — the teacher demonstrates, the child copies; handwashing stations are pedal bins and basins, and nutrition is taught entirely from local foods (fufu, chikwangue, mbinzo caterpillars, pondu) sorted into energy, builder and protector groups.
+- Named, not placed (teacher apparatus): §1.1–1.4 pedagogical preliminaries (nature of the course, demonstration method, the classroom hygiene corner, timetable and observation-based evaluation).
+- Annexes (named, not placed per brief): 11.1 classroom hygiene rota (support for Ch. 2); 11.2 picture set of local foods by group (support for Ch. 4–6); 11.3 safety pictograms for the classroom wall (support for Ch. 8); 11.4 health songs in French and national languages (support).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 15 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §3.1 Sweeping the classroom — handling the broom, motor coordination and the shared duty of a dust- and litter-free room (teacher guide — evidence) (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Maternelle 1, Health Promotion, §3.1 |
+| DR Congo — §3.2 Dusting the furniture — wiping tables, chairs and shelves; breathing hygiene and caring for school things (teacher guide — evidence) (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Maternelle 1, Health Promotion, §3.2 |
+| DR Congo — §3.3 Picking up litter — gathering papers and dead leaves in yard and classroom and putting them in the right place (teacher guide — evidence) (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Maternelle 1, Health Promotion, §3.3 |
+| DR Congo — §3.4 Cleaning with water — washing a table or slate; water as the cleaning agent for everyday surfaces (teacher guide — evidence) (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Maternelle 1, Health Promotion, §3.4 |
+
+**Book 16 — Activités de Promotion de la Santé, 2ème Maternelle (teacher guide, French):**
+- Title as printed: Manuel d'Activités de Promotion de la Santé pour la 2ème Année Maternelle en RDC
+- Grade: 2ème année maternelle (age 4) (student/teacher: TEACHER — activity manual written for the educator)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title; unrelated language-course content that follows it on the same web page is a different book and is not part of this record)
+- Verdict: COMPLETE
+- Tally: 36 placements — 0 to existing lessons, 36 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- DR Congo's own way: Year 2 automates the Year 1 gestures (palm, back of hand, between the fingers) and widens the shield — malaria nets and larval sites, Ebola/Covid barrier gestures, toilet autonomy, and the child sent home as a health promoter for local food over imported processed food.
+- Annexes (named, not placed per brief): A.1 food pyramid of local products (support for Ch. 4–5); A.2 illustrated handwashing protocol poster (support for §1.1); A.3 tooth-brushing calendar to take home (support for §1.3); A.4 teacher observation grid for hygiene and health (teacher apparatus).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 16 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §2.1 Sweeping and cleaning the classroom — child-size brooms, gathering dust without raising it, using the dustpan (teacher guide — evidence) (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Maternelle 2, Health Promotion, §2.1 |
+| DR Congo — §2.2 Dusting school furniture — wiping one's table, chair and shelves to prevent allergies and keep a healthy work space (teacher guide — evidence) (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Maternelle 2, Health Promotion, §2.2 |
+| DR Congo — §2.3 Picking up litter and dead leaves — telling natural from artificial waste and using the right bins in the playground (teacher guide — evidence) (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Maternelle 2, Health Promotion, §2.3 |
+| DR Congo — §2.4 Tidying teaching materials — putting every object back in its place so floors and surfaces can be cleaned (teacher guide — evidence) (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Maternelle 2, Health Promotion, §2.4 |
+
+**Book 17 — Activités de Promotion de la Santé, 3ème Maternelle (teacher guide, French):**
+- Title as printed: Manuel d'Activités de Promotion de la Santé pour la 3ème Maternelle
+- Grade: 3ème année maternelle (age 5) (student/teacher: TEACHER — activity manual written for the educator)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 36 placements — 1 to an existing lesson, 35 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- DR Congo's own way: the final kindergarten year makes the child an actor of sanitation — correct latrine use, sorting fresh from spoiled food, covering food against vectors, burn safety around cooking fires, and health widened to sleep, fatigue and emotional well-being.
+- Annexes (named, not placed per brief): Annexe 1 classification table of local foods (support for Ch. 4); Annexe 2 illustrated handwashing protocol (support for §1.1); Annexe 3 individual hygiene follow-up sheet (self-check tool); Annexe 4 first-aid guide for the child — alert, do not touch blood, reassure (support for §8.4).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 17 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §3.1 Sweeping and cleaning floors — gathering dust and litter into a pile and evacuating it properly, at school and in the yard (teacher guide — evidence) (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Maternelle 3, Health Promotion, §3.1 |
+| DR Congo — §3.2 Dusting furniture — wiping benches, chairs and tablets; caring for shared school property (teacher guide — evidence) (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Maternelle 3, Health Promotion, §3.2 |
+| DR Congo — §3.3 Picking up and managing waste — papers and dead leaves into the right bin; telling rubbish places from play places (teacher guide — evidence) (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Maternelle 3, Health Promotion, §3.3 |
+
+**Book 18 — Éveil Scientifique (ESE), Primaire 1 (student book, French) — combined science/health book: health parts placed here:**
+- Title as printed: Cours et Exercices d'Éveil Scientifique pour la 1ère Année Primaire (ESE)
+- Grade: 1ère année primaire (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 30 placements — 2 to existing lessons, 28 NEW LESSON NEEDED
+- DR Congo's own way: health enters through the science-awakening course — my body, my living place, then prevention: local toilet materials (including the chewing stick), latrines and the rubbish pit, and road safety taught as a six-step crossing reflex.
+- Other subjects named, not placed: Partie 2 Ch. 5 discovering the environment — natural phenomena (rain, wind, storm, rainbow), natural disasters (flood, erosion), elements and importance of the environment (§§5.1–5.4, science); Ch. 6 §§6.1–6.2 human activities — agriculture, livestock, fishing, hunting, crafts and trades (science/social studies).
+- Annexes (named, not placed per brief): Annexe 1 visual handwashing guide in 6 pictures (support for §2.1); Annexe 2 simple classification of local foods (support for §7.1); Annexe 3 pictograms of domestic dangers (support for Ch. 8); Annexe 4 glossary of key terms (inventory-only).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 18 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §4.1 A clean house — regular sweeping inside and in the yard, dusting, clean walls without cobwebs (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Grade 1 ESE Primaire 1, §4.1 |
+| DR Congo — §4.2 A clean school and classroom — school as second home: shared sweeping and bench-tidying, the class bin, nothing thrown in the yard (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Grade 1 ESE Primaire 1, §4.2 |
+| DR Congo — §4.3 Managing rubbish — the right place for each waste: paper bin for class waste, rubbish pit or public dump for household waste (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Grade 1 ESE Primaire 1, §4.3 |
+| DR Congo — §6.3 Positive impacts: protecting the environment — planting a fruit tree in the family plot, watering the school flowers, not destroying birds' nests (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Grade 1 ESE Primaire 1, §6.3 |
+| DR Congo — §6.4 Negative impacts: polluting the environment — throwing plastic sachets, papers and bottles on the ground, in the drain or the river dirties water and soil (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Grade 1 ESE Primaire 1, §6.4 |
+
+**Book 19 — Éveil, Santé et Environnement (ESE), Primaire 2 (student book, French) — combined science/health book: health parts placed here:**
+- Title as printed: Manuel d'Éveil, Santé et Environnement (ESE) pour la 2ème Année Primaire en RDC – Édition 2025
+- Grade: 2ème année primaire (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 35 placements — 1 to an existing lesson, 34 NEW LESSON NEEDED
+- DR Congo's own way: Year 2 moves from cleanliness to recognising illness — caries, conjunctivitis, otitis, fungal skin disease, scabies and ringworm, all tied back to uncleanliness — and adds a uniquely Congolese safety lesson: recognising mined areas and explosive remnants of war (do not touch, move away, tell an adult).
+- Other subjects named, not placed: Partie 2 Ch. 5 §5.1 identifying community places — school, church, market, health centre (social studies).
+- Annexes (named, not placed per brief): Annexe 1 visual lexicon of common diseases (support for Ch. 1–2); Annexe 2 pictogram guide to domestic-accident prevention (support for §6.3); Annexe 3 mine/explosive-remnant safety poster — do not touch, move away, tell an adult (support for §5.2); Annexe 4 visual board of foods and conservation (support for Ch. 7–8).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 19 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §4.1 Healthy buildings matter — clean home, school building and play area, where dirt attracts disease vectors (flies, mosquitoes) (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Grade 2 ESE Primaire 2, §4.1 |
+| DR Congo — §4.2 Airing and lighting — opening windows daily against stale air and damp; sunlight as a natural disinfectant (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Grade 2 ESE Primaire 2, §4.2 |
+| DR Congo — §4.3 Cleaning actions — sweeping from inside the class outwards, dusting one's bench-desk, a clean floor (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Grade 2 ESE Primaire 2, §4.3 |
+| DR Congo — §4.4 Correct household-waste management — paper bin, bins, rubbish pit or public dump, never anywhere else (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Grade 2 ESE Primaire 2, §4.4 |
+| DR Congo — §5.3 Respecting the natural environment — forest, bush and watercourses as a shared good not to dirty; the same for public places (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Grade 2 ESE Primaire 2, §5.3 |
+| DR Congo — §5.4 Positive action: planting trees — fruit trees to eat from vs ornamental plants to beautify school and home (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Grade 2 ESE Primaire 2, §5.4 |
+| DR Congo — §6.1 Harmful human activities — deforestation, bush fires and excessive smoke degrading the environment (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Grade 2 ESE Primaire 2, §6.1 |
+| DR Congo — §6.2 Consequences of natural disasters — floods (Kinshasa) and erosion (Kikwit) destroying homes and displacing populations (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Grade 2 ESE Primaire 2, §6.2 |
+| DR Congo — §9.1 Actively respecting the environment — forest and bush are fragile ecosystems, not dumps; avoiding bush fires and useless deforestation (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Grade 2 ESE Primaire 2, §9.1 |
+| DR Congo — §9.2 Respecting watercourses and public places — clean rivers and lakes for bathing and fishing; no litter in streets and parks (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Grade 2 ESE Primaire 2, §9.2 |
+| DR Congo — §9.3 Positive action: planting fruit trees — mango, avocado and papaya trees at school or home, helping the environment while producing food (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Grade 2 ESE Primaire 2, §9.3 |
+| DR Congo — §9.4 Positive action: planting ornamental plants — flowers and lawns beautifying the living place (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Grade 2 ESE Primaire 2, §9.4 |
+
+**Book 20 — Éducation à la Santé et à l'Environnement (ESE), Primaire 3–4 (student book, French) — covers records "Primaire 3 ESE" and "Primaire 4 ESE":**
+- Title as printed: Manuels d'Éducation Sociale et Environnementale (ESE) pour la 3ème et 4ème Année Primaire (record title); page title: Manuel d'Éducation à la Santé et à l'Environnement (ESE) pour la 4ème Année Primaire – Édition 2025
+- Grade: 3ème et 4ème année primaire (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE. The separate "Primaire 4 ESE" record page carries identical text to this combined 3–4 page (same 280 lines, verified section by section) — one book, two records; placed once here, both editions named.
+- Tally: 36 placements — 0 to existing lessons, 36 NEW LESSON NEEDED
+- DR Congo's own way: the middle-primary course is organised by enemies and shields — skin diseases and their causes, sleep as mental hygiene, disease vectors and their breeding sites (anopheles, tsetse, the bilharzia snail), waste sorted and composted, and vaccination explained as a "trainer" that teaches the body to make its soldier antibodies.
+- Annexes (named, not placed per brief): Annexe 1 illustrated vector fact sheets (support for Ch. 3); Annexe 2 practical school composting guide (support for §4.3); Annexe 3 wall table of the three food groups (support for Ch. 9); Annexe 4 simplified DRC (PEV) vaccination calendar (support for Ch. 8).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 20 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §3.3 Fighting vectors by destroying breeding sites — community sanitation: regular weeding, draining puddles, maintaining drains against stagnant water (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Grades 3–4 ESE Primaire 3–4, §3.3 |
+| DR Congo — §4.1 Identifying organic waste — all that comes from living things and can rot: cassava peelings, meal remains, animal droppings, animal carcasses (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Grades 3–4 ESE Primaire 3–4, §4.1 |
+| DR Congo — §4.2 Identifying synthetic waste — man-made waste that does not rot: packaging card, plastic sachets and bottles, tins and metal objects (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Grades 3–4 ESE Primaire 3–4, §4.2 |
+| DR Congo — §4.3 Using waste: recycling (compost, manure) — manure as powerful fertiliser; composting household and plant waste into rich natural fertiliser for the school garden (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Grades 3–4 ESE Primaire 3–4, §4.3 |
+| DR Congo — §4.4 Using waste as feed — kitchen remains hygienically collected for the piggery; organic waste fertilising fish ponds and their plankton (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Grades 3–4 ESE Primaire 3–4, §4.4 |
+| DR Congo — §5.1 The sun's importance and benefits — light for plants and food, sanitary heat and UV killing microbes (drying laundry), solar-panel electricity (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Grades 3–4 ESE Primaire 3–4, §5.1 |
+| DR Congo — §5.2 The sun's direct harms — heatwave and dehydration from sweating (headaches, great fatigue); drinking much water and staying in shade at the hottest hours (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Grades 3–4 ESE Primaire 3–4, §5.2 |
+| DR Congo — §5.3 The sun's indirect harm: desertification — drought and prolonged heat, worsened by tree cutting, turning fertile land arid (south of Lubumbashi) (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Grades 3–4 ESE Primaire 3–4, §5.3 |
+| DR Congo — §5.4 Protecting against the sun's harms — reforestation against desertification, irrigation against agricultural drought, a hat and shade for oneself (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Grades 3–4 ESE Primaire 3–4, §5.4 |
+
+**Book 21 — Éducation à la Santé et à l'Environnement (ESE), Primaire 5 (student book, French):**
+- Title as printed: Manuel d'Éducation à la Santé et à l'Environnement (ESE) – 5ème Année Primaire RDC
+- Grade: 5ème année primaire (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title; the book's own sub-section numbering, 1.1.1 style, is kept in the citations)
+- Verdict: COMPLETE
+- Tally: 37 placements — 0 to existing lessons, 37 NEW LESSON NEEDED
+- DR Congo's own way: Year 5 splits water by use — drinking water (typhoid, cholera) from bathing water (bilharzia through the skin) — refuses self-medication and street "pharmacies on the ground", and teaches malnutrition clinically: marasmus vs kwashiorkor, anaemia, and the vicious circle between malnutrition and infection.
+- Annexes (named, not placed per brief): Annexe 1 practical water-treatment guide — settle, filter, boil 5 minutes (support for §1.2.4); Annexe 2 simplified PEV vaccination calendar (support for Ch. 6); Annexe 3 visual malnutrition guide — healthy vs marasmus vs kwashiorkor child (support for §1.8.3); Annexe 4 health glossary (inventory-only).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 21 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §1.4.1 Natural resources of the milieu — soil, forest, water, air and subsoil minerals, the base of life and economy from Kasaï to Katanga (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Grade 5 ESE Primaire 5, §1.4.1 |
+| DR Congo — §1.4.2 Consequences of bad resource management — deforestation, uncontrolled mining and industrial waste: pollution, erosion, disease and deepened poverty (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Grade 5 ESE Primaire 5, §1.4.2 |
+| DR Congo — §1.4.3 Respecting and protecting resources — not wasting water, reforestation, no littering (above all plastics), soil-sparing farming without bush fires (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Grade 5 ESE Primaire 5, §1.4.3 |
+
+**Book 22 — Éveil (ESE), Primaire 6 (student book, French):**
+- Title as printed: Manuel d'Éveil (ESE) 6ème Année Primaire – Programme RDC, Édition 2025
+- Grade: 6ème année primaire (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 36 placements — 4 to existing lessons, 32 NEW LESSON NEEDED
+- DR Congo's own way: the final primary year is public health — hygienic latrines with the Tippy-Tap handwash device against the "faecal peril", a full first-aid chapter, alcohol and tobacco refused (including traditional lotoko and munkoyo), toxic fishing condemned, and STIs/HIV taught with an absolute stress on prevention and on supporting people living with HIV without stigma.
+- Annexes (named, not placed per brief): Annexe 1 formative evaluation grids (teacher apparatus); Annexe 2 illustrated first-aid fact sheets (support for Ch. 2); Annexe 3 glossary of key terms (inventory-only); Annexe 4 school sanitation project sheets — building a Tippy-Tap, school garden, green space (support for §§1.1, 6.3).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 22 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §1.3 Managing household and public waste — biodegradable vs non-biodegradable; covered bins, rubbish pits far from homes and water points, composting; the dangers of wild dumps (rats, mosquitoes) (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Grade 6 ESE Primaire 6, §1.3 |
+| DR Congo — §4.1 Pollution defined: air and water — smoke (bush fires, badly tuned vehicles, factories, Kinshasa braziers) causing respiratory disease; direct discharges and Katanga mining acid poisoning rivers (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Grade 6 ESE Primaire 6, §4.1 |
+| DR Congo — §4.2 Noise pollution — generators, amplified churches and bars, horns; stress, sleep trouble and hearing loss as health harms (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Grade 6 ESE Primaire 6, §4.2 |
+| DR Congo — §4.3 Pollution's direct effects on health — excrement in water causing cholera and typhoid, smoke worsening asthma, chemical discharges causing skin disease and poisoning; protecting the environment as public-health policy (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Grade 6 ESE Primaire 6, §4.3 |
+| DR Congo — §4.4 Preventing local pollution — no waste in drains or rivers, latrines kept far from wells, burying or composting instead of burning waste, reforestation, lowering device volumes (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Grade 6 ESE Primaire 6, §4.4 |
+| DR Congo — §5.1 Causes of climate change — bush fires releasing CO2 (Kasaï, Bandundu savannas) and greenhouse gases from deforesting the Congo Basin, industry and transport (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Grade 6 ESE Primaire 6, §5.1 |
+| DR Congo — §5.2 Consequences of climate change — disturbed rainy seasons, rising temperatures and advancing desertification (the drying of Lake Chad) (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Grade 6 ESE Primaire 6, §5.2 |
+| DR Congo — §5.3 Conservation: reforestation — planting trees against erosion, restoring soil fertility, sustainable firewood, absorbing CO2 and cooling the air ("one pupil, one tree") (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Grade 6 ESE Primaire 6, §5.3 |
+| DR Congo — §5.4 Dangers of toxic fishing — poisoning water with pesticides or tephrosia kills every living thing in the river and poisons the consumers (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Grade 6 ESE Primaire 6, §5.4 |
+| DR Congo — §6.1 Green spaces defined and why they matter — trees producing oxygen and filtering dust, shade and play space, sheltering biodiversity and soaking up rain against floods (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Grade 6 ESE Primaire 6, §6.1 |
+| DR Congo — §6.2 Consequences of having no green spaces — heat islands in concreted cities, rapid runoff and Kinshasa floods, erosion and landslides on Bukavu and Matadi slopes (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Grade 6 ESE Primaire 6, §6.2 |
+| DR Congo — §6.3 Laying out green spaces at school and home — choosing the place, preparing soil, choosing fruit or ornamental species, planting and maintaining (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Grade 6 ESE Primaire 6, §6.3 |
+| DR Congo — §6.4 Protecting local biodiversity — every species with its role; national parks (Virunga, Garamba, Salonga) and local care: not killing birds or destroying nests (original string `staying-safe/keeping-our-environment-healthy`) | DR Congo Grade 6 ESE Primaire 6, §6.4 |
+
+DR Congo is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the student book(s) stocked here are Book(s) 2, 4, 5, 6, 8, 9, 11, 13, 14, 18, 19, 20, 21, 22, so DR Congo is named in the countries line and provenance rows and the acceptance count rises from 10 to 11 countries; the teacher-guide rows, where present, are teacher-guide evidence only, outside the count. The DR Congo placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug, or under its canonical NEW string, are recorded as filed), and the original string is recorded in each provenance row above. DR Congo's own way is content, as the book lines above record it: health teaching built on school hygiene, nutrition taught through Congolese food (cassava, plantain, fumbwa and biteku-teku leaves, fretin, caterpillars and termites as valued protein), food safety and the WHO five keys, water and sanitation, maternal and child health, and workplace safety, with the Salongo community-cleaning tradition named as hygiene practice. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.

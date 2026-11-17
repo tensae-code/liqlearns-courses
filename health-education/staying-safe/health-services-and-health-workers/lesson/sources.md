@@ -1,8 +1,8 @@
 # Sources — Health Services and Health Workers
 
-countries: Samoa, Philippines, Turkey, Papua New Guinea, Thailand, Indonesia, Nepal, Maldives, United Arab Emirates, Sri Lanka, Fiji, Belize
+countries: Samoa, Philippines, Turkey, Papua New Guinea, Thailand, Indonesia, Nepal, Maldives, United Arab Emirates, Sri Lanka, Fiji, Belize, DR Congo
 
-**Acceptance count: taught in 8 countries.** Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. United Arab Emirates is added as student-book stock (see its United Arab Emirates section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Samoa is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this lesson. Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book. Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Thailand is added as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count. The Indonesia teacher-guide rows in this lesson are filed as teacher-guide evidence only, outside the count. Nepal is added as student-book stock (see its Nepal section below), inside the acceptance count. Maldives is filed as teacher-guide evidence only in this lesson (see its Maldives section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Maldives rows in this lesson. Belize is filed as teacher-curriculum / teacher-guide evidence only in this lesson (see its Belize section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for Belize in this lesson.
+**Acceptance count: taught in 9 countries.** Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. United Arab Emirates is added as student-book stock (see its United Arab Emirates section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Samoa is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this lesson. Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book. Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Thailand is added as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count. The Indonesia teacher-guide rows in this lesson are filed as teacher-guide evidence only, outside the count. Nepal is added as student-book stock (see its Nepal section below), inside the acceptance count. Maldives is filed as teacher-guide evidence only in this lesson (see its Maldives section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Maldives rows in this lesson. Belize is filed as teacher-curriculum / teacher-guide evidence only in this lesson (see its Belize section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for Belize in this lesson. DR Congo is filed as student-book stock, inside the acceptance count, in this lesson (see its DR Congo section below); its teacher-guide rows in this lesson are teacher-guide evidence only, outside the count.
 
 **Book 1 — Samoa HPE Teacher Guide, Years 11–12 (teacher guide, English):**
 - Title as printed: Health and Physical Education Teacher Guide, Years 11 and 12
@@ -569,3 +569,125 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/fiji-health-
 | Fiji — Unit 26 Community Safety — community safety is everyone's job, not only police and fire services: town councils work through community safety partnerships on emergency planning (floods, earthquakes, tsunami, civil unrest), licensing and food-hygiene certification, lighting and street cleansing against anti-social behaviour, and community police posts and crime panels (original string `staying-safe/community-health-and-safety-services`) | Fiji Year 7 Healthy Living, printed p. 60 |
 
 Fiji is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the student book(s) stocked here are Book 3, Book 8, Book 13, so Fiji is named in the countries line and provenance rows and the acceptance count rises from 7 to 8 countries. The Fiji placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Fiji's own way is content, as the book lines above record it: health is taught through the Healthy Living series rooted in island life — floods and hurricanes, boats and swimming, village family life, Fiji's own foods (dalo, tavioka, kumala), its immunisation schedule and its own health services. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+## DR Congo — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md. 17 DR Congo placement(s) stocked in this lesson. The DR Congo book(s) stocked in this lesson: Book 1, Book 4, Book 15, Book 16, Book 17, Book 20, Book 21. DR Congo's student books are student-book stock, inside the acceptance count, in this lesson; its teacher-guide rows (Books 15–17, the Maternelle health-promotion guides) are teacher-guide evidence only, outside the count, and are marked (teacher guide — evidence) in the rows below. Books 3 and 7 of that file are UNREAD — sales pages (only Chapter 1 offered free in an on-page flipbook serving no downloadable file), each with 0 placements — and Book 12 (Hygiène et Environnement, 3ème Vétérinaire) is record-only under the veterinary exclusion, with 0 placements; nothing is stocked from them in any lesson. No DR Congo placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 1 — Hygiène Alimentaire, 1ère Techniques Sociales (student book, French):**
+- Title as printed: Manuel d'Hygiène Alimentaire pour la 1ère Année, Option Techniques Sociales
+- Grade: 1ère année des humanités, Techniques Sociales (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 24 placements — 0 to existing lessons, 24 NEW LESSON NEEDED
+- DR Congo's own way: nutrition taught entirely through Congolese food — cassava, plantain, fumbwa and biteku-teku leaves, fretin (small dried fish), caterpillars and termites as valued protein — with the WHO five keys, home water treatment and the social technician's community-education role built in.
+- Annexes (named, not placed per brief): technical glossary (inventory-only); local-food nutrient guide and meal plans (reference support for §§2–5, 10); practical animation sheets (support for §11.1).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 1 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §11.1 Teaching nutrition in the community — starting from local habits/beliefs, running a talk (causerie), cooking demonstrations, school/community gardens (original string `staying-safe/health-education-in-the-community`) | DR Congo Humanities 1 Techniques Sociales, Food Hygiene, §11.1 |
+
+**Book 4 — Hygiène Individuelle et Collective, 1ère Techniques Sociales (student book, French):**
+- Title as printed: Cours d'Hygiène Individuelle et Collective pour la 1ère Année en Techniques Sociales
+- Grade: 1ère année des humanités, Techniques Sociales (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 20 placements — 0 to existing lessons, 20 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- DR Congo's own way: the general hygiene course behind the food books — body, clothes, house, water, latrines, rubbish and vectors, then the diseases themselves (malaria first, TB, cholera and the "5 Fs" of faecal transmission, worms), vaccination, and the Salongo community-cleaning tradition named as hygiene practice.
+- Annexes (named, not placed per brief): hygiene/public-health glossary (inventory-only); DRC vaccination calendar (reference tool supporting §7.1); disease fact sheets for ~10 priority diseases (support for Ch. 6–9); health-education session guide (support for §11.1).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 4 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §11.1 Tools of health education — the educational talk (causerie) with image box, forum theatre and sketches, posters and local-rhythm songs, home visits (original string `staying-safe/health-education-in-the-community`) | DR Congo Humanities 1 Techniques Sociales, Individual & Collective Hygiene, §11.1 |
+| DR Congo — §12.1 The social technician in community health — bridge between community and health services, mobilising for campaigns (vaccination, net distribution), support groups for chronic illness, advocacy for water and waste services (original string `staying-safe/health-education-in-the-community`) | DR Congo Humanities 1 Techniques Sociales, Individual & Collective Hygiene, §12.1 |
+
+**Book 15 — Activités de Promotion de la Santé, 1ère Maternelle (teacher guide, French):**
+- Title as printed: Guide d'Activités de Promotion de la Santé : 1ère Année Maternelle
+- Grade: 1ère année maternelle (age 3) (student/teacher: TEACHER — an activity guide for the educator, teaching the child programme of Basic Competence 5, "taking care of one's body")
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: 150 as printed on the page — HTML web edition, complete detailed contents on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 36 placements — 0 to existing lessons, 36 NEW LESSON NEEDED
+- DR Congo's own way: health begins at age three as ritual and imitation — the teacher demonstrates, the child copies; handwashing stations are pedal bins and basins, and nutrition is taught entirely from local foods (fufu, chikwangue, mbinzo caterpillars, pondu) sorted into energy, builder and protector groups.
+- Named, not placed (teacher apparatus): §1.1–1.4 pedagogical preliminaries (nature of the course, demonstration method, the classroom hygiene corner, timetable and observation-based evaluation).
+- Annexes (named, not placed per brief): 11.1 classroom hygiene rota (support for Ch. 2); 11.2 picture set of local foods by group (support for Ch. 4–6); 11.3 safety pictograms for the classroom wall (support for Ch. 8); 11.4 health songs in French and national languages (support).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 15 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §10.1 Accepting the medical check — not fearing the doctor or nurse, who help the child grow and heal (teacher guide — evidence) (original string `staying-safe/visiting-the-doctor-and-vaccination`) | DR Congo Maternelle 1, Health Promotion, §10.1 |
+| DR Congo — §10.2 Understanding vaccination — vaccination as a shield against grave diseases; cooperating during campaigns (teacher guide — evidence) (original string `staying-safe/visiting-the-doctor-and-vaccination`) | DR Congo Maternelle 1, Health Promotion, §10.2 |
+| DR Congo — §10.3 Medicines only under supervision — never taking medicine alone, only from parents or health staff (teacher guide — evidence) (original string `staying-safe/visiting-the-doctor-and-vaccination`) | DR Congo Maternelle 1, Health Promotion, §10.3 |
+
+**Book 16 — Activités de Promotion de la Santé, 2ème Maternelle (teacher guide, French):**
+- Title as printed: Manuel d'Activités de Promotion de la Santé pour la 2ème Année Maternelle en RDC
+- Grade: 2ème année maternelle (age 4) (student/teacher: TEACHER — activity manual written for the educator)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title; unrelated language-course content that follows it on the same web page is a different book and is not part of this record)
+- Verdict: COMPLETE
+- Tally: 36 placements — 0 to existing lessons, 36 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- DR Congo's own way: Year 2 automates the Year 1 gestures (palm, back of hand, between the fingers) and widens the shield — malaria nets and larval sites, Ebola/Covid barrier gestures, toilet autonomy, and the child sent home as a health promoter for local food over imported processed food.
+- Annexes (named, not placed per brief): A.1 food pyramid of local products (support for Ch. 4–5); A.2 illustrated handwashing protocol poster (support for §1.1); A.3 tooth-brushing calendar to take home (support for §1.3); A.4 teacher observation grid for hygiene and health (teacher apparatus).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 16 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §8.1 Accepting vaccination — vaccines as shields against grave diseases; courage during vaccination campaigns (teacher guide — evidence) (original string `staying-safe/visiting-the-doctor-and-vaccination`) | DR Congo Maternelle 2, Health Promotion, §8.1 |
+| DR Congo — §8.2 Cooperating at the medical check — letting the doctor or nurse check growth; not fearing the white coat at weighing and measuring (teacher guide — evidence) (original string `staying-safe/visiting-the-doctor-and-vaccination`) | DR Congo Maternelle 2, Health Promotion, §8.2 |
+
+**Book 17 — Activités de Promotion de la Santé, 3ème Maternelle (teacher guide, French):**
+- Title as printed: Manuel d'Activités de Promotion de la Santé pour la 3ème Maternelle
+- Grade: 3ème année maternelle (age 5) (student/teacher: TEACHER — activity manual written for the educator)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 36 placements — 1 to an existing lesson, 35 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- DR Congo's own way: the final kindergarten year makes the child an actor of sanitation — correct latrine use, sorting fresh from spoiled food, covering food against vectors, burn safety around cooking fires, and health widened to sleep, fatigue and emotional well-being.
+- Annexes (named, not placed per brief): Annexe 1 classification table of local foods (support for Ch. 4); Annexe 2 illustrated handwashing protocol (support for §1.1); Annexe 3 individual hygiene follow-up sheet (self-check tool); Annexe 4 first-aid guide for the child — alert, do not touch blood, reassure (support for §8.4).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 17 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §7.4 Accepting vaccination and the medical check — vaccination as an invisible shield; not fearing the medical visits one's health needs (teacher guide — evidence) (original string `staying-safe/visiting-the-doctor-and-vaccination`) | DR Congo Maternelle 3, Health Promotion, §7.4 |
+
+**Book 20 — Éducation à la Santé et à l'Environnement (ESE), Primaire 3–4 (student book, French) — covers records "Primaire 3 ESE" and "Primaire 4 ESE":**
+- Title as printed: Manuels d'Éducation Sociale et Environnementale (ESE) pour la 3ème et 4ème Année Primaire (record title); page title: Manuel d'Éducation à la Santé et à l'Environnement (ESE) pour la 4ème Année Primaire – Édition 2025
+- Grade: 3ème et 4ème année primaire (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE. The separate "Primaire 4 ESE" record page carries identical text to this combined 3–4 page (same 280 lines, verified section by section) — one book, two records; placed once here, both editions named.
+- Tally: 36 placements — 0 to existing lessons, 36 NEW LESSON NEEDED
+- DR Congo's own way: the middle-primary course is organised by enemies and shields — skin diseases and their causes, sleep as mental hygiene, disease vectors and their breeding sites (anopheles, tsetse, the bilharzia snail), waste sorted and composted, and vaccination explained as a "trainer" that teaches the body to make its soldier antibodies.
+- Annexes (named, not placed per brief): Annexe 1 illustrated vector fact sheets (support for Ch. 3); Annexe 2 practical school composting guide (support for §4.3); Annexe 3 wall table of the three food groups (support for Ch. 9); Annexe 4 simplified DRC (PEV) vaccination calendar (support for Ch. 8).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 20 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §8.1 Vaccine-preventable diseases 1 — tetanus (disease of dirty wounds), tuberculosis (lung disease with cough) and measles (fever and red spots) (original string `staying-safe/visiting-the-doctor-and-vaccination`) | DR Congo Grades 3–4 ESE Primaire 3–4, §8.1 |
+| DR Congo — §8.2 Vaccine-preventable diseases 2 — whooping cough, diphtheria (throat infection) and poliomyelitis (paralysing the legs), nearly vanished thanks to vaccination (original string `staying-safe/visiting-the-doctor-and-vaccination`) | DR Congo Grades 3–4 ESE Primaire 3–4, §8.2 |
+| DR Congo — §8.3 Vaccine-preventable diseases 3 — yellow fever (mosquito-borne, causing jaundice) and hepatitis B (attacking the liver); respecting the vaccination calendar (original string `staying-safe/visiting-the-doctor-and-vaccination`) | DR Congo Grades 3–4 ESE Primaire 3–4, §8.3 |
+| DR Congo — §8.4 How a vaccine works — the vaccine as the body's "trainer": a weakened microbe teaching the body to make antibody soldiers before the real attack (original string `staying-safe/visiting-the-doctor-and-vaccination`) | DR Congo Grades 3–4 ESE Primaire 3–4, §8.4 |
+
+**Book 21 — Éducation à la Santé et à l'Environnement (ESE), Primaire 5 (student book, French):**
+- Title as printed: Manuel d'Éducation à la Santé et à l'Environnement (ESE) – 5ème Année Primaire RDC
+- Grade: 5ème année primaire (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title; the book's own sub-section numbering, 1.1.1 style, is kept in the citations)
+- Verdict: COMPLETE
+- Tally: 37 placements — 0 to existing lessons, 37 NEW LESSON NEEDED
+- DR Congo's own way: Year 5 splits water by use — drinking water (typhoid, cholera) from bathing water (bilharzia through the skin) — refuses self-medication and street "pharmacies on the ground", and teaches malnutrition clinically: marasmus vs kwashiorkor, anaemia, and the vicious circle between malnutrition and infection.
+- Annexes (named, not placed per brief): Annexe 1 practical water-treatment guide — settle, filter, boil 5 minutes (support for §1.2.4); Annexe 2 simplified PEV vaccination calendar (support for Ch. 6); Annexe 3 visual malnutrition guide — healthy vs marasmus vs kwashiorkor child (support for §1.8.3); Annexe 4 health glossary (inventory-only).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 21 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §1.6.1 What a vaccine is — a biological preparation (injection or oral) holding a weakened, inactive or partial microbe, the immune system's "trainer" (original string `staying-safe/visiting-the-doctor-and-vaccination`) | DR Congo Grade 5 ESE Primaire 5, §1.6.1 |
+| DR Congo — §1.6.2 Immunisation — learning to recognise and fight a specific microbe, protected without suffering the disease (original string `staying-safe/visiting-the-doctor-and-vaccination`) | DR Congo Grade 5 ESE Primaire 5, §1.6.2 |
+| DR Congo — §1.6.3 Vaccines and diseases 1 (PEV) — BCG against tuberculosis, oral polio vaccine, measles vaccine, from birth (original string `staying-safe/visiting-the-doctor-and-vaccination`) | DR Congo Grade 5 ESE Primaire 5, §1.6.3 |
+| DR Congo — §1.6.4 Vaccines and diseases 2 — combined Penta against diphtheria, tetanus, whooping cough and hepatitis B; yellow-fever vaccine for travel (original string `staying-safe/visiting-the-doctor-and-vaccination`) | DR Congo Grade 5 ESE Primaire 5, §1.6.4 |
+
+DR Congo is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the student book(s) stocked here are Book(s) 1, 4, 20, 21, so DR Congo is named in the countries line and provenance rows and the acceptance count rises from 8 to 9 countries; the teacher-guide rows, where present, are teacher-guide evidence only, outside the count. The DR Congo placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug, or under its canonical NEW string, are recorded as filed), and the original string is recorded in each provenance row above. DR Congo's own way is content, as the book lines above record it: health teaching built on school hygiene, nutrition taught through Congolese food (cassava, plantain, fumbwa and biteku-teku leaves, fretin, caterpillars and termites as valued protein), food safety and the WHO five keys, water and sanitation, maternal and child health, and workplace safety, with the Salongo community-cleaning tradition named as hygiene practice. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.

@@ -1,8 +1,8 @@
 # Sources — Food Hygiene and Safe Cooking
 
-countries: El Salvador, Ukraine, Turkey, Malaysia, Papua New Guinea, Iran, Estonia, Tanzania, Jamaica, Kuwait, Maldives, United Arab Emirates, Fiji, Belize
+countries: El Salvador, Ukraine, Turkey, Malaysia, Papua New Guinea, Iran, Estonia, Tanzania, Jamaica, Kuwait, Maldives, United Arab Emirates, Fiji, Belize, DR Congo
 
-**Acceptance count: taught in 8 countries.** Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. United Arab Emirates is added as student-book stock (see its United Arab Emirates section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Tanzania is added as student-book stock (see its Tanzania section below), inside the acceptance count. El Salvador is filed as student-book stock, inside the acceptance count, in this lesson. Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book. Malaysia is filed as student-book stock, inside the acceptance count, in this lesson (see its Malaysia section below). Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Estonia is filed as teacher-guide evidence only in this lesson (see its Estonia section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is stocked in this lesson for Estonia. Jamaica is filed as curriculum-guide evidence only in this lesson (see its Jamaica section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Jamaica rows in this lesson — both read Jamaica books are curriculum guides (TEACHER). Kuwait is filed as teacher-guide evidence only in this lesson (see its Kuwait section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Kuwait rows in this lesson. Maldives is filed as teacher-guide evidence only in this lesson (see its Maldives section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Maldives rows in this lesson. Belize is filed as teacher-curriculum / teacher-guide evidence only in this lesson (see its Belize section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for Belize in this lesson.
+**Acceptance count: taught in 9 countries.** Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. United Arab Emirates is added as student-book stock (see its United Arab Emirates section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Tanzania is added as student-book stock (see its Tanzania section below), inside the acceptance count. El Salvador is filed as student-book stock, inside the acceptance count, in this lesson. Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book. Malaysia is filed as student-book stock, inside the acceptance count, in this lesson (see its Malaysia section below). Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Estonia is filed as teacher-guide evidence only in this lesson (see its Estonia section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is stocked in this lesson for Estonia. Jamaica is filed as curriculum-guide evidence only in this lesson (see its Jamaica section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Jamaica rows in this lesson — both read Jamaica books are curriculum guides (TEACHER). Kuwait is filed as teacher-guide evidence only in this lesson (see its Kuwait section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Kuwait rows in this lesson. Maldives is filed as teacher-guide evidence only in this lesson (see its Maldives section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Maldives rows in this lesson. Belize is filed as teacher-curriculum / teacher-guide evidence only in this lesson (see its Belize section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for Belize in this lesson. DR Congo is filed as student-book stock, inside the acceptance count, in this lesson (see its DR Congo section below); its teacher-guide rows in this lesson are teacher-guide evidence only, outside the count.
 
 **Book 1 — Ciencia, Salud y Medio Ambiente 1 (student book, Spanish):**
 - Title as printed: Ciencia, Salud y Medio Ambiente 1 (Colección Cipotas y Cipotes)
@@ -550,3 +550,308 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/fiji-health-
 | Fiji — Unit 32 Genetically Modified Foods — GM food is food from plants whose genes have been changed or enhanced; advantages (bigger crops, crops higher in vitamins) weighed against disadvantages (unknowns for our consumption, altered ecosystems, endangered animals), with examples of GM food available in Fiji (original string `staying-safe/genetically-modified-food`) | Fiji Year 7 Healthy Living, printed p. 71 |
 
 Fiji is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the student book(s) stocked here are Book 5, Book 8, Book 13, so Fiji is named in the countries line and provenance rows and the acceptance count rises from 7 to 8 countries. The Fiji placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Fiji's own way is content, as the book lines above record it: health is taught through the Healthy Living series rooted in island life — floods and hurricanes, boats and swimming, village family life, Fiji's own foods (dalo, tavioka, kumala), its immunisation schedule and its own health services. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+## DR Congo — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md. 126 DR Congo placement(s) stocked in this lesson. The DR Congo book(s) stocked in this lesson: Book 1, Book 2, Book 5, Book 8, Book 10, Book 15, Book 16, Book 17, Book 18, Book 19, Book 21, Book 22. DR Congo's student books are student-book stock, inside the acceptance count, in this lesson; its teacher-guide rows (Books 15–17, the Maternelle health-promotion guides) are teacher-guide evidence only, outside the count, and are marked (teacher guide — evidence) in the rows below. Books 3 and 7 of that file are UNREAD — sales pages (only Chapter 1 offered free in an on-page flipbook serving no downloadable file), each with 0 placements — and Book 12 (Hygiène et Environnement, 3ème Vétérinaire) is record-only under the veterinary exclusion, with 0 placements; nothing is stocked from them in any lesson. No DR Congo placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 1 — Hygiène Alimentaire, 1ère Techniques Sociales (student book, French):**
+- Title as printed: Manuel d'Hygiène Alimentaire pour la 1ère Année, Option Techniques Sociales
+- Grade: 1ère année des humanités, Techniques Sociales (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 24 placements — 0 to existing lessons, 24 NEW LESSON NEEDED
+- DR Congo's own way: nutrition taught entirely through Congolese food — cassava, plantain, fumbwa and biteku-teku leaves, fretin (small dried fish), caterpillars and termites as valued protein — with the WHO five keys, home water treatment and the social technician's community-education role built in.
+- Annexes (named, not placed per brief): technical glossary (inventory-only); local-food nutrient guide and meal plans (reference support for §§2–5, 10); practical animation sheets (support for §11.1).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 1 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §5.3 Milk and milk products — milk's value for growth, raw-milk dangers and boiling/pasteurisation, fermented milks, cheese hygiene (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Techniques Sociales, Food Hygiene, §5.3 |
+| DR Congo — §7.1 The five keys to safer food (WHO) — cleanliness, separate raw/cooked, cook thoroughly, safe temperatures and the 5–60 °C danger zone (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Techniques Sociales, Food Hygiene, §7.1 |
+| DR Congo — §7.2 The five keys at home — cook's personal hygiene, buying and carrying food safely, safe preparation, storing and reheating leftovers (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Techniques Sociales, Food Hygiene, §7.2 |
+| DR Congo — §8.1 Traditional keeping methods — sun/fire drying, smoking and salting, fermentation (fufu, milk), keeping in oil or sugar (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Techniques Sociales, Food Hygiene, §8.1 |
+| DR Congo — §8.2 Modern keeping methods — refrigeration/freezing, pasteurisation and canning (appertisation), checking tins and labels, vacuum packing (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Techniques Sociales, Food Hygiene, §8.2 |
+| DR Congo — §9.1 A clean kitchen place — washable surfaces, covered bins and waste, keeping insects/rodents out, water supply and waste-water drainage (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Techniques Sociales, Food Hygiene, §9.1 |
+| DR Congo — §9.2 Clean tools and utensils — choosing washable materials, wash–rinse–disinfect, equipment care, clean storage (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Techniques Sociales, Food Hygiene, §9.2 |
+
+**Book 2 — Hygiène Alimentaire, 1ère Option Nutrition (student book, French):**
+- Title as printed: Manuel d'Hygiène Alimentaire – 1ère Année Option Nutrition
+- Grade: 1ère année des humanités, Option Nutrition (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 22 placements — 0 to existing lessons, 22 NEW LESSON NEEDED
+- DR Congo's own way: the Nutrition option's twin of Book 1 — where Techniques Sociales teaches what to eat, this book teaches how food becomes dangerous: hazard types (Salmonella in poultry, cholera in fouled water, aflatoxins in badly dried groundnuts, cyanide in badly prepared cassava), the handler's own body and clothes as contamination sources, and market-visit practice (Gambela in Kinshasa, Mzee Kabila in Lubumbashi).
+- Named, not placed (course apparatus): §0.2 course objectives, §0.3 competency-approach methodology.
+- Annexes (named, not placed per brief): Annexe 1 illustrated handwashing guide (support for §3.1); Annexe 2 food-safety temperature chart (support for §5.4); Annexe 3 cleaning/disinfection protocol (support for §4.1).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 2 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §0.1 Food hygiene as public-health protection — a contaminated food's nutrition is worth nothing; food poisoning worsens malnutrition (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Nutrition, Food Hygiene, §0.1 |
+| DR Congo — §1.1 Key words of food safety — hygiene, wholesomeness, foodstuff, contamination, collective food poisoning (TIAC) (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Nutrition, Food Hygiene, §1.1 |
+| DR Congo — §1.2 The food chain and its danger points — farm to fork: production, transport, storage, processing, distribution, eating (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Nutrition, Food Hygiene, §1.2 |
+| DR Congo — §2.1 Biological dangers — germs, viruses and parasites and the warmth/wet/food conditions they grow in; Salmonella, cholera (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Nutrition, Food Hygiene, §2.1 |
+| DR Congo — §2.2 Chemical dangers — pesticide residues, aflatoxins in groundnuts, cyanide in badly prepared cassava, environmental pollutants (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Nutrition, Food Hygiene, §2.2 |
+| DR Congo — §2.3 Physical dangers — metal, glass, wood and stones in food; prevention by looking carefully (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Nutrition, Food Hygiene, §2.3 |
+| DR Congo — §3.1 The food handler's body hygiene — correct handwashing method and the key moments to wash (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Nutrition, Food Hygiene, §3.1 |
+| DR Congo — §3.2 Work clothing — clean apron and head covering as a barrier between street clothes/body and food (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Nutrition, Food Hygiene, §3.2 |
+| DR Congo — §3.3 Behaviour and health of the handler — no coughing/scratching over food; a sick handler (diarrhoea, infected wound) must not handle food (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Nutrition, Food Hygiene, §3.3 |
+| DR Congo — §4.1 Cleaning and disinfecting — removing visible dirt vs killing invisible germs; protocols for surfaces and utensils (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Nutrition, Food Hygiene, §4.1 |
+| DR Congo — §4.2 Hygienic rooms — smooth, non-porous, waterproof floors, walls and work surfaces that can be cleaned (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Nutrition, Food Hygiene, §4.2 |
+| DR Congo — §5.1 Key 1: keep clean — hands, equipment and surfaces before and during preparation (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Nutrition, Food Hygiene, §5.1 |
+| DR Congo — §5.2 Key 2: separate raw and cooked — different boards for raw goat meat and salad vegetables (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Nutrition, Food Hygiene, §5.2 |
+| DR Congo — §5.3 Key 3: cook thoroughly — cooking to the centre, especially large pieces of meat (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Nutrition, Food Hygiene, §5.3 |
+| DR Congo — §5.4 Key 4: keep food at safe temperatures — the 5–60 °C danger zone; hot holding and fast refrigeration (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Nutrition, Food Hygiene, §5.4 |
+| DR Congo — §5.5 Key 5: use safe water and raw materials — drinking water for cooking/washing; checking freshness, smell and expiry dates (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Nutrition, Food Hygiene, §5.5 |
+| DR Congo — §6.1 Hygiene for meat, poultry and game — bushmeat risks, thorough cooking, keeping blood/juices away from other food (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Nutrition, Food Hygiene, §6.1 |
+| DR Congo — §6.2 Hygiene for fish — freshness signs (bright eye, red gills); keeping by refrigeration, salting, smoking (Lake Kivu, Kasaï river) (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Nutrition, Food Hygiene, §6.2 |
+| DR Congo — §6.3 Hygiene for milk — raw-milk dangers; boiling or pasteurisation before drinking (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Nutrition, Food Hygiene, §6.3 |
+
+**Book 5 — Hygiène, 1ère Hôtellerie et Restauration (student book, French):**
+- Title as printed: Manuel d'Hygiène pour la 1ère Année en Hôtellerie et Restauration
+- Grade: 1ère année des humanités, Hôtellerie et Restauration (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 37 placements — 1 to an existing lesson, 36 NEW LESSON NEEDED
+- DR Congo's own way: professional hygiene for hotels/restaurants built on applied microbiology — the C.H.A.T.T.E. growth conditions (heat, humidity, acidity, time, oxygen, nutrients), the blue-plaster wound rule, coloured chopping boards, FIFO stock rotation and probe-thermometer cooking checks, all localised (Karavia hotel Lubumbashi, Kikwit water supply, Matadi dining rooms).
+- Annexes (named, not placed per brief): Annexe 1 hygiene glossary (inventory-only); Annexe 2 model cleaning plan (support for §4.4); Annexe 3 fridge/freezer temperature record sheet (support for §7.3–7.4).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 5 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §1.1 The invisible world of micro-organisms — bacteria, viruses, moulds, yeasts; useful vs spoilage vs disease-causing (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Hôtellerie, Hygiene, §1.1 |
+| DR Congo — §1.2 How micro-organisms grow — the C.H.A.T.T.E. conditions (heat, humidity, acidity, time, oxygen, food) and controlling them (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Hôtellerie, Hygiene, §1.2 |
+| DR Congo — §1.3 The chain of infection — agent, reservoir, exit, transmission, entry, host; breaking one link stops spread (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Hôtellerie, Hygiene, §1.3 |
+| DR Congo — §1.4 Foodborne diseases — collective food poisoning (TIAC), salmonellosis and staphylococcal poisoning linked to hygiene failures (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Hôtellerie, Hygiene, §1.4 |
+| DR Congo — §2.1 Hand hygiene, the capital reflex — when and how (bactericidal soap, all surfaces, single-use drying) (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Hôtellerie, Hygiene, §2.1 |
+| DR Congo — §2.2 Daily body hygiene at work — daily shower, teeth, restrained perfume as professional respect (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Hôtellerie, Hygiene, §2.2 |
+| DR Congo — §2.3 Behaviour in food areas — no smoking, eating or gum; correct coughing/sneezing practice (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Hôtellerie, Hygiene, §2.3 |
+| DR Congo — §2.4 Wounds and skin infections — clean, disinfect, waterproof visible (blue) dressing; reporting contagious illness to the supervisor (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Hôtellerie, Hygiene, §2.4 |
+| DR Congo — §3.1 The work uniform — jacket, trousers, apron, safety shoes, head covering; what each part protects (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Hôtellerie, Hygiene, §3.1 |
+| DR Congo — §3.2 Rules for the uniform — work-only, changed daily, never worn outside the workplace (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Hôtellerie, Hygiene, §3.2 |
+| DR Congo — §3.3 Head covering and no jewellery — hair kept out of food; rings/watches as germ nests and falling hazards (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Hôtellerie, Hygiene, §3.3 |
+| DR Congo — §3.4 Caring for work clothes — washing above 60 °C and ironing for disinfection and presentation (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Hôtellerie, Hygiene, §3.4 |
+| DR Congo — §4.1 Cleaning vs disinfecting — visible dirt vs invisible germs; disinfection only works on a cleaned surface (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Hôtellerie, Hygiene, §4.1 |
+| DR Congo — §4.2 Cleaning products — detergents, disinfectants (bleach) and combined products; dosing, use and safe storage (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Hôtellerie, Hygiene, §4.2 |
+| DR Congo — §4.3 Cleaning techniques — colour-coded cloths and tools; clean from cleanest to dirtiest, top to bottom (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Hôtellerie, Hygiene, §4.3 |
+| DR Congo — §4.4 The cleaning plan — what, when, how, which product, who; traceability of hygiene work (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Hôtellerie, Hygiene, §4.4 |
+| DR Congo — §7.1 Checking deliveries — temperatures, packaging, expiry dates and freshness on arrival (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Hôtellerie, Hygiene, §7.1 |
+| DR Congo — §7.2 Dry storage — dry, ventilated, dark, pest-free store; food on shelves; FIFO rotation (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Hôtellerie, Hygiene, §7.2 |
+| DR Congo — §7.3 Refrigerated storage — 0 to +4 °C checked and recorded; covered foods; raw kept apart from cooked (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Hôtellerie, Hygiene, §7.3 |
+| DR Congo — §7.4 Frozen storage — −18 °C or colder; never refreeze a thawed product (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Hôtellerie, Hygiene, §7.4 |
+| DR Congo — §8.1 Organising the workstation — clean, complete "mise en place" before starting (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Hôtellerie, Hygiene, §8.1 |
+| DR Congo — §8.2 Decontaminating vegetables — wash in drinking water, disinfectant soak (vinegar/diluted bleach), rinse well (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Hôtellerie, Hygiene, §8.2 |
+| DR Congo — §8.3 Safe thawing — slowly in the fridge; never at room temperature; microwave only if cooked at once (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Hôtellerie, Hygiene, §8.3 |
+| DR Congo — §8.4 Separating clean and dirty work — separate in time/space; colour-coded boards for meat, fish, vegetables, cooked food (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Hôtellerie, Hygiene, §8.4 |
+| DR Congo — §9.1 Cooking temperatures — cooking to the core (+63 °C), checked with a probe thermometer (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Hôtellerie, Hygiene, §9.1 |
+| DR Congo — §9.2 Cooling food fast — through the +63 °C to +10 °C danger zone in under two hours (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Hôtellerie, Hygiene, §9.2 |
+| DR Congo — §9.3 Reheating and hot holding — back to +63 °C core within an hour; hold above +63 °C (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Hôtellerie, Hygiene, §9.3 |
+| DR Congo — §9.4 Hygiene in the dining room — not touching glass/plate interiors, tongs for bread, perfect hand hygiene before carrying dishes (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 1 Hôtellerie, Hygiene, §9.4 |
+
+**Book 8 — Hygiène Alimentaire, 2ème Option Nutrition (student book, French):**
+- Title as printed: Manuel d'Hygiène Alimentaire : 2ème Année, Option Nutrition (RDC)
+- Grade: 2ème année des humanités, Option Nutrition (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 19 placements — 0 to existing lessons, 19 NEW LESSON NEEDED
+- DR Congo's own way: Year 2 moves from rules to systems — the "5M" contamination framework, the FAT TOM growth factors, the "marche en avant" (clean never crosses dirty), and practice anchored in Kinshasa market risk audits, a Matadi water plan and a hygiene guide for beignet sellers.
+- Named, not placed (course apparatus): Préliminaires §§1–4 (objectives, competencies, pedagogy, assessment scheme).
+- Annexes (named, not placed per brief): Annexe 1 food-hygiene glossary (inventory-only); Annexe 2 simplified good-hygiene-practice guide for a small restaurant/"malewa" (support); Annexe 3 seven-step handwashing poster (support for §3.3).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 8 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §1.1 Words of food safety — hygiene, food safety, contamination, hazard, risk, collective food poisoning (TIAC) (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Nutrition, Food Hygiene, §1.1 |
+| DR Congo — §1.2 The three kinds of food danger — biological (Salmonella, viruses, moulds), chemical (pesticides, cleaning residues, cassava cyanide), physical (glass, metal, wood, hair) (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Nutrition, Food Hygiene, §1.2 |
+| DR Congo — §2.1 Kinds of micro-organisms — useful ferments, spoilage microbes and pathogens (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Nutrition, Food Hygiene, §2.1 |
+| DR Congo — §2.2 What makes microbes multiply — the six FAT TOM factors (food, acidity, time, temperature, oxygen, moisture) (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Nutrition, Food Hygiene, §2.2 |
+| DR Congo — §3.1 The handler's body hygiene and health — cleanliness, not handling food when ill, waterproof wound dressings (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Nutrition, Food Hygiene, §3.1 |
+| DR Congo — §3.2 Work clothing — clean, light-coloured, covering; head covering and closed safety shoes (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Nutrition, Food Hygiene, §3.2 |
+| DR Congo — §3.3 Hygienic handwashing — the full procedure: when, how, with what (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Nutrition, Food Hygiene, §3.3 |
+| DR Congo — §4.1 Hygienic premises — smooth washable materials, ventilation, lighting, clean/dirty zone separation (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Nutrition, Food Hygiene, §4.1 |
+| DR Congo — §4.2 Cleaning and disinfecting — products, equipment and the steps of an effective cleaning plan (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Nutrition, Food Hygiene, §4.2 |
+| DR Congo — §4.3 The forward flow (marche en avant) — organising food and staff circuits so clean never crosses dirty (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Nutrition, Food Hygiene, §4.3 |
+| DR Congo — §5.1 Receiving and checking raw materials — temperatures, packaging, expiry dates, look/smell quality (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Nutrition, Food Hygiene, §5.1 |
+| DR Congo — §5.2 Storage methods — dry, refrigerated and frozen storage; PEPS/FIFO rotation (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Nutrition, Food Hygiene, §5.2 |
+| DR Congo — §6.1 Mastering temperatures — cooking to the core; fast cooling out of the +4 °C to +63 °C danger zone (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Nutrition, Food Hygiene, §6.1 |
+| DR Congo — §6.2 Hygiene for sensitive foods — meat/poultry cross-contamination, fish freshness and cold chain, milk/egg salmonella, washing raw vegetables (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Nutrition, Food Hygiene, §6.2 |
+
+**Book 10 — Hygiène, 2ème Hôtellerie et Restauration (student book, French):**
+- Title as printed: Cours d'Hygiène pour la 2ème Année en Hôtellerie et Restauration
+- Grade: 2ème année des humanités, Hôtellerie et Restauration (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 36 placements — 0 to existing lessons, 36 NEW LESSON NEEDED
+- DR Congo's own way: Year 2 is the systems year — Good Hygiene Practices (BPH) as the base, HACCP's seven principles and the decision tree, the Sanitary Control Plan (PMS) with records and traceability — applied filière by filière, including bushmeat/game handling and Lake Tanganyika fish on ice.
+- Annexes (named, not placed per brief): Annexe 1 food-safety glossary (inventory-only); Annexe 2 HACCP seven-principles memo sheet (support for §3.2); Annexe 3 key-temperatures table (support); Annexe 4 temperature record-sheet model (support for §9.2).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 10 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §1.1 Microbiological dangers in depth — Salmonella in poultry, Staphylococcus from the handler, toxins (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Hôtellerie, Hygiene, §1.1 |
+| DR Congo — §1.2 Chemical dangers — cleaning-product residues, pesticides, heavy metals from containers, natural toxins (mushrooms, Bandundu cassava) (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Hôtellerie, Hygiene, §1.2 |
+| DR Congo — §1.3 Physical dangers — glass, metal, plastic and hair in food; where they come from and how to keep them out (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Hôtellerie, Hygiene, §1.3 |
+| DR Congo — §1.4 Allergen dangers — the 14 major allergens to declare, telling the consumer, preventing cross-contact in the kitchen (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Hôtellerie, Hygiene, §1.4 |
+| DR Congo — §2.1 Good Hygiene Practices (BPH) — the base conditions for safe food at every step, foundation of HACCP (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Hôtellerie, Hygiene, §2.1 |
+| DR Congo — §2.2 BPH for personnel — continuing hygiene training, body/uniform hygiene, health surveillance keeping the sick away from food (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Hôtellerie, Hygiene, §2.2 |
+| DR Congo — §2.3 BPH for premises and equipment — cleanable design, maintenance and calibration (fridge thermometers) (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Hôtellerie, Hygiene, §2.3 |
+| DR Congo — §2.4 BPH for operations — forward flow, validated cleaning/disinfection, pest control, drinking-water assurance (Mbuji-Mayi) (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Hôtellerie, Hygiene, §2.4 |
+| DR Congo — §3.1 What HACCP is — a systematic preventive method: find the dangers of a production and control them (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Hôtellerie, Hygiene, §3.1 |
+| DR Congo — §3.2 The seven HACCP principles — hazard analysis, critical points (CCP), critical limits, monitoring, corrective actions, verification, records (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Hôtellerie, Hygiene, §3.2 |
+| DR Congo — §3.3 The CCP decision tree — the question sequence that decides whether a step is a critical control point (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Hôtellerie, Hygiene, §3.3 |
+| DR Congo — §3.4 BPH measure vs CCP — general control vs the last step where control is essential (cooking chicken against Salmonella) (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Hôtellerie, Hygiene, §3.4 |
+| DR Congo — §4.1 Controlling deliveries — temperatures, packaging, use-by dates; refusing non-conforming goods (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Hôtellerie, Hygiene, §4.1 |
+| DR Congo — §4.2 Storage rules — FIFO; raw apart from cooked, earthy vegetables apart, cleaning products in a separate room (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Hôtellerie, Hygiene, §4.2 |
+| DR Congo — §4.3 Watching and recording cold temperatures — continuous fridge/freezer checks with written records as proof (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Hôtellerie, Hygiene, §4.3 |
+| DR Congo — §4.4 Dry store and tins — clean, dry, ventilated, pest-free; stock rotation; rejecting swollen or rusty tins (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Hôtellerie, Hygiene, §4.4 |
+| DR Congo — §5.1 Cold preparations — no later cooking to save them: work fast, keep cold, clean/disinfected tools, strict hand hygiene (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Hôtellerie, Hygiene, §5.1 |
+| DR Congo — §5.2 Thawing mastered — fridge thawing as reference; room-temperature dangers; treating thawing juices as heavily contaminated (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Hôtellerie, Hygiene, §5.2 |
+| DR Congo — §5.3 Cooking as a critical point — reaching core temperature (e.g. 63 °C) to destroy pathogens, checked by probe (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Hôtellerie, Hygiene, §5.3 |
+| DR Congo — §5.4 Cross-contamination in production — different tools/boards for raw and cooked; cleaning between risky operations (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Hôtellerie, Hygiene, §5.4 |
+| DR Congo — §6.1 Rapid cooling, a critical point — +63 °C to +10 °C in under two hours so surviving bacteria cannot multiply (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Hôtellerie, Hygiene, §6.1 |
+| DR Congo — §6.2 Hot holding and reheating — hold above +63 °C; reheat fast to +63 °C, once only (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Hôtellerie, Hygiene, §6.2 |
+| DR Congo — §6.3 Plating and finishing hygiene — tongs/gloves for ready-to-eat food; spotless plates and decoration (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Hôtellerie, Hygiene, §6.3 |
+| DR Congo — §6.4 Service and buffet hygiene — sneeze guards, temperature holding, strict dish/cutlery handling by room staff (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Hôtellerie, Hygiene, §6.4 |
+| DR Congo — §7.1 Meat: the cold chain from abattoir to kitchen — unbroken transport/storage temperatures (Kananga supplier example) (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Hôtellerie, Hygiene, §7.1 |
+| DR Congo — §7.2 Minced meat risks — mincing spreads surface bacteria through the mass; short keeping, cooking to the core (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Hôtellerie, Hygiene, §7.2 |
+| DR Congo — §7.3 Poultry hygiene — Salmonella and Campylobacter; separate storage, disinfecting everything raw poultry touched, full cooking (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Hôtellerie, Hygiene, §7.3 |
+| DR Congo — §7.4 Game and bushmeat — parasite/virus risks, careful handling and very thorough cooking amid traceability challenges (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Hôtellerie, Hygiene, §7.4 |
+| DR Congo — §8.1 Fish freshness and risks — look/smell/texture criteria; parasites and histamine in badly kept fish (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Hôtellerie, Hygiene, §8.1 |
+| DR Congo — §8.2 The fish cold chain — icing fast after capture; the melting-ice bed near 0 °C (Lake Tanganyika fishers) (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Hôtellerie, Hygiene, §8.2 |
+| DR Congo — §8.3 Preparing fish and shellfish hygienically — heading, gutting and filleting without contaminating the flesh; deep-cleaning the station (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Hôtellerie, Hygiene, §8.3 |
+| DR Congo — §8.4 Raw fish risks — carpaccio/tartare only with absolute freshness and parasite-killing freezing where required (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Hôtellerie, Hygiene, §8.4 |
+| DR Congo — §9.1 The Sanitary Control Plan (PMS) — the establishment's whole hygiene system in one document: BPH + HACCP + traceability (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Hôtellerie, Hygiene, §9.1 |
+| DR Congo — §9.2 Records and archiving — temperature logs and cleaning sheets kept as proof for official inspection (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Hôtellerie, Hygiene, §9.2 |
+| DR Congo — §9.3 Traceability — following a product from delivery to service (batch labels) so it can be withdrawn on alert (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Hôtellerie, Hygiene, §9.3 |
+| DR Congo — §9.4 Non-conforming products — identify, isolate, record, then destroy or return to supplier (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Humanities 2 Hôtellerie, Hygiene, §9.4 |
+
+**Book 15 — Activités de Promotion de la Santé, 1ère Maternelle (teacher guide, French):**
+- Title as printed: Guide d'Activités de Promotion de la Santé : 1ère Année Maternelle
+- Grade: 1ère année maternelle (age 3) (student/teacher: TEACHER — an activity guide for the educator, teaching the child programme of Basic Competence 5, "taking care of one's body")
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: 150 as printed on the page — HTML web edition, complete detailed contents on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 36 placements — 0 to existing lessons, 36 NEW LESSON NEEDED
+- DR Congo's own way: health begins at age three as ritual and imitation — the teacher demonstrates, the child copies; handwashing stations are pedal bins and basins, and nutrition is taught entirely from local foods (fufu, chikwangue, mbinzo caterpillars, pondu) sorted into energy, builder and protector groups.
+- Named, not placed (teacher apparatus): §1.1–1.4 pedagogical preliminaries (nature of the course, demonstration method, the classroom hygiene corner, timetable and observation-based evaluation).
+- Annexes (named, not placed per brief): 11.1 classroom hygiene rota (support for Ch. 2); 11.2 picture set of local foods by group (support for Ch. 4–6); 11.3 safety pictograms for the classroom wall (support for Ch. 8); 11.4 health songs in French and national languages (support).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 15 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §4.2 Washing fruit and vegetables — cleaning a mango or orange before eating it, removing dust and surface microbes (teacher guide — evidence) (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Maternelle 1, Health Promotion, §4.2 |
+| DR Congo — §4.3 Clean utensils — using clean plates and cups and helping keep one's own eating things clean (teacher guide — evidence) (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Maternelle 1, Health Promotion, §4.3 |
+
+**Book 16 — Activités de Promotion de la Santé, 2ème Maternelle (teacher guide, French):**
+- Title as printed: Manuel d'Activités de Promotion de la Santé pour la 2ème Année Maternelle en RDC
+- Grade: 2ème année maternelle (age 4) (student/teacher: TEACHER — activity manual written for the educator)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title; unrelated language-course content that follows it on the same web page is a different book and is not part of this record)
+- Verdict: COMPLETE
+- Tally: 36 placements — 0 to existing lessons, 36 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- DR Congo's own way: Year 2 automates the Year 1 gestures (palm, back of hand, between the fingers) and widens the shield — malaria nets and larval sites, Ebola/Covid barrier gestures, toilet autonomy, and the child sent home as a health promoter for local food over imported processed food.
+- Annexes (named, not placed per brief): A.1 food pyramid of local products (support for Ch. 4–5); A.2 illustrated handwashing protocol poster (support for §1.1); A.3 tooth-brushing calendar to take home (support for §1.3); A.4 teacher observation grid for hygiene and health (teacher apparatus).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 16 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §3.2 Washing raw fruit and vegetables — the skins of mangoes and apples carry dust and invisible germs to wash off in clean water (teacher guide — evidence) (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Maternelle 2, Health Promotion, §3.2 |
+| DR Congo — §3.4 Cleaning utensils after use — rinsing one's cup or bowl after the snack so flies and microbes do not breed on food remains (teacher guide — evidence) (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Maternelle 2, Health Promotion, §3.4 |
+
+**Book 17 — Activités de Promotion de la Santé, 3ème Maternelle (teacher guide, French):**
+- Title as printed: Manuel d'Activités de Promotion de la Santé pour la 3ème Maternelle
+- Grade: 3ème année maternelle (age 5) (student/teacher: TEACHER — activity manual written for the educator)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 36 placements — 1 to an existing lesson, 35 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- DR Congo's own way: the final kindergarten year makes the child an actor of sanitation — correct latrine use, sorting fresh from spoiled food, covering food against vectors, burn safety around cooking fires, and health widened to sleep, fatigue and emotional well-being.
+- Annexes (named, not placed per brief): Annexe 1 classification table of local foods (support for Ch. 4); Annexe 2 illustrated handwashing protocol (support for §1.1); Annexe 3 individual hygiene follow-up sheet (self-check tool); Annexe 4 first-aid guide for the child — alert, do not touch blood, reassure (support for §8.4).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 17 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §2.2 Washing raw produce and fruit — raw foods can carry germs and harmful dust; cleaning a mango or orange in clean water (teacher guide — evidence) (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Maternelle 3, Health Promotion, §2.2 |
+| DR Congo — §2.3 Hygiene of eating utensils — cleaning bowls, plates and cutlery after each use; food remains attract insects and microbes (teacher guide — evidence) (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Maternelle 3, Health Promotion, §2.3 |
+| DR Congo — §6.1 Sorting healthy foods — telling fresh food from spoiled or unfit food; rejecting rotten fruit and swollen tins (teacher guide — evidence) (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Maternelle 3, Health Promotion, §6.1 |
+| DR Congo — §6.2 Protecting food from pests — covering food against flies, cockroaches and dust; food stores and lids (teacher guide — evidence) (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Maternelle 3, Health Promotion, §6.2 |
+| DR Congo — §6.3 Helping with simple preparation — shelling beans or washing vegetables; fine motor skills and discovering how raw food becomes a meal (teacher guide — evidence) (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Maternelle 3, Health Promotion, §6.3 |
+
+**Book 18 — Éveil Scientifique (ESE), Primaire 1 (student book, French) — combined science/health book: health parts placed here:**
+- Title as printed: Cours et Exercices d'Éveil Scientifique pour la 1ère Année Primaire (ESE)
+- Grade: 1ère année primaire (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 30 placements — 2 to existing lessons, 28 NEW LESSON NEEDED
+- DR Congo's own way: health enters through the science-awakening course — my body, my living place, then prevention: local toilet materials (including the chewing stick), latrines and the rubbish pit, and road safety taught as a six-step crossing reflex.
+- Other subjects named, not placed: Partie 2 Ch. 5 discovering the environment — natural phenomena (rain, wind, storm, rainbow), natural disasters (flood, erosion), elements and importance of the environment (§§5.1–5.4, science); Ch. 6 §§6.1–6.2 human activities — agriculture, livestock, fishing, hunting, crafts and trades (science/social studies).
+- Annexes (named, not placed per brief): Annexe 1 visual handwashing guide in 6 pictures (support for §2.1); Annexe 2 simple classification of local foods (support for §7.1); Annexe 3 pictograms of domestic dangers (support for Ch. 8); Annexe 4 glossary of key terms (inventory-only).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 18 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §7.2 Cleanliness of food — always washing fruit and vegetables in clean water and covering food against flies and dust (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Grade 1 ESE Primaire 1, §7.2 |
+
+**Book 19 — Éveil, Santé et Environnement (ESE), Primaire 2 (student book, French) — combined science/health book: health parts placed here:**
+- Title as printed: Manuel d'Éveil, Santé et Environnement (ESE) pour la 2ème Année Primaire en RDC – Édition 2025
+- Grade: 2ème année primaire (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 35 placements — 1 to an existing lesson, 34 NEW LESSON NEEDED
+- DR Congo's own way: Year 2 moves from cleanliness to recognising illness — caries, conjunctivitis, otitis, fungal skin disease, scabies and ringworm, all tied back to uncleanliness — and adds a uniquely Congolese safety lesson: recognising mined areas and explosive remnants of war (do not touch, move away, tell an adult).
+- Other subjects named, not placed: Partie 2 Ch. 5 §5.1 identifying community places — school, church, market, health centre (social studies).
+- Annexes (named, not placed per brief): Annexe 1 visual lexicon of common diseases (support for Ch. 1–2); Annexe 2 pictogram guide to domestic-accident prevention (support for §6.3); Annexe 3 mine/explosive-remnant safety poster — do not touch, move away, tell an adult (support for §5.2); Annexe 4 visual board of foods and conservation (support for Ch. 7–8).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 19 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §7.3 Ways of eating: raw or cooked — most fruit raw; meat, cassava and beans always cooked; tomato and carrot both ways (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Grade 2 ESE Primaire 2, §7.3 |
+| DR Congo — §7.4 Cooking methods — boiling in water, frying in oil, grilling over embers (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Grade 2 ESE Primaire 2, §7.4 |
+| DR Congo — §8.1 Conservation by drying — sun-dried fish (makayabu) and dried pondu cassava leaves keeping longer (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Grade 2 ESE Primaire 2, §8.1 |
+| DR Congo — §8.2 Conservation by smoking — meat and fish over wood smoke losing their water and keeping long (Mbandaka markets) (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Grade 2 ESE Primaire 2, §8.2 |
+| DR Congo — §8.3 Conservation by salting — heavy salt stopping microbes so fish keeps very long (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Grade 2 ESE Primaire 2, §8.3 |
+| DR Congo — §8.4 Conservation by refrigeration — the fridge and freezer using intense cold to stop food spoiling quickly (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Grade 2 ESE Primaire 2, §8.4 |
+
+**Book 21 — Éducation à la Santé et à l'Environnement (ESE), Primaire 5 (student book, French):**
+- Title as printed: Manuel d'Éducation à la Santé et à l'Environnement (ESE) – 5ème Année Primaire RDC
+- Grade: 5ème année primaire (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title; the book's own sub-section numbering, 1.1.1 style, is kept in the citations)
+- Verdict: COMPLETE
+- Tally: 37 placements — 0 to existing lessons, 37 NEW LESSON NEEDED
+- DR Congo's own way: Year 5 splits water by use — drinking water (typhoid, cholera) from bathing water (bilharzia through the skin) — refuses self-medication and street "pharmacies on the ground", and teaches malnutrition clinically: marasmus vs kwashiorkor, anaemia, and the vicious circle between malnutrition and infection.
+- Annexes (named, not placed per brief): Annexe 1 practical water-treatment guide — settle, filter, boil 5 minutes (support for §1.2.4); Annexe 2 simplified PEV vaccination calendar (support for Ch. 6); Annexe 3 visual malnutrition guide — healthy vs marasmus vs kwashiorkor child (support for §1.8.3); Annexe 4 health glossary (inventory-only).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 21 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §1.3.4 Water for laundry and dishes — washing plates in soiled water contaminates the food placed on them; air-drying dishes on a rack, not with a possibly dirty cloth (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Grade 5 ESE Primaire 5, §1.3.4 |
+| DR Congo — §1.7.1 The food chain: production and transformation — farming, livestock and fishing; milling maize, cassava into chikwangue, milk into yoghurt (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Grade 5 ESE Primaire 5, §1.7.1 |
+| DR Congo — §1.7.2 The food chain: conservation and consumption — keeping food safe longer, and before eating: washing fruit, cooking meat well, washing hands (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Grade 5 ESE Primaire 5, §1.7.2 |
+| DR Congo — §1.7.3 Perishable goods — fresh meat, fish, milk and leaf vegetables (matembele) spoiling fast; medicines too losing force or turning dangerous in heat and damp (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Grade 5 ESE Primaire 5, §1.7.3 |
+| DR Congo — §1.7.4 Food conservation methods — sun drying, smoking (mbisi ya ko kauka), salting (makayabu) and modern refrigeration (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Grade 5 ESE Primaire 5, §1.7.4 |
+
+**Book 22 — Éveil (ESE), Primaire 6 (student book, French):**
+- Title as printed: Manuel d'Éveil (ESE) 6ème Année Primaire – Programme RDC, Édition 2025
+- Grade: 6ème année primaire (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 36 placements — 4 to existing lessons, 32 NEW LESSON NEEDED
+- DR Congo's own way: the final primary year is public health — hygienic latrines with the Tippy-Tap handwash device against the "faecal peril", a full first-aid chapter, alcohol and tobacco refused (including traditional lotoko and munkoyo), toxic fishing condemned, and STIs/HIV taught with an absolute stress on prevention and on supporting people living with HIV without stigma.
+- Annexes (named, not placed per brief): Annexe 1 formative evaluation grids (teacher apparatus); Annexe 2 illustrated first-aid fact sheets (support for Ch. 2); Annexe 3 glossary of key terms (inventory-only); Annexe 4 school sanitation project sheets — building a Tippy-Tap, school garden, green space (support for §§1.1, 6.3).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 22 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §3.1 Identifying poisoning sources — food poisoning (spoiled food, swollen tins, toxic mushrooms) and medicine poisoning (unprescribed, expired or excess doses mistaken for sweets); storing medicines and household products out of children's reach (original string `staying-safe/food-hygiene-and-safe-cooking`) | DR Congo Grade 6 ESE Primaire 6, §3.1 |
+
+DR Congo is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the student book(s) stocked here are Book(s) 1, 2, 5, 8, 10, 18, 19, 21, 22, so DR Congo is named in the countries line and provenance rows and the acceptance count rises from 8 to 9 countries; the teacher-guide rows, where present, are teacher-guide evidence only, outside the count. The DR Congo placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug, or under its canonical NEW string, are recorded as filed), and the original string is recorded in each provenance row above. DR Congo's own way is content, as the book lines above record it: health teaching built on school hygiene, nutrition taught through Congolese food (cassava, plantain, fumbwa and biteku-teku leaves, fretin, caterpillars and termites as valued protein), food safety and the WHO five keys, water and sanitation, maternal and child health, and workplace safety, with the Salongo community-cleaning tradition named as hygiene practice. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.

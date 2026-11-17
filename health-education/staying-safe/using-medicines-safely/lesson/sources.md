@@ -1,8 +1,8 @@
 # Sources — Using Medicines Safely
 
-countries: Turkey, Pakistan, Papua New Guinea, Thailand, United Arab Emirates, Belize
+countries: Turkey, Pakistan, Papua New Guinea, Thailand, United Arab Emirates, Belize, DR Congo
 
-**Acceptance count: taught in 4 countries.** United Arab Emirates is added as student-book stock (see its United Arab Emirates section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Turkey is filed as student-book stock, inside the acceptance count, in this lesson (see its Turkey section below). Pakistan is added as student-book stock (see its Pakistan section below), inside the acceptance count. Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Thailand is added as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count. Belize is filed as teacher-curriculum / teacher-guide evidence only in this lesson (see its Belize section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for Belize in this lesson.
+**Acceptance count: taught in 5 countries.** United Arab Emirates is added as student-book stock (see its United Arab Emirates section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Turkey is filed as student-book stock, inside the acceptance count, in this lesson (see its Turkey section below). Pakistan is added as student-book stock (see its Pakistan section below), inside the acceptance count. Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Thailand is added as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count. Belize is filed as teacher-curriculum / teacher-guide evidence only in this lesson (see its Belize section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for Belize in this lesson. DR Congo is filed as student-book stock, inside the acceptance count, in this lesson (see its DR Congo section below).
 
 ## Turkey — Health expansion 2026-11-16
 
@@ -243,3 +243,40 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-healt
 Belize is filed as teacher-curriculum / teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — all eight Belize books are TEACHER books, so Belize is named in the countries line and provenance rows but the acceptance count stays at 4 countries. The Belize placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug, or under its canonical NEW string, are recorded as filed), and the original string is recorded in each provenance row above. Belize's own way is content, as the book lines above record it: health is taught as HFLE (Health and Family Life Education) — four themes (Self and Interpersonal Relationships, Sexuality and Sexual Health, Eating and Fitness, Managing the Environment) spiralled through every grade, plus a Healthy Lifestyles strand inside the PE curriculum books. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
 Searchable tags: using medicines safely, medicines and using them rationally, İlaçlar Akılcı İlaç Kullanımı, painkillers, antibiotics, Turkey Health & Traffic Culture, medicines and narcotics, medicines and smoking, opium, Pakistan Grades 6 7 9 11 Sehat-o-Jismani Taleem, Papua New Guinea, Papua New Guinea Grade 3 Health TG Grade 3, Papua New Guinea Grade 4 Health TG Grade 4, Thailand, Thailand Health & PE, สุขศึกษาและพลศึกษา, United Arab Emirates, UAE Health Sciences
+
+## DR Congo — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md. 3 DR Congo placement(s) stocked in this lesson. The DR Congo book(s) stocked in this lesson: Book 21, Book 22. All the DR Congo books stocked in this lesson are student books, so DR Congo is student-book stock, inside the acceptance count, in this lesson. Books 3 and 7 of that file are UNREAD — sales pages (only Chapter 1 offered free in an on-page flipbook serving no downloadable file), each with 0 placements — and Book 12 (Hygiène et Environnement, 3ème Vétérinaire) is record-only under the veterinary exclusion, with 0 placements; nothing is stocked from them in any lesson. No DR Congo placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 21 — Éducation à la Santé et à l'Environnement (ESE), Primaire 5 (student book, French):**
+- Title as printed: Manuel d'Éducation à la Santé et à l'Environnement (ESE) – 5ème Année Primaire RDC
+- Grade: 5ème année primaire (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title; the book's own sub-section numbering, 1.1.1 style, is kept in the citations)
+- Verdict: COMPLETE
+- Tally: 37 placements — 0 to existing lessons, 37 NEW LESSON NEEDED
+- DR Congo's own way: Year 5 splits water by use — drinking water (typhoid, cholera) from bathing water (bilharzia through the skin) — refuses self-medication and street "pharmacies on the ground", and teaches malnutrition clinically: marasmus vs kwashiorkor, anaemia, and the vicious circle between malnutrition and infection.
+- Annexes (named, not placed per brief): Annexe 1 practical water-treatment guide — settle, filter, boil 5 minutes (support for §1.2.4); Annexe 2 simplified PEV vaccination calendar (support for Ch. 6); Annexe 3 visual malnutrition guide — healthy vs marasmus vs kwashiorkor child (support for §1.8.3); Annexe 4 health glossary (inventory-only).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 21 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §1.4.4 The bad use of medicines — powerful chemicals taken anarchically without medical advice: poisoning, vomiting, worsening illness, even death (original string `staying-safe/safe-use-of-medicines`) | DR Congo Grade 5 ESE Primaire 5, §1.4.4 |
+| DR Congo — §1.4.5 Refusing self-medication — never taking a medicine without a doctor's or qualified nurse's prescription, even on a parent's or friend's advice; never street-sold medicines (original string `staying-safe/safe-use-of-medicines`) | DR Congo Grade 5 ESE Primaire 5, §1.4.5 |
+
+**Book 22 — Éveil (ESE), Primaire 6 (student book, French):**
+- Title as printed: Manuel d'Éveil (ESE) 6ème Année Primaire – Programme RDC, Édition 2025
+- Grade: 6ème année primaire (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 36 placements — 4 to existing lessons, 32 NEW LESSON NEEDED
+- DR Congo's own way: the final primary year is public health — hygienic latrines with the Tippy-Tap handwash device against the "faecal peril", a full first-aid chapter, alcohol and tobacco refused (including traditional lotoko and munkoyo), toxic fishing condemned, and STIs/HIV taught with an absolute stress on prevention and on supporting people living with HIV without stigma.
+- Annexes (named, not placed per brief): Annexe 1 formative evaluation grids (teacher apparatus); Annexe 2 illustrated first-aid fact sheets (support for Ch. 2); Annexe 3 glossary of key terms (inventory-only); Annexe 4 school sanitation project sheets — building a Tippy-Tap, school garden, green space (support for §§1.1, 6.3).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 22 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §3.2 Preventing self-medication — every illness needs its own diagnosis and treatment; the neighbour's quinine or nivaquine for every fever can mask a graver disease or breed resistance (original string `staying-safe/safe-use-of-medicines`) | DR Congo Grade 6 ESE Primaire 6, §3.2 |
+
+DR Congo is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the student book(s) stocked here are Book(s) 21, 22, so DR Congo is named in the countries line and provenance rows and the acceptance count rises from 4 to 5 countries; the teacher-guide rows, where present, are teacher-guide evidence only, outside the count. The DR Congo placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug, or under its canonical NEW string, are recorded as filed), and the original string is recorded in each provenance row above. DR Congo's own way is content, as the book lines above record it: health teaching built on school hygiene, nutrition taught through Congolese food (cassava, plantain, fumbwa and biteku-teku leaves, fretin, caterpillars and termites as valued protein), food safety and the WHO five keys, water and sanitation, maternal and child health, and workplace safety, with the Salongo community-cleaning tradition named as hygiene practice. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.

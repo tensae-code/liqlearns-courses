@@ -1848,3 +1848,57 @@ Interpersonal Relationships, Sexuality and Sexual Health,
 Eating and Fitness, Managing the Environment) spiralled
 through every grade, plus a Healthy Lifestyles strand inside
 the PE curriculum books.
+
+**Health expansion — DR Congo — BUILT 2026-11-17:** 629
+placements from DR Congo's Health placements file stocked — 601
+filed NEW LESSON NEEDED and 28 filed to existing lessons — into
+19 existing lessons (Workplace Health and Safety ×139, Food
+Hygiene and Safe Cooking ×126, Keeping Our Environment Healthy
+×94, Eating a Balanced Diet ×64, Preventing Common Diseases ×51,
+Keeping My Body Clean ×48, Safe Water and Toilets ×24, Avoiding
+Accidents and Staying Safe ×23, Preventing Sports Injuries and
+First Aid ×22, Health Services and Health Workers ×17, Why
+Exercise Keeps You Healthy ×3, Paying Attention and Crossing the
+Road Safely ×3, Using Medicines Safely ×3, Common Illnesses and
+Caring for the Sick ×2, Saying No to Drugs, Alcohol and Tobacco
+×2, Staying Safe While Exercising ×2, Mental Health and Wellbeing
+×1, Hygiene for Sport ×1, Your Body in Exercise ×1) and 1 new
+lesson (Feeding Mothers and Young Children ×3) — bringing this
+course to **61 lessons**. The books are the Manuels scolaires RDC
+web editions (French, 2025, complete HTML text, no printed
+pagination — citations give part/chapter/section numbers as
+printed on the page): 19 books read COMPLETE — the Humanities
+hygiene, food-hygiene, hotel/restaurant, masonry, joinery and
+social-techniques manuals, the three Maternelle health-promotion
+guides and the primary ESE manuals — plus 5 health sections
+cross-filed from 4 PE books (EPS Primaire 1, 2 and 3–4 and the
+Pédagogie Générale manual, all student books). DR Congo's student
+books are student-book stock, inside the acceptance counts, in
+every lesson they touch (each touched lesson's count rose by 1,
+except Mental Health and Wellbeing, whose only DR Congo row comes
+from a teacher guide); Books 15–17 are TEACHER guides, so their
+rows are teacher-guide evidence only, outside the acceptance
+counts, and are marked (teacher guide — evidence) — Mental Health
+and Wellbeing's count is unchanged. The 601 NEW placements were
+filed under descriptive staying-safe strings, resolved by the
+health slug registry Part 2A, and 4 `staying-safe/HELD-title-
+decision` lines, resolved by registry Part 2B (3 to Why Exercise
+Keeps You Healthy, 1 to Your Body in Exercise) — with the
+original string recorded in every provenance row. No DR Congo
+placement resolves to a PE-course lesson, so none was excluded as
+PE-bound. Honesty notes, exactly as filed: Books 3 (Hygiène
+Familiale, 1ère H.T.S.) and 7 (Hygiène Alimentaire, 2ème
+Techniques Sociales) are UNREAD — sales pages, each with 0
+placements — and Book 12 (Hygiène et Environnement, 3ème
+Vétérinaire) is record-only under the veterinary exclusion, with
+0 placements; nothing is stocked from them. The ESE Primaire 3–4
+book covers 2 records (the Primaire 4 ESE page is identical
+text). Each book's annexes and named-not-placed apparatus are
+named in its book lines and not placed, as filed. DR Congo's own
+way is content: nutrition taught entirely through Congolese food
+— cassava, plantain, fumbwa and biteku-teku leaves, fretin,
+caterpillars and termites as valued protein — with the WHO five
+keys, home water treatment, the Salongo community-cleaning
+tradition, and the social technician's community-education role.
+This is the last Health merge of the expansion: every country's
+Health placements are now stocked.

@@ -1,6 +1,6 @@
 # Sources — Preventing Sports Injuries and First Aid
 
-countries: Ethiopia, United Kingdom, Tajikistan, Turkmenistan, Jordan, Laos, Finland, Namibia, Haiti, Cyprus, Afghanistan, China, El Salvador, Oman, Samoa, Bulgaria, Honduras, Myanmar, Greece, Azerbaijan, Turkey, Zimbabwe, Malaysia, Papua New Guinea, Iran, Estonia, Vietnam, Thailand, Indonesia, Tanzania, Mauritius, Kuwait, Nepal, Maldives, Sri Lanka, Fiji, Belize
+countries: Ethiopia, United Kingdom, Tajikistan, Turkmenistan, Jordan, Laos, Finland, Namibia, Haiti, Cyprus, Afghanistan, China, El Salvador, Oman, Samoa, Bulgaria, Honduras, Myanmar, Greece, Azerbaijan, Turkey, Zimbabwe, Malaysia, Papua New Guinea, Iran, Estonia, Vietnam, Thailand, Indonesia, Tanzania, Mauritius, Kuwait, Nepal, Maldives, Sri Lanka, Fiji, Belize, DR Congo
 
 **Book 1:** *Grade 6 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–95 + front matter (103 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g06-student-placements.md.
 
@@ -88,7 +88,7 @@ countries: Ethiopia, United Kingdom, Tajikistan, Turkmenistan, Jordan, Laos, Fin
 | El Salvador — Unit 3 Lesson 1 ¡Cuidado con el tétano! — cleaning a wound or scrape with water and soap, covering it with clean gauze, never touching wounds with dirty hands, and building a class first-aid kit (botiquín) (filed under `staying-safe/preventing-sports-injuries-and-first-aid`, this lesson itself) | El Salvador, *Ciencia, Salud y Medio Ambiente 1*, Unit 3 Lesson 1, printed pp. 54–57 |
 | El Salvador — Grade 3 Unit 2 Lesson 2 Practico mis habilidades físicas sin riesgo — risks of muscle and tendon injury in flexibility work, progressive static stretching technique, and knowing the limit of effort (teacher guide — evidence) (filed under `staying-safe/preventing-sports-injuries-and-first-aid`, this lesson itself) | El Salvador, *Guía Metodológica de Educación Física, Primer Ciclo* (El Salvador Grades 1–3 PE Guide, teacher guide), printed p. 157 (teacher guide — evidence) |
 
-**Acceptance count: taught in 24 countries (Ethiopia, United Kingdom, Tajikistan, Turkmenistan, Jordan, Cyprus, China, El Salvador, Bulgaria, Honduras, Myanmar, Greece, Azerbaijan, Turkey, Zimbabwe, Malaysia, Vietnam, Thailand, Indonesia, Tanzania, Mauritius, Nepal, Fiji).** Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Tanzania is added as student-book stock (see its Tanzania section below), inside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count — Book 1 is a STUDENT book; Book 8 stocked there is teacher-guide evidence only, outside the count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked here are teacher-guide evidence only, outside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count; the Myanmar teacher guides stocked here are teacher-guide evidence only, outside the acceptance count. United Kingdom is added as student-book stock (see its book line and row below), inside the acceptance count. Bulgaria is added as student-book stock (see its book line and row below), inside the acceptance count. Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Books 2 and 4 are STUDENT books; Book 9, the Grade 7 Differentiation Activities teacher guide, is filed as teacher-guide evidence only, outside the count. Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Estonia is filed as teacher-guide evidence only in this lesson (see its Estonia section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is stocked in this lesson for Estonia. Vietnam is added as student-book stock (see its Vietnam section below), inside the acceptance count. Thailand is added as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count; the Indonesia teacher-guide rows in this lesson are filed as teacher-guide evidence only, outside the count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count — Book 4 is a student book; the Book 2 Teacher's Book row is teacher-guide evidence only, outside the count. Kuwait is filed as teacher-guide evidence only in this lesson (see its Kuwait section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Kuwait rows in this lesson. Nepal is added as student-book stock (see its Nepal section below), inside the acceptance count. Maldives is filed as teacher-guide evidence only in this lesson (see its Maldives section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Maldives rows in this lesson. Belize is filed as teacher-curriculum / teacher-guide evidence only in this lesson (see its Belize section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for Belize in this lesson.
+**Acceptance count: taught in 25 countries (Ethiopia, United Kingdom, Tajikistan, Turkmenistan, Jordan, Cyprus, China, El Salvador, Bulgaria, Honduras, Myanmar, Greece, Azerbaijan, Turkey, Zimbabwe, Malaysia, Vietnam, Thailand, Indonesia, Tanzania, Mauritius, Nepal, Fiji).** Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Tanzania is added as student-book stock (see its Tanzania section below), inside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count — Book 1 is a STUDENT book; Book 8 stocked there is teacher-guide evidence only, outside the count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked here are teacher-guide evidence only, outside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count; the Myanmar teacher guides stocked here are teacher-guide evidence only, outside the acceptance count. United Kingdom is added as student-book stock (see its book line and row below), inside the acceptance count. Bulgaria is added as student-book stock (see its book line and row below), inside the acceptance count. Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Books 2 and 4 are STUDENT books; Book 9, the Grade 7 Differentiation Activities teacher guide, is filed as teacher-guide evidence only, outside the count. Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Estonia is filed as teacher-guide evidence only in this lesson (see its Estonia section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is stocked in this lesson for Estonia. Vietnam is added as student-book stock (see its Vietnam section below), inside the acceptance count. Thailand is added as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count; the Indonesia teacher-guide rows in this lesson are filed as teacher-guide evidence only, outside the count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count — Book 4 is a student book; the Book 2 Teacher's Book row is teacher-guide evidence only, outside the count. Kuwait is filed as teacher-guide evidence only in this lesson (see its Kuwait section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Kuwait rows in this lesson. Nepal is added as student-book stock (see its Nepal section below), inside the acceptance count. Maldives is filed as teacher-guide evidence only in this lesson (see its Maldives section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Maldives rows in this lesson. Belize is filed as teacher-curriculum / teacher-guide evidence only in this lesson (see its Belize section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for Belize in this lesson. DR Congo is filed as student-book stock, inside the acceptance count, in this lesson (see its DR Congo section below); its teacher-guide rows in this lesson are teacher-guide evidence only, outside the count.
 
 Tajikistan is added as student-book stock (see its book line and row above), inside the acceptance count. The Tajikistan placement was filed under the slug `staying-safe/preventing-sports-injuries-and-first-aid`, this lesson itself.
 
@@ -1228,3 +1228,158 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/fiji-health-
 | Fiji — Sports Medicine — classifying and managing injuries: indirect, soft-tissue and hard-tissue injuries, strains and their three levels, fractures, subluxation, the RICER method and the TOTAPS assessment regime (original string `staying-safe/preventing-sports-injuries-and-first-aid`) | Fiji Years 9 & 10 Physical Education is Fun, printed pp. 157–168 |
 
 Fiji is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the student book(s) stocked here are Book 3, Book 4, Book 8, Book 10, Book 12, so Fiji is named in the countries line and provenance rows and the acceptance count rises from 23 to 24 countries; the teacher-guide rows are teacher-guide evidence only, outside the count. The Fiji placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Fiji's own way is content, as the book lines above record it: health is taught through the Healthy Living series rooted in island life — floods and hurricanes, boats and swimming, village family life, Fiji's own foods (dalo, tavioka, kumala), its immunisation schedule and its own health services. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+## DR Congo — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md. 22 DR Congo placement(s) stocked in this lesson. The DR Congo book(s) stocked in this lesson: Book 5, Book 6, Book 9, Book 11, Book 13, Book 14, Book 17, Book 22, plus the cross-filed EPS / Pédagogie Générale sections at the end of that file. DR Congo's student books are student-book stock, inside the acceptance count, in this lesson; its teacher-guide rows (Books 15–17, the Maternelle health-promotion guides) are teacher-guide evidence only, outside the count, and are marked (teacher guide — evidence) in the rows below. Books 3 and 7 of that file are UNREAD — sales pages (only Chapter 1 offered free in an on-page flipbook serving no downloadable file), each with 0 placements — and Book 12 (Hygiène et Environnement, 3ème Vétérinaire) is record-only under the veterinary exclusion, with 0 placements; nothing is stocked from them in any lesson. No DR Congo placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 5 — Hygiène, 1ère Hôtellerie et Restauration (student book, French):**
+- Title as printed: Manuel d'Hygiène pour la 1ère Année en Hôtellerie et Restauration
+- Grade: 1ère année des humanités, Hôtellerie et Restauration (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 37 placements — 1 to an existing lesson, 36 NEW LESSON NEEDED
+- DR Congo's own way: professional hygiene for hotels/restaurants built on applied microbiology — the C.H.A.T.T.E. growth conditions (heat, humidity, acidity, time, oxygen, nutrients), the blue-plaster wound rule, coloured chopping boards, FIFO stock rotation and probe-thermometer cooking checks, all localised (Karavia hotel Lubumbashi, Kikwit water supply, Matadi dining rooms).
+- Annexes (named, not placed per brief): Annexe 1 hygiene glossary (inventory-only); Annexe 2 model cleaning plan (support for §4.4); Annexe 3 fridge/freezer temperature record sheet (support for §7.3–7.4).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 5 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — Annexe 4 First aid for kitchen accidents — first responses for cuts, burns and falls until qualified help (first-aid teaching in annexe) (original string `staying-safe/preventing-sports-injuries-and-first-aid`) | DR Congo Humanities 1 Hôtellerie, Hygiene, Annexe 4 |
+
+**Book 6 — Santé, Sécurité et Environnement, 1ère Maçonnerie (student book, French):**
+- Title as printed: Manuel de Santé, Sécurité et Environnement : 1ère Année Maçonnerie (RDC)
+- Grade: 1ère année des humanités, Option Maçonnerie (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 36 placements — 1 to an existing lesson, 35 NEW LESSON NEEDED
+- DR Congo's own way: worker health taught as applied anatomy — every body system (bones, joints, muscles, heart, lungs, immunity, digestion, kidneys) is taught through the mason's own tasks, ending in PPE, first aid and site-waste duties; hydration in Kinshasa/Kalemie heat is named the mason's first safety measure.
+- Annexes (named, not placed per brief): A.1 anatomical plates (visual support); A.2 construction-medicine glossary (inventory-only); A.3 vital-signs record sheet (practical tool supporting §4.4/§8.3); A.4 ergonomic posture guide for masonry tasks (illustrated support for §§1.3, 2.4).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 6 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §9.3 First-aid principles on site — protect the accident zone, alert, first care for haemorrhages, burns and fractures (original string `staying-safe/preventing-sports-injuries-and-first-aid`) | DR Congo Humanities 1 Maçonnerie, SSE, §9.3 |
+
+**Book 9 — Hygiène et Sécurité au Travail, 2ème Menuiserie (student book, French):**
+- Title as printed: Manuel d'Hygiène et Sécurité au Travail pour la Menuiserie (2ème Année)
+- Grade: 2ème année des humanités, Option Menuiserie (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 36 placements — 4 to an existing lesson, 32 NEW LESSON NEEDED
+- DR Congo's own way: workshop safety taught machine by machine and product by product for Congolese joinery — the fitted "salopette" of Limete workshops, toxic tropical woods (Wenge; annexe table of Kambala and ebony), the glove paradox (gloves for carrying rough wood, never on rotating machines), and fire/evacuation drills for big Matadi workshops.
+- Annexes (named, not placed per brief): A.1 standardised safety pictograms (support for §6.2); A.2 periodic machine-check list (support for Ch. 4); A.3 table of toxic Congolese wood species — Kambala, ebony — with required respiratory PPE (support for §§2.3, 5.2); A.4 emergency-alert procedure with local numbers (support for §8.1).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 9 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §8.1 Protect, alert, rescue (PAS) — securing the scene, examining the victim, precise alert to emergency services/infirmary (original string `staying-safe/preventing-sports-injuries-and-first-aid`) | DR Congo Humanities 2 Menuiserie, Hygiene & Work Safety, §8.1 |
+| DR Congo — §8.2 Cuts and haemorrhage — direct manual compression and pressure dressings for heavy bleeding (original string `staying-safe/preventing-sports-injuries-and-first-aid`) | DR Congo Humanities 2 Menuiserie, Hygiene & Work Safety, §8.2 |
+| DR Congo — §8.3 Burns and chemical splashes — cooling burns with tepid water; abundant rinsing of eyes/skin after solvent splashes (original string `staying-safe/preventing-sports-injuries-and-first-aid`) | DR Congo Humanities 2 Menuiserie, Hygiene & Work Safety, §8.3 |
+| DR Congo — §8.4 The workshop first-aid kit — standard contents (disinfectants, dressings, sterile compresses) and knowing where it is (original string `staying-safe/preventing-sports-injuries-and-first-aid`) | DR Congo Humanities 2 Menuiserie, Hygiene & Work Safety, §8.4 |
+
+**Book 11 — Qualité, Santé, Sécurité et Environnement (QSSE), 2ème Maçonnerie (student book, French):**
+- Title as printed: Manuel de Qualité, Santé, Sécurité et Environnement (QSSE) pour la Maçonnerie, 2ème Année
+- Grade: 2ème année des humanités, Option Maçonnerie (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 28 placements — 1 to an existing lesson, 27 NEW LESSON NEEDED
+- DR Congo's own way: Year 2 turns the mason's safety teaching into a system — risk analysis before every task, collective protection before individual, site waste and nuisances managed for the neighbourhood, and every accident, even a near-miss, debriefed and declared to the CNSS.
+- Named, not placed (out of scope — masonry trade quality, not health): Partie 3 Ch. 7 quality standards, dimensional tolerances, materials reception control and finish aesthetics (§§7.1–7.4); Ch. 8 measuring instruments, site tests (slump test), traceability sheets and non-conformity handling (§§8.1–8.4).
+- Annexes (named, not placed per brief): A.1 safety pictograms and chemical hazard symbols (visual support for §3.1/§3.4); A.2 model risk-analysis sheet (support for §2.2); A.3 scaffold check-list (support for §2.3); A.4 emergency eye-wash procedure, 15-minute rinse for lime/cement splashes (support for §9.2).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 11 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §9.2 First-aid gestures — cleaning simple wounds, cooling thermal/chemical (cement) burns, recovery position; never moving a suspected spinal injury (original string `staying-safe/preventing-sports-injuries-and-first-aid`) | DR Congo Humanities 2 Maçonnerie, QSSE, §9.2 |
+
+**Book 13 — Hygiène et Sécurité du Travail, 4ème Techniques Sociales (student book, French):**
+- Title as printed: Manuel d'Hygiène et Sécurité du Travail pour la 4ème Année, Option Techniques Sociales
+- Grade: 4ème année des humanités, Option Techniques Sociales (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 56 placements — 1 to an existing lesson, 55 NEW LESSON NEEDED
+- DR Congo's own way: the final-year course is the complete occupational-health system — Congolese Labour Code duties, physical/chemical/biological risk families, occupational medicine, collective-before-individual prevention, recognised occupational diseases with CNSS reparation, and the social technician's own role: spotting risks, supporting victims, and running the safety talk.
+- Annexes (named, not placed per brief): Annexe 1 glossary of hygiene and safety (inventory-only); Annexe 2 selected Congolese Labour Code articles on hygiene and safety duties (legal source); Annexe 3 simplified table of recognised occupational diseases (support for Ch. 12); Annexe 4 model enterprise-visit report (support for Ch. 14).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 13 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §10.2 Organising emergency rescue — training workplace first-aiders, first-aid posts and first-aid equipment (original string `staying-safe/preventing-sports-injuries-and-first-aid`) | DR Congo Humanities 4 Techniques Sociales, Hygiene & Work Safety, §10.2 |
+
+**Book 14 — Santé, Sécurité et Environnement, 4ème Menuiserie (student book, French):**
+- Title as printed: Manuel de Santé, Sécurité et Environnement pour la Menuiserie (4ème Année)
+- Grade: 4ème année des humanités, Option Menuiserie (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title; the page numbers its burns section "8.1" inside Chapter 9 — cited here as §9.1 as printed in sequence)
+- Verdict: COMPLETE
+- Tally: 28 placements — 8 to an existing lesson, 20 NEW LESSON NEEDED
+- DR Congo's own way: the final-year joinery course runs environment first (the Congo-basin forest as the joiner's own raw material), then the legal safety framework, and ends with the fullest first-aid training in the set — Protect–Examine–Alert–Rescue, the rule of 15s for burns, and care for severed fingers.
+- Named, not placed (out of scope — joinery trade quality, not health): Partie 2 Ch. 5 quality concepts and ISO norms, causes of non-quality, Pareto/Ishikawa tools (§§5.1–5.4); Ch. 6 measuring instruments, metrology, workstation quality control and traceability (§§6.1–6.4).
+- Annexes (named, not placed per brief): A.1 safety signal code plate (support for §3.3/Ch. 4); A.2 model accident-analysis form with cause tree (support); A.3 blank quality diagrams (trade-quality support); A.4 emergency-call procedure memo with Congolese city numbers (support for §7.3); A.5 HSE and quality glossary (inventory-only).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 14 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §8.1 External haemorrhages — direct manual compression, pressure dressing, and the tourniquet only exceptionally (catastrophe or amputation) (original string `staying-safe/preventing-sports-injuries-and-first-aid`) | DR Congo Humanities 4 Menuiserie, SSE, §8.1 |
+| DR Congo — §8.2 Unconsciousness and the recovery position — freeing the airway by head tilt and placing the breathing casualty in the PLS (original string `staying-safe/preventing-sports-injuries-and-first-aid`) | DR Congo Humanities 4 Menuiserie, SSE, §8.2 |
+| DR Congo — §8.3 Ventilatory distress and cardiac arrest — recognising arrest and performing CPR (compressions and breaths); introduction to the AED (original string `staying-safe/preventing-sports-injuries-and-first-aid`) | DR Congo Humanities 4 Menuiserie, SSE, §8.3 |
+| DR Congo — §8.4 Faints and medical alert — reading the signs (pallor, sweating, chest pain), resting the casualty in the right position, giving a full report to the regulating doctor (original string `staying-safe/preventing-sports-injuries-and-first-aid`) | DR Congo Humanities 4 Menuiserie, SSE, §8.4 |
+| DR Congo — §9.1 Thermal and chemical burns — telling them apart and applying the rule of 15s: water at 15 °C, 15 cm away, for 15 minutes (original string `staying-safe/preventing-sports-injuries-and-first-aid`) | DR Congo Humanities 4 Menuiserie, SSE, §9.1 |
+| DR Congo — §9.2 Wounds and severed parts — cleaning and protecting simple wounds; never removing an embedded object; packing a severed part cold without direct ice contact (original string `staying-safe/preventing-sports-injuries-and-first-aid`) | DR Congo Humanities 4 Menuiserie, SSE, §9.2 |
+| DR Congo — §9.3 Skeletal injuries: fractures and sprains — suspecting fracture (pain, deformity, loss of function) and strict immobilisation (original string `staying-safe/preventing-sports-injuries-and-first-aid`) | DR Congo Humanities 4 Menuiserie, SSE, §9.3 |
+| DR Congo — §9.4 Eye care and foreign bodies — immediate eye rinsing for chemicals and dust; never extracting an embedded eye object; covering both eyes while awaiting evacuation (original string `staying-safe/preventing-sports-injuries-and-first-aid`) | DR Congo Humanities 4 Menuiserie, SSE, §9.4 |
+
+**Book 17 — Activités de Promotion de la Santé, 3ème Maternelle (teacher guide, French):**
+- Title as printed: Manuel d'Activités de Promotion de la Santé pour la 3ème Maternelle
+- Grade: 3ème année maternelle (age 5) (student/teacher: TEACHER — activity manual written for the educator)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 36 placements — 1 to an existing lesson, 35 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- DR Congo's own way: the final kindergarten year makes the child an actor of sanitation — correct latrine use, sorting fresh from spoiled food, covering food against vectors, burn safety around cooking fires, and health widened to sleep, fatigue and emotional well-being.
+- Annexes (named, not placed per brief): Annexe 1 classification table of local foods (support for Ch. 4); Annexe 2 illustrated handwashing protocol (support for §1.1); Annexe 3 individual hygiene follow-up sheet (self-check tool); Annexe 4 first-aid guide for the child — alert, do not touch blood, reassure (support for §8.4).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 17 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §8.4 What to do when injured — staying calm and alerting an adult at once, for oneself or a classmate; never hiding a wound, against infection (teacher guide — evidence) (original string `staying-safe/preventing-sports-injuries-and-first-aid`) | DR Congo Maternelle 3, Health Promotion, §8.4 |
+
+**Book 22 — Éveil (ESE), Primaire 6 (student book, French):**
+- Title as printed: Manuel d'Éveil (ESE) 6ème Année Primaire – Programme RDC, Édition 2025
+- Grade: 6ème année primaire (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 36 placements — 4 to existing lessons, 32 NEW LESSON NEEDED
+- DR Congo's own way: the final primary year is public health — hygienic latrines with the Tippy-Tap handwash device against the "faecal peril", a full first-aid chapter, alcohol and tobacco refused (including traditional lotoko and munkoyo), toxic fishing condemned, and STIs/HIV taught with an absolute stress on prevention and on supporting people living with HIV without stigma.
+- Annexes (named, not placed per brief): Annexe 1 formative evaluation grids (teacher apparatus); Annexe 2 illustrated first-aid fact sheets (support for Ch. 2); Annexe 3 glossary of key terms (inventory-only); Annexe 4 school sanitation project sheets — building a Tippy-Tap, school garden, green space (support for §§1.1, 6.3).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 22 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §2.1 First-aid basics and resuscitation — Protect, Alert, Rescue: securing the scene, the alert message (place, nature, victims), and the recovery position for the unconscious breathing casualty (original string `staying-safe/preventing-sports-injuries-and-first-aid`) | DR Congo Grade 6 ESE Primaire 6, §2.1 |
+| DR Congo — §2.2 Wounds and haemorrhages — cleaning a simple wound with clean water and soap, antiseptic and clean dressing; direct manual compression for heavy bleeding, tourniquets discouraged at this level (original string `staying-safe/preventing-sports-injuries-and-first-aid`) | DR Congo Grade 6 ESE Primaire 6, §2.2 |
+| DR Congo — §2.3 Fractures and sprains — recognising intense pain, swelling, deformity and immobility; the golden rule of not moving the limb, reassuring and applying cold (original string `staying-safe/preventing-sports-injuries-and-first-aid`) | DR Congo Grade 6 ESE Primaire 6, §2.3 |
+| DR Congo — §2.4 Bites and stings — washing an animal bite abundantly with water and soap against rabies, removing a bee sting; for snake bite: never suck, cut or tourniquet — calm, immobilise, evacuate fast (original string `staying-safe/preventing-sports-injuries-and-first-aid`) | DR Congo Grade 6 ESE Primaire 6, §2.4 |
+
+**Cross-filed Book — EPS Primaire 1 (student book, French) (health sections cross-filed in the Health placements file):**
+- Title as printed: Manuel d'Éducation Physique pour la 1ère Année Primaire – Programme RDC
+- Grade: 1ère année primaire (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 35 placements — 28 to existing lessons, 7 NEW LESSON NEEDED (plus 2 health sections cross-filed in the Health placements file)
+- DR Congo's own way: builds PE from body awareness and signals first, walks before it runs, and roots games in Congolese play — marelle called Kebo, the Zango rhythm game, traditional wrestling values, local songs from Kasaï/Équateur to walk to.
+- Health sections cross-filed at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (cross-filed section at the end of that file, filed by the finisher and verified against the recorded pages); the book's PE placements are filed in dr-congo-pe-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — EPS Primaire 1 Annexe 4 Safety and first-aid guide — the teacher's pre-session checklist: inspecting the ground for stones, glass and holes, suitable clothing, and a small first-aid kit (clean water, mild disinfectant, dressings) (original string `staying-safe/preventing-sports-injuries-and-first-aid`) | DR Congo Grade 1 EPS Primaire 1, Annexe 4 |
+
+DR Congo is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the student book(s) stocked here are Book(s) 5, 6, 9, 11, 13, 14, 22, the cross-filed EPS / Pédagogie Générale student books, so DR Congo is named in the countries line and provenance rows and the acceptance count rises from 24 to 25 countries; the teacher-guide rows, where present, are teacher-guide evidence only, outside the count. The DR Congo placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug, or under its canonical NEW string, are recorded as filed), and the original string is recorded in each provenance row above. DR Congo's own way is content, as the book lines above record it: health teaching built on school hygiene, nutrition taught through Congolese food (cassava, plantain, fumbwa and biteku-teku leaves, fretin, caterpillars and termites as valued protein), food safety and the WHO five keys, water and sanitation, maternal and child health, and workplace safety, with the Salongo community-cleaning tradition named as hygiene practice. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.

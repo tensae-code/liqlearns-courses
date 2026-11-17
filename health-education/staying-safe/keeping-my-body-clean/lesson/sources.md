@@ -1,8 +1,8 @@
 # Sources — Keeping My Body Clean
 
-countries: Kiribati, El Salvador, Oman, Samoa, Timor-Leste, Myanmar, Philippines, Ukraine, Sierra Leone, Papua New Guinea, Bhutan, Iran, Estonia, Vietnam, Thailand, Tanzania, Mauritius, Eritrea, Nepal, Maldives, Fiji, Belize
+countries: Kiribati, El Salvador, Oman, Samoa, Timor-Leste, Myanmar, Philippines, Ukraine, Sierra Leone, Papua New Guinea, Bhutan, Iran, Estonia, Vietnam, Thailand, Tanzania, Mauritius, Eritrea, Nepal, Maldives, Fiji, Belize, DR Congo
 
-**Acceptance count: taught in 15 countries.** Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Tanzania is added as student-book stock (see its Tanzania section below), inside the acceptance count. Kiribati and El Salvador are filed as student-book stock, inside the acceptance count, in this lesson — Kiribati Book 1 is a student book (its Book 2 is a teacher guide, so its row there is teacher-guide evidence only; the country is already counted once via the student book), and El Salvador's book is a student book. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count; the Myanmar teacher guide stocked here is teacher-guide evidence only, outside the acceptance count. Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Sierra Leone is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Sierra Leone rows (see its Sierra Leone section below). Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — all five Bhutan books are STUDENT books. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Estonia is filed as teacher-guide evidence only in this lesson (see its Estonia section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is stocked in this lesson for Estonia. Vietnam is added as student-book stock (see its Vietnam section below), inside the acceptance count. Thailand is added as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Eritrea is added as student-book stock (see its Eritrea section below), inside the acceptance count — all three Eritrea books are STUDENT books. Nepal is added as student-book stock (see its Nepal section below), inside the acceptance count. Maldives is filed as teacher-guide evidence only in this lesson (see its Maldives section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Maldives rows in this lesson. Belize is filed as teacher-curriculum / teacher-guide evidence only in this lesson (see its Belize section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for Belize in this lesson.
+**Acceptance count: taught in 16 countries.** Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Tanzania is added as student-book stock (see its Tanzania section below), inside the acceptance count. Kiribati and El Salvador are filed as student-book stock, inside the acceptance count, in this lesson — Kiribati Book 1 is a student book (its Book 2 is a teacher guide, so its row there is teacher-guide evidence only; the country is already counted once via the student book), and El Salvador's book is a student book. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count; the Myanmar teacher guide stocked here is teacher-guide evidence only, outside the acceptance count. Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Sierra Leone is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Sierra Leone rows (see its Sierra Leone section below). Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — all five Bhutan books are STUDENT books. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Estonia is filed as teacher-guide evidence only in this lesson (see its Estonia section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is stocked in this lesson for Estonia. Vietnam is added as student-book stock (see its Vietnam section below), inside the acceptance count. Thailand is added as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Eritrea is added as student-book stock (see its Eritrea section below), inside the acceptance count — all three Eritrea books are STUDENT books. Nepal is added as student-book stock (see its Nepal section below), inside the acceptance count. Maldives is filed as teacher-guide evidence only in this lesson (see its Maldives section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Maldives rows in this lesson. Belize is filed as teacher-curriculum / teacher-guide evidence only in this lesson (see its Belize section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for Belize in this lesson. DR Congo is filed as student-book stock, inside the acceptance count, in this lesson (see its DR Congo section below); its teacher-guide rows in this lesson are teacher-guide evidence only, outside the count.
 
 **Book 1 — Stay Clean and Healthy, Big Book Year 3 Term 1 (student book — big-book reader, English):**
 - Title as printed: Stay Clean And Healthy
@@ -888,3 +888,172 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/fiji-health-
 | Fiji — Unit 16 Good Hygiene — hygiene habits for the whole family and a clean, pest-free, well-drained home with sunned bedding (original string `staying-safe/keeping-ourselves-clean`) | Fiji Year 4 Healthy Living, printed pp. 32–33 |
 
 Fiji is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the student book(s) stocked here are Book 1, Book 2, Book 3, Book 5, Book 7, so Fiji is named in the countries line and provenance rows and the acceptance count rises from 14 to 15 countries; the teacher-guide rows are teacher-guide evidence only, outside the count. The Fiji placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Fiji's own way is content, as the book lines above record it: health is taught through the Healthy Living series rooted in island life — floods and hurricanes, boats and swimming, village family life, Fiji's own foods (dalo, tavioka, kumala), its immunisation schedule and its own health services. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+## DR Congo — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md. 48 DR Congo placement(s) stocked in this lesson. The DR Congo book(s) stocked in this lesson: Book 4, Book 15, Book 16, Book 17, Book 18, Book 19, Book 20, Book 22. DR Congo's student books are student-book stock, inside the acceptance count, in this lesson; its teacher-guide rows (Books 15–17, the Maternelle health-promotion guides) are teacher-guide evidence only, outside the count, and are marked (teacher guide — evidence) in the rows below. Books 3 and 7 of that file are UNREAD — sales pages (only Chapter 1 offered free in an on-page flipbook serving no downloadable file), each with 0 placements — and Book 12 (Hygiène et Environnement, 3ème Vétérinaire) is record-only under the veterinary exclusion, with 0 placements; nothing is stocked from them in any lesson. No DR Congo placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 4 — Hygiène Individuelle et Collective, 1ère Techniques Sociales (student book, French):**
+- Title as printed: Cours d'Hygiène Individuelle et Collective pour la 1ère Année en Techniques Sociales
+- Grade: 1ère année des humanités, Techniques Sociales (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 20 placements — 0 to existing lessons, 20 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- DR Congo's own way: the general hygiene course behind the food books — body, clothes, house, water, latrines, rubbish and vectors, then the diseases themselves (malaria first, TB, cholera and the "5 Fs" of faecal transmission, worms), vaccination, and the Salongo community-cleaning tradition named as hygiene practice.
+- Annexes (named, not placed per brief): hygiene/public-health glossary (inventory-only); DRC vaccination calendar (reference tool supporting §7.1); disease fact sheets for ~10 priority diseases (support for Ch. 6–9); health-education session guide (support for §11.1).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 4 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §1.1 Caring for the body — skin as first defence (soap washing, scabies), hair/nails (lice, ringworm, short nails), teeth (incl. local chewing-stick), eyes/ears/nose care (original string `staying-safe/clean-body-clean-home`) | DR Congo Humanities 1 Techniques Sociales, Individual & Collective Hygiene, §1.1 |
+| DR Congo — §1.2 Hygiene of the body's systems — breathing clean air (dust/smoke protection), digestion and the handwash barrier before meals/after latrines, sleep and rest (original string `staying-safe/clean-body-clean-home`) | DR Congo Humanities 1 Techniques Sociales, Individual & Collective Hygiene, §1.2 |
+| DR Congo — §2.1 Clothing and health — clothes as a second skin: protection, cotton for hot climates, regular washing of underclothes, clean dry shoes against jiggers and fungal infections (original string `staying-safe/clean-body-clean-home`) | DR Congo Humanities 1 Techniques Sociales, Individual & Collective Hygiene, §2.1 |
+| DR Congo — §3.1 A healthy house — ventilation against TB in crowded homes, daylight, keeping damp and mould out, quiet and privacy (original string `staying-safe/clean-body-clean-home`) | DR Congo Humanities 1 Techniques Sociales, Individual & Collective Hygiene, §3.1 |
+| DR Congo — §3.2 Looking after the house — cleaning earth/cement floors, a hygienic kitchen corner, airing bedding in the sun, Salongo community cleaning work (original string `staying-safe/clean-body-clean-home`) | DR Congo Humanities 1 Techniques Sociales, Individual & Collective Hygiene, §3.2 |
+| DR Congo — §5.1 Household rubbish — sorting at source, composting organic waste for the garden, covered bins, safe final disposal vs open burning/dumps (original string `staying-safe/clean-body-clean-home`) | DR Congo Humanities 1 Techniques Sociales, Individual & Collective Hygiene, §5.1 |
+
+**Book 15 — Activités de Promotion de la Santé, 1ère Maternelle (teacher guide, French):**
+- Title as printed: Guide d'Activités de Promotion de la Santé : 1ère Année Maternelle
+- Grade: 1ère année maternelle (age 3) (student/teacher: TEACHER — an activity guide for the educator, teaching the child programme of Basic Competence 5, "taking care of one's body")
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: 150 as printed on the page — HTML web edition, complete detailed contents on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 36 placements — 0 to existing lessons, 36 NEW LESSON NEEDED
+- DR Congo's own way: health begins at age three as ritual and imitation — the teacher demonstrates, the child copies; handwashing stations are pedal bins and basins, and nutrition is taught entirely from local foods (fufu, chikwangue, mbinzo caterpillars, pondu) sorted into energy, builder and protector groups.
+- Named, not placed (teacher apparatus): §1.1–1.4 pedagogical preliminaries (nature of the course, demonstration method, the classroom hygiene corner, timetable and observation-based evaluation).
+- Annexes (named, not placed per brief): 11.1 classroom hygiene rota (support for Ch. 2); 11.2 picture set of local foods by group (support for Ch. 4–6); 11.3 safety pictograms for the classroom wall (support for Ch. 8); 11.4 health songs in French and national languages (support).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 15 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §2.1 Washing hands correctly — running water and soap, rubbing every part of the hand, at the key moments (before eating, after the toilet) (teacher guide — evidence) (original string `staying-safe/clean-body-clean-home`) | DR Congo Maternelle 1, Health Promotion, §2.1 |
+| DR Congo — §2.2 Caring for face and hair — clean eyes and nose, comb and towel, the morning presentation check (teacher guide — evidence) (original string `staying-safe/clean-body-clean-home`) | DR Congo Maternelle 1, Health Promotion, §2.2 |
+| DR Congo — §2.3 Mouth and tooth hygiene — why teeth are cleaned, the brushing gesture after meals, a healthy set of teeth (teacher guide — evidence) (original string `staying-safe/clean-body-clean-home`) | DR Congo Maternelle 1, Health Promotion, §2.3 |
+| DR Congo — §2.4 Clean ears — never putting objects in the ears; gentle regular cleaning by an adult to protect hearing (teacher guide — evidence) (original string `staying-safe/clean-body-clean-home`) | DR Congo Maternelle 1, Health Promotion, §2.4 |
+| DR Congo — §4.4 Handwashing before the meal — the non-negotiable ritual before any food, the barrier gesture against oro-faecal diseases (teacher guide — evidence) (original string `staying-safe/clean-body-clean-home`) | DR Congo Maternelle 1, Health Promotion, §4.4 |
+| DR Congo — §10.4 Rest for health — sleep and rest help the body recover and resist disease; accepting nap and quiet times (teacher guide — evidence) (original string `staying-safe/clean-body-clean-home`) | DR Congo Maternelle 1, Health Promotion, §10.4 |
+
+**Book 16 — Activités de Promotion de la Santé, 2ème Maternelle (teacher guide, French):**
+- Title as printed: Manuel d'Activités de Promotion de la Santé pour la 2ème Année Maternelle en RDC
+- Grade: 2ème année maternelle (age 4) (student/teacher: TEACHER — activity manual written for the educator)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title; unrelated language-course content that follows it on the same web page is a different book and is not part of this record)
+- Verdict: COMPLETE
+- Tally: 36 placements — 0 to existing lessons, 36 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- DR Congo's own way: Year 2 automates the Year 1 gestures (palm, back of hand, between the fingers) and widens the shield — malaria nets and larval sites, Ebola/Covid barrier gestures, toilet autonomy, and the child sent home as a health promoter for local food over imported processed food.
+- Annexes (named, not placed per brief): A.1 food pyramid of local products (support for Ch. 4–5); A.2 illustrated handwashing protocol poster (support for §1.1); A.3 tooth-brushing calendar to take home (support for §1.3); A.4 teacher observation grid for hygiene and health (teacher apparatus).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 16 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §1.1 Correct handwashing with soap — palm, back of hand and between the fingers, before eating, after play and after the toilet (teacher guide — evidence) (original string `staying-safe/clean-body-clean-home`) | DR Congo Maternelle 2, Health Promotion, §1.1 |
+| DR Congo — §1.2 Hair and ear care — clean combed hair against parasites; cleaning the outer ear gently, never putting objects in the ear canal (teacher guide — evidence) (original string `staying-safe/clean-body-clean-home`) | DR Congo Maternelle 2, Health Promotion, §1.2 |
+| DR Congo — §1.3 Tooth brushing and mouth hygiene — the vertical gum-to-tooth movement, rinsing after sweet foods, one's own toothbrush and its care (teacher guide — evidence) (original string `staying-safe/clean-body-clean-home`) | DR Congo Maternelle 2, Health Promotion, §1.3 |
+| DR Congo — §1.4 Clean clothes — telling clean from soiled clothes and protecting one's outfit during dirty activities like painting and meals (teacher guide — evidence) (original string `staying-safe/clean-body-clean-home`) | DR Congo Maternelle 2, Health Promotion, §1.4 |
+| DR Congo — §3.3 Hand hygiene before the meal — the ritual handwash tied to every act of eating (teacher guide — evidence) (original string `staying-safe/clean-body-clean-home`) | DR Congo Maternelle 2, Health Promotion, §3.3 |
+| DR Congo — §8.3 Using the pot and toilets correctly — autonomy and cleanliness in elimination: wiping oneself and leaving the place clean for the next child (teacher guide — evidence) (original string `staying-safe/clean-body-clean-home`) | DR Congo Maternelle 2, Health Promotion, §8.3 |
+| DR Congo — §9.4 Respecting sleep and rest — the body needs sleep to grow and recover; quiet times in class and early bedtime (teacher guide — evidence) (original string `staying-safe/clean-body-clean-home`) | DR Congo Maternelle 2, Health Promotion, §9.4 |
+
+**Book 17 — Activités de Promotion de la Santé, 3ème Maternelle (teacher guide, French):**
+- Title as printed: Manuel d'Activités de Promotion de la Santé pour la 3ème Maternelle
+- Grade: 3ème année maternelle (age 5) (student/teacher: TEACHER — activity manual written for the educator)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 36 placements — 1 to an existing lesson, 35 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- DR Congo's own way: the final kindergarten year makes the child an actor of sanitation — correct latrine use, sorting fresh from spoiled food, covering food against vectors, burn safety around cooking fires, and health widened to sleep, fatigue and emotional well-being.
+- Annexes (named, not placed per brief): Annexe 1 classification table of local foods (support for Ch. 4); Annexe 2 illustrated handwashing protocol (support for §1.1); Annexe 3 individual hygiene follow-up sheet (self-check tool); Annexe 4 first-aid guide for the child — alert, do not touch blood, reassure (support for §8.4).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 17 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §1.1 Correct handwashing — wet, soap, rub palms, backs and between the fingers, rinse; a reflex before meals and after the toilet (teacher guide — evidence) (original string `staying-safe/clean-body-clean-home`) | DR Congo Maternelle 3, Health Promotion, §1.1 |
+| DR Congo — §1.2 Mouth and tooth hygiene — the vertical rotating brushing movement for gums and enamel, after every meal (teacher guide — evidence) (original string `staying-safe/clean-body-clean-home`) | DR Congo Maternelle 3, Health Promotion, §1.2 |
+| DR Congo — §1.3 Hair and ear cleanliness — washing and combing hair against parasites; cleaning the outer ear with a clean cloth, never intrusive objects (teacher guide — evidence) (original string `staying-safe/clean-body-clean-home`) | DR Congo Maternelle 3, Health Promotion, §1.3 |
+| DR Congo — §1.4 Caring for clothes — telling a clean garment from a soiled one needing washing; appearance, self-esteem and social respect (teacher guide — evidence) (original string `staying-safe/clean-body-clean-home`) | DR Congo Maternelle 3, Health Promotion, §1.4 |
+| DR Congo — §2.4 Handwashing before meals — the obligatory step before touching any food, consolidated at canteen and snack (teacher guide — evidence) (original string `staying-safe/clean-body-clean-home`) | DR Congo Maternelle 3, Health Promotion, §2.4 |
+| DR Congo — §3.4 Correct latrine use — hygienic use of pot or toilets, leaving the place clean, handwashing after every use, against faecal-oral disease (teacher guide — evidence) (original string `staying-safe/clean-body-clean-home`) | DR Congo Maternelle 3, Health Promotion, §3.4 |
+| DR Congo — §9.1 Respecting sleep — sleep's repairing role for growth and memory; accepting the nap and regular bedtimes (teacher guide — evidence) (original string `staying-safe/clean-body-clean-home`) | DR Congo Maternelle 3, Health Promotion, §9.1 |
+| DR Congo — §9.3 Managing fatigue and relaxing — recognising tiredness signs and taking calm moments; the balance between intense activity and rest (teacher guide — evidence) (original string `staying-safe/clean-body-clean-home`) | DR Congo Maternelle 3, Health Promotion, §9.3 |
+
+**Book 18 — Éveil Scientifique (ESE), Primaire 1 (student book, French) — combined science/health book: health parts placed here:**
+- Title as printed: Cours et Exercices d'Éveil Scientifique pour la 1ère Année Primaire (ESE)
+- Grade: 1ère année primaire (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 30 placements — 2 to existing lessons, 28 NEW LESSON NEEDED
+- DR Congo's own way: health enters through the science-awakening course — my body, my living place, then prevention: local toilet materials (including the chewing stick), latrines and the rubbish pit, and road safety taught as a six-step crossing reflex.
+- Other subjects named, not placed: Partie 2 Ch. 5 discovering the environment — natural phenomena (rain, wind, storm, rainbow), natural disasters (flood, erosion), elements and importance of the environment (§§5.1–5.4, science); Ch. 6 §§6.1–6.2 human activities — agriculture, livestock, fishing, hunting, crafts and trades (science/social studies).
+- Annexes (named, not placed per brief): Annexe 1 visual handwashing guide in 6 pictures (support for §2.1); Annexe 2 simple classification of local foods (support for §7.1); Annexe 3 pictograms of domestic dangers (support for Ch. 8); Annexe 4 glossary of key terms (inventory-only).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 18 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §1.1 Being in good health — telling a healthy person from a sick one by simple signs (fever, no appetite, pain) and saying how one feels (original string `staying-safe/clean-body-clean-home`) | DR Congo Grade 1 ESE Primaire 1, §1.1 |
+| DR Congo — §1.2 The risks of uncleanliness — dirt and sweat on the skin attract microbes and parasites: itching, bad smells, skin diseases (fungal infections, scabies) (original string `staying-safe/clean-body-clean-home`) | DR Congo Grade 1 ESE Primaire 1, §1.2 |
+| DR Congo — §1.3 The benefits of cleanliness — regular washing removes microbes and sweat; feeling fresh and being pleasant to play with (original string `staying-safe/clean-body-clean-home`) | DR Congo Grade 1 ESE Primaire 1, §1.3 |
+| DR Congo — §1.4 Toilet materials — clean water, soap and a clean towel; personal items like the towel are never shared (original string `staying-safe/clean-body-clean-home`) | DR Congo Grade 1 ESE Primaire 1, §1.4 |
+| DR Congo — §2.1 Why handwashing matters — the first barrier against disease: before eating or touching food, after meals, always after the latrines (original string `staying-safe/clean-body-clean-home`) | DR Congo Grade 1 ESE Primaire 1, §2.1 |
+| DR Congo — §2.2 Mouth hygiene — keeping the mouth clean against caries and bad breath; brushing on waking and after meals, with brush or local chewing stick (original string `staying-safe/clean-body-clean-home`) | DR Congo Grade 1 ESE Primaire 1, §2.2 |
+| DR Congo — §2.3 Caring for the body: bath and shower — a full wash with water and soap at least once a day removes the day's sweat, dust and microbes (original string `staying-safe/clean-body-clean-home`) | DR Congo Grade 1 ESE Primaire 1, §2.3 |
+| DR Congo — §2.4 Hair and nail hygiene — washing hair against lice and itching; nails cut short and clean so dirt and microbes cannot hide and reach the mouth (original string `staying-safe/clean-body-clean-home`) | DR Congo Grade 1 ESE Primaire 1, §2.4 |
+| DR Congo — §3.1 Telling clean from dirty — judging clothes by sight (stains, mud) and smell (sweat) (original string `staying-safe/clean-body-clean-home`) | DR Congo Grade 1 ESE Primaire 1, §3.1 |
+| DR Congo — §3.2 The role of clothes — protection from sun, cold, rain and insect bites; modesty; elegance and self-presentation (original string `staying-safe/clean-body-clean-home`) | DR Congo Grade 1 ESE Primaire 1, §3.2 |
+| DR Congo — §3.3 Dressing for the climate — light pale cotton in Matadi heat, thicker clothes for cold Bukavu mornings and rain (original string `staying-safe/clean-body-clean-home`) | DR Congo Grade 1 ESE Primaire 1, §3.3 |
+| DR Congo — §3.4 Caring for clothes — the wash–rinse–dry cycle, drying in the sun that helps kill microbes; never putting a dirty garment back on (original string `staying-safe/clean-body-clean-home`) | DR Congo Grade 1 ESE Primaire 1, §3.4 |
+| DR Congo — §4.4 Using latrines and urinals — why (privacy, no smells, no fly-borne disease) and how (aim right, leave it clean); the night pot at home (original string `staying-safe/clean-body-clean-home`) | DR Congo Grade 1 ESE Primaire 1, §4.4 |
+
+**Book 19 — Éveil, Santé et Environnement (ESE), Primaire 2 (student book, French) — combined science/health book: health parts placed here:**
+- Title as printed: Manuel d'Éveil, Santé et Environnement (ESE) pour la 2ème Année Primaire en RDC – Édition 2025
+- Grade: 2ème année primaire (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 35 placements — 1 to an existing lesson, 34 NEW LESSON NEEDED
+- DR Congo's own way: Year 2 moves from cleanliness to recognising illness — caries, conjunctivitis, otitis, fungal skin disease, scabies and ringworm, all tied back to uncleanliness — and adds a uniquely Congolese safety lesson: recognising mined areas and explosive remnants of war (do not touch, move away, tell an adult).
+- Other subjects named, not placed: Partie 2 Ch. 5 §5.1 identifying community places — school, church, market, health centre (social studies).
+- Annexes (named, not placed per brief): Annexe 1 visual lexicon of common diseases (support for Ch. 1–2); Annexe 2 pictogram guide to domestic-accident prevention (support for §6.3); Annexe 3 mine/explosive-remnant safety poster — do not touch, move away, tell an adult (support for §5.2); Annexe 4 visual board of foods and conservation (support for Ch. 7–8).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 19 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §3.1 Practising body hygiene — why and how: daily bath, regular hair washing, gentle eye cleaning with clean water, outer ear only, brushing after meals (original string `staying-safe/clean-body-clean-home`) | DR Congo Grade 2 ESE Primaire 2, §3.1 |
+| DR Congo — §3.2 Personal toilet items — toothbrush, bath towel, comb and hand towel are never shared: a major route for ringworm, conjunctivitis and scabies (original string `staying-safe/clean-body-clean-home`) | DR Congo Grade 2 ESE Primaire 2, §3.2 |
+
+**Book 20 — Éducation à la Santé et à l'Environnement (ESE), Primaire 3–4 (student book, French) — covers records "Primaire 3 ESE" and "Primaire 4 ESE":**
+- Title as printed: Manuels d'Éducation Sociale et Environnementale (ESE) pour la 3ème et 4ème Année Primaire (record title); page title: Manuel d'Éducation à la Santé et à l'Environnement (ESE) pour la 4ème Année Primaire – Édition 2025
+- Grade: 3ème et 4ème année primaire (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE. The separate "Primaire 4 ESE" record page carries identical text to this combined 3–4 page (same 280 lines, verified section by section) — one book, two records; placed once here, both editions named.
+- Tally: 36 placements — 0 to existing lessons, 36 NEW LESSON NEEDED
+- DR Congo's own way: the middle-primary course is organised by enemies and shields — skin diseases and their causes, sleep as mental hygiene, disease vectors and their breeding sites (anopheles, tsetse, the bilharzia snail), waste sorted and composted, and vaccination explained as a "trainer" that teaches the body to make its soldier antibodies.
+- Annexes (named, not placed per brief): Annexe 1 illustrated vector fact sheets (support for Ch. 3); Annexe 2 practical school composting guide (support for §4.3); Annexe 3 wall table of the three food groups (support for Ch. 9); Annexe 4 simplified DRC (PEV) vaccination calendar (support for Ch. 8).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 20 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §2.1 Sleep's importance for the schoolchild — sleep organising the day's learning and fixing memory; a child who sleeps well learns better (original string `staying-safe/clean-body-clean-home`) | DR Congo Grades 3–4 ESE Primaire 3–4, §2.1 |
+| DR Congo — §2.2 Rest, and how it differs from sleep — daytime calm recovering from play and effort; breaks like recreation relaxing mind and body (original string `staying-safe/clean-body-clean-home`) | DR Congo Grades 3–4 ESE Primaire 3–4, §2.2 |
+| DR Congo — §2.3 Sleep renewing strength — the night "charger": muscles repaired, brain cleaned, mental and physical force renewed (original string `staying-safe/clean-body-clean-home`) | DR Congo Grades 3–4 ESE Primaire 3–4, §2.3 |
+| DR Congo — §2.4 Consequences of too little sleep — mental fatigue (poor concentration, irritability, sadness) and physical fatigue (heavy muscles, no energy for games and sport) (original string `staying-safe/clean-body-clean-home`) | DR Congo Grades 3–4 ESE Primaire 3–4, §2.4 |
+
+**Book 22 — Éveil (ESE), Primaire 6 (student book, French):**
+- Title as printed: Manuel d'Éveil (ESE) 6ème Année Primaire – Programme RDC, Édition 2025
+- Grade: 6ème année primaire (student/teacher: STUDENT)
+- Publisher: Manuels scolaires RDC (web edition); year 2025; ISBN no ISBN printed
+- PDF pages: none — HTML web edition, complete text on one page (cover/title verified against the record title)
+- Verdict: COMPLETE
+- Tally: 36 placements — 4 to existing lessons, 32 NEW LESSON NEEDED
+- DR Congo's own way: the final primary year is public health — hygienic latrines with the Tippy-Tap handwash device against the "faecal peril", a full first-aid chapter, alcohol and tobacco refused (including traditional lotoko and munkoyo), toxic fishing condemned, and STIs/HIV taught with an absolute stress on prevention and on supporting people living with HIV without stigma.
+- Annexes (named, not placed per brief): Annexe 1 formative evaluation grids (teacher apparatus); Annexe 2 illustrated first-aid fact sheets (support for Ch. 2); Annexe 3 glossary of key terms (inventory-only); Annexe 4 school sanitation project sheets — building a Tippy-Tap, school garden, green space (support for §§1.1, 6.3).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-health-placements.md (Book 22 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| DR Congo — §1.1 Latrines: qualities and importance — slab, pit cover, cleanliness, privacy and a Tippy-Tap handwash point; the first rampart against cholera and typhoid, breaking the faecal transmission cycle (original string `staying-safe/clean-body-clean-home`) | DR Congo Grade 6 ESE Primaire 6, §1.1 |
+| DR Congo — §1.2 Risks of absent or badly used latrines — open defecation contaminating soil and water sources; flies carrying microbes from excrement to food; regular upkeep with ash (original string `staying-safe/clean-body-clean-home`) | DR Congo Grade 6 ESE Primaire 6, §1.2 |
+
+DR Congo is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the student book(s) stocked here are Book(s) 4, 18, 19, 20, 22, so DR Congo is named in the countries line and provenance rows and the acceptance count rises from 15 to 16 countries; the teacher-guide rows, where present, are teacher-guide evidence only, outside the count. The DR Congo placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug, or under its canonical NEW string, are recorded as filed), and the original string is recorded in each provenance row above. DR Congo's own way is content, as the book lines above record it: health teaching built on school hygiene, nutrition taught through Congolese food (cassava, plantain, fumbwa and biteku-teku leaves, fretin, caterpillars and termites as valued protein), food safety and the WHO five keys, water and sanitation, maternal and child health, and workplace safety, with the Salongo community-cleaning tradition named as hygiene practice. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
