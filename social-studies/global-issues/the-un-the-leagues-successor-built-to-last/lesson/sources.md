@@ -1,6 +1,6 @@
 # Sources — The UN — the League's successor, built to last
 
-countries: Ethiopia, Turkmenistan, Venezuela, Samoa, Somalia, Fiji, Bangladesh, Rwanda
+countries: Ethiopia, Turkmenistan, Venezuela, Samoa, Somalia, Fiji, Bangladesh, Rwanda, Papua New Guinea
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -41,7 +41,7 @@ Samoa's own way: Government is taught as Samoa's own Westminster-style parliamen
 
 Fiji's own way (Grade 10): Government is taught from Fiji outward — Fiji's own traditional chiefly government and western-style government first, then Fiji's Parliament as the worked example of parliamentary rule, then the United Nations.
 
-Searchable tags: United Nations, Charter 1945, General Assembly, Security Council, Secretariat, International Court of Justice, Grade 10, Samoa, Somalia, Fiji, Bangladesh, Rwanda
+Searchable tags: United Nations, Charter 1945, General Assembly, Security Council, Secretariat, International Court of Justice, Grade 10, Samoa, Somalia, Fiji, Bangladesh, Rwanda, Papua New Guinea
 
 ## History fix (2026-11-12) — provenance completed
 
@@ -87,3 +87,16 @@ Somalia's own way (Grade 6): by Grade 6 the subject is open political education 
 **Acceptance count: taught in 8 countries (Ethiopia, Turkmenistan, Venezuela, Samoa, Somalia, Fiji, Bangladesh, Rwanda).**
 
 Rwanda's own way (Primary Six — Rwanda P6 SB): P6 civics is nationhood — unity through 'Ndi Umunyarwanda', co-operation through umuganda, the world's organisations and Rwanda's own (REB, NURC), Rwandan values and Itorero, and the three organs with the citizen's duties beside the government's
+
+
+**Book 9:** *Social Science Upper Primary TG, Grades 6–8* (teacher guide, English) — Title as printed: Social Science — Upper Primary Teachers Guide. Grade: Grades 6–8 (student/teacher: TEACHER). Publisher: Department of Education, Papua New Guinea; year 2003; ISBN 9980-930-93-4. Source: https://educationpng.gov.pg/Teachers/prim/upper/teachers-guide-upper-primary-social-science.pdf (links file, older curriculum) — cover/title page verified against the link record; read via the browser text route. STAGED by the retry reader: downloaded from the ministry URL (237,707 B, matching the server's Content-Length), PDF 78 pages, cover and printed ISBN 9980-930-93-4 verified from the file itself; staged at ~/workspace/phase3-staging/grade-06/gov/papua-new-guinea/social-science/teacher/grade-6-8-social-science-upper-primary-teachers-guide.pdf with a books.json record in the grade-06 folder (multi-grade guides sit in the lowest grade's folder, as with the Grade 9–10 Business Studies OBE guide). Earlier waves: none — this older-curriculum (2003, outcomes-based) guide is not among the 8 target books and was not read by the Geography/History/Economics waves. Verdict: COMPLETE (remaining strands: Organisation and Culture elaborations read in full, printed pp. 57–65; Environment and Resources elaborations are Geography, named in the contents map only). Contents map: Geography (Strand: Environment and Resources elaborations, printed pp. 50–56); Integrated SS / Civics (Strand: Organisation elaborations — outcomes 6.2.1–8.2.2, printed pp. 57–60); Culture-in-society (Strand: Culture elaborations — outcomes 6.3.1–8.3.3, printed pp. 63–65); Integrating Projects strand (improving local, provincial/national and global communities) named in the strand overview, printed p. 9. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/papua-new-guinea-placements.md. Teacher guide — evidence only, outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea part 1 — global-issues/the-un-the-leagues-successor-built-to-last — Strand: Organisation, Outcome 7.2.1 recommended knowledge (Grade 7) — teaches: the role of the United Nations — TEACHER — Papua New Guinea Upper Primary Social Science TG (2003), printed p. 57 | Papua New Guinea, *Social Science Upper Primary TG, Grades 6–8* (teacher guide), Strand: Organisation, Outcome 7.2.1 recommended knowledge (Grade 7) — printed p. 57 (teacher guide — evidence) |
+| Papua New Guinea's way — the books' own teaching way | Papua New Guinea — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Turkmenistan, Venezuela, Samoa, Somalia, Fiji, Bangladesh, Rwanda). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+
+Papua New Guinea's own way (teacher guide — evidence) (Social Science Upper Primary TG, Grades 6–8): the 2003 guide teaches the same climb as the Standards Based guides but through outcomes — local groups in Grade 6, PNG's constitutional government and elections in Grade 7, world governments and regional organisations in Grade 8 — with the wantok system, traditional law beside constitutional law, and class elections run by secret ballot with first-past-the-post and preferential counting.
+

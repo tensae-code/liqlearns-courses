@@ -1,6 +1,6 @@
 # Sources — Human Rights
 
-countries: Oman, Bangladesh, Colombia, Guatemala, Iraq, Palestine
+countries: Oman, Bangladesh, Colombia, Guatemala, Iraq, Palestine, Papua New Guinea
 
 **Book 1:** *Identity and Citizenship Grade 3, Term 2* (teacher guide, Arabic) — Title as printed: دليل المعلم لمادة الهوية والمواطنة — Teacher's Guide for the Subject Identity and Citizenship. Grade: Grade 3 (student/teacher: TEACHER), Term 2. Publisher: Ministry of Education, Sultanate of Oman; experimental edition (same series); no ISBN printed. PDF pages: 60 (15,415,504 bytes — exactly the ministry server's Content-Range total; ministry TeacherBook PDF service, after the afedne landing page for this record returned HTTP 520. Cover verified: الصف الثالث، الفصل الدراسي الثاني. STAGED under the new rule at phase3-staging/grade-03/gov/oman/identity-and-citizenship/teacher/term-2.pdf with a books.json record). Earlier waves: none. Verdict: COMPLETE — contents and standards read; the two units' lessons placed below, marked TEACHER. Contents map: Unit 4 أنا مواطن مسؤول (I Am a Responsible Citizen) printed p. 24 — lessons: حقوقي في وطني (My rights in my homeland), واجباتي تجاه وطني (My duties toward my homeland), وطني أمانة (My homeland is a trust); Unit 5 أنا مواطن عالمي (I Am a Global Citizen) printed p. 39 — lessons: نحن متساوون (We are equal), لنعش بأمان (Let us live in safety), صوتنا مسموع (Our voice is heard). The term's two standards are both "knowing rights and duties and committing to them" — in the homeland, then in the world. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/oman-placements.md. Teacher guide — evidence only, outside the acceptance count. Oman's student books were not held — its placements are based on teacher guides.
 
@@ -30,7 +30,7 @@ Registry note: the original coined string `culture-and-work/human-rights-rights-
 
 Country honesty note: Oman's student books were not held — its placements are based on teacher guides, and the G7 Term-2 content is a named GAP (the Grade 7 framework assigns the Basic Statute of the State and government institutions to Grade 7, no Term 1 unit teaches them, and the Term 2 book was not reached, as filed in the oman-placements.md record-only section); all Oman placements in this lesson are evidence only, outside acceptance counts.
 
-Searchable tags: human rights, Oman, social studies, culture-and-work, Bangladesh, Palestine
+Searchable tags: human rights, Oman, Papua New Guinea, social studies, culture-and-work, Bangladesh, Palestine
 
 Registry note: the original coined string `culture-and-work/human-rights-born-with-us` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/human-rights`.
 
@@ -92,3 +92,16 @@ Registry note: the original coined string `culture-and-work/human-rights-what-th
 Palestine's own way (Grade 6 Social Studies Part 1): the constitution is taught from Palestine's own draft Basic Law — pupils extract legal rules from its actual articles (the people as source of the authorities, a democratic parliamentary system, equality before the law) before they are given the definition, and the three authorities are each named by the Palestinian institution that holds them.
 
 Registry note: the original coined string `culture-and-work/human-rights-what-they-are` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/human-rights`.
+
+
+**Book 9:** *Social Science TG Grade 10* (teacher guide, English) — Title as printed: Social Science Teacher Guide — Grade 10, Secondary, Standards Based. Grade: Grade 10 (student/teacher: TEACHER). Publisher: Department of Education, Papua New Guinea; year 2020; ISBN 978-9980-905-94-9. PDF pages: 338 (cover/title page verified against the record title; fetched from GitHub via the curl Releases API route, mid-size-books-8 asset — 7,699,759 B, matching the record/download list exactly). Earlier waves: Geography wave placed Strand 1; History wave placed Strand 2 History; Economics wave placed Strand 4 Economics. Strand 3 Political Science was named by all three waves and still owing — read and placed here by the retry reader (the first pass left this book UNREAD: grab.py unavailable with the shell network down and the ministry-URL browser fetch timed out once on the 338 pp / ~7.7 MB file). Verdict: COMPLETE. Contents map: Geography pp. 44–92 (Strand 1); History pp. 93–151 (Strand 2); Civics/Citizenship/Government pp. 152–195 (Strand 3 Political Science); Economics pp. 196–249 (Strand 4); Geography/Environment pp. 250–287 (Strand 5 Environment). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/papua-new-guinea-placements.md. Teacher guide — evidence only, outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea part 1 — culture-and-work/human-rights — Strand 3 Unit 4 Civic and Citizenship, Topics 1–2: Policies and laws on human rights; PNG's Constitution on Human Rights — teaches: what human rights are; Papua New Guinea's policies and laws on human rights, including the rights spelt out in the PNG Constitution and the international treaties PNG is party to, studied through case studies — TEACHER — Papua New Guinea Grade 10 Social Science TG, printed p. 184 [original coined string: culture-and-work/human-rights-in-papua-new-guinea] | Papua New Guinea, *Social Science TG Grade 10* (teacher guide), Strand 3 Unit 4 Civic and Citizenship, Topics 1–2: Policies and laws on human rights; PNG's Constitution on Human Rights — printed p. 184 (teacher guide — evidence) |
+| Papua New Guinea's way — the books' own teaching way | Papua New Guinea — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 5 countries (Bangladesh, Colombia, Guatemala, Iraq, Palestine).. Oman is named here as teacher-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+
+Papua New Guinea's own way (teacher guide — evidence) (Social Science TG Grade 10): Grade 10 deepens Grade 9's civics into the machinery of the state — the Constitution as the legal basis of government (Section 99's three arms), separation and balance of powers, what parliamentarians actually do, PNG's three levels of government and decentralisation — and ends with a full human-rights unit: PNG's rights laws, the Constitution's rights, enforcing the rights of women, people with disability and marginalised groups, and children's rights under the Lukautim Pikinini Act.
+

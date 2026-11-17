@@ -1,0 +1,16 @@
+# Sources — Democracy Rights and Clean Government
+
+countries: Papua New Guinea
+
+**Book 1:** *Social Science Lower Secondary TG, Grades 9–10* (teacher guide, English) — Title as printed: Social Science — Lower Secondary Teacher Guide. Grade: Grades 9–10 (student/teacher: TEACHER). Publisher: Department of Education, Papua New Guinea; year 2006; ISBN 9980-935-92-8. Source: https://educationpng.gov.pg/Teachers/secondary/lower/teachers-guide-lower-secondary-social-science.pdf (links file, older curriculum) — cover/title page verified against the link record; read via the browser text route. STAGED by the retry reader: downloaded from the ministry URL (828,505 B), PDF 102 pages, cover and printed ISBN 9980-935-92-8 verified from the file itself; staged at ~/workspace/phase3-staging/grade-09/gov/papua-new-guinea/social-science/teacher/grade-9-10-social-science-lower-secondary-teachers-guide.pdf with a books.json record in the grade-09 folder. Earlier waves: none — this older-curriculum (2006, outcomes-based) guide is not among the 8 target books and was not read by the Geography/History/Economics waves. Verdict: COMPLETE (remaining strands read: Unit 9.4 Civics and Citizenship, printed pp. 52–55, and Unit 10.3 Papua New Guinea and the Global Community, printed pp. 76–79; the guide's other units — Pacific places and environments, histories, resources and development — are Geography/History/Economics, named in the contents map only). Contents map: Geography/History/Economics units 9.1–9.3, 10.1–10.2 (printed pp. 33–75, named only); Integrated SS / Civics pp. 52–55 (Unit 9.4 Civics and Citizenship); Global citizenship / Conflict pp. 76–79 (Unit 10.3 Papua New Guinea and the Global Community). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/papua-new-guinea-placements.md. Teacher guide — evidence only, outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — culture-and-work/democracy-rights-and-clean-government — Unit 9.4 Civics and Citizenship, Outcome 9.4.2 — teaches: the political and legal structures and systems of Papua New Guinea — the origins, forms and elements of democracy; ethics; civic rights and responsibilities; and the effects of corruption, nepotism and power relationships — TEACHER — Papua New Guinea Lower Secondary Social Science TG (2006), printed p. 52 | Papua New Guinea, *Social Science Lower Secondary TG, Grades 9–10* (teacher guide), Unit 9.4 Civics and Citizenship, Outcome 9.4.2 — printed p. 52 (teacher guide — evidence) |
+| Sub lesson 2 — Papua New Guinea's way — the books' own teaching way | Papua New Guinea — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Papua New Guinea), named here, counted nowhere.**
+
+Papua New Guinea's own way (teacher guide — evidence) (Social Science Lower Secondary TG, Grades 9–10): the old lower-secondary course makes citizens by doing — a mock campaign and election counted by limited preferential voting (LPV), a mock parliament debate, and a hard look at corruption and nepotism — then turns outward to PNG's place in the global community and how conflicts, including Bougainville, are resolved.
+
+Searchable tags: democracy rights and clean government, Papua New Guinea, social studies, culture-and-work

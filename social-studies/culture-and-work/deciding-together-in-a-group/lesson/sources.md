@@ -1,6 +1,6 @@
 # Sources — Deciding Together in a Group
 
-countries: Samoa, Ecuador, Turkey, North Macedonia
+countries: Samoa, Ecuador, Turkey, North Macedonia, Papua New Guinea
 
 **Book 1:** *Social Studies — Year 9 Book One* (student book, English) — Title as printed: Social Studies — Year 9 Book One. Grade: Year 9 (student/teacher: STUDENT). Publisher: Ministry of Education, Sports and Culture, Samoa; year 2004 (reprint of 2001); ISBN 982-517-008-5. PDF pages: 84 (cover/title page verified against the record title; MESC copy, size 12,715,801 B per download list). Read from the MESC ministry source URL recorded in the books.json record — the same MESC PDF the Geography wave verified byte-for-byte against the record and already secured in GitHub (in_pushed: true) — via the browser text route, cover/title page and ISBN checked against the record before reading; no file staged — the book is already in GitHub, as filed in samoa-placements.md. Earlier waves: Geography wave placed Units 1–3 (resources/economic activities, printed pp. 5–56); History wave placed two history story-parts inside Unit 4 Topic 4 "Tonga" (settlement, Tupou I) and Unit 3 heritage activities; Economics wave placed Units 1–3. Unit 4's groups/village-organisation/kautaha/Tonga-political-system teaching was named "Civics, not placed" by both Geography and History waves — read and placed here. Verdict: COMPLETE. Contents map: Integrated SS pp. 57–83 (Unit 4 Being Part of a Group); Civics/Citizenship/Government pp. 75–83 (Topic 6 The Political System of Tonga); Geography pp. 5–26; History pp. 71–72 (inside Topic 4); Economics pp. 27–56. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/samoa-placements.md.
 
@@ -31,7 +31,7 @@ Ecuador's own way (Estudios Sociales 5to EGB): the Grade 5 book ends its history
 
 Registry note: the original coined string `culture-and-work/class-assembly-deciding-and-voting-together` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/deciding-together-in-a-group`.
 
-Searchable tags: deciding together in a group, Samoa, social studies, culture-and-work, Ecuador, Turkey
+Searchable tags: deciding together in a group, Samoa, Papua New Guinea, social studies, culture-and-work, Ecuador, Turkey
 
 Registry note: the original coined string `culture-and-work/deciding-together-in-class` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/deciding-together-in-a-group`.
 
@@ -56,3 +56,16 @@ North Macedonia's own way (Book 1): Society in Grade 2 is the child in three wid
 North Macedonia's own way (Book 2): Grade 3 turns the Grade 2 classroom democracy into explicit civics — children's right to education, the state as education's provider, and group decision-making taught as a process with rules, ending in the difference between a majority decision and a consensus; Theme 3's love of country is carried by the country's own lakes, mountains and the Vardar, then by what a child can contribute and the languages of its classrooms.
 
 Registry note: the original coined string `culture-and-work/deciding-together-majority-and-consensus` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/deciding-together-in-a-group`.
+
+
+**Book 5:** *Social Science TG Grade 5* (teacher guide, English) — Title as printed: Social Science Teacher Guide — Primary Grade 5, Standards Based. Grade: Grade 5 (student/teacher: TEACHER). Publisher: Department of Education, Papua New Guinea; year 2017; ISBN 978-9980-86-565-6. PDF pages: 90 (cover/title page verified against the record title and ISBN; ministry copy, 1,729,673 B / 90 pp per download list). Earlier waves: Geography wave placed Strand 4 Environment and Resources; History wave placed Strand 5 Events and Stories of the Past (significant historical events of province and nation); Economics wave placed Strand 2 Trade (pp. 35–50). Strands 1 and 3 were named "Civics / Culture, not placed" by all three waves — read and placed here. Verdict: COMPLETE. Contents map: Integrated SS / Civics pp. 23–34 (Strand 1 Community and Organization); Morals/Values pp. 25–28 (inside Strand 1 Unit 2); Culture-in-society pp. 51–58 (Strand 3 Culture and Society); Economics pp. 35–50; Geography pp. 59–66; History pp. 67–70. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/papua-new-guinea-placements.md. Teacher guide — evidence only, outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea part 1 — culture-and-work/deciding-together-in-a-group — Strand 1 Unit 3 Rules, Roles and Responsibilities, Topic: Making decisions (Lessons 31–44) — teaches: who makes decisions — in a friends group, the family, clans and tribes, the class and school, the church and a company; the Chief decides; the work of village peace officers; people who make decisions in a village court; and the Local Level Government (LLG) — TEACHER — Papua New Guinea Grade 5 Social Science TG, printed p. 29 [original coined string: culture-and-work/how-groups-make-decisions] | Papua New Guinea, *Social Science TG Grade 5* (teacher guide), Strand 1 Unit 3 Rules, Roles and Responsibilities, Topic: Making decisions (Lessons 31–44) — printed p. 29 (teacher guide — evidence) |
+| Papua New Guinea's way — the books' own teaching way | Papua New Guinea — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 4 countries (Samoa, Ecuador, Turkey, North Macedonia). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+
+Papua New Guinea's own way (teacher guide — evidence) (Social Science TG Grade 5): Grade 5 turns from the community's workers to its decisions — who decides in the family, the clan, the village court and the Local Level Government — and to the many societies of PNG, matrilineal and patrilineal, highlands and coast.
+

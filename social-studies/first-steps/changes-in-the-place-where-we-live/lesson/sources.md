@@ -1,6 +1,6 @@
 # Sources — Changes in the Place Where We Live
 
-countries: South Sudan, Eritrea, Oman
+countries: South Sudan, Eritrea, Oman, Papua New Guinea
 
 **Book 1:** *Primary Social Studies 2 Pupil's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Primary Social Studies 2 Pupil's Book. Grade: Primary 2 / Grade 2 (student/teacher: STUDENT). PDF pages: 83 (cover/title page verified against the record title). Image-only PDF: read via 100-DPI 4-up contact sheets; the full printed table of contents (printed pp. 1–77) was read and the Geography units spot-checked on the sheets.. Verdict: COMPLETE (combined Social Studies book — Geography parts placed; other-subject parts named here, not placed). Other subjects in this book (named, not placed): Unit 1's objects and events of long ago (History), printed pp. 12–16; Unit 4 Our Community — community groups, origin of a community, rituals and ceremonies (Civics/culture), printed pp. 55–67; Unit 5 Time to Decide — choices and decision making (life skills), printed pp. 68–77. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
 
@@ -27,8 +27,21 @@ South Sudan's own way (South Sudan Grade 2 P2 Social Studies TG) (teacher guide 
 
 Eritrea's own way (ER G4 Social Studies): the primary book builds the whole idea of community from the child's own neighbourhood — what a community is, how one forms around a factory or a railway, how Eritrea's nine peoples live together in one, what the local administration does for it, how village and town feed each other, and how a village changes — Dehab's village, ten kilometres from Asmara, is the running example.
 
-Searchable tags: changes in the place where we live, South Sudan, Eritrea, social studies, first-steps, Oman
+Searchable tags: changes in the place where we live, South Sudan, Eritrea, Papua New Guinea, social studies, first-steps, Oman
 
 Oman's own way (Identity and Citizenship Grade 1, Term 1) (teacher guide — evidence): citizenship is its own school subject from age six, built as widening circles — the child first names herself, her feelings and her family, and only then her neighbourhood; the state prints its map and anthem at the front of the teacher's guide, and the fourth unit-component is always participation, not obedience. That evidence is stocked here as the way Oman teaches this thing; it does not change the acceptance count above.
 
 Country honesty note: Oman's student books were not held — its placements are based on teacher guides, and the G7 Term-2 content is a named GAP (the Grade 7 framework assigns the Basic Statute of the State and government institutions to Grade 7, no Term 1 unit teaches them, and the Term 2 book was not reached, as filed in the oman-placements.md record-only section); all Oman placements in this lesson are evidence only, outside acceptance counts.
+
+
+**Book 5:** *Social Science TG Grade 3* (teacher guide, English) — Title as printed: Social Science Teacher Guide — Primary Grade 3, Standards Based. Grade: Grade 3 (student/teacher: TEACHER). Publisher: Department of Education, Papua New Guinea; year 2017; ISBN 978-9980-86-563-2. PDF pages: 89 (cover/title page verified against the record title; fetched from GitHub via the curl Contents API route — 1,584,867 B, matching the record/download list exactly, blob SHA verified). Earlier waves: Geography wave placed Strand 4 Environment and Resources; Economics wave placed Strand 2 Trade; History wave placed ONLY the traditional-legends lessons (Lessons 116–119, Beliefs and Values) of Strand 3. Strands 1 and the rest of Strand 3 were named by all three waves and still owing — read and placed here by the retry reader (the first pass left this book UNREAD: grab.py failed with the shell network down and the ministry-URL browser fetch failed once with a network/DNS error). Verdict: COMPLETE. Contents map: Integrated SS / Civics pp. 22–35 (Strand 1 Community and Organization); Morals/Values pp. 27–31 and 52–55 (inside Strand 1 Unit 2 and Strand 3 Unit 2); Culture-in-society pp. 48–55 (Strand 3 Culture and Society); Economics pp. 36–47 (Strand 2 Trade); Geography pp. 56–67 (Strand 4 Environment and Resources); History pp. 68–70 (Strand 5 History and Origins, plus the Strand 3 legends lessons placed by the History wave). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/papua-new-guinea-placements.md. Teacher guide — evidence only, outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea part 1 — first-steps/changes-in-the-place-where-we-live — Strand 1 Unit 1 People and Groups, Topic: Changes in the community – people and community (Lessons 1–15) — teaches: what a community is and what makes one up; the people and groups in the local community; and how families and communities change — causes of change and good and bad changes — TEACHER — Papua New Guinea Grade 3 Social Science TG, printed p. 23 | Papua New Guinea, *Social Science TG Grade 3* (teacher guide), Strand 1 Unit 1 People and Groups, Topic: Changes in the community – people and community (Lessons 1–15) — printed p. 23 (teacher guide — evidence) |
+| Papua New Guinea's way — the books' own teaching way | Papua New Guinea — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 2 countries (South Sudan, Eritrea). Oman is named here as teacher-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+
+Papua New Guinea's own way (teacher guide — evidence) (Social Science TG Grade 3): the youngest primary guide starts civics at home scale — what a community is and how it changes, how people relate in families, school and church, and rules in different places including safety rules for travel by vehicle and canoe — beside a culture strand taught by doing: singing and dancing, fishing and hunting, ceremonies for birth and death, food taboos and sacred places.
+

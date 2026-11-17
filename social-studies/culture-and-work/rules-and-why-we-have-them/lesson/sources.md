@@ -1,6 +1,6 @@
 # Sources — Rules and Why We Have Them
 
-countries: Venezuela, Bangladesh
+countries: Venezuela, Bangladesh, Papua New Guinea
 
 **Book 1:** *¡Viva Venezuela! Ciencias Sociales 3er Grado* (student book, Spanish) — Title as printed: ¡Viva Venezuela! Ciencias Sociales 3er Grado. Grade: Grade 3 (student/teacher: STUDENT). Publisher: Ministerio del Poder Popular para la Educación / Colección Bicentenario; year 2014 (fourth edition, April 2014); ISBN 978-980-218-299-2. PDF pages: 91 (printed pages run to 176 in spreads; cover verified — "VIVA VENEZUELA Ciencias Sociales 3er GRADO"; 12,625,039 bytes via the book's recorded Google Drive source, pdfinfo-verified, matching the earlier waves' verified copy). Earlier waves: Geography wave placed pp. 22–170 geography parts; History wave placed pp. 12, 18, 38, 56–168 history parts (incl. ¿Quiénes somos? p. 60 and Tenemos patria p. 62 in their history angles, and Novedades de la igualdad ante la ley p. 110 in its women's-history angle — those lessons are ALREADY PLACED and not re-placed here); Economics wave placed p. 18 (Simón Rodríguez) and the work lesson p. 74. Verdict: COMPLETE. Contents map: Integrated SS pp. 8–54 (school, rules, family, community); Civics/Citizenship pp. 20, 50–54, 110; Morals/Values pp. 10, 36, 108; Geography pp. 22–48, 66–68, 114–170; History pp. 56–102; Economics pp. 18, 74; Health p. 42 (¡Buen provecho! — food, named not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/venezuela-placements.md.
 
@@ -24,6 +24,19 @@ Venezuela's own way (Venezuela Grade 3 G3 CS Viva Venezuela): coexistence is the
 
 Registry note: the original coined string `culture-and-work/rules-help-us-live-together` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/rules-and-why-we-have-them`.
 
-Searchable tags: rules and why we have them, Venezuela, social studies, culture-and-work, Bangladesh
+Searchable tags: rules and why we have them, Venezuela, Papua New Guinea, social studies, culture-and-work, Bangladesh
 
 Registry note: the original coined string `culture-and-work/rules-why-society-needs-them` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/rules-and-why-we-have-them`.
+
+
+**Book 3:** *Social Science TG Grade 3* (teacher guide, English) — Title as printed: Social Science Teacher Guide — Primary Grade 3, Standards Based. Grade: Grade 3 (student/teacher: TEACHER). Publisher: Department of Education, Papua New Guinea; year 2017; ISBN 978-9980-86-563-2. PDF pages: 89 (cover/title page verified against the record title; fetched from GitHub via the curl Contents API route — 1,584,867 B, matching the record/download list exactly, blob SHA verified). Earlier waves: Geography wave placed Strand 4 Environment and Resources; Economics wave placed Strand 2 Trade; History wave placed ONLY the traditional-legends lessons (Lessons 116–119, Beliefs and Values) of Strand 3. Strands 1 and the rest of Strand 3 were named by all three waves and still owing — read and placed here by the retry reader (the first pass left this book UNREAD: grab.py failed with the shell network down and the ministry-URL browser fetch failed once with a network/DNS error). Verdict: COMPLETE. Contents map: Integrated SS / Civics pp. 22–35 (Strand 1 Community and Organization); Morals/Values pp. 27–31 and 52–55 (inside Strand 1 Unit 2 and Strand 3 Unit 2); Culture-in-society pp. 48–55 (Strand 3 Culture and Society); Economics pp. 36–47 (Strand 2 Trade); Geography pp. 56–67 (Strand 4 Environment and Resources); History pp. 68–70 (Strand 5 History and Origins, plus the Strand 3 legends lessons placed by the History wave). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/papua-new-guinea-placements.md. Teacher guide — evidence only, outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea part 1 — culture-and-work/rules-and-why-we-have-them — Strand 1 Unit 3 Rules, Roles and Responsibilities, Topic: Rules in different places (Lessons 31–45) — teaches: what rules are and why we have them; who makes rules (parents, head teacher and Board of Governors, community leaders); rules at home, school and church; the consequences of breaking rules; and safety rules at school, at home, on vehicles and at sea — TEACHER — Papua New Guinea Grade 3 Social Science TG, printed p. 32 [original coined string: culture-and-work/rules-in-different-places-and-why-we-have-them] | Papua New Guinea, *Social Science TG Grade 3* (teacher guide), Strand 1 Unit 3 Rules, Roles and Responsibilities, Topic: Rules in different places (Lessons 31–45) — printed p. 32 (teacher guide — evidence) |
+| Papua New Guinea's way — the books' own teaching way | Papua New Guinea — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 2 countries (Venezuela, Bangladesh). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+
+Papua New Guinea's own way (teacher guide — evidence) (Social Science TG Grade 3): the youngest primary guide starts civics at home scale — what a community is and how it changes, how people relate in families, school and church, and rules in different places including safety rules for travel by vehicle and canoe — beside a culture strand taught by doing: singing and dancing, fishing and hunting, ceremonies for birth and death, food taboos and sacred places.
+

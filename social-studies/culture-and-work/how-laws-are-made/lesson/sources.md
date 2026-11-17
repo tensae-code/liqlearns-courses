@@ -1,6 +1,6 @@
 # Sources — How Laws Are Made
 
-countries: Samoa, Mexico, Bangladesh, Morocco, Guatemala, United States
+countries: Samoa, Mexico, Bangladesh, Morocco, Guatemala, United States, Papua New Guinea
 
 **Book 1:** *Social Studies — Year 10 Book One* (student book, English) — Title as printed: Social Studies — Year 10 Book One. Grade: Year 10 (student/teacher: STUDENT). Publisher: Government of Samoa, Department of Education; year 2001; ISBN 982-517-009-3. PDF pages: 100 (cover/title page verified against the record title; MESC copy, size 2,049,510 B per download list). Read from the MESC ministry source URL recorded in the books.json record — the same MESC PDF the Geography wave verified byte-for-byte against the record and already secured in GitHub (in_pushed: true) — via the browser text route, cover/title page and ISBN checked against the record before reading; no file staged — the book is already in GitHub, as filed in samoa-placements.md. Earlier waves: Geography wave placed Unit 3–4 skills (graphs, census, pp. 59–98) and named Units 1–2 "Civics, not placed"; History wave placed Unit 1 Topic 1's development narrative, Unit 2's historical case studies, the rights-documents chain, the UDHR and the Mau timeline (pp. 5–6, 10, 25–48) and named the present-day civics parts not placed (voting/law-making pp. 8–18, Japan pp. 19–22, UN/Amnesty/protest pp. 33–45, 48–58); Economics wave placed the census/graph skills only. The civics teaching named by both waves was read and placed here. Verdict: COMPLETE. Contents map: Civics/Citizenship/Government pp. 5–58 (Unit 1 Government; Unit 2 Human Rights); Geography/Skills pp. 59–98 (Units 3–4, placed by Geography wave). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/samoa-placements.md.
 
@@ -30,7 +30,7 @@ Samoa's own way: Government is taught as Samoa's own Westminster-style parliamen
 
 Registry note: the original coined string `culture-and-work/how-laws-are-made-in-samoa` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/how-laws-are-made`.
 
-Searchable tags: how laws are made, Samoa, social studies, culture-and-work, Mexico, Bangladesh, United States
+Searchable tags: how laws are made, Samoa, Papua New Guinea, social studies, culture-and-work, Mexico, Bangladesh, United States
 
 Registry note: the original coined string `culture-and-work/how-a-law-is-made` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/how-laws-are-made`.
 
@@ -75,3 +75,16 @@ United States placements — Social Studies remaining strands (2026-11-17):
 United States' own way (Grade 13 American Government 3e): the United States teaches its own government as one complete system in one book — the Constitution is not a topic but the frame: every institution (Congress, presidency, courts, states, counties, cities, the civil service) is derived from it in turn, and rights are taught as the courts have interpreted them, case by case.
 
 Registry note: the original coined string `culture-and-work/the-legislative-process` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/how-laws-are-made`.
+
+
+**Book 7:** *Social Science Lower Secondary TG, Grades 9–10* (teacher guide, English) — Title as printed: Social Science — Lower Secondary Teacher Guide. Grade: Grades 9–10 (student/teacher: TEACHER). Publisher: Department of Education, Papua New Guinea; year 2006; ISBN 9980-935-92-8. Source: https://educationpng.gov.pg/Teachers/secondary/lower/teachers-guide-lower-secondary-social-science.pdf (links file, older curriculum) — cover/title page verified against the link record; read via the browser text route. STAGED by the retry reader: downloaded from the ministry URL (828,505 B), PDF 102 pages, cover and printed ISBN 9980-935-92-8 verified from the file itself; staged at ~/workspace/phase3-staging/grade-09/gov/papua-new-guinea/social-science/teacher/grade-9-10-social-science-lower-secondary-teachers-guide.pdf with a books.json record in the grade-09 folder. Earlier waves: none — this older-curriculum (2006, outcomes-based) guide is not among the 8 target books and was not read by the Geography/History/Economics waves. Verdict: COMPLETE (remaining strands read: Unit 9.4 Civics and Citizenship, printed pp. 52–55, and Unit 10.3 Papua New Guinea and the Global Community, printed pp. 76–79; the guide's other units — Pacific places and environments, histories, resources and development — are Geography/History/Economics, named in the contents map only). Contents map: Geography/History/Economics units 9.1–9.3, 10.1–10.2 (printed pp. 33–75, named only); Integrated SS / Civics pp. 52–55 (Unit 9.4 Civics and Citizenship); Global citizenship / Conflict pp. 76–79 (Unit 10.3 Papua New Guinea and the Global Community). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/papua-new-guinea-placements.md. Teacher guide — evidence only, outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea part 1 — culture-and-work/how-laws-are-made — Unit 9.4 Civics and Citizenship, Assessment Task 1 Choice 2 — teaches: how parliament works — students organise a mock parliament and hold a debate on an issue, explaining the processes and procedures of parliament — TEACHER — Papua New Guinea Lower Secondary Social Science TG (2006), printed p. 53 [original coined string: culture-and-work/how-laws-are-made-in-samoa] | Papua New Guinea, *Social Science Lower Secondary TG, Grades 9–10* (teacher guide), Unit 9.4 Civics and Citizenship, Assessment Task 1 Choice 2 — printed p. 53 (teacher guide — evidence) |
+| Papua New Guinea's way — the books' own teaching way | Papua New Guinea — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 6 countries (Samoa, Mexico, Bangladesh, Morocco, Guatemala, United States). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+
+Papua New Guinea's own way (teacher guide — evidence) (Social Science Lower Secondary TG, Grades 9–10): the old lower-secondary course makes citizens by doing — a mock campaign and election counted by limited preferential voting (LPV), a mock parliament debate, and a hard look at corruption and nepotism — then turns outward to PNG's place in the global community and how conflicts, including Bougainville, are resolved.
+
