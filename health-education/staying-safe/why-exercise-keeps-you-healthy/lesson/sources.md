@@ -1,8 +1,8 @@
 # Sources — Why Exercise Keeps You Healthy
 
-countries: Haiti, Rwanda, Oman, Samoa
+countries: Haiti, Rwanda, Oman, Samoa, Honduras
 
-**Acceptance count: taught in 0 countries.** Haiti and Rwanda are filed as teacher-programme / teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Oman is likewise filed as teacher-guide evidence only, outside the acceptance count.
+**Acceptance count: taught in 1 country.** Haiti and Rwanda are filed as teacher-programme / teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. Oman is likewise filed as teacher-guide evidence only, outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count — the first pupil's book in hand for this lesson.
 
 **Book 3 (Haiti placements file) — Programme-Cadre de toutes les Matières, Nouveau Secondaire NS1–NS4 (teacher framework programme, French) — Health parts:**
 - Title as printed: Programme-Cadre de toutes les Matières — Nouveau Secondaire (MENFP/DES)
@@ -78,4 +78,23 @@ Oman is added as teacher-guide evidence only (see its book line and rows above),
 
 Samoa is added as curriculum-statement / teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — both Samoa books are TEACHER books (Book 1 a curriculum statement for teachers, Book 2 a teacher guide), so Samoa is named in the countries line and provenance row(s) but the acceptance count is unchanged (still taught in 0 countries). The Samoa placement was filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson `staying-safe/why-exercise-keeps-you-healthy` by registry Part 2B (HELD description: "Fitness concepts and keeping fit for life, Year 11 Unit 1C"), and the original string is recorded in the provenance row above. Samoa's own way is content, as the book line(s) above record it: fitness is taught as total fitness — physical, mental, emotional and social readiness — kept for life against Samoa's own pressures, including tapuaiga and poor time management.
 
-Searchable tags: why exercise keeps you healthy, physical activity improves health, conference-debates, cooperation and communication for health, Theme 1, Haiti Programme-Cadre NS Grades 10-13, MENFP, walking fast and running or jogging for health and well-being, brisk walking and jogging as health exercise, basic exercises of the circulatory and respiratory systems, exercises that work the heart and lungs, Rwanda Grade 3 PES Teacher Guide, Rwanda Grade 5 PE Teacher Guide MK Publishers, REB Rwanda, physical activity النشاط البدني, sport and health الرياضة والصحة, Oman G3 Teacher Guide, fitness concepts total fitness keep-fit programme log tapuaiga peer pressure, Samoa Years 11–12 TG
+## Honduras — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/honduras-health-placements.md. The Honduras book stocked in this lesson is Book 4. Honduras is student-book stock, inside the acceptance count, in this lesson. Book R of the placements file (LM-ESP1-2021.pdf) is RECORD-ONLY — REJECTED for Honduras: the mirror's whole 2021 series is MEXICO (a Spanish-language book, LM-ESP1), not a Honduran book and not a Health book, with 0 placements; nothing is stocked from it. One Honduras placement was NOT stocked in this course because the Health slug registry resolves it to a PE-course lesson: Book 4 (HN G9 student), Bloque II Secuencia 1, printed p. 61 — basic nutrition rules for exercise — resolves to PE canonical `fitness-and-stretching/sports-nutrition-and-hydration`; it is excluded here, and a git grep on origin/main confirms it is NOT yet stocked in the PE course (the PE lesson exists but carries no Honduras rows) — it belongs to a PE fix-up.
+
+**Book — Honduras Grade 9 (student book):**
+## Book 4 — HN G9 student, Telebásica (student book, Spanish)
+- Title as printed: Libro del Estudiante — Educación Física, 9no Grado (cover banner: "Versión no validada")
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Secretaría de Educación de Honduras / TELEBÁSICA; no ISBN printed in the front matter read
+- PDF pages: 153 (cover verified against the record; staged under the push-don't-delete rule, see the group log)
+- Verdict: COMPLETE
+- Tally: 8 placements — 4 to existing lessons, 4 NEW LESSON NEEDED (3 HELD, 1 fair-play)
+- Honduras's own way: health teaching peaks in this book — exercise benefits and risks, food and hydration rules, and a group-poster study of the four harmful habits (sedentarism, smoking, alcoholism, bad eating habits); Olympic values close the sport block.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras — Bloque II Secuencia 1 "Mi condición física es la mejor" — the beneficial effects of systematic exercise, physiological (strength, joints protected, less fatigue) and psychological/social (fitness-concept material that fits neither Health title) (original string `staying-safe/HELD-title-decision`) | Honduras Grade 9 HN G9 student, printed p. 59 |
+
+Honduras is added as student-book stock (see its book line and row above), inside the acceptance count — Book 4 is a STUDENT book, so Honduras is named in the countries line and provenance row and the acceptance count rises from 0 to 1 country. The Honduras placement was filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson `staying-safe/why-exercise-keeps-you-healthy` by registry Part 2B, and the original string is recorded in the provenance row above.
+Searchable tags: why exercise keeps you healthy, physical activity improves health, conference-debates, cooperation and communication for health, Theme 1, Haiti Programme-Cadre NS Grades 10-13, MENFP, walking fast and running or jogging for health and well-being, brisk walking and jogging as health exercise, basic exercises of the circulatory and respiratory systems, exercises that work the heart and lungs, Rwanda Grade 3 PES Teacher Guide, Rwanda Grade 5 PE Teacher Guide MK Publishers, REB Rwanda, physical activity النشاط البدني, sport and health الرياضة والصحة, Oman G3 Teacher Guide, fitness concepts total fitness keep-fit programme log tapuaiga peer pressure, Samoa Years 11–12 TG, Mi condición física es la mejor, beneficial effects of systematic exercise physiological psychological social, Honduras Telebásica Grade 9

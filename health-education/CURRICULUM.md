@@ -451,6 +451,32 @@ Klett/Булвест 2000 English G9 Part 1 via FlipHTML5) with
 resolves to a PE-course lesson, so none was excluded as
 PE-bound.
 
+**Health expansion — Honduras — BUILT 2026-11-16:** 23 placements
+stocked — all into existing lessons (Staying Safe While
+Exercising ×6, Preventing Sports Injuries and First Aid ×5,
+Hygiene for Sport ×2, The Body Systems ×2, Fair Play in Sport
+×2, Diseases of Inactivity, Eating a Balanced Diet, Your Body
+in Exercise, Why Exercise Keeps You Healthy, Healthy Habits
+Every Day, Doping — What It Is and What It Costs) and no new
+lessons — this course stays at **47 lessons**. The placements
+are from Honduras's Telebásica PE books (Spanish, Secretaría
+de Educación de Honduras): the Grade 7, 8 and 9 student books
+are student-book stock, inside the acceptance counts (each
+touched lesson's count rose by 1, except Your Body in
+Exercise, which Honduras touches only through the Grade 7
+teacher guide); the Grade 7 and 8 teacher guides are
+teacher-guide evidence only, outside the acceptance counts.
+Book R of the placements file (LM-ESP1-2021.pdf) is
+RECORD-ONLY — REJECTED for Honduras: the mirror's whole 2021
+series is MEXICO, not a Honduran book and not a Health book,
+with 0 placements. One further Honduras placement (Grade 9
+student book, Bloque II Secuencia 1, printed p. 61 — basic
+nutrition rules for exercise) was NOT stocked here: the
+registry resolves it to the PE course's Sports Nutrition and
+Hydration lesson; a git grep on origin/main confirms it is
+not yet stocked in the PE course either — it belongs to a PE
+fix-up.
+
 ## Unit 1 — Staying Safe
 
 1. **Hygiene for Sport — Wash After Exercise** (`staying-safe/hygiene-for-sport`) — personal hygiene around sport: sweat and dirt left unwashed become a breeding place for bacteria — so wash the body after PE and sport, keep sports…

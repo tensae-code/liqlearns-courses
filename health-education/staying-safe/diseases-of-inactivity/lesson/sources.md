@@ -1,8 +1,8 @@
 # Sources — Diseases of Inactivity
 
-countries: United Kingdom, Cyprus, Oman, Samoa
+countries: United Kingdom, Cyprus, Oman, Samoa, Honduras
 
-**Acceptance count: taught in 2 countries.** United Kingdom and Cyprus are filed as student-book stock, inside the acceptance count, in this lesson.
+**Acceptance count: taught in 3 countries.** United Kingdom and Cyprus are filed as student-book stock, inside the acceptance count, in this lesson. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count.
 
 **Book 1 — Edexcel GCSE (9-1) Physical Education Student Book, 2nd edition (student book, English):**
 - Title as printed: Edexcel GCSE (9-1) Physical Education — Tony Scott (cover: "2nd edition")
@@ -60,4 +60,23 @@ Oman is added as teacher-guide evidence only (see its book line and row above), 
 
 Samoa is added as curriculum-statement / teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — both Samoa books are TEACHER books (Book 1 a curriculum statement for teachers, Book 2 a teacher guide), so Samoa is named in the countries line and provenance row(s) but the acceptance count is unchanged (still taught in 2 countries). The Samoa placement was filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson `staying-safe/diseases-of-inactivity` by registry Part 2B (HELD description: "Diseases of inactivity, Introduction + Year 12 Unit 2B"), and the original string is recorded in the provenance row above. Samoa's own way is content, as the book line(s) above record it: inactivity diseases are taught as Samoa's own NCD burden — diabetes, heart disease, hypertension, obesity and gout driven by sedentary modern lifestyles and highly processed foods.
 
-Searchable tags: diseases of inactivity, sedentary lifestyle, consequences of inactivity, obesity, somatotypes body types, hypokinetic diseases, Edexcel GCSE Physical Education, United Kingdom GCSE Edexcel PE Student Book, sedentary life, Καθιστική Ζωή, sitting-still life, Cyprus Olympic Education Insert Grades 11-12, physical activity and chronic diseases النشاط البدني وعلاقته بالأمراض المزمنة, Oman G8 Teacher Guide, diseases of inactivity sedentary lifestyle processed foods diabetes heart disease hypertension obesity gout, Samoa Years 11–12 TG
+## Honduras — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/honduras-health-placements.md. The Honduras book stocked in this lesson is Book 2. Honduras is student-book stock, inside the acceptance count, in this lesson. Book R of the placements file (LM-ESP1-2021.pdf) is RECORD-ONLY — REJECTED for Honduras: the mirror's whole 2021 series is MEXICO (a Spanish-language book, LM-ESP1), not a Honduran book and not a Health book, with 0 placements; nothing is stocked from it. One Honduras placement was NOT stocked in this course because the Health slug registry resolves it to a PE-course lesson: Book 4 (HN G9 student), Bloque II Secuencia 1, printed p. 61 — basic nutrition rules for exercise — resolves to PE canonical `fitness-and-stretching/sports-nutrition-and-hydration`; it is excluded here, and a git grep on origin/main confirms it is NOT yet stocked in the PE course (the PE lesson exists but carries no Honduras rows) — it belongs to a PE fix-up.
+
+**Book — Honduras Grade 8 (student book):**
+## Book 2 — HN G8 student, Telebásica (student book, Spanish)
+- Title as printed: Libro del Estudiante — Educación Física, 8vo Grado
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Secretaría de Educación de Honduras / TELEBÁSICA; no ISBN printed in the front matter read
+- PDF pages: 146 (cover verified against the record)
+- Verdict: COMPLETE
+- Tally: 7 placements — 4 to existing lessons, 3 NEW LESSON NEEDED (2 HELD, 1 fair-play)
+- Honduras's own way: first aid is a full named sequence of the PE book ("Ayuda a los demás") with a diagnosis table, a class first-aid kit and splinting/transport drills; fair play is taught as "deportividad" closing the sport-initiation block.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras — Bloque II Secuencia 1 "Mantén tu salud física" — sedentary living and its harms: muscles degenerate, spinal deviations and foot deformities follow, and degenerative diseases appear ever younger (body-in-exercise / diseases-of-inactivity material that fits neither Health title) (original string `staying-safe/HELD-title-decision`) | Honduras Grade 8 HN G8 student, printed p. 58 |
+
+Honduras is added as student-book stock (see its book line and row above), inside the acceptance count — Book 2 is a STUDENT book, so Honduras is named in the countries line and provenance row and the acceptance count rises from 2 to 3 countries. The Honduras placement was filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson `staying-safe/diseases-of-inactivity` by registry Part 2B, and the original string is recorded in the provenance row above.
+Searchable tags: diseases of inactivity, sedentary lifestyle, consequences of inactivity, obesity, somatotypes body types, hypokinetic diseases, Edexcel GCSE Physical Education, United Kingdom GCSE Edexcel PE Student Book, sedentary life, Καθιστική Ζωή, sitting-still life, Cyprus Olympic Education Insert Grades 11-12, physical activity and chronic diseases النشاط البدني وعلاقته بالأمراض المزمنة, Oman G8 Teacher Guide, diseases of inactivity sedentary lifestyle processed foods diabetes heart disease hypertension obesity gout, Samoa Years 11–12 TG, Mantén tu salud física, sedentary living muscles degenerate spinal deviations foot deformities degenerative diseases, Honduras Telebásica Grade 8

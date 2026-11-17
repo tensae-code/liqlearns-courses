@@ -1,6 +1,6 @@
 # Sources — Hygiene for Sport — Wash After Exercise
 
-countries: Ethiopia, Tajikistan, Haiti, Afghanistan, Rwanda, El Salvador, Oman
+countries: Ethiopia, Tajikistan, Haiti, Afghanistan, Rwanda, El Salvador, Oman, Honduras
 
 **Book 1:** *Grade 7 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–96 + front matter (104 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g07-student-placements.md.
 
@@ -42,7 +42,7 @@ countries: Ethiopia, Tajikistan, Haiti, Afghanistan, Rwanda, El Salvador, Oman
 | El Salvador — Grade 1 Unit 1 Lesson 2 La higiene y limpieza nos mantiene saludables — effects of accumulated sweat and dirt on the skin, washing dirt off the skin after physical practice, and keeping the practice place clean (teacher guide — evidence) (filed under `staying-safe/hygiene-for-sport`, this lesson itself) | El Salvador, *Guía Metodológica de Educación Física, Primer Ciclo* (El Salvador Grades 1–3 PE Guide, teacher guide), printed pp. 17–18 (teacher guide — evidence) |
 | El Salvador — Grade 2 Unit 1 Lesson 2 Cuido mi salud antes, durante y después del ejercicio físico — washing hands and nails with soap after practice, wiping sweat from face, neck, armpits and groin, changing underclothes and socks, athlete's foot and skin fungi, cleaning faeces and bacteria from practice areas, and the risk of gastrointestinal disease in physical practice (teacher guide — evidence) (filed under `staying-safe/hygiene-for-sport`, this lesson itself) | El Salvador, *Guía Metodológica de Educación Física, Primer Ciclo* (El Salvador Grades 1–3 PE Guide, teacher guide), printed p. 92 (teacher guide — evidence) |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Tajikistan).**
+**Acceptance count: taught in 3 countries (Ethiopia, Tajikistan, Honduras).** Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count.
 
 Tajikistan is added as student-book stock (see its book line above), inside the acceptance count. The Tajikistan placement was filed under the slug `staying-safe/hygiene-for-sport`, this lesson itself.
 
@@ -76,4 +76,37 @@ El Salvador is added as teacher-guide evidence only (see its book line and rows 
 
 Oman is added as teacher-guide evidence only (see its book line and row above), outside the acceptance count — the Oman book is a TEACHER guide, so Oman is named in the countries line and provenance row but the acceptance count is unchanged (still taught in 2 countries). The Oman placement was filed under the slug `staying-safe/hygiene-for-sport`, this lesson itself. Oman's own way is content, as the book line above records it: health is taught inside the PE lesson, and cleanliness of the playing area and equipment is taught as part of healthy sport.
 
-Searchable tags: hygiene for sport, personal hygiene, wash after exercise, sweat bacteria, clean kit, cover wounds, Ethiopia HPE Grade 7, personal hygiene, sense organs, Tajikistan Physical Culture Grades 1-4, healthy living habits, personal plan to improve a habit, food sleep body hygiene, harmful substances, Haiti EPS Programmes Grades 7-9 and 10-13, MENFP, sports hygiene, WHO definition of health, medical and dental checks before sport, cotton socks, hygiene in swimming places, chlorine foot-bath, drying between the toes, Afghanistan G7 PE Teacher Guide Dari, body cleanliness, diseases caused by poor hygiene, maintaining sports materials, prevention of illnesses through sports, Rwanda PES Teacher Guides Primary 1 2 3, REB Rwanda, sweat and dirt on the skin, athlete's foot, skin fungi, washing after practice, El Salvador PE Guide Grades 1-3, La higiene y limpieza nos mantiene saludables, cleanliness of the playing area and equipment, Health Culture and Awareness, Oman G1 Teacher Guide
+## Honduras — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/honduras-health-placements.md. The Honduras books stocked in this lesson are Book 1, Book 2. Honduras is student-book stock, inside the acceptance count, in this lesson. Book R of the placements file (LM-ESP1-2021.pdf) is RECORD-ONLY — REJECTED for Honduras: the mirror's whole 2021 series is MEXICO (a Spanish-language book, LM-ESP1), not a Honduran book and not a Health book, with 0 placements; nothing is stocked from it. One Honduras placement was NOT stocked in this course because the Health slug registry resolves it to a PE-course lesson: Book 4 (HN G9 student), Bloque II Secuencia 1, printed p. 61 — basic nutrition rules for exercise — resolves to PE canonical `fitness-and-stretching/sports-nutrition-and-hydration`; it is excluded here, and a git grep on origin/main confirms it is NOT yet stocked in the PE course (the PE lesson exists but carries no Honduras rows) — it belongs to a PE fix-up.
+
+**Book — Honduras Grade 7 (student book):**
+## Book 1 — HN G7 student, Telebásica (student book, Spanish)
+- Title as printed: Libro del Estudiante — Educación Física, 7mo Grado
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Secretaría de Educación de Honduras / TELEBÁSICA; year 2016 (record); no ISBN printed in the front matter read
+- PDF pages: 130 (cover verified against the record)
+- Verdict: COMPLETE
+- Tally: 3 placements — 2 to existing lessons, 1 NEW LESSON NEEDED (HELD)
+- Honduras's own way: health is taught inside the PE book — hygiene habits, pulse-taking and body knowledge sit inside the fitness blocks rather than in a separate health book.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras — Bloque I Secuencia 2 — personal hygiene as a positive habit around physical activity (original target `staying-safe/hygiene-for-sport`) | Honduras Grade 7 HN G7 student, printed p. 35 |
+
+**Book — Honduras Grade 8 (student book):**
+## Book 2 — HN G8 student, Telebásica (student book, Spanish)
+- Title as printed: Libro del Estudiante — Educación Física, 8vo Grado
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Secretaría de Educación de Honduras / TELEBÁSICA; no ISBN printed in the front matter read
+- PDF pages: 146 (cover verified against the record)
+- Verdict: COMPLETE
+- Tally: 7 placements — 4 to existing lessons, 3 NEW LESSON NEEDED (2 HELD, 1 fair-play)
+- Honduras's own way: first aid is a full named sequence of the PE book ("Ayuda a los demás") with a diagnosis table, a class first-aid kit and splinting/transport drills; fair play is taught as "deportividad" closing the sport-initiation block.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras — Bloque II Secuencia 4 — the health habits behind fitness: shower after exercise and change clothes, good hydration, enough rest, eating 2–3 hours before exercise (original target `staying-safe/hygiene-for-sport`) | Honduras Grade 8 HN G8 student, printed p. 84 |
+
+Honduras is added as student-book stock (see its book lines and rows above), inside the acceptance count — both Honduras books stocked here are STUDENT books, so Honduras is named in the countries line and provenance rows and the acceptance count rises from 2 to 3 countries. Both Honduras placements in this lesson were filed under the slug `staying-safe/hygiene-for-sport`, this lesson itself. Honduras's own way is content, as the book lines above record it: health is taught inside the PE book — hygiene habits sit inside the fitness blocks rather than in a separate health book.
+Searchable tags: hygiene for sport, personal hygiene, wash after exercise, sweat bacteria, clean kit, cover wounds, Ethiopia HPE Grade 7, personal hygiene, sense organs, Tajikistan Physical Culture Grades 1-4, healthy living habits, personal plan to improve a habit, food sleep body hygiene, harmful substances, Haiti EPS Programmes Grades 7-9 and 10-13, MENFP, sports hygiene, WHO definition of health, medical and dental checks before sport, cotton socks, hygiene in swimming places, chlorine foot-bath, drying between the toes, Afghanistan G7 PE Teacher Guide Dari, body cleanliness, diseases caused by poor hygiene, maintaining sports materials, prevention of illnesses through sports, Rwanda PES Teacher Guides Primary 1 2 3, REB Rwanda, sweat and dirt on the skin, athlete's foot, skin fungi, washing after practice, El Salvador PE Guide Grades 1-3, La higiene y limpieza nos mantiene saludables, cleanliness of the playing area and equipment, Health Culture and Awareness, Oman G1 Teacher Guide, personal hygiene as a positive habit around physical activity, health habits behind fitness shower after exercise hydration rest, Honduras Telebásica Grades 7 and 8

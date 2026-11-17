@@ -1,6 +1,6 @@
 # Sources — Preventing Sports Injuries and First Aid
 
-countries: Ethiopia, United Kingdom, Tajikistan, Turkmenistan, Jordan, Laos, Finland, Namibia, Haiti, Cyprus, Afghanistan, China, El Salvador, Oman, Samoa, Bulgaria
+countries: Ethiopia, United Kingdom, Tajikistan, Turkmenistan, Jordan, Laos, Finland, Namibia, Haiti, Cyprus, Afghanistan, China, El Salvador, Oman, Samoa, Bulgaria, Honduras
 
 **Book 1:** *Grade 6 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–95 + front matter (103 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g06-student-placements.md.
 
@@ -88,7 +88,7 @@ countries: Ethiopia, United Kingdom, Tajikistan, Turkmenistan, Jordan, Laos, Fin
 | El Salvador — Unit 3 Lesson 1 ¡Cuidado con el tétano! — cleaning a wound or scrape with water and soap, covering it with clean gauze, never touching wounds with dirty hands, and building a class first-aid kit (botiquín) (filed under `staying-safe/preventing-sports-injuries-and-first-aid`, this lesson itself) | El Salvador, *Ciencia, Salud y Medio Ambiente 1*, Unit 3 Lesson 1, printed pp. 54–57 |
 | El Salvador — Grade 3 Unit 2 Lesson 2 Practico mis habilidades físicas sin riesgo — risks of muscle and tendon injury in flexibility work, progressive static stretching technique, and knowing the limit of effort (teacher guide — evidence) (filed under `staying-safe/preventing-sports-injuries-and-first-aid`, this lesson itself) | El Salvador, *Guía Metodológica de Educación Física, Primer Ciclo* (El Salvador Grades 1–3 PE Guide, teacher guide), printed p. 157 (teacher guide — evidence) |
 
-**Acceptance count: taught in 9 countries (Ethiopia, United Kingdom, Tajikistan, Turkmenistan, Jordan, Cyprus, China, El Salvador, Bulgaria).** United Kingdom is added as student-book stock (see its book line and row below), inside the acceptance count. Bulgaria is added as student-book stock (see its book line and row below), inside the acceptance count.
+**Acceptance count: taught in 10 countries (Ethiopia, United Kingdom, Tajikistan, Turkmenistan, Jordan, Cyprus, China, El Salvador, Bulgaria, Honduras).** Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked here are teacher-guide evidence only, outside the acceptance count. United Kingdom is added as student-book stock (see its book line and row below), inside the acceptance count. Bulgaria is added as student-book stock (see its book line and row below), inside the acceptance count.
 
 Tajikistan is added as student-book stock (see its book line and row above), inside the acceptance count. The Tajikistan placement was filed under the slug `staying-safe/preventing-sports-injuries-and-first-aid`, this lesson itself.
 
@@ -188,4 +188,66 @@ Samoa is added as curriculum-statement / teacher-guide evidence only (see its bo
 
 Bulgaria is added as student-book stock (see its book line and row above), inside the acceptance count — the Bulgaria book is a STUDENT book, so Bulgaria is named in the countries line and provenance row and the acceptance count rises from 8 to 9 countries. The Bulgaria placement was filed under the slug `staying-safe/preventing-sports-injuries-and-first-aid`, this lesson itself. Bulgaria's own way is content, as the book line above records it: first aid for injuries is taught as a practical exercise lesson (упражнение) inside the Grade 8 musculoskeletal sequence. This lesson teaches its placement only as the placements file summarises it, and names nothing the summary does not name.
 
-Searchable tags: preventing sports injuries, first aid, optimising training and preventing injury, training intensity, technique clothing equipment checks, Edexcel GCSE Physical Education, United Kingdom GCSE Edexcel PE Student Book, RICE, RICER, Rest Ice Compression Elevation Referral, sprains dislocations fractures bruising, first aid kit, blood safety, Ethiopia HPE Grades 6–7, first aid for injuries, bleeding, three-layer pressure bandage, Tajikistan Physical Culture Grades 1-4, medical control, pedagogical-medical observation, treatment of sports injuries and illnesses, medical provision for mass PE and sport, Turkmenistan Bedenterbiýe, first aid for stings and bites, bees wasps spiders scorpions snakes, washing with water and soap, cold compress, calling 911, first aid for simple fractures, splinting wooden boards compression bandages, fracture shapes simple transverse compound, Public Safety, Jordan NCCD Physical Education Grades 7 and 9, first aid and using medicine, Laos PE and Handicraft Teacher Guides Grades 4 and 5, resuscitation teaching classes 4-6, Elvytysopetusta luokille 4-6, calling 112, duty to help, unconscious lifeless recovery position, CPR resuscitation defibrillator, pressure bandage wound dressing, triangular bandage sling, supporting a fracture or sprain, nosebleed stroke face arm speech, Finland first aid, safety session, main causes of sports injuries, safe landing techniques, safety roll, protecting learners from the sun, Namibia PE4Life Guide, initiation to first aid, four rescue steps, secure the scene, assess the victim, alert emergency services, choking, heart malaise, first-aid certificate, natural-hazard safety, Haiti EPS Programmes Grades 7-9 and 10-13, MENFP, First Aid Lyceum Year 2, Πρώτες Βοήθειες, chain of survival, CPR, AED, recovery position, Cyprus First Aid Grade 11, safety in sport, teacher's seven safety duties, protective equipment in sport, shin guards, knee pads, ABC check airway breathing circulation, carotid pulse, shock legs raised, first-aid box, Afghanistan G7 PE Teacher Guide Dari, Afghanistan G10 PE Teacher Guide Pashto, treating open and closed injuries, fractures, exercise fainting, exercise abdominal pain, muscle cramp, on-site first aid, CPR, AED, drowning rescue and first aid, China Senior High PEP PE & Health, tetanus wound cleaning, first-aid kit botiquín, El Salvador Ciencia Salud y Medio Ambiente 1, muscle and tendon injury flexibility, El Salvador PE Guide Grades 1-3, first aid الإسعافات الأولية, first-aid kit contents and uses, sports injuries wounds, Oman G4 Teacher Guide, simple first aid cuts grazes burns stings bites local medicinal leaves poisoning, injury prevention protective equipment strapping taping sun protection, Samoa Years 1–8 Curriculum, Samoa Years 11–12 TG, first aid for injuries practical exercise, Bulgaria Biology and Health Education Grade 8 Pedagog 6
+## Honduras — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/honduras-health-placements.md. The Honduras books stocked in this lesson are Book 2, Book 3, Book 4, Book 5. Honduras is student-book stock, inside the acceptance count, in this lesson; Books 3 and 5, the teacher guides, are teacher-guide evidence only, outside the acceptance count. Book R of the placements file (LM-ESP1-2021.pdf) is RECORD-ONLY — REJECTED for Honduras: the mirror's whole 2021 series is MEXICO (a Spanish-language book, LM-ESP1), not a Honduran book and not a Health book, with 0 placements; nothing is stocked from it. One Honduras placement was NOT stocked in this course because the Health slug registry resolves it to a PE-course lesson: Book 4 (HN G9 student), Bloque II Secuencia 1, printed p. 61 — basic nutrition rules for exercise — resolves to PE canonical `fitness-and-stretching/sports-nutrition-and-hydration`; it is excluded here, and a git grep on origin/main confirms it is NOT yet stocked in the PE course (the PE lesson exists but carries no Honduras rows) — it belongs to a PE fix-up.
+
+**Book — Honduras Grade 8 (student book):**
+## Book 2 — HN G8 student, Telebásica (student book, Spanish)
+- Title as printed: Libro del Estudiante — Educación Física, 8vo Grado
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Secretaría de Educación de Honduras / TELEBÁSICA; no ISBN printed in the front matter read
+- PDF pages: 146 (cover verified against the record)
+- Verdict: COMPLETE
+- Tally: 7 placements — 4 to existing lessons, 3 NEW LESSON NEEDED (2 HELD, 1 fair-play)
+- Honduras's own way: first aid is a full named sequence of the PE book ("Ayuda a los demás") with a diagnosis table, a class first-aid kit and splinting/transport drills; fair play is taught as "deportividad" closing the sport-initiation block.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras — Bloque II Secuencia 3 "Ayuda a los demás" — sports injuries: what they are, why they happen to young people, and the kinds — muscle injuries, contusions, sprains by degree; heat, dehydration and sunstroke (original target `staying-safe/preventing-sports-injuries-and-first-aid`) | Honduras Grade 8 HN G8 student, printed p. 74 |
+| Honduras — Bloque II Secuencia 3 — first aid: the protect–alert–assist order, a symptom/cause/what-to-do table (breathing crisis, dehydration, sunstroke, contusion, cramp), the first-aid kit, splinting a fracture and transporting an injured person (original target `staying-safe/preventing-sports-injuries-and-first-aid`) | Honduras Grade 8 HN G8 student, printed p. 77 |
+
+**Book — Honduras Grade 7 (teacher guide):**
+## Book 3 — HN G7 teacher guide, Telebásica (teacher guide, Spanish)
+- Title as printed: Guía del Docente — Educación Física, 7mo Grado
+- Grade: 7 (student/teacher: TEACHER)
+- Publisher: Secretaría de Educación de Honduras / TELEBÁSICA; author Karen Lizeth Mendoza Lobo; no ISBN printed in the front matter read
+- PDF pages: 196 (cover verified against the record)
+- Verdict: COMPLETE
+- Tally: 5 placements — 3 to existing lessons, 2 NEW LESSON NEEDED (both HELD)
+- Honduras's own way: the guide adds the safety paperwork of Honduran school PE — a full personal anamnesis (health-history) record per student and explicit warning-sign instructions for the teacher during exercise.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras — Bloque I Secuencia 2 — what a sprain (esguince) is — injury of the ligaments joining two bones — and when it becomes a dislocation (luxación) (teacher guide — evidence) (original target `staying-safe/preventing-sports-injuries-and-first-aid`) | Honduras Grade 7 HN G7 teacher guide, printed p. 44 (teacher guide — evidence) |
+
+**Book — Honduras Grade 9 (student book):**
+## Book 4 — HN G9 student, Telebásica (student book, Spanish)
+- Title as printed: Libro del Estudiante — Educación Física, 9no Grado (cover banner: "Versión no validada")
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Secretaría de Educación de Honduras / TELEBÁSICA; no ISBN printed in the front matter read
+- PDF pages: 153 (cover verified against the record; staged under the push-don't-delete rule, see the group log)
+- Verdict: COMPLETE
+- Tally: 8 placements — 4 to existing lessons, 4 NEW LESSON NEEDED (3 HELD, 1 fair-play)
+- Honduras's own way: health teaching peaks in this book — exercise benefits and risks, food and hydration rules, and a group-poster study of the four harmful habits (sedentarism, smoking, alcoholism, bad eating habits); Olympic values close the sport block.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras — Bloque II Secuencia 1 — the risks of exercise and their prevention: intense effort on muscles and joints generates injuries (sprains, trauma, falls), and the aspects that prevent them (original target `staying-safe/preventing-sports-injuries-and-first-aid`) | Honduras Grade 9 HN G9 student, printed p. 60 |
+
+**Book — Honduras Grade 8 (teacher guide):**
+## Book 5 — HN G8 teacher guide, Telebásica (teacher guide, Spanish)
+- Title as printed: Guía del Docente — Educación Física, 8vo Grado
+- Grade: 8 (student/teacher: TEACHER)
+- Publisher: Secretaría de Educación de Honduras / TELEBÁSICA; author Gabriela Alessandra García Torres; no ISBN printed in the front matter read
+- PDF pages: 174 (cover verified against the record; staged under the push-don't-delete rule, see the group log)
+- Verdict: COMPLETE
+- Tally: 1 placement — 1 to existing lessons, 0 NEW LESSON NEEDED
+- Honduras's own way: the guide turns the student book's "build a first-aid kit" activity into an itemised school kit list the teacher assigns group by group.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras — Bloque II Secuencia 3 "Ayuda a los demás" — the school first-aid kit, itemised for the class to assemble: saline solution, iodine, plain soap, cotton, adhesive tape, gauze, bandages, plasters, scissors, thermometer, droppers, tweezers, acetaminophen, plastic gloves and hydrocortisone cream (teacher guide — evidence) (original target `staying-safe/preventing-sports-injuries-and-first-aid`) | Honduras Grade 8 HN G8 teacher guide, printed p. 97 (teacher guide — evidence) |
+
+Honduras is added as student-book stock (see its book lines and rows above), inside the acceptance count — the Honduras student books stocked here are STUDENT books, so Honduras is named in the countries line and provenance rows and the acceptance count rises from 9 to 10 countries; the teacher-guide rows are teacher-guide evidence only, outside the acceptance count. All five Honduras placements in this lesson were filed under the slug `staying-safe/preventing-sports-injuries-and-first-aid`, this lesson itself. Honduras's own way is content, as the book lines above record it: first aid is a full named sequence of the PE book ("Ayuda a los demás") with a diagnosis table, a class first-aid kit and splinting/transport drills.
+Searchable tags: preventing sports injuries, first aid, optimising training and preventing injury, training intensity, technique clothing equipment checks, Edexcel GCSE Physical Education, United Kingdom GCSE Edexcel PE Student Book, RICE, RICER, Rest Ice Compression Elevation Referral, sprains dislocations fractures bruising, first aid kit, blood safety, Ethiopia HPE Grades 6–7, first aid for injuries, bleeding, three-layer pressure bandage, Tajikistan Physical Culture Grades 1-4, medical control, pedagogical-medical observation, treatment of sports injuries and illnesses, medical provision for mass PE and sport, Turkmenistan Bedenterbiýe, first aid for stings and bites, bees wasps spiders scorpions snakes, washing with water and soap, cold compress, calling 911, first aid for simple fractures, splinting wooden boards compression bandages, fracture shapes simple transverse compound, Public Safety, Jordan NCCD Physical Education Grades 7 and 9, first aid and using medicine, Laos PE and Handicraft Teacher Guides Grades 4 and 5, resuscitation teaching classes 4-6, Elvytysopetusta luokille 4-6, calling 112, duty to help, unconscious lifeless recovery position, CPR resuscitation defibrillator, pressure bandage wound dressing, triangular bandage sling, supporting a fracture or sprain, nosebleed stroke face arm speech, Finland first aid, safety session, main causes of sports injuries, safe landing techniques, safety roll, protecting learners from the sun, Namibia PE4Life Guide, initiation to first aid, four rescue steps, secure the scene, assess the victim, alert emergency services, choking, heart malaise, first-aid certificate, natural-hazard safety, Haiti EPS Programmes Grades 7-9 and 10-13, MENFP, First Aid Lyceum Year 2, Πρώτες Βοήθειες, chain of survival, CPR, AED, recovery position, Cyprus First Aid Grade 11, safety in sport, teacher's seven safety duties, protective equipment in sport, shin guards, knee pads, ABC check airway breathing circulation, carotid pulse, shock legs raised, first-aid box, Afghanistan G7 PE Teacher Guide Dari, Afghanistan G10 PE Teacher Guide Pashto, treating open and closed injuries, fractures, exercise fainting, exercise abdominal pain, muscle cramp, on-site first aid, CPR, AED, drowning rescue and first aid, China Senior High PEP PE & Health, tetanus wound cleaning, first-aid kit botiquín, El Salvador Ciencia Salud y Medio Ambiente 1, muscle and tendon injury flexibility, El Salvador PE Guide Grades 1-3, first aid الإسعافات الأولية, first-aid kit contents and uses, sports injuries wounds, Oman G4 Teacher Guide, simple first aid cuts grazes burns stings bites local medicinal leaves poisoning, injury prevention protective equipment strapping taping sun protection, Samoa Years 1–8 Curriculum, Samoa Years 11–12 TG, first aid for injuries practical exercise, Bulgaria Biology and Health Education Grade 8 Pedagog 6, Ayuda a los demás, sports injuries muscle injuries contusions sprains, protect alert assist, first-aid kit botiquín splinting fracture transport, esguince luxación, school first-aid kit itemised, Honduras Telebásica Grades 7 8 and 9

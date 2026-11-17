@@ -1,8 +1,8 @@
 # Sources — Healthy Habits Every Day
 
-countries: Jordan, China, Oman
+countries: Jordan, China, Oman, Honduras
 
-**Acceptance count: taught in 2 countries.** Jordan and China are filed as student-book stock, inside the acceptance count, in this lesson.
+**Acceptance count: taught in 3 countries.** Jordan and China are filed as student-book stock, inside the acceptance count, in this lesson. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count.
 
 **Book 1 — التربية الرياضية — الصف الأول الأساسي — الفصل الدراسي الثاني (Physical Education, First Basic Grade, Second Semester) (student book, Arabic):**
 - Title as printed: التربية الرياضية — الصف الأول الأساسي — الفصل الدراسي الثاني (Physical Education, First Basic Grade, Second Semester)
@@ -60,4 +60,23 @@ China is added as student-book stock (see its book line and row above), inside t
 
 Oman is added as teacher-guide evidence only (see its book lines and rows above), outside the acceptance count — both Oman books are TEACHER guides, so Oman is named in the countries line and provenance rows but the acceptance count is unchanged (still taught in 2 countries). Both Oman placements were filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson `staying-safe/healthy-habits-every-day` by registry Part 2B (HELD descriptions: "Unit 6, Health Culture and Awareness — Sport Is Our Life (الرياضة حياتنا): sport as a part of everyday healthy life" and "Unit 4, Health Culture and Awareness — The Healthy Lifestyle (نمط الحياة الصحي): the habits that make up a healthy pattern of life"), and the original string is recorded in the provenance rows above. Oman's own way is content, as the book lines above record it: sport as a part of everyday healthy life at Grade 5, and the healthy lifestyle pattern as a whole at Grade 7.
 
-Searchable tags: healthy habits every day, daily healthy habits, healthy and unhealthy pictures, Movement and Health, Jordan NCCD Physical Education Grade 1, healthy lifestyle and preventing disease, building healthy behaviour, balanced diet, mental balance, scientific exercise, preventing chronic non-communicable diseases, diabetes, China Senior High PEP PE & Health, sport is our life الرياضة حياتنا, the healthy lifestyle نمط الحياة الصحي, Oman G5 Teacher Guide, Oman G7 Teacher Guide
+## Honduras — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/honduras-health-placements.md. The Honduras book stocked in this lesson is Book 4. Honduras is student-book stock, inside the acceptance count, in this lesson. Book R of the placements file (LM-ESP1-2021.pdf) is RECORD-ONLY — REJECTED for Honduras: the mirror's whole 2021 series is MEXICO (a Spanish-language book, LM-ESP1), not a Honduran book and not a Health book, with 0 placements; nothing is stocked from it. One Honduras placement was NOT stocked in this course because the Health slug registry resolves it to a PE-course lesson: Book 4 (HN G9 student), Bloque II Secuencia 1, printed p. 61 — basic nutrition rules for exercise — resolves to PE canonical `fitness-and-stretching/sports-nutrition-and-hydration`; it is excluded here, and a git grep on origin/main confirms it is NOT yet stocked in the PE course (the PE lesson exists but carries no Honduras rows) — it belongs to a PE fix-up.
+
+**Book — Honduras Grade 9 (student book):**
+## Book 4 — HN G9 student, Telebásica (student book, Spanish)
+- Title as printed: Libro del Estudiante — Educación Física, 9no Grado (cover banner: "Versión no validada")
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Secretaría de Educación de Honduras / TELEBÁSICA; no ISBN printed in the front matter read
+- PDF pages: 153 (cover verified against the record; staged under the push-don't-delete rule, see the group log)
+- Verdict: COMPLETE
+- Tally: 8 placements — 4 to existing lessons, 4 NEW LESSON NEEDED (3 HELD, 1 fair-play)
+- Honduras's own way: health teaching peaks in this book — exercise benefits and risks, food and hydration rules, and a group-poster study of the four harmful habits (sedentarism, smoking, alcoholism, bad eating habits); Olympic values close the sport block.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras — Bloque III Secuencia 2 — healthy-life habits: a balanced diet, sleep, proper medical check-ups, exercise and outdoor life (fitness-concept material that fits neither Health title) (original string `staying-safe/HELD-title-decision`) | Honduras Grade 9 HN G9 student, printed p. 120 |
+
+Honduras is added as student-book stock (see its book line and row above), inside the acceptance count — Book 4 is a STUDENT book, so Honduras is named in the countries line and provenance row and the acceptance count rises from 2 to 3 countries. The Honduras placement was filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson `staying-safe/healthy-habits-every-day` by registry Part 2B, and the original string is recorded in the provenance row above.
+Searchable tags: healthy habits every day, daily healthy habits, healthy and unhealthy pictures, Movement and Health, Jordan NCCD Physical Education Grade 1, healthy lifestyle and preventing disease, building healthy behaviour, balanced diet, mental balance, scientific exercise, preventing chronic non-communicable diseases, diabetes, China Senior High PEP PE & Health, sport is our life الرياضة حياتنا, the healthy lifestyle نمط الحياة الصحي, Oman G5 Teacher Guide, Oman G7 Teacher Guide, healthy-life habits balanced diet sleep medical check-ups exercise outdoor life, Honduras Telebásica Grade 9

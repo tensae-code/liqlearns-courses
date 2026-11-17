@@ -1,6 +1,6 @@
 # Sources — Doping — What It Is and What It Costs
 
-countries: Ethiopia, China
+countries: Ethiopia, China, Honduras
 
 **Book 1:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–106 + front matter (114 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md.
 
@@ -41,7 +41,7 @@ countries: Ethiopia, China
 | Prove-it questions folded from the book's own Chapter 1 review — Sub lesson 4 (teacher guide — evidence) | Ethiopia, *Grade 7 Teacher Guide*, Chapter 1 review answers, printed pp. 12–13 (teacher guide — evidence) |
 | China — 第四章 第五节 运动安全（八）— what doping is and what counts as a doping violation (filed under `fair-play-and-the-body/doping-what-it-is-and-what-it-costs`, this lesson itself) | China, *普通高中教科书·体育与健康必修 全一册 (PEP Senior-High PE & Health, Compulsory, Complete Volume)*, 第四章 第五节 运动安全（八）, printed p. 78 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, China).**
+**Acceptance count: taught in 3 countries (Ethiopia, China, Honduras).** Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count.
 
 The Grade 5 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -61,4 +61,23 @@ The Grade 8 sanctions ladder (warning + up to 1 year / 2 years / lifetime) is ca
 
 China is added as student-book stock (see its book line and row above), inside the acceptance count — the China book is a STUDENT book, so China is named in the countries line and provenance row and the acceptance count rises from 1 to 2 countries. The China placement was filed under the slug `fair-play-and-the-body/doping-what-it-is-and-what-it-costs`, this lesson itself. China's own way is content, as the book line above records it: doping is taught inside the exercise-safety section — what doping is and what counts as a doping violation.
 
-Searchable tags: doping ዶፒንግ, performance-enhancing substances አበረታች ቅመማዎች, clean sport, WADA 1999, IOC medical commission 1967, Mexico 1968 tests, Ethiopia anti-doping office proclamation 400/2009, doping harms sanctions, Ethiopia HPE Grades 5–7, what doping is, doping violation, China Senior High PEP PE & Health
+## Honduras — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/honduras-health-placements.md. The Honduras book stocked in this lesson is Book 4. Honduras is student-book stock, inside the acceptance count, in this lesson. Book R of the placements file (LM-ESP1-2021.pdf) is RECORD-ONLY — REJECTED for Honduras: the mirror's whole 2021 series is MEXICO (a Spanish-language book, LM-ESP1), not a Honduran book and not a Health book, with 0 placements; nothing is stocked from it. One Honduras placement was NOT stocked in this course because the Health slug registry resolves it to a PE-course lesson: Book 4 (HN G9 student), Bloque II Secuencia 1, printed p. 61 — basic nutrition rules for exercise — resolves to PE canonical `fitness-and-stretching/sports-nutrition-and-hydration`; it is excluded here, and a git grep on origin/main confirms it is NOT yet stocked in the PE course (the PE lesson exists but carries no Honduras rows) — it belongs to a PE fix-up.
+
+**Book — Honduras Grade 9 (student book):**
+## Book 4 — HN G9 student, Telebásica (student book, Spanish)
+- Title as printed: Libro del Estudiante — Educación Física, 9no Grado (cover banner: "Versión no validada")
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Secretaría de Educación de Honduras / TELEBÁSICA; no ISBN printed in the front matter read
+- PDF pages: 153 (cover verified against the record; staged under the push-don't-delete rule, see the group log)
+- Verdict: COMPLETE
+- Tally: 8 placements — 4 to existing lessons, 4 NEW LESSON NEEDED (3 HELD, 1 fair-play)
+- Honduras's own way: health teaching peaks in this book — exercise benefits and risks, food and hydration rules, and a group-poster study of the four harmful habits (sedentarism, smoking, alcoholism, bad eating habits); Olympic values close the sport block.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras — Bloque II Secuencia 1 — smoking (tabaquismo): an addiction that raises heart rate and blood pressure, cuts 5–8 years of life, and smoking before sport raises the risk of sudden death; alcohol's harm to the physical capacities — studied as group poster work on sedentarism, smoking, alcoholism and bad eating habits (original target `fair-play-and-the-body/doping-what-it-is-and-what-it-costs`) | Honduras Grade 9 HN G9 student, printed p. 63 |
+
+Honduras is added as student-book stock (see its book line and row above), inside the acceptance count — Book 4 is a STUDENT book, so Honduras is named in the countries line and provenance row and the acceptance count rises from 2 to 3 countries. The Honduras placement was filed under the slug `fair-play-and-the-body/doping-what-it-is-and-what-it-costs`, this lesson itself. Honduras's own way is content, as the book line above records it: the harmful habits — sedentarism, smoking, alcoholism and bad eating habits — are studied as group poster work in the Grade 9 book.
+Searchable tags: doping ዶፒንግ, performance-enhancing substances አበረታች ቅመማዎች, clean sport, WADA 1999, IOC medical commission 1967, Mexico 1968 tests, Ethiopia anti-doping office proclamation 400/2009, doping harms sanctions, Ethiopia HPE Grades 5–7, what doping is, doping violation, China Senior High PEP PE & Health, tabaquismo smoking addiction heart rate blood pressure sudden death, alcohol harm to physical capacities, harmful habits sedentarism smoking alcoholism bad eating habits, Honduras Telebásica Grade 9

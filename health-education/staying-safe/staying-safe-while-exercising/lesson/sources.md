@@ -1,6 +1,6 @@
 # Sources — Staying Safe While Exercising
 
-countries: Ethiopia, Tajikistan, Laos, Haiti, Cyprus, Afghanistan, China, El Salvador
+countries: Ethiopia, Tajikistan, Laos, Haiti, Cyprus, Afghanistan, China, El Salvador, Honduras
 
 **Book 1:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–106 + front matter (114 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md.
 
@@ -43,7 +43,7 @@ countries: Ethiopia, Tajikistan, Laos, Haiti, Cyprus, Afghanistan, China, El Sal
 | China — 第四章 第五节 运动安全（一）— exercise and sports safety rules (filed under `staying-safe/staying-safe-while-exercising`, this lesson itself) | China, *普通高中教科书·体育与健康必修 全一册 (PEP Senior-High PE & Health, Compulsory, Complete Volume)*, 第四章 第五节 运动安全（一）, printed p. 74 |
 | El Salvador — Grade 3 Unit 1 Lesson 2 Protejo mi salud en las prácticas físicas — health benefits of suitable clothing and footwear for physical practice (teacher guide — evidence) (filed under `staying-safe/staying-safe-while-exercising`, this lesson itself) | El Salvador, *Guía Metodológica de Educación Física, Primer Ciclo* (El Salvador Grades 1–3 PE Guide, teacher guide), printed p. 155 (teacher guide — evidence) |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Tajikistan, Cyprus, China).**
+**Acceptance count: taught in 5 countries (Ethiopia, Tajikistan, Cyprus, China, Honduras).** Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guide stocked here is teacher-guide evidence only, outside the acceptance count.
 
 Tajikistan is added as student-book stock (see its book line above), inside the acceptance count. The Tajikistan placement was filed under the slug `staying-safe/staying-safe-while-exercising`, this lesson itself.
 
@@ -63,4 +63,67 @@ China is added as student-book stock (see its book line and row above), inside t
 
 El Salvador is added as teacher-guide evidence only (see its book line and row above), outside the acceptance count — the El Salvador book in this lesson is a TEACHER guide, so El Salvador is named in the countries line and provenance row but the acceptance count is unchanged (still taught in 4 countries). The El Salvador placement in this lesson was filed under the slug `staying-safe/staying-safe-while-exercising`, this lesson itself. El Salvador's own way is content, as the book line above records it: hygiene is built into the PE guide itself, including suitable clothing and footwear for physical practice.
 
-Searchable tags: staying safe while exercising, exercise precautions ጥንቃቄዎች, warm-up, cool-down, sport kit, injury prevention, safety check, Ethiopia HPE Grade 5, sports clothing, right clothes for sport, Tajikistan Physical Culture Grades 1-4, causes of accidents during practice, poor warm-up, inattention, Laos PE Teacher Guides Grades 8 and 9, safe engagement in activity, judging daily activity, intensity beyond your physical qualities, Haiti EPS Programmes Grades 7-9 and 10-13, MENFP, first-aid knowledge everywhere, emergencies at home school and play, Cyprus First Aid Grade 11, Πρώτες Βοήθειες, water and the exercising body, 3.5 litres a day, sweating cools the body, deliberate dehydration, exercising with diabetes asthma epilepsy haemophilia, Afghanistan G7 PE Teacher Guide Dari, Afghanistan G10 PE Teacher Guide Pashto, exercise and sports safety rules, 运动安全， China Senior High PEP PE & Health, suitable clothing and footwear for physical practice, El Salvador PE Guide Grades 1-3, Protejo mi salud en las prácticas físicas
+## Honduras — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/honduras-health-placements.md. The Honduras books stocked in this lesson are Book 1, Book 2, Book 3, Book 4. Honduras is student-book stock, inside the acceptance count, in this lesson; Book 3, the Grade 7 teacher guide, is teacher-guide evidence only, outside the acceptance count. Book R of the placements file (LM-ESP1-2021.pdf) is RECORD-ONLY — REJECTED for Honduras: the mirror's whole 2021 series is MEXICO (a Spanish-language book, LM-ESP1), not a Honduran book and not a Health book, with 0 placements; nothing is stocked from it. One Honduras placement was NOT stocked in this course because the Health slug registry resolves it to a PE-course lesson: Book 4 (HN G9 student), Bloque II Secuencia 1, printed p. 61 — basic nutrition rules for exercise — resolves to PE canonical `fitness-and-stretching/sports-nutrition-and-hydration`; it is excluded here, and a git grep on origin/main confirms it is NOT yet stocked in the PE course (the PE lesson exists but carries no Honduras rows) — it belongs to a PE fix-up.
+
+**Book — Honduras Grade 7 (student book):**
+## Book 1 — HN G7 student, Telebásica (student book, Spanish)
+- Title as printed: Libro del Estudiante — Educación Física, 7mo Grado
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Secretaría de Educación de Honduras / TELEBÁSICA; year 2016 (record); no ISBN printed in the front matter read
+- PDF pages: 130 (cover verified against the record)
+- Verdict: COMPLETE
+- Tally: 3 placements — 2 to existing lessons, 1 NEW LESSON NEEDED (HELD)
+- Honduras's own way: health is taught inside the PE book — hygiene habits, pulse-taking and body knowledge sit inside the fitness blocks rather than in a separate health book.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras — Bloque II Secuencia 2 "Encendamos el motor" — warming up and relaxing before and after exercise to protect the body and avoid injury (original target `staying-safe/staying-safe-while-exercising`) | Honduras Grade 7 HN G7 student, printed p. 61 |
+
+**Book — Honduras Grade 8 (student book):**
+## Book 2 — HN G8 student, Telebásica (student book, Spanish)
+- Title as printed: Libro del Estudiante — Educación Física, 8vo Grado
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Secretaría de Educación de Honduras / TELEBÁSICA; no ISBN printed in the front matter read
+- PDF pages: 146 (cover verified against the record)
+- Verdict: COMPLETE
+- Tally: 7 placements — 4 to existing lessons, 3 NEW LESSON NEEDED (2 HELD, 1 fair-play)
+- Honduras's own way: first aid is a full named sequence of the PE book ("Ayuda a los demás") with a diagnosis table, a class first-aid kit and splinting/transport drills; fair play is taught as "deportividad" closing the sport-initiation block.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras — Bloque II Secuencia 1 — the physical-activity pyramid: daily activity at the base, sedentary activities (TV, computer games) at the top to cut down (original target `staying-safe/staying-safe-while-exercising`) | Honduras Grade 8 HN G8 student, printed p. 63 |
+
+**Book — Honduras Grade 7 (teacher guide):**
+## Book 3 — HN G7 teacher guide, Telebásica (teacher guide, Spanish)
+- Title as printed: Guía del Docente — Educación Física, 7mo Grado
+- Grade: 7 (student/teacher: TEACHER)
+- Publisher: Secretaría de Educación de Honduras / TELEBÁSICA; author Karen Lizeth Mendoza Lobo; no ISBN printed in the front matter read
+- PDF pages: 196 (cover verified against the record)
+- Verdict: COMPLETE
+- Tally: 5 placements — 3 to existing lessons, 2 NEW LESSON NEEDED (both HELD)
+- Honduras's own way: the guide adds the safety paperwork of Honduran school PE — a full personal anamnesis (health-history) record per student and explicit warning-sign instructions for the teacher during exercise.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras — Bloque II Secuencia 1 — warning signs to stop a student during exercise: purple or very red colouring of nails, mouth or face, a big rise or fall in body temperature, or a complaint of feeling ill — sit them down, notify the school director and parents, and get a medical check (teacher guide — evidence) (original target `staying-safe/staying-safe-while-exercising`) | Honduras Grade 7 HN G7 teacher guide, printed p. 86 (teacher guide — evidence) |
+| Honduras — Bloque II Secuencia 1 — the personal anamnesis record (ficha de anamnesis): each student's health history — past illnesses, injuries, heart conditions, vaccinations and family background — collected before they exercise (teacher guide — evidence) (original target `staying-safe/staying-safe-while-exercising`) | Honduras Grade 7 HN G7 teacher guide, printed p. 89 (teacher guide — evidence) |
+
+**Book — Honduras Grade 9 (student book):**
+## Book 4 — HN G9 student, Telebásica (student book, Spanish)
+- Title as printed: Libro del Estudiante — Educación Física, 9no Grado (cover banner: "Versión no validada")
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Secretaría de Educación de Honduras / TELEBÁSICA; no ISBN printed in the front matter read
+- PDF pages: 153 (cover verified against the record; staged under the push-don't-delete rule, see the group log)
+- Verdict: COMPLETE
+- Tally: 8 placements — 4 to existing lessons, 4 NEW LESSON NEEDED (3 HELD, 1 fair-play)
+- Honduras's own way: health teaching peaks in this book — exercise benefits and risks, food and hydration rules, and a group-poster study of the four harmful habits (sedentarism, smoking, alcoholism, bad eating habits); Olympic values close the sport block.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras — Bloque II Secuencia 1 — hydration in exercise: water is the best rehydration drink, taken at room temperature; avoid ice water and drinks with more than 8% sugar (original target `staying-safe/staying-safe-while-exercising`) | Honduras Grade 9 HN G9 student, printed p. 62 |
+| Honduras — Bloque IV Secuencia 2 — risks and prevention in outdoor activities: the risk-prevention plan, knowledgeable leaders, right clothing, equipment checked before/during/after, basic first-aid knowledge and knowing the nearest medical centres (original target `staying-safe/staying-safe-while-exercising`) | Honduras Grade 9 HN G9 student, printed p. 141 |
+
+Honduras is added as student-book stock (see its book lines and rows above), inside the acceptance count — the Honduras student books stocked here are STUDENT books, so Honduras is named in the countries line and provenance rows and the acceptance count rises from 4 to 5 countries; the Grade 7 teacher guide rows are teacher-guide evidence only, outside the acceptance count. All six Honduras placements in this lesson were filed under the slug `staying-safe/staying-safe-while-exercising`, this lesson itself. Honduras's own way is content, as the book lines above record it: the guide adds the safety paperwork of Honduran school PE — a full personal anamnesis (health-history) record per student and explicit warning-sign instructions for the teacher during exercise.
+Searchable tags: staying safe while exercising, exercise precautions ጥንቃቄዎች, warm-up, cool-down, sport kit, injury prevention, safety check, Ethiopia HPE Grade 5, sports clothing, right clothes for sport, Tajikistan Physical Culture Grades 1-4, causes of accidents during practice, poor warm-up, inattention, Laos PE Teacher Guides Grades 8 and 9, safe engagement in activity, judging daily activity, intensity beyond your physical qualities, Haiti EPS Programmes Grades 7-9 and 10-13, MENFP, first-aid knowledge everywhere, emergencies at home school and play, Cyprus First Aid Grade 11, Πρώτες Βοήθειες, water and the exercising body, 3.5 litres a day, sweating cools the body, deliberate dehydration, exercising with diabetes asthma epilepsy haemophilia, Afghanistan G7 PE Teacher Guide Dari, Afghanistan G10 PE Teacher Guide Pashto, exercise and sports safety rules, 运动安全， China Senior High PEP PE & Health, suitable clothing and footwear for physical practice, El Salvador PE Guide Grades 1-3, Protejo mi salud en las prácticas físicas, warming up and relaxing Encendamos el motor, physical-activity pyramid, warning signs to stop exercise, personal anamnesis record ficha de anamnesis, hydration in exercise, outdoor activity risk prevention, Honduras Telebásica Grades 7 8 and 9

@@ -172,3 +172,22 @@ books (Педагог 6 *Биология и здравно образовани
 count rose by 1; the new lesson stands at acceptance count 1.
 Record 5 of the Bulgaria placements file is an UNREAD link
 lead with 0 placements, nothing stocked from it.
+
+The Health expansion then added (Honduras): no new lessons —
+23 placements stocked into existing lessons (Staying Safe
+While Exercising ×6, Preventing Sports Injuries and First
+Aid ×5, Hygiene for Sport ×2, The Body Systems ×2, Fair Play
+in Sport ×2, Diseases of Inactivity, Eating a Balanced Diet,
+Your Body in Exercise, Why Exercise Keeps You Healthy,
+Healthy Habits Every Day, Doping — What It Is and What It
+Costs) — this course stays at 47 lessons. The Honduras
+student books (Telebásica Grades 7, 8 and 9) are student-book
+stock, inside the acceptance counts; the Grade 7 and 8
+teacher guides are teacher-guide evidence only, outside the
+counts. Book R of the placements file is RECORD-ONLY —
+REJECTED for Honduras (a Mexico book, not Honduran, not
+Health) with 0 placements. One Honduras placement (Grade 9,
+printed p. 61 — basic nutrition rules for exercise) resolves
+to the PE course's Sports Nutrition and Hydration lesson and
+was excluded here; it is not yet stocked in PE either
+(verified by git grep on origin/main — see CURRICULUM.md).

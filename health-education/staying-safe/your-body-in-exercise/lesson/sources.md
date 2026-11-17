@@ -1,8 +1,8 @@
 # Sources — Your Body in Exercise
 
-countries: Jordan, Haiti, Rwanda, Oman
+countries: Jordan, Haiti, Rwanda, Oman, Honduras
 
-**Acceptance count: taught in 1 country.** Jordan is filed as student-book stock, inside the acceptance count, in this lesson. Haiti is filed as teacher-programme evidence only, outside the acceptance count. Rwanda is filed as teacher-guide evidence only, outside the acceptance count.
+**Acceptance count: taught in 1 country.** Jordan is filed as student-book stock, inside the acceptance count, in this lesson. Haiti is filed as teacher-programme evidence only, outside the acceptance count. Rwanda is filed as teacher-guide evidence only, outside the acceptance count. Honduras is added as teacher-guide evidence only (see its Honduras section below), outside the acceptance count.
 
 **Book 5 — التربية الرياضية — الصف السابع — الفصل الدراسي الثاني (Physical Education, Grade Seven, Second Semester) (student book, Arabic):**
 - Title as printed: التربية الرياضية — الصف السابع — الفصل الدراسي الثاني (Physical Education, Grade Seven, Second Semester)
@@ -61,4 +61,23 @@ Rwanda is added as teacher-guide evidence only (see its book line and row above)
 
 Oman is added as teacher-guide evidence only (see its book line and row above), outside the acceptance count — the Oman book is a TEACHER guide, so Oman is named in the countries line and provenance row but the acceptance count is unchanged (still taught in 1 country). The Oman placement was filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson `staying-safe/your-body-in-exercise` by registry Part 2B (HELD description: "Unit 6, Health Culture and Awareness — Changes in the Body during Sports Activity: the heart beats faster to pump blood to the working muscles, breathing quickens, and the body sweats; measuring the pulse"), and the original string is recorded in the provenance row above. Oman's own way is content, as the book line above records it: the Grade 2 health unit is the body itself — what happens inside the body during sports activity.
 
-Searchable tags: your body in exercise, sport and the respiratory system, respiratory organs, gas exchange, alveoli, oxygen to the blood, asthma risk, breathing exercises, Health Concepts and Habits, Jordan NCCD Physical Education Grade 7, body responses to exercise, rising heart rate, breathing rate, sweating, fatigue, scientific knowledge inside EPS, Haiti EPS Programme Grades 10-13, MENFP, role of physical exercise for the circulatory and respiratory systems, heart circulation and breathing, Rwanda Grade 5 PE Teacher Guide MK Publishers, changes in the body during sports activity, faster heart, faster breathing, sweating, measuring the pulse, Oman G2 Teacher Guide
+## Honduras — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/honduras-health-placements.md. The Honduras book stocked in this lesson is Book 3. Honduras is teacher-guide evidence only, outside the acceptance count, in this lesson. Book R of the placements file (LM-ESP1-2021.pdf) is RECORD-ONLY — REJECTED for Honduras: the mirror's whole 2021 series is MEXICO (a Spanish-language book, LM-ESP1), not a Honduran book and not a Health book, with 0 placements; nothing is stocked from it. One Honduras placement was NOT stocked in this course because the Health slug registry resolves it to a PE-course lesson: Book 4 (HN G9 student), Bloque II Secuencia 1, printed p. 61 — basic nutrition rules for exercise — resolves to PE canonical `fitness-and-stretching/sports-nutrition-and-hydration`; it is excluded here, and a git grep on origin/main confirms it is NOT yet stocked in the PE course (the PE lesson exists but carries no Honduras rows) — it belongs to a PE fix-up.
+
+**Book — Honduras Grade 7 (teacher guide):**
+## Book 3 — HN G7 teacher guide, Telebásica (teacher guide, Spanish)
+- Title as printed: Guía del Docente — Educación Física, 7mo Grado
+- Grade: 7 (student/teacher: TEACHER)
+- Publisher: Secretaría de Educación de Honduras / TELEBÁSICA; author Karen Lizeth Mendoza Lobo; no ISBN printed in the front matter read
+- PDF pages: 196 (cover verified against the record)
+- Verdict: COMPLETE
+- Tally: 5 placements — 3 to existing lessons, 2 NEW LESSON NEEDED (both HELD)
+- Honduras's own way: the guide adds the safety paperwork of Honduran school PE — a full personal anamnesis (health-history) record per student and explicit warning-sign instructions for the teacher during exercise.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras — Bloque II Secuencia 2 — muscle fatigue: the chronic fatigue syndrome that appears when the muscles and organs cannot adapt to continuous maximum demand (body-in-exercise material that fits neither Health title) (teacher guide — evidence) (original string `staying-safe/HELD-title-decision`) | Honduras Grade 7 HN G7 teacher guide, printed p. 110 (teacher guide — evidence) |
+
+Honduras is added as teacher-guide evidence only (see its book line and row above), outside the acceptance count — Book 3 is a TEACHER guide, so Honduras is named in the countries line and provenance row but the acceptance count is unchanged (still taught in 1 country). The Honduras placement was filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson `staying-safe/your-body-in-exercise` by registry Part 2B, and the original string is recorded in the provenance row above.
+Searchable tags: your body in exercise, sport and the respiratory system, respiratory organs, gas exchange, alveoli, oxygen to the blood, asthma risk, breathing exercises, Health Concepts and Habits, Jordan NCCD Physical Education Grade 7, body responses to exercise, rising heart rate, breathing rate, sweating, fatigue, scientific knowledge inside EPS, Haiti EPS Programme Grades 10-13, MENFP, role of physical exercise for the circulatory and respiratory systems, heart circulation and breathing, Rwanda Grade 5 PE Teacher Guide MK Publishers, changes in the body during sports activity, faster heart, faster breathing, sweating, measuring the pulse, Oman G2 Teacher Guide, muscle fatigue chronic fatigue syndrome continuous maximum demand, Honduras Telebásica Grade 7 teacher guide
