@@ -1,6 +1,6 @@
 # Sources — Conflict over Resources — What Conflict Is
 
-countries: Ethiopia, Bahamas, Eritrea, Kuwait, Belarus, Fiji
+countries: Ethiopia, Bahamas, Eritrea, Kuwait, Belarus, Fiji, South Sudan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (placement 71).
 
@@ -55,3 +55,22 @@ Kuwait's own way (Kuwait Grade 8 Social Studies G8 T2): Term 2 is the challenges
 Belarus's own way (Grade 9): The civics track is the pupil's own state and law read from inside — "our state" is taught straight from the 1994 Constitution of the Republic of Belarus (unitary, democratic, social, law-governed; the people as the only source of power; the 1996 referendum; the 1999 Union treaty with Russia), rights are taught article by article from that Constitution (Arts. 1–3, 21–25, 30, 41–49, 53, 59–62) beside the Universal Declaration, and the course closes not with a test but with a discussion, "I — a citizen of the Republic of Belarus", on the citizen's own responsibility before the state.
 
 PARTIAL note, carried exactly as filed: the Grade 9 book is a PARTIAL read — printed pp. 4–85 are missing from the scan; every provenance row from that book above keeps the PARTIAL label, exactly as filed.
+
+South Sudan placements — Social Studies remaining strands (2026-11-17):
+
+**Book 7:** *Primary Social Studies 4 Pupil's Book* (student book, English) — Title as printed: Primary Social Studies 4 Pupil's Book Grade: Primary 4 (student/teacher: STUDENT) Publisher: Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed PDF pages: 85 (cover verified against the record title; 11,123,378 bytes, grab SHA/size verified; image-only body, remaining units read from 100-DPI page renders) Earlier waves: Geography wave placed Unit 2 weather/climate and Unit 3 map reading / History wave placed Unit 1 technology and Unit 4's peoples and origin stories, printed pp. 1–17, 58–62 / Economics wave placed Unit 3 Interesting industry, printed pp. 40–54 Verdict: COMPLETE Contents map: Integrated SS pp. 58–67 (Unit 4 Stories and symbols); Civics/Citizenship/Government pp. 65–67 (laws), 68–79 (Unit 5 Avoiding conflicts); Morals/Values pp. 74–79 (peer pressure, right and wrong); Geography pp. 18–39, 55–57; History pp. 1–17, 58–62; Economics pp. 40–54; Religion pp. 63–64 (religious practices and symbols — named, not placed) Tally: 10 placements — 7 to existing lessons, 3 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/south-sudan-placements.md.
+
+**Book 15:** *Primary Social Studies 8 Pupil's Book* (student book, English) — Title as printed: Primary Social Studies 8 Pupil's Book Grade: Primary 8 (student/teacher: STUDENT) Publisher: Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed PDF pages: 92 (title page verified against the record title; 16,029,313 bytes, grab SHA/size verified; this record's repo file sits at the nonstandard flat path grade-08/gov/south-sudan/social-studies/full-year-student.pdf — a library debt already named by earlier waves) Earlier waves: Geography wave placed Unit 2 Climate change / History wave placed Unit 1 The coming of Europeans into Africa / Economics wave placed Unit 3 Exploring farming systems Verdict: COMPLETE Contents map: Civics/Citizenship/Government pp. 54–77 (Unit 4 National unity), 78–87 (Unit 5 Peace in our time); Morals/Values pp. 69–73; Geography pp. 19–37; History pp. 1–18; Economics pp. 38–53 Tally: 16 placements — 6 to existing lessons, 10 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — resources-and-conflict/what-conflict-is — Unit 5 Avoiding conflicts — teaches: a conflict is a serious argument between two or more people that leads to a fight — South Sudan Primary 4 P4 Social Studies SB, printed p. 68 | South Sudan, *Primary Social Studies 4 Pupil's Book* (student book), Unit 5 Avoiding conflicts — printed p. 68 |
+| South Sudan part — resources-and-conflict/what-conflict-is — Unit 5 Activity 1 Definitions — teaches: peace is a state or period in which there is no war and suffering; conflict is a disagreement between two individuals or groups; conflict resolution is the act of re-establishing good relationship after a disagreement — South Sudan Primary 8 P8 Social Studies SB, printed p. 78 | South Sudan, *Primary Social Studies 8 Pupil's Book* (student book), Unit 5 Activity 1 Definitions — printed p. 78 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Bahamas, Eritrea, Kuwait, Belarus, Fiji, South Sudan).**
+
+South Sudan's own way (Book 7): Law enters as the rules each community governs itself by, with arrest and the court as its pictures; the moral half of the conflict unit is a right/wrong table judged by community eyes — gossiping and not greeting elders are wrongs alongside stealing — and the unit closes on resisting negative peer pressure, with drug abuse named as the Health-course part (named here, not placed).
+
+South Sudan's own way (Book 15): The final primary book is a civics of unity for a country at war with itself — power sharing is taught from the 2016 Transitional Government of National Unity cabinet photograph, the constitution's Section 33 equality clause is quoted in full, and Kenya's 2007–08 crisis and Kofi Annan's mediation are the worked example of how a neighbour's unity process shapes South Sudan's own.
+
+Searchable tags: conflict over resources — what conflict is, South Sudan, social studies, resources-and-conflict

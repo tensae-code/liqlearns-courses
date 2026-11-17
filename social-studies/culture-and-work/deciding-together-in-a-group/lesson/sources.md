@@ -1,6 +1,6 @@
 # Sources — Deciding Together in a Group
 
-countries: Samoa, Ecuador, Turkey, North Macedonia, Papua New Guinea
+countries: Samoa, Ecuador, Turkey, North Macedonia, Papua New Guinea, South Sudan
 
 **Book 1:** *Social Studies — Year 9 Book One* (student book, English) — Title as printed: Social Studies — Year 9 Book One. Grade: Year 9 (student/teacher: STUDENT). Publisher: Ministry of Education, Sports and Culture, Samoa; year 2004 (reprint of 2001); ISBN 982-517-008-5. PDF pages: 84 (cover/title page verified against the record title; MESC copy, size 12,715,801 B per download list). Read from the MESC ministry source URL recorded in the books.json record — the same MESC PDF the Geography wave verified byte-for-byte against the record and already secured in GitHub (in_pushed: true) — via the browser text route, cover/title page and ISBN checked against the record before reading; no file staged — the book is already in GitHub, as filed in samoa-placements.md. Earlier waves: Geography wave placed Units 1–3 (resources/economic activities, printed pp. 5–56); History wave placed two history story-parts inside Unit 4 Topic 4 "Tonga" (settlement, Tupou I) and Unit 3 heritage activities; Economics wave placed Units 1–3. Unit 4's groups/village-organisation/kautaha/Tonga-political-system teaching was named "Civics, not placed" by both Geography and History waves — read and placed here. Verdict: COMPLETE. Contents map: Integrated SS pp. 57–83 (Unit 4 Being Part of a Group); Civics/Citizenship/Government pp. 75–83 (Topic 6 The Political System of Tonga); Geography pp. 5–26; History pp. 71–72 (inside Topic 4); Economics pp. 27–56. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/samoa-placements.md.
 
@@ -69,3 +69,18 @@ Registry note: the original coined string `culture-and-work/deciding-together-ma
 
 Papua New Guinea's own way (teacher guide — evidence) (Social Science TG Grade 5): Grade 5 turns from the community's workers to its decisions — who decides in the family, the clan, the village court and the Local Level Government — and to the many societies of PNG, matrilineal and patrilineal, highlands and coast.
 
+South Sudan placements — Social Studies remaining strands (2026-11-17):
+
+**Book 3:** *Primary Social Studies 2 Pupil's Book* (student book, English) — Title as printed: Primary Social Studies 2 Pupil's Book Grade: Primary 2 (student/teacher: STUDENT) Publisher: Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed PDF pages: 83 (cover verified against the record title; 5,750,290 bytes via the mid-size-books release asset, size verified; image-only book, remaining units read from 100-DPI page renders) Earlier waves: Geography wave placed Units 1–3 (changes in our place, land features, jobs, maps), printed pp. 1–54 / History wave placed Unit 1 objects/events of long ago and Unit 4's origin of a community and rituals/ceremonies, printed pp. 12–16, 58–61 / Economics wave placed Unit 3's taught economics, printed pp. 51–52 Verdict: COMPLETE Contents map: Integrated SS pp. 55–67 (Unit 4 Our community); Civics/Citizenship/Government pp. 62–63 (voting, swearing-in), 76–77 (human rights); Morals/Values pp. 61, 64–77 (working together; Unit 5 Time to decide); Geography pp. 21–54; History pp. 1–20, 58–61; Economics pp. 40–52 Tally: 8 placements — 2 to existing lessons, 6 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — culture-and-work/deciding-together-as-a-group — Unit 5: making decisions together — teaches: sometimes we need other people to help us make decisions; for people to decide together they need to agree, to know the effects of their decisions, and to be ready for the result — South Sudan Primary 2 P2 Social Studies SB, printed p. 72 | South Sudan, *Primary Social Studies 2 Pupil's Book* (student book), Unit 5: making decisions together — printed p. 72 |
+
+**Acceptance count: taught in 5 countries (Samoa, Ecuador, Turkey, North Macedonia, South Sudan).**
+
+South Sudan's own way (Book 3): A community is defined by common interests across different traditions and languages, with peace promoted inside the definition itself; civic life appears at age 7 as a ballot box and a president's swearing-in photograph, and decision-making is taught as a citizen's skill that ends in human rights and peaceful living.
+
+Registry note: the original coined string `culture-and-work/deciding-together-as-a-group` is recorded in the provenance rows above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/deciding-together-in-a-group`.
+
+Searchable tags: deciding together in a group, South Sudan, social studies, culture-and-work

@@ -1,6 +1,6 @@
 # Sources — Conflict — Interpersonal, Intergroup, International
 
-countries: Ethiopia, Colombia
+countries: Ethiopia, Colombia, South Sudan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (placement 73).
 
@@ -33,3 +33,21 @@ Colombia's own way (Book 3): citizenship is taught from the child's own standing
 
 Colombia's own way (Book 22): civics is taught through the political life of origin peoples — their assemblies, authorities and norms are treated as real political systems, and pupils are asked what indigenous participation and democracy can teach their own region's democratic exercises.
 
+South Sudan placements — Social Studies remaining strands (2026-11-17):
+
+**Book 8:** *Primary Social Studies 4 Teacher's Guide* (teacher guide, English) — Title as printed: Primary Social Studies 4 Teacher's Guide Grade: Primary 4 (student/teacher: TEACHER) Publisher: Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed PDF pages: 88 (cover verified against the record title; 2,805,593 bytes, grab SHA/size verified) Earlier waves: Geography wave placed the guide's geography teaching / History wave placed 2 history placements / Economics wave placed 4 placements (Unit 3 industry guidance) Verdict: COMPLETE (guide for the full pupil's book; only the guide's own added teaching in Units 4–5 is placed, below — the rest mirrors Book 7) Contents map: Integrated SS guide pp. 51–65 (Unit 4 Stories and symbols); Civics/Citizenship/Government guide pp. 61–65 (laws), 66–84 (Unit 5 Avoiding conflict); Geography guide pp. 14–35, 48–50; History guide pp. 1–13, 51–65; Economics guide pp. 36–47 Tally: 2 placements — 2 to existing lessons, 0 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/south-sudan-placements.md. Teacher guide — evidence only, outside the acceptance count.
+
+**Book 13:** *Primary Social Studies 7 Pupil's Book* (student book, English) — Title as printed: Primary Social Studies 7 Pupil's Book Grade: Primary 7 (student/teacher: STUDENT) Publisher: Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed PDF pages: 130 (cover verified against the record title; 5,009,200 bytes, grab SHA/size verified) Earlier waves: Geography wave placed Unit 2 Exploring physical features / History wave placed Unit 1 The rise and fall of civilisation / Economics wave placed Unit 3 Mining in South Sudan and its Activity 8 on regional bodies Verdict: COMPLETE Contents map: Civics/Citizenship/Government pp. 83–99 (Unit 4 Promotion of gender equality), 100–122 (Unit 5 Just and fair society); Morals/Values pp. 100–107; Geography pp. 22–48; History pp. 1–21; Economics pp. 49–81 Tally: 15 placements — 8 to existing lessons, 7 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — resources-and-conflict/three-kinds-of-conflict — Unit 5 overview: grouping conflicts into types — teaches: the guide adds a typology the pupil's book does not state — pupils group the conflicts they know into types (law breaking, lies, greed, misunderstandings, individual versus group) and then learn common ways of solving problems from distinguished people in their community — South Sudan Primary 4 P4 Social Studies TG, printed p. 66 (teacher guide — evidence) | South Sudan, *Primary Social Studies 4 Teacher's Guide* (teacher guide), Unit 5 overview: grouping conflicts into types — printed p. 66 |
+| South Sudan part — resources-and-conflict/three-kinds-of-conflict — Activity 8 Conflicts and types of conflict — teaches: conflict is a series of disagreements between people with different views, and its three types are individual versus individual, community versus community, and nation versus nation — South Sudan Primary 7 P7 Social Studies SB, printed p. 108 | South Sudan, *Primary Social Studies 7 Pupil's Book* (student book), Activity 8 Conflicts and types of conflict — printed p. 108 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Colombia, South Sudan).** South Sudan's teacher-guide parts are evidence only, counted nowhere in addition — South Sudan counts through its student-book parts.
+
+South Sudan's own way (Book 8) (teacher guide — evidence): The guide turns the law lesson into two working lists — laws that govern how we live (clean food storage, traffic laws, respect your elders, no stealing) and laws in school (obey the bell, no fighting, respect teachers) — and states plainly that the laws in the communities and the states are the same, including respect for the constitution.
+
+South Sudan's own way (Book 13): Gender equality is argued from South Sudanese lives — an elder who educates his daughters against tradition, and four named women leaders — and peace itself is put in women's hands: the book prints the view that gender equality is a tool that can end South Sudan's civil war.
+
+Searchable tags: conflict — interpersonal, intergroup, international, South Sudan, social studies, resources-and-conflict

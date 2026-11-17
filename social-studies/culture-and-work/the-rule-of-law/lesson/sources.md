@@ -1,6 +1,6 @@
 # Sources — The Rule of Law
 
-countries: China, India, Cambodia, Jordan
+countries: China, India, Cambodia, Jordan, South Sudan
 
 **Book 1:** *思想政治必修3 政治与法治 (Ideological & Political, Compulsory 3: Politics and Rule of Law)* (student book, Chinese) — Title as printed: 普通高中教科书 思想政治 必修3 政治与法治. Grade: Senior high (filed grade-12) (student/teacher: STUDENT). Publisher: 人民教育出版社 (People's Education Press), Beijing, compiled by the Ministry of Education (教育部组织编写); chief editor Zhang Yibin (张异宾), volume editors Liu Jianjun (刘建军) and Zhu Liyu (朱力宇); year 2019 first edition (2019 统编 seal on cover), this scan a later printing carrying material to 2021 (the 2021–2025 rule-of-law government outline in Lesson 8); ISBN 978-7-107-24394-3 (read from the back-cover barcode). PDF pages: 122 (cover verified — 思想政治 必修3 政治与法治 over the Great Hall of the People ceiling lights and red star matches the record; byte size 7,190,119 matches the books.json record exactly; the tensae-code textbooks repo was checked by authenticated GitHub API curl and returns 404 for this file, and no copy sat on disk in staging, so the book was read from its recorded source_url, the kyohwang/ChinaTextbook PEP collection — the same route as Books 1–5 — and staged beside its record, below). Earlier waves: not read before (Geography/History/Economics waves held no record of this book; the cn-ki reader of Books 1–5 flagged it in its log as the map gap this add-on closes). Verdict: COMPLETE. Contents map: Civics/Citizenship/Government (China's own system taught as its own way) printed pp. 1–113 entire — Unit 1 中国共产党的领导 (the Party's leadership) pp. 1–34; Unit 2 人民当家作主 (the people as masters of the country) pp. 35–72; Unit 3 全面依法治国 (comprehensive rule of law) pp. 73–113; History pp. 2–14 (the pre-1949 political forces and the stand-up / grow-rich / become-strong narrative inside Lessons 1–2 — named here; it is taught as the ground of the Party's leadership and is placed with the civics lessons it serves, not as history). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/china-placements.md.
 
@@ -57,3 +57,17 @@ Jordan placements — Social Studies remaining strands (2026-11-17):
 Jordan's own way (Book 14): media is taught as a citizen's defence — content, misinformation, rumours and social media in one unit — and government as Jordan's own constitutional story, ending in the rule of law and integrity.
 
 Searchable tags: the rule of law, Jordan, social studies, culture-and-work
+
+South Sudan placements — Social Studies remaining strands (2026-11-17):
+
+**Book 15:** *Primary Social Studies 8 Pupil's Book* (student book, English) — Title as printed: Primary Social Studies 8 Pupil's Book Grade: Primary 8 (student/teacher: STUDENT) Publisher: Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed PDF pages: 92 (title page verified against the record title; 16,029,313 bytes, grab SHA/size verified; this record's repo file sits at the nonstandard flat path grade-08/gov/south-sudan/social-studies/full-year-student.pdf — a library debt already named by earlier waves) Earlier waves: Geography wave placed Unit 2 Climate change / History wave placed Unit 1 The coming of Europeans into Africa / Economics wave placed Unit 3 Exploring farming systems Verdict: COMPLETE Contents map: Civics/Citizenship/Government pp. 54–77 (Unit 4 National unity), 78–87 (Unit 5 Peace in our time); Morals/Values pp. 69–73; Geography pp. 19–37; History pp. 1–18; Economics pp. 38–53 Tally: 16 placements — 6 to existing lessons, 10 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — culture-and-work/the-rule-of-law — Activity 6 Rule of law — teaches: the rule of law is the restriction of the arbitrary exercise of power by subordinating it to well-defined and established laws; its principles are fair laws accepted by all, respect for all members of society, equal development of every part of the country, good governance, a form of government accepted by the people, and equal access to economic opportunities — and peace brings development, stability, investors, unity and equal services — South Sudan Primary 8 P8 Social Studies SB, printed p. 85 | South Sudan, *Primary Social Studies 8 Pupil's Book* (student book), Activity 6 Rule of law — printed p. 85 |
+
+**Acceptance count: taught in 5 countries (China, India, Cambodia, Jordan, South Sudan).**
+
+South Sudan's own way (Book 15): The final primary book is a civics of unity for a country at war with itself — power sharing is taught from the 2016 Transitional Government of National Unity cabinet photograph, the constitution's Section 33 equality clause is quoted in full, and Kenya's 2007–08 crisis and Kofi Annan's mediation are the worked example of how a neighbour's unity process shapes South Sudan's own.
+
+Searchable tags: the rule of law, South Sudan, social studies, culture-and-work

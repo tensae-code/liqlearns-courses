@@ -1,6 +1,6 @@
 # Sources — Helping with Housework Without Being Asked
 
-countries: Cuba, Bahamas, Syria, Vietnam
+countries: Cuba, Bahamas, Syria, Vietnam, South Sudan
 
 **Book 1:** *El mundo en que vivimos — tercer grado* (student book, Spanish) — Title as printed: El mundo en que vivimos — tercer grado. Grade: Grade 3 (student/teacher: STUDENT). Publisher: Editorial Pueblo y Educación (MINED's publisher; authors M. Sc. Neris Esther Domínguez Oliva, Rosario Leal Arroyo, Zoila Ester Durán Aulet, Alfonso Cok Carballo, Zoraida Almerall Rueda, Addys Ramos Hernández); year: no year printed in the file; ISBN: no ISBN printed in the file. PDF pages: 258 (cover verified: title and grade as printed, school scene with Cuban flag). LIBRARY DEBT: the record says this book is pushed in GitHub, but grab.py tree returned HTTP 404 — a phantom push; the book was read instead from its recorded source (biblioteca.cubaeduca.cu) and the staged copy is listed in the group log. Earlier waves: the geography-wave Cuba file filed the MINED "Programa" documents RECORD-ONLY; no earlier wave placed any of these books' civics/SS strands. Verdict: COMPLETE for the remaining strands — contents mapped first, then every remaining-strand part read in full (Presentación pp. 1–5; Unidad 4 "Comportamiento social" pp. 236–241). Named-not-placed: Unidad 2 El Sol, la Tierra, la Luna, el aire, el agua y el suelo (Science); Unidad 3 Los seres vivos incl. the human body, table manners and pregnancy care (Science/Health); Unidad 4's province survey — coasts, relief, rivers, the 15 provinces and special municipality (Geography); the efemérides and Moncada/Fidel content (History); Glosario p. 243 (inventory only). Contents map: Presentación — Las brigadas protectoras de la naturaleza pp. 1–5 (Civics — care of shared places); Unidad 1 Descubriendo el mundo en que vivimos pp. 6–48 (Science, with humans' transformation of nature and responsible behaviour towards it); Unidad 2 pp. 49–97 (Science); Unidad 3 Los seres vivos pp. 98–150 (Science/Health); Unidad 4 ¡Cuba qué linda es! pp. 151–241 (Geography/History, closing chapter Comportamiento social pp. 236–241 = Civics — social behaviour, symbols, transport and traffic, care of the home place). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/cuba-placements.md.
 
@@ -46,3 +46,19 @@ Vietnam placements — Social Studies remaining strands (2026-11-17):
 **Acceptance count: taught in 4 countries (Cuba, Bahamas, Syria, Vietnam).**
 
 Vietnam's own way (Book 1): Đạo đức (Ethics) is Vietnam's standalone primary moral-education subject; every lesson runs the same four moves — a song to open, picture stories to explore, practice pictures to judge, a role-play to apply — and closes with a two-line rhyme that states the duty; the family is taught three-generational (ông bà – cha mẹ – anh chị em) and school rules are taught as the child's first shared rules.
+
+South Sudan placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *Primary Social Studies 1 Pupil's Book* (student book, English) — Title as printed: Primary Social Studies 1 Pupil's Book Grade: Primary 1 (student/teacher: STUDENT) Publisher: Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed PDF pages: 80 (cover/title page verified against the record title; 1,950,088 bytes, grab SHA/size verified via curl route — grab.py's urllib route was dropped by the proxy, same API and verification) Earlier waves: Geography wave placed Unit 2 neighbourhood/features and Unit 3 maps, printed pp. 25–49 / History wave placed Unit 1 family members, family change, family history and objects at home/school, printed pp. 1–13, 18–24 / Economics wave placed nothing (record-only: Unit 4 only names jobs from pictures) Verdict: COMPLETE Contents map: Integrated SS pp. 1–17 (family roles), 50–63 (working together); Civics/Citizenship/Government pp. 64–76 (problem solving: safety, peace); Morals/Values pp. 58–60, 71–73 (duties, keeping peace); Geography pp. 25–49; History pp. 1–13, 18–24 Tally: 8 placements — 2 to existing lessons, 6 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — first-steps/helping-at-home-and-at-school — Activity 6 Helping at home and school — teaches: a duty is a task one is expected to do; children name and draw their own duties at home and at school — South Sudan Primary 1 P1 Social Studies SB, printed p. 58 | South Sudan, *Primary Social Studies 1 Pupil's Book* (student book), Activity 6 Helping at home and school — printed p. 58 |
+
+**Acceptance count: taught in 5 countries (Cuba, Bahamas, Syria, Vietnam, South Sudan).**
+
+South Sudan's own way (Book 1): Community is learned through Okot's own family and compound first — children's duties include looking after cattle and younger siblings, safety means fencing the home and reporting thieves to the police, and peace is taught as class-made rules against fighting plus a peace song in the mother tongue.
+
+Registry note: the original coined string `first-steps/helping-at-home-and-at-school` is recorded in the provenance rows above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/helping-with-housework-without-being-asked`.
+
+Searchable tags: helping with housework without being asked, South Sudan, social studies, first-steps

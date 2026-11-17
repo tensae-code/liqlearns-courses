@@ -1,6 +1,6 @@
 # Sources — Special Places in Our Village and Community
 
-countries: Fiji, Ecuador, Rwanda, Cambodia
+countries: Fiji, Ecuador, Rwanda, Cambodia, South Sudan
 
 **Book 1:** *Social Studies Year 4 (Re-edited Version 2017)* (student book, English) — Fiji, Ministry of Education, Heritage & Arts, Curriculum Development Unit; year 2017 (re-edited); ISBN no ISBN printed. Title as printed: Social Studies Year 4 (Re-edited Version 2017). Grade: Year 4 (student/teacher: STUDENT). PDF pages: 66 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: read from the books.json record's own Wayback source_url (ministry original) after the grab.py GitHub API route failed as in Book 1. Non-Geography parts named, not placed: Strand 1 Social Organisation and Processes — 1.1–1.10 Friends, neighbours and cultural/religious events in our communities (printed pp. 4–31); Strand 2 Time, Continuity and Change — 2.1–2.7 Continuity, change, progress, significant people, studying the past, my village/community history (printed pp. 32–40). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
 
@@ -44,3 +44,16 @@ Cambodia placements — Social Studies remaining strands (2026-11-17):
 
 Cambodia's own way (Cambodia Grade 3 Science–Social G3): community living is taught as habits — caring for each other and for the people around — and the safety lessons carry Cambodia's own reality, including keeping safe in areas with landmines; the book ends by widening to the national flag. That way is stocked here as the way Cambodia teaches this thing.
 
+South Sudan placements — Social Studies remaining strands (2026-11-17):
+
+**Book 3:** *Primary Social Studies 2 Pupil's Book* (student book, English) — Title as printed: Primary Social Studies 2 Pupil's Book Grade: Primary 2 (student/teacher: STUDENT) Publisher: Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed PDF pages: 83 (cover verified against the record title; 5,750,290 bytes via the mid-size-books release asset, size verified; image-only book, remaining units read from 100-DPI page renders) Earlier waves: Geography wave placed Units 1–3 (changes in our place, land features, jobs, maps), printed pp. 1–54 / History wave placed Unit 1 objects/events of long ago and Unit 4's origin of a community and rituals/ceremonies, printed pp. 12–16, 58–61 / Economics wave placed Unit 3's taught economics, printed pp. 51–52 Verdict: COMPLETE Contents map: Integrated SS pp. 55–67 (Unit 4 Our community); Civics/Citizenship/Government pp. 62–63 (voting, swearing-in), 76–77 (human rights); Morals/Values pp. 61, 64–77 (working together; Unit 5 Time to decide); Geography pp. 21–54; History pp. 1–20, 58–61; Economics pp. 40–52 Tally: 8 placements — 2 to existing lessons, 6 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — first-steps/special-places-in-our-village-and-community — Unit 4: places in our community (picture riddles) — teaches: the community's special places are found by what happens there — people pray at the church, are treated at the hospital, learn to read and write at school, and report their cases at the police post — South Sudan Primary 2 P2 Social Studies SB, printed p. 57 | South Sudan, *Primary Social Studies 2 Pupil's Book* (student book), Unit 4: places in our community (picture riddles) — printed p. 57 |
+
+**Acceptance count: taught in 5 countries (Fiji, Ecuador, Rwanda, Cambodia, South Sudan).**
+
+South Sudan's own way (Book 3): A community is defined by common interests across different traditions and languages, with peace promoted inside the definition itself; civic life appears at age 7 as a ballot box and a president's swearing-in photograph, and decision-making is taught as a citizen's skill that ends in human rights and peaceful living.
+
+Searchable tags: special places in our village and community, South Sudan, social studies, first-steps

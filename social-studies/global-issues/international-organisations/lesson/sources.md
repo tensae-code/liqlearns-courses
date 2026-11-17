@@ -1,6 +1,6 @@
 # Sources — International Organisations
 
-countries: North Macedonia, Costa Rica, Sierra Leone, Bahamas, Bhutan, Tanzania, Mexico, Fiji, Bangladesh, Palestine, Sri Lanka, Cambodia, Jordan
+countries: North Macedonia, Costa Rica, Sierra Leone, Bahamas, Bhutan, Tanzania, Mexico, Fiji, Bangladesh, Palestine, Sri Lanka, Cambodia, Jordan, South Sudan
 
 **Book 1:** *Географија за I година гимназиско образование (Geography for Year 1 of gymnasium education)* (student book, Macedonian) — North Macedonia, Тримакс (Trimaks), Skopje; year 2025; ISBN 978-608-204-519-1; author Prof. Dr. Blagoja Markoski; approved by the National Textbook Commission, decision 26-936/1 of 26.08.2025. Title as printed: Географија за I година гимназиско образование (Geography for Year 1 of gymnasium education). Grade: Grade 10 / gymnasium Year 1 (student/teacher: STUDENT). PDF pages: 128 (cover/title verified against the record; matches the record's 128 pages). Verdict: COMPLETE. Records note: 11 records / 6 distinct books (2 TSV blob records for Grades 7 and 9 + 6 books.json records for Grades 7–12, of which Grades 7 and 9 duplicate the TSV records; plus 3 link_records from Telegram for Grades 8, 11 and 12, which are the same 3 books as the books.json Grade 8/11/12 records) / Grades 7, 9, 10 read full page-by-page via pdftotext -layout after cover verification (fetched by git sparse-checkout from the repo tree — the API routes truncated every transfer over ~21 MB, git transport verified the blobs itself). Grades 8, 11, 12 filed UNREAD: their files are NOT in the repo tree (verified by git ls-tree on main), NOT in any GitHub release (all 12 release tags searched), their phase3-staging geography/student folders are empty, the ministry source URLs now return 404, and Wayback holds no snapshot of the Macedonian Grade 8/11/12 editions — the only remaining copy is the Telegram channel named in the link records, which needs a Telegram browser task. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/north-macedonia-placements.md.
 
@@ -148,3 +148,17 @@ Jordan placements — Social Studies remaining strands (2026-11-17):
 Jordan's own way (Book 15): human rights are taught as a ladder of charters — the UN, the international bill, the Arab charter — landing at last in Jordan's own legislation; and the media unit ends on public opinion, the citizen's collective voice.
 
 Searchable tags: international organisations, Jordan, social studies, global-issues
+
+South Sudan placements — Social Studies remaining strands (2026-11-17):
+
+**Book 15:** *Primary Social Studies 8 Pupil's Book* (student book, English) — Title as printed: Primary Social Studies 8 Pupil's Book Grade: Primary 8 (student/teacher: STUDENT) Publisher: Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed PDF pages: 92 (title page verified against the record title; 16,029,313 bytes, grab SHA/size verified; this record's repo file sits at the nonstandard flat path grade-08/gov/south-sudan/social-studies/full-year-student.pdf — a library debt already named by earlier waves) Earlier waves: Geography wave placed Unit 2 Climate change / History wave placed Unit 1 The coming of Europeans into Africa / Economics wave placed Unit 3 Exploring farming systems Verdict: COMPLETE Contents map: Civics/Citizenship/Government pp. 54–77 (Unit 4 National unity), 78–87 (Unit 5 Peace in our time); Morals/Values pp. 69–73; Geography pp. 19–37; History pp. 1–18; Economics pp. 38–53 Tally: 16 placements — 6 to existing lessons, 10 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — global-issues/international-organisations — Activity 2 National and international bodies — teaches: bodies formed by independent states to promote international peace and security — the United Nations, African Union, Transparency International and the Commonwealth are the examples; their roles are promoting peace and security, preventing wars, developing friendly relations, protecting minority groups, promoting cultural interaction and economic development — with discussion of what the UN has done for peace in South Sudan — South Sudan Primary 8 P8 Social Studies SB, printed p. 79 | South Sudan, *Primary Social Studies 8 Pupil's Book* (student book), Activity 2 National and international bodies — printed p. 79 |
+
+**Acceptance count: taught in 12 countries (North Macedonia, Costa Rica, Bahamas, Tanzania, Mexico, Fiji, Bangladesh, Palestine, Sri Lanka, Cambodia, Jordan, South Sudan).**
+
+South Sudan's own way (Book 15): The final primary book is a civics of unity for a country at war with itself — power sharing is taught from the 2016 Transitional Government of National Unity cabinet photograph, the constitution's Section 33 equality clause is quoted in full, and Kenya's 2007–08 crisis and Kofi Annan's mediation are the worked example of how a neighbour's unity process shapes South Sudan's own.
+
+Searchable tags: international organisations, South Sudan, social studies, global-issues

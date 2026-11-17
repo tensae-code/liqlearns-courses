@@ -1,6 +1,6 @@
 # Sources — Culture — symbols
 
-countries: Ethiopia, Sweden, Niue, Jamaica, Bahamas, Samoa, Venezuela, Kuwait, Jordan, Bhutan, Ecuador, Sri Lanka
+countries: Ethiopia, Sweden, Niue, Jamaica, Bahamas, Samoa, Venezuela, Kuwait, Jordan, Bhutan, Ecuador, Sri Lanka, South Sudan
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -120,3 +120,17 @@ Bhutan's own way (Bhutan Grade 5 Social Studies): Grade 5 spirals from the Earth
 Sri Lanka's own way (Sri Lanka Grade 6 Civic Education): civics starts inside the child's own school — its history, its people and their duties, its rules, symbols and the pupil's own rights — then widens to the region (the Grama Niladhari ladder up to the province, the officers and councils that serve it) and closes with the good citizen's virtues: polite speech, listening, discipline, telling good from bad, using resources frugally, guarding public property and preserving the local identity with pride.
 
 Searchable tags: culture — symbols, Sri Lanka, social studies, culture-and-work
+
+South Sudan placements — Social Studies remaining strands (2026-11-17):
+
+**Book 7:** *Primary Social Studies 4 Pupil's Book* (student book, English) — Title as printed: Primary Social Studies 4 Pupil's Book Grade: Primary 4 (student/teacher: STUDENT) Publisher: Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed PDF pages: 85 (cover verified against the record title; 11,123,378 bytes, grab SHA/size verified; image-only body, remaining units read from 100-DPI page renders) Earlier waves: Geography wave placed Unit 2 weather/climate and Unit 3 map reading / History wave placed Unit 1 technology and Unit 4's peoples and origin stories, printed pp. 1–17, 58–62 / Economics wave placed Unit 3 Interesting industry, printed pp. 40–54 Verdict: COMPLETE Contents map: Integrated SS pp. 58–67 (Unit 4 Stories and symbols); Civics/Citizenship/Government pp. 65–67 (laws), 68–79 (Unit 5 Avoiding conflicts); Morals/Values pp. 74–79 (peer pressure, right and wrong); Geography pp. 18–39, 55–57; History pp. 1–17, 58–62; Economics pp. 40–54; Religion pp. 63–64 (religious practices and symbols — named, not placed) Tally: 10 placements — 7 to existing lessons, 3 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — culture-and-work/culture-symbols — Unit 4 Stories and symbols: what a symbol is — teaches: symbols are images used to represent something — the book's examples are the cross on a church and the minaret on a mosque (the religious practices themselves, printed pp. 63–64, are the Religion strand, named here and not placed) — South Sudan Primary 4 P4 Social Studies SB, printed p. 58 | South Sudan, *Primary Social Studies 4 Pupil's Book* (student book), Unit 4 Stories and symbols: what a symbol is — printed p. 58 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, Sweden, Niue, Bahamas, Samoa, Venezuela, Kuwait, Jordan, Bhutan, Ecuador, Sri Lanka, South Sudan).**
+
+South Sudan's own way (Book 7): Law enters as the rules each community governs itself by, with arrest and the court as its pictures; the moral half of the conflict unit is a right/wrong table judged by community eyes — gossiping and not greeting elders are wrongs alongside stealing — and the unit closes on resisting negative peer pressure, with drug abuse named as the Health-course part (named here, not placed).
+
+Searchable tags: culture — symbols, South Sudan, social studies, culture-and-work

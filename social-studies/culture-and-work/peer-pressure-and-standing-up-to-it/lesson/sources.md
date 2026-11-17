@@ -1,6 +1,6 @@
 # Sources — Peer Pressure and Standing Up to It
 
-countries: Vanuatu, Rwanda
+countries: Vanuatu, Rwanda, South Sudan
 
 **Book 1:** *Citoyenneté Sociale, Guide Pédagogique, Années 1 à 6* (teacher guide, French) — Communauté du Pacifique (SPC) and Ministry of Education and Training, Government of Vanuatu; Suva, 2019; ISBN 978-982-00-1158-8; authors Carol Young and Bridget Glasgow with the Vanuatu Curriculum Development Unit. Title as printed: Citoyenneté Sociale — Guide Pédagogique, Années 1 à 6 (Social Citizenship — Teachers Guide, Years 1–6). Grade: Years 1–6 (student/teacher: TEACHER). PDF pages: 35 printed pages (read in full through the Pacific Data Hub's own page text, 2026-11-17: direct PDF download is blocked by the host's bot check — three routes tried: plain curl and browser-UA curl both returned the "Just a moment" challenge page; the hub's text fetch succeeded. No PDF file was obtained, so nothing is staged for this book). Earlier waves: not read before. Verdict: COMPLETE — civics-type teacher guide read in full; placements are the guide's own teaching content, marked TEACHER (the guide carries the themes' substance, not just pupil-book answers). Contents map: Civics/Citizenship/Morals pp. 1–29 (why teach social citizenship; themes T1–T3); learner-centred teaching strategies p. 30 (apparatus, not placed); Glossary p. 31 (inventory only, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/vanuatu-placements.md. Teacher guide — evidence only, outside the acceptance count.
 
@@ -28,3 +28,17 @@ Searchable tags: peer pressure and standing up to it, Vanuatu, social studies, c
 Rwanda's own way (Primary Five — Rwanda Grade 5 P5 SB): the province is the child's civic world — complementarity (everyone's work fitting together) is the organising value, and national symbols, the 2003/2015 constitution and province leadership are taught as Rwanda's own frame inside it
 
 Registry note: the original coined string `culture-and-work/peer-pressure-standing-up-for-good-behaviour` is recorded in the provenance rows above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/peer-pressure-and-standing-up-to-it`.
+
+South Sudan placements — Social Studies remaining strands (2026-11-17):
+
+**Book 7:** *Primary Social Studies 4 Pupil's Book* (student book, English) — Title as printed: Primary Social Studies 4 Pupil's Book Grade: Primary 4 (student/teacher: STUDENT) Publisher: Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed PDF pages: 85 (cover verified against the record title; 11,123,378 bytes, grab SHA/size verified; image-only body, remaining units read from 100-DPI page renders) Earlier waves: Geography wave placed Unit 2 weather/climate and Unit 3 map reading / History wave placed Unit 1 technology and Unit 4's peoples and origin stories, printed pp. 1–17, 58–62 / Economics wave placed Unit 3 Interesting industry, printed pp. 40–54 Verdict: COMPLETE Contents map: Integrated SS pp. 58–67 (Unit 4 Stories and symbols); Civics/Citizenship/Government pp. 65–67 (laws), 68–79 (Unit 5 Avoiding conflicts); Morals/Values pp. 74–79 (peer pressure, right and wrong); Geography pp. 18–39, 55–57; History pp. 1–17, 58–62; Economics pp. 40–54; Religion pp. 63–64 (religious practices and symbols — named, not placed) Tally: 10 placements — 7 to existing lessons, 3 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — culture-and-work/peer-pressure-and-standing-up-to-it — Unit 5: peer pressure — teaches: peer pressure is doing something because your friends are doing the same thing; it can be positive or negative, and the book's closing rule is to say no to negative peer pressure — South Sudan Primary 4 P4 Social Studies SB, printed p. 74 | South Sudan, *Primary Social Studies 4 Pupil's Book* (student book), Unit 5: peer pressure — printed p. 74 |
+
+**Acceptance count: taught in 2 countries (Rwanda, South Sudan).**
+
+South Sudan's own way (Book 7): Law enters as the rules each community governs itself by, with arrest and the court as its pictures; the moral half of the conflict unit is a right/wrong table judged by community eyes — gossiping and not greeting elders are wrongs alongside stealing — and the unit closes on resisting negative peer pressure, with drug abuse named as the Health-course part (named here, not placed).
+
+Searchable tags: peer pressure and standing up to it, South Sudan, social studies, culture-and-work

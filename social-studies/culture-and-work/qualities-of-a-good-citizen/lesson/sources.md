@@ -1,6 +1,6 @@
 # Sources — Qualities of a Good Citizen
 
-countries: Yemen, Eritrea, Angola
+countries: Yemen, Eritrea, Angola, South Sudan
 
 **Book 1:** *التربية الوطنية للصف السادس من مرحلة التعليم الأساسي (National Education for Grade 6 of Basic Education)* (student book, Arabic) — Republic of Yemen, Ministry of Education; year 1443 AH / 2021 CE (cover print); ISBN no ISBN printed. Title as printed: التربية الوطنية للصف السادس من مرحلة التعليم الأساسي (National Education for Grade 6 of Basic Education). Grade: 6 (student/teacher: STUDENT). PDF pages: 81 (cover/title page verified against the record title; 11,413,532 bytes, Wayback snapshot 20240711065747 of the recorded source_url). Earlier waves: not read before (no earlier wave held this civics book). Verdict: COMPLETE (full page-by-page read, civics track). Contents map: Integrated SS pp. 6–27 (Unit 1 the Yemeni family); Civics/Citizenship/Government pp. 40–58 (Unit 3 the Yemeni constitution); Morals/Values pp. 22–26 (family rights and duties), pp. 53–56 (qualities of the good citizen); Culture-in-society pp. 28–39 (Unit 2 the Yemeni tribe — its customs and its role in social peace); History pp. 59–77 (Unit 4 Yemeni figures: Imam al-Hadi ila al-Haqq, President Salih Ali al-Sammad, Jarallah Omar, the poet al-Hasan ibn Ali ibn Jabir al-Habal — named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/yemen-placements.md.
 
@@ -32,3 +32,17 @@ Angola placements — Social Studies remaining strands (2026-11-17):
 **Acceptance count: taught in 3 countries (Yemen, Eritrea, Angola).**
 
 Angola's own way (Book 3): a moral-and-civic book built on the child's own reflection — every unit opens with the pupil's own life (my habits, my family, my school) and only then names the rule; equality is taught straight from Angola's own Constitution (art. 23: all are equal before the Constitution and the law), and the book ends not on the state but on national reconciliation — building a better Angola, then a better world.
+
+South Sudan placements — Social Studies remaining strands (2026-11-17):
+
+**Book 9:** *Primary Social Studies 5 Pupil's Book* (student book, English) — Title as printed: Primary Social Studies 5 Pupil's Book Grade: Primary 5 (student/teacher: STUDENT) Publisher: Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed PDF pages: 79 (cover verified against the record title; 10,908,871 bytes, grab SHA/size verified) Earlier waves: Geography wave placed Unit 2 This is our land / History wave placed Unit 1 Past kingdoms / Economics wave placed Unit 1's economic organisation (printed p. 16) and Unit 4 Farming, and named Unit 3's tax line as not taught there — it is taught here as a citizen quality and placed below Verdict: COMPLETE Contents map: Civics/Citizenship/Government pp. 43–60 (Unit 3 Leaders and decision makers); Morals/Values pp. 43–51 (citizen and leader qualities); Geography pp. 21–42; History pp. 1–20; Economics pp. 16, 61–72; Health pp. 55–58 (Activity 8 HIV and AIDS and STIs — named, not placed; the Health course's) Tally: 8 placements — 5 to existing lessons, 3 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — culture-and-work/qualities-of-a-good-citizen — Unit 3 Activity 1 Qualities of a good citizen of South Sudan — teaches: a citizen is a person who has a right to belong to a particular country, and citizenship is that belonging in a legal way; a good citizen is respectful, loyal, honest and just, works hard, votes, promotes peace, defends the country, pays taxes, obeys the laws, helps in disasters with food, shelter and clothing, and conserves the environment — and good citizenship leads to a peaceful, united, clean community that can choose good leaders — South Sudan Primary 5 P5 Social Studies SB, printed p. 43 | South Sudan, *Primary Social Studies 5 Pupil's Book* (student book), Unit 3 Activity 1 Qualities of a good citizen of South Sudan — printed p. 43 |
+
+**Acceptance count: taught in 4 countries (Yemen, Eritrea, Angola, South Sudan).**
+
+South Sudan's own way (Book 9): Citizenship is taught as a sung list of duties — loyalty, voting, peace, defending the country, paying taxes, obeying laws, helping in disasters — and leadership is measured against citizenship itself: to be a good leader a person must first be a good citizen, and the President is named as the example of both.
+
+Searchable tags: qualities of a good citizen, South Sudan, social studies, culture-and-work

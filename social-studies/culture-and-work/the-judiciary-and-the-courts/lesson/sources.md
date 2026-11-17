@@ -1,6 +1,6 @@
 # Sources — The Judiciary and the Courts
 
-countries: Yemen, Bahamas, Afghanistan, Morocco, Guatemala, Armenia, India, United States, Sri Lanka, Jordan
+countries: Yemen, Bahamas, Afghanistan, Morocco, Guatemala, Armenia, India, United States, Sri Lanka, Jordan, South Sudan
 
 **Book 1:** *التربية الوطنية للصف الخامس من مرحلة التعليم الأساسي (National Education for Grade 5 of Basic Education)* (student book, Arabic) — Republic of Yemen, Ministry of Education; year 1442 AH / 2021 CE (cover print); ISBN no ISBN printed. Title as printed: التربية الوطنية للصف الخامس من مرحلة التعليم الأساسي (National Education for Grade 5 of Basic Education). Grade: 5 (student/teacher: STUDENT). PDF pages: 66 (cover/title page verified against the record title; 6,489,380 bytes, Wayback snapshot 20220212143057 of the recorded source_url). Earlier waves: not read before (no earlier wave held this civics book). Verdict: COMPLETE (full page-by-page read, civics track). Contents map: Civics/Citizenship/Government pp. 19–21 (national symbols), pp. 23–33 (Unit 2 administrative organisation), pp. 34–46 (Unit 3 the state's authorities); History pp. 7–18 (Unit 1 Yemeni revolutions and steadfastness — named, not placed), pp. 47–63 (Unit 4 Yemeni figures: Imam al-Qasim ibn Muhammad, Rajih Ghalib Labouza, President Ibrahim al-Hamdi, the poet Abdullah al-Baradouni — named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/yemen-placements.md.
 
@@ -135,3 +135,19 @@ Jordan's own way (Book 11): Grade 5 civics is Jordan's own state, part by part �
 Registry note: the original coined string `culture-and-work/the-judiciary` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/the-judiciary-and-the-courts`.
 
 Searchable tags: the judiciary and the courts, Jordan, social studies, culture-and-work
+
+South Sudan placements — Social Studies remaining strands (2026-11-17):
+
+**Book 13:** *Primary Social Studies 7 Pupil's Book* (student book, English) — Title as printed: Primary Social Studies 7 Pupil's Book Grade: Primary 7 (student/teacher: STUDENT) Publisher: Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed PDF pages: 130 (cover verified against the record title; 5,009,200 bytes, grab SHA/size verified) Earlier waves: Geography wave placed Unit 2 Exploring physical features / History wave placed Unit 1 The rise and fall of civilisation / Economics wave placed Unit 3 Mining in South Sudan and its Activity 8 on regional bodies Verdict: COMPLETE Contents map: Civics/Citizenship/Government pp. 83–99 (Unit 4 Promotion of gender equality), 100–122 (Unit 5 Just and fair society); Morals/Values pp. 100–107; Geography pp. 22–48; History pp. 1–21; Economics pp. 49–81 Tally: 15 placements — 8 to existing lessons, 7 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Sudan part — culture-and-work/the-constitution-and-the-courts — Activity 4 Sources of information about justice and fairness — teaches: a constitution is a set of laws that govern a country — it binds us as one nation and ensures justice and fairness for all; courts, led by judges, act as tribunals in civil and criminal cases and are known for giving fairness and justice — South Sudan Primary 7 P7 Social Studies SB, printed p. 103 | South Sudan, *Primary Social Studies 7 Pupil's Book* (student book), Activity 4 Sources of information about justice and fairness — printed p. 103 |
+
+**Acceptance count: taught in 11 countries (Yemen, Bahamas, Afghanistan, Morocco, Guatemala, Armenia, India, United States, Sri Lanka, Jordan, South Sudan).**
+
+South Sudan's own way (Book 13): Gender equality is argued from South Sudanese lives — an elder who educates his daughters against tradition, and four named women leaders — and peace itself is put in women's hands: the book prints the view that gender equality is a tool that can end South Sudan's civil war.
+
+Registry note: the original coined string `culture-and-work/the-constitution-and-the-courts` is recorded in the provenance rows above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/the-judiciary-and-the-courts`.
+
+Searchable tags: the judiciary and the courts, South Sudan, social studies, culture-and-work
