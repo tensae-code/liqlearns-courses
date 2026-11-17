@@ -88,6 +88,15 @@ filed as teacher-guide evidence only, outside the acceptance
 counts; the new lesson stands at acceptance count 0, founded
 on teacher-guide evidence only, no pupil's book in hand.
 
+**Health expansion — Croatia — BUILT 2026-11-16:** 2 placements
+from Croatia's vocational *Čovjek i zdravlje* (student book,
+Croatian, publisher SAMPLE: printed pp. 1–20 only) stocked —
+both as 1 new lesson (The Body Systems) — bringing this
+course to **10 lessons**. The Croatia book is a student book
+read as a publisher SAMPLE, filed PARTIAL exactly as filed;
+Croatia is student-book stock, inside the acceptance count;
+the new lesson stands at acceptance count 1.
+
 ## Unit 1 — Staying Safe
 
 1. **Hygiene for Sport — Wash After Exercise** (`staying-safe/hygiene-for-sport`) — personal hygiene around sport: sweat and dirt left unwashed become a breeding place for bacteria — so wash the body after PE and sport, keep sports…
@@ -98,6 +107,7 @@ on teacher-guide evidence only, no pupil's book in hand.
 4. **Staying Safe on the Street — Self-Defence Principles and Resolving Conflict** (`staying-safe/staying-safe-on-the-street`) — staying safe before any fight: what self-defence is for, its principles (alertness, decisiveness, speed, surprise), the street-safety rules, the et…
 5. **Staying Safe While Exercising** (`staying-safe/staying-safe-while-exercising`) — the books' precautions for fitness exercise: warm up properly, wear correct sport kit, go from easy to hard, rest in the middle, stop on tiredness …
 6. **Non-communicable Diseases** (`staying-safe/non-communicable-diseases`) — non-communicable diseases: diabetes, hypertension, asthma, heart disease, cancer and obesity — their causes, risks and prevention — taught in Cuba's Grade 2 teacher guide as what obesity is (a chronic disease of excess body fat, spotted with Cuban BMI percentile tables) and the teacher's prevention work (Cuba's teacher guide, evidence only).
+7. **The Body Systems** (`staying-safe/the-body-systems`) — the body systems: skeleton, muscles, digestion, breathing, circulation, nerves, glands, urinary and reproductive systems — how each works — taught in Croatia's vocational Čovjek i zdravlje (student book, publisher SAMPLE) as how the body is built from cells through tissues and organs to organ systems, and blood and its cells as the body's transport and defence system.
 
 ## Unit 2 — Fair Play and the Body
 

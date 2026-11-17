@@ -21,3 +21,7 @@ knowledge, and grows as more countries' books are stocked.
 The Health expansion then added: **Non-communicable Diseases**
 (`staying-safe/non-communicable-diseases`) — 1 new lesson,
 bringing this course to 9 lessons.
+
+The Health expansion then added: **The Body Systems**
+(`staying-safe/the-body-systems`) — 1 new lesson,
+bringing this course to 10 lessons.
