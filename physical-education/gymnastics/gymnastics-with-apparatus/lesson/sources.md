@@ -1,6 +1,6 @@
 # Sources — Gymnastics with Apparatus
 
-countries: Ethiopia, Kazakhstan, China, El Salvador, Philippines, Azerbaijan, Maldives, Belize, Honduras, Iran, North Macedonia, Zimbabwe, Jordan, Malaysia
+countries: Ethiopia, Kazakhstan, China, El Salvador, Philippines, Azerbaijan, Maldives, Belize, Honduras, Iran, North Macedonia, Zimbabwe, Jordan, Malaysia, Kuwait
 
 **Book — Grade 5 student:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 106 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md. COMPLETE.
 
@@ -24,7 +24,7 @@ countries: Ethiopia, Kazakhstan, China, El Salvador, Philippines, Azerbaijan, Ma
 | Parallel bars — the support swing — Grade 8 | Ethiopia, Grade 8 student §5.3 Apparatus gymnastics — parallel bars, printed pp. 59–63 |
 | Strong in my own space: weight shifts and hanging — Grade 3 (teacher guide — evidence) | Ethiopia, Grade 3 teacher §1.2 Tasks 1–3 (teacher guide — evidence), printed pp. 8–11 |
 | Kazakhstan — Quarters 1, 2 and 4 — exercises on gymnastic apparatus (mats, bars, vaulting horse, goat, rope, horizontal bar in the Lesson 19 equipment list) and the obstacle course (полоса препятствий) (teacher guide — evidence) (original target `gymnastics/gymnastics-with-apparatus`) | Kazakhstan, *Physical Culture, Methodological Guide for Grade 4 Teachers* (Kazakhstan Grade 4 TG), printed pp. 5, 20 |
-**Acceptance count: taught in 9 countries (Ethiopia, China, Philippines, Azerbaijan, Honduras, Iran, North Macedonia, Jordan, Malaysia).** Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Zimbabwe is added as teacher-guide evidence only (see its Zimbabwe section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 9 countries (Ethiopia, China, Philippines, Azerbaijan, Honduras, Iran, North Macedonia, Jordan, Malaysia).** Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Zimbabwe is added as teacher-guide evidence only (see its Zimbabwe section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count.
 
 The Grade 3 teacher guide scan is TRUNCATED: it holds printed pp. 1–52 of 89+. Missing: §4.1 (p. 53), §4.2 (p. 57), §4.3 (p. 62), §4.4 (p. 65), all of Chapter 5 Gymnastics (pp. 69–84) and all of Chapter 6 (pp. 85–89+). Chapter 4 is present as its introduction page (printed p. 52) only. Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
 
@@ -361,3 +361,60 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/malaysia-pe-
 | Malaysia — Unit 1 Gimnastik Asas — springing (menghambur) and vaulting (melombol) over the vaulting box with the springboard and landing mats, applying movement concepts and mechanics (original target `gymnastics/gymnastics-with-apparatus`) | Malaysia Grade 8 PJPK Tingkatan 2, printed p. 2 |
 
 Malaysia's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Malaysia is student-book stock, inside the acceptance count, in this lesson. Malaysia's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Kuwait — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/kuwait-pe-placements.md. Every Kuwait book read for this expansion is a TEACHER guide — Kuwait teaches PE stage-wide (one guide per stage and gender), not grade-by-grade, and the grade in each record is only the e-library shelf the same stage guide was filed under, as filed. Kuwait is therefore filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. The guides' own grade-distribution plans, mark-distribution appendices and lesson-preparation card models are assessment/administration items, named in the placements file and not placed; references pages are inventory-only, as filed. Books 8–13 of the placements file are UNREAD record-only records with 0 placements — nothing is stocked from them: Book 8 (e-library preview 2900) and Book 9 (previews 2902–2905) return iOS mail-attachment placeholder JSON, not the books; Books 10–13 are moe.edu.kw DocLib links that return HTTP 404 live, whose Wayback Machine downloads returned HTTP 429 (rate limited) and were not retried, per the rate-limit stop, as filed.
+
+**Book — Kuwait Primary Boys PE Teacher Guide, 2nd edition (teacher guide — evidence):**
+## Book 1 — Primary Boys PE Teacher Guide, 2nd edition (teacher guide, Arabic)
+- Title as printed: دليل المعلم — التربية البدنية للمرحلة الابتدائية – بنين (Teacher's Guide — Physical Education for the Primary Stage – Boys)
+- Grade: Primary stage, Grades 1–5 (student/teacher: TEACHER)
+- Publisher: Kuwait Ministry of Education; year: 1st ed. 2025–2026, 2nd ed. 2026–2027 (this file is the 2nd edition, cover-verified); ISBN: no ISBN printed
+- PDF pages: 171 (cover/title page verified against the record title)
+- Records: e-library 4805, 4806, 4807, 4808, 4809 (identical file, SHA-256 c3bbbae79b376c6a) + afedne record 2226 (kw.afedne.com, via its Google Drive download) — the afedne file is a parallel 194-page edition of the same guide (same author team, same 110-topic list, roomier pagination; safety appendix at printed p. 192 instead of p. 166), spot-checked and placed once here
+- Verdict: COMPLETE
+- Tally: 16 placements — 15 to existing lessons, 1 NEW LESSON NEEDED (its safety appendix is placed in the Health file)
+- Kuwait's own way: one stage-wide skills manual for boys — gymnastics and athletics first, then basketball, volleyball, football and handball as graded skill ladders, every skill a one-to-two-page teaching spread; no separate student book.
+
+**Book — Kuwait Middle Boys PE Teacher Guide, 2nd edition (teacher guide — evidence):**
+## Book 2 — Middle Boys PE Teacher Guide, 2nd edition (teacher guide, Arabic)
+- Title as printed: دليل المعلم — التربية البدنية للمرحلة المتوسطة – بنين (Teacher's Guide — Physical Education for the Middle Stage – Boys)
+- Grade: Middle stage, Grades 6–9 (student/teacher: TEACHER)
+- Publisher: Kuwait Ministry of Education; year: 1st ed. 2025–2026, 2nd ed. 2026–2027 (this file is the 2nd edition); ISBN: no ISBN printed
+- PDF pages: 162 (cover/title page verified against the record title)
+- Records: e-library 4810, 4811, 4812, 4813 (identical file, SHA-256 7517cf1ca37182fe); parallel 1st edition: e-library 1396 (172 pp., same 84-topic list, pagination shifted — spot-checked, placed once here)
+- Verdict: COMPLETE
+- Tally: 15 placements — 14 to existing lessons, 1 NEW LESSON NEEDED (its safety appendix is placed in the Health file)
+- Kuwait's own way: the primary skill ladders continued at a higher level — the same six sports, with tactics added (man-to-man and zone defence, play situations 1v1 to 2v3, set kicks).
+
+**Book — Kuwait Primary Girls PE & Health Teacher Guide, 2nd edition (teacher guide — evidence):**
+## Book 3 — Primary Girls PE & Health Teacher Guide, 2nd edition (teacher guide, Arabic)
+- Title as printed: دليل المعلم — مادة التربية البدنية والصحية — المرحلة الابتدائية – بنات (Teacher's Guide — Physical and Health Education — Primary Stage – Girls)
+- Grade: Primary stage, Grades 1–5 (student/teacher: TEACHER)
+- Publisher: Kuwait Ministry of Education; year: 1st ed. 2025–2026, 2nd ed. 2026–2027 (this file is the 2nd edition); ISBN: no ISBN printed
+- PDF pages: 397 (cover/title page verified against the record title)
+- Records: e-library 4868, 4870, 4872, 4873, 4875 (identical file, SHA-256 e08f0ebb8b02ce2f); parallel 1st edition: e-library 1361 (450 pp., image-based PDF, same nine-chapter structure verified from its rendered contents pages — spot-checked, placed once here)
+- Verdict: COMPLETE
+- Tally: 28 placements — 21 to existing lessons, 7 NEW LESSON NEEDED (its health-culture teaching is placed in the Health file)
+- Kuwait's own way: the girls' curriculum is a different book from the boys', not a copy — nine chapters: fitness and health culture, expressive movement and ballet, gymnastics, modern exercises, athletics, basketball, handball, futsal (not football, and no volleyball at this stage), and a full chapter of Kuwaiti folk heritage. Every sport chapter opens with the rules of the game.
+
+**Book — Kuwait Middle Girls PE & Health Teacher Guide, 2nd edition (teacher guide — evidence):**
+## Book 4 — Middle Girls PE & Health Teacher Guide, 2nd edition (teacher guide, Arabic)
+- Title as printed: دليل المعلم — مادة التربية البدنية والصحية — المرحلة المتوسطة – بنات (Teacher's Guide — Physical and Health Education — Middle Stage – Girls)
+- Grade: Middle stage, Grades 6–9 (student/teacher: TEACHER)
+- Publisher: Kuwait Ministry of Education; year: 1st ed. 2025–2026, 2nd ed. 2026–2027 (this file is the 2nd edition); ISBN: no ISBN printed
+- PDF pages: 309 (cover/title page verified against the record title)
+- Records: e-library 4890, 4891, 4892, 4893 (identical file, SHA-256 4fa10030ff48b833); parallel 1st edition: e-library 1405, 1589, 1605, 1621, 1634 (369 pp., same seven-chapter structure — spot-checked, placed once here)
+- Verdict: COMPLETE
+- Tally: 27 placements — 21 to existing lessons, 6 NEW LESSON NEEDED (its health-culture teaching is placed in the Health file)
+- Kuwait's own way: the middle girls' book drops ballet and gymnastics-as-a-chapter and instead teaches modern exercises with the rhythmic-gymnastics hand apparatus (hoop, rope, ball, ribbon), and adds volleyball, which the primary girls' book does not have.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kuwait — Gymnastics: straddle vault over the vaulting horse (teacher guide — evidence) (original target `gymnastics/gymnastics-with-apparatus`) | Kuwait Grades 1–5 Boys PE TG (2nd ed.), printed p. 54 |
+| Kuwait — Gymnastics: straddle vault over the divided box (teacher guide — evidence) (original target `gymnastics/gymnastics-with-apparatus`) | Kuwait Grades 6–9 Boys PE TG (2nd ed.), printed p. 39 |
+| Kuwait — Gymnastics (Ch. 3): apparatus work — climbing onto the apparatus, walking along it and dismounting; the low balance beam (squat mount, walk, straddle/star dismount); vaulting-horse jumps of all kinds (teacher guide — evidence) (original target `gymnastics/gymnastics-with-apparatus`) | Kuwait Grades 1–5 Girls PE & Health TG (2nd ed.), printed pp. 144–148 |
+| Kuwait — Modern exercises (Ch. 2): hand-apparatus work — the hoop, the rope, the ball and the snake ribbon: grips, uses and a movement routine for each (teacher guide — evidence) (original target `gymnastics/gymnastics-with-apparatus`) | Kuwait Grades 6–9 Girls PE & Health TG (2nd ed.), printed pp. 75–87 |
+
+Kuwait's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Kuwait is teacher-guide evidence only, outside the acceptance count, in this lesson. Kuwait's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

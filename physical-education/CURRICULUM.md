@@ -794,6 +794,45 @@ school aerobic gymnastics with Cuban dance steps
 objectives include knowing the "glorias deportivas" —
 Cuba's sporting heroes.
 
+**PE expansion — Kuwait — BUILT 2026-11-16:** 113 placements
+from Kuwait's seven read teacher guides — the Primary and
+Middle Boys PE Teacher Guides (2nd editions), the Primary
+and Middle Girls PE & Health Teacher Guides (2nd editions),
+the Kuwaiti Folk Games Guide for Girls (2nd edition), the
+Grade 10 PE Teacher Guide (1st edition) and the home-exercise
+chapters of the two Girls Health Awareness & First Aid
+Guides (2nd editions), all COMPLETE — stocked: 96 into
+existing lessons (including Volleyball Serving, Volleyball
+Spiking and Blocking, Futsal, Movement Stories, The Rules
+of Athletics and Testing Your Fitness, built earlier in
+this expansion) and 17 as 4 new lessons (Ballet Basics;
+Traditional Games of Kuwait; Traditional Dances of Kuwait;
+Kuwait's Famous Athletes) — bringing this course to
+**198 lessons**. All seven read books are teacher guides,
+so Kuwait is filed as teacher-guide evidence only, outside
+the acceptance counts, in every lesson it touches; the new
+lessons stand at acceptance count 0, founded on
+teacher-guide evidence only, no pupil's book in hand. No
+Kuwait placement resolves to a Health-course lesson, so
+none was excluded as Health-bound; the boys' guides' safety
+appendices and the girls' guides' health-culture teaching
+are placed in the Health course from
+kuwait-health-placements.md, and the guides' own
+grade-distribution plans, mark-distribution appendices and
+lesson-preparation card models are assessment/administration
+items, named and not placed, as filed. Books 8–13 of the
+placements file are UNREAD record-only records with 0
+placements (e-library preview placeholders that serve no
+book, and dead DocLib links whose Wayback downloads were
+rate-limited). Kuwait's own way is content: PE taught
+stage-wide, one guide per stage and gender — the boys'
+guides as graded skill ladders across six sports, the
+girls' guides as a different book with expressive movement,
+ballet and a full Kuwaiti folk-heritage chapter, a whole
+separate guide for Kuwaiti girls' folk games, and at
+Grade 10 four six-week courses built on measuring the
+pupils' fitness and measuring again.
+
 ## Unit 1 — Moving Basics
 
 1. **Combined Travelling and On-the-Spot Movements** (`moving-basics/combined-travelling-and-on-the-spot`) — joining travelling movements together, joining on-the-spot movements together, and chaining the two families in one sequence.
@@ -874,6 +913,7 @@ Cuba's sporting heroes.
 
 11. **Gymnastics for All** (`gymnastics/gymnastics-for-all`) — gymnastics for all (Gimnastrada): group gymnastics performance that everybody can join — taught in Malaysia's Grade 9 PJPK Tingkatan 3 book as Gimnastrada, "Gymnastics for All" (Malaysia's student book).
 12. **Movement Stories** (`gymnastics/movement-stories`) — movement stories: listening to a story and acting its movements out — taught in Jordan's Grade 1 book as its Movement Stories unit (The Little Hero, The Little Astronaut, A Trip to the Farm, A Race in the Forest, The World of Professions) and in its Grade 3 Term 2 book as individual and group expressive movements to chants (Jordan's student books).
+13. **Ballet Basics** (`gymnastics/ballet-basics`) — ballet basics: the basic positions and skills of ballet and a first free routine — taught in Kuwait's primary girls' guide inside its expressive-movement chapter as the art of ballet: its basic skills and positions, and a sample free ballet routine (Kuwait's teacher guide, evidence only).
 
 
 ## Unit 4 — Athletics
@@ -1023,6 +1063,8 @@ Cuba's sporting heroes.
 46. **Traditional Dances of Malaysia** (`traditional-games-and-dances/traditional-dances-of-malaysia`) — traditional dances of Malaysia: the Joget, Inang, Zapin, Sumazau, Ngajat, Sewang, lion dance, Bhangra and Farapeirra — taught in Malaysia's PJPK Tingkatan 1–5 books as the Malaysian traditional dances of each form (Malaysia's student books).
 47. **Traditional Games of Malaysia** (`traditional-games-and-dances/traditional-games-of-malaysia`) — traditional games of Malaysia: Malaysian traditional games such as Gelap Cerah, Aci Sep, Tiang Empat, Hoki Terbang and Usung Balak — taught in Malaysia's PJPK Tingkatan 2–5 books as Malaysian traditional games (Malaysia's student books).
 48. **Traditional Games of Cuba** (`traditional-games-and-dances/traditional-games-of-cuba`) — traditional games of Cuba: Cuba's rhythmic and traditional games — taught in Cuba's Grade 2 Programa inside the Rhythmic Activities unit as the vehicle for expression and group norms, with named games, organisation and rules in its Grade 2 Orientaciones Metodológicas (Cuba's teacher guides/programmes, evidence only).
+49. **Traditional Games of Kuwait** (`traditional-games-and-dances/traditional-games-of-kuwait`) — traditional games of Kuwait: the folk games Kuwaiti children played, such as Al-Hila hopscotch and Taq Taq Taqiya — taught in Kuwait's Folk Games Guide for Girls as ten named games of the sandy lanes (الفرجان) — Al-Hila, Taq Taq Taqiya, Tabaq Hanna Tabaq Mash, Haybala wa Haybala, Ghazala Bazala, Shawt Shawt Ya Batta, Ana Al-Dheeb Bakalkum, Amakor Tah Bil-Tannour, Al-Anbar and Al-Muhaibis — each with its type, definition, rules and song words (Kuwait's teacher guide, evidence only).
+50. **Traditional Dances of Kuwait** (`traditional-games-and-dances/traditional-dances-of-kuwait`) — traditional dances of Kuwait: Kuwaiti folk arts and dances, and movement formations for national occasions — taught in Kuwait's primary girls' guide as Al-Dazza and Al-Saff and in its middle girls' guide as Al-Samri, with movement formations for National Day (25 February), Liberation Day (26 February), the folk occasions and Gargee'an (Kuwait's teacher guides, evidence only).
 
 ## Unit 8 — Sport and Its Story
 
@@ -1051,3 +1093,4 @@ Cuba's sporting heroes.
 
 23. **Sports Spaces and Equipment** (`sport-and-its-story/sports-spaces-and-equipment`) — sports spaces and equipment: halls, grounds, pools and apparatus — how they are laid out, equipped, used safely and looked after — taught in Fiji's Year 3 Teachers Handbook as the Sports Environment: outdoor, indoor and aquatic environments with safety first, and in its Year 4 Teachers Handbook as natural facilities such as the sea and human-made facilities (Fiji's teacher guides, evidence only).
 24. **Cuba's Sporting Glories** (`sport-and-its-story/cubas-sporting-glories`) — Cuba's sporting glories: the leading figures and heroes of Cuban sport — taught in Cuba's Grade 2, 5, 8 and 11 Programas, where every grade's general objectives include knowing and admiring the "glorias deportivas" of the Cuban Sports Movement, local and national (Cuba's teacher guides/programmes, evidence only).
+25. **Kuwait's Famous Athletes** (`sport-and-its-story/kuwaits-famous-athletes`) — Kuwait's famous athletes: the champions of Kuwait held up as role models — taught in both Kuwait girls' guides as "Heroes of My Homeland", closing the folk-heritage teaching (Kuwait's teacher guides, evidence only).

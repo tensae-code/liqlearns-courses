@@ -1,6 +1,6 @@
 # Sources — Dribbling, Shooting and the Jump Throw
 
-countries: Ethiopia, China, Philippines, Maldives, Belize, Honduras, Mauritius, Iran, North Macedonia, Jordan, Malaysia, Cuba
+countries: Ethiopia, China, Philippines, Maldives, Belize, Honduras, Mauritius, Iran, North Macedonia, Jordan, Malaysia, Cuba, Kuwait
 
 **Book — Grade 5 student:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 106 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md. COMPLETE.
 
@@ -32,7 +32,7 @@ countries: Ethiopia, China, Philippines, Maldives, Belize, Honduras, Mauritius, 
 | Handball — the dive throw, goalkeeping and passing — Grades 8–10 | Ethiopia, Grade 10 student §7.2 Goalkeeping, printed pp. 116–120 |
 | Handball — the dive throw, goalkeeping and passing — Grades 8–10 | Ethiopia, Grade 9 teacher Unit 7 goalkeeping (teacher guide — evidence), printed pp. 95–100 |
 | Handball — the dive throw, goalkeeping and passing — Grades 8–10 | Ethiopia, Grade 10 teacher Unit 7 advanced goalkeeping (teacher guide — evidence), printed pp. 79–80 |
-**Acceptance count: taught in 9 countries (Ethiopia, China, Philippines, Honduras, Mauritius, Iran, North Macedonia, Jordan, Malaysia).** Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. China is added as student-book stock (see its rows below), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count; the Mauritius teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 9 countries (Ethiopia, China, Philippines, Honduras, Mauritius, Iran, North Macedonia, Jordan, Malaysia).** Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. China is added as student-book stock (see its rows below), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count; the Mauritius teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count.
 
 The Grade 5 and Grade 6 teacher guides' ball-games chapters are in the truncated missing ranges of those scans (G5T Chapter 6, pp. 57–77; G6T Chapter 6, pp. 65–82), so this lesson rests on the complete student books only; no teacher-guide pages are claimed for it.
 
@@ -476,3 +476,77 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/cuba-pe-plac
 | Cuba — Unidad Balonmano — stances, overhead and baseball passes, reception/passing on the move, dribble, throws (free, in motion, after dribble, after reception, in suspension), goalkeeper movements (original target `ball-games/dribbling-shooting-and-the-jump-throw`) | Cuba Grade 11 G11 Programa, printed p. 27 |
 
 Cuba's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Cuba enters this lesson as teacher-guide/programme evidence only, outside the acceptance count. Cuba's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Kuwait — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/kuwait-pe-placements.md. Every Kuwait book read for this expansion is a TEACHER guide — Kuwait teaches PE stage-wide (one guide per stage and gender), not grade-by-grade, and the grade in each record is only the e-library shelf the same stage guide was filed under, as filed. Kuwait is therefore filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. The guides' own grade-distribution plans, mark-distribution appendices and lesson-preparation card models are assessment/administration items, named in the placements file and not placed; references pages are inventory-only, as filed. Books 8–13 of the placements file are UNREAD record-only records with 0 placements — nothing is stocked from them: Book 8 (e-library preview 2900) and Book 9 (previews 2902–2905) return iOS mail-attachment placeholder JSON, not the books; Books 10–13 are moe.edu.kw DocLib links that return HTTP 404 live, whose Wayback Machine downloads returned HTTP 429 (rate limited) and were not retried, per the rate-limit stop, as filed.
+
+**Book — Kuwait Primary Boys PE Teacher Guide, 2nd edition (teacher guide — evidence):**
+## Book 1 — Primary Boys PE Teacher Guide, 2nd edition (teacher guide, Arabic)
+- Title as printed: دليل المعلم — التربية البدنية للمرحلة الابتدائية – بنين (Teacher's Guide — Physical Education for the Primary Stage – Boys)
+- Grade: Primary stage, Grades 1–5 (student/teacher: TEACHER)
+- Publisher: Kuwait Ministry of Education; year: 1st ed. 2025–2026, 2nd ed. 2026–2027 (this file is the 2nd edition, cover-verified); ISBN: no ISBN printed
+- PDF pages: 171 (cover/title page verified against the record title)
+- Records: e-library 4805, 4806, 4807, 4808, 4809 (identical file, SHA-256 c3bbbae79b376c6a) + afedne record 2226 (kw.afedne.com, via its Google Drive download) — the afedne file is a parallel 194-page edition of the same guide (same author team, same 110-topic list, roomier pagination; safety appendix at printed p. 192 instead of p. 166), spot-checked and placed once here
+- Verdict: COMPLETE
+- Tally: 16 placements — 15 to existing lessons, 1 NEW LESSON NEEDED (its safety appendix is placed in the Health file)
+- Kuwait's own way: one stage-wide skills manual for boys — gymnastics and athletics first, then basketball, volleyball, football and handball as graded skill ladders, every skill a one-to-two-page teaching spread; no separate student book.
+
+**Book — Kuwait Middle Boys PE Teacher Guide, 2nd edition (teacher guide — evidence):**
+## Book 2 — Middle Boys PE Teacher Guide, 2nd edition (teacher guide, Arabic)
+- Title as printed: دليل المعلم — التربية البدنية للمرحلة المتوسطة – بنين (Teacher's Guide — Physical Education for the Middle Stage – Boys)
+- Grade: Middle stage, Grades 6–9 (student/teacher: TEACHER)
+- Publisher: Kuwait Ministry of Education; year: 1st ed. 2025–2026, 2nd ed. 2026–2027 (this file is the 2nd edition); ISBN: no ISBN printed
+- PDF pages: 162 (cover/title page verified against the record title)
+- Records: e-library 4810, 4811, 4812, 4813 (identical file, SHA-256 7517cf1ca37182fe); parallel 1st edition: e-library 1396 (172 pp., same 84-topic list, pagination shifted — spot-checked, placed once here)
+- Verdict: COMPLETE
+- Tally: 15 placements — 14 to existing lessons, 1 NEW LESSON NEEDED (its safety appendix is placed in the Health file)
+- Kuwait's own way: the primary skill ladders continued at a higher level — the same six sports, with tactics added (man-to-man and zone defence, play situations 1v1 to 2v3, set kicks).
+
+**Book — Kuwait Primary Girls PE & Health Teacher Guide, 2nd edition (teacher guide — evidence):**
+## Book 3 — Primary Girls PE & Health Teacher Guide, 2nd edition (teacher guide, Arabic)
+- Title as printed: دليل المعلم — مادة التربية البدنية والصحية — المرحلة الابتدائية – بنات (Teacher's Guide — Physical and Health Education — Primary Stage – Girls)
+- Grade: Primary stage, Grades 1–5 (student/teacher: TEACHER)
+- Publisher: Kuwait Ministry of Education; year: 1st ed. 2025–2026, 2nd ed. 2026–2027 (this file is the 2nd edition); ISBN: no ISBN printed
+- PDF pages: 397 (cover/title page verified against the record title)
+- Records: e-library 4868, 4870, 4872, 4873, 4875 (identical file, SHA-256 e08f0ebb8b02ce2f); parallel 1st edition: e-library 1361 (450 pp., image-based PDF, same nine-chapter structure verified from its rendered contents pages — spot-checked, placed once here)
+- Verdict: COMPLETE
+- Tally: 28 placements — 21 to existing lessons, 7 NEW LESSON NEEDED (its health-culture teaching is placed in the Health file)
+- Kuwait's own way: the girls' curriculum is a different book from the boys', not a copy — nine chapters: fitness and health culture, expressive movement and ballet, gymnastics, modern exercises, athletics, basketball, handball, futsal (not football, and no volleyball at this stage), and a full chapter of Kuwaiti folk heritage. Every sport chapter opens with the rules of the game.
+
+**Book — Kuwait Middle Girls PE & Health Teacher Guide, 2nd edition (teacher guide — evidence):**
+## Book 4 — Middle Girls PE & Health Teacher Guide, 2nd edition (teacher guide, Arabic)
+- Title as printed: دليل المعلم — مادة التربية البدنية والصحية — المرحلة المتوسطة – بنات (Teacher's Guide — Physical and Health Education — Middle Stage – Girls)
+- Grade: Middle stage, Grades 6–9 (student/teacher: TEACHER)
+- Publisher: Kuwait Ministry of Education; year: 1st ed. 2025–2026, 2nd ed. 2026–2027 (this file is the 2nd edition); ISBN: no ISBN printed
+- PDF pages: 309 (cover/title page verified against the record title)
+- Records: e-library 4890, 4891, 4892, 4893 (identical file, SHA-256 4fa10030ff48b833); parallel 1st edition: e-library 1405, 1589, 1605, 1621, 1634 (369 pp., same seven-chapter structure — spot-checked, placed once here)
+- Verdict: COMPLETE
+- Tally: 27 placements — 21 to existing lessons, 6 NEW LESSON NEEDED (its health-culture teaching is placed in the Health file)
+- Kuwait's own way: the middle girls' book drops ballet and gymnastics-as-a-chapter and instead teaches modern exercises with the rhythmic-gymnastics hand apparatus (hoop, rope, ball, ribbon), and adds volleyball, which the primary girls' book does not have.
+
+**Book — Kuwait Grade 10 PE Teacher Guide, Secondary Stage, 1st edition (teacher guide — evidence):**
+## Book 6 — Grade 10 PE Teacher Guide, Secondary Stage, 1st edition (teacher guide, Arabic)
+- Title as printed: دليل المعلم — التربية البدنية للمرحلة الثانوية — الصف العاشر (Teacher's Guide — Physical Education for the Secondary Stage — Grade 10)
+- Grade: Grade 10 (student/teacher: TEACHER)
+- Publisher: Kuwait Ministry of Education; year: 1st ed. 2026–2027; ISBN: no ISBN printed
+- PDF pages: 224 (cover/title page verified against the record title)
+- Records: e-library 5125
+- Verdict: COMPLETE
+- Tally: 14 placements — 11 to existing lessons, 3 NEW LESSON NEEDED
+- Kuwait's own way: at secondary level the guide stops being a skills manual and becomes four six-week courses — a fitness course built on measuring the pupils and re-measuring them at the end, then basketball, handball and volleyball courses that move week by week from single skills to small-sided games. Excluded, named: the assessment chapter (تقييم المتعلمين, printed p. 218) is an assessment item, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kuwait — Basketball: dribbling and passing on the move, overhead pass, high and low dribbling, free throw, dribbling into a shot, bounce pass, one- and two-count pivot stops, the layup and the dribble–layup link (teacher guide — evidence) (original target `ball-games/dribbling-shooting-and-the-jump-throw`) | Kuwait Grades 1–5 Boys PE TG (2nd ed.), printed pp. 83–93 |
+| Kuwait — Handball: dribbling walking, moving and running with the dominant hand; whip pass standing and moving; whip shot standing and as a forward jump shot; feinting without the ball; pendulum pass; bounce pass; high jump whip shot; defensive ready stance and defensive movements (teacher guide — evidence) (original target `ball-games/dribbling-shooting-and-the-jump-throw`) | Kuwait Grades 1–5 Boys PE TG (2nd ed.), printed pp. 132–159 |
+| Kuwait — Basketball: dribbling with change of direction and of speed, chest pass, dribbling into a shot, linking the chest pass to a shot, bounce pass, the fast break with a layup, one-hand pass and receive link (teacher guide — evidence) (original target `ball-games/dribbling-shooting-and-the-jump-throw`) | Kuwait Grades 6–9 Boys PE TG (2nd ed.), printed pp. 64–76 |
+| Kuwait — Handball: chest pass with two hands and with one hand, the whip shot jumping up and jumping forward, feinting with the ball before dribbling, shooting from a fall (forward and sideways), shooting over the block, goalkeeper movements, the fast break linked to passing and shooting (teacher guide — evidence) (original target `ball-games/dribbling-shooting-and-the-jump-throw`) | Kuwait Grades 6–9 Boys PE TG (2nd ed.), printed pp. 120–144 |
+| Kuwait — Basketball (Ch. 6): passing of all kinds, dribbling of all kinds, feinting with change of speed and direction, shooting of all kinds, man-to-man defensive skills (teacher guide — evidence) (original target `ball-games/dribbling-shooting-and-the-jump-throw`) | Kuwait Grades 1–5 Girls PE & Health TG (2nd ed.), printed pp. 217–239 |
+| Kuwait — Handball (Ch. 7): passing of all kinds, dribbling of all kinds, shooting of all kinds, feinting without the ball (teacher guide — evidence) (original target `ball-games/dribbling-shooting-and-the-jump-throw`) | Kuwait Grades 1–5 Girls PE & Health TG (2nd ed.), printed pp. 246, 255–261 |
+| Kuwait — Basketball (Ch. 4): chest pass standing and moving, bounce pass, overhead pass, one-hand pass; dribbling standing and moving, high and low; shooting from standing, the jump shot, the layup; feinting with change of speed and direction; defensive skills (man-to-man, zone, against the shooter) (teacher guide — evidence) (original target `ball-games/dribbling-shooting-and-the-jump-throw`) | Kuwait Grades 6–9 Girls PE & Health TG (2nd ed.), printed pp. 122–146 |
+| Kuwait — Handball (Ch. 5): one-hand pass from shoulder level, two-hand overhead pass, bounce pass, pendulum pass; dribbling standing and moving; shooting at shoulder level standing and moving; the jump shot; feinting without the ball and with it (teacher guide — evidence) (original target `ball-games/dribbling-shooting-and-the-jump-throw`) | Kuwait Grades 6–9 Girls PE & Health TG (2nd ed.), printed pp. 157–177 |
+| Kuwait — Basketball course, Weeks 2–3: shooting from standing (the free throw), the jump shot, the layup linked to dribbling, receive–dribble–shoot, and follow-up–pass–shoot (teacher guide — evidence) (original target `ball-games/dribbling-shooting-and-the-jump-throw`) | Kuwait Grade 10 PE TG (1st ed.), printed pp. 82–90 |
+| Kuwait — Handball course, Weeks 1 and 3: receiving the ball, passing (including the long pass that starts the fast break), shooting, and combined offensive skills against a defence (teacher guide — evidence) (original target `ball-games/dribbling-shooting-and-the-jump-throw`) | Kuwait Grade 10 PE TG (1st ed.), printed pp. 110–123, 136–148 |
+
+Kuwait's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Kuwait is teacher-guide evidence only, outside the acceptance count, in this lesson. Kuwait's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

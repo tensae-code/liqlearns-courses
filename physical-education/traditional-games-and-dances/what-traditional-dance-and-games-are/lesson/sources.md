@@ -1,6 +1,6 @@
 # Sources — What Traditional Dance and Games Are
 
-countries: Ethiopia, Mozambique, Nicaragua, Honduras, Iran
+countries: Ethiopia, Mozambique, Nicaragua, Honduras, Iran, Kuwait
 
 **Book 1:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–106 + front matter (114 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md.
 
@@ -18,7 +18,7 @@ countries: Ethiopia, Mozambique, Nicaragua, Honduras, Iran
 | Prove-it questions folded from the book's own chapter summary exercises — Sub lesson 2 | Ethiopia, *Grade 7 Student Textbook*, chapter summary exercises, printed p. 95 |
 | Mozambique — 1.ª parte, Jogos tradicionais — what makes a game traditional: known rules and limits handed down from generation to generation (teacher guide — evidence) (original target `traditional-games-and-dances/what-traditional-dance-and-games-are`) | Mozambique, *Grade 1 Teacher Manual (Educação Física)*, 1.ª parte, Jogos tradicionais, printed p. 197 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Honduras, Iran).** Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count.
+**Acceptance count: taught in 3 countries (Ethiopia, Honduras, Iran).** Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count.
 
 The Grade 5 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -157,3 +157,24 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/iran-pe-plac
 | Iran — Module 1, Unit 1 "Concepts: native-local games and traditional sports" — what native/local games and traditional sports are (original target `traditional-games-and-dances/what-traditional-dance-and-games-are`) | Iran, *Developing Health and Lifestyle with Sport, Grade 11 (C211304)*, Module 1, Unit 1 "Concepts: native-local games and traditional sports", printed p. 2 |
 
 Iran's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Iran's own way is content, as the book lines above record it: PE taught as a profession with a knowledge base — a Grade 10 theory book before any workshop book, workshop books of competency units with continuous and final assessment, team games taught as full coaching units with kabaddi standing as a full module beside them, and a special-needs fitness course of very short lessons with one idea each. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Kuwait — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/kuwait-pe-placements.md. Every Kuwait book read for this expansion is a TEACHER guide — Kuwait teaches PE stage-wide (one guide per stage and gender), not grade-by-grade, and the grade in each record is only the e-library shelf the same stage guide was filed under, as filed. Kuwait is therefore filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. The guides' own grade-distribution plans, mark-distribution appendices and lesson-preparation card models are assessment/administration items, named in the placements file and not placed; references pages are inventory-only, as filed. Books 8–13 of the placements file are UNREAD record-only records with 0 placements — nothing is stocked from them: Book 8 (e-library preview 2900) and Book 9 (previews 2902–2905) return iOS mail-attachment placeholder JSON, not the books; Books 10–13 are moe.edu.kw DocLib links that return HTTP 404 live, whose Wayback Machine downloads returned HTTP 429 (rate limited) and were not retried, per the rate-limit stop, as filed.
+
+**Book — Kuwaiti Folk Games Guide for PE & Health – Girls, 2nd edition (teacher guide — evidence):**
+## Book 5 — Kuwaiti Folk Games Guide for PE & Health – Girls, 2nd edition (teacher guide, Arabic)
+- Title as printed: دليل الألعاب الشعبية الكويتية لمادة التربية البدنية والصحية – بنات (Guide to Kuwaiti Folk Games for Physical and Health Education – Girls)
+- Grade: Primary stage in this edition; a middle-stage edition with the same games is named below (student/teacher: TEACHER)
+- Publisher: Kuwait Ministry of Education; year: 1st ed. 1441 AH (2019–2020), 2nd ed. 2026–2027 (this file is the primary 2nd edition); ISBN: no ISBN printed
+- PDF pages: 45 (cover/title page verified against the record title)
+- Records: e-library 4860, 4861, 4862, 4863, 4864 (identical file, SHA-256 187b6cb1d02de423). Parallel editions, spot-checked (covers + contents) and placed once here: primary 1st edition — e-library 1360 (44 pp.); middle-stage 1st edition, marked "interactive" — e-library 1401, 1583, 1600, 1616, 1629 (44 pp., identical file); middle-stage 2nd edition — e-library 4894, 4895, 4896, 4897 (46 pp., same ten games, pages +1). Page numbers below are the primary 2nd edition's.
+- Verdict: COMPLETE
+- Tally: 11 placements — 1 to an existing lesson, 10 NEW LESSON NEEDED
+- Kuwait's own way: a whole separate guide whose only job is the folk games Kuwaiti girls played in the sandy lanes (الفرجان) with palm-fronds, ropes and pebbles — each game is taught with its type, its definition, its rules and its song words, as national-heritage teaching, not as warm-up games.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kuwait — What folk games are: the concept of Kuwaiti folk games, the general goals of teaching and playing the heritage games in PE & Health, their importance, and the teacher's role in teaching them (teacher guide — evidence) (original target `traditional-games-and-dances/what-traditional-dance-and-games-are`) | Kuwait Girls Folk Games Guide (2nd ed., primary), printed pp. 9–12 |
+
+Kuwait's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Kuwait is teacher-guide evidence only, outside the acceptance count, in this lesson. Kuwait's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

@@ -316,3 +316,13 @@ The PE expansion then added: **Baseball 5**
 and **Cuba's Sporting Glories**
 (`sport-and-its-story/cubas-sporting-glories`)
 — 3 new lessons, bringing this course to 194 lessons.
+
+The PE expansion then added: **Ballet Basics**
+(`gymnastics/ballet-basics`), **Traditional Games of
+Kuwait**
+(`traditional-games-and-dances/traditional-games-of-kuwait`),
+**Traditional Dances of Kuwait**
+(`traditional-games-and-dances/traditional-dances-of-kuwait`)
+and **Kuwait's Famous Athletes**
+(`sport-and-its-story/kuwaits-famous-athletes`)
+— 4 new lessons, bringing this course to 198 lessons.

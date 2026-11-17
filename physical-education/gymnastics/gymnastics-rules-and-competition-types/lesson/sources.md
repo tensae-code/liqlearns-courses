@@ -1,6 +1,6 @@
 # Sources — Gymnastics — Rules and Competition Types
 
-countries: Ethiopia, Iran, North Macedonia
+countries: Ethiopia, Iran, North Macedonia, Kuwait
 
 **Book 1:** *Grade 8 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–98 + front matter (107 PDF pages). Printed page = PDF page − 9. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g08-student-placements.md.
 
@@ -10,7 +10,7 @@ countries: Ethiopia, Iran, North Macedonia
 | Sub lesson 2 — At the Olympics — artistic and rhythmic | Ethiopia, *Grade 8 Student Textbook*, §5.1–§5.1.1 Competition types at the Olympics (artistic; rhythmic for women only), printed pp. 51–54 |
 | Sub lesson 3 — At the world championships — and sports aerobics | Ethiopia, *Grade 8 Student Textbook*, §5.1.2 Competition types at world championships, incl. sports aerobics, printed p. 54 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Iran, North Macedonia).** Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count.
+**Acceptance count: taught in 3 countries (Ethiopia, Iran, North Macedonia).** Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count.
 
 The Grade 8 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it. The placements summarise §5.1 at the depth taught here: they name the basic laws and the competition types without listing the laws one by one, so this lesson teaches the laws as the governing frame of competition and does not invent a law list the placements do not give.
 
@@ -57,3 +57,24 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/north-macedo
 | North Macedonia — The gymnastics disciplines and how they are judged — the FIG disciplines (artistic, rhythmic, acrobatic and aerobic gymnastics, trampoline, parkour, gymnastics for all); artistic gymnastics on six apparatus for men (floor, pommel horse, rings, vault, parallel bars, horizontal bar) and four for women (vault, uneven bars, beam, floor), routines judged on difficulty and quality of execution (original target `gymnastics/gymnastics-rules-and-competition-types`) | North Macedonia Grade 11 Sport, printed p. 44 |
 
 North Macedonia's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. North Macedonia's own way is content, as the book lines above record it: in gymnasium the subject is renamed “Sport and Sports Activities” and turns encyclopaedic — every sport is taught as technique + tactics + full rules + its world history AND its Macedonian history (handball arriving in Skopje in 1948, basketball in Štip in 1933, Vardar and the federations' FIFA/FIBA/IHF memberships), and pupils choose elective areas, including a “Fitness and health” area with aerobics, gym fitness and Pilates. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Kuwait — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/kuwait-pe-placements.md. Every Kuwait book read for this expansion is a TEACHER guide — Kuwait teaches PE stage-wide (one guide per stage and gender), not grade-by-grade, and the grade in each record is only the e-library shelf the same stage guide was filed under, as filed. Kuwait is therefore filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. The guides' own grade-distribution plans, mark-distribution appendices and lesson-preparation card models are assessment/administration items, named in the placements file and not placed; references pages are inventory-only, as filed. Books 8–13 of the placements file are UNREAD record-only records with 0 placements — nothing is stocked from them: Book 8 (e-library preview 2900) and Book 9 (previews 2902–2905) return iOS mail-attachment placeholder JSON, not the books; Books 10–13 are moe.edu.kw DocLib links that return HTTP 404 live, whose Wayback Machine downloads returned HTTP 429 (rate limited) and were not retried, per the rate-limit stop, as filed.
+
+**Book — Kuwait Primary Girls PE & Health Teacher Guide, 2nd edition (teacher guide — evidence):**
+## Book 3 — Primary Girls PE & Health Teacher Guide, 2nd edition (teacher guide, Arabic)
+- Title as printed: دليل المعلم — مادة التربية البدنية والصحية — المرحلة الابتدائية – بنات (Teacher's Guide — Physical and Health Education — Primary Stage – Girls)
+- Grade: Primary stage, Grades 1–5 (student/teacher: TEACHER)
+- Publisher: Kuwait Ministry of Education; year: 1st ed. 2025–2026, 2nd ed. 2026–2027 (this file is the 2nd edition); ISBN: no ISBN printed
+- PDF pages: 397 (cover/title page verified against the record title)
+- Records: e-library 4868, 4870, 4872, 4873, 4875 (identical file, SHA-256 e08f0ebb8b02ce2f); parallel 1st edition: e-library 1361 (450 pp., image-based PDF, same nine-chapter structure verified from its rendered contents pages — spot-checked, placed once here)
+- Verdict: COMPLETE
+- Tally: 28 placements — 21 to existing lessons, 7 NEW LESSON NEEDED (its health-culture teaching is placed in the Health file)
+- Kuwait's own way: the girls' curriculum is a different book from the boys', not a copy — nine chapters: fitness and health culture, expressive movement and ballet, gymnastics, modern exercises, athletics, basketball, handball, futsal (not football, and no volleyball at this stage), and a full chapter of Kuwaiti folk heritage. Every sport chapter opens with the rules of the game.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kuwait — Gymnastics (Ch. 3): the rules of the game (teacher guide — evidence) (original target `gymnastics/gymnastics-rules-and-competition-types`) | Kuwait Grades 1–5 Girls PE & Health TG (2nd ed.), printed p. 117 |
+
+Kuwait's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Kuwait is teacher-guide evidence only, outside the acceptance count, in this lesson. Kuwait's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

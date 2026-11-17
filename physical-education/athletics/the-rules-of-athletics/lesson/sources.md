@@ -1,8 +1,8 @@
 # Sources — The Rules of Athletics
 
-countries: Pakistan, Jordan
+countries: Pakistan, Jordan, Kuwait
 
-**Acceptance count: taught in 2 countries (Pakistan, Jordan).** Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Pakistan is student-book stock (see its rows below), inside the acceptance count.
+**Acceptance count: taught in 2 countries (Pakistan, Jordan).** Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Pakistan is student-book stock (see its rows below), inside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count.
 
 ## Pakistan — PE expansion 2026-11-16
 
@@ -67,3 +67,36 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/jordan-pe-pl
 | Jordan — Unit 6, Law of the Game pages: athletics rules taught inside the lessons (starting blocks compulsory for races up to 400 m; the start commands; false-start warnings and exclusion) (original target `athletics/athletics-rules-and-officiating`) | Jordan Grade 9 PE Term 2, printed pp. 9–22 |
 
 Jordan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Jordan is student-book stock, inside the acceptance count, in this lesson. Jordan's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Kuwait — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/kuwait-pe-placements.md. Every Kuwait book read for this expansion is a TEACHER guide — Kuwait teaches PE stage-wide (one guide per stage and gender), not grade-by-grade, and the grade in each record is only the e-library shelf the same stage guide was filed under, as filed. Kuwait is therefore filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. The guides' own grade-distribution plans, mark-distribution appendices and lesson-preparation card models are assessment/administration items, named in the placements file and not placed; references pages are inventory-only, as filed. Books 8–13 of the placements file are UNREAD record-only records with 0 placements — nothing is stocked from them: Book 8 (e-library preview 2900) and Book 9 (previews 2902–2905) return iOS mail-attachment placeholder JSON, not the books; Books 10–13 are moe.edu.kw DocLib links that return HTTP 404 live, whose Wayback Machine downloads returned HTTP 429 (rate limited) and were not retried, per the rate-limit stop, as filed.
+
+**Book — Kuwait Primary Girls PE & Health Teacher Guide, 2nd edition (teacher guide — evidence):**
+## Book 3 — Primary Girls PE & Health Teacher Guide, 2nd edition (teacher guide, Arabic)
+- Title as printed: دليل المعلم — مادة التربية البدنية والصحية — المرحلة الابتدائية – بنات (Teacher's Guide — Physical and Health Education — Primary Stage – Girls)
+- Grade: Primary stage, Grades 1–5 (student/teacher: TEACHER)
+- Publisher: Kuwait Ministry of Education; year: 1st ed. 2025–2026, 2nd ed. 2026–2027 (this file is the 2nd edition); ISBN: no ISBN printed
+- PDF pages: 397 (cover/title page verified against the record title)
+- Records: e-library 4868, 4870, 4872, 4873, 4875 (identical file, SHA-256 e08f0ebb8b02ce2f); parallel 1st edition: e-library 1361 (450 pp., image-based PDF, same nine-chapter structure verified from its rendered contents pages — spot-checked, placed once here)
+- Verdict: COMPLETE
+- Tally: 28 placements — 21 to existing lessons, 7 NEW LESSON NEEDED (its health-culture teaching is placed in the Health file)
+- Kuwait's own way: the girls' curriculum is a different book from the boys', not a copy — nine chapters: fitness and health culture, expressive movement and ballet, gymnastics, modern exercises, athletics, basketball, handball, futsal (not football, and no volleyball at this stage), and a full chapter of Kuwaiti folk heritage. Every sport chapter opens with the rules of the game.
+
+**Book — Kuwait Middle Girls PE & Health Teacher Guide, 2nd edition (teacher guide — evidence):**
+## Book 4 — Middle Girls PE & Health Teacher Guide, 2nd edition (teacher guide, Arabic)
+- Title as printed: دليل المعلم — مادة التربية البدنية والصحية — المرحلة المتوسطة – بنات (Teacher's Guide — Physical and Health Education — Middle Stage – Girls)
+- Grade: Middle stage, Grades 6–9 (student/teacher: TEACHER)
+- Publisher: Kuwait Ministry of Education; year: 1st ed. 2025–2026, 2nd ed. 2026–2027 (this file is the 2nd edition); ISBN: no ISBN printed
+- PDF pages: 309 (cover/title page verified against the record title)
+- Records: e-library 4890, 4891, 4892, 4893 (identical file, SHA-256 4fa10030ff48b833); parallel 1st edition: e-library 1405, 1589, 1605, 1621, 1634 (369 pp., same seven-chapter structure — spot-checked, placed once here)
+- Verdict: COMPLETE
+- Tally: 27 placements — 21 to existing lessons, 6 NEW LESSON NEEDED (its health-culture teaching is placed in the Health file)
+- Kuwait's own way: the middle girls' book drops ballet and gymnastics-as-a-chapter and instead teaches modern exercises with the rhythmic-gymnastics hand apparatus (hoop, rope, ball, ribbon), and adds volleyball, which the primary girls' book does not have.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kuwait — Athletics (Ch. 5): the rules of the game (teacher guide — evidence) (original target `athletics/the-rules-of-athletics`) | Kuwait Grades 1–5 Girls PE & Health TG (2nd ed.), printed p. 191 |
+| Kuwait — Athletics (Ch. 3): the laws of athletics (teacher guide — evidence) (original target `athletics/the-rules-of-athletics`) | Kuwait Grades 6–9 Girls PE & Health TG (2nd ed.), printed p. 93 |
+
+Kuwait's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Kuwait is teacher-guide evidence only, outside the acceptance count, in this lesson. Kuwait's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
