@@ -1,6 +1,6 @@
 # Sources — The Judiciary and the Courts
 
-countries: Yemen, Bahamas, Afghanistan, Morocco, Guatemala, Armenia, India
+countries: Yemen, Bahamas, Afghanistan, Morocco, Guatemala, Armenia, India, United States
 
 **Book 1:** *التربية الوطنية للصف الخامس من مرحلة التعليم الأساسي (National Education for Grade 5 of Basic Education)* (student book, Arabic) — Republic of Yemen, Ministry of Education; year 1442 AH / 2021 CE (cover print); ISBN no ISBN printed. Title as printed: التربية الوطنية للصف الخامس من مرحلة التعليم الأساسي (National Education for Grade 5 of Basic Education). Grade: 5 (student/teacher: STUDENT). PDF pages: 66 (cover/title page verified against the record title; 6,489,380 bytes, Wayback snapshot 20220212143057 of the recorded source_url). Earlier waves: not read before (no earlier wave held this civics book). Verdict: COMPLETE (full page-by-page read, civics track). Contents map: Civics/Citizenship/Government pp. 19–21 (national symbols), pp. 23–33 (Unit 2 administrative organisation), pp. 34–46 (Unit 3 the state's authorities); History pp. 7–18 (Unit 1 Yemeni revolutions and steadfastness — named, not placed), pp. 47–63 (Unit 4 Yemeni figures: Imam al-Qasim ibn Muhammad, Rajih Ghalib Labouza, President Ibrahim al-Hamdi, the poet Abdullah al-Baradouni — named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/yemen-placements.md.
 
@@ -26,7 +26,7 @@ Yemen's own way (G5 National Education): a standalone National Education book th
 
 Registry note: the original coined string `culture-and-work/the-judicial-authority` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/the-judiciary-and-the-courts`.
 
-Searchable tags: the judiciary and the courts, Yemen, social studies, culture-and-work, Bahamas, Afghanistan, India
+Searchable tags: the judiciary and the courts, Yemen, social studies, culture-and-work, Bahamas, Afghanistan, India, United States
 
 Afghanistan's own way (Grade 6 Social Studies): the Afghan state is taught as the child's own house — society needs a state as a family needs order; the 2004 constitution is the "mother law"; the two houses are named in Pashto (Wolesi Jirga, Meshrano Jirga) and every right (children's, women's, human dignity) is grounded first in Islam and then in the constitution's own articles.
 
@@ -85,3 +85,21 @@ India placements — Social Studies remaining strands (2026-11-17):
 India's own way (Social and Political Life-III, Grade 8): The Constitution is the spine of the whole book — every later institution (Parliament, courts, police) and every injustice (marginalisation) is measured against it, and marginalised people are shown invoking its Fundamental Rights to force change.
 
 Registry note: the original coined string `culture-and-work/the-judiciary-independent-courts-and-access-to-justice` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/the-judiciary-and-the-courts`.
+
+
+United States placements — Social Studies remaining strands (2026-11-17):
+
+**Book 2:** *American Government 3e* (student book, English) — Title as printed: American Government 3e Grade: Grade 13 (introductory college / AP level) (student/teacher: STUDENT) Publisher: OpenStax, Rice University; year 2021; ISBN 978-1-951693-38-1 (digital version; hardcover 978-1-711493-96-1) PDF pages: 726 (cover/title page verified against the record title; fetched file 150 MB from the release asset) Earlier waves: Geography wave filed it RECORD-ONLY ("pure Civics / American Government — a later Civics wave owns it"); History wave filed it RECORD-ONLY ("the Civics folder work owns this book"); Economics wave placed only its economics passages (§1.1's economic-systems passage and Ch. 16 §§16.2, 16.3, 16.5 — 5 placements). This wave is the civics wave those filings pointed to: the whole book's civics/government teaching is placed below, section by section, from a contents-first read with every section's own summary text read; §§16.2, 16.3 and 16.5 are NOT re-placed (Economics wave), and §1.1 is placed only for its government-and-goods teaching, a different part than the economic-systems passage the Economics wave took. Verdict: COMPLETE (for the remaining strands) Contents map: Civics/Citizenship/Government pp. 8–605 (the whole book: government and engagement, Constitution, federalism, civil liberties, civil rights, public opinion, voting and elections, media, parties, interest groups, Congress, presidency, courts, state and local government, bureaucracy, public policy, foreign policy); Economics pp. 8–13 (passage), 545–570 (Ch. 16 — placed by the Economics wave, see header); History pp. 32–63 (the founding narrative inside Ch. 2, placed here as the Constitution's own civics foundation, the use the History wave itself recorded) Tally: 74 placements — 5 to existing lessons, 69 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| United States part 1 — culture-and-work/the-federal-court-system — 13.3 The Federal Court System — teaches: the federal courts' structure and stability, life-tenured judges, and presidents' hopes for their nominees — United States Grade 13 American Government 3e, printed p. 459 | United States, *American Government 3e* (student book), 13.3 The Federal Court System — printed p. 459 |
+| United States part 2 — culture-and-work/the-supreme-court — 13.4 The Supreme Court — teaches: the Supreme Court at work — nine justices, ceremonial untelevised proceedings, and a docket of contemporary questions — United States Grade 13 American Government 3e, printed p. 464 | United States, *American Government 3e* (student book), 13.4 The Supreme Court — printed p. 464 |
+
+**Acceptance count: taught in 8 countries (Yemen, Bahamas, Afghanistan, Morocco, Guatemala, Armenia, India, United States).**
+
+United States' own way (Grade 13 American Government 3e): the United States teaches its own government as one complete system in one book — the Constitution is not a topic but the frame: every institution (Congress, presidency, courts, states, counties, cities, the civil service) is derived from it in turn, and rights are taught as the courts have interpreted them, case by case.
+
+Registry note: the original coined string `culture-and-work/the-federal-court-system` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/the-judiciary-and-the-courts`.
+
+Registry note: the original coined string `culture-and-work/the-supreme-court` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/the-judiciary-and-the-courts`.

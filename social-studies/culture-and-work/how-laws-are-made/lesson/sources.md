@@ -1,6 +1,6 @@
 # Sources — How Laws Are Made
 
-countries: Samoa, Mexico, Bangladesh, Morocco, Guatemala
+countries: Samoa, Mexico, Bangladesh, Morocco, Guatemala, United States
 
 **Book 1:** *Social Studies — Year 10 Book One* (student book, English) — Title as printed: Social Studies — Year 10 Book One. Grade: Year 10 (student/teacher: STUDENT). Publisher: Government of Samoa, Department of Education; year 2001; ISBN 982-517-009-3. PDF pages: 100 (cover/title page verified against the record title; MESC copy, size 2,049,510 B per download list). Read from the MESC ministry source URL recorded in the books.json record — the same MESC PDF the Geography wave verified byte-for-byte against the record and already secured in GitHub (in_pushed: true) — via the browser text route, cover/title page and ISBN checked against the record before reading; no file staged — the book is already in GitHub, as filed in samoa-placements.md. Earlier waves: Geography wave placed Unit 3–4 skills (graphs, census, pp. 59–98) and named Units 1–2 "Civics, not placed"; History wave placed Unit 1 Topic 1's development narrative, Unit 2's historical case studies, the rights-documents chain, the UDHR and the Mau timeline (pp. 5–6, 10, 25–48) and named the present-day civics parts not placed (voting/law-making pp. 8–18, Japan pp. 19–22, UN/Amnesty/protest pp. 33–45, 48–58); Economics wave placed the census/graph skills only. The civics teaching named by both waves was read and placed here. Verdict: COMPLETE. Contents map: Civics/Citizenship/Government pp. 5–58 (Unit 1 Government; Unit 2 Human Rights); Geography/Skills pp. 59–98 (Units 3–4, placed by Geography wave). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/samoa-placements.md.
 
@@ -30,7 +30,7 @@ Samoa's own way: Government is taught as Samoa's own Westminster-style parliamen
 
 Registry note: the original coined string `culture-and-work/how-laws-are-made-in-samoa` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/how-laws-are-made`.
 
-Searchable tags: how laws are made, Samoa, social studies, culture-and-work, Mexico, Bangladesh
+Searchable tags: how laws are made, Samoa, social studies, culture-and-work, Mexico, Bangladesh, United States
 
 Registry note: the original coined string `culture-and-work/how-a-law-is-made` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/how-laws-are-made`.
 
@@ -60,3 +60,18 @@ Guatemala placements — Social Studies remaining strands (2026-11-17):
 
 Guatemala's own way (Book 7): the fifth-grade book is the series' citizenship book proper — a pupil meets democracy four times over (definition, citizenship, duties, participation) and every right is tied to the article of Guatemala's own Constitution that grants it.
 Registry note: the original coined string `culture-and-work/how-a-law-is-made-initiative-and-approval` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/how-laws-are-made`.
+
+
+United States placements — Social Studies remaining strands (2026-11-17):
+
+**Book 2:** *American Government 3e* (student book, English) — Title as printed: American Government 3e Grade: Grade 13 (introductory college / AP level) (student/teacher: STUDENT) Publisher: OpenStax, Rice University; year 2021; ISBN 978-1-951693-38-1 (digital version; hardcover 978-1-711493-96-1) PDF pages: 726 (cover/title page verified against the record title; fetched file 150 MB from the release asset) Earlier waves: Geography wave filed it RECORD-ONLY ("pure Civics / American Government — a later Civics wave owns it"); History wave filed it RECORD-ONLY ("the Civics folder work owns this book"); Economics wave placed only its economics passages (§1.1's economic-systems passage and Ch. 16 §§16.2, 16.3, 16.5 — 5 placements). This wave is the civics wave those filings pointed to: the whole book's civics/government teaching is placed below, section by section, from a contents-first read with every section's own summary text read; §§16.2, 16.3 and 16.5 are NOT re-placed (Economics wave), and §1.1 is placed only for its government-and-goods teaching, a different part than the economic-systems passage the Economics wave took. Verdict: COMPLETE (for the remaining strands) Contents map: Civics/Citizenship/Government pp. 8–605 (the whole book: government and engagement, Constitution, federalism, civil liberties, civil rights, public opinion, voting and elections, media, parties, interest groups, Congress, presidency, courts, state and local government, bureaucracy, public policy, foreign policy); Economics pp. 8–13 (passage), 545–570 (Ch. 16 — placed by the Economics wave, see header); History pp. 32–63 (the founding narrative inside Ch. 2, placed here as the Constitution's own civics foundation, the use the History wave itself recorded) Tally: 74 placements — 5 to existing lessons, 69 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| United States part — culture-and-work/the-legislative-process — 11.5 The Legislative Process — teaches: how a bill becomes law — committee, floor debate and amendment in one chamber, the same again in the other, conference, and the president's signature or veto — United States Grade 13 American Government 3e, printed p. 401 | United States, *American Government 3e* (student book), 11.5 The Legislative Process — printed p. 401 |
+
+**Acceptance count: taught in 6 countries (Samoa, Mexico, Bangladesh, Morocco, Guatemala, United States).**
+
+United States' own way (Grade 13 American Government 3e): the United States teaches its own government as one complete system in one book — the Constitution is not a topic but the frame: every institution (Congress, presidency, courts, states, counties, cities, the civil service) is derived from it in turn, and rights are taught as the courts have interpreted them, case by case.
+
+Registry note: the original coined string `culture-and-work/the-legislative-process` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/how-laws-are-made`.

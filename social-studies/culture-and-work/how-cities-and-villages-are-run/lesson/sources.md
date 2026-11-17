@@ -1,6 +1,6 @@
 # Sources — How Cities And Villages Are Run
 
-countries: Iran, Egypt, Philippines, Samoa, Albania, Ecuador, Yemen, Bhutan, Afghanistan, Tanzania, Eritrea, Belarus, Fiji, Venezuela, Bangladesh, Turkey, Morocco, Colombia, Iraq, North Macedonia, India
+countries: Iran, Egypt, Philippines, Samoa, Albania, Ecuador, Yemen, Bhutan, Afghanistan, Tanzania, Eritrea, Belarus, Fiji, Venezuela, Bangladesh, Turkey, Morocco, Colombia, Iraq, North Macedonia, India, United States
 
 **Book 1:** *مطالعات اجتماعی ـ پایه هفتم دوره اول متوسطه (Social Studies, Grade 7, first secondary cycle)* (student book, Persian) — Ministry of Education, Organization for Educational Research and Planning (سازمان پژوهش و برنامه‌ریزی آموزشی); prepared by the Office for Compiling General and Theoretical Secondary Textbooks (دفتر تألیف کتاب‌های درسی عمومی و متوسطه نظری); printed by the Iran Textbook Printing and Publishing Company; 13th printing, 1405; book code 707 (matches the record's C707). Title as printed: مطالعات اجتماعی ـ پایه هفتم دوره اول متوسطه (Social Studies, Grade 7, first secondary cycle). Grade: 7 (student/teacher: STUDENT). PDF pages: 184 (printed pagination runs 6 behind the PDF pages: printed p. 2 = PDF p. 8; title page verified as above; read via the books.json record's own ministry source file at chap.sch.ir — same book, exact byte size and page count as the record — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iran-placements.md.
 
@@ -164,7 +164,7 @@ Venezuela's own way (Venezuela Grade 5 G5 CS Venezuela y Su Gente): Grade 5's ci
 
 Registry note: the original coined string `culture-and-work/municipal-and-state-power` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §5 into this canonical lesson, `culture-and-work/how-cities-and-villages-are-run`.
 
-Searchable tags: how cities and villages are run, Iran, Egypt, Philippines, Samoa, Eritrea, social studies, culture-and-work, Albania, Ecuador, Yemen, Bhutan, Afghanistan, Belarus, Fiji, Venezuela, Bangladesh, Turkey, India
+Searchable tags: how cities and villages are run, Iran, Egypt, Philippines, Samoa, Eritrea, social studies, culture-and-work, Albania, Ecuador, Yemen, Bhutan, Afghanistan, Belarus, Fiji, Venezuela, Bangladesh, Turkey, India, United States
 
 Afghanistan's own way (Grade 5 Social Studies): society is taught as a ladder of belonging — family, school, village, district, city, country, and the wider Islamic umma — and the state appears as the servant of that society: ministries named one by one, each with its service, and peace named the first need of a country that has known decades of war.
 
@@ -254,3 +254,16 @@ India placements — Social Studies remaining strands (2026-11-17):
 India's own way (Social and Political Life-I, Grade 6): Civics opens not with institutions but with the child's own classroom diversity, then builds government in widening rings — nation, panchayat village, district offices, city corporation — always through named people and a story (a sarpanch, a patwari, a waste-picker).
 
 Registry note: the original coined string `culture-and-work/municipal-corporations-how-an-indian-city-is-run` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §5 into this canonical lesson, `culture-and-work/how-cities-and-villages-are-run`.
+
+
+United States placements — Social Studies remaining strands (2026-11-17):
+
+**Book 2:** *American Government 3e* (student book, English) — Title as printed: American Government 3e Grade: Grade 13 (introductory college / AP level) (student/teacher: STUDENT) Publisher: OpenStax, Rice University; year 2021; ISBN 978-1-951693-38-1 (digital version; hardcover 978-1-711493-96-1) PDF pages: 726 (cover/title page verified against the record title; fetched file 150 MB from the release asset) Earlier waves: Geography wave filed it RECORD-ONLY ("pure Civics / American Government — a later Civics wave owns it"); History wave filed it RECORD-ONLY ("the Civics folder work owns this book"); Economics wave placed only its economics passages (§1.1's economic-systems passage and Ch. 16 §§16.2, 16.3, 16.5 — 5 placements). This wave is the civics wave those filings pointed to: the whole book's civics/government teaching is placed below, section by section, from a contents-first read with every section's own summary text read; §§16.2, 16.3 and 16.5 are NOT re-placed (Economics wave), and §1.1 is placed only for its government-and-goods teaching, a different part than the economic-systems passage the Economics wave took. Verdict: COMPLETE (for the remaining strands) Contents map: Civics/Citizenship/Government pp. 8–605 (the whole book: government and engagement, Constitution, federalism, civil liberties, civil rights, public opinion, voting and elections, media, parties, interest groups, Congress, presidency, courts, state and local government, bureaucracy, public policy, foreign policy); Economics pp. 8–13 (passage), 545–570 (Ch. 16 — placed by the Economics wave, see header); History pp. 32–63 (the founding narrative inside Ch. 2, placed here as the Constitution's own civics foundation, the use the History wave itself recorded) Tally: 74 placements — 5 to existing lessons, 69 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| United States part — culture-and-work/how-cities-and-villages-are-run — 14.5 County and City Government — teaches: the closest governments — county officers (sheriff, clerk, assessor, treasurer, coroner, engineer) and the city's two shapes, mayor-council and council-manager, running water, parks and services — United States Grade 13 American Government 3e, printed p. 507 | United States, *American Government 3e* (student book), 14.5 County and City Government — printed p. 507 |
+
+**Acceptance count: taught in 21 countries (Iran, Egypt, Philippines, Samoa, Ecuador, Yemen, Bhutan, Afghanistan, Tanzania, Eritrea, Belarus, Fiji, Venezuela, Bangladesh, Turkey, Morocco, Colombia, Iraq, North Macedonia, India, United States).**
+
+United States' own way (Grade 13 American Government 3e): the United States teaches its own government as one complete system in one book — the Constitution is not a topic but the frame: every institution (Congress, presidency, courts, states, counties, cities, the civil service) is derived from it in turn, and rights are taught as the courts have interpreted them, case by case.

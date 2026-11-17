@@ -1,6 +1,6 @@
 # Sources — Political and Electoral Systems of the State
 
-countries: Egypt, Costa Rica, Maldives, Micronesia, Philippines, Bahamas, Bhutan, Mexico, Uganda, India
+countries: Egypt, Costa Rica, Maldives, Micronesia, Philippines, Bahamas, Bhutan, Mexico, Uganda, India, United States
 
 **Book 1:** *الجغرافيا السياسية (Political Geography) — كتاب الطالب والأنشطة والتدريبات (Student Book, Activities and Exercises)* (student book with activities, Arabic) — Egypt, Ministry of Education and Technical Education, Egypt; no year or ISBN on the cover pages read (the file is the ministry's 2026-folder student book). Title as printed: الجغرافيا السياسية (Political Geography). Grade 12, Third Secondary, Term 1 (student). 172 PDF pp. (cover verified against the record title; 28,573,835 bytes = record size exactly, from the recorded Azure source; staged in phase3-staging/grade-12/gov/egypt/Geography_Sec3.pdf under the push-don't-delete rule — its books.json record already existed there). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/egypt-placements.md.
 
@@ -81,7 +81,7 @@ Philippines's own way: the whole third unit of Grade 4 is one civics arc — the
 
 Bhutan's own way: the primary course closes by putting the whole state in front of the child — what a government is, Bhutan's own change from monarchy to Democratic Constitutional Monarchy in 2008, its three branches told through the courts' own ladder and the kabney/patang ranks the King bestows, the Article 7 fundamental rights quoted from Bhutan's Constitution, and a social-problems chapter that names Bhutan's own helping agencies (Royal Bhutan Police, RENEW, NCWC) for every problem.
 
-Searchable tags: political and electoral systems of the state, Egypt, Costa Rica, Maldives, Micronesia, Philippines, social studies, global-issues, Bahamas, Bhutan, Mexico, Uganda, India
+Searchable tags: political and electoral systems of the state, Egypt, Costa Rica, Maldives, Micronesia, Philippines, social studies, global-issues, Bahamas, Bhutan, Mexico, Uganda, India, United States
 
 India placements — Social Studies remaining strands (2026-11-17):
 
@@ -94,3 +94,16 @@ India placements — Social Studies remaining strands (2026-11-17):
 **Acceptance count: taught in 10 countries (Egypt, Costa Rica, Maldives, Micronesia, Philippines, Bahamas, Bhutan, Mexico, Uganda, India).**
 
 India's own way (Democratic Politics-I, Grade 9): Democracy is built as an argument, not a list — a Meghalaya classroom debates the definition itself, Pakistan under Musharraf and Mexico's one-party years serve as the "pretend democracy" tests, and South Africa's constitution-making is the mirror for India's own.
+
+
+United States placements — Social Studies remaining strands (2026-11-17):
+
+**Book 2:** *American Government 3e* (student book, English) — Title as printed: American Government 3e Grade: Grade 13 (introductory college / AP level) (student/teacher: STUDENT) Publisher: OpenStax, Rice University; year 2021; ISBN 978-1-951693-38-1 (digital version; hardcover 978-1-711493-96-1) PDF pages: 726 (cover/title page verified against the record title; fetched file 150 MB from the release asset) Earlier waves: Geography wave filed it RECORD-ONLY ("pure Civics / American Government — a later Civics wave owns it"); History wave filed it RECORD-ONLY ("the Civics folder work owns this book"); Economics wave placed only its economics passages (§1.1's economic-systems passage and Ch. 16 §§16.2, 16.3, 16.5 — 5 placements). This wave is the civics wave those filings pointed to: the whole book's civics/government teaching is placed below, section by section, from a contents-first read with every section's own summary text read; §§16.2, 16.3 and 16.5 are NOT re-placed (Economics wave), and §1.1 is placed only for its government-and-goods teaching, a different part than the economic-systems passage the Economics wave took. Verdict: COMPLETE (for the remaining strands) Contents map: Civics/Citizenship/Government pp. 8–605 (the whole book: government and engagement, Constitution, federalism, civil liberties, civil rights, public opinion, voting and elections, media, parties, interest groups, Congress, presidency, courts, state and local government, bureaucracy, public policy, foreign policy); Economics pp. 8–13 (passage), 545–570 (Ch. 16 — placed by the Economics wave, see header); History pp. 32–63 (the founding narrative inside Ch. 2, placed here as the Constitution's own civics foundation, the use the History wave itself recorded) Tally: 74 placements — 5 to existing lessons, 69 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| United States part — global-issues/political-and-electoral-systems-of-the-state — 7.3 Elections — teaches: how US elections run — their kinds and administration, campaign-finance limits and disclosure, and the Citizens United decision opening organisational spending — United States Grade 13 American Government 3e, printed p. 236 | United States, *American Government 3e* (student book), 7.3 Elections — printed p. 236 |
+
+**Acceptance count: taught in 11 countries (Egypt, Costa Rica, Maldives, Micronesia, Philippines, Bahamas, Bhutan, Mexico, Uganda, India, United States).**
+
+United States' own way (Grade 13 American Government 3e): the United States teaches its own government as one complete system in one book — the Constitution is not a topic but the frame: every institution (Congress, presidency, courts, states, counties, cities, the civil service) is derived from it in turn, and rights are taught as the courts have interpreted them, case by case.

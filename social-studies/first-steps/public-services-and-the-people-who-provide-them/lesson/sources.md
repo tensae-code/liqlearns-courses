@@ -1,6 +1,6 @@
 # Sources — Public Services And The People Who Provide Them
 
-countries: Honduras, Sweden, Bahrain, Philippines, Haiti, Ecuador, Yemen, Afghanistan, Somalia, Mexico, Uganda, Fiji, Oman, Syria, Morocco, India, Angola
+countries: Honduras, Sweden, Bahrain, Philippines, Haiti, Ecuador, Yemen, Afghanistan, Somalia, Mexico, Uganda, Fiji, Oman, Syria, Morocco, India, Angola, United States
 
 **Book 1:** *Libro para Estudiantes del área de Ciencias Sociales — Primer grado de Educación Básica (cover: 'Ciencias Sociales — Primer grado — Libro para Estudiantes')* (student book, Spanish) — Universidad Pedagógica Nacional Francisco Morazán (UPNFM), elaborated for the Secretaría de Estado en el Despacho de Educación de Honduras; preliminary edition (Edición Preliminar) 2020 as printed on the credits page; no ISBN printed. Title as printed: Libro para Estudiantes del área de Ciencias Sociales — Primer grado de Educación Básica (cover: 'Ciencias Sociales — Primer grado — Libro para Estudiantes'). Grade: Grade 1 (student/teacher: STUDENT). PDF pages: 182 (cover/title page verified against the record title; read from the recorded ministry source educatrachos.hn, 66,184,073 bytes, SHA-256 prefix 1c4e29b7525c2dd3). Verdict: COMPLETE. History/Civics parts NOT placed (named for later waves): Bloque 1 'La persona y su ser social' (personal/social and civics formation, printed pp. 10–46); Bloque 3 'Las sociedades y el tiempo social' (History, printed pp. 94–134); Bloque 4 lessons not placed above (social organisation, authorities, laws and demands — Civics, printed pp. 138 onwards). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/honduras-placements.md.
 
@@ -127,7 +127,7 @@ Syria's own way (Social Studies Grade 6): civics is taught inside the Arab-world
 
 Syria's own way (Social Studies Grade 3): Grade 3 is where the series turns civic — the child meets the vote inside a classroom quarrel (proposals, persuasion, a ballot box, the winner implemented), meets rights on World Children's Rights Day (20 November) as picture pairs where every right is matched by its duty, and meets the inclusive city: the society-we-want lesson is built around services for people with special needs, down to the sign-language alphabet and Braille.
 
-Searchable tags: public services and the people who provide them, Honduras, Sweden, Bahrain, Philippines, social studies, first-steps, Haiti, Ecuador, Yemen, Afghanistan, Somalia, Mexico, Uganda, Fiji, Oman, Syria, India
+Searchable tags: public services and the people who provide them, Honduras, Sweden, Bahrain, Philippines, social studies, first-steps, Haiti, Ecuador, Yemen, Afghanistan, Somalia, Mexico, Uganda, Fiji, Oman, Syria, India, United States
 
 Afghanistan's own way (Grade 4 Social Studies): the child's world widens in rings — social life, family, mosque, school, village, city, homeland, world, Earth — and every ring carries its duties with it: respect for elders at home, duties and order at school, reverence for the flag, obedience to traffic rules.
 
@@ -182,3 +182,16 @@ Angola placements — Social Studies remaining strands (2026-11-17):
 **Acceptance count: taught in 12 countries (Honduras, Bahrain, Philippines, Ecuador, Yemen, Afghanistan, Mexico, Uganda, Fiji, Syria, India, Angola).**
 
 Angola's own way (Book 24): Grade 4 names the idea itself — instituições públicas: buildings that belong to no private person but serve everyone — and defines quality of life as a checklist a community can judge itself by (education, health, housing, food, hygiene, culture, leisure), ending on the shared duties of sanitation and water.
+
+
+United States placements — Social Studies remaining strands (2026-11-17):
+
+**Book 2:** *American Government 3e* (student book, English) — Title as printed: American Government 3e Grade: Grade 13 (introductory college / AP level) (student/teacher: STUDENT) Publisher: OpenStax, Rice University; year 2021; ISBN 978-1-951693-38-1 (digital version; hardcover 978-1-711493-96-1) PDF pages: 726 (cover/title page verified against the record title; fetched file 150 MB from the release asset) Earlier waves: Geography wave filed it RECORD-ONLY ("pure Civics / American Government — a later Civics wave owns it"); History wave filed it RECORD-ONLY ("the Civics folder work owns this book"); Economics wave placed only its economics passages (§1.1's economic-systems passage and Ch. 16 §§16.2, 16.3, 16.5 — 5 placements). This wave is the civics wave those filings pointed to: the whole book's civics/government teaching is placed below, section by section, from a contents-first read with every section's own summary text read; §§16.2, 16.3 and 16.5 are NOT re-placed (Economics wave), and §1.1 is placed only for its government-and-goods teaching, a different part than the economic-systems passage the Economics wave took. Verdict: COMPLETE (for the remaining strands) Contents map: Civics/Citizenship/Government pp. 8–605 (the whole book: government and engagement, Constitution, federalism, civil liberties, civil rights, public opinion, voting and elections, media, parties, interest groups, Congress, presidency, courts, state and local government, bureaucracy, public policy, foreign policy); Economics pp. 8–13 (passage), 545–570 (Ch. 16 — placed by the Economics wave, see header); History pp. 32–63 (the founding narrative inside Ch. 2, placed here as the Constitution's own civics foundation, the use the History wave itself recorded) Tally: 74 placements — 5 to existing lessons, 69 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| United States part — first-steps/public-services-and-the-people-who-provide-them — 15.2 Toward a Merit-Based Civil Service — teaches: the merit civil service — appointment and promotion by competence instead of party favour, and the tradeoff of officials less responsive to elected politicians — United States Grade 13 American Government 3e, printed p. 521 | United States, *American Government 3e* (student book), 15.2 Toward a Merit-Based Civil Service — printed p. 521 |
+
+**Acceptance count: taught in 13 countries (Honduras, Bahrain, Philippines, Ecuador, Yemen, Afghanistan, Mexico, Uganda, Fiji, Syria, India, Angola, United States).**
+
+United States' own way (Grade 13 American Government 3e): the United States teaches its own government as one complete system in one book — the Constitution is not a topic but the frame: every institution (Congress, presidency, courts, states, counties, cities, the civil service) is derived from it in turn, and rights are taught as the courts have interpreted them, case by case.

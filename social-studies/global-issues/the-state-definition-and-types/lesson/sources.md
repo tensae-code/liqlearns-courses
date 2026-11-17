@@ -1,6 +1,6 @@
 # Sources — The State — Definition and Types
 
-countries: Egypt, Haiti, Afghanistan, Eritrea, Mexico, Belarus, Syria, Bangladesh, Iraq, Armenia, Kazakhstan
+countries: Egypt, Haiti, Afghanistan, Eritrea, Mexico, Belarus, Syria, Bangladesh, Iraq, Armenia, Kazakhstan, United States
 
 **Book 1:** *الجغرافيا السياسية (Political Geography) — كتاب الطالب والأنشطة والتدريبات (Student Book, Activities and Exercises)* (student book with activities, Arabic) — Egypt, Ministry of Education and Technical Education, Egypt; no year or ISBN on the cover pages read (the file is the ministry's 2026-folder student book). Title as printed: الجغرافيا السياسية (Political Geography). Grade 12, Third Secondary, Term 1 (student). 172 PDF pp. (cover verified against the record title; 28,573,835 bytes = record size exactly, from the recorded Azure source; staged in phase3-staging/grade-12/gov/egypt/Geography_Sec3.pdf under the push-don't-delete rule — its books.json record already existed there). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/egypt-placements.md.
 
@@ -62,7 +62,7 @@ Eritrea's own way (ER G7 Social Studies): government is taught as a growth story
 
 Syria's own way (Social Studies Grade 6): civics is taught inside the Arab-world regional tour — the state lesson interrupts the geography of Africa to define the state from Syria's own case (sovereignty won 17 April 1946, land, nation, authority), and the family/institutions unit teaches society as a ladder of organised groups, from the family cell to the cultural institutions the Ministry of Culture runs.
 
-Searchable tags: the state definition and types, Egypt, Eritrea, social studies, global-issues, Haiti, Afghanistan, Mexico, Belarus, Syria, Bangladesh
+Searchable tags: the state definition and types, Egypt, Eritrea, social studies, global-issues, Haiti, Afghanistan, Mexico, Belarus, Syria, Bangladesh, United States
 
 Afghanistan's own way (Grade 6 Social Studies): the Afghan state is taught as the child's own house — society needs a state as a family needs order; the 2004 constitution is the "mother law"; the two houses are named in Pashto (Wolesi Jirga, Meshrano Jirga) and every right (children's, women's, human dignity) is grounded first in Islam and then in the constitution's own articles.
 
@@ -114,3 +114,17 @@ Kazakhstan placements — Social Studies remaining strands (2026-11-17):
 **Acceptance count: taught in 10 countries (Egypt, Afghanistan, Eritrea, Mexico, Belarus, Syria, Bangladesh, Iraq, Armenia, Kazakhstan). Haiti is named here as teacher-guide evidence only, counted nowhere.**
 
 Kazakhstan's own way (Book 1): the primary course opens inside the child's own circles — class, family, school rules — and only then widens to the state: independence is taught as a checklist of a real state (territory, people, president and government, constitution, symbols, capital, tenge), and Kazakh family culture (the Tusau keser first-steps rite, the dastarkhan, hospitality) carries the family theme.
+
+
+United States placements — Social Studies remaining strands (2026-11-17):
+
+**Book 2:** *American Government 3e* (student book, English) — Title as printed: American Government 3e Grade: Grade 13 (introductory college / AP level) (student/teacher: STUDENT) Publisher: OpenStax, Rice University; year 2021; ISBN 978-1-951693-38-1 (digital version; hardcover 978-1-711493-96-1) PDF pages: 726 (cover/title page verified against the record title; fetched file 150 MB from the release asset) Earlier waves: Geography wave filed it RECORD-ONLY ("pure Civics / American Government — a later Civics wave owns it"); History wave filed it RECORD-ONLY ("the Civics folder work owns this book"); Economics wave placed only its economics passages (§1.1's economic-systems passage and Ch. 16 §§16.2, 16.3, 16.5 — 5 placements). This wave is the civics wave those filings pointed to: the whole book's civics/government teaching is placed below, section by section, from a contents-first read with every section's own summary text read; §§16.2, 16.3 and 16.5 are NOT re-placed (Economics wave), and §1.1 is placed only for its government-and-goods teaching, a different part than the economic-systems passage the Economics wave took. Verdict: COMPLETE (for the remaining strands) Contents map: Civics/Citizenship/Government pp. 8–605 (the whole book: government and engagement, Constitution, federalism, civil liberties, civil rights, public opinion, voting and elections, media, parties, interest groups, Congress, presidency, courts, state and local government, bureaucracy, public policy, foreign policy); Economics pp. 8–13 (passage), 545–570 (Ch. 16 — placed by the Economics wave, see header); History pp. 32–63 (the founding narrative inside Ch. 2, placed here as the Constitution's own civics foundation, the use the History wave itself recorded) Tally: 74 placements — 5 to existing lessons, 69 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| United States part 1 — global-issues/the-state-definition-and-types — 1.1 What is Government? — teaches: what government is and does — public, common, toll and private goods distinguished, and government as the structure through which people make their needs known to officials, the key of a representative democracy against oligarchy — United States Grade 13 American Government 3e, printed p. 8 | United States, *American Government 3e* (student book), 1.1 What is Government? — printed p. 8 |
+| United States part 2 — global-issues/the-state-definition-and-types — 3.1 The Division of Powers — teaches: federalism against its alternatives — unitary systems concentrate authority nationally, confederations in the parts; the US Constitution allocates powers between states and federation — United States Grade 13 American Government 3e, printed p. 66 | United States, *American Government 3e* (student book), 3.1 The Division of Powers — printed p. 66 |
+
+**Acceptance count: taught in 11 countries (Egypt, Afghanistan, Eritrea, Mexico, Belarus, Syria, Bangladesh, Iraq, Armenia, Kazakhstan, United States). Haiti is named here as teacher-guide evidence only, counted nowhere.**
+
+United States' own way (Grade 13 American Government 3e): the United States teaches its own government as one complete system in one book — the Constitution is not a topic but the frame: every institution (Congress, presidency, courts, states, counties, cities, the civil service) is derived from it in turn, and rights are taught as the courts have interpreted them, case by case.
