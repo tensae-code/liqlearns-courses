@@ -1,8 +1,8 @@
 # Sources — Caring for My Senses
 
-countries: China, El Salvador, Bulgaria, Iran, Estonia
+countries: China, El Salvador, Bulgaria, Iran, Estonia, Indonesia
 
-**Acceptance count: taught in 4 countries.** China and El Salvador are filed as student-book stock, inside the acceptance count, in this lesson. Bulgaria is filed as student-book stock, inside the acceptance count, in this lesson. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Estonia is filed as teacher-guide evidence only in this lesson (see its Estonia section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is stocked in this lesson for Estonia.
+**Acceptance count: taught in 5 countries.** China and El Salvador are filed as student-book stock, inside the acceptance count, in this lesson. Bulgaria is filed as student-book stock, inside the acceptance count, in this lesson. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Estonia is filed as teacher-guide evidence only in this lesson (see its Estonia section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is stocked in this lesson for Estonia. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count.
 
 **Book 1 — 普通高中教科书·体育与健康必修 全一册 (PEP Senior-High PE & Health, Compulsory, Complete Volume) (student book, Chinese):**
 - Title as printed: 普通高中教科书·体育与健康必修 全一册
@@ -130,4 +130,23 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/estonia-heal
 
 Estonia is added in this lesson as teacher-guide evidence only, outside the acceptance count — see the book lines and rows above. This lesson teaches its Estonia placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: caring for my senses, looking after your eyes, preventing serious eye disease, preventing eye injuries, China Senior High PEP PE & Health, five senses, touch taste sight hearing smell, caring for skin nose tongue ears eyes, El Salvador Ciencia Salud y Medio Ambiente 1, Qué dicen los sentidos, visual system diseases prevention, hearing and balance diseases prevention, skin structure functions diseases prevention, Bulgaria Biology and Health Education Grade 8 Pedagog 6, Iran, Estonia, Toitumine ja liikumine, Digiõpik Lesson 24
+## Indonesia — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/indonesia-health-placements.md. 1 Indonesia placement(s) stocked in this lesson. The Indonesia book(s) stocked in this lesson: Book 14 of that file. All Indonesia books stocked here are STUDENT books, so Indonesia is student-book stock, inside the acceptance count, in this lesson. The placements file records 30 records / 15 distinct books (each book appears twice: a books.json "secured" record recorded as pushed, and the same book as a SIBI download-list link); the GitHub tree route was tried once per secured record and returned 404 (files absent from the repo — phantom-push library debts, as filed), and every book was then read from the official SIBI / Kemendikdasmen ministry PDF at its recorded link, byte size verified against the download-list record, cover verified, and the file staged into its phase3-staging path under the push-don't-delete rule. Teacher guides/programmes are evidence only, listed here but outside the acceptance counts. No Indonesia placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 14 — Layanan Kesehatan G10 Semester 2 (student book, Indonesian):**
+- Title as printed: Dasar-Dasar Layanan Kesehatan untuk SMK/MAK Kelas X Semester 2
+- Grade: 10 (SMK vocational) (student/teacher: STUDENT)
+- Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2022; ISBN 978-602-244-989-8 (no.jil.lengkap)
+- PDF pages: 256 (cover verified against the record title; byte size 12,521,881 = record)
+- Verdict: COMPLETE — vocational health-services book: one long anatomy/physiology chapter (body-knowledge material, filed under the HELD pattern as it fits neither Health title) and one growth-and-development chapter.
+- Indonesia's own way: anatomy is taught system by system for future health workers, and growth is followed stage by stage — infant, toddler, preschool, school age, adolescent — with the classic developmental lenses (Erikson, Piaget, Kohlberg, Freud) at the school-age stage.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/indonesia-health-placements.md (Book 14 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab 1 J Sistem Indera — the sense organs: eye, smell, taste, ear, skin (held pattern) (original string `staying-safe/HELD-title-decision`) | Indonesia Grade 10 Layanan Kesehatan Sem 2, printed p. 98 |
+
+Indonesia is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the acceptance count rises from 4 to 5 countries. The Indonesia placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved to this lesson by the slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Indonesia's own way is content, as the book lines above record it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: caring for my senses, looking after your eyes, preventing serious eye disease, preventing eye injuries, China Senior High PEP PE & Health, five senses, touch taste sight hearing smell, caring for skin nose tongue ears eyes, El Salvador Ciencia Salud y Medio Ambiente 1, Qué dicen los sentidos, visual system diseases prevention, hearing and balance diseases prevention, skin structure functions diseases prevention, Bulgaria Biology and Health Education Grade 8 Pedagog 6, Iran, Estonia, Toitumine ja liikumine, Digiõpik Lesson 24, Indonesia, Indonesia PJOK, Pendidikan Jasmani Olahraga dan Kesehatan, Dasar-Dasar Layanan Kesehatan, Isi Piringku

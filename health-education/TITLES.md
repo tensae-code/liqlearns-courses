@@ -504,3 +504,22 @@ filed PARTIAL exactly as filed, so each touched lesson's
 acceptance count rose by 1; the new lesson stands at
 acceptance count 1. No Thailand placement resolves to a
 PE-course lesson, so none was excluded as PE-bound.
+
+The Health expansion then added (Indonesia): no new lessons —
+66 placements stocked into existing lessons (Fair Play in
+Sport ×10, The Body Systems ×9, Healthy Habits Every Day ×8,
+Preventing Sports Injuries and First Aid ×8, Eating a Balanced
+Diet ×7, Diseases of Inactivity ×4, Why Exercise Keeps You
+Healthy ×3, Health Services and Health Workers ×3, Puberty
+and Growing Up ×3, Workplace Health and Safety ×2, Family and
+Friends, Your Body in Exercise, Mental Health and Wellbeing,
+Preventing Common Diseases, Making Good Decisions, Checking
+Health Information, Avoiding Accidents and Staying Safe,
+STIs and HIV Prevention, Caring for My Senses) — this course
+stays at 55 lessons. The PJOK and Layanan Kesehatan student
+books are student-book stock, inside the acceptance counts,
+in every lesson they touch (each touched lesson's count rose
+by 1, except STIs and HIV Prevention, touched only by a
+teacher guide); the teacher guides are teacher-guide evidence
+only, outside the counts. No Indonesia placement resolves to
+a PE-course lesson, so none was excluded as PE-bound.

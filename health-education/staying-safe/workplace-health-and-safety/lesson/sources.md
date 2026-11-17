@@ -1,8 +1,8 @@
 # Sources — Workplace Health and Safety
 
-countries: Iran, Estonia
+countries: Iran, Estonia, Indonesia
 
-**Acceptance count: taught in 2 country.** Iran is filed as student-book stock, inside the acceptance count, in this lesson (see its Iran section below). This is a canonical NEW lesson (slug-registry Part 1: `staying-safe/workplace-health-and-safety` — Workplace health and safety: occupational safety and health, ergonomics and correct working posture, and safe, healthy work and childcare environments), founded on Iran's student books below. Estonia is filed as student-book stock, inside the acceptance count, in this lesson (see its Estonia section below).
+**Acceptance count: taught in 3 country.** Iran is filed as student-book stock, inside the acceptance count, in this lesson (see its Iran section below). This is a canonical NEW lesson (slug-registry Part 1: `staying-safe/workplace-health-and-safety` — Workplace health and safety: occupational safety and health, ergonomics and correct working posture, and safe, healthy work and childcare environments), founded on Iran's student books below. Estonia is filed as student-book stock, inside the acceptance count, in this lesson (see its Estonia section below). Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count. The Indonesia teacher-guide rows in this lesson are filed as teacher-guide evidence only, outside the count.
 
 ## Iran — Health expansion 2026-11-16
 
@@ -76,4 +76,31 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/estonia-heal
 
 Estonia is added in this lesson as student-book stock, inside the acceptance count (via Book 1, the student web lesson) — see the book line and row above. This lesson teaches its Estonia placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: workplace health and safety, ergonomics, correct working posture, back pain, childcare environment safety, sleep rest play safety, Iran Grade 12 Health and Hygiene, Iran Student Companion PE C210301, Iran Pre-school Environment Health and Safety C210314, Iran, Estonia, Toitumine ja liikumine, Digiõpik Lesson 24
+## Indonesia — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/indonesia-health-placements.md. 2 Indonesia placement(s) stocked in this lesson. The Indonesia book(s) stocked in this lesson: Book 13, Book 15 of that file. Indonesia's student books stocked here are student-book stock, inside the acceptance count, in this lesson; its teacher guides stocked here are teacher-guide evidence only, outside the acceptance count. The placements file records 30 records / 15 distinct books (each book appears twice: a books.json "secured" record recorded as pushed, and the same book as a SIBI download-list link); the GitHub tree route was tried once per secured record and returned 404 (files absent from the repo — phantom-push library debts, as filed), and every book was then read from the official SIBI / Kemendikdasmen ministry PDF at its recorded link, byte size verified against the download-list record, cover verified, and the file staged into its phase3-staging path under the push-don't-delete rule. Teacher guides/programmes are evidence only, listed here but outside the acceptance counts. No Indonesia placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 13 — Layanan Kesehatan G10 Semester 1 (student book, Indonesian):**
+- Title as printed: Dasar-Dasar Layanan Kesehatan untuk SMK/MAK Kelas X Semester 1
+- Grade: 10 (SMK vocational) (student/teacher: STUDENT)
+- Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2022; ISBN 978-602-244-989-8 (no.jil.lengkap)
+- PDF pages: 224 (cover verified against the record title; byte size 11,154,656 = record)
+- Verdict: COMPLETE — vocational health-services book. Health-course parts placed below. Named, not placed (health-service operations/careers, outside the Health course's ground): Bab 1 B Fasilitas dan Proses Pelayanan Kesehatan (health facilities and service process, printed p. 16), Bab 1 C Pengelolaan Sumber Daya Manusia pada Fasilitas Kesehatan (staffing of health facilities, p. 29), Bab 2 Perkembangan Teknologi dan Isu-Isu Global (health technology, Industry 4.0, global warming, p. 39; its equipment catalogue in section D is apparatus inventory only), Bab 3 Healthpreneur dan Peluang Kerja (health entrepreneurship and jobs, p. 83).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/indonesia-health-placements.md (Book 13 of that file).
+
+**Book 15 — Layanan Kesehatan G10 Teacher (teacher guide, Indonesian):**
+- Title as printed: Buku Panduan Guru Dasar-Dasar Layanan Kesehatan untuk SMK/MAK Kelas X
+- Grade: 10 (SMK vocational) (student/teacher: TEACHER)
+- Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2022; ISBN 978-602-427-930-1
+- PDF pages: 320 (cover verified against the record title; byte size 28,419,479 = record)
+- Verdict: COMPLETE — guide for both semester books: a Panduan Khusus teaching guide per student chapter (learning activities, answer keys, remedial/enrichment — keys and assessment excluded per the brief). Guides for the operations/careers chapters named in Book 13's header are not placed, as there.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/indonesia-health-placements.md (Book 15 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab 1 A Keselamatan dan Kesehatan Kerja — occupational safety and health (K3): hazard signs and safety signs, personal protective equipment, and correct handwashing technique (original string `staying-safe/workplace-safety-and-health-k3`) | Indonesia Grade 10 Layanan Kesehatan Sem 1, printed p. 4 |
+| Indonesia — Semester 1 Bab 1 Panduan Pembelajaran — how to teach knowing the health-services field, including K3 safety (student Sem 1 Bab 1) (teacher guide — evidence) (original string `staying-safe/workplace-safety-and-health-k3`) | Indonesia Grade 10 Layanan Kesehatan Teacher, printed p. 47 (teacher guide — evidence) |
+
+Indonesia is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the acceptance count rises from 2 to 3 countries. The Indonesia teacher-guide rows above are filed as teacher-guide evidence only, outside the count. The Indonesia placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved to this lesson by the slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Indonesia's own way is content, as the book lines above record it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: workplace health and safety, ergonomics, correct working posture, back pain, childcare environment safety, sleep rest play safety, Iran Grade 12 Health and Hygiene, Iran Student Companion PE C210301, Iran Pre-school Environment Health and Safety C210314, Iran, Estonia, Toitumine ja liikumine, Digiõpik Lesson 24, Indonesia, Indonesia PJOK, Pendidikan Jasmani Olahraga dan Kesehatan, Dasar-Dasar Layanan Kesehatan, Isi Piringku

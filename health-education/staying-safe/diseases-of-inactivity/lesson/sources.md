@@ -1,8 +1,8 @@
 # Sources — Diseases of Inactivity
 
-countries: United Kingdom, Cyprus, Oman, Samoa, Honduras, Philippines, Greece, Zimbabwe, Malaysia
+countries: United Kingdom, Cyprus, Oman, Samoa, Honduras, Philippines, Greece, Zimbabwe, Malaysia, Indonesia
 
-**Acceptance count: taught in 7 countries.** Zimbabwe is filed as student-book stock, inside the acceptance count, in this lesson (see its Zimbabwe section below). United Kingdom and Cyprus are filed as student-book stock, inside the acceptance count, in this lesson. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Malaysia is filed as student-book stock, inside the acceptance count, in this lesson (see its Malaysia section below).
+**Acceptance count: taught in 8 countries.** Zimbabwe is filed as student-book stock, inside the acceptance count, in this lesson (see its Zimbabwe section below). United Kingdom and Cyprus are filed as student-book stock, inside the acceptance count, in this lesson. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Malaysia is filed as student-book stock, inside the acceptance count, in this lesson (see its Malaysia section below). Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count. The Indonesia teacher-guide rows in this lesson are filed as teacher-guide evidence only, outside the count.
 
 **Book 1 — Edexcel GCSE (9-1) Physical Education Student Book, 2nd edition (student book, English):**
 - Title as printed: Edexcel GCSE (9-1) Physical Education — Tony Scott (cover: "2nd edition")
@@ -161,4 +161,46 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/malaysia-hea
 
 Malaysia is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — all five Malaysia books are STUDENT books, so Malaysia is named in the countries line and provenance rows and the acceptance count rises from 6 to 7 countries. The Malaysia placements in this lesson were filed under the original strings recorded in the provenance rows above; the HELD-title-decision placements were resolved to this canonical lesson by registry Part 2B (HELD descriptions as recorded in the provenance rows). Malaysia's own way is content, as the book lines above record it: health is taught as the PEERS programme (Pendidikan Kesihatan Reproduktif dan Sosial — reproductive and social health education), with psychosocial skills — assertiveness, communication and decision-making — running through every topic, followed by standalone Nutrition and First Aid units. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: diseases of inactivity, sedentary lifestyle, consequences of inactivity, obesity, somatotypes body types, hypokinetic diseases, Edexcel GCSE Physical Education, United Kingdom GCSE Edexcel PE Student Book, sedentary life, Καθιστική Ζωή, sitting-still life, Cyprus Olympic Education Insert Grades 11-12, physical activity and chronic diseases النشاط البدني وعلاقته بالأمراض المزمنة, Oman G8 Teacher Guide, diseases of inactivity sedentary lifestyle processed foods diabetes heart disease hypertension obesity gout, Samoa Years 11–12 TG, Mantén tu salud física, sedentary living muscles degenerate spinal deviations foot deformities degenerative diseases, Honduras Telebásica Grade 8, Hypokinetic Diseases, diseases of a sedentary lifestyle, hyperlipidemia LDL HDL cholesterol, systolic diastolic pressure, type 1 vs type 2 diabetes, Philippines Grade 7 PE LM Units 1-2, health exercise and the cycle of life, sedentary life rising risks, heart attack, harms of smoking, Greece Grades 5-6 Fysiki Agogi E-ST, physical activity at home school and community, hypertension, cholera typhoid dysentery, anaemia, Zimbabwe PlusOne PE Sport and Mass Displays Grade 6, Secondary Book Press, Malaysia PJPK Tingkatan 1, Penyakit, hypokinetic diseases, heart disease hypertension obesity, PEERS
+## Indonesia — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/indonesia-health-placements.md. 4 Indonesia placement(s) stocked in this lesson. The Indonesia book(s) stocked in this lesson: Book 1, Book 5, Book 6 of that file. Indonesia's student books stocked here are student-book stock, inside the acceptance count, in this lesson; its teacher guides stocked here are teacher-guide evidence only, outside the acceptance count. The placements file records 30 records / 15 distinct books (each book appears twice: a books.json "secured" record recorded as pushed, and the same book as a SIBI download-list link); the GitHub tree route was tried once per secured record and returned 404 (files absent from the repo — phantom-push library debts, as filed), and every book was then read from the official SIBI / Kemendikdasmen ministry PDF at its recorded link, byte size verified against the download-list record, cover verified, and the file staged into its phase3-staging path under the push-don't-delete rule. Teacher guides/programmes are evidence only, listed here but outside the acceptance counts. No Indonesia placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 1 — PJOK G7 Student (student book, Indonesian):**
+- Title as printed: Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SMP/MTs Kelas VII
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-623-388-727-4 (jil.1 PDF)
+- PDF pages: 216 (cover/title page verified against the record title; byte size 11,290,722 = record)
+- Verdict: COMPLETE
+- Indonesia's own way: health is taught inside the PJOK book as two closing chapters — fitness of the body (Bab V) and choosing a healthy life (Bab VI) — tying health to activity habits, the national "Isi Piringku" balanced-plate guide, and teen issues such as gadget addiction.
+- Combined book: PE parts placed in indonesia-pe-placements.md (Book 1 there); health parts here.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/indonesia-health-placements.md (Book 1 of that file).
+
+**Book 5 — PJOK G9 Student (student book, Indonesian):**
+- Title as printed: Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SMP/MTs Kelas IX
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Kementerian Pendidikan Dasar dan Menengah (Kemendikdasmen); year 2025; ISBN 978-634-00-3179-9 (jil.3 PDF)
+- PDF pages: 280 (cover verified against the record title; byte size 6,740,759 = record)
+- Verdict: COMPLETE
+- Indonesia's own way: health at Grade 9 is two whole chapters — preventing sedentary behaviour (daily activity, its benefits, and the risks of sitting still) and a complete first-aid chapter for physical activity, ending in injury-handling practice and simulation.
+- Combined book: PE parts placed in indonesia-pe-placements.md (Book 5 there); health parts here.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/indonesia-health-placements.md (Book 5 of that file).
+
+**Book 6 — PJOK G9 Teacher (teacher guide, Indonesian):**
+- Title as printed: Panduan Guru Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SMP/MTs Kelas IX
+- Grade: 9 (student/teacher: TEACHER)
+- Publisher: Kementerian Pendidikan Dasar dan Menengah (Kemendikdasmen); year 2025; ISBN 978-634-00-3181-2 (jil.3 PDF)
+- PDF pages: 272 (cover verified against the record title; byte size 9,714,361 = record)
+- Verdict: COMPLETE
+- Combined book: PE parts placed in indonesia-pe-placements.md (Book 6 there); health parts here.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/indonesia-health-placements.md (Book 6 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab VI A Risiko Kesehatan Akibat Gaya Hidup — health risks that follow from lifestyle, including inactivity-related disease risk (held pattern) (original string `staying-safe/HELD-title-decision`) | Indonesia Grade 7 PJOK G7 Student, printed p. 157 |
+| Indonesia — Bab VI B Gaya Hidup Tidak Sehat — unhealthy lifestyles: poor diet and obesity, smoking, gadget addiction and sedentary habits (held pattern) (original string `staying-safe/HELD-title-decision`) | Indonesia Grade 7 PJOK G7 Student, printed p. 160 |
+| Indonesia — Bab 4 C Risiko Perilaku Sedenter — risks of sedentary behaviour, the diseases of inactivity (held pattern) (original string `staying-safe/HELD-title-decision`) | Indonesia Grade 9 PJOK G9 Student, printed p. 164 |
+| Indonesia — Bab 4 F Panduan Pembelajaran Buku Siswa — how to teach preventing sedentary behaviour (student Bab 4; held pattern) (teacher guide — evidence) (original string `staying-safe/HELD-title-decision`) | Indonesia Grade 9 PJOK G9 Teacher, printed p. 158 (teacher guide — evidence) |
+
+Indonesia is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the acceptance count rises from 7 to 8 countries. The Indonesia teacher-guide rows above are filed as teacher-guide evidence only, outside the count. The Indonesia placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved to this lesson by the slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Indonesia's own way is content, as the book lines above record it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: diseases of inactivity, sedentary lifestyle, consequences of inactivity, obesity, somatotypes body types, hypokinetic diseases, Edexcel GCSE Physical Education, United Kingdom GCSE Edexcel PE Student Book, sedentary life, Καθιστική Ζωή, sitting-still life, Cyprus Olympic Education Insert Grades 11-12, physical activity and chronic diseases النشاط البدني وعلاقته بالأمراض المزمنة, Oman G8 Teacher Guide, diseases of inactivity sedentary lifestyle processed foods diabetes heart disease hypertension obesity gout, Samoa Years 11–12 TG, Mantén tu salud física, sedentary living muscles degenerate spinal deviations foot deformities degenerative diseases, Honduras Telebásica Grade 8, Hypokinetic Diseases, diseases of a sedentary lifestyle, hyperlipidemia LDL HDL cholesterol, systolic diastolic pressure, type 1 vs type 2 diabetes, Philippines Grade 7 PE LM Units 1-2, health exercise and the cycle of life, sedentary life rising risks, heart attack, harms of smoking, Greece Grades 5-6 Fysiki Agogi E-ST, physical activity at home school and community, hypertension, cholera typhoid dysentery, anaemia, Zimbabwe PlusOne PE Sport and Mass Displays Grade 6, Secondary Book Press, Malaysia PJPK Tingkatan 1, Penyakit, hypokinetic diseases, heart disease hypertension obesity, PEERS, Indonesia, Indonesia PJOK, Pendidikan Jasmani Olahraga dan Kesehatan, Dasar-Dasar Layanan Kesehatan, Isi Piringku

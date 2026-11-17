@@ -1290,3 +1290,84 @@ for Thai children, a warm Thai-style family, and the senior
 books' Thai illness and death statistics, community
 accident planning and Thai drug laws (Narcotics Act
 B.E. 2522, volatile-substances decree B.E. 2533).
+
+**Health expansion — Indonesia — BUILT 2026-11-16:** 66 placements
+stocked — all into existing lessons and no new lessons — this
+course stays at **55 lessons**. All 66 are from Indonesia's
+15 distinct books (30 records in the placements file, each
+book appearing twice) read from the official SIBI /
+Kemendikdasmen ministry PDFs: the PJOK student books and
+teacher guides for Grades 7–12 and the vocational
+*Layanan Kesehatan* (Health Services) Semester 1 and 2
+student books and their teacher guide for Grade 10.
+Stocked into existing lessons: Fair Play in Sport (10),
+The Body Systems (9), Healthy Habits Every Day (8),
+Preventing Sports Injuries and First Aid (8), Eating a
+Balanced Diet (7), Diseases of Inactivity (4), Why Exercise
+Keeps You Healthy (3), Health Services and Health Workers
+(3), Puberty and Growing Up (3), Workplace Health and
+Safety (2), Family and Friends (1), Your Body in Exercise
+(1), Mental Health and Wellbeing (1), Preventing Common
+Diseases (1), Making Good Decisions (1), Checking Health
+Information (1), Avoiding Accidents and Staying Safe (1),
+STIs and HIV Prevention (1) and Caring for My Senses (1).
+The 21 HELD-title-decision placements are resolved by the
+slug registry Part 2B (The Body Systems ×9, Diseases of
+Inactivity ×4, Why Exercise Keeps You Healthy ×3, Family
+and Friends ×1, Your Body in Exercise ×1, Mental Health
+and Wellbeing ×1, Preventing Common Diseases ×1 and
+Caring for My Senses ×1 — the sense-organs segment of
+the anatomy chapter); descriptive strings
+are resolved by registry Part 2A (all fair-play strings,
+including `professional-ethics-in-health-services`, →
+Fair Play in Sport; `choosing-a-healthy-lifestyle` and
+`advocating-an-active-healthy-lifestyle` and
+`healthy-for-self-and-others` → Healthy Habits Every Day;
+the Grade 8 nutrition strings → Eating a Balanced Diet;
+`checking-vital-signs` and
+`communication-in-health-services` → Health Services and
+Health Workers; `communication-skills-for-health-advocacy`
+→ Making Good Decisions;
+`media-and-technology-for-healthy-living` → Checking
+Health Information; `safe-and-inclusive-activity-environments`
+→ Avoiding Accidents and Staying Safe;
+`sexually-transmitted-diseases` → STIs and HIV Prevention;
+`workplace-safety-and-health-k3` → Workplace Health and
+Safety; `human-growth-and-development` and
+`stages-of-growth-and-development` → Puberty and Growing
+Up); the remaining placements were filed under their
+lessons' own slugs (Preventing Sports Injuries and First
+Aid). The student books are student-book stock, inside the
+acceptance counts, in every lesson they touch (each touched
+lesson's count rose by 1, except STIs and HIV Prevention,
+which is touched only by the Grade 12 teacher guide and
+stays at 1 country); the teacher guides (PJOK Grades
+7–12 and the Layanan Kesehatan guide — 15 placements) are
+teacher-guide evidence only, outside the acceptance
+counts. Honesty notes, exactly as filed: the GitHub tree
+route returned 404 for every secured record (phantom-push
+library debts) and every book was read from its official
+SIBI ministry PDF, byte size verified, cover verified, and
+staged in phase3-staging under the push-don't-delete rule;
+Book 12, the Grade 12 teacher guide (2022), does not mirror
+the 2025 Grade 12 student book — its one health unit is
+Unit 10 (sexually transmitted diseases); Book 13's
+operations/careers chapters (health facilities and service
+process, staffing, health technology and global issues,
+and health entrepreneurship and jobs, printed pp. 16, 29,
+39 and 83) are named in the placements file, not placed,
+as outside the Health course's ground, and the matching
+teacher-guide chapters in Book 15 are likewise not placed.
+No Indonesia placement resolves to a PE-course lesson, so
+none was excluded as PE-bound. Indonesia's own ways are
+content: health inside the PJOK books as closing chapters
+on fitness and choosing a healthy life, the national
+"Isi Piringku" balanced-plate guide, the Grade 8 nutrition
+chapter running from choosing food to counting calories,
+reading labels and composing a menu, the Grade 9
+sedentary-behaviour and complete first-aid chapters, fair
+play studied as ethics at Grades 11–12, advocacy through
+media and technology, and the vocational anatomy taught
+system by system with growth followed stage by stage
+(infant, toddler, preschool, school age — with Erikson,
+Piaget, Kohlberg and Freud — and adolescence).

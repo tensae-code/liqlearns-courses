@@ -1,8 +1,8 @@
 # Sources — Fair Play in Sport
 
-countries: Haiti, Oman, Samoa, Honduras, Greece, Bhutan, Estonia
+countries: Haiti, Oman, Samoa, Honduras, Greece, Bhutan, Estonia, Indonesia
 
-**Acceptance count: taught in 3 countries.** Haiti is filed as teacher-programme evidence only in this lesson — named in the countries line and provenance row, but outside the acceptance count. Oman is likewise filed as teacher-guide evidence only, outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count — the first pupil's book in hand for this lesson. Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — all five Bhutan books are STUDENT books. Estonia is filed as teacher-guide evidence only in this lesson (see its Estonia section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is stocked in this lesson for Estonia.
+**Acceptance count: taught in 4 countries.** Haiti is filed as teacher-programme evidence only in this lesson — named in the countries line and provenance row, but outside the acceptance count. Oman is likewise filed as teacher-guide evidence only, outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count — the first pupil's book in hand for this lesson. Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — all five Bhutan books are STUDENT books. Estonia is filed as teacher-guide evidence only in this lesson (see its Estonia section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is stocked in this lesson for Estonia. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count. The Indonesia teacher-guide rows in this lesson are filed as teacher-guide evidence only, outside the count.
 
 **Book 3 (Haiti placements file) — Programme-Cadre de toutes les Matières, Nouveau Secondaire NS1–NS4 (teacher framework programme, French) — Health parts:**
 - Title as printed: Programme-Cadre de toutes les Matières — Nouveau Secondaire (MENFP/DES)
@@ -176,4 +176,97 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/estonia-heal
 
 Estonia is added in this lesson as teacher-guide evidence only, outside the acceptance count — see the book lines and rows above. This lesson teaches its Estonia placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: fair play in sport, fair play as democratic culture, values carried by games, managing conflict, refereeing, applying the rules, respect for authority and the adversary, tournaments for peace and camaraderie, Haiti Programme-Cadre NS Grades 10-13, MENFP, sports values and ethics القيم والأخلاق الرياضية, honesty respect fairness good conduct, Oman G6 Teacher Guide, Oman G8 Teacher Guide, sportsmanship safe and fair play practices positive cultural practices sports competitions, Samoa Years 1–8 Curriculum, deportividad sportsmanship respect rules rivals referee fair play, Olympism friendship solidarity excellence sport as a right, Honduras Telebásica Grades 8 and 9, correct sports behaviour ev agonizesthai, respecting rules referees opponents, controlling anger count slowly to ten, aggression and violence in sports venues, violence in the stadiums, levels of responsibility in sport, Greece Grades 5-6 Fysiki Agogi E-ST, Greece Grades 7-9 Fysiki Agogi Gymnasiou, Bhutan, Bhutan Class IV Suggested Activities, Estonia, Toitumine ja liikumine, Digiõpik Lesson 24
+## Indonesia — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/indonesia-health-placements.md. 10 Indonesia placement(s) stocked in this lesson. The Indonesia book(s) stocked in this lesson: Book 3, Book 4, Book 7, Book 9, Book 10, Book 11, Book 13, Book 15 of that file. Indonesia's student books stocked here are student-book stock, inside the acceptance count, in this lesson; its teacher guides stocked here are teacher-guide evidence only, outside the acceptance count. The placements file records 30 records / 15 distinct books (each book appears twice: a books.json "secured" record recorded as pushed, and the same book as a SIBI download-list link); the GitHub tree route was tried once per secured record and returned 404 (files absent from the repo — phantom-push library debts, as filed), and every book was then read from the official SIBI / Kemendikdasmen ministry PDF at its recorded link, byte size verified against the download-list record, cover verified, and the file staged into its phase3-staging path under the push-don't-delete rule. Teacher guides/programmes are evidence only, listed here but outside the acceptance counts. No Indonesia placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 3 — PJOK G8 Student (student book, Indonesian):**
+- Title as printed: Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SMP/MTs Kelas VIII
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-623-388-721-2 (jil.2)
+- PDF pages: 256 (cover verified against the record title; byte size 12,795,979 = record)
+- Verdict: COMPLETE
+- Indonesia's own way: health at Grade 8 is fair play/participation inside the games chapter and a full nutrition chapter (Gizi dan Makanan) that runs from choosing food to counting calories, reading labels and composing a healthy menu.
+- Combined book: PE parts placed in indonesia-pe-placements.md (Book 3 there); health parts here.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/indonesia-health-placements.md (Book 3 of that file).
+
+**Book 4 — PJOK G8 Teacher (teacher guide, Indonesian):**
+- Title as printed: Panduan Guru Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SMP/MTs Kelas VIII
+- Grade: 8 (student/teacher: TEACHER)
+- Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-623-388-735-9 (jil.2)
+- PDF pages: 288 (cover verified against the record title; byte size 5,856,361 = record)
+- Verdict: COMPLETE
+- Combined book: PE parts placed in indonesia-pe-placements.md (Book 4 there); health parts here.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/indonesia-health-placements.md (Book 4 of that file).
+
+**Book 7 — PJOK G10 Student (student book, Indonesian):**
+- Title as printed: Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SMA/MA/SMK/MAK Kelas X
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-634-00-0094-8 (jil.1 PDF)
+- PDF pages: 240 (cover verified against the record title; byte size 7,042,962 = record)
+- Verdict: COMPLETE
+- Indonesia's own way: health at Grade 10 closes the book as "personal and social health" — evaluating health risks, first aid, healthy nutritious food and a healthy, active, sustainable lifestyle — with fair play taught at the end of the ethics chapter.
+- Combined book: PE parts placed in indonesia-pe-placements.md (Book 7 there); health parts here.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/indonesia-health-placements.md (Book 7 of that file).
+
+**Book 9 — PJOK G11 Student (student book, Indonesian):**
+- Title as printed: Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SMA/MA/SMK/MAK Kelas XI
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-634-00-0095-5 (jil.2 PDF)
+- PDF pages: 256 (cover verified against the record title; byte size 12,398,992 = record)
+- Verdict: COMPLETE
+- Indonesia's own way: health at Grade 11 is fair play studied as ethics (its effect on personal development and its long-term benefits) and a closing advocacy chapter — pupils learn communication skills and use media/social media and technology to promote an active, healthy lifestyle.
+- Combined book: PE parts placed in indonesia-pe-placements.md (Book 9 there); health parts here.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/indonesia-health-placements.md (Book 9 of that file).
+
+**Book 10 — PJOK G11 Teacher (teacher guide, Indonesian):**
+- Title as printed: Buku Panduan Guru Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SMA/MA/SMK/MAK Kelas XI
+- Grade: 11 (student/teacher: TEACHER)
+- Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-634-00-0105-1 (jil.2 PDF)
+- PDF pages: 280 (cover verified against the record title; byte size 6,992,000 = record)
+- Verdict: COMPLETE
+- Combined book: PE parts placed in indonesia-pe-placements.md (Book 10 there); health parts here.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/indonesia-health-placements.md (Book 10 of that file).
+
+**Book 11 — PJOK G12 Student (student book, Indonesian):**
+- Title as printed: Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SMA/MA/SMK/MAK Kelas XII
+- Grade: 12 (student/teacher: STUDENT)
+- Publisher: Kementerian Pendidikan Dasar dan Menengah (Kemendikdasmen); year 2025; ISBN 978-634-00-0093-1 (no.jil.lengkap; no separate jil PDF ISBN printed)
+- PDF pages: 280 (cover verified against the record title; byte size 8,811,987 = record)
+- Verdict: COMPLETE
+- Indonesia's own way: health at Grade 12 is a closing chapter on health and safety in physical activity — being healthy for yourself and others, life-saving procedures, emergency handling, and building a safe, inclusive activity environment — plus evaluating your own fair play in the leadership chapter.
+- Combined book: PE parts placed in indonesia-pe-placements.md (Book 11 there); health parts here.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/indonesia-health-placements.md (Book 11 of that file).
+
+**Book 13 — Layanan Kesehatan G10 Semester 1 (student book, Indonesian):**
+- Title as printed: Dasar-Dasar Layanan Kesehatan untuk SMK/MAK Kelas X Semester 1
+- Grade: 10 (SMK vocational) (student/teacher: STUDENT)
+- Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2022; ISBN 978-602-244-989-8 (no.jil.lengkap)
+- PDF pages: 224 (cover verified against the record title; byte size 11,154,656 = record)
+- Verdict: COMPLETE — vocational health-services book. Health-course parts placed below. Named, not placed (health-service operations/careers, outside the Health course's ground): Bab 1 B Fasilitas dan Proses Pelayanan Kesehatan (health facilities and service process, printed p. 16), Bab 1 C Pengelolaan Sumber Daya Manusia pada Fasilitas Kesehatan (staffing of health facilities, p. 29), Bab 2 Perkembangan Teknologi dan Isu-Isu Global (health technology, Industry 4.0, global warming, p. 39; its equipment catalogue in section D is apparatus inventory only), Bab 3 Healthpreneur dan Peluang Kerja (health entrepreneurship and jobs, p. 83).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/indonesia-health-placements.md (Book 13 of that file).
+
+**Book 15 — Layanan Kesehatan G10 Teacher (teacher guide, Indonesian):**
+- Title as printed: Buku Panduan Guru Dasar-Dasar Layanan Kesehatan untuk SMK/MAK Kelas X
+- Grade: 10 (SMK vocational) (student/teacher: TEACHER)
+- Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2022; ISBN 978-602-427-930-1
+- PDF pages: 320 (cover verified against the record title; byte size 28,419,479 = record)
+- Verdict: COMPLETE — guide for both semester books: a Panduan Khusus teaching guide per student chapter (learning activities, answer keys, remedial/enrichment — keys and assessment excluded per the brief). Guides for the operations/careers chapters named in Book 13's header are not placed, as there.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/indonesia-health-placements.md (Book 15 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab IV C Sikap Fair Play dan Partisipasi — fair play attitude and taking part: honesty, respect and joining in modified games (original string `fair-play-and-the-body/fair-play-and-participation`) | Indonesia Grade 8 PJOK G8 Student, printed p. 131 |
+| Indonesia — Panduan Khusus Bab IV E Panduan Pembelajaran — how to teach fair play and participation (student Bab IV C) (teacher guide — evidence) (original string `fair-play-and-the-body/fair-play-and-participation`) | Indonesia Grade 8 PJOK G8 Teacher, printed p. 150 (teacher guide — evidence) |
+| Indonesia — Bab 5 D Fair Play — fair play: playing honestly and respecting opponents, officials and rules (original string `fair-play-and-the-body/fair-play-in-sport`) | Indonesia Grade 10 PJOK G10 Student, printed p. 159 |
+| Indonesia — Bab IV A Memahami Fair Play dan Perilaku Etis — what fair play is in physical activity and how it is applied (original string `fair-play-and-the-body/understanding-fair-play-and-ethics`) | Indonesia Grade 11 PJOK G11 Student, printed p. 130 |
+| Indonesia — Bab IV B Analisis Dampak Fair Play Terhadap Perkembangan Individu — how fair play and ethical behaviour affect personal development; fair play vs ethical behaviour compared (original string `fair-play-and-the-body/fair-play-and-personal-development`) | Indonesia Grade 11 PJOK G11 Student, printed p. 137 |
+| Indonesia — Bab IV C Menganalisis Manfaat Jangka Panjang dari Fair Play dan Perilaku Etis — long-term benefits of fair play and ethical behaviour (original string `fair-play-and-the-body/long-term-benefits-of-fair-play`) | Indonesia Grade 11 PJOK G11 Student, printed p. 150 |
+| Indonesia — BAB IV E Panduan Pembelajaran Buku Peserta Didik — how to teach fair play and ethical behaviour (student Bab IV) (teacher guide — evidence) (original string `fair-play-and-the-body/understanding-fair-play-and-ethics`) | Indonesia Grade 11 PJOK G11 Teacher, printed p. 151 (teacher guide — evidence) |
+| Indonesia — Bab 3 C Mengevaluasi Sikap Fair Play dan Merefleksikan Perilaku Etis — evaluating your fair play attitude and reflecting on ethical behaviour, respect and equality in activity (original string `fair-play-and-the-body/evaluating-fair-play-and-ethical-behaviour`) | Indonesia Grade 12 PJOK G12 Student, printed p. 116 |
+| Indonesia — Bab 5 A Etika dan Etiket — ethics and etiquette in health services (original string `fair-play-and-the-body/professional-ethics-in-health-services`) | Indonesia Grade 10 Layanan Kesehatan Sem 1, printed p. 134 |
+| Indonesia — Semester 1 Bab 5 Panduan Pembelajaran — how to teach ethics, etiquette and communication in health services (student Sem 1 Bab 5) (teacher guide — evidence) (original string `fair-play-and-the-body/professional-ethics-in-health-services`) | Indonesia Grade 10 Layanan Kesehatan Teacher, printed p. 150 (teacher guide — evidence) |
+
+Indonesia is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the acceptance count rises from 3 to 4 countries. The Indonesia teacher-guide rows above are filed as teacher-guide evidence only, outside the count. The Indonesia placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved to this lesson by the slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Indonesia's own way is content, as the book lines above record it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: fair play in sport, fair play as democratic culture, values carried by games, managing conflict, refereeing, applying the rules, respect for authority and the adversary, tournaments for peace and camaraderie, Haiti Programme-Cadre NS Grades 10-13, MENFP, sports values and ethics القيم والأخلاق الرياضية, honesty respect fairness good conduct, Oman G6 Teacher Guide, Oman G8 Teacher Guide, sportsmanship safe and fair play practices positive cultural practices sports competitions, Samoa Years 1–8 Curriculum, deportividad sportsmanship respect rules rivals referee fair play, Olympism friendship solidarity excellence sport as a right, Honduras Telebásica Grades 8 and 9, correct sports behaviour ev agonizesthai, respecting rules referees opponents, controlling anger count slowly to ten, aggression and violence in sports venues, violence in the stadiums, levels of responsibility in sport, Greece Grades 5-6 Fysiki Agogi E-ST, Greece Grades 7-9 Fysiki Agogi Gymnasiou, Bhutan, Bhutan Class IV Suggested Activities, Estonia, Toitumine ja liikumine, Digiõpik Lesson 24, Indonesia, Indonesia PJOK, Pendidikan Jasmani Olahraga dan Kesehatan, Dasar-Dasar Layanan Kesehatan, Isi Piringku

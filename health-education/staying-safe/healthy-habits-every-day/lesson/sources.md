@@ -1,8 +1,8 @@
 # Sources — Healthy Habits Every Day
 
-countries: Jordan, China, Oman, Honduras, Azerbaijan, Ukraine, Turkey, Zimbabwe, Iran, Estonia
+countries: Jordan, China, Oman, Honduras, Azerbaijan, Ukraine, Turkey, Zimbabwe, Iran, Estonia, Indonesia
 
-**Acceptance count: taught in 6 countries.** Zimbabwe is filed as teacher-guide evidence only in this lesson (see its Zimbabwe section below) — named in the countries line and provenance rows, but outside the acceptance count; no Zimbabwe pupil's book is stocked in this lesson. Jordan and China are filed as student-book stock, inside the acceptance count, in this lesson. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below). Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Turkey is filed as teacher-guide evidence only in this lesson — Book 1 is a TEACHER guide, so Turkey is named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this Turkey row. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Estonia is filed as teacher-guide evidence only in this lesson (see its Estonia section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is stocked in this lesson for Estonia.
+**Acceptance count: taught in 7 countries.** Zimbabwe is filed as teacher-guide evidence only in this lesson (see its Zimbabwe section below) — named in the countries line and provenance rows, but outside the acceptance count; no Zimbabwe pupil's book is stocked in this lesson. Jordan and China are filed as student-book stock, inside the acceptance count, in this lesson. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below). Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Turkey is filed as teacher-guide evidence only in this lesson — Book 1 is a TEACHER guide, so Turkey is named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this Turkey row. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Estonia is filed as teacher-guide evidence only in this lesson (see its Estonia section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is stocked in this lesson for Estonia. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count. The Indonesia teacher-guide rows in this lesson are filed as teacher-guide evidence only, outside the count.
 
 **Book 1 — التربية الرياضية — الصف الأول الأساسي — الفصل الدراسي الثاني (Physical Education, First Basic Grade, Second Semester) (student book, Arabic):**
 - Title as printed: التربية الرياضية — الصف الأول الأساسي — الفصل الدراسي الثاني (Physical Education, First Basic Grade, Second Semester)
@@ -275,4 +275,88 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/estonia-heal
 
 Estonia is added in this lesson as teacher-guide evidence only, outside the acceptance count — see the book lines and rows above. This lesson teaches its Estonia placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: healthy habits every day, daily healthy habits, healthy and unhealthy pictures, Movement and Health, Jordan NCCD Physical Education Grade 1, healthy lifestyle and preventing disease, building healthy behaviour, balanced diet, mental balance, scientific exercise, preventing chronic non-communicable diseases, diabetes, China Senior High PEP PE & Health, sport is our life الرياضة حياتنا, the healthy lifestyle نمط الحياة الصحي, Oman G5 Teacher Guide, Oman G7 Teacher Guide, healthy-life habits balanced diet sleep medical check-ups exercise outdoor life, Honduras Telebásica Grade 9, Azerbaijan Fiziki Tərbiyə Grades 6-10, Georgian-language edition, hardening the body, self-control diary, advantages of a healthy lifestyle, components of a healthy lifestyle, Ukraine G7 Health Safety and Wellbeing Shyian, dressing for the weather, Bu Mevsimde Neler Giymeliyiz, Fırtınada Ne Giyilir, Turkey Preschool Movement & Health TG, healthy living habits, habits that keep the body healthy, keeping the body healthy, Zimbabwe PlusOne PE and Arts Grades 1 3 4 5 Teacher Guides, Secondary Book Press, Iran, Estonia, Toitumine ja liikumine, Digiõpik Lesson 24
+## Indonesia — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/indonesia-health-placements.md. 8 Indonesia placement(s) stocked in this lesson. The Indonesia book(s) stocked in this lesson: Book 1, Book 2, Book 7, Book 8, Book 9, Book 10, Book 11 of that file. Indonesia's student books stocked here are student-book stock, inside the acceptance count, in this lesson; its teacher guides stocked here are teacher-guide evidence only, outside the acceptance count. The placements file records 30 records / 15 distinct books (each book appears twice: a books.json "secured" record recorded as pushed, and the same book as a SIBI download-list link); the GitHub tree route was tried once per secured record and returned 404 (files absent from the repo — phantom-push library debts, as filed), and every book was then read from the official SIBI / Kemendikdasmen ministry PDF at its recorded link, byte size verified against the download-list record, cover verified, and the file staged into its phase3-staging path under the push-don't-delete rule. Teacher guides/programmes are evidence only, listed here but outside the acceptance counts. No Indonesia placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 1 — PJOK G7 Student (student book, Indonesian):**
+- Title as printed: Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SMP/MTs Kelas VII
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-623-388-727-4 (jil.1 PDF)
+- PDF pages: 216 (cover/title page verified against the record title; byte size 11,290,722 = record)
+- Verdict: COMPLETE
+- Indonesia's own way: health is taught inside the PJOK book as two closing chapters — fitness of the body (Bab V) and choosing a healthy life (Bab VI) — tying health to activity habits, the national "Isi Piringku" balanced-plate guide, and teen issues such as gadget addiction.
+- Combined book: PE parts placed in indonesia-pe-placements.md (Book 1 there); health parts here.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/indonesia-health-placements.md (Book 1 of that file).
+
+**Book 2 — PJOK G7 Teacher (teacher guide, Indonesian):**
+- Title as printed: Panduan Guru Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SMP/MTs Kelas VII
+- Grade: 7 (student/teacher: TEACHER)
+- Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-623-388-739-7 (jil.1 PDF)
+- PDF pages: 248 (cover verified against the record title; byte size 7,127,838 = record)
+- Verdict: COMPLETE
+- Combined book: PE parts placed in indonesia-pe-placements.md (Book 2 there); health parts here (teaching guides for student Bab V Membugarkan Tubuh and Bab VI Memilih Hidup Sehat).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/indonesia-health-placements.md (Book 2 of that file).
+
+**Book 7 — PJOK G10 Student (student book, Indonesian):**
+- Title as printed: Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SMA/MA/SMK/MAK Kelas X
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-634-00-0094-8 (jil.1 PDF)
+- PDF pages: 240 (cover verified against the record title; byte size 7,042,962 = record)
+- Verdict: COMPLETE
+- Indonesia's own way: health at Grade 10 closes the book as "personal and social health" — evaluating health risks, first aid, healthy nutritious food and a healthy, active, sustainable lifestyle — with fair play taught at the end of the ethics chapter.
+- Combined book: PE parts placed in indonesia-pe-placements.md (Book 7 there); health parts here.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/indonesia-health-placements.md (Book 7 of that file).
+
+**Book 8 — PJOK G10 Teacher (teacher guide, Indonesian):**
+- Title as printed: Panduan Guru Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SMA/MA/SMK/MAK Kelas X
+- Grade: 10 (student/teacher: TEACHER)
+- Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-634-00-0104-4 (jil.1 PDF)
+- PDF pages: 312 (cover verified against the record title; byte size 6,206,600 = record)
+- Verdict: COMPLETE
+- Combined book: PE parts placed in indonesia-pe-placements.md (Book 8 there); health parts here.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/indonesia-health-placements.md (Book 8 of that file).
+
+**Book 9 — PJOK G11 Student (student book, Indonesian):**
+- Title as printed: Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SMA/MA/SMK/MAK Kelas XI
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-634-00-0095-5 (jil.2 PDF)
+- PDF pages: 256 (cover verified against the record title; byte size 12,398,992 = record)
+- Verdict: COMPLETE
+- Indonesia's own way: health at Grade 11 is fair play studied as ethics (its effect on personal development and its long-term benefits) and a closing advocacy chapter — pupils learn communication skills and use media/social media and technology to promote an active, healthy lifestyle.
+- Combined book: PE parts placed in indonesia-pe-placements.md (Book 9 there); health parts here.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/indonesia-health-placements.md (Book 9 of that file).
+
+**Book 10 — PJOK G11 Teacher (teacher guide, Indonesian):**
+- Title as printed: Buku Panduan Guru Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SMA/MA/SMK/MAK Kelas XI
+- Grade: 11 (student/teacher: TEACHER)
+- Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-634-00-0105-1 (jil.2 PDF)
+- PDF pages: 280 (cover verified against the record title; byte size 6,992,000 = record)
+- Verdict: COMPLETE
+- Combined book: PE parts placed in indonesia-pe-placements.md (Book 10 there); health parts here.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/indonesia-health-placements.md (Book 10 of that file).
+
+**Book 11 — PJOK G12 Student (student book, Indonesian):**
+- Title as printed: Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SMA/MA/SMK/MAK Kelas XII
+- Grade: 12 (student/teacher: STUDENT)
+- Publisher: Kementerian Pendidikan Dasar dan Menengah (Kemendikdasmen); year 2025; ISBN 978-634-00-0093-1 (no.jil.lengkap; no separate jil PDF ISBN printed)
+- PDF pages: 280 (cover verified against the record title; byte size 8,811,987 = record)
+- Verdict: COMPLETE
+- Indonesia's own way: health at Grade 12 is a closing chapter on health and safety in physical activity — being healthy for yourself and others, life-saving procedures, emergency handling, and building a safe, inclusive activity environment — plus evaluating your own fair play in the leadership chapter.
+- Combined book: PE parts placed in indonesia-pe-placements.md (Book 11 there); health parts here.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/indonesia-health-placements.md (Book 11 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab VI D Rekomendasi Hidup Sehat bagi Remaja — healthy-life recommendations for teens, including the Isi Piringku balanced plate (original string `staying-safe/choosing-a-healthy-lifestyle`) | Indonesia Grade 7 PJOK G7 Student, printed p. 168 |
+| Indonesia — Bab VI E Merancang dan Memonitor Aktivitas Jasmani untuk Menerapkan Hidup Sehat — designing and monitoring your own physical-activity plan for a healthy life (original string `staying-safe/choosing-a-healthy-lifestyle`) | Indonesia Grade 7 PJOK G7 Student, printed p. 172 |
+| Indonesia — Panduan Khusus Bab VI E Panduan Pembelajaran Buku Siswa — how to teach choosing a healthy life: lifestyle risks, mental health and healthy-life recommendations for teens (teacher guide — evidence) (original string `staying-safe/choosing-a-healthy-lifestyle`) | Indonesia Grade 7 PJOK G7 Teacher, printed p. 200 (teacher guide — evidence) |
+| Indonesia — Bab 6 D Gaya Hidup Sehat, Aktif, dan Berkelanjutan — a healthy, active and sustainable lifestyle (original string `staying-safe/choosing-a-healthy-lifestyle`) | Indonesia Grade 10 PJOK G10 Student, printed p. 195 |
+| Indonesia — Bab 6 Kesehatan Pribadi dan Sosial (chapter guide) — how to teach personal and social health: health risks, first aid, nutritious food and healthy lifestyle (student Bab 6) (teacher guide — evidence) (original string `staying-safe/choosing-a-healthy-lifestyle`) | Indonesia Grade 10 PJOK G10 Teacher, printed p. 223 (teacher guide — evidence) |
+| Indonesia — Bab VI A Manfaat Hidup Aktif dan Sehat — benefits of an active and healthy life, and advocating them (original string `staying-safe/advocating-an-active-healthy-lifestyle`) | Indonesia Grade 11 PJOK G11 Student, printed p. 200 |
+| Indonesia — BAB VI Panduan Khusus (chapter guide) — how to teach advocating an active and healthy lifestyle (student Bab VI) (teacher guide — evidence) (original string `staying-safe/advocating-an-active-healthy-lifestyle`) | Indonesia Grade 11 PJOK G11 Teacher, printed p. 211 (teacher guide — evidence) |
+| Indonesia — Bab 5 A Sehat untuk Diri dan Orang Lain — being healthy for yourself and for others (original string `staying-safe/healthy-for-self-and-others`) | Indonesia Grade 12 PJOK G12 Student, printed p. 199 |
+
+Indonesia is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the acceptance count rises from 6 to 7 countries. The Indonesia teacher-guide rows above are filed as teacher-guide evidence only, outside the count. The Indonesia placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved to this lesson by the slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Indonesia's own way is content, as the book lines above record it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: healthy habits every day, daily healthy habits, healthy and unhealthy pictures, Movement and Health, Jordan NCCD Physical Education Grade 1, healthy lifestyle and preventing disease, building healthy behaviour, balanced diet, mental balance, scientific exercise, preventing chronic non-communicable diseases, diabetes, China Senior High PEP PE & Health, sport is our life الرياضة حياتنا, the healthy lifestyle نمط الحياة الصحي, Oman G5 Teacher Guide, Oman G7 Teacher Guide, healthy-life habits balanced diet sleep medical check-ups exercise outdoor life, Honduras Telebásica Grade 9, Azerbaijan Fiziki Tərbiyə Grades 6-10, Georgian-language edition, hardening the body, self-control diary, advantages of a healthy lifestyle, components of a healthy lifestyle, Ukraine G7 Health Safety and Wellbeing Shyian, dressing for the weather, Bu Mevsimde Neler Giymeliyiz, Fırtınada Ne Giyilir, Turkey Preschool Movement & Health TG, healthy living habits, habits that keep the body healthy, keeping the body healthy, Zimbabwe PlusOne PE and Arts Grades 1 3 4 5 Teacher Guides, Secondary Book Press, Iran, Estonia, Toitumine ja liikumine, Digiõpik Lesson 24, Indonesia, Indonesia PJOK, Pendidikan Jasmani Olahraga dan Kesehatan, Dasar-Dasar Layanan Kesehatan, Isi Piringku

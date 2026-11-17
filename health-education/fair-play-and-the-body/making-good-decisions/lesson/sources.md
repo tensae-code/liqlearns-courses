@@ -1,8 +1,8 @@
 # Sources — Making Good Decisions
 
-countries: Sierra Leone
+countries: Sierra Leone, Indonesia
 
-**Acceptance count: taught in 0 countries.** Sierra Leone is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson.
+**Acceptance count: taught in 1 countries.** Sierra Leone is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count.
 
 **Book 1 — AHLS Teacher's Manual SSS1–3 (teacher guide, English):**
 - Title as printed: Teaching and Learning Materials for Adolescent Health and Life Skills (AHLS) Syllabus — Senior Secondary School (cover); title inside: Teaching and Learning Materials for Adolescent Health and Life Skills (AHLS) — SSS, Dec 2025, New Senior Secondary Curriculum (MBSSE)
@@ -23,4 +23,24 @@ countries: Sierra Leone
 
 This is a canonical NEW lesson (slug-registry Part 1: `fair-play-and-the-body/making-good-decisions` — Making good decisions: decision-making and life skills, resisting peer pressure, and refusal skills — saying no clearly.); the Sierra Leone placements were filed under the original strings recorded in the provenance rows above, resolved to this canonical slug by registry Part 2A and recorded there. Sierra Leone enters this lesson as teacher-guide evidence only, outside the acceptance count — the Sierra Leone book is a TEACHER manual, so this lesson stands at acceptance count 0, founded on teacher-guide evidence only, no pupil's book in hand. Sierra Leone's own way is content, as the book line above records it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: making good decisions, what life skills are, interpersonal communication skills, decision-making skills, good and bad peer pressure, Sierra Leone AHLS Teacher's Manual SSS1 SSS2 SSS3, adolescent health and life skills Sierra Leone
+## Indonesia — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/indonesia-health-placements.md. 1 Indonesia placement(s) stocked in this lesson. The Indonesia book(s) stocked in this lesson: Book 9 of that file. All Indonesia books stocked here are STUDENT books, so Indonesia is student-book stock, inside the acceptance count, in this lesson. The placements file records 30 records / 15 distinct books (each book appears twice: a books.json "secured" record recorded as pushed, and the same book as a SIBI download-list link); the GitHub tree route was tried once per secured record and returned 404 (files absent from the repo — phantom-push library debts, as filed), and every book was then read from the official SIBI / Kemendikdasmen ministry PDF at its recorded link, byte size verified against the download-list record, cover verified, and the file staged into its phase3-staging path under the push-don't-delete rule. Teacher guides/programmes are evidence only, listed here but outside the acceptance counts. No Indonesia placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 9 — PJOK G11 Student (student book, Indonesian):**
+- Title as printed: Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SMA/MA/SMK/MAK Kelas XI
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-634-00-0095-5 (jil.2 PDF)
+- PDF pages: 256 (cover verified against the record title; byte size 12,398,992 = record)
+- Verdict: COMPLETE
+- Indonesia's own way: health at Grade 11 is fair play studied as ethics (its effect on personal development and its long-term benefits) and a closing advocacy chapter — pupils learn communication skills and use media/social media and technology to promote an active, healthy lifestyle.
+- Combined book: PE parts placed in indonesia-pe-placements.md (Book 9 there); health parts here.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/indonesia-health-placements.md (Book 9 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — Bab VI B Mengembangkan Keterampilan Komunikasi — developing communication skills for advocacy (original string `staying-safe/communication-skills-for-health-advocacy`) | Indonesia Grade 11 PJOK G11 Student, printed p. 203 |
+
+Indonesia is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the acceptance count rises from 0 to 1 countries. The Indonesia placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved to this lesson by the slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Indonesia's own way is content, as the book lines above record it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: making good decisions, what life skills are, interpersonal communication skills, decision-making skills, good and bad peer pressure, Sierra Leone AHLS Teacher's Manual SSS1 SSS2 SSS3, adolescent health and life skills Sierra Leone, Indonesia, Indonesia PJOK, Pendidikan Jasmani Olahraga dan Kesehatan, Dasar-Dasar Layanan Kesehatan, Isi Piringku
