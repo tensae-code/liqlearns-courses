@@ -1,6 +1,6 @@
 # Sources — Moving to a Beat — Rhythmic Movement
 
-countries: Ethiopia, Zambia, Namibia, Kazakhstan, Samoa, Thailand, China, El Salvador, Philippines, Belize, Honduras, Fiji, Iran, North Macedonia, Zimbabwe, Jordan, Malaysia, Cuba, Kuwait, Indonesia, Oman, Papua New Guinea, Greece, DR Congo, Turkey
+countries: Ethiopia, Zambia, Namibia, Kazakhstan, Samoa, Thailand, China, El Salvador, Philippines, Belize, Honduras, Fiji, Iran, North Macedonia, Zimbabwe, Jordan, Malaysia, Cuba, Kuwait, Indonesia, Oman, Papua New Guinea, Greece, DR Congo, Turkey, Myanmar
 
 **Book — Grade 1 student:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 81 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md. COMPLETE.
 
@@ -67,7 +67,7 @@ countries: Ethiopia, Zambia, Namibia, Kazakhstan, Samoa, Thailand, China, El Sal
 | Thailand — Unit 5.1 (part 2) Movement in rhythmic activities — moving in time within rhythmic activity (student book — MAC sample, PARTIAL) (original target `gymnastics/moving-to-a-beat`) | Thailand, *Health & PE, Grade 12* (Thailand Grade 12 MAC Health & PE), Unit 5.1 (part 2), printed pp. 151–152 |
 | Thailand — Unit 6.1 (part 1) Rhythmic activities — what rhythmic activity (กิจกรรมเข้าจังหวะ) means, its aims, and its types (student book — MAC sample, PARTIAL) (original target `gymnastics/moving-to-a-beat`) | Thailand, *Health & PE, Grade 12* (Thailand Grade 12 MAC Health & PE), Unit 6.1 (part 1), printed pp. 155–158 |
 | Thailand — Unit 6.1 (part 2) The value of rhythmic activity — its worth, beauty and joy, and the principles for organising rhythmic activities (student book — MAC sample, PARTIAL) (original target `gymnastics/moving-to-a-beat`) | Thailand, *Health & PE, Grade 12* (Thailand Grade 12 MAC Health & PE), Unit 6.1 (part 2), printed pp. 159–163 |
-**Acceptance count: taught in 13 countries (Ethiopia, Thailand, China, Philippines, Honduras, Iran, North Macedonia, Zimbabwe, Jordan, Malaysia, Greece, DR Congo, Turkey).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Zambia is added as teacher-module evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Namibia is added as teacher-guide evidence only the same way, outside the acceptance count. Kazakhstan is added as teacher-guide evidence only the same way, outside the acceptance count. Samoa is added as curriculum-statement evidence only (see its row above), named in the countries line but outside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Indonesia is added as teacher-guide evidence only (see its Indonesia section below), named in the countries line but outside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count. Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count.
+**Acceptance count: taught in 14 countries (Ethiopia, Thailand, China, Philippines, Honduras, Iran, North Macedonia, Zimbabwe, Jordan, Malaysia, Greece, DR Congo, Turkey, Myanmar).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Zambia is added as teacher-module evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Namibia is added as teacher-guide evidence only the same way, outside the acceptance count. Kazakhstan is added as teacher-guide evidence only the same way, outside the acceptance count. Samoa is added as curriculum-statement evidence only (see its row above), named in the countries line but outside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Indonesia is added as teacher-guide evidence only (see its Indonesia section below), named in the countries line but outside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count. Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count; the Myanmar teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
 
 The Grade 3 teacher guide scan is TRUNCATED: it holds printed pp. 1–52 of 89+. Missing: §4.1 (p. 53), §4.2 (p. 57), §4.3 (p. 62), §4.4 (p. 65), all of Chapter 5 Gymnastics (pp. 69–84) and all of Chapter 6 (pp. 85–89+). Chapter 4 is present as its introduction page (printed p. 52) only. Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
 
@@ -1041,3 +1041,117 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkey-pe-pl
 | Turkey — G5 Theme 4 differentiated: Hareketin Estetiği ve Ritmi (original target `gymnastics/moving-to-a-beat`) | Turkey G5–8 PE Differentiation TG, printed p. 37 |
 
 Turkey's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Turkey is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 5, Book 8, Book 9, Book 11, Book 12, Book 13); its teacher guides stocked here (Book 1, Book 3, Book 4, Book 7, Book 15, Book 16, Book 17, Book 18, Book 19, Book 20, Book 21) are evidence only, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Myanmar — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/myanmar-pe-placements.md. The Myanmar books stocked in this lesson are Book 3, Book 4, Book 7, Book 10, Book 11, Book 12, Book 13, Book 14. Myanmar is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 3, Book 7, Book 10, Book 11); its teacher guides stocked here (Book 4, Book 12, Book 13, Book 14) are evidence only, outside the acceptance count. Myanmar's own way is content, as the book lines below record it: Book 3: fitness is taught component by component with the English names kept (Muscular Endurance, Flexibility, Cardiovascular Endurance, Strength and Power, Agility, Balance, Coordination, Speed), and the games chapters give Myanmar two of its own: the htok-see-toe tag game and chinlone, the rattan-ball art.; Book 7: the primary course is built as one illustrated chapter per skill or game — every game chapter prints its full rules in a yellow rules box (ကစားနည်းစည်းမျဉ်းများ) and ends with a smiley-face self-check; a pupil in a wheelchair is drawn playing alongside the class in the ball chapter.; Book 10: Grade 2 keeps the one-chapter-one-game shape and names two traditional call-and-chase games of Myanmar playgrounds — "What time is it, Great Jasmine Flower?" and "White Rope, Black Rope" — each printed with its full rules; a classmate in a wheelchair is again drawn inside the chasing games.; Book 11: Grade 3's Chapter 2 is a composed movement song with its lyricist and arranger credited in print (စာသား-ဒေါ်စိန်ရည်(ကစား)) — the class dances the counts to Myanmar's own PE song; the games chapters keep printing full rules with exact team sizes (2019 printing: ၅ ဦး သို့မဟုတ် ၆ ဦး — five or six players).
+
+**Book — Myanmar Book 3 (student book):**
+## Book 3 — G7 PE Textbook (student book, Myanmar/Burmese with English fitness/sport terms)
+- Title as printed: ကာယပညာ (Physical Education), Grade 7 student textbook — scan carries no cover; running heads read ကျောင်းသုံးစာအုပ် / ကာယပညာ / သတ္တမတန်း (Grade 7) and Chapter 1 opens on PDF p.1
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Myanmar (DBE BOX scan); year not printed on the scanned pages; no ISBN printed
+- PDF pages: 90 (byte size 43,321,005 = record size exactly)
+- Verdict: COMPLETE
+- Tally: 28 placements — 22 to existing lessons, 6 NEW LESSON NEEDED (Health-side placements in myanmar-health-placements.md)
+- Myanmar's own way: fitness is taught component by component with the English names kept (Muscular Endurance, Flexibility, Cardiovascular Endurance, Strength and Power, Agility, Balance, Coordination, Speed), and the games chapters give Myanmar two of its own: the htok-see-toe tag game and chinlone, the rattan-ball art.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — §3-2-2 — exercising to music: aerobic dance sequences in two parts, steps shown in photo-drawings (original target `gymnastics/moving-to-a-beat`) | Myanmar G7 PE Textbook, printed pp. 79–83 |
+
+**Book — Myanmar Book 4 (teacher guide):**
+## Book 4 — G7 PE Teacher Guide (teacher guide, Myanmar/Burmese)
+- Title as printed: ကာယပညာ ဆရာလမ်းညွှန် (Physical Education Teacher Guide), Grade 7 — introduction, I-T-P-R lesson shape, syllabus, year plan and Glossary of Words, then lesson plans for every textbook chapter
+- Grade: 7 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Myanmar (DBE BOX scan); year not printed on the scanned pages; no ISBN printed
+- PDF pages: 100 (byte size 34,971,987 = record size exactly)
+- Verdict: COMPLETE — lesson plans mirror the student textbook; personal fitness record sheets (ကိုယ်ပိုင်မှတ်တမ်း) are assessment apparatus, named here and not placed
+- Tally: 15 placements — 10 to existing lessons, 5 NEW LESSON NEEDED (Health-side placements in myanmar-health-placements.md)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — Lesson plan 3-2-2 — teaching the aerobic dance sequences to music (original target `gymnastics/moving-to-a-beat`) | Myanmar G7 PE Teacher Guide, printed pp. 57–59 |
+
+**Book — Myanmar Book 7 (student book):**
+## Book 7 — G4 PE Textbook (student book, Myanmar/Burmese)
+- Title as printed: ကာယပညာ (Physical Education), Grade 4 student textbook — the scan carries no cover page; running heads read အခန်း(…) with the chapter titles below, and Chapter 1 opens on printed p. 1 (back page carries the CREATE / Ministry of Education / JICA marks, as in the Grade 1 book)
+- Grade: 4 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Myanmar, with the JICA CREATE project (DBE BOX scan); year not printed on the scanned pages; no ISBN printed
+- PDF pages: 87 (byte size 67,375,417 = record size exactly)
+- Verdict: COMPLETE — read page by page from the page renders; every chapter closes with the book's own smiley-face self-check table (assessment apparatus, named here and not placed)
+- Tally: 34 placements — 33 to existing lessons, 1 NEW LESSON NEEDED (no Health-side placements: this book teaches no health, hygiene or nutrition chapter)
+- Myanmar's own way: the primary course is built as one illustrated chapter per skill or game — every game chapter prints its full rules in a yellow rules box (ကစားနည်းစည်းမျဉ်းများ) and ends with a smiley-face self-check; a pupil in a wheelchair is drawn playing alongside the class in the ball chapter.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — Chapter 4 Aerobic Exercises — a long aerobic sequence of about twenty moves, including dance-like steps, done to a rhythm (original target `gymnastics/moving-to-a-beat`) | Myanmar G4 PE Textbook, printed pp. 8–12 |
+
+**Book — Myanmar Book 10 (student book):**
+## Book 10 — G2 PE Textbook (student book, Myanmar/Burmese)
+- Title as printed: ကာယပညာ ဒုတိယတန်း (Physical Education, Grade 2) — cover: Ministry of Education, Republic of the Union of Myanmar, ၂၀၁၈–၂၀၁၉ (2018–2019); full contents page (မာတိကာ) lists 21 chapters; back pages carry the CREATE / Ministry / JICA credit; no ISBN printed
+- Grade: 2 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Myanmar, with the JICA CREATE project (DBE BOX scan)
+- PDF pages: 68 (byte size 45,398,030 = record size exactly); printed pp. 1–60 plus front and back matter
+- Verdict: COMPLETE — read page by page from the page renders against the contents page; each chapter's closing smiley-face self-check table is assessment apparatus, named here and not placed
+- Tally: 25 placements — 23 to existing lessons, 2 NEW LESSON NEEDED (no Health-side placements: this book teaches no health, hygiene or nutrition chapter)
+- Myanmar's own way: Grade 2 keeps the one-chapter-one-game shape and names two traditional call-and-chase games of Myanmar playgrounds — "What time is it, Great Jasmine Flower?" and "White Rope, Black Rope" — each printed with its full rules; a classmate in a wheelchair is again drawn inside the chasing games.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — Chapter 3 Our Union — moving and dancing like the peoples of the Union, in time together (original target `gymnastics/moving-to-a-beat`) | Myanmar G2 PE Textbook, printed p. 4 |
+
+**Book — Myanmar Book 11 (student book):**
+## Book 11 — G3 PE Textbook (student book, Myanmar/Burmese)
+- Title as printed: ကာယပညာ တတိယတန်း (Physical Education, Grade 3) — cover: Ministry of Education, Republic of the Union of Myanmar, ၂၀၁၉–၂၀၂၀ (2019–2020); full contents page (မာတိကာ) lists 17 chapters; CREATE / Ministry / JICA credit; no ISBN printed
+- Grade: 3 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Myanmar, with the JICA CREATE project (DBE BOX scan)
+- PDF pages: 68 (byte size 73,313,422 = record size exactly); printed pp. 1–59 plus front and back matter
+- Verdict: COMPLETE — read page by page from the page renders against the contents page; each chapter's closing smiley-face self-check table is assessment apparatus, named here and not placed
+- Tally: 20 placements — 20 to existing lessons, 0 NEW LESSON NEEDED (no Health-side placements: this book teaches no health, hygiene or nutrition chapter)
+- Myanmar's own way: Grade 3's Chapter 2 is a composed movement song with its lyricist and arranger credited in print (စာသား-ဒေါ်စိန်ရည်(ကစား)) — the class dances the counts to Myanmar's own PE song; the games chapters keep printing full rules with exact team sizes (2019 printing: ၅ ဦး သို့မဟုတ် ၆ ဦး — five or six players).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — Chapter 2 Happy Movement Play — the counted movement song (counts ၁–၅, lyrics and music credited in the book): dance-steps, turns and jumps in time (original target `gymnastics/moving-to-a-beat`) | Myanmar G3 PE Textbook, printed pp. 3–5 |
+
+**Book — Myanmar Book 12 (teacher guide):**
+## Book 12 — G2 PE Teacher Guide (teacher guide, Myanmar/Burmese)
+- Title as printed: ကာယပညာ ဒုတိယတန်း ဆရာလမ်းညွှန် (Physical Education, Grade 2, Teacher Guide) — Ministry of Education, ၂၀၁၈–၂၀၁၉ (2018–2019); the scan is watermarked "DBE Box – Copyright Protected"
+- Grade: 2 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Myanmar, with the JICA CREATE project (DBE BOX scan); no ISBN printed
+- PDF pages: 75 (byte size 96,319,293 = record size exactly)
+- Verdict: COMPLETE — spot-read across the whole book (opening plans, middle plans, closing pages); every plan is a timed lesson (objectives, teaching steps in minutes, checks) facing the reprinted textbook page, mirroring the student book chapter by chapter; the book closes with blank self-assessment record grids for all 21 chapters (assessment apparatus, named here and not placed). Citations below name the chapter whose plans are filed, as this guide's plans are organised by textbook chapter.
+- Tally: 16 placements — 14 to existing lessons, 2 NEW LESSON NEEDED (no Health-side placements)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — Lesson plans, Chapter 3 — teaching "Our Union": moving like the peoples of the Union in time together (original target `gymnastics/moving-to-a-beat`) | Myanmar G2 PE Teacher Guide, Chapter 3 lesson plans |
+
+**Book — Myanmar Book 13 (teacher guide):**
+## Book 13 — G3 PE Teacher Guide (teacher guide, Myanmar/Burmese)
+- Title as printed: ကာယပညာ တတိယတန်း ဆရာလမ်းညွှန် (Physical Education, Grade 3, Teacher Guide) — Ministry of Education, ၂၀၁၉–၂၀၂၀ (2019–2020); the scan is watermarked "DBE Box – Copyright Protected"
+- Grade: 3 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Myanmar, with the JICA CREATE project (DBE BOX scan); no ISBN printed
+- PDF pages: 80 (byte size 99,632,332 = record size exactly)
+- Verdict: COMPLETE — spot-read across the whole book (teacher front matter, opening plans, closing pages); the front matter gives the subject's four aims, teaching method, the whistle-signal code, and year-plan tables allocating periods per chapter (စာသင်ချိန် — e.g. ball play ၁၀ periods); the plans mirror the student book chapter by chapter; the book closes with self-assessment record grids for all 17 chapters (assessment apparatus, named here and not placed). Citations below name the chapter whose plans are filed.
+- Tally: 16 placements — 16 to existing lessons, 0 NEW LESSON NEEDED (no Health-side placements)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — Lesson plans, Chapter 2 — teaching the counted movement song (lyrics and music credited in the textbook) (original target `gymnastics/moving-to-a-beat`) | Myanmar G3 PE Teacher Guide, Chapter 2 lesson plans |
+
+**Book — Myanmar Book 14 (teacher guide):**
+## Book 14 — G4 PE Teacher Guide (teacher guide, Myanmar/Burmese)
+- Title as printed: ကာယပညာ စတုတ္ထတန်း ဆရာလမ်းညွှန် (Physical Education, Grade 4, Teacher Guide) — Ministry of Education, ၂၀၂၀–၂၀၂၁ (2020–2021)
+- Grade: 4 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Myanmar, with the JICA CREATE project (DBE BOX scan); no ISBN printed
+- PDF pages: 109 (byte size 151,648,696 = record size exactly)
+- Verdict: COMPLETE — spot-read across the whole book (teacher front matter with the whistle-signal code and unit list, middle lesson plans for Chapters 11–14, closing pages); the plans are timed lessons with per-chapter assessment tables, mirroring the student book's 28 chapters; the book closes at printed p. 104 with the teacher's observation record form (assessment apparatus, named here and not placed). No health, hygiene or nutrition teaching appears anywhere in this guide — Grade 4 files PE only. Citations below name the chapter/unit whose plans are filed.
+- Tally: 17 placements — 16 to existing lessons, 1 NEW LESSON NEEDED
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — Lesson plans, Movement unit — teaching Let's Play Together (Ch. 2) (original target `gymnastics/moving-to-a-beat`) | Myanmar G4 PE Teacher Guide, Movement unit lesson plans |
+
+Myanmar's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Myanmar is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 3, Book 7, Book 10, Book 11); its teacher guides stocked here (Book 4, Book 12, Book 13, Book 14) are evidence only, outside the acceptance count. The learnbig.net mirror records of these books are parallel records of the same books, not separate books, as filed in the placements file's reconciliation. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

@@ -1,6 +1,6 @@
 # Sources — Games for Thinking Carefully
 
-countries: Ethiopia, Iran, Indonesia, Rwanda, Turkey
+countries: Ethiopia, Iran, Indonesia, Rwanda, Turkey, Myanmar
 
 **Book 1:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–106 + front matter (114 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md.
 
@@ -25,7 +25,7 @@ countries: Ethiopia, Iran, Indonesia, Rwanda, Turkey
 | Sub lesson 3 — Special football — winning by thinking, talking and respect | Ethiopia, *Grade 7 Student Textbook*, §§2.4–2.4.2, printed pp. 21–23 |
 | Sub lesson 4 — Deep thinking in games — plan, notice, correct (teacher guide — evidence) | Ethiopia, *Grade 5 Teacher Guide*, §2.2.2, printed p. 18; and *Grade 6 Teacher Guide*, §2.2.2, printed p. 21 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Iran, Indonesia, Turkey).** Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count. Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count.
+**Acceptance count: taught in 5 countries (Ethiopia, Iran, Indonesia, Turkey, Myanmar).** Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count. Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count; the Myanmar teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
 
 The Grade 5 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -209,3 +209,91 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkey-pe-pl
 | Turkey — G3 Theme 2 differentiated: Oyunun Kurallarını Yeniden Oluşturuyorum (original target `games-to-play/games-for-thinking-carefully`) | Turkey G1–4 PE Differentiation TG, printed p. 65 |
 
 Turkey's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Turkey is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 12); its teacher guides stocked here (Book 15, Book 17, Book 20) are evidence only, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Myanmar — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/myanmar-pe-placements.md. The Myanmar books stocked in this lesson are Book 7, Book 8, Book 9, Book 11, Book 13, Book 14. Myanmar is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 7, Book 8, Book 11); its teacher guides stocked here (Book 9, Book 13, Book 14) are evidence only, outside the acceptance count. Myanmar's own way is content, as the book lines below record it: Book 7: the primary course is built as one illustrated chapter per skill or game — every game chapter prints its full rules in a yellow rules box (ကစားနည်းစည်းမျဉ်းများ) and ends with a smiley-face self-check; a pupil in a wheelchair is drawn playing alongside the class in the ball chapter.; Book 8: the Grade 1 course teaches almost everything as a named class game — numbers are learned by moving (count one-to-ten with the body), and the named games (mosquito-net circle, little doves, the train) are the same games the higher primary grades build on.; Book 11: Grade 3's Chapter 2 is a composed movement song with its lyricist and arranger credited in print (စာသား-ဒေါ်စိန်ရည်(ကစား)) — the class dances the counts to Myanmar's own PE song; the games chapters keep printing full rules with exact team sizes (2019 printing: ၅ ဦး သို့မဟုတ် ၆ ဦး — five or six players).
+
+**Book — Myanmar Book 7 (student book):**
+## Book 7 — G4 PE Textbook (student book, Myanmar/Burmese)
+- Title as printed: ကာယပညာ (Physical Education), Grade 4 student textbook — the scan carries no cover page; running heads read အခန်း(…) with the chapter titles below, and Chapter 1 opens on printed p. 1 (back page carries the CREATE / Ministry of Education / JICA marks, as in the Grade 1 book)
+- Grade: 4 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Myanmar, with the JICA CREATE project (DBE BOX scan); year not printed on the scanned pages; no ISBN printed
+- PDF pages: 87 (byte size 67,375,417 = record size exactly)
+- Verdict: COMPLETE — read page by page from the page renders; every chapter closes with the book's own smiley-face self-check table (assessment apparatus, named here and not placed)
+- Tally: 34 placements — 33 to existing lessons, 1 NEW LESSON NEEDED (no Health-side placements: this book teaches no health, hygiene or nutrition chapter)
+- Myanmar's own way: the primary course is built as one illustrated chapter per skill or game — every game chapter prints its full rules in a yellow rules box (ကစားနည်းစည်းမျဉ်းများ) and ends with a smiley-face self-check; a pupil in a wheelchair is drawn playing alongside the class in the ball chapter.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — Chapter 20 Three-in-a-Row Relay — a tic-tac-toe relay: run to the big grid and place your team's marker to make three in a row (original target `games-to-play/games-for-thinking-carefully`) | Myanmar G4 PE Textbook, printed pp. 54–55 |
+
+**Book — Myanmar Book 8 (student book):**
+## Book 8 — G1 PE Textbook (student book, Myanmar/Burmese)
+- Title as printed: ကာယပညာ ပထမတန်း (Physical Education, Grade 1) — cover: ပြည်ထောင်စုသမ္မတမြန်မာနိုင်ငံတော်အစိုးရ ပညာရေးဝန်ကြီးဌာန (Ministry of Education, Republic of the Union of Myanmar), ၂၀၁၇–၂၀၁၈ (2017–2018); full contents page (မာတိကာ) lists 22 chapters; back page carries the CREATE / Ministry / JICA marks; no ISBN printed
+- Grade: 1 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Myanmar, with the JICA CREATE project (DBE BOX scan)
+- PDF pages: 68 (byte size 30,226,363 = record size exactly); printed pp. 1–60 plus front and back matter
+- Verdict: COMPLETE — read page by page from the page renders against the contents page; each chapter's closing smiley-face self-check table is assessment apparatus, named here and not placed
+- Tally: 24 placements — 24 to existing lessons, 0 NEW LESSON NEEDED (no Health-side placements: this book teaches no health, hygiene or nutrition chapter)
+- Myanmar's own way: the Grade 1 course teaches almost everything as a named class game — numbers are learned by moving (count one-to-ten with the body), and the named games (mosquito-net circle, little doves, the train) are the same games the higher primary grades build on.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — Chapter 4 Counting from One to Ten — counting ၁ to ၁၀ with the whole body: jump and reach as each number is called (original target `games-to-play/games-for-thinking-carefully`) | Myanmar G1 PE Textbook, printed p. 8 |
+| Myanmar — Chapter 5 One, Two — Hand Signs — showing one and two with the hands and matching each number to a movement (original target `games-to-play/games-for-thinking-carefully`) | Myanmar G1 PE Textbook, printed p. 9 |
+
+**Book — Myanmar Book 9 (teacher guide):**
+## Book 9 — G1 PE Teacher Guide (teacher guide, Myanmar/Burmese)
+- Title as printed: ကာယပညာ ပထမတန်း ဆရာလမ်းညွှန် (Physical Education, Grade 1, Teacher Guide) — cover: Ministry of Education, ၂၀၁၇–၂၀၁၈ (2017–2018); contents page lists a teachers' introduction, the subject's four aims (§1.1), lesson plans for all 22 textbook chapters, and appendices of assessment samples (နောက်ဆက်တွဲ (က)(ခ)(ဂ), printed pp. 70–76 — assessment apparatus, named here and not placed)
+- Grade: 1 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Myanmar, with the JICA CREATE project (DBE BOX scan); no ISBN printed
+- PDF pages: 77 (byte size 78,289,891 = record size exactly)
+- Verdict: COMPLETE — spot-read across the whole book (front matter and contents, early, middle and closing plans); every plan is a timed lesson (objectives, teaching steps in minutes, checks) facing the reprinted textbook page, mirroring the student book chapter by chapter
+- Tally: 15 placements — 15 to existing lessons, 0 NEW LESSON NEEDED (no Health-side placements)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — Lesson plans, Chapters 4–5 — teaching counting one-to-ten with movement and the one-two hand signs (original target `games-to-play/games-for-thinking-carefully`) | Myanmar G1 PE Teacher Guide, printed pp. 14–15 |
+
+**Book — Myanmar Book 11 (student book):**
+## Book 11 — G3 PE Textbook (student book, Myanmar/Burmese)
+- Title as printed: ကာယပညာ တတိယတန်း (Physical Education, Grade 3) — cover: Ministry of Education, Republic of the Union of Myanmar, ၂၀၁၉–၂၀၂၀ (2019–2020); full contents page (မာတိကာ) lists 17 chapters; CREATE / Ministry / JICA credit; no ISBN printed
+- Grade: 3 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Myanmar, with the JICA CREATE project (DBE BOX scan)
+- PDF pages: 68 (byte size 73,313,422 = record size exactly); printed pp. 1–59 plus front and back matter
+- Verdict: COMPLETE — read page by page from the page renders against the contents page; each chapter's closing smiley-face self-check table is assessment apparatus, named here and not placed
+- Tally: 20 placements — 20 to existing lessons, 0 NEW LESSON NEEDED (no Health-side placements: this book teaches no health, hygiene or nutrition chapter)
+- Myanmar's own way: Grade 3's Chapter 2 is a composed movement song with its lyricist and arranger credited in print (စာသား-ဒေါ်စိန်ရည်(ကစား)) — the class dances the counts to Myanmar's own PE song; the games chapters keep printing full rules with exact team sizes (2019 printing: ၅ ဦး သို့မဟုတ် ၆ ဦး — five or six players).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — Chapter 13 Building Game — a team relay: run out and build the tin-stack to the pattern on the board (၄-၃-၂-၁) (original target `games-to-play/games-for-thinking-carefully`) | Myanmar G3 PE Textbook, printed pp. 40–43 |
+
+**Book — Myanmar Book 13 (teacher guide):**
+## Book 13 — G3 PE Teacher Guide (teacher guide, Myanmar/Burmese)
+- Title as printed: ကာယပညာ တတိယတန်း ဆရာလမ်းညွှန် (Physical Education, Grade 3, Teacher Guide) — Ministry of Education, ၂၀၁၉–၂၀၂၀ (2019–2020); the scan is watermarked "DBE Box – Copyright Protected"
+- Grade: 3 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Myanmar, with the JICA CREATE project (DBE BOX scan); no ISBN printed
+- PDF pages: 80 (byte size 99,632,332 = record size exactly)
+- Verdict: COMPLETE — spot-read across the whole book (teacher front matter, opening plans, closing pages); the front matter gives the subject's four aims, teaching method, the whistle-signal code, and year-plan tables allocating periods per chapter (စာသင်ချိန် — e.g. ball play ၁၀ periods); the plans mirror the student book chapter by chapter; the book closes with self-assessment record grids for all 17 chapters (assessment apparatus, named here and not placed). Citations below name the chapter whose plans are filed.
+- Tally: 16 placements — 16 to existing lessons, 0 NEW LESSON NEEDED (no Health-side placements)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — Lesson plans, Chapter 13 — teaching the building relay to the pattern on the board (original target `games-to-play/games-for-thinking-carefully`) | Myanmar G3 PE Teacher Guide, Chapter 13 lesson plans |
+
+**Book — Myanmar Book 14 (teacher guide):**
+## Book 14 — G4 PE Teacher Guide (teacher guide, Myanmar/Burmese)
+- Title as printed: ကာယပညာ စတုတ္ထတန်း ဆရာလမ်းညွှန် (Physical Education, Grade 4, Teacher Guide) — Ministry of Education, ၂၀၂၀–၂၀၂၁ (2020–2021)
+- Grade: 4 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Myanmar, with the JICA CREATE project (DBE BOX scan); no ISBN printed
+- PDF pages: 109 (byte size 151,648,696 = record size exactly)
+- Verdict: COMPLETE — spot-read across the whole book (teacher front matter with the whistle-signal code and unit list, middle lesson plans for Chapters 11–14, closing pages); the plans are timed lessons with per-chapter assessment tables, mirroring the student book's 28 chapters; the book closes at printed p. 104 with the teacher's observation record form (assessment apparatus, named here and not placed). No health, hygiene or nutrition teaching appears anywhere in this guide — Grade 4 files PE only. Citations below name the chapter/unit whose plans are filed.
+- Tally: 17 placements — 16 to existing lessons, 1 NEW LESSON NEEDED
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — Lesson plans, Games unit — teaching the water-entry game (Ch. 13) (original target `games-to-play/games-for-thinking-carefully`) | Myanmar G4 PE Teacher Guide, Games unit lesson plans |
+
+Myanmar's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Myanmar is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 7, Book 8, Book 11); its teacher guides stocked here (Book 9, Book 13, Book 14) are evidence only, outside the acceptance count. The learnbig.net mirror records of these books are parallel records of the same books, not separate books, as filed in the placements file's reconciliation. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

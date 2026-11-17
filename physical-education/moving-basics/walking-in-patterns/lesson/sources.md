@@ -1,6 +1,6 @@
 # Sources — Walking in Patterns
 
-countries: Ethiopia, Mozambique, Kazakhstan, El Salvador, Philippines, Nicaragua, Belize, Cuba, Kuwait, Oman, Rwanda, Greece, DR Congo
+countries: Ethiopia, Mozambique, Kazakhstan, El Salvador, Philippines, Nicaragua, Belize, Cuba, Kuwait, Oman, Rwanda, Greece, DR Congo, Myanmar
 
 **Book — Grade 1 student:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 81 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md. COMPLETE.
 
@@ -28,7 +28,7 @@ countries: Ethiopia, Mozambique, Kazakhstan, El Salvador, Philippines, Nicaragua
 | Mozambique — 2.ª Parte, Exercícios de organização e controlo: Formaturas — organisation and control exercises: the basic formations, done to command voices (teacher guide — evidence) (original target `moving-basics/walking-in-patterns`) | Mozambique, *Grade 1 Teacher Manual (Educação Física)*, 2.ª Parte, Exercícios de organização e controlo: Formaturas, printed p. 200 |
 | Mozambique — 2.ª Parte, Marchas — marching: files and columns all moving in the same direction (teacher guide — evidence) (original target `moving-basics/walking-in-patterns`) | Mozambique, *Grade 1 Teacher Manual (Educação Física)*, 2.ª Parte, Marchas, printed p. 204 |
 | Kazakhstan — All quarters — drill/formation exercises (строевые упражнения): turns, counting off, reforming ranks, and marching on the count (teacher guide — evidence) (original target `moving-basics/walking-in-patterns`) | Kazakhstan, *Physical Culture, Methodological Guide for Grade 4 Teachers* (Kazakhstan Grade 4 TG), printed pp. 4–5, 20, 48 |
-**Acceptance count: taught in 5 countries (Ethiopia, Philippines, Nicaragua, Greece, DR Congo).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count.
+**Acceptance count: taught in 6 countries (Ethiopia, Philippines, Nicaragua, Greece, DR Congo, Myanmar).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count; the Myanmar teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
 
 The Grade 4 teacher guide scan is TRUNCATED: it holds printed pp. 1–39 of 72+. Missing: all of Chapter 4 (pp. 40–54), Chapter 5 Gymnastics (pp. 55–65) and Chapter 6 (pp. 66–72+). Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
 
@@ -338,3 +338,50 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-pe-
 | DR Congo — §2.2.4 Drawing figures by walking — perfect circles growing/shrinking and spirals as a class (original target `moving-basics/walking-in-patterns`) | DR Congo Grade 5 EPS Primaire 5, §2.2.4 |
 
 DR Congo's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. DR Congo is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Myanmar — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/myanmar-pe-placements.md. The Myanmar books stocked in this lesson are Book 3, Book 4, Book 7. Myanmar is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 3, Book 7); its teacher guides stocked here (Book 4) are evidence only, outside the acceptance count. Myanmar's own way is content, as the book lines below record it: Book 3: fitness is taught component by component with the English names kept (Muscular Endurance, Flexibility, Cardiovascular Endurance, Strength and Power, Agility, Balance, Coordination, Speed), and the games chapters give Myanmar two of its own: the htok-see-toe tag game and chinlone, the rattan-ball art.; Book 7: the primary course is built as one illustrated chapter per skill or game — every game chapter prints its full rules in a yellow rules box (ကစားနည်းစည်းမျဉ်းများ) and ends with a smiley-face self-check; a pupil in a wheelchair is drawn playing alongside the class in the ball chapter.
+
+**Book — Myanmar Book 3 (student book):**
+## Book 3 — G7 PE Textbook (student book, Myanmar/Burmese with English fitness/sport terms)
+- Title as printed: ကာယပညာ (Physical Education), Grade 7 student textbook — scan carries no cover; running heads read ကျောင်းသုံးစာအုပ် / ကာယပညာ / သတ္တမတန်း (Grade 7) and Chapter 1 opens on PDF p.1
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Myanmar (DBE BOX scan); year not printed on the scanned pages; no ISBN printed
+- PDF pages: 90 (byte size 43,321,005 = record size exactly)
+- Verdict: COMPLETE
+- Tally: 28 placements — 22 to existing lessons, 6 NEW LESSON NEEDED (Health-side placements in myanmar-health-placements.md)
+- Myanmar's own way: fitness is taught component by component with the English names kept (Muscular Endurance, Flexibility, Cardiovascular Endurance, Strength and Power, Agility, Balance, Coordination, Speed), and the games chapters give Myanmar two of its own: the htok-see-toe tag game and chinlone, the rattan-ball art.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — §2-2 — class drill: forming lines, counting off, attention and turning on command (right/left turns by number) (original target `moving-basics/walking-in-patterns`) | Myanmar G7 PE Textbook, printed pp. 30–33 |
+
+**Book — Myanmar Book 4 (teacher guide):**
+## Book 4 — G7 PE Teacher Guide (teacher guide, Myanmar/Burmese)
+- Title as printed: ကာယပညာ ဆရာလမ်းညွှန် (Physical Education Teacher Guide), Grade 7 — introduction, I-T-P-R lesson shape, syllabus, year plan and Glossary of Words, then lesson plans for every textbook chapter
+- Grade: 7 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Myanmar (DBE BOX scan); year not printed on the scanned pages; no ISBN printed
+- PDF pages: 100 (byte size 34,971,987 = record size exactly)
+- Verdict: COMPLETE — lesson plans mirror the student textbook; personal fitness record sheets (ကိုယ်ပိုင်မှတ်တမ်း) are assessment apparatus, named here and not placed
+- Tally: 15 placements — 10 to existing lessons, 5 NEW LESSON NEEDED (Health-side placements in myanmar-health-placements.md)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — Lesson plan 2-2 — teaching class drill: lines, counting and turns (original target `moving-basics/walking-in-patterns`) | Myanmar G7 PE Teacher Guide, printed pp. 30–32 |
+
+**Book — Myanmar Book 7 (student book):**
+## Book 7 — G4 PE Textbook (student book, Myanmar/Burmese)
+- Title as printed: ကာယပညာ (Physical Education), Grade 4 student textbook — the scan carries no cover page; running heads read အခန်း(…) with the chapter titles below, and Chapter 1 opens on printed p. 1 (back page carries the CREATE / Ministry of Education / JICA marks, as in the Grade 1 book)
+- Grade: 4 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Myanmar, with the JICA CREATE project (DBE BOX scan); year not printed on the scanned pages; no ISBN printed
+- PDF pages: 87 (byte size 67,375,417 = record size exactly)
+- Verdict: COMPLETE — read page by page from the page renders; every chapter closes with the book's own smiley-face self-check table (assessment apparatus, named here and not placed)
+- Tally: 34 placements — 33 to existing lessons, 1 NEW LESSON NEEDED (no Health-side placements: this book teaches no health, hygiene or nutrition chapter)
+- Myanmar's own way: the primary course is built as one illustrated chapter per skill or game — every game chapter prints its full rules in a yellow rules box (ကစားနည်းစည်းမျဉ်းများ) and ends with a smiley-face self-check; a pupil in a wheelchair is drawn playing alongside the class in the ball chapter.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — Chapter 1 Lining Up — forming lines and files, standing in order and moving off together (original target `moving-basics/walking-in-patterns`) | Myanmar G4 PE Textbook, printed p. 1 |
+
+Myanmar's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Myanmar is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 3, Book 7); its teacher guides stocked here (Book 4) are evidence only, outside the acceptance count. The learnbig.net mirror records of these books are parallel records of the same books, not separate books, as filed in the placements file's reconciliation. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

@@ -1,6 +1,6 @@
 # Sources — The Ball Games and Their Stories — Football, Volleyball, Basketball, Handball
 
-countries: Ethiopia, Cyprus, Afghanistan, Honduras, North Macedonia, Greece
+countries: Ethiopia, Cyprus, Afghanistan, Honduras, North Macedonia, Greece, Myanmar
 
 **Book 1:** *Health and Physical Education Student's Textbook Grade 9* (student textbook, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, First Published August 2023, under GEQIP-E, ISBN 978-99990-0-072-7, printed pp. 1–156 (167 PDF pages). Printed page = PDF page − 10. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g09-student-placements.md.
 
@@ -16,7 +16,7 @@ countries: Ethiopia, Cyprus, Afghanistan, Honduras, North Macedonia, Greece
 | Sub lesson 4 — Handball's story — ancient games to the IHF | Ethiopia, *Grade 9 Student Textbook*, §7.1, printed pp. 122–125; and *Grade 9 Teacher Guide*, Unit 7, printed pp. 91–93 (teacher guide — evidence) |
 | Cyprus — Part 2, Modern Olympic Games — the Olympic sports programme, summer and winter: the team ball games among the listed sports and the eight winter sports (curling, bobsleigh, luge, skeleton, short-track and speed skating, ice hockey, figure skating) (student book) | Cyprus, *Olympic Education Insert, Lyceum Years 2–3*, Part 2, printed pp. 21–68 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Cyprus, Honduras, North Macedonia, Greece).** Cyprus is added as student-book stock (see its row above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count.
+**Acceptance count: taught in 6 countries (Ethiopia, Cyprus, Honduras, North Macedonia, Greece, Myanmar).** Cyprus is added as student-book stock (see its row above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count.
 
 The Grade 9 student book and teacher guide are both complete. Guide-only details (club title counts, federation dates in the guide's fuller form) are the guide's, carried in the prose at the places they belong; the student book's own three-scope histories are the lesson's spine. Terms are the federal book's English terms as printed.
 
@@ -137,3 +137,37 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/greece-pe-pl
 | Greece — Χειροποίητες μπάλες (Handmade balls) — balls in paintings across the centuries, and the balls children made from stuffed socks and balls of wool when no ball could be bought (original target `sport-and-its-story/the-ball-games-and-their-stories`) | Greece Grades 3-4 Fysiki Agogi G-D, printed p. 43 |
 
 Greece's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Greece is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Myanmar — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/myanmar-pe-placements.md. The Myanmar books stocked in this lesson are Book 3, Book 5. Myanmar is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 3, Book 5). Myanmar's own way is content, as the book lines below record it: Book 3: fitness is taught component by component with the English names kept (Muscular Endurance, Flexibility, Cardiovascular Endurance, Strength and Power, Agility, Balance, Coordination, Speed), and the games chapters give Myanmar two of its own: the htok-see-toe tag game and chinlone, the rattan-ball art.; Book 5: fitness is introduced through graded A/B/C test tables for every component, first aid is taught as the English PRICES sequence, and Myanmar's own chinlone is given a full chapter with its six classic kicks named in English (instep, inside, knee, sole, heel, outside).
+
+**Book — Myanmar Book 3 (student book):**
+## Book 3 — G7 PE Textbook (student book, Myanmar/Burmese with English fitness/sport terms)
+- Title as printed: ကာယပညာ (Physical Education), Grade 7 student textbook — scan carries no cover; running heads read ကျောင်းသုံးစာအုပ် / ကာယပညာ / သတ္တမတန်း (Grade 7) and Chapter 1 opens on PDF p.1
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Myanmar (DBE BOX scan); year not printed on the scanned pages; no ISBN printed
+- PDF pages: 90 (byte size 43,321,005 = record size exactly)
+- Verdict: COMPLETE
+- Tally: 28 placements — 22 to existing lessons, 6 NEW LESSON NEEDED (Health-side placements in myanmar-health-placements.md)
+- Myanmar's own way: fitness is taught component by component with the English names kept (Muscular Endurance, Flexibility, Cardiovascular Endurance, Strength and Power, Agility, Balance, Coordination, Speed), and the games chapters give Myanmar two of its own: the htok-see-toe tag game and chinlone, the rattan-ball art.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — §2-5-3 Basketball — how basketball began (1891) and grew into the modern game (original target `sport-and-its-story/the-ball-games-and-their-stories`) | Myanmar G7 PE Textbook, printed p. 59 |
+
+**Book — Myanmar Book 5 (student book):**
+## Book 5 — G6 PE Textbook (student book, Myanmar/Burmese with English fitness/sport terms)
+- Title as printed: ကျောင်းသုံးစာအုပ် ကာယပညာ ဆဋ္ဌမတန်း (School Textbook, Physical Education, Grade 6) — cover: ပြည်ထောင်စုသမ္မတမြန်မာနိုင်ငံတော်အစိုးရ ပညာရေးဝန်ကြီးဌာန (Ministry of Education, Republic of the Union of Myanmar), ၂၀၁၉–၂၀၂၀ (2019–2020); printed January 2019, 196,392 copies; no ISBN printed
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Myanmar (DBE BOX scan)
+- PDF pages: 88 (byte size 19,943,343 = record size exactly)
+- Verdict: COMPLETE — full contents page (မာတိကာ) read; closing glossary of PE terms (Physical Fitness, Agility, Balance, Cardiovascular Endurance, Circuit Training, Coordination, Flexibility, Jogging, Muscular Endurance, Power, Speed, Stretching) is inventory-only, named here and not placed
+- Tally: 25 placements — 19 to existing lessons, 6 NEW LESSON NEEDED (Health-side placements in myanmar-health-placements.md)
+- Myanmar's own way: fitness is introduced through graded A/B/C test tables for every component, first aid is taught as the English PRICES sequence, and Myanmar's own chinlone is given a full chapter with its six classic kicks named in English (instep, inside, knee, sole, heel, outside).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — §2-4-1 Football — football's story, including Myanmar's own leagues (Myanmar National League, Myanmar Women League) (original target `sport-and-its-story/the-ball-games-and-their-stories`) | Myanmar G6 PE Textbook, printed p. 54 |
+
+Myanmar's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Myanmar is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 3, Book 5). The learnbig.net mirror records of these books are parallel records of the same books, not separate books, as filed in the placements file's reconciliation. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

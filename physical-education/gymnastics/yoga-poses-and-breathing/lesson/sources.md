@@ -1,8 +1,8 @@
 # Sources — Yoga Poses and Breathing
 
-countries: Honduras, Mauritius
+countries: Honduras, Mauritius, Myanmar
 
-**Acceptance count: taught in 1 country (Honduras).** Honduras is student-book stock (see its rows below), inside the acceptance count. Mauritius is added as teacher-guide evidence only (see its Mauritius section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 2 countries (Honduras, Myanmar).** Honduras is student-book stock (see its rows below), inside the acceptance count. Mauritius is added as teacher-guide evidence only (see its Mauritius section below), named in the countries line but outside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count; the Myanmar teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
 
 ## Honduras — PE expansion 2026-11-16
 
@@ -48,3 +48,36 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/mauritius-pe
 Mauritius's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Mauritius's own way is content, as the book lines above record it: Book 2: PE is organised as Kids Athletics, Health Related Fitness, Manipulative Skills (mini handball and mini football taught as dribble–defend–league tournament) and Supplementary Lessons (yoga and circuit training); every lesson runs warm-up, main activity, game situation and cool-down. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: yoga poses and breathing, Honduras, Telebásica, Educación Física
+
+## Myanmar — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/myanmar-pe-placements.md. The Myanmar books stocked in this lesson are Book 3, Book 4. Myanmar is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 3); its teacher guides stocked here (Book 4) are evidence only, outside the acceptance count. Myanmar's own way is content, as the book lines below record it: Book 3: fitness is taught component by component with the English names kept (Muscular Endurance, Flexibility, Cardiovascular Endurance, Strength and Power, Agility, Balance, Coordination, Speed), and the games chapters give Myanmar two of its own: the htok-see-toe tag game and chinlone, the rattan-ball art.
+
+**Book — Myanmar Book 3 (student book):**
+## Book 3 — G7 PE Textbook (student book, Myanmar/Burmese with English fitness/sport terms)
+- Title as printed: ကာယပညာ (Physical Education), Grade 7 student textbook — scan carries no cover; running heads read ကျောင်းသုံးစာအုပ် / ကာယပညာ / သတ္တမတန်း (Grade 7) and Chapter 1 opens on PDF p.1
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Myanmar (DBE BOX scan); year not printed on the scanned pages; no ISBN printed
+- PDF pages: 90 (byte size 43,321,005 = record size exactly)
+- Verdict: COMPLETE
+- Tally: 28 placements — 22 to existing lessons, 6 NEW LESSON NEEDED (Health-side placements in myanmar-health-placements.md)
+- Myanmar's own way: fitness is taught component by component with the English names kept (Muscular Endurance, Flexibility, Cardiovascular Endurance, Strength and Power, Agility, Balance, Coordination, Speed), and the games chapters give Myanmar two of its own: the htok-see-toe tag game and chinlone, the rattan-ball art.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — §3-2-1 Yoga — yoga poses and breathing: seated poses, alternate-nostril breathing, standing poses and relaxation, with the benefits of each (original target `fitness-and-stretching/yoga-poses-and-breathing`) | Myanmar G7 PE Textbook, printed pp. 75–79 |
+
+**Book — Myanmar Book 4 (teacher guide):**
+## Book 4 — G7 PE Teacher Guide (teacher guide, Myanmar/Burmese)
+- Title as printed: ကာယပညာ ဆရာလမ်းညွှန် (Physical Education Teacher Guide), Grade 7 — introduction, I-T-P-R lesson shape, syllabus, year plan and Glossary of Words, then lesson plans for every textbook chapter
+- Grade: 7 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Myanmar (DBE BOX scan); year not printed on the scanned pages; no ISBN printed
+- PDF pages: 100 (byte size 34,971,987 = record size exactly)
+- Verdict: COMPLETE — lesson plans mirror the student textbook; personal fitness record sheets (ကိုယ်ပိုင်မှတ်တမ်း) are assessment apparatus, named here and not placed
+- Tally: 15 placements — 10 to existing lessons, 5 NEW LESSON NEEDED (Health-side placements in myanmar-health-placements.md)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — Lesson plan 3-2-1 — teaching yoga poses and breathing (original target `fitness-and-stretching/yoga-poses-and-breathing`) | Myanmar G7 PE Teacher Guide, printed pp. 55–57 |
+
+Myanmar's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Myanmar is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 3); its teacher guides stocked here (Book 4) are evidence only, outside the acceptance count. The learnbig.net mirror records of these books are parallel records of the same books, not separate books, as filed in the placements file's reconciliation. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

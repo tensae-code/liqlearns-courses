@@ -1,6 +1,6 @@
 # Sources — Volleyball Passing and Setting
 
-countries: Ethiopia, Afghanistan, China, Nicaragua, Belize, Mauritius, Iran, North Macedonia, Zimbabwe, Jordan, Malaysia, Cuba, Kuwait, Oman, Sri Lanka, Rwanda, Greece, DR Congo, Turkey
+countries: Ethiopia, Afghanistan, China, Nicaragua, Belize, Mauritius, Iran, North Macedonia, Zimbabwe, Jordan, Malaysia, Cuba, Kuwait, Oman, Sri Lanka, Rwanda, Greece, DR Congo, Turkey, Myanmar
 
 **Book — Grade 5 student:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 106 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md. COMPLETE.
 
@@ -27,7 +27,7 @@ countries: Ethiopia, Afghanistan, China, Nicaragua, Belize, Mauritius, Iran, Nor
 | The spike — Grade 9 | Ethiopia, Grade 9 teacher Unit 5 spike (teacher guide — evidence), printed pp. 65–72 |
 | Blocking — Grade 10 | Ethiopia, Grade 10 student §5.2 Blocking skills + §5.1 rules, printed pp. 86–98 |
 | Blocking — Grade 10 | Ethiopia, Grade 10 teacher Unit 5 blocking and rules (teacher guide — evidence), printed pp. 60–69 |
-**Acceptance count: taught in 11 countries (Ethiopia, China, Mauritius, Iran, North Macedonia, Zimbabwe, Jordan, Malaysia, Sri Lanka, Greece, DR Congo).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count; the Iran teacher guide stocked in this lesson (Book 13) is teacher-guide evidence only, outside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count. Turkey is added as teacher-guide evidence only (see its Turkey section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 12 countries (Ethiopia, China, Mauritius, Iran, North Macedonia, Zimbabwe, Jordan, Malaysia, Sri Lanka, Greece, DR Congo, Myanmar).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count; the Iran teacher guide stocked in this lesson (Book 13) is teacher-guide evidence only, outside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count. Turkey is added as teacher-guide evidence only (see its Turkey section below), named in the countries line but outside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count; the Myanmar teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
 
 The Grade 5 and Grade 6 teacher guides' ball-games chapters are in the truncated missing ranges of those scans (G5T Chapter 6, pp. 57–77; G6T Chapter 6, pp. 65–82), so this lesson rests on the complete student books only; no teacher-guide pages are claimed for it.
 
@@ -897,3 +897,78 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkey-pe-pl
 | Turkey — G7 Theme 2 differentiated: File ve Duvar Oyunları (original target `ball-games/volleyball-passing-and-setting`) | Turkey G5–8 PE Differentiation TG, printed p. 104 |
 
 Turkey's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. The Turkey books stocked in this lesson are teacher guides, so Turkey is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Myanmar — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/myanmar-pe-placements.md. The Myanmar books stocked in this lesson are Book 3, Book 4, Book 5, Book 6, Book 7. Myanmar is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 3, Book 5, Book 7); its teacher guides stocked here (Book 4, Book 6) are evidence only, outside the acceptance count. Myanmar's own way is content, as the book lines below record it: Book 3: fitness is taught component by component with the English names kept (Muscular Endurance, Flexibility, Cardiovascular Endurance, Strength and Power, Agility, Balance, Coordination, Speed), and the games chapters give Myanmar two of its own: the htok-see-toe tag game and chinlone, the rattan-ball art.; Book 5: fitness is introduced through graded A/B/C test tables for every component, first aid is taught as the English PRICES sequence, and Myanmar's own chinlone is given a full chapter with its six classic kicks named in English (instep, inside, knee, sole, heel, outside).; Book 7: the primary course is built as one illustrated chapter per skill or game — every game chapter prints its full rules in a yellow rules box (ကစားနည်းစည်းမျဉ်းများ) and ends with a smiley-face self-check; a pupil in a wheelchair is drawn playing alongside the class in the ball chapter.
+
+**Book — Myanmar Book 3 (student book):**
+## Book 3 — G7 PE Textbook (student book, Myanmar/Burmese with English fitness/sport terms)
+- Title as printed: ကာယပညာ (Physical Education), Grade 7 student textbook — scan carries no cover; running heads read ကျောင်းသုံးစာအုပ် / ကာယပညာ / သတ္တမတန်း (Grade 7) and Chapter 1 opens on PDF p.1
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Myanmar (DBE BOX scan); year not printed on the scanned pages; no ISBN printed
+- PDF pages: 90 (byte size 43,321,005 = record size exactly)
+- Verdict: COMPLETE
+- Tally: 28 placements — 22 to existing lessons, 6 NEW LESSON NEEDED (Health-side placements in myanmar-health-placements.md)
+- Myanmar's own way: fitness is taught component by component with the English names kept (Muscular Endurance, Flexibility, Cardiovascular Endurance, Strength and Power, Agility, Balance, Coordination, Speed), and the games chapters give Myanmar two of its own: the htok-see-toe tag game and chinlone, the rattan-ball art.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — §2-5-2 Volleyball — the Under Hand Pass and Over Hand Pass (setting), step by step (original target `ball-games/volleyball-passing-and-setting`) | Myanmar G7 PE Textbook, printed pp. 55–58 |
+
+**Book — Myanmar Book 4 (teacher guide):**
+## Book 4 — G7 PE Teacher Guide (teacher guide, Myanmar/Burmese)
+- Title as printed: ကာယပညာ ဆရာလမ်းညွှန် (Physical Education Teacher Guide), Grade 7 — introduction, I-T-P-R lesson shape, syllabus, year plan and Glossary of Words, then lesson plans for every textbook chapter
+- Grade: 7 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Myanmar (DBE BOX scan); year not printed on the scanned pages; no ISBN printed
+- PDF pages: 100 (byte size 34,971,987 = record size exactly)
+- Verdict: COMPLETE — lesson plans mirror the student textbook; personal fitness record sheets (ကိုယ်ပိုင်မှတ်တမ်း) are assessment apparatus, named here and not placed
+- Tally: 15 placements — 10 to existing lessons, 5 NEW LESSON NEEDED (Health-side placements in myanmar-health-placements.md)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — Lesson plan 2-5-2 — teaching the Under Hand Pass and Over Hand Pass (original target `ball-games/volleyball-passing-and-setting`) | Myanmar G7 PE Teacher Guide, printed pp. 44–46 |
+
+**Book — Myanmar Book 5 (student book):**
+## Book 5 — G6 PE Textbook (student book, Myanmar/Burmese with English fitness/sport terms)
+- Title as printed: ကျောင်းသုံးစာအုပ် ကာယပညာ ဆဋ္ဌမတန်း (School Textbook, Physical Education, Grade 6) — cover: ပြည်ထောင်စုသမ္မတမြန်မာနိုင်ငံတော်အစိုးရ ပညာရေးဝန်ကြီးဌာန (Ministry of Education, Republic of the Union of Myanmar), ၂၀၁၉–၂၀၂၀ (2019–2020); printed January 2019, 196,392 copies; no ISBN printed
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Myanmar (DBE BOX scan)
+- PDF pages: 88 (byte size 19,943,343 = record size exactly)
+- Verdict: COMPLETE — full contents page (မာတိကာ) read; closing glossary of PE terms (Physical Fitness, Agility, Balance, Cardiovascular Endurance, Circuit Training, Coordination, Flexibility, Jogging, Muscular Endurance, Power, Speed, Stretching) is inventory-only, named here and not placed
+- Tally: 25 placements — 19 to existing lessons, 6 NEW LESSON NEEDED (Health-side placements in myanmar-health-placements.md)
+- Myanmar's own way: fitness is introduced through graded A/B/C test tables for every component, first aid is taught as the English PRICES sequence, and Myanmar's own chinlone is given a full chapter with its six classic kicks named in English (instep, inside, knee, sole, heel, outside).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — §2-4-2 Volleyball — the underhand and overhand passes (original target `ball-games/volleyball-passing-and-setting`) | Myanmar G6 PE Textbook, printed pp. 59–64 |
+
+**Book — Myanmar Book 6 (teacher guide):**
+## Book 6 — G6 PE Teacher Guide (teacher guide, Myanmar/Burmese)
+- Title as printed: ကာယပညာ ဆရာလမ်းညွှန် (Physical Education Teacher Guide), Grade 6 — introduction with the I-T-P-R lesson shape (45-minute periods), syllabus, year plan and Glossary of Words, then lesson plans for every textbook chapter
+- Grade: 6 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Myanmar (DBE BOX scan); year not printed on the scanned pages; no ISBN printed
+- PDF pages: 102 (byte size 32,405,768 = record size exactly)
+- Verdict: COMPLETE — spot-read across the whole book (front matter, Ch.1 plans, mid-book plans, Ch.3 plans and test timetable at the end); plans mirror the student textbook throughout
+- Tally: 13 placements — 9 to existing lessons, 4 NEW LESSON NEEDED (Health-side placements in myanmar-health-placements.md)
+- Note: a Grade 6 PE teacher guide is also listed among the library's already-held Myanmar books (Telegram route); this be.moeedu.org copy is the DBE BOX scan edition — staged as well and flagged in the group log for de-duplication
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — Lesson plan 2-4-2 — teaching the volleyball passes (original target `ball-games/volleyball-passing-and-setting`) | Myanmar G6 PE Teacher Guide, printed pp. 44–46 |
+
+**Book — Myanmar Book 7 (student book):**
+## Book 7 — G4 PE Textbook (student book, Myanmar/Burmese)
+- Title as printed: ကာယပညာ (Physical Education), Grade 4 student textbook — the scan carries no cover page; running heads read အခန်း(…) with the chapter titles below, and Chapter 1 opens on printed p. 1 (back page carries the CREATE / Ministry of Education / JICA marks, as in the Grade 1 book)
+- Grade: 4 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Myanmar, with the JICA CREATE project (DBE BOX scan); year not printed on the scanned pages; no ISBN printed
+- PDF pages: 87 (byte size 67,375,417 = record size exactly)
+- Verdict: COMPLETE — read page by page from the page renders; every chapter closes with the book's own smiley-face self-check table (assessment apparatus, named here and not placed)
+- Tally: 34 placements — 33 to existing lessons, 1 NEW LESSON NEEDED (no Health-side placements: this book teaches no health, hygiene or nutrition chapter)
+- Myanmar's own way: the primary course is built as one illustrated chapter per skill or game — every game chapter prints its full rules in a yellow rules box (ကစားနည်းစည်းမျဉ်းများ) and ends with a smiley-face self-check; a pupil in a wheelchair is drawn playing alongside the class in the ball chapter.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — Chapter 26 Volleyball — underhand and overhand passing over a low net, and serving over (original target `ball-games/volleyball-passing-and-setting`) | Myanmar G4 PE Textbook, printed pp. 76–78 |
+
+Myanmar's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Myanmar is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 3, Book 5, Book 7); its teacher guides stocked here (Book 4, Book 6) are evidence only, outside the acceptance count. The learnbig.net mirror records of these books are parallel records of the same books, not separate books, as filed in the placements file's reconciliation. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

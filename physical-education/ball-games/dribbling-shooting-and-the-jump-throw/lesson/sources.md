@@ -1,6 +1,6 @@
 # Sources — Dribbling, Shooting and the Jump Throw
 
-countries: Ethiopia, China, Philippines, Maldives, Belize, Honduras, Mauritius, Iran, North Macedonia, Jordan, Malaysia, Cuba, Kuwait, Oman, Rwanda, Greece, DR Congo
+countries: Ethiopia, China, Philippines, Maldives, Belize, Honduras, Mauritius, Iran, North Macedonia, Jordan, Malaysia, Cuba, Kuwait, Oman, Rwanda, Greece, DR Congo, Myanmar
 
 **Book — Grade 5 student:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 106 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md. COMPLETE.
 
@@ -32,7 +32,7 @@ countries: Ethiopia, China, Philippines, Maldives, Belize, Honduras, Mauritius, 
 | Handball — the dive throw, goalkeeping and passing — Grades 8–10 | Ethiopia, Grade 10 student §7.2 Goalkeeping, printed pp. 116–120 |
 | Handball — the dive throw, goalkeeping and passing — Grades 8–10 | Ethiopia, Grade 9 teacher Unit 7 goalkeeping (teacher guide — evidence), printed pp. 95–100 |
 | Handball — the dive throw, goalkeeping and passing — Grades 8–10 | Ethiopia, Grade 10 teacher Unit 7 advanced goalkeeping (teacher guide — evidence), printed pp. 79–80 |
-**Acceptance count: taught in 11 countries (Ethiopia, China, Philippines, Honduras, Mauritius, Iran, North Macedonia, Jordan, Malaysia, Greece, DR Congo).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. China is added as student-book stock (see its rows below), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count; the Mauritius teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count.
+**Acceptance count: taught in 12 countries (Ethiopia, China, Philippines, Honduras, Mauritius, Iran, North Macedonia, Jordan, Malaysia, Greece, DR Congo, Myanmar).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. China is added as student-book stock (see its rows below), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count; the Mauritius teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count.
 
 The Grade 5 and Grade 6 teacher guides' ball-games chapters are in the truncated missing ranges of those scans (G5T Chapter 6, pp. 57–77; G6T Chapter 6, pp. 65–82), so this lesson rests on the complete student books only; no teacher-guide pages are claimed for it.
 
@@ -821,3 +821,51 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-pe-
 | DR Congo — Ch. 5 §5.3 Shooting at the basket — elbow-under-ball set shot, leg drive and wrist flick at a hoop or bucket (original target `ball-games/dribbling-shooting-and-the-jump-throw`) | DR Congo Grade 6 EPS Primaire 6, Ch. 5 §5.3 |
 
 DR Congo's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. DR Congo is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Myanmar — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/myanmar-pe-placements.md. The Myanmar books stocked in this lesson are Book 1, Book 3, Book 7. Myanmar is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 1, Book 3, Book 7). Myanmar's own way is content, as the book lines below record it: Book 1: the whole secondary course is built from photo-sequenced exercises with English names kept in brackets, two full circuit-training rounds with record charts, competition-fixture mathematics (league and knockout draws worked numerically), and Myanmar's own net game, sepak takraw, taught with its SEAP Games history.; Book 3: fitness is taught component by component with the English names kept (Muscular Endurance, Flexibility, Cardiovascular Endurance, Strength and Power, Agility, Balance, Coordination, Speed), and the games chapters give Myanmar two of its own: the htok-see-toe tag game and chinlone, the rattan-ball art.; Book 7: the primary course is built as one illustrated chapter per skill or game — every game chapter prints its full rules in a yellow rules box (ကစားနည်းစည်းမျဉ်းများ) and ends with a smiley-face self-check; a pupil in a wheelchair is drawn playing alongside the class in the ball chapter.
+
+**Book — Myanmar Book 1 (student book):**
+## Book 1 — G10 PE Textbook (student book, Myanmar/Burmese with English exercise names)
+- Title as printed: ကာယပညာ (Physical Education), Grade 10 student textbook — the scan carries no cover page; the running heads read ကျောင်းသုံးစာအုပ် / ကာယပညာ / ဒသမတန်း (school textbook / Physical Education / Grade 10) and Chapter 1 opens on PDF p.1
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Myanmar (DBE BOX scan); year not printed on the scanned pages; no ISBN printed
+- PDF pages: 70 (byte size 42,917,679 = record size exactly; the scan repeats the opening pages at the end)
+- Verdict: COMPLETE
+- Tally: 18 placements — 11 to existing lessons, 7 NEW LESSON NEEDED (Health-side placements from this book are in myanmar-health-placements.md)
+- Myanmar's own way: the whole secondary course is built from photo-sequenced exercises with English names kept in brackets, two full circuit-training rounds with record charts, competition-fixture mathematics (league and knockout draws worked numerically), and Myanmar's own net game, sepak takraw, taught with its SEAP Games history.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — §2-4-3 Basketball — dribbling past a defender and shooting form shown in court photographs (original target `ball-games/dribbling-shooting-and-the-jump-throw`) | Myanmar G10 PE Textbook, printed pp. 47–49 |
+
+**Book — Myanmar Book 3 (student book):**
+## Book 3 — G7 PE Textbook (student book, Myanmar/Burmese with English fitness/sport terms)
+- Title as printed: ကာယပညာ (Physical Education), Grade 7 student textbook — scan carries no cover; running heads read ကျောင်းသုံးစာအုပ် / ကာယပညာ / သတ္တမတန်း (Grade 7) and Chapter 1 opens on PDF p.1
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Myanmar (DBE BOX scan); year not printed on the scanned pages; no ISBN printed
+- PDF pages: 90 (byte size 43,321,005 = record size exactly)
+- Verdict: COMPLETE
+- Tally: 28 placements — 22 to existing lessons, 6 NEW LESSON NEEDED (Health-side placements in myanmar-health-placements.md)
+- Myanmar's own way: fitness is taught component by component with the English names kept (Muscular Endurance, Flexibility, Cardiovascular Endurance, Strength and Power, Agility, Balance, Coordination, Speed), and the games chapters give Myanmar two of its own: the htok-see-toe tag game and chinlone, the rattan-ball art.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — §2-5-3 — dribbling low and changing hands, with shooting practice (original target `ball-games/dribbling-shooting-and-the-jump-throw`) | Myanmar G7 PE Textbook, printed pp. 62–64 |
+
+**Book — Myanmar Book 7 (student book):**
+## Book 7 — G4 PE Textbook (student book, Myanmar/Burmese)
+- Title as printed: ကာယပညာ (Physical Education), Grade 4 student textbook — the scan carries no cover page; running heads read အခန်း(…) with the chapter titles below, and Chapter 1 opens on printed p. 1 (back page carries the CREATE / Ministry of Education / JICA marks, as in the Grade 1 book)
+- Grade: 4 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Myanmar, with the JICA CREATE project (DBE BOX scan); year not printed on the scanned pages; no ISBN printed
+- PDF pages: 87 (byte size 67,375,417 = record size exactly)
+- Verdict: COMPLETE — read page by page from the page renders; every chapter closes with the book's own smiley-face self-check table (assessment apparatus, named here and not placed)
+- Tally: 34 placements — 33 to existing lessons, 1 NEW LESSON NEEDED (no Health-side placements: this book teaches no health, hygiene or nutrition chapter)
+- Myanmar's own way: the primary course is built as one illustrated chapter per skill or game — every game chapter prints its full rules in a yellow rules box (ကစားနည်းစည်းမျဉ်းများ) and ends with a smiley-face self-check; a pupil in a wheelchair is drawn playing alongside the class in the ball chapter.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — Chapter 25 Basketball — bouncing and dribbling counted in lines, passing, and shooting at hoops (original target `ball-games/dribbling-shooting-and-the-jump-throw`) | Myanmar G4 PE Textbook, printed pp. 72–75 |
+
+Myanmar's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Myanmar is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 1, Book 3, Book 7). The learnbig.net mirror records of these books are parallel records of the same books, not separate books, as filed in the placements file's reconciliation. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

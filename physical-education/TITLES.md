@@ -391,3 +391,8 @@ Activities** (`athletics/outdoor-and-adventure-activities`),
 (`traditional-games-and-dances/traditional-dances-of-turkey`)
 and **Sport in Turkey** (`sport-and-its-story/sport-in-turkey`)
 — 4 new lessons, bringing this course to 223 lessons.
+
+The PE expansion then added: **Traditional Games of
+Myanmar**
+(`traditional-games-and-dances/traditional-games-of-myanmar`)
+— 1 new lesson, bringing this course to 224 lessons.

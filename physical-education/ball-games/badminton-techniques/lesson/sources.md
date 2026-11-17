@@ -1,8 +1,8 @@
 # Sources — Badminton Techniques
 
-countries: China, Azerbaijan, Mauritius, Iran, North Macedonia, Jordan, Malaysia, Oman
+countries: China, Azerbaijan, Mauritius, Iran, North Macedonia, Jordan, Malaysia, Oman, Myanmar
 
-**Acceptance count: taught in 7 countries (China, Azerbaijan, Mauritius, Iran, North Macedonia, Jordan, Malaysia).** Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. China is student-book stock (see its rows below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count.
+**Acceptance count: taught in 8 countries (China, Azerbaijan, Mauritius, Iran, North Macedonia, Jordan, Malaysia, Myanmar).** Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. China is student-book stock (see its rows below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count.
 
 ## China — PE expansion 2026-11-16
 
@@ -271,3 +271,51 @@ Oman's own way: Grade 8 mirrors Grade 7 with the fitness unit's emphases swapped
 | Oman — Unit 2, Sports and Movement Games (1) — Badminton (teacher guide — evidence) (original target `ball-games/badminton`) | Oman, *Oman G8 Teacher Guide*, printed p. 122 |
 
 Oman's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Oman's own way is content, as the book lines above record it: the subject is one combined Physical & Health Education course; the first cycle runs six units with child-facing mottos (Exercises, Basic Movements, Handling Movements, Motor Perception and Fluency, Movement Games, and Health Culture), the second cycle opens with Physical Fitness and Kids' Athletics and splits the games across two Movement Games units — including badminton, goalball for visually impaired pupils, table tennis adapted for visual impairment, and Omani folk games — with gymnastics in two tracks (rhythmic gymnastics for girls, floor gymnastics for boys), and the post-basic guides swap in health-related and skill-related fitness with named athletics events. Every topic follows one lesson-plan pattern: technical points, teaching steps, practice stations, games and competitions. Teacher guides are evidence of what is taught, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Myanmar — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/myanmar-pe-placements.md. The Myanmar books stocked in this lesson are Book 1, Book 3, Book 5. Myanmar is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 1, Book 3, Book 5). Myanmar's own way is content, as the book lines below record it: Book 1: the whole secondary course is built from photo-sequenced exercises with English names kept in brackets, two full circuit-training rounds with record charts, competition-fixture mathematics (league and knockout draws worked numerically), and Myanmar's own net game, sepak takraw, taught with its SEAP Games history.; Book 3: fitness is taught component by component with the English names kept (Muscular Endurance, Flexibility, Cardiovascular Endurance, Strength and Power, Agility, Balance, Coordination, Speed), and the games chapters give Myanmar two of its own: the htok-see-toe tag game and chinlone, the rattan-ball art.; Book 5: fitness is introduced through graded A/B/C test tables for every component, first aid is taught as the English PRICES sequence, and Myanmar's own chinlone is given a full chapter with its six classic kicks named in English (instep, inside, knee, sole, heel, outside).
+
+**Book — Myanmar Book 1 (student book):**
+## Book 1 — G10 PE Textbook (student book, Myanmar/Burmese with English exercise names)
+- Title as printed: ကာယပညာ (Physical Education), Grade 10 student textbook — the scan carries no cover page; the running heads read ကျောင်းသုံးစာအုပ် / ကာယပညာ / ဒသမတန်း (school textbook / Physical Education / Grade 10) and Chapter 1 opens on PDF p.1
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Myanmar (DBE BOX scan); year not printed on the scanned pages; no ISBN printed
+- PDF pages: 70 (byte size 42,917,679 = record size exactly; the scan repeats the opening pages at the end)
+- Verdict: COMPLETE
+- Tally: 18 placements — 11 to existing lessons, 7 NEW LESSON NEEDED (Health-side placements from this book are in myanmar-health-placements.md)
+- Myanmar's own way: the whole secondary course is built from photo-sequenced exercises with English names kept in brackets, two full circuit-training rounds with record charts, competition-fixture mathematics (league and knockout draws worked numerically), and Myanmar's own net game, sepak takraw, taught with its SEAP Games history.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — §2-3-2 — badminton strokes and rally practice: overhead shots, net play and paired rally drills (original target `ball-games/badminton-strokes-and-rallies`) | Myanmar G10 PE Textbook, printed pp. 38–40 |
+
+**Book — Myanmar Book 3 (student book):**
+## Book 3 — G7 PE Textbook (student book, Myanmar/Burmese with English fitness/sport terms)
+- Title as printed: ကာယပညာ (Physical Education), Grade 7 student textbook — scan carries no cover; running heads read ကျောင်းသုံးစာအုပ် / ကာယပညာ / သတ္တမတန်း (Grade 7) and Chapter 1 opens on PDF p.1
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Myanmar (DBE BOX scan); year not printed on the scanned pages; no ISBN printed
+- PDF pages: 90 (byte size 43,321,005 = record size exactly)
+- Verdict: COMPLETE
+- Tally: 28 placements — 22 to existing lessons, 6 NEW LESSON NEEDED (Health-side placements in myanmar-health-placements.md)
+- Myanmar's own way: fitness is taught component by component with the English names kept (Muscular Endurance, Flexibility, Cardiovascular Endurance, Strength and Power, Agility, Balance, Coordination, Speed), and the games chapters give Myanmar two of its own: the htok-see-toe tag game and chinlone, the rattan-ball art.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — §2-4-1 — the five services (High, Low, Backhand Low, Drive, Flick), receiving service and rally strokes (original target `ball-games/badminton-strokes-and-rallies`) | Myanmar G7 PE Textbook, printed pp. 42–46 |
+
+**Book — Myanmar Book 5 (student book):**
+## Book 5 — G6 PE Textbook (student book, Myanmar/Burmese with English fitness/sport terms)
+- Title as printed: ကျောင်းသုံးစာအုပ် ကာယပညာ ဆဋ္ဌမတန်း (School Textbook, Physical Education, Grade 6) — cover: ပြည်ထောင်စုသမ္မတမြန်မာနိုင်ငံတော်အစိုးရ ပညာရေးဝန်ကြီးဌာန (Ministry of Education, Republic of the Union of Myanmar), ၂၀၁၉–၂၀၂၀ (2019–2020); printed January 2019, 196,392 copies; no ISBN printed
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Myanmar (DBE BOX scan)
+- PDF pages: 88 (byte size 19,943,343 = record size exactly)
+- Verdict: COMPLETE — full contents page (မာတိကာ) read; closing glossary of PE terms (Physical Fitness, Agility, Balance, Cardiovascular Endurance, Circuit Training, Coordination, Flexibility, Jogging, Muscular Endurance, Power, Speed, Stretching) is inventory-only, named here and not placed
+- Tally: 25 placements — 19 to existing lessons, 6 NEW LESSON NEEDED (Health-side placements in myanmar-health-placements.md)
+- Myanmar's own way: fitness is introduced through graded A/B/C test tables for every component, first aid is taught as the English PRICES sequence, and Myanmar's own chinlone is given a full chapter with its six classic kicks named in English (instep, inside, knee, sole, heel, outside).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — §2-3-2 — services and rally strokes (original target `ball-games/badminton-strokes-and-rallies`) | Myanmar G6 PE Textbook, printed pp. 41–48 |
+
+Myanmar's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Myanmar is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 1, Book 3, Book 5). The learnbig.net mirror records of these books are parallel records of the same books, not separate books, as filed in the placements file's reconciliation. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

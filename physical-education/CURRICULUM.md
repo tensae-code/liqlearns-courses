@@ -928,6 +928,36 @@ Health-bound; the combined books' Health parts are filed in
 turkey-health-placements.md, and the PE/Game/Music books'
 Music parts are named, not placed, as filed.
 
+**PE expansion — Myanmar — BUILT 2026-11-16:** 277 placements
+from Myanmar's fourteen PE books (Grades 1, 2, 3, 4, 6, 7
+and 10 — a student textbook and a teacher guide each, from
+the be.moeedu.org / DBE BOX scans, all COMPLETE as filed)
+stocked — 269 into existing lessons (including The Rules
+of Badminton, Badminton Techniques, Table Tennis, Hockey
+Skills, Sepak Takraw, Chinlone, Yoga Poses and Breathing
+and Organising Competitions and Events, built earlier in
+this expansion) and 8 as 1 new lesson (Traditional Games
+of Myanmar) — bringing this course to **224 lessons**.
+Myanmar's student books are student-book stock, inside
+the acceptance counts; its teacher guides are evidence
+only, outside the acceptance counts. No Myanmar PE
+placement resolves to a Health-course lesson, so none
+was excluded as Health-bound; the health, safety and
+first-aid teaching inside the PE books is filed in
+myanmar-health-placements.md and placed in the Health
+course. The four record-only records (two edu4mm course
+indexes, the Grade 4 complete-set enumeration line and
+the UNHCR data page) carry 0 placements, and the
+learnbig.net mirror records are parallel records of the
+same books, not separate books, as filed. Myanmar's own
+way is content: the primary course built as one
+illustrated chapter per skill or game with full rules
+printed in a rules box, the secondary course built from
+photo-sequenced exercises with English names kept, two
+full circuit-training rounds, competition-fixture
+mathematics, and Myanmar's own games — sepak takraw,
+chinlone and htok-see-toe.
+
 ## Unit 1 — Moving Basics
 
 1. **Combined Travelling and On-the-Spot Movements** (`moving-basics/combined-travelling-and-on-the-spot`) — joining travelling movements together, joining on-the-spot movements together, and chaining the two families in one sequence.
@@ -1185,6 +1215,7 @@ Music parts are named, not placed, as filed.
 
 58. **Traditional Games of Turkey** (`traditional-games-and-dances/traditional-games-of-turkey`) — traditional games of Turkey: Turkey's traditional children's games and cultural game heritage — taught in Turkey's music-school books as Geleneksel Çocuk Oyunları (traditional children's games) at grades 2, 5, 6 and 7, and in its middle-school books as the theme Kültürel Birikimlerimiz ve Oyun, our cultural heritage and games (Turkey's student books; its teacher guides, evidence only).
 59. **Traditional Dances of Turkey** (`traditional-games-and-dances/traditional-dances-of-turkey`) — traditional dances of Turkey: the folk dances — Horon, Halay, Zeybek, Kaşık spoon dances and Karşılama — their features, dress and steps — taught across Turkey's music-school books dance by dance: folk-dance types and basic movements, Horon of the Black Sea, Halay, Zeybek of the Aegean, the Kaşık spoon dances and the Karşılama dance-games of Thrace (Turkey's student books; its differentiation teacher guides, evidence only).
+60. **Traditional Games of Myanmar** (`traditional-games-and-dances/traditional-games-of-myanmar`) — traditional games of Myanmar: Myanmar's own games — Htok-See-Toe tag, the Jasmine Flower game and White Rope, Black Rope — taught in Myanmar's Grade 6 and Grade 7 student books as Htok-See-Toe, the traditional line-crossing tag game with its court zones, runners, taggers and full rules, and in its Grade 2 student book as the two named traditional call-and-chase games, "What Time Is It, Great Jasmine Flower?" and White Rope, Black Rope, each printed with its full rules (Myanmar's student books; its teacher guides, evidence only).
 
 ## Unit 8 — Sport and Its Story
 

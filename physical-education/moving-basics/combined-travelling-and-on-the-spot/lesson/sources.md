@@ -1,6 +1,6 @@
 # Sources — Combined Travelling and On-the-Spot Movements
 
-countries: Ethiopia, Samoa, Thailand, El Salvador, Philippines, Nicaragua, Maldives, Fiji, Mauritius, Zimbabwe, Cuba, Kuwait, Oman, Papua New Guinea, Sri Lanka, Rwanda, Greece, DR Congo, Turkey
+countries: Ethiopia, Samoa, Thailand, El Salvador, Philippines, Nicaragua, Maldives, Fiji, Mauritius, Zimbabwe, Cuba, Kuwait, Oman, Papua New Guinea, Sri Lanka, Rwanda, Greece, DR Congo, Turkey, Myanmar
 
 **Book — Grade 1 teacher (teacher guide — evidence):** *Grade 1 Health and Physical Education Teacher Guide* (የጤናና ሰውነት ማጎልመሻ ትምህርት የመምህር መምሪያ መጽሐፍ, አንድኛ ክፍል) (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, 2015 E.C. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-teacher-placements.md. TRUNCATED scan — see honesty paragraph.
 
@@ -46,7 +46,7 @@ countries: Ethiopia, Samoa, Thailand, El Salvador, Philippines, Nicaragua, Maldi
 | Thailand — Unit 6 (part 2) Twisting, pulling and pushing — the twisting (การบิดตัว), pulling (การดึง) and pushing (การผลัก) movements and their correct postures (student book — MAC sample, PARTIAL) (original target `moving-basics/combined-travelling-and-on-the-spot`) | Thailand, *Health & PE, Grade 2* (Thailand Grade 2 MAC Health & PE), Unit 6 (part 2), printed pp. 108–115 |
 | Thailand — Unit 5.1 (part 1) Movement in sport — the basic movements of the parts of the body used in playing sport (student book — MAC sample, PARTIAL) (original target `moving-basics/combined-travelling-and-on-the-spot`) | Thailand, *Health & PE, Grade 12* (Thailand Grade 12 MAC Health & PE), Unit 5.1 (part 1), printed pp. 143–150 |
 | Thailand — Unit 3, Ch. 1 Moving the body — controlling body movement while on the spot, while travelling and while using equipment, with direction (student book — SSR flipbook sample, PARTIAL) (original target `moving-basics/combined-travelling-and-on-the-spot`) | Thailand, *Health & PE, Grade 3* (Thailand Grade 3 SSR Health & PE), Unit 3, Ch. 1, printed pp. 48–56 |
-**Acceptance count: taught in 10 countries (Ethiopia, Thailand, Philippines, Fiji, Mauritius, Zimbabwe, Sri Lanka, Greece, DR Congo, Turkey).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Samoa is added as curriculum-statement evidence only (see its row above), named in the countries line but outside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; the Fiji teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count; the Mauritius teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count. Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count.
+**Acceptance count: taught in 11 countries (Ethiopia, Thailand, Philippines, Fiji, Mauritius, Zimbabwe, Sri Lanka, Greece, DR Congo, Turkey, Myanmar).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Samoa is added as curriculum-statement evidence only (see its row above), named in the countries line but outside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; the Fiji teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count; the Mauritius teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count. Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count; the Myanmar teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
 
 The Grade 1 teacher guide scan is TRUNCATED: it holds printed pp. 1–43 of 85+. Missing: the rest of §4.2, §4.3 Stretching and flexibility (p. 47), §4.4 Agility (p. 53), all of Chapter 5 Gymnastics (pp. 59–78) and all of Chapter 6 (pp. 79–85+). Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
 
@@ -825,3 +825,121 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkey-pe-pl
 | Turkey — G2 Theme 1 differentiated: Hareketimi Geliştiriyorum (original target `moving-basics/combined-travelling-and-on-the-spot`) | Turkey G1–4 PE Differentiation TG, printed p. 36 |
 
 Turkey's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Turkey is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 8, Book 11, Book 12); its teacher guides stocked here (Book 4, Book 15, Book 16, Book 17, Book 20) are evidence only, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Myanmar — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/myanmar-pe-placements.md. The Myanmar books stocked in this lesson are Book 7, Book 8, Book 9, Book 10, Book 11, Book 12, Book 13, Book 14. Myanmar is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 7, Book 8, Book 10, Book 11); its teacher guides stocked here (Book 9, Book 12, Book 13, Book 14) are evidence only, outside the acceptance count. Myanmar's own way is content, as the book lines below record it: Book 7: the primary course is built as one illustrated chapter per skill or game — every game chapter prints its full rules in a yellow rules box (ကစားနည်းစည်းမျဉ်းများ) and ends with a smiley-face self-check; a pupil in a wheelchair is drawn playing alongside the class in the ball chapter.; Book 8: the Grade 1 course teaches almost everything as a named class game — numbers are learned by moving (count one-to-ten with the body), and the named games (mosquito-net circle, little doves, the train) are the same games the higher primary grades build on.; Book 10: Grade 2 keeps the one-chapter-one-game shape and names two traditional call-and-chase games of Myanmar playgrounds — "What time is it, Great Jasmine Flower?" and "White Rope, Black Rope" — each printed with its full rules; a classmate in a wheelchair is again drawn inside the chasing games.; Book 11: Grade 3's Chapter 2 is a composed movement song with its lyricist and arranger credited in print (စာသား-ဒေါ်စိန်ရည်(ကစား)) — the class dances the counts to Myanmar's own PE song; the games chapters keep printing full rules with exact team sizes (2019 printing: ၅ ဦး သို့မဟုတ် ၆ ဦး — five or six players).
+
+**Book — Myanmar Book 7 (student book):**
+## Book 7 — G4 PE Textbook (student book, Myanmar/Burmese)
+- Title as printed: ကာယပညာ (Physical Education), Grade 4 student textbook — the scan carries no cover page; running heads read အခန်း(…) with the chapter titles below, and Chapter 1 opens on printed p. 1 (back page carries the CREATE / Ministry of Education / JICA marks, as in the Grade 1 book)
+- Grade: 4 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Myanmar, with the JICA CREATE project (DBE BOX scan); year not printed on the scanned pages; no ISBN printed
+- PDF pages: 87 (byte size 67,375,417 = record size exactly)
+- Verdict: COMPLETE — read page by page from the page renders; every chapter closes with the book's own smiley-face self-check table (assessment apparatus, named here and not placed)
+- Tally: 34 placements — 33 to existing lessons, 1 NEW LESSON NEEDED (no Health-side placements: this book teaches no health, hygiene or nutrition chapter)
+- Myanmar's own way: the primary course is built as one illustrated chapter per skill or game — every game chapter prints its full rules in a yellow rules box (ကစားနည်းစည်းမျဉ်းများ) and ends with a smiley-face self-check; a pupil in a wheelchair is drawn playing alongside the class in the ball chapter.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — Chapter 10 Combined Game — an obstacle course joining hurdles, upright poles and a ball: run, jump, weave and carry in one course (original target `moving-basics/combined-travelling-and-on-the-spot`) | Myanmar G4 PE Textbook, printed pp. 34–35 |
+
+**Book — Myanmar Book 8 (student book):**
+## Book 8 — G1 PE Textbook (student book, Myanmar/Burmese)
+- Title as printed: ကာယပညာ ပထမတန်း (Physical Education, Grade 1) — cover: ပြည်ထောင်စုသမ္မတမြန်မာနိုင်ငံတော်အစိုးရ ပညာရေးဝန်ကြီးဌာန (Ministry of Education, Republic of the Union of Myanmar), ၂၀၁၇–၂၀၁၈ (2017–2018); full contents page (မာတိကာ) lists 22 chapters; back page carries the CREATE / Ministry / JICA marks; no ISBN printed
+- Grade: 1 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Myanmar, with the JICA CREATE project (DBE BOX scan)
+- PDF pages: 68 (byte size 30,226,363 = record size exactly); printed pp. 1–60 plus front and back matter
+- Verdict: COMPLETE — read page by page from the page renders against the contents page; each chapter's closing smiley-face self-check table is assessment apparatus, named here and not placed
+- Tally: 24 placements — 24 to existing lessons, 0 NEW LESSON NEEDED (no Health-side placements: this book teaches no health, hygiene or nutrition chapter)
+- Myanmar's own way: the Grade 1 course teaches almost everything as a named class game — numbers are learned by moving (count one-to-ten with the body), and the named games (mosquito-net circle, little doves, the train) are the same games the higher primary grades build on.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — Chapter 6 Animal Walks — moving like animals across the floor (crouched and crawling walks) (original target `moving-basics/combined-travelling-and-on-the-spot`) | Myanmar G1 PE Textbook, printed p. 10 |
+| Myanmar — Chapter 10 Imitation Play — walking the oval like the animals: bear crawl and duck walk, then imitating inside a gridded court (original target `moving-basics/combined-travelling-and-on-the-spot`) | Myanmar G1 PE Textbook, printed pp. 19–20 |
+| Myanmar — Chapter 17 Little Doves, Little Birds Game — moving like little birds: wings out, hopping and fluttering across the space (original target `moving-basics/combined-travelling-and-on-the-spot`) | Myanmar G1 PE Textbook, printed pp. 42–43 |
+
+**Book — Myanmar Book 9 (teacher guide):**
+## Book 9 — G1 PE Teacher Guide (teacher guide, Myanmar/Burmese)
+- Title as printed: ကာယပညာ ပထမတန်း ဆရာလမ်းညွှန် (Physical Education, Grade 1, Teacher Guide) — cover: Ministry of Education, ၂၀၁၇–၂၀၁၈ (2017–2018); contents page lists a teachers' introduction, the subject's four aims (§1.1), lesson plans for all 22 textbook chapters, and appendices of assessment samples (နောက်ဆက်တွဲ (က)(ခ)(ဂ), printed pp. 70–76 — assessment apparatus, named here and not placed)
+- Grade: 1 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Myanmar, with the JICA CREATE project (DBE BOX scan); no ISBN printed
+- PDF pages: 77 (byte size 78,289,891 = record size exactly)
+- Verdict: COMPLETE — spot-read across the whole book (front matter and contents, early, middle and closing plans); every plan is a timed lesson (objectives, teaching steps in minutes, checks) facing the reprinted textbook page, mirroring the student book chapter by chapter
+- Tally: 15 placements — 15 to existing lessons, 0 NEW LESSON NEEDED (no Health-side placements)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — Lesson plans, Chapters 6 and 10 — teaching the animal walks and imitation play (bear crawl, duck walk) (original target `moving-basics/combined-travelling-and-on-the-spot`) | Myanmar G1 PE Teacher Guide, printed pp. 16, 26–28 |
+| Myanmar — Lesson plans, Chapter 17 — teaching the little doves, little birds movement game (original target `moving-basics/combined-travelling-and-on-the-spot`) | Myanmar G1 PE Teacher Guide, printed pp. 50–51 |
+
+**Book — Myanmar Book 10 (student book):**
+## Book 10 — G2 PE Textbook (student book, Myanmar/Burmese)
+- Title as printed: ကာယပညာ ဒုတိယတန်း (Physical Education, Grade 2) — cover: Ministry of Education, Republic of the Union of Myanmar, ၂၀၁၈–၂၀၁၉ (2018–2019); full contents page (မာတိကာ) lists 21 chapters; back pages carry the CREATE / Ministry / JICA credit; no ISBN printed
+- Grade: 2 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Myanmar, with the JICA CREATE project (DBE BOX scan)
+- PDF pages: 68 (byte size 45,398,030 = record size exactly); printed pp. 1–60 plus front and back matter
+- Verdict: COMPLETE — read page by page from the page renders against the contents page; each chapter's closing smiley-face self-check table is assessment apparatus, named here and not placed
+- Tally: 25 placements — 23 to existing lessons, 2 NEW LESSON NEEDED (no Health-side placements: this book teaches no health, hygiene or nutrition chapter)
+- Myanmar's own way: Grade 2 keeps the one-chapter-one-game shape and names two traditional call-and-chase games of Myanmar playgrounds — "What time is it, Great Jasmine Flower?" and "White Rope, Black Rope" — each printed with its full rules; a classmate in a wheelchair is again drawn inside the chasing games.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — Chapter 9 Imitation Play — imitating the animals: frog jumps and partner copying (original target `moving-basics/combined-travelling-and-on-the-spot`) | Myanmar G2 PE Textbook, printed pp. 16–17 |
+
+**Book — Myanmar Book 11 (student book):**
+## Book 11 — G3 PE Textbook (student book, Myanmar/Burmese)
+- Title as printed: ကာယပညာ တတိယတန်း (Physical Education, Grade 3) — cover: Ministry of Education, Republic of the Union of Myanmar, ၂၀၁၉–၂၀၂၀ (2019–2020); full contents page (မာတိကာ) lists 17 chapters; CREATE / Ministry / JICA credit; no ISBN printed
+- Grade: 3 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Myanmar, with the JICA CREATE project (DBE BOX scan)
+- PDF pages: 68 (byte size 73,313,422 = record size exactly); printed pp. 1–59 plus front and back matter
+- Verdict: COMPLETE — read page by page from the page renders against the contents page; each chapter's closing smiley-face self-check table is assessment apparatus, named here and not placed
+- Tally: 20 placements — 20 to existing lessons, 0 NEW LESSON NEEDED (no Health-side placements: this book teaches no health, hygiene or nutrition chapter)
+- Myanmar's own way: Grade 3's Chapter 2 is a composed movement song with its lyricist and arranger credited in print (စာသား-ဒေါ်စိန်ရည်(ကစား)) — the class dances the counts to Myanmar's own PE song; the games chapters keep printing full rules with exact team sizes (2019 printing: ၅ ဦး သို့မဟုတ် ၆ ဦး — five or six players).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — Chapter 5 Running — the combined course: sprint, weave the cones, clear the hurdles, finish through the hoops (original target `moving-basics/combined-travelling-and-on-the-spot`) | Myanmar G3 PE Textbook, printed pp. 12–13 |
+| Myanmar — Chapter 16 Stepping-Over Running Race — teammates lie in a row holding the ball; runners step over the whole row and the last one takes the turn (original target `moving-basics/combined-travelling-and-on-the-spot`) | Myanmar G3 PE Textbook, printed pp. 52–55 |
+
+**Book — Myanmar Book 12 (teacher guide):**
+## Book 12 — G2 PE Teacher Guide (teacher guide, Myanmar/Burmese)
+- Title as printed: ကာယပညာ ဒုတိယတန်း ဆရာလမ်းညွှန် (Physical Education, Grade 2, Teacher Guide) — Ministry of Education, ၂၀၁၈–၂၀၁၉ (2018–2019); the scan is watermarked "DBE Box – Copyright Protected"
+- Grade: 2 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Myanmar, with the JICA CREATE project (DBE BOX scan); no ISBN printed
+- PDF pages: 75 (byte size 96,319,293 = record size exactly)
+- Verdict: COMPLETE — spot-read across the whole book (opening plans, middle plans, closing pages); every plan is a timed lesson (objectives, teaching steps in minutes, checks) facing the reprinted textbook page, mirroring the student book chapter by chapter; the book closes with blank self-assessment record grids for all 21 chapters (assessment apparatus, named here and not placed). Citations below name the chapter whose plans are filed, as this guide's plans are organised by textbook chapter.
+- Tally: 16 placements — 14 to existing lessons, 2 NEW LESSON NEEDED (no Health-side placements)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — Lesson plans, Chapter 9 — teaching imitation play (frog jumps, partner copying) (original target `moving-basics/combined-travelling-and-on-the-spot`) | Myanmar G2 PE Teacher Guide, Chapter 9 lesson plans |
+
+**Book — Myanmar Book 13 (teacher guide):**
+## Book 13 — G3 PE Teacher Guide (teacher guide, Myanmar/Burmese)
+- Title as printed: ကာယပညာ တတိယတန်း ဆရာလမ်းညွှန် (Physical Education, Grade 3, Teacher Guide) — Ministry of Education, ၂၀၁၉–၂၀၂၀ (2019–2020); the scan is watermarked "DBE Box – Copyright Protected"
+- Grade: 3 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Myanmar, with the JICA CREATE project (DBE BOX scan); no ISBN printed
+- PDF pages: 80 (byte size 99,632,332 = record size exactly)
+- Verdict: COMPLETE — spot-read across the whole book (teacher front matter, opening plans, closing pages); the front matter gives the subject's four aims, teaching method, the whistle-signal code, and year-plan tables allocating periods per chapter (စာသင်ချိန် — e.g. ball play ၁၀ periods); the plans mirror the student book chapter by chapter; the book closes with self-assessment record grids for all 17 chapters (assessment apparatus, named here and not placed). Citations below name the chapter whose plans are filed.
+- Tally: 16 placements — 16 to existing lessons, 0 NEW LESSON NEEDED (no Health-side placements)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — Lesson plans, Chapter 16 — teaching the stepping-over running race (original target `moving-basics/combined-travelling-and-on-the-spot`) | Myanmar G3 PE Teacher Guide, Chapter 16 lesson plans |
+
+**Book — Myanmar Book 14 (teacher guide):**
+## Book 14 — G4 PE Teacher Guide (teacher guide, Myanmar/Burmese)
+- Title as printed: ကာယပညာ စတုတ္ထတန်း ဆရာလမ်းညွှန် (Physical Education, Grade 4, Teacher Guide) — Ministry of Education, ၂၀၂၀–၂၀၂၁ (2020–2021)
+- Grade: 4 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Myanmar, with the JICA CREATE project (DBE BOX scan); no ISBN printed
+- PDF pages: 109 (byte size 151,648,696 = record size exactly)
+- Verdict: COMPLETE — spot-read across the whole book (teacher front matter with the whistle-signal code and unit list, middle lesson plans for Chapters 11–14, closing pages); the plans are timed lessons with per-chapter assessment tables, mirroring the student book's 28 chapters; the book closes at printed p. 104 with the teacher's observation record form (assessment apparatus, named here and not placed). No health, hygiene or nutrition teaching appears anywhere in this guide — Grade 4 files PE only. Citations below name the chapter/unit whose plans are filed.
+- Tally: 17 placements — 16 to existing lessons, 1 NEW LESSON NEEDED
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — Lesson plans, Final unit — teaching the stepping-over race, the beanbag-target game and the final ball game (Chs. 23–28) (original target `moving-basics/combined-travelling-and-on-the-spot`) | Myanmar G4 PE Teacher Guide, Final unit lesson plans |
+
+Myanmar's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Myanmar is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 7, Book 8, Book 10, Book 11); its teacher guides stocked here (Book 9, Book 12, Book 13, Book 14) are evidence only, outside the acceptance count. The learnbig.net mirror records of these books are parallel records of the same books, not separate books, as filed in the placements file's reconciliation. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
