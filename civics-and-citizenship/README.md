@@ -35,3 +35,11 @@ sources, as provenance.
   evidence; the Senior Four teacher's guide is record-only,
   UNREAD). See `uganda/ABOUT.md` for the full book list and the
   acceptance reckoning.
+- **Tunisia** — [`tunisia/`](tunisia/) · 9 lessons: Level 2 only —
+  the citizen in the world (the international community, rights at
+  the international level, and world challenges), from Tunisia's
+  Civic Education student book for 3rd-year Letters (Arabic,
+  COMPLETE); Level 1 is sketched, not stocked — the G8 Social
+  Subjects civics unit was absent from its scan (PARTIAL, 0
+  placements). See `tunisia/ABOUT.md` for the full book list and
+  the acceptance reckoning.
