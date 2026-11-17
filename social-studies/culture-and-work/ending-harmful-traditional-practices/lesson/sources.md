@@ -1,0 +1,16 @@
+# Sources — Ending Harmful Traditional Practices
+
+countries: Tanzania
+
+**Book 1:** *Social Studies Standard Six Pupil's Book* (student book, English) — Title as printed: Social Studies Standard Six Pupil's Book. Grade: Standard Six (student/teacher: STUDENT). Publisher: Tanzania Institute of Education (TIE); year 2020, reprinted 2021; ISBN 978-9987-09-120-1. PDF pages: 234 per the DarasaHuru link record for this book; read in place from the publisher's own FlipHTML5 reader copy (uploaded by TIE ADMIN, rwbnv/xpim) — full text exposed; the same book is lead-listed to Google Drive copies (files 1w3ObKuGa4BgqoRSXyy1du3fet81qgj1d via DarasaHuru and 1OwBZqaMuPSMiJYZBKsW78BfvT2kC2DcH via ElimuZone). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Culture in society pp. 52–65 (our culture); Civics / global citizenship pp. 66–99 (cooperation between Tanzania and other African countries — the chapter's EAC history narrative is History, named here, not placed); Geography pp. 1–19, 39–51, 143–165 (hazards of environmental destruction, weather, uses of maps, solar system); History pp. 20–38, 100–142 (keeping records of historical events, African heroes and liberation, liberation struggles against neo-colonialism — named, not placed); Economics pp. 166–233 (resources of Tanzania, economic activities, entrepreneurship — named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/tanzania-placements.md. Staged: phase3-staging/grade-06/gov/tanzania/social-studies/student/full-year.pdf (from the Fountain Gate Academy Library PDF copy, 234 pp, verified as this book; books.json record added 2026-11-17) — external-link book NOT in GitHub yet, staged under the 2026-11-13 rule, never deleted from staging.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — culture-and-work/ending-harmful-traditional-practices — Chapter Four: Our culture (effects of old customs and traditions) — teaches: some old customs were harmful — female genital mutilation during girls' initiation damages the reproductive organs, causes heavy bleeding that can kill during delivery, can spread HIV/AIDS when the same blade is used on more than one girl, and can lead to death from bleeding — Tanzania Standard Six tz-ss6, printed p. 60 | Tanzania, *Social Studies Standard Six Pupil's Book* (student book), Chapter Four: Our culture (effects of old customs and traditions) — printed p. 60 |
+| Sub lesson 2 — Tanzania's way — the books' own teaching way | Tanzania — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Tanzania).**
+
+Tanzania's own way (Standard Six, Social Studies Standard Six Pupil's Book): Tanzanian culture is identified by the shared foundations across 120+ ethnic groups — initiation teachings (Jando and Unyago), decent traditional dress, traditional foods, dances and sports — and the book names female genital mutilation plainly as a harmful custom with deadly effects; internationally, Tanzania cooperates through the African Union, the East African Community and SADC, with TAZARA as the standing example of transport building diplomatic ties.
+
+Searchable tags: ending harmful traditional practices, Tanzania, social studies, culture-and-work
