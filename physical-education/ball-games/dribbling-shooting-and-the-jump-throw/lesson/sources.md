@@ -1,6 +1,6 @@
 # Sources — Dribbling, Shooting and the Jump Throw
 
-countries: Ethiopia, China, Philippines, Maldives
+countries: Ethiopia, China, Philippines, Maldives, Belize
 
 **Book — Grade 5 student:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 106 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md. COMPLETE.
 
@@ -32,7 +32,7 @@ countries: Ethiopia, China, Philippines, Maldives
 | Handball — the dive throw, goalkeeping and passing — Grades 8–10 | Ethiopia, Grade 10 student §7.2 Goalkeeping, printed pp. 116–120 |
 | Handball — the dive throw, goalkeeping and passing — Grades 8–10 | Ethiopia, Grade 9 teacher Unit 7 goalkeeping (teacher guide — evidence), printed pp. 95–100 |
 | Handball — the dive throw, goalkeeping and passing — Grades 8–10 | Ethiopia, Grade 10 teacher Unit 7 advanced goalkeeping (teacher guide — evidence), printed pp. 79–80 |
-**Acceptance count: taught in 3 countries (Ethiopia, China, Philippines).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. China is added as student-book stock (see its rows below), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 3 countries (Ethiopia, China, Philippines).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. China is added as student-book stock (see its rows below), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count.
 
 The Grade 5 and Grade 6 teacher guides' ball-games chapters are in the truncated missing ranges of those scans (G5T Chapter 6, pp. 57–77; G6T Chapter 6, pp. 65–82), so this lesson rests on the complete student books only; no teacher-guide pages are claimed for it.
 
@@ -137,3 +137,25 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-pe-
 Maldives's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Maldives's own way is content, as the book lines above record it: one combined Health & PE course per grade built on the national syllabus strands, with swimming and water survival built in from Grade 1 — an island nation's syllabus — the PE side moving from a fitness unit in the early grades through fundamental movement skills, educational gymnastics and timed survival swimming, to movement skills, athletics and the big game families (territorial, net/wall and striking-and-fielding) in Key Stage 3. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: dribbling, shooting and the jump throw, dribbling and bounce-passing, basketball low dribble, high dribble and dribbling games, basketball standing shot, handball dribble and jump throw, physical education, Ethiopia
+
+## Belize — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-pe-placements.md. Belize's two books read for this expansion are combined PE + Healthy Lifestyles teacher curriculum books (Ministry of Education, Belize, 2004, read by download from UWI Space); their Healthy Lifestyles parts are filed in belize-health-placements.md and placed in the Health course, and the six HFLE books in the placements file carry no PE course content. Both books are TEACHER curriculum, so Belize is filed as teacher-curriculum evidence only in every lesson it touches — named in the countries lines and provenance rows, but outside the acceptance counts.
+
+**Book — Belize PE Lower Division (teacher curriculum):**
+## Book 1 — PE Lower Division (teacher curriculum, English)
+- Title as printed: Primary Curriculum: Physical Education — Lower Division (no separate title page; PDF metadata title "Physical Education Lower Division", author David Leacock; every page headed "AREA OF STUDY: PHYSICAL EDUCATION / HEALTHY LIFESTYLES")
+- Grade: Grades 1–3 — Infant I, Infant II, Standard I (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Belize (National Primary Curriculum); year 2004 (file creation Sep 2004; UWI Space deposit 2012); ISBN no ISBN printed
+- PDF pages: 139 (first content page verified: Infant I Locomotor Skills — Walking; printed page numbers equal PDF page numbers)
+- Verdict: COMPLETE
+- Tally: 56 placements — 47 to existing lessons, 9 NEW LESSON NEEDED (Health parts filed separately: 47 placements in the Health file)
+- Belize's own way: PE is taught as three skill families — locomotor, manipulative, non-manipulative — spiralled across Infant I → Standard I with the same skills revisited at rising difficulty, each set given a recommended teaching time in weeks and cross-curricular linkages (Maths, Spanish, Science) printed after each unit.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Belize — Dribbling — second-week striking/dribbling sequence, dribbling a ball in a stationary position and in a game (original target `ball-games/dribbling-shooting-and-the-jump-throw`) | Belize, *Belize Grade 1 PE Lower, printed p. 13* |
+| Belize — Dribbling — moving the ball from place to place on the field, dribbling around stationary objects (original target `ball-games/dribbling-shooting-and-the-jump-throw`) | Belize, *Belize Grade 2 PE Lower, printed p. 55* |
+| Belize — Dribbling — moving the ball across the playing pitch, fast dribbling in week one (original target `ball-games/dribbling-shooting-and-the-jump-throw`) | Belize, *Belize Grade 3 PE Lower, printed p. 104* |
+
+Belize's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Belize's own way is content, as the book lines above record it: in the Lower Division PE is taught as three skill families — locomotor, manipulative, non-manipulative — spiralled across Infant I → Standard I with the same skills revisited at rising difficulty, and in the Middle Division PE is organised as Training, Work, Sports and Dance for every grade, with "Work" treating sweeping, mopping, chopping and washing as real physical training. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

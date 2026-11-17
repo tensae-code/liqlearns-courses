@@ -407,6 +407,42 @@ movement skills, athletics and the big game families
 (territorial, net/wall and striking-and-fielding) in
 Key Stage 3.
 
+**PE expansion — Belize — BUILT 2026-11-16:** 89 placements
+from Belize's Primary Curriculum: Physical Education —
+Lower Division (Grades 1–3) and Middle Division
+(Grades 4–6) teacher curriculum books (Ministry of
+Education, Belize, 2004, both COMPLETE) stocked — 77 into
+existing lessons and 12 as 4 new lessons (Skipping,
+Galloping and Leaping; Striking with an Implement;
+Punting a Ball; Physical Work and Chores) — bringing this
+course to **141 lessons**. Both books are teacher
+curriculum, filed as teacher-curriculum evidence only,
+outside the acceptance counts, in every lesson they
+touch. The placements filed under NEW strings resolve
+through the slug registry: `moving-basics/skipping`,
+`moving-basics/galloping` and `moving-basics/leaping`
+to `moving-basics/skipping-galloping-and-leaping`,
+`ball-games/striking-with-hands-and-implements` to
+`ball-games/striking-with-an-implement`,
+`ball-games/punting-a-dropped-ball` to
+`ball-games/punting-a-ball`, `ball-games/softball` to
+`ball-games/baseball-and-softball-skills` and
+`moving-basics/swimming` to `moving-basics/swimming-basics`;
+the original strings are recorded in the provenance
+rows. No Belize placement resolves to a Health-course
+lesson, so none was excluded as Health-bound; the books'
+Healthy Lifestyles parts are filed in
+belize-health-placements.md and placed in the Health
+course, and the Middle Division PE glossary (printed
+pp. 64–67) is inventory-only, named in the book lines
+and not placed. Belize's own way is content: in the
+Lower Division PE is taught as three skill families —
+locomotor, manipulative, non-manipulative — spiralled
+across Infant I → Standard I, and in the Middle Division
+PE is organised as Training, Work, Sports and Dance for
+every grade, with "Work" treating sweeping, mopping,
+chopping and washing as real physical training.
+
 ## Unit 1 — Moving Basics
 
 1. **Combined Travelling and On-the-Spot Movements** (`moving-basics/combined-travelling-and-on-the-spot`) — joining travelling movements together, joining on-the-spot movements together, and chaining the two families in one sequence.
@@ -425,6 +461,8 @@ Key Stage 3.
 14. **Controlling My Body** (`moving-basics/controlling-my-body`) — controlling my body: moving body parts independently, controlling and stopping movements, and turning and spinning — taught in El Salvador's Grades 1–3 guide as holding one body segment still while others move (Grade 1), moving left and right sides differently at the same time (Grade 2), and bilateral efficiency with implements and independence of lower limbs from upper limbs (Grade 3) (El Salvador's teacher guide, evidence only).
 15. **Drill, Marching and Formations** (`moving-basics/drill-marching-and-formations`) — drill, marching and formations: falling in, attention and at-ease, turns, marching, and standing in rows, lines and circles — taught in El Salvador's Grades 1–3 guide as ¡Qué fácil organizarnos en grupo! (Grade 1): organising into pairs, trios, rows, columns and circles (El Salvador's teacher guide, evidence only).
 16. **Movement Concepts** (`moving-basics/movement-concepts`) — movement concepts: body, space, effort (time, force and flow) and relationships in movement — taught in the Philippines' Grade 3 book as the movement targets of Ball Rhythmics (time, force and flow named and graded) and in its Grade 2 book as Oras, Lakas at Daloy, read from a 400-metre race story and the sack race (Philippines' student books).
+
+17. **Skipping, Galloping and Leaping** (`moving-basics/skipping-galloping-and-leaping`) — skipping, galloping and leaping: the travelling steps that carry you across the ground — taught in Belize's Lower Division curriculum as skipping (step-hops on alternate feet), galloping (one foot leads, the other brought rapidly up to it) and leaping (a slight jump with a long step forward and a forward lean), spiralled across Grades 1–3 (Belize's teacher curriculum, evidence only).
 
 ## Unit 2 — Fitness and Stretching
 
@@ -445,6 +483,8 @@ Key Stage 3.
 15. **Basic Exercise Positions** (`fitness-and-stretching/basic-exercise-positions`) — basic exercise positions: the standing, sitting, kneeling and lying positions exercises start from, their derived positions, and general developmental exercises — taught in Azerbaijan's Grade 7 book as the general developmental exercises that open the practical course (Azerbaijan's student book).
 16. **Morning Gymnastics** (`fitness-and-stretching/morning-gymnastics`) — morning gymnastics: the morning exercise routine that starts the day — taught in Azerbaijan's Grade 8 book (PARTIAL, contents-level, as filed) and Grade 9 book in the parts the pupil runs alone (Azerbaijan's student books).
 17. **Rest and Recovery** (`fitness-and-stretching/rest-and-recovery`) — rest and recovery: why rest is part of training and how the body recovers — taught in Azerbaijan's Grade 8 book as Rest, closing its individual-exercise part (Azerbaijan's student book, PARTIAL, contents-level, as filed).
+
+18. **Physical Work and Chores** (`fitness-and-stretching/physical-work-and-chores`) — physical work and chores: cleaning and household work as physical activity that keeps you fit — taught in Belize's Middle Division curriculum as Work: sweeping, wiping, mopping, chopping and washing as real physical training, in Grades 4, 5 and 6 (Belize's teacher curriculum, evidence only).
 
 ## Unit 3 — Gymnastics
 
@@ -492,6 +532,9 @@ Key Stage 3.
 19. **Badminton Techniques** (`ball-games/badminton-techniques`) — badminton techniques: grip, serves, clears, drop shots, drives, smashes and rally play — taught in China's Senior High book as badminton (羽毛球): the game, its techniques and how a match is played (China's student book).
 
 20. **Goalkeeping** (`ball-games/goalkeeping`) — goalkeeping: the goalkeeper's positioning, catching, clearing and technique in football and handball — taught in Azerbaijan's Grade 7 book as the goalkeeper's game, inside its football part (Azerbaijan's student book).
+
+21. **Striking with an Implement** (`ball-games/striking-with-an-implement`) — striking with an implement: hitting a ball with hand, bat or racket — the foundation of the striking games — taught in Belize's Lower Division curriculum as striking: underhand strike with the hand (Grade 1) and two-handed side-arm strike with a racket (Grade 3) (Belize's teacher curriculum, evidence only).
+22. **Punting a Ball** (`ball-games/punting-a-ball`) — punting a ball: dropping the ball and striking it with the instep, as a goalkeeper or in open play — taught in Belize's Grade 1 book, named in its unit linkages as the next manipulative skill after striking (Belize's teacher curriculum, evidence only).
 
 ## Unit 6 — Games to Play
 

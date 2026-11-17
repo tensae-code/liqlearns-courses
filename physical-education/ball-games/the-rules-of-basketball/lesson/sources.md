@@ -1,6 +1,6 @@
 # Sources — The Rules of Basketball
 
-countries: Ethiopia, Timor-Leste, Pakistan, Afghanistan, China, Azerbaijan
+countries: Ethiopia, Timor-Leste, Pakistan, Afghanistan, China, Azerbaijan, Belize
 
 **Book — Grade 9 student:** *Health and Physical Education Student's Textbook Grade 9* (student textbook, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, First Published August 2023, ISBN 978-99990-0-072-7, 156 printed pp. Printed page = PDF page − 10. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g09-student-placements.md. COMPLETE.
 **Book — Grade 9 teacher (teacher guide — evidence):** *Health and Physical Education — Teacher Guide, Grade 9* (teacher guide, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, © 2022, printed pp. I–IX + 1–116. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g09-teacher-placements.md. COMPLETE.
@@ -18,7 +18,7 @@ countries: Ethiopia, Timor-Leste, Pakistan, Afghanistan, China, Azerbaijan
 | Teams of twelve, uniforms, and how the game is run (teacher guide — evidence) | Ethiopia, Grade 10 teacher Unit 6, Basketball rules in detail (teacher guide — evidence) (§6.1.1 teams of twelve incl. captain, coach and assistant coach as delegates; §6.1.2 uniform, numbers 0–99; §6.1.4 the captain; §6.1.5 the head coach; §6.1.6 playing regulation; §6.1.7 goal; §6.1.8 throw-in; §6.1.9 time-out; §6.1.10 substitution), printed pp. 70–72 |
 
 | Timor-Leste — Appendix 4: Basketball — the game's rules and mini-games (teacher guide — evidence) (original target `ball-games/the-rules-of-basketball`) | Timor-Leste, *Educação Física 7, Guia do Professor* (Timor-Leste Grade 7 Teacher Guide), printed p. 197 |
-**Acceptance count: taught in 4 countries (Ethiopia, Pakistan, China, Azerbaijan).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Timor-Leste is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count.
+**Acceptance count: taught in 4 countries (Ethiopia, Pakistan, China, Azerbaijan).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Timor-Leste is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count.
 
 The Grade 10 teacher guide is substantively complete (printed pp. I–IX + 1–93): all 8 units, knowledge content and answer keys are present; only §8.3's final step-by-step teaching procedure is cut mid-sentence at printed p. 92. Nothing in this lesson rests on the cut tail. Teacher-guide rows are evidence only and never count as pupil-taught.
 
@@ -164,3 +164,23 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/azerbaijan-p
 Azerbaijan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Azerbaijan's own way is content, as the book lines above record it: a theory-first course — knowing and managing your own body, the movement abilities taught one by one, then the basic sports, then independent work the pupil runs alone, with Azerbaijan's own sport story (its Olympic successes, its Rio 2016 athletes, and holding the first European Games) taught as national content. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: the rules of basketball, basketball court 28 m by 15 m, quarters and overtime, 3 seconds, 5 seconds, free throws, technical foul, scoring 2 points 3 points 1 point, teams of twelve, uniforms 0 to 99, captain, throw-in, time-out, substitution, red perimeter lighting, physical education, Ethiopia
+
+## Belize — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-pe-placements.md. Belize's two books read for this expansion are combined PE + Healthy Lifestyles teacher curriculum books (Ministry of Education, Belize, 2004, read by download from UWI Space); their Healthy Lifestyles parts are filed in belize-health-placements.md and placed in the Health course, and the six HFLE books in the placements file carry no PE course content. Both books are TEACHER curriculum, so Belize is filed as teacher-curriculum evidence only in every lesson it touches — named in the countries lines and provenance rows, but outside the acceptance counts.
+
+**Book — Belize PE Middle Division (teacher curriculum):**
+## Book 2 — PE Middle Division (teacher curriculum, English)
+- Title as printed: Primary Curriculum: Physical education — Middle Division (no separate title page; PDF metadata title "Physical Education Middle Division", author David Leacock; every page headed "AREA OF STUDY: PHYSICAL EDUCATION / HEALTHY LIFESTYLES")
+- Grade: Grades 4–6 — Standard II, Standard III, Standard IV (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Belize (National Primary Curriculum); year 2004 (file creation Sep 2004; UWI Space deposit 2012); ISBN no ISBN printed
+- PDF pages: 211 (first content page verified: Standard II Training; printed page numbers equal PDF page numbers). PE glossary at printed pp. 64–67 is inventory-only (named, not placed) per the brief's glossary rule.
+- Verdict: COMPLETE
+- Tally: 33 placements — 24 to existing lessons, 9 NEW LESSON NEEDED (Health parts filed separately: 58 placements in the Health file)
+- Belize's own way: Middle-division PE is organised as Training, Work, Sports and Dance for every grade — "Work" treats sweeping, mopping, chopping and washing as real physical training, and the Sports block teaches track and field, gymnastics, football, softball and swimming every year, adding volleyball in Standard III and basketball in Standard IV.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Belize — Sports: Basketball — two teams of five, game starts with a centre jump; advancing the ball by dribbling or passing into the front court; shooting including the one-hand set shot; basketball develops self-esteem, sportsmanship and confidence (original target `ball-games/the-rules-of-basketball`) | Belize, *Belize Grade 6 PE Middle, printed pp. 54–57* |
+
+Belize's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Belize's own way is content, as the book lines above record it: in the Lower Division PE is taught as three skill families — locomotor, manipulative, non-manipulative — spiralled across Infant I → Standard I with the same skills revisited at rising difficulty, and in the Middle Division PE is organised as Training, Work, Sports and Dance for every grade, with "Work" treating sweeping, mopping, chopping and washing as real physical training. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

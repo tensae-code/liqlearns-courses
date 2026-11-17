@@ -205,3 +205,11 @@ Recovery** (`fitness-and-stretching/rest-and-recovery`),
 (`ball-games/goalkeeping`) and **Azerbaijan's Sport Story**
 (`sport-and-its-story/azerbaijans-sport-story`)
 — 6 new lessons, bringing this course to 137 lessons.
+
+The PE expansion then added: **Skipping, Galloping and
+Leaping** (`moving-basics/skipping-galloping-and-leaping`),
+**Striking with an Implement**
+(`ball-games/striking-with-an-implement`), **Punting a
+Ball** (`ball-games/punting-a-ball`) and **Physical Work
+and Chores** (`fitness-and-stretching/physical-work-and-chores`)
+— 4 new lessons, bringing this course to 141 lessons.

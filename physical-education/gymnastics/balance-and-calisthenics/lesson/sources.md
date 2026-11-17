@@ -1,6 +1,6 @@
 # Sources — Balance and Calisthenics
 
-countries: Ethiopia, Kazakhstan, Afghanistan, El Salvador, Philippines, Nicaragua, Maldives
+countries: Ethiopia, Kazakhstan, Afghanistan, El Salvador, Philippines, Nicaragua, Maldives, Belize
 
 **Book — Grade 1 student:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 81 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md. COMPLETE.
 
@@ -19,7 +19,7 @@ countries: Ethiopia, Kazakhstan, Afghanistan, El Salvador, Philippines, Nicaragu
 | Free gymnastics and balance — Grade 5 | Ethiopia, Grade 5 student §5.2.1, printed pp. 66–68 |
 
 | Kazakhstan — All quarters — general developing exercises (ОРУ) on the spot and in movement, without objects and with objects, opening the lesson work (teacher guide — evidence) (original target `gymnastics/balance-and-calisthenics`) | Kazakhstan, *Physical Culture, Methodological Guide for Grade 4 Teachers* (Kazakhstan Grade 4 TG), printed pp. 4–5, 20, 48 |
-**Acceptance count: taught in 3 countries (Ethiopia, Philippines, Nicaragua).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 3 countries (Ethiopia, Philippines, Nicaragua).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count.
 
 Student books Grades 1–4 are complete. No page is claimed that the placements do not give. Dance and game rules are taught only as the placements summarise them; no rules have been invented for any game the placements leave game-dependent.
 
@@ -190,3 +190,41 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-pe-
 Maldives's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Maldives's own way is content, as the book lines above record it: one combined Health & PE course per grade built on the national syllabus strands, with swimming and water survival built in from Grade 1 — an island nation's syllabus — the PE side moving from a fitness unit in the early grades through fundamental movement skills, educational gymnastics and timed survival swimming, to movement skills, athletics and the big game families (territorial, net/wall and striking-and-fielding) in Key Stage 3. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: balance and calisthenics, what balance is, calisthenics — arms and shoulders, calisthenics — legs, combined gymnastics movements, physical education, Ethiopia
+
+## Belize — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-pe-placements.md. Belize's two books read for this expansion are combined PE + Healthy Lifestyles teacher curriculum books (Ministry of Education, Belize, 2004, read by download from UWI Space); their Healthy Lifestyles parts are filed in belize-health-placements.md and placed in the Health course, and the six HFLE books in the placements file carry no PE course content. Both books are TEACHER curriculum, so Belize is filed as teacher-curriculum evidence only in every lesson it touches — named in the countries lines and provenance rows, but outside the acceptance counts.
+
+**Book — Belize PE Lower Division (teacher curriculum):**
+## Book 1 — PE Lower Division (teacher curriculum, English)
+- Title as printed: Primary Curriculum: Physical Education — Lower Division (no separate title page; PDF metadata title "Physical Education Lower Division", author David Leacock; every page headed "AREA OF STUDY: PHYSICAL EDUCATION / HEALTHY LIFESTYLES")
+- Grade: Grades 1–3 — Infant I, Infant II, Standard I (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Belize (National Primary Curriculum); year 2004 (file creation Sep 2004; UWI Space deposit 2012); ISBN no ISBN printed
+- PDF pages: 139 (first content page verified: Infant I Locomotor Skills — Walking; printed page numbers equal PDF page numbers)
+- Verdict: COMPLETE
+- Tally: 56 placements — 47 to existing lessons, 9 NEW LESSON NEEDED (Health parts filed separately: 47 placements in the Health file)
+- Belize's own way: PE is taught as three skill families — locomotor, manipulative, non-manipulative — spiralled across Infant I → Standard I with the same skills revisited at rising difficulty, each set given a recommended teaching time in weeks and cross-curricular linkages (Maths, Spanish, Science) printed after each unit.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Belize — Twisting — movement of a designated body part around its axis (original target `gymnastics/balance-and-calisthenics`) | Belize, *Belize Grade 1 PE Lower, printed p. 15* |
+| Belize — Turning — rotation of the whole body, head and feet moving together, standing or sitting (original target `gymnastics/balance-and-calisthenics`) | Belize, *Belize Grade 1 PE Lower, printed p. 16* |
+| Belize — Swaying — slow, controlled rocking movement from a base of support (original target `gymnastics/balance-and-calisthenics`) | Belize, *Belize Grade 1 PE Lower, printed p. 17* |
+| Belize — Swinging — swinging arms and legs suspended from an object (original target `gymnastics/balance-and-calisthenics`) | Belize, *Belize Grade 1 PE Lower, printed p. 18* |
+| Belize — Pulling — forceful action moving an object closer to the body, pulling real objects and a partner (original target `gymnastics/balance-and-calisthenics`) | Belize, *Belize Grade 1 PE Lower, printed p. 19* |
+| Belize — Bending — bending named and linked with twisting/turning in the unit linkages (original target `gymnastics/balance-and-calisthenics`) | Belize, *Belize Grade 1 PE Lower, printed p. 20* |
+| Belize — Pushing — pushing real and imaginary objects in different directions, pushing a partner (original target `gymnastics/balance-and-calisthenics`) | Belize, *Belize Grade 1 PE Lower, printed p. 21* |
+| Belize — Twisting — movement of a body part around its axis, revisited (original target `gymnastics/balance-and-calisthenics`) | Belize, *Belize Grade 2 PE Lower, printed p. 57* |
+| Belize — Turning — whole-body rotation in standing and sitting positions (original target `gymnastics/balance-and-calisthenics`) | Belize, *Belize Grade 2 PE Lower, printed p. 58* |
+| Belize — Swaying — slower, more controlled movement than rocking from a base position (original target `gymnastics/balance-and-calisthenics`) | Belize, *Belize Grade 2 PE Lower, printed p. 59* |
+| Belize — Swinging — swinging confined to arms and legs suspended from playground objects (original target `gymnastics/balance-and-calisthenics`) | Belize, *Belize Grade 2 PE Lower, printed p. 60* |
+| Belize — Pushing — pushing real objects and a partner with the hands, in different directions (original target `gymnastics/balance-and-calisthenics`) | Belize, *Belize Grade 2 PE Lower, printed p. 61* |
+| Belize — Bending — bending named in the Infant II non-manipulative linkages (original target `gymnastics/balance-and-calisthenics`) | Belize, *Belize Grade 2 PE Lower, printed p. 63* |
+| Belize — Twisting — movement of a designated body part around its axis, listening and discussing the movement (original target `gymnastics/balance-and-calisthenics`) | Belize, *Belize Grade 3 PE Lower, printed p. 107* |
+| Belize — Turning — rotation of the entire body in standing and sitting positions, discovering body turning (original target `gymnastics/balance-and-calisthenics`) | Belize, *Belize Grade 3 PE Lower, printed p. 108* |
+| Belize — Rocking — rocking a body part back and forth, with balance skills and confident attitudes (original target `gymnastics/balance-and-calisthenics`) | Belize, *Belize Grade 3 PE Lower, printed p. 109* |
+| Belize — Pushing — forceful action against an object to move the body away from it, pushing against a wall (original target `gymnastics/balance-and-calisthenics`) | Belize, *Belize Grade 3 PE Lower, printed p. 110* |
+| Belize — Pulling — forceful action moving an object closer to the body and the body toward objects (original target `gymnastics/balance-and-calisthenics`) | Belize, *Belize Grade 3 PE Lower, printed p. 111* |
+| Belize — Bending and Swaying — named in the Standard I non-manipulative linkages with twisting, turning and rocking (original target `gymnastics/balance-and-calisthenics`) | Belize, *Belize Grade 3 PE Lower, printed p. 113* |
+
+Belize's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Belize's own way is content, as the book lines above record it: in the Lower Division PE is taught as three skill families — locomotor, manipulative, non-manipulative — spiralled across Infant I → Standard I with the same skills revisited at rising difficulty, and in the Middle Division PE is organised as Training, Work, Sports and Dance for every grade, with "Work" treating sweeping, mopping, chopping and washing as real physical training. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

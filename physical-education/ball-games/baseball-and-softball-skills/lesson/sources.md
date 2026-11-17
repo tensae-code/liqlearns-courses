@@ -1,8 +1,8 @@
 # Sources — Baseball and Softball Skills
 
-countries: Pakistan
+countries: Pakistan, Belize
 
-**Acceptance count: taught in 1 country (Pakistan).** Pakistan is student-book stock (see its rows below), inside the acceptance count.
+**Acceptance count: taught in 1 country (Pakistan).** Pakistan is student-book stock (see its rows below), inside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count.
 
 ## Pakistan — PE expansion 2026-11-16
 
@@ -26,3 +26,25 @@ Pakistan's placements in this lesson were filed under the original strings recor
 This is a canonical NEW lesson (slug-registry Part 1: `ball-games/baseball-and-softball-skills` — Baseball and softball skills: batting, base running, fielding and pitching.); Pakistan's placements were filed under the original strings recorded in the provenance rows above, resolved by registry Part 2 to this canonical slug where the string differs. Pakistan enters this lesson as student-book stock, inside the acceptance count.
 
 Searchable tags: baseball and softball skills, baseball, field measurements, pitching, Pakistan Grade 8 Sehat-o-Jismani Taleem
+
+## Belize — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-pe-placements.md. Belize's two books read for this expansion are combined PE + Healthy Lifestyles teacher curriculum books (Ministry of Education, Belize, 2004, read by download from UWI Space); their Healthy Lifestyles parts are filed in belize-health-placements.md and placed in the Health course, and the six HFLE books in the placements file carry no PE course content. Both books are TEACHER curriculum, so Belize is filed as teacher-curriculum evidence only in every lesson it touches — named in the countries lines and provenance rows, but outside the acceptance counts.
+
+**Book — Belize PE Middle Division (teacher curriculum):**
+## Book 2 — PE Middle Division (teacher curriculum, English)
+- Title as printed: Primary Curriculum: Physical education — Middle Division (no separate title page; PDF metadata title "Physical Education Middle Division", author David Leacock; every page headed "AREA OF STUDY: PHYSICAL EDUCATION / HEALTHY LIFESTYLES")
+- Grade: Grades 4–6 — Standard II, Standard III, Standard IV (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Belize (National Primary Curriculum); year 2004 (file creation Sep 2004; UWI Space deposit 2012); ISBN no ISBN printed
+- PDF pages: 211 (first content page verified: Standard II Training; printed page numbers equal PDF page numbers). PE glossary at printed pp. 64–67 is inventory-only (named, not placed) per the brief's glossary rule.
+- Verdict: COMPLETE
+- Tally: 33 placements — 24 to existing lessons, 9 NEW LESSON NEEDED (Health parts filed separately: 58 placements in the Health file)
+- Belize's own way: Middle-division PE is organised as Training, Work, Sports and Dance for every grade — "Work" treats sweeping, mopping, chopping and washing as real physical training, and the Sports block teaches track and field, gymnastics, football, softball and swimming every year, adding volleyball in Standard III and basketball in Standard IV.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Belize — Sports: Softball — two teams taking turns at bat and in the field, fielding positions (basemen, short stop, outfielders), batting with a firm grip and full follow-through (original target `ball-games/softball`) | Belize, *Belize Grade 4 PE Middle, printed pp. 11–13* |
+| Belize — Sports: Softball — offensive and defensive teams, fielding positions, batting technique and follow-through (original target `ball-games/softball`) | Belize, *Belize Grade 5 PE Middle, printed pp. 29–31* |
+| Belize — Sports: Softball — two teams of nine, scoring more runs than the opponents; softball promotes fitness, manipulative and locomotor skills, concentration and confidence (original target `ball-games/softball`) | Belize, *Belize Grade 6 PE Middle, printed pp. 49–50* |
+
+Belize's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Belize's own way is content, as the book lines above record it: in the Lower Division PE is taught as three skill families — locomotor, manipulative, non-manipulative — spiralled across Infant I → Standard I with the same skills revisited at rising difficulty, and in the Middle Division PE is organised as Training, Work, Sports and Dance for every grade, with "Work" treating sweeping, mopping, chopping and washing as real physical training. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

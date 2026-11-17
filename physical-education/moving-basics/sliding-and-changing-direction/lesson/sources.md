@@ -1,6 +1,6 @@
 # Sources — Sliding and Changing Direction
 
-countries: Ethiopia, Thailand, Philippines, Nicaragua
+countries: Ethiopia, Thailand, Philippines, Nicaragua, Belize
 
 **Book — Grade 1 student:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 81 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md. COMPLETE.
 
@@ -23,7 +23,7 @@ countries: Ethiopia, Thailand, Philippines, Nicaragua
 | Change direction, roll to the target, obstacle walking (teacher guide — evidence) | Ethiopia, Grade 3 teacher §1.1 Tasks 1–3 (teacher guide — evidence), printed pp. 2–5 |
 | Thailand — Unit 7 (part 3) Step-close step — the ก้าวชิดก้าว (step-together-step) side movement and its posture (student book — MAC sample, PARTIAL) (original target `moving-basics/sliding-and-changing-direction`) | Thailand, *Health & PE, Grade 2* (Thailand Grade 2 MAC Health & PE), Unit 7 (part 3), printed pp. 128–130 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Thailand, Philippines).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 3 countries (Ethiopia, Thailand, Philippines).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count.
 
 The Grade 3 teacher guide scan is TRUNCATED: it holds printed pp. 1–52 of 89+. Missing: §4.1 (p. 53), §4.2 (p. 57), §4.3 (p. 62), §4.4 (p. 65), all of Chapter 5 Gymnastics (pp. 69–84) and all of Chapter 6 (pp. 85–89+). Chapter 4 is present as its introduction page (printed p. 52) only. Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
 
@@ -86,3 +86,24 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/nicaragua-pe
 Nicaragua's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Nicaragua's own way is content, as the book lines above record it: PE taught in 45-minute periods twice weekly, every exercise and game introduced by its practical use in daily life, values, hygiene checks and the one-minute "fisminuto" movement break built into the method, chess taught as a PE unit with a cut-out board and pieces the class makes itself, and traditional and pre-sport games played with improvised local materials (rag-ball baseball, street football). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: sliding and changing direction, sliding sideways, changing direction on shapes, changing direction at speed, combined, turning at the cones (teacher guide — evidence), combined fundamental movement skill የተቀናጀ መሠረታዊ የእንቅስቃሴ ክህሎት, changing direction አቅጣጫን በመቀየር ጠብ ጠብ ማለት, roll to the target ግልቢያ, obstacle walking በመስናክል መራመድ, wheelchair inclusion, physical education, Ethiopia
+
+## Belize — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-pe-placements.md. Belize's two books read for this expansion are combined PE + Healthy Lifestyles teacher curriculum books (Ministry of Education, Belize, 2004, read by download from UWI Space); their Healthy Lifestyles parts are filed in belize-health-placements.md and placed in the Health course, and the six HFLE books in the placements file carry no PE course content. Both books are TEACHER curriculum, so Belize is filed as teacher-curriculum evidence only in every lesson it touches — named in the countries lines and provenance rows, but outside the acceptance counts.
+
+**Book — Belize PE Lower Division (teacher curriculum):**
+## Book 1 — PE Lower Division (teacher curriculum, English)
+- Title as printed: Primary Curriculum: Physical Education — Lower Division (no separate title page; PDF metadata title "Physical Education Lower Division", author David Leacock; every page headed "AREA OF STUDY: PHYSICAL EDUCATION / HEALTHY LIFESTYLES")
+- Grade: Grades 1–3 — Infant I, Infant II, Standard I (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Belize (National Primary Curriculum); year 2004 (file creation Sep 2004; UWI Space deposit 2012); ISBN no ISBN printed
+- PDF pages: 139 (first content page verified: Infant I Locomotor Skills — Walking; printed page numbers equal PDF page numbers)
+- Verdict: COMPLETE
+- Tally: 56 placements — 47 to existing lessons, 9 NEW LESSON NEEDED (Health parts filed separately: 47 placements in the Health file)
+- Belize's own way: PE is taught as three skill families — locomotor, manipulative, non-manipulative — spiralled across Infant I → Standard I with the same skills revisited at rising difficulty, each set given a recommended teaching time in weeks and cross-curricular linkages (Maths, Spanish, Science) printed after each unit.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Belize — Sliding — sideways sliding movement and galloping linkages (original target `moving-basics/sliding-and-changing-direction`) | Belize, *Belize Grade 1 PE Lower, printed p. 8* |
+| Belize — Sliding — one-count sideways movement with a lead foot, combined patterns (original target `moving-basics/sliding-and-changing-direction`) | Belize, *Belize Grade 3 PE Lower, printed p. 95* |
+
+Belize's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Belize's own way is content, as the book lines above record it: in the Lower Division PE is taught as three skill families — locomotor, manipulative, non-manipulative — spiralled across Infant I → Standard I with the same skills revisited at rising difficulty, and in the Middle Division PE is organised as Training, Work, Sports and Dance for every grade, with "Work" treating sweeping, mopping, chopping and washing as real physical training. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

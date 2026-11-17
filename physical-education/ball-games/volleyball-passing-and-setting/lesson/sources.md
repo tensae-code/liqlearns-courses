@@ -1,6 +1,6 @@
 # Sources — Volleyball Passing and Setting
 
-countries: Ethiopia, Afghanistan, China, Nicaragua
+countries: Ethiopia, Afghanistan, China, Nicaragua, Belize
 
 **Book — Grade 5 student:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 106 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md. COMPLETE.
 
@@ -27,7 +27,7 @@ countries: Ethiopia, Afghanistan, China, Nicaragua
 | The spike — Grade 9 | Ethiopia, Grade 9 teacher Unit 5 spike (teacher guide — evidence), printed pp. 65–72 |
 | Blocking — Grade 10 | Ethiopia, Grade 10 student §5.2 Blocking skills + §5.1 rules, printed pp. 86–98 |
 | Blocking — Grade 10 | Ethiopia, Grade 10 teacher Unit 5 blocking and rules (teacher guide — evidence), printed pp. 60–69 |
-**Acceptance count: taught in 2 countries (Ethiopia, China).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 2 countries (Ethiopia, China).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count.
 
 The Grade 5 and Grade 6 teacher guides' ball-games chapters are in the truncated missing ranges of those scans (G5T Chapter 6, pp. 57–77; G6T Chapter 6, pp. 65–82), so this lesson rests on the complete student books only; no teacher-guide pages are claimed for it.
 
@@ -100,3 +100,24 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/nicaragua-pe
 Nicaragua's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Nicaragua's own way is content, as the book lines above record it: PE taught in 45-minute periods twice weekly, every exercise and game introduced by its practical use in daily life, values, hygiene checks and the one-minute "fisminuto" movement break built into the method, chess taught as a PE unit with a cut-out board and pieces the class makes itself, and traditional and pre-sport games played with improvised local materials (rag-ball baseball, street football). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: volleyball passing and setting, the forearm pass, the finger pass, setting the ball for a team-mate, underarm serve and forearm receive, side underarm serve and receiving stance, physical education, Ethiopia
+
+## Belize — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-pe-placements.md. Belize's two books read for this expansion are combined PE + Healthy Lifestyles teacher curriculum books (Ministry of Education, Belize, 2004, read by download from UWI Space); their Healthy Lifestyles parts are filed in belize-health-placements.md and placed in the Health course, and the six HFLE books in the placements file carry no PE course content. Both books are TEACHER curriculum, so Belize is filed as teacher-curriculum evidence only in every lesson it touches — named in the countries lines and provenance rows, but outside the acceptance counts.
+
+**Book — Belize PE Middle Division (teacher curriculum):**
+## Book 2 — PE Middle Division (teacher curriculum, English)
+- Title as printed: Primary Curriculum: Physical education — Middle Division (no separate title page; PDF metadata title "Physical Education Middle Division", author David Leacock; every page headed "AREA OF STUDY: PHYSICAL EDUCATION / HEALTHY LIFESTYLES")
+- Grade: Grades 4–6 — Standard II, Standard III, Standard IV (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Belize (National Primary Curriculum); year 2004 (file creation Sep 2004; UWI Space deposit 2012); ISBN no ISBN printed
+- PDF pages: 211 (first content page verified: Standard II Training; printed page numbers equal PDF page numbers). PE glossary at printed pp. 64–67 is inventory-only (named, not placed) per the brief's glossary rule.
+- Verdict: COMPLETE
+- Tally: 33 placements — 24 to existing lessons, 9 NEW LESSON NEEDED (Health parts filed separately: 58 placements in the Health file)
+- Belize's own way: Middle-division PE is organised as Training, Work, Sports and Dance for every grade — "Work" treats sweeping, mopping, chopping and washing as real physical training, and the Sports block teaches track and field, gymnastics, football, softball and swimming every year, adding volleyball in Standard III and basketball in Standard IV.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Belize — Sports: Volleyball — batting the ball back and forth over a high net, leaping to spike; volleyball builds muscles, teamwork, sportsmanship, concentration and reflexes; volleying technique (original target `ball-games/volleyball-passing-and-setting`) | Belize, *Belize Grade 5 PE Middle, printed pp. 32–33* |
+| Belize — Sports: Volleyball — batting the ball over a high net and spiking; rules: no player may hit the ball twice in a row, crossing the centre line or touching the net is a foul; volleying (original target `ball-games/volleyball-passing-and-setting`) | Belize, *Belize Grade 6 PE Middle, printed pp. 51–52* |
+
+Belize's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Belize's own way is content, as the book lines above record it: in the Lower Division PE is taught as three skill families — locomotor, manipulative, non-manipulative — spiralled across Infant I → Standard I with the same skills revisited at rising difficulty, and in the Middle Division PE is organised as Training, Work, Sports and Dance for every grade, with "Work" treating sweeping, mopping, chopping and washing as real physical training. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
