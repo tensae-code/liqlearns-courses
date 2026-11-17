@@ -1,6 +1,6 @@
 # Sources — Size and Location Dimensions — the Theory
 
-countries: Belarus, Ethiopia, Iran, Malta, Moldova
+countries: Belarus, Ethiopia, Iran, Malta, Moldova, Sri Lanka
 
 **Book 1:** *Basic Technical Drawing, Teacher Guide, Grade 12* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, in collaboration with Kuraz International Publisher P.L.C., Addis Ababa. Prepared by: Amanuel Berhanu (BSc), Tolossa Deberie (MSc). Edited and reviewed by: Abebe Basazeneu, Natenael Abebe, Yared Mekuria. First edition, 2003 (E.C.), funded through the General Education Quality Improvement Project (GEQIP). Developed, printed and distributed by Al Ghurair Printing and Publishing House CO. (LLC), Dubai, U.A.E., in collaboration with Kuraz International Publisher. ISBN: 978-99944-2-097-2. 109 PDF pages; printed page = PDF page - 4 throughout. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/technical-drawing/g12-teacher-placements.md.
 
@@ -12,6 +12,8 @@ countries: Belarus, Ethiopia, Iran, Malta, Moldova
 
 **Book 5:** *Work and Technology, Grade 7 (کار و فناوری, book code 717)* (student book) — Iran, Publisher: سازمان پژوهش و برنامه‌ریزی آموزشی, وزارت آموزش و پرورش | Year: 1405-1406 school year | Grade: 7 | Language: Persian | Pages: 192 (180 printed pages) | Source: GitHub release asset, mid-size-books-6 `grade-07-gov-iran-work-and-technology-student-full-year.pdf`, 11,619,626 bytes, cover verified (کار و فناوری, پایه هفتم) — tree route 404'd; the file lives only as a release asset | Kind: student | COMPLETE (read page by page) Placements at liqlearns-courses-work/expansion-td-2026-11-17/iran-placements.md.
 
+**Book 6:** Full title: Grade 12 Engineering Technology Part VI — Engineering Drawing, GCE A/L Technology stream. Publisher: Educational Publications Department (EPD), Sri Lanka. Year/edition: 2016 edition (foreword dated 2016.06.25; back cover print code 2016, Rs 185). Grade: 12 (A/L). Language: Tamil (scanned-image PDF, Noolaham Foundation digitization, no text layer). Pages: 116 PDF pages (printed pp. 1–108 + front matter i–viii). Kind: student textbook. Source: repo release asset `mid-size-books-5/grade-12-gov-sri-lanka-engineering-technology-textbook-part-6-engineering-drawing.pdf` via grab.py url route (tree route 404s — release-only); 20,316,676 bytes, matching the asset index and the staging books.json record (Noolaham no. 88098). Cover verified visually ("Engineering Drawing", gears/bearings over a blueprint). Read method: full contents page, every chapter opening, and teaching pages sampled across all chapters (printed pp. 1, 2, 3, 14, 25, 37, 53, 81, 88 + back cover) — placement-complete for this diagram-led book. COMPLETE. Read method note (as filed): this Sri Lanka Tamil-medium book is a scanned-image PDF with no text layer (Noolaham Foundation digitization); it was read by a VISUAL-READ method — rendered pages read as images — not by text extraction. Placements at liqlearns-courses-work/expansion-td-2026-11-17/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Size dimensions (teacher guide — evidence) | Ethiopia, *Basic Technical Drawing, Teacher Guide, Grade 12*, Unit 4, Lesson 4.2, printed pp. 59–62 |
@@ -21,8 +23,9 @@ countries: Belarus, Ethiopia, Iran, Malta, Moldova
 | Scale: drawing an object larger or smaller than life while the dimension figure always states the object's true size | Belarus, *Чарчэнне (Technical Drawing / Drafting) — Grade 9*, printed p. 31 |
 | Drawing scale (enlargement 2:1, 4:1; reduction 1:2, 1:4; natural size 1:1) and the rule that all dimensions on a technical drawing are in millimetres, with “mm” not written beside the figure | Moldova, *Educația tehnologică — Manual pentru clasele a 5-a – a 6-a (Grade 5 half)*, printed p. 14 |
 | Module 8's dimensioning (اندازه‌گذاری) of a drawn part and drawing to scale, incl. enlarging scales 2:1, 5:1, 10:1 and the woodwork project drawn at 1:2 and dimensioned (original string `technical-drawing/size-and-location-dimensions`) | Iran, *Work & Technology, Grade 7*, printed p. 100-102 |
+| dimensioning the orthographic views of objects so size and position are fully stated (original string `technical-drawing/size-and-location-dimensions`) | Sri Lanka, *Grade 12 Engineering Technology Part VI — Engineering Drawing*, printed p. 53 |
 
-**Acceptance count: taught in 4 countries (Belarus, Iran, Malta, Moldova) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+**Acceptance count: taught in 5 countries (Belarus, Iran, Malta, Moldova, Sri Lanka) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
 
 Era note: this guide is an older GEQIP-generation book (first edition, 2003 E.C., about 2010/11) — an earlier curriculum generation than Ethiopia's newer books. This lesson presents it as exactly that: the guide's testimony about that era's Grade 12 Technical Drawing course. It is never presented as the current syllabus, and nothing here has been checked against a current syllabus. No pupil (student) book for Technical Drawing has been read — no student book exists in hand — so this lesson stands on teacher-guide evidence only.
 
@@ -36,4 +39,6 @@ Moldova's own way: Moldova teaches scale inside the Grade 5 drawing pages — en
 
 Iran's own way: Iran teaches dimensioning (اندازه‌گذاری) of a drawn part together with drawing to scale in Grade 7 — enlarging scales 2:1, 5:1, 10:1 included — and applies it in the woodwork project drawn at 1:2 and dimensioned.
 
-Searchable tags: size dimension, location dimension, scale, true size, complete set of instructions, Ethiopia Grade 12 Technical Drawing Unit 4, Moldova, Grades 5–6, millimetres, enlargement, reduction, Iran, Grade 7, Persian
+Sri Lanka's own way: Sri Lanka adds its Tamil-medium Technology stream teaching (Educational Publications Department; visual-read method, as filed in the book entries above) — dimensioning the orthographic views of objects so size and position are fully stated.
+
+Searchable tags: size dimension, location dimension, scale, true size, complete set of instructions, Ethiopia Grade 12 Technical Drawing Unit 4, Moldova, Grades 5–6, millimetres, enlargement, reduction, Iran, Grade 7, Persian, Sri Lanka

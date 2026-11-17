@@ -1,6 +1,6 @@
 # Sources — Surface Development — Flat Sheets That Become Things
 
-countries: Belarus, Ethiopia, Malta, Moldova
+countries: Belarus, Ethiopia, Malta, Moldova, Sri Lanka
 
 **Book 1:** *Basic Technical Drawing, Teacher Guide, Grade 12* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, in collaboration with Kuraz International Publisher P.L.C., Addis Ababa. Prepared by: Amanuel Berhanu (BSc), Tolossa Deberie (MSc). Edited and reviewed by: Abebe Basazeneu, Natenael Abebe, Yared Mekuria. First edition, 2003 (E.C.), funded through the General Education Quality Improvement Project (GEQIP). Developed, printed and distributed by Al Ghurair Printing and Publishing House CO. (LLC), Dubai, U.A.E., in collaboration with Kuraz International Publisher. ISBN: 978-99944-2-097-2. 109 PDF pages; printed page = PDF page - 4 throughout. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/technical-drawing/g12-teacher-placements.md.
 
@@ -12,6 +12,8 @@ countries: Belarus, Ethiopia, Malta, Moldova
 
 **Book 5:** *Educația tehnologică — Manual pentru clasele a 5-a – a 6-a (Technological Education — Textbook for Grades 5–6)* (student textbook) — Moldova, Authors: Angela Eșanu, Ion Șaragov, Nicolae Onofreiciuc, Ana Simac. Publisher: Editura ARC; Ministry of Education of the Republic of Moldova; edition approved for reprinting by Order no. 357 of 20 May 2011, 2017 reprint (PDF produced May 2017). Grade: Grades 5–6 combined volume — the library record names it "Manual pentru clasa a VI-a"; the file itself is the combined Grades 5–6 manual (cover: "Manual pentru clasele a 5-a – a 6-a"), so both grades' halves are placed here under this one record. Language: Romanian. Pages: 208 (PDF; printed p. = PDF p.), verified byte size 50,000,056 = record size (record also states 208 pages). Source + route: tensae-code/liqlearns-textbooks, release asset in mid-size-books-8 via grab.py url route after the tree route 404'd — grade-06/gov/moldova/technological-education/student/moldova-g06-technological-education.pdf. Kind: student textbook. Read: COMPLETE (both grades' wood modules read in full; every other module's sections read at their teaching pages). Placements at liqlearns-courses-work/expansion-td-2026-11-17/moldova-placements.md.
 
+**Book 6:** Full title: Grade 12 Engineering Technology Part VI — Engineering Drawing, GCE A/L Technology stream. Publisher: Educational Publications Department (EPD), Sri Lanka. Year/edition: 2016 edition (foreword dated 2016.06.25; back cover print code 2016, Rs 185). Grade: 12 (A/L). Language: Tamil (scanned-image PDF, Noolaham Foundation digitization, no text layer). Pages: 116 PDF pages (printed pp. 1–108 + front matter i–viii). Kind: student textbook. Source: repo release asset `mid-size-books-5/grade-12-gov-sri-lanka-engineering-technology-textbook-part-6-engineering-drawing.pdf` via grab.py url route (tree route 404s — release-only); 20,316,676 bytes, matching the asset index and the staging books.json record (Noolaham no. 88098). Cover verified visually ("Engineering Drawing", gears/bearings over a blueprint). Read method: full contents page, every chapter opening, and teaching pages sampled across all chapters (printed pp. 1, 2, 3, 14, 25, 37, 53, 81, 88 + back cover) — placement-complete for this diagram-led book. COMPLETE. Read method note (as filed): this Sri Lanka Tamil-medium book is a scanned-image PDF with no text layer (Noolaham Foundation digitization); it was read by a VISUAL-READ method — rendered pages read as images — not by text extraction. Placements at liqlearns-courses-work/expansion-td-2026-11-17/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What a development is (teacher guide — evidence) | Ethiopia, *Basic Technical Drawing, Teacher Guide, Grade 12*, Unit 5, Lesson '6.1', printed pp. 84–87 |
@@ -22,8 +24,9 @@ countries: Belarus, Ethiopia, Malta, Moldova
 | Nets of prisms — triangular, square, hexagonal and octagonal: naming the 3-D solid and labelling the 2-D net, the folding line and the flap | Malta, *Design and Technology — Graphical Communication Component — Workbook 2 ("Communicate Graphically")*, printed p. 18 |
 | Constructing drawings of developments (разгорткі): unfolding a solid's surface into the flat pattern | Belarus, *Чарчэнне (Technical Drawing / Drafting) — Grade 9*, printed p. 120 |
 | The two-dot line on a drawing marks where the flat development (desfășurata) of a piece is folded | Moldova, *Educația tehnologică — Manual pentru clasele a 5-a – a 6-a (Grade 5 half)*, printed p. 14 |
+| development drawings named as one of the standard drawing kinds in the mechanical-drawing survey (original string `technical-drawing/surface-development-flat-sheets-that-become-things`) | Sri Lanka, *Grade 12 Engineering Technology Part VI — Engineering Drawing*, printed p. 2 |
 
-**Acceptance count: taught in 3 countries (Belarus, Malta, Moldova) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+**Acceptance count: taught in 4 countries (Belarus, Malta, Moldova, Sri Lanka) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
 
 Era note: this guide is an older GEQIP-generation book (first edition, 2003 E.C., about 2010/11) — an earlier curriculum generation than Ethiopia's newer books. This lesson presents it as exactly that: the guide's testimony about that era's Grade 12 Technical Drawing course. It is never presented as the current syllabus, and nothing here has been checked against a current syllabus. No pupil (student) book for Technical Drawing has been read — no student book exists in hand — so this lesson stands on teacher-guide evidence only.
 
@@ -35,4 +38,6 @@ Belarus's own way: Belarus teaches developments (разгорткі) as a constr
 
 Moldova's own way: Moldova meets the development inside its Grade 5 line-types table — the two-dot line is the fold line of a development (desfășurata) — so the flat pattern is introduced through the drawing's own line language.
 
-Searchable tags: surface development, sheet metal, hem, joint, seam, prism, cylinder, cone, pyramid, Ethiopia Grade 12 Technical Drawing Unit 5, Moldova, Grades 5–6, desfășurata, two-dot line
+Sri Lanka's own way: Sri Lanka adds its Tamil-medium Technology stream teaching (Educational Publications Department; visual-read method, as filed in the book entries above) — development drawings named as one of the standard drawing kinds in the mechanical-drawing survey.
+
+Searchable tags: surface development, sheet metal, hem, joint, seam, prism, cylinder, cone, pyramid, Ethiopia Grade 12 Technical Drawing Unit 5, Moldova, Grades 5–6, desfășurata, two-dot line, Sri Lanka

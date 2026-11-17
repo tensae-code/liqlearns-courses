@@ -1,6 +1,6 @@
 # Sources — Line types on drawings
 
-countries: Belarus, Malta, Moldova
+countries: Belarus, Malta, Moldova, Sri Lanka
 
 **Book 1:** *Design and Technology — Graphical Communication Component — Workbook 1 ("Communicate Graphically")* (workbook) — Malta, Directorate for Quality and Standards in Education, Curriculum Management Department, Malta, 2015; designed by Michael Mallia (Education Officer, Graphical Communication). Grade: Year 7. Language: English. Pages: 20 PDF pp.; printed pagination pp. 2–16 + self-check page; verified byte size 3,109,455 = record size. Kind: workbook (graded exercise workbook; each section is taught through worked examples to copy and graded practice — the exercises are the teaching items; the closing "I can" self-assessment page is assessment-only and is not placed). Source + route: tensae-code/liqlearns-textbooks, tree route via grab.py — grade-07/gov/malta/design-and-technology/workbook/graphical-communication-workbook-1-year-7.pdf. Read: COMPLETE. Placements at liqlearns-courses-work/expansion-td-2026-11-17/malta-placements.md.
 
@@ -8,13 +8,16 @@ countries: Belarus, Malta, Moldova
 
 **Book 3:** *Educația tehnologică — Manual pentru clasele a 5-a – a 6-a (Technological Education — Textbook for Grades 5–6)* (student textbook) — Moldova, Authors: Angela Eșanu, Ion Șaragov, Nicolae Onofreiciuc, Ana Simac. Publisher: Editura ARC; Ministry of Education of the Republic of Moldova; edition approved for reprinting by Order no. 357 of 20 May 2011, 2017 reprint (PDF produced May 2017). Grade: Grades 5–6 combined volume — the library record names it "Manual pentru clasa a VI-a"; the file itself is the combined Grades 5–6 manual (cover: "Manual pentru clasele a 5-a – a 6-a"), so both grades' halves are placed here under this one record. Language: Romanian. Pages: 208 (PDF; printed p. = PDF p.), verified byte size 50,000,056 = record size (record also states 208 pages). Source + route: tensae-code/liqlearns-textbooks, release asset in mid-size-books-8 via grab.py url route after the tree route 404'd — grade-06/gov/moldova/technological-education/student/moldova-g06-technological-education.pdf. Kind: student textbook. Read: COMPLETE (both grades' wood modules read in full; every other module's sections read at their teaching pages). Placements at liqlearns-courses-work/expansion-td-2026-11-17/moldova-placements.md.
 
+**Book 4:** Full title: Grade 12 Engineering Technology Part VI — Engineering Drawing, GCE A/L Technology stream. Publisher: Educational Publications Department (EPD), Sri Lanka. Year/edition: 2016 edition (foreword dated 2016.06.25; back cover print code 2016, Rs 185). Grade: 12 (A/L). Language: Tamil (scanned-image PDF, Noolaham Foundation digitization, no text layer). Pages: 116 PDF pages (printed pp. 1–108 + front matter i–viii). Kind: student textbook. Source: repo release asset `mid-size-books-5/grade-12-gov-sri-lanka-engineering-technology-textbook-part-6-engineering-drawing.pdf` via grab.py url route (tree route 404s — release-only); 20,316,676 bytes, matching the asset index and the staging books.json record (Noolaham no. 88098). Cover verified visually ("Engineering Drawing", gears/bearings over a blueprint). Read method: full contents page, every chapter opening, and teaching pages sampled across all chapters (printed pp. 1, 2, 3, 14, 25, 37, 53, 81, 88 + back cover) — placement-complete for this diagram-led book. COMPLETE. Read method note (as filed): this Sri Lanka Tamil-medium book is a scanned-image PDF with no text layer (Noolaham Foundation digitization); it was read by a VISUAL-READ method — rendered pages read as images — not by text extraction. Placements at liqlearns-courses-work/expansion-td-2026-11-17/sri-lanka-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The line types and what each is for, copied and used: construction line (faint), outline (black), centre line, fold line (original string `types of lines in technical drawing`) | Malta, *Design and Technology — Graphical Communication Component — Workbook 1 ("Communicate Graphically")*, printed p. 4 |
 | The lines used on technical drawings — visible outline, hidden, centre, dimension and the rest — what each looks like and what each is for (original string `line types used on drawings`) | Belarus, *Чарчэнне (Technical Drawing / Drafting) — Grade 9*, printed p. 24 |
 | The line table: thick continuous = the object's contour; thin continuous = auxiliary/dimension line; dashed = invisible parts (holes); dash-dot = symmetry/centre line; two-dot = the fold line of a development (original string `types of lines in technical drawing`) | Moldova, *Educația tehnologică — Manual pentru clasele a 5-a – a 6-a (Grade 5 half)*, printed p. 14 |
+| Standard line types and what each line means on a drawing (original string `standard line types and what each line means on a drawing`) | Sri Lanka, *Grade 12 Engineering Technology Part VI — Engineering Drawing*, printed p. 25 |
 
-**Acceptance count: taught in 3 countries (Belarus, Malta, Moldova).**
+**Acceptance count: taught in 4 countries (Belarus, Malta, Moldova, Sri Lanka).**
 
 Malta's own way: Malta teaches technical drawing as the Graphical Communication component of its Design and Technology subject, through graded workbooks — each skill is shown in a worked example to copy, then practised in graded exercises on grids and in the spaces provided, and closed with an "I can" self-check page (assessment-only, not placed). That copy-then-practise workbook way is carried in this lesson exactly as the book teaches it.
 
@@ -22,4 +25,6 @@ Belarus's own way: Belarus teaches the full standard set of line types — visib
 
 Moldova's own way: Moldova teaches the line types as one table inside the Grade 5 wood module — thick continuous for the object's contour, thin continuous for auxiliary and dimension lines, dashed for invisible parts such as holes, dash-dot for symmetry and centre lines, and the two-dot line for the fold line of a development.
 
-Searchable tags: line types, construction line, outline, centre line, fold line, Malta, Year 7, Graphical Communication, Moldova, Grades 5–6, line table, dash-dot, two-dot line
+Sri Lanka's own way: Sri Lanka adds its Tamil-medium Technology stream teaching (Educational Publications Department; visual-read method, as filed in the book entries above) — standard line types and what each line means on a drawing.
+
+Searchable tags: line types, construction line, outline, centre line, fold line, Malta, Year 7, Graphical Communication, Moldova, Grades 5–6, line table, dash-dot, two-dot line, Sri Lanka

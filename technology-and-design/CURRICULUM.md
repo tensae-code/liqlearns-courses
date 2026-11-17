@@ -1432,3 +1432,70 @@ patent, company, production, market.
 
 Placements at
 liqlearns-courses-work/expansion-td-2026-11-17/iran-placements.md.
+
+## Sri Lanka, Technology stream — Tamil medium (T&D expansion, stocked 2026-11-17)
+
+Stocked from Sri Lanka's Tamil-medium Technology stream textbooks,
+Educational Publications Department (EPD), Sri Lanka: *Grade 12
+Engineering Technology Part VI — Engineering Drawing* (2016 edition),
+*Grade 12 Engineering Technology Part V — Land Surveying*,
+*Grade 12 Bio-Systems Technology Part II* (2015 edition), *Grade 10
+Design and Mechanical Technology* (2014 edition), *Grade 11 Design
+and Technology* (2007 edition), *Grade 10 Fisheries and Food
+Technology* (2006 edition), and the technology parts of *Grade 12
+Science for Technology — Chemistry Part II* (2017 edition). All 84
+placements stocked: 72 NEW LESSON NEEDED resolved through the T&D
+slug registry — 67 lessons built new (70 canonical lessons carrying
+Sri Lanka provenance rows; Scales in drawing and Power transmission
+systems carry 2 rows each) — and 12 placed directly into founding
+Technical Drawing lessons. Sri Lanka counts in the acceptance count
+(student textbooks, not evidence-only).
+
+COUNTRY HONESTY ITEM, carried exactly as filed: the Sri Lanka
+Tamil-medium set was read by a VISUAL-READ method — the books are
+scanned-image PDFs with no text layer (Noolaham Foundation
+digitization), and the reads were of rendered pages as images, not
+text extraction. Every sources.md book entry for these books carries
+that method note as filed; no visual read is presented as a text read.
+
+RECORD-ONLY in the placements file, not stocked: *Science for
+Technology — Physics Parts I and II* and *Mathematics Part I* (pure
+Science/Maths territory), *Science for Technology — ICT* (pure ICT
+territory), the pure-science parts of *Chemistry Part II*, and the
+pure fisheries units of *Fisheries and Food Technology*.
+
+- **Technical Drawing** (14 new lessons, 13 questions each): What engineering drawing is — and the standard behind it (what-engineering-drawing-is-and-the-standard-behind-it/); The branches of engineering drawing (the-branches-of-engineering-drawing/); Kinds of mechanical drawing (kinds-of-mechanical-drawing/); Drawing papers and ISO sheet sizes A0–A6 (sizes table, gsm weights, A0 sheet as the base size) (drawing-papers-and-iso-sheet-sizes-a0a6-sizes-table-gsm-weights/); Drawing pencils and their grades for drawing work (drawing-pencils-and-their-grades-for-drawing-work/); The drawing board and its accessories (the-drawing-board-and-its-accessories/); Drawing standards (SLS/ISO practice) as the rules every engineering drawing follows (drawing-standards-sls-iso-practice-as-the-rules-every/); Scales in drawing (scales-in-drawing/); Perspective drawing (perspective-drawing/); Production drawings (production-drawings/); Drawing with the computer (CAD) (drawing-with-the-computer/); Drawing contour lines from a level survey, and the errors that arise in levelling (drawing-contour-lines-from-a-level-survey-and-the-errors-that/); The drawing a maker works from (the-drawing-a-maker-works-from/); The basic forms behind technical drawing (the-basic-forms-behind-technical-drawing/).
+- **Construction and Building** (11 new lessons, 13 questions each): What land surveying is and its history (what-land-surveying-is-and-its-history/); Maps and surveyed plans (maps-and-surveyed-plans/); Position on a survey (position-on-a-survey/); Modern position-fixing (modern-position-fixing/); Classification of surveys (classification-of-surveys/); Principles of surveying (principles-of-surveying/); Linear measurement in surveying (linear-measurement-in-surveying/); Angular measurement in surveying (angular-measurement-in-surveying/); Chain surveying (chain-surveying/); Levelling (levelling/); Theodolite surveying (theodolite-surveying/).
+- **Agriculture Technology** (8 new lessons, 13 questions each): Introduction to Bio-Systems Technology (introduction-to-bio-systems-technology/); Where bio-systems engineering science is applied (where-bio-systems-engineering-science-is-applied/); Future directions of Bio-Systems Technology as a field (future-directions-of-bio-systems-technology-as-a-field/); Pest management decisions (pest-management-decisions/); Managing insect pests and non-insect animal pests (managing-insect-pests-and-non-insect-animal-pests/); Plant disease management (plant-disease-management/); Weed management (weed-management/); Mechanical equipment used in pest management (spraying/application machinery) (mechanical-equipment-used-in-pest-management-spraying/).
+- **Food Technology** (10 new lessons, 13 questions each): Food technology and food preservation named as a core application of bio-systems technology (food-technology-and-food-preservation-named-as-a-core/); Food engineering (food-engineering/); Food packaging (food-packaging/); Designing a food package (designing-a-food-package/); Formulating a new food product (formulating-a-new-food-product/); Sensory evaluation of food (sensory-evaluation-of-food/); Shelf life of food (shelf-life-of-food/); Choosing aquatic resources suitable for food (choosing-aquatic-resources-suitable-for-food/); Handling fish hygienically after capture (handling-fish-hygienically-after-capture/); Telling fresh fish from spoiled fish (telling-fresh-fish-from-spoiled-fish/).
+- **Metal** (2 new lessons, 13 questions each): Making products from metal (making-products-from-metal/); Casting (casting/).
+- **Mechanisms and Machines** (3 new lessons, 13 questions each): Constructing things that move (constructing-things-that-move/); Power transmission systems (power-transmission-systems/); Belt drives (belt-drives/).
+- **Vehicle Technology** (2 new lessons, 13 questions each): Engine maintenance activities (engine-maintenance-activities/); How an engine cooling system works (how-an-engine-cooling-system-works/).
+- **Energy** (1 new lesson, 13 questions each): Force, power and the forms of energy (force-power-and-the-forms-of-energy/).
+- **Electricity and Electronics** (4 new lessons, 13 questions each): Control systems (control-systems/); Getting the right voltage for low-voltage devices (getting-the-right-voltage-for-low-voltage-devices/); Sensors for controlling circuits, and the transistor (sensors-for-controlling-circuits-and-the-transistor/); Receiving sound signals through electromagnetic waves (receiving-sound-signals-through-electromagnetic-waves/).
+- **Materials** (1 new lesson, 13 questions each): Rubber technology (rubber-technology/).
+- **Machining** (1 new lesson, 13 questions each): Finishing (finishing/).
+- **Chemical Technology** (10 new lessons, 13 questions each): Testing fish freshness chemically (testing-fish-freshness-chemically/); What a chemical industry is (what-a-chemical-industry-is/); The 5M and 5S concepts for running a chemical industry (the-5m-and-5s-concepts-for-running-a-chemical-industry/); Soap and detergent production (soap-and-detergent-production/); Paint production (paint-production/); Biodiesel production (biodiesel-production/); Phosphate fertilizer manufacture (phosphate-fertilizer-manufacture/); Caustic soda (NaOH) production (caustic-soda-naoh-production/); Environmental management in industry (environmental-management-in-industry/); Cleaner production (cleaner-production/).
+
+Three canonical lessons already built also carry Sri Lanka NEW
+placements (1 row each): Line types on drawings; Technical
+lettering; Workshop safety. Eight founding Technical Drawing lessons
+also carry the 12 direct Sri Lanka placements: Free-hand sketching —
+principles and place in design (1); Surface development — flat sheets
+that become things (1); Pictorial sketching — isometric (3);
+Orthographic projection basics (3); Dimensioning — lines, symbols and
+reading direction (1); Size and location dimensions (1); Sectioning —
+words and practice (1); Conventional practice in sectioning (1).
+
+Sri Lanka's own way is content and is carried in each lesson's
+sources: engineering drawing taught under Sri Lanka's own standard,
+SLS 409 Engineering Drawing Practice (aligned to BS 308); surveying
+taught from Egypt's pyramids through Sri Lanka's own history, its
+national coordinate grid and trigonometrical stations, with Mean Sea
+Level as the standard datum; bio-systems taught as one working whole
+(soil, water, energy, biogas, greywater, food production in a single
+diagram); and industry taught through the 5M and 5S concepts, down to
+named local products and processes.
+
+Placements at
+liqlearns-courses-work/expansion-td-2026-11-17/sri-lanka-placements.md.

@@ -5,11 +5,11 @@ things works the same everywhere; only the way of teaching
 differs, and the way shows inside as examples. The path climbs
 from the hand to the drawing board to the workshop.
 
-**First Steps → Technical Drawing → Materials → Metal → Machining → Wood → Mechanisms and Machines → Electrical Installations and the Home → Textiles and Fashion → Radiography Technology → Design and Making → Models and Robotics → Workshop and Safety → Electricity and Electronics → Food Technology → Paper, Card and Modelling → Construction and Building → Vehicle Technology → Printing and Bookbinding → Agriculture Technology → Networks and Computers → Energy**
+**First Steps → Technical Drawing → Materials → Metal → Machining → Wood → Mechanisms and Machines → Electrical Installations and the Home → Textiles and Fashion → Radiography Technology → Design and Making → Models and Robotics → Workshop and Safety → Electricity and Electronics → Food Technology → Paper, Card and Modelling → Construction and Building → Vehicle Technology → Printing and Bookbinding → Agriculture Technology → Networks and Computers → Energy → Chemical Technology**
 
-Stocked titles so far: **392 lessons**.
+Stocked titles so far: **459 lessons**.
 
-**Technical Drawing** (technical-drawing/) — 43 lessons:
+**Technical Drawing** (technical-drawing/) — 57 lessons:
 17 built from Ethiopia's Grade 12 teacher guide (2003 E.C.,
 GEQIP generation) as labelled evidence — see CURRICULUM.md
 and ABOUT.md for the honesty terms — 6 stocked
@@ -146,7 +146,7 @@ What technology is also carries a Malaysia placement (*RBT Tahun 4*, printed pp.
 
 What technology is also carries 2 Iran placements (*Use of New Technologies, Grade 11*, printed pp. 3–15, 10–22). Inventors and inventions also carries an Iran placement (*Work & Technology, Grade 7*, printed pp. 3–9), and Technology as a system also carries an Iran placement (Grade 7, printed pp. 11–15).
 
-**Materials** (materials/) — 14 lessons: 2 stocked
+**Materials** (materials/) — 15 lessons: 2 stocked
 2026-11-17 from Finland's *Katse tulevaan*
 (TuleVa project learning material, published via aoe.fi),
 2 stocked 2026-11-17 from Gabon's *Super
@@ -173,7 +173,7 @@ Technology* pupil's books (REB, Primary 5–6):
 - Composite materials (composite-materials/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
 - Smart materials and shape-memory materials (smart-materials-and-shape-memory-materials/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
 
-**Metal** (metal/) — 8 lessons: 1 stocked 2026-11-17
+**Metal** (metal/) — 10 lessons: 1 stocked 2026-11-17
 from Rwanda's *Science and Elementary Technology,
 Primary 5* (REB), and 1 stocked 2026-11-17 from
 Moldova's *Educație tehnologică, Grade 9* (Editura
@@ -189,7 +189,7 @@ Epigraf, 2024):
 - Embossing technique (embossing-technique/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
 - Texturing and patina (texturing-and-patina/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
 
-**Machining** (machining/) — 2 lessons, stocked
+**Machining** (machining/) — 3 lessons, stocked
 2026-11-17 from Moldova's *Educație tehnologică*
 textbooks (Grades 5–6 and Grade 9) — a new unit
 in this course:
@@ -528,7 +528,7 @@ Primary 5*, printed p. 198).
 
 The simple electric circuit also carries an Iran placement (*Work & Technology, Grade 8*, printed pp. 42–47), and Soldering electronic components also carries an Iran placement (Grade 8, printed p. 51).
 
-**Food Technology** (food-technology/) — 18 lessons:
+**Food Technology** (food-technology/) — 28 lessons:
 1 stocked 2026-11-17 from Azerbaijan's *Технология
 (Technology), Grade 2* (Russian edition as held), and
 10 stocked 2026-11-17 from Samoa's MESC food books —
@@ -660,7 +660,7 @@ in this course:
 
 - Engraving and printing a matrix (engraving-and-printing-a-matrix/)
 
-**Energy** (energy/) — 5 lessons: 3 stocked 2026-11-17
+**Energy** (energy/) — 6 lessons: 3 stocked 2026-11-17
 from Haiti's ITAP Projet Nectar pedagogical sequences
 (MENFP, 8e AF — teacher-guide evidence only, counted
 nowhere), and 1 stocked 2026-11-17 from Morocco's
@@ -689,3 +689,77 @@ Renewable energy technology also carries 5 Iran placements (*Use of New Technolo
 - Programming design basics (programming-design-basics/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
 - Algorithm, pseudocode and flowchart (algorithm-pseudocode-and-flowchart/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
 - Building a program in Scratch (building-a-program-in-scratch-the-book-s-programming-design/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+
+**Sri Lanka** additions — 67 lessons stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (Educational Publications Department; visual-read method — scanned-image PDFs with no text layer, read as rendered page images, as filed in each lesson's sources):
+
+- What engineering drawing is — and the standard behind it (what-engineering-drawing-is-and-the-standard-behind-it/) — Technical Drawing, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- The branches of engineering drawing (the-branches-of-engineering-drawing/) — Technical Drawing, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Kinds of mechanical drawing (kinds-of-mechanical-drawing/) — Technical Drawing, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Drawing papers and ISO sheet sizes A0–A6 (sizes table, gsm weights, A0 sheet as the base size) (drawing-papers-and-iso-sheet-sizes-a0a6-sizes-table-gsm-weights/) — Technical Drawing, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Drawing pencils and their grades for drawing work (drawing-pencils-and-their-grades-for-drawing-work/) — Technical Drawing, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- The drawing board and its accessories (the-drawing-board-and-its-accessories/) — Technical Drawing, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Drawing standards (SLS/ISO practice) as the rules every engineering drawing follows (drawing-standards-sls-iso-practice-as-the-rules-every/) — Technical Drawing, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Scales in drawing (scales-in-drawing/) — Technical Drawing, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Perspective drawing (perspective-drawing/) — Technical Drawing, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Production drawings (production-drawings/) — Technical Drawing, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Drawing with the computer (CAD) (drawing-with-the-computer/) — Technical Drawing, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Drawing contour lines from a level survey, and the errors that arise in levelling (drawing-contour-lines-from-a-level-survey-and-the-errors-that/) — Technical Drawing, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- The drawing a maker works from (the-drawing-a-maker-works-from/) — Technical Drawing, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- The basic forms behind technical drawing (the-basic-forms-behind-technical-drawing/) — Technical Drawing, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- What land surveying is and its history (what-land-surveying-is-and-its-history/) — Construction and Building, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Maps and surveyed plans (maps-and-surveyed-plans/) — Construction and Building, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Position on a survey (position-on-a-survey/) — Construction and Building, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Modern position-fixing (modern-position-fixing/) — Construction and Building, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Classification of surveys (classification-of-surveys/) — Construction and Building, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Principles of surveying (principles-of-surveying/) — Construction and Building, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Linear measurement in surveying (linear-measurement-in-surveying/) — Construction and Building, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Angular measurement in surveying (angular-measurement-in-surveying/) — Construction and Building, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Chain surveying (chain-surveying/) — Construction and Building, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Levelling (levelling/) — Construction and Building, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Theodolite surveying (theodolite-surveying/) — Construction and Building, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Introduction to Bio-Systems Technology (introduction-to-bio-systems-technology/) — Agriculture Technology, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Where bio-systems engineering science is applied (where-bio-systems-engineering-science-is-applied/) — Agriculture Technology, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Future directions of Bio-Systems Technology as a field (future-directions-of-bio-systems-technology-as-a-field/) — Agriculture Technology, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Pest management decisions (pest-management-decisions/) — Agriculture Technology, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Managing insect pests and non-insect animal pests (managing-insect-pests-and-non-insect-animal-pests/) — Agriculture Technology, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Plant disease management (plant-disease-management/) — Agriculture Technology, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Weed management (weed-management/) — Agriculture Technology, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Mechanical equipment used in pest management (spraying/application machinery) (mechanical-equipment-used-in-pest-management-spraying/) — Agriculture Technology, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Food technology and food preservation named as a core application of bio-systems technology (food-technology-and-food-preservation-named-as-a-core/) — Food Technology, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Food engineering (food-engineering/) — Food Technology, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Food packaging (food-packaging/) — Food Technology, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Designing a food package (designing-a-food-package/) — Food Technology, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Formulating a new food product (formulating-a-new-food-product/) — Food Technology, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Sensory evaluation of food (sensory-evaluation-of-food/) — Food Technology, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Shelf life of food (shelf-life-of-food/) — Food Technology, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Choosing aquatic resources suitable for food (choosing-aquatic-resources-suitable-for-food/) — Food Technology, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Handling fish hygienically after capture (handling-fish-hygienically-after-capture/) — Food Technology, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Telling fresh fish from spoiled fish (telling-fresh-fish-from-spoiled-fish/) — Food Technology, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Making products from metal (making-products-from-metal/) — Metal, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Casting (casting/) — Metal, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Constructing things that move (constructing-things-that-move/) — Mechanisms and Machines, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Power transmission systems (power-transmission-systems/) — Mechanisms and Machines, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Belt drives (belt-drives/) — Mechanisms and Machines, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Engine maintenance activities (engine-maintenance-activities/) — Vehicle Technology, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- How an engine cooling system works (how-an-engine-cooling-system-works/) — Vehicle Technology, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Force, power and the forms of energy (force-power-and-the-forms-of-energy/) — Energy, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Control systems (control-systems/) — Electricity and Electronics, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Getting the right voltage for low-voltage devices (getting-the-right-voltage-for-low-voltage-devices/) — Electricity and Electronics, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Sensors for controlling circuits, and the transistor (sensors-for-controlling-circuits-and-the-transistor/) — Electricity and Electronics, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Receiving sound signals through electromagnetic waves (receiving-sound-signals-through-electromagnetic-waves/) — Electricity and Electronics, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Rubber technology (rubber-technology/) — Materials, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Finishing (finishing/) — Machining, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Testing fish freshness chemically (testing-fish-freshness-chemically/) — Chemical Technology, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- What a chemical industry is (what-a-chemical-industry-is/) — Chemical Technology, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- The 5M and 5S concepts for running a chemical industry (the-5m-and-5s-concepts-for-running-a-chemical-industry/) — Chemical Technology, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Soap and detergent production (soap-and-detergent-production/) — Chemical Technology, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Paint production (paint-production/) — Chemical Technology, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Biodiesel production (biodiesel-production/) — Chemical Technology, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Phosphate fertilizer manufacture (phosphate-fertilizer-manufacture/) — Chemical Technology, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Caustic soda (NaOH) production (caustic-soda-naoh-production/) — Chemical Technology, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Environmental management in industry (environmental-management-in-industry/) — Chemical Technology, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+- Cleaner production (cleaner-production/) — Chemical Technology, stocked 2026-11-17 from Sri Lanka's Tamil-medium Technology stream textbooks (EPD)
+
+**Chemical Technology** (chemical-technology/) — 10 lessons, a new unit in this course, stocked 2026-11-17 from Sri Lanka as listed above.
+
+Line types on drawings, Technical lettering and Workshop safety also carry Sri Lanka NEW placements (1 each). Eight founding Technical Drawing lessons also carry Sri Lanka placements (12 in all): Free-hand sketching — principles and place in design; Surface development — flat sheets that become things; Pictorial sketching — isometric (3); Orthographic projection basics (3); Dimensioning — lines, symbols and reading direction; Size and location dimensions; Sectioning — words and practice; Conventional practice in sectioning.

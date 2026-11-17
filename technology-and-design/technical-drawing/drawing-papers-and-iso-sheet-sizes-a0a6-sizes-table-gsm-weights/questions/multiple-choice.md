@@ -1,0 +1,23 @@
+# Drawing papers and ISO sheet sizes A0–A6 (sizes table, gsm weights, A0 sheet as the base size) — multiple choice
+
+Pick the one right answer.
+
+**1. (Sub lesson 1)** What is this lesson's topic?
+a) Drawing papers and ISO sheet sizes A0–A6 (sizes table, gsm weights, A0 sheet as the base size) b) An unrelated workshop rule c) A different subject's chapter d) None of these
+**Answer: a) Drawing papers and ISO sheet sizes A0–A6 (sizes table, gsm weights, A0 sheet as the base size)**
+
+**2. (Sub lesson 1)** The heart of the topic is…
+a) Drawing papers and ISO sheet sizes A0–A6 (sizes table, gsm weights, A0 sheet as the base size) b) Skipping the steps c) Guessing the parts d) Copying without checking
+**Answer: a) Drawing papers and ISO sheet sizes A0–A6 (sizes table, gsm weights, A0 sheet as the base size)**
+
+**3. (Sub lesson 2)** When learning a new part of this topic, you should learn…
+a) Only its colour b) Its name, what it does, and how it connects to the parts around it c) Nothing — parts do not matter d) Only the last step
+**Answer: b) Its name, what it does, and how it connects to the parts around it**
+
+**4. (Sub lesson 2)** If the topic is a process, the order of the steps…
+a) Does not matter b) Is part of the teaching — doing steps out of order changes the result c) Should be reversed d) Is decided by guessing
+**Answer: b) Is part of the teaching — doing steps out of order changes the result**
+
+**5. (Sub lesson 3)** Checking your work is…
+a) Optional and never needed b) The last step of the work itself c) Done only by the teacher d) A different lesson
+**Answer: b) The last step of the work itself**
