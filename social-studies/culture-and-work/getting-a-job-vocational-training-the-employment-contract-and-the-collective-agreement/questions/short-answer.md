@@ -1,0 +1,10 @@
+# Getting a Job Vocational Training the Employment Contract and the Collective Agreement — short answer
+
+Answer in a sentence or two.
+
+**1. (Sub lesson 1)** What does the first part of this lesson teach?
+**Answer: How labour activity is formalised (Як афармляюць працоўную дзейнасць) — Grade 9 — where a profession is learned — the first labour skills at school, then vocational-technical schools (PTU), secondary special institutions and higher institutions, with the state guaranteeing free professional education and a job in one's speciality; the state employment service (republican, oblast, city and district employment centres) whose task is to help citizens find work and employers to staff their enterprises, and labour exchanges abroad; getting a job — the employment contract (працоўны дагавор) concluded between the owner-employer and the hired worker, and the collective agreement that sets the work conditions of the whole labour collective, whose highest organ is the general meeting (conference) of the workers; the forms of employment — independent (individual labour activity and entrepreneurship, under a licence or patent) or by contract; and the guarantees of the Labour Code of the Republic of Belarus (КЗаП): the order of hiring and dismissal, working time and rest time, pay, guaranteed and compensation payments, labour protection and benefits (any close wording).**
+
+**2. (Sub lesson 2)** What does the second part of this lesson teach?
+**Answer: Belarus's way — the book's own teaching way — the civics track is the pupil's own state and law read from inside — "our state" is taught straight from the 1994 Constitution of the Republic of Belarus (unitary, democratic, social, law-governed; the people as the only source of power; the 1996 referendum; the 1999 Union treaty with Russia), rights are taught article by article from that Constitution (Arts. 1–3, 21–25, 30, 41–49, 53, 59–62) beside the Universal Declaration, and the course closes not with a test but with a discussion, "I — a citizen of the Republic of Belarus", on the citizen's own responsibility before the state. (any close wording).**
+
