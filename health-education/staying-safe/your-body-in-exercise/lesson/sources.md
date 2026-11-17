@@ -1,8 +1,8 @@
 # Sources — Your Body in Exercise
 
-countries: Jordan, Haiti
+countries: Jordan, Haiti, Rwanda
 
-**Acceptance count: taught in 1 country.** Jordan is filed as student-book stock, inside the acceptance count, in this lesson. Haiti is filed as teacher-programme evidence only, outside the acceptance count.
+**Acceptance count: taught in 1 country.** Jordan is filed as student-book stock, inside the acceptance count, in this lesson. Haiti is filed as teacher-programme evidence only, outside the acceptance count. Rwanda is filed as teacher-guide evidence only, outside the acceptance count.
 
 **Book 5 — التربية الرياضية — الصف السابع — الفصل الدراسي الثاني (Physical Education, Grade Seven, Second Semester) (student book, Arabic):**
 - Title as printed: التربية الرياضية — الصف السابع — الفصل الدراسي الثاني (Physical Education, Grade Seven, Second Semester)
@@ -24,13 +24,25 @@ countries: Jordan, Haiti
 - Haiti's own way: the third general competency of secondary EPS is entirely "learn to manage your health and keep yourself and others safe", and first-aid initiation is taught inside the "moving in varied environments" field, including safety education for natural-hazard situations.
 - Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/haiti-health-placements.md.
 
+**Book 5 (Rwanda placements file) — Primary Physical Education for Rwandan Schools, Teacher's Guide 5 (teacher guide, English) — Health parts (Unit 1 Lessons 1–2; Unit 9: Transmitted Diseases):**
+- Title as printed: Primary Physical Education for Rwandan Schools — Teacher's Guide 5
+- Grade: Grade 5 (Primary Five) (student/teacher: TEACHER)
+- Publisher: MK Publishers (R) Ltd, Kigali; approved by REB; ISBN no ISBN printed
+- PDF pages: 144 (route as in rwanda-pe-placements.md, Book 5)
+- Verdict: COMPLETE
+- Tally: 4 placements — 0 to existing lessons, 4 NEW LESSON NEEDED (2 HELD)
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/rwanda-health-placements.md (Book 5 of that file; route as in rwanda-pe-placements.md, Book 5).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The respiratory system; Sub lesson 2 — How sport improves breathing (original string `staying-safe/HELD-title-decision` — Unit 9, Lesson 2: Sport and the Respiratory System — the respiratory system's organs and gas exchange, and how sport improves it (better gas exchange in the alveoli, more oxygen to the blood, lower asthma risk) with breathing exercises) | Jordan, *التربية الرياضية — الصف السابع — الفصل الدراسي الثاني (Physical Education, Grade Seven, Second Semester)*, Unit 9 Health Concepts and Habits, Lesson 2: Sport and the Respiratory System, printed p. 56 |
 | Haiti — Your body in exercise — understanding the body's responses to exercise (rising heart and breathing rates, sweating, fatigue) as scientific knowledge inside EPS (teacher programme — evidence) (original string `staying-safe/HELD-title-decision`) | Haiti, *Programmes de l'Enseignement Secondaire — Éducation Physique et Sportive (EPS)* (Haiti Grades 10–13 Programme EPS du secondaire, teacher programme), printed p. 26 (teacher programme — evidence) |
+| Rwanda — Role of physical exercise for the circulatory and respiratory systems — what exercise does for the heart, circulation and breathing (Unit 1, Lesson 1) (teacher guide — evidence) (original string `staying-safe/HELD-title-decision`) | Rwanda, *Primary Physical Education for Rwandan Schools — Teacher's Guide 5* (Rwanda Grade 5 PE Teacher's Guide 5, teacher guide), printed p. 2 (teacher guide — evidence) |
 
 This is a canonical NEW lesson (slug-registry Part 1: `staying-safe/your-body-in-exercise` — Your body in exercise: how the heart, lungs, blood and muscles respond to exercise, and monitoring your own state (pulse, effort signs, self-control diary)); the Jordan placement was filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical slug by registry Part 2B (the HELD description above, mapped to `staying-safe/your-body-in-exercise`) and recorded in the provenance row above. The single placement was split by its two named parts — the respiratory system's organs and gas exchange, and how sport improves it — both on the same source and printed page, carried in one provenance row. Jordan enters this lesson as student-book stock, inside the acceptance count. Jordan's own way is content, as the book line above records it: Term 2 closes with "Health Concepts and Habits" — healthy technology use (including technology in sport, e.g. VAR) and the body in exercise.
 
 Haiti is added as teacher-programme evidence only (see its book line and row above), outside the acceptance count — the Haiti book is a TEACHER programme, so Haiti is named in the countries line and provenance row but the acceptance count is unchanged (still taught in 1 country). The Haiti placement was filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical slug by registry Part 2B (the HELD description "Your body in exercise — understanding the body's responses to exercise (rising heart and breathing rates, sweating, fatigue) as scientific knowledge inside EPS", mapped to `staying-safe/your-body-in-exercise`) and recorded in the provenance row above. Haiti's own way is content, as the book line above records it: the body's responses to exercise are taught as scientific knowledge inside EPS. The placements file's record-only item, the *Rapport de l'Enquête Nutritionnelle Nationale avec la Méthodologie SMART (Mars 2012)* (MSPP with WFP, 2012), is NOT A TEXTBOOK with 0 placements; nothing is stocked from it, as filed.
 
-Searchable tags: your body in exercise, sport and the respiratory system, respiratory organs, gas exchange, alveoli, oxygen to the blood, asthma risk, breathing exercises, Health Concepts and Habits, Jordan NCCD Physical Education Grade 7, body responses to exercise, rising heart rate, breathing rate, sweating, fatigue, scientific knowledge inside EPS, Haiti EPS Programme Grades 10-13, MENFP
+Rwanda is added as teacher-guide evidence only (see its book line and row above), outside the acceptance count — the Rwanda book is a TEACHER guide, so Rwanda is named in the countries line and provenance row but the acceptance count is unchanged (still taught in 1 country). The Rwanda placement was filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical slug by registry Part 2B (the HELD description "Role of physical exercise for the circulatory and respiratory systems — what exercise does for the heart, circulation and breathing (Unit 1, Lesson 1)", mapped to `staying-safe/your-body-in-exercise`) and recorded in the provenance row above.
+
+Searchable tags: your body in exercise, sport and the respiratory system, respiratory organs, gas exchange, alveoli, oxygen to the blood, asthma risk, breathing exercises, Health Concepts and Habits, Jordan NCCD Physical Education Grade 7, body responses to exercise, rising heart rate, breathing rate, sweating, fatigue, scientific knowledge inside EPS, Haiti EPS Programme Grades 10-13, MENFP, role of physical exercise for the circulatory and respiratory systems, heart circulation and breathing, Rwanda Grade 5 PE Teacher Guide MK Publishers
