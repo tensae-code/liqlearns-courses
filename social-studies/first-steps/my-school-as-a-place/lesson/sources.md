@@ -1,6 +1,6 @@
 # Sources — My School as a Place
 
-countries: Fiji, Latvia, Mauritius, Ecuador, Yemen, Libya, Afghanistan, Eritrea, Serbia, Venezuela, Turkey, Iraq, Kazakhstan, North Macedonia, Angola
+countries: Fiji, Latvia, Mauritius, Ecuador, Yemen, Libya, Afghanistan, Eritrea, Serbia, Venezuela, Turkey, Iraq, Kazakhstan, North Macedonia, Angola, Sri Lanka
 
 **Book 1:** *Social Studies Year 3 (Re-edited 2017)* (student book, English) — Fiji, Ministry of Education, Heritage & Arts, Curriculum Development Unit (with UNESCO / Fiji Memory of the World support); year 2017 (re-edited); ISBN no ISBN printed. Title as printed: Social Studies Year 3 (Re-edited 2017). Grade: Year 3 (student/teacher: STUDENT). PDF pages: 64 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: grab.py GitHub API failed (RemoteDisconnected, release route ×2 and tree route ×1); read instead from the books.json record's own Wayback source_url — the ministry original of the same book. Non-Geography parts named, not placed: Part One Strand 1 Social Organisation — Lesson 1 My Family (printed p. 5), Lesson 2 Family Relationships (p. 11), Lesson 3 Family Roles (p. 17); Strand 2 Time, Continuity and Change — Lesson 4 Cultural Background (p. 24). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
 
@@ -81,7 +81,7 @@ Venezuela's own way (Venezuela Grade 1 G1 CS Viva Venezuela): the child's own wo
 
 Venezuela's own way (Venezuela Grade 3 G3 CS Viva Venezuela): coexistence is the spine of the primary book — respect, rules, family and community are each defined in plain words, then practised: the class votes in assembly, community leaders must learn to agree, and solidarity is taught from Lincoln's collection for an enslaved sailor to Caracas's free children's heart hospital serving the whole continent.
 
-Searchable tags: my school as a place, Fiji, Latvia, Mauritius, Eritrea, Serbia, social studies, first-steps, Ecuador, Yemen, Libya, Afghanistan, Venezuela, Turkey
+Searchable tags: my school as a place, Fiji, Latvia, Mauritius, Eritrea, Serbia, social studies, first-steps, Ecuador, Yemen, Libya, Afghanistan, Venezuela, Turkey, Sri Lanka
 
 Libya's own way (National Education G4): the whole book is written in the first person — every lesson is "I and …" (I and my family, I and my school, I and the neighbourhood) — citizenship starts as the child's own relationships, and even the environment unit is framed as the child's own behaviour: what I throw away, what I plant, which beach I clean.
 
@@ -151,3 +151,19 @@ Angola placements — Social Studies remaining strands (2026-11-17):
 Angola's own way (Book 16): Estudo do Meio teaches the child's world through one named child at a time (Vihemba and her extended family, Mário and his school) — family includes grandparents, uncles and cousins who come to live in the house, and the home is located by bairro, município, street and house number so the child never gets lost.
 
 Angola's own way (Book 17): Grade 2 widens each Grade 1 topic by one step — the family gains kinship names and needs, the school gains its parts and the care of school materials, and the book closes with two short themes that are pure community life: work, and transport and communications.
+
+
+**Book 18:** *Civic Education* (student book, English) — Title as printed: CIVIC EDUCATION Grade: Grade 6 (student/teacher: STUDENT) Publisher: Educational Publications Department, Sri Lanka; First Print 2014, Sixth Print 2019; ISBN 978-955-25-0084-8 PDF pages: not stated in the record (no size/pages recorded); read in full, front matter (index at printed p. ix) to the last teaching page (printed p. 91), from the archive.org copy of this same EPD edition — title page verified against the record title (CIVIC EDUCATION, Grade 6, Educational Publications Department, ISBN as above) Earlier waves: not read before (the History and Economics waves read Sri Lanka's Tamil combined Social Education volumes, not this standalone civics book) Verdict: COMPLETE Contents map: Integrated SS pp. 1–60 (Unit 1 Our School pp. 1–39; Unit 2 The Region We Live In pp. 40–60); Civics/Citizenship/Government pp. 40–42 (the administrative system), pp. 52–55 (the officers and institutions that help us), p. 58 (duties of service institutions); Morals/Values pp. 30–33 (rights and duties, inside Unit 1) and pp. 61–91 (Unit 3 A Good Citizen); Geography pp. 43–47 (the region's physical resources and their uses — named, not placed); Economics pp. 48–49 (human resources and the region's economic affairs — named, not placed); History pp. 87–88 (ancestral creations — Aukana and Samadhi statues, Sigiriya, the great tanks — inside §4.3, named, not placed; the identity teaching around them is placed); Religion pp. 56–57 (services rendered by places of religious worship — named, not placed) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/sri-lanka-placements.md. (Book 1 in the Sri Lanka filing.)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka part — first-steps/my-school-as-a-place — 1.1 History of our School — teaches: how a school's own history is found and told — what history and historical sources are, worked through one school's founding in 1935 and its first pupil's story — Sri Lanka Grade 6 Civic Education, printed p. 1 | Sri Lanka, *Civic Education* (student book), 1.1 History of our School — printed p. 1 |
+| Sri Lanka part — first-steps/the-people-who-run-our-school-and-their-duties — 1.2 Organisational structure of the school — teaches: who runs a school and what each owes it — principal, deputy principals, teachers, non-academic staff and students, with the School Development Committee, prefects and school committees — Sri Lanka Grade 6 Civic Education, printed p. 5 | Sri Lanka, *Civic Education* (student book), 1.2 Organisational structure of the school — printed p. 5 |
+
+**Acceptance count: taught in 14 countries (Fiji, Ecuador, Yemen, Libya, Afghanistan, Eritrea, Serbia, Venezuela, Turkey, Iraq, Kazakhstan, North Macedonia, Angola, Sri Lanka). Latvia and Mauritius are named here as teacher-guide evidence only, counted nowhere.**
+
+Sri Lanka's own way (Sri Lanka Grade 6 Civic Education): civics starts inside the child's own school — its history, its people and their duties, its rules, symbols and the pupil's own rights — then widens to the region (the Grama Niladhari ladder up to the province, the officers and councils that serve it) and closes with the good citizen's virtues: polite speech, listening, discipline, telling good from bad, using resources frugally, guarding public property and preserving the local identity with pride.
+
+Registry note: the original coined string `first-steps/the-people-who-run-our-school-and-their-duties` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §5 into this existing lesson, `first-steps/my-school-as-a-place`.
+
+Searchable tags: my school as a place, Sri Lanka, social studies, first-steps

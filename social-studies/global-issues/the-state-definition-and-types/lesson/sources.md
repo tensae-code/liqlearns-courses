@@ -1,6 +1,6 @@
 # Sources — The State — Definition and Types
 
-countries: Egypt, Haiti, Afghanistan, Eritrea, Mexico, Belarus, Syria, Bangladesh, Iraq, Armenia, Kazakhstan, United States, Palestine
+countries: Egypt, Haiti, Afghanistan, Eritrea, Mexico, Belarus, Syria, Bangladesh, Iraq, Armenia, Kazakhstan, United States, Palestine, Sri Lanka
 
 **Book 1:** *الجغرافيا السياسية (Political Geography) — كتاب الطالب والأنشطة والتدريبات (Student Book, Activities and Exercises)* (student book with activities, Arabic) — Egypt, Ministry of Education and Technical Education, Egypt; no year or ISBN on the cover pages read (the file is the ministry's 2026-folder student book). Title as printed: الجغرافيا السياسية (Political Geography). Grade 12, Third Secondary, Term 1 (student). 172 PDF pp. (cover verified against the record title; 28,573,835 bytes = record size exactly, from the recorded Azure source; staged in phase3-staging/grade-12/gov/egypt/Geography_Sec3.pdf under the push-don't-delete rule — its books.json record already existed there). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/egypt-placements.md.
 
@@ -62,7 +62,7 @@ Eritrea's own way (ER G7 Social Studies): government is taught as a growth story
 
 Syria's own way (Social Studies Grade 6): civics is taught inside the Arab-world regional tour — the state lesson interrupts the geography of Africa to define the state from Syria's own case (sovereignty won 17 April 1946, land, nation, authority), and the family/institutions unit teaches society as a ladder of organised groups, from the family cell to the cultural institutions the Ministry of Culture runs.
 
-Searchable tags: the state definition and types, Egypt, Eritrea, social studies, global-issues, Haiti, Afghanistan, Mexico, Belarus, Syria, Bangladesh, United States, Palestine
+Searchable tags: the state definition and types, Egypt, Eritrea, social studies, global-issues, Haiti, Afghanistan, Mexico, Belarus, Syria, Bangladesh, United States, Palestine, Sri Lanka
 
 Afghanistan's own way (Grade 6 Social Studies): the Afghan state is taught as the child's own house — society needs a state as a family needs order; the 2004 constitution is the "mother law"; the two houses are named in Pashto (Wolesi Jirga, Meshrano Jirga) and every right (children's, women's, human dignity) is grounded first in Islam and then in the constitution's own articles.
 
@@ -139,3 +139,16 @@ United States' own way (Grade 13 American Government 3e): the United States teac
 **Acceptance count: taught in 12 countries (Egypt, Afghanistan, Eritrea, Mexico, Belarus, Syria, Bangladesh, Iraq, Armenia, Kazakhstan, United States, Palestine).. Haiti is named here as teacher-guide evidence only, counted nowhere.**
 
 Palestine's own way (Grade 5 Social Studies Part 1): the first civics unit opens with the child's own right to live inside a family and a state; the Palestinian family is taught in its two real forms — the small nuclear family and the large extended hamula — and the state lesson is taught under occupation, asking openly what prevents Palestine's independence while naming Jerusalem as its capital.
+
+
+**Book 16:** *Social Education* (student book, Tamil) — Title as printed: Social Education (சமூகக் கல்வி), Tamil medium, 1998 edition, new syllabus — cover and title page verified in the retry pass (title page: Year 10, written according to the new syllabus, Educational Publications Department) Grade: Grade 10 (student/teacher: STUDENT) Publisher: Educational Publications Department, Sri Lanka; first edition 1986, twelfth edition 1998 (per the Economics wave's imprint reading); ISBN no ISBN printed PDF pages: 162 (verified by pdfinfo in the retry pass, 21,296,397 bytes; the record carries no size/pages) Earlier waves: Economics wave read the book and placed its economics parts; its contents map names the Civics parts — systems of government (printed pp. 93–99) and human rights (printed pp. 143–152) — and did not place them Verdict: COMPLETE (retry pass) — the two civics parts named above were read in full as rendered page images. Route that worked: the recorded Noolaham source PDF (https://noolaham.net/project/796/79589/79589.pdf) downloaded by repeated curl resume passes through this host's slow proxy (the first wave's routes — grab.py tree, grab.py url on the mid-size-books-5 release asset, one-shot direct download, crawler text fetch — had all failed, and grab.py tree failed again in the retry pass with a dropped connection). Read note: Ch.15's heading stands on printed p. 142 (the contents page says 143) and its teaching text runs to printed p. 147, ending mid-page; the scan's remaining leaves (PDF pp. 158–162) are blank or mirror show-through only, so the Economics wave's "pp. 143–152" span is this copy's chapter as pp. 142–147 plus blank end leaves Contents map: Economics parts placed by the Economics wave; Civics/Citizenship/Government pp. 93–99 (Ch.10 Systems of government) and pp. 142–147 (Ch.15 Protecting human rights); the rest as mapped by the Economics wave Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/sri-lanka-placements.md. (Book 4 in the Sri Lanka filing.)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka part — global-issues/the-state-definition-and-types — Ch. 10 Unitary and federal systems — teaches: the unitary system, all power with one central government — Sri Lanka's own way — against the federal system, where a constitution divides power between a central government and state governments and neither side can change the division alone, with the USA, Australia, West Germany, the Soviet Union and Switzerland as the federal examples — Sri Lanka Grade 10 Social Education 1998, printed pp. 98–99 | Sri Lanka, *Social Education* (student book), Ch. 10 Unitary and federal systems — printed pp. 98–99 |
+
+**Acceptance count: taught in 13 countries (Egypt, Afghanistan, Eritrea, Mexico, Belarus, Syria, Bangladesh, Iraq, Armenia, Kazakhstan, United States, Palestine, Sri Lanka).. Haiti is named here as teacher-guide evidence only, counted nowhere.**
+
+Sri Lanka's own way (Sri Lanka Grade 10 Social Education 1998): systems of government are taught as a ladder the pupil climbs from Sri Lanka's own unitary state outward — democracy defined through Lincoln and the French declaration, its three freedoms separated and worked one by one, dictatorship and monarchy set against it with Mussolini, Hitler and Ashoka as the named cases, and human rights told as a single long struggle from Magna Carta to the UN Charter and the regional charters of Europe, America and Africa.
+
+Searchable tags: the state — definition and types, Sri Lanka, social studies, global-issues

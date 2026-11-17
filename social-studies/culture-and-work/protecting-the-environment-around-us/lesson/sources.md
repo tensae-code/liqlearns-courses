@@ -1,6 +1,6 @@
 # Sources — Protecting the Environment Around Us
 
-countries: Cuba, Morocco
+countries: Cuba, Morocco, Sri Lanka
 
 **Book 1:** *El mundo en que vivimos — tercer grado* (student book, Spanish) — Title as printed: El mundo en que vivimos — tercer grado. Grade: Grade 3 (student/teacher: STUDENT). Publisher: Editorial Pueblo y Educación (MINED's publisher; authors M. Sc. Neris Esther Domínguez Oliva, Rosario Leal Arroyo, Zoila Ester Durán Aulet, Alfonso Cok Carballo, Zoraida Almerall Rueda, Addys Ramos Hernández); year: no year printed in the file; ISBN: no ISBN printed in the file. PDF pages: 258 (cover verified: title and grade as printed, school scene with Cuban flag). LIBRARY DEBT: the record says this book is pushed in GitHub, but grab.py tree returned HTTP 404 — a phantom push; the book was read instead from its recorded source (biblioteca.cubaeduca.cu) and the staged copy is listed in the group log. Earlier waves: the geography-wave Cuba file filed the MINED "Programa" documents RECORD-ONLY; no earlier wave placed any of these books' civics/SS strands. Verdict: COMPLETE for the remaining strands — contents mapped first, then every remaining-strand part read in full (Presentación pp. 1–5; Unidad 4 "Comportamiento social" pp. 236–241). Named-not-placed: Unidad 2 El Sol, la Tierra, la Luna, el aire, el agua y el suelo (Science); Unidad 3 Los seres vivos incl. the human body, table manners and pregnancy care (Science/Health); Unidad 4's province survey — coasts, relief, rivers, the 15 provinces and special municipality (Geography); the efemérides and Moncada/Fidel content (History); Glosario p. 243 (inventory only). Contents map: Presentación — Las brigadas protectoras de la naturaleza pp. 1–5 (Civics — care of shared places); Unidad 1 Descubriendo el mundo en que vivimos pp. 6–48 (Science, with humans' transformation of nature and responsible behaviour towards it); Unidad 2 pp. 49–97 (Science); Unidad 3 Los seres vivos pp. 98–150 (Science/Health); Unidad 4 ¡Cuba qué linda es! pp. 151–241 (Geography/History, closing chapter Comportamiento social pp. 236–241 = Civics — social behaviour, symbols, transport and traffic, care of the home place). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/cuba-placements.md.
 
@@ -16,7 +16,7 @@ Cuba's own way: Third-graders join Nature Protection Brigades — organised pion
 
 Registry note: the original coined string `culture-and-work/protecting-our-living-environment` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/protecting-the-environment-around-us`.
 
-Searchable tags: protecting the environment around us, Cuba, social studies, culture-and-work
+Searchable tags: protecting the environment around us, Cuba, social studies, culture-and-work, Sri Lanka
 
 Morocco placements — Social Studies remaining strands (2026-11-17):
 
@@ -33,3 +33,17 @@ Morocco's own way (Book 6, Al-Tajdid Ijtiamiat 3AC): the final collège year mak
 
 Registry note: the original coined string `culture-and-work/protecting-the-environment-our-duty` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/protecting-the-environment-around-us`.
 
+
+**Book 3:** *Civic Education* (student book, English) — Title as printed: CIVIC EDUCATION Grade: Grade 6 (student/teacher: STUDENT) Publisher: Educational Publications Department, Sri Lanka; First Print 2014, Sixth Print 2019; ISBN 978-955-25-0084-8 PDF pages: not stated in the record (no size/pages recorded); read in full, front matter (index at printed p. ix) to the last teaching page (printed p. 91), from the archive.org copy of this same EPD edition — title page verified against the record title (CIVIC EDUCATION, Grade 6, Educational Publications Department, ISBN as above) Earlier waves: not read before (the History and Economics waves read Sri Lanka's Tamil combined Social Education volumes, not this standalone civics book) Verdict: COMPLETE Contents map: Integrated SS pp. 1–60 (Unit 1 Our School pp. 1–39; Unit 2 The Region We Live In pp. 40–60); Civics/Citizenship/Government pp. 40–42 (the administrative system), pp. 52–55 (the officers and institutions that help us), p. 58 (duties of service institutions); Morals/Values pp. 30–33 (rights and duties, inside Unit 1) and pp. 61–91 (Unit 3 A Good Citizen); Geography pp. 43–47 (the region's physical resources and their uses — named, not placed); Economics pp. 48–49 (human resources and the region's economic affairs — named, not placed); History pp. 87–88 (ancestral creations — Aukana and Samadhi statues, Sigiriya, the great tanks — inside §4.3, named, not placed; the identity teaching around them is placed); Religion pp. 56–57 (services rendered by places of religious worship — named, not placed) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/sri-lanka-placements.md. (Book 1 in the Sri Lanka filing.)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka part — culture-and-work/protecting-the-environment-as-good-citizens — §4.2 (as printed) Let us protect the environment — teaches: the physical and built environment, how water, land, air and sound get polluted, and the good citizen's protections — proper waste disposal, keeping reservoirs clean, recycling, organic fertiliser, and not disturbing others with sound — Sri Lanka Grade 6 Civic Education, printed p. 80 | Sri Lanka, *Civic Education* (student book), §4.2 (as printed) Let us protect the environment — printed p. 80 |
+
+**Acceptance count: taught in 3 countries (Cuba, Morocco, Sri Lanka).**
+
+Sri Lanka's own way (Sri Lanka Grade 6 Civic Education): civics starts inside the child's own school — its history, its people and their duties, its rules, symbols and the pupil's own rights — then widens to the region (the Grama Niladhari ladder up to the province, the officers and councils that serve it) and closes with the good citizen's virtues: polite speech, listening, discipline, telling good from bad, using resources frugally, guarding public property and preserving the local identity with pride.
+
+Registry note: the original coined string `culture-and-work/protecting-the-environment-as-good-citizens` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/protecting-the-environment-around-us`.
+
+Searchable tags: protecting the environment around us, Sri Lanka, social studies, culture-and-work

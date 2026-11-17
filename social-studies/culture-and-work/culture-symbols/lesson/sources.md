@@ -1,6 +1,6 @@
 # Sources — Culture — symbols
 
-countries: Ethiopia, Sweden, Niue, Jamaica, Bahamas, Samoa, Venezuela, Kuwait, Jordan, Bhutan, Ecuador
+countries: Ethiopia, Sweden, Niue, Jamaica, Bahamas, Samoa, Venezuela, Kuwait, Jordan, Bhutan, Ecuador, Sri Lanka
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -82,7 +82,7 @@ Venezuela's own way (Venezuela Grade 4 G4 CS Venezuela y Su Gente): the closing 
 
 Venezuela's own way (Venezuela Grade 6 G6 CS Venezuela y Su Gente): the primary course closes with "Misión Ciudadanía" — citizenship as a mission: the constitution's liberty carries the duty to respect others' liberty, democracy is practised in communal councils where "Popular Power is all of us", work is both a right and a duty, and the book ends on peace — human rights begin in the small places near home, in Eleanor Roosevelt's words, and pupils keep a notebook of rights kept and rights violated in their own small world.
 
-Searchable tags: culture: symbols, culture and work, social studies, ethiopia, Niue, People and the Sea in the Pacific, shark-noosing ritual, Jamaica, curriculum guide evidence, Ecuador, Venezuela
+Searchable tags: culture: symbols, culture and work, social studies, ethiopia, Niue, People and the Sea in the Pacific, shark-noosing ritual, Jamaica, curriculum guide evidence, Ecuador, Venezuela, Sri Lanka
 
 Bahamas' own way (Grade 1): One integrated "Social Science" book fusing Religious Studies, Science/Health and Social Studies in a single picture-led volume; Geography enters through the home island itself — The Bahamas as a group of islands, its national symbols, mailboat/jitney transport between islands, conch-and-crawfish fishing, national parks and bush-medicine plants.
 
@@ -107,3 +107,16 @@ Kuwait's own way (Kuwait Grade 9 Social Studies G9 T2): Term 2 is the citizenshi
 Jordan's own way (Jordan G4 SS T1): Grade 4 Term 1 grounds the child in Jordanian society and dress, then an environment-resources-population unit: agriculture, industry, energy (renewable and not, in Jordan), human impact and Jordan's wildlife.
 
 Bhutan's own way (Bhutan Grade 5 Social Studies): Grade 5 spirals from the Earth and lat/long straight into Bhutan itself — its location, three physical zones, neighbours, major rivers and protected areas — so world geography is anchored in the home country's map first.
+
+
+**Book 20:** *Civic Education* (student book, English) — Title as printed: CIVIC EDUCATION Grade: Grade 6 (student/teacher: STUDENT) Publisher: Educational Publications Department, Sri Lanka; First Print 2014, Sixth Print 2019; ISBN 978-955-25-0084-8 PDF pages: not stated in the record (no size/pages recorded); read in full, front matter (index at printed p. ix) to the last teaching page (printed p. 91), from the archive.org copy of this same EPD edition — title page verified against the record title (CIVIC EDUCATION, Grade 6, Educational Publications Department, ISBN as above) Earlier waves: not read before (the History and Economics waves read Sri Lanka's Tamil combined Social Education volumes, not this standalone civics book) Verdict: COMPLETE Contents map: Integrated SS pp. 1–60 (Unit 1 Our School pp. 1–39; Unit 2 The Region We Live In pp. 40–60); Civics/Citizenship/Government pp. 40–42 (the administrative system), pp. 52–55 (the officers and institutions that help us), p. 58 (duties of service institutions); Morals/Values pp. 30–33 (rights and duties, inside Unit 1) and pp. 61–91 (Unit 3 A Good Citizen); Geography pp. 43–47 (the region's physical resources and their uses — named, not placed); Economics pp. 48–49 (human resources and the region's economic affairs — named, not placed); History pp. 87–88 (ancestral creations — Aukana and Samadhi statues, Sigiriya, the great tanks — inside §4.3, named, not placed; the identity teaching around them is placed); Religion pp. 56–57 (services rendered by places of religious worship — named, not placed) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/sri-lanka-placements.md. (Book 1 in the Sri Lanka filing.)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka part — culture-and-work/culture-symbols — School Culture: the emblems of the school — teaches: the symbols that carry a school's identity — its motto, crest, flag and anthem, its vision and mission, and the uniform every pupil wears — Sri Lanka Grade 6 Civic Education, printed p. 25 | Sri Lanka, *Civic Education* (student book), School Culture: the emblems of the school — printed p. 25 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Sweden, Niue, Bahamas, Samoa, Venezuela, Kuwait, Jordan, Bhutan, Ecuador, Sri Lanka). Jamaica is named here as curriculum-guide evidence only, counted nowhere.**
+
+Sri Lanka's own way (Sri Lanka Grade 6 Civic Education): civics starts inside the child's own school — its history, its people and their duties, its rules, symbols and the pupil's own rights — then widens to the region (the Grama Niladhari ladder up to the province, the officers and councils that serve it) and closes with the good citizen's virtues: polite speech, listening, discipline, telling good from bad, using resources frugally, guarding public property and preserving the local identity with pride.
+
+Searchable tags: culture — symbols, Sri Lanka, social studies, culture-and-work

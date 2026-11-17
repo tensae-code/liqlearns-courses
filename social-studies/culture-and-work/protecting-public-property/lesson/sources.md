@@ -1,6 +1,6 @@
 # Sources — Protecting Public Property
 
-countries: Afghanistan, Iraq
+countries: Afghanistan, Iraq, Sri Lanka
 
 **Book 1:** *Social Studies, Grade 6 (دروس اجتماعی صنف ششم)* (student book, Dari) — Title as printed: دروس اجتماعی صنف ششم (Social Studies, Grade 6). Grade: 6 (student/teacher: STUDENT). Publisher: Ministry of Education, Afghanistan; year 1398 HS (2019/20) as printed; ISBN no ISBN printed. PDF pages: 106 (cover verified against the record title; 8,468,695 bytes via grab tree route — grab.py's Python route failed three times with proxy RemoteDisconnected, so the same Contents-API route was run through curl with byte-size and blob-SHA verification, matching the earlier waves' size exactly). Earlier waves: Geography wave placed Lessons 1 and 11 (our country; provinces) and Lessons 12–17 (the six neighbouring countries); History wave placed Lessons 26–34 (Afghanistan 1973–2004) and Lessons 35–50 (early Islamic history); Economics wave filed this book's Grade 4/5 companions UNREAD (tree 404) but did not hold this Grade 6 record. Verdict: COMPLETE — the remaining civics/values chapters (Chapter 1 state lessons and Chapter 3 "Peace and national unity") read page by page (printed pp. 3–17 and 35–49) and placed below. Contents map: Integrated SS pp. 1–2 (Lesson 1 our country — placed by Geography); Civics/Citizenship/Government pp. 3–17 (Lessons 2–9: need for a state, constitution, our state, National Council, Wolesi Jirga, Meshrano Jirga, executive, judiciary) and pp. 35–49 (Lessons 18–25: national unity, peace and security, public property, media ethics, human dignity, respecting the law, children's rights, women's rights); Geography pp. 21–33 (provinces; neighbours — placed by Geography); History pp. 19 (Lesson 10 glories of Afghanistan — named by History) and pp. 51–67 (recent events — placed by History); Religion pp. 69–99 (Islamic history — placed by History). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/afghanistan-placements.md.
 
@@ -15,7 +15,7 @@ Afghanistan's own way (Grade 6 Social Studies): the Afghan state is taught as th
 
 Registry note: the original coined string `culture-and-work/public-property-belongs-to-all-the-people` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/protecting-public-property`.
 
-Searchable tags: protecting public property, Afghanistan, social studies, culture-and-work
+Searchable tags: protecting public property, Afghanistan, social studies, culture-and-work, Sri Lanka
 
 
 Iraq placements — Social Studies remaining strands (2026-11-17):
@@ -34,3 +34,16 @@ Iraq placements — Social Studies remaining strands (2026-11-17):
 Iraq's own way (Book 4): the components are named one by one with where each lives and what each built, equality is stated in the concept itself — all equal in rights and duties — and the values are taught as a civilisational inheritance, from keeping covenants "for thousands of years" to altruism as the road to social justice.
 Iraq's own way (Book 5): values are defined first as a system — standards that steer behaviour and spread peace "regardless of sex, religion, nationality, language or race" — and citizenship is cashed out in named rights (education, work, candidacy, the vote, freedom of opinion and belief), while the internet chapter warns in plain terms that the open network "is governed by no restrictions or conditions".
 Registry note: the original coined string `culture-and-work/preserving-public-property-is-a-duty` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/protecting-public-property`.
+
+
+**Book 4:** *Civic Education* (student book, English) — Title as printed: CIVIC EDUCATION Grade: Grade 6 (student/teacher: STUDENT) Publisher: Educational Publications Department, Sri Lanka; First Print 2014, Sixth Print 2019; ISBN 978-955-25-0084-8 PDF pages: not stated in the record (no size/pages recorded); read in full, front matter (index at printed p. ix) to the last teaching page (printed p. 91), from the archive.org copy of this same EPD edition — title page verified against the record title (CIVIC EDUCATION, Grade 6, Educational Publications Department, ISBN as above) Earlier waves: not read before (the History and Economics waves read Sri Lanka's Tamil combined Social Education volumes, not this standalone civics book) Verdict: COMPLETE Contents map: Integrated SS pp. 1–60 (Unit 1 Our School pp. 1–39; Unit 2 The Region We Live In pp. 40–60); Civics/Citizenship/Government pp. 40–42 (the administrative system), pp. 52–55 (the officers and institutions that help us), p. 58 (duties of service institutions); Morals/Values pp. 30–33 (rights and duties, inside Unit 1) and pp. 61–91 (Unit 3 A Good Citizen); Geography pp. 43–47 (the region's physical resources and their uses — named, not placed); Economics pp. 48–49 (human resources and the region's economic affairs — named, not placed); History pp. 87–88 (ancestral creations — Aukana and Samadhi statues, Sigiriya, the great tanks — inside §4.3, named, not placed; the identity teaching around them is placed); Religion pp. 56–57 (services rendered by places of religious worship — named, not placed) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/sri-lanka-placements.md. (Book 1 in the Sri Lanka filing.)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka part — culture-and-work/protecting-public-property — 3.7 Let us protect public property — teaches: what public property is (the buildings, equipment and services provided from the public's own contributions, free and open to everyone), why protecting it saves the country's money for development, and the citizen's measures — no misuse, report damage, pay maintenance fees, educate others — Sri Lanka Grade 6 Civic Education, printed p. 77 | Sri Lanka, *Civic Education* (student book), 3.7 Let us protect public property — printed p. 77 |
+
+**Acceptance count: taught in 3 countries (Afghanistan, Iraq, Sri Lanka).**
+
+Sri Lanka's own way (Sri Lanka Grade 6 Civic Education): civics starts inside the child's own school — its history, its people and their duties, its rules, symbols and the pupil's own rights — then widens to the region (the Grama Niladhari ladder up to the province, the officers and councils that serve it) and closes with the good citizen's virtues: polite speech, listening, discipline, telling good from bad, using resources frugally, guarding public property and preserving the local identity with pride.
+
+Searchable tags: protecting public property, Sri Lanka, social studies, culture-and-work

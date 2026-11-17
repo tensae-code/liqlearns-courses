@@ -1,6 +1,6 @@
 # Sources — Who Am I
 
-countries: Eritrea, Serbia, Oman, Colombia
+countries: Eritrea, Serbia, Oman, Colombia, Sri Lanka
 
 **Book 1:** *Citizenship Education for Grade 6 — Textbook* (student book, English) — Title as printed: Citizenship Education for Grade 6 — Textbook. Grade: Grade 6 (student/teacher: STUDENT). Publisher: Ministry of Education, The State of Eritrea; year 2014 (first printed 2014, Sabur Printing Services, Asmara); ISBN 99948-1-743-4. PDF pages: 121 (cover/title page verified against the record title; 2,740,923 bytes and 121 pages, both match the record). Earlier waves: not read before (no earlier wave held this book). Verdict: COMPLETE (civics track — read in full, page by page, to printed p. 115). Contents map: Civics/Citizenship/Government pp. 62–75 (referendum and voting, national principles, government structure, rights and duties), 96–115 (rules, rights and responsibilities, good citizen); Morals/Values pp. 1–18 (responsible young person, family responsibility, honesty, friendship), 19–30 (a good student), 76–85 (patriotism as service), 107–115 (qualities of a good citizen, respecting parents); Integrated SS pp. 31–45 (family and culture, doing good for others, diversity of Eritrean society, religious harmony), 86–95 (national symbols and holidays); History pp. 46–61 (the Eritrean Revolution; the Liberation of Eritrea) — named, not placed (History wave's strand). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/eritrea-placements.md.
 
@@ -28,7 +28,7 @@ Registry note: the original coined string `culture-and-work/who-am-i-knowing-you
 Serbia's own way (Grade 1 Свет око нас): the integrated subject opens with the child herself (me, my feelings, my family) and widens circle by circle — family, home, neighbours, school, street — with rights taught from the first year as inseparable from duties ("every right seeks a duty"), and Serbia's own school slava, Saint Sava's Day on 27 January, taught as every school's feast.
 
 Registry note: the original coined string `first-steps/this-is-me` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/who-am-i`.
-Searchable tags: who am i, Eritrea, Serbia, social studies, first-steps, Oman
+Searchable tags: who am i, Eritrea, Serbia, social studies, first-steps, Oman, Sri Lanka
 
 Oman's own way (Identity and Citizenship Grade 1, Term 1) (teacher guide — evidence): citizenship is its own school subject from age six, built as widening circles — the child first names herself, her feelings and her family, and only then her neighbourhood; the state prints its map and anthem at the front of the teacher's guide, and the fourth unit-component is always participation, not obedience. That evidence is stocked here as the way Oman teaches this thing; it does not change the acceptance count above.
 
@@ -53,3 +53,18 @@ Colombia's own way (Book 2): Escuela Nueva self-paced guides (parts A–D) set i
 
 Registry note: the original coined string `first-steps/who-i-am-and-what-makes-me-unique` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/who-am-i`.
 
+
+**Book 6:** *Civic Education* (student book, English) — Title as printed: CIVIC EDUCATION Grade: Grade 6 (student/teacher: STUDENT) Publisher: Educational Publications Department, Sri Lanka; First Print 2014, Sixth Print 2019; ISBN 978-955-25-0084-8 PDF pages: not stated in the record (no size/pages recorded); read in full, front matter (index at printed p. ix) to the last teaching page (printed p. 91), from the archive.org copy of this same EPD edition — title page verified against the record title (CIVIC EDUCATION, Grade 6, Educational Publications Department, ISBN as above) Earlier waves: not read before (the History and Economics waves read Sri Lanka's Tamil combined Social Education volumes, not this standalone civics book) Verdict: COMPLETE Contents map: Integrated SS pp. 1–60 (Unit 1 Our School pp. 1–39; Unit 2 The Region We Live In pp. 40–60); Civics/Citizenship/Government pp. 40–42 (the administrative system), pp. 52–55 (the officers and institutions that help us), p. 58 (duties of service institutions); Morals/Values pp. 30–33 (rights and duties, inside Unit 1) and pp. 61–91 (Unit 3 A Good Citizen); Geography pp. 43–47 (the region's physical resources and their uses — named, not placed); Economics pp. 48–49 (human resources and the region's economic affairs — named, not placed); History pp. 87–88 (ancestral creations — Aukana and Samadhi statues, Sigiriya, the great tanks — inside §4.3, named, not placed; the identity teaching around them is placed); Religion pp. 56–57 (services rendered by places of religious worship — named, not placed) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/sri-lanka-placements.md. (Book 1 in the Sri Lanka filing.)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka part — first-steps/who-am-i-knowing-myself — 1.3 Who am I? (identity and personal information) — teaches: knowing and proving who you are — name, age and address confirmed from the birth certificate, the electoral register and the Grama Niladari, and setting out one's own bio-data — Sri Lanka Grade 6 Civic Education, printed p. 9 | Sri Lanka, *Civic Education* (student book), 1.3 Who am I? (identity and personal information) — printed p. 9 |
+| Sri Lanka part — first-steps/who-am-i-knowing-myself — 1.3 Who am I? (qualities, talents, weaknesses and aims) — teaches: knowing your good qualities (respect, patience, kindness, truthfulness, honesty, discipline), developing your skills and talents, facing weaknesses and obstacles honestly and setting wholesome aims — with C.W.W. Kannangara, father of free education, and Senaka Bibile as the worked lives — Sri Lanka Grade 6 Civic Education, printed p. 11 | Sri Lanka, *Civic Education* (student book), 1.3 Who am I? (qualities, talents, weaknesses and aims) — printed p. 11 |
+
+**Acceptance count: taught in 4 countries (Eritrea, Serbia, Colombia, Sri Lanka). Oman is named here as teacher-guide evidence only, counted nowhere.**
+
+Sri Lanka's own way (Sri Lanka Grade 6 Civic Education): civics starts inside the child's own school — its history, its people and their duties, its rules, symbols and the pupil's own rights — then widens to the region (the Grama Niladhari ladder up to the province, the officers and councils that serve it) and closes with the good citizen's virtues: polite speech, listening, discipline, telling good from bad, using resources frugally, guarding public property and preserving the local identity with pride.
+
+Registry note: the original coined string `first-steps/who-am-i-knowing-myself` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/who-am-i`.
+
+Searchable tags: who am i, Sri Lanka, social studies, first-steps
