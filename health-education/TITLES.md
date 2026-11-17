@@ -25,3 +25,10 @@ bringing this course to 9 lessons.
 The Health expansion then added: **The Body Systems**
 (`staying-safe/the-body-systems`) — 1 new lesson,
 bringing this course to 10 lessons.
+
+The Health expansion then added (United Kingdom, PE
+carry-forward): **What Health Is**
+(`staying-safe/what-health-is`), **Diseases of Inactivity**
+(`staying-safe/diseases-of-inactivity`) and **The Athlete's
+Mind** (`fair-play-and-the-body/the-athletes-mind`) — 3 new
+lessons, bringing this course to 13 lessons.

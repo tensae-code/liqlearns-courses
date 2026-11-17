@@ -97,6 +97,22 @@ read as a publisher SAMPLE, filed PARTIAL exactly as filed;
 Croatia is student-book stock, inside the acceptance count;
 the new lesson stands at acceptance count 1.
 
+**Health expansion — United Kingdom (PE carry-forward) —
+BUILT 2026-11-16:** 4 placements from the United Kingdom's
+*Edexcel GCSE (9-1) Physical Education Student Book, 2nd
+edition* (student book, Pearson Education, 2016) stocked —
+1 into the existing Preventing Sports Injuries and First Aid
+lesson and 3 as new lessons (What Health Is, Diseases of
+Inactivity, The Athlete's Mind) — bringing this course to
+**13 lessons**. The United Kingdom book is a student book, so
+the United Kingdom is student-book stock, inside the
+acceptance counts; each new lesson stands at acceptance
+count 1, and Preventing Sports Injuries and First Aid now
+stands at 2 countries. The United Kingdom has no Health
+placements file; these 4 placements are PE-phase
+carry-forwards from united-kingdom-pe-placements.md,
+resolved to Health lessons by the Health slug registry.
+
 ## Unit 1 — Staying Safe
 
 1. **Hygiene for Sport — Wash After Exercise** (`staying-safe/hygiene-for-sport`) — personal hygiene around sport: sweat and dirt left unwashed become a breeding place for bacteria — so wash the body after PE and sport, keep sports…
@@ -108,7 +124,10 @@ the new lesson stands at acceptance count 1.
 5. **Staying Safe While Exercising** (`staying-safe/staying-safe-while-exercising`) — the books' precautions for fitness exercise: warm up properly, wear correct sport kit, go from easy to hard, rest in the middle, stop on tiredness …
 6. **Non-communicable Diseases** (`staying-safe/non-communicable-diseases`) — non-communicable diseases: diabetes, hypertension, asthma, heart disease, cancer and obesity — their causes, risks and prevention — taught in Cuba's Grade 2 teacher guide as what obesity is (a chronic disease of excess body fat, spotted with Cuban BMI percentile tables) and the teacher's prevention work (Cuba's teacher guide, evidence only).
 7. **The Body Systems** (`staying-safe/the-body-systems`) — the body systems: skeleton, muscles, digestion, breathing, circulation, nerves, glands, urinary and reproductive systems — how each works — taught in Croatia's vocational Čovjek i zdravlje (student book, publisher SAMPLE) as how the body is built from cells through tissues and organs to organ systems, and blood and its cells as the body's transport and defence system.
+8. **What Health Is** (`staying-safe/what-health-is`) — what health is: complete physical, mental and social well-being — and the dimensions and factors that make it up — taught in the United Kingdom's Edexcel GCSE PE Student Book as physical, emotional and social health, fitness and well-being, and the benefits of physical activity for each kind of health.
+9. **Diseases of Inactivity** (`staying-safe/diseases-of-inactivity`) — diseases of inactivity: the hypokinetic diseases of sitting still — heart disease, hypertension, obesity and diabetes — and how activity prevents them — taught in the United Kingdom's Edexcel GCSE PE Student Book as the consequences of a sedentary lifestyle, and obesity and body types (somatotypes).
 
 ## Unit 2 — Fair Play and the Body
 
 1. **Doping — What It Is and What It Costs** (`fair-play-and-the-body/doping-what-it-is-and-what-it-costs`) — what doping is — prohibited substances an athlete takes to gain strength and energy unfairly, strength not earned by nature or training — why it is…
+2. **The Athlete's Mind** (`fair-play-and-the-body/the-athletes-mind`) — the athlete's mind: mental hygiene in sport — pressure, concentration, imagery, goal-setting, motivation and confidence — taught in the United Kingdom's Edexcel GCSE PE Student Book as mental preparation for performance: arousal, stress and anxiety management, and motivation.

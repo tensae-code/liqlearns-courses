@@ -1,6 +1,6 @@
 # Sources — Preventing Sports Injuries and First Aid
 
-countries: Ethiopia
+countries: Ethiopia, United Kingdom
 
 **Book 1:** *Grade 6 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–95 + front matter (103 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g06-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia
 
 **Book 4:** *Grade 8 Health and Physical Education Teacher Guide* (teacher guide, English) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. TRUNCATED — worst-truncated of the series: the file holds printed pp. 3–50 of 104+ (54 PDF pages); printed pp. 51–104+ (Chapters 4–7 entire) are missing. Printed page = PDF page − 4 (contents scheme; the guide prints no folios). Read in full from 100 DPI renders (no text layer), in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g08-teacher-placements.md.
 
+**Book 5:** *Edexcel GCSE (9-1) Physical Education Student Book, 2nd edition* (student book, English) — Title as printed: Edexcel GCSE (9-1) Physical Education — Tony Scott (cover: "2nd edition") — Grade: GCSE, Years 10–11 (student/teacher: STUDENT) — Publisher: Pearson Education; year first published 2016 (2nd edition; imprint number line 19 18 17 16); ISBN 978 1 29212 988 4 — PDF pages: 228 (cover verified against the record title; file size 20,156,655 B and MD5 match the archive.org item metadata exactly). Verdict: COMPLETE — read in full via the extracted text layer. The book's own "Preparing for your exam" sections (printed pp. 118, 176) are assessment preparation — named here, excluded from placements per the standing exclusions; the glossary (p. 205) and index (p. 210) are inventory-only, named, not placed. Tally: 25 placements — 11 to existing lessons, 14 NEW LESSON NEEDED. United Kingdom's own way: PE at GCSE is an examined academic subject — anatomy, physiology, movement analysis and training theory, plus health, psychology and the sociology of sport, with practical performance in three chosen activities and a written Personal Exercise Programme. Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/united-kingdom-pe-placements.md. The United Kingdom has no Health placements file; this placement is a PE-phase carry-forward, resolved to this Health lesson by the Health slug registry. Book 2 of the placements file, *Edexcel GCSE Physical Education Student Book* (2009 edition, Pearson (Edexcel), archive.org item `edexcelgcsephysi0000scot`), is UNREAD — lending-restricted on archive.org, direct GET returned 401/403, no login routes permitted — with 0 placements; nothing is stocked from it.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 5 — First aid and injury management — the Grade 8 definitions (teacher guide — evidence) | Ethiopia, *Grade 8 Teacher Guide*, §1.5, printed pp. 11–12 (teacher guide — evidence) |
@@ -17,8 +19,9 @@ countries: Ethiopia
 | Sub lesson 2 — Sports injuries — the kinds | Ethiopia, *Grade 7 Student Textbook*, item 3, printed pp. 3–4 and 10–11; and *Grade 7 Teacher Guide*, §1.5, printed pp. 9–11 (teacher guide — evidence) |
 | Sub lesson 3 — First aid and RICE | Ethiopia, *Grade 7 Student Textbook*, item 4, printed p. 5 |
 | Sub lesson 4 — RICER and the first-aid kit (teacher guide — evidence) | Ethiopia, *Grade 7 Teacher Guide*, §1.5, printed pp. 9–11 |
+| United Kingdom — Component 1 Topic 3.5: How to optimise training and prevent injury — training at the right intensity, and preventing injury through technique, clothing, equipment and checks (original string `fitness-and-stretching/preventing-injury-in-training`) | United Kingdom, *Edexcel GCSE (9-1) Physical Education Student Book, 2nd edition* (United Kingdom GCSE Edexcel PE Student Book), Component 1 Topic 3.5, printed p. 101 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, United Kingdom).** United Kingdom is added as student-book stock (see its book line and row below), inside the acceptance count.
 
 The Grade 6 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -30,4 +33,6 @@ Strand note: the Grade 6 injury-prevention item and the Grade 7 injury-kinds ite
 
 The Grade 8 teacher guide is truncated — printed pp. 51–104+ are missing — so its §1.5 evidence is used only at the depth the held pages carry, labelled (teacher guide — evidence). The same §1.5–§1.6 placement's doping half stocks the Doping lesson (Sub lesson 7's prevention line), not this lesson.
 
-Searchable tags: preventing sports injuries, first aid, RICE, RICER, Rest Ice Compression Elevation Referral, sprains dislocations fractures bruising, first aid kit, blood safety, Ethiopia HPE Grades 6–7
+The United Kingdom placement was filed under the original string `fitness-and-stretching/preventing-injury-in-training`, resolved to this EXISTING Health lesson by the Health slug registry (Part 2: Health EXISTING LESSON `staying-safe/preventing-sports-injuries-and-first-aid`) and recorded in the provenance row above. The United Kingdom book is a STUDENT book, so the United Kingdom enters this lesson as student-book stock, inside the acceptance count.
+
+Searchable tags: preventing sports injuries, first aid, optimising training and preventing injury, training intensity, technique clothing equipment checks, Edexcel GCSE Physical Education, United Kingdom GCSE Edexcel PE Student Book, RICE, RICER, Rest Ice Compression Elevation Referral, sprains dislocations fractures bruising, first aid kit, blood safety, Ethiopia HPE Grades 6–7
