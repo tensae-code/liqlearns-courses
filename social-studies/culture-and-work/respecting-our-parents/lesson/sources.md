@@ -1,6 +1,6 @@
 # Sources — Respecting Our Parents
 
-countries: Eritrea, Myanmar
+countries: Eritrea, Myanmar, Mongolia
 
 **Book 1:** *Citizenship Education for Grade 6 — Textbook* (student book, English) — Title as printed: Citizenship Education for Grade 6 — Textbook. Grade: Grade 6 (student/teacher: STUDENT). Publisher: Ministry of Education, The State of Eritrea; year 2014 (first printed 2014, Sabur Printing Services, Asmara); ISBN 99948-1-743-4. PDF pages: 121 (cover/title page verified against the record title; 2,740,923 bytes and 121 pages, both match the record). Earlier waves: not read before (no earlier wave held this book). Verdict: COMPLETE (civics track — read in full, page by page, to printed p. 115). Contents map: Civics/Citizenship/Government pp. 62–75 (referendum and voting, national principles, government structure, rights and duties), 96–115 (rules, rights and responsibilities, good citizen); Morals/Values pp. 1–18 (responsible young person, family responsibility, honesty, friendship), 19–30 (a good student), 76–85 (patriotism as service), 107–115 (qualities of a good citizen, respecting parents); Integrated SS pp. 31–45 (family and culture, doing good for others, diversity of Eritrean society, religious harmony), 86–95 (national symbols and holidays); History pp. 46–61 (the Eritrean Revolution; the Liberation of Eritrea) — named, not placed (History wave's strand). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/eritrea-placements.md.
 
@@ -29,3 +29,20 @@ Myanmar's own way (Book 5): Grade 2 widens Grade 1's values from home to school 
 Registry note: the original coined string `culture-and-work/respecting-parents-and-teachers` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/respecting-our-parents`.
 
 Searchable tags: respecting our parents, Myanmar, social studies, culture-and-work
+
+Mongolia placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *MN Civic Education G1* (student book, Mongolian) — Title as printed: ИРГЭНИЙ БОЛОВСРОЛ I (Civic Education I) — textbook for Grade 1 of the 12-year school Grade: Grade 1 (student/teacher: STUDENT) Publisher: Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2018 (4th printing; first published 2012); ISBN 978-99929-3-405-0 PDF pages: read as the ministry flipbook's 94 page images (the flipbook repeats the book in a second scan pass) = 48 printed pages (cover/title page verified against the record title) Earlier waves: not read before (the earlier waves read only the Social Studies series) Verdict: COMPLETE — full page-by-page read (civics track) Contents map: Morals / manners Topics 1–3, 7 (printed pp. 5–9, 18–20); personal routine and health Topics 4–6 (rising early and dressing for the weather, table manners, sleep — named, not placed: the Health course's ground); Integrated SS / home / culture Topics 8–13 (pp. 21–33); Civics Topics 15–17 (pp. 34–42); the two Conclusion topics and the Reinforcement topic (pp. 32, 43–44) are the book's own assessment — named, not placed Tally: 13 placements — 0 to existing lessons, 13 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mongolia-placements.md. The book's recorded GitHub tree path returns 404 (a phantom push — the four Civic Education books' tree paths return 404 although the push state lists the files as pushed; the mismatch is filed as a library debt in the group log), so the book was read from its recorded ministry source (econtent.edu.mn flipbook, no login), page by page, exactly as filed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia part 1 — culture-and-work/respecting-and-helping-parents — Topic 2 Аав, ээжээ хүндэлье (Let us respect father and mother) — teaches: honouring and caring for one's parents, taught through the cuckoo tale (Хөхөөний үлгэр) — the parent who was neglected in old age — and the chain of care: support, cherish, make happy — Mongolia Grade 1 Civic Education, printed p. 6 | Mongolia, *MN Civic Education G1* (student book), Topic 2 Аав, ээжээ хүндэлье (Let us respect father and mother) — printed p. 6 |
+| Mongolia's way — the books' own teaching way | Mongolia — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 3 countries (Eritrea, Myanmar, Mongolia).**
+
+Mongolia's own way (Book 1): civic education for six-year-olds is pure Mongolian custom — greeting elders the Mongolian way, the ger and the five snouts, colour symbolism, the biyelgee dance and the Tsagaan Sar greeting embrace — with traditional script verses running down every page beside the Cyrillic.
+
+Registry note: the original coined string `culture-and-work/respecting-and-helping-parents` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/respecting-our-parents`.
+
+Searchable tags: respecting our parents, Mongolia, social studies, culture-and-work

@@ -1,0 +1,16 @@
+# Sources — Our Folk Tales
+
+countries: Mongolia
+
+**Book 3:** *Mongolia Civic Education G4* (student book, Mongolian) — Title as printed: ИРГЭНИЙ БОЛОВСРОЛ IV (Civic Education IV) — textbook for Grade 4 of the 12-year general school Grade: Grade 4 (student/teacher: STUDENT) Publisher: Ministry of Education, Culture, Science and Sports, Ulaanbaatar; 2018, third printing; ISBN 978-99929-3-467-0 PDF pages: none — the book's recorded GitHub tree path returns 404 (phantom push, see the library debt at the head of the Mongolia log section), so the book was read in full, page by page, from its recorded ministry source: the econtent.edu.mn flipbook (book ID 243), 78 page images covering the book's 76 printed pages; cover and title page seen and verified against the record title Earlier waves: no earlier wave read the primary Civic Education books Verdict: COMPLETE (read in full, page by page, as the brief requires for the civics track) Contents map: 19 topics — a customs run (Topics 1–14: seasonal greetings, lineage, conduct, habits, food, home, dress, herding, nature, tales, proverbs, games, calendar, Tsagaan Sar) and a civics run (Topics 15–19: how the state serves citizens, pupil self-governance, why rules must be followed, my responsibility, fairness). The two Conclusion units (after Topic 14 and at the end) are the book's own summary/assessment units — named, not placed Tally: 20 placements — 0 to existing lessons, 20 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mongolia-placements.md. The book's recorded GitHub tree path returns 404 (a phantom push — the four Civic Education books' tree paths return 404 although the push state lists the files as pushed; the mismatch is filed as a library debt in the group log), so the book was read from its recorded ministry source (econtent.edu.mn flipbook, no login), page by page, exactly as filed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — culture-and-work/our-folk-tales — Topic 11 "Mongolian tales and legends" (Монгол үлгэр домог) — teaches: every people keeps its treasure in tales — wishes, knowledge, life's lessons and ideals carried from the ancestors; the kinds of tales (animal, magic, heroic, everyday, humorous) and the honoured storyteller (үлгэрч), listened to in silence after the evening milking; the tale of the bat, who lied to both the beasts and the birds and now hides from both — Mongolia Civic Education Grade 4, printed p. 39 | Mongolia, *Mongolia Civic Education G4* (student book), Topic 11 "Mongolian tales and legends" (Монгол үлгэр домог) — printed p. 39 |
+| Sub lesson 2 — Mongolia's way — the books' own teaching way | Mongolia — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Mongolia).**
+
+Mongolia's own way (Book 3): Grade 4 widens "custom" (ёс) into the whole inherited order — greetings, food, dress, herding, tales, games and the calendar are all taught as rules a good person keeps — and then sets beside it the made rules of the state: taxes, the pupils' council, laws from the Great Khural, and fairness as the same rule for everyone.
+
+Searchable tags: our folk tales, Mongolia, social studies, culture-and-work

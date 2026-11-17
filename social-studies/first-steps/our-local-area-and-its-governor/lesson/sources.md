@@ -1,0 +1,16 @@
+# Sources — Our Local Area And Its Governor
+
+countries: Mongolia
+
+**Book 2:** *Mongolia Civic Education G2* (student book, Mongolian) — Title as printed: ИРГЭНИЙ БОЛОВСРОЛ II (Civic Education II) — textbook for Grade 2 of the 12-year general school Grade: Grade 2 (student/teacher: STUDENT) Publisher: Ministry of Education, Culture, Science and Sports, Ulaanbaatar; 2018, fourth printing; ISBN 978-99929-3-406-9 PDF pages: none — the book's recorded GitHub tree path returns 404 (phantom push, see the library debt at the head of the Mongolia log section), so the book was read in full, page by page, from its recorded ministry source: the econtent.edu.mn flipbook (book ID 236), 60 page images covering the book's 58 printed pages; cover and title page seen and verified against the record title Earlier waves: no earlier wave read the primary Civic Education books Verdict: COMPLETE (read in full, page by page, as the brief requires for the civics track) Contents map: 19 topics in four runs — kin, respect, friendship, good and bad deeds (Topics 1–6); Mongolian clothing, livestock, nature protection, the morin khuur, flag and anthem, Naadam (Topics 7–13); participation, safety, property, school rules, our local area (Topics 14–19). Topics 6, 13 and 19 are the book's own Conclusion units — named, not placed (assessment); the closing glossary is inventory only Tally: 16 placements — 0 to existing lessons, 16 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mongolia-placements.md. The book's recorded GitHub tree path returns 404 (a phantom push — the four Civic Education books' tree paths return 404 although the push state lists the files as pushed; the mismatch is filed as a library debt in the group log), so the book was read from its recorded ministry source (econtent.edu.mn flipbook, no login), page by page, exactly as filed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — first-steps/our-local-area-and-its-governor — Topic 18 "Our local area" (Манай орон нутаг) — teaches: our country has 21 aimags, an aimag is made of soums and the soums of bags; the capital Ulaanbaatar has nine districts made of khoroos; a governor (Засаг дарга) — the government's representative — leads the soum, bag, district and khoroo; around the soum administration building stand the people who serve the citizens — police officer, family doctor, social worker, communications officer, nature ranger; my own address written in full, and the services the state gives citizens, such as a grandmother's pension — Mongolia Civic Education Grade 2, printed p. 52 | Mongolia, *Mongolia Civic Education G2* (student book), Topic 18 "Our local area" (Манай орон нутаг) — printed p. 52 |
+| Sub lesson 2 — Mongolia's way — the books' own teaching way | Mongolia — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Mongolia).**
+
+Mongolia's own way (Book 2): Grade 2 civics is taught through custom (ёс) and story — the respect and friendship customs come as a folk tale and a taboo list, property as a quarrel over a borrowed pen — and the state first appears as the soum office and its governor, with the child's own address as the first civic fact.
+
+Searchable tags: our local area and its governor, Mongolia, social studies, first-steps

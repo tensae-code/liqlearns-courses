@@ -1,6 +1,6 @@
 # Sources — Responsibility for Oneself
 
-countries: Laos
+countries: Laos, Mongolia
 
 **Book 1:** *laos-g03-moral-education-teacher-2021* (teacher guide, Lao) — Title as printed: ຄູ່ມືຄູ ຄຸນສົມບັດສຶກສາ ຊັ້ນປະຖົມສຶກສາ ປີທີ 3 (Teacher Guide, Moral Education, Primary Grade 3). Grade: Grade 3 (ປ.3) (student/teacher: TEACHER). Publisher: Ministry of Education and Sports, Educational Science Research Institute; year 2021; no ISBN printed. PDF pages: 72 (cover/title page verified against the record title; 2,038,592 bytes, exact match to the record). Earlier waves: not read before. Verdict: COMPLETE — full page-by-page read of the text-layer guide; the opening lesson (ບົດເປີດຫົວເລື່ອງ, printed p. 6) is a review of Grade 2 and is named here, not placed (revision-lesson exclusion). Contents map: Morals/Values pp. 8–67 (29 lessons); Civics/Citizenship pp. 51–63 within the same run (children's rights, right to protection, village administration); the guide's general introduction pp. 1–5 is apparatus, not placed. Tally: 29 placements — 0 to existing lessons, 29 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/laos-placements.md. Teacher guide — evidence only, outside the acceptance count.
 
@@ -19,3 +19,20 @@ Laos's own way (Book 1): Moral Education is a standalone weekly subject built as
 Laos's own way (Book 12): the last primary moral year widens the circles to their widest — neighbours, hometown, local government, nation, peace and the United Nations — and closes with care of the country's natural resources.
 
 Searchable tags: responsibility for oneself, Laos, social studies, culture-and-work
+
+Mongolia placements — Social Studies remaining strands (2026-11-17):
+
+**Book 3:** *Mongolia Civic Education G4* (student book, Mongolian) — Title as printed: ИРГЭНИЙ БОЛОВСРОЛ IV (Civic Education IV) — textbook for Grade 4 of the 12-year general school Grade: Grade 4 (student/teacher: STUDENT) Publisher: Ministry of Education, Culture, Science and Sports, Ulaanbaatar; 2018, third printing; ISBN 978-99929-3-467-0 PDF pages: none — the book's recorded GitHub tree path returns 404 (phantom push, see the library debt at the head of the Mongolia log section), so the book was read in full, page by page, from its recorded ministry source: the econtent.edu.mn flipbook (book ID 243), 78 page images covering the book's 76 printed pages; cover and title page seen and verified against the record title Earlier waves: no earlier wave read the primary Civic Education books Verdict: COMPLETE (read in full, page by page, as the brief requires for the civics track) Contents map: 19 topics — a customs run (Topics 1–14: seasonal greetings, lineage, conduct, habits, food, home, dress, herding, nature, tales, proverbs, games, calendar, Tsagaan Sar) and a civics run (Topics 15–19: how the state serves citizens, pupil self-governance, why rules must be followed, my responsibility, fairness). The two Conclusion units (after Topic 14 and at the end) are the book's own summary/assessment units — named, not placed Tally: 20 placements — 0 to existing lessons, 20 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mongolia-placements.md. The book's recorded GitHub tree path returns 404 (a phantom push — the four Civic Education books' tree paths return 404 although the push state lists the files as pushed; the mismatch is filed as a library debt in the group log), so the book was read from its recorded ministry source (econtent.edu.mn flipbook, no login), page by page, exactly as filed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia part 1 — first-steps/my-responsibility — Topic 18 "My responsibility" (Миний хүлээх хариуцлага) — teaches: responsibility is answering for what is yours to do — towards yourself and towards others; children bear it too: not taking another's thing without permission is a responsibility because it guards the other's property, and keeping the rules of class and school is every pupil's own duty; and the ladder of who makes the rules I live under — family, school, bag and khoroo, soum and district, aimag and city, the state — Mongolia Civic Education Grade 4, printed p. 69 | Mongolia, *Mongolia Civic Education G4* (student book), Topic 18 "My responsibility" (Миний хүлээх хариуцлага) — printed p. 69 |
+| Mongolia's way — the books' own teaching way | Mongolia — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Mongolia).** Laos is named here as teacher-guide evidence only, counted nowhere.
+
+Mongolia's own way (Book 3): Grade 4 widens "custom" (ёс) into the whole inherited order — greetings, food, dress, herding, tales, games and the calendar are all taught as rules a good person keeps — and then sets beside it the made rules of the state: taxes, the pupils' council, laws from the Great Khural, and fairness as the same rule for everyone.
+
+Registry note: the original coined string `first-steps/my-responsibility` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/responsibility-for-oneself`.
+
+Searchable tags: responsibility for oneself, Mongolia, social studies, culture-and-work

@@ -1,6 +1,6 @@
 # Sources — Social Control Formal and Informal
 
-countries: Fiji, Bangladesh
+countries: Fiji, Bangladesh, Mongolia
 
 **Book 1:** *Social Science Year 9* (student book, English) — Title as printed: SOCIAL SCIENCE YEAR 9 — REDISCOVERING SOCIETY. Grade: Year 9 (student/teacher: STUDENT). Publisher: Ministry of Education, National Heritage, Culture & Arts, Fiji (Curriculum Development Unit), Suva; year 2013 (copyright 2011); ISBN no ISBN printed. PDF pages: 162 (cover verified against the record title; 9,276,692 bytes — byte-identical to the Economics wave's release-verified copy; read from the record's own Wayback source_url after the grab.py routes failed). Earlier waves: Geography wave placed Chapter 3 geography parts; History wave placed Chapter 2 (pp. 77–100); Economics wave placed the scattered economics parts (pp. 11–12, 34, 54, 71). Chapter 1's civics/culture/values parts were named, not placed. Verdict: COMPLETE. Contents map: Integrated SS / Civics / Culture / Morals pp. 7–74 (Chapter 1: Society and Culture, Community Living, NGOs and Regional Organisations); Religion pp. 50–51 (named, not placed); History pp. 77–100; Geography pp. 103–154; Glossary (inventory-only). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/fiji-placements.md.
 
@@ -22,3 +22,20 @@ Bangladesh's own way (Grade 8): sociology is taught as a toolkit for changing on
 Fiji's own way (Grade 9): Society is analysed through Fiji's own structures — the iTaukei hierarchy of Turaga, Sau Turaga, Matanivanua, Bete, Bati, Mataisau, Gonedau and Tauvanua with its ascribed chiefly status — and conflict is settled the iTaukei way, by Bulubulu.
 
 Searchable tags: social control formal and informal, Fiji, social studies, culture-and-work, Bangladesh
+
+Mongolia placements — Social Studies remaining strands (2026-11-17):
+
+**Book 8:** *Mongolia Social Studies G10* (student book, Mongolian) — Title as printed: НИЙГЭМ СУДЛАЛ X (Social Studies X) Grade: Grade 10 (student/teacher: STUDENT) Publisher: Ministry of Education, Culture, Science and Sports, Ulaanbaatar; 2019 PDF pages: 151 (cover verified; the record's GitHub tree path returns 404 in this wave — a phantom push, see the log — and the earlier waves read a release asset; the remaining strands were read here from the book's recorded ministry source, the econtent.edu.mn flipbook, id 263; the book is image-only) Earlier waves: Geography wave placed Chapter II (Culture) topics and Chapter VI topics 6.1–6.3, 6.5–6.6; Economics wave placed Chapter IV (Economics). Geography named 1.1–1.3, Chapter III and Chapter V as not placed — those are read and placed here, with 1.4 (research methods, part of the same Sociology chapter) and 3.4–3.6 read in full Verdict: COMPLETE Contents map: Ch. 1 Society and Social Relations pp. 5–26 (1.5 is the chapter's Conclusion — named, not placed); Ch. 2 Culture (placed by the Geography wave); Ch. 3 Law pp. 49–72 (3.7 is the chapter's Conclusion — named, not placed); Ch. 4 Economics (placed by the Economics wave); Ch. 5 Politics pp. 97–118 (5.5 is the chapter's Conclusion — named, not placed); Ch. 6 International Relations pp. 119–135 — topic 6.4 "Mongolia's relations with its neighbours" (printed p. 129: the balanced-relations principle, the strategic partnerships with Russia and China and their founding treaties) was placed by NO wave: it is foreign-relations content in the Geography wave's scope, named here so it is not lost Tally: 14 placements — 0 to existing lessons, 14 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia part 1 — culture-and-work/deviance-and-social-control — Section 1.3 "Social deviance" — teaches: deviance (нийгмийн гажуудал) is conduct that breaks a society's accepted norms — and the verdict depends on the society and the age: Copernicus's and Bruno's astronomy was deviance to their century, Anna Karenina's love to hers; deviance is not always harm — the women who broke norms to win the vote changed society for the better; the gravest form is crime, read in Mongolia's own 2015 police statistics (24,857 offenders, most of them unemployed); and society answers through social control (нийгмийн хяналт) — informal (disapproval, mockery, shaming, criticism) and formal (the fine, dismissal, imprisonment, worked by police, prosecutor and court) — with the warning that even illness has been labelled deviance when a society chose to — Mongolia Grade 10 Social Studies, printed p. 15 | Mongolia, *Mongolia Social Studies G10* (student book), Section 1.3 "Social deviance" — printed p. 15 |
+| Mongolia's way — the books' own teaching way | Mongolia — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 3 countries (Fiji, Bangladesh, Mongolia).**
+
+Mongolia's own way (Book 8): the senior book teaches society as a science and the state as a machine the citizen operates — sociology's three lenses, the law encountered as real contracts, dismissals and complaints, and democracy measured against Mongolia's own survey numbers.
+
+Registry note: the original coined string `culture-and-work/deviance-and-social-control` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/social-control-formal-and-informal`.
+
+Searchable tags: social control formal and informal, Mongolia, social studies, culture-and-work

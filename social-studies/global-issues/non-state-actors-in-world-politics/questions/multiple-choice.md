@@ -1,0 +1,19 @@
+# Non State Actors in World Politics — multiple choice
+
+Pick the one right answer.
+
+**1. (Sub lesson 1)** The first part of this lesson is —
+a) Topic 6.1 "Non-state actors in international relations"  b) learning the alphabet  c) counting to ten
+**Answer: a) Topic 6.1 "Non-state actors in international relations"**
+
+**2. (Sub lesson 1)** This lesson is mainly about —
+a) The actors states no longer monopolise — the non-state actor defined (any participant acting across borders without government part or support); the kinds, each with its example: international organisations; international NGOs — Transparency International, whose Corruption Perceptions Index judges governments including Mongolia's; transnational corporations — Oyu Tolgoi LLC, whose copper goes wholly to China's market, so that Mongolia's foreign-trade income itself rides on one company's decisions and international law must regulate such power; influential individuals — the Dalai Lama, the Pope, Bill Gates, George Soros, and, on the dark side, Osama bin Laden; religious movements; the international media — CNN's live war reporting of 1991 made the media a true actor, and citizens now speak into world affairs through social networks; and criminal and terrorist networks, fought jointly through Interpol; then the jurist's questions — how an international organisation differs from an INGO (in structure, aims and founders: states create the one, citizens and groups the other), how each becomes a subject of international law with its own rights and duties (the UN Charter's Article 104; the 1982 Law of the Sea Convention), the common ground (both serve shared human aims), and the six schools of theory — realist, liberal, Marxist, neo-Marxist, neo-realist, neo-liberal — set in one table by what each takes the true actor to be  b) ancient kings only  c) the Moon's phases
+**Answer: a) The actors states no longer monopolise — the non-state actor defined (any participant acting across borders without government part or support); the kinds, each with its example: international organisations; international NGOs — Transparency International, whose Corruption Perceptions Index judges governments including Mongolia's; transnational corporations — Oyu Tolgoi LLC, whose copper goes wholly to China's market, so that Mongolia's foreign-trade income itself rides on one company's decisions and international law must regulate such power; influential individuals — the Dalai Lama, the Pope, Bill Gates, George Soros, and, on the dark side, Osama bin Laden; religious movements; the international media — CNN's live war reporting of 1991 made the media a true actor, and citizens now speak into world affairs through social networks; and criminal and terrorist networks, fought jointly through Interpol; then the jurist's questions — how an international organisation differs from an INGO (in structure, aims and founders: states create the one, citizens and groups the other), how each becomes a subject of international law with its own rights and duties (the UN Charter's Article 104; the 1982 Law of the Sea Convention), the common ground (both serve shared human aims), and the six schools of theory — realist, liberal, Marxist, neo-Marxist, neo-realist, neo-liberal — set in one table by what each takes the true actor to be**
+
+**3. (Sub lesson 2)** The second part of this lesson is —
+a) Mongolia's way — the books' own teaching way  b) ancient kings only  c) the Moon's phases
+**Answer: a) Mongolia's way — the books' own teaching way**
+
+**4. (Sub lesson 2)** Which of these is true, from the lesson?
+a) Mongolia's books teach this thing in their own way, as this lesson's way part shows.  b) Mongolia's books never study this thing.  c) This lesson teaches nothing about its topic
+**Answer: a) Mongolia's books teach this thing in their own way, as this lesson's way part shows.**

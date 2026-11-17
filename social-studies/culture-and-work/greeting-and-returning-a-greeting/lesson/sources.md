@@ -1,6 +1,6 @@
 # Sources — Greeting and Returning a Greeting
 
-countries: Algeria, Iraq
+countries: Algeria, Iraq, Mongolia
 
 **Book 1:** *Kitabi: Arabic Language, Islamic Education and Civic Education, Grade 1 unified volume* (student book, Arabic) — Title as printed: كتابي في اللغة العربية، التربية الإسلامية، التربية المدنية (My Book in Arabic Language, Islamic Education, Civic Education) — السنة الأولى من التعليم الابتدائي. Grade: Grade 1 (student/teacher: STUDENT). Publisher: Ministry of National Education, People's Democratic Republic of Algeria; 2016 curriculum (second generation); no ISBN printed on the held cover pages. PDF pages: 144 (cover verified against the record title; the book is an image scan with no text layer). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Arabic language (letters, reading texts) throughout; Islamic Education (one lesson per unit, named, not placed) printed pp. 12–136; Civic Education (one lesson per unit) printed pp. 25, 41, 57, 73, 89, 105, 121, 137; the unit themes themselves are family (Unit 1), school (Unit 2), neighbourhood and village (Unit 3), sport and leisure (Unit 4), environment and nature (Unit 5), cleanliness and health (Unit 6), communication (Unit 7), national occasions (Unit 8). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/algeria-placements-b.md. Staged under the new rule: grade-01/gov/algeria/arabic-language/student/kitabi-arabic-islamic-civic-grade-1.pdf (26,780,780 B) + books.json record.
 
@@ -28,3 +28,20 @@ Iraq placements — Social Studies remaining strands (2026-11-17):
 
 Iraq's own way (Book 2): moral education is a separate subject from Grade 1, taught entirely as stories about five named children (Muhammad, Yusuf, Zahraa, Lana, Sara) whose small school and family incidents carry each value; every lesson ends in the child's own voice — "What I learned" — and the second unit's family tree is drawn with the father's help, branch by branch, until the big family shades them all.
 Registry note: the original coined string `first-steps/greeting-and-getting-to-know-others` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/greeting-and-returning-a-greeting`.
+
+Mongolia placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *MN Civic Education G1* (student book, Mongolian) — Title as printed: ИРГЭНИЙ БОЛОВСРОЛ I (Civic Education I) — textbook for Grade 1 of the 12-year school Grade: Grade 1 (student/teacher: STUDENT) Publisher: Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2018 (4th printing; first published 2012); ISBN 978-99929-3-405-0 PDF pages: read as the ministry flipbook's 94 page images (the flipbook repeats the book in a second scan pass) = 48 printed pages (cover/title page verified against the record title) Earlier waves: not read before (the earlier waves read only the Social Studies series) Verdict: COMPLETE — full page-by-page read (civics track) Contents map: Morals / manners Topics 1–3, 7 (printed pp. 5–9, 18–20); personal routine and health Topics 4–6 (rising early and dressing for the weather, table manners, sleep — named, not placed: the Health course's ground); Integrated SS / home / culture Topics 8–13 (pp. 21–33); Civics Topics 15–17 (pp. 34–42); the two Conclusion topics and the Reinforcement topic (pp. 32, 43–44) are the book's own assessment — named, not placed Tally: 13 placements — 0 to existing lessons, 13 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mongolia-placements.md. The book's recorded GitHub tree path returns 404 (a phantom push — the four Civic Education books' tree paths return 404 although the push state lists the files as pushed; the mismatch is filed as a library debt in the group log), so the book was read from its recorded ministry source (econtent.edu.mn flipbook, no login), page by page, exactly as filed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia part 1 — first-steps/greeting-people-politely — Topic 1 Мэндийн ёс (Greeting manners) — teaches: how Mongolians greet — the greeting words for elders and peers, greeting as respect (мэндлэх — мөнхийн ёс, хүндлэх — хүний ёс: greeting is an eternal custom, respect is a human custom) — Mongolia Grade 1 Civic Education, printed p. 5 | Mongolia, *MN Civic Education G1* (student book), Topic 1 Мэндийн ёс (Greeting manners) — printed p. 5 |
+| Mongolia's way — the books' own teaching way | Mongolia — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 3 countries (Algeria, Iraq, Mongolia).**
+
+Mongolia's own way (Book 1): civic education for six-year-olds is pure Mongolian custom — greeting elders the Mongolian way, the ger and the five snouts, colour symbolism, the biyelgee dance and the Tsagaan Sar greeting embrace — with traditional script verses running down every page beside the Cyrillic.
+
+Registry note: the original coined string `first-steps/greeting-people-politely` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/greeting-and-returning-a-greeting`.
+
+Searchable tags: greeting and returning a greeting, Mongolia, social studies, culture-and-work

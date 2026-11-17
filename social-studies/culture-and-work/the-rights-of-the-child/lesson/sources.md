@@ -1,6 +1,6 @@
 # Sources — The Rights of the Child
 
-countries: Bahrain, Bahamas, Libya, Afghanistan, Guatemala, Angola, Palestine, Papua New Guinea, Cambodia, Jordan, Myanmar, Dominican Republic, Laos
+countries: Bahrain, Bahamas, Libya, Afghanistan, Guatemala, Angola, Palestine, Papua New Guinea, Cambodia, Jordan, Myanmar, Dominican Republic, Laos, Mongolia
 
 **Book 1:** *التربية للمواطنة للصف الرابع الابتدائي (Citizenship Education for the Fourth Primary Grade)* (student book, Arabic) — Title as printed: التربية للمواطنة للصف الرابع الابتدائي (Citizenship Education for the Fourth Primary Grade). Grade: Grade 4 Primary (student/teacher: STUDENT). Publisher: Ministry of Education, Kingdom of Bahrain; authorship panel of MoE social-studies curriculum specialists (lead author Safia Khalifa al-Shorouqi); first edition 1431 AH / 2010 CE (experimental edition 1426 AH / 2005 CE); no ISBN printed. PDF pages: 66 (cover/title page verified against the record title — the GEI Edumedia Depot item 11163/6396 named in the record; 20,026,775 bytes; image-only legacy-font PDF, read in full from 100-DPI renders, 17 contact sheets). Earlier waves: not read before (Bahrain is link-only in all three earlier waves; no earlier-wave placements file exists for this country). Verdict: COMPLETE — standalone primary civics book, read page by page to the last teaching page (printed p. 64); the references list (printed pp. 65–66) is inventory-only, named not placed. Lesson 9 is Economics and is named in the contents map, not placed. Contents map: Civics/Citizenship/Government pp. 9–46, 53–64 (Lessons 1–8, 10–11); Integrated SS pp. 15–26 (Lessons 2–4: government services, family and society, the friends group); Morals/Values throughout (citizen's values in Lesson 1; friendship qualities and manners in Lesson 4; leader's qualities in Lesson 7); Economics p. 47 (Lesson 9, family income sources and daily dealings — jobs, the family's economic role, household spending and saving, with Constitution Arts. 13/16 on work quoted inside it — named, not placed: Economics strand). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/bahrain-placements-b.md.
 
@@ -189,3 +189,20 @@ Laos's own way (Book 1): Moral Education is a standalone weekly subject built as
 Registry note: the original coined string `culture-and-work/childrens-rights` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/the-rights-of-the-child`.
 
 Searchable tags: the rights of the child, Laos, social studies, culture-and-work
+
+Mongolia placements — Social Studies remaining strands (2026-11-17):
+
+**Book 5:** *Mongolia Social Studies G7* (student book, Mongolian) — Title as printed: НИЙГЭМ СУДЛАЛ VII (Social Studies VII) Grade: Grade 7 (student/teacher: STUDENT) Publisher: Ministry of Education, Culture, Science and Sports, Ulaanbaatar; 2019 (2nd edition); ISBN 978-99978-61-03-0 PDF pages: 99 (cover verified against the record title; 48,845,405 bytes, matching the earlier waves' verified size; fetched via the mid-size-books release asset). The PDF is image-only; the remaining strands were read from page renders Earlier waves: Geography wave placed 1.4 (conflict resolution) and 2.1–2.3 (culture chapter); Economics wave placed Chapter III entire (3.1–3.5). Both waves named Chapters I (1.1–1.3), IV and V as not placed — those are read and placed here Verdict: COMPLETE Contents map: Ch. I Individual and Society pp. 7–20; Ch. II Individual and Culture pp. 23–35 (Geography); Ch. III Individual and Economy pp. 39–54 (Economics); Ch. IV Human Rights and Law pp. 59–75; Ch. V Collective Governance pp. 80–93; glossary p. 94 (inventory only). Sections 4.5 and 5.4 are the chapters' own Conclusion units — named, not placed Tally: 10 placements — 0 to existing lessons, 10 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mongolia part 1 — culture-and-work/how-children-defend-their-rights — Section 4.3 "How do children protect their rights?" — teaches: a violated right is defended by complaint (гомдол) and formal request (хүсэлт) to the right door — the school director for the library's poor stock of books, the teacher and school social worker for mocking nicknames, the cinema manager for the cloakroom, the police for the computer a friend borrowed and will not return, the court for a debt unpaid; the pupil writes a real request to the school director in the official form, and learns the steps of defence in order — Mongolia Grade 7 Social Studies, printed p. 68 | Mongolia, *Mongolia Social Studies G7* (student book), Section 4.3 "How do children protect their rights?" — printed p. 68 |
+| Mongolia's way — the books' own teaching way | Mongolia — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 12 countries (Bahrain, Bahamas, Libya, Afghanistan, Guatemala, Angola, Palestine, Cambodia, Jordan, Myanmar, Dominican Republic, Mongolia).**
+
+Mongolia's own way (Book 5): the secondary spiral teaches civics as the child's widening circles of membership — my groups, my rights, our decisions — and the law chapter is built from the child's own day: the borrowed phone, the noisy neighbours, the boy taken out of school to work.
+
+Registry note: the original coined string `culture-and-work/how-children-defend-their-rights` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/the-rights-of-the-child`.
+
+Searchable tags: the rights of the child, Mongolia, social studies, culture-and-work

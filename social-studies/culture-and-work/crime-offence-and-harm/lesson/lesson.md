@@ -1,0 +1,22 @@
+# Crime Offence And Harm
+
+## Do it first
+
+Before you read on, say in your mind what you already think this is about: Kant's line as the motto — fair criticism is the best prevention of crime; the burglary case that opens it (B climbed through Zh's window twice, and the second time beat him when challenged — whose rights were violated, and what should each man have done?); the master distinction, drawn as a diagram: a legal violation (эрх зүйн зөрчил) splits into crime (гэмт хэрэг) — only what the Criminal Code names, answered by criminal liability — and the non-crime offences (administrative, property and disciplinary), with theft written out in both codes side by side (the Criminal Code of 2015 against the Offences Law of 2017, where the same taking without criminal marks is an administrative offence answered by compulsory training or arrest of seven to thirty days); the offence tables for copyright and for children's rights, with their fines in tögrög; harm itself analysed — гэм хор as the genus, damage (хохирол, the direct result) against loss (хор уршиг, what flows from it) — and the Civil Code's remedies by the kind of harm: to property (restore the thing, replace it alike, repair it, or pay), to honour (compensation assessed in money, an apology demanded, lost income restored), to health (lost wages and the costs of care), to life (funeral costs and support for those the dead person maintained); the first move when a crime is known — inform the police at once, for failing to report is itself an offence; and the lawyer's place — legal aid as a constitutional right, the Bar's register (2,738 licensed advocates in 2018), and the free state advocate for those who cannot pay (the 2013 law; 58 branches) — as Mongolia's books teach it. Hold your idea; the lesson will test it.
+
+## Sub lesson 1 — Topic 3.3 "Preventing crime and offences"
+
+Mongolia Grade 11 Social Studies, printed p. 81, teaches: Kant's line as the motto — fair criticism is the best prevention of crime; the burglary case that opens it (B climbed through Zh's window twice, and the second time beat him when challenged — whose rights were violated, and what should each man have done?); the master distinction, drawn as a diagram: a legal violation (эрх зүйн зөрчил) splits into crime (гэмт хэрэг) — only what the Criminal Code names, answered by criminal liability — and the non-crime offences (administrative, property and disciplinary), with theft written out in both codes side by side (the Criminal Code of 2015 against the Offences Law of 2017, where the same taking without criminal marks is an administrative offence answered by compulsory training or arrest of seven to thirty days); the offence tables for copyright and for children's rights, with their fines in tögrög; harm itself analysed — гэм хор as the genus, damage (хохирол, the direct result) against loss (хор уршиг, what flows from it) — and the Civil Code's remedies by the kind of harm: to property (restore the thing, replace it alike, repair it, or pay), to honour (compensation assessed in money, an apology demanded, lost income restored), to health (lost wages and the costs of care), to life (funeral costs and support for those the dead person maintained); the first move when a crime is known — inform the police at once, for failing to report is itself an offence; and the lawyer's place — legal aid as a constitutional right, the Bar's register (2,738 licensed advocates in 2018), and the free state advocate for those who cannot pay (the 2013 law; 58 branches). This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Sub lesson 2 — Mongolia's way — the books' own teaching way
+
+Mongolia's own way: the final year goes deep on law as the citizen's toolkit — property, harm, crime, the complaint against the state itself, and the national and UN machinery that guards rights — with sociology closing on how societies change and what moves them. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Say it to your companion
+
+Explain this lesson to your companion in your own words. Your companion asks you one hard question about it — answer from the lesson.
+
+## Do It Yourself
+
+1. Topic 3.3 "Preventing crime and offences": do the activity in hands-on.md under this name.
+2. Mongolia's way — the books' own teaching way: do the activity in hands-on.md under this name.

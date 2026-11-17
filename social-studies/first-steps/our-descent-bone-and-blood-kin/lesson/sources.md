@@ -1,0 +1,16 @@
+# Sources — Our Descent Bone And Blood Kin
+
+countries: Mongolia
+
+**Link book L1:** *Mongolia Civic Education G3* (student book, Mongolian; books.json-unheld link record, read from its recorded ministry source and staged under the 2026-11-13 rule) — Title as printed: ИРГЭНИЙ БОЛОВСРОЛ III (Civic Education III) — textbook for Grade 3 of the 12-year general school Grade: Grade 3 (student/teacher: STUDENT) Publisher: Ministry of Education, Culture, Science and Sports, Ulaanbaatar; 2018, fourth printing; ISBN 978-99929-3-407-7 PDF pages: the book is 66 printed pages. Its books.json record was unheld (no file in GitHub, none on disk), so it was read from its recorded ministry source, the econtent.edu.mn flipbook (book ID 232), and assembled into a PDF which is staged in phase3-staging (grade-03/gov/mongolia/mongolia-grade-03-civic-education.pdf, 9,289,895 bytes). Two flipbook pages — printed pp. 7–8, the end of Topic 1 and the opening page of Topic 2 — are missing on the ministry server itself (the page requests return the site's HTML fallback, retried over http and https); everything else was read in full, page by page. Cover and title page seen and verified against the record title Earlier waves: no earlier wave read the primary Civic Education books Verdict: COMPLETE with the two server-missing pages noted (Topic 2 placed from its surviving pages 9–10) Contents map: 15 teaching topics — descent, harmony, good deeds, bad deeds (Topics 1–4); moving camp, herding knowledge, mother nature, state banner and emblem, long song and throat singing, our locality's customs (Topics 6–11); joint decision, our pride, equal rights, keeping our rules, our state and government (Topics 13–17). Topics 5, 12 and 18 are the book's own Conclusion units — named, not placed; the closing glossary is inventory only Tally: 15 placements — 0 to existing lessons, 15 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — first-steps/our-descent-bone-and-blood-kin — Topic 1 "Our descent" (Манай удам) — teaches: father's kin are "bone kin" (яс төрөл) and mother's kin "blood kin" (цусан төрөл); the generations above me are named up the tree, and the genealogy chart is drawn with its signs; Chinggis Khan knew his own descent for twenty-two generations, and the ancestors kept the genealogy book so the line stays pure — "if the source is muddy, the stream is muddy" — Mongolia Civic Education Grade 3, printed p. 5 | Mongolia, *Mongolia Civic Education G3* (student book), Topic 1 "Our descent" (Манай удам) — printed p. 5 |
+| Sub lesson 2 — Mongolia's way — the books' own teaching way | Mongolia — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Mongolia).**
+
+Mongolia's own way (Link book L1): Grade 3 turns from the family to the whole moral order — deeds and their fruits, the moving camp, the spirits of land and water, the state's banner and emblem — and ends with the child's first political ideas: deciding together, equal rights, and a government the citizens elect and pay for.
+
+Searchable tags: our descent bone and blood kin, Mongolia, social studies, first-steps
