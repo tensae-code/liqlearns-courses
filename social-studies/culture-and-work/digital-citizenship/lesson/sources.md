@@ -1,0 +1,16 @@
+# Sources — Digital Citizenship
+
+countries: Mexico
+
+**Book 1:** *Ética, naturaleza y sociedades 2, secundaria* (student book, Spanish) — Title as printed: Colección Sk'asolil. Ética, naturaleza y sociedades. Segundo grado de secundaria (formato accesible). Grade: Grade 8 — Segundo grado de secundaria (student/teacher: STUDENT). Publisher: Secretaría de Educación Pública (SEP), Dirección General de Materiales Educativos; year 2023, revised edition 2024; ISBN 978-607-579-097-8 (complete work 978-607-579-094-7). PDF pages: 320 (cover/title page verified against the record title; fetched file 1.5 MB from the record's SEP source_url). Earlier waves: not read before. Verdict: COMPLETE — contents mapped; the whole Formación Cívica y Ética section (the book's only remaining strand — this grade's volume has no Geografía article set) read article by article. Contents map: Civics/Citizenship/Government pp. 222–345 (the whole Formación Cívica y Ética section); Morals/Values pp. 259–282, 293–300 (mediation and peace-culture decision-making, ethical judgement); History pp. 14–221 (the Historia article set, from Columbus to the EZLN — named, not placed); Science — the "naturaleza" strand appears inside the civics section only as the ethics-of-sustainable-development article, pp. 283–292, placed in this wave; closing reader questionnaire p. 351 is apparatus, not placed. Book 3 in the Mexico filing (mexico-placements.md); its Telesecundaria parallel edition (Book 4 in the filing) is RECORD-ONLY — a full-text diff showed the two texts identical apart from the edition label itself; placed once, under this book, both editions named here, as filed. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mexico-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — culture-and-work/digital-citizenship — Proyectos orientados a resolver problemas de violencia escolar y de género aprovechando los recursos de la ciudadanía digital — teaches: digital citizenship — knowing the virtual space's resources and its role in exercising fundamental rights — and using ICT to inform, organise and act, as a strategy against school and gender violence and for strengthening democracy — Mexico Grade 8 Ética, naturaleza y sociedades 2 (secundaria), printed pp. 319–330 | Mexico, *Ética, naturaleza y sociedades 2, secundaria* (student book), Proyectos orientados a resolver problemas de violencia escolar y de género aprovechando los recursos de la ciudadanía digital — printed pp. 319–330 |
+| Sub lesson 2 — Mexico's way — the book's own teaching way | Mexico — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Mexico).**
+
+Mexico's own way (Grade 8 Ética, naturaleza y sociedades): the second year turns from living together to judging and acting — pupils weigh ethical judgements on real injustice, learn how laws are made and changed in Mexico's own Congress, practise mediation, and end as watchdogs: citizen participation is taught as the duty to see public money administered with honesty, transparency and legality.
+
+Searchable tags: digital citizenship, Mexico, social studies, culture-and-work

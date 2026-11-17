@@ -1,6 +1,6 @@
 # Sources — Conflicts over resources — what the fight is about
 
-countries: Ethiopia, Samoa, Colombia, Malaysia, Slovenia, Syria
+countries: Ethiopia, Samoa, Colombia, Malaysia, Slovenia, Syria, Mexico
 
 **Book 1:** *Geography, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Produced by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. First published 2023 under GEQIP-E. ISBN 978-99990-0-051-2. 248 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g12-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Samoa, Colombia, Malaysia, Slovenia, Syria
 
 **Book 7:** *الجغرافية — الثالث الثانوي الأدبي (Geography, Third Secondary, Literary), كتاب الطالب (Student Book)* (student book, Arabic) — Ministry of Education, Syrian Arab Republic; year 2025–2026; no ISBN printed. Title as printed: الجغرافية — الثالث الثانوي الأدبي (Geography, Third Secondary, Literary), كتاب الطالب (Student Book). Grade: Grade 12 (student/teacher: STUDENT). PDF pages: 280 (cover/title page verified against the record title; grabbed via the repo release route, 254,021,461 bytes = record size exactly). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/syria-placements.md.
 
+**Book 8:** *Ética, naturaleza y sociedades 1, secundaria* (student book, Spanish) — Title as printed: Colección Ximhai. Ética, naturaleza y sociedades. Primer grado de secundaria (formato accesible). Grade: Grade 7 — Primer grado de secundaria (student/teacher: STUDENT). Publisher: Secretaría de Educación Pública (SEP), Dirección General de Materiales Educativos; year 2023, revised edition 2024 (school cycle 2024-2025); ISBN 978-607-579-089-3 (complete work 978-607-579-085-5). PDF pages: 311 (cover/title page verified against the record title — accessible edition opens with the printed title page as text; fetched file 1.5 MB from the record's SEP source_url). Earlier waves: not read before (no Mexico filings in the Geography, History or Economics waves). Verdict: COMPLETE — contents mapped in full; every remaining-strand article read page by page (the Formación Cívica y Ética section entire, plus the conflict, pluricultural-identity and community articles filed under Geografía). Contents map: Integrated SS pp. 116–135 (community problems and community responsibility); Civics/Citizenship/Government pp. 302–343 (the whole Formación Cívica y Ética section); Morals/Values pp. 302–307, 336–339 (coexistence without discrimination, culture of peace, intercultural respect); Geography pp. 16–151 (the Geografía article set — named, not placed); History pp. 153–300 (the Historia article set, including its anti-racism and women's-rights articles — named, not placed); Science — the "naturaleza" strand runs inside the Geografía articles (waters, relief, climate, biodiversity — named, not placed); closing reader questionnaire p. 351 is apparatus, not placed. Book 1 in the Mexico filing (mexico-placements.md); its Telesecundaria parallel edition (Book 2 in the filing) is RECORD-ONLY — a full-text diff showed the two editions are the same book (identical contents, articles and page plan) apart from the Telesecundaria label on the title page and line-wrap artefacts; placed once, under this book, both editions named here, as filed. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mexico-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Categories — what is at stake | G12 student #39, printed pp. 69–73 |
@@ -26,12 +28,15 @@ countries: Ethiopia, Samoa, Colombia, Malaysia, Slovenia, Syria
 | Malaysia part (MY T3 Geografi Tingkatan 3) — Bab 9: distribution of the world's main natural resources and world resource crises (placement slug: resources-and-conflict/conflict-over-resources) | Malaysia, *MY T3 Geografi*, Bab 9: distribution of the world's main natural resources and world resource crises — printed pp. 148-156 |
 | Slovenia part — Krizna območja (crisis areas) inside Izbrani svetovni problemi II | Slovenia, *Slovenia Grade 8 Geografija 8*, Krizna območja (crisis areas) inside Izbrani svetovni problemi II — printed p. 168 |
 | Syria part — Water in the Arab homeland: a looming crisis and future conflict | Syria, *Syria Grade 12 Geography G12-Literary*, Water in the Arab homeland: a looming crisis and future conflict — printed p. 46 |
+| Sub lesson — resources-and-conflict/conflicts-over-resources-what-the-fight-is-about — Alternativas de solución justas y pacíficas a los conflictos territoriales / Luchas actuales en México por los derechos territoriales — teaches: territorial conflicts happen at every scale, between nations and between states, towns and neighbourhoods of one country, and are fought mainly over natural resources — worked through the Chimalapas case (Oaxaca–Chiapas, the Zoque people, logging concessions and a Canadian mining concession) — Mexico Grade 7 Ética, naturaleza y sociedades 1 (secundaria), printed pp. 27–29 | Mexico, *Ética, naturaleza y sociedades 1, secundaria* (student book), Alternativas de solución justas y pacíficas a los conflictos territoriales / Luchas actuales en México por los derechos territoriales — printed pp. 27–29 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Samoa, Colombia, Malaysia, Slovenia, Syria).**
+**Acceptance count: taught in 7 countries (Ethiopia, Samoa, Colombia, Malaysia, Slovenia, Syria, Mexico).**
+
+Mexico's own way (Grade 7 Ética, naturaleza y sociedades): one combined volume per grade under the Nueva Escuela Mexicana, built as teacher-written narrative articles grouped by discipline area; civics is taught as rights-in-action — discrimination, violence and public service are each opened from the pupil's own school and community, and Mexico's pluricultural nationhood is anchored in Article 2 of its own Constitution.
 
 No book error in the placements for this lesson is taught here. Categories and contests are taught exactly as the placements report them.
 
-Searchable tags: resource conflicts, ownership, access, extractive resources, distribution, social studies
+Searchable tags: resource conflicts, ownership, access, extractive resources, distribution, social studies, Mexico
 
 Samoa's own way (Year 10, Book 3): Access to resources is split into economic and social factors with Pacific examples, and development is taught as change that can bring conflict in places — ending in consensus-building and appropriate technology for small island states.
 
