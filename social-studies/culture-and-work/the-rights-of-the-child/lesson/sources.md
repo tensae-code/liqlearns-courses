@@ -1,6 +1,6 @@
 # Sources — The Rights of the Child
 
-countries: Bahrain, Bahamas, Libya, Afghanistan, Guatemala, Angola, Palestine, Papua New Guinea, Cambodia, Jordan, Myanmar, Dominican Republic
+countries: Bahrain, Bahamas, Libya, Afghanistan, Guatemala, Angola, Palestine, Papua New Guinea, Cambodia, Jordan, Myanmar, Dominican Republic, Laos
 
 **Book 1:** *التربية للمواطنة للصف الرابع الابتدائي (Citizenship Education for the Fourth Primary Grade)* (student book, Arabic) — Title as printed: التربية للمواطنة للصف الرابع الابتدائي (Citizenship Education for the Fourth Primary Grade). Grade: Grade 4 Primary (student/teacher: STUDENT). Publisher: Ministry of Education, Kingdom of Bahrain; authorship panel of MoE social-studies curriculum specialists (lead author Safia Khalifa al-Shorouqi); first edition 1431 AH / 2010 CE (experimental edition 1426 AH / 2005 CE); no ISBN printed. PDF pages: 66 (cover/title page verified against the record title — the GEI Edumedia Depot item 11163/6396 named in the record; 20,026,775 bytes; image-only legacy-font PDF, read in full from 100-DPI renders, 17 contact sheets). Earlier waves: not read before (Bahrain is link-only in all three earlier waves; no earlier-wave placements file exists for this country). Verdict: COMPLETE — standalone primary civics book, read page by page to the last teaching page (printed p. 64); the references list (printed pp. 65–66) is inventory-only, named not placed. Lesson 9 is Economics and is named in the contents map, not placed. Contents map: Civics/Citizenship/Government pp. 9–46, 53–64 (Lessons 1–8, 10–11); Integrated SS pp. 15–26 (Lessons 2–4: government services, family and society, the friends group); Morals/Values throughout (citizen's values in Lesson 1; friendship qualities and manners in Lesson 4; leader's qualities in Lesson 7); Economics p. 47 (Lesson 9, family income sources and daily dealings — jobs, the family's economic role, household spending and saving, with Constitution Arts. 13/16 on work quoted inside it — named, not placed: Economics strand). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/bahrain-placements-b.md.
 
@@ -170,3 +170,22 @@ Dominican Republic's own way (Book 7): the youngest Libro Abierto volume builds 
 Registry note: the original coined string `culture-and-work/rights-of-children-and-adolescents` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/the-rights-of-the-child`.
 
 Searchable tags: the rights of the child, Dominican Republic, social studies, culture-and-work
+
+Laos placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *laos-g03-moral-education-teacher-2021* (teacher guide, Lao) — Title as printed: ຄູ່ມືຄູ ຄຸນສົມບັດສຶກສາ ຊັ້ນປະຖົມສຶກສາ ປີທີ 3 (Teacher Guide, Moral Education, Primary Grade 3). Grade: Grade 3 (ປ.3) (student/teacher: TEACHER). Publisher: Ministry of Education and Sports, Educational Science Research Institute; year 2021; no ISBN printed. PDF pages: 72 (cover/title page verified against the record title; 2,038,592 bytes, exact match to the record). Earlier waves: not read before. Verdict: COMPLETE — full page-by-page read of the text-layer guide; the opening lesson (ບົດເປີດຫົວເລື່ອງ, printed p. 6) is a review of Grade 2 and is named here, not placed (revision-lesson exclusion). Contents map: Morals/Values pp. 8–67 (29 lessons); Civics/Citizenship pp. 51–63 within the same run (children's rights, right to protection, village administration); the guide's general introduction pp. 1–5 is apparatus, not placed. Tally: 29 placements — 0 to existing lessons, 29 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/laos-placements.md. Teacher guide — evidence only, outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laos part 1 — culture-and-work/childrens-rights — Lesson 28 Children's rights — teaches: the rights every child holds (ສິດທິເດັກ), named and discussed as the child's own — Laos Grade 3 laos-g03-moral-education-teacher-2021, printed p. 63 (teacher guide — evidence) | Laos, *laos-g03-moral-education-teacher-2021* (teacher guide), Lesson 28 Children's rights — printed p. 63 (teacher guide — evidence) |
+| Laos's way — the books' own teaching way | Laos — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 11 countries (Bahrain, Bahamas, Libya, Afghanistan, Guatemala, Angola, Palestine, Cambodia, Jordan, Myanmar, Dominican Republic).** Laos is named here as teacher-guide evidence only, counted nowhere.
+
+Laos's teacher-guide placements in this section are evidence only, outside the acceptance count; the acceptance count above is unchanged.
+
+Laos's own way (Book 1): Moral Education is a standalone weekly subject built as one short story-and-discussion lesson per value, sequenced self → family → friends → school → nation → the world; the same value returns at the next grade widened (the guide prints a Grade 2 ↔ Grade 3 lesson comparison table for planning).
+
+Registry note: the original coined string `culture-and-work/childrens-rights` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/the-rights-of-the-child`.
+
+Searchable tags: the rights of the child, Laos, social studies, culture-and-work

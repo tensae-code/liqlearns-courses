@@ -1,6 +1,6 @@
 # Sources — Not Taking What is Not Given
 
-countries: Vietnam
+countries: Vietnam, Laos
 
 **Book 1:** *Đạo đức 1* (student book, Vietnamese) — Title as printed: ĐẠO ĐỨC 1 — Kết nối tri thức với cuộc sống Grade: Grade 1 (student/teacher: STUDENT) Publisher: Nhà xuất bản Giáo dục Việt Nam (NXBGD); year 2020 (copyright); editor-in-chief Phạm Vĩnh Thái; ISBN 978-604-0-19563-0; book code G1HH1G001h26 PDF pages: 74 per the record (read as the publisher's 74 page images, printed pp. 1–71 plus covers; cover verified against the record title) Earlier waves: not read before Verdict: COMPLETE Contents map: Morals/Values pp. 14–55 (family love and care, school rules, orderly living, doing one's own work, honesty); Integrated SS pp. 28–37 (school and class as the child's community, inside the school-rules theme) and p. 56 (road safety as community life); Health (named, not placed) pp. 6–13 (Theme 1 Self-care: hands, teeth, bathing, clothes — body hygiene, the Health course's) and pp. 58–70 (Theme 8 accident prevention: drowning, burns, falls, electric shock, food poisoning, abuse prevention — personal safety, the Health course's); glossary p. 71 (inventory only) Tally: 20 placements — 0 to existing lessons, 20 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/vietnam-placements.md.
 
@@ -21,3 +21,27 @@ Vietnam's own way (Book 4): Grade 4 turns outward to society's work and property
 Registry note: the original coined string `culture-and-work/not-taking-other-peoples-things` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/not-taking-what-is-not-given`.
 
 Searchable tags: not taking what is not given, Vietnam, social studies, culture-and-work
+
+Laos placements — Social Studies remaining strands (2026-11-17):
+
+**Book 8:** *laos-g02-moral-education-teacher-2020* (teacher guide, Lao) — Title as printed: ຄູ່ມືຄູ ຄຸນສົມບັດສຶກສາ ຊັ້ນປະຖົມສຶກສາ ປີທີ 2 (Teacher Guide, Moral Education, Primary Grade 2). Grade: Grade 2 (ປ.2) (student/teacher: TEACHER). Publisher: Ministry of Education and Sports, Educational Science Research Institute; year 2020; ISBN 978-9932-00-266-5. PDF pages: 127 (title page verified against the record title; 3,204,079 bytes, exact match to the record — fetched from the record's mirror source_url after the tree route failed; the file is a print-ready PDF whose page 1 is the back cover). Earlier waves: not read before. Verdict: COMPLETE — full read of the text-layer guide; the opening lesson (printed p. 7) reviews Grade 1 and the appendix (printed p. 113) is apparatus — named, not placed. Contents map: Morals/Values pp. 12–112 (29 lessons). Tally: 29 placements — 0 to existing lessons, 29 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/laos-placements.md. Teacher guide — evidence only, outside the acceptance count.
+
+**Book 9:** *laos-g01-moral-education-teacher-2020* (teacher guide, Lao) — Title as printed: ຄູ່ມືຄູ ຄຸນສົມບັດສຶກສາ ຊັ້ນປະຖົມສຶກສາ ປີທີ 1 (Teacher Guide, Moral Education, Primary Grade 1). Grade: Grade 1 (ປ.1) (student/teacher: TEACHER). Publisher: Ministry of Education and Sports, Educational Science Research Institute; year 2020; no ISBN printed (the imprint's ISBN line is blank in this printing). PDF pages: 162 (title page verified against the record title; 3,909,001 bytes, exact match to the record — fetched from the record's mirror source_url after the tree route failed). Earlier waves: not read before. Verdict: COMPLETE — full read of the text-layer guide; the introductory week (printed pp. 1–40) is orientation apparatus and Lesson 30 (printed p. 150) is the closing lesson of the school year — named, not placed. Contents map: Morals/Values pp. 55–149 (Lessons 1–29). Tally: 29 placements — 1 to existing lessons, 28 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/laos-placements.md. Teacher guide — evidence only, outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laos part 1 — culture-and-work/not-taking-what-is-not-given-rightly — Lesson 15 Receiving things the wrong way — teaches: not taking or accepting things that come wrongly — what is not yours or not honestly given is not yours to take — Laos Grade 2 laos-g02-moral-education-teacher-2020, printed p. 57 (teacher guide — evidence) | Laos, *laos-g02-moral-education-teacher-2020* (teacher guide), Lesson 15 Receiving things the wrong way — printed p. 57 (teacher guide — evidence) |
+| Laos part 2 — culture-and-work/not-taking-what-is-not-given-rightly — Lesson 15 Giving and receiving wrongly — teaches: there is a wrong way to give and to receive; honest exchange only — Laos Grade 1 laos-g01-moral-education-teacher-2020, printed p. 102 (teacher guide — evidence) | Laos, *laos-g01-moral-education-teacher-2020* (teacher guide), Lesson 15 Giving and receiving wrongly — printed p. 102 (teacher guide — evidence) |
+| Laos's way — the books' own teaching way | Laos — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Vietnam).** Laos is named here as teacher-guide evidence only, counted nowhere.
+
+Laos's teacher-guide placements in this section are evidence only, outside the acceptance count; the acceptance count above is unchanged.
+
+Laos's own way (Book 8): Grade 2 widens Grade 1's start (road, school, family) into duties — classroom rules, care of the national flag, responsibility for shared property, and keeping the community environment clean.
+
+Laos's own way (Book 9): the subject opens in the first weeks of a child's schooling with the road, the school and the flag, then moves home — thank-you and sorry, elders, neighbours — ending the year by widening respect to the whole community.
+
+Registry note: the original coined string `culture-and-work/not-taking-what-is-not-given-rightly` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/not-taking-what-is-not-given`.
+
+Searchable tags: not taking what is not given, Laos, social studies, culture-and-work

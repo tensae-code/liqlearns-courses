@@ -1,6 +1,6 @@
 # Sources — Punctuality Valuing Time
 
-countries: Syria, Iraq
+countries: Syria, Iraq, Laos
 
 **Book 1:** *الدراسات الاجتماعية — الصف الثالث الأساسي (Social Studies, Third Grade Basic)* (student book, Arabic) — Title as printed: الدراسات الاجتماعية — الصف الثالث الأساسي (Social Studies, Third Grade Basic). Grade: Grade 3 (student/teacher: STUDENT). Publisher: Ministry of Education, Syrian Arab Republic; year 2025–2026 (1446–1447 H), first printed 2018–2019; no ISBN printed. PDF pages: 112 (cover/title page verified visually against the record title; 123,495,616 bytes = the record's size exactly. The GitHub release route was unreachable this session — GitHub API disconnects — so the book was fetched from the links file's Wayback capture of the ministry curricula portal PDF, the same file the release asset was made from; the book is already secured in GitHub, so nothing is staged). Earlier waves: Geography wave placed pp. 37, 63–95 (road safety, environment, homeland geography); History wave placed pp. 20–23, 96–107 (memory of a homeland, antiquities); Economics wave placed pp. 50–55 and named the rest. Verdict: COMPLETE. Contents map: Integrated SS pp. 5–32 (Units 1–2: Me; Me and You — similarity and difference, feelings, goals, family tree, new skills, appointments); Civics/Citizenship pp. 42–49 (a right matched by a duty; the society we want); Morals/Values pp. 24–31, 33–41, 108–111 (dialogue, persuasion and voting; keeping appointments; behaving in an emergency; protecting friendships; occasions and holidays); Geography pp. 56–95; History pp. 20–23, 96–107; Economics pp. 50–55 (Made in Syria); closing projects p. 112 (activity pages, named, not placed) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/syria-placements.md.
 
@@ -30,3 +30,22 @@ Iraq placements — Social Studies remaining strands (2026-11-17):
 
 Iraq's own way (Book 4): the components are named one by one with where each lives and what each built, equality is stated in the concept itself — all equal in rights and duties — and the values are taught as a civilisational inheritance, from keeping covenants "for thousands of years" to altruism as the road to social justice.
 Registry note: the original coined string `culture-and-work/respecting-time` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/punctuality-valuing-time`.
+
+Laos placements — Social Studies remaining strands (2026-11-17):
+
+**Book 14:** *laos-g02-moral-education-teacher* (teacher guide, Lao) — 2007 edition of Book 8's guide — Title as printed: ຄູ່ມືຄູ ຄຸນສົມບັດສຶກສາ ຊັ້ນປະຖົມສຶກສາ ປີທີ 2 (Teacher Guide, Moral Education, Primary Grade 2). Grade: Grade 2 (ປ.2) (student/teacher: TEACHER). Publisher: Ministry of Education, Educational Science Research Institute; year 2007 (printed by Nhan Dan Printing House, Ho Chi Minh City); no ISBN printed. PDF pages: 63 (cover verified against the record title; 31,940,263 bytes, exact match to the record — fetched from the record's mirror source_url; read from renders). Earlier waves: not read before. Verdict: COMPLETE as the parallel earlier edition — contents read in full and the lessons with no counterpart in the 2020 guide read page by page; 10 of its 13 lessons teach the same values as Book 8's 2020 guide (admitting fault and changing, helping the family, being a role model, diligence in learning, saving, helping friends, courage, honesty, manners, compassion) and are named here, not placed twice. Contents map: Morals/Values pp. 13–60 (13 lessons). Tally: 3 placements — 0 to existing lessons, 3 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/laos-placements.md. Teacher guide — evidence only, outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laos part 1 — culture-and-work/keeping-time-and-being-punctual — Lesson 1 Keeping time (ປະຕິບັດໂມງເວລາ) — teaches: doing things at their set time — rising, going to school and learning on time — as a duty to oneself and others — Laos Grade 2 laos-g02-moral-education-teacher (2007), printed p. 13 (teacher guide — evidence) | Laos, *laos-g02-moral-education-teacher (2007)* (teacher guide), Lesson 1 Keeping time (ປະຕິບັດໂມງເວລາ) — printed p. 13 (teacher guide — evidence) |
+| Laos's way — the books' own teaching way | Laos — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 2 countries (Syria, Iraq).** Laos is named here as teacher-guide evidence only, counted nowhere.
+
+Laos's teacher-guide placements in this section are evidence only, outside the acceptance count; the acceptance count above is unchanged.
+
+Laos's own way (Book 14): the 2007 edition teaches the same Grade 2 ground in 13 longer lessons; the 2020 revision splits it into 29 weekly lessons and drops this edition's two discipline lessons and its punctuality lesson.
+
+Registry note: the original coined string `culture-and-work/keeping-time-and-being-punctual` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/punctuality-valuing-time`.
+
+Searchable tags: punctuality valuing time, Laos, social studies, culture-and-work

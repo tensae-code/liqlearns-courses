@@ -1,6 +1,6 @@
 # Sources — My Duties at School
 
-countries: Afghanistan, Iraq, Rwanda, Myanmar
+countries: Afghanistan, Iraq, Rwanda, Myanmar, Laos
 
 **Book 1:** *Social Studies, Grade 4 (دروس اجتماعی صنف چهارم)* (student book, Dari) — Title as printed: دروس اجتماعی برای صنف چهارم (Social Studies for Grade 4). Grade: 4 (student/teacher: STUDENT). Publisher: Ministry of Education, Afghanistan; year 1399 HS (2020/21) as printed; ISBN no ISBN printed. PDF pages: 106 (cover verified against the record title; 21,005,872 bytes — the books.json tree path is a phantom push: the Contents API returns 404 for it, as the Economics wave found; the bytes survive as release asset grade-04-gov-afghanistan-bc91f2edec.pdf in release mid-size-books-7, fetched with size verification, matching the Geography/History waves' byte count exactly). Earlier waves: Geography wave placed Lessons 10, 12–50 (village life, farming, livestock, city life and types, directions and maps, homeland boundaries and divisions, continents, oceans, the globe); History wave placed Lesson 9 (history of education in Afghanistan) and Lesson 18 (historic cities); Economics wave filed this record UNREAD (tree 404) — superseded by the release-asset read here and in the Geography/History waves. Verdict: COMPLETE — the remaining integrated-SS/civics parts (printed pp. 1–15, 21, 41–45) read page by page and placed below; Lesson 6 The mosque (printed p. 11) is a Religion part — named in the contents map, not placed, per the brief. Contents map: Integrated SS pp. 1–15 (Lessons 1–5 social life and the family; Lessons 7–8 the school and duties at school) and p. 21 (Lesson 11 village trades and handicrafts — work as community life); Civics/Citizenship/Government pp. 41–45 (Lesson 21 the national flag; Lesson 22 government offices; Lesson 23 traffic regulations); Morals/Values inside Lessons 3–5 (good character learned in the family; duties and order at home); Geography pp. 19, 23–39, 47–99 (placed by the Geography wave); History p. 17 (Lesson 9) and p. 35 (Lesson 18) (placed by the History wave); Economics pp. 23–33 (farming, livestock, city occupations — placed by the Geography/Economics waves); Religion p. 11 (Lesson 6 the mosque — named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/afghanistan-placements.md.
 
@@ -58,3 +58,22 @@ Myanmar's own way (Book 2): every value is taught as a named story or picture-se
 Registry note: the original coined string `culture-and-work/the-duties-of-a-pupil` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/my-duties-at-school`.
 
 Searchable tags: my duties at school, Myanmar, social studies, first-steps
+
+Laos placements — Social Studies remaining strands (2026-11-17):
+
+**Book 21:** *laos-g01-world-around-us-teacher* (teacher guide, Lao) — Title as printed: ຄູ່ມືຄູ ໂລກອ້ອມຕົວເຮົາ ຊັ້ນປະຖົມສຶກສາ ປີທີ 1 (Teacher Guide, The World Around Us, Primary Grade 1). Grade: Grade 1 (ປ.1) (student/teacher: TEACHER). Publisher: Ministry of Education, Educational Science Research Institute; year 2007 (printed by Nhan Dan Printing House, Ho Chi Minh City); no ISBN printed. PDF pages: 95 (cover verified against the record title; 41,473,874 bytes, exact match to the record — fetched from the record's mirror source_url; read from renders). Earlier waves: not read before. Verdict: COMPLETE for this wave's scope — every lesson heading and the remaining-strand lessons (16, 20–23, 30) read page by page; the rest is Science and Health (body and senses, food and cleanliness, plants, animals, soil, water), named in the contents map and not placed; the book closes with the national song printed as a song sheet (p. 88), named here and not placed. Contents map: Integrated SS (our house, our school people, our village community) pp. 42–56 (Lessons 16, 20–23); environment duty p. 74 (Lesson 30); Science pp. 9–41 and 57–86 (Lessons 1–15, 17–19, 24–29, 31–34); Health within the same run (body care and cleanliness lessons). Tally: 6 placements — 2 to existing lessons, 4 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/laos-placements.md. Teacher guide — evidence only, outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laos part 1 — first-steps/responsibilities-of-people-in-our-school — Lesson 22 The responsibilities of people in the school (ໜ້າທີ່ຮັບຜິດຊອບຂອງບຸກຄົນ ໃນໂຮງຮຽນ) — teaches: every person in the school has their own responsibility, and each one carries it out — Laos Grade 1 laos-g01-world-around-us-teacher, printed p. 54 (teacher guide — evidence) | Laos, *laos-g01-world-around-us-teacher* (teacher guide), Lesson 22 The responsibilities of people in the school (ໜ້າທີ່ຮັບຜິດຊອບຂອງບຸກຄົນ ໃນໂຮງຮຽນ) — printed p. 54 (teacher guide — evidence) |
+| Laos's way — the books' own teaching way | Laos — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 4 countries (Afghanistan, Iraq, Rwanda, Myanmar).** Laos is named here as teacher-guide evidence only, counted nowhere.
+
+Laos's teacher-guide placements in this section are evidence only, outside the acceptance count; the acceptance count above is unchanged.
+
+Laos's own way (Book 21): the first school year already peoples the child's world — the house and its kinds, the named people of the school and what each one answers for, and the village community that stands behind the school.
+
+Registry note: the original coined string `first-steps/responsibilities-of-people-in-our-school` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/my-duties-at-school`.
+
+Searchable tags: my duties at school, Laos, social studies, first-steps

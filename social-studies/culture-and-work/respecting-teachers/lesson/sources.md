@@ -1,6 +1,6 @@
 # Sources — Respecting Teachers
 
-countries: Kuwait, Vietnam
+countries: Kuwait, Vietnam, Laos
 
 **Book 3:** *Social Studies G7 Term 1* (student book, Arabic) — Title as printed: دولة الكويت والوطن العربي — الصف السابع — الفصل الدراسي الأول (State of Kuwait and the Arab Homeland, Grade 7, Term 1). Grade: Grade 7 Term 1 (student/teacher: STUDENT). Publisher: Ministry of Education, State of Kuwait; year 2026–2027 (2nd edition, 1448H); ISBN 978-9921-33-023-6. PDF pages: 106 (cover verified — Kuwait Towers cover, "Grade 7, First Term", Arab-world map inset; 55,926,452 bytes via the staging books.json's recorded Google Drive source, matching the record size exactly). Earlier waves: Geography wave read this same book from the same Drive source and placed its Geography unit (printed pp. 21–32) plus the Dhafra sadu station (p. 95, into culture-and-work/secondary-activities-cottage-industries — ALREADY PLACED, not re-placed); History wave and Economics wave both filed it UNREAD (their GitHub routes failed) and placed nothing. LIBRARY DEBT confirmed and now evidenced first-hand in this wave: the books.json record claims in_pushed: true for grade-07/gov/kuwait/social-studies/student/term-1.pdf, but the file is absent from the GitHub tree and from every release — a phantom push; the book is held only via its recorded external Drive source. Verdict: COMPLETE. Contents map: Geography pp. 21–39; History pp. 40–85; Morals/Values pp. 92–100 ("Stations with Good Kuwait": generosity, Dhafra, respecting the teacher, Eid greetings). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/kuwait-placements.md.
 
@@ -31,3 +31,27 @@ Vietnam placements — Social Studies remaining strands (2026-11-17):
 Vietnam's own way (Book 2): Grade 2 widens the circle from family to homeland and public space: love of homeland is proven in small deeds (a donation box for neighbours in difficulty, flowers planted along the village road, a class visit to a Heroic Vietnamese Mother), and the civics core is rules in public places, taught place by place — school, hospital, bus stop, library, cinema, zoo, historic site.
 
 Registry note: the original coined string `culture-and-work/respecting-my-teachers` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/respecting-teachers`.
+
+Laos placements — Social Studies remaining strands (2026-11-17):
+
+**Book 8:** *laos-g02-moral-education-teacher-2020* (teacher guide, Lao) — Title as printed: ຄູ່ມືຄູ ຄຸນສົມບັດສຶກສາ ຊັ້ນປະຖົມສຶກສາ ປີທີ 2 (Teacher Guide, Moral Education, Primary Grade 2). Grade: Grade 2 (ປ.2) (student/teacher: TEACHER). Publisher: Ministry of Education and Sports, Educational Science Research Institute; year 2020; ISBN 978-9932-00-266-5. PDF pages: 127 (title page verified against the record title; 3,204,079 bytes, exact match to the record — fetched from the record's mirror source_url after the tree route failed; the file is a print-ready PDF whose page 1 is the back cover). Earlier waves: not read before. Verdict: COMPLETE — full read of the text-layer guide; the opening lesson (printed p. 7) reviews Grade 1 and the appendix (printed p. 113) is apparatus — named, not placed. Contents map: Morals/Values pp. 12–112 (29 lessons). Tally: 29 placements — 0 to existing lessons, 29 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/laos-placements.md. Teacher guide — evidence only, outside the acceptance count.
+
+**Book 9:** *laos-g01-moral-education-teacher-2020* (teacher guide, Lao) — Title as printed: ຄູ່ມືຄູ ຄຸນສົມບັດສຶກສາ ຊັ້ນປະຖົມສຶກສາ ປີທີ 1 (Teacher Guide, Moral Education, Primary Grade 1). Grade: Grade 1 (ປ.1) (student/teacher: TEACHER). Publisher: Ministry of Education and Sports, Educational Science Research Institute; year 2020; no ISBN printed (the imprint's ISBN line is blank in this printing). PDF pages: 162 (title page verified against the record title; 3,909,001 bytes, exact match to the record — fetched from the record's mirror source_url after the tree route failed). Earlier waves: not read before. Verdict: COMPLETE — full read of the text-layer guide; the introductory week (printed pp. 1–40) is orientation apparatus and Lesson 30 (printed p. 150) is the closing lesson of the school year — named, not placed. Contents map: Morals/Values pp. 55–149 (Lessons 1–29). Tally: 29 placements — 1 to existing lessons, 28 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/laos-placements.md. Teacher guide — evidence only, outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laos part 1 — culture-and-work/respecting-teachers — Lesson 2 Respecting teachers at school — teaches: respect for the teachers who teach you — Laos Grade 2 laos-g02-moral-education-teacher-2020, printed p. 15 (teacher guide — evidence) | Laos, *laos-g02-moral-education-teacher-2020* (teacher guide), Lesson 2 Respecting teachers at school — printed p. 15 (teacher guide — evidence) |
+| Laos part 2 — culture-and-work/manners-toward-our-teachers — Lesson 5 Manners toward teachers — teaches: polite conduct toward the teacher — Laos Grade 1 laos-g01-moral-education-teacher-2020, printed p. 69 (teacher guide — evidence) | Laos, *laos-g01-moral-education-teacher-2020* (teacher guide), Lesson 5 Manners toward teachers — printed p. 69 (teacher guide — evidence) |
+| Laos's way — the books' own teaching way | Laos — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 2 countries (Kuwait, Vietnam).** Laos is named here as teacher-guide evidence only, counted nowhere.
+
+Laos's teacher-guide placements in this section are evidence only, outside the acceptance count; the acceptance count above is unchanged.
+
+Laos's own way (Book 8): Grade 2 widens Grade 1's start (road, school, family) into duties — classroom rules, care of the national flag, responsibility for shared property, and keeping the community environment clean.
+
+Laos's own way (Book 9): the subject opens in the first weeks of a child's schooling with the road, the school and the flag, then moves home — thank-you and sorry, elders, neighbours — ending the year by widening respect to the whole community.
+
+Registry note: the original coined string `culture-and-work/manners-toward-our-teachers` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/respecting-teachers`.
+
+Searchable tags: respecting teachers, Laos, social studies, culture-and-work

@@ -1,6 +1,6 @@
 # Sources — Admitting Your Mistakes
 
-countries: North Macedonia, Vietnam, Myanmar
+countries: North Macedonia, Vietnam, Myanmar, Laos
 
 **Book 2:** *Society Grade 3 (Општество 3)* (student book, Macedonian) — Title as printed: ОПШТЕСТВО — учебник за трето одделение (Society — textbook for Grade 3), by Билјана Маневска (Biljana Manevska) and Орданка Мицкова (Ordanka Mickova). Grade: Grade 3 (student/teacher: STUDENT). Publisher: Министерство за образование и наука на Република Северна Македонија (Ministry of Education and Science), Skopje; year 2023; ISBN no ISBN printed in the front matter read (approved by the National Textbook Commission, decision 26-1988/1 of 11.08.2023). PDF pages: 100 (cover verified against the record title; byte size 29,035,881 matches the staging books.json record; record pages 100). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Integrated SS / Civics / Morals — Theme 1 Учам, учествувам, успевам (I learn, I participate, I succeed) printed pp. 10–33; Theme 2 Се грижам за себе и моето опкружување (I care for myself and my surroundings) pp. 38–58; Theme 3 Ја сакам мојата држава (I love my country) pp. 62–84, of which Geography pp. 62–72 (lakes, mountains, the Vardar river, national parks, tourist destinations, natural beauties — named, not placed) and the rest placed below. Safety named, not placed: dangers in the surroundings and dangerous objects at home pp. 38–42, dangerous plants and animals p. 44, strangers p. 46 — personal-safety teaching. The book's own "Check your knowledge" sections (pp. 34, 59, 84) are assessment, excluded; appendices p. 85 named. Tally: 21 placements — 0 to existing lessons, 21 NEW LESSON NEEDED. Staging note: this book was absent from GitHub (grab.py tree: Grade 3 path 404) and from its staging folder, so it was fetched from the Wayback Machine's copy of the record's own ministry source URL — byte size 29,035,881 B and page count 100 match the staging books.json record exactly — and, under the 2026-11-13 rule, it was STAGED at its recorded staging path (grade-03/gov/north-macedonia/society/student/full-year.pdf), not deleted. This book is a link record (books.json-unheld). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/north-macedonia-placements.md.
 
@@ -50,3 +50,22 @@ Myanmar's own way (Book 2): every value is taught as a named story or picture-se
 Registry note: the original coined string `culture-and-work/admitting-and-learning-from-mistakes` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/admitting-your-mistakes`.
 
 Searchable tags: admitting your mistakes, Myanmar, social studies, culture-and-work
+
+Laos placements — Social Studies remaining strands (2026-11-17):
+
+**Book 9:** *laos-g01-moral-education-teacher-2020* (teacher guide, Lao) — Title as printed: ຄູ່ມືຄູ ຄຸນສົມບັດສຶກສາ ຊັ້ນປະຖົມສຶກສາ ປີທີ 1 (Teacher Guide, Moral Education, Primary Grade 1). Grade: Grade 1 (ປ.1) (student/teacher: TEACHER). Publisher: Ministry of Education and Sports, Educational Science Research Institute; year 2020; no ISBN printed (the imprint's ISBN line is blank in this printing). PDF pages: 162 (title page verified against the record title; 3,909,001 bytes, exact match to the record — fetched from the record's mirror source_url after the tree route failed). Earlier waves: not read before. Verdict: COMPLETE — full read of the text-layer guide; the introductory week (printed pp. 1–40) is orientation apparatus and Lesson 30 (printed p. 150) is the closing lesson of the school year — named, not placed. Contents map: Morals/Values pp. 55–149 (Lessons 1–29). Tally: 29 placements — 1 to existing lessons, 28 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/laos-placements.md. Teacher guide — evidence only, outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laos part 1 — culture-and-work/admitting-our-faults-and-changing — Lesson 14 Daring to admit fault and change — teaches: owning a mistake and putting it right — Laos Grade 1 laos-g01-moral-education-teacher-2020, printed p. 99 (teacher guide — evidence) | Laos, *laos-g01-moral-education-teacher-2020* (teacher guide), Lesson 14 Daring to admit fault and change — printed p. 99 (teacher guide — evidence) |
+| Laos's way — the books' own teaching way | Laos — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 3 countries (North Macedonia, Vietnam, Myanmar).** Laos is named here as teacher-guide evidence only, counted nowhere.
+
+Laos's teacher-guide placements in this section are evidence only, outside the acceptance count; the acceptance count above is unchanged.
+
+Laos's own way (Book 9): the subject opens in the first weeks of a child's schooling with the road, the school and the flag, then moves home — thank-you and sorry, elders, neighbours — ending the year by widening respect to the whole community.
+
+Registry note: the original coined string `culture-and-work/admitting-our-faults-and-changing` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/admitting-your-mistakes`.
+
+Searchable tags: admitting your mistakes, Laos, social studies, culture-and-work

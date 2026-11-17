@@ -1,6 +1,6 @@
 # Sources — Caring for Our School
 
-countries: Libya, Angola, United Arab Emirates, Myanmar, Mauritania
+countries: Libya, Angola, United Arab Emirates, Myanmar, Mauritania, Laos
 
 **Book 1:** *أنا المواطن (I Am the Citizen), National Education G4* (student book, Arabic) — Title as printed: أنا المواطن — كتاب التربية الوطنية للصف الرابع من مرحلة التعليم الأساسي (I Am the Citizen — National Education book for Grade 4 of basic education). Grade: 4 (student/teacher: STUDENT). Publisher: State of Libya, Ministry of Education — Curriculum and Educational Research Centre (prepared by a specialised committee commissioned by the Centre); year 2019–2020 / 1440–1441 AH; ISBN no ISBN printed on the cover pages read. PDF pages: 88 (cover rendered and verified against the record title; 16,522,163 bytes, Wayback capture 20211209161425 of the recorded source_url — the book is image-only and was read from page renders). Earlier waves: not read before (the National Education books were never targeted by the Geography/History/Economics waves). Verdict: COMPLETE (full page-by-page read, civics track). Contents map: Integrated SS (Unit 2 "I am a human being") Lesson 5 I and my family pp. 41–48, Lesson 6 I and my school pp. 49–56, Lesson 7 I and the neighbourhood pp. 57–65; Morals/Values Lesson 1 I am a human being pp. 8–15; Civics/Citizenship Lesson 6 carries the Convention on the Rights of the Child art. 28 (free compulsory basic education) p. 55; Health (Unit 1 "I and my health") Lesson 2 my cleanliness pp. 16–22, Lesson 3 my nutrition pp. 23–31, Lesson 4 my body's safety pp. 32–39 — named, the Health course's, not placed, except the shared-places and road-safety fragments placed below; Environment (Unit 3) Lesson 8 I and the environment pp. 67–75 (environment components — named, Geography/Science, not placed), Lesson 9 I protect the environment pp. 76–86 (placed — civic behaviour). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/libya-placements.md.
 
@@ -93,3 +93,27 @@ Mauritania's own way (Book 5): Year 3 civics is the family and the school — du
 Registry note: the original coined string `first-steps/caring-for-school-property` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/caring-for-our-school`.
 
 Searchable tags: caring for our school, Mauritania, social studies, first-steps
+
+Laos placements — Social Studies remaining strands (2026-11-17):
+
+**Book 8:** *laos-g02-moral-education-teacher-2020* (teacher guide, Lao) — Title as printed: ຄູ່ມືຄູ ຄຸນສົມບັດສຶກສາ ຊັ້ນປະຖົມສຶກສາ ປີທີ 2 (Teacher Guide, Moral Education, Primary Grade 2). Grade: Grade 2 (ປ.2) (student/teacher: TEACHER). Publisher: Ministry of Education and Sports, Educational Science Research Institute; year 2020; ISBN 978-9932-00-266-5. PDF pages: 127 (title page verified against the record title; 3,204,079 bytes, exact match to the record — fetched from the record's mirror source_url after the tree route failed; the file is a print-ready PDF whose page 1 is the back cover). Earlier waves: not read before. Verdict: COMPLETE — full read of the text-layer guide; the opening lesson (printed p. 7) reviews Grade 1 and the appendix (printed p. 113) is apparatus — named, not placed. Contents map: Morals/Values pp. 12–112 (29 lessons). Tally: 29 placements — 0 to existing lessons, 29 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/laos-placements.md. Teacher guide — evidence only, outside the acceptance count.
+
+**Book 9:** *laos-g01-moral-education-teacher-2020* (teacher guide, Lao) — Title as printed: ຄູ່ມືຄູ ຄຸນສົມບັດສຶກສາ ຊັ້ນປະຖົມສຶກສາ ປີທີ 1 (Teacher Guide, Moral Education, Primary Grade 1). Grade: Grade 1 (ປ.1) (student/teacher: TEACHER). Publisher: Ministry of Education and Sports, Educational Science Research Institute; year 2020; no ISBN printed (the imprint's ISBN line is blank in this printing). PDF pages: 162 (title page verified against the record title; 3,909,001 bytes, exact match to the record — fetched from the record's mirror source_url after the tree route failed). Earlier waves: not read before. Verdict: COMPLETE — full read of the text-layer guide; the introductory week (printed pp. 1–40) is orientation apparatus and Lesson 30 (printed p. 150) is the closing lesson of the school year — named, not placed. Contents map: Morals/Values pp. 55–149 (Lessons 1–29). Tally: 29 placements — 1 to existing lessons, 28 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/laos-placements.md. Teacher guide — evidence only, outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laos part 1 — culture-and-work/caring-for-our-learning-things — Lesson 9 Caring for learning equipment — teaches: looking after books and school materials — Laos Grade 2 laos-g02-moral-education-teacher-2020, printed p. 38 (teacher guide — evidence) | Laos, *laos-g02-moral-education-teacher-2020* (teacher guide), Lesson 9 Caring for learning equipment — printed p. 38 (teacher guide — evidence) |
+| Laos part 2 — culture-and-work/caring-for-our-learning-things — Lesson 9 Caring for learning things and equipment — teaches: looking after your school things — Laos Grade 1 laos-g01-moral-education-teacher-2020, printed p. 84 (teacher guide — evidence) | Laos, *laos-g01-moral-education-teacher-2020* (teacher guide), Lesson 9 Caring for learning things and equipment — printed p. 84 (teacher guide — evidence) |
+| Laos's way — the books' own teaching way | Laos — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 5 countries (Libya, Angola, United Arab Emirates, Myanmar, Mauritania).** Laos is named here as teacher-guide evidence only, counted nowhere.
+
+Laos's teacher-guide placements in this section are evidence only, outside the acceptance count; the acceptance count above is unchanged.
+
+Laos's own way (Book 8): Grade 2 widens Grade 1's start (road, school, family) into duties — classroom rules, care of the national flag, responsibility for shared property, and keeping the community environment clean.
+
+Laos's own way (Book 9): the subject opens in the first weeks of a child's schooling with the road, the school and the flag, then moves home — thank-you and sorry, elders, neighbours — ending the year by widening respect to the whole community.
+
+Registry note: the original coined string `culture-and-work/caring-for-our-learning-things` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/caring-for-our-school`.
+
+Searchable tags: caring for our school, Laos, social studies, first-steps

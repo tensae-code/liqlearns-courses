@@ -1,0 +1,21 @@
+# Sources — Responsibility for Oneself
+
+countries: Laos
+
+**Book 1:** *laos-g03-moral-education-teacher-2021* (teacher guide, Lao) — Title as printed: ຄູ່ມືຄູ ຄຸນສົມບັດສຶກສາ ຊັ້ນປະຖົມສຶກສາ ປີທີ 3 (Teacher Guide, Moral Education, Primary Grade 3). Grade: Grade 3 (ປ.3) (student/teacher: TEACHER). Publisher: Ministry of Education and Sports, Educational Science Research Institute; year 2021; no ISBN printed. PDF pages: 72 (cover/title page verified against the record title; 2,038,592 bytes, exact match to the record). Earlier waves: not read before. Verdict: COMPLETE — full page-by-page read of the text-layer guide; the opening lesson (ບົດເປີດຫົວເລື່ອງ, printed p. 6) is a review of Grade 2 and is named here, not placed (revision-lesson exclusion). Contents map: Morals/Values pp. 8–67 (29 lessons); Civics/Citizenship pp. 51–63 within the same run (children's rights, right to protection, village administration); the guide's general introduction pp. 1–5 is apparatus, not placed. Tally: 29 placements — 0 to existing lessons, 29 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/laos-placements.md. Teacher guide — evidence only, outside the acceptance count.
+
+**Book 12:** *laos-g05-moral-education-teacher* (teacher guide, Lao) — Title as printed: ຄູ່ມືຄູ ຄຸນສົມບັດສຶກສາ ຊັ້ນປະຖົມສຶກສາ ປີທີ 5 (Teacher Guide, Moral Education, Primary Grade 5). Grade: Grade 5 (ປ.5) (student/teacher: TEACHER). Publisher: Ministry of Education, Educational Science Research Institute; year 2009 (printed by Pitambra Books, Jhansi, India); no ISBN printed. PDF pages: 73 (cover/title page verified against the record title; 23,482,884 bytes, exact match to the record — fetched from the record's mirror source_url; legacy-font text layer, read from renders). Earlier waves: not read before. Verdict: COMPLETE — contents and all 14 lessons read; the closing section (printed pp. 63–72) prints articles of the child-rights convention, the Constitution and Lao laws as reference text — inventory only, not placed. Contents map: Morals/Values pp. 16–62 (14 lessons); Civics/Citizenship within the same run (local governing authority, Lesson 10; the United Nations, Lesson 13); reference appendix pp. 63–72. Tally: 14 placements — 1 to existing lessons, 13 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/laos-placements.md. Teacher guide — evidence only, outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — culture-and-work/responsibility-for-oneself — Lesson 12 Responsibility for oneself — teaches: answering for your own acts and duties — Laos Grade 3 laos-g03-moral-education-teacher-2021, printed p. 30 (teacher guide — evidence) | Laos, *laos-g03-moral-education-teacher-2021* (teacher guide), Lesson 12 Responsibility for oneself — printed p. 30 (teacher guide — evidence) |
+| Sub lesson 2 — culture-and-work/responsibility-for-oneself — Lesson 2 Responsibility for one's own work (ຮັບຜິດຊອບວຽກຂອງຕົນເອງ) — teaches: answering for your own tasks and work, at school and at home — Laos Grade 5 laos-g05-moral-education-teacher, printed p. 19 (teacher guide — evidence) | Laos, *laos-g05-moral-education-teacher* (teacher guide), Lesson 2 Responsibility for one's own work (ຮັບຜິດຊອບວຽກຂອງຕົນເອງ) — printed p. 19 (teacher guide — evidence) |
+| Sub lesson 3 — Laos's way — the books' own teaching way | Laos — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Laos), named here, counted nowhere.**
+
+Laos's own way (Book 1): Moral Education is a standalone weekly subject built as one short story-and-discussion lesson per value, sequenced self → family → friends → school → nation → the world; the same value returns at the next grade widened (the guide prints a Grade 2 ↔ Grade 3 lesson comparison table for planning).
+
+Laos's own way (Book 12): the last primary moral year widens the circles to their widest — neighbours, hometown, local government, nation, peace and the United Nations — and closes with care of the country's natural resources.
+
+Searchable tags: responsibility for oneself, Laos, social studies, culture-and-work

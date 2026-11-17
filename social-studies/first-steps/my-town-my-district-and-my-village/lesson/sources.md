@@ -1,6 +1,6 @@
 # Sources — My Town, My District and My Village
 
-countries: Suriname, Somalia, Serbia, Kazakhstan, North Macedonia, Cambodia, Myanmar
+countries: Suriname, Somalia, Serbia, Kazakhstan, North Macedonia, Cambodia, Myanmar, Laos
 
 **Book 1:** *Ik-boek* (student book, Dutch) — Suriname, Ministerie van Onderwijs en Volksontwikkeling (Suriname); year not printed (PDF created 2012); no ISBN printed. Title as printed: IK BOEK (OJW Leerjaar 3 — Ik-boek). Grade 3 (Leerjaar 3). 14 PDF pp. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/suriname-placements.md.
 
@@ -89,3 +89,26 @@ Cambodia's own way (Cambodia Grade 3 Science–Social G3): community living is t
 Myanmar's own way (Book 6): Grade 3 studies one real town (Nyaungdon, on the Pan Hlaing river) and one real village (Zee Hpyu Kyun) from big picture maps, then interviews a real home-industry owner — the town's banana-chip maker, with her 35 workers, their wages and their problems-and-solutions poster.
 
 Searchable tags: my town my district and my village, Myanmar, social studies, first-steps
+
+Laos placements — Social Studies remaining strands (2026-11-17):
+
+**Book 3:** *laos-g03-world-around-us-teacher* (teacher guide, Lao) — Title as printed: ຄູ່ມືຄູ ໂລກອ້ອມຕົວເຮົາ ຊັ້ນປະຖົມສຶກສາ ປີທີ 3 (Teacher Guide, The World Around Us, Primary Grade 3). Grade: Grade 3 (ປ.3) (student/teacher: TEACHER). Publisher: Ministry of Education, Educational Science Research Institute; year 2009 (printed by Eastern Printing, Bangkok); no ISBN printed. PDF pages: 103 (cover verified against the record title; 1,648,919 bytes, exact match to the record; legacy-font text layer, read from renders). Earlier waves: not read before. Verdict: COMPLETE for this wave's scope — contents read in full and the remaining-strand lessons (18–22) read page by page; the other 28 lessons are Science (food and digestion, teeth and body care, plants, animals, water, soil, air and weather, magnets) and Health-course body-care content, named in the contents map and not placed. (Lesson 22 was first grouped with the science run from its contents line and was caught and read in the pupil book — Book 7 — before filing closed.). Contents map: Integrated SS pp. 60–67 (Lessons 18–21: our town, our province, transport); Civics/Government p. 68 (Lesson 22: administration of district and province); Science pp. 12–59 and 70–100 (Lessons 1–17, 23–33). Tally: 4 placements — 2 to existing lessons, 2 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/laos-placements.md. Teacher guide — evidence only, outside the acceptance count.
+
+**Book 18:** *laos-g02-world-around-us-teacher* (teacher guide, Lao) — Title as printed: ຄູ່ມືຄູ ໂລກອ້ອມຕົວເຮົາ ຊັ້ນປະຖົມສຶກສາ ປີທີ 2 (Teacher Guide, The World Around Us, Primary Grade 2). Grade: Grade 2 (ປ.2) (student/teacher: TEACHER). Publisher: Ministry of Education, Educational Science Research Institute; year 2007 (printed by Nhan Dan Printing House, Ho Chi Minh City); no ISBN printed. PDF pages: 71 (cover verified against the record title; 36,048,768 bytes, exact match to the record — fetched from the record's mirror source_url; read from renders). Earlier waves: not read before. Verdict: COMPLETE for this wave's scope — the full lesson list read from the parallel pupil book's contents (29 lessons) and the seven remaining-strand lessons (18–24) read page by page in this guide; the rest is Science and Health (body and senses, plants, animals, food chains, soil, water and air, times of day), named in the contents map and not placed. Contents map: Integrated SS (our village, its people and its shared life) pp. 45–58 (Lessons 18–24); Science pp. 9–44 and 59–66 (Lessons 1–17, 25–29); Health within the same Science run (mouth and teeth care). Tally: 7 placements — 1 to existing lessons, 6 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/laos-placements.md. Teacher guide — evidence only, outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laos part 1 — first-steps/my-town-my-district-and-my-village — Lesson 18 Our town (ເມືອງຂອງເຮົາ) — teaches: knowing your own town by its important places — district office, education office, hospital, temple, market — and drawing its map — Laos Grade 3 laos-g03-world-around-us-teacher, printed p. 60 (teacher guide — evidence) | Laos, *laos-g03-world-around-us-teacher* (teacher guide), Lesson 18 Our town (ເມືອງຂອງເຮົາ) — printed p. 60 (teacher guide — evidence) |
+| Laos part 2 — first-steps/my-town-my-district-and-my-village — Lesson 19 Our province (ແຂວງຂອງເຮົາ) — teaches: the province your town sits in — its name, its districts and its important places, drawn as a map — Laos Grade 3 laos-g03-world-around-us-teacher, printed p. 62 (teacher guide — evidence) | Laos, *laos-g03-world-around-us-teacher* (teacher guide), Lesson 19 Our province (ແຂວງຂອງເຮົາ) — printed p. 62 (teacher guide — evidence) |
+| Laos part 3 — first-steps/my-town-my-district-and-my-village — Lesson 18 Our village (ບ້ານຂອງເຮົາ) — teaches: the village as many houses together, with its important places — school, hospital, temple, market and fields — Laos Grade 2 laos-g02-world-around-us-teacher, printed p. 45 (teacher guide — evidence) | Laos, *laos-g02-world-around-us-teacher* (teacher guide), Lesson 18 Our village (ບ້ານຂອງເຮົາ) — printed p. 45 (teacher guide — evidence) |
+| Laos's way — the books' own teaching way | Laos — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 7 countries (Suriname, Somalia, Serbia, Kazakhstan, North Macedonia, Cambodia, Myanmar).** Laos is named here as teacher-guide evidence only, counted nowhere.
+
+Laos's teacher-guide placements in this section are evidence only, outside the acceptance count; the acceptance count above is unchanged.
+
+Laos's own way (Book 3): inside the science subject, the child's own town and province are taught as lived places — pupils name and draw the district office, school, hospital, temple, market and post office around them before any map of the country.
+
+Laos's own way (Book 18): Grade 2's world widens from the body to the village — its houses and important people, the work its people do, how they reach and speak to each other, how to travel safely, and the shared duty of keeping the village clean.
+
+Searchable tags: my town, my district and my village, Laos, social studies, first-steps

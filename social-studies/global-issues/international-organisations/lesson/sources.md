@@ -1,6 +1,6 @@
 # Sources — International Organisations
 
-countries: North Macedonia, Costa Rica, Sierra Leone, Bahamas, Bhutan, Tanzania, Mexico, Fiji, Bangladesh, Palestine, Sri Lanka, Cambodia, Jordan, South Sudan, Zimbabwe, Dominican Republic, Honduras
+countries: North Macedonia, Costa Rica, Sierra Leone, Bahamas, Bhutan, Tanzania, Mexico, Fiji, Bangladesh, Palestine, Sri Lanka, Cambodia, Jordan, South Sudan, Zimbabwe, Dominican Republic, Honduras, Laos
 
 **Book 1:** *Географија за I година гимназиско образование (Geography for Year 1 of gymnasium education)* (student book, Macedonian) — North Macedonia, Тримакс (Trimaks), Skopje; year 2025; ISBN 978-608-204-519-1; author Prof. Dr. Blagoja Markoski; approved by the National Textbook Commission, decision 26-936/1 of 26.08.2025. Title as printed: Географија за I година гимназиско образование (Geography for Year 1 of gymnasium education). Grade: Grade 10 / gymnasium Year 1 (student/teacher: STUDENT). PDF pages: 128 (cover/title verified against the record; matches the record's 128 pages). Verdict: COMPLETE. Records note: 11 records / 6 distinct books (2 TSV blob records for Grades 7 and 9 + 6 books.json records for Grades 7–12, of which Grades 7 and 9 duplicate the TSV records; plus 3 link_records from Telegram for Grades 8, 11 and 12, which are the same 3 books as the books.json Grade 8/11/12 records) / Grades 7, 9, 10 read full page-by-page via pdftotext -layout after cover verification (fetched by git sparse-checkout from the repo tree — the API routes truncated every transfer over ~21 MB, git transport verified the blobs itself). Grades 8, 11, 12 filed UNREAD: their files are NOT in the repo tree (verified by git ls-tree on main), NOT in any GitHub release (all 12 release tags searched), their phase3-staging geography/student folders are empty, the ministry source URLs now return 404, and Wayback holds no snapshot of the Macedonian Grade 8/11/12 editions — the only remaining copy is the Telegram channel named in the link records, which needs a Telegram browser task. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/north-macedonia-placements.md.
 
@@ -225,3 +225,20 @@ Honduras's own way (Book 18): the final guide deepens the pupil book's rights cy
 Honduras's own way (Book 19): the Telebásica twin of Grade 9 teaches the same cycle at a distance learner's pace, each sequence paired with its television programme — and it is the more Honduras-specific of the two books on rights: CONADEH's creation decrees dated one by one, women's suffrage won by Decree 29 of 1955 with the literacy limit named, and the protective laws listed with their La Gaceta dates.
 
 Searchable tags: international organisations, Honduras, social studies, global-issues
+
+Laos placements — Social Studies remaining strands (2026-11-17):
+
+**Book 12:** *laos-g05-moral-education-teacher* (teacher guide, Lao) — Title as printed: ຄູ່ມືຄູ ຄຸນສົມບັດສຶກສາ ຊັ້ນປະຖົມສຶກສາ ປີທີ 5 (Teacher Guide, Moral Education, Primary Grade 5). Grade: Grade 5 (ປ.5) (student/teacher: TEACHER). Publisher: Ministry of Education, Educational Science Research Institute; year 2009 (printed by Pitambra Books, Jhansi, India); no ISBN printed. PDF pages: 73 (cover/title page verified against the record title; 23,482,884 bytes, exact match to the record — fetched from the record's mirror source_url; legacy-font text layer, read from renders). Earlier waves: not read before. Verdict: COMPLETE — contents and all 14 lessons read; the closing section (printed pp. 63–72) prints articles of the child-rights convention, the Constitution and Lao laws as reference text — inventory only, not placed. Contents map: Morals/Values pp. 16–62 (14 lessons); Civics/Citizenship within the same run (local governing authority, Lesson 10; the United Nations, Lesson 13); reference appendix pp. 63–72. Tally: 14 placements — 1 to existing lessons, 13 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/laos-placements.md. Teacher guide — evidence only, outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laos part 1 — global-issues/international-organisations — Lesson 13 The United Nations (ສະຫະປະຊາຊາດ) — teaches: the UN and its agencies — UNICEF, UNESCO, WHO, UNEP, ILO, UNDP, UNFPA, FAO — known by their emblems and their work in Laos — Laos Grade 5 laos-g05-moral-education-teacher, printed p. 57 (teacher guide — evidence) | Laos, *laos-g05-moral-education-teacher* (teacher guide), Lesson 13 The United Nations (ສະຫະປະຊາຊາດ) — printed p. 57 (teacher guide — evidence) |
+| Laos's way — the books' own teaching way | Laos — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 14 countries (North Macedonia, Costa Rica, Bahamas, Tanzania, Mexico, Fiji, Bangladesh, Palestine, Sri Lanka, Cambodia, Jordan, South Sudan, Dominican Republic, Honduras).** Laos is named here as teacher-guide evidence only, counted nowhere.
+
+Laos's teacher-guide placements in this section are evidence only, outside the acceptance count; the acceptance count above is unchanged.
+
+Laos's own way (Book 12): the last primary moral year widens the circles to their widest — neighbours, hometown, local government, nation, peace and the United Nations — and closes with care of the country's natural resources.
+
+Searchable tags: international organisations, Laos, social studies, global-issues

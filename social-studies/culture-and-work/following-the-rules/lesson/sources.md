@@ -1,6 +1,6 @@
 # Sources — Following the Rules
 
-countries: Afghanistan, Tanzania, Iraq, Jordan, Myanmar, Japan, Zimbabwe
+countries: Afghanistan, Tanzania, Iraq, Jordan, Myanmar, Japan, Zimbabwe, Laos
 
 **Book 1:** *Social Studies, Grade 6 (دروس اجتماعی صنف ششم)* (student book, Dari) — Title as printed: دروس اجتماعی صنف ششم (Social Studies, Grade 6). Grade: 6 (student/teacher: STUDENT). Publisher: Ministry of Education, Afghanistan; year 1398 HS (2019/20) as printed; ISBN no ISBN printed. PDF pages: 106 (cover verified against the record title; 8,468,695 bytes via grab tree route — grab.py's Python route failed three times with proxy RemoteDisconnected, so the same Contents-API route was run through curl with byte-size and blob-SHA verification, matching the earlier waves' size exactly). Earlier waves: Geography wave placed Lessons 1 and 11 (our country; provinces) and Lessons 12–17 (the six neighbouring countries); History wave placed Lessons 26–34 (Afghanistan 1973–2004) and Lessons 35–50 (early Islamic history); Economics wave filed this book's Grade 4/5 companions UNREAD (tree 404) but did not hold this Grade 6 record. Verdict: COMPLETE — the remaining civics/values chapters (Chapter 1 state lessons and Chapter 3 "Peace and national unity") read page by page (printed pp. 3–17 and 35–49) and placed below. Contents map: Integrated SS pp. 1–2 (Lesson 1 our country — placed by Geography); Civics/Citizenship/Government pp. 3–17 (Lessons 2–9: need for a state, constitution, our state, National Council, Wolesi Jirga, Meshrano Jirga, executive, judiciary) and pp. 35–49 (Lessons 18–25: national unity, peace and security, public property, media ethics, human dignity, respecting the law, children's rights, women's rights); Geography pp. 21–33 (provinces; neighbours — placed by Geography); History pp. 19 (Lesson 10 glories of Afghanistan — named by History) and pp. 51–67 (recent events — placed by History); Religion pp. 69–99 (Islamic history — placed by History). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/afghanistan-placements.md.
 
@@ -142,3 +142,22 @@ Zimbabwe's own way (Book 6) (teacher guide — evidence): child rights are sourc
 Registry note: the original coined string `culture-and-work/obeying-laws-and-regulations` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/following-the-rules`.
 
 Searchable tags: following the rules, Zimbabwe, social studies, culture-and-work
+
+Laos placements — Social Studies remaining strands (2026-11-17):
+
+**Book 14:** *laos-g02-moral-education-teacher* (teacher guide, Lao) — 2007 edition of Book 8's guide — Title as printed: ຄູ່ມືຄູ ຄຸນສົມບັດສຶກສາ ຊັ້ນປະຖົມສຶກສາ ປີທີ 2 (Teacher Guide, Moral Education, Primary Grade 2). Grade: Grade 2 (ປ.2) (student/teacher: TEACHER). Publisher: Ministry of Education, Educational Science Research Institute; year 2007 (printed by Nhan Dan Printing House, Ho Chi Minh City); no ISBN printed. PDF pages: 63 (cover verified against the record title; 31,940,263 bytes, exact match to the record — fetched from the record's mirror source_url; read from renders). Earlier waves: not read before. Verdict: COMPLETE as the parallel earlier edition — contents read in full and the lessons with no counterpart in the 2020 guide read page by page; 10 of its 13 lessons teach the same values as Book 8's 2020 guide (admitting fault and changing, helping the family, being a role model, diligence in learning, saving, helping friends, courage, honesty, manners, compassion) and are named here, not placed twice. Contents map: Morals/Values pp. 13–60 (13 lessons). Tally: 3 placements — 0 to existing lessons, 3 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/laos-placements.md. Teacher guide — evidence only, outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laos part 1 — culture-and-work/following-the-communitys-rules — Lesson 12 Following the community's discipline (ປະຕິບັດລະບຽບວິໄນຂອງຊຸມຊົນ) — teaches: every shared place of the community — school, meeting hall and the rest — has its own rules, and the pupil keeps each place's rules — Laos Grade 2 laos-g02-moral-education-teacher (2007), printed p. 52 (teacher guide — evidence) | Laos, *laos-g02-moral-education-teacher (2007)* (teacher guide), Lesson 12 Following the community's discipline (ປະຕິບັດລະບຽບວິໄນຂອງຊຸມຊົນ) — printed p. 52 (teacher guide — evidence) |
+| Laos's way — the books' own teaching way | Laos — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 6 countries (Afghanistan, Tanzania, Iraq, Jordan, Myanmar, Japan).** Laos is named here as teacher-guide evidence only, counted nowhere.
+
+Laos's teacher-guide placements in this section are evidence only, outside the acceptance count; the acceptance count above is unchanged.
+
+Laos's own way (Book 14): the 2007 edition teaches the same Grade 2 ground in 13 longer lessons; the 2020 revision splits it into 29 weekly lessons and drops this edition's two discipline lessons and its punctuality lesson.
+
+Registry note: the original coined string `culture-and-work/following-the-communitys-rules` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/following-the-rules`.
+
+Searchable tags: following the rules, Laos, social studies, culture-and-work

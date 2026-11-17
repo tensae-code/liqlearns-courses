@@ -1,6 +1,6 @@
 # Sources — Helping with Housework Without Being Asked
 
-countries: Cuba, Bahamas, Syria, Vietnam, South Sudan
+countries: Cuba, Bahamas, Syria, Vietnam, South Sudan, Laos
 
 **Book 1:** *El mundo en que vivimos — tercer grado* (student book, Spanish) — Title as printed: El mundo en que vivimos — tercer grado. Grade: Grade 3 (student/teacher: STUDENT). Publisher: Editorial Pueblo y Educación (MINED's publisher; authors M. Sc. Neris Esther Domínguez Oliva, Rosario Leal Arroyo, Zoila Ester Durán Aulet, Alfonso Cok Carballo, Zoraida Almerall Rueda, Addys Ramos Hernández); year: no year printed in the file; ISBN: no ISBN printed in the file. PDF pages: 258 (cover verified: title and grade as printed, school scene with Cuban flag). LIBRARY DEBT: the record says this book is pushed in GitHub, but grab.py tree returned HTTP 404 — a phantom push; the book was read instead from its recorded source (biblioteca.cubaeduca.cu) and the staged copy is listed in the group log. Earlier waves: the geography-wave Cuba file filed the MINED "Programa" documents RECORD-ONLY; no earlier wave placed any of these books' civics/SS strands. Verdict: COMPLETE for the remaining strands — contents mapped first, then every remaining-strand part read in full (Presentación pp. 1–5; Unidad 4 "Comportamiento social" pp. 236–241). Named-not-placed: Unidad 2 El Sol, la Tierra, la Luna, el aire, el agua y el suelo (Science); Unidad 3 Los seres vivos incl. the human body, table manners and pregnancy care (Science/Health); Unidad 4's province survey — coasts, relief, rivers, the 15 provinces and special municipality (Geography); the efemérides and Moncada/Fidel content (History); Glosario p. 243 (inventory only). Contents map: Presentación — Las brigadas protectoras de la naturaleza pp. 1–5 (Civics — care of shared places); Unidad 1 Descubriendo el mundo en que vivimos pp. 6–48 (Science, with humans' transformation of nature and responsible behaviour towards it); Unidad 2 pp. 49–97 (Science); Unidad 3 Los seres vivos pp. 98–150 (Science/Health); Unidad 4 ¡Cuba qué linda es! pp. 151–241 (Geography/History, closing chapter Comportamiento social pp. 236–241 = Civics — social behaviour, symbols, transport and traffic, care of the home place). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/cuba-placements.md.
 
@@ -62,3 +62,22 @@ South Sudan's own way (Book 1): Community is learned through Okot's own family a
 Registry note: the original coined string `first-steps/helping-at-home-and-at-school` is recorded in the provenance rows above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/helping-with-housework-without-being-asked`.
 
 Searchable tags: helping with housework without being asked, South Sudan, social studies, first-steps
+
+Laos placements — Social Studies remaining strands (2026-11-17):
+
+**Book 9:** *laos-g01-moral-education-teacher-2020* (teacher guide, Lao) — Title as printed: ຄູ່ມືຄູ ຄຸນສົມບັດສຶກສາ ຊັ້ນປະຖົມສຶກສາ ປີທີ 1 (Teacher Guide, Moral Education, Primary Grade 1). Grade: Grade 1 (ປ.1) (student/teacher: TEACHER). Publisher: Ministry of Education and Sports, Educational Science Research Institute; year 2020; no ISBN printed (the imprint's ISBN line is blank in this printing). PDF pages: 162 (title page verified against the record title; 3,909,001 bytes, exact match to the record — fetched from the record's mirror source_url after the tree route failed). Earlier waves: not read before. Verdict: COMPLETE — full read of the text-layer guide; the introductory week (printed pp. 1–40) is orientation apparatus and Lesson 30 (printed p. 150) is the closing lesson of the school year — named, not placed. Contents map: Morals/Values pp. 55–149 (Lessons 1–29). Tally: 29 placements — 1 to existing lessons, 28 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/laos-placements.md. Teacher guide — evidence only, outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laos part 1 — first-steps/helping-with-work-at-home — Lesson 21 Helping with family work — teaches: the child's share of the household's work — Laos Grade 1 laos-g01-moral-education-teacher-2020, printed p. 121 (teacher guide — evidence) | Laos, *laos-g01-moral-education-teacher-2020* (teacher guide), Lesson 21 Helping with family work — printed p. 121 (teacher guide — evidence) |
+| Laos's way — the books' own teaching way | Laos — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 5 countries (Cuba, Bahamas, Syria, Vietnam, South Sudan).** Laos is named here as teacher-guide evidence only, counted nowhere.
+
+Laos's teacher-guide placements in this section are evidence only, outside the acceptance count; the acceptance count above is unchanged.
+
+Laos's own way (Book 9): the subject opens in the first weeks of a child's schooling with the road, the school and the flag, then moves home — thank-you and sorry, elders, neighbours — ending the year by widening respect to the whole community.
+
+Registry note: the original coined string `first-steps/helping-with-work-at-home` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/helping-with-housework-without-being-asked`.
+
+Searchable tags: helping with housework without being asked, Laos, social studies, first-steps

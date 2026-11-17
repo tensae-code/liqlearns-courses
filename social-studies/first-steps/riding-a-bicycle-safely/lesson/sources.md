@@ -1,6 +1,6 @@
 # Sources — Riding a Bicycle Safely
 
-countries: Serbia, Guatemala
+countries: Serbia, Guatemala, Laos
 
 **Book 3:** *ПРИРОДА И ДРУШТВО — уџбеник за трећи разред основне школе (Nature and Society 3)* (student book, Serbian) — Title as printed: ПРИРОДА И ДРУШТВО — уџбеник за трећи разред основне школе (author Милица Ћук). Grade: Grade 3 (student/teacher: STUDENT). Publisher: Нова школа (Nova škola), Београд; year 2021, first edition; ISBN 978-86-6225-054-4; ministry approval 650-02-00465/1/2020-07 (1 Feb 2021). PDF pages: 124 (image-only scan; printed page = PDF page; cover and imprint verified from renders; fetched from the record's source_url after the GitHub copy proved a phantom push — the record is marked in_pushed but the book is ABSENT from GitHub; the fetched file is staged in phase3-staging, never deleted, under the 2026-11-13 rule). Earlier waves: none. Verdict: COMPLETE (for the remaining strands). Contents map: Мој крај (My region) printed pp. 4–10 — relief and surface waters are Geography (named, not placed); Живот и рад људи у мом крају pp. 8–9 placed; Оријентација у простору и времену pp. 12–26 — Geography (compass, plans, maps, timeline; named, not placed); Култура живљења (Culture of living) pp. 28–42 — the society unit, placed except the traffic play pp. 40–41 (the book's own activity piece) and the revision summary p. 42; Разноврсност природе (Diversity of nature) pp. 44–78 — Science (water, air, living communities; named, not placed), with Заразне болести pp. 52–55 Health (named, not placed) and the soil/water protection lessons pp. 74–77 placed as shared-environment duty; Прошлост (The past) pp. 80–90 — History (named, not placed); Кретање (Movement) pp. 92–104 — Science (named, not placed); Материјали (Materials) pp. 106–120 — Science (named, not placed), with Рециклажа pp. 118–119 placed as civic-environmental duty. The book's own revision summaries (pp. 10, 26, 42, 78, 90, 104, 120) are not placed. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/serbia-placements.md.
 
@@ -29,3 +29,20 @@ Guatemala placements — Social Studies remaining strands (2026-11-17):
 
 Guatemala's own way (Book 5): citizenship is woven through every unit of the history/geography book — a fourth-grader meets the three powers, the human-rights declaration, the civil registry and the ballot box inside the same volume that tells the national story, under the unit motto "Vivamos en Armonía" (Let us live in harmony).
 Registry note: the original coined string `first-steps/riding-a-bicycle-safely-and-sharing-the-road` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/riding-a-bicycle-safely`.
+
+Laos placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *laos-g03-moral-education-teacher-2021* (teacher guide, Lao) — Title as printed: ຄູ່ມືຄູ ຄຸນສົມບັດສຶກສາ ຊັ້ນປະຖົມສຶກສາ ປີທີ 3 (Teacher Guide, Moral Education, Primary Grade 3). Grade: Grade 3 (ປ.3) (student/teacher: TEACHER). Publisher: Ministry of Education and Sports, Educational Science Research Institute; year 2021; no ISBN printed. PDF pages: 72 (cover/title page verified against the record title; 2,038,592 bytes, exact match to the record). Earlier waves: not read before. Verdict: COMPLETE — full page-by-page read of the text-layer guide; the opening lesson (ບົດເປີດຫົວເລື່ອງ, printed p. 6) is a review of Grade 2 and is named here, not placed (revision-lesson exclusion). Contents map: Morals/Values pp. 8–67 (29 lessons); Civics/Citizenship pp. 51–63 within the same run (children's rights, right to protection, village administration); the guide's general introduction pp. 1–5 is apparatus, not placed. Tally: 29 placements — 0 to existing lessons, 29 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/laos-placements.md. Teacher guide — evidence only, outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laos part 1 — first-steps/riding-a-bicycle-safely — Lesson 1 Riding a bicycle safely — teaches: safe cycling as a duty to oneself and others on the road, taught through a story and class discussion — Laos Grade 3 laos-g03-moral-education-teacher-2021, printed p. 8 (teacher guide — evidence) | Laos, *laos-g03-moral-education-teacher-2021* (teacher guide), Lesson 1 Riding a bicycle safely — printed p. 8 (teacher guide — evidence) |
+| Laos's way — the books' own teaching way | Laos — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 2 countries (Serbia, Guatemala).** Laos is named here as teacher-guide evidence only, counted nowhere.
+
+Laos's teacher-guide placements in this section are evidence only, outside the acceptance count; the acceptance count above is unchanged.
+
+Laos's own way (Book 1): Moral Education is a standalone weekly subject built as one short story-and-discussion lesson per value, sequenced self → family → friends → school → nation → the world; the same value returns at the next grade widened (the guide prints a Grade 2 ↔ Grade 3 lesson comparison table for planning).
+
+Searchable tags: riding a bicycle safely, Laos, social studies, first-steps

@@ -1,6 +1,6 @@
 # Sources — Loving Our Hometown and Country
 
-countries: Japan
+countries: Japan, Laos
 
 **Book 1:** *Watashitachi no Doutoku, Elementary Grades 1–2 (わたしたちの道徳 小学校1・2年) * (student book, Japanese) — Title as printed: わたしたちの道徳 小学校1・2年 (Our Morals, Elementary Grades 1–2) Grade: Grades 1–2 (student/teacher: STUDENT) Publisher: 文部科学省 (Ministry of Education, Culture, Sports, Science and Technology — MEXT); year 2014 (file metadata; the record's source file is the 2016 repost); ISBN no ISBN printed (ministry-distributed reader) PDF pages: 90 in the repo copy (two-spread layout, printed pp. cover–175 plus closing pages; cover/title page verified against the record title). Unit 1 was read in the first session from the ministry part file (27 PDF pages = printed pp. cover–51); Units 2–4 were read on the retry finisher pass from the repo copy — the git-tree Contents route 404s for this file; the book sits in release mid-size-books-6 as asset grade-01-gov-japan-moral-education-student-full-year.pdf, fetched via the curl Releases API route, 36,770,856 bytes, byte size verified against the release record. The last nine spreads of the repo copy carry no text layer and were read from page renders. Earlier waves: not read before (Japan held no Geography/History/Economics wave targets) Verdict: COMPLETE — Unit 1 placed in the first session; Units 2–4 (printed pp. 52–175) read in full on the retry and placed below. First-session routes for the remainder, for the record: grab.py tree failed (GitHub API RemoteDisconnected), the record's MEXT source URL is only part 1 of the ministry's split files, and no sibling part is archived in the Wayback Machine — the repo copy was the only route, as the first filing said. Contents map: Morals/Values — the whole book: Unit 1 自分を見つめて (Looking at myself) printed pp. 8–51; Unit 2 人とともに (With people) pp. 52–87; Unit 3 いのちにふれて (Touching life) pp. 88–115; Unit 4 みんなとともに (With everyone) pp. 116–175, which carries the youngest pupils' civics — keeping promises and rules, the good of working, being useful to your family, a happy school life, love of hometown, getting along with everyone, and knowing other countries. The closing record pages (printed pp. 174–175, 道徳で学習したことを書きましょう) are apparatus, named, not placed. No Geography/History/Economics/Science parts (a pure moral-education reader). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/japan-placements.md.
 
@@ -28,3 +28,25 @@ Japan's own way (Book 2): the middle pupils' reader widens in the same four step
 Japan's own way (Book 3): the older pupils' reader moves from self-discipline to society in four widening units — polish yourself, connect with people, cherish life, connect with everyone — and teaches civics inside moral stories: rights are introduced as the other face of duties, the Diet appears as the place where rules are made, and fairness is taught through a story of a Vietnamese classmate facing discrimination.
 
 Searchable tags: loving our hometown and country, Japan, social studies, culture-and-work
+
+Laos placements — Social Studies remaining strands (2026-11-17):
+
+**Book 12:** *laos-g05-moral-education-teacher* (teacher guide, Lao) — Title as printed: ຄູ່ມືຄູ ຄຸນສົມບັດສຶກສາ ຊັ້ນປະຖົມສຶກສາ ປີທີ 5 (Teacher Guide, Moral Education, Primary Grade 5). Grade: Grade 5 (ປ.5) (student/teacher: TEACHER). Publisher: Ministry of Education, Educational Science Research Institute; year 2009 (printed by Pitambra Books, Jhansi, India); no ISBN printed. PDF pages: 73 (cover/title page verified against the record title; 23,482,884 bytes, exact match to the record — fetched from the record's mirror source_url; legacy-font text layer, read from renders). Earlier waves: not read before. Verdict: COMPLETE — contents and all 14 lessons read; the closing section (printed pp. 63–72) prints articles of the child-rights convention, the Constitution and Lao laws as reference text — inventory only, not placed. Contents map: Morals/Values pp. 16–62 (14 lessons); Civics/Citizenship within the same run (local governing authority, Lesson 10; the United Nations, Lesson 13); reference appendix pp. 63–72. Tally: 14 placements — 1 to existing lessons, 13 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/laos-placements.md. Teacher guide — evidence only, outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laos part 1 — culture-and-work/loving-our-hometown — Lesson 9 Loving one's birthplace (ຮັກບ້ານເກີດເມືອງນອນ) — teaches: love of the village or town where you were born and raised — Laos Grade 5 laos-g05-moral-education-teacher, printed p. 43 (teacher guide — evidence) | Laos, *laos-g05-moral-education-teacher* (teacher guide), Lesson 9 Loving one's birthplace (ຮັກບ້ານເກີດເມືອງນອນ) — printed p. 43 (teacher guide — evidence) |
+| Laos part 2 — culture-and-work/loving-our-nation — Lesson 11 Loving the nation (ຮັກປະເທດຊາດ) — teaches: love of country — its land, peoples and cultures — and taking part in protecting and building it — Laos Grade 5 laos-g05-moral-education-teacher, printed p. 50 (teacher guide — evidence) | Laos, *laos-g05-moral-education-teacher* (teacher guide), Lesson 11 Loving the nation (ຮັກປະເທດຊາດ) — printed p. 50 (teacher guide — evidence) |
+| Laos's way — the books' own teaching way | Laos — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Japan).** Laos is named here as teacher-guide evidence only, counted nowhere.
+
+Laos's teacher-guide placements in this section are evidence only, outside the acceptance count; the acceptance count above is unchanged.
+
+Laos's own way (Book 12): the last primary moral year widens the circles to their widest — neighbours, hometown, local government, nation, peace and the United Nations — and closes with care of the country's natural resources.
+
+Registry note: the original coined string `culture-and-work/loving-our-hometown` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/loving-our-hometown-and-country`.
+
+Registry note: the original coined string `culture-and-work/loving-our-nation` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/loving-our-hometown-and-country`.
+
+Searchable tags: loving our hometown and country, Laos, social studies, culture-and-work

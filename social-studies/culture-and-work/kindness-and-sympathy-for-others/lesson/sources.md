@@ -1,6 +1,6 @@
 # Sources — Kindness and Sympathy for Others
 
-countries: Myanmar
+countries: Myanmar, Laos
 
 **Book 2:** *Morality and Civics, Grade 1* (student book, Myanmar language) — Title as printed: စာရိတ္တနှင့် ပြည်သူ့နီတိ ပထမတန်း (Morality and Civics, Grade 1). Grade: Grade 1 (student/teacher: STUDENT). Publisher: Ministry of Education, Republic of the Union of Myanmar (CREATE/JICA-supported new primary curriculum, credited on back page); year 2017–2018; no ISBN printed. PDF pages: 72 (cover/title page verified against the record title; 6,125,502 bytes from books.learnbig.net). Earlier waves: not read before. Verdict: COMPLETE (civics track — full page-by-page read). Contents map: Morals/Values pp. 1–71 (all 16 chapters); no Geography/History/Economics/Science/Religion parts. Tally: 16 placements — 0 to existing lessons, 16 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/myanmar-placements-b.md.
 
@@ -29,3 +29,22 @@ Myanmar's own way (Book 7): the Grade 3 units keep the story-and-poem shape but 
 Myanmar's own way (Book 9): Grade 4 names children's RIGHTS as a picture inventory (food, water, a house, clothes, care, medicine, play, learning, family) and turns environmental care into two full units — preserving the earth and the natural surroundings, with drought, flood, felled forests and factory smoke as the evidence.
 
 Searchable tags: kindness and sympathy for others, Myanmar, social studies, culture-and-work
+
+Laos placements — Social Studies remaining strands (2026-11-17):
+
+**Book 8:** *laos-g02-moral-education-teacher-2020* (teacher guide, Lao) — Title as printed: ຄູ່ມືຄູ ຄຸນສົມບັດສຶກສາ ຊັ້ນປະຖົມສຶກສາ ປີທີ 2 (Teacher Guide, Moral Education, Primary Grade 2). Grade: Grade 2 (ປ.2) (student/teacher: TEACHER). Publisher: Ministry of Education and Sports, Educational Science Research Institute; year 2020; ISBN 978-9932-00-266-5. PDF pages: 127 (title page verified against the record title; 3,204,079 bytes, exact match to the record — fetched from the record's mirror source_url after the tree route failed; the file is a print-ready PDF whose page 1 is the back cover). Earlier waves: not read before. Verdict: COMPLETE — full read of the text-layer guide; the opening lesson (printed p. 7) reviews Grade 1 and the appendix (printed p. 113) is apparatus — named, not placed. Contents map: Morals/Values pp. 12–112 (29 lessons). Tally: 29 placements — 0 to existing lessons, 29 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/laos-placements.md. Teacher guide — evidence only, outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laos part 1 — culture-and-work/kindness-and-compassion-for-friends — Lesson 25 Kindness toward friends — teaches: compassion (ຄວາມເມດຕາ) for a friend's suffering — Laos Grade 2 laos-g02-moral-education-teacher-2020, printed p. 95 (teacher guide — evidence) | Laos, *laos-g02-moral-education-teacher-2020* (teacher guide), Lesson 25 Kindness toward friends — printed p. 95 (teacher guide — evidence) |
+| Laos's way — the books' own teaching way | Laos — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Myanmar).** Laos is named here as teacher-guide evidence only, counted nowhere.
+
+Laos's teacher-guide placements in this section are evidence only, outside the acceptance count; the acceptance count above is unchanged.
+
+Laos's own way (Book 8): Grade 2 widens Grade 1's start (road, school, family) into duties — classroom rules, care of the national flag, responsibility for shared property, and keeping the community environment clean.
+
+Registry note: the original coined string `culture-and-work/kindness-and-compassion-for-friends` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/kindness-and-sympathy-for-others`.
+
+Searchable tags: kindness and sympathy for others, Laos, social studies, culture-and-work

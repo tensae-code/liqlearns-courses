@@ -1,6 +1,6 @@
 # Sources — How Government is Organised
 
-countries: Jordan, El Salvador, Dominican Republic
+countries: Jordan, El Salvador, Dominican Republic, Laos
 
 **Book 9:** *الدراسات الاجتماعية — الصف الرابع — الفصل الدراسي الأول (Social Studies, Grade 4, First Semester)* (student book, Arabic) — Title as printed: الدراسات الاجتماعية — الصف الرابع — الفصل الدراسي الأول (Social Studies, Grade 4, First Semester). Grade: 4 (student/teacher: STUDENT). Publisher: National Center for Curriculum Development (NCCD), Jordan; year 2023 (approved for school year 2023/2024); ISBN 978-9923-41-574-0. PDF pages: 80 (cover rendered and verified against the record title; byte size 22,639,631, grabbed via the release route). Earlier waves: Geography wave placed Unit 1 Lessons 3–4 (customs → culture-cultural-values; folk dress → culture-symbols) and Unit 4 / History wave placed Unit 2 (ancient civilisations, kings, army heroics) / Economics wave placed Unit 4 Lessons 1–3 (agriculture, industry, energy). Verdict: COMPLETE. Contents map: Civics/Culture (The Individual and Society unit) pp. 6–25; History pp. 26–43; Civics (Authority and Government in Jordan unit) pp. 44–57; Economics pp. 58–70; Geography/Environment pp. 71–79. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/jordan-placements.md.
 
@@ -57,3 +57,22 @@ Dominican Republic's own way (Book 9): the combined Grade 5 volume teaches the s
 Dominican Republic's own way (Book 12): Grade 8 reads the Constitution's own Preamble as the primary text ("Nosotros, representantes del pueblo dominicano, libre y democráticamente elegidos…"), then turns outward — the OAS, a Latin American peace treaty, and EDUCA, the Dominican private-sector education body, as a home example of participative solutions.
 
 Searchable tags: how government is organised, Dominican Republic, social studies, culture-and-work
+
+Laos placements — Social Studies remaining strands (2026-11-17):
+
+**Book 13:** *laos-g05-world-around-us-teacher* (teacher guide, Lao) — Title as printed: ຄູ່ມືຄູ ໂລກອ້ອມຕົວເຮົາ ຊັ້ນປະຖົມສຶກສາ ປີທີ 5 (Teacher Guide, The World Around Us, Primary Grade 5). Grade: Grade 5 (ປ.5) (student/teacher: TEACHER). Publisher: Ministry of Education, Educational Science Research Institute; year 2009 (printed by Pitambra Books, Jhansi, India); no ISBN printed. PDF pages: 173 (cover verified against the record title; 58,235,323 bytes, exact match to the record — fetched from the record's mirror source_url; read from renders). Earlier waves: not read before. Verdict: COMPLETE for this wave's scope — contents read in full (59 lessons) and the three remaining-strand lessons (42–44) read page by page; the rest is Science (senses, water, plants, animals, materials, electricity), Geography (rivers, globe, day and night, solar system) and History (Lane Xang, 12 October 1945, the 1975 founding of the Lao PDR), named in the contents map and not placed. Contents map: Civics/Citizenship/Government pp. 125–131 (Lessons 42–44); Science pp. 17–124 and 135–168 (Lessons 1–41 in part, 45–59); Geography pp. 92–124 (Lessons 26–34 in part); History pp. 110–124 (Lessons 35–41). Tally: 3 placements — 0 to existing lessons, 3 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/laos-placements.md. Teacher guide — evidence only, outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laos part 1 — culture-and-work/how-laos-is-governed — Lesson 44 The governing system of Laos (ລະບົບການປົກຄອງຂອງລາວ) — teaches: Laos is governed at three levels — province/capital city, district and village — who leads each level, and the head of state and head of government above them — Laos Grade 5 laos-g05-world-around-us-teacher, printed p. 130 (teacher guide — evidence) | Laos, *laos-g05-world-around-us-teacher* (teacher guide), Lesson 44 The governing system of Laos (ລະບົບການປົກຄອງຂອງລາວ) — printed p. 130 (teacher guide — evidence) |
+| Laos's way — the books' own teaching way | Laos — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 3 countries (Jordan, El Salvador, Dominican Republic).** Laos is named here as teacher-guide evidence only, counted nowhere.
+
+Laos's teacher-guide placements in this section are evidence only, outside the acceptance count; the acceptance count above is unchanged.
+
+Laos's own way (Book 13): at the end of primary school the science book turns to the state itself — law in two kinds, the citizen's rights and duties, and the three levels that govern the country, each level named with its own leader.
+
+Registry note: the original coined string `culture-and-work/how-laos-is-governed` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/how-government-is-organised`.
+
+Searchable tags: how government is organised, Laos, social studies, culture-and-work

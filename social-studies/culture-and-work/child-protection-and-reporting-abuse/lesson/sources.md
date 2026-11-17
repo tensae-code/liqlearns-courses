@@ -1,6 +1,6 @@
 # Sources — Child Protection and Reporting Abuse
 
-countries: Haiti, Uganda, Morocco, Rwanda, Zimbabwe, Dominican Republic
+countries: Haiti, Uganda, Morocco, Rwanda, Zimbabwe, Dominican Republic, Laos
 
 **Book 4:** *Sciences sociales — Éducation à la citoyenneté — Droits, devoirs et valeurs (l'école inclusive et le droit à l'éducation)* (teacher sequence, French) — Title as printed: Sciences sociales — Éducation à la citoyenneté — Droits, devoirs et valeurs (l'école inclusive et le droit à l'éducation) (Projet Nectar, MENFP, 8e année; authors Mélanie Albaret, Arnaud Dechelle). Grade: Grade 8 (student/teacher: TEACHER). Publisher: MENFP / Projet Nectar (Canoprof); year not printed; no ISBN printed (CC BY-NC-SA licence printed). PDF pages: 28 (cover verified against the record title; 849,191 bytes, grab.py size/SHA verified — byte size also matches the links-file record for the same PDF). Earlier waves: Geography wave filed it record-only (pure Civics); History wave record-only (pure Civics); Economics wave record-only (no Economics parts) — its civics strands are placed here for the first time. Verdict: COMPLETE. Contents map: Civics/Citizenship/Government pp. 9–28 (whole book); Morals/Values pp. 11–16 (the notion of value and its making into law, inside Séance 2 and Séance 3). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/haiti-placements.md. Teacher guide — evidence only, outside the acceptance count.
 
@@ -132,3 +132,22 @@ Dominican Republic's own way (Book 9): the combined Grade 5 volume teaches the s
 Registry note: the original coined string `culture-and-work/the-law-that-protects-children-ley-136-03` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/child-protection-and-reporting-abuse`.
 
 Searchable tags: child protection and reporting abuse, Dominican Republic, social studies, culture-and-work
+
+Laos placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *laos-g03-moral-education-teacher-2021* (teacher guide, Lao) — Title as printed: ຄູ່ມືຄູ ຄຸນສົມບັດສຶກສາ ຊັ້ນປະຖົມສຶກສາ ປີທີ 3 (Teacher Guide, Moral Education, Primary Grade 3). Grade: Grade 3 (ປ.3) (student/teacher: TEACHER). Publisher: Ministry of Education and Sports, Educational Science Research Institute; year 2021; no ISBN printed. PDF pages: 72 (cover/title page verified against the record title; 2,038,592 bytes, exact match to the record). Earlier waves: not read before. Verdict: COMPLETE — full page-by-page read of the text-layer guide; the opening lesson (ບົດເປີດຫົວເລື່ອງ, printed p. 6) is a review of Grade 2 and is named here, not placed (revision-lesson exclusion). Contents map: Morals/Values pp. 8–67 (29 lessons); Civics/Citizenship pp. 51–63 within the same run (children's rights, right to protection, village administration); the guide's general introduction pp. 1–5 is apparatus, not placed. Tally: 29 placements — 0 to existing lessons, 29 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/laos-placements.md. Teacher guide — evidence only, outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laos part 1 — culture-and-work/childrens-right-to-protection — Lesson 22 The right to protection — teaches: every child has the right to be protected from harm — Laos Grade 3 laos-g03-moral-education-teacher-2021, printed p. 51 (teacher guide — evidence) | Laos, *laos-g03-moral-education-teacher-2021* (teacher guide), Lesson 22 The right to protection — printed p. 51 (teacher guide — evidence) |
+| Laos's way — the books' own teaching way | Laos — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 3 countries (Uganda, Rwanda, Dominican Republic).** Laos is named here as teacher-guide evidence only, counted nowhere.
+
+Laos's teacher-guide placements in this section are evidence only, outside the acceptance count; the acceptance count above is unchanged.
+
+Laos's own way (Book 1): Moral Education is a standalone weekly subject built as one short story-and-discussion lesson per value, sequenced self → family → friends → school → nation → the world; the same value returns at the next grade widened (the guide prints a Grade 2 ↔ Grade 3 lesson comparison table for planning).
+
+Registry note: the original coined string `culture-and-work/childrens-right-to-protection` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/child-protection-and-reporting-abuse`.
+
+Searchable tags: child protection and reporting abuse, Laos, social studies, culture-and-work

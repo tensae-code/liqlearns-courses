@@ -1,6 +1,6 @@
 # Sources — Jobs People Do in Our Community
 
-countries: Latvia, Philippines, Serbia, Bangladesh, Turkey, North Macedonia, Iran, Mauritania
+countries: Latvia, Philippines, Serbia, Bangladesh, Turkey, North Macedonia, Iran, Mauritania, Laos
 
 **Book 1:** *Sociālās zinības 1. klase* (teacher guide, Latvian) — Latviešu valodas aģentūra (Latvian Language Agency); year 2023; ISBN 978-9934-617-33-1. Title as printed: Sociālās zinības 1. klase — Latviešu valodas un sociālo zinību satura integrēta apguve lingvistiski neviendabīgā vidē — Metodisks līdzeklis skolotājam. Grade: Grade 1 (student/teacher: TEACHER). PDF pages: 61 (cover/title page verified against the record title — author Linda Krastiņa and ISBN match the record exactly). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Integrated SS (school life) printed pp. 7–17; Morals/Values (safe relationships, honesty, emotions) printed pp. 18–21; Culture in society (family/class festivals) printed pp. 22–24; Integrated SS (work/jobs, wants and needs) printed pp. 25–27; Appendices (worksheets/apparatus, inventory only) printed pp. 28–60. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/latvia-placements-b.md. Teacher guide — evidence only, outside the acceptance count.
 
@@ -97,3 +97,22 @@ Mauritania's own way (Book 7): Year 5 is the state itself — the child climbs t
 Registry note: the original coined string `first-steps/professions-and-crafts-in-our-community` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/jobs-people-do-in-our-community`.
 
 Searchable tags: jobs people do in our community, Mauritania, social studies, first-steps
+
+Laos placements — Social Studies remaining strands (2026-11-17):
+
+**Book 18:** *laos-g02-world-around-us-teacher* (teacher guide, Lao) — Title as printed: ຄູ່ມືຄູ ໂລກອ້ອມຕົວເຮົາ ຊັ້ນປະຖົມສຶກສາ ປີທີ 2 (Teacher Guide, The World Around Us, Primary Grade 2). Grade: Grade 2 (ປ.2) (student/teacher: TEACHER). Publisher: Ministry of Education, Educational Science Research Institute; year 2007 (printed by Nhan Dan Printing House, Ho Chi Minh City); no ISBN printed. PDF pages: 71 (cover verified against the record title; 36,048,768 bytes, exact match to the record — fetched from the record's mirror source_url; read from renders). Earlier waves: not read before. Verdict: COMPLETE for this wave's scope — the full lesson list read from the parallel pupil book's contents (29 lessons) and the seven remaining-strand lessons (18–24) read page by page in this guide; the rest is Science and Health (body and senses, plants, animals, food chains, soil, water and air, times of day), named in the contents map and not placed. Contents map: Integrated SS (our village, its people and its shared life) pp. 45–58 (Lessons 18–24); Science pp. 9–44 and 59–66 (Lessons 1–17, 25–29); Health within the same Science run (mouth and teeth care). Tally: 7 placements — 1 to existing lessons, 6 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/laos-placements.md. Teacher guide — evidence only, outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laos part 1 — first-steps/occupations-in-our-village — Lesson 21 Occupations of the villagers (ອາຊີບຂອງຊາວບ້ານ) — teaches: the work people do in the village, how each occupation serves everyone, and that the best work is the work that makes the village grow — Laos Grade 2 laos-g02-world-around-us-teacher, printed p. 51 (teacher guide — evidence) | Laos, *laos-g02-world-around-us-teacher* (teacher guide), Lesson 21 Occupations of the villagers (ອາຊີບຂອງຊາວບ້ານ) — printed p. 51 (teacher guide — evidence) |
+| Laos's way — the books' own teaching way | Laos — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 7 countries (Philippines, Serbia, Bangladesh, Turkey, North Macedonia, Iran, Mauritania).** Laos is named here as teacher-guide evidence only, counted nowhere.
+
+Laos's teacher-guide placements in this section are evidence only, outside the acceptance count; the acceptance count above is unchanged.
+
+Laos's own way (Book 18): Grade 2's world widens from the body to the village — its houses and important people, the work its people do, how they reach and speak to each other, how to travel safely, and the shared duty of keeping the village clean.
+
+Registry note: the original coined string `first-steps/occupations-in-our-village` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/jobs-people-do-in-our-community`.
+
+Searchable tags: jobs people do in our community, Laos, social studies, first-steps
