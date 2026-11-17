@@ -1,6 +1,6 @@
 # Sources — The simple electric circuit
 
-countries: Jamaica, Haiti
+countries: Jamaica, Haiti, Rwanda
 
 **Book 1:** *National Standards Curriculum Guide — Grades 4–6 — Resource & Technology* (curriculum guide with full unit teaching content) — Jamaica, Ministry of Education, Youth and Information, Kingston, Jamaica; © 2018. Year/edition: 2018 (PDF created in Adobe InDesign CC 13.1, Sep 2018). Grade: Grades 4–6. Language: English. Pages: 188 (PDF); printed pagination runs to p. 167 (printed p. = PDF p. − 20). Source + route: file held on disk in phase3-staging (grade-04/gov/jamaica/curriculum/grades-4-6-resource-technology.pdf), 15,155,269 bytes; copied into scratch and read there — the book is also recorded pushed to GitHub. Kind: curriculum (guide with full unit teaching content). File quirk, verified: the visible cover (rendered and read) is the Resource & Technology Grades 4–6 cover, and the whole body is that guide; the cover page's embedded text layer, however, reads "Grades 7-9 English Language/Literature" — a production artifact in the file's text layer, not a different book. Read: COMPLETE (whole guide checked; Engineering & Mechanisms units and Design Process material read in full). Placements at liqlearns-courses-work/expansion-td-2026-11-17/jamaica-placements.md.
 
@@ -10,13 +10,18 @@ countries: Jamaica, Haiti
 |---|---|
 | Simple electric circuits (original string `simple electric circuits`) | Jamaica, *National Standards Curriculum Guide — Grades 4–6 — Resource & Technology*, printed p. 72 — energy sources and electrical energy for devices (fans, flashlights, calculators, radios); discovering current flow; types of circuits; the components of a circuit (batteries, conductors, bulb, switch) and how a simple circuit operates, explained with a diagram. Jamaica, Grade 5, Engineering & Mechanisms, project 'This Little Light of Mine' |
 | Building a circuit model — open and closed circuits (original string `basic electric circuits — open and closed circuits, building a circuit model`) | Haiti, *Initiation à la technologie et aux activités productives (ITAP) — Installation photovoltaïque pour une maison « Kay peyi »* (teacher guide — evidence), printed p. 4, 8 — building a maquette of an electric circuit with low-voltage generator, lamps, sockets, switch; open and closed circuits. Haiti, 8e AF, Projet Nectar sequence |
+| The simple electric circuit: building and observing a working circuit (bicycle dynamo and bulb experiments in the same unit show generation feeding a circuit) (original string `the simple electric circuit: building and observing a working circuit (bicycle dynamo and bulb experiments in the same unit show generation feeding a circuit)`) | Rwanda, *Science and Elementary Technology for Rwandan Schools — Pupil's Book 5*, printed p. 198 |
 
-**Acceptance count: taught in 1 country (Jamaica) — plus teacher-guide evidence only (Haiti), named here, counted nowhere.**
+**Book 3:** *Science and Elementary Technology for Rwandan Schools — Pupil's Book 5* (pupil's book) — Rwanda, Spotlight Publishers (EA) Limited for Rwanda Education Board (REB); authors David Kamoce, Daniel Arapai, Rosalia Wacuka (title page); 2019 (record). Grade: Primary 5. Language: English (native text layer). Pages: 228 (PDF). Source + route: tensae-code/liqlearns-textbooks release asset `mid-size-books/grade-05-gov-rwanda-science-and-elementary-technology-student-full-year.pdf` via grab.py url route; 60,161,568 bytes — matches the asset index. Cover verified. Kind: student (pupil's book). Read: COMPLETE (technology parts read page by page from the text layer). Placements at liqlearns-courses-work/expansion-td-2026-11-17/rwanda-placements.md.
+
+**Acceptance count: taught in 2 countries (Jamaica, Rwanda) — plus teacher-guide evidence only (Haiti), named here, counted nowhere.**
 
 Jamaica's own way: Jamaica teaches the circuit inside the flashlight the class will make — electrical energy is surveyed in familiar devices first (fans, flashlights, calculators, radios), current flow is discovered, and the circuit's components are learned with a diagram of the very circuit the learners will build.
 
 Haiti's own way: Haiti teaches the basic circuit as a built maquette inside the photovoltaic project — a low-voltage generator, lamps, sockets and a switch assembled by the learners, so open and closed circuits are handled on a model of the very installation the class is designing for the Kay peyi house.
 
+Rwanda's own way: Rwanda teaches the simple circuit inside its Primary 5 electricity unit — tools and materials first (printed p. 197), then the circuit built and observed working, with bicycle dynamo and bulb experiments in the same unit showing generation feeding a circuit, before the unit closes with the dangers of electricity.
+
 Haiti programme note: Haiti's ETAP programmes for the 3e cycle (MENFP, Direction Enseignement Fondamental, version définitive 28 juillet 2024) are curriculum/framework documents, recorded RECORD-ONLY in the placements file and not stocked; the teaching stocked here comes from the Projet Nectar pedagogical sequences that deliver the programme. The LibreOffice Impress (PAO) Nectar sequence in the same placements file is likewise RECORD-ONLY — pure ICT content, stocked in the ICT course, not here.
 
-Searchable tags: electric circuit, current, battery, conductor, bulb, switch, Jamaica, Grade 5, Resource & Technology, open circuit, closed circuit, circuit maquette, Haiti, ITAP, Projet Nectar, 8e AF, French
+Searchable tags: electric circuit, current, battery, conductor, bulb, switch, Jamaica, Grade 5, Resource & Technology, open circuit, closed circuit, circuit maquette, Haiti, ITAP, Projet Nectar, 8e AF, French, Rwanda, REB, Primary 5, dynamo

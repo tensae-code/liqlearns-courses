@@ -717,7 +717,7 @@ architectural-construction drawings.
 Placements at
 liqlearns-courses-work/expansion-td-2026-11-17/belarus-placements.md.
 
-**Course totals: 189 lessons** — Technical Drawing 17 lessons
+**Course totals: 225 lessons** — Technical Drawing 17 lessons
 (Ethiopia, teacher-guide evidence) plus the 7 Canada lessons
 above (First Steps 3, Mechanisms and Machines 1, Electrical
 Installations and the Home 1, Textiles and Fashion 1,
@@ -776,7 +776,14 @@ stocked 6 placements into 5 existing lessons
 (The sewing machine, The design process,
 Construction technology — 2 placements,
 Dimensioning — lines, symbols and reading
-direction, Orthographic projection basics).
+direction, Orthographic projection basics). plus the
+36 Rwanda lessons below (Workshop and Safety 5,
+Materials 2, Metal 1, Mechanisms and Machines 3,
+Electricity and Electronics 2, Electrical
+Installations and the Home 1, Agriculture Technology
+2, Paper, Card and Modelling 20); Rwanda also stocked
+1 placement into the existing The simple electric
+circuit lesson.
 
 ## Samoa, MESC Food & Textiles Technology and Design & Technology (T&D expansion, stocked 2026-11-17)
 
@@ -909,6 +916,115 @@ and approval included.
 
 Placements at
 liqlearns-courses-work/expansion-td-2026-11-17/samoa-placements.md.
+
+## Rwanda, Science and Elementary Technology (T&D expansion, stocked 2026-11-17)
+
+Stocked from Rwanda's *Science and Elementary
+Technology* (SET) books — Rwanda Education Board
+(REB): Primary 2 Pupil's Book (© 2020, English;
+a parallel Kinyarwanda pupil's edition, © 2019, was
+read once and placed once under the English edition),
+Primary 4 Pupil's Book (2019), Primary 5 Pupil's Book
+(Spotlight Publishers (EA) Limited for REB, 2019) and
+Primary 6 Pupil's Book (Longhorn Publishers Rwanda
+for REB), each read COMPLETE for its technology parts;
+plus the Primary 4, Primary 5 and Primary 6 Teacher's
+Guides and the Kinyarwanda Primary 2 Teacher Guide as
+EVIDENCE (teacher guides, counted nowhere — the
+pupil's books remain the placement carriers). Of the
+61 placements, all were NEW LESSON NEEDED; each was
+resolved through the T&D slug registry to its
+canonical lesson — 36 built new, and 1 stocked into
+the existing The simple electric circuit lesson.
+Rwanda counts in the acceptance count for its pupil's
+books; three new lessons stand on teacher-guide
+evidence only (Making a toy bicycle and a doll;
+Objects production; Toys, various materials and
+teaching aids), counted nowhere.
+
+- **Workshop and Safety** (5 new lessons, 13 questions
+  each): Tools and materials at home and at school
+  (P2 Pupil, printed pp. 2, 11; P2 Kinyarwanda guide,
+  printed p. 1 — evidence); Keeping and maintaining
+  materials and made objects (P2 Pupil, printed
+  pp. 9, 14; P4 Pupil, printed p. 31; P5 Pupil,
+  printed p. 33; P6 Pupil, printed p. 48); Carpentry
+  tools (P5 Pupil, printed pp. 2, 4, 11; P5 Guide,
+  printed p. 1 — evidence); Masonry tools (P5 Pupil,
+  printed pp. 16, 18; P5 Guide, printed p. 20 —
+  evidence); Mechanics and blacksmith tools (P6 Pupil,
+  printed pp. 1, 10; P6 Guide, printed p. 38 —
+  evidence).
+- **Materials** (2 new lessons, 13 questions each):
+  Classification of materials (P5 Pupil, printed
+  p. 205); Sustainable waste management (P6 Pupil,
+  printed p. 211).
+- **Metal** (1 new lesson, 13 questions — a new unit
+  in this course): Maintenance of metals (P5 Pupil,
+  printed p. 209).
+- **Mechanisms and Machines** (3 new lessons,
+  13 questions each): Simple machines (P6 Pupil,
+  printed p. 19; P6 Guide, printed p. 59 — evidence);
+  Levers (P6 Pupil, printed p. 20); Dangers when using
+  simple machines, and safety in using simple machines
+  (P6 Pupil, printed p. 29).
+- **Electricity and Electronics** (2 new lessons,
+  13 questions each): Common tools used in electricity
+  (P5 Pupil, printed p. 197); Common materials used in
+  electricity (P5 Pupil, printed p. 197). The simple
+  electric circuit also carries a Rwanda placement
+  (P5 Pupil, printed p. 198).
+- **Electrical Installations and the Home** (1 new
+  lesson, 13 questions): Electrical safety (P5 Pupil,
+  printed p. 200).
+- **Agriculture Technology** (2 new lessons,
+  13 questions each — a new unit in this course):
+  Agricultural tools and their uses (P4 Pupil, printed
+  pp. 1, 2; P4 Guide, printed p. 1 — evidence); Caring
+  for agricultural tools (P4 Pupil, printed pp. 7, 8).
+- **Paper, Card and Modelling** (20 new lessons,
+  13 questions each): Making a toy bird out of paper
+  (P2 Pupil, printed p. 20); Making a rectangle and a
+  square out of paper (printed p. 21); Making a toy
+  car from dry sorghum sticks or straws (printed
+  p. 22); Making a toy airplane out of an empty
+  plastic bottle (printed p. 24); Making a wall clock
+  toy to hang in class out of a box (printed p. 25);
+  Modelling animal sculptures in clay (printed
+  pp. 27, 28); Making toys in clay and wire (P4 Pupil,
+  printed p. 14; P6 Pupil, printed pp. 36, 40); Making
+  utility objects from sticks (P4 Pupil, printed
+  p. 23); Making utility objects with banana fibres
+  (printed p. 24); Making learning materials in paper
+  (P4 Pupil, printed p. 28; P5 Pupil, printed p. 30;
+  P6 Pupil, printed p. 45); Making a toy bicycle and a
+  doll (P4 Guide, printed p. 16 — evidence only);
+  Making toys using sorghum straws and sticks
+  (P5 Pupil, printed p. 27); Making utility objects in
+  wood (printed p. 29); Making a water filter
+  (printed p. 103); Uses of common metals (printed
+  p. 208); Objects production (P5 Guide, printed
+  p. 30; P6 Guide, printed p. 75 — evidence only);
+  Making utility objects in thread (P6 Pupil, printed
+  p. 41); Making solids from paper (printed p. 47);
+  Waste management techniques for handling waste
+  sustainably (printed p. 217); Toys, various materials
+  and teaching aids (P2 Kinyarwanda Guide, printed
+  p. 9 — evidence only).
+
+Rwanda's own way is content and is carried in each
+lesson's sources: SET teaches technology inside the
+combined science book, spiralling the same disciplines
+up the years — tools named by their work (home and
+school, farm, carpentry and masonry, garage and forge),
+care taught as the closing step of every unit
+(maintenance, storage, dangers), and making from the
+materials at hand (paper, sorghum, banana fibre, clay,
+wire, wood, thread), with the same toys re-attempted in
+new materials as the demand rises.
+
+Placements at
+liqlearns-courses-work/expansion-td-2026-11-17/rwanda-placements.md.
 
 - **Coverage-audit fix pass (2026-11-12)** — the placement-coverage
   audit found 17 of 19 placements stocked; the fix build closed

@@ -1,0 +1,27 @@
+# Sources — Keeping and maintaining materials and made objects
+
+countries: Rwanda
+
+**Book 1:** *Science and Elementary Technology — Primary Two Pupil's Book* (pupil's book) — Rwanda, Rwanda Education Board (REB); © 2020. Grade: Primary 2. Language: English. Pages: 110 (PDF; 100 printed + front matter). Source + route: tensae-code/liqlearns-textbooks release asset `mid-size-books/grade-02-gov-rwanda-science-and-elementary-technology-student-full-year.pdf` via grab.py url route; 38,476,680 bytes — matches the asset index and repo books.json download_url. Cover verified (title page reads "SCIENCE AND ELEMENTARY TECHNOLOGY / Primary Two / Pupil's Book"). Kind: student (pupil's book). Read: COMPLETE (technology parts read page by page, printed pp. 1–30; the rest judged from contents + spot text and filed record-only — Unit 3 ICT, Units 4–8 science). Placements at liqlearns-courses-work/expansion-td-2026-11-17/rwanda-placements.md.
+
+**Book 2:** *Science and Elementary Technology for Rwandan Schools — Pupil's Book Primary 4* (pupil's book; REB's combined SET & ICT P4 book — ICT units integrated) — Rwanda, Rwanda Education Board (REB); 2019. Grade: Primary 4. Language: English (native text layer). Pages: 294 (PDF). Source + route: tensae-code/liqlearns-textbooks release asset `mid-size-books/grade-04-gov-rwanda-science-and-elementary-technology-student-full-year.pdf` via grab.py url route; 77,723,526 bytes — matches the asset index. Cover verified. Kind: student (pupil's book). Read: COMPLETE (technology parts read page by page; Units 3–6 ICT and Units 7–14 science/agriculture record-only). Placements at liqlearns-courses-work/expansion-td-2026-11-17/rwanda-placements.md.
+
+**Book 3:** *Science and Elementary Technology for Rwandan Schools — Pupil's Book 5* (pupil's book) — Rwanda, Spotlight Publishers (EA) Limited for Rwanda Education Board (REB); authors David Kamoce, Daniel Arapai, Rosalia Wacuka (title page); 2019 (record). Grade: Primary 5. Language: English (native text layer). Pages: 228 (PDF). Source + route: tensae-code/liqlearns-textbooks release asset `mid-size-books/grade-05-gov-rwanda-science-and-elementary-technology-student-full-year.pdf` via grab.py url route; 60,161,568 bytes — matches the asset index. Cover verified. Kind: student (pupil's book). Read: COMPLETE (technology parts read page by page from the text layer). Placements at liqlearns-courses-work/expansion-td-2026-11-17/rwanda-placements.md.
+
+**Book 4:** *Science and Elementary Technology for Rwanda Schools — Pupil's Book Primary 6* (pupil's book) — Rwanda, Longhorn Publishers Rwanda for Rwanda Education Board (REB); authors Joseph Mwesigye, Caritas Kanizio, Millicent Omusikoyo (title page). Grade: Primary 6. Language: English (native text layer). Pages: 344 (PDF). Source + route: tensae-code/liqlearns-textbooks release asset `mid-size-books/grade-06-gov-rwanda-science-and-elementary-technology-student-full-year.pdf` via grab.py url route; 60,423,726 bytes — matches the asset index. Cover verified. Kind: student (pupil's book). Read: COMPLETE (technology parts read page by page from the text layer; Units 4–6 ICT and the science units record-only). Placements at liqlearns-courses-work/expansion-td-2026-11-17/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Keeping and maintaining home materials properly — washing, wiping, cleaning, greasing, ironing (original string `keeping and maintaining home materials properly (washing, wiping, cleaning, greasing, ironing)`) | Rwanda, *Science and Elementary Technology — Primary Two Pupil's Book*, printed p. 9 |
+| Keeping and maintaining school materials properly (incl. washing them) (original string `keeping and maintaining school materials properly (incl. washing them)`) | Rwanda, *Science and Elementary Technology — Primary Two Pupil's Book*, printed p. 14 |
+| Maintenance of the utilities and learning objects you have made (Primary 4 making unit) (original string `maintenance of the utilities and learning objects you have made`) | Rwanda, *Science and Elementary Technology for Rwandan Schools — Pupil's Book Primary 4*, printed p. 31 |
+| Maintenance of utility and learning objects (Primary 5 making unit) (original string `maintenance of utility and learning objects`) | Rwanda, *Science and Elementary Technology for Rwandan Schools — Pupil's Book 5*, printed p. 33 |
+| Maintenance of utility and learning objects (Primary 6 making unit) (original string `maintenance of utility and learning objects`) | Rwanda, *Science and Elementary Technology for Rwanda Schools — Pupil's Book Primary 6*, printed p. 48 |
+
+**Acceptance count: taught in 1 country (Rwanda).**
+
+Scope: Rwanda's secured books are the combined *Science and Elementary Technology* (SET) pupil's books and teacher guides (Rwanda Education Board). Only the technology teaching is stocked in this course; the same books' ICT units belong to the ICT course and their pure-science units to the Science course, as filed record-only in the placements file. The Primary 2 pupil's book also exists in a parallel Kinyarwanda edition (© 2019), read once and placed once under the English edition.
+
+Rwanda's own way: Rwanda returns to keeping at every stage: Primary 2 keeps home and school materials, and each making year (Primary 4, 5 and 6) closes by maintaining the very objects the class has just made — care taught as the last step of making.
+
+Searchable tags: maintenance, keeping, care, washing, greasing, made objects, Rwanda, REB, Primary 2, Primary 4, Primary 5, Primary 6

@@ -5,9 +5,9 @@ things works the same everywhere; only the way of teaching
 differs, and the way shows inside as examples. The path climbs
 from the hand to the drawing board to the workshop.
 
-**First Steps → Technical Drawing → Materials → Wood → Mechanisms and Machines → Electrical Installations and the Home → Textiles and Fashion → Radiography Technology → Design and Making → Models and Robotics → Workshop and Safety → Electricity and Electronics → Food Technology → Paper, Card and Modelling → Construction and Building → Energy**
+**First Steps → Technical Drawing → Materials → Metal → Wood → Mechanisms and Machines → Electrical Installations and the Home → Textiles and Fashion → Radiography Technology → Design and Making → Models and Robotics → Workshop and Safety → Electricity and Electronics → Food Technology → Paper, Card and Modelling → Construction and Building → Agriculture Technology → Energy**
 
-Stocked titles so far: **189 lessons**.
+Stocked titles so far: **225 lessons**.
 
 **Technical Drawing** (technical-drawing/) — 37 lessons:
 17 built from Ethiopia's Grade 12 teacher guide (2003 E.C.,
@@ -109,18 +109,30 @@ counted nowhere):
 - Technology as a system (technology-as-a-system/) — stocked 2026-11-17 from Morocco's *Al Marjie en Technologie, Guide de l'enseignant(e), 2e année* (teacher-guide evidence only, counted nowhere)
 - Evolution of technical systems (evolution-of-technical-systems/) — stocked 2026-11-17 from Morocco's *Technologie, Guide de l'enseignant(e), 3e année* (teacher-guide evidence only, counted nowhere)
 
-**Materials** (materials/) — 5 lessons: 2 stocked
+**Materials** (materials/) — 7 lessons: 2 stocked
 2026-11-17 from Finland's *Katse tulevaan*
 (TuleVa project learning material, published via aoe.fi),
-and 2 stocked 2026-11-17 from Gabon's *Super
+2 stocked 2026-11-17 from Gabon's *Super
 Efficace* Sciences teacher guides, Grades 3–5
-(teacher-guide evidence only, counted nowhere):
+(teacher-guide evidence only, counted nowhere),
+1 stocked 2026-11-17 from Morocco's Technologie
+teacher guides (evidence only), and 2 stocked
+2026-11-17 from Rwanda's *Science and Elementary
+Technology* pupil's books (REB, Primary 5–6):
 
 - Choosing materials responsibly (choosing-materials-responsibly/)
 - Life-cycle thinking in the craft process (life-cycle-thinking-in-the-craft-process/)
 - The life cycle of a product (the-life-cycle-of-a-product/)
 - The 3R rule — repair, reuse, recycle (the-3r-rule/)
 - Recycling as a technical chain (recycling-as-a-technical-chain/) — stocked 2026-11-17 from Morocco's *Al Marjie en Technologie, Guide de l'enseignant(e), 2e année* (teacher-guide evidence only, counted nowhere)
+- Classification of materials (classification-of-materials/) — stocked 2026-11-17 from Rwanda's *Science and Elementary Technology, Primary 5* (REB)
+- Sustainable waste management (sustainable-waste-management/) — stocked 2026-11-17 from Rwanda's *Science and Elementary Technology, Primary 6* (REB)
+
+**Metal** (metal/) — 1 lesson, stocked 2026-11-17
+from Rwanda's *Science and Elementary Technology,
+Primary 5* (REB) — a new unit in this course:
+
+- Maintenance of metals (maintenance-of-metals/)
 
 **Wood** (wood/) — 2 lessons, stocked 2026-11-17
 from Samoa's *Design and Technology, Year 11*
@@ -130,13 +142,14 @@ from Samoa's *Design and Technology, Year 11*
 - Protecting and preserving timber (protecting-and-preserving-timber/)
 
 **Mechanisms and Machines** (mechanisms-and-machines/) —
-8 lessons: 1 stocked 2026-11-17 from the same Canada book,
+11 lessons: 1 stocked 2026-11-17 from the same Canada book,
 3 stocked 2026-11-17 from Jamaica's *National
 Standards Curriculum Guide — Grades 4–6 — Resource
-& Technology* (Jamaica, 2018), and 4 stocked 2026-11-17
+& Technology* (Jamaica, 2018), 4 stocked 2026-11-17
 from Gabon's *Super Efficace* Sciences teacher guides,
 Grades 4–5 (teacher-guide evidence only, counted
-nowhere):
+nowhere), and 3 stocked 2026-11-17 from Rwanda's
+*Science and Elementary Technology, Primary 6* (REB):
 
 - How a piston engine moves a snowmobile (how-a-piston-engine-moves-a-snowmobile/)
 - Mechanical energy in devices and transport (mechanical-energy-in-devices-and-transport/)
@@ -146,15 +159,21 @@ nowhere):
 - Making a parachute (making-a-parachute/)
 - How a bicycle works (how-a-bicycle-works/)
 - Maintaining a bicycle (maintaining-a-bicycle/)
+- Simple machines (simple-machines/) — stocked 2026-11-17 from Rwanda's *Science and Elementary Technology, Primary 6* (REB)
+- Levers (levers/) — stocked 2026-11-17 from Rwanda's *Science and Elementary Technology, Primary 6* (REB)
+- Dangers when using simple machines, and safety in using simple machines (dangers-when-using-simple-machines-and-safety-in-using-simple/) — stocked 2026-11-17 from Rwanda's *Science and Elementary Technology, Primary 6* (REB)
 
 **Electrical Installations and the Home**
-(electrical-installations/) — 2 lessons: 1 stocked
-2026-11-17 from the same Canada book, and 1 stocked
+(electrical-installations/) — 3 lessons: 1 stocked
+2026-11-17 from the same Canada book, 1 stocked
 2026-11-17 from Azerbaijan's *Технология (Technology),
-Grade 2* (Russian edition as held):
+Grade 2* (Russian edition as held), and 1 stocked
+2026-11-17 from Rwanda's *Science and Elementary
+Technology, Primary 5* (REB):
 
 - Heating technology at home (heating-technology-at-home/)
 - Technological machines and household appliances (technological-machines-and-household-appliances/)
+- Electrical safety (electrical-safety/) — stocked 2026-11-17 from Rwanda's *Science and Elementary Technology, Primary 5* (REB)
 
 **Textiles and Fashion** (textiles-and-fashion/) —
 25 lessons: 1 stocked 2026-11-17 from the same Canada book,
@@ -264,20 +283,28 @@ nowhere):
 - Making an object that uses wind energy (making-an-object-that-uses-wind-energy/)
 
 **Workshop and Safety** (workshop-and-safety/) —
-3 lessons: 1 stocked 2026-11-17 from Malta's Workbook 1,
+8 lessons: 1 stocked 2026-11-17 from Malta's Workbook 1,
 1 stocked 2026-11-17 from Jamaica's *National
 Standards Curriculum Guide — Grades 4–6 — Resource
-& Technology* (Jamaica, 2018), and 1 stocked
+& Technology* (Jamaica, 2018), 1 stocked
 2026-11-17 from Samoa's *Design and Technology,
-Year 11* (MESC, 2003). Measuring and marking out
-also carries a Jamaica placement:
+Year 11* (MESC, 2003), and 5 stocked 2026-11-17
+from Rwanda's *Science and Elementary Technology*
+books (REB, Primary 2–6 pupil's books; the guides
+are evidence, counted nowhere). Measuring and
+marking out also carries a Jamaica placement:
 
 - Measuring and marking out (measuring-and-marking-out/)
 - Hand tools (hand-tools/)
 - Portable power tools (portable-power-tools/)
+- Tools and materials at home and at school (tools-and-materials-at-home-and-at-school/) — stocked 2026-11-17 from Rwanda's *Science and Elementary Technology, Primary 2* (REB)
+- Keeping and maintaining materials and made objects (keeping-and-maintaining-materials-and-made-objects/) — stocked 2026-11-17 from Rwanda's *Science and Elementary Technology*, Primary 2–6 (REB)
+- Carpentry tools (carpentry-tools/) — stocked 2026-11-17 from Rwanda's *Science and Elementary Technology, Primary 5* (REB)
+- Masonry tools (masonry-tools/) — stocked 2026-11-17 from Rwanda's *Science and Elementary Technology, Primary 5* (REB)
+- Mechanics and blacksmith tools (mechanics-and-blacksmith-tools/) — stocked 2026-11-17 from Rwanda's *Science and Elementary Technology, Primary 6* (REB)
 
 **Electricity and Electronics**
-(electricity-and-electronics/) — 22 lessons: 2 stocked
+(electricity-and-electronics/) — 24 lessons: 2 stocked
 2026-11-17 from Malta's Workbook 2, 6 stocked
 2026-11-17 from Jamaica's *National Standards Curriculum
 Guide — Grades 4–6 — Resource & Technology*
@@ -309,6 +336,12 @@ simple electric circuit also carries a Haiti placement
 - Sensors (sensors/) — stocked 2026-11-17 from Morocco's Technologie teacher guides (teacher-guide evidence only, counted nowhere)
 - The process function (the-process-function/) — stocked 2026-11-17 from Morocco's Technologie teacher guides (teacher-guide evidence only, counted nowhere)
 - The communicate function (the-communicate-function/) — stocked 2026-11-17 from Morocco's Technologie teacher guides (teacher-guide evidence only, counted nowhere)
+- Common tools used in electricity (common-tools-used-in-electricity/) — stocked 2026-11-17 from Rwanda's *Science and Elementary Technology, Primary 5* (REB)
+- Common materials used in electricity (common-materials-used-in-electricity/) — stocked 2026-11-17 from Rwanda's *Science and Elementary Technology, Primary 5* (REB)
+
+The simple electric circuit also carries a Rwanda
+placement (*Science and Elementary Technology,
+Primary 5*, printed p. 198).
 
 **Food Technology** (food-technology/) — 11 lessons:
 1 stocked 2026-11-17 from Azerbaijan's *Технология
@@ -332,9 +365,12 @@ reprinted 2004), and *Food Technology* Year 12 (2004):
 - Packaging food (packaging-food/)
 
 **Paper, Card and Modelling** (paper-card-and-modelling/) —
-7 lessons, stocked 2026-11-17 from Azerbaijan's
+27 lessons: 7 stocked 2026-11-17 from Azerbaijan's
 *Технология (Technology), Grade 2* (Russian edition
-as held):
+as held), and 20 stocked 2026-11-17 from Rwanda's
+*Science and Elementary Technology* books (REB,
+Primary 2–6 pupil's books; three of them stand on
+teacher-guide evidence only, counted nowhere):
 
 - Modelling in plasticine (modelling-in-plasticine/)
 - Appliqué (applique/)
@@ -343,6 +379,34 @@ as held):
 - Straight weaving from paper strips (straight-weaving-from-paper-strips/)
 - Constructing from cardboard boxes (constructing-from-cardboard-boxes/)
 - A three-dimensional paper toy (a-three-dimensional-paper-toy/)
+- Making a toy bird out of paper (making-a-toy-bird-out-of-paper-scissors-paper-step-by-step/) — stocked 2026-11-17 from Rwanda's *Science and Elementary Technology, Primary 2* (REB)
+- Making a rectangle and a square out of paper (making-a-rectangle-and-a-square-out-of-paper/) — stocked 2026-11-17 from Rwanda's *Science and Elementary Technology, Primary 2* (REB)
+- Making a toy car from dry sorghum sticks or straws (making-a-toy-car-from-dry-sorghum-sticks-or-straws/) — stocked 2026-11-17 from Rwanda's *Science and Elementary Technology, Primary 2* (REB)
+- Making a toy airplane out of an empty plastic bottle (making-a-toy-airplane-out-of-an-empty-plastic-bottle/) — stocked 2026-11-17 from Rwanda's *Science and Elementary Technology, Primary 2* (REB)
+- Making a wall clock toy to hang in class out of a box (making-a-wall-clock-toy-to-hang-in-class-out-of-a-box/) — stocked 2026-11-17 from Rwanda's *Science and Elementary Technology, Primary 2* (REB)
+- Modelling animal sculptures in clay (modelling-animal-sculptures-in-clay/) — stocked 2026-11-17 from Rwanda's *Science and Elementary Technology, Primary 2* (REB)
+- Making toys in clay and wire (making-toys-in-clay-and-wire/) — stocked 2026-11-17 from Rwanda's *Science and Elementary Technology*, Primary 4 and 6 (REB)
+- Making utility objects from sticks (making-utility-objects-from-sticks/) — stocked 2026-11-17 from Rwanda's *Science and Elementary Technology, Primary 4* (REB)
+- Making utility objects with banana fibres (making-utility-objects-with-banana-fibres/) — stocked 2026-11-17 from Rwanda's *Science and Elementary Technology, Primary 4* (REB)
+- Making learning materials in paper (making-learning-materials-in-paper/) — stocked 2026-11-17 from Rwanda's *Science and Elementary Technology*, Primary 4–6 (REB)
+- Making a toy bicycle and a doll (making-a-toy-bicycle-and-a-doll-guide-s-lesson-sequence-for-the/) — stocked 2026-11-17 from Rwanda's *Science and Elementary Technology, Primary 4 Teacher's Guide* (teacher-guide evidence only, counted nowhere)
+- Making toys using sorghum straws and sticks (making-toys-using-sorghum-straws-and-sticks/) — stocked 2026-11-17 from Rwanda's *Science and Elementary Technology, Primary 5* (REB)
+- Making utility objects in wood (making-utility-objects-in-wood/) — stocked 2026-11-17 from Rwanda's *Science and Elementary Technology, Primary 5* (REB)
+- Making a water filter (making-a-water-filter-inside-the-science-water-unit-after-water/) — stocked 2026-11-17 from Rwanda's *Science and Elementary Technology, Primary 5* (REB)
+- Uses of common metals (uses-of-common-metals/) — stocked 2026-11-17 from Rwanda's *Science and Elementary Technology, Primary 5* (REB)
+- Objects production (objects-production/) — stocked 2026-11-17 from Rwanda's *Science and Elementary Technology* Teacher's Guides, Primary 5 and 6 (teacher-guide evidence only, counted nowhere)
+- Making utility objects in thread (making-utility-objects-in-thread/) — stocked 2026-11-17 from Rwanda's *Science and Elementary Technology, Primary 6* (REB)
+- Making solids from paper (making-solids-from-paper/) — stocked 2026-11-17 from Rwanda's *Science and Elementary Technology, Primary 6* (REB)
+- Waste management techniques for handling waste sustainably (waste-management-techniques-for-handling-waste-sustainably/) — stocked 2026-11-17 from Rwanda's *Science and Elementary Technology, Primary 6* (REB)
+- Toys, various materials and teaching aids (toys-various-materials-and-teaching-aids/) — stocked 2026-11-17 from Rwanda's *Ubumenyi n'Ikoranabuhanga Riciriritse, Inyoborabarezi, Umwaka wa kabiri* (Kinyarwanda Primary 2 Teacher Guide — evidence only, counted nowhere)
+
+**Agriculture Technology** (agriculture-technology/) —
+2 lessons, stocked 2026-11-17 from Rwanda's *Science
+and Elementary Technology, Primary 4* (REB) — a new
+unit in this course:
+
+- Agricultural tools and their uses (agricultural-tools-and-their-uses/)
+- Caring for agricultural tools (caring-for-agricultural-tools/)
 
 **Construction and Building** (construction-and-building/) —
 7 lessons: 2 stocked 2026-11-17 from Haiti's ITAP Projet
