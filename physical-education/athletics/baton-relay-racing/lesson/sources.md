@@ -1,6 +1,6 @@
 # Sources — Baton Relay Racing
 
-countries: Ethiopia, Pakistan, Afghanistan, Philippines, Nicaragua, Azerbaijan, Maldives, Honduras, Mauritius, North Macedonia, Zimbabwe, Jordan
+countries: Ethiopia, Pakistan, Afghanistan, Philippines, Nicaragua, Azerbaijan, Maldives, Honduras, Mauritius, North Macedonia, Zimbabwe, Jordan, Malaysia
 
 **Book — Grade 7 student:** *Grade 7 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 96 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g07-student-placements.md. COMPLETE.
 
@@ -18,7 +18,7 @@ countries: Ethiopia, Pakistan, Afghanistan, Philippines, Nicaragua, Azerbaijan, 
 | Relay exchanges in motion — Grade 9 | Ethiopia, Grade 9 student §3.2.2 Relay technique, printed pp. 51–55 |
 | Relay exchanges in motion — Grade 9 | Ethiopia, Grade 9 teacher Unit 3 sprint relay (teacher guide — evidence), printed pp. 37–38 |
 | The first relay — out, back, hand over; copy the broom game — Grade 3 (teacher guide — evidence) | Ethiopia, Grade 3 teacher §1.3 Tasks 1–2 (teacher guide — evidence), printed pp. 12–14 |
-**Acceptance count: taught in 9 countries (Ethiopia, Pakistan, Philippines, Azerbaijan, Honduras, Mauritius, North Macedonia, Zimbabwe, Jordan).** Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count; the Mauritius teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count.
+**Acceptance count: taught in 10 countries (Ethiopia, Pakistan, Philippines, Azerbaijan, Honduras, Mauritius, North Macedonia, Zimbabwe, Jordan, Malaysia).** Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count; the Mauritius teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count.
 
 The Grade 3 teacher guide scan is TRUNCATED: it holds printed pp. 1–52 of 89+. Missing: §4.1 (p. 53), §4.2 (p. 57), §4.3 (p. 62), §4.4 (p. 65), all of Chapter 5 Gymnastics (pp. 69–84) and all of Chapter 6 (pp. 85–89+). Chapter 4 is present as its introduction page (printed p. 52) only. Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
 
@@ -330,3 +330,24 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/jordan-pe-pl
 | Jordan — Unit 6 Athletics, Lesson 1: The 4 × 200 Metre Relay — the team covers 800 m by relay; a mix of speed and endurance (original target `athletics/baton-relay-racing`) | Jordan Grade 9 PE Term 2, printed p. 7 |
 
 Jordan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Jordan is student-book stock, inside the acceptance count, in this lesson. Jordan's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Malaysia — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/malaysia-pe-placements.md. The Malaysia books stocked in this lesson are Book 1. Malaysia is student-book stock, inside the acceptance count, in this lesson. Malaysia's own way is content, as the book lines below record it: the KSSM PJPK course is one combined PE + Health book per form, organised by game categories taught through Teaching Games for Understanding (TGfU), with Malaysian traditional dances and games as content in every form. The Health parts of these books are placed in malaysia-health-placements.md (Health course).
+
+**Book — Malaysia PJPK Tingkatan 1 (student book, Malay):**
+## Book 1 — PJPK Tingkatan 1 (student book, Malay)
+- Title as printed: Pendidikan Jasmani dan Pendidikan Kesihatan Tingkatan 1
+- Grade: Form 1 / Grade 7 (student/teacher: STUDENT)
+- Publisher: Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2016; ISBN 978-967-0520-68-1
+- PDF pages: 203 (cover/title page verified against the record title; byte size 138,182,241 = release asset size; download-list record gives 138.2 MB)
+- Verdict: COMPLETE
+- Tally: see end of section
+- Malaysia's own way: the KSSM PJPK course is one combined PE+Health book per form, organised by game categories (attacking / net games) taught through Teaching Games for Understanding (TGfU), with Malaysian traditional dances (Joget, Sumazau) as the rhythmic-movement content and sepak raga in recreation; every unit carries the same five content standards (skill, movement concepts/mechanics, safety, self-confidence, ethics in sport).
+- Combined book: Health parts (PEERS unit, Nutrition, First Aid) are placed in malaysia-health-placements.md (Book 1 there).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 5 Olahraga Asas — relay running (lari berganti-ganti) with the baton (original target `athletics/baton-relay-racing`) | Malaysia Grade 7 PJPK Tingkatan 1, printed p. 76 |
+
+Malaysia's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Malaysia is student-book stock, inside the acceptance count, in this lesson. Malaysia's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

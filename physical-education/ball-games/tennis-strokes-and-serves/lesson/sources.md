@@ -1,8 +1,8 @@
 # Sources — Tennis Strokes and Serves
 
-countries: Afghanistan, Iran, North Macedonia
+countries: Afghanistan, Iran, North Macedonia, Malaysia
 
-**Acceptance count: taught in 2 countries (Iran, North Macedonia).** Afghanistan is teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count — the first pupil's book in hand for this lesson. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count.
+**Acceptance count: taught in 3 countries (Iran, North Macedonia, Malaysia).** Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Afghanistan is teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count — the first pupil's book in hand for this lesson. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count.
 
 ## Afghanistan — PE expansion 2026-11-16
 
@@ -71,3 +71,36 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/north-macedo
 | North Macedonia — Mini tennis — a modified tennis for a smaller court with simplified rules any pupil can understand: learning to serve, receive and return the ball so the opponent cannot return it, for two or four players (original target `ball-games/mini-tennis`) | North Macedonia Grade 9 HPE, printed p. 107 |
 
 North Macedonia's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. North Macedonia's own way is content, as the book lines above record it: one combined “Physical and Health Education” subject through primary school; the Grade 9 year runs body-development exercise complexes → athletics → apparatus gymnastics with rhythmics → Macedonian folk ora and modern dances → the four team games plus table tennis, then a whole second half of optional topics agreed with parents (swimming, skiing, excursions, mountaineering, cycling, roller and ice skating). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Malaysia — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/malaysia-pe-placements.md. The Malaysia books stocked in this lesson are Book 3, Book 4. Malaysia is student-book stock, inside the acceptance count, in this lesson. Malaysia's own way is content, as the book lines below record it: the KSSM PJPK course is one combined PE + Health book per form, organised by game categories taught through Teaching Games for Understanding (TGfU), with Malaysian traditional dances and games as content in every form. The Health parts of these books are placed in malaysia-health-placements.md (Health course).
+
+**Book — Malaysia PJPK Tingkatan 3 (student book, Malay):**
+## Book 3 — PJPK Tingkatan 3 (student book, Malay)
+- Title as printed: Pendidikan Jasmani dan Pendidikan Kesihatan Tingkatan 3
+- Grade: Form 3 / Grade 9 (student/teacher: STUDENT)
+- Publisher: Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2018; ISBN 978-967-2212-03-4
+- PDF pages: 204 (cover/title page verified against the record title; byte size 76,572,225 = release asset size; download-list record gives 76.6 MB)
+- Verdict: COMPLETE
+- Tally: see end of section
+- Malaysia's own way: two more Malaysian traditional dances (Zapin of Johor, Ngajat of the Iban people of Sarawak) and two Malaysian traditional chase games (Gelap Cerah, Aci Sep) join the imported games; the fitness unit is organised as named activity circuits and ends with the national SEGAK fitness assessment.
+- Combined book: Health parts (PEERS unit, Nutrition, First Aid) are placed in malaysia-health-placements.md (Book 3 there).
+
+**Book — Malaysia PJPK Tingkatan 4 (student book, Malay):**
+## Book 4 — PJPK Tingkatan 4 (student book, Malay)
+- Title as printed: Pendidikan Jasmani dan Pendidikan Kesihatan Tingkatan 4
+- Grade: Form 4 / Grade 10 (student/teacher: STUDENT)
+- Publisher: Telaga Biru Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2019; ISBN 978-967-388-496-4
+- PDF pages: 126 two-page spreads = 232 printed pages (cover/title page verified against the record title; byte size 36,577,452 = release asset size; download-list record gives 36.6 MB)
+- Verdict: COMPLETE
+- Tally: see end of section
+- Malaysia's own way: upper-secondary PE drops basic gymnastics/athletics and teaches the games through strategy and tactics (TGfU "brain-based learning": pupils analyse attacking and defending strategies and their strengths and weaknesses); rhythmic movement is two Malaysian community dances — Sewang of the Orang Asli and the Chinese lion dance.
+- Combined book: Health parts (PEERS unit, Nutrition, First Aid) are placed in malaysia-health-placements.md (Book 4 there).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 4 Tenis — tennis: forehand and backhand groundstrokes (pukulan pepat dan kilas), the serve, the lob as an attacking/defensive strategy, and the smash near the net (original target `ball-games/tennis-strokes-and-serves`) | Malaysia Grade 9 PJPK Tingkatan 3, printed p. 60 |
+| Malaysia — Unit 3 Tenis — tennis taught through strategy: the lob from the back line and judging a shot's strengths and weaknesses (original target `ball-games/tennis-strokes-and-serves`) | Malaysia Grade 10 PJPK Tingkatan 4, printed p. 94 |
+
+Malaysia's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Malaysia is student-book stock, inside the acceptance count, in this lesson. Malaysia's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

@@ -1,6 +1,6 @@
 # Sources — Throwing for Distance
 
-countries: Ethiopia, Kazakhstan, Tajikistan, Thailand, Pakistan, China, El Salvador, Nicaragua, Azerbaijan, Maldives, Honduras, Fiji, Iran, North Macedonia, Zimbabwe, Jordan
+countries: Ethiopia, Kazakhstan, Tajikistan, Thailand, Pakistan, China, El Salvador, Nicaragua, Azerbaijan, Maldives, Honduras, Fiji, Iran, North Macedonia, Zimbabwe, Jordan, Malaysia
 
 **Book — Grade 5 student:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 106 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md. COMPLETE.
 
@@ -29,7 +29,7 @@ countries: Ethiopia, Kazakhstan, Tajikistan, Thailand, Pakistan, China, El Salva
 | Kazakhstan — Quarter 1 — the thrower's special exercises and throwing a small ball for distance and at a target (teacher guide — evidence) (original target `athletics/throwing-for-distance`) | Kazakhstan, *Physical Culture, Methodological Guide for Grade 4 Teachers* (Kazakhstan Grade 4 TG), printed p. 5 |
 | Tajikistan — Part 2, Throwing the Ball (Метание мяча) — throwing the small ball at horizontal and vertical targets from 3–4 m and throwing for distance (original target `athletics/throwing-for-distance`) | Tajikistan, *Fizicheskaya Kultura (Physical Culture), Grades 1–4*, Part 2, printed pp. ~106–112 |
 | Thailand — Unit 8 (part 2) Throwing — movement with equipment: throwing (การขว้าง) (student book — MAC sample, PARTIAL) (original target `athletics/throwing-for-distance`) | Thailand, *Health & PE, Grade 2* (Thailand Grade 2 MAC Health & PE), Unit 8 (part 2), printed pp. 141–146 |
-**Acceptance count: taught in 12 countries (Ethiopia, Tajikistan, Thailand, Pakistan, China, Nicaragua, Azerbaijan, Honduras, Iran, North Macedonia, Zimbabwe, Jordan).** Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
+**Acceptance count: taught in 13 countries (Ethiopia, Tajikistan, Thailand, Pakistan, China, Nicaragua, Azerbaijan, Honduras, Iran, North Macedonia, Zimbabwe, Jordan, Malaysia).** Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
 
 Student books Grades 5–7 are complete. No page is claimed that the placements do not give.
 
@@ -407,3 +407,48 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/jordan-pe-pl
 | Jordan — Unit 6, Lesson 4: Throwing the Discus — discus technique and practice (original target `athletics/throwing-for-distance`) | Jordan Grade 9 PE Term 2, printed p. 16 |
 
 Jordan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Jordan is student-book stock, inside the acceptance count, in this lesson. Jordan's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Malaysia — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/malaysia-pe-placements.md. The Malaysia books stocked in this lesson are Book 1, Book 2, Book 3. Malaysia is student-book stock, inside the acceptance count, in this lesson. Malaysia's own way is content, as the book lines below record it: the KSSM PJPK course is one combined PE + Health book per form, organised by game categories taught through Teaching Games for Understanding (TGfU), with Malaysian traditional dances and games as content in every form. The Health parts of these books are placed in malaysia-health-placements.md (Health course).
+
+**Book — Malaysia PJPK Tingkatan 1 (student book, Malay):**
+## Book 1 — PJPK Tingkatan 1 (student book, Malay)
+- Title as printed: Pendidikan Jasmani dan Pendidikan Kesihatan Tingkatan 1
+- Grade: Form 1 / Grade 7 (student/teacher: STUDENT)
+- Publisher: Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2016; ISBN 978-967-0520-68-1
+- PDF pages: 203 (cover/title page verified against the record title; byte size 138,182,241 = release asset size; download-list record gives 138.2 MB)
+- Verdict: COMPLETE
+- Tally: see end of section
+- Malaysia's own way: the KSSM PJPK course is one combined PE+Health book per form, organised by game categories (attacking / net games) taught through Teaching Games for Understanding (TGfU), with Malaysian traditional dances (Joget, Sumazau) as the rhythmic-movement content and sepak raga in recreation; every unit carries the same five content standards (skill, movement concepts/mechanics, safety, self-confidence, ethics in sport).
+- Combined book: Health parts (PEERS unit, Nutrition, First Aid) are placed in malaysia-health-placements.md (Book 1 there).
+
+**Book — Malaysia PJPK Tingkatan 2 (student book, Malay):**
+## Book 2 — PJPK Tingkatan 2 (student book, Malay)
+- Title as printed: Pendidikan Jasmani dan Pendidikan Kesihatan Tingkatan 2
+- Grade: Form 2 / Grade 8 (student/teacher: STUDENT)
+- Publisher: Telaga Biru Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2017; ISBN 978-967-388-329-5
+- PDF pages: 113 two-page spreads = 226 printed pages (cover/title page verified against the record title; byte size 47,930,458 = release asset size)
+- Verdict: COMPLETE
+- Tally: see end of section
+- Malaysia's own way: games are taught by category — attacking games (handball, touch rugby), net games (sepak takraw, Malaysia's own sport, given a whole unit) and fielding games (cricket); gymnastics moves on to vaulting, rhythmic movement teaches the Malay Inang dance step by step (ragam "C", ragam sudi, ragam "L"), and recreation teaches campcraft knots and lashings plus two Malaysian traditional games.
+- Combined book: Health parts (PEERS unit, Nutrition, First Aid) are placed in malaysia-health-placements.md (Book 2 there).
+
+**Book — Malaysia PJPK Tingkatan 3 (student book, Malay):**
+## Book 3 — PJPK Tingkatan 3 (student book, Malay)
+- Title as printed: Pendidikan Jasmani dan Pendidikan Kesihatan Tingkatan 3
+- Grade: Form 3 / Grade 9 (student/teacher: STUDENT)
+- Publisher: Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2018; ISBN 978-967-2212-03-4
+- PDF pages: 204 (cover/title page verified against the record title; byte size 76,572,225 = release asset size; download-list record gives 76.6 MB)
+- Verdict: COMPLETE
+- Tally: see end of section
+- Malaysia's own way: two more Malaysian traditional dances (Zapin of Johor, Ngajat of the Iban people of Sarawak) and two Malaysian traditional chase games (Gelap Cerah, Aci Sep) join the imported games; the fitness unit is organised as named activity circuits and ends with the national SEGAK fitness assessment.
+- Combined book: Health parts (PEERS unit, Nutrition, First Aid) are placed in malaysia-health-placements.md (Book 3 there).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 5 Olahraga Asas — shot put (lontar peluru) from the concrete throwing circle (original target `athletics/throwing-for-distance`) | Malaysia Grade 7 PJPK Tingkatan 1, printed p. 76 |
+| Malaysia — Unit 6 Merejam Lembing — the javelin throw, including making a safe modified javelin for practice because the real implement is sharp and dangerous (original target `athletics/throwing-for-distance`) | Malaysia Grade 8 PJPK Tingkatan 2, printed p. 98 |
+| Malaysia — Unit 6 Lempar Cakera — the discus throw (original target `athletics/throwing-for-distance`) | Malaysia Grade 9 PJPK Tingkatan 3, printed p. 96 |
+
+Malaysia's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Malaysia is student-book stock, inside the acceptance count, in this lesson. Malaysia's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

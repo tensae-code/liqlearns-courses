@@ -1,6 +1,6 @@
 # Sources — Muscle Strength and Endurance
 
-countries: Ethiopia, Zambia, Namibia, Turkmenistan, Kazakhstan, Samoa, Afghanistan, China, El Salvador, Philippines, Nicaragua, Azerbaijan, Maldives, Belize, Honduras, Fiji, Mauritius, Iran, North Macedonia
+countries: Ethiopia, Zambia, Namibia, Turkmenistan, Kazakhstan, Samoa, Afghanistan, China, El Salvador, Philippines, Nicaragua, Azerbaijan, Maldives, Belize, Honduras, Fiji, Mauritius, Iran, North Macedonia, Malaysia
 
 **Book — Grade 1 student:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 81 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md. COMPLETE.
 
@@ -66,7 +66,7 @@ countries: Ethiopia, Zambia, Namibia, Turkmenistan, Kazakhstan, Samoa, Afghanist
 | Kazakhstan — Quarters 1 and 4, fitness tests — the pull-up test (подтягивание) in the fixed test set used to check strength and endurance (teacher guide — evidence) (original target `fitness-and-stretching/muscle-strength-and-endurance`) | Kazakhstan, *Physical Culture, Methodological Guide for Grade 4 Teachers* (Kazakhstan Grade 4 TG), printed pp. 4–5, 48 |
 | Samoa — Regular physical activity, Year 8 — the importance of regular physical activity for muscle strength and endurance (curriculum statement — evidence) (original target `fitness-and-stretching/muscle-strength-and-endurance`) | Samoa, *Health and Physical Education, Years 1–8, Primary School Curriculum* (Samoa Years 1–8 Curriculum), printed p. 25 |
 | Samoa — Appendix 1 — the Samoa Secondary Schools Fitness Test Battery's strength test (body bridge hold), muscular endurance test (sit-ups, 3 × 30 seconds) and multi-stage fitness (beep) test, with height and weight measures, for Years 9–13 (teacher guide — evidence) (original target `fitness-and-stretching/muscle-strength-and-endurance`) | Samoa, *Health and Physical Education Teacher Guide, Years 11 and 12* (Samoa Years 11–12 TG), printed p. 84 |
-**Acceptance count: taught in 10 countries (Ethiopia, Turkmenistan, China, Philippines, Nicaragua, Azerbaijan, Honduras, Fiji, Iran, North Macedonia).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Zambia is added as teacher-module evidence only (see its rows above), named in the countries line but outside the acceptance count. Namibia is added as teacher-guide evidence only the same way, outside the acceptance count. Turkmenistan is added as student-book stock (see its row above), inside the acceptance count. Kazakhstan is added as teacher-guide evidence only the same way, outside the acceptance count. Samoa is added as curriculum-statement and teacher-guide evidence only (see its rows above), named in the countries line but outside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; the Fiji teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Mauritius is added as teacher-guide evidence only (see its Mauritius section below), named in the countries line but outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count.
+**Acceptance count: taught in 11 countries (Ethiopia, Turkmenistan, China, Philippines, Nicaragua, Azerbaijan, Honduras, Fiji, Iran, North Macedonia, Malaysia).** Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Zambia is added as teacher-module evidence only (see its rows above), named in the countries line but outside the acceptance count. Namibia is added as teacher-guide evidence only the same way, outside the acceptance count. Turkmenistan is added as student-book stock (see its row above), inside the acceptance count. Kazakhstan is added as teacher-guide evidence only the same way, outside the acceptance count. Samoa is added as curriculum-statement and teacher-guide evidence only (see its rows above), named in the countries line but outside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; the Fiji teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Mauritius is added as teacher-guide evidence only (see its Mauritius section below), named in the countries line but outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count.
 
 Student books Grades 1–4 are complete. No page is claimed that the placements do not give. Dance and game rules are taught only as the placements summarise them; no rules have been invented for any game the placements leave game-dependent.
 
@@ -635,3 +635,73 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/north-macedo
 | North Macedonia — Whole-body strengthening exercises — the pictured strengthening set for the whole body, dosed at 3 series of 10–12 repetitions (original target `fitness-and-stretching/muscle-strength-and-endurance`) | North Macedonia Grade 11 Sport, printed p. 20 |
 
 North Macedonia's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. North Macedonia's own way is content, as the book lines above record it: one combined “Physical and Health Education” subject through primary school; the Grade 9 year runs body-development exercise complexes → athletics → apparatus gymnastics with rhythmics → Macedonian folk ora and modern dances → the four team games plus table tennis, then a whole second half of optional topics agreed with parents (swimming, skiing, excursions, mountaineering, cycling, roller and ice skating); and, for the gymnasium book, in gymnasium the subject is renamed “Sport and Sports Activities” and turns encyclopaedic — every sport is taught as technique + tactics + full rules + its world history AND its Macedonian history (handball arriving in Skopje in 1948, basketball in Štip in 1933, Vardar and the federations' FIFA/FIBA/IHF memberships), and pupils choose elective areas, including a “Fitness and health” area with aerobics, gym fitness and Pilates. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Malaysia — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/malaysia-pe-placements.md. The Malaysia books stocked in this lesson are Book 1, Book 2, Book 3, Book 4, Book 5. Malaysia is student-book stock, inside the acceptance count, in this lesson. Malaysia's own way is content, as the book lines below record it: the KSSM PJPK course is one combined PE + Health book per form, organised by game categories taught through Teaching Games for Understanding (TGfU), with Malaysian traditional dances and games as content in every form. The Health parts of these books are placed in malaysia-health-placements.md (Health course).
+
+**Book — Malaysia PJPK Tingkatan 1 (student book, Malay):**
+## Book 1 — PJPK Tingkatan 1 (student book, Malay)
+- Title as printed: Pendidikan Jasmani dan Pendidikan Kesihatan Tingkatan 1
+- Grade: Form 1 / Grade 7 (student/teacher: STUDENT)
+- Publisher: Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2016; ISBN 978-967-0520-68-1
+- PDF pages: 203 (cover/title page verified against the record title; byte size 138,182,241 = release asset size; download-list record gives 138.2 MB)
+- Verdict: COMPLETE
+- Tally: see end of section
+- Malaysia's own way: the KSSM PJPK course is one combined PE+Health book per form, organised by game categories (attacking / net games) taught through Teaching Games for Understanding (TGfU), with Malaysian traditional dances (Joget, Sumazau) as the rhythmic-movement content and sepak raga in recreation; every unit carries the same five content standards (skill, movement concepts/mechanics, safety, self-confidence, ethics in sport).
+- Combined book: Health parts (PEERS unit, Nutrition, First Aid) are placed in malaysia-health-placements.md (Book 1 there).
+
+**Book — Malaysia PJPK Tingkatan 2 (student book, Malay):**
+## Book 2 — PJPK Tingkatan 2 (student book, Malay)
+- Title as printed: Pendidikan Jasmani dan Pendidikan Kesihatan Tingkatan 2
+- Grade: Form 2 / Grade 8 (student/teacher: STUDENT)
+- Publisher: Telaga Biru Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2017; ISBN 978-967-388-329-5
+- PDF pages: 113 two-page spreads = 226 printed pages (cover/title page verified against the record title; byte size 47,930,458 = release asset size)
+- Verdict: COMPLETE
+- Tally: see end of section
+- Malaysia's own way: games are taught by category — attacking games (handball, touch rugby), net games (sepak takraw, Malaysia's own sport, given a whole unit) and fielding games (cricket); gymnastics moves on to vaulting, rhythmic movement teaches the Malay Inang dance step by step (ragam "C", ragam sudi, ragam "L"), and recreation teaches campcraft knots and lashings plus two Malaysian traditional games.
+- Combined book: Health parts (PEERS unit, Nutrition, First Aid) are placed in malaysia-health-placements.md (Book 2 there).
+
+**Book — Malaysia PJPK Tingkatan 3 (student book, Malay):**
+## Book 3 — PJPK Tingkatan 3 (student book, Malay)
+- Title as printed: Pendidikan Jasmani dan Pendidikan Kesihatan Tingkatan 3
+- Grade: Form 3 / Grade 9 (student/teacher: STUDENT)
+- Publisher: Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2018; ISBN 978-967-2212-03-4
+- PDF pages: 204 (cover/title page verified against the record title; byte size 76,572,225 = release asset size; download-list record gives 76.6 MB)
+- Verdict: COMPLETE
+- Tally: see end of section
+- Malaysia's own way: two more Malaysian traditional dances (Zapin of Johor, Ngajat of the Iban people of Sarawak) and two Malaysian traditional chase games (Gelap Cerah, Aci Sep) join the imported games; the fitness unit is organised as named activity circuits and ends with the national SEGAK fitness assessment.
+- Combined book: Health parts (PEERS unit, Nutrition, First Aid) are placed in malaysia-health-placements.md (Book 3 there).
+
+**Book — Malaysia PJPK Tingkatan 4 (student book, Malay):**
+## Book 4 — PJPK Tingkatan 4 (student book, Malay)
+- Title as printed: Pendidikan Jasmani dan Pendidikan Kesihatan Tingkatan 4
+- Grade: Form 4 / Grade 10 (student/teacher: STUDENT)
+- Publisher: Telaga Biru Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2019; ISBN 978-967-388-496-4
+- PDF pages: 126 two-page spreads = 232 printed pages (cover/title page verified against the record title; byte size 36,577,452 = release asset size; download-list record gives 36.6 MB)
+- Verdict: COMPLETE
+- Tally: see end of section
+- Malaysia's own way: upper-secondary PE drops basic gymnastics/athletics and teaches the games through strategy and tactics (TGfU "brain-based learning": pupils analyse attacking and defending strategies and their strengths and weaknesses); rhythmic movement is two Malaysian community dances — Sewang of the Orang Asli and the Chinese lion dance.
+- Combined book: Health parts (PEERS unit, Nutrition, First Aid) are placed in malaysia-health-placements.md (Book 4 there).
+
+**Book — Malaysia PJPK Tingkatan 5 (student book, Malay):**
+## Book 5 — PJPK Tingkatan 5 (student book, Malay)
+- Title as printed: Pendidikan Jasmani dan Pendidikan Kesihatan Tingkatan 5
+- Grade: Form 5 / Grade 11 (student/teacher: STUDENT)
+- Publisher: Karangkraf Network Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2020; ISBN 978-967-14472-9-1
+- PDF pages: 196 (cover/title page verified against the record title; byte size 75,121,536 = release asset size and = the staged size in the books.json record, whose note also gives 196 pages and this ISBN)
+- Verdict: COMPLETE
+- Tally: see end of section
+- Malaysia's own way: the final form's dances are Malaysia's multicultural mix — Bhangra of the Punjabi community and Farapeirra of Melaka's Portuguese community; recreation turns to outdoor survival skills (primitive fire-making and cooking) and three Malaysian recreation games, two of them traditional.
+- Combined book: Health parts (PEERS unit, Nutrition, First Aid) are placed in malaysia-health-placements.md (Book 5 there).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 7 Kecergasan Fizikal — muscle strength and endurance as fitness components and exercises for them (original target `fitness-and-stretching/muscle-strength-and-endurance`) | Malaysia Grade 7 PJPK Tingkatan 1, printed p. 104 |
+| Malaysia — Unit 8 Kecergasan — muscle strength and endurance exercises as part of the health-related fitness programme (original target `fitness-and-stretching/muscle-strength-and-endurance`) | Malaysia Grade 8 PJPK Tingkatan 2, printed p. 120 |
+| Malaysia — Unit 8 Kekuatan Otot — muscle strength trained through "Kuat dan Segak" activities (original target `fitness-and-stretching/muscle-strength-and-endurance`) | Malaysia Grade 9 PJPK Tingkatan 3, printed p. 124 |
+| Malaysia — Unit 8 Daya Tahan Otot — muscle endurance trained through the "Cabaran Litar" circuit challenge (original target `fitness-and-stretching/muscle-strength-and-endurance`) | Malaysia Grade 9 PJPK Tingkatan 3, printed p. 126 |
+| Malaysia — Unit 6 Kecergasan Fizikal Berdasarkan Kesihatan — muscle strength and endurance training with kettlebells and the Swiss ball (bola segar) (original target `fitness-and-stretching/muscle-strength-and-endurance`) | Malaysia Grade 10 PJPK Tingkatan 4, printed p. 136 |
+| Malaysia — Unit 6 Daya Tahan dan Kekuatan Otot — muscle endurance and muscle strength training (original target `fitness-and-stretching/muscle-strength-and-endurance`) | Malaysia Grade 11 PJPK Tingkatan 5, printed p. 108 |
+
+Malaysia's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Malaysia is student-book stock, inside the acceptance count, in this lesson. Malaysia's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

@@ -1,8 +1,8 @@
 # Sources — Testing Your Fitness
 
-countries: United Kingdom, Fiji, Iran
+countries: United Kingdom, Fiji, Iran, Malaysia
 
-**Acceptance count: taught in 2 countries (United Kingdom, Iran).** United Kingdom is student-book stock (see its rows below), inside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count.
+**Acceptance count: taught in 3 countries (United Kingdom, Iran, Malaysia).** Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. United Kingdom is student-book stock (see its rows below), inside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count.
 
 **Book — United Kingdom GCSE Edexcel PE student book (student book):** *Edexcel GCSE (9-1) Physical Education Student Book, 2nd edition* (student book, English) — Title as printed: Edexcel GCSE (9-1) Physical Education — Tony Scott (cover: "2nd edition") — Grade: GCSE, Years 10–11 (student/teacher: STUDENT) — Publisher: Pearson Education; year first published 2016 (2nd edition; imprint number line 19 18 17 16); ISBN 978 1 29212 988 4 — PDF pages: 228 (cover verified against the record title; file size 20,156,655 B and MD5 match the archive.org item metadata exactly). Verdict: COMPLETE — read in full via the extracted text layer. The book's own "Preparing for your exam" sections (printed pp. 118, 176) are assessment preparation — named here, excluded from placements per the standing exclusions; the glossary (p. 205) and index (p. 210) are inventory-only, named, not placed. Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/united-kingdom-pe-placements.md. United Kingdom's own way: PE at GCSE is an examined academic subject — anatomy, physiology, movement analysis and training theory, plus health, psychology and the sociology of sport, with practical performance in three chosen activities and a written Personal Exercise Programme. The second United Kingdom record, *Edexcel GCSE Physical Education Student Book* (2009 edition, Pearson (Edexcel), archive.org item `edexcelgcsephysi0000scot`), is UNREAD — lending-restricted on archive.org, direct GET returned 401/403, no login routes permitted — with 0 placements; nothing is stocked from it.
 
@@ -82,3 +82,60 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/iran-pe-plac
 | Iran — Module 4 "Anthropometry" — measuring body size, proportions and composition for sport (original target `fitness-and-stretching/anthropometry-measuring-the-body`) | Iran, *Supplementary–Corrective Operations of Sports, Grade 12 (C212302)*, Module 4 "Anthropometry", printed p. 133 |
 
 Iran's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Iran's own way is content, as the book lines above record it: PE taught as a profession with a knowledge base — a Grade 10 theory book before any workshop book, workshop books of competency units with continuous and final assessment, team games taught as full coaching units with kabaddi standing as a full module beside them, and a special-needs fitness course of very short lessons with one idea each. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Malaysia — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/malaysia-pe-placements.md. The Malaysia books stocked in this lesson are Book 1, Book 2, Book 3, Book 4. Malaysia is student-book stock, inside the acceptance count, in this lesson. Malaysia's own way is content, as the book lines below record it: the KSSM PJPK course is one combined PE + Health book per form, organised by game categories taught through Teaching Games for Understanding (TGfU), with Malaysian traditional dances and games as content in every form. The Health parts of these books are placed in malaysia-health-placements.md (Health course).
+
+**Book — Malaysia PJPK Tingkatan 1 (student book, Malay):**
+## Book 1 — PJPK Tingkatan 1 (student book, Malay)
+- Title as printed: Pendidikan Jasmani dan Pendidikan Kesihatan Tingkatan 1
+- Grade: Form 1 / Grade 7 (student/teacher: STUDENT)
+- Publisher: Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2016; ISBN 978-967-0520-68-1
+- PDF pages: 203 (cover/title page verified against the record title; byte size 138,182,241 = release asset size; download-list record gives 138.2 MB)
+- Verdict: COMPLETE
+- Tally: see end of section
+- Malaysia's own way: the KSSM PJPK course is one combined PE+Health book per form, organised by game categories (attacking / net games) taught through Teaching Games for Understanding (TGfU), with Malaysian traditional dances (Joget, Sumazau) as the rhythmic-movement content and sepak raga in recreation; every unit carries the same five content standards (skill, movement concepts/mechanics, safety, self-confidence, ethics in sport).
+- Combined book: Health parts (PEERS unit, Nutrition, First Aid) are placed in malaysia-health-placements.md (Book 1 there).
+
+**Book — Malaysia PJPK Tingkatan 2 (student book, Malay):**
+## Book 2 — PJPK Tingkatan 2 (student book, Malay)
+- Title as printed: Pendidikan Jasmani dan Pendidikan Kesihatan Tingkatan 2
+- Grade: Form 2 / Grade 8 (student/teacher: STUDENT)
+- Publisher: Telaga Biru Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2017; ISBN 978-967-388-329-5
+- PDF pages: 113 two-page spreads = 226 printed pages (cover/title page verified against the record title; byte size 47,930,458 = release asset size)
+- Verdict: COMPLETE
+- Tally: see end of section
+- Malaysia's own way: games are taught by category — attacking games (handball, touch rugby), net games (sepak takraw, Malaysia's own sport, given a whole unit) and fielding games (cricket); gymnastics moves on to vaulting, rhythmic movement teaches the Malay Inang dance step by step (ragam "C", ragam sudi, ragam "L"), and recreation teaches campcraft knots and lashings plus two Malaysian traditional games.
+- Combined book: Health parts (PEERS unit, Nutrition, First Aid) are placed in malaysia-health-placements.md (Book 2 there).
+
+**Book — Malaysia PJPK Tingkatan 3 (student book, Malay):**
+## Book 3 — PJPK Tingkatan 3 (student book, Malay)
+- Title as printed: Pendidikan Jasmani dan Pendidikan Kesihatan Tingkatan 3
+- Grade: Form 3 / Grade 9 (student/teacher: STUDENT)
+- Publisher: Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2018; ISBN 978-967-2212-03-4
+- PDF pages: 204 (cover/title page verified against the record title; byte size 76,572,225 = release asset size; download-list record gives 76.6 MB)
+- Verdict: COMPLETE
+- Tally: see end of section
+- Malaysia's own way: two more Malaysian traditional dances (Zapin of Johor, Ngajat of the Iban people of Sarawak) and two Malaysian traditional chase games (Gelap Cerah, Aci Sep) join the imported games; the fitness unit is organised as named activity circuits and ends with the national SEGAK fitness assessment.
+- Combined book: Health parts (PEERS unit, Nutrition, First Aid) are placed in malaysia-health-placements.md (Book 3 there).
+
+**Book — Malaysia PJPK Tingkatan 4 (student book, Malay):**
+## Book 4 — PJPK Tingkatan 4 (student book, Malay)
+- Title as printed: Pendidikan Jasmani dan Pendidikan Kesihatan Tingkatan 4
+- Grade: Form 4 / Grade 10 (student/teacher: STUDENT)
+- Publisher: Telaga Biru Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2019; ISBN 978-967-388-496-4
+- PDF pages: 126 two-page spreads = 232 printed pages (cover/title page verified against the record title; byte size 36,577,452 = release asset size; download-list record gives 36.6 MB)
+- Verdict: COMPLETE
+- Tally: see end of section
+- Malaysia's own way: upper-secondary PE drops basic gymnastics/athletics and teaches the games through strategy and tactics (TGfU "brain-based learning": pupils analyse attacking and defending strategies and their strengths and weaknesses); rhythmic movement is two Malaysian community dances — Sewang of the Orang Asli and the Chinese lion dance.
+- Combined book: Health parts (PEERS unit, Nutrition, First Aid) are placed in malaysia-health-placements.md (Book 4 there).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 7 Kecergasan Fizikal — measuring health-related fitness: the 30-metre sprint test and the skinfold body-fat test named in the unit assessment (original target `fitness-and-stretching/testing-health-related-fitness`) | Malaysia Grade 7 PJPK Tingkatan 1, printed p. 104 |
+| Malaysia — Unit 8 Kecergasan — measuring pupils' health-related fitness level against the fitness components (original target `fitness-and-stretching/testing-health-related-fitness`) | Malaysia Grade 8 PJPK Tingkatan 2, printed p. 120 |
+| Malaysia — Unit 8 Pentaksiran Kecergasan — the SEGAK test, Malaysia's national school fitness assessment (original target `fitness-and-stretching/testing-health-related-fitness`) | Malaysia Grade 9 PJPK Tingkatan 3, printed p. 131 |
+| Malaysia — Unit 6 Kecergasan Fizikal Berdasarkan Kesihatan — reporting the National Physical Fitness Standard assessment (Pelaporan Pentaksiran Standard Kecergasan Fizikal Kebangsaan): fitness test results recorded against the national standard (original target `fitness-and-stretching/testing-health-related-fitness`) | Malaysia Grade 10 PJPK Tingkatan 4, printed p. 136 |
+
+Malaysia's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Malaysia is student-book stock, inside the acceptance count, in this lesson. Malaysia's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

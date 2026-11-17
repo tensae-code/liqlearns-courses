@@ -1,6 +1,6 @@
 # Sources — The Rules of Basketball
 
-countries: Ethiopia, Timor-Leste, Pakistan, Afghanistan, China, Azerbaijan, Belize, Honduras, Iran, North Macedonia, Jordan
+countries: Ethiopia, Timor-Leste, Pakistan, Afghanistan, China, Azerbaijan, Belize, Honduras, Iran, North Macedonia, Jordan, Malaysia
 
 **Book — Grade 9 student:** *Health and Physical Education Student's Textbook Grade 9* (student textbook, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, First Published August 2023, ISBN 978-99990-0-072-7, 156 printed pp. Printed page = PDF page − 10. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g09-student-placements.md. COMPLETE.
 **Book — Grade 9 teacher (teacher guide — evidence):** *Health and Physical Education — Teacher Guide, Grade 9* (teacher guide, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, © 2022, printed pp. I–IX + 1–116. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g09-teacher-placements.md. COMPLETE.
@@ -18,7 +18,7 @@ countries: Ethiopia, Timor-Leste, Pakistan, Afghanistan, China, Azerbaijan, Beli
 | Teams of twelve, uniforms, and how the game is run (teacher guide — evidence) | Ethiopia, Grade 10 teacher Unit 6, Basketball rules in detail (teacher guide — evidence) (§6.1.1 teams of twelve incl. captain, coach and assistant coach as delegates; §6.1.2 uniform, numbers 0–99; §6.1.4 the captain; §6.1.5 the head coach; §6.1.6 playing regulation; §6.1.7 goal; §6.1.8 throw-in; §6.1.9 time-out; §6.1.10 substitution), printed pp. 70–72 |
 
 | Timor-Leste — Appendix 4: Basketball — the game's rules and mini-games (teacher guide — evidence) (original target `ball-games/the-rules-of-basketball`) | Timor-Leste, *Educação Física 7, Guia do Professor* (Timor-Leste Grade 7 Teacher Guide), printed p. 197 |
-**Acceptance count: taught in 8 countries (Ethiopia, Pakistan, China, Azerbaijan, Honduras, Iran, North Macedonia, Jordan).** Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Timor-Leste is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count.
+**Acceptance count: taught in 9 countries (Ethiopia, Pakistan, China, Azerbaijan, Honduras, Iran, North Macedonia, Jordan, Malaysia).** Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Timor-Leste is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count.
 
 The Grade 10 teacher guide is substantively complete (printed pp. I–IX + 1–93): all 8 units, knowledge content and answer keys are present; only §8.3's final step-by-step teaching procedure is cut mid-sentence at printed p. 92. Nothing in this lesson rests on the cut tail. Teacher-guide rows are evidence only and never count as pupil-taught.
 
@@ -293,3 +293,36 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/jordan-pe-pl
 | Jordan — Unit 2, Law of the Game pages: basketball rules taught inside the lessons (original target `ball-games/the-rules-of-basketball`) | Jordan Grade 9 PE Term 1, printed pp. 21–36 |
 
 Jordan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Jordan is student-book stock, inside the acceptance count, in this lesson. Jordan's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Malaysia — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/malaysia-pe-placements.md. The Malaysia books stocked in this lesson are Book 3, Book 5. Malaysia is student-book stock, inside the acceptance count, in this lesson. Malaysia's own way is content, as the book lines below record it: the KSSM PJPK course is one combined PE + Health book per form, organised by game categories taught through Teaching Games for Understanding (TGfU), with Malaysian traditional dances and games as content in every form. The Health parts of these books are placed in malaysia-health-placements.md (Health course).
+
+**Book — Malaysia PJPK Tingkatan 3 (student book, Malay):**
+## Book 3 — PJPK Tingkatan 3 (student book, Malay)
+- Title as printed: Pendidikan Jasmani dan Pendidikan Kesihatan Tingkatan 3
+- Grade: Form 3 / Grade 9 (student/teacher: STUDENT)
+- Publisher: Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2018; ISBN 978-967-2212-03-4
+- PDF pages: 204 (cover/title page verified against the record title; byte size 76,572,225 = release asset size; download-list record gives 76.6 MB)
+- Verdict: COMPLETE
+- Tally: see end of section
+- Malaysia's own way: two more Malaysian traditional dances (Zapin of Johor, Ngajat of the Iban people of Sarawak) and two Malaysian traditional chase games (Gelap Cerah, Aci Sep) join the imported games; the fitness unit is organised as named activity circuits and ends with the national SEGAK fitness assessment.
+- Combined book: Health parts (PEERS unit, Nutrition, First Aid) are placed in malaysia-health-placements.md (Book 3 there).
+
+**Book — Malaysia PJPK Tingkatan 5 (student book, Malay):**
+## Book 5 — PJPK Tingkatan 5 (student book, Malay)
+- Title as printed: Pendidikan Jasmani dan Pendidikan Kesihatan Tingkatan 5
+- Grade: Form 5 / Grade 11 (student/teacher: STUDENT)
+- Publisher: Karangkraf Network Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2020; ISBN 978-967-14472-9-1
+- PDF pages: 196 (cover/title page verified against the record title; byte size 75,121,536 = release asset size and = the staged size in the books.json record, whose note also gives 196 pages and this ISBN)
+- Verdict: COMPLETE
+- Tally: see end of section
+- Malaysia's own way: the final form's dances are Malaysia's multicultural mix — Bhangra of the Punjabi community and Farapeirra of Melaka's Portuguese community; recreation turns to outdoor survival skills (primitive fire-making and cooking) and three Malaysian recreation games, two of them traditional.
+- Combined book: Health parts (PEERS unit, Nutrition, First Aid) are placed in malaysia-health-placements.md (Book 5 there).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 3 Bola Keranjang — basketball: the game and its basic skills framework (original target `ball-games/the-rules-of-basketball`) | Malaysia Grade 9 PJPK Tingkatan 3, printed p. 26 |
+| Malaysia — Unit 2 Bola Keranjang — basketball as an attacking-category game (original target `ball-games/the-rules-of-basketball`) | Malaysia Grade 11 PJPK Tingkatan 5, printed p. 22 |
+
+Malaysia's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Malaysia is student-book stock, inside the acceptance count, in this lesson. Malaysia's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

@@ -1,6 +1,6 @@
 # Sources — The Rules of Volleyball
 
-countries: Ethiopia, Timor-Leste, Pakistan, Afghanistan, China, Azerbaijan, Fiji, Mauritius, Iran, North Macedonia, Jordan
+countries: Ethiopia, Timor-Leste, Pakistan, Afghanistan, China, Azerbaijan, Fiji, Mauritius, Iran, North Macedonia, Jordan, Malaysia
 
 **Book — Grade 9 student:** *Health and Physical Education Student's Textbook Grade 9* (student textbook, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, First Published August 2023, ISBN 978-99990-0-072-7, 156 printed pp. Printed page = PDF page − 10. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g09-student-placements.md. COMPLETE.
 **Book — Grade 9 teacher (teacher guide — evidence):** *Health and Physical Education — Teacher Guide, Grade 9* (teacher guide, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, © 2022, printed pp. I–IX + 1–116. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g09-teacher-placements.md. COMPLETE.
@@ -15,7 +15,7 @@ countries: Ethiopia, Timor-Leste, Pakistan, Afghanistan, China, Azerbaijan, Fiji
 | Facilities, equipment and the referees (teacher guide — evidence) | Ethiopia, Grade 9 teacher Unit 5, Rules of volleyball (teacher guide — evidence), printed pp. 63–64 |
 
 | Timor-Leste — Appendix 4: Volleyball — the game's rules and mini-games (teacher guide — evidence) (original target `ball-games/the-rules-of-volleyball`) | Timor-Leste, *Educação Física 7, Guia do Professor* (Timor-Leste Grade 7 Teacher Guide), printed pp. 157–230 (Appendix 4) |
-**Acceptance count: taught in 8 countries (Ethiopia, Pakistan, China, Azerbaijan, Mauritius, Iran, North Macedonia, Jordan).** Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Timor-Leste is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count.
+**Acceptance count: taught in 9 countries (Ethiopia, Pakistan, China, Azerbaijan, Mauritius, Iran, North Macedonia, Jordan, Malaysia).** Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Timor-Leste is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count.
 
 The Grade 9 books are the English federal 2023 GEQIP-E series; Grade 9 target terms are given as the books print them, in English. The Grade 9 teacher guide is COMPLETE.
 
@@ -283,3 +283,36 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/jordan-pe-pl
 | Jordan — Unit 8, Law of the Game pages: volleyball rules taught inside the lessons (original target `ball-games/the-rules-of-volleyball`) | Jordan Grade 9 PE Term 2, printed pp. 43–53 |
 
 Jordan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Jordan is student-book stock, inside the acceptance count, in this lesson. Jordan's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Malaysia — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/malaysia-pe-placements.md. The Malaysia books stocked in this lesson are Book 1, Book 4. Malaysia is student-book stock, inside the acceptance count, in this lesson. Malaysia's own way is content, as the book lines below record it: the KSSM PJPK course is one combined PE + Health book per form, organised by game categories taught through Teaching Games for Understanding (TGfU), with Malaysian traditional dances and games as content in every form. The Health parts of these books are placed in malaysia-health-placements.md (Health course).
+
+**Book — Malaysia PJPK Tingkatan 1 (student book, Malay):**
+## Book 1 — PJPK Tingkatan 1 (student book, Malay)
+- Title as printed: Pendidikan Jasmani dan Pendidikan Kesihatan Tingkatan 1
+- Grade: Form 1 / Grade 7 (student/teacher: STUDENT)
+- Publisher: Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2016; ISBN 978-967-0520-68-1
+- PDF pages: 203 (cover/title page verified against the record title; byte size 138,182,241 = release asset size; download-list record gives 138.2 MB)
+- Verdict: COMPLETE
+- Tally: see end of section
+- Malaysia's own way: the KSSM PJPK course is one combined PE+Health book per form, organised by game categories (attacking / net games) taught through Teaching Games for Understanding (TGfU), with Malaysian traditional dances (Joget, Sumazau) as the rhythmic-movement content and sepak raga in recreation; every unit carries the same five content standards (skill, movement concepts/mechanics, safety, self-confidence, ethics in sport).
+- Combined book: Health parts (PEERS unit, Nutrition, First Aid) are placed in malaysia-health-placements.md (Book 1 there).
+
+**Book — Malaysia PJPK Tingkatan 4 (student book, Malay):**
+## Book 4 — PJPK Tingkatan 4 (student book, Malay)
+- Title as printed: Pendidikan Jasmani dan Pendidikan Kesihatan Tingkatan 4
+- Grade: Form 4 / Grade 10 (student/teacher: STUDENT)
+- Publisher: Telaga Biru Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2019; ISBN 978-967-388-496-4
+- PDF pages: 126 two-page spreads = 232 printed pages (cover/title page verified against the record title; byte size 36,577,452 = release asset size; download-list record gives 36.6 MB)
+- Verdict: COMPLETE
+- Tally: see end of section
+- Malaysia's own way: upper-secondary PE drops basic gymnastics/athletics and teaches the games through strategy and tactics (TGfU "brain-based learning": pupils analyse attacking and defending strategies and their strengths and weaknesses); rhythmic movement is two Malaysian community dances — Sewang of the Orang Asli and the Chinese lion dance.
+- Combined book: Health parts (PEERS unit, Nutrition, First Aid) are placed in malaysia-health-placements.md (Book 4 there).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 4 Bola Tampar — volleyball serving to start play and the smash (merejam) attacking shot, with the game's playing rules (original target `ball-games/the-rules-of-volleyball`) | Malaysia Grade 7 PJPK Tingkatan 1, printed p. 52 |
+| Malaysia — Unit 3 Bola Tampar — volleyball taught through attacking and defending strategies and tactics (original target `ball-games/the-rules-of-volleyball`) | Malaysia Grade 10 PJPK Tingkatan 4, printed p. 62 |
+
+Malaysia's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Malaysia is student-book stock, inside the acceptance count, in this lesson. Malaysia's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
