@@ -309,3 +309,10 @@ Award for Physical Fitness**
 and **Volleyball Serving**
 (`ball-games/volleyball-serving`)
 — 4 new lessons, bringing this course to 191 lessons.
+
+The PE expansion then added: **Baseball 5**
+(`ball-games/baseball-5`), **Traditional Games of Cuba**
+(`traditional-games-and-dances/traditional-games-of-cuba`)
+and **Cuba's Sporting Glories**
+(`sport-and-its-story/cubas-sporting-glories`)
+— 3 new lessons, bringing this course to 194 lessons.

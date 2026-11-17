@@ -1,6 +1,6 @@
 # Sources — Throwing for Distance
 
-countries: Ethiopia, Kazakhstan, Tajikistan, Thailand, Pakistan, China, El Salvador, Nicaragua, Azerbaijan, Maldives, Honduras, Fiji, Iran, North Macedonia, Zimbabwe, Jordan, Malaysia
+countries: Ethiopia, Kazakhstan, Tajikistan, Thailand, Pakistan, China, El Salvador, Nicaragua, Azerbaijan, Maldives, Honduras, Fiji, Iran, North Macedonia, Zimbabwe, Jordan, Malaysia, Cuba
 
 **Book — Grade 5 student:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 106 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md. COMPLETE.
 
@@ -29,7 +29,7 @@ countries: Ethiopia, Kazakhstan, Tajikistan, Thailand, Pakistan, China, El Salva
 | Kazakhstan — Quarter 1 — the thrower's special exercises and throwing a small ball for distance and at a target (teacher guide — evidence) (original target `athletics/throwing-for-distance`) | Kazakhstan, *Physical Culture, Methodological Guide for Grade 4 Teachers* (Kazakhstan Grade 4 TG), printed p. 5 |
 | Tajikistan — Part 2, Throwing the Ball (Метание мяча) — throwing the small ball at horizontal and vertical targets from 3–4 m and throwing for distance (original target `athletics/throwing-for-distance`) | Tajikistan, *Fizicheskaya Kultura (Physical Culture), Grades 1–4*, Part 2, printed pp. ~106–112 |
 | Thailand — Unit 8 (part 2) Throwing — movement with equipment: throwing (การขว้าง) (student book — MAC sample, PARTIAL) (original target `athletics/throwing-for-distance`) | Thailand, *Health & PE, Grade 2* (Thailand Grade 2 MAC Health & PE), Unit 8 (part 2), printed pp. 141–146 |
-**Acceptance count: taught in 13 countries (Ethiopia, Tajikistan, Thailand, Pakistan, China, Nicaragua, Azerbaijan, Honduras, Iran, North Macedonia, Zimbabwe, Jordan, Malaysia).** Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
+**Acceptance count: taught in 13 countries (Ethiopia, Tajikistan, Thailand, Pakistan, China, Nicaragua, Azerbaijan, Honduras, Iran, North Macedonia, Zimbabwe, Jordan, Malaysia).** Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count.
 
 Student books Grades 5–7 are complete. No page is claimed that the placements do not give.
 
@@ -452,3 +452,45 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/malaysia-pe-
 | Malaysia — Unit 6 Lempar Cakera — the discus throw (original target `athletics/throwing-for-distance`) | Malaysia Grade 9 PJPK Tingkatan 3, printed p. 96 |
 
 Malaysia's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Malaysia is student-book stock, inside the acceptance count, in this lesson. Malaysia's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Cuba — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/cuba-pe-placements.md. Cuba's books stocked in this lesson are Book 3, Book 4, Book 7. All of Cuba's books read for this expansion are TEACHER guides/programmes — one national programme per grade from the Ministry of Education (MINED), Tercer Perfeccionamiento series, Editorial Pueblo y Educación, 2024, plus a teacher-only Orientaciones Metodológicas at each grade — so Cuba is filed as teacher-guide/programme evidence only in every lesson it touches: named in the countries line and in the provenance rows, but outside the acceptance count. Book 8 (G11 Orientaciones Metodológicas) is UNREAD — record-only, with 0 placements — and nothing is stocked from it; the one standalone Health chapter found (childhood obesity, Book 2) is filed in cuba-health-placements.md and placed in the Health course, not here. Cuba's own way is content, as the book lines below record it: primary PE is built on basic motor skills, physical condition, rhythmic activities and games; from Grade 5 the year is Condición Física plus a choice of sport units (athletics, basketball, handball, Baseball 5, football, volleyball), and secondary/pre-university adds full baseball and Cuban school aerobic gymnastics with Cuban dance steps; every grade's objectives include knowing the "glorias deportivas" — Cuba's sporting heroes.
+
+**Book — Cuba Grade 5 G5 Programa (teacher guide / programme):**
+## Book 3 — G5 Programa (teacher guide / programme, Spanish)
+- Title as printed: Programa — Educación Física, quinto grado
+- Grade: 5 (student/teacher: TEACHER)
+- Publisher: Ministerio de Educación / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4653-7 (digital version)
+- PDF pages: 32 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 17 placements — 14 to existing lessons, 3 NEW LESSON NEEDED
+- Cuba's own way: Grade 5 starts real sport units, taught through pre-sport games; the teacher chooses three of the five ball sports, and Cuba's own Baseball 5 — playable anywhere with one rubber ball — stands in for full baseball, rooted in the street games pelota a la mano and las cuatro esquinas.
+
+**Book — Cuba Grade 5 G5 Orientaciones Metodológicas (teacher guide):**
+## Book 4 — G5 Orientaciones Metodológicas (teacher guide, Spanish)
+- Title as printed: Orientaciones Metodológicas — Educación Física, quinto grado
+- Grade: 5 (student/teacher: TEACHER)
+- Publisher: Ministerio de Educación / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4686-5 (digital version)
+- PDF pages: 153 (cover/title page verified against the record title; read in place from phase3-staging, on_disk copy)
+- Verdict: COMPLETE
+- Tally: 12 placements — 11 to existing lessons, 1 NEW LESSON NEEDED
+- Cuba's own way: a full worked chapter per sport unit — lesson planning documents, methods for building sport motor skills, and per-unit teaching sequences with common errors.
+
+**Book — Cuba Grade 11 G11 Programa (teacher guide / programme):**
+## Book 7 — G11 Programa (teacher guide / programme, Spanish)
+- Title as printed: Programa — Educación Física, onceno grado
+- Grade: 11 (student/teacher: TEACHER)
+- Publisher: Ministerio de Educación / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4788-6 (digital version)
+- PDF pages: 48 (cover/title page verified against the record title; also re-grabbed via grab.py tree, byte-identical)
+- Verdict: COMPLETE
+- Tally: 25 placements — 20 to existing lessons, 5 NEW LESSON NEEDED
+- Cuba's own way: pre-university PE is self-directed — pupils dose their own effort, keep a control card, self-test with a fitness battery, train autonomously (including fitness modalities such as body pump/body attack) and use ICT to extend their knowledge; content is organised as conceptual, procedural and attitudinal strands in a spiral sequence.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Unidad Atletismo: lanzamiento de la pelota — ball throw with release angle and a short run-up (original target `athletics/throwing-for-distance`) | Cuba Grade 5 G5 Programa, printed p. 9 |
+| Cuba — Unidad Atletismo — teaching sequence for the ball throw with run-up (original target `athletics/throwing-for-distance`) | Cuba Grade 5 G5 Orientaciones, printed p. 48 |
+| Cuba — Unidad Atletismo: impulsión de la bala — shot put from the side position toward the area (original target `athletics/throwing-for-distance`) | Cuba Grade 11 G11 Programa, printed p. 21 |
+
+Cuba's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Cuba enters this lesson as teacher-guide/programme evidence only, outside the acceptance count. Cuba's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

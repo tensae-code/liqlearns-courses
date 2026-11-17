@@ -1,6 +1,6 @@
 # Sources — Walking in Patterns
 
-countries: Ethiopia, Mozambique, Kazakhstan, El Salvador, Philippines, Nicaragua, Belize
+countries: Ethiopia, Mozambique, Kazakhstan, El Salvador, Philippines, Nicaragua, Belize, Cuba
 
 **Book — Grade 1 student:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 81 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md. COMPLETE.
 
@@ -28,7 +28,7 @@ countries: Ethiopia, Mozambique, Kazakhstan, El Salvador, Philippines, Nicaragua
 | Mozambique — 2.ª Parte, Exercícios de organização e controlo: Formaturas — organisation and control exercises: the basic formations, done to command voices (teacher guide — evidence) (original target `moving-basics/walking-in-patterns`) | Mozambique, *Grade 1 Teacher Manual (Educação Física)*, 2.ª Parte, Exercícios de organização e controlo: Formaturas, printed p. 200 |
 | Mozambique — 2.ª Parte, Marchas — marching: files and columns all moving in the same direction (teacher guide — evidence) (original target `moving-basics/walking-in-patterns`) | Mozambique, *Grade 1 Teacher Manual (Educação Física)*, 2.ª Parte, Marchas, printed p. 204 |
 | Kazakhstan — All quarters — drill/formation exercises (строевые упражнения): turns, counting off, reforming ranks, and marching on the count (teacher guide — evidence) (original target `moving-basics/walking-in-patterns`) | Kazakhstan, *Physical Culture, Methodological Guide for Grade 4 Teachers* (Kazakhstan Grade 4 TG), printed pp. 4–5, 20, 48 |
-**Acceptance count: taught in 3 countries (Ethiopia, Philippines, Nicaragua).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 3 countries (Ethiopia, Philippines, Nicaragua).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count.
 
 The Grade 4 teacher guide scan is TRUNCATED: it holds printed pp. 1–39 of 72+. Missing: all of Chapter 4 (pp. 40–54), Chapter 5 Gymnastics (pp. 55–65) and Chapter 6 (pp. 66–72+). Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
 
@@ -151,3 +151,34 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-pe-pl
 | Belize — Walking — lifting and setting down each foot, measured-distance walking (original target `moving-basics/walking-in-patterns`) | Belize, *Belize Grade 3 PE Lower, printed pp. 91–92* |
 
 Belize's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Belize's own way is content, as the book lines above record it: in the Lower Division PE is taught as three skill families — locomotor, manipulative, non-manipulative — spiralled across Infant I → Standard I with the same skills revisited at rising difficulty, and in the Middle Division PE is organised as Training, Work, Sports and Dance for every grade, with "Work" treating sweeping, mopping, chopping and washing as real physical training. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Cuba — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/cuba-pe-placements.md. Cuba's books stocked in this lesson are Book 1, Book 2. All of Cuba's books read for this expansion are TEACHER guides/programmes — one national programme per grade from the Ministry of Education (MINED), Tercer Perfeccionamiento series, Editorial Pueblo y Educación, 2024, plus a teacher-only Orientaciones Metodológicas at each grade — so Cuba is filed as teacher-guide/programme evidence only in every lesson it touches: named in the countries line and in the provenance rows, but outside the acceptance count. Book 8 (G11 Orientaciones Metodológicas) is UNREAD — record-only, with 0 placements — and nothing is stocked from it; the one standalone Health chapter found (childhood obesity, Book 2) is filed in cuba-health-placements.md and placed in the Health course, not here. Cuba's own way is content, as the book lines below record it: primary PE is built on basic motor skills, physical condition, rhythmic activities and games; from Grade 5 the year is Condición Física plus a choice of sport units (athletics, basketball, handball, Baseball 5, football, volleyball), and secondary/pre-university adds full baseball and Cuban school aerobic gymnastics with Cuban dance steps; every grade's objectives include knowing the "glorias deportivas" — Cuba's sporting heroes.
+
+**Book — Cuba Grade 2 G2 Programa (teacher guide / programme):**
+## Book 1 — G2 Programa (teacher guide / programme, Spanish)
+- Title as printed: Programa — Educación Física, segundo grado
+- Grade: 2 (student/teacher: TEACHER)
+- Publisher: Ministerio de Educación / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4641-4 (digital version)
+- PDF pages: 23 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 12 placements — 10 to existing lessons, 2 NEW LESSON NEEDED
+- Cuba's own way: the youngest grades learn PE as basic motor skills, rhythmic movement and play — no sports yet; hygiene, posture and breathing habits are written into every unit's objectives.
+
+**Book — Cuba Grade 2 G2 Orientaciones Metodológicas (teacher guide):**
+## Book 2 — G2 Orientaciones Metodológicas (teacher guide, Spanish)
+- Title as printed: Orientaciones Metodológicas — Educación Física, segundo grado
+- Grade: 2 (student/teacher: TEACHER)
+- Publisher: Ministerio de Educación / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4671-1 (digital version)
+- PDF pages: 122 (cover/title page verified against the record title)
+- Verdict: COMPLETE — the chapter "Sugerencias para el trabajo con la obesidad" (printed pp. 23–31) is standalone Health teaching and is filed in cuba-health-placements.md, cross-noted here
+- Tally: 14 placements — 11 to existing lessons, 3 NEW LESSON NEEDED
+- Cuba's own way: the teacher book works every programme unit out in full — named example games with materials, rules and objectives, plus whole chapters on coordinative capacities and on teaching styles.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Unidad Condición Física: ejercicios de organización y control — formations (rows, lines, circles), numbering, alignments and turns (original target `moving-basics/walking-in-patterns`) | Cuba Grade 2 G2 Programa, printed p. 7 |
+| Cuba — Unidad Condición Física: ejercicios de organización y control — voice commands, formations, numbering, alignments and two-movement turns taught step by step (original target `moving-basics/walking-in-patterns`) | Cuba Grade 2 G2 Orientaciones, printed p. 33 |
+
+Cuba's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Cuba enters this lesson as teacher-guide/programme evidence only, outside the acceptance count. Cuba's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

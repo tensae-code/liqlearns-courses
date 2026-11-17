@@ -1,8 +1,8 @@
 # Sources — Baseball and Softball Skills
 
-countries: Pakistan, Belize, Malaysia
+countries: Pakistan, Belize, Malaysia, Cuba
 
-**Acceptance count: taught in 2 countries (Pakistan, Malaysia).** Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Pakistan is student-book stock (see its rows below), inside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 2 countries (Pakistan, Malaysia).** Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Pakistan is student-book stock (see its rows below), inside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count.
 
 ## Pakistan — PE expansion 2026-11-16
 
@@ -81,3 +81,45 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/malaysia-pe-
 | Malaysia — Unit 4 Sofbol — softball as the hitting-and-fielding game (original target `ball-games/softball-hitting-fielding-and-pitching`) | Malaysia Grade 11 PJPK Tingkatan 5, printed p. 72 |
 
 Malaysia's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Malaysia is student-book stock, inside the acceptance count, in this lesson. Malaysia's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Cuba — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/cuba-pe-placements.md. Cuba's books stocked in this lesson are Book 5, Book 6, Book 7. All of Cuba's books read for this expansion are TEACHER guides/programmes — one national programme per grade from the Ministry of Education (MINED), Tercer Perfeccionamiento series, Editorial Pueblo y Educación, 2024, plus a teacher-only Orientaciones Metodológicas at each grade — so Cuba is filed as teacher-guide/programme evidence only in every lesson it touches: named in the countries line and in the provenance rows, but outside the acceptance count. Book 8 (G11 Orientaciones Metodológicas) is UNREAD — record-only, with 0 placements — and nothing is stocked from it; the one standalone Health chapter found (childhood obesity, Book 2) is filed in cuba-health-placements.md and placed in the Health course, not here. Cuba's own way is content, as the book lines below record it: primary PE is built on basic motor skills, physical condition, rhythmic activities and games; from Grade 5 the year is Condición Física plus a choice of sport units (athletics, basketball, handball, Baseball 5, football, volleyball), and secondary/pre-university adds full baseball and Cuban school aerobic gymnastics with Cuban dance steps; every grade's objectives include knowing the "glorias deportivas" — Cuba's sporting heroes.
+
+**Book — Cuba Grade 8 G8 Programa (teacher guide / programme):**
+## Book 5 — G8 Programa (teacher guide / programme, Spanish)
+- Title as printed: Programa — Educación Física, octavo grado
+- Grade: 8 (student/teacher: TEACHER)
+- Publisher: Ministerio de Educación / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4734-3 (digital version)
+- PDF pages: 36 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 19 placements — 16 to existing lessons, 3 NEW LESSON NEEDED
+- Cuba's own way: secondary units are chosen by each school from a fixed national menu according to its facilities; every unit splits into "levelling" (consolidation) plus new skills, and school aerobic gymnastics is built on Cuban dance steps — salsa, conga, pilón, mozambique.
+
+**Book — Cuba Grade 8 G8 Orientaciones Metodológicas (teacher guide):**
+## Book 6 — G8 Orientaciones Metodológicas (teacher guide, Spanish)
+- Title as printed: Orientaciones Metodológicas — Educación Física, octavo grado
+- Grade: 8 (student/teacher: TEACHER)
+- Publisher: Ministerio de Educación / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4753-4 (digital version)
+- PDF pages: 130 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 14 placements — 12 to existing lessons, 2 NEW LESSON NEEDED
+- Cuba's own way: the teacher book gives a full chapter per unit with diagnostic starts, worked exercises and the exact skills to assess at a coarse ("grueso") development level.
+
+**Book — Cuba Grade 11 G11 Programa (teacher guide / programme):**
+## Book 7 — G11 Programa (teacher guide / programme, Spanish)
+- Title as printed: Programa — Educación Física, onceno grado
+- Grade: 11 (student/teacher: TEACHER)
+- Publisher: Ministerio de Educación / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4788-6 (digital version)
+- PDF pages: 48 (cover/title page verified against the record title; also re-grabbed via grab.py tree, byte-identical)
+- Verdict: COMPLETE
+- Tally: 25 placements — 20 to existing lessons, 5 NEW LESSON NEEDED
+- Cuba's own way: pre-university PE is self-directed — pupils dose their own effort, keep a control card, self-test with a fitness battery, train autonomously (including fitness modalities such as body pump/body attack) and use ICT to extend their knowledge; content is organised as conceptual, procedural and attitudinal strands in a spiral sequence.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Unidad Béisbol — batting stance and swing, home-to-second running, fielding grounders and flies, pitcher's front and side positions, sacrifice bunt (original target `ball-games/baseball-hitting-fielding-and-pitching`) | Cuba Grade 8 G8 Programa, printed p. 19 |
+| Cuba — Unidad Béisbol — full teaching chapter: batting, base running, fielding and pitching positions through games matched to the skills (original target `ball-games/baseball-hitting-fielding-and-pitching`) | Cuba Grade 8 G8 Orientaciones, printed p. 61 |
+| Cuba — Unidad Béisbol — base-running circuits (home–1st–2nd–3rd–home), infield/outfield fielding and throws, pitching with the sacrifice bunt, fielding the bunt; baseball valued as a social and cultural phenomenon (original target `ball-games/baseball-hitting-fielding-and-pitching`) | Cuba Grade 11 G11 Programa, printed p. 30 |
+
+Cuba's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Cuba enters this lesson as teacher-guide/programme evidence only, outside the acceptance count. Cuba's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

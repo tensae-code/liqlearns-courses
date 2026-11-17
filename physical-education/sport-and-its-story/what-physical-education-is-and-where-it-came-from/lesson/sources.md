@@ -1,6 +1,6 @@
 # Sources — What Physical Education Is and Where It Came From
 
-countries: Ethiopia, Mozambique, Namibia, Turkmenistan, Tajikistan, Afghanistan, China, Nicaragua, Azerbaijan, Honduras, Iran, North Macedonia
+countries: Ethiopia, Mozambique, Namibia, Turkmenistan, Tajikistan, Afghanistan, China, Nicaragua, Azerbaijan, Honduras, Iran, North Macedonia, Cuba
 
 **Book 1:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–106 + front matter (114 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md.
 
@@ -32,7 +32,7 @@ countries: Ethiopia, Mozambique, Namibia, Turkmenistan, Tajikistan, Afghanistan,
 
 | Turkmenistan — Part I, The Origin of Physical Education — PE as part of general human culture, sport as the future of cultural life, and how PE and sport differ and join (original target `sport-and-its-story/what-physical-education-is-and-where-it-came-from`) | Turkmenistan, *Bedenterbiýe (Physical Education)*, Part I, printed pp. 15–18 |
 | Tajikistan — Part 1, The Origin of Physical Culture and Sport — how physical exercise began with early people's hunting, defence and work, and how throws, runs and jumps became practised movements (original target `sport-and-its-story/what-physical-education-is-and-where-it-came-from`) | Tajikistan, *Fizicheskaya Kultura (Physical Culture), Grades 1–4*, Part 1, printed pp. 6–9 |
-**Acceptance count: taught in 9 countries (Ethiopia, Turkmenistan, Tajikistan, China, Nicaragua, Azerbaijan, Honduras, Iran, North Macedonia).** Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Namibia is likewise added as teacher-guide evidence only, outside the acceptance count. Turkmenistan is added as student-book stock (see its row above), inside the acceptance count. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count.
+**Acceptance count: taught in 9 countries (Ethiopia, Turkmenistan, Tajikistan, China, Nicaragua, Azerbaijan, Honduras, Iran, North Macedonia).** Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Namibia is likewise added as teacher-guide evidence only, outside the acceptance count. Turkmenistan is added as student-book stock (see its row above), inside the acceptance count. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count.
 
 The Grade 5 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -284,3 +284,45 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/north-macedo
 | North Macedonia — Introduction — physical education, sport and sports activities as three linked categories with one aim (developing the person's physical potentials): PE as the foundation of movement knowledge, skills and values such as discipline, cooperation and respect for rules, sport as its organised competitive form, and the learning outcomes, including planning one's own activity and applying healthy habits of activity, nutrition and rest (original target `sport-and-its-story/what-physical-education-is-and-where-it-came-from`) | North Macedonia Grade 11 Sport, printed pp. 6–7 |
 
 North Macedonia's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. North Macedonia's own way is content, as the book lines above record it: in gymnasium the subject is renamed “Sport and Sports Activities” and turns encyclopaedic — every sport is taught as technique + tactics + full rules + its world history AND its Macedonian history (handball arriving in Skopje in 1948, basketball in Štip in 1933, Vardar and the federations' FIFA/FIBA/IHF memberships), and pupils choose elective areas, including a “Fitness and health” area with aerobics, gym fitness and Pilates. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Cuba — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/cuba-pe-placements.md. Cuba's books stocked in this lesson are Book 1, Book 3, Book 5. All of Cuba's books read for this expansion are TEACHER guides/programmes — one national programme per grade from the Ministry of Education (MINED), Tercer Perfeccionamiento series, Editorial Pueblo y Educación, 2024, plus a teacher-only Orientaciones Metodológicas at each grade — so Cuba is filed as teacher-guide/programme evidence only in every lesson it touches: named in the countries line and in the provenance rows, but outside the acceptance count. Book 8 (G11 Orientaciones Metodológicas) is UNREAD — record-only, with 0 placements — and nothing is stocked from it; the one standalone Health chapter found (childhood obesity, Book 2) is filed in cuba-health-placements.md and placed in the Health course, not here. Cuba's own way is content, as the book lines below record it: primary PE is built on basic motor skills, physical condition, rhythmic activities and games; from Grade 5 the year is Condición Física plus a choice of sport units (athletics, basketball, handball, Baseball 5, football, volleyball), and secondary/pre-university adds full baseball and Cuban school aerobic gymnastics with Cuban dance steps; every grade's objectives include knowing the "glorias deportivas" — Cuba's sporting heroes.
+
+**Book — Cuba Grade 2 G2 Programa (teacher guide / programme):**
+## Book 1 — G2 Programa (teacher guide / programme, Spanish)
+- Title as printed: Programa — Educación Física, segundo grado
+- Grade: 2 (student/teacher: TEACHER)
+- Publisher: Ministerio de Educación / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4641-4 (digital version)
+- PDF pages: 23 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 12 placements — 10 to existing lessons, 2 NEW LESSON NEEDED
+- Cuba's own way: the youngest grades learn PE as basic motor skills, rhythmic movement and play — no sports yet; hygiene, posture and breathing habits are written into every unit's objectives.
+
+**Book — Cuba Grade 5 G5 Programa (teacher guide / programme):**
+## Book 3 — G5 Programa (teacher guide / programme, Spanish)
+- Title as printed: Programa — Educación Física, quinto grado
+- Grade: 5 (student/teacher: TEACHER)
+- Publisher: Ministerio de Educación / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4653-7 (digital version)
+- PDF pages: 32 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 17 placements — 14 to existing lessons, 3 NEW LESSON NEEDED
+- Cuba's own way: Grade 5 starts real sport units, taught through pre-sport games; the teacher chooses three of the five ball sports, and Cuba's own Baseball 5 — playable anywhere with one rubber ball — stands in for full baseball, rooted in the street games pelota a la mano and las cuatro esquinas.
+
+**Book — Cuba Grade 8 G8 Programa (teacher guide / programme):**
+## Book 5 — G8 Programa (teacher guide / programme, Spanish)
+- Title as printed: Programa — Educación Física, octavo grado
+- Grade: 8 (student/teacher: TEACHER)
+- Publisher: Ministerio de Educación / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4734-3 (digital version)
+- PDF pages: 36 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 19 placements — 16 to existing lessons, 3 NEW LESSON NEEDED
+- Cuba's own way: secondary units are chosen by each school from a fixed national menu according to its facilities; every unit splits into "levelling" (consolidation) plus new skills, and school aerobic gymnastics is built on Cuban dance steps — salsa, conga, pilón, mozambique.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Caracterización de la disciplina — what primary PE is for: motor skills, hygiene and sporting culture, expressive movement (original target `sport-and-its-story/what-physical-education-is-and-where-it-came-from`) | Cuba Grade 2 G2 Programa, printed p. 1 |
+| Cuba — Caracterización de la disciplina — the third developmental moment: consolidating basic skills and introducing sport skills at ages 10–12 (original target `sport-and-its-story/what-physical-education-is-and-where-it-came-from`) | Cuba Grade 5 G5 Programa, printed p. 1 |
+| Cuba — Caracterización de la disciplina en la Secundaria Básica — the secondary PE design: schools select feasible units; healthy-life habits and full inclusion (original target `sport-and-its-story/what-physical-education-is-and-where-it-came-from`) | Cuba Grade 8 G8 Programa, printed p. 1 |
+
+Cuba's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Cuba enters this lesson as teacher-guide/programme evidence only, outside the acceptance count. Cuba's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

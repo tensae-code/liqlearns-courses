@@ -1,8 +1,8 @@
 # Sources — Expressing with the Body
 
-countries: El Salvador, Philippines
+countries: El Salvador, Philippines, Cuba
 
-**Acceptance count: taught in 1 country (Philippines).** Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. El Salvador remains teacher-guide evidence only (see its rows above), named in the countries line but outside the acceptance count — this lesson was founded on teacher-guide evidence only before the Philippines student book was stocked.
+**Acceptance count: taught in 1 country (Philippines).** Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. El Salvador remains teacher-guide evidence only (see its rows above), named in the countries line but outside the acceptance count — this lesson was founded on teacher-guide evidence only before the Philippines student book was stocked. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count.
 
 Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/el-salvador-pe-placements.md. El Salvador's book read for this expansion is the *Guía Metodológica de Educación Física, Primer Ciclo* (Grades 1–3) — a TEACHER guide, COMPLETE, read in full via its SlideShare scan (239 pages as scanned; no direct-download route exists for this record, as filed). El Salvador is therefore filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. The other El Salvador records are record-only, as filed in the placements file: two MINED web index pages (ministry index pages, not books — no placements) and two study programmes (Bachillerato and III Ciclo), both UNREAD with 0 placements — study programmes are filed record-only and never placed — nothing is stocked from any of them. The guide's 4 Health-side placements are filed in el-salvador-health-placements.md and placed in the Health course, not in PE.
 
@@ -46,3 +46,23 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/philippines-
 Philippines's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Philippines's own way is content, as the book lines above record it: PE 7 is a self-paced workbook whose sessions run Introductory Activity / Skill Development / Application / Assessment, with learners measuring their own pulse, target heart-rate zones and activity index; Grade 3 PE is taught through Filipino action songs and familiar scenes; the Grade 3 Unit 3 quarter moves from movement concepts to Kunday-Kunday and Tumbang Preso; and Grade 2 PE is taught entirely in the mother tongue inside the single MAPEH book, returning to tikas (posture) every quarter. Game and dance rules and steps are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: expressing with the body, body communication, gestures, mime, body language, Me comunico con mi cuerpo, El Salvador Grades 1-3 PE Guide
+
+## Cuba — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/cuba-pe-placements.md. Cuba's books stocked in this lesson are Book 2. All of Cuba's books read for this expansion are TEACHER guides/programmes — one national programme per grade from the Ministry of Education (MINED), Tercer Perfeccionamiento series, Editorial Pueblo y Educación, 2024, plus a teacher-only Orientaciones Metodológicas at each grade — so Cuba is filed as teacher-guide/programme evidence only in every lesson it touches: named in the countries line and in the provenance rows, but outside the acceptance count. Book 8 (G11 Orientaciones Metodológicas) is UNREAD — record-only, with 0 placements — and nothing is stocked from it; the one standalone Health chapter found (childhood obesity, Book 2) is filed in cuba-health-placements.md and placed in the Health course, not here. Cuba's own way is content, as the book lines below record it: primary PE is built on basic motor skills, physical condition, rhythmic activities and games; from Grade 5 the year is Condición Física plus a choice of sport units (athletics, basketball, handball, Baseball 5, football, volleyball), and secondary/pre-university adds full baseball and Cuban school aerobic gymnastics with Cuban dance steps; every grade's objectives include knowing the "glorias deportivas" — Cuba's sporting heroes.
+
+**Book — Cuba Grade 2 G2 Orientaciones Metodológicas (teacher guide):**
+## Book 2 — G2 Orientaciones Metodológicas (teacher guide, Spanish)
+- Title as printed: Orientaciones Metodológicas — Educación Física, segundo grado
+- Grade: 2 (student/teacher: TEACHER)
+- Publisher: Ministerio de Educación / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4671-1 (digital version)
+- PDF pages: 122 (cover/title page verified against the record title)
+- Verdict: COMPLETE — the chapter "Sugerencias para el trabajo con la obesidad" (printed pp. 23–31) is standalone Health teaching and is filed in cuba-health-placements.md, cross-noted here
+- Tally: 14 placements — 11 to existing lessons, 3 NEW LESSON NEEDED
+- Cuba's own way: the teacher book works every programme unit out in full — named example games with materials, rules and objectives, plus whole chapters on coordinative capacities and on teaching styles.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Unidad Actividades Rítmicas: expresión corporal — body expression with and without implements (newspapers, ropes, hoops, ribbons, balls), mime and dramatisation (original target `gymnastics/body-expression-and-dramatisation`) | Cuba Grade 2 G2 Orientaciones, printed p. 72 |
+
+Cuba's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Cuba enters this lesson as teacher-guide/programme evidence only, outside the acceptance count. Cuba's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

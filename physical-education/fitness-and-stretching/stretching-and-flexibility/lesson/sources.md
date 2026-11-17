@@ -1,6 +1,6 @@
 # Sources — Stretching and Flexibility
 
-countries: Ethiopia, Turkmenistan, Samoa, Timor-Leste, United Kingdom, Afghanistan, China, El Salvador, Philippines, Nicaragua, Azerbaijan, Maldives, Belize, Honduras, Fiji, Mauritius, Iran, North Macedonia, Malaysia
+countries: Ethiopia, Turkmenistan, Samoa, Timor-Leste, United Kingdom, Afghanistan, China, El Salvador, Philippines, Nicaragua, Azerbaijan, Maldives, Belize, Honduras, Fiji, Mauritius, Iran, North Macedonia, Malaysia, Cuba
 
 **Book — Grade 1 student:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 81 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md. COMPLETE.
 
@@ -57,7 +57,7 @@ countries: Ethiopia, Turkmenistan, Samoa, Timor-Leste, United Kingdom, Afghanist
 | Samoa — Appendix 1 — the Samoa Secondary Schools Fitness Test Battery flexibility test: the sit-and-reach test, and what lower-body flexibility means for range of movement (teacher guide — evidence) (original target `fitness-and-stretching/stretching-and-flexibility`) | Samoa, *Health and Physical Education Teacher Guide, Years 11 and 12* (Samoa Years 11–12 TG), printed p. 84 |
 | Timor-Leste — Appendix 1: Stretching guide — a pictured guide to stretches (original target `fitness-and-stretching/stretching-and-flexibility`) | Timor-Leste, *Educação Física 7, Manual do aluno* (Timor-Leste Grade 7 Student Book), printed p. 57 |
 | United Kingdom — Component 1 Topic 3.6: Effective use of warm up and cool down — the phases and purposes of warming up and cooling down (original target `fitness-and-stretching/stretching-and-flexibility`) | United Kingdom, *Edexcel GCSE (9-1) Physical Education Student Book, 2nd edition* (United Kingdom GCSE Edexcel PE Student Book), Component 1 Topic 3.6, printed p. 112 |
-**Acceptance count: taught in 13 countries (Ethiopia, Turkmenistan, Timor-Leste, United Kingdom, China, Philippines, Nicaragua, Azerbaijan, Honduras, Fiji, Iran, North Macedonia, Malaysia).** Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Turkmenistan is added as student-book stock (see its row above), inside the acceptance count. Samoa is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Timor-Leste is added as student-book stock (see its row above), inside the acceptance count. United Kingdom is added as student-book stock (see its rows above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; the Fiji teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Mauritius is added as teacher-guide evidence only (see its Mauritius section below), named in the countries line but outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count.
+**Acceptance count: taught in 13 countries (Ethiopia, Turkmenistan, Timor-Leste, United Kingdom, China, Philippines, Nicaragua, Azerbaijan, Honduras, Fiji, Iran, North Macedonia, Malaysia).** Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Turkmenistan is added as student-book stock (see its row above), inside the acceptance count. Samoa is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Timor-Leste is added as student-book stock (see its row above), inside the acceptance count. United Kingdom is added as student-book stock (see its rows above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; the Fiji teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Mauritius is added as teacher-guide evidence only (see its Mauritius section below), named in the countries line but outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count.
 
 Student books Grades 1–4 are complete. No page is claimed that the placements do not give. Dance and game rules are taught only as the placements summarise them; no rules have been invented for any game the placements leave game-dependent.
 
@@ -718,3 +718,68 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/malaysia-pe-
 | Malaysia — Unit 6 Kelenturan — flexibility as a health-related fitness component (original target `fitness-and-stretching/stretching-and-flexibility`) | Malaysia Grade 11 PJPK Tingkatan 5, printed p. 106 |
 
 Malaysia's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Malaysia is student-book stock, inside the acceptance count, in this lesson. Malaysia's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Cuba — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/cuba-pe-placements.md. Cuba's books stocked in this lesson are Book 1, Book 2, Book 3, Book 5, Book 7. All of Cuba's books read for this expansion are TEACHER guides/programmes — one national programme per grade from the Ministry of Education (MINED), Tercer Perfeccionamiento series, Editorial Pueblo y Educación, 2024, plus a teacher-only Orientaciones Metodológicas at each grade — so Cuba is filed as teacher-guide/programme evidence only in every lesson it touches: named in the countries line and in the provenance rows, but outside the acceptance count. Book 8 (G11 Orientaciones Metodológicas) is UNREAD — record-only, with 0 placements — and nothing is stocked from it; the one standalone Health chapter found (childhood obesity, Book 2) is filed in cuba-health-placements.md and placed in the Health course, not here. Cuba's own way is content, as the book lines below record it: primary PE is built on basic motor skills, physical condition, rhythmic activities and games; from Grade 5 the year is Condición Física plus a choice of sport units (athletics, basketball, handball, Baseball 5, football, volleyball), and secondary/pre-university adds full baseball and Cuban school aerobic gymnastics with Cuban dance steps; every grade's objectives include knowing the "glorias deportivas" — Cuba's sporting heroes.
+
+**Book — Cuba Grade 2 G2 Programa (teacher guide / programme):**
+## Book 1 — G2 Programa (teacher guide / programme, Spanish)
+- Title as printed: Programa — Educación Física, segundo grado
+- Grade: 2 (student/teacher: TEACHER)
+- Publisher: Ministerio de Educación / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4641-4 (digital version)
+- PDF pages: 23 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 12 placements — 10 to existing lessons, 2 NEW LESSON NEEDED
+- Cuba's own way: the youngest grades learn PE as basic motor skills, rhythmic movement and play — no sports yet; hygiene, posture and breathing habits are written into every unit's objectives.
+
+**Book — Cuba Grade 2 G2 Orientaciones Metodológicas (teacher guide):**
+## Book 2 — G2 Orientaciones Metodológicas (teacher guide, Spanish)
+- Title as printed: Orientaciones Metodológicas — Educación Física, segundo grado
+- Grade: 2 (student/teacher: TEACHER)
+- Publisher: Ministerio de Educación / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4671-1 (digital version)
+- PDF pages: 122 (cover/title page verified against the record title)
+- Verdict: COMPLETE — the chapter "Sugerencias para el trabajo con la obesidad" (printed pp. 23–31) is standalone Health teaching and is filed in cuba-health-placements.md, cross-noted here
+- Tally: 14 placements — 11 to existing lessons, 3 NEW LESSON NEEDED
+- Cuba's own way: the teacher book works every programme unit out in full — named example games with materials, rules and objectives, plus whole chapters on coordinative capacities and on teaching styles.
+
+**Book — Cuba Grade 5 G5 Programa (teacher guide / programme):**
+## Book 3 — G5 Programa (teacher guide / programme, Spanish)
+- Title as printed: Programa — Educación Física, quinto grado
+- Grade: 5 (student/teacher: TEACHER)
+- Publisher: Ministerio de Educación / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4653-7 (digital version)
+- PDF pages: 32 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 17 placements — 14 to existing lessons, 3 NEW LESSON NEEDED
+- Cuba's own way: Grade 5 starts real sport units, taught through pre-sport games; the teacher chooses three of the five ball sports, and Cuba's own Baseball 5 — playable anywhere with one rubber ball — stands in for full baseball, rooted in the street games pelota a la mano and las cuatro esquinas.
+
+**Book — Cuba Grade 8 G8 Programa (teacher guide / programme):**
+## Book 5 — G8 Programa (teacher guide / programme, Spanish)
+- Title as printed: Programa — Educación Física, octavo grado
+- Grade: 8 (student/teacher: TEACHER)
+- Publisher: Ministerio de Educación / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4734-3 (digital version)
+- PDF pages: 36 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 19 placements — 16 to existing lessons, 3 NEW LESSON NEEDED
+- Cuba's own way: secondary units are chosen by each school from a fixed national menu according to its facilities; every unit splits into "levelling" (consolidation) plus new skills, and school aerobic gymnastics is built on Cuban dance steps — salsa, conga, pilón, mozambique.
+
+**Book — Cuba Grade 11 G11 Programa (teacher guide / programme):**
+## Book 7 — G11 Programa (teacher guide / programme, Spanish)
+- Title as printed: Programa — Educación Física, onceno grado
+- Grade: 11 (student/teacher: TEACHER)
+- Publisher: Ministerio de Educación / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4788-6 (digital version)
+- PDF pages: 48 (cover/title page verified against the record title; also re-grabbed via grab.py tree, byte-identical)
+- Verdict: COMPLETE
+- Tally: 25 placements — 20 to existing lessons, 5 NEW LESSON NEEDED
+- Cuba's own way: pre-university PE is self-directed — pupils dose their own effort, keep a control card, self-test with a fitness battery, train autonomously (including fitness modalities such as body pump/body attack) and use ICT to extend their knowledge; content is organised as conceptual, procedural and attitudinal strands in a spiral sequence.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Unidad Condición Física: flexibilidad — active flexibility exercises without implements (original target `fitness-and-stretching/stretching-and-flexibility`) | Cuba Grade 2 G2 Programa, printed p. 9 |
+| Cuba — Unidad Condición Física: flexibilidad — flexibility work matched to the age group's joint development (original target `fitness-and-stretching/stretching-and-flexibility`) | Cuba Grade 2 G2 Orientaciones, printed p. 63 |
+| Cuba — Unidad Condición Física: flexibilidad — active flexibility for upper/lower limbs and trunk (original target `fitness-and-stretching/stretching-and-flexibility`) | Cuba Grade 5 G5 Programa, printed p. 7 |
+| Cuba — Unidad Condición Física: flexibilidad — active and passive flexibility (original target `fitness-and-stretching/stretching-and-flexibility`) | Cuba Grade 8 G8 Programa, printed p. 12 |
+| Cuba — Unidad Gimnasia Aerobia Escolar: gimnasia localizada — active/passive flexibility, muscle toning and stretching exercises standing, seated and lying (original target `fitness-and-stretching/stretching-and-flexibility`) | Cuba Grade 8 G8 Programa, printed p. 24 |
+| Cuba — Unidad Condición Física: flexibilidad — flexibility by active, passive and stretching methods, self-assessed (original target `fitness-and-stretching/stretching-and-flexibility`) | Cuba Grade 11 G11 Programa, printed p. 19 |
+
+Cuba's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Cuba enters this lesson as teacher-guide/programme evidence only, outside the acceptance count. Cuba's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

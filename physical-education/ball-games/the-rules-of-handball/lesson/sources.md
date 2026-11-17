@@ -1,6 +1,6 @@
 # Sources — The Rules of Handball
 
-countries: Ethiopia, Timor-Leste, Pakistan, Nicaragua, Azerbaijan, Mauritius, Iran, North Macedonia, Jordan, Malaysia
+countries: Ethiopia, Timor-Leste, Pakistan, Nicaragua, Azerbaijan, Mauritius, Iran, North Macedonia, Jordan, Malaysia, Cuba
 
 **Book — Grade 9 student:** *Health and Physical Education Student's Textbook Grade 9* (student textbook, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, First Published August 2023, ISBN 978-99990-0-072-7, 156 printed pp. Printed page = PDF page − 10. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g09-student-placements.md. COMPLETE.
 **Book — Grade 9 teacher (teacher guide — evidence):** *Health and Physical Education — Teacher Guide, Grade 9* (teacher guide, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, © 2022, printed pp. I–IX + 1–116. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g09-teacher-placements.md. COMPLETE.
@@ -16,7 +16,7 @@ countries: Ethiopia, Timor-Leste, Pakistan, Nicaragua, Azerbaijan, Mauritius, Ir
 | The goalkeeper, scoring and the throw-in (teacher guide — evidence) | Ethiopia, Grade 10 teacher Unit 7, Handball general rules (teacher guide — evidence) (rules exist for players' safety, the game's integrity and the fairest competition; §7.1.1 the goalkeeper may touch the ball with any part of the body in the act of defending; §7.1.2 scoring — more goals than the opponent, without breaking the rules, each goal confirmed by the referee; §7.1.3 the throw-in — awarded by the referee when a rule is broken / the ball leaves play; apply in small-sided games), printed pp. 77–78 |
 
 | Timor-Leste — Appendix 4: Handball — the game's rules and mini-games (teacher guide — evidence) (original target `ball-games/the-rules-of-handball`) | Timor-Leste, *Educação Física 7, Guia do Professor* (Timor-Leste Grade 7 Teacher Guide), printed pp. 157–230 (Appendix 4) |
-**Acceptance count: taught in 8 countries (Ethiopia, Pakistan, Azerbaijan, Mauritius, Iran, North Macedonia, Jordan, Malaysia).** Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Timor-Leste is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count.
+**Acceptance count: taught in 8 countries (Ethiopia, Pakistan, Azerbaijan, Mauritius, Iran, North Macedonia, Jordan, Malaysia).** Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Timor-Leste is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count.
 
 The Grade 10 teacher guide is substantively complete (printed pp. I–IX + 1–93): all 8 units, knowledge content and answer keys are present; only §8.3's final step-by-step teaching procedure is cut mid-sentence at printed p. 92. Nothing in this lesson rests on the cut tail. Teacher-guide rows are evidence only and never count as pupil-taught.
 
@@ -242,3 +242,67 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/malaysia-pe-
 | Malaysia — Unit 2 Bola Baling — handball taught through attacking and defending strategies and tactics (original target `ball-games/the-rules-of-handball`) | Malaysia Grade 10 PJPK Tingkatan 4, printed p. 44 |
 
 Malaysia's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Malaysia is student-book stock, inside the acceptance count, in this lesson. Malaysia's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Cuba — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/cuba-pe-placements.md. Cuba's books stocked in this lesson are Book 3, Book 4, Book 5, Book 6, Book 7. All of Cuba's books read for this expansion are TEACHER guides/programmes — one national programme per grade from the Ministry of Education (MINED), Tercer Perfeccionamiento series, Editorial Pueblo y Educación, 2024, plus a teacher-only Orientaciones Metodológicas at each grade — so Cuba is filed as teacher-guide/programme evidence only in every lesson it touches: named in the countries line and in the provenance rows, but outside the acceptance count. Book 8 (G11 Orientaciones Metodológicas) is UNREAD — record-only, with 0 placements — and nothing is stocked from it; the one standalone Health chapter found (childhood obesity, Book 2) is filed in cuba-health-placements.md and placed in the Health course, not here. Cuba's own way is content, as the book lines below record it: primary PE is built on basic motor skills, physical condition, rhythmic activities and games; from Grade 5 the year is Condición Física plus a choice of sport units (athletics, basketball, handball, Baseball 5, football, volleyball), and secondary/pre-university adds full baseball and Cuban school aerobic gymnastics with Cuban dance steps; every grade's objectives include knowing the "glorias deportivas" — Cuba's sporting heroes.
+
+**Book — Cuba Grade 5 G5 Programa (teacher guide / programme):**
+## Book 3 — G5 Programa (teacher guide / programme, Spanish)
+- Title as printed: Programa — Educación Física, quinto grado
+- Grade: 5 (student/teacher: TEACHER)
+- Publisher: Ministerio de Educación / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4653-7 (digital version)
+- PDF pages: 32 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 17 placements — 14 to existing lessons, 3 NEW LESSON NEEDED
+- Cuba's own way: Grade 5 starts real sport units, taught through pre-sport games; the teacher chooses three of the five ball sports, and Cuba's own Baseball 5 — playable anywhere with one rubber ball — stands in for full baseball, rooted in the street games pelota a la mano and las cuatro esquinas.
+
+**Book — Cuba Grade 5 G5 Orientaciones Metodológicas (teacher guide):**
+## Book 4 — G5 Orientaciones Metodológicas (teacher guide, Spanish)
+- Title as printed: Orientaciones Metodológicas — Educación Física, quinto grado
+- Grade: 5 (student/teacher: TEACHER)
+- Publisher: Ministerio de Educación / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4686-5 (digital version)
+- PDF pages: 153 (cover/title page verified against the record title; read in place from phase3-staging, on_disk copy)
+- Verdict: COMPLETE
+- Tally: 12 placements — 11 to existing lessons, 1 NEW LESSON NEEDED
+- Cuba's own way: a full worked chapter per sport unit — lesson planning documents, methods for building sport motor skills, and per-unit teaching sequences with common errors.
+
+**Book — Cuba Grade 8 G8 Programa (teacher guide / programme):**
+## Book 5 — G8 Programa (teacher guide / programme, Spanish)
+- Title as printed: Programa — Educación Física, octavo grado
+- Grade: 8 (student/teacher: TEACHER)
+- Publisher: Ministerio de Educación / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4734-3 (digital version)
+- PDF pages: 36 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 19 placements — 16 to existing lessons, 3 NEW LESSON NEEDED
+- Cuba's own way: secondary units are chosen by each school from a fixed national menu according to its facilities; every unit splits into "levelling" (consolidation) plus new skills, and school aerobic gymnastics is built on Cuban dance steps — salsa, conga, pilón, mozambique.
+
+**Book — Cuba Grade 8 G8 Orientaciones Metodológicas (teacher guide):**
+## Book 6 — G8 Orientaciones Metodológicas (teacher guide, Spanish)
+- Title as printed: Orientaciones Metodológicas — Educación Física, octavo grado
+- Grade: 8 (student/teacher: TEACHER)
+- Publisher: Ministerio de Educación / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4753-4 (digital version)
+- PDF pages: 130 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 14 placements — 12 to existing lessons, 2 NEW LESSON NEEDED
+- Cuba's own way: the teacher book gives a full chapter per unit with diagnostic starts, worked exercises and the exact skills to assess at a coarse ("grueso") development level.
+
+**Book — Cuba Grade 11 G11 Programa (teacher guide / programme):**
+## Book 7 — G11 Programa (teacher guide / programme, Spanish)
+- Title as printed: Programa — Educación Física, onceno grado
+- Grade: 11 (student/teacher: TEACHER)
+- Publisher: Ministerio de Educación / Editorial Pueblo y Educación; year 2024; ISBN 978-959-13-4788-6 (digital version)
+- PDF pages: 48 (cover/title page verified against the record title; also re-grabbed via grab.py tree, byte-identical)
+- Verdict: COMPLETE
+- Tally: 25 placements — 20 to existing lessons, 5 NEW LESSON NEEDED
+- Cuba's own way: pre-university PE is self-directed — pupils dose their own effort, keep a control card, self-test with a fitness battery, train autonomously (including fitness modalities such as body pump/body attack) and use ICT to extend their knowledge; content is organised as conceptual, procedural and attitudinal strands in a spiral sequence.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cuba — Unidad Balonmano — basic game rules and the referees' gesture code (original target `ball-games/the-rules-of-handball`) | Cuba Grade 5 G5 Programa, printed p. 14 |
+| Cuba — Unidad Balonmano — basic rules and referee signals taught alongside the techniques (original target `ball-games/the-rules-of-handball`) | Cuba Grade 5 G5 Orientaciones, printed p. 70 |
+| Cuba — Unidad Balonmano — fundamental rules and usual referee signals (original target `ball-games/the-rules-of-handball`) | Cuba Grade 8 G8 Programa, printed p. 18 |
+| Cuba — Unidad Balonmano — fundamental rules and referee signals taught during study games (original target `ball-games/the-rules-of-handball`) | Cuba Grade 8 G8 Orientaciones, printed p. 48 |
+| Cuba — Unidad Balonmano — rules and concepts of the technical-tactical elements (programme's conceptual contents) (original target `ball-games/the-rules-of-handball`) | Cuba Grade 11 G11 Programa, printed p. 27 |
+
+Cuba's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Cuba enters this lesson as teacher-guide/programme evidence only, outside the acceptance count. Cuba's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

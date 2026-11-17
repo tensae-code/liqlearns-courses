@@ -763,6 +763,37 @@ lesson, values work and a closing safety/health unit —
 and the books close with Jordan's own King Abdullah II
 Award for Physical Fitness page.
 
+**PE expansion — Cuba — BUILT 2026-11-16:** 113 placements
+from Cuba's seven read MINED books — the Grade 2, 5, 8
+and 11 Programas and the Grade 2, 5 and 8 Orientaciones
+Metodológicas (Ministerio de Educación / Editorial
+Pueblo y Educación, Tercer Perfeccionamiento, 2024),
+all COMPLETE — stocked: 104 into existing lessons
+(including canonical lessons built earlier in this
+expansion) and 9 as 3 new lessons (Baseball 5;
+Traditional Games of Cuba; Cuba's Sporting Glories) —
+bringing this course to **194 lessons**. All seven read
+books are TEACHER guides/programmes, so Cuba is filed
+as teacher-guide/programme evidence only, outside the
+acceptance counts, in every lesson it touches. Book 8
+(Grade 11 Orientaciones Metodológicas) is UNREAD —
+record-only, with 0 placements, nothing stocked from
+it, as filed. No Cuba placement resolves to a
+Health-course lesson through the PE slug registry, so
+none was excluded as Health-bound; the one standalone
+Health chapter found (childhood obesity, Book 2) is
+filed in cuba-health-placements.md. Cuba's own way is
+content: primary PE is built on basic motor skills,
+physical condition, rhythmic activities and games; from
+Grade 5 the year is Condición Física plus a choice of
+sport units, with Cuba's own Baseball 5 rooted in the
+street games pelota a la mano and las cuatro esquinas;
+secondary/pre-university adds full baseball and Cuban
+school aerobic gymnastics with Cuban dance steps
+(salsa, conga, pilón, mozambique); and every grade's
+objectives include knowing the "glorias deportivas" —
+Cuba's sporting heroes.
+
 ## Unit 1 — Moving Basics
 
 1. **Combined Travelling and On-the-Spot Movements** (`moving-basics/combined-travelling-and-on-the-spot`) — joining travelling movements together, joining on-the-spot movements together, and chaining the two families in one sequence.
@@ -908,6 +939,7 @@ Award for Physical Fitness page.
 32. **Hockey Skills** (`ball-games/hockey-skills`) — hockey skills: dribbling, passing, receiving and shooting with the stick — taught in Malaysia's Grade 9 and Grade 11 PJPK books as hockey passing, receiving, dribbling and shooting (Malaysia's student books).
 33. **Dodgeball** (`ball-games/dodgeball`) — dodgeball: the throwing-and-dodging game's basic skills and how it is played — taught in Malaysia's Grade 9 PJPK Tingkatan 3 book as dodgeball, with the Malaysian Dodgeball Association acknowledged as a source (Malaysia's student book).
 34. **Volleyball Serving** (`ball-games/volleyball-serving`) — volleyball serving: the underhand, overhand and sidearm serves that start the rally — taught in Jordan's Grade 7 Term 2 book as the underhand serve (facing) and in its Grade 9 Term 2 book as the overhand serve (directed) (Jordan's student books).
+35. **Baseball 5** (`ball-games/baseball-5`) — baseball 5: the five-a-side street version of baseball — its fundamentals (defensive stance, grip, throws and receiving, fielding grounders, hitting, running home to first) and how it is played — taught in Cuba's Grade 5 Programa as the Béisbol 5 unit, rooted in the street games pelota a la mano and las cuatro esquinas, with the full teaching treatment in its Grade 5 Orientaciones Metodológicas (Cuba's teacher guides/programmes, evidence only).
 
 
 ## Unit 6 — Games to Play
@@ -990,6 +1022,7 @@ Award for Physical Fitness page.
 45. **Chinlone** (`traditional-games-and-dances/chinlone`) — chinlone and sepak raga: the rattan-ball circle art of Myanmar and Malaysia — keeping the ball up with graded kicks — taught in Malaysia's Grade 7 PJPK Tingkatan 1 book as sepak raga, the traditional Malay rattan-ball circle game (Malaysia's student book).
 46. **Traditional Dances of Malaysia** (`traditional-games-and-dances/traditional-dances-of-malaysia`) — traditional dances of Malaysia: the Joget, Inang, Zapin, Sumazau, Ngajat, Sewang, lion dance, Bhangra and Farapeirra — taught in Malaysia's PJPK Tingkatan 1–5 books as the Malaysian traditional dances of each form (Malaysia's student books).
 47. **Traditional Games of Malaysia** (`traditional-games-and-dances/traditional-games-of-malaysia`) — traditional games of Malaysia: Malaysian traditional games such as Gelap Cerah, Aci Sep, Tiang Empat, Hoki Terbang and Usung Balak — taught in Malaysia's PJPK Tingkatan 2–5 books as Malaysian traditional games (Malaysia's student books).
+48. **Traditional Games of Cuba** (`traditional-games-and-dances/traditional-games-of-cuba`) — traditional games of Cuba: Cuba's rhythmic and traditional games — taught in Cuba's Grade 2 Programa inside the Rhythmic Activities unit as the vehicle for expression and group norms, with named games, organisation and rules in its Grade 2 Orientaciones Metodológicas (Cuba's teacher guides/programmes, evidence only).
 
 ## Unit 8 — Sport and Its Story
 
@@ -1017,3 +1050,4 @@ Award for Physical Fitness page.
 22. **Azerbaijan's Sport Story** (`sport-and-its-story/azerbaijans-sport-story`) — Azerbaijan's sport story: its Olympic successes, its athletes at the Rio Games, and holding the first European Games — taught in Azerbaijan's Grade 8 book as the Olympic successes of Azerbaijani athletes (PARTIAL, contents-level, as filed), its Grade 9 book as Azerbaijan, the country that held the first European Games, and its Grade 10 book as its athletes at the Rio 2016 Olympic Games (Azerbaijan's student books).
 
 23. **Sports Spaces and Equipment** (`sport-and-its-story/sports-spaces-and-equipment`) — sports spaces and equipment: halls, grounds, pools and apparatus — how they are laid out, equipped, used safely and looked after — taught in Fiji's Year 3 Teachers Handbook as the Sports Environment: outdoor, indoor and aquatic environments with safety first, and in its Year 4 Teachers Handbook as natural facilities such as the sea and human-made facilities (Fiji's teacher guides, evidence only).
+24. **Cuba's Sporting Glories** (`sport-and-its-story/cubas-sporting-glories`) — Cuba's sporting glories: the leading figures and heroes of Cuban sport — taught in Cuba's Grade 2, 5, 8 and 11 Programas, where every grade's general objectives include knowing and admiring the "glorias deportivas" of the Cuban Sports Movement, local and national (Cuba's teacher guides/programmes, evidence only).
