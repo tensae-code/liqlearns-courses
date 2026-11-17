@@ -1,6 +1,6 @@
 # Sources — Games for Playing Together
 
-countries: Ethiopia, Mozambique, Namibia, Tajikistan, Timor-Leste, Thailand, El Salvador, Philippines, Nicaragua
+countries: Ethiopia, Mozambique, Namibia, Tajikistan, Timor-Leste, Thailand, El Salvador, Philippines, Nicaragua, Honduras
 
 **Book 1:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–81 + front matter (88 PDF pages). Printed page = PDF page − 7. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md.
 
@@ -51,7 +51,7 @@ countries: Ethiopia, Mozambique, Namibia, Tajikistan, Timor-Leste, Thailand, El 
 | Thailand — Unit 9 (part 1) Miscellaneous games and how to play them together — what เกมเบ็ดเตล็ด (miscellaneous games) are, their benefits, and the rules, regulations and agreements for playing games in a group (student book — MAC sample, PARTIAL) (original target `games-to-play/games-for-playing-together`) | Thailand, *Health & PE, Grade 2* (Thailand Grade 2 MAC Health & PE), Unit 9 (part 1), printed pp. 148–151 |
 | Thailand — Unit 9 (part 2) On-the-spot games — Find the Leader (เกมตามหาผู้นำ), Do As I Say (เกมทำตามฉันบอก), the Robot Game (เกมหุ่นยนต์) and the Clock Hands Game (เกมหมุนเข็มนาฬิกา) (student book — MAC sample, PARTIAL) (original target `games-to-play/games-for-playing-together`) | Thailand, *Health & PE, Grade 2* (Thailand Grade 2 MAC Health & PE), Unit 9 (part 2), printed pp. 151–155 |
 | Thailand — Unit 3, Ch. 2 Games that develop body movement — playing miscellaneous games using directed movement skills (student book — SSR flipbook sample, PARTIAL) (original target `games-to-play/games-for-playing-together`) | Thailand, *Health & PE, Grade 3* (Thailand Grade 3 SSR Health & PE), Unit 3, Ch. 2, printed pp. 57–63 |
-**Acceptance count: taught in 5 countries (Ethiopia, Tajikistan, Timor-Leste, Thailand, Philippines).** Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Namibia is added as teacher-guide evidence only the same way, outside the acceptance count. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Timor-Leste is added as student-book stock (see its row above), inside the acceptance count; its human-football row, filed under the original string `ball-games/human-football` and resolved to this lesson by registry Part 2, rests on the teacher guide and is evidence only. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 6 countries (Ethiopia, Tajikistan, Timor-Leste, Thailand, Philippines, Honduras).** Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Namibia is added as teacher-guide evidence only the same way, outside the acceptance count. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Timor-Leste is added as student-book stock (see its row above), inside the acceptance count; its human-football row, filed under the original string `ball-games/human-football` and resolved to this lesson by registry Part 2, rests on the teacher guide and is evidence only. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
 
 The Grade 1 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -169,5 +169,69 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/nicaragua-pe
 | Nicaragua — Unidad 4, Juegos variados — varied playground games (original target `games-to-play/games-for-playing-together`) | Nicaragua Grade 3 Manual Metodológico, printed p. 100 |
 
 Nicaragua's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Nicaragua's own way is content, as the book lines above record it: PE taught in 45-minute periods twice weekly, every exercise and game introduced by its practical use in daily life, values, hygiene checks and the one-minute "fisminuto" movement break built into the method, chess taught as a PE unit with a cut-out board and pieces the class makes itself, and traditional and pre-sport games played with improvised local materials (rag-ball baseball, street football). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Honduras — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/honduras-pe-placements.md. The Honduras books stocked in this lesson are Book 1, Book 3, Book 4, Book 5. Honduras is student-book stock, inside the acceptance count, in this lesson; the teacher guides stocked here are teacher-guide evidence only, outside the acceptance count. Book R2 in the placements file (LibroEstudiantes8.pdf, a Natural Sciences student book) is RECORD-ONLY — REJECTED for PE, with 0 placements, and nothing is stocked from it. The books are filed exactly as in the placements file — including, for Book 4 and Book 5, that they are not in GitHub and are staged under the push-don't-delete rule, and, for Books 1–3, that they were read via byte-size-identical libroshonduras.com mirrors.
+
+**Book — Honduras Grade 7 (student book):**
+## Book 1 — HN G7 student, Telebásica (student book, Spanish)
+- Title as printed: Libro del Estudiante — Educación Física, 7mo Grado
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Secretaría de Educación de Honduras / TELEBÁSICA (Suyapa TV Educativa); year 2016 (record); author Karen Lizeth Mendoza Lobo; no ISBN printed in the front matter read
+- PDF pages: 130 (cover verified: printed title/grade match the record; mirror file 11,447,197 bytes = the download-list size for this book, and the secured books.json record is the same book)
+- Verdict: COMPLETE
+- Tally: 15 placements — 13 to existing lessons, 2 NEW LESSON NEEDED (counted in the PE file; this book also feeds 3 Health placements in the Health file)
+- Honduras's own way: a television-school (Telebásica) book built in 4 blocks — body image/expression, fitness for health, games and sport initiation, activities in nature — where every block ends in a "Valorando lo que aprendo" self-check sequence (the book's own assessment sequences: named here, not placed, per the assessment exclusion) and Honduran folk dance and traditional games are core content, not extras. Glossary (printed p. 122) is inventory-only, named, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras — Bloque I Secuencia 2 — organised games (juegos organizados): what they are, their principles and their social purpose (original target `games-to-play/games-for-playing-together`) | Honduras Grade 7 HN G7 student, printed p. 33 |
+
+**Book — Honduras Grade 7 (teacher guide):**
+## Book 3 — HN G7 teacher guide, Telebásica (teacher guide, Spanish)
+- Title as printed: Guía del Docente — Educación Física, 7mo Grado
+- Grade: 7 (student/teacher: TEACHER)
+- Publisher: Secretaría de Educación de Honduras / TELEBÁSICA (Suyapa TV Educativa); author Karen Lizeth Mendoza Lobo; year not printed in the front matter read; no ISBN printed
+- PDF pages: 196 (cover verified: printed title/grade match the record; mirror file 34,733,398 bytes = the download-list size for this book, and the secured books.json record is the same book)
+- Verdict: COMPLETE
+- Tally: 23 placements — 20 to existing lessons, 3 NEW LESSON NEEDED (counted in the PE file; this book also feeds 5 Health placements in the Health file)
+- Honduras's own way: the guide walks the same 4 blocks as the student book session by session (45-minute sessions, TV programme per sequence) but adds the coaching depth the student book omits: full technique progressions for football, a fitness-test battery with level tables, circuit-station plans, topographic orientation with map and compass, and camp craft. The guide's own evaluation instruments and answer keys are named here, not placed, per the assessment exclusion. Glossary (printed p. 188) is inventory-only, named, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras — Bloque I Secuencia 2 — what a game is and the operative classification of games (getting-to-know games, affirmation games, big outdoor games…), with named examples: landa, la gallina ciega, la cebollita, capeador, La papa caliente (original target `games-to-play/games-for-playing-together`) | Honduras Grade 7 HN G7 teacher guide, printed p. 36 |
+| Honduras — Bloque III Secuencia 1 — organising a "Campeonato relámpago Intramuros de Fútbol": running a lightning intramural football championship with a big public statistics chart from quarter-finals to final (original target `games-to-play/games-for-playing-together`) | Honduras Grade 7 HN G7 teacher guide, printed p. 127 |
+
+**Book — Honduras Grade 9 (student book):**
+## Book 4 — HN G9 student, Telebásica (student book, Spanish)
+- Title as printed: Libro del Estudiante — Educación Física, 9no Grado (cover banner: "Versión no validada")
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Secretaría de Educación de Honduras / TELEBÁSICA (Suyapa TV Educativa); year not printed in the front matter read; no ISBN printed
+- PDF pages: 153 (cover verified: printed title/grade match the record; file 41,684,926 bytes = the download-list size for this book; obtained by direct download from the record's Drive link — the book is NOT in GitHub, so it is staged under the push-don't-delete rule, see the group log)
+- Verdict: COMPLETE
+- Tally: 29 placements — 25 to existing lessons, 4 NEW LESSON NEEDED (counted in the PE file; this book also feeds 8 Health placements in the Health file)
+- Honduras's own way: the third-cycle finale — gymnastics studied as art (FIG types, a school "Gimnasiada"), a whole sequence on the Garífuna people's dances, athletics taught event by event, the ancient and modern Olympics with the Paralympics, and nature work widened to climbing, canoeing, cycling and yoga. The "Valorando lo que aprendo" sequences again close each block (named, not placed, except where they carry new teaching: the training principles in Bloque II Secuencia 3). Glossary (printed p. 145) is inventory-only, named, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras — Bloque III Secuencia 1 — the school pentathlon: a five-station school version of the modern pentathlon (sprint, squats and push-ups, long jump onto mats…) (original target `games-to-play/games-for-playing-together`) | Honduras Grade 9 HN G9 student, printed p. 113 |
+| Honduras — Bloque III Secuencia 1 — Sports Games Day: organising one-day school championships in football, basketball and volleyball across grades 7–9, Olympic-style (original target `games-to-play/games-for-playing-together`) | Honduras Grade 9 HN G9 student, printed p. 115 |
+
+**Book — Honduras Grade 8 (teacher guide):**
+## Book 5 — HN G8 teacher guide, Telebásica (teacher guide, Spanish)
+- Title as printed: Guía del Docente — Educación Física, 8vo Grado
+- Grade: 8 (student/teacher: TEACHER)
+- Publisher: Secretaría de Educación de Honduras / TELEBÁSICA (Suyapa TV Educativa); author Gabriela Alessandra García Torres; year not printed in the front matter read; no ISBN printed
+- PDF pages: 174 (cover verified: printed title/grade match the record; file 5,876,816 bytes = the download-list size for this book; obtained by direct download from the record's Drive link — the book is NOT in GitHub, so it is staged under the push-don't-delete rule, see the group log)
+- Verdict: COMPLETE
+- Tally: 7 placements — 7 to existing lessons, 0 NEW LESSON NEEDED (counted in the PE file; this book also feeds 1 Health placement in the Health file)
+- Honduras's own way: the guide mirrors the Grade 8 student book session by session and adds correct/incorrect technique tables, an illustrated warm-up chart, the itemised school first-aid kit, and explicit inclusion practice (a student with a disability officiates as judge, referee or scorer). Its block final evaluations and answer keys (pautas) are named here, not placed, per the assessment exclusion. Glossary (printed p. 164) is inventory-only, named, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras — Bloque III Secuencia 1 — including everyone in class sport: a student with a disability takes part as judge, referee, observer or scorer (original target `games-to-play/games-for-playing-together`) | Honduras Grade 8 HN G8 teacher guide, printed p. 122 |
+
+Honduras's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Honduras's own way is content, as the book lines above record it: a television-school (Telebásica) programme built in 4 blocks — body image/expression, fitness for health, games and sport initiation, activities in nature — with Honduran folk dance, traditional games and Garífuna dances as core content, and every block closing in a "Valorando lo que aprendo" self-check sequence (named in the book lines, not placed, per the assessment exclusion). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: games for playing together, handkerchief snatch መሀረብ ንጥቂያ, Akukulu Alnegam አኩኩሉ አልነጋም, three-legged game, Fisherman game ዓሣ አጣማጅ, tug-of-war ገመድ ጉተታ, Ethiopia HPE, Myself and others — the Grade 2 chapter opener (teacher guide — evidence)

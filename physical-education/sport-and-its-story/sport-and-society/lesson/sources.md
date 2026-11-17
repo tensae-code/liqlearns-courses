@@ -1,6 +1,6 @@
 # Sources — Sport and Society — Money, Media, Gender, Technology and Jobs
 
-countries: Ethiopia, Cyprus, Namibia, United Kingdom, Afghanistan
+countries: Ethiopia, Cyprus, Namibia, United Kingdom, Afghanistan, Honduras
 
 **Book 1:** *Grade 8 Health and Physical Education Teacher Guide* (teacher guide, English) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. TRUNCATED — worst-truncated of the series: the file holds printed pp. 3–50 of 104+ (54 PDF pages); printed pp. 51–104+ (Chapters 4–7 entire) are missing. Printed page = PDF page − 4 (contents scheme; the guide prints no folios). Read in full from 100 DPI renders (no text layer), in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g08-teacher-placements.md.
 
@@ -33,7 +33,7 @@ countries: Ethiopia, Cyprus, Namibia, United Kingdom, Afghanistan
 | United Kingdom — Component 2 Topic 3.2: Commercialisation of physical activity and sport — sponsorship, the media and the golden triangle in sport (original target `sport-and-its-story/sport-and-society`) | United Kingdom, *Edexcel GCSE (9-1) Physical Education Student Book, 2nd edition* (United Kingdom GCSE Edexcel PE Student Book), Component 2 Topic 3.2, printed p. 168 |
 | United Kingdom — Component 2 Topic 3.3: Ethical and socio-cultural issues in physical activity and sport — sportsmanship and gamesmanship, performance-enhancing drugs, and spectator behaviour including hooliganism (original target `sport-and-its-story/sport-and-society`) | United Kingdom, *Edexcel GCSE (9-1) Physical Education Student Book, 2nd edition* (United Kingdom GCSE Edexcel PE Student Book), Component 2 Topic 3.3, printed p. 172 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Cyprus, United Kingdom).** Cyprus is added as student-book stock (see its rows above), inside the acceptance count. Namibia is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 2. United Kingdom is added as student-book stock (see its rows above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 4 countries (Ethiopia, Cyprus, United Kingdom, Honduras).** Cyprus is added as student-book stock (see its rows above), inside the acceptance count. Namibia is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 2. United Kingdom is added as student-book stock (see its rows above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count.
 
 The Grade 8 teacher guide is truncated — printed pp. 51–104+ missing — and is used only for its held Chapter 1, labelled (teacher guide — evidence). The Grade 9 guide is complete. The Grade 10 guide is truncated only at its §8.3 tail (p. 92); its Unit 1 material here is complete in the held file. The Grade 10 guide's internal period-count inconsistency for its Unit 2 is not used in this lesson. This lesson carries the [Both] sport-and-society placements whose content is societal knowledge, not movement skill; the Grade 9/10 student books are the English federal 2023 GEQIP-E series and their terms are given as printed.
 
@@ -59,5 +59,25 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/afghanistan-
 | Afghanistan — The sciences that stand with sport: sociology of sport (sport in society) and biomechanics (the study of human movement) as branches of PE knowledge (teacher guide — evidence) (original target `sport-and-its-story/sport-and-society`) | Afghanistan, *Afghanistan G10 PE TG Pashto*, printed p. 35 |
 
 Afghanistan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Afghanistan's own way is content, as the book lines above record it: the Grade 7 year is planned twice over — one annual plan for cold-region schools (year starts in Hamal) and one for warm-region schools (year starts in Sunbula) — with theory taught orally at the start or end of the practical hour, and the practical year resting on fitness, athletics, volleyball and Afghanistan's own traditional games; the Grade 10 lycee year is built on exactly two sports — basketball in the first half-year, tennis in the second — over a base of physical fitness, with the sciences around sport, first aid, sports massage and a full chapter on including disabled children in PE. Both Afghanistan books are teacher guides, filed as evidence only, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Honduras — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/honduras-pe-placements.md. The Honduras books stocked in this lesson are Book 2. Honduras is student-book stock, inside the acceptance count, in this lesson. Book R2 in the placements file (LibroEstudiantes8.pdf, a Natural Sciences student book) is RECORD-ONLY — REJECTED for PE, with 0 placements, and nothing is stocked from it. The books are filed exactly as in the placements file — including, for Book 4 and Book 5, that they are not in GitHub and are staged under the push-don't-delete rule, and, for Books 1–3, that they were read via byte-size-identical libroshonduras.com mirrors.
+
+**Book — Honduras Grade 8 (student book):**
+## Book 2 — HN G8 student, Telebásica (student book, Spanish)
+- Title as printed: Libro del Estudiante — Educación Física, 8vo Grado
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Secretaría de Educación de Honduras / TELEBÁSICA (Suyapa TV Educativa); author Gabriela Alessandra García Torres; year not printed in the front matter read; no ISBN printed
+- PDF pages: 146 (cover verified: printed title/grade match the record; mirror file 11,763,489 bytes = the download-list size for this book, and the secured books.json record is the same book)
+- Verdict: COMPLETE
+- Tally: 19 placements — 16 to existing lessons, 3 NEW LESSON NEEDED (counted in the PE file; this book also feeds 7 Health placements in the Health file)
+- Honduras's own way: same 4-block Telebásica architecture as Grade 7, deepened — coordinative capacities split simple/complex, a full basketball initiation (history, rules, technique, class tournament), first aid taught as a named sequence ("Ayuda a los demás"), and nature work ending in survival skills; each block again closes with a "Valorando lo que aprendo" self-check sequence (the book's own assessment sequences: named here, not placed, except where a "Valorando" sequence itself carries new teaching, as in Bloque IV Secuencia 2). Glossary (printed p. 136) is inventory-only, named, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras — Bloque III Secuencia 1 — sport as a sociocultural phenomenon; school sport, its objectives and its social and personal values (original target `sport-and-its-story/sport-and-society`) | Honduras Grade 8 HN G8 student, printed p. 90 |
+
+Honduras's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Honduras's own way is content, as the book lines above record it: a television-school (Telebásica) programme built in 4 blocks — body image/expression, fitness for health, games and sport initiation, activities in nature — with Honduran folk dance, traditional games and Garífuna dances as core content, and every block closing in a "Valorando lo que aprendo" self-check sequence (named in the book lines, not placed, per the assessment exclusion). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: sport and society, sport and economy, VAR, Article 35(1), sports diplomacy, Sport for all, PE professions, sedentary life, Ethiopia HPE Grades 8–10

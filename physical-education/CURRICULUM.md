@@ -443,6 +443,47 @@ PE is organised as Training, Work, Sports and Dance for
 every grade, with "Work" treating sweeping, mopping,
 chopping and washing as real physical training.
 
+**PE expansion — Honduras — BUILT 2026-11-16:** 93 placements
+from Honduras's Telebásica Educación Física books —
+Grades 7, 8 and 9 student books and Grades 7 and 8
+teacher guides (Secretaría de Educación de Honduras /
+TELEBÁSICA, all COMPLETE) stocked — 86 into existing
+lessons (including Orienteering and Hiking, built
+earlier in this expansion) and 7 as 3 new lessons
+(Camping and Survival Outdoors; Yoga Poses and
+Breathing; Traditional Dances of Honduras) — bringing
+this course to **144 lessons**. The student books are
+student-book stock, inside the acceptance counts; the
+teacher guides are teacher-guide evidence only, outside
+the acceptance counts, in every lesson they touch. The
+placements filed under NEW strings resolve through the
+slug registry: `moving-basics/orienteering-and-hiking-outdoors`
+to `athletics/orienteering-and-hiking`,
+`moving-basics/survival-and-shelter-outdoors` to
+`moving-basics/camping-and-survival-outdoors`,
+`moving-basics/yoga-outdoors` to
+`gymnastics/yoga-poses-and-breathing`, and
+`traditional-games-and-dances/honduran-folk-dances-xique-and-guapango`,
+`traditional-games-and-dances/honduran-folk-dance-steps-xique-polca-vals`
+and `traditional-games-and-dances/garifuna-dances-punta-and-parranda`
+to `traditional-games-and-dances/traditional-dances-of-honduras`;
+the original strings are recorded in the provenance
+rows. No Honduras placement resolves to a Health-course
+lesson, so none was excluded as Health-bound; the books'
+Health parts are filed in honduras-health-placements.md
+and placed in the Health course. Book R2 in the
+placements file (LibroEstudiantes8.pdf, a Natural
+Sciences book) is RECORD-ONLY — REJECTED for PE, 0
+placements, nothing stocked from it. The Grade 9 student
+book and the Grade 8 teacher guide are not in GitHub and
+are staged under the push-don't-delete rule, as filed.
+Honduras's own way is content: a television-school
+(Telebásica) programme built in 4 blocks — body
+image/expression, fitness for health, games and sport
+initiation, activities in nature — with Honduran folk
+dance, traditional games and Garífuna dances as core
+content.
+
 ## Unit 1 — Moving Basics
 
 1. **Combined Travelling and On-the-Spot Movements** (`moving-basics/combined-travelling-and-on-the-spot`) — joining travelling movements together, joining on-the-spot movements together, and chaining the two families in one sequence.
@@ -463,6 +504,8 @@ chopping and washing as real physical training.
 16. **Movement Concepts** (`moving-basics/movement-concepts`) — movement concepts: body, space, effort (time, force and flow) and relationships in movement — taught in the Philippines' Grade 3 book as the movement targets of Ball Rhythmics (time, force and flow named and graded) and in its Grade 2 book as Oras, Lakas at Daloy, read from a 400-metre race story and the sack race (Philippines' student books).
 
 17. **Skipping, Galloping and Leaping** (`moving-basics/skipping-galloping-and-leaping`) — skipping, galloping and leaping: the travelling steps that carry you across the ground — taught in Belize's Lower Division curriculum as skipping (step-hops on alternate feet), galloping (one foot leads, the other brought rapidly up to it) and leaping (a slight jump with a long step forward and a forward lean), spiralled across Grades 1–3 (Belize's teacher curriculum, evidence only).
+
+18. **Camping and Survival Outdoors** (`moving-basics/camping-and-survival-outdoors`) — camping and survival outdoors: camps, shelters, fire, camp equipment, outdoor trips and caring for nature while you are out — taught in Honduras's Grade 8 student book as survival in the natural environment: the survival kit, choosing a safe camp site, improvised shelters (lean-to, fallen tree, A-frame), bedding, and making and keeping a fire, and in its Grade 7 teacher guide as camp craft: knots and lashings, a sketch map (croquis) and campfires (Honduras's Grade 8 student book; its Grade 7 teacher guide, evidence only).
 
 ## Unit 2 — Fitness and Stretching
 
@@ -497,6 +540,8 @@ chopping and washing as real physical training.
 7. **Expressing with the Body** (`gymnastics/expressing-with-the-body`) — expressing with the body: communicating feelings and ideas through body, face and mime, and dramatising situations — taught in El Salvador's Grades 1–3 guide as Me comunico con mi cuerpo (Grade 1: gestures and movement representing animals, natural things and feelings), Mi cuerpo se comunica (Grade 2: body language in everyday communication) and Comunicación con todo mi cuerpo (Grade 3: gesture and movement with verbal expression) (El Salvador's teacher guide, evidence only).
 
 8. **Acrobatics** (`gymnastics/acrobatics`) — acrobatics: acrobatic elements and partner work on the floor — taught in Azerbaijan's Grade 7 book as acrobatics (boys), inside its gymnastics part (Azerbaijan's student book).
+
+9. **Yoga Poses and Breathing** (`gymnastics/yoga-poses-and-breathing`) — yoga poses and breathing: the asanas, the sun salutation, and breathing exercises (pranayama) for flexibility and calm — taught in Honduras's Grade 9 student book as yoga in nature: postures named after animals and natural things (Mountain, Tree, Dog, Cat, Cow, Fish) and the Sun Salutation (Saludo al Sol) practised outdoors (Honduras's student book).
 
 ## Unit 4 — Athletics
 
@@ -588,6 +633,7 @@ chopping and washing as real physical training.
 35. **Traditional Games of the Philippines** (`traditional-games-and-dances/traditional-games-of-the-philippines`) — Filipino games such as Tumbang Preso and the Kadang-kadang stilt race — taught in the Philippines' Grade 3 book as Tumbang Preso, knocking down the can and racing for your slipper, and in its Grade 2 Waray book as the Kadang-kadang coconut-shell stilt relay (Philippines' student books).
 
 36. **Traditional Games of Nicaragua** (`traditional-games-and-dances/traditional-games-of-nicaragua`) — Nicaragua's traditional games and rounds (rondas), with their rules: El Pañuelo/la pañoleta, Macho parado, Bola peleada, Salto la cuerda, Encostalados (sack race) and Quita y ponga (Grade 2), the rondas (Grade 3), classified strength and throwing games with stilt races and the ribbon race (Grade 5), and El Bolero, the wooden cup-and-ball toy (Grade 6) (Nicaragua's Grade 5 student book; its Grades 2, 3 and 6 teacher guides, evidence only).
+37. **Traditional Dances of Honduras** (`traditional-games-and-dances/traditional-dances-of-honduras`) — Honduran folk dance — the Xique base step and its step families (punteado, rascado, zapateado, cruzado), polcas and valses, the Guapango del Río, the official classification of Honduran folk dances, and the Garífuna dances Punta and Parranda (Honduras's Grades 7, 8 and 9 student books; its Grade 7 teacher guide, evidence only).
 ## Unit 8 — Sport and Its Story
 
 1. **Athletes Beyond Sport — What Champions Give Back** (`sport-and-its-story/athletes-beyond-sport`) — what famous athletes do beyond racing: the jobs, businesses, hospitals, training centres and public work the books record for Abebe Bikila, Tirunes…

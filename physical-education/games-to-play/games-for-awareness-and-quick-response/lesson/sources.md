@@ -1,6 +1,6 @@
 # Sources — Games for Awareness and Quick Response
 
-countries: Ethiopia, Mozambique, Kazakhstan, Thailand, Philippines, Nicaragua
+countries: Ethiopia, Mozambique, Kazakhstan, Thailand, Philippines, Nicaragua, Honduras
 
 **Book 1:** *Grade 3 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–65 + front matter (72 PDF pages). Printed page = PDF page − 7. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g03-student-placements.md.
 
@@ -44,7 +44,7 @@ countries: Ethiopia, Mozambique, Kazakhstan, Thailand, Philippines, Nicaragua
 
 | Kazakhstan — Quarter 3 — games and relays that develop speed and strength qualities (игры на развитие быстроты, силы), and relay games with balls (teacher guide — evidence) (original target `games-to-play/games-for-awareness-and-quick-response`) | Kazakhstan, *Physical Culture, Methodological Guide for Grade 4 Teachers* (Kazakhstan Grade 4 TG), printed p. 6 (PDF p. 6) |
 | Thailand — Unit 9 (part 3) Travelling chase games — the Witch Hunts the Children (เกมแม่มดตามหาเด็ก), the Cat Pounces on the Bird (เกมแมวตะครุบนก), Step-Close Find a Partner (เกมก้าวชิดก้าวหาคู่) and the Horse into the Stable (เกมม้าเข้าคอก) (student book — MAC sample, PARTIAL) (original target `games-to-play/games-for-awareness-and-quick-response`) | Thailand, *Health & PE, Grade 2* (Thailand Grade 2 MAC Health & PE), Unit 9 (part 3), printed pp. 156–160 |
-**Acceptance count: taught in 3 countries (Ethiopia, Thailand, Philippines).** Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 4 countries (Ethiopia, Thailand, Philippines, Honduras).** Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
 
 The Grade 3 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -119,5 +119,54 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/nicaragua-pe
 | Nicaragua — Unidad IV, Juegos Sensoriales — sensory games played blindfolded/by sound and touch: El indio quieto, Gallinita ciega, ¿Quién soy?, El tilín, ¿Qué toco?, El zorro y la gallina (original target `games-to-play/games-for-awareness-and-quick-response`) | Nicaragua Grade 2 Manual Metodológico, printed p. 70 |
 
 Nicaragua's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Nicaragua's own way is content, as the book lines above record it: PE taught in 45-minute periods twice weekly, every exercise and game introduced by its practical use in daily life, values, hygiene checks and the one-minute "fisminuto" movement break built into the method, chess taught as a PE unit with a cut-out board and pieces the class makes itself, and traditional and pre-sport games played with improvised local materials (rag-ball baseball, street football). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Honduras — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/honduras-pe-placements.md. The Honduras books stocked in this lesson are Book 1, Book 3, Book 4. Honduras is student-book stock, inside the acceptance count, in this lesson; the teacher guides stocked here are teacher-guide evidence only, outside the acceptance count. Book R2 in the placements file (LibroEstudiantes8.pdf, a Natural Sciences student book) is RECORD-ONLY — REJECTED for PE, with 0 placements, and nothing is stocked from it. The books are filed exactly as in the placements file — including, for Book 4 and Book 5, that they are not in GitHub and are staged under the push-don't-delete rule, and, for Books 1–3, that they were read via byte-size-identical libroshonduras.com mirrors.
+
+**Book — Honduras Grade 7 (student book):**
+## Book 1 — HN G7 student, Telebásica (student book, Spanish)
+- Title as printed: Libro del Estudiante — Educación Física, 7mo Grado
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Secretaría de Educación de Honduras / TELEBÁSICA (Suyapa TV Educativa); year 2016 (record); author Karen Lizeth Mendoza Lobo; no ISBN printed in the front matter read
+- PDF pages: 130 (cover verified: printed title/grade match the record; mirror file 11,447,197 bytes = the download-list size for this book, and the secured books.json record is the same book)
+- Verdict: COMPLETE
+- Tally: 15 placements — 13 to existing lessons, 2 NEW LESSON NEEDED (counted in the PE file; this book also feeds 3 Health placements in the Health file)
+- Honduras's own way: a television-school (Telebásica) book built in 4 blocks — body image/expression, fitness for health, games and sport initiation, activities in nature — where every block ends in a "Valorando lo que aprendo" self-check sequence (the book's own assessment sequences: named here, not placed, per the assessment exclusion) and Honduran folk dance and traditional games are core content, not extras. Glossary (printed p. 122) is inventory-only, named, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras — Bloque I Secuencia 1 — reaction and chase games (e.g. "landa") as training for quick response (original target `games-to-play/games-for-awareness-and-quick-response`) | Honduras Grade 7 HN G7 student, printed p. 29 |
+
+**Book — Honduras Grade 7 (teacher guide):**
+## Book 3 — HN G7 teacher guide, Telebásica (teacher guide, Spanish)
+- Title as printed: Guía del Docente — Educación Física, 7mo Grado
+- Grade: 7 (student/teacher: TEACHER)
+- Publisher: Secretaría de Educación de Honduras / TELEBÁSICA (Suyapa TV Educativa); author Karen Lizeth Mendoza Lobo; year not printed in the front matter read; no ISBN printed
+- PDF pages: 196 (cover verified: printed title/grade match the record; mirror file 34,733,398 bytes = the download-list size for this book, and the secured books.json record is the same book)
+- Verdict: COMPLETE
+- Tally: 23 placements — 20 to existing lessons, 3 NEW LESSON NEEDED (counted in the PE file; this book also feeds 5 Health placements in the Health file)
+- Honduras's own way: the guide walks the same 4 blocks as the student book session by session (45-minute sessions, TV programme per sequence) but adds the coaching depth the student book omits: full technique progressions for football, a fitness-test battery with level tables, circuit-station plans, topographic orientation with map and compass, and camp craft. The guide's own evaluation instruments and answer keys are named here, not placed, per the assessment exclusion. Glossary (printed p. 188) is inventory-only, named, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras — Bloque I Secuencia 1 — class games: "Capeador" (dodge game with throwers on both sides) and "Carrera de canguros" (kangaroo race jumping with a ball held between the knees) (original target `games-to-play/games-for-awareness-and-quick-response`) | Honduras Grade 7 HN G7 teacher guide, printed p. 28 |
+| Honduras — Bloque I Secuencia 2 — reaction and speed games with full rules: El círculo loco (the crazy circle) and El pañuelo (the handkerchief) (original target `games-to-play/games-for-awareness-and-quick-response`) | Honduras Grade 7 HN G7 teacher guide, printed p. 41 |
+
+**Book — Honduras Grade 9 (student book):**
+## Book 4 — HN G9 student, Telebásica (student book, Spanish)
+- Title as printed: Libro del Estudiante — Educación Física, 9no Grado (cover banner: "Versión no validada")
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Secretaría de Educación de Honduras / TELEBÁSICA (Suyapa TV Educativa); year not printed in the front matter read; no ISBN printed
+- PDF pages: 153 (cover verified: printed title/grade match the record; file 41,684,926 bytes = the download-list size for this book; obtained by direct download from the record's Drive link — the book is NOT in GitHub, so it is staged under the push-don't-delete rule, see the group log)
+- Verdict: COMPLETE
+- Tally: 29 placements — 25 to existing lessons, 4 NEW LESSON NEEDED (counted in the PE file; this book also feeds 8 Health placements in the Health file)
+- Honduras's own way: the third-cycle finale — gymnastics studied as art (FIG types, a school "Gimnasiada"), a whole sequence on the Garífuna people's dances, athletics taught event by event, the ancient and modern Olympics with the Paralympics, and nature work widened to climbing, canoeing, cycling and yoga. The "Valorando lo que aprendo" sequences again close each block (named, not placed, except where they carry new teaching: the training principles in Bloque II Secuencia 3). Glossary (printed p. 145) is inventory-only, named, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras — Bloque IV Secuencia 1 — running-and-throwing game: pairs run a straight course throwing and catching a frisbee one-handed without stopping, losing points for drops (original target `games-to-play/games-for-awareness-and-quick-response`) | Honduras Grade 9 HN G9 student, printed p. 140 |
+
+Honduras's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Honduras's own way is content, as the book lines above record it: a television-school (Telebásica) programme built in 4 blocks — body image/expression, fitness for health, games and sport initiation, activities in nature — with Honduran folk dance, traditional games and Garífuna dances as core content, and every block closing in a "Valorando lo que aprendo" self-check sequence (named in the book lines, not placed, per the assessment exclusion). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: games for awareness, ንቃተ ህሊና, Thief and Police ሌባና ፖሊስ, blindfold ball finding, attention games ትኩረት, number game, Ethiopia HPE, Ball in the Air ኳስ በአየር, Five Rounds አምስት ዙር, number command የቁጥር ትዕዛዝ, traffic-light game, called stations, mindfulness, attention control, Ethiopia HPE Grades 5–7

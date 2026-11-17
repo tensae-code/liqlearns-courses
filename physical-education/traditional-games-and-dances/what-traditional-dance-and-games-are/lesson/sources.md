@@ -1,6 +1,6 @@
 # Sources — What Traditional Dance and Games Are
 
-countries: Ethiopia, Mozambique, Nicaragua
+countries: Ethiopia, Mozambique, Nicaragua, Honduras
 
 **Book 1:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–106 + front matter (114 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md.
 
@@ -18,7 +18,7 @@ countries: Ethiopia, Mozambique, Nicaragua
 | Prove-it questions folded from the book's own chapter summary exercises — Sub lesson 2 | Ethiopia, *Grade 7 Student Textbook*, chapter summary exercises, printed p. 95 |
 | Mozambique — 1.ª parte, Jogos tradicionais — what makes a game traditional: known rules and limits handed down from generation to generation (teacher guide — evidence) (original target `traditional-games-and-dances/what-traditional-dance-and-games-are`) | Mozambique, *Grade 1 Teacher Manual (Educação Física)*, 1.ª parte, Jogos tradicionais, printed p. 197 |
 
-**Acceptance count: taught in 1 country (Ethiopia).** Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 2 countries (Ethiopia, Honduras).** Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
 
 The Grade 5 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -47,3 +47,79 @@ Nicaragua's placements in this lesson were filed under the original strings reco
 Searchable tags: what traditional dance is, what traditional games are, culture identity, Ethiopian Cultural Sport Federation, Korbo ቆርቦ, Gena የገና, Gebeta የገበጣ, Bub የቡብ, horse racing የፈረስ ሸርጥ, Ethiopia HPE Grades 5–7
 
 Citation correction (2026-11-12, HPE-FIX-4): Sub lesson 1's dance definition was previously credited to a "Grade 7 Student Textbook, §7.1 item 48, printed p. 84" — no such item exists in the Grade 7 book. Item 48 at printed p. 84 is the Grade 6 Student Textbook's "Ethiopian Traditional Dance" placement; the row now cites the Grade 6 book, and the Grade 6 student book has been added to the book list above (Book 2).
+
+## Honduras — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/honduras-pe-placements.md. The Honduras books stocked in this lesson are Book 1, Book 2, Book 3, Book 4, Book 5. Honduras is student-book stock, inside the acceptance count, in this lesson; the teacher guides stocked here are teacher-guide evidence only, outside the acceptance count. Book R2 in the placements file (LibroEstudiantes8.pdf, a Natural Sciences student book) is RECORD-ONLY — REJECTED for PE, with 0 placements, and nothing is stocked from it. The books are filed exactly as in the placements file — including, for Book 4 and Book 5, that they are not in GitHub and are staged under the push-don't-delete rule, and, for Books 1–3, that they were read via byte-size-identical libroshonduras.com mirrors.
+
+**Book — Honduras Grade 7 (student book):**
+## Book 1 — HN G7 student, Telebásica (student book, Spanish)
+- Title as printed: Libro del Estudiante — Educación Física, 7mo Grado
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Secretaría de Educación de Honduras / TELEBÁSICA (Suyapa TV Educativa); year 2016 (record); author Karen Lizeth Mendoza Lobo; no ISBN printed in the front matter read
+- PDF pages: 130 (cover verified: printed title/grade match the record; mirror file 11,447,197 bytes = the download-list size for this book, and the secured books.json record is the same book)
+- Verdict: COMPLETE
+- Tally: 15 placements — 13 to existing lessons, 2 NEW LESSON NEEDED (counted in the PE file; this book also feeds 3 Health placements in the Health file)
+- Honduras's own way: a television-school (Telebásica) book built in 4 blocks — body image/expression, fitness for health, games and sport initiation, activities in nature — where every block ends in a "Valorando lo que aprendo" self-check sequence (the book's own assessment sequences: named here, not placed, per the assessment exclusion) and Honduran folk dance and traditional games are core content, not extras. Glossary (printed p. 122) is inventory-only, named, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras — Bloque I Secuencia 3 — what folklore and folk dance are (original target `traditional-games-and-dances/what-traditional-dance-and-games-are`) | Honduras Grade 7 HN G7 student, printed p. 39 |
+
+**Book — Honduras Grade 8 (student book):**
+## Book 2 — HN G8 student, Telebásica (student book, Spanish)
+- Title as printed: Libro del Estudiante — Educación Física, 8vo Grado
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Secretaría de Educación de Honduras / TELEBÁSICA (Suyapa TV Educativa); author Gabriela Alessandra García Torres; year not printed in the front matter read; no ISBN printed
+- PDF pages: 146 (cover verified: printed title/grade match the record; mirror file 11,763,489 bytes = the download-list size for this book, and the secured books.json record is the same book)
+- Verdict: COMPLETE
+- Tally: 19 placements — 16 to existing lessons, 3 NEW LESSON NEEDED (counted in the PE file; this book also feeds 7 Health placements in the Health file)
+- Honduras's own way: same 4-block Telebásica architecture as Grade 7, deepened — coordinative capacities split simple/complex, a full basketball initiation (history, rules, technique, class tournament), first aid taught as a named sequence ("Ayuda a los demás"), and nature work ending in survival skills; each block again closes with a "Valorando lo que aprendo" self-check sequence (the book's own assessment sequences: named here, not placed, except where a "Valorando" sequence itself carries new teaching, as in Bloque IV Secuencia 2). Glossary (printed p. 136) is inventory-only, named, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras — Bloque I Secuencia 3 "Mi danza es la mejor" — what dance and folk dance are; dance, culture and Honduran national identity (original target `traditional-games-and-dances/what-traditional-dance-and-games-are`) | Honduras Grade 8 HN G8 student, printed p. 41 |
+
+**Book — Honduras Grade 7 (teacher guide):**
+## Book 3 — HN G7 teacher guide, Telebásica (teacher guide, Spanish)
+- Title as printed: Guía del Docente — Educación Física, 7mo Grado
+- Grade: 7 (student/teacher: TEACHER)
+- Publisher: Secretaría de Educación de Honduras / TELEBÁSICA (Suyapa TV Educativa); author Karen Lizeth Mendoza Lobo; year not printed in the front matter read; no ISBN printed
+- PDF pages: 196 (cover verified: printed title/grade match the record; mirror file 34,733,398 bytes = the download-list size for this book, and the secured books.json record is the same book)
+- Verdict: COMPLETE
+- Tally: 23 placements — 20 to existing lessons, 3 NEW LESSON NEEDED (counted in the PE file; this book also feeds 5 Health placements in the Health file)
+- Honduras's own way: the guide walks the same 4 blocks as the student book session by session (45-minute sessions, TV programme per sequence) but adds the coaching depth the student book omits: full technique progressions for football, a fitness-test battery with level tables, circuit-station plans, topographic orientation with map and compass, and camp craft. The guide's own evaluation instruments and answer keys are named here, not placed, per the assessment exclusion. Glossary (printed p. 188) is inventory-only, named, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras — Bloque III Secuencia 1 — popular games vs traditional games: a popular game is rooted in a society and its festivals; a traditional game is handed down across generations from very old times (original target `traditional-games-and-dances/what-traditional-dance-and-games-are`) | Honduras Grade 7 HN G7 teacher guide, printed p. 128 |
+
+**Book — Honduras Grade 9 (student book):**
+## Book 4 — HN G9 student, Telebásica (student book, Spanish)
+- Title as printed: Libro del Estudiante — Educación Física, 9no Grado (cover banner: "Versión no validada")
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Secretaría de Educación de Honduras / TELEBÁSICA (Suyapa TV Educativa); year not printed in the front matter read; no ISBN printed
+- PDF pages: 153 (cover verified: printed title/grade match the record; file 41,684,926 bytes = the download-list size for this book; obtained by direct download from the record's Drive link — the book is NOT in GitHub, so it is staged under the push-don't-delete rule, see the group log)
+- Verdict: COMPLETE
+- Tally: 29 placements — 25 to existing lessons, 4 NEW LESSON NEEDED (counted in the PE file; this book also feeds 8 Health placements in the Health file)
+- Honduras's own way: the third-cycle finale — gymnastics studied as art (FIG types, a school "Gimnasiada"), a whole sequence on the Garífuna people's dances, athletics taught event by event, the ancient and modern Olympics with the Paralympics, and nature work widened to climbing, canoeing, cycling and yoga. The "Valorando lo que aprendo" sequences again close each block (named, not placed, except where they carry new teaching: the training principles in Bloque II Secuencia 3). Glossary (printed p. 145) is inventory-only, named, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras — Bloque I Secuencia 2 "Un pueblo que danza al son de sus creencias y tradiciones" — the Garífuna people of Honduras's Caribbean coast and their cultural identity carried in music and dance (original target `traditional-games-and-dances/what-traditional-dance-and-games-are`) | Honduras Grade 9 HN G9 student, printed p. 37 |
+
+**Book — Honduras Grade 8 (teacher guide):**
+## Book 5 — HN G8 teacher guide, Telebásica (teacher guide, Spanish)
+- Title as printed: Guía del Docente — Educación Física, 8vo Grado
+- Grade: 8 (student/teacher: TEACHER)
+- Publisher: Secretaría de Educación de Honduras / TELEBÁSICA (Suyapa TV Educativa); author Gabriela Alessandra García Torres; year not printed in the front matter read; no ISBN printed
+- PDF pages: 174 (cover verified: printed title/grade match the record; file 5,876,816 bytes = the download-list size for this book; obtained by direct download from the record's Drive link — the book is NOT in GitHub, so it is staged under the push-don't-delete rule, see the group log)
+- Verdict: COMPLETE
+- Tally: 7 placements — 7 to existing lessons, 0 NEW LESSON NEEDED (counted in the PE file; this book also feeds 1 Health placement in the Health file)
+- Honduras's own way: the guide mirrors the Grade 8 student book session by session and adds correct/incorrect technique tables, an illustrated warm-up chart, the itemised school first-aid kit, and explicit inclusion practice (a student with a disability officiates as judge, referee or scorer). Its block final evaluations and answer keys (pautas) are named here, not placed, per the assessment exclusion. Glossary (printed p. 164) is inventory-only, named, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras — Bloque I Secuencia 3 (material adicional) — the elements of a folk-dance performance: initial position (body upright, feet slightly apart), how the couples are placed, costume and music (original target `traditional-games-and-dances/what-traditional-dance-and-games-are`) | Honduras Grade 8 HN G8 teacher guide, printed p. 53 |
+
+Honduras's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Honduras's own way is content, as the book lines above record it: a television-school (Telebásica) programme built in 4 blocks — body image/expression, fitness for health, games and sport initiation, activities in nature — with Honduran folk dance, traditional games and Garífuna dances as core content, and every block closing in a "Valorando lo que aprendo" self-check sequence (named in the book lines, not placed, per the assessment exclusion). Game and sport rules are taught only as the placements summarise them; no rules have been invented.

@@ -1,6 +1,6 @@
 # Sources — How Training Works
 
-countries: Ethiopia, Namibia, Turkmenistan, Samoa, Timor-Leste, United Kingdom, Thailand, China, El Salvador, Philippines, Nicaragua, Azerbaijan, Maldives
+countries: Ethiopia, Namibia, Turkmenistan, Samoa, Timor-Leste, United Kingdom, Thailand, China, El Salvador, Philippines, Nicaragua, Azerbaijan, Maldives, Honduras
 
 **Book — Grade 8 student:** *Grade 8 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 98 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g08-student-placements.md. COMPLETE.
 **Book — Grade 9 student:** *Health and Physical Education Student's Textbook Grade 9* (student textbook, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, First Published August 2023, ISBN 978-99990-0-072-7, 156 printed pp. Printed page = PDF page − 10. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g09-student-placements.md. COMPLETE.
@@ -43,7 +43,7 @@ countries: Ethiopia, Namibia, Turkmenistan, Samoa, Timor-Leste, United Kingdom, 
 | United Kingdom — Component 1 Topic 3.4: The long-term effects of exercise — lasting adaptations of the body systems to training (original target `fitness-and-stretching/how-training-works`) | United Kingdom, *Edexcel GCSE (9-1) Physical Education Student Book, 2nd edition* (United Kingdom GCSE Edexcel PE Student Book), Component 1 Topic 3.4, printed p. 97 |
 | United Kingdom — Component 4: Personal Exercise Programme (PEP) — planning, carrying out, monitoring and evaluating a six-week personal training programme (original target `fitness-and-stretching/how-training-works`) | United Kingdom, *Edexcel GCSE (9-1) Physical Education Student Book, 2nd edition* (United Kingdom GCSE Edexcel PE Student Book), Component 4, printed p. 196 |
 | Thailand — Unit 3, Ch. 3 Developing physical fitness — testing your physical fitness and improving it according to your test results (student book — SSR flipbook sample, PARTIAL) (original target `fitness-and-stretching/how-training-works`) | Thailand, *Health & PE, Grade 5* (Thailand Grade 5 SSR Health & PE), Unit 3, Ch. 3, printed p. 78 |
-**Acceptance count: taught in 9 countries (Ethiopia, Turkmenistan, Timor-Leste, United Kingdom, Thailand, China, Philippines, Nicaragua, Azerbaijan).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Namibia is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Turkmenistan is added as student-book stock (see its row above), inside the acceptance count. Samoa is added as curriculum-statement and teacher-guide evidence only (see its rows above), named in the countries line but outside the acceptance count. Timor-Leste is added as student-book stock (see its row above), inside the acceptance count. United Kingdom is added as student-book stock (see its rows above), inside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 10 countries (Ethiopia, Turkmenistan, Timor-Leste, United Kingdom, Thailand, China, Philippines, Nicaragua, Azerbaijan, Honduras).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Namibia is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Turkmenistan is added as student-book stock (see its row above), inside the acceptance count. Samoa is added as curriculum-statement and teacher-guide evidence only (see its rows above), named in the countries line but outside the acceptance count. Timor-Leste is added as student-book stock (see its row above), inside the acceptance count. United Kingdom is added as student-book stock (see its rows above), inside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
 
 The Grade 9 books are the English federal 2023 GEQIP-E series (the Grades 1–8 books are Amharic-medium); Grade 9–10 target terms are given as the books print them, in English. The Grade 9 teacher guide is COMPLETE.
 
@@ -275,5 +275,69 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-pe-
 | Maldives — Unit IV, Lesson 11: Health- and Skill-Related Fitness — devising ways to enhance health-related fitness and assessing personal level over time (original target `fitness-and-stretching/how-training-works`) | Maldives, *Exploring H&PE 8 TG*, printed pp. 196–217 |
 
 Maldives's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Maldives's own way is content, as the book lines above record it: one combined Health & PE course per grade built on the national syllabus strands, with swimming and water survival built in from Grade 1 — an island nation's syllabus — the PE side moving from a fitness unit in the early grades through fundamental movement skills, educational gymnastics and timed survival swimming, to movement skills, athletics and the big game families (territorial, net/wall and striking-and-fielding) in Key Stage 3. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Honduras — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/honduras-pe-placements.md. The Honduras books stocked in this lesson are Book 1, Book 2, Book 3, Book 4. Honduras is student-book stock, inside the acceptance count, in this lesson; the teacher guides stocked here are teacher-guide evidence only, outside the acceptance count. Book R2 in the placements file (LibroEstudiantes8.pdf, a Natural Sciences student book) is RECORD-ONLY — REJECTED for PE, with 0 placements, and nothing is stocked from it. The books are filed exactly as in the placements file — including, for Book 4 and Book 5, that they are not in GitHub and are staged under the push-don't-delete rule, and, for Books 1–3, that they were read via byte-size-identical libroshonduras.com mirrors.
+
+**Book — Honduras Grade 7 (student book):**
+## Book 1 — HN G7 student, Telebásica (student book, Spanish)
+- Title as printed: Libro del Estudiante — Educación Física, 7mo Grado
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Secretaría de Educación de Honduras / TELEBÁSICA (Suyapa TV Educativa); year 2016 (record); author Karen Lizeth Mendoza Lobo; no ISBN printed in the front matter read
+- PDF pages: 130 (cover verified: printed title/grade match the record; mirror file 11,447,197 bytes = the download-list size for this book, and the secured books.json record is the same book)
+- Verdict: COMPLETE
+- Tally: 15 placements — 13 to existing lessons, 2 NEW LESSON NEEDED (counted in the PE file; this book also feeds 3 Health placements in the Health file)
+- Honduras's own way: a television-school (Telebásica) book built in 4 blocks — body image/expression, fitness for health, games and sport initiation, activities in nature — where every block ends in a "Valorando lo que aprendo" self-check sequence (the book's own assessment sequences: named here, not placed, per the assessment exclusion) and Honduran folk dance and traditional games are core content, not extras. Glossary (printed p. 122) is inventory-only, named, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras — Bloque II presentation/Secuencia 1 — what warm-up does, training, fatigue and injury prevention, rest and hygiene as training factors (original target `fitness-and-stretching/how-training-works`) | Honduras Grade 7 HN G7 student, printed p. 48 |
+
+**Book — Honduras Grade 8 (student book):**
+## Book 2 — HN G8 student, Telebásica (student book, Spanish)
+- Title as printed: Libro del Estudiante — Educación Física, 8vo Grado
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Secretaría de Educación de Honduras / TELEBÁSICA (Suyapa TV Educativa); author Gabriela Alessandra García Torres; year not printed in the front matter read; no ISBN printed
+- PDF pages: 146 (cover verified: printed title/grade match the record; mirror file 11,763,489 bytes = the download-list size for this book, and the secured books.json record is the same book)
+- Verdict: COMPLETE
+- Tally: 19 placements — 16 to existing lessons, 3 NEW LESSON NEEDED (counted in the PE file; this book also feeds 7 Health placements in the Health file)
+- Honduras's own way: same 4-block Telebásica architecture as Grade 7, deepened — coordinative capacities split simple/complex, a full basketball initiation (history, rules, technique, class tournament), first aid taught as a named sequence ("Ayuda a los demás"), and nature work ending in survival skills; each block again closes with a "Valorando lo que aprendo" self-check sequence (the book's own assessment sequences: named here, not placed, except where a "Valorando" sequence itself carries new teaching, as in Bloque IV Secuencia 2). Glossary (printed p. 136) is inventory-only, named, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras — Bloque II Secuencia 2 "¿Por qué calentamos nuestro cuerpo antes de la actividad física?" — warm-up: what it is for, its physiological effects, how to do it (10–15 minutes, progressive, no bouncing) and muscle elongation (original target `fitness-and-stretching/how-training-works`) | Honduras Grade 8 HN G8 student, printed p. 65 |
+
+**Book — Honduras Grade 7 (teacher guide):**
+## Book 3 — HN G7 teacher guide, Telebásica (teacher guide, Spanish)
+- Title as printed: Guía del Docente — Educación Física, 7mo Grado
+- Grade: 7 (student/teacher: TEACHER)
+- Publisher: Secretaría de Educación de Honduras / TELEBÁSICA (Suyapa TV Educativa); author Karen Lizeth Mendoza Lobo; year not printed in the front matter read; no ISBN printed
+- PDF pages: 196 (cover verified: printed title/grade match the record; mirror file 34,733,398 bytes = the download-list size for this book, and the secured books.json record is the same book)
+- Verdict: COMPLETE
+- Tally: 23 placements — 20 to existing lessons, 3 NEW LESSON NEEDED (counted in the PE file; this book also feeds 5 Health placements in the Health file)
+- Honduras's own way: the guide walks the same 4 blocks as the student book session by session (45-minute sessions, TV programme per sequence) but adds the coaching depth the student book omits: full technique progressions for football, a fitness-test battery with level tables, circuit-station plans, topographic orientation with map and compass, and camp craft. The guide's own evaluation instruments and answer keys are named here, not placed, per the assessment exclusion. Glossary (printed p. 188) is inventory-only, named, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras — Bloque II Secuencia 1 — circuit training by stations: worked plans of 1-minute exercise stations with 30-second rests for speed, strength and endurance (original target `fitness-and-stretching/how-training-works`) | Honduras Grade 7 HN G7 teacher guide, printed p. 85 |
+| Honduras — Bloque II Secuencia 2 — the structure of a complete warm-up: general then specific parts, joint mobility, pulse-raising and stretching, and the target heart rate from 220 minus age (original target `fitness-and-stretching/how-training-works`) | Honduras Grade 7 HN G7 teacher guide, printed p. 100 |
+
+**Book — Honduras Grade 9 (student book):**
+## Book 4 — HN G9 student, Telebásica (student book, Spanish)
+- Title as printed: Libro del Estudiante — Educación Física, 9no Grado (cover banner: "Versión no validada")
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Secretaría de Educación de Honduras / TELEBÁSICA (Suyapa TV Educativa); year not printed in the front matter read; no ISBN printed
+- PDF pages: 153 (cover verified: printed title/grade match the record; file 41,684,926 bytes = the download-list size for this book; obtained by direct download from the record's Drive link — the book is NOT in GitHub, so it is staged under the push-don't-delete rule, see the group log)
+- Verdict: COMPLETE
+- Tally: 29 placements — 25 to existing lessons, 4 NEW LESSON NEEDED (counted in the PE file; this book also feeds 8 Health placements in the Health file)
+- Honduras's own way: the third-cycle finale — gymnastics studied as art (FIG types, a school "Gimnasiada"), a whole sequence on the Garífuna people's dances, athletics taught event by event, the ancient and modern Olympics with the Paralympics, and nature work widened to climbing, canoeing, cycling and yoga. The "Valorando lo que aprendo" sequences again close each block (named, not placed, except where they carry new teaching: the training principles in Bloque II Secuencia 3). Glossary (printed p. 145) is inventory-only, named, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras — Bloque II Secuencia 2 "La forma de gastar energía" — training and sporting performance: what training is, its objectives and its benefits (original target `fitness-and-stretching/how-training-works`) | Honduras Grade 9 HN G9 student, printed p. 75 |
+| Honduras — Bloque II Secuencia 3 — the general principles of training, including supercompensation (the body rebuilding above its previous level after hard effort and fatigue) and continuity (original target `fitness-and-stretching/how-training-works`) | Honduras Grade 9 HN G9 student, printed p. 93 |
+
+Honduras's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Honduras's own way is content, as the book lines above record it: a television-school (Telebásica) programme built in 4 blocks — body image/expression, fitness for health, games and sport initiation, activities in nature — with Honduran folk dance, traditional games and Garífuna dances as core content, and every block closing in a "Valorando lo que aprendo" self-check sequence (named in the book lines, not placed, per the assessment exclusion). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: how training works, specificity, progressive overload, reversibility, individual differences, aerobic, anaerobic, circuit training, fartlek, plyometric, physical education, Ethiopia

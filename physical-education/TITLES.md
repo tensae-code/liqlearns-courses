@@ -213,3 +213,12 @@ Leaping** (`moving-basics/skipping-galloping-and-leaping`),
 Ball** (`ball-games/punting-a-ball`) and **Physical Work
 and Chores** (`fitness-and-stretching/physical-work-and-chores`)
 — 4 new lessons, bringing this course to 141 lessons.
+
+The PE expansion then added: **Camping and Survival
+Outdoors**
+(`moving-basics/camping-and-survival-outdoors`),
+**Yoga Poses and Breathing**
+(`gymnastics/yoga-poses-and-breathing`) and
+**Traditional Dances of Honduras**
+(`traditional-games-and-dances/traditional-dances-of-honduras`)
+— 3 new lessons, bringing this course to 144 lessons.

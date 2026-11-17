@@ -1,6 +1,6 @@
 # Sources — The Ball Games and Their Stories — Football, Volleyball, Basketball, Handball
 
-countries: Ethiopia, Cyprus, Afghanistan
+countries: Ethiopia, Cyprus, Afghanistan, Honduras
 
 **Book 1:** *Health and Physical Education Student's Textbook Grade 9* (student textbook, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, First Published August 2023, under GEQIP-E, ISBN 978-99990-0-072-7, printed pp. 1–156 (167 PDF pages). Printed page = PDF page − 10. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g09-student-placements.md.
 
@@ -16,7 +16,7 @@ countries: Ethiopia, Cyprus, Afghanistan
 | Sub lesson 4 — Handball's story — ancient games to the IHF | Ethiopia, *Grade 9 Student Textbook*, §7.1, printed pp. 122–125; and *Grade 9 Teacher Guide*, Unit 7, printed pp. 91–93 (teacher guide — evidence) |
 | Cyprus — Part 2, Modern Olympic Games — the Olympic sports programme, summer and winter: the team ball games among the listed sports and the eight winter sports (curling, bobsleigh, luge, skeleton, short-track and speed skating, ice hockey, figure skating) (student book) | Cyprus, *Olympic Education Insert, Lyceum Years 2–3*, Part 2, printed pp. 21–68 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Cyprus).** Cyprus is added as student-book stock (see its row above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 3 countries (Ethiopia, Cyprus, Honduras).** Cyprus is added as student-book stock (see its row above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count.
 
 The Grade 9 student book and teacher guide are both complete. Guide-only details (club title counts, federation dates in the guide's fuller form) are the guide's, carried in the prose at the places they belong; the student book's own three-scope histories are the lesson's spine. Terms are the federal book's English terms as printed.
 
@@ -53,5 +53,39 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/afghanistan-
 | Afghanistan — History of tennis: the French monks' hand game and the cry "tenez", Henry VIII's palace courts, lawn tennis and the rubber ball, the first Wimbledon championship in 1877, and the Davis Cup from 1900 (teacher guide — evidence) (original target `sport-and-its-story/the-ball-games-and-their-stories`) | Afghanistan, *Afghanistan G10 PE TG Pashto*, printed p. 49 |
 
 Afghanistan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Afghanistan's own way is content, as the book lines above record it: the Grade 7 year is planned twice over — one annual plan for cold-region schools (year starts in Hamal) and one for warm-region schools (year starts in Sunbula) — with theory taught orally at the start or end of the practical hour, and the practical year resting on fitness, athletics, volleyball and Afghanistan's own traditional games; the Grade 10 lycee year is built on exactly two sports — basketball in the first half-year, tennis in the second — over a base of physical fitness, with the sciences around sport, first aid, sports massage and a full chapter on including disabled children in PE. Both Afghanistan books are teacher guides, filed as evidence only, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Honduras — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/honduras-pe-placements.md. The Honduras books stocked in this lesson are Book 1, Book 2. Honduras is student-book stock, inside the acceptance count, in this lesson. Book R2 in the placements file (LibroEstudiantes8.pdf, a Natural Sciences student book) is RECORD-ONLY — REJECTED for PE, with 0 placements, and nothing is stocked from it. The books are filed exactly as in the placements file — including, for Book 4 and Book 5, that they are not in GitHub and are staged under the push-don't-delete rule, and, for Books 1–3, that they were read via byte-size-identical libroshonduras.com mirrors.
+
+**Book — Honduras Grade 7 (student book):**
+## Book 1 — HN G7 student, Telebásica (student book, Spanish)
+- Title as printed: Libro del Estudiante — Educación Física, 7mo Grado
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Secretaría de Educación de Honduras / TELEBÁSICA (Suyapa TV Educativa); year 2016 (record); author Karen Lizeth Mendoza Lobo; no ISBN printed in the front matter read
+- PDF pages: 130 (cover verified: printed title/grade match the record; mirror file 11,447,197 bytes = the download-list size for this book, and the secured books.json record is the same book)
+- Verdict: COMPLETE
+- Tally: 15 placements — 13 to existing lessons, 2 NEW LESSON NEEDED (counted in the PE file; this book also feeds 3 Health placements in the Health file)
+- Honduras's own way: a television-school (Telebásica) book built in 4 blocks — body image/expression, fitness for health, games and sport initiation, activities in nature — where every block ends in a "Valorando lo que aprendo" self-check sequence (the book's own assessment sequences: named here, not placed, per the assessment exclusion) and Honduran folk dance and traditional games are core content, not extras. Glossary (printed p. 122) is inventory-only, named, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras — Bloque III Secuencia 1 — history of football, and basketball's pre-Columbian roots in the Maya ball game (tlachtli / pok-a-pok) (original target `sport-and-its-story/the-ball-games-and-their-stories`) | Honduras Grade 7 HN G7 student, printed p. 79 |
+
+**Book — Honduras Grade 8 (student book):**
+## Book 2 — HN G8 student, Telebásica (student book, Spanish)
+- Title as printed: Libro del Estudiante — Educación Física, 8vo Grado
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Secretaría de Educación de Honduras / TELEBÁSICA (Suyapa TV Educativa); author Gabriela Alessandra García Torres; year not printed in the front matter read; no ISBN printed
+- PDF pages: 146 (cover verified: printed title/grade match the record; mirror file 11,763,489 bytes = the download-list size for this book, and the secured books.json record is the same book)
+- Verdict: COMPLETE
+- Tally: 19 placements — 16 to existing lessons, 3 NEW LESSON NEEDED (counted in the PE file; this book also feeds 7 Health placements in the Health file)
+- Honduras's own way: same 4-block Telebásica architecture as Grade 7, deepened — coordinative capacities split simple/complex, a full basketball initiation (history, rules, technique, class tournament), first aid taught as a named sequence ("Ayuda a los demás"), and nature work ending in survival skills; each block again closes with a "Valorando lo que aprendo" self-check sequence (the book's own assessment sequences: named here, not placed, except where a "Valorando" sequence itself carries new teaching, as in Bloque IV Secuencia 2). Glossary (printed p. 136) is inventory-only, named, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras — Bloque III Secuencia 1 — the history of basketball: Naismith 1891, the first official game and the early rule milestones (original target `sport-and-its-story/the-ball-games-and-their-stories`) | Honduras Grade 8 HN G8 student, printed p. 95 |
+
+Honduras's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Honduras's own way is content, as the book lines above record it: a television-school (Telebásica) programme built in 4 blocks — body image/expression, fitness for health, games and sport initiation, activities in nature — with Honduran folk dance, traditional games and Garífuna dances as core content, and every block closing in a "Valorando lo que aprendo" self-check sequence (named in the book lines, not placed, per the assessment exclusion). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: football history FIFA 1904 Mengistu Worku 1962, volleyball Mintonette Morgan 1895, basketball Naismith peach baskets FIBA 1949, handball IHF 1946 CAHB 1973, Ethiopia HPE Grade 9
