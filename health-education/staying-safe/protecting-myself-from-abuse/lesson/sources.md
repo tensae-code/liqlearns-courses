@@ -1,6 +1,6 @@
 # Sources — Protecting Myself from Abuse
 
-countries: Zambia
+countries: Zambia, Samoa
 
 **Acceptance count: taught in 0 countries.** Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson.
 
@@ -23,4 +23,21 @@ countries: Zambia
 
 This is a canonical NEW lesson (slug-registry Part 1: `staying-safe/protecting-myself-from-abuse` — Protecting myself from abuse: my body belongs to me — private parts and safe touch, kinds of abuse, gender-based violence, trafficking, child marriage, and getting help); the Zambia placement(s) were filed under the original string(s) recorded in the provenance row(s) above, resolved to this canonical slug by registry Part 2 and recorded there. Each placement is carried in its own provenance row. Zambia enters this lesson as teacher training manual evidence only, outside the acceptance count — the Zambia book is a TEACHER training manual, so this lesson stands at acceptance count 0, founded on teacher training manual evidence only, no pupil's book in hand. Zambia's own way is content, as the book line above records it: health is taught to teachers as front-line school health work — know the local diseases (malaria, bilharzia, worms, diarrhoea), examine a sick learner, keep water, sanitation and hygiene (WASHE) safe, feed children well from Zambia's own food groups, and protect learners from violence, corporal punishment, drugs and child marriage. The manual is PARTIAL as filed (see its book line): Module 1 and Module 4's programme-running chapters are school-health programme administration, named and not placed, the printed contents list skips Chapter 13 (numbering jumps 12 → 14), and the Appendices (pp. 241–253) and References (p. 254) are inventory-only, not placed. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: protecting myself from abuse, corporal punishment, positive discipline, gender-based violence, child abuse, protect and report, ending child marriage ECM, keeping girls in school, Zambia Health Teacher Training Manual 2025
+
+**Book — Samoa HPE Primary Curriculum Statement, Years 1–8 (curriculum statement, English):**
+- Title as printed: Health and Physical Education, Years 1–8, Primary School Curriculum
+- Grade: Years 1–8 (student/teacher: TEACHER — curriculum statement for teachers)
+- Publisher: Curriculum Materials and Assessment Division, Ministry of Education, Sports and Culture, Samoa; year 2013; ISBN 978-982-517-093-8
+- PDF pages: 56 (cover/title page verified against the record title)
+- Verdict: COMPLETE — core-content tables printed pp. 24–30 plus per-year achievement objectives pp. 31–56
+- Tally: 12 placements — 2 to existing lessons, 10 NEW LESSON NEEDED (6 of them HELD-title-decision)
+- Samoa's own way: health is taught as *soifua maloloina* — holistic well-being — through personal health, family and community strands; protection teaching is built around Samoa's real hazards (cyclones, tsunamis, rivers and sea, sasa) and real campaigns (Samoan Food Day, Diabetes Day).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/samoa-health-placements.md (Book 1 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa — Safety and responsible behaviour, Years 1–8 — what abuse is, physical abuse and how to avoid sasa, neglect as a form of abuse, the different types of abuse, and how and where to get help (curriculum statement — evidence) (original string `staying-safe/protecting-yourself-from-abuse`) | Samoa, *Health and Physical Education, Years 1–8, Primary School Curriculum* (Samoa Years 1–8 Curriculum, curriculum statement), printed pp. 24–25 (curriculum statement — evidence) |
+
+Samoa is added as curriculum-statement / teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — both Samoa books are TEACHER books (Book 1 a curriculum statement for teachers, Book 2 a teacher guide), so Samoa is named in the countries line and provenance row(s) but the acceptance count is unchanged (still taught in 0 countries). The Samoa placement was filed under the original string `staying-safe/protecting-yourself-from-abuse`, resolved to this canonical lesson `staying-safe/protecting-myself-from-abuse` by registry Part 2A, and the original string is recorded in the provenance row above. Samoa's own way is content, as the book line(s) above record it: protection teaching names Samoa's own sasa — physical abuse is taught as how to avoid sasa, with neglect named as a form of abuse and how and where to get help.
+
+Searchable tags: protecting myself from abuse, corporal punishment, positive discipline, gender-based violence, child abuse, protect and report, ending child marriage ECM, keeping girls in school, Zambia Health Teacher Training Manual 2025, abuse sasa neglect types of abuse how and where to get help, Samoa Years 1–8 Curriculum

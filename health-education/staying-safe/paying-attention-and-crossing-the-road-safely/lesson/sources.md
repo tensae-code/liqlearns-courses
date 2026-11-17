@@ -1,6 +1,6 @@
 # Sources — Paying Attention and Crossing the Road Safely
 
-countries: Ethiopia, Oman
+countries: Ethiopia, Oman, Samoa
 
 **Book 1:** *Grade 3 Health and Physical Education Teacher Guide* (የጤናና ሰውነት ማጎልመሻ ትምህርት የመምህር መምሪያ መጽሐፍ, ሦስተኛ ክፍል) (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. (58 PDF pages). Printed page = PDF page − 6. TRUNCATED — the file holds printed pp. 1–52 of 89+. Read in full, page by page, from 100 DPI renders (no usable text layer), in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g03-teacher-placements.md.
 
@@ -33,4 +33,21 @@ Title choice, recorded: the Wave 2 guide stocks [Health] items under Staying Saf
 
 Oman is added as teacher-guide evidence only (see its book line and row above), outside the acceptance count — the Oman book is a TEACHER guide, so Oman is named in the countries line and provenance row but the acceptance count is unchanged (still taught in 0 countries). The Oman placement was filed under the slug `staying-safe/paying-attention-and-crossing-the-road-safely`, this lesson itself. Oman's own way is content, as the book line above records it: road-safety rules are learned by acting out a trip to the garden inside the PE lesson.
 
-Searchable tags: road safety, traffic game, attention ትኩረት, pedestrian crossing የእግረኛ መሻገሪያ, red light green light, Ethiopia HPE Grade 3 teacher guide, road-safety rules by acting out a trip to the garden, A Trip to the Garden movement story, Oman G1 Teacher Guide
+
+**Book — Samoa HPE Primary Curriculum Statement, Years 1–8 (curriculum statement, English):**
+- Title as printed: Health and Physical Education, Years 1–8, Primary School Curriculum
+- Grade: Years 1–8 (student/teacher: TEACHER — curriculum statement for teachers)
+- Publisher: Curriculum Materials and Assessment Division, Ministry of Education, Sports and Culture, Samoa; year 2013; ISBN 978-982-517-093-8
+- PDF pages: 56 (cover/title page verified against the record title)
+- Verdict: COMPLETE — core-content tables printed pp. 24–30 plus per-year achievement objectives pp. 31–56
+- Tally: 12 placements — 2 to existing lessons, 10 NEW LESSON NEEDED (6 of them HELD-title-decision)
+- Samoa's own way: health is taught as *soifua maloloina* — holistic well-being — through personal health, family and community strands; protection teaching is built around Samoa's real hazards (cyclones, tsunamis, rivers and sea, sasa) and real campaigns (Samoan Food Day, Diabetes Day).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/samoa-health-placements.md (Book 1 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa — Protection and responsible behaviour, Years 1–8 — road safety rules progressing from reciting the rules to demonstrating and practising them every year (curriculum statement — evidence) (original string `staying-safe/paying-attention-and-crossing-the-road-safely`) | Samoa, *Health and Physical Education, Years 1–8, Primary School Curriculum* (Samoa Years 1–8 Curriculum, curriculum statement), printed pp. 29–30 (curriculum statement — evidence) |
+
+Samoa is added as curriculum-statement / teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — both Samoa books are TEACHER books (Book 1 a curriculum statement for teachers, Book 2 a teacher guide), so Samoa is named in the countries line and provenance row(s) but the acceptance count is unchanged (still taught in 0 countries). The Samoa placement was filed under the slug `staying-safe/paying-attention-and-crossing-the-road-safely`, this lesson itself. Samoa's own way is content, as the book line(s) above record it: protection teaching is built around Samoa's real hazards (cyclones, tsunamis, rivers and sea, sasa), and road safety is practised every year from Years 1–8.
+
+Searchable tags: road safety, traffic game, attention ትኩረት, pedestrian crossing የእግረኛ መሻገሪያ, red light green light, Ethiopia HPE Grade 3 teacher guide, road-safety rules by acting out a trip to the garden, A Trip to the Garden movement story, Oman G1 Teacher Guide, road safety rules recited demonstrated practised every year, Samoa Years 1–8 Curriculum

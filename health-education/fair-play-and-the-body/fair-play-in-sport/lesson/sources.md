@@ -1,6 +1,6 @@
 # Sources — Fair Play in Sport
 
-countries: Haiti, Oman
+countries: Haiti, Oman, Samoa
 
 **Acceptance count: taught in 0 countries.** Haiti is filed as teacher-programme evidence only in this lesson — named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this lesson. Oman is likewise filed as teacher-guide evidence only, outside the acceptance count.
 
@@ -47,4 +47,21 @@ This is a canonical NEW lesson (slug-registry Part 1: `fair-play-and-the-body/fa
 
 Oman is added as teacher-guide evidence only (see its book lines and rows above), outside the acceptance count — both Oman books are TEACHER guides, so Oman is named in the countries line and provenance rows but the acceptance count is unchanged (still taught in 0 countries). Both Oman placements were filed under the original string `fair-play-and-the-body/sports-values-and-ethics`, resolved to this canonical lesson `fair-play-and-the-body/fair-play-in-sport` by registry Part 2A, and the original string is recorded in the provenance rows above. Oman's own way is content, as the book lines above record it: sports values and ethics — honesty, respect, fairness and good conduct — open the Grade 6 health unit and return at Grade 8.
 
-Searchable tags: fair play in sport, fair play as democratic culture, values carried by games, managing conflict, refereeing, applying the rules, respect for authority and the adversary, tournaments for peace and camaraderie, Haiti Programme-Cadre NS Grades 10-13, MENFP, sports values and ethics القيم والأخلاق الرياضية, honesty respect fairness good conduct, Oman G6 Teacher Guide, Oman G8 Teacher Guide
+
+**Book — Samoa HPE Primary Curriculum Statement, Years 1–8 (curriculum statement, English):**
+- Title as printed: Health and Physical Education, Years 1–8, Primary School Curriculum
+- Grade: Years 1–8 (student/teacher: TEACHER — curriculum statement for teachers)
+- Publisher: Curriculum Materials and Assessment Division, Ministry of Education, Sports and Culture, Samoa; year 2013; ISBN 978-982-517-093-8
+- PDF pages: 56 (cover/title page verified against the record title)
+- Verdict: COMPLETE — core-content tables printed pp. 24–30 plus per-year achievement objectives pp. 31–56
+- Tally: 12 placements — 2 to existing lessons, 10 NEW LESSON NEEDED (6 of them HELD-title-decision)
+- Samoa's own way: health is taught as *soifua maloloina* — holistic well-being — through personal health, family and community strands; protection teaching is built around Samoa's real hazards (cyclones, tsunamis, rivers and sea, sasa) and real campaigns (Samoan Food Day, Diabetes Day).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/samoa-health-placements.md (Book 1 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa — Socialisation, Year 6 — life skills through physical activities: safe and fair play practices and sportsmanship; Year 8 adds encouraging positive cultural and safety practices that keep order at sports competitions (curriculum statement — evidence) (original string `fair-play-and-the-body/sportsmanship-and-fair-play`) | Samoa, *Health and Physical Education, Years 1–8, Primary School Curriculum* (Samoa Years 1–8 Curriculum, curriculum statement), printed p. 27 (curriculum statement — evidence) |
+
+Samoa is added as curriculum-statement / teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — both Samoa books are TEACHER books (Book 1 a curriculum statement for teachers, Book 2 a teacher guide), so Samoa is named in the countries line and provenance row(s) but the acceptance count is unchanged (still taught in 0 countries). The Samoa placement was filed under the original string `fair-play-and-the-body/sportsmanship-and-fair-play`, resolved to this canonical lesson `fair-play-and-the-body/fair-play-in-sport` by registry Part 2A, and the original string is recorded in the provenance row above. Samoa's own way is content, as the book line(s) above record it: fair play is taught inside the Socialisation strand as life skills through physical activities, with positive cultural and safety practices that keep order at sports competitions.
+
+Searchable tags: fair play in sport, fair play as democratic culture, values carried by games, managing conflict, refereeing, applying the rules, respect for authority and the adversary, tournaments for peace and camaraderie, Haiti Programme-Cadre NS Grades 10-13, MENFP, sports values and ethics القيم والأخلاق الرياضية, honesty respect fairness good conduct, Oman G6 Teacher Guide, Oman G8 Teacher Guide, sportsmanship safe and fair play practices positive cultural practices sports competitions, Samoa Years 1–8 Curriculum

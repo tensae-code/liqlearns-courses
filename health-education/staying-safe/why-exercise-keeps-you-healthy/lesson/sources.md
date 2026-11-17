@@ -1,6 +1,6 @@
 # Sources — Why Exercise Keeps You Healthy
 
-countries: Haiti, Rwanda, Oman
+countries: Haiti, Rwanda, Oman, Samoa
 
 **Acceptance count: taught in 0 countries.** Haiti and Rwanda are filed as teacher-programme / teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Oman is likewise filed as teacher-guide evidence only, outside the acceptance count.
 
@@ -60,4 +60,22 @@ Rwanda is added as teacher-guide evidence only (see its book lines and rows abov
 
 Oman is added as teacher-guide evidence only (see its book line and rows above), outside the acceptance count — the Oman book is a TEACHER guide, so Oman is named in the countries line and provenance rows but the acceptance count is unchanged (still taught in 0 countries). Both Oman placements were filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson `staying-safe/why-exercise-keeps-you-healthy` by registry Part 2B (HELD descriptions: "Unit 6, Health Culture and Awareness — Physical Activity (النشاط البدني): what physical activity is and why the body needs it" and "Unit 6, Health Culture and Awareness — Sport and Health (الرياضة والصحة): how practising sport protects and builds health"), and the original string is recorded in the provenance rows above. Oman's own way is content, as the book line above records it: the Grade 3 health unit is physical activity itself, and sport and health.
 
-Searchable tags: why exercise keeps you healthy, physical activity improves health, conference-debates, cooperation and communication for health, Theme 1, Haiti Programme-Cadre NS Grades 10-13, MENFP, walking fast and running or jogging for health and well-being, brisk walking and jogging as health exercise, basic exercises of the circulatory and respiratory systems, exercises that work the heart and lungs, Rwanda Grade 3 PES Teacher Guide, Rwanda Grade 5 PE Teacher Guide MK Publishers, REB Rwanda, physical activity النشاط البدني, sport and health الرياضة والصحة, Oman G3 Teacher Guide
+
+**Book — Samoa HPE Teacher Guide, Years 11–12 (teacher guide, English):**
+- Title as printed: Health and Physical Education Teacher Guide, Years 11 and 12
+- Grade: Years 11–12 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Sports and Culture, Samoa; year 2004; no ISBN printed
+- PDF pages: 88 (title page verified; read from the ministry download-list copy — the secured copies are a phantom push, see header note)
+- Verdict: COMPLETE as a guide — all four units for both years plus the fitness-test appendix
+- Tally: 8 placements — 1 to existing lessons, 7 NEW LESSON NEEDED (all HELD-title-decision)
+- Samoa's own way: senior health teaching moves outward from the person to the family and the village — health promotion is taught through family involvement, community resources, village co-operatives and local health foods (nonu, esi) rather than through clinics alone.
+- LIBRARY DEBT: the Years 11–12 Teacher Guide's two secured books.json records are marked pushed but the files are absent from GitHub (Contents API 404 at both grade-11 and grade-12 staging paths, and both staging folders on disk were empty) — a phantom push. The book itself was read from the ministry download-list copy and staged at both paths (push-don't-delete rule).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/samoa-health-placements.md (Book 2 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa — Fitness concepts and keeping fit for life, Year 11 Unit 1C — what total fitness means (physical, mental, emotional, social readiness), the benefits of fitness, a personal keep-fit programme and log, and overcoming peer and cultural pressure (including tapuaiga) and poor time management to stay active (teacher guide — evidence) (original string `staying-safe/HELD-title-decision`) | Samoa, *Health and Physical Education Teacher Guide, Years 11 and 12* (Samoa Years 11–12 TG, teacher guide), printed pp. 15–19 (teacher guide — evidence) |
+
+Samoa is added as curriculum-statement / teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — both Samoa books are TEACHER books (Book 1 a curriculum statement for teachers, Book 2 a teacher guide), so Samoa is named in the countries line and provenance row(s) but the acceptance count is unchanged (still taught in 0 countries). The Samoa placement was filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson `staying-safe/why-exercise-keeps-you-healthy` by registry Part 2B (HELD description: "Fitness concepts and keeping fit for life, Year 11 Unit 1C"), and the original string is recorded in the provenance row above. Samoa's own way is content, as the book line(s) above record it: fitness is taught as total fitness — physical, mental, emotional and social readiness — kept for life against Samoa's own pressures, including tapuaiga and poor time management.
+
+Searchable tags: why exercise keeps you healthy, physical activity improves health, conference-debates, cooperation and communication for health, Theme 1, Haiti Programme-Cadre NS Grades 10-13, MENFP, walking fast and running or jogging for health and well-being, brisk walking and jogging as health exercise, basic exercises of the circulatory and respiratory systems, exercises that work the heart and lungs, Rwanda Grade 3 PES Teacher Guide, Rwanda Grade 5 PE Teacher Guide MK Publishers, REB Rwanda, physical activity النشاط البدني, sport and health الرياضة والصحة, Oman G3 Teacher Guide, fitness concepts total fitness keep-fit programme log tapuaiga peer pressure, Samoa Years 11–12 TG

@@ -1,6 +1,6 @@
 # Sources — Saying No to Drugs, Alcohol and Tobacco
 
-countries: Turkmenistan, Namibia, Zambia
+countries: Turkmenistan, Namibia, Zambia, Samoa
 
 **Acceptance count: taught in 1 country.** Turkmenistan is filed as student-book stock, inside the acceptance count, in this lesson. Namibia is filed as teacher-guide evidence only — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Namibia row. Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count (still taught in 1 country).
 
@@ -47,4 +47,22 @@ Namibia is added as teacher-guide evidence only (see its book line and row above
 
 Zambia is added as teacher training manual evidence only (see its book line and row above), outside the acceptance count — the Zambia book is a TEACHER training manual, so Zambia is named in the countries line and provenance row but the acceptance count is unchanged (still taught in 1 country). The Zambia placement was filed under the original string `fair-play-and-the-body/drugs-and-alcohol-harms`, resolved to this canonical lesson by registry Part 2 and recorded in the provenance row above. Zambia's own way is content, as the book line above records it: drugs and alcohol are taught to school health teachers as harms to learners and prevention. The manual is PARTIAL as filed (see its book line): Module 1 and Module 4's programme-running chapters are school-health programme administration, named and not placed, the printed contents list skips Chapter 13, and the Appendices and References are inventory-only.
 
-Searchable tags: saying no to drugs alcohol and tobacco, harmful habits that damage health, Saglyga zeper ýetirýän zyýanly endikler, habits that injure health, Turkmenistan Bedenterbiýe, substance abuse types consequences risks, legal alcohol age 18 Namibia, Healthy Lifestyle Session 4, Namibia PE4Life Guide, drugs and alcohol harms to learners, prevention, Zambia Health Teacher Training Manual 2025
+
+**Book — Samoa HPE Teacher Guide, Years 11–12 (teacher guide, English):**
+- Title as printed: Health and Physical Education Teacher Guide, Years 11 and 12
+- Grade: Years 11–12 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Sports and Culture, Samoa; year 2004; no ISBN printed
+- PDF pages: 88 (title page verified; read from the ministry download-list copy — the secured copies are a phantom push, see header note)
+- Verdict: COMPLETE as a guide — all four units for both years plus the fitness-test appendix
+- Tally: 8 placements — 1 to existing lessons, 7 NEW LESSON NEEDED (all HELD-title-decision)
+- Samoa's own way: senior health teaching moves outward from the person to the family and the village — health promotion is taught through family involvement, community resources, village co-operatives and local health foods (nonu, esi) rather than through clinics alone.
+- LIBRARY DEBT: the Years 11–12 Teacher Guide's two secured books.json records are marked pushed but the files are absent from GitHub (Contents API 404 at both grade-11 and grade-12 staging paths, and both staging folders on disk were empty) — a phantom push. The book itself was read from the ministry download-list copy and staged at both paths (push-don't-delete rule).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/samoa-health-placements.md (Book 2 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa — Alcohol, drugs and smoking, Year 11 Unit 3 — the influence and impact of alcohol, drugs and smoking on the family, including unsafe sex under the influence, sexually transmitted diseases, HIV/AIDS and hepatitis (teacher guide — evidence) (original string `staying-safe/HELD-title-decision`) | Samoa, *Health and Physical Education Teacher Guide, Years 11 and 12* (Samoa Years 11–12 TG, teacher guide), printed p. 40 (teacher guide — evidence) |
+
+Samoa is added as curriculum-statement / teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — both Samoa books are TEACHER books (Book 1 a curriculum statement for teachers, Book 2 a teacher guide), so Samoa is named in the countries line and provenance row(s) but the acceptance count is unchanged (still taught in 1 country). The Samoa placement was filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson `staying-safe/saying-no-to-drugs-alcohol-and-tobacco` by registry Part 2B (HELD description: "Alcohol, drugs and smoking, Year 11 Unit 3"), and the original string is recorded in the provenance row above. Samoa's own way is content, as the book line(s) above record it: alcohol, drugs and smoking are taught by their impact on the family, including unsafe sex under the influence and its diseases.
+
+Searchable tags: saying no to drugs alcohol and tobacco, harmful habits that damage health, Saglyga zeper ýetirýän zyýanly endikler, habits that injure health, Turkmenistan Bedenterbiýe, substance abuse types consequences risks, legal alcohol age 18 Namibia, Healthy Lifestyle Session 4, Namibia PE4Life Guide, drugs and alcohol harms to learners, prevention, Zambia Health Teacher Training Manual 2025, alcohol drugs smoking impact on the family unsafe sex STDs HIV AIDS hepatitis, Samoa Years 11–12 TG

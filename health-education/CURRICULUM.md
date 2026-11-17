@@ -370,6 +370,37 @@ the printed contents list skips Chapter 13 (numbering jumps
 are inventory-only, not placed. No Zambia placement resolves
 to a PE-course lesson, so none was excluded as PE-bound.
 
+**Health expansion — Samoa — BUILT 2026-11-16:** 20 placements
+stocked — 17 into existing lessons (Paying Attention and
+Crossing the Road Safely, Preventing Sports Injuries and
+First Aid ×2, Staying Safe in Disasters, Protecting Myself
+from Abuse, Fair Play in Sport, Keeping My Body Clean,
+Eating a Balanced Diet, Knowing My Body, Non-communicable
+Diseases, Family and Friends ×2, Malnutrition, Why Exercise
+Keeps You Healthy, Diseases of Inactivity, Reproduction and
+Pregnancy, Saying No to Drugs, Alcohol and Tobacco) and 3 as
+new lessons (Water Safety, Health Services and Health
+Workers, Knowing Myself and My Feelings) — bringing this
+course to **45 lessons**. From Book 1, *Health and Physical
+Education, Years 1–8, Primary School Curriculum* (curriculum
+statement, MESC Samoa, 2013, ISBN 978-982-517-093-8,
+COMPLETE), 12 placements, and Book 2, *Health and Physical
+Education Teacher Guide, Years 11 and 12* (teacher guide,
+MESC Samoa, 2004, COMPLETE as a guide), 8 placements. BOTH
+Samoa books are teacher books — Book 1 is a curriculum
+statement for teachers and Book 2 is a teacher guide — so
+Samoa is curriculum-statement / teacher-guide evidence only,
+outside the acceptance counts; each new lesson stands at
+acceptance count 0, founded on teacher evidence only, no
+pupil's book in hand, and the existing lessons' counts are
+unchanged. Book 2's two secured books.json records are a
+phantom push — marked pushed but absent from GitHub — a
+library debt recorded in every Book 2 line; the guide was
+read from the ministry download-list copy and staged at both
+staging paths under the push-don't-delete rule, as filed.
+No Samoa placement resolves to a PE-course lesson, so none
+was excluded as PE-bound.
+
 ## Unit 1 — Staying Safe
 
 1. **Hygiene for Sport — Wash After Exercise** (`staying-safe/hygiene-for-sport`) — personal hygiene around sport: sweat and dirt left unwashed become a breeding place for bacteria — so wash the body after PE and sport, keep sports…
@@ -415,6 +446,8 @@ to a PE-course lesson, so none was excluded as PE-bound.
 32. **Malnutrition** (`staying-safe/malnutrition`) — malnutrition: too little or wrong food — deficiency diseases, anaemia, healthy weight and BMI, and eating disorders — taught in Zambia's Health Teacher Training Manual 2025 as malnutrition and anaemia: undernutrition signs, iron and anaemia, and school feeding (Zambia teacher training manual, evidence only).
 33. **Reproduction and Pregnancy** (`staying-safe/reproduction-and-pregnancy`) — reproduction and pregnancy: the reproductive systems, how pregnancy begins and develops, preventing pregnancy, and reproductive health and rights — taught in Zambia's Health Teacher Training Manual 2025 as sexual and reproductive health: puberty, reproduction and keeping safe (Zambia teacher training manual, evidence only).
 34. **Protecting Myself from Abuse** (`staying-safe/protecting-myself-from-abuse`) — protecting myself from abuse: my body belongs to me — private parts and safe touch, kinds of abuse, gender-based violence, trafficking, child marriage, and getting help — taught in Zambia's Health Teacher Training Manual 2025 as corporal punishment (its harms and positive discipline instead), gender-based violence and child abuse (recognising abuse and the teacher's duty to protect and report), and ending child marriage — the harms of early marriage and keeping girls in school (Zambia teacher training manual, evidence only).
+35. **Water Safety** (`staying-safe/water-safety`) — water safety: staying safe in and around water — pools, rivers and the sea — taught in Samoa's Years 1–8 Curriculum as simple water safety rules for river, sea and swimming pools, practised every year, with swimming classes (optional) (Samoa curriculum statement, evidence only).
+36. **Health Services and Health Workers** (`staying-safe/health-services-and-health-workers`) — health services and health workers: doctors, nurses and health workers, clinics and hospitals, health checks and screening, patient rights, and health information and promotion in the community — taught in Samoa's Years 11–12 Teacher Guide as family and community health promotion: family health issues, family involvement in health promotion, health agencies and where to find them (AIDS awareness, family planning and others), effective use of community resources, the rights of all community members to good health, and village co-operatives such as Asiasiga Maumaga (taro growers) whose labour-intensive work keeps them fit (Samoa teacher guide, evidence only).
 
 ## Unit 2 — Fair Play and the Body
 
@@ -425,3 +458,4 @@ to a PE-course lesson, so none was excluded as PE-bound.
 5. **Sports Massage and Recovery** (`fair-play-and-the-body/sports-massage-and-recovery`) — sports massage and recovery: what massage does for muscles, circulation and the mind, and its uses before, between and after competition — taught in Afghanistan's Grade 10 Teaching Guide as sports massage: what massage does for the nervous system, muscles, blood circulation, skeleton and skin, its three sporting uses (before, between and after competition), and massage to reduce an athlete's pre-game anxiety (Afghanistan teacher guide, evidence only).
 
 6. **Mental Health and Wellbeing** (`fair-play-and-the-body/mental-health-and-wellbeing`) — mental health and wellbeing: looking after the mind — stress, resilience, emotional balance, mental illness and getting help, including psychological first aid — taught in China's Senior High PEP PE & Health book as growing mental health: knowing yourself, and adapting to society, in the mental-health-and-social-adaptation section (printed p. 68).
+7. **Knowing Myself and My Feelings** (`fair-play-and-the-body/knowing-myself-and-my-feelings`) — knowing myself and my feelings: who I am, my body image and self-esteem, naming and expressing feelings, and human needs and wants — taught in Samoa's Years 1–8 Curriculum as identity and self-worth: personal identity and self-esteem, who they are and where they are from, the role of cultural and spiritual beliefs and values, social messages, stereotyping and media, personal strengths, and the challenges of teenage life (Samoa curriculum statement, evidence only).

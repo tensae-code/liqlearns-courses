@@ -124,3 +124,22 @@ Diet, STIs and HIV Prevention, Mental Health and Wellbeing,
 Saying No to Drugs, Alcohol and Tobacco), all as teacher
 training manual evidence only — the course's acceptance
 counts are unchanged by this merge.
+
+The Health expansion then added (Samoa): **Water Safety**
+(`staying-safe/water-safety`), **Health Services and Health
+Workers** (`staying-safe/health-services-and-health-workers`)
+and **Knowing Myself and My Feelings**
+(`fair-play-and-the-body/knowing-myself-and-my-feelings`) —
+3 new lessons, bringing this course to 45 lessons. A further
+17 Samoa placements were stocked into existing lessons
+(Paying Attention and Crossing the Road Safely, Preventing
+Sports Injuries and First Aid ×2, Staying Safe in Disasters,
+Protecting Myself from Abuse, Fair Play in Sport, Keeping My
+Body Clean, Eating a Balanced Diet, Knowing My Body,
+Non-communicable Diseases, Family and Friends ×2,
+Malnutrition, Why Exercise Keeps You Healthy, Diseases of
+Inactivity, Reproduction and Pregnancy, Saying No to Drugs,
+Alcohol and Tobacco), all as curriculum-statement /
+teacher-guide evidence only — both Samoa books are teacher
+books, so the course's acceptance counts are unchanged by
+this merge.

@@ -1,6 +1,6 @@
 # Sources — Keeping My Body Clean
 
-countries: Kiribati, El Salvador, Oman
+countries: Kiribati, El Salvador, Oman, Samoa
 
 **Acceptance count: taught in 2 countries.** Kiribati and El Salvador are filed as student-book stock, inside the acceptance count, in this lesson — Kiribati Book 1 is a student book (its Book 2 is a teacher guide, so its row there is teacher-guide evidence only; the country is already counted once via the student book), and El Salvador's book is a student book.
 
@@ -63,4 +63,21 @@ El Salvador is added as student-book stock (see its book line and row above), in
 
 Oman is added as teacher-guide evidence only (see its book line and row above), outside the acceptance count — the Oman book is a TEACHER guide, so Oman is named in the countries line and provenance row but the acceptance count is unchanged (still taught in 2 countries). The Oman placement was filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson `staying-safe/keeping-my-body-clean` by registry Part 2B (HELD description: "Unit 6, Health Culture and Awareness — Cleanliness and Health: personal cleanliness habits and how cleanliness protects from disease"), and the original string is recorded in the provenance row above. Oman's own way is content, as the book line above records it: the Grade 1 health unit pairs cleanliness with healthy food inside the PE lesson.
 
-Searchable tags: keeping my body clean, personal hygiene, morning washing routine, washing hands, hygiene in puberty, Stay Clean and Healthy, Kiribati Year 3 big book, WASH MHM Guide, water in personal hygiene, bathing daily, washing hands with soap, brushing teeth three times a day, cleaning ears and nails, El Salvador Ciencia Salud y Medio Ambiente 1, El agua fuente de salud, personal cleanliness habits, cleanliness protects from disease, Health Culture and Awareness, Oman G1 Teacher Guide
+
+**Book — Samoa HPE Primary Curriculum Statement, Years 1–8 (curriculum statement, English):**
+- Title as printed: Health and Physical Education, Years 1–8, Primary School Curriculum
+- Grade: Years 1–8 (student/teacher: TEACHER — curriculum statement for teachers)
+- Publisher: Curriculum Materials and Assessment Division, Ministry of Education, Sports and Culture, Samoa; year 2013; ISBN 978-982-517-093-8
+- PDF pages: 56 (cover/title page verified against the record title)
+- Verdict: COMPLETE — core-content tables printed pp. 24–30 plus per-year achievement objectives pp. 31–56
+- Tally: 12 placements — 2 to existing lessons, 10 NEW LESSON NEEDED (6 of them HELD-title-decision)
+- Samoa's own way: health is taught as *soifua maloloina* — holistic well-being — through personal health, family and community strands; protection teaching is built around Samoa's real hazards (cyclones, tsunamis, rivers and sea, sasa) and real campaigns (Samoan Food Day, Diabetes Day).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/samoa-health-placements.md (Book 1 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa — Personal hygiene and sanitation, Years 1–8 — hand washing, keeping the whole body clean, oral health and tooth brushing, short clean nails, hair free of nits and lice, protection from worms (wash fruit and vegetables, wear shoes), and protection against sores, boils and fungal skin infections like tinea and ringworm (curriculum statement — evidence) (original string `staying-safe/HELD-title-decision`) | Samoa, *Health and Physical Education, Years 1–8, Primary School Curriculum* (Samoa Years 1–8 Curriculum, curriculum statement), printed pp. 24–25 (curriculum statement — evidence) |
+
+Samoa is added as curriculum-statement / teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — both Samoa books are TEACHER books (Book 1 a curriculum statement for teachers, Book 2 a teacher guide), so Samoa is named in the countries line and provenance row(s) but the acceptance count is unchanged (still taught in 2 countries). The Samoa placement was filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson `staying-safe/keeping-my-body-clean` by registry Part 2B (HELD description: "Personal hygiene and sanitation, Years 1–8"), and the original string is recorded in the provenance row above. Samoa's own way is content, as the book line(s) above record it: personal hygiene is taught as one Years 1–8 strand — hand washing, oral health, nails, hair free of nits and lice, worm protection and skin infections (tinea, ringworm) together.
+
+Searchable tags: keeping my body clean, personal hygiene, morning washing routine, washing hands, hygiene in puberty, Stay Clean and Healthy, Kiribati Year 3 big book, WASH MHM Guide, water in personal hygiene, bathing daily, washing hands with soap, brushing teeth three times a day, cleaning ears and nails, El Salvador Ciencia Salud y Medio Ambiente 1, El agua fuente de salud, personal cleanliness habits, cleanliness protects from disease, Health Culture and Awareness, Oman G1 Teacher Guide, personal hygiene sanitation hand washing tooth brushing nits lice worms tinea ringworm, Samoa Years 1–8 Curriculum

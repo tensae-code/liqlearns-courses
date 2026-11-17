@@ -1,6 +1,6 @@
 # Sources — Knowing My Body
 
-countries: Afghanistan, Oman
+countries: Afghanistan, Oman, Samoa
 
 **Acceptance count: taught in 0 countries.** Afghanistan is filed as teacher-guide evidence only, outside the acceptance count, in this lesson — this lesson is founded on teacher-guide evidence only, no pupil's book in hand. Oman is likewise filed as teacher-guide evidence only, outside the acceptance count.
 
@@ -36,4 +36,21 @@ This is a canonical NEW lesson (slug-registry Part 1: `staying-safe/knowing-my-b
 
 Oman is added as teacher-guide evidence only (see its book line and row above), outside the acceptance count — the Oman book is a TEACHER guide, so Oman is named in the countries line and provenance row but the acceptance count is unchanged (still taught in 0 countries). The Oman placement was filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson `staying-safe/knowing-my-body` by registry Part 2B (HELD description: "Unit 6, Health Culture and Awareness — Body Types (أنماط الجسم): the body types (stocky/fat, muscular, thin), their characteristics, the factors that shape them (heredity, environment, nutrition), the sports that suit each type, and their effect on health"), and the original string is recorded in the provenance row above. Oman's own way is content, as the book line above records it: body types are taught with the sports that suit each type and their effect on health.
 
-Searchable tags: knowing my body, the water inside the body, body water 40-60 percent of body weight, water inside and outside the cells, metabolic water, water content of common foods, Afghanistan G7 PE Teacher Guide Dari, body types أنماط الجسم, stocky muscular thin, heredity environment nutrition, Oman G4 Teacher Guide
+
+**Book — Samoa HPE Primary Curriculum Statement, Years 1–8 (curriculum statement, English):**
+- Title as printed: Health and Physical Education, Years 1–8, Primary School Curriculum
+- Grade: Years 1–8 (student/teacher: TEACHER — curriculum statement for teachers)
+- Publisher: Curriculum Materials and Assessment Division, Ministry of Education, Sports and Culture, Samoa; year 2013; ISBN 978-982-517-093-8
+- PDF pages: 56 (cover/title page verified against the record title)
+- Verdict: COMPLETE — core-content tables printed pp. 24–30 plus per-year achievement objectives pp. 31–56
+- Tally: 12 placements — 2 to existing lessons, 10 NEW LESSON NEEDED (6 of them HELD-title-decision)
+- Samoa's own way: health is taught as *soifua maloloina* — holistic well-being — through personal health, family and community strands; protection teaching is built around Samoa's real hazards (cyclones, tsunamis, rivers and sea, sasa) and real campaigns (Samoan Food Day, Diabetes Day).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/samoa-health-placements.md (Book 1 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa — Growth and development, Years 1–8 — external and internal body parts and their functions (senses, digestion, bones protecting organs, muscles for movement, heart, lungs and blood), recording height and weight, and the physical, social, emotional and intellectual changes of puberty (curriculum statement — evidence) (original string `staying-safe/HELD-title-decision`) | Samoa, *Health and Physical Education, Years 1–8, Primary School Curriculum* (Samoa Years 1–8 Curriculum, curriculum statement), printed pp. 24–25 (curriculum statement — evidence) |
+
+Samoa is added as curriculum-statement / teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — both Samoa books are TEACHER books (Book 1 a curriculum statement for teachers, Book 2 a teacher guide), so Samoa is named in the countries line and provenance row(s) but the acceptance count is unchanged (still taught in 0 countries). The Samoa placement was filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson `staying-safe/knowing-my-body` by registry Part 2B (HELD description: "Growth and development, Years 1–8"), and the original string is recorded in the provenance row above. Samoa's own way is content, as the book line(s) above record it: the body is taught whole — external and internal parts and their functions, height and weight recorded, and puberty taught as physical, social, emotional and intellectual change together.
+
+Searchable tags: knowing my body, the water inside the body, body water 40-60 percent of body weight, water inside and outside the cells, metabolic water, water content of common foods, Afghanistan G7 PE Teacher Guide Dari, body types أنماط الجسم, stocky muscular thin, heredity environment nutrition, Oman G4 Teacher Guide, growth and development body parts functions height weight puberty changes, Samoa Years 1–8 Curriculum

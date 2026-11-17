@@ -1,6 +1,6 @@
 # Sources — Diseases of Inactivity
 
-countries: United Kingdom, Cyprus, Oman
+countries: United Kingdom, Cyprus, Oman, Samoa
 
 **Acceptance count: taught in 2 countries.** United Kingdom and Cyprus are filed as student-book stock, inside the acceptance count, in this lesson.
 
@@ -42,4 +42,22 @@ Cyprus is added as student-book stock (see its book line and row above), inside 
 
 Oman is added as teacher-guide evidence only (see its book line and row above), outside the acceptance count — the Oman book is a TEACHER guide, so Oman is named in the countries line and provenance row but the acceptance count is unchanged (still taught in 2 countries). The Oman placement was filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson `staying-safe/diseases-of-inactivity` by registry Part 2B (HELD description: "Unit 4, Health Culture and Awareness — Physical Activity and Its Relation to Chronic Diseases (النشاط البدني وعلاقته بالأمراض المزمنة): how regular physical activity protects against the chronic diseases of inactivity, and how inactivity feeds them"), and the original string is recorded in the provenance row above. Oman's own way is content, as the book line above records it: physical activity is taught directly against the chronic diseases of inactivity.
 
-Searchable tags: diseases of inactivity, sedentary lifestyle, consequences of inactivity, obesity, somatotypes body types, hypokinetic diseases, Edexcel GCSE Physical Education, United Kingdom GCSE Edexcel PE Student Book, sedentary life, Καθιστική Ζωή, sitting-still life, Cyprus Olympic Education Insert Grades 11-12, physical activity and chronic diseases النشاط البدني وعلاقته بالأمراض المزمنة, Oman G8 Teacher Guide
+
+**Book — Samoa HPE Teacher Guide, Years 11–12 (teacher guide, English):**
+- Title as printed: Health and Physical Education Teacher Guide, Years 11 and 12
+- Grade: Years 11–12 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Sports and Culture, Samoa; year 2004; no ISBN printed
+- PDF pages: 88 (title page verified; read from the ministry download-list copy — the secured copies are a phantom push, see header note)
+- Verdict: COMPLETE as a guide — all four units for both years plus the fitness-test appendix
+- Tally: 8 placements — 1 to existing lessons, 7 NEW LESSON NEEDED (all HELD-title-decision)
+- Samoa's own way: senior health teaching moves outward from the person to the family and the village — health promotion is taught through family involvement, community resources, village co-operatives and local health foods (nonu, esi) rather than through clinics alone.
+- LIBRARY DEBT: the Years 11–12 Teacher Guide's two secured books.json records are marked pushed but the files are absent from GitHub (Contents API 404 at both grade-11 and grade-12 staging paths, and both staging folders on disk were empty) — a phantom push. The book itself was read from the ministry download-list copy and staged at both paths (push-don't-delete rule).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/samoa-health-placements.md (Book 2 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa — Diseases of inactivity, Introduction + Year 12 Unit 2B — how sedentary modern lifestyles and highly processed foods drive Samoa's non-communicable diseases (diabetes, heart disease, hypertension, obesity, gout), and the health problems connected with inadequate physical activity (teacher guide — evidence) (original string `staying-safe/HELD-title-decision`) | Samoa, *Health and Physical Education Teacher Guide, Years 11 and 12* (Samoa Years 11–12 TG, teacher guide), printed pp. 5, 59–62 (teacher guide — evidence) |
+
+Samoa is added as curriculum-statement / teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — both Samoa books are TEACHER books (Book 1 a curriculum statement for teachers, Book 2 a teacher guide), so Samoa is named in the countries line and provenance row(s) but the acceptance count is unchanged (still taught in 2 countries). The Samoa placement was filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson `staying-safe/diseases-of-inactivity` by registry Part 2B (HELD description: "Diseases of inactivity, Introduction + Year 12 Unit 2B"), and the original string is recorded in the provenance row above. Samoa's own way is content, as the book line(s) above record it: inactivity diseases are taught as Samoa's own NCD burden — diabetes, heart disease, hypertension, obesity and gout driven by sedentary modern lifestyles and highly processed foods.
+
+Searchable tags: diseases of inactivity, sedentary lifestyle, consequences of inactivity, obesity, somatotypes body types, hypokinetic diseases, Edexcel GCSE Physical Education, United Kingdom GCSE Edexcel PE Student Book, sedentary life, Καθιστική Ζωή, sitting-still life, Cyprus Olympic Education Insert Grades 11-12, physical activity and chronic diseases النشاط البدني وعلاقته بالأمراض المزمنة, Oman G8 Teacher Guide, diseases of inactivity sedentary lifestyle processed foods diabetes heart disease hypertension obesity gout, Samoa Years 11–12 TG

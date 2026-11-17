@@ -1,6 +1,6 @@
 # Sources — Eating a Balanced Diet
 
-countries: Turkmenistan, China, El Salvador, Oman, Zambia
+countries: Turkmenistan, China, El Salvador, Oman, Zambia, Samoa
 
 **Acceptance count: taught in 3 countries.** Turkmenistan, China and El Salvador are filed as student-book stock, inside the acceptance count, in this lesson. Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count (still taught in 3 countries).
 
@@ -80,4 +80,21 @@ Oman is added as teacher-guide evidence only (see its book line and row above), 
 
 Zambia is added as teacher training manual evidence only (see its book line and row above), outside the acceptance count — the Zambia book is a TEACHER training manual, so Zambia is named in the countries line and provenance row but the acceptance count is unchanged (still taught in 3 countries). The Zambia placement was filed under the original string `fair-play-and-the-body/eating-well-food-and-our-meals`, resolved to this canonical lesson by registry Part 2 and recorded in the provenance row above. Zambia's own way is content, as the book line above records it: nutrition is taught through Zambia's own six food groups for a balanced diet. The manual is PARTIAL as filed (see its book line): Module 1 and Module 4's programme-running chapters are school-health programme administration, named and not placed, the printed contents list skips Chapter 13, and the Appendices and References are inventory-only.
 
-Searchable tags: eating a balanced diet, foundations of proper nutrition, nutrition regime, main composition of food, hygiene characterisation of food products, Turkmenistan Bedenterbiýe, nutrition and healthy eating, Chinese dietary guidelines, healthy weight, nutrition for exercise, drinking water well, China Senior High PEP PE & Health, foods of animal and plant origin, pupusas, chipilín, flor de izote, fresh and safe food, sweets and junk food golosinas, obesity tooth decay, El Salvador Ciencia Salud y Medio Ambiente 1, food groups, healthy food menu, healthy food for the body and for sport, Health Culture and Awareness, Oman G1 Teacher Guide, nutrition, Zambia six food groups, balanced diet, Zambia Health Teacher Training Manual 2025
+
+**Book — Samoa HPE Primary Curriculum Statement, Years 1–8 (curriculum statement, English):**
+- Title as printed: Health and Physical Education, Years 1–8, Primary School Curriculum
+- Grade: Years 1–8 (student/teacher: TEACHER — curriculum statement for teachers)
+- Publisher: Curriculum Materials and Assessment Division, Ministry of Education, Sports and Culture, Samoa; year 2013; ISBN 978-982-517-093-8
+- PDF pages: 56 (cover/title page verified against the record title)
+- Verdict: COMPLETE — core-content tables printed pp. 24–30 plus per-year achievement objectives pp. 31–56
+- Tally: 12 placements — 2 to existing lessons, 10 NEW LESSON NEEDED (6 of them HELD-title-decision)
+- Samoa's own way: health is taught as *soifua maloloina* — holistic well-being — through personal health, family and community strands; protection teaching is built around Samoa's real hazards (cyclones, tsunamis, rivers and sea, sasa) and real campaigns (Samoan Food Day, Diabetes Day).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/samoa-health-placements.md (Book 1 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Samoa — Food and nutrition, Years 1–7 — why we eat food, food as fuel/energy, food groups, healthy and unhealthy foods and drinks (water emphasised), energy input versus energy output, local, imported, processed, refined and whole foods, fast foods, breast milk best for babies, and the importance of fruit and vegetables (curriculum statement — evidence) (original string `staying-safe/HELD-title-decision`) | Samoa, *Health and Physical Education, Years 1–8, Primary School Curriculum* (Samoa Years 1–8 Curriculum, curriculum statement), printed pp. 24–25 (curriculum statement — evidence) |
+
+Samoa is added as curriculum-statement / teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — both Samoa books are TEACHER books (Book 1 a curriculum statement for teachers, Book 2 a teacher guide), so Samoa is named in the countries line and provenance row(s) but the acceptance count is unchanged (still taught in 3 countries). The Samoa placement was filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson `staying-safe/eating-a-balanced-diet` by registry Part 2B (HELD description: "Food and nutrition, Years 1–7"), and the original string is recorded in the provenance row above. Samoa's own way is content, as the book line(s) above record it: food is taught by Samoa's own contrasts — local against imported, whole against processed and refined, water emphasised, breast milk best for babies.
+
+Searchable tags: eating a balanced diet, foundations of proper nutrition, nutrition regime, main composition of food, hygiene characterisation of food products, Turkmenistan Bedenterbiýe, nutrition and healthy eating, Chinese dietary guidelines, healthy weight, nutrition for exercise, drinking water well, China Senior High PEP PE & Health, foods of animal and plant origin, pupusas, chipilín, flor de izote, fresh and safe food, sweets and junk food golosinas, obesity tooth decay, El Salvador Ciencia Salud y Medio Ambiente 1, food groups, healthy food menu, healthy food for the body and for sport, Health Culture and Awareness, Oman G1 Teacher Guide, nutrition, Zambia six food groups, balanced diet, Zambia Health Teacher Training Manual 2025, food and nutrition food groups energy input output local imported processed whole foods breast milk, Samoa Years 1–8 Curriculum
