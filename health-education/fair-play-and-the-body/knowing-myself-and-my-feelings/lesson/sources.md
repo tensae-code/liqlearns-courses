@@ -1,8 +1,8 @@
 # Sources — Knowing Myself and My Feelings
 
-countries: Samoa, Timor-Leste, Bulgaria
+countries: Samoa, Timor-Leste, Bulgaria, Azerbaijan
 
-**Acceptance count: taught in 2 countries.** Bulgaria is filed as student-book stock, inside the acceptance count, in this lesson. Samoa is filed as curriculum statement evidence only in this lesson — named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count).
+**Acceptance count: taught in 3 countries.** Bulgaria is filed as student-book stock, inside the acceptance count, in this lesson. Samoa is filed as curriculum statement evidence only in this lesson — named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below).
 
 **Book 1 — Samoa HPE Primary Curriculum Statement, Years 1–8 (curriculum statement, English):**
 - Title as printed: Health and Physical Education, Years 1–8, Primary School Curriculum
@@ -68,4 +68,37 @@ Timor-Leste is added as student-book stock (see its book lines and rows above), 
 
 Bulgaria is added as student-book stock (see its book line and row above), inside the acceptance count — the Bulgaria book is a STUDENT book, so Bulgaria is named in the countries line and provenance row and the acceptance count rises from 1 to 2 countries. The Bulgaria placement was filed under the original string `staying-safe/body-image-and-the-perfect-figure`, resolved to this canonical lesson `fair-play-and-the-body/knowing-myself-and-my-feelings` by registry Part 2 and recorded in the provenance row above. Bulgaria's own way is content, as the book line above records it: the "perfect figure in no time" body-image promise is questioned in a structured discussion lesson ("Гледна точка") in the Grade 8 book. This lesson teaches its placement only as the placements file summarises it, and names nothing the summary does not name.
 
-Searchable tags: knowing myself feelings, personal identity self-esteem, cultural spiritual beliefs values, social messages stereotyping media, personal strengths teenage challenges, Samoa Years 1–8 Curriculum, self-esteem self-worth body image what lowers confidence, resilience confidence, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, body image perfect figure in a short time discussion, Bulgaria Biology and Health Education Grade 8 Pedagog 6
+
+## Azerbaijan — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/azerbaijan-health-placements.md. The Azerbaijan books stocked in this lesson are Book 1, Book 2. All five Azerbaijan books are STUDENT books (Georgian-language editions of the Fiziki Tərbiyə textbooks), so Azerbaijan is student-book stock, inside the acceptance count, in this lesson. Azerbaijan's Health placements are the Health chapters of the same Fiziki Tərbiyə student books whose PE chapters are filed in azerbaijan-pe-placements.md (combined-book rule, as filed). Two Azerbaijan placements in the file as a whole (both filed under `staying-safe/eating-for-exercise`) resolve to a PE-course lesson and were excluded from Health — see CURRICULUM.md; no Azerbaijan placement in this lesson was excluded.
+
+**Book 1 — Fiziki Tərbiyə 6 (student book, Georgian-language edition) — Health chapters:**
+- Title as printed: ფიზიკური აღზრდა 6 — სახელმძღვანელო (Physical Education 6 — Textbook)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Ministry of Education of Azerbaijan, Baku; year 2018; ISBN no ISBN printed
+- PDF pages: 164 (title page verified)
+- Verdict: COMPLETE
+- Tally: 14 placements — 2 to existing lessons, 12 NEW LESSON NEEDED (incl. 6 HELD)
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/azerbaijan-health-placements.md (the PE parts of the same book are filed in azerbaijan-pe-placements.md).
+- Azerbaijan's own way: health is taught inside the Fiziki Tərbiyə PE textbooks as opening theory chapters — knowing your own body and its development, how exercise acts on the body's main systems, hardening the body with air, sun and water, hygiene for exercise, harmful habits, and a sample self-control diary for monitoring your own state during exercise.
+
+**Book 2 — Fiziki Tərbiyə 7 (student book, Georgian-language edition) — Health chapters:**
+- Title as printed: ფიზიკური აღზრდა 7 — სახელმძღვანელო (Physical Education 7 — Textbook)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education of Azerbaijan, Baku; year 2018; ISBN no ISBN printed
+- PDF pages: 140 (title page verified)
+- Verdict: COMPLETE
+- Tally: 5 placements — 1 to existing lessons, 4 NEW LESSON NEEDED (incl. 3 HELD)
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/azerbaijan-health-placements.md (the PE parts of the same book are filed in azerbaijan-pe-placements.md).
+- Azerbaijan's own way: health is taught inside the Fiziki Tərbiyə PE textbooks as opening theory chapters — knowing your own body and its development, how exercise acts on the body's main systems, hardening the body with air, sun and water, hygiene for exercise, harmful habits, and a sample self-control diary for monitoring your own state during exercise.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Azerbaijan — Psychological Features of Pupils' Development — how pupils of this age develop (original string `staying-safe/HELD-title-decision`) | Azerbaijan Grade 6 Fiziki Tərbiyə, printed p. 23 |
+| Azerbaijan — Learn to Manage Yourself! — self-management in daily life and exercise (original string `fair-play-and-the-body/managing-yourself`) | Azerbaijan Grade 6 Fiziki Tərbiyə, printed p. 25 |
+| Azerbaijan — Features of the Adolescent's Formation as a Personality (original string `staying-safe/HELD-title-decision`) | Azerbaijan Grade 7 Fiziki Tərbiyə, printed p. 16 |
+
+Azerbaijan is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — all five Azerbaijan books are STUDENT books, so Azerbaijan is named in the countries line and provenance row(s) and the acceptance count rises from 2 to 3 countries. The Azerbaijan placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the slug registry (Part 2B for HELD-title-decision lines, Part 2A for descriptive slug strings; placements filed directly under this lesson's own slug, or under its canonical NEW string, are recorded as filed), and the original string is recorded in each provenance row above. Azerbaijan's own way is content, as the book lines above record it: health is taught inside the Fiziki Tərbiyə textbooks as opening theory chapters, including hardening the body and a sample self-control diary. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: knowing myself feelings, personal identity self-esteem, cultural spiritual beliefs values, social messages stereotyping media, personal strengths teenage challenges, Samoa Years 1–8 Curriculum, self-esteem self-worth body image what lowers confidence, resilience confidence, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, body image perfect figure in a short time discussion, Bulgaria Biology and Health Education Grade 8 Pedagog 6, Azerbaijan Fiziki Tərbiyə Grades 6-10, Georgian-language edition, hardening the body, self-control diary

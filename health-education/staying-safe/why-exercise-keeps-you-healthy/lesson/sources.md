@@ -1,8 +1,8 @@
 # Sources — Why Exercise Keeps You Healthy
 
-countries: Haiti, Rwanda, Oman, Samoa, Honduras, Greece
+countries: Haiti, Rwanda, Oman, Samoa, Honduras, Greece, Azerbaijan
 
-**Acceptance count: taught in 2 countries.** Haiti and Rwanda are filed as teacher-programme / teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. Oman is likewise filed as teacher-guide evidence only, outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count — the first pupil's book in hand for this lesson. Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below).
+**Acceptance count: taught in 3 countries.** Haiti and Rwanda are filed as teacher-programme / teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. Oman is likewise filed as teacher-guide evidence only, outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count — the first pupil's book in hand for this lesson. Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below).
 
 **Book 3 (Haiti placements file) — Programme-Cadre de toutes les Matières, Nouveau Secondaire NS1–NS4 (teacher framework programme, French) — Health parts:**
 - Title as printed: Programme-Cadre de toutes les Matières — Nouveau Secondaire (MENFP/DES)
@@ -137,4 +137,38 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/greece-healt
 
 Greece is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — both Greece books are STUDENT books, so Greece is named in the countries line and provenance row(s) and the acceptance count rises from 1 to 2 countries. The Greece placement(s) in this lesson were filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson by registry Part 2B (HELD description as recorded in the provenance row), and the original string is recorded in each provenance row above. Greece's own way is content, as the book lines above record it: health is taught as self-measurement — pupils judge their own fitness category from a test and build a personal exercise plan — and the Gymnasium book teaches the value of lifelong exercise as a chapter in its own right. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: why exercise keeps you healthy, physical activity improves health, conference-debates, cooperation and communication for health, Theme 1, Haiti Programme-Cadre NS Grades 10-13, MENFP, walking fast and running or jogging for health and well-being, brisk walking and jogging as health exercise, basic exercises of the circulatory and respiratory systems, exercises that work the heart and lungs, Rwanda Grade 3 PES Teacher Guide, Rwanda Grade 5 PE Teacher Guide MK Publishers, REB Rwanda, physical activity النشاط البدني, sport and health الرياضة والصحة, Oman G3 Teacher Guide, fitness concepts total fitness keep-fit programme log tapuaiga peer pressure, Samoa Years 11–12 TG, Mi condición física es la mejor, beneficial effects of systematic exercise physiological psychological social, Honduras Telebásica Grade 9, exercise and good health, how much exercise we need, cardiorespiratory endurance, flexibility forever, make a plan exercise plan, what is exercise, benefits of exercise for health, aerobic exercise and health, skills and factors of physical fitness, Greece Grades 5-6 Fysiki Agogi E-ST, Greece Grades 7-9 Fysiki Agogi Gymnasiou
+
+## Azerbaijan — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/azerbaijan-health-placements.md. The Azerbaijan books stocked in this lesson are Book 1, Book 4. All five Azerbaijan books are STUDENT books (Georgian-language editions of the Fiziki Tərbiyə textbooks), so Azerbaijan is student-book stock, inside the acceptance count, in this lesson. Azerbaijan's Health placements are the Health chapters of the same Fiziki Tərbiyə student books whose PE chapters are filed in azerbaijan-pe-placements.md (combined-book rule, as filed). Two Azerbaijan placements in the file as a whole (both filed under `staying-safe/eating-for-exercise`) resolve to a PE-course lesson and were excluded from Health — see CURRICULUM.md; no Azerbaijan placement in this lesson was excluded.
+
+**Book 1 — Fiziki Tərbiyə 6 (student book, Georgian-language edition) — Health chapters:**
+- Title as printed: ფიზიკური აღზრდა 6 — სახელმძღვანელო (Physical Education 6 — Textbook)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Ministry of Education of Azerbaijan, Baku; year 2018; ISBN no ISBN printed
+- PDF pages: 164 (title page verified)
+- Verdict: COMPLETE
+- Tally: 14 placements — 2 to existing lessons, 12 NEW LESSON NEEDED (incl. 6 HELD)
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/azerbaijan-health-placements.md (the PE parts of the same book are filed in azerbaijan-pe-placements.md).
+- Azerbaijan's own way: health is taught inside the Fiziki Tərbiyə PE textbooks as opening theory chapters — knowing your own body and its development, how exercise acts on the body's main systems, hardening the body with air, sun and water, hygiene for exercise, harmful habits, and a sample self-control diary for monitoring your own state during exercise.
+
+**Book 4 — Fiziki Tərbiyə 9 (student book, Georgian-language edition) — Health chapters:**
+- Title as printed: ფიზიკური აღზრდა 9 — სახელმძღვანელო (Physical Education 9 — Textbook)
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Ministry of Education of Azerbaijan, Baku; year 2018; ISBN no ISBN printed
+- PDF pages: 204 (title page verified)
+- Verdict: COMPLETE
+- Tally: 5 placements — 1 to existing lessons, 4 NEW LESSON NEEDED (incl. 3 HELD)
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/azerbaijan-health-placements.md (the PE parts of the same book are filed in azerbaijan-pe-placements.md).
+- Azerbaijan's own way: health is taught inside the Fiziki Tərbiyə PE textbooks as opening theory chapters — knowing your own body and its development, how exercise acts on the body's main systems, hardening the body with air, sun and water, hygiene for exercise, harmful habits, and a sample self-control diary for monitoring your own state during exercise.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Azerbaijan — The Importance of Movement for Strengthening Health — why moving keeps you healthy (original string `staying-safe/HELD-title-decision`) | Azerbaijan Grade 6 Fiziki Tərbiyə, printed p. 38 |
+| Azerbaijan — Part I: The Role of Physical Culture and Sport in Strengthening Health and Preventing Disease (original string `staying-safe/HELD-title-decision`) | Azerbaijan Grade 9 Fiziki Tərbiyə, printed p. 9 |
+| Azerbaijan — Part I: Strengthening the Respiratory System (original string `staying-safe/HELD-title-decision`) | Azerbaijan Grade 9 Fiziki Tərbiyə, printed p. 33 |
+| Azerbaijan — Part I: Strengthening the Cardiovascular System (original string `staying-safe/HELD-title-decision`) | Azerbaijan Grade 9 Fiziki Tərbiyə, printed p. 35 |
+
+Azerbaijan is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — all five Azerbaijan books are STUDENT books, so Azerbaijan is named in the countries line and provenance row(s) and the acceptance count rises from 2 to 3 countries. The Azerbaijan placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the slug registry (Part 2B for HELD-title-decision lines, Part 2A for descriptive slug strings; placements filed directly under this lesson's own slug, or under its canonical NEW string, are recorded as filed), and the original string is recorded in each provenance row above. Azerbaijan's own way is content, as the book lines above record it: health is taught inside the Fiziki Tərbiyə textbooks as opening theory chapters, including hardening the body and a sample self-control diary. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: why exercise keeps you healthy, physical activity improves health, conference-debates, cooperation and communication for health, Theme 1, Haiti Programme-Cadre NS Grades 10-13, MENFP, walking fast and running or jogging for health and well-being, brisk walking and jogging as health exercise, basic exercises of the circulatory and respiratory systems, exercises that work the heart and lungs, Rwanda Grade 3 PES Teacher Guide, Rwanda Grade 5 PE Teacher Guide MK Publishers, REB Rwanda, physical activity النشاط البدني, sport and health الرياضة والصحة, Oman G3 Teacher Guide, fitness concepts total fitness keep-fit programme log tapuaiga peer pressure, Samoa Years 11–12 TG, Mi condición física es la mejor, beneficial effects of systematic exercise physiological psychological social, Honduras Telebásica Grade 9, exercise and good health, how much exercise we need, cardiorespiratory endurance, flexibility forever, make a plan exercise plan, what is exercise, benefits of exercise for health, aerobic exercise and health, skills and factors of physical fitness, Greece Grades 5-6 Fysiki Agogi E-ST, Greece Grades 7-9 Fysiki Agogi Gymnasiou, Azerbaijan Fiziki Tərbiyə Grades 6-10, Georgian-language edition, hardening the body, self-control diary

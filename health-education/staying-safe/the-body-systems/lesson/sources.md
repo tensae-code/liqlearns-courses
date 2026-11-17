@@ -1,8 +1,8 @@
 # Sources — The Body Systems
 
-countries: Croatia, Honduras, Myanmar, Greece
+countries: Croatia, Honduras, Myanmar, Greece, Azerbaijan
 
-**Acceptance count: taught in 4 countries.** Croatia is filed as student-book stock, inside the acceptance count, in this lesson — as a publisher SAMPLE read, exactly as filed (see the book line below). Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guide stocked here is teacher-guide evidence only, outside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count. Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below).
+**Acceptance count: taught in 5 countries.** Croatia is filed as student-book stock, inside the acceptance count, in this lesson — as a publisher SAMPLE read, exactly as filed (see the book line below). Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guide stocked here is teacher-guide evidence only, outside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count. Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below).
 
 **Book 1 — Čovjek i zdravlje (student book, Croatian):**
 - Title as printed: Čovjek i zdravlje — Udžbenik iz biologije za strukovne škole (Biology textbook for vocational schools)
@@ -93,4 +93,27 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/greece-healt
 
 Greece is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — both Greece books are STUDENT books, so Greece is named in the countries line and provenance row(s) and the acceptance count rises from 3 to 4 countries. The Greece placement(s) in this lesson were filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson by registry Part 2B (HELD description as recorded in the provenance row), and the original string is recorded in each provenance row above. Greece's own way is content, as the book line above records it: muscles and bones are taught in movement — force makes things move — and stopping exercise is taught as ageing the body faster. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: body systems, cells tissues organs organ systems, blood red cells white cells platelets, transport of substances, homeostasis, Croatia, Čovjek i zdravlje, Mi cuerpo es una máquina perfecta, structure of the human body, cardiovascular lymphatic skeletal articular systems, Honduras Telebásica Grades 7, body systems in sport, respiratory circulatory muscular nervous systems, Myanmar PE Textbook Grade 10, ကာယပညာ, muscles bones and movement, Μύες οστά και κίνηση, force makes things move, stopping exercise ages the body faster, Greece Grades 5-6 Fysiki Agogi E-ST
+
+## Azerbaijan — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/azerbaijan-health-placements.md. The Azerbaijan books stocked in this lesson are Book 3. All five Azerbaijan books are STUDENT books (Georgian-language editions of the Fiziki Tərbiyə textbooks), so Azerbaijan is student-book stock, inside the acceptance count, in this lesson. Book 3 is PARTIAL as filed — a contents-level read of an image-only copy — and its rows keep that label. Azerbaijan's Health placements are the Health chapters of the same Fiziki Tərbiyə student books whose PE chapters are filed in azerbaijan-pe-placements.md (combined-book rule, as filed). Two Azerbaijan placements in the file as a whole (both filed under `staying-safe/eating-for-exercise`) resolve to a PE-course lesson and were excluded from Health — see CURRICULUM.md; no Azerbaijan placement in this lesson was excluded.
+
+**Book 3 — Fiziki Tərbiyə 8 (student book, Georgian-language edition) — Health chapters:**
+- Title as printed: ფიზიკური აღზრდა — სახელმძღვანელო (Physical Education — Textbook for Grade 8)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: «ASPOLİQRAF», Baku; year no year printed on the pages read; ISBN no ISBN printed
+- PDF pages: 147 (cover verified; image-only copy — read from rendered pages: cover, title page, full contents, opening theory chapters; verdict PARTIAL as in the PE file)
+- Verdict: PARTIAL — contents-level read (see azerbaijan-pe-placements.md, Book 3)
+- Tally: 10 placements — 3 to existing lessons, 7 NEW LESSON NEEDED (incl. 5 HELD)
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/azerbaijan-health-placements.md (the PE parts of the same book are filed in azerbaijan-pe-placements.md).
+- Azerbaijan's own way: health is taught inside the Fiziki Tərbiyə PE textbooks as opening theory chapters — knowing your own body and its development, how exercise acts on the body's main systems, hardening the body with air, sun and water, hygiene for exercise, harmful habits, and a sample self-control diary for monitoring your own state during exercise.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Azerbaijan — Part I: The Muscular System (original string `staying-safe/HELD-title-decision`) | Azerbaijan Grade 8 Fiziki Tərbiyə, printed p. 9 |
+| Azerbaijan — Part I: The Endocrine System (original string `staying-safe/HELD-title-decision`) | Azerbaijan Grade 8 Fiziki Tərbiyə, printed p. 13 |
+| Azerbaijan — Part I: The Cardiovascular System (original string `staying-safe/HELD-title-decision`) | Azerbaijan Grade 8 Fiziki Tərbiyə, printed p. 14 |
+
+Azerbaijan is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — all five Azerbaijan books are STUDENT books, so Azerbaijan is named in the countries line and provenance row(s) and the acceptance count rises from 4 to 5 countries. The Azerbaijan placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the slug registry (Part 2B for HELD-title-decision lines, Part 2A for descriptive slug strings; placements filed directly under this lesson's own slug, or under its canonical NEW string, are recorded as filed), and the original string is recorded in each provenance row above. Azerbaijan's own way is content, as the book lines above record it: health is taught inside the Fiziki Tərbiyə textbooks as opening theory chapters, including hardening the body and a sample self-control diary. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: body systems, cells tissues organs organ systems, blood red cells white cells platelets, transport of substances, homeostasis, Croatia, Čovjek i zdravlje, Mi cuerpo es una máquina perfecta, structure of the human body, cardiovascular lymphatic skeletal articular systems, Honduras Telebásica Grades 7, body systems in sport, respiratory circulatory muscular nervous systems, Myanmar PE Textbook Grade 10, ကာယပညာ, muscles bones and movement, Μύες οστά και κίνηση, force makes things move, stopping exercise ages the body faster, Greece Grades 5-6 Fysiki Agogi E-ST, Azerbaijan Fiziki Tərbiyə Grades 6-10, Georgian-language edition, hardening the body, self-control diary

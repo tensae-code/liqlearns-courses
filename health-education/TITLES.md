@@ -225,3 +225,25 @@ its back cover — both named) and Book 4's LIBRARY DEBT
 (record claims secured but the file was absent from the
 GitHub tree; ministry copy now staged in phase3-staging)
 are carried as filed — see CURRICULUM.md.
+
+The Health expansion then added (Azerbaijan): no new lessons —
+33 placements stocked into existing lessons (Your Body in
+Exercise ×6, Why Exercise Keeps You Healthy ×4, Knowing
+Myself and My Feelings ×3, Healthy Habits Every Day ×3, The
+Body Systems ×3, Hygiene for Sport ×2, Hardening the Body
+×2, Preventing Sports Injuries and First Aid ×2,
+Self-Defence Techniques ×2, Knowing My Body, Saying No to
+Drugs, Alcohol and Tobacco, Water Safety, Puberty and
+Growing Up, Staying Safe While Exercising, Staying Safe in
+Disasters) — this course stays at 47 lessons. All five
+Azerbaijan books (Fiziki Tərbiyə, Grades 6–10, Georgian-language
+editions) are student books, so each touched lesson's
+acceptance count rose by 1; Book 3 (Grade 8) is PARTIAL as
+filed — a contents-level read of an image-only copy — and
+its rows keep that label. Two Azerbaijan placements (both
+filed under `staying-safe/eating-for-exercise`, Grade 6
+printed p. 48 and Grade 8 printed p. 133) resolve to the PE
+course's Sports Nutrition and Hydration lesson and were
+excluded here; they are not yet stocked in PE either
+(verified by git grep on origin/main — see CURRICULUM.md).
+

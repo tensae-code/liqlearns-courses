@@ -1,8 +1,8 @@
 # Sources — Healthy Habits Every Day
 
-countries: Jordan, China, Oman, Honduras
+countries: Jordan, China, Oman, Honduras, Azerbaijan
 
-**Acceptance count: taught in 3 countries.** Jordan and China are filed as student-book stock, inside the acceptance count, in this lesson. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count.
+**Acceptance count: taught in 4 countries.** Jordan and China are filed as student-book stock, inside the acceptance count, in this lesson. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below).
 
 **Book 1 — التربية الرياضية — الصف الأول الأساسي — الفصل الدراسي الثاني (Physical Education, First Basic Grade, Second Semester) (student book, Arabic):**
 - Title as printed: التربية الرياضية — الصف الأول الأساسي — الفصل الدراسي الثاني (Physical Education, First Basic Grade, Second Semester)
@@ -79,4 +79,37 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/honduras-hea
 | Honduras — Bloque III Secuencia 2 — healthy-life habits: a balanced diet, sleep, proper medical check-ups, exercise and outdoor life (fitness-concept material that fits neither Health title) (original string `staying-safe/HELD-title-decision`) | Honduras Grade 9 HN G9 student, printed p. 120 |
 
 Honduras is added as student-book stock (see its book line and row above), inside the acceptance count — Book 4 is a STUDENT book, so Honduras is named in the countries line and provenance row and the acceptance count rises from 2 to 3 countries. The Honduras placement was filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson `staying-safe/healthy-habits-every-day` by registry Part 2B, and the original string is recorded in the provenance row above.
-Searchable tags: healthy habits every day, daily healthy habits, healthy and unhealthy pictures, Movement and Health, Jordan NCCD Physical Education Grade 1, healthy lifestyle and preventing disease, building healthy behaviour, balanced diet, mental balance, scientific exercise, preventing chronic non-communicable diseases, diabetes, China Senior High PEP PE & Health, sport is our life الرياضة حياتنا, the healthy lifestyle نمط الحياة الصحي, Oman G5 Teacher Guide, Oman G7 Teacher Guide, healthy-life habits balanced diet sleep medical check-ups exercise outdoor life, Honduras Telebásica Grade 9
+
+## Azerbaijan — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/azerbaijan-health-placements.md. The Azerbaijan books stocked in this lesson are Book 1, Book 4. All five Azerbaijan books are STUDENT books (Georgian-language editions of the Fiziki Tərbiyə textbooks), so Azerbaijan is student-book stock, inside the acceptance count, in this lesson. Azerbaijan's Health placements are the Health chapters of the same Fiziki Tərbiyə student books whose PE chapters are filed in azerbaijan-pe-placements.md (combined-book rule, as filed). Two Azerbaijan placements in the file as a whole (both filed under `staying-safe/eating-for-exercise`) resolve to a PE-course lesson and were excluded from Health — see CURRICULUM.md; no Azerbaijan placement in this lesson was excluded.
+
+**Book 1 — Fiziki Tərbiyə 6 (student book, Georgian-language edition) — Health chapters:**
+- Title as printed: ფიზიკური აღზრდა 6 — სახელმძღვანელო (Physical Education 6 — Textbook)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Ministry of Education of Azerbaijan, Baku; year 2018; ISBN no ISBN printed
+- PDF pages: 164 (title page verified)
+- Verdict: COMPLETE
+- Tally: 14 placements — 2 to existing lessons, 12 NEW LESSON NEEDED (incl. 6 HELD)
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/azerbaijan-health-placements.md (the PE parts of the same book are filed in azerbaijan-pe-placements.md).
+- Azerbaijan's own way: health is taught inside the Fiziki Tərbiyə PE textbooks as opening theory chapters — knowing your own body and its development, how exercise acts on the body's main systems, hardening the body with air, sun and water, hygiene for exercise, harmful habits, and a sample self-control diary for monitoring your own state during exercise.
+
+**Book 4 — Fiziki Tərbiyə 9 (student book, Georgian-language edition) — Health chapters:**
+- Title as printed: ფიზიკური აღზრდა 9 — სახელმძღვანელო (Physical Education 9 — Textbook)
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Ministry of Education of Azerbaijan, Baku; year 2018; ISBN no ISBN printed
+- PDF pages: 204 (title page verified)
+- Verdict: COMPLETE
+- Tally: 5 placements — 1 to existing lessons, 4 NEW LESSON NEEDED (incl. 3 HELD)
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/azerbaijan-health-placements.md (the PE parts of the same book are filed in azerbaijan-pe-placements.md).
+- Azerbaijan's own way: health is taught inside the Fiziki Tərbiyə PE textbooks as opening theory chapters — knowing your own body and its development, how exercise acts on the body's main systems, hardening the body with air, sun and water, hygiene for exercise, harmful habits, and a sample self-control diary for monitoring your own state during exercise.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Azerbaijan — A Healthy Lifestyle — the healthy way of living (original string `staying-safe/healthy-lifestyle`) | Azerbaijan Grade 6 Fiziki Tərbiyə, printed p. 29 |
+| Azerbaijan — The Main Factors Affecting Human Health (original string `staying-safe/what-keeps-us-healthy`) | Azerbaijan Grade 6 Fiziki Tərbiyə, printed p. 43 |
+| Azerbaijan — Part I: Strengthening and Preserving Health (original string `staying-safe/strengthening-and-keeping-health`) | Azerbaijan Grade 9 Fiziki Tərbiyə, printed p. 24 |
+
+Azerbaijan is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — all five Azerbaijan books are STUDENT books, so Azerbaijan is named in the countries line and provenance row(s) and the acceptance count rises from 3 to 4 countries. The Azerbaijan placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the slug registry (Part 2B for HELD-title-decision lines, Part 2A for descriptive slug strings; placements filed directly under this lesson's own slug, or under its canonical NEW string, are recorded as filed), and the original string is recorded in each provenance row above. Azerbaijan's own way is content, as the book lines above record it: health is taught inside the Fiziki Tərbiyə textbooks as opening theory chapters, including hardening the body and a sample self-control diary. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: healthy habits every day, daily healthy habits, healthy and unhealthy pictures, Movement and Health, Jordan NCCD Physical Education Grade 1, healthy lifestyle and preventing disease, building healthy behaviour, balanced diet, mental balance, scientific exercise, preventing chronic non-communicable diseases, diabetes, China Senior High PEP PE & Health, sport is our life الرياضة حياتنا, the healthy lifestyle نمط الحياة الصحي, Oman G5 Teacher Guide, Oman G7 Teacher Guide, healthy-life habits balanced diet sleep medical check-ups exercise outdoor life, Honduras Telebásica Grade 9, Azerbaijan Fiziki Tərbiyə Grades 6-10, Georgian-language edition, hardening the body, self-control diary

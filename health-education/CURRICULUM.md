@@ -619,3 +619,57 @@ their own right.
 
 6. **Mental Health and Wellbeing** (`fair-play-and-the-body/mental-health-and-wellbeing`) — mental health and wellbeing: looking after the mind — stress, resilience, emotional balance, mental illness and getting help, including psychological first aid — taught in China's Senior High PEP PE & Health book as growing mental health: knowing yourself, and adapting to society, in the mental-health-and-social-adaptation section (printed p. 68).
 7. **Knowing Myself and My Feelings** (`fair-play-and-the-body/knowing-myself-and-my-feelings`) — knowing myself and my feelings: who I am, my body image and self-esteem, naming and expressing feelings, and human needs and wants — taught in Samoa's Years 1–8 Curriculum as identity and self-worth: personal identity and self-esteem, who they are and where they are from, the role of cultural and spiritual beliefs and values, social messages, stereotyping and media, personal strengths, and the challenges of teenage life (Samoa curriculum statement, evidence only).
+
+**Health expansion — Azerbaijan — BUILT 2026-11-16:** 33 placements
+stocked — all from the Azerbaijan Health placements file (5
+records / 5 distinct books, the Fiziki Tərbiyə PE textbooks,
+Grades 6–10, Georgian-language editions — the records are
+PE-tagged, but each book carries explicit Health chapters,
+filed here under the combined-book rule; the PE parts are in
+azerbaijan-pe-placements.md): Book 1, *Fiziki Tərbiyə 6*
+(Grade 6 student book, Ministry of Education of Azerbaijan,
+Baku, 2018, COMPLETE); Book 2, *Fiziki Tərbiyə 7* (Grade 7
+student book, Ministry of Education of Azerbaijan, Baku,
+2018, COMPLETE); Book 3, *Fiziki Tərbiyə 8* (Grade 8 student
+book, «ASPOLİQRAF», Baku, no year printed, PARTIAL as filed —
+contents-level read of an image-only copy); Book 4, *Fiziki
+Tərbiyə 9* (Grade 9 student book, Ministry of Education of
+Azerbaijan, Baku, 2018, COMPLETE); Book 5, *Fiziki Tərbiyə 10*
+(Grade 10 student book, Ministry of Education of Azerbaijan,
+2017, COMPLETE) — all into existing lessons (Your Body in
+Exercise ×6, Why Exercise Keeps You Healthy ×4, Knowing
+Myself and My Feelings ×3, Healthy Habits Every Day ×3, The
+Body Systems ×3, Hygiene for Sport ×2, Hardening the Body
+×2, Preventing Sports Injuries and First Aid ×2,
+Self-Defence Techniques ×2, Knowing My Body, Saying No to
+Drugs, Alcohol and Tobacco, Water Safety, Puberty and
+Growing Up, Staying Safe While Exercising, Staying Safe in
+Disasters) and no new lessons — this course stays at
+**47 lessons**. All five Azerbaijan books are STUDENT books,
+so Azerbaijan is student-book stock, inside the acceptance
+counts (each touched lesson's count rose by 1). 17 of the 33
+stocked placements were filed as HELD-title-decision lines,
+resolved by registry Part 2B; 7 were filed under descriptive
+slug strings, resolved by registry Part 2A; 9 were filed
+directly under existing-lesson slugs or the canonical NEW
+string itself. Honesty notes carried exactly as filed: Book
+3 is PARTIAL as filed — an image-only copy read from rendered
+pages (cover, title page, full contents, opening theory
+chapters) — and its rows keep that label. PE-BOUND
+EXCLUSION: 2 of the file's 35 placements were NOT stocked in
+Health because the registry resolves them to a PE-course
+lesson — both filed under `staying-safe/eating-for-exercise`
+(Book 1, Grade 6, printed p. 48, Nutrition Regime During
+Physical Exercise Sessions; Book 3, Grade 8, printed p. 133,
+Part III: Nutrition During Individual Exercise) → PE
+canonical `fitness-and-stretching/sports-nutrition-and-hydration`.
+Verified by git grep on origin/main: Azerbaijan is NOT yet
+stocked in that PE lesson (no Azerbaijan rows in
+physical-education/fitness-and-stretching/sports-nutrition-and-hydration)
+— the coordinator will dispatch a PE fix-up; the placements
+are not silently dropped. Azerbaijan's own way is recorded
+as content in the book lines: health taught inside the
+Fiziki Tərbiyə textbooks as opening theory chapters —
+knowing your own body, how exercise acts on the body's main
+systems, hardening with air, sun and water, hygiene for
+exercise, harmful habits, and a sample self-control diary.

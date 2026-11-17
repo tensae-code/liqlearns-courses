@@ -1,6 +1,6 @@
 # Sources — Self-Defence Techniques — Stance, Escapes, Blocks and Strikes, Grappling
 
-countries: Ethiopia, Laos, China
+countries: Ethiopia, Laos, China, Azerbaijan
 
 **Book 1:** *Health and Physical Education Student's Textbook Grade 9* (student textbook, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, First Published August 2023, under GEQIP-E, ISBN 978-99990-0-072-7, printed pp. 1–156 (167 PDF pages). Printed page = PDF page − 10. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g09-student-placements.md.
 
@@ -24,7 +24,7 @@ countries: Ethiopia, Laos, China
 | Laos — Lesson 17 Teaching mid-range strikes and throws — striking at mid range and throwing a partner (teacher guide — evidence) (filed under `staying-safe/self-defence-techniques`, this lesson itself) | Laos, *ຄູ່ມືຄູ ພະລະສຶກສາ ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 4 (G9 PE Teacher Guide 2013)*, Lesson 17, printed p. 65 (teacher guide — evidence) |
 | China — 第十一章 第一节 武术（四）防身术 — wushu self-defence methods (filed under `staying-safe/self-defence-techniques`, this lesson itself) | China, *普通高中教科书·体育与健康必修 全一册 (PEP Senior-High PE & Health, Compulsory, Complete Volume)*, 第十一章 第一节 武术（四）防身术， printed p. 202 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, China).**
+**Acceptance count: taught in 3 countries (Ethiopia, China, Azerbaijan).** Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below).
 
 Laos is added as teacher-guide evidence only (see its book line and rows above), outside the acceptance count — the Laos book is a TEACHER guide, so Laos is named in the countries line and provenance rows but the acceptance count is unchanged. Both Laos placements were filed under the slug `staying-safe/self-defence-techniques`, this lesson itself.
 
@@ -32,4 +32,36 @@ The practice safety rules taught in sub lesson 3 are the Grade 9 teacher guide's
 
 China is added as student-book stock (see its book line and row above), inside the acceptance count — the China book is a STUDENT book, so China is named in the countries line and provenance row and the acceptance count rises from 1 to 2 countries. The China placement was filed under the slug `staying-safe/self-defence-techniques`, this lesson itself. China's own way is content, as the book line above records it: self-defence is taught inside the wushu chapter as wushu self-defence methods （防身术）.
 
-Searchable tags: self-defence techniques, basic stance, escaping grabs bear hug headlock, inward block outward block, front kick, heel palm strike, elbow strike, grappling, practice safety rules, Ethiopia HPE Grade 9, ground fighting and falling, mid-range strikes and throws, Laos PE Teacher Guide Grade 9, wushu self-defence methods, 防身术， China Senior High PEP PE & Health
+
+## Azerbaijan — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/azerbaijan-health-placements.md. The Azerbaijan books stocked in this lesson are Book 2, Book 4. All five Azerbaijan books are STUDENT books (Georgian-language editions of the Fiziki Tərbiyə textbooks), so Azerbaijan is student-book stock, inside the acceptance count, in this lesson. Azerbaijan's Health placements are the Health chapters of the same Fiziki Tərbiyə student books whose PE chapters are filed in azerbaijan-pe-placements.md (combined-book rule, as filed). Two Azerbaijan placements in the file as a whole (both filed under `staying-safe/eating-for-exercise`) resolve to a PE-course lesson and were excluded from Health — see CURRICULUM.md; no Azerbaijan placement in this lesson was excluded.
+
+**Book 2 — Fiziki Tərbiyə 7 (student book, Georgian-language edition) — Health chapters:**
+- Title as printed: ფიზიკური აღზრდა 7 — სახელმძღვანელო (Physical Education 7 — Textbook)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education of Azerbaijan, Baku; year 2018; ISBN no ISBN printed
+- PDF pages: 140 (title page verified)
+- Verdict: COMPLETE
+- Tally: 5 placements — 1 to existing lessons, 4 NEW LESSON NEEDED (incl. 3 HELD)
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/azerbaijan-health-placements.md (the PE parts of the same book are filed in azerbaijan-pe-placements.md).
+- Azerbaijan's own way: health is taught inside the Fiziki Tərbiyə PE textbooks as opening theory chapters — knowing your own body and its development, how exercise acts on the body's main systems, hardening the body with air, sun and water, hygiene for exercise, harmful habits, and a sample self-control diary for monitoring your own state during exercise.
+
+**Book 4 — Fiziki Tərbiyə 9 (student book, Georgian-language edition) — Health chapters:**
+- Title as printed: ფიზიკური აღზრდა 9 — სახელმძღვანელო (Physical Education 9 — Textbook)
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Ministry of Education of Azerbaijan, Baku; year 2018; ISBN no ISBN printed
+- PDF pages: 204 (title page verified)
+- Verdict: COMPLETE
+- Tally: 5 placements — 1 to existing lessons, 4 NEW LESSON NEEDED (incl. 3 HELD)
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/azerbaijan-health-placements.md (the PE parts of the same book are filed in azerbaijan-pe-placements.md).
+- Azerbaijan's own way: health is taught inside the Fiziki Tərbiyə PE textbooks as opening theory chapters — knowing your own body and its development, how exercise acts on the body's main systems, hardening the body with air, sun and water, hygiene for exercise, harmful habits, and a sample self-control diary for monitoring your own state during exercise.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Azerbaijan — Freeing Yourself from Grips — escaping holds and grips (wrestling/self-defence element inside the football part) (original string `staying-safe/self-defence-techniques`) | Azerbaijan Grade 7 Fiziki Tərbiyə, printed p. 93 |
+| Azerbaijan — Part III: Self-Defence Elements (original string `staying-safe/self-defence-techniques`) | Azerbaijan Grade 9 Fiziki Tərbiyə, printed p. 180 |
+
+Azerbaijan is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — all five Azerbaijan books are STUDENT books, so Azerbaijan is named in the countries line and provenance row(s) and the acceptance count rises from 2 to 3 countries. The Azerbaijan placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the slug registry (Part 2B for HELD-title-decision lines, Part 2A for descriptive slug strings; placements filed directly under this lesson's own slug, or under its canonical NEW string, are recorded as filed), and the original string is recorded in each provenance row above. Azerbaijan's own way is content, as the book lines above record it: health is taught inside the Fiziki Tərbiyə textbooks as opening theory chapters, including hardening the body and a sample self-control diary. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: self-defence techniques, basic stance, escaping grabs bear hug headlock, inward block outward block, front kick, heel palm strike, elbow strike, grappling, practice safety rules, Ethiopia HPE Grade 9, ground fighting and falling, mid-range strikes and throws, Laos PE Teacher Guide Grade 9, wushu self-defence methods, 防身术， China Senior High PEP PE & Health, Azerbaijan Fiziki Tərbiyə Grades 6-10, Georgian-language edition, hardening the body, self-control diary

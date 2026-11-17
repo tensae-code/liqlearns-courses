@@ -1,8 +1,8 @@
 # Sources — Staying Safe in Disasters
 
-countries: El Salvador, Samoa, Timor-Leste
+countries: El Salvador, Samoa, Timor-Leste, Azerbaijan
 
-**Acceptance count: taught in 2 countries.** El Salvador is filed as student-book stock, inside the acceptance count, in this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count).
+**Acceptance count: taught in 3 countries.** El Salvador is filed as student-book stock, inside the acceptance count, in this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below).
 
 **Book 1 — Ciencia, Salud y Medio Ambiente 1 (student book, Spanish):**
 - Title as printed: Ciencia, Salud y Medio Ambiente 1 (Colección Cipotas y Cipotes)
@@ -67,4 +67,25 @@ Samoa is added as curriculum-statement / teacher-guide evidence only (see its bo
 
 Timor-Leste is added as student-book stock (see its book lines and rows above), inside the acceptance count — Book 1 is a STUDENT book, so Timor-Leste is named in the countries line and provenance rows and the acceptance count rises (now taught in 2 countries). Book 2, the teacher guide, is filed as evidence only, outside the acceptance count — it carries the same ten units as Book 1 as full lesson plans and is the student book's evidence pair; its content is not double-placed. Both Timor-Leste placements were filed under the original string `staying-safe/disaster-safety-and-a-personal-disaster-plan`, resolved to this canonical lesson `staying-safe/staying-safe-in-disasters` by registry Part 2A, and the original string is recorded in the provenance rows above. Each placement is carried in its own provenance row. Page numbers for Unit 10 follow the teacher guide's index (the student book prints the same units a few pages later), as filed. Timor-Leste's own way is content, as the book lines above record it: disasters are taught through their impact on health, and every learner makes a personal disaster plan with emergency contact numbers. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: staying safe in disasters, earthquakes, tremors, keeping calm, sheltering beside a strong desk, drill simulacro, El Salvador Ciencia Salud y Medio Ambiente 1, Cuando la Tierra se mece, disaster safety fire earthquake floods cyclone hurricane volcanic eruption tsunami landslide, Samoa Years 1–8 Curriculum, disasters and health types of disasters impact on health, personal disaster plan emergency contact numbers, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book
+
+## Azerbaijan — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/azerbaijan-health-placements.md. The Azerbaijan books stocked in this lesson are Book 5. All five Azerbaijan books are STUDENT books (Georgian-language editions of the Fiziki Tərbiyə textbooks), so Azerbaijan is student-book stock, inside the acceptance count, in this lesson. Azerbaijan's Health placements are the Health chapters of the same Fiziki Tərbiyə student books whose PE chapters are filed in azerbaijan-pe-placements.md (combined-book rule, as filed). Two Azerbaijan placements in the file as a whole (both filed under `staying-safe/eating-for-exercise`) resolve to a PE-course lesson and were excluded from Health — see CURRICULUM.md; no Azerbaijan placement in this lesson was excluded.
+
+**Book 5 — Fiziki Tərbiyə 10 (student book, Georgian-language edition) — Health chapter:**
+- Title as printed: Fiziki Tərbiyə — 10 (Physical Education 10 — Textbook)
+- Grade: Grade 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education of Azerbaijan; year 2017; ISBN no ISBN printed
+- PDF pages: 214 (title pages verified)
+- Verdict: COMPLETE
+- Tally: 1 placement — 0 to existing lessons, 1 NEW LESSON NEEDED
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/azerbaijan-health-placements.md (the PE parts of the same book are filed in azerbaijan-pe-placements.md).
+- Azerbaijan's own way: health is taught inside the Fiziki Tərbiyə PE textbooks as opening theory chapters — knowing your own body and its development, how exercise acts on the body's main systems, hardening the body with air, sun and water, hygiene for exercise, harmful habits, and a sample self-control diary for monitoring your own state during exercise.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Azerbaijan — Part III: Preparing General-School Pupils for Defence — the defence-preparation part of independent exercise (original string `staying-safe/preparing-for-defence`) | Azerbaijan Grade 10 Fiziki Tərbiyə, printed p. 179 |
+
+Azerbaijan is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — all five Azerbaijan books are STUDENT books, so Azerbaijan is named in the countries line and provenance row(s) and the acceptance count rises from 2 to 3 countries. The Azerbaijan placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the slug registry (Part 2B for HELD-title-decision lines, Part 2A for descriptive slug strings; placements filed directly under this lesson's own slug, or under its canonical NEW string, are recorded as filed), and the original string is recorded in each provenance row above. Azerbaijan's own way is content, as the book lines above record it: health is taught inside the Fiziki Tərbiyə textbooks as opening theory chapters, including hardening the body and a sample self-control diary. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: staying safe in disasters, earthquakes, tremors, keeping calm, sheltering beside a strong desk, drill simulacro, El Salvador Ciencia Salud y Medio Ambiente 1, Cuando la Tierra se mece, disaster safety fire earthquake floods cyclone hurricane volcanic eruption tsunami landslide, Samoa Years 1–8 Curriculum, disasters and health types of disasters impact on health, personal disaster plan emergency contact numbers, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, Azerbaijan Fiziki Tərbiyə Grades 6-10, Georgian-language edition, hardening the body, self-control diary
