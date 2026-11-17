@@ -1,6 +1,6 @@
 # Sources — Houses And Homes Where Families Live
 
-countries: Venezuela
+countries: Venezuela, India
 
 **Book 1:** *¡Viva Venezuela! Ciencias Sociales 1er Grado* (student book, Spanish) — Ministerio del Poder Popular para la Educación / Colección Bicentenario; year 2014 (fourth edition, April 2014); ISBN 978-980-218-297-8. Title as printed: ¡Viva Venezuela! Ciencias Sociales 1er Grado. Grade: Grade 1 (student/teacher: STUDENT). PDF pages: 67 (printed pages run to 128 in two-page spreads; cover/title page verified against the record title; grab SHA/size verified by grab.py). Verdict: COMPLETE. (Combined book — Geography parts placed below; parts named, not placed — History parts named, not placed: El niño Simón Bolívar (printed p. 103); Días para recordar (p. 80); Antes, es el pasado (p. 117, time/history notion).; Civics parts named, not placed: La bandera de las 8 estrellas (p. 82); La plaza Bolívar de Caracas (p. 90); Igualdad entre diferentes (p. 92); Ustedes tienen derechos y deberes (p. 105); school/family community lessons (pp. 8–24, 54).; Science parts named, not placed: ¿Para qué sirven los pies? (p. 22, the body).) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/venezuela-placements.md.
 
@@ -26,7 +26,7 @@ countries: Venezuela
 |---|---|
 | Venezuela part 1 — first-steps/houses-and-homes-where-families-live — Las cosas de las casas — teaches: the things of the house learned through riddles — the chair, the pot, the table, the bed: what each thing in the home is for — Venezuela Grade 1 G1 CS Viva Venezuela, printed p. 42 | Venezuela, *¡Viva Venezuela! Ciencias Sociales 1er Grado* (student book), Las cosas de las casas — printed p. 42 |
 
-**Acceptance count: taught in 1 country (Venezuela).**
+**Acceptance count: taught in 2 countries (Venezuela, India).**
 
 Venezuela's own way (Venezuela Grade 1 G1 CS Viva Venezuela): critical, question-first pedagogy ("pedagogía crítica") — spatial notions (up/down, north/south/east/west, near/far, yesterday/today) are built from the child's own home, classroom and community before any map appears.
 
@@ -36,4 +36,17 @@ Venezuela's own way (Venezuela Grade 3 G3 CS Viva Venezuela): the second half is
 
 Venezuela's own way (Venezuela Grade 4 G4 CS Venezuela y Su Gente): geography is the first block ("Conóceme, soy Venezuela") and is built as widening circles — the child's house drawn to a stated scale (1 cm on the plan = 1 m), then Tomás's town, then Venezuela's territory and borders, then Latin America and the unequal world.
 
-Searchable tags: houses and homes where families live, Venezuela, social studies, first-steps
+Searchable tags: houses and homes where families live, Venezuela, social studies, first-steps, India
+
+India placements — Social Studies remaining strands (2026-11-17):
+
+**Book 6 (India):** *Looking Around (EVS), Grade 3* (student book, English) — Title as printed: Looking Around — Environmental Studies, Textbook for Class III. Grade: Grade 3 (student/teacher: STUDENT). Publisher: NCERT, New Delhi; year 2006 (2020-21 reprint); ISBN 81-7450-490-7. PDF pages: 176 in the repo copy (41,220,715 bytes per the secured record; read in this wave from the record's own recorded source, archive.org/details/ncert-ceap1, chapter files ceap101–ceap124 + preliminary file, because grab.py GitHub routes were failing). Earlier waves: not read by any earlier wave (EVS sits outside the Geography/History/Economics component split). Verdict: COMPLETE — contents read in full; every remaining-strand chapter read; science chapters named, not placed. Contents map: Integrated primary SS (family, home, work, transport, communication, community places) Ch 4–5, 7, 11–13, 15, 17–18, 21, 23; Science/Nature named not placed (Ch 1 animals, Ch 2 plants, Ch 3 & 20 water, Ch 6 & 10 & 14 food, Ch 8 birds, Ch 9 rain, Ch 19 animals, Ch 24 web of life); Games (Ch 16) and Left-Right directions (Ch 22) named, not placed. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/india-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| India part 1 — first-steps/houses-and-homes-where-families-live — Ch 5 Chhotu's House — teaches: a house shelters the whole family — its rooms and corners, who does what work in it, and how a home is kept — India Grade 3 EVS Looking Around, printed p. 30 | India, *Looking Around (EVS), Grade 3* (student book), Ch 5 Chhotu's House — printed p. 30 |
+| India part 2 — first-steps/houses-and-homes-where-families-live — Ch 18 A House Like This — teaches: houses differ across India — bamboo and mud in Assam's rains, stone in the hills, houseboats — the place and weather decide the house — India Grade 3 EVS Looking Around, printed p. 118 | India, *Looking Around (EVS), Grade 3* (student book), Ch 18 A House Like This — printed p. 118 |
+
+**Acceptance count: taught in 2 countries (Venezuela, India).**
+
+India's own way (Looking Around (EVS), Grade 3): the child's own family is the first school — relations, pet names, family work and respect for elders are learned at home before any classroom; and every neighbourhood trade, from dhobi to traffic policeman, is shown as work of equal worth.

@@ -1,0 +1,19 @@
+# Saying Without Speaking — multiple choice
+
+Pick the one right answer.
+
+**1. (Sub lesson 1)** The first part of this lesson is —
+a) Ch 7 Saying without Speaking  b) learning the alphabet  c) counting to ten
+**Answer: a) Ch 7 Saying without Speaking**
+
+**2. (Sub lesson 1)** This lesson is mainly about —
+a) people who cannot hear or speak still communicate — through signs, expressions and actions — and are part of the community like everyone else  b) counting to ten  c) learning the alphabet
+**Answer: a) people who cannot hear or speak still communicate — through signs, expressions and actions — and are part of the community like everyone else**
+
+**3. (Sub lesson 2)** The second part of this lesson is —
+a) India's way — the book's own teaching way  b) counting to ten  c) learning the alphabet
+**Answer: a) India's way — the book's own teaching way**
+
+**4. (Sub lesson 2)** This lesson is mainly about —
+a) the child's own family is the first school — relations, pet names, family work and respect for elders are learned at home before any classroom; and every neighbourhood trade, from dhobi to traffic policeman, is shown as work of equal worth.  b) learning the alphabet  c) counting to ten
+**Answer: a) the child's own family is the first school — relations, pet names, family work and respect for elders are learned at home before any classroom; and every neighbourhood trade, from dhobi to traffic policeman, is shown as work of equal worth.**

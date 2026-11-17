@@ -1,6 +1,6 @@
 # Sources — Forms of Government
 
-countries: Kazakhstan, Kiribati, Costa Rica, Maldives, Micronesia, Samoa, Sierra Leone, Bahamas, Bhutan, Afghanistan, Mexico, Uganda, Fiji, Guatemala, Iraq
+countries: Kazakhstan, Kiribati, Costa Rica, Maldives, Micronesia, Samoa, Sierra Leone, Bahamas, Bhutan, Afghanistan, Mexico, Uganda, Fiji, Guatemala, Iraq, India
 
 **Book 1:** *География — 8-сыныпқа арналған оқулық (К. К. Сахова, Ж. Ф. Тенекебаева, А. Ж. Саддақасов, А. С. Кенжебаев)* (student book, Kazakh) — Нұр-Сұлтан «Назарбаев Зияткерлік мектептері» ДББҰ (NIS); year 2019; ISBN 978-601-328-352-4. Title as printed: География — 8-сыныпқа арналған оқулық (К. К. Сахова, Ж. Ф. Тенекебаева, А. Ж. Саддақасов, А. С. Кенжебаев). Grade: 8 (student/teacher: STUDENT). PDF pages: 160 (cover/title page verified against the record title; record file grade-08/gov/kazakhstan/geografija/student/1072.pdf, 73,315,458 bytes from the recorded okulyk.kz source, page count matches the record). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/kazakhstan-placements.md.
 
@@ -95,7 +95,7 @@ Bhutan's own way: the primary course closes by putting the whole state in front 
 
 Fiji's own way (Grade 10): Government is taught from Fiji outward — Fiji's own traditional chiefly government and western-style government first, then Fiji's Parliament as the worked example of parliamentary rule, then the United Nations.
 
-Searchable tags: forms of government, Kazakhstan, Kiribati, Costa Rica, Maldives, Micronesia, Samoa, social studies, culture-and-work, Sierra Leone, Bahamas, Bhutan, Afghanistan, Mexico, Uganda, Fiji
+Searchable tags: forms of government, Kazakhstan, Kiribati, Costa Rica, Maldives, Micronesia, Samoa, social studies, culture-and-work, Sierra Leone, Bahamas, Bhutan, Afghanistan, Mexico, Uganda, Fiji, India
 
 Sierra Leone's own way (teacher guide — evidence): primary civics is taught as Sierra Leone's own citizenship — the flag's green-white-blue meanings, the coat of arms, anthem and pledge, and the country's own provinces, districts and 190 chiefdoms.
 
@@ -126,6 +126,18 @@ Iraq placements — Social Studies remaining strands (2026-11-17):
 |---|---|
 | Iraq part 1 — culture-and-work/forms-of-government — Unit 3 Ch. 2 (information box, printed "for information only"): The forms of states' systems of government — teaches: states' systems of government take forms, among them the republican (parliamentary) system and the monarchical system — Iraq Grade 5 Social Studies, printed p. 88 | Iraq, *Social Studies for the Fifth Primary Grade* (student book), Unit 3 Ch. 2 (information box, printed "for information only"): The forms of states' systems of government — printed p. 88 |
 
-**Acceptance count: taught in 13 countries (Kazakhstan, Costa Rica, Maldives, Micronesia, Samoa, Bahamas, Bhutan, Afghanistan, Mexico, Uganda, Fiji, Guatemala, Iraq). Kiribati and Sierra Leone are named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 14 countries (Kazakhstan, Costa Rica, Maldives, Micronesia, Samoa, Bahamas, Bhutan, Afghanistan, Mexico, Uganda, Fiji, Guatemala, Iraq, India). Kiribati and Sierra Leone are named here as teacher-guide evidence only, counted nowhere.**
 
 Iraq's own way (Book 3): the state is defined as institutions that serve, its pillars are named homeland, people, federal authorities and sovereignty, and citizenship is taught as a two-way street — the state's services (free education first) on one side, and on the other a good citizen whose first quality is knowing his own abilities so he can fix his duties and his rights.
+
+India placements — Social Studies remaining strands (2026-11-17):
+
+**Book 4 (India):** *Democratic Politics-I, Grade 9* (student book, English) — Title as printed: Democratic Politics – I — Textbook in Political Science for Class IX (Social Science). Grade: Grade 9 (student/teacher: STUDENT). Publisher: NCERT, New Delhi; year 2006 (2020-21 reprint); ISBN 81-7450-537-7. PDF pages: 104 in the repo copy (cover/title verified by the Economics wave; read in this wave from the record's own recorded source, archive.org/details/ncert-iess4, chapter files iess401–iess405, because grab.py GitHub routes were failing). Earlier waves: Geography wave filed it RECORD-ONLY (pure Civics, "Later Civics wave owns it"); Economics wave filed it RECORD-ONLY (no Economics parts). Verdict: COMPLETE — all 5 chapters are remaining-strand (civics) teaching, read fully. Contents map: Civics/Citizenship/Government pp. 1–end (all chapters). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/india-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| India part — culture-and-work/forms-of-government — Ch 1 What is Democracy? Why Democracy? / features — teaches: democracy's minimum features — rulers elected by the people, free and fair elections, one person one vote one value, rule of law and respect for rights — tested against Myanmar, Pakistan and Saudi Arabia — India Grade 9 Democratic Politics-I, printed p. 2 | India, *Democratic Politics-I, Grade 9* (student book), Ch 1 What is Democracy? Why Democracy? / features — printed p. 2 |
+
+**Acceptance count: taught in 14 countries (Kazakhstan, Costa Rica, Maldives, Micronesia, Samoa, Bahamas, Bhutan, Afghanistan, Mexico, Uganda, Fiji, Guatemala, Iraq, India).**
+
+India's own way (Democratic Politics-I, Grade 9): Democracy is built as an argument, not a list — a Meghalaya classroom debates the definition itself, Pakistan under Musharraf and Mexico's one-party years serve as the "pretend democracy" tests, and South Africa's constitution-making is the mirror for India's own.

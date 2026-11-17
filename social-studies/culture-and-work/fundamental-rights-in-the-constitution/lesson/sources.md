@@ -1,6 +1,6 @@
 # Sources — Fundamental Rights in the Constitution
 
-countries: Bhutan, Belarus, Turkey
+countries: Bhutan, Belarus, Turkey, India
 
 **Book 3:** *Social Studies Class VI* (student book, English) — Title as printed: SOCIAL STUDIES CLASS VI. Grade: Class VI (student/teacher: STUDENT). Publisher: Center for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2021, Revised 2025; ISBN no ISBN printed. PDF pages: 68 (cover/title page verified against the record title in the Geography wave; record size 1,628,115 bytes and 68 pages match exactly). Earlier waves: Geography wave placed Ch.1–4, Ch.7–9 parts; History wave placed the Ch.4 heritage part and the 2008 transition line inside Ch.5.1; Economics wave placed Ch.10 Income (pp.53–60). Verdict: COMPLETE. Contents map: Civics/Citizenship/Government pp. 23–28 (Ch.5 The Government); Morals/Values pp. 29–36 (Ch.6 People and the Society — §6.1F Abortion, printed p. 35, is taught on reproductive-health lines — Health course's, named not placed); Culture pp. 17–22 (placed by the Geography/History waves); Geography pp. 1–16, 37–52; Economics pp. 53–60. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/bhutan-placements.md.
 
@@ -21,7 +21,7 @@ countries: Bhutan, Belarus, Turkey
 |---|---|
 | Turkey part — culture-and-work/our-fundamental-rights-and-responsibilities — Area 4: Temel Hak ve Sorumluluklarımız (Our fundamental rights and responsibilities) — teaches: the fundamental rights read from the Constitution and the universal declarations — life, personal inviolability, private life, freedom of thought, conscience and religion, freedom to settle and travel, the child's right to express views, the right to petition — held equally by everyone, and the responsibilities that stand beside them — Turkey Grade 5 Sosyal Bilgiler 2. Kitap, printed p. 34 | Turkey, *Sosyal Bilgiler 5. Sınıf, 2. Kitap* (student book), Area 4: Temel Hak ve Sorumluluklarımız (Our fundamental rights and responsibilities) — printed p. 34 |
 
-**Acceptance count: taught in 3 countries (Bhutan, Belarus, Turkey).**
+**Acceptance count: taught in 4 countries (Bhutan, Belarus, Turkey, India).**
 
 Turkey's own way (Sosyal Bilgiler 5. Sınıf, 2. Kitap): democracy is taught from the classroom outwards — the class first writes and votes its own rules item by item, then meets the same machinery at state scale (elections, petitions, CİMER), and an "active citizen" is defined by what she does about a dirty canteen, a faulty vacuum cleaner and a damaged historic fountain.
 
@@ -30,7 +30,7 @@ Bhutan's own way: the primary course closes by putting the whole state in front 
 
 Registry note: the original coined string `culture-and-work/fundamental-rights-of-citizens` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/fundamental-rights-in-the-constitution`.
 
-Searchable tags: fundamental rights in the constitution, Bhutan, social studies, culture-and-work, Belarus, Turkey
+Searchable tags: fundamental rights in the constitution, Bhutan, social studies, culture-and-work, Belarus, Turkey, India
 
 Belarus's own way (Grade 9): The civics track is the pupil's own state and law read from inside — "our state" is taught straight from the 1994 Constitution of the Republic of Belarus (unitary, democratic, social, law-governed; the people as the only source of power; the 1996 referendum; the 1999 Union treaty with Russia), rights are taught article by article from that Constitution (Arts. 1–3, 21–25, 30, 41–49, 53, 59–62) beside the Universal Declaration, and the course closes not with a test but with a discussion, "I — a citizen of the Republic of Belarus", on the citizen's own responsibility before the state.
 
@@ -39,3 +39,17 @@ Registry note: the original coined string `culture-and-work/fundamental-rights-l
 PARTIAL note, carried exactly as filed: the Grade 9 book is a PARTIAL read — printed pp. 4–85 are missing from the scan; every provenance row from that book above keeps the PARTIAL label, exactly as filed.
 
 Registry note: the original coined string `culture-and-work/our-fundamental-rights-and-responsibilities` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/fundamental-rights-in-the-constitution`.
+
+India placements — Social Studies remaining strands (2026-11-17):
+
+**Book 4 (India):** *Democratic Politics-I, Grade 9* (student book, English) — Title as printed: Democratic Politics – I — Textbook in Political Science for Class IX (Social Science). Grade: Grade 9 (student/teacher: STUDENT). Publisher: NCERT, New Delhi; year 2006 (2020-21 reprint); ISBN 81-7450-537-7. PDF pages: 104 in the repo copy (cover/title verified by the Economics wave; read in this wave from the record's own recorded source, archive.org/details/ncert-iess4, chapter files iess401–iess405, because grab.py GitHub routes were failing). Earlier waves: Geography wave filed it RECORD-ONLY (pure Civics, "Later Civics wave owns it"); Economics wave filed it RECORD-ONLY (no Economics parts). Verdict: COMPLETE — all 5 chapters are remaining-strand (civics) teaching, read fully. Contents map: Civics/Citizenship/Government pp. 1–end (all chapters). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/india-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| India part — culture-and-work/democratic-rights-fundamental-rights-in-india — Ch 5 Democratic Rights — teaches: rights are reasonable claims recognised by society and law; India's six Fundamental Rights (equality, freedom, against exploitation, religion, cultural and educational, constitutional remedies) and how courts enforce them — Guantanamo, Saudi Arabia and Kosovo show life without rights — India Grade 9 Democratic Politics-I, printed p. 77 | India, *Democratic Politics-I, Grade 9* (student book), Ch 5 Democratic Rights — printed p. 77 |
+
+**Acceptance count: taught in 4 countries (Bhutan, Belarus, Turkey, India).**
+
+India's own way (Democratic Politics-I, Grade 9): Democracy is built as an argument, not a list — a Meghalaya classroom debates the definition itself, Pakistan under Musharraf and Mexico's one-party years serve as the "pretend democracy" tests, and South Africa's constitution-making is the mirror for India's own.
+
+Registry note: the original coined string `culture-and-work/democratic-rights-fundamental-rights-in-india` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/fundamental-rights-in-the-constitution`.

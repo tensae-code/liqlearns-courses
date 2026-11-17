@@ -1,6 +1,6 @@
 # Sources — Culture — religion and freedom of belief
 
-countries: Ethiopia, Iceland, Mongolia, Ecuador
+countries: Ethiopia, Iceland, Mongolia, Ecuador, India
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -20,7 +20,7 @@ countries: Ethiopia, Iceland, Mongolia, Ecuador
 | Mongolia part — Cultural freedom | Mongolia, *Нийгэм судлал XI (Social Studies XI)*, Grade 11, Chapter II Culture: Topic 2.4 Cultural freedom — printed p. 60 |
 | Ecuador part — culture-and-work/culture-religion-and-freedom — Sección 8 Tema 1, activity 2 — teaches: laicismo (secularism) and libertad de cultos (freedom of worship) compared in a Venn diagram — what each holds and where they meet — Ecuador Grade 5 Estudios Sociales 5to EGB, printed p. 185 | Ecuador, *Estudios Sociales 5to EGB* (student book), Sección 8 Tema 1, activity 2 — printed p. 185 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Mongolia, Ecuador). Iceland is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 4 countries (Ethiopia, Mongolia, Ecuador, India). Iceland is named here as teacher-guide evidence only, counted nowhere.**
 
 Mongolia's own way (Grade 11): the final year is the state-and-world year — cultural globalization and freedom, monetary policy, foreign trade and investment, and Mongolia's signature “third neighbour” and soft-power policies taught as named topics. The book's Sociology part (Chapter I Topic 1.2, printed p. 29) and Law/Civics parts (Chapter III, printed pp. 71–103; Chapter V, printed pp. 139–165; Chapter VI except the placed topics, printed pp. 167–176) are named in the placements, not placed. That way is stocked here as the way Mongolia teaches this thing.
 
@@ -30,4 +30,16 @@ Honesty: pupil content comes from the Amhara student book. The Addis Ababa Grade
 
 Ecuador's own way (Estudios Sociales 5to EGB): the Grade 5 book ends its history-and-geography march with a civics section that teaches participation as Ecuador's own story — its social movements, its fight against child labour, and inclusion of women and people with disabilities — practised in miniature through a class assembly that votes on proposals. That evidence is stocked here as the way Ecuador teaches this thing; it is counted in the acceptance count above (student book).
 
-Searchable tags: culture: religion and freedom of belief, culture and work, social studies, ethiopia, iceland, world religions, Buddhism Hinduism Christianity Islam Judaism, Trúarbrögðin okkar, teacher guide evidence, Iceland Grade 1, Mongolia, Нийгэм судлал, Ecuador
+Searchable tags: culture: religion and freedom of belief, culture and work, social studies, ethiopia, iceland, world religions, Buddhism Hinduism Christianity Islam Judaism, Trúarbrögðin okkar, teacher guide evidence, Iceland Grade 1, Mongolia, Нийгэм судлал, Ecuador, India
+
+India placements — Social Studies remaining strands (2026-11-17):
+
+**Book 3 (India):** *Social and Political Life-III, Grade 8* (student book, English) — Title as printed: Social and Political Life – III — Textbook for Class VIII (Social Science). Grade: Grade 8 (student/teacher: STUDENT). Publisher: NCERT, New Delhi; year 2019 (2020-21 reprint); ISBN 978-81-7450-825-6. PDF pages: 144 in the repo copy (cover/title verified by the Economics wave against the same record; read in this wave from the record's own recorded source, archive.org/details/ncert-hess3, chapter files hess301–hess310, because grab.py GitHub routes were failing). Earlier waves: Geography wave filed it RECORD-ONLY (pure Civics); Economics wave placed pp. 106–end only (Unit Five: Ch 9 Public Facilities, Ch 10 Law and Social Justice — the government's economic presence). Verdict: COMPLETE — remaining strands (Units One–Four, Ch 1–8) read fully; Unit Five named only (already placed). Contents map: Civics/Citizenship/Government pp. 4–103 (Unit One The Indian Constitution and Secularism, Unit Two Parliament and the Making of Laws, Unit Three The Judiciary, Unit Four Social Justice and the Marginalised); Economics pp. 106–end (already placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/india-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| India part — culture-and-work/culture-religion-and-freedom — Ch 2 Understanding Secularism — teaches: Indian secularism keeps a principled distance between religion and state — no religion dominates another or within itself, yet the state may intervene to end practices like untouchability — India Grade 8 Social and Political Life-III, printed p. 18 | India, *Social and Political Life-III, Grade 8* (student book), Ch 2 Understanding Secularism — printed p. 18 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Mongolia, Ecuador, India).**
+
+India's own way (Social and Political Life-III, Grade 8): The Constitution is the spine of the whole book — every later institution (Parliament, courts, police) and every injustice (marginalisation) is measured against it, and marginalised people are shown invoking its Fundamental Rights to force change.

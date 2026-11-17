@@ -1,6 +1,6 @@
 # Sources — Political and Electoral Systems of the State
 
-countries: Egypt, Costa Rica, Maldives, Micronesia, Philippines, Bahamas, Bhutan, Mexico, Uganda
+countries: Egypt, Costa Rica, Maldives, Micronesia, Philippines, Bahamas, Bhutan, Mexico, Uganda, India
 
 **Book 1:** *الجغرافيا السياسية (Political Geography) — كتاب الطالب والأنشطة والتدريبات (Student Book, Activities and Exercises)* (student book with activities, Arabic) — Egypt, Ministry of Education and Technical Education, Egypt; no year or ISBN on the cover pages read (the file is the ministry's 2026-folder student book). Title as printed: الجغرافيا السياسية (Political Geography). Grade 12, Third Secondary, Term 1 (student). 172 PDF pp. (cover verified against the record title; 28,573,835 bytes = record size exactly, from the recorded Azure source; staged in phase3-staging/grade-12/gov/egypt/Geography_Sec3.pdf under the push-don't-delete rule — its books.json record already existed there). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/egypt-placements.md.
 
@@ -55,7 +55,7 @@ countries: Egypt, Costa Rica, Maldives, Micronesia, Philippines, Bahamas, Bhutan
 | Uganda part — Uganda's way — the book's own teaching way (Uganda Grade 6 P6 SST Home-Study) | Uganda — the book's own way of teaching (see below) |
 | Uganda part — Uganda's way — the book's own teaching way (Uganda Excel P6 SST) | Uganda — the book's own way of teaching (see below) |
 
-**Acceptance count: taught in 9 countries (Egypt, Costa Rica, Maldives, Micronesia, Philippines, Bahamas, Bhutan, Mexico, Uganda).**
+**Acceptance count: taught in 10 countries (Egypt, Costa Rica, Maldives, Micronesia, Philippines, Bahamas, Bhutan, Mexico, Uganda, India).**
 
 Uganda's own way (Uganda Excel P5 SST): P5 civics is the independent state itself — what a nation is, its symbols and how to honour them, democracy and elections in Uganda's own terms, then the government: central and local levels, the three arms, and the constitution the people made in 1995.
 
@@ -81,4 +81,16 @@ Philippines's own way: the whole third unit of Grade 4 is one civics arc — the
 
 Bhutan's own way: the primary course closes by putting the whole state in front of the child — what a government is, Bhutan's own change from monarchy to Democratic Constitutional Monarchy in 2008, its three branches told through the courts' own ladder and the kabney/patang ranks the King bestows, the Article 7 fundamental rights quoted from Bhutan's Constitution, and a social-problems chapter that names Bhutan's own helping agencies (Royal Bhutan Police, RENEW, NCWC) for every problem.
 
-Searchable tags: political and electoral systems of the state, Egypt, Costa Rica, Maldives, Micronesia, Philippines, social studies, global-issues, Bahamas, Bhutan, Mexico, Uganda
+Searchable tags: political and electoral systems of the state, Egypt, Costa Rica, Maldives, Micronesia, Philippines, social studies, global-issues, Bahamas, Bhutan, Mexico, Uganda, India
+
+India placements — Social Studies remaining strands (2026-11-17):
+
+**Book 4 (India):** *Democratic Politics-I, Grade 9* (student book, English) — Title as printed: Democratic Politics – I — Textbook in Political Science for Class IX (Social Science). Grade: Grade 9 (student/teacher: STUDENT). Publisher: NCERT, New Delhi; year 2006 (2020-21 reprint); ISBN 81-7450-537-7. PDF pages: 104 in the repo copy (cover/title verified by the Economics wave; read in this wave from the record's own recorded source, archive.org/details/ncert-iess4, chapter files iess401–iess405, because grab.py GitHub routes were failing). Earlier waves: Geography wave filed it RECORD-ONLY (pure Civics, "Later Civics wave owns it"); Economics wave filed it RECORD-ONLY (no Economics parts). Verdict: COMPLETE — all 5 chapters are remaining-strand (civics) teaching, read fully. Contents map: Civics/Citizenship/Government pp. 1–end (all chapters). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/india-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| India part — global-issues/political-and-electoral-systems-of-the-state — Ch 3 Electoral Politics — teaches: elections are how people rule through representatives — constituencies, reserved seats, voters' lists, nominations, campaigns, counting — and the Election Commission guards their freedom and fairness — India Grade 9 Democratic Politics-I, printed p. 35 | India, *Democratic Politics-I, Grade 9* (student book), Ch 3 Electoral Politics — printed p. 35 |
+
+**Acceptance count: taught in 10 countries (Egypt, Costa Rica, Maldives, Micronesia, Philippines, Bahamas, Bhutan, Mexico, Uganda, India).**
+
+India's own way (Democratic Politics-I, Grade 9): Democracy is built as an argument, not a list — a Meghalaya classroom debates the definition itself, Pakistan under Musharraf and Mexico's one-party years serve as the "pretend democracy" tests, and South Africa's constitution-making is the mirror for India's own.

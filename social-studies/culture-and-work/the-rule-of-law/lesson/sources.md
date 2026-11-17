@@ -1,6 +1,6 @@
 # Sources — The Rule of Law
 
-countries: China
+countries: China, India
 
 **Book 1:** *思想政治必修3 政治与法治 (Ideological & Political, Compulsory 3: Politics and Rule of Law)* (student book, Chinese) — Title as printed: 普通高中教科书 思想政治 必修3 政治与法治. Grade: Senior high (filed grade-12) (student/teacher: STUDENT). Publisher: 人民教育出版社 (People's Education Press), Beijing, compiled by the Ministry of Education (教育部组织编写); chief editor Zhang Yibin (张异宾), volume editors Liu Jianjun (刘建军) and Zhu Liyu (朱力宇); year 2019 first edition (2019 统编 seal on cover), this scan a later printing carrying material to 2021 (the 2021–2025 rule-of-law government outline in Lesson 8); ISBN 978-7-107-24394-3 (read from the back-cover barcode). PDF pages: 122 (cover verified — 思想政治 必修3 政治与法治 over the Great Hall of the People ceiling lights and red star matches the record; byte size 7,190,119 matches the books.json record exactly; the tensae-code textbooks repo was checked by authenticated GitHub API curl and returns 404 for this file, and no copy sat on disk in staging, so the book was read from its recorded source_url, the kyohwang/ChinaTextbook PEP collection — the same route as Books 1–5 — and staged beside its record, below). Earlier waves: not read before (Geography/History/Economics waves held no record of this book; the cn-ki reader of Books 1–5 flagged it in its log as the map gap this add-on closes). Verdict: COMPLETE. Contents map: Civics/Citizenship/Government (China's own system taught as its own way) printed pp. 1–113 entire — Unit 1 中国共产党的领导 (the Party's leadership) pp. 1–34; Unit 2 人民当家作主 (the people as masters of the country) pp. 35–72; Unit 3 全面依法治国 (comprehensive rule of law) pp. 73–113; History pp. 2–14 (the pre-1949 political forces and the stand-up / grow-rich / become-strong narrative inside Lessons 1–2 — named here; it is taught as the ground of the Party's leadership and is placed with the civics lessons it serves, not as history). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/china-placements.md.
 
@@ -12,8 +12,22 @@ countries: China
 | Sub lesson 4 — culture-and-work/building-a-rule-of-law-society — Lesson 8 §3 法治社会 — teaches: a rule-of-law society — law recognised and generally obeyed, public life orderly, rights relieved through law, disputes settled through mediation, arbitration and the courts, with public legal services and legal aid reaching everyone — China Senior 思想政治必修3, printed p. 93 | China, *思想政治必修3 政治与法治 (Ideological & Political, Compulsory 3: Politics and Rule of Law)* (student book), Lesson 8 §3 法治社会 — printed p. 93 |
 | Sub lesson 5 — China's way — the book's own teaching way | China — the book's own way of teaching (see below) |
 
-**Acceptance count: taught in 1 country (China).**
+**Acceptance count: taught in 2 countries (China, India).**
 
 China's own way: the civics core of the senior Politics course, built as three blocks in one chain — who leads (the Party: chosen by history and the people, advanced, ruling through political, ideological and organisational leadership), who owns the state (the people, through the people's democratic dictatorship, the people's congress as fundamental system, and the three basic systems of multiparty cooperation, ethnic regional autonomy and grassroots self-governance), and how the state is run (comprehensively by law: a rule-of-law country, government and society built together through scientific legislation, strict enforcement, impartial justice and universal observance) — every lesson opening with 探究与分享 cases and closing in a unit 综合探究 project.
 
-Searchable tags: the rule of law, China, social studies, culture-and-work
+Searchable tags: the rule of law, China, social studies, culture-and-work, India
+
+India placements — Social Studies remaining strands (2026-11-17):
+
+**Book 3 (India):** *Social and Political Life-III, Grade 8* (student book, English) — Title as printed: Social and Political Life – III — Textbook for Class VIII (Social Science). Grade: Grade 8 (student/teacher: STUDENT). Publisher: NCERT, New Delhi; year 2019 (2020-21 reprint); ISBN 978-81-7450-825-6. PDF pages: 144 in the repo copy (cover/title verified by the Economics wave against the same record; read in this wave from the record's own recorded source, archive.org/details/ncert-hess3, chapter files hess301–hess310, because grab.py GitHub routes were failing). Earlier waves: Geography wave filed it RECORD-ONLY (pure Civics); Economics wave placed pp. 106–end only (Unit Five: Ch 9 Public Facilities, Ch 10 Law and Social Justice — the government's economic presence). Verdict: COMPLETE — remaining strands (Units One–Four, Ch 1–8) read fully; Unit Five named only (already placed). Contents map: Civics/Citizenship/Government pp. 4–103 (Unit One The Indian Constitution and Secularism, Unit Two Parliament and the Making of Laws, Unit Three The Judiciary, Unit Four Social Justice and the Marginalised); Economics pp. 106–end (already placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/india-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| India part — culture-and-work/understanding-laws-rule-of-law-and-how-laws-are-made — Ch 4 Understanding Laws — teaches: the rule of law means every law applies equally to everyone, even the President; citizens' campaigns can birth a law, as the Domestic Violence Act 2005 was born — India Grade 8 Social and Political Life-III, printed p. 42 | India, *Social and Political Life-III, Grade 8* (student book), Ch 4 Understanding Laws — printed p. 42 |
+
+**Acceptance count: taught in 2 countries (China, India).**
+
+India's own way (Social and Political Life-III, Grade 8): The Constitution is the spine of the whole book — every later institution (Parliament, courts, police) and every injustice (marginalisation) is measured against it, and marginalised people are shown invoking its Fundamental Rights to force change.
+
+Registry note: the original coined string `culture-and-work/understanding-laws-rule-of-law-and-how-laws-are-made` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/the-rule-of-law`.

@@ -1,6 +1,6 @@
 # Sources — Discrimination and Its Harms
 
-countries: Haiti, Somalia, Colombia
+countries: Haiti, Somalia, Colombia, India
 
 **Book 2:** *La citoyenne et le citoyen dans un État démocratique* (teacher sequence, French) — Title as printed: La citoyenne et le citoyen dans un État démocratique (Projet Nectar, MENFP, Sciences humaines et sociales — Éducation à la citoyenneté, 7e année). Grade: Grade 7 (student/teacher: TEACHER). Publisher: MENFP / Projet Nectar; year not printed; no ISBN printed. PDF pages: 13 (cover verified against the record title; 145,622 bytes. Route note: grab.py tree route failed three times with RemoteDisconnected (proxy) in this wave, so the book was downloaded from the record's own recorded source URL (projet-nectar.canoprof.fr Version pdf depot) — title and 13-page count match the Geography/History waves' verified copies of the same record; the book is already secured in GitHub per the record, so the reading copy was deleted after filing, not staged). Earlier waves: Geography wave filed it record-only (pure Civics); History wave record-only (pure Civics); Economics wave record-only (no Economics parts) — its civics strands are placed here for the first time. Verdict: COMPLETE. Contents map: Civics/Citizenship/Government pp. 7–13 (whole book); Morals/Values pp. 8–9 (every right as a duty, school charter, inside Séance 2). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/haiti-placements.md. Teacher guide — evidence only, outside the acceptance count.
 
@@ -13,13 +13,13 @@ countries: Haiti, Somalia, Colombia
 
 | Somalia part — culture-and-work/rejecting-discrimination — Midabtakoorka (Discrimination / Racism) — teaches: racism named and rejected — discrimination by colour as an injustice the pupil must recognise and refuse — Somalia Grade 6 Barbaarinta iyo Cilmiga Beesha, printed p. 25 | Somalia, *Barbaarinta iyo Cilmiga Beesha, Fasalka Lixaad* (student book), Midabtakoorka (Discrimination / Racism) — printed p. 25 |
 
-**Acceptance count: taught in 2 countries (Somalia, Colombia). Haiti is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 3 countries (Somalia, Colombia, India). Haiti is named here as teacher-guide evidence only, counted nowhere.**
 
 Haiti's own way: The democratic state is taught as resting on its citizens: rights are learned by exercising them at school (debate, a school charter of rights and duties), and Haitian texts (1987 amended Constitution, the 1801/1805 constitutions, laws on paternity and on violence against women) are read beside the international declarations.
 
 Registry note: the original coined string `culture-and-work/discrimination-and-exclusion-in-access-to-rights` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/discrimination-and-its-harms`.
 
-Searchable tags: discrimination and its harms, Haiti, social studies, culture-and-work, Somalia
+Searchable tags: discrimination and its harms, Haiti, social studies, culture-and-work, Somalia, India
 
 Somalia's own way (Grade 6): by Grade 6 the subject is open political education — the enemies of unity are named in a row (colonialism, racism, clanism, Zionism), the world's organisation is studied, the state's doctrine is taught as science, and citizenship becomes fiscal: the book ends with taxes and with the newspapers that keep a citizen informed.
 
@@ -34,7 +34,7 @@ Colombia placements — Social Studies remaining strands (2026-11-17):
 | Colombia part 1 — culture-and-work/discrimination-what-it-is-and-how-schools-fight-it — Tema 25 Discriminación en América (opening) — teaches: discrimination as a social and political practice almost as old as humanity — peoples who felt more developed despised others (sedentary farmers and nomads, Romans and "barbarians"); in school it appears as mockery for body, ethnicity, achievement or sexuality, and the Consejo Estudiantil evaluates the cases and plans alternatives — Colombia Grade 7 CS_Grado07, printed p. 224 | Colombia, *Ciencias Sociales — Secundaria Activa, Grado 7 (module)* (student book), Tema 25 Discriminación en América (opening) — printed p. 224 |
 | Colombia part 2 — culture-and-work/discrimination-today-classism-and-xenophobia — Tema 25 La discriminación ayer y hoy — teaches: conquest-era discrimination was racial and cultural and left an intolerant society that always found an excuse to segregate; today society has added classism (discrimination by social class), and developed countries show xenophobia — hatred and persecution of foreigners — even while immigrants do their riskiest, most modest jobs — Colombia Grade 7 CS_Grado07, printed p. 225 | Colombia, *Ciencias Sociales — Secundaria Activa, Grado 7 (module)* (student book), Tema 25 La discriminación ayer y hoy — printed p. 225 |
 
-**Acceptance count: taught in 2 countries (Somalia, Colombia). Haiti is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 3 countries (Somalia, Colombia, India). Haiti is named here as teacher-guide evidence only, counted nowhere.**
 
 Colombia's own way (Book 7): discrimination is opened from a Colombian school's own cases — pupils mocked for obesity, for being the course's only Afro-descendant girl, for being the best student, for being homosexual — and the student council is called in to plan the solution before the concept is defined.
 
@@ -42,3 +42,17 @@ Registry note: the original coined string `culture-and-work/discrimination-what-
 
 Registry note: the original coined string `culture-and-work/discrimination-today-classism-and-xenophobia` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/discrimination-and-its-harms`.
 
+
+India placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1 (India):** *Social and Political Life-I, Grade 6* (student book, English) — Title as printed: Social and Political Life – I — Textbook for Class VI (Social Science). Grade: Grade 6 (student/teacher: STUDENT). Publisher: NCERT, New Delhi; year 2006 (2020-21 reprint); ISBN 81-7450-511-3. PDF pages: 99 (cover/title page verified against the record title; tree route 404, release route via grab.py url after one dropped-connection retry, 15,074,640 bytes). Earlier waves: Geography wave filed it RECORD-ONLY (pure Civics, "Later Civics wave owns it"); History wave did not file it; Economics wave placed pp. 67–85 only (Unit IV Livelihoods, Ch 8–9). Verdict: COMPLETE — remaining strands (Units I–III) read fully; Economics unit named only. Contents map: Civics/Citizenship/Government pp. 3–65 (Unit I Diversity, Unit II Government, Unit III Local Government and Administration); Economics pp. 67–85 (already placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/india-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| India part — culture-and-work/prejudice-stereotypes-and-discrimination — Ch 2 Diversity and Discrimination — teaches: prejudice and stereotypes sort people unfairly, discrimination acts on them, and untouchability is named as a wrong the Constitution forbids — India Grade 6 Social and Political Life-I, printed p. 13 | India, *Social and Political Life-I, Grade 6* (student book), Ch 2 Diversity and Discrimination — printed p. 13 |
+
+**Acceptance count: taught in 3 countries (Somalia, Colombia, India).**
+
+India's own way (Social and Political Life-I, Grade 6): Civics opens not with institutions but with the child's own classroom diversity, then builds government in widening rings — nation, panchayat village, district offices, city corporation — always through named people and a story (a sarpanch, a patwari, a waste-picker).
+
+Registry note: the original coined string `culture-and-work/prejudice-stereotypes-and-discrimination` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/discrimination-and-its-harms`.

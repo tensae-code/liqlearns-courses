@@ -1,6 +1,6 @@
 # Sources — Social Problems with a Political Dimension
 
-countries: Egypt, Bhutan, Mexico
+countries: Egypt, Bhutan, Mexico, India
 
 **Book 1:** *الجغرافيا السياسية (Political Geography) — كتاب الطالب والأنشطة والتدريبات (Student Book, Activities and Exercises)* (student book with activities, Arabic) — Egypt, Ministry of Education and Technical Education, Egypt; no year or ISBN on the cover pages read (the file is the ministry's 2026-folder student book). Title as printed: الجغرافيا السياسية (Political Geography). Grade 12, Third Secondary, Term 1 (student). 172 PDF pp. (cover verified against the record title; 28,573,835 bytes = record size exactly, from the recorded Azure source; staged in phase3-staging/grade-12/gov/egypt/Geography_Sec3.pdf under the push-don't-delete rule — its books.json record already existed there). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/egypt-placements.md.
 
@@ -16,7 +16,7 @@ countries: Egypt, Bhutan, Mexico
 | Bhutan part — global-issues/social-problems-with-a-political-dimension — 6.1A Corruption — teaches: corruption as a social problem — misuse of power for personal gain (bribery, favouritism, misuse of public money), its causes (greed, autocratic rule), its harms (development plans blocked, laws and values weakened, fair opportunity lost) and its preventions (citizens empowered in decisions, access to information, education) — Bhutan Class VI Social Studies VI, printed p. 29 | Bhutan, *Social Studies Class VI* (student book), 6.1A Corruption — printed p. 29 |
 | Sub lesson — global-issues/social-problems-with-a-political-dimension — Consecuencias de la desigualdad socioeconómica en la calidad de vida — teaches: Mexico sits among the world's most unequal countries (Coneval): socioeconomic inequality is the unequal sharing of wealth and access to goods and services, and it cuts health, independence and social relations — with the actions that guarantee a dignified, just life — Mexico Grade 8 Ética, naturaleza y sociedades 2 (secundaria), printed pp. 245–252 | Mexico, *Ética, naturaleza y sociedades 2, secundaria* (student book), Consecuencias de la desigualdad socioeconómica en la calidad de vida — printed pp. 245–252 |
 
-**Acceptance count: taught in 3 countries (Egypt, Bhutan, Mexico).**
+**Acceptance count: taught in 4 countries (Egypt, Bhutan, Mexico, India).**
 
 Mexico's own way (Grade 8 Ética, naturaleza y sociedades): the second year turns from living together to judging and acting — pupils weigh ethical judgements on real injustice, learn how laws are made and changed in Mexico's own Congress, practise mediation, and end as watchdogs: citizen participation is taught as the duty to see public money administered with honesty, transparency and legality.
 
@@ -24,4 +24,16 @@ Egypt's own way (Grade 12): a full political-geography course to close school ge
 
 Bhutan's own way: the primary course closes by putting the whole state in front of the child — what a government is, Bhutan's own change from monarchy to Democratic Constitutional Monarchy in 2008, its three branches told through the courts' own ladder and the kabney/patang ranks the King bestows, the Article 7 fundamental rights quoted from Bhutan's Constitution, and a social-problems chapter that names Bhutan's own helping agencies (Royal Bhutan Police, RENEW, NCWC) for every problem.
 
-Searchable tags: social problems with a political dimension, Egypt, social studies, global-issues, Bhutan, Mexico
+Searchable tags: social problems with a political dimension, Egypt, social studies, global-issues, Bhutan, Mexico, India
+
+India placements — Social Studies remaining strands (2026-11-17):
+
+**Book 5 (India):** *Democratic Politics-II, Grade 10* (student book, English) — Title as printed: Democratic Politics – II — Textbook in Political Science for Class X (Social Science). Grade: Grade 10 (student/teacher: STUDENT). Publisher: NCERT, New Delhi; year 2007 (2020-21 reprint); ISBN 81-7450-711-6. PDF pages: 124 in the repo copy (cover/title verified by the Economics wave; read in this wave from the record's own recorded source, archive.org/details/ncert-jess4, chapter files jess401–jess408, because grab.py GitHub routes were failing). Earlier waves: Geography wave filed it RECORD-ONLY (pure Civics); Economics wave filed it RECORD-ONLY (no Economics parts). Verdict: COMPLETE — all 8 chapters are remaining-strand (civics) teaching, read fully. Contents map: Civics/Citizenship/Government pp. 1–end (all chapters). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/india-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| India part — global-issues/social-problems-with-a-political-dimension — Ch 8 Challenges to Democracy — teaches: democracy's deepening challenges — foundational, expansion and deepening phases — and the democratic reforms citizens can push, ending on political and economic rights — India Grade 10 Democratic Politics-II, printed p. 99 | India, *Democratic Politics-II, Grade 10* (student book), Ch 8 Challenges to Democracy — printed p. 99 |
+
+**Acceptance count: taught in 4 countries (Egypt, Bhutan, Mexico, India).**
+
+India's own way (Democratic Politics-II, Grade 10): Class X civics is comparative — Belgium's accommodation against Sri Lanka's majoritarianism, India's own federal map, and Nepal's and Bolivia's people's movements — so India's arrangements are always shown as one choice among real alternatives.

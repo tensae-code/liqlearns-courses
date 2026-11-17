@@ -1,6 +1,6 @@
 # Sources — How Cities And Villages Are Run
 
-countries: Iran, Egypt, Philippines, Samoa, Albania, Ecuador, Yemen, Bhutan, Afghanistan, Tanzania, Eritrea, Belarus, Fiji, Venezuela, Bangladesh, Turkey, Morocco, Colombia, Iraq, North Macedonia
+countries: Iran, Egypt, Philippines, Samoa, Albania, Ecuador, Yemen, Bhutan, Afghanistan, Tanzania, Eritrea, Belarus, Fiji, Venezuela, Bangladesh, Turkey, Morocco, Colombia, Iraq, North Macedonia, India
 
 **Book 1:** *مطالعات اجتماعی ـ پایه هفتم دوره اول متوسطه (Social Studies, Grade 7, first secondary cycle)* (student book, Persian) — Ministry of Education, Organization for Educational Research and Planning (سازمان پژوهش و برنامه‌ریزی آموزشی); prepared by the Office for Compiling General and Theoretical Secondary Textbooks (دفتر تألیف کتاب‌های درسی عمومی و متوسطه نظری); printed by the Iran Textbook Printing and Publishing Company; 13th printing, 1405; book code 707 (matches the record's C707). Title as printed: مطالعات اجتماعی ـ پایه هفتم دوره اول متوسطه (Social Studies, Grade 7, first secondary cycle). Grade: 7 (student/teacher: STUDENT). PDF pages: 184 (printed pagination runs 6 behind the PDF pages: printed p. 2 = PDF p. 8; title page verified as above; read via the books.json record's own ministry source file at chap.sch.ir — same book, exact byte size and page count as the record — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iran-placements.md.
 
@@ -164,7 +164,7 @@ Venezuela's own way (Venezuela Grade 5 G5 CS Venezuela y Su Gente): Grade 5's ci
 
 Registry note: the original coined string `culture-and-work/municipal-and-state-power` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §5 into this canonical lesson, `culture-and-work/how-cities-and-villages-are-run`.
 
-Searchable tags: how cities and villages are run, Iran, Egypt, Philippines, Samoa, Eritrea, social studies, culture-and-work, Albania, Ecuador, Yemen, Bhutan, Afghanistan, Belarus, Fiji, Venezuela, Bangladesh, Turkey
+Searchable tags: how cities and villages are run, Iran, Egypt, Philippines, Samoa, Eritrea, social studies, culture-and-work, Albania, Ecuador, Yemen, Bhutan, Afghanistan, Belarus, Fiji, Venezuela, Bangladesh, Turkey, India
 
 Afghanistan's own way (Grade 5 Social Studies): society is taught as a ladder of belonging — family, school, village, district, city, country, and the wider Islamic umma — and the state appears as the servant of that society: ministries named one by one, each with its service, and peace named the first need of a country that has known decades of war.
 
@@ -234,8 +234,23 @@ North Macedonia placements — Social Studies remaining strands (2026-11-17):
 | North Macedonia part — culture-and-work/the-mayor-who-leads-our-municipality — Градоначалник/градоначалничка (The mayor) — teaches: the mayor who leads the municipality — North Macedonia Grade 4 History and Society, printed p. 57 | North Macedonia, *History and Society Grade 4 (Историја и општество 4)* (student book), Градоначалник/градоначалничка (The mayor) — printed p. 57 |
 | North Macedonia part — culture-and-work/how-cities-and-villages-are-run — Грижа на општината за граѓаните (The municipality's care for its citizens) — teaches: how the municipality cares for its citizens — North Macedonia Grade 4 History and Society, printed p. 61 | North Macedonia, *History and Society Grade 4 (Историја и општество 4)* (student book), Грижа на општината за граѓаните (The municipality's care for its citizens) — printed p. 61 |
 
-**Acceptance count: taught in 19 countries (Iran, Egypt, Philippines, Samoa, Ecuador, Yemen, Bhutan, Afghanistan, Tanzania, Eritrea, Belarus, Fiji, Venezuela, Bangladesh, Turkey, Morocco, Colombia, Iraq, North Macedonia). Albania is named here as teacher-guide evidence only, counted nowhere; Bhutan's Class IV Teachers' Manual placements are teacher-guide evidence only, Bhutan being counted on its Class IV and Class V student books.**
+**Acceptance count: taught in 20 countries (Iran, Egypt, Philippines, Samoa, Ecuador, Yemen, Bhutan, Afghanistan, Tanzania, Eritrea, Belarus, Fiji, Venezuela, Bangladesh, Turkey, Morocco, Colombia, Iraq, North Macedonia, India). Albania is named here as teacher-guide evidence only, counted nowhere; Bhutan's Class IV Teachers' Manual placements are teacher-guide evidence only, Bhutan being counted on its Class IV and Class V student books.**
 
 North Macedonia's own way (Book 3): Grade 4 names the enemies of honest public life to nine-year-olds — nepotism, bribes and bribery — before it ever describes the state; then the state is built from the municipality up (its symbols, its mayor, its care for citizens) to the capital, the institutions and the symbols of the republic, whose defining character is taught as multicultural, multiethnic and civic.
 
 Registry note: the original coined string `culture-and-work/the-mayor-who-leads-our-municipality` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §5 into this existing lesson, `culture-and-work/how-cities-and-villages-are-run`.
+
+India placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1 (India):** *Social and Political Life-I, Grade 6* (student book, English) — Title as printed: Social and Political Life – I — Textbook for Class VI (Social Science). Grade: Grade 6 (student/teacher: STUDENT). Publisher: NCERT, New Delhi; year 2006 (2020-21 reprint); ISBN 81-7450-511-3. PDF pages: 99 (cover/title page verified against the record title; tree route 404, release route via grab.py url after one dropped-connection retry, 15,074,640 bytes). Earlier waves: Geography wave filed it RECORD-ONLY (pure Civics, "Later Civics wave owns it"); History wave did not file it; Economics wave placed pp. 67–85 only (Unit IV Livelihoods, Ch 8–9). Verdict: COMPLETE — remaining strands (Units I–III) read fully; Economics unit named only. Contents map: Civics/Citizenship/Government pp. 3–65 (Unit I Diversity, Unit II Government, Unit III Local Government and Administration); Economics pp. 67–85 (already placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/india-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| India part 1 — culture-and-work/how-cities-and-villages-are-run — Ch 6 Rural Administration — teaches: the patwari keeps land records, the tehsildar and police station serve the area, and the Hindu Succession (Amendment) Act gives daughters an equal share in land — India Grade 6 Social and Political Life-I, printed p. 49 | India, *Social and Political Life-I, Grade 6* (student book), Ch 6 Rural Administration — printed p. 49 |
+| India part 2 — culture-and-work/municipal-corporations-how-an-indian-city-is-run — Ch 7 Urban Administration — teaches: a Municipal Corporation of elected ward councillors runs the city — water, waste, streets — while contract workers do much of the cleaning work — India Grade 6 Social and Political Life-I, printed p. 57 | India, *Social and Political Life-I, Grade 6* (student book), Ch 7 Urban Administration — printed p. 57 |
+
+**Acceptance count: taught in 20 countries (Iran, Egypt, Philippines, Samoa, Ecuador, Yemen, Bhutan, Afghanistan, Tanzania, Eritrea, Belarus, Fiji, Venezuela, Bangladesh, Turkey, Morocco, Colombia, Iraq, North Macedonia, India).**
+
+India's own way (Social and Political Life-I, Grade 6): Civics opens not with institutions but with the child's own classroom diversity, then builds government in widening rings — nation, panchayat village, district offices, city corporation — always through named people and a story (a sarpanch, a patwari, a waste-picker).
+
+Registry note: the original coined string `culture-and-work/municipal-corporations-how-an-indian-city-is-run` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §5 into this canonical lesson, `culture-and-work/how-cities-and-villages-are-run`.

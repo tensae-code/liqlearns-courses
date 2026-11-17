@@ -1,6 +1,6 @@
 # Sources — Public Services And The People Who Provide Them
 
-countries: Honduras, Sweden, Bahrain, Philippines, Haiti, Ecuador, Yemen, Afghanistan, Somalia, Mexico, Uganda, Fiji, Oman, Syria, Morocco
+countries: Honduras, Sweden, Bahrain, Philippines, Haiti, Ecuador, Yemen, Afghanistan, Somalia, Mexico, Uganda, Fiji, Oman, Syria, Morocco, India
 
 **Book 1:** *Libro para Estudiantes del área de Ciencias Sociales — Primer grado de Educación Básica (cover: 'Ciencias Sociales — Primer grado — Libro para Estudiantes')* (student book, Spanish) — Universidad Pedagógica Nacional Francisco Morazán (UPNFM), elaborated for the Secretaría de Estado en el Despacho de Educación de Honduras; preliminary edition (Edición Preliminar) 2020 as printed on the credits page; no ISBN printed. Title as printed: Libro para Estudiantes del área de Ciencias Sociales — Primer grado de Educación Básica (cover: 'Ciencias Sociales — Primer grado — Libro para Estudiantes'). Grade: Grade 1 (student/teacher: STUDENT). PDF pages: 182 (cover/title page verified against the record title; read from the recorded ministry source educatrachos.hn, 66,184,073 bytes, SHA-256 prefix 1c4e29b7525c2dd3). Verdict: COMPLETE. History/Civics parts NOT placed (named for later waves): Bloque 1 'La persona y su ser social' (personal/social and civics formation, printed pp. 10–46); Bloque 3 'Las sociedades y el tiempo social' (History, printed pp. 94–134); Bloque 4 lessons not placed above (social organisation, authorities, laws and demands — Civics, printed pp. 138 onwards). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/honduras-placements.md.
 
@@ -89,7 +89,7 @@ countries: Honduras, Sweden, Bahrain, Philippines, Haiti, Ecuador, Yemen, Afghan
 | Syria part 2 — first-steps/public-services-and-the-people-who-provide-them — Unit 4 Lesson 2 المجتمع الذي نريد (The society we want), services side — teaches: reading a whole city's services off one picture — school, hospital, bank, library, cultural centre, shops, buses and the rubbish truck — and tabling each service centre with the service it provides — Syria Grade 3 Social Studies G3, printed p. 46 | Syria, *Social Studies Grade 3* (student book), Unit 4 Lesson 2 المجتمع الذي نريد (The society we want), services side — printed p. 46 |
 | Syria's way — the books' own teaching way | Syria — the books' own way of teaching (see below) |
 
-**Acceptance count: taught in 10 countries (Honduras, Bahrain, Philippines, Ecuador, Yemen, Afghanistan, Mexico, Uganda, Fiji, Syria). Sweden, Haiti and Somalia are named here as teacher-guide evidence only, counted nowhere. Oman is named here as teacher-guide evidence only, counted nowhere. Morocco is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 11 countries (Honduras, Bahrain, Philippines, Ecuador, Yemen, Afghanistan, Mexico, Uganda, Fiji, Syria, India). Sweden, Haiti and Somalia are named here as teacher-guide evidence only, counted nowhere. Oman is named here as teacher-guide evidence only, counted nowhere. Morocco is named here as teacher-guide evidence only, counted nowhere.**
 
 Uganda's own way (Uganda Grade 4 P4 SST Home-Study): the district is the child's civic unit — its leaders (LCV chairperson, CAO, RDC, DPC, DEO, DAO) are named by title and role, and children's rights are taught straight from Uganda's laws (a child is anyone below 18).
 
@@ -127,7 +127,7 @@ Syria's own way (Social Studies Grade 6): civics is taught inside the Arab-world
 
 Syria's own way (Social Studies Grade 3): Grade 3 is where the series turns civic — the child meets the vote inside a classroom quarrel (proposals, persuasion, a ballot box, the winner implemented), meets rights on World Children's Rights Day (20 November) as picture pairs where every right is matched by its duty, and meets the inclusive city: the society-we-want lesson is built around services for people with special needs, down to the sign-language alphabet and Braille.
 
-Searchable tags: public services and the people who provide them, Honduras, Sweden, Bahrain, Philippines, social studies, first-steps, Haiti, Ecuador, Yemen, Afghanistan, Somalia, Mexico, Uganda, Fiji, Oman, Syria
+Searchable tags: public services and the people who provide them, Honduras, Sweden, Bahrain, Philippines, social studies, first-steps, Haiti, Ecuador, Yemen, Afghanistan, Somalia, Mexico, Uganda, Fiji, Oman, Syria, India
 
 Afghanistan's own way (Grade 4 Social Studies): the child's world widens in rings — social life, family, mosque, school, village, city, homeland, world, Earth — and every ring carries its duties with it: respect for elders at home, duties and order at school, reverence for the flag, obedience to traffic rules.
 
@@ -153,3 +153,20 @@ Morocco's own way (Book 1, Dalil Moufid Ijtiamiat 5e): Moroccan primary Social S
 
 Registry note: this lesson is a pre-existing lesson (not a registry NEW lesson); the Morocco placement was filed directly against it, exactly as filed.
 
+
+India placements — Social Studies remaining strands (2026-11-17):
+
+**Book 2 (India):** *Social and Political Life-II, Grade 7* (student book, English) — Title as printed: Social and Political Life – II — Textbook for Class VII (Social Science). Grade: Grade 7 (student/teacher: STUDENT). Publisher: NCERT, New Delhi; year 2007 (2020-21 reprint); ISBN 81-7450-672-1. PDF pages: 128 in the repo copy (cover/title verified by the Economics wave against the same record; grab.py routes failed repeatedly in this wave — GitHub API RemoteDisconnected on release and tree routes and direct download timed out — so the remaining chapters were read in full text from the record's own recorded source, archive.org/details/ncert-gess3, chapter files gess301–gess309). Earlier waves: Geography wave filed it RECORD-ONLY (pure Civics); Economics wave placed pp. 82–101 only (Unit Five Markets, Ch 7–8). Verdict: COMPLETE — remaining strands (Units One–Four + Ch 9) read fully; Markets unit named only. Contents map: Civics/Citizenship/Government pp. 4–79 and 102–109 (Unit One Equality in Indian Democracy, Unit Two State Government, Unit Three Gender, Unit Four Media, Ch 9 Struggles for Equality); Economics pp. 82–101 (already placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/india-placements.md.
+
+**Book 6 (India):** *Looking Around (EVS), Grade 3* (student book, English) — Title as printed: Looking Around — Environmental Studies, Textbook for Class III. Grade: Grade 3 (student/teacher: STUDENT). Publisher: NCERT, New Delhi; year 2006 (2020-21 reprint); ISBN 81-7450-490-7. PDF pages: 176 in the repo copy (41,220,715 bytes per the secured record; read in this wave from the record's own recorded source, archive.org/details/ncert-ceap1, chapter files ceap101–ceap124 + preliminary file, because grab.py GitHub routes were failing). Earlier waves: not read by any earlier wave (EVS sits outside the Geography/History/Economics component split). Verdict: COMPLETE — contents read in full; every remaining-strand chapter read; science chapters named, not placed. Contents map: Integrated primary SS (family, home, work, transport, communication, community places) Ch 4–5, 7, 11–13, 15, 17–18, 21, 23; Science/Nature named not placed (Ch 1 animals, Ch 2 plants, Ch 3 & 20 water, Ch 6 & 10 & 14 food, Ch 8 birds, Ch 9 rain, Ch 19 animals, Ch 24 web of life); Games (Ch 16) and Left-Right directions (Ch 22) named, not placed. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/india-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| India part 1 — first-steps/public-services-and-the-people-who-provide-them — Ch 2 Role of the Government in Health — teaches: health care for all is government's job — the public health system against costly private care, and the court case of Hakim Sheikh, turned away by eight government hospitals — India Grade 7 Social and Political Life-II, printed p. 17 | India, *Social and Political Life-II, Grade 7* (student book), Ch 2 Role of the Government in Health — printed p. 17 |
+| India part 2 — first-steps/public-services-and-the-people-who-provide-them — Ch 12 Work We Do (neighbourhood part) — teaches: the work all around us — flower seller, cobbler, barber, doctor, traffic policeman — and the buildings of the neighbourhood (post office, hospital, bank, police station) where public work is done — India Grade 3 EVS Looking Around, printed p. 73 | India, *Looking Around (EVS), Grade 3* (student book), Ch 12 Work We Do (neighbourhood part) — printed p. 73 |
+
+**Acceptance count: taught in 11 countries (Honduras, Bahrain, Philippines, Ecuador, Yemen, Afghanistan, Mexico, Uganda, Fiji, Syria, India).**
+
+India's own way (Social and Political Life-II, Grade 7): Equality is taught through real lives — a domestic worker voting, a Dalit writer made to sweep his school, a Muslim couple refused a flat — and government through one running case (a diarrhoea outbreak in a fictional district) that forces every institution to act.
+
+India's own way (Looking Around (EVS), Grade 3): the child's own family is the first school — relations, pet names, family work and respect for elders are learned at home before any classroom; and every neighbourhood trade, from dhobi to traffic policeman, is shown as work of equal worth.
