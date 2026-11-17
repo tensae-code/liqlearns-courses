@@ -1178,3 +1178,119 @@ liqlearns-courses-work/expansion-td-2026-11-17/moldova-placements.md.
   scope. Technical Drawing stands at **17 lessons, 19 of 19
   placements stocked**. Build log:
   ethiopia-2026-11-11/build-logs/fix-technical-drawing.md.
+
+## Malaysia, Reka Bentuk dan Teknologi (RBT) — Design and Technology (T&D expansion, stocked 2026-11-17)
+
+Stocked from Malaysia's *Reka Bentuk dan Teknologi*
+(RBT — Design and Technology) textbooks, Kementerian
+Pendidikan Malaysia (KPM) / Dewan Bahasa dan Pustaka
+programme, in Malay: Tahun 4 (KSSR Semakan 2017, first
+printing 2019, ISBN 978-983-49-2477-3), Tingkatan 1
+(KSSM, first printing 2016, ISBN 978-983-022-738-2),
+Tingkatan 2 (KSSM, ISBN 978-983-59-9528-6) and
+Tingkatan 3 (KSSM, ISBN 978-983-092-444-1), each read
+COMPLETE. All 74 placements stocked: 71 NEW LESSON
+NEEDED resolved through the T&D slug registry — 65
+lessons built new (68 provenance rows; the elements
+of design, sketching and rendering, and the aquaponic
+project each carry two rows) and 3 stocked into
+existing expansion lessons (What technology is; The
+design brief; Advertising design) — and 3 placed
+directly into founding Technical Drawing lessons.
+Malaysia counts in the acceptance count (student
+books, not evidence-only).
+
+- **Workshop and Safety** (4 new lessons, 13 questions
+  each): Workshop safety (T4, printed pp. 2–7); Safety
+  signs and symbols in the workshop (pp. 8–11); When an
+  accident happens in the workshop (pp. 12–13); Keeping
+  the workshop safe and tools maintained (p. 13).
+- **First Steps** (5 new lessons, 13 questions each):
+  What design is (T4, pp. 14–17); Design careers
+  (p. 17); Design and technology — the definitions
+  (T1, pp. 2–3); Careers in design and technology
+  (p. 21); Inventors and inventions (pp. 22–30). What
+  technology is also carries a Malaysia placement
+  (T4, pp. 38–43).
+- **Design and Making** (33 new lessons, 13 questions
+  each): Appreciating design; The elements of design
+  (2 rows); Sketching and rendering product ideas
+  (2 rows); The product production process; Design
+  project steps 1–3 and 4–5 (dream car); Conventional
+  vs modern tool technology; Technology project (3D-pen
+  aeroplane + sewn pencil case); Why packaging design
+  matters; Packaging project (my food container); The
+  principles of design; Criteria of good design; Why
+  design and technology matter; Ethics in design;
+  Design project management; Planning a design
+  project; Work schedules for a design project;
+  Analysing the project plan and building the work
+  schedule; Preparing a cost estimate; Applying the
+  project brief as a table and sketches; Basic product
+  sketches in 2D and 3D; Inventive problem solving;
+  Function analysis; Physical contradictions
+  (percanggahan fizikal); Manufacturing technology;
+  The 3D model in manufacturing design; Mechanical
+  components; Mechanical design project; Product
+  development (starting, planning, organising, making
+  and proving); Design in business. The design brief
+  also carries a Malaysia placement (T1, pp. 49–55).
+- **Technical Drawing** (1 new lesson, 13 questions):
+  Packaging design (T4, pp. 54–57). Three founding
+  lessons also carry Malaysia placements (T1):
+  Free-hand sketching — principles (pp. 68–73);
+  Sketching techniques (pp. 74, 86–88); Pictorial
+  sketching — isometric (pp. 74–85). Advertising
+  design also carries a Malaysia placement (T3,
+  pp. 139–168).
+- **Food Technology** (3 new lessons, 13 questions
+  each): Food design (T4, pp. 66–69); Food-design
+  project (my attractive sandwich) (pp. 70–75); Food
+  design at Tingkatan 2 (pp. 145–168).
+- **Networks and Computers** (3 new lessons, 13
+  questions each — a new unit in this course):
+  Programming design basics (T4, pp. 76–79);
+  Algorithm, pseudocode and flowchart (pp. 80–85);
+  Building a program in Scratch (pp. 86–98). These are
+  the RBT subject's own programming-design unit inside
+  the technology textbook, placed as the placements
+  file records.
+- **Electricity and Electronics** (3 new lessons, 13
+  questions each): Electrical design (T2, pp. 60–68);
+  Electrical gadget project (pp. 69–77); Electronic
+  design (pp. 81–88).
+- **Models and Robotics** (4 new lessons, 13 questions
+  each): Building with a microcontroller (T2,
+  pp. 89–112); Mechatronic design (T3, pp. 2–17);
+  Reading and drawing the block diagram (gambar rajah
+  blok) (pp. 18–21); Modifying a mechatronic product
+  (pp. 22–32).
+- **Agriculture Technology** (5 new lessons, 13
+  questions each): Fertigation systems (T1,
+  pp. 103–107); Parts of a commercial fertigation
+  system (pp. 108–109); Running a fertigation system
+  (pp. 110–119); Designing a new fertigation system
+  (pp. 120–129); Aquaponic design project (T2, 2 rows,
+  pp. 116–141).
+- **Textiles and Fashion** (4 new lessons, 13 questions
+  each): Fashion design (T1, pp. 134–136); Joining
+  techniques in fashion making (teknik cantuman)
+  (pp. 137–139); Fashion-making tools and their uses
+  (pp. 139–141); Sketching a fashion design in 2D and
+  3D (pp. 142–159).
+
+Malaysia's own way is content and is carried in each
+lesson's sources: RBT runs one design-process cycle
+(idea → sketch → analyse and improve → trial model →
+make → present) through every strand; safety and its
+four colour sign families come first (Utamakan
+Keselamatan); packaging begins from coconut and banana
+leaves; fertigation and aquaponics carry Malaysian
+agriculture into the design cycle; TRIZ arrives in
+Malay dress (percanggahan fizikal, prinsip inventif);
+and the Tingkatan 3 capstone develops a real product
+from a customer-needs study to documented, advertised
+proof.
+
+Placements at
+liqlearns-courses-work/expansion-td-2026-11-17/malaysia-placements.md.

@@ -5,11 +5,11 @@ things works the same everywhere; only the way of teaching
 differs, and the way shows inside as examples. The path climbs
 from the hand to the drawing board to the workshop.
 
-**First Steps → Technical Drawing → Materials → Metal → Machining → Wood → Mechanisms and Machines → Electrical Installations and the Home → Textiles and Fashion → Radiography Technology → Design and Making → Models and Robotics → Workshop and Safety → Electricity and Electronics → Food Technology → Paper, Card and Modelling → Construction and Building → Vehicle Technology → Printing and Bookbinding → Agriculture Technology → Energy**
+**First Steps → Technical Drawing → Materials → Metal → Machining → Wood → Mechanisms and Machines → Electrical Installations and the Home → Textiles and Fashion → Radiography Technology → Design and Making → Models and Robotics → Workshop and Safety → Electricity and Electronics → Food Technology → Paper, Card and Modelling → Construction and Building → Vehicle Technology → Printing and Bookbinding → Agriculture Technology → Networks and Computers → Energy**
 
-Stocked titles so far: **276 lessons**.
+Stocked titles so far: **341 lessons**.
 
-**Technical Drawing** (technical-drawing/) — 40 lessons:
+**Technical Drawing** (technical-drawing/) — 41 lessons:
 17 built from Ethiopia's Grade 12 teacher guide (2003 E.C.,
 GEQIP generation) as labelled evidence — see CURRICULUM.md
 and ABOUT.md for the honesty terms — 6 stocked
@@ -88,7 +88,11 @@ and Technology, Year 11*, 2003 — student textbook,
 counted): Dimensioning — lines, symbols and reading
 direction; Orthographic projection basics.
 
-**First Steps** (first-steps/) — 23 lessons: 3 stocked
+- Packaging design (packaging-design/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka), Tahun 4
+
+Three founding Technical Drawing lessons also carry Malaysia placements (3 placements, *RBT Tingkatan 1*): Free-hand sketching — principles and place in design (printed pp. 68–73); Sketching techniques — lines, circles and proportion (printed pp. 74, 86–88); Pictorial sketching — isometric (printed pp. 74–85). Advertising design also carries a Malaysia placement (*RBT Tingkatan 3*, printed pp. 139–168).
+
+**First Steps** (first-steps/) — 28 lessons: 3 stocked
 2026-11-17 from Canada's *Technology in the Community*
 (Nunavut, Tulliniliara Level 14, student reader), 1
 stocked 2026-11-17 from Jamaica's *National Standards
@@ -124,6 +128,14 @@ counted nowhere):
 - Technology as a system (technology-as-a-system/) — stocked 2026-11-17 from Morocco's *Al Marjie en Technologie, Guide de l'enseignant(e), 2e année* (teacher-guide evidence only, counted nowhere)
 - Evolution of technical systems (evolution-of-technical-systems/) — stocked 2026-11-17 from Morocco's *Technologie, Guide de l'enseignant(e), 3e année* (teacher-guide evidence only, counted nowhere)
 - Professional fields and the labour market (professional-fields-and-the-labour-market/) — stocked 2026-11-17 from Moldova's *Educație tehnologică, Grade 9* (Editura Epigraf, 2024)
+
+- What design is (what-design-is/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Design careers (design-careers/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Design and technology — the definitions (design-and-technology-the-definitions/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Careers in design and technology (careers-in-design-and-technology/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Inventors and inventions (inventors-and-inventions/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+
+What technology is also carries a Malaysia placement (*RBT Tahun 4*, printed pp. 38–43).
 
 **Materials** (materials/) — 8 lessons: 2 stocked
 2026-11-17 from Finland's *Katse tulevaan*
@@ -218,7 +230,7 @@ Technology, Primary 5* (REB):
 - Making a simple electrical article (making-a-simple-electrical-article/) — stocked 2026-11-17 from Moldova's *Educație tehnologică, Grade 9* (Editura Epigraf, 2024)
 
 **Textiles and Fashion** (textiles-and-fashion/) —
-38 lessons: 1 stocked 2026-11-17 from the same Canada book,
+42 lessons: 1 stocked 2026-11-17 from the same Canada book,
 5 stocked 2026-11-17 from Finland's *Katse tulevaan*
 (TuleVa project learning material, published via aoe.fi),
 2 stocked 2026-11-17 from Azerbaijan's *Технология
@@ -272,7 +284,7 @@ Samoa placement (Year 9 Book 3, printed p. 36, 50):
 
 - X-ray machines (x-ray-machines/)
 
-**Design and Making** (design-and-making/) — 24 lessons:
+**Design and Making** (design-and-making/) — 57 lessons:
 1 stocked 2026-11-17 from Kuwait's الذكاء الرقمي 8
 (*Digital Intelligence, Grade 8, Term 2*, Ministry of
 Education, State of Kuwait), 6 stocked 2026-11-17
@@ -316,8 +328,44 @@ Technology, Year 11*, 2003):
 - The design brief (the-design-brief/) — stocked 2026-11-17 from Samoa's *Food & Textiles Technology* books (Year 9 Book 3, 2004; Year 11 Book 2, 2004)
 - Implementing and presenting a design project (implementing-and-presenting-a-design-project/) — stocked 2026-11-17 from Moldova's *Educație tehnologică, Grade 9* (Editura Epigraf, 2024). The design process also carries a Moldova placement (Grade 9, printed p. 28)
 
+- Appreciating design (appreciating-design/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- The elements of design (elements-of-design/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Sketching and rendering product ideas (sketching-and-rendering-product-ideas/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- The product production process (the-product-production-process/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Design project, step 1–3 (my dream car) (design-project-step-13-my-dream-car/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Design project, step 4–5 (design-project-step-45/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Conventional vs modern tool technology (conventional-vs-modern-tool-technology/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Technology project (mini aeroplane with a 3D pen + a sewn pencil case) (technology-project-mini-aeroplane-with-a-3d-pen-a-sewn-pencil/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Why packaging design matters (why-packaging-design-matters/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Packaging project (my food container) (packaging-project-my-food-container/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- The principles of design (principles-of-design/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Criteria of good design (criteria-of-good-design/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Why design and technology matter (why-design-and-technology-matter/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Ethics in design (ethics-in-design/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Design project management (design-project-management/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Planning a design project (planning-a-design-project/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Work schedules for a design project (work-schedules-for-a-design-project/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Analysing the project plan and building the work schedule (analysing-the-project-plan-and-building-the-work-schedule/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Preparing a cost estimate (preparing-a-cost-estimate/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Applying the project brief as a table and sketches; building a mock-up or model from the brief; evaluating the finished mock-up or model (applying-the-project-brief-as-a-table-and-sketches-building-a/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Basic product sketches in 2D and 3D; choosing the best product idea using the design elements; sketching the chosen product; improving the chosen sketch (basic-product-sketches-in-2d-and-3d-choosing-the-best-product/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Inventive problem solving (inventive-problem-solving/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Function analysis (function-analysis/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Physical contradictions (percanggahan fizikal) (physical-contradictions-percanggahan-fizikal/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Manufacturing technology (manufacturing-technology/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- The 3D model in manufacturing design (the-3d-model-in-manufacturing-design/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Mechanical components (mechanical-components/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Mechanical design project (mechanical-design-project/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Product development, starting the product (product-development-starting-the-product/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Product development, planning (product-development-planning/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Product development, organising the build (product-development-organising-the-build/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Product development, making and proving the product (product-development-making-and-proving-the-product/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Design in business (design-in-business/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+
+The design brief also carries a Malaysia placement (*RBT Tingkatan 1*, printed pp. 49–55).
+
 **Models and Robotics** (models-and-robotics/) —
-11 lessons: 6 stocked 2026-11-17 from the same Kuwait book,
+15 lessons: 6 stocked 2026-11-17 from the same Kuwait book,
 1 stocked 2026-11-17 from Jamaica's *National
 Standards Curriculum Guide — Grades 4–6 — Resource
 & Technology* (Jamaica, 2018) — Making a toy car
@@ -339,8 +387,13 @@ nowhere):
 - Making an object that uses wind energy (making-an-object-that-uses-wind-energy/)
 - Robotics — how robots are built and move (robotics/) — stocked 2026-11-17 from Moldova's *Educație tehnologică, Grade 9* (Editura Epigraf, 2024)
 
+- Building with a microcontroller (building-with-a-microcontroller/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Mechatronic design (mechatronic-design/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Reading and drawing the block diagram (gambar rajah blok) of an existing mechatronic product (reading-and-drawing-the-block-diagram-gambar-rajah-blok-of-an/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Modifying a mechatronic product (modifying-a-mechatronic-product/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+
 **Workshop and Safety** (workshop-and-safety/) —
-8 lessons: 1 stocked 2026-11-17 from Malta's Workbook 1,
+12 lessons: 1 stocked 2026-11-17 from Malta's Workbook 1,
 1 stocked 2026-11-17 from Jamaica's *National
 Standards Curriculum Guide — Grades 4–6 — Resource
 & Technology* (Jamaica, 2018), 1 stocked
@@ -360,8 +413,13 @@ marking out also carries a Jamaica placement:
 - Masonry tools (masonry-tools/) — stocked 2026-11-17 from Rwanda's *Science and Elementary Technology, Primary 5* (REB)
 - Mechanics and blacksmith tools (mechanics-and-blacksmith-tools/) — stocked 2026-11-17 from Rwanda's *Science and Elementary Technology, Primary 6* (REB)
 
+- Workshop safety (workshop-safety/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Safety signs and symbols in the workshop (safety-signs-and-symbols/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- When an accident happens in the workshop (when-an-accident-happens-in-the-workshop/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Keeping the workshop safe and tools maintained (keeping-the-workshop-safe-and-tools-maintained/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+
 **Electricity and Electronics**
-(electricity-and-electronics/) — 24 lessons: 2 stocked
+(electricity-and-electronics/) — 27 lessons: 2 stocked
 2026-11-17 from Malta's Workbook 2, 6 stocked
 2026-11-17 from Jamaica's *National Standards Curriculum
 Guide — Grades 4–6 — Resource & Technology*
@@ -400,7 +458,11 @@ The simple electric circuit also carries a Rwanda
 placement (*Science and Elementary Technology,
 Primary 5*, printed p. 198).
 
-**Food Technology** (food-technology/) — 15 lessons:
+- Electrical design (electrical-design/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Electrical gadget project (electrical-gadget-project/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Electronic design (electronic-design/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+
+**Food Technology** (food-technology/) — 18 lessons:
 1 stocked 2026-11-17 from Azerbaijan's *Технология
 (Technology), Grade 2* (Russian edition as held), and
 10 stocked 2026-11-17 from Samoa's MESC food books —
@@ -424,6 +486,10 @@ reprinted 2004), and *Food Technology* Year 12 (2004):
 - Hygiene and work-protection norms in the kitchen (hygiene-and-work-protection-norms-in-the-kitchen/) — stocked 2026-11-17 from Moldova's *Educație tehnologică, Grade 4* (Editura Epigraf, 2017)
 - Culinary processing (culinary-processing/) — stocked 2026-11-17 from Moldova's *Educație tehnologică* textbooks (Grade 4; Grades 5–6)
 - Food technology (food-technology/) — stocked 2026-11-17 from Moldova's *Educația tehnologică — Manual pentru clasele a 5-a – a 6-a* (Grades 5–6, G6 half). Setting and serving the table also carries a Moldova placement (Grade 4, printed p. 20)
+
+- Food design (food-design/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Food-design project (my attractive sandwich) (food-design-project-my-attractive-sandwich/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Food design at Tingkatan 2 (food-design-at-tingkatan-2/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
 
 **Paper, Card and Modelling** (paper-card-and-modelling/) —
 34 lessons: 7 stocked 2026-11-17 from Azerbaijan's
@@ -469,12 +535,18 @@ teacher-guide evidence only, counted nowhere):
 - The woodworking workplace (the-woodworking-workplace/) — stocked 2026-11-17 from Moldova's *Educație tehnologică* textbooks (Grades 4, 5–6 and 9)
 
 **Agriculture Technology** (agriculture-technology/) —
-2 lessons, stocked 2026-11-17 from Rwanda's *Science
+7 lessons, stocked 2026-11-17 from Rwanda's *Science
 and Elementary Technology, Primary 4* (REB) — a new
 unit in this course:
 
 - Agricultural tools and their uses (agricultural-tools-and-their-uses/)
 - Caring for agricultural tools (caring-for-agricultural-tools/)
+
+- Fertigation systems (agricultural technology) (fertigation-systems-agricultural-technology/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Parts of a commercial fertigation system (parts-of-a-commercial-fertigation-system/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Running a fertigation system (running-a-fertigation-system/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Designing a new fertigation system (designing-a-new-fertigation-system/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Aquaponic design project (aquaponic-design-project/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
 
 **Construction and Building** (construction-and-building/) —
 9 lessons: 2 stocked 2026-11-17 from Haiti's ITAP Projet
@@ -523,3 +595,16 @@ placement (1 placement, teacher-guide evidence):
 - Components of a photovoltaic system (components-of-a-photovoltaic-system/)
 - The energy chain (the-energy-chain/) — 5 Morocco placements, one per function (feed, distribute, convert, transmit, act)
 - Generating electrical energy (generating-electrical-energy/) — stocked 2026-11-17 from Moldova's *Educație tehnologică, Grade 9* (Editura Epigraf, 2024)
+
+**Textiles and Fashion** additions — 4 lessons stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks:
+
+- Fashion design (fashion-design/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Joining techniques in fashion making (teknik cantuman) (joining-techniques-in-fashion-making-teknik-cantuman/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Fashion-making tools and their uses (fashion-making-tools-and-their-uses/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Sketching a fashion design in 2D and 3D (sketching-a-fashion-design-in-2d-and-3d/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+
+**Networks and Computers** (networks-and-computers/) — 3 lessons, a new unit in this course, stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi Tahun 4* (RBT, KPM / Dewan Bahasa dan Pustaka):
+
+- Programming design basics (programming-design-basics/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Algorithm, pseudocode and flowchart (algorithm-pseudocode-and-flowchart/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+- Building a program in Scratch (building-a-program-in-scratch-the-book-s-programming-design/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)

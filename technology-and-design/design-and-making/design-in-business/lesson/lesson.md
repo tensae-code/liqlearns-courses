@@ -1,0 +1,18 @@
+# Design in business
+
+## Do it first
+Before reading on: take the materials this lesson names and try the task in your own way first. Then read how Malaysia's book teaches it, and compare.
+
+## Sub lesson 1 — Design as a marketing instrument
+Tingkatan 3 turns design outward: design is a marketing instrument. Malaysia defines what marketing is, then gives design its role inside it — the product’s face in the market.
+
+## Sub lesson 2 — The methods of advertising design
+Advertising design has methods, and they are named and compared, so the method chosen for a product is a decision, not a habit. The strand prepares the advertising project that follows.
+
+## Say it to your companion
+Explain in your own words: design in business is design as a marketing instrument — with named, comparable methods of advertising design. Say it once plainly, then answer one question your companion asks about it.
+
+## Do It Yourself
+1. Do the Do it first task again, carefully this time, using everything the lesson taught.
+2. Check your work against the lesson's own checks — fix one thing you find.
+3. Keep your work: it is practice evidence, and the next lesson builds on it.

@@ -1,6 +1,6 @@
 # Sources — Free-hand sketching — principles and place in design
 
-countries: Belarus, Ethiopia, Jamaica, Moldova
+countries: Belarus, Ethiopia, Jamaica, Malaysia, Moldova
 
 **Book 1:** *Basic Technical Drawing, Teacher Guide, Grade 12* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, in collaboration with Kuraz International Publisher P.L.C., Addis Ababa, first edition, 2003 E.C., ISBN 978-99944-2-097-2, 105 printed pp. Page rule: printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/technical-drawing/g12-teacher-placements.md.
 
@@ -12,6 +12,8 @@ countries: Belarus, Ethiopia, Jamaica, Moldova
 
 **Book 5:** *Educație tehnologică — Manual pentru clasa a IX-a (Technological Education — Textbook for Grade 9)* (student textbook) — Moldova, Authors: Ana Tverdohleb, Ion Șaragov, Lilia Platon, Veronica Loghinova, Inga Mațcan-Lîsenco, Angela Tocarciuc, Angela Ghelbet, Sergiu Tronciu, Daniela Holban, Vasile Plămădeală, Elena Bivol. Publisher: Editura Epigraf, 2024 (printed by Editura Universul); Ministry of Education and Research of the Republic of Moldova; written to the discipline curriculum approved by Order no. 1124 of 20 July 2018 and approved by Order no. 683 of 15 May 2024; ISBN 978-9975-60-553-3. Grade: Grade 9. Language: Romanian. Pages: 256 (PDF; printed p. = PDF p.), verified byte size 25,890,552 = record size. Source + route: tensae-code/liqlearns-textbooks, release asset in mid-size-books-8 via grab.py url route — grade-09/gov/moldova/technological-education/student/moldova-g09-technological-education.pdf. Kind: student textbook. Read: COMPLETE (whole book's parts read at their teaching pages; every part's project cycle checked). The book is built as eleven parts, each run as a project: design (elaborare/proiectare) → make (realizare) → evaluate and valorise (evaluare și valorificare). Placements at liqlearns-courses-work/expansion-td-2026-11-17/moldova-placements.md.
 
+**Book 6:** *Reka Bentuk dan Teknologi Tingkatan 1 (KSSM)* (student book) — Malaysia, Authors: Dr Salmiah Binti Jaba, Dr Rahimah Binti Jamaluddin, Mohd Shukri Bin Mohd Rejab PPN., PJK, Abd Samad Bin Hanif, Zamri Bin Sahaat. Publisher: Pustaka Pepada Jaya Sdn. Bhd. for Kementerian Pendidikan Malaysia, first printing 2016, ISBN 978-983-022-738-2. Grade: grade-07 (Tingkatan 1). Language: Malay. Pages: 179 PDF pp. (printed book to p. 169 + index). Size verified: 97,092,993 bytes, exact match to the release asset in `mid-size-books-2`. Kind: student book. Route: grab.py url (release asset). Cover verified: "REKA BENTUK DAN TEKNOLOGI — TINGKATAN 1", KSSM, car design sketches. COMPLETE — read page by page from rendered pages to the last teaching page (Bab 5 fashion production, printed pp. 153–159). Placements at liqlearns-courses-work/expansion-td-2026-11-17/malaysia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 (teacher guide — evidence) | Book 1, printed pp. 1–4 — use and application of free-hand sketching; sketching as graphical communication |
@@ -22,7 +24,9 @@ countries: Belarus, Ethiopia, Jamaica, Moldova
 | Crochiu vs schiță: the crochiu catches an object's main features in a few lines; the schiță is drawn with pencil alone, without other instruments, and is used while producing the piece | Moldova, *Educația tehnologică — Manual pentru clasele a 5-a – a 6-a (Grade 5 half)*, printed p. 15 |
 | The project sketch (schița de proiect): the designer's artistic sketch as the visual expression of the idea, letting the designer develop ideas and plan the finished product before making it in material | Moldova, *Educație tehnologică — Manual pentru clasa a IX-a (Grade 9)*, printed p. 58 |
 
-**Acceptance count: taught in 3 countries (Belarus, Jamaica, Moldova) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+| The role of sketching in design — sketches as the designer's thinking record, client-communication medium (concept sketches sent for approval), visual exploration, and visual detailing; the kinds of sketch (personal/doodle, exploration, technical with dimensions and materials, idea-development, presentation, digital) (original string `technical-drawing/free-hand-sketching-principles`) | Malaysia, *RBT Tingkatan 1*, printed p. 68–73 |
+
+**Acceptance count: taught in 4 countries (Belarus, Jamaica, Malaysia, Moldova) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
 
 Jamaica's own way: Jamaica teaches sketching inside designing — learners produce concept drawings of the model car they are making, present them for peer critique, and modify the drawings in response; the drawing is the design's visual representation, revised in public before making begins.
 
@@ -34,4 +38,6 @@ Belarus's own way: Belarus teaches the sketch (эскіз) as a working drawing 
 
 Moldova's own way: Moldova distinguishes the crochiu — a few lines catching an object's main features — from the schiță, drawn with pencil alone and used while producing the piece (Grade 5 wood module); in Grade 9 the sketch returns as the schița de proiect, the designer's artistic sketch that develops the idea and plans the finished product before it is made in material.
 
-Searchable tags: technical drawing, free-hand sketching, sketching principles, design process, Grade 12, Ethiopia, Jamaica, Grades 4–6, Resource & Technology, concept drawings, peer critique, Moldova, Grades 5–6, Grade 9, crochiu, schiță, schița de proiect
+Malaysia's own way: Malaysia teaches sketching as the designer's thinking record and client-communication medium — concept sketches are sent for approval — and classifies six kinds of sketch, from the personal doodle to the digital sketch.
+
+Searchable tags: technical drawing, free-hand sketching, sketching principles, design process, Grade 12, Ethiopia, Jamaica, Grades 4–6, Resource & Technology, concept drawings, peer critique, Moldova, Grades 5–6, Grade 9, crochiu, schiță, schița de proiect, Malaysia, Tingkatan 1, RBT, kinds of sketch, concept sketch
