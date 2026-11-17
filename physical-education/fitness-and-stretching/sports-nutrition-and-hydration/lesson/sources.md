@@ -1,6 +1,6 @@
 # Sources — Sports Nutrition and Hydration
 
-countries: United Kingdom, Fiji, Iran
+countries: United Kingdom, Fiji, Iran, Papua New Guinea
 
 **Acceptance count: taught in 3 countries (United Kingdom, Fiji, Iran).** United Kingdom is student-book stock (see its rows below), inside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; the Fiji teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count.
 
@@ -113,3 +113,24 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/iran-pe-plac
 | Iran — Module 3, Unit 2 "Controlling athletes' nutrition programmes" — monitoring and adjusting an athlete's eating plan (original target `fitness-and-stretching/sports-nutrition-planning`) | Iran, *Developing Health and Lifestyle with Sport, Grade 11 (C211304)*, Module 3, Unit 2 "Controlling athletes' nutrition programmes", printed p. 111 |
 
 Iran's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Iran's own way is content, as the book lines above record it: PE taught as a profession with a knowledge base — a Grade 10 theory book before any workshop book, workshop books of competency units with continuous and final assessment, team games taught as full coaching units with kabaddi standing as a full module beside them, and a special-needs fitness course of very short lessons with one idea each. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Papua New Guinea — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/papua-new-guinea-pe-placements.md. All ten Papua New Guinea books stocked in this expansion are TEACHER guides, COMPLETE as filed, so Papua New Guinea is filed as teacher-guide evidence only in every lesson it touches — named in the countries line and in the provenance rows, but outside the acceptance counts; no pupil's book is in hand. Books 4–6 are combined Health & Physical Education teacher guides read once: their Health parts are filed in papua-new-guinea-health-placements.md and placed in the Health course, not here. One Papua New Guinea placement is NOT stocked in PE because the registry resolves it to a Health-course lesson: `sport-and-its-story/ethics-of-drugs-in-sport` (Grade 9 PE TG Grade 9, Unit 2, Topics 13–14, printed p. 27) → Health EXISTING lesson `fair-play-and-the-body/doping-what-it-is-and-what-it-costs` — it belongs to the Health merge. Book 1's secured books.json tree route returned HTTP 404 (possible phantom push) and Book 6's secured record is likewise marked in_pushed while the GitHub Contents API returns 404 for its exact tree path (a byte-identical copy sits in phase3-staging) — both library debts are recorded in the book lines below, as filed. Book 10 (Lower Primary PE TG, Grades 3–5 combined) was kept in scratch (scratch-pg/pe-lower.pdf) rather than staged, as filed, because its grade span has no clear single-grade staging folder. The placements file's three record-only items (a publisher catalogue image, a Grade 11 Arts Teacher Guide link belonging to another subject, and an OER syllabus placeholder link) carry no placements — nothing is stocked from them.
+
+**Book — Papua New Guinea PE TG Grade 9 (teacher guide — evidence):**
+## Book 7 — PE TG Grade 9 (teacher guide, English)
+- Title as printed: Physical Education Teacher Guide, Junior High Grade 9, Standards-Based
+- Grade: 9 (student/teacher: TEACHER)
+- Publisher: Department of Education, Papua New Guinea; year 2023; ISBN 978-9980-921-08-6
+- PDF pages: 128 (cover verified visually against the record title; ISBN on the copyright page matches the download-list record)
+- Verdict: COMPLETE
+- Tally: 19 placements — 12 to existing lessons, 7 NEW LESSON NEEDED
+- Papua New Guinea's own way: Junior High PE is rebuilt into two strands (Movement, Physical Activity) with benchmark-coded topics; it adds an ethics-of-drugs unit inside PE itself, an aerobic floor dance class, and an eight-week self-designed fitness programme as a student project.
+- Note: download-list link book, not previously in GitHub — read from the ministry PDF and STAGED under the push-don't-delete rule (see group log). Assessment sections and the sample lesson-plan/assessment appendices are inventory-only, named here and not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea — Strand 2 Unit 1, Topics 26–28: nutrition for health; components of a balanced lifestyle; benefits of a healthy lifestyle in physical activities (teacher guide — evidence) (original target `fitness-and-stretching/nutrition-and-a-balanced-lifestyle`) | Papua New Guinea, *Physical Education Teacher Guide, Junior High Grade 9, Standards-Based* (Papua New Guinea PE TG Grade 9), printed p. 28 |
+
+Papua New Guinea's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Papua New Guinea's own way is content, as the book lines above record it: PE organised in three strands — Safety, Movement, Physical Activity — in the primary guides, merging with Health into one six-strand subject from Grade 6, taught through village games, community modified sports and tabloid-sport station carnivals, with traditional leisure games, Tok Pisin-named modified sports (Kapul Soka, Tibol, Liklik Kriket, Mini Basketbol, Mini Volibol) and local leisure (gardening, fishing, sailing, sekapu stone games, string games) counted as PE content. Teacher guides are evidence of what is taught, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

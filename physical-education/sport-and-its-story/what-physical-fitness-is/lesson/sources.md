@@ -1,6 +1,6 @@
 # Sources — What Physical Fitness Is
 
-countries: Ethiopia, Cyprus, Zambia, Turkmenistan, Tajikistan, Timor-Leste, United Kingdom, Thailand, Pakistan, Afghanistan, China, Philippines, Nicaragua, Azerbaijan, Maldives, Honduras, Fiji, Mauritius, Iran, North Macedonia, Malaysia, Kuwait, Indonesia
+countries: Ethiopia, Cyprus, Zambia, Turkmenistan, Tajikistan, Timor-Leste, United Kingdom, Thailand, Pakistan, Afghanistan, China, Philippines, Nicaragua, Azerbaijan, Maldives, Honduras, Fiji, Mauritius, Iran, North Macedonia, Malaysia, Kuwait, Indonesia, Papua New Guinea
 
 **Book 1:** *Grade 1 Health and Physical Education Teacher Guide* (የጤናና ሰውነት ማጎልመሻ ትምህርት የመምህር መምሪያ መጽሐፍ, አንድኛ ክፍል) (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. (51 PDF pages). Printed page = PDF page − 8. TRUNCATED — the file holds printed pp. 1–43 of 85+. Read in full, page by page, from 100 DPI renders (no text layer), in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-teacher-placements.md.
 
@@ -677,3 +677,54 @@ Tally (Book 2, PE): 5 placements — 2 to existing lessons, 3 NEW LESSON NEEDED.
 Indonesia's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Indonesia's own way is content, as the book lines above record it for each book stocked here. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: what physical fitness is, Indonesia, PJOK G7 Student, PJOK G7 Teacher
+
+## Papua New Guinea — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/papua-new-guinea-pe-placements.md. All ten Papua New Guinea books stocked in this expansion are TEACHER guides, COMPLETE as filed, so Papua New Guinea is filed as teacher-guide evidence only in every lesson it touches — named in the countries line and in the provenance rows, but outside the acceptance counts; no pupil's book is in hand. Books 4–6 are combined Health & Physical Education teacher guides read once: their Health parts are filed in papua-new-guinea-health-placements.md and placed in the Health course, not here. One Papua New Guinea placement is NOT stocked in PE because the registry resolves it to a Health-course lesson: `sport-and-its-story/ethics-of-drugs-in-sport` (Grade 9 PE TG Grade 9, Unit 2, Topics 13–14, printed p. 27) → Health EXISTING lesson `fair-play-and-the-body/doping-what-it-is-and-what-it-costs` — it belongs to the Health merge. Book 1's secured books.json tree route returned HTTP 404 (possible phantom push) and Book 6's secured record is likewise marked in_pushed while the GitHub Contents API returns 404 for its exact tree path (a byte-identical copy sits in phase3-staging) — both library debts are recorded in the book lines below, as filed. Book 10 (Lower Primary PE TG, Grades 3–5 combined) was kept in scratch (scratch-pg/pe-lower.pdf) rather than staged, as filed, because its grade span has no clear single-grade staging folder. The placements file's three record-only items (a publisher catalogue image, a Grade 11 Arts Teacher Guide link belonging to another subject, and an OER syllabus placeholder link) carry no placements — nothing is stocked from them.
+
+**Book — Papua New Guinea PE TG Grade 3 (teacher guide — evidence):**
+## Book 1 — PE TG Grade 3 (teacher guide, English)
+- Title as printed: Physical Education Teacher Guide, Primary Grade 3, Standards Based
+- Grade: 3 (student/teacher: TEACHER)
+- Publisher: Department of Education, Papua New Guinea; year 2017 (First Edition); ISBN 978-9980-86-566-3
+- PDF pages: 94 (cover/title page verified against the record title; byte size 13,472,385 matches the download-list record exactly)
+- Verdict: COMPLETE
+- Tally: 18 placements — 13 to existing lessons, 5 NEW LESSON NEEDED
+- Papua New Guinea's own way: PE is organised in three strands — Safety, Movement, Physical Activity — with village games, community modified sports and tabloid-sport station carnivals as the local teaching vehicles; 120 minutes a week split theory/practical.
+- Note: the secured books.json tree route for this path returned HTTP 404 (possible phantom push — see group log library debts); the book was read from the duplicate ministry link. Glossary (printed pp.81–83) and the Assessment and Reporting section (printed pp.67–79) are inventory-only / assessment, named here and not placed, per the brief's exclusions.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea — Content Background 3: Fitness — what fitness is and why it matters (teacher guide — evidence) (original target `sport-and-its-story/what-physical-fitness-is`) | Papua New Guinea, *Physical Education Teacher Guide, Primary Grade 3, Standards Based* (Papua New Guinea PE TG Grade 3), printed p. 23 |
+
+**Book — Papua New Guinea PE TG Grade 4 (teacher guide — evidence):**
+## Book 2 — PE TG Grade 4 (teacher guide, English)
+- Title as printed: Physical Education Teacher Guide, Primary Grade 4, Standards Based
+- Grade: 4 (student/teacher: TEACHER)
+- Publisher: Department of Education, Papua New Guinea; year 2017 (First Edition); ISBN 978-9980-86-567-0
+- PDF pages: 80 (cover/title page verified against the record title; byte size 1,917,287 matches the download-list record exactly)
+- Verdict: COMPLETE
+- Tally: 19 placements — 11 to existing lessons, 8 NEW LESSON NEEDED
+- Papua New Guinea's own way: same three strands as Grade 3 (Safety, Movement, Physical Activity); the year's work is set out as lesson-title tables per term, with eight fully worked sample lessons; tabloid-sport stations carry kicking, leaping, hopping and dodging together.
+- Note: the secured books.json record is marked in_pushed; the book was read from the duplicate ministry download-list link at the exact recorded byte size. Assessment and Reporting (printed pp.54–65) and Glossary (printed pp.67–69) are inventory-only / assessment, named here and not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea — Content Background 3: Fitness — exercise, physical fitness and feeling alert and full of energy (teacher guide — evidence) (original target `sport-and-its-story/what-physical-fitness-is`) | Papua New Guinea, *Physical Education Teacher Guide, Primary Grade 4, Standards Based* (Papua New Guinea PE TG Grade 4), printed p. 21 |
+
+**Book — Papua New Guinea PE TG Grade 5 (teacher guide — evidence):**
+## Book 3 — PE TG Grade 5 (teacher guide, English)
+- Title as printed: Physical Education Teacher Guide, Primary Grade 5, Standards Based
+- Grade: 5 (student/teacher: TEACHER)
+- Publisher: Department of Education, Papua New Guinea; year 2017 (First Edition); ISBN 978-9980-86-559-5
+- PDF pages: 86 (cover/title page verified against the record title; byte size 1,973,179 matches the download-list record exactly)
+- Verdict: COMPLETE
+- Tally: 20 placements — 13 to existing lessons, 7 NEW LESSON NEEDED
+- Papua New Guinea's own way: same three strands; Grade 5 adds traditional leisure and recreational games as named lesson content, swimming strokes (butterfly, backstroke) inside Movement Skills, sport-specific fitness exercises, and running a mini modified grade competition as a taught skill.
+- Note: read from the duplicate ministry download-list link at the exact recorded byte size; the same book is secured in GitHub (tree route verified at the same byte size). Assessment task plans and reporting templates (printed pp.65–72) and Glossary are inventory-only / assessment, named here and not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea — Content Background 3: Fitness (teacher guide — evidence) (original target `sport-and-its-story/what-physical-fitness-is`) | Papua New Guinea, *Physical Education Teacher Guide, Primary Grade 5, Standards Based* (Papua New Guinea PE TG Grade 5), printed p. 21 |
+
+Papua New Guinea's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Papua New Guinea's own way is content, as the book lines above record it: PE organised in three strands — Safety, Movement, Physical Activity — in the primary guides, merging with Health into one six-strand subject from Grade 6, taught through village games, community modified sports and tabloid-sport station carnivals, with traditional leisure games, Tok Pisin-named modified sports (Kapul Soka, Tibol, Liklik Kriket, Mini Basketbol, Mini Volibol) and local leisure (gardening, fishing, sailing, sekapu stone games, string games) counted as PE content. Teacher guides are evidence of what is taught, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

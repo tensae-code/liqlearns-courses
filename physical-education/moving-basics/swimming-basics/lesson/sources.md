@@ -1,6 +1,6 @@
 # Sources — Swimming Basics
 
-countries: Turkmenistan, Tajikistan, Timor-Leste, China, Azerbaijan, Belize
+countries: Turkmenistan, Tajikistan, Timor-Leste, China, Azerbaijan, Belize, Papua New Guinea
 
 **Acceptance count: taught in 5 countries (Turkmenistan, Tajikistan, Timor-Leste, China, Azerbaijan).** Turkmenistan is student-book stock (see its row below), inside the acceptance count. Tajikistan is added as student-book stock (see its row below), inside the acceptance count. Timor-Leste is added as student-book stock (see its rows below), inside the acceptance count; its teacher-guide water-safety row is evidence only. China is added as student-book stock (see its rows below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count.
 
@@ -132,3 +132,99 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-pe-pl
 | Belize — Sports: Swimming — moving through water with arms and legs; floating, treading water, stretching, correct breathing and coordinating arm and leg strokes; trust, confidence and awareness of the dangers of water (original target `moving-basics/swimming`) | Belize, *Belize Grade 6 PE Middle, printed pp. 58–59* |
 
 Belize's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Belize's own way is content, as the book lines above record it: in the Lower Division PE is taught as three skill families — locomotor, manipulative, non-manipulative — spiralled across Infant I → Standard I with the same skills revisited at rising difficulty, and in the Middle Division PE is organised as Training, Work, Sports and Dance for every grade, with "Work" treating sweeping, mopping, chopping and washing as real physical training. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Papua New Guinea — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/papua-new-guinea-pe-placements.md. All ten Papua New Guinea books stocked in this expansion are TEACHER guides, COMPLETE as filed, so Papua New Guinea is filed as teacher-guide evidence only in every lesson it touches — named in the countries line and in the provenance rows, but outside the acceptance counts; no pupil's book is in hand. Books 4–6 are combined Health & Physical Education teacher guides read once: their Health parts are filed in papua-new-guinea-health-placements.md and placed in the Health course, not here. One Papua New Guinea placement is NOT stocked in PE because the registry resolves it to a Health-course lesson: `sport-and-its-story/ethics-of-drugs-in-sport` (Grade 9 PE TG Grade 9, Unit 2, Topics 13–14, printed p. 27) → Health EXISTING lesson `fair-play-and-the-body/doping-what-it-is-and-what-it-costs` — it belongs to the Health merge. Book 1's secured books.json tree route returned HTTP 404 (possible phantom push) and Book 6's secured record is likewise marked in_pushed while the GitHub Contents API returns 404 for its exact tree path (a byte-identical copy sits in phase3-staging) — both library debts are recorded in the book lines below, as filed. Book 10 (Lower Primary PE TG, Grades 3–5 combined) was kept in scratch (scratch-pg/pe-lower.pdf) rather than staged, as filed, because its grade span has no clear single-grade staging folder. The placements file's three record-only items (a publisher catalogue image, a Grade 11 Arts Teacher Guide link belonging to another subject, and an OER syllabus placeholder link) carry no placements — nothing is stocked from them.
+
+**Book — Papua New Guinea PE TG Grade 3 (teacher guide — evidence):**
+## Book 1 — PE TG Grade 3 (teacher guide, English)
+- Title as printed: Physical Education Teacher Guide, Primary Grade 3, Standards Based
+- Grade: 3 (student/teacher: TEACHER)
+- Publisher: Department of Education, Papua New Guinea; year 2017 (First Edition); ISBN 978-9980-86-566-3
+- PDF pages: 94 (cover/title page verified against the record title; byte size 13,472,385 matches the download-list record exactly)
+- Verdict: COMPLETE
+- Tally: 18 placements — 13 to existing lessons, 5 NEW LESSON NEEDED
+- Papua New Guinea's own way: PE is organised in three strands — Safety, Movement, Physical Activity — with village games, community modified sports and tabloid-sport station carnivals as the local teaching vehicles; 120 minutes a week split theory/practical.
+- Note: the secured books.json tree route for this path returned HTTP 404 (possible phantom push — see group log library debts); the book was read from the duplicate ministry link. Glossary (printed pp.81–83) and the Assessment and Reporting section (printed pp.67–79) are inventory-only / assessment, named here and not placed, per the brief's exclusions.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea — Content Background 2: Swimming — swimming as a PE activity and its skills (teacher guide — evidence) (original target `moving-basics/basic-swimming-and-water-skills`) | Papua New Guinea, *Physical Education Teacher Guide, Primary Grade 3, Standards Based* (Papua New Guinea PE TG Grade 3), printed p. 23 |
+
+**Book — Papua New Guinea PE TG Grade 4 (teacher guide — evidence):**
+## Book 2 — PE TG Grade 4 (teacher guide, English)
+- Title as printed: Physical Education Teacher Guide, Primary Grade 4, Standards Based
+- Grade: 4 (student/teacher: TEACHER)
+- Publisher: Department of Education, Papua New Guinea; year 2017 (First Edition); ISBN 978-9980-86-567-0
+- PDF pages: 80 (cover/title page verified against the record title; byte size 1,917,287 matches the download-list record exactly)
+- Verdict: COMPLETE
+- Tally: 19 placements — 11 to existing lessons, 8 NEW LESSON NEEDED
+- Papua New Guinea's own way: same three strands as Grade 3 (Safety, Movement, Physical Activity); the year's work is set out as lesson-title tables per term, with eight fully worked sample lessons; tabloid-sport stations carry kicking, leaping, hopping and dodging together.
+- Note: the secured books.json record is marked in_pushed; the book was read from the duplicate ministry download-list link at the exact recorded byte size. Assessment and Reporting (printed pp.54–65) and Glossary (printed pp.67–69) are inventory-only / assessment, named here and not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea — Content Background 2: Swimming — moving through water with the strokes (crawl, backstroke, breaststroke, butterfly, sidestroke) (teacher guide — evidence) (original target `moving-basics/basic-swimming-and-water-skills`) | Papua New Guinea, *Physical Education Teacher Guide, Primary Grade 4, Standards Based* (Papua New Guinea PE TG Grade 4), printed p. 20 |
+
+**Book — Papua New Guinea PE TG Grade 5 (teacher guide — evidence):**
+## Book 3 — PE TG Grade 5 (teacher guide, English)
+- Title as printed: Physical Education Teacher Guide, Primary Grade 5, Standards Based
+- Grade: 5 (student/teacher: TEACHER)
+- Publisher: Department of Education, Papua New Guinea; year 2017 (First Edition); ISBN 978-9980-86-559-5
+- PDF pages: 86 (cover/title page verified against the record title; byte size 1,973,179 matches the download-list record exactly)
+- Verdict: COMPLETE
+- Tally: 20 placements — 13 to existing lessons, 7 NEW LESSON NEEDED
+- Papua New Guinea's own way: same three strands; Grade 5 adds traditional leisure and recreational games as named lesson content, swimming strokes (butterfly, backstroke) inside Movement Skills, sport-specific fitness exercises, and running a mini modified grade competition as a taught skill.
+- Note: read from the duplicate ministry download-list link at the exact recorded byte size; the same book is secured in GitHub (tree route verified at the same byte size). Assessment task plans and reporting templates (printed pp.65–72) and Glossary are inventory-only / assessment, named here and not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea — Content Background 2: Swimming, and the Movement Skills lesson titles "What is butterfly stroke", "What is back stroke" and performing both strokes (teacher guide — evidence) (original target `moving-basics/basic-swimming-and-water-skills`) | Papua New Guinea, *Physical Education Teacher Guide, Primary Grade 5, Standards Based* (Papua New Guinea PE TG Grade 5), printed pp. 20, 26 |
+
+**Book — Papua New Guinea HPE TG Grade 7 (teacher guide — evidence):**
+## Book 5 — HPE TG Grade 7 (teacher guide, English) — PE parts
+- Title as printed: Health & Physical Education Teacher Guide, Primary Grade 7, Standards Based
+- Grade: 7 (student/teacher: TEACHER)
+- Publisher: Department of Education, Papua New Guinea; year 2019 (First Edition); ISBN 978-9980-905-33-8
+- PDF pages: 134 (cover/title page verified against the record title; byte size 2,752,440 matches the download-list record exactly)
+- Verdict: COMPLETE (combined book read once; Health parts filed in papua-new-guinea-health-placements.md, Book 5)
+- Tally (PE parts): 11 placements — 8 to existing lessons, 3 NEW LESSON NEEDED
+- Papua New Guinea's own way: Grade 7 PE is organised as four-lesson sport blocks again (softball, basketball), adds offensive/defensive play skills as their own lessons, and teaches risk itself — risk environments, levels of risk in physical activities, sports and risk behaviour.
+- Note: read from the duplicate ministry download-list link at the exact recorded byte size; the same book is secured in GitHub (tree route verified at the same byte size). Assessment, Recording and Reporting (printed pp.97–110) and Glossary (printed pp.111–117) are inventory-only / assessment, named here and not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea — Content Background, Strand 6: Swimming — aquatic sports and competitive swimming movements and styles on and under water, the door to other water sports (teacher guide — evidence) (original target `moving-basics/basic-swimming-and-water-skills`) | Papua New Guinea, *Health & Physical Education Teacher Guide, Primary Grade 7, Standards Based* (Papua New Guinea HPE TG Grade 7), printed p. 43 |
+
+**Book — Papua New Guinea PE TG Grade 9 (teacher guide — evidence):**
+## Book 7 — PE TG Grade 9 (teacher guide, English)
+- Title as printed: Physical Education Teacher Guide, Junior High Grade 9, Standards-Based
+- Grade: 9 (student/teacher: TEACHER)
+- Publisher: Department of Education, Papua New Guinea; year 2023; ISBN 978-9980-921-08-6
+- PDF pages: 128 (cover verified visually against the record title; ISBN on the copyright page matches the download-list record)
+- Verdict: COMPLETE
+- Tally: 19 placements — 12 to existing lessons, 7 NEW LESSON NEEDED
+- Papua New Guinea's own way: Junior High PE is rebuilt into two strands (Movement, Physical Activity) with benchmark-coded topics; it adds an ethics-of-drugs unit inside PE itself, an aerobic floor dance class, and an eight-week self-designed fitness programme as a student project.
+- Note: download-list link book, not previously in GitHub — read from the ministry PDF and STAGED under the push-don't-delete rule (see group log). Assessment sections and the sample lesson-plan/assessment appendices are inventory-only, named here and not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea — Unit 2, Topics 35–36: introduction to swimming; the four main strokes — freestyle, backstroke, breaststroke (teacher guide — evidence) (original target `moving-basics/basic-swimming-and-water-skills`) | Papua New Guinea, *Physical Education Teacher Guide, Junior High Grade 9, Standards-Based* (Papua New Guinea PE TG Grade 9), printed p. 28 |
+
+**Book — Papua New Guinea PE TG Grade 10 (teacher guide — evidence):**
+## Book 8 — PE TG Grade 10 (teacher guide, English)
+- Title as printed: Physical Education Teacher Guide, Junior High Grade 10, Standards-Based
+- Grade: 10 (student/teacher: TEACHER)
+- Publisher: Department of Education, Papua New Guinea; year 2023; ISBN 978-9980-921-09-3
+- PDF pages: 140 (title page text and copyright-page ISBN verified against the download-list record, which names this ISBN)
+- Verdict: COMPLETE
+- Tally: 11 placements — 5 to existing lessons, 6 NEW LESSON NEEDED
+- Papua New Guinea's own way: Grade 10 adds physiology and biomechanics of movement, cardiorespiratory monitoring, a sports pyramid and planning for a national sporting event, and officiating as taught content.
+- Note: download-list link book, not previously in GitHub — read from the ministry PDF and STAGED under the push-don't-delete rule (see group log). Assessment/lesson-plan sample sections are inventory-only, named here and not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea — Unit 3 Competency in Sports, Topic 7 (water sports skills and techniques) and Strand 2 Unit 2, Topic 19 (strokes in swimming) (teacher guide — evidence) (original target `moving-basics/basic-swimming-and-water-skills`) | Papua New Guinea, *Physical Education Teacher Guide, Junior High Grade 10, Standards-Based* (Papua New Guinea PE TG Grade 10), printed pp. 65–67, 88 |
+
+Papua New Guinea's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Papua New Guinea's own way is content, as the book lines above record it: PE organised in three strands — Safety, Movement, Physical Activity — in the primary guides, merging with Health into one six-strand subject from Grade 6, taught through village games, community modified sports and tabloid-sport station carnivals, with traditional leisure games, Tok Pisin-named modified sports (Kapul Soka, Tibol, Liklik Kriket, Mini Basketbol, Mini Volibol) and local leisure (gardening, fishing, sailing, sekapu stone games, string games) counted as PE content. Teacher guides are evidence of what is taught, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

@@ -347,3 +347,12 @@ Visually Impaired**
 **Traditional Games of Oman**
 (`traditional-games-and-dances/traditional-games-of-oman`)
 — 3 new lessons, bringing this course to 207 lessons.
+
+The PE expansion then added: **Safe Practices in
+Games and Sports**
+(`games-to-play/safe-practices-in-games-and-sports`),
+**Leisure and Recreation Activities**
+(`games-to-play/leisure-and-recreation-activities`) and
+**Traditional Games of Papua New Guinea**
+(`traditional-games-and-dances/traditional-games-of-papua-new-guinea`)
+— 3 new lessons, bringing this course to 210 lessons.

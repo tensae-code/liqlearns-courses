@@ -1,6 +1,6 @@
 # Sources — Sprinting and Hurdle Running
 
-countries: Ethiopia, Kazakhstan, Timor-Leste, Afghanistan, China, El Salvador, Philippines, Nicaragua, Maldives, Belize, Honduras, Fiji, Mauritius, Iran, North Macedonia, Zimbabwe, Jordan, Malaysia, Cuba, Kuwait, Oman
+countries: Ethiopia, Kazakhstan, Timor-Leste, Afghanistan, China, El Salvador, Philippines, Nicaragua, Maldives, Belize, Honduras, Fiji, Mauritius, Iran, North Macedonia, Zimbabwe, Jordan, Malaysia, Cuba, Kuwait, Oman, Papua New Guinea
 
 **Book — Grade 1 teacher (teacher guide — evidence):** *Grade 1 Health and Physical Education Teacher Guide* (የጤናና ሰውነት ማጎልመሻ ትምህርት የመምህር መምሪያ መጽሐፍ, አንድኛ ክፍል) (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, 2015 E.C. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-teacher-placements.md. TRUNCATED scan — see honesty paragraph.
 
@@ -728,3 +728,39 @@ Oman's own way: Grade 8 mirrors Grade 7 with the fitness unit's emphases swapped
 | Oman — Unit 2, Sports and Movement Games (1) — Athletics: the 100 m sprint — crouch start, speed build-up, and the race rules (teacher guide — evidence) (original target `athletics/sprinting-and-hurdle-running`) | Oman, *Oman G8 Teacher Guide*, printed p. 67 |
 
 Oman's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Oman's own way is content, as the book lines above record it: the subject is one combined Physical & Health Education course; the first cycle runs six units with child-facing mottos (Exercises, Basic Movements, Handling Movements, Motor Perception and Fluency, Movement Games, and Health Culture), the second cycle opens with Physical Fitness and Kids' Athletics and splits the games across two Movement Games units — including badminton, goalball for visually impaired pupils, table tennis adapted for visual impairment, and Omani folk games — with gymnastics in two tracks (rhythmic gymnastics for girls, floor gymnastics for boys), and the post-basic guides swap in health-related and skill-related fitness with named athletics events. Every topic follows one lesson-plan pattern: technical points, teaching steps, practice stations, games and competitions. Teacher guides are evidence of what is taught, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Papua New Guinea — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/papua-new-guinea-pe-placements.md. All ten Papua New Guinea books stocked in this expansion are TEACHER guides, COMPLETE as filed, so Papua New Guinea is filed as teacher-guide evidence only in every lesson it touches — named in the countries line and in the provenance rows, but outside the acceptance counts; no pupil's book is in hand. Books 4–6 are combined Health & Physical Education teacher guides read once: their Health parts are filed in papua-new-guinea-health-placements.md and placed in the Health course, not here. One Papua New Guinea placement is NOT stocked in PE because the registry resolves it to a Health-course lesson: `sport-and-its-story/ethics-of-drugs-in-sport` (Grade 9 PE TG Grade 9, Unit 2, Topics 13–14, printed p. 27) → Health EXISTING lesson `fair-play-and-the-body/doping-what-it-is-and-what-it-costs` — it belongs to the Health merge. Book 1's secured books.json tree route returned HTTP 404 (possible phantom push) and Book 6's secured record is likewise marked in_pushed while the GitHub Contents API returns 404 for its exact tree path (a byte-identical copy sits in phase3-staging) — both library debts are recorded in the book lines below, as filed. Book 10 (Lower Primary PE TG, Grades 3–5 combined) was kept in scratch (scratch-pg/pe-lower.pdf) rather than staged, as filed, because its grade span has no clear single-grade staging folder. The placements file's three record-only items (a publisher catalogue image, a Grade 11 Arts Teacher Guide link belonging to another subject, and an OER syllabus placeholder link) carry no placements — nothing is stocked from them.
+
+**Book — Papua New Guinea PE TG Grade 5 (teacher guide — evidence):**
+## Book 3 — PE TG Grade 5 (teacher guide, English)
+- Title as printed: Physical Education Teacher Guide, Primary Grade 5, Standards Based
+- Grade: 5 (student/teacher: TEACHER)
+- Publisher: Department of Education, Papua New Guinea; year 2017 (First Edition); ISBN 978-9980-86-559-5
+- PDF pages: 86 (cover/title page verified against the record title; byte size 1,973,179 matches the download-list record exactly)
+- Verdict: COMPLETE
+- Tally: 20 placements — 13 to existing lessons, 7 NEW LESSON NEEDED
+- Papua New Guinea's own way: same three strands; Grade 5 adds traditional leisure and recreational games as named lesson content, swimming strokes (butterfly, backstroke) inside Movement Skills, sport-specific fitness exercises, and running a mini modified grade competition as a taught skill.
+- Note: read from the duplicate ministry download-list link at the exact recorded byte size; the same book is secured in GitHub (tree route verified at the same byte size). Assessment task plans and reporting templates (printed pp.65–72) and Glossary are inventory-only / assessment, named here and not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea — Sample lesson 10: Modified athletics skills (teacher guide — evidence) (original target `athletics/sprinting-and-hurdle-running`) | Papua New Guinea, *Physical Education Teacher Guide, Primary Grade 5, Standards Based* (Papua New Guinea PE TG Grade 5), printed p. 49 |
+
+**Book — Papua New Guinea PE TG Grade 9 (teacher guide — evidence):**
+## Book 7 — PE TG Grade 9 (teacher guide, English)
+- Title as printed: Physical Education Teacher Guide, Junior High Grade 9, Standards-Based
+- Grade: 9 (student/teacher: TEACHER)
+- Publisher: Department of Education, Papua New Guinea; year 2023; ISBN 978-9980-921-08-6
+- PDF pages: 128 (cover verified visually against the record title; ISBN on the copyright page matches the download-list record)
+- Verdict: COMPLETE
+- Tally: 19 placements — 12 to existing lessons, 7 NEW LESSON NEEDED
+- Papua New Guinea's own way: Junior High PE is rebuilt into two strands (Movement, Physical Activity) with benchmark-coded topics; it adds an ethics-of-drugs unit inside PE itself, an aerobic floor dance class, and an eight-week self-designed fitness programme as a student project.
+- Note: download-list link book, not previously in GitHub — read from the ministry PDF and STAGED under the push-don't-delete rule (see group log). Assessment sections and the sample lesson-plan/assessment appendices are inventory-only, named here and not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea — Strand 2 Unit 2 Sports, Topics 31–32: classifying track and field events — track events (teacher guide — evidence) (original target `athletics/sprinting-and-hurdle-running`) | Papua New Guinea, *Physical Education Teacher Guide, Junior High Grade 9, Standards-Based* (Papua New Guinea PE TG Grade 9), printed p. 28 |
+
+Papua New Guinea's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Papua New Guinea's own way is content, as the book lines above record it: PE organised in three strands — Safety, Movement, Physical Activity — in the primary guides, merging with Health into one six-strand subject from Grade 6, taught through village games, community modified sports and tabloid-sport station carnivals, with traditional leisure games, Tok Pisin-named modified sports (Kapul Soka, Tibol, Liklik Kriket, Mini Basketbol, Mini Volibol) and local leisure (gardening, fishing, sailing, sekapu stone games, string games) counted as PE content. Teacher guides are evidence of what is taught, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
