@@ -4704,3 +4704,4 @@ Money: The triangular trade and the slave trade, The coffee value chain and ICAF
 ; +1 for Nauru, 2026-11-17 — Culture and Work: Traditional Rules That Protect Shared Places.
 ; +6 for Kiribati, 2026-11-17 — Culture and Work: Kiribati Mwaneaba the Meeting House That Keeps Culture, Kiribati Youth Roles and Worthwhile Citizenship, Kiribati Young Peoples Rights Under the Constitution, Kiribati Traditional Government Kaainga Mwaneaba Uea, Good Governance, Branches of Government Executive Legislature Judiciary.
 ; +1 for Niue, 2026-11-17 — Global Issues: Global Citizenship and a Culture of Peace.
+; +8 for Vanuatu, 2026-11-17 — First Steps: My Roles in My Family and Community, My Family and Relatives, Rules of Our Classroom; Culture and Work: Respecting Differences, Keeping Our Surroundings Clean, Peer Pressure and Standing Up to It, Human Rights and Why They Matter, Who Makes the Rules National Provincial and Community.
