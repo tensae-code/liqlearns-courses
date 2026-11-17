@@ -1,8 +1,8 @@
 # Sources — Knowing My Body
 
-countries: Afghanistan, Oman, Samoa, Greece, Azerbaijan
+countries: Afghanistan, Oman, Samoa, Greece, Azerbaijan, Zimbabwe
 
-**Acceptance count: taught in 2 countries.** Afghanistan is filed as teacher-guide evidence only, outside the acceptance count, in this lesson — this lesson is founded on teacher-guide evidence only, no pupil's book in hand. Oman is likewise filed as teacher-guide evidence only, outside the acceptance count. Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below).
+**Acceptance count: taught in 2 countries.** Zimbabwe is filed as teacher-guide evidence only in this lesson (see its Zimbabwe section below) — named in the countries line and provenance rows, but outside the acceptance count; no Zimbabwe pupil's book is stocked in this lesson. Afghanistan is filed as teacher-guide evidence only, outside the acceptance count, in this lesson — this lesson is founded on teacher-guide evidence only, no pupil's book in hand. Oman is likewise filed as teacher-guide evidence only, outside the acceptance count. Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below).
 
 **Book 1 — رهنمای معلم تربیت بدنی — صنف هفتم (Physical Education Teacher's Guide — Grade Seven) (teacher guide, Dari) — Health chapters only:**
 - Title as printed: رهنمای معلم تربیت بدنی — صنف هفتم (Physical Education Teacher's Guide — Grade Seven)
@@ -95,4 +95,54 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/azerbaijan-h
 
 Azerbaijan is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — all five Azerbaijan books are STUDENT books, so Azerbaijan is named in the countries line and provenance row(s) and the acceptance count rises from 1 to 2 countries. The Azerbaijan placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the slug registry (Part 2B for HELD-title-decision lines, Part 2A for descriptive slug strings; placements filed directly under this lesson's own slug, or under its canonical NEW string, are recorded as filed), and the original string is recorded in each provenance row above. Azerbaijan's own way is content, as the book lines above record it: health is taught inside the Fiziki Tərbiyə textbooks as opening theory chapters, including hardening the body and a sample self-control diary. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: knowing my body, the water inside the body, body water 40-60 percent of body weight, water inside and outside the cells, metabolic water, water content of common foods, Afghanistan G7 PE Teacher Guide Dari, body types أنماط الجسم, stocky muscular thin, heredity environment nutrition, Oman G4 Teacher Guide, growth and development body parts functions height weight puberty changes, Samoa Years 1–8 Curriculum, the healthy body, Το υγιές σώμα, muscles bones fat blood water, what exercise means, Greece Grades 5-6 Fysiki Agogi E-ST, Azerbaijan Fiziki Tərbiyə Grades 6-10, Georgian-language edition, hardening the body, self-control diary
+
+## Zimbabwe — Health expansion 2026-11-16
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/zimbabwe-health-placements.md. The Zimbabwe books stocked in this lesson are Book 2, Book 3, Book 4. Record-only items of the placements file, as filed: the *Spring Up in Science and Technology — Learner's Book, Grade 7 (preview)* is UNREAD / record-only — a Science and Technology book, not a Health book; the publisher site serves only a Cloudflare challenge page, so no copy could be taken — with 0 placements; and the PlusOne PE and Arts G2 TG and G6 TG health parts are UNREAD — repo tree 404 at the recorded paths, publisher PDFs Cloudflare-blocked — with 0 placements; nothing is stocked from them.
+
+**Book — Zimbabwe ECD A (teacher guide):**
+## Book 2 — PlusOne PE and Arts ECD A TG (teacher guide, English)
+- Title as printed: Physical Education and Arts — ECD A Teacher's Guide
+- Grade: ECD A (KG1) (student/teacher: TEACHER)
+- Publisher: Secondary Book Press; year 2025; ISBN 978-1-77932-146-6
+- PDF pages: 70 (cover/title page verified; byte size and blob SHA verified via GitHub repo tree)
+- Verdict: COMPLETE
+- Tally: 5 placements — 2 to existing lessons, 3 NEW LESSON NEEDED (all HELD-title-decision)
+- Zimbabwe's own way: health for the youngest learners starts with hazards ("things that can make you go 'Ouch!'"), play-area safety rules and cleaning the school, before food and hygiene.
+- PE parts of this book are filed in zimbabwe-pe-placements.md; Arts parts named there, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Zimbabwe — Topic 2: Human body — my body parts and left-to-right orientation (filed as HELD-title-decision; resolved by registry Part 2B to this lesson) (teacher guide — evidence) (original string `staying-safe/HELD-title-decision`) | Zimbabwe ECD A PlusOne PE and Arts ECD A TG, printed p. 12 (teacher guide — evidence) |
+
+**Book — Zimbabwe ECD B (teacher guide):**
+## Book 3 — PlusOne PE and Arts ECD B TG (teacher guide, English)
+- Title as printed: Physical Education and Arts — ECD B Teacher's Guide
+- Grade: ECD B (KG2) (student/teacher: TEACHER)
+- Publisher: Secondary Book Press; year 2025; ISBN 978-1-77932-145-9
+- PDF pages: 88 (cover/title page verified; byte size and blob SHA verified via GitHub repo tree)
+- Verdict: COMPLETE
+- Tally: 6 placements — 3 to existing lessons, 3 NEW LESSON NEEDED (all HELD-title-decision)
+- Zimbabwe's own way: ECD B adds exercising attire, caring for the environment and water hazards to the safety-and-health topic.
+- PE parts of this book are filed in zimbabwe-pe-placements.md; Arts parts named there, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Zimbabwe — Topic 2: Human body — my body and the functions of body parts (filed as HELD-title-decision; resolved by registry Part 2B to this lesson) (teacher guide — evidence) (original string `staying-safe/HELD-title-decision`) | Zimbabwe ECD B PlusOne PE and Arts ECD B TG, printed p. 10 (teacher guide — evidence) |
+
+**Book — Zimbabwe Grade 1 (teacher guide):**
+## Book 4 — PlusOne PE and Arts G1 TG (teacher guide, English)
+- Title as printed: Physical Education and Arts — Grade 1 Teacher's Guide (Fadzanai Tafirei)
+- Grade: Grade 1 (student/teacher: TEACHER)
+- Publisher: Secondary Book Press; year 2025; ISBN 978-1-77928-513-3
+- PDF pages: 77 (cover/title page verified; byte size and blob SHA verified via GitHub repo tree)
+- Verdict: COMPLETE
+- Tally: 4 placements — 2 to existing lessons, 2 NEW LESSON NEEDED (both HELD-title-decision)
+- PE parts of this book are filed in zimbabwe-pe-placements.md; Arts parts named there, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Zimbabwe — Unit 3: My body — knowing my body and its parts (filed as HELD-title-decision; resolved by registry Part 2B to this lesson) (teacher guide — evidence) (original string `staying-safe/HELD-title-decision`) | Zimbabwe Grade 1 PlusOne PE and Arts G1 TG, printed p. 8 (teacher guide — evidence) |
+
+Zimbabwe is added as teacher-guide evidence only (see its book lines and rows above), outside the acceptance count — every Zimbabwe book stocked in this lesson is a TEACHER guide, so Zimbabwe is named in the countries line and provenance rows but the acceptance count is unchanged (still taught in 2 countries); no Zimbabwe pupil's book is stocked in this lesson. All three Zimbabwe placements in this lesson were filed as HELD-title-decision lines, resolved by registry Part 2B to this lesson, and the original string is recorded in each provenance row above. Zimbabwe's own way is content, as the book lines above record it: the Human body / My body topic of the early PlusOne guides teaches body parts, left-to-right orientation and the functions of body parts.
+
+Searchable tags: knowing my body, the water inside the body, body water 40-60 percent of body weight, water inside and outside the cells, metabolic water, water content of common foods, Afghanistan G7 PE Teacher Guide Dari, body types أنماط الجسم, stocky muscular thin, heredity environment nutrition, Oman G4 Teacher Guide, growth and development body parts functions height weight puberty changes, Samoa Years 1–8 Curriculum, the healthy body, Το υγιές σώμα, muscles bones fat blood water, what exercise means, Greece Grades 5-6 Fysiki Agogi E-ST, Azerbaijan Fiziki Tərbiyə Grades 6-10, Georgian-language edition, hardening the body, self-control diary, my body parts, left-to-right orientation, functions of body parts, knowing my body and its parts, Zimbabwe PlusOne PE and Arts ECD A ECD B Grade 1 Teacher Guides, Secondary Book Press

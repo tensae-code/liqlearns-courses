@@ -1,8 +1,8 @@
 # Sources — Diseases of Inactivity
 
-countries: United Kingdom, Cyprus, Oman, Samoa, Honduras, Philippines, Greece
+countries: United Kingdom, Cyprus, Oman, Samoa, Honduras, Philippines, Greece, Zimbabwe
 
-**Acceptance count: taught in 5 countries.** United Kingdom and Cyprus are filed as student-book stock, inside the acceptance count, in this lesson. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below).
+**Acceptance count: taught in 6 countries.** Zimbabwe is filed as student-book stock, inside the acceptance count, in this lesson (see its Zimbabwe section below). United Kingdom and Cyprus are filed as student-book stock, inside the acceptance count, in this lesson. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below).
 
 **Book 1 — Edexcel GCSE (9-1) Physical Education Student Book, 2nd edition (student book, English):**
 - Title as printed: Edexcel GCSE (9-1) Physical Education — Tony Scott (cover: "2nd edition")
@@ -120,4 +120,25 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/greece-healt
 
 Greece is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — both Greece books are STUDENT books, so Greece is named in the countries line and provenance row(s) and the acceptance count rises from 4 to 5 countries. The Greece placement(s) in this lesson were filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson by registry Part 2B (HELD description as recorded in the provenance row), and the original string is recorded in each provenance row above. Greece's own way is content, as the book line above records it: the harms of a sedentary life are taught as a table of rising risks inside the cycle of life. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: diseases of inactivity, sedentary lifestyle, consequences of inactivity, obesity, somatotypes body types, hypokinetic diseases, Edexcel GCSE Physical Education, United Kingdom GCSE Edexcel PE Student Book, sedentary life, Καθιστική Ζωή, sitting-still life, Cyprus Olympic Education Insert Grades 11-12, physical activity and chronic diseases النشاط البدني وعلاقته بالأمراض المزمنة, Oman G8 Teacher Guide, diseases of inactivity sedentary lifestyle processed foods diabetes heart disease hypertension obesity gout, Samoa Years 11–12 TG, Mantén tu salud física, sedentary living muscles degenerate spinal deviations foot deformities degenerative diseases, Honduras Telebásica Grade 8, Hypokinetic Diseases, diseases of a sedentary lifestyle, hyperlipidemia LDL HDL cholesterol, systolic diastolic pressure, type 1 vs type 2 diabetes, Philippines Grade 7 PE LM Units 1-2, health exercise and the cycle of life, sedentary life rising risks, heart attack, harms of smoking, Greece Grades 5-6 Fysiki Agogi E-ST
+
+## Zimbabwe — Health expansion 2026-11-16
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/zimbabwe-health-placements.md. The Zimbabwe books stocked in this lesson are Book 1. Record-only items of the placements file, as filed: the *Spring Up in Science and Technology — Learner's Book, Grade 7 (preview)* is UNREAD / record-only — a Science and Technology book, not a Health book; the publisher site serves only a Cloudflare challenge page, so no copy could be taken — with 0 placements; and the PlusOne PE and Arts G2 TG and G6 TG health parts are UNREAD — repo tree 404 at the recorded paths, publisher PDFs Cloudflare-blocked — with 0 placements; nothing is stocked from them.
+
+**Book — Zimbabwe Grade 6 (student book):**
+## Book 1 — PlusOne PE Sport and Mass Displays G6 LB (student book, English)
+- Title as printed: PlusOne Physical Education, Sport and Mass Displays — Grade 6 Learner's Book
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Secondary Book Press; year not printed on pages read; ISBN no ISBN printed
+- PDF pages: 47 PDF pages (spread scans; printed pp. 1–137) (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 5 placements — 3 to existing lessons, 2 NEW LESSON NEEDED (both HELD-title-decision)
+- Zimbabwe's own way: health is taught inside the PE book as "Safety and Health" — healthy living is framed through household physical work (cleaning, digging the garden, fetching firewood) and active communities, alongside the diseases of inactivity and poor sanitation.
+- PE parts of this book are filed in zimbabwe-pe-placements.md; Music and Art topics named there, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Zimbabwe — Unit 2: Healthy living habits — physical activity at home, school and in the community; diseases of inactivity (hypertension), poor sanitation (cholera, typhoid, dysentery) and nutritional imbalance (anaemia) (filed as HELD-title-decision; resolved by registry Part 2B to this lesson) (original string `staying-safe/HELD-title-decision`) | Zimbabwe Grade 6 PlusOne PE G6 LB, printed p. 8 |
+
+Zimbabwe is added as student-book stock (see its book line and row above), inside the acceptance count — Book 1, the Grade 6 Learner's Book, is a STUDENT book, so Zimbabwe is named in the countries line and provenance row and the acceptance count rises from 5 to 6 countries. The Zimbabwe placement in this lesson was filed as a HELD-title-decision line, resolved by registry Part 2B to this lesson, and the original string is recorded in the provenance row above. Zimbabwe's own way is content, as the book line above records it: healthy living is framed through household physical work and active communities, alongside the diseases of inactivity and poor sanitation.
+
+Searchable tags: diseases of inactivity, sedentary lifestyle, consequences of inactivity, obesity, somatotypes body types, hypokinetic diseases, Edexcel GCSE Physical Education, United Kingdom GCSE Edexcel PE Student Book, sedentary life, Καθιστική Ζωή, sitting-still life, Cyprus Olympic Education Insert Grades 11-12, physical activity and chronic diseases النشاط البدني وعلاقته بالأمراض المزمنة, Oman G8 Teacher Guide, diseases of inactivity sedentary lifestyle processed foods diabetes heart disease hypertension obesity gout, Samoa Years 11–12 TG, Mantén tu salud física, sedentary living muscles degenerate spinal deviations foot deformities degenerative diseases, Honduras Telebásica Grade 8, Hypokinetic Diseases, diseases of a sedentary lifestyle, hyperlipidemia LDL HDL cholesterol, systolic diastolic pressure, type 1 vs type 2 diabetes, Philippines Grade 7 PE LM Units 1-2, health exercise and the cycle of life, sedentary life rising risks, heart attack, harms of smoking, Greece Grades 5-6 Fysiki Agogi E-ST, physical activity at home school and community, hypertension, cholera typhoid dysentery, anaemia, Zimbabwe PlusOne PE Sport and Mass Displays Grade 6, Secondary Book Press

@@ -802,3 +802,52 @@ daily-life play (hand washing, healthy foods, dressing for
 the weather, safe/dangerous, calling 112, an earthquake
 drill course), and Turkey's one full health textbook joining
 health knowledge to traffic culture in a single elective.
+
+**Health expansion — Zimbabwe — BUILT 2026-11-16:** 38 placements
+stocked — all into existing lessons, no new lessons — this
+course stays at **49 lessons**. Stocked into: Staying Safe
+While Exercising (11), Hygiene for Sport (7), The Body
+Systems (5), Healthy Habits Every Day (4), Eating a Balanced
+Diet (3), Knowing My Body (3), Preventing Sports Injuries
+and First Aid (2), Why Exercise Keeps You Healthy (2) and
+Diseases of Inactivity (1). From Book 1, *PlusOne Physical
+Education, Sport and Mass Displays — Grade 6 Learner's Book*
+(student book, Secondary Book Press, COMPLETE), 5 placements
+stocked as student-book stock, inside the acceptance counts
+(Staying Safe While Exercising, Preventing Sports Injuries
+and First Aid, The Body Systems and Diseases of Inactivity
+each rose by 1 country). From Books 2–8, the *PlusOne
+Physical Education and Arts* teacher guides for ECD A
+(2025, ISBN 978-1-77932-146-6), ECD B (2025, ISBN
+978-1-77932-145-9), Grade 1 (2025, ISBN 978-1-77928-513-3),
+Grade 3 (2025, ISBN 978-1-77928-505-8), Grade 4 (2025, ISBN
+978-1-77928-500-3), Grade 5 (2025, ISBN 978-1-77928-515-7)
+and Grade 7 (2025, ISBN 978-1-77932-140-4) — all COMPLETE —
+33 placements stocked as teacher-guide evidence only,
+outside the acceptance counts (Hygiene for Sport, Eating a
+Balanced Diet, Why Exercise Keeps You Healthy, Knowing My
+Body and Healthy Habits Every Day are unchanged in count).
+18 of the 38 placements were filed as HELD-title-decision
+lines, resolved by registry Part 2B to The Body Systems
+(5), Healthy Habits Every Day (4), Eating a Balanced Diet
+(3), Knowing My Body (3), Why Exercise Keeps You Healthy
+(2) and Diseases of Inactivity (1); the other 20 were filed
+directly under existing-lesson slugs. No Zimbabwe placement
+resolves to a PE-course lesson, so none was excluded as
+PE-bound. Record-only items, as filed: the *Spring Up in
+Science and Technology — Learner's Book, Grade 7 (preview)*
+is UNREAD / record-only — a Science book, not Health,
+publisher download Cloudflare-blocked — with 0 placements,
+and the PlusOne PE and Arts G2 TG and G6 TG health parts
+are UNREAD (repo tree 404 at the recorded paths; publisher
+PDFs Cloudflare-blocked) with 0 placements; nothing is
+stocked from them. Zimbabwe's own ways are recorded as
+content in the book lines: health taught inside the PE book
+as "Safety and Health", framed through household physical
+work (cleaning, digging the garden, fetching firewood) and
+active communities; health for the youngest learners
+starting with hazards, play-area safety rules and cleaning
+the school; and Grade 7 healthy living taught as projects
+(clean-up campaigns, walk-to-school, first aid training)
+with SMART goals, alongside the balanced-diet plate model,
+sleep and hygiene.

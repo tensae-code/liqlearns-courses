@@ -1,6 +1,6 @@
 # Sources — Hygiene for Sport — Wash After Exercise
 
-countries: Ethiopia, Tajikistan, Haiti, Afghanistan, Rwanda, El Salvador, Oman, Honduras, Myanmar, Philippines, Azerbaijan, Turkey
+countries: Ethiopia, Tajikistan, Haiti, Afghanistan, Rwanda, El Salvador, Oman, Honduras, Myanmar, Philippines, Azerbaijan, Turkey, Zimbabwe
 
 **Book 1:** *Grade 7 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–96 + front matter (104 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g07-student-placements.md.
 
@@ -42,7 +42,7 @@ countries: Ethiopia, Tajikistan, Haiti, Afghanistan, Rwanda, El Salvador, Oman, 
 | El Salvador — Grade 1 Unit 1 Lesson 2 La higiene y limpieza nos mantiene saludables — effects of accumulated sweat and dirt on the skin, washing dirt off the skin after physical practice, and keeping the practice place clean (teacher guide — evidence) (filed under `staying-safe/hygiene-for-sport`, this lesson itself) | El Salvador, *Guía Metodológica de Educación Física, Primer Ciclo* (El Salvador Grades 1–3 PE Guide, teacher guide), printed pp. 17–18 (teacher guide — evidence) |
 | El Salvador — Grade 2 Unit 1 Lesson 2 Cuido mi salud antes, durante y después del ejercicio físico — washing hands and nails with soap after practice, wiping sweat from face, neck, armpits and groin, changing underclothes and socks, athlete's foot and skin fungi, cleaning faeces and bacteria from practice areas, and the risk of gastrointestinal disease in physical practice (teacher guide — evidence) (filed under `staying-safe/hygiene-for-sport`, this lesson itself) | El Salvador, *Guía Metodológica de Educación Física, Primer Ciclo* (El Salvador Grades 1–3 PE Guide, teacher guide), printed p. 92 (teacher guide — evidence) |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Tajikistan, Honduras, Myanmar, Philippines, Azerbaijan, Turkey).** Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count. Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book; Book 1, the Preschool Movement & Health teacher guide, is filed as teacher-guide evidence only, outside the count.
+**Acceptance count: taught in 7 countries (Ethiopia, Tajikistan, Honduras, Myanmar, Philippines, Azerbaijan, Turkey).** Zimbabwe is filed as teacher-guide evidence only in this lesson (see its Zimbabwe section below) — named in the countries line and provenance rows, but outside the acceptance count; no Zimbabwe pupil's book is stocked in this lesson. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count. Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book; Book 1, the Preschool Movement & Health teacher guide, is filed as teacher-guide evidence only, outside the count.
 
 Tajikistan is added as student-book stock (see its book line above), inside the acceptance count. The Tajikistan placement was filed under the slug `staying-safe/hygiene-for-sport`, this lesson itself.
 
@@ -214,4 +214,111 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkey-healt
 
 Turkey's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the health slug registry (Part 2A / Part 2B) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Turkey's own way is content, as the book lines above record it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: hygiene for sport, personal hygiene, wash after exercise, sweat bacteria, clean kit, cover wounds, Ethiopia HPE Grade 7, personal hygiene, sense organs, Tajikistan Physical Culture Grades 1-4, healthy living habits, personal plan to improve a habit, food sleep body hygiene, harmful substances, Haiti EPS Programmes Grades 7-9 and 10-13, MENFP, sports hygiene, WHO definition of health, medical and dental checks before sport, cotton socks, hygiene in swimming places, chlorine foot-bath, drying between the toes, Afghanistan G7 PE Teacher Guide Dari, body cleanliness, diseases caused by poor hygiene, maintaining sports materials, prevention of illnesses through sports, Rwanda PES Teacher Guides Primary 1 2 3, REB Rwanda, sweat and dirt on the skin, athlete's foot, skin fungi, washing after practice, El Salvador PE Guide Grades 1-3, La higiene y limpieza nos mantiene saludables, cleanliness of the playing area and equipment, Health Culture and Awareness, Oman G1 Teacher Guide, personal hygiene as a positive habit around physical activity, health habits behind fitness shower after exercise hydration rest, Honduras Telebásica Grades 7 and 8, daily cleanliness habits for people who exercise, keeping your own body clean, Myanmar PE Textbook Grade 10, ကာယပညာ, Kamay na Malinis, clean hands handwashing steps, Paang Malinis, washing the feet, drying between the toes, floodwater, Philippines Grade 1 PE and Health LM, Azerbaijan Fiziki Tərbiyə Grades 6-10, Georgian-language edition, hardening the body, self-control diary, hand washing, Ellerimi Yıkıyorum, personal hygiene and cleanliness, Kişisel Hijyen ve Temizlik, Turkey Health & Traffic Culture, Turkey Preschool Movement & Health TG
+
+## Zimbabwe — Health expansion 2026-11-16
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/zimbabwe-health-placements.md. The Zimbabwe books stocked in this lesson are Book 2, Book 3, Book 4, Book 5, Book 6, Book 7, Book 8. Record-only items of the placements file, as filed: the *Spring Up in Science and Technology — Learner's Book, Grade 7 (preview)* is UNREAD / record-only — a Science and Technology book, not a Health book; the publisher site serves only a Cloudflare challenge page, so no copy could be taken — with 0 placements; and the PlusOne PE and Arts G2 TG and G6 TG health parts are UNREAD — repo tree 404 at the recorded paths, publisher PDFs Cloudflare-blocked — with 0 placements; nothing is stocked from them.
+
+**Book — Zimbabwe ECD A (teacher guide):**
+## Book 2 — PlusOne PE and Arts ECD A TG (teacher guide, English)
+- Title as printed: Physical Education and Arts — ECD A Teacher's Guide
+- Grade: ECD A (KG1) (student/teacher: TEACHER)
+- Publisher: Secondary Book Press; year 2025; ISBN 978-1-77932-146-6
+- PDF pages: 70 (cover/title page verified; byte size and blob SHA verified via GitHub repo tree)
+- Verdict: COMPLETE
+- Tally: 5 placements — 2 to existing lessons, 3 NEW LESSON NEEDED (all HELD-title-decision)
+- Zimbabwe's own way: health for the youngest learners starts with hazards ("things that can make you go 'Ouch!'"), play-area safety rules and cleaning the school, before food and hygiene.
+- PE parts of this book are filed in zimbabwe-pe-placements.md; Arts parts named there, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Zimbabwe — Topic 1: Safety and health — personal hygiene for young children (teacher guide — evidence) (original string `staying-safe/hygiene-for-sport`) | Zimbabwe ECD A PlusOne PE and Arts ECD A TG, printed p. 7 (teacher guide — evidence) |
+
+**Book — Zimbabwe ECD B (teacher guide):**
+## Book 3 — PlusOne PE and Arts ECD B TG (teacher guide, English)
+- Title as printed: Physical Education and Arts — ECD B Teacher's Guide
+- Grade: ECD B (KG2) (student/teacher: TEACHER)
+- Publisher: Secondary Book Press; year 2025; ISBN 978-1-77932-145-9
+- PDF pages: 88 (cover/title page verified; byte size and blob SHA verified via GitHub repo tree)
+- Verdict: COMPLETE
+- Tally: 6 placements — 3 to existing lessons, 3 NEW LESSON NEEDED (all HELD-title-decision)
+- Zimbabwe's own way: ECD B adds exercising attire, caring for the environment and water hazards to the safety-and-health topic.
+- PE parts of this book are filed in zimbabwe-pe-placements.md; Arts parts named there, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Zimbabwe — Topic 1: Safety and health — personal hygiene (teacher guide — evidence) (original string `staying-safe/hygiene-for-sport`) | Zimbabwe ECD B PlusOne PE and Arts ECD B TG, printed p. 8 (teacher guide — evidence) |
+
+**Book — Zimbabwe Grade 1 (teacher guide):**
+## Book 4 — PlusOne PE and Arts G1 TG (teacher guide, English)
+- Title as printed: Physical Education and Arts — Grade 1 Teacher's Guide (Fadzanai Tafirei)
+- Grade: Grade 1 (student/teacher: TEACHER)
+- Publisher: Secondary Book Press; year 2025; ISBN 978-1-77928-513-3
+- PDF pages: 77 (cover/title page verified; byte size and blob SHA verified via GitHub repo tree)
+- Verdict: COMPLETE
+- Tally: 4 placements — 2 to existing lessons, 2 NEW LESSON NEEDED (both HELD-title-decision)
+- PE parts of this book are filed in zimbabwe-pe-placements.md; Arts parts named there, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Zimbabwe — Unit 2: Health — hygiene habits for health (teacher guide — evidence) (original string `staying-safe/hygiene-for-sport`) | Zimbabwe Grade 1 PlusOne PE and Arts G1 TG, printed p. 4 (teacher guide — evidence) |
+
+**Book — Zimbabwe Grade 3 (teacher guide):**
+## Book 5 — PlusOne PE and Arts G3 TG (teacher guide, English)
+- Title as printed: Physical Education and Arts — Grade 3 Teacher's Guide (Nomsa Nyathi, Fungai Makonese, Njabulo Mpofu)
+- Grade: Grade 3 (student/teacher: TEACHER)
+- Publisher: Secondary Book Press; year 2025; ISBN 978-1-77928-505-8
+- PDF pages: 73 (cover/title page verified; byte size and blob SHA verified via GitHub repo tree)
+- Verdict: COMPLETE
+- Tally: 4 placements — 2 to existing lessons, 2 NEW LESSON NEEDED (both HELD-title-decision)
+- PE parts of this book are filed in zimbabwe-pe-placements.md; Arts parts named there, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Zimbabwe — Unit 2: Healthy living habits — hygiene within healthy living habits (teacher guide — evidence) (original string `staying-safe/hygiene-for-sport`) | Zimbabwe Grade 3 PlusOne PE and Arts G3 TG, printed p. 2 (teacher guide — evidence) |
+
+**Book — Zimbabwe Grade 4 (teacher guide):**
+## Book 6 — PlusOne PE and Arts G4 TG (teacher guide, English)
+- Title as printed: Physical Education and Arts — Grade 4 Teacher's Guide (Rebecca Mutimbanyoka, Fungai Makonese, Njabulo Mpofu)
+- Grade: Grade 4 (student/teacher: TEACHER)
+- Publisher: Secondary Book Press; year 2025; ISBN 978-1-77928-500-3
+- PDF pages: 85 (cover/title page verified; byte size and blob SHA verified via GitHub repo tree)
+- Verdict: COMPLETE
+- Tally: 4 placements — 2 to existing lessons, 2 NEW LESSON NEEDED (both HELD-title-decision)
+- PE parts of this book are filed in zimbabwe-pe-placements.md; Arts parts named there, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Zimbabwe — Unit 2: Healthy living habits — hygiene within healthy living habits (teacher guide — evidence) (original string `staying-safe/hygiene-for-sport`) | Zimbabwe Grade 4 PlusOne PE and Arts G4 TG, printed p. 3 (teacher guide — evidence) |
+
+**Book — Zimbabwe Grade 5 (teacher guide):**
+## Book 7 — PlusOne PE and Arts G5 TG (teacher guide, English)
+- Title as printed: Physical Education and Arts — Grade 5 Teacher's Guide
+- Grade: Grade 5 (student/teacher: TEACHER)
+- Publisher: Secondary Book Press; year 2025; ISBN 978-1-77928-515-7
+- PDF pages: 118 (cover/title page verified; byte size and blob SHA verified via GitHub repo tree)
+- Verdict: COMPLETE
+- Tally: 4 placements — 2 to existing lessons, 2 NEW LESSON NEEDED (both HELD-title-decision)
+- PE parts of this book are filed in zimbabwe-pe-placements.md; Arts parts named there, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Zimbabwe — Unit 2: Healthy living habits — hygiene within healthy living habits (teacher guide — evidence) (original string `staying-safe/hygiene-for-sport`) | Zimbabwe Grade 5 PlusOne PE and Arts G5 TG, printed p. 9 (teacher guide — evidence) |
+
+**Book — Zimbabwe Grade 7 (teacher guide):**
+## Book 8 — PlusOne PE and Arts G7 TG (teacher guide, English)
+- Title as printed: Physical Education and Arts — Grade 7 Teacher's Guide (Nomsa Nyathi, Fadzanai Tafirei)
+- Grade: Grade 7 (student/teacher: TEACHER)
+- Publisher: Secondary Book Press; year 2025; ISBN 978-1-77932-140-4
+- PDF pages: 124 (cover/title page verified; byte size and blob SHA verified via GitHub repo tree)
+- Verdict: COMPLETE
+- Tally: 6 placements — 4 to existing lessons, 2 NEW LESSON NEEDED (both HELD-title-decision)
+- Zimbabwe's own way: Grade 7 healthy living is project-based — learners plan healthy-living projects (clean-up campaigns, walk-to-school, first aid training) with SMART goals, alongside the balanced-diet plate model, sleep and hygiene.
+- PE parts of this book are filed in zimbabwe-pe-placements.md; Arts parts named there, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Zimbabwe — Unit 2: Healthy living habits — hygiene prevents the spread of germs and diseases (teacher guide — evidence) (original string `staying-safe/hygiene-for-sport`) | Zimbabwe Grade 7 PlusOne PE and Arts G7 TG, printed p. 6 (teacher guide — evidence) |
+
+Zimbabwe is added as teacher-guide evidence only (see its book lines and rows above), outside the acceptance count — every Zimbabwe book stocked in this lesson is a TEACHER guide, so Zimbabwe is named in the countries line and provenance rows but the acceptance count is unchanged (still taught in 7 countries); no Zimbabwe pupil's book is stocked in this lesson. All seven Zimbabwe placements in this lesson were filed under the slug `staying-safe/hygiene-for-sport`, this lesson itself. Zimbabwe's own way is content, as the book lines above record it: personal hygiene sits inside the Safety and health / Healthy living habits topics of the PlusOne PE and Arts guides from ECD A through Grade 7.
+
+Searchable tags: hygiene for sport, personal hygiene, wash after exercise, sweat bacteria, clean kit, cover wounds, Ethiopia HPE Grade 7, personal hygiene, sense organs, Tajikistan Physical Culture Grades 1-4, healthy living habits, personal plan to improve a habit, food sleep body hygiene, harmful substances, Haiti EPS Programmes Grades 7-9 and 10-13, MENFP, sports hygiene, WHO definition of health, medical and dental checks before sport, cotton socks, hygiene in swimming places, chlorine foot-bath, drying between the toes, Afghanistan G7 PE Teacher Guide Dari, body cleanliness, diseases caused by poor hygiene, maintaining sports materials, prevention of illnesses through sports, Rwanda PES Teacher Guides Primary 1 2 3, REB Rwanda, sweat and dirt on the skin, athlete's foot, skin fungi, washing after practice, El Salvador PE Guide Grades 1-3, La higiene y limpieza nos mantiene saludables, cleanliness of the playing area and equipment, Health Culture and Awareness, Oman G1 Teacher Guide, personal hygiene as a positive habit around physical activity, health habits behind fitness shower after exercise hydration rest, Honduras Telebásica Grades 7 and 8, daily cleanliness habits for people who exercise, keeping your own body clean, Myanmar PE Textbook Grade 10, ကာယပညာ, Kamay na Malinis, clean hands handwashing steps, Paang Malinis, washing the feet, drying between the toes, floodwater, Philippines Grade 1 PE and Health LM, Azerbaijan Fiziki Tərbiyə Grades 6-10, Georgian-language edition, hardening the body, self-control diary, hand washing, Ellerimi Yıkıyorum, personal hygiene and cleanliness, Kişisel Hijyen ve Temizlik, Turkey Health & Traffic Culture, Turkey Preschool Movement & Health TG, personal hygiene for young children, hygiene habits for health, hygiene prevents the spread of germs and diseases, Zimbabwe PlusOne PE and Arts ECD A ECD B Grades 1 3 4 5 7 Teacher Guides, Secondary Book Press

@@ -1,8 +1,8 @@
 # Sources — Why Exercise Keeps You Healthy
 
-countries: Haiti, Rwanda, Oman, Samoa, Honduras, Greece, Azerbaijan, Ukraine, Turkey
+countries: Haiti, Rwanda, Oman, Samoa, Honduras, Greece, Azerbaijan, Ukraine, Turkey, Zimbabwe
 
-**Acceptance count: taught in 5 countries.** Haiti and Rwanda are filed as teacher-programme / teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. Oman is likewise filed as teacher-guide evidence only, outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count — the first pupil's book in hand for this lesson. Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below). Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book.
+**Acceptance count: taught in 5 countries.** Zimbabwe is filed as teacher-guide evidence only in this lesson (see its Zimbabwe section below) — named in the countries line and provenance rows, but outside the acceptance count; no Zimbabwe pupil's book is stocked in this lesson. Haiti and Rwanda are filed as teacher-programme / teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. Oman is likewise filed as teacher-guide evidence only, outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count — the first pupil's book in hand for this lesson. Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below). Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book.
 
 **Book 3 (Haiti placements file) — Programme-Cadre de toutes les Matières, Nouveau Secondaire NS1–NS4 (teacher framework programme, French) — Health parts:**
 - Title as printed: Programme-Cadre de toutes les Matières — Nouveau Secondaire (MENFP/DES)
@@ -214,4 +214,40 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkey-healt
 
 Turkey's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the health slug registry (Part 2A / Part 2B) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Turkey's own way is content, as the book lines above record it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: why exercise keeps you healthy, physical activity improves health, conference-debates, cooperation and communication for health, Theme 1, Haiti Programme-Cadre NS Grades 10-13, MENFP, walking fast and running or jogging for health and well-being, brisk walking and jogging as health exercise, basic exercises of the circulatory and respiratory systems, exercises that work the heart and lungs, Rwanda Grade 3 PES Teacher Guide, Rwanda Grade 5 PE Teacher Guide MK Publishers, REB Rwanda, physical activity النشاط البدني, sport and health الرياضة والصحة, Oman G3 Teacher Guide, fitness concepts total fitness keep-fit programme log tapuaiga peer pressure, Samoa Years 11–12 TG, Mi condición física es la mejor, beneficial effects of systematic exercise physiological psychological social, Honduras Telebásica Grade 9, exercise and good health, how much exercise we need, cardiorespiratory endurance, flexibility forever, make a plan exercise plan, what is exercise, benefits of exercise for health, aerobic exercise and health, skills and factors of physical fitness, Greece Grades 5-6 Fysiki Agogi E-ST, Greece Grades 7-9 Fysiki Agogi Gymnasiou, Azerbaijan Fiziki Tərbiyə Grades 6-10, Georgian-language edition, hardening the body, self-control diary, physical development of teenagers, physical form fitness, Ukraine G7 Health Safety and Wellbeing Shyian, physical activity and health, Fiziksel Aktivite ve Sağlık, Turkey Health & Traffic Culture
+
+## Zimbabwe — Health expansion 2026-11-16
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/zimbabwe-health-placements.md. The Zimbabwe books stocked in this lesson are Book 2, Book 3. Record-only items of the placements file, as filed: the *Spring Up in Science and Technology — Learner's Book, Grade 7 (preview)* is UNREAD / record-only — a Science and Technology book, not a Health book; the publisher site serves only a Cloudflare challenge page, so no copy could be taken — with 0 placements; and the PlusOne PE and Arts G2 TG and G6 TG health parts are UNREAD — repo tree 404 at the recorded paths, publisher PDFs Cloudflare-blocked — with 0 placements; nothing is stocked from them.
+
+**Book — Zimbabwe ECD A (teacher guide):**
+## Book 2 — PlusOne PE and Arts ECD A TG (teacher guide, English)
+- Title as printed: Physical Education and Arts — ECD A Teacher's Guide
+- Grade: ECD A (KG1) (student/teacher: TEACHER)
+- Publisher: Secondary Book Press; year 2025; ISBN 978-1-77932-146-6
+- PDF pages: 70 (cover/title page verified; byte size and blob SHA verified via GitHub repo tree)
+- Verdict: COMPLETE
+- Tally: 5 placements — 2 to existing lessons, 3 NEW LESSON NEEDED (all HELD-title-decision)
+- Zimbabwe's own way: health for the youngest learners starts with hazards ("things that can make you go 'Ouch!'"), play-area safety rules and cleaning the school, before food and hygiene.
+- PE parts of this book are filed in zimbabwe-pe-placements.md; Arts parts named there, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Zimbabwe — Topic 1: Safety and health — playing and exercising: moving keeps you healthy (filed as HELD-title-decision; resolved by registry Part 2B to this lesson) (teacher guide — evidence) (original string `staying-safe/HELD-title-decision`) | Zimbabwe ECD A PlusOne PE and Arts ECD A TG, printed p. 10 (teacher guide — evidence) |
+
+**Book — Zimbabwe ECD B (teacher guide):**
+## Book 3 — PlusOne PE and Arts ECD B TG (teacher guide, English)
+- Title as printed: Physical Education and Arts — ECD B Teacher's Guide
+- Grade: ECD B (KG2) (student/teacher: TEACHER)
+- Publisher: Secondary Book Press; year 2025; ISBN 978-1-77932-145-9
+- PDF pages: 88 (cover/title page verified; byte size and blob SHA verified via GitHub repo tree)
+- Verdict: COMPLETE
+- Tally: 6 placements — 3 to existing lessons, 3 NEW LESSON NEEDED (all HELD-title-decision)
+- Zimbabwe's own way: ECD B adds exercising attire, caring for the environment and water hazards to the safety-and-health topic.
+- PE parts of this book are filed in zimbabwe-pe-placements.md; Arts parts named there, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Zimbabwe — Topic 1: Safety and health — exercising regularly to maintain strength and body coordination (filed as HELD-title-decision; resolved by registry Part 2B to this lesson) (teacher guide — evidence) (original string `staying-safe/HELD-title-decision`) | Zimbabwe ECD B PlusOne PE and Arts ECD B TG, printed p. 4 (teacher guide — evidence) |
+
+Zimbabwe is added as teacher-guide evidence only (see its book lines and rows above), outside the acceptance count — both Zimbabwe books stocked in this lesson are TEACHER guides, so Zimbabwe is named in the countries line and provenance rows but the acceptance count is unchanged (still taught in 5 countries); no Zimbabwe pupil's book is stocked in this lesson. Both Zimbabwe placements in this lesson were filed as HELD-title-decision lines, resolved by registry Part 2B to this lesson, and the original string is recorded in each provenance row above. Zimbabwe's own way is content, as the book lines above record it: for the youngest learners, playing and exercising are taught as the thing that keeps you healthy, and regular exercise as what maintains strength and body coordination.
+
+Searchable tags: why exercise keeps you healthy, physical activity improves health, conference-debates, cooperation and communication for health, Theme 1, Haiti Programme-Cadre NS Grades 10-13, MENFP, walking fast and running or jogging for health and well-being, brisk walking and jogging as health exercise, basic exercises of the circulatory and respiratory systems, exercises that work the heart and lungs, Rwanda Grade 3 PES Teacher Guide, Rwanda Grade 5 PE Teacher Guide MK Publishers, REB Rwanda, physical activity النشاط البدني, sport and health الرياضة والصحة, Oman G3 Teacher Guide, fitness concepts total fitness keep-fit programme log tapuaiga peer pressure, Samoa Years 11–12 TG, Mi condición física es la mejor, beneficial effects of systematic exercise physiological psychological social, Honduras Telebásica Grade 9, exercise and good health, how much exercise we need, cardiorespiratory endurance, flexibility forever, make a plan exercise plan, what is exercise, benefits of exercise for health, aerobic exercise and health, skills and factors of physical fitness, Greece Grades 5-6 Fysiki Agogi E-ST, Greece Grades 7-9 Fysiki Agogi Gymnasiou, Azerbaijan Fiziki Tərbiyə Grades 6-10, Georgian-language edition, hardening the body, self-control diary, physical development of teenagers, physical form fitness, Ukraine G7 Health Safety and Wellbeing Shyian, physical activity and health, Fiziksel Aktivite ve Sağlık, Turkey Health & Traffic Culture, playing and exercising moving keeps you healthy, exercising regularly, strength and body coordination, Zimbabwe PlusOne PE and Arts ECD A ECD B Teacher Guides, Secondary Book Press

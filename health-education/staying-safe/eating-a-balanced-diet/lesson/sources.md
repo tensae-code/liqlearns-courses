@@ -1,8 +1,8 @@
 # Sources — Eating a Balanced Diet
 
-countries: Turkmenistan, China, El Salvador, Oman, Zambia, Samoa, Timor-Leste, Bulgaria, Honduras, Philippines, Greece, Turkey
+countries: Turkmenistan, China, El Salvador, Oman, Zambia, Samoa, Timor-Leste, Bulgaria, Honduras, Philippines, Greece, Turkey, Zimbabwe
 
-**Acceptance count: taught in 9 countries.** Honduras is filed as student-book stock, inside the acceptance count, in this lesson (see its Honduras section below). Bulgaria is filed as student-book stock, inside the acceptance count, in this lesson. Turkmenistan, China and El Salvador are filed as student-book stock, inside the acceptance count, in this lesson. Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count (still taught in 3 countries). Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Books 3, 4 and 5 are STUDENT books; Book 1, the Preschool Movement & Health teacher guide, is filed as teacher-guide evidence only, outside the count.
+**Acceptance count: taught in 9 countries.** Zimbabwe is filed as teacher-guide evidence only in this lesson (see its Zimbabwe section below) — named in the countries line and provenance rows, but outside the acceptance count; no Zimbabwe pupil's book is stocked in this lesson. Honduras is filed as student-book stock, inside the acceptance count, in this lesson (see its Honduras section below). Bulgaria is filed as student-book stock, inside the acceptance count, in this lesson. Turkmenistan, China and El Salvador are filed as student-book stock, inside the acceptance count, in this lesson. Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count (still taught in 3 countries). Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Books 3, 4 and 5 are STUDENT books; Book 1, the Preschool Movement & Health teacher guide, is filed as teacher-guide evidence only, outside the count.
 
 **Book 1 — Bedenterbiýe (Physical Education) (student book — study guide for higher schools, Turkmen) — Health parts only:**
 - Title as printed: Bedenterbiýe — Ýokary okuw mekdepleri üçin okuw gollanmasy (Physical Education — a study guide for higher schools) (full header in turkmenistan-pe-placements.md, Book 1)
@@ -274,4 +274,55 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkey-healt
 
 Turkey's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the health slug registry (Part 2A / Part 2B) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Turkey's own way is content, as the book lines above record it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: eating a balanced diet, foundations of proper nutrition, nutrition regime, main composition of food, hygiene characterisation of food products, Turkmenistan Bedenterbiýe, nutrition and healthy eating, Chinese dietary guidelines, healthy weight, nutrition for exercise, drinking water well, China Senior High PEP PE & Health, foods of animal and plant origin, pupusas, chipilín, flor de izote, fresh and safe food, sweets and junk food golosinas, obesity tooth decay, El Salvador Ciencia Salud y Medio Ambiente 1, food groups, healthy food menu, healthy food for the body and for sport, Health Culture and Awareness, Oman G1 Teacher Guide, nutrition, Zambia six food groups, balanced diet, Zambia Health Teacher Training Manual 2025, food and nutrition food groups energy input output local imported processed whole foods breast milk, Samoa Years 1–8 Curriculum, what nutrition is health data, iron folic acid vitamin B12 blood, healthy eating colours of foods cooking oil sugar salt analysing my diet, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, food and nutrition practical lesson, Bulgaria Biology and Health Education Grade 8 Pedagog 6, healthy balanced diet for growing active young people, goals of a healthy diet, balancing energy in and out, Honduras Telebásica Grade 8, foods from plants and animals, Pagkaing mula sa Halaman at Hayop, nutritious and non-nutritious foods, Masustansiya, eating at the right times, good manners at the table, Filipino Food Guide Pyramid, healthful eating guidelines for adolescents, Philippines Grade 1 PE and Health LM, Philippines Grade 7 Health LM, nutrition and health, Διατροφή και υγεία, foods freely with measure in small amounts and rarely, breakfast after the night's fast, scoring your own eating habits, Greece Grades 5-6 Fysiki Agogi E-ST, healthy eating for young children, colourful healthy plate, Sağlıklı Besinleri Tanıyorum, balanced and regular eating, Dengeli ve Düzenli Beslenme, nutrition and weight, Beslenme, Turkey Health & Traffic Culture
+
+## Zimbabwe — Health expansion 2026-11-16
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/zimbabwe-health-placements.md. The Zimbabwe books stocked in this lesson are Book 2, Book 3, Book 8. Record-only items of the placements file, as filed: the *Spring Up in Science and Technology — Learner's Book, Grade 7 (preview)* is UNREAD / record-only — a Science and Technology book, not a Health book; the publisher site serves only a Cloudflare challenge page, so no copy could be taken — with 0 placements; and the PlusOne PE and Arts G2 TG and G6 TG health parts are UNREAD — repo tree 404 at the recorded paths, publisher PDFs Cloudflare-blocked — with 0 placements; nothing is stocked from them.
+
+**Book — Zimbabwe ECD A (teacher guide):**
+## Book 2 — PlusOne PE and Arts ECD A TG (teacher guide, English)
+- Title as printed: Physical Education and Arts — ECD A Teacher's Guide
+- Grade: ECD A (KG1) (student/teacher: TEACHER)
+- Publisher: Secondary Book Press; year 2025; ISBN 978-1-77932-146-6
+- PDF pages: 70 (cover/title page verified; byte size and blob SHA verified via GitHub repo tree)
+- Verdict: COMPLETE
+- Tally: 5 placements — 2 to existing lessons, 3 NEW LESSON NEEDED (all HELD-title-decision)
+- Zimbabwe's own way: health for the youngest learners starts with hazards ("things that can make you go 'Ouch!'"), play-area safety rules and cleaning the school, before food and hygiene.
+- PE parts of this book are filed in zimbabwe-pe-placements.md; Arts parts named there, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Zimbabwe — Topic 1: Safety and health — healthy food, unhealthy food and good eating habits (filed as HELD-title-decision; resolved by registry Part 2B to this lesson) (teacher guide — evidence) (original string `staying-safe/HELD-title-decision`) | Zimbabwe ECD A PlusOne PE and Arts ECD A TG, printed p. 5 (teacher guide — evidence) |
+
+**Book — Zimbabwe ECD B (teacher guide):**
+## Book 3 — PlusOne PE and Arts ECD B TG (teacher guide, English)
+- Title as printed: Physical Education and Arts — ECD B Teacher's Guide
+- Grade: ECD B (KG2) (student/teacher: TEACHER)
+- Publisher: Secondary Book Press; year 2025; ISBN 978-1-77932-145-9
+- PDF pages: 88 (cover/title page verified; byte size and blob SHA verified via GitHub repo tree)
+- Verdict: COMPLETE
+- Tally: 6 placements — 3 to existing lessons, 3 NEW LESSON NEEDED (all HELD-title-decision)
+- Zimbabwe's own way: ECD B adds exercising attire, caring for the environment and water hazards to the safety-and-health topic.
+- PE parts of this book are filed in zimbabwe-pe-placements.md; Arts parts named there, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Zimbabwe — Topic 1: Safety and health — healthy food, unhealthy food and good eating habits (filed as HELD-title-decision; resolved by registry Part 2B to this lesson) (teacher guide — evidence) (original string `staying-safe/HELD-title-decision`) | Zimbabwe ECD B PlusOne PE and Arts ECD B TG, printed p. 5 (teacher guide — evidence) |
+
+**Book — Zimbabwe Grade 7 (teacher guide):**
+## Book 8 — PlusOne PE and Arts G7 TG (teacher guide, English)
+- Title as printed: Physical Education and Arts — Grade 7 Teacher's Guide (Nomsa Nyathi, Fadzanai Tafirei)
+- Grade: Grade 7 (student/teacher: TEACHER)
+- Publisher: Secondary Book Press; year 2025; ISBN 978-1-77932-140-4
+- PDF pages: 124 (cover/title page verified; byte size and blob SHA verified via GitHub repo tree)
+- Verdict: COMPLETE
+- Tally: 6 placements — 4 to existing lessons, 2 NEW LESSON NEEDED (both HELD-title-decision)
+- Zimbabwe's own way: Grade 7 healthy living is project-based — learners plan healthy-living projects (clean-up campaigns, walk-to-school, first aid training) with SMART goals, alongside the balanced-diet plate model, sleep and hygiene.
+- PE parts of this book are filed in zimbabwe-pe-placements.md; Arts parts named there, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Zimbabwe — Unit 2: Healthy living habits — balanced diet (plate model), sleep, exercise and healthy-living projects at home, school and community (filed as HELD-title-decision; resolved by registry Part 2B to this lesson) (teacher guide — evidence) (original string `staying-safe/HELD-title-decision`) | Zimbabwe Grade 7 PlusOne PE and Arts G7 TG, printed p. 6 (teacher guide — evidence) |
+
+Zimbabwe is added as teacher-guide evidence only (see its book lines and rows above), outside the acceptance count — every Zimbabwe book stocked in this lesson is a TEACHER guide, so Zimbabwe is named in the countries line and provenance rows but the acceptance count is unchanged (still taught in 9 countries); no Zimbabwe pupil's book is stocked in this lesson. All three Zimbabwe placements in this lesson were filed as HELD-title-decision lines, resolved by registry Part 2B to this lesson, and the original string is recorded in each provenance row above. Zimbabwe's own way is content, as the book lines above record it: healthy and unhealthy food and good eating habits are taught to the youngest learners inside Safety and health, and Grade 7 teaches the balanced-diet plate model inside its project-based healthy living unit.
+
+Searchable tags: eating a balanced diet, foundations of proper nutrition, nutrition regime, main composition of food, hygiene characterisation of food products, Turkmenistan Bedenterbiýe, nutrition and healthy eating, Chinese dietary guidelines, healthy weight, nutrition for exercise, drinking water well, China Senior High PEP PE & Health, foods of animal and plant origin, pupusas, chipilín, flor de izote, fresh and safe food, sweets and junk food golosinas, obesity tooth decay, El Salvador Ciencia Salud y Medio Ambiente 1, food groups, healthy food menu, healthy food for the body and for sport, Health Culture and Awareness, Oman G1 Teacher Guide, nutrition, Zambia six food groups, balanced diet, Zambia Health Teacher Training Manual 2025, food and nutrition food groups energy input output local imported processed whole foods breast milk, Samoa Years 1–8 Curriculum, what nutrition is health data, iron folic acid vitamin B12 blood, healthy eating colours of foods cooking oil sugar salt analysing my diet, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, food and nutrition practical lesson, Bulgaria Biology and Health Education Grade 8 Pedagog 6, healthy balanced diet for growing active young people, goals of a healthy diet, balancing energy in and out, Honduras Telebásica Grade 8, foods from plants and animals, Pagkaing mula sa Halaman at Hayop, nutritious and non-nutritious foods, Masustansiya, eating at the right times, good manners at the table, Filipino Food Guide Pyramid, healthful eating guidelines for adolescents, Philippines Grade 1 PE and Health LM, Philippines Grade 7 Health LM, nutrition and health, Διατροφή και υγεία, foods freely with measure in small amounts and rarely, breakfast after the night's fast, scoring your own eating habits, Greece Grades 5-6 Fysiki Agogi E-ST, healthy eating for young children, colourful healthy plate, Sağlıklı Besinleri Tanıyorum, balanced and regular eating, Dengeli ve Düzenli Beslenme, nutrition and weight, Beslenme, Turkey Health & Traffic Culture, healthy food unhealthy food, good eating habits, balanced diet plate model, healthy-living projects, Zimbabwe PlusOne PE and Arts ECD A ECD B Grade 7 Teacher Guides, Secondary Book Press

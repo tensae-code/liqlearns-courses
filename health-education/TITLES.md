@@ -300,3 +300,23 @@ are not yet stocked in PE either (verified by git grep on
 origin/main — see CURRICULUM.md). Records R1–R10 are
 record-only Geography books tagged "health" in error and
 one UNREAD malformed record, with 0 placements.
+
+The Health expansion then added (Zimbabwe): no new lessons —
+38 placements stocked into existing lessons (Staying Safe
+While Exercising ×11, Hygiene for Sport ×7, The Body Systems
+×5, Healthy Habits Every Day ×4, Eating a Balanced Diet ×3,
+Knowing My Body ×3, Preventing Sports Injuries and First Aid
+×2, Why Exercise Keeps You Healthy ×2, Diseases of Inactivity)
+— this course stays at 49 lessons. Book 1, the Grade 6
+*PlusOne Physical Education, Sport and Mass Displays*
+Learner's Book, is student-book stock, inside the acceptance
+counts (the four lessons it touches each rose by 1 country);
+Books 2–8, the PlusOne PE and Arts teacher guides (ECD A,
+ECD B, Grades 1, 3, 4, 5 and 7), are teacher-guide evidence
+only, outside the counts. 18 placements were filed as
+HELD-title-decision lines, resolved by registry Part 2B.
+No Zimbabwe placement resolves to a PE-course lesson, so
+none was excluded as PE-bound. The Spring Up in Science
+and Technology Grade 7 preview and the PlusOne G2 and G6
+teacher guides' health parts are record-only / UNREAD with
+0 placements, nothing stocked from them.

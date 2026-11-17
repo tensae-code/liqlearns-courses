@@ -1,6 +1,6 @@
 # Sources — Staying Safe While Exercising
 
-countries: Ethiopia, Tajikistan, Laos, Haiti, Cyprus, Afghanistan, China, El Salvador, Honduras, Myanmar, Greece, Azerbaijan, Turkey
+countries: Ethiopia, Tajikistan, Laos, Haiti, Cyprus, Afghanistan, China, El Salvador, Honduras, Myanmar, Greece, Azerbaijan, Turkey, Zimbabwe
 
 **Book 1:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–106 + front matter (114 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md.
 
@@ -43,7 +43,7 @@ countries: Ethiopia, Tajikistan, Laos, Haiti, Cyprus, Afghanistan, China, El Sal
 | China — 第四章 第五节 运动安全（一）— exercise and sports safety rules (filed under `staying-safe/staying-safe-while-exercising`, this lesson itself) | China, *普通高中教科书·体育与健康必修 全一册 (PEP Senior-High PE & Health, Compulsory, Complete Volume)*, 第四章 第五节 运动安全（一）, printed p. 74 |
 | El Salvador — Grade 3 Unit 1 Lesson 2 Protejo mi salud en las prácticas físicas — health benefits of suitable clothing and footwear for physical practice (teacher guide — evidence) (filed under `staying-safe/staying-safe-while-exercising`, this lesson itself) | El Salvador, *Guía Metodológica de Educación Física, Primer Ciclo* (El Salvador Grades 1–3 PE Guide, teacher guide), printed p. 155 (teacher guide — evidence) |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Tajikistan, Cyprus, China, Honduras, Myanmar, Greece, Azerbaijan, Turkey).** Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guide stocked here is teacher-guide evidence only, outside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count; the Myanmar teacher guides stocked here are teacher-guide evidence only, outside the acceptance count. Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 6, *PE, Game & Music Grade 2 (Music Primary School)*, is a STUDENT book.
+**Acceptance count: taught in 10 countries (Ethiopia, Tajikistan, Cyprus, China, Honduras, Myanmar, Greece, Azerbaijan, Turkey, Zimbabwe).** Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count — Book 1 is a STUDENT book; Books 2–8 stocked there are teacher-guide evidence only, outside the count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guide stocked here is teacher-guide evidence only, outside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count; the Myanmar teacher guides stocked here are teacher-guide evidence only, outside the acceptance count. Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 6, *PE, Game & Music Grade 2 (Music Primary School)*, is a STUDENT book.
 
 Tajikistan is added as student-book stock (see its book line above), inside the acceptance count. The Tajikistan placement was filed under the slug `staying-safe/staying-safe-while-exercising`, this lesson itself.
 
@@ -263,4 +263,129 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkey-healt
 
 Turkey's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the health slug registry (Part 2A / Part 2B) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Turkey's own way is content, as the book lines above record it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: staying safe while exercising, exercise precautions ጥንቃቄዎች, warm-up, cool-down, sport kit, injury prevention, safety check, Ethiopia HPE Grade 5, sports clothing, right clothes for sport, Tajikistan Physical Culture Grades 1-4, causes of accidents during practice, poor warm-up, inattention, Laos PE Teacher Guides Grades 8 and 9, safe engagement in activity, judging daily activity, intensity beyond your physical qualities, Haiti EPS Programmes Grades 7-9 and 10-13, MENFP, first-aid knowledge everywhere, emergencies at home school and play, Cyprus First Aid Grade 11, Πρώτες Βοήθειες, water and the exercising body, 3.5 litres a day, sweating cools the body, deliberate dehydration, exercising with diabetes asthma epilepsy haemophilia, Afghanistan G7 PE Teacher Guide Dari, Afghanistan G10 PE Teacher Guide Pashto, exercise and sports safety rules, 运动安全， China Senior High PEP PE & Health, suitable clothing and footwear for physical practice, El Salvador PE Guide Grades 1-3, Protejo mi salud en las prácticas físicas, warming up and relaxing Encendamos el motor, physical-activity pyramid, warning signs to stop exercise, personal anamnesis record ficha de anamnesis, hydration in exercise, outdoor activity risk prevention, Honduras Telebásica Grades 7 8 and 9, safety points while exercising, safe places safe movements checking equipment, prevention first then rescue, Myanmar PE Textbooks Grades 6 7 and 10, Myanmar PE Teacher Guides Grades 6 and 7, ကာယပညာ, exercising safely, Άσκηση με ασφάλεια, warm-up games chasing games stretches, Greece Grades 5-6 Fysiki Agogi E-ST, Azerbaijan Fiziki Tərbiyə Grades 6-10, Georgian-language edition, hardening the body, self-control diary, protecting your health in games, Sağlığın Korunması, Turkey G2 PE Game & Music (Music PS)
+
+## Zimbabwe — Health expansion 2026-11-16
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/zimbabwe-health-placements.md. The Zimbabwe books stocked in this lesson are Book 1, Book 2, Book 3, Book 4, Book 5, Book 6, Book 7, Book 8. Record-only items of the placements file, as filed: the *Spring Up in Science and Technology — Learner's Book, Grade 7 (preview)* is UNREAD / record-only — a Science and Technology book, not a Health book; the publisher site serves only a Cloudflare challenge page, so no copy could be taken — with 0 placements; and the PlusOne PE and Arts G2 TG and G6 TG health parts are UNREAD — repo tree 404 at the recorded paths, publisher PDFs Cloudflare-blocked — with 0 placements; nothing is stocked from them.
+
+**Book — Zimbabwe Grade 6 (student book):**
+## Book 1 — PlusOne PE Sport and Mass Displays G6 LB (student book, English)
+- Title as printed: PlusOne Physical Education, Sport and Mass Displays — Grade 6 Learner's Book
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Secondary Book Press; year not printed on pages read; ISBN no ISBN printed
+- PDF pages: 47 PDF pages (spread scans; printed pp. 1–137) (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 5 placements — 3 to existing lessons, 2 NEW LESSON NEEDED (both HELD-title-decision)
+- Zimbabwe's own way: health is taught inside the PE book as "Safety and Health" — healthy living is framed through household physical work (cleaning, digging the garden, fetching firewood) and active communities, alongside the diseases of inactivity and poor sanitation.
+- PE parts of this book are filed in zimbabwe-pe-placements.md; Music and Art topics named there, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Zimbabwe — Unit 3: Safety — safety rules for physical activities: comfortable clothing, protective gear, breaks, weather awareness, not exercising when unwell, drinking water (original string `staying-safe/staying-safe-while-exercising`) | Zimbabwe Grade 6 PlusOne PE G6 LB, printed p. 15 |
+| Zimbabwe — Unit 4: Water safety — safety in and around water, following instructions, swimming aids, water hazards (original string `staying-safe/staying-safe-while-exercising`) | Zimbabwe Grade 6 PlusOne PE G6 LB, printed p. 20 |
+
+**Book — Zimbabwe ECD A (teacher guide):**
+## Book 2 — PlusOne PE and Arts ECD A TG (teacher guide, English)
+- Title as printed: Physical Education and Arts — ECD A Teacher's Guide
+- Grade: ECD A (KG1) (student/teacher: TEACHER)
+- Publisher: Secondary Book Press; year 2025; ISBN 978-1-77932-146-6
+- PDF pages: 70 (cover/title page verified; byte size and blob SHA verified via GitHub repo tree)
+- Verdict: COMPLETE
+- Tally: 5 placements — 2 to existing lessons, 3 NEW LESSON NEEDED (all HELD-title-decision)
+- Zimbabwe's own way: health for the youngest learners starts with hazards ("things that can make you go 'Ouch!'"), play-area safety rules and cleaning the school, before food and hygiene.
+- PE parts of this book are filed in zimbabwe-pe-placements.md; Arts parts named there, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Zimbabwe — Topic 1: Safety and health — hazardous objects in and around the environment, play area safety rules at school, cleaning our school (teacher guide — evidence) (original string `staying-safe/staying-safe-while-exercising`) | Zimbabwe ECD A PlusOne PE and Arts ECD A TG, printed p. 1 (teacher guide — evidence) |
+
+**Book — Zimbabwe ECD B (teacher guide):**
+## Book 3 — PlusOne PE and Arts ECD B TG (teacher guide, English)
+- Title as printed: Physical Education and Arts — ECD B Teacher's Guide
+- Grade: ECD B (KG2) (student/teacher: TEACHER)
+- Publisher: Secondary Book Press; year 2025; ISBN 978-1-77932-145-9
+- PDF pages: 88 (cover/title page verified; byte size and blob SHA verified via GitHub repo tree)
+- Verdict: COMPLETE
+- Tally: 6 placements — 3 to existing lessons, 3 NEW LESSON NEEDED (all HELD-title-decision)
+- Zimbabwe's own way: ECD B adds exercising attire, caring for the environment and water hazards to the safety-and-health topic.
+- PE parts of this book are filed in zimbabwe-pe-placements.md; Arts parts named there, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Zimbabwe — Topic 1: Safety and health — hazardous objects around the play centre, safety rules with self and others (attire for exercising), caring for the environment (teacher guide — evidence) (original string `staying-safe/staying-safe-while-exercising`) | Zimbabwe ECD B PlusOne PE and Arts ECD B TG, printed p. 1 (teacher guide — evidence) |
+| Zimbabwe — Topic 4: Aquatic skills — water hazards and safe entry into the swimming pool (teacher guide — evidence) (original string `staying-safe/staying-safe-while-exercising`) | Zimbabwe ECD B PlusOne PE and Arts ECD B TG, printed p. 39 (teacher guide — evidence) |
+
+**Book — Zimbabwe Grade 1 (teacher guide):**
+## Book 4 — PlusOne PE and Arts G1 TG (teacher guide, English)
+- Title as printed: Physical Education and Arts — Grade 1 Teacher's Guide (Fadzanai Tafirei)
+- Grade: Grade 1 (student/teacher: TEACHER)
+- Publisher: Secondary Book Press; year 2025; ISBN 978-1-77928-513-3
+- PDF pages: 77 (cover/title page verified; byte size and blob SHA verified via GitHub repo tree)
+- Verdict: COMPLETE
+- Tally: 4 placements — 2 to existing lessons, 2 NEW LESSON NEEDED (both HELD-title-decision)
+- PE parts of this book are filed in zimbabwe-pe-placements.md; Arts parts named there, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Zimbabwe — Unit 1: Safety — safety rules for play and physical activity (teacher guide — evidence) (original string `staying-safe/staying-safe-while-exercising`) | Zimbabwe Grade 1 PlusOne PE and Arts G1 TG, printed p. 1 (teacher guide — evidence) |
+
+**Book — Zimbabwe Grade 3 (teacher guide):**
+## Book 5 — PlusOne PE and Arts G3 TG (teacher guide, English)
+- Title as printed: Physical Education and Arts — Grade 3 Teacher's Guide (Nomsa Nyathi, Fungai Makonese, Njabulo Mpofu)
+- Grade: Grade 3 (student/teacher: TEACHER)
+- Publisher: Secondary Book Press; year 2025; ISBN 978-1-77928-505-8
+- PDF pages: 73 (cover/title page verified; byte size and blob SHA verified via GitHub repo tree)
+- Verdict: COMPLETE
+- Tally: 4 placements — 2 to existing lessons, 2 NEW LESSON NEEDED (both HELD-title-decision)
+- PE parts of this book are filed in zimbabwe-pe-placements.md; Arts parts named there, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Zimbabwe — Unit 1: Safety — safety in physical activities (teacher guide — evidence) (original string `staying-safe/staying-safe-while-exercising`) | Zimbabwe Grade 3 PlusOne PE and Arts G3 TG, printed p. 1 (teacher guide — evidence) |
+
+**Book — Zimbabwe Grade 4 (teacher guide):**
+## Book 6 — PlusOne PE and Arts G4 TG (teacher guide, English)
+- Title as printed: Physical Education and Arts — Grade 4 Teacher's Guide (Rebecca Mutimbanyoka, Fungai Makonese, Njabulo Mpofu)
+- Grade: Grade 4 (student/teacher: TEACHER)
+- Publisher: Secondary Book Press; year 2025; ISBN 978-1-77928-500-3
+- PDF pages: 85 (cover/title page verified; byte size and blob SHA verified via GitHub repo tree)
+- Verdict: COMPLETE
+- Tally: 4 placements — 2 to existing lessons, 2 NEW LESSON NEEDED (both HELD-title-decision)
+- PE parts of this book are filed in zimbabwe-pe-placements.md; Arts parts named there, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Zimbabwe — Unit 1: Safety — safety in physical activities (teacher guide — evidence) (original string `staying-safe/staying-safe-while-exercising`) | Zimbabwe Grade 4 PlusOne PE and Arts G4 TG, printed p. 1 (teacher guide — evidence) |
+
+**Book — Zimbabwe Grade 5 (teacher guide):**
+## Book 7 — PlusOne PE and Arts G5 TG (teacher guide, English)
+- Title as printed: Physical Education and Arts — Grade 5 Teacher's Guide
+- Grade: Grade 5 (student/teacher: TEACHER)
+- Publisher: Secondary Book Press; year 2025; ISBN 978-1-77928-515-7
+- PDF pages: 118 (cover/title page verified; byte size and blob SHA verified via GitHub repo tree)
+- Verdict: COMPLETE
+- Tally: 4 placements — 2 to existing lessons, 2 NEW LESSON NEEDED (both HELD-title-decision)
+- PE parts of this book are filed in zimbabwe-pe-placements.md; Arts parts named there, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Zimbabwe — Unit 1: Safety — safety in physical activities (teacher guide — evidence) (original string `staying-safe/staying-safe-while-exercising`) | Zimbabwe Grade 5 PlusOne PE and Arts G5 TG, printed p. 1 (teacher guide — evidence) |
+
+**Book — Zimbabwe Grade 7 (teacher guide):**
+## Book 8 — PlusOne PE and Arts G7 TG (teacher guide, English)
+- Title as printed: Physical Education and Arts — Grade 7 Teacher's Guide (Nomsa Nyathi, Fadzanai Tafirei)
+- Grade: Grade 7 (student/teacher: TEACHER)
+- Publisher: Secondary Book Press; year 2025; ISBN 978-1-77932-140-4
+- PDF pages: 124 (cover/title page verified; byte size and blob SHA verified via GitHub repo tree)
+- Verdict: COMPLETE
+- Tally: 6 placements — 4 to existing lessons, 2 NEW LESSON NEEDED (both HELD-title-decision)
+- Zimbabwe's own way: Grade 7 healthy living is project-based — learners plan healthy-living projects (clean-up campaigns, walk-to-school, first aid training) with SMART goals, alongside the balanced-diet plate model, sleep and hygiene.
+- PE parts of this book are filed in zimbabwe-pe-placements.md; Arts parts named there, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Zimbabwe — Unit 1: Safety — safety rules, warm-up/cool-down and safety precautions in sports environments (teacher guide — evidence) (original string `staying-safe/staying-safe-while-exercising`) | Zimbabwe Grade 7 PlusOne PE and Arts G7 TG, printed p. 1 (teacher guide — evidence) |
+| Zimbabwe — Unit 17: Aquatic skills – Water safety — staying safe in and around water (teacher guide — evidence) (original string `staying-safe/staying-safe-while-exercising`) | Zimbabwe Grade 7 PlusOne PE and Arts G7 TG, printed p. 76 (teacher guide — evidence) |
+
+Zimbabwe is added as student-book stock (see its book lines and rows above), inside the acceptance count — Book 1, the Grade 6 Learner's Book, is a STUDENT book, so Zimbabwe is named in the countries line and provenance rows and the acceptance count rises from 9 to 10 countries; Books 2–8 stocked here are TEACHER guides, so their rows are teacher-guide evidence only, outside the acceptance count. All eleven Zimbabwe placements in this lesson were filed under the slug `staying-safe/staying-safe-while-exercising`, this lesson itself. Zimbabwe's own way is content, as the book lines above record it: health is taught inside the PE book as "Safety and Health", framed through household physical work and active communities.
+
+Searchable tags: staying safe while exercising, exercise precautions ጥንቃቄዎች, warm-up, cool-down, sport kit, injury prevention, safety check, Ethiopia HPE Grade 5, sports clothing, right clothes for sport, Tajikistan Physical Culture Grades 1-4, causes of accidents during practice, poor warm-up, inattention, Laos PE Teacher Guides Grades 8 and 9, safe engagement in activity, judging daily activity, intensity beyond your physical qualities, Haiti EPS Programmes Grades 7-9 and 10-13, MENFP, first-aid knowledge everywhere, emergencies at home school and play, Cyprus First Aid Grade 11, Πρώτες Βοήθειες, water and the exercising body, 3.5 litres a day, sweating cools the body, deliberate dehydration, exercising with diabetes asthma epilepsy haemophilia, Afghanistan G7 PE Teacher Guide Dari, Afghanistan G10 PE Teacher Guide Pashto, exercise and sports safety rules, 运动安全， China Senior High PEP PE & Health, suitable clothing and footwear for physical practice, El Salvador PE Guide Grades 1-3, Protejo mi salud en las prácticas físicas, warming up and relaxing Encendamos el motor, physical-activity pyramid, warning signs to stop exercise, personal anamnesis record ficha de anamnesis, hydration in exercise, outdoor activity risk prevention, Honduras Telebásica Grades 7 8 and 9, safety points while exercising, safe places safe movements checking equipment, prevention first then rescue, Myanmar PE Textbooks Grades 6 7 and 10, Myanmar PE Teacher Guides Grades 6 and 7, ကာယပညာ, exercising safely, Άσκηση με ασφάλεια, warm-up games chasing games stretches, Greece Grades 5-6 Fysiki Agogi E-ST, Azerbaijan Fiziki Tərbiyə Grades 6-10, Georgian-language edition, hardening the body, self-control diary, protecting your health in games, Sağlığın Korunması, Turkey G2 PE Game & Music (Music PS), safety rules for physical activities, water safety, hazardous objects, play area safety rules, cleaning our school, Zimbabwe PlusOne PE and Arts, Zimbabwe Grade 6 PlusOne PE G6 LB, Secondary Book Press

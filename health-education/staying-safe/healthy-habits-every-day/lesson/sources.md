@@ -1,8 +1,8 @@
 # Sources — Healthy Habits Every Day
 
-countries: Jordan, China, Oman, Honduras, Azerbaijan, Ukraine, Turkey
+countries: Jordan, China, Oman, Honduras, Azerbaijan, Ukraine, Turkey, Zimbabwe
 
-**Acceptance count: taught in 5 countries.** Jordan and China are filed as student-book stock, inside the acceptance count, in this lesson. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below). Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Turkey is filed as teacher-guide evidence only in this lesson — Book 1 is a TEACHER guide, so Turkey is named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this Turkey row.
+**Acceptance count: taught in 5 countries.** Zimbabwe is filed as teacher-guide evidence only in this lesson (see its Zimbabwe section below) — named in the countries line and provenance rows, but outside the acceptance count; no Zimbabwe pupil's book is stocked in this lesson. Jordan and China are filed as student-book stock, inside the acceptance count, in this lesson. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below). Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Turkey is filed as teacher-guide evidence only in this lesson — Book 1 is a TEACHER guide, so Turkey is named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this Turkey row.
 
 **Book 1 — التربية الرياضية — الصف الأول الأساسي — الفصل الدراسي الثاني (Physical Education, First Basic Grade, Second Semester) (student book, Arabic):**
 - Title as printed: التربية الرياضية — الصف الأول الأساسي — الفصل الدراسي الثاني (Physical Education, First Basic Grade, Second Semester)
@@ -155,4 +155,66 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkey-healt
 
 Turkey's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the health slug registry (Part 2A / Part 2B) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Turkey's own way is content, as the book lines above record it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: healthy habits every day, daily healthy habits, healthy and unhealthy pictures, Movement and Health, Jordan NCCD Physical Education Grade 1, healthy lifestyle and preventing disease, building healthy behaviour, balanced diet, mental balance, scientific exercise, preventing chronic non-communicable diseases, diabetes, China Senior High PEP PE & Health, sport is our life الرياضة حياتنا, the healthy lifestyle نمط الحياة الصحي, Oman G5 Teacher Guide, Oman G7 Teacher Guide, healthy-life habits balanced diet sleep medical check-ups exercise outdoor life, Honduras Telebásica Grade 9, Azerbaijan Fiziki Tərbiyə Grades 6-10, Georgian-language edition, hardening the body, self-control diary, advantages of a healthy lifestyle, components of a healthy lifestyle, Ukraine G7 Health Safety and Wellbeing Shyian, dressing for the weather, Bu Mevsimde Neler Giymeliyiz, Fırtınada Ne Giyilir, Turkey Preschool Movement & Health TG
+
+## Zimbabwe — Health expansion 2026-11-16
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/zimbabwe-health-placements.md. The Zimbabwe books stocked in this lesson are Book 4, Book 5, Book 6, Book 7. Record-only items of the placements file, as filed: the *Spring Up in Science and Technology — Learner's Book, Grade 7 (preview)* is UNREAD / record-only — a Science and Technology book, not a Health book; the publisher site serves only a Cloudflare challenge page, so no copy could be taken — with 0 placements; and the PlusOne PE and Arts G2 TG and G6 TG health parts are UNREAD — repo tree 404 at the recorded paths, publisher PDFs Cloudflare-blocked — with 0 placements; nothing is stocked from them.
+
+**Book — Zimbabwe Grade 1 (teacher guide):**
+## Book 4 — PlusOne PE and Arts G1 TG (teacher guide, English)
+- Title as printed: Physical Education and Arts — Grade 1 Teacher's Guide (Fadzanai Tafirei)
+- Grade: Grade 1 (student/teacher: TEACHER)
+- Publisher: Secondary Book Press; year 2025; ISBN 978-1-77928-513-3
+- PDF pages: 77 (cover/title page verified; byte size and blob SHA verified via GitHub repo tree)
+- Verdict: COMPLETE
+- Tally: 4 placements — 2 to existing lessons, 2 NEW LESSON NEEDED (both HELD-title-decision)
+- PE parts of this book are filed in zimbabwe-pe-placements.md; Arts parts named there, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Zimbabwe — Unit 2: Health — healthy living habits and keeping the body healthy (filed as HELD-title-decision; resolved by registry Part 2B to this lesson) (teacher guide — evidence) (original string `staying-safe/HELD-title-decision`) | Zimbabwe Grade 1 PlusOne PE and Arts G1 TG, printed p. 4 (teacher guide — evidence) |
+
+**Book — Zimbabwe Grade 3 (teacher guide):**
+## Book 5 — PlusOne PE and Arts G3 TG (teacher guide, English)
+- Title as printed: Physical Education and Arts — Grade 3 Teacher's Guide (Nomsa Nyathi, Fungai Makonese, Njabulo Mpofu)
+- Grade: Grade 3 (student/teacher: TEACHER)
+- Publisher: Secondary Book Press; year 2025; ISBN 978-1-77928-505-8
+- PDF pages: 73 (cover/title page verified; byte size and blob SHA verified via GitHub repo tree)
+- Verdict: COMPLETE
+- Tally: 4 placements — 2 to existing lessons, 2 NEW LESSON NEEDED (both HELD-title-decision)
+- PE parts of this book are filed in zimbabwe-pe-placements.md; Arts parts named there, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Zimbabwe — Unit 2: Healthy living habits — habits that keep the body healthy (filed as HELD-title-decision; resolved by registry Part 2B to this lesson) (teacher guide — evidence) (original string `staying-safe/HELD-title-decision`) | Zimbabwe Grade 3 PlusOne PE and Arts G3 TG, printed p. 2 (teacher guide — evidence) |
+
+**Book — Zimbabwe Grade 4 (teacher guide):**
+## Book 6 — PlusOne PE and Arts G4 TG (teacher guide, English)
+- Title as printed: Physical Education and Arts — Grade 4 Teacher's Guide (Rebecca Mutimbanyoka, Fungai Makonese, Njabulo Mpofu)
+- Grade: Grade 4 (student/teacher: TEACHER)
+- Publisher: Secondary Book Press; year 2025; ISBN 978-1-77928-500-3
+- PDF pages: 85 (cover/title page verified; byte size and blob SHA verified via GitHub repo tree)
+- Verdict: COMPLETE
+- Tally: 4 placements — 2 to existing lessons, 2 NEW LESSON NEEDED (both HELD-title-decision)
+- PE parts of this book are filed in zimbabwe-pe-placements.md; Arts parts named there, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Zimbabwe — Unit 2: Healthy living habits — habits that keep the body healthy (filed as HELD-title-decision; resolved by registry Part 2B to this lesson) (teacher guide — evidence) (original string `staying-safe/HELD-title-decision`) | Zimbabwe Grade 4 PlusOne PE and Arts G4 TG, printed p. 3 (teacher guide — evidence) |
+
+**Book — Zimbabwe Grade 5 (teacher guide):**
+## Book 7 — PlusOne PE and Arts G5 TG (teacher guide, English)
+- Title as printed: Physical Education and Arts — Grade 5 Teacher's Guide
+- Grade: Grade 5 (student/teacher: TEACHER)
+- Publisher: Secondary Book Press; year 2025; ISBN 978-1-77928-515-7
+- PDF pages: 118 (cover/title page verified; byte size and blob SHA verified via GitHub repo tree)
+- Verdict: COMPLETE
+- Tally: 4 placements — 2 to existing lessons, 2 NEW LESSON NEEDED (both HELD-title-decision)
+- PE parts of this book are filed in zimbabwe-pe-placements.md; Arts parts named there, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Zimbabwe — Unit 2: Healthy living habits — habits that keep the body healthy (filed as HELD-title-decision; resolved by registry Part 2B to this lesson) (teacher guide — evidence) (original string `staying-safe/HELD-title-decision`) | Zimbabwe Grade 5 PlusOne PE and Arts G5 TG, printed p. 9 (teacher guide — evidence) |
+
+Zimbabwe is added as teacher-guide evidence only (see its book lines and rows above), outside the acceptance count — every Zimbabwe book stocked in this lesson is a TEACHER guide, so Zimbabwe is named in the countries line and provenance rows but the acceptance count is unchanged (still taught in 5 countries); no Zimbabwe pupil's book is stocked in this lesson. All four Zimbabwe placements in this lesson were filed as HELD-title-decision lines, resolved by registry Part 2B to this lesson, and the original string is recorded in each provenance row above. Zimbabwe's own way is content, as the book lines above record it: healthy living habits are a named unit of every PlusOne PE and Arts guide from Grade 1 to Grade 5 — the habits that keep the body healthy, with hygiene inside them.
+
+Searchable tags: healthy habits every day, daily healthy habits, healthy and unhealthy pictures, Movement and Health, Jordan NCCD Physical Education Grade 1, healthy lifestyle and preventing disease, building healthy behaviour, balanced diet, mental balance, scientific exercise, preventing chronic non-communicable diseases, diabetes, China Senior High PEP PE & Health, sport is our life الرياضة حياتنا, the healthy lifestyle نمط الحياة الصحي, Oman G5 Teacher Guide, Oman G7 Teacher Guide, healthy-life habits balanced diet sleep medical check-ups exercise outdoor life, Honduras Telebásica Grade 9, Azerbaijan Fiziki Tərbiyə Grades 6-10, Georgian-language edition, hardening the body, self-control diary, advantages of a healthy lifestyle, components of a healthy lifestyle, Ukraine G7 Health Safety and Wellbeing Shyian, dressing for the weather, Bu Mevsimde Neler Giymeliyiz, Fırtınada Ne Giyilir, Turkey Preschool Movement & Health TG, healthy living habits, habits that keep the body healthy, keeping the body healthy, Zimbabwe PlusOne PE and Arts Grades 1 3 4 5 Teacher Guides, Secondary Book Press

@@ -1,8 +1,8 @@
 # Sources — The Body Systems
 
-countries: Croatia, Honduras, Myanmar, Greece, Azerbaijan, Turkey
+countries: Croatia, Honduras, Myanmar, Greece, Azerbaijan, Turkey, Zimbabwe
 
-**Acceptance count: taught in 6 countries.** Croatia is filed as student-book stock, inside the acceptance count, in this lesson — as a publisher SAMPLE read, exactly as filed (see the book line below). Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guide stocked here is teacher-guide evidence only, outside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count. Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 7, *Foundations of PE & Sport Grade 6*, is a STUDENT book; Book 8, the Grade 6 Differentiation Activities teacher guide, is filed as teacher-guide evidence only, outside the count.
+**Acceptance count: taught in 7 countries.** Zimbabwe is filed as student-book stock, inside the acceptance count, in this lesson (see its Zimbabwe section below) — Book 1 is a STUDENT book; Books 5–8 stocked there are teacher-guide evidence only, outside the count. Croatia is filed as student-book stock, inside the acceptance count, in this lesson — as a publisher SAMPLE read, exactly as filed (see the book line below). Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guide stocked here is teacher-guide evidence only, outside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count. Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 7, *Foundations of PE & Sport Grade 6*, is a STUDENT book; Book 8, the Grade 6 Differentiation Activities teacher guide, is filed as teacher-guide evidence only, outside the count.
 
 **Book 1 — Čovjek i zdravlje (student book, Croatian):**
 - Title as printed: Čovjek i zdravlje — Udžbenik iz biologije za strukovne škole (Biology textbook for vocational schools)
@@ -147,4 +147,82 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkey-healt
 
 Turkey's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the health slug registry (Part 2A / Part 2B) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Turkey's own way is content, as the book lines above record it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: body systems, cells tissues organs organ systems, blood red cells white cells platelets, transport of substances, homeostasis, Croatia, Čovjek i zdravlje, Mi cuerpo es una máquina perfecta, structure of the human body, cardiovascular lymphatic skeletal articular systems, Honduras Telebásica Grades 7, body systems in sport, respiratory circulatory muscular nervous systems, Myanmar PE Textbook Grade 10, ကာယပညာ, muscles bones and movement, Μύες οστά και κίνηση, force makes things move, stopping exercise ages the body faster, Greece Grades 5-6 Fysiki Agogi E-ST, Azerbaijan Fiziki Tərbiyə Grades 6-10, Georgian-language edition, hardening the body, self-control diary, basic anatomy and physiology, İnsan Vücudunun Temel Anatomisi, Turkey G6 Foundations of PE & Sport
+
+## Zimbabwe — Health expansion 2026-11-16
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/zimbabwe-health-placements.md. The Zimbabwe books stocked in this lesson are Book 1, Book 5, Book 6, Book 7, Book 8. Record-only items of the placements file, as filed: the *Spring Up in Science and Technology — Learner's Book, Grade 7 (preview)* is UNREAD / record-only — a Science and Technology book, not a Health book; the publisher site serves only a Cloudflare challenge page, so no copy could be taken — with 0 placements; and the PlusOne PE and Arts G2 TG and G6 TG health parts are UNREAD — repo tree 404 at the recorded paths, publisher PDFs Cloudflare-blocked — with 0 placements; nothing is stocked from them.
+
+**Book — Zimbabwe Grade 6 (student book):**
+## Book 1 — PlusOne PE Sport and Mass Displays G6 LB (student book, English)
+- Title as printed: PlusOne Physical Education, Sport and Mass Displays — Grade 6 Learner's Book
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Secondary Book Press; year not printed on pages read; ISBN no ISBN printed
+- PDF pages: 47 PDF pages (spread scans; printed pp. 1–137) (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 5 placements — 3 to existing lessons, 2 NEW LESSON NEEDED (both HELD-title-decision)
+- Zimbabwe's own way: health is taught inside the PE book as "Safety and Health" — healthy living is framed through household physical work (cleaning, digging the garden, fetching firewood) and active communities, alongside the diseases of inactivity and poor sanitation.
+- PE parts of this book are filed in zimbabwe-pe-placements.md; Music and Art topics named there, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Zimbabwe — Unit 1: Organs of the body — respiratory and digestive systems: the parts that store and transport food and air and how they work (filed as HELD-title-decision; resolved by registry Part 2B to this lesson) (original string `staying-safe/HELD-title-decision`) | Zimbabwe Grade 6 PlusOne PE G6 LB, printed p. 2 |
+
+**Book — Zimbabwe Grade 3 (teacher guide):**
+## Book 5 — PlusOne PE and Arts G3 TG (teacher guide, English)
+- Title as printed: Physical Education and Arts — Grade 3 Teacher's Guide (Nomsa Nyathi, Fungai Makonese, Njabulo Mpofu)
+- Grade: Grade 3 (student/teacher: TEACHER)
+- Publisher: Secondary Book Press; year 2025; ISBN 978-1-77928-505-8
+- PDF pages: 73 (cover/title page verified; byte size and blob SHA verified via GitHub repo tree)
+- Verdict: COMPLETE
+- Tally: 4 placements — 2 to existing lessons, 2 NEW LESSON NEEDED (both HELD-title-decision)
+- PE parts of this book are filed in zimbabwe-pe-placements.md; Arts parts named there, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Zimbabwe — Unit 3: Organs of the body — the body's organs and what they do (filed as HELD-title-decision; resolved by registry Part 2B to this lesson) (teacher guide — evidence) (original string `staying-safe/HELD-title-decision`) | Zimbabwe Grade 3 PlusOne PE and Arts G3 TG, printed p. 5 (teacher guide — evidence) |
+
+**Book — Zimbabwe Grade 4 (teacher guide):**
+## Book 6 — PlusOne PE and Arts G4 TG (teacher guide, English)
+- Title as printed: Physical Education and Arts — Grade 4 Teacher's Guide (Rebecca Mutimbanyoka, Fungai Makonese, Njabulo Mpofu)
+- Grade: Grade 4 (student/teacher: TEACHER)
+- Publisher: Secondary Book Press; year 2025; ISBN 978-1-77928-500-3
+- PDF pages: 85 (cover/title page verified; byte size and blob SHA verified via GitHub repo tree)
+- Verdict: COMPLETE
+- Tally: 4 placements — 2 to existing lessons, 2 NEW LESSON NEEDED (both HELD-title-decision)
+- PE parts of this book are filed in zimbabwe-pe-placements.md; Arts parts named there, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Zimbabwe — Unit 3: Organs of the body — the body's organs and what they do (filed as HELD-title-decision; resolved by registry Part 2B to this lesson) (teacher guide — evidence) (original string `staying-safe/HELD-title-decision`) | Zimbabwe Grade 4 PlusOne PE and Arts G4 TG, printed p. 6 (teacher guide — evidence) |
+
+**Book — Zimbabwe Grade 5 (teacher guide):**
+## Book 7 — PlusOne PE and Arts G5 TG (teacher guide, English)
+- Title as printed: Physical Education and Arts — Grade 5 Teacher's Guide
+- Grade: Grade 5 (student/teacher: TEACHER)
+- Publisher: Secondary Book Press; year 2025; ISBN 978-1-77928-515-7
+- PDF pages: 118 (cover/title page verified; byte size and blob SHA verified via GitHub repo tree)
+- Verdict: COMPLETE
+- Tally: 4 placements — 2 to existing lessons, 2 NEW LESSON NEEDED (both HELD-title-decision)
+- PE parts of this book are filed in zimbabwe-pe-placements.md; Arts parts named there, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Zimbabwe — Unit 3: Organs of the body — the body's organs and what they do (filed as HELD-title-decision; resolved by registry Part 2B to this lesson) (teacher guide — evidence) (original string `staying-safe/HELD-title-decision`) | Zimbabwe Grade 5 PlusOne PE and Arts G5 TG, printed p. 16 (teacher guide — evidence) |
+
+**Book — Zimbabwe Grade 7 (teacher guide):**
+## Book 8 — PlusOne PE and Arts G7 TG (teacher guide, English)
+- Title as printed: Physical Education and Arts — Grade 7 Teacher's Guide (Nomsa Nyathi, Fadzanai Tafirei)
+- Grade: Grade 7 (student/teacher: TEACHER)
+- Publisher: Secondary Book Press; year 2025; ISBN 978-1-77932-140-4
+- PDF pages: 124 (cover/title page verified; byte size and blob SHA verified via GitHub repo tree)
+- Verdict: COMPLETE
+- Tally: 6 placements — 4 to existing lessons, 2 NEW LESSON NEEDED (both HELD-title-decision)
+- Zimbabwe's own way: Grade 7 healthy living is project-based — learners plan healthy-living projects (clean-up campaigns, walk-to-school, first aid training) with SMART goals, alongside the balanced-diet plate model, sleep and hygiene.
+- PE parts of this book are filed in zimbabwe-pe-placements.md; Arts parts named there, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Zimbabwe — Unit 3: Organs of the body — the body's organs and their functions (filed as HELD-title-decision; resolved by registry Part 2B to this lesson) (teacher guide — evidence) (original string `staying-safe/HELD-title-decision`) | Zimbabwe Grade 7 PlusOne PE and Arts G7 TG, printed p. 12 (teacher guide — evidence) |
+
+Zimbabwe is added as student-book stock (see its book lines and rows above), inside the acceptance count — Book 1, the Grade 6 Learner's Book, is a STUDENT book, so Zimbabwe is named in the countries line and provenance rows and the acceptance count rises from 6 to 7 countries; Books 5–8 stocked here are TEACHER guides, so their rows are teacher-guide evidence only, outside the acceptance count. All five Zimbabwe placements in this lesson were filed as HELD-title-decision lines, resolved by registry Part 2B to this lesson, and the original string is recorded in each provenance row above. Zimbabwe's own way is content, as the book lines above record it: organs of the body is a named unit of the PlusOne PE and Arts books, from the Grade 6 respiratory and digestive systems to the guides' organs-and-what-they-do units.
+
+Searchable tags: body systems, cells tissues organs organ systems, blood red cells white cells platelets, transport of substances, homeostasis, Croatia, Čovjek i zdravlje, Mi cuerpo es una máquina perfecta, structure of the human body, cardiovascular lymphatic skeletal articular systems, Honduras Telebásica Grades 7, body systems in sport, respiratory circulatory muscular nervous systems, Myanmar PE Textbook Grade 10, ကာယပညာ, muscles bones and movement, Μύες οστά και κίνηση, force makes things move, stopping exercise ages the body faster, Greece Grades 5-6 Fysiki Agogi E-ST, Azerbaijan Fiziki Tərbiyə Grades 6-10, Georgian-language edition, hardening the body, self-control diary, basic anatomy and physiology, İnsan Vücudunun Temel Anatomisi, Turkey G6 Foundations of PE & Sport, organs of the body, respiratory and digestive systems, parts that store and transport food and air, Zimbabwe PlusOne PE and Arts, Zimbabwe Grade 6 PlusOne PE G6 LB, Secondary Book Press
