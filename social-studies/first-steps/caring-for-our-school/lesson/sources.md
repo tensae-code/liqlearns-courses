@@ -1,6 +1,6 @@
 # Sources — Caring for Our School
 
-countries: Libya, Angola, United Arab Emirates
+countries: Libya, Angola, United Arab Emirates, Myanmar
 
 **Book 1:** *أنا المواطن (I Am the Citizen), National Education G4* (student book, Arabic) — Title as printed: أنا المواطن — كتاب التربية الوطنية للصف الرابع من مرحلة التعليم الأساسي (I Am the Citizen — National Education book for Grade 4 of basic education). Grade: 4 (student/teacher: STUDENT). Publisher: State of Libya, Ministry of Education — Curriculum and Educational Research Centre (prepared by a specialised committee commissioned by the Centre); year 2019–2020 / 1440–1441 AH; ISBN no ISBN printed on the cover pages read. PDF pages: 88 (cover rendered and verified against the record title; 16,522,163 bytes, Wayback capture 20211209161425 of the recorded source_url — the book is image-only and was read from page renders). Earlier waves: not read before (the National Education books were never targeted by the Geography/History/Economics waves). Verdict: COMPLETE (full page-by-page read, civics track). Contents map: Integrated SS (Unit 2 "I am a human being") Lesson 5 I and my family pp. 41–48, Lesson 6 I and my school pp. 49–56, Lesson 7 I and the neighbourhood pp. 57–65; Morals/Values Lesson 1 I am a human being pp. 8–15; Civics/Citizenship Lesson 6 carries the Convention on the Rights of the Child art. 28 (free compulsory basic education) p. 55; Health (Unit 1 "I and my health") Lesson 2 my cleanliness pp. 16–22, Lesson 3 my nutrition pp. 23–31, Lesson 4 my body's safety pp. 32–39 — named, the Health course's, not placed, except the shared-places and road-safety fragments placed below; Environment (Unit 3) Lesson 8 I and the environment pp. 67–75 (environment components — named, Geography/Science, not placed), Lesson 9 I protect the environment pp. 76–86 (placed — civic behaviour). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/libya-placements.md.
 
@@ -52,3 +52,18 @@ United Arab Emirates placements — Social Studies remaining strands (2026-11-17
 United Arab Emirates' own way (Moral Education, G1 Term 2 student book): the youngest pupils meet their heritage as a story told by a grandmother — the date palm and its fruit become a symbol of the country's identity — and meet honesty the same way, explored through tales before it is ever stated as a rule. That way is stocked here as the way United Arab Emirates teaches this thing.
 
 Registry note: the original coined string `first-steps/caring-for-our-school-environment` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/caring-for-our-school`.
+
+**Book 5:** *Morality and Civics, Grade 2* (student book, Myanmar language) — Title as printed: စာရိတ္တနှင့် ပြည်သူ့နီတိ ဒုတိယတန်း (Morality and Civics, Grade 2) — title from the record and the book's chapter layout; the DBE Box scan carries no cover page. Grade: Grade 2 (student/teacher: STUDENT). Publisher: Ministry of Education, Republic of the Union of Myanmar; year not printed in the surviving scan; no ISBN printed. PDF pages: 68 (46,666,937 bytes from books.learnbig.net; a few scanned pages are colour-corrupted in the file, pp. 25–26, 30, 66). Earlier waves: not read before. Verdict: PARTIAL — cover page missing from the scan and three pages corrupt; all 16 chapters identified and read. Contents map: Morals/Values pp. 1–68 (all 16 chapters); no other strands. Tally: 16 placements — 0 to existing lessons, 16 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/myanmar-placements-b.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar part — culture-and-work/looking-after-school-things-and-the-school-garden — Ch.4 Our school things — teaches: caring for the school's property and its garden, told through the school assembly story and the school-garden poem — Myanmar Grade 2 Morality and Civics TB, printed p. 14 | Myanmar, *Morality and Civics, Grade 2* (student book), Ch.4 Our school things — printed p. 14 |
+| Myanmar's way — the books' own teaching way | Myanmar — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 4 countries (Libya, Angola, United Arab Emirates, Myanmar).**
+
+Myanmar's own way (Book 5): Grade 2 widens Grade 1's values from home to school — the same story-plus-pictures shape now carries school property, school rules, honest judgement of classroom incidents, friends with disabilities, and the whole country drawn as its ethnic children around the map.
+
+Registry note: the original coined string `culture-and-work/looking-after-school-things-and-the-school-garden` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/caring-for-our-school`.
+
+Searchable tags: caring for our school, Myanmar, social studies, first-steps

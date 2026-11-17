@@ -1,6 +1,6 @@
 # Sources — My Duties at School
 
-countries: Afghanistan, Iraq, Rwanda
+countries: Afghanistan, Iraq, Rwanda, Myanmar
 
 **Book 1:** *Social Studies, Grade 4 (دروس اجتماعی صنف چهارم)* (student book, Dari) — Title as printed: دروس اجتماعی برای صنف چهارم (Social Studies for Grade 4). Grade: 4 (student/teacher: STUDENT). Publisher: Ministry of Education, Afghanistan; year 1399 HS (2020/21) as printed; ISBN no ISBN printed. PDF pages: 106 (cover verified against the record title; 21,005,872 bytes — the books.json tree path is a phantom push: the Contents API returns 404 for it, as the Economics wave found; the bytes survive as release asset grade-04-gov-afghanistan-bc91f2edec.pdf in release mid-size-books-7, fetched with size verification, matching the Geography/History waves' byte count exactly). Earlier waves: Geography wave placed Lessons 10, 12–50 (village life, farming, livestock, city life and types, directions and maps, homeland boundaries and divisions, continents, oceans, the globe); History wave placed Lesson 9 (history of education in Afghanistan) and Lesson 18 (historic cities); Economics wave filed this record UNREAD (tree 404) — superseded by the release-asset read here and in the Geography/History waves. Verdict: COMPLETE — the remaining integrated-SS/civics parts (printed pp. 1–15, 21, 41–45) read page by page and placed below; Lesson 6 The mosque (printed p. 11) is a Religion part — named in the contents map, not placed, per the brief. Contents map: Integrated SS pp. 1–15 (Lessons 1–5 social life and the family; Lessons 7–8 the school and duties at school) and p. 21 (Lesson 11 village trades and handicrafts — work as community life); Civics/Citizenship/Government pp. 41–45 (Lesson 21 the national flag; Lesson 22 government offices; Lesson 23 traffic regulations); Morals/Values inside Lessons 3–5 (good character learned in the family; duties and order at home); Geography pp. 19, 23–39, 47–99 (placed by the Geography wave); History p. 17 (Lesson 9) and p. 35 (Lesson 18) (placed by the History wave); Economics pp. 23–33 (farming, livestock, city occupations — placed by the Geography/Economics waves); Religion p. 11 (Lesson 6 the mosque — named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/afghanistan-placements.md.
 
@@ -43,3 +43,18 @@ Iraq's own way (Book 1): civics starts at the school desk — the first communit
 Rwanda's own way (Primary Two — Rwanda P2 SB Kiny): P2 civics starts with who you belong to (small family, wide family, the exact Kinyarwanda name for every relation), then the two smallest rungs of the state — the village and the cell, their elected committees and what umuganda owes them — and the behaviour of peace: playing without discrimination, listening without shouting, and the rights of children and of people with disabilities
 
 Registry note: the original coined string `first-steps/duties-of-pupils-at-school-and-home` is recorded in the provenance rows above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/my-duties-at-school`.
+
+**Book 2:** *Morality and Civics, Grade 1* (student book, Myanmar language) — Title as printed: စာရိတ္တနှင့် ပြည်သူ့နီတိ ပထမတန်း (Morality and Civics, Grade 1). Grade: Grade 1 (student/teacher: STUDENT). Publisher: Ministry of Education, Republic of the Union of Myanmar (CREATE/JICA-supported new primary curriculum, credited on back page); year 2017–2018; no ISBN printed. PDF pages: 72 (cover/title page verified against the record title; 6,125,502 bytes from books.learnbig.net). Earlier waves: not read before. Verdict: COMPLETE (civics track — full page-by-page read). Contents map: Morals/Values pp. 1–71 (all 16 chapters); no Geography/History/Economics/Science/Religion parts. Tally: 16 placements — 0 to existing lessons, 16 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/myanmar-placements-b.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar part — culture-and-work/the-duties-of-a-pupil — Ch.13 The duties of a pupil — teaches: what a pupil owes teacher, school and classmates — Myanmar Grade 1 Morality and Civics TB, printed p. 51 | Myanmar, *Morality and Civics, Grade 1* (student book), Ch.13 The duties of a pupil — printed p. 51 |
+| Myanmar's way — the books' own teaching way | Myanmar — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 4 countries (Afghanistan, Iraq, Rwanda, Myanmar).**
+
+Myanmar's own way (Book 2): every value is taught as a named story or picture-sequence about one child (or one lion cub) plus a question set — never as a rule list; the patriotism chapter teaches love of country as the eight ethnic peoples in their own dress holding hands around the Independence Monument.
+
+Registry note: the original coined string `culture-and-work/the-duties-of-a-pupil` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/my-duties-at-school`.
+
+Searchable tags: my duties at school, Myanmar, social studies, first-steps

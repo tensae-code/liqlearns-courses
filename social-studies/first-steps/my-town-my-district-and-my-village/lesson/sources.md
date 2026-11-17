@@ -1,6 +1,6 @@
 # Sources — My Town, My District and My Village
 
-countries: Suriname, Somalia, Serbia, Kazakhstan, North Macedonia, Cambodia
+countries: Suriname, Somalia, Serbia, Kazakhstan, North Macedonia, Cambodia, Myanmar
 
 **Book 1:** *Ik-boek* (student book, Dutch) — Suriname, Ministerie van Onderwijs en Volksontwikkeling (Suriname); year not printed (PDF created 2012); no ISBN printed. Title as printed: IK BOEK (OJW Leerjaar 3 — Ik-boek). Grade 3 (Leerjaar 3). 14 PDF pp. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/suriname-placements.md.
 
@@ -76,3 +76,16 @@ Cambodia's own way (Cambodia Grade 2 Science–Social G2): the community chapter
 
 Cambodia's own way (Cambodia Grade 3 Science–Social G3): community living is taught as habits — caring for each other and for the people around — and the safety lessons carry Cambodia's own reality, including keeping safe in areas with landmines; the book ends by widening to the national flag. That way is stocked here as the way Cambodia teaches this thing.
 
+**Book 6:** *Social Studies Grade 3* (student book, English; unofficial translation of the Myanmar original) — Title as printed: SOCIAL STUDIES GRADE 3 (The Government of the Republic of the Union of Myanmar, Ministry of Education; "Unofficial Translation — Reference Only"). Grade: Grade 3 (student/teacher: STUDENT). Publisher: Ministry of Education; year 2019–2020; no ISBN printed. PDF pages: 67 (cover/title page verified against the record title; 35,138,726 bytes from books.learnbig.net). Earlier waves: not read before. Verdict: COMPLETE (remaining strands read fully, printed pp. 1–32; History chapter contents-mapped). Contents map: Integrated SS pp. 1–32 (Ch.1 Our town; Ch.2 Our village; Ch.3 Study relating two regions); History pp. 33–57 (Ch.4 The historic leaders that I admire: King Mindon, General Aung San, peace architect U Thant); Exercises pp. 58–66 (excluded, assessment). Tally: 6 placements — 3 to existing lessons, 3 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/myanmar-placements-b.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar part — first-steps/my-town-my-district-and-my-village — (1.1) The town where Maung Maung lives — teaches: reading a whole town from its picture map — river, fields, fish ponds, streets, homes — and finding places by the eight directions — Myanmar Grade 3 Social Studies TB (English), printed p. 1 | Myanmar, *Social Studies Grade 3* (student book), (1.1) The town where Maung Maung lives — printed p. 1 |
+| Myanmar part — first-steps/my-town-my-district-and-my-village — (2.1) The village where Maung Maung's friend lives — teaches: reading Zee Hpyu Kyun village from its picture map — the river, the paddy fields and what is found in each part of the village — Myanmar Grade 3 Social Studies TB (English), printed p. 16 | Myanmar, *Social Studies Grade 3* (student book), (2.1) The village where Maung Maung's friend lives — printed p. 16 |
+| Myanmar's way — the books' own teaching way | Myanmar — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 7 countries (Suriname, Somalia, Serbia, Kazakhstan, North Macedonia, Cambodia, Myanmar).**
+
+Myanmar's own way (Book 6): Grade 3 studies one real town (Nyaungdon, on the Pan Hlaing river) and one real village (Zee Hpyu Kyun) from big picture maps, then interviews a real home-industry owner — the town's banana-chip maker, with her 35 workers, their wages and their problems-and-solutions poster.
+
+Searchable tags: my town my district and my village, Myanmar, social studies, first-steps

@@ -1,6 +1,6 @@
 # Sources — Caring for Grandparents Parents and Younger Ones
 
-countries: Eritrea, Syria, Vietnam
+countries: Eritrea, Syria, Vietnam, Myanmar
 
 **Book 1:** *Social Studies for Grade 6 — Pupils' Book* (student book, English) — Title as printed: Social Studies for Grade 6 — Pupils' Book. Grade: Grade 6 (student/teacher: STUDENT). Publisher: Ministry of Education, The State of Eritrea; year 2015 (reprinted 2015, Sabur Printing Services, Asmara); ISBN 99948-1-453-2. PDF pages: 127 (cover/title page verified against the record title in the earlier waves' identical grab; 2,730,732 bytes and 127 pages, both match the record). Earlier waves: Geography wave placed Units 3–12 (including Unit 7 Culture and Beliefs); History wave placed Units 1, 2, 8, 9; Economics wave placed Unit 11. Unit 13 was named by the Geography wave as "Civics / life-skills", not placed, and labelled Health Education by the History wave. Verdict: COMPLETE (contents-first; the remaining strand — Unit 13 — read fully, printed pp. 111–121. The unit is family life and care for others, not body hygiene: its safety teaching is the older child's duty to keep younger children safe, so it is placed here as integrated SS / morals, with the home-accident content named). Contents map: Integrated SS / Morals pp. 111–121 (Unit 13 Caring for Younger Children — kinds of families, companionship, looking after younger children, safety at home as a carer's duty); Geography pp. 15–110 (Units 3–6, 10, 12 — Geography wave); History pp. 1–14, 60–77 (Units 1, 2, 8, 9 — History wave); Culture pp. 43–59 (Unit 7 — Geography wave); Economics pp. 93–99 (Unit 11 — Economics wave). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/eritrea-placements.md.
 
@@ -42,3 +42,25 @@ Vietnam placements — Social Studies remaining strands (2026-11-17):
 **Acceptance count: taught in 3 countries (Eritrea, Syria, Vietnam).**
 
 Vietnam's own way (Book 1): Đạo đức (Ethics) is Vietnam's standalone primary moral-education subject; every lesson runs the same four moves — a song to open, picture stories to explore, practice pictures to judge, a role-play to apply — and closes with a two-line rhyme that states the duty; the family is taught three-generational (ông bà – cha mẹ – anh chị em) and school rules are taught as the child's first shared rules.
+
+**Book 2:** *Morality and Civics, Grade 1* (student book, Myanmar language) — Title as printed: စာရိတ္တနှင့် ပြည်သူ့နီတိ ပထမတန်း (Morality and Civics, Grade 1). Grade: Grade 1 (student/teacher: STUDENT). Publisher: Ministry of Education, Republic of the Union of Myanmar (CREATE/JICA-supported new primary curriculum, credited on back page); year 2017–2018; no ISBN printed. PDF pages: 72 (cover/title page verified against the record title; 6,125,502 bytes from books.learnbig.net). Earlier waves: not read before. Verdict: COMPLETE (civics track — full page-by-page read). Contents map: Morals/Values pp. 1–71 (all 16 chapters); no Geography/History/Economics/Science/Religion parts. Tally: 16 placements — 0 to existing lessons, 16 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/myanmar-placements-b.md.
+
+**Book 7:** *Morality and Civics Grade 3* (student book, English; unofficial translation of the Myanmar original) — Title as printed: MORALITY AND CIVICS GRADE 3 (The Government of the Republic of the Union of Myanmar, Ministry of Education; "Unofficial Translation — Reference Only"). Grade: Grade 3 (student/teacher: STUDENT). Publisher: Ministry of Education; year 2019–2020; no ISBN printed. PDF pages: 74 (cover verified against the record title; 34,758,665 bytes from books.learnbig.net). Earlier waves: not read before. Verdict: COMPLETE (civics track — full read of all 16 units). Contents map: Morals/Values pp. 1–68 (all 16 units); no other strands. Tally: 16 placements — 0 to existing lessons, 16 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/myanmar-placements-b.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar part — culture-and-work/helping-parents-and-elders — Ch.2 Help your parents and elders — teaches: the small jobs a child can do for parents and grandparents at home, learned by studying the lesson pictures — Myanmar Grade 1 Morality and Civics TB, printed p. 5 | Myanmar, *Morality and Civics, Grade 1* (student book), Ch.2 Help your parents and elders — printed p. 5 |
+| Myanmar part — culture-and-work/caring-for-younger-children — Unit 1 Caring and kindness to the younger ones — teaches: looking after younger children — Maung Maung takes the blame for his little sister's lost slippers and saves his pocket money to buy her new ones — Myanmar Grade 3 Morality and Civics TB (English), printed p. 1 | Myanmar, *Morality and Civics Grade 3* (student book), Unit 1 Caring and kindness to the younger ones — printed p. 1 |
+| Myanmar's way — the books' own teaching way | Myanmar — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 4 countries (Eritrea, Syria, Vietnam, Myanmar).**
+
+Myanmar's own way (Book 2): every value is taught as a named story or picture-sequence about one child (or one lion cub) plus a question set — never as a rule list; the patriotism chapter teaches love of country as the eight ethnic peoples in their own dress holding hands around the Independence Monument.
+
+Myanmar's own way (Book 7): the Grade 3 units keep the story-and-poem shape but argue finer points: fairness is NOT equal shares (the hungry son gets bread, the full daughter a candy; the girl with glasses sits in front), trust is keeping a friend's weakness secret, and the clean-environment unit teaches Reduce–Reuse–Recycle by name.
+
+Registry note: the original coined string `culture-and-work/helping-parents-and-elders` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/caring-for-grandparents-parents-and-younger-ones`.
+
+Registry note: the original coined string `culture-and-work/caring-for-younger-children` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/caring-for-grandparents-parents-and-younger-ones`.
+
+Searchable tags: caring for grandparents parents and younger ones, Myanmar, social studies, first-steps

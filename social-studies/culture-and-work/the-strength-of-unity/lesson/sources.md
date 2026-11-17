@@ -1,0 +1,21 @@
+# Sources — The Strength of Unity
+
+countries: Myanmar
+
+**Book 8:** *Teacher Guide — Morality and Civic — Grade 6* (teacher guide, English; the Myanmar student book and Myanmar guide are its parallel editions) — Title as printed: Teacher Guide — Morality and Civic — Grade 6 (Government of the Republic of the Union of Myanmar, Ministry of Education; "Distributed Free of Charge by the government", Basic Education Curriculum, Syllabus and Textbook Committee). Grade: Grade 6 (student/teacher: TEACHER). Publisher: Ministry of Education; year 2019–2020 (February 2019, publication run 325,000); registration FF 06/18; no ISBN printed. PDF pages: 70 (text PDF, read in full; 425,120 bytes from books.learnbig.net). Parallel editions: the Myanmar student book (66 PDF pp., cover verified — the four unit icons: family, school, scales, peace dove) and the Myanmar teacher guide named in the moeedu lead; the guide's year plan and lesson plans carry the course's teaching content, placed here marked TEACHER. Earlier waves: not read before. Verdict: COMPLETE (civics track — the whole course read through the guide's year plan and lesson plans). Contents map: Civics/Morals pp. 1–70 (Unit 1 Social Etiquette; Unit 2 Rights and responsibilities; Unit 3 Rules and regulations; Unit 4 Living in harmony); no other strands. Tally: 14 placements — 0 to existing lessons, 14 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/myanmar-placements-b.md. Teacher guide — evidence only, outside the acceptance count.
+
+**Book 9:** *Morality and Civics, Grade 4* (student book, Myanmar language) — Title as printed: စာရိတ္တနှင့် ပြည်သူ့နီတိ စတုတ္ထတန်း (Morality and Civics, Grade 4), Republic of the Union of Myanmar, Ministry of Education. Grade: Grade 4 (student/teacher: STUDENT). Publisher: Ministry of Education; year 2020–2021; no ISBN printed. PDF pages: 75 (cover and contents verified against the record title; 10,481,264 bytes from books.learnbig.net). Earlier waves: not read before. Verdict: COMPLETE (civics track — full read of all 17 units; unit titles below are the book's own, in English summary). Contents map: Morals/Values pp. 1–73 (all 17 units); no other strands. Tally: 17 placements — 0 to existing lessons, 17 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/myanmar-placements-b.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — culture-and-work/the-strength-of-unity — (4.3) The advantage of unity (TEACHER) — teaches: the stomach and the parts of the body, and "let's row in unison" — what a group gains when it pulls together — Myanmar Grade 6 Morality and Civics TG (English), printed p. 67 | Myanmar, *Teacher Guide — Morality and Civic — Grade 6* (teacher guide), (4.3) The advantage of unity (TEACHER) — printed p. 67 (teacher guide — evidence) |
+| Sub lesson 2 — culture-and-work/the-strength-of-unity — Unit 13 Live in unity and loving friendship — teaches: a class and a village holding together in friendship — Myanmar Grade 4 Morality and Civics TB, printed p. 53 | Myanmar, *Morality and Civics, Grade 4* (student book), Unit 13 Live in unity and loving friendship — printed p. 53 |
+| Sub lesson 3 — Myanmar's way — the books' own teaching way | Myanmar — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Myanmar). Myanmar's Grade 6 teacher-guide part is teacher-guide evidence only, named here, counted nowhere — Myanmar counts through its student-book parts.**
+
+Myanmar's own way (Book 8): Grade 6 is where the values course becomes a civics course — rights and responsibilities are named as such, the school has a council, rules are explained up to the rules of a country, and the last unit is peace: what conflict is, the bundle-of-firewood lesson, peace symbols, and rowing in unison.
+
+Myanmar's own way (Book 9): Grade 4 names children's RIGHTS as a picture inventory (food, water, a house, clothes, care, medicine, play, learning, family) and turns environmental care into two full units — preserving the earth and the natural surroundings, with drought, flood, felled forests and factory smoke as the evidence.
+
+Searchable tags: the strength of unity, Myanmar, social studies, culture-and-work

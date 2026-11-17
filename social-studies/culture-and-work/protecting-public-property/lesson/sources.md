@@ -1,6 +1,6 @@
 # Sources — Protecting Public Property
 
-countries: Afghanistan, Iraq, Sri Lanka
+countries: Afghanistan, Iraq, Sri Lanka, Myanmar
 
 **Book 1:** *Social Studies, Grade 6 (دروس اجتماعی صنف ششم)* (student book, Dari) — Title as printed: دروس اجتماعی صنف ششم (Social Studies, Grade 6). Grade: 6 (student/teacher: STUDENT). Publisher: Ministry of Education, Afghanistan; year 1398 HS (2019/20) as printed; ISBN no ISBN printed. PDF pages: 106 (cover verified against the record title; 8,468,695 bytes via grab tree route — grab.py's Python route failed three times with proxy RemoteDisconnected, so the same Contents-API route was run through curl with byte-size and blob-SHA verification, matching the earlier waves' size exactly). Earlier waves: Geography wave placed Lessons 1 and 11 (our country; provinces) and Lessons 12–17 (the six neighbouring countries); History wave placed Lessons 26–34 (Afghanistan 1973–2004) and Lessons 35–50 (early Islamic history); Economics wave filed this book's Grade 4/5 companions UNREAD (tree 404) but did not hold this Grade 6 record. Verdict: COMPLETE — the remaining civics/values chapters (Chapter 1 state lessons and Chapter 3 "Peace and national unity") read page by page (printed pp. 3–17 and 35–49) and placed below. Contents map: Integrated SS pp. 1–2 (Lesson 1 our country — placed by Geography); Civics/Citizenship/Government pp. 3–17 (Lessons 2–9: need for a state, constitution, our state, National Council, Wolesi Jirga, Meshrano Jirga, executive, judiciary) and pp. 35–49 (Lessons 18–25: national unity, peace and security, public property, media ethics, human dignity, respecting the law, children's rights, women's rights); Geography pp. 21–33 (provinces; neighbours — placed by Geography); History pp. 19 (Lesson 10 glories of Afghanistan — named by History) and pp. 51–67 (recent events — placed by History); Religion pp. 69–99 (Islamic history — placed by History). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/afghanistan-placements.md.
 
@@ -47,3 +47,18 @@ Registry note: the original coined string `culture-and-work/preserving-public-pr
 Sri Lanka's own way (Sri Lanka Grade 6 Civic Education): civics starts inside the child's own school — its history, its people and their duties, its rules, symbols and the pupil's own rights — then widens to the region (the Grama Niladhari ladder up to the province, the officers and councils that serve it) and closes with the good citizen's virtues: polite speech, listening, discipline, telling good from bad, using resources frugally, guarding public property and preserving the local identity with pride.
 
 Searchable tags: protecting public property, Sri Lanka, social studies, culture-and-work
+
+**Book 7:** *Morality and Civics Grade 3* (student book, English; unofficial translation of the Myanmar original) — Title as printed: MORALITY AND CIVICS GRADE 3 (The Government of the Republic of the Union of Myanmar, Ministry of Education; "Unofficial Translation — Reference Only"). Grade: Grade 3 (student/teacher: STUDENT). Publisher: Ministry of Education; year 2019–2020; no ISBN printed. PDF pages: 74 (cover verified against the record title; 34,758,665 bytes from books.learnbig.net). Earlier waves: not read before. Verdict: COMPLETE (civics track — full read of all 16 units). Contents map: Morals/Values pp. 1–68 (all 16 units); no other strands. Tally: 16 placements — 0 to existing lessons, 16 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/myanmar-placements-b.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar part — culture-and-work/taking-care-of-public-goods — Unit 13 Taking care of the public goods — teaches: the old bridge that joins two villages — a public good kept by generation after generation, ruined by overloading and rough play — Myanmar Grade 3 Morality and Civics TB (English), printed p. 52 | Myanmar, *Morality and Civics Grade 3* (student book), Unit 13 Taking care of the public goods — printed p. 52 |
+| Myanmar's way — the books' own teaching way | Myanmar — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 4 countries (Afghanistan, Iraq, Sri Lanka, Myanmar).**
+
+Myanmar's own way (Book 7): the Grade 3 units keep the story-and-poem shape but argue finer points: fairness is NOT equal shares (the hungry son gets bread, the full daughter a candy; the girl with glasses sits in front), trust is keeping a friend's weakness secret, and the clean-environment unit teaches Reduce–Reuse–Recycle by name.
+
+Registry note: the original coined string `culture-and-work/taking-care-of-public-goods` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/protecting-public-property`.
+
+Searchable tags: protecting public property, Myanmar, social studies, culture-and-work

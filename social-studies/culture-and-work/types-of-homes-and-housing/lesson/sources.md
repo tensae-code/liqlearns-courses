@@ -1,6 +1,6 @@
 # Sources — Types of Homes and Housing
 
-countries: Ecuador, Panama, Angola
+countries: Ecuador, Panama, Angola, Myanmar
 
 **Book 1:** *Estudios Sociales 2do EGB* (student book, Spanish) — Ecuador, Ministerio de Educación del Ecuador; year 2024 (Primera Edición); ISBN 978-9942-662-16-3. Title as printed: Estudios Sociales — Educación General Básica, Subnivel Elemental, Segundo de Básica; Texto del estudiante para la transición curricular. Grade: Grade 2 (student). 114 PDF pp. (cover/title page verified against the record title; read in place in phase3-staging, 9,005,158 bytes; the book's two records — a TSV release/blob record and a books.json record for the same repo path — are one book). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/ecuador-placements.md.
 
@@ -37,3 +37,16 @@ Angola placements — Social Studies remaining strands (2026-11-17):
 Angola's own way (Book 3): Estudo do Meio teaches the child's world through one named child at a time (Vihemba and her extended family, Mário and his school) — family includes grandparents, uncles and cousins who come to live in the house, and the home is located by bairro, município, street and house number so the child never gets lost.
 
 Angola's own way (Book 4): Grade 2 widens each Grade 1 topic by one step — the family gains kinship names and needs, the school gains its parts and the care of school materials, and the book closes with two short themes that are pure community life: work, and transport and communications.
+
+**Book 1:** *Social Studies, Grade 1* (student book, Myanmar language) — Title as printed: လူမှုရေး ပထမတန်း (Social Studies, Grade 1). Grade: Grade 1 (student/teacher: STUDENT). Publisher: Ministry of Education, Republic of the Union of Myanmar; year 2017–2018 (cover); no ISBN printed. PDF pages: 79 (cover/title page verified against the record title; 8,282,772 bytes from books.learnbig.net). Earlier waves: not read before. Verdict: COMPLETE (remaining strands read fully, printed pp. 1–17; rest contents-mapped). Contents map: Integrated SS pp. 1–17 (Ch.1 About Maung Maung and his friends; Ch.2 Family and home); Science/Health pp. 18–33 (Ch.3 The foods we eat; Ch.4 Clothes we wear and things we use); Geography/Science pp. 34–43 (Ch.5 How we live according to the weather); History pp. 44–71 (Ch.6 Historical leaders we admire: Anawrahta, Bayinnaung, Alaungpaya); exercises pp. 72–78 (excluded, assessment). Tally: 4 placements — 1 to existing lessons, 3 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/myanmar-placements-b.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar part — culture-and-work/types-of-homes-and-housing — Ch.2: the house and kinds of houses — teaches: Maung Maung's stilted wooden house inside and out, then kinds of houses side by side (wooden house, apartment block, bungalow) — Myanmar Grade 1 Social Studies TB, printed p. 10 | Myanmar, *Social Studies, Grade 1* (student book), Ch.2: the house and kinds of houses — printed p. 10 |
+| Myanmar's way — the books' own teaching way | Myanmar — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 4 countries (Ecuador, Panama, Angola, Myanmar).**
+
+Myanmar's own way (Book 1): the whole primary course is carried by one child, Maung Maung, and his family — self, friends and family are introduced through full-page picture scenes with almost no text, and the family tree, the members' jobs and the house itself are all drawn from his own household.
+
+Searchable tags: types of homes and housing, Myanmar, social studies, culture-and-work

@@ -1,6 +1,6 @@
 # Sources — Being Trustworthy
 
-countries: Tanzania
+countries: Tanzania, Myanmar
 
 **Book 1:** *Civic and Moral Education Standard Six Pupil's Book* (student book, English) — Title as printed: Civic and Moral Education Standard Six Pupil's Book. Grade: Standard Six (student/teacher: STUDENT). Publisher: Tanzania Institute of Education (TIE); year 2020, reprinted 2021; ISBN 978-9987-09-121-8. PDF pages: 178 (cover/title page verified against the link record title; byte size 9,813,796 = link record size, 178 pp = link record pages; source: Google Drive file 1KCCRSU0x2XTgJ2XVXJ6UB9M_VTXVpcVE via darasahuru/notesforum link records). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Integrated SS pp. 1–11 (loving family members, helping members with special needs), 63–74 (building good relationships); Civics/Citizenship/Government pp. 12–16 (proud of school, loving our country, national values and symbols), 17–29 (structure of the Government of the United Republic of Tanzania; the union history part of this chapter is History, named here, not placed), 30–44 (democracy and good governance), 75–108 (protecting public resources, fulfilling responsibilities, obeying laws), 156–164 (observing human rights), 165–177 (Tanzania's relations with other countries); Morals/Values pp. 45–56 (caring for others), 57–62 (environmental conservation as a civic duty), 120–155 (self-discipline, tolerance, learning inquisitively, trustworthiness). Its Kiswahili parallel edition, *Uraia na Maadili, Kitabu cha Mwanafunzi, Darasa la Sita* (Taasisi ya Elimu Tanzania (TIE); first edition 2019, second edition 2021; ISBN 978-9987-09-335-9; 186 pp), is filed as a PARALLEL EDITION in the placements — spot-checked, contents mirroring this book chapter for chapter — placed once, under this book. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/tanzania-placements.md. Staged: phase3-staging/grade-06/gov/tanzania/civic-and-moral-education/student/full-year.pdf (books.json record added 2026-11-17) — external-link book NOT in GitHub yet, staged under the 2026-11-13 rule, never deleted from staging.
 
@@ -21,3 +21,21 @@ Tanzania's own way (Standard Five, Civic and Moral Education Standard Five Pupil
 Registry note: the original coined string `culture-and-work/being-trustworthy-and-having-integrity` is recorded in the provenance rows above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/being-trustworthy`.
 
 Searchable tags: being trustworthy, Tanzania, social studies, culture-and-work
+
+**Book 2:** *Morality and Civics, Grade 1* (student book, Myanmar language) — Title as printed: စာရိတ္တနှင့် ပြည်သူ့နီတိ ပထမတန်း (Morality and Civics, Grade 1). Grade: Grade 1 (student/teacher: STUDENT). Publisher: Ministry of Education, Republic of the Union of Myanmar (CREATE/JICA-supported new primary curriculum, credited on back page); year 2017–2018; no ISBN printed. PDF pages: 72 (cover/title page verified against the record title; 6,125,502 bytes from books.learnbig.net). Earlier waves: not read before. Verdict: COMPLETE (civics track — full page-by-page read). Contents map: Morals/Values pp. 1–71 (all 16 chapters); no Geography/History/Economics/Science/Religion parts. Tally: 16 placements — 0 to existing lessons, 16 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/myanmar-placements-b.md.
+
+**Book 7:** *Morality and Civics Grade 3* (student book, English; unofficial translation of the Myanmar original) — Title as printed: MORALITY AND CIVICS GRADE 3 (The Government of the Republic of the Union of Myanmar, Ministry of Education; "Unofficial Translation — Reference Only"). Grade: Grade 3 (student/teacher: STUDENT). Publisher: Ministry of Education; year 2019–2020; no ISBN printed. PDF pages: 74 (cover verified against the record title; 34,758,665 bytes from books.learnbig.net). Earlier waves: not read before. Verdict: COMPLETE (civics track — full read of all 16 units). Contents map: Morals/Values pp. 1–68 (all 16 units); no other strands. Tally: 16 placements — 0 to existing lessons, 16 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/myanmar-placements-b.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar part — culture-and-work/being-trustworthy — Ch.10 A person who can be trusted — teaches: doing what you promised so others can rely on you — Myanmar Grade 1 Morality and Civics TB, printed p. 39 | Myanmar, *Morality and Civics, Grade 1* (student book), Ch.10 A person who can be trusted — printed p. 39 |
+| Myanmar part — culture-and-work/being-trustworthy — Unit 4 Trustworthy person — teaches: friends keep the saved money and each other's secrets — Wai Yan learns Cherry and Zune Pwint can be trusted with his weakness in English — Myanmar Grade 3 Morality and Civics TB (English), printed p. 14 | Myanmar, *Morality and Civics Grade 3* (student book), Unit 4 Trustworthy person — printed p. 14 |
+| Myanmar's way — the books' own teaching way | Myanmar — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 2 countries (Tanzania, Myanmar).**
+
+Myanmar's own way (Book 2): every value is taught as a named story or picture-sequence about one child (or one lion cub) plus a question set — never as a rule list; the patriotism chapter teaches love of country as the eight ethnic peoples in their own dress holding hands around the Independence Monument.
+
+Myanmar's own way (Book 7): the Grade 3 units keep the story-and-poem shape but argue finer points: fairness is NOT equal shares (the hungry son gets bread, the full daughter a candy; the girl with glasses sits in front), trust is keeping a friend's weakness secret, and the clean-environment unit teaches Reduce–Reuse–Recycle by name.
+
+Searchable tags: being trustworthy, Myanmar, social studies, culture-and-work

@@ -1,6 +1,6 @@
 # Sources — Protecting the Environment Around Us
 
-countries: Cuba, Morocco, Sri Lanka, Vietnam
+countries: Cuba, Morocco, Sri Lanka, Vietnam, Myanmar
 
 **Book 1:** *El mundo en que vivimos — tercer grado* (student book, Spanish) — Title as printed: El mundo en que vivimos — tercer grado. Grade: Grade 3 (student/teacher: STUDENT). Publisher: Editorial Pueblo y Educación (MINED's publisher; authors M. Sc. Neris Esther Domínguez Oliva, Rosario Leal Arroyo, Zoila Ester Durán Aulet, Alfonso Cok Carballo, Zoraida Almerall Rueda, Addys Ramos Hernández); year: no year printed in the file; ISBN: no ISBN printed in the file. PDF pages: 258 (cover verified: title and grade as printed, school scene with Cuban flag). LIBRARY DEBT: the record says this book is pushed in GitHub, but grab.py tree returned HTTP 404 — a phantom push; the book was read instead from its recorded source (biblioteca.cubaeduca.cu) and the staged copy is listed in the group log. Earlier waves: the geography-wave Cuba file filed the MINED "Programa" documents RECORD-ONLY; no earlier wave placed any of these books' civics/SS strands. Verdict: COMPLETE for the remaining strands — contents mapped first, then every remaining-strand part read in full (Presentación pp. 1–5; Unidad 4 "Comportamiento social" pp. 236–241). Named-not-placed: Unidad 2 El Sol, la Tierra, la Luna, el aire, el agua y el suelo (Science); Unidad 3 Los seres vivos incl. the human body, table manners and pregnancy care (Science/Health); Unidad 4's province survey — coasts, relief, rivers, the 15 provinces and special municipality (Geography); the efemérides and Moncada/Fidel content (History); Glosario p. 243 (inventory only). Contents map: Presentación — Las brigadas protectoras de la naturaleza pp. 1–5 (Civics — care of shared places); Unidad 1 Descubriendo el mundo en que vivimos pp. 6–48 (Science, with humans' transformation of nature and responsible behaviour towards it); Unidad 2 pp. 49–97 (Science); Unidad 3 Los seres vivos pp. 98–150 (Science/Health); Unidad 4 ¡Cuba qué linda es! pp. 151–241 (Geography/History, closing chapter Comportamiento social pp. 236–241 = Civics — social behaviour, symbols, transport and traffic, care of the home place). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/cuba-placements.md.
 
@@ -72,3 +72,18 @@ Vietnam's own way (Book 7): the local community is introduced through two big pi
 Vietnam's own way (Book 9): kinship is mapped on both sides of the family with the exact word of address for every relative (and a note that regions address them differently), and the school's link to its community is made of named joint deeds — flood relief, a rubbish-for-plants fair, traffic-safety campaigning and tree planting.
 
 Registry note: the original coined string `culture-and-work/protecting-our-living-environment` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/protecting-the-environment-around-us`.
+
+**Book 9:** *Morality and Civics, Grade 4* (student book, Myanmar language) — Title as printed: စာရိတ္တနှင့် ပြည်သူ့နီတိ စတုတ္ထတန်း (Morality and Civics, Grade 4), Republic of the Union of Myanmar, Ministry of Education. Grade: Grade 4 (student/teacher: STUDENT). Publisher: Ministry of Education; year 2020–2021; no ISBN printed. PDF pages: 75 (cover and contents verified against the record title; 10,481,264 bytes from books.learnbig.net). Earlier waves: not read before. Verdict: COMPLETE (civics track — full read of all 17 units; unit titles below are the book's own, in English summary). Contents map: Morals/Values pp. 1–73 (all 17 units); no other strands. Tally: 17 placements — 0 to existing lessons, 17 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/myanmar-placements-b.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar part — culture-and-work/preserving-our-earth — Unit 15 Preserve the earth — teaches: why the earth must be kept — the people carrying water, the flooded homes, the dried fields — Myanmar Grade 4 Morality and Civics TB, printed p. 60 | Myanmar, *Morality and Civics, Grade 4* (student book), Unit 15 Preserve the earth — printed p. 60 |
+| Myanmar's way — the books' own teaching way | Myanmar — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 5 countries (Cuba, Morocco, Sri Lanka, Vietnam, Myanmar).**
+
+Myanmar's own way (Book 9): Grade 4 names children's RIGHTS as a picture inventory (food, water, a house, clothes, care, medicine, play, learning, family) and turns environmental care into two full units — preserving the earth and the natural surroundings, with drought, flood, felled forests and factory smoke as the evidence.
+
+Registry note: the original coined string `culture-and-work/preserving-our-earth` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/protecting-the-environment-around-us`.
+
+Searchable tags: protecting the environment around us, Myanmar, social studies, culture-and-work

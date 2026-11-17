@@ -1,6 +1,6 @@
 # Sources — Observing Our School Space
 
-countries: Venezuela, Kazakhstan, North Macedonia, Angola
+countries: Venezuela, Kazakhstan, North Macedonia, Angola, Myanmar
 
 **Book 1:** *¡Viva Venezuela! Ciencias Sociales 2do Grado* (student book, Spanish) — Ministerio del Poder Popular para la Educación / Colección Bicentenario; year 2014 (fourth edition, April 2014); ISBN 978-980-218-298-5. Title as printed: ¡Viva Venezuela! Ciencias Sociales 2do Grado. Grade: Grade 2 (student/teacher: STUDENT). PDF pages: 75 (printed pages run to 144 in spreads; cover/title page verified against the record title; release grab size-verified by grab.py). Verdict: COMPLETE. (Combined book — Geography parts placed below; parts named, not placed — History parts named, not placed: Los que llegaron por el mar a Nuestra América (printed p. 83); Con la fundación de ciudades nace un país distinto (p. 88); fundación de Caracas y los pueblos indígenas (p. 92); Coro, una ciudad con la historia a cuestas (p. 98); Cuando Venezuela fue un país de grandes cacaos (p. 104); Primeras luchas contra el yugo español / Miranda / 19 de abril de 1810 / 5 de julio de 1811 / Carabobo / Colombia la grande (pp. 108–128); La casa de Simón Bolívar (p. 36).; Civics/culture parts named, not placed: Necesario es fortalecer la identidad venezolana (p. 56); La Bandera Nacional (p. 122); San Juan Congo (p. 106, Afro-Venezuelan festival).) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/venezuela-placements.md.
 
@@ -61,3 +61,16 @@ Angola placements — Social Studies remaining strands (2026-11-17):
 **Acceptance count: taught in 4 countries (Venezuela, Kazakhstan, North Macedonia, Angola).**
 
 Angola's own way (Book 5): Estudo do Meio teaches the child's world through one named child at a time (Vihemba and her extended family, Mário and his school) — family includes grandparents, uncles and cousins who come to live in the house, and the home is located by bairro, município, street and house number so the child never gets lost.
+
+**Book 3:** *Social Studies, Grade 2* (student book, Myanmar language) — Title as printed: လူမှုရေး ဒုတိယတန်း (Social Studies, Grade 2) — title from the running heads (ကျွန်ုပ်တို့၏ စာသင်ခန်း / ကျောင်း / ကျောင်းပတ်ဝန်းကျင်) and the record; the DBE Box scan carries no cover or contents page. Grade: Grade 2 (student/teacher: STUDENT). Publisher: Ministry of Education, Republic of the Union of Myanmar; year not printed in the surviving scan; no ISBN printed. PDF pages: 53 (record title verified against running heads and chapter titles; 35,195,591 bytes from books.learnbig.net; one scanned picture, printed p. 20, is corrupt in the file). Earlier waves: not read before. Verdict: PARTIAL — cover/contents pages missing from the scan; the whole teaching body (printed pp. 1–53) is present and read. Contents map: Integrated SS pp. 1–27 (Ch.1 Our classroom; Ch.2 Our school; Ch.3 Our school's surroundings); History pp. 28–51 (Ch.4 Historical leaders we are proud of: Kyansittha, Maha Bandula and others); exercises pp. 52–53 (excluded, assessment). Tally: 5 placements — 4 to existing lessons, 1 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/myanmar-placements-b.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar part — first-steps/observing-our-school-space — Ch.2: let us study our school — teaches: observing and recording the school and the activities in it (library, canteen, lessons, going home) — Myanmar Grade 2 Social Studies TB, printed p. 11 | Myanmar, *Social Studies, Grade 2* (student book), Ch.2: let us study our school — printed p. 11 |
+| Myanmar's way — the books' own teaching way | Myanmar — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 5 countries (Venezuela, Kazakhstan, North Macedonia, Angola, Myanmar).**
+
+Myanmar's own way (Book 3): the child's world widens one ring a year — Grade 1 was self, family and home; Grade 2 is classroom, then the whole school seen from above, then the school's surroundings read through a simple symbol map (post office, factory, hospital, place of worship).
+
+Searchable tags: observing our school space, Myanmar, social studies, first-steps

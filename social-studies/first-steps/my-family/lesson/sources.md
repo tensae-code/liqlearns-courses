@@ -1,6 +1,6 @@
 # Sources — My Family
 
-countries: Ecuador, Fiji, Oman, Syria, Venezuela, Colombia, Kazakhstan, Angola, Cambodia, Jordan
+countries: Ecuador, Fiji, Oman, Syria, Venezuela, Colombia, Kazakhstan, Angola, Cambodia, Jordan, Myanmar
 
 **Book 1:** *Estudios Sociales 2do EGB* (student book, Spanish) — Ministerio de Educación del Ecuador; year 2024 (Primera Edición); ISBN 978-9942-662-16-3. Title as printed: Estudios Sociales — Educación General Básica, Subnivel Elemental, Segundo de Básica; Texto del estudiante para la transición curricular. Grade: Grade 2 (student/teacher: STUDENT). PDF pages: 114 (cover/title page verified against the record title; read in place in phase3-staging, 8.6 MB on disk; full text layer read). Earlier waves: Geography wave placed pp. 25–113 geography parts and over-placed three remaining-strand topics (Tipos de viviendas, Grupos étnicos del Ecuador, Patrimonios culturales) plus the parish/administrative-division topics as geography lessons — none re-placed here / History wave placed 4 history placements / Economics wave filed it RECORD-ONLY (no Economics parts; its contents evidence names the same Civics temas placed here). Verdict: COMPLETE. Contents map: Integrated SS pp. 6–51 (family; my school and school coexistence; community actors and places); Civics/Citizenship pp. 6–24 (family rights, responsibilities, commitments and agreements), p. 87ff. (universal human rights); Morals/Values pp. 39–51 (convivencia — respect, difference, helping the community); Geography pp. 25–37, 52–86, 87–113 (placed by the Geography wave); Culture pp. 52–67 (placed by the Geography wave). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/ecuador-placements.md.
 
@@ -199,3 +199,19 @@ Jordan's own way (Book 4): Grade 2 civics is the family first, then the child's 
 Registry note: the original coined string `first-steps/my-family-who-is-in-it` is recorded in the provenance rows above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/my-family`.
 
 Searchable tags: my family, Jordan, social studies, first-steps
+
+**Book 1:** *Social Studies, Grade 1* (student book, Myanmar language) — Title as printed: လူမှုရေး ပထမတန်း (Social Studies, Grade 1). Grade: Grade 1 (student/teacher: STUDENT). Publisher: Ministry of Education, Republic of the Union of Myanmar; year 2017–2018 (cover); no ISBN printed. PDF pages: 79 (cover/title page verified against the record title; 8,282,772 bytes from books.learnbig.net). Earlier waves: not read before. Verdict: COMPLETE (remaining strands read fully, printed pp. 1–17; rest contents-mapped). Contents map: Integrated SS pp. 1–17 (Ch.1 About Maung Maung and his friends; Ch.2 Family and home); Science/Health pp. 18–33 (Ch.3 The foods we eat; Ch.4 Clothes we wear and things we use); Geography/Science pp. 34–43 (Ch.5 How we live according to the weather); History pp. 44–71 (Ch.6 Historical leaders we admire: Anawrahta, Bayinnaung, Alaungpaya); exercises pp. 72–78 (excluded, assessment). Tally: 4 placements — 1 to existing lessons, 3 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/myanmar-placements-b.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar part — first-steps/my-family-and-who-lives-with-me — Ch.2 Family and home: the family portrait and family tree — teaches: who is in a family, who lives together in one house, and how grandparents, parents and children link in a family tree — Myanmar Grade 1 Social Studies TB, printed p. 4 | Myanmar, *Social Studies, Grade 1* (student book), Ch.2 Family and home: the family portrait and family tree — printed p. 4 |
+| Myanmar part — first-steps/my-family-and-who-lives-with-me — Ch.2: what the family members do — teaches: family members' jobs outside the home (lawyer, engineer, teacher, doctor) and their work inside it (cooking, washing, cleaning, studying together, mending the bicycle) — Myanmar Grade 1 Social Studies TB, printed p. 6 | Myanmar, *Social Studies, Grade 1* (student book), Ch.2: what the family members do — printed p. 6 |
+| Myanmar's way — the books' own teaching way | Myanmar — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 10 countries (Ecuador, Fiji, Syria, Venezuela, Colombia, Kazakhstan, Angola, Cambodia, Jordan, Myanmar).**
+
+Myanmar's own way (Book 1): the whole primary course is carried by one child, Maung Maung, and his family — self, friends and family are introduced through full-page picture scenes with almost no text, and the family tree, the members' jobs and the house itself are all drawn from his own household.
+
+Registry note: the original coined string `first-steps/my-family-and-who-lives-with-me` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/my-family`.
+
+Searchable tags: my family, Myanmar, social studies, first-steps

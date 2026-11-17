@@ -1,6 +1,6 @@
 # Sources — The Rights of the Child
 
-countries: Bahrain, Bahamas, Libya, Afghanistan, Guatemala, Angola, Palestine, Papua New Guinea, Cambodia, Jordan
+countries: Bahrain, Bahamas, Libya, Afghanistan, Guatemala, Angola, Palestine, Papua New Guinea, Cambodia, Jordan, Myanmar
 
 **Book 1:** *التربية للمواطنة للصف الرابع الابتدائي (Citizenship Education for the Fourth Primary Grade)* (student book, Arabic) — Title as printed: التربية للمواطنة للصف الرابع الابتدائي (Citizenship Education for the Fourth Primary Grade). Grade: Grade 4 Primary (student/teacher: STUDENT). Publisher: Ministry of Education, Kingdom of Bahrain; authorship panel of MoE social-studies curriculum specialists (lead author Safia Khalifa al-Shorouqi); first edition 1431 AH / 2010 CE (experimental edition 1426 AH / 2005 CE); no ISBN printed. PDF pages: 66 (cover/title page verified against the record title — the GEI Edumedia Depot item 11163/6396 named in the record; 20,026,775 bytes; image-only legacy-font PDF, read in full from 100-DPI renders, 17 contact sheets). Earlier waves: not read before (Bahrain is link-only in all three earlier waves; no earlier-wave placements file exists for this country). Verdict: COMPLETE — standalone primary civics book, read page by page to the last teaching page (printed p. 64); the references list (printed pp. 65–66) is inventory-only, named not placed. Lesson 9 is Economics and is named in the contents map, not placed. Contents map: Civics/Citizenship/Government pp. 9–46, 53–64 (Lessons 1–8, 10–11); Integrated SS pp. 15–26 (Lessons 2–4: government services, family and society, the friends group); Morals/Values throughout (citizen's values in Lesson 1; friendship qualities and manners in Lesson 4; leader's qualities in Lesson 7); Economics p. 47 (Lesson 9, family income sources and daily dealings — jobs, the family's economic role, household spending and saving, with Constitution Arts. 13/16 on work quoted inside it — named, not placed: Economics strand). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/bahrain-placements-b.md.
 
@@ -133,3 +133,18 @@ Jordan's own way (Book 3): citizenship starts at age six with the self, the fami
 Jordan's own way (Book 4): Grade 2 civics is the family first, then the child's own rights — safety, health care, education and play, each as "my right" — and only then society around the child.
 
 Searchable tags: the rights of the child, Jordan, social studies, culture-and-work
+
+**Book 9:** *Morality and Civics, Grade 4* (student book, Myanmar language) — Title as printed: စာရိတ္တနှင့် ပြည်သူ့နီတိ စတုတ္ထတန်း (Morality and Civics, Grade 4), Republic of the Union of Myanmar, Ministry of Education. Grade: Grade 4 (student/teacher: STUDENT). Publisher: Ministry of Education; year 2020–2021; no ISBN printed. PDF pages: 75 (cover and contents verified against the record title; 10,481,264 bytes from books.learnbig.net). Earlier waves: not read before. Verdict: COMPLETE (civics track — full read of all 17 units; unit titles below are the book's own, in English summary). Contents map: Morals/Values pp. 1–73 (all 17 units); no other strands. Tally: 17 placements — 0 to existing lessons, 17 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/myanmar-placements-b.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar part — culture-and-work/our-rights-as-children — Unit 10 Our rights — teaches: a child's rights drawn as a picture inventory — food, clean water, a house, clothes, care, medicine, play, learning and family — and where each right is found: home, school, village — Myanmar Grade 4 Morality and Civics TB, printed p. 40 | Myanmar, *Morality and Civics, Grade 4* (student book), Unit 10 Our rights — printed p. 40 |
+| Myanmar's way — the books' own teaching way | Myanmar — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 10 countries (Bahrain, Bahamas, Libya, Afghanistan, Guatemala, Angola, Palestine, Cambodia, Jordan, Myanmar).**
+
+Myanmar's own way (Book 9): Grade 4 names children's RIGHTS as a picture inventory (food, water, a house, clothes, care, medicine, play, learning, family) and turns environmental care into two full units — preserving the earth and the natural surroundings, with drought, flood, felled forests and factory smoke as the evidence.
+
+Registry note: the original coined string `culture-and-work/our-rights-as-children` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/the-rights-of-the-child`.
+
+Searchable tags: the rights of the child, Myanmar, social studies, culture-and-work

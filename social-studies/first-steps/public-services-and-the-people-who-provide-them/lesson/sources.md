@@ -1,6 +1,6 @@
 # Sources — Public Services And The People Who Provide Them
 
-countries: Honduras, Sweden, Bahrain, Philippines, Haiti, Ecuador, Yemen, Afghanistan, Somalia, Mexico, Uganda, Fiji, Oman, Syria, Morocco, India, Angola, United States, Rwanda, Papua New Guinea, Sri Lanka, Saudi Arabia, Vietnam
+countries: Honduras, Sweden, Bahrain, Philippines, Haiti, Ecuador, Yemen, Afghanistan, Somalia, Mexico, Uganda, Fiji, Oman, Syria, Morocco, India, Angola, United States, Rwanda, Papua New Guinea, Sri Lanka, Saudi Arabia, Vietnam, Myanmar
 
 **Book 1:** *Libro para Estudiantes del área de Ciencias Sociales — Primer grado de Educación Básica (cover: 'Ciencias Sociales — Primer grado — Libro para Estudiantes')* (student book, Spanish) — Universidad Pedagógica Nacional Francisco Morazán (UPNFM), elaborated for the Secretaría de Estado en el Despacho de Educación de Honduras; preliminary edition (Edición Preliminar) 2020 as printed on the credits page; no ISBN printed. Title as printed: Libro para Estudiantes del área de Ciencias Sociales — Primer grado de Educación Básica (cover: 'Ciencias Sociales — Primer grado — Libro para Estudiantes'). Grade: Grade 1 (student/teacher: STUDENT). PDF pages: 182 (cover/title page verified against the record title; read from the recorded ministry source educatrachos.hn, 66,184,073 bytes, SHA-256 prefix 1c4e29b7525c2dd3). Verdict: COMPLETE. History/Civics parts NOT placed (named for later waves): Bloque 1 'La persona y su ser social' (personal/social and civics formation, printed pp. 10–46); Bloque 3 'Las sociedades y el tiempo social' (History, printed pp. 94–134); Bloque 4 lessons not placed above (social organisation, authorities, laws and demands — Civics, printed pp. 138 onwards). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/honduras-placements.md.
 
@@ -268,3 +268,16 @@ Vietnam placements — Social Studies remaining strands (2026-11-17):
 **Acceptance count: taught in 17 countries (Honduras, Bahrain, Philippines, Ecuador, Yemen, Afghanistan, Mexico, Uganda, Fiji, Syria, India, Angola, United States, Rwanda, Sri Lanka, Saudi Arabia, Vietnam). Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
 
 Vietnam's own way (Book 7): the local community is introduced through two big picture scenes — the home village (health station, post office, market, school) against the city (hospital, supermarket, cinema, traffic) — and every job, from farmer to traffic policeman, is summed up in one sentence: any work that benefits society is precious.
+
+**Book 6:** *Social Studies Grade 3* (student book, English; unofficial translation of the Myanmar original) — Title as printed: SOCIAL STUDIES GRADE 3 (The Government of the Republic of the Union of Myanmar, Ministry of Education; "Unofficial Translation — Reference Only"). Grade: Grade 3 (student/teacher: STUDENT). Publisher: Ministry of Education; year 2019–2020; no ISBN printed. PDF pages: 67 (cover/title page verified against the record title; 35,138,726 bytes from books.learnbig.net). Earlier waves: not read before. Verdict: COMPLETE (remaining strands read fully, printed pp. 1–32; History chapter contents-mapped). Contents map: Integrated SS pp. 1–32 (Ch.1 Our town; Ch.2 Our village; Ch.3 Study relating two regions); History pp. 33–57 (Ch.4 The historic leaders that I admire: King Mindon, General Aung San, peace architect U Thant); Exercises pp. 58–66 (excluded, assessment). Tally: 6 placements — 3 to existing lessons, 3 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/myanmar-placements-b.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar part — first-steps/public-services-and-the-people-who-provide-them — (1.1) The well-known places of Nyaungdon — teaches: the town's public places and services — Myoma market, hospital, administration office, fire station, police station, court, bank and government offices — Myanmar Grade 3 Social Studies TB (English), printed p. 6 | Myanmar, *Social Studies Grade 3* (student book), (1.1) The well-known places of Nyaungdon — printed p. 6 |
+| Myanmar's way — the books' own teaching way | Myanmar — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 18 countries (Honduras, Bahrain, Philippines, Ecuador, Yemen, Afghanistan, Mexico, Uganda, Fiji, Syria, India, Angola, United States, Rwanda, Sri Lanka, Saudi Arabia, Vietnam, Myanmar).**
+
+Myanmar's own way (Book 6): Grade 3 studies one real town (Nyaungdon, on the Pan Hlaing river) and one real village (Zee Hpyu Kyun) from big picture maps, then interviews a real home-industry owner — the town's banana-chip maker, with her 35 workers, their wages and their problems-and-solutions poster.
+
+Searchable tags: public services and the people who provide them, Myanmar, social studies, first-steps

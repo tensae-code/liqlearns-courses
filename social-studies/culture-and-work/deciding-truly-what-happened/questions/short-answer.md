@@ -1,0 +1,9 @@
+# Deciding Truly What Happened — short answer
+
+Answer in a sentence or two.
+
+**1. (Sub lesson 1)** What does the first part of this lesson teach?
+**Answer: To decide truly — Judging classroom incidents honestly — a broken vase, a ball through the window, a tangled rope — saying what really happened (any close wording).**
+
+**2. (Sub lesson 2)** What does the second part of this lesson teach?
+**Answer: Myanmar's way — the book's own teaching way — Grade 2 widens Grade 1's values from home to school — the same story-plus-pictures shape now carries school property, school rules, honest judgement of classroom incidents, friends with disabilities, and the whole country drawn as its ethnic children around the map. (any close wording).**

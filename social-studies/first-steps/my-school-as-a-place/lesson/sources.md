@@ -1,6 +1,6 @@
 # Sources — My School as a Place
 
-countries: Fiji, Latvia, Mauritius, Ecuador, Yemen, Libya, Afghanistan, Eritrea, Serbia, Venezuela, Turkey, Iraq, Kazakhstan, North Macedonia, Angola, Sri Lanka, Cambodia, Vietnam
+countries: Fiji, Latvia, Mauritius, Ecuador, Yemen, Libya, Afghanistan, Eritrea, Serbia, Venezuela, Turkey, Iraq, Kazakhstan, North Macedonia, Angola, Sri Lanka, Cambodia, Vietnam, Myanmar
 
 **Book 1:** *Social Studies Year 3 (Re-edited 2017)* (student book, English) — Fiji, Ministry of Education, Heritage & Arts, Curriculum Development Unit (with UNESCO / Fiji Memory of the World support); year 2017 (re-edited); ISBN no ISBN printed. Title as printed: Social Studies Year 3 (Re-edited 2017). Grade: Year 3 (student/teacher: STUDENT). PDF pages: 64 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: grab.py GitHub API failed (RemoteDisconnected, release route ×2 and tree route ×1); read instead from the books.json record's own Wayback source_url — the ministry original of the same book. Non-Geography parts named, not placed: Part One Strand 1 Social Organisation — Lesson 1 My Family (printed p. 5), Lesson 2 Family Relationships (p. 11), Lesson 3 Family Roles (p. 17); Strand 2 Time, Continuity and Change — Lesson 4 Cultural Background (p. 24). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
 
@@ -192,3 +192,17 @@ Vietnam placements — Social Studies remaining strands (2026-11-17):
 **Acceptance count: taught in 16 countries (Fiji, Ecuador, Yemen, Libya, Afghanistan, Eritrea, Serbia, Venezuela, Turkey, Iraq, Kazakhstan, North Macedonia, Angola, Sri Lanka, Cambodia, Vietnam).**
 
 Vietnam's own way (Book 7): the local community is introduced through two big picture scenes — the home village (health station, post office, market, school) against the city (hospital, supermarket, cinema, traffic) — and every job, from farmer to traffic policeman, is summed up in one sentence: any work that benefits society is precious.
+
+**Book 3:** *Social Studies, Grade 2* (student book, Myanmar language) — Title as printed: လူမှုရေး ဒုတိယတန်း (Social Studies, Grade 2) — title from the running heads (ကျွန်ုပ်တို့၏ စာသင်ခန်း / ကျောင်း / ကျောင်းပတ်ဝန်းကျင်) and the record; the DBE Box scan carries no cover or contents page. Grade: Grade 2 (student/teacher: STUDENT). Publisher: Ministry of Education, Republic of the Union of Myanmar; year not printed in the surviving scan; no ISBN printed. PDF pages: 53 (record title verified against running heads and chapter titles; 35,195,591 bytes from books.learnbig.net; one scanned picture, printed p. 20, is corrupt in the file). Earlier waves: not read before. Verdict: PARTIAL — cover/contents pages missing from the scan; the whole teaching body (printed pp. 1–53) is present and read. Contents map: Integrated SS pp. 1–27 (Ch.1 Our classroom; Ch.2 Our school; Ch.3 Our school's surroundings); History pp. 28–51 (Ch.4 Historical leaders we are proud of: Kyansittha, Maha Bandula and others); exercises pp. 52–53 (excluded, assessment). Tally: 5 placements — 4 to existing lessons, 1 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/myanmar-placements-b.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar part — first-steps/my-school-as-a-place — Ch.1 Our classroom: the things in our classroom — teaches: naming and knowing the things a classroom holds and what each is for — Myanmar Grade 2 Social Studies TB, printed p. 1 | Myanmar, *Social Studies, Grade 2* (student book), Ch.1 Our classroom: the things in our classroom — printed p. 1 |
+| Myanmar part — first-steps/my-school-as-a-place — Ch.2 Our school: the things in our school — teaches: the whole school compound from above — buildings, flag place, playground, school shop and garden — Myanmar Grade 2 Social Studies TB, printed p. 8 | Myanmar, *Social Studies, Grade 2* (student book), Ch.2 Our school: the things in our school — printed p. 8 |
+| Myanmar's way — the books' own teaching way | Myanmar — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 17 countries (Fiji, Ecuador, Yemen, Libya, Afghanistan, Eritrea, Serbia, Venezuela, Turkey, Iraq, Kazakhstan, North Macedonia, Angola, Sri Lanka, Cambodia, Vietnam, Myanmar).**
+
+Myanmar's own way (Book 3): the child's world widens one ring a year — Grade 1 was self, family and home; Grade 2 is classroom, then the whole school seen from above, then the school's surroundings read through a simple symbol map (post office, factory, hospital, place of worship).
+
+Searchable tags: my school as a place, Myanmar, social studies, first-steps
