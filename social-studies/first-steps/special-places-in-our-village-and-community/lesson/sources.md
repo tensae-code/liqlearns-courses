@@ -1,6 +1,6 @@
 # Sources — Special Places in Our Village and Community
 
-countries: Fiji, Ecuador
+countries: Fiji, Ecuador, Rwanda
 
 **Book 1:** *Social Studies Year 4 (Re-edited Version 2017)* (student book, English) — Fiji, Ministry of Education, Heritage & Arts, Curriculum Development Unit; year 2017 (re-edited); ISBN no ISBN printed. Title as printed: Social Studies Year 4 (Re-edited Version 2017). Grade: Year 4 (student/teacher: STUDENT). PDF pages: 66 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: read from the books.json record's own Wayback source_url (ministry original) after the grab.py GitHub API route failed as in Book 1. Non-Geography parts named, not placed: Strand 1 Social Organisation and Processes — 1.1–1.10 Friends, neighbours and cultural/religious events in our communities (printed pp. 4–31); Strand 2 Time, Continuity and Change — 2.1–2.7 Continuity, change, progress, significant people, studying the past, my village/community history (printed pp. 32–40). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
 
@@ -18,4 +18,16 @@ Fiji's own way (Fiji Year 4 Social Studies): Same four-strand frame as Year 3, n
 
 Ecuador's own way (Estudios Sociales 2do EGB): the transition-curricular Grade 2 book is a workbook of songs, stories and activity spreads organised in three sections that always start from the child — family first, then school and community, then Ecuador and South America — with rights taught from the family outward to universal human rights. That evidence is stocked here as the way Ecuador teaches this thing; it is counted in the acceptance count above (student book).
 
-Searchable tags: special places in our village and community, Fiji, social studies, first-steps, Ecuador
+Searchable tags: special places in our village and community, Fiji, social studies, first-steps, Ecuador, Rwanda
+
+
+**Book 3:** *Primary Learner's Social Studies for Rwanda Schools — P5* (student book) — Title as printed: Primary Learner's Social Studies for Rwanda Schools — P5 Grade: Primary 5 (student/teacher: STUDENT) Publisher: Rwanda Education Board (REB); Revised Edition 2019; no ISBN printed on the pages read PDF pages: 75 (cover verified against the record title; fetched from the record's source_url after grab.py failed — see log route note) Earlier waves: Geography wave placed Units 1, 7, 8 and 9.2/9.4 (maps, environment, population, transport); History wave placed Unit 10.1–10.7 (colonial Rwanda); Economics wave placed Unit 5 (Economy, printed pp. 53–59) and Unit 6.6–6.7 (banking and market services, pp. 66–68) Verdict: COMPLETE — contents-first read; the remaining-strand parts below read fully page by page Contents map: Integrated SS pp. 13–24 (Unit 2), pp. 61–71 (Unit 6), pp. 99–111 (Unit 9); Civics/Citizenship/Government pp. 41–52 (Unit 4), pp. 125–128 (§10.8); Morals/Values pp. 13–24 (Unit 2), pp. 41–43 (§4.1 behaviour); Geography pp. 5–12, 72–98; History pp. 112–124; Economics pp. 53–60, 66–68; Health (hygiene/sanitation, Unit 3) pp. 25–40 — named, not placed (Health course) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda part 1 — first-steps/special-places-in-our-village-and-community — 6.8 Important places in our province — teaches: the province's important places, hospitals among them, and what each is for — Rwanda Grade 5 P5 SB, printed p. 69 | Rwanda, *Primary Learner's Social Studies for Rwanda Schools — P5* (student book), 6.8 Important places in our province — printed p. 69 |
+| Rwanda's way — the books' own teaching way | Rwanda — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 3 countries (Fiji, Ecuador, Rwanda).**
+
+Rwanda's own way (Primary Five — Rwanda Grade 5 P5 SB): the province is the child's civic world — complementarity (everyone's work fitting together) is the organising value, and national symbols, the 2003/2015 constitution and province leadership are taught as Rwanda's own frame inside it

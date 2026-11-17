@@ -1,6 +1,6 @@
 # Sources — Conflict — Negotiation, Mediation, Arbitration
 
-countries: Ethiopia, Mongolia, Bahamas, Kuwait, Mexico, Colombia, Guatemala
+countries: Ethiopia, Mongolia, Bahamas, Kuwait, Mexico, Colombia, Guatemala, Rwanda
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (placement 74).
 
@@ -42,7 +42,7 @@ Mongolia's own way (Grade 9): Social Studies is a five-chapter spiral (Individua
 
 The scholar's name is taught exactly as printed and as the placements record it — Imboighe; the placements flag no error in this name. The chapter's own review trap stands behind the questions here: not any conflict can be settled by mediation (printed pp. 98–101, placement 76) — mediation fails, by the book's own conditions, where a side will not honour the mediator or keep its word. No book error flagged by the placements touches this lesson.
 
-Searchable tags: negotiation, mediation, ሽምግልና, arbitration, ዳኝነት, Imboighe, conflict settlement, elders, Ethiopia Grade 8 Social Studies Chapter 3, Mongolia, Нийгэм судлал, Mexico
+Searchable tags: negotiation, mediation, ሽምግልና, arbitration, ዳኝነት, Imboighe, conflict settlement, elders, Ethiopia Grade 8 Social Studies Chapter 3, Mongolia, Нийгэм судлал, Mexico, Rwanda
 
 Bahamas' own way (Grade 5): The Grade 5 infographic textbook is history-led — settlers, pirates, wrecking, blockade-running and bootlegging — and its geography is the geography of a small island state among bigger neighbours: where The Bahamas sits and where its people live, the sea's resources (including aragonite mined off Bimini), straw and sisal manufacturing, offshore banking, the Freeport transshipment container port, migration into The Bahamas, and Junkanoo as cultural tourism.
 
@@ -93,3 +93,15 @@ Guatemala placements — Social Studies remaining strands (2026-11-17):
 Guatemala's own way (Book 5): citizenship is woven through every unit of the history/geography book — a fourth-grader meets the three powers, the human-rights declaration, the civil registry and the ballot box inside the same volume that tells the national story, under the unit motto "Vivamos en Armonía" (Let us live in harmony).
 Guatemala's own way (Book 7): the fifth-grade book is the series' citizenship book proper — a pupil meets democracy four times over (definition, citizenship, duties, participation) and every right is tied to the article of Guatemala's own Constitution that grants it.
 Guatemala's own way (Book 8): the sixth-grade book widens the lens — democracy is traced from Athens to Guatemala's own authoritarian past, and citizenship ends at the world: Guatemala's Belize claim put to its own citizens in the 2018 popular consultation on the International Court of Justice.
+
+
+**Book 24:** *Primary Learner's Social Studies for Rwanda Schools — P5* (student book) — Title as printed: Primary Learner's Social Studies for Rwanda Schools — P5 Grade: Primary 5 (student/teacher: STUDENT) Publisher: Rwanda Education Board (REB); Revised Edition 2019; no ISBN printed on the pages read PDF pages: 75 (cover verified against the record title; fetched from the record's source_url after grab.py failed — see log route note) Earlier waves: Geography wave placed Units 1, 7, 8 and 9.2/9.4 (maps, environment, population, transport); History wave placed Unit 10.1–10.7 (colonial Rwanda); Economics wave placed Unit 5 (Economy, printed pp. 53–59) and Unit 6.6–6.7 (banking and market services, pp. 66–68) Verdict: COMPLETE — contents-first read; the remaining-strand parts below read fully page by page Contents map: Integrated SS pp. 13–24 (Unit 2), pp. 61–71 (Unit 6), pp. 99–111 (Unit 9); Civics/Citizenship/Government pp. 41–52 (Unit 4), pp. 125–128 (§10.8); Morals/Values pp. 13–24 (Unit 2), pp. 41–43 (§4.1 behaviour); Geography pp. 5–12, 72–98; History pp. 112–124; Economics pp. 53–60, 66–68; Health (hygiene/sanitation, Unit 3) pp. 25–40 — named, not placed (Health course) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda part 1 — resources-and-conflict/settling-conflict — 2.5 Conflict management in the society — teaches: peaceful ways to solve conflicts — respecting human rights, dialogue and standing against abuses — Rwanda Grade 5 P5 SB, printed p. 20 | Rwanda, *Primary Learner's Social Studies for Rwanda Schools — P5* (student book), 2.5 Conflict management in the society — printed p. 20 |
+| Rwanda's way — the books' own teaching way | Rwanda — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Mongolia, Bahamas, Kuwait, Mexico, Colombia, Guatemala, Rwanda).**
+
+Rwanda's own way (Primary Five — Rwanda Grade 5 P5 SB): the province is the child's civic world — complementarity (everyone's work fitting together) is the organising value, and national symbols, the 2003/2015 constitution and province leadership are taught as Rwanda's own frame inside it

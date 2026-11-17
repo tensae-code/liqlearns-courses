@@ -1,6 +1,6 @@
 # Sources — Peer Pressure and Standing Up to It
 
-countries: Vanuatu
+countries: Vanuatu, Rwanda
 
 **Book 1:** *Citoyenneté Sociale, Guide Pédagogique, Années 1 à 6* (teacher guide, French) — Communauté du Pacifique (SPC) and Ministry of Education and Training, Government of Vanuatu; Suva, 2019; ISBN 978-982-00-1158-8; authors Carol Young and Bridget Glasgow with the Vanuatu Curriculum Development Unit. Title as printed: Citoyenneté Sociale — Guide Pédagogique, Années 1 à 6 (Social Citizenship — Teachers Guide, Years 1–6). Grade: Years 1–6 (student/teacher: TEACHER). PDF pages: 35 printed pages (read in full through the Pacific Data Hub's own page text, 2026-11-17: direct PDF download is blocked by the host's bot check — three routes tried: plain curl and browser-UA curl both returned the "Just a moment" challenge page; the hub's text fetch succeeded. No PDF file was obtained, so nothing is staged for this book). Earlier waves: not read before. Verdict: COMPLETE — civics-type teacher guide read in full; placements are the guide's own teaching content, marked TEACHER (the guide carries the themes' substance, not just pupil-book answers). Contents map: Civics/Citizenship/Morals pp. 1–29 (why teach social citizenship; themes T1–T3); learner-centred teaching strategies p. 30 (apparatus, not placed); Glossary p. 31 (inventory only, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/vanuatu-placements.md. Teacher guide — evidence only, outside the acceptance count.
 
@@ -13,4 +13,18 @@ countries: Vanuatu
 
 Vanuatu's own way (teacher guide — evidence): social citizenship is taught as roles before rules — the Year 1 child maps who they are in family and village (chief, pastor, nurse, police, women's and youth group leaders), learns that roles change and are not fixed by gender, and only in Years 5–6 reaches rights, and how a community's rules are made and by whom.
 
-Searchable tags: peer pressure and standing up to it, Vanuatu, social studies, culture-and-work
+Searchable tags: peer pressure and standing up to it, Vanuatu, social studies, culture-and-work, Rwanda
+
+
+**Book 2:** *Primary Learner's Social Studies for Rwanda Schools — P5* (student book) — Title as printed: Primary Learner's Social Studies for Rwanda Schools — P5 Grade: Primary 5 (student/teacher: STUDENT) Publisher: Rwanda Education Board (REB); Revised Edition 2019; no ISBN printed on the pages read PDF pages: 75 (cover verified against the record title; fetched from the record's source_url after grab.py failed — see log route note) Earlier waves: Geography wave placed Units 1, 7, 8 and 9.2/9.4 (maps, environment, population, transport); History wave placed Unit 10.1–10.7 (colonial Rwanda); Economics wave placed Unit 5 (Economy, printed pp. 53–59) and Unit 6.6–6.7 (banking and market services, pp. 66–68) Verdict: COMPLETE — contents-first read; the remaining-strand parts below read fully page by page Contents map: Integrated SS pp. 13–24 (Unit 2), pp. 61–71 (Unit 6), pp. 99–111 (Unit 9); Civics/Citizenship/Government pp. 41–52 (Unit 4), pp. 125–128 (§10.8); Morals/Values pp. 13–24 (Unit 2), pp. 41–43 (§4.1 behaviour); Geography pp. 5–12, 72–98; History pp. 112–124; Economics pp. 53–60, 66–68; Health (hygiene/sanitation, Unit 3) pp. 25–40 — named, not placed (Health course) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda part 1 — culture-and-work/peer-pressure-standing-up-for-good-behaviour — 4.1 Peer pressure — teaches: how peer groups shape behaviour for good or bad, and how to avoid bad peer groups and make right decisions — Rwanda Grade 5 P5 SB, printed p. 43 | Rwanda, *Primary Learner's Social Studies for Rwanda Schools — P5* (student book), 4.1 Peer pressure — printed p. 43 |
+| Rwanda's way — the books' own teaching way | Rwanda — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Rwanda). Vanuatu is named here as teacher-guide evidence only, counted nowhere.**
+
+Rwanda's own way (Primary Five — Rwanda Grade 5 P5 SB): the province is the child's civic world — complementarity (everyone's work fitting together) is the organising value, and national symbols, the 2003/2015 constitution and province leadership are taught as Rwanda's own frame inside it
+
+Registry note: the original coined string `culture-and-work/peer-pressure-standing-up-for-good-behaviour` is recorded in the provenance rows above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/peer-pressure-and-standing-up-to-it`.

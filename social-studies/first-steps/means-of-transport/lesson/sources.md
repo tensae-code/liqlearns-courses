@@ -1,6 +1,6 @@
 # Sources — Means of Transport
 
-countries: Albania, North Macedonia
+countries: Albania, North Macedonia, Rwanda
 
 **Book 1:** *Libër Mësuesi Qytetaria 5* (teacher guide, Albanian) — Title as printed: Libër mësuesi — Qytetaria 5 (Teacher's book for Citizenship 5), by Entela Alushi; the pupil text it serves was written by Dr. Brunilda Çërraga and Dr. Silvana Loka. Grade: Grade 5 (student/teacher: TEACHER). Publisher: Shtëpia Botuese Mediaprint, Tirana; year 2019 (first edition); ISBN 978-9928-08-397-5. PDF pages: 69 (title page verified against the record title; the GitHub API route failed repeatedly (RemoteDisconnected), so the book was fetched from the record's own publisher source (mediaprint.al) and verified exactly against the record: 2,380,357 bytes = record size_bytes, 69 PDF pages = record pages; the reading copy was deleted after filing; the book stays secured in the repo per the record). Earlier waves: not read before (the Economics wave read a different Albanian book, Ekonomia 12). Verdict: COMPLETE — read FULL page by page via pdftotext -layout. Contents map: Civics/Citizenship/Government printed pp. 19–53 (Kreu 1 Individuals, groups and society, topics 1.1–1.12, plans pp. 19–35; Kreu 2 Governance, topics 2.1–2.8, plans pp. 36–44; Kreu 3 The Road, topics 3.1–3.6, plans pp. 45–53 — where-I-live and transport as community life); Morals/Values inside Kreu 1 (cooperation, self-restraint and compromise, responsibility, conflict-solving) and Kreu 2 (tolerance, rights and responsibilities); Economics printed pp. 54–69 named, not placed (Kreu 4 Production, consumption, distribution); the guide's own yearly plans, analytic programme and portfolio-assessment tables (printed pp. 5–18) and topic 4.9 Final test are apparatus/assessment, named, not placed. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/albania-placements.md. Teacher guide — evidence only, outside the acceptance count.
 
@@ -15,7 +15,7 @@ Albania's own way (teacher guide — evidence): Citizenship in Grade 5 is taught
 
 Registry note: the original coined string `first-steps/means-of-transport-how-we-travel` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/means-of-transport`.
 
-Searchable tags: means of transport, Albania, social studies, first-steps
+Searchable tags: means of transport, Albania, social studies, first-steps, Rwanda
 
 
 North Macedonia placements — Social Studies remaining strands (2026-11-17):
@@ -31,3 +31,15 @@ North Macedonia placements — Social Studies remaining strands (2026-11-17):
 North Macedonia's own way (Book 2): Grade 3 turns the Grade 2 classroom democracy into explicit civics — children's right to education, the state as education's provider, and group decision-making taught as a process with rules, ending in the difference between a majority decision and a consensus; Theme 3's love of country is carried by the country's own lakes, mountains and the Vardar, then by what a child can contribute and the languages of its classrooms.
 
 Registry note: the original coined string `first-steps/means-of-transport-how-we-travel` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/means-of-transport`.
+
+
+**Book 3:** *Amasomo Mbonezamubano — Igitabo cy'Umunyeshuri, Umwaka wa 2 (Social Studies — Pupil's Book, Year 2)* (student book) — Title as printed: Amasomo Mbonezamubano — Igitabo cy'Umunyeshuri, Umwaka wa 2 (Social Studies — Pupil's Book, Year 2) Grade: Primary Two (student/teacher: STUDENT) Publisher: Rwanda Education Board (REB); 2019; no ISBN printed PDF pages: 96 (56,123,108 bytes = the secured record's size exactly; cover verified; fetched from the record's edufeeds source_url after grab.py failed — see log route note; printed p. = PDF p. − 4). The parallel English edition (207 PDF pages, 66,849,262 bytes) was spot-checked by the Economics wave (cover, contents, Economy spreads) as the same content and is placed once here Earlier waves: Economics wave — placed Unit 6 Economy (printed pp. 62–73); Geography wave — placed Unit 7 Environment (pp. 74–83); History wave — placed Unit 9 Local/School History (pp. 89–95). Not re-placed here. Verdict: COMPLETE for this wave — contents-first; Units 1, 2, 5 and 8 read in full Contents map: Integrated SS / Civics / Morals printed pp. 1–30, 46–61, 84–88; Health pp. 31–45 (Hygiene; Diseases — named, not placed) and p. 57 (keeping private parts safe — child-protection safety, named, not placed, Health course); Economics pp. 62–73 (placed); Geography pp. 74–83 (placed); History pp. 89–95 (placed) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda part 1 — first-steps/means-of-transport — Unit 8.1 Transport — teaches: transport happens on land, on water and in the air, and helps us travel where we want, trade with others at home and abroad, speed journeys and reach school — Rwanda P2 SB Kiny, printed p. 84 | Rwanda, *Amasomo Mbonezamubano — Igitabo cy'Umunyeshuri, Umwaka wa 2 (Social Studies — Pupil's Book, Year 2)* (student book), Unit 8.1 Transport — printed p. 84 |
+| Rwanda's way — the books' own teaching way | Rwanda — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 2 countries (North Macedonia, Rwanda). Albania is named here as teacher-guide evidence only, counted nowhere.**
+
+Rwanda's own way (Primary Two — Rwanda P2 SB Kiny): P2 civics starts with who you belong to (small family, wide family, the exact Kinyarwanda name for every relation), then the two smallest rungs of the state — the village and the cell, their elected committees and what umuganda owes them — and the behaviour of peace: playing without discrimination, listening without shouting, and the rights of children and of people with disabilities

@@ -1,6 +1,6 @@
 # Sources — Public Services Water Electricity Telecommunications And Post
 
-countries: Afghanistan, India, Angola
+countries: Afghanistan, India, Angola, Rwanda
 
 **Book 1:** *دروس اجتماعی برای صنف پنجم (Social Studies for Grade 5)* (student book, Dari) — Ministry of Education, Afghanistan; year 1399 HS (2020/21) as printed; ISBN no ISBN printed. Title as printed: دروس اجتماعی برای صنف پنجم (Social Studies for Grade 5). Grade: 5 (student/teacher: STUDENT). PDF pages: 109 (cover verified against the record title; 9,575,107 bytes = release asset size). Verdict: COMPLETE — combined Social Studies book: Geography/economic parts placed below; the society/civics parts are named here and NOT placed.. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/afghanistan-placements.md.
 
@@ -13,7 +13,7 @@ countries: Afghanistan, India, Angola
 
 Afghanistan's own way (Afghanistan Grade 5 Social Studies (Dari)): Grade 5 social studies is an economic tour of Afghanistan for children — public services first (water, electricity, telecom, post, transport), then farming crop by crop, livestock animal by animal, industries craft by craft and factory by factory, trade and the country's (dry) ports, ending with environment, climate and mines.
 
-Searchable tags: public services water electricity telecommunications and post, Afghanistan, social studies, people-and-resources, India
+Searchable tags: public services water electricity telecommunications and post, Afghanistan, social studies, people-and-resources, India, Rwanda
 
 India placements — Social Studies remaining strands (2026-11-17):
 
@@ -38,3 +38,15 @@ Angola placements — Social Studies remaining strands (2026-11-17):
 **Acceptance count: taught in 3 countries (Afghanistan, India, Angola).**
 
 Angola's own way (Book 2): Grade 4 names the idea itself — instituições públicas: buildings that belong to no private person but serve everyone — and defines quality of life as a checklist a community can judge itself by (education, health, housing, food, hygiene, culture, leisure), ending on the shared duties of sanitation and water.
+
+
+**Book 3:** *Primary Learner's Social Studies for Rwanda Schools — P5* (student book) — Title as printed: Primary Learner's Social Studies for Rwanda Schools — P5 Grade: Primary 5 (student/teacher: STUDENT) Publisher: Rwanda Education Board (REB); Revised Edition 2019; no ISBN printed on the pages read PDF pages: 75 (cover verified against the record title; fetched from the record's source_url after grab.py failed — see log route note) Earlier waves: Geography wave placed Units 1, 7, 8 and 9.2/9.4 (maps, environment, population, transport); History wave placed Unit 10.1–10.7 (colonial Rwanda); Economics wave placed Unit 5 (Economy, printed pp. 53–59) and Unit 6.6–6.7 (banking and market services, pp. 66–68) Verdict: COMPLETE — contents-first read; the remaining-strand parts below read fully page by page Contents map: Integrated SS pp. 13–24 (Unit 2), pp. 61–71 (Unit 6), pp. 99–111 (Unit 9); Civics/Citizenship/Government pp. 41–52 (Unit 4), pp. 125–128 (§10.8); Morals/Values pp. 13–24 (Unit 2), pp. 41–43 (§4.1 behaviour); Geography pp. 5–12, 72–98; History pp. 112–124; Economics pp. 53–60, 66–68; Health (hygiene/sanitation, Unit 3) pp. 25–40 — named, not placed (Health course) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda part 1 — people-and-resources/public-services-water-electricity-telecommunications-and-post — 9.1 What is infrastructure? — teaches: infrastructure as a place's fundamental facilities — transport, communication, water/sewage and electricity systems a community needs to function — Rwanda Grade 5 P5 SB, printed p. 99 | Rwanda, *Primary Learner's Social Studies for Rwanda Schools — P5* (student book), 9.1 What is infrastructure? — printed p. 99 |
+| Rwanda's way — the books' own teaching way | Rwanda — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 4 countries (Afghanistan, India, Angola, Rwanda).**
+
+Rwanda's own way (Primary Five — Rwanda Grade 5 P5 SB): the province is the child's civic world — complementarity (everyone's work fitting together) is the organising value, and national symbols, the 2003/2015 constitution and province leadership are taught as Rwanda's own frame inside it

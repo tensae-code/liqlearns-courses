@@ -1,6 +1,6 @@
 # Sources — Rules of Our Classroom
 
-countries: Vanuatu, Morocco, Guatemala
+countries: Vanuatu, Morocco, Guatemala, Rwanda
 
 **Book 1:** *Citoyenneté Sociale, Guide Pédagogique, Années 1 à 6* (teacher guide, French) — Communauté du Pacifique (SPC) and Ministry of Education and Training, Government of Vanuatu; Suva, 2019; ISBN 978-982-00-1158-8; authors Carol Young and Bridget Glasgow with the Vanuatu Curriculum Development Unit. Title as printed: Citoyenneté Sociale — Guide Pédagogique, Années 1 à 6 (Social Citizenship — Teachers Guide, Years 1–6). Grade: Years 1–6 (student/teacher: TEACHER). PDF pages: 35 printed pages (read in full through the Pacific Data Hub's own page text, 2026-11-17: direct PDF download is blocked by the host's bot check — three routes tried: plain curl and browser-UA curl both returned the "Just a moment" challenge page; the hub's text fetch succeeded. No PDF file was obtained, so nothing is staged for this book). Earlier waves: not read before. Verdict: COMPLETE — civics-type teacher guide read in full; placements are the guide's own teaching content, marked TEACHER (the guide carries the themes' substance, not just pupil-book answers). Contents map: Civics/Citizenship/Morals pp. 1–29 (why teach social citizenship; themes T1–T3); learner-centred teaching strategies p. 30 (apparatus, not placed); Glossary p. 31 (inventory only, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/vanuatu-placements.md. Teacher guide — evidence only, outside the acceptance count.
 
@@ -14,7 +14,7 @@ countries: Vanuatu, Morocco, Guatemala
 
 Vanuatu's own way (teacher guide — evidence): social citizenship is taught as roles before rules — the Year 1 child maps who they are in family and village (chief, pastor, nurse, police, women's and youth group leaders), learns that roles change and are not fixed by gender, and only in Years 5–6 reaches rights, and how a community's rules are made and by whom.
 
-Searchable tags: rules of our classroom, Vanuatu, social studies, first-steps
+Searchable tags: rules of our classroom, Vanuatu, social studies, first-steps, Rwanda
 
 Morocco placements — Social Studies remaining strands (2026-11-17):
 
@@ -47,3 +47,15 @@ Guatemala placements — Social Studies remaining strands (2026-11-17):
 
 Guatemala's own way (Book 1) (teacher guide — evidence): coexistence is taught from the Maya cosmovision — its four threads are respect, gratitude, service and care for nature — and classroom rules are not imposed but built by the pupils as agreements.
 Registry note: the original coined string `culture-and-work/agreements-for-living-together-in-class` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/rules-of-our-classroom`.
+
+
+**Book 3:** *Amasomo Mbonezamubano — Igitabo cy'Umunyeshuri, Umwaka wa 2 (Social Studies — Pupil's Book, Year 2)* (student book) — Title as printed: Amasomo Mbonezamubano — Igitabo cy'Umunyeshuri, Umwaka wa 2 (Social Studies — Pupil's Book, Year 2) Grade: Primary Two (student/teacher: STUDENT) Publisher: Rwanda Education Board (REB); 2019; no ISBN printed PDF pages: 96 (56,123,108 bytes = the secured record's size exactly; cover verified; fetched from the record's edufeeds source_url after grab.py failed — see log route note; printed p. = PDF p. − 4). The parallel English edition (207 PDF pages, 66,849,262 bytes) was spot-checked by the Economics wave (cover, contents, Economy spreads) as the same content and is placed once here Earlier waves: Economics wave — placed Unit 6 Economy (printed pp. 62–73); Geography wave — placed Unit 7 Environment (pp. 74–83); History wave — placed Unit 9 Local/School History (pp. 89–95). Not re-placed here. Verdict: COMPLETE for this wave — contents-first; Units 1, 2, 5 and 8 read in full Contents map: Integrated SS / Civics / Morals printed pp. 1–30, 46–61, 84–88; Health pp. 31–45 (Hygiene; Diseases — named, not placed) and p. 57 (keeping private parts safe — child-protection safety, named, not placed, Health course); Economics pp. 62–73 (placed); Geography pp. 74–83 (placed); History pp. 89–95 (placed) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda part 1 — first-steps/rules-of-our-classroom — Unit 5.4A Good Behaviour at School: Obeying School Rules — teaches: pupils obey the school's laws and instructions, beginning with wearing the school uniform — Rwanda P2 SB Kiny, printed p. 54 | Rwanda, *Amasomo Mbonezamubano — Igitabo cy'Umunyeshuri, Umwaka wa 2 (Social Studies — Pupil's Book, Year 2)* (student book), Unit 5.4A Good Behaviour at School: Obeying School Rules — printed p. 54 |
+| Rwanda's way — the books' own teaching way | Rwanda — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 2 countries (Morocco, Rwanda). Vanuatu is named here as teacher-guide evidence only, counted nowhere. Morocco's Book 1 part is teacher-guide evidence only; Morocco is counted here on its Book 2 student book. Guatemala is named here as teacher-guide evidence only, counted nowhere.**
+
+Rwanda's own way (Primary Two — Rwanda P2 SB Kiny): P2 civics starts with who you belong to (small family, wide family, the exact Kinyarwanda name for every relation), then the two smallest rungs of the state — the village and the cell, their elected committees and what umuganda owes them — and the behaviour of peace: playing without discrimination, listening without shouting, and the rights of children and of people with disabilities

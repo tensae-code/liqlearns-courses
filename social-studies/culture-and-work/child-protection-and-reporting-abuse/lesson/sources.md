@@ -1,6 +1,6 @@
 # Sources — Child Protection and Reporting Abuse
 
-countries: Haiti, Uganda, Morocco
+countries: Haiti, Uganda, Morocco, Rwanda
 
 **Book 4:** *Sciences sociales — Éducation à la citoyenneté — Droits, devoirs et valeurs (l'école inclusive et le droit à l'éducation)* (teacher sequence, French) — Title as printed: Sciences sociales — Éducation à la citoyenneté — Droits, devoirs et valeurs (l'école inclusive et le droit à l'éducation) (Projet Nectar, MENFP, 8e année; authors Mélanie Albaret, Arnaud Dechelle). Grade: Grade 8 (student/teacher: TEACHER). Publisher: MENFP / Projet Nectar (Canoprof); year not printed; no ISBN printed (CC BY-NC-SA licence printed). PDF pages: 28 (cover verified against the record title; 849,191 bytes, grab.py size/SHA verified — byte size also matches the links-file record for the same PDF). Earlier waves: Geography wave filed it record-only (pure Civics); History wave record-only (pure Civics); Economics wave record-only (no Economics parts) — its civics strands are placed here for the first time. Verdict: COMPLETE. Contents map: Civics/Citizenship/Government pp. 9–28 (whole book); Morals/Values pp. 11–16 (the notion of value and its making into law, inside Séance 2 and Séance 3). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/haiti-placements.md. Teacher guide — evidence only, outside the acceptance count.
 
@@ -25,7 +25,7 @@ Registry note: the original coined string `culture-and-work/the-right-to-educati
 
 Registry note: the original coined string `culture-and-work/child-abuse-protecting-children` is recorded in the provenance rows above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/child-protection-and-reporting-abuse`.
 
-Searchable tags: child protection and reporting abuse, Haiti, social studies, culture-and-work, Uganda
+Searchable tags: child protection and reporting abuse, Haiti, social studies, culture-and-work, Uganda, Rwanda
 
 Morocco placements — Social Studies remaining strands (2026-11-17):
 
@@ -41,3 +41,23 @@ Morocco's own way (Book 1, Dalil Moufid Ijtiamiat 5e): Moroccan primary Social S
 
 Registry note: the original coined string `culture-and-work/childrens-right-to-protection-from-violence` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/child-protection-and-reporting-abuse`.
 
+
+
+**Book 6:** *Amasomo Mbonezamubano — Igitabo cy'Umunyeshuri, Umwaka wa 2 (Social Studies — Pupil's Book, Year 2)* (student book) — Title as printed: Amasomo Mbonezamubano — Igitabo cy'Umunyeshuri, Umwaka wa 2 (Social Studies — Pupil's Book, Year 2) Grade: Primary Two (student/teacher: STUDENT) Publisher: Rwanda Education Board (REB); 2019; no ISBN printed PDF pages: 96 (56,123,108 bytes = the secured record's size exactly; cover verified; fetched from the record's edufeeds source_url after grab.py failed — see log route note; printed p. = PDF p. − 4). The parallel English edition (207 PDF pages, 66,849,262 bytes) was spot-checked by the Economics wave (cover, contents, Economy spreads) as the same content and is placed once here Earlier waves: Economics wave — placed Unit 6 Economy (printed pp. 62–73); Geography wave — placed Unit 7 Environment (pp. 74–83); History wave — placed Unit 9 Local/School History (pp. 89–95). Not re-placed here. Verdict: COMPLETE for this wave — contents-first; Units 1, 2, 5 and 8 read in full Contents map: Integrated SS / Civics / Morals printed pp. 1–30, 46–61, 84–88; Health pp. 31–45 (Hygiene; Diseases — named, not placed) and p. 57 (keeping private parts safe — child-protection safety, named, not placed, Health course); Economics pp. 62–73 (placed); Geography pp. 74–83 (placed); History pp. 89–95 (placed) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/rwanda-placements.md.
+
+**Book 7:** *Primary Social and Religious Studies for Rwanda — P4 Pupil's Book (Revised Edition 2019)* (student book) — Title as printed: Primary Social and Religious Studies for Rwanda — P4 Pupil's Book (Revised Edition 2019) Grade: Primary Four (student/teacher: STUDENT) Publisher: Rwanda Education Board (REB); 2019; no ISBN printed PDF pages: 113 (97,794,186 bytes = the secured record's size exactly; cover verified; fetched from the record's edufeeds source_url after grab.py failed — see log route note) Earlier waves: Economics wave — placed Unit 1 Socio-economic Activities (printed pp. 2–13) and Unit 4 Economy (pp. 40–46); Geography wave — placed Units 6–9 (pp. 60–98); History wave — placed Traditional Rwanda (pp. 100–107). Not re-placed here. Verdict: COMPLETE for this wave — contents-first; Units 2 and 5 read in full Contents map: Integrated SS / Civics printed pp. 16–28, 49–58; Health pp. 31–38 (Unit 3 Hygiene — named, not placed); Economics pp. 2–13, 40–46 (placed); Geography pp. 60–98 (placed); History pp. 100–107 (placed); Religious Studies pp. 108–188 (named, not placed); glossary p. 189 inventory-only Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda part 1 — culture-and-work/child-abuse-protecting-children — Unit 5.1C Child Abuse and Its Causes — teaches: a child can be abused by being made to work, beaten, made to sleep outside, and the other pictured forms, and why it happens — Rwanda P2 SB Kiny, printed p. 48 | Rwanda, *Amasomo Mbonezamubano — Igitabo cy'Umunyeshuri, Umwaka wa 2 (Social Studies — Pupil's Book, Year 2)* (student book), Unit 5.1C Child Abuse and Its Causes — printed p. 48 |
+| Rwanda part 2 — culture-and-work/child-abuse-protecting-children — Unit 5.1D Preventing Child Abuse — teaches: we must speak out about those who abuse us, make sure our rights are respected and understood, and explain them to our peers — Rwanda P2 SB Kiny, printed p. 49 | Rwanda, *Amasomo Mbonezamubano — Igitabo cy'Umunyeshuri, Umwaka wa 2 (Social Studies — Pupil's Book, Year 2)* (student book), Unit 5.1D Preventing Child Abuse — printed p. 49 |
+| Rwanda part 3 — culture-and-work/child-abuse-protecting-children — Unit 2 Lessons 3–6 Abuse and Its Prevention — teaches: physical abuse is when somebody hits, kicks or beats you; emotional abuse is hurtful words that make you feel sad or scared ("you are useless", "you should never have been born"); and the things you can do to prevent child abuse — Rwanda P4 SRS SB, printed p. 20 | Rwanda, *Primary Social and Religious Studies for Rwanda — P4 Pupil's Book (Revised Edition 2019)* (student book), Unit 2 Lessons 3–6 Abuse and Its Prevention — printed p. 20 |
+| Rwanda's way — the books' own teaching way | Rwanda — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 2 countries (Uganda, Rwanda). Haiti and Morocco are named here as teacher-guide evidence only, counted nowhere.**
+
+Rwanda's own way (Primary Two — Rwanda P2 SB Kiny): P2 civics starts with who you belong to (small family, wide family, the exact Kinyarwanda name for every relation), then the two smallest rungs of the state — the village and the cell, their elected committees and what umuganda owes them — and the behaviour of peace: playing without discrimination, listening without shouting, and the rights of children and of people with disabilities
+
+Rwanda's own way (Primary Four — Rwanda P4 SRS SB): P4 states rights before duties of the state: rights belong to everybody whatever their place, age, sex or wealth; equality is then split from equity (same treatment vs a fair share of what each needs), and district government is taught as a council that collects local taxes and elects its own Mayor
+
+Registry note: the original coined string `culture-and-work/child-abuse-protecting-children` is recorded in the provenance rows above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/child-protection-and-reporting-abuse`.

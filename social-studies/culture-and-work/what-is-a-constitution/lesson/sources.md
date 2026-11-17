@@ -1,6 +1,6 @@
 # Sources — What is a Constitution
 
-countries: Costa Rica, Cuba, Micronesia, Haiti, Yemen, Bahamas, Afghanistan, Eritrea, Uganda, Belarus, Venezuela, Bangladesh, Morocco, Colombia, Armenia, Kazakhstan, India, United States, Palestine
+countries: Costa Rica, Cuba, Micronesia, Haiti, Yemen, Bahamas, Afghanistan, Eritrea, Uganda, Belarus, Venezuela, Bangladesh, Morocco, Colombia, Armenia, Kazakhstan, India, United States, Palestine, Rwanda
 
 **Book 1:** *Estudios Sociales 11* (student book, Spanish) — Title as printed: Estudios Sociales 11 (cover: "Estudios Sociales 11 — Publicaciones Porras"). Grade: Grade 11 (student/teacher: STUDENT). Publisher: Publicaciones Porras y Gamboa, San José (printed imprint: Editorial Compas ERV); year 2018, 1st edition; ISBN 978-9930-9622-3-7 as printed on the copyright page (the targets record gives 978-9990-96223-7 — record/printed mismatch, noted in the group log). PDF pages: 200 (cover verified visually against the record title; 56,329,080 bytes = record size_bytes; image-only PDF, read via 100-DPI 4-up contact sheets). Earlier waves: Geography wave placed Unit 1 (globalisation, pp. 12–54); History wave placed Units 2–3 as national History (including the electoral and movements sections as History lessons and the women's-suffrage struggle); Economics wave placed the Economics parts and named the History/Civics parts at pp. 22–43, 48–59, 74–87, 95–104, 114–135, 149–163, not placed. Verdict: COMPLETE. Contents map: Geography pp. 12–54; History pp. 59–98, 105–123, 131–151; Economics pp. 12–21, 30–35, 44–47, 60–73, 80–81, 88–94, 105–113, 117–121, 136–148; Civics/Citizenship/Government pp. 78–80 (electoral reform and electoral life), p. 99 (the 1949 Constitution), pp. 124–127 (parties, the electoral system and the banned party), pp. 152–159 (state, movements, two-party rule, neutrality); Assessment pp. 168–199 (Unit 4 Bachillerato practice exams — excluded as assessment, named here); Bibliography p. 200. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/costa-rica-placements.md.
 
@@ -107,7 +107,7 @@ Venezuela's own way (Venezuela Grade 6 G6 CS Venezuela y Su Gente): the primary 
 
 Registry note: the original coined string `culture-and-work/constitution-and-laws-to-live-well` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/what-is-a-constitution`.
 
-Searchable tags: constitution, 1949 constitution, what is a constitution, law of laws, Costa Rica, Cuba, Micronesia, Eritrea, social studies, culture-and-work, Haiti, Yemen, Bahamas, Afghanistan, Uganda, Belarus, Venezuela, Bangladesh, India, United States, Palestine
+Searchable tags: constitution, 1949 constitution, what is a constitution, law of laws, Costa Rica, Cuba, Micronesia, Eritrea, social studies, culture-and-work, Haiti, Yemen, Bahamas, Afghanistan, Uganda, Belarus, Venezuela, Bangladesh, India, United States, Palestine, Rwanda
 
 Cuba's own way (teacher guide — evidence): Citizenship is taught through the child's own pioneer organisation and through the 2019 Constitution article by article — family duties, equality and the mass organisations are all read straight out of constitutional text, and the state is presented as the people's own power (sovereignty in the people, delegates answerable to their electors).
 
@@ -245,3 +245,17 @@ Palestine's own way (Grade 6 Social Studies Part 1): the constitution is taught 
 Registry note: the original coined string `culture-and-work/the-constitution-what-it-is-and-what-it-covers` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/what-is-a-constitution`.
 
 Registry note: the original coined string `culture-and-work/the-constitution-and-why-it-matters` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/what-is-a-constitution`.
+
+
+**Book 28:** *Primary Learner's Social Studies for Rwanda Schools — P5* (student book) — Title as printed: Primary Learner's Social Studies for Rwanda Schools — P5 Grade: Primary 5 (student/teacher: STUDENT) Publisher: Rwanda Education Board (REB); Revised Edition 2019; no ISBN printed on the pages read PDF pages: 75 (cover verified against the record title; fetched from the record's source_url after grab.py failed — see log route note) Earlier waves: Geography wave placed Units 1, 7, 8 and 9.2/9.4 (maps, environment, population, transport); History wave placed Unit 10.1–10.7 (colonial Rwanda); Economics wave placed Unit 5 (Economy, printed pp. 53–59) and Unit 6.6–6.7 (banking and market services, pp. 66–68) Verdict: COMPLETE — contents-first read; the remaining-strand parts below read fully page by page Contents map: Integrated SS pp. 13–24 (Unit 2), pp. 61–71 (Unit 6), pp. 99–111 (Unit 9); Civics/Citizenship/Government pp. 41–52 (Unit 4), pp. 125–128 (§10.8); Morals/Values pp. 13–24 (Unit 2), pp. 41–43 (§4.1 behaviour); Geography pp. 5–12, 72–98; History pp. 112–124; Economics pp. 53–60, 66–68; Health (hygiene/sanitation, Unit 3) pp. 25–40 — named, not placed (Health course) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda part 1 — culture-and-work/the-constitution-supreme-law-of-the-nation — 4.2 The national constitution — teaches: the constitution as the supreme law of the nation; referendum as a direct vote; Rwanda's constitution adopted by referendum in 2003 and revised in 2015 — Rwanda Grade 5 P5 SB, printed p. 46 | Rwanda, *Primary Learner's Social Studies for Rwanda Schools — P5* (student book), 4.2 The national constitution — printed p. 46 |
+| Rwanda's way — the books' own teaching way | Rwanda — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 18 countries (Costa Rica, Micronesia, Yemen, Bahamas, Afghanistan, Eritrea, Uganda, Belarus, Venezuela, Bangladesh, Morocco, Colombia, Armenia, Kazakhstan, India, United States, Palestine, Rwanda). .**
+
+Rwanda's own way (Primary Five — Rwanda Grade 5 P5 SB): the province is the child's civic world — complementarity (everyone's work fitting together) is the organising value, and national symbols, the 2003/2015 constitution and province leadership are taught as Rwanda's own frame inside it
+
+Registry note: the original coined string `culture-and-work/the-constitution-supreme-law-of-the-nation` is recorded in the provenance rows above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/what-is-a-constitution`.

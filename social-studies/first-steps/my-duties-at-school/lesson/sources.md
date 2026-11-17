@@ -1,6 +1,6 @@
 # Sources — My Duties at School
 
-countries: Afghanistan, Iraq
+countries: Afghanistan, Iraq, Rwanda
 
 **Book 1:** *Social Studies, Grade 4 (دروس اجتماعی صنف چهارم)* (student book, Dari) — Title as printed: دروس اجتماعی برای صنف چهارم (Social Studies for Grade 4). Grade: 4 (student/teacher: STUDENT). Publisher: Ministry of Education, Afghanistan; year 1399 HS (2020/21) as printed; ISBN no ISBN printed. PDF pages: 106 (cover verified against the record title; 21,005,872 bytes — the books.json tree path is a phantom push: the Contents API returns 404 for it, as the Economics wave found; the bytes survive as release asset grade-04-gov-afghanistan-bc91f2edec.pdf in release mid-size-books-7, fetched with size verification, matching the Geography/History waves' byte count exactly). Earlier waves: Geography wave placed Lessons 10, 12–50 (village life, farming, livestock, city life and types, directions and maps, homeland boundaries and divisions, continents, oceans, the globe); History wave placed Lesson 9 (history of education in Afghanistan) and Lesson 18 (historic cities); Economics wave filed this record UNREAD (tree 404) — superseded by the release-asset read here and in the Geography/History waves. Verdict: COMPLETE — the remaining integrated-SS/civics parts (printed pp. 1–15, 21, 41–45) read page by page and placed below; Lesson 6 The mosque (printed p. 11) is a Religion part — named in the contents map, not placed, per the brief. Contents map: Integrated SS pp. 1–15 (Lessons 1–5 social life and the family; Lessons 7–8 the school and duties at school) and p. 21 (Lesson 11 village trades and handicrafts — work as community life); Civics/Citizenship/Government pp. 41–45 (Lesson 21 the national flag; Lesson 22 government offices; Lesson 23 traffic regulations); Morals/Values inside Lessons 3–5 (good character learned in the family; duties and order at home); Geography pp. 19, 23–39, 47–99 (placed by the Geography wave); History p. 17 (Lesson 9) and p. 35 (Lesson 18) (placed by the History wave); Economics pp. 23–33 (farming, livestock, city occupations — placed by the Geography/Economics waves); Religion p. 11 (Lesson 6 the mosque — named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/afghanistan-placements.md.
 
@@ -15,7 +15,7 @@ Afghanistan's own way (Grade 4 Social Studies): the child's world widens in ring
 
 Registry note: the original coined string `first-steps/duties-at-school-everyones-job-in-our-school` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/my-duties-at-school`.
 
-Searchable tags: my duties at school, Afghanistan, social studies, first-steps
+Searchable tags: my duties at school, Afghanistan, social studies, first-steps, Rwanda
 
 
 Iraq placements — Social Studies remaining strands (2026-11-17):
@@ -29,3 +29,17 @@ Iraq placements — Social Studies remaining strands (2026-11-17):
 **Acceptance count: taught in 2 countries (Afghanistan, Iraq).**
 
 Iraq's own way (Book 1): civics starts at the school desk — the first community the Grade 4 child is given duties toward is the school family — and the homeland is then built piece by piece (land, people, waters, sky), with every one of Iraq's communities named in the population list, before rights are matched one-for-one with duties.
+
+
+**Book 2:** *Amasomo Mbonezamubano — Igitabo cy'Umunyeshuri, Umwaka wa 2 (Social Studies — Pupil's Book, Year 2)* (student book) — Title as printed: Amasomo Mbonezamubano — Igitabo cy'Umunyeshuri, Umwaka wa 2 (Social Studies — Pupil's Book, Year 2) Grade: Primary Two (student/teacher: STUDENT) Publisher: Rwanda Education Board (REB); 2019; no ISBN printed PDF pages: 96 (56,123,108 bytes = the secured record's size exactly; cover verified; fetched from the record's edufeeds source_url after grab.py failed — see log route note; printed p. = PDF p. − 4). The parallel English edition (207 PDF pages, 66,849,262 bytes) was spot-checked by the Economics wave (cover, contents, Economy spreads) as the same content and is placed once here Earlier waves: Economics wave — placed Unit 6 Economy (printed pp. 62–73); Geography wave — placed Unit 7 Environment (pp. 74–83); History wave — placed Unit 9 Local/School History (pp. 89–95). Not re-placed here. Verdict: COMPLETE for this wave — contents-first; Units 1, 2, 5 and 8 read in full Contents map: Integrated SS / Civics / Morals printed pp. 1–30, 46–61, 84–88; Health pp. 31–45 (Hygiene; Diseases — named, not placed) and p. 57 (keeping private parts safe — child-protection safety, named, not placed, Health course); Economics pp. 62–73 (placed); Geography pp. 74–83 (placed); History pp. 89–95 (placed) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda part 1 — first-steps/duties-of-pupils-at-school-and-home — Unit 2.1 Pupils' Duties — teaches: a pupil's duties at school and at home (helping parents with housework, cleaning, homework), the benefits of fulfilling them (success and praise; pleasing parents) and the consequences of neglecting them (punishment, failure, family property wasted, quarrels at home) — Rwanda P2 SB Kiny, printed p. 9 | Rwanda, *Amasomo Mbonezamubano — Igitabo cy'Umunyeshuri, Umwaka wa 2 (Social Studies — Pupil's Book, Year 2)* (student book), Unit 2.1 Pupils' Duties — printed p. 9 |
+| Rwanda's way — the books' own teaching way | Rwanda — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 3 countries (Afghanistan, Iraq, Rwanda).**
+
+Rwanda's own way (Primary Two — Rwanda P2 SB Kiny): P2 civics starts with who you belong to (small family, wide family, the exact Kinyarwanda name for every relation), then the two smallest rungs of the state — the village and the cell, their elected committees and what umuganda owes them — and the behaviour of peace: playing without discrimination, listening without shouting, and the rights of children and of people with disabilities
+
+Registry note: the original coined string `first-steps/duties-of-pupils-at-school-and-home` is recorded in the provenance rows above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/my-duties-at-school`.
