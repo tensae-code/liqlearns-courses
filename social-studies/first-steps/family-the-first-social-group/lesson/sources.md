@@ -1,6 +1,6 @@
 # Sources — Family the First Social Group
 
-countries: Albania
+countries: Albania, Bangladesh
 
 **Book 1:** *Libër Mësuesi Qytetaria 5* (teacher guide, Albanian) — Title as printed: Libër mësuesi — Qytetaria 5 (Teacher's book for Citizenship 5), by Entela Alushi; the pupil text it serves was written by Dr. Brunilda Çërraga and Dr. Silvana Loka. Grade: Grade 5 (student/teacher: TEACHER). Publisher: Shtëpia Botuese Mediaprint, Tirana; year 2019 (first edition); ISBN 978-9928-08-397-5. PDF pages: 69 (title page verified against the record title; the GitHub API route failed repeatedly (RemoteDisconnected), so the book was fetched from the record's own publisher source (mediaprint.al) and verified exactly against the record: 2,380,357 bytes = record size_bytes, 69 PDF pages = record pages; the reading copy was deleted after filing; the book stays secured in the repo per the record). Earlier waves: not read before (the Economics wave read a different Albanian book, Ekonomia 12). Verdict: COMPLETE — read FULL page by page via pdftotext -layout. Contents map: Civics/Citizenship/Government printed pp. 19–53 (Kreu 1 Individuals, groups and society, topics 1.1–1.12, plans pp. 19–35; Kreu 2 Governance, topics 2.1–2.8, plans pp. 36–44; Kreu 3 The Road, topics 3.1–3.6, plans pp. 45–53 — where-I-live and transport as community life); Morals/Values inside Kreu 1 (cooperation, self-restraint and compromise, responsibility, conflict-solving) and Kreu 2 (tolerance, rights and responsibilities); Economics printed pp. 54–69 named, not placed (Kreu 4 Production, consumption, distribution); the guide's own yearly plans, analytic programme and portfolio-assessment tables (printed pp. 5–18) and topic 4.9 Final test are apparatus/assessment, named, not placed. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/albania-placements.md. Teacher guide — evidence only, outside the acceptance count.
 
@@ -10,11 +10,19 @@ countries: Albania
 | Sub lesson — first-steps/family-the-first-and-most-important-group — 1.2 Funksionet e familjes (The functions of the family) — teaches: what a family does for its members — Albania Grade 5 Qytetaria teacher guide, printed p. 19 (TEACHER) | Albania, *Libër Mësuesi Qytetaria 5* (teacher guide), 1.2 Funksionet e familjes (The functions of the family) — printed p. 19 (teacher guide — evidence) |
 | Sub lesson 3 — Albania's way — the book's own teaching way | Albania — the book's own way of teaching (see below) |
 
-**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Albania), named here, counted nowhere.**
+**Book 2:** *History and Social Science, Class Six (Experimental version)* (student book, English + Bangla parallel editions) — Title as printed: History and Social Science, Class Six (Experimental version). Grade: Grade 6 (student/teacher: STUDENT). Publisher: National Curriculum and Textbook Board (NCTB), Dhaka, Bangladesh; year 2022; no ISBN printed. PDF pages: 184 in each edition (cover verified against the record title; printed p. = PDF p. - 7). Earlier waves: Geography wave placed the geography parts (incl. landforms, maps, Society and Resources geography parts); History wave placed the history parts; Economics wave placed 5 economics placements. Verdict: COMPLETE. Editions: English read fully for the remaining strands (17,443,796 bytes, blob-SHA verified); Bangla parallel edition spot-checked (17,887,130 bytes, blob-SHA verified; cover, the rules discussion at printed p. 27 and the social-structure spread at printed p. 129 — same content, placed once for both editions). Contents map: Integrated SS pp. 1–25 (My Different Identity); Civics pp. 26–31 (Active Citizens Club); Morals/Values + social-structure parts pp. 125–133 (Natural and Social Structures); Geography / History / Economics / Science parts already placed or out of scope as filed by the earlier waves. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/bangladesh-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bangladesh part — first-steps/family-the-first-social-group — Natural and Social Structures — teaches: the family as the first and most important social group, where a person learns what is good and bad and the role they will play in the larger society — Bangladesh Grade 6 BD G6 HSS, printed pp. 131–132 | Bangladesh, *History and Social Science, Class Six (Experimental version)* (student book), Natural and Social Structures — printed pp. 131–132 |
+
+**Acceptance count: taught in 1 country (Bangladesh). Albania is named here as teacher-guide evidence only, counted nowhere.**
+
+Bangladesh's own way (Grade 6): an inquiry-based combined History and Social Science course taught through a class teacher character (Khushi Apa) and group investigations; civics begins not with definitions but with a football game played with and without rules, and sociology is built from a village flood story (the Dharmagola grain bank) before any term is named.
 
 Albania's own way (teacher guide — evidence): Citizenship in Grade 5 is taught as a ladder — family, group, community, then the state: democracy is first practised inside the family and in class elections, local self-government is compared with the class's own elections, and a whole chapter (Kreu 3, The Road) treats the child as pedestrian, cyclist and passenger with duties on the road.
 
 Registry note: the original coined string `first-steps/family-the-first-and-most-important-group` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/family-the-first-social-group`.
 
 
-Searchable tags: family the first social group, Albania, social studies, first-steps
+Searchable tags: family the first social group, Albania, social studies, first-steps, Bangladesh

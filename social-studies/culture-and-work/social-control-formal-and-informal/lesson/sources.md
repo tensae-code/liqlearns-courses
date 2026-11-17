@@ -1,6 +1,6 @@
 # Sources — Social Control Formal and Informal
 
-countries: Fiji
+countries: Fiji, Bangladesh
 
 **Book 1:** *Social Science Year 9* (student book, English) — Title as printed: SOCIAL SCIENCE YEAR 9 — REDISCOVERING SOCIETY. Grade: Year 9 (student/teacher: STUDENT). Publisher: Ministry of Education, National Heritage, Culture & Arts, Fiji (Curriculum Development Unit), Suva; year 2013 (copyright 2011); ISBN no ISBN printed. PDF pages: 162 (cover verified against the record title; 9,276,692 bytes — byte-identical to the Economics wave's release-verified copy; read from the record's own Wayback source_url after the grab.py routes failed). Earlier waves: Geography wave placed Chapter 3 geography parts; History wave placed Chapter 2 (pp. 77–100); Economics wave placed the scattered economics parts (pp. 11–12, 34, 54, 71). Chapter 1's civics/culture/values parts were named, not placed. Verdict: COMPLETE. Contents map: Integrated SS / Civics / Culture / Morals pp. 7–74 (Chapter 1: Society and Culture, Community Living, NGOs and Regional Organisations); Religion pp. 50–51 (named, not placed); History pp. 77–100; Geography pp. 103–154; Glossary (inventory-only). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/fiji-placements.md.
 
@@ -9,8 +9,16 @@ countries: Fiji
 | Sub lesson 1 — Fiji part — culture-and-work/social-control-formal-and-informal — Unit 2, 2.1 Social Control — teaches: communities control members' behaviour so law and order is kept — formal control (written: school rules, constitution, laws) and informal control (unwritten: customs, traditions, family rules), working through rewards and punishments — Fiji Grade 9 Social Science Year 9, printed p. 37 | Fiji, *Social Science Year 9* (student book), Unit 2, 2.1 Social Control — printed p. 37 |
 | Sub lesson 2 — Fiji's way — the books' own teaching way | Fiji — the books' own way of teaching (see below) |
 
-**Acceptance count: taught in 1 country (Fiji).**
+**Book 2:** *History and Social Science, Class Eight (Experimental version)* (student book, Bangla + English parallel editions) — Title as printed: History and Social Science, Class Eight (Experimental version). Grade: Grade 8 (student/teacher: STUDENT). Publisher: National Curriculum and Textbook Board (NCTB), Dhaka, Bangladesh; year 2022; no ISBN printed. PDF pages: 188 in both editions (English cover verified against the record title; printed p. = PDF p. - 7). Earlier waves: Geography wave placed the geography parts; History wave placed the history parts; Economics wave placed 16 economics placements. Verdict: COMPLETE. Editions: English read fully for the remaining strands (release asset full-quality-oversized-books, 131,203,853 bytes, size-verified); Bangla parallel edition spot-checked (13,150,110 bytes, blob-SHA verified; cover, the social-control spread at printed p. 94 and the practice-work spread at printed p. 106 — same chapters at the same spans; the Bangla chapter's internal spread order differs slightly at printed p. 107, where it carries the constitution's four state principles — noted, not placed from a spot-check). Contents map: Integrated SS / Morals pp. 87–101 (Socialisation, Social Control and Social Change) and pp. 102–108 (Changing Context and the Individual's Role); identity/diversity parts of Unity in Uniqueness pp. 13–31 (History wave); Geography / History / Economics parts already placed or out of scope as filed by the earlier waves. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/bangladesh-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bangladesh part — culture-and-work/social-control-formal-and-informal — Socialization, Social Control, and Social Change — teaches: social control — society steering behaviour by rewards and punishments; informal control by family and peers (mockery and criticism; the village Salish and Gram Panchayat) against formal control by police, judges, schools and employers (fines, imprisonment, dismissal), with the state's three branches — legislative, executive, judicial — keeping order — Bangladesh Grade 8 BD G8 HSS, printed pp. 94–97 | Bangladesh, *History and Social Science, Class Eight (Experimental version)* (student book), Socialization, Social Control, and Social Change — printed pp. 94–97 |
+
+**Acceptance count: taught in 2 countries (Fiji, Bangladesh).**
+
+Bangladesh's own way (Grade 8): sociology is taught as a toolkit for changing one's own society — socialisation, control and change are each defined, then immediately used: the class stops a dowry in a cartoon case, studies Martin Luther King as a movement model, and finishes by setting new norms for itself to practise through the civic club.
 
 Fiji's own way (Grade 9): Society is analysed through Fiji's own structures — the iTaukei hierarchy of Turaga, Sau Turaga, Matanivanua, Bete, Bati, Mataisau, Gonedau and Tauvanua with its ascribed chiefly status — and conflict is settled the iTaukei way, by Bulubulu.
 
-Searchable tags: social control formal and informal, Fiji, social studies, culture-and-work
+Searchable tags: social control formal and informal, Fiji, social studies, culture-and-work, Bangladesh

@@ -1,6 +1,6 @@
 # Sources — Human Rights
 
-countries: Oman
+countries: Oman, Bangladesh
 
 **Book 1:** *Identity and Citizenship Grade 3, Term 2* (teacher guide, Arabic) — Title as printed: دليل المعلم لمادة الهوية والمواطنة — Teacher's Guide for the Subject Identity and Citizenship. Grade: Grade 3 (student/teacher: TEACHER), Term 2. Publisher: Ministry of Education, Sultanate of Oman; experimental edition (same series); no ISBN printed. PDF pages: 60 (15,415,504 bytes — exactly the ministry server's Content-Range total; ministry TeacherBook PDF service, after the afedne landing page for this record returned HTTP 520. Cover verified: الصف الثالث، الفصل الدراسي الثاني. STAGED under the new rule at phase3-staging/grade-03/gov/oman/identity-and-citizenship/teacher/term-2.pdf with a books.json record). Earlier waves: none. Verdict: COMPLETE — contents and standards read; the two units' lessons placed below, marked TEACHER. Contents map: Unit 4 أنا مواطن مسؤول (I Am a Responsible Citizen) printed p. 24 — lessons: حقوقي في وطني (My rights in my homeland), واجباتي تجاه وطني (My duties toward my homeland), وطني أمانة (My homeland is a trust); Unit 5 أنا مواطن عالمي (I Am a Global Citizen) printed p. 39 — lessons: نحن متساوون (We are equal), لنعش بأمان (Let us live in safety), صوتنا مسموع (Our voice is heard). The term's two standards are both "knowing rights and duties and committing to them" — in the homeland, then in the world. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/oman-placements.md. Teacher guide — evidence only, outside the acceptance count. Oman's student books were not held — its placements are based on teacher guides.
 
@@ -12,7 +12,15 @@ countries: Oman
 | Sub lesson 2 — Oman part — culture-and-work/human-rights-rights-every-person-has — Unit 2, Lesson 1: حقوقي الأسرية (My family rights) — teaches (TEACHER): the child's rights begin at home — she expresses her family rights as real claims on the people closest to her — Oman Grade 3 Identity & Citizenship TG T1, printed pp. 49–55 (teacher guide — evidence) | Oman, *Identity and Citizenship Grade 3, Term 1* (teacher guide), Unit 2, Lesson 1: حقوقي الأسرية (My family rights) — printed pp. 49–55 (teacher guide — evidence) |
 | Sub lesson 3 — Oman's way — the books' own teaching way | Oman — the books' own way of teaching (see below) |
 
-**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Oman), named here, counted nowhere.**
+**Book 3:** *History and Social Science, Class Nine (Experimental version)* (student book, Bangla + English parallel editions; covers the Grade 9 AND Grade 10 records) — Title as printed: History and Social Science, Class Nine (Experimental version); the grade-10 repo paths hold byte-identical copies of this same book (duplicate shelving proven by the History wave). Grade: Grade 9–10 shared (student/teacher: STUDENT). Publisher: National Curriculum and Textbook Board (NCTB), Dhaka, Bangladesh; year 2022; no ISBN printed. PDF pages: 192 in each edition (cover verified against the record title; printed p. = PDF p. - 7). Earlier waves: Geography wave placed the geography parts; History wave placed the history parts (11 placements, filed once for all four of this book's records); Economics wave placed 19 economics placements. Verdict: COMPLETE. Editions: English read fully for the remaining strands (50,152,317 bytes, blob-SHA verified); Bangla parallel edition spot-checked (8,397,648 bytes, blob-SHA verified; cover and the rights spreads — same content, placed once for both editions). Contents map: Civics/Citizenship/Government pp. 49–73 (Political Structure and Civic Responsibility); Integrated SS / Morals pp. 115–124 (Social Structure in Personal Life); Self-identity and Mental Behaviour pp. 15–26 (psychology — named, not placed: the Health/psychology strand is outside this wave's scope); Geography / History / Economics parts already placed or out of scope as filed by the earlier waves. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/bangladesh-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bangladesh part — culture-and-work/human-rights-born-with-us — Social Structure in Personal Life — teaches: human rights as rights a person is born with — inherent, unconditional and indivisible, carrying responsibilities and ending where another's rights begin; from the French Revolution's declaration and the US Bill of Rights to the Universal Declaration of Human Rights (1948, 30 articles) — Bangladesh Grade 9 BD G9-10 HSS, printed pp. 120, 122–123 | Bangladesh, *History and Social Science, Class Nine (Experimental version)* (student book), Social Structure in Personal Life — printed pp. 120, 122–123 |
+
+**Acceptance count: taught in 1 country (Bangladesh). Oman is named here as teacher-guide evidence only, counted nowhere.**
+
+Bangladesh's own way (Grade 9–10): civics becomes a full field manual — pupils questionnaire a real Union Parishad chairman and their own headteacher, then learn the whole local-government ladder tier by tier with membership counts, and meet the United Nations through Bangladesh's own seat in it (Bangabandhu's 1974 Bengali speech) before the Charter is summarised.
 
 Oman's own way (Identity and Citizenship Grade 3, Term 2) (teacher guide — evidence): at Grade 3 the subject turns from feelings to law-shaped habits — rights first, then duties, then the homeland held as a trust (أمانة); and the same rights-and-duties pair is then taught again at world scale, where equality, safety and being heard are the child's global rights.
 
@@ -22,4 +30,6 @@ Registry note: the original coined string `culture-and-work/human-rights-rights-
 
 Country honesty note: Oman's student books were not held — its placements are based on teacher guides, and the G7 Term-2 content is a named GAP (the Grade 7 framework assigns the Basic Statute of the State and government institutions to Grade 7, no Term 1 unit teaches them, and the Term 2 book was not reached, as filed in the oman-placements.md record-only section); all Oman placements in this lesson are evidence only, outside acceptance counts.
 
-Searchable tags: human rights, Oman, social studies, culture-and-work
+Searchable tags: human rights, Oman, social studies, culture-and-work, Bangladesh
+
+Registry note: the original coined string `culture-and-work/human-rights-born-with-us` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/human-rights`.

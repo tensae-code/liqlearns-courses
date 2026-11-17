@@ -1,6 +1,6 @@
 # Sources — The UN — the League's successor, built to last
 
-countries: Ethiopia, Turkmenistan, Venezuela, Samoa, Somalia, Fiji
+countries: Ethiopia, Turkmenistan, Venezuela, Samoa, Somalia, Fiji, Bangladesh
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -25,7 +25,15 @@ countries: Ethiopia, Turkmenistan, Venezuela, Samoa, Somalia, Fiji
 
 | Somalia part — global-issues/the-un-the-leagues-successor-built-to-last — Ummadaha Midoobay (The United Nations) — teaches: the United Nations — the world's organisation of states, what it is and what it is for — Somalia Grade 6 Barbaarinta iyo Cilmiga Beesha, printed p. 46 | Somalia, *Barbaarinta iyo Cilmiga Beesha, Fasalka Lixaad* (student book), Ummadaha Midoobay (The United Nations) — printed p. 46 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Turkmenistan, Venezuela, Samoa, Somalia, Fiji).**
+**Book 7:** *History and Social Science, Class Nine (Experimental version)* (student book, Bangla + English parallel editions; covers the Grade 9 AND Grade 10 records) — Title as printed: History and Social Science, Class Nine (Experimental version); the grade-10 repo paths hold byte-identical copies of this same book (duplicate shelving proven by the History wave). Grade: Grade 9–10 shared (student/teacher: STUDENT). Publisher: National Curriculum and Textbook Board (NCTB), Dhaka, Bangladesh; year 2022; no ISBN printed. PDF pages: 192 in each edition (cover verified against the record title; printed p. = PDF p. - 7). Earlier waves: Geography wave placed the geography parts; History wave placed the history parts (11 placements, filed once for all four of this book's records); Economics wave placed 19 economics placements. Verdict: COMPLETE. Editions: English read fully for the remaining strands (50,152,317 bytes, blob-SHA verified); Bangla parallel edition spot-checked (8,397,648 bytes, blob-SHA verified; cover and the rights spreads — same content, placed once for both editions). Contents map: Civics/Citizenship/Government pp. 49–73 (Political Structure and Civic Responsibility); Integrated SS / Morals pp. 115–124 (Social Structure in Personal Life); Self-identity and Mental Behaviour pp. 15–26 (psychology — named, not placed: the Health/psychology strand is outside this wave's scope); Geography / History / Economics parts already placed or out of scope as filed by the earlier waves. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/bangladesh-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bangladesh part — global-issues/the-un-the-leagues-successor-built-to-last — Political Structure and Civic Responsibility — teaches: why the UN was built — the League of Nations (1920) failed, two world wars killed tens of millions, and the Atlantic Charter, Moscow, Tehran, Dumbarton Oaks and Yalta meetings led to the Charter signed at San Francisco, in force 24 October 1945, now 193 members — Bangladesh Grade 9 BD G9-10 HSS, printed pp. 54–58 | Bangladesh, *History and Social Science, Class Nine (Experimental version)* (student book), Political Structure and Civic Responsibility — printed pp. 54–58 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Turkmenistan, Venezuela, Samoa, Somalia, Fiji, Bangladesh).**
+
+Bangladesh's own way (Grade 9–10): civics becomes a full field manual — pupils questionnaire a real Union Parishad chairman and their own headteacher, then learn the whole local-government ladder tier by tier with membership counts, and meet the United Nations through Bangladesh's own seat in it (Bangabandhu's 1974 Bengali speech) before the Charter is summarised.
 
 Dating error carried, taught corrected: §5.1 of the Grade 10 book dates the League of Nations "1926 to 1946" (printed pp. 112–117). The League was founded in 1919, as the book's own Unit 4 teaches; this lesson and the League lesson teach 1919, and the error is named in sources only. The book's Unit 5 summary also speaks of "the fall of Communism in Asia during the Cold War" where the unit's closing lesson is the collapse of the Soviet Union — no content is built on the summary's phrase.
 
@@ -33,7 +41,7 @@ Samoa's own way: Government is taught as Samoa's own Westminster-style parliamen
 
 Fiji's own way (Grade 10): Government is taught from Fiji outward — Fiji's own traditional chiefly government and western-style government first, then Fiji's Parliament as the worked example of parliamentary rule, then the United Nations.
 
-Searchable tags: United Nations, Charter 1945, General Assembly, Security Council, Secretariat, International Court of Justice, Grade 10, Samoa, Somalia, Fiji
+Searchable tags: United Nations, Charter 1945, General Assembly, Security Council, Secretariat, International Court of Justice, Grade 10, Samoa, Somalia, Fiji, Bangladesh
 
 ## History fix (2026-11-12) — provenance completed
 

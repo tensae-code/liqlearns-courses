@@ -1,6 +1,6 @@
 # Sources — Jobs People Do in Our Community
 
-countries: Latvia, Philippines, Serbia
+countries: Latvia, Philippines, Serbia, Bangladesh
 
 **Book 1:** *Sociālās zinības 1. klase* (teacher guide, Latvian) — Latviešu valodas aģentūra (Latvian Language Agency); year 2023; ISBN 978-9934-617-33-1. Title as printed: Sociālās zinības 1. klase — Latviešu valodas un sociālo zinību satura integrēta apguve lingvistiski neviendabīgā vidē — Metodisks līdzeklis skolotājam. Grade: Grade 1 (student/teacher: TEACHER). PDF pages: 61 (cover/title page verified against the record title — author Linda Krastiņa and ISBN match the record exactly). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Integrated SS (school life) printed pp. 7–17; Morals/Values (safe relationships, honesty, emotions) printed pp. 18–21; Culture in society (family/class festivals) printed pp. 22–24; Integrated SS (work/jobs, wants and needs) printed pp. 25–27; Appendices (worksheets/apparatus, inventory only) printed pp. 28–60. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/latvia-placements-b.md. Teacher guide — evidence only, outside the acceptance count.
 
@@ -17,7 +17,15 @@ countries: Latvia, Philippines, Serbia
 
 | Serbia part — culture-and-work/peoples-jobs-in-village-and-town — Занимања људи (People's occupations) — teaches: the work people do differs by place — in villages mostly farming and raising animals, in smaller settlements craft workshops with their craftspeople, in towns factories making the goods village and town both need, and many people working in trade — Serbia Grade 2 Свет око нас 2, printed p. 44 | Serbia, *Свет око нас 2* (student book), Занимања људи (People's occupations) — printed p. 44 |
 
-**Acceptance count: taught in 2 countries (Philippines, Serbia). Latvia is named here as teacher-guide evidence only, counted nowhere.**
+**Book 4:** *History and Social Science, Class Seven (Experimental version)* (student book, English + Bangla parallel editions) — Title as printed: History and Social Science, Class Seven (Experimental version). Grade: Grade 7 (student/teacher: STUDENT). Publisher: National Curriculum and Textbook Board (NCTB), Dhaka, Bangladesh; year 2022; no ISBN printed. PDF pages: 184 in each edition (cover verified against the record title; printed p. = PDF p. - 7). Earlier waves: Geography wave placed the geography parts; History wave placed the history parts; Economics wave placed 14 economics placements. Verdict: COMPLETE. Editions: English read fully for the remaining strands (15,248,855 bytes, blob-SHA verified); Bangla parallel edition spot-checked (16,307,443 bytes, blob-SHA verified; cover, the values spread at printed p. 100 and the social-contexts spread at printed p. 126 — same content, placed once for both editions). Contents map: Integrated SS / Morals pp. 32–48 (Similarities and Differences between People); Civics/Citizenship/Government pp. 93–118 (Socio-political Structures and Customs); Integrated SS pp. 119–131 (Individual's Stand and Role in a Changing Context); Geography / History / Economics parts already placed or out of scope as filed by the earlier waves. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/bangladesh-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bangladesh part — first-steps/professional-communities-people-who-serve-us — Similarities and Differences between People — teaches: professional communities — cleaners, doctors, nurses and others each keep society running (a hospital stops without its cleaners), found by inquiry around the school — Bangladesh Grade 7 BD G7 HSS, printed pp. 45–46 | Bangladesh, *History and Social Science, Class Seven (Experimental version)* (student book), Similarities and Differences between People — printed pp. 45–46 |
+
+**Acceptance count: taught in 3 countries (Philippines, Serbia, Bangladesh). Latvia is named here as teacher-guide evidence only, counted nowhere.**
+
+Bangladesh's own way (Grade 7): civics is learned by doing it — the class runs a real club election with an Election Commission, code of conduct and manifestos, then sits as a Shadow Parliament and passes a law, and only then is told that the national Parliament works the same way; sociology is anchored in living communities the class visits (the Bedey boat fleet) and in guests the class interviews (Sharifa, a third-gender person).
 
 Latvia's own way: social studies is taught integrated with the Latvian language itself (CLIL) for linguistically mixed classes — every topic is framed as a question ("What does it mean to be a pupil?") and the social content is carried by the vocabulary and courtesies of school life.
 
@@ -27,4 +35,6 @@ Philippines's own way: Grade 2 social studies is organised by community ("Buhay 
 Serbia's own way (Grade 2 Свет око нас): the second year widens the circles again — family rules are now made by all members together, the settlement's people become "fellow citizens" with shared things (street, park, river, school, bus are all "ours"), and the state enters through its symbols: flag, coat of arms and the anthem "Боже правде", with the behaviour owed while it plays.
 
 Registry note: the original coined string `culture-and-work/peoples-jobs-in-village-and-town` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/jobs-people-do-in-our-community`.
-Searchable tags: jobs people do in our community, Latvia, Philippines, Serbia, social studies, first-steps
+Searchable tags: jobs people do in our community, Latvia, Philippines, Serbia, social studies, first-steps, Bangladesh
+
+Registry note: the original coined string `first-steps/professional-communities-people-who-serve-us` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/jobs-people-do-in-our-community`.

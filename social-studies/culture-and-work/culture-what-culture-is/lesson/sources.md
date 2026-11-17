@@ -1,6 +1,6 @@
 # Sources — Culture — what culture is
 
-countries: Ethiopia, Mongolia, Bahamas, Zimbabwe, Colombia, Kuwait, Jordan, Bhutan, Kiribati, Sierra Leone, Tanzania, Eritrea, Syria
+countries: Ethiopia, Mongolia, Bahamas, Zimbabwe, Colombia, Kuwait, Jordan, Bhutan, Kiribati, Sierra Leone, Tanzania, Eritrea, Syria, Bangladesh
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -83,7 +83,15 @@ countries: Ethiopia, Mongolia, Bahamas, Zimbabwe, Colombia, Kuwait, Jordan, Bhut
 | Syria part 1 — culture-and-work/culture-what-culture-is — Unit 3 Lesson 3 المؤسسات الثقافية (Cultural institutions), opening — teaches: what a society's culture is — the literature, religion, arts and customs that mark it off from others, with Arab culture named among the world's richest — Syria Grade 6 Social Studies G6, printed p. 76 | Syria, *Social Studies Grade 6* (student book), Unit 3 Lesson 3 المؤسسات الثقافية (Cultural institutions), opening — printed p. 76 (the same Grade 6 book also sits behind Syria's Grade 5 record — RECORD-ONLY, WRONG BOOK BEHIND THE RECORD; its content is filed once, under Grade 6, exactly as filed) |
 | Syria's way — the book's own teaching way | Syria — the books' own way of teaching (see below) |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Mongolia, Bahamas, Colombia, Kuwait, Jordan, Bhutan, Tanzania, Eritrea, Syria). Zimbabwe, Kiribati and Sierra Leone are named here as teacher-guide evidence only, counted nowhere.**
+**Book 24:** *History and Social Science, Class Six (Experimental version)* (student book, English + Bangla parallel editions) — Title as printed: History and Social Science, Class Six (Experimental version). Grade: Grade 6 (student/teacher: STUDENT). Publisher: National Curriculum and Textbook Board (NCTB), Dhaka, Bangladesh; year 2022; no ISBN printed. PDF pages: 184 in each edition (cover verified against the record title; printed p. = PDF p. - 7). Earlier waves: Geography wave placed the geography parts (incl. landforms, maps, Society and Resources geography parts); History wave placed the history parts; Economics wave placed 5 economics placements. Verdict: COMPLETE. Editions: English read fully for the remaining strands (17,443,796 bytes, blob-SHA verified); Bangla parallel edition spot-checked (17,887,130 bytes, blob-SHA verified; cover, the rules discussion at printed p. 27 and the social-structure spread at printed p. 129 — same content, placed once for both editions). Contents map: Integrated SS pp. 1–25 (My Different Identity); Civics pp. 26–31 (Active Citizens Club); Morals/Values + social-structure parts pp. 125–133 (Natural and Social Structures); Geography / History / Economics / Science parts already placed or out of scope as filed by the earlier waves. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/bangladesh-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bangladesh part — culture-and-work/culture-what-culture-is — Natural and Social Structures — teaches: culture as a people's whole pattern of life (food, language, dress, games, rituals, beliefs), differing between regions and ethnic groups inside one country, and never to be judged good or bad against another culture — Bangladesh Grade 6 BD G6 HSS, printed p. 132 | Bangladesh, *History and Social Science, Class Six (Experimental version)* (student book), Natural and Social Structures — printed p. 132 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Mongolia, Bahamas, Colombia, Kuwait, Jordan, Bhutan, Tanzania, Eritrea, Syria, Bangladesh). Zimbabwe, Kiribati and Sierra Leone are named here as teacher-guide evidence only, counted nowhere.**
+
+Bangladesh's own way (Grade 6): an inquiry-based combined History and Social Science course taught through a class teacher character (Khushi Apa) and group investigations; civics begins not with definitions but with a football game played with and without rules, and sociology is built from a village flood story (the Dharmagola grain bank) before any term is named.
 
 Tanzania's own way (Standard Three, Social Studies Standard Three Pupil's Book): culture is taught through the body — each community's greeting is a different act (Zaramo shake hands, Hehe kiss hands, Kinga rub shoulders, Sukuma women kneel for men) and greeting itself is taught as manners and respect; the family chapter names seven Tanzanian family types, including orphan and grandparent families.
 
@@ -99,7 +107,7 @@ Eritrea's own way (ER G6 Citizenship Education): a standalone Citizenship Educat
 
 Syria's own way (Social Studies Grade 6): civics is taught inside the Arab-world regional tour — the state lesson interrupts the geography of Africa to define the state from Syria's own case (sovereignty won 17 April 1946, land, nation, authority), and the family/institutions unit teaches society as a ladder of organised groups, from the family cell to the cultural institutions the Ministry of Culture runs.
 
-Searchable tags: culture: what culture is, culture and work, Eritrea, social studies, ethiopia, Mongolia, Нийгэм судлал, Sierra Leone, Syria
+Searchable tags: culture: what culture is, culture and work, Eritrea, social studies, ethiopia, Mongolia, Нийгэм судлал, Sierra Leone, Syria, Bangladesh
 
 Bahamas' own way (Grade 1): One integrated "Social Science" book fusing Religious Studies, Science/Health and Social Studies in a single picture-led volume; Geography enters through the home island itself — The Bahamas as a group of islands, its national symbols, mailboat/jitney transport between islands, conch-and-crawfish fishing, national parks and bush-medicine plants.
 

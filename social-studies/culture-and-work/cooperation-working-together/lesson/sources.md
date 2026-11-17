@@ -1,6 +1,6 @@
 # Sources — Cooperation Working Together
 
-countries: Mauritius, Libya, Oman
+countries: Mauritius, Libya, Oman, Bangladesh
 
 **Book 1:** *Values and Citizenship Education — Grade 1 Teacher’s Handbook* (teacher guide, English) — Title as printed: Values and Citizenship Education — Grade 1 Teacher’s Handbook. Grade: Grade 1 (student/teacher: TEACHER). Publisher: Mauritius Institute of Education (MIE); year 2020; ISBN 978-99949-53-93-6. PDF pages: no PDF — read via FlipHTML5 flipbook (88 pages, printed pp. i–80); cover/imprint page verified against the record title (Lesson 14 "About my country" named in the record is present, printed p. 70). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Morals/Values pp. 2–59, 75–79; Civics/Citizenship (national symbols, country identity) pp. 62–74; Health (body care, named only, not placed) pp. 8–20. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mauritius-placements-b.md. Teacher guide — evidence only, outside the acceptance count. Staging note: the book exists only as a FlipHTML5 flipbook — no PDF file was downloadable, so there is no file to stage under the 2026-11-13 rule; the read is from the flipbook’s full text.
 
@@ -17,11 +17,19 @@ countries: Mauritius, Libya, Oman
 
 | Oman part — first-steps/working-together-in-my-family — Unit 2: أتواصل مع عائلتي / أتعاون مع عائلتي / أتشاور مع عائلتي (I communicate / cooperate / consult with my family) — teaches (TEACHER): the family as the first school of citizenship — positive interaction among its members is the unit's standard, practised as three habits: talking together, working together, and deciding together (شاور — consultation) — Oman Grade 2 Identity & Citizenship TG T1, printed pp. 45–60 (teacher guide — evidence) | Oman, *Identity and Citizenship Grade 2, Term 1* (teacher guide), Unit 2: أتواصل مع عائلتي / أتعاون مع عائلتي / أتشاور مع عائلتي (I communicate / cooperate / consult with my family) — printed pp. 45–60 (teacher guide — evidence) |
 
-**Acceptance count: taught in 1 country (Libya). Mauritius is named here as teacher-guide evidence only, counted nowhere. Oman is named here as teacher-guide evidence only, counted nowhere.**
+**Book 4:** *History and Social Science, Class Seven (Experimental version)* (student book, English + Bangla parallel editions) — Title as printed: History and Social Science, Class Seven (Experimental version). Grade: Grade 7 (student/teacher: STUDENT). Publisher: National Curriculum and Textbook Board (NCTB), Dhaka, Bangladesh; year 2022; no ISBN printed. PDF pages: 184 in each edition (cover verified against the record title; printed p. = PDF p. - 7). Earlier waves: Geography wave placed the geography parts; History wave placed the history parts; Economics wave placed 14 economics placements. Verdict: COMPLETE. Editions: English read fully for the remaining strands (15,248,855 bytes, blob-SHA verified); Bangla parallel edition spot-checked (16,307,443 bytes, blob-SHA verified; cover, the values spread at printed p. 100 and the social-contexts spread at printed p. 126 — same content, placed once for both editions). Contents map: Integrated SS / Morals pp. 32–48 (Similarities and Differences between People); Civics/Citizenship/Government pp. 93–118 (Socio-political Structures and Customs); Integrated SS pp. 119–131 (Individual's Stand and Role in a Changing Context); Geography / History / Economics parts already placed or out of scope as filed by the earlier waves. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/bangladesh-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bangladesh part — culture-and-work/mutual-cooperation — Similarities and Differences between People — teaches: society survives by mutual cooperation — help is returned with thanks, gifts and service, not money alone; the class lists year-long help for neighbouring communities (a rest day for the cleaners, books for poor children, reading to the elderly, disaster help) — Bangladesh Grade 7 BD G7 HSS, printed pp. 46–48 | Bangladesh, *History and Social Science, Class Seven (Experimental version)* (student book), Similarities and Differences between People — printed pp. 46–48 |
+
+**Acceptance count: taught in 2 countries (Libya, Bangladesh). Mauritius is named here as teacher-guide evidence only, counted nowhere. Oman is named here as teacher-guide evidence only, counted nowhere.**
+
+Bangladesh's own way (Grade 7): civics is learned by doing it — the class runs a real club election with an Election Commission, code of conduct and manifestos, then sits as a Shadow Parliament and passes a law, and only then is told that the national Parliament works the same way; sociology is anchored in living communities the class visits (the Bedey boat fleet) and in guests the class interviews (Sharifa, a third-gender person).
 
 Mauritius’s own way (teacher guide — evidence): Values taught through the child’s widening circles — self, people around me, then "I love my country" — with Mauritius’s own flag colours, anthem words, and its three islands (Mauritius, Rodrigues, Agalega) as the identity content, and unity taught through the country’s many festivals.
 
-Searchable tags: cooperation working together, Mauritius, social studies, culture-and-work, Libya, Oman
+Searchable tags: cooperation working together, Mauritius, social studies, culture-and-work, Libya, Oman, Bangladesh
 
 Libya's own way (National Education G5): Grade 5 is a pure values book — eight lessons, each a single civic virtue (equality, justice, solidarity, tolerance, accepting the other, dialogue), each anchored in a real instrument a child can hold: the Universal Declaration of Human Rights, the Convention on the Rights of the Child, UNESCO's 1995 Declaration on Tolerance, and the Libyan Scouts' "A World of Peace for Children" charter, which the pupil signs.
 
@@ -30,3 +38,5 @@ Oman's own way (Identity and Citizenship Grade 2, Term 1) (teacher guide — evi
 Registry note: the original coined string `first-steps/working-together-in-my-family` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/cooperation-working-together`.
 
 Country honesty note: Oman's student books were not held — its placements are based on teacher guides, and the G7 Term-2 content is a named GAP (the Grade 7 framework assigns the Basic Statute of the State and government institutions to Grade 7, no Term 1 unit teaches them, and the Term 2 book was not reached, as filed in the oman-placements.md record-only section); all Oman placements in this lesson are evidence only, outside acceptance counts.
+
+Registry note: the original coined string `culture-and-work/mutual-cooperation` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/cooperation-working-together`.

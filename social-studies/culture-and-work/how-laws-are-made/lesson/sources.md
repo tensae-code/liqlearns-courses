@@ -1,6 +1,6 @@
 # Sources — How Laws Are Made
 
-countries: Samoa, Mexico
+countries: Samoa, Mexico, Bangladesh
 
 **Book 1:** *Social Studies — Year 10 Book One* (student book, English) — Title as printed: Social Studies — Year 10 Book One. Grade: Year 10 (student/teacher: STUDENT). Publisher: Government of Samoa, Department of Education; year 2001; ISBN 982-517-009-3. PDF pages: 100 (cover/title page verified against the record title; MESC copy, size 2,049,510 B per download list). Read from the MESC ministry source URL recorded in the books.json record — the same MESC PDF the Geography wave verified byte-for-byte against the record and already secured in GitHub (in_pushed: true) — via the browser text route, cover/title page and ISBN checked against the record before reading; no file staged — the book is already in GitHub, as filed in samoa-placements.md. Earlier waves: Geography wave placed Unit 3–4 skills (graphs, census, pp. 59–98) and named Units 1–2 "Civics, not placed"; History wave placed Unit 1 Topic 1's development narrative, Unit 2's historical case studies, the rights-documents chain, the UDHR and the Mau timeline (pp. 5–6, 10, 25–48) and named the present-day civics parts not placed (voting/law-making pp. 8–18, Japan pp. 19–22, UN/Amnesty/protest pp. 33–45, 48–58); Economics wave placed the census/graph skills only. The civics teaching named by both waves was read and placed here. Verdict: COMPLETE. Contents map: Civics/Citizenship/Government pp. 5–58 (Unit 1 Government; Unit 2 Human Rights); Geography/Skills pp. 59–98 (Units 3–4, placed by Geography wave). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/samoa-placements.md.
 
@@ -12,7 +12,15 @@ countries: Samoa, Mexico
 | Sub lesson 2 — Samoa's way — the book's own teaching way | Samoa — the book's own way of teaching (see below) |
 | Sub lesson — culture-and-work/making-and-changing-laws — Creación y transformación de normas y leyes orientadas a favorecer la igualdad, la libertad, la justicia y los derechos humanos — teaches: the Universal Declaration as the foundation norm from which laws, treaties and conventions are made; in Mexico deputies and senators publish and reform laws through a staged legislative procedure, with everyone's participation aimed at collective wellbeing — Mexico Grade 8 Ética, naturaleza y sociedades 2 (secundaria), printed pp. 253–258 | Mexico, *Ética, naturaleza y sociedades 2, secundaria* (student book), Creación y transformación de normas y leyes orientadas a favorecer la igualdad, la libertad, la justicia y los derechos humanos — printed pp. 253–258 |
 
-**Acceptance count: taught in 2 countries (Samoa, Mexico).**
+**Book 3:** *History and Social Science, Class Seven (Experimental version)* (student book, English + Bangla parallel editions) — Title as printed: History and Social Science, Class Seven (Experimental version). Grade: Grade 7 (student/teacher: STUDENT). Publisher: National Curriculum and Textbook Board (NCTB), Dhaka, Bangladesh; year 2022; no ISBN printed. PDF pages: 184 in each edition (cover verified against the record title; printed p. = PDF p. - 7). Earlier waves: Geography wave placed the geography parts; History wave placed the history parts; Economics wave placed 14 economics placements. Verdict: COMPLETE. Editions: English read fully for the remaining strands (15,248,855 bytes, blob-SHA verified); Bangla parallel edition spot-checked (16,307,443 bytes, blob-SHA verified; cover, the values spread at printed p. 100 and the social-contexts spread at printed p. 126 — same content, placed once for both editions). Contents map: Integrated SS / Morals pp. 32–48 (Similarities and Differences between People); Civics/Citizenship/Government pp. 93–118 (Socio-political Structures and Customs); Integrated SS pp. 119–131 (Individual's Stand and Role in a Changing Context); Geography / History / Economics parts already placed or out of scope as filed by the earlier waves. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/bangladesh-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bangladesh part — culture-and-work/how-a-law-is-made — Socio-political Structures and Customs — teaches: law-making acted out in a Shadow Parliament — a bill is drafted, presented, debated by government and opposition MPs, passed by the Speaker's voice vote and signed by the President to become an Act, with President, Prime Minister, ministers and Speaker in their real roles — Bangladesh Grade 7 BD G7 HSS, printed pp. 110–112 | Bangladesh, *History and Social Science, Class Seven (Experimental version)* (student book), Socio-political Structures and Customs — printed pp. 110–112 |
+
+**Acceptance count: taught in 3 countries (Samoa, Mexico, Bangladesh).**
+
+Bangladesh's own way (Grade 7): civics is learned by doing it — the class runs a real club election with an Election Commission, code of conduct and manifestos, then sits as a Shadow Parliament and passes a law, and only then is told that the national Parliament works the same way; sociology is anchored in living communities the class visits (the Bedey boat fleet) and in guests the class interviews (Sharifa, a third-gender person).
 
 Mexico's own way (Grade 8 Ética, naturaleza y sociedades): the second year turns from living together to judging and acting — pupils weigh ethical judgements on real injustice, learn how laws are made and changed in Mexico's own Congress, practise mediation, and end as watchdogs: citizen participation is taught as the duty to see public money administered with honesty, transparency and legality.
 
@@ -22,4 +30,6 @@ Samoa's own way: Government is taught as Samoa's own Westminster-style parliamen
 
 Registry note: the original coined string `culture-and-work/how-laws-are-made-in-samoa` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/how-laws-are-made`.
 
-Searchable tags: how laws are made, Samoa, social studies, culture-and-work, Mexico
+Searchable tags: how laws are made, Samoa, social studies, culture-and-work, Mexico, Bangladesh
+
+Registry note: the original coined string `culture-and-work/how-a-law-is-made` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/how-laws-are-made`.

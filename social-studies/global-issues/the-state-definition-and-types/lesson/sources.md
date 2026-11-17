@@ -1,6 +1,6 @@
 # Sources — The State — Definition and Types
 
-countries: Egypt, Haiti, Afghanistan, Eritrea, Mexico, Belarus, Syria
+countries: Egypt, Haiti, Afghanistan, Eritrea, Mexico, Belarus, Syria, Bangladesh
 
 **Book 1:** *الجغرافيا السياسية (Political Geography) — كتاب الطالب والأنشطة والتدريبات (Student Book, Activities and Exercises)* (student book with activities, Arabic) — Egypt, Ministry of Education and Technical Education, Egypt; no year or ISBN on the cover pages read (the file is the ministry's 2026-folder student book). Title as printed: الجغرافيا السياسية (Political Geography). Grade 12, Third Secondary, Term 1 (student). 172 PDF pp. (cover verified against the record title; 28,573,835 bytes = record size exactly, from the recorded Azure source; staged in phase3-staging/grade-12/gov/egypt/Geography_Sec3.pdf under the push-don't-delete rule — its books.json record already existed there). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/egypt-placements.md.
 
@@ -40,7 +40,15 @@ countries: Egypt, Haiti, Afghanistan, Eritrea, Mexico, Belarus, Syria
 | Syria part 1 — global-issues/the-state-definition-and-types — Unit 1 Lesson 5 الدولة مفهومها ومقوماتها (The state: its concept and components) — teaches: why the state arose (to organise society, fix roles, secure rights against duties, justice and equality) and its three unchanging components — land, nation (people) and authority — worked through Syria's own facts (independence 17 April 1946, 185,180 km², about 23 million people, capital Damascus) — Syria Grade 6 Social Studies G6, printed p. 30 | Syria, *Social Studies Grade 6* (student book), Unit 1 Lesson 5 الدولة مفهومها ومقوماتها (The state: its concept and components) — printed p. 30 (the same Grade 6 book also sits behind Syria's Grade 5 record — RECORD-ONLY, WRONG BOOK BEHIND THE RECORD; its content is filed once, under Grade 6, exactly as filed) |
 | Syria's way — the book's own teaching way | Syria — the books' own way of teaching (see below) |
 
-**Acceptance count: taught in 6 countries (Egypt, Afghanistan, Eritrea, Mexico, Belarus, Syria). Haiti is named here as teacher-guide evidence only, counted nowhere.**
+**Book 10:** *History and Social Science, Class Eight (Experimental version)* (student book, Bangla + English parallel editions) — Title as printed: History and Social Science, Class Eight (Experimental version). Grade: Grade 8 (student/teacher: STUDENT). Publisher: National Curriculum and Textbook Board (NCTB), Dhaka, Bangladesh; year 2022; no ISBN printed. PDF pages: 188 in both editions (English cover verified against the record title; printed p. = PDF p. - 7). Earlier waves: Geography wave placed the geography parts; History wave placed the history parts; Economics wave placed 16 economics placements. Verdict: COMPLETE. Editions: English read fully for the remaining strands (release asset full-quality-oversized-books, 131,203,853 bytes, size-verified); Bangla parallel edition spot-checked (13,150,110 bytes, blob-SHA verified; cover, the social-control spread at printed p. 94 and the practice-work spread at printed p. 106 — same chapters at the same spans; the Bangla chapter's internal spread order differs slightly at printed p. 107, where it carries the constitution's four state principles — noted, not placed from a spot-check). Contents map: Integrated SS / Morals pp. 87–101 (Socialisation, Social Control and Social Change) and pp. 102–108 (Changing Context and the Individual's Role); identity/diversity parts of Unity in Uniqueness pp. 13–31 (History wave); Geography / History / Economics parts already placed or out of scope as filed by the earlier waves. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/bangladesh-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bangladesh part — global-issues/the-state-definition-and-types — Context Changes and Role of an Individual — teaches: the concept of the state in Prof. Garner's definition — a society of many people in a certain territory, free from external control, with a well-organised government whose rules the people follow, working through legislative, executive and judicial branches — Bangladesh Grade 8 BD G8 HSS, printed p. 108 | Bangladesh, *History and Social Science, Class Eight (Experimental version)* (student book), Context Changes and Role of an Individual — printed p. 108 |
+
+**Acceptance count: taught in 7 countries (Egypt, Afghanistan, Eritrea, Mexico, Belarus, Syria, Bangladesh). Haiti is named here as teacher-guide evidence only, counted nowhere.**
+
+Bangladesh's own way (Grade 8): sociology is taught as a toolkit for changing one's own society — socialisation, control and change are each defined, then immediately used: the class stops a dowry in a cartoon case, studies Martin Luther King as a movement model, and finishes by setting new norms for itself to practise through the civic club.
 
 Mexico's own way (Grade 8 Ética, naturaleza y sociedades): the second year turns from living together to judging and acting — pupils weigh ethical judgements on real injustice, learn how laws are made and changed in Mexico's own Congress, practise mediation, and end as watchdogs: citizen participation is taught as the duty to see public money administered with honesty, transparency and legality.
 
@@ -54,7 +62,7 @@ Eritrea's own way (ER G7 Social Studies): government is taught as a growth story
 
 Syria's own way (Social Studies Grade 6): civics is taught inside the Arab-world regional tour — the state lesson interrupts the geography of Africa to define the state from Syria's own case (sovereignty won 17 April 1946, land, nation, authority), and the family/institutions unit teaches society as a ladder of organised groups, from the family cell to the cultural institutions the Ministry of Culture runs.
 
-Searchable tags: the state definition and types, Egypt, Eritrea, social studies, global-issues, Haiti, Afghanistan, Mexico, Belarus, Syria
+Searchable tags: the state definition and types, Egypt, Eritrea, social studies, global-issues, Haiti, Afghanistan, Mexico, Belarus, Syria, Bangladesh
 
 Afghanistan's own way (Grade 6 Social Studies): the Afghan state is taught as the child's own house — society needs a state as a family needs order; the 2004 constitution is the "mother law"; the two houses are named in Pashto (Wolesi Jirga, Meshrano Jirga) and every right (children's, women's, human dignity) is grounded first in Islam and then in the constitution's own articles.
 

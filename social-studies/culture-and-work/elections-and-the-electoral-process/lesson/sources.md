@@ -1,6 +1,6 @@
 # Sources — Elections and the Electoral Process
 
-countries: Samoa, Albania
+countries: Samoa, Albania, Bangladesh
 
 **Book 1:** *Social Studies — Year 10 Book One* (student book, English) — Title as printed: Social Studies — Year 10 Book One. Grade: Year 10 (student/teacher: STUDENT). Publisher: Government of Samoa, Department of Education; year 2001; ISBN 982-517-009-3. PDF pages: 100 (cover/title page verified against the record title; MESC copy, size 2,049,510 B per download list). Read from the MESC ministry source URL recorded in the books.json record — the same MESC PDF the Geography wave verified byte-for-byte against the record and already secured in GitHub (in_pushed: true) — via the browser text route, cover/title page and ISBN checked against the record before reading; no file staged — the book is already in GitHub, as filed in samoa-placements.md. Earlier waves: Geography wave placed Unit 3–4 skills (graphs, census, pp. 59–98) and named Units 1–2 "Civics, not placed"; History wave placed Unit 1 Topic 1's development narrative, Unit 2's historical case studies, the rights-documents chain, the UDHR and the Mau timeline (pp. 5–6, 10, 25–48) and named the present-day civics parts not placed (voting/law-making pp. 8–18, Japan pp. 19–22, UN/Amnesty/protest pp. 33–45, 48–58); Economics wave placed the census/graph skills only. The civics teaching named by both waves was read and placed here. Verdict: COMPLETE. Contents map: Civics/Citizenship/Government pp. 5–58 (Unit 1 Government; Unit 2 Human Rights); Geography/Skills pp. 59–98 (Units 3–4, placed by Geography wave). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/samoa-placements.md.
 
@@ -16,7 +16,15 @@ countries: Samoa, Albania
 
 | Albania part — culture-and-work/election-campaigns-and-voting — 2.6 Zgjedhjet dhe përfaqësimi (Elections and representation) — teaches: how elections make representatives, and how class elections compare with local-government elections — Albania Grade 5 Qytetaria teacher guide, printed p. 40 (TEACHER) | Albania, *Libër Mësuesi Qytetaria 5* (teacher guide), 2.6 Zgjedhjet dhe përfaqësimi (Elections and representation) — printed p. 40 (teacher guide — evidence) |
 
-**Acceptance count: taught in 1 country (Samoa). Albania is named here as teacher-guide evidence only, counted nowhere.**
+**Book 3:** *History and Social Science, Class Seven (Experimental version)* (student book, English + Bangla parallel editions) — Title as printed: History and Social Science, Class Seven (Experimental version). Grade: Grade 7 (student/teacher: STUDENT). Publisher: National Curriculum and Textbook Board (NCTB), Dhaka, Bangladesh; year 2022; no ISBN printed. PDF pages: 184 in each edition (cover verified against the record title; printed p. = PDF p. - 7). Earlier waves: Geography wave placed the geography parts; History wave placed the history parts; Economics wave placed 14 economics placements. Verdict: COMPLETE. Editions: English read fully for the remaining strands (15,248,855 bytes, blob-SHA verified); Bangla parallel edition spot-checked (16,307,443 bytes, blob-SHA verified; cover, the values spread at printed p. 100 and the social-contexts spread at printed p. 126 — same content, placed once for both editions). Contents map: Integrated SS / Morals pp. 32–48 (Similarities and Differences between People); Civics/Citizenship/Government pp. 93–118 (Socio-political Structures and Customs); Integrated SS pp. 119–131 (Individual's Stand and Role in a Changing Context); Geography / History / Economics parts already placed or out of scope as filed by the earlier waves. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/bangladesh-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bangladesh part — culture-and-work/how-elections-work — Socio-political Structures and Customs — teaches: a full club election run properly — posts listed, an Election Commission formed, voter list, candidate symbols, an election code of conduct, panels with slogans and manifestos, ballot papers, counting, and congratulating the winners — Bangladesh Grade 7 BD G7 HSS, printed pp. 105–108 | Bangladesh, *History and Social Science, Class Seven (Experimental version)* (student book), Socio-political Structures and Customs — printed pp. 105–108 |
+
+**Acceptance count: taught in 2 countries (Samoa, Bangladesh). Albania is named here as teacher-guide evidence only, counted nowhere.**
+
+Bangladesh's own way (Grade 7): civics is learned by doing it — the class runs a real club election with an Election Commission, code of conduct and manifestos, then sits as a Shadow Parliament and passes a law, and only then is told that the national Parliament works the same way; sociology is anchored in living communities the class visits (the Bedey boat fleet) and in guests the class interviews (Sharifa, a third-gender person).
 
 Samoa's own way: Government is taught as Samoa's own Westminster-style parliament first (matai seats, the Individual Voters Roll, its parties and its real 2001 election, problems included), then Japan's Peace-Constitution government as the comparison; rights are taught from the classroom's own rights list outward to the UN and Amnesty.
 
@@ -28,4 +36,6 @@ Albania's own way (teacher guide — evidence): Citizenship in Grade 5 is taught
 Registry note: the original coined string `culture-and-work/election-campaigns-and-voting` is recorded in the Albania provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/elections-and-the-electoral-process`.
 
 
-Searchable tags: elections and the electoral process, Samoa, social studies, culture-and-work, Albania
+Searchable tags: elections and the electoral process, Samoa, social studies, culture-and-work, Albania, Bangladesh
+
+Registry note: the original coined string `culture-and-work/how-elections-work` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/elections-and-the-electoral-process`.

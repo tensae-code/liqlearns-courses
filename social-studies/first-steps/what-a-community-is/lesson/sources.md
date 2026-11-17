@@ -1,6 +1,6 @@
 # Sources — What a Community is
 
-countries: Eritrea
+countries: Eritrea, Bangladesh
 
 **Book 1:** *ማሕበራዊ ትምህርቲ ን4ይ ክፍሊ — መጽሓፍ ተማሃሮ (Social Studies for Grade 4 — Student's Book)* (student book, Tigrinya) — Title as printed: ማሕበራዊ ትምህርቲ ን4ይ ክፍሊ — መጽሓፍ ተማሃሮ (Social Studies for Grade 4 — Student's Book). Grade: Grade 4 (student/teacher: STUDENT). Publisher: Ministry of Education, The State of Eritrea; year 2009; ISBN no ISBN printed on the pages checked. PDF pages: 159 (cover/title page verified against the record title; 30,437,268 bytes and 159 pages, both match the record; grabbed via the mid-size-books-5 release route of the wave:economics record — the tree path is not in the git tree, as the Geography wave found). Earlier waves: Geography wave placed Chapters 3, 4, 5, 6, 8 and Chapter 7 §§7.4, 7.8; History wave placed Chapters 1, 2, 9; Economics wave named Chapter 7 in its contents map only. Chapter 7's community sections were named by the Geography wave as "Civics / Sociology", not placed. Verdict: COMPLETE (contents-first; the remaining strand — Chapter 7 §§7.1–7.3, 7.5–7.7 — read fully in the Tigrinya text, printed pp. 85–119). Contents map: Integrated SS pp. 85–119 (Chapter 7 ኮም Community); Geography pp. 25–84, 120–130 (Chapters 3–6, 8 — Geography wave); History pp. 1–24, 131–159 (Chapters 1, 2, 9 — History wave); Economics within Chapter 7 §7.4 (placed by the Geography wave). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/eritrea-placements.md.
 
@@ -9,8 +9,18 @@ countries: Eritrea
 | Sub lesson 1 — first-steps/what-a-community-is — Chapter 7 §7.1 ኮም እንታይ ማለት እዩ (What is a Community?) — teaches: a community is the people who live together in one place, and its shared needs — a school and playing fields for the children, services and cleanliness, peace and security, and care for the area's trees and plants — worked for together — Eritrea Grade 4 ER G4 Social Studies, printed p. 85 | Eritrea, *ER G4 Social Studies* (student book), Chapter 7 §7.1 ኮም እንታይ ማለት እዩ (What is a Community?) — printed p. 85 |
 | Sub lesson 2 — Eritrea's way — the book's own teaching way | Eritrea — the book's own way of teaching (see below) |
 
-**Acceptance count: taught in 1 country (Eritrea).**
+**Book 2:** *History and Social Science, Class Seven (Experimental version)* (student book, English + Bangla parallel editions) — Title as printed: History and Social Science, Class Seven (Experimental version). Grade: Grade 7 (student/teacher: STUDENT). Publisher: National Curriculum and Textbook Board (NCTB), Dhaka, Bangladesh; year 2022; no ISBN printed. PDF pages: 184 in each edition (cover verified against the record title; printed p. = PDF p. - 7). Earlier waves: Geography wave placed the geography parts; History wave placed the history parts; Economics wave placed 14 economics placements. Verdict: COMPLETE. Editions: English read fully for the remaining strands (15,248,855 bytes, blob-SHA verified); Bangla parallel edition spot-checked (16,307,443 bytes, blob-SHA verified; cover, the values spread at printed p. 100 and the social-contexts spread at printed p. 126 — same content, placed once for both editions). Contents map: Integrated SS / Morals pp. 32–48 (Similarities and Differences between People); Civics/Citizenship/Government pp. 93–118 (Socio-political Structures and Customs); Integrated SS pp. 119–131 (Individual's Stand and Role in a Changing Context); Geography / History / Economics parts already placed or out of scope as filed by the earlier waves. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/bangladesh-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bangladesh part — culture-and-work/what-a-community-is — Similarities and Differences between People — teaches: what makes a community — a group with a sense of identity, unity and mutual cooperation; a person belongs to many communities at once (class, neighbourhood, ethnic group) — Bangladesh Grade 7 BD G7 HSS, printed pp. 36–39 | Bangladesh, *History and Social Science, Class Seven (Experimental version)* (student book), Similarities and Differences between People — printed pp. 36–39 |
+
+**Acceptance count: taught in 2 countries (Eritrea, Bangladesh).**
+
+Bangladesh's own way (Grade 7): civics is learned by doing it — the class runs a real club election with an Election Commission, code of conduct and manifestos, then sits as a Shadow Parliament and passes a law, and only then is told that the national Parliament works the same way; sociology is anchored in living communities the class visits (the Bedey boat fleet) and in guests the class interviews (Sharifa, a third-gender person).
 
 Eritrea's own way (ER G4 Social Studies): the primary book builds the whole idea of community from the child's own neighbourhood — what a community is, how one forms around a factory or a railway, how Eritrea's nine peoples live together in one, what the local administration does for it, how village and town feed each other, and how a village changes — Dehab's village, ten kilometres from Asmara, is the running example.
 
-Searchable tags: what a community is, Eritrea, social studies, first-steps
+Searchable tags: what a community is, Eritrea, social studies, first-steps, Bangladesh
+
+Registry note: the original coined string `culture-and-work/what-a-community-is` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/what-a-community-is`.
