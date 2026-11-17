@@ -1,6 +1,6 @@
 # Sources — Games for Quick Decisions
 
-countries: Ethiopia, Thailand, Philippines, Nicaragua, Cuba, Papua New Guinea, Turkey, Myanmar, Laos, Vietnam, Bhutan
+countries: Ethiopia, Thailand, Philippines, Nicaragua, Cuba, Papua New Guinea, Turkey, Myanmar, Laos, Vietnam, Bhutan, Nepal
 
 **Book 1:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–81 + front matter (88 PDF pages). Printed page = PDF page − 7. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md.
 
@@ -53,7 +53,7 @@ countries: Ethiopia, Thailand, Philippines, Nicaragua, Cuba, Papua New Guinea, T
 | Sub lesson 11 — Squat and stand; the Green-Yellow-Red game (teacher guide — evidence) | Ethiopia, *Grade 1 Teacher Guide*, squat/stand sequence and the Green-Yellow-Red game (teacher guide — evidence), printed pp. 14–15 |
 | Prove-it questions folded from the book's own Chapter 2 review — Sub lesson 9 (teacher guide — evidence) | Ethiopia, *Grade 7 Teacher Guide*, Chapter 2 review answers, printed pp. 25–26 (teacher guide — evidence) |
 | Thailand — Unit 3, Ch. 2 Game activities — games that use thinking and decision skills, lead-up games towards a chosen sport, and turn-and-change movement activities (student book — SSR flipbook sample, PARTIAL) (original target `games-to-play/games-for-quick-decisions`) | Thailand, *Health & PE, Grade 5* (Thailand Grade 5 SSR Health & PE), Unit 3, Ch. 2, printed pp. 67–77 |
-**Acceptance count: taught in 7 countries (Ethiopia, Thailand, Philippines, Turkey, Myanmar, Vietnam, Bhutan).** Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count; the Myanmar teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Laos is added as teacher-guide evidence only (see its Laos section below), named in the countries line but outside the acceptance count. Vietnam is added as student-book stock (see its Vietnam section below), inside the acceptance count.
+**Acceptance count: taught in 8 countries (Ethiopia, Thailand, Philippines, Turkey, Myanmar, Vietnam, Bhutan, Nepal).** Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count; the Myanmar teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Laos is added as teacher-guide evidence only (see its Laos section below), named in the countries line but outside the acceptance count. Vietnam is added as student-book stock (see its Vietnam section below), inside the acceptance count. Nepal is added as student-book stock (see its Nepal section below), inside the acceptance count.
 
 The Grade 1 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -990,3 +990,37 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/bhutan-pe-pl
 | Bhutan — 8.1.5 Tic-Tac-Toe Relay — running relay placing team objects in a hoop grid to complete tic-tac-toe, balancing speed with team decision-making (original target `games-to-play/games-for-quick-decisions`) | Bhutan, *Bhutan Class VI Suggested Activities*, printed p. 19 |
 
 Bhutan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Bhutan is student-book stock, inside the acceptance count, in this lesson. Bhutan's own way is content, as the book lines above record it: competency-based HPE framed by Gross National Happiness — every activity is a movement game carrying a health or social lesson. Game rules are taught only as the placements summarise them; no rules have been invented.
+
+## Nepal — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/nepal-pe-placements.md. The Nepal books stocked in this lesson are Book 1 (Grade 7) and Book 2 (Grade 8). All three Nepal books with PE placements read for this expansion are STUDENT books (Curriculum Development Centre, Government of Nepal), so Nepal is student-book stock, inside the acceptance count, in this lesson. Nepal's own way is content, as the book lines below record it. The Grade 7 book was read in full as a web flipbook (Scribd), as filed. The Grade 8 book in hand is the Nepali edition, read via its parallel English edition, as filed. The books' Health parts are filed in nepal-health-placements.md and placed in the Health course. A fourth Nepal book, Health, Physical Education and Creative Arts, Grade 5 (Oasis Publication, CDC-approved private series), is PARTIAL with its PE part UNREAD beyond the AnyFlip free-view limit — 0 PE placements, nothing stocked from it — and the Grade 9 book (lib.moecdc.gov.np item 819) and the old-series Class Five teacher-guide bundle (item 329) are UNREAD record-only with 0 placements; nothing is stocked from them.
+
+**Book — Nepal Grade 7 — Health and Physical Education, Grade 7 (student book, English):**
+## Health and Physical Education, Grade 7 (student book, English)
+- Title as printed: Health and Physical Education, Grade 7
+- Grade: 7 (STUDENT)
+- Publisher/year/ISBN: Curriculum Development Centre (CDC), Sanothimi, Bhaktapur, Government of Nepal — Revised Edition 2017 (price Rs. 34/-); no ISBN printed in the copy read
+- PDF pages: read in full as a web flipbook (Scribd document 709937956); the AnyFlip copy (bmrsy/nsaw) of the same book only exposes pp. 1–50 in free view
+- Verdict: COMPLETE
+- Tally: 25 placements — 19 existing, 6 NEW
+- Nepal's own way: the PE half runs Exercise, Drill, Physical Training (13 counted PT tables performed to a drum beat), Yoga, Games and Athletics — drill and counted PT are a standing part of the school day, and the games lesson teaches the South Asian games kabaddi and kho-kho alongside volleyball, football and port ball.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal — Games: Dodge Ball — throwing at, dodging and passing in the dodge-ball circle game (original target `games-to-play/games-for-quick-decisions`) | Nepal 7 Health and Physical Education, printed p. 89 |
+
+**Book — Nepal Grade 8 — Health and Physical Education, Grade 8 (student book, Nepali edition in hand; read via the parallel English edition):**
+## Health and Physical Education, Grade 8 (student book, Nepali edition in hand; read via the parallel English edition)
+- Title as printed: स्वास्थ्य तथा शारीरिक शिक्षा कक्षा ८ (Health and Physical Education, Class 8)
+- Grade: 8 (STUDENT)
+- Publisher/year/ISBN: Curriculum Development Centre (CDC), Sanothimi, Bhaktapur, Government of Nepal — Nepali edition first published BS 2072, revised BS 2076 (2019); the parallel English edition read alongside is CDC First Edition 2016, Revised Edition 2018 (price Rs. 42/-); no ISBN printed in either copy
+- PDF pages: 123 (Nepali PDF in hand, 10,222,352 bytes; the target record lists 9,326,433 bytes — the file served by pustakalaya.org is larger than the record's figure)
+- Verdict: COMPLETE (English parallel edition read in full; its table of contents matches the Nepali PDF's printed contents page for page, and the Nepali cover and contents were verified against the record)
+- Tally: 30 placements — 20 existing, 10 NEW
+- Nepal's own way: Grade 8 keeps the same PE spine — Exercise, Drill, counted PT (now also performed to the madal drum), Yoga (adding the eight limbs, Surya Namaskar and pranayama breathing), Games (volleyball, football, basketball, port ball, dodge ball, kabaddi, kho-kho and a first rules-only look at cricket) and Athletics (long-distance running, baton relay, long jump, high jump, shot put).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal — Game: Dodge Ball — how dodge ball is played, its skills and its rules (original target `games-to-play/games-for-quick-decisions`) | Nepal 8 Health and Physical Education, printed p. 104 |
+
+Nepal's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. All Nepal books stocked here are STUDENT books, so Nepal is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; none have been invented.

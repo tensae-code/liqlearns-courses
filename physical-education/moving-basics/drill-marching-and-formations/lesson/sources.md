@@ -1,8 +1,8 @@
 # Sources — Drill, Marching and Formations
 
-countries: El Salvador, Oman, Sri Lanka, Vietnam
+countries: El Salvador, Oman, Sri Lanka, Vietnam, Nepal
 
-**Acceptance count: taught in 2 countries (Sri Lanka, Vietnam).** (founded on teacher-guide evidence only — El Salvador's *Guía Metodológica de Educación Física, Primer Ciclo*, Grades 1–3; no pupil's book in hand). El Salvador is named in the countries line and in the rows below, but outside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count. Vietnam is added as student-book stock (see its Vietnam section below), inside the acceptance count.
+**Acceptance count: taught in 3 countries (Sri Lanka, Vietnam, Nepal).** (founded on teacher-guide evidence only — El Salvador's *Guía Metodológica de Educación Física, Primer Ciclo*, Grades 1–3; no pupil's book in hand). El Salvador is named in the countries line and in the rows below, but outside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count. Vietnam is added as student-book stock (see its Vietnam section below), inside the acceptance count. Nepal is added as student-book stock (see its Nepal section below), inside the acceptance count.
 
 Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/el-salvador-pe-placements.md. El Salvador's book read for this expansion is the *Guía Metodológica de Educación Física, Primer Ciclo* (Grades 1–3) — a TEACHER guide, COMPLETE, read in full via its SlideShare scan (239 pages as scanned; no direct-download route exists for this record, as filed). El Salvador is therefore filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. The other El Salvador records are record-only, as filed in the placements file: two MINED web index pages (ministry index pages, not books — no placements) and two study programmes (Bachillerato and III Ciclo), both UNREAD with 0 placements — study programmes are filed record-only and never placed — nothing is stocked from any of them. The guide's 4 Health-side placements are filed in el-salvador-health-placements.md and placed in the Health course, not in PE.
 
@@ -174,3 +174,52 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-p
 | Vietnam — Phần 2 Chủ đề 1 Bài 3, Bài tập phối hợp đi đều vòng các hướng — marching in step and wheeling round to the right, to the left and to the rear (original target `moving-basics/lining-up-formations-and-drill`) | Vietnam, *Vietnam Grade 5 GDTC 5*, printed p. 20 |
 
 Vietnam's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. All twenty-one Vietnam books stocked in this expansion are STUDENT books, so Vietnam is student-book stock, inside the acceptance count, in this lesson. Game, dance and sport rules are taught only as the placements summarise them; none have been invented.
+
+## Nepal — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/nepal-pe-placements.md. The Nepal books stocked in this lesson are Book 1 (Grade 7), Book 2 (Grade 8) and Book 3 (Grade 5). All three Nepal books with PE placements read for this expansion are STUDENT books (Curriculum Development Centre, Government of Nepal), so Nepal is student-book stock, inside the acceptance count, in this lesson. Nepal's own way is content, as the book lines below record it. The Grade 7 book was read in full as a web flipbook (Scribd), as filed. The Grade 8 book in hand is the Nepali edition, read via its parallel English edition, as filed. The books' Health parts are filed in nepal-health-placements.md and placed in the Health course. A fourth Nepal book, Health, Physical Education and Creative Arts, Grade 5 (Oasis Publication, CDC-approved private series), is PARTIAL with its PE part UNREAD beyond the AnyFlip free-view limit — 0 PE placements, nothing stocked from it — and the Grade 9 book (lib.moecdc.gov.np item 819) and the old-series Class Five teacher-guide bundle (item 329) are UNREAD record-only with 0 placements; nothing is stocked from them.
+
+**Book — Nepal Grade 7 — Health and Physical Education, Grade 7 (student book, English):**
+## Health and Physical Education, Grade 7 (student book, English)
+- Title as printed: Health and Physical Education, Grade 7
+- Grade: 7 (STUDENT)
+- Publisher/year/ISBN: Curriculum Development Centre (CDC), Sanothimi, Bhaktapur, Government of Nepal — Revised Edition 2017 (price Rs. 34/-); no ISBN printed in the copy read
+- PDF pages: read in full as a web flipbook (Scribd document 709937956); the AnyFlip copy (bmrsy/nsaw) of the same book only exposes pp. 1–50 in free view
+- Verdict: COMPLETE
+- Tally: 25 placements — 19 existing, 6 NEW
+- Nepal's own way: the PE half runs Exercise, Drill, Physical Training (13 counted PT tables performed to a drum beat), Yoga, Games and Athletics — drill and counted PT are a standing part of the school day, and the games lesson teaches the South Asian games kabaddi and kho-kho alongside volleyball, football and port ball.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal — Drill — falling in and covering up, attention and stand-at-ease, and right, left and about turns, all on command to a drum beat (original target `moving-basics/drill-marching-and-commands`) | Nepal 7 Health and Physical Education, printed p. 66 |
+| Nepal — Drill — marking time, quick march with eyes right, and halting on command (original target `moving-basics/drill-marching-and-commands`) | Nepal 7 Health and Physical Education, printed p. 67 |
+
+**Book — Nepal Grade 8 — Health and Physical Education, Grade 8 (student book, Nepali edition in hand; read via the parallel English edition):**
+## Health and Physical Education, Grade 8 (student book, Nepali edition in hand; read via the parallel English edition)
+- Title as printed: स्वास्थ्य तथा शारीरिक शिक्षा कक्षा ८ (Health and Physical Education, Class 8)
+- Grade: 8 (STUDENT)
+- Publisher/year/ISBN: Curriculum Development Centre (CDC), Sanothimi, Bhaktapur, Government of Nepal — Nepali edition first published BS 2072, revised BS 2076 (2019); the parallel English edition read alongside is CDC First Edition 2016, Revised Edition 2018 (price Rs. 42/-); no ISBN printed in either copy
+- PDF pages: 123 (Nepali PDF in hand, 10,222,352 bytes; the target record lists 9,326,433 bytes — the file served by pustakalaya.org is larger than the record's figure)
+- Verdict: COMPLETE (English parallel edition read in full; its table of contents matches the Nepali PDF's printed contents page for page, and the Nepali cover and contents were verified against the record)
+- Tally: 30 placements — 20 existing, 10 NEW
+- Nepal's own way: Grade 8 keeps the same PE spine — Exercise, Drill, counted PT (now also performed to the madal drum), Yoga (adding the eight limbs, Surya Namaskar and pranayama breathing), Games (volleyball, football, basketball, port ball, dodge ball, kabaddi, kho-kho and a first rules-only look at cricket) and Athletics (long-distance running, baton relay, long jump, high jump, shot put).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal — Drill — falling out and dismissing the squad (original target `moving-basics/drill-marching-and-commands`) | Nepal 8 Health and Physical Education, printed p. 79 |
+
+**Book — Nepal Grade 5 — My Science, Health and Physical Education, Grade 5 (student book, English):**
+## My Science, Health and Physical Education, Grade 5 (student book, English)
+- Title as printed: My Science, Health and Physical Education, Grade 5
+- Grade: 5 (STUDENT)
+- Publisher/year/ISBN: Government of Nepal, Ministry of Education, Curriculum Development Centre (CDC), Sanothimi — reprint 2075 BS; ISBN 978-9937-8247-3-6
+- PDF pages: 161
+- Verdict: COMPLETE for the PE part (the Science part, lessons 1–15, printed pp. 1–80, is named in the Health file header and NOT placed in either course)
+- Tally: 16 placements — 14 existing, 2 NEW
+- Nepal's own way: the PE part teaches movement from the ground up (locomotor and non-locomotor skills), then drill and the counted PT tables (this grade continues tables from the Grade 4 set), minor games, Nepal's own local games (Dandibiyo and friends), creative imitation games, ball skills, balance work and tumbling.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal — Drill — standing in rows, attention, stand-at-ease and rest, marking time, quick march and halt (original target `moving-basics/drill-marching-and-commands`) | Nepal 5 My Science, Health and Physical Education, printed p. 139 |
+
+Nepal's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. All Nepal books stocked here are STUDENT books, so Nepal is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; none have been invented.

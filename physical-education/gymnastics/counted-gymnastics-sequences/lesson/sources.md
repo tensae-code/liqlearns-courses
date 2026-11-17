@@ -1,6 +1,6 @@
 # Sources — Counted Gymnastics Sequences
 
-countries: Ethiopia, Tajikistan, Maldives, Honduras, Jordan, Cuba, Kuwait, Oman, DR Congo, Myanmar, Laos, Vietnam
+countries: Ethiopia, Tajikistan, Maldives, Honduras, Jordan, Cuba, Kuwait, Oman, DR Congo, Myanmar, Laos, Vietnam, Nepal
 
 **Book — Grade 3 student:** *Grade 3 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 65 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g03-student-placements.md. COMPLETE.
 
@@ -14,7 +14,7 @@ countries: Ethiopia, Tajikistan, Maldives, Honduras, Jordan, Cuba, Kuwait, Oman,
 | Full counted sequences, position by position | Ethiopia, Grade 4 student §5.2 Number gymnastics, printed pp. 51–56 |
 
 | Tajikistan — Part 2, Don't Dawdle, Don't Be Lazy — Get Up for Exercises! — morning gymnastics and why it comes first every day, counted complexes 1–3, exercise complexes with the gymnastic stick, with a ball, for the back and for the abdomen, and физкультминутки (movement minutes) (original target `gymnastics/counted-gymnastics-sequences`) | Tajikistan, *Fizicheskaya Kultura (Physical Culture), Grades 1–4*, Part 2, printed pp. ~75–97 |
-**Acceptance count: taught in 7 countries (Ethiopia, Tajikistan, Honduras, Jordan, DR Congo, Myanmar, Vietnam).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count; the Myanmar teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Laos is added as teacher-guide evidence only (see its Laos section below), named in the countries line but outside the acceptance count. Vietnam is added as student-book stock (see its Vietnam section below), inside the acceptance count.
+**Acceptance count: taught in 8 countries (Ethiopia, Tajikistan, Honduras, Jordan, DR Congo, Myanmar, Vietnam, Nepal).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count; the Myanmar teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Laos is added as teacher-guide evidence only (see its Laos section below), named in the countries line but outside the acceptance count. Vietnam is added as student-book stock (see its Vietnam section below), inside the acceptance count. Nepal is added as student-book stock (see its Nepal section below), inside the acceptance count.
 
 Student books Grades 1–4 are complete. No page is claimed that the placements do not give. Dance and game rules are taught only as the placements summarise them; no rules have been invented for any game the placements leave game-dependent.
 
@@ -640,3 +640,51 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-p
 | Vietnam — Phần Hai Chủ đề 4 Bài 3, Bài thể dục liên hoàn (từ nhịp 21 đến nhịp 30) — the linked routine, counts 21–30, and the full 30 counts together (original target `gymnastics/counted-gymnastics-sequences`) | Vietnam, *Vietnam Grade 7 GDTC 7*, printed p. 46 |
 
 Vietnam's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. All twenty-one Vietnam books stocked in this expansion are STUDENT books, so Vietnam is student-book stock, inside the acceptance count, in this lesson. Game, dance and sport rules are taught only as the placements summarise them; none have been invented.
+
+## Nepal — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/nepal-pe-placements.md. The Nepal books stocked in this lesson are Book 1 (Grade 7), Book 2 (Grade 8) and Book 3 (Grade 5). All three Nepal books with PE placements read for this expansion are STUDENT books (Curriculum Development Centre, Government of Nepal), so Nepal is student-book stock, inside the acceptance count, in this lesson. Nepal's own way is content, as the book lines below record it. The Grade 7 book was read in full as a web flipbook (Scribd), as filed. The Grade 8 book in hand is the Nepali edition, read via its parallel English edition, as filed. The books' Health parts are filed in nepal-health-placements.md and placed in the Health course. A fourth Nepal book, Health, Physical Education and Creative Arts, Grade 5 (Oasis Publication, CDC-approved private series), is PARTIAL with its PE part UNREAD beyond the AnyFlip free-view limit — 0 PE placements, nothing stocked from it — and the Grade 9 book (lib.moecdc.gov.np item 819) and the old-series Class Five teacher-guide bundle (item 329) are UNREAD record-only with 0 placements; nothing is stocked from them.
+
+**Book — Nepal Grade 7 — Health and Physical Education, Grade 7 (student book, English):**
+## Health and Physical Education, Grade 7 (student book, English)
+- Title as printed: Health and Physical Education, Grade 7
+- Grade: 7 (STUDENT)
+- Publisher/year/ISBN: Curriculum Development Centre (CDC), Sanothimi, Bhaktapur, Government of Nepal — Revised Edition 2017 (price Rs. 34/-); no ISBN printed in the copy read
+- PDF pages: read in full as a web flipbook (Scribd document 709937956); the AnyFlip copy (bmrsy/nsaw) of the same book only exposes pp. 1–50 in free view
+- Verdict: COMPLETE
+- Tally: 25 placements — 19 existing, 6 NEW
+- Nepal's own way: the PE half runs Exercise, Drill, Physical Training (13 counted PT tables performed to a drum beat), Yoga, Games and Athletics — drill and counted PT are a standing part of the school day, and the games lesson teaches the South Asian games kabaddi and kho-kho alongside volleyball, football and port ball.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal — Physical Training — the 13 counted PT tables: stretching, hands-and-feet, arms, chest, waist, trunk, chest-and-waist, shoulder-and-neck, jumping and two cooling-down tables (original target `gymnastics/counted-gymnastics-sequences`) | Nepal 7 Health and Physical Education, printed p. 71 |
+
+**Book — Nepal Grade 8 — Health and Physical Education, Grade 8 (student book, Nepali edition in hand; read via the parallel English edition):**
+## Health and Physical Education, Grade 8 (student book, Nepali edition in hand; read via the parallel English edition)
+- Title as printed: स्वास्थ्य तथा शारीरिक शिक्षा कक्षा ८ (Health and Physical Education, Class 8)
+- Grade: 8 (STUDENT)
+- Publisher/year/ISBN: Curriculum Development Centre (CDC), Sanothimi, Bhaktapur, Government of Nepal — Nepali edition first published BS 2072, revised BS 2076 (2019); the parallel English edition read alongside is CDC First Edition 2016, Revised Edition 2018 (price Rs. 42/-); no ISBN printed in either copy
+- PDF pages: 123 (Nepali PDF in hand, 10,222,352 bytes; the target record lists 9,326,433 bytes — the file served by pustakalaya.org is larger than the record's figure)
+- Verdict: COMPLETE (English parallel edition read in full; its table of contents matches the Nepali PDF's printed contents page for page, and the Nepali cover and contents were verified against the record)
+- Tally: 30 placements — 20 existing, 10 NEW
+- Nepal's own way: Grade 8 keeps the same PE spine — Exercise, Drill, counted PT (now also performed to the madal drum), Yoga (adding the eight limbs, Surya Namaskar and pranayama breathing), Games (volleyball, football, basketball, port ball, dodge ball, kabaddi, kho-kho and a first rules-only look at cricket) and Athletics (long-distance running, baton relay, long jump, high jump, shot put).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal — Physical Training — the counted PT tables 3.1–3.13 (stretching, hands-and-feet, arms, chest, waist, trunk, chest-and-waist, shoulder-and-neck, body-rounding, jumping and two cooling-down tables), performed to drum or madal (original target `gymnastics/counted-gymnastics-sequences`) | Nepal 8 Health and Physical Education, printed p. 80 |
+
+**Book — Nepal Grade 5 — My Science, Health and Physical Education, Grade 5 (student book, English):**
+## My Science, Health and Physical Education, Grade 5 (student book, English)
+- Title as printed: My Science, Health and Physical Education, Grade 5
+- Grade: 5 (STUDENT)
+- Publisher/year/ISBN: Government of Nepal, Ministry of Education, Curriculum Development Centre (CDC), Sanothimi — reprint 2075 BS; ISBN 978-9937-8247-3-6
+- PDF pages: 161
+- Verdict: COMPLETE for the PE part (the Science part, lessons 1–15, printed pp. 1–80, is named in the Health file header and NOT placed in either course)
+- Tally: 16 placements — 14 existing, 2 NEW
+- Nepal's own way: the PE part teaches movement from the ground up (locomotor and non-locomotor skills), then drill and the counted PT tables (this grade continues tables from the Grade 4 set), minor games, Nepal's own local games (Dandibiyo and friends), creative imitation games, ball skills, balance work and tumbling.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal — Physical Training (P.T.) — the counted PT tables, continuing the set begun in Grade 4, performed to a rhythm in a group (original target `gymnastics/counted-gymnastics-sequences`) | Nepal 5 My Science, Health and Physical Education, printed p. 141 |
+
+Nepal's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. All Nepal books stocked here are STUDENT books, so Nepal is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; none have been invented.

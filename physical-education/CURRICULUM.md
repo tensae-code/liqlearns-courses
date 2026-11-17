@@ -1121,6 +1121,32 @@ training at secondary level, and, in the older
 framework, EPS organised by values-themes with local
 games of the terroir and Haiti's traditional dances.
 
+**PE expansion — Nepal — BUILT 2026-11-16:** 71 placements
+from Nepal's three CDC student books (Health and Physical
+Education, Grade 7; Health and Physical Education,
+Grade 8 — Nepali edition in hand, read via the parallel
+English edition; and My Science, Health and Physical
+Education, Grade 5) stocked — 68 into existing lessons
+and 3 as 2 new lessons (Kho-Kho; Traditional Games of
+Nepal) — bringing this course to **238 lessons**. All
+three books are STUDENT books, so Nepal is student-book
+stock, inside the acceptance counts, in every lesson it
+touches. The Grade 7 book was read in full as a Scribd
+web flipbook, as filed. No Nepal PE placement resolves
+to a Health-course lesson, so none was excluded as
+Health-bound; the books' Health parts are placed in the
+Health course from nepal-health-placements.md. A fourth
+book (Health, Physical Education and Creative Arts,
+Grade 5, Oasis Publication) is PARTIAL with its PE part
+UNREAD — 0 PE placements — and the Grade 9 book and the
+old-series teacher-guide bundle are UNREAD record-only.
+Nepal's own way is content: drill and the counted PT
+tables performed to a drum beat, yoga, and Nepal's own
+games kabaddi, kho-kho and the local games including
+Dandibiyo. Nepal is the last PE country of this
+expansion: with it, the wave total of 4,881 filed
+placements is fully merged.
+
 ## Unit 1 — Moving Basics
 
 1. **Combined Travelling and On-the-Spot Movements** (`moving-basics/combined-travelling-and-on-the-spot`) — joining travelling movements together, joining on-the-spot movements together, and chaining the two families in one sequence.
@@ -1392,6 +1418,8 @@ games of the terroir and Haiti's traditional dances.
 63. **Traditional Games of Vietnam** (`traditional-games-and-dances/traditional-games-of-vietnam`) — traditional games of Vietnam: the chase and playground games Vietnamese children play — taught in Vietnam's Grade 1–3 GDTC student books as named games: Mèo và chim sẻ (cat and sparrows), Bịt mắt bắt dê (blindfold catching the goat), Dung dăng dung dẻ (the singing circle game), Kéo lưới bắt cá (dragnet fishing), Mèo đuổi chuột (cat chases mouse), Bỏ khăn (drop the handkerchief), Kéo cưa lừa xẻ (the sawing-song game), Chọi gà (cockfighting), Lộn cầu vồng (rainbow somersault) and Đếm sao (counting stars) (Vietnam's student books).
 64. **Traditional Games of Bhutan** (`traditional-games-and-dances/traditional-games-of-bhutan`) — traditional games of Bhutan: Bhutanese games — hopscotch play, 'What Time Is It, Charo?' and the Zeko ring game — taught in Bhutan's Class I PP–I Suggested Activities book as Fun with Hopscotch, hopscotch with hopping and sliding technique points and bean-bag balance variations, and What Time is it, Charo?, the listening-and-chase game (charo = friend), and in its Class IV Suggested Activities book as The Zeko, the ring game played for points from 1, 2 or 3 metres with thrower, retriever, scorer and pole-guard roles (Bhutan's student books).
 65. **Traditional Dances of Haiti** (`traditional-games-and-dances/traditional-dances-of-haiti`) — traditional dances of Haiti: Haiti's traditional dance forms, rehearsed and presented as choreography — taught in Haiti's Programme-Cadre NS1–NS4 as exploring the dance forms existing in the country, then choosing, rehearsing and presenting a traditional dance choreography (Haiti's teacher framework programme, evidence only).
+66. **Kho-Kho** (`traditional-games-and-dances/kho-kho`) — kho-kho: the sitting-chasers game — chasing skills, running and dodging, and the rules — taught in Nepal's Grade 7 Health and Physical Education book as how kho-kho is played (the sitting chasers, the runner's dodging and play around the poles) and in its Grade 8 book as chasing skills (giving kho, taking direction, going round the post), running skills and the rules (Nepal's student books).
+67. **Traditional Games of Nepal** (`traditional-games-and-dances/traditional-games-of-nepal`) — traditional games of Nepal: Nepal's local games, including Dandibiyo — taught in Nepal's Grade 5 My Science, Health and Physical Education book as Nepal's own local games: making a pile fall down, and Dandibiyo (striking the small biyo pivot with the dandi stick); Ghwainkasa, Gatta and Telkasa named (Nepal's student book).
 
 ## Unit 8 — Sport and Its Story
 

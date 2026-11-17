@@ -431,3 +431,9 @@ The PE expansion then added: **Traditional Dances of
 Haiti**
 (`traditional-games-and-dances/traditional-dances-of-haiti`)
 — 1 new lesson, bringing this course to 236 lessons.
+
+The PE expansion then added: **Kho-Kho**
+(`traditional-games-and-dances/kho-kho`) and
+**Traditional Games of Nepal**
+(`traditional-games-and-dances/traditional-games-of-nepal`)
+— 2 new lessons, bringing this course to 238 lessons.
