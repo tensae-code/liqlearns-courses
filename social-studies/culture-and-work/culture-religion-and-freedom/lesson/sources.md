@@ -1,6 +1,6 @@
 # Sources — Culture — religion and freedom of belief
 
-countries: Ethiopia, Iceland, Mongolia
+countries: Ethiopia, Iceland, Mongolia, Ecuador
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -10,14 +10,17 @@ countries: Ethiopia, Iceland, Mongolia
 
 **Book 4:** *Нийгэм судлал XI (Social Studies XI)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2019; ISBN no ISBN printed on the pages checked. Title as printed: Нийгэм судлал XI (Social Studies XI). Grade: Grade 11 (student). ~196 PDF pp. (printed book to p. 191+) (cover verified against the record title via the ministry econtent flipbook — the same book as the secured GitHub release asset; note the release asset is 131,050,983 bytes under a doubled-prefix asset name while the books.json record says 86,546,502 bytes: a library debt, see group log). Verdict: COMPLETE for Geography scope (contents page and chapter structure read in full). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mongolia-placements.md.
 
+**Book 5:** *Estudios Sociales 5to EGB* (student book, Spanish) — Ministerio de Educación del Ecuador; year 2024 (Primera edición); ISBN 978-9942-662-22-4. Title as printed: Estudios Sociales — Educación General Básica, Subnivel Media, Quinto de Básica; Texto del estudiante para la transición curricular. Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 210 (repo copy verified by the earlier waves: 17,844,404 bytes, cover verified; this wave read the record's own ministry source_url copy — same edition, same ISBN, same contents — because VM egress to the GitHub API was down at reading time; title/credits pages checked against the record, and the full contents read). Earlier waves: Geography wave placed pp. 112–182 geography parts / History wave placed pp. 6–110 history parts / Economics wave filed it RECORD-ONLY (no Economics teaching parts; its contents evidence names Sección 8 Organización y participación social, Civics, placed here). Verdict: COMPLETE. Contents map: History pp. 6–110; Geography pp. 112–182; Civics/Citizenship pp. 184–193 (Sección 8: social organisation and participation); Religion p. 185 (laicism and freedom of worship, inside the civics tema). FILE MISMATCH, exactly as filed: the Estudios Sociales 6to EGB record (cover reads Estudios Sociales 6, Sexto de Básica) and the Estudios Sociales 7mo EGB record (cover reads Estudios Sociales 7, Séptimo de Básica) carry this Grade 5 body behind their covers (same ISBN 978-9942-662-22-4, page-for-page identical body) — those records are RECORD-ONLY, FILE MISMATCH, NOT PLACED; their parts are placed once, under Grade 5 (this book); the genuine Ecuador Grade 6 and Grade 7 Estudios Sociales books are NOT held. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/ecuador-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed p. 48 |
 | Five world religions through child narrators — Iceland's way (teacher guide — evidence) | Iceland, *Trúarbrögðin okkar, Kennsluleiðbeiningar* (teacher guide), guide to student book pp. 7–43 — printed p. 8 |
 | Five-week story frame for the religions unit — Iceland's way (teacher guide — evidence) | Iceland, *Trúarbrögðin okkar, Sögurammi* (teacher guide), printed p. 1 |
 | Mongolia part — Cultural freedom | Mongolia, *Нийгэм судлал XI (Social Studies XI)*, Grade 11, Chapter II Culture: Topic 2.4 Cultural freedom — printed p. 60 |
+| Ecuador part — culture-and-work/culture-religion-and-freedom — Sección 8 Tema 1, activity 2 — teaches: laicismo (secularism) and libertad de cultos (freedom of worship) compared in a Venn diagram — what each holds and where they meet — Ecuador Grade 5 Estudios Sociales 5to EGB, printed p. 185 | Ecuador, *Estudios Sociales 5to EGB* (student book), Sección 8 Tema 1, activity 2 — printed p. 185 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Mongolia). Iceland is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 3 countries (Ethiopia, Mongolia, Ecuador). Iceland is named here as teacher-guide evidence only, counted nowhere.**
 
 Mongolia's own way (Grade 11): the final year is the state-and-world year — cultural globalization and freedom, monetary policy, foreign trade and investment, and Mongolia's signature “third neighbour” and soft-power policies taught as named topics. The book's Sociology part (Chapter I Topic 1.2, printed p. 29) and Law/Civics parts (Chapter III, printed pp. 71–103; Chapter V, printed pp. 139–165; Chapter VI except the placed topics, printed pp. 167–176) are named in the placements, not placed. That way is stocked here as the way Mongolia teaches this thing.
 
@@ -25,4 +28,6 @@ Iceland's own way (teacher guide — evidence): World religions are introduced i
 
 Honesty: pupil content comes from the Amhara student book. The Addis Ababa Grade 8 teacher guide is NOT edition-matched to this student book and is truncated (only printed pp. 1–47, Units 1–3, in hand); no guide coverage is claimed for this lesson beyond what its sources rows name.
 
-Searchable tags: culture: religion and freedom of belief, culture and work, social studies, ethiopia, iceland, world religions, Buddhism Hinduism Christianity Islam Judaism, Trúarbrögðin okkar, teacher guide evidence, Iceland Grade 1, Mongolia, Нийгэм судлал
+Ecuador's own way (Estudios Sociales 5to EGB): the Grade 5 book ends its history-and-geography march with a civics section that teaches participation as Ecuador's own story — its social movements, its fight against child labour, and inclusion of women and people with disabilities — practised in miniature through a class assembly that votes on proposals. That evidence is stocked here as the way Ecuador teaches this thing; it is counted in the acceptance count above (student book).
+
+Searchable tags: culture: religion and freedom of belief, culture and work, social studies, ethiopia, iceland, world religions, Buddhism Hinduism Christianity Islam Judaism, Trúarbrögðin okkar, teacher guide evidence, Iceland Grade 1, Mongolia, Нийгэм судлал, Ecuador

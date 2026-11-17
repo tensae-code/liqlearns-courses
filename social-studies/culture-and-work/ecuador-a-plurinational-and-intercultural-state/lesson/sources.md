@@ -1,0 +1,16 @@
+# Sources — Ecuador a Plurinational and Intercultural State
+
+countries: Ecuador
+
+**Book 1:** *Estudios Sociales 8vo EGB* (student book, Spanish) — Ministerio de Educación del Ecuador; year 2024 (Primera edición); ISBN 978-9942-662-28-6. Title as printed: Estudios Sociales — Educación General Básica, Subnivel Superior, Octavo de Básica; Texto del estudiante para la transición curricular. Grade: Grade 8 (student/teacher: STUDENT). PDF pages: 194 (repo copy verified by the earlier waves: 18,079,356 bytes, cover verified; this wave read the full text of the record's own ministry source_url copy — same edition, same ISBN, same contents — because VM egress to the GitHub API was down at reading time; title/credits pages checked against the record). Earlier waves: Geography wave placed pp. 99–142 geography/economics parts and over-placed Sección 3 Tema 1 Diversidad cultural mundial — not re-placed here / History wave placed pp. 6–98 history parts / Economics wave filed the book RECORD-ONLY for Economics (its contents evidence names the Sección 3 Civics temas placed here). Verdict: COMPLETE. Contents map: History pp. 5–98; Geography pp. 99–120; Economics pp. 121–132; Civics/Citizenship/Government pp. 133–142 (Buen Vivir), pp. 162–193 (democracy, interculturality, human rights; rights and responsibilities in society); Culture pp. 144–161 (placed by the Geography wave). FILE MISMATCH, exactly as filed: the Estudios Sociales 9no EGB record (cover reads Estudios Sociales 9, Noveno de Básica) and the Estudios Sociales 10mo EGB record (cover reads Estudios Sociales 10, Décimo de Básica) carry this Grade 8 body behind their covers (same ISBN 978-9942-662-28-6) — those records are RECORD-ONLY, FILE MISMATCH, NOT PLACED; their parts are placed once, under Grade 8 (this book); the genuine Ecuador Grade 9 and Grade 10 Estudios Sociales books are NOT held. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — culture-and-work/ecuador-a-plurinational-and-intercultural-state — Sección 3 Tema 2 — teaches: why Ecuador is an intercultural country and not a homogeneous culture (Mama Negra, Años Viejos, the toquilla-straw hat), its fourteen recognised nationality languages (Kichwa, Shuar, Tsáfiqui, Achuar, Awapit…), and how intercultural bilingual education and ethno-education build a plurinational state — Ecuador Grade 8 Estudios Sociales 8vo EGB, printed p. 162 | Ecuador, *Estudios Sociales 8vo EGB* (student book), Sección 3 Tema 2 — printed p. 162 |
+| Sub lesson 2 — Ecuador's way — the book's own teaching way | Ecuador — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Ecuador).**
+
+Ecuador's own way (Estudios Sociales 8vo EGB): at Superior level the civics strand is built on Ecuador's own 2008 constitutional order — Buen Vivir (Sumak Kawsay) as the state's development idea, a plurinational and intercultural state, nature itself as a subject of rights, and children's rights taught from Ecuador's own Código de la Niñez y Adolescencia.
+
+Searchable tags: ecuador a plurinational and intercultural state, Ecuador, social studies, culture-and-work
