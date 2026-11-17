@@ -1,18 +1,26 @@
 # Sources — Who Am I
 
-countries: Eritrea
+countries: Eritrea, Serbia
 
 **Book 1:** *Citizenship Education for Grade 6 — Textbook* (student book, English) — Title as printed: Citizenship Education for Grade 6 — Textbook. Grade: Grade 6 (student/teacher: STUDENT). Publisher: Ministry of Education, The State of Eritrea; year 2014 (first printed 2014, Sabur Printing Services, Asmara); ISBN 99948-1-743-4. PDF pages: 121 (cover/title page verified against the record title; 2,740,923 bytes and 121 pages, both match the record). Earlier waves: not read before (no earlier wave held this book). Verdict: COMPLETE (civics track — read in full, page by page, to printed p. 115). Contents map: Civics/Citizenship/Government pp. 62–75 (referendum and voting, national principles, government structure, rights and duties), 96–115 (rules, rights and responsibilities, good citizen); Morals/Values pp. 1–18 (responsible young person, family responsibility, honesty, friendship), 19–30 (a good student), 76–85 (patriotism as service), 107–115 (qualities of a good citizen, respecting parents); Integrated SS pp. 31–45 (family and culture, doing good for others, diversity of Eritrean society, religious harmony), 86–95 (national symbols and holidays); History pp. 46–61 (the Eritrean Revolution; the Liberation of Eritrea) — named, not placed (History wave's strand). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/eritrea-placements.md.
 
+
+**Book 2:** *Свет око нас — за први разред основне школе (СВЕТ ОКО НАС / World Around Us, for the first grade of primary school)* (student book, Serbian) — Title as printed: Свет око нас — за први разред основне школе (СВЕТ ОКО НАС / World Around Us, for the first grade of primary school). Grade: Grade 1 (student/teacher: STUDENT). Publisher: Нова школа (Nova škola), Beograd; year 2018 (first edition); ISBN 978-86-6225-043-8 (ministry approval no. 650-02-00209/2018-07 of 25 Apr 2018, printed p. 80). PDF pages: 80 (cover verified against the record title; fetched file 79,886,102 bytes from the record's source_url after grab.py tree failed — GitHub API RemoteDisconnected twice, then Contents API via curl returned 404 for the recorded path, proving the phantom push: the books.json record is marked in_pushed but the book is ABSENT from GitHub, a library debt named in the group log; the fetched file was staged into phase3-staging at its recorded path after reading, under the 2026-11-13 rule). Earlier waves: not read before (no Serbia filings in the Geography, History or Economics waves). Verdict: COMPLETE — contents mapped; every remaining-strand part read page by page from contact sheets. Contents map: Integrated SS pp. 4–32, 38–43; Civics/Citizenship/Government pp. 28–31 (rights and duties, group rules); Morals/Values pp. 6–11, 26–27 (feelings, tolerance, school behaviour); Health pp. 8–9, 34–37, 44–48 (daily needs, food/housing/clothing/hygiene, home dangers and natural disasters — named, not placed; the Health course owns them); Science pp. 58–79 (materials and their properties, nature's diversity, the body and senses; the shared-places cleanliness teaching on pp. 76–77 is placed as a civic duty); Geography pp. 50–56 (orientation in space and time — named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/serbia-placements.md.
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — culture-and-work/who-am-i-knowing-yourself — Unit 1.1 Who am I? — teaches: knowing yourself — personal timeline, likes, abilities and ambitions as the start of responsible citizenship — Eritrea Grade 6 Citizenship Education, printed p. 1 | Eritrea, *ER G6 Citizenship Education* (student book), Unit 1.1 Who am I? — printed p. 1 |
 | Sub lesson 2 — Eritrea's way — the book's own teaching way | Eritrea — the book's own way of teaching (see below) |
 
-**Acceptance count: taught in 1 country (Eritrea).**
+| Serbia part — first-steps/this-is-me — Ово сам ја (This is me) — teaches: the child presents herself — portrait, name, age, favourite toy and birthday gift — as the first Social Studies act — Serbia Grade 1 Свет око нас 1, printed p. 4 | Serbia, *Свет око нас 1* (student book), Ово сам ја (This is me) — printed p. 4 |
+
+**Acceptance count: taught in 2 countries (Eritrea, Serbia).**
 
 Eritrea's own way (ER G6 Citizenship Education): a standalone Citizenship Education subject built entirely from Eritrean stories, poems and dialogues — responsibility is taught through a shop-queue drama and a family Tandoor day, the state through the 1993 referendum story, and patriotism as practical service (keeping the school clean, planting trees at the new clinic) that even a child can do.
 
 Registry note: the original coined string `culture-and-work/who-am-i-knowing-yourself` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/who-am-i`.
 
-Searchable tags: who am i, Eritrea, social studies, first-steps
+
+Serbia's own way (Grade 1 Свет око нас): the integrated subject opens with the child herself (me, my feelings, my family) and widens circle by circle — family, home, neighbours, school, street — with rights taught from the first year as inseparable from duties ("every right seeks a duty"), and Serbia's own school slava, Saint Sava's Day on 27 January, taught as every school's feast.
+
+Registry note: the original coined string `first-steps/this-is-me` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/who-am-i`.
+Searchable tags: who am i, Eritrea, Serbia, social studies, first-steps
