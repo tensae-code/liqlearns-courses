@@ -1,16 +1,22 @@
 # Sources — Jobs People Do in Our Community
 
-countries: Latvia
+countries: Latvia, Philippines
 
 **Book 1:** *Sociālās zinības 1. klase* (teacher guide, Latvian) — Latviešu valodas aģentūra (Latvian Language Agency); year 2023; ISBN 978-9934-617-33-1. Title as printed: Sociālās zinības 1. klase — Latviešu valodas un sociālo zinību satura integrēta apguve lingvistiski neviendabīgā vidē — Metodisks līdzeklis skolotājam. Grade: Grade 1 (student/teacher: TEACHER). PDF pages: 61 (cover/title page verified against the record title — author Linda Krastiņa and ISBN match the record exactly). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Integrated SS (school life) printed pp. 7–17; Morals/Values (safe relationships, honesty, emotions) printed pp. 18–21; Culture in society (family/class festivals) printed pp. 22–24; Integrated SS (work/jobs, wants and needs) printed pp. 25–27; Appendices (worksheets/apparatus, inventory only) printed pp. 28–60. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/latvia-placements-b.md. Teacher guide — evidence only, outside the acceptance count.
+
+**Book 2:** *Araling Panlipunan 2 — Kagamitan ng Mag-aaral, Tagalog, Ikatlong Yunit: Buhay Komunidad: Hanapbuhay at Pamumuno* (student book, Tagalog) — Title as printed: Araling Panlipunan 2 — Kagamitan ng Mag-aaral, Tagalog, Ikatlong Yunit: Buhay Komunidad: Hanapbuhay at Pamumuno. Grade: Grade 2 (student/teacher: STUDENT). Publisher: Kagawaran ng Edukasyon (DepEd), Republika ng Pilipinas; year not printed in the file; ISBN no ISBN printed. PDF pages: 73 (cover verified: "2 / Araling Panlipunan / Kagamitan ng Mag-aaral / Tagalog"); 4,532,753 bytes. Source: Google Docs record in links-ph.json (Araling Panlipunan 2 Tagalog Unit 3, docs.google.com/document/d/1r3NBN21YlpquOP00J0n-RlXh8mbbKOkl) exported to PDF by the first reader (scratch-ph/ap2u3-doc.pdf, Google Docs renderer). The same unit is also lead LRMS 4605 and the Drive Waray/Sinugbuanong parallels are separate language editions (see Books 5–6 verdicts in the placements file). Earlier waves: not read before (no Philippines filings in any earlier wave). Verdict: COMPLETE. Contents map: Integrated SS pp. 152–176, 169–176 (printed); Civics/Citizenship/Government pp. 177–203 (printed); Economics pp. 143–168 (printed, natural resources/products — named, not placed); assessment p. 204 (printed, Ikatlong Markahang Pagsusulit — excluded as the book's own quarter test). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/philippines-placements-b.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — culture-and-work/jobs-and-what-people-do — Theme 4 Kādas prasmes un īpašības vajadzīgas mācoties un strādājot? (What skills and qualities are needed for learning and working) — teaches: wants versus needs, and professions — interviewing people about their jobs | Latvia, *Sociālās zinības 1. klase* (teacher guide), Grade 1 Sociālās zinības teacher methodological book — printed p. 25 (teacher guide — evidence) |
 | Sub lesson 2 — Latvia's way — the book's own teaching way | Latvia — the book's own way of teaching (see below) |
 
-**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Latvia), named here, counted nowhere.**
+| Philippines part — first-steps/jobs-people-do-in-our-community — Aralin 5.2 Mga Hanapbuhay sa Aking Komunidad — teaches: the jobs people do in the community, how each job follows the community's environment (season, place, natural resources), and how earnings meet family needs, told through a worker's own story — Philippines Grade 2 AP2 Tagalog Unit 3, printed p. 152 | Philippines, *Araling Panlipunan 2 — Kagamitan ng Mag-aaral, Tagalog, Ikatlong Yunit: Buhay Komunidad: Hanapbuhay at Pamumuno* (student book), Aralin 5.2 Mga Hanapbuhay sa Aking Komunidad — printed p. 152 |
+
+**Acceptance count: taught in 1 country (Philippines). Latvia is named here as teacher-guide evidence only, counted nowhere.**
 
 Latvia's own way: social studies is taught integrated with the Latvian language itself (CLIL) for linguistically mixed classes — every topic is framed as a question ("What does it mean to be a pupil?") and the social content is carried by the vocabulary and courtesies of school life.
 
-Searchable tags: jobs people do in our community, Latvia, social studies, first-steps
+Philippines's own way: Grade 2 social studies is organised by community ("Buhay Komunidad"): work, leadership and service are taught inside the child's own barangay-scale community, with leaders drawn from every part of it (barangay captain, school principal, priest/pastor/imam, doctor, parents).
+
+Searchable tags: jobs people do in our community, Latvia, Philippines, social studies, first-steps
