@@ -20,3 +20,9 @@ sources, as provenance.
   a clearly-labelled older-generation section (Civics and Ethical
   Education, Grade 11, 2002 E.C.). See `ethiopia/ABOUT.md` for the
   full book list and the acceptance reckoning.
+- **Sudan** — [`sudan/`](sudan/) · 6 lessons: Level 1 only — the
+  homeland and the self as Sudanese, from Sudan's Grade 3 History
+  and National Education student book (Arabic; its two
+  national-education units placed, its history/geography units
+  named, not placed). See `sudan/ABOUT.md` for the full book list
+  and the acceptance reckoning.
