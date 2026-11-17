@@ -1,6 +1,6 @@
 # Sources — Conflict Resolution
 
-countries: Albania, Eritrea, Syria, Morocco
+countries: Albania, Eritrea, Syria, Morocco, Colombia
 
 **Book 1:** *Libër Mësuesi Qytetaria 5* (teacher guide, Albanian) — Title as printed: Libër mësuesi — Qytetaria 5 (Teacher's book for Citizenship 5), by Entela Alushi; the pupil text it serves was written by Dr. Brunilda Çërraga and Dr. Silvana Loka. Grade: Grade 5 (student/teacher: TEACHER). Publisher: Shtëpia Botuese Mediaprint, Tirana; year 2019 (first edition); ISBN 978-9928-08-397-5. PDF pages: 69 (title page verified against the record title; the GitHub API route failed repeatedly (RemoteDisconnected), so the book was fetched from the record's own publisher source (mediaprint.al) and verified exactly against the record: 2,380,357 bytes = record size_bytes, 69 PDF pages = record pages; the reading copy was deleted after filing; the book stays secured in the repo per the record). Earlier waves: not read before (the Economics wave read a different Albanian book, Ekonomia 12). Verdict: COMPLETE — read FULL page by page via pdftotext -layout. Contents map: Civics/Citizenship/Government printed pp. 19–53 (Kreu 1 Individuals, groups and society, topics 1.1–1.12, plans pp. 19–35; Kreu 2 Governance, topics 2.1–2.8, plans pp. 36–44; Kreu 3 The Road, topics 3.1–3.6, plans pp. 45–53 — where-I-live and transport as community life); Morals/Values inside Kreu 1 (cooperation, self-restraint and compromise, responsibility, conflict-solving) and Kreu 2 (tolerance, rights and responsibilities); Economics printed pp. 54–69 named, not placed (Kreu 4 Production, consumption, distribution); the guide's own yearly plans, analytic programme and portfolio-assessment tables (printed pp. 5–18) and topic 4.9 Final test are apparatus/assessment, named, not placed. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/albania-placements.md. Teacher guide — evidence only, outside the acceptance count.
 
@@ -19,7 +19,7 @@ countries: Albania, Eritrea, Syria, Morocco
 | Syria part 1 — resources-and-conflict/protecting-my-friendship-settling-a-quarrel-calmly — Unit 3 Lesson 3 أحمي صداقتي (I protect my friendship) — teaches: settling a quarrel without losing the friend — Walid and Hani's ball dispute is mapped through a maze whose right path is calm down, calm dialogue and accept the other's opinion, against the dead ends of shouting and clinging to your own view; anger's causes and expected results are tabled — Syria Grade 3 Social Studies G3, printed p. 39 | Syria, *Social Studies Grade 3* (student book), Unit 3 Lesson 3 أحمي صداقتي (I protect my friendship) — printed p. 39 |
 | Syria's way — the book's own teaching way | Syria — the books' own way of teaching (see below) |
 
-**Acceptance count: taught in 3 countries (Eritrea, Syria, Morocco). Albania is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 4 countries (Eritrea, Syria, Morocco, Colombia). Albania is named here as teacher-guide evidence only, counted nowhere.**
 
 Albania's own way (teacher guide — evidence): Citizenship in Grade 5 is taught as a ladder — family, group, community, then the state: democracy is first practised inside the family and in class elections, local self-government is compared with the class's own elections, and a whole chapter (Kreu 3, The Road) treats the child as pedestrian, cyclist and passenger with duties on the road.
 
@@ -43,9 +43,24 @@ Morocco placements — Social Studies remaining strands (2026-11-17):
 |---|---|
 | Morocco part 1 — resources-and-conflict/settling-conflicts-peacefully-mediation — Civics Lesson 5: I manage differences and solve conflicts peacefully in my near surroundings — teaches: the conflict-resolution wheel (calm down, talk, listen, think of solutions together); the stages of solving a conflict; and the pupil-mediator — "I am a mediator in a conflict" — who receives both sides well, listens to each, keeps the agreed time, shows neutrality, helps the two sides find the solution, and earns a school certificate for settling conflicts peacefully — Morocco Grade 6 Al-Massar Ijtiamiat, printed p. 136 | Morocco, *Al-Massar Ijtiamiat 6e* (student book), Civics Lesson 5: I manage differences and solve conflicts peacefully in my near surroundings — printed p. 136 |
 
-**Acceptance count: taught in 3 countries (Eritrea, Syria, Morocco). Albania is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 4 countries (Eritrea, Syria, Morocco, Colombia). Albania is named here as teacher-guide evidence only, counted nowhere.**
 
 Morocco's own way (Book 2, Al-Massar Ijtiamiat 6e): the Grade 6 civics course is a working apprenticeship in democracy — it opens with law, freedom and responsibility (Rousseau: no freedom without responsibility), runs the class as a republic (charter, elected cooperative), then walks out of the school gate: local democracy is learned by studying the elected communal council from the 2011 Constitution (Articles 135 and 139), visiting the commune headquarters, simulating a full council meeting with agenda, president, budget rapporteur and association representatives, and finally pleading a real solidarity proposal before that council.
 
 Registry note: the original coined string `resources-and-conflict/settling-conflicts-peacefully-mediation` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `resources-and-conflict/conflict-resolution`.
+
+
+Colombia placements — Social Studies remaining strands (2026-11-17):
+
+**Book 10:** *Ciencias Sociales 5 — Segunda Cartilla, Escuela Nueva* (student guide, Spanish) — Title as printed: Ciencias Sociales 5 — Segunda Cartilla, Escuela Nueva. Grade: Grade 5 (student/teacher: STUDENT) Publisher: Ministerio de Educación Nacional, Bogotá; year 2011; ISBN libro 978-958-8712-01-7 (ISBN serie 978-958-97482-3-7) PDF pages: 112 (cover verified against the record title; 36,277,554 bytes from the recorded ministry source URL, matching the Economics wave's size-verified release grab; book is in GitHub, copy deleted after filing) Earlier waves: Geography wave placed pp. 6–65 in part / History wave placed nothing (no History parts) / Economics wave placed pp. 18, 42–43, 58–59, 70–91 (Unidad 7) Verdict: COMPLETE Contents map: Geography pp. 6–65 (placed by earlier waves); Economics pp. 66–91 (Unidad 7, placed by Economics wave); Morals/Values pp. 92–111 (Unidad 8: dilemmas, relationships) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part 1 — resources-and-conflict/solving-problems-with-other-people — Guía 16 Nuestras relaciones con otras personas — teaches: refusing to play with someone to avoid problems is not the best way to fix a problem with a person; a tied school-games place is resolved by weighing five proposed solutions by how María and Esteban will each feel about them, then checking what the school itself proposes for resolving conflicts — Colombia Grade 5 CS_Grado05_02, printed pp. 104–111 | Colombia, *Ciencias Sociales 5 — Segunda Cartilla, Escuela Nueva* (student book), Guía 16 Nuestras relaciones con otras personas — printed pp. 104–111 |
+
+**Acceptance count: taught in 4 countries (Eritrea, Syria, Morocco, Colombia). Albania is named here as teacher-guide evidence only, counted nowhere.**
+
+Colombia's own way (Book 10): dilemmas are decided as a group exercise in consequences — pupils must table how each solution will make each affected person feel before choosing, and "not deciding" is itself named a decision with effects.
+
+Registry note: the original coined string `resources-and-conflict/solving-problems-with-other-people` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `resources-and-conflict/conflict-resolution`.
 

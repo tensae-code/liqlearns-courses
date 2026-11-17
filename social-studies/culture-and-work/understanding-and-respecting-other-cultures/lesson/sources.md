@@ -1,6 +1,6 @@
 # Sources — Understanding and Respecting Other Cultures
 
-countries: Mongolia, Mexico, Serbia, Fiji
+countries: Mongolia, Mexico, Serbia, Fiji, Colombia
 
 **Book 1:** *Нийгэм судлал VII (Social Studies VII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2019; ISBN no ISBN printed on the pages checked. Title as printed: Нийгэм судлал VII (Social Studies VII). Grade: Grade 7 (student). 99 PDF pp. (cover verified against the record title; secured GitHub release asset, 48,845,405 bytes, byte-size verified on download; contents also cross-checked against the ministry econtent flipbook of the same book). Verdict: COMPLETE for Geography scope (contents page and chapter structure read in full; the book follows the same five-chapter spiral as Grade 9). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mongolia-placements.md.
 
@@ -25,7 +25,7 @@ countries: Mongolia, Mexico, Serbia, Fiji
 | Fiji part — culture-and-work/understanding-and-respecting-other-cultures — Unit 1.2 Multiculturalism — teaches: Fiji is multicultural, every citizen is a Fijian, each ethnic group practises its own culture, everyone has equal rights, and disrespecting another religion, culture or tradition is breaking the law — Fiji Grade 6 Year 6 Social Science, printed p. 18 | Fiji, *Year 6 Social Science* (student book), Unit 1.2 Multiculturalism — printed p. 18 |
 | Fiji part — culture-and-work/understanding-and-respecting-other-cultures — Strand 1.2 Valuing Cultures / How Fiji People Interact with Other Cultures — teaches: differences must not only be accepted but celebrated; be proud of your own culture and language; respecting others begins by respecting ourselves and our heritage — Fiji Grade 7 Year 7 Social Science Pupil's Book, printed p. 20 | Fiji, *Year 7 Social Science Pupil's Book* (student book), Strand 1.2 Valuing Cultures / How Fiji People Interact with Other Cultures — printed p. 20 |
 
-**Acceptance count: taught in 4 countries (Mongolia, Mexico, Serbia, Fiji).**
+**Acceptance count: taught in 5 countries (Mongolia, Mexico, Serbia, Fiji, Colombia).**
 
 Mexico's own way (Grade 7 Ética, naturaleza y sociedades): one combined volume per grade under the Nueva Escuela Mexicana, built as teacher-written narrative articles grouped by discipline area; civics is taught as rights-in-action — discrimination, violence and public service are each opened from the pupil's own school and community, and Mexico's pluricultural nationhood is anchored in Article 2 of its own Constitution.
 
@@ -40,3 +40,16 @@ Fiji's own way (Grade 6): Local government is taught as two systems side by side
 Fiji's own way (Grade 7): Identity is taught as "what makes you who you are" — family, friends, school, church, province and culture — and valuing cultures starts from respecting your own roots.
 
 Searchable tags: other cultures, respect, understanding, Mongolia, Нийгэм судлал VII, Serbia, social studies, culture and work, Mexico, Fiji
+
+Colombia placements — Social Studies remaining strands (2026-11-17):
+
+**Book 11:** *Ciencias Sociales 3 — Segunda Cartilla, Escuela Nueva* (student guide, Spanish) — Title as printed: Ciencias Sociales 3 — Segunda Cartilla, Escuela Nueva. Grade: Grade 3 (student/teacher: STUDENT) Publisher: Ministerio de Educación Nacional, Bogotá; year c.2019 edition (Minister Angulo González front matter); ISBN no ISBN printed in front matter seen PDF pages: 88 (contents page verified: Units 4–6, Guías 6–10; 81,108,301 bytes from the recorded ministry source URL, matching the Economics wave's size-verified release grab; book is in GitHub, copy deleted after filing) Earlier waves: Geography wave placed pp. 26–51 in part (2 geography placements from the unit openings) / History wave placed pp. 26–83 in part / Economics wave placed nothing (RECORD-ONLY — no Economics parts, contents named) Verdict: COMPLETE Contents map: Culture pp. 6–25 (Unidad 4: cultural expressions, myths, customs, traditions); Integrated SS / Morals pp. 26–51 (Unidad 5: feelings, affection); Civics/Morals pp. 52–87 (Unidad 6: living together, social roles, norms) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part 1 — culture-and-work/understanding-and-respecting-other-cultures — Guía 6 ¿Si fueras de otra cultura? — teaches: each group's culture is unique; meeting different behaviours, beliefs and languages must not be read as inferiority or threat — Colombia's diversity of cultures and languages is a richness, imagined from inside (speaking Pamié or Tucano) — Colombia Grade 3 CS_Grado3_02, printed pp. 15–18 | Colombia, *Ciencias Sociales 3 — Segunda Cartilla, Escuela Nueva* (student book), Guía 6 ¿Si fueras de otra cultura? — printed pp. 15–18 |
+
+**Acceptance count: taught in 5 countries (Mongolia, Mexico, Serbia, Fiji, Colombia).**
+
+Colombia's own way (Book 11): culture is taught through named Colombian expressions (Pasto's Carnaval de Negros y Blancos, Riosucio's Carnaval del Diablo, the Madre Monte myth) and through imagining life inside another Colombian culture — speaking Pamié or Tucano — while emotions and affection get a full primary unit of their own.
+

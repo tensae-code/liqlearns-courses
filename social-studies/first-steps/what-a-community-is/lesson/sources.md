@@ -1,6 +1,6 @@
 # Sources — What a Community is
 
-countries: Eritrea, Bangladesh
+countries: Eritrea, Bangladesh, Colombia
 
 **Book 1:** *ማሕበራዊ ትምህርቲ ን4ይ ክፍሊ — መጽሓፍ ተማሃሮ (Social Studies for Grade 4 — Student's Book)* (student book, Tigrinya) — Title as printed: ማሕበራዊ ትምህርቲ ን4ይ ክፍሊ — መጽሓፍ ተማሃሮ (Social Studies for Grade 4 — Student's Book). Grade: Grade 4 (student/teacher: STUDENT). Publisher: Ministry of Education, The State of Eritrea; year 2009; ISBN no ISBN printed on the pages checked. PDF pages: 159 (cover/title page verified against the record title; 30,437,268 bytes and 159 pages, both match the record; grabbed via the mid-size-books-5 release route of the wave:economics record — the tree path is not in the git tree, as the Geography wave found). Earlier waves: Geography wave placed Chapters 3, 4, 5, 6, 8 and Chapter 7 §§7.4, 7.8; History wave placed Chapters 1, 2, 9; Economics wave named Chapter 7 in its contents map only. Chapter 7's community sections were named by the Geography wave as "Civics / Sociology", not placed. Verdict: COMPLETE (contents-first; the remaining strand — Chapter 7 §§7.1–7.3, 7.5–7.7 — read fully in the Tigrinya text, printed pp. 85–119). Contents map: Integrated SS pp. 85–119 (Chapter 7 ኮም Community); Geography pp. 25–84, 120–130 (Chapters 3–6, 8 — Geography wave); History pp. 1–24, 131–159 (Chapters 1, 2, 9 — History wave); Economics within Chapter 7 §7.4 (placed by the Geography wave). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/eritrea-placements.md.
 
@@ -15,7 +15,7 @@ countries: Eritrea, Bangladesh
 |---|---|
 | Bangladesh part — culture-and-work/what-a-community-is — Similarities and Differences between People — teaches: what makes a community — a group with a sense of identity, unity and mutual cooperation; a person belongs to many communities at once (class, neighbourhood, ethnic group) — Bangladesh Grade 7 BD G7 HSS, printed pp. 36–39 | Bangladesh, *History and Social Science, Class Seven (Experimental version)* (student book), Similarities and Differences between People — printed pp. 36–39 |
 
-**Acceptance count: taught in 2 countries (Eritrea, Bangladesh).**
+**Acceptance count: taught in 3 countries (Eritrea, Bangladesh, Colombia).**
 
 Bangladesh's own way (Grade 7): civics is learned by doing it — the class runs a real club election with an Election Commission, code of conduct and manifestos, then sits as a Shadow Parliament and passes a law, and only then is told that the national Parliament works the same way; sociology is anchored in living communities the class visits (the Bedey boat fleet) and in guests the class interviews (Sharifa, a third-gender person).
 
@@ -24,3 +24,16 @@ Eritrea's own way (ER G4 Social Studies): the primary book builds the whole idea
 Searchable tags: what a community is, Eritrea, social studies, first-steps, Bangladesh
 
 Registry note: the original coined string `culture-and-work/what-a-community-is` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/what-a-community-is`.
+
+Colombia placements — Social Studies remaining strands (2026-11-17):
+
+**Book 2:** *Ciencias Sociales 2 — Primera Cartilla, Escuela Nueva* (student guide, Spanish) — Title as printed: Ciencias Sociales 2 — Primera Cartilla, Escuela Nueva. Grade: Grade 2 (student/teacher: STUDENT) Publisher: Ministerio de Educación Nacional, Bogotá; year 2011; ISBN libro 978-958-97482-4-4 (ISBN serie 978-958-97482-3-7) PDF pages: 136 (cover verified: "Ciencias Sociales 2, Primera Cartilla, Escuela Nueva"; 14,284,344 bytes — grab.py release route failed twice with RemoteDisconnected, so the book was read from the recorded ministry source URL and its byte size matches the Economics wave's size-verified release grab exactly; the book is in GitHub, so the downloaded copy was deleted after filing) Earlier waves: Geography wave placed pp. 85–88, 99–117 in part / History wave placed pp. 24–98 in part (personal/community history) / Economics wave placed pp. 75–80, 105–108 Verdict: COMPLETE Contents map: Integrated SS pp. 7–98 (identity, rights, families, social groups, community); Civics/Citizenship/Government pp. 24–35 (rights and duties), 118–131 (municipality and its authorities); Morals/Values pp. 15–16 (qualities), 54–71 (norms); Geography pp. 99–117 (placed by earlier waves); History pp. 39–93 in part (placed by History wave) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part 1 — first-steps/what-a-community-is — Guía 5 ¿Quiénes conforman la comunidad? — teaches: a community is a group of people who build bonds and share interests and needs (food, transport, education, health), organise to meet them and speak to the authorities — the Monguí and Nabusímake worked examples — Colombia Grade 2 CS_Grado2_01, printed pp. 72–92 | Colombia, *Ciencias Sociales 2 — Primera Cartilla, Escuela Nueva* (student book), Guía 5 ¿Quiénes conforman la comunidad? — printed pp. 72–92 |
+
+**Acceptance count: taught in 3 countries (Eritrea, Bangladesh, Colombia).**
+
+Colombia's own way (Book 2): Escuela Nueva self-paced guides (parts A–D) set in rural Colombia; rights are introduced through Colombia's own documents (Political Constitution, Declaration of the Rights of the Child, Universal Declaration of Human Rights), and local government through the real Colombian ladder department → municipality → corregimiento → vereda, with resguardos inside municipalities.
+

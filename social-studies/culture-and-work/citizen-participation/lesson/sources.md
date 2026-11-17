@@ -1,6 +1,6 @@
 # Sources — Citizen Participation
 
-countries: Micronesia, Haiti, Ecuador
+countries: Micronesia, Haiti, Ecuador, Colombia
 
 **Book 1:** *Micronesian Government: Yesterday, Today, and Tomorrow — A Micronesian Civics Textbook* (student book, English) — Title as printed: Micronesian Government: Yesterday, Today, and Tomorrow — A Micronesian Civics Textbook. Grade: Grade 11 (student/teacher: STUDENT). Publisher: National Department of Education, Palikir, Pohnpei, FSM / Micronesian Seminar; year 2008 (First Edition 2008); ISBN no ISBN printed. PDF pages: 317 (cover rendered and verified against the record title this wave; 29,498,966 bytes). Earlier waves: Geography wave filed it RECORD-ONLY (pure Civics, no Geography parts) and named its four units / History wave placed Units One–Three (13 placements) and named Unit Four as present-day Civics, not placed / Economics wave filed it RECORD-ONLY (no Economics parts; its contents map gives the unit spans used here). Verdict: COMPLETE for this wave — Unit Four (the only remaining strand) and the Appendix's symbols/constitution parts read fully and placed below; Units One–Three are History, already placed, named in the contents map only. The Unit Four Review and the chapter Vocabulary/Key Ideas lists (printed pp. 283–288) are revision/assessment and glossary material — inventory-only, not placed; the closing activities (Making Good Choices, Reporting on Events) are pure activity items, excluded. Contents map: Civics/Citizenship/Government pp. 11–288 as a whole book — Unit One Traditional Leadership in the FSM pp. 11–108 (History wave placed); Unit Two Government in Micronesia Before World War II pp. 109–162 (History wave placed); Unit Three The Long Road to Independence pp. 163–249 (History wave placed); Unit Four Micronesian Government Today pp. 250–288 (THIS wave); Appendix pp. 289–317 (presidents list p. 290, national/state flags p. 291, national anthem p. 292, the FSM Constitution printed pp. 293–304, glossary pp. 305–309 inventory-only, bibliography/photo credits pp. 310–317). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/micronesia-placements.md.
 
@@ -15,7 +15,7 @@ countries: Micronesia, Haiti, Ecuador
 | Haiti part — culture-and-work/being-a-citizen-means-exercising-rights — Séance 1 Être citoyen et citoyenne d'un État démocratique, c'est exercer des droits — teaches: what it is to be a Haitian citizen and a citizen of the world, and rights known through their daily exercise — Haiti Grade 7 EC2 7AF, printed p. 7 | Haiti, *La citoyenne et le citoyen dans un État démocratique (EC2 7AF)* (teacher sequence), Séance 1 Être citoyen et citoyenne d'un État démocratique, c'est exercer des droits — printed p. 7 (teacher guide — evidence) |
 | Ecuador part — culture-and-work/citizenship-and-citizen-participation — Sección 3 Tema 3 — teaches: "today we are all citizens" — the dimensions of citizenship (elect and be elected, equality before the law, a minimum standard of living), citizen participation from the specific to the general, and the vote seen by a 19th-century woman, an illiterate man of the same century and a 17-year-old today — Ecuador Grade 8 Estudios Sociales 8vo EGB, printed p. 173 | Ecuador, *Estudios Sociales 8vo EGB* (student book), Sección 3 Tema 3 — printed p. 173 |
 
-**Acceptance count: taught in 2 countries (Micronesia, Ecuador). Haiti is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 3 countries (Micronesia, Ecuador, Colombia). Haiti is named here as teacher-guide evidence only, counted nowhere.**
 
 Micronesia's own way: present-day government is taught as “Micronesia's Two Governments” — the elected FSM state/national system and the traditional leadership system running beside it — and every structure (federal levels, checks and balances, the rotating presidency) is explained through the compromises of the first constitutional convention and through village-level stories (a Yap bus bill stopped by chiefs, a fishing-fee fight between governors and Palikir, the Amnesty Bill stopped by the people).
 
@@ -30,3 +30,18 @@ Ecuador's own way (Estudios Sociales 8vo EGB): at Superior level the civics stra
 Registry note: the original coined string `culture-and-work/citizenship-and-citizen-participation` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/citizen-participation`.
 
 Searchable tags: citizen participation, Micronesia, social studies, culture-and-work, Haiti, Ecuador
+
+Colombia placements — Social Studies remaining strands (2026-11-17):
+
+**Book 3:** *Ciencias Sociales 4 — Segunda Cartilla, Escuela Nueva* (student guide, Spanish) — Title as printed: Ciencias Sociales 4 — Segunda Cartilla, Escuela Nueva. Grade: Grade 4 (student/teacher: STUDENT) Publisher: Ministerio de Educación Nacional, Bogotá; year 2011; ISBN libro 978-958-97482-9-9 (ISBN serie 978-958-97482-3-7) PDF pages: 128 (cover verified: "Ciencias Sociales 4, Segunda Cartilla, Escuela Nueva"; 15,702,136 bytes from the recorded ministry source URL, matching the Economics wave's size-verified release grab; book is in GitHub, copy deleted after filing) Earlier waves: Geography wave placed pp. 7–83 (relief, climate, regions) / History wave placed nothing (no History parts) / Economics wave placed pp. 31–32, 54–59 Verdict: COMPLETE Contents map: Geography pp. 7–83 (placed by earlier waves); Economics pp. 31–32, 54–59 (placed by Economics wave); Civics/Citizenship pp. 107–124 (citizens, institutions, exclusion/inclusion); Morals/Values pp. 85–106 (conflicts, dilemmas) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part 1 — culture-and-work/forms-of-citizen-participation — Guía 14 Los diferentes tipos de participación — teaches: participation is the most important characteristic of democracy — government must render accounts to the people; forms include electoral campaigns and voting, associations and NGOs, legal demonstrations, and non-conventional political participation when dialogue channels close — Colombia Grade 4 CS_Grado4_02, printed pp. 114–117 | Colombia, *Ciencias Sociales 4 — Segunda Cartilla, Escuela Nueva* (student book), Guía 14 Los diferentes tipos de participación — printed pp. 114–117 |
+
+**Acceptance count: taught in 3 countries (Micronesia, Ecuador, Colombia). Haiti is named here as teacher-guide evidence only, counted nowhere.**
+
+Colombia's own way (Book 3): citizenship is taught from the child's own standing — a child can be a citizen, participation is practised first in family and school (electing the personero), and exclusion is studied through Colombian cases: displaced children mocked at school and Arhuaco indigenous people in the city.
+
+Registry note: the original coined string `culture-and-work/forms-of-citizen-participation` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/citizen-participation`.
+

@@ -1,0 +1,16 @@
+# Sources — Identity is Built Together
+
+countries: Colombia
+
+**Book 25:** *Ciencias Sociales — Postprimaria Rural, Grado 9 (student guide)* (student guide, Spanish) — Title as printed: Ciencias Sociales — Postprimaria Rural, Grado 9 (student guide). Grade: Grade 9 (student/teacher: STUDENT) Publisher: Ministerio de Educación Nacional (Postprimaria Rural; Fundación Manuel Mejía); year c.2010–2011; ISBN no ISBN printed PDF pages: 222 (read from a repaired partial download: the ministry full file is 100,126,802 bytes and full downloads repeatedly dropped; the first 24,000,000 bytes were recovered with pikepdf, yielding all 222 pages with their complete text layer — front matter, contents and page count verified against the record; the cover image sits in the un-downloaded image data and was not re-rendered in this wave — the earlier waves verified the printed cover from the full file) Earlier waves: Geography wave placed pp. 46–88 in part / History wave placed pp. 90–151 in part / Economics wave placed Guía 14 (unions and minimum-wage negotiation) and Guía 15 (agrarian reform and land rights) Verdict: COMPLETE Contents map: History pp. 90–151 in part (placed by earlier waves); Geography/Economics pp. 46–88 in part (placed by earlier waves); Economics/History pp. 162–185 in part (Módulo 5 Guías 14–15, placed by the Economics and History waves — not re-placed here; Guía 13, student movements in Colombian political life, is History ground, named in this map); Rights/Identity pp. 152–161 and 186–221 (Módulo 5 framing: promoting and defending human rights in the rural context; Módulo 6: how identity is generated in campesino communities) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — culture-and-work/identity-is-built-together — Módulo 6 Guía 18 La identidad: una construcción colectiva — teaches: identity is a collective construction — communities appropriate and re-signify expressions, traditions and customs across time as part of who they are, with particular elements in rural Colombian contexts; and fundamental rights stand above gender, political affiliation, religion and ethnicity — Colombia Grade 9 CS_Grado9, printed pp. 186–221 (Módulo 6) | Colombia, *Ciencias Sociales — Postprimaria Rural, Grado 9 (student guide)* (student book), Módulo 6 Guía 18 La identidad: una construcción colectiva — printed pp. 186–221 (Módulo 6) |
+| Sub lesson 2 — Colombia's way (Book 25) — the book's own teaching way | Colombia — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Colombia).**
+
+Colombia's own way (Book 25): human rights are taught from the countryside outward — defined as attributes no one may violate, then traced through the movements that defended them (students, unions, campesino communities), and identity is taught as something a rural community builds together in its festivals, traditions and rights claims.
+
+Searchable tags: identity is built together, Colombia, social studies, culture-and-work

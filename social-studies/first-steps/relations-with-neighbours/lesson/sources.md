@@ -1,6 +1,6 @@
 # Sources — Relations with Neighbours
 
-countries: Yemen, Libya
+countries: Yemen, Libya, Colombia
 
 **Book 1:** *التربية الاجتماعية للصف الثالث الأساسي (Social Education for Grade 3 of Basic Education)* (student book, Arabic) — Republic of Yemen, Ministry of Education; year 1442 AH / 2021 CE (cover print); ISBN no ISBN printed. Title as printed: التربية الاجتماعية للصف الثالث الأساسي (Social Education for Grade 3 of Basic Education). Grade: 3 (student/teacher: STUDENT). PDF pages: 82 (cover/title page verified against the record title; 6,153,895 bytes, Wayback snapshot 20240711065415 of the recorded source_url). Earlier waves: Geography wave placed Unit 3 L1 place of residence, L3 occupations, L4 cleanliness of neighbourhood, and Unit 4 (directions/Earth/seasons/time); History wave placed Unit 1 L1 my family and my relatives and Unit 4 L4 time; Economics wave placed Unit 3 L3 (one economics placement). Those parts are NOT re-placed here. Verdict: COMPLETE. Contents map: Integrated SS pp. 6–24 (Unit 1 family/home), pp. 34–42 (Unit 2 school lessons), p. 50 (Unit 3 L2 neighbours); Civics/Citizenship/Government pp. 12–23 (family relations, kindness, home duties, inside Unit 1); Morals/Values pp. 16–19 (kindness in the family), pp. 50–56 (good neighbourliness); Geography pp. 47–49, 63–75; History p. 73 (time, placed by History wave); Religion pp. 26–33 (Unit 2 mosque lessons — named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/yemen-placements.md.
 
@@ -15,7 +15,7 @@ countries: Yemen, Libya
 | Libya part — first-steps/my-neighbours-and-how-we-live-together — Lesson 7 أنا والحي (I and the neighbourhood), relations part — teaches: my responsibility toward my neighbourhood — respecting neighbours' privacy, helping the elderly and people with disabilities, not disturbing others, and keeping the neighbourhood clean — Libya Grade 4 National Education G4, printed p. 61 | Libya, *أنا المواطن (I Am the Citizen) — National Education G4* (student book), Lesson 7 أنا والحي (I and the neighbourhood), relations part — printed p. 61 |
 | Libya part — first-steps/my-neighbours-and-how-we-live-together — Lesson 5 علاقاتي في الحي (My relations in the neighbourhood) — teaches: my rights and duties inside the neighbourhood — respecting the queue and others' turns, joining cleanliness and tree-planting campaigns, helping neighbours in a fire or a crisis; if the neighbourhood is put right, the homeland is put right — Libya Grade 6 National Education G6, printed p. 45 | Libya, *أنا المواطن (I Am the Citizen) — National Education G6* (student book), Lesson 5 علاقاتي في الحي (My relations in the neighbourhood) — printed p. 45 |
 
-**Acceptance count: taught in 2 countries (Yemen, Libya).**
+**Acceptance count: taught in 3 countries (Yemen, Libya, Colombia).**
 
 Yemen's own way (G3 Social Studies): the combined Social Education book starts from the child's own family, mosque and school, then widens to neighbours and the neighbourhood/village — the remaining strands are taught as lived duties (kindness to parents, care of the home, good neighbourliness, school order) before any geography appears.
 
@@ -26,3 +26,18 @@ Searchable tags: relations with neighbours, Yemen, social studies, first-steps, 
 Libya's own way (National Education G4): the whole book is written in the first person — every lesson is "I and …" (I and my family, I and my school, I and the neighbourhood) — citizenship starts as the child's own relationships, and even the environment unit is framed as the child's own behaviour: what I throw away, what I plant, which beach I clean.
 
 Libya's own way (National Education G6): Grade 6 defines the citizen by a chain of relations — rights paired with duties, freedom paired with responsibility, then one lesson per circle the child belongs to (family, school, neighbourhood) — and grounds the rights lesson in named world instruments: "human rights" as the UN defines them, the 1989 Convention on the Rights of the Child, and UNICEF.
+
+Colombia placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *Ciencias Sociales — Fichas, Escuela Nueva (Grado 1)* (student book, Spanish) — Title as printed: Ciencias Sociales — Fichas, Escuela Nueva (Grado 1). Grade: Grade 1 (student/teacher: STUDENT) Publisher: Ministerio de Educación Nacional, Bogotá; year 2010; ISBN libro 978-958-8712-02-4 (ISBN obra 978-958-33-3362-0) PDF pages: 22 (cover/title page verified against the record title; 4,072,104 bytes via tree grab, SHA-verified by grab.py) Earlier waves: Geography wave placed pp. 14, 16–18 / History wave placed pp. 13–18 in part / Economics wave placed pp. 14–15 Verdict: COMPLETE Contents map: Integrated SS pp. 2–15 (identity, family, neighbours); Morals/Values pp. 7, 10, 12 (feelings, family duties and respect, care); Geography pp. 16–18 (my region — placed by earlier waves); Economics pp. 14–15 (neighbours' occupations — placed by Geography and Economics waves, not re-placed) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part 1 — first-steps/my-neighbours-and-living-together — Guía 3 ¿Quiénes son mis vecinos? — teaches: neighbours are the people who live near us and form relations of friendship and solidarity by sharing a place; children solve neighbours' real problems together (a sick relative, an elderly mother left alone, a stolen cow) — Colombia Grade 1 CS_Fichas, printed p. 13 | Colombia, *Ciencias Sociales — Fichas, Escuela Nueva (Grado 1)* (student book), Guía 3 ¿Quiénes son mis vecinos? — printed p. 13 |
+
+**Acceptance count: taught in 3 countries (Yemen, Libya, Colombia).**
+
+Colombia's own way (Book 1): Grade 1 worksheet "fichas" built around Alejo and Mariana; social studies starts from the child's own body, name and family, widening to neighbours and region; care is taught as a right and as men's and boys' work too, and no family type is ranked above another.
+
+Registry note: the original coined string `first-steps/my-neighbours-and-living-together` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/relations-with-neighbours`.
+

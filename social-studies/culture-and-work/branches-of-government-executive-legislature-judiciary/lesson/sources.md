@@ -1,6 +1,6 @@
 # Sources — Branches of Government Executive Legislature Judiciary
 
-countries: Kiribati, Micronesia, Philippines, Yemen, Bhutan, Afghanistan, Eritrea, Belarus, Venezuela, Turkey, Morocco
+countries: Kiribati, Micronesia, Philippines, Yemen, Bhutan, Afghanistan, Eritrea, Belarus, Venezuela, Turkey, Morocco, Colombia
 
 **Book 1:** *Social Science Teacher Guide, Year 8, Term 1* (teacher guide, English) — written, edited and formatted by the Curriculum Development and Assessment Division, Ministry of Education, Kiribati (developed with Australian Government support, per the acknowledgment page); year no year printed in the pages read; ISBN no ISBN printed. Title as printed: TEACHER GUIDE — Social Science — Year 8 — Term 1. Grade: Year 8 (student/teacher: TEACHER). PDF pages: 102 (cover verified: "Teacher Guide / Social Science / Year 8 / Term 1" under the Kiribati crest matches the record; 5,754,618 bytes; fetched via the drive.usercontent.google.com route after the uc route timed out). Earlier waves: not read before. Verdict: COMPLETE. Contents map: History printed pp. 17–42 (Unit 1 Decolonisation — Banaba phosphate, nuclear testing, colonised/decolonised countries); Geography pp. 43–64 (Unit 2 Population Studies); Civics/Citizenship/Government pp. 65–73 information + teaching activities to p. 101 (Unit 3, Strand 4 Governance). The links file’s second Year 8 record ("Copy of Yr 8 Social Science TG Term 1 CDRC PRINT READY VERSION") is a byte-for-byte duplicate of this book (102 pages, 5,754,618 bytes, SHA-256 identical), filed record-only, not re-read and not staged twice. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/kiribati-placements.md. Teacher guide — evidence only, outside the acceptance count.
 
@@ -56,7 +56,7 @@ countries: Kiribati, Micronesia, Philippines, Yemen, Bhutan, Afghanistan, Eritre
 |---|---|
 | Turkey part — culture-and-work/how-the-turkish-republic-is-governed-separation-of-powers — Area 4: Türkiye Cumhuriyeti'nin Yönetim Yapısı (The governing structure of the Republic of Turkey) — teaches: the state's three powers balance each other — the legislative makes the laws, the executive carries them out, the judiciary secures justice — under the 1982 Constitution; contrasted with the National Struggle years, when the assembly-government system gathered legislation and execution (and partly the judiciary) in the Grand National Assembly itself — Turkey Grade 7 Sosyal Bilgiler 2. Kitap, printed p. 25 | Turkey, *Sosyal Bilgiler 7. Sınıf, 2. Kitap* (student book), Area 4: Türkiye Cumhuriyeti'nin Yönetim Yapısı (The governing structure of the Republic of Turkey) — printed p. 25 |
 
-**Acceptance count: taught in 10 countries (Micronesia, Philippines, Yemen, Bhutan, Afghanistan, Eritrea, Belarus, Venezuela, Turkey, Morocco). Kiribati is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 11 countries (Micronesia, Philippines, Yemen, Bhutan, Afghanistan, Eritrea, Belarus, Venezuela, Turkey, Morocco, Colombia). Kiribati is named here as teacher-guide evidence only, counted nowhere.**
 
 Turkey's own way (Sosyal Bilgiler 7. Sınıf, 2. Kitap): the course ends where citizenship becomes constitutional: thirteen-year-olds read Articles 1–3 of their own constitution (the ones that cannot even be proposed for change), separate the state's three powers, walk democracy's road from the Tanzimat edicts to the first multi-party election of 1946, and finish by naming the behaviours that wound democracy in daily life.
 
@@ -115,9 +115,24 @@ Morocco placements — Social Studies remaining strands (2026-11-17):
 |---|---|
 | Morocco part 1 — culture-and-work/the-government-and-executive-power — Axis 1 Lesson 5: The Government (الحكومة) — teaches: how the government is formed and what executive power does — Morocco Grade 8 Fadaa Ijtiamiat 2AC, printed p. 162 | Morocco, *Fadaa Ijtiamiat 2AC* (student book), Axis 1 Lesson 5: The Government (الحكومة) — printed p. 162 |
 
-**Acceptance count: taught in 10 countries (Micronesia, Philippines, Yemen, Bhutan, Afghanistan, Eritrea, Belarus, Venezuela, Turkey, Morocco). Kiribati is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 11 countries (Micronesia, Philippines, Yemen, Bhutan, Afghanistan, Eritrea, Belarus, Venezuela, Turkey, Morocco, Colombia). Kiribati is named here as teacher-guide evidence only, counted nowhere.**
 
 Morocco's own way (Book 5, Fadaa Ijtiamiat 2AC): the second collège year turns citizenship into the machinery of the state itself — the constitution, the King, parliament, government and courts, then the citizen's constitutional rights, parties, unions, press, local democracy and associations.
 
 Registry note: the original coined string `culture-and-work/the-government-and-executive-power` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/branches-of-government-executive-legislature-judiciary`.
+
+
+Colombia placements — Social Studies remaining strands (2026-11-17):
+
+**Book 4:** *Ciencias Sociales 5 — Primera Cartilla, Escuela Nueva* (student guide, Spanish) — Title as printed: Ciencias Sociales 5 — Primera Cartilla, Escuela Nueva. Grade: Grade 5 (student/teacher: STUDENT) Publisher: Ministerio de Educación Nacional, Bogotá; year 2011; ISBN libro 978-958-8712-00-0 (ISBN serie 978-958-97482-3-7) PDF pages: 112 (cover verified against the record title; 14,608,389 bytes from the recorded ministry source URL, matching the Economics wave's size-verified release grab; book is in GitHub, copy deleted after filing) Earlier waves: Geography wave placed pp. 78–108 in part (ethnic human geography) / History wave placed pp. 6–57, 82, 96 / Economics wave placed pp. 41–53 Verdict: COMPLETE Contents map: History pp. 6–57 (Colony, Independence, social movements — placed by History wave); Economics pp. 41–53 (placed by Economics wave); Civics/Citizenship/Government pp. 58–77 (norms, laws, Constitution, branches of power); Culture pp. 78–108 (Afro-Colombian and indigenous peoples — placed by History/Geography waves) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part 1 — culture-and-work/the-three-branches-of-public-power — Guía 6 Las ramas del poder y las instituciones del gobierno — teaches: Colombia's public power divides into three branches — legislative (Congress: Senate and Chamber, departmental assemblies, municipal councils), executive (president and ministers nationally, governors and mayors locally) and judicial (Supreme Court, Constitutional Court guarding the Constitution and reviewing tutelas, Council of State, Fiscalía), plus the bodies that watch that officials do not waste public money — Colombia Grade 5 CS_Grado05_01, printed pp. 69–77 | Colombia, *Ciencias Sociales 5 — Primera Cartilla, Escuela Nueva* (student book), Guía 6 Las ramas del poder y las instituciones del gobierno — printed pp. 69–77 |
+
+**Acceptance count: taught in 11 countries (Micronesia, Philippines, Yemen, Bhutan, Afghanistan, Eritrea, Belarus, Venezuela, Turkey, Morocco, Colombia). Kiribati is named here as teacher-guide evidence only, counted nowhere.**
+
+Colombia's own way (Book 4): the Constitution is read directly — pupils explain Article 25 (work as a right and social duty) and the health-protection article in their own words, then audit whether the three groups of rights are actually fulfilled in their own locality.
+
+Registry note: the original coined string `culture-and-work/the-three-branches-of-public-power` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/branches-of-government-executive-legislature-judiciary`.
 

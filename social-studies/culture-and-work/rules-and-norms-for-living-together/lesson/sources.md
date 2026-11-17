@@ -1,6 +1,6 @@
 # Sources — Rules and Norms for Living Together
 
-countries: Panama, Ecuador
+countries: Panama, Ecuador, Colombia
 
 **Book 2:** *Ciencias Sociales 1 — Cuaderno de trabajo — Primer grado* (student workbook, Spanish) — Ministerio de Educación de Panamá; year 2020; no ISBN printed. Title as printed: Ciencias Sociales 1 — Cuaderno de trabajo — Primer grado (Meduca, "Conéctate en casa" series). Grade: Grade 1 (student/teacher: STUDENT). PDF pages: 52 (downloaded via the Wayback capture of 2022-11-16 of the recorded Meduca file — the direct guias.meduca.gob.pa route failed repeatedly from this egress; cover and index verified against the record). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Integrated SS — Área 1 Naturaleza y sociedad en el espacio (family, family work) printed pp. 6–14; Área 2 Dinámica e interacción con el ambiente (housing, transport and communication) printed pp. 15–25; Civics — Área 3 Convivencia armónica (community living rules, duties and rights) printed pp. 26–37; History — Área 4 Acontecimientos históricos de los pueblos (community and national history, fiestas patrias) printed pp. 38–47 (named, not placed). Staged under the new rule: grade-01/gov/panama/social-studies/student/ciencias-sociales-1-cuaderno-de-trabajo.pdf (10,944,762 B as replayed) + books.json record. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/panama-placements-b.md.
 
@@ -12,7 +12,7 @@ countries: Panama, Ecuador
 | Sub lesson 2 — Panama's way — the book's own teaching way | Panama — the book's own way of teaching (see below) |
 | Ecuador part — culture-and-work/rules-rights-and-duties-for-living-together — Unit 5, Lesson 5: Normas, derechos y obligaciones — teaches: because we live in social groups, keeping common rules, rights and obligations is what builds fair and harmonious personal and social relations; the rules of coexistence as the framework guiding mutual respect and tolerance, and good practices for parish and canton life (respect and care for the homeland, not wasting water or energy, consuming Ecuadorian products) — Ecuador Grade 3 Estudios Sociales 3ro EGB (SM 2016), printed p. 108 | Ecuador, *Estudios Sociales 3ro EGB (SM 2016)* (student book), Unit 5, Lesson 5: Normas, derechos y obligaciones — printed p. 108 |
 
-**Acceptance count: taught in 2 countries (Panama, Ecuador).**
+**Acceptance count: taught in 3 countries (Panama, Ecuador, Colombia).**
 
 Panama's own way (Panama Grade 1 Ciencias Sociales workbook): Grade 1 social studies is a home workbook ("Conéctate en casa") worked through with family; rights and duties are taught as "normas de convivencia" — the rules of living together — sorted by the child into family, school and community.
 
@@ -21,3 +21,23 @@ Ecuador's own way (Estudios Sociales 3ro EGB (SM 2016)): the SM edition teaches 
 Registry note: the original coined string `culture-and-work/rules-rights-and-duties-for-living-together` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/rules-and-norms-for-living-together`.
 
 Searchable tags: rules and norms for living together, normas de convivencia, deberes y derechos, Panama, social studies, culture-and-work, Ecuador
+
+Colombia placements — Social Studies remaining strands (2026-11-17):
+
+**Book 2:** *Ciencias Sociales 2 — Primera Cartilla, Escuela Nueva* (student guide, Spanish) — Title as printed: Ciencias Sociales 2 — Primera Cartilla, Escuela Nueva. Grade: Grade 2 (student/teacher: STUDENT) Publisher: Ministerio de Educación Nacional, Bogotá; year 2011; ISBN libro 978-958-97482-4-4 (ISBN serie 978-958-97482-3-7) PDF pages: 136 (cover verified: "Ciencias Sociales 2, Primera Cartilla, Escuela Nueva"; 14,284,344 bytes — grab.py release route failed twice with RemoteDisconnected, so the book was read from the recorded ministry source URL and its byte size matches the Economics wave's size-verified release grab exactly; the book is in GitHub, so the downloaded copy was deleted after filing) Earlier waves: Geography wave placed pp. 85–88, 99–117 in part / History wave placed pp. 24–98 in part (personal/community history) / Economics wave placed pp. 75–80, 105–108 Verdict: COMPLETE Contents map: Integrated SS pp. 7–98 (identity, rights, families, social groups, community); Civics/Citizenship/Government pp. 24–35 (rights and duties), 118–131 (municipality and its authorities); Morals/Values pp. 15–16 (qualities), 54–71 (norms); Geography pp. 99–117 (placed by earlier waves); History pp. 39–93 in part (placed by History wave) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/colombia-placements.md.
+
+**Book 4:** *Ciencias Sociales 5 — Primera Cartilla, Escuela Nueva* (student guide, Spanish) — Title as printed: Ciencias Sociales 5 — Primera Cartilla, Escuela Nueva. Grade: Grade 5 (student/teacher: STUDENT) Publisher: Ministerio de Educación Nacional, Bogotá; year 2011; ISBN libro 978-958-8712-00-0 (ISBN serie 978-958-97482-3-7) PDF pages: 112 (cover verified against the record title; 14,608,389 bytes from the recorded ministry source URL, matching the Economics wave's size-verified release grab; book is in GitHub, copy deleted after filing) Earlier waves: Geography wave placed pp. 78–108 in part (ethnic human geography) / History wave placed pp. 6–57, 82, 96 / Economics wave placed pp. 41–53 Verdict: COMPLETE Contents map: History pp. 6–57 (Colony, Independence, social movements — placed by History wave); Economics pp. 41–53 (placed by Economics wave); Civics/Citizenship/Government pp. 58–77 (norms, laws, Constitution, branches of power); Culture pp. 78–108 (Afro-Colombian and indigenous peoples — placed by History/Geography waves) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colombia part 1 — culture-and-work/norms-agreements-for-living-together — Guía 4 ¿Qué son las normas? / Guía 5 — teaches: norms are agreements a group makes so all benefit; they bring duties and sanctions when broken, leaders watch over them; home norms are unwritten, school norms are written in the manual de convivencia, and community norms can be proposed by children — Colombia Grade 2 CS_Grado2_01, printed pp. 64–71, 93–98 | Colombia, *Ciencias Sociales 2 — Primera Cartilla, Escuela Nueva* (student book), Guía 4 ¿Qué son las normas? / Guía 5 — printed pp. 64–71, 93–98 |
+| Colombia part 2 — culture-and-work/norms-agreements-for-living-together — Guía 5 Las normas en la casa, en el colegio y en el país — teaches: norms at home (compared with grandparents' time), at school and in the country; what happens when a norm is not kept, and that pupils can take part in building, adapting and inventing norms — Colombia Grade 5 CS_Grado05_01, printed pp. 62–64 | Colombia, *Ciencias Sociales 5 — Primera Cartilla, Escuela Nueva* (student book), Guía 5 Las normas en la casa, en el colegio y en el país — printed pp. 62–64 |
+
+**Acceptance count: taught in 3 countries (Panama, Ecuador, Colombia).**
+
+Colombia's own way (Book 2): Escuela Nueva self-paced guides (parts A–D) set in rural Colombia; rights are introduced through Colombia's own documents (Political Constitution, Declaration of the Rights of the Child, Universal Declaration of Human Rights), and local government through the real Colombian ladder department → municipality → corregimiento → vereda, with resguardos inside municipalities.
+
+Colombia's own way (Book 4): the Constitution is read directly — pupils explain Article 25 (work as a right and social duty) and the health-protection article in their own words, then audit whether the three groups of rights are actually fulfilled in their own locality.
+
+Registry note: the original coined string `culture-and-work/norms-agreements-for-living-together` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/rules-and-norms-for-living-together`.
+
