@@ -882,6 +882,8 @@ programme built on training zones and FITT — with
 pencak silat, Indonesia's own martial art, taught in
 Book 12's bela diri unit.
 
+**PE expansion — Oman — BUILT 2026-11-16:** 136 placements from Oman's Ministry of Education teacher guides for Physical & Health Education, Grades 1–8 (Arabic) stocked as teacher-guide evidence only, outside the acceptance counts — 133 into existing lessons and 3 as new lessons (Goalball; Table Tennis for the Visually Impaired; Traditional Games of Oman) — bringing this course to **207 lessons**. The guides' Health units are placed in the Health course, not here.
+
 ## Unit 1 — Moving Basics
 
 1. **Combined Travelling and On-the-Spot Movements** (`moving-basics/combined-travelling-and-on-the-spot`) — joining travelling movements together, joining on-the-spot movements together, and chaining the two families in one sequence.
@@ -1033,6 +1035,8 @@ Book 12's bela diri unit.
 34. **Volleyball Serving** (`ball-games/volleyball-serving`) — volleyball serving: the underhand, overhand and sidearm serves that start the rally — taught in Jordan's Grade 7 Term 2 book as the underhand serve (facing) and in its Grade 9 Term 2 book as the overhand serve (directed) (Jordan's student books).
 35. **Baseball 5** (`ball-games/baseball-5`) — baseball 5: the five-a-side street version of baseball — its fundamentals (defensive stance, grip, throws and receiving, fielding grounders, hitting, running home to first) and how it is played — taught in Cuba's Grade 5 Programa as the Béisbol 5 unit, rooted in the street games pelota a la mano and las cuatro esquinas, with the full teaching treatment in its Grade 5 Orientaciones Metodológicas (Cuba's teacher guides/programmes, evidence only).
 36. **Learning Tactics in Games** (`ball-games/learning-tactics-in-games`) — learning tactics in games: game principles, tactical awareness, using space, and movement with and without the ball — taught in Indonesia's Grade 7 PJOK book as learning tactics through games, space in team and individual sports, creating, using and defending space, movement with and without the ball, and choosing zone or man-to-man defence, and in its Grade 10 book as game principles joined to movement concepts, understanding tactical skills, developing tactical awareness and choosing the difficulty level of tactical skills (Indonesia's student books; its teacher guides, evidence only).
+37. **Goalball** (`ball-games/goalball`) — goalball: the blindfold team ball game played by sound — throwing, defending and tactics — taught in Oman's Grades 5, 6, 7 and 8 teacher guides as the team ball game for visually impaired pupils, played by sound (Oman's teacher guides, evidence only).
+38. **Table Tennis for the Visually Impaired** (`ball-games/table-tennis-for-the-visually-impaired`) — table tennis adapted for visually impaired players — taught in Oman's Grades 5, 6, 7 and 8 teacher guides as table tennis adapted for visually impaired pupils (Oman's teacher guides, evidence only).
 
 
 ## Unit 6 — Games to Play
@@ -1119,6 +1123,7 @@ Book 12's bela diri unit.
 48. **Traditional Games of Cuba** (`traditional-games-and-dances/traditional-games-of-cuba`) — traditional games of Cuba: Cuba's rhythmic and traditional games — taught in Cuba's Grade 2 Programa inside the Rhythmic Activities unit as the vehicle for expression and group norms, with named games, organisation and rules in its Grade 2 Orientaciones Metodológicas (Cuba's teacher guides/programmes, evidence only).
 49. **Traditional Games of Kuwait** (`traditional-games-and-dances/traditional-games-of-kuwait`) — traditional games of Kuwait: the folk games Kuwaiti children played, such as Al-Hila hopscotch and Taq Taq Taqiya — taught in Kuwait's Folk Games Guide for Girls as ten named games of the sandy lanes (الفرجان) — Al-Hila, Taq Taq Taqiya, Tabaq Hanna Tabaq Mash, Haybala wa Haybala, Ghazala Bazala, Shawt Shawt Ya Batta, Ana Al-Dheeb Bakalkum, Amakor Tah Bil-Tannour, Al-Anbar and Al-Muhaibis — each with its type, definition, rules and song words (Kuwait's teacher guide, evidence only).
 50. **Traditional Dances of Kuwait** (`traditional-games-and-dances/traditional-dances-of-kuwait`) — traditional dances of Kuwait: Kuwaiti folk arts and dances, and movement formations for national occasions — taught in Kuwait's primary girls' guide as Al-Dazza and Al-Saff and in its middle girls' guide as Al-Samri, with movement formations for National Day (25 February), Liberation Day (26 February), the folk occasions and Gargee'an (Kuwait's teacher guides, evidence only).
+51. **Traditional Games of Oman** (`traditional-games-and-dances/traditional-games-of-oman`) — traditional games of Oman: Oman's own folk and playground games — taught in every Oman teacher guide, Grades 1–8, as Omani folk games closing the movement-games units (Oman's teacher guides, evidence only).
 
 ## Unit 8 — Sport and Its Story
 

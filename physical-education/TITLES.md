@@ -339,3 +339,11 @@ Games** (`ball-games/learning-tactics-in-games`),
 **Leadership and Roles in Sport**
 (`sport-and-its-story/leadership-and-roles-in-sport`)
 — 6 new lessons, bringing this course to 204 lessons.
+
+The PE expansion then added: **Goalball**
+(`ball-games/goalball`), **Table Tennis for the
+Visually Impaired**
+(`ball-games/table-tennis-for-the-visually-impaired`) and
+**Traditional Games of Oman**
+(`traditional-games-and-dances/traditional-games-of-oman`)
+— 3 new lessons, bringing this course to 207 lessons.

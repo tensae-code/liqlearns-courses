@@ -1,6 +1,6 @@
 # Sources — Gymnastics Basics — Positions, Rolls and Supports
 
-countries: Ethiopia, Zambia, Kazakhstan, Tajikistan, Timor-Leste, China, Philippines, Azerbaijan, Maldives, Belize, Honduras, Iran, North Macedonia, Jordan, Kuwait, Indonesia
+countries: Ethiopia, Zambia, Kazakhstan, Tajikistan, Timor-Leste, China, Philippines, Azerbaijan, Maldives, Belize, Honduras, Iran, North Macedonia, Jordan, Kuwait, Indonesia, Oman
 
 **Book — Grade 1 student:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 81 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md. COMPLETE.
 
@@ -45,7 +45,7 @@ countries: Ethiopia, Zambia, Kazakhstan, Tajikistan, Timor-Leste, China, Philipp
 | Tajikistan — Part 2, Gymnastics (ГИМНАСТИКА) — what gymnastics is as a sport: drill and commands, acrobatics, rope climbing and supports, with the rules of behaviour in gymnastics lessons (original target `gymnastics/gymnastics-basics-rolls-and-supports`) | Tajikistan, *Fizicheskaya Kultura (Physical Culture), Grades 1–4*, Part 2, printed pp. 67–97 |
 | Timor-Leste — Period 3: Gymnastics demonstration/presentation — preparing and showing gymnastics work as the gymkhana alternative (original target `gymnastics/gymnastics-basics-rolls-and-supports`) | Timor-Leste, *Educação Física 7, Manual do aluno* (Timor-Leste Grade 7 Student Book), printed p. 42 |
 | Timor-Leste — Appendix 5: Gymnastics — gymnastics skills and progressions for the class (teacher guide — evidence) (original target `gymnastics/gymnastics-basics-rolls-and-supports`) | Timor-Leste, *Educação Física 7, Guia do Professor* (Timor-Leste Grade 7 Teacher Guide), printed p. 231 |
-**Acceptance count: taught in 10 countries (Ethiopia, Tajikistan, Timor-Leste, China, Philippines, Azerbaijan, Honduras, Iran, North Macedonia, Jordan).** Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Zambia is added as teacher-module evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Timor-Leste is added as student-book stock (see its rows above), inside the acceptance count; its Appendix 5 gymnastics row rests on the teacher guide and is evidence only. China is added as student-book stock (see its rows below), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Indonesia is added as teacher-guide evidence only (see its Indonesia section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 10 countries (Ethiopia, Tajikistan, Timor-Leste, China, Philippines, Azerbaijan, Honduras, Iran, North Macedonia, Jordan).** Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Zambia is added as teacher-module evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Timor-Leste is added as student-book stock (see its rows above), inside the acceptance count; its Appendix 5 gymnastics row rests on the teacher guide and is evidence only. China is added as student-book stock (see its rows below), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Indonesia is added as teacher-guide evidence only (see its Indonesia section below), named in the countries line but outside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count.
 
 Student books Grades 1–4 are complete. No page is claimed that the placements do not give. Dance and game rules are taught only as the placements summarise them; no rules have been invented for any game the placements leave game-dependent.
 
@@ -424,3 +424,97 @@ Tally (Book 12, PE): 9 placements — 3 to existing lessons, 6 NEW LESSON NEEDED
 Indonesia's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Indonesia's own way is content, as the book lines above record it for each book stocked here. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: gymnastics basics rolls and supports, Indonesia, PJOK G12 Teacher
+
+## Oman — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/oman-pe-placements.md. Oman's books stocked in this lesson are the Ministry of Education teacher guides for Physical & Health Education, Grades 1–8 (Arabic), read in full as filed. The guides are combined PE & Health books: their PE units are filed here and their Health unit (every guide ends with a "Health Culture and Awareness" unit) is filed in oman-health-placements.md and placed in the Health course, not here. Records 1–2 of the placements file (a Ministry editions catalogue Drive link that does not serve the catalogue PDF, and a learnoman.com book-list page) are record-only, not books, with 0 placements — nothing is stocked from them. Oman is teacher-guide evidence only in this lesson — named in the countries line and in the rows below, but outside the acceptance count; no pupil book is claimed from the guides.
+
+**Book — Oman Grade 1 Teacher Guide (teacher guide — evidence):**
+## Teacher Guide: Physical & Health Education, Grade 1 (teacher guide, Arabic)
+Title as printed: دليل معلم مادة التربية البدنية والصحية — الصف الأول (Teacher's Guide, Physical and Health Education, Grade One)
+Grade: 1 (TEACHER)
+Publisher/year/ISBN: Ministry of Education, Sultanate of Oman — First Edition 1446 AH / 2024–2025 CE; prepared by committee under Ministerial Decision 315/2016; no ISBN printed
+PDF pages: 186
+Verdict: COMPLETE
+Tally: 18 placements — 14 existing, 4 NEW
+Oman's own way: the subject is one combined Physical & Health Education course from Grade 1. The PE side is built as six units with child-facing mottos — Exercises ("I exercise in an orderly way"), Basic Locomotor and Non-locomotor Movements ("I move actively"), Handling Movements ("I play with the ball"), Motor Perception and Fluency ("I move fluently"), Movement Games, and Health Culture ("I keep myself healthy"). Every topic follows one lesson-plan pattern: technical points, teaching steps, practice stations, games and competitions. The guide opens with model warm-up small games (inventory only, not placed) and teaches movement partly through acted movement stories.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Oman — Unit 4, Perception and Fluency — rolling the body: forward, backward and side rolls, straight and tucked (teacher guide — evidence) (original target `gymnastics/gymnastics-basics-rolls-and-supports`) | Oman, *Oman G1 Teacher Guide*, printed p. 126 |
+
+**Book — Oman Grade 2 Teacher Guide (teacher guide — evidence):**
+## Teacher Guide: Physical & Health Education, Grade 2 (teacher guide, Arabic)
+Title as printed: دليل معلم مادة التربية البدنية والصحية — الصف الثاني (Teacher's Guide, Physical and Health Education, Grade Two)
+Grade: 2 (TEACHER)
+Publisher/year/ISBN: Ministry of Education, Sultanate of Oman — First Edition 1446 AH / 2024 CE; prepared by committee under Ministerial Decision 232/2018; no ISBN printed
+PDF pages: 194
+Verdict: COMPLETE
+Tally: 16 placements — 13 existing, 3 NEW
+Oman's own way: the same six-unit spine as Grade 1, a step harder — exercises now use derived positions and free exercises without apparatus; locomotor work combines movements (side step, gallop, exchange step); the games unit adds lead-up volleyball; the health unit turns to sound posture and what happens inside the body during exercise.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Oman — Unit 4, Perception and Fluency — rolling (teacher guide — evidence) (original target `gymnastics/gymnastics-basics-rolls-and-supports`) | Oman, *Oman G2 Teacher Guide*, printed p. 122 |
+
+**Book — Oman Grade 3 Teacher Guide (teacher guide — evidence):**
+## Teacher Guide: Physical & Health Education, Grade 3 (teacher guide, Arabic)
+Title as printed: دليل معلم مادة التربية البدنية والصحية — الصف الثالث (Teacher's Guide, Physical and Health Education, Grade Three)
+Grade: 3 (TEACHER)
+Publisher/year/ISBN: Ministry of Education, Sultanate of Oman — First Edition 1446 AH / 2024 CE; prepared by committee under Ministerial Decision 232/2018; no ISBN printed
+PDF pages: 214
+Verdict: COMPLETE
+Tally: 16 placements — 12 existing, 4 NEW
+Oman's own way: Grade 3 reorganises the year — exercises with apparatus and obstacle gymnastics (جمباز الموانع), a Kids' Athletics unit ("I run, I jump, I throw") with running, jumping and throwing events taught as mini-competitions, a first gymnastics unit (forward roll, backward roll, a floor movement sequence), and mini versions of basketball, handball and volleyball.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Oman — Unit 4, Gymnastics — the forward roll (teacher guide — evidence) (original target `gymnastics/gymnastics-basics-rolls-and-supports`) | Oman, *Oman G3 Teacher Guide*, printed p. 128 |
+| Oman — Unit 4, Gymnastics — the backward roll (teacher guide — evidence) (original target `gymnastics/gymnastics-basics-rolls-and-supports`) | Oman, *Oman G3 Teacher Guide*, printed p. 137 |
+
+**Book — Oman Grade 5 Teacher Guide (teacher guide — evidence):**
+## Teacher Guide: Physical & Health Education, Grade 5 (teacher guide, Arabic)
+Title as printed: دليل المعلم لمادة التربية البدنية والصحية للصف الخامس (Teacher's Guide for Physical and Health Education, Grade Five)
+Grade: 5 (TEACHER)
+Publisher/year/ISBN: Ministry of Education, Sultanate of Oman — First Edition 1447 AH / 2025 CE; prepared under Ministerial Decision 252/2024; the guide states it includes the learning outcomes for students with disabilities; no ISBN printed
+PDF pages: 280
+Verdict: COMPLETE
+Tally: 21 placements — 16 existing, 5 NEW
+Oman's own way: the second-cycle guides open with a Physical Fitness unit, keep Kids' Athletics, and split the games across two units — football, basketball, badminton, goalball for visually impaired pupils and folk games in the first; volleyball, handball, table tennis (including a table-tennis topic adapted for visual impairment) and small games in the second. Gymnastics is taught in two tracks: rhythmic gymnastics for girls and floor gymnastics for boys.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Oman — Unit 5, Gymnastics — floor gymnastics (for boys): the forward roll and the backward roll (teacher guide — evidence) (original target `gymnastics/gymnastics-basics-rolls-and-supports`) | Oman, *Oman G5 Teacher Guide*, printed p. 230 |
+| Oman — Unit 5, Gymnastics — floor gymnastics (for boys): the side somersault / cartwheel (الشقلبة الجانبية، العجلة) (teacher guide — evidence) (original target `gymnastics/gymnastics-basics-rolls-and-supports`) | Oman, *Oman G5 Teacher Guide*, printed p. 239 |
+
+**Book — Oman Grade 4 Teacher Guide (teacher guide — evidence):**
+## Teacher Guide: Physical & Health Education, Grade 4 (teacher guide, Arabic)
+Title as printed: دليل معلم مادة التربية البدنية والصحية — الصف الرابع (Teacher's Guide, Physical and Health Education, Grade Four)
+Grade: 4 (TEACHER)
+Publisher/year/ISBN: Ministry of Education, Sultanate of Oman — First Edition 1446 AH / 2024 CE; prepared under Ministerial Decision 232/2018; no ISBN printed
+PDF pages: 222
+Verdict: COMPLETE (this PDF carries no machine-readable text — custom-encoded fonts — so the guide was read from its rendered pages: cover, imprint, full contents, study plan and topic pages)
+Tally: 16 placements — 12 existing, 4 NEW
+Oman's own way: Grade 4 keeps the first-cycle shape — exercises now split into work with hand apparatus, work on gym apparatus, and obstacle gymnastics; Kids' Athletics and the gymnastics unit return, the gymnastics now reaching the flying forward roll and the cartwheel; the health unit pairs body types with a full first-aid topic (filed in the Health file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Oman — Unit 4, Gymnastics — the flying forward roll (الدحرجة الأمامية الطائرة): a forward roll with a flight phase (teacher guide — evidence) (original target `gymnastics/gymnastics-basics-rolls-and-supports`) | Oman, *Oman G4 Teacher Guide*, printed p. 131 |
+| Oman — Unit 4, Gymnastics — the cartwheel (الشقلبة الجانبية، العجلة) (teacher guide — evidence) (original target `gymnastics/gymnastics-basics-rolls-and-supports`) | Oman, *Oman G4 Teacher Guide*, printed p. 139 |
+
+**Book — Oman Grade 6 Teacher Guide (teacher guide — evidence):**
+## Teacher Guide: Physical & Health Education, Grade 6 (teacher guide, Arabic)
+Title as printed: دليل المعلم لمادة التربية البدنية والصحية للصف السادس (Teacher's Guide for Physical and Health Education, Grade Six)
+Grade: 6 (TEACHER)
+Publisher/year/ISBN: Ministry of Education, Sultanate of Oman — First Edition 1447 AH / 2025 CE; prepared under Ministerial Decision 252/2024; the guide states it includes the learning outcomes for students with disabilities; no ISBN printed
+PDF pages: 280
+Verdict: COMPLETE (this PDF's text layer is custom-encoded and extracts garbled, so the guide was read from its rendered pages: cover, title page, imprint, full contents and topic pages)
+Tally: 21 placements — 16 existing, 5 NEW
+Oman's own way: Grade 6 mirrors Grade 5's structure with harder content — athletics becomes three named events (30–60 m sprint from a crouch start, Fosbury high jump from a 3–5 step approach, medicine-ball push), and floor gymnastics for boys reaches the backward roll to handstand and the cartwheel with a quarter turn; the health unit pairs sports values and ethics with healthy food and sport (filed in the Health file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Oman — Unit 5, Gymnastics — floor gymnastics (for boys): the backward roll to a handstand (teacher guide — evidence) (original target `gymnastics/gymnastics-basics-rolls-and-supports`) | Oman, *Oman G6 Teacher Guide*, printed p. 232 |
+| Oman — Unit 5, Gymnastics — floor gymnastics (for boys): the cartwheel with a quarter turn (teacher guide — evidence) (original target `gymnastics/gymnastics-basics-rolls-and-supports`) | Oman, *Oman G6 Teacher Guide*, printed p. 240 |
+
+Oman's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Oman's own way is content, as the book lines above record it: the subject is one combined Physical & Health Education course; the first cycle runs six units with child-facing mottos (Exercises, Basic Movements, Handling Movements, Motor Perception and Fluency, Movement Games, and Health Culture), the second cycle opens with Physical Fitness and Kids' Athletics and splits the games across two Movement Games units — including badminton, goalball for visually impaired pupils, table tennis adapted for visual impairment, and Omani folk games — with gymnastics in two tracks (rhythmic gymnastics for girls, floor gymnastics for boys), and the post-basic guides swap in health-related and skill-related fitness with named athletics events. Every topic follows one lesson-plan pattern: technical points, teaching steps, practice stations, games and competitions. Teacher guides are evidence of what is taught, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

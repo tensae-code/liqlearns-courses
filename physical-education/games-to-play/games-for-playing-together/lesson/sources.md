@@ -1,6 +1,6 @@
 # Sources — Games for Playing Together
 
-countries: Ethiopia, Mozambique, Namibia, Tajikistan, Timor-Leste, Thailand, El Salvador, Philippines, Nicaragua, Honduras, Fiji, Mauritius, North Macedonia, Zimbabwe, Cuba
+countries: Ethiopia, Mozambique, Namibia, Tajikistan, Timor-Leste, Thailand, El Salvador, Philippines, Nicaragua, Honduras, Fiji, Mauritius, North Macedonia, Zimbabwe, Cuba, Oman
 
 **Book 1:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–81 + front matter (88 PDF pages). Printed page = PDF page − 7. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md.
 
@@ -51,7 +51,7 @@ countries: Ethiopia, Mozambique, Namibia, Tajikistan, Timor-Leste, Thailand, El 
 | Thailand — Unit 9 (part 1) Miscellaneous games and how to play them together — what เกมเบ็ดเตล็ด (miscellaneous games) are, their benefits, and the rules, regulations and agreements for playing games in a group (student book — MAC sample, PARTIAL) (original target `games-to-play/games-for-playing-together`) | Thailand, *Health & PE, Grade 2* (Thailand Grade 2 MAC Health & PE), Unit 9 (part 1), printed pp. 148–151 |
 | Thailand — Unit 9 (part 2) On-the-spot games — Find the Leader (เกมตามหาผู้นำ), Do As I Say (เกมทำตามฉันบอก), the Robot Game (เกมหุ่นยนต์) and the Clock Hands Game (เกมหมุนเข็มนาฬิกา) (student book — MAC sample, PARTIAL) (original target `games-to-play/games-for-playing-together`) | Thailand, *Health & PE, Grade 2* (Thailand Grade 2 MAC Health & PE), Unit 9 (part 2), printed pp. 151–155 |
 | Thailand — Unit 3, Ch. 2 Games that develop body movement — playing miscellaneous games using directed movement skills (student book — SSR flipbook sample, PARTIAL) (original target `games-to-play/games-for-playing-together`) | Thailand, *Health & PE, Grade 3* (Thailand Grade 3 SSR Health & PE), Unit 3, Ch. 2, printed pp. 57–63 |
-**Acceptance count: taught in 7 countries (Ethiopia, Tajikistan, Timor-Leste, Thailand, Philippines, Honduras, North Macedonia).** Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Namibia is added as teacher-guide evidence only the same way, outside the acceptance count. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Timor-Leste is added as student-book stock (see its row above), inside the acceptance count; its human-football row, filed under the original string `ball-games/human-football` and resolved to this lesson by registry Part 2, rests on the teacher guide and is evidence only. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Mauritius is added as teacher-guide evidence only (see its Mauritius section below), named in the countries line but outside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Zimbabwe is added as teacher-guide evidence only (see its Zimbabwe section below), named in the countries line but outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 7 countries (Ethiopia, Tajikistan, Timor-Leste, Thailand, Philippines, Honduras, North Macedonia).** Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Namibia is added as teacher-guide evidence only the same way, outside the acceptance count. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Timor-Leste is added as student-book stock (see its row above), inside the acceptance count; its human-football row, filed under the original string `ball-games/human-football` and resolved to this lesson by registry Part 2, rests on the teacher guide and is evidence only. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Mauritius is added as teacher-guide evidence only (see its Mauritius section below), named in the countries line but outside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Zimbabwe is added as teacher-guide evidence only (see its Zimbabwe section below), named in the countries line but outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count.
 
 The Grade 1 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -373,3 +373,65 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/cuba-pe-plac
 | Cuba — Unidad Juegos: juegos de saltar — named jumping games (e.g. "Salta igual que la pelota") played in teams (original target `games-to-play/games-for-playing-together`) | Cuba Grade 2 G2 Orientaciones, printed p. 92 |
 
 Cuba's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Cuba enters this lesson as teacher-guide/programme evidence only, outside the acceptance count. Cuba's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Oman — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/oman-pe-placements.md. Oman's books stocked in this lesson are the Ministry of Education teacher guides for Physical & Health Education, Grades 1–8 (Arabic), read in full as filed. The guides are combined PE & Health books: their PE units are filed here and their Health unit (every guide ends with a "Health Culture and Awareness" unit) is filed in oman-health-placements.md and placed in the Health course, not here. Records 1–2 of the placements file (a Ministry editions catalogue Drive link that does not serve the catalogue PDF, and a learnoman.com book-list page) are record-only, not books, with 0 placements — nothing is stocked from them. Oman is teacher-guide evidence only in this lesson — named in the countries line and in the rows below, but outside the acceptance count; no pupil book is claimed from the guides.
+
+**Book — Oman Grade 1 Teacher Guide (teacher guide — evidence):**
+## Teacher Guide: Physical & Health Education, Grade 1 (teacher guide, Arabic)
+Title as printed: دليل معلم مادة التربية البدنية والصحية — الصف الأول (Teacher's Guide, Physical and Health Education, Grade One)
+Grade: 1 (TEACHER)
+Publisher/year/ISBN: Ministry of Education, Sultanate of Oman — First Edition 1446 AH / 2024–2025 CE; prepared by committee under Ministerial Decision 315/2016; no ISBN printed
+PDF pages: 186
+Verdict: COMPLETE
+Tally: 18 placements — 14 existing, 4 NEW
+Oman's own way: the subject is one combined Physical & Health Education course from Grade 1. The PE side is built as six units with child-facing mottos — Exercises ("I exercise in an orderly way"), Basic Locomotor and Non-locomotor Movements ("I move actively"), Handling Movements ("I play with the ball"), Motor Perception and Fluency ("I move fluently"), Movement Games, and Health Culture ("I keep myself healthy"). Every topic follows one lesson-plan pattern: technical points, teaching steps, practice stations, games and competitions. The guide opens with model warm-up small games (inventory only, not placed) and teaches movement partly through acted movement stories.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Oman — Unit 1, Exercises — movement stories and imitative exercises: acting out "A Trip to the Garden" and "A Day in the Life of the Active Pupil" (teacher guide — evidence) (original target `games-to-play/games-for-playing-together`) | Oman, *Oman G1 Teacher Guide*, printed p. 52 |
+
+**Book — Oman Grade 2 Teacher Guide (teacher guide — evidence):**
+## Teacher Guide: Physical & Health Education, Grade 2 (teacher guide, Arabic)
+Title as printed: دليل معلم مادة التربية البدنية والصحية — الصف الثاني (Teacher's Guide, Physical and Health Education, Grade Two)
+Grade: 2 (TEACHER)
+Publisher/year/ISBN: Ministry of Education, Sultanate of Oman — First Edition 1446 AH / 2024 CE; prepared by committee under Ministerial Decision 232/2018; no ISBN printed
+PDF pages: 194
+Verdict: COMPLETE
+Tally: 16 placements — 13 existing, 3 NEW
+Oman's own way: the same six-unit spine as Grade 1, a step harder — exercises now use derived positions and free exercises without apparatus; locomotor work combines movements (side step, gallop, exchange step); the games unit adds lead-up volleyball; the health unit turns to sound posture and what happens inside the body during exercise.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Oman — Unit 1, Exercises — movement representation: acting and imitating movements (teacher guide — evidence) (original target `games-to-play/games-for-playing-together`) | Oman, *Oman G2 Teacher Guide*, printed p. 51 |
+
+**Book — Oman Grade 5 Teacher Guide (teacher guide — evidence):**
+## Teacher Guide: Physical & Health Education, Grade 5 (teacher guide, Arabic)
+Title as printed: دليل المعلم لمادة التربية البدنية والصحية للصف الخامس (Teacher's Guide for Physical and Health Education, Grade Five)
+Grade: 5 (TEACHER)
+Publisher/year/ISBN: Ministry of Education, Sultanate of Oman — First Edition 1447 AH / 2025 CE; prepared under Ministerial Decision 252/2024; the guide states it includes the learning outcomes for students with disabilities; no ISBN printed
+PDF pages: 280
+Verdict: COMPLETE
+Tally: 21 placements — 16 existing, 5 NEW
+Oman's own way: the second-cycle guides open with a Physical Fitness unit, keep Kids' Athletics, and split the games across two units — football, basketball, badminton, goalball for visually impaired pupils and folk games in the first; volleyball, handball, table tennis (including a table-tennis topic adapted for visual impairment) and small games in the second. Gymnastics is taught in two tracks: rhythmic gymnastics for girls and floor gymnastics for boys.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Oman — Unit 4, Movement Games (2) — small games (teacher guide — evidence) (original target `games-to-play/games-for-playing-together`) | Oman, *Oman G5 Teacher Guide*, printed p. 193 |
+
+**Book — Oman Grade 6 Teacher Guide (teacher guide — evidence):**
+## Teacher Guide: Physical & Health Education, Grade 6 (teacher guide, Arabic)
+Title as printed: دليل المعلم لمادة التربية البدنية والصحية للصف السادس (Teacher's Guide for Physical and Health Education, Grade Six)
+Grade: 6 (TEACHER)
+Publisher/year/ISBN: Ministry of Education, Sultanate of Oman — First Edition 1447 AH / 2025 CE; prepared under Ministerial Decision 252/2024; the guide states it includes the learning outcomes for students with disabilities; no ISBN printed
+PDF pages: 280
+Verdict: COMPLETE (this PDF's text layer is custom-encoded and extracts garbled, so the guide was read from its rendered pages: cover, title page, imprint, full contents and topic pages)
+Tally: 21 placements — 16 existing, 5 NEW
+Oman's own way: Grade 6 mirrors Grade 5's structure with harder content — athletics becomes three named events (30–60 m sprint from a crouch start, Fosbury high jump from a 3–5 step approach, medicine-ball push), and floor gymnastics for boys reaches the backward roll to handstand and the cartwheel with a quarter turn; the health unit pairs sports values and ethics with healthy food and sport (filed in the Health file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Oman — Unit 4, Movement Games (2) — small games (teacher guide — evidence) (original target `games-to-play/games-for-playing-together`) | Oman, *Oman G6 Teacher Guide*, printed p. 192 |
+
+Oman's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Oman's own way is content, as the book lines above record it: the subject is one combined Physical & Health Education course; the first cycle runs six units with child-facing mottos (Exercises, Basic Movements, Handling Movements, Motor Perception and Fluency, Movement Games, and Health Culture), the second cycle opens with Physical Fitness and Kids' Athletics and splits the games across two Movement Games units — including badminton, goalball for visually impaired pupils, table tennis adapted for visual impairment, and Omani folk games — with gymnastics in two tracks (rhythmic gymnastics for girls, floor gymnastics for boys), and the post-basic guides swap in health-related and skill-related fitness with named athletics events. Every topic follows one lesson-plan pattern: technical points, teaching steps, practice stations, games and competitions. Teacher guides are evidence of what is taught, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
