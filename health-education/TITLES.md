@@ -359,3 +359,26 @@ placement (Grade 7, Chapter 3: Joints and Postural Defects)
 resolves to the PE course's Correct Posture lesson and was
 excluded here; it is not yet stocked in PE either (verified by
 git grep on origin/main — see CURRICULUM.md).
+
+The Health expansion then added (Malaysia): no new lessons —
+47 placements stocked into existing lessons (Family and
+Friends ×9, Staying Safe on the Street ×6, Mental Health and
+Wellbeing ×5, Saying No to Drugs, Alcohol and Tobacco ×5,
+Eating a Balanced Diet ×4, Preventing Sports Injuries and
+First Aid ×4, STIs and HIV Prevention ×3, Puberty and Growing
+Up ×2, Non-communicable Diseases ×2, Sex and Consent ×2,
+Diseases of Inactivity, Food Hygiene and Safe Cooking,
+Reproduction and Pregnancy, Avoiding Accidents and Staying
+Safe, Staying Safe While Exercising) — this course stays at
+52 lessons. All 47 placements are from Malaysia's five
+combined PJPK student books, Tingkatan 1–5 (Malay, for
+Kementerian Pendidikan Malaysia, all COMPLETE), so Malaysia
+is student-book stock, inside the acceptance counts, in every
+lesson it touches (each touched lesson's count rose by 1).
+30 placements were filed as HELD-title-decision lines,
+resolved by registry Part 2B; 6 further placements were
+resolved by registry Part 2A (substance abuse → Saying No to
+Drugs, Alcohol and Tobacco; personal safety → Avoiding
+Accidents and Staying Safe), original strings recorded in
+the provenance rows. No Malaysia placement resolves to a
+PE-course lesson, so none was excluded as PE-bound.

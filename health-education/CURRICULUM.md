@@ -922,3 +922,50 @@ Urdu-medium combined Health and Physical Education books in
 which each grade pairs body-system and disease teaching with
 diet, medicines and safety chapters, and the senior books close
 with conflicts, bullying, doping and violence.
+
+**Health expansion — Malaysia — BUILT 2026-11-16:** 47 placements
+stocked — all into existing lessons, no new lessons — this
+course stays at **52 lessons**. Stocked into: Family and
+Friends (9), Staying Safe on the Street (6), Mental Health
+and Wellbeing (5), Saying No to Drugs, Alcohol and Tobacco
+(5), Eating a Balanced Diet (4), Preventing Sports Injuries
+and First Aid (4), STIs and HIV Prevention (3), Puberty and
+Growing Up (2), Non-communicable Diseases (2), Sex and
+Consent (2), Diseases of Inactivity (1), Food Hygiene and
+Safe Cooking (1), Reproduction and Pregnancy (1), Avoiding
+Accidents and Staying Safe (1) and Staying Safe While
+Exercising (1). All 47 placements are from Malaysia's five
+combined Pendidikan Jasmani dan Pendidikan Kesihatan (PJPK)
+student books, Tingkatan 1–5 (Forms 1–5 / Grades 7–11, Malay,
+for Kementerian Pendidikan Malaysia — Book 1 Aras Mega 2016,
+ISBN 978-967-0520-68-1; Book 2 Telaga Biru 2017, ISBN
+978-967-388-329-5; Book 3 Aras Mega 2018, ISBN
+978-967-2212-03-4; Book 4 Telaga Biru 2019, ISBN
+978-967-388-496-4; Book 5 Karangkraf Network 2020, ISBN
+978-967-14472-9-1 — all COMPLETE); their PE parts are filed
+in malaysia-pe-placements.md and placed in the Physical
+Education course. The Malaysia books are STUDENT books, so
+Malaysia is student-book stock, inside the acceptance
+counts, in every lesson it touches (each touched lesson's
+count rose by 1; Sex and Consent, STIs and HIV Prevention
+and Reproduction and Pregnancy rise from 0 to 1, their first
+student-book stock). 30 of the placements were filed as
+HELD-title-decision lines, resolved by registry Part 2B;
+the 5 substance-abuse placements were filed under
+`fair-play-and-the-body/smoking-alcohol-and-drugs` and the
+personal-safety placement under
+`staying-safe/keeping-yourself-safe-from-harm`, both
+resolved by registry Part 2A (to Saying No to Drugs, Alcohol
+and Tobacco and Avoiding Accidents and Staying Safe
+respectively), with the original strings recorded in the
+provenance rows. No Malaysia placement resolves to a
+PE-course lesson, so none was excluded as PE-bound. Each
+book's own Revision/Assessment items and glossary/index are
+named only, not placed (standing exclusions), as filed.
+Malaysia's own way is recorded as content in the book lines:
+health is taught as the PEERS programme (Pendidikan
+Kesihatan Reproduktif dan Sosial — reproductive and social
+health education) in seven topics, followed by standalone
+Nutrition and First Aid units, with psychosocial skills
+(assertiveness, communication, decision-making) running
+through every topic.

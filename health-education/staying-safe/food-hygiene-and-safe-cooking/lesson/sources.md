@@ -1,8 +1,8 @@
 # Sources — Food Hygiene and Safe Cooking
 
-countries: El Salvador, Ukraine, Turkey
+countries: El Salvador, Ukraine, Turkey, Malaysia
 
-**Acceptance count: taught in 3 countries.** El Salvador is filed as student-book stock, inside the acceptance count, in this lesson. Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book.
+**Acceptance count: taught in 4 countries.** El Salvador is filed as student-book stock, inside the acceptance count, in this lesson. Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book. Malaysia is filed as student-book stock, inside the acceptance count, in this lesson (see its Malaysia section below).
 
 **Book 1 — Ciencia, Salud y Medio Ambiente 1 (student book, Spanish):**
 - Title as printed: Ciencia, Salud y Medio Ambiente 1 (Colección Cipotas y Cipotes)
@@ -66,4 +66,24 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkey-healt
 
 Turkey's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the health slug registry (Part 2A / Part 2B) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Turkey's own way is content, as the book lines above record it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: food hygiene and safe cooking, flies carry disease, dysentery typhoid fever parasites, keeping food covered, washing and disinfecting vegetables, handwashing, El Salvador Ciencia Salud y Medio Ambiente 1, Fuera moscas, La preparación de los alimentos, teen nutrition, preventing food poisoning, Ukraine G7 Health Safety and Wellbeing Shyian, food safety and preventing food-borne illness, Gıda Kaynaklı Hastalıkları Önleme, Turkey Health & Traffic Culture
+## Malaysia — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/malaysia-health-placements.md. The Malaysia book(s) stocked in this lesson: Book 2 of that file. Malaysia's books are combined Pendidikan Jasmani dan Pendidikan Kesihatan (PJPK) student books (Malay) for Kementerian Pendidikan Malaysia; their PE parts are filed in malaysia-pe-placements.md and placed in the Physical Education course. All five books are STUDENT books, so Malaysia is student-book stock, inside the acceptance count, in this lesson. Each book's own Revision/Assessment items and glossary/index are named only, not placed (standing exclusions), as filed. No Malaysia placement resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 2 — PJPK Tingkatan 2 (student book, Malay) — Health chapters:**
+- Title as printed: Pendidikan Jasmani dan Pendidikan Kesihatan Tingkatan 2
+- Grade: Form 2 / Grade 8 (student/teacher: STUDENT)
+- Publisher: Telaga Biru Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2017; ISBN 978-967-388-329-5
+- PDF pages: 113 two-page spreads = 226 printed pages (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: see end of section
+- Malaysia's own way: the PEERS health unit is built around psychosocial competence skills (kemahiran kecekapan psikososial) — the same decision-making and refusal skills are applied in turn to reproductive health, substance abuse, stress, family, relationships, disease and safety.
+- Combined book: PE parts are placed in malaysia-pe-placements.md (Book 2 there). The book's own Revision/Assessment items and glossary/index are named only, not placed (standing exclusions).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 2 Pemakanan — food safety and food quality: the five food-handling processes (choosing, storing, preparing, cooking, serving), choosing food by sight/smell/taste and expiry date, and avoiding damaged packaging (original string `staying-safe/HELD-title-decision`) | Malaysia Grade 8 PJPK Tingkatan 2, printed p. 192 |
+
+Malaysia is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — all five Malaysia books are STUDENT books, so Malaysia is named in the countries line and provenance rows and the acceptance count rises from 3 to 4 countries. The Malaysia placements in this lesson were filed under the original strings recorded in the provenance rows above; the HELD-title-decision placements were resolved to this canonical lesson by registry Part 2B (HELD descriptions as recorded in the provenance rows). Malaysia's own way is content, as the book lines above record it: health is taught as the PEERS programme (Pendidikan Kesihatan Reproduktif dan Sosial — reproductive and social health education), with psychosocial skills — assertiveness, communication and decision-making — running through every topic, followed by standalone Nutrition and First Aid units. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: food hygiene and safe cooking, flies carry disease, dysentery typhoid fever parasites, keeping food covered, washing and disinfecting vegetables, handwashing, El Salvador Ciencia Salud y Medio Ambiente 1, Fuera moscas, La preparación de los alimentos, teen nutrition, preventing food poisoning, Ukraine G7 Health Safety and Wellbeing Shyian, food safety and preventing food-borne illness, Gıda Kaynaklı Hastalıkları Önleme, Turkey Health & Traffic Culture, Malaysia PJPK Tingkatan 2, Pemakanan, food safety and food quality, five food-handling processes, expiry date, damaged packaging, PEERS

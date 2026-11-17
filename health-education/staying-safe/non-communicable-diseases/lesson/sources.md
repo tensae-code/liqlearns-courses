@@ -1,8 +1,8 @@
 # Sources — Non-communicable Diseases
 
-countries: Cuba, Oman, Samoa, Bulgaria, Greece, Pakistan
+countries: Cuba, Oman, Samoa, Bulgaria, Greece, Pakistan, Malaysia
 
-**Acceptance count: taught in 3 countries.** Cuba is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand. Oman is likewise filed as teacher-guide evidence only, outside the acceptance count. Bulgaria is filed as student-book stock, inside the acceptance count, in this lesson — the first pupil's book in hand for this lesson, so the acceptance count rises from 0 to 1 country. Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Pakistan is added as student-book stock (see its Pakistan section below), inside the acceptance count.
+**Acceptance count: taught in 4 countries.** Cuba is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand. Oman is likewise filed as teacher-guide evidence only, outside the acceptance count. Bulgaria is filed as student-book stock, inside the acceptance count, in this lesson — the first pupil's book in hand for this lesson, so the acceptance count rises from 0 to 1 country. Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Pakistan is added as student-book stock (see its Pakistan section below), inside the acceptance count. Malaysia is filed as student-book stock, inside the acceptance count, in this lesson (see its Malaysia section below).
 
 **Book 2 (cross-filed) — G2 Orientaciones Metodológicas (teacher guide, Spanish):**
 - Title as printed: Orientaciones Metodológicas — Educación Física, segundo grado
@@ -157,4 +157,35 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/pakistan-hea
 
 Pakistan is added as student-book stock (see its book lines and rows above), inside the acceptance count — all seven Pakistan books are STUDENT books, so Pakistan is named in the countries line and provenance rows and the acceptance count rises from 2 to 3 countries. The Pakistan placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the health slug registry to this lesson; the original string is recorded in each row. Pakistan's own way is content: Urdu-medium combined Health and Physical Education books for Grades 6–12 in which each grade pairs body-system and disease teaching with diet, medicines and safety chapters, and the senior books close with conflicts, bullying, doping and violence. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: non-communicable diseases, obesity, overweight, BMI percentile tables, childhood overweight, Cuba, Orientaciones Metodológicas Educación Física segundo grado, obesity السمنة, causes and harms of obesity, preventing obesity, Oman G7 Teacher Guide, lifestyle diseases NCDs health checks blood pressure blood sugar iron levels healthy choices, Samoa Years 1–8 Curriculum, cardiovascular diseases and prevention, Bulgaria Biology and Health Education Grade 8 Pedagog 6, exercise and obesity, Άσκηση και παχυσαρκία, normal body-fat limits, healthy balanced eating systematic exercise, Greece Grades 7-9 Fysiki Agogi Gymnasiou, communicable and non-communicable diseases, jaundice hepatitis, obesity, diabetes, asthma, blood pressure, osteoporosis, heart attack, angina, lung cancer, Pakistan Grades 6 7 9 10 11 12 Sehat-o-Jismani Taleem
+## Malaysia — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/malaysia-health-placements.md. The Malaysia book(s) stocked in this lesson: Book 2, Book 4 of that file. Malaysia's books are combined Pendidikan Jasmani dan Pendidikan Kesihatan (PJPK) student books (Malay) for Kementerian Pendidikan Malaysia; their PE parts are filed in malaysia-pe-placements.md and placed in the Physical Education course. All five books are STUDENT books, so Malaysia is student-book stock, inside the acceptance count, in this lesson. Each book's own Revision/Assessment items and glossary/index are named only, not placed (standing exclusions), as filed. No Malaysia placement resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 2 — PJPK Tingkatan 2 (student book, Malay) — Health chapters:**
+- Title as printed: Pendidikan Jasmani dan Pendidikan Kesihatan Tingkatan 2
+- Grade: Form 2 / Grade 8 (student/teacher: STUDENT)
+- Publisher: Telaga Biru Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2017; ISBN 978-967-388-329-5
+- PDF pages: 113 two-page spreads = 226 printed pages (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: see end of section
+- Malaysia's own way: the PEERS health unit is built around psychosocial competence skills (kemahiran kecekapan psikososial) — the same decision-making and refusal skills are applied in turn to reproductive health, substance abuse, stress, family, relationships, disease and safety.
+- Combined book: PE parts are placed in malaysia-pe-placements.md (Book 2 there). The book's own Revision/Assessment items and glossary/index are named only, not placed (standing exclusions).
+
+**Book 4 — PJPK Tingkatan 4 (student book, Malay) — Health chapters:**
+- Title as printed: Pendidikan Jasmani dan Pendidikan Kesihatan Tingkatan 4
+- Grade: Form 4 / Grade 10 (student/teacher: STUDENT)
+- Publisher: Telaga Biru Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2019; ISBN 978-967-388-496-4
+- PDF pages: 126 two-page spreads = 232 printed pages (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: see end of section
+- Malaysia's own way: each PEERS topic again has one sharp upper-secondary focus — abstinence, the "drug trap", depression, parenting skills, cyber sex, thalassemia, human trafficking — and first aid is now CPR.
+- Combined book: PE parts are placed in malaysia-pe-placements.md (Book 4 there). The book's own Revision/Assessment items and glossary/index are named only, not placed (standing exclusions).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 1 §6.0 Penyakit — non-communicable diseases: diabetes, hypertension, cardiovascular disease and chronic respiratory disease, how they differ from communicable diseases, and preventing them with a healthy lifestyle and regular health checks (original string `staying-safe/HELD-title-decision`) | Malaysia Grade 8 PJPK Tingkatan 2, printed p. 176 |
+| Malaysia — Unit 1 §6.0 Penyakit — thalassemia: its effects on self, family and society, and screening in pregnancy at 10–11 weeks (original string `staying-safe/HELD-title-decision`) | Malaysia Grade 10 PJPK Tingkatan 4, printed p. 198 |
+
+Malaysia is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — all five Malaysia books are STUDENT books, so Malaysia is named in the countries line and provenance rows and the acceptance count rises from 3 to 4 countries. The Malaysia placements in this lesson were filed under the original strings recorded in the provenance rows above; the HELD-title-decision placements were resolved to this canonical lesson by registry Part 2B (HELD descriptions as recorded in the provenance rows). Malaysia's own way is content, as the book lines above record it: health is taught as the PEERS programme (Pendidikan Kesihatan Reproduktif dan Sosial — reproductive and social health education), with psychosocial skills — assertiveness, communication and decision-making — running through every topic, followed by standalone Nutrition and First Aid units. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: non-communicable diseases, obesity, overweight, BMI percentile tables, childhood overweight, Cuba, Orientaciones Metodológicas Educación Física segundo grado, obesity السمنة, causes and harms of obesity, preventing obesity, Oman G7 Teacher Guide, lifestyle diseases NCDs health checks blood pressure blood sugar iron levels healthy choices, Samoa Years 1–8 Curriculum, cardiovascular diseases and prevention, Bulgaria Biology and Health Education Grade 8 Pedagog 6, exercise and obesity, Άσκηση και παχυσαρκία, normal body-fat limits, healthy balanced eating systematic exercise, Greece Grades 7-9 Fysiki Agogi Gymnasiou, communicable and non-communicable diseases, jaundice hepatitis, obesity, diabetes, asthma, blood pressure, osteoporosis, heart attack, angina, lung cancer, Pakistan Grades 6 7 9 10 11 12 Sehat-o-Jismani Taleem, Malaysia PJPK, Penyakit, diabetes hypertension cardiovascular disease chronic respiratory disease, thalassemia, health checks, PEERS

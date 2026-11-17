@@ -1,8 +1,8 @@
 # Sources — Saying No to Drugs, Alcohol and Tobacco
 
-countries: Turkmenistan, Namibia, Zambia, Samoa, Bulgaria, Greece, Azerbaijan, Ukraine, Turkey, Sierra Leone, Pakistan
+countries: Turkmenistan, Namibia, Zambia, Samoa, Bulgaria, Greece, Azerbaijan, Ukraine, Turkey, Sierra Leone, Pakistan, Malaysia
 
-**Acceptance count: taught in 7 countries.** Bulgaria is filed as student-book stock, inside the acceptance count, in this lesson. Turkmenistan is filed as student-book stock, inside the acceptance count, in this lesson. Namibia is filed as teacher-guide evidence only — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Namibia row. Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count (still taught in 1 country). Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below). Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book. Sierra Leone is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Sierra Leone rows (see its Sierra Leone section below). Pakistan is added as student-book stock (see its Pakistan section below), inside the acceptance count.
+**Acceptance count: taught in 8 countries.** Bulgaria is filed as student-book stock, inside the acceptance count, in this lesson. Turkmenistan is filed as student-book stock, inside the acceptance count, in this lesson. Namibia is filed as teacher-guide evidence only — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Namibia row. Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count (still taught in 1 country). Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below). Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book. Sierra Leone is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Sierra Leone rows (see its Sierra Leone section below). Pakistan is added as student-book stock (see its Pakistan section below), inside the acceptance count. Malaysia is filed as student-book stock, inside the acceptance count, in this lesson (see its Malaysia section below).
 
 **Book 1 — Bedenterbiýe (Physical Education) (student book — study guide for higher schools, Turkmen) — Health parts only:**
 - Title as printed: Bedenterbiýe — Ýokary okuw mekdepleri üçin okuw gollanmasy (Physical Education — a study guide for higher schools) (full header in turkmenistan-pe-placements.md, Book 1)
@@ -219,4 +219,68 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/pakistan-hea
 
 Pakistan is added as student-book stock (see its book lines and rows above), inside the acceptance count — all seven Pakistan books are STUDENT books, so Pakistan is named in the countries line and provenance rows and the acceptance count rises from 6 to 7 countries. The Pakistan placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the health slug registry to this lesson; the original string is recorded in each row. Pakistan's own way is content: Urdu-medium combined Health and Physical Education books for Grades 6–12 in which each grade pairs body-system and disease teaching with diet, medicines and safety chapters, and the senior books close with conflicts, bullying, doping and violence. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: saying no to drugs alcohol and tobacco, harmful habits that damage health, Saglyga zeper ýetirýän zyýanly endikler, habits that injure health, Turkmenistan Bedenterbiýe, substance abuse types consequences risks, legal alcohol age 18 Namibia, Healthy Lifestyle Session 4, Namibia PE4Life Guide, drugs and alcohol harms to learners, prevention, Zambia Health Teacher Training Manual 2025, alcohol drugs smoking impact on the family unsafe sex STDs HIV AIDS hepatitis, Samoa Years 11–12 TG, tobacco smoking discussion, psychoactive substances discussion, drugs narcotics discussions and projects, Bulgaria Biology and Health Education Grades 8 and 10 Pedagog 6, exercise keeps us from smoking, reducing young smokers, imitate healthy behaviours, Greece Grades 7-9 Fysiki Agogi Gymnasiou, Azerbaijan Fiziki Tərbiyə Grades 6-10, Georgian-language edition, hardening the body, self-control diary, substance misuse, medicine instructions, consequences of abuse, Ukraine G7 Health Safety and Wellbeing Shyian, addictions and how to resist them, Bağımlılıklar, Turkey Health & Traffic Culture, Sierra Leone AHLS Teacher's Manual SSS1 SSS2 SSS3, adolescent health and life skills Sierra Leone, harms of smoking, preventing smoking, Pakistan Grade 8 Sehat-o-Jismani Taleem
+## Malaysia — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/malaysia-health-placements.md. The Malaysia book(s) stocked in this lesson: Book 1, Book 2, Book 3, Book 4, Book 5 of that file. Malaysia's books are combined Pendidikan Jasmani dan Pendidikan Kesihatan (PJPK) student books (Malay) for Kementerian Pendidikan Malaysia; their PE parts are filed in malaysia-pe-placements.md and placed in the Physical Education course. All five books are STUDENT books, so Malaysia is student-book stock, inside the acceptance count, in this lesson. Each book's own Revision/Assessment items and glossary/index are named only, not placed (standing exclusions), as filed. No Malaysia placement resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 1 — PJPK Tingkatan 1 (student book, Malay) — Health chapters:**
+- Title as printed: Pendidikan Jasmani dan Pendidikan Kesihatan Tingkatan 1
+- Grade: Form 1 / Grade 7 (student/teacher: STUDENT)
+- Publisher: Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2016; ISBN 978-967-0520-68-1
+- PDF pages: 203 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: see end of section
+- Malaysia's own way: Health is taught as the PEERS programme (Pendidikan Kesihatan Reproduktif dan Sosial — reproductive and social health education) in seven topics, followed by standalone Nutrition and First Aid units; psychosocial skills (assertiveness, communication, decision-making) run through every topic.
+- Combined book: PE parts are placed in malaysia-pe-placements.md (Book 1 there). The book's own Revision/Assessment items and glossary/index are named only, not placed (standing exclusions).
+
+**Book 2 — PJPK Tingkatan 2 (student book, Malay) — Health chapters:**
+- Title as printed: Pendidikan Jasmani dan Pendidikan Kesihatan Tingkatan 2
+- Grade: Form 2 / Grade 8 (student/teacher: STUDENT)
+- Publisher: Telaga Biru Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2017; ISBN 978-967-388-329-5
+- PDF pages: 113 two-page spreads = 226 printed pages (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: see end of section
+- Malaysia's own way: the PEERS health unit is built around psychosocial competence skills (kemahiran kecekapan psikososial) — the same decision-making and refusal skills are applied in turn to reproductive health, substance abuse, stress, family, relationships, disease and safety.
+- Combined book: PE parts are placed in malaysia-pe-placements.md (Book 2 there). The book's own Revision/Assessment items and glossary/index are named only, not placed (standing exclusions).
+
+**Book 3 — PJPK Tingkatan 3 (student book, Malay) — Health chapters:**
+- Title as printed: Pendidikan Jasmani dan Pendidikan Kesihatan Tingkatan 3
+- Grade: Form 3 / Grade 9 (student/teacher: STUDENT)
+- Publisher: Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2018; ISBN 978-967-2212-03-4
+- PDF pages: 204 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: see end of section
+- Malaysia's own way: each PEERS topic has one sharp Form 3 focus — gender and socialisation, drug laws, anger, incest prevention, friendship, HIV/AIDS, exploitation — stated as numbered learning standards (1.1.1, 2.1.1…) at the head of every topic.
+- Combined book: PE parts are placed in malaysia-pe-placements.md (Book 3 there). The book's own Revision/Assessment items and glossary/index are named only, not placed (standing exclusions).
+
+**Book 4 — PJPK Tingkatan 4 (student book, Malay) — Health chapters:**
+- Title as printed: Pendidikan Jasmani dan Pendidikan Kesihatan Tingkatan 4
+- Grade: Form 4 / Grade 10 (student/teacher: STUDENT)
+- Publisher: Telaga Biru Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2019; ISBN 978-967-388-496-4
+- PDF pages: 126 two-page spreads = 232 printed pages (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: see end of section
+- Malaysia's own way: each PEERS topic again has one sharp upper-secondary focus — abstinence, the "drug trap", depression, parenting skills, cyber sex, thalassemia, human trafficking — and first aid is now CPR.
+- Combined book: PE parts are placed in malaysia-pe-placements.md (Book 4 there). The book's own Revision/Assessment items and glossary/index are named only, not placed (standing exclusions).
+
+**Book 5 — PJPK Tingkatan 5 (student book, Malay) — Health chapters:**
+- Title as printed: Pendidikan Jasmani dan Pendidikan Kesihatan Tingkatan 5
+- Grade: Form 5 / Grade 11 (student/teacher: STUDENT)
+- Publisher: Karangkraf Network Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2020; ISBN 978-967-14472-9-1
+- PDF pages: 196 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: see end of section
+- Malaysia's own way: the final PEERS year teaches life-after-school health: reproductive-health rights, sexual grooming (amang seksual), addiction relapse, emotional instability, family conflict, antisocial behaviour, STI detection and cyberbullying; nutrition becomes lifelong diet management and first aid becomes disaster safety.
+- Combined book: PE parts are placed in malaysia-pe-placements.md (Book 5 there). The book's own Revision/Assessment items and glossary/index are named only, not placed (standing exclusions).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 1 §3.0 Penyalahgunaan Bahan — the influence of cigarettes, alcohol and drugs on self, family and society; the dangers of second-hand smoke to passive smokers; refusing involvement (original string `fair-play-and-the-body/smoking-alcohol-and-drugs`) | Malaysia Grade 7 PJPK Tingkatan 1, printed p. 140 |
+| Malaysia — Unit 1 §2.0 Penyalahgunaan Bahan — substance abuse (drugs, alcohol, glue/inhalants): its risks to body systems, self-control, family and society, the benefits of not being involved, and psychosocial skills for resisting it (original string `fair-play-and-the-body/smoking-alcohol-and-drugs`) | Malaysia Grade 8 PJPK Tingkatan 2, printed p. 150 |
+| Malaysia — Unit 1 §2.0 Penyalahgunaan Bahan — substance abuse and the law: the importance of obeying substance-abuse rules and laws, and the implications of breaking them (original string `fair-play-and-the-body/smoking-alcohol-and-drugs`) | Malaysia Grade 9 PJPK Tingkatan 3, printed p. 142 |
+| Malaysia — Unit 1 §2.0 Penyalahgunaan Bahan — the drug trap (jerat dadah): discussing its implications for self, family and society, and thinking long before accepting an offer (original string `fair-play-and-the-body/smoking-alcohol-and-drugs`) | Malaysia Grade 10 PJPK Tingkatan 4, printed p. 166 |
+| Malaysia — Unit 1 §2.0 Penyalahgunaan Bahan — addiction relapse (penagihan berulang): returning to drugs, smoking or alcohol after quitting — its causes, implications, and how to handle it (original string `fair-play-and-the-body/smoking-alcohol-and-drugs`) | Malaysia Grade 11 PJPK Tingkatan 5, printed p. 128 |
+
+Malaysia is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — all five Malaysia books are STUDENT books, so Malaysia is named in the countries line and provenance rows and the acceptance count rises from 7 to 8 countries. The Malaysia placements in this lesson were filed under the original strings recorded in the provenance rows above; the placements were resolved to this canonical lesson by registry Part 2A. Malaysia's own way is content, as the book lines above record it: health is taught as the PEERS programme (Pendidikan Kesihatan Reproduktif dan Sosial — reproductive and social health education), with psychosocial skills — assertiveness, communication and decision-making — running through every topic, followed by standalone Nutrition and First Aid units. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: saying no to drugs alcohol and tobacco, harmful habits that damage health, Saglyga zeper ýetirýän zyýanly endikler, habits that injure health, Turkmenistan Bedenterbiýe, substance abuse types consequences risks, legal alcohol age 18 Namibia, Healthy Lifestyle Session 4, Namibia PE4Life Guide, drugs and alcohol harms to learners, prevention, Zambia Health Teacher Training Manual 2025, alcohol drugs smoking impact on the family unsafe sex STDs HIV AIDS hepatitis, Samoa Years 11–12 TG, tobacco smoking discussion, psychoactive substances discussion, drugs narcotics discussions and projects, Bulgaria Biology and Health Education Grades 8 and 10 Pedagog 6, exercise keeps us from smoking, reducing young smokers, imitate healthy behaviours, Greece Grades 7-9 Fysiki Agogi Gymnasiou, Azerbaijan Fiziki Tərbiyə Grades 6-10, Georgian-language edition, hardening the body, self-control diary, substance misuse, medicine instructions, consequences of abuse, Ukraine G7 Health Safety and Wellbeing Shyian, addictions and how to resist them, Bağımlılıklar, Turkey Health & Traffic Culture, Sierra Leone AHLS Teacher's Manual SSS1 SSS2 SSS3, adolescent health and life skills Sierra Leone, harms of smoking, preventing smoking, Pakistan Grade 8 Sehat-o-Jismani Taleem, Malaysia PJPK, Penyalahgunaan Bahan, cigarettes alcohol drugs, second-hand smoke, drug trap jerat dadah, addiction relapse penagihan berulang, PEERS

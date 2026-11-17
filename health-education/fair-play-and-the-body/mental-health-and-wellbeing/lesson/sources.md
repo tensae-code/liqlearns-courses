@@ -1,8 +1,8 @@
 # Sources — Mental Health and Wellbeing
 
-countries: China, Zambia, Timor-Leste, Greece, Ukraine, Turkey, Sierra Leone
+countries: China, Zambia, Timor-Leste, Greece, Ukraine, Turkey, Sierra Leone, Malaysia
 
-**Acceptance count: taught in 5 countries.** China is filed as student-book stock, inside the acceptance count, in this lesson. Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count (still taught in 1 country). Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book. Sierra Leone is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Sierra Leone rows (see its Sierra Leone section below).
+**Acceptance count: taught in 6 countries.** China is filed as student-book stock, inside the acceptance count, in this lesson. Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count (still taught in 1 country). Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book. Sierra Leone is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Sierra Leone rows (see its Sierra Leone section below). Malaysia is filed as student-book stock, inside the acceptance count, in this lesson (see its Malaysia section below).
 
 **Book 1 — 普通高中教科书·体育与健康必修 全一册 (PEP Senior-High PE & Health, Compulsory, Complete Volume) (student book, Chinese):**
 - Title as printed: 普通高中教科书·体育与健康必修 全一册
@@ -172,4 +172,68 @@ Turkey's placements in this lesson were filed under the original strings recorde
 
 Sierra Leone is added as teacher-guide evidence only (see its book line and rows above), outside the acceptance count — the Sierra Leone book is a TEACHER manual, so Sierra Leone is named in the countries line and provenance rows but the acceptance count is unchanged (still taught in 5 countries). The Sierra Leone placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the health slug registry (Part 2A) to this lesson; the original string is recorded in each row. Sierra Leone's own way is content, as the book line above records it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: mental health and wellbeing, mental health and fitting in, knowing yourself, adapting to society, 心理健康与社会适应， China Senior High PEP PE & Health, mental health, recognising distress in learners, supporting learners, Zambia Health Teacher Training Manual 2025, stress causes stress and the brain strategies to control stress, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, exercise and mental health, Galen medicine and gymnastics one science of health, psychological benefits of exercise, mental balance less angry less stressed, exercise and stress, psychosomatic diseases, deep slow breathing, Greece Grades 5-6 Fysiki Agogi E-ST, Greece Grades 7-9 Fysiki Agogi Gymnasiou, psycho-emotional health, extreme situation and stress, psychological balance, first psychological aid and self-help in stress, rules for a good mood, Ukraine G7 Health Safety and Wellbeing Shyian, Ukraine G5 Health Safety and Wellbeing Vasylenko, managing stress, Stres Yönetimi, Turkey Health & Traffic Culture, Sierra Leone AHLS Teacher's Manual SSS1 SSS2 SSS3, adolescent health and life skills Sierra Leone
+## Malaysia — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/malaysia-health-placements.md. The Malaysia book(s) stocked in this lesson: Book 1, Book 2, Book 3, Book 4, Book 5 of that file. Malaysia's books are combined Pendidikan Jasmani dan Pendidikan Kesihatan (PJPK) student books (Malay) for Kementerian Pendidikan Malaysia; their PE parts are filed in malaysia-pe-placements.md and placed in the Physical Education course. All five books are STUDENT books, so Malaysia is student-book stock, inside the acceptance count, in this lesson. Each book's own Revision/Assessment items and glossary/index are named only, not placed (standing exclusions), as filed. No Malaysia placement resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 1 — PJPK Tingkatan 1 (student book, Malay) — Health chapters:**
+- Title as printed: Pendidikan Jasmani dan Pendidikan Kesihatan Tingkatan 1
+- Grade: Form 1 / Grade 7 (student/teacher: STUDENT)
+- Publisher: Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2016; ISBN 978-967-0520-68-1
+- PDF pages: 203 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: see end of section
+- Malaysia's own way: Health is taught as the PEERS programme (Pendidikan Kesihatan Reproduktif dan Sosial — reproductive and social health education) in seven topics, followed by standalone Nutrition and First Aid units; psychosocial skills (assertiveness, communication, decision-making) run through every topic.
+- Combined book: PE parts are placed in malaysia-pe-placements.md (Book 1 there). The book's own Revision/Assessment items and glossary/index are named only, not placed (standing exclusions).
+
+**Book 2 — PJPK Tingkatan 2 (student book, Malay) — Health chapters:**
+- Title as printed: Pendidikan Jasmani dan Pendidikan Kesihatan Tingkatan 2
+- Grade: Form 2 / Grade 8 (student/teacher: STUDENT)
+- Publisher: Telaga Biru Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2017; ISBN 978-967-388-329-5
+- PDF pages: 113 two-page spreads = 226 printed pages (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: see end of section
+- Malaysia's own way: the PEERS health unit is built around psychosocial competence skills (kemahiran kecekapan psikososial) — the same decision-making and refusal skills are applied in turn to reproductive health, substance abuse, stress, family, relationships, disease and safety.
+- Combined book: PE parts are placed in malaysia-pe-placements.md (Book 2 there). The book's own Revision/Assessment items and glossary/index are named only, not placed (standing exclusions).
+
+**Book 3 — PJPK Tingkatan 3 (student book, Malay) — Health chapters:**
+- Title as printed: Pendidikan Jasmani dan Pendidikan Kesihatan Tingkatan 3
+- Grade: Form 3 / Grade 9 (student/teacher: STUDENT)
+- Publisher: Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2018; ISBN 978-967-2212-03-4
+- PDF pages: 204 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: see end of section
+- Malaysia's own way: each PEERS topic has one sharp Form 3 focus — gender and socialisation, drug laws, anger, incest prevention, friendship, HIV/AIDS, exploitation — stated as numbered learning standards (1.1.1, 2.1.1…) at the head of every topic.
+- Combined book: PE parts are placed in malaysia-pe-placements.md (Book 3 there). The book's own Revision/Assessment items and glossary/index are named only, not placed (standing exclusions).
+
+**Book 4 — PJPK Tingkatan 4 (student book, Malay) — Health chapters:**
+- Title as printed: Pendidikan Jasmani dan Pendidikan Kesihatan Tingkatan 4
+- Grade: Form 4 / Grade 10 (student/teacher: STUDENT)
+- Publisher: Telaga Biru Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2019; ISBN 978-967-388-496-4
+- PDF pages: 126 two-page spreads = 232 printed pages (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: see end of section
+- Malaysia's own way: each PEERS topic again has one sharp upper-secondary focus — abstinence, the "drug trap", depression, parenting skills, cyber sex, thalassemia, human trafficking — and first aid is now CPR.
+- Combined book: PE parts are placed in malaysia-pe-placements.md (Book 4 there). The book's own Revision/Assessment items and glossary/index are named only, not placed (standing exclusions).
+
+**Book 5 — PJPK Tingkatan 5 (student book, Malay) — Health chapters:**
+- Title as printed: Pendidikan Jasmani dan Pendidikan Kesihatan Tingkatan 5
+- Grade: Form 5 / Grade 11 (student/teacher: STUDENT)
+- Publisher: Karangkraf Network Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2020; ISBN 978-967-14472-9-1
+- PDF pages: 196 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: see end of section
+- Malaysia's own way: the final PEERS year teaches life-after-school health: reproductive-health rights, sexual grooming (amang seksual), addiction relapse, emotional instability, family conflict, antisocial behaviour, STI detection and cyberbullying; nutrition becomes lifelong diet management and first aid becomes disaster safety.
+- Combined book: PE parts are placed in malaysia-pe-placements.md (Book 5 there). The book's own Revision/Assessment items and glossary/index are named only, not placed (standing exclusions).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 1 Kemahiran Pengurusan Mental dan Emosi — managing mental health and emotions: assertiveness skills and effective communication (listening, speaking clearly) (original string `staying-safe/HELD-title-decision`) | Malaysia Grade 7 PJPK Tingkatan 1, printed p. 148 |
+| Malaysia — Unit 1 §3.0 Pengurusan Mental dan Emosi — managing conflict and stress: what stress is, its effects on your own health and on the family, healthy ways to manage it, and wrong ways such as deliberate self-harm (original string `staying-safe/HELD-title-decision`) | Malaysia Grade 8 PJPK Tingkatan 2, printed p. 158 |
+| Malaysia — Unit 1 §3.0 Pengurusan Mental dan Emosi — managing anger: the causes of anger, ways to manage it, and its effects on your own health and others (original string `staying-safe/HELD-title-decision`) | Malaysia Grade 9 PJPK Tingkatan 3, printed p. 150 |
+| Malaysia — Unit 1 §3.0 Pengurusan Mental dan Emosi — depression (kemurungan): examples of its causes and recognising the signs (withdrawing, being less social) (original string `staying-safe/HELD-title-decision`) | Malaysia Grade 10 PJPK Tingkatan 4, printed p. 174 |
+| Malaysia — Unit 1 §3.0 Pengurusan Mental dan Emosi — emotional instability (ketidakstabilan emosi) in teenagers: situations that trigger it, and managing it, including through exercise and sport (original string `staying-safe/HELD-title-decision`) | Malaysia Grade 11 PJPK Tingkatan 5, printed p. 134 |
+
+Malaysia is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — all five Malaysia books are STUDENT books, so Malaysia is named in the countries line and provenance rows and the acceptance count rises from 5 to 6 countries. The Malaysia placements in this lesson were filed under the original strings recorded in the provenance rows above; the HELD-title-decision placements were resolved to this canonical lesson by registry Part 2B (HELD descriptions as recorded in the provenance rows). Malaysia's own way is content, as the book lines above record it: health is taught as the PEERS programme (Pendidikan Kesihatan Reproduktif dan Sosial — reproductive and social health education), with psychosocial skills — assertiveness, communication and decision-making — running through every topic, followed by standalone Nutrition and First Aid units. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: mental health and wellbeing, mental health and fitting in, knowing yourself, adapting to society, 心理健康与社会适应， China Senior High PEP PE & Health, mental health, recognising distress in learners, supporting learners, Zambia Health Teacher Training Manual 2025, stress causes stress and the brain strategies to control stress, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, exercise and mental health, Galen medicine and gymnastics one science of health, psychological benefits of exercise, mental balance less angry less stressed, exercise and stress, psychosomatic diseases, deep slow breathing, Greece Grades 5-6 Fysiki Agogi E-ST, Greece Grades 7-9 Fysiki Agogi Gymnasiou, psycho-emotional health, extreme situation and stress, psychological balance, first psychological aid and self-help in stress, rules for a good mood, Ukraine G7 Health Safety and Wellbeing Shyian, Ukraine G5 Health Safety and Wellbeing Vasylenko, managing stress, Stres Yönetimi, Turkey Health & Traffic Culture, Sierra Leone AHLS Teacher's Manual SSS1 SSS2 SSS3, adolescent health and life skills Sierra Leone, Malaysia PJPK, Pengurusan Mental dan Emosi, assertiveness, managing stress, managing anger, depression kemurungan, emotional instability ketidakstabilan emosi, PEERS

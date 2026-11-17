@@ -1,8 +1,8 @@
 # Sources — Avoiding Accidents and Staying Safe
 
-countries: El Salvador, Ukraine, Turkey
+countries: El Salvador, Ukraine, Turkey, Malaysia
 
-**Acceptance count: taught in 3 countries.** El Salvador is filed as student-book stock, inside the acceptance count, in this lesson. Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book.
+**Acceptance count: taught in 4 countries.** El Salvador is filed as student-book stock, inside the acceptance count, in this lesson. Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book. Malaysia is filed as student-book stock, inside the acceptance count, in this lesson (see its Malaysia section below).
 
 **Book 1 — Ciencia, Salud y Medio Ambiente 1 (student book, Spanish):**
 - Title as printed: Ciencia, Salud y Medio Ambiente 1 (Colección Cipotas y Cipotes)
@@ -85,4 +85,24 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkey-healt
 
 Turkey's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the health slug registry (Part 2A / Part 2B) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Turkey's own way is content, as the book lines above record it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: avoiding accidents and staying safe, safe classroom, dangerous places and objects, glass windows ceiling lamps bookcases, electric cables and sockets, No tocar danger signs, El Salvador Ciencia Salud y Medio Ambiente 1, Un aula segura, hazard sources and danger factors, trauma and injury prevention, recognising and avoiding danger, dangerous games, safe excursions and trips, finding a way out of danger, safety at home, making safe decisions, Ukraine G7 Health Safety and Wellbeing Shyian, Ukraine G5 Health Safety and Wellbeing Vasylenko, risk control and protective equipment, Risk Kontrol Tedbirleri, Turkey Health & Traffic Culture
+## Malaysia — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/malaysia-health-placements.md. The Malaysia book(s) stocked in this lesson: Book 1 of that file. Malaysia's books are combined Pendidikan Jasmani dan Pendidikan Kesihatan (PJPK) student books (Malay) for Kementerian Pendidikan Malaysia; their PE parts are filed in malaysia-pe-placements.md and placed in the Physical Education course. All five books are STUDENT books, so Malaysia is student-book stock, inside the acceptance count, in this lesson. Each book's own Revision/Assessment items and glossary/index are named only, not placed (standing exclusions), as filed. No Malaysia placement resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 1 — PJPK Tingkatan 1 (student book, Malay) — Health chapters:**
+- Title as printed: Pendidikan Jasmani dan Pendidikan Kesihatan Tingkatan 1
+- Grade: Form 1 / Grade 7 (student/teacher: STUDENT)
+- Publisher: Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2016; ISBN 978-967-0520-68-1
+- PDF pages: 203 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: see end of section
+- Malaysia's own way: Health is taught as the PEERS programme (Pendidikan Kesihatan Reproduktif dan Sosial — reproductive and social health education) in seven topics, followed by standalone Nutrition and First Aid units; psychosocial skills (assertiveness, communication, decision-making) run through every topic.
+- Combined book: PE parts are placed in malaysia-pe-placements.md (Book 1 there). The book's own Revision/Assessment items and glossary/index are named only, not placed (standing exclusions).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 1 Keselamatan — personal safety: keeping yourself safe from harm (original string `staying-safe/keeping-yourself-safe-from-harm`) | Malaysia Grade 7 PJPK Tingkatan 1, printed p. 172 |
+
+Malaysia is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — all five Malaysia books are STUDENT books, so Malaysia is named in the countries line and provenance rows and the acceptance count rises from 3 to 4 countries. The Malaysia placements in this lesson were filed under the original strings recorded in the provenance rows above; the placements were resolved to this canonical lesson by registry Part 2A. Malaysia's own way is content, as the book lines above record it: health is taught as the PEERS programme (Pendidikan Kesihatan Reproduktif dan Sosial — reproductive and social health education), with psychosocial skills — assertiveness, communication and decision-making — running through every topic, followed by standalone Nutrition and First Aid units. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: avoiding accidents and staying safe, safe classroom, dangerous places and objects, glass windows ceiling lamps bookcases, electric cables and sockets, No tocar danger signs, El Salvador Ciencia Salud y Medio Ambiente 1, Un aula segura, hazard sources and danger factors, trauma and injury prevention, recognising and avoiding danger, dangerous games, safe excursions and trips, finding a way out of danger, safety at home, making safe decisions, Ukraine G7 Health Safety and Wellbeing Shyian, Ukraine G5 Health Safety and Wellbeing Vasylenko, risk control and protective equipment, Risk Kontrol Tedbirleri, Turkey Health & Traffic Culture, Malaysia PJPK Tingkatan 1, Keselamatan, personal safety, keeping yourself safe from harm, PEERS

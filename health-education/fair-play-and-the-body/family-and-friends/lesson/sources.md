@@ -1,8 +1,8 @@
 # Sources — Family and Friends
 
-countries: Namibia, Samoa, Timor-Leste, Sierra Leone
+countries: Namibia, Samoa, Timor-Leste, Sierra Leone, Malaysia
 
-**Acceptance count: taught in 1 country.** Namibia is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Sierra Leone is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Sierra Leone rows (see its Sierra Leone section below).
+**Acceptance count: taught in 2 countries.** Namibia is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Sierra Leone is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Sierra Leone rows (see its Sierra Leone section below). Malaysia is filed as student-book stock, inside the acceptance count, in this lesson (see its Malaysia section below).
 
 **Book 1 — Physical Education 4 Life: A Guide for Physical Education Teachers in Namibia, Grades 10–11 (teacher guide, English) — Health parts:**
 - Title as printed: Physical Education 4 Life — A Guide for Physical Education Teachers in Namibia — Grades 10–11
@@ -100,4 +100,72 @@ Timor-Leste is added as student-book stock (see its book lines and rows above), 
 
 Sierra Leone is added as teacher-guide evidence only (see its book line and rows above), outside the acceptance count — the Sierra Leone book is a TEACHER manual, so Sierra Leone is named in the countries line and provenance rows but the acceptance count is unchanged (still taught in 1 country). The Sierra Leone placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the health slug registry (Part 2A) to this lesson; the original string is recorded in each row. Sierra Leone's own way is content, as the book line above records it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: family and friends, healthy relationships, gender and sex, sex is not gender, Healthy Lifestyle Sessions 5 and 8, Namibia PE4Life Guide, relationships family community health promotion days Samoan Food Day Diabetes Day, communication feelings I think I feel family health networks, Samoa Years 1–8 Curriculum, Samoa Years 11–12 TG, trust mutual respect classroom ground rules, gender gender norms myths about gender, gender investigation community, social diversity inclusion action plan, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, Sierra Leone AHLS Teacher's Manual SSS1 SSS2 SSS3, adolescent health and life skills Sierra Leone
+## Malaysia — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/malaysia-health-placements.md. The Malaysia book(s) stocked in this lesson: Book 1, Book 2, Book 3, Book 4, Book 5 of that file. Malaysia's books are combined Pendidikan Jasmani dan Pendidikan Kesihatan (PJPK) student books (Malay) for Kementerian Pendidikan Malaysia; their PE parts are filed in malaysia-pe-placements.md and placed in the Physical Education course. All five books are STUDENT books, so Malaysia is student-book stock, inside the acceptance count, in this lesson. Each book's own Revision/Assessment items and glossary/index are named only, not placed (standing exclusions), as filed. No Malaysia placement resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 1 — PJPK Tingkatan 1 (student book, Malay) — Health chapters:**
+- Title as printed: Pendidikan Jasmani dan Pendidikan Kesihatan Tingkatan 1
+- Grade: Form 1 / Grade 7 (student/teacher: STUDENT)
+- Publisher: Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2016; ISBN 978-967-0520-68-1
+- PDF pages: 203 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: see end of section
+- Malaysia's own way: Health is taught as the PEERS programme (Pendidikan Kesihatan Reproduktif dan Sosial — reproductive and social health education) in seven topics, followed by standalone Nutrition and First Aid units; psychosocial skills (assertiveness, communication, decision-making) run through every topic.
+- Combined book: PE parts are placed in malaysia-pe-placements.md (Book 1 there). The book's own Revision/Assessment items and glossary/index are named only, not placed (standing exclusions).
+
+**Book 2 — PJPK Tingkatan 2 (student book, Malay) — Health chapters:**
+- Title as printed: Pendidikan Jasmani dan Pendidikan Kesihatan Tingkatan 2
+- Grade: Form 2 / Grade 8 (student/teacher: STUDENT)
+- Publisher: Telaga Biru Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2017; ISBN 978-967-388-329-5
+- PDF pages: 113 two-page spreads = 226 printed pages (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: see end of section
+- Malaysia's own way: the PEERS health unit is built around psychosocial competence skills (kemahiran kecekapan psikososial) — the same decision-making and refusal skills are applied in turn to reproductive health, substance abuse, stress, family, relationships, disease and safety.
+- Combined book: PE parts are placed in malaysia-pe-placements.md (Book 2 there). The book's own Revision/Assessment items and glossary/index are named only, not placed (standing exclusions).
+
+**Book 3 — PJPK Tingkatan 3 (student book, Malay) — Health chapters:**
+- Title as printed: Pendidikan Jasmani dan Pendidikan Kesihatan Tingkatan 3
+- Grade: Form 3 / Grade 9 (student/teacher: STUDENT)
+- Publisher: Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2018; ISBN 978-967-2212-03-4
+- PDF pages: 204 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: see end of section
+- Malaysia's own way: each PEERS topic has one sharp Form 3 focus — gender and socialisation, drug laws, anger, incest prevention, friendship, HIV/AIDS, exploitation — stated as numbered learning standards (1.1.1, 2.1.1…) at the head of every topic.
+- Combined book: PE parts are placed in malaysia-pe-placements.md (Book 3 there). The book's own Revision/Assessment items and glossary/index are named only, not placed (standing exclusions).
+
+**Book 4 — PJPK Tingkatan 4 (student book, Malay) — Health chapters:**
+- Title as printed: Pendidikan Jasmani dan Pendidikan Kesihatan Tingkatan 4
+- Grade: Form 4 / Grade 10 (student/teacher: STUDENT)
+- Publisher: Telaga Biru Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2019; ISBN 978-967-388-496-4
+- PDF pages: 126 two-page spreads = 232 printed pages (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: see end of section
+- Malaysia's own way: each PEERS topic again has one sharp upper-secondary focus — abstinence, the "drug trap", depression, parenting skills, cyber sex, thalassemia, human trafficking — and first aid is now CPR.
+- Combined book: PE parts are placed in malaysia-pe-placements.md (Book 4 there). The book's own Revision/Assessment items and glossary/index are named only, not placed (standing exclusions).
+
+**Book 5 — PJPK Tingkatan 5 (student book, Malay) — Health chapters:**
+- Title as printed: Pendidikan Jasmani dan Pendidikan Kesihatan Tingkatan 5
+- Grade: Form 5 / Grade 11 (student/teacher: STUDENT)
+- Publisher: Karangkraf Network Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2020; ISBN 978-967-14472-9-1
+- PDF pages: 196 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: see end of section
+- Malaysia's own way: the final PEERS year teaches life-after-school health: reproductive-health rights, sexual grooming (amang seksual), addiction relapse, emotional instability, family conflict, antisocial behaviour, STI detection and cyberbullying; nutrition becomes lifelong diet management and first aid becomes disaster safety.
+- Combined book: PE parts are placed in malaysia-pe-placements.md (Book 5 there). The book's own Revision/Assessment items and glossary/index are named only, not placed (standing exclusions).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 1 Kekeluargaan — family life: roles, responsibilities and good relationships within the family (original string `staying-safe/HELD-title-decision`) | Malaysia Grade 7 PJPK Tingkatan 1, printed p. 154 |
+| Malaysia — Unit 1 Perhubungan — building good relationships with the people around you (original string `staying-safe/HELD-title-decision`) | Malaysia Grade 7 PJPK Tingkatan 1, printed p. 160 |
+| Malaysia — Unit 1 §4.0 Kekeluargaan — family life: the generation gap in the family and appropriate behaviour within the family (original string `staying-safe/HELD-title-decision`) | Malaysia Grade 8 PJPK Tingkatan 2, printed p. 164 |
+| Malaysia — Unit 1 §5.0 Perhubungan — healthy relationships: values in relationships and keeping healthy boundaries (batas perhubungan) with parents, siblings, friends, teachers and community, including free mixing between boys and girls (original string `staying-safe/HELD-title-decision`) | Malaysia Grade 8 PJPK Tingkatan 2, printed p. 170 |
+| Malaysia — Unit 1 §1.0 Kesihatan Diri dan Reproduktif — gender: the meaning of gender, gender identity and gender roles, and how socialisation shapes them (original string `staying-safe/HELD-title-decision`) | Malaysia Grade 9 PJPK Tingkatan 3, printed p. 136 |
+| Malaysia — Unit 1 §5.0 Perhubungan — friendship: the meaning and types of friendship, and keeping the boundaries of mixing (batas pergaulan) within friendship (original string `staying-safe/HELD-title-decision`) | Malaysia Grade 9 PJPK Tingkatan 3, printed p. 162 |
+| Malaysia — Unit 1 §4.0 Kekeluargaan — parenting skills (kemahiran keibubapaan): what they are and the effects on children when parents lack them (original string `staying-safe/HELD-title-decision`) | Malaysia Grade 10 PJPK Tingkatan 4, printed p. 182 |
+| Malaysia — Unit 1 §4.0 Kekeluargaan — conflict in family life and the importance of communication in the family (original string `staying-safe/HELD-title-decision`) | Malaysia Grade 11 PJPK Tingkatan 5, printed p. 142 |
+| Malaysia — Unit 1 §5.0 Perhubungan — antisocial behaviour (tingkah laku antisosial): its meaning and its effects (original string `staying-safe/HELD-title-decision`) | Malaysia Grade 11 PJPK Tingkatan 5, printed p. 148 |
+
+Malaysia is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — all five Malaysia books are STUDENT books, so Malaysia is named in the countries line and provenance rows and the acceptance count rises from 1 to 2 countries. The Malaysia placements in this lesson were filed under the original strings recorded in the provenance rows above; the HELD-title-decision placements were resolved to this canonical lesson by registry Part 2B (HELD descriptions as recorded in the provenance rows). Malaysia's own way is content, as the book lines above record it: health is taught as the PEERS programme (Pendidikan Kesihatan Reproduktif dan Sosial — reproductive and social health education), with psychosocial skills — assertiveness, communication and decision-making — running through every topic, followed by standalone Nutrition and First Aid units. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: family and friends, healthy relationships, gender and sex, sex is not gender, Healthy Lifestyle Sessions 5 and 8, Namibia PE4Life Guide, relationships family community health promotion days Samoan Food Day Diabetes Day, communication feelings I think I feel family health networks, Samoa Years 1–8 Curriculum, Samoa Years 11–12 TG, trust mutual respect classroom ground rules, gender gender norms myths about gender, gender investigation community, social diversity inclusion action plan, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, Sierra Leone AHLS Teacher's Manual SSS1 SSS2 SSS3, adolescent health and life skills Sierra Leone, Malaysia PJPK, Kekeluargaan, Perhubungan, family roles and responsibilities, generation gap, healthy boundaries batas perhubungan, friendship batas pergaulan, parenting skills kemahiran keibubapaan, antisocial behaviour, PEERS

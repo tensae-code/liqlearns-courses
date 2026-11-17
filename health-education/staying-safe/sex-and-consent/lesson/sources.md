@@ -1,8 +1,8 @@
 # Sources — Sex and Consent
 
-countries: Sierra Leone
+countries: Sierra Leone, Malaysia
 
-**Acceptance count: taught in 0 countries.** Sierra Leone is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson.
+**Acceptance count: taught in 1 country.** Sierra Leone is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Malaysia is filed as student-book stock, inside the acceptance count, in this lesson (see its Malaysia section below).
 
 **Book 1 — AHLS Teacher's Manual SSS1–3 (teacher guide, English):**
 - Title as printed: Teaching and Learning Materials for Adolescent Health and Life Skills (AHLS) Syllabus — Senior Secondary School (cover); title inside: Teaching and Learning Materials for Adolescent Health and Life Skills (AHLS) — SSS, Dec 2025, New Senior Secondary Curriculum (MBSSE)
@@ -26,4 +26,35 @@ countries: Sierra Leone
 
 This is a canonical NEW lesson (slug-registry Part 1: `staying-safe/sex-and-consent` — Sex and consent: sex and sexuality, sexual identities, consent, privacy, values, and the risks of pornography and transactional sex.); the Sierra Leone placements were filed under the original strings recorded in the provenance rows above, resolved to this canonical slug by registry Part 2A and recorded there. Sierra Leone enters this lesson as teacher-guide evidence only, outside the acceptance count — the Sierra Leone book is a TEACHER manual, so this lesson stands at acceptance count 0, founded on teacher-guide evidence only, no pupil's book in hand. Sierra Leone's own way is content, as the book line above records it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: sex and consent, sex and sexuality, types of sexual identities, sexual behaviour and response, protection of privacy, the importance of consent, values and sexuality, pornography and adolescents, Sierra Leone AHLS Teacher's Manual SSS1 SSS2 SSS3, adolescent health and life skills Sierra Leone
+## Malaysia — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/malaysia-health-placements.md. The Malaysia book(s) stocked in this lesson: Book 2, Book 4 of that file. Malaysia's books are combined Pendidikan Jasmani dan Pendidikan Kesihatan (PJPK) student books (Malay) for Kementerian Pendidikan Malaysia; their PE parts are filed in malaysia-pe-placements.md and placed in the Physical Education course. All five books are STUDENT books, so Malaysia is student-book stock, inside the acceptance count, in this lesson. Each book's own Revision/Assessment items and glossary/index are named only, not placed (standing exclusions), as filed. No Malaysia placement resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 2 — PJPK Tingkatan 2 (student book, Malay) — Health chapters:**
+- Title as printed: Pendidikan Jasmani dan Pendidikan Kesihatan Tingkatan 2
+- Grade: Form 2 / Grade 8 (student/teacher: STUDENT)
+- Publisher: Telaga Biru Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2017; ISBN 978-967-388-329-5
+- PDF pages: 113 two-page spreads = 226 printed pages (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: see end of section
+- Malaysia's own way: the PEERS health unit is built around psychosocial competence skills (kemahiran kecekapan psikososial) — the same decision-making and refusal skills are applied in turn to reproductive health, substance abuse, stress, family, relationships, disease and safety.
+- Combined book: PE parts are placed in malaysia-pe-placements.md (Book 2 there). The book's own Revision/Assessment items and glossary/index are named only, not placed (standing exclusions).
+
+**Book 4 — PJPK Tingkatan 4 (student book, Malay) — Health chapters:**
+- Title as printed: Pendidikan Jasmani dan Pendidikan Kesihatan Tingkatan 4
+- Grade: Form 4 / Grade 10 (student/teacher: STUDENT)
+- Publisher: Telaga Biru Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2019; ISBN 978-967-388-496-4
+- PDF pages: 126 two-page spreads = 232 printed pages (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: see end of section
+- Malaysia's own way: each PEERS topic again has one sharp upper-secondary focus — abstinence, the "drug trap", depression, parenting skills, cyber sex, thalassemia, human trafficking — and first aid is now CPR.
+- Combined book: PE parts are placed in malaysia-pe-placements.md (Book 4 there). The book's own Revision/Assessment items and glossary/index are named only, not placed (standing exclusions).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Malaysia — Unit 1 §1.0 Kesihatan Diri dan Reproduktif — personal and reproductive health and sexual identity, and applying psychosocial competence skills to stay safe (original string `staying-safe/HELD-title-decision`) | Malaysia Grade 8 PJPK Tingkatan 2, printed p. 140 |
+| Malaysia — Unit 1 §5.0 Perhubungan — cyber sex (seks siber): its meaning, the misconduct connected with it, and its effects (original string `staying-safe/HELD-title-decision`) | Malaysia Grade 10 PJPK Tingkatan 4, printed p. 190 |
+
+Malaysia is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — all five Malaysia books are STUDENT books, so Malaysia is named in the countries line and provenance rows and the acceptance count rises from 0 to 1 countries. The Malaysia placements in this lesson were filed under the original strings recorded in the provenance rows above; the HELD-title-decision placements were resolved to this canonical lesson by registry Part 2B (HELD descriptions as recorded in the provenance rows). Malaysia's own way is content, as the book lines above record it: health is taught as the PEERS programme (Pendidikan Kesihatan Reproduktif dan Sosial — reproductive and social health education), with psychosocial skills — assertiveness, communication and decision-making — running through every topic, followed by standalone Nutrition and First Aid units. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: sex and consent, sex and sexuality, types of sexual identities, sexual behaviour and response, protection of privacy, the importance of consent, values and sexuality, pornography and adolescents, Sierra Leone AHLS Teacher's Manual SSS1 SSS2 SSS3, adolescent health and life skills Sierra Leone, Malaysia PJPK, Kesihatan Diri dan Reproduktif, sexual identity, psychosocial competence skills, cyber sex seks siber, PEERS
