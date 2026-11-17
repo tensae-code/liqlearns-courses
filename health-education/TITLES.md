@@ -71,3 +71,9 @@ Keeps You Healthy**
 (`staying-safe/why-exercise-keeps-you-healthy`) and **Fair
 Play in Sport** (`fair-play-and-the-body/fair-play-in-sport`)
 — 2 new lessons, bringing this course to 29 lessons.
+
+The Health expansion then added (Afghanistan): **Knowing My
+Body** (`staying-safe/knowing-my-body`) and **Sports Massage
+and Recovery**
+(`fair-play-and-the-body/sports-massage-and-recovery`) —
+2 new lessons, bringing this course to 31 lessons.
