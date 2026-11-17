@@ -1,6 +1,6 @@
 # Sources — Staying Safe While Exercising
 
-countries: Ethiopia, Tajikistan, Laos, Haiti, Cyprus, Afghanistan, China, El Salvador, Honduras
+countries: Ethiopia, Tajikistan, Laos, Haiti, Cyprus, Afghanistan, China, El Salvador, Honduras, Myanmar
 
 **Book 1:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–106 + front matter (114 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md.
 
@@ -43,7 +43,7 @@ countries: Ethiopia, Tajikistan, Laos, Haiti, Cyprus, Afghanistan, China, El Sal
 | China — 第四章 第五节 运动安全（一）— exercise and sports safety rules (filed under `staying-safe/staying-safe-while-exercising`, this lesson itself) | China, *普通高中教科书·体育与健康必修 全一册 (PEP Senior-High PE & Health, Compulsory, Complete Volume)*, 第四章 第五节 运动安全（一）, printed p. 74 |
 | El Salvador — Grade 3 Unit 1 Lesson 2 Protejo mi salud en las prácticas físicas — health benefits of suitable clothing and footwear for physical practice (teacher guide — evidence) (filed under `staying-safe/staying-safe-while-exercising`, this lesson itself) | El Salvador, *Guía Metodológica de Educación Física, Primer Ciclo* (El Salvador Grades 1–3 PE Guide, teacher guide), printed p. 155 (teacher guide — evidence) |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Tajikistan, Cyprus, China, Honduras).** Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guide stocked here is teacher-guide evidence only, outside the acceptance count.
+**Acceptance count: taught in 6 countries (Ethiopia, Tajikistan, Cyprus, China, Honduras, Myanmar).** Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guide stocked here is teacher-guide evidence only, outside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count; the Myanmar teacher guides stocked here are teacher-guide evidence only, outside the acceptance count.
 
 Tajikistan is added as student-book stock (see its book line above), inside the acceptance count. The Tajikistan placement was filed under the slug `staying-safe/staying-safe-while-exercising`, this lesson itself.
 
@@ -126,4 +126,78 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/honduras-hea
 | Honduras — Bloque IV Secuencia 2 — risks and prevention in outdoor activities: the risk-prevention plan, knowledgeable leaders, right clothing, equipment checked before/during/after, basic first-aid knowledge and knowing the nearest medical centres (original target `staying-safe/staying-safe-while-exercising`) | Honduras Grade 9 HN G9 student, printed p. 141 |
 
 Honduras is added as student-book stock (see its book lines and rows above), inside the acceptance count — the Honduras student books stocked here are STUDENT books, so Honduras is named in the countries line and provenance rows and the acceptance count rises from 4 to 5 countries; the Grade 7 teacher guide rows are teacher-guide evidence only, outside the acceptance count. All six Honduras placements in this lesson were filed under the slug `staying-safe/staying-safe-while-exercising`, this lesson itself. Honduras's own way is content, as the book lines above record it: the guide adds the safety paperwork of Honduran school PE — a full personal anamnesis (health-history) record per student and explicit warning-sign instructions for the teacher during exercise.
-Searchable tags: staying safe while exercising, exercise precautions ጥንቃቄዎች, warm-up, cool-down, sport kit, injury prevention, safety check, Ethiopia HPE Grade 5, sports clothing, right clothes for sport, Tajikistan Physical Culture Grades 1-4, causes of accidents during practice, poor warm-up, inattention, Laos PE Teacher Guides Grades 8 and 9, safe engagement in activity, judging daily activity, intensity beyond your physical qualities, Haiti EPS Programmes Grades 7-9 and 10-13, MENFP, first-aid knowledge everywhere, emergencies at home school and play, Cyprus First Aid Grade 11, Πρώτες Βοήθειες, water and the exercising body, 3.5 litres a day, sweating cools the body, deliberate dehydration, exercising with diabetes asthma epilepsy haemophilia, Afghanistan G7 PE Teacher Guide Dari, Afghanistan G10 PE Teacher Guide Pashto, exercise and sports safety rules, 运动安全， China Senior High PEP PE & Health, suitable clothing and footwear for physical practice, El Salvador PE Guide Grades 1-3, Protejo mi salud en las prácticas físicas, warming up and relaxing Encendamos el motor, physical-activity pyramid, warning signs to stop exercise, personal anamnesis record ficha de anamnesis, hydration in exercise, outdoor activity risk prevention, Honduras Telebásica Grades 7 8 and 9
+## Myanmar — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/myanmar-health-placements.md. The Myanmar books stocked in this lesson are Book 1, Book 3, Book 4, Book 5, Book 6. Myanmar is student-book stock, inside the acceptance count, in this lesson; the teacher guides stocked here (Books 4 and 6) are teacher-guide evidence only, outside the acceptance count. Nine Myanmar placements were NOT stocked in this course because the Health slug registry resolves them to a PE-course lesson: the nine placements filed under `staying-safe/food-and-drink-for-sport` (G10 PE Textbook §3-2-1, §3-2-2 and §3-2-3, printed pp. 62–65; G10 PE Teacher Guide Lesson plans 3-2-1/3-2-2 and 3-2-3/3-2-4, printed pp. 33–36; G7 PE Textbook §3-1, printed pp. 72–74; G7 PE Teacher Guide Lesson plan 3-1, printed pp. 53–54; G6 PE Textbook §3-1, printed pp. 79–80; G6 PE Teacher Guide Lesson plan 3-1, printed pp. 90–92) resolve to PE canonical `fitness-and-stretching/sports-nutrition-and-hydration`; they are excluded here, and a git grep on origin/main confirms they are NOT yet stocked in the PE course (the PE lesson exists but carries no Myanmar rows) — they belong to a PE fix-up.
+
+**Book — Myanmar Grade 10 (student book):**
+## Book 1 — G10 PE Textbook (student book, Myanmar/Burmese with English exercise names)
+- Title as printed: ကာယပညာ (Physical Education), Grade 10 student textbook — the scan carries no cover page; the running heads read ကျောင်းသုံးစာအုပ် / ကာယပညာ / ဒသမတန်း (school textbook / Physical Education / Grade 10) and Chapter 1 opens on PDF p.1
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Myanmar (DBE BOX scan); year not printed on the scanned pages; no ISBN printed
+- PDF pages: 70 (byte size 42,917,679 = record size exactly; the scan repeats the opening pages at the end)
+- Verdict: COMPLETE
+- Tally: 18 placements — 11 to existing lessons, 7 NEW LESSON NEEDED (Health-side placements from this book are in myanmar-health-placements.md)
+- Myanmar's own way: the whole secondary course is built from photo-sequenced exercises with English names kept in brackets, two full circuit-training rounds with record charts, competition-fixture mathematics (league and knockout draws worked numerically), and Myanmar's own net game, sepak takraw, taught with its SEAP Games history.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — §1-1 — safety points to observe while exercising (the book's key-points boxes on working safely through the exercise sequences) (original target `staying-safe/staying-safe-while-exercising`) | Myanmar, *ကာယပညာ (Physical Education), Grade 10 student textbook* (Myanmar G10 PE Textbook), §1-1, printed pp. 5–6 |
+
+**Book — Myanmar Grade 7 (student book):**
+## Book 3 — G7 PE Textbook (student book, Myanmar/Burmese with English fitness/sport terms)
+- Title as printed: ကာယပညာ (Physical Education), Grade 7 student textbook — scan carries no cover; running heads read ကျောင်းသုံးစာအုပ် / ကာယပညာ / သတ္တမတန်း (Grade 7) and Chapter 1 opens on PDF p.1
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Myanmar (DBE BOX scan); year not printed on the scanned pages; no ISBN printed
+- PDF pages: 90 (byte size 43,321,005 = record size exactly)
+- Verdict: COMPLETE
+- Tally: 28 placements — 22 to existing lessons, 6 NEW LESSON NEEDED (Health-side placements in myanmar-health-placements.md)
+- Myanmar's own way: fitness is taught component by component with the English names kept (Muscular Endurance, Flexibility, Cardiovascular Endurance, Strength and Power, Agility, Balance, Coordination, Speed), and the games chapters give Myanmar two of its own: the htok-see-toe tag game and chinlone, the rattan-ball art.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — §2-1-1 — staying safe while taking part in PE and sport: safe places, safe movements, checking equipment (original target `staying-safe/staying-safe-while-exercising`) | Myanmar, *ကာယပညာ (Physical Education), Grade 7 student textbook* (Myanmar G7 PE Textbook), §2-1-1, printed pp. 28–29 |
+
+**Book — Myanmar Grade 7 (teacher guide):**
+## Book 4 — G7 PE Teacher Guide (teacher guide, Myanmar/Burmese)
+- Title as printed: ကာယပညာ ဆရာလမ်းညွှန် (Physical Education Teacher Guide), Grade 7 — introduction, I-T-P-R lesson shape, syllabus, year plan and Glossary of Words, then lesson plans for every textbook chapter
+- Grade: 7 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Myanmar (DBE BOX scan); year not printed on the scanned pages; no ISBN printed
+- PDF pages: 100 (byte size 34,971,987 = record size exactly)
+- Verdict: COMPLETE — lesson plans mirror the student textbook; personal fitness record sheets (ကိုယ်ပိုင်မှတ်တမ်း) are assessment apparatus, named here and not placed
+- Tally: 15 placements — 10 to existing lessons, 5 NEW LESSON NEEDED (Health-side placements in myanmar-health-placements.md)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — Lesson plan 2-1-1 — teaching safe participation in PE and sport (teacher guide — evidence) (original target `staying-safe/staying-safe-while-exercising`) | Myanmar, *ကာယပညာ ဆရာလမ်းညွှန် (Physical Education Teacher Guide), Grade 7* (Myanmar G7 PE Teacher Guide), Lesson plan 2-1-1, printed p. 29 (teacher guide — evidence) |
+
+**Book — Myanmar Grade 6 (student book):**
+## Book 5 — G6 PE Textbook (student book, Myanmar/Burmese with English fitness/sport terms)
+- Title as printed: ကျောင်းသုံးစာအုပ် ကာယပညာ ဆဋ္ဌမတန်း (School Textbook, Physical Education, Grade 6) — cover: ပြည်ထောင်စုသမ္မတမြန်မာနိုင်ငံတော်အစိုးရ ပညာရေးဝန်ကြီးဌာန (Ministry of Education, Republic of the Union of Myanmar), ၂၀၁၉–၂၀၂၀ (2019–2020); printed January 2019, 196,392 copies; no ISBN printed
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Myanmar (DBE BOX scan)
+- PDF pages: 88 (byte size 19,943,343 = record size exactly)
+- Verdict: COMPLETE — full contents page (မာတိကာ) read; closing glossary of PE terms (Physical Fitness, Agility, Balance, Cardiovascular Endurance, Circuit Training, Coordination, Flexibility, Jogging, Muscular Endurance, Power, Speed, Stretching) is inventory-only, named here and not placed
+- Tally: 25 placements — 19 to existing lessons, 6 NEW LESSON NEEDED (Health-side placements in myanmar-health-placements.md)
+- Myanmar's own way: fitness is introduced through graded A/B/C test tables for every component, first aid is taught as the English PRICES sequence, and Myanmar's own chinlone is given a full chapter with its six classic kicks named in English (instep, inside, knee, sole, heel, outside).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — §2-1-1 — safety in PE and sport: prevention first, then rescue — how accidents are prevented and what to check before playing (original target `staying-safe/staying-safe-while-exercising`) | Myanmar, *ကျောင်းသုံးစာအုပ် ကာယပညာ ဆဋ္ဌမတန်း (School Textbook, Physical Education, Grade 6)* (Myanmar G6 PE Textbook), §2-1-1, printed pp. 21–25 |
+
+**Book — Myanmar Grade 6 (teacher guide):**
+## Book 6 — G6 PE Teacher Guide (teacher guide, Myanmar/Burmese)
+- Title as printed: ကာယပညာ ဆရာလမ်းညွှန် (Physical Education Teacher Guide), Grade 6 — introduction with the I-T-P-R lesson shape (45-minute periods), syllabus, year plan and Glossary of Words, then lesson plans for every textbook chapter
+- Grade: 6 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Myanmar (DBE BOX scan); year not printed on the scanned pages; no ISBN printed
+- PDF pages: 102 (byte size 32,405,768 = record size exactly)
+- Verdict: COMPLETE — spot-read across the whole book (front matter, Ch.1 plans, mid-book plans, Ch.3 plans and test timetable at the end); plans mirror the student textbook throughout
+- Tally: 13 placements — 9 to existing lessons, 4 NEW LESSON NEEDED (Health-side placements in myanmar-health-placements.md)
+- Note: a Grade 6 PE teacher guide is also listed among the library's already-held Myanmar books (Telegram route); this be.moeedu.org copy is the DBE BOX scan edition — staged as well and flagged in the group log for de-duplication
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — Lesson plan 2-1-1 — teaching prevention and safety checks in sport (teacher guide — evidence) (original target `staying-safe/staying-safe-while-exercising`) | Myanmar, *ကာယပညာ ဆရာလမ်းညွှန် (Physical Education Teacher Guide), Grade 6* (Myanmar G6 PE Teacher Guide), Lesson plan 2-1-1, printed pp. 29–31 (teacher guide — evidence) |
+
+Myanmar is added as student-book stock (see its book lines and rows above), inside the acceptance count — the Myanmar student books stocked here are STUDENT books, so Myanmar is named in the countries line and provenance rows and the acceptance count rises from 5 to 6 countries; the teacher-guide rows (Books 4 and 6) are teacher-guide evidence only, outside the acceptance count. All five Myanmar placements in this lesson were filed under the slug `staying-safe/staying-safe-while-exercising`, this lesson itself. Myanmar's own way is content, as the book lines above record it: safety is taught inside the PE textbooks themselves — the Grade 6 book teaches prevention first, then rescue, and the Grade 10 book carries its safety points as key-points boxes through the exercise sequences.
+Searchable tags: staying safe while exercising, exercise precautions ጥንቃቄዎች, warm-up, cool-down, sport kit, injury prevention, safety check, Ethiopia HPE Grade 5, sports clothing, right clothes for sport, Tajikistan Physical Culture Grades 1-4, causes of accidents during practice, poor warm-up, inattention, Laos PE Teacher Guides Grades 8 and 9, safe engagement in activity, judging daily activity, intensity beyond your physical qualities, Haiti EPS Programmes Grades 7-9 and 10-13, MENFP, first-aid knowledge everywhere, emergencies at home school and play, Cyprus First Aid Grade 11, Πρώτες Βοήθειες, water and the exercising body, 3.5 litres a day, sweating cools the body, deliberate dehydration, exercising with diabetes asthma epilepsy haemophilia, Afghanistan G7 PE Teacher Guide Dari, Afghanistan G10 PE Teacher Guide Pashto, exercise and sports safety rules, 运动安全， China Senior High PEP PE & Health, suitable clothing and footwear for physical practice, El Salvador PE Guide Grades 1-3, Protejo mi salud en las prácticas físicas, warming up and relaxing Encendamos el motor, physical-activity pyramid, warning signs to stop exercise, personal anamnesis record ficha de anamnesis, hydration in exercise, outdoor activity risk prevention, Honduras Telebásica Grades 7 8 and 9, safety points while exercising, safe places safe movements checking equipment, prevention first then rescue, Myanmar PE Textbooks Grades 6 7 and 10, Myanmar PE Teacher Guides Grades 6 and 7, ကာယပညာ

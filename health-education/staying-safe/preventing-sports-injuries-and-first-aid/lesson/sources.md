@@ -1,6 +1,6 @@
 # Sources — Preventing Sports Injuries and First Aid
 
-countries: Ethiopia, United Kingdom, Tajikistan, Turkmenistan, Jordan, Laos, Finland, Namibia, Haiti, Cyprus, Afghanistan, China, El Salvador, Oman, Samoa, Bulgaria, Honduras
+countries: Ethiopia, United Kingdom, Tajikistan, Turkmenistan, Jordan, Laos, Finland, Namibia, Haiti, Cyprus, Afghanistan, China, El Salvador, Oman, Samoa, Bulgaria, Honduras, Myanmar
 
 **Book 1:** *Grade 6 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–95 + front matter (103 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g06-student-placements.md.
 
@@ -88,7 +88,7 @@ countries: Ethiopia, United Kingdom, Tajikistan, Turkmenistan, Jordan, Laos, Fin
 | El Salvador — Unit 3 Lesson 1 ¡Cuidado con el tétano! — cleaning a wound or scrape with water and soap, covering it with clean gauze, never touching wounds with dirty hands, and building a class first-aid kit (botiquín) (filed under `staying-safe/preventing-sports-injuries-and-first-aid`, this lesson itself) | El Salvador, *Ciencia, Salud y Medio Ambiente 1*, Unit 3 Lesson 1, printed pp. 54–57 |
 | El Salvador — Grade 3 Unit 2 Lesson 2 Practico mis habilidades físicas sin riesgo — risks of muscle and tendon injury in flexibility work, progressive static stretching technique, and knowing the limit of effort (teacher guide — evidence) (filed under `staying-safe/preventing-sports-injuries-and-first-aid`, this lesson itself) | El Salvador, *Guía Metodológica de Educación Física, Primer Ciclo* (El Salvador Grades 1–3 PE Guide, teacher guide), printed p. 157 (teacher guide — evidence) |
 
-**Acceptance count: taught in 10 countries (Ethiopia, United Kingdom, Tajikistan, Turkmenistan, Jordan, Cyprus, China, El Salvador, Bulgaria, Honduras).** Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked here are teacher-guide evidence only, outside the acceptance count. United Kingdom is added as student-book stock (see its book line and row below), inside the acceptance count. Bulgaria is added as student-book stock (see its book line and row below), inside the acceptance count.
+**Acceptance count: taught in 11 countries (Ethiopia, United Kingdom, Tajikistan, Turkmenistan, Jordan, Cyprus, China, El Salvador, Bulgaria, Honduras, Myanmar).** Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked here are teacher-guide evidence only, outside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count; the Myanmar teacher guides stocked here are teacher-guide evidence only, outside the acceptance count. United Kingdom is added as student-book stock (see its book line and row below), inside the acceptance count. Bulgaria is added as student-book stock (see its book line and row below), inside the acceptance count.
 
 Tajikistan is added as student-book stock (see its book line and row above), inside the acceptance count. The Tajikistan placement was filed under the slug `staying-safe/preventing-sports-injuries-and-first-aid`, this lesson itself.
 
@@ -250,4 +250,92 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/honduras-hea
 | Honduras — Bloque II Secuencia 3 "Ayuda a los demás" — the school first-aid kit, itemised for the class to assemble: saline solution, iodine, plain soap, cotton, adhesive tape, gauze, bandages, plasters, scissors, thermometer, droppers, tweezers, acetaminophen, plastic gloves and hydrocortisone cream (teacher guide — evidence) (original target `staying-safe/preventing-sports-injuries-and-first-aid`) | Honduras Grade 8 HN G8 teacher guide, printed p. 97 (teacher guide — evidence) |
 
 Honduras is added as student-book stock (see its book lines and rows above), inside the acceptance count — the Honduras student books stocked here are STUDENT books, so Honduras is named in the countries line and provenance rows and the acceptance count rises from 9 to 10 countries; the teacher-guide rows are teacher-guide evidence only, outside the acceptance count. All five Honduras placements in this lesson were filed under the slug `staying-safe/preventing-sports-injuries-and-first-aid`, this lesson itself. Honduras's own way is content, as the book lines above record it: first aid is a full named sequence of the PE book ("Ayuda a los demás") with a diagnosis table, a class first-aid kit and splinting/transport drills.
-Searchable tags: preventing sports injuries, first aid, optimising training and preventing injury, training intensity, technique clothing equipment checks, Edexcel GCSE Physical Education, United Kingdom GCSE Edexcel PE Student Book, RICE, RICER, Rest Ice Compression Elevation Referral, sprains dislocations fractures bruising, first aid kit, blood safety, Ethiopia HPE Grades 6–7, first aid for injuries, bleeding, three-layer pressure bandage, Tajikistan Physical Culture Grades 1-4, medical control, pedagogical-medical observation, treatment of sports injuries and illnesses, medical provision for mass PE and sport, Turkmenistan Bedenterbiýe, first aid for stings and bites, bees wasps spiders scorpions snakes, washing with water and soap, cold compress, calling 911, first aid for simple fractures, splinting wooden boards compression bandages, fracture shapes simple transverse compound, Public Safety, Jordan NCCD Physical Education Grades 7 and 9, first aid and using medicine, Laos PE and Handicraft Teacher Guides Grades 4 and 5, resuscitation teaching classes 4-6, Elvytysopetusta luokille 4-6, calling 112, duty to help, unconscious lifeless recovery position, CPR resuscitation defibrillator, pressure bandage wound dressing, triangular bandage sling, supporting a fracture or sprain, nosebleed stroke face arm speech, Finland first aid, safety session, main causes of sports injuries, safe landing techniques, safety roll, protecting learners from the sun, Namibia PE4Life Guide, initiation to first aid, four rescue steps, secure the scene, assess the victim, alert emergency services, choking, heart malaise, first-aid certificate, natural-hazard safety, Haiti EPS Programmes Grades 7-9 and 10-13, MENFP, First Aid Lyceum Year 2, Πρώτες Βοήθειες, chain of survival, CPR, AED, recovery position, Cyprus First Aid Grade 11, safety in sport, teacher's seven safety duties, protective equipment in sport, shin guards, knee pads, ABC check airway breathing circulation, carotid pulse, shock legs raised, first-aid box, Afghanistan G7 PE Teacher Guide Dari, Afghanistan G10 PE Teacher Guide Pashto, treating open and closed injuries, fractures, exercise fainting, exercise abdominal pain, muscle cramp, on-site first aid, CPR, AED, drowning rescue and first aid, China Senior High PEP PE & Health, tetanus wound cleaning, first-aid kit botiquín, El Salvador Ciencia Salud y Medio Ambiente 1, muscle and tendon injury flexibility, El Salvador PE Guide Grades 1-3, first aid الإسعافات الأولية, first-aid kit contents and uses, sports injuries wounds, Oman G4 Teacher Guide, simple first aid cuts grazes burns stings bites local medicinal leaves poisoning, injury prevention protective equipment strapping taping sun protection, Samoa Years 1–8 Curriculum, Samoa Years 11–12 TG, first aid for injuries practical exercise, Bulgaria Biology and Health Education Grade 8 Pedagog 6, Ayuda a los demás, sports injuries muscle injuries contusions sprains, protect alert assist, first-aid kit botiquín splinting fracture transport, esguince luxación, school first-aid kit itemised, Honduras Telebásica Grades 7 8 and 9
+## Myanmar — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/myanmar-health-placements.md. The Myanmar books stocked in this lesson are Book 1, Book 2, Book 3, Book 4, Book 5, Book 6. Myanmar is student-book stock, inside the acceptance count, in this lesson; the teacher guides stocked here (Books 2, 4 and 6) are teacher-guide evidence only, outside the acceptance count.
+
+**Book — Myanmar Grade 10 (student book):**
+## Book 1 — G10 PE Textbook (student book, Myanmar/Burmese with English exercise names)
+- Title as printed: ကာယပညာ (Physical Education), Grade 10 student textbook — the scan carries no cover page; the running heads read ကျောင်းသုံးစာအုပ် / ကာယပညာ / ဒသမတန်း (school textbook / Physical Education / Grade 10) and Chapter 1 opens on PDF p.1
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Myanmar (DBE BOX scan); year not printed on the scanned pages; no ISBN printed
+- PDF pages: 70 (byte size 42,917,679 = record size exactly; the scan repeats the opening pages at the end)
+- Verdict: COMPLETE
+- Tally: 18 placements — 11 to existing lessons, 7 NEW LESSON NEEDED (Health-side placements from this book are in myanmar-health-placements.md)
+- Myanmar's own way: the whole secondary course is built from photo-sequenced exercises with English names kept in brackets, two full circuit-training rounds with record charts, competition-fixture mathematics (league and knockout draws worked numerically), and Myanmar's own net game, sepak takraw, taught with its SEAP Games history.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — Chapter 3 §3-1 — health knowledge for the sportsperson: muscle cramps, sprains, dislocations and drowning — recognising and responding (original target `staying-safe/preventing-sports-injuries-and-first-aid`) | Myanmar, *ကာယပညာ (Physical Education), Grade 10 student textbook* (Myanmar G10 PE Textbook), Chapter 3 §3-1, printed pp. 60–61 |
+
+**Book — Myanmar Grade 10 (teacher guide):**
+## Book 2 — G10 PE Teacher Guide (teacher guide, Myanmar/Burmese)
+- Title as printed: ကာယပညာ ဆရာလမ်းညွှန် (Physical Education Teacher Guide), Grade 10 — introduction covers the I-T-P-R lesson shape (Introduction–Teach–Practice–Review), the Grade 10 syllabus and year plan, inclusion/equality notes and a Glossary of Words
+- Grade: 10 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Myanmar (DBE BOX scan); year not printed on the scanned pages; no ISBN printed
+- PDF pages: 56 (byte size 11,241,565 = record size exactly)
+- Verdict: COMPLETE — lesson plans mirror the student textbook chapter by chapter; the closing Glossary of Words (Circuit Training, Sepak Takraw, The Tread Mill, The Paddle) is inventory-only, named here and not placed
+- Tally: 10 placements — 6 to existing lessons, 4 NEW LESSON NEEDED (Health-side placements from this book are in myanmar-health-placements.md)
+- Myanmar's own way: every lesson is planned as timed 45-minute periods in the I-T-P-R shape, with the teacher told which textbook figures to demonstrate from.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — Lesson plan 3-1 — teaching common sport injuries and first responses (cramps, sprains, dislocations, drowning) (teacher guide — evidence) (original target `staying-safe/preventing-sports-injuries-and-first-aid`) | Myanmar, *ကာယပညာ ဆရာလမ်းညွှန် (Physical Education Teacher Guide), Grade 10* (Myanmar G10 PE Teacher Guide), Lesson plan 3-1, printed p. 33 (teacher guide — evidence) |
+
+**Book — Myanmar Grade 7 (student book):**
+## Book 3 — G7 PE Textbook (student book, Myanmar/Burmese with English fitness/sport terms)
+- Title as printed: ကာယပညာ (Physical Education), Grade 7 student textbook — scan carries no cover; running heads read ကျောင်းသုံးစာအုပ် / ကာယပညာ / သတ္တမတန်း (Grade 7) and Chapter 1 opens on PDF p.1
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Myanmar (DBE BOX scan); year not printed on the scanned pages; no ISBN printed
+- PDF pages: 90 (byte size 43,321,005 = record size exactly)
+- Verdict: COMPLETE
+- Tally: 28 placements — 22 to existing lessons, 6 NEW LESSON NEEDED (Health-side placements in myanmar-health-placements.md)
+- Myanmar's own way: fitness is taught component by component with the English names kept (Muscular Endurance, Flexibility, Cardiovascular Endurance, Strength and Power, Agility, Balance, Coordination, Speed), and the games chapters give Myanmar two of its own: the htok-see-toe tag game and chinlone, the rattan-ball art.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — §2-1-2 — accidents that can happen in sport (fainting, cramps, sprains and falls) and the first things to do (original target `staying-safe/preventing-sports-injuries-and-first-aid`) | Myanmar, *ကာယပညာ (Physical Education), Grade 7 student textbook* (Myanmar G7 PE Textbook), §2-1-2, printed p. 30 |
+
+**Book — Myanmar Grade 7 (teacher guide):**
+## Book 4 — G7 PE Teacher Guide (teacher guide, Myanmar/Burmese)
+- Title as printed: ကာယပညာ ဆရာလမ်းညွှန် (Physical Education Teacher Guide), Grade 7 — introduction, I-T-P-R lesson shape, syllabus, year plan and Glossary of Words, then lesson plans for every textbook chapter
+- Grade: 7 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Myanmar (DBE BOX scan); year not printed on the scanned pages; no ISBN printed
+- PDF pages: 100 (byte size 34,971,987 = record size exactly)
+- Verdict: COMPLETE — lesson plans mirror the student textbook; personal fitness record sheets (ကိုယ်ပိုင်မှတ်တမ်း) are assessment apparatus, named here and not placed
+- Tally: 15 placements — 10 to existing lessons, 5 NEW LESSON NEEDED (Health-side placements in myanmar-health-placements.md)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — Lesson plan 2-1-2 — teaching accident response in sport (teacher guide — evidence) (original target `staying-safe/preventing-sports-injuries-and-first-aid`) | Myanmar, *ကာယပညာ ဆရာလမ်းညွှန် (Physical Education Teacher Guide), Grade 7* (Myanmar G7 PE Teacher Guide), Lesson plan 2-1-2, printed p. 30 (teacher guide — evidence) |
+
+**Book — Myanmar Grade 6 (student book):**
+## Book 5 — G6 PE Textbook (student book, Myanmar/Burmese with English fitness/sport terms)
+- Title as printed: ကျောင်းသုံးစာအုပ် ကာယပညာ ဆဋ္ဌမတန်း (School Textbook, Physical Education, Grade 6) — cover: ပြည်ထောင်စုသမ္မတမြန်မာနိုင်ငံတော်အစိုးရ ပညာရေးဝန်ကြီးဌာန (Ministry of Education, Republic of the Union of Myanmar), ၂၀၁၉–၂၀၂၀ (2019–2020); printed January 2019, 196,392 copies; no ISBN printed
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Myanmar (DBE BOX scan)
+- PDF pages: 88 (byte size 19,943,343 = record size exactly)
+- Verdict: COMPLETE — full contents page (မာတိကာ) read; closing glossary of PE terms (Physical Fitness, Agility, Balance, Cardiovascular Endurance, Circuit Training, Coordination, Flexibility, Jogging, Muscular Endurance, Power, Speed, Stretching) is inventory-only, named here and not placed
+- Tally: 25 placements — 19 to existing lessons, 6 NEW LESSON NEEDED (Health-side placements in myanmar-health-placements.md)
+- Myanmar's own way: fitness is introduced through graded A/B/C test tables for every component, first aid is taught as the English PRICES sequence, and Myanmar's own chinlone is given a full chapter with its six classic kicks named in English (instep, inside, knee, sole, heel, outside).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — §2-1-2/§2-1-3 — kinds of sports injuries and first aid by the PRICES sequence (Protection, Rest, Ice, Compression, Elevation, Support), with bandaging shown (original target `staying-safe/preventing-sports-injuries-and-first-aid`) | Myanmar, *ကျောင်းသုံးစာအုပ် ကာယပညာ ဆဋ္ဌမတန်း (School Textbook, Physical Education, Grade 6)* (Myanmar G6 PE Textbook), §2-1-2/§2-1-3, printed pp. 26–29 |
+
+**Book — Myanmar Grade 6 (teacher guide):**
+## Book 6 — G6 PE Teacher Guide (teacher guide, Myanmar/Burmese)
+- Title as printed: ကာယပညာ ဆရာလမ်းညွှန် (Physical Education Teacher Guide), Grade 6 — introduction with the I-T-P-R lesson shape (45-minute periods), syllabus, year plan and Glossary of Words, then lesson plans for every textbook chapter
+- Grade: 6 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Myanmar (DBE BOX scan); year not printed on the scanned pages; no ISBN printed
+- PDF pages: 102 (byte size 32,405,768 = record size exactly)
+- Verdict: COMPLETE — spot-read across the whole book (front matter, Ch.1 plans, mid-book plans, Ch.3 plans and test timetable at the end); plans mirror the student textbook throughout
+- Tally: 13 placements — 9 to existing lessons, 4 NEW LESSON NEEDED (Health-side placements in myanmar-health-placements.md)
+- Note: a Grade 6 PE teacher guide is also listed among the library's already-held Myanmar books (Telegram route); this be.moeedu.org copy is the DBE BOX scan edition — staged as well and flagged in the group log for de-duplication
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — Lesson plan 2-1-2 — teaching injury types and PRICES first aid (teacher guide — evidence) (original target `staying-safe/preventing-sports-injuries-and-first-aid`) | Myanmar, *ကာယပညာ ဆရာလမ်းညွှန် (Physical Education Teacher Guide), Grade 6* (Myanmar G6 PE Teacher Guide), Lesson plan 2-1-2, printed pp. 31–32 (teacher guide — evidence) |
+
+Myanmar is added as student-book stock (see its book lines and rows above), inside the acceptance count — the Myanmar student books stocked here are STUDENT books, so Myanmar is named in the countries line and provenance rows and the acceptance count rises from 10 to 11 countries; the teacher-guide rows (Books 2, 4 and 6) are teacher-guide evidence only, outside the acceptance count. All six Myanmar placements in this lesson were filed under the slug `staying-safe/preventing-sports-injuries-and-first-aid`, this lesson itself. Myanmar's own way is content, as the book lines above record it: first aid is taught inside the PE textbooks — the Grade 6 book teaches it as the English PRICES sequence (Protection, Rest, Ice, Compression, Elevation, Support) with bandaging shown, and the Grade 10 book gives the sportsperson's health knowledge — cramps, sprains, dislocations and drowning — its own chapter section.
+Searchable tags: preventing sports injuries, first aid, optimising training and preventing injury, training intensity, technique clothing equipment checks, Edexcel GCSE Physical Education, United Kingdom GCSE Edexcel PE Student Book, RICE, RICER, Rest Ice Compression Elevation Referral, sprains dislocations fractures bruising, first aid kit, blood safety, Ethiopia HPE Grades 6–7, first aid for injuries, bleeding, three-layer pressure bandage, Tajikistan Physical Culture Grades 1-4, medical control, pedagogical-medical observation, treatment of sports injuries and illnesses, medical provision for mass PE and sport, Turkmenistan Bedenterbiýe, first aid for stings and bites, bees wasps spiders scorpions snakes, washing with water and soap, cold compress, calling 911, first aid for simple fractures, splinting wooden boards compression bandages, fracture shapes simple transverse compound, Public Safety, Jordan NCCD Physical Education Grades 7 and 9, first aid and using medicine, Laos PE and Handicraft Teacher Guides Grades 4 and 5, resuscitation teaching classes 4-6, Elvytysopetusta luokille 4-6, calling 112, duty to help, unconscious lifeless recovery position, CPR resuscitation defibrillator, pressure bandage wound dressing, triangular bandage sling, supporting a fracture or sprain, nosebleed stroke face arm speech, Finland first aid, safety session, main causes of sports injuries, safe landing techniques, safety roll, protecting learners from the sun, Namibia PE4Life Guide, initiation to first aid, four rescue steps, secure the scene, assess the victim, alert emergency services, choking, heart malaise, first-aid certificate, natural-hazard safety, Haiti EPS Programmes Grades 7-9 and 10-13, MENFP, First Aid Lyceum Year 2, Πρώτες Βοήθειες, chain of survival, CPR, AED, recovery position, Cyprus First Aid Grade 11, safety in sport, teacher's seven safety duties, protective equipment in sport, shin guards, knee pads, ABC check airway breathing circulation, carotid pulse, shock legs raised, first-aid box, Afghanistan G7 PE Teacher Guide Dari, Afghanistan G10 PE Teacher Guide Pashto, treating open and closed injuries, fractures, exercise fainting, exercise abdominal pain, muscle cramp, on-site first aid, CPR, AED, drowning rescue and first aid, China Senior High PEP PE & Health, tetanus wound cleaning, first-aid kit botiquín, El Salvador Ciencia Salud y Medio Ambiente 1, muscle and tendon injury flexibility, El Salvador PE Guide Grades 1-3, first aid الإسعافات الأولية, first-aid kit contents and uses, sports injuries wounds, Oman G4 Teacher Guide, simple first aid cuts grazes burns stings bites local medicinal leaves poisoning, injury prevention protective equipment strapping taping sun protection, Samoa Years 1–8 Curriculum, Samoa Years 11–12 TG, first aid for injuries practical exercise, Bulgaria Biology and Health Education Grade 8 Pedagog 6, Ayuda a los demás, sports injuries muscle injuries contusions sprains, protect alert assist, first-aid kit botiquín splinting fracture transport, esguince luxación, school first-aid kit itemised, Honduras Telebásica Grades 7 8 and 9, PRICES sequence Protection Rest Ice Compression Elevation Support, bandaging, muscle cramps sprains dislocations drowning, accidents in sport fainting falls, Myanmar PE Textbooks Grades 6 7 and 10, Myanmar PE Teacher Guides Grades 6 7 and 10, ကာယပညာ

@@ -1,8 +1,8 @@
 # Sources — The Body Systems
 
-countries: Croatia, Honduras
+countries: Croatia, Honduras, Myanmar
 
-**Acceptance count: taught in 2 countries.** Croatia is filed as student-book stock, inside the acceptance count, in this lesson — as a publisher SAMPLE read, exactly as filed (see the book line below). Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guide stocked here is teacher-guide evidence only, outside the acceptance count.
+**Acceptance count: taught in 3 countries.** Croatia is filed as student-book stock, inside the acceptance count, in this lesson — as a publisher SAMPLE read, exactly as filed (see the book line below). Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guide stocked here is teacher-guide evidence only, outside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count.
 
 **Book 1 — Čovjek i zdravlje (student book, Croatian):**
 - Title as printed: Čovjek i zdravlje — Udžbenik iz biologije za strukovne škole (Biology textbook for vocational schools)
@@ -53,4 +53,23 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/honduras-hea
 | Honduras — Bloque II Secuencia 2 — the body systems named for the "Mi cuerpo: es una máquina perfecta" lesson: cardiovascular, lymphatic, skeletal and articular systems and what each is made of (body-in-exercise knowledge that fits neither Health title) (teacher guide — evidence) (original string `staying-safe/HELD-title-decision`) | Honduras Grade 7 HN G7 teacher guide, printed p. 99 (teacher guide — evidence) |
 
 Honduras is added as student-book stock (see its book lines and rows above), inside the acceptance count — Book 1 is a STUDENT book, so Honduras is named in the countries line and provenance rows and the acceptance count rises from 1 to 2 countries; the Grade 7 teacher guide row is teacher-guide evidence only, outside the acceptance count. Both Honduras placements were filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson `staying-safe/the-body-systems` by registry Part 2B, and the original string is recorded in the provenance rows above. Honduras's own way is content, as the book lines above record it: health is taught inside the PE book — body knowledge sits inside the fitness blocks rather than in a separate health book.
-Searchable tags: body systems, cells tissues organs organ systems, blood red cells white cells platelets, transport of substances, homeostasis, Croatia, Čovjek i zdravlje, Mi cuerpo es una máquina perfecta, structure of the human body, cardiovascular lymphatic skeletal articular systems, Honduras Telebásica Grades 7
+## Myanmar — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/myanmar-health-placements.md. The Myanmar book stocked in this lesson is Book 1. Myanmar is student-book stock, inside the acceptance count, in this lesson.
+
+**Book — Myanmar Grade 10 (student book):**
+## Book 1 — G10 PE Textbook (student book, Myanmar/Burmese with English exercise names)
+- Title as printed: ကာယပညာ (Physical Education), Grade 10 student textbook — the scan carries no cover page; the running heads read ကျောင်းသုံးစာအုပ် / ကာယပညာ / ဒသမတန်း (school textbook / Physical Education / Grade 10) and Chapter 1 opens on PDF p.1
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Myanmar (DBE BOX scan); year not printed on the scanned pages; no ISBN printed
+- PDF pages: 70 (byte size 42,917,679 = record size exactly; the scan repeats the opening pages at the end)
+- Verdict: COMPLETE
+- Tally: 18 placements — 11 to existing lessons, 7 NEW LESSON NEEDED (Health-side placements from this book are in myanmar-health-placements.md)
+- Myanmar's own way: the whole secondary course is built from photo-sequenced exercises with English names kept in brackets, two full circuit-training rounds with record charts, competition-fixture mathematics (league and knockout draws worked numerically), and Myanmar's own net game, sepak takraw, taught with its SEAP Games history.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — §2-1 — your body systems in sport: the respiratory, circulatory, muscular and nervous systems and what each does when you play (original string `staying-safe/HELD-title-decision`) | Myanmar, *ကာယပညာ (Physical Education), Grade 10 student textbook* (Myanmar G10 PE Textbook), §2-1, printed pp. 23–27 |
+
+Myanmar is added as student-book stock (see its book line and row above), inside the acceptance count — the Myanmar book stocked here is a STUDENT book, so Myanmar is named in the countries line and provenance row and the acceptance count rises from 2 to 3 countries. The Myanmar placement was filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson `staying-safe/the-body-systems` by registry Part 2B, and the original string is recorded in the provenance row above. Myanmar's own way is content, as the book line above records it: the body systems are taught inside the PE textbook as what each system does when you play.
+Searchable tags: body systems, cells tissues organs organ systems, blood red cells white cells platelets, transport of substances, homeostasis, Croatia, Čovjek i zdravlje, Mi cuerpo es una máquina perfecta, structure of the human body, cardiovascular lymphatic skeletal articular systems, Honduras Telebásica Grades 7, body systems in sport, respiratory circulatory muscular nervous systems, Myanmar PE Textbook Grade 10, ကာယပညာ

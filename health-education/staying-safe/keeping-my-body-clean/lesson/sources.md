@@ -1,8 +1,8 @@
 # Sources — Keeping My Body Clean
 
-countries: Kiribati, El Salvador, Oman, Samoa, Timor-Leste
+countries: Kiribati, El Salvador, Oman, Samoa, Timor-Leste, Myanmar
 
-**Acceptance count: taught in 3 countries.** Kiribati and El Salvador are filed as student-book stock, inside the acceptance count, in this lesson — Kiribati Book 1 is a student book (its Book 2 is a teacher guide, so its row there is teacher-guide evidence only; the country is already counted once via the student book), and El Salvador's book is a student book. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count).
+**Acceptance count: taught in 4 countries.** Kiribati and El Salvador are filed as student-book stock, inside the acceptance count, in this lesson — Kiribati Book 1 is a student book (its Book 2 is a teacher guide, so its row there is teacher-guide evidence only; the country is already counted once via the student book), and El Salvador's book is a student book. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count; the Myanmar teacher guide stocked here is teacher-guide evidence only, outside the acceptance count.
 
 **Book 1 — Stay Clean and Healthy, Big Book Year 3 Term 1 (student book — big-book reader, English):**
 - Title as printed: Stay Clean And Healthy
@@ -107,4 +107,38 @@ Samoa is added as curriculum-statement / teacher-guide evidence only (see its bo
 
 Timor-Leste is added as student-book stock (see its book lines and row above), inside the acceptance count — Book 1 is a STUDENT book, so Timor-Leste is named in the countries line and provenance row and the acceptance count rises (now taught in 3 countries). Book 2, the teacher guide, is filed as evidence only, outside the acceptance count — it carries the same ten units as Book 1 as full lesson plans and is the student book's evidence pair; its content is not double-placed. The Timor-Leste placement was filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson `staying-safe/keeping-my-body-clean` by registry Part 2B (HELD description: "Unit 5: Puberty and hygiene — keeping clean through puberty"), and the original string is recorded in the provenance row above. Timor-Leste's own way is content, as the book lines above record it: keeping clean through puberty is taught inside the puberty unit. This lesson teaches its placement only as the placements file summarises it, and names nothing the summary does not name.
 
-Searchable tags: keeping my body clean, personal hygiene, morning washing routine, washing hands, hygiene in puberty, Stay Clean and Healthy, Kiribati Year 3 big book, WASH MHM Guide, water in personal hygiene, bathing daily, washing hands with soap, brushing teeth three times a day, cleaning ears and nails, El Salvador Ciencia Salud y Medio Ambiente 1, El agua fuente de salud, personal cleanliness habits, cleanliness protects from disease, Health Culture and Awareness, Oman G1 Teacher Guide, personal hygiene sanitation hand washing tooth brushing nits lice worms tinea ringworm, Samoa Years 1–8 Curriculum, puberty hygiene keeping clean through puberty, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book
+## Myanmar — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/myanmar-health-placements.md. The Myanmar books stocked in this lesson are Book 5, Book 6. Myanmar is student-book stock, inside the acceptance count, in this lesson; the teacher guide stocked here (Book 6) is teacher-guide evidence only, outside the acceptance count.
+
+**Book — Myanmar Grade 6 (student book):**
+## Book 5 — G6 PE Textbook (student book, Myanmar/Burmese with English fitness/sport terms)
+- Title as printed: ကျောင်းသုံးစာအုပ် ကာယပညာ ဆဋ္ဌမတန်း (School Textbook, Physical Education, Grade 6) — cover: ပြည်ထောင်စုသမ္မတမြန်မာနိုင်ငံတော်အစိုးရ ပညာရေးဝန်ကြီးဌာန (Ministry of Education, Republic of the Union of Myanmar), ၂၀၁၉–၂၀၂၀ (2019–2020); printed January 2019, 196,392 copies; no ISBN printed
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Myanmar (DBE BOX scan)
+- PDF pages: 88 (byte size 19,943,343 = record size exactly)
+- Verdict: COMPLETE — full contents page (မာတိကာ) read; closing glossary of PE terms (Physical Fitness, Agility, Balance, Cardiovascular Endurance, Circuit Training, Coordination, Flexibility, Jogging, Muscular Endurance, Power, Speed, Stretching) is inventory-only, named here and not placed
+- Tally: 25 placements — 19 to existing lessons, 6 NEW LESSON NEEDED (Health-side placements in myanmar-health-placements.md)
+- Myanmar's own way: fitness is introduced through graded A/B/C test tables for every component, first aid is taught as the English PRICES sequence, and Myanmar's own chinlone is given a full chapter with its six classic kicks named in English (instep, inside, knee, sole, heel, outside).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — §3-2-1 — keeping yourself clean: washing hands, cutting nails, caring for face, eyes, ears, hair and teeth, drawn step by step (original string `staying-safe/keeping-clean-for-health`) | Myanmar, *ကျောင်းသုံးစာအုပ် ကာယပညာ ဆဋ္ဌမတန်း (School Textbook, Physical Education, Grade 6)* (Myanmar G6 PE Textbook), §3-2-1, printed pp. 81–83 |
+
+**Book — Myanmar Grade 6 (teacher guide):**
+## Book 6 — G6 PE Teacher Guide (teacher guide, Myanmar/Burmese)
+- Title as printed: ကာယပညာ ဆရာလမ်းညွှန် (Physical Education Teacher Guide), Grade 6 — introduction with the I-T-P-R lesson shape (45-minute periods), syllabus, year plan and Glossary of Words, then lesson plans for every textbook chapter
+- Grade: 6 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Myanmar (DBE BOX scan); year not printed on the scanned pages; no ISBN printed
+- PDF pages: 102 (byte size 32,405,768 = record size exactly)
+- Verdict: COMPLETE — spot-read across the whole book (front matter, Ch.1 plans, mid-book plans, Ch.3 plans and test timetable at the end); plans mirror the student textbook throughout
+- Tally: 13 placements — 9 to existing lessons, 4 NEW LESSON NEEDED (Health-side placements in myanmar-health-placements.md)
+- Note: a Grade 6 PE teacher guide is also listed among the library's already-held Myanmar books (Telegram route); this be.moeedu.org copy is the DBE BOX scan edition — staged as well and flagged in the group log for de-duplication
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — Lesson plan 3-2-1 — teaching personal cleanliness habits (teacher guide — evidence) (original string `staying-safe/keeping-clean-for-health`) | Myanmar, *ကာယပညာ ဆရာလမ်းညွှန် (Physical Education Teacher Guide), Grade 6* (Myanmar G6 PE Teacher Guide), Lesson plan 3-2-1, printed pp. 92–94 (teacher guide — evidence) |
+
+Myanmar is added as student-book stock (see its book lines and rows above), inside the acceptance count — Book 5 is a STUDENT book, so Myanmar is named in the countries line and provenance rows and the acceptance count rises from 3 to 4 countries; the Book 6 teacher-guide row is teacher-guide evidence only, outside the acceptance count. Both Myanmar placements were filed under the original string `staying-safe/keeping-clean-for-health`, resolved to this canonical lesson `staying-safe/keeping-my-body-clean` by registry Part 2, and the original string is recorded in the provenance rows above. Myanmar's own way is content, as the book lines above record it: keeping yourself clean is taught inside the Grade 6 PE textbook, drawn step by step — washing hands, cutting nails, and caring for face, eyes, ears, hair and teeth.
+
+Searchable tags: keeping my body clean, personal hygiene, morning washing routine, washing hands, hygiene in puberty, Stay Clean and Healthy, Kiribati Year 3 big book, WASH MHM Guide, water in personal hygiene, bathing daily, washing hands with soap, brushing teeth three times a day, cleaning ears and nails, El Salvador Ciencia Salud y Medio Ambiente 1, El agua fuente de salud, personal cleanliness habits, cleanliness protects from disease, Health Culture and Awareness, Oman G1 Teacher Guide, personal hygiene sanitation hand washing tooth brushing nits lice worms tinea ringworm, Samoa Years 1–8 Curriculum, puberty hygiene keeping clean through puberty, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, keeping yourself clean, washing hands cutting nails, face eyes ears hair teeth care, Myanmar PE Textbook Grade 6, Myanmar PE Teacher Guide Grade 6, ကာယပညာ
