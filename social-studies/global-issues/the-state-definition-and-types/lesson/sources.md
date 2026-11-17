@@ -1,6 +1,6 @@
 # Sources — The State — Definition and Types
 
-countries: Egypt, Haiti, Afghanistan, Eritrea, Mexico, Belarus, Syria, Bangladesh, Iraq
+countries: Egypt, Haiti, Afghanistan, Eritrea, Mexico, Belarus, Syria, Bangladesh, Iraq, Armenia
 
 **Book 1:** *الجغرافيا السياسية (Political Geography) — كتاب الطالب والأنشطة والتدريبات (Student Book, Activities and Exercises)* (student book with activities, Arabic) — Egypt, Ministry of Education and Technical Education, Egypt; no year or ISBN on the cover pages read (the file is the ministry's 2026-folder student book). Title as printed: الجغرافيا السياسية (Political Geography). Grade 12, Third Secondary, Term 1 (student). 172 PDF pp. (cover verified against the record title; 28,573,835 bytes = record size exactly, from the recorded Azure source; staged in phase3-staging/grade-12/gov/egypt/Geography_Sec3.pdf under the push-don't-delete rule — its books.json record already existed there). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/egypt-placements.md.
 
@@ -84,3 +84,21 @@ Iraq placements — Social Studies remaining strands (2026-11-17):
 **Acceptance count: taught in 8 countries (Egypt, Afghanistan, Eritrea, Mexico, Belarus, Syria, Bangladesh, Iraq). Haiti is named here as teacher-guide evidence only, counted nowhere.**
 
 Iraq's own way (Book 3): the state is defined as institutions that serve, its pillars are named homeland, people, federal authorities and sovereignty, and citizenship is taught as a two-way street — the state's services (free education first) on one side, and on the other a good citizen whose first quality is knowing his own abilities so he can fix his duties and his rights.
+
+
+**Book 11:** *G09 Social Science student* (student book, Armenian) — Title as printed: ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 9-րդ դասարան — Հանրակրթական հիմնական դպրոցի դասագիրք (Social Science, Grade 9, basic-school textbook) — K. Harutyunyan (Themes 2–3), T. Simonyan (Theme 1), A. Manucharyan (Theme 4), N. Galstyan (Theme 5). Grade: 9 (student/teacher: STUDENT). Publisher: «Զանգակ» (Zangak), Yerevan; year 2025; ISBN 978-9939-99-243-3. PDF pages: 180 (cover and title page verified against the record title; image-only PDF read from rendered pages; 38,679,191 bytes from the record's ministry source file — exactly the size the Economics wave recorded for this copy). Earlier waves: Economics wave placed Theme 4 (The State and the Economy, §§4.1–4.4, pp. 84–127); History wave filed it RECORD-ONLY (no History parts).. Verdict: COMPLETE — the four remaining themes placed below (Themes 1, 2, 3, 5); Theme 4 already placed by the Economics wave.. Contents map: The State: Introduction pp. 5–42 (Theme 1); State and Culture pp. 43–58 (Theme 2); State and Political System pp. 59–83 (Theme 3); Economics pp. 84–127 (Theme 4, Economics wave); State and Politics pp. 128–171 (Theme 5); Final glossary pp. 172–174 (inventory-only). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part 1 — culture-and-work/the-concept-of-the-state — §1.1 The concept of the state — teaches: what a state is and where states come from, through two imagined countries, Plato's and Aristotle's accounts, and Solon's reforms in Athens sorting citizens and courts — Armenia Grade 9 Social Science, printed p. 5 | Armenia, *G09 Social Science student* (student book), §1.1 The concept of the state — printed p. 5 |
+| Armenia part 2 — culture-and-work/forms-of-the-state — §1.3 The form of the state — teaches: how states are organised — forms of government, territorial structure and political regimes — Armenia Grade 9 Social Science, printed p. 26 | Armenia, *G09 Social Science student* (student book), §1.3 The form of the state — printed p. 26 |
+| Armenia way — Armenia's own teaching way | Armenia — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 9 countries (Egypt, Afghanistan, Eritrea, Mexico, Belarus, Syria, Bangladesh, Iraq, Armenia). Haiti is named here as teacher-guide evidence only, counted nowhere.**
+
+Armenia's own way (G09 Social Science student): the state is taught through Armenia itself — its Constitution, its constitutional order and state bodies, electing its deputies and mayors, and its referendum.
+
+Registry note: the original coined string `culture-and-work/the-concept-of-the-state` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `global-issues/the-state-definition-and-types`.
+
+Registry note: the original coined string `culture-and-work/forms-of-the-state` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `global-issues/the-state-definition-and-types`.
+

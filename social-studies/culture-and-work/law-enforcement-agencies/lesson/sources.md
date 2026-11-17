@@ -1,6 +1,6 @@
 # Sources — Law Enforcement Agencies
 
-countries: Bahamas, Belarus
+countries: Bahamas, Belarus, Armenia
 
 **Book 1:** *Bahamas Primary Social Studies Digital Textbook — Grade 5 (First Edition 2023)* (student book, English) — Bahamas Ministry of Education (Innovation Unit); First Edition 2023; ISBN no ISBN printed. Title as printed: Bahamas Primary Social Studies Digital Textbook — Grade 5 (First Edition 2023). Grade: Grade 5 (student/teacher: STUDENT). PDF pages: 36 (staging file 77,476,688 bytes on disk; spread deck). Earlier waves: Geography wave placed spreads 17–22; History wave placed spreads 2–8, 14–16, 29–33 (23 placements); Economics wave placed spreads 23, 25–28. Verdict: COMPLETE (remaining strands: Civics spreads 15–16, 24 as mapped by the Economics wave; the citizenship teaching inside spreads 14–16 was named there under History and is placed here once, as civics). Contents map: Integrated SS / Civics spreads 15–16, 24 (Law Enforcement Agencies; Caribbean and Commonwealth Organization; Conflict Resolution) plus Citizenship inside spreads 14–16; History spreads 2–8, 29–33; Geography spreads 17–22; Economics spreads 23, 25–28; Culture spreads 34–36. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/bahamas-placements.md.
 
@@ -29,3 +29,18 @@ Searchable tags: law enforcement agencies, law enforcement, Bahamas, social stud
 Belarus's own way (Grade 11): The whole Grade 11 course is the state describing itself — the 1994 Constitution and its 1996/2004 referendums, the President as guarantor of the Constitution, a two-chamber National Assembly and elected local Soviets of deputies under appointed executive committees, and two state languages — so its civics is placed as Belarus's own constitutional order, not as generic civics.
 
 Registry note: the original coined string `culture-and-work/law-enforcement-bodies-courts-prosecution-police-and-control` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/law-enforcement-agencies`.
+
+
+**Book 4:** *G11 Social Science student* (student book, Armenian) — Title as printed: ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 11-րդ դասարան — Հանրակրթական ավագ դպրոցի դասագիրք (Social Science, Grade 11, senior-school textbook) — N. Galstyan (Th. 3, 4, 6), T. Simonyan (Th. 1, 5), A. Sahakyan (Th. 2). Grade: 11 (student/teacher: STUDENT). Publisher: «Զանգակ» (Zangak), Yerevan; year 2025; ISBN 978-9939-99-280-8. PDF pages: 192 (imprint page verified against the record title and ISBN; read from the record's ministry source file at 234,716,578 bytes — the same size as the GitHub release asset, which the Geography wave found corrupt; the ministry original is intact). Earlier waves: Economics wave placed Theme 2 (The State's Role in the Economy, pp. 46–76); Geography wave filed it for the same Theme 2 parts; History wave filed it RECORD-ONLY (no History parts).. Verdict: COMPLETE — the five remaining themes placed below (Themes 1, 3, 4, 5, 6); Theme 2 already placed by the Economics wave.. Contents map: State System and Rights Protection pp. 5–45 (Theme 1); Economics pp. 46–76 (Theme 2, Economics wave); Political Participation and Elections pp. 77–108 (Theme 3); Parties and Interest Groups pp. 109–132 (Theme 4); International Law pp. 133–171 (Theme 5); International Relations and Foreign Policy pp. 172–190 (Theme 6); Glossary pp. 176–180 (inventory-only). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part 1 — culture-and-work/law-enforcement-bodies — §1.3 Law-enforcement bodies — teaches: the police and their tasks (safety, public order, property protection, crime prevention and detection), the investigator, the prosecution as the state's advocate, the courts and the Human Rights Defender — Armenia Grade 11 Social Science, printed p. 35 | Armenia, *G11 Social Science student* (student book), §1.3 Law-enforcement bodies — printed p. 35 |
+| Armenia way — Armenia's own teaching way | Armenia — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 3 countries (Bahamas, Belarus, Armenia).**
+
+Armenia's own way (G11 Social Science student): the course teaches the state through Armenia's own institutions — its branches of law and codes, its law-enforcement bodies and Human Rights Defender, its state and community elections and referendum, its own party system, and its foreign-policy goals and principles.
+
+Registry note: the original coined string `culture-and-work/law-enforcement-bodies` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/law-enforcement-agencies`.
+

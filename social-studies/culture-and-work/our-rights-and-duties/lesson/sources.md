@@ -1,6 +1,6 @@
 # Sources — Our Rights and Duties
 
-countries: Maldives, Samoa, Albania, Fiji, Turkey
+countries: Maldives, Samoa, Albania, Fiji, Turkey, Armenia
 
 **Book 1:** *Exploring Social Studies 4* (student book, English) — Title as printed: Exploring Social Studies 4. Grade: Grade 4 (student/teacher: STUDENT). Publisher: National Institute of Education, Ministry of Education, Maldives; year 2025 (first published 2025); ISBN 978-99915-0-954-9. PDF pages: printed pagination 1–189 plus front matter (read in full via the NIE download's indexed full text — the direct file download from this host failed on every attempt: the WPDM link's refresh token returns an error to shell downloads, so the book could NOT be staged; see the group log. Cover, title page, ISBN and contents verified against the record title in the indexed text.) Earlier waves: not read before. Verdict: COMPLETE — contents-mapped in full; Units 1, 5 and 6 (the remaining strands) read page by page. Contents map: Integrated SS printed pp. 1–30 (Unit 1 Belonging & Connections); Civics/Citizenship/Government pp. 131–160 (Unit 5 Living Together); Culture in society pp. 161–189 (Unit 6 We the Maldivians); Geography pp. 31–76 (Unit 2 People, Places and the Environment — named, not placed); History pp. 77–98 and 183–188 (Unit 3 Time, Continuity and Change; §6.4 Our National Heroes — named, not placed); Economics pp. 99–130 (Unit 4 The Economic World — named, not placed); Religion within §5.2 (Islam teaches peace and harmony — named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/maldives-placements-b.md.
 
@@ -50,3 +50,18 @@ Fiji's own way (Grade 7): Identity is taught as "what makes you who you are" —
 Searchable tags: our rights and duties, Maldives, Samoa, social studies, culture-and-work, Albania, Fiji, Turkey
 
 Registry note: the original coined string `culture-and-work/my-rights-and-my-responsibilities` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/our-rights-and-duties`.
+
+
+**Book 5:** *G08 Social Science student* (student book, Armenian) — Title as printed: ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 8 — Դասագիրք հանրակրթական դպրոցի համար (Social Science 8, textbook for general schools) — D. Stepanyan, D. Tumasyan, H. Bayadyan, V. Soghomonyan, S. Tonoyan. Grade: 8 (student/teacher: STUDENT). Publisher: «Մասնակցային դպրոց» (Participatory School), Yerevan; year 2024; ISBN no ISBN printed in the pages checked (112 printed pages). PDF pages: 114 (cover verified against the record title; 35,601,335 bytes — exactly the GitHub-verified size in the Economics filing). Earlier waves: Geography wave filed it RECORD-ONLY (whole book is Civics, no Geography parts); Economics wave filed it RECORD-ONLY (no Economics parts); History wave placed §2.1 (rights generations, as a History lesson) and §§4.3–4.4 (project work / media literacy) only.. Verdict: COMPLETE. Contents map: Civics/Citizenship/Government pp. 8–63 (Ch. 1 Fundamental Values of Democracy; Ch. 2 Human Rights); Morals/Values pp. 10–31 (inside Ch. 1) and p. 76 (§3.3); Integrated SS pp. 86–96 (§§4.1–4.2 power and leadership, inside the project-work chapter); Cognition pp. 66–75 (§§3.1–3.2 thinking and reasoning — named, not placed: outside this wave's strands); §§4.3–4.4 project/media skills already placed by the History wave. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part 1 — culture-and-work/rights-duties-and-responsibility — 1.5 Responsibility: the value and necessity of responsibility; right, duty and responsibility — teaches: responsibility grows out of freedom (only a free decision-maker can answer for outcomes); right, duty and responsibility as one linked set, with democratic decision-making as shared responsibility — Armenia Grade 8 Social Science student, printed p. 24 | Armenia, *G08 Social Science student* (student book), 1.5 Responsibility: the value and necessity of responsibility; right, duty and responsibility — printed p. 24 |
+| Armenia way — Armenia's own teaching way | Armenia — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 5 countries (Maldives, Samoa, Fiji, Turkey, Armenia). Albania is named here as teacher-guide evidence only, counted nowhere.**
+
+Armenia's own way (G08 Social Science student): the democracy year opens from Armenia's own Constitution — Articles 1–2 ("the Republic of Armenia is a sovereign, democratic, social, rule-of-law state; power belongs to the people") — and every value is then tested against daily-life cases before rights are sorted by category and by holder.
+
+Registry note: the original coined string `culture-and-work/rights-duties-and-responsibility` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/our-rights-and-duties`.
+

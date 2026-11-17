@@ -1,6 +1,6 @@
 # Sources — Social Change
 
-countries: Samoa, Bangladesh
+countries: Samoa, Bangladesh, Armenia
 
 **Book 1:** *Social Studies — Year 11 Book One* (student book, English) — Title as printed: Social Studies — Year 11 Book One. Grade: Year 11 (student/teacher: STUDENT). Publisher: Government of Samoa, Department of Education; year 2003; ISBN 982-517-039-5. PDF pages: 122 (cover/title page verified against the record title; MESC copy, size 38,977,700 B per download list). Read from the MESC ministry source URL recorded in the books.json record — the same MESC PDF the Geography wave verified byte-for-byte against the record and already secured in GitHub (in_pushed: true) — via the browser text route, cover/title page and ISBN checked against the record before reading; no file staged — the book is already in GitHub, as filed in samoa-placements.md. Earlier waves: Geography wave placed Unit 3 The Marine Environment (pp. 58–96) and Unit 5 inquiry skills, and named Units 1–2 "Sociology/History, not placed"; History wave placed Unit 1 Topics 2–3's Black America narrative and Unit 2 Topic 2's Mau story (pp. 11–57) and named Unit 1 Topic 1 (What Are Social Institutions, pp. 6–10) not placed; Economics wave filed the book record-only. The sociology/civics concept teaching (institutions, social change, rights-roles-responsibilities) was read and placed here. Verdict: COMPLETE. Contents map: Integrated SS / Civics pp. 5–57 (Units 1–2 For Better Or For Worse — social institutions, social change, rights/roles/responsibilities, taught through Black America and the Mau); Geography pp. 58–96 (Unit 3, placed by Geography wave); Skills pp. 97–118 (Units 4–5). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/samoa-placements.md.
 
@@ -24,3 +24,18 @@ Samoa's own way: Society is taught as a set of institutions a Samoan child alrea
 Registry note: the original coined string `culture-and-work/social-change-and-its-causes` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/social-change`.
 
 Searchable tags: social change, Samoa, social studies, culture-and-work, Bangladesh
+
+
+**Book 3:** *G10 Social Science student* (student book, Armenian) — Title as printed: ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 10-րդ դասարան — Դասագիրք նպատակային ծրագրի համար (Social Science 10, textbook for the target programme) — K. Harutyunyan, H. Barseghyan, N. Galstyan, A. Manucharyan. Grade: 10 (student/teacher: STUDENT). Publisher: «Զանգակ» (Zangak), Yerevan; year 2023 (title page 2024); ISBN 978-9939-99-040-8. PDF pages: 130 (cover/title page verified against the record title; 1,653,670 bytes — exactly the GitHub-verified size in the Economics filing). Earlier waves: Geography wave placed Themes 3–4 (Economics parts) only; Economics wave placed Themes 3–4 fully (24 placements); History wave filed it RECORD-ONLY, no History parts. Themes 1–2 were named NOT placed by all three waves.. Verdict: COMPLETE. Contents map: Integrated SS / Society pp. 4–18 (Theme 1); Civics/Citizenship/Government pp. 19–53 (Theme 2 Political Ideologies); Economics pp. 54–127 (Themes 3–4, placed by the Economics wave). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part 1 — culture-and-work/factors-of-social-change — 1.3 Factors influencing social change — teaches: culture, technology and ideas drive social change; the scientific-technical revolution, communication technologies and accelerating change, with a Harari "Sapiens" extract — Armenia Grade 10 Social Science student, printed p. 13 | Armenia, *G10 Social Science student* (student book), 1.3 Factors influencing social change — printed p. 13 |
+| Armenia way — Armenia's own teaching way | Armenia — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 3 countries (Samoa, Bangladesh, Armenia).**
+
+Armenia's own way (G10 Social Science student): the ideology theme is taught through one fictional Armenian community — pensioner Aram of Bardzrashen village and his granddaughter Anahit, a municipality worker in Lusaber, argue pensions and a mining plant, and a fictional "Lernastan" election case lets liberal, conservative and socialist forces present rival answers to the same village problem.
+
+Registry note: the original coined string `culture-and-work/factors-of-social-change` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/social-change`.
+

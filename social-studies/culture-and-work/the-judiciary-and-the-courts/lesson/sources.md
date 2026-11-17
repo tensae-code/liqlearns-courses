@@ -1,6 +1,6 @@
 # Sources — The Judiciary and the Courts
 
-countries: Yemen, Bahamas, Afghanistan, Morocco, Guatemala
+countries: Yemen, Bahamas, Afghanistan, Morocco, Guatemala, Armenia
 
 **Book 1:** *التربية الوطنية للصف الخامس من مرحلة التعليم الأساسي (National Education for Grade 5 of Basic Education)* (student book, Arabic) — Republic of Yemen, Ministry of Education; year 1442 AH / 2021 CE (cover print); ISBN no ISBN printed. Title as printed: التربية الوطنية للصف الخامس من مرحلة التعليم الأساسي (National Education for Grade 5 of Basic Education). Grade: 5 (student/teacher: STUDENT). PDF pages: 66 (cover/title page verified against the record title; 6,489,380 bytes, Wayback snapshot 20220212143057 of the recorded source_url). Earlier waves: not read before (no earlier wave held this civics book). Verdict: COMPLETE (full page-by-page read, civics track). Contents map: Civics/Citizenship/Government pp. 19–21 (national symbols), pp. 23–33 (Unit 2 administrative organisation), pp. 34–46 (Unit 3 the state's authorities); History pp. 7–18 (Unit 1 Yemeni revolutions and steadfastness — named, not placed), pp. 47–63 (Unit 4 Yemeni figures: Imam al-Qasim ibn Muhammad, Rajih Ghalib Labouza, President Ibrahim al-Hamdi, the poet Abdullah al-Baradouni — named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/yemen-placements.md.
 
@@ -56,3 +56,18 @@ Guatemala placements — Social Studies remaining strands (2026-11-17):
 
 Guatemala's own way (Book 5): citizenship is woven through every unit of the history/geography book — a fourth-grader meets the three powers, the human-rights declaration, the civil registry and the ballot box inside the same volume that tells the national story, under the unit motto "Vivamos en Armonía" (Let us live in harmony).
 Registry note: the original coined string `culture-and-work/the-constitutional-court-and-the-electoral-tribunal` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/the-judiciary-and-the-courts`.
+
+
+**Book 6:** *G11 Social Science student* (student book, Armenian) — Title as printed: ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 11-րդ դասարան — Հանրակրթական ավագ դպրոցի դասագիրք (Social Science, Grade 11, senior-school textbook) — N. Galstyan (Th. 3, 4, 6), T. Simonyan (Th. 1, 5), A. Sahakyan (Th. 2). Grade: 11 (student/teacher: STUDENT). Publisher: «Զանգակ» (Zangak), Yerevan; year 2025; ISBN 978-9939-99-280-8. PDF pages: 192 (imprint page verified against the record title and ISBN; read from the record's ministry source file at 234,716,578 bytes — the same size as the GitHub release asset, which the Geography wave found corrupt; the ministry original is intact). Earlier waves: Economics wave placed Theme 2 (The State's Role in the Economy, pp. 46–76); Geography wave filed it for the same Theme 2 parts; History wave filed it RECORD-ONLY (no History parts).. Verdict: COMPLETE — the five remaining themes placed below (Themes 1, 3, 4, 5, 6); Theme 2 already placed by the Economics wave.. Contents map: State System and Rights Protection pp. 5–45 (Theme 1); Economics pp. 46–76 (Theme 2, Economics wave); Political Participation and Elections pp. 77–108 (Theme 3); Parties and Interest Groups pp. 109–132 (Theme 4); International Law pp. 133–171 (Theme 5); International Relations and Foreign Policy pp. 172–190 (Theme 6); Glossary pp. 176–180 (inventory-only). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Armenia part 1 — culture-and-work/administration-of-justice-and-the-courts — §1.4 Administration of justice — teaches: how justice is administered through the courts — Armenia Grade 11 Social Science, printed p. 41 | Armenia, *G11 Social Science student* (student book), §1.4 Administration of justice — printed p. 41 |
+| Armenia way — Armenia's own teaching way | Armenia — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 6 countries (Yemen, Bahamas, Afghanistan, Morocco, Guatemala, Armenia).**
+
+Armenia's own way (G11 Social Science student): the course teaches the state through Armenia's own institutions — its branches of law and codes, its law-enforcement bodies and Human Rights Defender, its state and community elections and referendum, its own party system, and its foreign-policy goals and principles.
+
+Registry note: the original coined string `culture-and-work/administration-of-justice-and-the-courts` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/the-judiciary-and-the-courts`.
+
