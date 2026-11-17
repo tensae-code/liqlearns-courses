@@ -606,3 +606,24 @@ student books, Grades 7 and 8) are UNREAD as filed —
 BookFusion non-printable eBooks, no open copy — nothing
 stocked from them. No Jamaica placement resolves to a
 PE-course lesson, so none was excluded as PE-bound.
+
+The Health expansion then added (Kuwait): no new lessons — 81
+placements stocked into existing lessons (First Aid for
+Emergencies ×33, Non-communicable Diseases ×16, Preventing
+Sports Injuries and First Aid ×15, Healthy Habits Every Day
+×5, Staying Safe While Exercising ×5, Food Hygiene and Safe
+Cooking ×3, Mental Health and Wellbeing ×3, Eating a Balanced
+Diet) — this course stays at 55 lessons. All Kuwait books (the
+girls' Health Awareness & First Aid Guides — 1st edition and
+the Primary and Middle 2nd editions — and the health-culture
+teaching and safety appendices of the Girls' and Boys' main
+teacher guides) are TEACHER guides, so Kuwait is teacher-guide
+evidence only, outside the acceptance counts, in every lesson
+it touches (each touched lesson's count is unchanged). Four
+Kuwait placements (Posture health ×2 and Postural deformities
+×2, from Books 2–3) resolve through the registry to PE
+canonical `moving-basics/correct-posture` and were excluded
+here; verified by git grep on origin/main, they are not yet
+stocked in PE either, so they await a PE fix-up. Book 6
+(e-library preview 2900) is UNREAD as filed — record-only
+placeholder, 0 placements — nothing stocked from it.

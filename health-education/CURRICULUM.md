@@ -1607,3 +1607,65 @@ taught through reflective, affective-domain lessons, the
 Grade 9 book completing the spiral with sexually
 transmitted infections, food security and a "Responsible
 Earthlings" environmental unit.
+
+**Health expansion — Kuwait — BUILT 2026-11-17:** 81
+placements from Kuwait's Health Awareness & First Aid guides
+and the health parts of its main PE & Health teacher guides —
+Book 1, *Health Awareness & First Aid Guide for PE & Health –
+Girls, 1st edition* (teacher guide, Arabic, Kuwait Ministry of
+Education, prepared with the Medical Emergency Department,
+Ministry of Health, 2025–2026, COMPLETE), Book 2, the Primary
+Stage 2nd edition (2026–2027, COMPLETE), Book 3, the Middle
+Stage 2nd edition (2026–2027, COMPLETE), Book 4, the
+health-culture teaching of the Girls' main teacher guides
+(Grades 1–5 and 6–9, 2nd editions, COMPLETE) and Book 5, the
+safety appendices of the Boys' teacher guides (Grades 1–5 and
+6–9, 2nd editions, COMPLETE) — stocked into existing lessons:
+First Aid for Emergencies ×33, Non-communicable Diseases ×16,
+Preventing Sports Injuries and First Aid ×15, Healthy Habits
+Every Day ×5, Staying Safe While Exercising ×5, Food Hygiene
+and Safe Cooking ×3, Mental Health and Wellbeing ×3 and Eating
+a Balanced Diet ×1 — bringing no new lessons; this course
+stays at **55 lessons**. Every Kuwait book is a TEACHER guide,
+so Kuwait is filed as teacher-guide evidence only, outside the
+acceptance counts, in every lesson it touches (each touched
+lesson's count is unchanged). The 85 placements were filed as
+20 to existing lessons and 65 NEW LESSON NEEDED — 33 under
+`staying-safe/first-aid-for-emergencies` (registry Part 2A
+resolves that string to the canonical lesson itself) and 32
+under `staying-safe/HELD-title-decision` (resolved by registry
+Part 2B) — with the original string recorded in every
+provenance row; of the 32 HELD lines, 28 are stocked here and
+4 are excluded as PE-bound (below). Four Kuwait placements
+were NOT stocked in Health because the registry resolves them
+to a PE-course lesson: Posture health ×2 (Book 2, printed p.
+9; Book 3, printed p. 10) and Postural deformities ×2 (Book 2,
+printed p. 16 — forward head, flat back and flat foot; Book 3,
+printed p. 16 — side tilt of the head, rounded shoulders,
+kyphosis (hunchback) and knock knees), all HELD-title-decision
+lines resolving to PE canonical
+`moving-basics/correct-posture` — verified by git grep on
+origin/main: they are NOT stocked in the PE course either (the
+Correct Posture lesson carries no Kuwait rows), so they await
+a PE fix-up. Honesty notes, exactly as filed: Book 6
+(e-library preview 2900, named Primary Girls PE & Health
+Teacher Guide 2025–2026) is UNREAD — record-only; the preview
+serves only a 364-byte iOS mail-attachment placeholder JSON,
+not the book — with 0 placements, nothing stocked from it;
+edition overlaps are kept with both editions named (the 1st
+edition's Primary and Middle stage editions carry identical
+contents and pagination and are placed once; the Primary 2nd
+edition's two productions carry identical contents and are
+placed once; the Boys' Middle safety-appendix row keeps both
+editions' pages — 2nd ed. printed p. 157, 1st ed. printed p.
+170); the health guides' exercise chapters are placed in the
+PE course from the PE placements file, not here. Kuwait's own
+way is content: health is taught to girls through a
+stand-alone awareness guide, not inside the skills book —
+first the chronic diseases of modern life, then a first-aid
+manual of seventeen emergencies, two printed pages each,
+written for the teacher to teach from directly; the 2nd
+editions reorder the guide (health awareness first — posture,
+home exercise, balanced nutrition, mental health — then the
+chronic diseases, then the same seventeen emergencies) and
+drop the 1st edition's separate cancer chapter.
