@@ -1,8 +1,8 @@
 # Sources — Keeping Our Environment Healthy
 
-countries: Namibia, China
+countries: Namibia, China, Philippines
 
-**Acceptance count: taught in 1 country.** Namibia is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. China is filed as student-book stock, inside the acceptance count, in this lesson.
+**Acceptance count: taught in 2 countries.** Namibia is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. China is filed as student-book stock, inside the acceptance count, in this lesson. Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below).
 
 **Book 1 — Physical Education 4 Life: A Guide for Physical Education Teachers in Namibia, Grades 10–11 (teacher guide, English) — Health parts:**
 - Title as printed: Physical Education 4 Life — A Guide for Physical Education Teachers in Namibia — Grades 10–11
@@ -33,4 +33,28 @@ This is a canonical NEW lesson (slug-registry Part 1: `staying-safe/keeping-our-
 
 China is added as student-book stock (see its book line and row above), inside the acceptance count — the China book is a STUDENT book, so China is named in the countries line and provenance row and the acceptance count rises from 0 to 1 country. The China placement was filed under the original string `staying-safe/environment-and-health`, resolved to this canonical lesson by registry Part 2 and recorded in the provenance row above. China's own way is content, as the book line above records it: environment and health are taught together, including air pollution and how to protect yourself.
 
-Searchable tags: keeping our environment healthy, caring for the environment, recycling groups, effects of litter, reusing waste material, Healthy Lifestyle Session 2, Namibia PE4Life Guide, environment and health, air pollution and health, protecting yourself, China Senior High PEP PE & Health
+## Philippines — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/philippines-health-placements.md. The Philippines books stocked in this lesson are Book 2. Philippines is student-book stock, inside the acceptance count, in this lesson. The Health placements file also carries record-only appends with 0 placements, nothing stocked from them: Book H1 (MAPEH 2 Waray — Health units named from the table of contents only, NOT read), Book H2 (MAPEH 1, 8 LR Portal records — UNREAD, LR Portal login-gated), Book H3 (MAPEH 2 combined, 19 LR Portal records — UNREAD, LR Portal login-gated), Book H4 (SHS Physical Education and Health / HOPE textbooks — RECORD-ONLY, no textbook file located), Book H5 (DepEd Memorandum, 26 Feb 2016 — RECORD-ONLY, not a textbook) and Book H6 (Human Movement: Reader, SHS Sports track — UNREAD, LR Portal login-gated).
+
+**Book — Philippines Grade 7 (student book, English):**
+## Book 2 — Health 7 LM, Units 1–4 (student book, English)
+- Title as printed: LEARNING MODULE for HEALTH 7 (Drive file title: "HEALTH 7 Learner's Material - Unit 1 to 4.pdf")
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: DepEd (K to 12 Health Learner's Material / learning module); year no year printed in the file; ISBN no ISBN printed
+- PDF pages: 141 (first page verified: "LEARNING MODULE for HEALTH 7 — Module 1: GROWING HEALTHY"; byte size 4,090,777 B matches the download-list E1-7 row exactly)
+- Record note: the target record's URL field points at the MAPEH 7 Art component (Drive ID 12-81fGpqHRcUAkoQ7lSKnytBIYHSQIsb, verified title "ART 7 Learner's Material - Unit 1 to 4.pdf" — a different book, NOT placed). The record's own download-list line names Art / Health / Music as one E1-7 record; the full source line (~/workspace/download-lists/philippines.md, row E1-7) gives the Health file as https://drive.google.com/open?id=1szAWzJABFj5Mn4CDpCOJRDpOu3fmJaPq, which direct-downloaded as a real PDF (not view-only) and was staged under the push-don't-delete rule. That Health file is the book read and placed here.
+- Verdict: COMPLETE — all four modules, Units 1–4, present to the Module 4 posttest (PDF p. 139–141). The book's own numbering jumps from Module 3 Lesson 6 to Lesson 8 — there is no Lesson 7 in this copy (the gap is in the book itself, not a missing file part). Pretests, module tests and posttests are named in the placements file and not placed, per the brief's assessment exclusion.
+- Tally: 18 placements — 0 to existing lessons, 18 NEW LESSON NEEDED
+- Philippines's own way: adolescent health is taught as one continuous story in English — first the whole person (holistic health and puberty), then food (the Filipino Food Guide Pyramid), then communicable disease (chain of infection), and finally the learner's own barangay, ending in a real community health action project the class plans, carries out and evaluates.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Philippines — Module 4, Lesson 1: Philippines — Still the Pearl of the Orient Seas? — the concept of environmental health (natural and man-made environment) and the Philippines' environmental problems (deforestation, soil erosion, air and water pollution, coral reef and mangrove degradation) and their impact on people's health (original string `staying-safe/environmental-health-and-philippine-environment-problems`) | Philippines Grade 7 Health LM, PDF p. 126 |
+| Philippines — Module 4, Lesson 2: Exposé — Community Health Problems — what community health is, identifying and prioritising the community's pressing health problems, surveying community health resources, and making a plan of action (with a project portfolio) (original string `staying-safe/community-health-problems-and-action-plans`) | Philippines Grade 7 Health LM, PDF p. 134 |
+| Philippines — Module 4, Lesson 3: Let's DOH It! — carrying out and evaluating the community health action project, working with the leader and group, keeping records, and the safety criteria for a project (teacher present, near the school, barangay officials informed, parents' approval, community participation) (original string `staying-safe/doing-a-community-health-project`) | Philippines Grade 7 Health LM, PDF p. 137 |
+| Philippines — Module 4, Lesson 4: New Town — the WHO characteristics of a healthy community (clean and safe, basic needs met, resources and health services for all, social harmony, members solving local problems together) practised by planning a healthy new town (original string `staying-safe/what-a-healthy-community-is`) | Philippines Grade 7 Health LM, PDF p. 138 |
+
+Philippines is added as student-book stock (see its book line and rows above), inside the acceptance count — the Philippines book stocked here is a STUDENT book, so Philippines is named in the countries line and provenance rows and the acceptance count rises from 1 to 2 countries. All four Philippines placements in this lesson were filed under the original strings recorded in the provenance rows above, each resolved to this canonical lesson `staying-safe/keeping-our-environment-healthy` by registry Part 2. Philippines's own way is content, as the book line above records it: environmental health is taught through the Philippines' own problems — deforestation, soil erosion, air and water pollution, coral reef and mangrove degradation — and ends in the learner's own barangay, with a real community health action project the class plans, carries out and evaluates.
+
+Searchable tags: keeping our environment healthy, caring for the environment, recycling groups, effects of litter, reusing waste material, Healthy Lifestyle Session 2, Namibia PE4Life Guide, environment and health, air pollution and health, protecting yourself, China Senior High PEP PE & Health, environmental health and Philippine environment problems, Pearl of the Orient Seas, deforestation soil erosion coral reef mangrove degradation, community health problems and action plans, doing a community health project, barangay, what a healthy community is, WHO healthy community, Philippines Grade 7 Health LM

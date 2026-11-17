@@ -1,8 +1,8 @@
 # Sources — Diseases of Inactivity
 
-countries: United Kingdom, Cyprus, Oman, Samoa, Honduras
+countries: United Kingdom, Cyprus, Oman, Samoa, Honduras, Philippines
 
-**Acceptance count: taught in 3 countries.** United Kingdom and Cyprus are filed as student-book stock, inside the acceptance count, in this lesson. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count.
+**Acceptance count: taught in 4 countries.** United Kingdom and Cyprus are filed as student-book stock, inside the acceptance count, in this lesson. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below).
 
 **Book 1 — Edexcel GCSE (9-1) Physical Education Student Book, 2nd edition (student book, English):**
 - Title as printed: Edexcel GCSE (9-1) Physical Education — Tony Scott (cover: "2nd edition")
@@ -79,4 +79,24 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/honduras-hea
 | Honduras — Bloque II Secuencia 1 "Mantén tu salud física" — sedentary living and its harms: muscles degenerate, spinal deviations and foot deformities follow, and degenerative diseases appear ever younger (body-in-exercise / diseases-of-inactivity material that fits neither Health title) (original string `staying-safe/HELD-title-decision`) | Honduras Grade 8 HN G8 student, printed p. 58 |
 
 Honduras is added as student-book stock (see its book line and row above), inside the acceptance count — Book 2 is a STUDENT book, so Honduras is named in the countries line and provenance row and the acceptance count rises from 2 to 3 countries. The Honduras placement was filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson `staying-safe/diseases-of-inactivity` by registry Part 2B, and the original string is recorded in the provenance row above.
-Searchable tags: diseases of inactivity, sedentary lifestyle, consequences of inactivity, obesity, somatotypes body types, hypokinetic diseases, Edexcel GCSE Physical Education, United Kingdom GCSE Edexcel PE Student Book, sedentary life, Καθιστική Ζωή, sitting-still life, Cyprus Olympic Education Insert Grades 11-12, physical activity and chronic diseases النشاط البدني وعلاقته بالأمراض المزمنة, Oman G8 Teacher Guide, diseases of inactivity sedentary lifestyle processed foods diabetes heart disease hypertension obesity gout, Samoa Years 11–12 TG, Mantén tu salud física, sedentary living muscles degenerate spinal deviations foot deformities degenerative diseases, Honduras Telebásica Grade 8
+## Philippines — Health expansion 2026-11-16 (PE-file carry-forward)
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/philippines-pe-placements.md (Book 1). The placement stocked in this lesson is a CARRY-FORWARD from the Philippines PE placements file: it was filed there under the PE slug `fitness-and-stretching/diseases-of-inactivity`, and the Health slug registry resolves that filing to this Health canonical lesson `staying-safe/diseases-of-inactivity`; the original string is recorded in the provenance row below. Philippines is student-book stock, inside the acceptance count, in this lesson.
+
+**Book — Philippines Grade 7 PE (student book, English) — PE-file carry-forward:**
+## Book 1 — PE 7 Learner's Material, Units 1 & 2 (student book, English) (of philippines-pe-placements.md)
+- Title as printed: Physical Education Grade 7 Learner's Material (Units 1 & 2)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: DepEd (Lagyap et al., Physical Education and Health 7 Learner's Material, First Edition 2017, as cited in the download list); year 2017; ISBN no ISBN printed in the flipbook copy
+- PDF pages: no PDF obtained — read in full via the recorded PubHTML5 flipbook's text layer (https://pubhtml5.com/mpeu/ghbk/basic/, "P.E Grade 7", Palawan BlogOn shelf, published 2015-11-19); nothing staged (no file)
+- Verdict: PARTIAL — Module 1 (Fitness, Sessions 1–8) is present complete. Module 2 (Arnis, dual sports) is present only as its overview / learning competencies / procedures pages in this copy; its 8 sessions are NOT in the flipbook text, so only the overview is placed (in the PE course).
+- Tally: 17 placements — 15 to existing lessons, 2 NEW LESSON NEEDED (16 stocked in the PE course; the one placement below is the Health carry-forward)
+- Philippines's own way: PE 7 is a self-paced workbook — every session runs Introductory Activity / Skill Development / Application / Assessment, learners measure their own pulse, compute their own target heart-rate zones and PA index, keep an exercise log and build a fitness portfolio; the second unit is Arnis, the Filipino stick martial art.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Philippines — Module 1, Session 4: Hypokinetic Diseases — the diseases of a sedentary lifestyle: cardiovascular disease (heart attack vs stroke, systolic/diastolic pressure), hyperlipidemia (LDL "bad" vs HDL "good" cholesterol), obesity, and type 1 vs type 2 diabetes (original string `fitness-and-stretching/diseases-of-inactivity`; PE-file carry-forward) | Philippines Grade 7 PE LM Units 1–2, flipbook Module 1 Session 4 |
+
+Philippines is added as student-book stock (see its book line and row above), inside the acceptance count — the Philippines book stocked here is a STUDENT book, so Philippines is named in the countries line and provenance row and the acceptance count rises from 3 to 4 countries. The Philippines placement in this lesson is a carry-forward from philippines-pe-placements.md (Book 1), filed there under the original string `fitness-and-stretching/diseases-of-inactivity`, resolved to this Health canonical lesson `staying-safe/diseases-of-inactivity` by the Health slug registry, and the original string is recorded in the provenance row above. Philippines's own way is content, as the book line above records it: the hypokinetic diseases are taught inside the Grade 7 PE fitness module itself, in the session after learners have built their own exercise programme.
+
+Searchable tags: diseases of inactivity, sedentary lifestyle, consequences of inactivity, obesity, somatotypes body types, hypokinetic diseases, Edexcel GCSE Physical Education, United Kingdom GCSE Edexcel PE Student Book, sedentary life, Καθιστική Ζωή, sitting-still life, Cyprus Olympic Education Insert Grades 11-12, physical activity and chronic diseases النشاط البدني وعلاقته بالأمراض المزمنة, Oman G8 Teacher Guide, diseases of inactivity sedentary lifestyle processed foods diabetes heart disease hypertension obesity gout, Samoa Years 11–12 TG, Mantén tu salud física, sedentary living muscles degenerate spinal deviations foot deformities degenerative diseases, Honduras Telebásica Grade 8, Hypokinetic Diseases, diseases of a sedentary lifestyle, hyperlipidemia LDL HDL cholesterol, systolic diastolic pressure, type 1 vs type 2 diabetes, Philippines Grade 7 PE LM Units 1-2

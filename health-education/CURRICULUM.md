@@ -477,6 +477,43 @@ Hydration lesson; a git grep on origin/main confirms it is
 not yet stocked in the PE course either — it belongs to a PE
 fix-up.
 
+**Health expansion — Philippines — BUILT 2026-11-16:** 28 placements
+stocked — 27 from the Philippines Health placements file (Book 1,
+*K to 12 Grade 1 Learner's Material in PE and Health (Q1–Q4)*,
+student book, Tagalog/Filipino, PARTIAL as filed — the SlideShare
+copy ends at printed p. 95, so only the Nutrition and Personal
+Health units are present; Book 2, *LEARNING MODULE for HEALTH 7*,
+Units 1–4, student book, English, COMPLETE as filed — its own
+numbering jumps from Module 3 Lesson 6 to Lesson 8, there is no
+Lesson 7 in the book) plus 1 PE-file carry-forward (Book 1 of
+philippines-pe-placements.md, *Physical Education Grade 7
+Learner's Material, Units 1 & 2*, student book, PARTIAL as filed,
+Module 1 Session 4: Hypokinetic Diseases, filed under the PE
+string `fitness-and-stretching/diseases-of-inactivity` and
+resolved by the Health slug registry to this course's Diseases
+of Inactivity lesson) — all into existing lessons (Eating a
+Balanced Diet ×6, Preventing Common Diseases ×6, Keeping Our
+Environment Healthy ×4, Hygiene for Sport ×2, What Health Is ×2,
+Puberty and Growing Up ×2, Keeping My Body Clean, Sleep and
+Rest, Health Services and Health Workers, Malnutrition, Common
+Illnesses and Caring for the Sick, Diseases of Inactivity) and
+no new lessons — this course stays at **47 lessons**. Both
+Philippines books stocked here are STUDENT books, so Philippines
+is student-book stock, inside the acceptance counts (each touched
+lesson's count rose by 1; Health Services and Health Workers
+rises from 0 to 1, its first student-book stock). Book 2's record
+note is carried exactly as filed: the target record's URL points
+at the MAPEH 7 Art component (a different book, NOT placed); the
+Health file was taken from the record's own download-list line
+(E1-7) and direct-downloaded. The Health placements file's
+appended Books H1–H6 are record-only with 0 placements (MAPEH 2
+Waray Health units named from the contents only, NOT read; MAPEH
+1 and MAPEH 2 LR Portal records UNREAD, login-gated; SHS HOPE
+textbooks RECORD-ONLY, no file located; a DepEd memorandum,
+not a textbook; Human Movement Reader UNREAD, login-gated) —
+nothing stocked from them. No Philippines placement resolves
+to a PE-course lesson, so none was excluded as PE-bound.
+
 ## Unit 1 — Staying Safe
 
 1. **Hygiene for Sport — Wash After Exercise** (`staying-safe/hygiene-for-sport`) — personal hygiene around sport: sweat and dirt left unwashed become a breeding place for bacteria — so wash the body after PE and sport, keep sports…

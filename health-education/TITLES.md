@@ -191,3 +191,19 @@ printed p. 61 — basic nutrition rules for exercise) resolves
 to the PE course's Sports Nutrition and Hydration lesson and
 was excluded here; it is not yet stocked in PE either
 (verified by git grep on origin/main — see CURRICULUM.md).
+
+The Health expansion then added (Philippines): no new lessons —
+28 placements stocked into existing lessons (Eating a Balanced
+Diet ×6, Preventing Common Diseases ×6, Keeping Our Environment
+Healthy ×4, Hygiene for Sport ×2, What Health Is ×2, Puberty and
+Growing Up ×2, Keeping My Body Clean, Sleep and Rest, Health
+Services and Health Workers, Malnutrition, Common Illnesses and
+Caring for the Sick, Diseases of Inactivity) — this course stays
+at 47 lessons. The 28 are 27 from the Philippines Health
+placements file (Grade 1 PE and Health LM, student book,
+Tagalog/Filipino, PARTIAL as filed; Health 7 LM Units 1–4,
+student book, COMPLETE as filed) plus 1 PE-file carry-forward
+(PE 7 LM Units 1–2, Module 1 Session 4: Hypokinetic Diseases,
+filed under `fitness-and-stretching/diseases-of-inactivity`,
+stocked into Diseases of Inactivity). Both books are student
+books, so each touched lesson's acceptance count rose by 1.
