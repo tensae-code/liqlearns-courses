@@ -382,3 +382,23 @@ Drugs, Alcohol and Tobacco; personal safety → Avoiding
 Accidents and Staying Safe), original strings recorded in
 the provenance rows. No Malaysia placement resolves to a
 PE-course lesson, so none was excluded as PE-bound.
+
+The Health expansion then added (Papua New Guinea): **Keeping
+Teeth Healthy** (`staying-safe/keeping-teeth-healthy`) — 1 new
+lesson, bringing this course to 53 lessons. A further 71 Papua New
+Guinea placements were stocked into existing lessons (Eating a
+Balanced Diet ×8, Keeping Our Environment Healthy ×7, Getting
+Along and Solving Conflicts ×6, Health Services and Health Workers
+×6, Saying No to Drugs, Alcohol and Tobacco ×6, Food Hygiene and
+Safe Cooking ×6, Preventing Sports Injuries and First Aid ×5,
+Avoiding Accidents and Staying Safe ×4, Preventing Common Diseases
+×4, Puberty and Growing Up ×3, The Body Systems ×3, Hygiene for
+Sport ×2, Keeping My Body Clean ×2, Knowing Myself and My Feelings
+×2, Using Medicines Safely ×2, Doping — What It Is and What It
+Costs ×1 — the PE-phase carry-forward — Mental Health and
+Wellbeing, Non-communicable Diseases, Paying Attention and
+Crossing the Road Safely, Safe Water and Toilets), all as
+teacher-guide evidence only — all Papua New Guinea books (Health
+TG Grades 3–5 and combined HPE TG Grades 6–8, plus the Grade 9 PE
+TG for the carry-forward) are teacher guides, so no acceptance
+count changed; the new lesson stands at acceptance count 0.

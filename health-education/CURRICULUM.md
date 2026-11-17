@@ -969,3 +969,47 @@ health education) in seven topics, followed by standalone
 Nutrition and First Aid units, with psychosocial skills
 (assertiveness, communication, decision-making) running
 through every topic.
+
+**Health expansion — Papua New Guinea — BUILT 2026-11-16:** 73 placements
+stocked (72 from papua-new-guinea-health-placements.md plus 1
+carry-forward from the PE phase) — 71 into existing lessons and 2 as
+1 new lesson (**Keeping Teeth Healthy**
+(`staying-safe/keeping-teeth-healthy`)) — bringing this course to
+**53 lessons**. Stocked into existing lessons: Eating a Balanced
+Diet (8), Keeping Our Environment Healthy (7), Getting Along and
+Solving Conflicts (6), Health Services and Health Workers (6),
+Saying No to Drugs, Alcohol and Tobacco (6), Food Hygiene and Safe
+Cooking (6), Preventing Sports Injuries and First Aid (5), Avoiding
+Accidents and Staying Safe (4), Preventing Common Diseases (4),
+Puberty and Growing Up (3), The Body Systems (3), Hygiene for Sport
+(2), Keeping My Body Clean (2), Knowing Myself and My Feelings (2),
+Using Medicines Safely (2), Doping — What It Is and What It Costs
+(1, the carry-forward), Mental Health and Wellbeing (1),
+Non-communicable Diseases (1), Paying Attention and Crossing the
+Road Safely (1) and Safe Water and Toilets (1). All 72 Health-file
+placements are from Papua New Guinea's six Standards Based teacher
+guides (Health TG Grades 3–5, 2017, and combined Health & Physical
+Education TG Grades 6–8, 2019, Department of Education, Papua New
+Guinea, all COMPLETE); the carry-forward is from the Grade 9 PE
+Teacher Guide (2023, COMPLETE), filed in the PE placements file as
+`sport-and-its-story/ethics-of-drugs-in-sport` and stocked in the
+existing Doping lesson. All Papua New Guinea books are TEACHER
+guides, so Papua New Guinea is teacher-guide evidence only in every
+lesson it touches — named in the countries lines and provenance
+rows, but outside the acceptance counts (all counts unchanged; the
+new lesson stands at acceptance count 0). No Papua New Guinea
+placement resolves to a PE-course lesson, so none was excluded as
+PE-bound. Honesty notes, as filed: the same ISBN
+(978-9980-86-575-5) is printed in the Grade 3, 4 and 5 guides, a
+publisher's error, recorded in every book line; the Grade 8 guide's
+secured books.json record is marked in_pushed but the GitHub
+Contents API returns 404 for its exact tree path — a possible
+phantom push, with a byte-identical copy in phase3-staging awaiting
+the pusher (library debt, recorded in its book lines); the Grade 4
+teeth and safe-drinking-water placements carry printed p. 10
+exactly as filed. The Megusa SBC Program Books catalogue image is
+RECORD-ONLY with 0 placements, nothing stocked from it. Papua New
+Guinea's own way is recorded as content in the book lines: Health
+in four strands with betelnut chewing, local herbs as medicine and
+life jackets and floaters for sea travel, and senior Health
+separating medical facts from sorcery/witchcraft beliefs.

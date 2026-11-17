@@ -1,8 +1,8 @@
 # Sources — Avoiding Accidents and Staying Safe
 
-countries: El Salvador, Ukraine, Turkey, Malaysia
+countries: El Salvador, Ukraine, Turkey, Malaysia, Papua New Guinea
 
-**Acceptance count: taught in 4 countries.** El Salvador is filed as student-book stock, inside the acceptance count, in this lesson. Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book. Malaysia is filed as student-book stock, inside the acceptance count, in this lesson (see its Malaysia section below).
+**Acceptance count: taught in 4 countries.** El Salvador is filed as student-book stock, inside the acceptance count, in this lesson. Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book. Malaysia is filed as student-book stock, inside the acceptance count, in this lesson (see its Malaysia section below). Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below).
 
 **Book 1 — Ciencia, Salud y Medio Ambiente 1 (student book, Spanish):**
 - Title as printed: Ciencia, Salud y Medio Ambiente 1 (Colección Cipotas y Cipotes)
@@ -105,4 +105,56 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/malaysia-hea
 
 Malaysia is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — all five Malaysia books are STUDENT books, so Malaysia is named in the countries line and provenance rows and the acceptance count rises from 3 to 4 countries. The Malaysia placements in this lesson were filed under the original strings recorded in the provenance rows above; the placements were resolved to this canonical lesson by registry Part 2A. Malaysia's own way is content, as the book lines above record it: health is taught as the PEERS programme (Pendidikan Kesihatan Reproduktif dan Sosial — reproductive and social health education), with psychosocial skills — assertiveness, communication and decision-making — running through every topic, followed by standalone Nutrition and First Aid units. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: avoiding accidents and staying safe, safe classroom, dangerous places and objects, glass windows ceiling lamps bookcases, electric cables and sockets, No tocar danger signs, El Salvador Ciencia Salud y Medio Ambiente 1, Un aula segura, hazard sources and danger factors, trauma and injury prevention, recognising and avoiding danger, dangerous games, safe excursions and trips, finding a way out of danger, safety at home, making safe decisions, Ukraine G7 Health Safety and Wellbeing Shyian, Ukraine G5 Health Safety and Wellbeing Vasylenko, risk control and protective equipment, Risk Kontrol Tedbirleri, Turkey Health & Traffic Culture, Malaysia PJPK Tingkatan 1, Keselamatan, personal safety, keeping yourself safe from harm, PEERS
+## Papua New Guinea — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/papua-new-guinea-health-placements.md. The Papua New Guinea book(s) stocked in this lesson: Book 1, Book 2, Book 3 of that file. Papua New Guinea's Health books are Standards Based teacher guides of the Department of Education, Papua New Guinea; Books 4–6 are combined Health & Physical Education teacher guides whose PE parts are filed in papua-new-guinea-pe-placements.md and placed in the Physical Education course. All the Papua New Guinea books are TEACHER guides, so Papua New Guinea is teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count (the acceptance count is unchanged). Each book's Assessment and Reporting / Assessment, Monitoring and Reporting sections and Glossary are inventory-only / assessment, named in the book lines and not placed, as filed. No Papua New Guinea placement in this merge resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 1 — Health TG Grade 3 (teacher guide, English):**
+- Title as printed: Health Teacher Guide, Primary Grade 3, Standards Based
+- Grade: 3 (student/teacher: TEACHER)
+- Publisher: Department of Education, Papua New Guinea; year 2017 (First Edition); ISBN 978-9980-86-575-5
+- PDF pages: 186 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 18 placements — 2 to existing lessons, 16 NEW LESSON NEEDED
+- Papua New Guinea's own way: Health is organised in four strands — Growth and Development, Individual and Community Health, Nutrition, Safety and First Aid — taught as many short guided lessons with named world days (No Tobacco Day, No Betelnut Chewing Day, Global Handwashing Day) and PNG-specific content: betelnut chewing, local herbs as medicine, life jackets and floaters for sea travel.
+- Note: Assessment and Reporting (printed pp.145–167) and Glossary (printed p.169) are inventory-only / assessment, named here and not placed, per the brief's exclusions. The book's ~110 guided micro-lessons are placed grouped by unit below, each placement naming its lessons.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/papua-new-guinea-health-placements.md (Book 1 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea — Strand 4 Unit 1 Safety: characteristics of safe and unsafe places; situations that can put lives at risk; common injuries and scratches; fire safety procedures at home; natural disasters (cyclone); snake bite and bee sting; meanings of safety signs; warning labels (original string `staying-safe/safety-signs-and-staying-safe`) | Papua New Guinea Grade 3 Health TG Grade 3, printed p. 120 |
+| Papua New Guinea — Strand 4 Unit 2 protective-gear lessons: using safety gear in dangerous situations; life jackets on water; floaters for emergencies at sea; car seat belts to avoid accidents; fire safety gear; practising earthquake drills and fire drills (original string `staying-safe/protective-gear-life-jackets-and-seat-belts`) | Papua New Guinea Grade 3 Health TG Grade 3, printed p. 137 |
+
+**Book 2 — Health TG Grade 4 (teacher guide, English):**
+- Title as printed: Health Teacher Guide, Primary Grade 4, Standards Based
+- Grade: 4 (student/teacher: TEACHER)
+- Publisher: Department of Education, Papua New Guinea; year 2017 (First Edition); ISBN 978-9980-86-575-5 (as printed — the same ISBN is printed in the Grade 3 and Grade 5 guides, a publisher's error)
+- PDF pages: 196 (cover/title page verified against the record title; byte size 4,557,168 matches the staging books.json record)
+- Verdict: COMPLETE
+- Tally: 15 placements — 2 to existing lessons, 13 NEW LESSON NEEDED
+- Papua New Guinea's own way: the same four strands and units as Grade 3, deepened — 96 lessons in the year, 16 of them fully worked sample lessons; substance abuse is its own unit (Alcohol and Substance Abuse) and cultural health beliefs and myths are examined openly, including practices "not good for our health".
+- Note: read via the secured GitHub tree route (grab.py, SHA-verified). Assessment and Reporting (printed pp.149–160) and Glossary (printed pp.162–164) are inventory-only / assessment, named here and not placed. Placements group the year's teachable concepts by unit, with the worked sample lessons named.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/papua-new-guinea-health-placements.md (Book 2 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea — Strand 4 Unit 1 Safety: Sample lesson 14: Storage of dangerous goods and equipment at school; Sample lesson 15: Use of seat belts and safe passenger behaviour when riding in a vehicle (original string `staying-safe/safety-signs-and-staying-safe`) | Papua New Guinea Grade 4 Health TG Grade 4, printed p. 132 |
+
+**Book 3 — Health TG Grade 5 (teacher guide, English):**
+- Title as printed: Health Teacher Guide, Primary Grade 5, Standards Based
+- Grade: 5 (student/teacher: TEACHER)
+- Publisher: Department of Education, Papua New Guinea; year 2017 (First Edition); ISBN 978-9980-86-575-5 (as printed — the same ISBN is printed in the Grade 3 and Grade 4 guides, a publisher's error)
+- PDF pages: 154 (cover/title page verified against the record title; byte size 4,382,101 matches the staging books.json record)
+- Verdict: COMPLETE
+- Tally: 14 placements — 1 to existing lessons, 13 NEW LESSON NEEDED
+- Papua New Guinea's own way: Grade 5 Health is where puberty is taught head-on (separate lessons on secondary changes in girls and in boys), drug education widens from substances to addiction, peer pressure and saying NO, and first aid becomes specific treatments — bleeding, fractures, dog bite, drowning, marine bites, head injury, toothache.
+- Note: read via the secured GitHub tree route (grab.py, SHA-verified). Assessment and Reporting (printed pp.109–124) and Glossary (printed pp.126–128) are inventory-only / assessment, named here and not placed. The book's guided lessons are placed grouped by unit below.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/papua-new-guinea-health-placements.md (Book 3 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea — Strand 4 Unit 1 Safety: road safety and personal safety; safety on wheels (bicycle, motorbike); warning signs and signals used by ambulance, police and fire services; water safety in different environments; applying safety procedures in unsafe natural disasters; the importance of wearing safety gears (original string `staying-safe/safety-signs-and-staying-safe`) | Papua New Guinea Grade 5 Health TG Grade 5, printed p. 95 |
+
+Papua New Guinea is added as teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — all the Papua New Guinea books stocked here are TEACHER guides, so Papua New Guinea is named in the countries line and provenance rows and the acceptance count is unchanged. The Papua New Guinea placements in this lesson were filed under the original strings recorded in the provenance rows above; the placements were resolved to this canonical lesson (`staying-safe/avoiding-accidents-and-staying-safe`) by registry Part 2A (the strings filed directly under this lesson's own slug needed no resolution). Papua New Guinea's own way is content, as the book lines above record it: Health is organised in four strands — Growth and Development, Individual and Community Health, Nutrition, Safety and First Aid — with PNG-specific teaching on betelnut chewing, local herbs as medicine, and life jackets and floaters for sea travel, and senior Health separating medical facts from sorcery/witchcraft beliefs about illness. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: avoiding accidents and staying safe, safe classroom, dangerous places and objects, glass windows ceiling lamps bookcases, electric cables and sockets, No tocar danger signs, El Salvador Ciencia Salud y Medio Ambiente 1, Un aula segura, hazard sources and danger factors, trauma and injury prevention, recognising and avoiding danger, dangerous games, safe excursions and trips, finding a way out of danger, safety at home, making safe decisions, Ukraine G7 Health Safety and Wellbeing Shyian, Ukraine G5 Health Safety and Wellbeing Vasylenko, risk control and protective equipment, Risk Kontrol Tedbirleri, Turkey Health & Traffic Culture, Malaysia PJPK Tingkatan 1, Keselamatan, personal safety, keeping yourself safe from harm, PEERS, Papua New Guinea, Papua New Guinea Grade 3 Health TG Grade 3, Papua New Guinea Grade 4 Health TG Grade 4, Papua New Guinea Grade 5 Health TG Grade 5

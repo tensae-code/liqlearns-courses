@@ -1,8 +1,8 @@
 # Sources — Health Services and Health Workers
 
-countries: Samoa, Philippines, Turkey
+countries: Samoa, Philippines, Turkey, Papua New Guinea
 
-**Acceptance count: taught in 2 countries.** Samoa is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this lesson. Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book.
+**Acceptance count: taught in 2 countries.** Samoa is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this lesson. Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book. Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below).
 
 **Book 1 — Samoa HPE Teacher Guide, Years 11–12 (teacher guide, English):**
 - Title as printed: Health and Physical Education Teacher Guide, Years 11 and 12
@@ -65,4 +65,58 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkey-healt
 
 Turkey's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the health slug registry (Part 2A / Part 2B) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Turkey's own way is content, as the book lines above record it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: health services health workers, family community health promotion, health agencies AIDS awareness family planning, community resources, rights to good health, village co-operatives Asiasiga Maumaga, nonu esi, Samoa Years 11–12 TG, health appraisal and school health services, Health Appraised and Amazed, screening height weight vision hearing blood pressure, Philippines Grade 7 Health LM, public health and health services in Turkey, Halk Sağlığı ve Sağlık Hizmetleri, Turkey Health & Traffic Culture
+## Papua New Guinea — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/papua-new-guinea-health-placements.md. The Papua New Guinea book(s) stocked in this lesson: Book 1, Book 2, Book 3 of that file. Papua New Guinea's Health books are Standards Based teacher guides of the Department of Education, Papua New Guinea; Books 4–6 are combined Health & Physical Education teacher guides whose PE parts are filed in papua-new-guinea-pe-placements.md and placed in the Physical Education course. All the Papua New Guinea books are TEACHER guides, so Papua New Guinea is teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count (the acceptance count is unchanged). Each book's Assessment and Reporting / Assessment, Monitoring and Reporting sections and Glossary are inventory-only / assessment, named in the book lines and not placed, as filed. No Papua New Guinea placement in this merge resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 1 — Health TG Grade 3 (teacher guide, English):**
+- Title as printed: Health Teacher Guide, Primary Grade 3, Standards Based
+- Grade: 3 (student/teacher: TEACHER)
+- Publisher: Department of Education, Papua New Guinea; year 2017 (First Edition); ISBN 978-9980-86-575-5
+- PDF pages: 186 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 18 placements — 2 to existing lessons, 16 NEW LESSON NEEDED
+- Papua New Guinea's own way: Health is organised in four strands — Growth and Development, Individual and Community Health, Nutrition, Safety and First Aid — taught as many short guided lessons with named world days (No Tobacco Day, No Betelnut Chewing Day, Global Handwashing Day) and PNG-specific content: betelnut chewing, local herbs as medicine, life jackets and floaters for sea travel.
+- Note: Assessment and Reporting (printed pp.145–167) and Glossary (printed p.169) are inventory-only / assessment, named here and not placed, per the brief's exclusions. The book's ~110 guided micro-lessons are placed grouped by unit below, each placement naming its lessons.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/papua-new-guinea-health-placements.md (Book 1 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea — Strand 1 Unit 3 Culture, Values and Health: individual identity and details important for health records; reasons for having individual health records and history; cultural influences on healthy living; current practices that influence health values and morals; role models of good health values (original string `staying-safe/health-records-culture-and-healthy-values`) | Papua New Guinea Grade 3 Health TG Grade 3, printed p. 46 |
+| Papua New Guinea — Strand 1 Unit 4 My Career Interests: daily roles and responsibilities of family members and how they care for each other; jobs in my family and community; jobs people do to care for the community's health; why go to school every day (original string `staying-safe/health-jobs-in-the-family-and-community`) | Papua New Guinea Grade 3 Health TG Grade 3, printed p. 55 |
+| Papua New Guinea — Strand 2 Unit 4: roles of health workers; people who promote health; awareness to the community to look after health facilities (original string `staying-safe/health-workers-and-community-health`) | Papua New Guinea Grade 3 Health TG Grade 3, printed p. 99 |
+
+**Book 2 — Health TG Grade 4 (teacher guide, English):**
+- Title as printed: Health Teacher Guide, Primary Grade 4, Standards Based
+- Grade: 4 (student/teacher: TEACHER)
+- Publisher: Department of Education, Papua New Guinea; year 2017 (First Edition); ISBN 978-9980-86-575-5 (as printed — the same ISBN is printed in the Grade 3 and Grade 5 guides, a publisher's error)
+- PDF pages: 196 (cover/title page verified against the record title; byte size 4,557,168 matches the staging books.json record)
+- Verdict: COMPLETE
+- Tally: 15 placements — 2 to existing lessons, 13 NEW LESSON NEEDED
+- Papua New Guinea's own way: the same four strands and units as Grade 3, deepened — 96 lessons in the year, 16 of them fully worked sample lessons; substance abuse is its own unit (Alcohol and Substance Abuse) and cultural health beliefs and myths are examined openly, including practices "not good for our health".
+- Note: read via the secured GitHub tree route (grab.py, SHA-verified). Assessment and Reporting (printed pp.149–160) and Glossary (printed pp.162–164) are inventory-only / assessment, named here and not placed. Placements group the year's teachable concepts by unit, with the worked sample lessons named.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/papua-new-guinea-health-placements.md (Book 2 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea — Strand 1 Unit 3 Culture, Morals and Values: cultural health beliefs and values, cultural practices, health values and myths, unhealthy and healthy behaviour; Sample lesson 3: My cultural health beliefs; Sample lesson 4: Cultural practices of beliefs that are not good for our health (original string `staying-safe/health-records-culture-and-healthy-values`) | Papua New Guinea Grade 4 Health TG Grade 4, printed p. 53 |
+
+**Book 3 — Health TG Grade 5 (teacher guide, English):**
+- Title as printed: Health Teacher Guide, Primary Grade 5, Standards Based
+- Grade: 5 (student/teacher: TEACHER)
+- Publisher: Department of Education, Papua New Guinea; year 2017 (First Edition); ISBN 978-9980-86-575-5 (as printed — the same ISBN is printed in the Grade 3 and Grade 4 guides, a publisher's error)
+- PDF pages: 154 (cover/title page verified against the record title; byte size 4,382,101 matches the staging books.json record)
+- Verdict: COMPLETE
+- Tally: 14 placements — 1 to existing lessons, 13 NEW LESSON NEEDED
+- Papua New Guinea's own way: Grade 5 Health is where puberty is taught head-on (separate lessons on secondary changes in girls and in boys), drug education widens from substances to addiction, peer pressure and saying NO, and first aid becomes specific treatments — bleeding, fractures, dog bite, drowning, marine bites, head injury, toothache.
+- Note: read via the secured GitHub tree route (grab.py, SHA-verified). Assessment and Reporting (printed pp.109–124) and Glossary (printed pp.126–128) are inventory-only / assessment, named here and not placed. The book's guided lessons are placed grouped by unit below.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/papua-new-guinea-health-placements.md (Book 3 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea — Strand 1 Unit 4 My Career Interest: planning to achieve my goals; my interests in a health job; doing a volunteer activity in our school; learning about volunteer work and about health jobs from guest speakers (original string `staying-safe/health-jobs-in-the-family-and-community`) | Papua New Guinea Grade 5 Health TG Grade 5, printed p. 46 |
+| Papua New Guinea — Strand 2 Unit 4 Health Services: NGOs providing health services and their roles in the community; immunization clinics; health products at local clinics and chemists; the role of ambulance services; the role of clinics and aid posts (original string `staying-safe/health-workers-and-community-health`) | Papua New Guinea Grade 5 Health TG Grade 5, printed p. 73 |
+
+Papua New Guinea is added as teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — all the Papua New Guinea books stocked here are TEACHER guides, so Papua New Guinea is named in the countries line and provenance rows and the acceptance count is unchanged. The Papua New Guinea placements in this lesson were filed under the original strings recorded in the provenance rows above; the placements were resolved to this canonical lesson (`staying-safe/health-services-and-health-workers`) by registry Part 2A (the strings filed directly under this lesson's own slug needed no resolution). Papua New Guinea's own way is content, as the book lines above record it: Health is organised in four strands — Growth and Development, Individual and Community Health, Nutrition, Safety and First Aid — with PNG-specific teaching on betelnut chewing, local herbs as medicine, and life jackets and floaters for sea travel, and senior Health separating medical facts from sorcery/witchcraft beliefs about illness. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: health services health workers, family community health promotion, health agencies AIDS awareness family planning, community resources, rights to good health, village co-operatives Asiasiga Maumaga, nonu esi, Samoa Years 11–12 TG, health appraisal and school health services, Health Appraised and Amazed, screening height weight vision hearing blood pressure, Philippines Grade 7 Health LM, public health and health services in Turkey, Halk Sağlığı ve Sağlık Hizmetleri, Turkey Health & Traffic Culture, Papua New Guinea, Papua New Guinea Grade 3 Health TG Grade 3, Papua New Guinea Grade 4 Health TG Grade 4, Papua New Guinea Grade 5 Health TG Grade 5

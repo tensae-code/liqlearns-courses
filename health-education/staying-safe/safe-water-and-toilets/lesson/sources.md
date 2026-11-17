@@ -1,8 +1,8 @@
 # Sources — Safe Water and Toilets
 
-countries: Kiribati, El Salvador, Zambia
+countries: Kiribati, El Salvador, Zambia, Papua New Guinea
 
-**Acceptance count: taught in 1 country.** El Salvador is filed as student-book stock, inside the acceptance count, in this lesson. Kiribati is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count (still taught in 1 country).
+**Acceptance count: taught in 1 country.** El Salvador is filed as student-book stock, inside the acceptance count, in this lesson. Kiribati is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count (still taught in 1 country). Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below).
 
 **Book 2 — Teaching WASH in Schools: Menstrual Hygiene Management Guide (teacher guide, English):**
 - Title as printed: TEACHING WASH IN SCHOOLS — Menstrual Hygiene Management Guide
@@ -49,4 +49,25 @@ El Salvador is added as student-book stock (see its book line and row above), in
 
 Zambia is added as teacher training manual evidence only (see its book line and row above), outside the acceptance count — the Zambia book is a TEACHER training manual, so Zambia is named in the countries line and provenance row but the acceptance count is unchanged (still taught in 1 country). The Zambia placement was filed under the original string `staying-safe/water-sanitation-and-hygiene-at-school`, resolved to this canonical lesson by registry Part 2 and recorded in the provenance row above. Zambia's own way is content, as the book line above records it: water, sanitation and hygiene at school is taught as WASHE — safe water, latrines and handwashing — inside the manual's environmental health chapter. The manual is PARTIAL as filed (see its book line): Module 1 and Module 4's programme-running chapters are school-health programme administration, named and not placed, the printed contents list skips Chapter 13, and the Appendices and References are inventory-only.
 
-Searchable tags: safe water and toilets, WASH, WASH in Schools, KWinS, safe drinking water, sanitation, hygiene, Kiribati WASH MHM Guide, drinking water, eight glasses a day, saving water, El Salvador Ciencia Salud y Medio Ambiente 1, Una amiga para conservar, WASHE, water sanitation and hygiene education, safe water latrines handwashing at school, environmental health, Zambia Health Teacher Training Manual 2025
+## Papua New Guinea — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/papua-new-guinea-health-placements.md. The Papua New Guinea book(s) stocked in this lesson: Book 2 of that file. Papua New Guinea's Health books are Standards Based teacher guides of the Department of Education, Papua New Guinea; Books 4–6 are combined Health & Physical Education teacher guides whose PE parts are filed in papua-new-guinea-pe-placements.md and placed in the Physical Education course. All the Papua New Guinea books are TEACHER guides, so Papua New Guinea is teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count (the acceptance count is unchanged). Each book's Assessment and Reporting / Assessment, Monitoring and Reporting sections and Glossary are inventory-only / assessment, named in the book lines and not placed, as filed. No Papua New Guinea placement in this merge resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 2 — Health TG Grade 4 (teacher guide, English):**
+- Title as printed: Health Teacher Guide, Primary Grade 4, Standards Based
+- Grade: 4 (student/teacher: TEACHER)
+- Publisher: Department of Education, Papua New Guinea; year 2017 (First Edition); ISBN 978-9980-86-575-5 (as printed — the same ISBN is printed in the Grade 3 and Grade 5 guides, a publisher's error)
+- PDF pages: 196 (cover/title page verified against the record title; byte size 4,557,168 matches the staging books.json record)
+- Verdict: COMPLETE
+- Tally: 15 placements — 2 to existing lessons, 13 NEW LESSON NEEDED
+- Papua New Guinea's own way: the same four strands and units as Grade 3, deepened — 96 lessons in the year, 16 of them fully worked sample lessons; substance abuse is its own unit (Alcohol and Substance Abuse) and cultural health beliefs and myths are examined openly, including practices "not good for our health".
+- Note: read via the secured GitHub tree route (grab.py, SHA-verified). Assessment and Reporting (printed pp.149–160) and Glossary (printed pp.162–164) are inventory-only / assessment, named here and not placed. Placements group the year's teachable concepts by unit, with the worked sample lessons named.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/papua-new-guinea-health-placements.md (Book 2 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea — Strand 2 Unit 3: water sanitation and hygiene; water sources (original string `staying-safe/safe-drinking-water`) | Papua New Guinea Grade 4 Health TG Grade 4, printed p. 10 |
+
+Papua New Guinea is added as teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — all the Papua New Guinea books stocked here are TEACHER guides, so Papua New Guinea is named in the countries line and provenance rows and the acceptance count is unchanged. The Papua New Guinea placements in this lesson were filed under the original strings recorded in the provenance rows above; the placements were resolved to this canonical lesson (`staying-safe/safe-water-and-toilets`) by registry Part 2A (the strings filed directly under this lesson's own slug needed no resolution). Papua New Guinea's own way is content, as the book lines above record it: Health is organised in four strands — Growth and Development, Individual and Community Health, Nutrition, Safety and First Aid — with PNG-specific teaching on betelnut chewing, local herbs as medicine, and life jackets and floaters for sea travel, and senior Health separating medical facts from sorcery/witchcraft beliefs about illness. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: safe water and toilets, WASH, WASH in Schools, KWinS, safe drinking water, sanitation, hygiene, Kiribati WASH MHM Guide, drinking water, eight glasses a day, saving water, El Salvador Ciencia Salud y Medio Ambiente 1, Una amiga para conservar, WASHE, water sanitation and hygiene education, safe water latrines handwashing at school, environmental health, Zambia Health Teacher Training Manual 2025, Papua New Guinea, Papua New Guinea Grade 4 Health TG Grade 4

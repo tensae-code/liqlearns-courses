@@ -1,8 +1,8 @@
 # Sources — Saying No to Drugs, Alcohol and Tobacco
 
-countries: Turkmenistan, Namibia, Zambia, Samoa, Bulgaria, Greece, Azerbaijan, Ukraine, Turkey, Sierra Leone, Pakistan, Malaysia
+countries: Turkmenistan, Namibia, Zambia, Samoa, Bulgaria, Greece, Azerbaijan, Ukraine, Turkey, Sierra Leone, Pakistan, Malaysia, Papua New Guinea
 
-**Acceptance count: taught in 8 countries.** Bulgaria is filed as student-book stock, inside the acceptance count, in this lesson. Turkmenistan is filed as student-book stock, inside the acceptance count, in this lesson. Namibia is filed as teacher-guide evidence only — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Namibia row. Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count (still taught in 1 country). Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below). Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book. Sierra Leone is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Sierra Leone rows (see its Sierra Leone section below). Pakistan is added as student-book stock (see its Pakistan section below), inside the acceptance count. Malaysia is filed as student-book stock, inside the acceptance count, in this lesson (see its Malaysia section below).
+**Acceptance count: taught in 8 countries.** Bulgaria is filed as student-book stock, inside the acceptance count, in this lesson. Turkmenistan is filed as student-book stock, inside the acceptance count, in this lesson. Namibia is filed as teacher-guide evidence only — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Namibia row. Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count (still taught in 1 country). Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below). Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book. Sierra Leone is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Sierra Leone rows (see its Sierra Leone section below). Pakistan is added as student-book stock (see its Pakistan section below), inside the acceptance count. Malaysia is filed as student-book stock, inside the acceptance count, in this lesson (see its Malaysia section below). Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below).
 
 **Book 1 — Bedenterbiýe (Physical Education) (student book — study guide for higher schools, Turkmen) — Health parts only:**
 - Title as printed: Bedenterbiýe — Ýokary okuw mekdepleri üçin okuw gollanmasy (Physical Education — a study guide for higher schools) (full header in turkmenistan-pe-placements.md, Book 1)
@@ -283,4 +283,98 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/malaysia-hea
 
 Malaysia is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — all five Malaysia books are STUDENT books, so Malaysia is named in the countries line and provenance rows and the acceptance count rises from 7 to 8 countries. The Malaysia placements in this lesson were filed under the original strings recorded in the provenance rows above; the placements were resolved to this canonical lesson by registry Part 2A. Malaysia's own way is content, as the book lines above record it: health is taught as the PEERS programme (Pendidikan Kesihatan Reproduktif dan Sosial — reproductive and social health education), with psychosocial skills — assertiveness, communication and decision-making — running through every topic, followed by standalone Nutrition and First Aid units. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: saying no to drugs alcohol and tobacco, harmful habits that damage health, Saglyga zeper ýetirýän zyýanly endikler, habits that injure health, Turkmenistan Bedenterbiýe, substance abuse types consequences risks, legal alcohol age 18 Namibia, Healthy Lifestyle Session 4, Namibia PE4Life Guide, drugs and alcohol harms to learners, prevention, Zambia Health Teacher Training Manual 2025, alcohol drugs smoking impact on the family unsafe sex STDs HIV AIDS hepatitis, Samoa Years 11–12 TG, tobacco smoking discussion, psychoactive substances discussion, drugs narcotics discussions and projects, Bulgaria Biology and Health Education Grades 8 and 10 Pedagog 6, exercise keeps us from smoking, reducing young smokers, imitate healthy behaviours, Greece Grades 7-9 Fysiki Agogi Gymnasiou, Azerbaijan Fiziki Tərbiyə Grades 6-10, Georgian-language edition, hardening the body, self-control diary, substance misuse, medicine instructions, consequences of abuse, Ukraine G7 Health Safety and Wellbeing Shyian, addictions and how to resist them, Bağımlılıklar, Turkey Health & Traffic Culture, Sierra Leone AHLS Teacher's Manual SSS1 SSS2 SSS3, adolescent health and life skills Sierra Leone, harms of smoking, preventing smoking, Pakistan Grade 8 Sehat-o-Jismani Taleem, Malaysia PJPK, Penyalahgunaan Bahan, cigarettes alcohol drugs, second-hand smoke, drug trap jerat dadah, addiction relapse penagihan berulang, PEERS
+## Papua New Guinea — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/papua-new-guinea-health-placements.md. The Papua New Guinea book(s) stocked in this lesson: Book 1, Book 2, Book 3, Book 4, Book 5, Book 6 of that file. Papua New Guinea's Health books are Standards Based teacher guides of the Department of Education, Papua New Guinea; Books 4–6 are combined Health & Physical Education teacher guides whose PE parts are filed in papua-new-guinea-pe-placements.md and placed in the Physical Education course. All the Papua New Guinea books are TEACHER guides, so Papua New Guinea is teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count (the acceptance count is unchanged). Each book's Assessment and Reporting / Assessment, Monitoring and Reporting sections and Glossary are inventory-only / assessment, named in the book lines and not placed, as filed. No Papua New Guinea placement in this merge resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 1 — Health TG Grade 3 (teacher guide, English):**
+- Title as printed: Health Teacher Guide, Primary Grade 3, Standards Based
+- Grade: 3 (student/teacher: TEACHER)
+- Publisher: Department of Education, Papua New Guinea; year 2017 (First Edition); ISBN 978-9980-86-575-5
+- PDF pages: 186 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 18 placements — 2 to existing lessons, 16 NEW LESSON NEEDED
+- Papua New Guinea's own way: Health is organised in four strands — Growth and Development, Individual and Community Health, Nutrition, Safety and First Aid — taught as many short guided lessons with named world days (No Tobacco Day, No Betelnut Chewing Day, Global Handwashing Day) and PNG-specific content: betelnut chewing, local herbs as medicine, life jackets and floaters for sea travel.
+- Note: Assessment and Reporting (printed pp.145–167) and Glossary (printed p.169) are inventory-only / assessment, named here and not placed, per the brief's exclusions. The book's ~110 guided micro-lessons are placed grouped by unit below, each placement naming its lessons.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/papua-new-guinea-health-placements.md (Book 1 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea — Strand 2 (Individual and Community Health) bad-habits lessons: effects of chewing betelnut, smoking marijuana, drinking alcohol and smoking tobacco; smoking can cause disease; advocacy against littering cigarette butts; planning ways to overcome bad habits; commemorating World No Tobacco Day and World No Betelnut Chewing Day (original string `staying-safe/betelnut-smoking-and-other-bad-habits`) | Papua New Guinea Grade 3 Health TG Grade 3, printed p. 64 |
+
+**Book 2 — Health TG Grade 4 (teacher guide, English):**
+- Title as printed: Health Teacher Guide, Primary Grade 4, Standards Based
+- Grade: 4 (student/teacher: TEACHER)
+- Publisher: Department of Education, Papua New Guinea; year 2017 (First Edition); ISBN 978-9980-86-575-5 (as printed — the same ISBN is printed in the Grade 3 and Grade 5 guides, a publisher's error)
+- PDF pages: 196 (cover/title page verified against the record title; byte size 4,557,168 matches the staging books.json record)
+- Verdict: COMPLETE
+- Tally: 15 placements — 2 to existing lessons, 13 NEW LESSON NEEDED
+- Papua New Guinea's own way: the same four strands and units as Grade 3, deepened — 96 lessons in the year, 16 of them fully worked sample lessons; substance abuse is its own unit (Alcohol and Substance Abuse) and cultural health beliefs and myths are examined openly, including practices "not good for our health".
+- Note: read via the secured GitHub tree route (grab.py, SHA-verified). Assessment and Reporting (printed pp.149–160) and Glossary (printed pp.162–164) are inventory-only / assessment, named here and not placed. Placements group the year's teachable concepts by unit, with the worked sample lessons named.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/papua-new-guinea-health-placements.md (Book 2 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea — Strand 2 Unit 1 Alcohol and Substance Abuse: harmful substances, bad habits/abuse, say NO to bad habits, goal-setting skill, campaign against bad habits; Sample lesson 6: Harmful substances that harm personal health; Sample lesson 7: Experiences of bad habits stories (original string `staying-safe/betelnut-smoking-and-other-bad-habits`) | Papua New Guinea Grade 4 Health TG Grade 4, printed p. 74 |
+
+**Book 3 — Health TG Grade 5 (teacher guide, English):**
+- Title as printed: Health Teacher Guide, Primary Grade 5, Standards Based
+- Grade: 5 (student/teacher: TEACHER)
+- Publisher: Department of Education, Papua New Guinea; year 2017 (First Edition); ISBN 978-9980-86-575-5 (as printed — the same ISBN is printed in the Grade 3 and Grade 4 guides, a publisher's error)
+- PDF pages: 154 (cover/title page verified against the record title; byte size 4,382,101 matches the staging books.json record)
+- Verdict: COMPLETE
+- Tally: 14 placements — 1 to existing lessons, 13 NEW LESSON NEEDED
+- Papua New Guinea's own way: Grade 5 Health is where puberty is taught head-on (separate lessons on secondary changes in girls and in boys), drug education widens from substances to addiction, peer pressure and saying NO, and first aid becomes specific treatments — bleeding, fractures, dog bite, drowning, marine bites, head injury, toothache.
+- Note: read via the secured GitHub tree route (grab.py, SHA-verified). Assessment and Reporting (printed pp.109–124) and Glossary (printed pp.126–128) are inventory-only / assessment, named here and not placed. The book's guided lessons are placed grouped by unit below.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/papua-new-guinea-health-placements.md (Book 3 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea — Strand 2 Unit 1 Alcohol and Substance Abuse: effects of marijuana; useful drugs prescribed at chemists; abuse and misuse of medicine; social problems caused by alcohol; reasons for taking drugs by young people; coping with drug addiction; using the decision-making process to say 'NO' to drugs (original string `staying-safe/betelnut-smoking-and-other-bad-habits`) | Papua New Guinea Grade 5 Health TG Grade 5, printed p. 52 |
+
+**Book 4 — HPE TG Grade 6 (teacher guide, English) — Health parts:**
+- Title as printed: Health & Physical Education Teacher Guide, Primary Grade 6, Standards Based
+- Grade: 6 (student/teacher: TEACHER)
+- Publisher: Department of Education, Papua New Guinea; year 2019 (First Edition); ISBN 978-9980-905-32-1
+- PDF pages: 154 (cover/title page verified against the record title)
+- Verdict: COMPLETE (combined book read once; PE parts filed in papua-new-guinea-pe-placements.md, Book 4)
+- Tally (Health parts): 8 placements — 1 to existing lessons, 7 NEW LESSON NEEDED
+- Papua New Guinea's own way: Senior Primary Health teaches the eleven body systems with an explicit lesson separating medical facts from sorcery/witchcraft beliefs about illness, and sexual health education sits inside Growth and Development as healthy-relationships teaching.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/papua-new-guinea-health-placements.md (Book 4 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea — Strand 3 Unit 2 Alcohol and Substance Abuse, lessons 43–50, with the Content Background "Why Take Drugs?": prolonged use of non-prescription drugs; consequences of using non-prescription and prescription drugs; strategies for improvement; what tobacco does to your body; what alcohol does to your body; other drugs; drug use and the law; positive health behaviours and prevention strategies (original string `staying-safe/betelnut-smoking-and-other-bad-habits`) | Papua New Guinea Grade 6 HPE TG Grade 6, printed pp. 44, 66 |
+
+**Book 5 — HPE TG Grade 7 (teacher guide, English) — Health parts:**
+- Title as printed: Health & Physical Education Teacher Guide, Primary Grade 7, Standards Based
+- Grade: 7 (student/teacher: TEACHER)
+- Publisher: Department of Education, Papua New Guinea; year 2019 (First Edition); ISBN 978-9980-905-33-8
+- PDF pages: 134 (cover/title page verified against the record title)
+- Verdict: COMPLETE (combined book read once; PE parts filed in papua-new-guinea-pe-placements.md, Book 5)
+- Tally (Health parts): 8 placements — 1 to existing lessons, 7 NEW LESSON NEEDED
+- Papua New Guinea's own way: Grade 7 Health faces teenage pregnancy, dating boundaries and distorted media messages about relationships directly, and names lifestyle diseases (cardiovascular disease, lung cancer) with the behaviours that cause them.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/papua-new-guinea-health-placements.md (Book 5 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea — Strand 3 Unit 2 Alcohol and Substance Abuse: classification of drug use; influences on drug use; effects of drug use on health and wellbeing; prevention strategies to avoid addictive substances; positive communication strategies in avoiding risky situations; legal and economic consequences of drug use; effects of other people's drug use (original string `staying-safe/betelnut-smoking-and-other-bad-habits`) | Papua New Guinea Grade 7 HPE TG Grade 7, printed p. 49 |
+
+**Book 6 — HPE TG Grade 8 (teacher guide, English) — Health parts:**
+- Title as printed: Health & Physical Education Teacher Guide, Primary Grade 8, Standards Based
+- Grade: 8 (student/teacher: TEACHER)
+- Publisher: Department of Education, Papua New Guinea; year 2019 (First Edition); ISBN 978-9980-905-33-8
+- PDF pages: 140 (cover/title page verified against the record title; byte size 5,980,537 matches the download-list record exactly)
+- Verdict: COMPLETE (combined book read once; PE parts filed in papua-new-guinea-pe-placements.md, Book 6)
+- Tally (Health parts): 9 placements — 1 to existing lessons, 8 NEW LESSON NEEDED (HELD: 0)
+- Papua New Guinea's own way: Grade 8 Health teaches the body systems through the respiratory system and the heart, then reproduction — ovulation and tracking the menstrual cycle with a calendar the girls design themselves — and keeps the medical-facts-over-sorcery/witchcraft-beliefs line from Grade 7, now inside the adolescence health-problems lesson.
+- Note: read from the duplicate ministry download-list link at the exact recorded byte size. LIBRARY DEBT: the secured books.json record is marked in_pushed but the GitHub Contents API returns 404 for its exact tree path (checked twice, 2026-11-16) — possible phantom push; a byte-identical copy (MD5-verified) sits in phase3-staging awaiting the pusher. Assessment, Monitoring and Reporting (printed pp.105–121) and Glossary (printed pp.122–124) are inventory-only / assessment, named here and not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/papua-new-guinea-health-placements.md (Book 6 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea — Strand 3 Unit 2 Alcohol and Substance Abuse, with Content Background: what drugs are and their effects, why people use, misuse or choose not to use, consequences of alcohol use (including binge drinking) for individuals and the community, benefits and consequences of prescribed and non-prescribed drugs, advocacy strategies on the legal, economic and social consequences of drug abuse (original string `staying-safe/betelnut-smoking-and-other-bad-habits`) | Papua New Guinea Grade 8 HPE TG Grade 8, printed pp. 16, 41–42 |
+
+Papua New Guinea is added as teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — all the Papua New Guinea books stocked here are TEACHER guides, so Papua New Guinea is named in the countries line and provenance rows and the acceptance count is unchanged. The Papua New Guinea placements in this lesson were filed under the original strings recorded in the provenance rows above; the placements were resolved to this canonical lesson (`staying-safe/saying-no-to-drugs-alcohol-and-tobacco`) by registry Part 2A (the strings filed directly under this lesson's own slug needed no resolution). Papua New Guinea's own way is content, as the book lines above record it: Health is organised in four strands — Growth and Development, Individual and Community Health, Nutrition, Safety and First Aid — with PNG-specific teaching on betelnut chewing, local herbs as medicine, and life jackets and floaters for sea travel, and senior Health separating medical facts from sorcery/witchcraft beliefs about illness. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: saying no to drugs alcohol and tobacco, harmful habits that damage health, Saglyga zeper ýetirýän zyýanly endikler, habits that injure health, Turkmenistan Bedenterbiýe, substance abuse types consequences risks, legal alcohol age 18 Namibia, Healthy Lifestyle Session 4, Namibia PE4Life Guide, drugs and alcohol harms to learners, prevention, Zambia Health Teacher Training Manual 2025, alcohol drugs smoking impact on the family unsafe sex STDs HIV AIDS hepatitis, Samoa Years 11–12 TG, tobacco smoking discussion, psychoactive substances discussion, drugs narcotics discussions and projects, Bulgaria Biology and Health Education Grades 8 and 10 Pedagog 6, exercise keeps us from smoking, reducing young smokers, imitate healthy behaviours, Greece Grades 7-9 Fysiki Agogi Gymnasiou, Azerbaijan Fiziki Tərbiyə Grades 6-10, Georgian-language edition, hardening the body, self-control diary, substance misuse, medicine instructions, consequences of abuse, Ukraine G7 Health Safety and Wellbeing Shyian, addictions and how to resist them, Bağımlılıklar, Turkey Health & Traffic Culture, Sierra Leone AHLS Teacher's Manual SSS1 SSS2 SSS3, adolescent health and life skills Sierra Leone, harms of smoking, preventing smoking, Pakistan Grade 8 Sehat-o-Jismani Taleem, Malaysia PJPK, Penyalahgunaan Bahan, cigarettes alcohol drugs, second-hand smoke, drug trap jerat dadah, addiction relapse penagihan berulang, PEERS, Papua New Guinea, Papua New Guinea Grade 3 Health TG Grade 3, Papua New Guinea Grade 4 Health TG Grade 4, Papua New Guinea Grade 5 Health TG Grade 5, Papua New Guinea Grade 6 HPE TG Grade 6, Papua New Guinea Grade 7 HPE TG Grade 7, Papua New Guinea Grade 8 HPE TG Grade 8

@@ -1,8 +1,8 @@
 # Sources — Preventing Common Diseases
 
-countries: Namibia, China, Rwanda, Zambia, Timor-Leste, Bulgaria, Philippines, Turkey
+countries: Namibia, China, Rwanda, Zambia, Timor-Leste, Bulgaria, Philippines, Turkey, Papua New Guinea
 
-**Acceptance count: taught in 5 countries.** Bulgaria is filed as student-book stock, inside the acceptance count, in this lesson. Namibia and Rwanda are filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. China is filed as student-book stock, inside the acceptance count, in this lesson. Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count (still taught in 1 country). Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book.
+**Acceptance count: taught in 5 countries.** Bulgaria is filed as student-book stock, inside the acceptance count, in this lesson. Namibia and Rwanda are filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. China is filed as student-book stock, inside the acceptance count, in this lesson. Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count (still taught in 1 country). Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book. Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below).
 
 **Book 1 — Physical Education 4 Life: A Guide for Physical Education Teachers in Namibia, Grades 10–11 (teacher guide, English) — Health parts:**
 - Title as printed: Physical Education 4 Life — A Guide for Physical Education Teachers in Namibia — Grades 10–11
@@ -195,4 +195,68 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkey-healt
 
 Turkey's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the health slug registry (Part 2A / Part 2B) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Turkey's own way is content, as the book lines above record it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: preventing common diseases, common diseases in Namibia, staying well, Healthy Lifestyle Session 6, Namibia PE4Life Guide, preventing infectious diseases, AIDS prevention, China Senior High PEP PE & Health, infectious disease games, games and sports in disease prevention, Transmitted Diseases Unit 9, Rwanda Grade 5 PE Teacher Guide MK Publishers, Rwanda Grade 6 PES Teacher Guide, REB Rwanda, the human body and germs, body systems basics, germs cause illness, Zambia Health Teacher Training Manual 2025, preventing diarrhoea hygiene handwashing facilities sanitation safe bathroom kitchen, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, diseases and prevention by body system, digestive respiratory urinary musculoskeletal reproductive nervous endocrine diseases prevention, viral diseases influenza chickenpox hepatitis spread prevention, bacterial diseases, Bulgaria Biology and Health Education Grades 8-9 Pedagog 6, coughing and sneezing safely, Wastong Gawi sa Pag-ubo at Pagbahin, chain of infection, breaking the chain of infection, stages of infection, germ theory miasma, disease factors, Philippines Grade 1 PE and Health LM, Philippines Grade 7 Health LM, diseases and disability an introduction, Hastalıklar ve Engellilik, Turkey Health & Traffic Culture
+## Papua New Guinea — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/papua-new-guinea-health-placements.md. The Papua New Guinea book(s) stocked in this lesson: Book 3, Book 4, Book 5, Book 6 of that file. Papua New Guinea's Health books are Standards Based teacher guides of the Department of Education, Papua New Guinea; Books 4–6 are combined Health & Physical Education teacher guides whose PE parts are filed in papua-new-guinea-pe-placements.md and placed in the Physical Education course. All the Papua New Guinea books are TEACHER guides, so Papua New Guinea is teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count (the acceptance count is unchanged). Each book's Assessment and Reporting / Assessment, Monitoring and Reporting sections and Glossary are inventory-only / assessment, named in the book lines and not placed, as filed. No Papua New Guinea placement in this merge resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 3 — Health TG Grade 5 (teacher guide, English):**
+- Title as printed: Health Teacher Guide, Primary Grade 5, Standards Based
+- Grade: 5 (student/teacher: TEACHER)
+- Publisher: Department of Education, Papua New Guinea; year 2017 (First Edition); ISBN 978-9980-86-575-5 (as printed — the same ISBN is printed in the Grade 3 and Grade 4 guides, a publisher's error)
+- PDF pages: 154 (cover/title page verified against the record title; byte size 4,382,101 matches the staging books.json record)
+- Verdict: COMPLETE
+- Tally: 14 placements — 1 to existing lessons, 13 NEW LESSON NEEDED
+- Papua New Guinea's own way: Grade 5 Health is where puberty is taught head-on (separate lessons on secondary changes in girls and in boys), drug education widens from substances to addiction, peer pressure and saying NO, and first aid becomes specific treatments — bleeding, fractures, dog bite, drowning, marine bites, head injury, toothache.
+- Note: read via the secured GitHub tree route (grab.py, SHA-verified). Assessment and Reporting (printed pp.109–124) and Glossary (printed pp.126–128) are inventory-only / assessment, named here and not placed. The book's guided lessons are placed grouped by unit below.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/papua-new-guinea-health-placements.md (Book 3 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea — Strand 2 Unit 2 Protection Against Disease: ways to cure illness; germs such as bacteria and viruses cause diseases; causes of communicable and of non-communicable diseases; ways to fight these diseases; ways to prevent tuberculosis; ways to prevent diabetes (original string `staying-safe/germs-and-preventing-disease`) | Papua New Guinea Grade 5 Health TG Grade 5, printed p. 59 |
+
+**Book 4 — HPE TG Grade 6 (teacher guide, English) — Health parts:**
+- Title as printed: Health & Physical Education Teacher Guide, Primary Grade 6, Standards Based
+- Grade: 6 (student/teacher: TEACHER)
+- Publisher: Department of Education, Papua New Guinea; year 2019 (First Edition); ISBN 978-9980-905-32-1
+- PDF pages: 154 (cover/title page verified against the record title)
+- Verdict: COMPLETE (combined book read once; PE parts filed in papua-new-guinea-pe-placements.md, Book 4)
+- Tally (Health parts): 8 placements — 1 to existing lessons, 7 NEW LESSON NEEDED
+- Papua New Guinea's own way: Senior Primary Health teaches the eleven body systems with an explicit lesson separating medical facts from sorcery/witchcraft beliefs about illness, and sexual health education sits inside Growth and Development as healthy-relationships teaching.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/papua-new-guinea-health-placements.md (Book 4 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea — Strand 3 Unit 1 Personal Health and Hygiene, lessons 35–42: personal safety; behaviours contributing to the rise of disease; disease prevention; school health and health practices and strategies to promote school health programs; sources of health information, products and services; factors influencing access; media advertisement (original string `staying-safe/germs-and-preventing-disease`) | Papua New Guinea Grade 6 HPE TG Grade 6, printed p. 66 |
+
+**Book 5 — HPE TG Grade 7 (teacher guide, English) — Health parts:**
+- Title as printed: Health & Physical Education Teacher Guide, Primary Grade 7, Standards Based
+- Grade: 7 (student/teacher: TEACHER)
+- Publisher: Department of Education, Papua New Guinea; year 2019 (First Edition); ISBN 978-9980-905-33-8
+- PDF pages: 134 (cover/title page verified against the record title)
+- Verdict: COMPLETE (combined book read once; PE parts filed in papua-new-guinea-pe-placements.md, Book 5)
+- Tally (Health parts): 8 placements — 1 to existing lessons, 7 NEW LESSON NEEDED
+- Papua New Guinea's own way: Grade 7 Health faces teenage pregnancy, dating boundaries and distorted media messages about relationships directly, and names lifestyle diseases (cardiovascular disease, lung cancer) with the behaviours that cause them.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/papua-new-guinea-health-placements.md (Book 5 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea — Strand 3 Unit 1 Health and Hygiene: disease prevention (sample guided lesson); communicable diseases; common health issues in the school and the community; personal health and hygiene promotion strategies (original string `staying-safe/germs-and-preventing-disease`) | Papua New Guinea Grade 7 HPE TG Grade 7, printed p. 48 |
+
+**Book 6 — HPE TG Grade 8 (teacher guide, English) — Health parts:**
+- Title as printed: Health & Physical Education Teacher Guide, Primary Grade 8, Standards Based
+- Grade: 8 (student/teacher: TEACHER)
+- Publisher: Department of Education, Papua New Guinea; year 2019 (First Edition); ISBN 978-9980-905-33-8
+- PDF pages: 140 (cover/title page verified against the record title; byte size 5,980,537 matches the download-list record exactly)
+- Verdict: COMPLETE (combined book read once; PE parts filed in papua-new-guinea-pe-placements.md, Book 6)
+- Tally (Health parts): 9 placements — 1 to existing lessons, 8 NEW LESSON NEEDED (HELD: 0)
+- Papua New Guinea's own way: Grade 8 Health teaches the body systems through the respiratory system and the heart, then reproduction — ovulation and tracking the menstrual cycle with a calendar the girls design themselves — and keeps the medical-facts-over-sorcery/witchcraft-beliefs line from Grade 7, now inside the adolescence health-problems lesson.
+- Note: read from the duplicate ministry download-list link at the exact recorded byte size. LIBRARY DEBT: the secured books.json record is marked in_pushed but the GitHub Contents API returns 404 for its exact tree path (checked twice, 2026-11-16) — possible phantom push; a byte-identical copy (MD5-verified) sits in phase3-staging awaiting the pusher. Assessment, Monitoring and Reporting (printed pp.105–121) and Glossary (printed pp.122–124) are inventory-only / assessment, named here and not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/papua-new-guinea-health-placements.md (Book 6 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Papua New Guinea — Strand 3 Unit 1 Personal Health and Hygiene and the Community Health and Hygiene content: personal and oral hygiene habits, lifelong health, ways to prevent diseases, disease protection and prevention in the community, population growth and health issues, negative impacts of limited health services, access to health information, products and services; sample guided lesson "Health problems of adolescence / Social responsibility" — choosing medical facts over sorcery/witchcraft beliefs (original string `staying-safe/germs-and-preventing-disease`) | Papua New Guinea Grade 8 HPE TG Grade 8, printed pp. 15, 35–40, 80 |
+
+Papua New Guinea is added as teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — all the Papua New Guinea books stocked here are TEACHER guides, so Papua New Guinea is named in the countries line and provenance rows and the acceptance count is unchanged. The Papua New Guinea placements in this lesson were filed under the original strings recorded in the provenance rows above; the placements were resolved to this canonical lesson (`staying-safe/preventing-common-diseases`) by registry Part 2A (the strings filed directly under this lesson's own slug needed no resolution). Papua New Guinea's own way is content, as the book lines above record it: Health is organised in four strands — Growth and Development, Individual and Community Health, Nutrition, Safety and First Aid — with PNG-specific teaching on betelnut chewing, local herbs as medicine, and life jackets and floaters for sea travel, and senior Health separating medical facts from sorcery/witchcraft beliefs about illness. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: preventing common diseases, common diseases in Namibia, staying well, Healthy Lifestyle Session 6, Namibia PE4Life Guide, preventing infectious diseases, AIDS prevention, China Senior High PEP PE & Health, infectious disease games, games and sports in disease prevention, Transmitted Diseases Unit 9, Rwanda Grade 5 PE Teacher Guide MK Publishers, Rwanda Grade 6 PES Teacher Guide, REB Rwanda, the human body and germs, body systems basics, germs cause illness, Zambia Health Teacher Training Manual 2025, preventing diarrhoea hygiene handwashing facilities sanitation safe bathroom kitchen, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, diseases and prevention by body system, digestive respiratory urinary musculoskeletal reproductive nervous endocrine diseases prevention, viral diseases influenza chickenpox hepatitis spread prevention, bacterial diseases, Bulgaria Biology and Health Education Grades 8-9 Pedagog 6, coughing and sneezing safely, Wastong Gawi sa Pag-ubo at Pagbahin, chain of infection, breaking the chain of infection, stages of infection, germ theory miasma, disease factors, Philippines Grade 1 PE and Health LM, Philippines Grade 7 Health LM, diseases and disability an introduction, Hastalıklar ve Engellilik, Turkey Health & Traffic Culture, Papua New Guinea, Papua New Guinea Grade 5 Health TG Grade 5, Papua New Guinea Grade 6 HPE TG Grade 6, Papua New Guinea Grade 7 HPE TG Grade 7, Papua New Guinea Grade 8 HPE TG Grade 8
