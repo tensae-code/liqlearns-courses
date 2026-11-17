@@ -193,3 +193,20 @@ El Salvador placements — Social Studies remaining strands (2026-11-17):
 El Salvador's own way (El Salvador Grade 7 Estudios Sociales y Cívica 7): the Tercer Ciclo book is built as five themes, and its civics is El Salvador's own — Salvadoran identity, Salvadoran families, the institutions that protect Salvadoran children, and the rights of Salvadorans under their own constitution.
 
 Searchable tags: culture — what culture is, El Salvador, social studies, culture-and-work
+
+Zimbabwe placements — Social Studies remaining strands (2026-11-17):
+
+**Book 10:** *Best Approach to Family and Heritage Studies Teacher's Resource Book ECD 'A'* (teacher guide, English) — Title as printed: Best Approach to Family and Heritage Studies Teacher's Resource Book ECD 'A' Grade: ECD A (KG1) (student/teacher: TEACHER) Publisher: Priority Projects Publishing, Harare; year first published August 2021; ISBN 978-0-7974-7819-0 PDF pages: 65 (cover/title page verified against the link record title; byte size 11,280,368 = link record size, 65 pp = link record pages; source: publisher's own site ppp.co.zw) Earlier waves: not read before (a parallel ECD A resource book for the same HBC syllabus as Book 1, from a second MoPSE publisher) Verdict: COMPLETE Contents map: Integrated SS pp. 1–5 (identity: myself, family, friends), 24–27 (social services and volunteerism); Civics/Citizenship/Government pp. 13–18 (national history, sovereignty and governance — Zimbabwe, national colours, flag, school pledge), 19–20 (entitlements/rights — abuse); Culture in society pp. 6–12 (cultural heritage — languages, attire, food, songs); Geography pp. 21–23 (shelter), 33–40 (transport and communication), 44+ (global issues) — named, not placed; Economics pp. 28–32 (production, distribution and consumption), 41–43 (work and leisure) — named, not placed Tally: 6 placements — 2 to existing lessons, 4 NEW LESSON NEEDED Staged: phase3-staging/kg1/gov/zimbabwe/family-and-heritage-studies/teacher/full-year.pdf (books.json record added 2026-11-17) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/zimbabwe-placements.md. Teacher guide — evidence only, outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Zimbabwe part — culture-and-work/culture-what-culture-is — Unit 2: Cultural heritage (attire, food, songs) — teaches: heritage as what a community wears, eats and sings — appreciating traditional attire and the occasions for it, traditional food, and songs that teach telling the truth — Zimbabwe ECD A zw-ppp-ecda, printed pp. 6–12 — TEACHER | Zimbabwe, *Best Approach to Family and Heritage Studies Teacher's Resource Book ECD 'A'* (teacher guide), Unit 2: Cultural heritage (attire, food, songs) — printed pp. 6–12 (teacher guide — evidence) |
+| Zimbabwe's way — the books' own teaching way | Zimbabwe — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 14 countries (Ethiopia, Mongolia, Bahamas, Colombia, Kuwait, Jordan, Bhutan, Tanzania, Eritrea, Syria, Bangladesh, Angola, Iran, El Salvador).** Zimbabwe is named here as teacher-guide evidence only, counted nowhere.
+
+Zimbabwe's own way (Book 10) (teacher guide — evidence): a second publisher's ECD A book for the same syllabus, laid out as weekly lesson grids (objective / skill / activities / media); its heritage unit teaches culture through languages, attire, food and truth-telling songs, and its rights unit is built almost entirely on recognising and dramatising abuse and being assured help exists.
+
+Registry note: `culture-and-work/culture-what-culture-is` is one of the registry §5 existing lessons; Zimbabwe's placements stock into it exactly as filed.
+
+Searchable tags: culture — what culture is, Zimbabwe, social studies, culture-and-work
