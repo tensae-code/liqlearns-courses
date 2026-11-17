@@ -1,6 +1,6 @@
 # Sources — What Social Studies Is
 
-countries: Ethiopia, Saudi Arabia, Niue, Bolivia, Eritrea, Nicaragua
+countries: Ethiopia, Saudi Arabia, Niue, Bolivia, Eritrea, Nicaragua, Kiribati
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Saudi Arabia, Niue, Bolivia, Eritrea, Nicaragua
 
 **Book 7:** *Conociendo mi Mundo, 2do Grado* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua; year 2015 (Primera Edición); ISBN no ISBN printed. Title as printed: Conociendo mi Mundo, 2do Grado. Grade: Grade 2 (student/teacher: STUDENT). PDF pages: 180 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
 
+**Book 8:** *Social Science Teacher Guide, Year 7, Terms 1–3* (teacher guide, English) — Ministry of Education, Republic of Kiribati (CDRC — Curriculum Development Resource Centre, per the file name); year no year printed in the pages read; ISBN no ISBN printed. Title as printed: TEACHER GUIDE — Social Science — Year 7 — Term 1, 2, 3. Grade: Year 7 (student/teacher: TEACHER). PDF pages: 74 (cover verified: "Teacher Guide / Social Science / Year 7 / Term 1,2,3" under the Kiribati crest matches the record; 1,996,396 bytes; the Drive uc download route timed out four times through the proxy, the drive.usercontent.google.com download route delivered the file). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Integrated SS printed p. 1 (what Social Science is); Culture-in-society pp. 7–22 (Units 2–3); Civics/Citizenship/Government pp. 14–22 (youth, citizenship, rights, inside Unit 3) and pp. 33–46 (Unit 5, traditional government); Geography pp. 23–32 (Unit 4 resources — with economics of resource use) and pp. 43–46 (Unit 6 map work); History pp. 47–74 (Unit 7 colonialism, Unit 8 nationalism and independence). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/kiribati-placements.md. Cited as teacher-guide evidence only, outside acceptance counts.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Three lenses: land, past, today | Ethiopia, *Social Studies Student Textbook, Grade 7*, front matter and chapter openings, printed pp. v–vi; *Social Studies Student Textbook, Grade 8*, front matter, printed pp. vi–vii |
@@ -27,7 +29,9 @@ countries: Ethiopia, Saudi Arabia, Niue, Bolivia, Eritrea, Nicaragua
 | Eritrea part (ER G6 Social Studies) — Introduction to Social Studies: what Social Studies is and its subjects | Eritrea, *ER G6 Social Studies*, Introduction to Social Studies: what Social Studies is and its subjects — printed p. iv |
 | Nicaragua part — I Unidad: Presentación de la disciplina / Conociendo mi Mundo | Nicaragua, *Nicaragua Grade 2 Conociendo mi Mundo G2*, I Unidad: Presentación de la disciplina / Conociendo mi Mundo — printed p. 8 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Saudi Arabia, Bolivia, Eritrea, Nicaragua). Niue is named here as teacher-guide evidence only, counted nowhere.**
+| Kiribati part — first-steps/what-social-studies-is — Unit 1 Introduction to Social Science — teaches: what Social Science is — society and its members, woven from five disciplines (history, geography, commerce, family welfare, and civics defined as the rights and duties of citizens) — and why studying it matters for people and their environment (teacher guide — evidence) | Kiribati, *Social Science Teacher Guide, Year 7, Terms 1–3* (teacher guide), Unit 1 Introduction to Social Science — printed p. 1 (teacher guide — evidence) |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Saudi Arabia, Bolivia, Eritrea, Nicaragua). Niue and Kiribati are named here as teacher-guide evidence only, counted nowhere.**
 
 Niue's own way (teacher guide — evidence): the guide localises the shared Pacific set country by country — its "Links to formal learning" section carries a dedicated Niue chapter (what sustainability means for Niueans; Niue curriculum links to SDG 4.7), the model other Pacific countries' sets follow. That evidence is stocked here as the way Niue teaches this thing; it does not change the acceptance count above.
 
@@ -40,3 +44,5 @@ Searchable tags: what is social studies, geography history today, activity first
 Eritrea's own way (ER G6 Social Studies): one integrated Social Studies book per grade weaving History, Geography, Civics and Culture strands; Geography is taught through Eritrea itself first (Eritrea's location and size, Eritrean settlement, migration and disasters) with very practical, activity-led lessons.
 
 Nicaragua's own way (Nicaragua Grade 2 Conociendo mi Mundo G2): Geography begins hyper-locally — the child's own school, municipality and landscape — and the country is introduced through its two great lakes (Cocibolca and Xolotlán) as the "land of lakes and volcanoes" before any wider world content. Non-Geography parts named, not placed: Unit II family, hygiene and food (printed pp. 9–32, home/health); Unit IV plant/animal/human-body topics (printed pp. 57–93, Natural Science); Unit V national symbols, heroes and traditions (printed pp. 113–143, Civics/History); Unit VI taxes (printed p. 151, Civics); efemérides throughout (History/Civics).
+
+Kiribati's own way (teacher guide — evidence): Social Science is built island-first — the maneaba (mwaneaba) meeting house is at once the culture-keeping building, the traditional parliament and the centre of village life, and the modern civics (constitution, rights, voting at 18 for the Maneaba ni Maungatabu) is taught growing out of the traditional systems pupils already live under (kaainga family rule, unimwane elders, uea chiefs). That evidence is stocked here as the way Kiribati teaches this thing; it does not change the acceptance count above.
