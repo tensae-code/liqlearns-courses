@@ -1,8 +1,8 @@
 # Sources — What Health Is
 
-countries: United Kingdom
+countries: United Kingdom, Turkmenistan
 
-**Acceptance count: taught in 1 country.** United Kingdom is filed as student-book stock, inside the acceptance count, in this lesson.
+**Acceptance count: taught in 2 countries.** United Kingdom is filed as student-book stock, inside the acceptance count, in this lesson. Turkmenistan is filed as student-book stock, inside the acceptance count, in this lesson.
 
 **Book 1 — Edexcel GCSE (9-1) Physical Education Student Book, 2nd edition (student book, English):**
 - Title as printed: Edexcel GCSE (9-1) Physical Education — Tony Scott (cover: "2nd edition")
@@ -14,10 +14,23 @@ countries: United Kingdom
 - United Kingdom's own way: PE at GCSE is an examined academic subject — anatomy, physiology, movement analysis and training theory, plus health, psychology and the sociology of sport, with practical performance in three chosen activities and a written Personal Exercise Programme.
 - Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/united-kingdom-pe-placements.md. The United Kingdom has no Health placements file; its Health placements are PE-phase carry-forwards from this file, resolved to Health lessons by the Health slug registry. Book 2 of the placements file, *Edexcel GCSE Physical Education Student Book* (2009 edition, Pearson (Edexcel), archive.org item `edexcelgcsephysi0000scot`), is UNREAD — lending-restricted on archive.org, direct GET returned 401/403, no login routes permitted — with 0 placements; nothing is stocked from it.
 
+**Book 2 — Bedenterbiýe (Physical Education) (student book — study guide for higher schools, Turkmen) — Health parts only:**
+- Title as printed: Bedenterbiýe — Ýokary okuw mekdepleri üçin okuw gollanmasy (Physical Education — a study guide for higher schools) (full header in turkmenistan-pe-placements.md, Book 1)
+- Grade: Higher education (university) (student/teacher: STUDENT — university textbook; the abstract also names school PE teachers, coaches and athletes as users)
+- Publisher: Türkmen döwlet neşirýat gullugy (Turkmen State Publishing Service), Aşgabat; year 2020; author S. Altyýew (Sapardurdy Altyýew); recommended by the Ministry of Education of Turkmenistan; no ISBN printed (UDK 378.796)
+- PDF pages: 192 (cover verified; downloaded 12,849,582 B)
+- Verdict: COMPLETE (Health parts) — the whole book was read in full in the PE expansion read; named but not placed in the PE file, as filed: Part IX (the PE teacher's and coach's professional pedagogy, pp. 120–131) and Part XIV (promoting mass PE and sport, pp. 171–177) are not placed, and the closing Tests (pp. 178–184) are the book's own assessment and the glossary (pp. 185–188) is inventory-only, both excluded per the brief.
+- Tally (Health parts): 4 placements — 1 to existing lessons, 3 NEW LESSON NEEDED
+- Turkmenistan's own way: health is taught inside the PE theory course as a closing block — what health is, how to eat properly, the habits that damage health, and the medical control that watches over mass sport.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkmenistan-health-placements.md (full header in turkmenistan-pe-placements.md, Book 1). Book 2 of the Health placements file, *Biology: Man and His Health, Grade 10* (БИОЛОГИЯ — Человек и его здоровье) (student book, Russian; Туркменская государственная издательская служба (Turkmen State Publishing Service), Ashgabat, 2022; authors С. Дурдыев, Л. Старакулова, Н. Базарова; recommended by the Ministry of Education of Turkmenistan; no ISBN printed; PDF pages: 255), is RECORD-ONLY — on its cover this is a Biology (Science) textbook, the human anatomy-and-physiology volume of the Biology course; per the brief a record that proves to be another subject entirely is filed record-only and never placed — with 0 placements; nothing is stocked from it. Its health-adjacent paragraphs are named in the placements file for the record, not placed: §25 first aid for bruises, sprains, dislocations and fractures (printed p. 96), §36 preventing cardiovascular diseases (p. 137), §37 first aid for bleeding (p. 140), and the hygiene paragraphs inside the sense-organ and system chapters.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Physical, emotional and social health, fitness and well-being — the three kinds of health and the benefits of physical activity for each (original string `sport-and-its-story/health-fitness-and-well-being`) | United Kingdom, *Edexcel GCSE (9-1) Physical Education Student Book, 2nd edition* (United Kingdom GCSE Edexcel PE Student Book), Component 2 Topic 1.1, printed p. 124 |
+| Turkmenistan — Part X, Foundations of a Healthy Lifestyle — the concept of health and its content, health's functional features, lifestyle rules and their effect on health, adapting to the environment, heredity, the work-and-rest regime and sleep (original string `staying-safe/healthy-lifestyle-foundations`) | Turkmenistan, *Bedenterbiýe (Physical Education)*, Part X, printed pp. 132–137 |
 
 This is a canonical NEW lesson (slug-registry Part 1: `staying-safe/what-health-is` — What health is: complete physical, mental and social well-being — and the dimensions and factors that make it up); the United Kingdom placement was filed under the original string `sport-and-its-story/health-fitness-and-well-being`, resolved to this canonical slug by registry Part 2 and recorded in the provenance row above. United Kingdom enters this lesson as student-book stock, inside the acceptance count. United Kingdom's own way is content, as the book line above records it: PE at GCSE is an examined academic subject — anatomy, physiology, movement analysis and training theory, plus health, psychology and the sociology of sport, with practical performance in three chosen activities and a written Personal Exercise Programme.
 
-Searchable tags: what health is, physical emotional social health, fitness and well-being, benefits of physical activity, Edexcel GCSE Physical Education, United Kingdom GCSE Edexcel PE Student Book
+The Turkmenistan placement was filed under the original string `staying-safe/healthy-lifestyle-foundations`, resolved to this canonical lesson by registry Part 2 (`staying-safe/what-health-is`) and recorded in the provenance row above. The Turkmenistan book is a STUDENT book (university textbook), so Turkmenistan enters this lesson as student-book stock, inside the acceptance count. Turkmenistan's own way is content, as the book line above records it: health is taught inside the PE theory course as a closing block — what health is, how to eat properly, the habits that damage health, and the medical control that watches over mass sport.
+
+Searchable tags: what health is, physical emotional social health, fitness and well-being, benefits of physical activity, Edexcel GCSE Physical Education, United Kingdom GCSE Edexcel PE Student Book, foundations of a healthy lifestyle, concept of health, work-and-rest regime, sleep, heredity, adapting to the environment, Turkmenistan Bedenterbiýe

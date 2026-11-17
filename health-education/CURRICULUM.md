@@ -124,6 +124,22 @@ is a student book, so Tajikistan is student-book stock, inside
 the acceptance counts; the new lesson stands at acceptance
 count 1, and each existing lesson it touches rose by 1 country.
 
+**Health expansion — Turkmenistan — BUILT 2026-11-16:** 4 placements
+from Turkmenistan's *Bedenterbiýe (Physical Education)*
+(student book — study guide for higher schools, Turkmen,
+Türkmen döwlet neşirýat gullugy, Aşgabat, 2020) stocked —
+2 into existing lessons (What Health Is, Preventing Sports
+Injuries and First Aid) and 2 as new lessons (Eating a
+Balanced Diet, Saying No to Drugs, Alcohol and Tobacco) —
+bringing this course to **16 lessons**. The Turkmenistan book
+is a student book, so Turkmenistan is student-book stock,
+inside the acceptance counts; each new lesson stands at
+acceptance count 1, What Health Is rose from 1 to 2 countries,
+and Preventing Sports Injuries and First Aid rose from 3 to
+4 countries. Book 2 of the Health placements file, *Biology:
+Man and His Health, Grade 10*, is RECORD-ONLY — a Biology
+textbook, never placed — with 0 placements.
+
 ## Unit 1 — Staying Safe
 
 1. **Hygiene for Sport — Wash After Exercise** (`staying-safe/hygiene-for-sport`) — personal hygiene around sport: sweat and dirt left unwashed become a breeding place for bacteria — so wash the body after PE and sport, keep sports…
@@ -138,6 +154,8 @@ count 1, and each existing lesson it touches rose by 1 country.
 8. **What Health Is** (`staying-safe/what-health-is`) — what health is: complete physical, mental and social well-being — and the dimensions and factors that make it up — taught in the United Kingdom's Edexcel GCSE PE Student Book as physical, emotional and social health, fitness and well-being, and the benefits of physical activity for each kind of health.
 9. **Diseases of Inactivity** (`staying-safe/diseases-of-inactivity`) — diseases of inactivity: the hypokinetic diseases of sitting still — heart disease, hypertension, obesity and diabetes — and how activity prevents them — taught in the United Kingdom's Edexcel GCSE PE Student Book as the consequences of a sedentary lifestyle, and obesity and body types (somatotypes).
 10. **Hardening the Body** (`staying-safe/hardening-the-body`) — hardening the body: using air, sun, water and natural terrain to harden the body and build fitness, safely — taught in Tajikistan's Grades 1–4 Physical Culture book as sun, air and water — our best friends (including walking barefoot on grass and sand in summer), and water and the drinking regime — how much water to drink and when.
+11. **Eating a Balanced Diet** (`staying-safe/eating-a-balanced-diet`) — eating a balanced diet: the nutrients and food groups, what each does, and building balanced meals and menus — taught in Turkmenistan's Bedenterbiýe as the foundations of proper nutrition: the nutrition regime, the main composition of food, and the hygiene characterisation of the main food products.
+12. **Saying No to Drugs, Alcohol and Tobacco** (`staying-safe/saying-no-to-drugs-alcohol-and-tobacco`) — saying no to drugs, alcohol and tobacco: what these substances do, addiction, secondhand smoke, and refusing and quitting — taught in Turkmenistan's Bedenterbiýe as the harmful habits that damage health (Saglyga zeper ýetirýän zyýanly endikler) — the habits that injure health and why to stay away from them.
 
 ## Unit 2 — Fair Play and the Body
 

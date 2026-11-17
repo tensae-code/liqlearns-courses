@@ -36,3 +36,9 @@ lessons, bringing this course to 13 lessons.
 The Health expansion then added (Tajikistan): **Hardening
 the Body** (`staying-safe/hardening-the-body`) — 1 new lesson,
 bringing this course to 14 lessons.
+
+The Health expansion then added (Turkmenistan): **Eating a
+Balanced Diet** (`staying-safe/eating-a-balanced-diet`) and
+**Saying No to Drugs, Alcohol and Tobacco**
+(`staying-safe/saying-no-to-drugs-alcohol-and-tobacco`) —
+2 new lessons, bringing this course to 16 lessons.
