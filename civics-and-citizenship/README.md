@@ -108,3 +108,17 @@ sources, as provenance.
   2008 first edition, COMPLETE — its Unit Two colonial-history
   narrative named, not placed). See `micronesia/ABOUT.md` for
   the full book list and the acceptance reckoning.
+- **Switzerland** — [`switzerland/`](switzerland/) · 9 lessons:
+  Levels 1–2 — one cantonal unit, "Care or Coercion?", at two
+  depths: the pupil reader's introduction and five true cases
+  (the Albin family, Uschi Waser, Cornelia Studer, Florian
+  Branger, Ruedi Hofer) and whether amends can be made, then
+  the same cases re-worked at Sek II from the full documentary
+  record, from the Kanton Graubünden teaching unit *Sorge oder
+  Zwang? / Assistenza o coercizione? / Agid u sforz?*
+  (Lehrmittel Graubünden, 2020: pupil reader, Italian edition,
+  COMPLETE, with its Sek I and Sek II teacher companions as
+  labelled evidence; the German reader and German Sek II
+  companion are phantom-push records, absent from the tree).
+  See `switzerland/ABOUT.md` for the full book list and the
+  acceptance reckoning.
