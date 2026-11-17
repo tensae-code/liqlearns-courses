@@ -1,18 +1,29 @@
 # Sources — Citizenship What It Means
 
-countries: Haiti
+countries: Haiti, Syria
 
 **Book 5:** *Sciences humaines et sociales — Éducation à la citoyenneté — La citoyenne, le citoyen et la citoyenneté haïtienne et caribéenne* (teacher sequence, French) — Title as printed: Sciences humaines et sociales — Éducation à la citoyenneté — La citoyenne, le citoyen et la citoyenneté haïtienne et caribéenne (Projet Nectar, MENFP, 8e année). Grade: Grade 8 (student/teacher: TEACHER). Publisher: MENFP / Projet Nectar (Canoprof); year not printed; no ISBN printed (CC BY-NC-SA licence printed). PDF pages: 30 (cover verified against the record title; 841,675 bytes, grab.py size/SHA verified). Earlier waves: Geography wave filed it record-only (pure Civics); History wave record-only (pure Civics); Economics wave record-only (no Economics parts) — its civics strands are placed here for the first time. Verdict: COMPLETE. Contents map: Civics/Citizenship/Government pp. 7–30 (whole book); Morals/Values pp. 11–13 (citizenship as values and responsibility, inside Séance 2); Economics p. 14 named only (taxation is taught here as a civic duty, placed below as civics; its economic mechanics were the Economics wave's to place and it filed none). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/haiti-placements.md. Teacher guide — evidence only, outside the acceptance count.
+
+**Book 6:** *الدراسات الاجتماعية — الصف الرابع (Social Studies, Fourth Grade)* (student book, Arabic) — Title as printed: الدراسات الاجتماعية — الصف الرابع (Social Studies, Fourth Grade). Grade: Grade 4 (student/teacher: STUDENT). Publisher: Ministry of Education, Syrian Arab Republic; year 2025–2026 (1447 H); no ISBN printed. PDF pages: 112 (cover/title page verified visually against the record title; 271,613,622 bytes = the record's size exactly. Fetched, like Books 4 and 5, from the links file's Wayback capture of the ministry curricula portal PDF because the GitHub release route was unreachable this session; the book is already secured in GitHub, so nothing is staged). Earlier waves: Geography wave placed Units 1 and 3 (nature, life in Syria); History wave placed Unit 2 (Syria and history); Economics wave placed Unit 4 (pillars of the economy) — all three named Unit 5, Citizenship, as this wave's ground. Verdict: COMPLETE. Contents map: Civics/Citizenship pp. 98–108 (Unit 5 Citizenship in Syria: what citizenship is; rights; duties; the martyrs); Geography pp. 8–33, 51–75 (Units 1 and 3); History pp. 34–50 (Unit 2); Economics pp. 76–97 (Unit 4); unit exercises pp. 109–112 (assessment — excluded, named here; Syria's administrative ladder, governorate–region–district–village and its officials, appears only inside a matching exercise there and is inventory-only) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/syria-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — culture-and-work/citizen-and-citizenship-notions — Séance 1 Citoyen(ne), citoyenneté, des notions historiques et contemporaines — teaches: the citizen and citizenship as notions with a history, built collectively and tied to nationality, from the Haitian Constitution's Preamble (inalienable rights to life, liberty and the pursuit of happiness, the 1804 Act of Independence, the 1948 Universal Declaration) and Rousseau's social contract in annex — Haiti Grade 8 EC3 8e Citoyenneté, printed p. 7 | Haiti, *La citoyenne, le citoyen et la citoyenneté haïtienne et caribéenne (EC3 8e Citoyenneté)* (teacher sequence), Séance 1 Citoyen(ne), citoyenneté, des notions historiques et contemporaines — printed p. 7 (teacher guide — evidence) |
 | Sub lesson 2 — Haiti's way — the book's own teaching way | Haiti — the book's own way of teaching (see below) |
 
-**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Haiti), named here, counted nowhere.**
+| Lesson part | Where it comes from |
+|---|---|
+| Syria part 1 — culture-and-work/citizenship-what-it-means-to-belong-to-my-country — Unit 5 opener المواطنة في سورية (Citizenship in Syria) — teaches: the book's own definition of citizenship — it is love of the land, defending it, enjoying the rights, committing to the duties, and respecting the systems and laws of the state — the frame the whole unit then fills in — Syria Grade 4 Social Studies G4, printed p. 98 | Syria, *Social Studies Grade 4* (student book), Unit 5 opener المواطنة في سورية (Citizenship in Syria) — printed p. 98 |
+| Syria's way — the book's own teaching way | Syria — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Syria). Haiti is named here as teacher-guide evidence only, counted nowhere.**
 
 Haiti's own way: Citizenship is closed by the money bond: after defining the citizen and practising engagement, pupils end on contribution — the civic duty to pay taxes (Constitution article 52) and the state's duty to redistribute in national solidarity.
 
 Registry note: the original coined string `culture-and-work/citizen-and-citizenship-notions` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/citizenship-what-it-means`.
 
-Searchable tags: citizenship what it means, Haiti, social studies, culture-and-work
+Syria's own way (Social Studies Grade 4): Grade 4 drops the Me-and-You ring structure for a straight civics unit that defines citizenship in one sentence — love of the land, defending it, enjoying the rights, committing to the duties, respecting the state's systems and laws — then cashes each word out: rights are what the state hands the citizen free (school, clinic, clean streets), duties are what the citizen hands back, down to crossing at the pedestrian crossing and not throwing litter; the unit closes by honouring the martyrs.
+
+Registry note: the original coined string `culture-and-work/citizenship-what-it-means-to-belong-to-my-country` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/citizenship-what-it-means`.
+
+Searchable tags: citizenship what it means, Haiti, social studies, culture-and-work, Syria

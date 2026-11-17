@@ -1,0 +1,16 @@
+# Sources — Cultural Institutions Libraries Museums and Cultural Centres
+
+countries: Syria
+
+**Book 1:** *الدراسات الاجتماعية — الصف السادس (Social Studies, Sixth Grade)* (student book, Arabic) — Title as printed: الدراسات الاجتماعية — الصف السادس (Social Studies, Sixth Grade). Grade: Grade 6 (student/teacher: STUDENT). Publisher: Ministry of Education, Syrian Arab Republic; year 2025–2026 (1447 H); no ISBN printed. PDF pages: 116 (cover/title page verified against the record title; read in place in phase3-staging, 35,135,330 bytes). Earlier waves: Geography wave placed pp. 8–113 (Geography parts of Units 1, 2, 4, 5); History wave placed the History lessons of Units 1, 2, 4, 5; Economics wave placed the resources lessons — all three named Unit 1 Lesson 5 (the state) and Unit 3 (family and institutions) as Civics, not placed. Verdict: COMPLETE. Contents map: Civics/Citizenship/Government pp. 30–34 (Unit 1 Lesson 5: the state — its concept and components); Integrated SS pp. 66–80 (Unit 3: the family and institutions, cultural institutions); Geography pp. 8–29, 37–48, 55–64, 82–91, 102–109; History pp. 15–29, 49–54, 92–99, 110–113; unit assessment questions pp. 35, 65, 80, 99 (excluded as assessment, named here) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/syria-placements.md. WRONG-FILE RECORD NOTE, exactly as filed: Syria's Grade 5 record (Book 3 of the placements file) holds this same Grade 6 book — RECORD-ONLY — wrong book behind the record; the file actually held is الدراسات الاجتماعية — الصف السادس (Social Studies, SIXTH Grade), 2025–2026, carrying an almanahij-sy.com watermark, 116 PDF pages; its content is filed once, under Grade 6 (this book); the real Grade 5 Social Studies book is not in hand — a library debt.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — culture-and-work/cultural-institutions-libraries-museums-and-cultural-centres — Unit 3 Lesson 3 المؤسسات الثقافية (Cultural institutions) — teaches: the institutions that carry a culture — libraries, museums and cultural centres and the media, which enlighten citizens and guard their heritage; the Library of Alexandria old and new and Souk Okaz as cases, and the Ministry of Culture's work in Syria (book fairs, festivals, Damascus Arab Capital of Culture) — Syria Grade 6 Social Studies G6, printed p. 76 | Syria, *Social Studies Grade 6* (student book), Unit 3 Lesson 3 المؤسسات الثقافية (Cultural institutions) — printed p. 76 (the same Grade 6 book also sits behind Syria's Grade 5 record — RECORD-ONLY, WRONG BOOK BEHIND THE RECORD; its content is filed once, under Grade 6, exactly as filed) |
+| Sub lesson 2 — Syria's way — the book's own teaching way | Syria — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Syria).**
+
+Syria's own way (Social Studies Grade 6): civics is taught inside the Arab-world regional tour — the state lesson interrupts the geography of Africa to define the state from Syria's own case (sovereignty won 17 April 1946, land, nation, authority), and the family/institutions unit teaches society as a ladder of organised groups, from the family cell to the cultural institutions the Ministry of Culture runs.
+
+Searchable tags: cultural institutions libraries museums and cultural centres, Syria, social studies, culture-and-work

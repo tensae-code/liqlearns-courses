@@ -1,0 +1,16 @@
+# Sources — The Right Decision Thinking Honestly Before I Choose
+
+countries: Syria
+
+**Book 1:** *الدراسات الاجتماعية — الصف الثاني الأساسي (Social Studies, Second Grade Basic)* (student book, Arabic) — Title as printed: الدراسات الاجتماعية — الصف الثاني الأساسي (Social Studies, Second Grade Basic). Grade: Grade 2 (student/teacher: STUDENT). Publisher: Ministry of Education, Syrian Arab Republic; year 2025–2026 (1447 H); no ISBN printed. PDF pages: 96 (cover/title page verified visually against the record title; 266,065,947 bytes = the record's size exactly. Fetched, like Book 4, from the links file's Wayback capture of the ministry curricula portal PDF because the GitHub release route was unreachable this session; the book is already secured in GitHub, so nothing is staged. Page citations are the printed footer numbers — this book's contents list runs two pages higher than its footers). Earlier waves: Geography wave placed pp. 44–80 (safety, environment); History wave placed pp. 26–29, 56–57, 84–91 (growing up, heritage, antiquities, past and present); Economics wave placed p. 94 (choosing purchases) and named the rest. Verdict: COMPLETE. Contents map: Integrated SS pp. 8–25 (Unit 1 Me — who am I, feelings, achieving my goal, the right decision, I protect myself); pp. 26–39 (Unit 2 Me and You — small ones grown ones, friends, dialogue); Civics/Citizenship pp. 46–47 (for me and for you: rights and duties), p. 82 (my homeland's flag); Morals/Values pp. 30–45 (friendship, dialogue manners, correct behaviour, being careful); Geography pp. 48–80 (dwellers of the earth, building in my homeland, My Environment unit); History pp. 26–29, 56–57, 84–91; Economics pp. 94–95 (I choose my purchases); closing projects p. 96 (activity pages, named, not placed) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — culture-and-work/the-right-decision-thinking-honestly-before-i-choose — Unit 1 Lesson 4 القرار المناسب (The right decision) — teaches: deciding honestly — the shopkeeper who used to give a small sweet with the father's permission offers the boy, alone today, an expensive piece free if he tells no one; the class weighs the request, sorts which decisions are mine, mine-with-family, or others', works decision situations, and keeps a diary of decisions taken and why — Syria Grade 2 Social Studies G2, printed p. 16 | Syria, *Social Studies Grade 2* (student book), Unit 1 Lesson 4 القرار المناسب (The right decision) — printed p. 16 |
+| Sub lesson 2 — Syria's way — the book's own teaching way | Syria — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Syria).**
+
+Syria's own way (Social Studies Grade 2): Grade 2 is the honesty-and-safety year — the right-decision lesson turns on a shopkeeper who offers a boy an expensive sweet free if he tells no one, the careful lesson warns that things found on the road may be explosives, and rights arrive as a shipwreck game: children who trash a dream island invent rules, and discover the balance — "my right to enjoy nature, my duty to protect it".
+
+Searchable tags: the right decision thinking honestly before i choose, Syria, social studies, culture-and-work
