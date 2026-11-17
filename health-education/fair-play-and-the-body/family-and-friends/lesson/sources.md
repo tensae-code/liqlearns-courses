@@ -1,8 +1,8 @@
 # Sources — Family and Friends
 
-countries: Namibia, Samoa
+countries: Namibia, Samoa, Timor-Leste
 
-**Acceptance count: taught in 0 countries.** Namibia is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson.
+**Acceptance count: taught in 1 country.** Namibia is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count).
 
 **Book 1 — Physical Education 4 Life: A Guide for Physical Education Teachers in Namibia, Grades 10–11 (teacher guide, English) — Health parts:**
 - Title as printed: Physical Education 4 Life — A Guide for Physical Education Teachers in Namibia — Grades 10–11
@@ -50,4 +50,34 @@ This is a canonical NEW lesson (slug-registry Part 1: `fair-play-and-the-body/fa
 
 Samoa is added as curriculum-statement / teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — both Samoa books are TEACHER books (Book 1 a curriculum statement for teachers, Book 2 a teacher guide), so Samoa is named in the countries line and provenance row(s) but the acceptance count is unchanged (still taught in 0 countries). Both Samoa placements were filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson `fair-play-and-the-body/family-and-friends` by registry Part 2B (HELD descriptions: "Relationships, family and community health, Years 1–8" and "Communication, relationships and networks, Years 11–12 Units 1 and 3"), and the original string is recorded in the provenance rows above. Samoa's own way is content, as the book line(s) above record it: relationships are taught through Samoa's own health promotion days — Samoan Food Day and Diabetes Day among them — and senior communication is taught as family health networks, starting feelings-talk with "I think / I feel".
 
-Searchable tags: family and friends, healthy relationships, gender and sex, sex is not gender, Healthy Lifestyle Sessions 5 and 8, Namibia PE4Life Guide, relationships family community health promotion days Samoan Food Day Diabetes Day, communication feelings I think I feel family health networks, Samoa Years 1–8 Curriculum, Samoa Years 11–12 TG
+**Book 1 — Saúde e Bem-Estar 7, Manual do aluno (student book, Portuguese/Tetum):**
+- Title as printed: Saúde e Bem-Estar / Saúde no Rahun-Di'ak 7 — Manual do aluno / Manuál ba estudante
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Ministério da Educação (Ministériu Edukasaun), Timor-Leste; year not printed on the cover; no ISBN printed
+- PDF pages: 263 (cover verified against the record title, "Saude - K7.pdf"; this is the second, unnamed Saúde e Bem-Estar Drive record — the file behind it is the student book)
+- Verdict: COMPLETE
+- Tally: 20 placements — 0 to existing lessons, 20 NEW LESSON NEEDED
+- Timor-Leste's own way: health is taught as "holistic health" in five linked areas (physical, social, emotional, spiritual, intellectual), then through Timor-Leste's real health burdens — malnutrition and stunting, iron and anaemia, diarrhoea and sanitation, disasters — with a full unit on gender and one on social-media health; every period ends in an investigation or a personal plan (period assessment tasks themselves are excluded per the brief, named here only).
+- Records: 2 records / 2 distinct books in the Timor-Leste Health placements file.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/timor-leste-health-placements.md (Book 1 of that file).
+
+**Book 2 — Saúde e Bem-Estar 7, Guia do professor (teacher guide, Portuguese/Tetum):**
+- Title as printed: Saúde e Bem-Estar / Saúde no Rahun-Di'ak — Guia do professor / Matadalan ba manorin, 7
+- Grade: 7 (student/teacher: TEACHER)
+- Publisher: Ministério da Educação (Ministériu Edukasaun), Timor-Leste; year not printed on the cover; no ISBN printed
+- PDF pages: 214 (cover verified against the record title, "Saude - K7.pdf")
+- Verdict: COMPLETE
+- Tally: 0 placements filed from this book — it carries the same ten units as Book 1 as full lesson plans (its index matches the student book's unit-for-unit) and is filed as the student book's evidence pair; per the brief a teacher guide is evidence, never a substitute, and its content is not double-placed.
+- Timor-Leste's own way: the guide opens each period with a teacher's note that frames the period's health idea (for Period 1: holistic health's five areas, why the gender unit is the period's biggest, and why self-esteem and body image matter for today's young people).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/timor-leste-health-placements.md (Book 2 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Timor-Leste — Unit 1: Trust, mutual respect and respect in the classroom — the respect ground rules for talking about health (original string `staying-safe/HELD-title-decision`) | Timor-Leste, *Saúde e Bem-Estar 7, Manual do aluno* (Timor-Leste Grade 7 Saúde e Bem-Estar Student Book), Unit 1, printed p. 24 |
+| Timor-Leste — Unit 2: What gender means — gender, gender norms and the myths about gender (original string `staying-safe/HELD-title-decision`) | Timor-Leste, *Saúde e Bem-Estar 7, Manual do aluno* (Timor-Leste Grade 7 Saúde e Bem-Estar Student Book), Unit 2, printed p. 31 |
+| Timor-Leste — Unit 2: Gender investigation — a four-part class investigation into gender in our community (original string `staying-safe/HELD-title-decision`) | Timor-Leste, *Saúde e Bem-Estar 7, Manual do aluno* (Timor-Leste Grade 7 Saúde e Bem-Estar Student Book), Unit 2, printed p. 52 |
+| Timor-Leste — Unit 7: Social diversity and inclusion — celebrating diversity and inclusion, with an action plan for inclusion and respect (original string `staying-safe/HELD-title-decision`) | Timor-Leste, *Saúde e Bem-Estar 7, Manual do aluno* (Timor-Leste Grade 7 Saúde e Bem-Estar Student Book), Unit 7, printed p. 160 (teacher-guide index) |
+
+Timor-Leste is added as student-book stock (see its book lines and rows above), inside the acceptance count — Book 1 is a STUDENT book, so Timor-Leste is named in the countries line and provenance rows and the acceptance count rises (now taught in 1 country). Book 2, the teacher guide, is filed as evidence only, outside the acceptance count — it carries the same ten units as Book 1 as full lesson plans and is the student book's evidence pair; its content is not double-placed. All four Timor-Leste placements were filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson `fair-play-and-the-body/family-and-friends` by registry Part 2B (HELD descriptions: "Unit 1: Trust, mutual respect and respect in the classroom — the respect ground rules for talking about health", "Unit 2: What gender means — gender, gender norms and the myths about gender", "Unit 2: Gender investigation — a four-part class investigation into gender in our community" and "Unit 7: Social diversity and inclusion — celebrating diversity and inclusion, with an action plan for inclusion and respect"), and the original string is recorded in the provenance rows above. Timor-Leste's own way is content, as the book lines above record it: the respect ground rules for talking about health open the course, a full unit teaches what gender means — gender, gender norms and the myths about gender — with a four-part class investigation into gender in the community, and diversity and inclusion are taught with an action plan for inclusion and respect. Page numbers for Units 1–5 are the student book's own index; for Units 6–10 they follow the teacher guide's index (the student book prints the same units a few pages later), as filed. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: family and friends, healthy relationships, gender and sex, sex is not gender, Healthy Lifestyle Sessions 5 and 8, Namibia PE4Life Guide, relationships family community health promotion days Samoan Food Day Diabetes Day, communication feelings I think I feel family health networks, Samoa Years 1–8 Curriculum, Samoa Years 11–12 TG, trust mutual respect classroom ground rules, gender gender norms myths about gender, gender investigation community, social diversity inclusion action plan, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book

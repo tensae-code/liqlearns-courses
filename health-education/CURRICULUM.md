@@ -401,6 +401,32 @@ staging paths under the push-don't-delete rule, as filed.
 No Samoa placement resolves to a PE-course lesson, so none
 was excluded as PE-bound.
 
+**Health expansion — Timor-Leste — BUILT 2026-11-16:** 20 placements
+stocked — 19 into existing lessons (What Health Is, Family
+and Friends ×4, Knowing Myself and My Feelings ×2, Staying
+Safe Online, Puberty and Growing Up, Keeping My Body Clean,
+Eating a Balanced Diet ×3, Malnutrition, Mental Health and
+Wellbeing, Common Illnesses and Caring for the Sick,
+Preventing Common Diseases, Staying Safe in Disasters ×2)
+and 1 as a new lesson (Sleep and Rest) — bringing this
+course to **46 lessons**. All 20 placements are from Book 1,
+*Saúde e Bem-Estar 7, Manual do aluno* (Grade 7 student book,
+Portuguese/Tetum, Ministério da Educação, Timor-Leste,
+COMPLETE); Book 2, *Saúde e Bem-Estar 7, Guia do professor*
+(Grade 7 teacher guide, COMPLETE), carries the same ten
+units as lesson plans and is filed as the student book's
+evidence pair with 0 placements — a teacher guide is
+evidence only, outside the acceptance counts, and its
+content is not double-placed. Book 1 is a STUDENT book, so
+Timor-Leste is student-book stock, inside the acceptance
+count, in every lesson it touches (each touched lesson's
+count rose by 1; the new lesson stands at acceptance
+count 1). Page numbers for Units 1–5 are the student book's
+own index; for Units 6–10 they follow the teacher guide's
+index (the student book prints the same units a few pages
+later), as filed. No Timor-Leste placement resolves to a
+PE-course lesson, so none was excluded as PE-bound.
+
 ## Unit 1 — Staying Safe
 
 1. **Hygiene for Sport — Wash After Exercise** (`staying-safe/hygiene-for-sport`) — personal hygiene around sport: sweat and dirt left unwashed become a breeding place for bacteria — so wash the body after PE and sport, keep sports…
@@ -448,6 +474,7 @@ was excluded as PE-bound.
 34. **Protecting Myself from Abuse** (`staying-safe/protecting-myself-from-abuse`) — protecting myself from abuse: my body belongs to me — private parts and safe touch, kinds of abuse, gender-based violence, trafficking, child marriage, and getting help — taught in Zambia's Health Teacher Training Manual 2025 as corporal punishment (its harms and positive discipline instead), gender-based violence and child abuse (recognising abuse and the teacher's duty to protect and report), and ending child marriage — the harms of early marriage and keeping girls in school (Zambia teacher training manual, evidence only).
 35. **Water Safety** (`staying-safe/water-safety`) — water safety: staying safe in and around water — pools, rivers and the sea — taught in Samoa's Years 1–8 Curriculum as simple water safety rules for river, sea and swimming pools, practised every year, with swimming classes (optional) (Samoa curriculum statement, evidence only).
 36. **Health Services and Health Workers** (`staying-safe/health-services-and-health-workers`) — health services and health workers: doctors, nurses and health workers, clinics and hospitals, health checks and screening, patient rights, and health information and promotion in the community — taught in Samoa's Years 11–12 Teacher Guide as family and community health promotion: family health issues, family involvement in health promotion, health agencies and where to find them (AIDS awareness, family planning and others), effective use of community resources, the rights of all community members to good health, and village co-operatives such as Asiasiga Maumaga (taro growers) whose labour-intensive work keeps them fit (Samoa teacher guide, evidence only).
+37. **Sleep and Rest** (`staying-safe/sleep-and-rest`) — sleep and rest: why the body and mind need sleep and rest, and sleeping well — taught in Timor-Leste's Grade 7 *Saúde e Bem-Estar* student book as social media, sleep and sleep hygiene: how social media affects sleep, and what sleep hygiene is (Unit 4, printed p. 97).
 
 ## Unit 2 — Fair Play and the Body
 

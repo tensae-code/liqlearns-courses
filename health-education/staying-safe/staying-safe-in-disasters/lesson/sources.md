@@ -1,8 +1,8 @@
 # Sources — Staying Safe in Disasters
 
-countries: El Salvador, Samoa
+countries: El Salvador, Samoa, Timor-Leste
 
-**Acceptance count: taught in 1 country.** El Salvador is filed as student-book stock, inside the acceptance count, in this lesson.
+**Acceptance count: taught in 2 countries.** El Salvador is filed as student-book stock, inside the acceptance count, in this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count).
 
 **Book 1 — Ciencia, Salud y Medio Ambiente 1 (student book, Spanish):**
 - Title as printed: Ciencia, Salud y Medio Ambiente 1 (Colección Cipotas y Cipotes)
@@ -39,4 +39,32 @@ This is a canonical NEW lesson (slug-registry Part 1: `staying-safe/staying-safe
 
 Samoa is added as curriculum-statement / teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — both Samoa books are TEACHER books (Book 1 a curriculum statement for teachers, Book 2 a teacher guide), so Samoa is named in the countries line and provenance row(s) but the acceptance count is unchanged (still taught in 1 country). The Samoa placement was filed under the original string `staying-safe/staying-safe-in-natural-disasters`, resolved to this canonical lesson `staying-safe/staying-safe-in-disasters` by registry Part 2A, and the original string is recorded in the provenance row above. Samoa's own way is content, as the book line(s) above record it: protection teaching is built around Samoa's real hazards — cyclones and tsunamis head the disaster list alongside fire, earthquake, floods, volcanic eruption and landslide.
 
-Searchable tags: staying safe in disasters, earthquakes, tremors, keeping calm, sheltering beside a strong desk, drill simulacro, El Salvador Ciencia Salud y Medio Ambiente 1, Cuando la Tierra se mece, disaster safety fire earthquake floods cyclone hurricane volcanic eruption tsunami landslide, Samoa Years 1–8 Curriculum
+**Book 1 — Saúde e Bem-Estar 7, Manual do aluno (student book, Portuguese/Tetum):**
+- Title as printed: Saúde e Bem-Estar / Saúde no Rahun-Di'ak 7 — Manual do aluno / Manuál ba estudante
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Ministério da Educação (Ministériu Edukasaun), Timor-Leste; year not printed on the cover; no ISBN printed
+- PDF pages: 263 (cover verified against the record title, "Saude - K7.pdf"; this is the second, unnamed Saúde e Bem-Estar Drive record — the file behind it is the student book)
+- Verdict: COMPLETE
+- Tally: 20 placements — 0 to existing lessons, 20 NEW LESSON NEEDED
+- Timor-Leste's own way: health is taught as "holistic health" in five linked areas (physical, social, emotional, spiritual, intellectual), then through Timor-Leste's real health burdens — malnutrition and stunting, iron and anaemia, diarrhoea and sanitation, disasters — with a full unit on gender and one on social-media health; every period ends in an investigation or a personal plan (period assessment tasks themselves are excluded per the brief, named here only).
+- Records: 2 records / 2 distinct books in the Timor-Leste Health placements file.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/timor-leste-health-placements.md (Book 1 of that file).
+
+**Book 2 — Saúde e Bem-Estar 7, Guia do professor (teacher guide, Portuguese/Tetum):**
+- Title as printed: Saúde e Bem-Estar / Saúde no Rahun-Di'ak — Guia do professor / Matadalan ba manorin, 7
+- Grade: 7 (student/teacher: TEACHER)
+- Publisher: Ministério da Educação (Ministériu Edukasaun), Timor-Leste; year not printed on the cover; no ISBN printed
+- PDF pages: 214 (cover verified against the record title, "Saude - K7.pdf")
+- Verdict: COMPLETE
+- Tally: 0 placements filed from this book — it carries the same ten units as Book 1 as full lesson plans (its index matches the student book's unit-for-unit) and is filed as the student book's evidence pair; per the brief a teacher guide is evidence, never a substitute, and its content is not double-placed.
+- Timor-Leste's own way: the guide opens each period with a teacher's note that frames the period's health idea (for Period 1: holistic health's five areas, why the gender unit is the period's biggest, and why self-esteem and body image matter for today's young people).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/timor-leste-health-placements.md (Book 2 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Timor-Leste — Unit 10: Disasters and health — types of disasters and their impact on health (original string `staying-safe/disaster-safety-and-a-personal-disaster-plan`) | Timor-Leste, *Saúde e Bem-Estar 7, Manual do aluno* (Timor-Leste Grade 7 Saúde e Bem-Estar Student Book), Unit 10, printed p. 195 (teacher-guide index) |
+| Timor-Leste — Unit 10: My personal disaster plan — personal disaster response, my own disaster plan, and emergency contact numbers (original string `staying-safe/disaster-safety-and-a-personal-disaster-plan`) | Timor-Leste, *Saúde e Bem-Estar 7, Manual do aluno* (Timor-Leste Grade 7 Saúde e Bem-Estar Student Book), Unit 10, printed p. 202 (teacher-guide index) |
+
+Timor-Leste is added as student-book stock (see its book lines and rows above), inside the acceptance count — Book 1 is a STUDENT book, so Timor-Leste is named in the countries line and provenance rows and the acceptance count rises (now taught in 2 countries). Book 2, the teacher guide, is filed as evidence only, outside the acceptance count — it carries the same ten units as Book 1 as full lesson plans and is the student book's evidence pair; its content is not double-placed. Both Timor-Leste placements were filed under the original string `staying-safe/disaster-safety-and-a-personal-disaster-plan`, resolved to this canonical lesson `staying-safe/staying-safe-in-disasters` by registry Part 2A, and the original string is recorded in the provenance rows above. Each placement is carried in its own provenance row. Page numbers for Unit 10 follow the teacher guide's index (the student book prints the same units a few pages later), as filed. Timor-Leste's own way is content, as the book lines above record it: disasters are taught through their impact on health, and every learner makes a personal disaster plan with emergency contact numbers. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: staying safe in disasters, earthquakes, tremors, keeping calm, sheltering beside a strong desk, drill simulacro, El Salvador Ciencia Salud y Medio Ambiente 1, Cuando la Tierra se mece, disaster safety fire earthquake floods cyclone hurricane volcanic eruption tsunami landslide, Samoa Years 1–8 Curriculum, disasters and health types of disasters impact on health, personal disaster plan emergency contact numbers, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book

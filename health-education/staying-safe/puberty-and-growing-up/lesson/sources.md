@@ -1,8 +1,8 @@
 # Sources — Puberty and Growing Up
 
-countries: Jordan, Kiribati, Namibia
+countries: Jordan, Kiribati, Namibia, Timor-Leste
 
-**Acceptance count: taught in 1 country.** Jordan is filed as student-book stock, inside the acceptance count, in this lesson. Kiribati is filed as teacher-guide evidence only — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Kiribati row. Namibia is filed as teacher-guide evidence only — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Namibia row.
+**Acceptance count: taught in 2 countries.** Jordan is filed as student-book stock, inside the acceptance count, in this lesson. Kiribati is filed as teacher-guide evidence only — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Kiribati row. Namibia is filed as teacher-guide evidence only — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Namibia row. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count).
 
 **Book 7 — التربية الرياضية — الصف التاسع — الفصل الدراسي الثاني (Physical Education, Grade Nine, Second Semester) (student book, Arabic):**
 - Title as printed: التربية الرياضية — الصف التاسع — الفصل الدراسي الثاني (Physical Education, Grade Nine, Second Semester)
@@ -46,4 +46,31 @@ Kiribati is added as teacher-guide evidence only (see its book line and row abov
 
 Namibia is added as teacher-guide evidence only (see its book line and row above), outside the acceptance count — the Namibia book is a TEACHER guide, so Namibia is named in the countries line and provenance row but the acceptance count is unchanged (still taught in 1 country). The Namibia placement was filed under the original string `staying-safe/puberty-and-growing-up`, this canonical slug itself (slug-registry Part 1). Namibia's own way is content, as the book line above records it: puberty is taught inside a PE session — what changes and how to handle it — worked through in the team circle. The other Namibia records are not placed in this lesson, as filed: Record 1 of the Health placements file, the Namibia Learning Passport, is RECORD-ONLY — a learning platform (course categories behind sign-in), not a textbook, with 0 placements; Record 2, the NIED Senior Primary Textbook Catalogue, Grades 4–7 (2015), is RECORD-ONLY — an official approved-textbook catalogue, not a teaching book, with 0 placements.
 
-Searchable tags: puberty what changes and how to handle it, Healthy Lifestyle Session 7, Namibia PE4Life Guide, puberty and growing up, adolescence and sport, adolescence stage between childhood and maturity, sport as a lifestyle, timetable variety balance self-reward, stronger muscles and bones, mental health, self-confidence, Health Concepts and Habits, Jordan NCCD Physical Education Grade 9, what puberty is, body changes of puberty, hormones, new emotions, Kiribati WASH MHM Guide
+**Book 1 — Saúde e Bem-Estar 7, Manual do aluno (student book, Portuguese/Tetum):**
+- Title as printed: Saúde e Bem-Estar / Saúde no Rahun-Di'ak 7 — Manual do aluno / Manuál ba estudante
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Ministério da Educação (Ministériu Edukasaun), Timor-Leste; year not printed on the cover; no ISBN printed
+- PDF pages: 263 (cover verified against the record title, "Saude - K7.pdf"; this is the second, unnamed Saúde e Bem-Estar Drive record — the file behind it is the student book)
+- Verdict: COMPLETE
+- Tally: 20 placements — 0 to existing lessons, 20 NEW LESSON NEEDED
+- Timor-Leste's own way: health is taught as "holistic health" in five linked areas (physical, social, emotional, spiritual, intellectual), then through Timor-Leste's real health burdens — malnutrition and stunting, iron and anaemia, diarrhoea and sanitation, disasters — with a full unit on gender and one on social-media health; every period ends in an investigation or a personal plan (period assessment tasks themselves are excluded per the brief, named here only).
+- Records: 2 records / 2 distinct books in the Timor-Leste Health placements file.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/timor-leste-health-placements.md (Book 1 of that file).
+
+**Book 2 — Saúde e Bem-Estar 7, Guia do professor (teacher guide, Portuguese/Tetum):**
+- Title as printed: Saúde e Bem-Estar / Saúde no Rahun-Di'ak — Guia do professor / Matadalan ba manorin, 7
+- Grade: 7 (student/teacher: TEACHER)
+- Publisher: Ministério da Educação (Ministériu Edukasaun), Timor-Leste; year not printed on the cover; no ISBN printed
+- PDF pages: 214 (cover verified against the record title, "Saude - K7.pdf")
+- Verdict: COMPLETE
+- Tally: 0 placements filed from this book — it carries the same ten units as Book 1 as full lesson plans (its index matches the student book's unit-for-unit) and is filed as the student book's evidence pair; per the brief a teacher guide is evidence, never a substitute, and its content is not double-placed.
+- Timor-Leste's own way: the guide opens each period with a teacher's note that frames the period's health idea (for Period 1: holistic health's five areas, why the gender unit is the period's biggest, and why self-esteem and body image matter for today's young people).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/timor-leste-health-placements.md (Book 2 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Timor-Leste — Unit 5: Puberty — what puberty is, its changes and causes, and puberty and emotions (original string `staying-safe/HELD-title-decision`) | Timor-Leste, *Saúde e Bem-Estar 7, Manual do aluno* (Timor-Leste Grade 7 Saúde e Bem-Estar Student Book), Unit 5, printed p. 105 |
+
+Timor-Leste is added as student-book stock (see its book lines and row above), inside the acceptance count — Book 1 is a STUDENT book, so Timor-Leste is named in the countries line and provenance row and the acceptance count rises (now taught in 2 countries). Book 2, the teacher guide, is filed as evidence only, outside the acceptance count — it carries the same ten units as Book 1 as full lesson plans and is the student book's evidence pair; its content is not double-placed. The Timor-Leste placement was filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson `staying-safe/puberty-and-growing-up` by registry Part 2B (HELD description: "Unit 5: Puberty — what puberty is, its changes and causes, and puberty and emotions"), and the original string is recorded in the provenance row above. Timor-Leste's own way is content, as the book lines above record it: puberty is taught as what it is, its changes and causes, and puberty and emotions. This lesson teaches its placement only as the placements file summarises it, and names nothing the summary does not name.
+
+Searchable tags: puberty what changes and how to handle it, Healthy Lifestyle Session 7, Namibia PE4Life Guide, puberty and growing up, adolescence and sport, adolescence stage between childhood and maturity, sport as a lifestyle, timetable variety balance self-reward, stronger muscles and bones, mental health, self-confidence, Health Concepts and Habits, Jordan NCCD Physical Education Grade 9, what puberty is, body changes of puberty, hormones, new emotions, Kiribati WASH MHM Guide, puberty changes causes emotions, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book

@@ -1,8 +1,8 @@
 # Sources — Preventing Common Diseases
 
-countries: Namibia, China, Rwanda, Zambia
+countries: Namibia, China, Rwanda, Zambia, Timor-Leste
 
-**Acceptance count: taught in 1 country.** Namibia and Rwanda are filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. China is filed as student-book stock, inside the acceptance count, in this lesson. Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count (still taught in 1 country).
+**Acceptance count: taught in 2 countries.** Namibia and Rwanda are filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. China is filed as student-book stock, inside the acceptance count, in this lesson. Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count (still taught in 1 country). Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count).
 
 **Book 1 — Physical Education 4 Life: A Guide for Physical Education Teachers in Namibia, Grades 10–11 (teacher guide, English) — Health parts:**
 - Title as printed: Physical Education 4 Life — A Guide for Physical Education Teachers in Namibia — Grades 10–11
@@ -70,4 +70,31 @@ Rwanda is added as teacher-guide evidence only (see its book lines and rows abov
 
 Zambia is added as teacher training manual evidence only (see its book line and row above), outside the acceptance count — the Zambia book is a TEACHER training manual, so Zambia is named in the countries line and provenance row but the acceptance count is unchanged (still taught in 1 country). The Zambia placement was filed under the original string `staying-safe/the-human-body-and-germs`, resolved to this canonical lesson by registry Part 2 and recorded in the provenance row above. Zambia's own way is content, as the book line above records it: the human body and germs — body systems basics and how germs cause illness — open the manual's health-teaching chapters, taught to teachers as front-line school health work. The manual is PARTIAL as filed (see its book line): Module 1 and Module 4's programme-running chapters are school-health programme administration, named and not placed, the printed contents list skips Chapter 13, and the Appendices and References are inventory-only.
 
-Searchable tags: preventing common diseases, common diseases in Namibia, staying well, Healthy Lifestyle Session 6, Namibia PE4Life Guide, preventing infectious diseases, AIDS prevention, China Senior High PEP PE & Health, infectious disease games, games and sports in disease prevention, Transmitted Diseases Unit 9, Rwanda Grade 5 PE Teacher Guide MK Publishers, Rwanda Grade 6 PES Teacher Guide, REB Rwanda, the human body and germs, body systems basics, germs cause illness, Zambia Health Teacher Training Manual 2025
+**Book 1 — Saúde e Bem-Estar 7, Manual do aluno (student book, Portuguese/Tetum):**
+- Title as printed: Saúde e Bem-Estar / Saúde no Rahun-Di'ak 7 — Manual do aluno / Manuál ba estudante
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Ministério da Educação (Ministériu Edukasaun), Timor-Leste; year not printed on the cover; no ISBN printed
+- PDF pages: 263 (cover verified against the record title, "Saude - K7.pdf"; this is the second, unnamed Saúde e Bem-Estar Drive record — the file behind it is the student book)
+- Verdict: COMPLETE
+- Tally: 20 placements — 0 to existing lessons, 20 NEW LESSON NEEDED
+- Timor-Leste's own way: health is taught as "holistic health" in five linked areas (physical, social, emotional, spiritual, intellectual), then through Timor-Leste's real health burdens — malnutrition and stunting, iron and anaemia, diarrhoea and sanitation, disasters — with a full unit on gender and one on social-media health; every period ends in an investigation or a personal plan (period assessment tasks themselves are excluded per the brief, named here only).
+- Records: 2 records / 2 distinct books in the Timor-Leste Health placements file.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/timor-leste-health-placements.md (Book 1 of that file).
+
+**Book 2 — Saúde e Bem-Estar 7, Guia do professor (teacher guide, Portuguese/Tetum):**
+- Title as printed: Saúde e Bem-Estar / Saúde no Rahun-Di'ak — Guia do professor / Matadalan ba manorin, 7
+- Grade: 7 (student/teacher: TEACHER)
+- Publisher: Ministério da Educação (Ministériu Edukasaun), Timor-Leste; year not printed on the cover; no ISBN printed
+- PDF pages: 214 (cover verified against the record title, "Saude - K7.pdf")
+- Verdict: COMPLETE
+- Tally: 0 placements filed from this book — it carries the same ten units as Book 1 as full lesson plans (its index matches the student book's unit-for-unit) and is filed as the student book's evidence pair; per the brief a teacher guide is evidence, never a substitute, and its content is not double-placed.
+- Timor-Leste's own way: the guide opens each period with a teacher's note that frames the period's health idea (for Period 1: holistic health's five areas, why the gender unit is the period's biggest, and why self-esteem and body image matter for today's young people).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/timor-leste-health-placements.md (Book 2 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Timor-Leste — Unit 9: Preventing diarrhoea — prevention through hygiene, handwashing facilities, sanitation, and a safe bathroom and kitchen (original string `staying-safe/HELD-title-decision`) | Timor-Leste, *Saúde e Bem-Estar 7, Manual do aluno* (Timor-Leste Grade 7 Saúde e Bem-Estar Student Book), Unit 9, printed p. 180 (teacher-guide index) |
+
+Timor-Leste is added as student-book stock (see its book lines and row above), inside the acceptance count — Book 1 is a STUDENT book, so Timor-Leste is named in the countries line and provenance row and the acceptance count rises (now taught in 2 countries). Book 2, the teacher guide, is filed as evidence only, outside the acceptance count — it carries the same ten units as Book 1 as full lesson plans and is the student book's evidence pair; its content is not double-placed. The Timor-Leste placement was filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson `staying-safe/preventing-common-diseases` by registry Part 2B (HELD description: "Unit 9: Preventing diarrhoea — prevention through hygiene, handwashing facilities, sanitation, and a safe bathroom and kitchen"), and the original string is recorded in the provenance row above. The page number follows the teacher guide's index (the student book prints the same units a few pages later), as filed. Timor-Leste's own way is content, as the book lines above record it: preventing diarrhoea is taught through hygiene, handwashing facilities, sanitation, and a safe bathroom and kitchen. This lesson teaches its placement only as the placements file summarises it, and names nothing the summary does not name.
+
+Searchable tags: preventing common diseases, common diseases in Namibia, staying well, Healthy Lifestyle Session 6, Namibia PE4Life Guide, preventing infectious diseases, AIDS prevention, China Senior High PEP PE & Health, infectious disease games, games and sports in disease prevention, Transmitted Diseases Unit 9, Rwanda Grade 5 PE Teacher Guide MK Publishers, Rwanda Grade 6 PES Teacher Guide, REB Rwanda, the human body and germs, body systems basics, germs cause illness, Zambia Health Teacher Training Manual 2025, preventing diarrhoea hygiene handwashing facilities sanitation safe bathroom kitchen, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book

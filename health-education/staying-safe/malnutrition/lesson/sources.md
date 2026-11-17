@@ -1,8 +1,8 @@
 # Sources — Malnutrition
 
-countries: Zambia, Samoa
+countries: Zambia, Samoa, Timor-Leste
 
-**Acceptance count: taught in 0 countries.** Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson.
+**Acceptance count: taught in 1 country.** Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count).
 
 **Book 1 — Health Teacher Training, Participants Manual 2025 (teacher training manual, English):**
 - Title as printed: Health Teacher Training — Participants Manual (LB)
@@ -39,4 +39,31 @@ This is a canonical NEW lesson (slug-registry Part 1: `staying-safe/malnutrition
 
 Samoa is added as curriculum-statement / teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — both Samoa books are TEACHER books (Book 1 a curriculum statement for teachers, Book 2 a teacher guide), so Samoa is named in the countries line and provenance row(s) but the acceptance count is unchanged (still taught in 0 countries). The Samoa placement was filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson `staying-safe/malnutrition` by registry Part 2B (HELD description: "Body composition and body image, Year 11 Unit 1B"), and the original string is recorded in the provenance row above. Samoa's own way is content, as the book line(s) above record it: body composition is taught comparatively — body size, body shape and skin colour compared across races and countries.
 
-Searchable tags: malnutrition, anaemia, undernutrition signs, iron and anaemia, school feeding, Zambia Health Teacher Training Manual 2025, body composition body image body types body size shape skin colour, Samoa Years 11–12 TG
+**Book 1 — Saúde e Bem-Estar 7, Manual do aluno (student book, Portuguese/Tetum):**
+- Title as printed: Saúde e Bem-Estar / Saúde no Rahun-Di'ak 7 — Manual do aluno / Manuál ba estudante
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Ministério da Educação (Ministériu Edukasaun), Timor-Leste; year not printed on the cover; no ISBN printed
+- PDF pages: 263 (cover verified against the record title, "Saude - K7.pdf"; this is the second, unnamed Saúde e Bem-Estar Drive record — the file behind it is the student book)
+- Verdict: COMPLETE
+- Tally: 20 placements — 0 to existing lessons, 20 NEW LESSON NEEDED
+- Timor-Leste's own way: health is taught as "holistic health" in five linked areas (physical, social, emotional, spiritual, intellectual), then through Timor-Leste's real health burdens — malnutrition and stunting, iron and anaemia, diarrhoea and sanitation, disasters — with a full unit on gender and one on social-media health; every period ends in an investigation or a personal plan (period assessment tasks themselves are excluded per the brief, named here only).
+- Records: 2 records / 2 distinct books in the Timor-Leste Health placements file.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/timor-leste-health-placements.md (Book 1 of that file).
+
+**Book 2 — Saúde e Bem-Estar 7, Guia do professor (teacher guide, Portuguese/Tetum):**
+- Title as printed: Saúde e Bem-Estar / Saúde no Rahun-Di'ak — Guia do professor / Matadalan ba manorin, 7
+- Grade: 7 (student/teacher: TEACHER)
+- Publisher: Ministério da Educação (Ministériu Edukasaun), Timor-Leste; year not printed on the cover; no ISBN printed
+- PDF pages: 214 (cover verified against the record title, "Saude - K7.pdf")
+- Verdict: COMPLETE
+- Tally: 0 placements filed from this book — it carries the same ten units as Book 1 as full lesson plans (its index matches the student book's unit-for-unit) and is filed as the student book's evidence pair; per the brief a teacher guide is evidence, never a substitute, and its content is not double-placed.
+- Timor-Leste's own way: the guide opens each period with a teacher's note that frames the period's health idea (for Period 1: holistic health's five areas, why the gender unit is the period's biggest, and why self-esteem and body image matter for today's young people).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/timor-leste-health-placements.md (Book 2 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Timor-Leste — Unit 6: Malnutrition and stunting — undernutrition, low height for age, and the causes of malnutrition (original string `staying-safe/HELD-title-decision`) | Timor-Leste, *Saúde e Bem-Estar 7, Manual do aluno* (Timor-Leste Grade 7 Saúde e Bem-Estar Student Book), Unit 6, printed p. 126 (teacher-guide index) |
+
+Timor-Leste is added as student-book stock (see its book lines and row above), inside the acceptance count — Book 1 is a STUDENT book, so Timor-Leste is named in the countries line and provenance row and the acceptance count rises (now taught in 1 country). Book 2, the teacher guide, is filed as evidence only, outside the acceptance count — it carries the same ten units as Book 1 as full lesson plans and is the student book's evidence pair; its content is not double-placed. The Timor-Leste placement was filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson `staying-safe/malnutrition` by registry Part 2B (HELD description: "Unit 6: Malnutrition and stunting — undernutrition, low height for age, and the causes of malnutrition"), and the original string is recorded in the provenance row above. The page number follows the teacher guide's index (the student book prints the same units a few pages later), as filed. Timor-Leste's own way is content, as the book lines above record it: malnutrition and stunting — undernutrition and low height for age — are taught as one of Timor-Leste's real health burdens, with the causes of malnutrition. This lesson teaches its placement only as the placements file summarises it, and names nothing the summary does not name.
+
+Searchable tags: malnutrition, anaemia, undernutrition signs, iron and anaemia, school feeding, Zambia Health Teacher Training Manual 2025, body composition body image body types body size shape skin colour, Samoa Years 11–12 TG, malnutrition stunting undernutrition low height for age causes of malnutrition, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book

@@ -143,3 +143,17 @@ Alcohol and Tobacco), all as curriculum-statement /
 teacher-guide evidence only — both Samoa books are teacher
 books, so the course's acceptance counts are unchanged by
 this merge.
+
+The Health expansion then added (Timor-Leste): **Sleep and
+Rest** (`staying-safe/sleep-and-rest`) — 1 new lesson,
+bringing this course to 46 lessons. A further 19 Timor-Leste
+placements were stocked into existing lessons (What Health
+Is, Family and Friends ×4, Knowing Myself and My Feelings
+×2, Staying Safe Online, Puberty and Growing Up, Keeping My
+Body Clean, Eating a Balanced Diet ×3, Malnutrition, Mental
+Health and Wellbeing, Common Illnesses and Caring for the
+Sick, Preventing Common Diseases, Staying Safe in Disasters
+×2), all as student-book stock — Book 1, *Saúde e Bem-Estar
+7, Manual do aluno*, is a student book, so each touched
+lesson's acceptance count rose by 1; Book 2, the teacher
+guide, is filed as evidence only, outside the counts.

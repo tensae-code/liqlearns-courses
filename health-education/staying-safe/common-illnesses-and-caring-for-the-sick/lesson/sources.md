@@ -1,8 +1,8 @@
 # Sources — Common Illnesses and Caring for the Sick
 
-countries: Zambia
+countries: Zambia, Timor-Leste
 
-**Acceptance count: taught in 0 countries.** Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson.
+**Acceptance count: taught in 1 country.** Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count).
 
 **Book 1 — Health Teacher Training, Participants Manual 2025 (teacher training manual, English):**
 - Title as printed: Health Teacher Training — Participants Manual (LB)
@@ -26,4 +26,31 @@ countries: Zambia
 
 This is a canonical NEW lesson (slug-registry Part 1: `staying-safe/common-illnesses-and-caring-for-the-sick` — Common illnesses and caring for the sick: the named common illnesses (colds, malaria, tuberculosis, diarrhoea, worms and others), and supporting and caring for people who are ill); the Zambia placement(s) were filed under the original string(s) recorded in the provenance row(s) above, resolved to this canonical slug by registry Part 2 and recorded there. Each placement is carried in its own provenance row. Zambia enters this lesson as teacher training manual evidence only, outside the acceptance count — the Zambia book is a TEACHER training manual, so this lesson stands at acceptance count 0, founded on teacher training manual evidence only, no pupil's book in hand. Zambia's own way is content, as the book line above records it: health is taught to teachers as front-line school health work — know the local diseases (malaria, bilharzia, worms, diarrhoea), examine a sick learner, keep water, sanitation and hygiene (WASHE) safe, feed children well from Zambia's own food groups, and protect learners from violence, corporal punishment, drugs and child marriage. The manual is PARTIAL as filed (see its book line): Module 1 and Module 4's programme-running chapters are school-health programme administration, named and not placed, the printed contents list skips Chapter 13 (numbering jumps 12 → 14), and the Appendices (pp. 241–253) and References (p. 254) are inventory-only, not placed. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: common illnesses and caring for the sick, malaria nets spraying, worm infestations bilharzia schistosomiasis intestinal worms deworming, diarrhoeal diseases dehydration oral rehydration, acute respiratory tract infections ARTI, tuberculosis coughing treatment support stigma, eye ear skin infections urinary tract infection meningitis mumps, Zambia Health Teacher Training Manual 2025
+**Book 1 — Saúde e Bem-Estar 7, Manual do aluno (student book, Portuguese/Tetum):**
+- Title as printed: Saúde e Bem-Estar / Saúde no Rahun-Di'ak 7 — Manual do aluno / Manuál ba estudante
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Ministério da Educação (Ministériu Edukasaun), Timor-Leste; year not printed on the cover; no ISBN printed
+- PDF pages: 263 (cover verified against the record title, "Saude - K7.pdf"; this is the second, unnamed Saúde e Bem-Estar Drive record — the file behind it is the student book)
+- Verdict: COMPLETE
+- Tally: 20 placements — 0 to existing lessons, 20 NEW LESSON NEEDED
+- Timor-Leste's own way: health is taught as "holistic health" in five linked areas (physical, social, emotional, spiritual, intellectual), then through Timor-Leste's real health burdens — malnutrition and stunting, iron and anaemia, diarrhoea and sanitation, disasters — with a full unit on gender and one on social-media health; every period ends in an investigation or a personal plan (period assessment tasks themselves are excluded per the brief, named here only).
+- Records: 2 records / 2 distinct books in the Timor-Leste Health placements file.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/timor-leste-health-placements.md (Book 1 of that file).
+
+**Book 2 — Saúde e Bem-Estar 7, Guia do professor (teacher guide, Portuguese/Tetum):**
+- Title as printed: Saúde e Bem-Estar / Saúde no Rahun-Di'ak — Guia do professor / Matadalan ba manorin, 7
+- Grade: 7 (student/teacher: TEACHER)
+- Publisher: Ministério da Educação (Ministériu Edukasaun), Timor-Leste; year not printed on the cover; no ISBN printed
+- PDF pages: 214 (cover verified against the record title, "Saude - K7.pdf")
+- Verdict: COMPLETE
+- Tally: 0 placements filed from this book — it carries the same ten units as Book 1 as full lesson plans (its index matches the student book's unit-for-unit) and is filed as the student book's evidence pair; per the brief a teacher guide is evidence, never a substitute, and its content is not double-placed.
+- Timor-Leste's own way: the guide opens each period with a teacher's note that frames the period's health idea (for Period 1: holistic health's five areas, why the gender unit is the period's biggest, and why self-esteem and body image matter for today's young people).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/timor-leste-health-placements.md (Book 2 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Timor-Leste — Unit 9: Diarrhoea — what diarrhoea is and how it is treated (original string `staying-safe/HELD-title-decision`) | Timor-Leste, *Saúde e Bem-Estar 7, Manual do aluno* (Timor-Leste Grade 7 Saúde e Bem-Estar Student Book), Unit 9, printed p. 175 (teacher-guide index) |
+
+Timor-Leste is added as student-book stock (see its book lines and row above), inside the acceptance count — Book 1 is a STUDENT book, so Timor-Leste is named in the countries line and provenance row and the acceptance count rises (now taught in 1 country). Book 2, the teacher guide, is filed as evidence only, outside the acceptance count — it carries the same ten units as Book 1 as full lesson plans and is the student book's evidence pair; its content is not double-placed. The Timor-Leste placement was filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson `staying-safe/common-illnesses-and-caring-for-the-sick` by registry Part 2B (HELD description: "Unit 9: Diarrhoea — what diarrhoea is and how it is treated"), and the original string is recorded in the provenance row above. The page number follows the teacher guide's index (the student book prints the same units a few pages later), as filed. Timor-Leste's own way is content, as the book lines above record it: diarrhoea — one of Timor-Leste's real health burdens — is taught as what it is and how it is treated. This lesson teaches its placement only as the placements file summarises it, and names nothing the summary does not name.
+
+Searchable tags: common illnesses and caring for the sick, malaria nets spraying, worm infestations bilharzia schistosomiasis intestinal worms deworming, diarrhoeal diseases dehydration oral rehydration, acute respiratory tract infections ARTI, tuberculosis coughing treatment support stigma, eye ear skin infections urinary tract infection meningitis mumps, Zambia Health Teacher Training Manual 2025, diarrhoea what it is how it is treated, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book
