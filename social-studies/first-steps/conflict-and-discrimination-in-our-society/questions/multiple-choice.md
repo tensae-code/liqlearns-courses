@@ -1,0 +1,19 @@
+# Conflict and Discrimination in Our Society — multiple choice
+
+Pick the one right answer.
+
+**1. (Sub lesson 1)** The first part of this lesson is —
+a) Conflict and Discrimination in Our Society  b) learning the alphabet  c) counting to ten
+**Answer: a) Conflict and Discrimination in Our Society**
+
+**2. (Sub lesson 1)** This lesson is mainly about —
+a) conflict and discrimination in our society  b) ancient kings only  c) the Moon's phases
+**Answer: a) conflict and discrimination in our society**
+
+**3. (Sub lesson 2)** The second part of this lesson is —
+a) South Korea's way — the books' own teaching way  b) learning to swim  c) telling the time
+**Answer: a) South Korea's way — the books' own teaching way**
+
+**4. (Sub lesson 2)** Which of these is true, from the lesson?
+a) This lesson teaches conflict and discrimination in our society.  b) South Korea's books never study this thing.  c) This lesson teaches nothing about its topic
+**Answer: a) This lesson teaches conflict and discrimination in our society.**

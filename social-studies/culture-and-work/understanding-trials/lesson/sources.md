@@ -1,0 +1,16 @@
+# Sources — Understanding Trials
+
+countries: South Korea
+
+**Book 12:** *중학교 사회 ① (연구용) (Middle School Social Studies ① — research-use edition)* (student book, Korean) — Title as printed: 중학교 사회 ① (연구용) (Middle School Social Studies ① — research-use edition). Grade: Middle school Grade 7 (student/teacher: STUDENT content; the 연구용 printing is the ministry's research/review edition of the same textbook). Publisher: 지학사 (Jihaksa); 교육부 검정 2021. 8. 25 (government-authorized 25 Aug 2021); 2022 revised curriculum (print files dated 2025). PDF pages: 237 (fetched from the publisher-direct S3 archive in 8 MB ranged chunks after four whole-file transfers were cut at ~110 MB; assembled byte size 115,960,135 B matches the record exactly; cover verified — title, 연구용 mark, publisher and authorization stamp all match the record; full text layer present). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Civics/Citizenship/Government pp. 158–224 (민주주의와 시민; 정치과정과 시민 참여; 일상생활과 법; 인권과 기본권); Morals/Values pp. 124–136 (인간과 사회생활); Culture pp. 140–154 (다양한 문화의 이해); Conflict/Peace/Global: none as a unit; Geography pp. 12–120 (세계화 시대, 지리의 힘; 아시아; 유럽; 아프리카; 아메리카; 오세아니아와 극지방); Economics: none as a unit. Tally: 18 placements — 0 to existing lessons, 18 NEW LESSON NEEDED (13 to NEW slugs first filed here, 5 to NEW slugs first filed under Books 1–10 above). South Korea's own way: the 2022 middle-school course opens its society half with the pupil's own formation — socialisation and self-identity, status and roles, and the conflict and discrimination inside our society — then builds the full civics ladder in one volume: democracy's ideals and history, elections and political actors, local self-government, law in daily life and how trials work, and finally human rights with the limits and remedies for basic rights and the relief for violated labour rights. Excluded, named: 대단원 마무리 unit wrap-ups; 부록 정답 (p. 226) — answers. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/south-korea-placements-b.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — culture-and-work/understanding-trials — 일상생활과 법 3 재판의 이해 — teaches: understanding trials — how a trial works — South Korea Grade 7 Jihaksa Middle Social Studies ① (2022), printed p. 202 | South Korea, *Jihaksa Middle School Social Studies ①, research-use edition (student book content, Korean)* (student book), 일상생활과 법 3 재판의 이해 — printed p. 202 |
+| Sub lesson 2 — South Korea's way — the books' own teaching way | South Korea — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (South Korea).**
+
+South Korea's own way (Book 12): the 2022 middle-school course opens its society half with the pupil's own formation — socialisation and self-identity, status and roles, and the conflict and discrimination inside our society — then builds the full civics ladder in one volume: democracy's ideals and history, elections and political actors, local self-government, law in daily life and how trials work, and finally human rights with the limits and remedies for basic rights and the relief for violated labour rights.
+
+Searchable tags: understanding trials, South Korea, social studies, culture-and-work

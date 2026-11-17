@@ -1,6 +1,6 @@
 # Sources — Culture — what culture is
 
-countries: Ethiopia, Mongolia, Bahamas, Zimbabwe, Colombia, Kuwait, Jordan, Bhutan, Kiribati, Sierra Leone, Tanzania, Eritrea, Syria, Bangladesh, Angola, Iran, El Salvador, Honduras, Pakistan, Indonesia
+countries: Ethiopia, Mongolia, Bahamas, Zimbabwe, Colombia, Kuwait, Jordan, Bhutan, Kiribati, Sierra Leone, Tanzania, Eritrea, Syria, Bangladesh, Angola, Iran, El Salvador, Honduras, Pakistan, Indonesia, South Korea
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -275,3 +275,19 @@ Indonesia's own way (IPS-G7 student): junior IPS opens sociology before any stat
 Registry note: this placement was filed against `culture-and-work/culture-what-culture-is`, a lesson named in the slug registry §5 as already standing; it is stocked into this canonical lesson, `culture-and-work/culture-what-culture-is`, exactly as the registry directs.
 
 Searchable tags: culture — what culture is, Indonesia, social studies, culture-and-work
+
+South Korea placements — Social Studies remaining strands (2026-11-17):
+
+**Book 12 (South Korea):** *중학교 사회 ① (연구용) (Middle School Social Studies ① — research-use edition)* (student book, Korean) — Title as printed: 중학교 사회 ① (연구용) (Middle School Social Studies ① — research-use edition). Grade: Middle school Grade 7 (student/teacher: STUDENT content; the 연구용 printing is the ministry's research/review edition of the same textbook). Publisher: 지학사 (Jihaksa); 교육부 검정 2021. 8. 25 (government-authorized 25 Aug 2021); 2022 revised curriculum (print files dated 2025). PDF pages: 237 (fetched from the publisher-direct S3 archive in 8 MB ranged chunks after four whole-file transfers were cut at ~110 MB; assembled byte size 115,960,135 B matches the record exactly; cover verified — title, 연구용 mark, publisher and authorization stamp all match the record; full text layer present). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Civics/Citizenship/Government pp. 158–224 (민주주의와 시민; 정치과정과 시민 참여; 일상생활과 법; 인권과 기본권); Morals/Values pp. 124–136 (인간과 사회생활); Culture pp. 140–154 (다양한 문화의 이해); Conflict/Peace/Global: none as a unit; Geography pp. 12–120 (세계화 시대, 지리의 힘; 아시아; 유럽; 아프리카; 아메리카; 오세아니아와 극지방); Economics: none as a unit. Tally: 18 placements — 0 to existing lessons, 18 NEW LESSON NEEDED (13 to NEW slugs first filed here, 5 to NEW slugs first filed under Books 1–10 above). South Korea's own way: the 2022 middle-school course opens its society half with the pupil's own formation — socialisation and self-identity, status and roles, and the conflict and discrimination inside our society — then builds the full civics ladder in one volume: democracy's ideals and history, elections and political actors, local self-government, law in daily life and how trials work, and finally human rights with the limits and remedies for basic rights and the relief for violated labour rights. Excluded, named: 대단원 마무리 unit wrap-ups; 부록 정답 (p. 226) — answers. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/south-korea-placements-b.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| South Korea part — culture-and-work/culture-its-meaning-and-features — 다양한 문화의 이해 1 문화의 의미와 특징 — teaches: the meaning of culture and its features — South Korea Grade 7 Jihaksa Middle Social Studies ① (2022), printed p. 140 | South Korea, *Jihaksa Middle School Social Studies ①, research-use edition (student book content, Korean)* (student book), 다양한 문화의 이해 1 문화의 의미와 특징 — printed p. 140 |
+
+**Acceptance count: taught in 18 countries (Ethiopia, Mongolia, Bahamas, Colombia, Kuwait, Jordan, Bhutan, Tanzania, Eritrea, Syria, Bangladesh, Angola, Iran, El Salvador, Honduras, Pakistan, Indonesia, South Korea).**
+
+South Korea's own way (Book 12): the 2022 middle-school course opens its society half with the pupil's own formation — socialisation and self-identity, status and roles, and the conflict and discrimination inside our society — then builds the full civics ladder in one volume: democracy's ideals and history, elections and political actors, local self-government, law in daily life and how trials work, and finally human rights with the limits and remedies for basic rights and the relief for violated labour rights.
+
+Registry note: the original coined string `culture-and-work/culture-its-meaning-and-features` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/culture-what-culture-is`.
+
+Searchable tags: culture — what culture is, South Korea, social studies, culture-and-work

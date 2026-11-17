@@ -1,0 +1,16 @@
+# Sources — Life as a Global Citizen in the Future Society
+
+countries: South Korea
+
+**Book 8:** *고등학교 통합사회 2 (High School Integrated Society 2)* (student book, Korean) — Title as printed: 고등학교 통합사회 2 (High School Integrated Society 2). Grade: High school common subject, Grade 10, second volume (student/teacher: STUDENT). Publisher: 지학사 (Jihaksa); 2022 revised curriculum edition (print files dated 2024); no ISBN printed in the scan. PDF pages: 168 (downloaded from the publisher-direct S3 file; byte size 88,866,246 B matches the record exactly; cover verified — title/publisher match the record; full text layer present). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Civics/Citizenship/Government pp. 12–34, 40–64 (인권 보장과 헌법; 사회정의와 불평등); Culture: none in this volume (문화와 다양성 sits in Integrated Society 1); Conflict/Peace/Global pp. 108–128 (세계화와 평화); Geography pp. 134–154 (미래와 지속가능한 삶, population/resources parts); Economics pp. 70–102 (시장경제와 지속가능발전). Tally: 11 placements — 0 to existing lessons, 11 NEW LESSON NEEDED (NEW slugs first filed under Books 1–7 above and reused here, plus one first filed here). South Korea's own way: the 2022 curriculum splits Integrated Society into two volumes; volume 2 is the civics-heavy one — human rights and the constitution, justice and inequality, then globalisation and peace — and it closes by naming the pupil's own role outright: "life as a global citizen in the future society" (세계시민으로서의 삶). Its enrichment boxes (사회 고수 되기) add the proportionality principle in limiting basic rights, redistributive justice for the socially weak, and the death penalty debated as a human-rights question. Excluded, named: 창의 융합 project pages (인권 신문 만들기 p. 32; 정의로운 사회와 나 p. 62; 세계 평화를 실현하는 비정부 기구 만들기 p. 126) — pure activity items; 부록 정답 (p. 158) — answers. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/south-korea-placements-b.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — global-issues/life-as-a-global-citizen-in-the-future-society — 미래와 지속가능한 삶 3 미래 사회와 세계시민으로서의 삶 — teaches: life as a global citizen in the future society — the pupil's own role in the world community — South Korea Grade 10 Jihaksa Integrated Society 2 (2022), printed p. 146 | South Korea, *Jihaksa High School Integrated Society 2* (student book), 미래와 지속가능한 삶 3 미래 사회와 세계시민으로서의 삶 — printed p. 146 |
+| Sub lesson 2 — South Korea's way — the books' own teaching way | South Korea — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (South Korea).**
+
+South Korea's own way (Book 8): the 2022 curriculum splits Integrated Society into two volumes; volume 2 is the civics-heavy one — human rights and the constitution, justice and inequality, then globalisation and peace — and it closes by naming the pupil's own role outright: "life as a global citizen in the future society" (세계시민으로서의 삶). Its enrichment boxes (사회 고수 되기) add the proportionality principle in limiting basic rights, redistributive justice for the socially weak, and the death penalty debated as a human-rights question.
+
+Searchable tags: life as a global citizen in the future society, South Korea, social studies, global-issues
