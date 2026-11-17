@@ -1,8 +1,8 @@
 # Sources — Correct Posture
 
-countries: Pakistan, China, El Salvador, Philippines, Azerbaijan, Mauritius, Iran, Jordan, Cuba, Sri Lanka, Greece
+countries: Pakistan, China, El Salvador, Philippines, Azerbaijan, Mauritius, Iran, Jordan, Cuba, Sri Lanka, Greece, Oman
 
-**Acceptance count: taught in 9 countries (Pakistan, China, Philippines, Azerbaijan, Mauritius, Iran, Jordan, Sri Lanka, Greece).** Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Pakistan is student-book stock (see its rows below), inside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count.
+**Acceptance count: taught in 9 countries (Pakistan, China, Philippines, Azerbaijan, Mauritius, Iran, Jordan, Sri Lanka, Greece).** Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Pakistan is student-book stock (see its rows below), inside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), named in the countries line but outside the acceptance count — the acceptance count is unchanged.
 
 ## Pakistan — PE expansion 2026-11-16
 
@@ -450,3 +450,37 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/greece-pe-pl
 | Greece — Λανθασμένες και σωστές ασκήσεις (Wrong exercises and their right versions) — pairs of harmful and safe exercises (back hyperextension, straight double leg-raise, head circling, full sit-ups, deep squats) and the safest way to lift a heavy object (original target `fitness-and-stretching/posture-and-orthosomic-gymnastics`) | Greece Grades 7-9 Fysiki Agogi Gymnasiou, printed p. 118 |
 
 Greece's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Greece is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Oman — PE expansion 2026-11-16 (Health-file fix-up)
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/oman-health-placements.md. These 2 Oman placements were filed in oman-health-placements.md — not in oman-pe-placements.md — as HELD-title-decision, and are stocked here by fix-up: the health slug registry resolves both Sound Posture placements to PE canonical `moving-basics/correct-posture` (pe-slug-registry.md), this lesson. The Oman books are the Ministry of Education teacher guides for Physical & Health Education (combined PE & Health books, Arabic); the guides' PE parts are placed from oman-pe-placements.md and their Health units from oman-health-placements.md. Oman is teacher-guide evidence only in this lesson — named in the countries line and in the provenance rows below, but outside the acceptance count; the acceptance count is unchanged and no pupil book is claimed from the guides. Only the Sound Posture placement of each guide is stocked in this lesson; each guide's other Health-file placement is placed in its own resolved lesson, not here.
+
+**Book — Oman Grade 2 Teacher Guide (teacher guide — evidence):**
+## Teacher Guide: Physical & Health Education, Grade 2 (teacher guide, Arabic) — Health unit
+- Title as printed: دليل معلم مادة التربية البدنية والصحية — الصف الثاني (Teacher's Guide, Physical and Health Education, Grade Two)
+- Grade: 2 (TEACHER)
+- Publisher/year/ISBN: Ministry of Education, Sultanate of Oman — First Edition 1446 AH / 2024 CE; Ministerial Decision 232/2018; no ISBN printed
+- PDF pages: 194
+- Verdict: COMPLETE
+- Tally: 2 placements — 0 existing, 2 NEW
+- Oman's own way: the Grade 2 health unit is the body itself — sound posture first, then the changes that happen inside the body during sports activity (faster heart, faster breathing, sweating), the same body-in-exercise material the founding Health wave held for a title decision.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Oman — Unit 6, Health Culture and Awareness — Sound Posture (القوام السليم): what good posture looks like standing, sitting and walking, the habits that keep it, and avoiding postural deviations (teacher guide — evidence) (filed in oman-health-placements.md as HELD-title-decision; resolved through the health slug registry to PE canonical `moving-basics/correct-posture`; stocked here by fix-up) | Oman, *Teacher Guide: Physical & Health Education, Grade 2* (Oman G2 Teacher Guide), printed p. 168 (teacher guide — evidence) |
+
+**Book — Oman Grade 5 Teacher Guide (teacher guide — evidence):**
+## Teacher Guide: Physical & Health Education, Grade 5 (teacher guide, Arabic) — Health unit
+- Title as printed: دليل المعلم لمادة التربية البدنية والصحية للصف الخامس (Teacher's Guide for Physical and Health Education, Grade Five)
+- Grade: 5 (TEACHER)
+- Publisher/year/ISBN: Ministry of Education, Sultanate of Oman — First Edition 1447 AH / 2025 CE; Ministerial Decision 252/2024; includes outcomes for students with disabilities; no ISBN printed
+- PDF pages: 280
+- Verdict: COMPLETE
+- Tally: 2 placements — 0 existing, 2 NEW
+- Oman's own way: the Grade 5 health unit pairs "Sport is our life" with a return to sound posture, now at second-cycle level.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Oman — Unit 6, Health Culture and Awareness — Sound Posture (القوام السليم): keeping correct posture in the body's positions and movements (teacher guide — evidence) (filed in oman-health-placements.md as HELD-title-decision; resolved through the health slug registry to PE canonical `moving-basics/correct-posture`; stocked here by fix-up) | Oman, *Teacher Guide: Physical & Health Education, Grade 5* (Oman G5 Teacher Guide), printed p. 262 (teacher guide — evidence) |
+
+Oman's placements in this lesson were filed in oman-health-placements.md as HELD-title-decision, resolved through the health slug registry to PE canonical `moving-basics/correct-posture` (pe-slug-registry.md), this lesson, and stocked here by fix-up, as recorded in each provenance row. Oman enters this lesson as teacher-guide evidence only, outside the acceptance count. Oman's own way is content, as the book lines above record it: health is taught inside the PE lesson, through movement and games, and every guide closes with a "Health Culture and Awareness" unit — sound posture is taught in both the Grade 2 and the Grade 5 guide. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
