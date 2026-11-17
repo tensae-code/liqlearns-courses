@@ -1,6 +1,6 @@
 # Sources — The Judiciary and the Courts
 
-countries: Yemen, Bahamas, Afghanistan, Morocco, Guatemala, Armenia, India, United States, Sri Lanka, Jordan, South Sudan, Iran
+countries: Yemen, Bahamas, Afghanistan, Morocco, Guatemala, Armenia, India, United States, Sri Lanka, Jordan, South Sudan, Iran, Dominican Republic
 
 **Book 1:** *التربية الوطنية للصف الخامس من مرحلة التعليم الأساسي (National Education for Grade 5 of Basic Education)* (student book, Arabic) — Republic of Yemen, Ministry of Education; year 1442 AH / 2021 CE (cover print); ISBN no ISBN printed. Title as printed: التربية الوطنية للصف الخامس من مرحلة التعليم الأساسي (National Education for Grade 5 of Basic Education). Grade: 5 (student/teacher: STUDENT). PDF pages: 66 (cover/title page verified against the record title; 6,489,380 bytes, Wayback snapshot 20220212143057 of the recorded source_url). Earlier waves: not read before (no earlier wave held this civics book). Verdict: COMPLETE (full page-by-page read, civics track). Contents map: Civics/Citizenship/Government pp. 19–21 (national symbols), pp. 23–33 (Unit 2 administrative organisation), pp. 34–46 (Unit 3 the state's authorities); History pp. 7–18 (Unit 1 Yemeni revolutions and steadfastness — named, not placed), pp. 47–63 (Unit 4 Yemeni figures: Imam al-Qasim ibn Muhammad, Rajih Ghalib Labouza, President Ibrahim al-Hamdi, the poet Abdullah al-Baradouni — named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/yemen-placements.md.
 
@@ -165,3 +165,20 @@ Iran placements — Social Studies remaining strands (2026-11-17):
 Iran's own way (Iran Social Studies Grade 8): the civics year is built as an institutional tour taken in the order a citizen meets the state — cooperation in home and neighbourhood, then the executive (this book's "government"), then the judiciary — and every institution is introduced through newspaper headlines and the pupil's own town.
 
 Searchable tags: the judiciary and the courts, Iran, social studies, culture-and-work
+
+Dominican Republic placements — Social Studies remaining strands (2026-11-17):
+
+**Book 5:** *Moral Cívica 6° Primaria student guide* (student book, Spanish) — Title as printed: Educación Moral, Cívica y Ética Ciudadana — Sexto Grado, Segundo Ciclo, Educación Primaria (Serie 1, Proyecto Libro Abierto). Grade: Grade 6 (student/teacher: STUDENT). Publisher: Ministerio de Educación de la República Dominicana (MINERD), Dirección de Currículo; year 2025; ISBN "En proceso" (no ISBN printed). PDF pages: 93 (cover verified against the record title; byte size 38,618,681 matches the GitHub release asset exactly and page count matches the record). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Civics/Citizenship/Government printed pp. 15–53 (Proyecto 1 social organisation of the community, heritage, children's rights; Proyecto 2 tax rights and duties, the Judicial Power, municipal organisation, participation of social sectors, road responsibility); Civics pp. 55–71 (Proyecto 3 deepening the Dominican Constitution — fundamental rights and duties, national symbols); Morals/Values pp. 73–87 (Proyecto 4 peace and global harmony). Tally: 15 placements — 1 to existing lessons, 9 NEW LESSON NEEDED, 5 to lessons created earlier in this wave. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic part — culture-and-work/the-judicial-power-what-it-does — Proyecto 2 Asumo responsabilidad vial y tributaria para el bien común — teaches: the attributions of the Poder Judicial, the third power of the State — Dominican Republic Grade 6 Moral Cívica 6 student guide, printed p. 35 | Dominican Republic, *Moral Cívica 6° Primaria student guide* (student book), Proyecto 2 Asumo responsabilidad vial y tributaria para el bien común — printed p. 35 |
+| Dominican Republic's way — the books' own teaching way | Dominican Republic — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 13 countries (Yemen, Bahamas, Afghanistan, Morocco, Guatemala, Armenia, India, United States, Sri Lanka, Jordan, South Sudan, Iran, Dominican Republic).**
+
+Dominican Republic's own way (Book 5): the primary cycle closes by widening the circle — from how my community is organised and who organises it (juntas de vecinos, authorities, institutions), through tax duties written into the Constitution and the Judicial Power, to the pupil as an "ambassador of peace" in home, school and community.
+
+Registry note: the original coined string `culture-and-work/the-judicial-power-what-it-does` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/the-judiciary-and-the-courts`.
+
+Searchable tags: the judiciary and the courts, Dominican Republic, social studies, culture-and-work

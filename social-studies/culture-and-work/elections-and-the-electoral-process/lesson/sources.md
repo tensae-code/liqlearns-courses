@@ -1,6 +1,6 @@
 # Sources — Elections and the Electoral Process
 
-countries: Samoa, Albania, Bangladesh, United States, Papua New Guinea, El Salvador, Zimbabwe
+countries: Samoa, Albania, Bangladesh, United States, Papua New Guinea, El Salvador, Zimbabwe, Dominican Republic
 
 **Book 1:** *Social Studies — Year 10 Book One* (student book, English) — Title as printed: Social Studies — Year 10 Book One. Grade: Year 10 (student/teacher: STUDENT). Publisher: Government of Samoa, Department of Education; year 2001; ISBN 982-517-009-3. PDF pages: 100 (cover/title page verified against the record title; MESC copy, size 2,049,510 B per download list). Read from the MESC ministry source URL recorded in the books.json record — the same MESC PDF the Geography wave verified byte-for-byte against the record and already secured in GitHub (in_pushed: true) — via the browser text route, cover/title page and ISBN checked against the record before reading; no file staged — the book is already in GitHub, as filed in samoa-placements.md. Earlier waves: Geography wave placed Unit 3–4 skills (graphs, census, pp. 59–98) and named Units 1–2 "Civics, not placed"; History wave placed Unit 1 Topic 1's development narrative, Unit 2's historical case studies, the rights-documents chain, the UDHR and the Mau timeline (pp. 5–6, 10, 25–48) and named the present-day civics parts not placed (voting/law-making pp. 8–18, Japan pp. 19–22, UN/Amnesty/protest pp. 33–45, 48–58); Economics wave placed the census/graph skills only. The civics teaching named by both waves was read and placed here. Verdict: COMPLETE. Contents map: Civics/Citizenship/Government pp. 5–58 (Unit 1 Government; Unit 2 Human Rights); Geography/Skills pp. 59–98 (Units 3–4, placed by Geography wave). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/samoa-placements.md.
 
@@ -107,3 +107,20 @@ Zimbabwe placements — Social Studies remaining strands (2026-11-17):
 Zimbabwe's own way (Book 11) (teacher guide — evidence): the parallel Grade 7 book adds what the PlusOne guide does not teach — elections themselves (forms of elections, the electoral process, role-played class elections for class monitor) — and teaches international organisations as a table of UN agencies with their functions and years of formation.
 
 Searchable tags: elections and the electoral process, Zimbabwe, social studies, culture-and-work
+
+Dominican Republic placements — Social Studies remaining strands (2026-11-17):
+
+**Book 3:** *Moral Cívica 5° Primaria student guide* (student book, Spanish) — Title as printed: Educación Moral, Cívica y Ética Ciudadana — Quinto Grado, Segundo Ciclo, Educación Primaria (Serie 1, Proyecto Libro Abierto). Grade: Grade 5 (student/teacher: STUDENT). Publisher: Ministerio de Educación de la República Dominicana (MINERD), Dirección de Currículo; year 2025; ISBN "En proceso" (no ISBN printed). PDF pages: 89 (cover verified against the record title; byte size 31,123,393 matches the GitHub release asset exactly and page count matches the record). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Civics/Citizenship/Government printed pp. 14–49 (Proyecto 1 the Dominican Constitution, fundamental rights, the Legislative Power, nationality and citizenship, heritage; Proyecto 2 government organisation, the municipality, elections, Ley 136-03 child protection); Morals/Values printed pp. 50–67 (Proyecto 3 road and tax education, care of shared environment), pp. 68–85 (Proyecto 4 culture of peace, democratic solutions, violence in society and family); History named only pp. 42–45 (national symbols, anthem, founding fathers — placed by the History wave's strand, not here); Health named only p. 60 (care of my health — Health course, not placed). Tally: 14 placements — 1 to existing lessons, 11 NEW LESSON NEEDED, 2 to lessons created earlier in this wave (Books 1). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic part — culture-and-work/how-an-electoral-campaign-works — Proyecto 2, Actividad 5 — teaches: how an electoral campaign is carried out, as the working of democracy pupils can observe — Dominican Republic Grade 5 Moral Cívica 5 student guide, printed p. 39 | Dominican Republic, *Moral Cívica 5° Primaria student guide* (student book), Proyecto 2, Actividad 5 — printed p. 39 |
+| Dominican Republic's way — the books' own teaching way | Dominican Republic — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 5 countries (Samoa, Bangladesh, United States, El Salvador, Dominican Republic).**
+
+Dominican Republic's own way (Book 3): at Grade 5 the projects turn constitutional — pupils explore the Dominican Constitution itself, meet the Legislative Power and their elected representatives, learn the child-protection Ley 136-03 as the law that protects them personally, and meet taxes as the citizen's contribution to collective wellbeing.
+
+Registry note: the original coined string `culture-and-work/how-an-electoral-campaign-works` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/elections-and-the-electoral-process`.
+
+Searchable tags: elections and the electoral process, Dominican Republic, social studies, culture-and-work

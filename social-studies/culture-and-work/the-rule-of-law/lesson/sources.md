@@ -1,6 +1,6 @@
 # Sources — The Rule of Law
 
-countries: China, India, Cambodia, Jordan, South Sudan, El Salvador
+countries: China, India, Cambodia, Jordan, South Sudan, El Salvador, Dominican Republic
 
 **Book 1:** *思想政治必修3 政治与法治 (Ideological & Political, Compulsory 3: Politics and Rule of Law)* (student book, Chinese) — Title as printed: 普通高中教科书 思想政治 必修3 政治与法治. Grade: Senior high (filed grade-12) (student/teacher: STUDENT). Publisher: 人民教育出版社 (People's Education Press), Beijing, compiled by the Ministry of Education (教育部组织编写); chief editor Zhang Yibin (张异宾), volume editors Liu Jianjun (刘建军) and Zhu Liyu (朱力宇); year 2019 first edition (2019 统编 seal on cover), this scan a later printing carrying material to 2021 (the 2021–2025 rule-of-law government outline in Lesson 8); ISBN 978-7-107-24394-3 (read from the back-cover barcode). PDF pages: 122 (cover verified — 思想政治 必修3 政治与法治 over the Great Hall of the People ceiling lights and red star matches the record; byte size 7,190,119 matches the books.json record exactly; the tensae-code textbooks repo was checked by authenticated GitHub API curl and returns 404 for this file, and no copy sat on disk in staging, so the book was read from its recorded source_url, the kyohwang/ChinaTextbook PEP collection — the same route as Books 1–5 — and staged beside its record, below). Earlier waves: not read before (Geography/History/Economics waves held no record of this book; the cn-ki reader of Books 1–5 flagged it in its log as the map gap this add-on closes). Verdict: COMPLETE. Contents map: Civics/Citizenship/Government (China's own system taught as its own way) printed pp. 1–113 entire — Unit 1 中国共产党的领导 (the Party's leadership) pp. 1–34; Unit 2 人民当家作主 (the people as masters of the country) pp. 35–72; Unit 3 全面依法治国 (comprehensive rule of law) pp. 73–113; History pp. 2–14 (the pre-1949 political forces and the stand-up / grow-rich / become-strong narrative inside Lessons 1–2 — named here; it is taught as the ground of the Party's leadership and is placed with the civics lessons it serves, not as history). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/china-placements.md.
 
@@ -87,3 +87,20 @@ El Salvador's own way (El Salvador Grade 10 Estudios Sociales y Cívica 1.er añ
 Registry note: the original coined string `culture-and-work/the-rule-of-law-in-el-salvador` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/the-rule-of-law`.
 
 Searchable tags: the rule of law, El Salvador, social studies, culture-and-work
+
+Dominican Republic placements — Social Studies remaining strands (2026-11-17):
+
+**Book 13:** *Ciencias Sociales 3° Secundaria* (student book, Spanish) — Title as printed: Ciencias Sociales — Tercer Grado, Primer Ciclo, Educación Secundaria (Libro Abierto, Serie 1, segunda edición). Grade: Grade 9 (student/teacher: STUDENT). Publisher: Ministerio de Educación de la República Dominicana (MINERD); year 2025 (segunda edición); ISBN 978-9945-646-75-7. PDF pages: 208 (cover verified against the record title; byte size 33,969,782 matches the GitHub release asset exactly and page count matches the record). Earlier waves: Economics wave placed Unidad 4 (pp. 58–73) and p. 197 and named the civics spans (pp. 170–207) without placing them; Geography/History waves placed their strands of this book. Verdict: COMPLETE. Contents map: Civics/Citizenship/Government pp. 170–185 (Unidad 11 Educación Ciudadana, valores humanos y cultura de paz); Morals/Values pp. 186–201 (Unidad 12 Un mal social llamado Narcotráfico — drug trafficking as a social ill, civic and road/tax education); Geography pp. 10–57; History pp. 74–169; Economics pp. 58–73 (placed by the Economics wave). Tally: 9 placements — 0 to existing lessons, 3 NEW LESSON NEEDED, 6 to lessons created earlier in this wave. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic part — culture-and-work/the-rule-of-law-what-it-is — Unidad 11, ¿Qué es el Estado de derecho? — teaches: what the rule of law is — it guarantees all people are treated equally and their rights protected, and everyone can help promote and defend it — Dominican Republic Grade 9 Ciencias Sociales 3 Secundaria, printed p. 174 | Dominican Republic, *Ciencias Sociales 3° Secundaria* (student book), Unidad 11, ¿Qué es el Estado de derecho? — printed p. 174 |
+| Dominican Republic's way — the books' own teaching way | Dominican Republic — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 7 countries (China, India, Cambodia, Jordan, South Sudan, El Salvador, Dominican Republic).**
+
+Dominican Republic's own way (Book 13): Grade 9 civics pairs the abstract frame (human rights and governance, the rule of law) with the country's named social ill — a full unit on narcotráfico, its violence and the building of a drug-free society through education.
+
+Registry note: the original coined string `culture-and-work/the-rule-of-law-what-it-is` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/the-rule-of-law`.
+
+Searchable tags: the rule of law, Dominican Republic, social studies, culture-and-work

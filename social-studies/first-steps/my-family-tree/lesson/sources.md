@@ -1,6 +1,6 @@
 # Sources — My Family Tree
 
-countries: Eritrea, Fiji, Oman, Syria, Kazakhstan, United Arab Emirates, Iran
+countries: Eritrea, Fiji, Oman, Syria, Kazakhstan, United Arab Emirates, Iran, Dominican Republic
 
 **Book 1:** *Citizenship Education for Grade 6 — Textbook* (student book, English) — Title as printed: Citizenship Education for Grade 6 — Textbook. Grade: Grade 6 (student/teacher: STUDENT). Publisher: Ministry of Education, The State of Eritrea; year 2014 (first printed 2014, Sabur Printing Services, Asmara); ISBN 99948-1-743-4. PDF pages: 121 (cover/title page verified against the record title; 2,740,923 bytes and 121 pages, both match the record). Earlier waves: not read before (no earlier wave held this book). Verdict: COMPLETE (civics track — read in full, page by page, to printed p. 115). Contents map: Civics/Citizenship/Government pp. 62–75 (referendum and voting, national principles, government structure, rights and duties), 96–115 (rules, rights and responsibilities, good citizen); Morals/Values pp. 1–18 (responsible young person, family responsibility, honesty, friendship), 19–30 (a good student), 76–85 (patriotism as service), 107–115 (qualities of a good citizen, respecting parents); Integrated SS pp. 31–45 (family and culture, doing good for others, diversity of Eritrean society, religious harmony), 86–95 (national symbols and holidays); History pp. 46–61 (the Eritrean Revolution; the Liberation of Eritrea) — named, not placed (History wave's strand). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/eritrea-placements.md.
 
@@ -96,3 +96,20 @@ Iran's own way (Iran Social Studies Grade 3 (special needs)): the special-needs 
 Registry note: the original coined string `first-steps/my-family-is-a-tree` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/my-family-tree`.
 
 Searchable tags: my family tree, Iran, social studies, first-steps
+
+Dominican Republic placements — Social Studies remaining strands (2026-11-17):
+
+**Book 7:** *Ciencias Sociales 2° Primaria* (student book, Spanish) — Title as printed: Ciencias Sociales — Segundo Grado, Primer Ciclo, Educación Primaria (Libro Abierto, Serie 1). Grade: Grade 2 (student/teacher: STUDENT). Publisher: Ministerio de Educación de la República Dominicana (MINERD); year 2023; ISBN 978-99934-43-99-5. PDF pages: 112 (cover verified against the record title; byte size 45,830,630 matches the GitHub release asset exactly and page count matches the record). Earlier waves: Economics wave placed pp. 34–35, 52–53 (goods and resources, family budget); Geography and History waves did not read this book. Verdict: COMPLETE. Contents map: Integrated SS pp. 25–40 (Unidad 2 La vida en mi comunidad — urban and rural community, public spaces), pp. 41–51, 54–58 (Unidad 3 family history, family tree, traditions); Civics/Citizenship pp. 59–74 (Unidad 4 children's rights and duties), pp. 75–90 (Unidad 5 road education, transport, news); Geography pp. 9–24 (orientation, maps, globe); History pp. 44–45 (founders), pp. 91–110 (Unidad 6 Taínos, independence, symbols — symbols placed below as a remaining-strand topic); Economics pp. 34–35, 52–53 (placed by the Economics wave). Tally: 11 placements — 0 to existing lessons, 7 NEW LESSON NEEDED, 4 to lessons created earlier in this wave. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic part — first-steps/my-family-and-my-family-tree — Unidad 3 Mi historia familiar y comunitaria — teaches: who makes up my family and building my genealogical tree with grandparents, uncles, aunts and cousins — Dominican Republic Grade 2 Ciencias Sociales 2 Primaria, printed p. 46 | Dominican Republic, *Ciencias Sociales 2° Primaria* (student book), Unidad 3 Mi historia familiar y comunitaria — printed p. 46 |
+| Dominican Republic's way — the books' own teaching way | Dominican Republic — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 6 countries (Eritrea, Fiji, Syria, Kazakhstan, Iran, Dominican Republic).**
+
+Dominican Republic's own way (Book 7): the youngest Libro Abierto volume builds citizenship from the child's own ground — my community and its public spaces, my family and its tree, then rights and duties told through stories (José, the boy with nowhere to live) and a class "poetry of values".
+
+Registry note: the original coined string `first-steps/my-family-and-my-family-tree` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/my-family-tree`.
+
+Searchable tags: my family tree, Dominican Republic, social studies, first-steps

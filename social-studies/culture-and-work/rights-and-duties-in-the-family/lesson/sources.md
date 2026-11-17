@@ -1,6 +1,6 @@
 # Sources — Rights and Duties in the Family
 
-countries: Ecuador, Yemen, Libya, Serbia, Guatemala, Saudi Arabia
+countries: Ecuador, Yemen, Libya, Serbia, Guatemala, Saudi Arabia, Dominican Republic
 
 **Book 1:** *Estudios Sociales 2do EGB* (student book, Spanish) — Ministerio de Educación del Ecuador; year 2024 (Primera Edición); ISBN 978-9942-662-16-3. Title as printed: Estudios Sociales — Educación General Básica, Subnivel Elemental, Segundo de Básica; Texto del estudiante para la transición curricular. Grade: Grade 2 (student/teacher: STUDENT). PDF pages: 114 (cover/title page verified against the record title; read in place in phase3-staging, 8.6 MB on disk; full text layer read). Earlier waves: Geography wave placed pp. 25–113 geography parts and over-placed three remaining-strand topics (Tipos de viviendas, Grupos étnicos del Ecuador, Patrimonios culturales) plus the parish/administrative-division topics as geography lessons — none re-placed here / History wave placed 4 history placements / Economics wave filed it RECORD-ONLY (no Economics parts; its contents evidence names the same Civics temas placed here). Verdict: COMPLETE. Contents map: Integrated SS pp. 6–51 (family; my school and school coexistence; community actors and places); Civics/Citizenship pp. 6–24 (family rights, responsibilities, commitments and agreements), p. 87ff. (universal human rights); Morals/Values pp. 39–51 (convivencia — respect, difference, helping the community); Geography pp. 25–37, 52–86, 87–113 (placed by the Geography wave); Culture pp. 52–67 (placed by the Geography wave). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/ecuador-placements.md.
 
@@ -67,3 +67,17 @@ Saudi Arabia's own way (Book 1): the Grade 4 book opens with citizenship — nat
 
 Registry note: the original coined string `first-steps/rights-in-the-family` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/rights-and-duties-in-the-family`.
 
+Dominican Republic placements — Social Studies remaining strands (2026-11-17):
+
+**Book 3:** *Moral Cívica 5° Primaria student guide* (student book, Spanish) — Title as printed: Educación Moral, Cívica y Ética Ciudadana — Quinto Grado, Segundo Ciclo, Educación Primaria (Serie 1, Proyecto Libro Abierto). Grade: Grade 5 (student/teacher: STUDENT). Publisher: Ministerio de Educación de la República Dominicana (MINERD), Dirección de Currículo; year 2025; ISBN "En proceso" (no ISBN printed). PDF pages: 89 (cover verified against the record title; byte size 31,123,393 matches the GitHub release asset exactly and page count matches the record). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Civics/Citizenship/Government printed pp. 14–49 (Proyecto 1 the Dominican Constitution, fundamental rights, the Legislative Power, nationality and citizenship, heritage; Proyecto 2 government organisation, the municipality, elections, Ley 136-03 child protection); Morals/Values printed pp. 50–67 (Proyecto 3 road and tax education, care of shared environment), pp. 68–85 (Proyecto 4 culture of peace, democratic solutions, violence in society and family); History named only pp. 42–45 (national symbols, anthem, founding fathers — placed by the History wave's strand, not here); Health named only p. 60 (care of my health — Health course, not placed). Tally: 14 placements — 1 to existing lessons, 11 NEW LESSON NEEDED, 2 to lessons created earlier in this wave (Books 1). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic part — culture-and-work/rights-and-duties-in-the-family — Proyecto 1, Actividades 3, 6, 8 — teaches: rights and duties inside the family — everyone's responsibilities, the work family members do, and helping at home as love, respect and commitment — Dominican Republic Grade 5 Moral Cívica 5 student guide, printed p. 19 | Dominican Republic, *Moral Cívica 5° Primaria student guide* (student book), Proyecto 1, Actividades 3, 6, 8 — printed p. 19 |
+| Dominican Republic's way — the books' own teaching way | Dominican Republic — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 7 countries (Ecuador, Yemen, Libya, Serbia, Guatemala, Saudi Arabia, Dominican Republic).**
+
+Dominican Republic's own way (Book 3): at Grade 5 the projects turn constitutional — pupils explore the Dominican Constitution itself, meet the Legislative Power and their elected representatives, learn the child-protection Ley 136-03 as the law that protects them personally, and meet taxes as the citizen's contribution to collective wellbeing.
+
+Searchable tags: rights and duties in the family, Dominican Republic, social studies, culture-and-work

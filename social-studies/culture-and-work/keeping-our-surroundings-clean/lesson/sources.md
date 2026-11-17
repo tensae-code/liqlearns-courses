@@ -1,6 +1,6 @@
 # Sources — Keeping Our Surroundings Clean
 
-countries: Vanuatu, Algeria, Sierra Leone, Libya, Serbia, Iraq, Kazakhstan, Angola, Myanmar, Mauritania
+countries: Vanuatu, Algeria, Sierra Leone, Libya, Serbia, Iraq, Kazakhstan, Angola, Myanmar, Mauritania, Dominican Republic
 
 **Book 1:** *Citoyenneté Sociale, Guide Pédagogique, Années 1 à 6* (teacher guide, French) — Communauté du Pacifique (SPC) and Ministry of Education and Training, Government of Vanuatu; Suva, 2019; ISBN 978-982-00-1158-8; authors Carol Young and Bridget Glasgow with the Vanuatu Curriculum Development Unit. Title as printed: Citoyenneté Sociale — Guide Pédagogique, Années 1 à 6 (Social Citizenship — Teachers Guide, Years 1–6). Grade: Years 1–6 (student/teacher: TEACHER). PDF pages: 35 printed pages (read in full through the Pacific Data Hub's own page text, 2026-11-17: direct PDF download is blocked by the host's bot check — three routes tried: plain curl and browser-UA curl both returned the "Just a moment" challenge page; the hub's text fetch succeeded. No PDF file was obtained, so nothing is staged for this book). Earlier waves: not read before. Verdict: COMPLETE — civics-type teacher guide read in full; placements are the guide's own teaching content, marked TEACHER (the guide carries the themes' substance, not just pupil-book answers). Contents map: Civics/Citizenship/Morals pp. 1–29 (why teach social citizenship; themes T1–T3); learner-centred teaching strategies p. 30 (apparatus, not placed); Glossary p. 31 (inventory only, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/vanuatu-placements.md. Teacher guide — evidence only, outside the acceptance count.
 
@@ -143,3 +143,20 @@ Mauritania's own way (Book 1): the first school year opens with "My Homeland" an
 Registry note: the original coined string `first-steps/keeping-our-surroundings-clean` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/keeping-our-surroundings-clean`.
 
 Searchable tags: keeping our surroundings clean, Mauritania, social studies, culture-and-work
+
+Dominican Republic placements — Social Studies remaining strands (2026-11-17):
+
+**Book 7:** *Ciencias Sociales 2° Primaria* (student book, Spanish) — Title as printed: Ciencias Sociales — Segundo Grado, Primer Ciclo, Educación Primaria (Libro Abierto, Serie 1). Grade: Grade 2 (student/teacher: STUDENT). Publisher: Ministerio de Educación de la República Dominicana (MINERD); year 2023; ISBN 978-99934-43-99-5. PDF pages: 112 (cover verified against the record title; byte size 45,830,630 matches the GitHub release asset exactly and page count matches the record). Earlier waves: Economics wave placed pp. 34–35, 52–53 (goods and resources, family budget); Geography and History waves did not read this book. Verdict: COMPLETE. Contents map: Integrated SS pp. 25–40 (Unidad 2 La vida en mi comunidad — urban and rural community, public spaces), pp. 41–51, 54–58 (Unidad 3 family history, family tree, traditions); Civics/Citizenship pp. 59–74 (Unidad 4 children's rights and duties), pp. 75–90 (Unidad 5 road education, transport, news); Geography pp. 9–24 (orientation, maps, globe); History pp. 44–45 (founders), pp. 91–110 (Unidad 6 Taínos, independence, symbols — symbols placed below as a remaining-strand topic); Economics pp. 34–35, 52–53 (placed by the Economics wave). Tally: 11 placements — 0 to existing lessons, 7 NEW LESSON NEEDED, 4 to lessons created earlier in this wave. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican Republic part — first-steps/public-spaces-and-caring-for-them — Unidad 2, Cuido mi espacio — teaches: the public spaces of my community and the actions that care for and protect them, drawn and listed by the class — Dominican Republic Grade 2 Ciencias Sociales 2 Primaria, printed p. 36 | Dominican Republic, *Ciencias Sociales 2° Primaria* (student book), Unidad 2, Cuido mi espacio — printed p. 36 |
+| Dominican Republic's way — the books' own teaching way | Dominican Republic — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 9 countries (Algeria, Libya, Serbia, Iraq, Kazakhstan, Angola, Myanmar, Mauritania, Dominican Republic).**
+
+Dominican Republic's own way (Book 7): the youngest Libro Abierto volume builds citizenship from the child's own ground — my community and its public spaces, my family and its tree, then rights and duties told through stories (José, the boy with nowhere to live) and a class "poetry of values".
+
+Registry note: the original coined string `first-steps/public-spaces-and-caring-for-them` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/keeping-our-surroundings-clean`.
+
+Searchable tags: keeping our surroundings clean, Dominican Republic, social studies, culture-and-work
