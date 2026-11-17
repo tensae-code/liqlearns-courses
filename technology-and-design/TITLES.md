@@ -7,9 +7,9 @@ from the hand to the drawing board to the workshop.
 
 **First Steps → Technical Drawing → Materials → Mechanisms and Machines → Electrical Installations and the Home → Textiles and Fashion → Radiography Technology → Design and Making → Models and Robotics → Workshop and Safety → Electricity and Electronics → Food Technology → Paper, Card and Modelling → Construction and Building → Energy**
 
-Stocked titles so far: **119 lessons**.
+Stocked titles so far: **141 lessons**.
 
-**Technical Drawing** (technical-drawing/) — 24 lessons:
+**Technical Drawing** (technical-drawing/) — 25 lessons:
 17 built from Ethiopia's Grade 12 teacher guide (2003 E.C.,
 GEQIP generation) as labelled evidence — see CURRICULUM.md
 and ABOUT.md for the honesty terms — 6 stocked
@@ -26,6 +26,7 @@ Resource & Technology* (Jamaica, 2018):
 - Tessellation (tessellation/)
 - Recognising geometric solids (recognising-geometric-solids/)
 - Drawing a labelled schematic of a made device (drawing-a-labelled-schematic-of-a-made-device/)
+- Technical drawing (technical-drawing/) — stocked 2026-11-17 from Morocco's *Technologie, Guide de l'enseignant(e), 3e année* (teacher-guide evidence only, counted nowhere)
 
 Four of the 17 Ethiopia-evidence lessons also carry Malta
 placements (6 placements): Surface development — flat
@@ -34,9 +35,11 @@ isometric; Orthographic projection basics; Size and
 location dimensions. Two of the 17 also carry Jamaica
 placements (2 placements): Free-hand sketching —
 principles and place in design; Dimensioning — lines,
-symbols and reading direction.
+symbols and reading direction. Orthographic projection
+basics also carries a Morocco placement (1 placement,
+teacher-guide evidence only, counted nowhere).
 
-**First Steps** (first-steps/) — 19 lessons: 3 stocked
+**First Steps** (first-steps/) — 22 lessons: 3 stocked
 2026-11-17 from Canada's *Technology in the Community*
 (Nunavut, Tulliniliara Level 14, student reader), 1
 stocked 2026-11-17 from Jamaica's *National Standards
@@ -68,8 +71,11 @@ counted nowhere):
 - Evolution of technical objects (evolution-of-technical-objects/)
 - Representing a technical object in its environment, with a written description (representing-a-technical-object-in-its-environment-with-a/)
 - How a design keeps evolving (how-a-design-keeps-evolving/)
+- The need (the-need/) — stocked 2026-11-17 from Morocco's *Al Marjie en Technologie, Guide de l'enseignant(e), 2e année* (teacher-guide evidence only, counted nowhere)
+- Technology as a system (technology-as-a-system/) — stocked 2026-11-17 from Morocco's *Al Marjie en Technologie, Guide de l'enseignant(e), 2e année* (teacher-guide evidence only, counted nowhere)
+- Evolution of technical systems (evolution-of-technical-systems/) — stocked 2026-11-17 from Morocco's *Technologie, Guide de l'enseignant(e), 3e année* (teacher-guide evidence only, counted nowhere)
 
-**Materials** (materials/) — 4 lessons: 2 stocked
+**Materials** (materials/) — 5 lessons: 2 stocked
 2026-11-17 from Finland's *Katse tulevaan*
 (TuleVa project learning material, published via aoe.fi),
 and 2 stocked 2026-11-17 from Gabon's *Super
@@ -80,6 +86,7 @@ Efficace* Sciences teacher guides, Grades 3–5
 - Life-cycle thinking in the craft process (life-cycle-thinking-in-the-craft-process/)
 - The life cycle of a product (the-life-cycle-of-a-product/)
 - The 3R rule — repair, reuse, recycle (the-3r-rule/)
+- Recycling as a technical chain (recycling-as-a-technical-chain/) — stocked 2026-11-17 from Morocco's *Al Marjie en Technologie, Guide de l'enseignant(e), 2e année* (teacher-guide evidence only, counted nowhere)
 
 **Mechanisms and Machines** (mechanisms-and-machines/) —
 8 lessons: 1 stocked 2026-11-17 from the same Canada book,
@@ -129,7 +136,7 @@ and 2 stocked 2026-11-17 from Azerbaijan's *Технология
 
 - X-ray machines (x-ray-machines/)
 
-**Design and Making** (design-and-making/) — 18 lessons:
+**Design and Making** (design-and-making/) — 22 lessons:
 1 stocked 2026-11-17 from Kuwait's الذكاء الرقمي 8
 (*Digital Intelligence, Grade 8, Term 2*, Ministry of
 Education, State of Kuwait), 6 stocked 2026-11-17
@@ -162,6 +169,10 @@ evidence):
 - Organising small-series production (organising-small-series-production/)
 - Costing and pricing a made product (costing-and-pricing-a-made-product/)
 - Diffusing a product (diffusing-a-product/)
+- Systems modelling with SysML (systems-modelling-with-sysml/) — stocked 2026-11-17 from Morocco's Technologie teacher guides, 2e and 3e années (teacher-guide evidence only, counted nowhere)
+- Enterprise foundations inside the technology course (enterprise-foundations-inside-the-technology-course/) — stocked 2026-11-17 from Morocco's *Al Marjie en Technologie, Guide de l'enseignant(e), 2e année* (teacher-guide evidence only, counted nowhere)
+- Setting up an enterprise (setting-up-an-enterprise/) — stocked 2026-11-17 from Morocco's *Al Marjie en Technologie, Guide de l'enseignant(e), 2e année* (teacher-guide evidence only, counted nowhere)
+- The design project — carrying a project through (the-design-project/) — stocked 2026-11-17 from Morocco's *Technologie, Guide de l'enseignant(e), 3e année* (teacher-guide evidence only, counted nowhere)
 
 **Models and Robotics** (models-and-robotics/) —
 10 lessons: 6 stocked 2026-11-17 from the same Kuwait book,
@@ -196,7 +207,7 @@ also carries a Jamaica placement:
 - Hand tools (hand-tools/)
 
 **Electricity and Electronics**
-(electricity-and-electronics/) — 10 lessons: 2 stocked
+(electricity-and-electronics/) — 22 lessons: 2 stocked
 2026-11-17 from Malta's Workbook 2, 6 stocked
 2026-11-17 from Jamaica's *National Standards Curriculum
 Guide — Grades 4–6 — Resource & Technology*
@@ -216,6 +227,18 @@ simple electric circuit also carries a Haiti placement
 - Building a simple electromagnetic motor (building-a-simple-electromagnetic-motor/)
 - Electrical circuit diagrams (electrical-circuit-diagrams/)
 - Electrical measurement (electrical-measurement/)
+- Technical functions of a system (technical-functions-of-a-system/) — stocked 2026-11-17 from Morocco's Technologie teacher guides (teacher-guide evidence only, counted nowhere)
+- The power-supply function (the-power-supply-function/) — stocked 2026-11-17 from Morocco's Technologie teacher guides (teacher-guide evidence only, counted nowhere)
+- The detection function (the-detection-function/) — stocked 2026-11-17 from Morocco's Technologie teacher guides (teacher-guide evidence only, counted nowhere)
+- The timing function (the-timing-function/) — stocked 2026-11-17 from Morocco's Technologie teacher guides (teacher-guide evidence only, counted nowhere)
+- The switching function (the-switching-function/) — stocked 2026-11-17 from Morocco's Technologie teacher guides (teacher-guide evidence only, counted nowhere)
+- The signalling function (the-signalling-function/) — stocked 2026-11-17 from Morocco's Technologie teacher guides (teacher-guide evidence only, counted nowhere)
+- The transmission function (the-transmission-function/) — stocked 2026-11-17 from Morocco's Technologie teacher guides (teacher-guide evidence only, counted nowhere)
+- Electronics making (electronics-making/) — stocked 2026-11-17 from Morocco's Technologie teacher guides (teacher-guide evidence only, counted nowhere)
+- The information chain of a system (the-information-chain-of-a-system/) — stocked 2026-11-17 from Morocco's Technologie teacher guides (teacher-guide evidence only, counted nowhere)
+- Sensors (sensors/) — stocked 2026-11-17 from Morocco's Technologie teacher guides (teacher-guide evidence only, counted nowhere)
+- The process function (the-process-function/) — stocked 2026-11-17 from Morocco's Technologie teacher guides (teacher-guide evidence only, counted nowhere)
+- The communicate function (the-communicate-function/) — stocked 2026-11-17 from Morocco's Technologie teacher guides (teacher-guide evidence only, counted nowhere)
 
 **Food Technology** (food-technology/) — 1 lesson,
 stocked 2026-11-17 from Azerbaijan's *Технология
@@ -244,11 +267,16 @@ teacher-guide evidence only, counted nowhere):
 - Boatbuilding construction sequence (boatbuilding-construction-sequence/)
 - Construction technology (construction-technology/)
 
-**Energy** (energy/) — 3 lessons, stocked 2026-11-17
+**Energy** (energy/) — 4 lessons: 3 stocked 2026-11-17
 from Haiti's ITAP Projet Nectar pedagogical sequences
 (MENFP, 8e AF — teacher-guide evidence only, counted
-nowhere):
+nowhere), and 1 stocked 2026-11-17 from Morocco's
+*Technologie, Guide de l'enseignant(e), 3e année*
+(teacher-guide evidence only, counted nowhere).
+Renewable energy technology also carries a Morocco
+placement (1 placement, teacher-guide evidence):
 
 - Renewable energy technology (renewable-energy-technology/)
 - Sizing a photovoltaic installation (sizing-a-photovoltaic-installation/)
 - Components of a photovoltaic system (components-of-a-photovoltaic-system/)
+- The energy chain (the-energy-chain/) — 5 Morocco placements, one per function (feed, distribute, convert, transmit, act)

@@ -549,7 +549,101 @@ and are not stocked: the two ETAP programme volumes
 curriculum/framework documents) and the LibreOffice
 Impress (PAO) sequence (pure ICT content).
 
-**Course totals: 119 lessons** — Technical Drawing 17 lessons
+## Morocco, Technologie — systems, functions and enterprise (T&D expansion, stocked 2026-11-17)
+
+Stocked from Morocco's two collège *Technologie* teacher
+guides: *Al Marjie en Technologie, Guide de
+l'enseignant(e), 2e année du cycle secondaire collégial*
+(Ministère de l'Éducation Nationale, du Préscolaire et
+des Sports, Royaume du Maroc; authors Mohammed Bittari,
+Lahbib Ammi, Noureddine Hajji; Nouvelle Édition,
+septembre 2021; Grade 8 (2e année collège); French;
+134 pp.; GitHub release asset, mid-size-books-3) and
+*Technologie, Guide de l'enseignant(e), 3e année du
+cycle secondaire collégial* (same ministry; aligned to
+the revised Technologie programme of April 2021, edition
+year not printed on the cover; Grade 9 (3e année
+collège); French; 100 pp.; GitHub release asset,
+mid-size-books-6). Both books are teacher guides —
+EVIDENCE only, counted nowhere in the acceptance count;
+the pupil manuals themselves are not in hand, and the
+placements are filed from the guides' Part 5 answer
+elements for the pupil manuals' lessons. Of the 30
+placements, 29 were NEW LESSON NEEDED (each resolved
+through the T&D slug registry to its canonical lesson;
+22 built new, and 1 — renewable energy technology —
+stocked into the existing lesson of that name) and 1
+stocked into the existing Orthographic projection
+basics lesson.
+
+- **First Steps** (3 new lessons, 13 questions each):
+  The need (Al Marjie 2e, printed pp. 64–66);
+  Technology as a system (printed pp. 67–69);
+  Evolution of technical systems (Guide 3e, printed
+  pp. 44–46).
+- **Design and Making** (4 new lessons, 13 questions
+  each): Systems modelling with SysML (Al Marjie 2e,
+  printed pp. 70–72, resource pp. 14–22; Guide 3e,
+  printed pp. 14–22); Enterprise foundations inside the
+  technology course (Al Marjie 2e, printed pp. 96–107);
+  Setting up an enterprise (printed pp. 108–116 and
+  pp. 117–125); The design project — carrying a project
+  through (Guide 3e, printed pp. 85–94 — the generic
+  `project` wrapper placement, stocked here per the
+  registry: designing and building an autonomous wind
+  turbine).
+- **Materials** (1 new lesson, 13 questions):
+  Recycling as a technical chain — the glass-bottle
+  loop (Al Marjie 2e, printed pp. 94–95).
+- **Technical Drawing** (1 new lesson, 13 questions):
+  Technical drawing — cavalier perspective, the
+  assembly drawing (dessin d'ensemble) and scales,
+  worked on a photographed Moroccan coin at 2:1
+  (Guide 3e, printed pp. 74–76).
+- **Electricity and Electronics** (12 new lessons,
+  13 questions each): Technical functions of a system
+  (Al Marjie 2e, printed pp. 73–75); The power-supply
+  function (printed pp. 76–78); The detection function
+  (printed pp. 79–80); The timing function (printed
+  pp. 81–83); The switching function (printed
+  pp. 84–86); The signalling function (printed
+  pp. 87–89); The transmission function (printed
+  pp. 90–92); Electronics making (printed pp. 93–95);
+  The information chain of a system (Guide 3e, printed
+  pp. 47–49); Sensors (printed pp. 50–52); The process
+  function (printed pp. 53–58); The communicate
+  function (printed pp. 59–61).
+- **Energy** (1 new lesson, 13 questions): The energy
+  chain — five placements, one per function: feed
+  (Guide 3e, printed pp. 62–64), distribute (printed
+  pp. 65–66), convert (printed pp. 67–69), transmit
+  (printed pp. 70–71), act (printed pp. 72–73).
+- **Existing lessons stocked from Morocco**
+  (2 placements): Renewable energy technology
+  (Guide 3e, printed pp. 78–84); Orthographic
+  projection basics (Guide 3e, printed p. 77). Both
+  keep their earlier status; Morocco adds
+  teacher-guide evidence only, counted nowhere.
+
+Morocco's own way is content and is carried in each
+lesson's sources: Morocco teaches Technologie in
+collège as a systems course — a technical object is
+read through its functions (power supply, detection,
+timing, switching, signalling, transmission), modelled
+with SysML against a functional specification (Cdcf),
+and the course closes with enterprise creation and a
+full design-and-build project (the autonomous wind
+turbine).
+
+Placements at
+liqlearns-courses-work/expansion-td-2026-11-17/morocco-placements.md.
+Six further Morocco records in that file are
+RECORD-ONLY and are not stocked: the Explora 1–6
+*Sciences & Technologie* primary teacher guides
+(Dar Attakafa) — general-science awakening, out of
+scope for this course per the country map.
+
+**Course totals: 141 lessons** — Technical Drawing 17 lessons
 (Ethiopia, teacher-guide evidence) plus the 7 Canada lessons
 above (First Steps 3, Mechanisms and Machines 1, Electrical
 Installations and the Home 1, Textiles and Fashion 1,
@@ -581,7 +675,14 @@ lines, symbols and reading direction), Azerbaijan
 also stocked 1 placement into the existing What
 technology is lesson, and Haiti also stocked 7 placements
 into 2 existing lessons (The design process, The simple
-electric circuit).
+electric circuit). plus the
+22 Morocco lessons above (First Steps 3, Design and
+Making 4, Materials 1, Technical Drawing 1, Electricity
+and Electronics 12, Energy 1 — all teacher-guide
+evidence only, counted nowhere in the acceptance
+count); Morocco also stocked 2 placements into 2
+existing lessons (Renewable energy technology,
+Orthographic projection basics).
 
 - **Coverage-audit fix pass (2026-11-12)** — the placement-coverage
   audit found 17 of 19 placements stocked; the fix build closed
