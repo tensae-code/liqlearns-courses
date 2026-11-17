@@ -1,10 +1,12 @@
 # Sources — The Judiciary and the Courts
 
-countries: Yemen, Bahamas
+countries: Yemen, Bahamas, Afghanistan
 
 **Book 1:** *التربية الوطنية للصف الخامس من مرحلة التعليم الأساسي (National Education for Grade 5 of Basic Education)* (student book, Arabic) — Republic of Yemen, Ministry of Education; year 1442 AH / 2021 CE (cover print); ISBN no ISBN printed. Title as printed: التربية الوطنية للصف الخامس من مرحلة التعليم الأساسي (National Education for Grade 5 of Basic Education). Grade: 5 (student/teacher: STUDENT). PDF pages: 66 (cover/title page verified against the record title; 6,489,380 bytes, Wayback snapshot 20220212143057 of the recorded source_url). Earlier waves: not read before (no earlier wave held this civics book). Verdict: COMPLETE (full page-by-page read, civics track). Contents map: Civics/Citizenship/Government pp. 19–21 (national symbols), pp. 23–33 (Unit 2 administrative organisation), pp. 34–46 (Unit 3 the state's authorities); History pp. 7–18 (Unit 1 Yemeni revolutions and steadfastness — named, not placed), pp. 47–63 (Unit 4 Yemeni figures: Imam al-Qasim ibn Muhammad, Rajih Ghalib Labouza, President Ibrahim al-Hamdi, the poet Abdullah al-Baradouni — named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/yemen-placements.md.
 
 **Book 2:** *Bahamas Primary Social Studies Digital Textbook — Grade 6 (First Edition 2023)* (student book, English) — Bahamas Ministry of Education (Innovation Unit); First Edition 2023; ISBN no ISBN printed. Title as printed: Bahamas Primary Social Studies Digital Textbook — Grade 6 (First Edition 2023). Grade: Grade 6 (student/teacher: STUDENT). PDF pages: 35 (staging file 53,162,830 bytes on disk; spread deck). Earlier waves: Geography wave placed spreads 7–10; History wave placed spreads 1–6, 29–31 (19 placements); Economics wave placed spreads 11, 21, 23, 24. Verdict: COMPLETE (remaining strands: Civics spreads 12–22, 25–28 as mapped by the Economics wave and not placed by any earlier wave). Contents map: Civics/Citizenship/Government spreads 12–22, 25–28 (Types of Government; Electoral Process; Court System; Constitution and Citizenship; Law Enforcement; United Nations; Transportation and Communication; Customs); History spreads 1–6, 29–31; Geography spreads 7–10; Economics spreads 11, 21, 23, 24; Culture spreads 32–35. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/bahamas-placements.md.
+
+**Book 3:** *Social Studies, Grade 6 (دروس اجتماعی صنف ششم)* (student book, Dari) — Title as printed: دروس اجتماعی صنف ششم (Social Studies, Grade 6). Grade: 6 (student/teacher: STUDENT). Publisher: Ministry of Education, Afghanistan; year 1398 HS (2019/20) as printed; ISBN no ISBN printed. PDF pages: 106 (cover verified against the record title; 8,468,695 bytes via grab tree route — grab.py's Python route failed three times with proxy RemoteDisconnected, so the same Contents-API route was run through curl with byte-size and blob-SHA verification, matching the earlier waves' size exactly). Earlier waves: Geography wave placed Lessons 1 and 11 (our country; provinces) and Lessons 12–17 (the six neighbouring countries); History wave placed Lessons 26–34 (Afghanistan 1973–2004) and Lessons 35–50 (early Islamic history); Economics wave filed this book's Grade 4/5 companions UNREAD (tree 404) but did not hold this Grade 6 record. Verdict: COMPLETE — the remaining civics/values chapters (Chapter 1 state lessons and Chapter 3 "Peace and national unity") read page by page (printed pp. 3–17 and 35–49) and placed below. Contents map: Integrated SS pp. 1–2 (Lesson 1 our country — placed by Geography); Civics/Citizenship/Government pp. 3–17 (Lessons 2–9: need for a state, constitution, our state, National Council, Wolesi Jirga, Meshrano Jirga, executive, judiciary) and pp. 35–49 (Lessons 18–25: national unity, peace and security, public property, media ethics, human dignity, respecting the law, children's rights, women's rights); Geography pp. 21–33 (provinces; neighbours — placed by Geography); History pp. 19 (Lesson 10 glories of Afghanistan — named by History) and pp. 51–67 (recent events — placed by History); Religion pp. 69–99 (Islamic history — placed by History). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/afghanistan-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -12,8 +14,9 @@ countries: Yemen, Bahamas
 | Sub lesson 2 — Yemen's way — the book's own teaching way | Yemen — the book's own way of teaching (see below) |
 
 | Bahamas part — culture-and-work/the-court-system — Court System spreads — teaches: the courts and how they settle cases and uphold the law — Bahamas Grade 6 Bahamas Primary Social Studies Digital Textbook G6, spreads 12–22 | Bahamas, *Bahamas Primary Social Studies Digital Textbook — Grade 6* (student book), Court System spreads — spreads 12–22 |
+| Afghanistan part — culture-and-work/the-judiciary-courts-and-independent-judges — Lesson 9: Judiciary power — teaches: an independent branch — Supreme Court, appeal courts and primary courts; judges apply the constitution and laws, answer to no one's personal orders, and carry the heavy duty of securing justice — Afghanistan Grade 6 Social Studies (Dari), printed p. 17 | Afghanistan, *Social Studies, Grade 6* (student book), Lesson 9: Judiciary power — printed p. 17 |
 
-**Acceptance count: taught in 2 countries (Yemen, Bahamas).**
+**Acceptance count: taught in 3 countries (Yemen, Bahamas, Afghanistan).**
 
 Bahamas' own way (Grade 6): Grade 6 is the state year — government type, elections, courts, the constitution and citizenship are taught as one civics block closing primary school.
 
@@ -23,4 +26,8 @@ Yemen's own way (G5 National Education): a standalone National Education book th
 
 Registry note: the original coined string `culture-and-work/the-judicial-authority` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/the-judiciary-and-the-courts`.
 
-Searchable tags: the judiciary and the courts, Yemen, social studies, culture-and-work, Bahamas
+Searchable tags: the judiciary and the courts, Yemen, social studies, culture-and-work, Bahamas, Afghanistan
+
+Afghanistan's own way (Grade 6 Social Studies): the Afghan state is taught as the child's own house — society needs a state as a family needs order; the 2004 constitution is the "mother law"; the two houses are named in Pashto (Wolesi Jirga, Meshrano Jirga) and every right (children's, women's, human dignity) is grounded first in Islam and then in the constitution's own articles.
+
+Registry note: the original coined string `culture-and-work/the-judiciary-courts-and-independent-judges` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/the-judiciary-and-the-courts`.
