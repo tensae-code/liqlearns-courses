@@ -1,6 +1,6 @@
 # Sources — Dribbling, Shooting and the Jump Throw
 
-countries: Ethiopia, China, Philippines, Maldives, Belize, Honduras, Mauritius, Iran, North Macedonia
+countries: Ethiopia, China, Philippines, Maldives, Belize, Honduras, Mauritius, Iran, North Macedonia, Jordan
 
 **Book — Grade 5 student:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 106 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md. COMPLETE.
 
@@ -32,7 +32,7 @@ countries: Ethiopia, China, Philippines, Maldives, Belize, Honduras, Mauritius, 
 | Handball — the dive throw, goalkeeping and passing — Grades 8–10 | Ethiopia, Grade 10 student §7.2 Goalkeeping, printed pp. 116–120 |
 | Handball — the dive throw, goalkeeping and passing — Grades 8–10 | Ethiopia, Grade 9 teacher Unit 7 goalkeeping (teacher guide — evidence), printed pp. 95–100 |
 | Handball — the dive throw, goalkeeping and passing — Grades 8–10 | Ethiopia, Grade 10 teacher Unit 7 advanced goalkeeping (teacher guide — evidence), printed pp. 79–80 |
-**Acceptance count: taught in 7 countries (Ethiopia, China, Philippines, Honduras, Mauritius, Iran, North Macedonia).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. China is added as student-book stock (see its rows below), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count; the Mauritius teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count.
+**Acceptance count: taught in 8 countries (Ethiopia, China, Philippines, Honduras, Mauritius, Iran, North Macedonia, Jordan).** Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. China is added as student-book stock (see its rows below), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count; the Mauritius teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count.
 
 The Grade 5 and Grade 6 teacher guides' ball-games chapters are in the truncated missing ranges of those scans (G5T Chapter 6, pp. 57–77; G6T Chapter 6, pp. 65–82), so this lesson rests on the complete student books only; no teacher-guide pages are claimed for it.
 
@@ -302,3 +302,63 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/north-macedo
 | North Macedonia — Basketball: shooting — the one-handed set shot from a parallel stance; the jump shot (скок-шут), gathered from a dribble, a pass or in place and released at the top of the jump; and the hook shot over the head (хорог) after a two-step, shielding the ball with the body (original target `ball-games/dribbling-shooting-and-the-jump-throw`) | North Macedonia Grade 11 Sport, printed pp. 75–76 |
 
 North Macedonia's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. North Macedonia's own way is content, as the book lines above record it: one combined “Physical and Health Education” subject through primary school; the Grade 9 year runs body-development exercise complexes → athletics → apparatus gymnastics with rhythmics → Macedonian folk ora and modern dances → the four team games plus table tennis, then a whole second half of optional topics agreed with parents (swimming, skiing, excursions, mountaineering, cycling, roller and ice skating); and, for the gymnasium book, in gymnasium the subject is renamed “Sport and Sports Activities” and turns encyclopaedic — every sport is taught as technique + tactics + full rules + its world history AND its Macedonian history (handball arriving in Skopje in 1948, basketball in Štip in 1933, Vardar and the federations' FIFA/FIBA/IHF memberships), and pupils choose elective areas, including a “Fitness and health” area with aerobics, gym fitness and Pilates. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Jordan — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/jordan-pe-placements.md. The Jordan books stocked in this lesson are Book 3, Book 4, Book 6, Book 7. Jordan is student-book stock, inside the acceptance count, in this lesson. Jordan's own way is content, as the book lines below record it: Jordan's NCCD student books in Arabic: the youngest grades learn PE through posture-and-health routines, team relay games and acted movement stories, every unit closing with a picture-based unit review; Grade 3 builds one named skill per lesson, then whole units on single fitness elements; from Grade 7 each sport unit follows the same frame — skill lessons, a printed "Law of the Game" page inside every lesson, values work and a closing public-safety or health-concepts unit — and the books close with Jordan's own King Abdullah II Award for Physical Fitness page. The health/safety units inside these PE books are filed in jordan-health-placements.md.
+
+**Book — Jordan PE Grade 3 Term 2 (student book, Arabic):**
+## Book 3 — Jordan PE Grade 3 Term 2 (student book, Arabic)
+- Title as printed: التربية الرياضية — الصف الثالث الأساسي — الفصل الدراسي الثاني (Physical Education, Third Basic Grade, Second Semester)
+- Grade: 3 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development (NCCD), Amman; year 2024; ISBN 978-9923-41-680-8
+- PDF pages: 42 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 15 placements — 9 to existing lessons, 6 NEW LESSON NEEDED
+- Jordan's own way: Term 2 turns to coordination games and chant-led expressive movement (movements performed to sports and national songs), and the book closes with Jordan's own King Abdullah II Award for Physical Fitness (printed p. 42).
+
+**Book — Jordan PE Grade 7 Term 1 (student book, Arabic):**
+## Book 4 — Jordan PE Grade 7 Term 1 (student book, Arabic)
+- Title as printed: التربية الرياضية — الصف السابع — الفصل الدراسي الأول (Physical Education, Grade Seven, First Semester)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development (NCCD), Amman; year 2024; ISBN 978-9923-41-687-7
+- PDF pages: 57 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 16 placements — 10 to existing lessons, 6 NEW LESSON NEEDED (PE file) + 1 placement filed in the Health file (Unit 5 Public Safety)
+- Jordan's own way: from Grade 7 each sport unit follows the same frame — skill lessons, a printed "Law of the Game" page inside every lesson (here the futsal/football international rules), values work, and a closing unit on public safety; the book ends with the King Abdullah II Award for Physical Fitness page (printed p. 57).
+
+**Book — Jordan PE Grade 9 Term 1 (student book, Arabic):**
+## Book 6 — Jordan PE Grade 9 Term 1 (student book, Arabic)
+- Title as printed: التربية الرياضية — الصف التاسع — الفصل الدراسي الأول (Physical Education, Grade Nine, First Semester)
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development (NCCD), Amman; year 2024; ISBN 978-9923-41-689-1
+- PDF pages: 64 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 18 placements — 12 to existing lessons, 6 NEW LESSON NEEDED (PE file) + 1 placement filed in the Health file (Unit 5 Public Safety)
+- Jordan's own way: Grade 9 deepens the same sports with deception and game craft (feinting in football, the layup and pivoting in basketball), adds vaulting to the rhythm unit, and keeps the public-safety unit — now first aid for fractures; King Abdullah II Award page closes the book (printed p. 64).
+
+**Book — Jordan PE Grade 9 Term 2 (student book, Arabic):**
+## Book 7 — Jordan PE Grade 9 Term 2 (student book, Arabic)
+- Title as printed: التربية الرياضية — الصف التاسع — الفصل الدراسي الثاني (Physical Education, Grade Nine, Second Semester)
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development (NCCD), Amman; year 2024; ISBN 978-9923-41-690-7
+- PDF pages: 63 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 19 placements — 15 to existing lessons, 4 NEW LESSON NEEDED (PE file) + 1 placement filed in the Health file (Unit 9, Lesson 1)
+- Jordan's own way: Term 2 advances the relay to 4 × 200 m, adds the discus, teaches handball in motion (dribbling on the run, the side pass), and closes with health concepts for adolescents; King Abdullah II Award page closes the book (printed p. 63).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan — Unit 4, Lesson 4: Running while Bouncing the Ball — bouncing the ball while running at different heights and along different paths (original target `ball-games/dribbling-shooting-and-the-jump-throw`) | Jordan Grade 3 PE Term 2, printed p. 13 |
+| Jordan — Unit 2 Basketball, Lesson 1: The Chest Pass and the Bounce Pass while Moving — the two basic basketball passes, stationary and in motion (original target `ball-games/dribbling-shooting-and-the-jump-throw`) | Jordan Grade 7 PE Term 1, printed p. 24 |
+| Jordan — Unit 2, Lesson 2: Two-Handed Shooting from Standing — the set shot with both hands from a standing position (original target `ball-games/dribbling-shooting-and-the-jump-throw`) | Jordan Grade 7 PE Term 1, printed p. 27 |
+| Jordan — Unit 2, Lesson 3: The Defensive Stance — the ready defensive position in basketball (original target `ball-games/dribbling-shooting-and-the-jump-throw`) | Jordan Grade 7 PE Term 1, printed p. 30 |
+| Jordan — Unit 2 Basketball, Lesson 1: The Two-Handed Overhead Pass — passing with both hands from above the head (original target `ball-games/dribbling-shooting-and-the-jump-throw`) | Jordan Grade 9 PE Term 1, printed p. 19 |
+| Jordan — Unit 2, Lesson 2: Shooting from the Jump — the jump shot (original target `ball-games/dribbling-shooting-and-the-jump-throw`) | Jordan Grade 9 PE Term 1, printed p. 22 |
+| Jordan — Unit 2, Lesson 3: The Layup Shot — the running layup (original target `ball-games/dribbling-shooting-and-the-jump-throw`) | Jordan Grade 9 PE Term 1, printed p. 25 |
+| Jordan — Unit 2, Lesson 4: Front and Back Pivoting — pivoting on one foot, forward and backward (original target `ball-games/dribbling-shooting-and-the-jump-throw`) | Jordan Grade 9 PE Term 1, printed p. 28 |
+| Jordan — Unit 2, Lesson 5: Dribbling — dribbling the basketball in play (original target `ball-games/dribbling-shooting-and-the-jump-throw`) | Jordan Grade 9 PE Term 1, printed p. 31 |
+| Jordan — Unit 7 Handball, Lesson 1: Dribbling the Ball while Running — bouncing the ball on the move in handball (original target `ball-games/dribbling-shooting-and-the-jump-throw`) | Jordan Grade 9 PE Term 2, printed p. 24 |
+| Jordan — Unit 7, Lesson 4: Shooting the Ball from Standing — the standing shot in handball (original target `ball-games/dribbling-shooting-and-the-jump-throw`) | Jordan Grade 9 PE Term 2, printed p. 33 |
+
+Jordan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Jordan is student-book stock, inside the acceptance count, in this lesson. Jordan's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

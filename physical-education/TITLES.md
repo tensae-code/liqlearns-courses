@@ -300,3 +300,12 @@ The PE expansion then added: **Football Techniques**
 and **Traditional Games of Malaysia**
 (`traditional-games-and-dances/traditional-games-of-malaysia`)
 — 12 new lessons, bringing this course to 187 lessons.
+
+The PE expansion then added: **Relay Games**
+(`games-to-play/relay-games`), **Movement Stories**
+(`gymnastics/movement-stories`), **The King Abdullah II
+Award for Physical Fitness**
+(`fitness-and-stretching/king-abdullah-ii-award-for-physical-fitness`)
+and **Volleyball Serving**
+(`ball-games/volleyball-serving`)
+— 4 new lessons, bringing this course to 191 lessons.

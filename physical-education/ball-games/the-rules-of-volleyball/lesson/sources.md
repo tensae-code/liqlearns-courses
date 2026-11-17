@@ -1,6 +1,6 @@
 # Sources — The Rules of Volleyball
 
-countries: Ethiopia, Timor-Leste, Pakistan, Afghanistan, China, Azerbaijan, Fiji, Mauritius, Iran, North Macedonia
+countries: Ethiopia, Timor-Leste, Pakistan, Afghanistan, China, Azerbaijan, Fiji, Mauritius, Iran, North Macedonia, Jordan
 
 **Book — Grade 9 student:** *Health and Physical Education Student's Textbook Grade 9* (student textbook, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, First Published August 2023, ISBN 978-99990-0-072-7, 156 printed pp. Printed page = PDF page − 10. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g09-student-placements.md. COMPLETE.
 **Book — Grade 9 teacher (teacher guide — evidence):** *Health and Physical Education — Teacher Guide, Grade 9* (teacher guide, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, © 2022, printed pp. I–IX + 1–116. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g09-teacher-placements.md. COMPLETE.
@@ -15,7 +15,7 @@ countries: Ethiopia, Timor-Leste, Pakistan, Afghanistan, China, Azerbaijan, Fiji
 | Facilities, equipment and the referees (teacher guide — evidence) | Ethiopia, Grade 9 teacher Unit 5, Rules of volleyball (teacher guide — evidence), printed pp. 63–64 |
 
 | Timor-Leste — Appendix 4: Volleyball — the game's rules and mini-games (teacher guide — evidence) (original target `ball-games/the-rules-of-volleyball`) | Timor-Leste, *Educação Física 7, Guia do Professor* (Timor-Leste Grade 7 Teacher Guide), printed pp. 157–230 (Appendix 4) |
-**Acceptance count: taught in 7 countries (Ethiopia, Pakistan, China, Azerbaijan, Mauritius, Iran, North Macedonia).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Timor-Leste is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count.
+**Acceptance count: taught in 8 countries (Ethiopia, Pakistan, China, Azerbaijan, Mauritius, Iran, North Macedonia, Jordan).** Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Timor-Leste is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count.
 
 The Grade 9 books are the English federal 2023 GEQIP-E series; Grade 9 target terms are given as the books print them, in English. The Grade 9 teacher guide is COMPLETE.
 
@@ -252,3 +252,34 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/north-macedo
 | North Macedonia — The rules of volleyball — the court 18 × 9 m with a 3 m attack line, the net at 2.43 m for men and 2.24 m for women, the ball of 260–280 g; sets to 25 points (the fifth to 15) with a two-point difference, three hits per side, rotation when regaining the serve, front-row-only blocking and attacking restrictions for back-row players, the libero, and the officials including the challenge referee (original target `ball-games/the-rules-of-volleyball`) | North Macedonia Grade 11 Sport, printed pp. 83–84 |
 
 North Macedonia's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. North Macedonia's own way is content, as the book lines above record it: in gymnasium the subject is renamed “Sport and Sports Activities” and turns encyclopaedic — every sport is taught as technique + tactics + full rules + its world history AND its Macedonian history (handball arriving in Skopje in 1948, basketball in Štip in 1933, Vardar and the federations' FIFA/FIBA/IHF memberships), and pupils choose elective areas, including a “Fitness and health” area with aerobics, gym fitness and Pilates. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Jordan — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/jordan-pe-placements.md. The Jordan books stocked in this lesson are Book 5, Book 7. Jordan is student-book stock, inside the acceptance count, in this lesson. Jordan's own way is content, as the book lines below record it: Jordan's NCCD student books in Arabic: the youngest grades learn PE through posture-and-health routines, team relay games and acted movement stories, every unit closing with a picture-based unit review; Grade 3 builds one named skill per lesson, then whole units on single fitness elements; from Grade 7 each sport unit follows the same frame — skill lessons, a printed "Law of the Game" page inside every lesson, values work and a closing public-safety or health-concepts unit — and the books close with Jordan's own King Abdullah II Award for Physical Fitness page. The health/safety units inside these PE books are filed in jordan-health-placements.md.
+
+**Book — Jordan PE Grade 7 Term 2 (student book, Arabic):**
+## Book 5 — Jordan PE Grade 7 Term 2 (student book, Arabic)
+- Title as printed: التربية الرياضية — الصف السابع — الفصل الدراسي الثاني (Physical Education, Grade Seven, Second Semester)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development (NCCD), Amman; year 2024; ISBN 978-9923-41-688-4
+- PDF pages: 60 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 17 placements — 13 to existing lessons, 4 NEW LESSON NEEDED (PE file) + 2 placements filed in the Health file (Unit 9 Health Concepts and Habits)
+- Jordan's own way: Term 2 gives athletics a full six-lesson unit with named techniques (hang-style long jump, Fosbury flop, 3 kg shot), then handball and volleyball, and closes with a health-concepts unit; the King Abdullah II Award page closes the book (printed p. 60).
+
+**Book — Jordan PE Grade 9 Term 2 (student book, Arabic):**
+## Book 7 — Jordan PE Grade 9 Term 2 (student book, Arabic)
+- Title as printed: التربية الرياضية — الصف التاسع — الفصل الدراسي الثاني (Physical Education, Grade Nine, Second Semester)
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development (NCCD), Amman; year 2024; ISBN 978-9923-41-690-7
+- PDF pages: 63 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 19 placements — 15 to existing lessons, 4 NEW LESSON NEEDED (PE file) + 1 placement filed in the Health file (Unit 9, Lesson 1)
+- Jordan's own way: Term 2 advances the relay to 4 × 200 m, adds the discus, teaches handball in motion (dribbling on the run, the side pass), and closes with health concepts for adolescents; King Abdullah II Award page closes the book (printed p. 63).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan — Unit 8, Law of the Game pages: volleyball rules taught inside the lessons (original target `ball-games/the-rules-of-volleyball`) | Jordan Grade 7 PE Term 2, printed pp. 41–50 |
+| Jordan — Unit 8, Law of the Game pages: volleyball rules taught inside the lessons (original target `ball-games/the-rules-of-volleyball`) | Jordan Grade 9 PE Term 2, printed pp. 43–53 |
+
+Jordan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Jordan is student-book stock, inside the acceptance count, in this lesson. Jordan's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

@@ -1,8 +1,8 @@
 # Sources — Badminton Techniques
 
-countries: China, Azerbaijan, Mauritius, Iran, North Macedonia
+countries: China, Azerbaijan, Mauritius, Iran, North Macedonia, Jordan
 
-**Acceptance count: taught in 5 countries (China, Azerbaijan, Mauritius, Iran, North Macedonia).** China is student-book stock (see its rows below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count.
+**Acceptance count: taught in 6 countries (China, Azerbaijan, Mauritius, Iran, North Macedonia, Jordan).** Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. China is student-book stock (see its rows below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count.
 
 ## China — PE expansion 2026-11-16
 
@@ -140,3 +140,39 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/north-macedo
 | North Macedonia — Badminton — an Olympic sport from 1992 played with a 16-feather shuttlecock of 4.74–5.55 g: the court 13.41 m long, 5.18 m wide for singles and 6.1 m for doubles, the net 1.55 m at the centre, the short service line at 1.98 m; best of three games to 21 points (a two-point difference, capped at 30), the diagonal serve below waist height, and serving from the right or left court by the parity of the score (original target `ball-games/badminton`) | North Macedonia Grade 11 Sport, printed pp. 122–123 |
 
 North Macedonia's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. North Macedonia's own way is content, as the book lines above record it: one combined “Physical and Health Education” subject through primary school; the Grade 9 year runs body-development exercise complexes → athletics → apparatus gymnastics with rhythmics → Macedonian folk ora and modern dances → the four team games plus table tennis, then a whole second half of optional topics agreed with parents (swimming, skiing, excursions, mountaineering, cycling, roller and ice skating); and, for the gymnasium book, in gymnasium the subject is renamed “Sport and Sports Activities” and turns encyclopaedic — every sport is taught as technique + tactics + full rules + its world history AND its Macedonian history (handball arriving in Skopje in 1948, basketball in Štip in 1933, Vardar and the federations' FIFA/FIBA/IHF memberships), and pupils choose elective areas, including a “Fitness and health” area with aerobics, gym fitness and Pilates. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Jordan — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/jordan-pe-placements.md. The Jordan books stocked in this lesson are Book 4, Book 6. Jordan is student-book stock, inside the acceptance count, in this lesson. Jordan's own way is content, as the book lines below record it: Jordan's NCCD student books in Arabic: the youngest grades learn PE through posture-and-health routines, team relay games and acted movement stories, every unit closing with a picture-based unit review; Grade 3 builds one named skill per lesson, then whole units on single fitness elements; from Grade 7 each sport unit follows the same frame — skill lessons, a printed "Law of the Game" page inside every lesson, values work and a closing public-safety or health-concepts unit — and the books close with Jordan's own King Abdullah II Award for Physical Fitness page. The health/safety units inside these PE books are filed in jordan-health-placements.md.
+
+**Book — Jordan PE Grade 7 Term 1 (student book, Arabic):**
+## Book 4 — Jordan PE Grade 7 Term 1 (student book, Arabic)
+- Title as printed: التربية الرياضية — الصف السابع — الفصل الدراسي الأول (Physical Education, Grade Seven, First Semester)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development (NCCD), Amman; year 2024; ISBN 978-9923-41-687-7
+- PDF pages: 57 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 16 placements — 10 to existing lessons, 6 NEW LESSON NEEDED (PE file) + 1 placement filed in the Health file (Unit 5 Public Safety)
+- Jordan's own way: from Grade 7 each sport unit follows the same frame — skill lessons, a printed "Law of the Game" page inside every lesson (here the futsal/football international rules), values work, and a closing unit on public safety; the book ends with the King Abdullah II Award for Physical Fitness page (printed p. 57).
+
+**Book — Jordan PE Grade 9 Term 1 (student book, Arabic):**
+## Book 6 — Jordan PE Grade 9 Term 1 (student book, Arabic)
+- Title as printed: التربية الرياضية — الصف التاسع — الفصل الدراسي الأول (Physical Education, Grade Nine, First Semester)
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development (NCCD), Amman; year 2024; ISBN 978-9923-41-689-1
+- PDF pages: 64 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 18 placements — 12 to existing lessons, 6 NEW LESSON NEEDED (PE file) + 1 placement filed in the Health file (Unit 5 Public Safety)
+- Jordan's own way: Grade 9 deepens the same sports with deception and game craft (feinting in football, the layup and pivoting in basketball), adds vaulting to the rhythm unit, and keeps the public-safety unit — now first aid for fractures; King Abdullah II Award page closes the book (printed p. 64).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan — Unit 3 Badminton, Lesson 1: The Short Serve — serving low and short in badminton (original target `ball-games/badminton-serving-and-shots`) | Jordan Grade 7 PE Term 1, printed p. 35 |
+| Jordan — Unit 3, Lesson 2: Block and Drive Shots, Forehand and Backhand — defensive blocks and flat drives on both sides (original target `ball-games/badminton-serving-and-shots`) | Jordan Grade 7 PE Term 1, printed p. 38 |
+| Jordan — Unit 3, Lesson 3: Singles and Doubles Drills and Competitions — applying badminton skills in individual and pairs competition, with the unit's rules pages (original target `ball-games/badminton-serving-and-shots`) | Jordan Grade 7 PE Term 1, printed p. 41 |
+| Jordan — Unit 3 Badminton, Lesson 1: The High Serve — the deep high serve (original target `ball-games/badminton-serving-and-shots`) | Jordan Grade 9 PE Term 1, printed p. 38 |
+| Jordan — Unit 3, Lesson 2: Front Drop Shots — drop shots played from the front of the court (original target `ball-games/badminton-serving-and-shots`) | Jordan Grade 9 PE Term 1, printed p. 41 |
+| Jordan — Unit 3, Lesson 3: Lobbed Shots — high curved clear shots to the back of the court (original target `ball-games/badminton-serving-and-shots`) | Jordan Grade 9 PE Term 1, printed p. 44 |
+| Jordan — Unit 3, Lesson 4: Linking the Skills in Drills and Group Play — applying badminton skills in play, with the unit's rules pages (original target `ball-games/badminton-serving-and-shots`) | Jordan Grade 9 PE Term 1, printed p. 47 |
+
+Jordan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Jordan is student-book stock, inside the acceptance count, in this lesson. Jordan's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

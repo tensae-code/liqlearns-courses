@@ -1,8 +1,8 @@
 # Sources — Football Techniques
 
-countries: Malaysia
+countries: Malaysia, Jordan
 
-**Acceptance count: taught in 1 country (Malaysia).** Malaysia is student-book stock (see its rows below), inside the acceptance count.
+**Acceptance count: taught in 2 countries (Malaysia, Jordan).** Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Malaysia is student-book stock (see its rows below), inside the acceptance count.
 
 ## Malaysia — PE expansion 2026-11-16
 
@@ -29,3 +29,23 @@ Malaysia's placements in this lesson were filed under the original strings recor
 This is a canonical NEW lesson (slug-registry Part 1: `ball-games/football-techniques` — Football techniques: kicking in its forms, heading and tackling.)
 
 Searchable tags: football techniques, Malaysia
+
+## Jordan — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/jordan-pe-placements.md. The Jordan books stocked in this lesson are Book 4. Jordan is student-book stock, inside the acceptance count, in this lesson. Jordan's own way is content, as the book lines below record it: Jordan's NCCD student books in Arabic: the youngest grades learn PE through posture-and-health routines, team relay games and acted movement stories, every unit closing with a picture-based unit review; Grade 3 builds one named skill per lesson, then whole units on single fitness elements; from Grade 7 each sport unit follows the same frame — skill lessons, a printed "Law of the Game" page inside every lesson, values work and a closing public-safety or health-concepts unit — and the books close with Jordan's own King Abdullah II Award for Physical Fitness page. The health/safety units inside these PE books are filed in jordan-health-placements.md.
+
+**Book — Jordan PE Grade 7 Term 1 (student book, Arabic):**
+## Book 4 — Jordan PE Grade 7 Term 1 (student book, Arabic)
+- Title as printed: التربية الرياضية — الصف السابع — الفصل الدراسي الأول (Physical Education, Grade Seven, First Semester)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development (NCCD), Amman; year 2024; ISBN 978-9923-41-687-7
+- PDF pages: 57 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 16 placements — 10 to existing lessons, 6 NEW LESSON NEEDED (PE file) + 1 placement filed in the Health file (Unit 5 Public Safety)
+- Jordan's own way: from Grade 7 each sport unit follows the same frame — skill lessons, a printed "Law of the Game" page inside every lesson (here the futsal/football international rules), values work, and a closing unit on public safety; the book ends with the King Abdullah II Award for Physical Fitness page (printed p. 57).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan — Unit 1, Lesson 3: Heading the Ball while Moving — striking the ball with the head in motion, technique and practice (original target `ball-games/heading-the-ball`) | Jordan Grade 7 PE Term 1, printed p. 13 |
+
+Jordan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Jordan is student-book stock, inside the acceptance count, in this lesson. Jordan's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

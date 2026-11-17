@@ -1,8 +1,8 @@
 # Sources — Correct Posture
 
-countries: Pakistan, China, El Salvador, Philippines, Azerbaijan, Mauritius, Iran
+countries: Pakistan, China, El Salvador, Philippines, Azerbaijan, Mauritius, Iran, Jordan
 
-**Acceptance count: taught in 6 countries (Pakistan, China, Philippines, Azerbaijan, Mauritius, Iran).** Pakistan is student-book stock (see its rows below), inside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count.
+**Acceptance count: taught in 7 countries (Pakistan, China, Philippines, Azerbaijan, Mauritius, Iran, Jordan).** Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Pakistan is student-book stock (see its rows below), inside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count.
 
 ## Pakistan — PE expansion 2026-11-16
 
@@ -156,3 +156,24 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/iran-pe-plac
 | Iran — Lesson "Standing, walking, running and bow legs" — posture in standing and gait, bow legs (original target `fitness-and-stretching/posture-and-postural-deviations`) | Iran, *Physical Education, Year 1, special-needs vocational secondary: Physical Fitness (C181-11)*, Lesson "Standing, walking, running and bow legs", printed p. 14 |
 
 Iran's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Iran's own way is content, as the book lines above record it: PE taught as a profession with a knowledge base — a Grade 10 theory book before any workshop book, workshop books of competency units with continuous and final assessment, team games taught as full coaching units with kabaddi standing as a full module beside them, and a special-needs fitness course of very short lessons with one idea each. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Jordan — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/jordan-pe-placements.md. The Jordan books stocked in this lesson are Book 1. Jordan is student-book stock, inside the acceptance count, in this lesson. Jordan's own way is content, as the book lines below record it: Jordan's NCCD student books in Arabic: the youngest grades learn PE through posture-and-health routines, team relay games and acted movement stories, every unit closing with a picture-based unit review; Grade 3 builds one named skill per lesson, then whole units on single fitness elements; from Grade 7 each sport unit follows the same frame — skill lessons, a printed "Law of the Game" page inside every lesson, values work and a closing public-safety or health-concepts unit — and the books close with Jordan's own King Abdullah II Award for Physical Fitness page. The health/safety units inside these PE books are filed in jordan-health-placements.md.
+
+**Book — Jordan PE Grade 1 Term 2 (student book, Arabic):**
+## Book 1 — Jordan PE Grade 1 Term 2 (student book, Arabic)
+- Title as printed: التربية الرياضية — الصف الأول الأساسي — الفصل الدراسي الثاني (Physical Education, First Basic Grade, Second Semester)
+- Grade: 1 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development (NCCD), Amman; year 2024; ISBN 978-9923-41-677-8
+- PDF pages: 42 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 14 placements — 2 to existing lessons, 10 NEW LESSON NEEDED (PE file) + 2 filed in the Health file
+- Jordan's own way: the youngest grades learn PE through posture-and-health routines, team relay games and acted movement stories; every unit closes with a picture-based unit review (excluded as the book's own revision pages, printed pp. 15–16, 28–29, 41–42).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan — Unit 4 Movement and Health, Lesson 1: Correct Standing — standing upright and balanced, practised through a freeze-on-the-word game (original target `moving-basics/good-posture-standing-and-moving`) | Jordan Grade 1 PE Term 2, printed p. 7 |
+| Jordan — Unit 4, Lesson 4: Upright Posture — keeping the body straight and balanced during movement and in daily life (original target `moving-basics/good-posture-standing-and-moving`) | Jordan Grade 1 PE Term 2, printed p. 13 |
+
+Jordan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Jordan is student-book stock, inside the acceptance count, in this lesson. Jordan's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

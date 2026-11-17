@@ -1,6 +1,6 @@
 # Sources — Ball Handling on the Spot
 
-countries: Ethiopia, Mozambique, Namibia, Samoa, Timor-Leste, Thailand, Afghanistan, El Salvador, Philippines, Azerbaijan, Maldives, Belize, Fiji, Mauritius, Iran, North Macedonia, Zimbabwe
+countries: Ethiopia, Mozambique, Namibia, Samoa, Timor-Leste, Thailand, Afghanistan, El Salvador, Philippines, Azerbaijan, Maldives, Belize, Fiji, Mauritius, Iran, North Macedonia, Zimbabwe, Jordan
 
 **Book — Grade 1 student:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 81 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md. COMPLETE.
 
@@ -41,7 +41,7 @@ countries: Ethiopia, Mozambique, Namibia, Samoa, Timor-Leste, Thailand, Afghanis
 | Timor-Leste — Period 3: Skills development phase — a focused phase of developing sport skills (original target `ball-games/ball-handling-on-the-spot`) | Timor-Leste, *Educação Física 7, Manual do aluno* (Timor-Leste Grade 7 Student Book), printed p. 42 |
 | Thailand — Unit 8 (part 1) Gripping and hitting — movement with equipment: gripping/holding (การคีบ) and hitting (การตี) (student book — MAC sample, PARTIAL) (original target `ball-games/ball-handling-on-the-spot`) | Thailand, *Health & PE, Grade 2* (Thailand Grade 2 MAC Health & PE), Unit 8 (part 1), printed pp. 132–140 |
 | Thailand — Unit 9 (part 4) Games with equipment — Clipping Ping-Pong Balls into a Plate (เกมคีบลูกปิงปองใส่จาน), Hitting the Beach Ball Across the Border (เกมตีลูกบอลชายหาดข้ามแดน), the Throwing Relay Queue (เกมขว้างวิ่งต่อแถว) and Hitting the Ball into the Goal (เกมตีลูกบอลเข้าประตู) (student book — MAC sample, PARTIAL) (original target `ball-games/ball-handling-on-the-spot`) | Thailand, *Health & PE, Grade 2* (Thailand Grade 2 MAC Health & PE), Unit 9 (part 4), printed pp. 161–165 |
-**Acceptance count: taught in 8 countries (Ethiopia, Timor-Leste, Thailand, Philippines, Azerbaijan, Mauritius, Iran, North Macedonia).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Namibia is added as teacher-guide evidence only the same way, outside the acceptance count. Samoa is added as curriculum-statement evidence only (see its row above), named in the countries line but outside the acceptance count. Timor-Leste is added as student-book stock (see its row above), inside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count; the Mauritius teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Zimbabwe is added as teacher-guide evidence only (see its Zimbabwe section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 9 countries (Ethiopia, Timor-Leste, Thailand, Philippines, Azerbaijan, Mauritius, Iran, North Macedonia, Jordan).** Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Namibia is added as teacher-guide evidence only the same way, outside the acceptance count. Samoa is added as curriculum-statement evidence only (see its row above), named in the countries line but outside the acceptance count. Timor-Leste is added as student-book stock (see its row above), inside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count; the Mauritius teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Zimbabwe is added as teacher-guide evidence only (see its Zimbabwe section below), named in the countries line but outside the acceptance count.
 
 The Grade 3 teacher guide scan is TRUNCATED: it holds printed pp. 1–52 of 89+. Missing: §4.1 (p. 53), §4.2 (p. 57), §4.3 (p. 62), §4.4 (p. 65), all of Chapter 5 Gymnastics (pp. 69–84) and all of Chapter 6 (pp. 85–89+). Chapter 4 is present as its introduction page (printed p. 52) only. Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
 
@@ -422,3 +422,61 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/zimbabwe-pe-
 | Zimbabwe — Unit 11: Sending, receiving and travelling — sending and receiving balls and travelling with them (original target `ball-games/ball-handling-on-the-spot`) | Zimbabwe Grade 1 PlusOne PE and Arts G1 TG, printed p. 31 |
 
 Zimbabwe's placements in this lesson were filed under the original strings recorded in the provenance rows above. Zimbabwe is teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. Zimbabwe's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Jordan — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/jordan-pe-placements.md. The Jordan books stocked in this lesson are Book 2, Book 3, Book 5, Book 7. Jordan is student-book stock, inside the acceptance count, in this lesson. Jordan's own way is content, as the book lines below record it: Jordan's NCCD student books in Arabic: the youngest grades learn PE through posture-and-health routines, team relay games and acted movement stories, every unit closing with a picture-based unit review; Grade 3 builds one named skill per lesson, then whole units on single fitness elements; from Grade 7 each sport unit follows the same frame — skill lessons, a printed "Law of the Game" page inside every lesson, values work and a closing public-safety or health-concepts unit — and the books close with Jordan's own King Abdullah II Award for Physical Fitness page. The health/safety units inside these PE books are filed in jordan-health-placements.md.
+
+**Book — Jordan PE Grade 3 Term 1 (student book, Arabic):**
+## Book 2 — Jordan PE Grade 3 Term 1 (student book, Arabic)
+- Title as printed: التربية الرياضية — الصف الثالث الأساسي — الفصل الدراسي الأول (Physical Education, Third Basic Grade, First Semester)
+- Grade: 3 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development (NCCD), Amman; year 2024; ISBN 978-9923-41-678-5
+- PDF pages: 42 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 14 placements — 14 to existing lessons, 0 NEW LESSON NEEDED
+- Jordan's own way: Grade 3 builds one named skill per lesson (run, jump, land, throw-and-catch), then devotes whole units to single fitness elements — agility, then speed — each closed by a unit review and a make-it-yourself unit project (printed pp. 15–16, 28–29, 41–42; review/project pages named here, not placed).
+
+**Book — Jordan PE Grade 3 Term 2 (student book, Arabic):**
+## Book 3 — Jordan PE Grade 3 Term 2 (student book, Arabic)
+- Title as printed: التربية الرياضية — الصف الثالث الأساسي — الفصل الدراسي الثاني (Physical Education, Third Basic Grade, Second Semester)
+- Grade: 3 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development (NCCD), Amman; year 2024; ISBN 978-9923-41-680-8
+- PDF pages: 42 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 15 placements — 9 to existing lessons, 6 NEW LESSON NEEDED
+- Jordan's own way: Term 2 turns to coordination games and chant-led expressive movement (movements performed to sports and national songs), and the book closes with Jordan's own King Abdullah II Award for Physical Fitness (printed p. 42).
+
+**Book — Jordan PE Grade 7 Term 2 (student book, Arabic):**
+## Book 5 — Jordan PE Grade 7 Term 2 (student book, Arabic)
+- Title as printed: التربية الرياضية — الصف السابع — الفصل الدراسي الثاني (Physical Education, Grade Seven, Second Semester)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development (NCCD), Amman; year 2024; ISBN 978-9923-41-688-4
+- PDF pages: 60 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 17 placements — 13 to existing lessons, 4 NEW LESSON NEEDED (PE file) + 2 placements filed in the Health file (Unit 9 Health Concepts and Habits)
+- Jordan's own way: Term 2 gives athletics a full six-lesson unit with named techniques (hang-style long jump, Fosbury flop, 3 kg shot), then handball and volleyball, and closes with a health-concepts unit; the King Abdullah II Award page closes the book (printed p. 60).
+
+**Book — Jordan PE Grade 9 Term 2 (student book, Arabic):**
+## Book 7 — Jordan PE Grade 9 Term 2 (student book, Arabic)
+- Title as printed: التربية الرياضية — الصف التاسع — الفصل الدراسي الثاني (Physical Education, Grade Nine, Second Semester)
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development (NCCD), Amman; year 2024; ISBN 978-9923-41-690-7
+- PDF pages: 63 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 19 placements — 15 to existing lessons, 4 NEW LESSON NEEDED (PE file) + 1 placement filed in the Health file (Unit 9, Lesson 1)
+- Jordan's own way: Term 2 advances the relay to 4 × 200 m, adds the discus, teaches handball in motion (dribbling on the run, the side pass), and closes with health concepts for adolescents; King Abdullah II Award page closes the book (printed p. 63).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan — Unit 1, Lesson 4: Throwing and Catching the Ball — throwing and catching correctly, on the spot and while moving (original target `ball-games/ball-handling-on-the-spot`) | Jordan Grade 3 PE Term 1, printed p. 13 |
+| Jordan — Unit 2, Lesson 4: Passing the Ball by Hand — passing the ball by hand to a partner from standing and while running (original target `ball-games/ball-handling-on-the-spot`) | Jordan Grade 3 PE Term 1, printed p. 24 |
+| Jordan — Unit 4, Lesson 2: Throwing the Ball Up and Catching It — throwing the ball above head height, clapping, then catching it (original target `ball-games/ball-handling-on-the-spot`) | Jordan Grade 3 PE Term 2, printed p. 9 |
+| Jordan — Unit 4, Lesson 5: Running while Rolling the Ball by Hand — rolling the ball along the ground by hand in different directions (original target `ball-games/ball-handling-on-the-spot`) | Jordan Grade 3 PE Term 2, printed p. 15 |
+| Jordan — Unit 4, Lesson 7: Aiming at the Target — shooting/throwing accurately at different targets without pushing a partner (original target `ball-games/ball-handling-on-the-spot`) | Jordan Grade 3 PE Term 2, printed p. 19 |
+| Jordan — Unit 7 Handball, Lesson 1: Holding the Ball — gripping and holding the handball correctly (original target `ball-games/ball-handling-on-the-spot`) | Jordan Grade 7 PE Term 2, printed p. 28 |
+| Jordan — Unit 7, Lesson 2: Receiving the Ball — catching and receiving the handball (original target `ball-games/ball-handling-on-the-spot`) | Jordan Grade 7 PE Term 2, printed p. 31 |
+| Jordan — Unit 7, Lesson 2: Passing and Receiving Bounced Balls — the bounce pass and receiving it (original target `ball-games/ball-handling-on-the-spot`) | Jordan Grade 9 PE Term 2, printed p. 27 |
+| Jordan — Unit 7, Lesson 3: The Side Pass — passing from the side in handball (original target `ball-games/ball-handling-on-the-spot`) | Jordan Grade 9 PE Term 2, printed p. 30 |
+
+Jordan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Jordan is student-book stock, inside the acceptance count, in this lesson. Jordan's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

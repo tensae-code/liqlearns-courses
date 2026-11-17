@@ -1,6 +1,6 @@
 # Sources — Playing the Team Games
 
-countries: Ethiopia, Kazakhstan, Tajikistan, Samoa, Timor-Leste, Thailand, China, Nicaragua, Azerbaijan, Maldives, Honduras, Fiji, Mauritius, Iran, North Macedonia, Zimbabwe
+countries: Ethiopia, Kazakhstan, Tajikistan, Samoa, Timor-Leste, Thailand, China, Nicaragua, Azerbaijan, Maldives, Honduras, Fiji, Mauritius, Iran, North Macedonia, Zimbabwe, Jordan
 
 **Book — Grade 5 student:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 106 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md. COMPLETE.
 
@@ -43,7 +43,7 @@ countries: Ethiopia, Kazakhstan, Tajikistan, Samoa, Timor-Leste, Thailand, China
 | Timor-Leste — Period 3: Choosing a sport — the class chooses its Period 3 sport (original target `ball-games/playing-the-team-games`) | Timor-Leste, *Educação Física 7, Manual do aluno* (Timor-Leste Grade 7 Student Book), printed p. 43 |
 | Timor-Leste — Appendix 2: Organising a tournament — a teacher's guide to running the class tournament (teacher guide — evidence) (original target `ball-games/playing-the-team-games`) | Timor-Leste, *Educação Física 7, Guia do Professor* (Timor-Leste Grade 7 Teacher Guide), printed p. 129 |
 | Thailand — Unit 4, Ch. 2 International sports (กีฬาสากล) — playing one individual and one team international sport, observing the rules, rights and duties of play, with sporting spirit (student book — SSR flipbook sample, PARTIAL) (original target `ball-games/playing-the-team-games`) | Thailand, *Health & PE, Grade 5* (Thailand Grade 5 SSR Health & PE), Unit 4, Ch. 2, printed p. 104 |
-**Acceptance count: taught in 12 countries (Ethiopia, Tajikistan, Timor-Leste, Thailand, China, Nicaragua, Azerbaijan, Honduras, Mauritius, Iran, North Macedonia, Zimbabwe).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Samoa is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Timor-Leste is added as student-book stock (see its rows above), inside the acceptance count; its Appendix 2 tournament row rests on the teacher guide and is evidence only. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count; the Mauritius teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count; the Iran teacher guide stocked in this lesson (Book 13) is teacher-guide evidence only, outside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
+**Acceptance count: taught in 13 countries (Ethiopia, Tajikistan, Timor-Leste, Thailand, China, Nicaragua, Azerbaijan, Honduras, Mauritius, Iran, North Macedonia, Zimbabwe, Jordan).** Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Samoa is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Timor-Leste is added as student-book stock (see its rows above), inside the acceptance count; its Appendix 2 tournament row rests on the teacher guide and is evidence only. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count; the Mauritius teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count; the Iran teacher guide stocked in this lesson (Book 13) is teacher-guide evidence only, outside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
 
 Student books Grades 5–7 are complete. No page is claimed that the placements do not give.
 
@@ -468,3 +468,60 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/zimbabwe-pe-
 | Zimbabwe — Unit 8: Invasion games – Positioning — positioning in invasion games (original target `ball-games/playing-the-team-games`) | Zimbabwe Grade 7 PlusOne PE and Arts G7 TG, printed p. 36 |
 
 Zimbabwe's placements in this lesson were filed under the original strings recorded in the provenance rows above. Zimbabwe is student-book stock, inside the acceptance count, in this lesson; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Zimbabwe's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Jordan — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/jordan-pe-placements.md. The Jordan books stocked in this lesson are Book 4, Book 5, Book 6, Book 7. Jordan is student-book stock, inside the acceptance count, in this lesson. Jordan's own way is content, as the book lines below record it: Jordan's NCCD student books in Arabic: the youngest grades learn PE through posture-and-health routines, team relay games and acted movement stories, every unit closing with a picture-based unit review; Grade 3 builds one named skill per lesson, then whole units on single fitness elements; from Grade 7 each sport unit follows the same frame — skill lessons, a printed "Law of the Game" page inside every lesson, values work and a closing public-safety or health-concepts unit — and the books close with Jordan's own King Abdullah II Award for Physical Fitness page. The health/safety units inside these PE books are filed in jordan-health-placements.md.
+
+**Book — Jordan PE Grade 7 Term 1 (student book, Arabic):**
+## Book 4 — Jordan PE Grade 7 Term 1 (student book, Arabic)
+- Title as printed: التربية الرياضية — الصف السابع — الفصل الدراسي الأول (Physical Education, Grade Seven, First Semester)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development (NCCD), Amman; year 2024; ISBN 978-9923-41-687-7
+- PDF pages: 57 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 16 placements — 10 to existing lessons, 6 NEW LESSON NEEDED (PE file) + 1 placement filed in the Health file (Unit 5 Public Safety)
+- Jordan's own way: from Grade 7 each sport unit follows the same frame — skill lessons, a printed "Law of the Game" page inside every lesson (here the futsal/football international rules), values work, and a closing unit on public safety; the book ends with the King Abdullah II Award for Physical Fitness page (printed p. 57).
+
+**Book — Jordan PE Grade 7 Term 2 (student book, Arabic):**
+## Book 5 — Jordan PE Grade 7 Term 2 (student book, Arabic)
+- Title as printed: التربية الرياضية — الصف السابع — الفصل الدراسي الثاني (Physical Education, Grade Seven, Second Semester)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development (NCCD), Amman; year 2024; ISBN 978-9923-41-688-4
+- PDF pages: 60 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 17 placements — 13 to existing lessons, 4 NEW LESSON NEEDED (PE file) + 2 placements filed in the Health file (Unit 9 Health Concepts and Habits)
+- Jordan's own way: Term 2 gives athletics a full six-lesson unit with named techniques (hang-style long jump, Fosbury flop, 3 kg shot), then handball and volleyball, and closes with a health-concepts unit; the King Abdullah II Award page closes the book (printed p. 60).
+
+**Book — Jordan PE Grade 9 Term 1 (student book, Arabic):**
+## Book 6 — Jordan PE Grade 9 Term 1 (student book, Arabic)
+- Title as printed: التربية الرياضية — الصف التاسع — الفصل الدراسي الأول (Physical Education, Grade Nine, First Semester)
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development (NCCD), Amman; year 2024; ISBN 978-9923-41-689-1
+- PDF pages: 64 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 18 placements — 12 to existing lessons, 6 NEW LESSON NEEDED (PE file) + 1 placement filed in the Health file (Unit 5 Public Safety)
+- Jordan's own way: Grade 9 deepens the same sports with deception and game craft (feinting in football, the layup and pivoting in basketball), adds vaulting to the rhythm unit, and keeps the public-safety unit — now first aid for fractures; King Abdullah II Award page closes the book (printed p. 64).
+
+**Book — Jordan PE Grade 9 Term 2 (student book, Arabic):**
+## Book 7 — Jordan PE Grade 9 Term 2 (student book, Arabic)
+- Title as printed: التربية الرياضية — الصف التاسع — الفصل الدراسي الثاني (Physical Education, Grade Nine, Second Semester)
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development (NCCD), Amman; year 2024; ISBN 978-9923-41-690-7
+- PDF pages: 63 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 19 placements — 15 to existing lessons, 4 NEW LESSON NEEDED (PE file) + 1 placement filed in the Health file (Unit 9, Lesson 1)
+- Jordan's own way: Term 2 advances the relay to 4 × 200 m, adds the discus, teaches handball in motion (dribbling on the run, the side pass), and closes with health concepts for adolescents; King Abdullah II Award page closes the book (printed p. 63).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan — Unit 1, Lesson 4: Group Drills and Play — linking the unit's football skills in group drills and small-sided play (original target `ball-games/playing-the-team-games`) | Jordan Grade 7 PE Term 1, printed p. 16 |
+| Jordan — Unit 2, Lesson 4: Group Drills and Play — linking the unit's basketball skills in group drills and play (original target `ball-games/playing-the-team-games`) | Jordan Grade 7 PE Term 1, printed p. 30 |
+| Jordan — Unit 7, Lesson 3: Linking the Skills in Drills and Group Play — applying handball skills in group play (original target `ball-games/playing-the-team-games`) | Jordan Grade 7 PE Term 2, printed p. 34 |
+| Jordan — Unit 8, Lesson 4: Linking the Skills in Drills and Group Play — applying volleyball skills in group play (original target `ball-games/playing-the-team-games`) | Jordan Grade 7 PE Term 2, printed p. 48 |
+| Jordan — Unit 1, Lesson 3: Linking the Skills in Drills and Group Play — applying football skills in group play (original target `ball-games/playing-the-team-games`) | Jordan Grade 9 PE Term 1, printed p. 14 |
+| Jordan — Unit 2, Lesson 6: Linking the Skills in Drills and Group Play — applying basketball skills in group play (original target `ball-games/playing-the-team-games`) | Jordan Grade 9 PE Term 1, printed p. 34 |
+| Jordan — Unit 7, Lesson 5: Linking the Skills in Drills and Group Play — applying handball skills in group play (original target `ball-games/playing-the-team-games`) | Jordan Grade 9 PE Term 2, printed p. 36 |
+| Jordan — Unit 8, Lesson 4: Linking the Skills in Drills and Group Play — applying volleyball skills in group play (original target `ball-games/playing-the-team-games`) | Jordan Grade 9 PE Term 2, printed p. 50 |
+
+Jordan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Jordan is student-book stock, inside the acceptance count, in this lesson. Jordan's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

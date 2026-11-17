@@ -733,6 +733,36 @@ Zapin, Ngajat, Sewang, lion dance, Bhangra, Farapeirra)
 and traditional games in every form, and sepak takraw,
 Malaysia's own sport, given a whole unit.
 
+**PE expansion — Jordan — BUILT 2026-11-16:** 111 placements
+from Jordan's seven NCCD *Physical Education* student
+books — Grade 1 Term 2, Grade 3 Terms 1–2, Grade 7
+Terms 1–2 and Grade 9 Terms 1–2 (National Center for
+Curriculum Development, Amman, 2024), all COMPLETE —
+stocked: 92 into existing lessons (including canonical
+lessons built earlier in this expansion) and 19 as 4 new
+lessons (Relay Games; Movement Stories; The King
+Abdullah II Award for Physical Fitness; Volleyball
+Serving) — bringing this course to **191 lessons**. All
+seven books are student books, so Jordan is
+student-book stock, inside the acceptance counts, in
+every lesson it touches. No Jordan placement resolves
+to a Health-course lesson through the PE slug
+registry, so none was excluded as Health-bound; the
+health/safety units inside these PE books are filed in
+jordan-health-placements.md. The ten further distinct
+books behind the download-list links (Grades 1 Term 1,
+2, 4, 5, 6, 8 and 10) are UNREAD — the jnob Kleeja host
+is JavaScript-gated and no direct mirror was found, as
+filed — record-only, with 0 placements, nothing stocked
+from them. Jordan's own way is content: the youngest
+grades learn PE through posture-and-health routines,
+team relay games and acted movement stories; from
+Grade 7 each sport unit follows the same frame — skill
+lessons, a printed "Law of the Game" page inside every
+lesson, values work and a closing safety/health unit —
+and the books close with Jordan's own King Abdullah II
+Award for Physical Fitness page.
+
 ## Unit 1 — Moving Basics
 
 1. **Combined Travelling and On-the-Spot Movements** (`moving-basics/combined-travelling-and-on-the-spot`) — joining travelling movements together, joining on-the-spot movements together, and chaining the two families in one sequence.
@@ -792,6 +822,8 @@ Malaysia's own sport, given a whole unit.
 22. **Sport for Older People** (`fitness-and-stretching/sport-for-older-people`) — sport for older people: which sports suit older people and how to take part safely — taught in Iran's Grade 11 Health and Lifestyle with Sport book as Sport for the elderly: kinds of older people and which sports suit each, safely (Iran's student book).
 
 23. **Pilates** (`fitness-and-stretching/pilates`) — Pilates: controlled, precise, coordinated movement with correct breathing — taught in North Macedonia's Grade 11 book as Pilates: Joseph Pilates' system of some 50 repeatable exercises, on the mat with body weight or on the reformer, built on breathing, cervical alignment, stabilisation of the ribs and shoulders, pelvic mobility and activating the deep transversus abdominis (North Macedonia's student book).
+24. **The King Abdullah II Award for Physical Fitness** (`fitness-and-stretching/king-abdullah-ii-award-for-physical-fitness`) — the King Abdullah II Award for Physical Fitness: Jordan's national school fitness award, its aims and its five test axes — taught in Jordan's Grade 3, Grade 7 and Grade 9 PE books as the award's closing page, introducing its aims and its five test axes (Jordan's student books).
+
 
 ## Unit 3 — Gymnastics
 
@@ -810,6 +842,8 @@ Malaysia's own sport, given a whole unit.
 10. **Aerobic Gymnastics Steps and Choreography** (`gymnastics/aerobic-gymnastics-steps-and-choreography`) — aerobic gymnastics: the basic steps and building routines and choreography from them — taught in Iran's girls' Grade 10 book as basic aerobics moves and step and aerobics chains (Iran's student book).
 
 11. **Gymnastics for All** (`gymnastics/gymnastics-for-all`) — gymnastics for all (Gimnastrada): group gymnastics performance that everybody can join — taught in Malaysia's Grade 9 PJPK Tingkatan 3 book as Gimnastrada, "Gymnastics for All" (Malaysia's student book).
+12. **Movement Stories** (`gymnastics/movement-stories`) — movement stories: listening to a story and acting its movements out — taught in Jordan's Grade 1 book as its Movement Stories unit (The Little Hero, The Little Astronaut, A Trip to the Farm, A Race in the Forest, The World of Professions) and in its Grade 3 Term 2 book as individual and group expressive movements to chants (Jordan's student books).
+
 
 ## Unit 4 — Athletics
 
@@ -873,6 +907,8 @@ Malaysia's own sport, given a whole unit.
 31. **Touch Rugby** (`ball-games/touch-rugby`) — touch rugby: passing, catching, feinting past defenders and scoring a try, under touch (non-contact) laws — taught in Malaysia's Grade 8 and Grade 11 PJPK books as Ragbi Sentuh, touch rugby (Malaysia's student books).
 32. **Hockey Skills** (`ball-games/hockey-skills`) — hockey skills: dribbling, passing, receiving and shooting with the stick — taught in Malaysia's Grade 9 and Grade 11 PJPK books as hockey passing, receiving, dribbling and shooting (Malaysia's student books).
 33. **Dodgeball** (`ball-games/dodgeball`) — dodgeball: the throwing-and-dodging game's basic skills and how it is played — taught in Malaysia's Grade 9 PJPK Tingkatan 3 book as dodgeball, with the Malaysian Dodgeball Association acknowledged as a source (Malaysia's student book).
+34. **Volleyball Serving** (`ball-games/volleyball-serving`) — volleyball serving: the underhand, overhand and sidearm serves that start the rally — taught in Jordan's Grade 7 Term 2 book as the underhand serve (facing) and in its Grade 9 Term 2 book as the overhand serve (directed) (Jordan's student books).
+
 
 ## Unit 6 — Games to Play
 
@@ -896,6 +932,8 @@ Malaysia's own sport, given a whole unit.
 
 15. **Camp Craft** (`games-to-play/camp-craft`) — camp craft: knots and lashings, making fires and campfire places safely, and cooking food outdoors — taught in Malaysia's Grade 8 PJPK book as camping knots and lashings and in its Grade 11 book as primitive fire-making and cooking (Malaysia's student books).
 16. **Fit-ball Games** (`games-to-play/fit-ball-games`) — fit-ball games: games played with a big fit ball (Swiss ball) — taught in Malaysia's Grade 11 PJPK Tingkatan 5 book as games played with a fit ball: Pukul Golek and Bola Lantunan (Malaysia's student book).
+17. **Relay Games** (`games-to-play/relay-games`) — relay games: team relays — walking, hopping and running relays that hand over to the next player — taught in Jordan's Grade 1 Term 2 book as its Relay Games unit: relay walking, relay hopping and relay jumping (Jordan's student book).
+
 
 ## Unit 7 — Traditional Games and Dances
 

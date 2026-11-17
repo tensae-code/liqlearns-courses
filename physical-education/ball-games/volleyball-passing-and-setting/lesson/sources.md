@@ -1,6 +1,6 @@
 # Sources — Volleyball Passing and Setting
 
-countries: Ethiopia, Afghanistan, China, Nicaragua, Belize, Mauritius, Iran, North Macedonia, Zimbabwe
+countries: Ethiopia, Afghanistan, China, Nicaragua, Belize, Mauritius, Iran, North Macedonia, Zimbabwe, Jordan
 
 **Book — Grade 5 student:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 106 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md. COMPLETE.
 
@@ -27,7 +27,7 @@ countries: Ethiopia, Afghanistan, China, Nicaragua, Belize, Mauritius, Iran, Nor
 | The spike — Grade 9 | Ethiopia, Grade 9 teacher Unit 5 spike (teacher guide — evidence), printed pp. 65–72 |
 | Blocking — Grade 10 | Ethiopia, Grade 10 student §5.2 Blocking skills + §5.1 rules, printed pp. 86–98 |
 | Blocking — Grade 10 | Ethiopia, Grade 10 teacher Unit 5 blocking and rules (teacher guide — evidence), printed pp. 60–69 |
-**Acceptance count: taught in 6 countries (Ethiopia, China, Mauritius, Iran, North Macedonia, Zimbabwe).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count; the Iran teacher guide stocked in this lesson (Book 13) is teacher-guide evidence only, outside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
+**Acceptance count: taught in 7 countries (Ethiopia, China, Mauritius, Iran, North Macedonia, Zimbabwe, Jordan).** Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count; the Iran teacher guide stocked in this lesson (Book 13) is teacher-guide evidence only, outside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
 
 The Grade 5 and Grade 6 teacher guides' ball-games chapters are in the truncated missing ranges of those scans (G5T Chapter 6, pp. 57–77; G6T Chapter 6, pp. 65–82), so this lesson rests on the complete student books only; no teacher-guide pages are claimed for it.
 
@@ -299,3 +299,36 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/zimbabwe-pe-
 | Zimbabwe — Unit 10: Net games – Strokes — net-game strokes (original target `ball-games/volleyball-passing-and-setting`) | Zimbabwe Grade 7 PlusOne PE and Arts G7 TG, printed p. 48 |
 
 Zimbabwe's placements in this lesson were filed under the original strings recorded in the provenance rows above. Zimbabwe is student-book stock, inside the acceptance count, in this lesson; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Zimbabwe's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Jordan — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/jordan-pe-placements.md. The Jordan books stocked in this lesson are Book 5, Book 7. Jordan is student-book stock, inside the acceptance count, in this lesson. Jordan's own way is content, as the book lines below record it: Jordan's NCCD student books in Arabic: the youngest grades learn PE through posture-and-health routines, team relay games and acted movement stories, every unit closing with a picture-based unit review; Grade 3 builds one named skill per lesson, then whole units on single fitness elements; from Grade 7 each sport unit follows the same frame — skill lessons, a printed "Law of the Game" page inside every lesson, values work and a closing public-safety or health-concepts unit — and the books close with Jordan's own King Abdullah II Award for Physical Fitness page. The health/safety units inside these PE books are filed in jordan-health-placements.md.
+
+**Book — Jordan PE Grade 7 Term 2 (student book, Arabic):**
+## Book 5 — Jordan PE Grade 7 Term 2 (student book, Arabic)
+- Title as printed: التربية الرياضية — الصف السابع — الفصل الدراسي الثاني (Physical Education, Grade Seven, Second Semester)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development (NCCD), Amman; year 2024; ISBN 978-9923-41-688-4
+- PDF pages: 60 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 17 placements — 13 to existing lessons, 4 NEW LESSON NEEDED (PE file) + 2 placements filed in the Health file (Unit 9 Health Concepts and Habits)
+- Jordan's own way: Term 2 gives athletics a full six-lesson unit with named techniques (hang-style long jump, Fosbury flop, 3 kg shot), then handball and volleyball, and closes with a health-concepts unit; the King Abdullah II Award page closes the book (printed p. 60).
+
+**Book — Jordan PE Grade 9 Term 2 (student book, Arabic):**
+## Book 7 — Jordan PE Grade 9 Term 2 (student book, Arabic)
+- Title as printed: التربية الرياضية — الصف التاسع — الفصل الدراسي الثاني (Physical Education, Grade Nine, Second Semester)
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development (NCCD), Amman; year 2024; ISBN 978-9923-41-690-7
+- PDF pages: 63 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 19 placements — 15 to existing lessons, 4 NEW LESSON NEEDED (PE file) + 1 placement filed in the Health file (Unit 9, Lesson 1)
+- Jordan's own way: Term 2 advances the relay to 4 × 200 m, adds the discus, teaches handball in motion (dribbling on the run, the side pass), and closes with health concepts for adolescents; King Abdullah II Award page closes the book (printed p. 63).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan — Unit 8 Volleyball, Lesson 1: Ball Feel and Foot Movements — first contact skills and court footwork in volleyball (original target `ball-games/volleyball-passing-and-setting`) | Jordan Grade 7 PE Term 2, printed p. 39 |
+| Jordan — Unit 8, Lesson 3: Receiving from Below with the Forearms — the forearm pass/dig from below (original target `ball-games/volleyball-passing-and-setting`) | Jordan Grade 7 PE Term 2, printed p. 45 |
+| Jordan — Unit 8 Volleyball, Lesson 1: The Defensive Ready Stance for Receiving the Serve — ready position to receive serve (original target `ball-games/volleyball-passing-and-setting`) | Jordan Grade 9 PE Term 2, printed p. 41 |
+| Jordan — Unit 8, Lesson 2: Receiving and Passing the Ball from Below with the Forearms — forearm reception and pass (original target `ball-games/volleyball-passing-and-setting`) | Jordan Grade 9 PE Term 2, printed p. 44 |
+
+Jordan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Jordan is student-book stock, inside the acceptance count, in this lesson. Jordan's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

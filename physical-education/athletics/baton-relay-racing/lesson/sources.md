@@ -1,6 +1,6 @@
 # Sources — Baton Relay Racing
 
-countries: Ethiopia, Pakistan, Afghanistan, Philippines, Nicaragua, Azerbaijan, Maldives, Honduras, Mauritius, North Macedonia, Zimbabwe
+countries: Ethiopia, Pakistan, Afghanistan, Philippines, Nicaragua, Azerbaijan, Maldives, Honduras, Mauritius, North Macedonia, Zimbabwe, Jordan
 
 **Book — Grade 7 student:** *Grade 7 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 96 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g07-student-placements.md. COMPLETE.
 
@@ -18,7 +18,7 @@ countries: Ethiopia, Pakistan, Afghanistan, Philippines, Nicaragua, Azerbaijan, 
 | Relay exchanges in motion — Grade 9 | Ethiopia, Grade 9 student §3.2.2 Relay technique, printed pp. 51–55 |
 | Relay exchanges in motion — Grade 9 | Ethiopia, Grade 9 teacher Unit 3 sprint relay (teacher guide — evidence), printed pp. 37–38 |
 | The first relay — out, back, hand over; copy the broom game — Grade 3 (teacher guide — evidence) | Ethiopia, Grade 3 teacher §1.3 Tasks 1–2 (teacher guide — evidence), printed pp. 12–14 |
-**Acceptance count: taught in 8 countries (Ethiopia, Pakistan, Philippines, Azerbaijan, Honduras, Mauritius, North Macedonia, Zimbabwe).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count; the Mauritius teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count.
+**Acceptance count: taught in 9 countries (Ethiopia, Pakistan, Philippines, Azerbaijan, Honduras, Mauritius, North Macedonia, Zimbabwe, Jordan).** Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count; the Mauritius teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count.
 
 The Grade 3 teacher guide scan is TRUNCATED: it holds printed pp. 1–52 of 89+. Missing: §4.1 (p. 53), §4.2 (p. 57), §4.3 (p. 62), §4.4 (p. 65), all of Chapter 5 Gymnastics (pp. 69–84) and all of Chapter 6 (pp. 85–89+). Chapter 4 is present as its introduction page (printed p. 52) only. Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
 
@@ -288,3 +288,45 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/zimbabwe-pe-
 | Zimbabwe — Unit 6: Running — correct baton exchange technique (original target `athletics/baton-relay-racing`) | Zimbabwe Grade 6 PlusOne PE G6 LB, printed p. 31 |
 
 Zimbabwe's placements in this lesson were filed under the original strings recorded in the provenance rows above. Zimbabwe is student-book stock, inside the acceptance count, in this lesson. Zimbabwe's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Jordan — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/jordan-pe-placements.md. The Jordan books stocked in this lesson are Book 1, Book 5, Book 7. Jordan is student-book stock, inside the acceptance count, in this lesson. Jordan's own way is content, as the book lines below record it: Jordan's NCCD student books in Arabic: the youngest grades learn PE through posture-and-health routines, team relay games and acted movement stories, every unit closing with a picture-based unit review; Grade 3 builds one named skill per lesson, then whole units on single fitness elements; from Grade 7 each sport unit follows the same frame — skill lessons, a printed "Law of the Game" page inside every lesson, values work and a closing public-safety or health-concepts unit — and the books close with Jordan's own King Abdullah II Award for Physical Fitness page. The health/safety units inside these PE books are filed in jordan-health-placements.md.
+
+**Book — Jordan PE Grade 1 Term 2 (student book, Arabic):**
+## Book 1 — Jordan PE Grade 1 Term 2 (student book, Arabic)
+- Title as printed: التربية الرياضية — الصف الأول الأساسي — الفصل الدراسي الثاني (Physical Education, First Basic Grade, Second Semester)
+- Grade: 1 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development (NCCD), Amman; year 2024; ISBN 978-9923-41-677-8
+- PDF pages: 42 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 14 placements — 2 to existing lessons, 10 NEW LESSON NEEDED (PE file) + 2 filed in the Health file
+- Jordan's own way: the youngest grades learn PE through posture-and-health routines, team relay games and acted movement stories; every unit closes with a picture-based unit review (excluded as the book's own revision pages, printed pp. 15–16, 28–29, 41–42).
+
+**Book — Jordan PE Grade 7 Term 2 (student book, Arabic):**
+## Book 5 — Jordan PE Grade 7 Term 2 (student book, Arabic)
+- Title as printed: التربية الرياضية — الصف السابع — الفصل الدراسي الثاني (Physical Education, Grade Seven, Second Semester)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development (NCCD), Amman; year 2024; ISBN 978-9923-41-688-4
+- PDF pages: 60 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 17 placements — 13 to existing lessons, 4 NEW LESSON NEEDED (PE file) + 2 placements filed in the Health file (Unit 9 Health Concepts and Habits)
+- Jordan's own way: Term 2 gives athletics a full six-lesson unit with named techniques (hang-style long jump, Fosbury flop, 3 kg shot), then handball and volleyball, and closes with a health-concepts unit; the King Abdullah II Award page closes the book (printed p. 60).
+
+**Book — Jordan PE Grade 9 Term 2 (student book, Arabic):**
+## Book 7 — Jordan PE Grade 9 Term 2 (student book, Arabic)
+- Title as printed: التربية الرياضية — الصف التاسع — الفصل الدراسي الثاني (Physical Education, Grade Nine, Second Semester)
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development (NCCD), Amman; year 2024; ISBN 978-9923-41-690-7
+- PDF pages: 63 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 19 placements — 15 to existing lessons, 4 NEW LESSON NEEDED (PE file) + 1 placement filed in the Health file (Unit 9, Lesson 1)
+- Jordan's own way: Term 2 advances the relay to 4 × 200 m, adds the discus, teaches handball in motion (dribbling on the run, the side pass), and closes with health concepts for adolescents; King Abdullah II Award page closes the book (printed p. 63).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan — Unit 5, Lesson 2: Relay Running — receiving and handing over the implement while running in a team relay (original target `athletics/baton-relay-racing`) | Jordan Grade 1 PE Term 2, printed p. 20 |
+| Jordan — Unit 6, Lesson 2: The 4 × 50 Metre Relay — relay running and baton exchange over 4 × 50 m (original target `athletics/baton-relay-racing`) | Jordan Grade 7 PE Term 2, printed p. 11 |
+| Jordan — Unit 6 Athletics, Lesson 1: The 4 × 200 Metre Relay — the team covers 800 m by relay; a mix of speed and endurance (original target `athletics/baton-relay-racing`) | Jordan Grade 9 PE Term 2, printed p. 7 |
+
+Jordan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Jordan is student-book stock, inside the acceptance count, in this lesson. Jordan's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

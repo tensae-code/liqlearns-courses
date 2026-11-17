@@ -1,6 +1,6 @@
 # Sources — Counted Gymnastics Sequences
 
-countries: Ethiopia, Tajikistan, Maldives, Honduras
+countries: Ethiopia, Tajikistan, Maldives, Honduras, Jordan
 
 **Book — Grade 3 student:** *Grade 3 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 65 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g03-student-placements.md. COMPLETE.
 
@@ -14,7 +14,7 @@ countries: Ethiopia, Tajikistan, Maldives, Honduras
 | Full counted sequences, position by position | Ethiopia, Grade 4 student §5.2 Number gymnastics, printed pp. 51–56 |
 
 | Tajikistan — Part 2, Don't Dawdle, Don't Be Lazy — Get Up for Exercises! — morning gymnastics and why it comes first every day, counted complexes 1–3, exercise complexes with the gymnastic stick, with a ball, for the back and for the abdomen, and физкультминутки (movement minutes) (original target `gymnastics/counted-gymnastics-sequences`) | Tajikistan, *Fizicheskaya Kultura (Physical Culture), Grades 1–4*, Part 2, printed pp. ~75–97 |
-**Acceptance count: taught in 3 countries (Ethiopia, Tajikistan, Honduras).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count.
+**Acceptance count: taught in 4 countries (Ethiopia, Tajikistan, Honduras, Jordan).** Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count.
 
 Student books Grades 1–4 are complete. No page is claimed that the placements do not give. Dance and game rules are taught only as the placements summarise them; no rules have been invented for any game the placements leave game-dependent.
 
@@ -70,3 +70,23 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/honduras-pe-
 Honduras's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Honduras's own way is content, as the book lines above record it: a television-school (Telebásica) programme built in 4 blocks — body image/expression, fitness for health, games and sport initiation, activities in nature — with Honduran folk dance, traditional games and Garífuna dances as core content, and every block closing in a "Valorando lo que aprendo" self-check sequence (named in the book lines, not placed, per the assessment exclusion). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: counted gymnastics sequences, counted waist series, full counted sequences, position by position, physical education, Ethiopia
+
+## Jordan — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/jordan-pe-placements.md. The Jordan books stocked in this lesson are Book 3. Jordan is student-book stock, inside the acceptance count, in this lesson. Jordan's own way is content, as the book lines below record it: Jordan's NCCD student books in Arabic: the youngest grades learn PE through posture-and-health routines, team relay games and acted movement stories, every unit closing with a picture-based unit review; Grade 3 builds one named skill per lesson, then whole units on single fitness elements; from Grade 7 each sport unit follows the same frame — skill lessons, a printed "Law of the Game" page inside every lesson, values work and a closing public-safety or health-concepts unit — and the books close with Jordan's own King Abdullah II Award for Physical Fitness page. The health/safety units inside these PE books are filed in jordan-health-placements.md.
+
+**Book — Jordan PE Grade 3 Term 2 (student book, Arabic):**
+## Book 3 — Jordan PE Grade 3 Term 2 (student book, Arabic)
+- Title as printed: التربية الرياضية — الصف الثالث الأساسي — الفصل الدراسي الثاني (Physical Education, Third Basic Grade, Second Semester)
+- Grade: 3 (student/teacher: STUDENT)
+- Publisher: National Center for Curriculum Development (NCCD), Amman; year 2024; ISBN 978-9923-41-680-8
+- PDF pages: 42 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 15 placements — 9 to existing lessons, 6 NEW LESSON NEEDED
+- Jordan's own way: Term 2 turns to coordination games and chant-led expressive movement (movements performed to sports and national songs), and the book closes with Jordan's own King Abdullah II Award for Physical Fitness (printed p. 42).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jordan — Unit 5, Lesson 4: Movement with Counting — repeating and sequencing four movements in time with counting (original target `gymnastics/counted-gymnastics-sequences`) | Jordan Grade 3 PE Term 2, printed p. 30 |
+
+Jordan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Jordan is student-book stock, inside the acceptance count, in this lesson. Jordan's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
