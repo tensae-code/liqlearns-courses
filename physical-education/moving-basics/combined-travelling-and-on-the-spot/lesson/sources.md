@@ -1,6 +1,6 @@
 # Sources — Combined Travelling and On-the-Spot Movements
 
-countries: Ethiopia, Samoa, Thailand, El Salvador, Philippines, Nicaragua, Maldives, Fiji, Mauritius
+countries: Ethiopia, Samoa, Thailand, El Salvador, Philippines, Nicaragua, Maldives, Fiji, Mauritius, Zimbabwe
 
 **Book — Grade 1 teacher (teacher guide — evidence):** *Grade 1 Health and Physical Education Teacher Guide* (የጤናና ሰውነት ማጎልመሻ ትምህርት የመምህር መምሪያ መጽሐፍ, አንድኛ ክፍል) (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, 2015 E.C. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-teacher-placements.md. TRUNCATED scan — see honesty paragraph.
 
@@ -46,7 +46,7 @@ countries: Ethiopia, Samoa, Thailand, El Salvador, Philippines, Nicaragua, Maldi
 | Thailand — Unit 6 (part 2) Twisting, pulling and pushing — the twisting (การบิดตัว), pulling (การดึง) and pushing (การผลัก) movements and their correct postures (student book — MAC sample, PARTIAL) (original target `moving-basics/combined-travelling-and-on-the-spot`) | Thailand, *Health & PE, Grade 2* (Thailand Grade 2 MAC Health & PE), Unit 6 (part 2), printed pp. 108–115 |
 | Thailand — Unit 5.1 (part 1) Movement in sport — the basic movements of the parts of the body used in playing sport (student book — MAC sample, PARTIAL) (original target `moving-basics/combined-travelling-and-on-the-spot`) | Thailand, *Health & PE, Grade 12* (Thailand Grade 12 MAC Health & PE), Unit 5.1 (part 1), printed pp. 143–150 |
 | Thailand — Unit 3, Ch. 1 Moving the body — controlling body movement while on the spot, while travelling and while using equipment, with direction (student book — SSR flipbook sample, PARTIAL) (original target `moving-basics/combined-travelling-and-on-the-spot`) | Thailand, *Health & PE, Grade 3* (Thailand Grade 3 SSR Health & PE), Unit 3, Ch. 1, printed pp. 48–56 |
-**Acceptance count: taught in 5 countries (Ethiopia, Thailand, Philippines, Fiji, Mauritius).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Samoa is added as curriculum-statement evidence only (see its row above), named in the countries line but outside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; the Fiji teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count; the Mauritius teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
+**Acceptance count: taught in 6 countries (Ethiopia, Thailand, Philippines, Fiji, Mauritius, Zimbabwe).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Samoa is added as curriculum-statement evidence only (see its row above), named in the countries line but outside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; the Fiji teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count; the Mauritius teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
 
 The Grade 1 teacher guide scan is TRUNCATED: it holds printed pp. 1–43 of 85+. Missing: the rest of §4.2, §4.3 Stretching and flexibility (p. 47), §4.4 Agility (p. 53), all of Chapter 5 Gymnastics (pp. 59–78) and all of Chapter 6 (pp. 79–85+). Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
 
@@ -242,3 +242,73 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/fiji-pe-plac
 | Fiji — Chapter 1: Space Awareness — the freeze game, directions and moving at low, medium and high levels (teacher guide — evidence) (original target `moving-basics/combined-travelling-and-on-the-spot`) | Fiji Year 4 PE for Fun Teachers Handbook, printed pp. 18–21 (Chapter 1) |
 
 Fiji's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Fiji's own way is content, as the book lines above record it: a *PE is Fun* series built on strands and KLA outcomes, moving from movement science to training, sports nutrition and tournament organisation, with Fiji Sevens rugby and the Skipper Cup as worked examples, named Fijian traditional games (Veibuka, Veisole, Veicibi, Veitiqa and more) and the games of Fiji's Indian community taught side by side, and swimming taught as a Fiji survival skill. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Zimbabwe — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/zimbabwe-pe-placements.md. The Zimbabwe books stocked in this lesson are Book 1, Book 3, Book 4, Book 5, Book 6. Zimbabwe is student-book stock, inside the acceptance count, in this lesson; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Zimbabwe's own way is content, as the book lines below record it: PE, Sport and Mass Displays is one combined subject in the Grade 6 learner's book, and at ECD–Grade 7 PE is fused with the Arts in the PlusOne guides, organised by game family (invasion, target and combat, net, striking, adventure) with kids athletics and aquatics in every grade. The Health parts of these books (Units 1–4 / Topics 1–2) are filed in zimbabwe-health-placements.md; the Arts parts are named in the book headers, not placed.
+
+**Book — Zimbabwe PlusOne PE Sport and Mass Displays G6 LB (student book, English):**
+## Book 1 — PlusOne PE Sport and Mass Displays G6 LB (student book, English)
+- Title as printed: PlusOne Physical Education, Sport and Mass Displays — Grade 6 Learner's Book
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Secondary Book Press; year not printed on pages read; ISBN no ISBN printed
+- PDF pages: 47 PDF pages (spread scans; printed pp. 1–137) (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 22 placements — 12 to existing lessons, 10 NEW LESSON NEEDED
+- Zimbabwe's own way: PE, Sport and Mass Displays is one combined subject — athletics is taught as "Kids Athletics", and mass-display work (choreography, formations, arena acts) is a full topic of its own alongside Music and Art topics inside the same book.
+- Other subjects in this combined book, named not placed: Topic 11 Music — Unit 19 Background and performing music, printed p. 113; Topic 12 Background Art — Unit 20 Patterns and mounts, printed p. 119. Tests 1–3 and unit revision exercises are assessment, excluded.
+- Health parts of this book (Units 1–4) are filed in zimbabwe-health-placements.md.
+
+**Book — Zimbabwe PlusOne PE and Arts ECD B TG (teacher guide, English):**
+## Book 3 — PlusOne PE and Arts ECD B TG (teacher guide, English)
+- Title as printed: Physical Education and Arts — ECD B Teacher's Guide
+- Grade: ECD B (KG2) (student/teacher: TEACHER)
+- Publisher: Secondary Book Press; year 2025; ISBN 978-1-77932-145-9
+- PDF pages: 88 (cover/title page verified against the record title; byte size 3,960,260 and blob SHA verified via GitHub repo tree — the same file the SBP download-list record points to)
+- Verdict: COMPLETE
+- Tally: 12 placements — 9 to existing lessons, 3 NEW LESSON NEEDED
+- Zimbabwe's own way: ECD B builds on ECD A with apparatus balances, water confidence (safe pool entry, playing in water) and dances and songs from different cultures.
+- Arts parts named, not placed: Topic 3 History of arts (music, percussion, visual arts, theatre, animation), Topic 6 Creative process (music note values, visual arts, theatre games, storytelling, pantomime), Topic 7 Aesthetic values, Topic 8 PE and Arts technology. Health parts (Topic 1, Topic 2) are filed in zimbabwe-health-placements.md.
+
+**Book — Zimbabwe PlusOne PE and Arts G1 TG (teacher guide, English):**
+## Book 4 — PlusOne PE and Arts G1 TG (teacher guide, English)
+- Title as printed: Physical Education and Arts — Grade 1 Teacher's Guide (Fadzanai Tafirei)
+- Grade: Grade 1 (student/teacher: TEACHER)
+- Publisher: Secondary Book Press; year 2025; ISBN 978-1-77928-513-3
+- PDF pages: 77 (cover/title page verified against the record title; byte size 3,816,359 and blob SHA verified via GitHub repo tree — the same file the SBP download-list record points to)
+- Verdict: COMPLETE
+- Tally: 7 placements — 6 to existing lessons, 1 NEW LESSON NEEDED
+- Zimbabwe's own way: Grade 1 keeps the nine-topic PE-and-Arts structure — safety and health, human body, history of arts, gymnastics, play and game skills, creative process, aesthetics, technology, enterprise.
+- Arts parts named, not placed: Topic 3 History of arts (Units 4–7, pp. 11–21), Topic 6 Creative process (Units 14–17 Music/Visual arts/Theatre/Dance — the Dance unit is placed below as movement), Topic 7 Aesthetic values (p. 56), Topic 8 Technology (p. 60), Topic 9 Enterprise (p. 63). Health parts (Units 1–3) are filed in zimbabwe-health-placements.md.
+
+**Book — Zimbabwe PlusOne PE and Arts G3 TG (teacher guide, English):**
+## Book 5 — PlusOne PE and Arts G3 TG (teacher guide, English)
+- Title as printed: Physical Education and Arts — Grade 3 Teacher's Guide (Nomsa Nyathi, Fungai Makonese, Njabulo Mpofu)
+- Grade: Grade 3 (student/teacher: TEACHER)
+- Publisher: Secondary Book Press; year 2025; ISBN 978-1-77928-505-8
+- PDF pages: 73 (cover/title page verified against the record title; byte size 4,837,969 and blob SHA verified via GitHub repo tree — the same file the SBP download-list record points to)
+- Verdict: COMPLETE
+- Tally: 10 placements — 6 to existing lessons, 4 NEW LESSON NEEDED
+- Zimbabwe's own way: from Grade 3 the game skills are organised by game family — invasion, target and combat, net, striking, adventure — the same family structure the Grade 6 learner's book uses.
+- Arts parts named, not placed: Topic 3 History of arts (Units 4–6, pp. 8–14), Topic 6 Creative process (Units 16–19 Music/Visual arts/Theatre/Dance — Dance placed below), Topic 7 Aesthetic values (p. 53), Topic 8 Technology (p. 56), Topic 9 Enterprise (p. 59). Health parts (Units 1–3) are filed in zimbabwe-health-placements.md.
+
+**Book — Zimbabwe PlusOne PE and Arts G4 TG (teacher guide, English):**
+## Book 6 — PlusOne PE and Arts G4 TG (teacher guide, English)
+- Title as printed: Physical Education and Arts — Grade 4 Teacher's Guide (Rebecca Mutimbanyoka, Fungai Makonese, Njabulo Mpofu)
+- Grade: Grade 4 (student/teacher: TEACHER)
+- Publisher: Secondary Book Press; year 2025; ISBN 978-1-77928-500-3
+- PDF pages: 85 (cover/title page verified against the record title; byte size 3,439,697 and blob SHA verified via GitHub repo tree — the same file the SBP download-list record points to)
+- Verdict: COMPLETE
+- Tally: 12 placements — 9 to existing lessons, 3 NEW LESSON NEEDED
+- Zimbabwe's own way: Grade 4 splits kids athletics into separate running, jumping and throwing units and adds space awareness as its own gymnastics unit.
+- Arts parts named, not placed: Topic 3 History of arts (Units 4–6, pp. 9–16), Topic 6 Creative process (Units 18–21 Music/Visual arts/Theatre/Dance — Dance placed below), Topic 7 Aesthetic values (p. 61), Topic 8 Technology (p. 64), Topic 9 Enterprise (p. 68). Tests 1–2 are assessment, excluded. Health parts (Units 1–3) are filed in zimbabwe-health-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Zimbabwe — Unit 18: Locomotion — travelling in different directions, speeds, shapes and levels, animal movements (original target `moving-basics/combined-travelling-and-on-the-spot`) | Zimbabwe Grade 6 PlusOne PE G6 LB, printed p. 104 |
+| Zimbabwe — Topic 4: Gymnastics — locomotion/movement in different ways (original target `moving-basics/combined-travelling-and-on-the-spot`) | Zimbabwe ECD B PlusOne PE and Arts ECD B TG, printed p. 34 |
+| Zimbabwe — Unit 9: Locomotion/elementary movement — basic travelling movements (original target `moving-basics/combined-travelling-and-on-the-spot`) | Zimbabwe Grade 1 PlusOne PE and Arts G1 TG, printed p. 26 |
+| Zimbabwe — Unit 8: Locomotion — travelling movements in gymnastics (original target `moving-basics/combined-travelling-and-on-the-spot`) | Zimbabwe Grade 3 PlusOne PE and Arts G3 TG, printed p. 17 |
+| Zimbabwe — Unit 8: Locomotion — travelling and moving in gymnastics (original target `moving-basics/combined-travelling-and-on-the-spot`) | Zimbabwe Grade 4 PlusOne PE and Arts G4 TG, printed p. 19 |
+
+Zimbabwe's placements in this lesson were filed under the original strings recorded in the provenance rows above. Zimbabwe is student-book stock, inside the acceptance count, in this lesson; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Zimbabwe's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

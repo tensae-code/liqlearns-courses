@@ -1,6 +1,6 @@
 # Sources — Games for Playing Together
 
-countries: Ethiopia, Mozambique, Namibia, Tajikistan, Timor-Leste, Thailand, El Salvador, Philippines, Nicaragua, Honduras, Fiji, Mauritius, North Macedonia
+countries: Ethiopia, Mozambique, Namibia, Tajikistan, Timor-Leste, Thailand, El Salvador, Philippines, Nicaragua, Honduras, Fiji, Mauritius, North Macedonia, Zimbabwe
 
 **Book 1:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–81 + front matter (88 PDF pages). Printed page = PDF page − 7. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md.
 
@@ -51,7 +51,7 @@ countries: Ethiopia, Mozambique, Namibia, Tajikistan, Timor-Leste, Thailand, El 
 | Thailand — Unit 9 (part 1) Miscellaneous games and how to play them together — what เกมเบ็ดเตล็ด (miscellaneous games) are, their benefits, and the rules, regulations and agreements for playing games in a group (student book — MAC sample, PARTIAL) (original target `games-to-play/games-for-playing-together`) | Thailand, *Health & PE, Grade 2* (Thailand Grade 2 MAC Health & PE), Unit 9 (part 1), printed pp. 148–151 |
 | Thailand — Unit 9 (part 2) On-the-spot games — Find the Leader (เกมตามหาผู้นำ), Do As I Say (เกมทำตามฉันบอก), the Robot Game (เกมหุ่นยนต์) and the Clock Hands Game (เกมหมุนเข็มนาฬิกา) (student book — MAC sample, PARTIAL) (original target `games-to-play/games-for-playing-together`) | Thailand, *Health & PE, Grade 2* (Thailand Grade 2 MAC Health & PE), Unit 9 (part 2), printed pp. 151–155 |
 | Thailand — Unit 3, Ch. 2 Games that develop body movement — playing miscellaneous games using directed movement skills (student book — SSR flipbook sample, PARTIAL) (original target `games-to-play/games-for-playing-together`) | Thailand, *Health & PE, Grade 3* (Thailand Grade 3 SSR Health & PE), Unit 3, Ch. 2, printed pp. 57–63 |
-**Acceptance count: taught in 7 countries (Ethiopia, Tajikistan, Timor-Leste, Thailand, Philippines, Honduras, North Macedonia).** Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Namibia is added as teacher-guide evidence only the same way, outside the acceptance count. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Timor-Leste is added as student-book stock (see its row above), inside the acceptance count; its human-football row, filed under the original string `ball-games/human-football` and resolved to this lesson by registry Part 2, rests on the teacher guide and is evidence only. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Mauritius is added as teacher-guide evidence only (see its Mauritius section below), named in the countries line but outside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count.
+**Acceptance count: taught in 7 countries (Ethiopia, Tajikistan, Timor-Leste, Thailand, Philippines, Honduras, North Macedonia).** Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Namibia is added as teacher-guide evidence only the same way, outside the acceptance count. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Timor-Leste is added as student-book stock (see its row above), inside the acceptance count; its human-football row, filed under the original string `ball-games/human-football` and resolved to this lesson by registry Part 2, rests on the teacher guide and is evidence only. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Mauritius is added as teacher-guide evidence only (see its Mauritius section below), named in the countries line but outside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Zimbabwe is added as teacher-guide evidence only (see its Zimbabwe section below), named in the countries line but outside the acceptance count.
 
 The Grade 1 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -297,3 +297,48 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/north-macedo
 | North Macedonia — Elementary and relay games — dynamic collective competitive games that repeat and perfect the elements already learned (bench, ball and relay formats) (original target `games-to-play/games-for-playing-together`) | North Macedonia Grade 9 HPE, printed p. 19 |
 
 North Macedonia's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. North Macedonia's own way is content, as the book lines above record it: one combined “Physical and Health Education” subject through primary school; the Grade 9 year runs body-development exercise complexes → athletics → apparatus gymnastics with rhythmics → Macedonian folk ora and modern dances → the four team games plus table tennis, then a whole second half of optional topics agreed with parents (swimming, skiing, excursions, mountaineering, cycling, roller and ice skating). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Zimbabwe — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/zimbabwe-pe-placements.md. The Zimbabwe books stocked in this lesson are Book 2, Book 3, Book 4. Zimbabwe is teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. Zimbabwe's own way is content, as the book lines below record it: PE, Sport and Mass Displays is one combined subject in the Grade 6 learner's book, and at ECD–Grade 7 PE is fused with the Arts in the PlusOne guides, organised by game family (invasion, target and combat, net, striking, adventure) with kids athletics and aquatics in every grade. The Health parts of these books (Units 1–4 / Topics 1–2) are filed in zimbabwe-health-placements.md; the Arts parts are named in the book headers, not placed.
+
+**Book — Zimbabwe PlusOne PE and Arts ECD A TG (teacher guide, English):**
+## Book 2 — PlusOne PE and Arts ECD A TG (teacher guide, English)
+- Title as printed: Physical Education and Arts — ECD A Teacher's Guide
+- Grade: ECD A (KG1) (student/teacher: TEACHER)
+- Publisher: Secondary Book Press; year 2025; ISBN 978-1-77932-146-6
+- PDF pages: 70 (cover/title page verified against the record title; byte size 3,120,149 and blob SHA verified via GitHub repo tree — the same file the SBP download-list record points to)
+- Verdict: COMPLETE
+- Tally: 11 placements — 8 to existing lessons, 3 NEW LESSON NEEDED
+- Zimbabwe's own way: at ECD the subject fuses PE with the arts — gymnastics balances, locomotion and game skills sit alongside music, visual arts and theatre in one guide, and dance is taught through Zimbabwean indigenous dances.
+- Arts parts named, not placed: Topic 3 History of arts (dance, drawing, cultural artefacts, theatre/folktales), Topic 6 Creative process (music, visual arts, theatre), Topic 7 Aesthetic values, Topic 8 PE and Arts technology. Health parts (Topic 1 Safety and health, Topic 2 Human body) are filed in zimbabwe-health-placements.md.
+
+**Book — Zimbabwe PlusOne PE and Arts ECD B TG (teacher guide, English):**
+## Book 3 — PlusOne PE and Arts ECD B TG (teacher guide, English)
+- Title as printed: Physical Education and Arts — ECD B Teacher's Guide
+- Grade: ECD B (KG2) (student/teacher: TEACHER)
+- Publisher: Secondary Book Press; year 2025; ISBN 978-1-77932-145-9
+- PDF pages: 88 (cover/title page verified against the record title; byte size 3,960,260 and blob SHA verified via GitHub repo tree — the same file the SBP download-list record points to)
+- Verdict: COMPLETE
+- Tally: 12 placements — 9 to existing lessons, 3 NEW LESSON NEEDED
+- Zimbabwe's own way: ECD B builds on ECD A with apparatus balances, water confidence (safe pool entry, playing in water) and dances and songs from different cultures.
+- Arts parts named, not placed: Topic 3 History of arts (music, percussion, visual arts, theatre, animation), Topic 6 Creative process (music note values, visual arts, theatre games, storytelling, pantomime), Topic 7 Aesthetic values, Topic 8 PE and Arts technology. Health parts (Topic 1, Topic 2) are filed in zimbabwe-health-placements.md.
+
+**Book — Zimbabwe PlusOne PE and Arts G1 TG (teacher guide, English):**
+## Book 4 — PlusOne PE and Arts G1 TG (teacher guide, English)
+- Title as printed: Physical Education and Arts — Grade 1 Teacher's Guide (Fadzanai Tafirei)
+- Grade: Grade 1 (student/teacher: TEACHER)
+- Publisher: Secondary Book Press; year 2025; ISBN 978-1-77928-513-3
+- PDF pages: 77 (cover/title page verified against the record title; byte size 3,816,359 and blob SHA verified via GitHub repo tree — the same file the SBP download-list record points to)
+- Verdict: COMPLETE
+- Tally: 7 placements — 6 to existing lessons, 1 NEW LESSON NEEDED
+- Zimbabwe's own way: Grade 1 keeps the nine-topic PE-and-Arts structure — safety and health, human body, history of arts, gymnastics, play and game skills, creative process, aesthetics, technology, enterprise.
+- Arts parts named, not placed: Topic 3 History of arts (Units 4–7, pp. 11–21), Topic 6 Creative process (Units 14–17 Music/Visual arts/Theatre/Dance — the Dance unit is placed below as movement), Topic 7 Aesthetic values (p. 56), Topic 8 Technology (p. 60), Topic 9 Enterprise (p. 63). Health parts (Units 1–3) are filed in zimbabwe-health-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Zimbabwe — Topic 5: Play and game skills — coordination skills and coordination of body parts in play (original target `games-to-play/games-for-playing-together`) | Zimbabwe ECD A PlusOne PE and Arts ECD A TG, printed p. 37 |
+| Zimbabwe — Topic 5: Play and game skills — coordination skills and coordination of body parts (original target `games-to-play/games-for-playing-together`) | Zimbabwe ECD B PlusOne PE and Arts ECD B TG, printed p. 43 |
+| Zimbabwe — Unit 10: Coordination skills — coordinating body parts in play and games (original target `games-to-play/games-for-playing-together`) | Zimbabwe Grade 1 PlusOne PE and Arts G1 TG, printed p. 29 |
+
+Zimbabwe's placements in this lesson were filed under the original strings recorded in the provenance rows above. Zimbabwe is teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. Zimbabwe's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

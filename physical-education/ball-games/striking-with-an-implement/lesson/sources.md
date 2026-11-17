@@ -1,8 +1,8 @@
 # Sources — Striking with an Implement
 
-countries: Belize
+countries: Belize, Zimbabwe
 
-**Acceptance count: taught in 0 countries.** Belize is teacher-curriculum evidence only (see its rows below), named in the countries line but outside the acceptance count — this lesson is founded on teacher-curriculum evidence only, no pupil's book in hand.
+**Acceptance count: taught in 0 countries.** Belize is teacher-curriculum evidence only (see its rows below), named in the countries line but outside the acceptance count — this lesson is founded on teacher-curriculum evidence only, no pupil's book in hand. Zimbabwe is added as teacher-guide evidence only (see its Zimbabwe section below), named in the countries line but outside the acceptance count.
 
 ## Belize — PE expansion 2026-11-16
 
@@ -26,3 +26,24 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-pe-pl
 This is a canonical NEW lesson (slug-registry Part 1: `ball-games/striking-with-an-implement` — Striking with an implement: hitting a ball with hand, bat or racket — the foundation of the striking games.); Belize's placements were filed under the original strings recorded in the provenance rows above, resolved by registry Part 2 to this canonical slug where the string differs. Belize enters this lesson as teacher-curriculum evidence only, outside the acceptance count. Belize's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: striking with an implement, striking, underhand strike, racket strike, Belize PE Lower Division
+
+## Zimbabwe — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/zimbabwe-pe-placements.md. The Zimbabwe books stocked in this lesson are Book 5. Zimbabwe is teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. Zimbabwe's own way is content, as the book lines below record it: PE, Sport and Mass Displays is one combined subject in the Grade 6 learner's book, and at ECD–Grade 7 PE is fused with the Arts in the PlusOne guides, organised by game family (invasion, target and combat, net, striking, adventure) with kids athletics and aquatics in every grade. The Health parts of these books (Units 1–4 / Topics 1–2) are filed in zimbabwe-health-placements.md; the Arts parts are named in the book headers, not placed.
+
+**Book — Zimbabwe PlusOne PE and Arts G3 TG (teacher guide, English):**
+## Book 5 — PlusOne PE and Arts G3 TG (teacher guide, English)
+- Title as printed: Physical Education and Arts — Grade 3 Teacher's Guide (Nomsa Nyathi, Fungai Makonese, Njabulo Mpofu)
+- Grade: Grade 3 (student/teacher: TEACHER)
+- Publisher: Secondary Book Press; year 2025; ISBN 978-1-77928-505-8
+- PDF pages: 73 (cover/title page verified against the record title; byte size 4,837,969 and blob SHA verified via GitHub repo tree — the same file the SBP download-list record points to)
+- Verdict: COMPLETE
+- Tally: 10 placements — 6 to existing lessons, 4 NEW LESSON NEEDED
+- Zimbabwe's own way: from Grade 3 the game skills are organised by game family — invasion, target and combat, net, striking, adventure — the same family structure the Grade 6 learner's book uses.
+- Arts parts named, not placed: Topic 3 History of arts (Units 4–6, pp. 8–14), Topic 6 Creative process (Units 16–19 Music/Visual arts/Theatre/Dance — Dance placed below), Topic 7 Aesthetic values (p. 53), Topic 8 Technology (p. 56), Topic 9 Enterprise (p. 59). Health parts (Units 1–3) are filed in zimbabwe-health-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Zimbabwe — Unit 12: Striking — striking a ball with implements in striking games (original target `ball-games/striking-games-skills`) | Zimbabwe Grade 3 PlusOne PE and Arts G3 TG, printed p. 25 |
+
+Zimbabwe's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Zimbabwe is teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. Zimbabwe's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

@@ -273,3 +273,13 @@ Competitions** (`athletics/athletics-competitions`),
 of Macedonia**
 (`traditional-games-and-dances/traditional-dances-of-macedonia`)
 — 7 new lessons, bringing this course to 170 lessons.
+
+The PE expansion then added: **Combat Sports**
+(`moving-basics/combat-sports`), **Cricket Skills**
+(`ball-games/cricket-skills`), **Target Games**
+(`games-to-play/target-games`), **Traditional Dances
+of Zimbabwe**
+(`traditional-games-and-dances/traditional-dances-of-zimbabwe`)
+and **Mass Displays**
+(`traditional-games-and-dances/mass-displays`)
+— 5 new lessons, bringing this course to 175 lessons.

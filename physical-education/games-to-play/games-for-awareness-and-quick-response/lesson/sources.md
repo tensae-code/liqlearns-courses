@@ -1,6 +1,6 @@
 # Sources — Games for Awareness and Quick Response
 
-countries: Ethiopia, Mozambique, Kazakhstan, Thailand, Philippines, Nicaragua, Honduras, Iran
+countries: Ethiopia, Mozambique, Kazakhstan, Thailand, Philippines, Nicaragua, Honduras, Iran, Zimbabwe
 
 **Book 1:** *Grade 3 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–65 + front matter (72 PDF pages). Printed page = PDF page − 7. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g03-student-placements.md.
 
@@ -44,7 +44,7 @@ countries: Ethiopia, Mozambique, Kazakhstan, Thailand, Philippines, Nicaragua, H
 
 | Kazakhstan — Quarter 3 — games and relays that develop speed and strength qualities (игры на развитие быстроты, силы), and relay games with balls (teacher guide — evidence) (original target `games-to-play/games-for-awareness-and-quick-response`) | Kazakhstan, *Physical Culture, Methodological Guide for Grade 4 Teachers* (Kazakhstan Grade 4 TG), printed p. 6 (PDF p. 6) |
 | Thailand — Unit 9 (part 3) Travelling chase games — the Witch Hunts the Children (เกมแม่มดตามหาเด็ก), the Cat Pounces on the Bird (เกมแมวตะครุบนก), Step-Close Find a Partner (เกมก้าวชิดก้าวหาคู่) and the Horse into the Stable (เกมม้าเข้าคอก) (student book — MAC sample, PARTIAL) (original target `games-to-play/games-for-awareness-and-quick-response`) | Thailand, *Health & PE, Grade 2* (Thailand Grade 2 MAC Health & PE), Unit 9 (part 3), printed pp. 156–160 |
-**Acceptance count: taught in 5 countries (Ethiopia, Thailand, Philippines, Honduras, Iran).** Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count.
+**Acceptance count: taught in 6 countries (Ethiopia, Thailand, Philippines, Honduras, Iran, Zimbabwe).** Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
 
 The Grade 3 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -190,3 +190,49 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/iran-pe-plac
 | Iran — Lesson "Reaction time" — reacting quickly to signals (original target `games-to-play/games-for-awareness-and-quick-response`) | Iran, *Physical Education, Year 1, special-needs vocational secondary: Physical Fitness (C181-11)*, Lesson "Reaction time", printed p. 63 |
 
 Iran's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Iran's own way is content, as the book lines above record it: PE taught as a profession with a knowledge base — a Grade 10 theory book before any workshop book, workshop books of competency units with continuous and final assessment, team games taught as full coaching units with kabaddi standing as a full module beside them, and a special-needs fitness course of very short lessons with one idea each. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Zimbabwe — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/zimbabwe-pe-placements.md. The Zimbabwe books stocked in this lesson are Book 1, Book 7, Book 8. Zimbabwe is student-book stock, inside the acceptance count, in this lesson; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Zimbabwe's own way is content, as the book lines below record it: PE, Sport and Mass Displays is one combined subject in the Grade 6 learner's book, and at ECD–Grade 7 PE is fused with the Arts in the PlusOne guides, organised by game family (invasion, target and combat, net, striking, adventure) with kids athletics and aquatics in every grade. The Health parts of these books (Units 1–4 / Topics 1–2) are filed in zimbabwe-health-placements.md; the Arts parts are named in the book headers, not placed.
+
+**Book — Zimbabwe PlusOne PE Sport and Mass Displays G6 LB (student book, English):**
+## Book 1 — PlusOne PE Sport and Mass Displays G6 LB (student book, English)
+- Title as printed: PlusOne Physical Education, Sport and Mass Displays — Grade 6 Learner's Book
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Secondary Book Press; year not printed on pages read; ISBN no ISBN printed
+- PDF pages: 47 PDF pages (spread scans; printed pp. 1–137) (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 22 placements — 12 to existing lessons, 10 NEW LESSON NEEDED
+- Zimbabwe's own way: PE, Sport and Mass Displays is one combined subject — athletics is taught as "Kids Athletics", and mass-display work (choreography, formations, arena acts) is a full topic of its own alongside Music and Art topics inside the same book.
+- Other subjects in this combined book, named not placed: Topic 11 Music — Unit 19 Background and performing music, printed p. 113; Topic 12 Background Art — Unit 20 Patterns and mounts, printed p. 119. Tests 1–3 and unit revision exercises are assessment, excluded.
+- Health parts of this book (Units 1–4) are filed in zimbabwe-health-placements.md.
+
+**Book — Zimbabwe PlusOne PE and Arts G5 TG (teacher guide, English):**
+## Book 7 — PlusOne PE and Arts G5 TG (teacher guide, English)
+- Title as printed: Physical Education and Arts — Grade 5 Teacher's Guide
+- Grade: Grade 5 (student/teacher: TEACHER)
+- Publisher: Secondary Book Press; year 2025; ISBN 978-1-77928-515-7
+- PDF pages: 118 (cover/title page verified against the record title; byte size 2,600,872 and blob SHA verified via GitHub repo tree — the same file the SBP download-list record points to)
+- Verdict: COMPLETE
+- Tally: 13 placements — 9 to existing lessons, 4 NEW LESSON NEEDED
+- Zimbabwe's own way: Grade 5 invasion games are taught as one unit with three named sub-skills — space awareness, positioning and reaction — and the guide frames the whole subject around Ubuntu/Unhu/Vumunhu values.
+- Arts parts named, not placed: Topic 3 History of arts (Units 4–6, pp. 21–33), Topic 6 Creative process (Units 16–20 Music/Visual arts/Theatre/Dance/Arts appreciation — Dance placed below), Topic 7 Aesthetic values/Technology (p. 95), Topic 8 Entrepreneurship (p. 99). Tests 1–3 are assessment, excluded. Health parts (Units 1–3) are filed in zimbabwe-health-placements.md.
+
+**Book — Zimbabwe PlusOne PE and Arts G7 TG (teacher guide, English):**
+## Book 8 — PlusOne PE and Arts G7 TG (teacher guide, English)
+- Title as printed: Physical Education and Arts — Grade 7 Teacher's Guide (Nomsa Nyathi, Fadzanai Tafirei)
+- Grade: Grade 7 (student/teacher: TEACHER)
+- Publisher: Secondary Book Press; year 2025; ISBN 978-1-77932-140-4
+- PDF pages: 124 (cover/title page verified against the record title; byte size 4,773,140 and blob SHA verified via GitHub repo tree — the same file the SBP download-list record points to)
+- Verdict: COMPLETE
+- Tally: 17 placements — 9 to existing lessons, 8 NEW LESSON NEEDED
+- Zimbabwe's own way: Grade 7 is the fullest statement of the family structure — invasion, target and combat, net, striking (cricket grip/stance/footwork and batting drives), adventure, kids athletics and aquatics, each with named sub-topics.
+- Arts parts named, not placed: Topic 3 History of arts and culture (Units 4–6, pp. 16–29), Topic 6 Creative process (Units 18–21 Music/Visual arts/Theatre/Dance — Dance placed below), Topic 7 Arts aesthetic values (p. 96), Topic 8 Technology (p. 100), Topic 9 Enterprise (p. 105). Tests 1–2 are assessment, excluded. Health parts (Units 1–3) are filed in zimbabwe-health-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Zimbabwe — Unit 11: Reaction — reacting quickly in invasion games (original target `games-to-play/games-for-awareness-and-quick-response`) | Zimbabwe Grade 6 PlusOne PE G6 LB, printed p. 61 |
+| Zimbabwe — Unit 8: Invasion games – Reaction — reacting quickly in invasion games (original target `games-to-play/games-for-awareness-and-quick-response`) | Zimbabwe Grade 5 PlusOne PE and Arts G5 TG, printed p. 38 |
+| Zimbabwe — Unit 8: Invasion games – Reaction — reaction speed in invasion games (original target `games-to-play/games-for-awareness-and-quick-response`) | Zimbabwe Grade 7 PlusOne PE and Arts G7 TG, printed p. 37 |
+
+Zimbabwe's placements in this lesson were filed under the original strings recorded in the provenance rows above. Zimbabwe is student-book stock, inside the acceptance count, in this lesson; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Zimbabwe's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

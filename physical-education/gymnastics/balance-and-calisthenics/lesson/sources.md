@@ -1,6 +1,6 @@
 # Sources — Balance and Calisthenics
 
-countries: Ethiopia, Kazakhstan, Afghanistan, El Salvador, Philippines, Nicaragua, Maldives, Belize, Honduras, Fiji, Mauritius, Iran, North Macedonia
+countries: Ethiopia, Kazakhstan, Afghanistan, El Salvador, Philippines, Nicaragua, Maldives, Belize, Honduras, Fiji, Mauritius, Iran, North Macedonia, Zimbabwe
 
 **Book — Grade 1 student:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 81 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md. COMPLETE.
 
@@ -19,7 +19,7 @@ countries: Ethiopia, Kazakhstan, Afghanistan, El Salvador, Philippines, Nicaragu
 | Free gymnastics and balance — Grade 5 | Ethiopia, Grade 5 student §5.2.1, printed pp. 66–68 |
 
 | Kazakhstan — All quarters — general developing exercises (ОРУ) on the spot and in movement, without objects and with objects, opening the lesson work (teacher guide — evidence) (original target `gymnastics/balance-and-calisthenics`) | Kazakhstan, *Physical Culture, Methodological Guide for Grade 4 Teachers* (Kazakhstan Grade 4 TG), printed pp. 4–5, 20, 48 |
-**Acceptance count: taught in 6 countries (Ethiopia, Philippines, Nicaragua, Mauritius, Iran, North Macedonia).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as teacher-guide evidence only (see its Honduras section below), named in the countries line but outside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count; the Mauritius teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count.
+**Acceptance count: taught in 7 countries (Ethiopia, Philippines, Nicaragua, Mauritius, Iran, North Macedonia, Zimbabwe).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as teacher-guide evidence only (see its Honduras section below), named in the countries line but outside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count; the Mauritius teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
 
 Student books Grades 1–4 are complete. No page is claimed that the placements do not give. Dance and game rules are taught only as the placements summarise them; no rules have been invented for any game the placements leave game-dependent.
 
@@ -381,3 +381,109 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/north-macedo
 | North Macedonia — Gymnastic element 8: balance positions on the beam — passé, arabesque, front balance and side balance, and the continuous control of the body's centre over the narrow support (original target `gymnastics/balance-and-calisthenics`) | North Macedonia Grade 11 Sport, printed p. 49 |
 
 North Macedonia's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. North Macedonia's own way is content, as the book lines above record it: one combined “Physical and Health Education” subject through primary school; the Grade 9 year runs body-development exercise complexes → athletics → apparatus gymnastics with rhythmics → Macedonian folk ora and modern dances → the four team games plus table tennis, then a whole second half of optional topics agreed with parents (swimming, skiing, excursions, mountaineering, cycling, roller and ice skating); and, for the gymnasium book, in gymnasium the subject is renamed “Sport and Sports Activities” and turns encyclopaedic — every sport is taught as technique + tactics + full rules + its world history AND its Macedonian history (handball arriving in Skopje in 1948, basketball in Štip in 1933, Vardar and the federations' FIFA/FIBA/IHF memberships), and pupils choose elective areas, including a “Fitness and health” area with aerobics, gym fitness and Pilates. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Zimbabwe — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/zimbabwe-pe-placements.md. The Zimbabwe books stocked in this lesson are Book 1, Book 2, Book 3, Book 4, Book 5, Book 6, Book 7, Book 8. Zimbabwe is student-book stock, inside the acceptance count, in this lesson; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Zimbabwe's own way is content, as the book lines below record it: PE, Sport and Mass Displays is one combined subject in the Grade 6 learner's book, and at ECD–Grade 7 PE is fused with the Arts in the PlusOne guides, organised by game family (invasion, target and combat, net, striking, adventure) with kids athletics and aquatics in every grade. The Health parts of these books (Units 1–4 / Topics 1–2) are filed in zimbabwe-health-placements.md; the Arts parts are named in the book headers, not placed.
+
+**Book — Zimbabwe PlusOne PE Sport and Mass Displays G6 LB (student book, English):**
+## Book 1 — PlusOne PE Sport and Mass Displays G6 LB (student book, English)
+- Title as printed: PlusOne Physical Education, Sport and Mass Displays — Grade 6 Learner's Book
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Secondary Book Press; year not printed on pages read; ISBN no ISBN printed
+- PDF pages: 47 PDF pages (spread scans; printed pp. 1–137) (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 22 placements — 12 to existing lessons, 10 NEW LESSON NEEDED
+- Zimbabwe's own way: PE, Sport and Mass Displays is one combined subject — athletics is taught as "Kids Athletics", and mass-display work (choreography, formations, arena acts) is a full topic of its own alongside Music and Art topics inside the same book.
+- Other subjects in this combined book, named not placed: Topic 11 Music — Unit 19 Background and performing music, printed p. 113; Topic 12 Background Art — Unit 20 Patterns and mounts, printed p. 119. Tests 1–3 and unit revision exercises are assessment, excluded.
+- Health parts of this book (Units 1–4) are filed in zimbabwe-health-placements.md.
+
+**Book — Zimbabwe PlusOne PE and Arts ECD A TG (teacher guide, English):**
+## Book 2 — PlusOne PE and Arts ECD A TG (teacher guide, English)
+- Title as printed: Physical Education and Arts — ECD A Teacher's Guide
+- Grade: ECD A (KG1) (student/teacher: TEACHER)
+- Publisher: Secondary Book Press; year 2025; ISBN 978-1-77932-146-6
+- PDF pages: 70 (cover/title page verified against the record title; byte size 3,120,149 and blob SHA verified via GitHub repo tree — the same file the SBP download-list record points to)
+- Verdict: COMPLETE
+- Tally: 11 placements — 8 to existing lessons, 3 NEW LESSON NEEDED
+- Zimbabwe's own way: at ECD the subject fuses PE with the arts — gymnastics balances, locomotion and game skills sit alongside music, visual arts and theatre in one guide, and dance is taught through Zimbabwean indigenous dances.
+- Arts parts named, not placed: Topic 3 History of arts (dance, drawing, cultural artefacts, theatre/folktales), Topic 6 Creative process (music, visual arts, theatre), Topic 7 Aesthetic values, Topic 8 PE and Arts technology. Health parts (Topic 1 Safety and health, Topic 2 Human body) are filed in zimbabwe-health-placements.md.
+
+**Book — Zimbabwe PlusOne PE and Arts ECD B TG (teacher guide, English):**
+## Book 3 — PlusOne PE and Arts ECD B TG (teacher guide, English)
+- Title as printed: Physical Education and Arts — ECD B Teacher's Guide
+- Grade: ECD B (KG2) (student/teacher: TEACHER)
+- Publisher: Secondary Book Press; year 2025; ISBN 978-1-77932-145-9
+- PDF pages: 88 (cover/title page verified against the record title; byte size 3,960,260 and blob SHA verified via GitHub repo tree — the same file the SBP download-list record points to)
+- Verdict: COMPLETE
+- Tally: 12 placements — 9 to existing lessons, 3 NEW LESSON NEEDED
+- Zimbabwe's own way: ECD B builds on ECD A with apparatus balances, water confidence (safe pool entry, playing in water) and dances and songs from different cultures.
+- Arts parts named, not placed: Topic 3 History of arts (music, percussion, visual arts, theatre, animation), Topic 6 Creative process (music note values, visual arts, theatre games, storytelling, pantomime), Topic 7 Aesthetic values, Topic 8 PE and Arts technology. Health parts (Topic 1, Topic 2) are filed in zimbabwe-health-placements.md.
+
+**Book — Zimbabwe PlusOne PE and Arts G1 TG (teacher guide, English):**
+## Book 4 — PlusOne PE and Arts G1 TG (teacher guide, English)
+- Title as printed: Physical Education and Arts — Grade 1 Teacher's Guide (Fadzanai Tafirei)
+- Grade: Grade 1 (student/teacher: TEACHER)
+- Publisher: Secondary Book Press; year 2025; ISBN 978-1-77928-513-3
+- PDF pages: 77 (cover/title page verified against the record title; byte size 3,816,359 and blob SHA verified via GitHub repo tree — the same file the SBP download-list record points to)
+- Verdict: COMPLETE
+- Tally: 7 placements — 6 to existing lessons, 1 NEW LESSON NEEDED
+- Zimbabwe's own way: Grade 1 keeps the nine-topic PE-and-Arts structure — safety and health, human body, history of arts, gymnastics, play and game skills, creative process, aesthetics, technology, enterprise.
+- Arts parts named, not placed: Topic 3 History of arts (Units 4–7, pp. 11–21), Topic 6 Creative process (Units 14–17 Music/Visual arts/Theatre/Dance — the Dance unit is placed below as movement), Topic 7 Aesthetic values (p. 56), Topic 8 Technology (p. 60), Topic 9 Enterprise (p. 63). Health parts (Units 1–3) are filed in zimbabwe-health-placements.md.
+
+**Book — Zimbabwe PlusOne PE and Arts G3 TG (teacher guide, English):**
+## Book 5 — PlusOne PE and Arts G3 TG (teacher guide, English)
+- Title as printed: Physical Education and Arts — Grade 3 Teacher's Guide (Nomsa Nyathi, Fungai Makonese, Njabulo Mpofu)
+- Grade: Grade 3 (student/teacher: TEACHER)
+- Publisher: Secondary Book Press; year 2025; ISBN 978-1-77928-505-8
+- PDF pages: 73 (cover/title page verified against the record title; byte size 4,837,969 and blob SHA verified via GitHub repo tree — the same file the SBP download-list record points to)
+- Verdict: COMPLETE
+- Tally: 10 placements — 6 to existing lessons, 4 NEW LESSON NEEDED
+- Zimbabwe's own way: from Grade 3 the game skills are organised by game family — invasion, target and combat, net, striking, adventure — the same family structure the Grade 6 learner's book uses.
+- Arts parts named, not placed: Topic 3 History of arts (Units 4–6, pp. 8–14), Topic 6 Creative process (Units 16–19 Music/Visual arts/Theatre/Dance — Dance placed below), Topic 7 Aesthetic values (p. 53), Topic 8 Technology (p. 56), Topic 9 Enterprise (p. 59). Health parts (Units 1–3) are filed in zimbabwe-health-placements.md.
+
+**Book — Zimbabwe PlusOne PE and Arts G4 TG (teacher guide, English):**
+## Book 6 — PlusOne PE and Arts G4 TG (teacher guide, English)
+- Title as printed: Physical Education and Arts — Grade 4 Teacher's Guide (Rebecca Mutimbanyoka, Fungai Makonese, Njabulo Mpofu)
+- Grade: Grade 4 (student/teacher: TEACHER)
+- Publisher: Secondary Book Press; year 2025; ISBN 978-1-77928-500-3
+- PDF pages: 85 (cover/title page verified against the record title; byte size 3,439,697 and blob SHA verified via GitHub repo tree — the same file the SBP download-list record points to)
+- Verdict: COMPLETE
+- Tally: 12 placements — 9 to existing lessons, 3 NEW LESSON NEEDED
+- Zimbabwe's own way: Grade 4 splits kids athletics into separate running, jumping and throwing units and adds space awareness as its own gymnastics unit.
+- Arts parts named, not placed: Topic 3 History of arts (Units 4–6, pp. 9–16), Topic 6 Creative process (Units 18–21 Music/Visual arts/Theatre/Dance — Dance placed below), Topic 7 Aesthetic values (p. 61), Topic 8 Technology (p. 64), Topic 9 Enterprise (p. 68). Tests 1–2 are assessment, excluded. Health parts (Units 1–3) are filed in zimbabwe-health-placements.md.
+
+**Book — Zimbabwe PlusOne PE and Arts G5 TG (teacher guide, English):**
+## Book 7 — PlusOne PE and Arts G5 TG (teacher guide, English)
+- Title as printed: Physical Education and Arts — Grade 5 Teacher's Guide
+- Grade: Grade 5 (student/teacher: TEACHER)
+- Publisher: Secondary Book Press; year 2025; ISBN 978-1-77928-515-7
+- PDF pages: 118 (cover/title page verified against the record title; byte size 2,600,872 and blob SHA verified via GitHub repo tree — the same file the SBP download-list record points to)
+- Verdict: COMPLETE
+- Tally: 13 placements — 9 to existing lessons, 4 NEW LESSON NEEDED
+- Zimbabwe's own way: Grade 5 invasion games are taught as one unit with three named sub-skills — space awareness, positioning and reaction — and the guide frames the whole subject around Ubuntu/Unhu/Vumunhu values.
+- Arts parts named, not placed: Topic 3 History of arts (Units 4–6, pp. 21–33), Topic 6 Creative process (Units 16–20 Music/Visual arts/Theatre/Dance/Arts appreciation — Dance placed below), Topic 7 Aesthetic values/Technology (p. 95), Topic 8 Entrepreneurship (p. 99). Tests 1–3 are assessment, excluded. Health parts (Units 1–3) are filed in zimbabwe-health-placements.md.
+
+**Book — Zimbabwe PlusOne PE and Arts G7 TG (teacher guide, English):**
+## Book 8 — PlusOne PE and Arts G7 TG (teacher guide, English)
+- Title as printed: Physical Education and Arts — Grade 7 Teacher's Guide (Nomsa Nyathi, Fadzanai Tafirei)
+- Grade: Grade 7 (student/teacher: TEACHER)
+- Publisher: Secondary Book Press; year 2025; ISBN 978-1-77932-140-4
+- PDF pages: 124 (cover/title page verified against the record title; byte size 4,773,140 and blob SHA verified via GitHub repo tree — the same file the SBP download-list record points to)
+- Verdict: COMPLETE
+- Tally: 17 placements — 9 to existing lessons, 8 NEW LESSON NEEDED
+- Zimbabwe's own way: Grade 7 is the fullest statement of the family structure — invasion, target and combat, net, striking (cricket grip/stance/footwork and batting drives), adventure, kids athletics and aquatics, each with named sub-topics.
+- Arts parts named, not placed: Topic 3 History of arts and culture (Units 4–6, pp. 16–29), Topic 6 Creative process (Units 18–21 Music/Visual arts/Theatre/Dance — Dance placed below), Topic 7 Arts aesthetic values (p. 96), Topic 8 Technology (p. 100), Topic 9 Enterprise (p. 105). Tests 1–2 are assessment, excluded. Health parts (Units 1–3) are filed in zimbabwe-health-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Zimbabwe — Unit 18: Locomotion — beam circuit work: beam walks, jumps and landings in educational gymnastics (original target `gymnastics/balance-and-calisthenics`) | Zimbabwe Grade 6 PlusOne PE G6 LB, printed p. 104 |
+| Zimbabwe — Topic 4: Gymnastics — weight bearing and balances, pair and group balances, creating shapes and formations (original target `gymnastics/balance-and-calisthenics`) | Zimbabwe ECD A PlusOne PE and Arts ECD A TG, printed p. 25 |
+| Zimbabwe — Topic 4: Gymnastics — weight bearing and balances, balances creating shapes and formations, balancing in pairs, transferring and bearing weight (original target `gymnastics/balance-and-calisthenics`) | Zimbabwe ECD B PlusOne PE and Arts ECD B TG, printed p. 28 |
+| Zimbabwe — Unit 8: Weight bearing/balances — bearing weight and balancing in gymnastics (original target `gymnastics/balance-and-calisthenics`) | Zimbabwe Grade 1 PlusOne PE and Arts G1 TG, printed p. 22 |
+| Zimbabwe — Unit 7: Balances — holding balances in gymnastics (original target `gymnastics/balance-and-calisthenics`) | Zimbabwe Grade 3 PlusOne PE and Arts G3 TG, printed p. 15 |
+| Zimbabwe — Unit 7: Balances — gymnastics balances (original target `gymnastics/balance-and-calisthenics`) | Zimbabwe Grade 4 PlusOne PE and Arts G4 TG, printed p. 17 |
+| Zimbabwe — Unit 7: Balances and locomotion — balances combined with locomotion work (original target `gymnastics/balance-and-calisthenics`) | Zimbabwe Grade 5 PlusOne PE and Arts G5 TG, printed p. 34 |
+| Zimbabwe — Unit 7: Balance and locomotion — balances combined with locomotion (original target `gymnastics/balance-and-calisthenics`) | Zimbabwe Grade 7 PlusOne PE and Arts G7 TG, printed p. 30 |
+
+Zimbabwe's placements in this lesson were filed under the original strings recorded in the provenance rows above. Zimbabwe is student-book stock, inside the acceptance count, in this lesson; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Zimbabwe's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

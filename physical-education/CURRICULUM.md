@@ -668,6 +668,42 @@ and Macedonian history, with elective areas including a
 “Fitness and health” area with aerobics, gym fitness and
 Pilates.
 
+**PE expansion — Zimbabwe — BUILT 2026-11-16:** 104 placements
+from Zimbabwe's eight PlusOne books — Book 1, *PlusOne
+Physical Education, Sport and Mass Displays, Grade 6
+Learner's Book* (student book, COMPLETE) and Books 2–8,
+the *PlusOne Physical Education and Arts* teacher guides
+for ECD A, ECD B and Grades 1, 3, 4, 5 and 7 (teacher
+guides, COMPLETE) — stocked: 84 into existing lessons
+(including canonical lessons built earlier in this
+expansion) and 20 as 5 new lessons (Combat Sports;
+Cricket Skills; Target Games; Traditional Dances of
+Zimbabwe; Mass Displays) — bringing this course to
+**175 lessons**. Book 1 is a student book, so Zimbabwe
+is student-book stock, inside the acceptance counts, in
+every lesson it touches through that book; Books 2–8 are
+teacher guides, filed as teacher-guide evidence only,
+outside the acceptance counts, and the one new lesson
+founded only on them (Traditional Dances of Zimbabwe)
+stands at acceptance count 0. No Zimbabwe placement
+resolves to a Health-course lesson through the PE slug
+registry, so none was excluded as Health-bound; the
+books' Health parts are filed in
+zimbabwe-health-placements.md and their Arts parts are
+named in the book headers, not placed. The record-only
+items in the placements file (the Grade 2 and Grade 6
+teacher guides, the Grade 5 learner's book and Form 1
+book on Scribd, the Spring Up preview, the SBP price
+list and the three MoPSE teacher guides on Wayback) are
+UNREAD / not a book as filed, with 0 placements, nothing
+stocked from them. Zimbabwe's own way is content: PE,
+Sport and Mass Displays as one combined subject, PE
+fused with the Arts at ECD–Grade 7, game skills organised
+by family (invasion, target and combat, net, striking,
+adventure), kids athletics and aquatics in every grade,
+and mass displays — choreography and formations — as a
+full topic of its own.
+
 ## Unit 1 — Moving Basics
 
 1. **Combined Travelling and On-the-Spot Movements** (`moving-basics/combined-travelling-and-on-the-spot`) — joining travelling movements together, joining on-the-spot movements together, and chaining the two families in one sequence.
@@ -695,6 +731,8 @@ Pilates.
 20. **Swimming Strokes** (`moving-basics/swimming-strokes`) — swimming strokes: front crawl (freestyle), backstroke, breaststroke and butterfly, with diving and turns — taught in Fiji's Year 4 Teachers Handbook as swimming in pools, rivers and creeks, and the freestyle, breaststroke, backstroke and butterfly strokes (Fiji's teacher guide, evidence only).
 
 21. **Cycling** (`moving-basics/cycling`) — cycling: road and off-road cycling — the bicycle, where to ride and how to ride — taught in North Macedonia's Grade 9 book as cycling: road cycling on asphalt (the Tour de France and Giro d'Italia named) and off-road cycling in nature, hills, mountains, parks and forests, as transport and recreation (North Macedonia's student book).
+
+22. **Combat Sports** (`moving-basics/combat-sports`) — combat sports: safe falling, gripping, throws, holds and escapes — taught through judo-style practice, with combat ethics — taught in Zimbabwe's Grade 6 learner's book as stance: upright posture and stance in martial arts/combat games (printed p. 71), and in its Grade 5 and Grade 7 teacher guides as stance in target/combat games (teacher guides, evidence only) (Zimbabwe's Grade 6 student book; its Grade 5 and Grade 7 teacher guides, evidence only).
 
 ## Unit 2 — Fitness and Stretching
 
@@ -795,6 +833,8 @@ Pilates.
 
 27. **Basketball 3x3** (`ball-games/basketball-3x3`) — basketball 3x3: the half-court three-on-three game and its rules — taught in North Macedonia's Grade 11 book as basketball 3x3: one hoop, teams of three plus one substitute, the check-ball start, the 12-second shot clock, and a game of 10 minutes or first to 21 (North Macedonia's student book).
 
+28. **Cricket Skills** (`ball-games/cricket-skills`) — cricket skills: grip, stance, footwork, batting, bowling and fielding — taught in Zimbabwe's Grade 6 learner's book as cricket grips (orthodox, 'O'-shaped and Knott grips, printed p. 81) and cricket stance, footwork and striking (printed p. 89), and in its Grade 7 teacher guide as grip, stance and footwork and the backward and forward drives (teacher guide, evidence only) (Zimbabwe's Grade 6 student book; its Grade 7 teacher guide, evidence only).
+
 ## Unit 6 — Games to Play
 
 1. **Games for Awareness and Quick Response** (`games-to-play/games-for-awareness-and-quick-response`) — the Grade 3 book's new games family — awareness (ንቃተ ህሊና): hearing, feeling and responding the instant the moment comes.
@@ -812,6 +852,8 @@ Pilates.
 12. **Indoor Board and Table Games** (`games-to-play/indoor-board-and-table-games`) — indoor board and table games: cards, Snakes and Ladders, draughts, carrom and making your own boards — taught in Fiji's Year 4 Teachers Handbook as indoor games: cards, Snakes and Ladders, Monopoly and making your own draughts boards, invented for amusement when confined indoors (Fiji's teacher guide, evidence only).
 
 13. **Fun Trick Skills** (`games-to-play/fun-trick-skills`) — fun trick skills: showy trick skills performed for fun — taught in Iran's special-needs Year 1 fitness book as شیرین‌کاری, entertaining trick skills (Iran's student book).
+
+14. **Target Games** (`games-to-play/target-games`) — target games: aiming and throwing or kicking at targets, including archery — taught in Zimbabwe's Grade 6 learner's book as aiming and targeting: target toss games, aiming at moving targets and archery stages (printed p. 66), and across its ECD B and Grades 3, 4, 5 and 7 teacher guides as target throwing and target and combat games (teacher guides, evidence only) (Zimbabwe's Grade 6 student book; its teacher guides, evidence only).
 
 ## Unit 7 — Traditional Games and Dances
 
@@ -861,6 +903,9 @@ Pilates.
 41. **Traditional Games of Iran** (`traditional-games-and-dances/traditional-games-of-iran`) — traditional games of Iran: Iran's native and local games, their rules, and planning and running them — taught in Iran's Grade 10 theory book (old Iranian games named as heritage: bazi-ye vasati, gorgam-be-hava, haft-sang), its Grade 11 book (a catalogue of Iran's regional games) and its Grade 12 book (planning traditional games and sports as programmes) (Iran's student books).
 
 42. **Traditional Dances of Macedonia** (`traditional-games-and-dances/traditional-dances-of-macedonia`) — traditional dances of Macedonia: the Macedonian folk dances (ora) — holding hands, chains and steps, danced at feasts and weddings — taught in North Macedonia's Grade 9 book as three ora of the class's choice (Lesnoto, Teškoto, Kalajdžisko, Nevestinsko, Tresenica, Egejsko among them) and in its Grade 11 book as the oro as cultural heritage, in open or closed chains moving to the right, to gajda, tapan, zurla and kaval (North Macedonia's student books).
+
+43. **Traditional Dances of Zimbabwe** (`traditional-games-and-dances/traditional-dances-of-zimbabwe`) — traditional dances of Zimbabwe: Zimbabwe's indigenous dances, danced for learning and entertainment — taught in Zimbabwe's ECD A teacher guide as indigenous dances taught to young children and dancing for entertainment with Zimbabwean dances, and in its ECD B teacher guide as songs and dances from different cultures (teacher guides, evidence only).
+44. **Mass Displays** (`traditional-games-and-dances/mass-displays`) — mass displays: choreography and formations — exercise, circle, star and flower formations performed by large groups — taught in Zimbabwe's Grade 6 learner's book as choreography (structured and freestyle, cartwheel and calisthenics routines, printed p. 126) and formations (exercise, file, oblique, circle, star and flower formations, printed p. 130) (Zimbabwe's student book).
 
 ## Unit 8 — Sport and Its Story
 
