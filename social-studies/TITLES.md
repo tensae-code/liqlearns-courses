@@ -4697,3 +4697,4 @@ Money: The triangular trade and the slave trade, The coffee value chain and ICAF
 ; +1 for Finland, 2026-11-17 — Culture and Work: Everymans Rights Freedom to Roam.
 ; +1 for Solomon Islands, 2026-11-17 — First Steps: Taking Action Together for Our Community.
 ; +1 for Sweden, 2026-11-17 — First Steps: Businesses and Services in Our Community.
+; +1 for Egypt, 2026-11-17 — Culture and Work: Respecting and Cooperating with the Police.
