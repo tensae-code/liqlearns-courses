@@ -1,6 +1,6 @@
 # Sources — Combined Travelling and On-the-Spot Movements
 
-countries: Ethiopia, Samoa, Thailand, El Salvador, Philippines, Nicaragua, Maldives
+countries: Ethiopia, Samoa, Thailand, El Salvador, Philippines, Nicaragua, Maldives, Fiji
 
 **Book — Grade 1 teacher (teacher guide — evidence):** *Grade 1 Health and Physical Education Teacher Guide* (የጤናና ሰውነት ማጎልመሻ ትምህርት የመምህር መምሪያ መጽሐፍ, አንድኛ ክፍል) (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, 2015 E.C. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-teacher-placements.md. TRUNCATED scan — see honesty paragraph.
 
@@ -46,7 +46,7 @@ countries: Ethiopia, Samoa, Thailand, El Salvador, Philippines, Nicaragua, Maldi
 | Thailand — Unit 6 (part 2) Twisting, pulling and pushing — the twisting (การบิดตัว), pulling (การดึง) and pushing (การผลัก) movements and their correct postures (student book — MAC sample, PARTIAL) (original target `moving-basics/combined-travelling-and-on-the-spot`) | Thailand, *Health & PE, Grade 2* (Thailand Grade 2 MAC Health & PE), Unit 6 (part 2), printed pp. 108–115 |
 | Thailand — Unit 5.1 (part 1) Movement in sport — the basic movements of the parts of the body used in playing sport (student book — MAC sample, PARTIAL) (original target `moving-basics/combined-travelling-and-on-the-spot`) | Thailand, *Health & PE, Grade 12* (Thailand Grade 12 MAC Health & PE), Unit 5.1 (part 1), printed pp. 143–150 |
 | Thailand — Unit 3, Ch. 1 Moving the body — controlling body movement while on the spot, while travelling and while using equipment, with direction (student book — SSR flipbook sample, PARTIAL) (original target `moving-basics/combined-travelling-and-on-the-spot`) | Thailand, *Health & PE, Grade 3* (Thailand Grade 3 SSR Health & PE), Unit 3, Ch. 1, printed pp. 48–56 |
-**Acceptance count: taught in 3 countries (Ethiopia, Thailand, Philippines).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Samoa is added as curriculum-statement evidence only (see its row above), named in the countries line but outside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 4 countries (Ethiopia, Thailand, Philippines, Fiji).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Samoa is added as curriculum-statement evidence only (see its row above), named in the countries line but outside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; the Fiji teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
 
 The Grade 1 teacher guide scan is TRUNCATED: it holds printed pp. 1–43 of 85+. Missing: the rest of §4.2, §4.3 Stretching and flexibility (p. 47), §4.4 Agility (p. 53), all of Chapter 5 Gymnastics (pp. 59–78) and all of Chapter 6 (pp. 79–85+). Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
 
@@ -154,3 +154,51 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-pe-
 Maldives's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Maldives's own way is content, as the book lines above record it: one combined Health & PE course per grade built on the national syllabus strands, with swimming and water survival built in from Grade 1 — an island nation's syllabus — the PE side moving from a fitness unit in the early grades through fundamental movement skills, educational gymnastics and timed survival swimming, to movement skills, athletics and the big game families (territorial, net/wall and striking-and-fielding) in Key Stage 3. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: combined travelling and on-the-spot movements, three kinds of movement (teacher guide — evidence), combined travelling movements, combined movements on the spot, travelling and on-the-spot, chained together, fundamental movement skills መሠረታዊ የእንቅስቃሴ ክህሎት, distance stepping ለርቀት ጠብ ጠብ ማለት, Hunter and Hunted አዳኝ እና ታዳኝ ጨዋታ, physical education, Ethiopia, First movement skills — the Grade 1 chapter opener (teacher guide — evidence), Moving in place — bend, stretch, keep your balance (teacher guide — evidence), Moving my body well — the Grade 2 chapter opener (teacher guide — evidence), Moving in my own space — the Grade 2 in-place skills (teacher guide — evidence)
+
+## Fiji — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/fiji-pe-placements.md. The Fiji books stocked in this lesson are Book 1, Book 2, Book 5. Fiji is student-book stock, inside the acceptance count, in this lesson; the Fiji teacher guides stocked here are teacher-guide evidence only, outside the acceptance count. The books' Safety, hygiene, health and sports-medicine teaching is filed in fiji-health-placements.md and placed in the Health course, as the placements file records it.
+
+**Book — Fiji Year 11 (student book):**
+## Book 1 — PE is Fun for Year 11 (student book, English)
+- Title as printed: Physical Education — PE is Fun! 11, Textbook, Trial Version (record title: PE is Fun for Year 11)
+- Grade: Year 11 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Heritage & Arts, Fiji (Curriculum Advisory Services); year 2017, First Edition, Trial Version; ISBN no ISBN printed
+- PDF pages: 104 (cover verified — PE IS FUN! / 11 / TEXTBOOK / TRIAL VERSION; read via the Wayback duplicate link record for this same book after the GitHub tree grab failed with RemoteDisconnected)
+- Verdict: COMPLETE — its Safety and drugs/social-health teaching is filed in fiji-health-placements.md
+- Tally: 12 placements — 5 to existing lessons, 7 NEW LESSON NEEDED
+- Fiji's own way: a senior PE textbook built on strands and KLA outcomes, moving from movement science to training, sports nutrition, first aid and tournament organisation, with Fiji Sevens rugby and the Skipper Cup as its worked examples.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Movements — the five elements of movement: personal and general space, pathways, directions and levels, effort (speed, force, flow), shape and time, applied in ball and net games (original target `moving-basics/combined-travelling-and-on-the-spot`) | Fiji Year 11 PE is Fun, printed pp. 1–4 |
+
+**Book — Fiji Year 3 (teacher guide):**
+## Book 2 — PE for Fun 3, Teachers Handbook (teacher guide, English)
+- Title as printed: Physical Education — PE is Fun! 3, Teachers Handbook, Trial Version (record title: PE for Fun 3 — Teachers Handbook)
+- Grade: Year 3 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Fiji; year no year printed (Trial Version); ISBN no ISBN printed
+- PDF pages: 47 (cover verified — PE IS FUN! / 3 / TEACHERS HANDBOOK / TRIAL VERSION; read via grab.py tree route)
+- Verdict: COMPLETE — its hygiene and safety teaching is filed in fiji-health-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book.
+- Tally: 15 placements — 10 to existing lessons, 5 NEW LESSON NEEDED
+- Fiji's own way: a teacher handbook that teaches skills through named games and relays with an inclusion prompt in every lesson ("Be inclusive, share the fun"), grounds PE in Fiji's non-communicable disease crisis, and gives a full chapter to nine named Fijian traditional games.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Chapter 1 Developing Skills: Non-Locomotor Skills — twisting, bending, swaying, stretching, turning and swinging on the spot, hinge and ball-and-socket joints, and rhythmic on-the-spot dance (teacher guide — evidence) (original target `moving-basics/combined-travelling-and-on-the-spot`) | Fiji Year 3 PE for Fun Teachers Handbook, printed pp. 11–13 (Chapter 1) |
+
+**Book — Fiji Year 4 (teacher guide):**
+## Book 5 — PE for Fun 4, Teachers Handbook (teacher guide, English)
+- Title as printed: Physical Education — PE is Fun! 4, Teachers Handbook, Trial Version (record title: PE for Fun 4 — Teachers Handbook)
+- Grade: Year 4 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Fiji; year no year printed (Trial Version); ISBN no ISBN printed
+- PDF pages: 65 (cover verified — PE IS FUN! / 4 / TEACHERS HANDBOOK / TRIAL VERSION)
+- Verdict: COMPLETE — read via the Wayback source_url recorded in its own staging books.json, because the GitHub tree path returned 404 twice (see library debt in the group log); its safety, slings and swimming-rescue teaching is filed in fiji-health-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book.
+- Tally: 17 placements — 8 to existing lessons, 9 NEW LESSON NEEDED
+- Fiji's own way: built on two strands (body skills; fitness, personal development and safety) plus physical activity and social development — swimming taught as a Fiji survival skill with rescue aids and techniques, and traditional games from both the iTaukei tiqa throw and Indian Bambaram and Mallakhamb.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Chapter 1: Space Awareness — the freeze game, directions and moving at low, medium and high levels (teacher guide — evidence) (original target `moving-basics/combined-travelling-and-on-the-spot`) | Fiji Year 4 PE for Fun Teachers Handbook, printed pp. 18–21 (Chapter 1) |
+
+Fiji's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Fiji's own way is content, as the book lines above record it: a *PE is Fun* series built on strands and KLA outcomes, moving from movement science to training, sports nutrition and tournament organisation, with Fiji Sevens rugby and the Skipper Cup as worked examples, named Fijian traditional games (Veibuka, Veisole, Veicibi, Veitiqa and more) and the games of Fiji's Indian community taught side by side, and swimming taught as a Fiji survival skill. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

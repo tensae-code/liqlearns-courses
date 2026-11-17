@@ -222,3 +222,26 @@ Outdoors**
 **Traditional Dances of Honduras**
 (`traditional-games-and-dances/traditional-dances-of-honduras`)
 — 3 new lessons, bringing this course to 144 lessons.
+
+The PE expansion then added: **Energy Systems for
+Exercise**
+(`fitness-and-stretching/energy-systems-for-exercise`),
+**Fundamental Movement Skills**
+(`moving-basics/fundamental-movement-skills`),
+**Swimming Strokes** (`moving-basics/swimming-strokes`),
+**Body Composition and BMI**
+(`fitness-and-stretching/body-composition-and-bmi`),
+**The Rules of Badminton**
+(`ball-games/the-rules-of-badminton`), **Running a Class
+League** (`games-to-play/running-a-class-league`),
+**Indoor Board and Table Games**
+(`games-to-play/indoor-board-and-table-games`),
+**Traditional Games of Fiji**
+(`traditional-games-and-dances/traditional-games-of-fiji`),
+**Traditional Games of India**
+(`traditional-games-and-dances/traditional-games-of-india`),
+**Dances from Around the World**
+(`traditional-games-and-dances/dances-from-around-the-world`)
+and **Sports Spaces and Equipment**
+(`sport-and-its-story/sports-spaces-and-equipment`)
+— 11 new lessons, bringing this course to 155 lessons.

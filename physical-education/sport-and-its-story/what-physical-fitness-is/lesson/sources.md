@@ -1,6 +1,6 @@
 # Sources — What Physical Fitness Is
 
-countries: Ethiopia, Cyprus, Zambia, Turkmenistan, Tajikistan, Timor-Leste, United Kingdom, Thailand, Pakistan, Afghanistan, China, Philippines, Nicaragua, Azerbaijan, Maldives, Honduras
+countries: Ethiopia, Cyprus, Zambia, Turkmenistan, Tajikistan, Timor-Leste, United Kingdom, Thailand, Pakistan, Afghanistan, China, Philippines, Nicaragua, Azerbaijan, Maldives, Honduras, Fiji
 
 **Book 1:** *Grade 1 Health and Physical Education Teacher Guide* (የጤናና ሰውነት ማጎልመሻ ትምህርት የመምህር መምሪያ መጽሐፍ, አንድኛ ክፍል) (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. (51 PDF pages). Printed page = PDF page − 8. TRUNCATED — the file holds printed pp. 1–43 of 85+. Read in full, page by page, from 100 DPI renders (no text layer), in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-teacher-placements.md.
 
@@ -42,7 +42,7 @@ countries: Ethiopia, Cyprus, Zambia, Turkmenistan, Tajikistan, Timor-Leste, Unit
 | United Kingdom — Component 1 Topic 3.1: The relationship between health and fitness — how health and fitness relate and the role of fitness in physical activity (original target `sport-and-its-story/what-physical-fitness-is`) | United Kingdom, *Edexcel GCSE (9-1) Physical Education Student Book, 2nd edition* (United Kingdom GCSE Edexcel PE Student Book), Component 1 Topic 3.1, printed p. 62 |
 | United Kingdom — Component 1 Topic 3.2: The components of fitness — the components of fitness and why each matters for sport (original target `sport-and-its-story/what-physical-fitness-is`) | United Kingdom, *Edexcel GCSE (9-1) Physical Education Student Book, 2nd edition* (United Kingdom GCSE Edexcel PE Student Book), Component 1 Topic 3.2, printed p. 65 |
 | Thailand — Unit 5 Exercise — why exercise matters, the benefits of exercise, and how to exercise safely (the rules to follow when exercising) (student book — MAC sample, PARTIAL) (original target `sport-and-its-story/what-physical-fitness-is`) | Thailand, *Health & PE, Grade 2* (Thailand Grade 2 MAC Health & PE), Unit 5, printed pp. 96–102 |
-**Acceptance count: taught in 13 countries (Ethiopia, Cyprus, Turkmenistan, Tajikistan, Timor-Leste, United Kingdom, Thailand, Pakistan, China, Philippines, Nicaragua, Azerbaijan, Honduras).** Zambia is added as teacher-module evidence only (see its row above), named in the countries line but outside the acceptance count. Turkmenistan is added as student-book stock (see its row above), inside the acceptance count. Sub lessons 1–2 rest on teacher-guide evidence only, as their rows say; Sub lessons 3–4 are pupil-taught from the Grade 5 and Grade 6 student textbooks (Wave 2 Band B extension, 2026-11-12), so the lesson as a whole counts as pupil-taught. Cyprus is added as student-book stock (see its row above), inside the acceptance count. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Timor-Leste is added as student-book stock (see its row above), inside the acceptance count. United Kingdom is added as student-book stock (see its rows above), inside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count.
+**Acceptance count: taught in 14 countries (Ethiopia, Cyprus, Turkmenistan, Tajikistan, Timor-Leste, United Kingdom, Thailand, Pakistan, China, Philippines, Nicaragua, Azerbaijan, Honduras, Fiji).** Zambia is added as teacher-module evidence only (see its row above), named in the countries line but outside the acceptance count. Turkmenistan is added as student-book stock (see its row above), inside the acceptance count. Sub lessons 1–2 rest on teacher-guide evidence only, as their rows say; Sub lessons 3–4 are pupil-taught from the Grade 5 and Grade 6 student textbooks (Wave 2 Band B extension, 2026-11-12), so the lesson as a whole counts as pupil-taught. Cyprus is added as student-book stock (see its row above), inside the acceptance count. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Timor-Leste is added as student-book stock (see its row above), inside the acceptance count. United Kingdom is added as student-book stock (see its rows above), inside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; the Fiji teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
 
 The Grade 1 teacher guide is a TRUNCATED scan: the file holds printed pp. 1–43 of 85+. Missing from the file: the rest of §4.2, §4.3 Stretching and flexibility (p. 47), §4.4 Agility (p. 53), all of Chapter 5 Gymnastics (pp. 59–78) and all of Chapter 6 Addis Ababa traditional games (pp. 79–85+). Parts resting on this guide are labelled (teacher guide — evidence) and never count as pupil-taught.
 
@@ -422,3 +422,79 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/honduras-pe-
 Honduras's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Honduras's own way is content, as the book lines above record it: a television-school (Telebásica) programme built in 4 blocks — body image/expression, fitness for health, games and sport initiation, activities in nature — with Honduran folk dance, traditional games and Garífuna dances as core content, and every block closing in a "Valorando lo que aprendo" self-check sequence (named in the book lines, not placed, per the assessment exclusion). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: what physical fitness is, የልብና የደም ስር አሰራር, የጡንቻ ብርታት, መዘርጋትና መተጣጠፍ, ቅልጥፍና, fitness components, health benefits, Ethiopia HPE, fitness definition, health-related fitness, skill-related fitness, Ethiopia HPE Grades 5–6
+
+## Fiji — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/fiji-pe-placements.md. The Fiji books stocked in this lesson are Book 1, Book 3, Book 4, Book 5, Book 6. Fiji is student-book stock, inside the acceptance count, in this lesson; the Fiji teacher guides stocked here are teacher-guide evidence only, outside the acceptance count. The books' Safety, hygiene, health and sports-medicine teaching is filed in fiji-health-placements.md and placed in the Health course, as the placements file records it.
+
+**Book — Fiji Year 11 (student book):**
+## Book 1 — PE is Fun for Year 11 (student book, English)
+- Title as printed: Physical Education — PE is Fun! 11, Textbook, Trial Version (record title: PE is Fun for Year 11)
+- Grade: Year 11 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Heritage & Arts, Fiji (Curriculum Advisory Services); year 2017, First Edition, Trial Version; ISBN no ISBN printed
+- PDF pages: 104 (cover verified — PE IS FUN! / 11 / TEXTBOOK / TRIAL VERSION; read via the Wayback duplicate link record for this same book after the GitHub tree grab failed with RemoteDisconnected)
+- Verdict: COMPLETE — its Safety and drugs/social-health teaching is filed in fiji-health-placements.md
+- Tally: 12 placements — 5 to existing lessons, 7 NEW LESSON NEEDED
+- Fiji's own way: a senior PE textbook built on strands and KLA outcomes, moving from movement science to training, sports nutrition, first aid and tournament organisation, with Fiji Sevens rugby and the Skipper Cup as its worked examples.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Fitness — health-related and skill-related components of fitness and the FITT idea (original target `sport-and-its-story/what-physical-fitness-is`) | Fiji Year 11 PE is Fun, printed pp. 29–41 |
+
+**Book — Fiji Year 6 (teacher guide):**
+## Book 3 — PE is Fun 6, Teachers Guide (teacher guide, English)
+- Title as printed: Physical Education — PE is Fun! 6, Teachers Guide, Trial Version (record title: PE is Fun 6 — Teachers Guide)
+- Grade: Year 6 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Fiji; year no year printed (Trial Version); ISBN no ISBN printed
+- PDF pages: 110 (cover verified — PE IS FUN! / 6 / TEACHERS GUIDE / TRIAL VERSION; read via grab.py tree route)
+- Verdict: COMPLETE — its unhealthy-behaviour and pool-safety teaching is filed in fiji-health-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book. (Its introduction mis-calls it a "Year 3 textbook" — a copy-over slip in the book itself; cover, contents and chapters are Year 6.)
+- Tally: 16 placements — 10 to existing lessons, 6 NEW LESSON NEEDED
+- Fiji's own way: the Year 3 handbook's framework grown to senior-primary depth — periodised training design and sprint programmes, and a traditional-games chapter of lemon, reed and cane-leaf games played in water and on the field, several with their iTaukei game songs.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Chapter 10 Health Benefits of Exercise — exercise protects against heart disease, stroke, high blood pressure, diabetes and osteoporosis, and lifts self-esteem and stress control; society and wealth also shape health (teacher guide — evidence) (original target `sport-and-its-story/what-physical-fitness-is`) | Fiji Year 6 PE is Fun Teachers Guide, printed pp. 86–92 (Chapter 10) |
+
+**Book — Fiji Year 8 (teacher guide):**
+## Book 4 — PE is Fun 8, Teachers Guide (teacher guide, English)
+- Title as printed: Physical Education — PE is Fun! 8, Teachers Guide, Trial Version (record title: PE is Fun 8 — Teachers Guide)
+- Grade: Year 8 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Fiji; year no year printed (Trial Version); ISBN no ISBN printed
+- PDF pages: 104 (cover verified — PE IS FUN! / 8 / TEACHERS GUIDE / TRIAL VERSION; read via grab.py tree route)
+- Verdict: COMPLETE. Teacher guide used as evidence of what is taught, not as a substitute pupil book.
+- Tally: 20 placements — 11 to existing lessons, 9 NEW LESSON NEEDED
+- Fiji's own way: the broadest book in the series — fitness science and athletics biomechanics beside music and world dance, and a traditional-games chapter that teaches iTaukei games and the games of Fiji's Indian community side by side, with full Kho Kho rules.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Chapter 1 Physical Fitness — health-related and skill-related components of physical fitness (teacher guide — evidence) (original target `sport-and-its-story/what-physical-fitness-is`) | Fiji Year 8 PE is Fun Teachers Guide, printed pp. 7–9 (Chapter 1) |
+
+**Book — Fiji Year 4 (teacher guide):**
+## Book 5 — PE for Fun 4, Teachers Handbook (teacher guide, English)
+- Title as printed: Physical Education — PE is Fun! 4, Teachers Handbook, Trial Version (record title: PE for Fun 4 — Teachers Handbook)
+- Grade: Year 4 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Fiji; year no year printed (Trial Version); ISBN no ISBN printed
+- PDF pages: 65 (cover verified — PE IS FUN! / 4 / TEACHERS HANDBOOK / TRIAL VERSION)
+- Verdict: COMPLETE — read via the Wayback source_url recorded in its own staging books.json, because the GitHub tree path returned 404 twice (see library debt in the group log); its safety, slings and swimming-rescue teaching is filed in fiji-health-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book.
+- Tally: 17 placements — 8 to existing lessons, 9 NEW LESSON NEEDED
+- Fiji's own way: built on two strands (body skills; fitness, personal development and safety) plus physical activity and social development — swimming taught as a Fiji survival skill with rescue aids and techniques, and traditional games from both the iTaukei tiqa throw and Indian Bambaram and Mallakhamb.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Chapter 2: Components of Fitness — health-related components of fitness used in daily activities (teacher guide — evidence) (original target `sport-and-its-story/what-physical-fitness-is`) | Fiji Year 4 PE for Fun Teachers Handbook, printed pp. 29–31 (Chapter 2) |
+
+**Book — Fiji Years 9 & 10 (student book):**
+## Book 6 — Physical Education is Fun, Years 9 & 10 (student book, English)
+- Title as printed: Physical Education is Fun (record title: Physical Education is Fun — Years 9 & 10)
+- Grade: Years 9 & 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Fiji (Curriculum Advisory Services); year 2016, First Edition, Trial Version; ISBN no ISBN printed
+- PDF pages: 184 (cover verified — PHYSICAL EDUCATION IS FUN, produced by Curriculum Advisory Services, Suva, 2016)
+- Verdict: COMPLETE — read via the Wayback source_url recorded in its own staging books.json, because the GitHub tree path returned 404 twice (see library debt in the group log); its Safety and Sports Medicine teaching is filed in fiji-health-placements.md
+- Tally: 17 placements — 6 to existing lessons, 11 NEW LESSON NEEDED
+- Fiji's own way: a two-year senior textbook of exercise science — anatomy, physiology, biomechanics, skill acquisition and sports psychology — localised with a BMI chart drawn for iTaukei and other Fijians.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Health and Fitness: Health Related Fitness — cardiovascular endurance, muscular endurance, flexibility and body composition as health-related fitness (original target `sport-and-its-story/what-physical-fitness-is`) | Fiji Years 9 & 10 Physical Education is Fun, printed pp. 55–60 |
+
+Fiji's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Fiji's own way is content, as the book lines above record it: a *PE is Fun* series built on strands and KLA outcomes, moving from movement science to training, sports nutrition and tournament organisation, with Fiji Sevens rugby and the Skipper Cup as worked examples, named Fijian traditional games (Veibuka, Veisole, Veicibi, Veitiqa and more) and the games of Fiji's Indian community taught side by side, and swimming taught as a Fiji survival skill. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

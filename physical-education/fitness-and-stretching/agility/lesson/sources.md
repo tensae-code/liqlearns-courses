@@ -1,6 +1,6 @@
 # Sources — Agility — Rising, Running and Quick Changes
 
-countries: Ethiopia, Namibia, Turkmenistan, Tajikistan, Afghanistan, China, El Salvador, Philippines, Nicaragua, Azerbaijan, Maldives, Belize, Honduras
+countries: Ethiopia, Namibia, Turkmenistan, Tajikistan, Afghanistan, China, El Salvador, Philippines, Nicaragua, Azerbaijan, Maldives, Belize, Honduras, Fiji
 
 **Book — Grade 1 teacher (teacher guide — evidence):** *Grade 1 Health and Physical Education Teacher Guide* (የጤናና ሰውነት ማጎልመሻ ትምህርት የመምህር መምሪያ መጽሐፍ, አንድኛ ክፍል) (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, 2015 E.C. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-teacher-placements.md. TRUNCATED scan — see honesty paragraph.
 
@@ -48,7 +48,7 @@ countries: Ethiopia, Namibia, Turkmenistan, Tajikistan, Afghanistan, China, El S
 | Namibia — Chapter 6, Sample Session 6 — practical session: skill-related fitness and well-being (agility, balance, coordination) (teacher guide — evidence) (original target `fitness-and-stretching/agility`) | Namibia, *Physical Education 4 Life: A Guide for Physical Education Teachers in Namibia, Grades 10–11 (PE4Life Guide)*, Chapter 6, Sample Session 6, printed p. 88 |
 | Turkmenistan — Part III §3.4, Methods for Developing Speed/Agility (Çalasynlygy ösdürmegiň usullary) — how quickness and agility are trained (original target `fitness-and-stretching/agility`) | Turkmenistan, *Bedenterbiýe (Physical Education)*, Part III §3.4, printed pp. 66–69 |
 | Tajikistan — Part 2, Strong, Brave and Agile — games and exercises that build strength, courage and agility, including tug-of-war and one-leg games (original target `fitness-and-stretching/agility`) | Tajikistan, *Fizicheskaya Kultura (Physical Culture), Grades 1–4*, Part 2, printed pp. ~113–125 |
-**Acceptance count: taught in 8 countries (Ethiopia, Turkmenistan, Tajikistan, China, Philippines, Nicaragua, Azerbaijan, Honduras).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Namibia is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Turkmenistan is added as student-book stock (see its row above), inside the acceptance count. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
+**Acceptance count: taught in 9 countries (Ethiopia, Turkmenistan, Tajikistan, China, Philippines, Nicaragua, Azerbaijan, Honduras, Fiji).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Namibia is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Turkmenistan is added as student-book stock (see its row above), inside the acceptance count. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; the Fiji teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
 
 The Grade 1 teacher guide scan is TRUNCATED: it holds printed pp. 1–43 of 85+. Missing: the rest of §4.2, §4.3 Stretching and flexibility (p. 47), §4.4 Agility (p. 53), all of Chapter 5 Gymnastics (pp. 59–78) and all of Chapter 6 (pp. 79–85+). Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
 
@@ -378,3 +378,51 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/honduras-pe-
 | Honduras — Bloque II Secuencia 1 — speed (rapidez): training methods and drills — 20 m runs weaving obstacles, direction and sense changes, backward and forward runs, turns (original target `fitness-and-stretching/agility`) | Honduras Grade 7 HN G7 teacher guide, printed p. 84 |
 
 Honduras's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Honduras's own way is content, as the book lines above record it: a television-school (Telebásica) programme built in 4 blocks — body image/expression, fitness for health, games and sport initiation, activities in nature — with Honduran folk dance, traditional games and Garífuna dances as core content, and every block closing in a "Valorando lo que aprendo" self-check sequence (named in the book lines, not placed, per the assessment exclusion). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Fiji — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/fiji-pe-placements.md. The Fiji books stocked in this lesson are Book 4, Book 5, Book 6. Fiji is student-book stock, inside the acceptance count, in this lesson; the Fiji teacher guides stocked here are teacher-guide evidence only, outside the acceptance count. The books' Safety, hygiene, health and sports-medicine teaching is filed in fiji-health-placements.md and placed in the Health course, as the placements file records it.
+
+**Book — Fiji Year 8 (teacher guide):**
+## Book 4 — PE is Fun 8, Teachers Guide (teacher guide, English)
+- Title as printed: Physical Education — PE is Fun! 8, Teachers Guide, Trial Version (record title: PE is Fun 8 — Teachers Guide)
+- Grade: Year 8 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Fiji; year no year printed (Trial Version); ISBN no ISBN printed
+- PDF pages: 104 (cover verified — PE IS FUN! / 8 / TEACHERS GUIDE / TRIAL VERSION; read via grab.py tree route)
+- Verdict: COMPLETE. Teacher guide used as evidence of what is taught, not as a substitute pupil book.
+- Tally: 20 placements — 11 to existing lessons, 9 NEW LESSON NEEDED
+- Fiji's own way: the broadest book in the series — fitness science and athletics biomechanics beside music and world dance, and a traditional-games chapter that teaches iTaukei games and the games of Fiji's Indian community side by side, with full Kho Kho rules.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Chapter 1 Physical Fitness — agility and speed as skill-related fitness: changing the body's position quickly and accurately (teacher guide — evidence) (original target `fitness-and-stretching/agility`) | Fiji Year 8 PE is Fun Teachers Guide, printed pp. 7–9 (Chapter 1) |
+
+**Book — Fiji Year 4 (teacher guide):**
+## Book 5 — PE for Fun 4, Teachers Handbook (teacher guide, English)
+- Title as printed: Physical Education — PE is Fun! 4, Teachers Handbook, Trial Version (record title: PE for Fun 4 — Teachers Handbook)
+- Grade: Year 4 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Fiji; year no year printed (Trial Version); ISBN no ISBN printed
+- PDF pages: 65 (cover verified — PE IS FUN! / 4 / TEACHERS HANDBOOK / TRIAL VERSION)
+- Verdict: COMPLETE — read via the Wayback source_url recorded in its own staging books.json, because the GitHub tree path returned 404 twice (see library debt in the group log); its safety, slings and swimming-rescue teaching is filed in fiji-health-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book.
+- Tally: 17 placements — 8 to existing lessons, 9 NEW LESSON NEEDED
+- Fiji's own way: built on two strands (body skills; fitness, personal development and safety) plus physical activity and social development — swimming taught as a Fiji survival skill with rescue aids and techniques, and traditional games from both the iTaukei tiqa throw and Indian Bambaram and Mallakhamb.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Chapter 2: Skill Related Components of Fitness — skill-related fitness for sport, including flexibility, coordination, agility and speed (teacher guide — evidence) (original target `fitness-and-stretching/agility`) | Fiji Year 4 PE for Fun Teachers Handbook, printed pp. 32–33 (Chapter 2) |
+
+**Book — Fiji Years 9 & 10 (student book):**
+## Book 6 — Physical Education is Fun, Years 9 & 10 (student book, English)
+- Title as printed: Physical Education is Fun (record title: Physical Education is Fun — Years 9 & 10)
+- Grade: Years 9 & 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Fiji (Curriculum Advisory Services); year 2016, First Edition, Trial Version; ISBN no ISBN printed
+- PDF pages: 184 (cover verified — PHYSICAL EDUCATION IS FUN, produced by Curriculum Advisory Services, Suva, 2016)
+- Verdict: COMPLETE — read via the Wayback source_url recorded in its own staging books.json, because the GitHub tree path returned 404 twice (see library debt in the group log); its Safety and Sports Medicine teaching is filed in fiji-health-placements.md
+- Tally: 17 placements — 6 to existing lessons, 11 NEW LESSON NEEDED
+- Fiji's own way: a two-year senior textbook of exercise science — anatomy, physiology, biomechanics, skill acquisition and sports psychology — localised with a BMI chart drawn for iTaukei and other Fijians.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Health and Fitness: Skill Related Fitness — power, speed and balance, with one-legged hops, skips, backwards and sideways walking as training exercises (original target `fitness-and-stretching/agility`) | Fiji Years 9 & 10 Physical Education is Fun, printed pp. 61–65 |
+
+Fiji's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Fiji's own way is content, as the book lines above record it: a *PE is Fun* series built on strands and KLA outcomes, moving from movement science to training, sports nutrition and tournament organisation, with Fiji Sevens rugby and the Skipper Cup as worked examples, named Fijian traditional games (Veibuka, Veisole, Veicibi, Veitiqa and more) and the games of Fiji's Indian community taught side by side, and swimming taught as a Fiji survival skill. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

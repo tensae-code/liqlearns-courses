@@ -1,8 +1,8 @@
 # Sources — Organising Competitions and Events
 
-countries: Pakistan
+countries: Pakistan, Fiji
 
-**Acceptance count: taught in 1 country (Pakistan).** Pakistan is student-book stock (see its rows below), inside the acceptance count.
+**Acceptance count: taught in 2 countries (Pakistan, Fiji).** Pakistan is student-book stock (see its rows below), inside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count.
 
 ## Pakistan — PE expansion 2026-11-16
 
@@ -26,3 +26,23 @@ Pakistan's placements in this lesson were filed under the original strings recor
 This is a canonical NEW lesson (slug-registry Part 1: `sport-and-its-story/organising-competitions-and-events` — Organising competitions and events: fixtures, draws, tournaments, sports days and running a sports event well.); Pakistan's placements were filed under the original strings recorded in the provenance rows above, resolved by registry Part 2 to this canonical slug where the string differs. Pakistan enters this lesson as student-book stock, inside the acceptance count.
 
 Searchable tags: organising competitions and events, tournaments, fixtures, knock-out, league, Pakistan Grade 11 Sehat-o-Jismani Taleem
+
+## Fiji — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/fiji-pe-placements.md. The Fiji books stocked in this lesson are Book 1. Fiji is student-book stock, inside the acceptance count, in this lesson. The books' Safety, hygiene, health and sports-medicine teaching is filed in fiji-health-placements.md and placed in the Health course, as the placements file records it.
+
+**Book — Fiji Year 11 (student book):**
+## Book 1 — PE is Fun for Year 11 (student book, English)
+- Title as printed: Physical Education — PE is Fun! 11, Textbook, Trial Version (record title: PE is Fun for Year 11)
+- Grade: Year 11 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Heritage & Arts, Fiji (Curriculum Advisory Services); year 2017, First Edition, Trial Version; ISBN no ISBN printed
+- PDF pages: 104 (cover verified — PE IS FUN! / 11 / TEXTBOOK / TRIAL VERSION; read via the Wayback duplicate link record for this same book after the GitHub tree grab failed with RemoteDisconnected)
+- Verdict: COMPLETE — its Safety and drugs/social-health teaching is filed in fiji-health-placements.md
+- Tally: 12 placements — 5 to existing lessons, 7 NEW LESSON NEEDED
+- Fiji's own way: a senior PE textbook built on strands and KLA outcomes, moving from movement science to training, sports nutrition, first aid and tournament organisation, with Fiji Sevens rugby and the Skipper Cup as its worked examples.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Physical Activity: Tournaments — single elimination, round robin, extended, ladder and pyramid tournaments, seeding and byes (Fiji Sevens and Skipper Cup examples), and how to organise a tournament (original target `sport-and-its-story/organising-tournaments-and-draws`) | Fiji Year 11 PE is Fun, printed pp. 69–84 |
+
+Fiji's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Fiji's own way is content, as the book lines above record it: a *PE is Fun* series built on strands and KLA outcomes, moving from movement science to training, sports nutrition and tournament organisation, with Fiji Sevens rugby and the Skipper Cup as worked examples, named Fijian traditional games (Veibuka, Veisole, Veicibi, Veitiqa and more) and the games of Fiji's Indian community taught side by side, and swimming taught as a Fiji survival skill. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

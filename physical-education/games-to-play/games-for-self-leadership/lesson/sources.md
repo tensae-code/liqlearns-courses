@@ -1,6 +1,6 @@
 # Sources — Games for Self-Leadership
 
-countries: Ethiopia, Samoa
+countries: Ethiopia, Samoa, Fiji
 
 **Book 1:** *Grade 3 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–65 + front matter (72 PDF pages). Printed page = PDF page − 7. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g03-student-placements.md.
 
@@ -45,7 +45,7 @@ countries: Ethiopia, Samoa
 | Prove-it questions folded from the book's own Chapter 2 review — Sub lesson 7 (teacher guide — evidence) | Ethiopia, *Grade 5 Teacher Guide*, Chapter 2 summary + assessment answers, printed pp. 20–21 (teacher guide — evidence) |
 | Prove-it questions folded from the book's own Chapter 2 review — Sub lesson 8 (teacher guide — evidence) | Ethiopia, *Grade 7 Teacher Guide*, Chapter 2 summary + review answers, printed pp. 25–26 (teacher guide — evidence) |
 | Samoa — Year 12 Unit 2D — leadership skills through movement activities (teacher guide — evidence) (original target `games-to-play/games-for-self-leadership`) | Samoa, *Health and Physical Education Teacher Guide, Years 11 and 12* (Samoa Years 11–12 TG), printed p. 64 |
-**Acceptance count: taught in 1 country (Ethiopia).** Samoa is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 1 country (Ethiopia).** Samoa is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count.
 
 The Grade 3 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -64,3 +64,23 @@ The Grade 8 teacher guide is truncated — printed pp. 51–104+ are missing —
 Searchable tags: games for self-leadership, self-management, managing myself and getting along, social and psychological education, time limits ጊዜ ውስኔ መስጠት, giving notice ማስጠን, Akukulu አኩኩሉ, Pipali Kol የፒፓሊ ኮል, self-discipline ተግሣፅ, timed rope jumping, Ethiopia HPE Grade 3, cloth-snatch game, hoop race የቀለበት, handkerchief-hand እጅ ከፍንጅ, rooster fight የደሮ ጥል, positive thinking አምንታዊ አስተሳሰብ, active breathing, Ethiopia HPE Grades 5–7
 
 The Grade 6 teacher guide is a TRUNCATED scan: the file holds printed pp. 1–43 of 96; its §2.1 (printed pp. 13–16) is inside the held pages, and the part resting on it is labelled (teacher guide — evidence) and never counts as pupil-taught. The Grade 8 teacher guide is truncated at printed p. 50; its Chapter 2 introduction (printed p. 16) is inside the held pages, and the part resting on it is labelled (teacher guide — evidence).
+
+## Fiji — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/fiji-pe-placements.md. The Fiji books stocked in this lesson are Book 4. Fiji is teacher-guide evidence only, outside the acceptance count, in this lesson — named in the countries line and the provenance rows, but the acceptance count is unchanged. The books' Safety, hygiene, health and sports-medicine teaching is filed in fiji-health-placements.md and placed in the Health course, as the placements file records it.
+
+**Book — Fiji Year 8 (teacher guide):**
+## Book 4 — PE is Fun 8, Teachers Guide (teacher guide, English)
+- Title as printed: Physical Education — PE is Fun! 8, Teachers Guide, Trial Version (record title: PE is Fun 8 — Teachers Guide)
+- Grade: Year 8 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Fiji; year no year printed (Trial Version); ISBN no ISBN printed
+- PDF pages: 104 (cover verified — PE IS FUN! / 8 / TEACHERS GUIDE / TRIAL VERSION; read via grab.py tree route)
+- Verdict: COMPLETE. Teacher guide used as evidence of what is taught, not as a substitute pupil book.
+- Tally: 20 placements — 11 to existing lessons, 9 NEW LESSON NEEDED
+- Fiji's own way: the broadest book in the series — fitness science and athletics biomechanics beside music and world dance, and a traditional-games chapter that teaches iTaukei games and the games of Fiji's Indian community side by side, with full Kho Kho rules.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Chapter 7 Games: Leadership Skills — leadership styles, leading by example, and motivating children to be active (teacher guide — evidence) (original target `games-to-play/games-for-self-leadership`) | Fiji Year 8 PE is Fun Teachers Guide, printed pp. 94–99 (Chapter 7) |
+
+Fiji's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Fiji's own way is content, as the book lines above record it: a *PE is Fun* series built on strands and KLA outcomes, moving from movement science to training, sports nutrition and tournament organisation, with Fiji Sevens rugby and the Skipper Cup as worked examples, named Fijian traditional games (Veibuka, Veisole, Veicibi, Veitiqa and more) and the games of Fiji's Indian community taught side by side, and swimming taught as a Fiji survival skill. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

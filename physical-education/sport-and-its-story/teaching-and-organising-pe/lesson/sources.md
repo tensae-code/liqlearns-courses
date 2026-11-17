@@ -1,8 +1,8 @@
 # Sources — Teaching and Organising PE
 
-countries: Mozambique, Namibia, United Kingdom
+countries: Mozambique, Namibia, United Kingdom, Fiji
 
-**Acceptance count: taught in 1 country (United Kingdom)** (Mozambique's and Namibia's rows below rest on teacher-guide evidence only; the United Kingdom row rests on a pupil's book). Mozambique and Namibia are named in the countries line and in the rows below, but outside the acceptance count. United Kingdom is added as student-book stock (see its rows above), inside the acceptance count.
+**Acceptance count: taught in 1 country (United Kingdom)** (Mozambique's and Namibia's rows below rest on teacher-guide evidence only; the United Kingdom row rests on a pupil's book). Mozambique and Namibia are named in the countries line and in the rows below, but outside the acceptance count. United Kingdom is added as student-book stock (see its rows above), inside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count.
 
 **Book — Mozambique Grade 1 teacher manual (teacher guide — evidence):** *Manual do Professor — 1.ª classe — Língua Portuguesa / Matemática / Educação Física* (teacher guide, Portuguese) — Title as printed: Manual do Professor — 1.ª classe — Língua Portuguesa / Matemática / Educação Física — Grade: Grade 1 (student/teacher: TEACHER) — Publisher: MINEDH / IEDA (Mozambique); year: no year printed on the cover; ISBN: no ISBN printed — PDF pages: 216 (cover verified against the record title). Other subjects in the same manual (named, not placed): Língua Portuguesa, printed pp. 4–146; Matemática, printed pp. 147–182. The Educação Física part runs printed pp. 183–214, bibliography p. 215. Standing exclusion named: the PE part's Avaliação section (printed p. 194) is assessment guidance — named here, not placed. Verdict: COMPLETE (PE part). Downloaded PDF from the ministry IEDA site (5,891,019 bytes, exactly the recorded size; 216 pages), cover rendered and verified, full text read. Read in full in the 2026-11-16 PE expansion read. Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/mozambique-pe-placements.md. Mozambique's own way: Grade 1 PE is taught entirely through play — the manual's recommended "recreative-formative" method builds every lesson from recreational games, songs and dances; there are no sport modalities in the first cycle, and children teach each other the dances they know. Its traditional games (Neca, O pião, Ao fom fim…) are named as content handed down across generations.
 
@@ -24,3 +24,23 @@ Namibia's two placements were filed under the original strings `sport-and-its-st
 The United Kingdom placement was filed under the original string `sport-and-its-story/practical-performance-in-chosen-activities`, resolved to this canonical slug by registry Part 2 and recorded in the provenance row above. United Kingdom is added as student-book stock (see its rows above), inside the acceptance count.
 
 Searchable tags: teaching and organising PE, PE4Life, the PE4Life way of teaching, planning and structuring PE sessions, Planning Your PE4Life Training Sessions, Roles and Responsibilities of the PE4Life Educator, Namibia Grades 10–11 PE4Life Guide, the PE lesson, A aula de Educação Física, Método recreativo-formativo, recreative-formative method, Plano de Aula, lesson plan objectives parts timing, recreational games songs dances, Mozambique Grade 1 Teacher Manual Educação Física
+
+## Fiji — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/fiji-pe-placements.md. The Fiji books stocked in this lesson are Book 2. Fiji is teacher-guide evidence only, outside the acceptance count, in this lesson — named in the countries line and the provenance rows, but the acceptance count is unchanged. The books' Safety, hygiene, health and sports-medicine teaching is filed in fiji-health-placements.md and placed in the Health course, as the placements file records it.
+
+**Book — Fiji Year 3 (teacher guide):**
+## Book 2 — PE for Fun 3, Teachers Handbook (teacher guide, English)
+- Title as printed: Physical Education — PE is Fun! 3, Teachers Handbook, Trial Version (record title: PE for Fun 3 — Teachers Handbook)
+- Grade: Year 3 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Fiji; year no year printed (Trial Version); ISBN no ISBN printed
+- PDF pages: 47 (cover verified — PE IS FUN! / 3 / TEACHERS HANDBOOK / TRIAL VERSION; read via grab.py tree route)
+- Verdict: COMPLETE — its hygiene and safety teaching is filed in fiji-health-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book.
+- Tally: 15 placements — 10 to existing lessons, 5 NEW LESSON NEEDED
+- Fiji's own way: a teacher handbook that teaches skills through named games and relays with an inclusion prompt in every lesson ("Be inclusive, share the fun"), grounds PE in Fiji's non-communicable disease crisis, and gives a full chapter to nine named Fijian traditional games.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Chapter 6 Challenges in Physical Education — managing stakeholder expectations, fair competition with clear age groups and rules, right resources and right practice, and school culture (teacher guide — evidence) (original target `sport-and-its-story/challenges-in-physical-education`) | Fiji Year 3 PE for Fun Teachers Handbook, printed p. 39 (Chapter 6) |
+
+Fiji's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Fiji's own way is content, as the book lines above record it: a *PE is Fun* series built on strands and KLA outcomes, moving from movement science to training, sports nutrition and tournament organisation, with Fiji Sevens rugby and the Skipper Cup as worked examples, named Fijian traditional games (Veibuka, Veisole, Veicibi, Veitiqa and more) and the games of Fiji's Indian community taught side by side, and swimming taught as a Fiji survival skill. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

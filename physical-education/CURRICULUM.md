@@ -484,6 +484,71 @@ initiation, activities in nature — with Honduran folk
 dance, traditional games and Garífuna dances as core
 content.
 
+**PE expansion — Fiji — BUILT 2026-11-16:** 97 placements
+from Fiji's *PE is Fun* books — the Year 11 and Years
+9 & 10 student books and the Years 3, 4, 6 and 8 teacher
+guides/handbooks (Ministry of Education, Fiji, all
+COMPLETE) stocked — 74 into existing lessons (including
+12 canonical lessons built earlier in this expansion)
+and 23 as 11 new lessons (Energy Systems for Exercise;
+Fundamental Movement Skills; Swimming Strokes; Body
+Composition and BMI; The Rules of Badminton; Running a
+Class League; Indoor Board and Table Games; Traditional
+Games of Fiji; Traditional Games of India; Dances from
+Around the World; Sports Spaces and Equipment) —
+bringing this course to **155 lessons**. The student
+books are student-book stock, inside the acceptance
+counts; the teacher guides/handbooks are teacher-guide
+evidence only, outside the acceptance counts, in every
+lesson they touch. The placements filed under NEW
+strings resolve through the slug registry:
+`moving-basics/biomechanics-and-efficient-movement` to
+`fitness-and-stretching/biomechanics-in-sport`,
+`moving-basics/motor-skills-and-skill-learning` to
+`moving-basics/how-we-learn-movement-skills`,
+`fitness-and-stretching/functional-anatomy-muscles-and-movement`
+and `fitness-and-stretching/muscle-fibres-and-contractions`
+to `fitness-and-stretching/the-body-in-exercise`,
+`moving-basics/joint-movements-flexion-to-rotation` to
+`moving-basics/knowing-my-body-and-how-it-moves`,
+`sport-and-its-story/help-philosophy-lifelong-activity`
+to `sport-and-its-story/physical-literacy-and-lifelong-activity`,
+`sport-and-its-story/organising-tournaments-and-draws`
+to `sport-and-its-story/organising-competitions-and-events`,
+`sport-and-its-story/challenges-in-physical-education`
+to `sport-and-its-story/teaching-and-organising-pe`,
+`sport-and-its-story/sports-environments-outdoor-indoor-aquatic`
+to `sport-and-its-story/sports-spaces-and-equipment`,
+`sport-and-its-story/codes-of-conduct-for-players-and-teachers`
+to `sport-and-its-story/fair-play-and-sporting-character`,
+`sport-and-its-story/sports-psychology-and-performance`
+to `sport-and-its-story/sport-psychology`,
+`sport-and-its-story/body-types-and-sport` to
+`fitness-and-stretching/body-composition-and-bmi`,
+`fitness-and-stretching/designing-a-training-programme`
+to `fitness-and-stretching/planning-your-own-training`,
+`fitness-and-stretching/fitness-testing-and-body-types`
+to `fitness-and-stretching/testing-your-fitness`,
+`ball-games/badminton-skills-and-rules` to
+`ball-games/the-rules-of-badminton`,
+`games-to-play/intramural-games` to
+`games-to-play/running-a-class-league`,
+`games-to-play/board-and-table-games-chess-cards-carrom`
+to `games-to-play/indoor-board-and-table-games`, and
+`games-to-play/swimming-strokes-and-rescue` to
+`moving-basics/swimming-strokes`; the original strings
+are recorded in the provenance rows. No Fiji placement
+resolves to a Health-course lesson, so none was excluded
+as Health-bound; the books' Safety, hygiene, health and
+sports-medicine parts are filed in
+fiji-health-placements.md and placed in the Health
+course. Fiji's own way is content: a *PE is Fun* series
+built on strands and KLA outcomes, with Fiji Sevens
+rugby and the Skipper Cup as worked examples, named
+Fijian traditional games and the games of Fiji's Indian
+community taught side by side, and swimming taught as a
+Fiji survival skill.
+
 ## Unit 1 — Moving Basics
 
 1. **Combined Travelling and On-the-Spot Movements** (`moving-basics/combined-travelling-and-on-the-spot`) — joining travelling movements together, joining on-the-spot movements together, and chaining the two families in one sequence.
@@ -507,6 +572,9 @@ content.
 
 18. **Camping and Survival Outdoors** (`moving-basics/camping-and-survival-outdoors`) — camping and survival outdoors: camps, shelters, fire, camp equipment, outdoor trips and caring for nature while you are out — taught in Honduras's Grade 8 student book as survival in the natural environment: the survival kit, choosing a safe camp site, improvised shelters (lean-to, fallen tree, A-frame), bedding, and making and keeping a fire, and in its Grade 7 teacher guide as camp craft: knots and lashings, a sketch map (croquis) and campfires (Honduras's Grade 8 student book; its Grade 7 teacher guide, evidence only).
 
+19. **Fundamental Movement Skills** (`moving-basics/fundamental-movement-skills`) — fundamental movement skills: locomotor, non-locomotor and manipulative skills — the basics every sport is built from — taught in Fiji's Year 3 Teachers Handbook as Body Movement: fundamental movement skills classified as body management, locomotor and object control, and in its Year 4 Teachers Handbook as Fundamental Motor Skills in the order children learn them (Fiji's teacher guides, evidence only).
+20. **Swimming Strokes** (`moving-basics/swimming-strokes`) — swimming strokes: front crawl (freestyle), backstroke, breaststroke and butterfly, with diving and turns — taught in Fiji's Year 4 Teachers Handbook as swimming in pools, rivers and creeks, and the freestyle, breaststroke, backstroke and butterfly strokes (Fiji's teacher guide, evidence only).
+
 ## Unit 2 — Fitness and Stretching
 
 1. **Agility — Rising, Running and Quick Changes** (`fitness-and-stretching/agility`) — agility — rising quickly from the ground and running, and quick line drills with sharp turns.
@@ -528,6 +596,9 @@ content.
 17. **Rest and Recovery** (`fitness-and-stretching/rest-and-recovery`) — rest and recovery: why rest is part of training and how the body recovers — taught in Azerbaijan's Grade 8 book as Rest, closing its individual-exercise part (Azerbaijan's student book, PARTIAL, contents-level, as filed).
 
 18. **Physical Work and Chores** (`fitness-and-stretching/physical-work-and-chores`) — physical work and chores: cleaning and household work as physical activity that keeps you fit — taught in Belize's Middle Division curriculum as Work: sweeping, wiping, mopping, chopping and washing as real physical training, in Grades 4, 5 and 6 (Belize's teacher curriculum, evidence only).
+
+19. **Energy Systems for Exercise** (`fitness-and-stretching/energy-systems-for-exercise`) — energy systems for exercise: how the muscles are powered, from instant sprints to endurance, and oxygen debt in recovery — taught in Fiji's Year 11 student book as Exercise Physiology: Energy Systems, the three energy systems that power activity, and in its Years 9 & 10 student book as oxygen debt in muscular exercise and recovery (Fiji's student books).
+20. **Body Composition and BMI** (`fitness-and-stretching/body-composition-and-bmi`) — body composition and BMI: what the body is made of, body fat, and body types — taught in Fiji's Years 9 & 10 student book as Body Mass Index, with a local BMI chart for iTaukei and other Fijians, and body shapes and the sports they suit, and in its Year 6 Teachers Guide as body composition and body mass index (Fiji's student book; its teacher guide, evidence only).
 
 ## Unit 3 — Gymnastics
 
@@ -581,6 +652,8 @@ content.
 21. **Striking with an Implement** (`ball-games/striking-with-an-implement`) — striking with an implement: hitting a ball with hand, bat or racket — the foundation of the striking games — taught in Belize's Lower Division curriculum as striking: underhand strike with the hand (Grade 1) and two-handed side-arm strike with a racket (Grade 3) (Belize's teacher curriculum, evidence only).
 22. **Punting a Ball** (`ball-games/punting-a-ball`) — punting a ball: dropping the ball and striking it with the instep, as a goalkeeper or in open play — taught in Belize's Grade 1 book, named in its unit linkages as the next manipulative skill after striking (Belize's teacher curriculum, evidence only).
 
+23. **The Rules of Badminton** (`ball-games/the-rules-of-badminton`) — the rules of badminton: court, equipment, scoring and how a match is played — taught in Fiji's Year 8 Teachers Guide as badminton skills and rules, including doubles play and service courts (Fiji's teacher guide, evidence only).
+
 ## Unit 6 — Games to Play
 
 1. **Games for Awareness and Quick Response** (`games-to-play/games-for-awareness-and-quick-response`) — the Grade 3 book's new games family — awareness (ንቃተ ህሊና): hearing, feeling and responding the instant the moment comes.
@@ -593,6 +666,9 @@ content.
 8. **Games for Thinking Carefully** (`games-to-play/games-for-thinking-carefully`) — games that make you think carefully before you move — listen for the true command, aim through a narrow goal, group by the number called, and chang…
 9. **Fair Play and Playing by the Rules** (`games-to-play/fair-play-and-playing-by-the-rules`) — fair play and playing by the rules: making, accepting and practising a game's rules, and behaving well in play — taught in El Salvador's Grades 1–3 guide as ¡A jugar legal! (Grade 1: creating, accepting and practising the rules), Juguemos limpio (Grade 2: the rules' regulating role, playing clean) and Practiquemos las reglas del juego (Grade 3: practising rules, norms and instructions) (El Salvador's teacher guide, evidence only).
 10. **Chess** (`games-to-play/chess`) — Chess: the board and pieces, how each piece moves, check and checkmate, and playing a game — taught in Nicaragua's manuals as a PE unit from Grade 3: a cut-out board and pieces the class makes itself, piece values, check and checkmate, mate-in-one exercises, living chess and a class tournament (Nicaragua's Grade 5 student book; its Grades 3, 4 and 6 teacher guides, evidence only).
+
+11. **Running a Class League** (`games-to-play/running-a-class-league`) — running a class league: league seasons, tournaments and sport festivals — fixtures, pupil roles (player, referee, coach, organiser) and learning a sport in depth — taught in Fiji's Year 8 Teachers Guide as intramural games and keeping self-control, and how teachers evaluate their classes (Fiji's teacher guide, evidence only).
+12. **Indoor Board and Table Games** (`games-to-play/indoor-board-and-table-games`) — indoor board and table games: cards, Snakes and Ladders, draughts, carrom and making your own boards — taught in Fiji's Year 4 Teachers Handbook as indoor games: cards, Snakes and Ladders, Monopoly and making your own draughts boards, invented for amusement when confined indoors (Fiji's teacher guide, evidence only).
 
 ## Unit 7 — Traditional Games and Dances
 
@@ -634,6 +710,11 @@ content.
 
 36. **Traditional Games of Nicaragua** (`traditional-games-and-dances/traditional-games-of-nicaragua`) — Nicaragua's traditional games and rounds (rondas), with their rules: El Pañuelo/la pañoleta, Macho parado, Bola peleada, Salto la cuerda, Encostalados (sack race) and Quita y ponga (Grade 2), the rondas (Grade 3), classified strength and throwing games with stilt races and the ribbon race (Grade 5), and El Bolero, the wooden cup-and-ball toy (Grade 6) (Nicaragua's Grade 5 student book; its Grades 2, 3 and 6 teacher guides, evidence only).
 37. **Traditional Dances of Honduras** (`traditional-games-and-dances/traditional-dances-of-honduras`) — Honduran folk dance — the Xique base step and its step families (punteado, rascado, zapateado, cruzado), polcas and valses, the Guapango del Río, the official classification of Honduran folk dances, and the Garífuna dances Punta and Parranda (Honduras's Grades 7, 8 and 9 student books; its Grade 7 teacher guide, evidence only).
+
+38. **Traditional Games of Fiji** (`traditional-games-and-dances/traditional-games-of-fiji`) — Fijian team, chasing and target games such as Veibuka, Veisole and Veicibi — taught across Fiji's Year 3, 4, 6 and 8 teacher guides/handbooks: Veibuka, Veisole, Veileveleveti, Veitara, Veisabiliga, Veicibi, Veilavo, Vakadovu, Vakatalolovo, the field, reed and lemon games, Veitiqa and Veitiqa Cori (Fiji's teacher guides, evidence only).
+39. **Traditional Games of India** (`traditional-games-and-dances/traditional-games-of-india`) — Indian games such as Kancha (marbles), Poshampa, Bambaram and Mallakhamb — taught in Fiji's Year 8 Teachers Guide as the games of Fiji's Indian community from ancient India: Kancha, Kho Kho with its full rules, Poshampa, Pachisi, Kith-Kith, DhopKhel and Pallanguli, and in its Year 4 Teachers Handbook as Bambaram, Mallakhamb and Gella-Chutt (Fiji's teacher guides, evidence only).
+40. **Dances from Around the World** (`traditional-games-and-dances/dances-from-around-the-world`) — dances of other peoples, such as Ceroc and Flamenco — taught in Fiji's Year 8 Teachers Guide as Ceroc (simplified jive) and Flamenco from Andalucia, Spain, with swirling skirts, castanets and heel stomping (Fiji's teacher guide, evidence only).
+
 ## Unit 8 — Sport and Its Story
 
 1. **Athletes Beyond Sport — What Champions Give Back** (`sport-and-its-story/athletes-beyond-sport`) — what famous athletes do beyond racing: the jobs, businesses, hospitals, training centres and public work the books record for Abebe Bikila, Tirunes…
@@ -658,3 +739,5 @@ content.
 20. **Choosing Your Sport** (`sport-and-its-story/choosing-your-sport`) — choosing your sport: picking the sports and modules you will learn, by interest, foundation and what is offered — taught in China's Senior High book as the guidance on choosing option modules in its 12-module course (2 required + 10 elective) (China's student book).
 21. **Fair Play and Sporting Character** (`sport-and-its-story/fair-play-and-sporting-character`) — fair play and sporting character: why sport needs rules, sporting spirit, ethics, codes of conduct and equal participation — taught in China's Senior High book as sporting spirit (体育精神), sports morality (体育道德) and sporting character (体育品格) (China's student book).
 22. **Azerbaijan's Sport Story** (`sport-and-its-story/azerbaijans-sport-story`) — Azerbaijan's sport story: its Olympic successes, its athletes at the Rio Games, and holding the first European Games — taught in Azerbaijan's Grade 8 book as the Olympic successes of Azerbaijani athletes (PARTIAL, contents-level, as filed), its Grade 9 book as Azerbaijan, the country that held the first European Games, and its Grade 10 book as its athletes at the Rio 2016 Olympic Games (Azerbaijan's student books).
+
+23. **Sports Spaces and Equipment** (`sport-and-its-story/sports-spaces-and-equipment`) — sports spaces and equipment: halls, grounds, pools and apparatus — how they are laid out, equipped, used safely and looked after — taught in Fiji's Year 3 Teachers Handbook as the Sports Environment: outdoor, indoor and aquatic environments with safety first, and in its Year 4 Teachers Handbook as natural facilities such as the sea and human-made facilities (Fiji's teacher guides, evidence only).

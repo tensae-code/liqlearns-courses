@@ -1,6 +1,6 @@
 # Sources — Jumping and Hopping
 
-countries: Ethiopia, Thailand, Philippines, Nicaragua, Maldives, Belize
+countries: Ethiopia, Thailand, Philippines, Nicaragua, Maldives, Belize, Fiji
 
 **Book — Grade 1 student:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 81 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md. COMPLETE.
 
@@ -19,7 +19,7 @@ countries: Ethiopia, Thailand, Philippines, Nicaragua, Maldives, Belize
 
 | Jumping the long rope together (teacher guide — evidence) | Ethiopia, Grade 1 teacher, rope jumping in sequence (teacher guide — evidence), printed p. 12 |
 | Thailand — Unit 7 (part 2) Jumping and hopping — jumping (การกระโดด), hopping/skipping along (การกระโดดเขย่ง) and jumping on the spot, each with its correct posture (student book — MAC sample, PARTIAL) (original target `moving-basics/jumping-and-hopping`) | Thailand, *Health & PE, Grade 2* (Thailand Grade 2 MAC Health & PE), Unit 7 (part 2), printed pp. 122–127 |
-**Acceptance count: taught in 3 countries (Ethiopia, Thailand, Philippines).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 3 countries (Ethiopia, Thailand, Philippines).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count.
 
 The Grade 2 teacher guide scan is TRUNCATED: it holds printed pp. 1–41 of 85. Missing: all of Chapter 4 (pp. 42–60), Chapter 5 Gymnastics (pp. 61–72), Chapter 6 (pp. 73–83), the glossary and the references. Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
 
@@ -125,3 +125,23 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-pe-pl
 | Belize — Jumping — taking off with both feet and landing on both feet, arms in the upswing (original target `moving-basics/jumping-and-hopping`) | Belize, *Belize Grade 3 PE Lower, printed p. 94* |
 
 Belize's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Belize's own way is content, as the book lines above record it: in the Lower Division PE is taught as three skill families — locomotor, manipulative, non-manipulative — spiralled across Infant I → Standard I with the same skills revisited at rising difficulty, and in the Middle Division PE is organised as Training, Work, Sports and Dance for every grade, with "Work" treating sweeping, mopping, chopping and washing as real physical training. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Fiji — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/fiji-pe-placements.md. The Fiji books stocked in this lesson are Book 2. Fiji is teacher-guide evidence only, outside the acceptance count, in this lesson — named in the countries line and the provenance rows, but the acceptance count is unchanged. The books' Safety, hygiene, health and sports-medicine teaching is filed in fiji-health-placements.md and placed in the Health course, as the placements file records it.
+
+**Book — Fiji Year 3 (teacher guide):**
+## Book 2 — PE for Fun 3, Teachers Handbook (teacher guide, English)
+- Title as printed: Physical Education — PE is Fun! 3, Teachers Handbook, Trial Version (record title: PE for Fun 3 — Teachers Handbook)
+- Grade: Year 3 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Fiji; year no year printed (Trial Version); ISBN no ISBN printed
+- PDF pages: 47 (cover verified — PE IS FUN! / 3 / TEACHERS HANDBOOK / TRIAL VERSION; read via grab.py tree route)
+- Verdict: COMPLETE — its hygiene and safety teaching is filed in fiji-health-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book.
+- Tally: 15 placements — 10 to existing lessons, 5 NEW LESSON NEEDED
+- Fiji's own way: a teacher handbook that teaches skills through named games and relays with an inclusion prompt in every lesson ("Be inclusive, share the fun"), grounds PE in Fiji's non-communicable disease crisis, and gives a full chapter to nine named Fijian traditional games.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Chapter 1 Developing Skills: Locomotor Skills — hopping, jumping, leaping, skipping and galloping technique tables and a locomotor relay (teacher guide — evidence) (original target `moving-basics/jumping-and-hopping`) | Fiji Year 3 PE for Fun Teachers Handbook, printed pp. 7–10 (Chapter 1) |
+
+Fiji's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Fiji's own way is content, as the book lines above record it: a *PE is Fun* series built on strands and KLA outcomes, moving from movement science to training, sports nutrition and tournament organisation, with Fiji Sevens rugby and the Skipper Cup as worked examples, named Fijian traditional games (Veibuka, Veisole, Veicibi, Veitiqa and more) and the games of Fiji's Indian community taught side by side, and swimming taught as a Fiji survival skill. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

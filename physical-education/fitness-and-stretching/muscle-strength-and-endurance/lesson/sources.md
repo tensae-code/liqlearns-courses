@@ -1,6 +1,6 @@
 # Sources — Muscle Strength and Endurance
 
-countries: Ethiopia, Zambia, Namibia, Turkmenistan, Kazakhstan, Samoa, Afghanistan, China, El Salvador, Philippines, Nicaragua, Azerbaijan, Maldives, Belize, Honduras
+countries: Ethiopia, Zambia, Namibia, Turkmenistan, Kazakhstan, Samoa, Afghanistan, China, El Salvador, Philippines, Nicaragua, Azerbaijan, Maldives, Belize, Honduras, Fiji
 
 **Book — Grade 1 student:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 81 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md. COMPLETE.
 
@@ -66,7 +66,7 @@ countries: Ethiopia, Zambia, Namibia, Turkmenistan, Kazakhstan, Samoa, Afghanist
 | Kazakhstan — Quarters 1 and 4, fitness tests — the pull-up test (подтягивание) in the fixed test set used to check strength and endurance (teacher guide — evidence) (original target `fitness-and-stretching/muscle-strength-and-endurance`) | Kazakhstan, *Physical Culture, Methodological Guide for Grade 4 Teachers* (Kazakhstan Grade 4 TG), printed pp. 4–5, 48 |
 | Samoa — Regular physical activity, Year 8 — the importance of regular physical activity for muscle strength and endurance (curriculum statement — evidence) (original target `fitness-and-stretching/muscle-strength-and-endurance`) | Samoa, *Health and Physical Education, Years 1–8, Primary School Curriculum* (Samoa Years 1–8 Curriculum), printed p. 25 |
 | Samoa — Appendix 1 — the Samoa Secondary Schools Fitness Test Battery's strength test (body bridge hold), muscular endurance test (sit-ups, 3 × 30 seconds) and multi-stage fitness (beep) test, with height and weight measures, for Years 9–13 (teacher guide — evidence) (original target `fitness-and-stretching/muscle-strength-and-endurance`) | Samoa, *Health and Physical Education Teacher Guide, Years 11 and 12* (Samoa Years 11–12 TG), printed p. 84 |
-**Acceptance count: taught in 7 countries (Ethiopia, Turkmenistan, China, Philippines, Nicaragua, Azerbaijan, Honduras).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Zambia is added as teacher-module evidence only (see its rows above), named in the countries line but outside the acceptance count. Namibia is added as teacher-guide evidence only the same way, outside the acceptance count. Turkmenistan is added as student-book stock (see its row above), inside the acceptance count. Kazakhstan is added as teacher-guide evidence only the same way, outside the acceptance count. Samoa is added as curriculum-statement and teacher-guide evidence only (see its rows above), named in the countries line but outside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
+**Acceptance count: taught in 8 countries (Ethiopia, Turkmenistan, China, Philippines, Nicaragua, Azerbaijan, Honduras, Fiji).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Zambia is added as teacher-module evidence only (see its rows above), named in the countries line but outside the acceptance count. Namibia is added as teacher-guide evidence only the same way, outside the acceptance count. Turkmenistan is added as student-book stock (see its row above), inside the acceptance count. Kazakhstan is added as teacher-guide evidence only the same way, outside the acceptance count. Samoa is added as curriculum-statement and teacher-guide evidence only (see its rows above), named in the countries line but outside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; the Fiji teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
 
 Student books Grades 1–4 are complete. No page is claimed that the placements do not give. Dance and game rules are taught only as the placements summarise them; no rules have been invented for any game the placements leave game-dependent.
 
@@ -451,3 +451,51 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/honduras-pe-
 | Honduras — Bloque II Secuencia 2 — endurance (aerobic and anaerobic) and strength training with free weights and machines, at least twice a week (original target `fitness-and-stretching/muscle-strength-and-endurance`) | Honduras Grade 9 HN G9 student, printed p. 77 |
 
 Honduras's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Honduras's own way is content, as the book lines above record it: a television-school (Telebásica) programme built in 4 blocks — body image/expression, fitness for health, games and sport initiation, activities in nature — with Honduran folk dance, traditional games and Garífuna dances as core content, and every block closing in a "Valorando lo que aprendo" self-check sequence (named in the book lines, not placed, per the assessment exclusion). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Fiji — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/fiji-pe-placements.md. The Fiji books stocked in this lesson are Book 2, Book 3, Book 6. Fiji is student-book stock, inside the acceptance count, in this lesson; the Fiji teacher guides stocked here are teacher-guide evidence only, outside the acceptance count. The books' Safety, hygiene, health and sports-medicine teaching is filed in fiji-health-placements.md and placed in the Health course, as the placements file records it.
+
+**Book — Fiji Year 3 (teacher guide):**
+## Book 2 — PE for Fun 3, Teachers Handbook (teacher guide, English)
+- Title as printed: Physical Education — PE is Fun! 3, Teachers Handbook, Trial Version (record title: PE for Fun 3 — Teachers Handbook)
+- Grade: Year 3 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Fiji; year no year printed (Trial Version); ISBN no ISBN printed
+- PDF pages: 47 (cover verified — PE IS FUN! / 3 / TEACHERS HANDBOOK / TRIAL VERSION; read via grab.py tree route)
+- Verdict: COMPLETE — its hygiene and safety teaching is filed in fiji-health-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book.
+- Tally: 15 placements — 10 to existing lessons, 5 NEW LESSON NEEDED
+- Fiji's own way: a teacher handbook that teaches skills through named games and relays with an inclusion prompt in every lesson ("Be inclusive, share the fun"), grounds PE in Fiji's non-communicable disease crisis, and gives a full chapter to nine named Fijian traditional games.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Chapter 3 Physical Activities and Personal Hygiene: Strength and Muscular Endurance — strength and muscular endurance as fitness components, with body composition and exercise attitude (teacher guide — evidence) (original target `fitness-and-stretching/muscle-strength-and-endurance`) | Fiji Year 3 PE for Fun Teachers Handbook, printed pp. 24–29 (Chapter 3) |
+
+**Book — Fiji Year 6 (teacher guide):**
+## Book 3 — PE is Fun 6, Teachers Guide (teacher guide, English)
+- Title as printed: Physical Education — PE is Fun! 6, Teachers Guide, Trial Version (record title: PE is Fun 6 — Teachers Guide)
+- Grade: Year 6 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Fiji; year no year printed (Trial Version); ISBN no ISBN printed
+- PDF pages: 110 (cover verified — PE IS FUN! / 6 / TEACHERS GUIDE / TRIAL VERSION; read via grab.py tree route)
+- Verdict: COMPLETE — its unhealthy-behaviour and pool-safety teaching is filed in fiji-health-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book. (Its introduction mis-calls it a "Year 3 textbook" — a copy-over slip in the book itself; cover, contents and chapters are Year 6.)
+- Tally: 16 placements — 10 to existing lessons, 6 NEW LESSON NEEDED
+- Fiji's own way: the Year 3 handbook's framework grown to senior-primary depth — periodised training design and sprint programmes, and a traditional-games chapter of lemon, reed and cane-leaf games played in water and on the field, several with their iTaukei game songs.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Chapter 3 Health Related Fitness: Strength and Muscular Endurance — muscular strength and endurance as fitness components (teacher guide — evidence) (original target `fitness-and-stretching/muscle-strength-and-endurance`) | Fiji Year 6 PE is Fun Teachers Guide, printed pp. 29–50 (Chapter 3) |
+
+**Book — Fiji Years 9 & 10 (student book):**
+## Book 6 — Physical Education is Fun, Years 9 & 10 (student book, English)
+- Title as printed: Physical Education is Fun (record title: Physical Education is Fun — Years 9 & 10)
+- Grade: Years 9 & 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Fiji (Curriculum Advisory Services); year 2016, First Edition, Trial Version; ISBN no ISBN printed
+- PDF pages: 184 (cover verified — PHYSICAL EDUCATION IS FUN, produced by Curriculum Advisory Services, Suva, 2016)
+- Verdict: COMPLETE — read via the Wayback source_url recorded in its own staging books.json, because the GitHub tree path returned 404 twice (see library debt in the group log); its Safety and Sports Medicine teaching is filed in fiji-health-placements.md
+- Tally: 17 placements — 6 to existing lessons, 11 NEW LESSON NEEDED
+- Fiji's own way: a two-year senior textbook of exercise science — anatomy, physiology, biomechanics, skill acquisition and sports psychology — localised with a BMI chart drawn for iTaukei and other Fijians.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — The Skeletal Muscles — three muscle types and what muscles do in movement (original target `fitness-and-stretching/muscle-strength-and-endurance`) | Fiji Years 9 & 10 Physical Education is Fun, printed pp. 24–26 |
+
+Fiji's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Fiji's own way is content, as the book lines above record it: a *PE is Fun* series built on strands and KLA outcomes, moving from movement science to training, sports nutrition and tournament organisation, with Fiji Sevens rugby and the Skipper Cup as worked examples, named Fijian traditional games (Veibuka, Veisole, Veicibi, Veitiqa and more) and the games of Fiji's Indian community taught side by side, and swimming taught as a Fiji survival skill. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

@@ -1,6 +1,6 @@
 # Sources — Balance and Calisthenics
 
-countries: Ethiopia, Kazakhstan, Afghanistan, El Salvador, Philippines, Nicaragua, Maldives, Belize, Honduras
+countries: Ethiopia, Kazakhstan, Afghanistan, El Salvador, Philippines, Nicaragua, Maldives, Belize, Honduras, Fiji
 
 **Book — Grade 1 student:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 81 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md. COMPLETE.
 
@@ -19,7 +19,7 @@ countries: Ethiopia, Kazakhstan, Afghanistan, El Salvador, Philippines, Nicaragu
 | Free gymnastics and balance — Grade 5 | Ethiopia, Grade 5 student §5.2.1, printed pp. 66–68 |
 
 | Kazakhstan — All quarters — general developing exercises (ОРУ) on the spot and in movement, without objects and with objects, opening the lesson work (teacher guide — evidence) (original target `gymnastics/balance-and-calisthenics`) | Kazakhstan, *Physical Culture, Methodological Guide for Grade 4 Teachers* (Kazakhstan Grade 4 TG), printed pp. 4–5, 20, 48 |
-**Acceptance count: taught in 3 countries (Ethiopia, Philippines, Nicaragua).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as teacher-guide evidence only (see its Honduras section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 3 countries (Ethiopia, Philippines, Nicaragua).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as teacher-guide evidence only (see its Honduras section below), named in the countries line but outside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count.
 
 Student books Grades 1–4 are complete. No page is claimed that the placements do not give. Dance and game rules are taught only as the placements summarise them; no rules have been invented for any game the placements leave game-dependent.
 
@@ -248,3 +248,37 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/honduras-pe-
 | Honduras — Bloque I Secuencia 1 — balance work on benches: pairs holding hands back-to-back, walking laterally along the bench, throwing and catching a ball while balancing (original target `gymnastics/balance-and-calisthenics`) | Honduras Grade 7 HN G7 teacher guide, printed p. 27 |
 
 Honduras's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Honduras's own way is content, as the book lines above record it: a television-school (Telebásica) programme built in 4 blocks — body image/expression, fitness for health, games and sport initiation, activities in nature — with Honduran folk dance, traditional games and Garífuna dances as core content, and every block closing in a "Valorando lo que aprendo" self-check sequence (named in the book lines, not placed, per the assessment exclusion). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Fiji — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/fiji-pe-placements.md. The Fiji books stocked in this lesson are Book 3, Book 4. Fiji is teacher-guide evidence only, outside the acceptance count, in this lesson — named in the countries line and the provenance rows, but the acceptance count is unchanged. The books' Safety, hygiene, health and sports-medicine teaching is filed in fiji-health-placements.md and placed in the Health course, as the placements file records it.
+
+**Book — Fiji Year 6 (teacher guide):**
+## Book 3 — PE is Fun 6, Teachers Guide (teacher guide, English)
+- Title as printed: Physical Education — PE is Fun! 6, Teachers Guide, Trial Version (record title: PE is Fun 6 — Teachers Guide)
+- Grade: Year 6 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Fiji; year no year printed (Trial Version); ISBN no ISBN printed
+- PDF pages: 110 (cover verified — PE IS FUN! / 6 / TEACHERS GUIDE / TRIAL VERSION; read via grab.py tree route)
+- Verdict: COMPLETE — its unhealthy-behaviour and pool-safety teaching is filed in fiji-health-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book. (Its introduction mis-calls it a "Year 3 textbook" — a copy-over slip in the book itself; cover, contents and chapters are Year 6.)
+- Tally: 16 placements — 10 to existing lessons, 6 NEW LESSON NEEDED
+- Fiji's own way: the Year 3 handbook's framework grown to senior-primary depth — periodised training design and sprint programmes, and a traditional-games chapter of lemon, reed and cane-leaf games played in water and on the field, several with their iTaukei game songs.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Chapter 1 Motor Skills: Balance — balance and coordination, finding the centre of gravity, and dance, cycling and skating to improve them (teacher guide — evidence) (original target `gymnastics/balance-and-calisthenics`) | Fiji Year 6 PE is Fun Teachers Guide, printed pp. 6–15 (Chapter 1) |
+
+**Book — Fiji Year 8 (teacher guide):**
+## Book 4 — PE is Fun 8, Teachers Guide (teacher guide, English)
+- Title as printed: Physical Education — PE is Fun! 8, Teachers Guide, Trial Version (record title: PE is Fun 8 — Teachers Guide)
+- Grade: Year 8 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Fiji; year no year printed (Trial Version); ISBN no ISBN printed
+- PDF pages: 104 (cover verified — PE IS FUN! / 8 / TEACHERS GUIDE / TRIAL VERSION; read via grab.py tree route)
+- Verdict: COMPLETE. Teacher guide used as evidence of what is taught, not as a substitute pupil book.
+- Tally: 20 placements — 11 to existing lessons, 9 NEW LESSON NEEDED
+- Fiji's own way: the broadest book in the series — fitness science and athletics biomechanics beside music and world dance, and a traditional-games chapter that teaches iTaukei games and the games of Fiji's Indian community side by side, with full Kho Kho rules.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Chapter 3 Types of Games: Body Balance — static and dynamic balance and the body's centre of gravity, with eyes-open and eyes-closed balance tests (teacher guide — evidence) (original target `gymnastics/balance-and-calisthenics`) | Fiji Year 8 PE is Fun Teachers Guide, printed pp. 17–18 (Chapter 3) |
+
+Fiji's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Fiji's own way is content, as the book lines above record it: a *PE is Fun* series built on strands and KLA outcomes, moving from movement science to training, sports nutrition and tournament organisation, with Fiji Sevens rugby and the Skipper Cup as worked examples, named Fijian traditional games (Veibuka, Veisole, Veicibi, Veitiqa and more) and the games of Fiji's Indian community taught side by side, and swimming taught as a Fiji survival skill. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

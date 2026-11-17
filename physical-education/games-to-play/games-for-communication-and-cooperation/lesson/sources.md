@@ -1,6 +1,6 @@
 # Sources — Games for Communication and Cooperation
 
-countries: Ethiopia, Samoa, Timor-Leste, Nicaragua, Honduras
+countries: Ethiopia, Samoa, Timor-Leste, Nicaragua, Honduras, Fiji
 
 **Book 1:** *Grade 3 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–65 + front matter (72 PDF pages). Printed page = PDF page − 7. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g03-student-placements.md.
 
@@ -40,7 +40,7 @@ countries: Ethiopia, Samoa, Timor-Leste, Nicaragua, Honduras
 | Prove-it questions folded from the book's own Chapter 2 review — Sub lesson 7 (teacher guide — evidence) | Ethiopia, *Grade 7 Teacher Guide*, Chapter 2 review answers, printed pp. 25–26 (teacher guide — evidence) |
 | Samoa — Socialisation through physical activities, Years 1–4 — life skills in movement lessons: cooperation and sharing, following instructions and rules, trusting others (curriculum statement — evidence) (original target `games-to-play/games-for-communication-and-cooperation`) | Samoa, *Health and Physical Education, Years 1–8, Primary School Curriculum* (Samoa Years 1–8 Curriculum), printed p. 26 |
 | Timor-Leste — Period 1: Getting to know each other and creating essential agreements — the class agrees how it will work, play and treat each other (original target `games-to-play/games-for-communication-and-cooperation`) | Timor-Leste, *Educação Física 7, Manual do aluno* (Timor-Leste Grade 7 Student Book), printed p. 4 |
-**Acceptance count: taught in 2 countries (Ethiopia, Timor-Leste).** Samoa is added as curriculum-statement evidence only (see its row above), named in the countries line but outside the acceptance count. Timor-Leste is added as student-book stock (see its row above), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Honduras is added as teacher-guide evidence only (see its Honduras section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 2 countries (Ethiopia, Timor-Leste).** Samoa is added as curriculum-statement evidence only (see its row above), named in the countries line but outside the acceptance count. Timor-Leste is added as student-book stock (see its row above), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Honduras is added as teacher-guide evidence only (see its Honduras section below), named in the countries line but outside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count.
 
 The Grade 3 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -97,3 +97,37 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/honduras-pe-
 Honduras's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Honduras's own way is content, as the book lines above record it: a television-school (Telebásica) programme built in 4 blocks — body image/expression, fitness for health, games and sport initiation, activities in nature — with Honduran folk dance, traditional games and Garífuna dances as core content, and every block closing in a "Valorando lo que aprendo" self-check sequence (named in the book lines, not placed, per the assessment exclusion). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: games for communication and cooperation, Fishing game አሳ ማጥመድ, signals ማስጠን, Gebeta ገበጣ, four-beat clapping, Ethiopia HPE, jumping relay, hand tug በእጅ መጓተት, baton relay የዘንግ ቅብብል, overhead relay የኳስ መቀባበል, bottle target game, fair play five principles, compassion, Turn Back, Ethiopia HPE Grades 5–7
+
+## Fiji — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/fiji-pe-placements.md. The Fiji books stocked in this lesson are Book 4, Book 5. Fiji is teacher-guide evidence only, outside the acceptance count, in this lesson — named in the countries line and the provenance rows, but the acceptance count is unchanged. The books' Safety, hygiene, health and sports-medicine teaching is filed in fiji-health-placements.md and placed in the Health course, as the placements file records it.
+
+**Book — Fiji Year 8 (teacher guide):**
+## Book 4 — PE is Fun 8, Teachers Guide (teacher guide, English)
+- Title as printed: Physical Education — PE is Fun! 8, Teachers Guide, Trial Version (record title: PE is Fun 8 — Teachers Guide)
+- Grade: Year 8 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Fiji; year no year printed (Trial Version); ISBN no ISBN printed
+- PDF pages: 104 (cover verified — PE IS FUN! / 8 / TEACHERS GUIDE / TRIAL VERSION; read via grab.py tree route)
+- Verdict: COMPLETE. Teacher guide used as evidence of what is taught, not as a substitute pupil book.
+- Tally: 20 placements — 11 to existing lessons, 9 NEW LESSON NEEDED
+- Fiji's own way: the broadest book in the series — fitness science and athletics biomechanics beside music and world dance, and a traditional-games chapter that teaches iTaukei games and the games of Fiji's Indian community side by side, with full Kho Kho rules.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Chapter 7 Games: Socialising and Resolving Conflicts — socialising through PE, the benefits of PE, what interpersonal conflict is and strategies from competing to cooperating (teacher guide — evidence) (original target `games-to-play/games-for-communication-and-cooperation`) | Fiji Year 8 PE is Fun Teachers Guide, printed pp. 90–101 (Chapter 7) |
+
+**Book — Fiji Year 4 (teacher guide):**
+## Book 5 — PE for Fun 4, Teachers Handbook (teacher guide, English)
+- Title as printed: Physical Education — PE is Fun! 4, Teachers Handbook, Trial Version (record title: PE for Fun 4 — Teachers Handbook)
+- Grade: Year 4 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Fiji; year no year printed (Trial Version); ISBN no ISBN printed
+- PDF pages: 65 (cover verified — PE IS FUN! / 4 / TEACHERS HANDBOOK / TRIAL VERSION)
+- Verdict: COMPLETE — read via the Wayback source_url recorded in its own staging books.json, because the GitHub tree path returned 404 twice (see library debt in the group log); its safety, slings and swimming-rescue teaching is filed in fiji-health-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book.
+- Tally: 17 placements — 8 to existing lessons, 9 NEW LESSON NEEDED
+- Fiji's own way: built on two strands (body skills; fitness, personal development and safety) plus physical activity and social development — swimming taught as a Fiji survival skill with rescue aids and techniques, and traditional games from both the iTaukei tiqa throw and Indian Bambaram and Mallakhamb.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Chapter 3: Interaction Skills — physical activity builds interaction skills and resolving conflicts, and its benefits include controlling blood sugar, stronger bones and muscles and better mental health (teacher guide — evidence) (original target `games-to-play/games-for-communication-and-cooperation`) | Fiji Year 4 PE for Fun Teachers Handbook, printed pp. 56–58 (Chapter 3) |
+
+Fiji's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Fiji's own way is content, as the book lines above record it: a *PE is Fun* series built on strands and KLA outcomes, moving from movement science to training, sports nutrition and tournament organisation, with Fiji Sevens rugby and the Skipper Cup as worked examples, named Fijian traditional games (Veibuka, Veisole, Veicibi, Veitiqa and more) and the games of Fiji's Indian community taught side by side, and swimming taught as a Fiji survival skill. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

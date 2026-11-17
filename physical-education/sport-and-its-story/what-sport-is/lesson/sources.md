@@ -1,6 +1,6 @@
 # Sources — What Sport Is — and How It Differs from PE
 
-countries: Ethiopia, Afghanistan, Nicaragua, Honduras
+countries: Ethiopia, Afghanistan, Nicaragua, Honduras, Fiji
 
 **Book 1:** *Grade 6 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–95 + front matter (103 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g06-student-placements.md.
 
@@ -18,7 +18,7 @@ countries: Ethiopia, Afghanistan, Nicaragua, Honduras
 | Prove-it questions folded from the book's own Chapter 1 review — Sub lesson 2 (teacher guide — evidence) | Ethiopia, *Grade 6 Teacher Guide*, Chapter 1 summary + assessment answers, printed pp. 10–11 (teacher guide — evidence) |
 | Prove-it questions folded from the book's own Chapter 1 review — Sub lesson 3 (teacher guide — evidence) | Ethiopia, *Grade 7 Teacher Guide*, §1.6 and Chapter 1 summary + review answers, printed pp. 12–13 (teacher guide — evidence) |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Nicaragua, Honduras).** Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count.
+**Acceptance count: taught in 3 countries (Ethiopia, Nicaragua, Honduras).** Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count.
 
 The Grade 6 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -90,3 +90,51 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/honduras-pe-
 Honduras's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Honduras's own way is content, as the book lines above record it: a television-school (Telebásica) programme built in 4 blocks — body image/expression, fitness for health, games and sport initiation, activities in nature — with Honduran folk dance, traditional games and Garífuna dances as core content, and every block closing in a "Valorando lo que aprendo" self-check sequence (named in the book lines, not placed, per the assessment exclusion). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: what sport is, sport definition, PE and sport difference, Charles A. Butcher 1964, sport kinds የአገር ኳስ የመረብ ኳስ የእጅ ኳስ የቅርጫት ኳስ, Ethiopia HPE Grades 6–7
+
+## Fiji — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/fiji-pe-placements.md. The Fiji books stocked in this lesson are Book 2, Book 3, Book 5. Fiji is teacher-guide evidence only, outside the acceptance count, in this lesson — named in the countries line and the provenance rows, but the acceptance count is unchanged. The books' Safety, hygiene, health and sports-medicine teaching is filed in fiji-health-placements.md and placed in the Health course, as the placements file records it.
+
+**Book — Fiji Year 3 (teacher guide):**
+## Book 2 — PE for Fun 3, Teachers Handbook (teacher guide, English)
+- Title as printed: Physical Education — PE is Fun! 3, Teachers Handbook, Trial Version (record title: PE for Fun 3 — Teachers Handbook)
+- Grade: Year 3 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Fiji; year no year printed (Trial Version); ISBN no ISBN printed
+- PDF pages: 47 (cover verified — PE IS FUN! / 3 / TEACHERS HANDBOOK / TRIAL VERSION; read via grab.py tree route)
+- Verdict: COMPLETE — its hygiene and safety teaching is filed in fiji-health-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book.
+- Tally: 15 placements — 10 to existing lessons, 5 NEW LESSON NEEDED
+- Fiji's own way: a teacher handbook that teaches skills through named games and relays with an inclusion prompt in every lesson ("Be inclusive, share the fun"), grounds PE in Fiji's non-communicable disease crisis, and gives a full chapter to nine named Fijian traditional games.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Chapter 8 Different Types of Sports — individual sports (archery, boomerang, bowls, canoeing, kayaking, cycling, dance, gymnastics, mixed martial arts and more) and team sports (teacher guide — evidence) (original target `sport-and-its-story/what-sport-is`) | Fiji Year 3 PE for Fun Teachers Handbook, printed pp. 42–47 (Chapter 8) |
+
+**Book — Fiji Year 6 (teacher guide):**
+## Book 3 — PE is Fun 6, Teachers Guide (teacher guide, English)
+- Title as printed: Physical Education — PE is Fun! 6, Teachers Guide, Trial Version (record title: PE is Fun 6 — Teachers Guide)
+- Grade: Year 6 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Fiji; year no year printed (Trial Version); ISBN no ISBN printed
+- PDF pages: 110 (cover verified — PE IS FUN! / 6 / TEACHERS GUIDE / TRIAL VERSION; read via grab.py tree route)
+- Verdict: COMPLETE — its unhealthy-behaviour and pool-safety teaching is filed in fiji-health-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book. (Its introduction mis-calls it a "Year 3 textbook" — a copy-over slip in the book itself; cover, contents and chapters are Year 6.)
+- Tally: 16 placements — 10 to existing lessons, 6 NEW LESSON NEEDED
+- Fiji's own way: the Year 3 handbook's framework grown to senior-primary depth — periodised training design and sprint programmes, and a traditional-games chapter of lemon, reed and cane-leaf games played in water and on the field, several with their iTaukei game songs.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Chapter 9 Types of Sports — indoor, outdoor, recreational and aquatic sports (teacher guide — evidence) (original target `sport-and-its-story/what-sport-is`) | Fiji Year 6 PE is Fun Teachers Guide, printed pp. 84–92 (Chapter 9) |
+
+**Book — Fiji Year 4 (teacher guide):**
+## Book 5 — PE for Fun 4, Teachers Handbook (teacher guide, English)
+- Title as printed: Physical Education — PE is Fun! 4, Teachers Handbook, Trial Version (record title: PE for Fun 4 — Teachers Handbook)
+- Grade: Year 4 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Fiji; year no year printed (Trial Version); ISBN no ISBN printed
+- PDF pages: 65 (cover verified — PE IS FUN! / 4 / TEACHERS HANDBOOK / TRIAL VERSION)
+- Verdict: COMPLETE — read via the Wayback source_url recorded in its own staging books.json, because the GitHub tree path returned 404 twice (see library debt in the group log); its safety, slings and swimming-rescue teaching is filed in fiji-health-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book.
+- Tally: 17 placements — 8 to existing lessons, 9 NEW LESSON NEEDED
+- Fiji's own way: built on two strands (body skills; fitness, personal development and safety) plus physical activity and social development — swimming taught as a Fiji survival skill with rescue aids and techniques, and traditional games from both the iTaukei tiqa throw and Indian Bambaram and Mallakhamb.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Chapter 3: Sports — sport as an organised contest played since long ago, including volleyball and tennis (teacher guide — evidence) (original target `sport-and-its-story/what-sport-is`) | Fiji Year 4 PE for Fun Teachers Handbook, printed pp. 50–51 (Chapter 3) |
+
+Fiji's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Fiji's own way is content, as the book lines above record it: a *PE is Fun* series built on strands and KLA outcomes, moving from movement science to training, sports nutrition and tournament organisation, with Fiji Sevens rugby and the Skipper Cup as worked examples, named Fijian traditional games (Veibuka, Veisole, Veicibi, Veitiqa and more) and the games of Fiji's Indian community taught side by side, and swimming taught as a Fiji survival skill. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
