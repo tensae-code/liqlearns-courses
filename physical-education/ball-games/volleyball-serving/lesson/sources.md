@@ -1,8 +1,8 @@
 # Sources — Volleyball Serving
 
-countries: Jordan, Kuwait, Greece
+countries: Jordan, Kuwait, Greece, Vietnam
 
-**Acceptance count: taught in 2 countries (Jordan, Greece).** Jordan is student-book stock (see its rows below), inside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count.
+**Acceptance count: taught in 3 countries (Jordan, Greece, Vietnam).** Jordan is student-book stock (see its rows below), inside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count. Vietnam is added as student-book stock (see its Vietnam section below), inside the acceptance count.
 
 ## Jordan — PE expansion 2026-11-16
 
@@ -131,3 +131,58 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/greece-pe-pl
 | Greece — Σερβίς (The serve) — for right-handers: left foot ahead, knees slightly bent, trunk leaning forward (original target `ball-games/volleyball-underhand-serve`) | Greece Grades 7-9 Fysiki Agogi Gymnasiou, printed p. 41 |
 
 Greece's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Greece is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Vietnam — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. Vietnam's twenty-one books stocked in this expansion are all STUDENT books (Giáo dục thể chất / GDTC, Kết nối tri thức với cuộc sống, Nhà xuất bản Giáo dục Việt Nam), all read COMPLETE and secured via the GitHub mid-size-books release assets, as filed (the books.json "pushed" route; the repo-tree route named in the brief returned 404 for every Vietnam path — these books live as release assets, not tree files). Vietnam is therefore filed as student-book stock, inside the acceptance count, in this lesson. The Grade 10–12 elective-sport books share general-knowledge parts whose Health placements are filed once per grade in vietnam-health-placements.md, as filed; the Grade 12 download-list records for volleyball, basketball and badminton are the same books as the secured Grade 12 books, not separate books, as filed. Each book's glossary (Bảng giải thích thuật ngữ) is inventory only, named in the book lines and not placed, as filed. Filing note: the placements file's printed tallies for Book 2 (52) and Book 13 (46) differ from their placement lines as filed (53 and 44 lines); every placement line is stocked, 878 lines in all.
+
+## Book 18 — GDTC 12 Bóng chuyền / PE Grade 12 Volleyball (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 12 — Bóng chuyền (Kết nối tri thức với cuộc sống)
+- Grade: 12 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2023 (national textbook appraisal Decision 1882/QĐ-BGDĐT, 29 June 2023); no ISBN printed
+- PDF pages: 64 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 21 placements — 19 to existing lessons, 2 NEW LESSON NEEDED (plus 4 Health placements filed in vietnam-health-placements.md from this book's shared general-knowledge part)
+- Vietnam's own way: the Grade 10–12 elective-sport books share one general-knowledge part (natural factors and nutrition for training) and then go deep into one sport — formal competition rules and refereeing first, then technique, then combined technique, then team tactics; every technique lesson is built from set numbered drills on court diagrams plus a named support game. The Grade 12 download-list records for volleyball, basketball and badminton are this same book (cover-image links), not separate books.
+- Glossary (Bảng giải thích thuật ngữ, printed p. 59): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 2 Bài 1, Kĩ thuật phát bóng thấp tay nghiêng mình — the low-hand sidearm serve: toss, side-on stance, swinging arm contact and follow-through, with seven set drills (original target `ball-games/volleyball-serving-techniques`) | Vietnam, *Vietnam Grade 12 GDTC 12 Volleyball*, printed p. 23 |
+| Vietnam — Chủ đề 2 Bài 2, Kĩ thuật phát bóng cao tay nghiêng mình — the high-hand (overarm) sidearm serve and how it differs from the front-facing overarm serve (original target `ball-games/volleyball-serving-techniques`) | Vietnam, *Vietnam Grade 12 GDTC 12 Volleyball*, printed p. 29 |
+
+## Book 14 — GDTC 11 Bóng chuyền / PE Grade 11 Volleyball (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 11 — Bóng chuyền (Kết nối tri thức với cuộc sống)
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35179-1
+- PDF pages: 58 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 20 placements — 18 to existing lessons, 2 NEW LESSON NEEDED (plus 3 Health placements filed in vietnam-health-placements.md from this book's general-knowledge part)
+- Vietnam's own way: the Grade 11 books carry the same general-knowledge topic as Grade 12 (natural factors and nutrition) in a Grade 11 text, then one sport in depth — here: what volleyball does for the body, selected FIVB laws, movement and passing, serving and spiking, and basic match tactics.
+- Glossary (Bảng giải thích thuật ngữ, printed p. 54): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 3 Bài 1, Kĩ thuật phát bóng cao tay trước mặt — the front-facing overarm serve (original target `ball-games/volleyball-serving-techniques`) | Vietnam, *Vietnam Grade 11 GDTC 11 Volleyball*, printed p. 25 |
+
+## Book 10 — GDTC 10 Bóng chuyền / PE Grade 10 Volleyball (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 10 — Bóng chuyền (Kết nối tri thức với cuộc sống)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31176-4
+- PDF pages: 70 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 23 placements — 17 to existing lessons, 6 NEW LESSON NEEDED (plus 4 Health placements filed in vietnam-health-placements.md from this book's general-knowledge part)
+- Vietnam's own way: the Grade 10 books open with the sport's story (here volleyball from William G. Morgan's 1895 "Mintonette" to Vietnam's own federation and leagues), then the basic laws, then technique from the ready position up — ready positions and footwork, the two passes, the low serve, the spike and the block.
+- Glossary (Bảng giải thích thuật ngữ, printed p. 66): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 3 Bài 1, Kĩ thuật phát bóng thấp tay trước mặt — the low front underarm serve, the beginner's serve (original target `ball-games/volleyball-serving-techniques`) | Vietnam, *Vietnam Grade 10 GDTC 10 Volleyball*, printed p. 44 |
+
+Vietnam's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. All twenty-one Vietnam books stocked in this expansion are STUDENT books, so Vietnam is student-book stock, inside the acceptance count, in this lesson. Game, dance and sport rules are taught only as the placements summarise them; none have been invented.

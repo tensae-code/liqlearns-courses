@@ -1,8 +1,8 @@
 # Sources — Badminton Techniques
 
-countries: China, Azerbaijan, Mauritius, Iran, North Macedonia, Jordan, Malaysia, Oman, Myanmar
+countries: China, Azerbaijan, Mauritius, Iran, North Macedonia, Jordan, Malaysia, Oman, Myanmar, Vietnam
 
-**Acceptance count: taught in 8 countries (China, Azerbaijan, Mauritius, Iran, North Macedonia, Jordan, Malaysia, Myanmar).** Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. China is student-book stock (see its rows below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count.
+**Acceptance count: taught in 9 countries (China, Azerbaijan, Mauritius, Iran, North Macedonia, Jordan, Malaysia, Myanmar, Vietnam).** Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. China is student-book stock (see its rows below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count. Vietnam is added as student-book stock (see its Vietnam section below), inside the acceptance count.
 
 ## China — PE expansion 2026-11-16
 
@@ -319,3 +319,159 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/myanmar-pe-p
 | Myanmar — §2-3-2 — services and rally strokes (original target `ball-games/badminton-strokes-and-rallies`) | Myanmar G6 PE Textbook, printed pp. 41–48 |
 
 Myanmar's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Myanmar is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 1, Book 3, Book 5). The learnbig.net mirror records of these books are parallel records of the same books, not separate books, as filed in the placements file's reconciliation. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Vietnam — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. Vietnam's twenty-one books stocked in this expansion are all STUDENT books (Giáo dục thể chất / GDTC, Kết nối tri thức với cuộc sống, Nhà xuất bản Giáo dục Việt Nam), all read COMPLETE and secured via the GitHub mid-size-books release assets, as filed (the books.json "pushed" route; the repo-tree route named in the brief returned 404 for every Vietnam path — these books live as release assets, not tree files). Vietnam is therefore filed as student-book stock, inside the acceptance count, in this lesson. The Grade 10–12 elective-sport books share general-knowledge parts whose Health placements are filed once per grade in vietnam-health-placements.md, as filed; the Grade 12 download-list records for volleyball, basketball and badminton are the same books as the secured Grade 12 books, not separate books, as filed. Each book's glossary (Bảng giải thích thuật ngữ) is inventory only, named in the book lines and not placed, as filed. Filing note: the placements file's printed tallies for Book 2 (52) and Book 13 (46) differ from their placement lines as filed (53 and 44 lines); every placement line is stocked, 878 lines in all.
+
+## Book 21 — GDTC 12 Cầu lông / PE Grade 12 Badminton (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 12 — Cầu lông (Kết nối tri thức với cuộc sống)
+- Grade: 12 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2023 (national textbook appraisal Decision 1882/QĐ-BGDĐT, 29 June 2023); no ISBN printed
+- PDF pages: 72 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 34 placements — 26 to existing lessons, 8 NEW LESSON NEEDED
+- Vietnam's own way: same shared general-knowledge part as the other Grade 12 sport books (Phần I, printed pp. 4–10, identical text — its 4 Health placements are filed once with Book 18 in vietnam-health-placements.md); the badminton part runs umpiring and rules → drop-shot technique → overhead clears and the smash → doubles tactics, with a contest-style support game in nearly every lesson.
+- Glossary (Bảng giải thích một số thuật ngữ, printed p. 67): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 2 Bài 1, Kĩ thuật bỏ nhỏ chéo thuận tay — the cross-court forehand drop shot at the net (original target `ball-games/badminton-techniques`) | Vietnam, *Vietnam Grade 12 GDTC 12 Badminton*, printed p. 24 |
+| Vietnam — Chủ đề 2 Bài 2, Kĩ thuật bỏ nhỏ chéo trái tay — the cross-court backhand drop shot (original target `ball-games/badminton-techniques`) | Vietnam, *Vietnam Grade 12 GDTC 12 Badminton*, printed p. 28 |
+| Vietnam — Chủ đề 2 Bài 3, Phối hợp kĩ thuật di chuyển tiến chéo bên phải bỏ nhỏ thuận tay — moving diagonally forward to the right and playing the forehand drop (original target `ball-games/badminton-techniques`) | Vietnam, *Vietnam Grade 12 GDTC 12 Badminton*, printed p. 32 |
+| Vietnam — Chủ đề 2 Bài 4, Phối hợp kĩ thuật di chuyển tiến chéo bên trái bỏ nhỏ trái tay — moving diagonally forward to the left and playing the backhand drop (original target `ball-games/badminton-techniques`) | Vietnam, *Vietnam Grade 12 GDTC 12 Badminton*, printed p. 36 |
+| Vietnam — Chủ đề 3 Bài 1, Phối hợp kĩ thuật di chuyển lùi bật nhảy đánh cầu cao thuận tay — moving backwards, jumping and playing the overhead forehand clear (original target `ball-games/badminton-techniques`) | Vietnam, *Vietnam Grade 12 GDTC 12 Badminton*, printed p. 40 |
+| Vietnam — Chủ đề 3 Bài 2, Kĩ thuật đánh cầu cao trái tay — the backhand clear: hitting high shuttles on the backhand side deep to the back of the court (original target `ball-games/badminton-techniques`) | Vietnam, *Vietnam Grade 12 GDTC 12 Badminton*, printed p. 44 |
+| Vietnam — Chủ đề 3 Bài 3, Phối hợp kĩ thuật di chuyển lùi bật nhảy đập cầu thuận tay — moving backwards, jumping and smashing with the forehand (original target `ball-games/badminton-techniques`) | Vietnam, *Vietnam Grade 12 GDTC 12 Badminton*, printed p. 48 |
+
+## Book 17 — GDTC 11 Cầu lông / PE Grade 11 Badminton (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 11 — Cầu lông (Kết nối tri thức với cuộc sống)
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35055-8
+- PDF pages: 82 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 47 placements — 33 to existing lessons, 14 NEW LESSON NEEDED (plus 4 Health placements filed in vietnam-health-placements.md from this book's general-knowledge part)
+- Vietnam's own way: from the same author team as the Grade 11 and 12 football books — its own general-knowledge text, then badminton built step by step: movement first, then movement combined with low shots, drop shots, high forehand shots and smashes, and singles tactics last; every lesson carries a warm-up game and a support game.
+- Glossary (Bảng giải thích một số thuật ngữ, printed p. 78): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 2 Bài 1, Kĩ thuật di chuyển tiến chéo — diagonal forward movement, to the right and to the left, for shuttles dropping near the net (original target `ball-games/badminton-techniques`) | Vietnam, *Vietnam Grade 11 GDTC 11 Badminton*, printed p. 17 |
+| Vietnam — Chủ đề 2 Bài 2, Kĩ thuật di chuyển lùi chéo — diagonal backward movement, to the right and to the left, for shuttles at the back corners (original target `ball-games/badminton-techniques`) | Vietnam, *Vietnam Grade 11 GDTC 11 Badminton*, printed p. 22 |
+| Vietnam — Chủ đề 3 Bài 1, Phối hợp kĩ thuật di chuyển tiến chéo bên phải đánh cầu thấp thuận tay — moving diagonally forward right and playing the low forehand (original target `ball-games/badminton-techniques`) | Vietnam, *Vietnam Grade 11 GDTC 11 Badminton*, printed p. 26 |
+| Vietnam — Chủ đề 3 Bài 2, Phối hợp kĩ thuật di chuyển tiến chéo bên trái đánh cầu thấp trái tay — moving diagonally forward left and playing the low backhand (original target `ball-games/badminton-techniques`) | Vietnam, *Vietnam Grade 11 GDTC 11 Badminton*, printed p. 30 |
+| Vietnam — Chủ đề 4 Bài 1, Kĩ thuật bỏ nhỏ thuận tay — the forehand drop shot: a soft attacking shot that falls just over the net (original target `ball-games/badminton-techniques`) | Vietnam, *Vietnam Grade 11 GDTC 11 Badminton*, printed p. 34 |
+| Vietnam — Chủ đề 4 Bài 2, Kĩ thuật bỏ nhỏ trái tay — the backhand drop shot (original target `ball-games/badminton-techniques`) | Vietnam, *Vietnam Grade 11 GDTC 11 Badminton*, printed p. 38 |
+| Vietnam — Chủ đề 5 Bài 1, Kĩ thuật bật nhảy đánh cầu cao thuận tay — the jumping forehand clear: taking off to hit the high shuttle down the court (original target `ball-games/badminton-techniques`) | Vietnam, *Vietnam Grade 11 GDTC 11 Badminton*, printed p. 42 |
+| Vietnam — Chủ đề 5 Bài 2, Phối hợp kĩ thuật di chuyển lùi chéo bên phải đánh cầu cao thuận tay — moving diagonally back right and playing the forehand clear (original target `ball-games/badminton-techniques`) | Vietnam, *Vietnam Grade 11 GDTC 11 Badminton*, printed p. 46 |
+| Vietnam — Chủ đề 5 Bài 3, Phối hợp kĩ thuật di chuyển lùi chéo bên trái đánh cầu cao thuận tay — moving diagonally back left and playing the forehand clear (original target `ball-games/badminton-techniques`) | Vietnam, *Vietnam Grade 11 GDTC 11 Badminton*, printed p. 50 |
+| Vietnam — Chủ đề 6 Bài 1, Kĩ thuật bật nhảy đập cầu thuận tay — the jumping forehand smash (original target `ball-games/badminton-techniques`) | Vietnam, *Vietnam Grade 11 GDTC 11 Badminton*, printed p. 54 |
+| Vietnam — Chủ đề 6 Bài 2, Phối hợp kĩ thuật di chuyển lùi chéo bên phải đập cầu thuận tay — moving diagonally back right and smashing forehand (original target `ball-games/badminton-techniques`) | Vietnam, *Vietnam Grade 11 GDTC 11 Badminton*, printed p. 58 |
+| Vietnam — Chủ đề 6 Bài 3, Phối hợp kĩ thuật di chuyển lùi chéo bên trái đập cầu thuận tay — moving diagonally back left and smashing forehand (original target `ball-games/badminton-techniques`) | Vietnam, *Vietnam Grade 11 GDTC 11 Badminton*, printed p. 62 |
+
+## Book 13 — GDTC 10 Cầu lông / PE Grade 10 Badminton (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 10 — Cầu lông (Kết nối tri thức với cuộc sống)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31085-9
+- PDF pages: 78 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 46 placements — 28 to existing lessons, 18 NEW LESSON NEEDED
+- Vietnam's own way: Phần I is the shared Quyết-team general-knowledge text (identical to Book 12's — its 4 Health placements are filed once with Book 12 in vietnam-health-placements.md); the badminton part runs the game's story (from Indian battledore to the Duke of Beaufort's "Badminton" and Vietnam's VBF) and its laws, then footwork, low shots, serving, high forehand shots and the smash.
+- Glossary (Bảng giải thích một số thuật ngữ, printed p. 74): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 2 Bài 1, Kĩ thuật di chuyển đơn bước — single-step movement: one step forward right or left, sideways, and back right or left from the ready position (original target `ball-games/badminton-techniques`) | Vietnam, *Vietnam Grade 10 GDTC 10 Badminton*, printed p. 19 |
+| Vietnam — Chủ đề 2 Bài 2, Kĩ thuật di chuyển nhiều bước — multi-step movement: sideways right and left, and moving forward and back over several steps (original target `ball-games/badminton-techniques`) | Vietnam, *Vietnam Grade 10 GDTC 10 Badminton*, printed p. 25 |
+| Vietnam — Chủ đề 3 Bài 1, Cách cầm vợt, cầu, tư thế chuẩn bị và kĩ thuật đánh cầu thấp thuận tay — how to hold the racket (forehand and backhand grips), how to hold the shuttle, the two ready stances, and the low forehand shot (original target `ball-games/badminton-techniques`) | Vietnam, *Vietnam Grade 10 GDTC 10 Badminton*, printed p. 29 |
+| Vietnam — Chủ đề 3 Bài 2, Kĩ thuật đánh cầu thấp trái tay — the low backhand shot (original target `ball-games/badminton-techniques`) | Vietnam, *Vietnam Grade 10 GDTC 10 Badminton*, printed p. 34 |
+| Vietnam — Chủ đề 3 Bài 3, Phối hợp kĩ thuật di chuyển tiến đánh cầu thấp tay — moving forward and playing the low shot, forehand or backhand (original target `ball-games/badminton-techniques`) | Vietnam, *Vietnam Grade 10 GDTC 10 Badminton*, printed p. 37 |
+| Vietnam — Chủ đề 3 Bài 4, Phối hợp kĩ thuật di chuyển ngang đánh cầu thấp tay — moving sideways and playing the low shot (original target `ball-games/badminton-techniques`) | Vietnam, *Vietnam Grade 10 GDTC 10 Badminton*, printed p. 40 |
+| Vietnam — Chủ đề 4 Bài 1, Kĩ thuật giao cầu thuận tay — the forehand serve: the high deep serve (original target `ball-games/badminton-techniques`) | Vietnam, *Vietnam Grade 10 GDTC 10 Badminton*, printed p. 44 |
+| Vietnam — Chủ đề 4 Bài 2, Kĩ thuật giao cầu trái tay — the backhand serve: short and low over the tape (original target `ball-games/badminton-techniques`) | Vietnam, *Vietnam Grade 10 GDTC 10 Badminton*, printed p. 48 |
+| Vietnam — Chủ đề 5 Bài 1, Kĩ thuật đánh cầu cao thuận tay — the forehand clear: hitting the shuttle high and deep from above the head (original target `ball-games/badminton-techniques`) | Vietnam, *Vietnam Grade 10 GDTC 10 Badminton*, printed p. 51 |
+| Vietnam — Chủ đề 5 Bài 2, Phối hợp kĩ thuật di chuyển lùi đánh cầu cao thuận tay — moving backwards and playing the forehand clear (original target `ball-games/badminton-techniques`) | Vietnam, *Vietnam Grade 10 GDTC 10 Badminton*, printed p. 55 |
+| Vietnam — Chủ đề 5 Bài 3, Phối hợp kĩ thuật di chuyển ngang đánh cầu cao thuận tay — moving sideways and playing the forehand clear (original target `ball-games/badminton-techniques`) | Vietnam, *Vietnam Grade 10 GDTC 10 Badminton*, printed p. 58 |
+| Vietnam — Chủ đề 6 Bài 1, Kĩ thuật đập cầu thuận tay — the forehand smash (original target `ball-games/badminton-techniques`) | Vietnam, *Vietnam Grade 10 GDTC 10 Badminton*, printed p. 62 |
+| Vietnam — Chủ đề 6 Bài 2, Phối hợp kĩ thuật di chuyển lùi đập cầu thuận tay — moving backwards and smashing forehand (original target `ball-games/badminton-techniques`) | Vietnam, *Vietnam Grade 10 GDTC 10 Badminton*, printed p. 66 |
+| Vietnam — Chủ đề 6 Bài 3, Phối hợp kĩ thuật di chuyển ngang đập cầu thuận tay — moving sideways and smashing forehand (original target `ball-games/badminton-techniques`) | Vietnam, *Vietnam Grade 10 GDTC 10 Badminton*, printed p. 70 |
+
+## Book 6 — GDTC 6 / PE Grade 6 (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 6 (Kết nối tri thức với cuộc sống)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2021 (5th reprint); ISBN 978-604-0-25647-8
+- PDF pages: 114 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 72 placements — 65 to existing lessons, 7 NEW LESSON NEEDED (plus 2 Health placements filed in vietnam-health-placements.md from this book's general-knowledge part)
+- Vietnam's own way: basic movement is athletics-led — the 60 m sprint in its four phases, ball throwing, middle-distance running with breathing rhythm, and the 30-count linked calisthenics routine; the chosen sports are badminton, football (taught through the 7-a-side laws) and basketball, each built from support exercises into first techniques, with a named game in every lesson.
+- Glossary (Bảng giải thích thuật ngữ, printed p. 110): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Phần Ba Chủ đề 1 Bài 1, Bài tập bổ trợ và di chuyển đơn bước — badminton beginnings: the forehand and backhand grips, three ways to hold the shuttle, the ready stances, shuttle juggling, and single-step movement (original target `ball-games/badminton-techniques`) | Vietnam, *Vietnam Grade 6 GDTC 6*, printed p. 62 |
+| Vietnam — Phần Ba Chủ đề 1 Bài 2, Kĩ thuật đánh cầu thấp tay bên phải, bên trái — low shots on the right side and the left side, with the court's measurements from the badminton laws (original target `ball-games/badminton-techniques`) | Vietnam, *Vietnam Grade 6 GDTC 6*, printed p. 68 |
+| Vietnam — Phần Ba Chủ đề 1 Bài 3, Kĩ thuật phát cầu trái tay — the backhand serve, with the basic serving laws (both players in their service boxes, contact below the waist) (original target `ball-games/badminton-techniques`) | Vietnam, *Vietnam Grade 6 GDTC 6*, printed p. 73 |
+
+## Book 7 — GDTC 7 / PE Grade 7 (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 7 (Kết nối tri thức với cuộc sống)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2022 (4th reprint); ISBN 978-604-0-30725-5
+- PDF pages: 94 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 66 placements — 60 to existing lessons, 6 NEW LESSON NEEDED (plus 3 Health placements filed in vietnam-health-placements.md from this book's general-knowledge part)
+- Vietnam's own way: the general-knowledge part teaches choosing and using the natural environment (air, sun, water, terrain) for training; basic movement combines the sprint phases, teaches the squat-style long jump phase by phase, middle-distance running (including the "dead point" and how to breathe through it), and a new 30-count linked routine; the chosen sports are badminton, football and basketball.
+- Glossary (Bảng giải thích thuật ngữ, printed p. 90): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Phần Ba Chủ đề 1 Bài 1, Kĩ thuật phát cầu thuận tay — the forehand serve: the high deep flight and the low short flight, with the rally scoring system (best of three games to 21) (original target `ball-games/badminton-techniques`) | Vietnam, *Vietnam Grade 7 GDTC 7*, printed p. 50 |
+| Vietnam — Phần Ba Chủ đề 1 Bài 2, Kĩ thuật đánh cầu cao tay bên phải — high forehand shots on the right side, with the elastic-band pull as a support exercise (original target `ball-games/badminton-techniques`) | Vietnam, *Vietnam Grade 7 GDTC 7*, printed p. 53 |
+| Vietnam — Phần Ba Chủ đề 1 Bài 3, Di chuyển ngang đánh cầu cao tay bên phải — moving sideways and playing the high forehand (original target `ball-games/badminton-techniques`) | Vietnam, *Vietnam Grade 7 GDTC 7*, printed p. 58 |
+
+## Book 8 — GDTC 8 / PE Grade 8 (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 8 (Kết nối tri thức với cuộc sống)
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2023 (3rd reprint); ISBN 978-604-0-35128-9
+- PDF pages: 96 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 63 placements — 56 to existing lessons, 7 NEW LESSON NEEDED (plus 3 Health placements filed in vietnam-health-placements.md from this book's general-knowledge part)
+- Vietnam's own way: the general-knowledge part is personal sports nutrition (energy needs, meal shares and ratios, eating for speed, endurance, strength and ball games); basic movement moves to the 100 m with a blocks start, the step-over high jump, middle-distance running, and rhythmic gymnastics to music; the chosen sports stay badminton, football and basketball at a higher level.
+- Glossary (Bảng giải thích thuật ngữ, printed p. 94): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Phần Ba Chủ đề 1 Bài 1, Di chuyển lùi đánh cầu cao tay bên phải — moving backwards and playing the high forehand, with the toss and service-position laws (original target `ball-games/badminton-techniques`) | Vietnam, *Vietnam Grade 8 GDTC 8*, printed p. 55 |
+| Vietnam — Phần Ba Chủ đề 1 Bài 2, Kĩ thuật đập cầu thuận tay — the forehand smash (original target `ball-games/badminton-techniques`) | Vietnam, *Vietnam Grade 8 GDTC 8*, printed p. 59 |
+| Vietnam — Phần Ba Chủ đề 1 Bài 3, Di chuyển ngang đập cầu thuận tay — moving sideways and smashing forehand (original target `ball-games/badminton-techniques`) | Vietnam, *Vietnam Grade 8 GDTC 8*, printed p. 63 |
+
+## Book 9 — GDTC 9 / PE Grade 9 (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 9 (Kết nối tri thức với cuộc sống)
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2024 (2nd reprint; national appraisal Decision 1551/QĐ-BGDĐT, 5 June 2023); ISBN 978-604-0-39367-8
+- PDF pages: 99 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 54 placements — 47 to existing lessons, 7 NEW LESSON NEEDED (plus 5 Health placements filed in vietnam-health-placements.md from this book's general-knowledge part)
+- Vietnam's own way: the general-knowledge part teaches hardening the body with air, cold water and sun, training in water and on terrain, and eating for speed, endurance, strength or ball games; basic movement consolidates the 100 m and middle-distance running, introduces the side-lying (western roll) high jump, and finishes the rhythmic routine; the chosen sports stay badminton, football and basketball.
+- Glossary (Bảng giải thích thuật ngữ, printed p. 94): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Phần Ba Chủ đề 1 Bài 1, Kĩ thuật bật nhảy đánh cầu cao tay bên phải — jumping to play the high forehand (original target `ball-games/badminton-techniques`) | Vietnam, *Vietnam Grade 9 GDTC 9*, printed p. 52 |
+| Vietnam — Phần Ba Chủ đề 1 Bài 2, Kĩ thuật bật nhảy đập cầu thuận tay — the jumping forehand smash, with the fault laws (shuttle caught on the net, touching the net, hitting twice) (original target `ball-games/badminton-techniques`) | Vietnam, *Vietnam Grade 9 GDTC 9*, printed p. 56 |
+| Vietnam — Phần Ba Chủ đề 1 Bài 3, Kĩ thuật bỏ nhỏ — drop shots at the net: the forehand drop and the backhand drop, played so the shuttle just tips over the tape (original target `ball-games/badminton-techniques`) | Vietnam, *Vietnam Grade 9 GDTC 9*, printed p. 60 |
+
+Vietnam's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. All twenty-one Vietnam books stocked in this expansion are STUDENT books, so Vietnam is student-book stock, inside the acceptance count, in this lesson. Game, dance and sport rules are taught only as the placements summarise them; none have been invented.

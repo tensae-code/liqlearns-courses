@@ -1,6 +1,6 @@
 # Sources — The Rules of Volleyball
 
-countries: Ethiopia, Timor-Leste, Pakistan, Afghanistan, China, Azerbaijan, Fiji, Mauritius, Iran, North Macedonia, Jordan, Malaysia, Cuba, Kuwait, Papua New Guinea, Sri Lanka, Rwanda, Greece, DR Congo, Myanmar
+countries: Ethiopia, Timor-Leste, Pakistan, Afghanistan, China, Azerbaijan, Fiji, Mauritius, Iran, North Macedonia, Jordan, Malaysia, Cuba, Kuwait, Papua New Guinea, Sri Lanka, Rwanda, Greece, DR Congo, Myanmar, Vietnam
 
 **Book — Grade 9 student:** *Health and Physical Education Student's Textbook Grade 9* (student textbook, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, First Published August 2023, ISBN 978-99990-0-072-7, 156 printed pp. Printed page = PDF page − 10. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g09-student-placements.md. COMPLETE.
 **Book — Grade 9 teacher (teacher guide — evidence):** *Health and Physical Education — Teacher Guide, Grade 9* (teacher guide, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, © 2022, printed pp. I–IX + 1–116. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g09-teacher-placements.md. COMPLETE.
@@ -15,7 +15,7 @@ countries: Ethiopia, Timor-Leste, Pakistan, Afghanistan, China, Azerbaijan, Fiji
 | Facilities, equipment and the referees (teacher guide — evidence) | Ethiopia, Grade 9 teacher Unit 5, Rules of volleyball (teacher guide — evidence), printed pp. 63–64 |
 
 | Timor-Leste — Appendix 4: Volleyball — the game's rules and mini-games (teacher guide — evidence) (original target `ball-games/the-rules-of-volleyball`) | Timor-Leste, *Educação Física 7, Guia do Professor* (Timor-Leste Grade 7 Teacher Guide), printed pp. 157–230 (Appendix 4) |
-**Acceptance count: taught in 13 countries (Ethiopia, Pakistan, China, Azerbaijan, Mauritius, Iran, North Macedonia, Jordan, Malaysia, Sri Lanka, Greece, DR Congo, Myanmar).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Timor-Leste is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count; the Myanmar teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
+**Acceptance count: taught in 14 countries (Ethiopia, Pakistan, China, Azerbaijan, Mauritius, Iran, North Macedonia, Jordan, Malaysia, Sri Lanka, Greece, DR Congo, Myanmar, Vietnam).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Timor-Leste is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count; the Myanmar teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Vietnam is added as student-book stock (see its Vietnam section below), inside the acceptance count.
 
 The Grade 9 books are the English federal 2023 GEQIP-E series; Grade 9 target terms are given as the books print them, in English. The Grade 9 teacher guide is COMPLETE.
 
@@ -676,3 +676,57 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/myanmar-pe-p
 | Myanmar — Lesson plan 2-4-2 — teaching volleyball rotation and the libero (original target `ball-games/the-rules-of-volleyball`) | Myanmar G10 PE Teacher Guide, printed p. 28 |
 
 Myanmar's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Myanmar is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 1); its teacher guides stocked here (Book 2) are evidence only, outside the acceptance count. The learnbig.net mirror records of these books are parallel records of the same books, not separate books, as filed in the placements file's reconciliation. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Vietnam — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. Vietnam's twenty-one books stocked in this expansion are all STUDENT books (Giáo dục thể chất / GDTC, Kết nối tri thức với cuộc sống, Nhà xuất bản Giáo dục Việt Nam), all read COMPLETE and secured via the GitHub mid-size-books release assets, as filed (the books.json "pushed" route; the repo-tree route named in the brief returned 404 for every Vietnam path — these books live as release assets, not tree files). Vietnam is therefore filed as student-book stock, inside the acceptance count, in this lesson. The Grade 10–12 elective-sport books share general-knowledge parts whose Health placements are filed once per grade in vietnam-health-placements.md, as filed; the Grade 12 download-list records for volleyball, basketball and badminton are the same books as the secured Grade 12 books, not separate books, as filed. Each book's glossary (Bảng giải thích thuật ngữ) is inventory only, named in the book lines and not placed, as filed. Filing note: the placements file's printed tallies for Book 2 (52) and Book 13 (46) differ from their placement lines as filed (53 and 44 lines); every placement line is stocked, 878 lines in all.
+
+## Book 18 — GDTC 12 Bóng chuyền / PE Grade 12 Volleyball (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 12 — Bóng chuyền (Kết nối tri thức với cuộc sống)
+- Grade: 12 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2023 (national textbook appraisal Decision 1882/QĐ-BGDĐT, 29 June 2023); no ISBN printed
+- PDF pages: 64 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 21 placements — 19 to existing lessons, 2 NEW LESSON NEEDED (plus 4 Health placements filed in vietnam-health-placements.md from this book's shared general-knowledge part)
+- Vietnam's own way: the Grade 10–12 elective-sport books share one general-knowledge part (natural factors and nutrition for training) and then go deep into one sport — formal competition rules and refereeing first, then technique, then combined technique, then team tactics; every technique lesson is built from set numbered drills on court diagrams plus a named support game. The Grade 12 download-list records for volleyball, basketball and badminton are this same book (cover-image links), not separate books.
+- Glossary (Bảng giải thích thuật ngữ, printed p. 59): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 1 Bài 2, Một số điều luật thi đấu và phương pháp trọng tài môn Bóng chuyền — competition rules and refereeing method from the FIVB 2021 rules: the toss, forfeits, faults, the referees' duties and the official hand signals (original target `ball-games/the-rules-of-volleyball`) | Vietnam, *Vietnam Grade 12 GDTC 12 Volleyball*, printed p. 16 |
+
+## Book 14 — GDTC 11 Bóng chuyền / PE Grade 11 Volleyball (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 11 — Bóng chuyền (Kết nối tri thức với cuộc sống)
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35179-1
+- PDF pages: 58 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 20 placements — 18 to existing lessons, 2 NEW LESSON NEEDED (plus 3 Health placements filed in vietnam-health-placements.md from this book's general-knowledge part)
+- Vietnam's own way: the Grade 11 books carry the same general-knowledge topic as Grade 12 (natural factors and nutrition) in a Grade 11 text, then one sport in depth — here: what volleyball does for the body, selected FIVB laws, movement and passing, serving and spiking, and basic match tactics.
+- Glossary (Bảng giải thích thuật ngữ, printed p. 54): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 1 Bài 2, Một số điều luật thi đấu môn Bóng chuyền — selected FIVB 2021 laws: interruptions and time-outs, substitution limits, delay penalties, the interval and changing courts, the Libero, and the misconduct penalty table (original target `ball-games/the-rules-of-volleyball`) | Vietnam, *Vietnam Grade 11 GDTC 11 Volleyball*, printed p. 12 |
+
+## Book 10 — GDTC 10 Bóng chuyền / PE Grade 10 Volleyball (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 10 — Bóng chuyền (Kết nối tri thức với cuộc sống)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31176-4
+- PDF pages: 70 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 23 placements — 17 to existing lessons, 6 NEW LESSON NEEDED (plus 4 Health placements filed in vietnam-health-placements.md from this book's general-knowledge part)
+- Vietnam's own way: the Grade 10 books open with the sport's story (here volleyball from William G. Morgan's 1895 "Mintonette" to Vietnam's own federation and leagues), then the basic laws, then technique from the ready position up — ready positions and footwork, the two passes, the low serve, the spike and the block.
+- Glossary (Bảng giải thích thuật ngữ, printed p. 66): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 1 Bài 2, Một số điều luật cơ bản về sân tập, dụng cụ và thi đấu Bóng chuyền — FIVB 2021 basics: the court and free zone, net heights, the ball, scoring and winning a set, rotation and positions, how the ball may be played, service order and the main faults (original target `ball-games/the-rules-of-volleyball`) | Vietnam, *Vietnam Grade 10 GDTC 10 Volleyball*, printed p. 14 |
+
+Vietnam's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. All twenty-one Vietnam books stocked in this expansion are STUDENT books, so Vietnam is student-book stock, inside the acceptance count, in this lesson. Game, dance and sport rules are taught only as the placements summarise them; none have been invented.

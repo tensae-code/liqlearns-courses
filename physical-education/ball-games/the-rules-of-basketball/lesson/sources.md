@@ -1,6 +1,6 @@
 # Sources — The Rules of Basketball
 
-countries: Ethiopia, Timor-Leste, Pakistan, Afghanistan, China, Azerbaijan, Belize, Honduras, Iran, North Macedonia, Jordan, Malaysia, Cuba, Kuwait, Papua New Guinea, Rwanda, Greece, DR Congo, Myanmar
+countries: Ethiopia, Timor-Leste, Pakistan, Afghanistan, China, Azerbaijan, Belize, Honduras, Iran, North Macedonia, Jordan, Malaysia, Cuba, Kuwait, Papua New Guinea, Rwanda, Greece, DR Congo, Myanmar, Vietnam
 
 **Book — Grade 9 student:** *Health and Physical Education Student's Textbook Grade 9* (student textbook, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, First Published August 2023, ISBN 978-99990-0-072-7, 156 printed pp. Printed page = PDF page − 10. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g09-student-placements.md. COMPLETE.
 **Book — Grade 9 teacher (teacher guide — evidence):** *Health and Physical Education — Teacher Guide, Grade 9* (teacher guide, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, © 2022, printed pp. I–IX + 1–116. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g09-teacher-placements.md. COMPLETE.
@@ -18,7 +18,7 @@ countries: Ethiopia, Timor-Leste, Pakistan, Afghanistan, China, Azerbaijan, Beli
 | Teams of twelve, uniforms, and how the game is run (teacher guide — evidence) | Ethiopia, Grade 10 teacher Unit 6, Basketball rules in detail (teacher guide — evidence) (§6.1.1 teams of twelve incl. captain, coach and assistant coach as delegates; §6.1.2 uniform, numbers 0–99; §6.1.4 the captain; §6.1.5 the head coach; §6.1.6 playing regulation; §6.1.7 goal; §6.1.8 throw-in; §6.1.9 time-out; §6.1.10 substitution), printed pp. 70–72 |
 
 | Timor-Leste — Appendix 4: Basketball — the game's rules and mini-games (teacher guide — evidence) (original target `ball-games/the-rules-of-basketball`) | Timor-Leste, *Educação Física 7, Guia do Professor* (Timor-Leste Grade 7 Teacher Guide), printed p. 197 |
-**Acceptance count: taught in 12 countries (Ethiopia, Pakistan, China, Azerbaijan, Honduras, Iran, North Macedonia, Jordan, Malaysia, Greece, DR Congo, Myanmar).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Timor-Leste is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count; the Myanmar teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
+**Acceptance count: taught in 13 countries (Ethiopia, Pakistan, China, Azerbaijan, Honduras, Iran, North Macedonia, Jordan, Malaysia, Greece, DR Congo, Myanmar, Vietnam).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Timor-Leste is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count; the Myanmar teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Vietnam is added as student-book stock (see its Vietnam section below), inside the acceptance count.
 
 The Grade 10 teacher guide is substantively complete (printed pp. I–IX + 1–93): all 8 units, knowledge content and answer keys are present; only §8.3's final step-by-step teaching procedure is cut mid-sentence at printed p. 92. Nothing in this lesson rests on the cut tail. Teacher-guide rows are evidence only and never count as pupil-taught.
 
@@ -599,3 +599,57 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/myanmar-pe-p
 | Myanmar — Lesson plan 2-4-3 — teaching basketball and the 3×3 game (original target `ball-games/the-rules-of-basketball`) | Myanmar G10 PE Teacher Guide, printed pp. 28–29 |
 
 Myanmar's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Myanmar is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 1); its teacher guides stocked here (Book 2) are evidence only, outside the acceptance count. The learnbig.net mirror records of these books are parallel records of the same books, not separate books, as filed in the placements file's reconciliation. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Vietnam — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. Vietnam's twenty-one books stocked in this expansion are all STUDENT books (Giáo dục thể chất / GDTC, Kết nối tri thức với cuộc sống, Nhà xuất bản Giáo dục Việt Nam), all read COMPLETE and secured via the GitHub mid-size-books release assets, as filed (the books.json "pushed" route; the repo-tree route named in the brief returned 404 for every Vietnam path — these books live as release assets, not tree files). Vietnam is therefore filed as student-book stock, inside the acceptance count, in this lesson. The Grade 10–12 elective-sport books share general-knowledge parts whose Health placements are filed once per grade in vietnam-health-placements.md, as filed; the Grade 12 download-list records for volleyball, basketball and badminton are the same books as the secured Grade 12 books, not separate books, as filed. Each book's glossary (Bảng giải thích thuật ngữ) is inventory only, named in the book lines and not placed, as filed. Filing note: the placements file's printed tallies for Book 2 (52) and Book 13 (46) differ from their placement lines as filed (53 and 44 lines); every placement line is stocked, 878 lines in all.
+
+## Book 19 — GDTC 12 Bóng rổ / PE Grade 12 Basketball (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 12 — Bóng rổ (Kết nối tri thức với cuộc sống)
+- Grade: 12 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2023 (national textbook appraisal Decision 1882/QĐ-BGDĐT, 29 June 2023); no ISBN printed
+- PDF pages: 75 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 24 placements — 22 to existing lessons, 2 NEW LESSON NEEDED
+- Vietnam's own way: same shared general-knowledge part as the other Grade 12 sport books (Phần Một, printed pp. 4–10, identical text — its 4 Health placements are filed once with Book 18 in vietnam-health-placements.md); the basketball part then runs rules (here the 3x3 game) → movement and passing technique → shooting technique → match tactics, every lesson built from numbered court-diagram drills plus a named support game.
+- Glossary (Bảng giải thích thuật ngữ, printed p. 69): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 1 Bài 2, Một số điều luật thi đấu Bóng rổ 3x3 và phương pháp trọng tài — the FIBA 2021 3x3 rules: court and ball, teams, referees, playing time and scoring, fouls and free throws, the 12-second rule, substitutions, and the referees' hand signals (original target `ball-games/the-rules-of-basketball`) | Vietnam, *Vietnam Grade 12 GDTC 12 Basketball*, printed p. 15 |
+
+## Book 15 — GDTC 11 Bóng rổ / PE Grade 11 Basketball (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 11 — Bóng rổ (Kết nối tri thức với cuộc sống)
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35180-7
+- PDF pages: 66 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 23 placements — 22 to existing lessons, 1 NEW LESSON NEEDED
+- Vietnam's own way: Phần Một is the shared Grade 11 general-knowledge text (identical to Book 14's — its 3 Health placements are filed once with Book 14 in vietnam-health-placements.md); the basketball part runs what basketball does for the body and the throw-in/free-throw laws → passing, jump-stop and pivot, jump shot → fakes and dribbling → small-group tactics and zone defence.
+- Glossary (Bảng giải thích thuật ngữ, printed p. 62): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 1 Bài 2, Các tình huống được phát bóng biên và ném phạt trong thi đấu môn Bóng rổ — FIBA 2022 extracts: when a throw-in is awarded (Article 17) and when free throws are awarded (Article 43), with the referees' signals (original target `ball-games/the-rules-of-basketball`) | Vietnam, *Vietnam Grade 11 GDTC 11 Basketball*, printed p. 12 |
+
+## Book 11 — GDTC 10 Bóng rổ / PE Grade 10 Basketball (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 10 — Bóng rổ (Kết nối tri thức với cuộc sống)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31174-0
+- PDF pages: 58 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 20 placements — 18 to existing lessons, 2 NEW LESSON NEEDED
+- Vietnam's own way: Phần Một is the shared Grade 10 general-knowledge text (identical to Book 10's — its 4 Health placements are filed once with Book 10 in vietnam-health-placements.md); the basketball part runs the game's story (Naismith's peach baskets to Vietnam's professional league) and basic FIBA laws, then movement, dribbling, the chest pass, and shooting.
+- Glossary (Bảng giải thích thuật ngữ, printed p. 54): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 1 Bài 2, Một số điều luật cơ bản về sân tập, dụng cụ và thi đấu Bóng rổ — FIBA 2018 basics: the court and equipment, teams, playing time and time-outs, how the ball is played, scoring, the dribbling, travelling, 3-second, 5-second, 8-second and 24-second rules, fouls and their penalties (original target `ball-games/the-rules-of-basketball`) | Vietnam, *Vietnam Grade 10 GDTC 10 Basketball*, printed p. 16 |
+
+Vietnam's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. All twenty-one Vietnam books stocked in this expansion are STUDENT books, so Vietnam is student-book stock, inside the acceptance count, in this lesson. Game, dance and sport rules are taught only as the placements summarise them; none have been invented.

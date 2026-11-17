@@ -999,6 +999,45 @@ Grade 12 with apparatus gymnastics, the triple jump,
 all three high-jump styles, and football and petanque
 as the two-sport elective.
 
+**PE expansion — Vietnam — BUILT 2026-11-16:** 878 placements
+from Vietnam's twenty-one GDTC student books (Grades 1–9
+general books and the Grade 10–12 elective-sport books —
+volleyball, basketball, football and badminton at each
+grade; Giáo dục thể chất, Kết nối tri thức với cuộc sống,
+Nhà xuất bản Giáo dục Việt Nam; secured via the GitHub
+mid-size-books release assets, as filed) stocked — 860
+into existing lessons and 18 as 4 new lessons (Climbing;
+Basketball Rebounding and Boxing Out; Volleyball
+Footwork and Ready Positions; Traditional Games of
+Vietnam) — bringing this course to **231 lessons**. All
+twenty-one Vietnam books are STUDENT books, all read
+COMPLETE, so Vietnam is student-book stock, inside the
+acceptance counts, in every lesson it touches; the new
+lessons stand at acceptance count 1. No Vietnam PE
+placement resolves to a Health-course lesson, so none
+was excluded as Health-bound; the books'
+general-knowledge and safety parts are filed in
+vietnam-health-placements.md. The Grade 10–12 sport
+books share general-knowledge parts (identical text
+within each grade), filed once per grade in the Health
+file, as filed; the Grade 12 download-list records are
+duplicates of the secured Grade 12 books, as filed. Each
+book's glossary is inventory only, not placed, as filed.
+Filing note: the placements file's printed tallies for
+Book 2 (52) and Book 13 (46) differ from their placement
+lines as filed (53 and 44); every placement line is
+stocked — 878 in all. Vietnam's own way is content: the
+primary years built as drill formations first, then
+counted calisthenics, then body-part movement skills,
+then an elective sport (basketball or swimming), every
+lesson in the same shape — joint-rotation warm-up, a
+warm-up game, the new movement taught with commands and
+beat-by-beat pictures, practice alone, in pairs and in
+groups, a named support game, then picture-check
+questions; the secondary elective-sport books run formal
+competition rules and refereeing first, then technique,
+then combined technique, then team tactics.
+
 ## Unit 1 — Moving Basics
 
 1. **Combined Travelling and On-the-Spot Movements** (`moving-basics/combined-travelling-and-on-the-spot`) — joining travelling movements together, joining on-the-spot movements together, and chaining the two families in one sequence.
@@ -1030,6 +1069,7 @@ as the two-sport elective.
 22. **Combat Sports** (`moving-basics/combat-sports`) — combat sports: safe falling, gripping, throws, holds and escapes — taught through judo-style practice, with combat ethics — taught in Zimbabwe's Grade 6 learner's book as stance: upright posture and stance in martial arts/combat games (printed p. 71), and in its Grade 5 and Grade 7 teacher guides as stance in target/combat games (teacher guides, evidence only) (Zimbabwe's Grade 6 student book; its Grade 5 and Grade 7 teacher guides, evidence only).
 23. **Combining and Adapting Movements** (`moving-basics/combining-and-adapting-movements`) — combining and adapting movements: joining skills into sequences and adapting them in complex, real and changing situations — taught in Indonesia's Grade 9 PJOK book as combinations and sequences of movement, complex advanced movements, applying movement in real situations and body control and accuracy, in its Grade 10 book as adapting to challenging movement situations, and in its Grade 12 book as movement skills in complex situations and innovating movement solutions (Indonesia's student books; its teacher guides, evidence only).
 24. **Pencak Silat** (`moving-basics/pencak-silat`) — pencak silat: Indonesia's martial art — punches, kicks and sweeps — taught in Indonesia's Grade 12 PJOK teacher guide as pencak silat techniques: straight and circular punches, T-kick, back kick and sweeps (Indonesia's Grade 12 teacher guide, evidence only).
+25. **Climbing** (`moving-basics/climbing`) — climbing: climbing ladders, frames and routes — holds, safe falling, belaying and spotting — taught in Vietnam's Grade 5 GDTC 5 student book as the A-frame ladder skills: climbing up one foot at a time and alternating feet and down again, only with a helper, then clambering over an obstacle and over the ladder, and combining climbing and clambering on a course (Vietnam's student book).
 
 ## Unit 2 — Fitness and Stretching
 
@@ -1159,6 +1199,8 @@ as the two-sport elective.
 41. **Introducing Racket Games** (`ball-games/introducing-racket-games`) — introducing racket games: first skills with a racket and bat — bouncing, hitting to a wall or partner, and first rallies — taught in DR Congo's Grade 1 EPS book as tennis first skills (palm, then small racket, to a wall or partner) and in its Grade 2 book as the table-tennis first skills (bat grip, bouncing on the table) (DR Congo's student books).
 42. **Refereeing and Fair Play** (`ball-games/refereeing-and-fair-play`) — refereeing and fair play: taking the whistle, judging impartially and playing fair — taught in DR Congo's 2ème Pédagogie Générale manual as refereeing and sportsmanship, with pupils taking the whistle (DR Congo's student book).
 43. **Petanque** (`ball-games/petanque`) — petanque: the story of the game and how to hold, point and shoot the boule — taught in Laos's Grade 12 (M7) teacher guide as its two-sport elective's second sport: the history and importance of petanque, a leading Lao sport, the basic petanque throwing techniques, and the rules of petanque, each cited to the guide's year scheme of work (Laos's teacher guide, evidence only).
+44. **Basketball Rebounding and Boxing Out** (`ball-games/basketball-rebounding-and-boxing-out`) — basketball rebounding and boxing out: sealing off an opponent and taking the rebound — taught in Vietnam's Grade 12 GDTC 12 Basketball student book: boxing out — turning into the attacker, sealing them off with back and hips — then taking the rebound (Vietnam's student book).
+45. **Volleyball Footwork and Ready Positions** (`ball-games/volleyball-footwork-and-ready-positions`) — volleyball ready positions and footwork: the high, medium and low stances and the basic steps — taught in Vietnam's Grade 10 GDTC 10 Volleyball student book: the three ready positions, high, medium and low, and when each is used, and the basic steps — the plain step, the sliding step, the cross step and the wide straddle step (Vietnam's student book).
 
 
 ## Unit 6 — Games to Play
@@ -1260,6 +1302,7 @@ as the two-sport elective.
 60. **Traditional Games of Myanmar** (`traditional-games-and-dances/traditional-games-of-myanmar`) — traditional games of Myanmar: Myanmar's own games — Htok-See-Toe tag, the Jasmine Flower game and White Rope, Black Rope — taught in Myanmar's Grade 6 and Grade 7 student books as Htok-See-Toe, the traditional line-crossing tag game with its court zones, runners, taggers and full rules, and in its Grade 2 student book as the two named traditional call-and-chase games, "What Time Is It, Great Jasmine Flower?" and White Rope, Black Rope, each printed with its full rules (Myanmar's student books; its teacher guides, evidence only).
 61. **Traditional Games of Laos** (`traditional-games-and-dances/traditional-games-of-laos`) — traditional games of Laos: the named Lao playground and chase games — animal games, circle games, dance-games and ball games — taught across Laos's primary teacher guides (Grades 1–5, 2007–2021) as named games: the bear carries rice, snatch the monkey's tail, the tiger chases the pig, Nang Mon hides the cloth, catch the rabbit, catch the bird, flowing water and whirlpool, the tortoise lays eggs, kick the ball at the target, zigzag running and dozens more (Laos's teacher guides, evidence only).
 62. **Traditional Dances of Laos** (`traditional-games-and-dances/traditional-dances-of-laos`) — traditional dances of Laos: the Lao folk dances (fon), taught step by step — taught in Laos's 2007–2009 primary teacher guides and its Grade 4 guide of 2009 as one named dance at a time: Kan Bin, Songkran, Thang Viset, Yat Duang, sending and receiving, dancing around the post and dozens more (Laos's teacher guides, evidence only).
+63. **Traditional Games of Vietnam** (`traditional-games-and-dances/traditional-games-of-vietnam`) — traditional games of Vietnam: the chase and playground games Vietnamese children play — taught in Vietnam's Grade 1–3 GDTC student books as named games: Mèo và chim sẻ (cat and sparrows), Bịt mắt bắt dê (blindfold catching the goat), Dung dăng dung dẻ (the singing circle game), Kéo lưới bắt cá (dragnet fishing), Mèo đuổi chuột (cat chases mouse), Bỏ khăn (drop the handkerchief), Kéo cưa lừa xẻ (the sawing-song game), Chọi gà (cockfighting), Lộn cầu vồng (rainbow somersault) and Đếm sao (counting stars) (Vietnam's student books).
 
 ## Unit 8 — Sport and Its Story
 

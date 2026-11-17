@@ -1,6 +1,6 @@
 # Sources — Games for Communication and Cooperation
 
-countries: Ethiopia, Samoa, Timor-Leste, Nicaragua, Honduras, Fiji, Cuba, Indonesia, Papua New Guinea, Sri Lanka, Rwanda, DR Congo, Turkey, Myanmar, Laos
+countries: Ethiopia, Samoa, Timor-Leste, Nicaragua, Honduras, Fiji, Cuba, Indonesia, Papua New Guinea, Sri Lanka, Rwanda, DR Congo, Turkey, Myanmar, Laos, Vietnam
 
 **Book 1:** *Grade 3 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–65 + front matter (72 PDF pages). Printed page = PDF page − 7. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g03-student-placements.md.
 
@@ -40,7 +40,7 @@ countries: Ethiopia, Samoa, Timor-Leste, Nicaragua, Honduras, Fiji, Cuba, Indone
 | Prove-it questions folded from the book's own Chapter 2 review — Sub lesson 7 (teacher guide — evidence) | Ethiopia, *Grade 7 Teacher Guide*, Chapter 2 review answers, printed pp. 25–26 (teacher guide — evidence) |
 | Samoa — Socialisation through physical activities, Years 1–4 — life skills in movement lessons: cooperation and sharing, following instructions and rules, trusting others (curriculum statement — evidence) (original target `games-to-play/games-for-communication-and-cooperation`) | Samoa, *Health and Physical Education, Years 1–8, Primary School Curriculum* (Samoa Years 1–8 Curriculum), printed p. 26 |
 | Timor-Leste — Period 1: Getting to know each other and creating essential agreements — the class agrees how it will work, play and treat each other (original target `games-to-play/games-for-communication-and-cooperation`) | Timor-Leste, *Educação Física 7, Manual do aluno* (Timor-Leste Grade 7 Student Book), printed p. 4 |
-**Acceptance count: taught in 7 countries (Ethiopia, Timor-Leste, Indonesia, Sri Lanka, DR Congo, Turkey, Myanmar).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Samoa is added as curriculum-statement evidence only (see its row above), named in the countries line but outside the acceptance count. Timor-Leste is added as student-book stock (see its row above), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Honduras is added as teacher-guide evidence only (see its Honduras section below), named in the countries line but outside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count; the Indonesia teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count. Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count; the Myanmar teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Laos is added as teacher-guide evidence only (see its Laos section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 8 countries (Ethiopia, Timor-Leste, Indonesia, Sri Lanka, DR Congo, Turkey, Myanmar, Vietnam).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Samoa is added as curriculum-statement evidence only (see its row above), named in the countries line but outside the acceptance count. Timor-Leste is added as student-book stock (see its row above), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Honduras is added as teacher-guide evidence only (see its Honduras section below), named in the countries line but outside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count; the Indonesia teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count. Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count; the Myanmar teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Laos is added as teacher-guide evidence only (see its Laos section below), named in the countries line but outside the acceptance count. Vietnam is added as student-book stock (see its Vietnam section below), inside the acceptance count.
 
 The Grade 3 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -630,3 +630,159 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/laos-pe-plac
 | Laos — Lesson 8 Dance-game: tug of the rope: tug-of-war as a class game (teacher guide — evidence) (original target `games-to-play/games-for-communication-and-cooperation`) | Laos, *Laos Grade 5 G5 PE & Handicraft TG 2009*, printed pp. 33–35 |
 
 Laos's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. All thirteen Laos books stocked in this expansion are TEACHER guides, so Laos is teacher-guide evidence only in this lesson, outside the acceptance count. The two mislabelled "PE guide" files recorded in the placements file (Books R1–R2) are record-only UNREAD for PE, exactly as filed: the Grade 11 (M6) record's file is a French LV2 teacher guide and the Grade 7 (M2) record's file is a Japanese language student book; the real Grade 11 and Grade 7 PE guides are not held — library debt, as filed. Game, dance and sport rules are taught only as the placements summarise them; none have been invented.
+
+## Vietnam — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. Vietnam's twenty-one books stocked in this expansion are all STUDENT books (Giáo dục thể chất / GDTC, Kết nối tri thức với cuộc sống, Nhà xuất bản Giáo dục Việt Nam), all read COMPLETE and secured via the GitHub mid-size-books release assets, as filed (the books.json "pushed" route; the repo-tree route named in the brief returned 404 for every Vietnam path — these books live as release assets, not tree files). Vietnam is therefore filed as student-book stock, inside the acceptance count, in this lesson. The Grade 10–12 elective-sport books share general-knowledge parts whose Health placements are filed once per grade in vietnam-health-placements.md, as filed; the Grade 12 download-list records for volleyball, basketball and badminton are the same books as the secured Grade 12 books, not separate books, as filed. Each book's glossary (Bảng giải thích thuật ngữ) is inventory only, named in the book lines and not placed, as filed. Filing note: the placements file's printed tallies for Book 2 (52) and Book 13 (46) differ from their placement lines as filed (53 and 44 lines); every placement line is stocked, 878 lines in all.
+
+## Book 1 — GDTC 1 / PE Grade 1 (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 1 (Kết nối tri thức với cuộc sống)
+- Grade: 1 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year ©2020, 6th reprint; ISBN 978-604-0-19562-3
+- PDF pages: 98 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 49 placements — 36 to existing lessons, 13 NEW LESSON NEEDED (plus 4 Health placements filed in vietnam-health-placements.md from this book's general-knowledge and safety parts)
+- Vietnam's own way: every lesson follows the same shape — joint-rotation warm-up, a warm-up game, the new movement taught with commands and beat-by-beat pictures, practice alone/in pairs/in groups, a named support game, then picture-check questions; the year is built as drill formations first, then counted calisthenics, then body-part movement skills, then an elective sport (basketball or swimming).
+- Glossary (Bảng giải thích thuật ngữ, printed p. 94): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 2 Bài 2, Trò chơi Kết bạn — make-friends grouping game (original target `games-to-play/games-for-communication-and-cooperation`) | Vietnam, *Vietnam Grade 1 GDTC 1*, printed p. 31 |
+| Vietnam — Môn Bóng rổ Bài 4, Trò chơi Chuyền bóng qua đầu — pass the ball overhead down the line (original target `games-to-play/games-for-communication-and-cooperation`) | Vietnam, *Vietnam Grade 1 GDTC 1*, printed p. 77 |
+
+## Book 2 — GDTC 2 / PE Grade 2 (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 2 (Kết nối tri thức với cuộc sống)
+- Grade: 2 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year ©2021, 5th reprint; ISBN 978-604-0-25138-1
+- PDF pages: 98 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 52 placements — 41 to existing lessons, 11 NEW LESSON NEEDED (plus 6 Health placements filed in vietnam-health-placements.md)
+- Vietnam's own way: Grade 2 builds on Grade 1 — formations now change shape (column/rank into a circle and back) and add marching on the spot; movement skills become walking marked lines straight and curved, speeding up into running; swimming advances from floating to pushing off and gliding.
+- Glossary (Bảng giải thích thuật ngữ, printed p. 94): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 1 Bài 2, Trò chơi Kết bạn — make-friends game (original target `games-to-play/games-for-communication-and-cooperation`) | Vietnam, *Vietnam Grade 2 GDTC 2*, printed p. 13 |
+| Vietnam — Chủ đề 2 Bài 2, Trò chơi Chèo thuyền — rowing-the-boat team coordination game (original target `games-to-play/games-for-communication-and-cooperation`) | Vietnam, *Vietnam Grade 2 GDTC 2*, printed p. 29 |
+| Vietnam — Chủ đề 3 Bài 2, Trò chơi Tìm tên theo chủ đề — find-names-by-topic circle game (football, basketball, shuttlecock named) (original target `games-to-play/games-for-communication-and-cooperation`) | Vietnam, *Vietnam Grade 2 GDTC 2*, printed p. 40 |
+| Vietnam — Môn Bóng rổ Bài 1, Trò chơi Anh em đoàn kết — united-siblings running game (original target `games-to-play/games-for-communication-and-cooperation`) | Vietnam, *Vietnam Grade 2 GDTC 2*, printed p. 66 |
+
+## Book 3 — GDTC 3 / PE Grade 3 (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 3 (Kết nối tri thức với cuộc sống)
+- Grade: 3 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year ©2022, 4th reprint; ISBN 978-604-0-30701-9
+- PDF pages: 98 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 60 placements — 48 to existing lessons, 12 NEW LESSON NEEDED (plus 3 Health placements filed in vietnam-health-placements.md)
+- Vietnam's own way: Grade 3 drill work becomes formation-changing (one column/rank/circle splitting into two or three) and marching in step — the book shows it used at the Hội khoẻ Phù Đổng school sports festival; movement skills become travelling over obstacles on straight, zigzag and real terrain; swimming reaches kicking, arm strokes and the first combined swimming.
+- Glossary (Bảng giải thích thuật ngữ, printed p. 94): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Môn Bóng rổ Bài 3, Trò chơi Chuyền bóng 20 — pass-the-ball-20 team passing game (original target `games-to-play/games-for-communication-and-cooperation`) | Vietnam, *Vietnam Grade 3 GDTC 3*, printed p. 75 |
+
+## Book 19 — GDTC 12 Bóng rổ / PE Grade 12 Basketball (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 12 — Bóng rổ (Kết nối tri thức với cuộc sống)
+- Grade: 12 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2023 (national textbook appraisal Decision 1882/QĐ-BGDĐT, 29 June 2023); no ISBN printed
+- PDF pages: 75 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 24 placements — 22 to existing lessons, 2 NEW LESSON NEEDED
+- Vietnam's own way: same shared general-knowledge part as the other Grade 12 sport books (Phần Một, printed pp. 4–10, identical text — its 4 Health placements are filed once with Book 18 in vietnam-health-placements.md); the basketball part then runs rules (here the 3x3 game) → movement and passing technique → shooting technique → match tactics, every lesson built from numbered court-diagram drills plus a named support game.
+- Glossary (Bảng giải thích thuật ngữ, printed p. 69): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 4 Bài 2, Trò chơi Cùng nhau vượt khó — overcoming difficulty together: knock the cones down and set them up again as a team relay (original target `games-to-play/games-for-communication-and-cooperation`) | Vietnam, *Vietnam Grade 12 GDTC 12 Basketball*, printed p. 68 |
+
+## Book 20 — GDTC 12 Bóng đá / PE Grade 12 Football (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 12 — Bóng đá (Kết nối tri thức với cuộc sống)
+- Grade: 12 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2024 (2nd reprint); ISBN 978-604-0-39249-7
+- PDF pages: 91 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 36 placements — 25 to existing lessons, 11 NEW LESSON NEEDED (plus 4 Health placements filed in vietnam-health-placements.md from this book's general-knowledge part)
+- Vietnam's own way: this football book is a different author team's edition from the other three Grade 12 sport books — its general-knowledge part covers the same ground (natural factors, nutrition) in its own words, and the football part runs laws → kicking → stopping → heading → goalkeeping → winning the ball → group tactics, again with a named game in every lesson. The Grade 12 football download-list record (taphuan.nxbgd.vn page, "print 87 tr, ISBN 9786040392497") is this same book: the ISBN matches exactly and the printed book has 87 pages.
+- Glossary (Bảng giải thích một số thuật ngữ, printed p. 86): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 4 Bài 1, Trò chơi Đồng đội — team-mates: the hopping circle game that starts only when the pair in front has finished (original target `games-to-play/games-for-communication-and-cooperation`) | Vietnam, *Vietnam Grade 12 GDTC 12 Football*, printed p. 50 |
+
+## Book 17 — GDTC 11 Cầu lông / PE Grade 11 Badminton (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 11 — Cầu lông (Kết nối tri thức với cuộc sống)
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35055-8
+- PDF pages: 82 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 47 placements — 33 to existing lessons, 14 NEW LESSON NEEDED (plus 4 Health placements filed in vietnam-health-placements.md from this book's general-knowledge part)
+- Vietnam's own way: from the same author team as the Grade 11 and 12 football books — its own general-knowledge text, then badminton built step by step: movement first, then movement combined with low shots, drop shots, high forehand shots and smashes, and singles tactics last; every lesson carries a warm-up game and a support game.
+- Glossary (Bảng giải thích một số thuật ngữ, printed p. 78): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 2 Bài 2, Trò chơi Dựa lưng di chuyển — moving back to back: pairs lean on each other and travel to the finish (original target `games-to-play/games-for-communication-and-cooperation`) | Vietnam, *Vietnam Grade 11 GDTC 11 Badminton*, printed p. 25 |
+
+## Book 11 — GDTC 10 Bóng rổ / PE Grade 10 Basketball (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 10 — Bóng rổ (Kết nối tri thức với cuộc sống)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31174-0
+- PDF pages: 58 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 20 placements — 18 to existing lessons, 2 NEW LESSON NEEDED
+- Vietnam's own way: Phần Một is the shared Grade 10 general-knowledge text (identical to Book 10's — its 4 Health placements are filed once with Book 10 in vietnam-health-placements.md); the basketball part runs the game's story (Naismith's peach baskets to Vietnam's professional league) and basic FIBA laws, then movement, dribbling, the chest pass, and shooting.
+- Glossary (Bảng giải thích thuật ngữ, printed p. 54): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 3 Bài 3, Trò chơi Cặp đôi hoàn hảo — the perfect pair: run side by side holding the ball between you without hands (original target `games-to-play/games-for-communication-and-cooperation`) | Vietnam, *Vietnam Grade 10 GDTC 10 Basketball*, printed p. 49 |
+
+## Book 13 — GDTC 10 Cầu lông / PE Grade 10 Badminton (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 10 — Cầu lông (Kết nối tri thức với cuộc sống)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31085-9
+- PDF pages: 78 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 46 placements — 28 to existing lessons, 18 NEW LESSON NEEDED
+- Vietnam's own way: Phần I is the shared Quyết-team general-knowledge text (identical to Book 12's — its 4 Health placements are filed once with Book 12 in vietnam-health-placements.md); the badminton part runs the game's story (from Indian battledore to the Duke of Beaufort's "Badminton" and Vietnam's VBF) and its laws, then footwork, low shots, serving, high forehand shots and the smash.
+- Glossary (Bảng giải thích một số thuật ngữ, printed p. 74): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 3 Bài 4, Trò chơi Giữ bóng bằng lưng di chuyển ngang — keep the ball with your backs: pairs hold the ball between their backs and move sideways (original target `games-to-play/games-for-communication-and-cooperation`) | Vietnam, *Vietnam Grade 10 GDTC 10 Badminton*, printed p. 40 |
+
+## Book 7 — GDTC 7 / PE Grade 7 (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 7 (Kết nối tri thức với cuộc sống)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2022 (4th reprint); ISBN 978-604-0-30725-5
+- PDF pages: 94 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 66 placements — 60 to existing lessons, 6 NEW LESSON NEEDED (plus 3 Health placements filed in vietnam-health-placements.md from this book's general-knowledge part)
+- Vietnam's own way: the general-knowledge part teaches choosing and using the natural environment (air, sun, water, terrain) for training; basic movement combines the sprint phases, teaches the squat-style long jump phase by phase, middle-distance running (including the "dead point" and how to breathe through it), and a new 30-count linked routine; the chosen sports are badminton, football and basketball.
+- Glossary (Bảng giải thích thuật ngữ, printed p. 90): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Phần Hai Chủ đề 4 Bài 1, Trò chơi Giữ bóng bằng lưng di chuyển ngang đến đích — keep the ball with your backs and move sideways to the finish (original target `games-to-play/games-for-communication-and-cooperation`) | Vietnam, *Vietnam Grade 7 GDTC 7*, printed p. 42 |
+| Vietnam — Phần Hai Chủ đề 4 Bài 2, Trò chơi Di chuyển giữ bóng — moving while holding the ball behind your back in a circle (original target `games-to-play/games-for-communication-and-cooperation`) | Vietnam, *Vietnam Grade 7 GDTC 7*, printed p. 43 |
+| Vietnam — Phần Ba Chủ đề 3 Bài 3, Trò chơi Làm theo đội trưởng — follow the team captain: copy the captain's movement at once (original target `games-to-play/games-for-communication-and-cooperation`) | Vietnam, *Vietnam Grade 7 GDTC 7*, printed p. 86 |
+
+Vietnam's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. All twenty-one Vietnam books stocked in this expansion are STUDENT books, so Vietnam is student-book stock, inside the acceptance count, in this lesson. Game, dance and sport rules are taught only as the placements summarise them; none have been invented.

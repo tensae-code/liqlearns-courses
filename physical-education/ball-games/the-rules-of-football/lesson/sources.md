@@ -1,8 +1,8 @@
 # Sources — The Rules of Football
 
-countries: North Macedonia, Jordan, Rwanda, Greece, Laos
+countries: North Macedonia, Jordan, Rwanda, Greece, Laos, Vietnam
 
-**Acceptance count: taught in 3 countries (North Macedonia, Jordan, Greece).** Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. North Macedonia is student-book stock (see its rows below), inside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count. Laos is added as teacher-guide evidence only (see its Laos section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 4 countries (North Macedonia, Jordan, Greece, Vietnam).** Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. North Macedonia is student-book stock (see its rows below), inside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count. Laos is added as teacher-guide evidence only (see its Laos section below), named in the countries line but outside the acceptance count. Vietnam is added as student-book stock (see its Vietnam section below), inside the acceptance count.
 
 ## North Macedonia — PE expansion 2026-11-16
 
@@ -167,3 +167,57 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/laos-pe-plac
 | Laos — Lessons 24–25 The rules of football: field, players, fouls and restarts as taught in the elective block (teacher guide — evidence) (original target `ball-games/the-rules-of-football`) | Laos, *Laos Grade 10 G10 PE TG 2014*, printed p. 107 |
 
 Laos's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. All thirteen Laos books stocked in this expansion are TEACHER guides, so Laos is teacher-guide evidence only in this lesson, outside the acceptance count. The two mislabelled "PE guide" files recorded in the placements file (Books R1–R2) are record-only UNREAD for PE, exactly as filed: the Grade 11 (M6) record's file is a French LV2 teacher guide and the Grade 7 (M2) record's file is a Japanese language student book; the real Grade 11 and Grade 7 PE guides are not held — library debt, as filed. Game, dance and sport rules are taught only as the placements summarise them; none have been invented.
+
+## Vietnam — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. Vietnam's twenty-one books stocked in this expansion are all STUDENT books (Giáo dục thể chất / GDTC, Kết nối tri thức với cuộc sống, Nhà xuất bản Giáo dục Việt Nam), all read COMPLETE and secured via the GitHub mid-size-books release assets, as filed (the books.json "pushed" route; the repo-tree route named in the brief returned 404 for every Vietnam path — these books live as release assets, not tree files). Vietnam is therefore filed as student-book stock, inside the acceptance count, in this lesson. The Grade 10–12 elective-sport books share general-knowledge parts whose Health placements are filed once per grade in vietnam-health-placements.md, as filed; the Grade 12 download-list records for volleyball, basketball and badminton are the same books as the secured Grade 12 books, not separate books, as filed. Each book's glossary (Bảng giải thích thuật ngữ) is inventory only, named in the book lines and not placed, as filed. Filing note: the placements file's printed tallies for Book 2 (52) and Book 13 (46) differ from their placement lines as filed (53 and 44 lines); every placement line is stocked, 878 lines in all.
+
+## Book 20 — GDTC 12 Bóng đá / PE Grade 12 Football (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 12 — Bóng đá (Kết nối tri thức với cuộc sống)
+- Grade: 12 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2024 (2nd reprint); ISBN 978-604-0-39249-7
+- PDF pages: 91 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 36 placements — 25 to existing lessons, 11 NEW LESSON NEEDED (plus 4 Health placements filed in vietnam-health-placements.md from this book's general-knowledge part)
+- Vietnam's own way: this football book is a different author team's edition from the other three Grade 12 sport books — its general-knowledge part covers the same ground (natural factors, nutrition) in its own words, and the football part runs laws → kicking → stopping → heading → goalkeeping → winning the ball → group tactics, again with a named game in every lesson. The Grade 12 football download-list record (taphuan.nxbgd.vn page, "print 87 tr, ISBN 9786040392497") is this same book: the ISBN matches exactly and the printed book has 87 pages.
+- Glossary (Bảng giải thích một số thuật ngữ, printed p. 86): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 1 Bài 2, Một số điều luật trong thi đấu Bóng đá — from the Vietnam Football Federation's 2022 11-a-side laws: the penalty kick (Law 14), the throw-in (15), the goal kick (16), the corner kick (17), and the referee's and assistants' signals (original target `ball-games/the-rules-of-football`) | Vietnam, *Vietnam Grade 12 GDTC 12 Football*, printed p. 19 |
+
+## Book 16 — GDTC 11 Bóng đá / PE Grade 11 Football (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 11 — Bóng đá (Kết nối tri thức với cuộc sống)
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35054-1
+- PDF pages: 78 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 38 placements — 27 to existing lessons, 11 NEW LESSON NEEDED (plus 4 Health placements filed in vietnam-health-placements.md from this book's general-knowledge part)
+- Vietnam's own way: from the same author team as the Grade 12 football book — its own general-knowledge text, then football in seven topics: general matters and laws, dribbling, kicking, stopping, heading, goalkeeping, and individual tactics, with a named game in every lesson.
+- Glossary (Bảng giải thích một số thuật ngữ, printed p. 74): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 1 Bài 2, Một số điều luật trong thi đấu Bóng đá — the ball in and out of play (Law 9), scoring (10), offside (11), fouls and misconduct with the card table (12), and free kicks (13) (original target `ball-games/the-rules-of-football`) | Vietnam, *Vietnam Grade 11 GDTC 11 Football*, printed p. 14 |
+
+## Book 12 — GDTC 10 Bóng đá / PE Grade 10 Football (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 10 — Bóng đá (Kết nối tri thức với cuộc sống)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31086-6
+- PDF pages: 74 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 32 placements — 20 to existing lessons, 12 NEW LESSON NEEDED (plus 4 Health placements filed in vietnam-health-placements.md from this book's general-knowledge part)
+- Vietnam's own way: from the Quyết/Sơn author team — its own general-knowledge text, then football from its history (ancient ball games, the 1863 laws, FIFA 1904, and Vietnam's game from the French-era ports to the 2018–2019 triumphs) and basic laws into technique: dribbling, kicking, stopping, the throw-in and heading, and goalkeeping.
+- Glossary (Bảng giải thích một số thuật ngữ, printed p. 70): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 1 Bài 2, Một số điều luật trong thi đấu Bóng đá — the field of play, the ball, the number of players, players' equipment, the referee and assistant referees, the duration of the match, and the start and restart of play (original target `ball-games/the-rules-of-football`) | Vietnam, *Vietnam Grade 10 GDTC 10 Football*, printed p. 15 |
+
+Vietnam's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. All twenty-one Vietnam books stocked in this expansion are STUDENT books, so Vietnam is student-book stock, inside the acceptance count, in this lesson. Game, dance and sport rules are taught only as the placements summarise them; none have been invented.

@@ -1,8 +1,8 @@
 # Sources — Rope Skipping
 
-countries: China, Iran, DR Congo
+countries: China, Iran, DR Congo, Vietnam
 
-**Acceptance count: taught in 3 countries (China, Iran, DR Congo).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. China is student-book stock (see its rows below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count.
+**Acceptance count: taught in 4 countries (China, Iran, DR Congo, Vietnam).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. China is student-book stock (see its rows below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Vietnam is added as student-book stock (see its Vietnam section below), inside the acceptance count.
 
 ## China — PE expansion 2026-11-16
 
@@ -68,3 +68,25 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/dr-congo-pe-
 | DR Congo — §4.4 Rope skipping initiation — jumping without rope, side-swing, long-rope and first solo skips (original target `moving-basics/skipping-with-a-rope`) | DR Congo Grade 1 EPS Primaire 1, §4.4 |
 
 DR Congo's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. DR Congo is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Vietnam — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. Vietnam's twenty-one books stocked in this expansion are all STUDENT books (Giáo dục thể chất / GDTC, Kết nối tri thức với cuộc sống, Nhà xuất bản Giáo dục Việt Nam), all read COMPLETE and secured via the GitHub mid-size-books release assets, as filed (the books.json "pushed" route; the repo-tree route named in the brief returned 404 for every Vietnam path — these books live as release assets, not tree files). Vietnam is therefore filed as student-book stock, inside the acceptance count, in this lesson. The Grade 10–12 elective-sport books share general-knowledge parts whose Health placements are filed once per grade in vietnam-health-placements.md, as filed; the Grade 12 download-list records for volleyball, basketball and badminton are the same books as the secured Grade 12 books, not separate books, as filed. Each book's glossary (Bảng giải thích thuật ngữ) is inventory only, named in the book lines and not placed, as filed. Filing note: the placements file's printed tallies for Book 2 (52) and Book 13 (46) differ from their placement lines as filed (53 and 44 lines); every placement line is stocked, 878 lines in all.
+
+## Book 4 — GDTC 4 / PE Grade 4 (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 4 (Kết nối tri thức với cuộc sống)
+- Grade: 4 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year ©2023, 3rd reprint; ISBN 978-604-0-35027-5
+- PDF pages: 95 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 51 placements — 44 to existing lessons, 7 NEW LESSON NEEDED (plus 5 Health placements filed in vietnam-health-placements.md)
+- Vietnam's own way: Grade 4 calisthenics is done WITH A HOOP (vòng) as hand apparatus; the skills theme teaches balance, long jump and high jump as named skills; swimming becomes breaststroke (bơi ếch, the frog stroke), built from leg action, arm action, then arms-legs-breathing together; one pool game replays flood-season life, moving goods by float.
+- Glossary (Bảng giải thích thuật ngữ, printed p. 90): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 3 Bài 4, Nhảy dây — rope skipping: measuring and swinging the rope, two-foot jumps and skipping over each foot in turn (original target `fitness-and-stretching/rope-skipping`) | Vietnam, *Vietnam Grade 4 GDTC 4*, printed p. 51 |
+
+Vietnam's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. All twenty-one Vietnam books stocked in this expansion are STUDENT books, so Vietnam is student-book stock, inside the acceptance count, in this lesson. Game, dance and sport rules are taught only as the placements summarise them; none have been invented.

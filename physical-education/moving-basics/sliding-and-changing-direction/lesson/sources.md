@@ -1,6 +1,6 @@
 # Sources — Sliding and Changing Direction
 
-countries: Ethiopia, Thailand, Philippines, Nicaragua, Belize, Fiji, Mauritius, Jordan, Papua New Guinea, Rwanda, DR Congo, Turkey, Myanmar, Laos
+countries: Ethiopia, Thailand, Philippines, Nicaragua, Belize, Fiji, Mauritius, Jordan, Papua New Guinea, Rwanda, DR Congo, Turkey, Myanmar, Laos, Vietnam
 
 **Book — Grade 1 student:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 81 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md. COMPLETE.
 
@@ -23,7 +23,7 @@ countries: Ethiopia, Thailand, Philippines, Nicaragua, Belize, Fiji, Mauritius, 
 | Change direction, roll to the target, obstacle walking (teacher guide — evidence) | Ethiopia, Grade 3 teacher §1.1 Tasks 1–3 (teacher guide — evidence), printed pp. 2–5 |
 | Thailand — Unit 7 (part 3) Step-close step — the ก้าวชิดก้าว (step-together-step) side movement and its posture (student book — MAC sample, PARTIAL) (original target `moving-basics/sliding-and-changing-direction`) | Thailand, *Health & PE, Grade 2* (Thailand Grade 2 MAC Health & PE), Unit 7 (part 3), printed pp. 128–130 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Thailand, Philippines, Jordan, DR Congo, Turkey, Myanmar).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Mauritius is added as teacher-guide evidence only (see its Mauritius section below), named in the countries line but outside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count. Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count. Laos is added as teacher-guide evidence only (see its Laos section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 8 countries (Ethiopia, Thailand, Philippines, Jordan, DR Congo, Turkey, Myanmar, Vietnam).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Mauritius is added as teacher-guide evidence only (see its Mauritius section below), named in the countries line but outside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count. Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count. Laos is added as teacher-guide evidence only (see its Laos section below), named in the countries line but outside the acceptance count. Vietnam is added as student-book stock (see its Vietnam section below), inside the acceptance count.
 
 The Grade 3 teacher guide scan is TRUNCATED: it holds printed pp. 1–52 of 89+. Missing: §4.1 (p. 53), §4.2 (p. 57), §4.3 (p. 62), §4.4 (p. 65), all of Chapter 5 Gymnastics (pp. 69–84) and all of Chapter 6 (pp. 85–89+). Chapter 4 is present as its introduction page (printed p. 52) only. Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
 
@@ -323,3 +323,73 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/laos-pe-plac
 | Laos — Lesson 5 Rhythmic walking with left and right turns: turning while walking to rhythm (teacher guide — evidence) (original target `moving-basics/sliding-and-changing-direction`) | Laos, *Laos Grade 8 G8 PE TG 2012*, printed p. 12 |
 
 Laos's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. All thirteen Laos books stocked in this expansion are TEACHER guides, so Laos is teacher-guide evidence only in this lesson, outside the acceptance count. The two mislabelled "PE guide" files recorded in the placements file (Books R1–R2) are record-only UNREAD for PE, exactly as filed: the Grade 11 (M6) record's file is a French LV2 teacher guide and the Grade 7 (M2) record's file is a Japanese language student book; the real Grade 11 and Grade 7 PE guides are not held — library debt, as filed. Game, dance and sport rules are taught only as the placements summarise them; none have been invented.
+
+## Vietnam — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. Vietnam's twenty-one books stocked in this expansion are all STUDENT books (Giáo dục thể chất / GDTC, Kết nối tri thức với cuộc sống, Nhà xuất bản Giáo dục Việt Nam), all read COMPLETE and secured via the GitHub mid-size-books release assets, as filed (the books.json "pushed" route; the repo-tree route named in the brief returned 404 for every Vietnam path — these books live as release assets, not tree files). Vietnam is therefore filed as student-book stock, inside the acceptance count, in this lesson. The Grade 10–12 elective-sport books share general-knowledge parts whose Health placements are filed once per grade in vietnam-health-placements.md, as filed; the Grade 12 download-list records for volleyball, basketball and badminton are the same books as the secured Grade 12 books, not separate books, as filed. Each book's glossary (Bảng giải thích thuật ngữ) is inventory only, named in the book lines and not placed, as filed. Filing note: the placements file's printed tallies for Book 2 (52) and Book 13 (46) differ from their placement lines as filed (53 and 44 lines); every placement line is stocked, 878 lines in all.
+
+## Book 1 — GDTC 1 / PE Grade 1 (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 1 (Kết nối tri thức với cuộc sống)
+- Grade: 1 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year ©2020, 6th reprint; ISBN 978-604-0-19562-3
+- PDF pages: 98 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 49 placements — 36 to existing lessons, 13 NEW LESSON NEEDED (plus 4 Health placements filed in vietnam-health-placements.md from this book's general-knowledge and safety parts)
+- Vietnam's own way: every lesson follows the same shape — joint-rotation warm-up, a warm-up game, the new movement taught with commands and beat-by-beat pictures, practice alone/in pairs/in groups, a named support game, then picture-check questions; the year is built as drill formations first, then counted calisthenics, then body-part movement skills, then an elective sport (basketball or swimming).
+- Glossary (Bảng giải thích thuật ngữ, printed p. 94): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Môn Bóng rổ Bài 2, Động tác di chuyển không bóng — moving without the ball: running in a straight line and running with changes of direction (original target `moving-basics/sliding-and-changing-direction`) | Vietnam, *Vietnam Grade 1 GDTC 1*, printed p. 68 |
+
+## Book 2 — GDTC 2 / PE Grade 2 (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 2 (Kết nối tri thức với cuộc sống)
+- Grade: 2 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year ©2021, 5th reprint; ISBN 978-604-0-25138-1
+- PDF pages: 98 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 52 placements — 41 to existing lessons, 11 NEW LESSON NEEDED (plus 6 Health placements filed in vietnam-health-placements.md)
+- Vietnam's own way: Grade 2 builds on Grade 1 — formations now change shape (column/rank into a circle and back) and add marching on the spot; movement skills become walking marked lines straight and curved, speeding up into running; swimming advances from floating to pushing off and gliding.
+- Glossary (Bảng giải thích thuật ngữ, printed p. 94): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 3 Bài 4, Bài tập phối hợp di chuyển nhanh dần theo vạch kẻ sang trái và sang phải — speeding up and changing into running towards the left and right (original target `moving-basics/sliding-and-changing-direction`) | Vietnam, *Vietnam Grade 2 GDTC 2*, printed p. 51 |
+
+## Book 19 — GDTC 12 Bóng rổ / PE Grade 12 Basketball (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 12 — Bóng rổ (Kết nối tri thức với cuộc sống)
+- Grade: 12 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2023 (national textbook appraisal Decision 1882/QĐ-BGDĐT, 29 June 2023); no ISBN printed
+- PDF pages: 75 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 24 placements — 22 to existing lessons, 2 NEW LESSON NEEDED
+- Vietnam's own way: same shared general-knowledge part as the other Grade 12 sport books (Phần Một, printed pp. 4–10, identical text — its 4 Health placements are filed once with Book 18 in vietnam-health-placements.md); the basketball part then runs rules (here the 3x3 game) → movement and passing technique → shooting technique → match tactics, every lesson built from numbered court-diagram drills plus a named support game.
+- Glossary (Bảng giải thích thuật ngữ, printed p. 69): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 2 Bài 1, Kĩ thuật di chuyển đổi hướng hình chữ V — the V-cut: running in, planting and pushing off to change direction and lose a marker, then receiving the ball low and ready (original target `moving-basics/sliding-and-changing-direction`) | Vietnam, *Vietnam Grade 12 GDTC 12 Basketball*, printed p. 25 |
+
+## Book 11 — GDTC 10 Bóng rổ / PE Grade 10 Basketball (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 10 — Bóng rổ (Kết nối tri thức với cuộc sống)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31174-0
+- PDF pages: 58 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 20 placements — 18 to existing lessons, 2 NEW LESSON NEEDED
+- Vietnam's own way: Phần Một is the shared Grade 10 general-knowledge text (identical to Book 10's — its 4 Health placements are filed once with Book 10 in vietnam-health-placements.md); the basketball part runs the game's story (Naismith's peach baskets to Vietnam's professional league) and basic FIBA laws, then movement, dribbling, the chest pass, and shooting.
+- Glossary (Bảng giải thích thuật ngữ, printed p. 54): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 2 Bài 1, Kĩ thuật di chuyển — changing direction while running, and the defensive slide: low stance, feet sliding without crossing (original target `moving-basics/sliding-and-changing-direction`) | Vietnam, *Vietnam Grade 10 GDTC 10 Basketball*, printed p. 22 |
+
+Vietnam's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. All twenty-one Vietnam books stocked in this expansion are STUDENT books, so Vietnam is student-book stock, inside the acceptance count, in this lesson. Game, dance and sport rules are taught only as the placements summarise them; none have been invented.

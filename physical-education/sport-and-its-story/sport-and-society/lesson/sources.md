@@ -1,6 +1,6 @@
 # Sources — Sport and Society — Money, Media, Gender, Technology and Jobs
 
-countries: Ethiopia, Cyprus, Namibia, United Kingdom, Afghanistan, Honduras, Fiji, Mauritius, Iran, Jordan, Sri Lanka, Greece, Turkey
+countries: Ethiopia, Cyprus, Namibia, United Kingdom, Afghanistan, Honduras, Fiji, Mauritius, Iran, Jordan, Sri Lanka, Greece, Turkey, Vietnam
 
 **Book 1:** *Grade 8 Health and Physical Education Teacher Guide* (teacher guide, English) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. TRUNCATED — worst-truncated of the series: the file holds printed pp. 3–50 of 104+ (54 PDF pages); printed pp. 51–104+ (Chapters 4–7 entire) are missing. Printed page = PDF page − 4 (contents scheme; the guide prints no folios). Read in full from 100 DPI renders (no text layer), in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g08-teacher-placements.md.
 
@@ -33,7 +33,7 @@ countries: Ethiopia, Cyprus, Namibia, United Kingdom, Afghanistan, Honduras, Fij
 | United Kingdom — Component 2 Topic 3.2: Commercialisation of physical activity and sport — sponsorship, the media and the golden triangle in sport (original target `sport-and-its-story/sport-and-society`) | United Kingdom, *Edexcel GCSE (9-1) Physical Education Student Book, 2nd edition* (United Kingdom GCSE Edexcel PE Student Book), Component 2 Topic 3.2, printed p. 168 |
 | United Kingdom — Component 2 Topic 3.3: Ethical and socio-cultural issues in physical activity and sport — sportsmanship and gamesmanship, performance-enhancing drugs, and spectator behaviour including hooliganism (original target `sport-and-its-story/sport-and-society`) | United Kingdom, *Edexcel GCSE (9-1) Physical Education Student Book, 2nd edition* (United Kingdom GCSE Edexcel PE Student Book), Component 2 Topic 3.3, printed p. 172 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Cyprus, United Kingdom, Honduras, Fiji, Mauritius, Iran, Jordan, Sri Lanka, Greece, Turkey).** Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Cyprus is added as student-book stock (see its rows above), inside the acceptance count. Namibia is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 2. United Kingdom is added as student-book stock (see its rows above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count. Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count.
+**Acceptance count: taught in 12 countries (Ethiopia, Cyprus, United Kingdom, Honduras, Fiji, Mauritius, Iran, Jordan, Sri Lanka, Greece, Turkey, Vietnam).** Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Cyprus is added as student-book stock (see its rows above), inside the acceptance count. Namibia is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 2. United Kingdom is added as student-book stock (see its rows above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count. Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count. Vietnam is added as student-book stock (see its Vietnam section below), inside the acceptance count.
 
 The Grade 8 teacher guide is truncated — printed pp. 51–104+ missing — and is used only for its held Chapter 1, labelled (teacher guide — evidence). The Grade 9 guide is complete. The Grade 10 guide is truncated only at its §8.3 tail (p. 92); its Unit 1 material here is complete in the held file. The Grade 10 guide's internal period-count inconsistency for its Unit 2 is not used in this lesson. This lesson carries the [Both] sport-and-society placements whose content is societal knowledge, not movement skill; the Grade 9/10 student books are the English federal 2023 GEQIP-E series and their terms are given as printed.
 
@@ -374,3 +374,137 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkey-pe-pl
 | Turkey — Unit 4 differentiated activities: Spor Teknolojisi (original target `sport-and-its-story/sport-and-society`) | Turkey G7 Foundations Differentiation TG |
 
 Turkey's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Turkey is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 5, Book 6, Book 10, Book 14); its teacher guides stocked here (Book 2, Book 3, Book 18, Book 22, Book 23, Book 24) are evidence only, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Vietnam — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. Vietnam's twenty-one books stocked in this expansion are all STUDENT books (Giáo dục thể chất / GDTC, Kết nối tri thức với cuộc sống, Nhà xuất bản Giáo dục Việt Nam), all read COMPLETE and secured via the GitHub mid-size-books release assets, as filed (the books.json "pushed" route; the repo-tree route named in the brief returned 404 for every Vietnam path — these books live as release assets, not tree files). Vietnam is therefore filed as student-book stock, inside the acceptance count, in this lesson. The Grade 10–12 elective-sport books share general-knowledge parts whose Health placements are filed once per grade in vietnam-health-placements.md, as filed; the Grade 12 download-list records for volleyball, basketball and badminton are the same books as the secured Grade 12 books, not separate books, as filed. Each book's glossary (Bảng giải thích thuật ngữ) is inventory only, named in the book lines and not placed, as filed. Filing note: the placements file's printed tallies for Book 2 (52) and Book 13 (46) differ from their placement lines as filed (53 and 44 lines); every placement line is stocked, 878 lines in all.
+
+## Book 18 — GDTC 12 Bóng chuyền / PE Grade 12 Volleyball (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 12 — Bóng chuyền (Kết nối tri thức với cuộc sống)
+- Grade: 12 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2023 (national textbook appraisal Decision 1882/QĐ-BGDĐT, 29 June 2023); no ISBN printed
+- PDF pages: 64 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 21 placements — 19 to existing lessons, 2 NEW LESSON NEEDED (plus 4 Health placements filed in vietnam-health-placements.md from this book's shared general-knowledge part)
+- Vietnam's own way: the Grade 10–12 elective-sport books share one general-knowledge part (natural factors and nutrition for training) and then go deep into one sport — formal competition rules and refereeing first, then technique, then combined technique, then team tactics; every technique lesson is built from set numbered drills on court diagrams plus a named support game. The Grade 12 download-list records for volleyball, basketball and badminton are this same book (cover-image links), not separate books.
+- Glossary (Bảng giải thích thuật ngữ, printed p. 59): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 1 Bài 1, Vai trò, ảnh hưởng của môn Bóng chuyền đối với sức khoẻ và xã hội — what volleyball does for health (heart, muscles, body shape, stress, disease prevention) and for society (friendship, economy, culture, education) (original target `sport-and-its-story/sport-and-society`) | Vietnam, *Vietnam Grade 12 GDTC 12 Volleyball*, printed p. 11 |
+
+## Book 19 — GDTC 12 Bóng rổ / PE Grade 12 Basketball (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 12 — Bóng rổ (Kết nối tri thức với cuộc sống)
+- Grade: 12 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2023 (national textbook appraisal Decision 1882/QĐ-BGDĐT, 29 June 2023); no ISBN printed
+- PDF pages: 75 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 24 placements — 22 to existing lessons, 2 NEW LESSON NEEDED
+- Vietnam's own way: same shared general-knowledge part as the other Grade 12 sport books (Phần Một, printed pp. 4–10, identical text — its 4 Health placements are filed once with Book 18 in vietnam-health-placements.md); the basketball part then runs rules (here the 3x3 game) → movement and passing technique → shooting technique → match tactics, every lesson built from numbered court-diagram drills plus a named support game.
+- Glossary (Bảng giải thích thuật ngữ, printed p. 69): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 1 Bài 1, Vai trò, ảnh hưởng của môn Bóng rổ đối với sức khoẻ và xã hội — what basketball does for health and for society (original target `sport-and-its-story/sport-and-society`) | Vietnam, *Vietnam Grade 12 GDTC 12 Basketball*, printed p. 11 |
+
+## Book 21 — GDTC 12 Cầu lông / PE Grade 12 Badminton (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 12 — Cầu lông (Kết nối tri thức với cuộc sống)
+- Grade: 12 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2023 (national textbook appraisal Decision 1882/QĐ-BGDĐT, 29 June 2023); no ISBN printed
+- PDF pages: 72 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 34 placements — 26 to existing lessons, 8 NEW LESSON NEEDED
+- Vietnam's own way: same shared general-knowledge part as the other Grade 12 sport books (Phần I, printed pp. 4–10, identical text — its 4 Health placements are filed once with Book 18 in vietnam-health-placements.md); the badminton part runs umpiring and rules → drop-shot technique → overhead clears and the smash → doubles tactics, with a contest-style support game in nearly every lesson.
+- Glossary (Bảng giải thích một số thuật ngữ, printed p. 67): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 1 Bài 1, Vai trò, ảnh hưởng của môn Cầu lông đối với sức khoẻ và xã hội — what badminton does for health and for society (original target `sport-and-its-story/sport-and-society`) | Vietnam, *Vietnam Grade 12 GDTC 12 Badminton*, printed p. 11 |
+
+## Book 20 — GDTC 12 Bóng đá / PE Grade 12 Football (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 12 — Bóng đá (Kết nối tri thức với cuộc sống)
+- Grade: 12 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2024 (2nd reprint); ISBN 978-604-0-39249-7
+- PDF pages: 91 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 36 placements — 25 to existing lessons, 11 NEW LESSON NEEDED (plus 4 Health placements filed in vietnam-health-placements.md from this book's general-knowledge part)
+- Vietnam's own way: this football book is a different author team's edition from the other three Grade 12 sport books — its general-knowledge part covers the same ground (natural factors, nutrition) in its own words, and the football part runs laws → kicking → stopping → heading → goalkeeping → winning the ball → group tactics, again with a named game in every lesson. The Grade 12 football download-list record (taphuan.nxbgd.vn page, "print 87 tr, ISBN 9786040392497") is this same book: the ISBN matches exactly and the printed book has 87 pages.
+- Glossary (Bảng giải thích một số thuật ngữ, printed p. 86): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 1 Bài 1, Vai trò, ảnh hưởng của môn Bóng đá đối với sức khoẻ và xã hội — what football does for health and for society (original target `sport-and-its-story/sport-and-society`) | Vietnam, *Vietnam Grade 12 GDTC 12 Football*, printed p. 15 |
+
+## Book 14 — GDTC 11 Bóng chuyền / PE Grade 11 Volleyball (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 11 — Bóng chuyền (Kết nối tri thức với cuộc sống)
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35179-1
+- PDF pages: 58 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 20 placements — 18 to existing lessons, 2 NEW LESSON NEEDED (plus 3 Health placements filed in vietnam-health-placements.md from this book's general-knowledge part)
+- Vietnam's own way: the Grade 11 books carry the same general-knowledge topic as Grade 12 (natural factors and nutrition) in a Grade 11 text, then one sport in depth — here: what volleyball does for the body, selected FIVB laws, movement and passing, serving and spiking, and basic match tactics.
+- Glossary (Bảng giải thích thuật ngữ, printed p. 54): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 1 Bài 1, Vai trò, tác dụng của môn Bóng chuyền đối với sự phát triển thể chất — what volleyball training does for the movement, circulation, nervous, breathing and digestive systems (original target `sport-and-its-story/sport-and-society`) | Vietnam, *Vietnam Grade 11 GDTC 11 Volleyball*, printed p. 9 |
+
+## Book 15 — GDTC 11 Bóng rổ / PE Grade 11 Basketball (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 11 — Bóng rổ (Kết nối tri thức với cuộc sống)
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35180-7
+- PDF pages: 66 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 23 placements — 22 to existing lessons, 1 NEW LESSON NEEDED
+- Vietnam's own way: Phần Một is the shared Grade 11 general-knowledge text (identical to Book 14's — its 3 Health placements are filed once with Book 14 in vietnam-health-placements.md); the basketball part runs what basketball does for the body and the throw-in/free-throw laws → passing, jump-stop and pivot, jump shot → fakes and dribbling → small-group tactics and zone defence.
+- Glossary (Bảng giải thích thuật ngữ, printed p. 62): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 1 Bài 1, Vai trò, tác dụng của môn Bóng rổ đối với sự phát triển thể chất — what basketball does for strength and height, heart and breathing, speed and agility, digestion (original target `sport-and-its-story/sport-and-society`) | Vietnam, *Vietnam Grade 11 GDTC 11 Basketball*, printed p. 9 |
+
+## Book 16 — GDTC 11 Bóng đá / PE Grade 11 Football (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 11 — Bóng đá (Kết nối tri thức với cuộc sống)
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35054-1
+- PDF pages: 78 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 38 placements — 27 to existing lessons, 11 NEW LESSON NEEDED (plus 4 Health placements filed in vietnam-health-placements.md from this book's general-knowledge part)
+- Vietnam's own way: from the same author team as the Grade 12 football book — its own general-knowledge text, then football in seven topics: general matters and laws, dribbling, kicking, stopping, heading, goalkeeping, and individual tactics, with a named game in every lesson.
+- Glossary (Bảng giải thích một số thuật ngữ, printed p. 74): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 1 Bài 1, Vai trò và tác dụng của môn Bóng đá đối với sự phát triển thể chất — how football builds movement skills, strength and speed, quick reactions, endurance, and the body's systems (original target `sport-and-its-story/sport-and-society`) | Vietnam, *Vietnam Grade 11 GDTC 11 Football*, printed p. 10 |
+
+## Book 17 — GDTC 11 Cầu lông / PE Grade 11 Badminton (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 11 — Cầu lông (Kết nối tri thức với cuộc sống)
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35055-8
+- PDF pages: 82 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 47 placements — 33 to existing lessons, 14 NEW LESSON NEEDED (plus 4 Health placements filed in vietnam-health-placements.md from this book's general-knowledge part)
+- Vietnam's own way: from the same author team as the Grade 11 and 12 football books — its own general-knowledge text, then badminton built step by step: movement first, then movement combined with low shots, drop shots, high forehand shots and smashes, and singles tactics last; every lesson carries a warm-up game and a support game.
+- Glossary (Bảng giải thích một số thuật ngữ, printed p. 78): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 1 Bài 1, Vai trò và tác dụng cơ bản của môn Cầu lông đối với sự phát triển thể chất — how badminton builds movement skills, strength, speed and quick reactions, and develops the movement, circulation, breathing and nervous systems (original target `sport-and-its-story/sport-and-society`) | Vietnam, *Vietnam Grade 11 GDTC 11 Badminton*, printed p. 9 |
+
+Vietnam's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. All twenty-one Vietnam books stocked in this expansion are STUDENT books, so Vietnam is student-book stock, inside the acceptance count, in this lesson. Game, dance and sport rules are taught only as the placements summarise them; none have been invented.

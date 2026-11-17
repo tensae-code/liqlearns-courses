@@ -404,3 +404,13 @@ Laos**
 and **Traditional Dances of Laos**
 (`traditional-games-and-dances/traditional-dances-of-laos`)
 — 3 new lessons, bringing this course to 227 lessons.
+
+The PE expansion then added: **Climbing**
+(`moving-basics/climbing`), **Basketball Rebounding and
+Boxing Out**
+(`ball-games/basketball-rebounding-and-boxing-out`),
+**Volleyball Footwork and Ready Positions**
+(`ball-games/volleyball-footwork-and-ready-positions`)
+and **Traditional Games of Vietnam**
+(`traditional-games-and-dances/traditional-games-of-vietnam`)
+— 4 new lessons, bringing this course to 231 lessons.

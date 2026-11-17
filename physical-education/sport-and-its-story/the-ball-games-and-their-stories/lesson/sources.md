@@ -1,6 +1,6 @@
 # Sources — The Ball Games and Their Stories — Football, Volleyball, Basketball, Handball
 
-countries: Ethiopia, Cyprus, Afghanistan, Honduras, North Macedonia, Greece, Myanmar, Laos
+countries: Ethiopia, Cyprus, Afghanistan, Honduras, North Macedonia, Greece, Myanmar, Laos, Vietnam
 
 **Book 1:** *Health and Physical Education Student's Textbook Grade 9* (student textbook, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, First Published August 2023, under GEQIP-E, ISBN 978-99990-0-072-7, printed pp. 1–156 (167 PDF pages). Printed page = PDF page − 10. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g09-student-placements.md.
 
@@ -16,7 +16,7 @@ countries: Ethiopia, Cyprus, Afghanistan, Honduras, North Macedonia, Greece, Mya
 | Sub lesson 4 — Handball's story — ancient games to the IHF | Ethiopia, *Grade 9 Student Textbook*, §7.1, printed pp. 122–125; and *Grade 9 Teacher Guide*, Unit 7, printed pp. 91–93 (teacher guide — evidence) |
 | Cyprus — Part 2, Modern Olympic Games — the Olympic sports programme, summer and winter: the team ball games among the listed sports and the eight winter sports (curling, bobsleigh, luge, skeleton, short-track and speed skating, ice hockey, figure skating) (student book) | Cyprus, *Olympic Education Insert, Lyceum Years 2–3*, Part 2, printed pp. 21–68 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Cyprus, Honduras, North Macedonia, Greece, Myanmar).** Cyprus is added as student-book stock (see its row above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count. Laos is added as teacher-guide evidence only (see its Laos section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 7 countries (Ethiopia, Cyprus, Honduras, North Macedonia, Greece, Myanmar, Vietnam).** Cyprus is added as student-book stock (see its row above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count. Laos is added as teacher-guide evidence only (see its Laos section below), named in the countries line but outside the acceptance count. Vietnam is added as student-book stock (see its Vietnam section below), inside the acceptance count.
 
 The Grade 9 student book and teacher guide are both complete. Guide-only details (club title counts, federation dates in the guide's fuller form) are the guide's, carried in the prose at the places they belong; the student book's own three-scope histories are the lesson's spine. Terms are the federal book's English terms as printed.
 
@@ -207,3 +207,73 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/laos-pe-plac
 | Laos — Lesson 23 History of football: football from its early forms to FIFA and the modern game (teacher guide — evidence) (original target `sport-and-its-story/the-ball-games-and-their-stories`) | Laos, *Laos Grade 10 G10 PE TG 2014*, printed p. 103 |
 
 Laos's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. All thirteen Laos books stocked in this expansion are TEACHER guides, so Laos is teacher-guide evidence only in this lesson, outside the acceptance count. The two mislabelled "PE guide" files recorded in the placements file (Books R1–R2) are record-only UNREAD for PE, exactly as filed: the Grade 11 (M6) record's file is a French LV2 teacher guide and the Grade 7 (M2) record's file is a Japanese language student book; the real Grade 11 and Grade 7 PE guides are not held — library debt, as filed. Game, dance and sport rules are taught only as the placements summarise them; none have been invented.
+
+## Vietnam — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. Vietnam's twenty-one books stocked in this expansion are all STUDENT books (Giáo dục thể chất / GDTC, Kết nối tri thức với cuộc sống, Nhà xuất bản Giáo dục Việt Nam), all read COMPLETE and secured via the GitHub mid-size-books release assets, as filed (the books.json "pushed" route; the repo-tree route named in the brief returned 404 for every Vietnam path — these books live as release assets, not tree files). Vietnam is therefore filed as student-book stock, inside the acceptance count, in this lesson. The Grade 10–12 elective-sport books share general-knowledge parts whose Health placements are filed once per grade in vietnam-health-placements.md, as filed; the Grade 12 download-list records for volleyball, basketball and badminton are the same books as the secured Grade 12 books, not separate books, as filed. Each book's glossary (Bảng giải thích thuật ngữ) is inventory only, named in the book lines and not placed, as filed. Filing note: the placements file's printed tallies for Book 2 (52) and Book 13 (46) differ from their placement lines as filed (53 and 44 lines); every placement line is stocked, 878 lines in all.
+
+## Book 10 — GDTC 10 Bóng chuyền / PE Grade 10 Volleyball (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 10 — Bóng chuyền (Kết nối tri thức với cuộc sống)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31176-4
+- PDF pages: 70 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 23 placements — 17 to existing lessons, 6 NEW LESSON NEEDED (plus 4 Health placements filed in vietnam-health-placements.md from this book's general-knowledge part)
+- Vietnam's own way: the Grade 10 books open with the sport's story (here volleyball from William G. Morgan's 1895 "Mintonette" to Vietnam's own federation and leagues), then the basic laws, then technique from the ready position up — ready positions and footwork, the two passes, the low serve, the spike and the block.
+- Glossary (Bảng giải thích thuật ngữ, printed p. 66): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 1 Bài 1, Sơ lược lịch sử phát triển môn Bóng chuyền trên thế giới và Việt Nam — volleyball invented in the USA about 1895 as "Mintonette", the founding of the FIVB in 1947, Olympic entry in 1964, and the game's growth in Vietnam from 1920s schoolyards to the national federation (original target `sport-and-its-story/the-story-of-volleyball`) | Vietnam, *Vietnam Grade 10 GDTC 10 Volleyball*, printed p. 10 |
+
+## Book 11 — GDTC 10 Bóng rổ / PE Grade 10 Basketball (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 10 — Bóng rổ (Kết nối tri thức với cuộc sống)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31174-0
+- PDF pages: 58 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 20 placements — 18 to existing lessons, 2 NEW LESSON NEEDED
+- Vietnam's own way: Phần Một is the shared Grade 10 general-knowledge text (identical to Book 10's — its 4 Health placements are filed once with Book 10 in vietnam-health-placements.md); the basketball part runs the game's story (Naismith's peach baskets to Vietnam's professional league) and basic FIBA laws, then movement, dribbling, the chest pass, and shooting.
+- Glossary (Bảng giải thích thuật ngữ, printed p. 54): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 1 Bài 1, Sơ lược lịch sử phát triển môn Bóng rổ trên thế giới và Việt Nam — James Naismith inventing basketball in 1891 with peach baskets and 13 rules, the first world championships, FIBA's founding in 1932, Olympic entry in 1936, and the game's four stages in Vietnam up to the VBA professional league (original target `sport-and-its-story/the-story-of-basketball`) | Vietnam, *Vietnam Grade 10 GDTC 10 Basketball*, printed p. 10 |
+
+## Book 12 — GDTC 10 Bóng đá / PE Grade 10 Football (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 10 — Bóng đá (Kết nối tri thức với cuộc sống)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31086-6
+- PDF pages: 74 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 32 placements — 20 to existing lessons, 12 NEW LESSON NEEDED (plus 4 Health placements filed in vietnam-health-placements.md from this book's general-knowledge part)
+- Vietnam's own way: from the Quyết/Sơn author team — its own general-knowledge text, then football from its history (ancient ball games, the 1863 laws, FIFA 1904, and Vietnam's game from the French-era ports to the 2018–2019 triumphs) and basic laws into technique: dribbling, kicking, stopping, the throw-in and heading, and goalkeeping.
+- Glossary (Bảng giải thích một số thuật ngữ, printed p. 70): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 1 Bài 1, Lịch sử ra đời, phát triển môn Bóng đá — ball games in ancient Egypt, Rome and France, the English clubs and the unified laws of 1863, FIFA founded 1904, the first World Cup in Uruguay 1930, and football in Vietnam from the late 1800s to the VFF and the national teams' recent titles (original target `sport-and-its-story/the-story-of-football`) | Vietnam, *Vietnam Grade 10 GDTC 10 Football*, printed p. 11 |
+
+## Book 13 — GDTC 10 Cầu lông / PE Grade 10 Badminton (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 10 — Cầu lông (Kết nối tri thức với cuộc sống)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31085-9
+- PDF pages: 78 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 46 placements — 28 to existing lessons, 18 NEW LESSON NEEDED
+- Vietnam's own way: Phần I is the shared Quyết-team general-knowledge text (identical to Book 12's — its 4 Health placements are filed once with Book 12 in vietnam-health-placements.md); the badminton part runs the game's story (from Indian battledore to the Duke of Beaufort's "Badminton" and Vietnam's VBF) and its laws, then footwork, low shots, serving, high forehand shots and the smash.
+- Glossary (Bảng giải thích một số thuật ngữ, printed p. 74): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 1 Bài 1, Lịch sử ra đời và phát triển môn Cầu lông — the racket-and-shuttle game in ancient Asia, the British officers who brought it from India, the Duke of Beaufort's 1873 game at Badminton that gave the sport its name, the first laws of 1877, the IBF of 1934 (now BWF), Olympic entry in 1992, and badminton in Vietnam from Tao Đàn park to the VBF of 1990 (original target `sport-and-its-story/the-story-of-badminton`) | Vietnam, *Vietnam Grade 10 GDTC 10 Badminton*, printed p. 11 |
+
+Vietnam's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. All twenty-one Vietnam books stocked in this expansion are STUDENT books, so Vietnam is student-book stock, inside the acceptance count, in this lesson. Game, dance and sport rules are taught only as the placements summarise them; none have been invented.

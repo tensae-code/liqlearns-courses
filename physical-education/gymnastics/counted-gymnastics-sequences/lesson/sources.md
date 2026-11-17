@@ -1,6 +1,6 @@
 # Sources — Counted Gymnastics Sequences
 
-countries: Ethiopia, Tajikistan, Maldives, Honduras, Jordan, Cuba, Kuwait, Oman, DR Congo, Myanmar, Laos
+countries: Ethiopia, Tajikistan, Maldives, Honduras, Jordan, Cuba, Kuwait, Oman, DR Congo, Myanmar, Laos, Vietnam
 
 **Book — Grade 3 student:** *Grade 3 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 65 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g03-student-placements.md. COMPLETE.
 
@@ -14,7 +14,7 @@ countries: Ethiopia, Tajikistan, Maldives, Honduras, Jordan, Cuba, Kuwait, Oman,
 | Full counted sequences, position by position | Ethiopia, Grade 4 student §5.2 Number gymnastics, printed pp. 51–56 |
 
 | Tajikistan — Part 2, Don't Dawdle, Don't Be Lazy — Get Up for Exercises! — morning gymnastics and why it comes first every day, counted complexes 1–3, exercise complexes with the gymnastic stick, with a ball, for the back and for the abdomen, and физкультминутки (movement minutes) (original target `gymnastics/counted-gymnastics-sequences`) | Tajikistan, *Fizicheskaya Kultura (Physical Culture), Grades 1–4*, Part 2, printed pp. ~75–97 |
-**Acceptance count: taught in 6 countries (Ethiopia, Tajikistan, Honduras, Jordan, DR Congo, Myanmar).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count; the Myanmar teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Laos is added as teacher-guide evidence only (see its Laos section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 7 countries (Ethiopia, Tajikistan, Honduras, Jordan, DR Congo, Myanmar, Vietnam).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count; the Myanmar teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Laos is added as teacher-guide evidence only (see its Laos section below), named in the countries line but outside the acceptance count. Vietnam is added as student-book stock (see its Vietnam section below), inside the acceptance count.
 
 Student books Grades 1–4 are complete. No page is claimed that the placements do not give. Dance and game rules are taught only as the placements summarise them; no rules have been invented for any game the placements leave game-dependent.
 
@@ -505,3 +505,138 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/laos-pe-plac
 | Laos — Lesson 11 Gymnastics postures 1–8: the complete posture sequence (teacher guide — evidence) (original target `gymnastics/counted-gymnastics-sequences`) | Laos, *Laos Grade 5 G5 PE & Handicraft TG 2009*, printed pp. 43–47 |
 
 Laos's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. All thirteen Laos books stocked in this expansion are TEACHER guides, so Laos is teacher-guide evidence only in this lesson, outside the acceptance count. The two mislabelled "PE guide" files recorded in the placements file (Books R1–R2) are record-only UNREAD for PE, exactly as filed: the Grade 11 (M6) record's file is a French LV2 teacher guide and the Grade 7 (M2) record's file is a Japanese language student book; the real Grade 11 and Grade 7 PE guides are not held — library debt, as filed. Game, dance and sport rules are taught only as the placements summarise them; none have been invented.
+
+## Vietnam — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. Vietnam's twenty-one books stocked in this expansion are all STUDENT books (Giáo dục thể chất / GDTC, Kết nối tri thức với cuộc sống, Nhà xuất bản Giáo dục Việt Nam), all read COMPLETE and secured via the GitHub mid-size-books release assets, as filed (the books.json "pushed" route; the repo-tree route named in the brief returned 404 for every Vietnam path — these books live as release assets, not tree files). Vietnam is therefore filed as student-book stock, inside the acceptance count, in this lesson. The Grade 10–12 elective-sport books share general-knowledge parts whose Health placements are filed once per grade in vietnam-health-placements.md, as filed; the Grade 12 download-list records for volleyball, basketball and badminton are the same books as the secured Grade 12 books, not separate books, as filed. Each book's glossary (Bảng giải thích thuật ngữ) is inventory only, named in the book lines and not placed, as filed. Filing note: the placements file's printed tallies for Book 2 (52) and Book 13 (46) differ from their placement lines as filed (53 and 44 lines); every placement line is stocked, 878 lines in all.
+
+## Book 1 — GDTC 1 / PE Grade 1 (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 1 (Kết nối tri thức với cuộc sống)
+- Grade: 1 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year ©2020, 6th reprint; ISBN 978-604-0-19562-3
+- PDF pages: 98 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 49 placements — 36 to existing lessons, 13 NEW LESSON NEEDED (plus 4 Health placements filed in vietnam-health-placements.md from this book's general-knowledge and safety parts)
+- Vietnam's own way: every lesson follows the same shape — joint-rotation warm-up, a warm-up game, the new movement taught with commands and beat-by-beat pictures, practice alone/in pairs/in groups, a named support game, then picture-check questions; the year is built as drill formations first, then counted calisthenics, then body-part movement skills, then an elective sport (basketball or swimming).
+- Glossary (Bảng giải thích thuật ngữ, printed p. 94): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 2 Bài 1, Động tác vươn thở, động tác tay — counted 8-beat breathing/stretching movement and arm movement of the school calisthenics set (original target `gymnastics/counted-gymnastics-sequences`) | Vietnam, *Vietnam Grade 1 GDTC 1*, printed p. 27 |
+| Vietnam — Chủ đề 2 Bài 2, Động tác chân, động tác vặn mình, động tác bụng — counted leg, trunk-twisting and abdominal movements (original target `gymnastics/counted-gymnastics-sequences`) | Vietnam, *Vietnam Grade 1 GDTC 1*, printed p. 31 |
+| Vietnam — Chủ đề 2 Bài 3, Động tác phối hợp, động tác điều hoà — counted coordination movement and cool-down regulation movement (original target `gymnastics/counted-gymnastics-sequences`) | Vietnam, *Vietnam Grade 1 GDTC 1*, printed p. 36 |
+| Vietnam — Chủ đề 3 Bài 4, Vận động phối hợp của cơ thể — whole-body coordination exercises combining steps and arm movements (original target `gymnastics/counted-gymnastics-sequences`) | Vietnam, *Vietnam Grade 1 GDTC 1*, printed p. 54 |
+| Vietnam — Chủ đề 3 Bài 5, Vận động phối hợp của cơ thể (tiếp theo) — a 16-beat whole-body coordination routine developing coordination ability (original target `gymnastics/counted-gymnastics-sequences`) | Vietnam, *Vietnam Grade 1 GDTC 1*, printed p. 58 |
+
+## Book 2 — GDTC 2 / PE Grade 2 (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 2 (Kết nối tri thức với cuộc sống)
+- Grade: 2 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year ©2021, 5th reprint; ISBN 978-604-0-25138-1
+- PDF pages: 98 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 52 placements — 41 to existing lessons, 11 NEW LESSON NEEDED (plus 6 Health placements filed in vietnam-health-placements.md)
+- Vietnam's own way: Grade 2 builds on Grade 1 — formations now change shape (column/rank into a circle and back) and add marching on the spot; movement skills become walking marked lines straight and curved, speeding up into running; swimming advances from floating to pushing off and gliding.
+- Glossary (Bảng giải thích thuật ngữ, printed p. 94): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 2 Bài 1, Động tác vươn thở, động tác tay — counted breathing/stretching and arm movements with nose/mouth breathing detail (original target `gymnastics/counted-gymnastics-sequences`) | Vietnam, *Vietnam Grade 2 GDTC 2*, printed p. 22 |
+| Vietnam — Chủ đề 2 Bài 2, Động tác chân, động tác lườn, động tác bụng — counted leg, side-bending (flank) and abdominal movements (original target `gymnastics/counted-gymnastics-sequences`) | Vietnam, *Vietnam Grade 2 GDTC 2*, printed p. 26 |
+| Vietnam — Chủ đề 2 Bài 3, Động tác phối hợp, động tác nhảy, động tác điều hoà — counted coordination, jumping and regulation movements (original target `gymnastics/counted-gymnastics-sequences`) | Vietnam, *Vietnam Grade 2 GDTC 2*, printed p. 31 |
+| Vietnam — Chủ đề 3 Bài 6, Bài tập phối hợp các tư thế quỳ, ngồi cơ bản — counted combined exercises using the kneeling and sitting positions (original target `gymnastics/counted-gymnastics-sequences`) | Vietnam, *Vietnam Grade 2 GDTC 2*, printed p. 60 |
+
+## Book 3 — GDTC 3 / PE Grade 3 (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 3 (Kết nối tri thức với cuộc sống)
+- Grade: 3 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year ©2022, 4th reprint; ISBN 978-604-0-30701-9
+- PDF pages: 98 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 60 placements — 48 to existing lessons, 12 NEW LESSON NEEDED (plus 3 Health placements filed in vietnam-health-placements.md)
+- Vietnam's own way: Grade 3 drill work becomes formation-changing (one column/rank/circle splitting into two or three) and marching in step — the book shows it used at the Hội khoẻ Phù Đổng school sports festival; movement skills become travelling over obstacles on straight, zigzag and real terrain; swimming reaches kicking, arm strokes and the first combined swimming.
+- Glossary (Bảng giải thích thuật ngữ, printed p. 94): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 2 Bài 1, Động tác vươn thở, động tác tay — counted breathing/stretching and arm movements (original target `gymnastics/counted-gymnastics-sequences`) | Vietnam, *Vietnam Grade 3 GDTC 3*, printed p. 30 |
+| Vietnam — Chủ đề 2 Bài 2, Động tác chân, động tác lườn, động tác bụng — counted leg, side-bending and abdominal movements (original target `gymnastics/counted-gymnastics-sequences`) | Vietnam, *Vietnam Grade 3 GDTC 3*, printed p. 34 |
+| Vietnam — Chủ đề 2 Bài 3, Động tác phối hợp, động tác nhảy, động tác điều hoà — counted coordination, jumping and regulation movements (original target `gymnastics/counted-gymnastics-sequences`) | Vietnam, *Vietnam Grade 3 GDTC 3*, printed p. 39 |
+
+## Book 4 — GDTC 4 / PE Grade 4 (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 4 (Kết nối tri thức với cuộc sống)
+- Grade: 4 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year ©2023, 3rd reprint; ISBN 978-604-0-35027-5
+- PDF pages: 95 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 51 placements — 44 to existing lessons, 7 NEW LESSON NEEDED (plus 5 Health placements filed in vietnam-health-placements.md)
+- Vietnam's own way: Grade 4 calisthenics is done WITH A HOOP (vòng) as hand apparatus; the skills theme teaches balance, long jump and high jump as named skills; swimming becomes breaststroke (bơi ếch, the frog stroke), built from leg action, arm action, then arms-legs-breathing together; one pool game replays flood-season life, moving goods by float.
+- Glossary (Bảng giải thích thuật ngữ, printed p. 90): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 2 Bài 1, Động tác vươn thở, động tác tay, động tác chân với vòng — counted breathing, arm and leg movements performed with a hoop (original target `gymnastics/counted-gymnastics-sequences`) | Vietnam, *Vietnam Grade 4 GDTC 4*, printed p. 24 |
+| Vietnam — Chủ đề 2 Bài 2, Động tác lườn, động tác lưng – bụng, động tác toàn thân với vòng — counted side-bending, back-and-abdomen and whole-body movements with a hoop (original target `gymnastics/counted-gymnastics-sequences`) | Vietnam, *Vietnam Grade 4 GDTC 4*, printed p. 29 |
+| Vietnam — Chủ đề 2 Bài 3, Động tác nhảy, động tác điều hoà với vòng — counted jumping and regulation movements with a hoop (original target `gymnastics/counted-gymnastics-sequences`) | Vietnam, *Vietnam Grade 4 GDTC 4*, printed p. 33 |
+
+## Book 5 — GDTC 5 / PE Grade 5 (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 5 (Kết nối tri thức với cuộc sống)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2024 (2nd reprint; national appraisal Decision 1963/QĐ-BGDĐT, 5 July 2023); ISBN 978-604-0-39219-0
+- PDF pages: 91 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 48 placements — 40 to existing lessons, 8 NEW LESSON NEEDED (plus 2 Health placements filed in vietnam-health-placements.md from this book's general-knowledge part)
+- Vietnam's own way: the general-knowledge part is eating for training; basic movement then goes formations → the counted stick-exercise routine → rolling, the forward roll, ladder climbing and clambering; the chosen sports are basketball and a first full front-crawl swimming course (legs, arms, then arms-and-breathing together), always with a named game in every lesson.
+- Glossary (Bảng giải thích thuật ngữ, printed p. 86): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Phần 2 Chủ đề 2 Bài 1, Động tác vươn thở, động tác tay, động tác chân với gậy — the stick routine, part 1: breathing-and-reach, arm and leg movements with the stick, each in eight counts (original target `gymnastics/counted-gymnastics-sequences`) | Vietnam, *Vietnam Grade 5 GDTC 5*, printed p. 24 |
+| Vietnam — Phần 2 Chủ đề 2 Bài 2, Động tác bụng, động tác vặn mình, động tác toàn thân với gậy — the stick routine, part 2: abdomen, trunk-twisting and whole-body movements (original target `gymnastics/counted-gymnastics-sequences`) | Vietnam, *Vietnam Grade 5 GDTC 5*, printed p. 29 |
+| Vietnam — Phần 2 Chủ đề 2 Bài 3, Động tác nhảy, động tác điều hoà với gậy — the stick routine, part 3: jumping movements and the cool-down regulating movement (original target `gymnastics/counted-gymnastics-sequences`) | Vietnam, *Vietnam Grade 5 GDTC 5*, printed p. 33 |
+
+## Book 6 — GDTC 6 / PE Grade 6 (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 6 (Kết nối tri thức với cuộc sống)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2021 (5th reprint); ISBN 978-604-0-25647-8
+- PDF pages: 114 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 72 placements — 65 to existing lessons, 7 NEW LESSON NEEDED (plus 2 Health placements filed in vietnam-health-placements.md from this book's general-knowledge part)
+- Vietnam's own way: basic movement is athletics-led — the 60 m sprint in its four phases, ball throwing, middle-distance running with breathing rhythm, and the 30-count linked calisthenics routine; the chosen sports are badminton, football (taught through the 7-a-side laws) and basketball, each built from support exercises into first techniques, with a named game in every lesson.
+- Glossary (Bảng giải thích thuật ngữ, printed p. 110): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Phần Hai Chủ đề 4 Bài 1, Bài thể dục liên hoàn (từ nhịp 1 đến nhịp 11) — the linked calisthenics routine, counts 1–11: arms forward, up, out, the knee-bend and the V-stretch (original target `gymnastics/counted-gymnastics-sequences`) | Vietnam, *Vietnam Grade 6 GDTC 6*, printed p. 48 |
+| Vietnam — Phần Hai Chủ đề 4 Bài 2, Bài thể dục liên hoàn (từ nhịp 12 đến nhịp 23) — the linked routine, counts 12–23: side bends, forward folds and the wide-stance reaches (original target `gymnastics/counted-gymnastics-sequences`) | Vietnam, *Vietnam Grade 6 GDTC 6*, printed p. 53 |
+| Vietnam — Phần Hai Chủ đề 4 Bài 3, Bài thể dục liên hoàn (từ nhịp 24 đến nhịp 30) — the linked routine, counts 24–30: the floor touches, the jump to attention and the full 30-count sequence (original target `gymnastics/counted-gymnastics-sequences`) | Vietnam, *Vietnam Grade 6 GDTC 6*, printed p. 57 |
+
+## Book 7 — GDTC 7 / PE Grade 7 (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 7 (Kết nối tri thức với cuộc sống)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2022 (4th reprint); ISBN 978-604-0-30725-5
+- PDF pages: 94 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 66 placements — 60 to existing lessons, 6 NEW LESSON NEEDED (plus 3 Health placements filed in vietnam-health-placements.md from this book's general-knowledge part)
+- Vietnam's own way: the general-knowledge part teaches choosing and using the natural environment (air, sun, water, terrain) for training; basic movement combines the sprint phases, teaches the squat-style long jump phase by phase, middle-distance running (including the "dead point" and how to breathe through it), and a new 30-count linked routine; the chosen sports are badminton, football and basketball.
+- Glossary (Bảng giải thích thuật ngữ, printed p. 90): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Phần Hai Chủ đề 4 Bài 1, Bài thể dục liên hoàn (từ nhịp 1 đến nhịp 10) — the Grade 7 linked routine, counts 1–10: turns of the whole body, the leg swing forward and the V shapes (original target `gymnastics/counted-gymnastics-sequences`) | Vietnam, *Vietnam Grade 7 GDTC 7*, printed p. 39 |
+| Vietnam — Phần Hai Chủ đề 4 Bài 2, Bài thể dục liên hoàn (từ nhịp 11 đến nhịp 20) — the linked routine, counts 11–20: the same shapes on the other side and the wide-stance folds (original target `gymnastics/counted-gymnastics-sequences`) | Vietnam, *Vietnam Grade 7 GDTC 7*, printed p. 43 |
+| Vietnam — Phần Hai Chủ đề 4 Bài 3, Bài thể dục liên hoàn (từ nhịp 21 đến nhịp 30) — the linked routine, counts 21–30, and the full 30 counts together (original target `gymnastics/counted-gymnastics-sequences`) | Vietnam, *Vietnam Grade 7 GDTC 7*, printed p. 46 |
+
+Vietnam's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. All twenty-one Vietnam books stocked in this expansion are STUDENT books, so Vietnam is student-book stock, inside the acceptance count, in this lesson. Game, dance and sport rules are taught only as the placements summarise them; none have been invented.

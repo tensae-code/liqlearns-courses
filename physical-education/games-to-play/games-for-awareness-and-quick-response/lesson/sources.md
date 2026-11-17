@@ -1,6 +1,6 @@
 # Sources — Games for Awareness and Quick Response
 
-countries: Ethiopia, Mozambique, Kazakhstan, Thailand, Philippines, Nicaragua, Honduras, Iran, Zimbabwe, Jordan, Cuba, Rwanda, DR Congo, Myanmar, Laos
+countries: Ethiopia, Mozambique, Kazakhstan, Thailand, Philippines, Nicaragua, Honduras, Iran, Zimbabwe, Jordan, Cuba, Rwanda, DR Congo, Myanmar, Laos, Vietnam
 
 **Book 1:** *Grade 3 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–65 + front matter (72 PDF pages). Printed page = PDF page − 7. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g03-student-placements.md.
 
@@ -44,7 +44,7 @@ countries: Ethiopia, Mozambique, Kazakhstan, Thailand, Philippines, Nicaragua, H
 
 | Kazakhstan — Quarter 3 — games and relays that develop speed and strength qualities (игры на развитие быстроты, силы), and relay games with balls (teacher guide — evidence) (original target `games-to-play/games-for-awareness-and-quick-response`) | Kazakhstan, *Physical Culture, Methodological Guide for Grade 4 Teachers* (Kazakhstan Grade 4 TG), printed p. 6 (PDF p. 6) |
 | Thailand — Unit 9 (part 3) Travelling chase games — the Witch Hunts the Children (เกมแม่มดตามหาเด็ก), the Cat Pounces on the Bird (เกมแมวตะครุบนก), Step-Close Find a Partner (เกมก้าวชิดก้าวหาคู่) and the Horse into the Stable (เกมม้าเข้าคอก) (student book — MAC sample, PARTIAL) (original target `games-to-play/games-for-awareness-and-quick-response`) | Thailand, *Health & PE, Grade 2* (Thailand Grade 2 MAC Health & PE), Unit 9 (part 3), printed pp. 156–160 |
-**Acceptance count: taught in 9 countries (Ethiopia, Thailand, Philippines, Honduras, Iran, Zimbabwe, Jordan, DR Congo, Myanmar).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count; the Myanmar teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Laos is added as teacher-guide evidence only (see its Laos section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 10 countries (Ethiopia, Thailand, Philippines, Honduras, Iran, Zimbabwe, Jordan, DR Congo, Myanmar, Vietnam).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count; the Myanmar teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Laos is added as teacher-guide evidence only (see its Laos section below), named in the countries line but outside the acceptance count. Vietnam is added as student-book stock (see its Vietnam section below), inside the acceptance count.
 
 The Grade 3 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -566,3 +566,364 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/laos-pe-plac
 | Laos — Lesson 25 Dance-game: chase and touch: a tagging chase game (teacher guide — evidence) (original target `games-to-play/games-for-awareness-and-quick-response`) | Laos, *Laos Grade 2 G2 PE & Handicraft TG 2007*, printed pp. 62–63 |
 
 Laos's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. All thirteen Laos books stocked in this expansion are TEACHER guides, so Laos is teacher-guide evidence only in this lesson, outside the acceptance count. The two mislabelled "PE guide" files recorded in the placements file (Books R1–R2) are record-only UNREAD for PE, exactly as filed: the Grade 11 (M6) record's file is a French LV2 teacher guide and the Grade 7 (M2) record's file is a Japanese language student book; the real Grade 11 and Grade 7 PE guides are not held — library debt, as filed. Game, dance and sport rules are taught only as the placements summarise them; none have been invented.
+
+## Vietnam — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. Vietnam's twenty-one books stocked in this expansion are all STUDENT books (Giáo dục thể chất / GDTC, Kết nối tri thức với cuộc sống, Nhà xuất bản Giáo dục Việt Nam), all read COMPLETE and secured via the GitHub mid-size-books release assets, as filed (the books.json "pushed" route; the repo-tree route named in the brief returned 404 for every Vietnam path — these books live as release assets, not tree files). Vietnam is therefore filed as student-book stock, inside the acceptance count, in this lesson. The Grade 10–12 elective-sport books share general-knowledge parts whose Health placements are filed once per grade in vietnam-health-placements.md, as filed; the Grade 12 download-list records for volleyball, basketball and badminton are the same books as the secured Grade 12 books, not separate books, as filed. Each book's glossary (Bảng giải thích thuật ngữ) is inventory only, named in the book lines and not placed, as filed. Filing note: the placements file's printed tallies for Book 2 (52) and Book 13 (46) differ from their placement lines as filed (53 and 44 lines); every placement line is stocked, 878 lines in all.
+
+## Book 1 — GDTC 1 / PE Grade 1 (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 1 (Kết nối tri thức với cuộc sống)
+- Grade: 1 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year ©2020, 6th reprint; ISBN 978-604-0-19562-3
+- PDF pages: 98 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 49 placements — 36 to existing lessons, 13 NEW LESSON NEEDED (plus 4 Health placements filed in vietnam-health-placements.md from this book's general-knowledge and safety parts)
+- Vietnam's own way: every lesson follows the same shape — joint-rotation warm-up, a warm-up game, the new movement taught with commands and beat-by-beat pictures, practice alone/in pairs/in groups, a named support game, then picture-check questions; the year is built as drill formations first, then counted calisthenics, then body-part movement skills, then an elective sport (basketball or swimming).
+- Glossary (Bảng giải thích thuật ngữ, printed p. 94): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 1 Bài 1, Trò chơi Đứng ngồi theo hiệu lệnh — stand/sit on command warm-up game (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 1 GDTC 1*, printed p. 11 |
+| Vietnam — Chủ đề 1 Bài 2, Trò chơi Chạy đổi chỗ, vỗ tay nhau — run, swap places and clap hands with a partner (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 1 GDTC 1*, printed p. 16 |
+| Vietnam — Chủ đề 1 Bài 4, Trò chơi Diệt con vật có hại — reaction warm-up game acting out killing harmful animals (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 1 GDTC 1*, printed p. 24 |
+| Vietnam — Chủ đề 3 Bài 2, Trò chơi Chim bay, cò bay — "birds fly, storks fly" listening-and-reaction game (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 1 GDTC 1*, printed p. 45 |
+| Vietnam — Chủ đề 3 Bài 4, Trò chơi Tránh ô tô — dodge-the-cars movement game (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 1 GDTC 1*, printed p. 54 |
+| Vietnam — Môn Bóng rổ Bài 4, Trò chơi Tín hiệu đèn giao thông — traffic-light signal game: move and stop by the teacher's signals (also the swimming warm-up, p. 79) (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 1 GDTC 1*, printed p. 75 |
+
+## Book 2 — GDTC 2 / PE Grade 2 (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 2 (Kết nối tri thức với cuộc sống)
+- Grade: 2 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year ©2021, 5th reprint; ISBN 978-604-0-25138-1
+- PDF pages: 98 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 52 placements — 41 to existing lessons, 11 NEW LESSON NEEDED (plus 6 Health placements filed in vietnam-health-placements.md)
+- Vietnam's own way: Grade 2 builds on Grade 1 — formations now change shape (column/rank into a circle and back) and add marching on the spot; movement skills become walking marked lines straight and curved, speeding up into running; swimming advances from floating to pushing off and gliding.
+- Glossary (Bảng giải thích thuật ngữ, printed p. 94): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 1 Bài 1, Trò chơi Làm theo hiệu lệnh — follow-the-command formation game (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 2 GDTC 2*, printed p. 9 |
+| Vietnam — Chủ đề 1 Bài 3, Trò chơi Chạy đổi chỗ, vỗ tay nhau — run, swap places, clap (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 2 GDTC 2*, printed p. 20 |
+| Vietnam — Chủ đề 2 Bài 1, Trò chơi Đèn xanh đèn đỏ — red light, green light (also filed in Health as road-safety teaching) (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 2 GDTC 2*, printed p. 22 |
+| Vietnam — Chủ đề 2 Bài 3, Trò chơi Lái ô tô — driving-a-car movement game (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 2 GDTC 2*, printed p. 31 |
+| Vietnam — Chủ đề 3 Bài 1, Trò chơi Đứng ngồi theo hiệu lệnh — stand/sit on command (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 2 GDTC 2*, printed p. 36 |
+| Vietnam — Môn Bóng rổ Bài 2, Trò chơi Phản xạ nhanh — quick-reflexes warm-up game (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 2 GDTC 2*, printed p. 70 |
+| Vietnam — Môn Bơi Bài 1, Trò chơi Di chuyển theo hiệu lệnh — move-on-command game in the pool (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 2 GDTC 2*, printed p. 82 |
+
+## Book 3 — GDTC 3 / PE Grade 3 (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 3 (Kết nối tri thức với cuộc sống)
+- Grade: 3 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year ©2022, 4th reprint; ISBN 978-604-0-30701-9
+- PDF pages: 98 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 60 placements — 48 to existing lessons, 12 NEW LESSON NEEDED (plus 3 Health placements filed in vietnam-health-placements.md)
+- Vietnam's own way: Grade 3 drill work becomes formation-changing (one column/rank/circle splitting into two or three) and marching in step — the book shows it used at the Hội khoẻ Phù Đổng school sports festival; movement skills become travelling over obstacles on straight, zigzag and real terrain; swimming reaches kicking, arm strokes and the first combined swimming.
+- Glossary (Bảng giải thích thuật ngữ, printed p. 94): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 1 Bài 1, Trò chơi Làm theo hiệu lệnh — follow-the-command game (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 3 GDTC 3*, printed p. 9 |
+| Vietnam — Chủ đề 2 Bài 2, Trò chơi Chạy ngược chiều theo tín hiệu — run the opposite way on the signal (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 3 GDTC 3*, printed p. 34 |
+| Vietnam — Chủ đề 2 Bài 3, Trò chơi Sẵn sàng chờ lệnh — ready, wait-for-the-command game (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 3 GDTC 3*, printed p. 39 |
+| Vietnam — Chủ đề 3 Bài 1, Trò chơi Làm theo lời nói, không làm theo hành động — do what the words say, not what the leader does (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 3 GDTC 3*, printed p. 44 |
+| Vietnam — Môn Bóng rổ Bài 2, Trò chơi Di chuyển theo hiệu lệnh — move on command ("left!") (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 3 GDTC 3*, printed p. 69 |
+| Vietnam — Môn Bóng rổ Bài 4, Trò chơi Tìm người chỉ huy — find the commander guessing game (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 3 GDTC 3*, printed p. 76 |
+
+## Book 18 — GDTC 12 Bóng chuyền / PE Grade 12 Volleyball (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 12 — Bóng chuyền (Kết nối tri thức với cuộc sống)
+- Grade: 12 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2023 (national textbook appraisal Decision 1882/QĐ-BGDĐT, 29 June 2023); no ISBN printed
+- PDF pages: 64 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 21 placements — 19 to existing lessons, 2 NEW LESSON NEEDED (plus 4 Health placements filed in vietnam-health-placements.md from this book's shared general-knowledge part)
+- Vietnam's own way: the Grade 10–12 elective-sport books share one general-knowledge part (natural factors and nutrition for training) and then go deep into one sport — formal competition rules and refereeing first, then technique, then combined technique, then team tactics; every technique lesson is built from set numbered drills on court diagrams plus a named support game. The Grade 12 download-list records for volleyball, basketball and badminton are this same book (cover-image links), not separate books.
+- Glossary (Bảng giải thích thuật ngữ, printed p. 59): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 3 Bài 1, Trò chơi Chạy đổi vị trí — run and swap positions in a numbered circle on the call (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 12 GDTC 12 Volleyball*, printed p. 35 |
+| Vietnam — Chủ đề 4 Bài 2, Trò chơi Phản ứng nhanh — quick-reaction game: the called team sprints across the back line while partners give chase (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 12 GDTC 12 Volleyball*, printed p. 53 |
+
+## Book 4 — GDTC 4 / PE Grade 4 (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 4 (Kết nối tri thức với cuộc sống)
+- Grade: 4 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year ©2023, 3rd reprint; ISBN 978-604-0-35027-5
+- PDF pages: 95 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 51 placements — 44 to existing lessons, 7 NEW LESSON NEEDED (plus 5 Health placements filed in vietnam-health-placements.md)
+- Vietnam's own way: Grade 4 calisthenics is done WITH A HOOP (vòng) as hand apparatus; the skills theme teaches balance, long jump and high jump as named skills; swimming becomes breaststroke (bơi ếch, the frog stroke), built from leg action, arm action, then arms-legs-breathing together; one pool game replays flood-season life, moving goods by float.
+- Glossary (Bảng giải thích thuật ngữ, printed p. 90): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 1 Bài 1, Trò chơi Gió thổi — the wind blows: move to the called side (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 4 GDTC 4*, printed p. 9 |
+| Vietnam — Chủ đề 2 Bài 1, Trò chơi Làm theo hiệu lệnh — follow the command ("in front!") (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 4 GDTC 4*, printed p. 25 |
+| Vietnam — Chủ đề 3 Bài 1, Trò chơi Chạy đổi chỗ, bắt khăn — run, swap places and catch the scarf (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 4 GDTC 4*, printed p. 37 |
+| Vietnam — Môn Bóng rổ Bài 3, Trò chơi Tung – bắt bóng nhanh — toss and catch quickly (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 4 GDTC 4*, printed p. 65 |
+| Vietnam — Môn Bơi Bài 3, Trò chơi Pháo nổ — the firecracker pool game (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 4 GDTC 4*, printed p. 84 |
+
+## Book 21 — GDTC 12 Cầu lông / PE Grade 12 Badminton (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 12 — Cầu lông (Kết nối tri thức với cuộc sống)
+- Grade: 12 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2023 (national textbook appraisal Decision 1882/QĐ-BGDĐT, 29 June 2023); no ISBN printed
+- PDF pages: 72 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 34 placements — 26 to existing lessons, 8 NEW LESSON NEEDED
+- Vietnam's own way: same shared general-knowledge part as the other Grade 12 sport books (Phần I, printed pp. 4–10, identical text — its 4 Health placements are filed once with Book 18 in vietnam-health-placements.md); the badminton part runs umpiring and rules → drop-shot technique → overhead clears and the smash → doubles tactics, with a contest-style support game in nearly every lesson.
+- Glossary (Bảng giải thích một số thuật ngữ, printed p. 67): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 1 Bài 2, Trò chơi Chạy đảo chiều theo tín hiệu — running and reversing direction on the signal, in two circles (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 12 GDTC 12 Badminton*, printed p. 15 |
+| Vietnam — Chủ đề 3 Bài 3, Trò chơi Tìm cách lấy khăn — find a way to take the handkerchief: circle game where the outside player tries to grab the cloth (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 12 GDTC 12 Badminton*, printed p. 48 |
+
+## Book 20 — GDTC 12 Bóng đá / PE Grade 12 Football (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 12 — Bóng đá (Kết nối tri thức với cuộc sống)
+- Grade: 12 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2024 (2nd reprint); ISBN 978-604-0-39249-7
+- PDF pages: 91 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 36 placements — 25 to existing lessons, 11 NEW LESSON NEEDED (plus 4 Health placements filed in vietnam-health-placements.md from this book's general-knowledge part)
+- Vietnam's own way: this football book is a different author team's edition from the other three Grade 12 sport books — its general-knowledge part covers the same ground (natural factors, nutrition) in its own words, and the football part runs laws → kicking → stopping → heading → goalkeeping → winning the ball → group tactics, again with a named game in every lesson. The Grade 12 football download-list record (taphuan.nxbgd.vn page, "print 87 tr, ISBN 9786040392497") is this same book: the ISBN matches exactly and the printed book has 87 pages.
+- Glossary (Bảng giải thích một số thuật ngữ, printed p. 86): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 4 Bài 1, Trò chơi Di chuyển giữ bóng bằng đầu — moving while keeping the ball up with your head, in pairs (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 12 GDTC 12 Football*, printed p. 47 |
+| Vietnam — Chủ đề 6 Bài 1, Trò chơi Hãy chạy theo tôi — run after me: the circle chases the free player's call (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 12 GDTC 12 Football*, printed p. 68 |
+
+## Book 14 — GDTC 11 Bóng chuyền / PE Grade 11 Volleyball (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 11 — Bóng chuyền (Kết nối tri thức với cuộc sống)
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35179-1
+- PDF pages: 58 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 20 placements — 18 to existing lessons, 2 NEW LESSON NEEDED (plus 3 Health placements filed in vietnam-health-placements.md from this book's general-knowledge part)
+- Vietnam's own way: the Grade 11 books carry the same general-knowledge topic as Grade 12 (natural factors and nutrition) in a Grade 11 text, then one sport in depth — here: what volleyball does for the body, selected FIVB laws, movement and passing, serving and spiking, and basic match tactics.
+- Glossary (Bảng giải thích thuật ngữ, printed p. 54): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 2 Bài 1, Trò chơi Chạy đổi hướng — change-direction running between the two limit lines on the command (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 11 GDTC 11 Volleyball*, printed p. 16 |
+
+## Book 15 — GDTC 11 Bóng rổ / PE Grade 11 Basketball (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 11 — Bóng rổ (Kết nối tri thức với cuộc sống)
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35180-7
+- PDF pages: 66 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 23 placements — 22 to existing lessons, 1 NEW LESSON NEEDED
+- Vietnam's own way: Phần Một is the shared Grade 11 general-knowledge text (identical to Book 14's — its 3 Health placements are filed once with Book 14 in vietnam-health-placements.md); the basketball part runs what basketball does for the body and the throw-in/free-throw laws → passing, jump-stop and pivot, jump shot → fakes and dribbling → small-group tactics and zone defence.
+- Glossary (Bảng giải thích thuật ngữ, printed p. 62): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 4 Bài 2, Trò chơi Ai sẽ vượt qua? — who will get through: beat the house-keeper across the middle line (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 11 GDTC 11 Basketball*, printed p. 56 |
+
+## Book 16 — GDTC 11 Bóng đá / PE Grade 11 Football (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 11 — Bóng đá (Kết nối tri thức với cuộc sống)
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35054-1
+- PDF pages: 78 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 38 placements — 27 to existing lessons, 11 NEW LESSON NEEDED (plus 4 Health placements filed in vietnam-health-placements.md from this book's general-knowledge part)
+- Vietnam's own way: from the same author team as the Grade 12 football book — its own general-knowledge text, then football in seven topics: general matters and laws, dribbling, kicking, stopping, heading, goalkeeping, and individual tactics, with a named game in every lesson.
+- Glossary (Bảng giải thích một số thuật ngữ, printed p. 74): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 4 Bài 2, Trò chơi Phản ứng nhanh — quick reactions: the circle runs and the last one into the small circle when a number is called loses (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 11 GDTC 11 Football*, printed p. 42 |
+| Vietnam — Chủ đề 4 Bài 2, Trò chơi Dừng bóng theo hiệu lệnh — stop the ball on the command: the called player traps the thigh-high ball (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 11 GDTC 11 Football*, printed p. 45 |
+| Vietnam — Chủ đề 7 Bài 2, Trò chơi Rắn săn mồi — the snake hunts its prey: shoulder-to-shoulder pairs chase the dribbling players inside the square (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 11 GDTC 11 Football*, printed p. 73 |
+
+## Book 17 — GDTC 11 Cầu lông / PE Grade 11 Badminton (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 11 — Cầu lông (Kết nối tri thức với cuộc sống)
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35055-8
+- PDF pages: 82 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 47 placements — 33 to existing lessons, 14 NEW LESSON NEEDED (plus 4 Health placements filed in vietnam-health-placements.md from this book's general-knowledge part)
+- Vietnam's own way: from the same author team as the Grade 11 and 12 football books — its own general-knowledge text, then badminton built step by step: movement first, then movement combined with low shots, drop shots, high forehand shots and smashes, and singles tactics last; every lesson carries a warm-up game and a support game.
+- Glossary (Bảng giải thích một số thuật ngữ, printed p. 78): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 5 Bài 2, Trò chơi Đội nào nhanh hơn — which team is faster: run round your team to the called number position (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 11 GDTC 11 Badminton*, printed p. 46 |
+| Vietnam — Chủ đề 7 Bài 2, Trò chơi Người thừa thứ ba — the odd one out: the chaser and the runner swap around the circle pairs (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 11 GDTC 11 Badminton*, printed p. 70 |
+| Vietnam — Chủ đề 7 Bài 3, Trò chơi Hoàng Anh, Hoàng Yến — the two named teams race back to their limit lines when their name is called, dodging the shoulder tag (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 11 GDTC 11 Badminton*, printed p. 74 |
+
+## Book 10 — GDTC 10 Bóng chuyền / PE Grade 10 Volleyball (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 10 — Bóng chuyền (Kết nối tri thức với cuộc sống)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31176-4
+- PDF pages: 70 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 23 placements — 17 to existing lessons, 6 NEW LESSON NEEDED (plus 4 Health placements filed in vietnam-health-placements.md from this book's general-knowledge part)
+- Vietnam's own way: the Grade 10 books open with the sport's story (here volleyball from William G. Morgan's 1895 "Mintonette" to Vietnam's own federation and leagues), then the basic laws, then technique from the ready position up — ready positions and footwork, the two passes, the low serve, the spike and the block.
+- Glossary (Bảng giải thích thuật ngữ, printed p. 66): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 2 Bài 1, Trò chơi Ai làm đúng — who does it right: take the ready position that matches the number of whistle blasts (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 10 GDTC 10 Volleyball*, printed p. 24 |
+| Vietnam — Chủ đề 3 Bài 3, Trò chơi Ai nhanh nhất — who is fastest: jump on the spot at the end line, sprint across and touch your partner's hand (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 10 GDTC 10 Volleyball*, printed p. 60 |
+
+## Book 11 — GDTC 10 Bóng rổ / PE Grade 10 Basketball (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 10 — Bóng rổ (Kết nối tri thức với cuộc sống)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31174-0
+- PDF pages: 58 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 20 placements — 18 to existing lessons, 2 NEW LESSON NEEDED
+- Vietnam's own way: Phần Một is the shared Grade 10 general-knowledge text (identical to Book 10's — its 4 Health placements are filed once with Book 10 in vietnam-health-placements.md); the basketball part runs the game's story (Naismith's peach baskets to Vietnam's professional league) and basic FIBA laws, then movement, dribbling, the chest pass, and shooting.
+- Glossary (Bảng giải thích thuật ngữ, printed p. 54): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 2 Bài 1, Trò chơi Chim về tổ — birds to the nest: run to claim a hoop when the command comes (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 10 GDTC 10 Basketball*, printed p. 23 |
+| Vietnam — Chủ đề 3 Bài 1, Trò chơi Mèo bắt chuột — cat catches mouse: the "mouse" dribbles round the circle while the "cat" tries to tag a shoulder (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 10 GDTC 10 Basketball*, printed p. 39 |
+
+## Book 12 — GDTC 10 Bóng đá / PE Grade 10 Football (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 10 — Bóng đá (Kết nối tri thức với cuộc sống)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31086-6
+- PDF pages: 74 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 32 placements — 20 to existing lessons, 12 NEW LESSON NEEDED (plus 4 Health placements filed in vietnam-health-placements.md from this book's general-knowledge part)
+- Vietnam's own way: from the Quyết/Sơn author team — its own general-knowledge text, then football from its history (ancient ball games, the 1863 laws, FIFA 1904, and Vietnam's game from the French-era ports to the 2018–2019 triumphs) and basic laws into technique: dribbling, kicking, stopping, the throw-in and heading, and goalkeeping.
+- Glossary (Bảng giải thích một số thuật ngữ, printed p. 70): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Chủ đề 2 Bài 1, Trò chơi Người thừa thứ ba — the odd one out: chase and be chased around the circle of pairs (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 10 GDTC 10 Football*, printed p. 19 |
+| Vietnam — Chủ đề 2 Bài 2, Trò chơi Mèo đuổi chuột — cat chases mouse through the gaps in the hand-holding circle (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 10 GDTC 10 Football*, printed p. 22 |
+| Vietnam — Chủ đề 4 Bài 1, Trò chơi Ngày và đêm — day and night: the named team sprints to its line while the others try to tag shoulders (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 10 GDTC 10 Football*, printed p. 36 |
+| Vietnam — Chủ đề 4 Bài 2, Trò chơi Người thừa thứ hai — the second odd one out: the chaser tags a shoulder and takes that place in the circle (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 10 GDTC 10 Football*, printed p. 41 |
+| Vietnam — Chủ đề 6 Bài 1, Trò chơi Bắt bóng theo hiệu lệnh — catch the ball on the call: the named player in the circle catches the tossed ball (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 10 GDTC 10 Football*, printed p. 58 |
+
+## Book 5 — GDTC 5 / PE Grade 5 (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 5 (Kết nối tri thức với cuộc sống)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2024 (2nd reprint; national appraisal Decision 1963/QĐ-BGDĐT, 5 July 2023); ISBN 978-604-0-39219-0
+- PDF pages: 91 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 48 placements — 40 to existing lessons, 8 NEW LESSON NEEDED (plus 2 Health placements filed in vietnam-health-placements.md from this book's general-knowledge part)
+- Vietnam's own way: the general-knowledge part is eating for training; basic movement then goes formations → the counted stick-exercise routine → rolling, the forward roll, ladder climbing and clambering; the chosen sports are basketball and a first full front-crawl swimming course (legs, arms, then arms-and-breathing together), always with a named game in every lesson.
+- Glossary (Bảng giải thích thuật ngữ, printed p. 86): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Phần 2 Chủ đề 2 Bài 3, Trò chơi Người thừa thứ hai — the second odd one out: the spare player finds a place in the circle (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 5 GDTC 5*, printed p. 33 |
+| Vietnam — Phần 2 Chủ đề 3 Bài 2, Trò chơi Ai nhanh và đúng — who is quick and correct: run to the number called and stand right (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 5 GDTC 5*, printed p. 41 |
+| Vietnam — Phần 2 Chủ đề 3 Bài 4, Trò chơi Di chuyển và dừng — move and stop: freeze when the signal comes (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 5 GDTC 5*, printed p. 49 |
+| Vietnam — Phần 3 Chủ đề 1 Bài 1, Trò chơi Làm theo chỉ huy — follow the commander: dribble as the leader commands (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 5 GDTC 5*, printed p. 54 |
+| Vietnam — Phần 3 Chủ đề 1 Bài 3, Trò chơi Phản xạ nhanh — quick reactions: catch your number's ball in the circle (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 5 GDTC 5*, printed p. 62 |
+| Vietnam — Phần 3 Chủ đề 2 Bài 2, Trò chơi Nói và làm ngược — say it and do the opposite: the pool game of reversed commands (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 5 GDTC 5*, printed p. 71 |
+
+## Book 6 — GDTC 6 / PE Grade 6 (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 6 (Kết nối tri thức với cuộc sống)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2021 (5th reprint); ISBN 978-604-0-25647-8
+- PDF pages: 114 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 72 placements — 65 to existing lessons, 7 NEW LESSON NEEDED (plus 2 Health placements filed in vietnam-health-placements.md from this book's general-knowledge part)
+- Vietnam's own way: basic movement is athletics-led — the 60 m sprint in its four phases, ball throwing, middle-distance running with breathing rhythm, and the 30-count linked calisthenics routine; the chosen sports are badminton, football (taught through the 7-a-side laws) and basketball, each built from support exercises into first techniques, with a named game in every lesson.
+- Glossary (Bảng giải thích thuật ngữ, printed p. 110): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Phần Hai Chủ đề 1 Bài 2, Trò chơi Người thừa thứ ba — the odd one out chase in the circle (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 6 GDTC 6*, printed p. 15 |
+| Vietnam — Phần Hai Chủ đề 1 Bài 4, Trò chơi Bịt mắt bắt dê — blind man's buff: the blindfolded player catches the others in the circle (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 6 GDTC 6*, printed p. 20 |
+| Vietnam — Phần Hai Chủ đề 2 Bài 2, Trò chơi Mèo đuổi chuột — cat chases mouse through the circle gaps (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 6 GDTC 6*, printed p. 29 |
+| Vietnam — Phần Hai Chủ đề 4 Bài 3, Trò chơi Hoàng Anh, Hoàng Yến — the two named teams race to their lines when called (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 6 GDTC 6*, printed p. 58 |
+
+## Book 7 — GDTC 7 / PE Grade 7 (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 7 (Kết nối tri thức với cuộc sống)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2022 (4th reprint); ISBN 978-604-0-30725-5
+- PDF pages: 94 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 66 placements — 60 to existing lessons, 6 NEW LESSON NEEDED (plus 3 Health placements filed in vietnam-health-placements.md from this book's general-knowledge part)
+- Vietnam's own way: the general-knowledge part teaches choosing and using the natural environment (air, sun, water, terrain) for training; basic movement combines the sprint phases, teaches the squat-style long jump phase by phase, middle-distance running (including the "dead point" and how to breathe through it), and a new 30-count linked routine; the chosen sports are badminton, football and basketball.
+- Glossary (Bảng giải thích thuật ngữ, printed p. 90): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Phần Hai Chủ đề 1 Bài 1, Trò chơi Đuổi bắt theo hiệu lệnh — chase and catch on the signal (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 7 GDTC 7*, printed p. 10 |
+| Vietnam — Phần Hai Chủ đề 2 Bài 3, Trò chơi Thực hiện thế nào cho đúng — do it the right way: the class copies the opposite of the leader's call (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 7 GDTC 7*, printed p. 24 |
+| Vietnam — Phần Hai Chủ đề 3 Bài 3, Trò chơi Làm theo hiệu lệnh — follow the signals while moving round the circle (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 7 GDTC 7*, printed p. 36 |
+| Vietnam — Phần Ba Chủ đề 1 Bài 1, Trò chơi Giành cầu — winning the shuttle: pull the rope to move the shuttle to your square (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 7 GDTC 7*, printed p. 50 |
+| Vietnam — Phần Ba Chủ đề 2 Bài 1, Trò chơi Bạn nào nhanh hơn — who is faster: jump to your ball position on the whistle (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 7 GDTC 7*, printed p. 63 |
+| Vietnam — Phần Ba Chủ đề 3 Bài 1, Trò chơi Di chuyển theo "đèn tín hiệu" — moving by "traffic lights": green dribble fast, yellow on the spot, red catch the ball (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 7 GDTC 7*, printed p. 81 |
+
+## Book 8 — GDTC 8 / PE Grade 8 (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 8 (Kết nối tri thức với cuộc sống)
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2023 (3rd reprint); ISBN 978-604-0-35128-9
+- PDF pages: 96 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 63 placements — 56 to existing lessons, 7 NEW LESSON NEEDED (plus 3 Health placements filed in vietnam-health-placements.md from this book's general-knowledge part)
+- Vietnam's own way: the general-knowledge part is personal sports nutrition (energy needs, meal shares and ratios, eating for speed, endurance, strength and ball games); basic movement moves to the 100 m with a blocks start, the step-over high jump, middle-distance running, and rhythmic gymnastics to music; the chosen sports stay badminton, football and basketball at a higher level.
+- Glossary (Bảng giải thích thuật ngữ, printed p. 94): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Phần Hai Chủ đề 1 Bài 1, Trò chơi Ai nhanh hơn, khéo hơn — who is faster and cleverer: hop to the small circle and thread the rope through (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 8 GDTC 8*, printed p. 9 |
+| Vietnam — Phần Hai Chủ đề 1 Bài 2, Trò chơi Bạn nào nhanh hơn — who is faster: race to touch the ball in the middle circle (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 8 GDTC 8*, printed p. 13 |
+| Vietnam — Phần Hai Chủ đề 1 Bài 2, Trò chơi Xuất phát nhanh theo hiệu lệnh — fast starts on the signal (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 8 GDTC 8*, printed p. 16 |
+| Vietnam — Phần Hai Chủ đề 2 Bài 3, Trò chơi Đuổi bắt — chase and catch across the two lines (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 8 GDTC 8*, printed p. 28 |
+
+## Book 9 — GDTC 9 / PE Grade 9 (student book, Vietnamese)
+
+- Title as printed: Giáo dục thể chất 9 (Kết nối tri thức với cuộc sống)
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2024 (2nd reprint; national appraisal Decision 1551/QĐ-BGDĐT, 5 June 2023); ISBN 978-604-0-39367-8
+- PDF pages: 99 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 54 placements — 47 to existing lessons, 7 NEW LESSON NEEDED (plus 5 Health placements filed in vietnam-health-placements.md from this book's general-knowledge part)
+- Vietnam's own way: the general-knowledge part teaches hardening the body with air, cold water and sun, training in water and on terrain, and eating for speed, endurance, strength or ball games; basic movement consolidates the 100 m and middle-distance running, introduces the side-lying (western roll) high jump, and finishes the rhythmic routine; the chosen sports stay badminton, football and basketball.
+- Glossary (Bảng giải thích thuật ngữ, printed p. 94): inventory only, not placed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-pe-placements.md. This book is a STUDENT book, so Vietnam is filed as student-book stock in every lesson it touches — named in the countries line and provenance rows, and inside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Phần Hai Chủ đề 1 Bài 1, Trò chơi Ai nhanh hơn — who is faster: turn 180° and kick the ball over the circle (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 9 GDTC 9*, printed p. 11 |
+| Vietnam — Phần Hai Chủ đề 3 Bài 1, Trò chơi Bạn nào di chuyển nhanh hơn — who moves faster between lines A and B (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 9 GDTC 9*, printed p. 33 |
+| Vietnam — Phần Ba Chủ đề 3 Bài 1, Trò chơi Tránh bóng — dodging the ball: jump the swinging rope-ball in the circle (original target `games-to-play/games-for-awareness-and-quick-response`) | Vietnam, *Vietnam Grade 9 GDTC 9*, printed p. 84 |
+
+Vietnam's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. All twenty-one Vietnam books stocked in this expansion are STUDENT books, so Vietnam is student-book stock, inside the acceptance count, in this lesson. Game, dance and sport rules are taught only as the placements summarise them; none have been invented.
