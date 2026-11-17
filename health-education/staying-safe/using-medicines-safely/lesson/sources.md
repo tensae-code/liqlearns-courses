@@ -1,8 +1,8 @@
 # Sources — Using Medicines Safely
 
-countries: Turkey, Pakistan, Papua New Guinea
+countries: Turkey, Pakistan, Papua New Guinea, Thailand
 
-**Acceptance count: taught in 2 countries.** Turkey is filed as student-book stock, inside the acceptance count, in this lesson (see its Turkey section below). Pakistan is added as student-book stock (see its Pakistan section below), inside the acceptance count. Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below).
+**Acceptance count: taught in 3 countries.** Turkey is filed as student-book stock, inside the acceptance count, in this lesson (see its Turkey section below). Pakistan is added as student-book stock (see its Pakistan section below), inside the acceptance count. Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Thailand is added as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count.
 
 ## Turkey — Health expansion 2026-11-16
 
@@ -105,4 +105,46 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/papua-new-gu
 
 Papua New Guinea is added as teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — all the Papua New Guinea books stocked here are TEACHER guides, so Papua New Guinea is named in the countries line and provenance rows and the acceptance count is unchanged. The Papua New Guinea placements in this lesson were filed under the original strings recorded in the provenance rows above; the placements were resolved to this canonical lesson (`staying-safe/using-medicines-safely`) by registry Part 2A (the strings filed directly under this lesson's own slug needed no resolution). Papua New Guinea's own way is content, as the book lines above record it: Health is organised in four strands — Growth and Development, Individual and Community Health, Nutrition, Safety and First Aid — with PNG-specific teaching on betelnut chewing, local herbs as medicine, and life jackets and floaters for sea travel, and senior Health separating medical facts from sorcery/witchcraft beliefs about illness. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: using medicines safely, medicines and using them rationally, İlaçlar Akılcı İlaç Kullanımı, painkillers, antibiotics, Turkey Health & Traffic Culture, medicines and narcotics, medicines and smoking, opium, Pakistan Grades 6 7 9 11 Sehat-o-Jismani Taleem, Papua New Guinea, Papua New Guinea Grade 3 Health TG Grade 3, Papua New Guinea Grade 4 Health TG Grade 4
+## Thailand — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/thailand-health-placements.md. 3 Thailand placement(s) stocked in this lesson. The Thailand book(s) stocked in this lesson: Book 3, Book 7, Book 8 of that file. All Thailand books stocked here are STUDENT books obtained as publisher SAMPLE editions (MAC sample / SSR flipbook sample / พว. preview) and filed PARTIAL exactly as filed — the SAMPLE label is carried in every book entry and provenance row and is never upgraded to a complete read; each sample carries its book's complete printed contents and every teaching part is placed from those contents, per the wave's contents-level precedent. Thailand is therefore filed as student-book stock (SAMPLE), inside the acceptance count, in this lesson. Books 1 and 2 of the placements file (the Aksorn Catalog 2027 and the Basic Education Core Curriculum B.E. 2551) are RECORD-ONLY with 0 placements; nothing is stocked from them. No Thailand placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 3 — สุขศึกษาและพลศึกษา ป.2 / Health & PE, Grade 2 (student book, Thai) — MAC sample:**
+- Title as printed: หนังสือเรียนรายวิชาพื้นฐาน สุขศึกษาและพลศึกษา ชั้นประถมศึกษาปีที่ 2 (Basic-education textbook: Health & Physical Education, Primary 2), per the Basic Education Core Curriculum B.E. 2551
+- Grade: Grade 2 (ป.2) (student/teacher: STUDENT)
+- Publisher: MAC Education (แม็คเอ็ดดูเคชั่น); year B.E. 2562 (2019); ISBN 978-616-345-097-5 (National Library CIP data in the sample confirms 180 pp and the record's ISBN and price, 100 baht)
+- PDF pages: 18 sample pages of the 180-page book (cover/title page verified against the record title)
+- Verdict: PARTIAL — publisher sample ebook (elibrarycub S_22248): front matter, the book's complete printed contents and the opening of Unit 1 (the brain and caring for it, printed pp. 2–4) are present and were read in full; the remaining chapter interiors are not in the file. Every teaching part is placed below from the book's own contents. Health units 1–4 are placed here; PE units 5–9 (printed pp. 95–166) are placed in thailand-pe-placements.md.
+- Tally: 13 placements — 1 to existing lessons, 12 NEW LESSON NEEDED
+- Thailand's own way: the combined book is split cleanly in two — Health first (units 1–4), PE second (units 5–9) — and health behaviour is anchored on Thailand's own สุขบัญญัติแห่งชาติ (National Health Precepts); every unit is tagged to its core-curriculum strand and indicators (พ 1.1, พ 2.1, พ 4.1, พ 5.1).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/thailand-health-placements.md (Book 3 of that file).
+
+**Book 7 — สุขศึกษาและพลศึกษา ป.5 / Health & PE, Grade 5 (student book, Thai) — SSR flipbook sample:**
+- Title as printed: หนังสือเรียนรายวิชาพื้นฐาน สุขศึกษาและพลศึกษา ชั้นประถมศึกษาปีที่ 5 (Basic-education textbook: Health & Physical Education, Primary 5), per the Basic Education Core Curriculum B.E. 2551
+- Grade: Grade 5 (ป.5) (student/teacher: STUDENT)
+- Publisher: SSR — บริษัท สร้างสรรค์สื่อเพื่อการเรียนรู้ (สสร.) จำกัด; year B.E. 2564 (2021), 2nd printing; ISBN 978-616-7768-11-3 (record and imprint page agree)
+- PDF pages: no PDF — read from the recorded AnyFlip edition (anyflip.com/jyqxm/bdrt/basic), whose text layer was read in full for the front matter, standards tables, complete contents and Unit 1 (cover/imprint verified against the record title)
+- Verdict: PARTIAL — the publisher's order-sample flipbook (stamped "for use as a sample for ordering textbooks only"); the complete printed contents and the opening unit (the digestive and excretory systems and their care) were read in full; later chapter interiors were read at contents level only. Every teaching part is placed below from the book's own contents. Health units 1, 2, 5, 6 are placed here; PE units 3–4 (printed pp. 38–104) are placed in thailand-pe-placements.md.
+- Tally: 9 placements — 1 to existing lessons, 8 NEW LESSON NEEDED
+- Thailand's own way: health practice is again anchored on the National Health Precepts (สุขบัญญัติ), and the safety unit teaches children to read health information and advertising critically (รู้ทันข้อมูลข่าวสาร) before the disease and danger units.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/thailand-health-placements.md (Book 7 of that file).
+
+**Book 8 — สุขศึกษา ม.4 / Health Education, Grade 10 (student book, Thai) — พว. preview:**
+- Title as printed: หนังสือเรียนรายวิชาพื้นฐาน สุขศึกษา ชั้นมัธยมศึกษาปีที่ 4 (Basic-education textbook: Health Education, Secondary 4), Health & PE learning area, per the Basic Education Core Curriculum B.E. 2551
+- Grade: Grade 10 (ม.4) (student/teacher: STUDENT)
+- Publisher: พว. — สถาบันพัฒนาคุณภาพวิชาการ (Institute for Academic Quality Development); year B.E. 2557 (2014); ISBN no ISBN printed in the preview (author: อุทัย สงวนพงศ์)
+- PDF pages: no PDF — read from the recorded AnyFlip edition (anyflip.com/uctxx/pafh/basic; the record's URL carries a stray backtick, the working address is the one named in the record's own title text), whose 11 preview pages carry the front matter, the book's complete printed contents and the opening of Unit 1
+- Verdict: PARTIAL — publisher preview (pages 1–11 only); the complete printed contents were read and the opening of Unit 1 (the ten organ systems and the principles for keeping them working well) was read in full; later chapter interiors are not in the preview. Every teaching part is placed below from the book's own contents. This ม.4 book is Health only.
+- Tally: 10 placements — 0 to existing lessons, 10 NEW LESSON NEEDED
+- Thailand's own way: the book opens with a whole-body maintenance doctrine — nine standing principles for keeping every organ system efficient (regular exercise on the หนัก นาน บ่อย rule — hard, long, often; nutrition by the five groups; sleep; fresh air; stress management; personal hygiene; avoiding hazards; an annual health check; accident care) — before it takes the systems one by one.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/thailand-health-placements.md (Book 8 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Thailand — Unit 4.2 Medicines and health — the common household medicines (ยาสามัญประจำบ้าน) every home keeps (original string `staying-safe/safe-use-of-medicines`) — SAMPLE | Thailand Grade 2 MAC Health & PE, printed pp. 85–86 |
+| Thailand — Unit 6, Ch. 2 Using medicine safely — keeping yourself safe in the use of medicines (original string `staying-safe/safe-use-of-medicines`) — SAMPLE | Thailand Grade 5 SSR Health & PE, printed pp. 155–165 |
+| Thailand — Unit 7 Using medicines — the meaning and forms of medicine, fake, substandard and degraded medicines, the risks and dangers of medicine use, assessing toxicity, the principles of using medicine, and joining in preventing medicine risks (original string `staying-safe/safe-use-of-medicines`) — SAMPLE | Thailand Grade 10 พว. Health, printed pp. 101–110 |
+
+Thailand is added as student-book stock (SAMPLE) (see its book line(s) and row(s) above), inside the acceptance count. The Thailand placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved to this lesson by the slug registry (Part 2B for HELD-title-decision lines, Part 2A for descriptive slug strings; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Thailand's own way is content, as the book lines above record it: health behaviour anchored on Thailand's National Health Precepts (สุขบัญญัติแห่งชาติ), food teaching on the 9 Nutrition Precepts (โภชนบัญญัติ 9 ประการ) and the Nutrition Flag (ธงโภชนาการ), growth checked against the Department of Health weight-for-height graphs for Thai children, and the senior books turning outward to Thailand's own illness and death statistics, community accident planning and the Thai drug laws. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: using medicines safely, medicines and using them rationally, İlaçlar Akılcı İlaç Kullanımı, painkillers, antibiotics, Turkey Health & Traffic Culture, medicines and narcotics, medicines and smoking, opium, Pakistan Grades 6 7 9 11 Sehat-o-Jismani Taleem, Papua New Guinea, Papua New Guinea Grade 3 Health TG Grade 3, Papua New Guinea Grade 4 Health TG Grade 4, Thailand, Thailand Health & PE, สุขศึกษาและพลศึกษา

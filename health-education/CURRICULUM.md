@@ -1229,3 +1229,64 @@ PE-course records, but the primary PE books open with a
 carry safety teaching (water safety, traffic-signal games),
 and the secondary books carry a shared general-knowledge
 part on natural factors and nutrition for training.
+
+**Health expansion — Thailand — BUILT 2026-11-16:** 62 placements
+stocked — 60 into existing lessons and 2 as a new lesson
+(Checking Health Information) — bringing this course to
+**55 lessons**. All 62 are from Thailand's six student
+textbooks read as publisher SAMPLE editions (PARTIAL as
+filed): Grade 2 MAC Health & PE (13 Health placements),
+Grade 7 MAC Health (11), Grade 12 MAC Health & PE (10),
+Grade 3 SSR Health & PE (9), Grade 5 SSR Health & PE (9) and
+Grade 10 พว. Health (10). Stocked into existing lessons:
+Puberty and Growing Up (9), Family and Friends (6), Saying
+No to Drugs, Alcohol and Tobacco (6), The Body Systems (5),
+Avoiding Accidents and Staying Safe (5), Eating a Balanced
+Diet (4), Health Services and Health Workers (3), Preventing
+Sports Injuries and First Aid (3), Using Medicines Safely
+(3), What Health Is (2), Common Illnesses and Caring for the
+Sick (2), Water Safety (2), Why Exercise Keeps You Healthy
+(2), Preventing Common Diseases (2), Knowing My Body (1),
+Paying Attention and Crossing the Road Safely (1),
+Reproduction and Pregnancy (1), Keeping My Body Clean (1 —
+the Grade 3 strong-teeth chapter, resolved by registry
+Part 2A from `staying-safe/personal-hygiene-keeping-clean`),
+Staying Safe While Exercising (1) and Protecting Myself
+from Abuse (1). The HELD-title-decision placements are
+resolved by the slug registry (Part 2B: Knowing My Body ×1,
+Puberty and Growing Up ×4, The Body Systems ×5, Why Exercise
+Keeps You Healthy ×2, Reproduction and Pregnancy ×1);
+descriptive strings are resolved by registry Part 2A
+(`family-life-and-growing-up` → Family and Friends,
+`thailands-national-health-precepts` → What Health Is,
+`eating-for-health` → Eating a Balanced Diet,
+`when-you-are-ill-or-hurt` → Common Illnesses and Caring for
+the Sick, `staying-safe-around-water-and-at-home` → Water
+Safety, `safe-use-of-medicines` → Using Medicines Safely,
+`keeping-away-from-drugs` → Saying No to Drugs, Alcohol and
+Tobacco, `community-health` → Health Services and Health
+Workers, `community-safety` and
+`accidents-at-home-school-and-on-the-road` → Avoiding
+Accidents and Staying Safe, `keeping-germs-away` →
+Preventing Common Diseases, `preventing-violence` →
+Protecting Myself from Abuse, and
+`health-information-and-advertising` → the new Checking
+Health Information lesson); the remaining placements were
+filed under their lessons' own slugs. All Thailand books
+are STUDENT books obtained as publisher SAMPLE editions, so
+Thailand is student-book stock (SAMPLE), inside the
+acceptance counts, in every lesson it touches (each touched
+existing lesson's count rose by 1; the new lesson stands at
+acceptance count 1). Books 1 and 2 of the placements file
+(the Aksorn Catalog 2027 and the Basic Education Core
+Curriculum B.E. 2551) are RECORD-ONLY with 0 placements.
+No Thailand placement resolves to a PE-course lesson, so
+none was excluded as PE-bound. Thailand's own ways are
+content: health behaviour anchored on the National Health
+Precepts (สุขบัญญัติแห่งชาติ), food teaching on the
+9 Nutrition Precepts and the Nutrition Flag, growth checked
+against the Department of Health weight-for-height graphs
+for Thai children, a warm Thai-style family, and the senior
+books' Thai illness and death statistics, community
+accident planning and Thai drug laws (Narcotics Act
+B.E. 2522, volatile-substances decree B.E. 2533).

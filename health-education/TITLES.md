@@ -481,3 +481,26 @@ lesson and were excluded here as PE-bound; verified by git
 grep on origin/main they are not stocked in that PE lesson
 either, so they are not stocked anywhere and await a PE
 fix-up.
+
+The Health expansion then added (Thailand): **Checking
+Health Information**
+(`staying-safe/checking-health-information`) — 1 new lesson,
+bringing this course to 55 lessons. A further 60 Thailand
+placements were stocked into existing lessons (Puberty and
+Growing Up ×9, Family and Friends ×6, Saying No to Drugs,
+Alcohol and Tobacco ×6, The Body Systems ×5, Avoiding
+Accidents and Staying Safe ×5, Eating a Balanced Diet ×4,
+Health Services and Health Workers ×3, Preventing Sports
+Injuries and First Aid ×3, Using Medicines Safely ×3, What
+Health Is ×2, Common Illnesses and Caring for the Sick ×2,
+Water Safety ×2, Why Exercise Keeps You Healthy ×2,
+Preventing Common Diseases ×2, Knowing My Body, Paying
+Attention and Crossing the Road Safely, Reproduction and
+Pregnancy, Keeping My Body Clean, Staying Safe While
+Exercising, Protecting Myself from Abuse), all as
+student-book stock (SAMPLE) — all six Thailand books are
+STUDENT books obtained as publisher SAMPLE editions and
+filed PARTIAL exactly as filed, so each touched lesson's
+acceptance count rose by 1; the new lesson stands at
+acceptance count 1. No Thailand placement resolves to a
+PE-course lesson, so none was excluded as PE-bound.
