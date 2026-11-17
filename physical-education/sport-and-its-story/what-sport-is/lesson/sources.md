@@ -1,6 +1,6 @@
 # Sources — What Sport Is — and How It Differs from PE
 
-countries: Ethiopia, Afghanistan, Nicaragua, Honduras, Fiji, Greece, DR Congo, Turkey
+countries: Ethiopia, Afghanistan, Nicaragua, Honduras, Fiji, Greece, DR Congo, Turkey, Haiti
 
 **Book 1:** *Grade 6 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–95 + front matter (103 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g06-student-placements.md.
 
@@ -18,7 +18,7 @@ countries: Ethiopia, Afghanistan, Nicaragua, Honduras, Fiji, Greece, DR Congo, T
 | Prove-it questions folded from the book's own Chapter 1 review — Sub lesson 2 (teacher guide — evidence) | Ethiopia, *Grade 6 Teacher Guide*, Chapter 1 summary + assessment answers, printed pp. 10–11 (teacher guide — evidence) |
 | Prove-it questions folded from the book's own Chapter 1 review — Sub lesson 3 (teacher guide — evidence) | Ethiopia, *Grade 7 Teacher Guide*, §1.6 and Chapter 1 summary + review answers, printed pp. 12–13 (teacher guide — evidence) |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Nicaragua, Honduras, Greece, DR Congo, Turkey).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count. Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count.
+**Acceptance count: taught in 6 countries (Ethiopia, Nicaragua, Honduras, Greece, DR Congo, Turkey).** DR Congo is added as student-book stock (see its DR Congo section below), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count. Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count. Haiti is added as teacher-guide/programme evidence only (see its Haiti section below), named in the countries line but outside the acceptance count.
 
 The Grade 6 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -228,3 +228,23 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkey-pe-pl
 | Turkey — Unit 2 differentiated activities: Sporun Çeşitliliği (original target `sport-and-its-story/what-sport-is`) | Turkey G5 Foundations Differentiation TG |
 
 Turkey's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Turkey is student-book stock, inside the acceptance count, in this lesson (through its student books: Book 6, Book 14); its teacher guides stocked here (Book 22) are evidence only, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Haiti — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/haiti-pe-placements.md. The Haiti books stocked in this lesson are Book 1. All five Haiti books read for this expansion are TEACHER programmes, sequences or a framework programme (MENFP, French), so Haiti is teacher-guide/programme evidence only in this lesson — named in the countries line and in the rows below, but outside the acceptance count; no pupil's book in hand. Haiti's own way is content, as the book lines below record it. The book's Health parts are filed in haiti-health-placements.md and placed in the Health course. Two further Haiti records are record-only UNREAD with 0 placements — the 2023 Scribd version of the Grades 7–9 programme (the earlier parallel edition of Book 1, whose definitive 2024 version is read as Book 1) and the Scribd Module EPS Secondaire III — and the Google Drive record of the Grades 7–9 programme is the same book as Book 1, already read; nothing is stocked from them.
+
+**Book — Haiti Book 1 — Programme EPS 3e cycle 7e–9e AF (teacher programme, French) (teacher programme — evidence):**
+## Book 1 — Programme EPS 3e cycle 7e–9e AF (teacher programme, French)
+- Title as printed: Programme du 3e cycle (7e à 9e AF) — Éducation Physique et Sportive (EPS)
+- Grade: Grades 7–9 combined (3e cycle de l'enseignement fondamental) (student/teacher: TEACHER)
+- Publisher: MENFP, Direction Enseignement Fondamental (DEF); year 2024 (version définitive, 28 juillet 2024); ISBN no ISBN printed
+- PDF pages: 51 (cover/title page verified against the record title; read in place on disk at phase3-staging, 2,972,037 bytes matching the record)
+- Verdict: COMPLETE
+- Tally: 22 placements — 18 to existing lessons, 4 NEW LESSON NEEDED (Health parts of this book are filed in haiti-health-placements.md) [tally corrected by the finisher: the section as filed contains 22 placement lines]
+- Haiti's own way: EPS is organised by four "champs d'apprentissage" (learning fields — measurable performance; moving in varied environments; artistic/acrobatic body performance; leading an individual or collective contest) rather than by sport, with four general competencies built across all three years and teachers free to choose the support activities (APSA) that fit local spaces and equipment.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Haiti — Sport as cultural heritage — the fourth general competency: knowing the diversity of physical, sporting and artistic activities, their techniques and history, including the history of sport and its representatives in Haiti (teacher programme — evidence) (original target `sport-and-its-story/what-sport-is`) | Haiti Grades 7–9 Programme EPS 3e cycle, printed p. 30 |
+
+Haiti's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. All Haiti books stocked here are TEACHER programmes/sequences, so Haiti is teacher-guide/programme evidence only in this lesson, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; none have been invented.

@@ -426,3 +426,8 @@ The PE expansion then added: **Traditional Games of
 Bhutan**
 (`traditional-games-and-dances/traditional-games-of-bhutan`)
 — 1 new lesson, bringing this course to 235 lessons.
+
+The PE expansion then added: **Traditional Dances of
+Haiti**
+(`traditional-games-and-dances/traditional-dances-of-haiti`)
+— 1 new lesson, bringing this course to 236 lessons.
