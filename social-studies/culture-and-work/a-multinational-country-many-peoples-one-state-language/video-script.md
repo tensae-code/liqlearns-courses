@@ -1,0 +1,9 @@
+# Video script — A Multinational Country Many Peoples One State Language
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). This script is full: the placements name a video-script need for this lesson. Made later, when videos are made; the script is the slot's written form until then.
+
+---
+
+Kazakhstan Grade 1 Poznanie mira (919/929) (printed p. 70, printed p. 27, printed p. 16), teaches: Kazakhstan as a multinational country — more than 130 peoples living in friendship and unity, each with its own language and culture, with Kazakh as the state language uniting all.
+
+Kazakhstan's own way (Book 1): the primary course opens inside the child's own circles — class, family, school rules — and only then widens to the state: independence is taught as a checklist of a real state (territory, people, president and government, constitution, symbols, capital, tenge), and Kazakh family culture (the Tusau keser first-steps rite, the dastarkhan, hospitality) carries the family theme. Kazakhstan's own way (Book 2): Grade 2 turns the Grade 1 circles outward — the child meets "society" itself, etiquette as society's rules and the golden rule of politeness, then rights and duties read straight out of the Constitution, and service to society taught through volunteers and four named Kazakh figures (Abai, Akhmet Baitursynov, Kanysh Satpaev, Bauyrzhan Momyshuly). Kazakhstan's own way (Book 3): the NIS telling names things the Atamura book leaves general — citizenship by birth with rights and duties quoted from the Constitution itself (including Article 34's duty to respect the state symbols), the Kazakh custom of asar (the whole village doing unpaid work too heavy for one person) set beside modern volunteering, and the school collective drawn as a full staff chart from director to janitor.

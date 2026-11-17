@@ -1,6 +1,6 @@
 # Sources — My Town, My District and My Village
 
-countries: Suriname, Somalia, Serbia
+countries: Suriname, Somalia, Serbia, Kazakhstan
 
 **Book 1:** *Ik-boek* (student book, Dutch) — Suriname, Ministerie van Onderwijs en Volksontwikkeling (Suriname); year not printed (PDF created 2012); no ISBN printed. Title as printed: IK BOEK (OJW Leerjaar 3 — Ik-boek). Grade 3 (Leerjaar 3). 14 PDF pp. Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/suriname-placements.md.
 
@@ -26,3 +26,16 @@ Serbia's own way (Grade 2 Свет око нас): the second year widens the ci
 Searchable tags: my town, my district, my village, stad, district, dorp, Ik-boek, OJW, Suriname, Serbia, social studies, Somalia
 
 Somalia's own way (Grade 3): Grade 3 turns from people to the working nation — its lessons are built on daily experience and field visits (to farms, cooperatives and self-help workplaces), because a pupil of this age learns society by visiting it; politics is taught as one of the three growth directions of the pupil, alongside the social and the economic.
+
+
+Kazakhstan placements — Social Studies remaining strands (2026-11-17):
+
+**Book 2:** *Познание мира / Дүниетану Grade 2, Turmasheva* (student book, Russian edition 970.pdf read fully; Kazakh edition 980.pdf spot-checked — parallel language editions) — Title as printed: ПОЗНАНИЕ МИРА — Учебник для 2 класса общеобразовательной школы (Russian) / ДУНИЕТАНУ — Жалпы білім беретін мектептің 2-сыныбына арналған оқулық (Kazakh). Grade: Grade 2 (student/teacher: STUDENT). Publisher: Атамура (Atamura), Almaty; year 2022; ISBN 978-601-10-0048-2 (Russian edition). PDF pages: 128 in both editions (covers verified: Russian title page names Turmasheva, Salish, Miruk, Grade 2, Atamura 2022; Kazakh title page names Turmasheva, Salish, Raeva — same book, the third-author credit differs between editions; staging files grade-02/gov/kazakhstan/poznanie-mira/student/970.pdf (Russian parallel held in staging) and 980.pdf (the Kazakh link record), read in place; the link file's own record is the Kazakh edition). Earlier waves: not read before. Verdict: COMPLETE (contents-first; remaining-strand lessons read fully page by page; Kazakh edition spot-checked at cover, contents and the rights-and-duties spread — same lessons, pagination offset by about one page). Contents map: Integrated SS pp. 8–20 (Theme I: family, genealogy, me and society, friends, why people work), pp. 34–42 (Theme III: my school), pp. 45–52 (Theme IV: native land and transport), p. 105 (my native street); Civics/Citizenship pp. 23–28 (my rights and duties; the people of Kazakhstan), pp. 53–55 (flag, coat of arms and anthem); Morals/Values pp. 12–19 (society and the golden rule of politeness, friendship), p. 25 (serving society, volunteers); Culture p. 69 (state holidays, Nauryz); Geography pp. 88–102 (Theme VII environment: orientation, weather, natural conditions and dangers); History pp. 71–86 (studying the past, Huns, producing economy, Al-Farabi, Botai), p. 112 (ancient Otyrar); Health pp. 59–67 (Theme V: school life, our food, safety rules — named, Health course's); assessment pp. 20, 29, 42, 56, 86, 102, 114–116 (Check-yourself and Kaleidoscope pages — excluded); Glossary p. 123 (inventory-only). Tally: 16 placements — 3 to existing lessons, 13 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kazakhstan part — first-steps/my-town-my-district-and-my-village — Lesson 13 Kazakhstan is my Motherland (Казахстан — моя Родина) — teaches: the big Motherland (the Republic) against the small homeland (малая родина) — the aul, village or city where you were born and live; city life (wide streets, schools, theatres, museums, factories) against village life (farmers, herds, produce sent to the city), and the local-history museum that keeps the small homeland's story (the lesson's map and river content is Geography, named in the contents map) — Kazakhstan Grade 2 Poznanie mira (970/980), printed p. 45 | Kazakhstan, *Познание мира / Дүниетану Grade 2, Turmasheva (Atamura)* (student book), Lesson 13 Kazakhstan is my Motherland (Казахстан — моя Родина) — printed p. 45 |
+
+**Acceptance count: taught in 4 countries (Suriname, Somalia, Serbia, Kazakhstan).**
+
+Kazakhstan's own way (Book 2): Grade 2 turns the Grade 1 circles outward — the child meets "society" itself, etiquette as society's rules and the golden rule of politeness, then rights and duties read straight out of the Constitution, and service to society taught through volunteers and four named Kazakh figures (Abai, Akhmet Baitursynov, Kanysh Satpaev, Bauyrzhan Momyshuly).
