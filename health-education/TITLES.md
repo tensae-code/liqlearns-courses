@@ -107,3 +107,20 @@ Oman placements (Sound Posture ×2, Healthy Food and Sport)
 resolve to PE-course lessons and were excluded here; they
 are not yet stocked in PE (verified by git grep on
 origin/main — see CURRICULUM.md).
+
+The Health expansion then added (Zambia): **Common Illnesses
+and Caring for the Sick**
+(`staying-safe/common-illnesses-and-caring-for-the-sick`),
+**First Aid for Emergencies**
+(`staying-safe/first-aid-for-emergencies`), **Malnutrition**
+(`staying-safe/malnutrition`), **Reproduction and Pregnancy**
+(`staying-safe/reproduction-and-pregnancy`) and **Protecting
+Myself from Abuse**
+(`staying-safe/protecting-myself-from-abuse`) — 5 new lessons,
+bringing this course to 42 lessons. A further 6 Zambia
+placements were stocked into existing lessons (Preventing
+Common Diseases, Safe Water and Toilets, Eating a Balanced
+Diet, STIs and HIV Prevention, Mental Health and Wellbeing,
+Saying No to Drugs, Alcohol and Tobacco), all as teacher
+training manual evidence only — the course's acceptance
+counts are unchanged by this merge.

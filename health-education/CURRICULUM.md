@@ -340,6 +340,36 @@ their Health units to this file — so these 3 placements are
 excluded from Health as PE-bound but are NOT yet stocked in
 PE; they remain an open PE-side gap for the coordinator.
 
+**Health expansion — Zambia — BUILT 2026-11-16:** 20 placements
+from Zambia's *Health Teacher Training — Participants Manual*
+(teacher training manual, English, Government of the Republic
+of Zambia — Ministry of Education with Ministry of Health,
+2025, PARTIAL as filed) stocked — 6 into existing lessons
+(Preventing Common Diseases, Safe Water and Toilets, Eating a
+Balanced Diet, STIs and HIV Prevention, Mental Health and
+Wellbeing, Saying No to Drugs, Alcohol and Tobacco) and 14 as
+5 new lessons (Common Illnesses and Caring for the Sick,
+First Aid for Emergencies, Malnutrition, Reproduction and
+Pregnancy, Protecting Myself from Abuse) — bringing this
+course to **42 lessons**. The Zambia manual is a TEACHER
+training manual, so Zambia is teacher training manual
+evidence only, outside the acceptance counts; each new lesson
+stands at acceptance count 0, founded on teacher training
+manual evidence only, no pupil's book in hand, and the six
+existing lessons' counts are unchanged. The manual is
+PARTIAL as filed: the health-teaching chapters (Modules 2–3,
+Chapters 4–22) plus Chapters 23–24 are placed; Module 1
+(Chapters 1–3, printed pp. 1–29) and Module 4's
+programme-running chapters (Chapter 25 logistics/supply chain
+p. 221, Chapter 26 creating school health education
+programmes p. 232, Chapter 27 mentorship & communication
+p. 235, Chapter 28 school health networks p. 238) are
+school-health programme administration, named and not placed;
+the printed contents list skips Chapter 13 (numbering jumps
+12 → 14); Appendices (pp. 241–253) and References (p. 254)
+are inventory-only, not placed. No Zambia placement resolves
+to a PE-course lesson, so none was excluded as PE-bound.
+
 ## Unit 1 — Staying Safe
 
 1. **Hygiene for Sport — Wash After Exercise** (`staying-safe/hygiene-for-sport`) — personal hygiene around sport: sweat and dirt left unwashed become a breeding place for bacteria — so wash the body after PE and sport, keep sports…
@@ -379,6 +409,12 @@ PE; they remain an open PE-side gap for the coordinator.
 28. **Avoiding Accidents and Staying Safe** (`staying-safe/avoiding-accidents-and-staying-safe`) — avoiding accidents and staying safe: hazards and dangerous objects at home, school and in the community, safety signs and protective gear, and making safe decisions — taught in El Salvador's Grade 1 *Ciencia, Salud y Medio Ambiente 1* as spotting dangerous places and objects in the classroom (glass windows, ceiling lamps, bookcases), never touching electric cables and sockets, and making "No tocar" danger signs (Unit 3 Lesson 3, printed pp. 62–65).
 
 29. **Food Hygiene and Safe Cooking** (`staying-safe/food-hygiene-and-safe-cooking`) — food hygiene and safe cooking: keeping food safe from contamination — handling, storing, cooking, foodborne illness, allergies, additives and preservation — taught in El Salvador's Grade 1 *Ciencia, Salud y Medio Ambiente 1* as flies carrying dysentery, typhoid fever and parasites on their legs onto food, keeping food covered, and hygiene when preparing food (washing and disinfecting vegetables, handwashing) (Unit 4 Lessons 4–5, printed pp. 79–86).
+
+30. **Common Illnesses and Caring for the Sick** (`staying-safe/common-illnesses-and-caring-for-the-sick`) — common illnesses and caring for the sick: the named common illnesses (colds, malaria, tuberculosis, diarrhoea, worms and others), and supporting and caring for people who are ill — taught in Zambia's Health Teacher Training Manual 2025 as malaria (cause, signs, prevention with nets and spraying, care/referral), worm infestations (bilharzia and intestinal worms, deworming and hygiene), diarrhoeal diseases (dehydration danger, oral rehydration, prevention), acute respiratory tract infections, tuberculosis, and other common infections — eye, ear and skin infections, urinary tract infection, meningitis and mumps (Zambia teacher training manual, evidence only).
+31. **First Aid for Emergencies** (`staying-safe/first-aid-for-emergencies`) — first aid for emergencies: what first aid is, the first-aid kit, and first response for bleeding, wounds, burns, fractures, choking, poisoning, bites and collapse — taught in Zambia's Health Teacher Training Manual 2025 as ThinkMD and sick learner examination, the child health referral system (when and how to refer a sick child fast to the health facility), and front-line care theory — the first-response care a health teacher gives before referral (Zambia teacher training manual, evidence only).
+32. **Malnutrition** (`staying-safe/malnutrition`) — malnutrition: too little or wrong food — deficiency diseases, anaemia, healthy weight and BMI, and eating disorders — taught in Zambia's Health Teacher Training Manual 2025 as malnutrition and anaemia: undernutrition signs, iron and anaemia, and school feeding (Zambia teacher training manual, evidence only).
+33. **Reproduction and Pregnancy** (`staying-safe/reproduction-and-pregnancy`) — reproduction and pregnancy: the reproductive systems, how pregnancy begins and develops, preventing pregnancy, and reproductive health and rights — taught in Zambia's Health Teacher Training Manual 2025 as sexual and reproductive health: puberty, reproduction and keeping safe (Zambia teacher training manual, evidence only).
+34. **Protecting Myself from Abuse** (`staying-safe/protecting-myself-from-abuse`) — protecting myself from abuse: my body belongs to me — private parts and safe touch, kinds of abuse, gender-based violence, trafficking, child marriage, and getting help — taught in Zambia's Health Teacher Training Manual 2025 as corporal punishment (its harms and positive discipline instead), gender-based violence and child abuse (recognising abuse and the teacher's duty to protect and report), and ending child marriage — the harms of early marriage and keeping girls in school (Zambia teacher training manual, evidence only).
 
 ## Unit 2 — Fair Play and the Body
 
