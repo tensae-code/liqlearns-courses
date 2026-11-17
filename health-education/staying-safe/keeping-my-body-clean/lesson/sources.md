@@ -1,8 +1,8 @@
 # Sources — Keeping My Body Clean
 
-countries: Kiribati, El Salvador, Oman, Samoa, Timor-Leste, Myanmar, Philippines, Ukraine, Sierra Leone, Papua New Guinea, Bhutan, Iran, Estonia, Vietnam, Thailand, Tanzania, Mauritius, Eritrea, Nepal, Maldives, Fiji
+countries: Kiribati, El Salvador, Oman, Samoa, Timor-Leste, Myanmar, Philippines, Ukraine, Sierra Leone, Papua New Guinea, Bhutan, Iran, Estonia, Vietnam, Thailand, Tanzania, Mauritius, Eritrea, Nepal, Maldives, Fiji, Belize
 
-**Acceptance count: taught in 15 countries.** Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Tanzania is added as student-book stock (see its Tanzania section below), inside the acceptance count. Kiribati and El Salvador are filed as student-book stock, inside the acceptance count, in this lesson — Kiribati Book 1 is a student book (its Book 2 is a teacher guide, so its row there is teacher-guide evidence only; the country is already counted once via the student book), and El Salvador's book is a student book. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count; the Myanmar teacher guide stocked here is teacher-guide evidence only, outside the acceptance count. Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Sierra Leone is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Sierra Leone rows (see its Sierra Leone section below). Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — all five Bhutan books are STUDENT books. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Estonia is filed as teacher-guide evidence only in this lesson (see its Estonia section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is stocked in this lesson for Estonia. Vietnam is added as student-book stock (see its Vietnam section below), inside the acceptance count. Thailand is added as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Eritrea is added as student-book stock (see its Eritrea section below), inside the acceptance count — all three Eritrea books are STUDENT books. Nepal is added as student-book stock (see its Nepal section below), inside the acceptance count. Maldives is filed as teacher-guide evidence only in this lesson (see its Maldives section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Maldives rows in this lesson.
+**Acceptance count: taught in 15 countries.** Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Tanzania is added as student-book stock (see its Tanzania section below), inside the acceptance count. Kiribati and El Salvador are filed as student-book stock, inside the acceptance count, in this lesson — Kiribati Book 1 is a student book (its Book 2 is a teacher guide, so its row there is teacher-guide evidence only; the country is already counted once via the student book), and El Salvador's book is a student book. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count; the Myanmar teacher guide stocked here is teacher-guide evidence only, outside the acceptance count. Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Sierra Leone is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Sierra Leone rows (see its Sierra Leone section below). Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — all five Bhutan books are STUDENT books. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Estonia is filed as teacher-guide evidence only in this lesson (see its Estonia section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is stocked in this lesson for Estonia. Vietnam is added as student-book stock (see its Vietnam section below), inside the acceptance count. Thailand is added as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Eritrea is added as student-book stock (see its Eritrea section below), inside the acceptance count — all three Eritrea books are STUDENT books. Nepal is added as student-book stock (see its Nepal section below), inside the acceptance count. Maldives is filed as teacher-guide evidence only in this lesson (see its Maldives section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Maldives rows in this lesson. Belize is filed as teacher-curriculum / teacher-guide evidence only in this lesson (see its Belize section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for Belize in this lesson.
 
 **Book 1 — Stay Clean and Healthy, Big Book Year 3 Term 1 (student book — big-book reader, English):**
 - Title as printed: Stay Clean And Healthy
@@ -609,6 +609,136 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-hea
 | Maldives — Unit III, Lesson 7: Health and Hygiene — informed decisions on personal hygiene: daily habits for caring for the body, protecting oneself by good hygiene, toilet hygiene, foot care and body odour, and keeping the home clean (original string `staying-safe/keeping-ourselves-clean`) | Maldives Grade 8 Exploring H&PE TG, printed pp. 121–136 (teacher guide — evidence) |
 
 Maldives is filed as teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — every Maldives book stocked here is a TEACHER guide, so Maldives is named in the countries line and provenance rows and the acceptance count is unchanged at 14 countries. The Maldives placement(s) in this lesson were filed under the original string(s) recorded in each provenance row — `staying-safe/keeping-ourselves-clean` — resolved to this canonical lesson by the health slug registry Part 2A — and the original string is recorded in each provenance row above. Maldives's own way is content, as the book lines above record it: health is taught as three strands wound through every grade — growth and body awareness, personality and social development, and health of the individual and community — with the country's own concerns named in the later books (the nutritional status of Maldivians, the tropical diseases of the Maldives including thalassaemia, and first aid for near-drowning with CPR). This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+## Belize — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-health-placements.md. 33 Belize placement(s) stocked in this lesson. The Belize book(s) stocked in this lesson: Book 1, Book 2, Book 3, Book 4, Book 5, Book 6, Book 7 of that file. All eight Belize books are TEACHER books (teacher curriculum / teacher guides), so Belize is filed as teacher-curriculum / teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for Belize in this lesson. No Belize placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 1 — PE Lower Division, Healthy Lifestyles strand (teacher curriculum, English):**
+- Title as printed: Primary Curriculum: Physical Education — Lower Division, Healthy Lifestyles area of study (PDF metadata title "Physical Education Lower Division", author David Leacock)
+- Grade: Grades 1–3 — Infant I, Infant II, Standard I (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Belize; year 2004; ISBN no ISBN printed
+- PDF pages: 139 (cover/first page verified: Infant I Locomotor Skills; Healthy Lifestyles strand at printed pp. 22–41, 65–90, 115–139)
+- Verdict: COMPLETE
+- Tally: 47 placements — 3 to existing lessons, 44 NEW LESSON NEEDED
+- Belize's own way: health is taught inside the PE book as "Healthy Lifestyles" — abuse protection, hygiene, dangerous substances and safety practices (water, traffic, playground, classroom) revisited every year with rising detail.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-health-placements.md (Book 1 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Belize — Personal Hygiene — the importance of keeping clean and eating proper food, healthy and unhealthy food and its effects (original string `staying-safe/personal-hygiene-and-keeping-clean`) | Belize Grade 1 PE Lower, printed pp. 27–28 |
+| Belize — Personal Hygiene — review of why and how to apply basic personal hygiene (original string `staying-safe/personal-hygiene-and-keeping-clean`) | Belize Grade 2 PE Lower, printed p. 71 |
+| Belize — Importance of Keeping Clean and Personal Care of the Body — why keeping clean matters and daily care of the body (original string `staying-safe/personal-hygiene-and-keeping-clean`) | Belize Grade 3 PE Lower, printed p. 122 |
+
+**Book 2 — PE Middle Division, Healthy Lifestyles strand (teacher curriculum, English):**
+- Title as printed: Primary Curriculum: Physical education — Middle Division, Healthy Lifestyles area of study (PDF metadata title "Physical Education Middle Division", author David Leacock)
+- Grade: Grades 4–6 — Standard II, Standard III, Standard IV (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Belize; year 2004; ISBN no ISBN printed
+- PDF pages: 211 (Healthy Lifestyles strand at printed pp. 68–117, 118–165, 166–211; PE glossary pp. 64–67 inventory-only, not placed)
+- Verdict: COMPLETE
+- Tally: 60 placements — 6 to existing lessons, 54 NEW LESSON NEEDED
+- Belize's own way: the Middle Healthy Lifestyles strand is a full health course inside the PE book — body care and hygiene diseases, food handling and waste, first aid and traffic rules, substances and abuse, nutrition, communicable and childhood diseases with immunization, and Belize's natural resources, conservation and pollution.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-health-placements.md (Book 2 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Belize — Care of the Body — health as being well, not sick; all body parts should be cared for, including armpits, under the chin, behind the neck and collar area (original string `staying-safe/personal-hygiene-and-keeping-clean`) | Belize Grade 4 PE Middle, printed pp. 68–69 |
+| Belize — Equipment Used for Personal Hygiene — different materials and equipment for body care; proper care of clothes with the appropriate detergent (original string `staying-safe/personal-hygiene-and-keeping-clean`) | Belize Grade 4 PE Middle, printed pp. 74–75 |
+| Belize — Care of the Body — health as a condition of being well, not sick; daily care of the whole body (original string `staying-safe/personal-hygiene-and-keeping-clean`) | Belize Grade 5 PE Middle, printed pp. 121–122 |
+| Belize — Care of the Body — health as being well, not sick; at puberty oil glands produce more oil, so regular cleaning removes oil and dust that can cause skin infections such as boils (original string `staying-safe/personal-hygiene-and-keeping-clean`) | Belize Grade 6 PE Middle, printed pp. 169–170 |
+
+**Book 3 — HFLE Curriculum, Lower Division (teacher curriculum, English):**
+- Title as printed: Health and Family Life Education Curriculum for Primary Schools — Lower Division
+- Grade: Grades 1–3 — Infant One, Infant Two, Standard One (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Belize (with UNICEF and the Global Fund); year April 2006; ISBN no ISBN printed ("NO COPY RIGHTS NOR RESTRICTION OF USE" printed in the book)
+- PDF pages: 103 (cover verified against the record title; read in place from phase3-staging, 2,366,727 bytes = recorded size). Note: the book's own table of contents mislabels the third grade section "INFANT TWO" (printed pp. 72–97); the detail pages show it is Standard One.
+- Verdict: COMPLETE
+- Tally: 93 placements — 0 to existing lessons, 93 NEW LESSON NEEDED (5 of them HELD-title-decision fitness-concept lines)
+- Belize's own way: HFLE replaces the old Healthy Life Styles curriculum; every grade works the same four themes through life skills (self-awareness, communication, decision-making, refusal, coping), opening with the self and family before the body, food and environment. The duplicate UWI download-list record for this book is the same book as the secured record — read once.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-health-placements.md (Book 3 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Belize — 1.1 Good personal hygiene — daily care of self: bathing the whole body, brushing teeth after meals and before bed, hair care, nail care, changing clothes and underwear daily (original string `staying-safe/personal-hygiene-and-keeping-clean`) | Belize Grade 1 HFLE Curr Lower, printed pp. 24–25 |
+| Belize — 1.2 Parts of the body that need special care when bathing — face, neck and behind ears, underarms, hair, private parts, between the legs, buttocks and toes (original string `staying-safe/personal-hygiene-and-keeping-clean`) | Belize Grade 1 HFLE Curr Lower, printed pp. 24–25 |
+| Belize — 1.3 Products used for care of the body — soap, rag, towel, shampoo, conditioner and water, their uses and costs (original string `staying-safe/personal-hygiene-and-keeping-clean`) | Belize Grade 1 HFLE Curr Lower, printed pp. 24–25 |
+| Belize — 1.3 Self cleanliness — bathing once a day in Belize's tropical climate, washing ears, back, hands and feet, brushing teeth, wearing washed clothes; a dirty person can become sick from germs (original string `staying-safe/personal-hygiene-and-keeping-clean`) | Belize Grade 1 HFLE Curr Lower, printed pp. 40–41 |
+| Belize — 2.3 What we do to keep healthy — daily healthy practices at home and school (original string `staying-safe/personal-hygiene-and-keeping-clean`) | Belize Grade 1 HFLE Curr Lower, printed pp. 42–43 |
+| Belize — 1.1 Importance of good personal hygiene — why good hygiene matters (original string `staying-safe/personal-hygiene-and-keeping-clean`) | Belize Grade 2 HFLE Curr Lower, printed pp. 52–53 |
+| Belize — 1.2 Special care of the hair, teeth, hands — detailed care routines for hair, teeth and hands (original string `staying-safe/personal-hygiene-and-keeping-clean`) | Belize Grade 2 HFLE Curr Lower, printed pp. 52–53 |
+| Belize — 1.3 Products used to care for the hair, teeth and hands — naming and using hygiene products (original string `staying-safe/personal-hygiene-and-keeping-clean`) | Belize Grade 2 HFLE Curr Lower, printed pp. 52–53 |
+| Belize — 1.2 Special care of feet, shoes and clothing / 1.3 Products used to take care of feet, shoes and clothing — foot, shoe and clothing care and its products (original string `staying-safe/personal-hygiene-and-keeping-clean`) | Belize Grade 3 HFLE Curr Lower, printed pp. 80–81 |
+
+**Book 4 — HFLE Curriculum, Middle Division (teacher curriculum, English):**
+- Title as printed: Health and Family Life Education Curriculum for Primary Schools — Middle Division
+- Grade: Grades 4–6 — Standard Two, Standard Three, Standard Four (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Belize (with UNICEF and the Global Fund); year April 2006; ISBN no ISBN printed
+- PDF pages: 111 (cover verified against the record title; read in place from phase3-staging, 2,564,857 bytes = recorded size)
+- Verdict: COMPLETE
+- Tally: 120 placements — 1 to an existing lesson, 119 NEW LESSON NEEDED (9 of them HELD-title-decision fitness-concept lines)
+- Belize's own way: the same four HFLE themes spiral upward — alcohol, tobacco and marijuana enter through the Self theme, puberty and HIV & AIDS through Sexuality in Standard Four, and the Environment theme adds Belize's own environmental agencies, laws and disaster readiness. The duplicate UWI download-list record for this book is the same book as the secured record — read once.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-health-placements.md (Book 4 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Belize — 1.1 Proper grooming — grooming habits for school children (original string `staying-safe/personal-hygiene-and-keeping-clean`) | Belize Grade 4 HFLE Curr Middle, printed pp. 24–29 (overview p. 10) |
+| Belize — 1.2 Benefits of good personal hygiene — what good hygiene does for health and social well-being (original string `staying-safe/personal-hygiene-and-keeping-clean`) | Belize Grade 4 HFLE Curr Middle, printed pp. 24–29 |
+| Belize — 1.2 Hair grooming — caring for the hair (original string `staying-safe/personal-hygiene-and-keeping-clean`) | Belize Grade 5 HFLE Curr Middle, printed pp. 52–57 |
+| Belize — 1.3 Care of fingers and nails — nail and finger care (original string `staying-safe/personal-hygiene-and-keeping-clean`) | Belize Grade 5 HFLE Curr Middle, printed pp. 52–57 |
+| Belize — 1.4 Skin care — caring for the skin (original string `staying-safe/personal-hygiene-and-keeping-clean`) | Belize Grade 5 HFLE Curr Middle, printed pp. 52–57 |
+| Belize — 1.5 Products needed for good care of the body — choosing and using body-care products (original string `staying-safe/personal-hygiene-and-keeping-clean`) | Belize Grade 5 HFLE Curr Middle, printed pp. 52–57 |
+| Belize — 1.1 Keeping clean, smelling nice — cleanliness and body freshness in Standard Four (original string `staying-safe/personal-hygiene-and-keeping-clean`) | Belize Grade 6 HFLE Curr Middle, printed pp. 82–89 (overview p. 11) |
+| Belize — 1.2 Body odour — understanding and managing body odour (original string `staying-safe/personal-hygiene-and-keeping-clean`) | Belize Grade 6 HFLE Curr Middle, printed pp. 82–89 |
+| Belize — 1.3 Products needed to keep clean/smell nice — products for staying clean and fresh (original string `staying-safe/personal-hygiene-and-keeping-clean`) | Belize Grade 6 HFLE Curr Middle, printed pp. 82–89 |
+
+**Book 5 — HFLE Curriculum, Upper Division (teacher curriculum, English):**
+- Title as printed: Health and Family Life Education Curriculum for Primary Schools — Upper Division
+- Grade: Grades 7–8 — Standard Five, Standard Six (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Belize (with UNICEF and the Global Fund); year April 2006; ISBN no ISBN printed
+- PDF pages: 91 (cover verified against the record title; read in place from phase3-staging, 2,298,807 bytes = recorded size)
+- Verdict: COMPLETE
+- Tally: 95 placements — 0 to existing lessons, 95 NEW LESSON NEEDED (5 of them HELD-title-decision fitness-concept lines)
+- Belize's own way: Upper-division HFLE turns to adolescence — puberty, periods, parenting, STIs and HIV in depth, media influence, stress and crisis, and Belize's own diet-disease research and environmental law. The duplicate UWI download-list record for this book is the same book as the secured record — read once.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-health-placements.md (Book 5 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Belize — 1.1 Good personal hygiene — hygiene at puberty (original string `staying-safe/personal-hygiene-and-keeping-clean`) | Belize Grade 7 HFLE Curr Upper, printed pp. 28–37 (overview p. 10) |
+| Belize — 1.3 Care of the genitals — genital hygiene and care (original string `staying-safe/personal-hygiene-and-keeping-clean`) | Belize Grade 7 HFLE Curr Upper, printed pp. 28–37 |
+| Belize — 1.1 Basic body care — bathing regularly, care of teeth, pimples, exercise and rest, care of clothing (original string `staying-safe/personal-hygiene-and-keeping-clean`) | Belize Grade 8 HFLE Curr Upper, printed pp. 62–71 (overview p. 11) |
+
+**Book 6 — HFLE Resource Guide for Teachers, Lower Division (teacher guide, English):**
+- Title as printed: Health and Family Life Education (HFLE) Resource Guide for Teachers — Lower Division
+- Grade: Grades 1–3 — Infant One, Infant Two, Standard One (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Belize; year July 2006 (adapted from HFLE Draft Teacher Training Manual, June 2006, CARICOM/UNICEF life-skills materials); ISBN no ISBN printed
+- PDF pages: 150 (cover verified against the record title; read in place from phase3-staging, 980,023 bytes = recorded size)
+- Verdict: COMPLETE — Sections 1–4 are teacher pedagogy (HFLE background, ethics, life-skills approach, interactive methods, assessment) and Section 3's theme tables repeat the curriculum books' scope (already placed from Book 3), so only the Section 5 sample lesson plans are placed; the Section 6 glossary is inventory-only (named, not placed). All sample plans are Sexuality & Sexual Health theme, despite the contents page also promising Self/Interpersonal plans.
+- Tally: 10 placements — 0 to existing lessons, 10 NEW LESSON NEEDED
+- Belize's own way: the guide teaches protection through stories Belizean children live — the sample lessons use the story "STOP! Uncle Ernest!" and the swimsuit rule (private parts are the parts a swimsuit covers) to teach safe touch.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-health-placements.md (Book 6 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Belize — Lesson Plan 3: Taking Care of My Body: The Importance of Bathing — why and how we bathe and keep clean (original string `staying-safe/personal-hygiene-and-keeping-clean`) | Belize Grade 1 HFLE Res Lower, printed p. ~71 (Section 5) |
+| Belize — Lesson Plan 1: A Clean and Healthy Me: Practising Good Personal Hygiene — hygiene, sanitation and water practices for a clean, healthy me (adapted from The Joy of Learning participatory hygiene plans) (original string `staying-safe/personal-hygiene-and-keeping-clean`) | Belize Grade 2 HFLE Res Lower, printed p. ~85 (Section 5) |
+| Belize — Lesson Plan 3: A Clean and Healthy Me: Practising Good Personal Hygiene — hygiene and sanitation practices, Standard One version (original string `staying-safe/personal-hygiene-and-keeping-clean`) | Belize Grade 3 HFLE Res Lower, printed p. ~132 (Section 5) |
+
+**Book 7 — HFLE Resource Guide for Teachers, Middle Division (teacher guide, English):**
+- Title as printed: Health and Family Life Education (HFLE) Resource Guide for Teachers — Middle Division ("Empowering Children and Adolescents in Belize…")
+- Grade: Grades 4–6 — Standard Two, Standard Three, Standard Four (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Belize; year July 2006 (adapted from HFLE Draft Teacher Training Manual, June 2006); ISBN no ISBN printed
+- PDF pages: 139 (cover verified against the record title; read in place from phase3-staging, 1,585,081 bytes = recorded size)
+- Verdict: COMPLETE — as in Book 6, only Section 5 sample lesson plans are placed; Sections 1–4 are teacher pedagogy, Section 3's theme tables repeat Book 4's scope, and the Section 6 glossary is inventory-only. The graphic-organizer sample plan "Could It Happen To Me?" is identical to Book 6's and is not placed twice.
+- Tally: 9 placements — 0 to existing lessons, 9 NEW LESSON NEEDED
+- Belize's own way: the Middle guide's worked examples concentrate on gender and HIV — gender identity and roles, and HIV knowledge and empathy taught through scenarios and the saying "never judge a man until you have walked a mile in his shoes".
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-health-placements.md (Book 7 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Belize — Lesson Plan 1: Benefits of Good Personal Hygiene — what good personal hygiene does for us (curriculum topic 1.2) (original string `staying-safe/personal-hygiene-and-keeping-clean`) | Belize Grade 4 HFLE Res Middle, printed p. ~57 (Section 5) |
+| Belize — Lesson Plan 3: Body Odour — understanding and managing body odour (original string `staying-safe/personal-hygiene-and-keeping-clean`) | Belize Grade 6 HFLE Res Middle, printed p. ~121 (Section 5) |
+
+Belize is filed as teacher-curriculum / teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — all eight Belize books are TEACHER books, so Belize is named in the countries line and provenance rows but the acceptance count stays at 15 countries. The Belize placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug, or under its canonical NEW string, are recorded as filed), and the original string is recorded in each provenance row above. Belize's own way is content, as the book lines above record it: health is taught as HFLE (Health and Family Life Education) — four themes (Self and Interpersonal Relationships, Sexuality and Sexual Health, Eating and Fitness, Managing the Environment) spiralled through every grade, plus a Healthy Lifestyles strand inside the PE curriculum books. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
 Searchable tags: keeping my body clean, personal hygiene, morning washing routine, washing hands, hygiene in puberty, Stay Clean and Healthy, Kiribati Year 3 big book, WASH MHM Guide, water in personal hygiene, bathing daily, washing hands with soap, brushing teeth three times a day, cleaning ears and nails, El Salvador Ciencia Salud y Medio Ambiente 1, El agua fuente de salud, personal cleanliness habits, cleanliness protects from disease, Health Culture and Awareness, Oman G1 Teacher Guide, personal hygiene sanitation hand washing tooth brushing nits lice worms tinea ringworm, Samoa Years 1–8 Curriculum, puberty hygiene keeping clean through puberty, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, keeping yourself clean, washing hands cutting nails, face eyes ears hair teeth care, Myanmar PE Textbook Grade 6, Myanmar PE Teacher Guide Grade 6, ကာယပညာ, wearing clean clothes, Magsuot ng Malinis na Damit, changing underclothes, clean clothes for school play worship sleep, Philippines Grade 1 PE and Health LM, teen hygiene rules and norms, hygiene and physical development, Ukraine G7 Health Safety and Wellbeing Shyian, Sierra Leone AHLS Teacher's Manual SSS1 SSS2 SSS3, adolescent health and life skills Sierra Leone, Papua New Guinea, Papua New Guinea Grade 3 Health TG Grade 3, Papua New Guinea Grade 4 Health TG Grade 4, Bhutan, Bhutan II–III Suggested Activities, Bhutan Class IV Suggested Activities, Iran, Estonia, Toitumine ja liikumine, Digiõpik Lesson 24, Vietnam, Vietnam GDTC, Giáo dục thể chất, Thailand, Thailand Health & PE, สุขศึกษาและพลศึกษา, Tanzania, Tanzania Health and Environment, Afya na Mazingira, TIE Tanzania Institute of Education, Mauritius, Mauritius HPE, Mauritius Institute of Education, MIE, Eritrea, Life Skills Based Health Education Eritrea Grades 6 7 8, Menstruation, Wet Dreams, Body Hairs and Pimples, Personal Hygiene
 

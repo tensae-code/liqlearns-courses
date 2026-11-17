@@ -1,8 +1,8 @@
 # Sources — Sleep and Rest
 
-countries: Timor-Leste, Philippines, Ukraine, Turkey, Estonia, Nepal
+countries: Timor-Leste, Philippines, Ukraine, Turkey, Estonia, Nepal, Belize
 
-**Acceptance count: taught in 5 countries.** Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book. Estonia is filed as teacher-guide evidence only in this lesson (see its Estonia section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is stocked in this lesson for Estonia. Nepal is added as student-book stock (see its Nepal section below), inside the acceptance count.
+**Acceptance count: taught in 5 countries.** Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book. Estonia is filed as teacher-guide evidence only in this lesson (see its Estonia section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is stocked in this lesson for Estonia. Nepal is added as student-book stock (see its Nepal section below), inside the acceptance count. Belize is filed as teacher-curriculum / teacher-guide evidence only in this lesson (see its Belize section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for Belize in this lesson.
 
 **Book 1 — Saúde e Bem-Estar 7, Manual do aluno (student book, Portuguese/Tetum):**
 - Title as printed: Saúde e Bem-Estar / Saúde no Rahun-Di'ak 7 — Manual do aluno / Manuál ba estudante
@@ -116,6 +116,42 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/estonia-heal
 | Estonia — KI T3 Sleep and breakfast — why sleep and a morning meal matter, with a week-long sleep-and-breakfast diary, stage I (original string `staying-safe/HELD-title-decision`) | Estonia Stages I–III Toitumine ja liikumine TG, printed p. 65 |
 
 Estonia is added in this lesson as teacher-guide evidence only, outside the acceptance count — see the book lines and rows above. This lesson teaches its Estonia placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+## Belize — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-health-placements.md. 4 Belize placement(s) stocked in this lesson. The Belize book(s) stocked in this lesson: Book 3, Book 4 of that file. All eight Belize books are TEACHER books (teacher curriculum / teacher guides), so Belize is filed as teacher-curriculum / teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for Belize in this lesson. No Belize placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 3 — HFLE Curriculum, Lower Division (teacher curriculum, English):**
+- Title as printed: Health and Family Life Education Curriculum for Primary Schools — Lower Division
+- Grade: Grades 1–3 — Infant One, Infant Two, Standard One (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Belize (with UNICEF and the Global Fund); year April 2006; ISBN no ISBN printed ("NO COPY RIGHTS NOR RESTRICTION OF USE" printed in the book)
+- PDF pages: 103 (cover verified against the record title; read in place from phase3-staging, 2,366,727 bytes = recorded size). Note: the book's own table of contents mislabels the third grade section "INFANT TWO" (printed pp. 72–97); the detail pages show it is Standard One.
+- Verdict: COMPLETE
+- Tally: 93 placements — 0 to existing lessons, 93 NEW LESSON NEEDED (5 of them HELD-title-decision fitness-concept lines)
+- Belize's own way: HFLE replaces the old Healthy Life Styles curriculum; every grade works the same four themes through life skills (self-awareness, communication, decision-making, refusal, coping), opening with the self and family before the body, food and environment. The duplicate UWI download-list record for this book is the same book as the secured record — read once.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-health-placements.md (Book 3 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Belize — 4.3 Rest and its importance to health — any moving of the body is exercise and the body must rest after exercise to regain strength (original string `staying-safe/HELD-title-decision`) | Belize Grade 1 HFLE Curr Lower, printed pp. 38–39 |
+| Belize — 4.1 Rest and exercise / 4.2–4.3 Importance of exercise — rest and exercise together keep the body healthy (original string `staying-safe/HELD-title-decision`) | Belize Grade 2 HFLE Curr Lower, printed pp. 64–67 |
+
+**Book 4 — HFLE Curriculum, Middle Division (teacher curriculum, English):**
+- Title as printed: Health and Family Life Education Curriculum for Primary Schools — Middle Division
+- Grade: Grades 4–6 — Standard Two, Standard Three, Standard Four (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Belize (with UNICEF and the Global Fund); year April 2006; ISBN no ISBN printed
+- PDF pages: 111 (cover verified against the record title; read in place from phase3-staging, 2,564,857 bytes = recorded size)
+- Verdict: COMPLETE
+- Tally: 120 placements — 1 to an existing lesson, 119 NEW LESSON NEEDED (9 of them HELD-title-decision fitness-concept lines)
+- Belize's own way: the same four HFLE themes spiral upward — alcohol, tobacco and marijuana enter through the Self theme, puberty and HIV & AIDS through Sexuality in Standard Four, and the Environment theme adds Belize's own environmental agencies, laws and disaster readiness. The duplicate UWI download-list record for this book is the same book as the secured record — read once.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-health-placements.md (Book 4 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Belize — 4.2 Rest and exercise — balancing rest and exercise (original string `staying-safe/HELD-title-decision`) | Belize Grade 4 HFLE Curr Middle, printed pp. 30–37 |
+| Belize — 4.3 Sleep — sleep and health (original string `staying-safe/HELD-title-decision`) | Belize Grade 4 HFLE Curr Middle, printed pp. 30–37 |
+
+Belize is filed as teacher-curriculum / teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — all eight Belize books are TEACHER books, so Belize is named in the countries line and provenance rows but the acceptance count stays at 5 countries. The Belize placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug, or under its canonical NEW string, are recorded as filed), and the original string is recorded in each provenance row above. Belize's own way is content, as the book lines above record it: health is taught as HFLE (Health and Family Life Education) — four themes (Self and Interpersonal Relationships, Sexuality and Sexual Health, Eating and Fitness, Managing the Environment) spiralled through every grade, plus a Healthy Lifestyles strand inside the PE curriculum books. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
 Searchable tags: sleep and rest, social media and sleep, sleep hygiene, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, sleep and rest for health, Ang Aking Pagtulog, sleeping and waking early, 11 hours sleep, clean bedding, Philippines Grade 1 PE and Health LM, food and sleep decide health, active rest, Ukraine G5 Health Safety and Wellbeing Vasylenko, sleep and health, Uyku Düzeni ve Sağlık, sleep cycle, sleep hygiene, Turkey Health & Traffic Culture, Estonia, Toitumine ja liikumine, Digiõpik Lesson 24
 

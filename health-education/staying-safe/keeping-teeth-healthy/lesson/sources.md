@@ -1,8 +1,8 @@
 # Sources — Keeping Teeth Healthy
 
-countries: Papua New Guinea, Bhutan, Iran, Mauritius, Maldives, Fiji
+countries: Papua New Guinea, Bhutan, Iran, Mauritius, Maldives, Fiji, Belize
 
-**Acceptance count: taught in 4 countries.** Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson (see its Papua New Guinea section below). Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — all five Bhutan books are STUDENT books, so this lesson now stands at acceptance count 1. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Maldives is filed as teacher-guide evidence only in this lesson (see its Maldives section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Maldives rows in this lesson.
+**Acceptance count: taught in 4 countries.** Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson (see its Papua New Guinea section below). Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — all five Bhutan books are STUDENT books, so this lesson now stands at acceptance count 1. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Maldives is filed as teacher-guide evidence only in this lesson (see its Maldives section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Maldives rows in this lesson. Belize is filed as teacher-curriculum / teacher-guide evidence only in this lesson (see its Belize section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for Belize in this lesson.
 
 ## Papua New Guinea — Health expansion 2026-11-16
 
@@ -172,6 +172,69 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-hea
 | Maldives — Unit III, Lesson 7: Health and Hygiene — oral health for healthy living (original string `staying-safe/keeping-teeth-healthy`) | Maldives Grade 8 Exploring H&PE TG, printed pp. 121–136 (teacher guide — evidence) |
 
 Maldives is filed as teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — every Maldives book stocked here is a TEACHER guide, so Maldives is named in the countries line and provenance rows and the acceptance count is unchanged at 3 countries. The Maldives placement(s) in this lesson were filed under the original string(s) recorded in each provenance row — `staying-safe/keeping-teeth-healthy` — filed directly under this lesson's canonical NEW string, recorded as filed — and the original string is recorded in each provenance row above. Maldives's own way is content, as the book lines above record it: health is taught as three strands wound through every grade — growth and body awareness, personality and social development, and health of the individual and community — with the country's own concerns named in the later books (the nutritional status of Maldivians, the tropical diseases of the Maldives including thalassaemia, and first aid for near-drowning with CPR). This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+## Belize — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-health-placements.md. 5 Belize placement(s) stocked in this lesson. The Belize book(s) stocked in this lesson: Book 1, Book 3, Book 4, Book 7 of that file. All eight Belize books are TEACHER books (teacher curriculum / teacher guides), so Belize is filed as teacher-curriculum / teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for Belize in this lesson. No Belize placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 1 — PE Lower Division, Healthy Lifestyles strand (teacher curriculum, English):**
+- Title as printed: Primary Curriculum: Physical Education — Lower Division, Healthy Lifestyles area of study (PDF metadata title "Physical Education Lower Division", author David Leacock)
+- Grade: Grades 1–3 — Infant I, Infant II, Standard I (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Belize; year 2004; ISBN no ISBN printed
+- PDF pages: 139 (cover/first page verified: Infant I Locomotor Skills; Healthy Lifestyles strand at printed pp. 22–41, 65–90, 115–139)
+- Verdict: COMPLETE
+- Tally: 47 placements — 3 to existing lessons, 44 NEW LESSON NEEDED
+- Belize's own way: health is taught inside the PE book as "Healthy Lifestyles" — abuse protection, hygiene, dangerous substances and safety practices (water, traffic, playground, classroom) revisited every year with rising detail.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-health-placements.md (Book 1 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Belize — Care of the Teeth — importance of teeth, different kinds of teeth, what teeth do, parts of the teeth and taking care of them (original string `staying-safe/care-of-the-teeth`) | Belize Grade 3 PE Lower, printed p. 123 |
+
+**Book 3 — HFLE Curriculum, Lower Division (teacher curriculum, English):**
+- Title as printed: Health and Family Life Education Curriculum for Primary Schools — Lower Division
+- Grade: Grades 1–3 — Infant One, Infant Two, Standard One (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Belize (with UNICEF and the Global Fund); year April 2006; ISBN no ISBN printed ("NO COPY RIGHTS NOR RESTRICTION OF USE" printed in the book)
+- PDF pages: 103 (cover verified against the record title; read in place from phase3-staging, 2,366,727 bytes = recorded size). Note: the book's own table of contents mislabels the third grade section "INFANT TWO" (printed pp. 72–97); the detail pages show it is Standard One.
+- Verdict: COMPLETE
+- Tally: 93 placements — 0 to existing lessons, 93 NEW LESSON NEEDED (5 of them HELD-title-decision fitness-concept lines)
+- Belize's own way: HFLE replaces the old Healthy Life Styles curriculum; every grade works the same four themes through life skills (self-awareness, communication, decision-making, refusal, coping), opening with the self and family before the body, food and environment. The duplicate UWI download-list record for this book is the same book as the secured record — read once.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-health-placements.md (Book 3 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Belize — 3.4 Oral hygiene — keeping the mouth and teeth clean and healthy (original string `staying-safe/care-of-the-teeth`) | Belize Grade 2 HFLE Curr Lower, printed pp. 62–63 |
+
+**Book 4 — HFLE Curriculum, Middle Division (teacher curriculum, English):**
+- Title as printed: Health and Family Life Education Curriculum for Primary Schools — Middle Division
+- Grade: Grades 4–6 — Standard Two, Standard Three, Standard Four (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Belize (with UNICEF and the Global Fund); year April 2006; ISBN no ISBN printed
+- PDF pages: 111 (cover verified against the record title; read in place from phase3-staging, 2,564,857 bytes = recorded size)
+- Verdict: COMPLETE
+- Tally: 120 placements — 1 to an existing lesson, 119 NEW LESSON NEEDED (9 of them HELD-title-decision fitness-concept lines)
+- Belize's own way: the same four HFLE themes spiral upward — alcohol, tobacco and marijuana enter through the Self theme, puberty and HIV & AIDS through Sexuality in Standard Four, and the Environment theme adds Belize's own environmental agencies, laws and disaster readiness. The duplicate UWI download-list record for this book is the same book as the secured record — read once.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-health-placements.md (Book 4 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Belize — 3.1 Oral health — keeping teeth and mouth healthy (original string `staying-safe/care-of-the-teeth`) | Belize Grade 4 HFLE Curr Middle, printed pp. 30–37 |
+| Belize — 1.1 Oral hygiene — mouth and teeth care in Standard Three (original string `staying-safe/care-of-the-teeth`) | Belize Grade 5 HFLE Curr Middle, printed pp. 52–57 (overview p. 11) |
+
+**Book 7 — HFLE Resource Guide for Teachers, Middle Division (teacher guide, English):**
+- Title as printed: Health and Family Life Education (HFLE) Resource Guide for Teachers — Middle Division ("Empowering Children and Adolescents in Belize…")
+- Grade: Grades 4–6 — Standard Two, Standard Three, Standard Four (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Belize; year July 2006 (adapted from HFLE Draft Teacher Training Manual, June 2006); ISBN no ISBN printed
+- PDF pages: 139 (cover verified against the record title; read in place from phase3-staging, 1,585,081 bytes = recorded size)
+- Verdict: COMPLETE — as in Book 6, only Section 5 sample lesson plans are placed; Sections 1–4 are teacher pedagogy, Section 3's theme tables repeat Book 4's scope, and the Section 6 glossary is inventory-only. The graphic-organizer sample plan "Could It Happen To Me?" is identical to Book 6's and is not placed twice.
+- Tally: 9 placements — 0 to existing lessons, 9 NEW LESSON NEEDED
+- Belize's own way: the Middle guide's worked examples concentrate on gender and HIV — gender identity and roles, and HIV knowledge and empathy taught through scenarios and the saying "never judge a man until you have walked a mile in his shoes".
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-health-placements.md (Book 7 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Belize — Lesson Plan 2: Oral Hygiene — mouth and teeth care (curriculum topic 1.1) (original string `staying-safe/care-of-the-teeth`) | Belize Grade 5 HFLE Res Middle, printed p. ~88 (Section 5) |
+
+Belize is filed as teacher-curriculum / teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — all eight Belize books are TEACHER books, so Belize is named in the countries line and provenance rows but the acceptance count stays at 4 countries. The Belize placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug, or under its canonical NEW string, are recorded as filed), and the original string is recorded in each provenance row above. Belize's own way is content, as the book lines above record it: health is taught as HFLE (Health and Family Life Education) — four themes (Self and Interpersonal Relationships, Sexuality and Sexual Health, Eating and Fitness, Managing the Environment) spiralled through every grade, plus a Healthy Lifestyles strand inside the PE curriculum books. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
 Searchable tags: keeping teeth healthy, teeth and mouth, brushing teeth, oral hygiene, gums, dental products, Papua New Guinea Health TG Grade 3, Papua New Guinea Health TG Grade 4, Papua New Guinea, Bhutan, Bhutan PP–I Suggested Activities, Iran, Mauritius, Mauritius HPE, Mauritius Institute of Education, MIE
 

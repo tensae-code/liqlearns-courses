@@ -1,8 +1,8 @@
 # Sources — Water Safety
 
-countries: Samoa, Greece, Azerbaijan, Iran, Thailand, Maldives, Fiji
+countries: Samoa, Greece, Azerbaijan, Iran, Thailand, Maldives, Fiji, Belize
 
-**Acceptance count: taught in 5 countries.** Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Samoa is filed as curriculum statement evidence only in this lesson — named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this lesson. Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below). Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Thailand is added as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count. Maldives is filed as teacher-guide evidence only in this lesson (see its Maldives section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Maldives rows in this lesson.
+**Acceptance count: taught in 5 countries.** Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Samoa is filed as curriculum statement evidence only in this lesson — named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this lesson. Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below). Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Thailand is added as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count. Maldives is filed as teacher-guide evidence only in this lesson (see its Maldives section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Maldives rows in this lesson. Belize is filed as teacher-curriculum / teacher-guide evidence only in this lesson (see its Belize section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for Belize in this lesson.
 
 **Book 1 — Samoa HPE Primary Curriculum Statement, Years 1–8 (curriculum statement, English):**
 - Title as printed: Health and Physical Education, Years 1–8, Primary School Curriculum
@@ -123,6 +123,42 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-hea
 | Maldives — Unit III, Lesson 11: My Safety — safety in aquatic environments, including personal flotation devices (original string `staying-safe/water-safety`) | Maldives Grade 5 Exploring H&PE TG, printed pp. 119–127 (teacher guide — evidence) |
 
 Maldives is filed as teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — every Maldives book stocked here is a TEACHER guide, so Maldives is named in the countries line and provenance rows and the acceptance count is unchanged at 4 countries. The Maldives placement(s) in this lesson were filed under the original string(s) recorded in each provenance row — `staying-safe/water-safety` — filed directly under this lesson's canonical NEW string, recorded as filed — and the original string is recorded in each provenance row above. Maldives's own way is content, as the book lines above record it: health is taught as three strands wound through every grade — growth and body awareness, personality and social development, and health of the individual and community — with the country's own concerns named in the later books (the nutritional status of Maldivians, the tropical diseases of the Maldives including thalassaemia, and first aid for near-drowning with CPR). This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+## Belize — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-health-placements.md. 4 Belize placement(s) stocked in this lesson. The Belize book(s) stocked in this lesson: Book 1, Book 3 of that file. All eight Belize books are TEACHER books (teacher curriculum / teacher guides), so Belize is filed as teacher-curriculum / teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for Belize in this lesson. No Belize placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 1 — PE Lower Division, Healthy Lifestyles strand (teacher curriculum, English):**
+- Title as printed: Primary Curriculum: Physical Education — Lower Division, Healthy Lifestyles area of study (PDF metadata title "Physical Education Lower Division", author David Leacock)
+- Grade: Grades 1–3 — Infant I, Infant II, Standard I (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Belize; year 2004; ISBN no ISBN printed
+- PDF pages: 139 (cover/first page verified: Infant I Locomotor Skills; Healthy Lifestyles strand at printed pp. 22–41, 65–90, 115–139)
+- Verdict: COMPLETE
+- Tally: 47 placements — 3 to existing lessons, 44 NEW LESSON NEEDED
+- Belize's own way: health is taught inside the PE book as "Healthy Lifestyles" — abuse protection, hygiene, dangerous substances and safety practices (water, traffic, playground, classroom) revisited every year with rising detail.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-health-placements.md (Book 1 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Belize — Water Safety — safety practices in and around water (original string `staying-safe/water-safety`) | Belize Grade 1 PE Lower, printed p. 36 |
+| Belize — Water Safety — dangers of playing in and around water (original string `staying-safe/water-safety`) | Belize Grade 2 PE Lower, printed p. 83 |
+| Belize — Water Safety — what to do in case of drowning, keeping an accident from becoming fatal (original string `staying-safe/water-safety`) | Belize Grade 3 PE Lower, printed p. 134 |
+
+**Book 3 — HFLE Curriculum, Lower Division (teacher curriculum, English):**
+- Title as printed: Health and Family Life Education Curriculum for Primary Schools — Lower Division
+- Grade: Grades 1–3 — Infant One, Infant Two, Standard One (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Belize (with UNICEF and the Global Fund); year April 2006; ISBN no ISBN printed ("NO COPY RIGHTS NOR RESTRICTION OF USE" printed in the book)
+- PDF pages: 103 (cover verified against the record title; read in place from phase3-staging, 2,366,727 bytes = recorded size). Note: the book's own table of contents mislabels the third grade section "INFANT TWO" (printed pp. 72–97); the detail pages show it is Standard One.
+- Verdict: COMPLETE
+- Tally: 93 placements — 0 to existing lessons, 93 NEW LESSON NEEDED (5 of them HELD-title-decision fitness-concept lines)
+- Belize's own way: HFLE replaces the old Healthy Life Styles curriculum; every grade works the same four themes through life skills (self-awareness, communication, decision-making, refusal, coping), opening with the self and family before the body, food and environment. The duplicate UWI download-list record for this book is the same book as the secured record — read once.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-health-placements.md (Book 3 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Belize — 2.2 Water safety — staying safe in and around water (environment theme) (original string `staying-safe/water-safety`) | Belize Grade 1 HFLE Curr Lower, printed pp. 42–43 |
+
+Belize is filed as teacher-curriculum / teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — all eight Belize books are TEACHER books, so Belize is named in the countries line and provenance rows but the acceptance count stays at 5 countries. The Belize placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug, or under its canonical NEW string, are recorded as filed), and the original string is recorded in each provenance row above. Belize's own way is content, as the book lines above record it: health is taught as HFLE (Health and Family Life Education) — four themes (Self and Interpersonal Relationships, Sexuality and Sexual Health, Eating and Fitness, Managing the Environment) spiralled through every grade, plus a Healthy Lifestyles strand inside the PE curriculum books. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
 Searchable tags: water safety, river sea swimming pools, water safety rules practised every year, swimming classes optional, Samoa Years 1–8 Curriculum, safety rules in swimming, Κανόνες ασφάλειας στην κολύμβηση, keeping the safety rules saves lives, never swim until 3 hours after your last meal, Greece Grades 7-9 Fysiki Agogi Gymnasiou, Azerbaijan Fiziki Tərbiyə Grades 6-10, Georgian-language edition, hardening the body, self-control diary, Iran, Thailand, Thailand Health & PE, สุขศึกษาและพลศึกษา
 

@@ -1,8 +1,8 @@
 # Sources — Protecting Myself from Abuse
 
-countries: Zambia, Samoa, Turkey, Sierra Leone, Pakistan, Thailand, Tanzania, Eritrea, Jamaica, Maldives, Fiji
+countries: Zambia, Samoa, Turkey, Sierra Leone, Pakistan, Thailand, Tanzania, Eritrea, Jamaica, Maldives, Fiji, Belize
 
-**Acceptance count: taught in 5 countries.** Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Tanzania is added as student-book stock (see its Tanzania section below), inside the acceptance count. Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Turkey is filed as teacher-guide evidence only in this lesson — Book 1 is a TEACHER guide, so Turkey is named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this Turkey row. Sierra Leone is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Sierra Leone rows (see its Sierra Leone section below). Pakistan is added as student-book stock (see its Pakistan section below), inside the acceptance count. Thailand is added as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count. Eritrea is added as student-book stock (see its Eritrea section below), inside the acceptance count — all three Eritrea books are STUDENT books. Jamaica is filed as curriculum-guide evidence only in this lesson (see its Jamaica section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Jamaica rows in this lesson — both read Jamaica books are curriculum guides (TEACHER). Maldives is filed as teacher-guide evidence only in this lesson (see its Maldives section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Maldives rows in this lesson.
+**Acceptance count: taught in 5 countries.** Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Tanzania is added as student-book stock (see its Tanzania section below), inside the acceptance count. Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Turkey is filed as teacher-guide evidence only in this lesson — Book 1 is a TEACHER guide, so Turkey is named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this Turkey row. Sierra Leone is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Sierra Leone rows (see its Sierra Leone section below). Pakistan is added as student-book stock (see its Pakistan section below), inside the acceptance count. Thailand is added as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count. Eritrea is added as student-book stock (see its Eritrea section below), inside the acceptance count — all three Eritrea books are STUDENT books. Jamaica is filed as curriculum-guide evidence only in this lesson (see its Jamaica section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Jamaica rows in this lesson — both read Jamaica books are curriculum guides (TEACHER). Maldives is filed as teacher-guide evidence only in this lesson (see its Maldives section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Maldives rows in this lesson. Belize is filed as teacher-curriculum / teacher-guide evidence only in this lesson (see its Belize section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for Belize in this lesson.
 
 **Book 1 — Health Teacher Training, Participants Manual 2025 (teacher training manual, English):**
 - Title as printed: Health Teacher Training — Participants Manual (LB)
@@ -269,6 +269,144 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-hea
 | Maldives — Unit I, Lesson 2: Keeping Safe — personal body safety and decision-making in a crisis: abusive and risky situations, wanted and unwanted touching, verbal and non-verbal cues to avoid risk, good and bad secrets, and the risks of giving personal information through the internet; the crossover from childhood to adolescence (original string `staying-safe/personal-body-safety`) | Maldives Grade 6 Exploring H&PE TG, printed pp. 14–28 (teacher guide — evidence) |
 
 Maldives is filed as teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — every Maldives book stocked here is a TEACHER guide, so Maldives is named in the countries line and provenance rows and the acceptance count is unchanged at 4 countries. The Maldives placement(s) in this lesson were filed under the original string(s) recorded in each provenance row — `staying-safe/personal-body-safety` — resolved to this canonical lesson by the health slug registry Part 2A — and the original string is recorded in each provenance row above. Maldives's own way is content, as the book lines above record it: health is taught as three strands wound through every grade — growth and body awareness, personality and social development, and health of the individual and community — with the country's own concerns named in the later books (the nutritional status of Maldivians, the tropical diseases of the Maldives including thalassaemia, and first aid for near-drowning with CPR). This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+## Belize — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-health-placements.md. 54 Belize placement(s) stocked in this lesson. The Belize book(s) stocked in this lesson: Book 1, Book 2, Book 3, Book 4, Book 5, Book 6 of that file. All eight Belize books are TEACHER books (teacher curriculum / teacher guides), so Belize is filed as teacher-curriculum / teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for Belize in this lesson. No Belize placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 1 — PE Lower Division, Healthy Lifestyles strand (teacher curriculum, English):**
+- Title as printed: Primary Curriculum: Physical Education — Lower Division, Healthy Lifestyles area of study (PDF metadata title "Physical Education Lower Division", author David Leacock)
+- Grade: Grades 1–3 — Infant I, Infant II, Standard I (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Belize; year 2004; ISBN no ISBN printed
+- PDF pages: 139 (cover/first page verified: Infant I Locomotor Skills; Healthy Lifestyles strand at printed pp. 22–41, 65–90, 115–139)
+- Verdict: COMPLETE
+- Tally: 47 placements — 3 to existing lessons, 44 NEW LESSON NEEDED
+- Belize's own way: health is taught inside the PE book as "Healthy Lifestyles" — abuse protection, hygiene, dangerous substances and safety practices (water, traffic, playground, classroom) revisited every year with rising detail.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-health-placements.md (Book 1 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Belize — Physical Abuse — types of abuse: beating, biting, kicking, stoning, and how to cope (original string `staying-safe/protecting-myself-from-abuse`) | Belize Grade 1 PE Lower, printed p. 22 |
+| Belize — Neglect — denial of basic needs (food, clothing, shelter, love) and ways of coping when basic needs are not met (original string `staying-safe/protecting-myself-from-abuse`) | Belize Grade 1 PE Lower, printed p. 23 |
+| Belize — Sexual Abuse — good touch/bad touch, possible agents of child molestation (friends, strangers) (original string `staying-safe/protecting-myself-from-abuse`) | Belize Grade 1 PE Lower, printed p. 24 |
+| Belize — Verbal Abuse — foul language and hurtful words as abuse (unit linkages) (original string `staying-safe/protecting-myself-from-abuse`) | Belize Grade 1 PE Lower, printed p. 26 |
+| Belize — Physical Abuse — review of Infant I types (beating, biting, kicking) and coping (original string `staying-safe/protecting-myself-from-abuse`) | Belize Grade 2 PE Lower, printed p. 65 |
+| Belize — Neglect: Denial of Basic Needs — food, clothing, shelter, love; introducing proper parental guidance (original string `staying-safe/protecting-myself-from-abuse`) | Belize Grade 2 PE Lower, printed p. 66 |
+| Belize — Verbal Abuse — review of foul language; feelings of the abused and of others (original string `staying-safe/protecting-myself-from-abuse`) | Belize Grade 2 PE Lower, printed p. 67 |
+| Belize — Sexual Abuse — revision of places where molestation may occur and possible causes of child abuse (original string `staying-safe/protecting-myself-from-abuse`) | Belize Grade 2 PE Lower, printed p. 68 |
+| Belize — Physical Abuse — review of all forms dealt with in Infant I and II (original string `staying-safe/protecting-myself-from-abuse`) | Belize Grade 3 PE Lower, printed p. 115 |
+| Belize — Neglect: Denial of Basic Needs — review of basic needs (food, clothing, shelter, love) (original string `staying-safe/protecting-myself-from-abuse`) | Belize Grade 3 PE Lower, printed p. 116 |
+| Belize — Verbal Abuse — foul language, teasing, demeaning and degrading words, name-calling (original string `staying-safe/protecting-myself-from-abuse`) | Belize Grade 3 PE Lower, printed p. 117 |
+| Belize — Sexual Abuse: Getting Help and Coping — contact persons and places for help (police station, nurse/health centre, social worker/social welfare); coping with low self-esteem (original string `staying-safe/protecting-myself-from-abuse`) | Belize Grade 3 PE Lower, printed p. 118 |
+
+**Book 2 — PE Middle Division, Healthy Lifestyles strand (teacher curriculum, English):**
+- Title as printed: Primary Curriculum: Physical education — Middle Division, Healthy Lifestyles area of study (PDF metadata title "Physical Education Middle Division", author David Leacock)
+- Grade: Grades 4–6 — Standard II, Standard III, Standard IV (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Belize; year 2004; ISBN no ISBN printed
+- PDF pages: 211 (Healthy Lifestyles strand at printed pp. 68–117, 118–165, 166–211; PE glossary pp. 64–67 inventory-only, not placed)
+- Verdict: COMPLETE
+- Tally: 60 placements — 6 to existing lessons, 54 NEW LESSON NEEDED
+- Belize's own way: the Middle Healthy Lifestyles strand is a full health course inside the PE book — body care and hygiene diseases, food handling and waste, first aid and traffic rules, substances and abuse, nutrition, communicable and childhood diseases with immunization, and Belize's natural resources, conservation and pollution.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-health-placements.md (Book 2 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Belize — Child Abuse — emotional abuse and neglect of basic needs (food, shelter, clothes, love), inappropriate expectations; responding to abuse with clear communication, building self-esteem and values (original string `staying-safe/protecting-myself-from-abuse`) | Belize Grade 4 PE Middle, printed pp. 91–92 |
+| Belize — Child Abuse — sexual abuse defined as any contact in which a child is used by another person; coping skills: good communication, choosing the right friends, the buddy system, avoiding risky situations, knowing who to tell (original string `staying-safe/protecting-myself-from-abuse`) | Belize Grade 5 PE Middle, printed pp. 141–143 |
+| Belize — Child Abuse — types: physical, sexual and emotional (verbal, mental); situations that could lead to sexual abuse: accepting a ride from a stranger, walking in isolated areas, not informing parents or guardians (original string `staying-safe/protecting-myself-from-abuse`) | Belize Grade 6 PE Middle, printed pp. 191–192 |
+
+**Book 3 — HFLE Curriculum, Lower Division (teacher curriculum, English):**
+- Title as printed: Health and Family Life Education Curriculum for Primary Schools — Lower Division
+- Grade: Grades 1–3 — Infant One, Infant Two, Standard One (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Belize (with UNICEF and the Global Fund); year April 2006; ISBN no ISBN printed ("NO COPY RIGHTS NOR RESTRICTION OF USE" printed in the book)
+- PDF pages: 103 (cover verified against the record title; read in place from phase3-staging, 2,366,727 bytes = recorded size). Note: the book's own table of contents mislabels the third grade section "INFANT TWO" (printed pp. 72–97); the detail pages show it is Standard One.
+- Verdict: COMPLETE
+- Tally: 93 placements — 0 to existing lessons, 93 NEW LESSON NEEDED (5 of them HELD-title-decision fitness-concept lines)
+- Belize's own way: HFLE replaces the old Healthy Life Styles curriculum; every grade works the same four themes through life skills (self-awareness, communication, decision-making, refusal, coping), opening with the self and family before the body, food and environment. The duplicate UWI download-list record for this book is the same book as the secured record — read once.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-health-placements.md (Book 3 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Belize — 3.2 When adults are unkind: abuse in the home — recognising physically abusive situations, that abuse is not the child's fault, feelings about abuse and sources of support (original string `staying-safe/protecting-myself-from-abuse`) | Belize Grade 1 HFLE Curr Lower, printed pp. 20–21 |
+| Belize — 2.1–2.3 My private parts, their proper names, my body belongs to me — private parts are penis, vagina, breast and anus; my body is special and belongs to me (original string `staying-safe/my-body-belongs-to-me-private-parts-and-safe-touch`) | Belize Grade 1 HFLE Curr Lower, printed pp. 26–27 |
+| Belize — 2.4 Good touch / bad touch — telling appropriate from inappropriate touching and the feelings each brings; the right to say no (original string `staying-safe/my-body-belongs-to-me-private-parts-and-safe-touch`) | Belize Grade 1 HFLE Curr Lower, printed pp. 26–27 |
+| Belize — 2.5 Who can I tell? — trust: naming a trusted person and telling them about a bad touch (original string `staying-safe/my-body-belongs-to-me-private-parts-and-safe-touch`) | Belize Grade 1 HFLE Curr Lower, printed pp. 26–27 |
+| Belize — 3.2 Abuse at school — recognising and responding to abuse in the school setting (original string `staying-safe/protecting-myself-from-abuse`) | Belize Grade 2 HFLE Curr Lower, printed pp. 48–49 |
+| Belize — 2.1–2.3 My private parts, proper names, inappropriate exposure — private parts and their proper names; not exposing private parts inappropriately (original string `staying-safe/my-body-belongs-to-me-private-parts-and-safe-touch`) | Belize Grade 2 HFLE Curr Lower, printed pp. 54–55 |
+| Belize — 2.4 Reasons why my body is special — the body is special and worth protecting (original string `staying-safe/my-body-belongs-to-me-private-parts-and-safe-touch`) | Belize Grade 2 HFLE Curr Lower, printed pp. 54–55 |
+| Belize — 2.5 Good touch/bad touch (places where abuse may occur, people who may be abusers) — where abuse can happen and who may abuse (original string `staying-safe/my-body-belongs-to-me-private-parts-and-safe-touch`) | Belize Grade 2 HFLE Curr Lower, printed pp. 54–55 |
+| Belize — 2.6 Saying no / 2.7 Telling someone — refusal skills and reporting to a trusted person (original string `staying-safe/my-body-belongs-to-me-private-parts-and-safe-touch`) | Belize Grade 2 HFLE Curr Lower, printed pp. 54–55 |
+| Belize — 3.2 Discipline not abuse — the line between discipline and abuse (original string `staying-safe/protecting-myself-from-abuse`) | Belize Grade 3 HFLE Curr Lower, printed pp. 76–77 |
+| Belize — 2.1 Different types of sexual abuse (fondling, patting, incest etc.) — naming the forms sexual abuse takes (original string `staying-safe/protecting-myself-from-abuse`) | Belize Grade 3 HFLE Curr Lower, printed pp. 82–83 |
+| Belize — 2.2 I have a right to say "no" — the right to refuse unwanted touch (original string `staying-safe/my-body-belongs-to-me-private-parts-and-safe-touch`) | Belize Grade 3 HFLE Curr Lower, printed pp. 82–83 |
+| Belize — 2.3 Feelings about sexual abuse — feelings victims may have and that abuse is never the child's fault (original string `staying-safe/protecting-myself-from-abuse`) | Belize Grade 3 HFLE Curr Lower, printed pp. 82–83 |
+
+**Book 4 — HFLE Curriculum, Middle Division (teacher curriculum, English):**
+- Title as printed: Health and Family Life Education Curriculum for Primary Schools — Middle Division
+- Grade: Grades 4–6 — Standard Two, Standard Three, Standard Four (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Belize (with UNICEF and the Global Fund); year April 2006; ISBN no ISBN printed
+- PDF pages: 111 (cover verified against the record title; read in place from phase3-staging, 2,564,857 bytes = recorded size)
+- Verdict: COMPLETE
+- Tally: 120 placements — 1 to an existing lesson, 119 NEW LESSON NEEDED (9 of them HELD-title-decision fitness-concept lines)
+- Belize's own way: the same four HFLE themes spiral upward — alcohol, tobacco and marijuana enter through the Self theme, puberty and HIV & AIDS through Sexuality in Standard Four, and the Environment theme adds Belize's own environmental agencies, laws and disaster readiness. The duplicate UWI download-list record for this book is the same book as the secured record — read once.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-health-placements.md (Book 4 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Belize — 3.2 Physical abuse — recognising and coping with physical abuse (original string `staying-safe/protecting-myself-from-abuse`) | Belize Grade 4 HFLE Curr Middle, printed pp. 16–23 |
+| Belize — 2.1 Building self esteem — self-esteem as protection: my body belongs to me (original string `staying-safe/my-body-belongs-to-me-private-parts-and-safe-touch`) | Belize Grade 4 HFLE Curr Middle, printed pp. 24–29 |
+| Belize — 2.2 Strangers and friends — telling safe from unsafe people (original string `staying-safe/protecting-myself-from-abuse`) | Belize Grade 4 HFLE Curr Middle, printed pp. 24–29 |
+| Belize — 2.3 Ways to prevent abuse — preventing abuse before it happens (original string `staying-safe/protecting-myself-from-abuse`) | Belize Grade 4 HFLE Curr Middle, printed pp. 24–29 |
+| Belize — 2.4 Refusal skills — saying no clearly and firmly (original string `staying-safe/my-body-belongs-to-me-private-parts-and-safe-touch`) | Belize Grade 4 HFLE Curr Middle, printed pp. 24–29 |
+| Belize — 2.5 Coping with abuse — what to do and who to tell after abuse (original string `staying-safe/protecting-myself-from-abuse`) | Belize Grade 4 HFLE Curr Middle, printed pp. 24–29 |
+| Belize — 3.2 Emotional abuse — recognising emotional abuse (original string `staying-safe/protecting-myself-from-abuse`) | Belize Grade 5 HFLE Curr Middle, printed pp. 44–51 |
+| Belize — 2.1 Building self esteem — self-esteem as protection, revisited (original string `staying-safe/my-body-belongs-to-me-private-parts-and-safe-touch`) | Belize Grade 5 HFLE Curr Middle, printed pp. 52–57 |
+| Belize — 2.2 Strangers and friends — safe and unsafe people, revisited (original string `staying-safe/protecting-myself-from-abuse`) | Belize Grade 5 HFLE Curr Middle, printed pp. 52–57 |
+| Belize — 2.3 Preventing abuse — preventing abuse, revisited (original string `staying-safe/protecting-myself-from-abuse`) | Belize Grade 5 HFLE Curr Middle, printed pp. 52–57 |
+| Belize — 2.4 Refusal skills — saying no, revisited (original string `staying-safe/my-body-belongs-to-me-private-parts-and-safe-touch`) | Belize Grade 5 HFLE Curr Middle, printed pp. 52–57 |
+| Belize — 2.5 Coping with abuse — coping and telling, revisited (original string `staying-safe/protecting-myself-from-abuse`) | Belize Grade 5 HFLE Curr Middle, printed pp. 52–57 |
+| Belize — 3.2 Neglect — recognising neglect (original string `staying-safe/protecting-myself-from-abuse`) | Belize Grade 6 HFLE Curr Middle, printed pp. 72–81 |
+| Belize — 2.2 Forms of sexual abuse — the forms sexual abuse takes (original string `staying-safe/protecting-myself-from-abuse`) | Belize Grade 6 HFLE Curr Middle, printed pp. 82–89 |
+| Belize — 2.3 Avoiding sexual abuse — keeping safe from sexual abuse (original string `staying-safe/protecting-myself-from-abuse`) | Belize Grade 6 HFLE Curr Middle, printed pp. 82–89 |
+| Belize — 2.4 Coping with sexual abuse — coping and getting help after sexual abuse (original string `staying-safe/protecting-myself-from-abuse`) | Belize Grade 6 HFLE Curr Middle, printed pp. 82–89 |
+
+**Book 5 — HFLE Curriculum, Upper Division (teacher curriculum, English):**
+- Title as printed: Health and Family Life Education Curriculum for Primary Schools — Upper Division
+- Grade: Grades 7–8 — Standard Five, Standard Six (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Belize (with UNICEF and the Global Fund); year April 2006; ISBN no ISBN printed
+- PDF pages: 91 (cover verified against the record title; read in place from phase3-staging, 2,298,807 bytes = recorded size)
+- Verdict: COMPLETE
+- Tally: 95 placements — 0 to existing lessons, 95 NEW LESSON NEEDED (5 of them HELD-title-decision fitness-concept lines)
+- Belize's own way: Upper-division HFLE turns to adolescence — puberty, periods, parenting, STIs and HIV in depth, media influence, stress and crisis, and Belize's own diet-disease research and environmental law. The duplicate UWI download-list record for this book is the same book as the secured record — read once.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-health-placements.md (Book 5 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Belize — 3.3 Discipline or child abuse — telling discipline from child abuse (original string `staying-safe/protecting-myself-from-abuse`) | Belize Grade 7 HFLE Curr Upper, printed pp. 16–27 |
+| Belize — 2.6 Understanding sexual abuse/exploitation — what sexual abuse and exploitation are (original string `staying-safe/protecting-myself-from-abuse`) | Belize Grade 7 HFLE Curr Upper, printed pp. 28–37 |
+| Belize — 2.7 Coping with sexual abuse/exploitation — coping and getting help (original string `staying-safe/protecting-myself-from-abuse`) | Belize Grade 7 HFLE Curr Upper, printed pp. 28–37 |
+| Belize — 2.6 Forms of sexual abuse — the forms of sexual abuse (original string `staying-safe/protecting-myself-from-abuse`) | Belize Grade 8 HFLE Curr Upper, printed pp. 62–71 |
+| Belize — 2.7 Coping with sexual abuse — coping and getting help (original string `staying-safe/protecting-myself-from-abuse`) | Belize Grade 8 HFLE Curr Upper, printed pp. 62–71 |
+
+**Book 6 — HFLE Resource Guide for Teachers, Lower Division (teacher guide, English):**
+- Title as printed: Health and Family Life Education (HFLE) Resource Guide for Teachers — Lower Division
+- Grade: Grades 1–3 — Infant One, Infant Two, Standard One (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Belize; year July 2006 (adapted from HFLE Draft Teacher Training Manual, June 2006, CARICOM/UNICEF life-skills materials); ISBN no ISBN printed
+- PDF pages: 150 (cover verified against the record title; read in place from phase3-staging, 980,023 bytes = recorded size)
+- Verdict: COMPLETE — Sections 1–4 are teacher pedagogy (HFLE background, ethics, life-skills approach, interactive methods, assessment) and Section 3's theme tables repeat the curriculum books' scope (already placed from Book 3), so only the Section 5 sample lesson plans are placed; the Section 6 glossary is inventory-only (named, not placed). All sample plans are Sexuality & Sexual Health theme, despite the contents page also promising Self/Interpersonal plans.
+- Tally: 10 placements — 0 to existing lessons, 10 NEW LESSON NEEDED
+- Belize's own way: the guide teaches protection through stories Belizean children live — the sample lessons use the story "STOP! Uncle Ernest!" and the swimsuit rule (private parts are the parts a swimsuit covers) to teach safe touch.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-health-placements.md (Book 6 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Belize — Lesson Plan 1: Good Touch, Bad Touch — telling good touches from bad touches and the feelings each brings (original string `staying-safe/my-body-belongs-to-me-private-parts-and-safe-touch`) | Belize Grade 1 HFLE Res Lower, printed p. ~59 (Section 5) |
+| Belize — Lesson Plan 2: Good Touch, Bad Touch (Part 2) — proper names for private body parts (the swimsuit rule), assertiveness skills to refuse bad touches, story "STOP! Uncle Ernest!" (original string `staying-safe/my-body-belongs-to-me-private-parts-and-safe-touch`) | Belize Grade 1 HFLE Res Lower, printed p. ~62 (Section 5) |
+| Belize — Lesson Plan 2: Good Touch, Bad Touch — good and bad touches revisited in Infant Two (original string `staying-safe/my-body-belongs-to-me-private-parts-and-safe-touch`) | Belize Grade 2 HFLE Res Lower, printed p. ~91 (Section 5) |
+| Belize — Lesson Plan 3: Good Touch, Bad Touch (Part 2) — private parts, proper names and refusing bad touches, revisited (original string `staying-safe/my-body-belongs-to-me-private-parts-and-safe-touch`) | Belize Grade 2 HFLE Res Lower, printed p. 95 (Section 5) |
+| Belize — Lesson Plan 1: Different Types of Sexual Abuse — the forms sexual abuse takes (original string `staying-safe/protecting-myself-from-abuse`) | Belize Grade 3 HFLE Res Lower, printed p. ~113 (Section 5) |
+
+Belize is filed as teacher-curriculum / teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — all eight Belize books are TEACHER books, so Belize is named in the countries line and provenance rows but the acceptance count stays at 5 countries. The Belize placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug, or under its canonical NEW string, are recorded as filed), and the original string is recorded in each provenance row above. Belize's own way is content, as the book lines above record it: health is taught as HFLE (Health and Family Life Education) — four themes (Self and Interpersonal Relationships, Sexuality and Sexual Health, Eating and Fitness, Managing the Environment) spiralled through every grade, plus a Healthy Lifestyles strand inside the PE curriculum books. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
 Searchable tags: protecting myself from abuse, corporal punishment, positive discipline, gender-based violence, child abuse, protect and report, ending child marriage ECM, keeping girls in school, Zambia Health Teacher Training Manual 2025, abuse sasa neglect types of abuse how and where to get help, Samoa Years 1–8 Curriculum, my personal space, Kişisel Alanım, body safety, Turkey Preschool Movement & Health TG, Sierra Leone AHLS Teacher's Manual SSS1 SSS2 SSS3, adolescent health and life skills Sierra Leone, verbal and physical violence, Pakistan Grade 12 Sehat-o-Jismani Taleem, Thailand, Thailand Health & PE, สุขศึกษาและพลศึกษา, Tanzania, Tanzania Health and Environment, Afya na Mazingira, TIE Tanzania Institute of Education, Eritrea, Life Skills Based Health Education Eritrea Grades 6 7 8, Good and Bad Touches, Familiarizing with the Laws and Norms of Society, Familiarizing with Laws and Norms of a Society, Sensing and Avoiding Danger, Jamaica, Jamaica HFLE, Health and Family Life Education Jamaica, CARICOM HFLE, Ministry of Education and Youth Jamaica 2023, Protection from Harm, Sustaining Protection, Safety and Security
 

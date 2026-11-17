@@ -1,8 +1,8 @@
 # Sources — Using Medicines Safely
 
-countries: Turkey, Pakistan, Papua New Guinea, Thailand, United Arab Emirates
+countries: Turkey, Pakistan, Papua New Guinea, Thailand, United Arab Emirates, Belize
 
-**Acceptance count: taught in 4 countries.** United Arab Emirates is added as student-book stock (see its United Arab Emirates section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Turkey is filed as student-book stock, inside the acceptance count, in this lesson (see its Turkey section below). Pakistan is added as student-book stock (see its Pakistan section below), inside the acceptance count. Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Thailand is added as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count.
+**Acceptance count: taught in 4 countries.** United Arab Emirates is added as student-book stock (see its United Arab Emirates section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Turkey is filed as student-book stock, inside the acceptance count, in this lesson (see its Turkey section below). Pakistan is added as student-book stock (see its Pakistan section below), inside the acceptance count. Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Thailand is added as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count. Belize is filed as teacher-curriculum / teacher-guide evidence only in this lesson (see its Belize section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for Belize in this lesson.
 
 ## Turkey — Health expansion 2026-11-16
 
@@ -178,5 +178,68 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/united-arab-
 | United Arab Emirates — 12.6 Safety measures in drug administration — safe administration and storage of drugs (TG teaching sequence) (original string `staying-safe/using-and-storing-medicines-safely`) | United Arab Emirates G12 Health Sciences Unit 12 TG, printed p. 32 (teacher guide — evidence) |
 
 United Arab Emirates is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the student book(s) stocked here are Book 1, so United Arab Emirates is named in the countries line and provenance rows and the acceptance count rises from 3 to 4 countries; the teacher-guide rows, where present, are teacher-guide evidence only, outside the count. The United Arab Emirates placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines), and the original string is recorded in each provenance row above. United Arab Emirates's own way is content, as the book lines above record it: Health Sciences in the senior grades is a vocational, exam-standard subject taught unit by unit, with UAE-specific content named in the rows (sandstorms in the disaster unit; the UAE Good Samaritan law of 2020, ambulance number 998 and the National Ambulance EMT pathway in first aid; MoHAP, Dubai Health Authority and Department of Health – Abu Dhabi patient rights in healthcare; and, in the older HECMA programme, scorpions, jellyfish, heat illness and drowning). This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+## Belize — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-health-placements.md. 18 Belize placement(s) stocked in this lesson. The Belize book(s) stocked in this lesson: Book 1, Book 2, Book 3 of that file. All eight Belize books are TEACHER books (teacher curriculum / teacher guides), so Belize is filed as teacher-curriculum / teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for Belize in this lesson. No Belize placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 1 — PE Lower Division, Healthy Lifestyles strand (teacher curriculum, English):**
+- Title as printed: Primary Curriculum: Physical Education — Lower Division, Healthy Lifestyles area of study (PDF metadata title "Physical Education Lower Division", author David Leacock)
+- Grade: Grades 1–3 — Infant I, Infant II, Standard I (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Belize; year 2004; ISBN no ISBN printed
+- PDF pages: 139 (cover/first page verified: Infant I Locomotor Skills; Healthy Lifestyles strand at printed pp. 22–41, 65–90, 115–139)
+- Verdict: COMPLETE
+- Tally: 47 placements — 3 to existing lessons, 44 NEW LESSON NEEDED
+- Belize's own way: health is taught inside the PE book as "Healthy Lifestyles" — abuse protection, hygiene, dangerous substances and safety practices (water, traffic, playground, classroom) revisited every year with rising detail.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-health-placements.md (Book 1 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Belize — Common Substances — gasoline, kerosene, clorox, nail polish remover, liquid soap named and classified (original string `staying-safe/staying-safe-with-medicines-and-household-substances`) | Belize Grade 1 PE Lower, printed p. 31 |
+| Belize — Harmful Effects and Substances Not Used as Medicine — overdose, poisoning, allergy and wrong use of medicine (original string `staying-safe/staying-safe-with-medicines-and-household-substances`) | Belize Grade 1 PE Lower, printed p. 32 |
+| Belize — Preventive Measures — labelling all common personal substances, using the red cross sign and symbols (original string `staying-safe/staying-safe-with-medicines-and-household-substances`) | Belize Grade 1 PE Lower, printed p. 33 |
+| Belize — Emergencies — drinking unknown substances and swallowing too many medicines, and what to do (original string `staying-safe/staying-safe-with-medicines-and-household-substances`) | Belize Grade 1 PE Lower, printed p. 34 |
+| Belize — Common Substances — gasoline, kerosene, clorax and other household substances named (original string `staying-safe/staying-safe-with-medicines-and-household-substances`) | Belize Grade 2 PE Lower, printed p. 77 |
+| Belize — Substances Used as Medicine and Their Helpful and Harmful Effects — cough syrups, liquid and tablet vitamins (original string `staying-safe/staying-safe-with-medicines-and-household-substances`) | Belize Grade 2 PE Lower, printed p. 78 |
+| Belize — Preventive Measures — labelling substances and preventing poisoning and harm (original string `staying-safe/staying-safe-with-medicines-and-household-substances`) | Belize Grade 2 PE Lower, printed p. 79 |
+| Belize — Emergencies — accidental contact with common substances and getting immediate assistance (original string `staying-safe/staying-safe-with-medicines-and-household-substances`) | Belize Grade 2 PE Lower, printed pp. 80–82 |
+| Belize — Common Substances — gasoline, kerosene and other common substances reviewed (original string `staying-safe/staying-safe-with-medicines-and-household-substances`) | Belize Grade 3 PE Lower, printed p. 128 |
+| Belize — Substances Used as Medicine and Their Helpful and Harmful Effects — worm syrup, cough syrups and local home remedies (original string `staying-safe/staying-safe-with-medicines-and-household-substances`) | Belize Grade 3 PE Lower, printed p. 129 |
+| Belize — Preventive Measures — labelling all common personal substances using signs, symbols and key codes (original string `staying-safe/staying-safe-with-medicines-and-household-substances`) | Belize Grade 3 PE Lower, printed p. 130 |
+| Belize — Emergencies — drinking or inhaling unknown substances and what to do (original string `staying-safe/staying-safe-with-medicines-and-household-substances`) | Belize Grade 3 PE Lower, printed p. 131 |
+
+**Book 2 — PE Middle Division, Healthy Lifestyles strand (teacher curriculum, English):**
+- Title as printed: Primary Curriculum: Physical education — Middle Division, Healthy Lifestyles area of study (PDF metadata title "Physical Education Middle Division", author David Leacock)
+- Grade: Grades 4–6 — Standard II, Standard III, Standard IV (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Belize; year 2004; ISBN no ISBN printed
+- PDF pages: 211 (Healthy Lifestyles strand at printed pp. 68–117, 118–165, 166–211; PE glossary pp. 64–67 inventory-only, not placed)
+- Verdict: COMPLETE
+- Tally: 60 placements — 6 to existing lessons, 54 NEW LESSON NEEDED
+- Belize's own way: the Middle Healthy Lifestyles strand is a full health course inside the PE book — body care and hygiene diseases, food handling and waste, first aid and traffic rules, substances and abuse, nutrition, communicable and childhood diseases with immunization, and Belize's natural resources, conservation and pollution.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-health-placements.md (Book 2 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Belize — Substances (Household and Medicinal) — definition and examples of substances; proper storage of medicine, careful reading of doctors' instructions, using only prescribed medicines and parents' consent for non-prescription medicines (original string `staying-safe/staying-safe-with-medicines-and-household-substances`) | Belize Grade 4 PE Middle, printed pp. 84–85 |
+| Belize — Chemical Substances (Common Household) — listing common household chemical substances and how they should be stored and handled (original string `staying-safe/staying-safe-with-medicines-and-household-substances`) | Belize Grade 5 PE Middle, printed p. 134 |
+| Belize — Proper Handling and Storage of Chemical Substances — collecting and identifying household chemicals and handling and storing them properly (original string `staying-safe/staying-safe-with-medicines-and-household-substances`) | Belize Grade 6 PE Middle, printed pp. 183–184 |
+
+**Book 3 — HFLE Curriculum, Lower Division (teacher curriculum, English):**
+- Title as printed: Health and Family Life Education Curriculum for Primary Schools — Lower Division
+- Grade: Grades 1–3 — Infant One, Infant Two, Standard One (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Belize (with UNICEF and the Global Fund); year April 2006; ISBN no ISBN printed ("NO COPY RIGHTS NOR RESTRICTION OF USE" printed in the book)
+- PDF pages: 103 (cover verified against the record title; read in place from phase3-staging, 2,366,727 bytes = recorded size). Note: the book's own table of contents mislabels the third grade section "INFANT TWO" (printed pp. 72–97); the detail pages show it is Standard One.
+- Verdict: COMPLETE
+- Tally: 93 placements — 0 to existing lessons, 93 NEW LESSON NEEDED (5 of them HELD-title-decision fitness-concept lines)
+- Belize's own way: HFLE replaces the old Healthy Life Styles curriculum; every grade works the same four themes through life skills (self-awareness, communication, decision-making, refusal, coping), opening with the self and family before the body, food and environment. The duplicate UWI download-list record for this book is the same book as the secured record — read once.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-health-placements.md (Book 3 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Belize — 3.3 Safe use of medicines — what medicine is and why it is used, who may give me medicine and who may not (original string `staying-safe/staying-safe-with-medicines-and-household-substances`) | Belize Grade 1 HFLE Curr Lower, printed pp. 20–21 |
+| Belize — Why medicines must be used correctly — medicines help only when used the right way (original string `staying-safe/staying-safe-with-medicines-and-household-substances`) | Belize Grade 2 HFLE Curr Lower, printed pp. 48–49 |
+| Belize — 2.4 Helpful and harmful substances — telling helpful substances from harmful ones (original string `staying-safe/staying-safe-with-medicines-and-household-substances`) | Belize Grade 2 HFLE Curr Lower, printed pp. 70–71 |
+
+Belize is filed as teacher-curriculum / teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — all eight Belize books are TEACHER books, so Belize is named in the countries line and provenance rows but the acceptance count stays at 4 countries. The Belize placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug, or under its canonical NEW string, are recorded as filed), and the original string is recorded in each provenance row above. Belize's own way is content, as the book lines above record it: health is taught as HFLE (Health and Family Life Education) — four themes (Self and Interpersonal Relationships, Sexuality and Sexual Health, Eating and Fitness, Managing the Environment) spiralled through every grade, plus a Healthy Lifestyles strand inside the PE curriculum books. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
 Searchable tags: using medicines safely, medicines and using them rationally, İlaçlar Akılcı İlaç Kullanımı, painkillers, antibiotics, Turkey Health & Traffic Culture, medicines and narcotics, medicines and smoking, opium, Pakistan Grades 6 7 9 11 Sehat-o-Jismani Taleem, Papua New Guinea, Papua New Guinea Grade 3 Health TG Grade 3, Papua New Guinea Grade 4 Health TG Grade 4, Thailand, Thailand Health & PE, สุขศึกษาและพลศึกษา, United Arab Emirates, UAE Health Sciences

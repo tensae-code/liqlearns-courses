@@ -1,8 +1,8 @@
 # Sources — Checking Health Information
 
-countries: Thailand, Indonesia, Jamaica, Maldives
+countries: Thailand, Indonesia, Jamaica, Maldives, Belize
 
-**Acceptance count: taught in 2 countries.** Thailand is filed as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count, in this lesson. This lesson is founded on Thailand student-book stock (SAMPLE) only. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count. Jamaica is filed as curriculum-guide evidence only in this lesson (see its Jamaica section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Jamaica rows in this lesson — both read Jamaica books are curriculum guides (TEACHER). Maldives is filed as teacher-guide evidence only in this lesson (see its Maldives section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Maldives rows in this lesson.
+**Acceptance count: taught in 2 countries.** Thailand is filed as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count, in this lesson. This lesson is founded on Thailand student-book stock (SAMPLE) only. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count. Jamaica is filed as curriculum-guide evidence only in this lesson (see its Jamaica section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Jamaica rows in this lesson — both read Jamaica books are curriculum guides (TEACHER). Maldives is filed as teacher-guide evidence only in this lesson (see its Maldives section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Maldives rows in this lesson. Belize is filed as teacher-curriculum / teacher-guide evidence only in this lesson (see its Belize section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for Belize in this lesson.
 
 ## Thailand — Health expansion 2026-11-16
 
@@ -110,5 +110,41 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-hea
 | Maldives — Unit II, Lesson 5: Common Diseases and Disorders — images of health: comparing your understanding of health with others' (the aged, people with disabilities), and how media constructions of health influence behaviour (smoking, weight control, body shapes) (original string `staying-safe/how-media-shapes-health-choices`) | Maldives Grade 4 Exploring H&PE TG, printed pp. 51–63 (teacher guide — evidence) |
 
 Maldives is filed as teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — every Maldives book stocked here is a TEACHER guide, so Maldives is named in the countries line and provenance rows and the acceptance count is unchanged at 2 countries. The Maldives placement(s) in this lesson were filed under the original string(s) recorded in each provenance row — `staying-safe/how-media-shapes-health-choices` — resolved to this canonical lesson by the health slug registry Part 2A — and the original string is recorded in each provenance row above. Maldives's own way is content, as the book lines above record it: health is taught as three strands wound through every grade — growth and body awareness, personality and social development, and health of the individual and community — with the country's own concerns named in the later books (the nutritional status of Maldivians, the tropical diseases of the Maldives including thalassaemia, and first aid for near-drowning with CPR). This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+## Belize — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-health-placements.md. 4 Belize placement(s) stocked in this lesson. The Belize book(s) stocked in this lesson: Book 4, Book 5 of that file. All eight Belize books are TEACHER books (teacher curriculum / teacher guides), so Belize is filed as teacher-curriculum / teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for Belize in this lesson. No Belize placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 4 — HFLE Curriculum, Middle Division (teacher curriculum, English):**
+- Title as printed: Health and Family Life Education Curriculum for Primary Schools — Middle Division
+- Grade: Grades 4–6 — Standard Two, Standard Three, Standard Four (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Belize (with UNICEF and the Global Fund); year April 2006; ISBN no ISBN printed
+- PDF pages: 111 (cover verified against the record title; read in place from phase3-staging, 2,564,857 bytes = recorded size)
+- Verdict: COMPLETE
+- Tally: 120 placements — 1 to an existing lesson, 119 NEW LESSON NEEDED (9 of them HELD-title-decision fitness-concept lines)
+- Belize's own way: the same four HFLE themes spiral upward — alcohol, tobacco and marijuana enter through the Self theme, puberty and HIV & AIDS through Sexuality in Standard Four, and the Environment theme adds Belize's own environmental agencies, laws and disaster readiness. The duplicate UWI download-list record for this book is the same book as the secured record — read once.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-health-placements.md (Book 4 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Belize — 2.4 Helpful or harmful information — telling helpful health information from harmful (original string `staying-safe/finding-trustworthy-health-information`) | Belize Grade 6 HFLE Curr Middle, printed pp. 98–105 |
+
+**Book 5 — HFLE Curriculum, Upper Division (teacher curriculum, English):**
+- Title as printed: Health and Family Life Education Curriculum for Primary Schools — Upper Division
+- Grade: Grades 7–8 — Standard Five, Standard Six (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Belize (with UNICEF and the Global Fund); year April 2006; ISBN no ISBN printed
+- PDF pages: 91 (cover verified against the record title; read in place from phase3-staging, 2,298,807 bytes = recorded size)
+- Verdict: COMPLETE
+- Tally: 95 placements — 0 to existing lessons, 95 NEW LESSON NEEDED (5 of them HELD-title-decision fitness-concept lines)
+- Belize's own way: Upper-division HFLE turns to adolescence — puberty, periods, parenting, STIs and HIV in depth, media influence, stress and crisis, and Belize's own diet-disease research and environmental law. The duplicate UWI download-list record for this book is the same book as the secured record — read once.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-health-placements.md (Book 5 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Belize — 2.2 Media influences — how media shapes choices (original string `staying-safe/media-influences-and-messages`) | Belize Grade 7 HFLE Curr Upper, printed pp. 16–27 |
+| Belize — 1.4 Identifying and accessing health information and services — finding health information and services (original string `staying-safe/finding-trustworthy-health-information`) | Belize Grade 7 HFLE Curr Upper, printed pp. 28–37 |
+| Belize — 2.2 Media messages — reading media messages critically (original string `staying-safe/media-influences-and-messages`) | Belize Grade 8 HFLE Curr Upper, printed pp. 52–61 |
+
+Belize is filed as teacher-curriculum / teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — all eight Belize books are TEACHER books, so Belize is named in the countries line and provenance rows but the acceptance count stays at 2 countries. The Belize placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug, or under its canonical NEW string, are recorded as filed), and the original string is recorded in each provenance row above. Belize's own way is content, as the book lines above record it: health is taught as HFLE (Health and Family Life Education) — four themes (Self and Interpersonal Relationships, Sexuality and Sexual Health, Eating and Fitness, Managing the Environment) spiralled through every grade, plus a Healthy Lifestyles strand inside the PE curriculum books. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
 Searchable tags: checking health information, health advertising, health news, media literacy, รู้ทันข้อมูลข่าวสาร, Thailand, Thailand Health & PE, สุขศึกษาและพลศึกษา, Indonesia, Indonesia PJOK, Pendidikan Jasmani Olahraga dan Kesehatan, Dasar-Dasar Layanan Kesehatan, Isi Piringku, Jamaica, Jamaica HFLE, Health and Family Life Education Jamaica, CARICOM HFLE, Ministry of Education and Youth Jamaica 2023, Access to Sources of Environmental Health Information, Accessing Accurate Health-related Information, Assessing Accurate Health-related Information, Assessing Safety and Security Information, Sources and Information

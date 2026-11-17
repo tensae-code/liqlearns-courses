@@ -1,8 +1,8 @@
 # Sources — Staying Safe in Disasters
 
-countries: El Salvador, Samoa, Timor-Leste, Azerbaijan, Ukraine, Turkey, Pakistan, Iran, Jamaica, United Arab Emirates, Fiji
+countries: El Salvador, Samoa, Timor-Leste, Azerbaijan, Ukraine, Turkey, Pakistan, Iran, Jamaica, United Arab Emirates, Fiji, Belize
 
-**Acceptance count: taught in 8 countries.** Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. United Arab Emirates is added as student-book stock (see its United Arab Emirates section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. El Salvador is filed as student-book stock, inside the acceptance count, in this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below). Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Turkey is filed as teacher-guide evidence only in this lesson — Book 1 is a TEACHER guide, so Turkey is named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this Turkey row. Pakistan is added as student-book stock (see its Pakistan section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Jamaica is filed as curriculum-guide evidence only in this lesson (see its Jamaica section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Jamaica rows in this lesson — both read Jamaica books are curriculum guides (TEACHER).
+**Acceptance count: taught in 8 countries.** Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. United Arab Emirates is added as student-book stock (see its United Arab Emirates section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. El Salvador is filed as student-book stock, inside the acceptance count, in this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below). Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Turkey is filed as teacher-guide evidence only in this lesson — Book 1 is a TEACHER guide, so Turkey is named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this Turkey row. Pakistan is added as student-book stock (see its Pakistan section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Jamaica is filed as curriculum-guide evidence only in this lesson (see its Jamaica section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Jamaica rows in this lesson — both read Jamaica books are curriculum guides (TEACHER). Belize is filed as teacher-curriculum / teacher-guide evidence only in this lesson (see its Belize section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for Belize in this lesson.
 
 **Book 1 — Ciencia, Salud y Medio Ambiente 1 (student book, Spanish):**
 - Title as printed: Ciencia, Salud y Medio Ambiente 1 (Colección Cipotas y Cipotes)
@@ -289,6 +289,84 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/united-arab-
 | United Arab Emirates — 9.5 Actions to take after a disaster — safe actions after a disaster (TG teaching sequence) (original string `staying-safe/after-a-disaster`) | United Arab Emirates G12 Health Sciences Unit 9 TG, printed p. 31 (teacher guide — evidence) |
 
 United Arab Emirates is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the student book(s) stocked here are Book 1, so United Arab Emirates is named in the countries line and provenance rows and the acceptance count rises from 6 to 7 countries; the teacher-guide rows, where present, are teacher-guide evidence only, outside the count. The United Arab Emirates placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines), and the original string is recorded in each provenance row above. United Arab Emirates's own way is content, as the book lines above record it: Health Sciences in the senior grades is a vocational, exam-standard subject taught unit by unit, with UAE-specific content named in the rows (sandstorms in the disaster unit; the UAE Good Samaritan law of 2020, ambulance number 998 and the National Ambulance EMT pathway in first aid; MoHAP, Dubai Health Authority and Department of Health – Abu Dhabi patient rights in healthcare; and, in the older HECMA programme, scorpions, jellyfish, heat illness and drowning). This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+## Belize — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-health-placements.md. 20 Belize placement(s) stocked in this lesson. The Belize book(s) stocked in this lesson: Book 2, Book 3, Book 4, Book 5 of that file. All eight Belize books are TEACHER books (teacher curriculum / teacher guides), so Belize is filed as teacher-curriculum / teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for Belize in this lesson. No Belize placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 2 — PE Middle Division, Healthy Lifestyles strand (teacher curriculum, English):**
+- Title as printed: Primary Curriculum: Physical education — Middle Division, Healthy Lifestyles area of study (PDF metadata title "Physical Education Middle Division", author David Leacock)
+- Grade: Grades 4–6 — Standard II, Standard III, Standard IV (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Belize; year 2004; ISBN no ISBN printed
+- PDF pages: 211 (Healthy Lifestyles strand at printed pp. 68–117, 118–165, 166–211; PE glossary pp. 64–67 inventory-only, not placed)
+- Verdict: COMPLETE
+- Tally: 60 placements — 6 to existing lessons, 54 NEW LESSON NEEDED
+- Belize's own way: the Middle Healthy Lifestyles strand is a full health course inside the PE book — body care and hygiene diseases, food handling and waste, first aid and traffic rules, substances and abuse, nutrition, communicable and childhood diseases with immunization, and Belize's natural resources, conservation and pollution.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-health-placements.md (Book 2 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Belize — Disaster Preparedness — a disaster as a natural or man-made occurrence; safety: water safety, fire hazards, accident prevention, safe play; floods: secure belongings, stock non-perishable foods, listen to radio/TV (original string `staying-safe/disaster-preparedness-and-emergency-safety`) | Belize Grade 4 PE Middle, printed pp. 86–88 |
+| Belize — Disaster Preparedness — disasters natural or man-made; hurricanes: phases, flag colours and their meanings, listening to radio/TV, evacuation preparation and knowing the nearest shelter; floods: precautionary measures and the dangers of flood waters (original string `staying-safe/disaster-preparedness-and-emergency-safety`) | Belize Grade 5 PE Middle, printed pp. 135–138 |
+
+**Book 3 — HFLE Curriculum, Lower Division (teacher curriculum, English):**
+- Title as printed: Health and Family Life Education Curriculum for Primary Schools — Lower Division
+- Grade: Grades 1–3 — Infant One, Infant Two, Standard One (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Belize (with UNICEF and the Global Fund); year April 2006; ISBN no ISBN printed ("NO COPY RIGHTS NOR RESTRICTION OF USE" printed in the book)
+- PDF pages: 103 (cover verified against the record title; read in place from phase3-staging, 2,366,727 bytes = recorded size). Note: the book's own table of contents mislabels the third grade section "INFANT TWO" (printed pp. 72–97); the detail pages show it is Standard One.
+- Verdict: COMPLETE
+- Tally: 93 placements — 0 to existing lessons, 93 NEW LESSON NEEDED (5 of them HELD-title-decision fitness-concept lines)
+- Belize's own way: HFLE replaces the old Healthy Life Styles curriculum; every grade works the same four themes through life skills (self-awareness, communication, decision-making, refusal, coping), opening with the self and family before the body, food and environment. The duplicate UWI download-list record for this book is the same book as the secured record — read once.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-health-placements.md (Book 3 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Belize — 2.1 Safe and dangerous environments and practices and their consequences — telling safe from dangerous environments (original string `staying-safe/disaster-preparedness-and-emergency-safety`) | Belize Grade 1 HFLE Curr Lower, printed pp. 42–43 |
+| Belize — 2.4 Major disasters and their effects — major disasters and what they do to people and places (original string `staying-safe/disaster-preparedness-and-emergency-safety`) | Belize Grade 1 HFLE Curr Lower, printed pp. 42–43 |
+| Belize — 2.1 Components of a safe and unsafe environment or practice — telling safe from unsafe places and practices (original string `staying-safe/disaster-preparedness-and-emergency-safety`) | Belize Grade 2 HFLE Curr Lower, printed pp. 70–71 |
+| Belize — 2.5 Minimizing the effects of disasters — reducing the harm disasters cause (original string `staying-safe/disaster-preparedness-and-emergency-safety`) | Belize Grade 2 HFLE Curr Lower, printed pp. 70–71 |
+| Belize — 2.1 Dangerous substances, situations and environments — recognising danger in substances, situations and places (original string `staying-safe/disaster-preparedness-and-emergency-safety`) | Belize Grade 3 HFLE Curr Lower, printed pp. 96–97 |
+| Belize — 2.2 Adhering to safety rules at all times — following safety rules everywhere, always (original string `staying-safe/disaster-preparedness-and-emergency-safety`) | Belize Grade 3 HFLE Curr Lower, printed pp. 96–97 |
+
+**Book 4 — HFLE Curriculum, Middle Division (teacher curriculum, English):**
+- Title as printed: Health and Family Life Education Curriculum for Primary Schools — Middle Division
+- Grade: Grades 4–6 — Standard Two, Standard Three, Standard Four (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Belize (with UNICEF and the Global Fund); year April 2006; ISBN no ISBN printed
+- PDF pages: 111 (cover verified against the record title; read in place from phase3-staging, 2,564,857 bytes = recorded size)
+- Verdict: COMPLETE
+- Tally: 120 placements — 1 to an existing lesson, 119 NEW LESSON NEEDED (9 of them HELD-title-decision fitness-concept lines)
+- Belize's own way: the same four HFLE themes spiral upward — alcohol, tobacco and marijuana enter through the Self theme, puberty and HIV & AIDS through Sexuality in Standard Four, and the Environment theme adds Belize's own environmental agencies, laws and disaster readiness. The duplicate UWI download-list record for this book is the same book as the secured record — read once.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-health-placements.md (Book 4 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Belize — 2.1 Reducing threats to themselves and others — cutting risks to self and others (original string `staying-safe/disaster-preparedness-and-emergency-safety`) | Belize Grade 5 HFLE Curr Middle, printed pp. 66–71 |
+| Belize — 2.2 Types of disasters and their effects — kinds of disaster and what they do (original string `staying-safe/disaster-preparedness-and-emergency-safety`) | Belize Grade 5 HFLE Curr Middle, printed pp. 66–71 |
+| Belize — 2.3 Emergency equipment used in disasters — equipment used when disaster strikes (original string `staying-safe/disaster-preparedness-and-emergency-safety`) | Belize Grade 5 HFLE Curr Middle, printed pp. 66–71 |
+| Belize — 2.2 Incidents caused by not adhering to safe practices — what happens when safety practices are ignored (original string `staying-safe/disaster-preparedness-and-emergency-safety`) | Belize Grade 6 HFLE Curr Middle, printed pp. 98–105 |
+| Belize — 2.6 The effects of different emergencies on our health and community — how emergencies affect health and community (original string `staying-safe/disaster-preparedness-and-emergency-safety`) | Belize Grade 6 HFLE Curr Middle, printed pp. 98–105 |
+| Belize — 2.7 Emergency agencies/individuals — who helps in emergencies (original string `staying-safe/disaster-preparedness-and-emergency-safety`) | Belize Grade 6 HFLE Curr Middle, printed pp. 98–105 |
+| Belize — 2.8 Preparedness plan — making a preparedness plan (original string `staying-safe/disaster-preparedness-and-emergency-safety`) | Belize Grade 6 HFLE Curr Middle, printed pp. 98–105 |
+
+**Book 5 — HFLE Curriculum, Upper Division (teacher curriculum, English):**
+- Title as printed: Health and Family Life Education Curriculum for Primary Schools — Upper Division
+- Grade: Grades 7–8 — Standard Five, Standard Six (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Belize (with UNICEF and the Global Fund); year April 2006; ISBN no ISBN printed
+- PDF pages: 91 (cover verified against the record title; read in place from phase3-staging, 2,298,807 bytes = recorded size)
+- Verdict: COMPLETE
+- Tally: 95 placements — 0 to existing lessons, 95 NEW LESSON NEEDED (5 of them HELD-title-decision fitness-concept lines)
+- Belize's own way: Upper-division HFLE turns to adolescence — puberty, periods, parenting, STIs and HIV in depth, media influence, stress and crisis, and Belize's own diet-disease research and environmental law. The duplicate UWI download-list record for this book is the same book as the secured record — read once.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-health-placements.md (Book 5 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Belize — 2.1 Reduce the risk of unhealthy and dangerous situations — cutting risk in daily life (original string `staying-safe/disaster-preparedness-and-emergency-safety`) | Belize Grade 7 HFLE Curr Upper, printed pp. 46–51 |
+| Belize — 2.1 Preventing and avoiding accidents — accident prevention (original string `staying-safe/disaster-preparedness-and-emergency-safety`) | Belize Grade 8 HFLE Curr Upper, printed pp. 80–85 |
+| Belize — 2.2 People and careers involved in safety, emergencies and disasters — the people whose work is safety (original string `staying-safe/disaster-preparedness-and-emergency-safety`) | Belize Grade 8 HFLE Curr Upper, printed pp. 80–85 |
+| Belize — 2.3 Disaster Management Cycle — the cycle of disaster management (original string `staying-safe/disaster-preparedness-and-emergency-safety`) | Belize Grade 8 HFLE Curr Upper, printed pp. 80–85 |
+| Belize — 2.4 Effects of different emergencies on our health and community — emergencies, health and community (original string `staying-safe/disaster-preparedness-and-emergency-safety`) | Belize Grade 8 HFLE Curr Upper, printed pp. 80–85 |
+
+Belize is filed as teacher-curriculum / teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — all eight Belize books are TEACHER books, so Belize is named in the countries line and provenance rows but the acceptance count stays at 8 countries. The Belize placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug, or under its canonical NEW string, are recorded as filed), and the original string is recorded in each provenance row above. Belize's own way is content, as the book lines above record it: health is taught as HFLE (Health and Family Life Education) — four themes (Self and Interpersonal Relationships, Sexuality and Sexual Health, Eating and Fitness, Managing the Environment) spiralled through every grade, plus a Healthy Lifestyles strand inside the PE curriculum books. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
 Searchable tags: staying safe in disasters, earthquakes, tremors, keeping calm, sheltering beside a strong desk, drill simulacro, El Salvador Ciencia Salud y Medio Ambiente 1, Cuando la Tierra se mece, disaster safety fire earthquake floods cyclone hurricane volcanic eruption tsunami landslide, Samoa Years 1–8 Curriculum, disasters and health types of disasters impact on health, personal disaster plan emergency contact numbers, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, Azerbaijan Fiziki Tərbiyə Grades 6-10, Georgian-language edition, hardening the body, self-control diary, air-raid alert how to act, mine safety explosive objects, emergency situations and their consequences, water and flood safety, Ukraine G7 Health Safety and Wellbeing Shyian, safe or dangerous, Güvenli mi Tehlikeli mi, earthquake simulation course, Deprem Simülasyon Parkuru, Turkey Preschool Movement & Health TG, disasters and hazards, landsliding, landslide, Pakistan Grades 6 7 8 9 Sehat-o-Jismani Taleem, Iran, Jamaica, Jamaica HFLE, Health and Family Life Education Jamaica, CARICOM HFLE, Ministry of Education and Youth Jamaica 2023, Disaster Management, United Arab Emirates, UAE Health Sciences
 

@@ -1,8 +1,8 @@
 # Sources — Vaccines and Immunisation
 
-countries: El Salvador, Bulgaria, United Arab Emirates, Fiji
+countries: El Salvador, Bulgaria, United Arab Emirates, Fiji, Belize
 
-**Acceptance count: taught in 4 countries.** Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. United Arab Emirates is added as student-book stock (see its United Arab Emirates section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. El Salvador is filed as student-book stock, inside the acceptance count, in this lesson. Bulgaria is filed as student-book stock, inside the acceptance count, in this lesson.
+**Acceptance count: taught in 4 countries.** Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. United Arab Emirates is added as student-book stock (see its United Arab Emirates section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. El Salvador is filed as student-book stock, inside the acceptance count, in this lesson. Bulgaria is filed as student-book stock, inside the acceptance count, in this lesson. Belize is filed as teacher-curriculum / teacher-guide evidence only in this lesson (see its Belize section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for Belize in this lesson.
 
 **Book 1 — Ciencia, Salud y Medio Ambiente 1 (student book, Spanish):**
 - Title as printed: Ciencia, Salud y Medio Ambiente 1 (Colección Cipotas y Cipotes)
@@ -59,6 +59,27 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/united-arab-
 | United Arab Emirates — 5.5 Medical care for disease prevention — immunisation and health screening for early detection (original string `fair-play-and-the-body/HELD-title-decision`) | United Arab Emirates G12 Health Sciences Unit 5 Student, printed p. 25 |
 
 United Arab Emirates is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the student book(s) stocked here are Book 6, so United Arab Emirates is named in the countries line and provenance rows and the acceptance count rises from 2 to 3 countries; the teacher-guide rows, where present, are teacher-guide evidence only, outside the count. The United Arab Emirates placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines), and the original string is recorded in each provenance row above. United Arab Emirates's own way is content, as the book lines above record it: Health Sciences in the senior grades is a vocational, exam-standard subject taught unit by unit, with UAE-specific content named in the rows (sandstorms in the disaster unit; the UAE Good Samaritan law of 2020, ambulance number 998 and the National Ambulance EMT pathway in first aid; MoHAP, Dubai Health Authority and Department of Health – Abu Dhabi patient rights in healthcare; and, in the older HECMA programme, scorpions, jellyfish, heat illness and drowning). This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+## Belize — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-health-placements.md. 2 Belize placement(s) stocked in this lesson. The Belize book(s) stocked in this lesson: Book 2 of that file. All eight Belize books are TEACHER books (teacher curriculum / teacher guides), so Belize is filed as teacher-curriculum / teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for Belize in this lesson. No Belize placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 2 — PE Middle Division, Healthy Lifestyles strand (teacher curriculum, English):**
+- Title as printed: Primary Curriculum: Physical education — Middle Division, Healthy Lifestyles area of study (PDF metadata title "Physical Education Middle Division", author David Leacock)
+- Grade: Grades 4–6 — Standard II, Standard III, Standard IV (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Belize; year 2004; ISBN no ISBN printed
+- PDF pages: 211 (Healthy Lifestyles strand at printed pp. 68–117, 118–165, 166–211; PE glossary pp. 64–67 inventory-only, not placed)
+- Verdict: COMPLETE
+- Tally: 60 placements — 6 to existing lessons, 54 NEW LESSON NEEDED
+- Belize's own way: the Middle Healthy Lifestyles strand is a full health course inside the PE book — body care and hygiene diseases, food handling and waste, first aid and traffic rules, substances and abuse, nutrition, communicable and childhood diseases with immunization, and Belize's natural resources, conservation and pollution.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-health-placements.md (Book 2 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Belize — Immunization — a vaccine injected or given to protect the body from disease (original string `staying-safe/immunization-and-vaccines`) | Belize Grade 4 PE Middle, printed p. 110 |
+| Belize — Immunization — the immunization chart: tuberculosis at birth, DPT and polio at 2–3, 4–5 and 6–7 months, MMR at 12 months, DPT at 4–6 years (original string `staying-safe/immunization-and-vaccines`) | Belize Grade 5 PE Middle, printed p. 159 |
+
+Belize is filed as teacher-curriculum / teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — all eight Belize books are TEACHER books, so Belize is named in the countries line and provenance rows but the acceptance count stays at 4 countries. The Belize placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug, or under its canonical NEW string, are recorded as filed), and the original string is recorded in each provenance row above. Belize's own way is content, as the book lines above record it: health is taught as HFLE (Health and Family Life Education) — four themes (Self and Interpersonal Relationships, Sexuality and Sexual Health, Eating and Fitness, Managing the Environment) spiralled through every grade, plus a Healthy Lifestyles strand inside the PE curriculum books. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
 Searchable tags: vaccines and immunisation, tetanus, vaccination prevents tetanus, bacteria soil dust rusty metal, El Salvador Ciencia Salud y Medio Ambiente 1, Cuidado con el tétano, vaccines Jenner smallpox vaccine immune system, Bulgaria Immunisation Calendar mandatory vaccination debate, vaccine safety monitoring, Bulgaria Biology and Health Education Grade 9 Pedagog 6, United Arab Emirates, UAE Health Sciences
 

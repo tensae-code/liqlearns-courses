@@ -1,8 +1,8 @@
 # Sources — Making Good Decisions
 
-countries: Sierra Leone, Indonesia, Eritrea, Jamaica, Fiji
+countries: Sierra Leone, Indonesia, Eritrea, Jamaica, Fiji, Belize
 
-**Acceptance count: taught in 3 countries.** Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Sierra Leone is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count. Eritrea is added as student-book stock (see its Eritrea section below), inside the acceptance count — all three Eritrea books are STUDENT books. Jamaica is filed as curriculum-guide evidence only in this lesson (see its Jamaica section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Jamaica rows in this lesson — both read Jamaica books are curriculum guides (TEACHER).
+**Acceptance count: taught in 3 countries.** Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Sierra Leone is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count. Eritrea is added as student-book stock (see its Eritrea section below), inside the acceptance count — all three Eritrea books are STUDENT books. Jamaica is filed as curriculum-guide evidence only in this lesson (see its Jamaica section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Jamaica rows in this lesson — both read Jamaica books are curriculum guides (TEACHER). Belize is filed as teacher-curriculum / teacher-guide evidence only in this lesson (see its Belize section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for Belize in this lesson.
 
 **Book 1 — AHLS Teacher's Manual SSS1–3 (teacher guide, English):**
 - Title as printed: Teaching and Learning Materials for Adolescent Health and Life Skills (AHLS) Syllabus — Senior Secondary School (cover); title inside: Teaching and Learning Materials for Adolescent Health and Life Skills (AHLS) — SSS, Dec 2025, New Senior Secondary Curriculum (MBSSE)
@@ -126,6 +126,44 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/jamaica-heal
 | Jamaica — Unit 3: Reducing Risky Behaviours — risky behaviour, Grade 9 level (curriculum guide — evidence) (original string `staying-safe/reducing-risky-behaviours`) | Jamaica, *Health and Family Life Education Curriculum — Grade 9, New Edition* (Jamaica Grade 9 HFLE Curriculum 2023, curriculum guide), printed p. 2 |
 
 Jamaica is filed as curriculum-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — the read Jamaica books are curriculum guides (TEACHER), so Jamaica is named in the countries line and provenance rows and the acceptance count is unchanged at 2 countries. The Jamaica placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved to this canonical lesson (`fair-play-and-the-body/making-good-decisions`) by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Jamaica's own way is content, as the book lines above record it: HFLE is a life-skills subject built on the CARICOM regional framework — five themes (Self and Interpersonal Relationships; Safety and Security, new in this edition; Sexuality and Sexual Health; Appropriate Eating and Fitness; Managing the Environment) taught through reflective, affective-domain lessons, with sample lesson plans and a mental-health appendix, the Grade 9 book completing the same spiral with sexually transmitted infections, food security and a "Responsible Earthlings" environmental unit. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+## Belize — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-health-placements.md. 6 Belize placement(s) stocked in this lesson. The Belize book(s) stocked in this lesson: Book 4, Book 5 of that file. All eight Belize books are TEACHER books (teacher curriculum / teacher guides), so Belize is filed as teacher-curriculum / teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for Belize in this lesson. No Belize placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 4 — HFLE Curriculum, Middle Division (teacher curriculum, English):**
+- Title as printed: Health and Family Life Education Curriculum for Primary Schools — Middle Division
+- Grade: Grades 4–6 — Standard Two, Standard Three, Standard Four (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Belize (with UNICEF and the Global Fund); year April 2006; ISBN no ISBN printed
+- PDF pages: 111 (cover verified against the record title; read in place from phase3-staging, 2,564,857 bytes = recorded size)
+- Verdict: COMPLETE
+- Tally: 120 placements — 1 to an existing lesson, 119 NEW LESSON NEEDED (9 of them HELD-title-decision fitness-concept lines)
+- Belize's own way: the same four HFLE themes spiral upward — alcohol, tobacco and marijuana enter through the Self theme, puberty and HIV & AIDS through Sexuality in Standard Four, and the Environment theme adds Belize's own environmental agencies, laws and disaster readiness. The duplicate UWI download-list record for this book is the same book as the secured record — read once.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-health-placements.md (Book 4 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Belize — 2.1 Resisting negative pressures — standing firm against negative peer pressure (original string `staying-safe/resisting-negative-peer-pressure`) | Belize Grade 6 HFLE Curr Middle, printed pp. 72–81 |
+| Belize — 2.2 Making good decisions — how to make good decisions (original string `staying-safe/making-good-decisions`) | Belize Grade 6 HFLE Curr Middle, printed pp. 72–81 |
+| Belize — 2.3 Decisions and consequences — every decision has consequences (original string `staying-safe/making-good-decisions`) | Belize Grade 6 HFLE Curr Middle, printed pp. 72–81 |
+
+**Book 5 — HFLE Curriculum, Upper Division (teacher curriculum, English):**
+- Title as printed: Health and Family Life Education Curriculum for Primary Schools — Upper Division
+- Grade: Grades 7–8 — Standard Five, Standard Six (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Belize (with UNICEF and the Global Fund); year April 2006; ISBN no ISBN printed
+- PDF pages: 91 (cover verified against the record title; read in place from phase3-staging, 2,298,807 bytes = recorded size)
+- Verdict: COMPLETE
+- Tally: 95 placements — 0 to existing lessons, 95 NEW LESSON NEEDED (5 of them HELD-title-decision fitness-concept lines)
+- Belize's own way: Upper-division HFLE turns to adolescence — puberty, periods, parenting, STIs and HIV in depth, media influence, stress and crisis, and Belize's own diet-disease research and environmental law. The duplicate UWI download-list record for this book is the same book as the secured record — read once.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-health-placements.md (Book 5 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Belize — 1.2 My life, my choices: learning from my mistakes — choices and learning from mistakes (original string `staying-safe/making-good-decisions`) | Belize Grade 7 HFLE Curr Upper, printed pp. 16–27 |
+| Belize — 2.3 Peer pressure — recognising and resisting peer pressure (original string `staying-safe/resisting-negative-peer-pressure`) | Belize Grade 8 HFLE Curr Upper, printed pp. 52–61 |
+| Belize — 3.3 Positive alternatives to crime and violence — choosing positive paths over crime and violence (original string `staying-safe/positive-alternatives-to-crime-and-violence`) | Belize Grade 8 HFLE Curr Upper, printed pp. 52–61 |
+
+Belize is filed as teacher-curriculum / teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — all eight Belize books are TEACHER books, so Belize is named in the countries line and provenance rows but the acceptance count stays at 3 countries. The Belize placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug, or under its canonical NEW string, are recorded as filed), and the original string is recorded in each provenance row above. Belize's own way is content, as the book lines above record it: health is taught as HFLE (Health and Family Life Education) — four themes (Self and Interpersonal Relationships, Sexuality and Sexual Health, Eating and Fitness, Managing the Environment) spiralled through every grade, plus a Healthy Lifestyles strand inside the PE curriculum books. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
 Searchable tags: making good decisions, what life skills are, interpersonal communication skills, decision-making skills, good and bad peer pressure, Sierra Leone AHLS Teacher's Manual SSS1 SSS2 SSS3, adolescent health and life skills Sierra Leone, Indonesia, Indonesia PJOK, Pendidikan Jasmani Olahraga dan Kesehatan, Dasar-Dasar Layanan Kesehatan, Isi Piringku, Eritrea, Life Skills Based Health Education Eritrea Grades 6 7 8, How to Say "No" Loudly and Clearly, Media and Peer Pressure, What Makes Adolescents Vulnerable or Invulnerable?, Risk Taking Behaviours, Sexual Risk Taking, What Makes a Risk Justifiable?, Project: Risk Taking Behaviours and Their Consequences, Assertiveness and Negotiation, Decision Making and Sticking to Decisions, Resisting Peer Pressure, Jamaica, Jamaica HFLE, Health and Family Life Education Jamaica, CARICOM HFLE, Ministry of Education and Youth Jamaica 2023, Reducing Risky Behaviours
 
