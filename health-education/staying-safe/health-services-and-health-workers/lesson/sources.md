@@ -1,8 +1,8 @@
 # Sources — Health Services and Health Workers
 
-countries: Samoa, Philippines, Turkey, Papua New Guinea, Thailand, Indonesia
+countries: Samoa, Philippines, Turkey, Papua New Guinea, Thailand, Indonesia, Nepal
 
-**Acceptance count: taught in 4 countries.** Samoa is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this lesson. Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book. Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Thailand is added as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count. The Indonesia teacher-guide rows in this lesson are filed as teacher-guide evidence only, outside the count.
+**Acceptance count: taught in 5 countries.** Samoa is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this lesson. Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book. Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Thailand is added as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count. The Indonesia teacher-guide rows in this lesson are filed as teacher-guide evidence only, outside the count. Nepal is added as student-book stock (see its Nepal section below), inside the acceptance count.
 
 **Book 1 — Samoa HPE Teacher Guide, Years 11–12 (teacher guide, English):**
 - Title as printed: Health and Physical Education Teacher Guide, Years 11 and 12
@@ -180,3 +180,51 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/indonesia-he
 Indonesia is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the acceptance count rises from 3 to 4 countries. The Indonesia teacher-guide rows above are filed as teacher-guide evidence only, outside the count. The Indonesia placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved to this lesson by the slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Indonesia's own way is content, as the book lines above record it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
 Searchable tags: health services health workers, family community health promotion, health agencies AIDS awareness family planning, community resources, rights to good health, village co-operatives Asiasiga Maumaga, nonu esi, Samoa Years 11–12 TG, health appraisal and school health services, Health Appraised and Amazed, screening height weight vision hearing blood pressure, Philippines Grade 7 Health LM, public health and health services in Turkey, Halk Sağlığı ve Sağlık Hizmetleri, Turkey Health & Traffic Culture, Papua New Guinea, Papua New Guinea Grade 3 Health TG Grade 3, Papua New Guinea Grade 4 Health TG Grade 4, Papua New Guinea Grade 5 Health TG Grade 5, Thailand, Thailand Health & PE, สุขศึกษาและพลศึกษา, Indonesia, Indonesia PJOK, Pendidikan Jasmani Olahraga dan Kesehatan, Dasar-Dasar Layanan Kesehatan, Isi Piringku
+
+## Nepal — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/nepal-health-placements.md. 6 Nepal placement(s) stocked in this lesson. All four Nepal books are STUDENT books, so Nepal is student-book stock, inside the acceptance count, in this lesson; Book 4 (Kafle, Grade 5) is PARTIAL exactly as filed — its rows keep that label. The five UNREAD / record-only items of the placements file (Health, Population and Environment Education, Grade 9, lib.moecdc.gov.np item 819 — UNREAD; the CDC teacher-guide category page — NOT A BOOK; the Skill Bridge Academy mirror page — NOT A BOOK; the Tribhuvan University staff CV page — NOT A BOOK; and the old-series Class Five teacher-guide bundle ZIP, lib.moecdc.gov.np item 329 — UNREAD) carry 0 placements; nothing is stocked from them. One Nepal placement in the file as a whole (Grade 7, Personal Health, printed p. 16) resolves to a PE-course lesson and was excluded from Health — see CURRICULUM.md; no other Nepal placement in this lesson was excluded.
+
+**Book 1 — Health and Physical Education, Grade 7 (student book, English):**
+- Title as printed: Health and Physical Education, Grade 7
+- Grade: 7 (STUDENT)
+- Publisher/year/ISBN: Curriculum Development Centre (CDC), Sanothimi, Bhaktapur, Government of Nepal — Revised Edition 2017 (price Rs. 34/-); no ISBN printed in the copy read
+- PDF pages: read in full as a web flipbook (Scribd document 709937956); the AnyFlip copy (bmrsy/nsaw) of the same book only exposes pp. 1–50 in free view
+- Verdict: COMPLETE
+- Tally: 31 placements — 5 existing, 26 NEW
+- Nepal's own way: one combined Health & PE book per grade from the CDC; the Health half runs nine lessons — body systems, personal health, nutrition, diseases, adolescence and reproductive health, drugs/smoking/alcohol, environmental health, safety and first aid, family and community health — the same nine-part spine repeated and deepened in Grade 8.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal — Family and Community Health — what family health is and why it matters (original string `HELD-title-decision`) | Nepal 7 Health and Physical Education, printed p. 56 |
+
+**Book 2 — Health and Physical Education, Grade 8 (student book, Nepali edition in hand; read via the parallel English edition):**
+- Title as printed: स्वास्थ्य तथा शारीरिक शिक्षा कक्षा ८ (Health and Physical Education, Class 8)
+- Grade: 8 (STUDENT)
+- Publisher/year/ISBN: Curriculum Development Centre (CDC), Sanothimi, Bhaktapur, Government of Nepal — Nepali edition first published BS 2072, revised BS 2076 (2019); the parallel English edition read alongside is CDC First Edition 2016, Revised Edition 2018 (price Rs. 42/-); no ISBN printed in either copy
+- PDF pages: 123 (Nepali PDF in hand, 10,222,352 bytes; the target record lists 9,326,433 bytes — the file served by pustakalaya.org is larger than the record's figure)
+- Verdict: COMPLETE (English parallel edition read in full; its table of contents matches the Nepali PDF's printed contents page for page, and the Nepali cover and contents were verified against the record)
+- Tally: 38 placements — 6 existing, 32 NEW
+- Nepal's own way: the Grade 8 book deepens the same nine-lesson Health spine as Grade 7 — body systems now include circulation, glands and nerves; the adolescence lesson adds birth control, safe abortion and full sexuality education; the community-health lesson names Nepal's own ladder of health posts and hospitals.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal — Personal Health — why and how to have a regular health check-up (original string `HELD-title-decision`) | Nepal 8 Health and Physical Education, printed p. 16 |
+| Nepal — Family and Community Health — how family health and community health hold each other up, and works that promote community health (original string `HELD-title-decision`) | Nepal 8 Health and Physical Education, printed p. 67 |
+| Nepal — Family and Community Health — Nepal's community health services: sub-health post, health post, primary health centre, ayurveda hospital, homeopathy hospital and hospitals (original string `HELD-title-decision`) | Nepal 8 Health and Physical Education, printed p. 68 |
+
+**Book 3 — My Science, Health and Physical Education, Grade 5 (student book, English):**
+- Title as printed: My Science, Health and Physical Education, Grade 5
+- Grade: 5 (STUDENT)
+- Publisher/year/ISBN: Government of Nepal, Ministry of Education, Curriculum Development Centre (CDC), Sanothimi — reprint 2075 BS; ISBN 978-9937-8247-3-6
+- PDF pages: 161
+- Verdict: COMPLETE for the Health part (the Science part, lessons 1–15, printed pp. 1–80, is named here and NOT placed in either course: living beings and environment; plants; animals; the Earth and space; matter; energy; light; heat; sound; simple machines and tools — Science is another course's ground)
+- Tally: 17 placements — 3 existing, 14 NEW
+- Nepal's own way: at Grade 5 the three subjects share one book; several Health lessons are written as classroom dialogues (teacher and pupils talking) rather than exposition, and the health-service lessons teach children to use Nepal's health posts and to cooperate with community health work.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal — Health Service and Community Health — the institutions that give health services (hospital, health post, sub-health post, primary health care centre) and what community health means (original string `HELD-title-decision`) | Nepal 5 My Science, Health and Physical Education, printed p. 113 |
+| Nepal — Let's Enjoy Health Service and Let's Co-operate — a dialogue lesson on using health services and cooperating to keep the community healthy (original string `HELD-title-decision`) | Nepal 5 My Science, Health and Physical Education, printed p. 116 |
+
+Nepal is added as student-book stock (see its book lines and rows above), inside the acceptance count — all four Nepal books are STUDENT books, so Nepal is named in the countries line and provenance rows and the acceptance count rises from 4 to 5 countries. The Nepal placement(s) in this lesson filed as HELD-title-decision lines were resolved to this canonical lesson by registry Part 2B from their HELD descriptions, and placements filed directly under this lesson's own slug are recorded as filed; the original string is recorded in each provenance row above. Nepal's own way is content, as the book lines above record it: Health is taught inside combined CDC books on a nine-part spine repeated and deepened by grade, with Nepal's own ladder of health posts and hospitals named in the community-health lessons. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.

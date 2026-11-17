@@ -627,3 +627,30 @@ here; verified by git grep on origin/main, they are not yet
 stocked in PE either, so they await a PE fix-up. Book 6
 (e-library preview 2900) is UNREAD as filed — record-only
 placeholder, 0 placements — nothing stocked from it.
+
+The Health expansion then added (Nepal): no new lessons — 95
+placements stocked into existing lessons (Keeping Our
+Environment Healthy ×13, Preventing Sports Injuries and
+First Aid ×12, Reproduction and Pregnancy ×9, The Body
+Systems ×8, Saying No to Drugs, Alcohol and Tobacco ×8,
+Eating a Balanced Diet ×7, Preventing Common Diseases ×7,
+Health Services and Health Workers ×6, Keeping My Body
+Clean ×4, STIs and HIV Prevention ×4, Malnutrition ×3,
+Menstruation ×2, Non-communicable Diseases ×2, Paying
+Attention and Crossing the Road Safely ×2, Safe Water and
+Toilets ×2, Sleep and Rest ×2, Caring for My Senses,
+Common Illnesses and Caring for the Sick, Puberty and
+Growing Up, Why Exercise Keeps You Healthy) — this course
+stays at 55 lessons. All four Nepal books (Health and
+Physical Education, Grades 7 and 8; My Science, Health and
+Physical Education, Grade 5; and Health, Physical Education
+and Creative Arts 5, the last PARTIAL as filed) are STUDENT
+books, so Nepal is student-book stock, inside the acceptance
+counts, in every lesson it touches (each touched lesson's
+count rose by 1). One Nepal placement (Grade 7, Personal
+Health, printed p. 16) resolves through the registry to PE
+canonical `moving-basics/correct-posture` and was excluded
+here; verified by git grep on origin/main, it is not yet
+stocked in PE either, so it awaits a PE fix-up. The five
+UNREAD / record-only items of the placements file carry
+0 placements — nothing stocked from them.

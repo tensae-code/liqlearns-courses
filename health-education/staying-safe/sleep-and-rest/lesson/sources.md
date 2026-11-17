@@ -1,8 +1,8 @@
 # Sources — Sleep and Rest
 
-countries: Timor-Leste, Philippines, Ukraine, Turkey, Estonia
+countries: Timor-Leste, Philippines, Ukraine, Turkey, Estonia, Nepal
 
-**Acceptance count: taught in 4 countries.** Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book. Estonia is filed as teacher-guide evidence only in this lesson (see its Estonia section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is stocked in this lesson for Estonia.
+**Acceptance count: taught in 5 countries.** Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book. Estonia is filed as teacher-guide evidence only in this lesson (see its Estonia section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is stocked in this lesson for Estonia. Nepal is added as student-book stock (see its Nepal section below), inside the acceptance count.
 
 **Book 1 — Saúde e Bem-Estar 7, Manual do aluno (student book, Portuguese/Tetum):**
 - Title as printed: Saúde e Bem-Estar / Saúde no Rahun-Di'ak 7 — Manual do aluno / Manuál ba estudante
@@ -118,3 +118,35 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/estonia-heal
 Estonia is added in this lesson as teacher-guide evidence only, outside the acceptance count — see the book lines and rows above. This lesson teaches its Estonia placements only as the placements file summarises them, and names nothing the summaries do not name.
 
 Searchable tags: sleep and rest, social media and sleep, sleep hygiene, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, sleep and rest for health, Ang Aking Pagtulog, sleeping and waking early, 11 hours sleep, clean bedding, Philippines Grade 1 PE and Health LM, food and sleep decide health, active rest, Ukraine G5 Health Safety and Wellbeing Vasylenko, sleep and health, Uyku Düzeni ve Sağlık, sleep cycle, sleep hygiene, Turkey Health & Traffic Culture, Estonia, Toitumine ja liikumine, Digiõpik Lesson 24
+
+## Nepal — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/nepal-health-placements.md. 2 Nepal placement(s) stocked in this lesson. All four Nepal books are STUDENT books, so Nepal is student-book stock, inside the acceptance count, in this lesson; Book 4 (Kafle, Grade 5) is PARTIAL exactly as filed — its rows keep that label. The five UNREAD / record-only items of the placements file (Health, Population and Environment Education, Grade 9, lib.moecdc.gov.np item 819 — UNREAD; the CDC teacher-guide category page — NOT A BOOK; the Skill Bridge Academy mirror page — NOT A BOOK; the Tribhuvan University staff CV page — NOT A BOOK; and the old-series Class Five teacher-guide bundle ZIP, lib.moecdc.gov.np item 329 — UNREAD) carry 0 placements; nothing is stocked from them. One Nepal placement in the file as a whole (Grade 7, Personal Health, printed p. 16) resolves to a PE-course lesson and was excluded from Health — see CURRICULUM.md; no other Nepal placement in this lesson was excluded.
+
+**Book 3 — My Science, Health and Physical Education, Grade 5 (student book, English):**
+- Title as printed: My Science, Health and Physical Education, Grade 5
+- Grade: 5 (STUDENT)
+- Publisher/year/ISBN: Government of Nepal, Ministry of Education, Curriculum Development Centre (CDC), Sanothimi — reprint 2075 BS; ISBN 978-9937-8247-3-6
+- PDF pages: 161
+- Verdict: COMPLETE for the Health part (the Science part, lessons 1–15, printed pp. 1–80, is named here and NOT placed in either course: living beings and environment; plants; animals; the Earth and space; matter; energy; light; heat; sound; simple machines and tools — Science is another course's ground)
+- Tally: 17 placements — 3 existing, 14 NEW
+- Nepal's own way: at Grade 5 the three subjects share one book; several Health lessons are written as classroom dialogues (teacher and pupils talking) rather than exposition, and the health-service lessons teach children to use Nepal's health posts and to cooperate with community health work.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal — Physical Exercise, Rest and Sleep — rest and sleep: 8–10 hours, early to bed, a quiet airy room (original string `HELD-title-decision`) | Nepal 5 My Science, Health and Physical Education, printed p. 86 |
+
+**Book 4 — Health, Physical Education and Creative Arts, Grade 5 (student book, English — CDC-approved private series):**
+- Title as printed: Health, Physical Education and Creative Arts 5
+- Grade: 5 (STUDENT)
+- Publisher/year/ISBN: Oasis Publication; author Dheejan Babu Kafle; First Edition 2080 BS; approved by the Curriculum Development Centre (CDC) as an approved textbook series (price Rs. 278/-); no ISBN printed in the pages read
+- PDF pages: read as a web flipbook (AnyFlip hencz/liir); the free view exposes only pp. 1–50 of the book
+- Verdict: PARTIAL — Chapters 1–2 read in full and Chapter 3 read to printed p. 50; Chapters 4–13 lie beyond the flipbook's free-view limit and are named in the PE file header (Ch. 4 Disease and Substance Abuse p. 57, Ch. 5 Safety and First Aid p. 69 are Health chapters — NOT read, NOT placed)
+- Tally: 10 placements — 0 existing, 10 NEW
+- Nepal's own way: the newer Grade 5 curriculum merges Health & PE with Creative Arts in one approved book; its hygiene chapter teaches sense-organ care point by point (including the 20-20-20 eye rule and a warning against cotton buds in ears) and gives menstruation a full section including the family's and friends' roles, taught through a classroom dialogue.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal — Personal Hygiene — rest, sleep and exercise for a healthy body (original string `HELD-title-decision`) | Nepal 5 Health, Physical Education and Creative Arts (Kafle), printed p. 17 (PARTIAL as filed) |
+
+Nepal is added as student-book stock (see its book lines and rows above), inside the acceptance count — all four Nepal books are STUDENT books, so Nepal is named in the countries line and provenance rows and the acceptance count rises from 4 to 5 countries. The Nepal placement(s) in this lesson filed as HELD-title-decision lines were resolved to this canonical lesson by registry Part 2B from their HELD descriptions, and placements filed directly under this lesson's own slug are recorded as filed; the original string is recorded in each provenance row above. Nepal's own way is content, as the book lines above record it: Health is taught inside combined CDC books on a nine-part spine repeated and deepened by grade, with Nepal's own ladder of health posts and hospitals named in the community-health lessons. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.

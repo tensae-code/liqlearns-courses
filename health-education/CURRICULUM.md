@@ -1669,3 +1669,76 @@ editions reorder the guide (health awareness first — posture,
 home exercise, balanced nutrition, mental health — then the
 chronic diseases, then the same seventeen emergencies) and
 drop the 1st edition's separate cancer chapter.
+
+**Health expansion — Nepal — BUILT 2026-11-17:** 95
+placements from Nepal's four CDC student books — Book 1,
+*Health and Physical Education, Grade 7* (student book,
+English, CDC, Revised Edition 2017, COMPLETE, read in full
+as a web flipbook), Book 2, *Health and Physical Education,
+Grade 8* (student book, Nepali edition in hand, CDC, revised
+BS 2076 (2019), read via the parallel English edition,
+COMPLETE), Book 3, *My Science, Health and Physical
+Education, Grade 5* (student book, English, CDC, reprint
+2075 BS, ISBN 978-9937-8247-3-6, COMPLETE for the Health
+part) and Book 4, *Health, Physical Education and Creative
+Arts 5* (student book, English, Oasis Publication, Dheejan
+Babu Kafle, First Edition 2080 BS, CDC-approved series,
+PARTIAL exactly as filed — Chapters 1–2 read in full and
+Chapter 3 read to printed p. 50) — stocked into existing
+lessons: Keeping Our Environment Healthy ×13, Preventing
+Sports Injuries and First Aid ×12, Reproduction and
+Pregnancy ×9, The Body Systems ×8, Saying No to Drugs,
+Alcohol and Tobacco ×8, Eating a Balanced Diet ×7,
+Preventing Common Diseases ×7, Health Services and Health
+Workers ×6, Keeping My Body Clean ×4, STIs and HIV
+Prevention ×4, Malnutrition ×3, Menstruation ×2,
+Non-communicable Diseases ×2, Paying Attention and Crossing
+the Road Safely ×2, Safe Water and Toilets ×2, Sleep and
+Rest ×2, Caring for My Senses ×1, Common Illnesses and
+Caring for the Sick ×1, Puberty and Growing Up ×1 and Why
+Exercise Keeps You Healthy ×1 — bringing no new lessons;
+this course stays at **55 lessons**. All four Nepal books
+are STUDENT books, so Nepal is filed as student-book stock,
+inside the acceptance counts, in every lesson it touches
+(each touched lesson's count rose by 1). The 96 placements
+were filed as 14 to existing lessons and 82 NEW LESSON
+NEEDED under `HELD-title-decision`, resolved by the health
+slug registry Part 2B to the canonical lessons above, with
+the original string recorded in every provenance row. One
+Nepal placement was NOT stocked in Health because the
+registry resolves it to a PE-course lesson: Grade 7,
+Personal Health — checking your own nutritional state by
+height and weight, good posture, and staying mentally well
+in adolescence (printed p. 16), a HELD-title-decision line
+resolving to PE canonical `moving-basics/correct-posture`
+— verified by git grep on origin/main: it is NOT stocked
+in the PE course either (the Correct Posture lesson carries
+no Nepal rows), so it awaits a PE fix-up. Honesty notes,
+exactly as filed: Book 2's Nepali PDF in hand is
+10,222,352 bytes while the target record lists 9,326,433
+bytes — the file served by pustakalaya.org is larger than
+the record's figure, recorded in every Book 2 line; Book
+3's Science part (lessons 1–15, printed pp. 1–80) is named
+and NOT placed in either course — Science is another
+course's ground; Book 4's Chapters 4–13 lie beyond the
+flipbook's free-view limit (Ch. 4 Disease and Substance
+Abuse p. 57 and Ch. 5 Safety and First Aid p. 69 are Health
+chapters — NOT read, NOT placed), and its PARTIAL label is
+carried in every Book 4 entry and provenance row and never
+upgraded; the five UNREAD / record-only items of the
+placements file (Health, Population and Environment
+Education, Grade 9, lib.moecdc.gov.np item 819 — UNREAD,
+its host dropping this host's connections four times; the
+CDC teacher-guide category page — NOT A BOOK; the Skill
+Bridge Academy mirror page — NOT A BOOK; the Tribhuvan
+University staff CV page — NOT A BOOK; and the old-series
+Class Five teacher-guide bundle ZIP, lib.moecdc.gov.np
+item 329 — UNREAD) carry 0 placements, nothing stocked
+from them. Nepal's own way is content: one combined Health
+& PE book per grade from the CDC, its Health half running
+the same nine-part spine — body systems, personal health,
+nutrition, diseases, adolescence and reproductive health,
+drugs/smoking/alcohol, environmental health, safety and
+first aid, family and community health — repeated and
+deepened by grade, with Nepal's own ladder of health posts
+and hospitals named in the community-health lessons.
