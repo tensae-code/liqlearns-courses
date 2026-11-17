@@ -1,6 +1,6 @@
 # Sources — Rules and Laws
 
-countries: Oman, Pakistan
+countries: Oman, Pakistan, Guyana
 
 **Book 1:** *Identity and Citizenship Grade 3, Term 1* (teacher guide, Arabic) — Title as printed: دليل المعلم لمادة الهوية والمواطنة — Teacher's Guide for the Subject Identity and Citizenship. Grade: Grade 3 (student/teacher: TEACHER), Term 1. Publisher: Ministry of Education, Sultanate of Oman; experimental edition (same series); no ISBN printed. PDF pages: 96 (50,272,498 bytes — exactly the ministry server's Content-Range total; ministry TeacherBook PDF service. Cover verified: الصف الثالث، الفصل الدراسي الأول. STAGED under the new rule at phase3-staging/grade-03/gov/oman/identity-and-citizenship/teacher/term-1.pdf with a books.json record). Earlier waves: none. Verdict: COMPLETE (scope-noted) — contents, standards and lesson map read; Units 2–3 placed below, marked TEACHER; Unit 1 named for the Health course, not placed. Contents map: Unit 1 أحافظ على ذاتي (I Take Care of Myself) printed p. 29 — lessons: أعتني بجسدي (I care for my body), أعتني بعقلي (I care for my mind), أحمي ذاتي (I protect myself) — personal health and safety, named for Health, not placed; Unit 2 حقوقي وواجباتي الأسرية (My Family Rights and Duties) printed p. 49 — lessons: حقوقي الأسرية, واجباتي الأسرية, ميثاق أسرتي (My family's charter); Unit 3 حقوقي وواجباتي في الحي (My Rights and Duties in the Neighbourhood) printed p. 67 — lessons: أنا أحتاج... أنا ألتزم (I need... I commit), أخذٌ وعطاء (Giving and taking), قواعد مدرستي (My school's rules). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/oman-placements.md. Teacher guide — evidence only, outside the acceptance count. Oman's student books were not held — its placements are based on teacher guides.
 
@@ -33,3 +33,18 @@ Pakistan's own way (Book 2): Class 5 deepens Class 4 — rights now change with 
 Pakistan's own way (Book 6): the senior primary Ethics book turns values into civic machinery — laws learned from a flock of birds, time priced like money, traffic signs taught as a citizen's duty — and opens with story after story where greed ruins kings and gratitude saves the lame.
 
 Searchable tags: rules and laws, Oman, social studies, culture-and-work, Pakistan
+
+Guyana placements — Social Studies remaining strands (2026-11-17):
+
+**Book 4:** *Social Studies For Our Children Book 4* (student book, English) — Title as printed: Social Studies For Our Children — Book 4 (Easy Path Series; back-cover series note: Book 4 — Guyana our Homeland). Grade: Grade 4 (student/teacher: STUDENT). Publisher: Ministry of Education, Georgetown, Guyana; no ISBN printed on the pages read. PDF pages: 94 (cover verified; downloaded from smartminds.school — the GEI bitstream copy recorded in the links file failed twice with zero bytes, the smartminds copy of the same book opened and verified). Earlier waves: not read before (reached through the links file). Verdict: COMPLETE. Contents map: Integrated SS pp. 1–31 (the peoples of Guyana, different communities); Civics/Citizenship pp. 32–37 (leaders), 46–59 (nationhood: awards and celebrated weeks), 72–84 (responsibilities); Morals/Values pp. 72–84 (respect and care, rules for better living, care for property, plants and animals); History pp. 2–23 in part (how each people came to Guyana — named, not placed; their ways of life are placed below as culture) and pp. 38–45 (keeping in touch long ago — named, not placed); Health pp. 60–71 (medicines, leisure, safety — Health course, named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/guyana-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Guyana part — culture-and-work/rules-and-laws-for-better-living — Rules we observe for better living — teaches: newspaper clippings show behaviours a healthy community rejects — stealing, indecent language, dumping rubbish at street corners, wounding a neighbour — and that we observe rules and laws at all times — Guyana Grade 4 Social Studies For Our Children Book 4, printed p. 74 | Guyana, *Social Studies For Our Children Book 4* (student book), Rules we observe for better living — printed p. 74 |
+
+**Acceptance count: taught in 2 countries (Pakistan, Guyana).**
+
+Guyana's own way (Book 4 — Social Studies For Our Children Book 4): Book 4 turns from "my community" to "our homeland" — Guyana is taught as six peoples who each brought a way of life, and citizenship is taught through honour (National Awards) and shared observance (Road Safety, Fire Prevention and Youth Weeks) before it is taught through rules.
+
+Registry note: the original coined string `culture-and-work/rules-and-laws-for-better-living` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/rules-and-laws`.
+

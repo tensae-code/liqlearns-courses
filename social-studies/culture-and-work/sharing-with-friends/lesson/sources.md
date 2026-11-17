@@ -1,6 +1,6 @@
 # Sources — Sharing with Friends
 
-countries: Myanmar, Laos
+countries: Myanmar, Laos, Guyana
 
 **Book 5:** *Morality and Civics, Grade 2* (student book, Myanmar language) — Title as printed: စာရိတ္တနှင့် ပြည်သူ့နီတိ ဒုတိယတန်း (Morality and Civics, Grade 2) — title from the record and the book's chapter layout; the DBE Box scan carries no cover page. Grade: Grade 2 (student/teacher: STUDENT). Publisher: Ministry of Education, Republic of the Union of Myanmar; year not printed in the surviving scan; no ISBN printed. PDF pages: 68 (46,666,937 bytes from books.learnbig.net; a few scanned pages are colour-corrupted in the file, pp. 25–26, 30, 66). Earlier waves: not read before. Verdict: PARTIAL — cover page missing from the scan and three pages corrupt; all 16 chapters identified and read. Contents map: Morals/Values pp. 1–68 (all 16 chapters); no other strands. Tally: 16 placements — 0 to existing lessons, 16 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/myanmar-placements-b.md.
 
@@ -43,3 +43,18 @@ Laos's own way (Book 9): the subject opens in the first weeks of a child's schoo
 Registry note: the original coined string `culture-and-work/sharing-joys-and-sorrows-with-friends` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/sharing-with-friends`.
 
 Searchable tags: sharing with friends, Laos, social studies, culture-and-work
+
+Guyana placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *Social Studies For Our Children Book 1* (student book, English) — Title as printed: Social Studies For Our Children — Book 1 (Easy Path Series; a GOG/EFA-FTI Project). Grade: Grade 1 (student/teacher: STUDENT). Publisher: Ministry of Education, Georgetown, Guyana; revised 2004; no ISBN printed. PDF pages: 57 (cover/title page verified against the record title; 9,866,801 bytes, read in place at phase3-staging, never deleted). Earlier waves: Geography wave placed pp. 13 (school location) and 20–22 (neighbourhood, as NEW first-steps/our-neighbourhood) and p. 39 (weather); History wave placed pp. 34–35 (independence, national symbols/anthem/pledge) and p. 40 (Remembrance/Republic celebrations); Economics wave filed it record-only (no Economics parts). The placements below cover ONLY the remaining-strand parts those waves named but did not place, and never repeat a placed part. Verdict: COMPLETE. Contents map: Integrated SS pp. 1–24 (children, family, school, neighbourhood); Civics/Citizenship pp. 18–19 (school rules), 30–38 (road safety, strangers, our nation, loyalty); Morals/Values pp. 11 (politeness), 19 (keeping shared places clean); Geography p. 39 (weather, placed by Geography wave); Health pp. 25–29 (food groups, hygiene — Health course, named not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/guyana-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Guyana part — first-steps/playing-and-sharing-with-friends — Children play together / Children eat together — teaches: children play together and share food with friends (Ron shares his milk; they sit together to eat) — Guyana Grade 1 Social Studies For Our Children Book 1, printed p. 3 | Guyana, *Social Studies For Our Children Book 1* (student book), Children play together / Children eat together — printed p. 3 |
+
+**Acceptance count: taught in 2 countries (Myanmar, Guyana).** Laos is named here as teacher-guide evidence only, counted nowhere.
+
+Guyana's own way (Book 1 — Social Studies For Our Children Book 1): a story-led first book built around two children, Ron and Sue — family, school, rules and nation are all met through their home, street and school day, with a draw/name/complete task on almost every page.
+
+Registry note: the original coined string `first-steps/playing-and-sharing-with-friends` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/sharing-with-friends`.
+

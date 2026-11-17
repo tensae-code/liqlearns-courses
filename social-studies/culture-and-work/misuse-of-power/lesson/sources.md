@@ -1,0 +1,16 @@
+# Sources — Misuse of Power
+
+countries: Guyana
+
+**Book 8:** *Guyanese in the World, Social Studies Grade 6* (student book, English) — Title as printed: Guyanese in the World — Social Studies for Primary Learners, Grade 6. Grade: Grade 6 (student/teacher: STUDENT). Publisher: Ministry of Education, Guyana; 3rd Edition, Revised September 2026; no ISBN printed (title page: "NOT FOR SALE", © Copyright 2026). PDF pages: 296 (cover verified — title/grade match the record; text-layer book, read from the text with unit heads checked against the printed contents; 8,392,343 bytes, exactly the size recorded for ministry resource 3890; downloaded on the retry pass from en.education.gov.gy /api/resources/3890/download — the moe.gov.gy Grade 6 page (doc 8106) recorded in the links file belongs to the same rebuilt ministry resource centre, whose search lists this book; the parallel larger resource 3567 copy of the same grade was not needed — staged copy in phase3-staging, see group log). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Integrated SS pp. 1–20 (roles and responsibilities in family and community, and of youths); Culture-in-society pp. 21–69 (artistic expressions and the beliefs/values they carry, contributions of Guyanese and Caribbean people — inventory tables, named not placed — intercultural understanding, social and cultural diversity); Global citizenship pp. 70–89 (global interdependence, the United Nations, charitable organisations); Culture pp. 90–105 (cultural changes); Geography pp. 106–193 (maps of North and South America, Guyana's natural environment, urbanization and migration, map making — named, not placed, except the urbanization-impact pages placed below as community change); History pp. 194–201 (present and past events — named, not placed); Economics pp. 202–210 (needs and wants — named, not placed); Integrated SS / values pp. 211–224 (quality of life); Civics/Citizenship/Government pp. 225–241 (environmental, social and economic practices — acting on issues) and pp. 242–288 (power, authority and privileges; human rights). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/guyana-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — culture-and-work/misuse-of-power — How power is misused — teaches: misuse of power is the improper or unauthorised use of power, with examples of how an organisation can misuse its power — Guyana Grade 6 Guyanese in the World, printed pp. 283–284 | Guyana, *Guyanese in the World, Social Studies Grade 6* (student book), How power is misused — printed pp. 283–284 |
+| Sub lesson 2 — Guyana's way — the book's own teaching way | Guyana — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Guyana).**
+
+Guyana's own way: the newest ministry series teaches citizenship from the child's own roles outward — family duties, community roles, youth responsibilities at home and across the Caribbean, then power, privilege and human rights in plain language, with Guyanese and Caribbean case studies (Annette Arjoon-Martins, Mia Mottley) and a value component woven into every unit.
+
+Searchable tags: misuse of power, Guyana, social studies, culture-and-work

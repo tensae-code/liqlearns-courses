@@ -41,3 +41,17 @@ Nicaragua placements — Social Studies remaining strands (2026-11-17):
 **Acceptance count: taught in 3 countries (Guyana, Fiji, Nicaragua).** Albania is named here as teacher-guide evidence only, counted nowhere.
 
 Nicaragua's own way (Book 1 — Estudios Sociales G3 (student book, Spanish)): community is taught through Rama Cay — an ancestral Caribbean island community governed by a council of elders — and citizenship through the current government's named municipal social programmes and the Caribbean Coast autonomy system.
+
+Guyana placements — Social Studies remaining strands (2026-11-17):
+
+**Book 2:** *Social Studies For Our Children Book 2* (student book, English) — Title as printed: Social Studies For Our Children — Book 2 (Easy Path Series; a GOG/EFA-FTI Project). Grade: Grade 2 (student/teacher: STUDENT). Publisher: Ministry of Education, Georgetown, Guyana; no ISBN printed on the pages read. PDF pages: 53 (cover verified — title/grade match the record; downloaded from smartminds.school, the recorded source family of the held Book 1; 8,997,384 bytes — staged copy in phase3-staging, see group log). Earlier waves: not read before (not in the targets file; reached through the links file ministry/download-list leads). Verdict: COMPLETE. Contents map: Integrated SS pp. 1–18 (family, school, neighbourhood); Civics/Citizenship pp. 14–16 (class rules, keeping school clean), 29–34 (leaders of Guyana, national symbols, special days); Morals/Values pp. 8–9 (manners), 39 (Fathers' Day); Geography p. 19 (Guyana's ten Administrative Regions — named, not placed); Economics p. 13 (School Co-operative Thrift Society saving — named, not placed); Health pp. 20–28 (food groups, hygiene, safety rules — Health course, named except the travel-safety and stranger pages placed below as community life). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/guyana-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Guyana part — first-steps/our-neighbourhood — Neighbours and Neighbourhood — teaches: helpful workers in the neighbourhood — a neighbour helps Ron cross the road, another brings letters to Sue's home — Guyana Grade 2 Social Studies For Our Children Book 2, printed p. 17 | Guyana, *Social Studies For Our Children Book 2* (student book), Neighbours and Neighbourhood — printed p. 17 |
+| Guyana part — first-steps/our-neighbourhood — Shopping — teaches: neighbourhood shops — buying cakes and drinks from clean shops where the people are polite — Guyana Grade 2 Social Studies For Our Children Book 2, printed p. 18 | Guyana, *Social Studies For Our Children Book 2* (student book), Shopping — printed p. 18 |
+
+**Acceptance count: taught in 3 countries (Guyana, Fiji, Nicaragua).** Albania is named here as teacher-guide evidence only, counted nowhere.
+
+Guyana's own way (Book 2 — Social Studies For Our Children Book 2): Book 2 widens Book 1's world — the same Ron and Sue now meet family types, class rules, neighbourhood shops and, for the first time, the country's leaders (President, Prime Minister, Ministers) and its national days (Republic Day, May Day, Enmore Martyrs' Day, Freedom Day).
+

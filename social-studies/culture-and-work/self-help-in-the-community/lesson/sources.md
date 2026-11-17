@@ -1,6 +1,6 @@
 # Sources — Self Help in the Community
 
-countries: Somalia
+countries: Somalia, Guyana
 
 **Book 1:** *Barbaarinta iyo Cilmiga Beesha, Fasalka Koowaad* (teacher guide, Somali) — Title as printed: BARBAARINTA IYO CILMIGA BEESHA — FASALKA KOOWAAD (Upbringing and Social Studies — First Grade); Jamhuuriyadda Dimoqraadiga Soomaaliya, Wasaaradda Waxbarashada iyo Barbaarinta, Xafiiska Manaahiijta (Somali Democratic Republic, Ministry of Education, Curriculum Office). Grade: Grade 1 (student/teacher: TEACHER — the book states it is a Tusmo-Bare, a guide for the teacher only; every lesson is written as teacher steps, materials and questions). Publisher: Ministry of Education, Curriculum Office; printed by Madbacadda Qaranka (National Press), 1975 (imprint on verso); authors Maxamed Cali Warsame, Ibraahim Maxamuud Abyan, with Xaliima Cusmaan Axmed; no ISBN printed. PDF pages: 56 (cover and title page verified against the record title; 1,188,918 bytes exact match to the link record). Earlier waves: not read before (no Somalia filings in the Geography, History or Economics waves). Verdict: COMPLETE. Contents map: Integrated SS / Civics / Morals throughout — introduction and the making of the child's personality (qofnimo) printed pp. 1–6; the flag p. 7; the city p. 10; the motherland p. 14; work and socialism p. 17; the Revolution p. 22; Religion p. 28 (named, not placed); work and the workers p. 33; self-help p. 38; discipline and manners pp. 41–47; the society the pupil lives in p. 48. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/somalia-placements.md. Teacher guide — evidence only, outside the acceptance count. External-link book NOT in GitHub, staged under the 2026-11-13 rule, as filed.
 
@@ -37,3 +37,17 @@ Registry note: the original coined string `culture-and-work/iskaa-wax-u-qabso-se
 Registry note: the original coined string `culture-and-work/iskaa-wax-u-qabso-self-help` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/self-help-in-the-community`.
 
 Searchable tags: self help in the community, Somalia, social studies, culture-and-work
+
+Guyana placements — Social Studies remaining strands (2026-11-17):
+
+**Book 3:** *Social Studies For Our Children Book 3* (student book, English) — Title as printed: Social Studies For Our Children — Book 3 (Easy Path Series; back cover: Book 3 focuses on "The Community"). Grade: Grade 3 (student/teacher: STUDENT). Publisher: Ministry of Education, Government of Guyana ("NOT FOR SALE — PRINTED FOR THE MINISTRY OF EDUCATION"); ISBN 976-8198-09-5 (printed on the back cover). PDF pages: 67 (cover and back cover verified; image-only book — read in full from 100-DPI 4-up contact sheets; downloaded from smartminds.school; also recorded on the ministry site and a Google Drive lead). Earlier waves: not read before (reached through the links file). Verdict: COMPLETE. Contents map: Integrated SS pp. 1–38 (communities, families, services, community growth); Civics/Citizenship pp. 11–12 (community leaders), 25–26 (councils care for the community), 54–58 (responsibilities to our community); Morals/Values pp. 12 (qualities of a good leader), 54–55 (courtesy rules, kindness); Geography pp. 14–22 (landmarks and boundaries, regions, plants and animals of the community — named, not placed); Economics pp. 35–38 (co-operative societies and the School Co-operative Thrift Society — named, not placed); Health pp. 44–53 (choosing, preserving and storing foods — Health course, named except the clean-surroundings page placed below as a shared-places duty). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/guyana-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Guyana part — culture-and-work/self-help-in-the-community — Self-help in the community — teaches: a Parent-Teachers' Association self-help group repairs the school road/bridge; parents and community members do the work together — Guyana Grade 3 Social Studies For Our Children Book 3, printed p. 31 | Guyana, *Social Studies For Our Children Book 3* (student book), Self-help in the community — printed p. 31 |
+| Guyana part — culture-and-work/self-help-in-the-community — Self-help in the community (continued) — teaches: villagers put up poles to bring light to their village under their group leader; through self-help we can develop our community — Guyana Grade 3 Social Studies For Our Children Book 3, printed p. 34 (NEW slug first proposed in the line above) | Guyana, *Social Studies For Our Children Book 3* (student book), Self-help in the community (continued) — printed p. 34 (NEW slug first proposed in the line above) |
+
+**Acceptance count: taught in 2 countries (Somalia, Guyana).**
+
+Guyana's own way (Book 3 — Social Studies For Our Children Book 3): the whole book is one widening idea — a community is people living and working together who share services; three invented communities (Riverview, Mountain Gap, Runsvale) carry every lesson, and the book ends not on facts but on duties: courtesy, respect for national symbols, and protecting the community.
+

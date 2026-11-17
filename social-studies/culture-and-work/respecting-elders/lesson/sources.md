@@ -1,6 +1,6 @@
 # Sources — Respecting Elders
 
-countries: Algeria, Laos, Pakistan
+countries: Algeria, Laos, Pakistan, Guyana
 
 **Book 1:** *Kitabi: Arabic Language, Islamic Education and Civic Education, Grade 1 unified volume* (student book, Arabic) — Title as printed: كتابي في اللغة العربية، التربية الإسلامية، التربية المدنية (My Book in Arabic Language, Islamic Education, Civic Education) — السنة الأولى من التعليم الابتدائي. Grade: Grade 1 (student/teacher: STUDENT). Publisher: Ministry of National Education, People's Democratic Republic of Algeria; 2016 curriculum (second generation); no ISBN printed on the held cover pages. PDF pages: 144 (cover verified against the record title; the book is an image scan with no text layer). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Arabic language (letters, reading texts) throughout; Islamic Education (one lesson per unit, named, not placed) printed pp. 12–136; Civic Education (one lesson per unit) printed pp. 25, 41, 57, 73, 89, 105, 121, 137; the unit themes themselves are family (Unit 1), school (Unit 2), neighbourhood and village (Unit 3), sport and leisure (Unit 4), environment and nature (Unit 5), cleanliness and health (Unit 6), communication (Unit 7), national occasions (Unit 8). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/algeria-placements-b.md. Staged under the new rule: grade-01/gov/algeria/arabic-language/student/kitabi-arabic-islamic-civic-grade-1.pdf (26,780,780 B) + books.json record.
 
@@ -55,3 +55,18 @@ Pakistan placements — Social Studies remaining strands (2026-11-17):
 Pakistan's own way: Ethics is the subject Punjab gives children who do not take Islamiat — the world's religions are taught respectfully first, and the shared moral core (respect, helping, cleanliness, punctuality) is then taught as every faith's common teaching.
 
 Searchable tags: respecting elders, Pakistan, social studies, culture-and-work
+
+Guyana placements — Social Studies remaining strands (2026-11-17):
+
+**Book 4:** *Social Studies For Our Children Book 4* (student book, English) — Title as printed: Social Studies For Our Children — Book 4 (Easy Path Series; back-cover series note: Book 4 — Guyana our Homeland). Grade: Grade 4 (student/teacher: STUDENT). Publisher: Ministry of Education, Georgetown, Guyana; no ISBN printed on the pages read. PDF pages: 94 (cover verified; downloaded from smartminds.school — the GEI bitstream copy recorded in the links file failed twice with zero bytes, the smartminds copy of the same book opened and verified). Earlier waves: not read before (reached through the links file). Verdict: COMPLETE. Contents map: Integrated SS pp. 1–31 (the peoples of Guyana, different communities); Civics/Citizenship pp. 32–37 (leaders), 46–59 (nationhood: awards and celebrated weeks), 72–84 (responsibilities); Morals/Values pp. 72–84 (respect and care, rules for better living, care for property, plants and animals); History pp. 2–23 in part (how each people came to Guyana — named, not placed; their ways of life are placed below as culture) and pp. 38–45 (keeping in touch long ago — named, not placed); Health pp. 60–71 (medicines, leisure, safety — Health course, named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/guyana-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Guyana part — culture-and-work/respect-and-care-for-the-elderly — Demonstrating respect and care — teaches: Randy and Sam politely help their limping neighbour Mrs Smith with her bag and basket; always show respect and care for the elderly and help the blind on the street — Guyana Grade 4 Social Studies For Our Children Book 4, printed p. 72 | Guyana, *Social Studies For Our Children Book 4* (student book), Demonstrating respect and care — printed p. 72 |
+
+**Acceptance count: taught in 3 countries (Algeria, Pakistan, Guyana).** Laos is named here as teacher-guide evidence only, counted nowhere.
+
+Guyana's own way (Book 4 — Social Studies For Our Children Book 4): Book 4 turns from "my community" to "our homeland" — Guyana is taught as six peoples who each brought a way of life, and citizenship is taught through honour (National Awards) and shared observance (Road Safety, Fire Prevention and Youth Weeks) before it is taught through rules.
+
+Registry note: the original coined string `culture-and-work/respect-and-care-for-the-elderly` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/respecting-elders`.
+

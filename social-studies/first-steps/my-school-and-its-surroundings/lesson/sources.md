@@ -1,6 +1,6 @@
 # Sources — My School And Its Surroundings
 
-countries: Nicaragua, Angola, Myanmar, Greece
+countries: Nicaragua, Angola, Myanmar, Greece, Guyana
 
 **Book 1:** *Conociendo mi Mundo, 2do Grado* (student book, Spanish) — Ministerio de Educación (MINED), Nicaragua; year 2015 (Primera Edición); ISBN no ISBN printed. Title as printed: Conociendo mi Mundo, 2do Grado. Grade: Grade 2 (student/teacher: STUDENT). PDF pages: 180 (cover/title page verified against the record title). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/nicaragua-placements.md.
 
@@ -54,3 +54,16 @@ Greece placements — Social Studies remaining strands (2026-11-17):
 Greece's own way (Book 4): Grade 2 widens Grade 1's circles — the neighbourhood is now studied service by service (its church named as a landmark, its green discovered, its past compared with today), and the child's first rights appear as their own unit: the right to life and the right to peace.
 
 Searchable tags: my school and its surroundings, Greece, social studies, first-steps
+
+Guyana placements — Social Studies remaining strands (2026-11-17):
+
+**Book 2:** *Social Studies For Our Children Book 2* (student book, English) — Title as printed: Social Studies For Our Children — Book 2 (Easy Path Series; a GOG/EFA-FTI Project). Grade: Grade 2 (student/teacher: STUDENT). Publisher: Ministry of Education, Georgetown, Guyana; no ISBN printed on the pages read. PDF pages: 53 (cover verified — title/grade match the record; downloaded from smartminds.school, the recorded source family of the held Book 1; 8,997,384 bytes — staged copy in phase3-staging, see group log). Earlier waves: not read before (not in the targets file; reached through the links file ministry/download-list leads). Verdict: COMPLETE. Contents map: Integrated SS pp. 1–18 (family, school, neighbourhood); Civics/Citizenship pp. 14–16 (class rules, keeping school clean), 29–34 (leaders of Guyana, national symbols, special days); Morals/Values pp. 8–9 (manners), 39 (Fathers' Day); Geography p. 19 (Guyana's ten Administrative Regions — named, not placed); Economics p. 13 (School Co-operative Thrift Society saving — named, not placed); Health pp. 20–28 (food groups, hygiene, safety rules — Health course, named except the travel-safety and stranger pages placed below as community life). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/guyana-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Guyana part — first-steps/my-school-and-its-surroundings — Chapter 2 The School — teaches: Ron's school painted red and cream near a big tree; naming your school and what is near it — Guyana Grade 2 Social Studies For Our Children Book 2, printed p. 10 | Guyana, *Social Studies For Our Children Book 2* (student book), Chapter 2 The School — printed p. 10 |
+
+**Acceptance count: taught in 5 countries (Nicaragua, Angola, Myanmar, Greece, Guyana).**
+
+Guyana's own way (Book 2 — Social Studies For Our Children Book 2): Book 2 widens Book 1's world — the same Ron and Sue now meet family types, class rules, neighbourhood shops and, for the first time, the country's leaders (President, Prime Minister, Ministers) and its national days (Republic Day, May Day, Enmore Martyrs' Day, Freedom Day).
+
