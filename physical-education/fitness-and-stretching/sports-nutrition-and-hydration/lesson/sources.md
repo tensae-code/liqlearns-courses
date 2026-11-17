@@ -1,8 +1,8 @@
 # Sources — Sports Nutrition and Hydration
 
-countries: United Kingdom, Fiji, Iran, Papua New Guinea, Turkey, Oman, Honduras, Myanmar, Azerbaijan, Estonia
+countries: United Kingdom, Fiji, Iran, Papua New Guinea, Turkey, Oman, Honduras, Myanmar, Azerbaijan, Estonia, Vietnam
 
-**Acceptance count: taught in 7 countries (United Kingdom, Fiji, Iran, Turkey, Honduras, Myanmar, Azerbaijan).** United Kingdom is student-book stock (see its rows below), inside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; the Fiji teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Turkey was added as teacher-guide evidence only (see its Turkey section below), named in the countries line but outside the acceptance count; Turkey is now added as student-book stock by fix-up (see its Turkey — Health-file fix-up section below), inside the acceptance count — the acceptance count rises from 6 to 7 countries; the Turkey teacher guides stocked in this lesson remain teacher-guide evidence only, outside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count — the acceptance count rises from 3 to 4 countries. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count — the acceptance count rises from 4 to 5 countries; the Myanmar teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count — the acceptance count rises from 5 to 6 countries. Estonia is added as teacher-guide evidence only (see its Estonia section below), named in the countries line but outside the acceptance count; the acceptance count is unchanged.
+**Acceptance count: taught in 8 countries (United Kingdom, Fiji, Iran, Turkey, Honduras, Myanmar, Azerbaijan, Vietnam).** United Kingdom is student-book stock (see its rows below), inside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; the Fiji teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Turkey was added as teacher-guide evidence only (see its Turkey section below), named in the countries line but outside the acceptance count; Turkey is now added as student-book stock by fix-up (see its Turkey — Health-file fix-up section below), inside the acceptance count — the acceptance count rises from 6 to 7 countries; the Turkey teacher guides stocked in this lesson remain teacher-guide evidence only, outside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count — the acceptance count rises from 3 to 4 countries. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count — the acceptance count rises from 4 to 5 countries; the Myanmar teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count — the acceptance count rises from 5 to 6 countries. Estonia is added as teacher-guide evidence only (see its Estonia section below), named in the countries line but outside the acceptance count; the acceptance count is unchanged. Vietnam is added as student-book stock (see its Vietnam section below), inside the acceptance count — the acceptance count rises from 7 to 8 countries.
 
 **Book — United Kingdom GCSE Edexcel PE student book (student book):** *Edexcel GCSE (9-1) Physical Education Student Book, 2nd edition* (student book, English) — Title as printed: Edexcel GCSE (9-1) Physical Education — Tony Scott (cover: "2nd edition") — Grade: GCSE, Years 10–11 (student/teacher: STUDENT) — Publisher: Pearson Education; year first published 2016 (2nd edition; imprint number line 19 18 17 16); ISBN 978 1 29212 988 4 — PDF pages: 228 (cover verified against the record title; file size 20,156,655 B and MD5 match the archive.org item metadata exactly). Verdict: COMPLETE — read in full via the extracted text layer. The book's own "Preparing for your exam" sections (printed pp. 118, 176) are assessment preparation — named here, excluded from placements per the standing exclusions; the glossary (p. 205) and index (p. 210) are inventory-only, named, not placed. Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/united-kingdom-pe-placements.md. United Kingdom's own way: PE at GCSE is an examined academic subject — anatomy, physiology, movement analysis and training theory, plus health, psychology and the sociology of sport, with practical performance in three chosen activities and a written Personal Exercise Programme. The second United Kingdom record, *Edexcel GCSE Physical Education Student Book* (2009 edition, Pearson (Edexcel), archive.org item `edexcelgcsephysi0000scot`), is UNREAD — lending-restricted on archive.org, direct GET returned 401/403, no login routes permitted — with 0 placements; nothing is stocked from it.
 
@@ -390,3 +390,169 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/estonia-heal
 | Estonia — §1.12 Athletes' nutrition — how athletes eat, and sports foods and supplements (teacher guide — evidence) (filed in estonia-health-placements.md as NEW LESSON NEEDED — `staying-safe/HELD-title-decision`; resolved through the health slug registry Part 2B to PE canonical `fitness-and-stretching/sports-nutrition-and-hydration`; stocked here by fix-up) | Estonia, *Toitumine ja liikumine — I–III kooliaste. Õpetajaraamat* (Estonia Stages I–III Toitumine ja liikumine TG), §1.12, printed p. 45 (teacher guide — evidence) |
 
 Estonia's placement in this lesson was filed in estonia-health-placements.md as NEW LESSON NEEDED — `staying-safe/HELD-title-decision`, resolved through the health slug registry (Part 2B) to PE canonical `fitness-and-stretching/sports-nutrition-and-hydration` (pe-slug-registry.md), this lesson, and stocked here by fix-up, as recorded in the provenance row. Estonia enters this lesson as teacher-guide evidence only, outside the acceptance count. Estonia's own way is content, as the book line above records it: one cross-subject teacher book that treats nutrition and movement together, built as evidence-based theory chapters plus piloted classroom "active works" (aktiivtööd) coded by school stage (KI/KII/KIII) for use inside human studies, PE, biology and home economics lessons alike. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Vietnam — PE expansion 2026-11-16 (Health-file fix-up)
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-health-placements.md. These 21 placements were filed in vietnam-health-placements.md as NEW LESSON NEEDED — `staying-safe/HELD-title-decision`, and are stocked here by fix-up: the health slug registry (Part 2B) resolves each of the 21 descriptions to PE canonical `fitness-and-stretching/sports-nutrition-and-hydration` (pe-slug-registry.md), this lesson. The Vietnam Health merger correctly excluded them from Health and verified they were not yet stocked anywhere in this lesson (Vietnam had 0 rows in this lesson). Vietnam is student-book stock in this lesson — named in the countries line and in the provenance rows below, and inside the acceptance count; the acceptance count rises from 7 to 8 countries. Only the sports-nutrition placements of these books are stocked in this lesson; the books' other Health-file placements are placed in the Health course, not here. Each book's header below is copied exactly as filed in vietnam-health-placements.md, including its Tally line for the whole Health file.
+
+**Book — Vietnam Book 5 — GDTC 5 / PE Grade 5 (student book, Vietnamese):**
+## Book 5 — GDTC 5 / PE Grade 5 (student book, Vietnamese)
+- Title as printed: Giáo dục thể chất 5 (Kết nối tri thức với cuộc sống)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2024 (2nd reprint); ISBN 978-604-0-39219-0
+- PDF pages: 91 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 2 placements — 0 to existing lessons, 2 NEW LESSON NEEDED (both HELD-title-decision)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Phần 1 §I, Chế độ ăn uống đảm bảo dinh dưỡng trong tập luyện: các nhóm chất — the food groups a young athlete needs at every meal: carbohydrate for energy, protein for growing muscles, fat in balance, vitamins and minerals, water, and eating regularly and on time (filed in vietnam-health-placements.md as NEW LESSON NEEDED — `staying-safe/HELD-title-decision`; resolved through the health slug registry Part 2B to PE canonical `fitness-and-stretching/sports-nutrition-and-hydration`; stocked here by fix-up) | Vietnam, *Giáo dục thể chất 5 (Kết nối tri thức với cuộc sống)* (Vietnam Grade 5 GDTC 5), Phần 1 §I, Chế độ ăn uống đảm bảo dinh dưỡng trong tập luyện: các nhóm chất, printed pp. 4–6 |
+| Vietnam — Phần 1 §II, Những lưu ý về chế độ ăn uống trong tập luyện — eating notes for training days: never skip breakfast, top up energy before and after exercise, and drink little and often rather than a lot at once (filed in vietnam-health-placements.md as NEW LESSON NEEDED — `staying-safe/HELD-title-decision`; resolved through the health slug registry Part 2B to PE canonical `fitness-and-stretching/sports-nutrition-and-hydration`; stocked here by fix-up) | Vietnam, *Giáo dục thể chất 5 (Kết nối tri thức với cuộc sống)* (Vietnam Grade 5 GDTC 5), Phần 1 §II, Những lưu ý về chế độ ăn uống trong tập luyện, printed pp. 6–7 |
+
+**Book — Vietnam Book 6 — GDTC 6 / PE Grade 6 (student book, Vietnamese):**
+## Book 6 — GDTC 6 / PE Grade 6 (student book, Vietnamese)
+- Title as printed: Giáo dục thể chất 6 (Kết nối tri thức với cuộc sống)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2021 (5th reprint); ISBN 978-604-0-25647-8
+- PDF pages: 114 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 2 placements — 0 to existing lessons, 2 NEW LESSON NEEDED (both HELD-title-decision)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Phần Một §1–2, Các yếu tố ảnh hưởng đến sức khoẻ; Dinh dưỡng đối với sức khoẻ và phát triển thể chất — health and growth rest on three things — food, movement and rest — and the nutrients that matter: carbohydrate, protein, fat, and the vitamins and minerals with the foods that carry them (filed in vietnam-health-placements.md as NEW LESSON NEEDED — `staying-safe/HELD-title-decision`; resolved through the health slug registry Part 2B to PE canonical `fitness-and-stretching/sports-nutrition-and-hydration`; stocked here by fix-up) | Vietnam, *Giáo dục thể chất 6 (Kết nối tri thức với cuộc sống)* (Vietnam Grade 6 GDTC 6), Phần Một §1–2, Các yếu tố ảnh hưởng đến sức khoẻ; Dinh dưỡng đối với sức khoẻ và phát triển thể chất, printed pp. 4–6 |
+| Vietnam — Phần Một §3, Chế độ dinh dưỡng hợp lí trong quá trình luyện tập TDTT — the sensible training diet: eat on time and in full meals, eat enough of every nutrient, and drink enough water — training sweats out water and salts, and cramp and exhaustion follow if they are not replaced (filed in vietnam-health-placements.md as NEW LESSON NEEDED — `staying-safe/HELD-title-decision`; resolved through the health slug registry Part 2B to PE canonical `fitness-and-stretching/sports-nutrition-and-hydration`; stocked here by fix-up) | Vietnam, *Giáo dục thể chất 6 (Kết nối tri thức với cuộc sống)* (Vietnam Grade 6 GDTC 6), Phần Một §3, Chế độ dinh dưỡng hợp lí trong quá trình luyện tập TDTT, printed p. 6 |
+
+**Book — Vietnam Book 8 — GDTC 8 / PE Grade 8 (student book, Vietnamese):**
+## Book 8 — GDTC 8 / PE Grade 8 (student book, Vietnamese)
+- Title as printed: Giáo dục thể chất 8 (Kết nối tri thức với cuộc sống)
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2023 (3rd reprint); ISBN 978-604-0-35128-9
+- PDF pages: 96 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 3 placements — 0 to existing lessons, 3 NEW LESSON NEEDED (all HELD-title-decision)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Phần Một §1–2, Tầm quan trọng của dinh dưỡng; Nhu cầu dinh dưỡng thích hợp — why food decides sporting performance, and what the body needs: energy for basal metabolism and for activity, the energy nutrients, minerals, vitamins and water (filed in vietnam-health-placements.md as NEW LESSON NEEDED — `staying-safe/HELD-title-decision`; resolved through the health slug registry Part 2B to PE canonical `fitness-and-stretching/sports-nutrition-and-hydration`; stocked here by fix-up) | Vietnam, *Giáo dục thể chất 8 (Kết nối tri thức với cuộc sống)* (Vietnam Grade 8 GDTC 8), Phần Một §1–2, Tầm quan trọng của dinh dưỡng; Nhu cầu dinh dưỡng thích hợp, printed pp. 4–5 |
+| Vietnam — Phần Một §3, Chế độ dinh dưỡng thích hợp trong luyện tập TDTT — the fitting training diet: three meals a day (about 30% breakfast, 45% lunch, 25% dinner), training 1.5–2.5 hours after eating, the energy ratio (carbohydrate 56–68%, protein 12–14%, fat 20–30%), fresh safe food, and replacing the ~1.5 litres of water lost each day (filed in vietnam-health-placements.md as NEW LESSON NEEDED — `staying-safe/HELD-title-decision`; resolved through the health slug registry Part 2B to PE canonical `fitness-and-stretching/sports-nutrition-and-hydration`; stocked here by fix-up) | Vietnam, *Giáo dục thể chất 8 (Kết nối tri thức với cuộc sống)* (Vietnam Grade 8 GDTC 8), Phần Một §3, Chế độ dinh dưỡng thích hợp trong luyện tập TDTT, printed pp. 6–7 |
+| Vietnam — Phần Một §4, Đặc điểm dinh dưỡng của các hình thức vận động — eating for your kind of training: speed sports burn glucose and need easy-to-digest food rich in protein and vitamin C; endurance runs on fat (30–35% of energy); strength sports need much more carbohydrate and protein; ball games need a full, varied diet (filed in vietnam-health-placements.md as NEW LESSON NEEDED — `staying-safe/HELD-title-decision`; resolved through the health slug registry Part 2B to PE canonical `fitness-and-stretching/sports-nutrition-and-hydration`; stocked here by fix-up) | Vietnam, *Giáo dục thể chất 8 (Kết nối tri thức với cuộc sống)* (Vietnam Grade 8 GDTC 8), Phần Một §4, Đặc điểm dinh dưỡng của các hình thức vận động, printed pp. 7–8 |
+
+**Book — Vietnam Book 9 — GDTC 9 / PE Grade 9 (student book, Vietnamese):**
+## Book 9 — GDTC 9 / PE Grade 9 (student book, Vietnamese)
+- Title as printed: Giáo dục thể chất 9 (Kết nối tri thức với cuộc sống)
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2024 (2nd reprint); ISBN 978-604-0-39367-8
+- PDF pages: 99 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 5 placements — 0 to existing lessons, 5 NEW LESSON NEEDED (all HELD-title-decision)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Phần Một §2, Sử dụng dinh dưỡng để rèn luyện sức khoẻ và phát triển thể chất — eating for your training aim: speed work needs about 58% carbohydrate and 2 g of protein per kilo; endurance draws on stored fat, so a very fatty diet is wrong; strength needs protein above 2 g per kilo (over 18% of energy) plus potassium, sodium, magnesium and iron; ball games need plenty of everything and the water replaced (filed in vietnam-health-placements.md as NEW LESSON NEEDED — `staying-safe/HELD-title-decision`; resolved through the health slug registry Part 2B to PE canonical `fitness-and-stretching/sports-nutrition-and-hydration`; stocked here by fix-up) | Vietnam, *Giáo dục thể chất 9 (Kết nối tri thức với cuộc sống)* (Vietnam Grade 9 GDTC 9), Phần Một §2, Sử dụng dinh dưỡng để rèn luyện sức khoẻ và phát triển thể chất, printed pp. 8–10 |
+
+**Book — Vietnam Book 10 — GDTC 10 Bóng chuyền / PE Grade 10 Volleyball (student book, Vietnamese):**
+## Book 10 — GDTC 10 Bóng chuyền / PE Grade 10 Volleyball (student book, Vietnamese)
+- Title as printed: Giáo dục thể chất 10 — Bóng chuyền (Kết nối tri thức với cuộc sống)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31176-4
+- PDF pages: 70 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 4 placements — 0 to existing lessons, 4 NEW LESSON NEEDED (all HELD-title-decision)
+- Note: Phần Một is the Grade 10 general-knowledge text shared by this team's four Grade 10 sport books: what health is, using sun, air and water, and nutrition for training.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Phần Một §III.1, Dinh dưỡng trong rèn luyện sức khoẻ và phát triển thể chất — the nutrients and what each does in training: carbohydrate the main fuel, fat the concentrated store, protein for building the body, vitamins and minerals in small but vital amounts, and fibre for digestion (filed in vietnam-health-placements.md as NEW LESSON NEEDED — `staying-safe/HELD-title-decision`; resolved through the health slug registry Part 2B to PE canonical `fitness-and-stretching/sports-nutrition-and-hydration`; stocked here by fix-up) | Vietnam, *Giáo dục thể chất 10 — Bóng chuyền (Kết nối tri thức với cuộc sống)* (Vietnam Grade 10 GDTC 10 Volleyball), Phần Một §III.1, Dinh dưỡng trong rèn luyện sức khoẻ và phát triển thể chất, printed pp. 6–8 |
+| Vietnam — Phần Một §III.2, Chế độ dinh dưỡng hợp lí — the sensible diet and the food pyramid: enough of every nutrient group, balanced together, and the harm done by too much or too little of any one group (filed in vietnam-health-placements.md as NEW LESSON NEEDED — `staying-safe/HELD-title-decision`; resolved through the health slug registry Part 2B to PE canonical `fitness-and-stretching/sports-nutrition-and-hydration`; stocked here by fix-up) | Vietnam, *Giáo dục thể chất 10 — Bóng chuyền (Kết nối tri thức với cuộc sống)* (Vietnam Grade 10 GDTC 10 Volleyball), Phần Một §III.2, Chế độ dinh dưỡng hợp lí, printed p. 9 |
+
+**Book — Vietnam Book 12 — GDTC 10 Bóng đá / PE Grade 10 Football (student book, Vietnamese):**
+## Book 12 — GDTC 10 Bóng đá / PE Grade 10 Football (student book, Vietnamese)
+- Title as printed: Giáo dục thể chất 10 — Bóng đá (Kết nối tri thức với cuộc sống)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31086-6
+- PDF pages: 74 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 4 placements — 0 to existing lessons, 4 NEW LESSON NEEDED (all HELD-title-decision)
+- Note: Phần I is this author team's own general-knowledge text (natural factors and nutrition), filed in its own right.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Phần I §II.1, Các chất dinh dưỡng và nước — the nutrients one by one: protein, carbohydrate, fibre, fat, vitamins and minerals, and drinking water as the body's main substance (filed in vietnam-health-placements.md as NEW LESSON NEEDED — `staying-safe/HELD-title-decision`; resolved through the health slug registry Part 2B to PE canonical `fitness-and-stretching/sports-nutrition-and-hydration`; stocked here by fix-up) | Vietnam, *Giáo dục thể chất 10 — Bóng đá (Kết nối tri thức với cuộc sống)* (Vietnam Grade 10 GDTC 10 Football), Phần I §II.1, Các chất dinh dưỡng và nước, printed pp. 7–8 |
+| Vietnam — Phần I §II.2–4, Thừa, thiếu chất dinh dưỡng; sử dụng dinh dưỡng cho luyện tập; chế độ hợp lí — what too much or too little of each nutrient does, eating and drinking around training (never train straight after a meal), and the sensible diet: right amount, right quality, right timing (filed in vietnam-health-placements.md as NEW LESSON NEEDED — `staying-safe/HELD-title-decision`; resolved through the health slug registry Part 2B to PE canonical `fitness-and-stretching/sports-nutrition-and-hydration`; stocked here by fix-up) | Vietnam, *Giáo dục thể chất 10 — Bóng đá (Kết nối tri thức với cuộc sống)* (Vietnam Grade 10 GDTC 10 Football), Phần I §II.2–4, Thừa, thiếu chất dinh dưỡng; sử dụng dinh dưỡng cho luyện tập; chế độ hợp lí, printed pp. 8–10 |
+
+**Book — Vietnam Book 14 — GDTC 11 Bóng chuyền / PE Grade 11 Volleyball (student book, Vietnamese):**
+## Book 14 — GDTC 11 Bóng chuyền / PE Grade 11 Volleyball (student book, Vietnamese)
+- Title as printed: Giáo dục thể chất 11 — Bóng chuyền (Kết nối tri thức với cuộc sống)
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35179-1
+- PDF pages: 58 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 3 placements — 0 to existing lessons, 3 NEW LESSON NEEDED (all HELD-title-decision)
+- Note: Phần Một is the Grade 11 version of the shared general-knowledge topic (natural factors and nutrition); the Grade 11 sport books share this same text.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Phần Một §2.1–2.3, Tác dụng của dinh dưỡng: chất đường (glucide), chất đạm, chất béo — the energy nutrients in training: carbohydrate and glycogen stores, protein for muscle and recovery, fat as the long-duration fuel and the healthy-fat limits (filed in vietnam-health-placements.md as NEW LESSON NEEDED — `staying-safe/HELD-title-decision`; resolved through the health slug registry Part 2B to PE canonical `fitness-and-stretching/sports-nutrition-and-hydration`; stocked here by fix-up) | Vietnam, *Giáo dục thể chất 11 — Bóng chuyền (Kết nối tri thức với cuộc sống)* (Vietnam Grade 11 GDTC 11 Volleyball), Phần Một §2.1–2.3, Tác dụng của dinh dưỡng: chất đường (glucide), chất đạm, chất béo, printed pp. 6–7 |
+| Vietnam — Phần Một §2.4–2.5, Vitamin, khoáng chất và nước — vitamins and minerals the body cannot make for itself, and water: the two rules of sports nutrition — keep glycogen topped up, and drink enough to replace what is lost (filed in vietnam-health-placements.md as NEW LESSON NEEDED — `staying-safe/HELD-title-decision`; resolved through the health slug registry Part 2B to PE canonical `fitness-and-stretching/sports-nutrition-and-hydration`; stocked here by fix-up) | Vietnam, *Giáo dục thể chất 11 — Bóng chuyền (Kết nối tri thức với cuộc sống)* (Vietnam Grade 11 GDTC 11 Volleyball), Phần Một §2.4–2.5, Vitamin, khoáng chất và nước, printed pp. 7–8 |
+
+**Book — Vietnam Book 16 — GDTC 11 Bóng đá / PE Grade 11 Football (student book, Vietnamese):**
+## Book 16 — GDTC 11 Bóng đá / PE Grade 11 Football (student book, Vietnamese)
+- Title as printed: Giáo dục thể chất 11 — Bóng đá (Kết nối tri thức với cuộc sống)
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35054-1
+- PDF pages: 78 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 4 placements — 0 to existing lessons, 4 NEW LESSON NEEDED (all HELD-title-decision)
+- Note: Phần I is this author team's own general-knowledge text (the same topic as the other secondary books: natural factors and nutrition), so it is filed in its own right.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Phần I §2a, Vai trò của dinh dưỡng đối với cơ thể — what each nutrient does: protein builds and repairs, fat stores energy and carries vitamins, carbohydrate is the quick fuel, vitamins, minerals and water keep the body working (filed in vietnam-health-placements.md as NEW LESSON NEEDED — `staying-safe/HELD-title-decision`; resolved through the health slug registry Part 2B to PE canonical `fitness-and-stretching/sports-nutrition-and-hydration`; stocked here by fix-up) | Vietnam, *Giáo dục thể chất 11 — Bóng đá (Kết nối tri thức với cuộc sống)* (Vietnam Grade 11 GDTC 11 Football), Phần I §2a, Vai trò của dinh dưỡng đối với cơ thể, printed pp. 6–8 |
+| Vietnam — Phần I §2b–c, Nhu cầu dinh dưỡng của cơ thể; Sử dụng dinh dưỡng trong luyện tập TDTT — the body's daily energy need (basal plus activity), and eating for training: enough total energy, three meals a day, balanced nutrients, and enough water (filed in vietnam-health-placements.md as NEW LESSON NEEDED — `staying-safe/HELD-title-decision`; resolved through the health slug registry Part 2B to PE canonical `fitness-and-stretching/sports-nutrition-and-hydration`; stocked here by fix-up) | Vietnam, *Giáo dục thể chất 11 — Bóng đá (Kết nối tri thức với cuộc sống)* (Vietnam Grade 11 GDTC 11 Football), Phần I §2b–c, Nhu cầu dinh dưỡng của cơ thể; Sử dụng dinh dưỡng trong luyện tập TDTT, printed pp. 8–9 |
+
+**Book — Vietnam Book 17 — GDTC 11 Cầu lông / PE Grade 11 Badminton (student book, Vietnamese):**
+## Book 17 — GDTC 11 Cầu lông / PE Grade 11 Badminton (student book, Vietnamese)
+- Title as printed: Giáo dục thể chất 11 — Cầu lông (Kết nối tri thức với cuộc sống)
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35055-8
+- PDF pages: 82 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 4 placements — 0 to existing lessons, 4 NEW LESSON NEEDED (all HELD-title-decision)
+- Note: Phần I is this author team's own general-knowledge text (same topic and structure as Book 16's), filed in its own right.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Phần I §2a, Vai trò của dinh dưỡng đối với cơ thể — the roles of protein, fat, carbohydrate, vitamins, minerals and water in the body (filed in vietnam-health-placements.md as NEW LESSON NEEDED — `staying-safe/HELD-title-decision`; resolved through the health slug registry Part 2B to PE canonical `fitness-and-stretching/sports-nutrition-and-hydration`; stocked here by fix-up) | Vietnam, *Giáo dục thể chất 11 — Cầu lông (Kết nối tri thức với cuộc sống)* (Vietnam Grade 11 GDTC 11 Badminton), Phần I §2a, Vai trò của dinh dưỡng đối với cơ thể, printed pp. 6–7 |
+| Vietnam — Phần I §2b–c, Nhu cầu dinh dưỡng của cơ thể; Sử dụng dinh dưỡng trong luyện tập TDTT — daily energy need (basal metabolism plus activity), and eating for training: three meals a day, a varied balanced diet, and enough water for the weather and the session (filed in vietnam-health-placements.md as NEW LESSON NEEDED — `staying-safe/HELD-title-decision`; resolved through the health slug registry Part 2B to PE canonical `fitness-and-stretching/sports-nutrition-and-hydration`; stocked here by fix-up) | Vietnam, *Giáo dục thể chất 11 — Cầu lông (Kết nối tri thức với cuộc sống)* (Vietnam Grade 11 GDTC 11 Badminton), Phần I §2b–c, Nhu cầu dinh dưỡng của cơ thể; Sử dụng dinh dưỡng trong luyện tập TDTT, printed pp. 7–8 |
+
+**Book — Vietnam Book 18 — GDTC 12 Bóng chuyền / PE Grade 12 Volleyball (student book, Vietnamese):**
+## Book 18 — GDTC 12 Bóng chuyền / PE Grade 12 Volleyball (student book, Vietnamese)
+- Title as printed: Giáo dục thể chất 12 — Bóng chuyền (Kết nối tri thức với cuộc sống)
+- Grade: 12 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2023; no ISBN printed
+- PDF pages: 64 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 4 placements — 0 to existing lessons, 4 NEW LESSON NEEDED (all HELD-title-decision: nutrition and natural-factor training knowledge fits neither existing Health title)
+- Note: Phần Một (Kiến thức chung) is the general-knowledge part shared by all four Grade 12 elective-sport books; it is filed once here and cross-named in the other Grade 12 book headers.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Phần Một §2.1, Sử dụng dinh dưỡng để rèn luyện sức khoẻ — the nutrients and their jobs: carbohydrate as the main fuel, fibre, fat, protein for growth and repair, vitamins and minerals; working out daily energy needs (TEE = BMR × activity factor) and splitting them between nutrients (filed in vietnam-health-placements.md as NEW LESSON NEEDED — `staying-safe/HELD-title-decision`; resolved through the health slug registry Part 2B to PE canonical `fitness-and-stretching/sports-nutrition-and-hydration`; stocked here by fix-up) | Vietnam, *Giáo dục thể chất 12 — Bóng chuyền (Kết nối tri thức với cuộc sống)* (Vietnam Grade 12 GDTC 12 Volleyball), Phần Một §2.1, Sử dụng dinh dưỡng để rèn luyện sức khoẻ, printed pp. 7–10 |
+| Vietnam — Phần Một §2.2, Sử dụng dinh dưỡng trong hoạt động thể lực — eating and drinking for sport: carbohydrate for energy, protein after training for muscle repair, fat as stored fuel, vitamins and minerals, and drinking enough water before, during and after exercise (filed in vietnam-health-placements.md as NEW LESSON NEEDED — `staying-safe/HELD-title-decision`; resolved through the health slug registry Part 2B to PE canonical `fitness-and-stretching/sports-nutrition-and-hydration`; stocked here by fix-up) | Vietnam, *Giáo dục thể chất 12 — Bóng chuyền (Kết nối tri thức với cuộc sống)* (Vietnam Grade 12 GDTC 12 Volleyball), Phần Một §2.2, Sử dụng dinh dưỡng trong hoạt động thể lực, printed p. 10 |
+
+**Book — Vietnam Book 20 — GDTC 12 Bóng đá / PE Grade 12 Football (student book, Vietnamese):**
+## Book 20 — GDTC 12 Bóng đá / PE Grade 12 Football (student book, Vietnamese)
+- Title as printed: Giáo dục thể chất 12 — Bóng đá (Kết nối tri thức với cuộc sống)
+- Grade: 12 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year 2024 (2nd reprint); ISBN 978-604-0-39249-7
+- PDF pages: 91 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 4 placements — 0 to existing lessons, 4 NEW LESSON NEEDED (all HELD-title-decision)
+- Note: this book's Phần I covers the same general-knowledge ground as the other Grade 12 sport books but is a different author team's text, so it is filed in its own right here.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Phần I §2b, Sử dụng dinh dưỡng để rèn luyện sức khoẻ và hoạt động thể lực — working out your own daily energy need (BMR × activity factor), then the roles of carbohydrate, protein, lipid, vitamins, minerals and drinking water in training (filed in vietnam-health-placements.md as NEW LESSON NEEDED — `staying-safe/HELD-title-decision`; resolved through the health slug registry Part 2B to PE canonical `fitness-and-stretching/sports-nutrition-and-hydration`; stocked here by fix-up) | Vietnam, *Giáo dục thể chất 12 — Bóng đá (Kết nối tri thức với cuộc sống)* (Vietnam Grade 12 GDTC 12 Football), Phần I §2b, Sử dụng dinh dưỡng để rèn luyện sức khoẻ và hoạt động thể lực, printed pp. 11–14 |
+
+Vietnam's placements in this lesson were filed in vietnam-health-placements.md as NEW LESSON NEEDED — `staying-safe/HELD-title-decision`, resolved through the health slug registry (Part 2B) to PE canonical `fitness-and-stretching/sports-nutrition-and-hydration` (pe-slug-registry.md), this lesson, and stocked here by fix-up, as recorded in the provenance rows. Vietnam enters this lesson as student-book stock, inside the acceptance count. The shared-text notes are carried as filed: Phần Một (Kiến thức chung) of the Grade 12 Volleyball book is the general-knowledge part shared by all four Grade 12 elective-sport books and is filed once in that book; the Grade 12 Football book's Phần I is a different author team's text, filed in its own right; Phần Một of the Grade 11 Volleyball book is the Grade 11 version of the shared general-knowledge topic and the Grade 11 sport books share this same text, while the Grade 11 Football and Badminton books carry their own author teams' general-knowledge texts, filed in their own right; Phần Một of the Grade 10 Volleyball book is the Grade 10 general-knowledge text shared by that team's four Grade 10 sport books, while the Grade 10 Football book carries its own author team's text, filed in its own right. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
