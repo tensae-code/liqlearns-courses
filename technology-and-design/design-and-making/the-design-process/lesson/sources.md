@@ -1,6 +1,6 @@
 # Sources — The design process
 
-countries: Jamaica, Haiti
+countries: Jamaica, Haiti, Samoa
 
 **Book 1:** *National Standards Curriculum Guide — Grades 4–6 — Resource & Technology* (curriculum guide with full unit teaching content) — Jamaica, Ministry of Education, Youth and Information, Kingston, Jamaica; © 2018. Year/edition: 2018 (PDF created in Adobe InDesign CC 13.1, Sep 2018). Grade: Grades 4–6. Language: English. Pages: 188 (PDF); printed pagination runs to p. 167 (printed p. = PDF p. − 20). Source + route: file held on disk in phase3-staging (grade-04/gov/jamaica/curriculum/grades-4-6-resource-technology.pdf), 15,155,269 bytes; copied into scratch and read there — the book is also recorded pushed to GitHub. Kind: curriculum (guide with full unit teaching content). File quirk, verified: the visible cover (rendered and read) is the Resource & Technology Grades 4–6 cover, and the whole body is that guide; the cover page's embedded text layer, however, reads "Grades 7-9 English Language/Literature" — a production artifact in the file's text layer, not a different book. Read: COMPLETE (whole guide checked; Engineering & Mechanisms units and Design Process material read in full). Placements at liqlearns-courses-work/expansion-td-2026-11-17/jamaica-placements.md.
 
@@ -9,6 +9,8 @@ countries: Jamaica, Haiti
 **Book 3:** *Initiation à la technologie et aux activités productives (ITAP) — Construction d'une serre pour faire pousser des concombres (Séquence pédagogique, Projet Nectar, MENFP)* (teacher guide) — Haiti, MENFP / Projet Nectar (Canoprof sequence; integration by Mélanie Albaret and Arnaud Dechelle). Year: not stated on cover (Nectar sequence, CC BY-NC-SA). Grade: 8e AF. Language: French. Pages: 16. Source + route: GitHub tree `grade-08/gov/haiti/itap/teacher/sequence-8e-itap6-construction-d-une-serre.pdf`, 522,204 bytes, cover verified. Kind: EVIDENCE (teacher guide — pedagogical sequence). Read: COMPLETE. Placements at liqlearns-courses-work/expansion-td-2026-11-17/haiti-placements.md.
 
 **Book 4:** *Initiation à la technologie et aux activités productives (ITAP) — Conception, fabrication et diffusion d'une station de traitement de l'eau (Séquence pédagogique, Projet Nectar, MENFP)* (teacher guide) — Haiti, MENFP / Projet Nectar (Canoprof sequence; integration by Mélanie Albaret and Arnaud Dechelle). Year: not stated on cover (Nectar sequence, CC BY-NC-SA). Grade: 9e AF. Language: French. Pages: 18. Source + route: GitHub tree `grade-09/gov/haiti/itap/teacher/sequence-9e-itap1-conception-fabrication-diffusion-station-eau.pdf`, 718,244 bytes, cover verified. Kind: EVIDENCE (teacher guide — pedagogical sequence). Read: COMPLETE. Placements at liqlearns-courses-work/expansion-td-2026-11-17/haiti-placements.md.
+
+**Book 5:** *Design and Technology, Year 11* (student) — Samoa, Government of Samoa, Ministry of Education, Sports and Culture (MESC), with NZAID; drawings by Terry Smith. Year: 2003. Grade: Year 11. Language: English. Pages: 89. Source: GitHub release asset, mid-size-books-7 `grade-11-gov-samoa-design-technology-student-full-year.pdf`, 5,536,932 bytes, cover verified ("Design and Technology, Year 11") — tree route 404'd; the file lives only as a release asset. Kind: student. Read: COMPLETE. Placements at liqlearns-courses-work/expansion-td-2026-11-17/samoa-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -20,7 +22,9 @@ countries: Jamaica, Haiti
 | Specification work — the water station (original string `design process — identifying the need and writing the specification / cahier des charges: main function and constraint functions of a fishing boat`) | Haiti, *Initiation à la technologie et aux activités productives (ITAP) — Conception, fabrication et diffusion d'une station de traitement de l'eau* (teacher guide — evidence), printed p. 2, 5, 7-8 — need identified by a field questionnaire on drinking-water access; specification written from survey results, including materials and their costs. Haiti, 9e AF, Projet Nectar sequence |
 | Researching existing solutions — the water station (original string `design process — researching and comparing existing technical solutions before designing`) | Haiti, *Initiation à la technologie et aux activités productives (ITAP) — Conception, fabrication et diffusion d'une station de traitement de l'eau* (teacher guide — evidence), printed p. 9-10 — researching existing water-treatment solutions in documents and outside school, selecting solutions against the specification. Haiti, 9e AF, Projet Nectar sequence |
 
-**Acceptance count: taught in 1 country (Jamaica) — plus teacher-guide evidence only (Haiti), named here, counted nowhere.**
+| The design process — from concept sketches to working drawings, then build and evaluate: Unit 6 deck project objectives — investigate and critique existing structures, concept sketches leading to working drawings, team build, evaluation of the finished product (original string `design process — from concept sketches to working drawings, then build and evaluate`) | Samoa, *Design and Technology, Year 11*, printed p. 50-51 |
+
+**Acceptance count: taught in 2 countries (Jamaica, Samoa) — plus teacher-guide evidence only (Haiti), named here, counted nowhere.**
 
 Jamaica's own way: Jamaica teaches designing through one named method — the 'E' Design Process — used in every Resource & Technology project, with its five aims stated in the guide's appendix. That named, repeated process is carried here exactly as Jamaica frames it, and the same steps organise Jamaica's toy car, flashlight and motor projects elsewhere in this course.
 
@@ -28,4 +32,6 @@ Haiti's own way: Haiti opens every ITAP design project the same way — first th
 
 Haiti programme note: Haiti's ETAP programmes for the 3e cycle (MENFP, Direction Enseignement Fondamental, version définitive 28 juillet 2024) are curriculum/framework documents, recorded RECORD-ONLY in the placements file and not stocked; the teaching stocked here comes from the Projet Nectar pedagogical sequences that deliver the programme. The LibreOffice Impress (PAO) Nectar sequence in the same placements file is likewise RECORD-ONLY — pure ICT content, stocked in the ICT course, not here.
 
-Searchable tags: design process, E Design Process, define problem, generate ideas, evaluate, Jamaica, Grades 4–6, Resource & Technology, cahier des charges, specification, Haiti, ITAP, Projet Nectar, 8e AF, 9e AF, French
+Samoa's own way: Samoa runs the design process as one complete building project — the Unit 6 deck: investigate and critique existing structures first, let concept sketches lead to working drawings, build as a team, then evaluate the finished product against the objectives.
+
+Searchable tags: design process, E Design Process, define problem, generate ideas, evaluate, Jamaica, Grades 4–6, Resource & Technology, cahier des charges, specification, Haiti, ITAP, Projet Nectar, 8e AF, 9e AF, French, Samoa, Year 11, deck project, working drawings

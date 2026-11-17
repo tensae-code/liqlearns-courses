@@ -1,6 +1,6 @@
 # Sources — Dimensioning — Lines, Symbols and Reading Direction
 
-countries: Belarus, Ethiopia, Jamaica
+countries: Belarus, Ethiopia, Jamaica, Samoa
 
 **Book 1:** *Basic Technical Drawing, Teacher Guide, Grade 12* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, in collaboration with Kuraz International Publisher P.L.C., Addis Ababa. Prepared by: Amanuel Berhanu (BSc), Tolossa Deberie (MSc). Edited and reviewed by: Abebe Basazeneu, Natenael Abebe, Yared Mekuria. First edition, 2003 (E.C.), funded through the General Education Quality Improvement Project (GEQIP). Developed, printed and distributed by Al Ghurair Printing and Publishing House CO. (LLC), Dubai, U.A.E., in collaboration with Kuraz International Publisher. ISBN: 978-99944-2-097-2. 109 PDF pages; printed page = PDF page - 4 throughout. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/technical-drawing/g12-teacher-placements.md.
 
@@ -8,14 +8,17 @@ countries: Belarus, Ethiopia, Jamaica
 
 **Book 3:** *Чарчэнне — Вучэбны дапаможнік для 9 класа агульнаадукацыйных устаноў з беларускай мовай навучання (Technical Drawing — study aid for Grade 9 of general-education institutions with Belarusian as the language of instruction)* (student textbook) — Belarus, Author: В. Н. Вінаградаў (V. N. Vinogradov). Publisher: Нацыянальны інстытут адукацыі (National Institute of Education), Ministry of Education of the Republic of Belarus, Minsk; approved by the Ministry of Education of the Republic of Belarus; signed to print 10.12.2008; print run 31,023; ISBN 978-985-465-432-4. Year/edition: 2008. Grade: 9. Language: Belarusian. Pages: 224; verified byte size 12,603,822 (the record carries no size; the file was located by exact-name scan of the releases). Source + route: tensae-code/liqlearns-textbooks, release asset in mid-size-books-7 (asset grade-09-gov-belarus-technical-drawing-student-full-year.pdf), downloaded via the Releases API asset route after the tree route 404'd — grade-09/gov/belarus/technical-drawing/student/full-year.pdf. Kind: student textbook (вучэбны дапаможнік — study aid/textbook). Read: COMPLETE (all 34 sections mapped from the book's contents, pp. 220–222, with section content verified at the section pages; the Кароткі тэрміналагічны слоўнік — short terminological dictionary, printed p. 211 — is inventory-only and the Прадметны паказальнік is an index; neither is placed). Note on the record: the book's own text layer uses a broken font encoding, so the read was done from the book's table of contents and section pages via OCR (RapidOCR) plus the decoded text layer; printed page numbers are the book's own (printed p. = PDF p.). Placements at liqlearns-courses-work/expansion-td-2026-11-17/belarus-placements.md.
 
+**Book 4:** *Design and Technology, Year 11* (student) — Samoa, Government of Samoa, Ministry of Education, Sports and Culture (MESC), with NZAID; drawings by Terry Smith. Year: 2003. Grade: Year 11. Language: English. Pages: 89. Source: GitHub release asset, mid-size-books-7 `grade-11-gov-samoa-design-technology-student-full-year.pdf`, 5,536,932 bytes, cover verified ("Design and Technology, Year 11") — tree route 404'd; the file lives only as a release asset. Kind: student. Read: COMPLETE. Placements at liqlearns-courses-work/expansion-td-2026-11-17/samoa-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The parts of a dimension (teacher guide — evidence) | Ethiopia, *Basic Technical Drawing, Teacher Guide, Grade 12*, Unit 4, Lesson 4.1, printed pp. 54–59 |
 | Sub lesson 2 — Two ways to read the figure (teacher guide — evidence) | Ethiopia, *Basic Technical Drawing, Teacher Guide, Grade 12*, Unit 4, Lesson 4.1, printed pp. 54–59 |
 | Reading a working drawing | Jamaica, *National Standards Curriculum Guide — Grades 4–6 — Resource & Technology*, printed p. 33 — interpreting dimensions and annotations on a simple working drawing of the toy car; evaluating the finished product against the working drawing/plan |
 | Applying dimensions: dimension lines, extension lines, arrowheads and the dimension figure placed and read to the rules | Belarus, *Чарчэнне (Technical Drawing / Drafting) — Grade 9*, printed p. 27 |
+| Architectural dimensioning conventions: show only necessary dimensions, never repeat a dimension, dimension figures placed to be read clearly | Samoa, *Design and Technology, Year 11*, printed p. 7 |
 
-**Acceptance count: taught in 2 countries (Belarus, Jamaica) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+**Acceptance count: taught in 3 countries (Belarus, Jamaica, Samoa) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
 
 Jamaica's own way: Jamaica teaches working-drawing reading on the toy car the class is making — dimensions and annotations are interpreted on the car's own simple working drawing, and the finished product is evaluated against that drawing/plan, so the drawing is both the making instructions and the judge.
 
@@ -25,4 +28,6 @@ No book error flagged by the placements touches this lesson.
 
 Belarus's own way: Belarus teaches applying dimensions inside its standard execution rules for the whole drawing — dimension lines, extension lines, arrowheads and the figure are placed and read to the rules, as one part of the single Grade 9 *Чарчэнне* drafting course.
 
-Searchable tags: dimensioning, dimension line, extension line, arrowhead, leader line, aligned system, unidirectional system, Ethiopia Grade 12 Technical Drawing Unit 4
+Samoa's own way: Samoa teaches dimensioning as architectural convention for building drawings — show only necessary dimensions, never repeat a dimension, and place figures to be read clearly — rules stated for the shelter drawings the learner is about to make.
+
+Searchable tags: dimensioning, dimension line, extension line, arrowhead, leader line, aligned system, unidirectional system, Ethiopia Grade 12 Technical Drawing Unit 4, Samoa, Year 11, architectural dimensioning

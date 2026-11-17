@@ -5,11 +5,11 @@ things works the same everywhere; only the way of teaching
 differs, and the way shows inside as examples. The path climbs
 from the hand to the drawing board to the workshop.
 
-**First Steps → Technical Drawing → Materials → Mechanisms and Machines → Electrical Installations and the Home → Textiles and Fashion → Radiography Technology → Design and Making → Models and Robotics → Workshop and Safety → Electricity and Electronics → Food Technology → Paper, Card and Modelling → Construction and Building → Energy**
+**First Steps → Technical Drawing → Materials → Wood → Mechanisms and Machines → Electrical Installations and the Home → Textiles and Fashion → Radiography Technology → Design and Making → Models and Robotics → Workshop and Safety → Electricity and Electronics → Food Technology → Paper, Card and Modelling → Construction and Building → Energy**
 
-Stocked titles so far: **151 lessons**.
+Stocked titles so far: **189 lessons**.
 
-**Technical Drawing** (technical-drawing/) — 35 lessons:
+**Technical Drawing** (technical-drawing/) — 37 lessons:
 17 built from Ethiopia's Grade 12 teacher guide (2003 E.C.,
 GEQIP generation) as labelled evidence — see CURRICULUM.md
 and ABOUT.md for the honesty terms — 6 stocked
@@ -37,6 +37,8 @@ Resource & Technology* (Jamaica, 2018):
 - Drawings of joined parts (drawings-of-joined-parts/) — stocked 2026-11-17 from Belarus's *Чарчэнне*, Grade 9 (2008)
 - Assembly drawings (assembly-drawings/) — stocked 2026-11-17 from Belarus's *Чарчэнне*, Grade 9 (2008)
 - Architectural and construction drawings (architectural-and-construction-drawings/) — stocked 2026-11-17 from Belarus's *Чарчэнне*, Grade 9 (2008)
+- Drawing scales and material representation symbols in architectural drawing (drawing-scales-and-material-representation-symbols-in/) — stocked 2026-11-17 from Samoa's *Design and Technology, Year 11* (MESC, 2003)
+- Drawing and reading architectural floor plans and elevations (drawing-and-reading-architectural-floor-plans-and-elevations/) — stocked 2026-11-17 from Samoa's *Design and Technology, Year 11* (MESC, 2003)
 
 Four of the 17 Ethiopia-evidence lessons also carry Malta
 placements (6 placements): Surface development — flat
@@ -64,6 +66,12 @@ that become things; Sectioning — words and practice;
 Types of section (2); Conventional practice in
 sectioning (2); Line types on drawings; Geometrical
 constructions.
+
+Two of the 17 Ethiopia-evidence lessons also carry
+Samoa placements (2 placements, from Samoa's *Design
+and Technology, Year 11*, 2003 — student textbook,
+counted): Dimensioning — lines, symbols and reading
+direction; Orthographic projection basics.
 
 **First Steps** (first-steps/) — 22 lessons: 3 stocked
 2026-11-17 from Canada's *Technology in the Community*
@@ -114,6 +122,13 @@ Efficace* Sciences teacher guides, Grades 3–5
 - The 3R rule — repair, reuse, recycle (the-3r-rule/)
 - Recycling as a technical chain (recycling-as-a-technical-chain/) — stocked 2026-11-17 from Morocco's *Al Marjie en Technologie, Guide de l'enseignant(e), 2e année* (teacher-guide evidence only, counted nowhere)
 
+**Wood** (wood/) — 2 lessons, stocked 2026-11-17
+from Samoa's *Design and Technology, Year 11*
+(MESC, 2003):
+
+- Particleboard, fibreboard and manufactured boards (particleboard-fibreboard-and-manufactured-boards/)
+- Protecting and preserving timber (protecting-and-preserving-timber/)
+
 **Mechanisms and Machines** (mechanisms-and-machines/) —
 8 lessons: 1 stocked 2026-11-17 from the same Canada book,
 3 stocked 2026-11-17 from Jamaica's *National
@@ -142,11 +157,15 @@ Grade 2* (Russian edition as held):
 - Technological machines and household appliances (technological-machines-and-household-appliances/)
 
 **Textiles and Fashion** (textiles-and-fashion/) —
-8 lessons: 1 stocked 2026-11-17 from the same Canada book,
+25 lessons: 1 stocked 2026-11-17 from the same Canada book,
 5 stocked 2026-11-17 from Finland's *Katse tulevaan*
 (TuleVa project learning material, published via aoe.fi),
-and 2 stocked 2026-11-17 from Azerbaijan's *Технология
-(Technology), Grade 2* (Russian edition as held):
+2 stocked 2026-11-17 from Azerbaijan's *Технология
+(Technology), Grade 2* (Russian edition as held), and
+17 stocked 2026-11-17 from Samoa's *Food & Textiles
+Technology* books (Year 9 Book 3, MESC, 2004; Year 11
+Book 2, MESC, 2004). The sewing machine also carries a
+Samoa placement (Year 9 Book 3, printed p. 36, 50):
 
 - The sewing machine (the-sewing-machine/)
 - Dyeing and finishing textiles (dyeing-and-finishing-textiles/)
@@ -156,13 +175,30 @@ and 2 stocked 2026-11-17 from Azerbaijan's *Технология
 - Textile fibres (textile-fibres/)
 - Sewing along a straight line (sewing-along-a-straight-line/)
 - Embroidery along curved lines (embroidery-along-curved-lines/)
+- Fabrics (fabrics/)
+- Properties of fibres, yarns and fabrics (properties-of-fibres-yarns-and-fabrics/)
+- Properties of a material for a purpose (properties-of-a-material-for-a-purpose/)
+- Weaving (weaving/)
+- Knitted fabrics (knitted-fabrics/)
+- Decorating fabric (decorating-fabric/)
+- Sewing tools and equipment (sewing-tools/)
+- Hand sewing stitches (hand-sewing-stitches/)
+- Working with patterns (working-with-patterns/)
+- Traditional weaving technology (traditional-weaving-technology/)
+- Traditional clothing materials and construction (traditional-clothing-materials-and-construction/)
+- Colour theory for textile design (colour-theory-for-textile-design/)
+- Adding colour to fibres (adding-colour-to-fibres/)
+- Adding texture to textiles (adding-texture-to-textiles/)
+- Matching decoration to the fibre (matching-decoration-to-the-fibre/)
+- Textile printing (textile-printing/)
+- Twill weaving with pandanus (twill-weaving-with-pandanus/)
 
 **Radiography Technology** (radiography-technology/) —
 1 lesson, stocked 2026-11-17 from the same Canada book:
 
 - X-ray machines (x-ray-machines/)
 
-**Design and Making** (design-and-making/) — 22 lessons:
+**Design and Making** (design-and-making/) — 23 lessons:
 1 stocked 2026-11-17 from Kuwait's الذكاء الرقمي 8
 (*Digital Intelligence, Grade 8, Term 2*, Ministry of
 Education, State of Kuwait), 6 stocked 2026-11-17
@@ -173,9 +209,13 @@ Efficace* Sciences teacher guides, Grades 3–4
 (teacher-guide evidence only, counted nowhere), and
 10 stocked 2026-11-17 from Haiti's ITAP Projet Nectar
 pedagogical sequences (MENFP, 8e–9e AF — teacher-guide
-evidence only, counted nowhere). The design process
+evidence only, counted nowhere), and
+1 stocked 2026-11-17 from Samoa's *Food & Textiles
+Technology* books (Year 9 Book 3, 2004; Year 11 Book 2,
+2004) — The design brief. The design process
 also carries 6 Haiti placements (teacher-guide
-evidence):
+evidence) and 1 Samoa placement (*Design and
+Technology, Year 11*, 2003):
 
 - Taking an object apart and putting it back together (taking-an-object-apart-and-putting-it-back-together/)
 - The integrated smart-building project (design side) (the-integrated-smart-building-project-design-side/)
@@ -199,6 +239,7 @@ evidence):
 - Enterprise foundations inside the technology course (enterprise-foundations-inside-the-technology-course/) — stocked 2026-11-17 from Morocco's *Al Marjie en Technologie, Guide de l'enseignant(e), 2e année* (teacher-guide evidence only, counted nowhere)
 - Setting up an enterprise (setting-up-an-enterprise/) — stocked 2026-11-17 from Morocco's *Al Marjie en Technologie, Guide de l'enseignant(e), 2e année* (teacher-guide evidence only, counted nowhere)
 - The design project — carrying a project through (the-design-project/) — stocked 2026-11-17 from Morocco's *Technologie, Guide de l'enseignant(e), 3e année* (teacher-guide evidence only, counted nowhere)
+- The design brief (the-design-brief/) — stocked 2026-11-17 from Samoa's *Food & Textiles Technology* books (Year 9 Book 3, 2004; Year 11 Book 2, 2004)
 
 **Models and Robotics** (models-and-robotics/) —
 10 lessons: 6 stocked 2026-11-17 from the same Kuwait book,
@@ -223,14 +264,17 @@ nowhere):
 - Making an object that uses wind energy (making-an-object-that-uses-wind-energy/)
 
 **Workshop and Safety** (workshop-and-safety/) —
-2 lessons: 1 stocked 2026-11-17 from Malta's Workbook 1,
-and 1 stocked 2026-11-17 from Jamaica's *National
+3 lessons: 1 stocked 2026-11-17 from Malta's Workbook 1,
+1 stocked 2026-11-17 from Jamaica's *National
 Standards Curriculum Guide — Grades 4–6 — Resource
-& Technology* (Jamaica, 2018). Measuring and marking out
+& Technology* (Jamaica, 2018), and 1 stocked
+2026-11-17 from Samoa's *Design and Technology,
+Year 11* (MESC, 2003). Measuring and marking out
 also carries a Jamaica placement:
 
 - Measuring and marking out (measuring-and-marking-out/)
 - Hand tools (hand-tools/)
+- Portable power tools (portable-power-tools/)
 
 **Electricity and Electronics**
 (electricity-and-electronics/) — 22 lessons: 2 stocked
@@ -266,11 +310,26 @@ simple electric circuit also carries a Haiti placement
 - The process function (the-process-function/) — stocked 2026-11-17 from Morocco's Technologie teacher guides (teacher-guide evidence only, counted nowhere)
 - The communicate function (the-communicate-function/) — stocked 2026-11-17 from Morocco's Technologie teacher guides (teacher-guide evidence only, counted nowhere)
 
-**Food Technology** (food-technology/) — 1 lesson,
-stocked 2026-11-17 from Azerbaijan's *Технология
-(Technology), Grade 2* (Russian edition as held):
+**Food Technology** (food-technology/) — 11 lessons:
+1 stocked 2026-11-17 from Azerbaijan's *Технология
+(Technology), Grade 2* (Russian edition as held), and
+10 stocked 2026-11-17 from Samoa's MESC food books —
+*Food & Textiles Technology* Year 9 Book 1 (2001,
+reprinted 2006 — Unit 1 placements PARTIAL, from
+sampled rendered pages), Year 11 Book 1 (2003,
+reprinted 2004), and *Food Technology* Year 12 (2004):
 
 - Setting and serving the table (setting-and-serving-the-table/)
+- Why food spoils (why-food-spoils/) — Samoa Year 9 Book 1, PARTIAL (sampled pages)
+- Traditional Samoan fermented foods (traditional-samoan-fermented-foods/) — Samoa Year 9 Book 1, PARTIAL (sampled pages)
+- Food preservation methods, past and present (food-preservation-methods-past-and-present/)
+- Fermentation (fermentation/)
+- Food additives (food-additives/)
+- The principles of preservation (the-principles-of-preservation/)
+- How commercial canning developed (how-commercial-canning-developed/)
+- Commercial freezing (commercial-freezing/)
+- Commercial drying of food as a preservation method (commercial-drying-of-food-as-a-preservation-method/)
+- Packaging food (packaging-food/)
 
 **Paper, Card and Modelling** (paper-card-and-modelling/) —
 7 lessons, stocked 2026-11-17 from Azerbaijan's
@@ -286,12 +345,20 @@ as held):
 - A three-dimensional paper toy (a-three-dimensional-paper-toy/)
 
 **Construction and Building** (construction-and-building/) —
-2 lessons, stocked 2026-11-17 from Haiti's ITAP Projet
+7 lessons: 2 stocked 2026-11-17 from Haiti's ITAP Projet
 Nectar pedagogical sequences (MENFP, 8e AF —
-teacher-guide evidence only, counted nowhere):
+teacher-guide evidence only, counted nowhere), and
+5 stocked 2026-11-17 from Samoa's *Design and
+Technology, Year 11* (MESC, 2003). Construction
+technology also carries 2 Samoa placements:
 
 - Boatbuilding construction sequence (boatbuilding-construction-sequence/)
 - Construction technology (construction-technology/)
+- Hand tools for building (hand-tools-for-building/)
+- Building construction (building-construction/)
+- Designing and constructing shelters (designing-and-constructing-shelters/)
+- Concrete work (concrete-work/)
+- Metric and imperial measurement conversion for building (metric-and-imperial-measurement-conversion-for-building/)
 
 **Energy** (energy/) — 4 lessons: 3 stocked 2026-11-17
 from Haiti's ITAP Projet Nectar pedagogical sequences

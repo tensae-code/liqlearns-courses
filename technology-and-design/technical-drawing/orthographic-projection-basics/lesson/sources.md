@@ -1,6 +1,6 @@
 # Sources — Orthographic projection — points, lines, planes and surfaces
 
-countries: Belarus, Ethiopia, Malta, Morocco
+countries: Belarus, Ethiopia, Malta, Morocco, Samoa
 
 **Book 1:** *Basic Technical Drawing, Teacher Guide, Grade 12* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, in collaboration with Kuraz International Publisher P.L.C., Addis Ababa, first edition, 2003 E.C., ISBN 978-99944-2-097-2, 105 printed pp. Page rule: printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/technical-drawing/g12-teacher-placements.md.
 
@@ -9,6 +9,8 @@ countries: Belarus, Ethiopia, Malta, Morocco
 **Book 3:** *Technologie, Guide de l'enseignant(e), 3e année du cycle secondaire collégial* (teacher guide) — Morocco, Ministère de l'Éducation Nationale, du Préscolaire et des Sports (Royaume du Maroc). Year: aligned to the revised Technologie programme of April 2021 (edition year not printed on the cover). Grade: Grade 9 (3e année collège). Language: French. Pages: 100. Source: GitHub release asset, mid-size-books-6 `grade-09-gov-morocco-technology-teacher-full-year.pdf`, 7,165,494 bytes (exact size in the target record), cover verified — tree route 404'd; the file lives only as a release asset. Kind: EVIDENCE (teacher guide). Read: COMPLETE. Structure: Parts 1–4 orientations/resources/pedagogy; Part 5 (printed pp. 43–96) answer elements for the pupil manual's five modules — placements filed from it as guide evidence. The pupil manual itself is not in hand. Placements at liqlearns-courses-work/expansion-td-2026-11-17/morocco-placements.md.
 
 **Book 4:** *Чарчэнне — Вучэбны дапаможнік для 9 класа агульнаадукацыйных устаноў з беларускай мовай навучання (Technical Drawing — study aid for Grade 9 of general-education institutions with Belarusian as the language of instruction)* (student textbook) — Belarus, Author: В. Н. Вінаградаў (V. N. Vinogradov). Publisher: Нацыянальны інстытут адукацыі (National Institute of Education), Ministry of Education of the Republic of Belarus, Minsk; approved by the Ministry of Education of the Republic of Belarus; signed to print 10.12.2008; print run 31,023; ISBN 978-985-465-432-4. Year/edition: 2008. Grade: 9. Language: Belarusian. Pages: 224; verified byte size 12,603,822 (the record carries no size; the file was located by exact-name scan of the releases). Source + route: tensae-code/liqlearns-textbooks, release asset in mid-size-books-7 (asset grade-09-gov-belarus-technical-drawing-student-full-year.pdf), downloaded via the Releases API asset route after the tree route 404'd — grade-09/gov/belarus/technical-drawing/student/full-year.pdf. Kind: student textbook (вучэбны дапаможнік — study aid/textbook). Read: COMPLETE (all 34 sections mapped from the book's contents, pp. 220–222, with section content verified at the section pages; the Кароткі тэрміналагічны слоўнік — short terminological dictionary, printed p. 211 — is inventory-only and the Прадметны паказальнік is an index; neither is placed). Note on the record: the book's own text layer uses a broken font encoding, so the read was done from the book's table of contents and section pages via OCR (RapidOCR) plus the decoded text layer; printed page numbers are the book's own (printed p. = PDF p.). Placements at liqlearns-courses-work/expansion-td-2026-11-17/belarus-placements.md.
+
+**Book 5:** *Design and Technology, Year 11* (student) — Samoa, Government of Samoa, Ministry of Education, Sports and Culture (MESC), with NZAID; drawings by Terry Smith. Year: 2003. Grade: Year 11. Language: English. Pages: 89. Source: GitHub release asset, mid-size-books-7 `grade-11-gov-samoa-design-technology-student-full-year.pdf`, 5,536,932 bytes, cover verified ("Design and Technology, Year 11") — tree route 404'd; the file lives only as a release asset. Kind: student. Read: COMPLETE. Placements at liqlearns-courses-work/expansion-td-2026-11-17/samoa-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -24,8 +26,9 @@ countries: Belarus, Ethiopia, Malta, Morocco
 | Rectangular projections of polyhedra and of solids of revolution: the views of prisms, pyramids, cylinders, cones and spheres | Belarus, *Чарчэнне (Technical Drawing / Drafting) — Grade 9*, printed p. 79 |
 | Constructing the projections of points lying on the surfaces of solids and objects — finding a point's views from the surface it sits on | Belarus, *Чарчэнне (Technical Drawing / Drafting) — Grade 9*, printed p. 88 |
 | Worked examples: complete drawings of objects built up step by step from their views | Belarus, *Чарчэнне (Technical Drawing / Drafting) — Grade 9*, printed p. 92 |
+| Preparing three-view architectural drawings of a shelter (left-hand view with footing details, front view, top view) and side/front views of an attached shelter | Samoa, *Design and Technology, Year 11*, printed p. 9, 12 |
 
-**Acceptance count: taught in 2 countries (Belarus, Malta) — plus teacher-guide evidence only (Ethiopia, Morocco), named here, counted nowhere.**
+**Acceptance count: taught in 3 countries (Belarus, Malta, Samoa) — plus teacher-guide evidence only (Ethiopia, Morocco), named here, counted nowhere.**
 
 Era note: this guide is an older GEQIP-generation book (first edition 2003 E.C., funded through the General Education Quality Improvement Project, GEQIP) — a different curriculum generation from the current syllabus. These lessons present it as such, as the guide's testimony about the course of its era, never as the current syllabus unchecked. No student book for Technical Drawing exists in hand, so nothing here could be checked against a pupil text.
 
@@ -37,4 +40,6 @@ Morocco's own way: Morocco teaches orthographic drawing from a cavalier-perspect
 
 Belarus's own way: Belarus builds orthographic projection as the centre of its Grade 9 *Чарчэнне* course in textbook order — projection methods first, then the three-plane system, the rules for choosing views, the projection of points, lines, planes and solids, points on surfaces, and finally complete worked drawings built step by step.
 
-Searchable tags: technical drawing, orthographic projection, principal views, inclined surface, oblique surface, auxiliary view, Grade 12, Ethiopia
+Samoa's own way: Samoa teaches orthographic projection on the building the course erects — three-view architectural drawings of a shelter (left-hand view carrying the footing details, front view, top view) and the side and front views of its attached shelter — projection learned on the structure being designed.
+
+Searchable tags: technical drawing, orthographic projection, principal views, inclined surface, oblique surface, auxiliary view, Grade 12, Ethiopia, Samoa, Year 11, shelter, three-view drawing

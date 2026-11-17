@@ -717,7 +717,7 @@ architectural-construction drawings.
 Placements at
 liqlearns-courses-work/expansion-td-2026-11-17/belarus-placements.md.
 
-**Course totals: 151 lessons** — Technical Drawing 17 lessons
+**Course totals: 189 lessons** — Technical Drawing 17 lessons
 (Ethiopia, teacher-guide evidence) plus the 7 Canada lessons
 above (First Steps 3, Mechanisms and Machines 1, Electrical
 Installations and the Home 1, Textiles and Fashion 1,
@@ -767,7 +767,148 @@ sketching — isometric, Free-hand sketching —
 principles, Drawing an auxiliary view, Surface
 development — flat sheets that become things,
 Sectioning — words and practice, Types of section,
-Conventional practice in sectioning).
+Conventional practice in sectioning). plus the
+38 Samoa lessons below (Technical Drawing 2,
+Textiles and Fashion 17, Design and Making 1,
+Wood 2, Construction and Building 5, Workshop
+and Safety 1, Food Technology 10); Samoa also
+stocked 6 placements into 5 existing lessons
+(The sewing machine, The design process,
+Construction technology — 2 placements,
+Dimensioning — lines, symbols and reading
+direction, Orthographic projection basics).
+
+## Samoa, MESC Food & Textiles Technology and Design & Technology (T&D expansion, stocked 2026-11-17)
+
+Stocked from Samoa's MESC textbooks (Government of
+Samoa, Ministry of Education, Sports and Culture,
+with NZAID): *Food & Textiles Technology* Year 9
+Book 3, *Design & Textiles* (2004); *Design and
+Technology*, Year 11 (2003, drawings by Terry
+Smith); *Food & Textiles Technology* Year 9
+Book 1, *Food and Nutrition* (© 2001, reprinted
+through Egan-Reid Ltd 2006); *Food & Textiles
+Technology* Year 11 Book 1, *Food & Nutrition /
+Caring for the Family* (© 2003, reprinted 2004,
+ISBN 982-517-043-3); *Food & Textiles Technology*
+Year 11 Book 2, *Design and Textiles / Consumer
+Responsibilities* (© 2003, reprinted 2004,
+ISBN 982-517-048-4); and *Food Technology*,
+Year 12 (© 2004, ISBN 982-517-068-9). Of the 45
+placements, 43 were NEW LESSON NEEDED (each
+resolved through the T&D slug registry to its
+canonical lesson; 38 built new, 4 stocked into
+the existing The sewing machine, The design
+process and Construction technology lessons —
+Construction technology carries 2 of them) and
+2 stocked into the founding Technical Drawing
+lessons (Dimensioning — lines, symbols and
+reading direction; Orthographic projection
+basics). Samoa counts in the acceptance count
+(student textbooks, not evidence-only). HONESTY:
+the Year 9 Book 1 placements come from Unit 1,
+read from SAMPLED rendered pages of a
+scanned-image PDF with no text layer — they are
+PARTIAL and stay labelled PARTIAL in every
+sources file they touch, never upgraded to a
+full read. Year 9 Book 2, *Meeting the Needs of
+the Family*, is filed RECORD-ONLY in the
+placements file (family-life, health and
+consumer education; no technology teaching) and
+is not stocked.
+
+- **Textiles and Fashion** (17 new lessons,
+  13 questions each): Fabrics — textile
+  materials, cotton from boll to thread
+  (Y9 B3, printed p. 13-14); Properties of
+  fibres, yarns and fabrics (Y9 B3, p. 15);
+  Properties of a material for a purpose —
+  cotton in Samoa's climate (Y9 B3, p. 18);
+  Weaving (Y9 B3, p. 20-25); Knitted fabrics
+  (Y9 B3, p. 27-29); Decorating fabric —
+  printing and dyeing with local natural
+  materials (Y9 B3, p. 32-33); Sewing tools
+  and equipment (Y9 B3, p. 34-35); Hand sewing
+  stitches (Y9 B3, p. 37-38); Working with
+  patterns — the puletasi layout on 90 cm and
+  115 cm fabric (Y9 B3, p. 40-44); Traditional
+  weaving technology — polasisi blinds for the
+  fale (Y9 B3, p. 48-49); Traditional clothing
+  materials and construction — malo, titi,
+  lavalava and siapo (Y9 B3, p. 11); Colour
+  theory for textile design (Y11 B2, p. 7-13);
+  Adding colour to fibres — siapo making:
+  fui, elei and tutusi/mamanu (Y11 B2,
+  p. 14-18); Adding texture to textiles
+  (Y11 B2, p. 19-21); Matching decoration to
+  the fibre (Y11 B2, p. 22-23); Textile
+  printing (Y11 B2, p. 24-29); Twill weaving
+  with pandanus (Y11 B2, p. 30-32). The sewing
+  machine also carries a Samoa placement
+  (Y9 B3, printed p. 36, 50).
+- **Technical Drawing** (2 new lessons,
+  13 questions each): Drawing scales and
+  material representation symbols in
+  architectural drawing (Y11 Design, printed
+  p. 5-6); Drawing and reading architectural
+  floor plans and elevations (Y11 Design,
+  printed p. 8, 10-11).
+- **Design and Making** (1 new lesson,
+  13 questions): The design brief (Y9 B3,
+  printed p. 45-47; Y11 B2, printed p. 33-37).
+  The design process also carries a Samoa
+  placement (Y11 Design, printed p. 50-51).
+- **Wood** (2 new lessons, 13 questions each —
+  a new unit in this course): Particleboard,
+  fibreboard and manufactured boards
+  (Y11 Design, printed p. 28-40); Protecting
+  and preserving timber (Y11 Design, printed
+  p. 41).
+- **Construction and Building** (5 new
+  lessons, 13 questions each): Hand tools for
+  building (Y11 Design, printed p. 13-19);
+  Building construction (Y11 Design, printed
+  p. 42-49); Designing and constructing
+  shelters (Y11 Design, printed p. 58-60, 66,
+  71); Concrete work (Y11 Design, printed
+  p. 78-84); Metric and imperial measurement
+  conversion for building (Y11 Design, printed
+  p. 77). Construction technology also carries
+  2 Samoa placements (Y11 Design, printed
+  p. 50-57 and p. 63, 68-69, 74).
+- **Workshop and Safety** (1 new lesson,
+  13 questions): Portable power tools
+  (Y11 Design, printed p. 20-27).
+- **Food Technology** (10 new lessons,
+  13 questions each): Why food spoils
+  (Y9 B1, printed p. 21 — PARTIAL, sampled
+  pages); Traditional Samoan fermented foods
+  (Y9 B1, printed p. 27 — PARTIAL, sampled
+  pages); Food preservation methods, past and
+  present (Y11 B1, printed p. 5-6);
+  Fermentation — masi ulu (Y11 B1, printed
+  p. 7-10); Food additives (Y11 B1, printed
+  p. 19-23); The principles of preservation
+  (Y12, printed p. 19-20); How commercial
+  canning developed (Y12, printed p. 21-22);
+  Commercial freezing (Y12, printed p. 23-24);
+  Commercial drying of food as a preservation
+  method (Y12, printed p. 25-26); Packaging
+  food (Y12, printed p. 73-74).
+
+Samoa's own way is content and is carried in
+each lesson's sources: siapo made and coloured
+the Samoan way (fui, elei over the carved upeti
+board, tutusi/mamanu), polasisi blinds woven
+from coconut leaves and sinnet for the fale,
+masi ulu fermented in a leaf-lined pit, the
+puletasi laid out on both fabric widths, and
+the Year 11 shelter and deck built end to end —
+design process, working drawings, span tables
+and approval included.
+
+Placements at
+liqlearns-courses-work/expansion-td-2026-11-17/samoa-placements.md.
 
 - **Coverage-audit fix pass (2026-11-12)** — the placement-coverage
   audit found 17 of 19 placements stocked; the fix build closed
