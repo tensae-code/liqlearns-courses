@@ -128,12 +128,68 @@ One further Finland record in that file is RECORD-ONLY
 project presentation/report — not a textbook and no
 teaching content to place) and is not stocked.
 
-**Course totals: 31 lessons** — Technical Drawing 17 lessons
+## Kuwait, Digital Intelligence — 3D printing (T&D expansion, stocked 2026-11-17)
+
+Stocked from Kuwait's الذكاء الرقمي 8 (*Digital Intelligence,
+Grade 8, Term 2*) — Ministry of Education, State of Kuwait,
+first edition 2025/2026 series (2025/2026 (1447H),
+intermediate stage, Term 2), in Arabic, 306 PDF pp.
+(printed book to p. 302 + references), read COMPLETE in
+full from the text layer. The book as a whole is Kuwait's
+Digital Intelligence (ICT) subject; only its first journey
+— digital fabrication: 3D printing from idea to finished
+model — and the design side of its closing integrated
+project are Technology & Design teaching, and only those
+are stocked here. All 7 placements were NEW LESSON
+NEEDED; each was resolved through the T&D slug registry
+to its canonical lesson and built new. Kuwait counts in
+the acceptance count (student book, not evidence-only):
+every lesson below stands at taught in 1 country
+(Kuwait).
+
+- **Models and Robotics** (6 lessons, 13 questions each):
+  3D printing, from idea to model (printed pp. 23–32);
+  First steps with UltiMaker Cura (printed pp. 33–48);
+  Print quality and printing speed (printed pp. 49–64);
+  The model's strength from the inside (printed
+  pp. 65–76); Printing overhanging parts (printed
+  pp. 77–90); Making the model stick to the printer bed
+  (printed pp. 91–103).
+- **Design and Making** (1 lesson, 13 questions): The
+  integrated smart-building project (design side)
+  (printed pp. 285–297) — the design side only; the
+  project's network plan is ICT work and is not stocked.
+
+Kuwait's own way is content and is carried in each
+lesson's sources: 3D printing is taught as a complete
+journey inside the Digital Intelligence subject — idea to
+model, the slicer (UltiMaker Cura) as its own step, then
+each print setting as its own lesson (quality against
+speed, infill strength, supports, bed adhesion) — closing
+with an integrated smart-building project where the
+building's parts and IoT devices are modelled and
+prepared virtually with geometric precision before
+execution, alongside the network plan.
+
+Placements at
+liqlearns-courses-work/expansion-td-2026-11-17/kuwait-placements.md.
+The other Kuwait records in that file are RECORD-ONLY
+and are not stocked: the Grade 7 and Grade 9 Digital
+Intelligence books (pure ICT / digital literacy and
+programming), the Grade 8 book's second journey
+(networks and information security in Cisco Packet
+Tracer, printed pp. 105–283, ICT), and the Grade 6
+record — the file held under that record is
+byte-identical to the Grade 9 book, so the real Grade 6
+Term 2 book is UNREAD, a library debt to re-source.
+
+**Course totals: 38 lessons** — Technical Drawing 17 lessons
 (Ethiopia, teacher-guide evidence) plus the 7 Canada lessons
 above (First Steps 3, Mechanisms and Machines 1, Electrical
 Installations and the Home 1, Textiles and Fashion 1,
 Radiography Technology 1) plus the 7 Finland lessons above
-(Materials 2, Textiles and Fashion 5).
+(Materials 2, Textiles and Fashion 5) plus the 7 Kuwait
+lessons above (Models and Robotics 6, Design and Making 1).
 
 - **Coverage-audit fix pass (2026-11-12)** — the placement-coverage
   audit found 17 of 19 placements stocked; the fix build closed
