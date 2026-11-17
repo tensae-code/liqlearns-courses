@@ -1,18 +1,31 @@
 # Sources — Elections and the Electoral Process
 
-countries: Samoa
+countries: Samoa, Albania
 
 **Book 1:** *Social Studies — Year 10 Book One* (student book, English) — Title as printed: Social Studies — Year 10 Book One. Grade: Year 10 (student/teacher: STUDENT). Publisher: Government of Samoa, Department of Education; year 2001; ISBN 982-517-009-3. PDF pages: 100 (cover/title page verified against the record title; MESC copy, size 2,049,510 B per download list). Read from the MESC ministry source URL recorded in the books.json record — the same MESC PDF the Geography wave verified byte-for-byte against the record and already secured in GitHub (in_pushed: true) — via the browser text route, cover/title page and ISBN checked against the record before reading; no file staged — the book is already in GitHub, as filed in samoa-placements.md. Earlier waves: Geography wave placed Unit 3–4 skills (graphs, census, pp. 59–98) and named Units 1–2 "Civics, not placed"; History wave placed Unit 1 Topic 1's development narrative, Unit 2's historical case studies, the rights-documents chain, the UDHR and the Mau timeline (pp. 5–6, 10, 25–48) and named the present-day civics parts not placed (voting/law-making pp. 8–18, Japan pp. 19–22, UN/Amnesty/protest pp. 33–45, 48–58); Economics wave placed the census/graph skills only. The civics teaching named by both waves was read and placed here. Verdict: COMPLETE. Contents map: Civics/Citizenship/Government pp. 5–58 (Unit 1 Government; Unit 2 Human Rights); Geography/Skills pp. 59–98 (Units 3–4, placed by Geography wave). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/samoa-placements.md.
+
+**Book 2:** *Libër Mësuesi Qytetaria 5* (teacher guide, Albanian) — Title as printed: Libër mësuesi — Qytetaria 5 (Teacher's book for Citizenship 5), by Entela Alushi; the pupil text it serves was written by Dr. Brunilda Çërraga and Dr. Silvana Loka. Grade: Grade 5 (student/teacher: TEACHER). Publisher: Shtëpia Botuese Mediaprint, Tirana; year 2019 (first edition); ISBN 978-9928-08-397-5. PDF pages: 69 (title page verified against the record title; the GitHub API route failed repeatedly (RemoteDisconnected), so the book was fetched from the record's own publisher source (mediaprint.al) and verified exactly against the record: 2,380,357 bytes = record size_bytes, 69 PDF pages = record pages; the reading copy was deleted after filing; the book stays secured in the repo per the record). Earlier waves: not read before (the Economics wave read a different Albanian book, Ekonomia 12). Verdict: COMPLETE — read FULL page by page via pdftotext -layout. Contents map: Civics/Citizenship/Government printed pp. 19–53 (Kreu 1 Individuals, groups and society, topics 1.1–1.12, plans pp. 19–35; Kreu 2 Governance, topics 2.1–2.8, plans pp. 36–44; Kreu 3 The Road, topics 3.1–3.6, plans pp. 45–53 — where-I-live and transport as community life); Morals/Values inside Kreu 1 (cooperation, self-restraint and compromise, responsibility, conflict-solving) and Kreu 2 (tolerance, rights and responsibilities); Economics printed pp. 54–69 named, not placed (Kreu 4 Production, consumption, distribution); the guide's own yearly plans, analytic programme and portfolio-assessment tables (printed pp. 5–18) and topic 4.9 Final test are apparatus/assessment, named, not placed. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/albania-placements.md. Teacher guide — evidence only, outside the acceptance count.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — culture-and-work/elections-in-samoa-how-voting-works — Unit 1 Topic 2 What happens during a national election? / Thirteenth National Elections 2001 — teaches: how Samoa's general elections work on two levels — electing MPs (matai candidates, universal suffrage since 1991, parties and independents, bloc voting, election petitions to the Supreme Court) and parliament then electing the Speaker and Prime Minister — worked through the real 2 March 2001 election results — Samoa Year 10 Book 1, printed p. 10 | Samoa, *Social Studies — Year 10 Book One* (student book), Unit 1 Topic 2 What happens during a national election? / Thirteenth National Elections 2001 — printed p. 10 |
 | Sub lesson 2 — Samoa's way — the book's own teaching way | Samoa — the book's own way of teaching (see below) |
 
-**Acceptance count: taught in 1 country (Samoa).**
+
+| Albania part — culture-and-work/election-campaigns-and-voting — 2.5 Fushata zgjedhore dhe votimi (The election campaign and voting) — teaches: election campaigns and voting, practised as class elections — Albania Grade 5 Qytetaria teacher guide, printed p. 40 (TEACHER) | Albania, *Libër Mësuesi Qytetaria 5* (teacher guide), 2.5 Fushata zgjedhore dhe votimi (The election campaign and voting) — printed p. 40 (teacher guide — evidence) |
+
+| Albania part — culture-and-work/election-campaigns-and-voting — 2.6 Zgjedhjet dhe përfaqësimi (Elections and representation) — teaches: how elections make representatives, and how class elections compare with local-government elections — Albania Grade 5 Qytetaria teacher guide, printed p. 40 (TEACHER) | Albania, *Libër Mësuesi Qytetaria 5* (teacher guide), 2.6 Zgjedhjet dhe përfaqësimi (Elections and representation) — printed p. 40 (teacher guide — evidence) |
+
+**Acceptance count: taught in 1 country (Samoa). Albania is named here as teacher-guide evidence only, counted nowhere.**
 
 Samoa's own way: Government is taught as Samoa's own Westminster-style parliament first (matai seats, the Individual Voters Roll, its parties and its real 2001 election, problems included), then Japan's Peace-Constitution government as the comparison; rights are taught from the classroom's own rights list outward to the UN and Amnesty.
 
 Registry note: the original coined string `culture-and-work/elections-in-samoa-how-voting-works` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/elections-and-the-electoral-process`.
 
-Searchable tags: elections and the electoral process, Samoa, social studies, culture-and-work
+
+Albania's own way (teacher guide — evidence): Citizenship in Grade 5 is taught as a ladder — family, group, community, then the state: democracy is first practised inside the family and in class elections, local self-government is compared with the class's own elections, and a whole chapter (Kreu 3, The Road) treats the child as pedestrian, cyclist and passenger with duties on the road.
+
+Registry note: the original coined string `culture-and-work/election-campaigns-and-voting` is recorded in the Albania provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/elections-and-the-electoral-process`.
+
+
+Searchable tags: elections and the electoral process, Samoa, social studies, culture-and-work, Albania

@@ -1,0 +1,9 @@
+# Hands-on — Conflict Resolution
+
+The lesson with your hands and your feet, not only your eyes.
+
+## The book's topic
+Work through this lesson's topic with your hands: How conflicts inside the community are solved. Say each part out loud as you do it, from the lesson.
+
+## Albania's way
+Say how Albania's book teaches this thing, in your own words, from the lesson.
