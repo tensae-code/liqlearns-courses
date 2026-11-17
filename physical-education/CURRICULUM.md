@@ -1038,6 +1038,34 @@ questions; the secondary elective-sport books run formal
 competition rules and refereeing first, then technique,
 then combined technique, then team tactics.
 
+**PE expansion — Jamaica — BUILT 2026-11-16:** 42 placements
+from Jamaica's National Standards Curriculum — Physical
+Education, Grades 7–9 guide (Ministry of Education, Youth
+& Information, Jamaica, 2020 (FINAL, Jan 2020), COMPLETE)
+stocked — 33 into existing lessons and 9 as 3 new lessons
+(The Rules of Cricket; The Rules of Hockey; The Rules of
+Baseball and Softball) — bringing this course to **234
+lessons**. The Jamaica book is a TEACHER curriculum guide,
+so Jamaica is teacher-guide evidence only in every lesson
+it touches — named in the countries lines and provenance
+rows, but outside the acceptance counts; the new lessons
+stand at acceptance count 0, founded on teacher-guide
+evidence only, no pupil's book in hand. No Jamaica PE
+placement resolves to a Health-course lesson, so none was
+excluded as Health-bound; the guide's Health, Safety and
+Wellbeing strand includes (Grade 7) facts and myths about
+drugs in sport — Health-course ground inside this
+PE-scoped record, named in the placements file and not
+placed here. The guide's Glossary of Terms (printed
+p. 177) and its APSE and lesson-plan appendices (printed
+pp. 185, 195) are inventory-only, not placed, as filed.
+Jamaica's own way is content: every grade runs the same
+six-unit year — each unit fuses a Healthy Lifestyle
+strand, a Movement Education strand and two named sports —
+and the level rises Development (Grade 7) → Intermediate
+(Grade 8) → Advanced (Grade 9); cricket, netball and lawn
+tennis stand beside the world games.
+
 ## Unit 1 — Moving Basics
 
 1. **Combined Travelling and On-the-Spot Movements** (`moving-basics/combined-travelling-and-on-the-spot`) — joining travelling movements together, joining on-the-spot movements together, and chaining the two families in one sequence.
@@ -1202,6 +1230,10 @@ then combined technique, then team tactics.
 44. **Basketball Rebounding and Boxing Out** (`ball-games/basketball-rebounding-and-boxing-out`) — basketball rebounding and boxing out: sealing off an opponent and taking the rebound — taught in Vietnam's Grade 12 GDTC 12 Basketball student book: boxing out — turning into the attacker, sealing them off with back and hips — then taking the rebound (Vietnam's student book).
 45. **Volleyball Footwork and Ready Positions** (`ball-games/volleyball-footwork-and-ready-positions`) — volleyball ready positions and footwork: the high, medium and low stances and the basic steps — taught in Vietnam's Grade 10 GDTC 10 Volleyball student book: the three ready positions, high, medium and low, and when each is used, and the basic steps — the plain step, the sliding step, the cross step and the wide straddle step (Vietnam's student book).
 
+
+46. **The Rules of Cricket** (`ball-games/the-rules-of-cricket`) — the rules of cricket: how the game is set up, scored and played — taught in Jamaica's Grades 7–9 NSC PE Guide as Cricket at Development (Grade 7), Intermediate (Grade 8) and Advanced (Grade 9) level (Jamaica's teacher curriculum guide, evidence only).
+47. **The Rules of Hockey** (`ball-games/the-rules-of-hockey`) — the rules of hockey: how the stick game is set up and played — taught in Jamaica's Grades 7–9 NSC PE Guide as Hockey at Development (Grade 7), Intermediate (Grade 8) and Advanced (Grade 9) level (Jamaica's teacher curriculum guide, evidence only).
+48. **The Rules of Baseball and Softball** (`ball-games/the-rules-of-baseball-and-softball`) — the rules of baseball and softball: the diamond, positions and how the games run — taught in Jamaica's Grades 7–9 NSC PE Guide as Baseball/Softball at Development (Grade 7), Intermediate (Grade 8) and Advanced (Grade 9) level (Jamaica's teacher curriculum guide, evidence only).
 
 ## Unit 6 — Games to Play
 

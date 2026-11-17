@@ -414,3 +414,10 @@ Boxing Out**
 and **Traditional Games of Vietnam**
 (`traditional-games-and-dances/traditional-games-of-vietnam`)
 — 4 new lessons, bringing this course to 231 lessons.
+
+The PE expansion then added: **The Rules of
+Cricket** (`ball-games/the-rules-of-cricket`), **The
+Rules of Hockey** (`ball-games/the-rules-of-hockey`)
+and **The Rules of Baseball and Softball**
+(`ball-games/the-rules-of-baseball-and-softball`)
+— 3 new lessons, bringing this course to 234 lessons.
