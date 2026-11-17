@@ -183,13 +183,71 @@ record — the file held under that record is
 byte-identical to the Grade 9 book, so the real Grade 6
 Term 2 book is UNREAD, a library debt to re-source.
 
-**Course totals: 38 lessons** — Technical Drawing 17 lessons
+## Malta, Graphical Communication workbooks (T&D expansion, stocked 2026-11-17)
+
+Stocked from Malta's *Design and Technology — Graphical
+Communication Component* workbooks 1 and 2 ("Communicate
+Graphically") — Directorate for Quality and Standards in
+Education, Curriculum Management Department, Malta, 2015,
+designed by Michael Mallia (Education Officer, Graphical
+Communication): Workbook 1 (Year 7, 20 PDF pp., read
+COMPLETE) and Workbook 2 (Year 8, 22 PDF pp., read
+COMPLETE). These workbooks are the Graphical Communication
+component of Malta's Design and Technology subject — the
+part that teaches technical drawing. Of the 15 placements,
+9 were NEW LESSON NEEDED (each resolved through the T&D
+slug registry to its canonical lesson and built new) and
+6 stocked into existing Technical Drawing lessons. Malta
+counts in the acceptance count (student workbooks, not
+evidence-only): every lesson below stands at taught in
+1 country (Malta); the four existing lessons also keep
+their Ethiopia teacher-guide evidence, counted nowhere.
+
+- **Technical Drawing** (6 new lessons, 13 questions
+  each): Technical lettering (Workbook 1, printed p. 2);
+  Line types on drawings (Workbook 1, printed p. 4);
+  Geometrical constructions (Workbook 1, printed p. 8);
+  Preparing a project's working drawings (Workbook 2,
+  printed p. 10); Tessellation (Workbook 2, printed
+  p. 16); Recognising geometric solids (Workbook 2,
+  printed p. 20).
+- **Workshop and Safety** (1 new lesson, 13 questions):
+  Measuring and marking out (Workbook 1, printed p. 6).
+- **Electricity and Electronics** (2 new lessons,
+  13 questions each): Electrical/electronic circuit
+  diagrams and symbols (Workbook 2, printed p. 8);
+  Soldering electronic components (Workbook 2, printed
+  p. 14).
+- **Existing Technical Drawing lessons stocked from
+  Malta** (6 placements): Surface development — flat
+  sheets that become things (Workbook 1, printed p. 5;
+  Workbook 2, printed p. 18); Pictorial sketching —
+  isometric (Workbook 1, printed p. 12; Workbook 2,
+  printed p. 2); Orthographic projection basics
+  (Workbook 2, printed p. 6); Size and location
+  dimensions (Workbook 2, printed p. 12).
+
+Malta's own way is content and is carried in each lesson's
+sources: technical drawing is taught as the Graphical
+Communication component of Design and Technology, through
+graded workbooks — a worked example to copy, then graded
+practice on grids and in the spaces provided, closed by an
+"I can" self-check page (assessment-only, not placed).
+
+Placements at
+liqlearns-courses-work/expansion-td-2026-11-17/malta-placements.md.
+
+**Course totals: 47 lessons** — Technical Drawing 17 lessons
 (Ethiopia, teacher-guide evidence) plus the 7 Canada lessons
 above (First Steps 3, Mechanisms and Machines 1, Electrical
 Installations and the Home 1, Textiles and Fashion 1,
 Radiography Technology 1) plus the 7 Finland lessons above
 (Materials 2, Textiles and Fashion 5) plus the 7 Kuwait
-lessons above (Models and Robotics 6, Design and Making 1).
+lessons above (Models and Robotics 6, Design and Making 1)
+plus the 9 Malta lessons above (Technical Drawing 6,
+Workshop and Safety 1, Electricity and Electronics 2);
+Malta also stocked 6 placements into 4 existing Technical
+Drawing lessons.
 
 - **Coverage-audit fix pass (2026-11-12)** — the placement-coverage
   audit found 17 of 19 placements stocked; the fix build closed
