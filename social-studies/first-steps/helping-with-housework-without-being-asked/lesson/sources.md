@@ -1,0 +1,16 @@
+# Sources — Helping with Housework Without Being Asked
+
+countries: Cuba
+
+**Book 1:** *El mundo en que vivimos — tercer grado* (student book, Spanish) — Title as printed: El mundo en que vivimos — tercer grado. Grade: Grade 3 (student/teacher: STUDENT). Publisher: Editorial Pueblo y Educación (MINED's publisher; authors M. Sc. Neris Esther Domínguez Oliva, Rosario Leal Arroyo, Zoila Ester Durán Aulet, Alfonso Cok Carballo, Zoraida Almerall Rueda, Addys Ramos Hernández); year: no year printed in the file; ISBN: no ISBN printed in the file. PDF pages: 258 (cover verified: title and grade as printed, school scene with Cuban flag). LIBRARY DEBT: the record says this book is pushed in GitHub, but grab.py tree returned HTTP 404 — a phantom push; the book was read instead from its recorded source (biblioteca.cubaeduca.cu) and the staged copy is listed in the group log. Earlier waves: the geography-wave Cuba file filed the MINED "Programa" documents RECORD-ONLY; no earlier wave placed any of these books' civics/SS strands. Verdict: COMPLETE for the remaining strands — contents mapped first, then every remaining-strand part read in full (Presentación pp. 1–5; Unidad 4 "Comportamiento social" pp. 236–241). Named-not-placed: Unidad 2 El Sol, la Tierra, la Luna, el aire, el agua y el suelo (Science); Unidad 3 Los seres vivos incl. the human body, table manners and pregnancy care (Science/Health); Unidad 4's province survey — coasts, relief, rivers, the 15 provinces and special municipality (Geography); the efemérides and Moncada/Fidel content (History); Glosario p. 243 (inventory only). Contents map: Presentación — Las brigadas protectoras de la naturaleza pp. 1–5 (Civics — care of shared places); Unidad 1 Descubriendo el mundo en que vivimos pp. 6–48 (Science, with humans' transformation of nature and responsible behaviour towards it); Unidad 2 pp. 49–97 (Science); Unidad 3 Los seres vivos pp. 98–150 (Science/Health); Unidad 4 ¡Cuba qué linda es! pp. 151–241 (Geography/History, closing chapter Comportamiento social pp. 236–241 = Civics — social behaviour, symbols, transport and traffic, care of the home place). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/cuba-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — first-steps/helping-with-housework-without-being-asked — Unidad 4: Comportamiento social — teaches: helping at home is an important task for your family — putting school materials and your uniform in their place when you arrive keeps the house clean and beautiful — Cuba Grade 3 El mundo en que vivimos, printed p. 236 | Cuba, *El mundo en que vivimos — tercer grado* (student book), Unidad 4: Comportamiento social — printed p. 236 |
+| Sub lesson 2 — Cuba's way — the book's own teaching way | Cuba — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Cuba).**
+
+Cuba's own way: Third-graders join Nature Protection Brigades — organised pioneer groups that clean and care for the classroom, school and community — and the book's closing civics chapter binds courtesy, the patriotic symbols and the traffic law into one code of “comportamiento social”.
+
+Searchable tags: helping with housework without being asked, Cuba, social studies, first-steps
