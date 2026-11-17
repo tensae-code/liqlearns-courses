@@ -1,8 +1,8 @@
 # Sources — Table Tennis
 
-countries: Pakistan, China
+countries: Pakistan, China, Mauritius
 
-**Acceptance count: taught in 2 countries (Pakistan, China).** Pakistan is student-book stock (see its rows below), inside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count.
+**Acceptance count: taught in 3 countries (Pakistan, China, Mauritius).** Pakistan is student-book stock (see its rows below), inside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count.
 
 ## Pakistan — PE expansion 2026-11-16
 
@@ -44,5 +44,39 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/china-pe-pla
 | China — table tennis: the game, its techniques and how a match is played (original target `ball-games/table-tennis`) | China, *China Senior High PEP PE & Health*, 第八章 第四节 乒乓球, printed p. 148 |
 
 China's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. China's own way is content, as the book line above records it: one compulsory combined volume for all senior-high students built around three core competencies (movement ability, healthy behaviour, sporting character), with traditional Chinese content (wushu, Taijiquan, folk sports, health-keeping qigong sets) beside Olympic and world sport. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Mauritius — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/mauritius-pe-placements.md. The Mauritius books stocked in this lesson are Book 3, Book 5 — student books, as filed in the placements file: Mauritius is student-book stock, inside the acceptance count, in this lesson. Book 3's Theory section Drugs chapter (printed pp. 162–166) is Health teaching, filed in the Mauritius Health placements file and placed in the Health course, not here. Book 5's theory units (Unit 1 Injuries, Unit 2 Respiratory System, Unit 3 Circulatory System, Unit 5 Health, Diet and Fitness) are Health teaching, filed in the Mauritius Health placements file as Book 4 and placed in the Health course, not here.
+
+**Book — Mauritius Grade 8 PE Pupil's Book (student book):**
+## Book 3 — PE Grade 8 Pupil's Book (student book, English)
+- Title as printed: Physical Education Grade 8
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Mauritius Institute of Education (MIE); year 2018 (2019 reprint series); ISBN 978-99949-44-67-5
+- PDF pages: read as FlipHTML5 flipbook, printed pp. i–iii + 1–166 (cover/title page verified against the record title)
+- Verdict: COMPLETE — the Theory section's Drugs chapter (printed pp. 162–166) is Health teaching and is filed in the Mauritius Health placements file as Book 5; the rest is filed here
+- Tally: 18 placements — 14 to existing lessons, 4 NEW LESSON NEEDED
+- Mauritius's own way: eight practical units (one sport each, taught skill-by-skill with "Let's do it" drills and challenges) plus a Theory section (fitness, major sporting events, the muscular system, drugs) — a school must do at least one sport from each of the three themes: Alternative Activities, Net/Ball Activities, Outdoor and Athletics Activities.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritius — Unit 7 Table Tennis — grip, strokes and play basics (original target `ball-games/table-tennis-basics`) | Mauritius Grade 8 PE Pupil's Book, printed p. 113 |
+
+**Book — Mauritius Grade 9 PE Pupil's Book (student book):**
+## Book 5 — PE Grade 9 Pupil's Book (student book, English)
+- Title as printed: Physical Education Grade 9 (REPRINT 2021)
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Mauritius Institute of Education (MIE); year 2021; ISBN 978-99949-53-91-2
+- PDF pages: read as FlipHTML5 flipbook, printed pp. i–v + 1–123 (cover/title page verified against the record title)
+- Verdict: COMPLETE — the theory units (Unit 1 Injuries, Unit 2 Respiratory System, Unit 3 Circulatory System, Unit 5 Health, Diet and Fitness) are Health teaching and are filed in the Mauritius Health placements file as Book 4; the practical units and Unit 4/Unit 6 are filed here
+- Tally: 14 placements — 10 to existing lessons, 4 NEW LESSON NEEDED
+- Mauritius's own way: theory and practical units alternate — body systems and health first, then one sport per unit at greater depth (football volleys and goalkeeping, basketball defence and the pick-and-roll, swimming starts and tumble turns, athletics from baton exchange to cross country over Mauritian sugarcane-field courses).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritius — Unit 12 Table Tennis — ready position and footwork (in-and-out, chasse steps), playing down the line, the backhand serve and spin (original target `ball-games/table-tennis-basics`) | Mauritius Grade 9 PE Pupil's Book, printed p. 89 |
+
+Mauritius's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Mauritius's own way is content, as the book lines above record it: Book 3: eight practical units (one sport each, taught skill-by-skill with “Let's do it” drills and challenges) plus a Theory section (fitness, major sporting events, the muscular system, drugs) — a school must do at least one sport from each of the three themes: Alternative Activities, Net/Ball Activities, Outdoor and Athletics Activities; Book 5: theory and practical units alternate — body systems and health first, then one sport per unit at greater depth (football volleys and goalkeeping, basketball defence and the pick-and-roll, swimming starts and tumble turns, athletics from baton exchange to cross country over Mauritian sugarcane-field courses). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: table tennis, Pakistan Grade 7 Sehat-o-Jismani Taleem

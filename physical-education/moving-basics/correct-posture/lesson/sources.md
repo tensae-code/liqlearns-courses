@@ -1,8 +1,8 @@
 # Sources — Correct Posture
 
-countries: Pakistan, China, El Salvador, Philippines, Azerbaijan
+countries: Pakistan, China, El Salvador, Philippines, Azerbaijan, Mauritius
 
-**Acceptance count: taught in 4 countries (Pakistan, China, Philippines, Azerbaijan).** Pakistan is student-book stock (see its rows below), inside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count.
+**Acceptance count: taught in 5 countries (Pakistan, China, Philippines, Azerbaijan, Mauritius).** Pakistan is student-book stock (see its rows below), inside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count.
 
 ## Pakistan — PE expansion 2026-11-16
 
@@ -112,5 +112,25 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/azerbaijan-p
 | Azerbaijan — Part I: Proportionality of Body Build and Ways of Forming It (original target `fitness-and-stretching/body-proportions-and-posture`) | Azerbaijan, *Fiziki Tərbiyə 9*, printed p. 37 |
 
 Azerbaijan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Azerbaijan's own way is content, as the book lines above record it: a theory-first course — knowing and managing your own body, the movement abilities taught one by one, then the basic sports, then independent work the pupil runs alone, with Azerbaijan's own sport story (its Olympic successes, its Rio 2016 athletes, and holding the first European Games) taught as national content. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Mauritius — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/mauritius-pe-placements.md. The Mauritius books stocked in this lesson are Book 5 — student books, as filed in the placements file: Mauritius is student-book stock, inside the acceptance count, in this lesson. Book 5's theory units (Unit 1 Injuries, Unit 2 Respiratory System, Unit 3 Circulatory System, Unit 5 Health, Diet and Fitness) are Health teaching, filed in the Mauritius Health placements file as Book 4 and placed in the Health course, not here.
+
+**Book — Mauritius Grade 9 PE Pupil's Book (student book):**
+## Book 5 — PE Grade 9 Pupil's Book (student book, English)
+- Title as printed: Physical Education Grade 9 (REPRINT 2021)
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Mauritius Institute of Education (MIE); year 2021; ISBN 978-99949-53-91-2
+- PDF pages: read as FlipHTML5 flipbook, printed pp. i–v + 1–123 (cover/title page verified against the record title)
+- Verdict: COMPLETE — the theory units (Unit 1 Injuries, Unit 2 Respiratory System, Unit 3 Circulatory System, Unit 5 Health, Diet and Fitness) are Health teaching and are filed in the Mauritius Health placements file as Book 4; the practical units and Unit 4/Unit 6 are filed here
+- Tally: 14 placements — 10 to existing lessons, 4 NEW LESSON NEEDED
+- Mauritius's own way: theory and practical units alternate — body systems and health first, then one sport per unit at greater depth (football volleys and goalkeeping, basketball defence and the pick-and-roll, swimming starts and tumble turns, athletics from baton exchange to cross country over Mauritian sugarcane-field courses).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritius — Unit 4 Good Body Mechanics — how we hold and move the body in walking and running, and how good mechanics prevent injury and improve performance (original target `fitness-and-stretching/good-body-mechanics-and-posture`) | Mauritius Grade 9 PE Pupil's Book, printed p. 21 |
+
+Mauritius's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Mauritius's own way is content, as the book lines above record it: Book 5: theory and practical units alternate — body systems and health first, then one sport per unit at greater depth (football volleys and goalkeeping, basketball defence and the pick-and-roll, swimming starts and tumble turns, athletics from baton exchange to cross country over Mauritian sugarcane-field courses). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: correct posture, posture, faulty posture, درست قامت, Pakistan Grade 6 Sehat-o-Jismani Taleem

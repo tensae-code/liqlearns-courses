@@ -1,6 +1,6 @@
 # Sources — Balance and Calisthenics
 
-countries: Ethiopia, Kazakhstan, Afghanistan, El Salvador, Philippines, Nicaragua, Maldives, Belize, Honduras, Fiji
+countries: Ethiopia, Kazakhstan, Afghanistan, El Salvador, Philippines, Nicaragua, Maldives, Belize, Honduras, Fiji, Mauritius
 
 **Book — Grade 1 student:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 81 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md. COMPLETE.
 
@@ -19,7 +19,7 @@ countries: Ethiopia, Kazakhstan, Afghanistan, El Salvador, Philippines, Nicaragu
 | Free gymnastics and balance — Grade 5 | Ethiopia, Grade 5 student §5.2.1, printed pp. 66–68 |
 
 | Kazakhstan — All quarters — general developing exercises (ОРУ) on the spot and in movement, without objects and with objects, opening the lesson work (teacher guide — evidence) (original target `gymnastics/balance-and-calisthenics`) | Kazakhstan, *Physical Culture, Methodological Guide for Grade 4 Teachers* (Kazakhstan Grade 4 TG), printed pp. 4–5, 20, 48 |
-**Acceptance count: taught in 3 countries (Ethiopia, Philippines, Nicaragua).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as teacher-guide evidence only (see its Honduras section below), named in the countries line but outside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 4 countries (Ethiopia, Philippines, Nicaragua, Mauritius).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as teacher-guide evidence only (see its Honduras section below), named in the countries line but outside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count; the Mauritius teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
 
 Student books Grades 1–4 are complete. No page is claimed that the placements do not give. Dance and game rules are taught only as the placements summarise them; no rules have been invented for any game the placements leave game-dependent.
 
@@ -188,6 +188,47 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-pe-
 | Maldives — Unit IV, Lesson 12: Educational Gymnastics — balance and body control in gymnastics movements (original target `gymnastics/balance-and-calisthenics`) | Maldives, *Exploring H&PE 8 TG*, printed pp. 218–232 |
 
 Maldives's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Maldives's own way is content, as the book lines above record it: one combined Health & PE course per grade built on the national syllabus strands, with swimming and water survival built in from Grade 1 — an island nation's syllabus — the PE side moving from a fitness unit in the early grades through fundamental movement skills, educational gymnastics and timed survival swimming, to movement skills, athletics and the big game families (territorial, net/wall and striking-and-fielding) in Key Stage 3. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Mauritius — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/mauritius-pe-placements.md. The Mauritius books stocked in this lesson are Book 1, Book 6. Books 1, 3 and 5 are student books and Books 2, 4 and 6 are teacher guides/educator's books, as filed in the placements file: Mauritius is student-book stock, inside the acceptance count, in this lesson, and the Mauritius teacher guides stocked here are filed as teacher-guide evidence only, outside the acceptance count. Book 6's Health Education lessons (printed pp. 1–15) are filed in the Mauritius Health placements file as Book 6 and placed in the Health course, not here; Part 1 of the educator's book is not among the group's records, as filed.
+
+**Book — Mauritius Grade 2 HPE Pupil's Book (student book):**
+## Book 1 — HPE Grade 2 Pupil's Book (student book, English)
+- Title as printed: Health and Physical Education (HPE) Grade 2 Pupil's Book
+- Grade: Grade 2 (student/teacher: STUDENT)
+- Publisher: Mauritius Institute of Education (MIE); year 2017; ISBN 978-99949-40-15-8
+- PDF pages: read as FlipHTML5 flipbook, 98 flip pages, printed pp. i–88 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 16 placements — 16 to existing lessons, 0 NEW LESSON NEEDED
+- Mauritius's own way: every lesson pairs a Health part (a) with a PE part (b) in one sitting; PE is taught as balances on named body parts, sending/receiving with balls and bean bags, and locomotion, each with warm-up and cool-down built in.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritius — Unit 1 Lesson 1(b) Balance on small parts of the body — balancing on one foot, then on feet and arms, holding body-letter shapes (original target `gymnastics/balance-and-calisthenics`) | Mauritius Grade 2 HPE Pupil's Book, printed p. 3 |
+| Mauritius — Unit 1 Lesson 2(b) Balance on large parts of the body — balancing on the back and on the belly, making shapes with legs and arms (original target `gymnastics/balance-and-calisthenics`) | Mauritius Grade 2 HPE Pupil's Book, printed p. 9 |
+| Mauritius — Unit 2 Lesson 1(b) Balance on various parts — balancing on arms and feet face-down and on knees and feet (original target `gymnastics/balance-and-calisthenics`) | Mauritius Grade 2 HPE Pupil's Book, printed p. 36 |
+| Mauritius — Unit 2 Lesson 2(b) Balance on various parts — balancing on the back holding the legs and on the bottom touching toes to hands (original target `gymnastics/balance-and-calisthenics`) | Mauritius Grade 2 HPE Pupil's Book, printed p. 39 |
+| Mauritius — Unit 3 Lesson 1(b) Balance on various parts — balancing on the shoulders and making a bridge on feet and arms (original target `gymnastics/balance-and-calisthenics`) | Mauritius Grade 2 HPE Pupil's Book, printed p. 70 |
+| Mauritius — Unit 3 Lesson 5(c) Good postures — recognising safe practices and good standing/sitting posture (original target `gymnastics/balance-and-calisthenics`) | Mauritius Grade 2 HPE Pupil's Book, printed p. 86 |
+
+**Book — Mauritius Grade 1 HPE Educator's Book Part 2 (teacher guide):**
+## Book 6 — HPE Grade 1 Educator's Book, Part 2 — PE part (teacher guide, English)
+- Title as printed: Health & Physical Education, Grade 1, Educator's Book, Part 2
+- Grade: Grade 1 (student/teacher: TEACHER)
+- Publisher: Mauritius Institute of Education (MIE); year 2022; ISBN 978-99949-61-93-1
+- PDF pages: read as FlipHTML5 flipbook (cover/title page verified against the record title)
+- Verdict: COMPLETE for Part 2 as published — this record was tagged Health-only, but the book itself is the combined HPE educator's book: its Health Education lessons (printed pp. 1–15) are filed in the Mauritius Health placements file as Book 6, and its Physical Education lessons (printed pp. 16–57) are filed here. Part 1 of the educator's book is not among this group's records.
+- Tally: 20 placements — 19 to existing lessons, 1 NEW LESSON NEEDED
+- Mauritius's own way: PE is taught as two themes — People Around Me (coordination, balance, strength through body control) and My Country: Care for the Environment (locomotion outdoors, ending in orienteering) — with Health integrated into the same lessons.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritius — People Around Me Lesson 5 Static Balance — holding a balance still (teacher guide — evidence) (original target `gymnastics/balance-and-calisthenics`) | Mauritius Grade 1 HPE Educator's Book Part 2, printed p. 24 |
+| Mauritius — People Around Me Lesson 6 Dynamic Balance — keeping balance while moving (teacher guide — evidence) (original target `gymnastics/balance-and-calisthenics`) | Mauritius Grade 1 HPE Educator's Book Part 2, printed p. 26 |
+| Mauritius — People Around Me Lesson 7 Balance Objects on Different Body Parts — balancing objects on the head, hands and other body parts (teacher guide — evidence) (original target `gymnastics/balance-and-calisthenics`) | Mauritius Grade 1 HPE Educator's Book Part 2, printed p. 28 |
+
+Mauritius's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Mauritius's own way is content, as the book lines above record it: Book 1: every lesson pairs a Health part (a) with a PE part (b) in one sitting; PE is taught as balances on named body parts, sending/receiving with balls and bean bags, and locomotion, each with warm-up and cool-down built in; Book 6: PE is taught as two themes — People Around Me (coordination, balance, strength through body control) and My Country: Care for the Environment (locomotion outdoors, ending in orienteering) — with Health integrated into the same lessons. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: balance and calisthenics, what balance is, calisthenics — arms and shoulders, calisthenics — legs, combined gymnastics movements, physical education, Ethiopia
 

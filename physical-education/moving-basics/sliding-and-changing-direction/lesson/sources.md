@@ -1,6 +1,6 @@
 # Sources — Sliding and Changing Direction
 
-countries: Ethiopia, Thailand, Philippines, Nicaragua, Belize, Fiji
+countries: Ethiopia, Thailand, Philippines, Nicaragua, Belize, Fiji, Mauritius
 
 **Book — Grade 1 student:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 81 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md. COMPLETE.
 
@@ -23,7 +23,7 @@ countries: Ethiopia, Thailand, Philippines, Nicaragua, Belize, Fiji
 | Change direction, roll to the target, obstacle walking (teacher guide — evidence) | Ethiopia, Grade 3 teacher §1.1 Tasks 1–3 (teacher guide — evidence), printed pp. 2–5 |
 | Thailand — Unit 7 (part 3) Step-close step — the ก้าวชิดก้าว (step-together-step) side movement and its posture (student book — MAC sample, PARTIAL) (original target `moving-basics/sliding-and-changing-direction`) | Thailand, *Health & PE, Grade 2* (Thailand Grade 2 MAC Health & PE), Unit 7 (part 3), printed pp. 128–130 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Thailand, Philippines).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 3 countries (Ethiopia, Thailand, Philippines).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Mauritius is added as teacher-guide evidence only (see its Mauritius section below), named in the countries line but outside the acceptance count.
 
 The Grade 3 teacher guide scan is TRUNCATED: it holds printed pp. 1–52 of 89+. Missing: §4.1 (p. 53), §4.2 (p. 57), §4.3 (p. 62), §4.4 (p. 65), all of Chapter 5 Gymnastics (pp. 69–84) and all of Chapter 6 (pp. 85–89+). Chapter 4 is present as its introduction page (printed p. 52) only. Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
 
@@ -84,6 +84,26 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/nicaragua-pe
 | Nicaragua — Unidad II, Contenido 5 Desplazamiento — moving in space, turns (giros) and sudden changes of direction (original target `moving-basics/sliding-and-changing-direction`) | Nicaragua Grade 2 Manual Metodológico, printed p. 52 |
 
 Nicaragua's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Nicaragua's own way is content, as the book lines above record it: PE taught in 45-minute periods twice weekly, every exercise and game introduced by its practical use in daily life, values, hygiene checks and the one-minute "fisminuto" movement break built into the method, chess taught as a PE unit with a cut-out board and pieces the class makes itself, and traditional and pre-sport games played with improvised local materials (rag-ball baseball, street football). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Mauritius — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/mauritius-pe-placements.md. The Mauritius books stocked in this lesson are Book 6 — teacher guides/educator's books, as filed in the placements file: Mauritius is therefore filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. Book 6's Health Education lessons (printed pp. 1–15) are filed in the Mauritius Health placements file as Book 6 and placed in the Health course, not here; Part 1 of the educator's book is not among the group's records, as filed.
+
+**Book — Mauritius Grade 1 HPE Educator's Book Part 2 (teacher guide):**
+## Book 6 — HPE Grade 1 Educator's Book, Part 2 — PE part (teacher guide, English)
+- Title as printed: Health & Physical Education, Grade 1, Educator's Book, Part 2
+- Grade: Grade 1 (student/teacher: TEACHER)
+- Publisher: Mauritius Institute of Education (MIE); year 2022; ISBN 978-99949-61-93-1
+- PDF pages: read as FlipHTML5 flipbook (cover/title page verified against the record title)
+- Verdict: COMPLETE for Part 2 as published — this record was tagged Health-only, but the book itself is the combined HPE educator's book: its Health Education lessons (printed pp. 1–15) are filed in the Mauritius Health placements file as Book 6, and its Physical Education lessons (printed pp. 16–57) are filed here. Part 1 of the educator's book is not among this group's records.
+- Tally: 20 placements — 19 to existing lessons, 1 NEW LESSON NEEDED
+- Mauritius's own way: PE is taught as two themes — People Around Me (coordination, balance, strength through body control) and My Country: Care for the Environment (locomotion outdoors, ending in orienteering) — with Health integrated into the same lessons.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritius — My Country Lesson 8 Moving Around in Specific Directions — travelling and changing direction on cue (teacher guide — evidence) (original target `moving-basics/sliding-and-changing-direction`) | Mauritius Grade 1 HPE Educator's Book Part 2, printed p. 52 |
+
+Mauritius's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Mauritius's own way is content, as the book lines above record it: Book 6: PE is taught as two themes — People Around Me (coordination, balance, strength through body control) and My Country: Care for the Environment (locomotion outdoors, ending in orienteering) — with Health integrated into the same lessons. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: sliding and changing direction, sliding sideways, changing direction on shapes, changing direction at speed, combined, turning at the cones (teacher guide — evidence), combined fundamental movement skill የተቀናጀ መሠረታዊ የእንቅስቃሴ ክህሎት, changing direction አቅጣጫን በመቀየር ጠብ ጠብ ማለት, roll to the target ግልቢያ, obstacle walking በመስናክል መራመድ, wheelchair inclusion, physical education, Ethiopia
 

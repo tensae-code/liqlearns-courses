@@ -1,6 +1,6 @@
 # Sources — Kicking, Passing and Dribbling
 
-countries: Ethiopia, Kazakhstan, Tajikistan, Timor-Leste, Pakistan, China, El Salvador, Azerbaijan, Maldives, Belize, Honduras
+countries: Ethiopia, Kazakhstan, Tajikistan, Timor-Leste, Pakistan, China, El Salvador, Azerbaijan, Maldives, Belize, Honduras, Mauritius
 
 **Book — Grade 1 student:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 81 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md. COMPLETE.
 
@@ -51,7 +51,7 @@ countries: Ethiopia, Kazakhstan, Tajikistan, Timor-Leste, Pakistan, China, El Sa
 | Kazakhstan — Quarter 1, football elements — dribbling the ball with the inside and outside of the instep, kicking the ball, and stopping a rolling ball (teacher guide — evidence) (original target `ball-games/kicking-passing-and-dribbling`) | Kazakhstan, *Physical Culture, Methodological Guide for Grade 4 Teachers* (Kazakhstan Grade 4 TG), printed p. 5 |
 | Tajikistan — Part 2, Mini-Football — learning mini-football technique at the first stage, passing the ball with running, and the game "Score a Goal" (Забей гол) (original target `ball-games/kicking-passing-and-dribbling`) | Tajikistan, *Fizicheskaya Kultura (Physical Culture), Grades 1–4*, Part 2, printed pp. ~128–140 |
 | Timor-Leste — Appendix 4: Football/Futsal — basic rules (goalkeeper's hands, fouls, throw-ins, corners) and football games and activities (teacher guide — evidence) (original target `ball-games/kicking-passing-and-dribbling`) | Timor-Leste, *Educação Física 7, Guia do Professor* (Timor-Leste Grade 7 Teacher Guide), printed p. 157 |
-**Acceptance count: taught in 6 countries (Ethiopia, Tajikistan, Pakistan, China, Azerbaijan, Honduras).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Timor-Leste is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
+**Acceptance count: taught in 7 countries (Ethiopia, Tajikistan, Pakistan, China, Azerbaijan, Honduras, Mauritius).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Timor-Leste is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count; the Mauritius teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
 
 The Grade 4 teacher guide scan is TRUNCATED: it holds printed pp. 1–39 of 72+. Missing: all of Chapter 4 (pp. 40–54), Chapter 5 Gymnastics (pp. 55–65) and Chapter 6 (pp. 66–72+). Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
 
@@ -239,6 +239,87 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-pe-
 | Maldives — Unit IV, Lesson 14: Fundamental Movement Skills — a variety of kicks used against defenders, with increased velocity and accuracy (football) (original target `ball-games/kicking-passing-and-dribbling`) | Maldives, *Exploring H&PE 6 TG*, printed pp. 149–161 |
 
 Maldives's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Maldives's own way is content, as the book lines above record it: one combined Health & PE course per grade built on the national syllabus strands, with swimming and water survival built in from Grade 1 — an island nation's syllabus — the PE side moving from a fitness unit in the early grades through fundamental movement skills, educational gymnastics and timed survival swimming, to movement skills, athletics and the big game families (territorial, net/wall and striking-and-fielding) in Key Stage 3. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Mauritius — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/mauritius-pe-placements.md. The Mauritius books stocked in this lesson are Book 1, Book 2, Book 3, Book 4, Book 5. Books 1, 3 and 5 are student books and Books 2, 4 and 6 are teacher guides/educator's books, as filed in the placements file: Mauritius is student-book stock, inside the acceptance count, in this lesson, and the Mauritius teacher guides stocked here are filed as teacher-guide evidence only, outside the acceptance count. Book 2's Part A (Health Education, printed pp. 1–62) is filed in the Mauritius Health placements file and placed in the Health course, not here; its Appendix of websites (printed pp. 107–108) is inventory-only, not placed, as filed. Book 3's Theory section Drugs chapter (printed pp. 162–166) is Health teaching, filed in the Mauritius Health placements file and placed in the Health course, not here. Book 4's Assessment Grid (printed p. 36) is the book's own assessment apparatus, excluded per the brief, as filed. Book 5's theory units (Unit 1 Injuries, Unit 2 Respiratory System, Unit 3 Circulatory System, Unit 5 Health, Diet and Fitness) are Health teaching, filed in the Mauritius Health placements file as Book 4 and placed in the Health course, not here.
+
+**Book — Mauritius Grade 2 HPE Pupil's Book (student book):**
+## Book 1 — HPE Grade 2 Pupil's Book (student book, English)
+- Title as printed: Health and Physical Education (HPE) Grade 2 Pupil's Book
+- Grade: Grade 2 (student/teacher: STUDENT)
+- Publisher: Mauritius Institute of Education (MIE); year 2017; ISBN 978-99949-40-15-8
+- PDF pages: read as FlipHTML5 flipbook, 98 flip pages, printed pp. i–88 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 16 placements — 16 to existing lessons, 0 NEW LESSON NEEDED
+- Mauritius's own way: every lesson pairs a Health part (a) with a PE part (b) in one sitting; PE is taught as balances on named body parts, sending/receiving with balls and bean bags, and locomotion, each with warm-up and cool-down built in.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritius — Unit 1 Lesson 4(b) Sending and receiving with the foot — kicking to a partner and kicking at a target between cones (original target `ball-games/kicking-passing-and-dribbling`) | Mauritius Grade 2 HPE Pupil's Book, printed p. 20 |
+| Mauritius — Unit 2 Lesson 4(b) Sending and receiving — kicking to a partner and dribbling (carrying the ball with the foot) (original target `ball-games/kicking-passing-and-dribbling`) | Mauritius Grade 2 HPE Pupil's Book, printed p. 47 |
+| Mauritius — Unit 3 Lesson 3(b) Sending and receiving — dribbling and trapping (stopping) the ball and passing while moving (original target `ball-games/kicking-passing-and-dribbling`) | Mauritius Grade 2 HPE Pupil's Book, printed p. 78 |
+
+**Book — Mauritius Grade 6 HPE Teacher's Book (teacher guide):**
+## Book 2 — HPE Grade 6 Teacher's Book (teacher guide, English)
+- Title as printed: Health and Physical Education Grade 6 Teacher's Book
+- Grade: Grade 6 (student/teacher: TEACHER)
+- Publisher: Mauritius Institute of Education (MIE); year 2017; ISBN 978-99949-44-09-5
+- PDF pages: read as FlipHTML5 flipbook (mirror upload by Jahidul Alam; title page, panel and ISBN verified as the MIE book), 116 flip pages, printed pp. i–108 (cover/title page verified against the record title)
+- Verdict: COMPLETE — Part A (Health Education, printed pp. 1–62) is filed in the Mauritius Health placements file; Part B (Physical Education, printed pp. 63–106) is filed here; Appendix of websites (printed pp. 107–108) is inventory-only, not placed
+- Tally: 18 placements — 15 to existing lessons, 3 NEW LESSON NEEDED
+- Mauritius's own way: PE is organised as Kids Athletics, Health Related Fitness, Manipulative Skills (mini handball and mini football taught as dribble–defend–league tournament) and Supplementary Lessons (yoga and circuit training); every lesson runs warm-up, main activity, game situation and cool-down.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritius — Part B Unit 3 Lesson 3.4 Football: Dribbling — follow-the-leader dribbling between cones and dodging past a cone with the ball (teacher guide — evidence) (original target `ball-games/kicking-passing-and-dribbling`) | Mauritius Grade 6 HPE Teacher's Book, printed p. 89 |
+
+**Book — Mauritius Grade 8 PE Pupil's Book (student book):**
+## Book 3 — PE Grade 8 Pupil's Book (student book, English)
+- Title as printed: Physical Education Grade 8
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Mauritius Institute of Education (MIE); year 2018 (2019 reprint series); ISBN 978-99949-44-67-5
+- PDF pages: read as FlipHTML5 flipbook, printed pp. i–iii + 1–166 (cover/title page verified against the record title)
+- Verdict: COMPLETE — the Theory section's Drugs chapter (printed pp. 162–166) is Health teaching and is filed in the Mauritius Health placements file as Book 5; the rest is filed here
+- Tally: 18 placements — 14 to existing lessons, 4 NEW LESSON NEEDED
+- Mauritius's own way: eight practical units (one sport each, taught skill-by-skill with "Let's do it" drills and challenges) plus a Theory section (fitness, major sporting events, the muscular system, drugs) — a school must do at least one sport from each of the three themes: Alternative Activities, Net/Ball Activities, Outdoor and Athletics Activities.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritius — Unit 4 Football: Ball Control and Passing — juggling (foot, thigh, head), receiving with thigh and chest, lofted kick, chip pass and push pass (original target `ball-games/kicking-passing-and-dribbling`) | Mauritius Grade 8 PE Pupil's Book, printed p. 55 |
+
+**Book — Mauritius PE Extended Grade 7 Part 1 Educator's Book (teacher guide):**
+## Book 4 — PE Extended Programme Grade 7, Part 1, Educator's Book (teacher guide, English)
+- Title as printed: Grade 7 Extended Programme (Foundation) — Physical Education, Part 1, Educator's Book
+- Grade: Grade 7 Extended Programme (student/teacher: TEACHER)
+- Publisher: Mauritius Institute of Education (MIE); year 2018; ISBN 978-99949-44-85-9
+- PDF pages: read as FlipHTML5 flipbook, printed pp. i–v + 1–36 (cover/title page verified against the record title)
+- Verdict: COMPLETE — the Assessment Grid (printed p. 36) is the book's own assessment apparatus, excluded per the brief
+- Tally: 12 placements — 12 to existing lessons, 0 NEW LESSON NEEDED
+- Mauritius's own way: the whole of Part 1 teaches PE through football only, one skill per lesson, with literacy and numeracy woven in (counting studs, passes and pulse beats) for learners progressing at their own pace in the four-year Extended Programme.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritius — Lesson 2 Passing and Ball Control — the inside push pass and controlling the ball, plus football attire (shin guards, studs) (teacher guide — evidence) (original target `ball-games/kicking-passing-and-dribbling`) | Mauritius PE Extended G7 Part 1 Educator's Book, printed p. 4 |
+| Mauritius — Lesson 4 Reaction Time and Thigh Control: Thigh Control — controlling the ball on the thigh (teacher guide — evidence) (original target `ball-games/kicking-passing-and-dribbling`) | Mauritius PE Extended G7 Part 1 Educator's Book, printed p. 13 |
+| Mauritius — Lesson 6 Strength Exercises and Chest Control: Chest Control — receiving and controlling the ball on the chest (teacher guide — evidence) (original target `ball-games/kicking-passing-and-dribbling`) | Mauritius PE Extended G7 Part 1 Educator's Book, printed p. 20 |
+| Mauritius — Lesson 8 Dribbling — travelling with the ball under control (teacher guide — evidence) (original target `ball-games/kicking-passing-and-dribbling`) | Mauritius PE Extended G7 Part 1 Educator's Book, printed p. 28 |
+
+**Book — Mauritius Grade 9 PE Pupil's Book (student book):**
+## Book 5 — PE Grade 9 Pupil's Book (student book, English)
+- Title as printed: Physical Education Grade 9 (REPRINT 2021)
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Mauritius Institute of Education (MIE); year 2021; ISBN 978-99949-53-91-2
+- PDF pages: read as FlipHTML5 flipbook, printed pp. i–v + 1–123 (cover/title page verified against the record title)
+- Verdict: COMPLETE — the theory units (Unit 1 Injuries, Unit 2 Respiratory System, Unit 3 Circulatory System, Unit 5 Health, Diet and Fitness) are Health teaching and are filed in the Mauritius Health placements file as Book 4; the practical units and Unit 4/Unit 6 are filed here
+- Tally: 14 placements — 10 to existing lessons, 4 NEW LESSON NEEDED
+- Mauritius's own way: theory and practical units alternate — body systems and health first, then one sport per unit at greater depth (football volleys and goalkeeping, basketball defence and the pick-and-roll, swimming starts and tumble turns, athletics from baton exchange to cross country over Mauritian sugarcane-field courses).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritius — Unit 7 Football: Travelling with the Ball — dribbling past an opponent with feints at speed (original target `ball-games/kicking-passing-and-dribbling`) | Mauritius Grade 9 PE Pupil's Book, printed p. 43 |
+
+Mauritius's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Mauritius's own way is content, as the book lines above record it: Book 1: every lesson pairs a Health part (a) with a PE part (b) in one sitting; PE is taught as balances on named body parts, sending/receiving with balls and bean bags, and locomotion, each with warm-up and cool-down built in; Book 2: PE is organised as Kids Athletics, Health Related Fitness, Manipulative Skills (mini handball and mini football taught as dribble–defend–league tournament) and Supplementary Lessons (yoga and circuit training); every lesson runs warm-up, main activity, game situation and cool-down; Book 3: eight practical units (one sport each, taught skill-by-skill with “Let's do it” drills and challenges) plus a Theory section (fitness, major sporting events, the muscular system, drugs) — a school must do at least one sport from each of the three themes: Alternative Activities, Net/Ball Activities, Outdoor and Athletics Activities; Book 4: the whole of Part 1 teaches PE through football only, one skill per lesson, with literacy and numeracy woven in (counting studs, passes and pulse beats) for learners progressing at their own pace in the four-year Extended Programme; Book 5: theory and practical units alternate — body systems and health first, then one sport per unit at greater depth (football volleys and goalkeeping, basketball defence and the pick-and-roll, swimming starts and tumble turns, athletics from baton exchange to cross country over Mauritian sugarcane-field courses). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: kicking, passing and dribbling, kicking and passing a ball, ball control with the feet, equipment skills — balls, rings and targets, football dribbling and net ball (teacher guide — evidence), physical education, Ethiopia, Kicking a ball, and up-and-down steps (teacher guide — evidence), Passing the football; hit the target (teacher guide — evidence)
 

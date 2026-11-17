@@ -1,6 +1,6 @@
 # Sources — Sport and Society — Money, Media, Gender, Technology and Jobs
 
-countries: Ethiopia, Cyprus, Namibia, United Kingdom, Afghanistan, Honduras, Fiji
+countries: Ethiopia, Cyprus, Namibia, United Kingdom, Afghanistan, Honduras, Fiji, Mauritius
 
 **Book 1:** *Grade 8 Health and Physical Education Teacher Guide* (teacher guide, English) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. TRUNCATED — worst-truncated of the series: the file holds printed pp. 3–50 of 104+ (54 PDF pages); printed pp. 51–104+ (Chapters 4–7 entire) are missing. Printed page = PDF page − 4 (contents scheme; the guide prints no folios). Read in full from 100 DPI renders (no text layer), in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g08-teacher-placements.md.
 
@@ -33,7 +33,7 @@ countries: Ethiopia, Cyprus, Namibia, United Kingdom, Afghanistan, Honduras, Fij
 | United Kingdom — Component 2 Topic 3.2: Commercialisation of physical activity and sport — sponsorship, the media and the golden triangle in sport (original target `sport-and-its-story/sport-and-society`) | United Kingdom, *Edexcel GCSE (9-1) Physical Education Student Book, 2nd edition* (United Kingdom GCSE Edexcel PE Student Book), Component 2 Topic 3.2, printed p. 168 |
 | United Kingdom — Component 2 Topic 3.3: Ethical and socio-cultural issues in physical activity and sport — sportsmanship and gamesmanship, performance-enhancing drugs, and spectator behaviour including hooliganism (original target `sport-and-its-story/sport-and-society`) | United Kingdom, *Edexcel GCSE (9-1) Physical Education Student Book, 2nd edition* (United Kingdom GCSE Edexcel PE Student Book), Component 2 Topic 3.3, printed p. 172 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Cyprus, United Kingdom, Honduras, Fiji).** Cyprus is added as student-book stock (see its rows above), inside the acceptance count. Namibia is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 2. United Kingdom is added as student-book stock (see its rows above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count.
+**Acceptance count: taught in 6 countries (Ethiopia, Cyprus, United Kingdom, Honduras, Fiji, Mauritius).** Cyprus is added as student-book stock (see its rows above), inside the acceptance count. Namibia is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 2. United Kingdom is added as student-book stock (see its rows above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count.
 
 The Grade 8 teacher guide is truncated — printed pp. 51–104+ missing — and is used only for its held Chapter 1, labelled (teacher guide — evidence). The Grade 9 guide is complete. The Grade 10 guide is truncated only at its §8.3 tail (p. 92); its Unit 1 material here is complete in the held file. The Grade 10 guide's internal period-count inconsistency for its Unit 2 is not used in this lesson. This lesson carries the [Both] sport-and-society placements whose content is societal knowledge, not movement skill; the Grade 9/10 student books are the English federal 2023 GEQIP-E series and their terms are given as printed.
 
@@ -79,6 +79,26 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/honduras-pe-
 | Honduras — Bloque III Secuencia 1 — sport as a sociocultural phenomenon; school sport, its objectives and its social and personal values (original target `sport-and-its-story/sport-and-society`) | Honduras Grade 8 HN G8 student, printed p. 90 |
 
 Honduras's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Honduras's own way is content, as the book lines above record it: a television-school (Telebásica) programme built in 4 blocks — body image/expression, fitness for health, games and sport initiation, activities in nature — with Honduran folk dance, traditional games and Garífuna dances as core content, and every block closing in a "Valorando lo que aprendo" self-check sequence (named in the book lines, not placed, per the assessment exclusion). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Mauritius — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/mauritius-pe-placements.md. The Mauritius books stocked in this lesson are Book 3 — student books, as filed in the placements file: Mauritius is student-book stock, inside the acceptance count, in this lesson. Book 3's Theory section Drugs chapter (printed pp. 162–166) is Health teaching, filed in the Mauritius Health placements file and placed in the Health course, not here.
+
+**Book — Mauritius Grade 8 PE Pupil's Book (student book):**
+## Book 3 — PE Grade 8 Pupil's Book (student book, English)
+- Title as printed: Physical Education Grade 8
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Mauritius Institute of Education (MIE); year 2018 (2019 reprint series); ISBN 978-99949-44-67-5
+- PDF pages: read as FlipHTML5 flipbook, printed pp. i–iii + 1–166 (cover/title page verified against the record title)
+- Verdict: COMPLETE — the Theory section's Drugs chapter (printed pp. 162–166) is Health teaching and is filed in the Mauritius Health placements file as Book 5; the rest is filed here
+- Tally: 18 placements — 14 to existing lessons, 4 NEW LESSON NEEDED
+- Mauritius's own way: eight practical units (one sport each, taught skill-by-skill with "Let's do it" drills and challenges) plus a Theory section (fitness, major sporting events, the muscular system, drugs) — a school must do at least one sport from each of the three themes: Alternative Activities, Net/Ball Activities, Outdoor and Athletics Activities.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritius — Theory 2: Hosting Major Events — the Indian Ocean Island Games, Commonwealth Games and FIFA World Cup, and the advantages and disadvantages for a host nation (original target `sport-and-its-story/sport-and-society`) | Mauritius Grade 8 PE Pupil's Book, printed p. 153 |
+
+Mauritius's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Mauritius's own way is content, as the book lines above record it: Book 3: eight practical units (one sport each, taught skill-by-skill with “Let's do it” drills and challenges) plus a Theory section (fitness, major sporting events, the muscular system, drugs) — a school must do at least one sport from each of the three themes: Alternative Activities, Net/Ball Activities, Outdoor and Athletics Activities. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: sport and society, sport and economy, VAR, Article 35(1), sports diplomacy, Sport for all, PE professions, sedentary life, Ethiopia HPE Grades 8–10
 

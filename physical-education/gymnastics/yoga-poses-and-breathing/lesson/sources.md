@@ -1,8 +1,8 @@
 # Sources — Yoga Poses and Breathing
 
-countries: Honduras
+countries: Honduras, Mauritius
 
-**Acceptance count: taught in 1 country (Honduras).** Honduras is student-book stock (see its rows below), inside the acceptance count.
+**Acceptance count: taught in 1 country (Honduras).** Honduras is student-book stock (see its rows below), inside the acceptance count. Mauritius is added as teacher-guide evidence only (see its Mauritius section below), named in the countries line but outside the acceptance count.
 
 ## Honduras — PE expansion 2026-11-16
 
@@ -25,5 +25,26 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/honduras-pe-
 Honduras's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Honduras's own way is content, as the book lines above record it: a television-school (Telebásica) programme built in 4 blocks — body image/expression, fitness for health, games and sport initiation, activities in nature — with Honduran folk dance, traditional games and Garífuna dances as core content, and every block closing in a "Valorando lo que aprendo" self-check sequence (named in the book lines, not placed, per the assessment exclusion). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 This is a canonical NEW lesson (slug-registry Part 1: `gymnastics/yoga-poses-and-breathing` — Yoga poses and breathing: the asanas, the sun salutation, and breathing exercises (pranayama) for flexibility and calm.); the Honduras placements were filed under the original strings recorded in the provenance rows above, resolved by registry Part 2 to this canonical slug where the string differs. Honduras is student-book stock, inside the acceptance count, in this lesson.
+
+## Mauritius — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/mauritius-pe-placements.md. The Mauritius books stocked in this lesson are Book 2 — teacher guides/educator's books, as filed in the placements file: Mauritius is therefore filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. Book 2's Part A (Health Education, printed pp. 1–62) is filed in the Mauritius Health placements file and placed in the Health course, not here; its Appendix of websites (printed pp. 107–108) is inventory-only, not placed, as filed.
+
+**Book — Mauritius Grade 6 HPE Teacher's Book (teacher guide):**
+## Book 2 — HPE Grade 6 Teacher's Book (teacher guide, English)
+- Title as printed: Health and Physical Education Grade 6 Teacher's Book
+- Grade: Grade 6 (student/teacher: TEACHER)
+- Publisher: Mauritius Institute of Education (MIE); year 2017; ISBN 978-99949-44-09-5
+- PDF pages: read as FlipHTML5 flipbook (mirror upload by Jahidul Alam; title page, panel and ISBN verified as the MIE book), 116 flip pages, printed pp. i–108 (cover/title page verified against the record title)
+- Verdict: COMPLETE — Part A (Health Education, printed pp. 1–62) is filed in the Mauritius Health placements file; Part B (Physical Education, printed pp. 63–106) is filed here; Appendix of websites (printed pp. 107–108) is inventory-only, not placed
+- Tally: 18 placements — 15 to existing lessons, 3 NEW LESSON NEEDED
+- Mauritius's own way: PE is organised as Kids Athletics, Health Related Fitness, Manipulative Skills (mini handball and mini football taught as dribble–defend–league tournament) and Supplementary Lessons (yoga and circuit training); every lesson runs warm-up, main activity, game situation and cool-down.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritius — Part B Unit 4 Lesson 4.1 Standing Yoga Poses — mountain, crescent moon, rag doll, tree and chair poses with the flower-breath cool-down (teacher guide — evidence) (original target `gymnastics/yoga-poses-and-breathing`) | Mauritius Grade 6 HPE Teacher's Book, printed p. 93 |
+| Mauritius — Part B Unit 4 Lesson 4.2 Sitting and Lying Yoga Poses — triangle, child, downward dog, boat and flower poses with breathing (teacher guide — evidence) (original target `gymnastics/yoga-poses-and-breathing`) | Mauritius Grade 6 HPE Teacher's Book, printed p. 98 |
+
+Mauritius's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Mauritius's own way is content, as the book lines above record it: Book 2: PE is organised as Kids Athletics, Health Related Fitness, Manipulative Skills (mini handball and mini football taught as dribble–defend–league tournament) and Supplementary Lessons (yoga and circuit training); every lesson runs warm-up, main activity, game situation and cool-down. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: yoga poses and breathing, Honduras, Telebásica, Educación Física

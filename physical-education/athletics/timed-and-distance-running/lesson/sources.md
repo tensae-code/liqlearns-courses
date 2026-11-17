@@ -1,6 +1,6 @@
 # Sources — Timed and Distance Running
 
-countries: Ethiopia, Turkmenistan, Kazakhstan, Tajikistan, Pakistan, Afghanistan, China, Nicaragua, Azerbaijan, Maldives
+countries: Ethiopia, Turkmenistan, Kazakhstan, Tajikistan, Pakistan, Afghanistan, China, Nicaragua, Azerbaijan, Maldives, Mauritius
 
 **Book — Grade 5 student:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 106 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md. COMPLETE.
 
@@ -23,7 +23,7 @@ countries: Ethiopia, Turkmenistan, Kazakhstan, Tajikistan, Pakistan, Afghanistan
 | Turkmenistan — Part VIII §§8.5–8.11, Walking and Running — walking, alternating walking and running, instructions for beginning runners, running as the method of developing endurance, and the muscles' importance in running (original target `athletics/timed-and-distance-running`) | Turkmenistan, *Bedenterbiýe (Physical Education)*, Part VIII §§8.5–8.11, printed pp. 106–116 |
 | Kazakhstan — Quarters 1 and 4 — the 2000 m run without timekeeping and the 6-minute run as an endurance test (teacher guide — evidence) (original target `athletics/timed-and-distance-running`) | Kazakhstan, *Physical Culture, Methodological Guide for Grade 4 Teachers* (Kazakhstan Grade 4 TG), printed pp. 4–5, 48 |
 | Tajikistan — Part 2, Athletics and Cross-Country — athletics as the most popular sport: running technique, running exercises for the lesson and at home, and cross-country running (original target `athletics/timed-and-distance-running`) | Tajikistan, *Fizicheskaya Kultura (Physical Culture), Grades 1–4*, Part 2, printed pp. ~98–105 |
-**Acceptance count: taught in 7 countries (Ethiopia, Turkmenistan, Tajikistan, Pakistan, China, Nicaragua, Azerbaijan).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Turkmenistan is added as student-book stock (see its row above), inside the acceptance count. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 2. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 8 countries (Ethiopia, Turkmenistan, Tajikistan, Pakistan, China, Nicaragua, Azerbaijan, Mauritius).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Turkmenistan is added as student-book stock (see its row above), inside the acceptance count. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 2. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count; the Mauritius teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
 
 The Grade 5 teacher guide scan is TRUNCATED: it holds printed pp. 1–41 of 80+. Missing: the rest of §4.3, all of Chapter 5 Gymnastics (pp. 44–56), all of Chapter 6 Ball-game receiving skills (pp. 57–77) and all of Chapter 7 (pp. 78–80+). Teacher-guide rows in this lesson are evidence only and never count as pupil-taught; nothing here claims a page beyond what the held file holds.
 
@@ -258,5 +258,53 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-pe-
 | Maldives — Unit IV, Lesson 13: Athletics — distance running (original target `athletics/timed-and-distance-running`) | Maldives, *Exploring H&PE 8 TG*, printed pp. 233–262 |
 
 Maldives's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Maldives's own way is content, as the book lines above record it: one combined Health & PE course per grade built on the national syllabus strands, with swimming and water survival built in from Grade 1 — an island nation's syllabus — the PE side moving from a fitness unit in the early grades through fundamental movement skills, educational gymnastics and timed survival swimming, to movement skills, athletics and the big game families (territorial, net/wall and striking-and-fielding) in Key Stage 3. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Mauritius — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/mauritius-pe-placements.md. The Mauritius books stocked in this lesson are Book 2, Book 3, Book 5. Books 1, 3 and 5 are student books and Books 2, 4 and 6 are teacher guides/educator's books, as filed in the placements file: Mauritius is student-book stock, inside the acceptance count, in this lesson, and the Mauritius teacher guides stocked here are filed as teacher-guide evidence only, outside the acceptance count. Book 2's Part A (Health Education, printed pp. 1–62) is filed in the Mauritius Health placements file and placed in the Health course, not here; its Appendix of websites (printed pp. 107–108) is inventory-only, not placed, as filed. Book 3's Theory section Drugs chapter (printed pp. 162–166) is Health teaching, filed in the Mauritius Health placements file and placed in the Health course, not here. Book 5's theory units (Unit 1 Injuries, Unit 2 Respiratory System, Unit 3 Circulatory System, Unit 5 Health, Diet and Fitness) are Health teaching, filed in the Mauritius Health placements file as Book 4 and placed in the Health course, not here.
+
+**Book — Mauritius Grade 6 HPE Teacher's Book (teacher guide):**
+## Book 2 — HPE Grade 6 Teacher's Book (teacher guide, English)
+- Title as printed: Health and Physical Education Grade 6 Teacher's Book
+- Grade: Grade 6 (student/teacher: TEACHER)
+- Publisher: Mauritius Institute of Education (MIE); year 2017; ISBN 978-99949-44-09-5
+- PDF pages: read as FlipHTML5 flipbook (mirror upload by Jahidul Alam; title page, panel and ISBN verified as the MIE book), 116 flip pages, printed pp. i–108 (cover/title page verified against the record title)
+- Verdict: COMPLETE — Part A (Health Education, printed pp. 1–62) is filed in the Mauritius Health placements file; Part B (Physical Education, printed pp. 63–106) is filed here; Appendix of websites (printed pp. 107–108) is inventory-only, not placed
+- Tally: 18 placements — 15 to existing lessons, 3 NEW LESSON NEEDED
+- Mauritius's own way: PE is organised as Kids Athletics, Health Related Fitness, Manipulative Skills (mini handball and mini football taught as dribble–defend–league tournament) and Supplementary Lessons (yoga and circuit training); every lesson runs warm-up, main activity, game situation and cool-down.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritius — Part B Unit 1 Lesson 1.4 Endurance Race — steady-pace laps building from 500 m to 1 km with timed 100 m laps and pulse checks (teacher guide — evidence) (original target `athletics/timed-and-distance-running`) | Mauritius Grade 6 HPE Teacher's Book, printed p. 67 |
+
+**Book — Mauritius Grade 8 PE Pupil's Book (student book):**
+## Book 3 — PE Grade 8 Pupil's Book (student book, English)
+- Title as printed: Physical Education Grade 8
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Mauritius Institute of Education (MIE); year 2018 (2019 reprint series); ISBN 978-99949-44-67-5
+- PDF pages: read as FlipHTML5 flipbook, printed pp. i–iii + 1–166 (cover/title page verified against the record title)
+- Verdict: COMPLETE — the Theory section's Drugs chapter (printed pp. 162–166) is Health teaching and is filed in the Mauritius Health placements file as Book 5; the rest is filed here
+- Tally: 18 placements — 14 to existing lessons, 4 NEW LESSON NEEDED
+- Mauritius's own way: eight practical units (one sport each, taught skill-by-skill with "Let's do it" drills and challenges) plus a Theory section (fitness, major sporting events, the muscular system, drugs) — a school must do at least one sport from each of the three themes: Alternative Activities, Net/Ball Activities, Outdoor and Athletics Activities.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritius — Unit 8 Track & Field: Running Events — sprint and track running events (original target `athletics/timed-and-distance-running`) | Mauritius Grade 8 PE Pupil's Book, printed p. 125 |
+
+**Book — Mauritius Grade 9 PE Pupil's Book (student book):**
+## Book 5 — PE Grade 9 Pupil's Book (student book, English)
+- Title as printed: Physical Education Grade 9 (REPRINT 2021)
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Mauritius Institute of Education (MIE); year 2021; ISBN 978-99949-53-91-2
+- PDF pages: read as FlipHTML5 flipbook, printed pp. i–v + 1–123 (cover/title page verified against the record title)
+- Verdict: COMPLETE — the theory units (Unit 1 Injuries, Unit 2 Respiratory System, Unit 3 Circulatory System, Unit 5 Health, Diet and Fitness) are Health teaching and are filed in the Mauritius Health placements file as Book 4; the practical units and Unit 4/Unit 6 are filed here
+- Tally: 14 placements — 10 to existing lessons, 4 NEW LESSON NEEDED
+- Mauritius's own way: theory and practical units alternate — body systems and health first, then one sport per unit at greater depth (football volleys and goalkeeping, basketball defence and the pick-and-roll, swimming starts and tumble turns, athletics from baton exchange to cross country over Mauritian sugarcane-field courses).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritius — Unit 13 Athletics: Cross Country Running — pacing a long-distance course (grass, soil, hills, loops), team scoring, and Mauritian category distances (original target `athletics/timed-and-distance-running`) | Mauritius Grade 9 PE Pupil's Book, printed p. 113 |
+
+Mauritius's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Mauritius's own way is content, as the book lines above record it: Book 2: PE is organised as Kids Athletics, Health Related Fitness, Manipulative Skills (mini handball and mini football taught as dribble–defend–league tournament) and Supplementary Lessons (yoga and circuit training); every lesson runs warm-up, main activity, game situation and cool-down; Book 3: eight practical units (one sport each, taught skill-by-skill with “Let's do it” drills and challenges) plus a Theory section (fitness, major sporting events, the muscular system, drugs) — a school must do at least one sport from each of the three themes: Alternative Activities, Net/Ball Activities, Outdoor and Athletics Activities; Book 5: theory and practical units alternate — body systems and health first, then one sport per unit at greater depth (football volleys and goalkeeping, basketball defence and the pick-and-roll, swimming starts and tumble turns, athletics from baton exchange to cross country over Mauritian sugarcane-field courses). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: timed and distance running, timed running, running to the clock, distance running, physical education, Ethiopia

@@ -549,6 +549,57 @@ Fijian traditional games and the games of Fiji's Indian
 community taught side by side, and swimming taught as a
 Fiji survival skill.
 
+**PE expansion — Mauritius — BUILT 2026-11-16:** 98 placements
+from Mauritius's six MIE Health and Physical Education /
+Physical Education books — the Grade 2 Pupil's Book, the
+Grade 8 and Grade 9 Pupil's Books (student books), the
+Grade 6 Teacher's Book, the Grade 7 Extended Programme
+Part 1 Educator's Book and the Grade 1 Educator's Book
+Part 2 (teacher guides, all COMPLETE as filed) stocked —
+all 98 into existing lessons, including canonical lessons
+built earlier in this expansion, and 0 new lessons —
+bringing this course to **155 lessons** (unchanged in
+count). The student books are student-book stock, inside
+the acceptance counts; the teacher guides/educator's
+books are teacher-guide evidence only, outside the
+acceptance counts, in every lesson they touch. The 12
+placements filed under NEW strings resolve through the
+slug registry: `gymnastics/yoga-poses-and-breathing`
+(2 placements) to itself as the canonical lesson,
+`sport-and-its-story/organising-a-school-sports-day` to
+`sport-and-its-story/organising-competitions-and-events`,
+`ball-games/badminton-basics-and-strokes` (2) to
+`ball-games/badminton-techniques`,
+`moving-basics/swimming-strokes-and-water-skills` (2) to
+`moving-basics/swimming-strokes`,
+`ball-games/table-tennis-basics` (2) to
+`ball-games/table-tennis`,
+`fitness-and-stretching/the-muscular-system-and-exercise`
+to `fitness-and-stretching/the-body-in-exercise`,
+`fitness-and-stretching/good-body-mechanics-and-posture`
+to `moving-basics/correct-posture`, and
+`moving-basics/orienteering-and-finding-the-way` to
+`athletics/orienteering-and-hiking`; the original strings
+are recorded in the provenance rows. No Mauritius
+placement resolves to a Health-course lesson, so none was
+excluded as Health-bound; the books' Health parts (Book
+2's Part A, Book 3's Drugs chapter, Book 5's theory units
+and Book 6's Health lessons) are filed in
+mauritius-health-placements.md and placed in the Health
+course. Mauritius's own way is content: Grade 2 pairs a
+Health part with a PE part in every lesson; Grade 6 PE is
+organised as Kids Athletics, Health Related Fitness,
+Manipulative Skills (mini handball and mini football as
+dribble–defend–league tournament) and Supplementary
+Lessons (yoga and circuit training); Grade 8 teaches one
+sport per unit skill-by-skill plus a Theory section;
+the Extended Programme teaches PE through football only,
+with literacy and numeracy woven in; Grade 9 alternates
+theory and practical units, with cross country run over
+Mauritian sugarcane-field courses; and Grade 1 PE runs as
+two themes — People Around Me and My Country: Care for
+the Environment, ending in orienteering.
+
 ## Unit 1 — Moving Basics
 
 1. **Combined Travelling and On-the-Spot Movements** (`moving-basics/combined-travelling-and-on-the-spot`) — joining travelling movements together, joining on-the-spot movements together, and chaining the two families in one sequence.

@@ -1,6 +1,6 @@
 # Sources — The Rules of Volleyball
 
-countries: Ethiopia, Timor-Leste, Pakistan, Afghanistan, China, Azerbaijan, Fiji
+countries: Ethiopia, Timor-Leste, Pakistan, Afghanistan, China, Azerbaijan, Fiji, Mauritius
 
 **Book — Grade 9 student:** *Health and Physical Education Student's Textbook Grade 9* (student textbook, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, First Published August 2023, ISBN 978-99990-0-072-7, 156 printed pp. Printed page = PDF page − 10. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g09-student-placements.md. COMPLETE.
 **Book — Grade 9 teacher (teacher guide — evidence):** *Health and Physical Education — Teacher Guide, Grade 9* (teacher guide, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, © 2022, printed pp. I–IX + 1–116. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g09-teacher-placements.md. COMPLETE.
@@ -15,7 +15,7 @@ countries: Ethiopia, Timor-Leste, Pakistan, Afghanistan, China, Azerbaijan, Fiji
 | Facilities, equipment and the referees (teacher guide — evidence) | Ethiopia, Grade 9 teacher Unit 5, Rules of volleyball (teacher guide — evidence), printed pp. 63–64 |
 
 | Timor-Leste — Appendix 4: Volleyball — the game's rules and mini-games (teacher guide — evidence) (original target `ball-games/the-rules-of-volleyball`) | Timor-Leste, *Educação Física 7, Guia do Professor* (Timor-Leste Grade 7 Teacher Guide), printed pp. 157–230 (Appendix 4) |
-**Acceptance count: taught in 4 countries (Ethiopia, Pakistan, China, Azerbaijan).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Timor-Leste is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 5 countries (Ethiopia, Pakistan, China, Azerbaijan, Mauritius).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Timor-Leste is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count.
 
 The Grade 9 books are the English federal 2023 GEQIP-E series; Grade 9 target terms are given as the books print them, in English. The Grade 9 teacher guide is COMPLETE.
 
@@ -154,6 +154,40 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/azerbaijan-p
 | Azerbaijan — Part II: Volleyball (original target `ball-games/the-rules-of-volleyball`) | Azerbaijan, *Fiziki Tərbiyə 10*, printed p. 99 |
 
 Azerbaijan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Azerbaijan's own way is content, as the book lines above record it: a theory-first course — knowing and managing your own body, the movement abilities taught one by one, then the basic sports, then independent work the pupil runs alone, with Azerbaijan's own sport story (its Olympic successes, its Rio 2016 athletes, and holding the first European Games) taught as national content. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Mauritius — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/mauritius-pe-placements.md. The Mauritius books stocked in this lesson are Book 3, Book 5 — student books, as filed in the placements file: Mauritius is student-book stock, inside the acceptance count, in this lesson. Book 3's Theory section Drugs chapter (printed pp. 162–166) is Health teaching, filed in the Mauritius Health placements file and placed in the Health course, not here. Book 5's theory units (Unit 1 Injuries, Unit 2 Respiratory System, Unit 3 Circulatory System, Unit 5 Health, Diet and Fitness) are Health teaching, filed in the Mauritius Health placements file as Book 4 and placed in the Health course, not here.
+
+**Book — Mauritius Grade 8 PE Pupil's Book (student book):**
+## Book 3 — PE Grade 8 Pupil's Book (student book, English)
+- Title as printed: Physical Education Grade 8
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Mauritius Institute of Education (MIE); year 2018 (2019 reprint series); ISBN 978-99949-44-67-5
+- PDF pages: read as FlipHTML5 flipbook, printed pp. i–iii + 1–166 (cover/title page verified against the record title)
+- Verdict: COMPLETE — the Theory section's Drugs chapter (printed pp. 162–166) is Health teaching and is filed in the Mauritius Health placements file as Book 5; the rest is filed here
+- Tally: 18 placements — 14 to existing lessons, 4 NEW LESSON NEEDED
+- Mauritius's own way: eight practical units (one sport each, taught skill-by-skill with "Let's do it" drills and challenges) plus a Theory section (fitness, major sporting events, the muscular system, drugs) — a school must do at least one sport from each of the three themes: Alternative Activities, Net/Ball Activities, Outdoor and Athletics Activities.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritius — Unit 6 Volleyball: Rules — the rules of the volleyball game as taught in the unit (original target `ball-games/the-rules-of-volleyball`) | Mauritius Grade 8 PE Pupil's Book, printed p. 93 |
+
+**Book — Mauritius Grade 9 PE Pupil's Book (student book):**
+## Book 5 — PE Grade 9 Pupil's Book (student book, English)
+- Title as printed: Physical Education Grade 9 (REPRINT 2021)
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Mauritius Institute of Education (MIE); year 2021; ISBN 978-99949-53-91-2
+- PDF pages: read as FlipHTML5 flipbook, printed pp. i–v + 1–123 (cover/title page verified against the record title)
+- Verdict: COMPLETE — the theory units (Unit 1 Injuries, Unit 2 Respiratory System, Unit 3 Circulatory System, Unit 5 Health, Diet and Fitness) are Health teaching and are filed in the Mauritius Health placements file as Book 4; the practical units and Unit 4/Unit 6 are filed here
+- Tally: 14 placements — 10 to existing lessons, 4 NEW LESSON NEEDED
+- Mauritius's own way: theory and practical units alternate — body systems and health first, then one sport per unit at greater depth (football volleys and goalkeeping, basketball defence and the pick-and-roll, swimming starts and tumble turns, athletics from baton exchange to cross country over Mauritian sugarcane-field courses).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritius — Unit 8 Volleyball: Rules — the rules of volleyball as taught in the unit (original target `ball-games/the-rules-of-volleyball`) | Mauritius Grade 9 PE Pupil's Book, printed p. 53 |
+
+Mauritius's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Mauritius's own way is content, as the book lines above record it: Book 3: eight practical units (one sport each, taught skill-by-skill with “Let's do it” drills and challenges) plus a Theory section (fitness, major sporting events, the muscular system, drugs) — a school must do at least one sport from each of the three themes: Alternative Activities, Net/Ball Activities, Outdoor and Athletics Activities; Book 5: theory and practical units alternate — body systems and health first, then one sport per unit at greater depth (football volleys and goalkeeping, basketball defence and the pick-and-roll, swimming starts and tumble turns, athletics from baton exchange to cross country over Mauritian sugarcane-field courses). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: the rules of volleyball, volleyball court and free zone, net 9.50-10 m, rotational order, twelve players, three hits and block contact, facilities and equipment, referees, physical education, Ethiopia
 

@@ -1,8 +1,8 @@
 # Sources — Orienteering and Hiking
 
-countries: China, Honduras
+countries: China, Honduras, Mauritius
 
-**Acceptance count: taught in 2 countries (China, Honduras).** China is student-book stock (see its rows below), inside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
+**Acceptance count: taught in 2 countries (China, Honduras).** China is student-book stock (see its rows below), inside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Mauritius is added as teacher-guide evidence only (see its Mauritius section below), named in the countries line but outside the acceptance count.
 
 ## China — PE expansion 2026-11-16
 
@@ -88,5 +88,25 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/honduras-pe-
 | Honduras — Bloque IV Secuencia 1 — the march (marcha/caminata): organising a group walk — the group rules (no litter, steady rhythm, right footwear, balanced backpack, roll calls before, during and after) and scout knots for outdoor activities (original target `moving-basics/orienteering-and-hiking-outdoors`) | Honduras Grade 9 HN G9 student, printed p. 138 |
 
 Honduras's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Honduras's own way is content, as the book lines above record it: a television-school (Telebásica) programme built in 4 blocks — body image/expression, fitness for health, games and sport initiation, activities in nature — with Honduran folk dance, traditional games and Garífuna dances as core content, and every block closing in a "Valorando lo que aprendo" self-check sequence (named in the book lines, not placed, per the assessment exclusion). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Mauritius — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/mauritius-pe-placements.md. The Mauritius books stocked in this lesson are Book 6 — teacher guides/educator's books, as filed in the placements file: Mauritius is therefore filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. Book 6's Health Education lessons (printed pp. 1–15) are filed in the Mauritius Health placements file as Book 6 and placed in the Health course, not here; Part 1 of the educator's book is not among the group's records, as filed.
+
+**Book — Mauritius Grade 1 HPE Educator's Book Part 2 (teacher guide):**
+## Book 6 — HPE Grade 1 Educator's Book, Part 2 — PE part (teacher guide, English)
+- Title as printed: Health & Physical Education, Grade 1, Educator's Book, Part 2
+- Grade: Grade 1 (student/teacher: TEACHER)
+- Publisher: Mauritius Institute of Education (MIE); year 2022; ISBN 978-99949-61-93-1
+- PDF pages: read as FlipHTML5 flipbook (cover/title page verified against the record title)
+- Verdict: COMPLETE for Part 2 as published — this record was tagged Health-only, but the book itself is the combined HPE educator's book: its Health Education lessons (printed pp. 1–15) are filed in the Mauritius Health placements file as Book 6, and its Physical Education lessons (printed pp. 16–57) are filed here. Part 1 of the educator's book is not among this group's records.
+- Tally: 20 placements — 19 to existing lessons, 1 NEW LESSON NEEDED
+- Mauritius's own way: PE is taught as two themes — People Around Me (coordination, balance, strength through body control) and My Country: Care for the Environment (locomotion outdoors, ending in orienteering) — with Health integrated into the same lessons.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritius — My Country Lesson 10 Orienteering — finding the way around a simple course outdoors (teacher guide — evidence) (original target `moving-basics/orienteering-and-finding-the-way`) | Mauritius Grade 1 HPE Educator's Book Part 2, printed p. 56 |
+
+Mauritius's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Mauritius's own way is content, as the book lines above record it: Book 6: PE is taught as two themes — People Around Me (coordination, balance, strength through body control) and My Country: Care for the Environment (locomotion outdoors, ending in orienteering) — with Health integrated into the same lessons. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: orienteering and hiking, orienteering, map and compass, 定向运动, China Senior High PEP PE & Health

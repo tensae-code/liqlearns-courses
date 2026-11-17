@@ -1,6 +1,6 @@
 # Sources — Baton Relay Racing
 
-countries: Ethiopia, Pakistan, Afghanistan, Philippines, Nicaragua, Azerbaijan, Maldives, Honduras
+countries: Ethiopia, Pakistan, Afghanistan, Philippines, Nicaragua, Azerbaijan, Maldives, Honduras, Mauritius
 
 **Book — Grade 7 student:** *Grade 7 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 96 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g07-student-placements.md. COMPLETE.
 
@@ -18,7 +18,7 @@ countries: Ethiopia, Pakistan, Afghanistan, Philippines, Nicaragua, Azerbaijan, 
 | Relay exchanges in motion — Grade 9 | Ethiopia, Grade 9 student §3.2.2 Relay technique, printed pp. 51–55 |
 | Relay exchanges in motion — Grade 9 | Ethiopia, Grade 9 teacher Unit 3 sprint relay (teacher guide — evidence), printed pp. 37–38 |
 | The first relay — out, back, hand over; copy the broom game — Grade 3 (teacher guide — evidence) | Ethiopia, Grade 3 teacher §1.3 Tasks 1–2 (teacher guide — evidence), printed pp. 12–14 |
-**Acceptance count: taught in 5 countries (Ethiopia, Pakistan, Philippines, Azerbaijan, Honduras).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count.
+**Acceptance count: taught in 6 countries (Ethiopia, Pakistan, Philippines, Azerbaijan, Honduras, Mauritius).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count; the Mauritius teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
 
 The Grade 3 teacher guide scan is TRUNCATED: it holds printed pp. 1–52 of 89+. Missing: §4.1 (p. 53), §4.2 (p. 57), §4.3 (p. 62), §4.4 (p. 65), all of Chapter 5 Gymnastics (pp. 69–84) and all of Chapter 6 (pp. 85–89+). Chapter 4 is present as its introduction page (printed p. 52) only. Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
 
@@ -178,5 +178,53 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/honduras-pe-
 | Honduras — Bloque II Secuencia 2 — relay races: teams of four carrying the "testigo" (baton) over 100 m or 200 m, including making the class's own sanded-wood batons (original target `athletics/baton-relay-racing`) | Honduras Grade 9 HN G9 student, printed p. 87 |
 
 Honduras's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Honduras's own way is content, as the book lines above record it: a television-school (Telebásica) programme built in 4 blocks — body image/expression, fitness for health, games and sport initiation, activities in nature — with Honduran folk dance, traditional games and Garífuna dances as core content, and every block closing in a "Valorando lo que aprendo" self-check sequence (named in the book lines, not placed, per the assessment exclusion). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Mauritius — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/mauritius-pe-placements.md. The Mauritius books stocked in this lesson are Book 2, Book 5, Book 6. Books 1, 3 and 5 are student books and Books 2, 4 and 6 are teacher guides/educator's books, as filed in the placements file: Mauritius is student-book stock, inside the acceptance count, in this lesson, and the Mauritius teacher guides stocked here are filed as teacher-guide evidence only, outside the acceptance count. Book 2's Part A (Health Education, printed pp. 1–62) is filed in the Mauritius Health placements file and placed in the Health course, not here; its Appendix of websites (printed pp. 107–108) is inventory-only, not placed, as filed. Book 5's theory units (Unit 1 Injuries, Unit 2 Respiratory System, Unit 3 Circulatory System, Unit 5 Health, Diet and Fitness) are Health teaching, filed in the Mauritius Health placements file as Book 4 and placed in the Health course, not here. Book 6's Health Education lessons (printed pp. 1–15) are filed in the Mauritius Health placements file as Book 6 and placed in the Health course, not here; Part 1 of the educator's book is not among the group's records, as filed.
+
+**Book — Mauritius Grade 6 HPE Teacher's Book (teacher guide):**
+## Book 2 — HPE Grade 6 Teacher's Book (teacher guide, English)
+- Title as printed: Health and Physical Education Grade 6 Teacher's Book
+- Grade: Grade 6 (student/teacher: TEACHER)
+- Publisher: Mauritius Institute of Education (MIE); year 2017; ISBN 978-99949-44-09-5
+- PDF pages: read as FlipHTML5 flipbook (mirror upload by Jahidul Alam; title page, panel and ISBN verified as the MIE book), 116 flip pages, printed pp. i–108 (cover/title page verified against the record title)
+- Verdict: COMPLETE — Part A (Health Education, printed pp. 1–62) is filed in the Mauritius Health placements file; Part B (Physical Education, printed pp. 63–106) is filed here; Appendix of websites (printed pp. 107–108) is inventory-only, not placed
+- Tally: 18 placements — 15 to existing lessons, 3 NEW LESSON NEEDED
+- Mauritius's own way: PE is organised as Kids Athletics, Health Related Fitness, Manipulative Skills (mini handball and mini football taught as dribble–defend–league tournament) and Supplementary Lessons (yoga and circuit training); every lesson runs warm-up, main activity, game situation and cool-down.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritius — Part B Unit 1 Lesson 1.1 Sprint: Shuttle Relay — sprint drills then shuttle relay with baton hand-over over 30–35 m (teacher guide — evidence) (original target `athletics/baton-relay-racing`) | Mauritius Grade 6 HPE Teacher's Book, printed p. 63 |
+
+**Book — Mauritius Grade 9 PE Pupil's Book (student book):**
+## Book 5 — PE Grade 9 Pupil's Book (student book, English)
+- Title as printed: Physical Education Grade 9 (REPRINT 2021)
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Mauritius Institute of Education (MIE); year 2021; ISBN 978-99949-53-91-2
+- PDF pages: read as FlipHTML5 flipbook, printed pp. i–v + 1–123 (cover/title page verified against the record title)
+- Verdict: COMPLETE — the theory units (Unit 1 Injuries, Unit 2 Respiratory System, Unit 3 Circulatory System, Unit 5 Health, Diet and Fitness) are Health teaching and are filed in the Mauritius Health placements file as Book 4; the practical units and Unit 4/Unit 6 are filed here
+- Tally: 14 placements — 10 to existing lessons, 4 NEW LESSON NEEDED
+- Mauritius's own way: theory and practical units alternate — body systems and health first, then one sport per unit at greater depth (football volleys and goalkeeping, basketball defence and the pick-and-roll, swimming starts and tumble turns, athletics from baton exchange to cross country over Mauritian sugarcane-field courses).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritius — Unit 13 Athletics: Relay — baton exchange by downsweep and upsweep, including the blind (non-visual) exchange, walking, jogging and running (original target `athletics/baton-relay-racing`) | Mauritius Grade 9 PE Pupil's Book, printed p. 99 |
+
+**Book — Mauritius Grade 1 HPE Educator's Book Part 2 (teacher guide):**
+## Book 6 — HPE Grade 1 Educator's Book, Part 2 — PE part (teacher guide, English)
+- Title as printed: Health & Physical Education, Grade 1, Educator's Book, Part 2
+- Grade: Grade 1 (student/teacher: TEACHER)
+- Publisher: Mauritius Institute of Education (MIE); year 2022; ISBN 978-99949-61-93-1
+- PDF pages: read as FlipHTML5 flipbook (cover/title page verified against the record title)
+- Verdict: COMPLETE for Part 2 as published — this record was tagged Health-only, but the book itself is the combined HPE educator's book: its Health Education lessons (printed pp. 1–15) are filed in the Mauritius Health placements file as Book 6, and its Physical Education lessons (printed pp. 16–57) are filed here. Part 1 of the educator's book is not among this group's records.
+- Tally: 20 placements — 19 to existing lessons, 1 NEW LESSON NEEDED
+- Mauritius's own way: PE is taught as two themes — People Around Me (coordination, balance, strength through body control) and My Country: Care for the Environment (locomotion outdoors, ending in orienteering) — with Health integrated into the same lessons.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritius — My Country Lesson 4 Relays — simple relay running and passing (teacher guide — evidence) (original target `athletics/baton-relay-racing`) | Mauritius Grade 1 HPE Educator's Book Part 2, printed p. 44 |
+
+Mauritius's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Mauritius's own way is content, as the book lines above record it: Book 2: PE is organised as Kids Athletics, Health Related Fitness, Manipulative Skills (mini handball and mini football taught as dribble–defend–league tournament) and Supplementary Lessons (yoga and circuit training); every lesson runs warm-up, main activity, game situation and cool-down; Book 5: theory and practical units alternate — body systems and health first, then one sport per unit at greater depth (football volleys and goalkeeping, basketball defence and the pick-and-roll, swimming starts and tumble turns, athletics from baton exchange to cross country over Mauritian sugarcane-field courses); Book 6: PE is taught as two themes — People Around Me (coordination, balance, strength through body control) and My Country: Care for the Environment (locomotion outdoors, ending in orienteering) — with Health integrated into the same lessons. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: baton relay racing, the baton relay, the upsweep changeover, the downsweep changeover, first relay የደርስ መልስ ሩጫ, broom game መሣረቢን ያየችሁ ጨዋታ, object skills, physical education, Ethiopia

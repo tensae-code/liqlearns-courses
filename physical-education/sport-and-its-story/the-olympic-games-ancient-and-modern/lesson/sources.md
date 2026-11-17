@@ -1,6 +1,6 @@
 # Sources — The Olympic Games, Ancient and Modern
 
-countries: Ethiopia, Cyprus, Tajikistan, Afghanistan, China, Honduras
+countries: Ethiopia, Cyprus, Tajikistan, Afghanistan, China, Honduras, Mauritius
 
 **Book 1:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–106 + front matter (114 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md.
 
@@ -37,7 +37,7 @@ countries: Ethiopia, Cyprus, Tajikistan, Afghanistan, China, Honduras
 | Cyprus — Part 2, Modern Olympic Games (Σύγχρονοι Ολυμπιακοί Αγώνες) — every edition in chronological order, the events that carry the Olympic name, qualification quotas and entry criteria by sport and age (student book) | Cyprus, *Olympic Education Insert, Lyceum Years 2–3*, Part 2, printed pp. 21–68 |
 
 | Tajikistan — Part 1, How the World Festival Was Born (the Olympic Games); Modern Olympic Games — the birth of the Games, their revival, and the modern Games with flag and symbols (original target `sport-and-its-story/the-olympic-games-ancient-and-modern`) | Tajikistan, *Fizicheskaya Kultura (Physical Culture), Grades 1–4*, Part 1, printed pp. ~10–20 |
-**Acceptance count: taught in 5 countries (Ethiopia, Cyprus, Tajikistan, China, Honduras).** Cyprus is added as student-book stock (see its rows above), inside the acceptance count. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count.
+**Acceptance count: taught in 6 countries (Ethiopia, Cyprus, Tajikistan, China, Honduras, Mauritius).** Cyprus is added as student-book stock (see its rows above), inside the acceptance count. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count.
 
 The Grade 5 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -116,5 +116,25 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/honduras-pe-
 | Honduras — Bloque III Secuencia 1 — the modern Olympics: Coubertin, Summer and Winter Games, the IOC, the torch relay from Olympia, the table of host cities, the sports programme (disciplines and events), and the Paralympic Games of Ludwig Guttman (original target `sport-and-its-story/the-olympic-games-ancient-and-modern`) | Honduras Grade 9 HN G9 student, printed p. 104 |
 
 Honduras's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Honduras's own way is content, as the book lines above record it: a television-school (Telebásica) programme built in 4 blocks — body image/expression, fitness for health, games and sport initiation, activities in nature — with Honduran folk dance, traditional games and Garífuna dances as core content, and every block closing in a "Valorando lo que aprendo" self-check sequence (named in the book lines, not placed, per the assessment exclusion). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Mauritius — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/mauritius-pe-placements.md. The Mauritius books stocked in this lesson are Book 3 — student books, as filed in the placements file: Mauritius is student-book stock, inside the acceptance count, in this lesson. Book 3's Theory section Drugs chapter (printed pp. 162–166) is Health teaching, filed in the Mauritius Health placements file and placed in the Health course, not here.
+
+**Book — Mauritius Grade 8 PE Pupil's Book (student book):**
+## Book 3 — PE Grade 8 Pupil's Book (student book, English)
+- Title as printed: Physical Education Grade 8
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Mauritius Institute of Education (MIE); year 2018 (2019 reprint series); ISBN 978-99949-44-67-5
+- PDF pages: read as FlipHTML5 flipbook, printed pp. i–iii + 1–166 (cover/title page verified against the record title)
+- Verdict: COMPLETE — the Theory section's Drugs chapter (printed pp. 162–166) is Health teaching and is filed in the Mauritius Health placements file as Book 5; the rest is filed here
+- Tally: 18 placements — 14 to existing lessons, 4 NEW LESSON NEEDED
+- Mauritius's own way: eight practical units (one sport each, taught skill-by-skill with "Let's do it" drills and challenges) plus a Theory section (fitness, major sporting events, the muscular system, drugs) — a school must do at least one sport from each of the three themes: Alternative Activities, Net/Ball Activities, Outdoor and Athletics Activities.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritius — Theory 2: Major Sporting Events — the ancient and modern Olympic Games, the Paralympics and the Special Olympics (original target `sport-and-its-story/the-olympic-games-ancient-and-modern`) | Mauritius Grade 8 PE Pupil's Book, printed p. 155 |
+
+Mauritius's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Mauritius's own way is content, as the book lines above record it: Book 3: eight practical units (one sport each, taught skill-by-skill with “Let's do it” drills and challenges) plus a Theory section (fitness, major sporting events, the muscular system, drugs) — a school must do at least one sport from each of the three themes: Alternative Activities, Net/Ball Activities, Outdoor and Athletics Activities. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: Olympic Games, Olympia 776 BC, Zeus, Pierre de Coubertin, IOC 1894, Athens 1896, Olympic flag five rings, motto Citius Altius Fortius Faster Higher Stronger, IFs NOCs, Olympic principles, Ethiopia HPE Grades 5–7

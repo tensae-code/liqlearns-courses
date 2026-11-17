@@ -1,8 +1,8 @@
 # Sources — Organising Competitions and Events
 
-countries: Pakistan, Fiji
+countries: Pakistan, Fiji, Mauritius
 
-**Acceptance count: taught in 2 countries (Pakistan, Fiji).** Pakistan is student-book stock (see its rows below), inside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count.
+**Acceptance count: taught in 2 countries (Pakistan, Fiji).** Pakistan is student-book stock (see its rows below), inside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count. Mauritius is added as teacher-guide evidence only (see its Mauritius section below), named in the countries line but outside the acceptance count.
 
 ## Pakistan — PE expansion 2026-11-16
 
@@ -24,6 +24,26 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/pakistan-pe-
 Pakistan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Pakistan's own way is content: its Urdu-medium combined Health and Physical Education books teach PE inside one subject alongside health, with biomechanics carried through every grade from 6 to 12 and its own games — kabaddi among them — taught in the senior books. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 This is a canonical NEW lesson (slug-registry Part 1: `sport-and-its-story/organising-competitions-and-events` — Organising competitions and events: fixtures, draws, tournaments, sports days and running a sports event well.); Pakistan's placements were filed under the original strings recorded in the provenance rows above, resolved by registry Part 2 to this canonical slug where the string differs. Pakistan enters this lesson as student-book stock, inside the acceptance count.
+
+## Mauritius — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/mauritius-pe-placements.md. The Mauritius books stocked in this lesson are Book 2 — teacher guides/educator's books, as filed in the placements file: Mauritius is therefore filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. Book 2's Part A (Health Education, printed pp. 1–62) is filed in the Mauritius Health placements file and placed in the Health course, not here; its Appendix of websites (printed pp. 107–108) is inventory-only, not placed, as filed.
+
+**Book — Mauritius Grade 6 HPE Teacher's Book (teacher guide):**
+## Book 2 — HPE Grade 6 Teacher's Book (teacher guide, English)
+- Title as printed: Health and Physical Education Grade 6 Teacher's Book
+- Grade: Grade 6 (student/teacher: TEACHER)
+- Publisher: Mauritius Institute of Education (MIE); year 2017; ISBN 978-99949-44-09-5
+- PDF pages: read as FlipHTML5 flipbook (mirror upload by Jahidul Alam; title page, panel and ISBN verified as the MIE book), 116 flip pages, printed pp. i–108 (cover/title page verified against the record title)
+- Verdict: COMPLETE — Part A (Health Education, printed pp. 1–62) is filed in the Mauritius Health placements file; Part B (Physical Education, printed pp. 63–106) is filed here; Appendix of websites (printed pp. 107–108) is inventory-only, not placed
+- Tally: 18 placements — 15 to existing lessons, 3 NEW LESSON NEEDED
+- Mauritius's own way: PE is organised as Kids Athletics, Health Related Fitness, Manipulative Skills (mini handball and mini football taught as dribble–defend–league tournament) and Supplementary Lessons (yoga and circuit training); every lesson runs warm-up, main activity, game situation and cool-down.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritius — Part B Unit 4 Organisation of the School Sports Day — choosing events, organising committee, safety and first aid, training, opening ceremony with march past and athletes' oath (teacher guide — evidence) (original target `sport-and-its-story/organising-a-school-sports-day`) | Mauritius Grade 6 HPE Teacher's Book, printed p. 104 |
+
+Mauritius's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Mauritius's own way is content, as the book lines above record it: Book 2: PE is organised as Kids Athletics, Health Related Fitness, Manipulative Skills (mini handball and mini football taught as dribble–defend–league tournament) and Supplementary Lessons (yoga and circuit training); every lesson runs warm-up, main activity, game situation and cool-down. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: organising competitions and events, tournaments, fixtures, knock-out, league, Pakistan Grade 11 Sehat-o-Jismani Taleem
 
