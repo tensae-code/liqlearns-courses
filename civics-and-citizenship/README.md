@@ -26,3 +26,12 @@ sources, as provenance.
   national-education units placed, its history/geography units
   named, not placed). See `sudan/ABOUT.md` for the full book list
   and the acceptance reckoning.
+- **Uganda** — [`uganda/`](uganda/) · 7 lessons: Levels 1–4 —
+  identity and belonging, community and culture, peace and
+  conflict resolution (Mato Oput), and how societies govern
+  themselves, from Uganda's Senior One History and Political
+  Education prototype student book (English; PARTIAL by
+  combined-book scope, with its teacher's guide as labelled
+  evidence; the Senior Four teacher's guide is record-only,
+  UNREAD). See `uganda/ABOUT.md` for the full book list and the
+  acceptance reckoning.
