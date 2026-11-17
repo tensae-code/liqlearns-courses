@@ -1,8 +1,8 @@
 # Sources — Family and Friends
 
-countries: Namibia, Samoa, Timor-Leste, Sierra Leone, Malaysia, Bhutan, Thailand, Indonesia, Eritrea, Jamaica
+countries: Namibia, Samoa, Timor-Leste, Sierra Leone, Malaysia, Bhutan, Thailand, Indonesia, Eritrea, Jamaica, Maldives
 
-**Acceptance count: taught in 6 countries.** Namibia is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Sierra Leone is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Sierra Leone rows (see its Sierra Leone section below). Malaysia is filed as student-book stock, inside the acceptance count, in this lesson (see its Malaysia section below). Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — all five Bhutan books are STUDENT books. Thailand is added as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count. Eritrea is added as student-book stock (see its Eritrea section below), inside the acceptance count — all three Eritrea books are STUDENT books. Jamaica is filed as curriculum-guide evidence only in this lesson (see its Jamaica section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Jamaica rows in this lesson — both read Jamaica books are curriculum guides (TEACHER).
+**Acceptance count: taught in 6 countries.** Namibia is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Sierra Leone is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Sierra Leone rows (see its Sierra Leone section below). Malaysia is filed as student-book stock, inside the acceptance count, in this lesson (see its Malaysia section below). Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — all five Bhutan books are STUDENT books. Thailand is added as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count. Eritrea is added as student-book stock (see its Eritrea section below), inside the acceptance count — all three Eritrea books are STUDENT books. Jamaica is filed as curriculum-guide evidence only in this lesson (see its Jamaica section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Jamaica rows in this lesson — both read Jamaica books are curriculum guides (TEACHER). Maldives is filed as teacher-guide evidence only in this lesson (see its Maldives section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Maldives rows in this lesson.
 
 **Book 1 — Physical Education 4 Life: A Guide for Physical Education Teachers in Namibia, Grades 10–11 (teacher guide, English) — Health parts:**
 - Title as printed: Physical Education 4 Life — A Guide for Physical Education Teachers in Namibia — Grades 10–11
@@ -369,5 +369,94 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/jamaica-heal
 | Jamaica — Unit 2: Understanding Gender Issues — understanding gender issues (curriculum guide — evidence) (original string `staying-safe/HELD-title-decision`) | Jamaica, *Health and Family Life Education Curriculum — Grade 9, New Edition* (Jamaica Grade 9 HFLE Curriculum 2023, curriculum guide), printed p. 84 |
 
 Jamaica is filed as curriculum-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — the read Jamaica books are curriculum guides (TEACHER), so Jamaica is named in the countries line and provenance rows and the acceptance count is unchanged at 6 countries. The Jamaica placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved to this canonical lesson (`fair-play-and-the-body/family-and-friends`) by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Jamaica's own way is content, as the book lines above record it: HFLE is a life-skills subject built on the CARICOM regional framework — five themes (Self and Interpersonal Relationships; Safety and Security, new in this edition; Sexuality and Sexual Health; Appropriate Eating and Fitness; Managing the Environment) taught through reflective, affective-domain lessons, with sample lesson plans and a mental-health appendix, the Grade 9 book completing the same spiral with sexually transmitted infections, food security and a "Responsible Earthlings" environmental unit. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+## Maldives — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-health-placements.md. 7 Maldives placement(s) stocked in this lesson. The Maldives book(s) stocked in this lesson: Book 2, Book 3, Book 4, Book 5, Book 6, Book 7 of that file. Every Maldives book stocked here is a TEACHER guide, so Maldives is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Book 1 of that file (Health & Physical Education Grade 1 Syllabus) is RECORD-ONLY — a curriculum/syllabus document, not a textbook — with 0 placements, nothing stocked from it; Book 8 (Exploring Health & PE 3 Student Book, Scribd copy) is UNREAD as filed — view-only Scribd reader, no direct-download route, full download behind a Scribd login under the no-login rule — with 0 placements, nothing stocked from it. No Maldives placement in this merge resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 2 — Exploring H&PE 3 TG (teacher guide, English):**
+- Title as printed: Exploring Health and Physical Education — Teacher's Guide 3
+- Grade: Grade 3 (student/teacher: TEACHER)
+- Publisher: National Institute of Education, Maldives and Cambridge University Press, India; year 2015; ISBN 978-11-07528-70-3 as printed
+- PDF pages: 247 (cover verified; read in full)
+- Verdict: COMPLETE — its PE parts (Unit IV) are filed in maldives-pe-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book. The same book is also recorded as a direct nie.edu.mv download-list record (pkg 5324); filed once.
+- Tally: 19 placements — 1 to existing lessons, 18 NEW LESSON NEEDED (2 of them HELD-title-decision)
+- Maldives's own way: health is taught as three strands wound through every grade — growth and body awareness, personality and social development, and health of the individual and community — so a Grade 3 child meets nutrition, diseases, feelings, hygiene, environment and road safety inside one subject.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-health-placements.md (Book 2 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Maldives — Unit II, Lesson 7: Relationship — relationships within the family, including living with step-parents: respect, patience, love and care while getting used to new family members (original string `fair-play-and-the-body/making-friends-and-being-kind`) | Maldives Grade 3 Exploring H&PE TG, printed pp. 107–120 (teacher guide — evidence) |
+| Maldives — Unit II, Lesson 8: Friendship and Resilience — accepting the many ways classmates are similar and different, and celebrating the differences (original string `fair-play-and-the-body/making-friends-and-being-kind`) | Maldives Grade 3 Exploring H&PE TG, printed pp. 121–137 (teacher guide — evidence) |
+
+**Book 3 — Exploring H&PE 4 TG (teacher guide, English):**
+- Title as printed: Exploring Health and Physical Education — Teacher's Guide 4
+- Grade: Grade 4 (student/teacher: TEACHER)
+- Publisher: National Institute of Education, Maldives and Cambridge University Press, India; year 2016; ISBN 978-13-16605-18-9 as printed
+- PDF pages: 157 (cover verified; read in full)
+- Verdict: COMPLETE — its PE parts (Unit IV) are filed in maldives-pe-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book. The same book is also recorded as a direct nie.edu.mv download-list record (pkg 5324); filed once.
+- Tally: 15 placements — 0 to existing lessons, 15 NEW LESSON NEEDED (2 of them HELD-title-decision)
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-health-placements.md (Book 3 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Maldives — Unit II, Lesson 7: Relationships — building and maintaining trust and confidence in family and friendships; words of sympathy and empathy; sharing private problems and being helped (original string `fair-play-and-the-body/making-friends-and-being-kind`) | Maldives Grade 4 Exploring H&PE TG, printed pp. 74–83 (teacher guide — evidence) |
+
+**Book 4 — Exploring H&PE 5 TG (teacher guide, English):**
+- Title as printed: Exploring Health and Physical Education — Teacher's Guide 5
+- Grade: Grade 5 (student/teacher: TEACHER)
+- Publisher: National Institute of Education, Maldives and Cambridge University Press, India; year 2016; ISBN 978-1-316-60520-2
+- PDF pages: 164 (cover verified; read in full)
+- Verdict: COMPLETE — its PE parts (Unit IV) are filed in maldives-pe-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book. The same book is also recorded as a direct nie.edu.mv download-list record (pkg 5324); filed once.
+- Tally: 18 placements — 1 to existing lessons, 17 NEW LESSON NEEDED (3 of them HELD-title-decision)
+- Maldives's own way: Grade 5 health turns outward to the country's real problems — the nutritional status of Maldivians (junk food, energy drinks, supari/areca nut), food spoilage in a hot island climate, and safety mapped onto the child's own school grounds.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-health-placements.md (Book 4 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Maldives — Unit II, Lesson 7: Relationships — belonging to a family: the common bonds of family, that families and homes vary, and exercising respect towards individual differences (original string `fair-play-and-the-body/making-friends-and-being-kind`) | Maldives Grade 5 Exploring H&PE TG, printed pp. 76–86 (teacher guide — evidence) |
+
+**Book 5 — Exploring H&PE 6 TG (teacher guide, English):**
+- Title as printed: Exploring Health and Physical Education — Teacher's Guide 6
+- Grade: Grade 6 (student/teacher: TEACHER)
+- Publisher: National Institute of Education, Maldives and Cambridge University Press, India; year 2016; ISBN 978-1-316-60522-6
+- PDF pages: 169 (cover verified; read in full)
+- Verdict: COMPLETE — its PE parts (Unit IV) are filed in maldives-pe-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book. The same book is also recorded as a direct nie.edu.mv download-list record (pkg 5324); filed once.
+- Tally: 16 placements — 0 to existing lessons, 16 NEW LESSON NEEDED (2 of them HELD-title-decision)
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-health-placements.md (Book 5 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Maldives — Unit II, Lesson 7: Relationships — the changing nature of family relationships and keeping family harmony; standards of behaviour in the community and in families and groups (original string `fair-play-and-the-body/making-friends-and-being-kind`) | Maldives Grade 6 Exploring H&PE TG, printed pp. 84–93 (teacher guide — evidence) |
+
+**Book 6 — Exploring H&PE 7 TG (teacher guide, English):**
+- Title as printed: Exploring Health and Physical Education — Teacher's Guide 7
+- Grade: Grade 7 (student/teacher: TEACHER)
+- Publisher: National Institute of Education, Maldives and Cambridge University Press, India; year 2017; ISBN 978-1-316-63968-9
+- PDF pages: 246 (cover verified; read in full)
+- Verdict: COMPLETE — its PE parts (Unit IV) are filed in maldives-pe-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book. The same book is also recorded as a direct nie.edu.mv download-list record (pkg 5324); filed once.
+- Tally: 15 placements — 1 to existing lessons, 14 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- Maldives's own way: Key Stage 3 health names the country's own disease burden — the tropical diseases of an equatorial island state (dengue, malaria, filariasis, chikungunya, cholera, typhoid, tuberculosis, pneumonia, jaundice) — and adds a full emergency and first aid chapter.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-health-placements.md (Book 6 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Maldives — Unit II, Lesson 5: Relationships and Peer Pressure — types of relationships and the skills to establish and manage positive ones: balancing time between family, friends and social media, and resolving conflicts by negotiation and conflict resolution (original string `fair-play-and-the-body/making-friends-and-being-kind`) | Maldives Grade 7 Exploring H&PE TG, printed pp. 67–88 (teacher guide — evidence) |
+
+**Book 7 — Exploring H&PE 8 TG (teacher guide, English):**
+- Title as printed: Exploring Health and Physical Education — Teacher's Guide 8
+- Grade: Grade 8 (student/teacher: TEACHER)
+- Publisher: National Institute of Education, Maldives and Cambridge University Press, India; year 2017; ISBN 978-1-316-63970-2
+- PDF pages: 270 (cover verified; read in full)
+- Verdict: COMPLETE — its PE parts (Unit IV) are filed in maldives-pe-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book. The same book is also recorded as a direct nie.edu.mv download-list record (pkg 5324); filed once.
+- Tally: 15 placements — 1 to existing lessons, 14 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- Maldives's own way: the final book teaches the diseases prevalent in the Maldives by name — including thalassaemia, the inherited blood disorder of high local concern — and first aid for the island emergency that matters most: near-drowning, with CPR.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-health-placements.md (Book 7 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Maldives — Unit II, Lesson 5: Relationships and Peer Pressure — the changing nature of relationships: positive and respectful relationships, what to do when a relationship is not respectful, the impact of social media, and growing tensions with parents (original string `fair-play-and-the-body/making-friends-and-being-kind`) | Maldives Grade 8 Exploring H&PE TG, printed pp. 83–102 (teacher guide — evidence) |
+
+Maldives is filed as teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — every Maldives book stocked here is a TEACHER guide, so Maldives is named in the countries line and provenance rows and the acceptance count is unchanged at 6 countries. The Maldives placement(s) in this lesson were filed under the original string(s) recorded in each provenance row — `fair-play-and-the-body/making-friends-and-being-kind` — resolved to this canonical lesson by the health slug registry Part 2A — and the original string is recorded in each provenance row above. Maldives's own way is content, as the book lines above record it: health is taught as three strands wound through every grade — growth and body awareness, personality and social development, and health of the individual and community — with the country's own concerns named in the later books (the nutritional status of Maldivians, the tropical diseases of the Maldives including thalassaemia, and first aid for near-drowning with CPR). This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
 Searchable tags: family and friends, healthy relationships, gender and sex, sex is not gender, Healthy Lifestyle Sessions 5 and 8, Namibia PE4Life Guide, relationships family community health promotion days Samoan Food Day Diabetes Day, communication feelings I think I feel family health networks, Samoa Years 1–8 Curriculum, Samoa Years 11–12 TG, trust mutual respect classroom ground rules, gender gender norms myths about gender, gender investigation community, social diversity inclusion action plan, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, Sierra Leone AHLS Teacher's Manual SSS1 SSS2 SSS3, adolescent health and life skills Sierra Leone, Malaysia PJPK, Kekeluargaan, Perhubungan, family roles and responsibilities, generation gap, healthy boundaries batas perhubungan, friendship batas pergaulan, parenting skills kemahiran keibubapaan, antisocial behaviour, PEERS, Bhutan, Bhutan PP–I Suggested Activities, Thailand, Thailand Health & PE, สุขศึกษาและพลศึกษา, Indonesia, Indonesia PJOK, Pendidikan Jasmani Olahraga dan Kesehatan, Dasar-Dasar Layanan Kesehatan, Isi Piringku, Eritrea, Life Skills Based Health Education Eritrea Grades 6 7 8, Choosing Friends, What Are Friends For?, How Much Shall I Do for a Friend?, Boys and Girls, Gender and Gender Roles in the Family, Gender Roles in the School/Class, Gender Roles in the Community, What Can I Do for My Family?, What Can I Do for My Community?, Sympathy and Empathy: The Disabled, Sympathy and Empathy: Orphans, Sympathy and Empathy: The Elderly, Sympathy and Empathy: People Living with HIV and AIDS, Project: School and Community — Supporting People in Need, Health and Gender, My Values, Family, Tradition, Conflicting Values, Gender and Goals, Project: Underage Marriage, Circles of Friendship, Making Friends, Community Work: Orphans, Community Work: The Elderly, Community Work: The Disabled, Jamaica, Jamaica HFLE, Health and Family Life Education Jamaica, CARICOM HFLE, Ministry of Education and Youth Jamaica 2023, Building Healthy Relationships, Exploring Gender Issues, Exploring Rights and Responsibilities, Getting Along with Others, My Rights, My Responsibilities, Understanding Gender Issues, Understanding Rights and Responsibilities

@@ -1,8 +1,8 @@
 # Sources — Keeping Our Environment Healthy
 
-countries: Namibia, China, Philippines, Papua New Guinea, Bhutan, Iran, Tanzania, Mauritius, Eritrea, Jamaica, Nepal
+countries: Namibia, China, Philippines, Papua New Guinea, Bhutan, Iran, Tanzania, Mauritius, Eritrea, Jamaica, Nepal, Maldives
 
-**Acceptance count: taught in 8 countries.** Tanzania is added as student-book stock (see its Tanzania section below), inside the acceptance count. Namibia is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. China is filed as student-book stock, inside the acceptance count, in this lesson. Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — all five Bhutan books are STUDENT books. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Eritrea is added as student-book stock (see its Eritrea section below), inside the acceptance count — all three Eritrea books are STUDENT books. Jamaica is filed as curriculum-guide evidence only in this lesson (see its Jamaica section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Jamaica rows in this lesson — both read Jamaica books are curriculum guides (TEACHER). Nepal is added as student-book stock (see its Nepal section below), inside the acceptance count.
+**Acceptance count: taught in 8 countries.** Tanzania is added as student-book stock (see its Tanzania section below), inside the acceptance count. Namibia is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. China is filed as student-book stock, inside the acceptance count, in this lesson. Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — all five Bhutan books are STUDENT books. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Eritrea is added as student-book stock (see its Eritrea section below), inside the acceptance count — all three Eritrea books are STUDENT books. Jamaica is filed as curriculum-guide evidence only in this lesson (see its Jamaica section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Jamaica rows in this lesson — both read Jamaica books are curriculum guides (TEACHER). Nepal is added as student-book stock (see its Nepal section below), inside the acceptance count. Maldives is filed as teacher-guide evidence only in this lesson (see its Maldives section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Maldives rows in this lesson.
 
 **Book 1 — Physical Education 4 Life: A Guide for Physical Education Teachers in Namibia, Grades 10–11 (teacher guide, English) — Health parts:**
 - Title as printed: Physical Education 4 Life — A Guide for Physical Education Teachers in Namibia — Grades 10–11
@@ -434,6 +434,95 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/jamaica-heal
 | Jamaica — Unit 1: Environmental Resources — using environmental resources well (curriculum guide — evidence) (original string `staying-safe/HELD-title-decision`) | Jamaica, *Health and Family Life Education Curriculum — Grade 9, New Edition* (Jamaica Grade 9 HFLE Curriculum 2023, curriculum guide), printed p. 164 |
 
 Jamaica is filed as curriculum-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — the read Jamaica books are curriculum guides (TEACHER), so Jamaica is named in the countries line and provenance rows and the acceptance count is unchanged at 7 countries. The Jamaica placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved to this canonical lesson (`staying-safe/keeping-our-environment-healthy`) by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Jamaica's own way is content, as the book lines above record it: HFLE is a life-skills subject built on the CARICOM regional framework — five themes (Self and Interpersonal Relationships; Safety and Security, new in this edition; Sexuality and Sexual Health; Appropriate Eating and Fitness; Managing the Environment) taught through reflective, affective-domain lessons, with sample lesson plans and a mental-health appendix, the Grade 9 book completing the same spiral with sexually transmitted infections, food security and a "Responsible Earthlings" environmental unit. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+## Maldives — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-health-placements.md. 7 Maldives placement(s) stocked in this lesson. The Maldives book(s) stocked in this lesson: Book 2, Book 3, Book 4, Book 5, Book 6, Book 7 of that file. Every Maldives book stocked here is a TEACHER guide, so Maldives is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Book 1 of that file (Health & Physical Education Grade 1 Syllabus) is RECORD-ONLY — a curriculum/syllabus document, not a textbook — with 0 placements, nothing stocked from it; Book 8 (Exploring Health & PE 3 Student Book, Scribd copy) is UNREAD as filed — view-only Scribd reader, no direct-download route, full download behind a Scribd login under the no-login rule — with 0 placements, nothing stocked from it. No Maldives placement in this merge resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 2 — Exploring H&PE 3 TG (teacher guide, English):**
+- Title as printed: Exploring Health and Physical Education — Teacher's Guide 3
+- Grade: Grade 3 (student/teacher: TEACHER)
+- Publisher: National Institute of Education, Maldives and Cambridge University Press, India; year 2015; ISBN 978-11-07528-70-3 as printed
+- PDF pages: 247 (cover verified; read in full)
+- Verdict: COMPLETE — its PE parts (Unit IV) are filed in maldives-pe-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book. The same book is also recorded as a direct nie.edu.mv download-list record (pkg 5324); filed once.
+- Tally: 19 placements — 1 to existing lessons, 18 NEW LESSON NEEDED (2 of them HELD-title-decision)
+- Maldives's own way: health is taught as three strands wound through every grade — growth and body awareness, personality and social development, and health of the individual and community — so a Grade 3 child meets nutrition, diseases, feelings, hygiene, environment and road safety inside one subject.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-health-placements.md (Book 2 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Maldives — Unit III, Lesson 9: Keeping Clean — caring for the environment to maintain health: living and non-living parts of a local environment, and the health risks of each type of pollution (original string `staying-safe/keeping-our-surroundings-clean`) | Maldives Grade 3 Exploring H&PE TG, printed pp. 138–156 (teacher guide — evidence) |
+
+**Book 3 — Exploring H&PE 4 TG (teacher guide, English):**
+- Title as printed: Exploring Health and Physical Education — Teacher's Guide 4
+- Grade: Grade 4 (student/teacher: TEACHER)
+- Publisher: National Institute of Education, Maldives and Cambridge University Press, India; year 2016; ISBN 978-13-16605-18-9 as printed
+- PDF pages: 157 (cover verified; read in full)
+- Verdict: COMPLETE — its PE parts (Unit IV) are filed in maldives-pe-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book. The same book is also recorded as a direct nie.edu.mv download-list record (pkg 5324); filed once.
+- Tally: 15 placements — 0 to existing lessons, 15 NEW LESSON NEEDED (2 of them HELD-title-decision)
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-health-placements.md (Book 3 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Maldives — Unit III, Lesson 9: Keeping Clean — how human behaviour and technology change the global environment and health: the ozone layer, chemical use and ecosystems, and energy and resource consumption (original string `staying-safe/keeping-our-surroundings-clean`) | Maldives Grade 4 Exploring H&PE TG, printed pp. 96–110 (teacher guide — evidence) |
+
+**Book 4 — Exploring H&PE 5 TG (teacher guide, English):**
+- Title as printed: Exploring Health and Physical Education — Teacher's Guide 5
+- Grade: Grade 5 (student/teacher: TEACHER)
+- Publisher: National Institute of Education, Maldives and Cambridge University Press, India; year 2016; ISBN 978-1-316-60520-2
+- PDF pages: 164 (cover verified; read in full)
+- Verdict: COMPLETE — its PE parts (Unit IV) are filed in maldives-pe-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book. The same book is also recorded as a direct nie.edu.mv download-list record (pkg 5324); filed once.
+- Tally: 18 placements — 1 to existing lessons, 17 NEW LESSON NEEDED (3 of them HELD-title-decision)
+- Maldives's own way: Grade 5 health turns outward to the country's real problems — the nutritional status of Maldivians (junk food, energy drinks, supari/areca nut), food spoilage in a hot island climate, and safety mapped onto the child's own school grounds.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-health-placements.md (Book 4 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Maldives — Unit III, Lesson 9: Keeping Clean — how environmental protection organisations promote a healthy environment: the work of governments and NGOs, pressure on governments, and a case study of one organisation's programmes (original string `staying-safe/keeping-our-surroundings-clean`) | Maldives Grade 5 Exploring H&PE TG, printed pp. 98–109 (teacher guide — evidence) |
+
+**Book 5 — Exploring H&PE 6 TG (teacher guide, English):**
+- Title as printed: Exploring Health and Physical Education — Teacher's Guide 6
+- Grade: Grade 6 (student/teacher: TEACHER)
+- Publisher: National Institute of Education, Maldives and Cambridge University Press, India; year 2016; ISBN 978-1-316-60522-6
+- PDF pages: 169 (cover verified; read in full)
+- Verdict: COMPLETE — its PE parts (Unit IV) are filed in maldives-pe-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book. The same book is also recorded as a direct nie.edu.mv download-list record (pkg 5324); filed once.
+- Tally: 16 placements — 0 to existing lessons, 16 NEW LESSON NEEDED (2 of them HELD-title-decision)
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-health-placements.md (Book 5 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Maldives — Unit III, Lesson 9: Keeping Clean — laws designed to promote a healthy environment (anti-pollution, species protection), occupational health and safety legislation, and food-preparation and sale laws (original string `staying-safe/keeping-our-surroundings-clean`) | Maldives Grade 6 Exploring H&PE TG, printed pp. 104–112 (teacher guide — evidence) |
+
+**Book 6 — Exploring H&PE 7 TG (teacher guide, English):**
+- Title as printed: Exploring Health and Physical Education — Teacher's Guide 7
+- Grade: Grade 7 (student/teacher: TEACHER)
+- Publisher: National Institute of Education, Maldives and Cambridge University Press, India; year 2017; ISBN 978-1-316-63968-9
+- PDF pages: 246 (cover verified; read in full)
+- Verdict: COMPLETE — its PE parts (Unit IV) are filed in maldives-pe-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book. The same book is also recorded as a direct nie.edu.mv download-list record (pkg 5324); filed once.
+- Tally: 15 placements — 1 to existing lessons, 14 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- Maldives's own way: Key Stage 3 health names the country's own disease burden — the tropical diseases of an equatorial island state (dengue, malaria, filariasis, chikungunya, cholera, typhoid, tuberculosis, pneumonia, jaundice) — and adds a full emergency and first aid chapter.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-health-placements.md (Book 6 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Maldives — Unit III, Lesson 7: Health and Hygiene — community hygiene: hygiene in food outlets, safe disposal of household waste, water resources, clean public areas and toilets, the importance of handwashing, and a "keep trash off the road" campaign (original string `staying-safe/keeping-our-surroundings-clean`) | Maldives Grade 7 Exploring H&PE TG, printed pp. 105–121 (teacher guide — evidence) |
+| Maldives — Unit III, Lesson 10: Health of Community and Environment — how the global environment is being changed by human behaviour, and what that means for health (original string `staying-safe/keeping-our-surroundings-clean`) | Maldives Grade 7 Exploring H&PE TG, printed pp. 162–179 (teacher guide — evidence) |
+
+**Book 7 — Exploring H&PE 8 TG (teacher guide, English):**
+- Title as printed: Exploring Health and Physical Education — Teacher's Guide 8
+- Grade: Grade 8 (student/teacher: TEACHER)
+- Publisher: National Institute of Education, Maldives and Cambridge University Press, India; year 2017; ISBN 978-1-316-63970-2
+- PDF pages: 270 (cover verified; read in full)
+- Verdict: COMPLETE — its PE parts (Unit IV) are filed in maldives-pe-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book. The same book is also recorded as a direct nie.edu.mv download-list record (pkg 5324); filed once.
+- Tally: 15 placements — 1 to existing lessons, 14 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- Maldives's own way: the final book teaches the diseases prevalent in the Maldives by name — including thalassaemia, the inherited blood disorder of high local concern — and first aid for the island emergency that matters most: near-drowning, with CPR.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-health-placements.md (Book 7 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Maldives — Unit III, Lesson 10: Health of Community and Environment — the ill effects of pollution of natural resources (land and water) on health (original string `staying-safe/keeping-our-surroundings-clean`) | Maldives Grade 8 Exploring H&PE TG, printed pp. 175–195 (teacher guide — evidence) |
+
+Maldives is filed as teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — every Maldives book stocked here is a TEACHER guide, so Maldives is named in the countries line and provenance rows and the acceptance count is unchanged at 8 countries. The Maldives placement(s) in this lesson were filed under the original string(s) recorded in each provenance row — `staying-safe/keeping-our-surroundings-clean` — resolved to this canonical lesson by the health slug registry Part 2A — and the original string is recorded in each provenance row above. Maldives's own way is content, as the book lines above record it: health is taught as three strands wound through every grade — growth and body awareness, personality and social development, and health of the individual and community — with the country's own concerns named in the later books (the nutritional status of Maldivians, the tropical diseases of the Maldives including thalassaemia, and first aid for near-drowning with CPR). This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
 Searchable tags: keeping our environment healthy, caring for the environment, recycling groups, effects of litter, reusing waste material, Healthy Lifestyle Session 2, Namibia PE4Life Guide, environment and health, air pollution and health, protecting yourself, China Senior High PEP PE & Health, environmental health and Philippine environment problems, Pearl of the Orient Seas, deforestation soil erosion coral reef mangrove degradation, community health problems and action plans, doing a community health project, barangay, what a healthy community is, WHO healthy community, Philippines Grade 7 Health LM, Papua New Guinea, Papua New Guinea Grade 3 Health TG Grade 3, Papua New Guinea Grade 4 Health TG Grade 4, Papua New Guinea Grade 5 Health TG Grade 5, Papua New Guinea Grade 6 HPE TG Grade 6, Papua New Guinea Grade 8 HPE TG Grade 8, Bhutan, Bhutan PP–I Suggested Activities, Bhutan II–III Suggested Activities, Bhutan Class IV Suggested Activities, Bhutan Class V Suggested Activities, Bhutan Class VI Suggested Activities, Iran, Tanzania, Tanzania Health and Environment, Afya na Mazingira, TIE Tanzania Institute of Education, Mauritius, Mauritius HPE, Mauritius Institute of Education, MIE, Eritrea, Life Skills Based Health Education Eritrea Grades 6 7 8, What Can I Do for My School?, Health Promoting School, Project: Health Promoting Aims and Strategies, Jamaica, Jamaica HFLE, Health and Family Life Education Jamaica, CARICOM HFLE, Ministry of Education and Youth Jamaica 2023, Combating Environmental Threats, Environment Preservation, Environmental Resources, Healthy and Sustainable Environment, Maintaining a Healthy Environment, Preserving Jamaica's Natural Environment, Public Sanitation, Reducing Environmental Health Threats, Reducing Environmental Threats, Responsible Earthlings, The Environment and My Health
 

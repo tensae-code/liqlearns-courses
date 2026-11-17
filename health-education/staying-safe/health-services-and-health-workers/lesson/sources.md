@@ -1,8 +1,8 @@
 # Sources — Health Services and Health Workers
 
-countries: Samoa, Philippines, Turkey, Papua New Guinea, Thailand, Indonesia, Nepal
+countries: Samoa, Philippines, Turkey, Papua New Guinea, Thailand, Indonesia, Nepal, Maldives
 
-**Acceptance count: taught in 5 countries.** Samoa is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this lesson. Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book. Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Thailand is added as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count. The Indonesia teacher-guide rows in this lesson are filed as teacher-guide evidence only, outside the count. Nepal is added as student-book stock (see its Nepal section below), inside the acceptance count.
+**Acceptance count: taught in 5 countries.** Samoa is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this lesson. Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book. Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Thailand is added as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count. The Indonesia teacher-guide rows in this lesson are filed as teacher-guide evidence only, outside the count. Nepal is added as student-book stock (see its Nepal section below), inside the acceptance count. Maldives is filed as teacher-guide evidence only in this lesson (see its Maldives section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Maldives rows in this lesson.
 
 **Book 1 — Samoa HPE Teacher Guide, Years 11–12 (teacher guide, English):**
 - Title as printed: Health and Physical Education Teacher Guide, Years 11 and 12
@@ -178,6 +178,54 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/indonesia-he
 | Indonesia — Semester 1 Bab 4 Panduan Pembelajaran — how to teach checking vital signs (student Sem 1 Bab 4) (teacher guide — evidence) (original string `staying-safe/checking-vital-signs`) | Indonesia Grade 10 Layanan Kesehatan Teacher, printed p. 124 (teacher guide — evidence) |
 
 Indonesia is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the acceptance count rises from 3 to 4 countries. The Indonesia teacher-guide rows above are filed as teacher-guide evidence only, outside the count. The Indonesia placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved to this lesson by the slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Indonesia's own way is content, as the book lines above record it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+## Maldives — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-health-placements.md. 3 Maldives placement(s) stocked in this lesson. The Maldives book(s) stocked in this lesson: Book 2, Book 6, Book 7 of that file. Every Maldives book stocked here is a TEACHER guide, so Maldives is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Book 1 of that file (Health & Physical Education Grade 1 Syllabus) is RECORD-ONLY — a curriculum/syllabus document, not a textbook — with 0 placements, nothing stocked from it; Book 8 (Exploring Health & PE 3 Student Book, Scribd copy) is UNREAD as filed — view-only Scribd reader, no direct-download route, full download behind a Scribd login under the no-login rule — with 0 placements, nothing stocked from it. No Maldives placement in this merge resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 2 — Exploring H&PE 3 TG (teacher guide, English):**
+- Title as printed: Exploring Health and Physical Education — Teacher's Guide 3
+- Grade: Grade 3 (student/teacher: TEACHER)
+- Publisher: National Institute of Education, Maldives and Cambridge University Press, India; year 2015; ISBN 978-11-07528-70-3 as printed
+- PDF pages: 247 (cover verified; read in full)
+- Verdict: COMPLETE — its PE parts (Unit IV) are filed in maldives-pe-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book. The same book is also recorded as a direct nie.edu.mv download-list record (pkg 5324); filed once.
+- Tally: 19 placements — 1 to existing lessons, 18 NEW LESSON NEEDED (2 of them HELD-title-decision)
+- Maldives's own way: health is taught as three strands wound through every grade — growth and body awareness, personality and social development, and health of the individual and community — so a Grade 3 child meets nutrition, diseases, feelings, hygiene, environment and road safety inside one subject.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-health-placements.md (Book 2 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Maldives — Unit II, Lesson 5: Common Diseases and Disorders — how the local community contributes to health: community health concerns, services the community provides, and the special health needs of different groups (original string `staying-safe/building-a-healthy-society`) | Maldives Grade 3 Exploring H&PE TG, printed pp. 73–90 (teacher guide — evidence) |
+
+**Book 6 — Exploring H&PE 7 TG (teacher guide, English):**
+- Title as printed: Exploring Health and Physical Education — Teacher's Guide 7
+- Grade: Grade 7 (student/teacher: TEACHER)
+- Publisher: National Institute of Education, Maldives and Cambridge University Press, India; year 2017; ISBN 978-1-316-63968-9
+- PDF pages: 246 (cover verified; read in full)
+- Verdict: COMPLETE — its PE parts (Unit IV) are filed in maldives-pe-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book. The same book is also recorded as a direct nie.edu.mv download-list record (pkg 5324); filed once.
+- Tally: 15 placements — 1 to existing lessons, 14 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- Maldives's own way: Key Stage 3 health names the country's own disease burden — the tropical diseases of an equatorial island state (dengue, malaria, filariasis, chikungunya, cholera, typhoid, tuberculosis, pneumonia, jaundice) — and adds a full emergency and first aid chapter.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-health-placements.md (Book 6 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Maldives — Unit III, Lesson 10: Health of Community and Environment — recognising the importance of community health: rules that support a safe and welcoming environment, defending a position on a community health issue, and planning a volunteer activity or campaign for a local health initiative (original string `staying-safe/building-a-healthy-society`) | Maldives Grade 7 Exploring H&PE TG, printed pp. 162–179 (teacher guide — evidence) |
+
+**Book 7 — Exploring H&PE 8 TG (teacher guide, English):**
+- Title as printed: Exploring Health and Physical Education — Teacher's Guide 8
+- Grade: Grade 8 (student/teacher: TEACHER)
+- Publisher: National Institute of Education, Maldives and Cambridge University Press, India; year 2017; ISBN 978-1-316-63970-2
+- PDF pages: 270 (cover verified; read in full)
+- Verdict: COMPLETE — its PE parts (Unit IV) are filed in maldives-pe-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book. The same book is also recorded as a direct nie.edu.mv download-list record (pkg 5324); filed once.
+- Tally: 15 placements — 1 to existing lessons, 14 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- Maldives's own way: the final book teaches the diseases prevalent in the Maldives by name — including thalassaemia, the inherited blood disorder of high local concern — and first aid for the island emergency that matters most: near-drowning, with CPR.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-health-placements.md (Book 7 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Maldives — Unit III, Lesson 10: Health of Community and Environment — community health action: designing a promotion campaign for young people's health, communicating health needs to trusted adults and professionals, and building a directory of community agencies and services for young people (original string `staying-safe/building-a-healthy-society`) | Maldives Grade 8 Exploring H&PE TG, printed pp. 175–195 (teacher guide — evidence) |
+
+Maldives is filed as teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — every Maldives book stocked here is a TEACHER guide, so Maldives is named in the countries line and provenance rows and the acceptance count is unchanged at 5 countries. The Maldives placement(s) in this lesson were filed under the original string(s) recorded in each provenance row — `staying-safe/building-a-healthy-society` — resolved to this canonical lesson by the health slug registry Part 2A — and the original string is recorded in each provenance row above. Maldives's own way is content, as the book lines above record it: health is taught as three strands wound through every grade — growth and body awareness, personality and social development, and health of the individual and community — with the country's own concerns named in the later books (the nutritional status of Maldivians, the tropical diseases of the Maldives including thalassaemia, and first aid for near-drowning with CPR). This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
 Searchable tags: health services health workers, family community health promotion, health agencies AIDS awareness family planning, community resources, rights to good health, village co-operatives Asiasiga Maumaga, nonu esi, Samoa Years 11–12 TG, health appraisal and school health services, Health Appraised and Amazed, screening height weight vision hearing blood pressure, Philippines Grade 7 Health LM, public health and health services in Turkey, Halk Sağlığı ve Sağlık Hizmetleri, Turkey Health & Traffic Culture, Papua New Guinea, Papua New Guinea Grade 3 Health TG Grade 3, Papua New Guinea Grade 4 Health TG Grade 4, Papua New Guinea Grade 5 Health TG Grade 5, Thailand, Thailand Health & PE, สุขศึกษาและพลศึกษา, Indonesia, Indonesia PJOK, Pendidikan Jasmani Olahraga dan Kesehatan, Dasar-Dasar Layanan Kesehatan, Isi Piringku
 

@@ -1,8 +1,8 @@
 # Sources — Keeping My Body Clean
 
-countries: Kiribati, El Salvador, Oman, Samoa, Timor-Leste, Myanmar, Philippines, Ukraine, Sierra Leone, Papua New Guinea, Bhutan, Iran, Estonia, Vietnam, Thailand, Tanzania, Mauritius, Eritrea, Nepal
+countries: Kiribati, El Salvador, Oman, Samoa, Timor-Leste, Myanmar, Philippines, Ukraine, Sierra Leone, Papua New Guinea, Bhutan, Iran, Estonia, Vietnam, Thailand, Tanzania, Mauritius, Eritrea, Nepal, Maldives
 
-**Acceptance count: taught in 14 countries.** Tanzania is added as student-book stock (see its Tanzania section below), inside the acceptance count. Kiribati and El Salvador are filed as student-book stock, inside the acceptance count, in this lesson — Kiribati Book 1 is a student book (its Book 2 is a teacher guide, so its row there is teacher-guide evidence only; the country is already counted once via the student book), and El Salvador's book is a student book. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count; the Myanmar teacher guide stocked here is teacher-guide evidence only, outside the acceptance count. Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Sierra Leone is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Sierra Leone rows (see its Sierra Leone section below). Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — all five Bhutan books are STUDENT books. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Estonia is filed as teacher-guide evidence only in this lesson (see its Estonia section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is stocked in this lesson for Estonia. Vietnam is added as student-book stock (see its Vietnam section below), inside the acceptance count. Thailand is added as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Eritrea is added as student-book stock (see its Eritrea section below), inside the acceptance count — all three Eritrea books are STUDENT books. Nepal is added as student-book stock (see its Nepal section below), inside the acceptance count.
+**Acceptance count: taught in 14 countries.** Tanzania is added as student-book stock (see its Tanzania section below), inside the acceptance count. Kiribati and El Salvador are filed as student-book stock, inside the acceptance count, in this lesson — Kiribati Book 1 is a student book (its Book 2 is a teacher guide, so its row there is teacher-guide evidence only; the country is already counted once via the student book), and El Salvador's book is a student book. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count; the Myanmar teacher guide stocked here is teacher-guide evidence only, outside the acceptance count. Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Sierra Leone is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Sierra Leone rows (see its Sierra Leone section below). Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — all five Bhutan books are STUDENT books. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Estonia is filed as teacher-guide evidence only in this lesson (see its Estonia section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is stocked in this lesson for Estonia. Vietnam is added as student-book stock (see its Vietnam section below), inside the acceptance count. Thailand is added as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Eritrea is added as student-book stock (see its Eritrea section below), inside the acceptance count — all three Eritrea books are STUDENT books. Nepal is added as student-book stock (see its Nepal section below), inside the acceptance count. Maldives is filed as teacher-guide evidence only in this lesson (see its Maldives section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Maldives rows in this lesson.
 
 **Book 1 — Stay Clean and Healthy, Big Book Year 3 Term 1 (student book — big-book reader, English):**
 - Title as printed: Stay Clean And Healthy
@@ -521,6 +521,94 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/eritrea-heal
 | Eritrea — Personal Hygiene — a hard-working boy with toothache, skin infection and diarrhoea: tracing them to hygiene habits and keeping oneself clean (original string `staying-safe/personal-hygiene-and-keeping-clean`) | Eritrea, *Life Skills Based Health Education for Grade 8 — Student's Text Book* (Eritrea Grade 8 Life Skills G8, student book), printed p. 17 |
 
 Eritrea is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — all the Eritrea books stocked here are STUDENT books, so Eritrea is named in the countries line and provenance rows and the acceptance count rises from 12 to 13 countries. The Eritrea placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved to this canonical lesson (`staying-safe/keeping-my-body-clean`) by the health slug registry (Part 2A; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Eritrea's own way is content, as the book lines above record it: Eritrea teaches Health as "Life Skills Based Health Education" — learner-centred activity books built from case studies, dramas, role plays and community projects, spiralling goals, friendship, gender, abuse protection, HIV, puberty, nutrition, values, risk and community health through Grades 6–8. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+## Maldives — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-health-placements.md. 6 Maldives placement(s) stocked in this lesson. The Maldives book(s) stocked in this lesson: Book 2, Book 3, Book 4, Book 5, Book 6, Book 7 of that file. Every Maldives book stocked here is a TEACHER guide, so Maldives is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Book 1 of that file (Health & Physical Education Grade 1 Syllabus) is RECORD-ONLY — a curriculum/syllabus document, not a textbook — with 0 placements, nothing stocked from it; Book 8 (Exploring Health & PE 3 Student Book, Scribd copy) is UNREAD as filed — view-only Scribd reader, no direct-download route, full download behind a Scribd login under the no-login rule — with 0 placements, nothing stocked from it. No Maldives placement in this merge resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 2 — Exploring H&PE 3 TG (teacher guide, English):**
+- Title as printed: Exploring Health and Physical Education — Teacher's Guide 3
+- Grade: Grade 3 (student/teacher: TEACHER)
+- Publisher: National Institute of Education, Maldives and Cambridge University Press, India; year 2015; ISBN 978-11-07528-70-3 as printed
+- PDF pages: 247 (cover verified; read in full)
+- Verdict: COMPLETE — its PE parts (Unit IV) are filed in maldives-pe-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book. The same book is also recorded as a direct nie.edu.mv download-list record (pkg 5324); filed once.
+- Tally: 19 placements — 1 to existing lessons, 18 NEW LESSON NEEDED (2 of them HELD-title-decision)
+- Maldives's own way: health is taught as three strands wound through every grade — growth and body awareness, personality and social development, and health of the individual and community — so a Grade 3 child meets nutrition, diseases, feelings, hygiene, environment and road safety inside one subject.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-health-placements.md (Book 2 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Maldives — Unit III, Lesson 10: Cleanliness — personal hygiene for healthy living: regular bathing, brushing teeth, clean clothes and clipped fingernails (original string `staying-safe/keeping-ourselves-clean`) | Maldives Grade 3 Exploring H&PE TG, printed pp. 157–171 (teacher guide — evidence) |
+
+**Book 3 — Exploring H&PE 4 TG (teacher guide, English):**
+- Title as printed: Exploring Health and Physical Education — Teacher's Guide 4
+- Grade: Grade 4 (student/teacher: TEACHER)
+- Publisher: National Institute of Education, Maldives and Cambridge University Press, India; year 2016; ISBN 978-13-16605-18-9 as printed
+- PDF pages: 157 (cover verified; read in full)
+- Verdict: COMPLETE — its PE parts (Unit IV) are filed in maldives-pe-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book. The same book is also recorded as a direct nie.edu.mv download-list record (pkg 5324); filed once.
+- Tally: 15 placements — 0 to existing lessons, 15 NEW LESSON NEEDED (2 of them HELD-title-decision)
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-health-placements.md (Book 3 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Maldives — Unit III, Lesson 10: Cleanliness — reviewing personal hygiene practices (daily bath for skin, hair, ears, hands and nails; clean clothes; a neat and clean home) and the cultural aspects of cleanliness (original string `staying-safe/keeping-ourselves-clean`) | Maldives Grade 4 Exploring H&PE TG, printed pp. 111–118 (teacher guide — evidence) |
+
+**Book 4 — Exploring H&PE 5 TG (teacher guide, English):**
+- Title as printed: Exploring Health and Physical Education — Teacher's Guide 5
+- Grade: Grade 5 (student/teacher: TEACHER)
+- Publisher: National Institute of Education, Maldives and Cambridge University Press, India; year 2016; ISBN 978-1-316-60520-2
+- PDF pages: 164 (cover verified; read in full)
+- Verdict: COMPLETE — its PE parts (Unit IV) are filed in maldives-pe-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book. The same book is also recorded as a direct nie.edu.mv download-list record (pkg 5324); filed once.
+- Tally: 18 placements — 1 to existing lessons, 17 NEW LESSON NEEDED (3 of them HELD-title-decision)
+- Maldives's own way: Grade 5 health turns outward to the country's real problems — the nutritional status of Maldivians (junk food, energy drinks, supari/areca nut), food spoilage in a hot island climate, and safety mapped onto the child's own school grounds.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-health-placements.md (Book 4 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Maldives — Unit III, Lesson 10: Cleanliness — sweat glands and body odour: where sweat glands are, why sweat smells, cleaning sweat-gland areas well in the shower, and antiperspirants and perfumes (original string `staying-safe/keeping-ourselves-clean`) | Maldives Grade 5 Exploring H&PE TG, printed pp. 110–118 (teacher guide — evidence) |
+
+**Book 5 — Exploring H&PE 6 TG (teacher guide, English):**
+- Title as printed: Exploring Health and Physical Education — Teacher's Guide 6
+- Grade: Grade 6 (student/teacher: TEACHER)
+- Publisher: National Institute of Education, Maldives and Cambridge University Press, India; year 2016; ISBN 978-1-316-60522-6
+- PDF pages: 169 (cover verified; read in full)
+- Verdict: COMPLETE — its PE parts (Unit IV) are filed in maldives-pe-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book. The same book is also recorded as a direct nie.edu.mv download-list record (pkg 5324); filed once.
+- Tally: 16 placements — 0 to existing lessons, 16 NEW LESSON NEEDED (2 of them HELD-title-decision)
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-health-placements.md (Book 5 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Maldives — Unit III, Lesson 10: Cleanliness — foot care as part of general cleanliness: fungal and bacterial conditions, corns and warts, cleaning shoes and changing socks daily (original string `staying-safe/keeping-ourselves-clean`) | Maldives Grade 6 Exploring H&PE TG, printed pp. 113–123 (teacher guide — evidence) |
+
+**Book 6 — Exploring H&PE 7 TG (teacher guide, English):**
+- Title as printed: Exploring Health and Physical Education — Teacher's Guide 7
+- Grade: Grade 7 (student/teacher: TEACHER)
+- Publisher: National Institute of Education, Maldives and Cambridge University Press, India; year 2017; ISBN 978-1-316-63968-9
+- PDF pages: 246 (cover verified; read in full)
+- Verdict: COMPLETE — its PE parts (Unit IV) are filed in maldives-pe-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book. The same book is also recorded as a direct nie.edu.mv download-list record (pkg 5324); filed once.
+- Tally: 15 placements — 1 to existing lessons, 14 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- Maldives's own way: Key Stage 3 health names the country's own disease burden — the tropical diseases of an equatorial island state (dengue, malaria, filariasis, chikungunya, cholera, typhoid, tuberculosis, pneumonia, jaundice) — and adds a full emergency and first aid chapter.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-health-placements.md (Book 6 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Maldives — Unit III, Lesson 7: Health and Hygiene — demonstrating good health and hygiene habits: the personal hygiene routine (daily bath, teeth, clean clothes) reviewed and practised (original string `staying-safe/keeping-ourselves-clean`) | Maldives Grade 7 Exploring H&PE TG, printed pp. 105–121 (teacher guide — evidence) |
+
+**Book 7 — Exploring H&PE 8 TG (teacher guide, English):**
+- Title as printed: Exploring Health and Physical Education — Teacher's Guide 8
+- Grade: Grade 8 (student/teacher: TEACHER)
+- Publisher: National Institute of Education, Maldives and Cambridge University Press, India; year 2017; ISBN 978-1-316-63970-2
+- PDF pages: 270 (cover verified; read in full)
+- Verdict: COMPLETE — its PE parts (Unit IV) are filed in maldives-pe-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book. The same book is also recorded as a direct nie.edu.mv download-list record (pkg 5324); filed once.
+- Tally: 15 placements — 1 to existing lessons, 14 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- Maldives's own way: the final book teaches the diseases prevalent in the Maldives by name — including thalassaemia, the inherited blood disorder of high local concern — and first aid for the island emergency that matters most: near-drowning, with CPR.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-health-placements.md (Book 7 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Maldives — Unit III, Lesson 7: Health and Hygiene — informed decisions on personal hygiene: daily habits for caring for the body, protecting oneself by good hygiene, toilet hygiene, foot care and body odour, and keeping the home clean (original string `staying-safe/keeping-ourselves-clean`) | Maldives Grade 8 Exploring H&PE TG, printed pp. 121–136 (teacher guide — evidence) |
+
+Maldives is filed as teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — every Maldives book stocked here is a TEACHER guide, so Maldives is named in the countries line and provenance rows and the acceptance count is unchanged at 14 countries. The Maldives placement(s) in this lesson were filed under the original string(s) recorded in each provenance row — `staying-safe/keeping-ourselves-clean` — resolved to this canonical lesson by the health slug registry Part 2A — and the original string is recorded in each provenance row above. Maldives's own way is content, as the book lines above record it: health is taught as three strands wound through every grade — growth and body awareness, personality and social development, and health of the individual and community — with the country's own concerns named in the later books (the nutritional status of Maldivians, the tropical diseases of the Maldives including thalassaemia, and first aid for near-drowning with CPR). This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
 Searchable tags: keeping my body clean, personal hygiene, morning washing routine, washing hands, hygiene in puberty, Stay Clean and Healthy, Kiribati Year 3 big book, WASH MHM Guide, water in personal hygiene, bathing daily, washing hands with soap, brushing teeth three times a day, cleaning ears and nails, El Salvador Ciencia Salud y Medio Ambiente 1, El agua fuente de salud, personal cleanliness habits, cleanliness protects from disease, Health Culture and Awareness, Oman G1 Teacher Guide, personal hygiene sanitation hand washing tooth brushing nits lice worms tinea ringworm, Samoa Years 1–8 Curriculum, puberty hygiene keeping clean through puberty, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, keeping yourself clean, washing hands cutting nails, face eyes ears hair teeth care, Myanmar PE Textbook Grade 6, Myanmar PE Teacher Guide Grade 6, ကာယပညာ, wearing clean clothes, Magsuot ng Malinis na Damit, changing underclothes, clean clothes for school play worship sleep, Philippines Grade 1 PE and Health LM, teen hygiene rules and norms, hygiene and physical development, Ukraine G7 Health Safety and Wellbeing Shyian, Sierra Leone AHLS Teacher's Manual SSS1 SSS2 SSS3, adolescent health and life skills Sierra Leone, Papua New Guinea, Papua New Guinea Grade 3 Health TG Grade 3, Papua New Guinea Grade 4 Health TG Grade 4, Bhutan, Bhutan II–III Suggested Activities, Bhutan Class IV Suggested Activities, Iran, Estonia, Toitumine ja liikumine, Digiõpik Lesson 24, Vietnam, Vietnam GDTC, Giáo dục thể chất, Thailand, Thailand Health & PE, สุขศึกษาและพลศึกษา, Tanzania, Tanzania Health and Environment, Afya na Mazingira, TIE Tanzania Institute of Education, Mauritius, Mauritius HPE, Mauritius Institute of Education, MIE, Eritrea, Life Skills Based Health Education Eritrea Grades 6 7 8, Menstruation, Wet Dreams, Body Hairs and Pimples, Personal Hygiene
 

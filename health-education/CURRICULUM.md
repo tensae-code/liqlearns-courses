@@ -1742,3 +1742,62 @@ drugs/smoking/alcohol, environmental health, safety and
 first aid, family and community health — repeated and
 deepened by grade, with Nepal's own ladder of health posts
 and hospitals named in the community-health lessons.
+**Health expansion — Maldives — BUILT 2026-11-17:** 98
+placements from the Maldives' six *Exploring Health and
+Physical Education* teacher's guides, Grades 3–8 — Book 2,
+*Exploring H&PE 3 TG* (Grade 3, NIE Maldives and Cambridge
+University Press, India, 2015, ISBN 978-11-07528-70-3 as
+printed, COMPLETE), Book 3, *Exploring H&PE 4 TG* (Grade 4,
+2016, ISBN 978-13-16605-18-9 as printed, COMPLETE), Book 4,
+*Exploring H&PE 5 TG* (Grade 5, 2016, ISBN
+978-1-316-60520-2, COMPLETE), Book 5, *Exploring H&PE 6 TG*
+(Grade 6, 2016, ISBN 978-1-316-60522-6, COMPLETE), Book 6,
+*Exploring H&PE 7 TG* (Grade 7, 2017, ISBN
+978-1-316-63968-9, COMPLETE) and Book 7, *Exploring H&PE 8
+TG* (Grade 8, 2017, ISBN 978-1-316-63970-2, COMPLETE) —
+stocked into existing lessons: Why Exercise Keeps You
+Healthy ×11, Knowing Myself and My Feelings ×10, Eating a
+Balanced Diet ×10, Preventing Common Diseases ×8, Family
+and Friends ×7, Keeping Our Environment Healthy ×7,
+Keeping My Body Clean ×6, Puberty and Growing Up ×6,
+Keeping Teeth Healthy ×5, Avoiding Accidents and Staying
+Safe ×4, Protecting Myself from Abuse ×4, Food Hygiene and
+Safe Cooking ×3, Health Services and Health Workers ×3,
+Mental Health and Wellbeing ×3, First Aid for Emergencies
+×2, Preventing Sports Injuries and First Aid ×2, Saying No
+to Drugs, Alcohol and Tobacco ×2, Checking Health
+Information ×1, Hardening the Body ×1, Paying Attention and
+Crossing the Road Safely ×1, Staying Safe While Exercising
+×1 and Water Safety ×1 — bringing no new lessons; this
+course stays at **55 lessons**. Every Maldives book stocked
+is a TEACHER guide, so Maldives is filed as teacher-guide
+evidence only, outside the acceptance counts, in every
+lesson it touches (each touched lesson's count is
+unchanged). The 98 placements were filed as 4 to existing
+lessons and 94 NEW LESSON NEEDED — 83 under descriptive
+slug strings resolved by the health slug registry Part 2A
+and 11 under `staying-safe/HELD-title-decision` resolved by
+registry Part 2B, all to Why Exercise Keeps You Healthy —
+with the original string recorded in every provenance row.
+No Maldives placement resolves to a PE-course lesson, so
+none was excluded as PE-bound. Honesty notes, exactly as
+filed: Book 1, the Grade 1 Health & Physical Education
+Syllabus, is RECORD-ONLY — a curriculum/syllabus document,
+not a textbook — with 0 placements, nothing stocked from
+it; Book 8, the Grade 3 student book's Scribd copy, is
+UNREAD — view-only reader, no direct-download route, full
+download behind a Scribd login under the no-login rule —
+with 0 placements, nothing stocked from it; each
+teacher-guide book is also recorded as a direct nie.edu.mv
+download-list record (pkg 5324) and is filed once, as
+filed. Maldives's own way is content: health is taught as
+three strands wound through every grade — growth and body
+awareness, personality and social development, and health
+of the individual and community — with the country's own
+concerns named in the later books: the nutritional status
+of Maldivians (junk food, energy drinks, supari/areca
+nut), food spoilage in a hot island climate, the tropical
+diseases of the Maldives (dengue, malaria, filariasis,
+chikungunya, cholera, typhoid, tuberculosis, pneumonia,
+jaundice) including thalassaemia, and first aid for
+near-drowning, with CPR.

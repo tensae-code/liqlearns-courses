@@ -1,8 +1,8 @@
 # Sources — Keeping Teeth Healthy
 
-countries: Papua New Guinea, Bhutan, Iran, Mauritius
+countries: Papua New Guinea, Bhutan, Iran, Mauritius, Maldives
 
-**Acceptance count: taught in 3 countries.** Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson (see its Papua New Guinea section below). Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — all five Bhutan books are STUDENT books, so this lesson now stands at acceptance count 1. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count.
+**Acceptance count: taught in 3 countries.** Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson (see its Papua New Guinea section below). Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — all five Bhutan books are STUDENT books, so this lesson now stands at acceptance count 1. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Maldives is filed as teacher-guide evidence only in this lesson (see its Maldives section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Maldives rows in this lesson.
 
 ## Papua New Guinea — Health expansion 2026-11-16
 
@@ -98,5 +98,79 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/mauritius-he
 | Mauritius — Unit 1 Lesson 6 My mouth and teeth — parts of the mouth, brushing morning, night and after meals, sweet foods harm teeth, visiting the dentist (original string `staying-safe/caring-for-mouth-and-teeth`) | Mauritius Grade 2 HPE Pupil's Book, printed p. 28 |
 
 Mauritius is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — Book 1 is a STUDENT book, so Mauritius is named in the countries line and provenance rows and the acceptance count rises from 2 to 3 countries. The Mauritius placement in this lesson was filed under the original string recorded in the provenance row above, resolved to this canonical lesson (`staying-safe/keeping-teeth-healthy`) by the health slug registry (Part 2A), and the original string is recorded in the provenance row above. Mauritius's own way is content, as the book lines above record it. This lesson teaches its placement only as the placements file summarises it, and names nothing the summary does not name.
+
+## Maldives — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-health-placements.md. 5 Maldives placement(s) stocked in this lesson. The Maldives book(s) stocked in this lesson: Book 2, Book 3, Book 4, Book 5, Book 7 of that file. Every Maldives book stocked here is a TEACHER guide, so Maldives is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Book 1 of that file (Health & Physical Education Grade 1 Syllabus) is RECORD-ONLY — a curriculum/syllabus document, not a textbook — with 0 placements, nothing stocked from it; Book 8 (Exploring Health & PE 3 Student Book, Scribd copy) is UNREAD as filed — view-only Scribd reader, no direct-download route, full download behind a Scribd login under the no-login rule — with 0 placements, nothing stocked from it. No Maldives placement in this merge resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 2 — Exploring H&PE 3 TG (teacher guide, English):**
+- Title as printed: Exploring Health and Physical Education — Teacher's Guide 3
+- Grade: Grade 3 (student/teacher: TEACHER)
+- Publisher: National Institute of Education, Maldives and Cambridge University Press, India; year 2015; ISBN 978-11-07528-70-3 as printed
+- PDF pages: 247 (cover verified; read in full)
+- Verdict: COMPLETE — its PE parts (Unit IV) are filed in maldives-pe-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book. The same book is also recorded as a direct nie.edu.mv download-list record (pkg 5324); filed once.
+- Tally: 19 placements — 1 to existing lessons, 18 NEW LESSON NEEDED (2 of them HELD-title-decision)
+- Maldives's own way: health is taught as three strands wound through every grade — growth and body awareness, personality and social development, and health of the individual and community — so a Grade 3 child meets nutrition, diseases, feelings, hygiene, environment and road safety inside one subject.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-health-placements.md (Book 2 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Maldives — Unit III, Lesson 10: Cleanliness — oral health: ways of maintaining healthy teeth and why oral health matters for healthy living (original string `staying-safe/keeping-teeth-healthy`) | Maldives Grade 3 Exploring H&PE TG, printed pp. 157–171 (teacher guide — evidence) |
+
+**Book 3 — Exploring H&PE 4 TG (teacher guide, English):**
+- Title as printed: Exploring Health and Physical Education — Teacher's Guide 4
+- Grade: Grade 4 (student/teacher: TEACHER)
+- Publisher: National Institute of Education, Maldives and Cambridge University Press, India; year 2016; ISBN 978-13-16605-18-9 as printed
+- PDF pages: 157 (cover verified; read in full)
+- Verdict: COMPLETE — its PE parts (Unit IV) are filed in maldives-pe-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book. The same book is also recorded as a direct nie.edu.mv download-list record (pkg 5324); filed once.
+- Tally: 15 placements — 0 to existing lessons, 15 NEW LESSON NEEDED (2 of them HELD-title-decision)
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-health-placements.md (Book 3 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Maldives — Unit III, Lesson 10: Cleanliness — oral health: brushing in the morning, after meals and before bedtime, and why oral health matters (original string `staying-safe/keeping-teeth-healthy`) | Maldives Grade 4 Exploring H&PE TG, printed pp. 111–118 (teacher guide — evidence) |
+
+**Book 4 — Exploring H&PE 5 TG (teacher guide, English):**
+- Title as printed: Exploring Health and Physical Education — Teacher's Guide 5
+- Grade: Grade 5 (student/teacher: TEACHER)
+- Publisher: National Institute of Education, Maldives and Cambridge University Press, India; year 2016; ISBN 978-1-316-60520-2
+- PDF pages: 164 (cover verified; read in full)
+- Verdict: COMPLETE — its PE parts (Unit IV) are filed in maldives-pe-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book. The same book is also recorded as a direct nie.edu.mv download-list record (pkg 5324); filed once.
+- Tally: 18 placements — 1 to existing lessons, 17 NEW LESSON NEEDED (3 of them HELD-title-decision)
+- Maldives's own way: Grade 5 health turns outward to the country's real problems — the nutritional status of Maldivians (junk food, energy drinks, supari/areca nut), food spoilage in a hot island climate, and safety mapped onto the child's own school grounds.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-health-placements.md (Book 4 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Maldives — Unit III, Lesson 10: Cleanliness — oral health for healthy living (original string `staying-safe/keeping-teeth-healthy`) | Maldives Grade 5 Exploring H&PE TG, printed pp. 110–118 (teacher guide — evidence) |
+
+**Book 5 — Exploring H&PE 6 TG (teacher guide, English):**
+- Title as printed: Exploring Health and Physical Education — Teacher's Guide 6
+- Grade: Grade 6 (student/teacher: TEACHER)
+- Publisher: National Institute of Education, Maldives and Cambridge University Press, India; year 2016; ISBN 978-1-316-60522-6
+- PDF pages: 169 (cover verified; read in full)
+- Verdict: COMPLETE — its PE parts (Unit IV) are filed in maldives-pe-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book. The same book is also recorded as a direct nie.edu.mv download-list record (pkg 5324); filed once.
+- Tally: 16 placements — 0 to existing lessons, 16 NEW LESSON NEEDED (2 of them HELD-title-decision)
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-health-placements.md (Book 5 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Maldives — Unit III, Lesson 10: Cleanliness — oral health: maintaining proper dental health to reduce the risk of tooth decay and gum disease (original string `staying-safe/keeping-teeth-healthy`) | Maldives Grade 6 Exploring H&PE TG, printed pp. 113–123 (teacher guide — evidence) |
+
+**Book 7 — Exploring H&PE 8 TG (teacher guide, English):**
+- Title as printed: Exploring Health and Physical Education — Teacher's Guide 8
+- Grade: Grade 8 (student/teacher: TEACHER)
+- Publisher: National Institute of Education, Maldives and Cambridge University Press, India; year 2017; ISBN 978-1-316-63970-2
+- PDF pages: 270 (cover verified; read in full)
+- Verdict: COMPLETE — its PE parts (Unit IV) are filed in maldives-pe-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book. The same book is also recorded as a direct nie.edu.mv download-list record (pkg 5324); filed once.
+- Tally: 15 placements — 1 to existing lessons, 14 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- Maldives's own way: the final book teaches the diseases prevalent in the Maldives by name — including thalassaemia, the inherited blood disorder of high local concern — and first aid for the island emergency that matters most: near-drowning, with CPR.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-health-placements.md (Book 7 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Maldives — Unit III, Lesson 7: Health and Hygiene — oral health for healthy living (original string `staying-safe/keeping-teeth-healthy`) | Maldives Grade 8 Exploring H&PE TG, printed pp. 121–136 (teacher guide — evidence) |
+
+Maldives is filed as teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — every Maldives book stocked here is a TEACHER guide, so Maldives is named in the countries line and provenance rows and the acceptance count is unchanged at 3 countries. The Maldives placement(s) in this lesson were filed under the original string(s) recorded in each provenance row — `staying-safe/keeping-teeth-healthy` — filed directly under this lesson's canonical NEW string, recorded as filed — and the original string is recorded in each provenance row above. Maldives's own way is content, as the book lines above record it: health is taught as three strands wound through every grade — growth and body awareness, personality and social development, and health of the individual and community — with the country's own concerns named in the later books (the nutritional status of Maldivians, the tropical diseases of the Maldives including thalassaemia, and first aid for near-drowning with CPR). This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
 Searchable tags: keeping teeth healthy, teeth and mouth, brushing teeth, oral hygiene, gums, dental products, Papua New Guinea Health TG Grade 3, Papua New Guinea Health TG Grade 4, Papua New Guinea, Bhutan, Bhutan PP–I Suggested Activities, Iran, Mauritius, Mauritius HPE, Mauritius Institute of Education, MIE

@@ -1,8 +1,8 @@
 # Sources — Hardening the Body
 
-countries: Tajikistan, Azerbaijan, Vietnam
+countries: Tajikistan, Azerbaijan, Vietnam, Maldives
 
-**Acceptance count: taught in 3 countries.** Tajikistan is filed as student-book stock, inside the acceptance count, in this lesson. Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below). Vietnam is added as student-book stock (see its Vietnam section below), inside the acceptance count.
+**Acceptance count: taught in 3 countries.** Tajikistan is filed as student-book stock, inside the acceptance count, in this lesson. Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below). Vietnam is added as student-book stock (see its Vietnam section below), inside the acceptance count. Maldives is filed as teacher-guide evidence only in this lesson (see its Maldives section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Maldives rows in this lesson.
 
 **Book 1 — Fizicheskaya Kultura (Physical Culture), Grades 1–4 (student book, Russian):**
 - Title as printed: ФИЗИЧЕСКАЯ КУЛЬТУРА — Учебник для младших школьников I–IV классов общеобразовательной школы (Physical Culture — textbook for younger schoolchildren of grades I–IV of the general school); the imprint describes it as the textbook for grades 1–4 of schools with Tajik as the language of instruction
@@ -168,5 +168,24 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-heal
 | Vietnam — Phần Một §1b, Sử dụng các yếu tố của môi trường nước và địa hình — training in water and on terrain: short fast swims for breathing depth, longer ones for endurance, water games for strength; hill running for power, obstacle ground for agility, altitude for endurance — always warm up, check the water is clean and safe, and never train alone in deep or fast water (original string `staying-safe/HELD-title-decision`) | Vietnam Grade 9 GDTC 9, printed pp. 6–7 |
 
 Vietnam is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the acceptance count rises from 2 to 3 countries. Vietnam's own way is content, as the placements file records it: Vietnam's records are all PE-course records, but the primary PE books open with a "general knowledge" part (hygiene and preparation) and carry safety teaching (water safety, traffic-signal games), and the secondary GDTC books carry a shared general-knowledge part on natural factors and nutrition for training. This lesson teaches its Vietnam placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+## Maldives — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-health-placements.md. 1 Maldives placement(s) stocked in this lesson. The Maldives book(s) stocked in this lesson: Book 5 of that file. Every Maldives book stocked here is a TEACHER guide, so Maldives is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Book 1 of that file (Health & Physical Education Grade 1 Syllabus) is RECORD-ONLY — a curriculum/syllabus document, not a textbook — with 0 placements, nothing stocked from it; Book 8 (Exploring Health & PE 3 Student Book, Scribd copy) is UNREAD as filed — view-only Scribd reader, no direct-download route, full download behind a Scribd login under the no-login rule — with 0 placements, nothing stocked from it. No Maldives placement in this merge resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 5 — Exploring H&PE 6 TG (teacher guide, English):**
+- Title as printed: Exploring Health and Physical Education — Teacher's Guide 6
+- Grade: Grade 6 (student/teacher: TEACHER)
+- Publisher: National Institute of Education, Maldives and Cambridge University Press, India; year 2016; ISBN 978-1-316-60522-6
+- PDF pages: 169 (cover verified; read in full)
+- Verdict: COMPLETE — its PE parts (Unit IV) are filed in maldives-pe-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book. The same book is also recorded as a direct nie.edu.mv download-list record (pkg 5324); filed once.
+- Tally: 16 placements — 0 to existing lessons, 16 NEW LESSON NEEDED (2 of them HELD-title-decision)
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-health-placements.md (Book 5 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Maldives — Unit III, Lesson 9: Keeping Clean — the risks of sunlight and ultra-violet radiation to the skin, eyes and immune system (original string `staying-safe/staying-safe-in-the-sun`) | Maldives Grade 6 Exploring H&PE TG, printed pp. 104–112 (teacher guide — evidence) |
+
+Maldives is filed as teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — every Maldives book stocked here is a TEACHER guide, so Maldives is named in the countries line and provenance rows and the acceptance count is unchanged at 3 countries. The Maldives placement(s) in this lesson were filed under the original string(s) recorded in each provenance row — `staying-safe/staying-safe-in-the-sun` — resolved to this canonical lesson by the health slug registry Part 2A — and the original string is recorded in each provenance row above. Maldives's own way is content, as the book lines above record it: health is taught as three strands wound through every grade — growth and body awareness, personality and social development, and health of the individual and community — with the country's own concerns named in the later books (the nutritional status of Maldivians, the tropical diseases of the Maldives including thalassaemia, and first aid for near-drowning with CPR). This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
 Searchable tags: hardening the body, sun air and water, hardening with sun air and water, walking barefoot on grass and sand, drinking regime, Tajikistan Physical Culture Grades 1-4, Azerbaijan Fiziki Tərbiyə Grades 6-10, Georgian-language edition, hardening the body, self-control diary, Vietnam, Vietnam GDTC, Giáo dục thể chất

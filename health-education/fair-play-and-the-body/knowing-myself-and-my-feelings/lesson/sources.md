@@ -1,8 +1,8 @@
 # Sources — Knowing Myself and My Feelings
 
-countries: Samoa, Timor-Leste, Bulgaria, Azerbaijan, Turkey, Sierra Leone, Papua New Guinea, Bhutan, Eritrea, Jamaica
+countries: Samoa, Timor-Leste, Bulgaria, Azerbaijan, Turkey, Sierra Leone, Papua New Guinea, Bhutan, Eritrea, Jamaica, Maldives
 
-**Acceptance count: taught in 5 countries.** Bulgaria is filed as student-book stock, inside the acceptance count, in this lesson. Samoa is filed as curriculum statement evidence only in this lesson — named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below). Turkey is filed as teacher-guide evidence only in this lesson — Book 1 is a TEACHER guide, so Turkey is named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this Turkey row. Sierra Leone is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Sierra Leone rows (see its Sierra Leone section below). Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — all five Bhutan books are STUDENT books. Eritrea is added as student-book stock (see its Eritrea section below), inside the acceptance count — all three Eritrea books are STUDENT books. Jamaica is filed as curriculum-guide evidence only in this lesson (see its Jamaica section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Jamaica rows in this lesson — both read Jamaica books are curriculum guides (TEACHER).
+**Acceptance count: taught in 5 countries.** Bulgaria is filed as student-book stock, inside the acceptance count, in this lesson. Samoa is filed as curriculum statement evidence only in this lesson — named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below). Turkey is filed as teacher-guide evidence only in this lesson — Book 1 is a TEACHER guide, so Turkey is named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this Turkey row. Sierra Leone is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Sierra Leone rows (see its Sierra Leone section below). Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — all five Bhutan books are STUDENT books. Eritrea is added as student-book stock (see its Eritrea section below), inside the acceptance count — all three Eritrea books are STUDENT books. Jamaica is filed as curriculum-guide evidence only in this lesson (see its Jamaica section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Jamaica rows in this lesson — both read Jamaica books are curriculum guides (TEACHER). Maldives is filed as teacher-guide evidence only in this lesson (see its Maldives section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Maldives rows in this lesson.
 
 **Book 1 — Samoa HPE Primary Curriculum Statement, Years 1–8 (curriculum statement, English):**
 - Title as printed: Health and Physical Education, Years 1–8, Primary School Curriculum
@@ -279,5 +279,97 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/jamaica-heal
 | Jamaica — Unit 1: Personal Growth and Development — personal growth, Grade 9 level (curriculum guide — evidence) (original string `staying-safe/HELD-title-decision`) | Jamaica, *Health and Family Life Education Curriculum — Grade 9, New Edition* (Jamaica Grade 9 HFLE Curriculum 2023, curriculum guide), printed p. 2 |
 
 Jamaica is filed as curriculum-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — the read Jamaica books are curriculum guides (TEACHER), so Jamaica is named in the countries line and provenance rows and the acceptance count is unchanged at 5 countries. The Jamaica placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved to this canonical lesson (`fair-play-and-the-body/knowing-myself-and-my-feelings`) by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Jamaica's own way is content, as the book lines above record it: HFLE is a life-skills subject built on the CARICOM regional framework — five themes (Self and Interpersonal Relationships; Safety and Security, new in this edition; Sexuality and Sexual Health; Appropriate Eating and Fitness; Managing the Environment) taught through reflective, affective-domain lessons, with sample lesson plans and a mental-health appendix, the Grade 9 book completing the same spiral with sexually transmitted infections, food security and a "Responsible Earthlings" environmental unit. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+## Maldives — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-health-placements.md. 10 Maldives placement(s) stocked in this lesson. The Maldives book(s) stocked in this lesson: Book 2, Book 3, Book 4, Book 5, Book 6, Book 7 of that file. Every Maldives book stocked here is a TEACHER guide, so Maldives is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Book 1 of that file (Health & Physical Education Grade 1 Syllabus) is RECORD-ONLY — a curriculum/syllabus document, not a textbook — with 0 placements, nothing stocked from it; Book 8 (Exploring Health & PE 3 Student Book, Scribd copy) is UNREAD as filed — view-only Scribd reader, no direct-download route, full download behind a Scribd login under the no-login rule — with 0 placements, nothing stocked from it. No Maldives placement in this merge resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 2 — Exploring H&PE 3 TG (teacher guide, English):**
+- Title as printed: Exploring Health and Physical Education — Teacher's Guide 3
+- Grade: Grade 3 (student/teacher: TEACHER)
+- Publisher: National Institute of Education, Maldives and Cambridge University Press, India; year 2015; ISBN 978-11-07528-70-3 as printed
+- PDF pages: 247 (cover verified; read in full)
+- Verdict: COMPLETE — its PE parts (Unit IV) are filed in maldives-pe-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book. The same book is also recorded as a direct nie.edu.mv download-list record (pkg 5324); filed once.
+- Tally: 19 placements — 1 to existing lessons, 18 NEW LESSON NEEDED (2 of them HELD-title-decision)
+- Maldives's own way: health is taught as three strands wound through every grade — growth and body awareness, personality and social development, and health of the individual and community — so a Grade 3 child meets nutrition, diseases, feelings, hygiene, environment and road safety inside one subject.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-health-placements.md (Book 2 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Maldives — Unit I, Lesson 2: Keeping Safe — body shapes are just differences: there is no "ideal" body shape, and identity is who you are, not how you look (original string `staying-safe/positive-body-image-and-self-worth`) | Maldives Grade 3 Exploring H&PE TG, printed pp. 22–37 (teacher guide — evidence) |
+| Maldives — Unit II, Lesson 6: I, Me, Myself — knowing and naming your own feelings (SEAL — Social and Emotional Aspects of Learning), showing emotions in faces and drama (original string `staying-safe/balancing-emotions-and-mental-wellbeing`) | Maldives Grade 3 Exploring H&PE TG, printed pp. 91–106 (teacher guide — evidence) |
+
+**Book 3 — Exploring H&PE 4 TG (teacher guide, English):**
+- Title as printed: Exploring Health and Physical Education — Teacher's Guide 4
+- Grade: Grade 4 (student/teacher: TEACHER)
+- Publisher: National Institute of Education, Maldives and Cambridge University Press, India; year 2016; ISBN 978-13-16605-18-9 as printed
+- PDF pages: 157 (cover verified; read in full)
+- Verdict: COMPLETE — its PE parts (Unit IV) are filed in maldives-pe-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book. The same book is also recorded as a direct nie.edu.mv download-list record (pkg 5324); filed once.
+- Tally: 15 placements — 0 to existing lessons, 15 NEW LESSON NEEDED (2 of them HELD-title-decision)
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-health-placements.md (Book 3 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Maldives — Unit II, Lesson 6: I, Me, Myself — positive self-esteem and its impact on behaviour, self-confidence when attempting new tasks, and the influence of peers (original string `staying-safe/balancing-emotions-and-mental-wellbeing`) | Maldives Grade 4 Exploring H&PE TG, printed pp. 64–73 (teacher guide — evidence) |
+
+**Book 4 — Exploring H&PE 5 TG (teacher guide, English):**
+- Title as printed: Exploring Health and Physical Education — Teacher's Guide 5
+- Grade: Grade 5 (student/teacher: TEACHER)
+- Publisher: National Institute of Education, Maldives and Cambridge University Press, India; year 2016; ISBN 978-1-316-60520-2
+- PDF pages: 164 (cover verified; read in full)
+- Verdict: COMPLETE — its PE parts (Unit IV) are filed in maldives-pe-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book. The same book is also recorded as a direct nie.edu.mv download-list record (pkg 5324); filed once.
+- Tally: 18 placements — 1 to existing lessons, 17 NEW LESSON NEEDED (3 of them HELD-title-decision)
+- Maldives's own way: Grade 5 health turns outward to the country's real problems — the nutritional status of Maldivians (junk food, energy drinks, supari/areca nut), food spoilage in a hot island climate, and safety mapped onto the child's own school grounds.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-health-placements.md (Book 4 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Maldives — Unit II, Lesson 6: I, Me, Myself — recognising the positive and negative influences of friends and family on thoughts and behaviour, and ways to cope with negative influences (original string `staying-safe/balancing-emotions-and-mental-wellbeing`) | Maldives Grade 5 Exploring H&PE TG, printed pp. 66–75 (teacher guide — evidence) |
+| Maldives — Unit II, Lesson 8: Friendship and Resilience — self-esteem: how low self-esteem can lead to depression and alienation, "I" statements that raise self-esteem, and complaining gracefully without damaging relationships (original string `staying-safe/balancing-emotions-and-mental-wellbeing`) | Maldives Grade 5 Exploring H&PE TG, printed pp. 87–97 (teacher guide — evidence) |
+
+**Book 5 — Exploring H&PE 6 TG (teacher guide, English):**
+- Title as printed: Exploring Health and Physical Education — Teacher's Guide 6
+- Grade: Grade 6 (student/teacher: TEACHER)
+- Publisher: National Institute of Education, Maldives and Cambridge University Press, India; year 2016; ISBN 978-1-316-60522-6
+- PDF pages: 169 (cover verified; read in full)
+- Verdict: COMPLETE — its PE parts (Unit IV) are filed in maldives-pe-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book. The same book is also recorded as a direct nie.edu.mv download-list record (pkg 5324); filed once.
+- Tally: 16 placements — 0 to existing lessons, 16 NEW LESSON NEEDED (2 of them HELD-title-decision)
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-health-placements.md (Book 5 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Maldives — Unit II, Lesson 6: I, Me, Myself — developing and maintaining a positive self-concept: knowing your strengths and weaknesses and reacting positively to criticism (original string `staying-safe/balancing-emotions-and-mental-wellbeing`) | Maldives Grade 6 Exploring H&PE TG, printed pp. 70–83 (teacher guide — evidence) |
+
+**Book 6 — Exploring H&PE 7 TG (teacher guide, English):**
+- Title as printed: Exploring Health and Physical Education — Teacher's Guide 7
+- Grade: Grade 7 (student/teacher: TEACHER)
+- Publisher: National Institute of Education, Maldives and Cambridge University Press, India; year 2017; ISBN 978-1-316-63968-9
+- PDF pages: 246 (cover verified; read in full)
+- Verdict: COMPLETE — its PE parts (Unit IV) are filed in maldives-pe-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book. The same book is also recorded as a direct nie.edu.mv download-list record (pkg 5324); filed once.
+- Tally: 15 placements — 1 to existing lessons, 14 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- Maldives's own way: Key Stage 3 health names the country's own disease burden — the tropical diseases of an equatorial island state (dengue, malaria, filariasis, chikungunya, cholera, typhoid, tuberculosis, pneumonia, jaundice) — and adds a full emergency and first aid chapter.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-health-placements.md (Book 6 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Maldives — Unit II, Lesson 4: Personal Identity — personal identity: positive self-esteem, self-confidence, strengths and weaknesses, self-image and its influences (media, fashion, family, peers, gender, culture), and responding to successes, challenges and failures (original string `staying-safe/balancing-emotions-and-mental-wellbeing`) | Maldives Grade 7 Exploring H&PE TG, printed pp. 52–66 (teacher guide — evidence) |
+| Maldives — Unit II, Lesson 6: Mental Health and Well-being — a healthy mind and a healthy body: mental health versus mental illness, behaviour that builds a socially and mentally healthy personality, dealing with stress and coping with change, and sources of help (original string `staying-safe/balancing-emotions-and-mental-wellbeing`) | Maldives Grade 7 Exploring H&PE TG, printed pp. 89–104 (teacher guide — evidence) |
+
+**Book 7 — Exploring H&PE 8 TG (teacher guide, English):**
+- Title as printed: Exploring Health and Physical Education — Teacher's Guide 8
+- Grade: Grade 8 (student/teacher: TEACHER)
+- Publisher: National Institute of Education, Maldives and Cambridge University Press, India; year 2017; ISBN 978-1-316-63970-2
+- PDF pages: 270 (cover verified; read in full)
+- Verdict: COMPLETE — its PE parts (Unit IV) are filed in maldives-pe-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book. The same book is also recorded as a direct nie.edu.mv download-list record (pkg 5324); filed once.
+- Tally: 15 placements — 1 to existing lessons, 14 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- Maldives's own way: the final book teaches the diseases prevalent in the Maldives by name — including thalassaemia, the inherited blood disorder of high local concern — and first aid for the island emergency that matters most: near-drowning, with CPR.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-health-placements.md (Book 7 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Maldives — Unit II, Lesson 4: Personal Identity — strengthening personal identity: strong personal values, telling right from wrong, self-confidence and self-esteem, assertive behaviour, and responding positively to life's challenges (original string `staying-safe/balancing-emotions-and-mental-wellbeing`) | Maldives Grade 8 Exploring H&PE TG, printed pp. 66–82 (teacher guide — evidence) |
+| Maldives — Unit II, Lesson 6: Mental Health and Well-being — how emotional responses affect mental well-being and decision-making; common mental illnesses (depression, anxiety, panic disorders), how they are detected and treated, and their effects on overall well-being (original string `staying-safe/balancing-emotions-and-mental-wellbeing`) | Maldives Grade 8 Exploring H&PE TG, printed pp. 103–120 (teacher guide — evidence) |
+
+Maldives is filed as teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — every Maldives book stocked here is a TEACHER guide, so Maldives is named in the countries line and provenance rows and the acceptance count is unchanged at 5 countries. The Maldives placement(s) in this lesson were filed under the original string(s) recorded in each provenance row — `staying-safe/balancing-emotions-and-mental-wellbeing` — resolved to this canonical lesson by the health slug registry Part 2A; `staying-safe/positive-body-image-and-self-worth` — resolved to this canonical lesson by the health slug registry Part 2A — and the original string is recorded in each provenance row above. Maldives's own way is content, as the book lines above record it: health is taught as three strands wound through every grade — growth and body awareness, personality and social development, and health of the individual and community — with the country's own concerns named in the later books (the nutritional status of Maldivians, the tropical diseases of the Maldives including thalassaemia, and first aid for near-drowning with CPR). This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
 Searchable tags: knowing myself feelings, personal identity self-esteem, cultural spiritual beliefs values, social messages stereotyping media, personal strengths teenage challenges, Samoa Years 1–8 Curriculum, self-esteem self-worth body image what lowers confidence, resilience confidence, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, body image perfect figure in a short time discussion, Bulgaria Biology and Health Education Grade 8 Pedagog 6, Azerbaijan Fiziki Tərbiyə Grades 6-10, Georgian-language edition, hardening the body, self-control diary, feelings and wellbeing for young children, Kendimi Nasıl Hissediyorum, Mutluyum Kuvvetliyim, Turkey Preschool Movement & Health TG, Sierra Leone AHLS Teacher's Manual SSS1 SSS2 SSS3, adolescent health and life skills Sierra Leone, Papua New Guinea, Papua New Guinea Grade 4 Health TG Grade 4, Papua New Guinea Grade 5 Health TG Grade 5, Bhutan, Bhutan PP–I Suggested Activities, Bhutan II–III Suggested Activities, Eritrea, Life Skills Based Health Education Eritrea Grades 6 7 8, Who Can Help Me Meet My Goals?, People I Admire, Coping with Emotions and Stress, What Are My Goals?, Obstacles to One's Goals: Stressors, Jamaica, Jamaica HFLE, Health and Family Life Education Jamaica, CARICOM HFLE, Ministry of Education and Youth Jamaica 2023, Personal Growth and Development

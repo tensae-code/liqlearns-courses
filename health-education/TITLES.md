@@ -654,3 +654,30 @@ here; verified by git grep on origin/main, it is not yet
 stocked in PE either, so it awaits a PE fix-up. The five
 UNREAD / record-only items of the placements file carry
 0 placements — nothing stocked from them.
+
+The Health expansion then added (Maldives): no new lessons —
+98 placements stocked into existing lessons (Why Exercise
+Keeps You Healthy ×11, Knowing Myself and My Feelings ×10,
+Eating a Balanced Diet ×10, Preventing Common Diseases ×8,
+Family and Friends ×7, Keeping Our Environment Healthy ×7,
+Keeping My Body Clean ×6, Puberty and Growing Up ×6,
+Keeping Teeth Healthy ×5, Avoiding Accidents and Staying
+Safe ×4, Protecting Myself from Abuse ×4, Food Hygiene and
+Safe Cooking ×3, Health Services and Health Workers ×3,
+Mental Health and Wellbeing ×3, First Aid for Emergencies
+×2, Preventing Sports Injuries and First Aid ×2, Saying No
+to Drugs, Alcohol and Tobacco ×2, Checking Health
+Information, Hardening the Body, Paying Attention and
+Crossing the Road Safely, Staying Safe While Exercising,
+Water Safety) — this course stays at 55 lessons. All six
+Maldives books stocked (the *Exploring Health and Physical
+Education* teacher's guides, Grades 3–8, NIE Maldives and
+Cambridge University Press, India, 2015–2017) are TEACHER
+guides, so Maldives is teacher-guide evidence only, outside
+the acceptance counts, in every lesson it touches (each
+touched lesson's count is unchanged). No Maldives placement
+resolves to a PE-course lesson, so none was excluded as
+PE-bound. Book 1 of the placements file (the Grade 1
+syllabus) is RECORD-ONLY with 0 placements and Book 8 (the
+Grade 3 student book's Scribd copy) is UNREAD with
+0 placements — nothing stocked from either.
