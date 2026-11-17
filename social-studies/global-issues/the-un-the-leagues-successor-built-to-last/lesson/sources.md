@@ -1,6 +1,6 @@
 # Sources — The UN — the League's successor, built to last
 
-countries: Ethiopia, Turkmenistan, Venezuela, Samoa
+countries: Ethiopia, Turkmenistan, Venezuela, Samoa, Somalia
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -19,13 +19,17 @@ countries: Ethiopia, Turkmenistan, Venezuela, Samoa
 
 | Samoa part — global-issues/the-un-the-leagues-successor-built-to-last — Unit 2 Topic 2 Fighting For Human Rights And Social Justice (United Nations section) — teaches: how the United Nations works for human rights today through the Economic and Social Council and its agencies (FAO, WHO, UNICEF, UNESCO) — growth, aid, ending discrimination, helping refugees — beside the European Commission of Human Rights — Samoa Year 10 Book 1, printed p. 40 | Samoa, *Social Studies — Year 10 Book One* (student book), Unit 2 Topic 2 Fighting For Human Rights And Social Justice (United Nations section) — printed p. 40 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Turkmenistan, Venezuela, Samoa).**
+**Book 5:** *Barbaarinta iyo Cilmiga Beesha, Fasalka Lixaad* (student book, Somali) — Title as printed: BARBAARINTA IYO CILMIGA BEESHA — FASALKA LIXAAD (Upbringing and Social Studies — Sixth Grade). Grade: Grade 6 (student/teacher: STUDENT). Publisher: Somali Democratic Republic, Ministry of Education, Curriculum Office; authors Moxamed Cali Cabdikariin, Cabdirasaaq Cali Cusmaan; compiled by Maxamed Cali Warsame and Ibraahim Moxamed Abyan; year not printed on the pages read; no ISBN printed. PDF pages: 84 (cover verified against the record title; 2,373,596 bytes exact match to the link record). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Civics / political education throughout: uniting the nation p. 8; History pp. 21–24 (colonial invasion and the independence movements — named, not placed); discrimination p. 25; clanism p. 36; world Zionism p. 40; the United Nations p. 46; scientific socialism p. 58; self-help p. 63; taxes p. 72; where general knowledge grows p. 75. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/somalia-placements.md. External-link book NOT in GitHub, staged under the 2026-11-13 rule, as filed.
+
+| Somalia part — global-issues/the-un-the-leagues-successor-built-to-last — Ummadaha Midoobay (The United Nations) — teaches: the United Nations — the world's organisation of states, what it is and what it is for — Somalia Grade 6 Barbaarinta iyo Cilmiga Beesha, printed p. 46 | Somalia, *Barbaarinta iyo Cilmiga Beesha, Fasalka Lixaad* (student book), Ummadaha Midoobay (The United Nations) — printed p. 46 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Turkmenistan, Venezuela, Samoa, Somalia).**
 
 Dating error carried, taught corrected: §5.1 of the Grade 10 book dates the League of Nations "1926 to 1946" (printed pp. 112–117). The League was founded in 1919, as the book's own Unit 4 teaches; this lesson and the League lesson teach 1919, and the error is named in sources only. The book's Unit 5 summary also speaks of "the fall of Communism in Asia during the Cold War" where the unit's closing lesson is the collapse of the Soviet Union — no content is built on the summary's phrase.
 
 Samoa's own way: Government is taught as Samoa's own Westminster-style parliament first (matai seats, the Individual Voters Roll, its parties and its real 2001 election, problems included), then Japan's Peace-Constitution government as the comparison; rights are taught from the classroom's own rights list outward to the UN and Amnesty.
 
-Searchable tags: United Nations, Charter 1945, General Assembly, Security Council, Secretariat, International Court of Justice, Grade 10, Samoa
+Searchable tags: United Nations, Charter 1945, General Assembly, Security Council, Secretariat, International Court of Justice, Grade 10, Samoa, Somalia
 
 ## History fix (2026-11-12) — provenance completed
 
@@ -56,3 +60,5 @@ History fix note (2026-11-12): the History coverage audit found this lesson's co
 Turkmenistan's own way (Grade 10): A classic post-Soviet economic-and-social geography of the whole world in one book: Part I general world (political map, resources, population, world economy by sector), Part II the same template region by region and country by country, Part III global problems — with Turkmenistan's own memberships and ecological policy woven into the questions.
 
 Venezuela's own way (Venezuela Grade 7 G7 Geography Humanidad): a Geohistoria (Ramón Tovar) approach — geographic space is always explained through the historical conditions that built it; every chapter opens with a literary epigraph, works through "Entérate / Entretejiendo saberes / Indagando" boxes, and keeps returning to the learner's own community and to Caracas as the worked example.
+
+Somalia's own way (Grade 6): by Grade 6 the subject is open political education — the enemies of unity are named in a row (colonialism, racism, clanism, Zionism), the world's organisation is studied, the state's doctrine is taught as science, and citizenship becomes fiscal: the book ends with taxes and with the newspapers that keep a citizen informed.

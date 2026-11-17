@@ -1,0 +1,11 @@
+# Video script — The Socialist Family
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). This script is full: the placements name a video-script need for this lesson. Made later, when videos are made; the script is the slot's written form until then.
+
+---
+
+Somalia Grade 2 Barbaarinta iyo Cilmiga Beesha (printed p. 24), teaches: the ideal mother of the new society told as a story — her work, her care and her part in building the country.
+
+Somalia Grade 2 Barbaarinta iyo Cilmiga Beesha (printed p. 32), teaches: the ideal father told as a story — Raage the fisherman, a Guulwade who believes in socialism and works for his people and country, goes out in groups with men and women, and is decorated with medals of bravery — the family as the smallest unit of the new state.
+
+Somalia's own way (Grade 2): Grade 2 teaches the same civic world through people, not topics — a mother, a father, a fisherman-hero — and through the child's own uniformed corps, the October Revolution Flowers, whose members are known by cleanliness, honesty, bravery and love of the flag.
