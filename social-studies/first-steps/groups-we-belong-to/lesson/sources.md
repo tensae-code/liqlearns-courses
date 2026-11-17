@@ -1,16 +1,22 @@
 # Sources — Groups We Belong to
 
-countries: Maldives
+countries: Maldives, Samoa
 
 **Book 1:** *Exploring Social Studies 4* (student book, English) — Title as printed: Exploring Social Studies 4. Grade: Grade 4 (student/teacher: STUDENT). Publisher: National Institute of Education, Ministry of Education, Maldives; year 2025 (first published 2025); ISBN 978-99915-0-954-9. PDF pages: printed pagination 1–189 plus front matter (read in full via the NIE download's indexed full text — the direct file download from this host failed on every attempt: the WPDM link's refresh token returns an error to shell downloads, so the book could NOT be staged; see the group log. Cover, title page, ISBN and contents verified against the record title in the indexed text.) Earlier waves: not read before. Verdict: COMPLETE — contents-mapped in full; Units 1, 5 and 6 (the remaining strands) read page by page. Contents map: Integrated SS printed pp. 1–30 (Unit 1 Belonging & Connections); Civics/Citizenship/Government pp. 131–160 (Unit 5 Living Together); Culture in society pp. 161–189 (Unit 6 We the Maldivians); Geography pp. 31–76 (Unit 2 People, Places and the Environment — named, not placed); History pp. 77–98 and 183–188 (Unit 3 Time, Continuity and Change; §6.4 Our National Heroes — named, not placed); Economics pp. 99–130 (Unit 4 The Economic World — named, not placed); Religion within §5.2 (Islam teaches peace and harmony — named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/maldives-placements-b.md.
+
+**Book 2:** *Social Studies — Year 9 Book One* (student book, English) — Title as printed: Social Studies — Year 9 Book One. Grade: Year 9 (student/teacher: STUDENT). Publisher: Ministry of Education, Sports and Culture, Samoa; year 2004 (reprint of 2001); ISBN 982-517-008-5. PDF pages: 84 (cover/title page verified against the record title; MESC copy, size 12,715,801 B per download list). Read from the MESC ministry source URL recorded in the books.json record — the same MESC PDF the Geography wave verified byte-for-byte against the record and already secured in GitHub (in_pushed: true) — via the browser text route, cover/title page and ISBN checked against the record before reading; no file staged — the book is already in GitHub, as filed in samoa-placements.md. Earlier waves: Geography wave placed Units 1–3 (resources/economic activities, printed pp. 5–56); History wave placed two history story-parts inside Unit 4 Topic 4 "Tonga" (settlement, Tupou I) and Unit 3 heritage activities; Economics wave placed Units 1–3. Unit 4's groups/village-organisation/kautaha/Tonga-political-system teaching was named "Civics, not placed" by both Geography and History waves — read and placed here. Verdict: COMPLETE. Contents map: Integrated SS pp. 57–83 (Unit 4 Being Part of a Group); Civics/Citizenship/Government pp. 75–83 (Topic 6 The Political System of Tonga); Geography pp. 5–26; History pp. 71–72 (inside Topic 4); Economics pp. 27–56. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/samoa-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — first-steps/groups-we-belong-to — 1.3 Groups we belong to — teaches: the groups of our lives — family first, then neighbours, school, Scouts and Guides, sports teams and clubs; groups share interests, give members roles and responsibilities, and hold rules that guide behaviour — Maldives Grade 4 Exploring Social Studies 4, printed p. 20 | Maldives, *Exploring Social Studies 4* (student book), 1.3 Groups we belong to — printed p. 20 |
 | Sub lesson 2 — Maldives's way — the book's own teaching way | Maldives — the book's own way of teaching (see below) |
 
-**Acceptance count: taught in 1 country (Maldives).**
+| Samoa part — first-steps/groups-we-belong-to — Unit 4 Topic 1 Groups We Belong To / Social Groups — teaches: what a social group is (shared interests, beliefs, values, belonging) and the groups in a child's own life, mapped in a splatter diagram — Samoa Year 9 Book 1, printed p. 57 | Samoa, *Social Studies — Year 9 Book One* (student book), Unit 4 Topic 1 Groups We Belong To / Social Groups — printed p. 57 |
+
+**Acceptance count: taught in 2 countries (Maldives, Samoa).**
 
 Maldives's own way: belonging widens in rings — me, family, school, island, atoll, country, world — and citizenship is taught through the island itself: its councilors, its roads, its flag and its crafts.
 
-Searchable tags: groups we belong to, Maldives, social studies, first-steps
+Samoa's own way: Social organisation is taught from the inside out — the groups a child belongs to first, then the aiga and its matai, then the village's own circle of groups (matai at the centre, aumaga as the matai's right hand), and only then a neighbour kingdom's political system as the worked example of government.
+
+Searchable tags: groups we belong to, Maldives, Samoa, social studies, first-steps

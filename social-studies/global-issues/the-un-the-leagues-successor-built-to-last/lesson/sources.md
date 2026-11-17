@@ -1,12 +1,14 @@
 # Sources — The UN — the League's successor, built to last
 
-countries: Ethiopia, Turkmenistan, Venezuela
+countries: Ethiopia, Turkmenistan, Venezuela, Samoa
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
 **Book 2:** *Dünýäniň ykdysady we durmuş geografiýasy (World Economic and Social Geography)* (student book, Turkmen) — Turkmenistan, Türkmen döwlet neşirýat gullugy (Turkmen State Publishing Service), Aşgabat; year 2022; no ISBN printed (UDC 373:911.3; order no. 2149). Title as printed: Dünýäniň ykdysady we durmuş geografiýasy (Umumy orta bilim berýän mekdepleriň X synpy üçin okuw kitaby). Grade 10 (X synp) (student). 264 PDF pp. (cover/title page verified against the record title; 264 pages exact match to the books.json record; read via grab.py url (GitHub release; byte size 7,680,130 exact match to the books.json record), verified by pdfinfo + title page; contents read from the printed Mazmuny (pp. 260-262)). Verdict: COMPLETE. Records: 2 records / 1 distinct book (TSV release URL + books.json record are the same book). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/turkmenistan-placements.md.
 
 **Book 3:** *El espacio geográfico de la Humanidad — Ciencias Sociales, 1er Año* (student book, Spanish) — Ministerio del Poder Popular para la Educación / Colección Bicentenario (co-edition with Ministerio de Cultura, Fundación Editorial El perro y la rana); year 2014 (third edition, April 2014); ISBN 978-980-218-334-0. Title as printed: El espacio geográfico de la Humanidad — Ciencias Sociales, 1er Año. Grade: Grade 7 (1er Año de Educación Media) (student/teacher: STUDENT). PDF pages: 162 (cover/title page verified against the record title; byte size 88,531,252 matches the books.json record; read in place in phase3-staging). Verdict: COMPLETE. (Combined book — Geography parts placed below; parts named, not placed — History/Civics parts named, not placed: none — this is a pure Geography book; historical material (Caracas 1936/1966, Bolívar's unity ideal) is used inside Geography chapters.) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/venezuela-placements.md.
+
+**Book 4:** *Social Studies — Year 10 Book One* (student book, English) — Title as printed: Social Studies — Year 10 Book One. Grade: Year 10 (student/teacher: STUDENT). Publisher: Government of Samoa, Department of Education; year 2001; ISBN 982-517-009-3. PDF pages: 100 (cover/title page verified against the record title; MESC copy, size 2,049,510 B per download list). Read from the MESC ministry source URL recorded in the books.json record — the same MESC PDF the Geography wave verified byte-for-byte against the record and already secured in GitHub (in_pushed: true) — via the browser text route, cover/title page and ISBN checked against the record before reading; no file staged — the book is already in GitHub, as filed in samoa-placements.md. Earlier waves: Geography wave placed Unit 3–4 skills (graphs, census, pp. 59–98) and named Units 1–2 "Civics, not placed"; History wave placed Unit 1 Topic 1's development narrative, Unit 2's historical case studies, the rights-documents chain, the UDHR and the Mau timeline (pp. 5–6, 10, 25–48) and named the present-day civics parts not placed (voting/law-making pp. 8–18, Japan pp. 19–22, UN/Amnesty/protest pp. 33–45, 48–58); Economics wave placed the census/graph skills only. The civics teaching named by both waves was read and placed here. Verdict: COMPLETE. Contents map: Civics/Citizenship/Government pp. 5–58 (Unit 1 Government; Unit 2 Human Rights); Geography/Skills pp. 59–98 (Units 3–4, placed by Geography wave). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/samoa-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -15,11 +17,15 @@ countries: Ethiopia, Turkmenistan, Venezuela
 | Turkmenistan part — §4 International relations and international organisations | Turkmenistan, *Dünýäniň ykdysady we durmuş geografiýasy (World Economic and Social Geography)*, Grade 10, §4 International relations and international organisations — printed p. 20 |
 | Venezuela part — ¡Unidad, unidad, unidad!: the UN and the OAS as integration bodies | Venezuela, *Venezuela Grade 7 G7 Geography Humanidad*, ¡Unidad, unidad, unidad!: the UN and the OAS as integration bodies — printed p. 118 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Turkmenistan, Venezuela).**
+| Samoa part — global-issues/the-un-the-leagues-successor-built-to-last — Unit 2 Topic 2 Fighting For Human Rights And Social Justice (United Nations section) — teaches: how the United Nations works for human rights today through the Economic and Social Council and its agencies (FAO, WHO, UNICEF, UNESCO) — growth, aid, ending discrimination, helping refugees — beside the European Commission of Human Rights — Samoa Year 10 Book 1, printed p. 40 | Samoa, *Social Studies — Year 10 Book One* (student book), Unit 2 Topic 2 Fighting For Human Rights And Social Justice (United Nations section) — printed p. 40 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Turkmenistan, Venezuela, Samoa).**
 
 Dating error carried, taught corrected: §5.1 of the Grade 10 book dates the League of Nations "1926 to 1946" (printed pp. 112–117). The League was founded in 1919, as the book's own Unit 4 teaches; this lesson and the League lesson teach 1919, and the error is named in sources only. The book's Unit 5 summary also speaks of "the fall of Communism in Asia during the Cold War" where the unit's closing lesson is the collapse of the Soviet Union — no content is built on the summary's phrase.
 
-Searchable tags: United Nations, Charter 1945, General Assembly, Security Council, Secretariat, International Court of Justice, Grade 10
+Samoa's own way: Government is taught as Samoa's own Westminster-style parliament first (matai seats, the Individual Voters Roll, its parties and its real 2001 election, problems included), then Japan's Peace-Constitution government as the comparison; rights are taught from the classroom's own rights list outward to the UN and Amnesty.
+
+Searchable tags: United Nations, Charter 1945, General Assembly, Security Council, Secretariat, International Court of Justice, Grade 10, Samoa
 
 ## History fix (2026-11-12) — provenance completed
 

@@ -1,0 +1,19 @@
+# Types of Groups Primary and Secondary — multiple choice
+
+Pick the one right answer.
+
+**1. (Sub lesson 1)** The first part of this lesson is —
+a) Types of Groups Primary and Secondary  b) learning the alphabet  c) counting to ten
+**Answer: a) Types of Groups Primary and Secondary**
+
+**2. (Sub lesson 1)** This lesson is mainly about —
+a) primary groups (close ties, face-to-face — family, peer group) versus secondary groups (larger, purpose-based, written rules, leaders — school, youth group, choir)  b) ancient kings only  c) the Moon's phases
+**Answer: a) primary groups (close ties, face-to-face — family, peer group) versus secondary groups (larger, purpose-based, written rules, leaders — school, youth group, choir)**
+
+**3. (Sub lesson 2)** The second part of this lesson is —
+a) Samoa's way — the book's own teaching way  b) learning to swim  c) telling the time
+**Answer: a) Samoa's way — the book's own teaching way**
+
+**4. (Sub lesson 2)** Which of these is true, from the lesson?
+a) This lesson teaches primary groups (close ties, face-to-face — family, peer group) versus secondary groups (larger, purpose-based, written rules, leaders — school, youth group, choir).  b) Samoa's books never study this thing.  c) This lesson teaches nothing about its topic
+**Answer: a) This lesson teaches primary groups (close ties, face-to-face — family, peer group) versus secondary groups (larger, purpose-based, written rules, leaders — school, youth group, choir).**
