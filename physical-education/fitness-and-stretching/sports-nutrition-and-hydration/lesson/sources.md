@@ -1,8 +1,8 @@
 # Sources — Sports Nutrition and Hydration
 
-countries: United Kingdom, Fiji, Iran, Papua New Guinea, Turkey, Oman, Honduras
+countries: United Kingdom, Fiji, Iran, Papua New Guinea, Turkey, Oman, Honduras, Myanmar
 
-**Acceptance count: taught in 4 countries (United Kingdom, Fiji, Iran, Honduras).** United Kingdom is student-book stock (see its rows below), inside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; the Fiji teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Turkey is added as teacher-guide evidence only (see its Turkey section below), named in the countries line but outside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count — the acceptance count rises from 3 to 4 countries.
+**Acceptance count: taught in 5 countries (United Kingdom, Fiji, Iran, Honduras, Myanmar).** United Kingdom is student-book stock (see its rows below), inside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; the Fiji teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Turkey is added as teacher-guide evidence only (see its Turkey section below), named in the countries line but outside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count — the acceptance count rises from 3 to 4 countries. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count — the acceptance count rises from 4 to 5 countries; the Myanmar teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
 
 **Book — United Kingdom GCSE Edexcel PE student book (student book):** *Edexcel GCSE (9-1) Physical Education Student Book, 2nd edition* (student book, English) — Title as printed: Edexcel GCSE (9-1) Physical Education — Tony Scott (cover: "2nd edition") — Grade: GCSE, Years 10–11 (student/teacher: STUDENT) — Publisher: Pearson Education; year first published 2016 (2nd edition; imprint number line 19 18 17 16); ISBN 978 1 29212 988 4 — PDF pages: 228 (cover verified against the record title; file size 20,156,655 B and MD5 match the archive.org item metadata exactly). Verdict: COMPLETE — read in full via the extracted text layer. The book's own "Preparing for your exam" sections (printed pp. 118, 176) are assessment preparation — named here, excluded from placements per the standing exclusions; the glossary (p. 205) and index (p. 210) are inventory-only, named, not placed. Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/united-kingdom-pe-placements.md. United Kingdom's own way: PE at GCSE is an examined academic subject — anatomy, physiology, movement analysis and training theory, plus health, psychology and the sociology of sport, with practical performance in three chosen activities and a written Personal Exercise Programme. The second United Kingdom record, *Edexcel GCSE Physical Education Student Book* (2009 edition, Pearson (Edexcel), archive.org item `edexcelgcsephysi0000scot`), is UNREAD — lending-restricted on archive.org, direct GET returned 401/403, no login routes permitted — with 0 placements; nothing is stocked from it.
 
@@ -194,3 +194,94 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/honduras-hea
 | Honduras — Bloque II Secuencia 1 — basic nutrition rules for exercise: food gives the energy for exercise and recovery, the diet that supports a training programme, and the nutritional pyramid (filed in honduras-health-placements.md as NEW LESSON NEEDED — `staying-safe/HELD-title-decision`; resolved through the health slug registry Part 2B to PE canonical `fitness-and-stretching/sports-nutrition-and-hydration`; stocked here by fix-up) | Honduras, *Libro del Estudiante — Educación Física, 9no Grado* (Honduras Grade 9 HN G9 student), Bloque II Secuencia 1, printed p. 61 |
 
 Honduras's placement in this lesson was filed in honduras-health-placements.md as NEW LESSON NEEDED — `staying-safe/HELD-title-decision`, resolved through the health slug registry (Part 2B) to PE canonical `fitness-and-stretching/sports-nutrition-and-hydration` (pe-slug-registry.md), this lesson, and stocked here by fix-up, as recorded in the provenance row. Honduras enters this lesson as student-book stock, inside the acceptance count. Book 4's "Versión no validada" cover banner and its push-don't-delete staging are carried exactly as filed. Honduras's own way is content, as the book line above records it: health teaching peaks in this book — exercise benefits and risks, food and hydration rules, and a group-poster study of the four harmful habits (sedentarism, smoking, alcoholism, bad eating habits); Olympic values close the sport block. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Myanmar — PE expansion 2026-11-16 (Health-file fix-up)
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/myanmar-health-placements.md. These 9 placements were filed in myanmar-health-placements.md — not in myanmar-pe-placements.md — as NEW LESSON NEEDED — `staying-safe/food-and-drink-for-sport`, and are stocked here by fix-up: the health slug registry resolves `staying-safe/food-and-drink-for-sport` (9 lines, myanmar-health-placements.md) to PE canonical `fitness-and-stretching/sports-nutrition-and-hydration` (pe-slug-registry.md), this lesson. The Myanmar Health merger correctly excluded them from Health and verified they were not yet stocked anywhere. Myanmar is student-book stock in this lesson — named in the countries line and in the provenance rows below, and inside the acceptance count; the acceptance count rises from 4 to 5 countries. The three Myanmar teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Only the food-and-drink-for-sport placements of these books are stocked in this lesson; the books' other Health-file placements are placed in their own resolved lessons, not here. The full book headers below are as filed in myanmar-pe-placements.md, to which myanmar-health-placements.md refers for the full book header; each book's Tally line is the Health-file tally, as filed in myanmar-health-placements.md.
+
+**Book — Myanmar Grade 10 Textbook (student book):**
+## Book 1 — G10 PE Textbook (student book, Myanmar/Burmese)
+- Title as printed: ကာယပညာ (Physical Education), Grade 10 student textbook — the scan carries no cover page; the running heads read ကျောင်းသုံးစာအုပ် / ကာယပညာ / ဒသမတန်း (school textbook / Physical Education / Grade 10) and Chapter 1 opens on PDF p.1
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Myanmar (DBE BOX scan); year not printed on the scanned pages; no ISBN printed
+- PDF pages: 70 (byte size 42,917,679 = record size exactly; the scan repeats the opening pages at the end)
+- Verdict: COMPLETE
+- Tally: 7 placements — 3 to existing lessons, 4 NEW LESSON NEEDED
+- Myanmar's own way: the whole secondary course is built from photo-sequenced exercises with English names kept in brackets, two full circuit-training rounds with record charts, competition-fixture mathematics (league and knockout draws worked numerically), and Myanmar's own net game, sepak takraw, taught with its SEAP Games history.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — §3-2-1 — food groups and what a sportsperson's body gets from each (filed in myanmar-health-placements.md as NEW LESSON NEEDED — `staying-safe/food-and-drink-for-sport`; resolved through the health slug registry to PE canonical `fitness-and-stretching/sports-nutrition-and-hydration`; stocked here by fix-up) | Myanmar, *ကာယပညာ (Physical Education), Grade 10 student textbook* (Myanmar G10 PE Textbook), §3-2-1, printed pp. 62–63 |
+| Myanmar — §3-2-2 — eating around exercise: meals before and after training and matches (filed in myanmar-health-placements.md as NEW LESSON NEEDED — `staying-safe/food-and-drink-for-sport`; resolved through the health slug registry to PE canonical `fitness-and-stretching/sports-nutrition-and-hydration`; stocked here by fix-up) | Myanmar, *ကာယပညာ (Physical Education), Grade 10 student textbook* (Myanmar G10 PE Textbook), §3-2-2, printed pp. 63–64 |
+| Myanmar — §3-2-3 — drinking while exercising: water, sports drinks and reading drink labels (filed in myanmar-health-placements.md as NEW LESSON NEEDED — `staying-safe/food-and-drink-for-sport`; resolved through the health slug registry to PE canonical `fitness-and-stretching/sports-nutrition-and-hydration`; stocked here by fix-up) | Myanmar, *ကာယပညာ (Physical Education), Grade 10 student textbook* (Myanmar G10 PE Textbook), §3-2-3, printed pp. 64–65 |
+
+**Book — Myanmar Grade 10 Teacher Guide (teacher guide — evidence):**
+## Book 2 — G10 PE Teacher Guide (teacher guide, Myanmar/Burmese)
+- Title as printed: ကာယပညာ ဆရာလမ်းညွှန် (Physical Education Teacher Guide), Grade 10 — introduction covers the I-T-P-R lesson shape (Introduction–Teach–Practice–Review), the Grade 10 syllabus and year plan, inclusion/equality notes and a Glossary of Words
+- Grade: 10 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Myanmar (DBE BOX scan); year not printed on the scanned pages; no ISBN printed
+- PDF pages: 56 (byte size 11,241,565 = record size exactly)
+- Verdict: COMPLETE — lesson plans mirror the student textbook chapter by chapter; the closing Glossary of Words (Circuit Training, Sepak Takraw, The Tread Mill, The Paddle) is inventory-only, named here and not placed
+- Tally: 3 placements — 1 to an existing lesson, 2 NEW LESSON NEEDED
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — Lesson plans 3-2-1/3-2-2 — teaching food groups and eating around exercise (teacher guide — evidence) (filed in myanmar-health-placements.md as NEW LESSON NEEDED — `staying-safe/food-and-drink-for-sport`; resolved through the health slug registry to PE canonical `fitness-and-stretching/sports-nutrition-and-hydration`; stocked here by fix-up) | Myanmar, *ကာယပညာ ဆရာလမ်းညွှန် (Physical Education Teacher Guide), Grade 10* (Myanmar G10 PE Teacher Guide), Lesson plans 3-2-1/3-2-2, printed pp. 33–34 (teacher guide — evidence) |
+| Myanmar — Lesson plans 3-2-3/3-2-4 — teaching fluids during exercise and choosing suitable activities, with the class assessment rubric (teacher guide — evidence) (filed in myanmar-health-placements.md as NEW LESSON NEEDED — `staying-safe/food-and-drink-for-sport`; resolved through the health slug registry to PE canonical `fitness-and-stretching/sports-nutrition-and-hydration`; stocked here by fix-up) | Myanmar, *ကာယပညာ ဆရာလမ်းညွှန် (Physical Education Teacher Guide), Grade 10* (Myanmar G10 PE Teacher Guide), Lesson plans 3-2-3/3-2-4, printed pp. 34–36 (teacher guide — evidence) |
+
+**Book — Myanmar Grade 7 Textbook (student book):**
+## Book 3 — G7 PE Textbook (student book, Myanmar/Burmese)
+- Title as printed: ကာယပညာ (Physical Education), Grade 7 student textbook — scan carries no cover; running heads read ကျောင်းသုံးစာအုပ် / ကာယပညာ / သတ္တမတန်း (Grade 7) and Chapter 1 opens on PDF p.1
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Myanmar (DBE BOX scan); year not printed on the scanned pages; no ISBN printed
+- PDF pages: 90 (byte size 43,321,005 = record size exactly)
+- Verdict: COMPLETE
+- Tally: 3 placements — 2 to existing lessons, 1 NEW LESSON NEEDED
+- Myanmar's own way: fitness is taught component by component with the English names kept (Muscular Endurance, Flexibility, Cardiovascular Endurance, Strength and Power, Agility, Balance, Coordination, Speed), and the games chapters give Myanmar two of its own: the htok-see-toe tag game and chinlone, the rattan-ball art.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — §3-1 — food and health: the nutrient groups (carbohydrate, fat, protein, minerals, vitamins, water) and how much energy a growing body needs each day (filed in myanmar-health-placements.md as NEW LESSON NEEDED — `staying-safe/food-and-drink-for-sport`; resolved through the health slug registry to PE canonical `fitness-and-stretching/sports-nutrition-and-hydration`; stocked here by fix-up) | Myanmar, *ကာယပညာ (Physical Education), Grade 7 student textbook* (Myanmar G7 PE Textbook), §3-1, printed pp. 72–74 |
+
+**Book — Myanmar Grade 7 Teacher Guide (teacher guide — evidence):**
+## Book 4 — G7 PE Teacher Guide (teacher guide, Myanmar/Burmese)
+- Title as printed: ကာယပညာ ဆရာလမ်းညွှန် (Physical Education Teacher Guide), Grade 7 — introduction, I-T-P-R lesson shape, syllabus, year plan and Glossary of Words, then lesson plans for every textbook chapter
+- Grade: 7 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Myanmar (DBE BOX scan); year not printed on the scanned pages; no ISBN printed
+- PDF pages: 100 (byte size 34,971,987 = record size exactly)
+- Verdict: COMPLETE — lesson plans mirror the student textbook; personal fitness record sheets (ကိုယ်ပိုင်မှတ်တမ်း) are assessment apparatus, named here and not placed
+- Tally: 3 placements — 2 to existing lessons, 1 NEW LESSON NEEDED
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — Lesson plan 3-1 — teaching nutrients and daily energy needs (teacher guide — evidence) (filed in myanmar-health-placements.md as NEW LESSON NEEDED — `staying-safe/food-and-drink-for-sport`; resolved through the health slug registry to PE canonical `fitness-and-stretching/sports-nutrition-and-hydration`; stocked here by fix-up) | Myanmar, *ကာယပညာ ဆရာလမ်းညွှန် (Physical Education Teacher Guide), Grade 7* (Myanmar G7 PE Teacher Guide), Lesson plan 3-1, printed pp. 53–54 (teacher guide — evidence) |
+
+**Book — Myanmar Grade 6 Textbook (student book):**
+## Book 5 — G6 PE Textbook (student book, Myanmar/Burmese)
+- Title as printed: ကျောင်းသုံးစာအုပ် ကာယပညာ ဆဋ္ဌမတန်း (School Textbook, Physical Education, Grade 6) — cover: ပြည်ထောင်စုသမ္မတမြန်မာနိုင်ငံတော်အစိုးရ ပညာရေးဝန်ကြီးဌာန (Ministry of Education, Republic of the Union of Myanmar), ၂၀၁၉–၂၀၂၀ (2019–2020); printed January 2019, 196,392 copies; no ISBN printed
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Myanmar (DBE BOX scan)
+- PDF pages: 88 (byte size 19,943,343 = record size exactly)
+- Verdict: COMPLETE — full contents page (မာတိကာ) read; closing glossary of PE terms (Physical Fitness, Agility, Balance, Cardiovascular Endurance, Circuit Training, Coordination, Flexibility, Jogging, Muscular Endurance, Power, Speed, Stretching) is inventory-only, named here and not placed
+- Tally: 4 placements — 2 to existing lessons, 2 NEW LESSON NEEDED
+- Myanmar's own way: fitness is introduced through graded A/B/C test tables for every component, first aid is taught as the English PRICES sequence, and Myanmar's own chinlone is given a full chapter with its six classic kicks named in English (instep, inside, knee, sole, heel, outside).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — §3-1 — nutrition for the sportsperson: the food pyramid and the food groups (grains, vegetables, fruit, milk, meat, oils), and eating and living suitably around sport (filed in myanmar-health-placements.md as NEW LESSON NEEDED — `staying-safe/food-and-drink-for-sport`; resolved through the health slug registry to PE canonical `fitness-and-stretching/sports-nutrition-and-hydration`; stocked here by fix-up) | Myanmar, *ကျောင်းသုံးစာအုပ် ကာယပညာ ဆဋ္ဌမတန်း (School Textbook, Physical Education, Grade 6)* (Myanmar G6 PE Textbook), §3-1, printed pp. 79–80 |
+
+**Book — Myanmar Grade 6 Teacher Guide (teacher guide — evidence):**
+## Book 6 — G6 PE Teacher Guide (teacher guide, Myanmar/Burmese)
+- Title as printed: ကာယပညာ ဆရာလမ်းညွှန် (Physical Education Teacher Guide), Grade 6 — introduction with the I-T-P-R lesson shape (45-minute periods), syllabus, year plan and Glossary of Words, then lesson plans for every textbook chapter
+- Grade: 6 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Myanmar (DBE BOX scan); year not printed on the scanned pages; no ISBN printed
+- PDF pages: 102 (byte size 32,405,768 = record size exactly)
+- Verdict: COMPLETE — spot-read across the whole book (front matter, Ch.1 plans, mid-book plans, Ch.3 plans and test timetable at the end); plans mirror the student textbook throughout
+- Tally: 4 placements — 2 to existing lessons, 2 NEW LESSON NEEDED
+- Note: a Grade 6 PE teacher guide is also listed among the library's already-held Myanmar books (Telegram route); this be.moeedu.org copy is the DBE BOX scan edition — staged as well and flagged in the group log for de-duplication
+
+| Lesson part | Where it comes from |
+|---|---|
+| Myanmar — Lesson plan 3-1 — teaching the food groups and eating for sport (teacher guide — evidence) (filed in myanmar-health-placements.md as NEW LESSON NEEDED — `staying-safe/food-and-drink-for-sport`; resolved through the health slug registry to PE canonical `fitness-and-stretching/sports-nutrition-and-hydration`; stocked here by fix-up) | Myanmar, *ကာယပညာ ဆရာလမ်းညွှန် (Physical Education Teacher Guide), Grade 6* (Myanmar G6 PE Teacher Guide), Lesson plan 3-1, printed pp. 90–92 (teacher guide — evidence) |
+
+Myanmar's placements in this lesson were filed in myanmar-health-placements.md as NEW LESSON NEEDED — `staying-safe/food-and-drink-for-sport`, resolved through the health slug registry to PE canonical `fitness-and-stretching/sports-nutrition-and-hydration` (pe-slug-registry.md), this lesson, and stocked here by fix-up, as recorded in the provenance rows. Myanmar enters this lesson as student-book stock, inside the acceptance count; its three teacher guides are teacher-guide evidence only, outside the acceptance count. Book 6's note is carried as filed: a Grade 6 PE teacher guide is also listed among the library's already-held Myanmar books (Telegram route); this be.moeedu.org copy is the DBE BOX scan edition — staged as well and flagged in the group log for de-duplication. Myanmar's own way is content, as the book lines above record it: nutrition is taught inside the PE books' health chapters — food groups, eating around exercise and drinking while exercising at Grade 10, nutrients and daily energy needs at Grade 7, and the food pyramid and food groups at Grade 6. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
