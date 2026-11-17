@@ -1,6 +1,6 @@
 # Sources — How Laws Are Made
 
-countries: Samoa, Mexico, Bangladesh, Morocco, Guatemala, United States, Papua New Guinea, Saudi Arabia, Iran
+countries: Samoa, Mexico, Bangladesh, Morocco, Guatemala, United States, Papua New Guinea, Saudi Arabia, Iran, Japan
 
 **Book 1:** *Social Studies — Year 10 Book One* (student book, English) — Title as printed: Social Studies — Year 10 Book One. Grade: Year 10 (student/teacher: STUDENT). Publisher: Government of Samoa, Department of Education; year 2001; ISBN 982-517-009-3. PDF pages: 100 (cover/title page verified against the record title; MESC copy, size 2,049,510 B per download list). Read from the MESC ministry source URL recorded in the books.json record — the same MESC PDF the Geography wave verified byte-for-byte against the record and already secured in GitHub (in_pushed: true) — via the browser text route, cover/title page and ISBN checked against the record before reading; no file staged — the book is already in GitHub, as filed in samoa-placements.md. Earlier waves: Geography wave placed Unit 3–4 skills (graphs, census, pp. 59–98) and named Units 1–2 "Civics, not placed"; History wave placed Unit 1 Topic 1's development narrative, Unit 2's historical case studies, the rights-documents chain, the UDHR and the Mau timeline (pp. 5–6, 10, 25–48) and named the present-day civics parts not placed (voting/law-making pp. 8–18, Japan pp. 19–22, UN/Amnesty/protest pp. 33–45, 48–58); Economics wave placed the census/graph skills only. The civics teaching named by both waves was read and placed here. Verdict: COMPLETE. Contents map: Civics/Citizenship/Government pp. 5–58 (Unit 1 Government; Unit 2 Human Rights); Geography/Skills pp. 59–98 (Units 3–4, placed by Geography wave). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/samoa-placements.md.
 
@@ -118,3 +118,20 @@ Iran's own way (Iran Social Studies Grade 7): secondary civics opens with God-gi
 Registry note: the original coined string `culture-and-work/how-laws-are-made-the-legislature` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/how-laws-are-made`.
 
 Searchable tags: how laws are made, Iran, social studies, culture-and-work
+
+
+Japan placements — Social Studies remaining strands (2026-11-17):
+
+**Book 3:** *Watashitachi no Doutoku, Elementary Grades 5–6 (私たちの道徳 小学校5・6年) * (student book, Japanese) — Title as printed: 私たちの道徳 小学校5・6年 (Our Morals, Elementary Grades 5–6) Grade: Grades 5–6 (student/teacher: STUDENT) Publisher: 文部科学省 (MEXT); year 2014; ISBN no ISBN printed (ministry-distributed reader) PDF pages: 98 in the two ministry part-files obtained ((1) 49 pp. = printed pp. 4–95; (2) 49 pp. = printed pp. 96–190 and closing pages) — the whole book (cover/title verified against the record title; the record's live MEXT URL now returns 404, so both parts came from the Wayback Machine's 2014 snapshots of the record's own source URL and its sibling part file) Earlier waves: not read before Verdict: COMPLETE Contents map: Morals/Values — the whole book: Unit 1 自分をみがいて (Polishing myself) printed pp. 8–53; Unit 2 人とつながって (Connected with people) pp. 54–95; Unit 3 命をいとおしんで (Cherishing life) pp. 96–117; Unit 4 みんなとつながって (Connected with everyone) pp. 118–190, which carries the book's civics core — laws and rules, rights and duties, how laws are made in the Diet, fairness, roles and responsibility, the public good. The opening self-profile pages (pp. 6–7) and the closing record pages (p. 190) are apparatus, named, not placed. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/japan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Japan part — culture-and-work/how-laws-are-made-the-diet — きまりは何のために (What are rules for?) — teaches: the Diet (House of Representatives) as the place where the nation's important matters are discussed and decided — Japan Grades 5–6 Watashitachi no Doutoku, printed p. 126 | Japan, *Watashitachi no Doutoku, Elementary Grades 5–6* (student book), きまりは何のために (What are rules for?) — printed p. 126 |
+
+**Acceptance count: taught in 9 countries (Samoa, Mexico, Bangladesh, Morocco, Guatemala, United States, Saudi Arabia, Iran, Japan).**
+
+Japan's own way (Book 3): the older pupils' reader moves from self-discipline to society in four widening units — polish yourself, connect with people, cherish life, connect with everyone — and teaches civics inside moral stories: rights are introduced as the other face of duties, the Diet appears as the place where rules are made, and fairness is taught through a story of a Vietnamese classmate facing discrimination.
+
+Registry note: the original coined string `culture-and-work/how-laws-are-made-the-diet` is recorded in the provenance rows above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/how-laws-are-made`.
+
+Searchable tags: how laws are made, Japan, social studies, culture-and-work

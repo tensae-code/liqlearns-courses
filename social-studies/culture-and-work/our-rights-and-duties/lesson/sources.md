@@ -1,6 +1,6 @@
 # Sources — Our Rights and Duties
 
-countries: Maldives, Samoa, Albania, Fiji, Turkey, Armenia, Saudi Arabia, Cambodia, Jordan, Myanmar, El Salvador
+countries: Maldives, Samoa, Albania, Fiji, Turkey, Armenia, Saudi Arabia, Cambodia, Jordan, Myanmar, El Salvador, Japan
 
 **Book 1:** *Exploring Social Studies 4* (student book, English) — Title as printed: Exploring Social Studies 4. Grade: Grade 4 (student/teacher: STUDENT). Publisher: National Institute of Education, Ministry of Education, Maldives; year 2025 (first published 2025); ISBN 978-99915-0-954-9. PDF pages: printed pagination 1–189 plus front matter (read in full via the NIE download's indexed full text — the direct file download from this host failed on every attempt: the WPDM link's refresh token returns an error to shell downloads, so the book could NOT be staged; see the group log. Cover, title page, ISBN and contents verified against the record title in the indexed text.) Earlier waves: not read before. Verdict: COMPLETE — contents-mapped in full; Units 1, 5 and 6 (the remaining strands) read page by page. Contents map: Integrated SS printed pp. 1–30 (Unit 1 Belonging & Connections); Civics/Citizenship/Government pp. 131–160 (Unit 5 Living Together); Culture in society pp. 161–189 (Unit 6 We the Maldivians); Geography pp. 31–76 (Unit 2 People, Places and the Environment — named, not placed); History pp. 77–98 and 183–188 (Unit 3 Time, Continuity and Change; §6.4 Our National Heroes — named, not placed); Economics pp. 99–130 (Unit 4 The Economic World — named, not placed); Religion within §5.2 (Islam teaches peace and harmony — named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/maldives-placements-b.md.
 
@@ -182,3 +182,20 @@ El Salvador's own way (El Salvador Grade 6 Estudios Sociales 6): Grade 6 reaches
 El Salvador's own way (El Salvador Grade 7 Estudios Sociales y Cívica 7): the Tercer Ciclo book is built as five themes, and its civics is El Salvador's own — Salvadoran identity, Salvadoran families, the institutions that protect Salvadoran children, and the rights of Salvadorans under their own constitution.
 
 Searchable tags: our rights and duties, El Salvador, social studies, culture-and-work
+
+
+Japan placements — Social Studies remaining strands (2026-11-17):
+
+**Book 3:** *Watashitachi no Doutoku, Elementary Grades 5–6 (私たちの道徳 小学校5・6年) * (student book, Japanese) — Title as printed: 私たちの道徳 小学校5・6年 (Our Morals, Elementary Grades 5–6) Grade: Grades 5–6 (student/teacher: STUDENT) Publisher: 文部科学省 (MEXT); year 2014; ISBN no ISBN printed (ministry-distributed reader) PDF pages: 98 in the two ministry part-files obtained ((1) 49 pp. = printed pp. 4–95; (2) 49 pp. = printed pp. 96–190 and closing pages) — the whole book (cover/title verified against the record title; the record's live MEXT URL now returns 404, so both parts came from the Wayback Machine's 2014 snapshots of the record's own source URL and its sibling part file) Earlier waves: not read before Verdict: COMPLETE Contents map: Morals/Values — the whole book: Unit 1 自分をみがいて (Polishing myself) printed pp. 8–53; Unit 2 人とつながって (Connected with people) pp. 54–95; Unit 3 命をいとおしんで (Cherishing life) pp. 96–117; Unit 4 みんなとつながって (Connected with everyone) pp. 118–190, which carries the book's civics core — laws and rules, rights and duties, how laws are made in the Diet, fairness, roles and responsibility, the public good. The opening self-profile pages (pp. 6–7) and the closing record pages (p. 190) are apparatus, named, not placed. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/japan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Japan part — culture-and-work/rights-and-duties — 権利とは、義務とは何だろう (What are rights? What are duties?) — teaches: every person holds rights and fulfils duties while living together in society — Japan Grades 5–6 Watashitachi no Doutoku, printed p. 124 | Japan, *Watashitachi no Doutoku, Elementary Grades 5–6* (student book), 権利とは、義務とは何だろう (What are rights? What are duties?) — printed p. 124 |
+
+**Acceptance count: taught in 10 countries (Maldives, Samoa, Fiji, Turkey, Armenia, Saudi Arabia, Cambodia, Jordan, El Salvador, Japan).**
+
+Japan's own way (Book 3): the older pupils' reader moves from self-discipline to society in four widening units — polish yourself, connect with people, cherish life, connect with everyone — and teaches civics inside moral stories: rights are introduced as the other face of duties, the Diet appears as the place where rules are made, and fairness is taught through a story of a Vietnamese classmate facing discrimination.
+
+Registry note: the original coined string `culture-and-work/rights-and-duties` is recorded in the provenance rows above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/our-rights-and-duties`.
+
+Searchable tags: our rights and duties, Japan, social studies, culture-and-work
