@@ -1,8 +1,8 @@
 # Sources — Common Illnesses and Caring for the Sick
 
-countries: Zambia, Timor-Leste, Philippines, Pakistan, Iran, Vietnam, Thailand
+countries: Zambia, Timor-Leste, Philippines, Pakistan, Iran, Vietnam, Thailand, Tanzania
 
-**Acceptance count: taught in 6 countries.** Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Pakistan is added as student-book stock (see its Pakistan section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Vietnam is added as student-book stock (see its Vietnam section below), inside the acceptance count. Thailand is added as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count.
+**Acceptance count: taught in 7 countries.** Tanzania is added as student-book stock (see its Tanzania section below), inside the acceptance count. Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Pakistan is added as student-book stock (see its Pakistan section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Vietnam is added as student-book stock (see its Vietnam section below), inside the acceptance count. Thailand is added as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count.
 
 **Book 1 — Health Teacher Training, Participants Manual 2025 (teacher training manual, English):**
 - Title as printed: Health Teacher Training — Participants Manual (LB)
@@ -176,4 +176,47 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/thailand-hea
 
 Thailand is added as student-book stock (SAMPLE) (see its book line(s) and row(s) above), inside the acceptance count. The Thailand placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved to this lesson by the slug registry (Part 2B for HELD-title-decision lines, Part 2A for descriptive slug strings; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Thailand's own way is content, as the book lines above record it: health behaviour anchored on Thailand's National Health Precepts (สุขบัญญัติแห่งชาติ), food teaching on the 9 Nutrition Precepts (โภชนบัญญัติ 9 ประการ) and the Nutrition Flag (ธงโภชนาการ), growth checked against the Department of Health weight-for-height graphs for Thai children, and the senior books turning outward to Thailand's own illness and death statistics, community accident planning and the Thai drug laws. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: common illnesses and caring for the sick, malaria nets spraying, worm infestations bilharzia schistosomiasis intestinal worms deworming, diarrhoeal diseases dehydration oral rehydration, acute respiratory tract infections ARTI, tuberculosis coughing treatment support stigma, eye ear skin infections urinary tract infection meningitis mumps, Zambia Health Teacher Training Manual 2025, diarrhoea what it is how it is treated, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, common skin diseases in adolescence, skin diseases prevention control facts vs myths, Philippines Grade 7 Health LM, hepatitis B and C, liver inflammation, athlete's foot, fungal foot disease, Pakistan Grades 7 8 Sehat-o-Jismani Taleem, Iran, Vietnam, Vietnam GDTC, Giáo dục thể chất, Thailand, Thailand Health & PE, สุขศึกษาและพลศึกษา
+
+## Tanzania — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/tanzania-health-placements.md. 3 Tanzania placement(s) stocked in this lesson. The Tanzania book(s) stocked in this lesson: Book 2, Book 3, Book 5 of that file. All the Tanzania books are STUDENT books (Tanzania Institute of Education (TIE) Health and Environment pupil books), so Tanzania is student-book stock, inside the acceptance count, in this lesson. The placements file records 41 link records / 7 distinct books read (plus duplicate copies and record-only lines); the record-only and unread records (including the UNREAD Standard Four records — Drive quota-exceeded — and the record-mismatch records filed as Book 3) carry 0 placements and nothing is stocked from them. No Tanzania placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 2 — Health and Environment, Standard Two (student book, English; Swahili parallel edition read as spot-check):**
+- Title as printed: Health and Environment, Standard Two, Pupil's Book (Swahili edition: Afya na Mazingira, Kitabu cha Mwanafunzi, Darasa la Pili)
+- Grade: Standard Two (student/teacher: STUDENT)
+- Publisher: Tanzania Institute of Education (TIE); year 2019, reprinted 2021 (Swahili edition © 2018, 2nd ed. 2021); ISBN 978-9987-09-007-5 (Swahili: 978-9987-09-314-4)
+- PDF pages: 82 English / 73 Swahili (covers verified; identical chapter structure in both languages — placed once, English pagination cited; a second Drive copy of the English book and a Drive copy of the Swahili book are the same books, byte-different scans of the same editions)
+- Verdict: COMPLETE
+- Tally: 16 placements — 3 to existing lessons, 13 NEW LESSON NEEDED
+- Tanzania's own way: prevention is taught as household routines — washing and ironing clothes, covering food with a traditional food cover or winnowing basket, storing water in covered pots — before diseases are named.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/tanzania-health-placements.md (Book 2 of that file).
+
+**Book 3 — Health and Environment, Pre-primary (student book, English; Swahili parallel edition read as spot-check):**
+- Title as printed: Health and Environment, Child's Book, Pre-primary Class (Swahili edition: Afya na Mazingira, Kitabu cha Mtoto, Darasa la Awali)
+- Grade: Pre-primary (student/teacher: STUDENT)
+- Publisher: Tanzania Institute of Education (TIE); published 2019, reprinted 2021, reviewed 2023 for the 2023 pre-primary syllabus; ISBN 978-9987-09-958-0 (Swahili: 978-9987-09-890-3)
+- PDF pages: 58 English / 57 Swahili (covers verified; identical chapter structure in both languages — placed once, English pagination cited. The English book was reached through three different Drive records, two of them mislabelled — see record-only notes in the placements file; the Swahili book is the file behind the "Kutunza Afya" Drive record)
+- Verdict: COMPLETE
+- Tally: 12 placements — 1 to existing lessons, 11 NEW LESSON NEEDED
+- Tanzania's own way: pre-primary health is taught entirely through songs, picture matching and "put a tick" picture tasks; body safety is taught as a song, "Don't touch my body".
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/tanzania-health-placements.md (Book 3 of that file).
+
+**Book 5 — Health and Environment, Standard Two, 2023 syllabus edition (student book, English):**
+- Title as printed: Health and Environment, Pupil's Book, Standard Two
+- Grade: Standard Two (student/teacher: STUDENT)
+- Publisher: Tanzania Institute of Education (TIE); 2023 syllabus edition (the book's introduction states it combines and improves the 2019 Standards One and Two books; Ministry approval certificate printed in the book); ISBN 978-9912-753-57-0
+- PDF pages: 40 (CamScanner scan, image-only, read page by page from contact sheets; cover verified — the Drive record that carried it was titled only "5. HEALTH AND ENVIRONMENT", a list number, not a grade)
+- Verdict: COMPLETE (cover to back cover, printed pp. 1–33)
+- Tally: 8 placements — 1 to existing lessons, 7 NEW LESSON NEEDED
+- Tanzania's own way: the 2023 edition teaches through a cartoon cat guide, "boasting" (a child presents and praises what a sign or tool does, in its own voice), role-play, ICT video activities and case-study stories of named pupils.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/tanzania-health-placements.md (Book 5 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Tanzania — Infectious diseases — cholera and tuberculosis, how they spread and how to prevent them; HIV and AIDS recap (never share razor blades, needles, combs or sharp objects) (original string `staying-safe/preventing-diseases`) | Tanzania Standard Two Health and Environment, printed pp. 35–38 |
+| Tanzania — Precautions against diseases — the causes of diseases and protecting oneself against diseases (original string `staying-safe/preventing-diseases`) | Tanzania Pre-primary Health and Environment, printed pp. 44–50 |
+| Tanzania — A malaria case study — Chausiku's story: malaria parasites are carried by mosquitoes that breed in stagnant water, long grass and water-holding containers and tyres; removing breeding sites and cleaning the environment keeps away mosquitoes, snakes and scorpions (original string `staying-safe/preventing-diseases`) | Tanzania Standard Two Health and Environment (2023), printed pp. 28–30 |
+
+Tanzania is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — all the Tanzania books stocked here are STUDENT books, so Tanzania is named in the countries line and provenance rows and the acceptance count rises from 6 to 7 countries. The Tanzania placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved to this canonical lesson (`staying-safe/common-illnesses-and-caring-for-the-sick`) by the health slug registry (Part 2A; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Tanzania's own way is content, as the book lines above record it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: common illnesses and caring for the sick, malaria nets spraying, worm infestations bilharzia schistosomiasis intestinal worms deworming, diarrhoeal diseases dehydration oral rehydration, acute respiratory tract infections ARTI, tuberculosis coughing treatment support stigma, eye ear skin infections urinary tract infection meningitis mumps, Zambia Health Teacher Training Manual 2025, diarrhoea what it is how it is treated, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, common skin diseases in adolescence, skin diseases prevention control facts vs myths, Philippines Grade 7 Health LM, hepatitis B and C, liver inflammation, athlete's foot, fungal foot disease, Pakistan Grades 7 8 Sehat-o-Jismani Taleem, Iran, Vietnam, Vietnam GDTC, Giáo dục thể chất, Thailand, Thailand Health & PE, สุขศึกษาและพลศึกษา, Tanzania, Tanzania Health and Environment, Afya na Mazingira, TIE Tanzania Institute of Education

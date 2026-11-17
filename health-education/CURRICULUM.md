@@ -1371,3 +1371,58 @@ media and technology, and the vocational anatomy taught
 system by system with growth followed stage by stage
 (infant, toddler, preschool, school age — with Erikson,
 Piaget, Kohlberg and Freud — and adolescence).
+
+**Health expansion — Tanzania — BUILT 2026-11-16:** 67 placements
+from Tanzania's five Health and Environment pupil books
+(Tanzania Institute of Education (TIE): Standard One 2019,
+Standard Two 2019, Pre-primary, Standard One Afya na
+Mazingira 2023 edition (Swahili), and Standard Two 2023
+syllabus edition — all student books, all COMPLETE as filed)
+stocked into 12 existing lessons — Keeping My Body Clean
+×19, Keeping Our Environment Healthy ×12, Avoiding
+Accidents and Staying Safe ×8, Knowing My Body ×5, Eating
+a Balanced Diet ×4, Preventing Sports Injuries and First
+Aid ×4, Paying Attention and Crossing the Road Safely ×4,
+Safe Water and Toilets ×3, Food Hygiene and Safe Cooking
+×3, Common Illnesses and Caring for the Sick ×3, STIs and
+HIV Prevention ×1, Protecting Myself from Abuse ×1 —
+bringing no new lessons; this course stays at **55
+lessons**. All Tanzania placements were filed under
+descriptive or NEW-lesson strings resolved by the health
+slug registry (Part 2A) to the canonical lessons above
+(`keeping-my-body-clean` → Keeping My Body Clean;
+`my-body-parts-and-what-they-do` → Knowing My Body;
+`eating-well-a-balanced-diet` → Eating a Balanced Diet;
+`clean-and-safe-water` and `using-the-toilet-properly` →
+Safe Water and Toilets; `hiv-and-aids-what-it-is` → STIs
+and HIV Prevention; `keeping-food-and-dishes-clean` →
+Food Hygiene and Safe Cooking;
+`keeping-our-environment-clean` and
+`living-things-around-us` → Keeping Our Environment
+Healthy; `my-body-is-private` → Protecting Myself from
+Abuse; `preventing-diseases` → Common Illnesses and
+Caring for the Sick; `dangerous-things-and-staying-safe`
+→ Avoiding Accidents and Staying Safe), except the first
+aid and road-safety placements, which were filed under
+their lessons' own slugs. All five books are STUDENT
+books, so Tanzania is student-book stock, inside the
+acceptance counts, in every lesson it touches (each
+touched lesson's count rose by 1). No Tanzania placement
+resolves to a PE-course lesson, so none was excluded as
+PE-bound. Honesty notes, exactly as filed: the placements
+file records 41 link records / 7 distinct books read;
+the UNREAD records (Standard Four and others — Google
+Drive quota-exceeded) and the record-mismatch records
+(the files behind them are the Pre-primary book, filed
+as Book 3) carry 0 placements and nothing is stocked
+from them; Book 4's glossary (Faharasa, printed p. 65)
+is inventory-only and not placed. Tanzania's own ways
+are content: every Standard One chapter opens with a
+song and teaches by picture-naming and step-by-step
+picture sequences, prevention taught as household
+routines (covering food with a traditional food cover
+or winnowing basket, storing water in covered pots),
+pre-primary health taught entirely through songs and
+picture tasks including the "Don't touch my body" song,
+and the 2023 editions teaching in first-person steps
+with a cartoon cat guide and "boasting" activities.

@@ -523,3 +523,19 @@ by 1, except STIs and HIV Prevention, touched only by a
 teacher guide); the teacher guides are teacher-guide evidence
 only, outside the counts. No Indonesia placement resolves to
 a PE-course lesson, so none was excluded as PE-bound.
+
+The Health expansion then added (Tanzania): no new lessons —
+67 placements stocked into existing lessons (Keeping My Body
+Clean ×19, Keeping Our Environment Healthy ×12, Avoiding
+Accidents and Staying Safe ×8, Knowing My Body ×5, Eating a
+Balanced Diet ×4, Preventing Sports Injuries and First Aid
+×4, Paying Attention and Crossing the Road Safely ×4, Safe
+Water and Toilets ×3, Food Hygiene and Safe Cooking ×3,
+Common Illnesses and Caring for the Sick ×3, STIs and HIV
+Prevention, Protecting Myself from Abuse) — this course
+stays at 55 lessons. All five Tanzania books are STUDENT
+books (TIE Health and Environment pupil books), so Tanzania
+is student-book stock, inside the acceptance counts, in
+every lesson it touches (each touched lesson's count rose
+by 1). No Tanzania placement resolves to a PE-course
+lesson, so none was excluded as PE-bound.

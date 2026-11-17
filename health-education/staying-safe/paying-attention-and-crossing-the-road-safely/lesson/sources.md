@@ -1,6 +1,6 @@
 # Sources — Paying Attention and Crossing the Road Safely
 
-countries: Ethiopia, Oman, Samoa, Ukraine, Turkey, Papua New Guinea, Vietnam, Thailand
+countries: Ethiopia, Oman, Samoa, Ukraine, Turkey, Papua New Guinea, Vietnam, Thailand, Tanzania
 
 **Book 1:** *Grade 3 Health and Physical Education Teacher Guide* (የጤናና ሰውነት ማጎልመሻ ትምህርት የመምህር መምሪያ መጽሐፍ, ሦስተኛ ክፍል) (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. (58 PDF pages). Printed page = PDF page − 6. TRUNCATED — the file holds printed pp. 1–52 of 89+. Read in full, page by page, from 100 DPI renders (no usable text layer), in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g03-teacher-placements.md.
 
@@ -9,7 +9,7 @@ countries: Ethiopia, Oman, Samoa, Ukraine, Turkey, Papua New Guinea, Vietnam, Th
 | Sub lesson 1 — attention defined; the traffic-light teaching text; keep left; the pedestrian crossing (teacher guide — evidence) | Ethiopia, *Grade 3 Teacher Guide*, §3.3.1, printed pp. 47–49 |
 | Sub lesson 2 — the road-traffic movement game: set-up, cards, crossing, both directions (teacher guide — evidence) | Ethiopia, *Grade 3 Teacher Guide*, §3.3.2 Task 1, printed pp. 48–49 |
 
-**Acceptance count: taught in 4 countries.** Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Ethiopia is filed as teacher-guide evidence only (Ethiopia), named here, counted nowhere. Oman is likewise filed as teacher-guide evidence only, outside the acceptance count. Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book. Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Vietnam is added as student-book stock (see its Vietnam section below), inside the acceptance count. Thailand is added as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count.
+**Acceptance count: taught in 5 countries.** Tanzania is added as student-book stock (see its Tanzania section below), inside the acceptance count. Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Ethiopia is filed as teacher-guide evidence only (Ethiopia), named here, counted nowhere. Oman is likewise filed as teacher-guide evidence only, outside the acceptance count. Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book. Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Vietnam is added as student-book stock (see its Vietnam section below), inside the acceptance count. Thailand is added as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count.
 
 The Grade 3 teacher guide is a TRUNCATED scan: the file holds printed pp. 1–52 of 89+. Missing from the file: §4.1 Cardiovascular activity (p. 53), §4.2 Muscle-strength activity (p. 57), §4.3 Stretching and flexibility (p. 62), §4.4 Agility (p. 65), all of Chapter 5 Gymnastics (pp. 69–84) and all of Chapter 6 Addis Ababa traditional movements and games (pp. 85–89+). Parts resting on this guide are labelled (teacher guide — evidence) and never count as pupil-taught.
 
@@ -165,4 +165,58 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/thailand-hea
 
 Thailand is added as student-book stock (SAMPLE) (see its book line(s) and row(s) above), inside the acceptance count. The Thailand placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved to this lesson by the slug registry (Part 2B for HELD-title-decision lines, Part 2A for descriptive slug strings; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Thailand's own way is content, as the book lines above record it: health behaviour anchored on Thailand's National Health Precepts (สุขบัญญัติแห่งชาติ), food teaching on the 9 Nutrition Precepts (โภชนบัญญัติ 9 ประการ) and the Nutrition Flag (ธงโภชนาการ), growth checked against the Department of Health weight-for-height graphs for Thai children, and the senior books turning outward to Thailand's own illness and death statistics, community accident planning and the Thai drug laws. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: road safety, traffic game, attention ትኩረት, pedestrian crossing የእግረኛ መሻገሪያ, red light green light, Ethiopia HPE Grade 3 teacher guide, road-safety rules by acting out a trip to the garden, A Trip to the Garden movement story, Oman G1 Teacher Guide, road safety rules recited demonstrated practised every year, Samoa Years 1–8 Curriculum, pedestrian safety rules, I am a pedestrian, Ukraine G5 Health Safety and Wellbeing Vasylenko, traffic culture, Trafik Kültürü, pedestrian safety, Yaya Güvenliği, Turkey Health & Traffic Culture, Papua New Guinea, Papua New Guinea Grade 4 Health TG Grade 4, Vietnam, Vietnam GDTC, Giáo dục thể chất, Thailand, Thailand Health & PE, สุขศึกษาและพลศึกษา
+
+## Tanzania — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/tanzania-health-placements.md. 4 Tanzania placement(s) stocked in this lesson. The Tanzania book(s) stocked in this lesson: Book 2, Book 3, Book 4, Book 5 of that file. All the Tanzania books are STUDENT books (Tanzania Institute of Education (TIE) Health and Environment pupil books), so Tanzania is student-book stock, inside the acceptance count, in this lesson. The placements file records 41 link records / 7 distinct books read (plus duplicate copies and record-only lines); the record-only and unread records (including the UNREAD Standard Four records — Drive quota-exceeded — and the record-mismatch records filed as Book 3) carry 0 placements and nothing is stocked from them. No Tanzania placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 2 — Health and Environment, Standard Two (student book, English; Swahili parallel edition read as spot-check):**
+- Title as printed: Health and Environment, Standard Two, Pupil's Book (Swahili edition: Afya na Mazingira, Kitabu cha Mwanafunzi, Darasa la Pili)
+- Grade: Standard Two (student/teacher: STUDENT)
+- Publisher: Tanzania Institute of Education (TIE); year 2019, reprinted 2021 (Swahili edition © 2018, 2nd ed. 2021); ISBN 978-9987-09-007-5 (Swahili: 978-9987-09-314-4)
+- PDF pages: 82 English / 73 Swahili (covers verified; identical chapter structure in both languages — placed once, English pagination cited; a second Drive copy of the English book and a Drive copy of the Swahili book are the same books, byte-different scans of the same editions)
+- Verdict: COMPLETE
+- Tally: 16 placements — 3 to existing lessons, 13 NEW LESSON NEEDED
+- Tanzania's own way: prevention is taught as household routines — washing and ironing clothes, covering food with a traditional food cover or winnowing basket, storing water in covered pots — before diseases are named.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/tanzania-health-placements.md (Book 2 of that file).
+
+**Book 3 — Health and Environment, Pre-primary (student book, English; Swahili parallel edition read as spot-check):**
+- Title as printed: Health and Environment, Child's Book, Pre-primary Class (Swahili edition: Afya na Mazingira, Kitabu cha Mtoto, Darasa la Awali)
+- Grade: Pre-primary (student/teacher: STUDENT)
+- Publisher: Tanzania Institute of Education (TIE); published 2019, reprinted 2021, reviewed 2023 for the 2023 pre-primary syllabus; ISBN 978-9987-09-958-0 (Swahili: 978-9987-09-890-3)
+- PDF pages: 58 English / 57 Swahili (covers verified; identical chapter structure in both languages — placed once, English pagination cited. The English book was reached through three different Drive records, two of them mislabelled — see record-only notes in the placements file; the Swahili book is the file behind the "Kutunza Afya" Drive record)
+- Verdict: COMPLETE
+- Tally: 12 placements — 1 to existing lessons, 11 NEW LESSON NEEDED
+- Tanzania's own way: pre-primary health is taught entirely through songs, picture matching and "put a tick" picture tasks; body safety is taught as a song, "Don't touch my body".
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/tanzania-health-placements.md (Book 3 of that file).
+
+**Book 4 — Afya na Mazingira, Darasa la Kwanza, 2023 edition (student book, Swahili):**
+- Title as printed: Afya na Mazingira, Kitabu cha Mwanafunzi, Darasa la Kwanza (Health and Environment, Pupil's Book, Standard One)
+- Grade: Standard One (student/teacher: STUDENT)
+- Publisher: Taasisi ya Elimu Tanzania (TIE); first edition 2018, second edition 2023 (2023 syllabus); ISBN 978-9987-09-885-9
+- PDF pages: 147 — the PDF contains the whole book twice (printed pp. 1–66, then the same pages again); read once (cover verified against the record title; the record that carried it was titled only "1. Afya na Mazingira")
+- Verdict: COMPLETE (the book's glossary, Faharasa, printed p. 65, is inventory-only and is not placed)
+- Tally: 13 placements — 1 to existing lessons, 12 NEW LESSON NEEDED
+- Tanzania's own way: the 2023 edition drops the 2019 book's body-parts, diet, water, HIV and first-aid chapters and teaches Standard One health as four units only — body cleanliness in first-person steps ("I clean my mouth by following these steps"), caring for clothes, dangerous things, and safety signs — with online-video activities.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/tanzania-health-placements.md (Book 4 of that file).
+
+**Book 5 — Health and Environment, Standard Two, 2023 syllabus edition (student book, English):**
+- Title as printed: Health and Environment, Pupil's Book, Standard Two
+- Grade: Standard Two (student/teacher: STUDENT)
+- Publisher: Tanzania Institute of Education (TIE); 2023 syllabus edition (the book's introduction states it combines and improves the 2019 Standards One and Two books; Ministry approval certificate printed in the book); ISBN 978-9912-753-57-0
+- PDF pages: 40 (CamScanner scan, image-only, read page by page from contact sheets; cover verified — the Drive record that carried it was titled only "5. HEALTH AND ENVIRONMENT", a list number, not a grade)
+- Verdict: COMPLETE (cover to back cover, printed pp. 1–33)
+- Tally: 8 placements — 1 to existing lessons, 7 NEW LESSON NEEDED
+- Tanzania's own way: the 2023 edition teaches through a cartoon cat guide, "boasting" (a child presents and praises what a sign or tool does, in its own voice), role-play, ICT video activities and case-study stories of named pupils.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/tanzania-health-placements.md (Book 5 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Tanzania — Warning signs — what warning signs are for, including the pedestrian crossing and traffic light signs (original string `staying-safe/paying-attention-and-crossing-the-road-safely`) | Tanzania Standard Two Health and Environment, printed pp. 51–53 |
+| Tanzania — Safety signs — recognising safety signs in the environment (original string `staying-safe/paying-attention-and-crossing-the-road-safely`) | Tanzania Pre-primary Health and Environment, printed p. 43 |
+| Tanzania — Alama za usalama — safety signs and their meanings, including the pedestrian-crossing sign; acting out obeying safety signs (original string `staying-safe/paying-attention-and-crossing-the-road-safely`) | Tanzania Standard One Afya na Mazingira (2023), printed pp. 59–64 |
+| Tanzania — Safety signs: road safety signs — children's crossing, traffic lights, narrow bridge, road work ahead, bus stop, railway crossing and cyclist lane signs; a case study of two pupils hit by a motorcycle where they crossed without a sign; a road-safety poem (walk on the right, look right, left, right again) (original string `staying-safe/paying-attention-and-crossing-the-road-safely`) | Tanzania Standard Two Health and Environment (2023), printed pp. 10–15 |
+
+Tanzania is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — all the Tanzania books stocked here are STUDENT books, so Tanzania is named in the countries line and provenance rows and the acceptance count rises from 4 to 5 countries. The Tanzania placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved to this canonical lesson (`staying-safe/paying-attention-and-crossing-the-road-safely`) by the health slug registry (Part 2A; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Tanzania's own way is content, as the book lines above record it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: road safety, traffic game, attention ትኩረት, pedestrian crossing የእግረኛ መሻገሪያ, red light green light, Ethiopia HPE Grade 3 teacher guide, road-safety rules by acting out a trip to the garden, A Trip to the Garden movement story, Oman G1 Teacher Guide, road safety rules recited demonstrated practised every year, Samoa Years 1–8 Curriculum, pedestrian safety rules, I am a pedestrian, Ukraine G5 Health Safety and Wellbeing Vasylenko, traffic culture, Trafik Kültürü, pedestrian safety, Yaya Güvenliği, Turkey Health & Traffic Culture, Papua New Guinea, Papua New Guinea Grade 4 Health TG Grade 4, Vietnam, Vietnam GDTC, Giáo dục thể chất, Thailand, Thailand Health & PE, สุขศึกษาและพลศึกษา, Tanzania, Tanzania Health and Environment, Afya na Mazingira, TIE Tanzania Institute of Education

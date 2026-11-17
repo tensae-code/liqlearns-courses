@@ -1,8 +1,8 @@
 # Sources — Safe Water and Toilets
 
-countries: Kiribati, El Salvador, Zambia, Papua New Guinea, Bhutan
+countries: Kiribati, El Salvador, Zambia, Papua New Guinea, Bhutan, Tanzania
 
-**Acceptance count: taught in 2 countries.** El Salvador is filed as student-book stock, inside the acceptance count, in this lesson. Kiribati is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count (still taught in 1 country). Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — all five Bhutan books are STUDENT books.
+**Acceptance count: taught in 3 countries.** Tanzania is added as student-book stock (see its Tanzania section below), inside the acceptance count. El Salvador is filed as student-book stock, inside the acceptance count, in this lesson. Kiribati is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count (still taught in 1 country). Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — all five Bhutan books are STUDENT books.
 
 **Book 2 — Teaching WASH in Schools: Menstrual Hygiene Management Guide (teacher guide, English):**
 - Title as printed: TEACHING WASH IN SCHOOLS — Menstrual Hygiene Management Guide
@@ -118,4 +118,37 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/bhutan-healt
 | Bhutan — 8.4.1 Tour of the Toilet — inspecting the school toilets for good points and improvements, then the F-diagram: how faeces reach the mouth through fingers, flies, fields, fluids and food, and how handwashing blocks the routes (original string `staying-safe/using-toilets-and-blocking-germ-paths`) | Bhutan Class VI Suggested Activities, printed p. 34 |
 
 Bhutan is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — all five Bhutan books are STUDENT books, so Bhutan is named in the countries line and provenance rows and the acceptance count rises from 1 to 2 countries. The Bhutan placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved to this canonical lesson (`staying-safe/safe-water-and-toilets`) by registry Part 2A; the original string is recorded in each provenance row above. Bhutan's own way is content, as the book lines above record it: health is taught through movement games and rhymes, WASH content written with UNICEF/SNV/WFP support, nutrition organised by the Go, Grow and Glow food groups, menstruation and mindfulness taught openly in the primary classes, and the Bhutanese formal greeting (bow with open palms, adding "la"). This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
-Searchable tags: safe water and toilets, WASH, WASH in Schools, KWinS, safe drinking water, sanitation, hygiene, Kiribati WASH MHM Guide, drinking water, eight glasses a day, saving water, El Salvador Ciencia Salud y Medio Ambiente 1, Una amiga para conservar, WASHE, water sanitation and hygiene education, safe water latrines handwashing at school, environmental health, Zambia Health Teacher Training Manual 2025, Papua New Guinea, Papua New Guinea Grade 4 Health TG Grade 4, Bhutan, Bhutan PP–I Suggested Activities, Bhutan II–III Suggested Activities, Bhutan Class VI Suggested Activities
+
+## Tanzania — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/tanzania-health-placements.md. 3 Tanzania placement(s) stocked in this lesson. The Tanzania book(s) stocked in this lesson: Book 1, Book 2 of that file. All the Tanzania books are STUDENT books (Tanzania Institute of Education (TIE) Health and Environment pupil books), so Tanzania is student-book stock, inside the acceptance count, in this lesson. The placements file records 41 link records / 7 distinct books read (plus duplicate copies and record-only lines); the record-only and unread records (including the UNREAD Standard Four records — Drive quota-exceeded — and the record-mismatch records filed as Book 3) carry 0 placements and nothing is stocked from them. No Tanzania placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 1 — Health and Environment, Standard One (student book, English; Swahili parallel edition read as spot-check):**
+- Title as printed: Health and Environment, Standard One, Pupil's Book (Swahili edition: Afya na Mazingira, Kitabu cha Mwanafunzi, Darasa la Kwanza)
+- Grade: Standard One (student/teacher: STUDENT)
+- Publisher: Tanzania Institute of Education (TIE); year 2019, reprinted 2021 (Swahili edition © 2018, 2nd ed. 2021); ISBN 978-9987-09-006-8 (Swahili: 978-9987-09-313-7)
+- PDF pages: 82 English / 70 Swahili (covers verified against the record titles; chapter-for-chapter identical contents in both languages — placed once, English pagination cited)
+- Verdict: COMPLETE
+- Tally: 18 placements — 2 to existing lessons, 16 NEW LESSON NEEDED
+- Tanzania's own way: every chapter opens with a song and teaches by picture-naming and step-by-step picture sequences (wash, cut, scrub, rinse), with a "Good manners" behaviour note inside the hygiene lessons.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/tanzania-health-placements.md (Book 1 of that file).
+
+**Book 2 — Health and Environment, Standard Two (student book, English; Swahili parallel edition read as spot-check):**
+- Title as printed: Health and Environment, Standard Two, Pupil's Book (Swahili edition: Afya na Mazingira, Kitabu cha Mwanafunzi, Darasa la Pili)
+- Grade: Standard Two (student/teacher: STUDENT)
+- Publisher: Tanzania Institute of Education (TIE); year 2019, reprinted 2021 (Swahili edition © 2018, 2nd ed. 2021); ISBN 978-9987-09-007-5 (Swahili: 978-9987-09-314-4)
+- PDF pages: 82 English / 73 Swahili (covers verified; identical chapter structure in both languages — placed once, English pagination cited; a second Drive copy of the English book and a Drive copy of the Swahili book are the same books, byte-different scans of the same editions)
+- Verdict: COMPLETE
+- Tally: 16 placements — 3 to existing lessons, 13 NEW LESSON NEEDED
+- Tanzania's own way: prevention is taught as household routines — washing and ironing clothes, covering food with a traditional food cover or winnowing basket, storing water in covered pots — before diseases are named.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/tanzania-health-placements.md (Book 2 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Tanzania — Water and our health — clean water is not always safe; boiling water and keeping it covered; the diseases from unsafe water; uses of clean and safe water (original string `staying-safe/clean-and-safe-water`) | Tanzania Standard One Health and Environment, printed pp. 39–43 |
+| Tanzania — Keeping water clean and safe — boiling, filtering and chemical treatment; keeping drinking water in clean covered containers (original string `staying-safe/clean-and-safe-water`) | Tanzania Standard Two Health and Environment, printed pp. 26–28 |
+| Tanzania — Using toilets properly — pit, squatting and sitting toilets; the steps for using a pit toilet; cleaning the toilet (original string `staying-safe/using-the-toilet-properly`) | Tanzania Standard Two Health and Environment, printed pp. 29–34 |
+
+Tanzania is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — all the Tanzania books stocked here are STUDENT books, so Tanzania is named in the countries line and provenance rows and the acceptance count rises from 2 to 3 countries. The Tanzania placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved to this canonical lesson (`staying-safe/safe-water-and-toilets`) by the health slug registry (Part 2A; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Tanzania's own way is content, as the book lines above record it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: safe water and toilets, WASH, WASH in Schools, KWinS, safe drinking water, sanitation, hygiene, Kiribati WASH MHM Guide, drinking water, eight glasses a day, saving water, El Salvador Ciencia Salud y Medio Ambiente 1, Una amiga para conservar, WASHE, water sanitation and hygiene education, safe water latrines handwashing at school, environmental health, Zambia Health Teacher Training Manual 2025, Papua New Guinea, Papua New Guinea Grade 4 Health TG Grade 4, Bhutan, Bhutan PP–I Suggested Activities, Bhutan II–III Suggested Activities, Bhutan Class VI Suggested Activities, Tanzania, Tanzania Health and Environment, Afya na Mazingira, TIE Tanzania Institute of Education
