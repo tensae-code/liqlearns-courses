@@ -1,6 +1,6 @@
 # Sources — Gymnastics — Rules and Competition Types
 
-countries: Ethiopia, Iran, North Macedonia, Kuwait
+countries: Ethiopia, Iran, North Macedonia, Kuwait, Greece
 
 **Book 1:** *Grade 8 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–98 + front matter (107 PDF pages). Printed page = PDF page − 9. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g08-student-placements.md.
 
@@ -10,7 +10,7 @@ countries: Ethiopia, Iran, North Macedonia, Kuwait
 | Sub lesson 2 — At the Olympics — artistic and rhythmic | Ethiopia, *Grade 8 Student Textbook*, §5.1–§5.1.1 Competition types at the Olympics (artistic; rhythmic for women only), printed pp. 51–54 |
 | Sub lesson 3 — At the world championships — and sports aerobics | Ethiopia, *Grade 8 Student Textbook*, §5.1.2 Competition types at world championships, incl. sports aerobics, printed p. 54 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Iran, North Macedonia).** Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 4 countries (Ethiopia, Iran, North Macedonia, Greece).** Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count.
 
 The Grade 8 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it. The placements summarise §5.1 at the depth taught here: they name the basic laws and the competition types without listing the laws one by one, so this lesson teaches the laws as the governing frame of competition and does not invent a law list the placements do not give.
 
@@ -78,3 +78,40 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/kuwait-pe-pl
 | Kuwait — Gymnastics (Ch. 3): the rules of the game (teacher guide — evidence) (original target `gymnastics/gymnastics-rules-and-competition-types`) | Kuwait Grades 1–5 Girls PE & Health TG (2nd ed.), printed p. 117 |
 
 Kuwait's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Kuwait is teacher-guide evidence only, outside the acceptance count, in this lesson. Kuwait's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Greece — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/greece-pe-placements.md. The Greece books stocked in this lesson are Book 3 and Book 4 — all student books, read in full as filed (Book 4 read from the ministry's official edition; its library debt — the record claims it secured but the file is absent from the GitHub tree — is recorded in its header below, as filed). Greece is student-book stock, inside the acceptance count, in this lesson. Greece's own way is content, as the book lines below record it: Book 3: the series turns from story and play to a true skills textbook — one chapter per sport with technique checklists ("what to watch out for"), Greek traditional dances taught dance by dance with their regions, and a closing health chapter that measures the pupil's own pulse and builds a personal exercise plan; Book 4: one combined book serves all three Gymnasium years as a reference text — sport history first, then one fact-and-technique section per sport taught, a full self-training chapter (pupils measure their own pulse, use heart-rate zones and sit fitness tests), and special topics that run from posture and adapted PE to organising a school event yourselves. Book 3's Chapter 8 (lifelong exercise and health) and Chapter 9 (fair play) placements and Book 4's health placements are filed in greece-health-placements.md (Health course), not here.
+
+**Book — Greece Grades 5-6 Fysiki Agogi E-ST (student book, Greek):**
+## Book 3 — Fysiki Agogi E'-ST' Dimotikou (student book, Greek)
+- Title as printed: Φυσική Αγωγή Ε΄ & Στ΄ Δημοτικού (Βιβλίο Μαθητή)
+- Grade: Ε΄ & Στ΄ Δημοτικού — Grades 5-6 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» for the Institute of Educational Policy, Ministry of Education, Religious Affairs and Sports; year 2012 (this file: 3rd version, revised 2016); ISBN 978-960-06-2810-0 (book code 0-10-0145; the back cover of this file still prints the earlier ISBN 978-960-06-2610-0)
+- PDF pages: 106 (cover/title page verified against the record title; 6,764,380 bytes, identical to the GitHub tree copy at grade-06/gov/greece/physical-education/full-year.pdf)
+- Verdict: COMPLETE
+- Tally (PE file): 54 placements — 43 to existing lessons, 11 NEW LESSON NEEDED. A further 17 placements from this book are filed in greece-health-placements.md (Chapter 8, lifelong exercise and health; Chapter 9, fair play).
+- Greece's own way: the series turns from story and play to a true skills textbook — one chapter per sport with technique checklists ("what to watch out for"), Greek traditional dances taught dance by dance with their regions, and a closing health chapter that measures the pupil's own pulse and builds a personal exercise plan.
+- Named, not placed: the Γλωσσάριο (glossary, printed p. 101) — inventory-only per the brief; the numbered in-chapter exercises/questionnaires are the book's own activity items and are carried inside the chapter placements above/below.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Κεφάλαιο 5: Η Γυμναστική (Chapter 5: Gymnastics — the sport and its competitions) — description of the gymnastics disciplines and brief history; the gymnast is judged on the difficulty of the exercises and on how correctly they are performed (original target `gymnastics/gymnastics-rules-and-competition-types`) | Greece Grades 5-6 Fysiki Agogi E-ST, printed p. 37 |
+
+**Book — Greece Grades 7-9 Fysiki Agogi Gymnasiou (student book, Greek):**
+## Book 4 — Fysiki Agogi A'-C' Gymnasiou (student book, Greek)
+- Title as printed: Φυσική Αγωγή Α΄, Β΄, Γ΄ Γυμνασίου (Βιβλίο Μαθητή)
+- Grade: Α΄-Γ΄ Γυμνασίου — Grades 7-9 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» for the Institute of Educational Policy, Ministry of Education, Religious Affairs and Sports; year 2013 (this file revised 2015); ISBN 978-960-06-2679-7 (book code 0-21-0042)
+- PDF pages: 154 (cover/title page verified against the record title; 10,044,807 bytes)
+- Verdict: COMPLETE — read from the ministry PDF (ebooks.edu.gr). LIBRARY DEBT: the record claims this book is secured (in_pushed: true), but the file is absent from the GitHub tree at grade-07, grade-08 and grade-09 paths (all 404; no physical-education directory exists in the repo's grade-07/08/09 Greece folders), and its staging folder stood empty although the staging books.json record carries the exact byte size (10,044,807). The ministry copy has now been staged into phase3-staging under the existing record (see reading log).
+- Tally (PE file): 54 placements — 43 to existing lessons, 11 NEW LESSON NEEDED. A further 13 placements from this book are filed in greece-health-placements.md (Chapter 3, lifelong exercise and health; the injury, doping, violence and sportsmanship sections of Chapter 5; the swimming-safety rules of Chapter 2).
+- Greece's own way: one combined book serves all three Gymnasium years as a reference text — sport history first, then one fact-and-technique section per sport taught, a full self-training chapter (pupils measure their own pulse, use heart-rate zones and sit fitness tests), and special topics that run from posture and adapted PE to organising a school event yourselves.
+- Named, not placed: the Ανακεφαλαίωση (Recapitulation, printed pp. 146-148) — the book's own revision questions, excluded per the brief; the Γλωσσάρι (glossary, printed pp. 149-150) and Πηγές (sources, printed p. 151) — inventory-only.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Γυμναστική (Gymnastics — history and competition) — artistic gymnastics in its modern form was born in Germany; the first European federation in 1881; compulsory exercises and the difference that women perform floor to music (original target `gymnastics/gymnastics-rules-and-competition-types`) | Greece Grades 7-9 Fysiki Agogi Gymnasiou, printed p. 59 |
+| Greece — Τραμπολίνο (Trampoline) — a trampoline programme is judged on stretched legs and arms, body control and holding the execution throughout (original target `gymnastics/gymnastics-rules-and-competition-types`) | Greece Grades 7-9 Fysiki Agogi Gymnasiou, printed p. 64 |
+
+Greece's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Greece is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

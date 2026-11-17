@@ -1,6 +1,6 @@
 # Sources — How Athletics Grew — A Short History
 
-countries: Ethiopia, Afghanistan, China, Honduras, North Macedonia, Papua New Guinea
+countries: Ethiopia, Afghanistan, China, Honduras, North Macedonia, Papua New Guinea, Greece
 
 **Book 1:** *Grade 7 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–96 + front matter (104 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g07-student-placements.md.
 
@@ -24,7 +24,7 @@ countries: Ethiopia, Afghanistan, China, Honduras, North Macedonia, Papua New Gu
 | Athletics — the base sport (teacher guide — evidence) | Ethiopia, *Grade 5 Teacher Guide*, Chapter 4 intro and §4.3, printed pp. 35 and 40–41 |
 | The Grade 10 guide's telling (teacher guide — evidence) | Ethiopia, *Grade 10 Teacher Guide*, Unit 3 — Athletics histories, printed pp. 26–28 (teacher guide — evidence): world athletics (modern athletics, major events, world-class athletes); African athletics — contribution back to the very foundation of the IAAF (International Amateur Athletics Federation), prominence grew from the 1960s; Ethiopian athletics — Bikila's barefoot marathon victory and his retained Tokyo title, wearing shoes |
 
-**Acceptance count: taught in 4 countries (Ethiopia, China, Honduras, North Macedonia).** Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count.
+**Acceptance count: taught in 5 countries (Ethiopia, China, Honduras, North Macedonia, Greece).** Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count.
 
 The Grade 7 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -186,3 +186,58 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/papua-new-gu
 | Papua New Guinea — Content Background 4: Athletics (teacher guide — evidence) (original target `sport-and-its-story/how-athletics-grew`) | Papua New Guinea, *Physical Education Teacher Guide, Primary Grade 5, Standards Based* (Papua New Guinea PE TG Grade 5), printed p. 21 |
 
 Papua New Guinea's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Papua New Guinea's own way is content, as the book lines above record it: PE organised in three strands — Safety, Movement, Physical Activity — in the primary guides, merging with Health into one six-strand subject from Grade 6, taught through village games, community modified sports and tabloid-sport station carnivals, with traditional leisure games, Tok Pisin-named modified sports (Kapul Soka, Tibol, Liklik Kriket, Mini Basketbol, Mini Volibol) and local leisure (gardening, fishing, sailing, sekapu stone games, string games) counted as PE content. Teacher guides are evidence of what is taught, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Greece — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/greece-pe-placements.md. The Greece books stocked in this lesson are Book 2, Book 3 and Book 4 — all student books, read in full as filed (Book 4 read from the ministry's official edition; its library debt — the record claims it secured but the file is absent from the GitHub tree — is recorded in its header below, as filed). Greece is student-book stock, inside the acceptance count, in this lesson. Greece's own way is content, as the book lines below record it: Book 2: a father's rainy-Sunday storytelling carries Greek sport from Minoan bull-leaping to the modern Olympics; the ball gets a whole history chapter of its own; psychomotor work is done with everyday props (ribbon, newspaper, hoops, wands, skipping rope, elastic); dance is taught as Greek history — myth, ancient Greece, the Ottoman years, carnival customs and the village dance band; Book 3: the series turns from story and play to a true skills textbook — one chapter per sport with technique checklists ("what to watch out for"), Greek traditional dances taught dance by dance with their regions, and a closing health chapter that measures the pupil's own pulse and builds a personal exercise plan; Book 4: one combined book serves all three Gymnasium years as a reference text — sport history first, then one fact-and-technique section per sport taught, a full self-training chapter (pupils measure their own pulse, use heart-rate zones and sit fitness tests), and special topics that run from posture and adapted PE to organising a school event yourselves. Book 3's Chapter 8 (lifelong exercise and health) and Chapter 9 (fair play) placements and Book 4's health placements are filed in greece-health-placements.md (Health course), not here.
+
+**Book — Greece Grades 3-4 Fysiki Agogi G-D (student book, Greek):**
+## Book 2 — Fysiki Agogi G'-D' Dimotikou (student book, Greek)
+- Title as printed: Φυσική Αγωγή Γ΄ & Δ΄ Δημοτικού (Βιβλίο Μαθητή)
+- Grade: Γ΄ & Δ΄ Δημοτικού — Grades 3-4 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» for the Institute of Educational Policy, Ministry of Education and Religious Affairs; year 2014; ISBN 978-960-06-2537-0 (book code 0-10-0076)
+- PDF pages: 110 (cover/title page verified against the record title; 21,086,518 bytes, identical to the GitHub tree copy at grade-04/gov/greece/physical-education/full-year.pdf)
+- Verdict: COMPLETE
+- Tally: 38 placements — 28 to existing lessons, 10 NEW LESSON NEEDED
+- Greece's own way: a father's rainy-Sunday storytelling carries Greek sport from Minoan bull-leaping to the modern Olympics; the ball gets a whole history chapter of its own; psychomotor work is done with everyday props (ribbon, newspaper, hoops, wands, skipping rope, elastic); dance is taught as Greek history — myth, ancient Greece, the Ottoman years, carnival customs and the village dance band.
+- Named, not placed: the Δραστηριότητες (Activities) pages — matching Homeric events to today's (printed p. 33), the foot-race colouring page (printed p. 37), matching rackets to racket games (printed p. 47), balls-and-games matching (printed p. 48), the basketball-score riddle (printed p. 49), the questions page (printed p. 50), the labyrinth (printed p. 51) and the crossword (printed p. 52) — pure activity/revision items; the body-shapes yes/no revision page (printed p. 68); the Music-subject pages — musical instruments (printed pp. 70-71), duration of sound (printed p. 74), strange orchestras: Latin America's steel "pans" (printed p. 76), rhythm and melody (printed p. 77), the structure of music (printed pp. 84-85), the instrument families that accompany dance (printed pp. 96-97); the closing activities — folk proverbs about dance (printed p. 100), naming the folk instruments (printed p. 101) and the two word-search puzzles (printed pp. 102-103).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Μινωική εποχή (The Minoan age) — sport in Minoan Crete from the frescoes: bull-leaping (tavrokathapsia) at Knossos and the young boxers of Thera (original target `sport-and-its-story/how-athletics-grew`) | Greece Grades 3-4 Fysiki Agogi G-D, printed p. 15 |
+| Greece — Μυκηναϊκή εποχή (The Mycenaean age) — athletic contests in Mycenaean Greece, as honoured as in Minoan Crete (original target `sport-and-its-story/how-athletics-grew`) | Greece Grades 3-4 Fysiki Agogi G-D, printed p. 18 |
+| Greece — Ομήρου Ιλιάδα: Αγώνες προς τιμήν του νεκρού Πάτροκλου (Homer's Iliad: games for the dead Patroclus) — Achilles' funeral games: chariot race, wrestling, boxing, running and more (original target `sport-and-its-story/how-athletics-grew`) | Greece Grades 3-4 Fysiki Agogi G-D, printed p. 19 |
+| Greece — Ομήρου Οδύσσεια: Στη χώρα των Φαιάκων (Homer's Odyssey: in the land of the Phaeacians) — the Phaeacian games: foot race (won by Klytonios), wrestling, long jump, discus and boxing (original target `sport-and-its-story/how-athletics-grew`) | Greece Grades 3-4 Fysiki Agogi G-D, printed p. 20 |
+
+**Book — Greece Grades 5-6 Fysiki Agogi E-ST (student book, Greek):**
+## Book 3 — Fysiki Agogi E'-ST' Dimotikou (student book, Greek)
+- Title as printed: Φυσική Αγωγή Ε΄ & Στ΄ Δημοτικού (Βιβλίο Μαθητή)
+- Grade: Ε΄ & Στ΄ Δημοτικού — Grades 5-6 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» for the Institute of Educational Policy, Ministry of Education, Religious Affairs and Sports; year 2012 (this file: 3rd version, revised 2016); ISBN 978-960-06-2810-0 (book code 0-10-0145; the back cover of this file still prints the earlier ISBN 978-960-06-2610-0)
+- PDF pages: 106 (cover/title page verified against the record title; 6,764,380 bytes, identical to the GitHub tree copy at grade-06/gov/greece/physical-education/full-year.pdf)
+- Verdict: COMPLETE
+- Tally (PE file): 54 placements — 43 to existing lessons, 11 NEW LESSON NEEDED. A further 17 placements from this book are filed in greece-health-placements.md (Chapter 8, lifelong exercise and health; Chapter 9, fair play).
+- Greece's own way: the series turns from story and play to a true skills textbook — one chapter per sport with technique checklists ("what to watch out for"), Greek traditional dances taught dance by dance with their regions, and a closing health chapter that measures the pupil's own pulse and builds a personal exercise plan.
+- Named, not placed: the Γλωσσάριο (glossary, printed p. 101) — inventory-only per the brief; the numbered in-chapter exercises/questionnaires are the book's own activity items and are carried inside the chapter placements above/below.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Κεφάλαιο 6: Ο Κλασικός αθλητισμός (Chapter 6: Classical athletics — its history) — brief history and the events described; the ancient athlete's code (no bribery, no magic) and the javelin already an event in Homer's Iliad (original target `sport-and-its-story/how-athletics-grew`) | Greece Grades 5-6 Fysiki Agogi E-ST, printed p. 48 |
+
+**Book — Greece Grades 7-9 Fysiki Agogi Gymnasiou (student book, Greek):**
+## Book 4 — Fysiki Agogi A'-C' Gymnasiou (student book, Greek)
+- Title as printed: Φυσική Αγωγή Α΄, Β΄, Γ΄ Γυμνασίου (Βιβλίο Μαθητή)
+- Grade: Α΄-Γ΄ Γυμνασίου — Grades 7-9 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» for the Institute of Educational Policy, Ministry of Education, Religious Affairs and Sports; year 2013 (this file revised 2015); ISBN 978-960-06-2679-7 (book code 0-21-0042)
+- PDF pages: 154 (cover/title page verified against the record title; 10,044,807 bytes)
+- Verdict: COMPLETE — read from the ministry PDF (ebooks.edu.gr). LIBRARY DEBT: the record claims this book is secured (in_pushed: true), but the file is absent from the GitHub tree at grade-07, grade-08 and grade-09 paths (all 404; no physical-education directory exists in the repo's grade-07/08/09 Greece folders), and its staging folder stood empty although the staging books.json record carries the exact byte size (10,044,807). The ministry copy has now been staged into phase3-staging under the existing record (see reading log).
+- Tally (PE file): 54 placements — 43 to existing lessons, 11 NEW LESSON NEEDED. A further 13 placements from this book are filed in greece-health-placements.md (Chapter 3, lifelong exercise and health; the injury, doping, violence and sportsmanship sections of Chapter 5; the swimming-safety rules of Chapter 2).
+- Greece's own way: one combined book serves all three Gymnasium years as a reference text — sport history first, then one fact-and-technique section per sport taught, a full self-training chapter (pupils measure their own pulse, use heart-rate zones and sit fitness tests), and special topics that run from posture and adapted PE to organising a school event yourselves.
+- Named, not placed: the Ανακεφαλαίωση (Recapitulation, printed pp. 146-148) — the book's own revision questions, excluded per the brief; the Γλωσσάρι (glossary, printed pp. 149-150) and Πηγές (sources, printed p. 151) — inventory-only.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Από την αρχαία εποχή μέχρι σήμερα (From ancient times to today) — sport through the ages: the Odyssey's hospitality games, education in Athens and Sparta, Rome's "bread and circuses", and the humanists who restored PE as harmonious development (original target `sport-and-its-story/how-athletics-grew`) | Greece Grades 7-9 Fysiki Agogi Gymnasiou, printed p. 8 |
+| Greece — Κλασικός αθλητισμός (Classical athletics — the events) — the athletics programme described, from the Athens Classic Marathon to the combined events (decathlon for men, heptathlon for women) (original target `sport-and-its-story/how-athletics-grew`) | Greece Grades 7-9 Fysiki Agogi Gymnasiou, printed p. 50 |
+
+Greece's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Greece is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

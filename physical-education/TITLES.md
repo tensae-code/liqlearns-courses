@@ -367,3 +367,10 @@ The PE expansion then added: **Sitting Volleyball**
 (`ball-games/sitting-volleyball`) and **The Rules of
 Netball** (`ball-games/the-rules-of-netball`)
 — 2 new lessons, bringing this course to 214 lessons.
+
+The PE expansion then added: **Traditional Games of
+Greece**
+(`traditional-games-and-dances/traditional-games-of-greece`)
+and **Traditional Dances of Greece**
+(`traditional-games-and-dances/traditional-dances-of-greece`)
+— 2 new lessons, bringing this course to 216 lessons.

@@ -1,6 +1,6 @@
 # Sources — What Sport Is — and How It Differs from PE
 
-countries: Ethiopia, Afghanistan, Nicaragua, Honduras, Fiji
+countries: Ethiopia, Afghanistan, Nicaragua, Honduras, Fiji, Greece
 
 **Book 1:** *Grade 6 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–95 + front matter (103 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g06-student-placements.md.
 
@@ -18,7 +18,7 @@ countries: Ethiopia, Afghanistan, Nicaragua, Honduras, Fiji
 | Prove-it questions folded from the book's own Chapter 1 review — Sub lesson 2 (teacher guide — evidence) | Ethiopia, *Grade 6 Teacher Guide*, Chapter 1 summary + assessment answers, printed pp. 10–11 (teacher guide — evidence) |
 | Prove-it questions folded from the book's own Chapter 1 review — Sub lesson 3 (teacher guide — evidence) | Ethiopia, *Grade 7 Teacher Guide*, §1.6 and Chapter 1 summary + review answers, printed pp. 12–13 (teacher guide — evidence) |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Nicaragua, Honduras).** Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 4 countries (Ethiopia, Nicaragua, Honduras, Greece).** Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count.
 
 The Grade 6 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -138,3 +138,24 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/fiji-pe-plac
 | Fiji — Chapter 3: Sports — sport as an organised contest played since long ago, including volleyball and tennis (teacher guide — evidence) (original target `sport-and-its-story/what-sport-is`) | Fiji Year 4 PE for Fun Teachers Handbook, printed pp. 50–51 (Chapter 3) |
 
 Fiji's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Fiji's own way is content, as the book lines above record it: a *PE is Fun* series built on strands and KLA outcomes, moving from movement science to training, sports nutrition and tournament organisation, with Fiji Sevens rugby and the Skipper Cup as worked examples, named Fijian traditional games (Veibuka, Veisole, Veicibi, Veitiqa and more) and the games of Fiji's Indian community taught side by side, and swimming taught as a Fiji survival skill. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Greece — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/greece-pe-placements.md. The Greece books stocked in this lesson are Book 4 — all student books, read in full as filed (Book 4 read from the ministry's official edition; its library debt — the record claims it secured but the file is absent from the GitHub tree — is recorded in its header below, as filed). Greece is student-book stock, inside the acceptance count, in this lesson. Greece's own way is content, as the book lines below record it: Book 4: one combined book serves all three Gymnasium years as a reference text — sport history first, then one fact-and-technique section per sport taught, a full self-training chapter (pupils measure their own pulse, use heart-rate zones and sit fitness tests), and special topics that run from posture and adapted PE to organising a school event yourselves. Book 3's Chapter 8 (lifelong exercise and health) and Chapter 9 (fair play) placements and Book 4's health placements are filed in greece-health-placements.md (Health course), not here.
+
+**Book — Greece Grades 7-9 Fysiki Agogi Gymnasiou (student book, Greek):**
+## Book 4 — Fysiki Agogi A'-C' Gymnasiou (student book, Greek)
+- Title as printed: Φυσική Αγωγή Α΄, Β΄, Γ΄ Γυμνασίου (Βιβλίο Μαθητή)
+- Grade: Α΄-Γ΄ Γυμνασίου — Grades 7-9 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» for the Institute of Educational Policy, Ministry of Education, Religious Affairs and Sports; year 2013 (this file revised 2015); ISBN 978-960-06-2679-7 (book code 0-21-0042)
+- PDF pages: 154 (cover/title page verified against the record title; 10,044,807 bytes)
+- Verdict: COMPLETE — read from the ministry PDF (ebooks.edu.gr). LIBRARY DEBT: the record claims this book is secured (in_pushed: true), but the file is absent from the GitHub tree at grade-07, grade-08 and grade-09 paths (all 404; no physical-education directory exists in the repo's grade-07/08/09 Greece folders), and its staging folder stood empty although the staging books.json record carries the exact byte size (10,044,807). The ministry copy has now been staged into phase3-staging under the existing record (see reading log).
+- Tally (PE file): 54 placements — 43 to existing lessons, 11 NEW LESSON NEEDED. A further 13 placements from this book are filed in greece-health-placements.md (Chapter 3, lifelong exercise and health; the injury, doping, violence and sportsmanship sections of Chapter 5; the swimming-safety rules of Chapter 2).
+- Greece's own way: one combined book serves all three Gymnasium years as a reference text — sport history first, then one fact-and-technique section per sport taught, a full self-training chapter (pupils measure their own pulse, use heart-rate zones and sit fitness tests), and special topics that run from posture and adapted PE to organising a school event yourselves.
+- Named, not placed: the Ανακεφαλαίωση (Recapitulation, printed pp. 146-148) — the book's own revision questions, excluded per the brief; the Γλωσσάρι (glossary, printed pp. 149-150) and Πηγές (sources, printed p. 151) — inventory-only.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Φυσική Αγωγή, παιχνίδι, αθλητισμός (Physical Education, play, sport) — movement as play and as sport through human life; the three ideas distinguished (original target `sport-and-its-story/what-sport-is`) | Greece Grades 7-9 Fysiki Agogi Gymnasiou, printed p. 22 |
+
+Greece's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Greece is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

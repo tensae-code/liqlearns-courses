@@ -1,6 +1,6 @@
 # Sources — What Traditional Dance and Games Are
 
-countries: Ethiopia, Mozambique, Nicaragua, Honduras, Iran, Kuwait, Sri Lanka
+countries: Ethiopia, Mozambique, Nicaragua, Honduras, Iran, Kuwait, Sri Lanka, Greece
 
 **Book 1:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–106 + front matter (114 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md.
 
@@ -18,7 +18,7 @@ countries: Ethiopia, Mozambique, Nicaragua, Honduras, Iran, Kuwait, Sri Lanka
 | Prove-it questions folded from the book's own chapter summary exercises — Sub lesson 2 | Ethiopia, *Grade 7 Student Textbook*, chapter summary exercises, printed p. 95 |
 | Mozambique — 1.ª parte, Jogos tradicionais — what makes a game traditional: known rules and limits handed down from generation to generation (teacher guide — evidence) (original target `traditional-games-and-dances/what-traditional-dance-and-games-are`) | Mozambique, *Grade 1 Teacher Manual (Educação Física)*, 1.ª parte, Jogos tradicionais, printed p. 197 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Honduras, Iran, Sri Lanka).** Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count.
+**Acceptance count: taught in 5 countries (Ethiopia, Honduras, Iran, Sri Lanka, Greece).** Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count.
 
 The Grade 5 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -211,3 +211,24 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/sri-lanka-pe
 | Sri Lanka — Competency 4.1 — teaching folk games for enjoyment in leisure time | Sri Lanka Grade 7 G7 TG 2016 English, syllabus printed pp. xi–xxxii |
 
 Sri Lanka's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Sri Lanka is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Greece — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/greece-pe-placements.md. The Greece books stocked in this lesson are Book 2 — all student books, read in full as filed (Book 4 read from the ministry's official edition; its library debt — the record claims it secured but the file is absent from the GitHub tree — is recorded in its header below, as filed). Greece is student-book stock, inside the acceptance count, in this lesson. Greece's own way is content, as the book lines below record it: Book 2: a father's rainy-Sunday storytelling carries Greek sport from Minoan bull-leaping to the modern Olympics; the ball gets a whole history chapter of its own; psychomotor work is done with everyday props (ribbon, newspaper, hoops, wands, skipping rope, elastic); dance is taught as Greek history — myth, ancient Greece, the Ottoman years, carnival customs and the village dance band. Book 3's Chapter 8 (lifelong exercise and health) and Chapter 9 (fair play) placements and Book 4's health placements are filed in greece-health-placements.md (Health course), not here.
+
+**Book — Greece Grades 3-4 Fysiki Agogi G-D (student book, Greek):**
+## Book 2 — Fysiki Agogi G'-D' Dimotikou (student book, Greek)
+- Title as printed: Φυσική Αγωγή Γ΄ & Δ΄ Δημοτικού (Βιβλίο Μαθητή)
+- Grade: Γ΄ & Δ΄ Δημοτικού — Grades 3-4 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» for the Institute of Educational Policy, Ministry of Education and Religious Affairs; year 2014; ISBN 978-960-06-2537-0 (book code 0-10-0076)
+- PDF pages: 110 (cover/title page verified against the record title; 21,086,518 bytes, identical to the GitHub tree copy at grade-04/gov/greece/physical-education/full-year.pdf)
+- Verdict: COMPLETE
+- Tally: 38 placements — 28 to existing lessons, 10 NEW LESSON NEEDED
+- Greece's own way: a father's rainy-Sunday storytelling carries Greek sport from Minoan bull-leaping to the modern Olympics; the ball gets a whole history chapter of its own; psychomotor work is done with everyday props (ribbon, newspaper, hoops, wands, skipping rope, elastic); dance is taught as Greek history — myth, ancient Greece, the Ottoman years, carnival customs and the village dance band.
+- Named, not placed: the Δραστηριότητες (Activities) pages — matching Homeric events to today's (printed p. 33), the foot-race colouring page (printed p. 37), matching rackets to racket games (printed p. 47), balls-and-games matching (printed p. 48), the basketball-score riddle (printed p. 49), the questions page (printed p. 50), the labyrinth (printed p. 51) and the crossword (printed p. 52) — pure activity/revision items; the body-shapes yes/no revision page (printed p. 68); the Music-subject pages — musical instruments (printed pp. 70-71), duration of sound (printed p. 74), strange orchestras: Latin America's steel "pans" (printed p. 76), rhythm and melody (printed p. 77), the structure of music (printed pp. 84-85), the instrument families that accompany dance (printed pp. 96-97); the closing activities — folk proverbs about dance (printed p. 100), naming the folk instruments (printed p. 101) and the two word-search puzzles (printed pp. 102-103).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Ρυθμός και χορός (Rhythm and dance) — every people has its own dances as it has its own language — waltz, rumba, polka and the rest; a dance keeps one rhythm through all its melodies (original target `traditional-games-and-dances/what-traditional-dance-and-games-are`) | Greece Grades 3-4 Fysiki Agogi G-D, printed p. 78 |
+
+Greece's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Greece is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

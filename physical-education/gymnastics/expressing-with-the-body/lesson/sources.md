@@ -1,8 +1,8 @@
 # Sources — Expressing with the Body
 
-countries: El Salvador, Philippines, Cuba
+countries: El Salvador, Philippines, Cuba, Greece
 
-**Acceptance count: taught in 1 country (Philippines).** Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. El Salvador remains teacher-guide evidence only (see its rows above), named in the countries line but outside the acceptance count — this lesson was founded on teacher-guide evidence only before the Philippines student book was stocked. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 2 countries (Philippines, Greece).** Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. El Salvador remains teacher-guide evidence only (see its rows above), named in the countries line but outside the acceptance count — this lesson was founded on teacher-guide evidence only before the Philippines student book was stocked. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count.
 
 Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/el-salvador-pe-placements.md. El Salvador's book read for this expansion is the *Guía Metodológica de Educación Física, Primer Ciclo* (Grades 1–3) — a TEACHER guide, COMPLETE, read in full via its SlideShare scan (239 pages as scanned; no direct-download route exists for this record, as filed). El Salvador is therefore filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. The other El Salvador records are record-only, as filed in the placements file: two MINED web index pages (ministry index pages, not books — no placements) and two study programmes (Bachillerato and III Ciclo), both UNREAD with 0 placements — study programmes are filed record-only and never placed — nothing is stocked from any of them. The guide's 4 Health-side placements are filed in el-salvador-health-placements.md and placed in the Health course, not in PE.
 
@@ -66,3 +66,25 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/cuba-pe-plac
 | Cuba — Unidad Actividades Rítmicas: expresión corporal — body expression with and without implements (newspapers, ropes, hoops, ribbons, balls), mime and dramatisation (original target `gymnastics/body-expression-and-dramatisation`) | Cuba Grade 2 G2 Orientaciones, printed p. 72 |
 
 Cuba's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Cuba enters this lesson as teacher-guide/programme evidence only, outside the acceptance count. Cuba's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Greece — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/greece-pe-placements.md. The Greece books stocked in this lesson are Book 1 — all student books, read in full as filed (Book 4 read from the ministry's official edition; its library debt — the record claims it secured but the file is absent from the GitHub tree — is recorded in its header below, as filed). Greece is student-book stock, inside the acceptance count, in this lesson. Greece's own way is content, as the book lines below record it: Book 1: the whole book is carried by a story — two child characters, Trechalitsas ("Runner") and Kolympitsa ("Swimmer"), travel through Olympic history — while the movement core is psychomotor education (body schema, space levels, directions, tempo) and the back half is music-and-movement plus traditional dance taught through a grandmother's photo album. Book 3's Chapter 8 (lifelong exercise and health) and Chapter 9 (fair play) placements and Book 4's health placements are filed in greece-health-placements.md (Health course), not here.
+
+**Book — Greece Grades 1-2 Fysiki Agogi A-B (student book, Greek):**
+## Book 1 — Fysiki Agogi A'-B' Dimotikou (student book, Greek)
+- Title as printed: Φυσική Αγωγή Α΄ & Β΄ Δημοτικού (Βιβλίο Μαθητή)
+- Grade: Α΄ & Β΄ Δημοτικού — Grades 1-2 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» for the Institute of Educational Policy, Ministry of Education and Religious Affairs; year 2013 (2nd ed. file 2015); ISBN 978-960-06-2478-6 (book code 0-10-0025)
+- PDF pages: 110 (cover/title page verified against the record title; 8,463,481 bytes, identical to the GitHub tree copy at grade-02/gov/greece/physical-education/full-year.pdf)
+- Verdict: COMPLETE
+- Tally: 44 placements — 28 to existing lessons, 16 NEW LESSON NEEDED
+- Greece's own way: the whole book is carried by a story — two child characters, Trechalitsas ("Runner") and Kolympitsa ("Swimmer"), travel through Olympic history — while the movement core is psychomotor education (body schema, space levels, directions, tempo) and the back half is music-and-movement plus traditional dance taught through a grandmother's photo album.
+- Named, not placed: the Κατασκευές (Crafts) section, printed pp. 33-41 (making a kotinos wreath, an athlete-life collage, an Olympic-flag puzzle, medals, colouring the mascots) — pure craft/activity items; the question-and-answer fill-in pages inside the story chapters (printed pp. 15, 19, 23, 31) and the two crosswords (printed pp. 105-106, inventory: dance/instrument words συρτός, χασάπικο, λύρα, κλαρίνο, νταούλι) — the book's own revision/activity items; the musical-instrument pages inside Μουσικοκινητική αγωγή (printed pp. 79-83: percussion instruments, the first instruments, homemade instruments) — Music-subject content; the "Μουσικό μονοπάτι" maze (printed p. 90) — pure activity page.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Το σώμα μιλάει (The body speaks) — the body shows what we feel; reading classmates' postures for tired, happy, sad (original target `gymnastics/expressing-feelings-with-the-body`) | Greece Grades 1-2 Fysiki Agogi A-B, printed p. 68 |
+| Greece — Εκφράσεις προσώπου (Facial expressions) — the face is the most expressive part of the body; showing happy, sad and other feelings (original target `gymnastics/expressing-feelings-with-the-body`) | Greece Grades 1-2 Fysiki Agogi A-B, printed p. 70 |
+
+Greece's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Greece is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

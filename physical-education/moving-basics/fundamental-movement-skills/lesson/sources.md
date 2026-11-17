@@ -1,8 +1,8 @@
 # Sources — Fundamental Movement Skills
 
-countries: Fiji, Iran, Indonesia
+countries: Fiji, Iran, Indonesia, Greece
 
-**Acceptance count: taught in 2 countries (Iran, Indonesia).** Fiji's rows in this lesson rest on teacher-guide evidence only (Fiji's *PE is Fun* teacher guides/handbooks); Fiji is named in the countries line and in the rows below, but outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count — the first pupil's book in hand for this lesson. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count; the Indonesia teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
+**Acceptance count: taught in 3 countries (Iran, Indonesia, Greece).** Fiji's rows in this lesson rest on teacher-guide evidence only (Fiji's *PE is Fun* teacher guides/handbooks); Fiji is named in the countries line and in the rows below, but outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count — the first pupil's book in hand for this lesson. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count; the Indonesia teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count.
 
 ## Fiji — PE expansion 2026-11-16
 
@@ -103,3 +103,24 @@ Indonesia's placements in this lesson were filed under the original strings reco
 This is a canonical NEW lesson (slug-registry Part 1: `moving-basics/fundamental-movement-skills` — Fundamental movement skills: locomotor, non-locomotor and manipulative skills — the basics every sport is built from.); Indonesia's placements were filed under the original strings recorded in the provenance rows above, resolved by registry Part 2 to this canonical slug where the string differs. Indonesia is student-book stock, inside the acceptance count, in this lesson; the Indonesia teacher guides stocked here are teacher-guide evidence only, outside the acceptance count.
 
 Searchable tags: fundamental movement skills, Indonesia, PJOK G7 Student, PJOK G7 Teacher
+
+## Greece — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/greece-pe-placements.md. The Greece books stocked in this lesson are Book 1 — all student books, read in full as filed (Book 4 read from the ministry's official edition; its library debt — the record claims it secured but the file is absent from the GitHub tree — is recorded in its header below, as filed). Greece is student-book stock, inside the acceptance count, in this lesson. Greece's own way is content, as the book lines below record it: Book 1: the whole book is carried by a story — two child characters, Trechalitsas ("Runner") and Kolympitsa ("Swimmer"), travel through Olympic history — while the movement core is psychomotor education (body schema, space levels, directions, tempo) and the back half is music-and-movement plus traditional dance taught through a grandmother's photo album. Book 3's Chapter 8 (lifelong exercise and health) and Chapter 9 (fair play) placements and Book 4's health placements are filed in greece-health-placements.md (Health course), not here.
+
+**Book — Greece Grades 1-2 Fysiki Agogi A-B (student book, Greek):**
+## Book 1 — Fysiki Agogi A'-B' Dimotikou (student book, Greek)
+- Title as printed: Φυσική Αγωγή Α΄ & Β΄ Δημοτικού (Βιβλίο Μαθητή)
+- Grade: Α΄ & Β΄ Δημοτικού — Grades 1-2 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» for the Institute of Educational Policy, Ministry of Education and Religious Affairs; year 2013 (2nd ed. file 2015); ISBN 978-960-06-2478-6 (book code 0-10-0025)
+- PDF pages: 110 (cover/title page verified against the record title; 8,463,481 bytes, identical to the GitHub tree copy at grade-02/gov/greece/physical-education/full-year.pdf)
+- Verdict: COMPLETE
+- Tally: 44 placements — 28 to existing lessons, 16 NEW LESSON NEEDED
+- Greece's own way: the whole book is carried by a story — two child characters, Trechalitsas ("Runner") and Kolympitsa ("Swimmer"), travel through Olympic history — while the movement core is psychomotor education (body schema, space levels, directions, tempo) and the back half is music-and-movement plus traditional dance taught through a grandmother's photo album.
+- Named, not placed: the Κατασκευές (Crafts) section, printed pp. 33-41 (making a kotinos wreath, an athlete-life collage, an Olympic-flag puzzle, medals, colouring the mascots) — pure craft/activity items; the question-and-answer fill-in pages inside the story chapters (printed pp. 15, 19, 23, 31) and the two crosswords (printed pp. 105-106, inventory: dance/instrument words συρτός, χασάπικο, λύρα, κλαρίνο, νταούλι) — the book's own revision/activity items; the musical-instrument pages inside Μουσικοκινητική αγωγή (printed pp. 79-83: percussion instruments, the first instruments, homemade instruments) — Music-subject content; the "Μουσικό μονοπάτι" maze (printed p. 90) — pure activity page.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Κινητικές δεξιότητες (Motor skills) — what a motor skill is, taught through learning to ride a bicycle: look ahead, hold the handlebar steady, pedal evenly, be ready to brake (original target `moving-basics/learning-motor-skills`) | Greece Grades 1-2 Fysiki Agogi A-B, printed p. 66 |
+
+Greece's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Greece is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

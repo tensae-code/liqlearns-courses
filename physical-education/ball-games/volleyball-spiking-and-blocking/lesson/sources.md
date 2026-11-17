@@ -1,8 +1,8 @@
 # Sources — Volleyball Spiking and Blocking
 
-countries: Afghanistan, Kuwait, Sri Lanka
+countries: Afghanistan, Kuwait, Sri Lanka, Greece
 
-**Acceptance count: taught in 1 country (Sri Lanka).** Afghanistan is teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count — this lesson is founded on Afghanistan's teacher guides only, and no pupil's book is in hand for it. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count.
+**Acceptance count: taught in 2 countries (Sri Lanka, Greece).** Afghanistan is teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count — this lesson is founded on Afghanistan's teacher guides only, and no pupil's book is in hand for it. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count. Greece is added as student-book stock (see its Greece section below), inside the acceptance count.
 
 ## Afghanistan — PE expansion 2026-11-16
 
@@ -82,3 +82,24 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/sri-lanka-pe
 | Sri Lanka — Ch.5 Let us play volleyball — spiking and blocking technique and practice activities | Sri Lanka Grade 9 HPE English, printed p. 37 |
 
 Sri Lanka's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Sri Lanka is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Greece — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/greece-pe-placements.md. The Greece books stocked in this lesson are Book 4 — all student books, read in full as filed (Book 4 read from the ministry's official edition; its library debt — the record claims it secured but the file is absent from the GitHub tree — is recorded in its header below, as filed). Greece is student-book stock, inside the acceptance count, in this lesson. Greece's own way is content, as the book lines below record it: Book 4: one combined book serves all three Gymnasium years as a reference text — sport history first, then one fact-and-technique section per sport taught, a full self-training chapter (pupils measure their own pulse, use heart-rate zones and sit fitness tests), and special topics that run from posture and adapted PE to organising a school event yourselves. Book 3's Chapter 8 (lifelong exercise and health) and Chapter 9 (fair play) placements and Book 4's health placements are filed in greece-health-placements.md (Health course), not here.
+
+**Book — Greece Grades 7-9 Fysiki Agogi Gymnasiou (student book, Greek):**
+## Book 4 — Fysiki Agogi A'-C' Gymnasiou (student book, Greek)
+- Title as printed: Φυσική Αγωγή Α΄, Β΄, Γ΄ Γυμνασίου (Βιβλίο Μαθητή)
+- Grade: Α΄-Γ΄ Γυμνασίου — Grades 7-9 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» for the Institute of Educational Policy, Ministry of Education, Religious Affairs and Sports; year 2013 (this file revised 2015); ISBN 978-960-06-2679-7 (book code 0-21-0042)
+- PDF pages: 154 (cover/title page verified against the record title; 10,044,807 bytes)
+- Verdict: COMPLETE — read from the ministry PDF (ebooks.edu.gr). LIBRARY DEBT: the record claims this book is secured (in_pushed: true), but the file is absent from the GitHub tree at grade-07, grade-08 and grade-09 paths (all 404; no physical-education directory exists in the repo's grade-07/08/09 Greece folders), and its staging folder stood empty although the staging books.json record carries the exact byte size (10,044,807). The ministry copy has now been staged into phase3-staging under the existing record (see reading log).
+- Tally (PE file): 54 placements — 43 to existing lessons, 11 NEW LESSON NEEDED. A further 13 placements from this book are filed in greece-health-placements.md (Chapter 3, lifelong exercise and health; the injury, doping, violence and sportsmanship sections of Chapter 5; the swimming-safety rules of Chapter 2).
+- Greece's own way: one combined book serves all three Gymnasium years as a reference text — sport history first, then one fact-and-technique section per sport taught, a full self-training chapter (pupils measure their own pulse, use heart-rate zones and sit fitness tests), and special topics that run from posture and adapted PE to organising a school event yourselves.
+- Named, not placed: the Ανακεφαλαίωση (Recapitulation, printed pp. 146-148) — the book's own revision questions, excluded per the brief; the Γλωσσάρι (glossary, printed pp. 149-150) and Πηγές (sources, printed p. 151) — inventory-only.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Το μπλοκ (The block) — in the air the body makes an arc, hands held so the ball cannot pass between them (original target `ball-games/volleyball-blocking`) | Greece Grades 7-9 Fysiki Agogi Gymnasiou, printed p. 42 |
+
+Greece's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Greece is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
