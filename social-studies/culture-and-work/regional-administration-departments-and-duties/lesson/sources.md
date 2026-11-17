@@ -1,0 +1,16 @@
+# Sources — Regional Administration Departments and Duties
+
+countries: Eritrea
+
+**Book 1:** *ማሕበራዊ ትምህርቲ ን5ይ ክፍሊ — መጽሓፍ ተማሃሮ (Social Studies for Grade 5 — Student's Book)* (student book, Tigrinya) — Title as printed: ማሕበራዊ ትምህርቲ ን5ይ ክፍሊ — መጽሓፍ ተማሃሮ (Social Studies for Grade 5 — Student's Book). Grade: Grade 5 (student/teacher: STUDENT). Publisher: Ministry of Education, The State of Eritrea; year 2010; ISBN no ISBN printed on the pages checked. PDF pages: 190 (cover/title page verified against the record title; 35,645,487 bytes and 190 pages, both match the record. The books.json tree path returns 404 — the file lives only in the mid-size-books-5 release asset, as the Geography wave also found; grabbed via the release route of the wave:economics record, byte size verified). Earlier waves: Geography wave placed Chapters 1 (§1.1), 2, 3, 4, 5, 6 (§6.3), 7, 8, 9; History wave placed Chapters 5 (§5.2), 6 (§6.3), 10; Economics wave placed Chapter 7's economics parts. Named by earlier waves as Civics, not placed: Chapter 1 §§1.2–1.3. Verdict: COMPLETE (contents-first; the remaining strand — Chapter 1 §§1.2–1.3 — read fully in the Tigrinya text, printed pp. 3–10; Chapter 6 §§6.1–6.2, which the History wave's header loosely called "information and media", are on inspection archaeology — what archaeology is and the kinds of archaeological remains — History-strand sources content, named in the Contents map and not placed). Contents map: Civics/Government pp. 3–10 (Chapter 1 §§1.2–1.3 Regional administration, its bodies, divisions and duties); Integrated SS pp. 33–41 (Chapter 4 Social Services and Infrastructure — placed whole by the Geography wave, not placed again); Geography pp. 1–2, 11–32, 42–44, 53–60, 95–123 (Chapters 1 §1.1, 2, 3, 5, 8, 9 — Geography wave); History pp. 45–52, 61–78, 124–182 (Chapters 5 §5.2, 6, 10 — History wave); Economics pp. 79–94 (Chapter 7 — Economics wave). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/eritrea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — culture-and-work/regional-administration-departments-and-duties — Chapter 1 §1.3 The Departments of Regional Administration and their Duties — teaches: the working departments under the administration — Economic Development (agriculture: training, inputs and animal vaccination down to village level; water, land and environment development: wells, pumps, solar panels, dams; tourism and investment), Social Services, and Infrastructure — and what each actually delivers to a village — Eritrea Grade 5 ER G5 Social Studies, printed p. 5 | Eritrea, *ER G5 Social Studies* (student book), Chapter 1 §1.3 The Departments of Regional Administration and their Duties — printed p. 5 |
+| Sub lesson 2 — Eritrea's way — the book's own teaching way | Eritrea — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Eritrea).**
+
+Eritrea's own way (ER G5 Social Studies): even the Tigrinya primary book teaches the state concretely — a Grade 5 child learns that their region is run by an elected council (baito), an administration and independent courts, and which department brings the water pump, the seeds and the clinic.
+
+Searchable tags: regional administration departments and duties, Eritrea, social studies, culture-and-work

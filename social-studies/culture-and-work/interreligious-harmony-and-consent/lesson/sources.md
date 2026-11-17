@@ -1,6 +1,6 @@
 # Sources — Interreligious Harmony and Consent
 
-countries: Kazakhstan
+countries: Kazakhstan, Eritrea
 
 **Book 1:** *География — Жалпы білім беретін мектептің 7-сыныбына арналған оқулық (А. В. Егорина, С. Е. Нуркенова, Д. Т. Алиасқаров, Е. П. Шимина)* (student book, Kazakh) — Алматы «Атамұра»; year 2025; ISBN 978-601-10-0688-0. Title as printed: География — Жалпы білім беретін мектептің 7-сыныбына арналған оқулық (А. В. Егорина, С. Е. Нуркенова, Д. Т. Алиасқаров, Е. П. Шимина). Grade: 7 (student/teacher: STUDENT). PDF pages: 272 (cover/title page verified against the record title; record file grade-07/gov/kazakhstan/geografija/student/1473.pdf, 32,144,997 bytes from the recorded okulyk.kz source, page count matches the record; the file behind the record is the Kazakh edition, the record title is in Russian). Verdict: COMPLETE. Parallel edition named, not double-counted: the Russian parallel edition (record 1516.pdf in this record set) carries the same course; the book is placed once here, under this Kazakh edition. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/kazakhstan-placements.md.
 
@@ -12,6 +12,8 @@ countries: Kazakhstan
 
 **Book 5:** *География — Учебник для 7 классов общеобразовательных школ (Ш. Т. Толыбекова, Г. Е. Головина, С. С. Козина)* (student book, Russian) — Алматы «Мектеп»; year 2017; ISBN 978-601-07-0855-6. Title as printed: География — Учебник для 7 классов общеобразовательных школ (Ш. Т. Толыбекова, Г. Е. Головина, С. С. Козина). Grade: 7 (student/teacher: STUDENT). PDF pages: 249 (cover/title page verified against the record title; record file grade-07/gov/kazakhstan/geografija/student/270.pdf, 23,296,746 bytes from the recorded okulyk.kz source, page count matches the record; the PDF carries one extra page over the printed 248). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/kazakhstan-placements.md.
 
+**Book 6:** *Citizenship Education for Grade 6 — Textbook* (student book, English) — Title as printed: Citizenship Education for Grade 6 — Textbook. Grade: Grade 6 (student/teacher: STUDENT). Publisher: Ministry of Education, The State of Eritrea; year 2014 (first printed 2014, Sabur Printing Services, Asmara); ISBN 99948-1-743-4. PDF pages: 121 (cover/title page verified against the record title; 2,740,923 bytes and 121 pages, both match the record). Earlier waves: not read before (no earlier wave held this book). Verdict: COMPLETE (civics track — read in full, page by page, to printed p. 115). Contents map: Civics/Citizenship/Government pp. 62–75 (referendum and voting, national principles, government structure, rights and duties), 96–115 (rules, rights and responsibilities, good citizen); Morals/Values pp. 1–18 (responsible young person, family responsibility, honesty, friendship), 19–30 (a good student), 76–85 (patriotism as service), 107–115 (qualities of a good citizen, respecting parents); Integrated SS pp. 31–45 (family and culture, doing good for others, diversity of Eritrean society, religious harmony), 86–95 (national symbols and holidays); History pp. 46–61 (the Eritrean Revolution; the Liberation of Eritrea) — named, not placed (History wave's strand). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/eritrea-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — §47 Interreligious agreement | Kazakhstan, *Kazakhstan Grade 7 Egorina*, §47 Interreligious agreement — printed p. 194 |
@@ -20,8 +22,9 @@ countries: Kazakhstan
 | Sub lesson 1 — §52 Interethnic and interfaith agreement of the people of Kazakhstan | Kazakhstan, *Kazakhstan Grade 7 Tolybekova*, §52 Interethnic and interfaith agreement of the people of Kazakhstan — printed p. 223 |
 | Sub lesson 1 — §50 Interethnic and interfaith agreement of the peoples of Kazakhstan | Kazakhstan, *Kazakhstan Grade 7 Tolybekova 2017*, §50 Interethnic and interfaith agreement of the peoples of Kazakhstan — printed p. 193 |
 | Sub lesson 2 — Kazakhstan's way — the book's own teaching way | Kazakhstan — the book's own way of teaching (see below) |
+| Sub lesson — culture-and-work/interreligious-harmony-and-consent — Unit 3.4 Religious Harmony — teaches: religious harmony in Eritrea — Islam and Christianity (and the Kunama's Ana) coexisting without conflict, children visiting each other for Eid and Easter, and mosques and churches as neighbours' places of prayer — Eritrea Grade 6 Citizenship Education, printed p. 40 | Eritrea, *ER G6 Citizenship Education* (student book), Unit 3.4 Religious Harmony — printed p. 40 |
 
-**Acceptance count: taught in 1 country (Kazakhstan).**
+**Acceptance count: taught in 2 countries (Kazakhstan, Eritrea).**
 
 Kazakhstan's own way (Kazakhstan Grade 7 Egorina): the 2025 Atamura course is organised by numbered paragraphs (§1–§68) with coded learning goals (e.g. 7.3.2.4) and a «Негізгі ұғымдар» key-concepts box per paragraph; it gives Kazakhstani science its own paragraph (§3, research in the war and post-war years), a whole practical strand on building geographic databases (§§10, 18, 49, 54–55), and a country-studies block that classifies states by position — continental, archipelago, island and peninsular — with Kazakhstan's own economic-geographic position as the worked example.
 
@@ -33,4 +36,6 @@ Kazakhstan's own way (Kazakhstan Grade 7 Tolybekova): the Mektep course teaches 
 
 Kazakhstan's own way (Kazakhstan Grade 7 Tolybekova 2017): the 2017 first edition of the Mektep course (Book 5 is its 2025 revision): the same continent-by-continent nomenclature and belt-by-belt natural-complexes architecture, with a lithosphere field-research practical, a §52 «Человек — часть биосферы» (The human being as part of the biosphere), and a closing §60 «Этот многоликий мир» (This many-faced world) survey of the world's diversity.
 
-Searchable tags: interreligious harmony and consent, Kazakhstan, social studies, culture-and-work
+Eritrea's own way (ER G6 Citizenship Education): a standalone Citizenship Education subject built entirely from Eritrean stories, poems and dialogues — responsibility is taught through a shop-queue drama and a family Tandoor day, the state through the 1993 referendum story, and patriotism as practical service (keeping the school clean, planting trees at the new clinic) that even a child can do.
+
+Searchable tags: interreligious harmony and consent, Kazakhstan, Eritrea, social studies, culture-and-work
