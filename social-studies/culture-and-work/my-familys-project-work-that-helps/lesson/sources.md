@@ -1,0 +1,18 @@
+# Sources — My Familys Project Work That Helps
+
+countries: Oman
+
+**Book 1:** *Identity and Citizenship Grade 4, Term 1* (teacher guide, Arabic) — Title as printed: دليل المعلم لمادة الهوية والمواطنة — Teacher's Guide for the Subject Identity and Citizenship. Grade: Grade 4 (student/teacher: TEACHER), Term 1. Publisher: Ministry of Education, Sultanate of Oman; experimental edition (same series); no ISBN printed. PDF pages: 78 (34,817,863 bytes — exactly the ministry server's Content-Range total; ministry TeacherBook PDF service, after the afedne landing page for this record returned HTTP 520. Cover verified: الصف الرابع، الفصل الدراسي الأول. STAGED under the new rule at phase3-staging/grade-04/gov/oman/identity-and-citizenship/teacher/term-1.pdf with a books.json record). Earlier waves: none. Verdict: COMPLETE — contents, standards and lesson map read; the three units' lessons placed below, marked TEACHER. Contents map: Unit 1 ذاتي المجيدة (My Glorious Self) printed p. 29 — lessons: أنا أجيد (I am good at), أنمي ما أجيد (I develop what I am good at), أستفيد مما أجيد (I make use of what I am good at); Unit 2 أسرتي المنتجة (My Productive Family) printed p. 45 — lessons: أسرتي تجيد (My family is good at), أخطط لمشروع أسرتي (I plan my family's project), أثر مشروع أسرتي (The impact of my family's project); Unit 3 حينا المتفاعل (Our Interactive Neighbourhood) printed p. 61 — lessons: أنا متطوع (I am a volunteer), أخطط للعمل التطوعي (I plan voluntary work), تطوعي حياة (My volunteering is life). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/oman-placements.md. Teacher guide — evidence only, outside the acceptance count. Oman's student books were not held — its placements are based on teacher guides.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — Oman part — culture-and-work/my-familys-project-work-that-helps — Unit 2: أسرتي تجيد / أخطط لمشروع أسرتي / أثر مشروع أسرتي (My family is good at / I plan my family's project / Its impact) — teaches (TEACHER): work as family and community life — the family pools what each member does well into a planned project, shares in investing it in a piece of work, and traces the project's effect in the neighbourhood, the society and the world — Oman Grade 4 Identity & Citizenship TG T1, printed pp. 45–60 (teacher guide — evidence) | Oman, *Identity and Citizenship Grade 4, Term 1* (teacher guide), Unit 2: أسرتي تجيد / أخطط لمشروع أسرتي / أثر مشروع أسرتي (My family is good at / I plan my family's project / Its impact) — printed pp. 45–60 (teacher guide — evidence) |
+| Sub lesson 2 — Oman's way — the books' own teaching way | Oman — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Oman), named here, counted nowhere.**
+
+Oman's own way (Identity and Citizenship Grade 4, Term 1) (teacher guide — evidence): Grade 4 turns skill into service in three widening steps — what I am good at, what my family can build together (a planned family project, with its effect on society traced), and then volunteering in the neighbourhood, named in the last lesson without metaphor: "my volunteering is life".
+
+Country honesty note: Oman's student books were not held — its placements are based on teacher guides, and the G7 Term-2 content is a named GAP (the Grade 7 framework assigns the Basic Statute of the State and government institutions to Grade 7, no Term 1 unit teaches them, and the Term 2 book was not reached, as filed in the oman-placements.md record-only section); all Oman placements in this lesson are evidence only, outside acceptance counts.
+
+Searchable tags: my familys project work that helps, Oman, social studies, culture-and-work
