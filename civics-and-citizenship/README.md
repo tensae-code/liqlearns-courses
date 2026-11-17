@@ -79,3 +79,16 @@ sources, as provenance.
   their secured assets DAMAGED pushes (truncated uploads,
   unopenable). See `guatemala/ABOUT.md` for the full book list
   and the acceptance reckoning.
+- **Chile** — [`chile/`](chile/) · 16 lessons: Levels 1–2 —
+  what the democratic state is (democracy's purpose,
+  citizenship, rights defended by the state, territory,
+  citizens and the market), then the graduating citizen acting
+  in it (participation and its gaps, media and democracy, a
+  more inclusive democracy, labour rights and development
+  models), from Chile's *Educación Ciudadana* student book for
+  3° y 4° Medio (Universidad San Sebastián for MINEDUC, Spanish,
+  2022, COMPLETE — one combined volume built as questions a
+  citizen must answer); the teacher guides named by the link
+  leads are record-only catalogue pages, not in hand. See
+  `chile/ABOUT.md` for the full book list and the acceptance
+  reckoning.
