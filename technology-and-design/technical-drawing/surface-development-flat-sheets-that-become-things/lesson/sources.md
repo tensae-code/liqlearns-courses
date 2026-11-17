@@ -1,6 +1,6 @@
 # Sources — Surface Development — Flat Sheets That Become Things
 
-countries: Belarus, Ethiopia, Fiji, Malta, Moldova, Sri Lanka
+countries: Belarus, Cuba, Ethiopia, Fiji, Malta, Moldova, Sri Lanka
 
 **Book 1:** *Basic Technical Drawing, Teacher Guide, Grade 12* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, in collaboration with Kuraz International Publisher P.L.C., Addis Ababa. Prepared by: Amanuel Berhanu (BSc), Tolossa Deberie (MSc). Edited and reviewed by: Abebe Basazeneu, Natenael Abebe, Yared Mekuria. First edition, 2003 (E.C.), funded through the General Education Quality Improvement Project (GEQIP). Developed, printed and distributed by Al Ghurair Printing and Publishing House CO. (LLC), Dubai, U.A.E., in collaboration with Kuraz International Publisher. ISBN: 978-99944-2-097-2. 109 PDF pages; printed page = PDF page - 4 throughout. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/technical-drawing/g12-teacher-placements.md.
 
@@ -35,7 +35,18 @@ countries: Belarus, Ethiopia, Fiji, Malta, Moldova, Sri Lanka
 | Geometrical Drawing: developments of cylinder, cone and pyramid; truncated solids (original string `technical-drawing/surface-development-flat-sheets-that-become-things`) | Fiji, *Basic Technology — Year 10*, printed p. 64-67 |
 | Surface development (incl. truncated cylinder and prisms, cylinder-to-cylinder) (original string `technical-drawing/surface-development-flat-sheets-that-become-things`) | Fiji, *Technical Drawing — Year 11*, printed p. 40-51 |
 
-**Acceptance count: taught in 5 countries (Belarus, Fiji, Malta, Moldova, Sri Lanka) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+**Book 10:** *Programa: Educación Laboral — 8vo grado* (programme) — Publisher: Ministerio de Educación, Cuba / Editorial Pueblo y Educación | Year: 2024 (ISBN 978-959-13-4549-3 print, 978-959-13-4733-6 digital) | Authors: Ordóñez Suárez, López Cordoví | Grade: 8 | Language: Spanish | Pages: 36 PDF pp (printed 1–32) | Source: GitHub tree `grade-08/gov/cuba/educacion-laboral/teacher/full-year.pdf`, 366,236 bytes, cover verified | Kind: teacher (programme) | COMPLETE — Kind: EVIDENCE (programme/teacher guide) — placements sourced from this document are stocked as evidence rows and stay outside the acceptance counts. Placements at liqlearns-courses-work/expansion-td-2026-11-17/cuba-placements.md.
+
+**Book 11:** *Educación Laboral — 8vo grado* (student book) — Title: Educación Laboral — octavo grado | Publisher: Ministerio de Educación, Cuba / Editorial Pueblo y Educación (© 2024, Tercer Perfeccionamiento; ISBN 978-959-13-4768-8 print, 978-959-13-4769-5 digital) | Authors: López Cordoví, Ordóñez Suárez, et al. | Grade: 8 | Language: Spanish | Pages: 235 PDF pp (printed 1–227 + front matter) | Source: GitHub release asset (release `mid-size-books-7`, asset for `grade-08/gov/cuba/educacion-laboral/student/full-year.pdf`), 22,790,125 bytes, cover verified | Kind: student | COMPLETE. Glossary (printed p. 219–224) is inventory-only, not placed. Placements at liqlearns-courses-work/expansion-td-2026-11-17/cuba-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 1: developments (desarrollos) of the geometric bodies studied (original string `technical-drawing/surface-development-flat-sheets-that-become-things`) (programme — evidence) | Cuba, *Programa: Educación Laboral — 8vo grado*, printed p. 11-15 |
+| Cap. 1 §1.4: developments of prism, pyramid, cone and cylinder (original string `technical-drawing/surface-development-flat-sheets-that-become-things`) | Cuba, *Educación Laboral — 8vo grado*, printed p. 40-46 |
+
+**Acceptance count: taught in 6 countries (Belarus, Cuba, Fiji, Malta, Moldova, Sri Lanka) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+
+Cuba's own way: Cuba teaches developments (desarrollos) in the Grade 8 programme and student book — the developments of prism, pyramid, cone and cylinder, taken right after their isometric drawings.
 
 Fiji's own way: Fiji teaches surface development in three years — Year 9 takes the pentagonal prism and cone; Year 10 takes cylinder, cone and pyramid, with truncated solids; Year 11 takes the truncated cylinder and prisms and cylinder-to-cylinder work.
 
@@ -51,4 +62,4 @@ Moldova's own way: Moldova meets the development inside its Grade 5 line-types t
 
 Sri Lanka's own way: Sri Lanka adds its Tamil-medium Technology stream teaching (Educational Publications Department; visual-read method, as filed in the book entries above) — development drawings named as one of the standard drawing kinds in the mechanical-drawing survey.
 
-Searchable tags: surface development, sheet metal, hem, joint, seam, prism, cylinder, cone, pyramid, Ethiopia Grade 12 Technical Drawing Unit 5, Moldova, Grades 5–6, desfășurata, two-dot line, Sri Lanka, Fiji
+Searchable tags: surface development, sheet metal, hem, joint, seam, prism, cylinder, cone, pyramid, Ethiopia Grade 12 Technical Drawing Unit 5, Moldova, Grades 5–6, desfășurata, two-dot line, Sri Lanka, Fiji, Cuba, Educación Laboral

@@ -1,6 +1,6 @@
 # Sources — Drawing lettering and the title block
 
-countries: Belarus, Fiji
+countries: Belarus, Cuba, Fiji
 
 **Book 1:** *Чарчэнне — Вучэбны дапаможнік для 9 класа агульнаадукацыйных устаноў з беларускай мовай навучання (Technical Drawing — study aid for Grade 9 of general-education institutions with Belarusian as the language of instruction)* (student textbook) — Belarus, Author: В. Н. Вінаградаў (V. N. Vinogradov). Publisher: Нацыянальны інстытут адукацыі (National Institute of Education), Ministry of Education of the Republic of Belarus, Minsk; approved by the Ministry of Education of the Republic of Belarus; signed to print 10.12.2008; print run 31,023; ISBN 978-985-465-432-4. Year/edition: 2008. Grade: 9. Language: Belarusian. Pages: 224; verified byte size 12,603,822 (the record carries no size; the file was located by exact-name scan of the releases). Source + route: tensae-code/liqlearns-textbooks, release asset in mid-size-books-7 (asset grade-09-gov-belarus-technical-drawing-student-full-year.pdf), downloaded via the Releases API asset route after the tree route 404'd — grade-09/gov/belarus/technical-drawing/student/full-year.pdf. Kind: student textbook (вучэбны дапаможнік — study aid/textbook). Read: COMPLETE (all 34 sections mapped from the book's contents, pp. 220–222, with section content verified at the section pages; the Кароткі тэрміналагічны слоўнік — short terminological dictionary, printed p. 211 — is inventory-only and the Прадметны паказальнік is an index; neither is placed). Note on the record: the book's own text layer uses a broken font encoding, so the read was done from the book's table of contents and section pages via OCR (RapidOCR) plus the decoded text layer; printed page numbers are the book's own (printed p. = PDF p.). Placements at liqlearns-courses-work/expansion-td-2026-11-17/belarus-placements.md.
 
@@ -11,10 +11,24 @@ countries: Belarus, Fiji
 | The standard execution rules: sheet formats and layout, the title block (асноўны надпіс), and the drawing font — lettering a drawing so it reads to standard (original string `drawing sheet layout, title block and drawing lettering`) | Belarus, *Чарчэнне (Technical Drawing / Drafting) — Grade 9*, printed p. 17 |
 | Line types and their uses; lettering and numbering styles; symbols and conventions in drawing (original string `line types and their uses; lettering and numbering styles; symbols and conventions in drawing`) | Fiji, *Basic Technology — Year 9*, printed p. 15-20 |
 
-**Acceptance count: taught in 2 countries (Belarus, Fiji).**
+**Book 3:** *Programa: Educación Laboral — 7mo grado* (programme) — Publisher: not stated in file (Ministerio de Educación, Cuba programme) | Year: not stated in file | Grade: 7 | Language: Spanish | Pages: 18 PDF pp | Source: GitHub tree `grade-07/gov/cuba/educacion-laboral/teacher/full-year.pdf`, 249,487 bytes, cover verified ("EDUCACIÓN LABORAL — PROGRAMA DE 7mo GRADO") | Kind: teacher (programme) | COMPLETE (pages unnumbered in the file; cited by PDF page) — Kind: EVIDENCE (programme/teacher guide) — placements sourced from this document are stocked as evidence rows and stay outside the acceptance counts. Placements at liqlearns-courses-work/expansion-td-2026-11-17/cuba-placements.md.
+
+**Book 4:** *Programa: Educación Laboral — 8vo grado* (programme) — Publisher: Ministerio de Educación, Cuba / Editorial Pueblo y Educación | Year: 2024 (ISBN 978-959-13-4549-3 print, 978-959-13-4733-6 digital) | Authors: Ordóñez Suárez, López Cordoví | Grade: 8 | Language: Spanish | Pages: 36 PDF pp (printed 1–32) | Source: GitHub tree `grade-08/gov/cuba/educacion-laboral/teacher/full-year.pdf`, 366,236 bytes, cover verified | Kind: teacher (programme) | COMPLETE — Kind: EVIDENCE (programme/teacher guide) — placements sourced from this document are stocked as evidence rows and stay outside the acceptance counts. Placements at liqlearns-courses-work/expansion-td-2026-11-17/cuba-placements.md.
+
+**Book 5:** *Educación Laboral y Dibujo Básico — 7mo grado (2023 Biblioteca edition)* (student book) — Title: Educación Laboral y Dibujo Básico | Publisher: Ministerio de Educación, Cuba / Editorial Pueblo y Educación (© 2023; ISBN 978-959-13-3816-7 print, 978-959-13-4109-9 digital) | Authors: Ordóñez Suárez, López Cordoví, Fuerte González | Grade: 7 | Language: Spanish | Pages: 198 PDF pp (printed 1–189) | Source: GitHub release asset (release `full-quality-oversized-books`, asset for `grade-07/gov/cuba/educacion-laboral/student/full-year-biblioteca.pdf`), 270,015,223 bytes, cover verified | Kind: student | COMPLETE — note: a different, newer edition from the 1989 book above, not a duplicate. Glossary (printed pp 181–186) is inventory-only, not placed. Placements at liqlearns-courses-work/expansion-td-2026-11-17/cuba-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 1 §1.7: rotulado y alfabeto de líneas (original string `technical lettering and the alphabet of lines`) (programme — evidence) | Cuba, *Programa: Educación Laboral — 7mo grado*, PDF p. 13 |
+| Unit 1 opening: normas NC-ISO, formatos, rotulado, acotado, escalas (original string `technical lettering, normalised formats and the alphabet of lines; dimensioning and scales`) (programme — evidence) | Cuba, *Programa: Educación Laboral — 8vo grado*, printed p. 11-15 |
+| Cap. 1 §1.5 (original string `the A4 format and the school title block (cajetín escolar)`) | Cuba, *Educación Laboral y Dibujo Básico — 7mo grado (2023 Biblioteca edition)*, printed p. 29-32 |
+
+**Acceptance count: taught in 3 countries (Belarus, Cuba, Fiji).**
+
+Cuba's own way: Cuba's drawing opening joins lettering to layout: the Grade 7 programme's rotulado y alfabeto de líneas, the Grade 8 programme's NC-ISO formats, lettering, dimensioning and scales, and the 2023 book's A4 format and cajetín escolar (school title block).
 
 Fiji's own way: Fiji teaches line types and their uses together with lettering and numbering styles and the symbols and conventions of drawing, as one opening block in Year 9 Basic Technology.
 
 Belarus's own way: Belarus teaches this inside *Чарчэнне*, its single Grade 9 technical drawing (drafting) course in Belarusian — a complete course in textbook order, from graphic information and standard execution rules through projection, sections, threads, joints and assembly to architectural-construction drawings, closing with a short terminological dictionary (inventory-only, not placed).
 
-Searchable tags: drawing lettering, title block, асноўны надпіс, sheet format, sheet layout, drawing font, Belarus, Grade 9, Чарчэнне, Fiji
+Searchable tags: drawing lettering, title block, асноўны надпіс, sheet format, sheet layout, drawing font, Belarus, Grade 9, Чарчэнне, Fiji, Cuba, Educación Laboral

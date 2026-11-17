@@ -1,6 +1,6 @@
 # Sources — Free-hand sketching — principles and place in design
 
-countries: Belarus, Ethiopia, Fiji, Indonesia, Jamaica, Malaysia, Moldova, Sri Lanka
+countries: Belarus, Cuba, Ethiopia, Fiji, Indonesia, Jamaica, Malaysia, Moldova, Sri Lanka
 
 **Book 1:** *Basic Technical Drawing, Teacher Guide, Grade 12* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, in collaboration with Kuraz International Publisher P.L.C., Addis Ababa, first edition, 2003 E.C., ISBN 978-99944-2-097-2, 105 printed pp. Page rule: printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/technical-drawing/g12-teacher-placements.md.
 
@@ -52,7 +52,21 @@ countries: Belarus, Ethiopia, Fiji, Indonesia, Jamaica, Malaysia, Moldova, Sri L
 | Unit 1 Kegiatan 2: designing (merancang) a ragam hias motif for a fashion product — technical-drawing/free-hand-sketching-principles (teacher guide — evidence) (original string `technical-drawing/free-hand-sketching-principles`) | Indonesia, *Prakarya Kerajinan G10 TG*, p. 62 |
 | Unit 2 Kegiatan 2: idea board (papan ide) and design sketch (sketsa rancang) for a researched craft product — technical-drawing/free-hand-sketching-principles (teacher guide — evidence) (original string `technical-drawing/free-hand-sketching-principles`) | Indonesia, *Prakarya Kerajinan G12 TG*, p. 116 |
 
-**Acceptance count: taught in 6 countries (Belarus, Fiji, Jamaica, Malaysia, Moldova, Sri Lanka) — plus teacher-guide evidence only (Ethiopia, Indonesia), named here, counted nowhere.**
+**Book 14:** *Programa: Educación Laboral — 7mo grado* (programme) — Publisher: not stated in file (Ministerio de Educación, Cuba programme) | Year: not stated in file | Grade: 7 | Language: Spanish | Pages: 18 PDF pp | Source: GitHub tree `grade-07/gov/cuba/educacion-laboral/teacher/full-year.pdf`, 249,487 bytes, cover verified ("EDUCACIÓN LABORAL — PROGRAMA DE 7mo GRADO") | Kind: teacher (programme) | COMPLETE (pages unnumbered in the file; cited by PDF page) — Kind: EVIDENCE (programme/teacher guide) — placements sourced from this document are stocked as evidence rows and stay outside the acceptance counts. Placements at liqlearns-courses-work/expansion-td-2026-11-17/cuba-placements.md.
+
+**Book 15:** *Educación Laboral — Trabajos de Taller y Dibujo Básico — 7mo grado (1989 edition)* (student book) — Title: Educación Laboral — Trabajos de Taller y Dibujo Básico | Publisher: Ministerio de Educación, Cuba / Editorial Pueblo y Educación (© 1989; 3rd reprint 2015; ISBN 978-959-13-0701-9) | Authors: Tam Mazorra, Ordóñez Suárez, Rubio Villaverde, Cortina Morales, Cerezal Mezquita | Grade: 7 | Language: Spanish | Pages: 174 PDF pp | Source: GitHub release asset (release `mid-size-books-3`, asset for `grade-07/gov/cuba/educacion-laboral/student/full-year.pdf`), 23,082,011 bytes, cover verified (pink "Educación Laboral 7° grado", "Libro de distribución gratuita") | Kind: student | COMPLETE — the body is a scanned book; its text layer carries the chapter/section headings and tasks only, and the full structure below was taken from those headings page by page. Pages cited by PDF page (the scan's printed folios are not in the text layer). Placements at liqlearns-courses-work/expansion-td-2026-11-17/cuba-placements.md.
+
+**Book 16:** *Educación Laboral y Dibujo Básico — 7mo grado (2023 Biblioteca edition)* (student book) — Title: Educación Laboral y Dibujo Básico | Publisher: Ministerio de Educación, Cuba / Editorial Pueblo y Educación (© 2023; ISBN 978-959-13-3816-7 print, 978-959-13-4109-9 digital) | Authors: Ordóñez Suárez, López Cordoví, Fuerte González | Grade: 7 | Language: Spanish | Pages: 198 PDF pp (printed 1–189) | Source: GitHub release asset (release `full-quality-oversized-books`, asset for `grade-07/gov/cuba/educacion-laboral/student/full-year-biblioteca.pdf`), 270,015,223 bytes, cover verified | Kind: student | COMPLETE — note: a different, newer edition from the 1989 book above, not a duplicate. Glossary (printed pp 181–186) is inventory-only, not placed. Placements at liqlearns-courses-work/expansion-td-2026-11-17/cuba-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 4 §§4.9–4.10: freehand drawing of straight lines and the two-view freehand drawing (frontal and lateral views) of the article to be built (original string `technical-drawing/free-hand-sketching-principles`) (programme — evidence) | Cuba, *Programa: Educación Laboral — 7mo grado*, PDF p. 16 |
+| Cap. 4 Dibujo a mano alzada: freehand technique, drawing curved lines, sketching simple bodies (original string `technical-drawing/free-hand-sketching-principles`) | Cuba, *Educación Laboral — Trabajos de Taller y Dibujo Básico — 7mo grado (1989 edition)*, PDF p. 134-139 |
+| Cap. 1 §1.7 Dibujo a mano alzada: drawing straight lines freehand, flat figures, the ellipse; the sketch (croquis) (original string `technical-drawing/free-hand-sketching-principles`) | Cuba, *Educación Laboral y Dibujo Básico — 7mo grado (2023 Biblioteca edition)*, printed p. 40-46 |
+
+**Acceptance count: taught in 7 countries (Belarus, Cuba, Fiji, Jamaica, Malaysia, Moldova, Sri Lanka) — plus teacher-guide evidence only (Ethiopia, Indonesia), named here, counted nowhere.**
+
+Cuba's own way: Cuba teaches freehand drawing (dibujo a mano alzada) in Grade 7 in both editions — straight lines, curved lines, flat figures and the ellipse, and the two-view freehand drawing (frontal and lateral) of the article to be built; the croquis is its named product.
 
 Indonesia's own way: Indonesia stocks this lesson from its Prakarya Kerajinan teacher guides (teacher-guide evidence only, counted nowhere) — sketching is taught inside designing a craft product: the design draft (rancangan) and design sketch (sketsa rancangan) come before making, and carry the product's display, packaging and presentation with them.
 
@@ -72,4 +86,4 @@ Malaysia's own way: Malaysia teaches sketching as the designer's thinking record
 
 Sri Lanka's own way: Sri Lanka adds its Tamil-medium Technology stream teaching (Educational Publications Department; visual-read method, as filed in the book entries above) — the intro's account of sketches as the first form of a drawing idea, before the formal drawing.
 
-Searchable tags: technical drawing, free-hand sketching, sketching principles, design process, Grade 12, Ethiopia, Jamaica, Grades 4–6, Resource & Technology, concept drawings, peer critique, Moldova, Grades 5–6, Grade 9, crochiu, schiță, schița de proiect, Malaysia, Tingkatan 1, RBT, kinds of sketch, concept sketch, Sri Lanka, Fiji, Indonesia, Prakarya, teacher guide evidence
+Searchable tags: technical drawing, free-hand sketching, sketching principles, design process, Grade 12, Ethiopia, Jamaica, Grades 4–6, Resource & Technology, concept drawings, peer critique, Moldova, Grades 5–6, Grade 9, crochiu, schiță, schița de proiect, Malaysia, Tingkatan 1, RBT, kinds of sketch, concept sketch, Sri Lanka, Fiji, Indonesia, Prakarya, teacher guide evidence, Cuba, Educación Laboral

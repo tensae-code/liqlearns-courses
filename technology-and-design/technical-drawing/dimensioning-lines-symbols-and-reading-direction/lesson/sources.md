@@ -1,6 +1,6 @@
 # Sources — Dimensioning — Lines, Symbols and Reading Direction
 
-countries: Belarus, Ethiopia, Fiji, Iran, Jamaica, Samoa, Sri Lanka
+countries: Belarus, Cuba, Ethiopia, Fiji, Iran, Jamaica, Samoa, Sri Lanka
 
 **Book 1:** *Basic Technical Drawing, Teacher Guide, Grade 12* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, in collaboration with Kuraz International Publisher P.L.C., Addis Ababa. Prepared by: Amanuel Berhanu (BSc), Tolossa Deberie (MSc). Edited and reviewed by: Abebe Basazeneu, Natenael Abebe, Yared Mekuria. First edition, 2003 (E.C.), funded through the General Education Quality Improvement Project (GEQIP). Developed, printed and distributed by Al Ghurair Printing and Publishing House CO. (LLC), Dubai, U.A.E., in collaboration with Kuraz International Publisher. ISBN: 978-99944-2-097-2. 109 PDF pages; printed page = PDF page - 4 throughout. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/technical-drawing/g12-teacher-placements.md.
 
@@ -30,7 +30,18 @@ countries: Belarus, Ethiopia, Fiji, Iran, Jamaica, Samoa, Sri Lanka
 | adding dimensions to orthographic views (section 1.5.3 of the projection chapter) (original string `technical-drawing/dimensioning-lines-symbols-and-reading-direction`) | Sri Lanka, *Grade 12 Engineering Technology Part VI — Engineering Drawing*, printed p. 53 |
 | Orthographic drawing: steps in dimensioning (original string `technical-drawing/dimensioning-lines-symbols-and-reading-direction`) | Fiji, *Technical Drawing — Year 11*, printed p. 64-67 |
 
-**Acceptance count: taught in 6 countries (Belarus, Fiji, Iran, Jamaica, Samoa, Sri Lanka) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+**Book 9:** *Educación Laboral — Trabajos de Taller y Dibujo Básico — 7mo grado (1989 edition)* (student book) — Title: Educación Laboral — Trabajos de Taller y Dibujo Básico | Publisher: Ministerio de Educación, Cuba / Editorial Pueblo y Educación (© 1989; 3rd reprint 2015; ISBN 978-959-13-0701-9) | Authors: Tam Mazorra, Ordóñez Suárez, Rubio Villaverde, Cortina Morales, Cerezal Mezquita | Grade: 7 | Language: Spanish | Pages: 174 PDF pp | Source: GitHub release asset (release `mid-size-books-3`, asset for `grade-07/gov/cuba/educacion-laboral/student/full-year.pdf`), 23,082,011 bytes, cover verified (pink "Educación Laboral 7° grado", "Libro de distribución gratuita") | Kind: student | COMPLETE — the body is a scanned book; its text layer carries the chapter/section headings and tasks only, and the full structure below was taken from those headings page by page. Pages cited by PDF page (the scan's printed folios are not in the text layer). Placements at liqlearns-courses-work/expansion-td-2026-11-17/cuba-placements.md.
+
+**Book 10:** *Educación Laboral y Dibujo Básico — 7mo grado (2023 Biblioteca edition)* (student book) — Title: Educación Laboral y Dibujo Básico | Publisher: Ministerio de Educación, Cuba / Editorial Pueblo y Educación (© 2023; ISBN 978-959-13-3816-7 print, 978-959-13-4109-9 digital) | Authors: Ordóñez Suárez, López Cordoví, Fuerte González | Grade: 7 | Language: Spanish | Pages: 198 PDF pp (printed 1–189) | Source: GitHub release asset (release `full-quality-oversized-books`, asset for `grade-07/gov/cuba/educacion-laboral/student/full-year-biblioteca.pdf`), 270,015,223 bytes, cover verified | Kind: student | COMPLETE — note: a different, newer edition from the 1989 book above, not a duplicate. Glossary (printed pp 181–186) is inventory-only, not placed. Placements at liqlearns-courses-work/expansion-td-2026-11-17/cuba-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cap. 5 Acotado: elements of dimensioning (original string `technical-drawing/dimensioning-lines-symbols-and-reading-direction`) | Cuba, *Educación Laboral — Trabajos de Taller y Dibujo Básico — 7mo grado (1989 edition)*, PDF p. 140-145 |
+| Cap. 1 §1.8 Acotado (original string `technical-drawing/dimensioning-lines-symbols-and-reading-direction`) | Cuba, *Educación Laboral y Dibujo Básico — 7mo grado (2023 Biblioteca edition)*, printed p. 53-59 |
+
+**Acceptance count: taught in 7 countries (Belarus, Cuba, Fiji, Iran, Jamaica, Samoa, Sri Lanka) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+
+Cuba's own way: Cuba teaches acotado (dimensioning) in both Grade 7 editions — the 1989 book as its own chapter (Cap. 5) and the 2023 book inside Dibujo Básico I (§1.8).
 
 Fiji's own way: Fiji teaches dimensioning inside Year 11 orthographic drawing, as the steps in dimensioning that follow the principal-views work.
 
@@ -48,4 +59,4 @@ Iran's own way: Iran teaches dimensioning twice over: in Grade 7 through Module 
 
 Sri Lanka's own way: Sri Lanka adds its Tamil-medium Technology stream teaching (Educational Publications Department; visual-read method, as filed in the book entries above) — adding dimensions to orthographic views (section 1.5.3 of the projection chapter).
 
-Searchable tags: dimensioning, dimension line, extension line, arrowhead, leader line, aligned system, unidirectional system, Ethiopia Grade 12 Technical Drawing Unit 4, Samoa, Year 11, architectural dimensioning, Iran, Grade 7, Persian, Iran, Grade 9, Persian, Sri Lanka, Fiji
+Searchable tags: dimensioning, dimension line, extension line, arrowhead, leader line, aligned system, unidirectional system, Ethiopia Grade 12 Technical Drawing Unit 4, Samoa, Year 11, architectural dimensioning, Iran, Grade 7, Persian, Iran, Grade 9, Persian, Sri Lanka, Fiji, Cuba, Educación Laboral

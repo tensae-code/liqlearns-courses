@@ -1597,3 +1597,58 @@ Indonesia's own way is content and is carried in each lesson's sources: Prakarya
 
 Placements at
 liqlearns-courses-work/expansion-td-2026-11-17/indonesia-placements.md.
+
+## Cuba, Educación Laboral (T&D expansion, stocked 2026-11-17)
+
+Stocked from Cuba's *Educación Laboral* (MINED / Editorial
+Pueblo y Educación, in Spanish): the Grades 2, 3, 6, 7 and 8
+programmes and the Grades 2, 5 and 8 *Orientaciones
+metodológicas* — programme/teacher documents, EVIDENCE only,
+counted nowhere — and the student books: Grade 7 *Trabajos de
+Taller y Dibujo Básico* (1989 edition, 3rd reprint 2015),
+Grade 7 *Educación Laboral y Dibujo Básico* (2023 Biblioteca
+edition — a different, newer edition, kept beside the 1989
+book, both named), Grade 8 (2024) and Grade 9 (2025), which
+count in the acceptance count. HONESTY: the Grade 3 programme
+file in hand is a 7-PAGE EXCERPT, not the complete programme —
+its 4 placements are PARTIAL and stay labelled PARTIAL in
+every sources file they touch. The Grades 1 and 4 programmes
+are filed RECORD-ONLY in the placements file (curriculum
+programme documents, scope out) and are not stocked; the
+subject's cooking/food-preparation parts and glossaries are
+not placed, as the placements file records. Of the 138
+placements, 120 were NEW LESSON NEEDED (each resolved through
+the T&D slug registry to its canonical lesson; 48 built new
+below and the rest stocked into lessons already built) and 18
+stocked into 7 founding Technical Drawing lessons. Of the 138
+rows, 74 are student-book rows (counted) and 64 are
+programme/orientaciones evidence rows (counted nowhere).
+
+- **Agriculture Technology** (6 new lessons, 13 questions each): Agricultural production practices (agricultural-production-practices/); Garden tools (garden-tools/); Gardens and ornamental plants (gardens-and-ornamental-plants/); Livestock production (livestock-production/); Plant nurseries (viveros) (plant-nurseries-viveros/); School garden work (school-garden-work/).
+- **Design and Making** (4 new lessons, 13 questions each): Combining materials in one article (combining-materials-in-one-article/); Planning the work (planning-the-work/); The construction process stages and the technological route card (carta de ruta tecnológica); the sketch (croquis) (the-construction-process-stages-and-the-technological-route/); The construction process stages and the technological route card (the-construction-process-stages-and-the-technological-route-card/).
+- **Electrical Installations and the Home** (6 new lessons, 13 questions each): Electrical devices and installations (electrical-devices-and-installations/); Electricity (electricity/); Electricity at home and school (electricity-at-home-and-school/); Joining electrical conductors — splices (joining-electrical-conductors/); Measuring electrical energy — the meter and the bill (measuring-electrical-energy/); Repairing electrical installations (repairing-electrical-installations/).
+- **Electricity and Electronics** (1 new lesson, 13 questions each): Electrical circuits — parts and types (electrical-circuits-parts-and-types/).
+- **Machining** (1 new lesson, 13 questions each): Drilling in wood and metal (drilling-in-wood-and-metal/).
+- **Materials** (3 new lessons, 13 questions each): Plastics as a material (plastics-as-a-material/); Recycling (recycling/); Working with materials of plant and animal origin (working-with-materials-of-plant-and-animal-origin/).
+- **Mechanisms and Machines** (1 new lesson, 13 questions each): Mechanisms in made articles (mechanisms-in-made-articles/).
+- **Metal** (4 new lessons, 13 questions each): Joining wood and metal (joining-wood-and-metal/); Metals and alloys (metals-and-alloys/); Metalwork — tools and operations (metalwork-tools-and-operations/); Surface finishing (surface-finishing/).
+- **Models and Robotics** (1 new lesson, 13 questions each): Technical modelling (technical-modelling/).
+- **Paper, Card and Modelling** (4 new lessons, 13 questions each): Papier-mâché (papier-mache/); Working with natural and recovered materials (working-with-natural-and-recovered-materials/); Working with paper and card (working-with-paper-and-card/); Working with paper and thin card (working-with-paper-and-thin-card/).
+- **Technical Drawing** (5 new lessons, 13 questions each): Dimensioning a drawing (dimensioning-a-drawing/); Drawing on a grid — copying and enlarging (drawing-on-a-grid/); Drawing standards (drawing-standards/); History of technical drawing (history-of-technical-drawing/); Topographic drawing (topographic-drawing/).
+- **Textiles and Fashion** (4 new lessons, 13 questions each): Caring for clothing (caring-for-clothing/); Hand embroidery (bordado manual) (hand-embroidery-bordado-manual/); Sewing by hand and by machine (sewing-by-hand-and-by-machine/); Textile work (textile-work/).
+- **Wood** (3 new lessons, 13 questions each): Glues for wood (glues-for-wood/); Joining paper and card with glue (joining-paper-and-card-with-glue/); Marquetry/inlay work (marquetry-inlay-work/).
+- **Workshop and Safety** (5 new lessons, 13 questions each): Maintenance and repair (maintenance-and-repair/); Measuring, marking and checking in wood and metal work (measuring-marking-and-checking-in-wood-and-metal-work/); Organising work in the workshop (organising-work-in-the-workshop/); Workshop organisation and safety (workshop-organisation-and-safety/); Workshop practice (workshop-practice/).
+
+Cuba's own way is content and is carried in each lesson's
+sources: Educación Laboral climbs one ladder from Grade 2 to
+Grade 9 — paper, cloth and garden work in the primary years
+(rasgado, plegado, recortado; hilván and candelilla; the
+school garden), the workshop and Dibujo Básico in Grades 7–8
+(the carta tecnológica, modelismo técnico, NC-ISO drawing,
+metals, electricity, maintenance), and Grade 9's production
+chapters (agriculture, textiles, bordado, croché, taller) —
+every build aimed at articles of social utility, with
+recycling and recovered materials as standing stock.
+
+Placements at
+liqlearns-courses-work/expansion-td-2026-11-17/cuba-placements.md.

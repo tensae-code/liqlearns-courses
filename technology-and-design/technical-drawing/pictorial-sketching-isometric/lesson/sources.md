@@ -1,6 +1,6 @@
 # Sources — Pictorial sketching — isometric sketching that someone else could build from
 
-countries: Belarus, Ethiopia, Fiji, Malaysia, Malta, Sri Lanka
+countries: Belarus, Cuba, Ethiopia, Fiji, Malaysia, Malta, Sri Lanka
 
 **Book 1:** *Basic Technical Drawing, Teacher Guide, Grade 12* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, in collaboration with Kuraz International Publisher P.L.C., Addis Ababa, first edition, 2003 E.C., ISBN 978-99944-2-097-2, 105 printed pp. Page rule: printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/technical-drawing/g12-teacher-placements.md.
 
@@ -46,7 +46,21 @@ countries: Belarus, Ethiopia, Fiji, Malaysia, Malta, Sri Lanka
 | Strand 3: perspective drawing (original string `technical-drawing/pictorial-sketching-isometric`) | Fiji, *Year 12 Technical Drawing Textbook*, printed p. 70-74 |
 | Ch. 3: isometric projection (incl. the four-centre method for circles, spheres and hemispheres) (original string `technical-drawing/pictorial-sketching-isometric`) | Fiji, *Year 13 Technical Drawing Textbook*, printed p. 62-66 |
 
-**Acceptance count: taught in 5 countries (Belarus, Fiji, Malaysia, Malta, Sri Lanka) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+**Book 13:** *Programa: Educación Laboral — 8vo grado* (programme) — Publisher: Ministerio de Educación, Cuba / Editorial Pueblo y Educación | Year: 2024 (ISBN 978-959-13-4549-3 print, 978-959-13-4733-6 digital) | Authors: Ordóñez Suárez, López Cordoví | Grade: 8 | Language: Spanish | Pages: 36 PDF pp (printed 1–32) | Source: GitHub tree `grade-08/gov/cuba/educacion-laboral/teacher/full-year.pdf`, 366,236 bytes, cover verified | Kind: teacher (programme) | COMPLETE — Kind: EVIDENCE (programme/teacher guide) — placements sourced from this document are stocked as evidence rows and stay outside the acceptance counts. Placements at liqlearns-courses-work/expansion-td-2026-11-17/cuba-placements.md.
+
+**Book 14:** *Educación Laboral — Trabajos de Taller y Dibujo Básico — 7mo grado (1989 edition)* (student book) — Title: Educación Laboral — Trabajos de Taller y Dibujo Básico | Publisher: Ministerio de Educación, Cuba / Editorial Pueblo y Educación (© 1989; 3rd reprint 2015; ISBN 978-959-13-0701-9) | Authors: Tam Mazorra, Ordóñez Suárez, Rubio Villaverde, Cortina Morales, Cerezal Mezquita | Grade: 7 | Language: Spanish | Pages: 174 PDF pp | Source: GitHub release asset (release `mid-size-books-3`, asset for `grade-07/gov/cuba/educacion-laboral/student/full-year.pdf`), 23,082,011 bytes, cover verified (pink "Educación Laboral 7° grado", "Libro de distribución gratuita") | Kind: student | COMPLETE — the body is a scanned book; its text layer carries the chapter/section headings and tasks only, and the full structure below was taken from those headings page by page. Pages cited by PDF page (the scan's printed folios are not in the text layer). Placements at liqlearns-courses-work/expansion-td-2026-11-17/cuba-placements.md.
+
+**Book 15:** *Educación Laboral — 8vo grado* (student book) — Title: Educación Laboral — octavo grado | Publisher: Ministerio de Educación, Cuba / Editorial Pueblo y Educación (© 2024, Tercer Perfeccionamiento; ISBN 978-959-13-4768-8 print, 978-959-13-4769-5 digital) | Authors: López Cordoví, Ordóñez Suárez, et al. | Grade: 8 | Language: Spanish | Pages: 235 PDF pp (printed 1–227 + front matter) | Source: GitHub release asset (release `mid-size-books-7`, asset for `grade-08/gov/cuba/educacion-laboral/student/full-year.pdf`), 22,790,125 bytes, cover verified | Kind: student | COMPLETE. Glossary (printed p. 219–224) is inventory-only, not placed. Placements at liqlearns-courses-work/expansion-td-2026-11-17/cuba-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 1: isometric projection, representing the circle in isometric (four-centre oval), isometrics of prism/pyramid/cone/cylinder and of articles (original string `technical-drawing/pictorial-sketching-isometric`) (programme — evidence) | Cuba, *Programa: Educación Laboral — 8vo grado*, printed p. 11-15 |
+| Cap. 7 closing: rectangular isometric projection (with scales) (original string `technical-drawing/pictorial-sketching-isometric`) | Cuba, *Educación Laboral — Trabajos de Taller y Dibujo Básico — 7mo grado (1989 edition)*, PDF p. 170-173 |
+| Cap. 1 §1.2: isometric projection; the circle in isometric (four-centre oval); isometrics of prism, pyramid, cone, cylinder and of articles (original string `technical-drawing/pictorial-sketching-isometric`) | Cuba, *Educación Laboral — 8vo grado*, printed p. 15-36 |
+
+**Acceptance count: taught in 6 countries (Belarus, Cuba, Fiji, Malaysia, Malta, Sri Lanka) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+
+Cuba's own way: Cuba teaches isometric projection in the Grade 8 programme and student book — the circle in isometric by the four-centre oval, and isometrics of prism, pyramid, cone, cylinder and articles — and in the 1989 book as rectangular isometric projection with scales.
 
 Fiji's own way: Fiji teaches pictorial drawing across the years — Year 9 takes isometric views and converting orthographic to isometric with grids, with oblique and perspective views; Year 10 takes 3D/isometric, oblique, and one- and two-point perspective in steps; Year 11 takes oblique projection, oblique circles and arcs and inclined surfaces; Year 12 takes perspective drawing; Year 13 takes isometric projection including the four-centre method for circles, spheres and hemispheres.
 
@@ -62,4 +76,4 @@ Malaysia's own way: Malaysia teaches all three pictorial families in one Tingkat
 
 Sri Lanka's own way: Sri Lanka adds its Tamil-medium Technology stream teaching (Educational Publications Department; visual-read method, as filed in the book entries above) — the pictorial-view chapter's four methods survey — perspective, parallel, dimetric and isometric — as the ways to show length, width and height in one view; the isometric method taught inside the pictorial-view chapter, after perspective, parallel and dimetric methods; perspective view used to present a product design in the metalwork chapter.
 
-Searchable tags: technical drawing, pictorial sketching, isometric sketch, dimensions, marking rubric, Grade 12, Ethiopia, Malaysia, Tingkatan 1, RBT, oblique, cavalier, cabinet, perspective, vanishing point, Sri Lanka, Fiji
+Searchable tags: technical drawing, pictorial sketching, isometric sketch, dimensions, marking rubric, Grade 12, Ethiopia, Malaysia, Tingkatan 1, RBT, oblique, cavalier, cabinet, perspective, vanishing point, Sri Lanka, Fiji, Cuba, Educación Laboral

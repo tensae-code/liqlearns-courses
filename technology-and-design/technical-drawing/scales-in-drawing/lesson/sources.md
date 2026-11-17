@@ -1,6 +1,6 @@
 # Sources — Scales in drawing
 
-countries: Fiji, Sri Lanka
+countries: Cuba, Fiji, Sri Lanka
 
 **Book 1:** Full title: Grade 12 Engineering Technology Part VI — Engineering Drawing, GCE A/L Technology stream. Publisher: Educational Publications Department (EPD), Sri Lanka. Year/edition: 2016 edition (foreword dated 2016.06.25; back cover print code 2016, Rs 185). Grade: 12 (A/L). Language: Tamil (scanned-image PDF, Noolaham Foundation digitization, no text layer). Pages: 116 PDF pages (printed pp. 1–108 + front matter i–viii). Kind: student textbook. Source: repo release asset `mid-size-books-5/grade-12-gov-sri-lanka-engineering-technology-textbook-part-6-engineering-drawing.pdf` via grab.py url route (tree route 404s — release-only); 20,316,676 bytes, matching the asset index and the staging books.json record (Noolaham no. 88098). Cover verified visually ("Engineering Drawing", gears/bearings over a blueprint). Read method: full contents page, every chapter opening, and teaching pages sampled across all chapters (printed pp. 1, 2, 3, 14, 25, 37, 53, 81, 88 + back cover) — placement-complete for this diagram-led book. COMPLETE. Read method note (as filed): this Sri Lanka Tamil-medium book is a scanned-image PDF with no text layer (Noolaham Foundation digitization); it was read by a VISUAL-READ method — rendered pages read as images — not by text extraction. Placements at liqlearns-courses-work/expansion-td-2026-11-17/sri-lanka-placements.md.
 
@@ -17,10 +17,18 @@ countries: Fiji, Sri Lanka
 | Scales in drawing — enlargement scale, constructing a plain scale, the logarithmic scale (original string `scales in drawing — enlargement scale, constructing a plain scale, the logarithmic scale`) | Fiji, *Technical Drawing — Year 11*, printed p. 20-26 |
 | Scales in drawing — enlargement scale, constructing a plain scale, the logarithmic scale (original string `scales in drawing — enlargement scale, constructing a plain scale, the logarithmic scale`) | Fiji, *Year 12 Technical Drawing Textbook*, printed p. 9-11 |
 
-**Acceptance count: taught in 2 countries (Fiji, Sri Lanka).**
+**Book 5:** *Educación Laboral y Dibujo Básico — 7mo grado (2023 Biblioteca edition)* (student book) — Title: Educación Laboral y Dibujo Básico | Publisher: Ministerio de Educación, Cuba / Editorial Pueblo y Educación (© 2023; ISBN 978-959-13-3816-7 print, 978-959-13-4109-9 digital) | Authors: Ordóñez Suárez, López Cordoví, Fuerte González | Grade: 7 | Language: Spanish | Pages: 198 PDF pp (printed 1–189) | Source: GitHub release asset (release `full-quality-oversized-books`, asset for `grade-07/gov/cuba/educacion-laboral/student/full-year-biblioteca.pdf`), 270,015,223 bytes, cover verified | Kind: student | COMPLETE — note: a different, newer edition from the 1989 book above, not a duplicate. Glossary (printed pp 181–186) is inventory-only, not placed. Placements at liqlearns-courses-work/expansion-td-2026-11-17/cuba-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cap. 1 §1.9 Escala (original string `scales in drawing`) | Cuba, *Educación Laboral y Dibujo Básico — 7mo grado (2023 Biblioteca edition)*, printed p. 60-64 |
+
+**Acceptance count: taught in 3 countries (Cuba, Fiji, Sri Lanka).**
+
+Cuba's own way: Cuba teaches scales (escala) in the 2023 Grade 7 book as its own section (§1.9) — enlargement and reduction scales — inside Dibujo Básico I.
 
 Fiji's own way: Fiji teaches scales in both Technical Drawing years — the enlargement scale, constructing a plain scale, and the logarithmic scale — in Year 11 and again in Year 12 Strand 1.
 
 Sri Lanka's own way: Sri Lanka teaches this topic inside its Tamil-medium Technology stream textbooks (Educational Publications Department), read here by a visual-read method from the scanned-image PDFs, as filed in the book entries above. The topic's own Sri Lankan framing — full-size, reduction and enlargement scales — is carried in this lesson exactly as the book teaches it.
 
-Searchable tags: scales in drawing, Sri Lanka, Tamil medium, Educational Publications Department, technical drawing, Fiji
+Searchable tags: scales in drawing, Sri Lanka, Tamil medium, Educational Publications Department, technical drawing, Fiji, Cuba, Educación Laboral

@@ -1,6 +1,6 @@
 # Sources — Wood joints
 
-countries: Fiji, Moldova
+countries: Cuba, Fiji, Moldova
 
 **Book 1:** *Educația tehnologică — Manual pentru clasele a 5-a – a 6-a (Technological Education — Textbook for Grades 5–6)* (student textbook) — Moldova, Authors: Angela Eșanu, Ion Șaragov, Nicolae Onofreiciuc, Ana Simac. Publisher: Editura ARC; Ministry of Education of the Republic of Moldova; edition approved for reprinting by Order no. 357 of 20 May 2011, 2017 reprint (PDF produced May 2017). Grade: Grades 5–6 combined volume — the library record names it "Manual pentru clasa a VI-a"; the file itself is the combined Grades 5–6 manual (cover: "Manual pentru clasele a 5-a – a 6-a"), so both grades' halves are placed here under this one record. Language: Romanian. Pages: 208 (PDF; printed p. = PDF p.), verified byte size 50,000,056 = record size (record also states 208 pages). Source + route: tensae-code/liqlearns-textbooks, release asset in mid-size-books-8 via grab.py url route after the tree route 404'd — grade-06/gov/moldova/technological-education/student/moldova-g06-technological-education.pdf. Kind: student textbook. Read: COMPLETE (both grades' wood modules read in full; every other module's sections read at their teaching pages). Placements at liqlearns-courses-work/expansion-td-2026-11-17/moldova-placements.md.
 
@@ -14,10 +14,24 @@ countries: Fiji, Moldova
 | Wood joints — lap, housed and dowel joints (original string `wood joints — lap, housed and dowel joints`) | Fiji, *Basic Technology — Year 9*, printed p. 106-110 |
 | Wood joints — preparing joints (the FEWTEL steps), mortise and tenon, framing joints, tee-halving, cross-halved, widening joints, rebate marking (original string `wood joints — preparing joints (the FEWTEL steps), mortise and tenon, framing joints, tee-halving, cross-halved, widening joints, rebate marking`) | Fiji, *Basic Technology — Year 10*, printed p. 68-79 |
 
-**Acceptance count: taught in 2 countries (Fiji, Moldova).**
+**Book 4:** *Programa: Educación Laboral — 7mo grado* (programme) — Publisher: not stated in file (Ministerio de Educación, Cuba programme) | Year: not stated in file | Grade: 7 | Language: Spanish | Pages: 18 PDF pp | Source: GitHub tree `grade-07/gov/cuba/educacion-laboral/teacher/full-year.pdf`, 249,487 bytes, cover verified ("EDUCACIÓN LABORAL — PROGRAMA DE 7mo GRADO") | Kind: teacher (programme) | COMPLETE (pages unnumbered in the file; cited by PDF page) — Kind: EVIDENCE (programme/teacher guide) — placements sourced from this document are stocked as evidence rows and stay outside the acceptance counts. Placements at liqlearns-courses-work/expansion-td-2026-11-17/cuba-placements.md.
+
+**Book 5:** *Educación Laboral y Dibujo Básico — 7mo grado (2023 Biblioteca edition)* (student book) — Title: Educación Laboral y Dibujo Básico | Publisher: Ministerio de Educación, Cuba / Editorial Pueblo y Educación (© 2023; ISBN 978-959-13-3816-7 print, 978-959-13-4109-9 digital) | Authors: Ordóñez Suárez, López Cordoví, Fuerte González | Grade: 7 | Language: Spanish | Pages: 198 PDF pp (printed 1–189) | Source: GitHub release asset (release `full-quality-oversized-books`, asset for `grade-07/gov/cuba/educacion-laboral/student/full-year-biblioteca.pdf`), 270,015,223 bytes, cover verified | Kind: student | COMPLETE — note: a different, newer edition from the 1989 book above, not a duplicate. Glossary (printed pp 181–186) is inventory-only, not placed. Placements at liqlearns-courses-work/expansion-td-2026-11-17/cuba-placements.md.
+
+**Book 6:** *Educación Laboral — 9no grado* (student book) — Title: Educación Laboral — noveno grado | Publisher: Ministerio de Educación, Cuba / Editorial Pueblo y Educación (© 2025, Perfeccionamiento; ISBN 978-959-13-4933-0 print, 978-959-13-5006-0 digital) | Authors: Ordóñez Suárez et al. | Grade: 9 | Language: Spanish | Pages: 386 PDF pp (printed 1–375) | Source: GitHub release asset (release `mid-size-books-7`, asset for `grade-09/gov/cuba/educacion-laboral/student/full-year.pdf`), 43,931,247 bytes, cover verified | Kind: student | COMPLETE. Glossary (printed p. 371–375) is inventory-only, not placed. Placements at liqlearns-courses-work/expansion-td-2026-11-17/cuba-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 4 §§4.6–4.7 (original string `joining wood`) (programme — evidence) | Cuba, *Programa: Educación Laboral — 7mo grado*, PDF p. 16 |
+| Cap. 3 §3.4 (original string `joining wood`) | Cuba, *Educación Laboral y Dibujo Básico — 7mo grado (2023 Biblioteca edition)*, printed p. 152-162 |
+| Cap. 6 (original string `joining wood`) | Cuba, *Educación Laboral — 9no grado*, printed p. 236-253 |
+
+**Acceptance count: taught in 3 countries (Cuba, Fiji, Moldova).**
+
+Cuba's own way: Cuba teaches joining wood in Grade 7 — butt and half-lap (a media madera) joints, nails, dowels (tarugos) and screws, with hot and cold glues — and again in the 2023 book (ensambles and empalmes, the cajuela steps, the tirafondo screw) and in Grade 9 workshop articles.
 
 Fiji's own way: Fiji teaches wood joints in two passes — Year 9 takes the lap, housed and dowel joints; Year 10 teaches preparing joints by the FEWTEL steps, then mortise and tenon, framing joints, tee-halving, cross-halved and widening joints, with rebate marking.
 
 Moldova's own way: Moldova teaches assembling (asamblare) in Grade 5 as three honest methods — nailing with its strength-versus-splitting trade-off stated, screwing, and gluing in the vice.
 
-Searchable tags: wood joints, assembling, asamblare, nailing, screwing, gluing, vice, nails, Moldova, Grades 5–6, Romanian, Fiji
+Searchable tags: wood joints, assembling, asamblare, nailing, screwing, gluing, vice, nails, Moldova, Grades 5–6, Romanian, Fiji, Cuba, Educación Laboral

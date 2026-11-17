@@ -1,6 +1,6 @@
 # Sources — Assembly drawings
 
-countries: Belarus, Fiji, Moldova
+countries: Belarus, Cuba, Fiji, Moldova
 
 **Book 1:** *Чарчэнне — Вучэбны дапаможнік для 9 класа агульнаадукацыйных устаноў з беларускай мовай навучання (Technical Drawing — study aid for Grade 9 of general-education institutions with Belarusian as the language of instruction)* (student textbook) — Belarus, Author: В. Н. Вінаградаў (V. N. Vinogradov). Publisher: Нацыянальны інстытут адукацыі (National Institute of Education), Ministry of Education of the Republic of Belarus, Minsk; approved by the Ministry of Education of the Republic of Belarus; signed to print 10.12.2008; print run 31,023; ISBN 978-985-465-432-4. Year/edition: 2008. Grade: 9. Language: Belarusian. Pages: 224; verified byte size 12,603,822 (the record carries no size; the file was located by exact-name scan of the releases). Source + route: tensae-code/liqlearns-textbooks, release asset in mid-size-books-7 (asset grade-09-gov-belarus-technical-drawing-student-full-year.pdf), downloaded via the Releases API asset route after the tree route 404'd — grade-09/gov/belarus/technical-drawing/student/full-year.pdf. Kind: student textbook (вучэбны дапаможнік — study aid/textbook). Read: COMPLETE (all 34 sections mapped from the book's contents, pp. 220–222, with section content verified at the section pages; the Кароткі тэрміналагічны слоўнік — short terminological dictionary, printed p. 211 — is inventory-only and the Прадметны паказальнік is an index; neither is placed). Note on the record: the book's own text layer uses a broken font encoding, so the read was done from the book's table of contents and section pages via OCR (RapidOCR) plus the decoded text layer; printed page numbers are the book's own (printed p. = PDF p.). Placements at liqlearns-courses-work/expansion-td-2026-11-17/belarus-placements.md.
 
@@ -15,7 +15,15 @@ countries: Belarus, Fiji, Moldova
 | Drawings that carry the form, dimensions and number of pieces needed to assemble an object (desen de asamblare), and reading one: how many pieces, what material, what basic dimensions, which line types (stool assembly drawing) (original string `assembly drawings`) | Moldova, *Educația tehnologică — Manual pentru clasele a 5-a – a 6-a (Grade 5 half)*, printed p. 15 |
 | Assembly drawing — drawing an assembly; bolts and screw threads; conventions for bars/tubes, compression springs, nut/bolt/washer proportions (original string `assembly drawing — drawing an assembly; bolts and screw threads; conventions for bars/tubes, compression springs, nut/bolt/washer proportions`) | Fiji, *Year 12 Technical Drawing Textbook*, printed p. 64-69 |
 
-**Acceptance count: taught in 3 countries (Belarus, Fiji, Moldova).**
+**Book 4:** *Educación Laboral — 9no grado* (student book) — Title: Educación Laboral — noveno grado | Publisher: Ministerio de Educación, Cuba / Editorial Pueblo y Educación (© 2025, Perfeccionamiento; ISBN 978-959-13-4933-0 print, 978-959-13-5006-0 digital) | Authors: Ordóñez Suárez et al. | Grade: 9 | Language: Spanish | Pages: 386 PDF pp (printed 1–375) | Source: GitHub release asset (release `mid-size-books-7`, asset for `grade-09/gov/cuba/educacion-laboral/student/full-year.pdf`), 43,931,247 bytes, cover verified | Kind: student | COMPLETE. Glossary (printed p. 371–375) is inventory-only, not placed. Placements at liqlearns-courses-work/expansion-td-2026-11-17/cuba-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cap. 8 §8.2 (original string `assembly drawing`) | Cuba, *Educación Laboral — 9no grado*, printed p. 303-313 |
+
+**Acceptance count: taught in 4 countries (Belarus, Cuba, Fiji, Moldova).**
+
+Cuba's own way: Cuba introduces the assembly drawing (dibujo de ensamble) in Grade 9 as first notions (§8.2), after sections — the drawing of the whole, read from the drawings of the parts.
 
 Fiji's own way: Fiji teaches the assembly drawing in Year 12 Strand 3 — drawing an assembly with bolts and screw threads, and the conventions for bars and tubes, compression springs, and nut, bolt and washer proportions.
 
@@ -23,4 +31,4 @@ Belarus's own way: Belarus teaches this inside *Чарчэнне*, its single Gr
 
 Moldova's own way: Moldova teaches the assembly drawing (desen de asamblare) inside the Grade 5 wood module of *Educația tehnologică* — the drawing that carries the form, dimensions and number of pieces needed to assemble an object — and teaches reading one on a stool: how many pieces, what material, what basic dimensions, which line types.
 
-Searchable tags: assembly drawings, detailing, дэталіраванне, parts list, overall dimensions, Belarus, Grade 9, Чарчэнне, Moldova, Grades 5–6, desen de asamblare, stool, Fiji
+Searchable tags: assembly drawings, detailing, дэталіраванне, parts list, overall dimensions, Belarus, Grade 9, Чарчэнне, Moldova, Grades 5–6, desen de asamblare, stool, Fiji, Cuba, Educación Laboral

@@ -1,6 +1,6 @@
 # Sources — Sectioning — words and common practice
 
-countries: Belarus, Ethiopia, Sri Lanka
+countries: Belarus, Cuba, Ethiopia, Sri Lanka
 
 **Book 1:** *Basic Technical Drawing, Teacher Guide, Grade 12* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, in collaboration with Kuraz International Publisher P.L.C., Addis Ababa, first edition, 2003 E.C., ISBN 978-99944-2-097-2, 105 printed pp. Page rule: printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/technical-drawing/g12-teacher-placements.md.
 
@@ -16,7 +16,15 @@ countries: Belarus, Ethiopia, Sri Lanka
 | Sections (сячэнні): what a section is, how the cutting plane is shown, and how the cut surface alone is drawn and hatched | Belarus, *Чарчэнне (Technical Drawing / Drafting) — Grade 9*, printed p. 134 |
 | drawing cross-section lines and section views (section 1.5.4), worked to a hatched "Section A-A" assembly figure (original string `technical-drawing/sectioning-words-and-practice`) | Sri Lanka, *Grade 12 Engineering Technology Part VI — Engineering Drawing*, printed p. 81 |
 
-**Acceptance count: taught in 2 countries (Belarus, Sri Lanka) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+**Book 4:** *Educación Laboral — 9no grado* (student book) — Title: Educación Laboral — noveno grado | Publisher: Ministerio de Educación, Cuba / Editorial Pueblo y Educación (© 2025, Perfeccionamiento; ISBN 978-959-13-4933-0 print, 978-959-13-5006-0 digital) | Authors: Ordóñez Suárez et al. | Grade: 9 | Language: Spanish | Pages: 386 PDF pp (printed 1–375) | Source: GitHub release asset (release `mid-size-books-7`, asset for `grade-09/gov/cuba/educacion-laboral/student/full-year.pdf`), 43,931,247 bytes, cover verified | Kind: student | COMPLETE. Glossary (printed p. 371–375) is inventory-only, not placed. Placements at liqlearns-courses-work/expansion-td-2026-11-17/cuba-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cap. 8 §8.1: how sections are drawn and used in technical drawing (original string `technical-drawing/sectioning-words-and-practice`) | Cuba, *Educación Laboral — 9no grado*, printed p. 286-302 |
+
+**Acceptance count: taught in 3 countries (Belarus, Cuba, Sri Lanka) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+
+Cuba's own way: Cuba teaches cortes y secciones in Grade 9 (§8.1) as the opening of its technical-drawing chapter — how sections are drawn and used.
 
 Era note: this guide is an older GEQIP-generation book (first edition 2003 E.C., funded through the General Education Quality Improvement Project, GEQIP) — a different curriculum generation from the current syllabus. These lessons present it as such, as the guide's testimony about the course of its era, never as the current syllabus unchecked. No student book for Technical Drawing exists in hand, so nothing here could be checked against a pupil text.
 
@@ -26,4 +34,4 @@ Belarus's own way: Belarus keeps сячэнні (sections — the cut surface al
 
 Sri Lanka's own way: Sri Lanka adds its Tamil-medium Technology stream teaching (Educational Publications Department; visual-read method, as filed in the book entries above) — drawing cross-section lines and section views (section 1.5.4), worked to a hatched "Section A-A" assembly figure.
 
-Searchable tags: technical drawing, sectioning, sectional view, cutting-plane line, hatching, section lining, Grade 12, Ethiopia, Sri Lanka
+Searchable tags: technical drawing, sectioning, sectional view, cutting-plane line, hatching, section lining, Grade 12, Ethiopia, Sri Lanka, Cuba, Educación Laboral

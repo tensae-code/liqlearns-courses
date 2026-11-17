@@ -1,6 +1,6 @@
 # Sources — Geometrical constructions
 
-countries: Belarus, Fiji, Malta
+countries: Belarus, Cuba, Fiji, Malta
 
 **Book 1:** *Design and Technology — Graphical Communication Component — Workbook 1 ("Communicate Graphically")* (workbook) — Malta, Directorate for Quality and Standards in Education, Curriculum Management Department, Malta, 2015; designed by Michael Mallia (Education Officer, Graphical Communication). Grade: Year 7. Language: English. Pages: 20 PDF pp.; printed pagination pp. 2–16 + self-check page; verified byte size 3,109,455 = record size. Kind: workbook (graded exercise workbook; each section is taught through worked examples to copy and graded practice — the exercises are the teaching items; the closing "I can" self-assessment page is assessment-only and is not placed). Source + route: tensae-code/liqlearns-textbooks, tree route via grab.py — grade-07/gov/malta/design-and-technology/workbook/graphical-communication-workbook-1-year-7.pdf. Read: COMPLETE. Placements at liqlearns-courses-work/expansion-td-2026-11-17/malta-placements.md.
 
@@ -17,7 +17,21 @@ countries: Belarus, Fiji, Malta
 | Geometrical constructions — dividing lines, arcs, angles and circles; constructing triangles, quadrilaterals, polygons and the ellipse (original string `geometrical constructions — dividing lines, arcs, angles and circles; constructing triangles, quadrilaterals, polygons and the ellipse`) | Fiji, *Basic Technology — Year 9*, printed p. 25-32 |
 | Geometrical constructions — polygons; design patterns by enlargement and reduction (original string `geometrical constructions — polygons; design patterns by enlargement and reduction`) | Fiji, *Basic Technology — Year 10*, printed p. 15-16 |
 
-**Acceptance count: taught in 3 countries (Belarus, Fiji, Malta).**
+**Book 5:** *Programa: Educación Laboral — 8vo grado* (programme) — Publisher: Ministerio de Educación, Cuba / Editorial Pueblo y Educación | Year: 2024 (ISBN 978-959-13-4549-3 print, 978-959-13-4733-6 digital) | Authors: Ordóñez Suárez, López Cordoví | Grade: 8 | Language: Spanish | Pages: 36 PDF pp (printed 1–32) | Source: GitHub tree `grade-08/gov/cuba/educacion-laboral/teacher/full-year.pdf`, 366,236 bytes, cover verified | Kind: teacher (programme) | COMPLETE — Kind: EVIDENCE (programme/teacher guide) — placements sourced from this document are stocked as evidence rows and stay outside the acceptance counts. Placements at liqlearns-courses-work/expansion-td-2026-11-17/cuba-placements.md.
+
+**Book 6:** *Educación Laboral — Trabajos de Taller y Dibujo Básico — 7mo grado (1989 edition)* (student book) — Title: Educación Laboral — Trabajos de Taller y Dibujo Básico | Publisher: Ministerio de Educación, Cuba / Editorial Pueblo y Educación (© 1989; 3rd reprint 2015; ISBN 978-959-13-0701-9) | Authors: Tam Mazorra, Ordóñez Suárez, Rubio Villaverde, Cortina Morales, Cerezal Mezquita | Grade: 7 | Language: Spanish | Pages: 174 PDF pp | Source: GitHub release asset (release `mid-size-books-3`, asset for `grade-07/gov/cuba/educacion-laboral/student/full-year.pdf`), 23,082,011 bytes, cover verified (pink "Educación Laboral 7° grado", "Libro de distribución gratuita") | Kind: student | COMPLETE — the body is a scanned book; its text layer carries the chapter/section headings and tasks only, and the full structure below was taken from those headings page by page. Pages cited by PDF page (the scan's printed folios are not in the text layer). Placements at liqlearns-courses-work/expansion-td-2026-11-17/cuba-placements.md.
+
+**Book 7:** *Educación Laboral — 8vo grado* (student book) — Title: Educación Laboral — octavo grado | Publisher: Ministerio de Educación, Cuba / Editorial Pueblo y Educación (© 2024, Tercer Perfeccionamiento; ISBN 978-959-13-4768-8 print, 978-959-13-4769-5 digital) | Authors: López Cordoví, Ordóñez Suárez, et al. | Grade: 8 | Language: Spanish | Pages: 235 PDF pp (printed 1–227 + front matter) | Source: GitHub release asset (release `mid-size-books-7`, asset for `grade-08/gov/cuba/educacion-laboral/student/full-year.pdf`), 22,790,125 bytes, cover verified | Kind: student | COMPLETE. Glossary (printed p. 219–224) is inventory-only, not placed. Placements at liqlearns-courses-work/expansion-td-2026-11-17/cuba-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 1 (original string `geometrical constructions in drawing`) (programme — evidence) | Cuba, *Programa: Educación Laboral — 8vo grado*, printed p. 11-15 |
+| Cap. 6 Construcciones geométricas (original string `geometrical constructions in drawing`) | Cuba, *Educación Laboral — Trabajos de Taller y Dibujo Básico — 7mo grado (1989 edition)*, PDF p. 146-158 |
+| Cap. 1 §1.1 Construcciones geométricas (original string `geometrical constructions in drawing`) | Cuba, *Educación Laboral — 8vo grado*, printed p. 1-14 |
+
+**Acceptance count: taught in 4 countries (Belarus, Cuba, Fiji, Malta).**
+
+Cuba's own way: Cuba teaches geometrical constructions in Grade 8 (dividing the circumference into 3, 4 and 6 equal parts; acuerdos — tangency blends) and in the 1989 Grade 7 book as a full chapter — perpendicularity, parallels, angles, division of the circumference, tangency.
 
 Fiji's own way: Fiji teaches geometrical constructions twice — in Year 9 dividing lines, arcs, angles and circles and constructing triangles, quadrilaterals, polygons and the ellipse; in Year 10 returning to polygons and to design patterns made by enlargement and reduction.
 
@@ -25,4 +39,4 @@ Malta's own way: Malta teaches technical drawing as the Graphical Communication 
 
 Belarus's own way: Belarus teaches geometric constructions as the drafter's graphic toolkit — dividing segments and angles, raising perpendiculars, drawing parallels and joining lines — the compass-and-straightedge work behind the later drawing constructions.
 
-Searchable tags: geometrical constructions, triangle, pentagon, hexagon, octagon, compasses, protractor, Malta, Year 7, Graphical Communication, Fiji
+Searchable tags: geometrical constructions, triangle, pentagon, hexagon, octagon, compasses, protractor, Malta, Year 7, Graphical Communication, Fiji, Cuba, Educación Laboral

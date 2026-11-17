@@ -1,6 +1,6 @@
 # Sources — Types of section — choosing and drawing the right cut
 
-countries: Belarus, Ethiopia, Fiji
+countries: Belarus, Cuba, Ethiopia, Fiji
 
 **Book 1:** *Basic Technical Drawing, Teacher Guide, Grade 12* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, in collaboration with Kuraz International Publisher P.L.C., Addis Ababa, first edition, 2003 E.C., ISBN 978-99944-2-097-2, 105 printed pp. Page rule: printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/technical-drawing/g12-teacher-placements.md.
 
@@ -20,7 +20,15 @@ countries: Belarus, Ethiopia, Fiji
 | Strand 3 Applied Drawing: engineering drawing — sections (full section, cutting-plane lines) (original string `technical-drawing/types-of-section`) | Fiji, *Year 12 Technical Drawing Textbook*, printed p. 64-67 |
 | Ch. 3: engineering drawing — the offset section view (original string `technical-drawing/types-of-section`) | Fiji, *Year 13 Technical Drawing Textbook*, printed p. 60-61 |
 
-**Acceptance count: taught in 2 countries (Belarus, Fiji) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+**Book 5:** *Educación Laboral — 9no grado* (student book) — Title: Educación Laboral — noveno grado | Publisher: Ministerio de Educación, Cuba / Editorial Pueblo y Educación (© 2025, Perfeccionamiento; ISBN 978-959-13-4933-0 print, 978-959-13-5006-0 digital) | Authors: Ordóñez Suárez et al. | Grade: 9 | Language: Spanish | Pages: 386 PDF pp (printed 1–375) | Source: GitHub release asset (release `mid-size-books-7`, asset for `grade-09/gov/cuba/educacion-laboral/student/full-year.pdf`), 43,931,247 bytes, cover verified | Kind: student | COMPLETE. Glossary (printed p. 371–375) is inventory-only, not placed. Placements at liqlearns-courses-work/expansion-td-2026-11-17/cuba-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cap. 8 §8.1 Dibujo Técnico: cortes y secciones (cuts and sections) (original string `technical-drawing/types-of-section`) | Cuba, *Educación Laboral — 9no grado*, printed p. 286-302 |
+
+**Acceptance count: taught in 3 countries (Belarus, Cuba, Fiji) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+
+Cuba's own way: Cuba teaches cortes y secciones in Grade 9 (§8.1) — cuts and sections as the first topic of the technical-drawing chapter.
 
 Fiji's own way: Fiji teaches sections in engineering drawing twice — Year 12 takes the full section and cutting-plane lines, and Year 13 takes the offset section view.
 
@@ -30,4 +38,4 @@ Honesty: The placements state that the guide identifies and compares the types o
 
 Belarus's own way: Belarus teaches разрэзы (sectional views) as the step beyond сячэнні — the cut shows the object behind the cutting plane as well — and then combines view and section in one image, including the half-view/half-section of a symmetric part.
 
-Searchable tags: technical drawing, types of section, full section, half section, offset section, revolved section, removed section, Grade 12, Ethiopia, Fiji
+Searchable tags: technical drawing, types of section, full section, half section, offset section, revolved section, removed section, Grade 12, Ethiopia, Fiji, Cuba, Educación Laboral

@@ -1,6 +1,6 @@
 # Sources — Technical lettering
 
-countries: Malta, Sri Lanka
+countries: Cuba, Malta, Sri Lanka
 
 **Book 1:** *Design and Technology — Graphical Communication Component — Workbook 1 ("Communicate Graphically")* (workbook) — Malta, Directorate for Quality and Standards in Education, Curriculum Management Department, Malta, 2015; designed by Michael Mallia (Education Officer, Graphical Communication). Grade: Year 7. Language: English. Pages: 20 PDF pp.; printed pagination pp. 2–16 + self-check page; verified byte size 3,109,455 = record size. Kind: workbook (graded exercise workbook; each section is taught through worked examples to copy and graded practice — the exercises are the teaching items; the closing "I can" self-assessment page is assessment-only and is not placed). Source + route: tensae-code/liqlearns-textbooks, tree route via grab.py — grade-07/gov/malta/design-and-technology/workbook/graphical-communication-workbook-1-year-7.pdf. Read: COMPLETE. Placements at liqlearns-courses-work/expansion-td-2026-11-17/malta-placements.md.
 
@@ -11,10 +11,21 @@ countries: Malta, Sri Lanka
 | Printing letters and numbers: printing the alphabet and numbers (incl. Ø) evenly with guidelines and grid lines; vertical letters and numbers; printing your name and class on a grid (original string `lettering: printing letters and numbers`) | Malta, *Design and Technology — Graphical Communication Component — Workbook 1 ("Communicate Graphically")*, printed p. 2 |
 | Standard lettering and numerals on engineering drawings (original string `standard lettering and numerals on engineering drawings`) | Sri Lanka, *Grade 12 Engineering Technology Part VI — Engineering Drawing*, printed p. 25 |
 
-**Acceptance count: taught in 2 countries (Malta, Sri Lanka).**
+**Book 3:** *Educación Laboral — Trabajos de Taller y Dibujo Básico — 7mo grado (1989 edition)* (student book) — Title: Educación Laboral — Trabajos de Taller y Dibujo Básico | Publisher: Ministerio de Educación, Cuba / Editorial Pueblo y Educación (© 1989; 3rd reprint 2015; ISBN 978-959-13-0701-9) | Authors: Tam Mazorra, Ordóñez Suárez, Rubio Villaverde, Cortina Morales, Cerezal Mezquita | Grade: 7 | Language: Spanish | Pages: 174 PDF pp | Source: GitHub release asset (release `mid-size-books-3`, asset for `grade-07/gov/cuba/educacion-laboral/student/full-year.pdf`), 23,082,011 bytes, cover verified (pink "Educación Laboral 7° grado", "Libro de distribución gratuita") | Kind: student | COMPLETE — the body is a scanned book; its text layer carries the chapter/section headings and tasks only, and the full structure below was taken from those headings page by page. Pages cited by PDF page (the scan's printed folios are not in the text layer). Placements at liqlearns-courses-work/expansion-td-2026-11-17/cuba-placements.md.
+
+**Book 4:** *Educación Laboral y Dibujo Básico — 7mo grado (2023 Biblioteca edition)* (student book) — Title: Educación Laboral y Dibujo Básico | Publisher: Ministerio de Educación, Cuba / Editorial Pueblo y Educación (© 2023; ISBN 978-959-13-3816-7 print, 978-959-13-4109-9 digital) | Authors: Ordóñez Suárez, López Cordoví, Fuerte González | Grade: 7 | Language: Spanish | Pages: 198 PDF pp (printed 1–189) | Source: GitHub release asset (release `full-quality-oversized-books`, asset for `grade-07/gov/cuba/educacion-laboral/student/full-year-biblioteca.pdf`), 270,015,223 bytes, cover verified | Kind: student | COMPLETE — note: a different, newer edition from the 1989 book above, not a duplicate. Glossary (printed pp 181–186) is inventory-only, not placed. Placements at liqlearns-courses-work/expansion-td-2026-11-17/cuba-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cap. 3 Rotulado (original string `technical lettering (rotulado) for drawings`) | Cuba, *Educación Laboral — Trabajos de Taller y Dibujo Básico — 7mo grado (1989 edition)*, PDF p. 130-133 |
+| Cap. 1 §1.6 (original string `technical lettering (rotulado) for drawings`) | Cuba, *Educación Laboral y Dibujo Básico — 7mo grado (2023 Biblioteca edition)*, printed p. 33-39 |
+
+**Acceptance count: taught in 3 countries (Cuba, Malta, Sri Lanka).**
+
+Cuba's own way: Cuba teaches rotulado (technical lettering) as its own chapter in the 1989 Grade 7 book (Cap. 3) and as a section of Dibujo Básico I in the 2023 book (§1.6).
 
 Malta's own way: Malta teaches technical drawing as the Graphical Communication component of its Design and Technology subject, through graded workbooks — each skill is shown in a worked example to copy, then practised in graded exercises on grids and in the spaces provided, and closed with an "I can" self-check page (assessment-only, not placed). That copy-then-practise workbook way is carried in this lesson exactly as the book teaches it.
 
 Sri Lanka's own way: Sri Lanka adds its Tamil-medium Technology stream teaching (Educational Publications Department; visual-read method, as filed in the book entries above) — standard lettering and numerals on engineering drawings.
 
-Searchable tags: technical lettering, lettering, guidelines, grid, printing letters, Malta, Year 7, Graphical Communication, Sri Lanka
+Searchable tags: technical lettering, lettering, guidelines, grid, printing letters, Malta, Year 7, Graphical Communication, Sri Lanka, Cuba, Educación Laboral
