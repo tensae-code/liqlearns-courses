@@ -1,6 +1,6 @@
 # Sources — Paying Attention and Crossing the Road Safely
 
-countries: Ethiopia, Oman, Samoa, Ukraine, Turkey, Papua New Guinea
+countries: Ethiopia, Oman, Samoa, Ukraine, Turkey, Papua New Guinea, Vietnam
 
 **Book 1:** *Grade 3 Health and Physical Education Teacher Guide* (የጤናና ሰውነት ማጎልመሻ ትምህርት የመምህር መምሪያ መጽሐፍ, ሦስተኛ ክፍል) (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. (58 PDF pages). Printed page = PDF page − 6. TRUNCATED — the file holds printed pp. 1–52 of 89+. Read in full, page by page, from 100 DPI renders (no usable text layer), in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g03-teacher-placements.md.
 
@@ -9,7 +9,7 @@ countries: Ethiopia, Oman, Samoa, Ukraine, Turkey, Papua New Guinea
 | Sub lesson 1 — attention defined; the traffic-light teaching text; keep left; the pedestrian crossing (teacher guide — evidence) | Ethiopia, *Grade 3 Teacher Guide*, §3.3.1, printed pp. 47–49 |
 | Sub lesson 2 — the road-traffic movement game: set-up, cards, crossing, both directions (teacher guide — evidence) | Ethiopia, *Grade 3 Teacher Guide*, §3.3.2 Task 1, printed pp. 48–49 |
 
-**Acceptance count: taught in 2 countries.** Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Ethiopia is filed as teacher-guide evidence only (Ethiopia), named here, counted nowhere. Oman is likewise filed as teacher-guide evidence only, outside the acceptance count. Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book. Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below).
+**Acceptance count: taught in 3 countries.** Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Ethiopia is filed as teacher-guide evidence only (Ethiopia), named here, counted nowhere. Oman is likewise filed as teacher-guide evidence only, outside the acceptance count. Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book. Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Vietnam is added as student-book stock (see its Vietnam section below), inside the acceptance count.
 
 The Grade 3 teacher guide is a TRUNCATED scan: the file holds printed pp. 1–52 of 89+. Missing from the file: §4.1 Cardiovascular activity (p. 53), §4.2 Muscle-strength activity (p. 57), §4.3 Stretching and flexibility (p. 62), §4.4 Agility (p. 65), all of Chapter 5 Gymnastics (pp. 69–84) and all of Chapter 6 Addis Ababa traditional movements and games (pp. 85–89+). Parts resting on this guide are labelled (teacher guide — evidence) and never count as pupil-taught.
 
@@ -115,4 +115,34 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/papua-new-gu
 
 Papua New Guinea is added as teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — all the Papua New Guinea books stocked here are TEACHER guides, so Papua New Guinea is named in the countries line and provenance rows and the acceptance count is unchanged. The Papua New Guinea placements in this lesson were filed under the original strings recorded in the provenance rows above; the placements were resolved to this canonical lesson (`staying-safe/paying-attention-and-crossing-the-road-safely`) by registry Part 2A (the strings filed directly under this lesson's own slug needed no resolution). Papua New Guinea's own way is content, as the book lines above record it: Health is organised in four strands — Growth and Development, Individual and Community Health, Nutrition, Safety and First Aid — with PNG-specific teaching on betelnut chewing, local herbs as medicine, and life jackets and floaters for sea travel, and senior Health separating medical facts from sorcery/witchcraft beliefs about illness. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: road safety, traffic game, attention ትኩረት, pedestrian crossing የእግረኛ መሻገሪያ, red light green light, Ethiopia HPE Grade 3 teacher guide, road-safety rules by acting out a trip to the garden, A Trip to the Garden movement story, Oman G1 Teacher Guide, road safety rules recited demonstrated practised every year, Samoa Years 1–8 Curriculum, pedestrian safety rules, I am a pedestrian, Ukraine G5 Health Safety and Wellbeing Vasylenko, traffic culture, Trafik Kültürü, pedestrian safety, Yaya Güvenliği, Turkey Health & Traffic Culture, Papua New Guinea, Papua New Guinea Grade 4 Health TG Grade 4
+
+## Vietnam — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-health-placements.md. 2 Vietnam placement(s) stocked in this lesson. All Vietnam books are STUDENT books, read COMPLETE, so Vietnam is filed as student-book stock, inside the acceptance count. The placements were filed directly under this lesson's own slug, so no registry resolution was needed; the original string is recorded in each provenance row below.
+
+**Book 1 — GDTC 1 / PE Grade 1 (student book, Vietnamese):**
+- Title as printed: Giáo dục thể chất 1 (Kết nối tri thức với cuộc sống)
+- Grade: 1 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year ©2020, 6th reprint; ISBN 978-604-0-19562-3
+- PDF pages: 98 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 4 placements — 4 to existing lessons, 0 NEW LESSON NEEDED
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-health-placements.md (Book 1 of that file).
+
+**Book 2 — GDTC 2 / PE Grade 2 (student book, Vietnamese):**
+- Title as printed: Giáo dục thể chất 2 (Kết nối tri thức với cuộc sống)
+- Grade: 2 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year ©2021, 5th reprint; ISBN 978-604-0-25138-1
+- PDF pages: 98 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 6 placements — 5 to existing lessons, 1 NEW LESSON NEEDED (HELD)
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-health-placements.md (Book 2 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Môn Bóng rổ Bài 4, Trò chơi Tín hiệu đèn giao thông — the traffic-light signal game teaches children to respond to traffic signals (repeated as the swimming warm-up) (original string `staying-safe/paying-attention-and-crossing-the-road-safely`) | Vietnam Grade 1 GDTC 1, printed p. 75 |
+| Vietnam — Chủ đề 2 Bài 1, Trò chơi Đèn xanh đèn đỏ — red light, green light: children move on green and stop on red (original string `staying-safe/paying-attention-and-crossing-the-road-safely`) | Vietnam Grade 2 GDTC 2, printed p. 22 |
+
+Vietnam is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the acceptance count rises from 2 to 3 countries. Vietnam's own way is content, as the placements file records it: Vietnam's records are all PE-course records, but the primary PE books open with a "general knowledge" part (hygiene and preparation) and carry safety teaching (water safety, traffic-signal games), and the secondary GDTC books carry a shared general-knowledge part on natural factors and nutrition for training. This lesson teaches its Vietnam placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: road safety, traffic game, attention ትኩረት, pedestrian crossing የእግረኛ መሻገሪያ, red light green light, Ethiopia HPE Grade 3 teacher guide, road-safety rules by acting out a trip to the garden, A Trip to the Garden movement story, Oman G1 Teacher Guide, road safety rules recited demonstrated practised every year, Samoa Years 1–8 Curriculum, pedestrian safety rules, I am a pedestrian, Ukraine G5 Health Safety and Wellbeing Vasylenko, traffic culture, Trafik Kültürü, pedestrian safety, Yaya Güvenliği, Turkey Health & Traffic Culture, Papua New Guinea, Papua New Guinea Grade 4 Health TG Grade 4, Vietnam, Vietnam GDTC, Giáo dục thể chất

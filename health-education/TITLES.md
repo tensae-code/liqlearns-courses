@@ -463,3 +463,21 @@ only, outside the acceptance counts. One Estonia placement
 course's Sports Nutrition and Hydration lesson and was
 excluded here as PE-bound; it is not yet stocked in PE either
 (verified by git grep on origin/main).
+
+The Health expansion then added (Vietnam): no new lessons —
+39 placements stocked into existing lessons (Hardening the
+Body ×19, Staying Safe While Exercising ×8, Hygiene for
+Sport ×3, Preventing Sports Injuries and First Aid ×3,
+Paying Attention and Crossing the Road Safely ×2, Common
+Illnesses and Caring for the Sick, Keeping My Body Clean,
+Eating a Balanced Diet, What Health Is) — this course stays
+at 54 lessons. All Vietnam GDTC books are STUDENT books,
+read COMPLETE, so Vietnam is student-book stock, inside the
+acceptance counts, in every lesson it touches. 21 further
+Vietnam placements (the GDTC nutrition-for-training
+sections, Grades 5–12) resolve through the registry
+(Part 2B) to the PE course's Sports Nutrition and Hydration
+lesson and were excluded here as PE-bound; verified by git
+grep on origin/main they are not stocked in that PE lesson
+either, so they are not stocked anywhere and await a PE
+fix-up.

@@ -1173,3 +1173,59 @@ cross-subject teacher book treating nutrition and movement
 together through theory chapters plus piloted stage-coded
 "active works" (aktiivtööd), including Estonia's own food
 pyramid, plate rule and traffic-light table.
+
+**Health expansion — Vietnam — BUILT 2026-11-16:** 39 placements
+stocked into existing lessons — no new lessons, this course
+stays at **54 lessons**. All 39 are from Vietnam's GDTC
+(Giáo dục thể chất) student books (Vietnamese, Nhà xuất bản
+Giáo dục Việt Nam, all read COMPLETE): Hardening the Body
+(19), Staying Safe While Exercising (8), Hygiene for Sport
+(3), Preventing Sports Injuries and First Aid (3), Paying
+Attention and Crossing the Road Safely (2), Common Illnesses
+and Caring for the Sick (1), Keeping My Body Clean (1),
+Eating a Balanced Diet (1) and What Health Is (1). The
+HELD-title-decision placements are resolved by the slug
+registry (Part 2B: Hardening the Body ×19, Keeping My Body
+Clean ×1, Eating a Balanced Diet ×1, What Health Is ×1);
+`staying-safe/preventing-sports-injuries` (×3) and
+`staying-safe/common-childhood-illnesses-and-prevention`
+(×1) are resolved by registry Part 2A to the existing
+Preventing Sports Injuries and First Aid and Common
+Illnesses and Caring for the Sick lessons; the remaining
+placements were filed under their lessons' own slugs.
+All Vietnam books are STUDENT books, so Vietnam is
+student-book stock, inside the acceptance counts, in every
+lesson it touches (Hardening the Body rose from 2 to 3
+countries; Staying Safe While Exercising 14 to 15; Hygiene
+for Sport 8 to 9; Preventing Sports Injuries and First Aid
+17 to 18; Paying Attention and Crossing the Road Safely
+2 to 3; Common Illnesses and Caring for the Sick 4 to 5;
+Keeping My Body Clean 8 to 9; Eating a Balanced Diet 13 to
+14; What Health Is 7 to 8). 21 further Vietnam placements
+were NOT stocked in this course: the slug registry
+(Part 2B) resolves every one to the PE course's Sports
+Nutrition and Hydration lesson
+(`fitness-and-stretching/sports-nutrition-and-hydration`) —
+Grade 5 GDTC 5 §§I–II (printed pp. 4–7), Grade 6 GDTC 6
+§§1–3 (pp. 4–6), Grade 8 GDTC 8 §§1–4 (pp. 4–8), Grade 9
+GDTC 9 §2 (pp. 8–10), Grade 10 Volleyball §§III.1–2
+(pp. 6–9), Grade 10 Football §§II.1–4 (pp. 7–10), Grade 11
+Volleyball §§2.1–2.5 (pp. 6–8), Grade 11 Football §§2a–c
+(pp. 6–9), Grade 11 Badminton §§2a–c (pp. 6–8), Grade 12
+Volleyball §§2.1–2.2 (pp. 7–10) and Grade 12 Football §2b
+(pp. 11–14). Verified by git grep on origin/main, Vietnam
+has NO rows in that PE lesson's sources, so these 21 are
+NOT stocked anywhere and are named here plainly for a PE
+fix-up. Shared-text notes are kept as filed: the Grade 12
+Phần Một general-knowledge part is shared by all four
+Grade 12 elective-sport books and is filed once in the
+Grade 12 Volleyball book header and cross-named in the
+others, and the Grade 11 sport books share their
+general-knowledge text, with each author team's own text
+filed in its own right. Vietnam's own way is content, as
+the placements file records it: Vietnam's records are all
+PE-course records, but the primary PE books open with a
+"general knowledge" part (hygiene and preparation) and
+carry safety teaching (water safety, traffic-signal games),
+and the secondary books carry a shared general-knowledge
+part on natural factors and nutrition for training.

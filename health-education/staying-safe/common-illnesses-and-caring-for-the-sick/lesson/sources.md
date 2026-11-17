@@ -1,8 +1,8 @@
 # Sources — Common Illnesses and Caring for the Sick
 
-countries: Zambia, Timor-Leste, Philippines, Pakistan, Iran
+countries: Zambia, Timor-Leste, Philippines, Pakistan, Iran, Vietnam
 
-**Acceptance count: taught in 4 countries.** Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Pakistan is added as student-book stock (see its Pakistan section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count.
+**Acceptance count: taught in 5 countries.** Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Pakistan is added as student-book stock (see its Pakistan section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Vietnam is added as student-book stock (see its Vietnam section below), inside the acceptance count.
 
 **Book 1 — Health Teacher Training, Participants Manual 2025 (teacher training manual, English):**
 - Title as printed: Health Teacher Training — Participants Manual (LB)
@@ -135,4 +135,24 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/iran-health-
 
 Iran is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the acceptance count rises from 3 to 4 countries. The Iran placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved to this lesson by the slug registry (Part 2B for HELD-title-decision lines, Part 2A for descriptive slug strings; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Iran's own way is content, as the book lines above record it: one compulsory Grade 12 health course for every stream with prevention ranked above treatment and self-care at the centre, health defined with physical, mental-emotional, family-social and spiritual dimensions with Avicenna and Nahj al-Balagha set beside the WHO definition, family health taught as a certified carer's competencies, childcare health taught as environmental inspection, and health inside science for the youngest and for special-needs pupils. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: common illnesses and caring for the sick, malaria nets spraying, worm infestations bilharzia schistosomiasis intestinal worms deworming, diarrhoeal diseases dehydration oral rehydration, acute respiratory tract infections ARTI, tuberculosis coughing treatment support stigma, eye ear skin infections urinary tract infection meningitis mumps, Zambia Health Teacher Training Manual 2025, diarrhoea what it is how it is treated, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, common skin diseases in adolescence, skin diseases prevention control facts vs myths, Philippines Grade 7 Health LM, hepatitis B and C, liver inflammation, athlete's foot, fungal foot disease, Pakistan Grades 7 8 Sehat-o-Jismani Taleem, Iran
+
+## Vietnam — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-health-placements.md. 1 Vietnam placement(s) stocked in this lesson. All Vietnam books are STUDENT books, read COMPLETE, so Vietnam is filed as student-book stock, inside the acceptance count. The placements filed under descriptive slug strings are resolved by registry Part 2A to this canonical lesson; placements filed directly under this lesson's own slug are recorded as filed. The original string is recorded in each provenance row below.
+
+**Book 3 — GDTC 3 / PE Grade 3 (student book, Vietnamese):**
+- Title as printed: Giáo dục thể chất 3 (Kết nối tri thức với cuộc sống)
+- Grade: 3 (student/teacher: STUDENT)
+- Publisher: Nhà xuất bản Giáo dục Việt Nam; year ©2022, 4th reprint; ISBN 978-604-0-30701-9
+- PDF pages: 98 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 3 placements — 3 to existing lessons, 0 NEW LESSON NEEDED
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/vietnam-health-placements.md (Book 3 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam — Phần 1 Kiến thức chung II, Những yếu tố môi trường tự nhiên có hại trong tập luyện — how a bad exercise environment makes children ill: polluted air brings respiratory diseases (rhinitis, asthma, pneumonia, colds and flu); harsh sun, darkness and damp bring eye and skin diseases; polluted water brings skin disease, diarrhoea, worms and sore eyes; uneven polluted ground brings injuries and skin and breathing diseases (original string `staying-safe/common-childhood-illnesses-and-prevention`) | Vietnam Grade 3 GDTC 3, printed pp. 6–7 |
+
+Vietnam is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the acceptance count rises from 4 to 5 countries. Vietnam's own way is content, as the placements file records it: Vietnam's records are all PE-course records, but the primary PE books open with a "general knowledge" part (hygiene and preparation) and carry safety teaching (water safety, traffic-signal games), and the secondary GDTC books carry a shared general-knowledge part on natural factors and nutrition for training. This lesson teaches its Vietnam placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: common illnesses and caring for the sick, malaria nets spraying, worm infestations bilharzia schistosomiasis intestinal worms deworming, diarrhoeal diseases dehydration oral rehydration, acute respiratory tract infections ARTI, tuberculosis coughing treatment support stigma, eye ear skin infections urinary tract infection meningitis mumps, Zambia Health Teacher Training Manual 2025, diarrhoea what it is how it is treated, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, common skin diseases in adolescence, skin diseases prevention control facts vs myths, Philippines Grade 7 Health LM, hepatitis B and C, liver inflammation, athlete's foot, fungal foot disease, Pakistan Grades 7 8 Sehat-o-Jismani Taleem, Iran, Vietnam, Vietnam GDTC, Giáo dục thể chất
