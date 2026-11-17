@@ -1,0 +1,9 @@
+# Video script — Our Rights and Duties
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). This script is full: the placements name a video-script need for this lesson. Made later, when videos are made; the script is the slot's written form until then.
+
+---
+
+Maldives Grade 4 Exploring Social Studies 4 (printed p. 133), teaches: Rules keep order and harmony for the common good; children's rights (to learn, to be safe, to be healthy); responsibilities at home, school and in the community — the three fit together like puzzle pieces.
+
+Maldives's own way: belonging widens in rings — me, family, school, island, atoll, country, world — and citizenship is taught through the island itself: its councilors, its roads, its flag and its crafts.
