@@ -1,6 +1,6 @@
 # Sources — My Family and Relatives
 
-countries: Vanuatu, Serbia, Oman, North Macedonia
+countries: Vanuatu, Serbia, Oman, North Macedonia, Angola
 
 **Book 1:** *Citoyenneté Sociale, Guide Pédagogique, Années 1 à 6* (teacher guide, French) — Communauté du Pacifique (SPC) and Ministry of Education and Training, Government of Vanuatu; Suva, 2019; ISBN 978-982-00-1158-8; authors Carol Young and Bridget Glasgow with the Vanuatu Curriculum Development Unit. Title as printed: Citoyenneté Sociale — Guide Pédagogique, Années 1 à 6 (Social Citizenship — Teachers Guide, Years 1–6). Grade: Years 1–6 (student/teacher: TEACHER). PDF pages: 35 printed pages (read in full through the Pacific Data Hub's own page text, 2026-11-17: direct PDF download is blocked by the host's bot check — three routes tried: plain curl and browser-UA curl both returned the "Just a moment" challenge page; the hub's text fetch succeeded. No PDF file was obtained, so nothing is staged for this book). Earlier waves: not read before. Verdict: COMPLETE — civics-type teacher guide read in full; placements are the guide's own teaching content, marked TEACHER (the guide carries the themes' substance, not just pupil-book answers). Contents map: Civics/Citizenship/Morals pp. 1–29 (why teach social citizenship; themes T1–T3); learner-centred teaching strategies p. 30 (apparatus, not placed); Glossary p. 31 (inventory only, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/vanuatu-placements.md. Teacher guide — evidence only, outside the acceptance count.
 
@@ -54,3 +54,17 @@ North Macedonia placements — Social Studies remaining strands (2026-11-17):
 North Macedonia's own way (Book 1): Society in Grade 2 is the child in three widening circles — school, home, settlement — and already runs a miniature democracy: the class community elects its president by secret ballot, sits in a pupil parliament, and learns decision-making, equality and respect as daily school practice, in a multi-ethnic classroom cast (Macedonian, Albanian and other names throughout).
 
 Registry note: the original coined string `first-steps/my-extended-family` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/my-family-and-relatives`.
+
+Angola placements — Social Studies remaining strands (2026-11-17):
+
+**Book 6:** *Estudo do Meio | Manual da 2.ª Classe* (student book, Portuguese) — Title as printed: Estudo do Meio | Manual da 2.ª Classe. Grade: 2 (student/teacher: STUDENT). Publisher: Editora das Letras (República de Angola, Ministério da Educação); year 2021; ISBN on title page (barcode 978989762…). PDF pages: 81 (cover/title page verified against the record title; 12,773,294 bytes from the recorded source_url). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Integrated SS pp. 25–30 (Tema 2 family), pp. 31–34 (Tema 3 housing), pp. 35–42 (Tema 4 school), pp. 75–76 (Tema 9 work), pp. 77–79 (Tema 10 transport and communications); Morals/Values pp. 19–23 (safety on the public road, inside Tema 1); Science pp. 13–18, 57–66 (body, plants — named, not placed), pp. 67–74 (animals — named, not placed); Health pp. 16–24 (body care and diseases of my environment — named, not placed), pp. 43–52 (Tema 5 food — named, not placed), pp. 53–56 (Tema 6 clothing — named, not placed) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/angola-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Angola part — first-steps/kinship-relations-who-is-related-to-me — Tema 2 Relações de parentesco — teaches: kinship relations — parents, grandparents (maternal and paternal), uncles and cousins are our closest relatives, and several relatives may live in one house — Angola Grade 2 Estudo do Meio G2, printed p. 27 | Angola, *Estudo do Meio G2* (student book), Tema 2 Relações de parentesco — printed p. 27 |
+
+**Acceptance count: taught in 3 countries (Serbia, North Macedonia, Angola). Vanuatu is named here as teacher-guide evidence only, counted nowhere. Oman is named here as teacher-guide evidence only, counted nowhere.**
+
+Angola's own way (Book 6): Grade 2 widens each Grade 1 topic by one step — the family gains kinship names and needs, the school gains its parts and the care of school materials, and the book closes with two short themes that are pure community life: work, and transport and communications.
+
+Registry note: the original coined string `first-steps/kinship-relations-who-is-related-to-me` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/my-family-and-relatives`.

@@ -1,6 +1,6 @@
 # Sources — Public Services And The People Who Provide Them
 
-countries: Honduras, Sweden, Bahrain, Philippines, Haiti, Ecuador, Yemen, Afghanistan, Somalia, Mexico, Uganda, Fiji, Oman, Syria, Morocco, India
+countries: Honduras, Sweden, Bahrain, Philippines, Haiti, Ecuador, Yemen, Afghanistan, Somalia, Mexico, Uganda, Fiji, Oman, Syria, Morocco, India, Angola
 
 **Book 1:** *Libro para Estudiantes del área de Ciencias Sociales — Primer grado de Educación Básica (cover: 'Ciencias Sociales — Primer grado — Libro para Estudiantes')* (student book, Spanish) — Universidad Pedagógica Nacional Francisco Morazán (UPNFM), elaborated for the Secretaría de Estado en el Despacho de Educación de Honduras; preliminary edition (Edición Preliminar) 2020 as printed on the credits page; no ISBN printed. Title as printed: Libro para Estudiantes del área de Ciencias Sociales — Primer grado de Educación Básica (cover: 'Ciencias Sociales — Primer grado — Libro para Estudiantes'). Grade: Grade 1 (student/teacher: STUDENT). PDF pages: 182 (cover/title page verified against the record title; read from the recorded ministry source educatrachos.hn, 66,184,073 bytes, SHA-256 prefix 1c4e29b7525c2dd3). Verdict: COMPLETE. History/Civics parts NOT placed (named for later waves): Bloque 1 'La persona y su ser social' (personal/social and civics formation, printed pp. 10–46); Bloque 3 'Las sociedades y el tiempo social' (History, printed pp. 94–134); Bloque 4 lessons not placed above (social organisation, authorities, laws and demands — Civics, printed pp. 138 onwards). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/honduras-placements.md.
 
@@ -170,3 +170,15 @@ India placements — Social Studies remaining strands (2026-11-17):
 India's own way (Social and Political Life-II, Grade 7): Equality is taught through real lives — a domestic worker voting, a Dalit writer made to sweep his school, a Muslim couple refused a flat — and government through one running case (a diarrhoea outbreak in a fictional district) that forces every institution to act.
 
 India's own way (Looking Around (EVS), Grade 3): the child's own family is the first school — relations, pet names, family work and respect for elders are learned at home before any classroom; and every neighbourhood trade, from dhobi to traffic policeman, is shown as work of equal worth.
+
+Angola placements — Social Studies remaining strands (2026-11-17):
+
+**Book 24:** *Estudo do Meio — 4.ª Classe* (student book, Portuguese) — Title as printed: Estudo do Meio — 4.ª Classe. Grade: 4 (student/teacher: STUDENT). Publisher: Tangente MB (República de Angola, Ministério da Educação); year 2021; ISBN on back cover (barcode 978989…). PDF pages: 97 (cover/title page verified against the record title; 11,844,617 bytes from the recorded source_url; the back cover itself teaches the flag: its description and meaning are printed there). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Integrated SS pp. 54–69 (Tema 3 social services and quality of life — services, quality of life, culture, sport, transport, communication, basic sanitation, water); Science pp. 8–37 (Tema 1 human body — named, not placed), pp. 70–83 (Tema 4 natural environment and pollution — named, not placed); Economics pp. 38–53 (Tema 2 economic activities of the country: agriculture, fishing, industry — named, not placed); History pp. 84–96 (Tema 4 retrospective: first peoples, migrations, the country's historical past, historic places — named, not placed); PE/Health p. 58 (sport, inside Tema 3 — named, the PE course's, not placed) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/angola-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Angola part — first-steps/public-services-and-the-people-who-provide-them — Tema 3 Serviços sociais — teaches: social services are provided by public institutions — buildings that belong to no private person but serve everyone — and by private institutions serving the population — Angola Grade 4 Estudo do Meio G4, printed p. 54 | Angola, *Estudo do Meio G4* (student book), Tema 3 Serviços sociais — printed p. 54 |
+
+**Acceptance count: taught in 12 countries (Honduras, Bahrain, Philippines, Ecuador, Yemen, Afghanistan, Mexico, Uganda, Fiji, Syria, India, Angola).**
+
+Angola's own way (Book 24): Grade 4 names the idea itself — instituições públicas: buildings that belong to no private person but serve everyone — and defines quality of life as a checklist a community can judge itself by (education, health, housing, food, hygiene, culture, leisure), ending on the shared duties of sanitation and water.

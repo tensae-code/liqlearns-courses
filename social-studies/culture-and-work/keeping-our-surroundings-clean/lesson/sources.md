@@ -1,6 +1,6 @@
 # Sources — Keeping Our Surroundings Clean
 
-countries: Vanuatu, Algeria, Sierra Leone, Libya, Serbia, Iraq, Kazakhstan
+countries: Vanuatu, Algeria, Sierra Leone, Libya, Serbia, Iraq, Kazakhstan, Angola
 
 **Book 1:** *Citoyenneté Sociale, Guide Pédagogique, Années 1 à 6* (teacher guide, French) — Communauté du Pacifique (SPC) and Ministry of Education and Training, Government of Vanuatu; Suva, 2019; ISBN 978-982-00-1158-8; authors Carol Young and Bridget Glasgow with the Vanuatu Curriculum Development Unit. Title as printed: Citoyenneté Sociale — Guide Pédagogique, Années 1 à 6 (Social Citizenship — Teachers Guide, Years 1–6). Grade: Years 1–6 (student/teacher: TEACHER). PDF pages: 35 printed pages (read in full through the Pacific Data Hub's own page text, 2026-11-17: direct PDF download is blocked by the host's bot check — three routes tried: plain curl and browser-UA curl both returned the "Just a moment" challenge page; the hub's text fetch succeeded. No PDF file was obtained, so nothing is staged for this book). Earlier waves: not read before. Verdict: COMPLETE — civics-type teacher guide read in full; placements are the guide's own teaching content, marked TEACHER (the guide carries the themes' substance, not just pupil-book answers). Contents map: Civics/Citizenship/Morals pp. 1–29 (why teach social citizenship; themes T1–T3); learner-centred teaching strategies p. 30 (apparatus, not placed); Glossary p. 31 (inventory only, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/vanuatu-placements.md. Teacher guide — evidence only, outside the acceptance count.
 
@@ -84,3 +84,17 @@ Kazakhstan placements — Social Studies remaining strands (2026-11-17):
 Kazakhstan's own way (Book 3): the NIS telling names things the Atamura book leaves general — citizenship by birth with rights and duties quoted from the Constitution itself (including Article 34's duty to respect the state symbols), the Kazakh custom of asar (the whole village doing unpaid work too heavy for one person) set beside modern volunteering, and the school collective drawn as a full staff chart from director to janitor.
 
 Registry note: the original coined string `first-steps/public-places-and-keeping-shared-places-clean` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/keeping-our-surroundings-clean`.
+
+Angola placements — Social Studies remaining strands (2026-11-17):
+
+**Book 11:** *Estudo do Meio — 4.ª Classe* (student book, Portuguese) — Title as printed: Estudo do Meio — 4.ª Classe. Grade: 4 (student/teacher: STUDENT). Publisher: Tangente MB (República de Angola, Ministério da Educação); year 2021; ISBN on back cover (barcode 978989…). PDF pages: 97 (cover/title page verified against the record title; 11,844,617 bytes from the recorded source_url; the back cover itself teaches the flag: its description and meaning are printed there). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Integrated SS pp. 54–69 (Tema 3 social services and quality of life — services, quality of life, culture, sport, transport, communication, basic sanitation, water); Science pp. 8–37 (Tema 1 human body — named, not placed), pp. 70–83 (Tema 4 natural environment and pollution — named, not placed); Economics pp. 38–53 (Tema 2 economic activities of the country: agriculture, fishing, industry — named, not placed); History pp. 84–96 (Tema 4 retrospective: first peoples, migrations, the country's historical past, historic places — named, not placed); PE/Health p. 58 (sport, inside Tema 3 — named, the PE course's, not placed) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/angola-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Angola part — culture-and-work/basic-sanitation-and-a-clean-community — Tema 3 Saneamento básico — teaches: basic sanitation — the community's shared cleanliness systems and every person's part in them — Angola Grade 4 Estudo do Meio G4, printed p. 65 | Angola, *Estudo do Meio G4* (student book), Tema 3 Saneamento básico — printed p. 65 |
+
+**Acceptance count: taught in 6 countries (Algeria, Libya, Serbia, Iraq, Kazakhstan, Angola). Vanuatu's and Sierra Leone's parts are teacher-guide evidence only, named here, counted nowhere.**
+
+Angola's own way (Book 11): Grade 4 names the idea itself — instituições públicas: buildings that belong to no private person but serve everyone — and defines quality of life as a checklist a community can judge itself by (education, health, housing, food, hygiene, culture, leisure), ending on the shared duties of sanitation and water.
+
+Registry note: the original coined string `culture-and-work/basic-sanitation-and-a-clean-community` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/keeping-our-surroundings-clean`.

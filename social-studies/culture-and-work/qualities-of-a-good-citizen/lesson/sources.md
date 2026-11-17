@@ -1,6 +1,6 @@
 # Sources — Qualities of a Good Citizen
 
-countries: Yemen, Eritrea
+countries: Yemen, Eritrea, Angola
 
 **Book 1:** *التربية الوطنية للصف السادس من مرحلة التعليم الأساسي (National Education for Grade 6 of Basic Education)* (student book, Arabic) — Republic of Yemen, Ministry of Education; year 1443 AH / 2021 CE (cover print); ISBN no ISBN printed. Title as printed: التربية الوطنية للصف السادس من مرحلة التعليم الأساسي (National Education for Grade 6 of Basic Education). Grade: 6 (student/teacher: STUDENT). PDF pages: 81 (cover/title page verified against the record title; 11,413,532 bytes, Wayback snapshot 20240711065747 of the recorded source_url). Earlier waves: not read before (no earlier wave held this civics book). Verdict: COMPLETE (full page-by-page read, civics track). Contents map: Integrated SS pp. 6–27 (Unit 1 the Yemeni family); Civics/Citizenship/Government pp. 40–58 (Unit 3 the Yemeni constitution); Morals/Values pp. 22–26 (family rights and duties), pp. 53–56 (qualities of the good citizen); Culture-in-society pp. 28–39 (Unit 2 the Yemeni tribe — its customs and its role in social peace); History pp. 59–77 (Unit 4 Yemeni figures: Imam al-Hadi ila al-Haqq, President Salih Ali al-Sammad, Jarallah Omar, the poet al-Hasan ibn Ali ibn Jabir al-Habal — named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/yemen-placements.md.
 
@@ -19,3 +19,16 @@ Yemen's own way (G6 National Education): Grade 6 National Education builds citiz
 Eritrea's own way (ER G6 Citizenship Education): a standalone Citizenship Education subject built entirely from Eritrean stories, poems and dialogues — responsibility is taught through a shop-queue drama and a family Tandoor day, the state through the 1993 referendum story, and patriotism as practical service (keeping the school clean, planting trees at the new clinic) that even a child can do.
 
 Searchable tags: qualities of a good citizen, Yemen, Eritrea, social studies, culture-and-work
+
+Angola placements — Social Studies remaining strands (2026-11-17):
+
+**Book 3:** *Educação Moral e Cívica — 5.ª Classe* (student book, Portuguese) — Title as printed: Educação Moral e Cívica — 5.ª Classe. Grade: 5 (student/teacher: STUDENT). Publisher: Progresso Editora (República de Angola, Ministério da Educação); year 2021 (series edition); ISBN no ISBN printed on the cover pages read. PDF pages: 110 (cover/title page verified against the record title; 1,580,326 bytes from the recorded source_url). Earlier waves: not read before. Verdict: COMPLETE (full page-by-page read, civics track). Contents map: Civics/Citizenship/Government pp. 49–51 (rights of the child), pp. 52–57 (living democratically), pp. 67–79 (traffic: pedestrians, drivers, signs), pp. 98–102 (registration, name, nationality, citizenship); Morals/Values pp. 8–38 (who I am and who others are; habits; moral qualities of the good citizen; human values), pp. 39–48 (rights of families); Culture-in-society pp. 11–16 (inheritances, family cultures), pp. 93–97 (my country, my cultural and linguistic identity); Conflict/Peace pp. 103–108 (national reconciliation in Angola); Integrated SS pp. 80–92 (school as a source of social progress); Health pp. 58–66 (diseases and collective health — named, the Health course's, not placed) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/angola-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Angola part — culture-and-work/qualities-of-a-good-citizen — Qualidades necessárias à vida social: as qualidades morais do bom cidadão — teaches: the moral qualities a good citizen needs for social life, analysed one by one — Angola Grade 5 Educação Moral e Cívica G5, printed p. 26 | Angola, *Educação Moral e Cívica G5* (student book), Qualidades necessárias à vida social: as qualidades morais do bom cidadão — printed p. 26 |
+| Angola part — culture-and-work/qualities-of-a-good-citizen — Comportamentos desejáveis — teaches: desirable behaviour in daily life — judging my own way of acting day by day and doing more at home — Angola Grade 5 Educação Moral e Cívica G5, printed p. 29 | Angola, *Educação Moral e Cívica G5* (student book), Comportamentos desejáveis — printed p. 29 |
+
+**Acceptance count: taught in 3 countries (Yemen, Eritrea, Angola).**
+
+Angola's own way (Book 3): a moral-and-civic book built on the child's own reflection — every unit opens with the pupil's own life (my habits, my family, my school) and only then names the rule; equality is taught straight from Angola's own Constitution (art. 23: all are equal before the Constitution and the law), and the book ends not on the state but on national reconciliation — building a better Angola, then a better world.

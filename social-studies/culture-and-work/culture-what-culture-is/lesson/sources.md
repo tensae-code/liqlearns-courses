@@ -1,6 +1,6 @@
 # Sources — Culture — what culture is
 
-countries: Ethiopia, Mongolia, Bahamas, Zimbabwe, Colombia, Kuwait, Jordan, Bhutan, Kiribati, Sierra Leone, Tanzania, Eritrea, Syria, Bangladesh
+countries: Ethiopia, Mongolia, Bahamas, Zimbabwe, Colombia, Kuwait, Jordan, Bhutan, Kiribati, Sierra Leone, Tanzania, Eritrea, Syria, Bangladesh, Angola
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -151,3 +151,15 @@ Colombia placements — Social Studies remaining strands (2026-11-17):
 
 Colombia's own way (Book 11): culture is taught through named Colombian expressions (Pasto's Carnaval de Negros y Blancos, Riosucio's Carnaval del Diablo, the Madre Monte myth) and through imagining life inside another Colombian culture — speaking Pamié or Tucano — while emotions and affection get a full primary unit of their own.
 
+
+Angola placements — Social Studies remaining strands (2026-11-17):
+
+**Book 26:** *Educação Moral e Cívica — 6.ª Classe (title page: Educação Moral e Cívica | Manual da 6.ª classe)* (student book, Portuguese) — Title as printed: Educação Moral e Cívica — 6.ª Classe (title page: Educação Moral e Cívica | Manual da 6.ª classe). Grade: 6 (student/teacher: STUDENT). Publisher: Tangente MB (República de Angola, Ministério da Educação); year 2021 (series edition); ISBN no ISBN printed on the cover pages read. PDF pages: 132 (cover/title page verified against the record title; 2,748,597 bytes from the recorded source_url). Earlier waves: not read before. Verdict: COMPLETE (full page-by-page read, civics track). Contents map: Civics/Citizenship/Government pp. 30–42 (Tema 3: rights and duties of citizens, the Angolan Constitution's guarantees, taxes as a duty), pp. 54–57 (we write our own class regulation), pp. 58–70 (building democracy, democratic habits and values, tolerance); Morals/Values pp. 8–14 (Tema 1 self and mutual knowledge), pp. 43–53 (emotions; freedom and responsibility), pp. 90–110 (Tema 6 interpersonal relations — respect, justice and injustice); Culture-in-society pp. 15–29 (Tema 2 cultural identity and diversity — origins of our culture, ancestors' customs, traditional festivals); Health pp. 71–89 (Temas 4–5 body in growth, puberty, growing with health — named, the Health course's, not placed); Environment pp. 111–131 (Tema 7 environmental education — named, not placed) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/angola-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Angola part — culture-and-work/culture-what-culture-is — Tema 2 §2.1 As origens da nossa cultura — teaches: the origins of our culture — culture is learned not only from books but from the family and the community where a person lives — Angola Grade 6 Educação Moral e Cívica G6, printed p. 15 | Angola, *Educação Moral e Cívica G6* (student book), Tema 2 §2.1 As origens da nossa cultura — printed p. 15 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, Mongolia, Bahamas, Colombia, Kuwait, Jordan, Bhutan, Tanzania, Eritrea, Syria, Bangladesh, Angola).**
+
+Angola's own way (Book 26): Grade 6 makes the pupils legislators of their own classroom — the class writes its own regulation (with a no-violence chapter) as the lived rehearsal for democracy — and teaches duties concretely, down to naming the taxes (IVA, income, property) and calling the non-payer a tax evader; tolerance is defined as the price of choosing democracy.

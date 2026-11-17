@@ -1,6 +1,6 @@
 # Sources — Human Values
 
-countries: Iraq
+countries: Iraq, Angola
 
 **Book 5:** *Social Studies for the Third Intermediate Grade* (student book, Arabic) — Title as printed: الاجتماعيات للصف الثالث المتوسط (Social Studies for the Third Intermediate Grade) Grade: 9 (student/teacher: STUDENT) Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 1445 AH / 2023 CE, 2nd edition; no ISBN printed. PDF pages: 160 (verified in this wave by own grab via the record's own Google Drive source file: 6,250,483 bytes, exactly the release record's size; pdfinfo 160 pages; cover rendered and seen — Republic of Iraq, Ministry of Education, Social Studies for the Third Intermediate Grade, 2nd edition, 1445/2023; the unit was read from the History wave's full-text extract of this same verified file; own PDF and cover render deleted after filing) Earlier waves: Geography wave placed Unit 1 (Iraq's geography) / History wave placed Unit 2 (modern and contemporary Iraq) / Economics wave placed the economic-activity segments inside Unit 1 (printed pp. 51–79) and the sustainable-development part at printed p. 152. Verdict: COMPLETE. Contents map: Geography pp. 5–79 (Unit 1 The natural and human characteristics of Iraq's geography); History pp. 80–136 (Unit 2 Modern and contemporary Iraq); Economics pp. 51–79 (segments inside Unit 1) and p. 152 (sustainable development, inside Unit 3 — placed by the Economics wave, not re-placed here); Civics pp. 138–159 (Unit 3 National and social values — Ch. 1 National values, social values and social relations pp. 138–145, Ch. 2 General social issues pp. 146–157); named, not placed: the unit's teaching-objectives page, printed p. 137; the environment-and-pollution section, printed p. 151 (Geography strand); the personal-cleanliness section, printed p. 153 (Health course); the landmines awareness notice, printed p. 150; the unit questions, printed p. 159 (assessment); the book's contents list, printed p. 160. Tally: 22 placements — 0 to existing lessons, 22 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/iraq-placements.md.
 
@@ -16,3 +16,17 @@ Iraq's own way (Book 5): values are defined first as a system — standards that
 Registry note: the original coined string `culture-and-work/what-values-are` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/human-values`.
 
 Searchable tags: human values, Iraq, social studies, culture-and-work
+
+Angola placements — Social Studies remaining strands (2026-11-17):
+
+**Book 2:** *Educação Moral e Cívica — 5.ª Classe* (student book, Portuguese) — Title as printed: Educação Moral e Cívica — 5.ª Classe. Grade: 5 (student/teacher: STUDENT). Publisher: Progresso Editora (República de Angola, Ministério da Educação); year 2021 (series edition); ISBN no ISBN printed on the cover pages read. PDF pages: 110 (cover/title page verified against the record title; 1,580,326 bytes from the recorded source_url). Earlier waves: not read before. Verdict: COMPLETE (full page-by-page read, civics track). Contents map: Civics/Citizenship/Government pp. 49–51 (rights of the child), pp. 52–57 (living democratically), pp. 67–79 (traffic: pedestrians, drivers, signs), pp. 98–102 (registration, name, nationality, citizenship); Morals/Values pp. 8–38 (who I am and who others are; habits; moral qualities of the good citizen; human values), pp. 39–48 (rights of families); Culture-in-society pp. 11–16 (inheritances, family cultures), pp. 93–97 (my country, my cultural and linguistic identity); Conflict/Peace pp. 103–108 (national reconciliation in Angola); Integrated SS pp. 80–92 (school as a source of social progress); Health pp. 58–66 (diseases and collective health — named, the Health course's, not placed) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/angola-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Angola part — culture-and-work/human-values-what-values-are — Valores humanos — teaches: human values — what values, habits and beliefs are, and how values guide the way a person lives — Angola Grade 5 Educação Moral e Cívica G5, printed p. 32 | Angola, *Educação Moral e Cívica G5* (student book), Valores humanos — printed p. 32 |
+
+**Acceptance count: taught in 2 countries (Iraq, Angola).**
+
+Angola's own way (Book 2): a moral-and-civic book built on the child's own reflection — every unit opens with the pupil's own life (my habits, my family, my school) and only then names the rule; equality is taught straight from Angola's own Constitution (art. 23: all are equal before the Constitution and the law), and the book ends not on the state but on national reconciliation — building a better Angola, then a better world.
+
+Registry note: the original coined string `culture-and-work/human-values-what-values-are` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/human-values`.

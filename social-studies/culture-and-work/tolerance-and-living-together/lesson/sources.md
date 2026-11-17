@@ -1,6 +1,6 @@
 # Sources — Tolerance and Living Together
 
-countries: Libya, Morocco
+countries: Libya, Morocco, Angola
 
 **Book 1:** *أنا المواطن (I Am the Citizen), National Education G5* (student book, Arabic) — Title as printed: أنا المواطن — كتاب التربية الوطنية للصف الخامس من مرحلة التعليم الأساسي (I Am the Citizen — National Education book for Grade 5 of basic education). Grade: 5 (student/teacher: STUDENT). Publisher: State of Libya, Ministry of Education — Curriculum and Educational Research Centre; year 2019–2020 / 1440–1441 AH; ISBN no ISBN printed on the cover pages read. PDF pages: 82 (cover rendered and verified against the record title; 15,170,496 bytes, Wayback capture 20211209161420 of the recorded source_url — image-only, read from page renders). Earlier waves: not read before. Verdict: COMPLETE (full page-by-page read, civics track). Contents map: Civics/Citizenship/Government Lesson 2 Libya is for all pp. 17–24, Lesson 3 equality pp. 26–32 (with the Universal Declaration of Human Rights); Culture-in-society Lesson 1 my country Libya pp. 8–16 (the regions' dress, dishes and customs); Morals/Values (Unit 2 "Human values") Lesson 4 justice pp. 33–42, Lesson 5 cooperation and solidarity pp. 43–52, Lesson 6 tolerance pp. 53–62; Conflict/Peace (Unit 3 "Living together") Lesson 7 accepting the other pp. 64–72, Lesson 8 the culture of dialogue pp. 73–82. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/libya-placements.md.
 
@@ -32,3 +32,17 @@ Morocco's own way (Book 1, Dalil Moufid Ijtiamiat 5e): Moroccan primary Social S
 
 Morocco's own way (Book 3, Fadaa Ijtiamiat 1AC): collège Social Studies carries a full Citizenship Education component built on ten value lessons in two axes — five personal-social values (dignity, freedom, equality, justice, solidarity), then tolerance, democracy, peace, the role of law, and a field visit to a human-rights institution — each lesson built from constitutional and international-charter texts.
 
+
+Angola placements — Social Studies remaining strands (2026-11-17):
+
+**Book 4:** *Educação Moral e Cívica — 6.ª Classe (title page: Educação Moral e Cívica | Manual da 6.ª classe)* (student book, Portuguese) — Title as printed: Educação Moral e Cívica — 6.ª Classe (title page: Educação Moral e Cívica | Manual da 6.ª classe). Grade: 6 (student/teacher: STUDENT). Publisher: Tangente MB (República de Angola, Ministério da Educação); year 2021 (series edition); ISBN no ISBN printed on the cover pages read. PDF pages: 132 (cover/title page verified against the record title; 2,748,597 bytes from the recorded source_url). Earlier waves: not read before. Verdict: COMPLETE (full page-by-page read, civics track). Contents map: Civics/Citizenship/Government pp. 30–42 (Tema 3: rights and duties of citizens, the Angolan Constitution's guarantees, taxes as a duty), pp. 54–57 (we write our own class regulation), pp. 58–70 (building democracy, democratic habits and values, tolerance); Morals/Values pp. 8–14 (Tema 1 self and mutual knowledge), pp. 43–53 (emotions; freedom and responsibility), pp. 90–110 (Tema 6 interpersonal relations — respect, justice and injustice); Culture-in-society pp. 15–29 (Tema 2 cultural identity and diversity — origins of our culture, ancestors' customs, traditional festivals); Health pp. 71–89 (Temas 4–5 body in growth, puberty, growing with health — named, the Health course's, not placed); Environment pp. 111–131 (Tema 7 environmental education — named, not placed) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/angola-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Angola part — culture-and-work/tolerance-respecting-different-ideas — Tema 3 §3.7 Quando sou tolerante, posso ser um bom democrata — teaches: tolerance — respecting and living with cultural diversity and different ideas, through open and sincere dialogue; tolerance is what makes a good democrat — Angola Grade 6 Educação Moral e Cívica G6, printed p. 64 | Angola, *Educação Moral e Cívica G6* (student book), Tema 3 §3.7 Quando sou tolerante, posso ser um bom democrata — printed p. 64 |
+
+**Acceptance count: taught in 3 countries (Libya, Morocco, Angola). Morocco's Book 1 part is teacher-guide evidence only; Morocco is counted here on its Book 3 student book.**
+
+Angola's own way (Book 4): Grade 6 makes the pupils legislators of their own classroom — the class writes its own regulation (with a no-violence chapter) as the lived rehearsal for democracy — and teaches duties concretely, down to naming the taxes (IVA, income, property) and calling the non-payer a tax evader; tolerance is defined as the price of choosing democracy.
+
+Registry note: the original coined string `culture-and-work/tolerance-respecting-different-ideas` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/tolerance-and-living-together`.

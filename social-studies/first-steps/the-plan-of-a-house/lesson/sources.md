@@ -1,6 +1,6 @@
 # Sources — The Plan Of A House
 
-countries: Iran, Serbia, North Macedonia
+countries: Iran, Serbia, North Macedonia, Angola
 
 **Book 1:** *مطالعات اجتماعی ـ سوم دبستان (Social Studies, Third Grade of Primary School)* (student book, Persian) — Ministry of Education, Organization for Educational Research and Planning (سازمان پژوهش و برنامه‌ریزی آموزشی); printed by the Offset Company (شرکت افست); 15th printing, 1405; ISBN 978-964-05-1915-8; book code 307. Title as printed: مطالعات اجتماعی ـ سوم دبستان (Social Studies, Third Grade of Primary School). Grade: 3 (student/teacher: STUDENT). PDF pages: 104 (printed pagination runs 6 behind the PDF pages: printed p. 82 = PDF p. 88; title page verified as above; read via the record's own GitHub blob URL through grab.py — the GitHub route, which had failed earlier in the day, worked on this retry). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iran-placements.md.
 
@@ -33,3 +33,15 @@ North Macedonia placements — Social Studies remaining strands (2026-11-17):
 **Acceptance count: taught in 3 countries (Iran, Serbia, North Macedonia).**
 
 North Macedonia's own way (Book 1): Society in Grade 2 is the child in three widening circles — school, home, settlement — and already runs a miniature democracy: the class community elects its president by secret ballot, sits in a pupil parliament, and learns decision-making, equality and respect as daily school practice, in a multi-ethnic classroom cast (Macedonian, Albanian and other names throughout).
+
+Angola placements — Social Studies remaining strands (2026-11-17):
+
+**Book 4:** *Estudo do Meio | Manual da 1.ª Classe* (student book, Portuguese) — Title as printed: Estudo do Meio | Manual da 1.ª Classe. Grade: 1 (student/teacher: STUDENT). Publisher: Editora das Letras (República de Angola, Ministério da Educação); year 2021, 1st edition; ISBN 978-989-762-299-1. PDF pages: 77 (cover/title page verified against the record title; 10,378,281 bytes from the recorded source_url). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Integrated SS pp. 22–25 (Tema 2 family), pp. 26–33 (Tema 3 housing), pp. 34–45 (Tema 4 school), pp. 56–64 (Tema 7 safety); Morals/Values pp. 24–25 (living with others — respect for neighbours, friends and classmates); Science pp. 5–21 (Tema 1 my body and its health — named, Health course's, not placed), pp. 65–69 (Tema 8 plants — named, not placed), pp. 70–76 (Tema 9 animals — named, not placed); Health pp. 46–51 (Tema 5 food — named, not placed), pp. 52–55 (Tema 6 clothing — named, not placed) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/angola-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Angola part — first-steps/the-plan-of-a-house — Tema 3 Os compartimentos da habitação — teaches: the rooms of a house and what each is for — bedrooms, kitchen, bathroom, living room — Angola Grade 1 Estudo do Meio G1, printed p. 29 | Angola, *Estudo do Meio G1* (student book), Tema 3 Os compartimentos da habitação — printed p. 29 |
+
+**Acceptance count: taught in 4 countries (Iran, Serbia, North Macedonia, Angola).**
+
+Angola's own way (Book 4): Estudo do Meio teaches the child's world through one named child at a time (Vihemba and her extended family, Mário and his school) — family includes grandparents, uncles and cousins who come to live in the house, and the home is located by bairro, município, street and house number so the child never gets lost.

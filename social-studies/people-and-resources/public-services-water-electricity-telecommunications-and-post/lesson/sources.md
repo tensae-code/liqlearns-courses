@@ -1,6 +1,6 @@
 # Sources — Public Services Water Electricity Telecommunications And Post
 
-countries: Afghanistan, India
+countries: Afghanistan, India, Angola
 
 **Book 1:** *دروس اجتماعی برای صنف پنجم (Social Studies for Grade 5)* (student book, Dari) — Ministry of Education, Afghanistan; year 1399 HS (2020/21) as printed; ISBN no ISBN printed. Title as printed: دروس اجتماعی برای صنف پنجم (Social Studies for Grade 5). Grade: 5 (student/teacher: STUDENT). PDF pages: 109 (cover verified against the record title; 9,575,107 bytes = release asset size). Verdict: COMPLETE — combined Social Studies book: Geography/economic parts placed below; the society/civics parts are named here and NOT placed.. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/afghanistan-placements.md.
 
@@ -26,3 +26,15 @@ India placements — Social Studies remaining strands (2026-11-17):
 **Acceptance count: taught in 2 countries (Afghanistan, India).**
 
 India's own way (Looking Around (EVS), Grade 3): the child's own family is the first school — relations, pet names, family work and respect for elders are learned at home before any classroom; and every neighbourhood trade, from dhobi to traffic policeman, is shown as work of equal worth.
+
+Angola placements — Social Studies remaining strands (2026-11-17):
+
+**Book 2:** *Estudo do Meio — 4.ª Classe* (student book, Portuguese) — Title as printed: Estudo do Meio — 4.ª Classe. Grade: 4 (student/teacher: STUDENT). Publisher: Tangente MB (República de Angola, Ministério da Educação); year 2021; ISBN on back cover (barcode 978989…). PDF pages: 97 (cover/title page verified against the record title; 11,844,617 bytes from the recorded source_url; the back cover itself teaches the flag: its description and meaning are printed there). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Integrated SS pp. 54–69 (Tema 3 social services and quality of life — services, quality of life, culture, sport, transport, communication, basic sanitation, water); Science pp. 8–37 (Tema 1 human body — named, not placed), pp. 70–83 (Tema 4 natural environment and pollution — named, not placed); Economics pp. 38–53 (Tema 2 economic activities of the country: agriculture, fishing, industry — named, not placed); History pp. 84–96 (Tema 4 retrospective: first peoples, migrations, the country's historical past, historic places — named, not placed); PE/Health p. 58 (sport, inside Tema 3 — named, the PE course's, not placed) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/angola-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Angola part — people-and-resources/public-services-water-electricity-telecommunications-and-post — Tema 3 Água — teaches: water as a public service and a shared duty — if everyone has drinking water few fall ill, and everyone must help conserve and preserve water — Angola Grade 4 Estudo do Meio G4, printed p. 66 | Angola, *Estudo do Meio G4* (student book), Tema 3 Água — printed p. 66 |
+
+**Acceptance count: taught in 3 countries (Afghanistan, India, Angola).**
+
+Angola's own way (Book 2): Grade 4 names the idea itself — instituições públicas: buildings that belong to no private person but serve everyone — and defines quality of life as a checklist a community can judge itself by (education, health, housing, food, hygiene, culture, leisure), ending on the shared duties of sanitation and water.

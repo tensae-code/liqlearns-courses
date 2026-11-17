@@ -1,6 +1,6 @@
 # Sources — Families Can Be Different
 
-countries: Bahamas, Colombia, India
+countries: Bahamas, Colombia, India, Angola
 
 **Book 1:** *Social Science — Grade 1 (Lower Primary Social Science Content Notes, Version 2, January 2024)* (student book, English) — Bahamas Ministry of Education; year 2024; ISBN no ISBN printed. Title as printed: Social Science — Grade 1 (Lower Primary Social Science Content Notes, Version 2, January 2024). Grade: Grade 1 (student/teacher: STUDENT). PDF pages: 49 (verified first-hand in the retry pass: complete file, 26,948,940 bytes, trailer present, cover and credits pages match the record — MOETVT, coordinator Vanria L. Jack, Version 2, January 2024). Earlier waves: Geography wave placed the Geography/Science parts (17 placements, incl. Transportation p. 30 and Protecting the Environment pp. 36–37); History wave placed 4 history-scope placements; Economics wave filed RECORD-ONLY — no Economics parts, and enumerated all 29 topics with page spans (Civics pp. 16, 23–30). Verdict: COMPLETE — upgraded from PARTIAL in the retry pass (2026-11-17); the whole book was read first-hand and every placement below was re-verified against the real book, with page citations corrected to the book's own printed pages. Contents map: Integrated SS / Civics pp. 16–30 (I Have Rights and Responsibilities p. 16; Families are Special pp. 17–18; Leaders p. 23; The Bahamas, My Country p. 24; Our Culture p. 25; Being a Peaceful Citizen pp. 26–27; I Can Help, Too! pp. 28–29; Transportation p. 30 — placed by the Geography wave); Religion pp. 4–6, 19–22, 42–47; Health/self pp. 7–18; Science/Geography pp. 30–41, 48; Economics parts: none. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/bahamas-placements.md.
 
@@ -55,3 +55,17 @@ India's own way (Looking Around (EVS), Grade 3): the child's own family is the f
 India's own way (Looking Around (EVS), Grade 4): families change for named reasons — a baby arrives, a father's job transfers the family, a wedding joins two homes — and the law itself enters the child's world: the panchayat sends married girls back to school.
 
 Registry note: the original coined string `first-steps/changing-families` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/families-can-be-different`.
+
+Angola placements — Social Studies remaining strands (2026-11-17):
+
+**Book 4:** *Educação Moral e Cívica — 5.ª Classe* (student book, Portuguese) — Title as printed: Educação Moral e Cívica — 5.ª Classe. Grade: 5 (student/teacher: STUDENT). Publisher: Progresso Editora (República de Angola, Ministério da Educação); year 2021 (series edition); ISBN no ISBN printed on the cover pages read. PDF pages: 110 (cover/title page verified against the record title; 1,580,326 bytes from the recorded source_url). Earlier waves: not read before. Verdict: COMPLETE (full page-by-page read, civics track). Contents map: Civics/Citizenship/Government pp. 49–51 (rights of the child), pp. 52–57 (living democratically), pp. 67–79 (traffic: pedestrians, drivers, signs), pp. 98–102 (registration, name, nationality, citizenship); Morals/Values pp. 8–38 (who I am and who others are; habits; moral qualities of the good citizen; human values), pp. 39–48 (rights of families); Culture-in-society pp. 11–16 (inheritances, family cultures), pp. 93–97 (my country, my cultural and linguistic identity); Conflict/Peace pp. 103–108 (national reconciliation in Angola); Integrated SS pp. 80–92 (school as a source of social progress); Health pp. 58–66 (diseases and collective health — named, the Health course's, not placed) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/angola-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Angola part — first-steps/my-family-and-other-families — A minha família e outras famílias — teaches: my family has its own culture — proverbs carrying moral lessons, typical dishes, valued customs — and other families have theirs — Angola Grade 5 Educação Moral e Cívica G5, printed p. 12 | Angola, *Educação Moral e Cívica G5* (student book), A minha família e outras famílias — printed p. 12 |
+
+**Acceptance count: taught in 4 countries (Bahamas, Colombia, India, Angola).**
+
+Angola's own way (Book 4): a moral-and-civic book built on the child's own reflection — every unit opens with the pupil's own life (my habits, my family, my school) and only then names the rule; equality is taught straight from Angola's own Constitution (art. 23: all are equal before the Constitution and the law), and the book ends not on the state but on national reconciliation — building a better Angola, then a better world.
+
+Registry note: the original coined string `first-steps/my-family-and-other-families` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/families-can-be-different`.

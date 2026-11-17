@@ -1,6 +1,6 @@
 # Sources — Rules and Norms for Living Together
 
-countries: Panama, Ecuador, Colombia
+countries: Panama, Ecuador, Colombia, Angola
 
 **Book 2:** *Ciencias Sociales 1 — Cuaderno de trabajo — Primer grado* (student workbook, Spanish) — Ministerio de Educación de Panamá; year 2020; no ISBN printed. Title as printed: Ciencias Sociales 1 — Cuaderno de trabajo — Primer grado (Meduca, "Conéctate en casa" series). Grade: Grade 1 (student/teacher: STUDENT). PDF pages: 52 (downloaded via the Wayback capture of 2022-11-16 of the recorded Meduca file — the direct guias.meduca.gob.pa route failed repeatedly from this egress; cover and index verified against the record). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Integrated SS — Área 1 Naturaleza y sociedad en el espacio (family, family work) printed pp. 6–14; Área 2 Dinámica e interacción con el ambiente (housing, transport and communication) printed pp. 15–25; Civics — Área 3 Convivencia armónica (community living rules, duties and rights) printed pp. 26–37; History — Área 4 Acontecimientos históricos de los pueblos (community and national history, fiestas patrias) printed pp. 38–47 (named, not placed). Staged under the new rule: grade-01/gov/panama/social-studies/student/ciencias-sociales-1-cuaderno-de-trabajo.pdf (10,944,762 B as replayed) + books.json record. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/panama-placements-b.md.
 
@@ -41,3 +41,17 @@ Colombia's own way (Book 4): the Constitution is read directly — pupils explai
 
 Registry note: the original coined string `culture-and-work/norms-agreements-for-living-together` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/rules-and-norms-for-living-together`.
 
+
+Angola placements — Social Studies remaining strands (2026-11-17):
+
+**Book 5:** *Educação Moral e Cívica — 5.ª Classe* (student book, Portuguese) — Title as printed: Educação Moral e Cívica — 5.ª Classe. Grade: 5 (student/teacher: STUDENT). Publisher: Progresso Editora (República de Angola, Ministério da Educação); year 2021 (series edition); ISBN no ISBN printed on the cover pages read. PDF pages: 110 (cover/title page verified against the record title; 1,580,326 bytes from the recorded source_url). Earlier waves: not read before. Verdict: COMPLETE (full page-by-page read, civics track). Contents map: Civics/Citizenship/Government pp. 49–51 (rights of the child), pp. 52–57 (living democratically), pp. 67–79 (traffic: pedestrians, drivers, signs), pp. 98–102 (registration, name, nationality, citizenship); Morals/Values pp. 8–38 (who I am and who others are; habits; moral qualities of the good citizen; human values), pp. 39–48 (rights of families); Culture-in-society pp. 11–16 (inheritances, family cultures), pp. 93–97 (my country, my cultural and linguistic identity); Conflict/Peace pp. 103–108 (national reconciliation in Angola); Integrated SS pp. 80–92 (school as a source of social progress); Health pp. 58–66 (diseases and collective health — named, the Health course's, not placed) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/angola-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Angola part — culture-and-work/rules-for-living-together-in-a-democracy — Conviver democraticamente: as regras de convivência na sociedade democrática — teaches: the rules for living together in a democratic society — the shared rules that let different people live side by side — Angola Grade 5 Educação Moral e Cívica G5, printed p. 52 | Angola, *Educação Moral e Cívica G5* (student book), Conviver democraticamente: as regras de convivência na sociedade democrática — printed p. 52 |
+
+**Acceptance count: taught in 4 countries (Panama, Ecuador, Colombia, Angola).**
+
+Angola's own way (Book 5): a moral-and-civic book built on the child's own reflection — every unit opens with the pupil's own life (my habits, my family, my school) and only then names the rule; equality is taught straight from Angola's own Constitution (art. 23: all are equal before the Constitution and the law), and the book ends not on the state but on national reconciliation — building a better Angola, then a better world.
+
+Registry note: the original coined string `culture-and-work/rules-for-living-together-in-a-democracy` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/rules-and-norms-for-living-together`.

@@ -1,6 +1,6 @@
 # Sources — Culture — culture and identity
 
-countries: Ethiopia, Niue, Mongolia, Ecuador, Jamaica, Bangladesh, Dominican Republic, Bahamas, Samoa, Zimbabwe, Colombia, Slovenia, Venezuela, Mauritania, Kuwait, Honduras, Nepal, Jordan, Nicaragua, Bhutan, Greece, Maldives, Tonga, Haiti, Tanzania, Mexico, Fiji, Guatemala, India
+countries: Ethiopia, Niue, Mongolia, Ecuador, Jamaica, Bangladesh, Dominican Republic, Bahamas, Samoa, Zimbabwe, Colombia, Slovenia, Venezuela, Mauritania, Kuwait, Honduras, Nepal, Jordan, Nicaragua, Bhutan, Greece, Maldives, Tonga, Haiti, Tanzania, Mexico, Fiji, Guatemala, India, Angola
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -455,3 +455,15 @@ India placements — Social Studies remaining strands (2026-11-17):
 **Acceptance count: taught in 25 countries (Ethiopia, Niue, Mongolia, Ecuador, Bangladesh, Dominican Republic, Bahamas, Samoa, Colombia, Slovenia, Venezuela, Mauritania, Kuwait, Honduras, Nepal, Jordan, Nicaragua, Bhutan, Greece, Maldives, Tonga, Tanzania, Mexico, Fiji, India).**
 
 India's own way (Social and Political Life-I, Grade 6): Civics opens not with institutions but with the child's own classroom diversity, then builds government in widening rings — nation, panchayat village, district offices, city corporation — always through named people and a story (a sarpanch, a patwari, a waste-picker).
+
+Angola placements — Social Studies remaining strands (2026-11-17):
+
+**Book 83:** *Educação Moral e Cívica — 5.ª Classe* (student book, Portuguese) — Title as printed: Educação Moral e Cívica — 5.ª Classe. Grade: 5 (student/teacher: STUDENT). Publisher: Progresso Editora (República de Angola, Ministério da Educação); year 2021 (series edition); ISBN no ISBN printed on the cover pages read. PDF pages: 110 (cover/title page verified against the record title; 1,580,326 bytes from the recorded source_url). Earlier waves: not read before. Verdict: COMPLETE (full page-by-page read, civics track). Contents map: Civics/Citizenship/Government pp. 49–51 (rights of the child), pp. 52–57 (living democratically), pp. 67–79 (traffic: pedestrians, drivers, signs), pp. 98–102 (registration, name, nationality, citizenship); Morals/Values pp. 8–38 (who I am and who others are; habits; moral qualities of the good citizen; human values), pp. 39–48 (rights of families); Culture-in-society pp. 11–16 (inheritances, family cultures), pp. 93–97 (my country, my cultural and linguistic identity); Conflict/Peace pp. 103–108 (national reconciliation in Angola); Integrated SS pp. 80–92 (school as a source of social progress); Health pp. 58–66 (diseases and collective health — named, the Health course's, not placed) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/angola-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Angola part — culture-and-work/culture-and-identity — As minhas heranças e eu — teaches: heritage — everything each generation receives from grandparents, parents and the country's history: language, habits and values received inside the family, which bind a people together — Angola Grade 5 Educação Moral e Cívica G5, printed p. 11 | Angola, *Educação Moral e Cívica G5* (student book), As minhas heranças e eu — printed p. 11 |
+
+**Acceptance count: taught in 26 countries (Ethiopia, Niue, Mongolia, Ecuador, Bangladesh, Dominican Republic, Bahamas, Samoa, Colombia, Slovenia, Venezuela, Mauritania, Kuwait, Honduras, Nepal, Jordan, Nicaragua, Bhutan, Greece, Maldives, Tonga, Tanzania, Mexico, Fiji, India, Angola).**
+
+Angola's own way (Book 83): a moral-and-civic book built on the child's own reflection — every unit opens with the pupil's own life (my habits, my family, my school) and only then names the rule; equality is taught straight from Angola's own Constitution (art. 23: all are equal before the Constitution and the law), and the book ends not on the state but on national reconciliation — building a better Angola, then a better world.
