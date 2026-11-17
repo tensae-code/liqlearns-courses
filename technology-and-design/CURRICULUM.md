@@ -374,7 +374,84 @@ p. 11) — personal-care, plant-care and etiquette
 content, not technology teaching — and the book's own
 Appendix and cut-out templates (printed pp. 64–65).
 
-**Course totals: 78 lessons** — Technical Drawing 17 lessons
+## Gabon, Super Efficace Sciences teacher guides — Technologie strand (T&D expansion, stocked 2026-11-17)
+
+Stocked from Gabon's *Super Efficace en Biologie, Sciences
+Physiques, Technologie, TIC — Guide pédagogique* (EDIG /
+Édicef, Institut Pédagogique National, Gabon; © 2024,
+2024 edition, in French): 3e Année (64 PDF pp., verified
+byte size 1,385,512), 4e Année (60 PDF pp., verified byte
+size 1,366,088) and 5e Année (60 PDF pp., verified byte
+size 1,435,808), each read COMPLETE (Technologie lessons
+read in full, other strands skimmed for scope). These are
+combined Sciences teacher guides; only the **Technologie**
+strand is stocked here — the Biologie and Sciences
+physiques strands belong to the Science course and the
+TIC strand to the ICT course. All 29 placements were NEW
+LESSON NEEDED; each was resolved through the T&D slug
+registry to its canonical lesson and built new (21 new
+lessons; several canonical lessons carry 2–3 Gabon
+placements). Gabon does NOT count in the acceptance
+count (teacher guides = EVIDENCE only): every lesson
+below stands on teacher-guide evidence only (Gabon),
+named in its sources, counted nowhere.
+
+- **First Steps** (12 lessons, 13 questions each): The
+  function of a technical object (G3 Guide, printed
+  p. 13; G4 Guide, printed p. 13; G5 Guide, printed
+  p. 12); Making an object — the fan (éventail) (G3
+  Guide, printed p. 27); Energy used by a technical
+  object (G3 Guide, printed p. 40; G5 Guide, printed
+  p. 46); Tools and what they are for (G4 Guide, printed
+  p. 13); Parts and materials of a tool (G4 Guide,
+  printed p. 13); The design/study phase before making
+  (G4 Guide, printed p. 25); Making a technical object —
+  the sieve (tamis) and the checkerboard (damier) (G4
+  Guide, printed p. 25; G5 Guide, printed p. 34);
+  Joining and assembly in making (G4 Guide, printed
+  p. 25); Parts of an object and the function of each
+  part (ballpoint pen) (G4 Guide, printed p. 37);
+  Eco-design (G4 Guide, printed p. 59); Why maintain a
+  technical object (G5 Guide, printed p. 23); Giving an
+  object a second life (making from pallets) (G5 Guide,
+  printed p. 58).
+- **Design and Making** (1 lesson, 13 questions):
+  Taking an object apart and putting it back together —
+  the torch (lampe de poche) and demountable assembly
+  (G3 Guide, printed p. 51; G4 Guide, printed p. 36).
+- **Materials** (2 lessons, 13 questions each): The
+  life cycle of a product (G3 Guide, printed p. 62; G4
+  Guide, printed p. 59); The 3R rule — repair, reuse,
+  recycle (G4 Guide, printed p. 59; G5 Guide, printed
+  pp. 58–59).
+- **Mechanisms and Machines** (4 lessons, 13 questions
+  each): How a parachute works (G4 Guide, printed
+  p. 48); Making a parachute (G4 Guide, printed p. 49);
+  How a bicycle works (G5 Guide, printed p. 12);
+  Maintaining a bicycle (G5 Guide, printed p. 23).
+- **Models and Robotics** (2 lessons, 13 questions
+  each): Making a balloon-powered car (G3 Guide,
+  printed p. 40); Making an object that uses wind
+  energy — the windsock (manche à air) (G5 Guide,
+  printed p. 46).
+
+Gabon's own way is content and is carried in each
+lesson's sources: Technologie is taught inside the
+combined Sciences guide, one lesson per palier (5
+paliers per grade), climbing the same ideas a step per
+grade — the technical object from tools-and-trades
+(Grade 3) to use vs esteem function (Grade 5), energy
+from sources (Grade 3) to forms (Grade 5), fabrication
+from the sieve (Grade 4) to the checkerboard (Grade 5) —
+with local practice named, such as bottle collection in
+Libreville in the life-cycle lesson, and every abstract
+point landed on a make (fan, sieve, checkerboard,
+parachute, balloon car, windsock, pallet bench).
+
+Placements at
+liqlearns-courses-work/expansion-td-2026-11-17/gabon-placements.md.
+
+**Course totals: 99 lessons** — Technical Drawing 17 lessons
 (Ethiopia, teacher-guide evidence) plus the 7 Canada lessons
 above (First Steps 3, Mechanisms and Machines 1, Electrical
 Installations and the Home 1, Textiles and Fashion 1,
@@ -389,7 +466,11 @@ Safety 1, Mechanisms and Machines 3, Models and
 Robotics 1, Electricity and Electronics 6) plus the
 12 Azerbaijan lessons above (Food Technology 1, Paper,
 Card and Modelling 7, Textiles and Fashion 2, Electrical
-Installations and the Home 1, Models and Robotics 1);
+Installations and the Home 1, Models and Robotics 1)
+plus the 21 Gabon lessons above (First Steps 12, Design
+and Making 1, Materials 2, Mechanisms and Machines 4,
+Models and Robotics 2 — all teacher-guide evidence only,
+counted nowhere in the acceptance count);
 Malta also stocked 6 placements into 4 existing Technical
 Drawing lessons, Jamaica also stocked 3 placements
 into 3 existing lessons (Measuring and marking out,

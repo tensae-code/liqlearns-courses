@@ -7,7 +7,7 @@ from the hand to the drawing board to the workshop.
 
 **First Steps → Technical Drawing → Materials → Mechanisms and Machines → Electrical Installations and the Home → Textiles and Fashion → Radiography Technology → Design and Making → Models and Robotics → Workshop and Safety → Electricity and Electronics → Food Technology → Paper, Card and Modelling**
 
-Stocked titles so far: **78 lessons**.
+Stocked titles so far: **99 lessons**.
 
 **Technical Drawing** (technical-drawing/) — 24 lessons:
 17 built from Ethiopia's Grade 12 teacher guide (2003 E.C.,
@@ -36,35 +36,62 @@ placements (2 placements): Free-hand sketching —
 principles and place in design; Dimensioning — lines,
 symbols and reading direction.
 
-**First Steps** (first-steps/) — 4 lessons: 3 stocked
+**First Steps** (first-steps/) — 16 lessons: 3 stocked
 2026-11-17 from Canada's *Technology in the Community*
-(Nunavut, Tulliniliara Level 14, student reader), and 1
+(Nunavut, Tulliniliara Level 14, student reader), 1
 stocked 2026-11-17 from Jamaica's *National Standards
 Curriculum Guide — Grades 4–6 — Resource &
-Technology* (Jamaica, 2018):
+Technology* (Jamaica, 2018), and 12 stocked 2026-11-17
+from Gabon's *Super Efficace* Sciences teacher guides,
+Grades 3–5 (EDIG / Édicef, 2024 — teacher-guide
+evidence only, counted nowhere):
 
 - What technology is (what-technology-is/) — also carries an Azerbaijan placement (Технология, Grade 2, Russian edition as held, printed p. 6)
 - Computers as community technology (computers-as-community-technology/)
 - GPS technology (gps-technology/)
 - Careers in automotive and mechanical engineering (careers-in-automotive-and-mechanical-engineering/)
+- The function of a technical object (the-function-of-a-technical-object/)
+- Making an object (making-an-object/)
+- Energy used by a technical object (energy-used-by-a-technical-object/)
+- Tools and what they are for (tools-and-what-they-are-for/)
+- Parts and materials of a tool (parts-and-materials-of-a-tool/)
+- The design/study phase before making (the-design-study-phase-before-making/)
+- Making a technical object (making-a-technical-object/)
+- Joining and assembly in making (joining-and-assembly-in-making/)
+- Parts of an object and the function of each part (ballpoint pen) (parts-of-an-object-and-the-function-of-each-part-ballpoint-pen/)
+- Eco-design (eco-design/)
+- Why maintain a technical object (why-maintain-a-technical-object/)
+- Giving an object a second life (making from pallets) (giving-an-object-a-second-life-making-from-pallets/)
 
-**Materials** (materials/) — 2 lessons, stocked
+**Materials** (materials/) — 4 lessons: 2 stocked
 2026-11-17 from Finland's *Katse tulevaan*
-(TuleVa project learning material, published via aoe.fi):
+(TuleVa project learning material, published via aoe.fi),
+and 2 stocked 2026-11-17 from Gabon's *Super
+Efficace* Sciences teacher guides, Grades 3–5
+(teacher-guide evidence only, counted nowhere):
 
 - Choosing materials responsibly (choosing-materials-responsibly/)
 - Life-cycle thinking in the craft process (life-cycle-thinking-in-the-craft-process/)
+- The life cycle of a product (the-life-cycle-of-a-product/)
+- The 3R rule — repair, reuse, recycle (the-3r-rule/)
 
 **Mechanisms and Machines** (mechanisms-and-machines/) —
-4 lessons: 1 stocked 2026-11-17 from the same Canada book,
-and 3 stocked 2026-11-17 from Jamaica's *National
+8 lessons: 1 stocked 2026-11-17 from the same Canada book,
+3 stocked 2026-11-17 from Jamaica's *National
 Standards Curriculum Guide — Grades 4–6 — Resource
-& Technology* (Jamaica, 2018):
+& Technology* (Jamaica, 2018), and 4 stocked 2026-11-17
+from Gabon's *Super Efficace* Sciences teacher guides,
+Grades 4–5 (teacher-guide evidence only, counted
+nowhere):
 
 - How a piston engine moves a snowmobile (how-a-piston-engine-moves-a-snowmobile/)
 - Mechanical energy in devices and transport (mechanical-energy-in-devices-and-transport/)
 - Forces and friction in mechanisms (forces-and-friction-in-mechanisms/)
 - Shapes and solids for movement (shapes-and-solids-for-movement/)
+- How a parachute works (how-a-parachute-works/)
+- Making a parachute (making-a-parachute/)
+- How a bicycle works (how-a-bicycle-works/)
+- Maintaining a bicycle (maintaining-a-bicycle/)
 
 **Electrical Installations and the Home**
 (electrical-installations/) — 2 lessons: 1 stocked
@@ -96,13 +123,17 @@ and 2 stocked 2026-11-17 from Azerbaijan's *Технология
 
 - X-ray machines (x-ray-machines/)
 
-**Design and Making** (design-and-making/) — 7 lessons:
+**Design and Making** (design-and-making/) — 8 lessons:
 1 stocked 2026-11-17 from Kuwait's الذكاء الرقمي 8
 (*Digital Intelligence, Grade 8, Term 2*, Ministry of
-Education, State of Kuwait), and 6 stocked 2026-11-17
+Education, State of Kuwait), 6 stocked 2026-11-17
 from Jamaica's *National Standards Curriculum Guide —
-Grades 4–6 — Resource & Technology* (Jamaica, 2018):
+Grades 4–6 — Resource & Technology* (Jamaica, 2018),
+and 1 stocked 2026-11-17 from Gabon's *Super
+Efficace* Sciences teacher guides, Grades 3–4
+(teacher-guide evidence only, counted nowhere):
 
+- Taking an object apart and putting it back together (taking-an-object-apart-and-putting-it-back-together/)
 - The integrated smart-building project (design side) (the-integrated-smart-building-project-design-side/)
 - The design process (the-design-process/)
 - Prototyping — a mock-up before making (prototyping-a-mock-up-before-making/)
@@ -112,13 +143,16 @@ Grades 4–6 — Resource & Technology* (Jamaica, 2018):
 - Evaluating a made product (evaluating-a-made-product/)
 
 **Models and Robotics** (models-and-robotics/) —
-8 lessons: 6 stocked 2026-11-17 from the same Kuwait book,
+10 lessons: 6 stocked 2026-11-17 from the same Kuwait book,
 1 stocked 2026-11-17 from Jamaica's *National
 Standards Curriculum Guide — Grades 4–6 — Resource
 & Technology* (Jamaica, 2018) — Making a toy car
-(making-a-toy-car/) — and 1 stocked 2026-11-17 from
+(making-a-toy-car/) — 1 stocked 2026-11-17 from
 Azerbaijan's *Технология (Technology), Grade 2*
-(Russian edition as held):
+(Russian edition as held), and 2 stocked 2026-11-17
+from Gabon's *Super Efficace* Sciences teacher guides,
+Grades 3 and 5 (teacher-guide evidence only, counted
+nowhere):
 
 - 3D printing, from idea to model (3d-printing-from-idea-to-model/)
 - First steps with UltiMaker Cura (first-steps-with-ultimaker-cura/)
@@ -127,6 +161,8 @@ Azerbaijan's *Технология (Technology), Grade 2*
 - Printing overhanging parts (printing-overhanging-parts/)
 - Making the model stick to the printer bed (making-the-model-stick-to-the-printer-bed/)
 - Making a model of a truck (making-a-model-of-a-truck/)
+- Making a balloon-powered car (making-a-balloon-powered-car/)
+- Making an object that uses wind energy (making-an-object-that-uses-wind-energy/)
 
 **Workshop and Safety** (workshop-and-safety/) —
 2 lessons: 1 stocked 2026-11-17 from Malta's Workbook 1,
