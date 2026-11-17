@@ -17,3 +17,7 @@ knowledge, and grows as more countries' books are stocked.
    the precautions in the books' own order.
 2. **Fair Play and the Body** — doping: what it is, what it does
    to the body and to sport, and why it is banned.
+
+The Health expansion then added: **Non-communicable Diseases**
+(`staying-safe/non-communicable-diseases`) — 1 new lesson,
+bringing this course to 9 lessons.

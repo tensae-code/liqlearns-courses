@@ -79,6 +79,15 @@ logs covered two placements (items 1–2 above), not one:
 Build logs: `liqlearns-courses-work/ethiopia-2026-11-11/build-logs/band-hpe-b2-games.md`
 and `band-hpe-c2-games.md`.
 
+**Health expansion — Cuba — BUILT 2026-11-16:** 2 placements
+from Cuba's Grade 2 *Orientaciones Metodológicas — Educación
+Física, segundo grado* (teacher guide, Spanish) stocked — both
+as 1 new lesson (Non-communicable Diseases) — bringing this
+course to **9 lessons**. The Cuba book is a teacher guide,
+filed as teacher-guide evidence only, outside the acceptance
+counts; the new lesson stands at acceptance count 0, founded
+on teacher-guide evidence only, no pupil's book in hand.
+
 ## Unit 1 — Staying Safe
 
 1. **Hygiene for Sport — Wash After Exercise** (`staying-safe/hygiene-for-sport`) — personal hygiene around sport: sweat and dirt left unwashed become a breeding place for bacteria — so wash the body after PE and sport, keep sports…
@@ -88,6 +97,7 @@ and `band-hpe-c2-games.md`.
 3b. **Self-Defence — Advanced Techniques** (`staying-safe/self-defence-advanced-techniques`) — the Grade 10 pass — advanced escapes, the roundhouse kick and grappling throws; its advanced-strikes part is knowledge-only, last-resort awareness, exactly as the book directs. — how sports injuries happen and how to prevent them — no warm-up, tiredness, wrong kit and disobeyed instructions are the books' named causes — and …
 4. **Staying Safe on the Street — Self-Defence Principles and Resolving Conflict** (`staying-safe/staying-safe-on-the-street`) — staying safe before any fight: what self-defence is for, its principles (alertness, decisiveness, speed, surprise), the street-safety rules, the et…
 5. **Staying Safe While Exercising** (`staying-safe/staying-safe-while-exercising`) — the books' precautions for fitness exercise: warm up properly, wear correct sport kit, go from easy to hard, rest in the middle, stop on tiredness …
+6. **Non-communicable Diseases** (`staying-safe/non-communicable-diseases`) — non-communicable diseases: diabetes, hypertension, asthma, heart disease, cancer and obesity — their causes, risks and prevention — taught in Cuba's Grade 2 teacher guide as what obesity is (a chronic disease of excess body fat, spotted with Cuban BMI percentile tables) and the teacher's prevention work (Cuba's teacher guide, evidence only).
 
 ## Unit 2 — Fair Play and the Body
 
