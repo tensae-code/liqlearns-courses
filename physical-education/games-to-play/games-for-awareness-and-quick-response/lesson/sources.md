@@ -1,6 +1,6 @@
 # Sources — Games for Awareness and Quick Response
 
-countries: Ethiopia, Mozambique, Kazakhstan, Thailand, Philippines, Nicaragua, Honduras, Iran, Zimbabwe, Jordan, Cuba
+countries: Ethiopia, Mozambique, Kazakhstan, Thailand, Philippines, Nicaragua, Honduras, Iran, Zimbabwe, Jordan, Cuba, Rwanda
 
 **Book 1:** *Grade 3 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–65 + front matter (72 PDF pages). Printed page = PDF page − 7. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g03-student-placements.md.
 
@@ -44,7 +44,7 @@ countries: Ethiopia, Mozambique, Kazakhstan, Thailand, Philippines, Nicaragua, H
 
 | Kazakhstan — Quarter 3 — games and relays that develop speed and strength qualities (игры на развитие быстроты, силы), and relay games with balls (teacher guide — evidence) (original target `games-to-play/games-for-awareness-and-quick-response`) | Kazakhstan, *Physical Culture, Methodological Guide for Grade 4 Teachers* (Kazakhstan Grade 4 TG), printed p. 6 (PDF p. 6) |
 | Thailand — Unit 9 (part 3) Travelling chase games — the Witch Hunts the Children (เกมแม่มดตามหาเด็ก), the Cat Pounces on the Bird (เกมแมวตะครุบนก), Step-Close Find a Partner (เกมก้าวชิดก้าวหาคู่) and the Horse into the Stable (เกมม้าเข้าคอก) (student book — MAC sample, PARTIAL) (original target `games-to-play/games-for-awareness-and-quick-response`) | Thailand, *Health & PE, Grade 2* (Thailand Grade 2 MAC Health & PE), Unit 9 (part 3), printed pp. 156–160 |
-**Acceptance count: taught in 7 countries (Ethiopia, Thailand, Philippines, Honduras, Iran, Zimbabwe, Jordan).** Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 7 countries (Ethiopia, Thailand, Philippines, Honduras, Iran, Zimbabwe, Jordan).** Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count.
 
 The Grade 3 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -276,3 +276,38 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/cuba-pe-plac
 | Cuba — Unidad Juegos: juegos de lanzar y atrapar — a bank of named throwing-and-catching games (e.g. "La pelota rueda y rueda") with materials, rules and objectives (original target `games-to-play/games-for-awareness-and-quick-response`) | Cuba Grade 2 G2 Orientaciones, printed p. 82 |
 
 Cuba's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Cuba enters this lesson as teacher-guide/programme evidence only, outside the acceptance count. Cuba's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Rwanda — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/rwanda-pe-placements.md. The Rwanda books stocked in this lesson are Book 2, Book 3. All Rwanda books are teacher guides, so Rwanda is teacher-guide evidence only in this lesson — named in the countries line and in the rows below, but outside the acceptance count; no pupil's book in hand. Rwanda's own way is content, as the book lines below record it. The Health parts of these books are filed in rwanda-health-placements.md and placed in the Health course, not here.
+
+**Book — Rwanda Book 2 — Physical Education and Sports, Primary 2 Teacher's Guide (teacher guide, English) (teacher guide — evidence):**
+## Book 2 — Physical Education and Sports, Primary 2 Teacher's Guide (teacher guide, English)
+- Title as printed: Physical Education and Sports — Teacher's Guide — Primary 2
+- Grade: Grade 2 (Primary Two) (student/teacher: TEACHER)
+- Publisher: Rwanda Education Board (REB); year 2020 (© 2020 REB); ISBN no ISBN printed
+- PDF pages: 92 (secured books.json record grade-02/gov/rwanda/physical-education/teacher-guide/full-year.pdf, in_pushed — the file is NOT in the Git tree (404, no physical-education folder in the grade-02 tree); it was retrieved from the 'mid-size-books' GitHub release asset of the same path, byte size 9,334,195 verified against the release index. Cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 25 placements — 25 to existing lessons, 0 NEW LESSON NEEDED (Health parts of this book — Unit 6, Health and Well Being — are filed in rwanda-health-placements.md)
+- Rwanda's own way: every lesson in every unit opens with the same Unit 1 warm-up/stretching/cool-down routine until pupils own it, and hand-ball games are built up in one long unit that moves from throwing at goals to over the net to the basket.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Exercises and games that develop senses (Unit 2, Lesson 2) (teacher guide — evidence) (original target `games-to-play/games-for-awareness-and-quick-response`) | Rwanda Grade 2 PES Teacher's Guide P2, printed p. 34 |
+| Rwanda — Games of discovering things by smelling or touching (Unit 2, Lesson 3) (teacher guide — evidence) (original target `games-to-play/games-for-awareness-and-quick-response`) | Rwanda Grade 2 PES Teacher's Guide P2, printed p. 35 |
+
+**Book — Rwanda Book 3 — Physical Education and Sports, Primary Three Teacher's Guide (teacher guide, English + Kinyarwanda parallel editions) (teacher guide — evidence):**
+## Book 3 — Physical Education and Sports, Primary Three Teacher's Guide (teacher guide, English + Kinyarwanda parallel editions)
+- Title as printed: Physical Education and Sports — Primary Three — Teacher's Guide (English edition); Igororangingo na Siporo — Igitabo cy'Umwarimu, Umwaka wa Gatatu (Kinyarwanda edition)
+- Grade: Grade 3 (Primary Three) (student/teacher: TEACHER)
+- Publisher: Rwanda Education Board (REB); year 2020 (English edition), 2019 (Kinyarwanda edition); ISBN no ISBN printed
+- PDF pages: 203 (English), 209 (Kinyarwanda) (secured books.json records grade-03/gov/rwanda/physical-education/teacher-guide/full-year.pdf and …/kinyarwanda-edition/teacher-guide/full-year.pdf, both in_pushed but absent from the Git tree; retrieved from the 'mid-size-books' release assets of the same paths, byte sizes 5,308,710 and 8,579,793 verified. Covers verified; the Kinyarwanda edition was spot-checked — cover, contents and lesson spreads match the English edition lesson for lesson, so the book is placed once and both editions are named here)
+- Verdict: COMPLETE
+- Tally: 18 placements — 18 to existing lessons, 0 NEW LESSON NEEDED (Health parts of this book — Unit 6, Health and Well-Being — are filed in rwanda-health-placements.md)
+- Rwanda's own way: at Primary Three the hand-ball unit teaches throwing at a MOVING target and throwing-and-dodging games, and football already ends in a full 11-a-side team game.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Throwing and dodging the ball — dodgeball-style games (Unit 5, Lesson 3) (teacher guide — evidence) (original target `games-to-play/games-for-awareness-and-quick-response`) | Rwanda Grade 3 PES Teacher's Guide P3, printed p. 165 |
+
+Rwanda's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Rwanda is teacher-guide evidence only in this lesson, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

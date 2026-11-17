@@ -362,3 +362,8 @@ The PE expansion then added: **Elle**
 **Traditional Games of Sri Lanka**
 (`traditional-games-and-dances/traditional-games-of-sri-lanka`)
 — 2 new lessons, bringing this course to 212 lessons.
+
+The PE expansion then added: **Sitting Volleyball**
+(`ball-games/sitting-volleyball`) and **The Rules of
+Netball** (`ball-games/the-rules-of-netball`)
+— 2 new lessons, bringing this course to 214 lessons.

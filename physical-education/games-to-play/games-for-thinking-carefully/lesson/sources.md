@@ -1,6 +1,6 @@
 # Sources — Games for Thinking Carefully
 
-countries: Ethiopia, Iran, Indonesia
+countries: Ethiopia, Iran, Indonesia, Rwanda
 
 **Book 1:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–106 + front matter (114 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md.
 
@@ -25,7 +25,7 @@ countries: Ethiopia, Iran, Indonesia
 | Sub lesson 3 — Special football — winning by thinking, talking and respect | Ethiopia, *Grade 7 Student Textbook*, §§2.4–2.4.2, printed pp. 21–23 |
 | Sub lesson 4 — Deep thinking in games — plan, notice, correct (teacher guide — evidence) | Ethiopia, *Grade 5 Teacher Guide*, §2.2.2, printed p. 18; and *Grade 6 Teacher Guide*, §2.2.2, printed p. 21 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Iran, Indonesia).** Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count.
+**Acceptance count: taught in 3 countries (Ethiopia, Iran, Indonesia).** Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count.
 
 The Grade 5 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -87,3 +87,65 @@ Tally (Book 1, PE): 27 placements — 7 to existing lessons, 20 NEW LESSON NEEDE
 Indonesia's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Indonesia's own way is content, as the book lines above record it for each book stocked here. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: games for thinking carefully, Indonesia, PJOK G7 Student
+
+## Rwanda — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/rwanda-pe-placements.md. The Rwanda books stocked in this lesson are Book 1, Book 3, Book 4, Book 5. All Rwanda books are teacher guides, so Rwanda is teacher-guide evidence only in this lesson — named in the countries line and in the rows below, but outside the acceptance count; no pupil's book in hand. Rwanda's own way is content, as the book lines below record it. The Health parts of these books are filed in rwanda-health-placements.md and placed in the Health course, not here.
+
+**Book — Rwanda Book 1 — Physical Education and Sports, Primary One Teacher's Guide (teacher guide, English) (teacher guide — evidence):**
+## Book 1 — Physical Education and Sports, Primary One Teacher's Guide (teacher guide, English)
+- Title as printed: Physical Education and Sports — Primary One — Teacher's Guide
+- Grade: Grade 1 (Primary One) (student/teacher: TEACHER)
+- Publisher: Rwanda Basic Education Board (REB); year 2022 (© 2022 REB); ISBN no ISBN printed
+- PDF pages: 183 (downloaded from the Wayback capture of the recorded REB e-learning link — the live Moodle link now returns an error page and the 2025-11-13 capture is a 404 page; the 2024-10-06 forcedownload capture served the complete PDF, cover verified against the record title. This is an external-link book not in GitHub, so under the push-don't-delete rule the file is staged — see the group log)
+- Verdict: COMPLETE
+- Tally: 16 placements — 16 to existing lessons, 0 NEW LESSON NEEDED (Health parts of this book — Unit 6, Disease Prevention — are filed in rwanda-health-placements.md)
+- Rwanda's own way: the youngest pupils' PE is built from short games for everything — even hygiene and disease prevention are taught as exercises/games — and every unit carries the same cross-cutting frame: boys and girls play together, peace values (friendship, tolerance), inclusion of learners with disabilities, and caring for the playground.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Games that develop intelligence — exercises and games that build thinking while moving (Unit 2, Lesson 3) (teacher guide — evidence) (original target `games-to-play/games-for-thinking-carefully`) | Rwanda Grade 1 PES Teacher's Guide P1, printed p. 73 |
+
+**Book — Rwanda Book 3 — Physical Education and Sports, Primary Three Teacher's Guide (teacher guide, English + Kinyarwanda parallel editions) (teacher guide — evidence):**
+## Book 3 — Physical Education and Sports, Primary Three Teacher's Guide (teacher guide, English + Kinyarwanda parallel editions)
+- Title as printed: Physical Education and Sports — Primary Three — Teacher's Guide (English edition); Igororangingo na Siporo — Igitabo cy'Umwarimu, Umwaka wa Gatatu (Kinyarwanda edition)
+- Grade: Grade 3 (Primary Three) (student/teacher: TEACHER)
+- Publisher: Rwanda Education Board (REB); year 2020 (English edition), 2019 (Kinyarwanda edition); ISBN no ISBN printed
+- PDF pages: 203 (English), 209 (Kinyarwanda) (secured books.json records grade-03/gov/rwanda/physical-education/teacher-guide/full-year.pdf and …/kinyarwanda-edition/teacher-guide/full-year.pdf, both in_pushed but absent from the Git tree; retrieved from the 'mid-size-books' release assets of the same paths, byte sizes 5,308,710 and 8,579,793 verified. Covers verified; the Kinyarwanda edition was spot-checked — cover, contents and lesson spreads match the English edition lesson for lesson, so the book is placed once and both editions are named here)
+- Verdict: COMPLETE
+- Tally: 18 placements — 18 to existing lessons, 0 NEW LESSON NEEDED (Health parts of this book — Unit 6, Health and Well-Being — are filed in rwanda-health-placements.md)
+- Rwanda's own way: at Primary Three the hand-ball unit teaches throwing at a MOVING target and throwing-and-dodging games, and football already ends in a full 11-a-side team game.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Exercises and games that develop cognitive skills (Unit 2, Lesson 2) (teacher guide — evidence) (original target `games-to-play/games-for-thinking-carefully`) | Rwanda Grade 3 PES Teacher's Guide P3, printed p. 66 |
+
+**Book — Rwanda Book 4 — Physical Education and Sports, Primary Four Teacher's Guide (teacher guide, English) (teacher guide — evidence):**
+## Book 4 — Physical Education and Sports, Primary Four Teacher's Guide (teacher guide, English)
+- Title as printed: Physical Education and Sports — Primary Four — Teacher's Guide
+- Grade: Grade 4 (Primary Four) (student/teacher: TEACHER)
+- Publisher: Rwanda Education Board (REB), Kigali; year 2019 (January 2019); ISBN no ISBN printed
+- PDF pages: 211 (secured books.json record grade-04/gov/rwanda/physical-education/teacher-guide/full-year.pdf, in_pushed but absent from the Git tree; retrieved from the 'mid-size-books' release asset of the same path, byte size 21,535,981 verified. Cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 17 placements — 17 to existing lessons, 0 NEW LESSON NEEDED (Health parts of this book — Unit 9, Transmitted Diseases (HIV/AIDS) — are filed in rwanda-health-placements.md)
+- Rwanda's own way: from Primary Four each ball-sport unit ends with a lesson where pupils develop body coordination and evaluate their own performance level, and the syllabus closes with a full unit that uses games and sports themselves to teach HIV awareness and prevention.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Exercises and games which develop cognitive, social and emotional skills (Unit 2, Lesson 1) (teacher guide — evidence) (original target `games-to-play/games-for-thinking-carefully`) | Rwanda Grade 4 PES Teacher's Guide P4, printed p. 19 |
+
+**Book — Rwanda Book 5 — Primary Physical Education for Rwandan Schools, Teacher's Guide 5 (teacher guide, English) (teacher guide — evidence):**
+## Book 5 — Primary Physical Education for Rwandan Schools, Teacher's Guide 5 (teacher guide, English)
+- Title as printed: Primary Physical Education for Rwandan Schools — Teacher's Guide 5 (cover: "Physical Education For Rwandan Schools, Teacher's Guide 5 — Approved by REB")
+- Grade: Grade 5 (Primary Five) (student/teacher: TEACHER)
+- Publisher: MK Publishers (R) Ltd, Kigali; approved by REB; year not printed on the cover pages read; ISBN no ISBN printed
+- PDF pages: 144 (secured books.json record grade-05/gov/rwanda/physical-education/teacher-guide/full-year.pdf, in_pushed but absent from the Git tree; retrieved from the 'mid-size-books' release asset of the same path, byte size 13,792,905 verified. Cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 32 placements — 30 to existing lessons, 2 NEW LESSON NEEDED (Health parts of this book — Unit 1 Lessons 1–2 and Unit 9, Transmitted Diseases — are filed in rwanda-health-placements.md)
+- Rwanda's own way: the MK guide names its athletics lessons after the games themselves — a "Formula One" running lesson, ladder running and a figure-"8" endurance race — and teaches goalkeeping as its own handball lesson.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Exercises and games which develop the intelligence (Unit 2, Lesson 1) (teacher guide — evidence) (original target `games-to-play/games-for-thinking-carefully`) | Rwanda Grade 5 PE Teacher's Guide 5, printed p. 22 |
+
+Rwanda's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Rwanda is teacher-guide evidence only in this lesson, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

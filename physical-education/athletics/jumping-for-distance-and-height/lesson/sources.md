@@ -1,6 +1,6 @@
 # Sources — Jumping for Distance and Height
 
-countries: Ethiopia, Kazakhstan, Tajikistan, Timor-Leste, China, Philippines, Nicaragua, Azerbaijan, Maldives, Belize, Honduras, Fiji, Mauritius, Iran, North Macedonia, Zimbabwe, Jordan, Malaysia, Cuba, Kuwait, Indonesia, Oman, Papua New Guinea, Sri Lanka
+countries: Ethiopia, Kazakhstan, Tajikistan, Timor-Leste, China, Philippines, Nicaragua, Azerbaijan, Maldives, Belize, Honduras, Fiji, Mauritius, Iran, North Macedonia, Zimbabwe, Jordan, Malaysia, Cuba, Kuwait, Indonesia, Oman, Papua New Guinea, Sri Lanka, Rwanda
 
 **Book — Grade 5 student:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 106 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md. COMPLETE.
 
@@ -35,7 +35,7 @@ countries: Ethiopia, Kazakhstan, Tajikistan, Timor-Leste, China, Philippines, Ni
 | Kazakhstan — Quarters 1 and 4 — standing long jump (test), long jump with a run-up and high jump in varied forms, and jumps over obstacles (teacher guide — evidence) (original target `athletics/jumping-for-distance-and-height`) | Kazakhstan, *Physical Culture, Methodological Guide for Grade 4 Teachers* (Kazakhstan Grade 4 TG), printed pp. 4–5, 48 |
 | Tajikistan — Part 2, Athletics — jumping exercises and games that build jumping for distance and height (original target `athletics/jumping-for-distance-and-height`) | Tajikistan, *Fizicheskaya Kultura (Physical Culture), Grades 1–4*, Part 2, printed pp. ~100–106 |
 | Timor-Leste — Appendix 6: Athletics — jumping events, including leg-position illustrations for the jumps (teacher guide — evidence) (original target `athletics/jumping-for-distance-and-height`) | Timor-Leste, *Educação Física 7, Guia do Professor* (Timor-Leste Grade 7 Teacher Guide), printed p. 244 |
-**Acceptance count: taught in 14 countries (Ethiopia, Tajikistan, China, Philippines, Nicaragua, Azerbaijan, Honduras, Mauritius, Iran, North Macedonia, Zimbabwe, Jordan, Malaysia, Sri Lanka).** Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Timor-Leste is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count; the Mauritius teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Indonesia is added as teacher-guide evidence only (see its Indonesia section below), named in the countries line but outside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count.
+**Acceptance count: taught in 14 countries (Ethiopia, Tajikistan, China, Philippines, Nicaragua, Azerbaijan, Honduras, Mauritius, Iran, North Macedonia, Zimbabwe, Jordan, Malaysia, Sri Lanka).** Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Timor-Leste is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count; the Mauritius teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Indonesia is added as teacher-guide evidence only (see its Indonesia section below), named in the countries line but outside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count.
 
 The Grade 5 teacher guide scan is TRUNCATED: it holds printed pp. 1–41 of 80+. Missing: the rest of §4.3, all of Chapter 5 Gymnastics (pp. 44–56), all of Chapter 6 Ball-game receiving skills (pp. 57–77) and all of Chapter 7 (pp. 78–80+). Teacher-guide rows in this lesson are evidence only and never count as pupil-taught; nothing here claims a page beyond what the held file holds.
 
@@ -870,3 +870,112 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/sri-lanka-pe
 | Sri Lanka — Competency 5.7 — teaching jumps: the long jump | Sri Lanka Grade 10 G10 TG 2015 English, syllabus printed pp. ix–xxvii |
 
 Sri Lanka's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Sri Lanka is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Rwanda — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/rwanda-pe-placements.md. The Rwanda books stocked in this lesson are Book 2, Book 3, Book 4, Book 5, Book 6, Book 7, Book 8. All Rwanda books are teacher guides, so Rwanda is teacher-guide evidence only in this lesson — named in the countries line and in the rows below, but outside the acceptance count; no pupil's book in hand. Rwanda's own way is content, as the book lines below record it. The Health parts of these books are filed in rwanda-health-placements.md and placed in the Health course, not here.
+
+**Book — Rwanda Book 2 — Physical Education and Sports, Primary 2 Teacher's Guide (teacher guide, English) (teacher guide — evidence):**
+## Book 2 — Physical Education and Sports, Primary 2 Teacher's Guide (teacher guide, English)
+- Title as printed: Physical Education and Sports — Teacher's Guide — Primary 2
+- Grade: Grade 2 (Primary Two) (student/teacher: TEACHER)
+- Publisher: Rwanda Education Board (REB); year 2020 (© 2020 REB); ISBN no ISBN printed
+- PDF pages: 92 (secured books.json record grade-02/gov/rwanda/physical-education/teacher-guide/full-year.pdf, in_pushed — the file is NOT in the Git tree (404, no physical-education folder in the grade-02 tree); it was retrieved from the 'mid-size-books' GitHub release asset of the same path, byte size 9,334,195 verified against the release index. Cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 25 placements — 25 to existing lessons, 0 NEW LESSON NEEDED (Health parts of this book — Unit 6, Health and Well Being — are filed in rwanda-health-placements.md)
+- Rwanda's own way: every lesson in every unit opens with the same Unit 1 warm-up/stretching/cool-down routine until pupils own it, and hand-ball games are built up in one long unit that moves from throwing at goals to over the net to the basket.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Long jump exercises (Unit 3, Lesson 2) (teacher guide — evidence) (original target `athletics/jumping-for-distance-and-height`) | Rwanda Grade 2 PES Teacher's Guide P2, printed p. 46 |
+| Rwanda — High jump exercises (Unit 3, Lesson 3) (teacher guide — evidence) (original target `athletics/jumping-for-distance-and-height`) | Rwanda Grade 2 PES Teacher's Guide P2, printed p. 48 |
+
+**Book — Rwanda Book 3 — Physical Education and Sports, Primary Three Teacher's Guide (teacher guide, English + Kinyarwanda parallel editions) (teacher guide — evidence):**
+## Book 3 — Physical Education and Sports, Primary Three Teacher's Guide (teacher guide, English + Kinyarwanda parallel editions)
+- Title as printed: Physical Education and Sports — Primary Three — Teacher's Guide (English edition); Igororangingo na Siporo — Igitabo cy'Umwarimu, Umwaka wa Gatatu (Kinyarwanda edition)
+- Grade: Grade 3 (Primary Three) (student/teacher: TEACHER)
+- Publisher: Rwanda Education Board (REB); year 2020 (English edition), 2019 (Kinyarwanda edition); ISBN no ISBN printed
+- PDF pages: 203 (English), 209 (Kinyarwanda) (secured books.json records grade-03/gov/rwanda/physical-education/teacher-guide/full-year.pdf and …/kinyarwanda-edition/teacher-guide/full-year.pdf, both in_pushed but absent from the Git tree; retrieved from the 'mid-size-books' release assets of the same paths, byte sizes 5,308,710 and 8,579,793 verified. Covers verified; the Kinyarwanda edition was spot-checked — cover, contents and lesson spreads match the English edition lesson for lesson, so the book is placed once and both editions are named here)
+- Verdict: COMPLETE
+- Tally: 18 placements — 18 to existing lessons, 0 NEW LESSON NEEDED (Health parts of this book — Unit 6, Health and Well-Being — are filed in rwanda-health-placements.md)
+- Rwanda's own way: at Primary Three the hand-ball unit teaches throwing at a MOVING target and throwing-and-dodging games, and football already ends in a full 11-a-side team game.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Jumping exercises (Unit 3, Lesson 2) (teacher guide — evidence) (original target `athletics/jumping-for-distance-and-height`) | Rwanda Grade 3 PES Teacher's Guide P3, printed p. 109 |
+
+**Book — Rwanda Book 4 — Physical Education and Sports, Primary Four Teacher's Guide (teacher guide, English) (teacher guide — evidence):**
+## Book 4 — Physical Education and Sports, Primary Four Teacher's Guide (teacher guide, English)
+- Title as printed: Physical Education and Sports — Primary Four — Teacher's Guide
+- Grade: Grade 4 (Primary Four) (student/teacher: TEACHER)
+- Publisher: Rwanda Education Board (REB), Kigali; year 2019 (January 2019); ISBN no ISBN printed
+- PDF pages: 211 (secured books.json record grade-04/gov/rwanda/physical-education/teacher-guide/full-year.pdf, in_pushed but absent from the Git tree; retrieved from the 'mid-size-books' release asset of the same path, byte size 21,535,981 verified. Cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 17 placements — 17 to existing lessons, 0 NEW LESSON NEEDED (Health parts of this book — Unit 9, Transmitted Diseases (HIV/AIDS) — are filed in rwanda-health-placements.md)
+- Rwanda's own way: from Primary Four each ball-sport unit ends with a lesson where pupils develop body coordination and evaluate their own performance level, and the syllabus closes with a full unit that uses games and sports themselves to teach HIV awareness and prevention.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Exercises of jumping (Unit 4, Lesson 2) (teacher guide — evidence) (original target `athletics/jumping-for-distance-and-height`) | Rwanda Grade 4 PES Teacher's Guide P4, printed p. 60 |
+
+**Book — Rwanda Book 5 — Primary Physical Education for Rwandan Schools, Teacher's Guide 5 (teacher guide, English) (teacher guide — evidence):**
+## Book 5 — Primary Physical Education for Rwandan Schools, Teacher's Guide 5 (teacher guide, English)
+- Title as printed: Primary Physical Education for Rwandan Schools — Teacher's Guide 5 (cover: "Physical Education For Rwandan Schools, Teacher's Guide 5 — Approved by REB")
+- Grade: Grade 5 (Primary Five) (student/teacher: TEACHER)
+- Publisher: MK Publishers (R) Ltd, Kigali; approved by REB; year not printed on the cover pages read; ISBN no ISBN printed
+- PDF pages: 144 (secured books.json record grade-05/gov/rwanda/physical-education/teacher-guide/full-year.pdf, in_pushed but absent from the Git tree; retrieved from the 'mid-size-books' release asset of the same path, byte size 13,792,905 verified. Cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 32 placements — 30 to existing lessons, 2 NEW LESSON NEEDED (Health parts of this book — Unit 1 Lessons 1–2 and Unit 9, Transmitted Diseases — are filed in rwanda-health-placements.md)
+- Rwanda's own way: the MK guide names its athletics lessons after the games themselves — a "Formula One" running lesson, ladder running and a figure-"8" endurance race — and teaches goalkeeping as its own handball lesson.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Exercises of jumping (Unit 4, Lesson 1) (teacher guide — evidence) (original target `athletics/jumping-for-distance-and-height`) | Rwanda Grade 5 PE Teacher's Guide 5, printed p. 36 |
+| Rwanda — Long jump (Unit 4, Lesson 3) (teacher guide — evidence) (original target `athletics/jumping-for-distance-and-height`) | Rwanda Grade 5 PE Teacher's Guide 5, printed p. 42 |
+
+**Book — Rwanda Book 6 — Physical Education and Sports, Primary Six Teacher's Guide (teacher guide, English) (teacher guide — evidence):**
+## Book 6 — Physical Education and Sports, Primary Six Teacher's Guide (teacher guide, English)
+- Title as printed: Physical Education and Sports — Primary Six — Teacher's Guide
+- Grade: Grade 6 (Primary Six) (student/teacher: TEACHER)
+- Publisher: Rwanda Education Board (REB), Kigali; year 2019 (January 2019); ISBN no ISBN printed
+- PDF pages: 216 (secured books.json record grade-06/gov/rwanda/physical-education/teacher-guide/full-year.pdf, in_pushed but absent from the Git tree; retrieved from the 'mid-size-books' release asset of the same path, byte size 12,272,273 verified. Cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 19 placements — 19 to existing lessons, 0 NEW LESSON NEEDED (Health parts of this book — Unit 1 Lesson 3, disease prevention — are filed in rwanda-health-placements.md)
+- Rwanda's own way: the final primary year teaches sport as responsibility — volleyball includes the rules and the leadership skills of a team captain, basketball ends in man-to-man defence played to the rules, and handball ends with goalkeeping and team play.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Different types of jumping, running and throwing (Unit 2, Lesson 1) (teacher guide — evidence) (original target `athletics/jumping-for-distance-and-height`) | Rwanda Grade 6 PES Teacher's Guide P6, printed p. 39 |
+| Rwanda — Jumping exercises with techniques (Unit 2, Lesson 2) (teacher guide — evidence) (original target `athletics/jumping-for-distance-and-height`) | Rwanda Grade 6 PES Teacher's Guide P6, printed p. 42 |
+
+**Book — Rwanda Book 7 — Ordinary Level Physical Education, Teacher's Guide One (Senior One) (teacher guide, English) (teacher guide — evidence):**
+## Book 7 — Ordinary Level Physical Education, Teacher's Guide One (Senior One) (teacher guide, English)
+- Title as printed: Ordinary Level Physical Education Teacher's Guide One (Senior One) — the recorded file is named "Physical Education S1.pdf" and the download list calls it a student book, but the book itself is the REB teacher's guide for Senior One; it is filed as what it is
+- Grade: Grade 7 equivalent (Senior One, Ordinary Level) (student/teacher: TEACHER)
+- Publisher: Rwanda Education Board (REB); year not printed on the pages read; ISBN no ISBN printed
+- PDF pages: 196 (downloaded from the Wayback capture (2024-07-03) of the recorded REB e-learning link; the live link did not serve the file from this network. Cover/contents verified against the record. External-link book not in GitHub — kept in scratch and reported in the group log, because the staging shape for Rwanda secondary is not established)
+- Verdict: COMPLETE
+- Tally: 24 placements — 22 to existing lessons, 2 NEW LESSON NEEDED
+- Rwanda's own way: Ordinary Level PE includes two disability sports as full units — Goalball (played blindfolded, by sound) and Sitting Volleyball — alongside the standard sports, and pupils fabricate local materials for jumping and throwing when equipment is lacking.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Long jump (Unit 4, Lesson 3) (teacher guide — evidence) (original target `athletics/jumping-for-distance-and-height`) | Rwanda Senior One PE Teacher's Guide S1, printed p. 44 |
+
+**Book — Rwanda Book 8 — Physical Education and Sports for Rwandan Schools, Teacher's Guide 2 (Senior Two) (teacher guide, English) (teacher guide — evidence):**
+## Book 8 — Physical Education and Sports for Rwandan Schools, Teacher's Guide 2 (Senior Two) (teacher guide, English)
+- Title as printed: Ordinary Level — Physical Education and Sports for Rwandan Schools — Teacher's Guide 2 (authors Edward Kityo, Tom Kibirango, Godfrey Ssempaka) — the download-list record calls this file the "Physical Education Student Book S2", but the book behind the recorded reb.rw link is the teacher's guide; it is filed as what it is
+- Grade: Grade 8 equivalent (Senior Two, Ordinary Level) (student/teacher: TEACHER)
+- Publisher: MK Publishers (R) Ltd, Kigali; approved by REB; year not printed on the pages read; ISBN no ISBN printed
+- PDF pages: 184 (downloaded from the Wayback capture (2021-08-27) of the recorded reb.rw link; the live link did not serve the file from this network. Cover verified. External-link book not in GitHub — kept in scratch and reported in the group log, because the staging shape for Rwanda secondary is not established)
+- Verdict: COMPLETE
+- Tally: 35 placements — 31 to existing lessons, 4 NEW LESSON NEEDED
+- Rwanda's own way: Senior Two football is taught as systems — attacking systems, counter-attack, harassing the opponent, mutual aid, heading in defence and tackles — and athletics reaches the Fosbury flop, triple jump and all three throws.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Jumping exercises: long jump (Unit 4, Lesson 3) (teacher guide — evidence) (original target `athletics/jumping-for-distance-and-height`) | Rwanda Senior Two PE Teacher's Guide 2, printed p. 42 |
+| Rwanda — High jump: the Fosbury flop (Unit 4, Lesson 4) (teacher guide — evidence) (original target `athletics/jumping-for-distance-and-height`) | Rwanda Senior Two PE Teacher's Guide 2, printed p. 47 |
+| Rwanda — Triple jump (Unit 4, Lesson 5) (teacher guide — evidence) (original target `athletics/jumping-for-distance-and-height`) | Rwanda Senior Two PE Teacher's Guide 2, printed p. 49 |
+
+Rwanda's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Rwanda is teacher-guide evidence only in this lesson, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

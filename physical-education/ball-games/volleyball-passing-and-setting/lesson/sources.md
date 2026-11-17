@@ -1,6 +1,6 @@
 # Sources — Volleyball Passing and Setting
 
-countries: Ethiopia, Afghanistan, China, Nicaragua, Belize, Mauritius, Iran, North Macedonia, Zimbabwe, Jordan, Malaysia, Cuba, Kuwait, Oman, Sri Lanka
+countries: Ethiopia, Afghanistan, China, Nicaragua, Belize, Mauritius, Iran, North Macedonia, Zimbabwe, Jordan, Malaysia, Cuba, Kuwait, Oman, Sri Lanka, Rwanda
 
 **Book — Grade 5 student:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 106 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md. COMPLETE.
 
@@ -27,7 +27,7 @@ countries: Ethiopia, Afghanistan, China, Nicaragua, Belize, Mauritius, Iran, Nor
 | The spike — Grade 9 | Ethiopia, Grade 9 teacher Unit 5 spike (teacher guide — evidence), printed pp. 65–72 |
 | Blocking — Grade 10 | Ethiopia, Grade 10 student §5.2 Blocking skills + §5.1 rules, printed pp. 86–98 |
 | Blocking — Grade 10 | Ethiopia, Grade 10 teacher Unit 5 blocking and rules (teacher guide — evidence), printed pp. 60–69 |
-**Acceptance count: taught in 9 countries (Ethiopia, China, Mauritius, Iran, North Macedonia, Zimbabwe, Jordan, Malaysia, Sri Lanka).** Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count; the Iran teacher guide stocked in this lesson (Book 13) is teacher-guide evidence only, outside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count.
+**Acceptance count: taught in 9 countries (Ethiopia, China, Mauritius, Iran, North Macedonia, Zimbabwe, Jordan, Malaysia, Sri Lanka).** Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count; the Iran teacher guide stocked in this lesson (Book 13) is teacher-guide evidence only, outside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count.
 
 The Grade 5 and Grade 6 teacher guides' ball-games chapters are in the truncated missing ranges of those scans (G5T Chapter 6, pp. 57–77; G6T Chapter 6, pp. 65–82), so this lesson rests on the complete student books only; no teacher-guide pages are claimed for it.
 
@@ -692,3 +692,99 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/sri-lanka-pe
 | Sri Lanka — Competency 4 — teaching volleyball, netball and football skills, including ball controlling and stopping with the inside of the foot | Sri Lanka Grade 7 G7 TG 2016 English, syllabus printed pp. xi–xxxii |
 
 Sri Lanka's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Sri Lanka is student-book stock, inside the acceptance count, in this lesson. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Rwanda — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/rwanda-pe-placements.md. The Rwanda books stocked in this lesson are Book 2, Book 4, Book 5, Book 6, Book 7, Book 8. All Rwanda books are teacher guides, so Rwanda is teacher-guide evidence only in this lesson — named in the countries line and in the rows below, but outside the acceptance count; no pupil's book in hand. Rwanda's own way is content, as the book lines below record it. The Health parts of these books are filed in rwanda-health-placements.md and placed in the Health course, not here.
+
+**Book — Rwanda Book 2 — Physical Education and Sports, Primary 2 Teacher's Guide (teacher guide, English) (teacher guide — evidence):**
+## Book 2 — Physical Education and Sports, Primary 2 Teacher's Guide (teacher guide, English)
+- Title as printed: Physical Education and Sports — Teacher's Guide — Primary 2
+- Grade: Grade 2 (Primary Two) (student/teacher: TEACHER)
+- Publisher: Rwanda Education Board (REB); year 2020 (© 2020 REB); ISBN no ISBN printed
+- PDF pages: 92 (secured books.json record grade-02/gov/rwanda/physical-education/teacher-guide/full-year.pdf, in_pushed — the file is NOT in the Git tree (404, no physical-education folder in the grade-02 tree); it was retrieved from the 'mid-size-books' GitHub release asset of the same path, byte size 9,334,195 verified against the release index. Cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 25 placements — 25 to existing lessons, 0 NEW LESSON NEEDED (Health parts of this book — Unit 6, Health and Well Being — are filed in rwanda-health-placements.md)
+- Rwanda's own way: every lesson in every unit opens with the same Unit 1 warm-up/stretching/cool-down routine until pupils own it, and hand-ball games are built up in one long unit that moves from throwing at goals to over the net to the basket.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Throwing the ball over the net (Unit 5, Lesson 5) (teacher guide — evidence) (original target `ball-games/volleyball-passing-and-setting`) | Rwanda Grade 2 PES Teacher's Guide P2, printed p. 69 |
+| Rwanda — Serving the ball over the net (Unit 5, Lesson 6) (teacher guide — evidence) (original target `ball-games/volleyball-passing-and-setting`) | Rwanda Grade 2 PES Teacher's Guide P2, printed p. 71 |
+
+**Book — Rwanda Book 4 — Physical Education and Sports, Primary Four Teacher's Guide (teacher guide, English) (teacher guide — evidence):**
+## Book 4 — Physical Education and Sports, Primary Four Teacher's Guide (teacher guide, English)
+- Title as printed: Physical Education and Sports — Primary Four — Teacher's Guide
+- Grade: Grade 4 (Primary Four) (student/teacher: TEACHER)
+- Publisher: Rwanda Education Board (REB), Kigali; year 2019 (January 2019); ISBN no ISBN printed
+- PDF pages: 211 (secured books.json record grade-04/gov/rwanda/physical-education/teacher-guide/full-year.pdf, in_pushed but absent from the Git tree; retrieved from the 'mid-size-books' release asset of the same path, byte size 21,535,981 verified. Cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 17 placements — 17 to existing lessons, 0 NEW LESSON NEEDED (Health parts of this book — Unit 9, Transmitted Diseases (HIV/AIDS) — are filed in rwanda-health-placements.md)
+- Rwanda's own way: from Primary Four each ball-sport unit ends with a lesson where pupils develop body coordination and evaluate their own performance level, and the syllabus closes with a full unit that uses games and sports themselves to teach HIV awareness and prevention.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Basic technical tactics of playing volleyball (Unit 6, Lesson 1) (teacher guide — evidence) (original target `ball-games/volleyball-passing-and-setting`) | Rwanda Grade 4 PES Teacher's Guide P4, printed p. 91 |
+
+**Book — Rwanda Book 5 — Primary Physical Education for Rwandan Schools, Teacher's Guide 5 (teacher guide, English) (teacher guide — evidence):**
+## Book 5 — Primary Physical Education for Rwandan Schools, Teacher's Guide 5 (teacher guide, English)
+- Title as printed: Primary Physical Education for Rwandan Schools — Teacher's Guide 5 (cover: "Physical Education For Rwandan Schools, Teacher's Guide 5 — Approved by REB")
+- Grade: Grade 5 (Primary Five) (student/teacher: TEACHER)
+- Publisher: MK Publishers (R) Ltd, Kigali; approved by REB; year not printed on the cover pages read; ISBN no ISBN printed
+- PDF pages: 144 (secured books.json record grade-05/gov/rwanda/physical-education/teacher-guide/full-year.pdf, in_pushed but absent from the Git tree; retrieved from the 'mid-size-books' release asset of the same path, byte size 13,792,905 verified. Cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 32 placements — 30 to existing lessons, 2 NEW LESSON NEEDED (Health parts of this book — Unit 1 Lessons 1–2 and Unit 9, Transmitted Diseases — are filed in rwanda-health-placements.md)
+- Rwanda's own way: the MK guide names its athletics lessons after the games themselves — a "Formula One" running lesson, ladder running and a figure-"8" endurance race — and teaches goalkeeping as its own handball lesson.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Basic techniques of serving in volleyball (Unit 6, Lesson 1) (teacher guide — evidence) (original target `ball-games/volleyball-passing-and-setting`) | Rwanda Grade 5 PE Teacher's Guide 5, printed p. 81 |
+| Rwanda — Individual techniques and tactics in attack (Unit 6, Lesson 2) (teacher guide — evidence) (original target `ball-games/volleyball-passing-and-setting`) | Rwanda Grade 5 PE Teacher's Guide 5, printed p. 84 |
+| Rwanda — Techniques in defence (Unit 6, Lesson 3) (teacher guide — evidence) (original target `ball-games/volleyball-passing-and-setting`) | Rwanda Grade 5 PE Teacher's Guide 5, printed p. 87 |
+
+**Book — Rwanda Book 6 — Physical Education and Sports, Primary Six Teacher's Guide (teacher guide, English) (teacher guide — evidence):**
+## Book 6 — Physical Education and Sports, Primary Six Teacher's Guide (teacher guide, English)
+- Title as printed: Physical Education and Sports — Primary Six — Teacher's Guide
+- Grade: Grade 6 (Primary Six) (student/teacher: TEACHER)
+- Publisher: Rwanda Education Board (REB), Kigali; year 2019 (January 2019); ISBN no ISBN printed
+- PDF pages: 216 (secured books.json record grade-06/gov/rwanda/physical-education/teacher-guide/full-year.pdf, in_pushed but absent from the Git tree; retrieved from the 'mid-size-books' release asset of the same path, byte size 12,272,273 verified. Cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 19 placements — 19 to existing lessons, 0 NEW LESSON NEEDED (Health parts of this book — Unit 1 Lesson 3, disease prevention — are filed in rwanda-health-placements.md)
+- Rwanda's own way: the final primary year teaches sport as responsibility — volleyball includes the rules and the leadership skills of a team captain, basketball ends in man-to-man defence played to the rules, and handball ends with goalkeeping and team play.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Volleyball techniques and tactics: service, dig, pass, spike, set and block (Unit 4, Lesson 1) (teacher guide — evidence) (original target `ball-games/volleyball-passing-and-setting`) | Rwanda Grade 6 PES Teacher's Guide P6, printed p. 95 |
+
+**Book — Rwanda Book 7 — Ordinary Level Physical Education, Teacher's Guide One (Senior One) (teacher guide, English) (teacher guide — evidence):**
+## Book 7 — Ordinary Level Physical Education, Teacher's Guide One (Senior One) (teacher guide, English)
+- Title as printed: Ordinary Level Physical Education Teacher's Guide One (Senior One) — the recorded file is named "Physical Education S1.pdf" and the download list calls it a student book, but the book itself is the REB teacher's guide for Senior One; it is filed as what it is
+- Grade: Grade 7 equivalent (Senior One, Ordinary Level) (student/teacher: TEACHER)
+- Publisher: Rwanda Education Board (REB); year not printed on the pages read; ISBN no ISBN printed
+- PDF pages: 196 (downloaded from the Wayback capture (2024-07-03) of the recorded REB e-learning link; the live link did not serve the file from this network. Cover/contents verified against the record. External-link book not in GitHub — kept in scratch and reported in the group log, because the staging shape for Rwanda secondary is not established)
+- Verdict: COMPLETE
+- Tally: 24 placements — 22 to existing lessons, 2 NEW LESSON NEEDED
+- Rwanda's own way: Ordinary Level PE includes two disability sports as full units — Goalball (played blindfolded, by sound) and Sitting Volleyball — alongside the standard sports, and pupils fabricate local materials for jumping and throwing when equipment is lacking.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Basic techniques of volleyball: service and pass (Unit 6, Lesson 1) (teacher guide — evidence) (original target `ball-games/volleyball-passing-and-setting`) | Rwanda Senior One PE Teacher's Guide S1, printed p. 93 |
+| Rwanda — Positioning exercises — receiving and passing according to your role, and rotation (Unit 6, Lesson 2) (teacher guide — evidence) (original target `ball-games/volleyball-passing-and-setting`) | Rwanda Senior One PE Teacher's Guide S1, printed p. 96 |
+
+**Book — Rwanda Book 8 — Physical Education and Sports for Rwandan Schools, Teacher's Guide 2 (Senior Two) (teacher guide, English) (teacher guide — evidence):**
+## Book 8 — Physical Education and Sports for Rwandan Schools, Teacher's Guide 2 (Senior Two) (teacher guide, English)
+- Title as printed: Ordinary Level — Physical Education and Sports for Rwandan Schools — Teacher's Guide 2 (authors Edward Kityo, Tom Kibirango, Godfrey Ssempaka) — the download-list record calls this file the "Physical Education Student Book S2", but the book behind the recorded reb.rw link is the teacher's guide; it is filed as what it is
+- Grade: Grade 8 equivalent (Senior Two, Ordinary Level) (student/teacher: TEACHER)
+- Publisher: MK Publishers (R) Ltd, Kigali; approved by REB; year not printed on the pages read; ISBN no ISBN printed
+- PDF pages: 184 (downloaded from the Wayback capture (2021-08-27) of the recorded reb.rw link; the live link did not serve the file from this network. Cover verified. External-link book not in GitHub — kept in scratch and reported in the group log, because the staging shape for Rwanda secondary is not established)
+- Verdict: COMPLETE
+- Tally: 35 placements — 31 to existing lessons, 4 NEW LESSON NEEDED
+- Rwanda's own way: Senior Two football is taught as systems — attacking systems, counter-attack, harassing the opponent, mutual aid, heading in defence and tackles — and athletics reaches the Fosbury flop, triple jump and all three throws.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Service (volleyball) (Unit 6, Lesson 1) (teacher guide — evidence) (original target `ball-games/volleyball-passing-and-setting`) | Rwanda Senior Two PE Teacher's Guide 2, printed p. 89 |
+| Rwanda — Passing (volleyball) (Unit 6, Lesson 2) (teacher guide — evidence) (original target `ball-games/volleyball-passing-and-setting`) | Rwanda Senior Two PE Teacher's Guide 2, printed p. 93 |
+| Rwanda — Defence (volleyball) (Unit 6, Lesson 3) (teacher guide — evidence) (original target `ball-games/volleyball-passing-and-setting`) | Rwanda Senior Two PE Teacher's Guide 2, printed p. 95 |
+
+Rwanda's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Rwanda is teacher-guide evidence only in this lesson, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

@@ -1,6 +1,6 @@
 # Sources — Games for Self-Control
 
-countries: Ethiopia, Tajikistan
+countries: Ethiopia, Tajikistan, Rwanda
 
 **Book 1:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–81 + front matter (88 PDF pages). Printed page = PDF page − 7. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md.
 
@@ -22,7 +22,7 @@ countries: Ethiopia, Tajikistan
 | Prove-it questions folded from the book's own Chapter 2 review — Sub lesson 4 (teacher guide — evidence) | Ethiopia, *Grade 6 Teacher Guide*, Chapter 2 summary + assessment answers, printed pp. 27–28 (teacher guide — evidence) |
 
 | Tajikistan — Part 1, Train Your Mind and Character; Self-Control — training will and character through exercise, and watching over your own state and progress (original target `games-to-play/games-for-self-control`) | Tajikistan, *Fizicheskaya Kultura (Physical Culture), Grades 1–4*, Part 1, printed pp. ~46–55 |
-**Acceptance count: taught in 2 countries (Ethiopia, Tajikistan).** Tajikistan is added as student-book stock (see its row above), inside the acceptance count.
+**Acceptance count: taught in 2 countries (Ethiopia, Tajikistan).** Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count.
 
 The Grade 1 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -33,3 +33,23 @@ The Grade 1 teacher guide is a TRUNCATED scan: the file holds printed pp. 1–43
 The Grade 6 teacher guide is a TRUNCATED scan: the file holds printed pp. 1–43 of 96. Missing from the file: Chapter 4 Athletics (pp. 44–55), Chapter 5 Gymnastics (pp. 56–68), Chapter 6 Ball skills (pp. 65–82), Chapter 7 Addis Ababa traditional movements and games (pp. 83–93), the references and the glossary. Parts resting on this guide are labelled (teacher guide — evidence) and never count as pupil-taught.
 
 Searchable tags: games for self-control, row passing, Dirchi Dirchi ድርቺ ድርቺ, ball into basket, self-respect in play, Ethiopia HPE Grade 1, Grade 2, self-control መቆጣጠር, togetherness communication standing for self and others, Ethiopia HPE Grade 6
+
+## Rwanda — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/rwanda-pe-placements.md. The Rwanda books stocked in this lesson are Book 2. All Rwanda books are teacher guides, so Rwanda is teacher-guide evidence only in this lesson — named in the countries line and in the rows below, but outside the acceptance count; no pupil's book in hand. Rwanda's own way is content, as the book lines below record it. The Health parts of these books are filed in rwanda-health-placements.md and placed in the Health course, not here.
+
+**Book — Rwanda Book 2 — Physical Education and Sports, Primary 2 Teacher's Guide (teacher guide, English) (teacher guide — evidence):**
+## Book 2 — Physical Education and Sports, Primary 2 Teacher's Guide (teacher guide, English)
+- Title as printed: Physical Education and Sports — Teacher's Guide — Primary 2
+- Grade: Grade 2 (Primary Two) (student/teacher: TEACHER)
+- Publisher: Rwanda Education Board (REB); year 2020 (© 2020 REB); ISBN no ISBN printed
+- PDF pages: 92 (secured books.json record grade-02/gov/rwanda/physical-education/teacher-guide/full-year.pdf, in_pushed — the file is NOT in the Git tree (404, no physical-education folder in the grade-02 tree); it was retrieved from the 'mid-size-books' GitHub release asset of the same path, byte size 9,334,195 verified against the release index. Cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 25 placements — 25 to existing lessons, 0 NEW LESSON NEEDED (Health parts of this book — Unit 6, Health and Well Being — are filed in rwanda-health-placements.md)
+- Rwanda's own way: every lesson in every unit opens with the same Unit 1 warm-up/stretching/cool-down routine until pupils own it, and hand-ball games are built up in one long unit that moves from throwing at goals to over the net to the basket.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Play games by following instructions (Unit 2, Lesson 4) (teacher guide — evidence) (original target `games-to-play/games-for-self-control`) | Rwanda Grade 2 PES Teacher's Guide P2, printed p. 37 |
+
+Rwanda's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Rwanda is teacher-guide evidence only in this lesson, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

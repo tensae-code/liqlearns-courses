@@ -1,0 +1,9 @@
+# Video script — Sitting Volleyball
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). Made later, when videos are made; the script is the slot's written form until then.
+
+---
+
+Sitting Volleyball at Senior One.
+Sitting Volleyball at Senior Two.
+That is **sitting volleyball**.

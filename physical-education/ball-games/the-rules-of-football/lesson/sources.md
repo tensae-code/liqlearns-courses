@@ -1,8 +1,8 @@
 # Sources — The Rules of Football
 
-countries: North Macedonia, Jordan
+countries: North Macedonia, Jordan, Rwanda
 
-**Acceptance count: taught in 2 countries (North Macedonia, Jordan).** Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. North Macedonia is student-book stock (see its rows below), inside the acceptance count.
+**Acceptance count: taught in 2 countries (North Macedonia, Jordan).** Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. North Macedonia is student-book stock (see its rows below), inside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count.
 
 ## North Macedonia — PE expansion 2026-11-16
 
@@ -76,3 +76,37 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/jordan-pe-pl
 | Jordan — Unit 1, Law of the Game pages: the international football rules taught inside the lessons (e.g. Rule 9, the ball in and out of play) (original target `ball-games/rules-of-football-and-futsal`) | Jordan Grade 9 PE Term 1, printed pp. 9–17 |
 
 Jordan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Jordan is student-book stock, inside the acceptance count, in this lesson. Jordan's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Rwanda — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/rwanda-pe-placements.md. The Rwanda books stocked in this lesson are Book 5, Book 8. All Rwanda books are teacher guides, so Rwanda is teacher-guide evidence only in this lesson — named in the countries line and in the rows below, but outside the acceptance count; no pupil's book in hand. Rwanda's own way is content, as the book lines below record it. The Health parts of these books are filed in rwanda-health-placements.md and placed in the Health course, not here.
+
+**Book — Rwanda Book 5 — Primary Physical Education for Rwandan Schools, Teacher's Guide 5 (teacher guide, English) (teacher guide — evidence):**
+## Book 5 — Primary Physical Education for Rwandan Schools, Teacher's Guide 5 (teacher guide, English)
+- Title as printed: Primary Physical Education for Rwandan Schools — Teacher's Guide 5 (cover: "Physical Education For Rwandan Schools, Teacher's Guide 5 — Approved by REB")
+- Grade: Grade 5 (Primary Five) (student/teacher: TEACHER)
+- Publisher: MK Publishers (R) Ltd, Kigali; approved by REB; year not printed on the cover pages read; ISBN no ISBN printed
+- PDF pages: 144 (secured books.json record grade-05/gov/rwanda/physical-education/teacher-guide/full-year.pdf, in_pushed but absent from the Git tree; retrieved from the 'mid-size-books' release asset of the same path, byte size 13,792,905 verified. Cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 32 placements — 30 to existing lessons, 2 NEW LESSON NEEDED (Health parts of this book — Unit 1 Lessons 1–2 and Unit 9, Transmitted Diseases — are filed in rwanda-health-placements.md)
+- Rwanda's own way: the MK guide names its athletics lessons after the games themselves — a "Formula One" running lesson, ladder running and a figure-"8" endurance race — and teaches goalkeeping as its own handball lesson.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Rules in football and the importance of playing football (Unit 5, Lesson 4) (teacher guide — evidence) (original target `ball-games/the-rules-of-football`) | Rwanda Grade 5 PE Teacher's Guide 5, printed p. 78 |
+
+**Book — Rwanda Book 8 — Physical Education and Sports for Rwandan Schools, Teacher's Guide 2 (Senior Two) (teacher guide, English) (teacher guide — evidence):**
+## Book 8 — Physical Education and Sports for Rwandan Schools, Teacher's Guide 2 (Senior Two) (teacher guide, English)
+- Title as printed: Ordinary Level — Physical Education and Sports for Rwandan Schools — Teacher's Guide 2 (authors Edward Kityo, Tom Kibirango, Godfrey Ssempaka) — the download-list record calls this file the "Physical Education Student Book S2", but the book behind the recorded reb.rw link is the teacher's guide; it is filed as what it is
+- Grade: Grade 8 equivalent (Senior Two, Ordinary Level) (student/teacher: TEACHER)
+- Publisher: MK Publishers (R) Ltd, Kigali; approved by REB; year not printed on the pages read; ISBN no ISBN printed
+- PDF pages: 184 (downloaded from the Wayback capture (2021-08-27) of the recorded reb.rw link; the live link did not serve the file from this network. Cover verified. External-link book not in GitHub — kept in scratch and reported in the group log, because the staging shape for Rwanda secondary is not established)
+- Verdict: COMPLETE
+- Tally: 35 placements — 31 to existing lessons, 4 NEW LESSON NEEDED
+- Rwanda's own way: Senior Two football is taught as systems — attacking systems, counter-attack, harassing the opponent, mutual aid, heading in defence and tackles — and athletics reaches the Fosbury flop, triple jump and all three throws.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Rules in football (Unit 5, Lesson 7) (teacher guide — evidence) (original target `ball-games/the-rules-of-football`) | Rwanda Senior Two PE Teacher's Guide 2, printed p. 80 |
+
+Rwanda's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Rwanda is teacher-guide evidence only in this lesson, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

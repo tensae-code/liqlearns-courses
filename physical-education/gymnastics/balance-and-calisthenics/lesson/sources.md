@@ -1,6 +1,6 @@
 # Sources — Balance and Calisthenics
 
-countries: Ethiopia, Kazakhstan, Afghanistan, El Salvador, Philippines, Nicaragua, Maldives, Belize, Honduras, Fiji, Mauritius, Iran, North Macedonia, Zimbabwe, Kuwait, Indonesia, Oman, Papua New Guinea
+countries: Ethiopia, Kazakhstan, Afghanistan, El Salvador, Philippines, Nicaragua, Maldives, Belize, Honduras, Fiji, Mauritius, Iran, North Macedonia, Zimbabwe, Kuwait, Indonesia, Oman, Papua New Guinea, Rwanda
 
 **Book — Grade 1 student:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 81 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md. COMPLETE.
 
@@ -19,7 +19,7 @@ countries: Ethiopia, Kazakhstan, Afghanistan, El Salvador, Philippines, Nicaragu
 | Free gymnastics and balance — Grade 5 | Ethiopia, Grade 5 student §5.2.1, printed pp. 66–68 |
 
 | Kazakhstan — All quarters — general developing exercises (ОРУ) on the spot and in movement, without objects and with objects, opening the lesson work (teacher guide — evidence) (original target `gymnastics/balance-and-calisthenics`) | Kazakhstan, *Physical Culture, Methodological Guide for Grade 4 Teachers* (Kazakhstan Grade 4 TG), printed pp. 4–5, 20, 48 |
-**Acceptance count: taught in 8 countries (Ethiopia, Philippines, Nicaragua, Mauritius, Iran, North Macedonia, Zimbabwe, Indonesia).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as teacher-guide evidence only (see its Honduras section below), named in the countries line but outside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count; the Mauritius teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count.
+**Acceptance count: taught in 8 countries (Ethiopia, Philippines, Nicaragua, Mauritius, Iran, North Macedonia, Zimbabwe, Indonesia).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as teacher-guide evidence only (see its Honduras section below), named in the countries line but outside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count; the Mauritius teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count. Oman is added as teacher-guide evidence only (see its Oman section below), outside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count.
 
 Student books Grades 1–4 are complete. No page is claimed that the placements do not give. Dance and game rules are taught only as the placements summarise them; no rules have been invented for any game the placements leave game-dependent.
 
@@ -694,3 +694,79 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/papua-new-gu
 | Papua New Guinea — Basic movement skills elaborated: the hop, the skip, the vertical jump and static balance, step by step (teacher guide — evidence) (original target `gymnastics/balance-and-calisthenics`) | Papua New Guinea, *Physical Education Teacher Guide, Primary Grade 4, Standards Based* (Papua New Guinea PE TG Grade 4), printed p. 4 |
 
 Papua New Guinea's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Papua New Guinea's own way is content, as the book lines above record it: PE organised in three strands — Safety, Movement, Physical Activity — in the primary guides, merging with Health into one six-strand subject from Grade 6, taught through village games, community modified sports and tabloid-sport station carnivals, with traditional leisure games, Tok Pisin-named modified sports (Kapul Soka, Tibol, Liklik Kriket, Mini Basketbol, Mini Volibol) and local leisure (gardening, fishing, sailing, sekapu stone games, string games) counted as PE content. Teacher guides are evidence of what is taught, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Rwanda — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/rwanda-pe-placements.md. The Rwanda books stocked in this lesson are Book 1, Book 2, Book 6, Book 7, Book 8. All Rwanda books are teacher guides, so Rwanda is teacher-guide evidence only in this lesson — named in the countries line and in the rows below, but outside the acceptance count; no pupil's book in hand. Rwanda's own way is content, as the book lines below record it. The Health parts of these books are filed in rwanda-health-placements.md and placed in the Health course, not here.
+
+**Book — Rwanda Book 1 — Physical Education and Sports, Primary One Teacher's Guide (teacher guide, English) (teacher guide — evidence):**
+## Book 1 — Physical Education and Sports, Primary One Teacher's Guide (teacher guide, English)
+- Title as printed: Physical Education and Sports — Primary One — Teacher's Guide
+- Grade: Grade 1 (Primary One) (student/teacher: TEACHER)
+- Publisher: Rwanda Basic Education Board (REB); year 2022 (© 2022 REB); ISBN no ISBN printed
+- PDF pages: 183 (downloaded from the Wayback capture of the recorded REB e-learning link — the live Moodle link now returns an error page and the 2025-11-13 capture is a 404 page; the 2024-10-06 forcedownload capture served the complete PDF, cover verified against the record title. This is an external-link book not in GitHub, so under the push-don't-delete rule the file is staged — see the group log)
+- Verdict: COMPLETE
+- Tally: 16 placements — 16 to existing lessons, 0 NEW LESSON NEEDED (Health parts of this book — Unit 6, Disease Prevention — are filed in rwanda-health-placements.md)
+- Rwanda's own way: the youngest pupils' PE is built from short games for everything — even hygiene and disease prevention are taught as exercises/games — and every unit carries the same cross-cutting frame: boys and girls play together, peace values (friendship, tolerance), inclusion of learners with disabilities, and caring for the playground.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Balance exercises and games — balancing in different positions through games (Unit 1, Lesson 2) (teacher guide — evidence) (original target `gymnastics/balance-and-calisthenics`) | Rwanda Grade 1 PES Teacher's Guide P1, printed p. 27 |
+
+**Book — Rwanda Book 2 — Physical Education and Sports, Primary 2 Teacher's Guide (teacher guide, English) (teacher guide — evidence):**
+## Book 2 — Physical Education and Sports, Primary 2 Teacher's Guide (teacher guide, English)
+- Title as printed: Physical Education and Sports — Teacher's Guide — Primary 2
+- Grade: Grade 2 (Primary Two) (student/teacher: TEACHER)
+- Publisher: Rwanda Education Board (REB); year 2020 (© 2020 REB); ISBN no ISBN printed
+- PDF pages: 92 (secured books.json record grade-02/gov/rwanda/physical-education/teacher-guide/full-year.pdf, in_pushed — the file is NOT in the Git tree (404, no physical-education folder in the grade-02 tree); it was retrieved from the 'mid-size-books' GitHub release asset of the same path, byte size 9,334,195 verified against the release index. Cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 25 placements — 25 to existing lessons, 0 NEW LESSON NEEDED (Health parts of this book — Unit 6, Health and Well Being — are filed in rwanda-health-placements.md)
+- Rwanda's own way: every lesson in every unit opens with the same Unit 1 warm-up/stretching/cool-down routine until pupils own it, and hand-ball games are built up in one long unit that moves from throwing at goals to over the net to the basket.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Balance exercises/games (Unit 1, Lesson 2) (teacher guide — evidence) (original target `gymnastics/balance-and-calisthenics`) | Rwanda Grade 2 PES Teacher's Guide P2, printed p. 27 |
+
+**Book — Rwanda Book 6 — Physical Education and Sports, Primary Six Teacher's Guide (teacher guide, English) (teacher guide — evidence):**
+## Book 6 — Physical Education and Sports, Primary Six Teacher's Guide (teacher guide, English)
+- Title as printed: Physical Education and Sports — Primary Six — Teacher's Guide
+- Grade: Grade 6 (Primary Six) (student/teacher: TEACHER)
+- Publisher: Rwanda Education Board (REB), Kigali; year 2019 (January 2019); ISBN no ISBN printed
+- PDF pages: 216 (secured books.json record grade-06/gov/rwanda/physical-education/teacher-guide/full-year.pdf, in_pushed but absent from the Git tree; retrieved from the 'mid-size-books' release asset of the same path, byte size 12,272,273 verified. Cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 19 placements — 19 to existing lessons, 0 NEW LESSON NEEDED (Health parts of this book — Unit 1 Lesson 3, disease prevention — are filed in rwanda-health-placements.md)
+- Rwanda's own way: the final primary year teaches sport as responsibility — volleyball includes the rules and the leadership skills of a team captain, basketball ends in man-to-man defence played to the rules, and handball ends with goalkeeping and team play.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Body balance and coordination (Unit 1, Lesson 2) (teacher guide — evidence) (original target `gymnastics/balance-and-calisthenics`) | Rwanda Grade 6 PES Teacher's Guide P6, printed p. 14 |
+
+**Book — Rwanda Book 7 — Ordinary Level Physical Education, Teacher's Guide One (Senior One) (teacher guide, English) (teacher guide — evidence):**
+## Book 7 — Ordinary Level Physical Education, Teacher's Guide One (Senior One) (teacher guide, English)
+- Title as printed: Ordinary Level Physical Education Teacher's Guide One (Senior One) — the recorded file is named "Physical Education S1.pdf" and the download list calls it a student book, but the book itself is the REB teacher's guide for Senior One; it is filed as what it is
+- Grade: Grade 7 equivalent (Senior One, Ordinary Level) (student/teacher: TEACHER)
+- Publisher: Rwanda Education Board (REB); year not printed on the pages read; ISBN no ISBN printed
+- PDF pages: 196 (downloaded from the Wayback capture (2024-07-03) of the recorded REB e-learning link; the live link did not serve the file from this network. Cover/contents verified against the record. External-link book not in GitHub — kept in scratch and reported in the group log, because the staging shape for Rwanda secondary is not established)
+- Verdict: COMPLETE
+- Tally: 24 placements — 22 to existing lessons, 2 NEW LESSON NEEDED
+- Rwanda's own way: Ordinary Level PE includes two disability sports as full units — Goalball (played blindfolded, by sound) and Sitting Volleyball — alongside the standard sports, and pupils fabricate local materials for jumping and throwing when equipment is lacking.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Body control and balance exercises — balancing in different positions (Unit 2) (teacher guide — evidence) (original target `gymnastics/balance-and-calisthenics`) | Rwanda Senior One PE Teacher's Guide S1, printed p. 17 |
+
+**Book — Rwanda Book 8 — Physical Education and Sports for Rwandan Schools, Teacher's Guide 2 (Senior Two) (teacher guide, English) (teacher guide — evidence):**
+## Book 8 — Physical Education and Sports for Rwandan Schools, Teacher's Guide 2 (Senior Two) (teacher guide, English)
+- Title as printed: Ordinary Level — Physical Education and Sports for Rwandan Schools — Teacher's Guide 2 (authors Edward Kityo, Tom Kibirango, Godfrey Ssempaka) — the download-list record calls this file the "Physical Education Student Book S2", but the book behind the recorded reb.rw link is the teacher's guide; it is filed as what it is
+- Grade: Grade 8 equivalent (Senior Two, Ordinary Level) (student/teacher: TEACHER)
+- Publisher: MK Publishers (R) Ltd, Kigali; approved by REB; year not printed on the pages read; ISBN no ISBN printed
+- PDF pages: 184 (downloaded from the Wayback capture (2021-08-27) of the recorded reb.rw link; the live link did not serve the file from this network. Cover verified. External-link book not in GitHub — kept in scratch and reported in the group log, because the staging shape for Rwanda secondary is not established)
+- Verdict: COMPLETE
+- Tally: 35 placements — 31 to existing lessons, 4 NEW LESSON NEEDED
+- Rwanda's own way: Senior Two football is taught as systems — attacking systems, counter-attack, harassing the opponent, mutual aid, heading in defence and tackles — and athletics reaches the Fosbury flop, triple jump and all three throws.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Body control and balance (Unit 2, Lesson 1) (teacher guide — evidence) (original target `gymnastics/balance-and-calisthenics`) | Rwanda Senior Two PE Teacher's Guide 2, printed p. 7 |
+
+Rwanda's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Rwanda is teacher-guide evidence only in this lesson, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

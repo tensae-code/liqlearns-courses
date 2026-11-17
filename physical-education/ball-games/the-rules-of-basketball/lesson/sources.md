@@ -1,6 +1,6 @@
 # Sources — The Rules of Basketball
 
-countries: Ethiopia, Timor-Leste, Pakistan, Afghanistan, China, Azerbaijan, Belize, Honduras, Iran, North Macedonia, Jordan, Malaysia, Cuba, Kuwait, Papua New Guinea
+countries: Ethiopia, Timor-Leste, Pakistan, Afghanistan, China, Azerbaijan, Belize, Honduras, Iran, North Macedonia, Jordan, Malaysia, Cuba, Kuwait, Papua New Guinea, Rwanda
 
 **Book — Grade 9 student:** *Health and Physical Education Student's Textbook Grade 9* (student textbook, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, First Published August 2023, ISBN 978-99990-0-072-7, 156 printed pp. Printed page = PDF page − 10. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g09-student-placements.md. COMPLETE.
 **Book — Grade 9 teacher (teacher guide — evidence):** *Health and Physical Education — Teacher Guide, Grade 9* (teacher guide, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, © 2022, printed pp. I–IX + 1–116. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g09-teacher-placements.md. COMPLETE.
@@ -18,7 +18,7 @@ countries: Ethiopia, Timor-Leste, Pakistan, Afghanistan, China, Azerbaijan, Beli
 | Teams of twelve, uniforms, and how the game is run (teacher guide — evidence) | Ethiopia, Grade 10 teacher Unit 6, Basketball rules in detail (teacher guide — evidence) (§6.1.1 teams of twelve incl. captain, coach and assistant coach as delegates; §6.1.2 uniform, numbers 0–99; §6.1.4 the captain; §6.1.5 the head coach; §6.1.6 playing regulation; §6.1.7 goal; §6.1.8 throw-in; §6.1.9 time-out; §6.1.10 substitution), printed pp. 70–72 |
 
 | Timor-Leste — Appendix 4: Basketball — the game's rules and mini-games (teacher guide — evidence) (original target `ball-games/the-rules-of-basketball`) | Timor-Leste, *Educação Física 7, Guia do Professor* (Timor-Leste Grade 7 Teacher Guide), printed p. 197 |
-**Acceptance count: taught in 9 countries (Ethiopia, Pakistan, China, Azerbaijan, Honduras, Iran, North Macedonia, Jordan, Malaysia).** Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Timor-Leste is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 9 countries (Ethiopia, Pakistan, China, Azerbaijan, Honduras, Iran, North Macedonia, Jordan, Malaysia).** Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Timor-Leste is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Kuwait is added as teacher-guide evidence only (see its Kuwait section below), named in the countries line but outside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count.
 
 The Grade 10 teacher guide is substantively complete (printed pp. I–IX + 1–93): all 8 units, knowledge content and answer keys are present; only §8.3's final step-by-step teaching procedure is cut mid-sentence at printed p. 92. Nothing in this lesson rests on the cut tail. Teacher-guide rows are evidence only and never count as pupil-taught.
 
@@ -444,3 +444,51 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/papua-new-gu
 | Papua New Guinea — Strand 6 Unit 1: Ball handling — Goal Throwing: basketball rules, basketball skills, and applying basketball skills in a game (teacher guide — evidence) (original target `ball-games/the-rules-of-basketball`) | Papua New Guinea, *Health & Physical Education Teacher Guide, Primary Grade 7, Standards Based* (Papua New Guinea HPE TG Grade 7), printed p. 47 |
 
 Papua New Guinea's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Papua New Guinea's own way is content, as the book lines above record it: PE organised in three strands — Safety, Movement, Physical Activity — in the primary guides, merging with Health into one six-strand subject from Grade 6, taught through village games, community modified sports and tabloid-sport station carnivals, with traditional leisure games, Tok Pisin-named modified sports (Kapul Soka, Tibol, Liklik Kriket, Mini Basketbol, Mini Volibol) and local leisure (gardening, fishing, sailing, sekapu stone games, string games) counted as PE content. Teacher guides are evidence of what is taught, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Rwanda — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/rwanda-pe-placements.md. The Rwanda books stocked in this lesson are Book 5, Book 6, Book 8. All Rwanda books are teacher guides, so Rwanda is teacher-guide evidence only in this lesson — named in the countries line and in the rows below, but outside the acceptance count; no pupil's book in hand. Rwanda's own way is content, as the book lines below record it. The Health parts of these books are filed in rwanda-health-placements.md and placed in the Health course, not here.
+
+**Book — Rwanda Book 5 — Primary Physical Education for Rwandan Schools, Teacher's Guide 5 (teacher guide, English) (teacher guide — evidence):**
+## Book 5 — Primary Physical Education for Rwandan Schools, Teacher's Guide 5 (teacher guide, English)
+- Title as printed: Primary Physical Education for Rwandan Schools — Teacher's Guide 5 (cover: "Physical Education For Rwandan Schools, Teacher's Guide 5 — Approved by REB")
+- Grade: Grade 5 (Primary Five) (student/teacher: TEACHER)
+- Publisher: MK Publishers (R) Ltd, Kigali; approved by REB; year not printed on the cover pages read; ISBN no ISBN printed
+- PDF pages: 144 (secured books.json record grade-05/gov/rwanda/physical-education/teacher-guide/full-year.pdf, in_pushed but absent from the Git tree; retrieved from the 'mid-size-books' release asset of the same path, byte size 13,792,905 verified. Cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 32 placements — 30 to existing lessons, 2 NEW LESSON NEEDED (Health parts of this book — Unit 1 Lessons 1–2 and Unit 9, Transmitted Diseases — are filed in rwanda-health-placements.md)
+- Rwanda's own way: the MK guide names its athletics lessons after the games themselves — a "Formula One" running lesson, ladder running and a figure-"8" endurance race — and teaches goalkeeping as its own handball lesson.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Basic rules and technical gestures in playing basketball (Unit 7, Lesson 4) (teacher guide — evidence) (original target `ball-games/the-rules-of-basketball`) | Rwanda Grade 5 PE Teacher's Guide 5, printed p. 101 |
+
+**Book — Rwanda Book 6 — Physical Education and Sports, Primary Six Teacher's Guide (teacher guide, English) (teacher guide — evidence):**
+## Book 6 — Physical Education and Sports, Primary Six Teacher's Guide (teacher guide, English)
+- Title as printed: Physical Education and Sports — Primary Six — Teacher's Guide
+- Grade: Grade 6 (Primary Six) (student/teacher: TEACHER)
+- Publisher: Rwanda Education Board (REB), Kigali; year 2019 (January 2019); ISBN no ISBN printed
+- PDF pages: 216 (secured books.json record grade-06/gov/rwanda/physical-education/teacher-guide/full-year.pdf, in_pushed but absent from the Git tree; retrieved from the 'mid-size-books' release asset of the same path, byte size 12,272,273 verified. Cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 19 placements — 19 to existing lessons, 0 NEW LESSON NEEDED (Health parts of this book — Unit 1 Lesson 3, disease prevention — are filed in rwanda-health-placements.md)
+- Rwanda's own way: the final primary year teaches sport as responsibility — volleyball includes the rules and the leadership skills of a team captain, basketball ends in man-to-man defence played to the rules, and handball ends with goalkeeping and team play.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Man-to-man defense and playing in team adhering to rules (Unit 5, Lesson 3) (teacher guide — evidence) (original target `ball-games/the-rules-of-basketball`) | Rwanda Grade 6 PES Teacher's Guide P6, printed p. 153 |
+
+**Book — Rwanda Book 8 — Physical Education and Sports for Rwandan Schools, Teacher's Guide 2 (Senior Two) (teacher guide, English) (teacher guide — evidence):**
+## Book 8 — Physical Education and Sports for Rwandan Schools, Teacher's Guide 2 (Senior Two) (teacher guide, English)
+- Title as printed: Ordinary Level — Physical Education and Sports for Rwandan Schools — Teacher's Guide 2 (authors Edward Kityo, Tom Kibirango, Godfrey Ssempaka) — the download-list record calls this file the "Physical Education Student Book S2", but the book behind the recorded reb.rw link is the teacher's guide; it is filed as what it is
+- Grade: Grade 8 equivalent (Senior Two, Ordinary Level) (student/teacher: TEACHER)
+- Publisher: MK Publishers (R) Ltd, Kigali; approved by REB; year not printed on the pages read; ISBN no ISBN printed
+- PDF pages: 184 (downloaded from the Wayback capture (2021-08-27) of the recorded reb.rw link; the live link did not serve the file from this network. Cover verified. External-link book not in GitHub — kept in scratch and reported in the group log, because the staging shape for Rwanda secondary is not established)
+- Verdict: COMPLETE
+- Tally: 35 placements — 31 to existing lessons, 4 NEW LESSON NEEDED
+- Rwanda's own way: Senior Two football is taught as systems — attacking systems, counter-attack, harassing the opponent, mutual aid, heading in defence and tackles — and athletics reaches the Fosbury flop, triple jump and all three throws.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Basketball rules and technical gestures (Unit 7, Lesson 3) (teacher guide — evidence) (original target `ball-games/the-rules-of-basketball`) | Rwanda Senior Two PE Teacher's Guide 2, printed p. 118 |
+
+Rwanda's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Rwanda is teacher-guide evidence only in this lesson, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

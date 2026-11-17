@@ -1,8 +1,8 @@
 # Sources — Goalkeeping
 
-countries: Azerbaijan
+countries: Azerbaijan, Rwanda
 
-**Acceptance count: taught in 1 country (Azerbaijan).** Azerbaijan is student-book stock (see its rows below), inside the acceptance count.
+**Acceptance count: taught in 1 country (Azerbaijan).** Azerbaijan is student-book stock (see its rows below), inside the acceptance count. Rwanda is added as teacher-guide evidence only (see its Rwanda section below), named in the countries line but outside the acceptance count.
 
 ## Azerbaijan — PE expansion 2026-11-16
 
@@ -27,3 +27,23 @@ Azerbaijan's placements in this lesson were filed under the original strings rec
 This is a canonical NEW lesson (slug-registry Part 1: `ball-games/goalkeeping` — Goalkeeping: the goalkeeper's positioning, catching, clearing and technique in football and handball.); Azerbaijan's placements were filed under the original strings recorded in the provenance rows above, resolved by registry Part 2 to this canonical slug where the string differs. Azerbaijan enters this lesson as student-book stock, inside the acceptance count.
 
 Searchable tags: goalkeeping, goalkeeper, football, Azerbaijan Grade 7
+
+## Rwanda — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/rwanda-pe-placements.md. The Rwanda books stocked in this lesson are Book 5. All Rwanda books are teacher guides, so Rwanda is teacher-guide evidence only in this lesson — named in the countries line and in the rows below, but outside the acceptance count; no pupil's book in hand. Rwanda's own way is content, as the book lines below record it. The Health parts of these books are filed in rwanda-health-placements.md and placed in the Health course, not here.
+
+**Book — Rwanda Book 5 — Primary Physical Education for Rwandan Schools, Teacher's Guide 5 (teacher guide, English) (teacher guide — evidence):**
+## Book 5 — Primary Physical Education for Rwandan Schools, Teacher's Guide 5 (teacher guide, English)
+- Title as printed: Primary Physical Education for Rwandan Schools — Teacher's Guide 5 (cover: "Physical Education For Rwandan Schools, Teacher's Guide 5 — Approved by REB")
+- Grade: Grade 5 (Primary Five) (student/teacher: TEACHER)
+- Publisher: MK Publishers (R) Ltd, Kigali; approved by REB; year not printed on the cover pages read; ISBN no ISBN printed
+- PDF pages: 144 (secured books.json record grade-05/gov/rwanda/physical-education/teacher-guide/full-year.pdf, in_pushed but absent from the Git tree; retrieved from the 'mid-size-books' release asset of the same path, byte size 13,792,905 verified. Cover verified against the record title)
+- Verdict: COMPLETE
+- Tally: 32 placements — 30 to existing lessons, 2 NEW LESSON NEEDED (Health parts of this book — Unit 1 Lessons 1–2 and Unit 9, Transmitted Diseases — are filed in rwanda-health-placements.md)
+- Rwanda's own way: the MK guide names its athletics lessons after the games themselves — a "Formula One" running lesson, ladder running and a figure-"8" endurance race — and teaches goalkeeping as its own handball lesson.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rwanda — Goalkeeping (handball) — the goalkeeper's own techniques as a separate lesson (Unit 8, Lesson 4) (teacher guide — evidence) (original target `ball-games/goalkeeping-basics`) | Rwanda Grade 5 PE Teacher's Guide 5, printed p. 111 |
+
+Rwanda's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Rwanda is teacher-guide evidence only in this lesson, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
