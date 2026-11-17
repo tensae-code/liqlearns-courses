@@ -1,8 +1,8 @@
 # Sources — Family and Friends
 
-countries: Namibia, Samoa, Timor-Leste, Sierra Leone, Malaysia, Bhutan, Thailand, Indonesia, Eritrea, Jamaica, Maldives, United Arab Emirates, Sri Lanka
+countries: Namibia, Samoa, Timor-Leste, Sierra Leone, Malaysia, Bhutan, Thailand, Indonesia, Eritrea, Jamaica, Maldives, United Arab Emirates, Sri Lanka, Fiji
 
-**Acceptance count: taught in 8 countries.** Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. United Arab Emirates is added as student-book stock (see its United Arab Emirates section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Namibia is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Sierra Leone is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Sierra Leone rows (see its Sierra Leone section below). Malaysia is filed as student-book stock, inside the acceptance count, in this lesson (see its Malaysia section below). Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — all five Bhutan books are STUDENT books. Thailand is added as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count. Eritrea is added as student-book stock (see its Eritrea section below), inside the acceptance count — all three Eritrea books are STUDENT books. Jamaica is filed as curriculum-guide evidence only in this lesson (see its Jamaica section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Jamaica rows in this lesson — both read Jamaica books are curriculum guides (TEACHER). Maldives is filed as teacher-guide evidence only in this lesson (see its Maldives section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Maldives rows in this lesson.
+**Acceptance count: taught in 9 countries.** Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. United Arab Emirates is added as student-book stock (see its United Arab Emirates section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Namibia is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Sierra Leone is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Sierra Leone rows (see its Sierra Leone section below). Malaysia is filed as student-book stock, inside the acceptance count, in this lesson (see its Malaysia section below). Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — all five Bhutan books are STUDENT books. Thailand is added as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count. Eritrea is added as student-book stock (see its Eritrea section below), inside the acceptance count — all three Eritrea books are STUDENT books. Jamaica is filed as curriculum-guide evidence only in this lesson (see its Jamaica section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Jamaica rows in this lesson — both read Jamaica books are curriculum guides (TEACHER). Maldives is filed as teacher-guide evidence only in this lesson (see its Maldives section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Maldives rows in this lesson.
 
 **Book 1 — Physical Education 4 Life: A Guide for Physical Education Teachers in Namibia, Grades 10–11 (teacher guide, English) — Health parts:**
 - Title as printed: Physical Education 4 Life — A Guide for Physical Education Teachers in Namibia — Grades 10–11
@@ -511,3 +511,145 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/sri-lanka-he
 | Sri Lanka — Ch. 21 — social wellbeing and living in harmony (original string `staying-safe/social-harmony-and-wellbeing`) | Sri Lanka Grade 9 G9 Sinhala/Tamil student book, printed p. 189 |
 
 Sri Lanka is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the student book(s) stocked here are Book 1, Book L6, so Sri Lanka is named in the countries line and provenance rows and the acceptance count rises from 7 to 8 countries; the teacher-guide rows, where present, are teacher-guide evidence only, outside the count. The Sri Lanka placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Sri Lanka's own way is content, as the book lines above record it: health is taught through the family and home first, then food, the body, emotions, adolescence and disease prevention, widening to the whole community and society, with the Piriven primary books teaching health almost entirely and the 1984 Grades 9–10 book teaching a full medical-foundations course. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+## Fiji — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/fiji-health-placements.md. 40 Fiji placement(s) stocked in this lesson. The Fiji book(s) stocked in this lesson: Book 1, Book 2, Book 3, Book 5, Book 7, Book 8, Book 10, Book 13 of that file. Fiji is student-book stock, inside the acceptance count, in this lesson; the teacher-guide books stocked here (where present — Books 6, 9 and 11 of that file, the PE for Fun teachers handbooks/guides) are teacher-guide evidence only, outside the count, and their rows are marked (teacher guide — evidence). No Fiji placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound. Book 13 of that file (Healthy Living Year 7) is a link-only record, not in GitHub, read in full via the FlipHTML5 flipbook's search-indexed text, as filed; its glossary and reference pages are inventory-only, named not placed. Book 10's glossary (printed pp. 62–66) is inventory-only, named not placed, as filed. Book 3's glossary (printed pp. 61–68) is inventory-only, named not placed, as filed.
+
+**Book 1 — Healthy Living Year 1 (student book, English):**
+- Title as printed: Healthy Living — Pupils Workbook, Year 1 (record title: Health Science Year 1)
+- Grade: Year 1 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Fiji (Curriculum Development Unit); year 2014; ISBN no ISBN printed
+- PDF pages: 28 (cover/title page verified against the record title — cover reads HEALTHY LIVING / PUPILS WORKBOOK / YEAR 1)
+- Verdict: COMPLETE
+- Tally: 24 placements — 3 to existing lessons, 21 NEW LESSON NEEDED (incl. 2 HELD)
+- Fiji's own way: a picture workbook of very short units, each taught through pictures, songs/rhymes and colouring/matching, rooted in island life — floods and hurricanes, boats, swimming, pets and village family life.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Unit 4 Taking Care of Our Pets — what pets do and how we care for them (original string `staying-safe/caring-for-pets-safely`) | Fiji Year 1 Healthy Living, printed p. 7 |
+| Fiji — Unit 5 Making Friends — sharing, caring, honesty, and not bullying or saying rude things (original string `fair-play-and-the-body/making-friends-and-being-kind`) | Fiji Year 1 Healthy Living, printed p. 8 |
+| Fiji — Unit 6 Love and Respect for Family Members — telling good family behaviour from bad (original string `fair-play-and-the-body/love-and-respect-for-family`) | Fiji Year 1 Healthy Living, printed p. 9 |
+| Fiji — Unit 10 Good Manners — please, thank you, excuse me, may I, help and you are welcome (original string `fair-play-and-the-body/good-manners`) | Fiji Year 1 Healthy Living, printed p. 13 |
+| Fiji — Unit 21 Being Responsible for Taking Care of Things — where things belong and keeping them properly (original string `fair-play-and-the-body/looking-after-our-things`) | Fiji Year 1 Healthy Living, printed p. 25 |
+
+**Book 2 — Healthy Living Year 2 (student book, English):**
+- Title as printed: Healthy Living — Pupils Workbook, Year 2 (record title: Health Science Year 2)
+- Grade: Year 2 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Fiji (Curriculum Development Unit); year 2014; ISBN no ISBN printed
+- PDF pages: 28 (cover/title page verified — cover text reads HEALTHY LIVING / PUPILS WORKBOOK / YEAR 2; read via the Wayback duplicate link record for this same book after the GitHub tree grab failed with RemoteDisconnected)
+- Verdict: COMPLETE
+- Tally: 24 placements — 2 to existing lessons, 22 NEW LESSON NEEDED (incl. 2 HELD)
+- Fiji's own way: same workbook pattern as Year 1, a step up — word searches, scrambles and should/shouldn't tables; Fiji hazards (hurricanes, floods, power lines) and rubbish sorted into burn / bury / compost.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Unit 5 Keeping Friends — treating friends as special, being friendly and having fun together (original string `fair-play-and-the-body/making-friends-and-being-kind`) | Fiji Year 2 Healthy Living, printed p. 8 |
+| Fiji — Unit 11 Good Table Manners — wash hands before eating, sit quietly, no elbows, reaching, shouting or talking with a full mouth (original string `fair-play-and-the-body/good-manners`) | Fiji Year 2 Healthy Living, printed p. 14 |
+| Fiji — Unit 21 Being Responsible for Taking Care of Things — keep books tidy and classroom clean, put things in their places, do not damage borrowed things (original string `fair-play-and-the-body/looking-after-our-things`) | Fiji Year 2 Healthy Living, printed p. 24 |
+| Fiji — Unit 22 Love and Respect for Members of the Family — respecting, sharing, asking before going out; never fighting, shouting or swearing at parents (original string `fair-play-and-the-body/love-and-respect-for-family`) | Fiji Year 2 Healthy Living, printed p. 25 |
+
+**Book 3 — Healthy Living Year 5 (student book, English):**
+- Title as printed: Healthy Living, Year 5 (record titles: Healthy Living Year 5 / Health Science Year 5)
+- Grade: Year 5 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Fiji (Curriculum Development Unit); year 2015; ISBN no ISBN printed
+- PDF pages: 69 (cover verified — HEALTHY LIVING / YEAR 5; read via the Wayback duplicate link record for this same book after the GitHub tree grab failed with RemoteDisconnected; glossary pp. 61–68 is inventory-only, named not placed)
+- Verdict: COMPLETE
+- Tally: 28 placements — 2 to existing lessons, 26 NEW LESSON NEEDED (incl. 5 HELD)
+- Fiji's own way: a full textbook now, not a workbook — growth and puberty first, then relationships, safety and first aid, then Fiji food and disease: local staples (dalo, tavioka, kumala), the Fiji immunisation schedule, coastal tabu marine protection, vesi trees and mangrove planting.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Unit 8 What is a Healthy Family Relationship — safe, respectful conflict in families, communication, and traditional and modern roles of Fijian and Indo-Fijian family members (original string `fair-play-and-the-body/love-and-respect-for-family`) | Fiji Year 5 Healthy Living, printed pp. 14–16 |
+| Fiji — Unit 9 Relationships — good and bad relationships and developing interpersonal and communication skills (original string `fair-play-and-the-body/making-friends-and-being-kind`) | Fiji Year 5 Healthy Living, printed pp. 17–20 |
+| Fiji — Unit 27 Civic Pride and Good Citizenship — pride in country, school and community, loyalty and caring for what is around us (original string `fair-play-and-the-body/civic-pride-and-good-citizenship`) | Fiji Year 5 Healthy Living, printed p. 57 |
+
+**Book 5 — Healthy Living Year 3 (student book, English):**
+- Title as printed: Healthy Living, Year 3 — Pupils Workbook (record title: Healthy Living Year 3)
+- Grade: Year 3 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Fiji (Curriculum Development Unit); year 2015; ISBN no ISBN printed
+- PDF pages: 48 (cover verified — HEALTHY LIVING / YEAR 3; read via grab.py tree route. Note: the contents list 25 units in strands H1–H4; the environment unit is mis-numbered "Unit 21" in the body)
+- Verdict: COMPLETE
+- Tally: 26 placements — 3 to existing lessons, 23 NEW LESSON NEEDED (incl. 4 HELD)
+- Fiji's own way: units grouped under four health strands (growth, relationships, safety, personal and community health); the safety strand is pure Fiji — crossing flooded creeks on tree-trunk bridges, railway lines, cane trucks, stray dogs, and help from the turaga-ni-koro (village headman).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Unit 7 Boys and Girls — what boys and girls share, liking who we are, and the work each does at home (original string `fair-play-and-the-body/boys-and-girls`) | Fiji Year 3 Healthy Living, printed p. 13 |
+| Fiji — Unit 8 Relationships — healthy relationships, helping those in need, and what good friends do: turn-taking, sharing, helping, loving, honesty (original string `fair-play-and-the-body/making-friends-and-being-kind`) | Fiji Year 3 Healthy Living, printed p. 14 |
+| Fiji — Unit 9 Good Manners — thank you, excuse me, please, and asking forgiveness, in a story about borrowing a rake (original string `fair-play-and-the-body/good-manners`) | Fiji Year 3 Healthy Living, printed pp. 15–16 |
+| Fiji — Unit 10 Listening When Someone is Talking — look at the speaker, listen carefully, say "I beg your pardon", and seeing the world through others' eyes (original string `fair-play-and-the-body/listening-to-others`) | Fiji Year 3 Healthy Living, printed p. 17 |
+| Fiji — Unit 11 Obeying Classroom and School Rules — four sets of class rules: respect, raised hands, listening, preparedness and doing your best (original string `fair-play-and-the-body/classroom-and-school-rules`) | Fiji Year 3 Healthy Living, printed pp. 18–19 |
+
+**Book 7 — Healthy Living Year 4 (student book, English):**
+- Title as printed: Healthy Living, Year 4 — Pupils Workbook (record title: Healthy Living Year 4)
+- Grade: Year 4 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Fiji (Curriculum Development Unit); year 2015; ISBN no ISBN printed
+- PDF pages: 49 (cover verified — HEALTHY LIVING / YEAR 4; read via grab.py tree route)
+- Verdict: COMPLETE
+- Tally: 30 placements — 2 to existing lessons, 28 NEW LESSON NEEDED (incl. 6 HELD)
+- Fiji's own way: growth and body systems first, then a strong self-and-others strand (disability, respect, leaders, assertiveness against bullying, self-esteem), then the longest personal-safety unit in the series, and Fiji's pineapple-shaped food guide.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Unit 3 Importance of Extracurricular Activities — sport, debating, chess, guides, scouting and choir round out school, build time and stress management and socialising (original string `fair-play-and-the-body/extracurricular-activities-and-balance`) | Fiji Year 4 Healthy Living, printed p. 8 |
+| Fiji — Unit 7 Understanding Others: Physically Challenged Peers — vision, hearing, mental-health and physical impairments; high expectations, no pity, teasing or name-calling, and making adjustments so everyone can join in (original string `fair-play-and-the-body/understanding-and-including-peers-with-disabilities`) | Fiji Year 4 Healthy Living, printed p. 16 |
+| Fiji — Unit 8 Respecting Others — considering others' feelings, needs and wishes, not interrupting, asking for feedback and letting others solve their own problems (original string `fair-play-and-the-body/respecting-others`) | Fiji Year 4 Healthy Living, printed p. 17 |
+| Fiji — Unit 9 Importance of Having Rules — home, school, community rules and national laws organise life together fairly, safely and respectfully (original string `fair-play-and-the-body/classroom-and-school-rules`) | Fiji Year 4 Healthy Living, printed p. 18 |
+| Fiji — Unit 10 Leaders — a good leader communicates, understands the group's aim, decides wisely, plans, and is fair, alert and helpful (original string `fair-play-and-the-body/being-a-good-leader`) | Fiji Year 4 Healthy Living, printed p. 19 |
+| Fiji — Unit 25 Being a Responsible Citizen — respect your country, follow road rules, be helpful, do not litter, separate waste and recycle glass, paper, metal and plastic (original string `fair-play-and-the-body/civic-pride-and-good-citizenship`) | Fiji Year 4 Healthy Living, printed pp. 45–46 |
+
+**Book 8 — Healthy Living Year 6 (student book, English):**
+- Title as printed: Healthy Living, Year 6 — Pupils Workbook, Trial Version (record title: Healthy Living Year 6)
+- Grade: Year 6 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Fiji (Curriculum Development Unit); year 2015; ISBN no ISBN printed
+- PDF pages: 57 (cover verified — HEALTHY LIVING / YEAR 6; read via grab.py tree route; the same book is also offered as a FlipHTML5 link record, counted once here)
+- Verdict: COMPLETE
+- Tally: 25 placements — 3 to existing lessons, 22 NEW LESSON NEEDED (incl. 3 HELD)
+- Fiji's own way: the series turns serious — body systems, reproductive health, peer pressure and intimate relationships, harmful substances including grog (kava) and glue sniffing, disaster diseases, and Fiji's lifestyle-disease (NCD) problem, with local bullying role models Ashika and Taniela.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Unit 7 Relationships — healthy, positive relationships with family, friends, team mates and pets; family support as honesty, helpfulness, consideration, obedience, kindness and trustworthiness (original string `fair-play-and-the-body/making-friends-and-being-kind`) | Fiji Year 6 Healthy Living, printed pp. 12–13 |
+
+**Book 10 — Healthy Living Year 8 (student book, English):**
+- Title as printed: Healthy Living, Year 8 — Pupils Workbook, Edited Version (record title: Healthy Living Year 8)
+- Grade: Year 8 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Fiji (Curriculum Development Unit); year 2015 (Edited version); ISBN no ISBN printed
+- PDF pages: 71 (cover verified — HEALTHY LIVING / YEAR 8; read via grab.py tree route; glossary pp. 62–66 is inventory-only, named not placed)
+- Verdict: COMPLETE
+- Tally: 29 placements — 2 to existing lessons, 27 NEW LESSON NEEDED (incl. 5 HELD)
+- Fiji's own way: puberty taught head-on with Fijian gender expectations examined against tradition, travel safety for the outer islands (boats and rafts), a real Fiji Times house-fire report as a case study, and Fiji's own diabetes and heart-disease burden.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Unit 3 Gender Images and Expectations — what a society expects of males and females at 5, 10, 15 and in adulthood can change; the traditional Fijian woman's secondary, home-bound role and the traditional man's role as provider, builder and decision maker (original string `fair-play-and-the-body/gender-images-and-expectations`) | Fiji Year 8 Healthy Living, printed pp. 6–8 |
+| Fiji — Unit 10 Group Behaviour — working together as a group: productive and disruptive behaviour, conflict and withdrawal (original string `fair-play-and-the-body/working-together-in-groups`) | Fiji Year 8 Healthy Living, printed pp. 20–21 |
+| Fiji — Unit 13 Healthy Relationship — the qualities a healthy relationship needs: equity and mutual respect (original string `fair-play-and-the-body/making-friends-and-being-kind`) | Fiji Year 8 Healthy Living, printed p. 24 |
+| Fiji — Unit 22 Participating in Community Services — volunteering without pay for the common good, and getting permission from elders, chief or village headman before a clean-up of a beach, mangroves or roadside (original string `fair-play-and-the-body/civic-pride-and-good-citizenship`) | Fiji Year 8 Healthy Living, printed pp. 44–45 |
+
+**Book 13 — Healthy Living Year 7 (student book, English):**
+- Title as printed: Healthy Living, Year 7 — Pupils Book (record title: Healthy Living Year 7; link-only record, not in GitHub)
+- Grade: Year 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Heritage and Arts, Fiji (Curriculum Advisory Services); year 2015, Edited Version 2020/2022; ISBN no ISBN printed
+- PDF pages: no PDF obtainable — read in full via the FlipHTML5 flipbook's search-indexed text (85 flipbook pages = printed pp. 1–84 plus back page; fliphtml5.com itself is Cloudflare-challenged and its page images use hashed names, so no file could be downloaded or staged). Cover verified from the flipbook text — HEALTHY LIVING / YEAR 7 / PUPILS BOOK. The printed contents list splits HIV into two rows (Unit 9 HIV, Unit 10 Preventing HIV); the body treats them as one Unit 9, and the body unit numbers 1–35 are used below. Glossary pp. 80–83 and Reference p. 84 are inventory-only, named not placed.
+- Verdict: COMPLETE
+- Tally: 51 placements — 1 to an existing lesson, 50 NEW LESSON NEEDED (incl. 5 HELD)
+- Fiji's own way: iTaukei gender roles examined against the gender equality written into Fiji's Constitution; personal rights taught straight from the 2013 Constitution's Bill of Rights; the Fiji Red Cross Society and St John named as Fiji's voluntary organisations; local energy foods named (cassava, dalo, yam, breadfruit, kumala); rural water drawn from springs, wells and roof tanks; and suicide, rape, trauma and stress taught head-on at Year 7.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Unit 5 Accepting Gender Images — accepting the changes of growing up; gender roles learned from culture (in iTaukei culture women once did all household chores while men provided, but women now also work to provide); sex is the biology we are born with while gender roles are learned and can change; gender assumptions rewritten so girls and boys are equal, measured against the gender equality in Fiji's Constitution (original string `fair-play-and-the-body/gender-images-and-expectations`) | Fiji Year 7 Healthy Living, printed pp. 13–15 |
+| Fiji — Unit 10 Personal Values — values are what we find meaningful and important; unlike goals, which can be achieved, values are compass directions for life; our values are formed by the family, community and beliefs we grow up in, and they can change over time (original string `fair-play-and-the-body/personal-values-what-matters-to-me`) | Fiji Year 7 Healthy Living, printed p. 25 |
+| Fiji — Unit 11 Maintaining Healthy Relationships — good relationships need responsible behaviour from everyone in them; mapping your support system (parents, friends, teachers, place of worship, health clinic, school) and keeping every relationship, not just one, alive through respect and mutual support (original string `fair-play-and-the-body/maintaining-healthy-relationships`) | Fiji Year 7 Healthy Living, printed p. 26 |
+| Fiji — Unit 12 Challenging Discrimination in Societies — discrimination means sorting people into groups and treating them differently for their differences; unfair discrimination by race, religion, age or disability is wrong and nobody has the right to do it; naming how it makes people feel and what we can do in response (original string `fair-play-and-the-body/challenging-discrimination`) | Fiji Year 7 Healthy Living, printed p. 27 |
+| Fiji — Unit 13 Personal Rights — your personal rights are the rights over your own body: nobody may harm you, and harm can be reported to the police; rights from the Constitution of the Republic of Fiji (life, personal freedom, education, health, children's rights, adequate food and water) and the responsibility that comes with each one (original string `fair-play-and-the-body/personal-rights-and-responsibilities`) | Fiji Year 7 Healthy Living, printed pp. 28–29 |
+| Fiji — Unit 14 Responsible Behaviours — behaving so your actions do not conflict with other people's rights: respecting their rights as you want yours respected, helping rather than hurting, and standing up against bullying and mockery of people with disabilities (original string `fair-play-and-the-body/respecting-others`) | Fiji Year 7 Healthy Living, printed pp. 30–31 |
+| Fiji — Unit 14 Responsible Behaviours: Alena's Story — a blind twelve-year-old kept out of her village school because no teacher was prepared for her, children mocked her disability and the school could not afford special books; discussing her right to education and what the head teacher, classmates, mother and Minister could each have done (original string `fair-play-and-the-body/understanding-and-including-peers-with-disabilities`) | Fiji Year 7 Healthy Living, printed pp. 31–32 |
+| Fiji — Unit 20 Following Rules — rules are guidelines accepted by countries and communities that tell us what is and is not acceptable; listing and questioning the rules at home, in the community or village and at school, who monitors them, and the rules for safe behaviour at school, on the playground and at home (original string `fair-play-and-the-body/classroom-and-school-rules`) | Fiji Year 7 Healthy Living, printed p. 48 |
+| Fiji — Unit 24 Being Responsible — responsibility is taking care of your duties, answering for your actions, accountability and trustworthiness; family responsibilities (love and respect, following parents' rules, chores) and community responsibilities (treating others as you want to be treated, joining community activities and decisions, being an active contributing citizen, picking up trash) (original string `fair-play-and-the-body/civic-pride-and-good-citizenship`) | Fiji Year 7 Healthy Living, printed p. 56 |
+| Fiji — Unit 25 Community Wellness — wellness is not only individual: a healthy community is people able and willing to act together, in good times and bad, for everyone's benefit; healthy communities are built on nurtured relationships, working through problems together and celebrating successes; listing the people in your community you can count on in times of need (original string `staying-safe/community-wellness`) | Fiji Year 7 Healthy Living, printed pp. 58–59 |
+| Fiji — Unit 27 Voluntary Organisations — voluntary organisations fill needs the state cannot meet, teach people group action, and bring relief in disasters; Fiji's own: the Fiji Red Cross Society (help without discrimination, wheelchairs, blood collection for the blood bank, disaster help) and St John (first aid and disaster preparedness) (original string `staying-safe/voluntary-organisations-that-help`) | Fiji Year 7 Healthy Living, printed pp. 61–62 |
+| Fiji — Unit 33 Care of Public Amenities — public amenities (parks, gardens, swimming baths, halls, roads, rivers) belong to everyone; we must take care of them and not vandalise them, extending to public facilities the same pride we take in a clean, liveable home (original string `fair-play-and-the-body/civic-pride-and-good-citizenship`) | Fiji Year 7 Healthy Living, printed p. 72 |
+
+Fiji is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the student book(s) stocked here are Book 1, Book 2, Book 3, Book 5, Book 7, Book 8, Book 10, Book 13, so Fiji is named in the countries line and provenance rows and the acceptance count rises from 8 to 9 countries. The Fiji placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Fiji's own way is content, as the book lines above record it: health is taught through the Healthy Living series rooted in island life — floods and hurricanes, boats and swimming, village family life, Fiji's own foods (dalo, tavioka, kumala), its immunisation schedule and its own health services. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.

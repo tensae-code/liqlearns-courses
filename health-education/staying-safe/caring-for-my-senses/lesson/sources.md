@@ -1,8 +1,8 @@
 # Sources — Caring for My Senses
 
-countries: China, El Salvador, Bulgaria, Iran, Estonia, Indonesia, Nepal, Sri Lanka
+countries: China, El Salvador, Bulgaria, Iran, Estonia, Indonesia, Nepal, Sri Lanka, Fiji
 
-**Acceptance count: taught in 7 countries.** Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. China and El Salvador are filed as student-book stock, inside the acceptance count, in this lesson. Bulgaria is filed as student-book stock, inside the acceptance count, in this lesson. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Estonia is filed as teacher-guide evidence only in this lesson (see its Estonia section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is stocked in this lesson for Estonia. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count. Nepal is added as student-book stock (see its Nepal section below), inside the acceptance count.
+**Acceptance count: taught in 8 countries.** Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. China and El Salvador are filed as student-book stock, inside the acceptance count, in this lesson. Bulgaria is filed as student-book stock, inside the acceptance count, in this lesson. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Estonia is filed as teacher-guide evidence only in this lesson (see its Estonia section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is stocked in this lesson for Estonia. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count. Nepal is added as student-book stock (see its Nepal section below), inside the acceptance count.
 
 **Book 1 — 普通高中教科书·体育与健康必修 全一册 (PEP Senior-High PE & Health, Compulsory, Complete Volume) (student book, Chinese):**
 - Title as printed: 普通高中教科书·体育与健康必修 全一册
@@ -213,3 +213,62 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/sri-lanka-he
 | Sri Lanka — Ch. 8 — the sense organs: eye, ear, nose, tongue and skin, and looking after them (original string `staying-safe/our-sense-organs`) | Sri Lanka Grade 5 Piriven G5 student book, printed p. 78 |
 
 Sri Lanka is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the student book(s) stocked here are Book 2, Book L10, so Sri Lanka is named in the countries line and provenance rows and the acceptance count rises from 6 to 7 countries; the teacher-guide rows, where present, are teacher-guide evidence only, outside the count. The Sri Lanka placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Sri Lanka's own way is content, as the book lines above record it: health is taught through the family and home first, then food, the body, emotions, adolescence and disease prevention, widening to the whole community and society, with the Piriven primary books teaching health almost entirely and the 1984 Grades 9–10 book teaching a full medical-foundations course. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+## Fiji — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/fiji-health-placements.md. 5 Fiji placement(s) stocked in this lesson. The Fiji book(s) stocked in this lesson: Book 1, Book 2, Book 5, Book 8 of that file. Fiji is student-book stock, inside the acceptance count, in this lesson; the teacher-guide books stocked here (where present — Books 6, 9 and 11 of that file, the PE for Fun teachers handbooks/guides) are teacher-guide evidence only, outside the count, and their rows are marked (teacher guide — evidence). No Fiji placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 1 — Healthy Living Year 1 (student book, English):**
+- Title as printed: Healthy Living — Pupils Workbook, Year 1 (record title: Health Science Year 1)
+- Grade: Year 1 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Fiji (Curriculum Development Unit); year 2014; ISBN no ISBN printed
+- PDF pages: 28 (cover/title page verified against the record title — cover reads HEALTHY LIVING / PUPILS WORKBOOK / YEAR 1)
+- Verdict: COMPLETE
+- Tally: 24 placements — 3 to existing lessons, 21 NEW LESSON NEEDED (incl. 2 HELD)
+- Fiji's own way: a picture workbook of very short units, each taught through pictures, songs/rhymes and colouring/matching, rooted in island life — floods and hurricanes, boats, swimming, pets and village family life.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Unit 17 Loud Noises Affect Our Hearing — loud music harms ears; healthy hearing matters (original string `staying-safe/protecting-our-hearing`) | Fiji Year 1 Healthy Living, printed p. 21 |
+
+**Book 2 — Healthy Living Year 2 (student book, English):**
+- Title as printed: Healthy Living — Pupils Workbook, Year 2 (record title: Health Science Year 2)
+- Grade: Year 2 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Fiji (Curriculum Development Unit); year 2014; ISBN no ISBN printed
+- PDF pages: 28 (cover/title page verified — cover text reads HEALTHY LIVING / PUPILS WORKBOOK / YEAR 2; read via the Wayback duplicate link record for this same book after the GitHub tree grab failed with RemoteDisconnected)
+- Verdict: COMPLETE
+- Tally: 24 placements — 2 to existing lessons, 22 NEW LESSON NEEDED (incl. 2 HELD)
+- Fiji's own way: same workbook pattern as Year 1, a step up — word searches, scrambles and should/shouldn't tables; Fiji hazards (hurricanes, floods, power lines) and rubbish sorted into burn / bury / compost.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Unit 19 Taking Care of Our Ears — ears are for hearing and listening; cleaning ears with an ear bud (original string `staying-safe/protecting-our-hearing`) | Fiji Year 2 Healthy Living, printed p. 22 |
+
+**Book 5 — Healthy Living Year 3 (student book, English):**
+- Title as printed: Healthy Living, Year 3 — Pupils Workbook (record title: Healthy Living Year 3)
+- Grade: Year 3 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Fiji (Curriculum Development Unit); year 2015; ISBN no ISBN printed
+- PDF pages: 48 (cover verified — HEALTHY LIVING / YEAR 3; read via grab.py tree route. Note: the contents list 25 units in strands H1–H4; the environment unit is mis-numbered "Unit 21" in the body)
+- Verdict: COMPLETE
+- Tally: 26 placements — 3 to existing lessons, 23 NEW LESSON NEEDED (incl. 4 HELD)
+- Fiji's own way: units grouped under four health strands (growth, relationships, safety, personal and community health); the safety strand is pure Fiji — crossing flooded creeks on tree-trunk bridges, railway lines, cane trucks, stray dogs, and help from the turaga-ni-koro (village headman).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Unit 3 Senses: Parts of My Body — the five senses and the body part for seeing, smelling, hearing, tasting and feeling (original string `staying-safe/HELD-title-decision`) | Fiji Year 3 Healthy Living, printed p. 8 |
+| Fiji — Unit 5 Keeping Nose, Hair, Eyes, Tongue and Ears Clean — protecting delicate eyes, no sharp objects in ears, covering ears at loud sounds, clean handkerchiefs, tongue cleaning and bathing (original string `staying-safe/caring-for-eyes-ears-nose-and-skin`) | Fiji Year 3 Healthy Living, printed pp. 10–11 |
+
+**Book 8 — Healthy Living Year 6 (student book, English):**
+- Title as printed: Healthy Living, Year 6 — Pupils Workbook, Trial Version (record title: Healthy Living Year 6)
+- Grade: Year 6 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Fiji (Curriculum Development Unit); year 2015; ISBN no ISBN printed
+- PDF pages: 57 (cover verified — HEALTHY LIVING / YEAR 6; read via grab.py tree route; the same book is also offered as a FlipHTML5 link record, counted once here)
+- Verdict: COMPLETE
+- Tally: 25 placements — 3 to existing lessons, 22 NEW LESSON NEEDED (incl. 3 HELD)
+- Fiji's own way: the series turns serious — body systems, reproductive health, peer pressure and intimate relationships, harmful substances including grog (kava) and glue sniffing, disaster diseases, and Fiji's lifestyle-disease (NCD) problem, with local bullying role models Ashika and Taniela.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Unit 16 Parts of Eyes and Ears and its Care — cornea, pupil, iris, lens and optic nerve; pinna, canal, drum, hammer, anvil, stirrup and cochlea; and daily care of eyes and ears (original string `staying-safe/caring-for-eyes-ears-nose-and-skin`) | Fiji Year 6 Healthy Living, printed pp. 25–28 |
+
+Fiji is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the student book(s) stocked here are Book 1, Book 2, Book 5, Book 8, so Fiji is named in the countries line and provenance rows and the acceptance count rises from 7 to 8 countries. The Fiji placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Fiji's own way is content, as the book lines above record it: health is taught through the Healthy Living series rooted in island life — floods and hurricanes, boats and swimming, village family life, Fiji's own foods (dalo, tavioka, kumala), its immunisation schedule and its own health services. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.

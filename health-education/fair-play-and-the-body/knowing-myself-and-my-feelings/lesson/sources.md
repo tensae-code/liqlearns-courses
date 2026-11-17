@@ -1,8 +1,8 @@
 # Sources — Knowing Myself and My Feelings
 
-countries: Samoa, Timor-Leste, Bulgaria, Azerbaijan, Turkey, Sierra Leone, Papua New Guinea, Bhutan, Eritrea, Jamaica, Maldives, Sri Lanka
+countries: Samoa, Timor-Leste, Bulgaria, Azerbaijan, Turkey, Sierra Leone, Papua New Guinea, Bhutan, Eritrea, Jamaica, Maldives, Sri Lanka, Fiji
 
-**Acceptance count: taught in 6 countries.** Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Bulgaria is filed as student-book stock, inside the acceptance count, in this lesson. Samoa is filed as curriculum statement evidence only in this lesson — named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below). Turkey is filed as teacher-guide evidence only in this lesson — Book 1 is a TEACHER guide, so Turkey is named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this Turkey row. Sierra Leone is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Sierra Leone rows (see its Sierra Leone section below). Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — all five Bhutan books are STUDENT books. Eritrea is added as student-book stock (see its Eritrea section below), inside the acceptance count — all three Eritrea books are STUDENT books. Jamaica is filed as curriculum-guide evidence only in this lesson (see its Jamaica section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Jamaica rows in this lesson — both read Jamaica books are curriculum guides (TEACHER). Maldives is filed as teacher-guide evidence only in this lesson (see its Maldives section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Maldives rows in this lesson.
+**Acceptance count: taught in 7 countries.** Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Bulgaria is filed as student-book stock, inside the acceptance count, in this lesson. Samoa is filed as curriculum statement evidence only in this lesson — named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below). Turkey is filed as teacher-guide evidence only in this lesson — Book 1 is a TEACHER guide, so Turkey is named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this Turkey row. Sierra Leone is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Sierra Leone rows (see its Sierra Leone section below). Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — all five Bhutan books are STUDENT books. Eritrea is added as student-book stock (see its Eritrea section below), inside the acceptance count — all three Eritrea books are STUDENT books. Jamaica is filed as curriculum-guide evidence only in this lesson (see its Jamaica section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Jamaica rows in this lesson — both read Jamaica books are curriculum guides (TEACHER). Maldives is filed as teacher-guide evidence only in this lesson (see its Maldives section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Maldives rows in this lesson.
 
 **Book 1 — Samoa HPE Primary Curriculum Statement, Years 1–8 (curriculum statement, English):**
 - Title as printed: Health and Physical Education, Years 1–8, Primary School Curriculum
@@ -519,3 +519,63 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/sri-lanka-he
 | Sri Lanka — Unit 12.0 — emotional balance for a sound body and mental health (original string `staying-safe/balancing-emotions-and-mental-wellbeing`) | Sri Lanka Grade 6 HPE Tamil 2007, printed p. 35 |
 
 Sri Lanka is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the student book(s) stocked here are Book 1, Book 2, Book L3, Book L5, Book L6, Book 7, Book 8, so Sri Lanka is named in the countries line and provenance rows and the acceptance count rises from 5 to 6 countries; the teacher-guide rows, where present, are teacher-guide evidence only, outside the count. The Sri Lanka placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Sri Lanka's own way is content, as the book lines above record it: health is taught through the family and home first, then food, the body, emotions, adolescence and disease prevention, widening to the whole community and society, with the Piriven primary books teaching health almost entirely and the 1984 Grades 9–10 book teaching a full medical-foundations course. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+## Fiji — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/fiji-health-placements.md. 6 Fiji placement(s) stocked in this lesson. The Fiji book(s) stocked in this lesson: Book 3, Book 5, Book 7, Book 10 of that file. Fiji is student-book stock, inside the acceptance count, in this lesson; the teacher-guide books stocked here (where present — Books 6, 9 and 11 of that file, the PE for Fun teachers handbooks/guides) are teacher-guide evidence only, outside the count, and their rows are marked (teacher guide — evidence). No Fiji placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound. Book 10's glossary (printed pp. 62–66) is inventory-only, named not placed, as filed. Book 3's glossary (printed pp. 61–68) is inventory-only, named not placed, as filed.
+
+**Book 3 — Healthy Living Year 5 (student book, English):**
+- Title as printed: Healthy Living, Year 5 (record titles: Healthy Living Year 5 / Health Science Year 5)
+- Grade: Year 5 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Fiji (Curriculum Development Unit); year 2015; ISBN no ISBN printed
+- PDF pages: 69 (cover verified — HEALTHY LIVING / YEAR 5; read via the Wayback duplicate link record for this same book after the GitHub tree grab failed with RemoteDisconnected; glossary pp. 61–68 is inventory-only, named not placed)
+- Verdict: COMPLETE
+- Tally: 28 placements — 2 to existing lessons, 26 NEW LESSON NEEDED (incl. 5 HELD)
+- Fiji's own way: a full textbook now, not a workbook — growth and puberty first, then relationships, safety and first aid, then Fiji food and disease: local staples (dalo, tavioka, kumala), the Fiji immunisation schedule, coastal tabu marine protection, vesi trees and mangrove planting.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Unit 3 Body Shapes and Personal Characteristics — people of all shapes, sizes and colours are equal; personality is what a person likes, believes and feels (original string `fair-play-and-the-body/accepting-body-shapes-and-differences`) | Fiji Year 5 Healthy Living, printed pp. 4–5 |
+| Fiji — Unit 5 Characteristics of Man — build, complexion, height and hair; improving how we present ourselves without judging others; competitive, cooperative, creative and other mental traits (original string `fair-play-and-the-body/our-physical-and-mental-characteristics`) | Fiji Year 5 Healthy Living, printed pp. 8–10 |
+| Fiji — Unit 12 Needs and Wants — things we cannot live without versus things that make life easier (original string `fair-play-and-the-body/needs-and-wants`) | Fiji Year 5 Healthy Living, printed p. 23 |
+
+**Book 5 — Healthy Living Year 3 (student book, English):**
+- Title as printed: Healthy Living, Year 3 — Pupils Workbook (record title: Healthy Living Year 3)
+- Grade: Year 3 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Fiji (Curriculum Development Unit); year 2015; ISBN no ISBN printed
+- PDF pages: 48 (cover verified — HEALTHY LIVING / YEAR 3; read via grab.py tree route. Note: the contents list 25 units in strands H1–H4; the environment unit is mis-numbered "Unit 21" in the body)
+- Verdict: COMPLETE
+- Tally: 26 placements — 3 to existing lessons, 23 NEW LESSON NEEDED (incl. 4 HELD)
+- Fiji's own way: units grouped under four health strands (growth, relationships, safety, personal and community health); the safety strand is pure Fiji — crossing flooded creeks on tree-trunk bridges, railway lines, cane trucks, stray dogs, and help from the turaga-ni-koro (village headman).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Unit 6 Myself — my name, age, class, home, and how I come to school — on foot, by car, bus, boat or horseback (original string `fair-play-and-the-body/all-about-myself`) | Fiji Year 3 Healthy Living, printed p. 12 |
+
+**Book 7 — Healthy Living Year 4 (student book, English):**
+- Title as printed: Healthy Living, Year 4 — Pupils Workbook (record title: Healthy Living Year 4)
+- Grade: Year 4 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Fiji (Curriculum Development Unit); year 2015; ISBN no ISBN printed
+- PDF pages: 49 (cover verified — HEALTHY LIVING / YEAR 4; read via grab.py tree route)
+- Verdict: COMPLETE
+- Tally: 30 placements — 2 to existing lessons, 28 NEW LESSON NEEDED (incl. 6 HELD)
+- Fiji's own way: growth and body systems first, then a strong self-and-others strand (disability, respect, leaders, assertiveness against bullying, self-esteem), then the longest personal-safety unit in the series, and Fiji's pineapple-shaped food guide.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Unit 12 Self Esteem, Confidence and Decision Making — how we feel about who we are, low self-esteem, and life skills that raise it (original string `fair-play-and-the-body/self-esteem-confidence-and-decision-making`) | Fiji Year 4 Healthy Living, printed pp. 22–23 |
+
+**Book 10 — Healthy Living Year 8 (student book, English):**
+- Title as printed: Healthy Living, Year 8 — Pupils Workbook, Edited Version (record title: Healthy Living Year 8)
+- Grade: Year 8 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Fiji (Curriculum Development Unit); year 2015 (Edited version); ISBN no ISBN printed
+- PDF pages: 71 (cover verified — HEALTHY LIVING / YEAR 8; read via grab.py tree route; glossary pp. 62–66 is inventory-only, named not placed)
+- Verdict: COMPLETE
+- Tally: 29 placements — 2 to existing lessons, 27 NEW LESSON NEEDED (incl. 5 HELD)
+- Fiji's own way: puberty taught head-on with Fijian gender expectations examined against tradition, travel safety for the outer islands (boats and rafts), a real Fiji Times house-fire report as a case study, and Fiji's own diabetes and heart-disease burden.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Unit 5 Personal Identity — identity built from family, friends and village expectations, and the positive and negative influence of TV, radio and mobile phones (original string `fair-play-and-the-body/personal-identity-and-media`) | Fiji Year 8 Healthy Living, printed pp. 10–11 |
+
+Fiji is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the student book(s) stocked here are Book 3, Book 5, Book 7, Book 10, so Fiji is named in the countries line and provenance rows and the acceptance count rises from 6 to 7 countries. The Fiji placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Fiji's own way is content, as the book lines above record it: health is taught through the Healthy Living series rooted in island life — floods and hurricanes, boats and swimming, village family life, Fiji's own foods (dalo, tavioka, kumala), its immunisation schedule and its own health services. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.

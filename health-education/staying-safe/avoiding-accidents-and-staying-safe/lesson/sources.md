@@ -1,8 +1,8 @@
 # Sources — Avoiding Accidents and Staying Safe
 
-countries: El Salvador, Ukraine, Turkey, Malaysia, Papua New Guinea, Bhutan, Iran, Thailand, Indonesia, Tanzania, Mauritius, Eritrea, Jamaica, Maldives, Sri Lanka
+countries: El Salvador, Ukraine, Turkey, Malaysia, Papua New Guinea, Bhutan, Iran, Thailand, Indonesia, Tanzania, Mauritius, Eritrea, Jamaica, Maldives, Sri Lanka, Fiji
 
-**Acceptance count: taught in 12 countries.** Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Tanzania is added as student-book stock (see its Tanzania section below), inside the acceptance count. El Salvador is filed as student-book stock, inside the acceptance count, in this lesson. Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book. Malaysia is filed as student-book stock, inside the acceptance count, in this lesson (see its Malaysia section below). Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — all five Bhutan books are STUDENT books. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Thailand is added as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count; the Mauritius Grade 1 Educator's Book (Book 6) rows in this lesson are teacher-guide evidence only, outside the count — the country is counted once via its student book. Eritrea is added as student-book stock (see its Eritrea section below), inside the acceptance count — all three Eritrea books are STUDENT books. Jamaica is filed as curriculum-guide evidence only in this lesson (see its Jamaica section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Jamaica rows in this lesson — both read Jamaica books are curriculum guides (TEACHER). Maldives is filed as teacher-guide evidence only in this lesson (see its Maldives section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Maldives rows in this lesson.
+**Acceptance count: taught in 13 countries.** Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Tanzania is added as student-book stock (see its Tanzania section below), inside the acceptance count. El Salvador is filed as student-book stock, inside the acceptance count, in this lesson. Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book. Malaysia is filed as student-book stock, inside the acceptance count, in this lesson (see its Malaysia section below). Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — all five Bhutan books are STUDENT books. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Thailand is added as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count; the Mauritius Grade 1 Educator's Book (Book 6) rows in this lesson are teacher-guide evidence only, outside the count — the country is counted once via its student book. Eritrea is added as student-book stock (see its Eritrea section below), inside the acceptance count — all three Eritrea books are STUDENT books. Jamaica is filed as curriculum-guide evidence only in this lesson (see its Jamaica section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Jamaica rows in this lesson — both read Jamaica books are curriculum guides (TEACHER). Maldives is filed as teacher-guide evidence only in this lesson (see its Maldives section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Maldives rows in this lesson.
 
 **Book 1 — Ciencia, Salud y Medio Ambiente 1 (student book, Spanish):**
 - Title as printed: Ciencia, Salud y Medio Ambiente 1 (Colección Cipotas y Cipotes)
@@ -557,3 +557,105 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/sri-lanka-he
 | Sri Lanka — Competency 10.2 — teaching how to act to prevent accidents (continues the new lesson) (original string `staying-safe/preventing-accidents`) | Sri Lanka Grade 10 G10 TG 2015 English, syllabus printed pp. ix–xxvii (teacher guide — evidence) |
 
 Sri Lanka is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the student book(s) stocked here are Book L7, Book L8, so Sri Lanka is named in the countries line and provenance rows and the acceptance count rises from 11 to 12 countries; the teacher-guide rows, where present, are teacher-guide evidence only, outside the count. The Sri Lanka placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Sri Lanka's own way is content, as the book lines above record it: health is taught through the family and home first, then food, the body, emotions, adolescence and disease prevention, widening to the whole community and society, with the Piriven primary books teaching health almost entirely and the 1984 Grades 9–10 book teaching a full medical-foundations course. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+## Fiji — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/fiji-health-placements.md. 12 Fiji placement(s) stocked in this lesson. The Fiji book(s) stocked in this lesson: Book 1, Book 2, Book 5, Book 7, Book 8, Book 10, Book 13 of that file. Fiji is student-book stock, inside the acceptance count, in this lesson; the teacher-guide books stocked here (where present — Books 6, 9 and 11 of that file, the PE for Fun teachers handbooks/guides) are teacher-guide evidence only, outside the count, and their rows are marked (teacher guide — evidence). No Fiji placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound. Book 13 of that file (Healthy Living Year 7) is a link-only record, not in GitHub, read in full via the FlipHTML5 flipbook's search-indexed text, as filed; its glossary and reference pages are inventory-only, named not placed. Book 10's glossary (printed pp. 62–66) is inventory-only, named not placed, as filed.
+
+**Book 1 — Healthy Living Year 1 (student book, English):**
+- Title as printed: Healthy Living — Pupils Workbook, Year 1 (record title: Health Science Year 1)
+- Grade: Year 1 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Fiji (Curriculum Development Unit); year 2014; ISBN no ISBN printed
+- PDF pages: 28 (cover/title page verified against the record title — cover reads HEALTHY LIVING / PUPILS WORKBOOK / YEAR 1)
+- Verdict: COMPLETE
+- Tally: 24 placements — 3 to existing lessons, 21 NEW LESSON NEEDED (incl. 2 HELD)
+- Fiji's own way: a picture workbook of very short units, each taught through pictures, songs/rhymes and colouring/matching, rooted in island life — floods and hurricanes, boats, swimming, pets and village family life.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Unit 16 Safety While Working — tools are not toys: heavy and sharp tools can injure and must not be left lying about (original string `staying-safe/safety-with-tools`) | Fiji Year 1 Healthy Living, printed p. 20 |
+
+**Book 2 — Healthy Living Year 2 (student book, English):**
+- Title as printed: Healthy Living — Pupils Workbook, Year 2 (record title: Health Science Year 2)
+- Grade: Year 2 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Fiji (Curriculum Development Unit); year 2014; ISBN no ISBN printed
+- PDF pages: 28 (cover/title page verified — cover text reads HEALTHY LIVING / PUPILS WORKBOOK / YEAR 2; read via the Wayback duplicate link record for this same book after the GitHub tree grab failed with RemoteDisconnected)
+- Verdict: COMPLETE
+- Tally: 24 placements — 2 to existing lessons, 22 NEW LESSON NEEDED (incl. 2 HELD)
+- Fiji's own way: same workbook pattern as Year 1, a step up — word searches, scrambles and should/shouldn't tables; Fiji hazards (hurricanes, floods, power lines) and rubbish sorted into burn / bury / compost.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Unit 17 Safety While Working — telling things safe to play with from unsafe things (original string `staying-safe/safety-with-tools`) | Fiji Year 2 Healthy Living, printed p. 20 |
+
+**Book 5 — Healthy Living Year 3 (student book, English):**
+- Title as printed: Healthy Living, Year 3 — Pupils Workbook (record title: Healthy Living Year 3)
+- Grade: Year 3 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Fiji (Curriculum Development Unit); year 2015; ISBN no ISBN printed
+- PDF pages: 48 (cover verified — HEALTHY LIVING / YEAR 3; read via grab.py tree route. Note: the contents list 25 units in strands H1–H4; the environment unit is mis-numbered "Unit 21" in the body)
+- Verdict: COMPLETE
+- Tally: 26 placements — 3 to existing lessons, 23 NEW LESSON NEEDED (incl. 4 HELD)
+- Fiji's own way: units grouped under four health strands (growth, relationships, safety, personal and community health); the safety strand is pure Fiji — crossing flooded creeks on tree-trunk bridges, railway lines, cane trucks, stray dogs, and help from the turaga-ni-koro (village headman).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Unit 15 Safety While Working — concentrate, carry sharp tools pointing down, keep clear of mowers and weeding knives, clean, oil and store tools in their place (original string `staying-safe/safety-with-tools`) | Fiji Year 3 Healthy Living, printed p. 23 |
+
+**Book 7 — Healthy Living Year 4 (student book, English):**
+- Title as printed: Healthy Living, Year 4 — Pupils Workbook (record title: Healthy Living Year 4)
+- Grade: Year 4 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Fiji (Curriculum Development Unit); year 2015; ISBN no ISBN printed
+- PDF pages: 49 (cover verified — HEALTHY LIVING / YEAR 4; read via grab.py tree route)
+- Verdict: COMPLETE
+- Tally: 30 placements — 2 to existing lessons, 28 NEW LESSON NEEDED (incl. 6 HELD)
+- Fiji's own way: growth and body systems first, then a strong self-and-others strand (disability, respect, leaders, assertiveness against bullying, self-esteem), then the longest personal-safety unit in the series, and Fiji's pineapple-shaped food guide.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Unit 13 Personal Safety: At Home — know who is at the door, no strangers in to use the phone, curtains, outside lights, wrong-number and rude-call rules, and going to a neighbour if someone may be inside (original string `staying-safe/staying-safe-at-home`) | Fiji Year 4 Healthy Living, printed p. 24 |
+| Fiji — Unit 13 Personal Safety: Fire Safety — causes of fire at home and school and prevention: flammables stored away, gas and switches off, candles placed safely, no playing with matches, no refilling a lit stove (original string `staying-safe/fire-safety`) | Fiji Year 4 Healthy Living, printed pp. 30–31 |
+| Fiji — Unit 15 Strategies and Skills to Handle Unsafe Situations — avoidance, reducing risk, distancing and assertiveness, trusting your feelings and taking control, and what to take in a natural disaster (original string `staying-safe/handling-unsafe-situations`) | Fiji Year 4 Healthy Living, printed p. 31 |
+
+**Book 8 — Healthy Living Year 6 (student book, English):**
+- Title as printed: Healthy Living, Year 6 — Pupils Workbook, Trial Version (record title: Healthy Living Year 6)
+- Grade: Year 6 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Fiji (Curriculum Development Unit); year 2015; ISBN no ISBN printed
+- PDF pages: 57 (cover verified — HEALTHY LIVING / YEAR 6; read via grab.py tree route; the same book is also offered as a FlipHTML5 link record, counted once here)
+- Verdict: COMPLETE
+- Tally: 25 placements — 3 to existing lessons, 22 NEW LESSON NEEDED (incl. 3 HELD)
+- Fiji's own way: the series turns serious — body systems, reproductive health, peer pressure and intimate relationships, harmful substances including grog (kava) and glue sniffing, disaster diseases, and Fiji's lifestyle-disease (NCD) problem, with local bullying role models Ashika and Taniela.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Unit 11 Personal Safety — home hazards: loose wires, rugs and scattered things, stairs, trees and roofs, fire, candles, matches and sockets, sharp things and household poisons (original string `staying-safe/staying-safe-at-home`) | Fiji Year 6 Healthy Living, printed pp. 18–19 |
+
+**Book 10 — Healthy Living Year 8 (student book, English):**
+- Title as printed: Healthy Living, Year 8 — Pupils Workbook, Edited Version (record title: Healthy Living Year 8)
+- Grade: Year 8 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Fiji (Curriculum Development Unit); year 2015 (Edited version); ISBN no ISBN printed
+- PDF pages: 71 (cover verified — HEALTHY LIVING / YEAR 8; read via grab.py tree route; glossary pp. 62–66 is inventory-only, named not placed)
+- Verdict: COMPLETE
+- Tally: 29 placements — 2 to existing lessons, 27 NEW LESSON NEEDED (incl. 5 HELD)
+- Fiji's own way: puberty taught head-on with Fijian gender expectations examined against tradition, travel safety for the outer islands (boats and rafts), a real Fiji Times house-fire report as a case study, and Fiji's own diabetes and heart-disease burden.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Unit 16 Unsafe Environment — inspecting classroom and school compound for hazards: broken door hinges, ceilings, incinerator, drains, water taps, gates and corridors, with recommendations (original string `staying-safe/checking-our-environment-for-hazards`) | Fiji Year 8 Healthy Living, printed p. 30 |
+| Fiji — Unit 18 Fire Safety — a home fire escape plan with two ways out, an outside meeting place, kitchen extinguisher and twice-yearly family fire drills, studied through a Fiji Times report of a Samabula house fire (original string `staying-safe/fire-safety`) | Fiji Year 8 Healthy Living, printed pp. 34–36 |
+
+**Book 13 — Healthy Living Year 7 (student book, English):**
+- Title as printed: Healthy Living, Year 7 — Pupils Book (record title: Healthy Living Year 7; link-only record, not in GitHub)
+- Grade: Year 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Heritage and Arts, Fiji (Curriculum Advisory Services); year 2015, Edited Version 2020/2022; ISBN no ISBN printed
+- PDF pages: no PDF obtainable — read in full via the FlipHTML5 flipbook's search-indexed text (85 flipbook pages = printed pp. 1–84 plus back page; fliphtml5.com itself is Cloudflare-challenged and its page images use hashed names, so no file could be downloaded or staged). Cover verified from the flipbook text — HEALTHY LIVING / YEAR 7 / PUPILS BOOK. The printed contents list splits HIV into two rows (Unit 9 HIV, Unit 10 Preventing HIV); the body treats them as one Unit 9, and the body unit numbers 1–35 are used below. Glossary pp. 80–83 and Reference p. 84 are inventory-only, named not placed.
+- Verdict: COMPLETE
+- Tally: 51 placements — 1 to an existing lesson, 50 NEW LESSON NEEDED (incl. 5 HELD)
+- Fiji's own way: iTaukei gender roles examined against the gender equality written into Fiji's Constitution; personal rights taught straight from the 2013 Constitution's Bill of Rights; the Fiji Red Cross Society and St John named as Fiji's voluntary organisations; local energy foods named (cassava, dalo, yam, breadfruit, kumala); rural water drawn from springs, wells and roof tanks; and suicide, rape, trauma and stress taught head-on at Year 7.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Unit 18 Proactive Behaviour — acting in advance instead of only reacting: taking control to change what is about to happen, worked through scenarios of a planned bashing of a schoolmate, a friend's invitation to break into a house and steal, and a ransacked school desk (original string `staying-safe/proactive-behaviour-acting-before-harm`) | Fiji Year 7 Healthy Living, printed pp. 37–39 |
+| Fiji — Unit 19 Preventing Harmful Situations from Occurring — harmful situations hurt families and the whole community; prevent them by watching for behaviours and situations that signal danger, isolating yourself from danger, staying away from bullies, talking things over and not stirring up trouble (original string `staying-safe/preventing-harmful-situations`) | Fiji Year 7 Healthy Living, printed pp. 39–40 |
+| Fiji — Unit 24 Being Responsible: Keeping the Home Safe — your responsibility at home includes keeping the family safe from thieves and intruders: doors properly locked, a proper fence and gate, doors kept closed and locked, and lights outside the house (original string `staying-safe/staying-safe-at-home`) | Fiji Year 7 Healthy Living, printed p. 56 |
+
+Fiji is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the student book(s) stocked here are Book 1, Book 2, Book 5, Book 7, Book 8, Book 10, Book 13, so Fiji is named in the countries line and provenance rows and the acceptance count rises from 12 to 13 countries. The Fiji placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Fiji's own way is content, as the book lines above record it: health is taught through the Healthy Living series rooted in island life — floods and hurricanes, boats and swimming, village family life, Fiji's own foods (dalo, tavioka, kumala), its immunisation schedule and its own health services. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.

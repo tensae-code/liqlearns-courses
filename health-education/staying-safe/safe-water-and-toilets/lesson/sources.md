@@ -1,8 +1,8 @@
 # Sources — Safe Water and Toilets
 
-countries: Kiribati, El Salvador, Zambia, Papua New Guinea, Bhutan, Tanzania, Eritrea, Nepal, Sri Lanka
+countries: Kiribati, El Salvador, Zambia, Papua New Guinea, Bhutan, Tanzania, Eritrea, Nepal, Sri Lanka, Fiji
 
-**Acceptance count: taught in 6 countries.** Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Tanzania is added as student-book stock (see its Tanzania section below), inside the acceptance count. El Salvador is filed as student-book stock, inside the acceptance count, in this lesson. Kiribati is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count (still taught in 1 country). Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — all five Bhutan books are STUDENT books. Eritrea is added as student-book stock (see its Eritrea section below), inside the acceptance count — all three Eritrea books are STUDENT books. Nepal is added as student-book stock (see its Nepal section below), inside the acceptance count.
+**Acceptance count: taught in 7 countries.** Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Tanzania is added as student-book stock (see its Tanzania section below), inside the acceptance count. El Salvador is filed as student-book stock, inside the acceptance count, in this lesson. Kiribati is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count (still taught in 1 country). Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — all five Bhutan books are STUDENT books. Eritrea is added as student-book stock (see its Eritrea section below), inside the acceptance count — all three Eritrea books are STUDENT books. Nepal is added as student-book stock (see its Nepal section below), inside the acceptance count.
 
 **Book 2 — Teaching WASH in Schools: Menstrual Hygiene Management Guide (teacher guide, English):**
 - Title as printed: TEACHING WASH IN SCHOOLS — Menstrual Hygiene Management Guide
@@ -236,3 +236,64 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/sri-lanka-he
 | Sri Lanka — Part V (items 6–10) — water, sanitation, ventilation and the healthy environment (original string `staying-safe/water-sanitation-and-healthy-environment`) | Sri Lanka Grades 9–10 Health Education Tamil 1984, printed pp. 181–199 |
 
 Sri Lanka is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the student book(s) stocked here are Book L9, Book 9, so Sri Lanka is named in the countries line and provenance rows and the acceptance count rises from 5 to 6 countries; the teacher-guide rows, where present, are teacher-guide evidence only, outside the count. The Sri Lanka placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Sri Lanka's own way is content, as the book lines above record it: health is taught through the family and home first, then food, the body, emotions, adolescence and disease prevention, widening to the whole community and society, with the Piriven primary books teaching health almost entirely and the 1984 Grades 9–10 book teaching a full medical-foundations course. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+## Fiji — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/fiji-health-placements.md. 7 Fiji placement(s) stocked in this lesson. The Fiji book(s) stocked in this lesson: Book 2, Book 3, Book 7, Book 13 of that file. Fiji is student-book stock, inside the acceptance count, in this lesson; the teacher-guide books stocked here (where present — Books 6, 9 and 11 of that file, the PE for Fun teachers handbooks/guides) are teacher-guide evidence only, outside the count, and their rows are marked (teacher guide — evidence). No Fiji placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound. Book 13 of that file (Healthy Living Year 7) is a link-only record, not in GitHub, read in full via the FlipHTML5 flipbook's search-indexed text, as filed; its glossary and reference pages are inventory-only, named not placed. Book 3's glossary (printed pp. 61–68) is inventory-only, named not placed, as filed.
+
+**Book 2 — Healthy Living Year 2 (student book, English):**
+- Title as printed: Healthy Living — Pupils Workbook, Year 2 (record title: Health Science Year 2)
+- Grade: Year 2 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Fiji (Curriculum Development Unit); year 2014; ISBN no ISBN printed
+- PDF pages: 28 (cover/title page verified — cover text reads HEALTHY LIVING / PUPILS WORKBOOK / YEAR 2; read via the Wayback duplicate link record for this same book after the GitHub tree grab failed with RemoteDisconnected)
+- Verdict: COMPLETE
+- Tally: 24 placements — 2 to existing lessons, 22 NEW LESSON NEEDED (incl. 2 HELD)
+- Fiji's own way: same workbook pattern as Year 1, a step up — word searches, scrambles and should/shouldn't tables; Fiji hazards (hurricanes, floods, power lines) and rubbish sorted into burn / bury / compost.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Unit 1 Proper Use and Care of School Toilets — clean toilets daily, rubbish in bins not toilets, wash hands, germs make us sick (original string `staying-safe/proper-use-and-care-of-toilets`) | Fiji Year 2 Healthy Living, printed p. 4 |
+
+**Book 3 — Healthy Living Year 5 (student book, English):**
+- Title as printed: Healthy Living, Year 5 (record titles: Healthy Living Year 5 / Health Science Year 5)
+- Grade: Year 5 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Fiji (Curriculum Development Unit); year 2015; ISBN no ISBN printed
+- PDF pages: 69 (cover verified — HEALTHY LIVING / YEAR 5; read via the Wayback duplicate link record for this same book after the GitHub tree grab failed with RemoteDisconnected; glossary pp. 61–68 is inventory-only, named not placed)
+- Verdict: COMPLETE
+- Tally: 28 placements — 2 to existing lessons, 26 NEW LESSON NEEDED (incl. 5 HELD)
+- Fiji's own way: a full textbook now, not a workbook — growth and puberty first, then relationships, safety and first aid, then Fiji food and disease: local staples (dalo, tavioka, kumala), the Fiji immunisation schedule, coastal tabu marine protection, vesi trees and mangrove planting.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Unit 22 Faulty Disposal of Human Waste — sewage germs contaminate water and spread diarrhoea, trachoma and hookworm; safe toilets and the 8 steps of handwashing (original string `staying-safe/proper-use-and-care-of-toilets`) | Fiji Year 5 Healthy Living, printed pp. 46–47 |
+
+**Book 7 — Healthy Living Year 4 (student book, English):**
+- Title as printed: Healthy Living, Year 4 — Pupils Workbook (record title: Healthy Living Year 4)
+- Grade: Year 4 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Fiji (Curriculum Development Unit); year 2015; ISBN no ISBN printed
+- PDF pages: 49 (cover verified — HEALTHY LIVING / YEAR 4; read via grab.py tree route)
+- Verdict: COMPLETE
+- Tally: 30 placements — 2 to existing lessons, 28 NEW LESSON NEEDED (incl. 6 HELD)
+- Fiji's own way: growth and body systems first, then a strong self-and-others strand (disability, respect, leaders, assertiveness against bullying, self-esteem), then the longest personal-safety unit in the series, and Fiji's pineapple-shaped food guide.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Unit 20 Importance of Water — water is two-thirds of body weight and works in digestion, saliva and cooling sweat; boil drinking water, especially after flooding (original string `staying-safe/drinking-clean-water`) | Fiji Year 4 Healthy Living, printed p. 39 |
+| Fiji — Unit 21 Sources of Drinking Water — well, tap, spring, tank and river water, and how to judge whether a source is safe (original string `staying-safe/drinking-clean-water`) | Fiji Year 4 Healthy Living, printed p. 40 |
+
+**Book 13 — Healthy Living Year 7 (student book, English):**
+- Title as printed: Healthy Living, Year 7 — Pupils Book (record title: Healthy Living Year 7; link-only record, not in GitHub)
+- Grade: Year 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Heritage and Arts, Fiji (Curriculum Advisory Services); year 2015, Edited Version 2020/2022; ISBN no ISBN printed
+- PDF pages: no PDF obtainable — read in full via the FlipHTML5 flipbook's search-indexed text (85 flipbook pages = printed pp. 1–84 plus back page; fliphtml5.com itself is Cloudflare-challenged and its page images use hashed names, so no file could be downloaded or staged). Cover verified from the flipbook text — HEALTHY LIVING / YEAR 7 / PUPILS BOOK. The printed contents list splits HIV into two rows (Unit 9 HIV, Unit 10 Preventing HIV); the body treats them as one Unit 9, and the body unit numbers 1–35 are used below. Glossary pp. 80–83 and Reference p. 84 are inventory-only, named not placed.
+- Verdict: COMPLETE
+- Tally: 51 placements — 1 to an existing lesson, 50 NEW LESSON NEEDED (incl. 5 HELD)
+- Fiji's own way: iTaukei gender roles examined against the gender equality written into Fiji's Constitution; personal rights taught straight from the 2013 Constitution's Bill of Rights; the Fiji Red Cross Society and St John named as Fiji's voluntary organisations; local energy foods named (cassava, dalo, yam, breadfruit, kumala); rural water drawn from springs, wells and roof tanks; and suicide, rape, trauma and stress taught head-on at Year 7.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Unit 28 Diseases: Preventing Water Borne Diseases — what water-borne diseases are, the common ones, their causes and how they spread, and the preventive measures a household can practise (original string `staying-safe/drinking-clean-water`) | Fiji Year 7 Healthy Living, printed p. 64 |
+| Fiji — Unit 33 Care of Public Amenities: Types of Toilets — four kinds of toilet and how each keeps people separated from their waste: the flush toilet (water through a drainpipe to a septic tank or sewage treatment), the water-sealed toilet (water poured in by hand), the pit latrine (waste collected in a hole in the ground), and the bucket or compost toilet (waste turned into fertiliser where water or sewers cannot support a flush toilet) (original string `staying-safe/proper-use-and-care-of-toilets`) | Fiji Year 7 Healthy Living, printed pp. 72–74 |
+| Fiji — Unit 34 Water Supply in Rural Areas — keeping rural water safe: springs fenced against animals with bamboo or piping drawing the water out; well water tested for bacteria at least three times a year with the Ministry of Health; rainwater tanks screened with gauze wire, cleaned regularly and purified with chlorine under Ministry advice; and untreated tap water boiled for about ten minutes and stored in clean, rust-free containers (original string `staying-safe/drinking-clean-water`) | Fiji Year 7 Healthy Living, printed pp. 75–77 |
+
+Fiji is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the student book(s) stocked here are Book 2, Book 3, Book 7, Book 13, so Fiji is named in the countries line and provenance rows and the acceptance count rises from 6 to 7 countries. The Fiji placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Fiji's own way is content, as the book lines above record it: health is taught through the Healthy Living series rooted in island life — floods and hurricanes, boats and swimming, village family life, Fiji's own foods (dalo, tavioka, kumala), its immunisation schedule and its own health services. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.

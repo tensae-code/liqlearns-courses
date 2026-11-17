@@ -1,8 +1,8 @@
 # Sources — Keeping Teeth Healthy
 
-countries: Papua New Guinea, Bhutan, Iran, Mauritius, Maldives
+countries: Papua New Guinea, Bhutan, Iran, Mauritius, Maldives, Fiji
 
-**Acceptance count: taught in 3 countries.** Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson (see its Papua New Guinea section below). Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — all five Bhutan books are STUDENT books, so this lesson now stands at acceptance count 1. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Maldives is filed as teacher-guide evidence only in this lesson (see its Maldives section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Maldives rows in this lesson.
+**Acceptance count: taught in 4 countries.** Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson (see its Papua New Guinea section below). Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — all five Bhutan books are STUDENT books, so this lesson now stands at acceptance count 1. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Maldives is filed as teacher-guide evidence only in this lesson (see its Maldives section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Maldives rows in this lesson.
 
 ## Papua New Guinea — Health expansion 2026-11-16
 
@@ -174,3 +174,61 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-hea
 Maldives is filed as teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — every Maldives book stocked here is a TEACHER guide, so Maldives is named in the countries line and provenance rows and the acceptance count is unchanged at 3 countries. The Maldives placement(s) in this lesson were filed under the original string(s) recorded in each provenance row — `staying-safe/keeping-teeth-healthy` — filed directly under this lesson's canonical NEW string, recorded as filed — and the original string is recorded in each provenance row above. Maldives's own way is content, as the book lines above record it: health is taught as three strands wound through every grade — growth and body awareness, personality and social development, and health of the individual and community — with the country's own concerns named in the later books (the nutritional status of Maldivians, the tropical diseases of the Maldives including thalassaemia, and first aid for near-drowning with CPR). This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
 Searchable tags: keeping teeth healthy, teeth and mouth, brushing teeth, oral hygiene, gums, dental products, Papua New Guinea Health TG Grade 3, Papua New Guinea Health TG Grade 4, Papua New Guinea, Bhutan, Bhutan PP–I Suggested Activities, Iran, Mauritius, Mauritius HPE, Mauritius Institute of Education, MIE
+
+## Fiji — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/fiji-health-placements.md. 4 Fiji placement(s) stocked in this lesson. The Fiji book(s) stocked in this lesson: Book 1, Book 2, Book 3, Book 5 of that file. Fiji is student-book stock, inside the acceptance count, in this lesson; the teacher-guide books stocked here (where present — Books 6, 9 and 11 of that file, the PE for Fun teachers handbooks/guides) are teacher-guide evidence only, outside the count, and their rows are marked (teacher guide — evidence). No Fiji placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound. Book 3's glossary (printed pp. 61–68) is inventory-only, named not placed, as filed.
+
+**Book 1 — Healthy Living Year 1 (student book, English):**
+- Title as printed: Healthy Living — Pupils Workbook, Year 1 (record title: Health Science Year 1)
+- Grade: Year 1 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Fiji (Curriculum Development Unit); year 2014; ISBN no ISBN printed
+- PDF pages: 28 (cover/title page verified against the record title — cover reads HEALTHY LIVING / PUPILS WORKBOOK / YEAR 1)
+- Verdict: COMPLETE
+- Tally: 24 placements — 3 to existing lessons, 21 NEW LESSON NEEDED (incl. 2 HELD)
+- Fiji's own way: a picture workbook of very short units, each taught through pictures, songs/rhymes and colouring/matching, rooted in island life — floods and hurricanes, boats, swimming, pets and village family life.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Unit 13 Keeping Teeth Healthy and Strong — foods that help or harm teeth, brushing after meals, avoiding sweets and fizzy drinks (original string `staying-safe/keeping-teeth-healthy`) | Fiji Year 1 Healthy Living, printed pp. 16–17 |
+
+**Book 2 — Healthy Living Year 2 (student book, English):**
+- Title as printed: Healthy Living — Pupils Workbook, Year 2 (record title: Health Science Year 2)
+- Grade: Year 2 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Fiji (Curriculum Development Unit); year 2014; ISBN no ISBN printed
+- PDF pages: 28 (cover/title page verified — cover text reads HEALTHY LIVING / PUPILS WORKBOOK / YEAR 2; read via the Wayback duplicate link record for this same book after the GitHub tree grab failed with RemoteDisconnected)
+- Verdict: COMPLETE
+- Tally: 24 placements — 2 to existing lessons, 22 NEW LESSON NEEDED (incl. 2 HELD)
+- Fiji's own way: same workbook pattern as Year 1, a step up — word searches, scrambles and should/shouldn't tables; Fiji hazards (hurricanes, floods, power lines) and rubbish sorted into burn / bury / compost.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Unit 13 Keeping Teeth Healthy and Strong — three ways to keep teeth healthy (original string `staying-safe/keeping-teeth-healthy`) | Fiji Year 2 Healthy Living, printed p. 16 |
+
+**Book 3 — Healthy Living Year 5 (student book, English):**
+- Title as printed: Healthy Living, Year 5 (record titles: Healthy Living Year 5 / Health Science Year 5)
+- Grade: Year 5 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Fiji (Curriculum Development Unit); year 2015; ISBN no ISBN printed
+- PDF pages: 69 (cover verified — HEALTHY LIVING / YEAR 5; read via the Wayback duplicate link record for this same book after the GitHub tree grab failed with RemoteDisconnected; glossary pp. 61–68 is inventory-only, named not placed)
+- Verdict: COMPLETE
+- Tally: 28 placements — 2 to existing lessons, 26 NEW LESSON NEEDED (incl. 5 HELD)
+- Fiji's own way: a full textbook now, not a workbook — growth and puberty first, then relationships, safety and first aid, then Fiji food and disease: local staples (dalo, tavioka, kumala), the Fiji immunisation schedule, coastal tabu marine protection, vesi trees and mangrove planting.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Unit 23 Different Parts of Teeth and Skin — incisors cut, canines tear, molars grind; brushing, flossing and dentist visits, and caring for skin (original string `staying-safe/keeping-teeth-healthy`) | Fiji Year 5 Healthy Living, printed pp. 48–49 |
+
+**Book 5 — Healthy Living Year 3 (student book, English):**
+- Title as printed: Healthy Living, Year 3 — Pupils Workbook (record title: Healthy Living Year 3)
+- Grade: Year 3 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Fiji (Curriculum Development Unit); year 2015; ISBN no ISBN printed
+- PDF pages: 48 (cover verified — HEALTHY LIVING / YEAR 3; read via grab.py tree route. Note: the contents list 25 units in strands H1–H4; the environment unit is mis-numbered "Unit 21" in the body)
+- Verdict: COMPLETE
+- Tally: 26 placements — 3 to existing lessons, 23 NEW LESSON NEEDED (incl. 4 HELD)
+- Fiji's own way: units grouped under four health strands (growth, relationships, safety, personal and community health); the safety strand is pure Fiji — crossing flooded creeks on tree-trunk bridges, railway lines, cane trucks, stray dogs, and help from the turaga-ni-koro (village headman).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Unit 4 Keeping Myself Clean and Tidy Every Day — brushing teeth every day after eating, with a brushing rhyme (original string `staying-safe/keeping-teeth-healthy`) | Fiji Year 3 Healthy Living, printed p. 9 |
+
+Fiji is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the student book(s) stocked here are Book 1, Book 2, Book 3, Book 5, so Fiji is named in the countries line and provenance rows and the acceptance count rises from 3 to 4 countries. The Fiji placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Fiji's own way is content, as the book lines above record it: health is taught through the Healthy Living series rooted in island life — floods and hurricanes, boats and swimming, village family life, Fiji's own foods (dalo, tavioka, kumala), its immunisation schedule and its own health services. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.

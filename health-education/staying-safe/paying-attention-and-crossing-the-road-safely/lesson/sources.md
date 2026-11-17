@@ -1,6 +1,6 @@
 # Sources — Paying Attention and Crossing the Road Safely
 
-countries: Ethiopia, Oman, Samoa, Ukraine, Turkey, Papua New Guinea, Vietnam, Thailand, Tanzania, Nepal, Maldives
+countries: Ethiopia, Oman, Samoa, Ukraine, Turkey, Papua New Guinea, Vietnam, Thailand, Tanzania, Nepal, Maldives, Fiji
 
 **Book 1:** *Grade 3 Health and Physical Education Teacher Guide* (የጤናና ሰውነት ማጎልመሻ ትምህርት የመምህር መምሪያ መጽሐፍ, ሦስተኛ ክፍል) (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. (58 PDF pages). Printed page = PDF page − 6. TRUNCATED — the file holds printed pp. 1–52 of 89+. Read in full, page by page, from 100 DPI renders (no usable text layer), in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g03-teacher-placements.md.
 
@@ -9,7 +9,7 @@ countries: Ethiopia, Oman, Samoa, Ukraine, Turkey, Papua New Guinea, Vietnam, Th
 | Sub lesson 1 — attention defined; the traffic-light teaching text; keep left; the pedestrian crossing (teacher guide — evidence) | Ethiopia, *Grade 3 Teacher Guide*, §3.3.1, printed pp. 47–49 |
 | Sub lesson 2 — the road-traffic movement game: set-up, cards, crossing, both directions (teacher guide — evidence) | Ethiopia, *Grade 3 Teacher Guide*, §3.3.2 Task 1, printed pp. 48–49 |
 
-**Acceptance count: taught in 6 countries.** Tanzania is added as student-book stock (see its Tanzania section below), inside the acceptance count. Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Ethiopia is filed as teacher-guide evidence only (Ethiopia), named here, counted nowhere. Oman is likewise filed as teacher-guide evidence only, outside the acceptance count. Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book. Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Vietnam is added as student-book stock (see its Vietnam section below), inside the acceptance count. Thailand is added as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count. Nepal is added as student-book stock (see its Nepal section below), inside the acceptance count. Maldives is filed as teacher-guide evidence only in this lesson (see its Maldives section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Maldives rows in this lesson.
+**Acceptance count: taught in 7 countries.** Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Tanzania is added as student-book stock (see its Tanzania section below), inside the acceptance count. Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Ethiopia is filed as teacher-guide evidence only (Ethiopia), named here, counted nowhere. Oman is likewise filed as teacher-guide evidence only, outside the acceptance count. Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book. Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Vietnam is added as student-book stock (see its Vietnam section below), inside the acceptance count. Thailand is added as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count. Nepal is added as student-book stock (see its Nepal section below), inside the acceptance count. Maldives is filed as teacher-guide evidence only in this lesson (see its Maldives section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Maldives rows in this lesson.
 
 The Grade 3 teacher guide is a TRUNCATED scan: the file holds printed pp. 1–52 of 89+. Missing from the file: §4.1 Cardiovascular activity (p. 53), §4.2 Muscle-strength activity (p. 57), §4.3 Stretching and flexibility (p. 62), §4.4 Agility (p. 65), all of Chapter 5 Gymnastics (pp. 69–84) and all of Chapter 6 Addis Ababa traditional movements and games (pp. 85–89+). Parts resting on this guide are labelled (teacher guide — evidence) and never count as pupil-taught.
 
@@ -272,3 +272,75 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/nepal-health
 | Nepal — Let's Be Safe from Accidents — traffic rules and care when crossing and using the road (original string `staying-safe/paying-attention-and-crossing-the-road-safely`) | Nepal 5 My Science, Health and Physical Education, printed p. 109 |
 
 Nepal is added as student-book stock (see its book lines and rows above), inside the acceptance count — all four Nepal books are STUDENT books, so Nepal is named in the countries line and provenance rows and the acceptance count rises from 5 to 6 countries. The Nepal placements in this lesson were filed directly under this lesson's own slug, recorded as filed in each provenance row above. Nepal's own way is content, as the book lines above record it: Health is taught inside combined CDC books on a nine-part spine repeated and deepened by grade, with Nepal's own ladder of health posts and hospitals named in the community-health lessons. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+## Fiji — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/fiji-health-placements.md. 6 Fiji placement(s) stocked in this lesson. The Fiji book(s) stocked in this lesson: Book 1, Book 2, Book 5, Book 7, Book 10 of that file. Fiji is student-book stock, inside the acceptance count, in this lesson; the teacher-guide books stocked here (where present — Books 6, 9 and 11 of that file, the PE for Fun teachers handbooks/guides) are teacher-guide evidence only, outside the count, and their rows are marked (teacher guide — evidence). No Fiji placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound. Book 10's glossary (printed pp. 62–66) is inventory-only, named not placed, as filed.
+
+**Book 1 — Healthy Living Year 1 (student book, English):**
+- Title as printed: Healthy Living — Pupils Workbook, Year 1 (record title: Health Science Year 1)
+- Grade: Year 1 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Fiji (Curriculum Development Unit); year 2014; ISBN no ISBN printed
+- PDF pages: 28 (cover/title page verified against the record title — cover reads HEALTHY LIVING / PUPILS WORKBOOK / YEAR 1)
+- Verdict: COMPLETE
+- Tally: 24 placements — 3 to existing lessons, 21 NEW LESSON NEEDED (incl. 2 HELD)
+- Fiji's own way: a picture workbook of very short units, each taught through pictures, songs/rhymes and colouring/matching, rooted in island life — floods and hurricanes, boats, swimming, pets and village family life.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Unit 3 Safety When Travelling — keeping still and safe in cars, buses and boats (original string `staying-safe/paying-attention-and-crossing-the-road-safely`) | Fiji Year 1 Healthy Living, printed p. 6 |
+| Fiji — Unit 12 Road Safety — kerb drill: stand and wait, look and listen before crossing, with a road-safety song (original string `staying-safe/paying-attention-and-crossing-the-road-safely`) | Fiji Year 1 Healthy Living, printed p. 15 |
+
+**Book 2 — Healthy Living Year 2 (student book, English):**
+- Title as printed: Healthy Living — Pupils Workbook, Year 2 (record title: Health Science Year 2)
+- Grade: Year 2 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Fiji (Curriculum Development Unit); year 2014; ISBN no ISBN printed
+- PDF pages: 28 (cover/title page verified — cover text reads HEALTHY LIVING / PUPILS WORKBOOK / YEAR 2; read via the Wayback duplicate link record for this same book after the GitHub tree grab failed with RemoteDisconnected)
+- Verdict: COMPLETE
+- Tally: 24 placements — 2 to existing lessons, 22 NEW LESSON NEEDED (incl. 2 HELD)
+- Fiji's own way: same workbook pattern as Year 1, a step up — word searches, scrambles and should/shouldn't tables; Fiji hazards (hurricanes, floods, power lines) and rubbish sorted into burn / bury / compost.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Unit 12 Road Safety — seatbelts, traffic, stop-look-cross word work (original string `staying-safe/paying-attention-and-crossing-the-road-safely`) | Fiji Year 2 Healthy Living, printed p. 15 |
+
+**Book 5 — Healthy Living Year 3 (student book, English):**
+- Title as printed: Healthy Living, Year 3 — Pupils Workbook (record title: Healthy Living Year 3)
+- Grade: Year 3 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Fiji (Curriculum Development Unit); year 2015; ISBN no ISBN printed
+- PDF pages: 48 (cover verified — HEALTHY LIVING / YEAR 3; read via grab.py tree route. Note: the contents list 25 units in strands H1–H4; the environment unit is mis-numbered "Unit 21" in the body)
+- Verdict: COMPLETE
+- Tally: 26 placements — 3 to existing lessons, 23 NEW LESSON NEEDED (incl. 4 HELD)
+- Fiji's own way: units grouped under four health strands (growth, relationships, safety, personal and community health); the safety strand is pure Fiji — crossing flooded creeks on tree-trunk bridges, railway lines, cane trucks, stray dogs, and help from the turaga-ni-koro (village headman).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Unit 17 Road Safety — face oncoming traffic, bright clothes at night, zebra crossings, and behaving safely on and waiting for buses (original string `staying-safe/paying-attention-and-crossing-the-road-safely`) | Fiji Year 3 Healthy Living, printed pp. 25–26 |
+
+**Book 7 — Healthy Living Year 4 (student book, English):**
+- Title as printed: Healthy Living, Year 4 — Pupils Workbook (record title: Healthy Living Year 4)
+- Grade: Year 4 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Fiji (Curriculum Development Unit); year 2015; ISBN no ISBN printed
+- PDF pages: 49 (cover verified — HEALTHY LIVING / YEAR 4; read via grab.py tree route)
+- Verdict: COMPLETE
+- Tally: 30 placements — 2 to existing lessons, 28 NEW LESSON NEEDED (incl. 6 HELD)
+- Fiji's own way: growth and body systems first, then a strong self-and-others strand (disability, respect, leaders, assertiveness against bullying, self-esteem), then the longest personal-safety unit in the series, and Fiji's pineapple-shaped food guide.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Unit 13 Personal Safety: Road Rules and Riding the Bus — face oncoming traffic, zebra crossings, kerb drill, traffic lights, and never crossing in front of or behind a bus (original string `staying-safe/paying-attention-and-crossing-the-road-safely`) | Fiji Year 4 Healthy Living, printed pp. 27–30 |
+
+**Book 10 — Healthy Living Year 8 (student book, English):**
+- Title as printed: Healthy Living, Year 8 — Pupils Workbook, Edited Version (record title: Healthy Living Year 8)
+- Grade: Year 8 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Fiji (Curriculum Development Unit); year 2015 (Edited version); ISBN no ISBN printed
+- PDF pages: 71 (cover verified — HEALTHY LIVING / YEAR 8; read via grab.py tree route; glossary pp. 62–66 is inventory-only, named not placed)
+- Verdict: COMPLETE
+- Tally: 29 placements — 2 to existing lessons, 27 NEW LESSON NEEDED (incl. 5 HELD)
+- Fiji's own way: puberty taught head-on with Fijian gender expectations examined against tradition, travel safety for the outer islands (boats and rafts), a real Fiji Times house-fire report as a case study, and Fiji's own diabetes and heart-disease burden.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Unit 17 Safety in Motor Vehicles, Boats and Rafts: Motor Vehicles — stay seated, never distract the driver, seat belts are compulsory by law in Fiji, and overloading and over-speeding cause Fiji's road accidents (original string `staying-safe/paying-attention-and-crossing-the-road-safely`) | Fiji Year 8 Healthy Living, printed pp. 31–32 |
+
+Fiji is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the student book(s) stocked here are Book 1, Book 2, Book 5, Book 7, Book 10, so Fiji is named in the countries line and provenance rows and the acceptance count rises from 6 to 7 countries. The Fiji placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Fiji's own way is content, as the book lines above record it: health is taught through the Healthy Living series rooted in island life — floods and hurricanes, boats and swimming, village family life, Fiji's own foods (dalo, tavioka, kumala), its immunisation schedule and its own health services. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.

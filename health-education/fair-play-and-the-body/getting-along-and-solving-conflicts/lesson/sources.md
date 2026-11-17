@@ -1,8 +1,8 @@
 # Sources — Getting Along and Solving Conflicts
 
-countries: Pakistan, Papua New Guinea, Eritrea, Sri Lanka
+countries: Pakistan, Papua New Guinea, Eritrea, Sri Lanka, Fiji
 
-**Acceptance count: taught in 3 countries.** Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Pakistan is filed as student-book stock, inside the acceptance count, in this lesson (see its Pakistan section below). Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Eritrea is added as student-book stock (see its Eritrea section below), inside the acceptance count — all three Eritrea books are STUDENT books.
+**Acceptance count: taught in 4 countries.** Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Pakistan is filed as student-book stock, inside the acceptance count, in this lesson (see its Pakistan section below). Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Eritrea is added as student-book stock (see its Eritrea section below), inside the acceptance count — all three Eritrea books are STUDENT books.
 
 ## Pakistan — Health expansion 2026-11-16
 
@@ -191,3 +191,80 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/sri-lanka-he
 | Sri Lanka — Ch. 15 "Let us maintain good interpersonal relationships" — building and keeping healthy relationships (original string `staying-safe/good-interpersonal-relationships`) | Sri Lanka Grade 11 G11 English student book, printed p. 171 |
 
 Sri Lanka is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the student book(s) stocked here are Book L1, so Sri Lanka is named in the countries line and provenance rows and the acceptance count rises from 2 to 3 countries; the teacher-guide rows, where present, are teacher-guide evidence only, outside the count. The Sri Lanka placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Sri Lanka's own way is content, as the book lines above record it: health is taught through the family and home first, then food, the body, emotions, adolescence and disease prevention, widening to the whole community and society, with the Piriven primary books teaching health almost entirely and the 1984 Grades 9–10 book teaching a full medical-foundations course. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+## Fiji — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/fiji-health-placements.md. 11 Fiji placement(s) stocked in this lesson. The Fiji book(s) stocked in this lesson: Book 3, Book 7, Book 8, Book 10, Book 13 of that file. Fiji is student-book stock, inside the acceptance count, in this lesson; the teacher-guide books stocked here (where present — Books 6, 9 and 11 of that file, the PE for Fun teachers handbooks/guides) are teacher-guide evidence only, outside the count, and their rows are marked (teacher guide — evidence). No Fiji placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound. Book 13 of that file (Healthy Living Year 7) is a link-only record, not in GitHub, read in full via the FlipHTML5 flipbook's search-indexed text, as filed; its glossary and reference pages are inventory-only, named not placed. Book 10's glossary (printed pp. 62–66) is inventory-only, named not placed, as filed. Book 3's glossary (printed pp. 61–68) is inventory-only, named not placed, as filed.
+
+**Book 3 — Healthy Living Year 5 (student book, English):**
+- Title as printed: Healthy Living, Year 5 (record titles: Healthy Living Year 5 / Health Science Year 5)
+- Grade: Year 5 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Fiji (Curriculum Development Unit); year 2015; ISBN no ISBN printed
+- PDF pages: 69 (cover verified — HEALTHY LIVING / YEAR 5; read via the Wayback duplicate link record for this same book after the GitHub tree grab failed with RemoteDisconnected; glossary pp. 61–68 is inventory-only, named not placed)
+- Verdict: COMPLETE
+- Tally: 28 placements — 2 to existing lessons, 26 NEW LESSON NEEDED (incl. 5 HELD)
+- Fiji's own way: a full textbook now, not a workbook — growth and puberty first, then relationships, safety and first aid, then Fiji food and disease: local staples (dalo, tavioka, kumala), the Fiji immunisation schedule, coastal tabu marine protection, vesi trees and mangrove planting.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Unit 14 Threatening and Non-Threatening Behaviour — sorting bullying, harassment and teasing from courtesy, respect and forgiveness (original string `staying-safe/threatening-and-kind-behaviour`) | Fiji Year 5 Healthy Living, printed p. 26 |
+
+**Book 7 — Healthy Living Year 4 (student book, English):**
+- Title as printed: Healthy Living, Year 4 — Pupils Workbook (record title: Healthy Living Year 4)
+- Grade: Year 4 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Fiji (Curriculum Development Unit); year 2015; ISBN no ISBN printed
+- PDF pages: 49 (cover verified — HEALTHY LIVING / YEAR 4; read via grab.py tree route)
+- Verdict: COMPLETE
+- Tally: 30 placements — 2 to existing lessons, 28 NEW LESSON NEEDED (incl. 6 HELD)
+- Fiji's own way: growth and body systems first, then a strong self-and-others strand (disability, respect, leaders, assertiveness against bullying, self-esteem), then the longest personal-safety unit in the series, and Fiji's pineapple-shaped food guide.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Unit 11 Assertiveness — passive, aggressive and assertive replies to a bully, and why assertive communication protects its user (original string `staying-safe/assertiveness-standing-up-to-bullying`) | Fiji Year 4 Healthy Living, printed pp. 20–21 |
+
+**Book 8 — Healthy Living Year 6 (student book, English):**
+- Title as printed: Healthy Living, Year 6 — Pupils Workbook, Trial Version (record title: Healthy Living Year 6)
+- Grade: Year 6 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Fiji (Curriculum Development Unit); year 2015; ISBN no ISBN printed
+- PDF pages: 57 (cover verified — HEALTHY LIVING / YEAR 6; read via grab.py tree route; the same book is also offered as a FlipHTML5 link record, counted once here)
+- Verdict: COMPLETE
+- Tally: 25 placements — 3 to existing lessons, 22 NEW LESSON NEEDED (incl. 3 HELD)
+- Fiji's own way: the series turns serious — body systems, reproductive health, peer pressure and intimate relationships, harmful substances including grog (kava) and glue sniffing, disaster diseases, and Fiji's lifestyle-disease (NCD) problem, with local bullying role models Ashika and Taniela.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Unit 9 Resilience and Proactive Behaviours: Bullying — responding positively to bullying, getting counselling from a trusted adult, and local leaders Ashika and Taniela who speak up against bullying without provoking fights (original string `staying-safe/assertiveness-standing-up-to-bullying`) | Fiji Year 6 Healthy Living, printed pp. 15–16 |
+| Fiji — Unit 10 Non-violent Ways of Responding to Anger — four non-violent answers to hurt and anger instead of hitting and shouting (original string `fair-play-and-the-body/non-violent-ways-to-answer-anger`) | Fiji Year 6 Healthy Living, printed p. 17 |
+
+**Book 10 — Healthy Living Year 8 (student book, English):**
+- Title as printed: Healthy Living, Year 8 — Pupils Workbook, Edited Version (record title: Healthy Living Year 8)
+- Grade: Year 8 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Fiji (Curriculum Development Unit); year 2015 (Edited version); ISBN no ISBN printed
+- PDF pages: 71 (cover verified — HEALTHY LIVING / YEAR 8; read via grab.py tree route; glossary pp. 62–66 is inventory-only, named not placed)
+- Verdict: COMPLETE
+- Tally: 29 placements — 2 to existing lessons, 27 NEW LESSON NEEDED (incl. 5 HELD)
+- Fiji's own way: puberty taught head-on with Fijian gender expectations examined against tradition, travel safety for the outer islands (boats and rafts), a real Fiji Times house-fire report as a case study, and Fiji's own diabetes and heart-disease burden.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Unit 4 Emotional Changes — mood swings, wanting independence and privacy, conflicts, attraction and the search for a new identity are normal in adolescence (original string `fair-play-and-the-body/emotional-changes-in-adolescence`) | Fiji Year 8 Healthy Living, printed p. 9 |
+| Fiji — Unit 11 Unhealthy Relationships — relationships marked by stress, inequality, control and power (original string `fair-play-and-the-body/recognising-unhealthy-relationships`) | Fiji Year 8 Healthy Living, printed p. 22 |
+| Fiji — Unit 12 Positive and Negative Uses of Power — power, status and empowerment used well and badly in peer and gender relationships (original string `fair-play-and-the-body/power-in-relationships`) | Fiji Year 8 Healthy Living, printed p. 23 |
+
+**Book 13 — Healthy Living Year 7 (student book, English):**
+- Title as printed: Healthy Living, Year 7 — Pupils Book (record title: Healthy Living Year 7; link-only record, not in GitHub)
+- Grade: Year 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Heritage and Arts, Fiji (Curriculum Advisory Services); year 2015, Edited Version 2020/2022; ISBN no ISBN printed
+- PDF pages: no PDF obtainable — read in full via the FlipHTML5 flipbook's search-indexed text (85 flipbook pages = printed pp. 1–84 plus back page; fliphtml5.com itself is Cloudflare-challenged and its page images use hashed names, so no file could be downloaded or staged). Cover verified from the flipbook text — HEALTHY LIVING / YEAR 7 / PUPILS BOOK. The printed contents list splits HIV into two rows (Unit 9 HIV, Unit 10 Preventing HIV); the body treats them as one Unit 9, and the body unit numbers 1–35 are used below. Glossary pp. 80–83 and Reference p. 84 are inventory-only, named not placed.
+- Verdict: COMPLETE
+- Tally: 51 placements — 1 to an existing lesson, 50 NEW LESSON NEEDED (incl. 5 HELD)
+- Fiji's own way: iTaukei gender roles examined against the gender equality written into Fiji's Constitution; personal rights taught straight from the 2013 Constitution's Bill of Rights; the Fiji Red Cross Society and St John named as Fiji's voluntary organisations; local energy foods named (cassava, dalo, yam, breadfruit, kumala); rural water drawn from springs, wells and roof tanks; and suicide, rape, trauma and stress taught head-on at Year 7.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Unit 4 Physical and Emotional Changes: Emotional Changes — mood swings, self-consciousness and self-esteem tied to appearance are normal emotional changes of puberty (original string `fair-play-and-the-body/emotional-changes-in-adolescence`) | Fiji Year 7 Healthy Living, printed pp. 11–12 |
+| Fiji — Unit 15 What is Threatening Behaviour? — behaviour that causes or threatens physical or emotional harm, from verbal abuse to destroying property; it is intentional, can be reactive or proactive, overt or secretive, and even self-directed; its causes include family structure, relationships, school environment, health and psychiatric conditions, and an inability to deal with frustration — in children often copied from aggression they have seen (original string `staying-safe/threatening-and-kind-behaviour`) | Fiji Year 7 Healthy Living, printed pp. 32–34 |
+| Fiji — Unit 15 What is Threatening Behaviour: Asserting Yourself — when others violate your rights or pressure you, speak up: assertiveness means letting people know your needs and setting limits and boundaries, instead of believing your feelings do not count (original string `staying-safe/assertiveness-standing-up-to-bullying`) | Fiji Year 7 Healthy Living, printed pp. 34–35 |
+| Fiji — Unit 16 Types of Powers within Social Groups — five kinds of power a group holds over its members: reward power, coercive power (fear or withheld rewards), legitimate power (family, teachers, religious organisations), expert power, and referent power (identifying with a group, as advertisers use movie stars); what empowerment means (original string `fair-play-and-the-body/power-in-relationships`) | Fiji Year 7 Healthy Living, printed pp. 35–36 |
+
+Fiji is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the student book(s) stocked here are Book 3, Book 7, Book 8, Book 10, Book 13, so Fiji is named in the countries line and provenance rows and the acceptance count rises from 3 to 4 countries. The Fiji placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Fiji's own way is content, as the book lines above record it: health is taught through the Healthy Living series rooted in island life — floods and hurricanes, boats and swimming, village family life, Fiji's own foods (dalo, tavioka, kumala), its immunisation schedule and its own health services. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.

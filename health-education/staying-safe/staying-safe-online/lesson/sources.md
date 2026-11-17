@@ -1,8 +1,8 @@
 # Sources — Staying Safe Online
 
-countries: Jordan, Timor-Leste, Ukraine, Sierra Leone, Mauritius
+countries: Jordan, Timor-Leste, Ukraine, Sierra Leone, Mauritius, Fiji
 
-**Acceptance count: taught in 4 countries.** Jordan is filed as student-book stock, inside the acceptance count, in this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Sierra Leone is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Sierra Leone rows (see its Sierra Leone section below). Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count — Book 7, the Pupil's Activity Book, is a student book; the Book 2 Teacher's Book rows are teacher-guide evidence only, outside the count.
+**Acceptance count: taught in 5 countries.** Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Jordan is filed as student-book stock, inside the acceptance count, in this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Sierra Leone is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Sierra Leone rows (see its Sierra Leone section below). Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count — Book 7, the Pupil's Activity Book, is a student book; the Book 2 Teacher's Book rows are teacher-guide evidence only, outside the count.
 
 **Book 5 — التربية الرياضية — الصف السابع — الفصل الدراسي الثاني (Physical Education, Grade Seven, Second Semester) (student book, Arabic):**
 - Title as printed: التربية الرياضية — الصف السابع — الفصل الدراسي الثاني (Physical Education, Grade Seven, Second Semester)
@@ -120,3 +120,35 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/mauritius-he
 Mauritius is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — Book 7 is a STUDENT activity book, so Mauritius is named in the countries line and provenance rows and the acceptance count rises from 3 to 4 countries; the Book 2 rows are teacher-guide evidence only, outside the count. The Mauritius placements in this lesson were filed under the original string recorded in the provenance rows above, resolved to this canonical lesson (`staying-safe/staying-safe-online`) by the health slug registry (Part 2A), and the original string is recorded in each provenance row above. Mauritius's own way is content, as the book lines above record it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
 Searchable tags: staying safe online, healthy use of technology, useful educational content, long sitting in front of screens, regular breaks, video assistant referee VAR, Health Concepts and Habits, Jordan NCCD Physical Education Grade 7, social networks cyberbullying supporting victims, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, virtual world dangers, behaving safely online, Ukraine G5 Health Safety and Wellbeing Vasylenko, Sierra Leone AHLS Teacher's Manual SSS1 SSS2 SSS3, adolescent health and life skills Sierra Leone, Mauritius, Mauritius HPE, Mauritius Institute of Education, MIE
+
+## Fiji — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/fiji-health-placements.md. 2 Fiji placement(s) stocked in this lesson. The Fiji book(s) stocked in this lesson: Book 1, Book 2 of that file. Fiji is student-book stock, inside the acceptance count, in this lesson; the teacher-guide books stocked here (where present — Books 6, 9 and 11 of that file, the PE for Fun teachers handbooks/guides) are teacher-guide evidence only, outside the count, and their rows are marked (teacher guide — evidence). No Fiji placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 1 — Healthy Living Year 1 (student book, English):**
+- Title as printed: Healthy Living — Pupils Workbook, Year 1 (record title: Health Science Year 1)
+- Grade: Year 1 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Fiji (Curriculum Development Unit); year 2014; ISBN no ISBN printed
+- PDF pages: 28 (cover/title page verified against the record title — cover reads HEALTHY LIVING / PUPILS WORKBOOK / YEAR 1)
+- Verdict: COMPLETE
+- Tally: 24 placements — 3 to existing lessons, 21 NEW LESSON NEEDED (incl. 2 HELD)
+- Fiji's own way: a picture workbook of very short units, each taught through pictures, songs/rhymes and colouring/matching, rooted in island life — floods and hurricanes, boats, swimming, pets and village family life.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Unit 24 Internet Safety — never sharing name, address, phone or email online (original string `staying-safe/internet-safety`) | Fiji Year 1 Healthy Living, printed p. 28 |
+
+**Book 2 — Healthy Living Year 2 (student book, English):**
+- Title as printed: Healthy Living — Pupils Workbook, Year 2 (record title: Health Science Year 2)
+- Grade: Year 2 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Fiji (Curriculum Development Unit); year 2014; ISBN no ISBN printed
+- PDF pages: 28 (cover/title page verified — cover text reads HEALTHY LIVING / PUPILS WORKBOOK / YEAR 2; read via the Wayback duplicate link record for this same book after the GitHub tree grab failed with RemoteDisconnected)
+- Verdict: COMPLETE
+- Tally: 24 placements — 2 to existing lessons, 22 NEW LESSON NEEDED (incl. 2 HELD)
+- Fiji's own way: same workbook pattern as Year 1, a step up — word searches, scrambles and should/shouldn't tables; Fiji hazards (hurricanes, floods, power lines) and rubbish sorted into burn / bury / compost.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Unit 24 Internet Safety — keep passwords private, never share names, photos or addresses, tell parents about mean or creepy messages (original string `staying-safe/internet-safety`) | Fiji Year 2 Healthy Living, printed p. 27 |
+
+Fiji is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the student book(s) stocked here are Book 1, Book 2, so Fiji is named in the countries line and provenance rows and the acceptance count rises from 4 to 5 countries. The Fiji placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Fiji's own way is content, as the book lines above record it: health is taught through the Healthy Living series rooted in island life — floods and hurricanes, boats and swimming, village family life, Fiji's own foods (dalo, tavioka, kumala), its immunisation schedule and its own health services. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.

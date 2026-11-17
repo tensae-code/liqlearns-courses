@@ -1,6 +1,6 @@
 # Sources — Doping — What It Is and What It Costs
 
-countries: Ethiopia, China, Honduras, Greece, Pakistan, Papua New Guinea, Estonia, Mauritius, Sri Lanka
+countries: Ethiopia, China, Honduras, Greece, Pakistan, Papua New Guinea, Estonia, Mauritius, Sri Lanka, Fiji
 
 **Book 1:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–106 + front matter (114 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md.
 
@@ -41,7 +41,7 @@ countries: Ethiopia, China, Honduras, Greece, Pakistan, Papua New Guinea, Estoni
 | Prove-it questions folded from the book's own Chapter 1 review — Sub lesson 4 (teacher guide — evidence) | Ethiopia, *Grade 7 Teacher Guide*, Chapter 1 review answers, printed pp. 12–13 (teacher guide — evidence) |
 | China — 第四章 第五节 运动安全（八）— what doping is and what counts as a doping violation (filed under `fair-play-and-the-body/doping-what-it-is-and-what-it-costs`, this lesson itself) | China, *普通高中教科书·体育与健康必修 全一册 (PEP Senior-High PE & Health, Compulsory, Complete Volume)*, 第四章 第五节 运动安全（八）, printed p. 78 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, China, Honduras, Greece, Pakistan, Mauritius).** Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Pakistan is added as student-book stock (see its Pakistan section below), inside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Estonia is filed as teacher-guide evidence only in this lesson (see its Estonia section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is stocked in this lesson for Estonia. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count.
+**Acceptance count: taught in 7 countries (Ethiopia, China, Honduras, Greece, Pakistan, Mauritius, Fiji).** Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Pakistan is added as student-book stock (see its Pakistan section below), inside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Estonia is filed as teacher-guide evidence only in this lesson (see its Estonia section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is stocked in this lesson for Estonia. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count.
 
 The Grade 5 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -213,3 +213,35 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/sri-lanka-he
 | Sri Lanka — Ch. 6, "Sports and doping" — what doping is, why athletes do it and what it costs them and the sport (original string `fair-play-and-the-body/doping-what-it-is-and-what-it-costs`) | Sri Lanka Grade 10 G10 English student book Ch. 6, printed p. 120 |
 
 Sri Lanka is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the student book(s) stocked here are Book L2, so Sri Lanka is named in the countries line and provenance rows and the acceptance count rises from 6 to 7 countries; the teacher-guide rows, where present, are teacher-guide evidence only, outside the count. The Sri Lanka placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Sri Lanka's own way is content, as the book lines above record it: health is taught through the family and home first, then food, the body, emotions, adolescence and disease prevention, widening to the whole community and society, with the Piriven primary books teaching health almost entirely and the 1984 Grades 9–10 book teaching a full medical-foundations course. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+## Fiji — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/fiji-health-placements.md. 2 Fiji placement(s) stocked in this lesson. The Fiji book(s) stocked in this lesson: Book 4, Book 9 of that file. Fiji is student-book stock, inside the acceptance count, in this lesson; the teacher-guide books stocked here (where present — Books 6, 9 and 11 of that file, the PE for Fun teachers handbooks/guides) are teacher-guide evidence only, outside the count, and their rows are marked (teacher guide — evidence). No Fiji placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 4 — (Health parts) — PE is Fun for Year 11 (student book, English):**
+- Title as printed: Physical Education — PE is Fun! 11, Textbook, Trial Version (record title: PE is Fun for Year 11)
+- Grade: Year 11 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Heritage & Arts, Fiji (Curriculum Advisory Services); year 2017, First Edition, Trial Version; ISBN no ISBN printed
+- PDF pages: 104 (cover verified — PE IS FUN! / 11 / TEXTBOOK / TRIAL VERSION; read via the Wayback duplicate link record for this same book after the GitHub tree grab failed with RemoteDisconnected)
+- Verdict: COMPLETE — the book is a PE book; its PE parts are filed in fiji-pe-placements.md, and its three Health-ground chapters are filed here
+- Tally (this file): 3 placements — 2 to existing lessons, 1 NEW LESSON NEEDED
+- Fiji's own way: a senior PE textbook built on strands and KLA outcomes, moving from movement science to training, sports nutrition, first aid and tournament organisation, with Fiji Sevens rugby and the Skipper Cup as its worked examples.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Social Health: Drugs in Sports — performance-enhancing drugs, doping, legal and illicit drugs and their effects on the individual (original string `fair-play-and-the-body/doping-what-it-is-and-what-it-costs`) | Fiji Year 11 PE is Fun, printed pp. 85–103 (Social Health chapter) |
+
+**Book 9 — (Health parts) — PE is Fun 6, Teachers Guide (teacher guide, English):**
+- Title as printed: Physical Education — PE is Fun! 6, Teachers Guide, Trial Version (record title: PE is Fun 6 — Teachers Guide)
+- Grade: Year 6 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Fiji; year no year printed (Trial Version); ISBN no ISBN printed
+- PDF pages: 110 (cover verified — PE IS FUN! / 6 / TEACHERS GUIDE / TRIAL VERSION; read via grab.py tree route)
+- Verdict: COMPLETE — the book is a PE teacher guide; its PE parts are filed in fiji-pe-placements.md, and its unhealthy-behaviour and pool-safety teaching is filed here
+- Tally (this file): 3 placements — 1 to existing lessons, 2 NEW LESSON NEEDED
+- Fiji's own way: unhealthy behaviour is taught inside PE itself — doping alongside smoking, alcohol and glue sniffing — and pool exercise comes with its own safety teaching.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fiji — Chapter 6 Unhealthy Behaviour: Doping — doping as an unhealthy behaviour in sport (teacher guide — evidence) (original string `fair-play-and-the-body/doping-what-it-is-and-what-it-costs`) | Fiji Year 6 PE is Fun Teachers Guide, printed pp. 66–69 (Chapter 6) (teacher guide — evidence) |
+
+Fiji is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the student book(s) stocked here are Book 4, Book 9, so Fiji is named in the countries line and provenance rows and the acceptance count rises from 6 to 7 countries; the teacher-guide rows are teacher-guide evidence only, outside the count. The Fiji placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Fiji's own way is content, as the book lines above record it: health is taught through the Healthy Living series rooted in island life — floods and hurricanes, boats and swimming, village family life, Fiji's own foods (dalo, tavioka, kumala), its immunisation schedule and its own health services. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
