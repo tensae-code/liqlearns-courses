@@ -1,6 +1,6 @@
 # Sources — My School as a Place
 
-countries: Fiji, Latvia, Mauritius, Ecuador, Yemen, Libya, Afghanistan, Eritrea, Serbia, Venezuela, Turkey, Iraq, Kazakhstan, North Macedonia, Angola, Sri Lanka, Cambodia, Vietnam, Myanmar, Iran, El Salvador, Mauritania, Laos
+countries: Fiji, Latvia, Mauritius, Ecuador, Yemen, Libya, Afghanistan, Eritrea, Serbia, Venezuela, Turkey, Iraq, Kazakhstan, North Macedonia, Angola, Sri Lanka, Cambodia, Vietnam, Myanmar, Iran, El Salvador, Mauritania, Laos, Indonesia
 
 **Book 1:** *Social Studies Year 3 (Re-edited 2017)* (student book, English) — Fiji, Ministry of Education, Heritage & Arts, Curriculum Development Unit (with UNESCO / Fiji Memory of the World support); year 2017 (re-edited); ISBN no ISBN printed. Title as printed: Social Studies Year 3 (Re-edited 2017). Grade: Year 3 (student/teacher: STUDENT). PDF pages: 64 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: grab.py GitHub API failed (RemoteDisconnected, release route ×2 and tree route ×1); read instead from the books.json record's own Wayback source_url — the ministry original of the same book. Non-Geography parts named, not placed: Part One Strand 1 Social Organisation — Lesson 1 My Family (printed p. 5), Lesson 2 Family Relationships (p. 11), Lesson 3 Family Roles (p. 17); Strand 2 Time, Continuity and Change — Lesson 4 Cultural Background (p. 24). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
 
@@ -295,3 +295,19 @@ Laos's teacher-guide placements in this section are evidence only, outside the a
 Laos's own way (Book 9): the subject opens in the first weeks of a child's schooling with the road, the school and the flag, then moves home — thank-you and sorry, elders, neighbours — ending the year by widening respect to the whole community.
 
 Searchable tags: my school as a place, Laos, social studies, first-steps
+
+Indonesia placements — Social Studies remaining strands (2026-11-17):
+
+**Book 30:** *Pendidikan Pancasila untuk SD/MI Kelas I* (student book, Bahasa Indonesia) — Title as printed: Pendidikan Pancasila untuk SD/MI Kelas I. Grade: Grade 1 / SD/MI Kelas I (student/teacher: STUDENT). Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Kemendikbudristek), Pusat Perbukuan, Jakarta; year 2023 (Cetakan Pertama); ISBN 978-623-194-615-7 (jil. 1); 978-623-194-614-0 (complete set). PDF pages: 200 (xii + 188 printed; cover verified: "PENDIDIKAN PANCASILA — SD/MI KELAS I", authors Canny Ilmiati, Etika Indah Febriani, Elisa Seftriyana; byte size 6,406,919 matching the GitHub mid-size-books release asset; grab.py tree returned 404 — file lives in Releases, read via the recorded official SIBI source_url). Earlier waves: not read before (Geography/History/Economics waves read separate Geografi/Sejarah/Ekonomi books). Verdict: COMPLETE. Contents map: Integrated SS pp. 121–166 (Bab 4 neighbourhood/school); Civics/Citizenship/Government pp. 75–118 (Bab 3 national symbols); Morals/Values pp. 1–74 (Bab 1–2 self, friends, play rules, family rules). Tally: 13 placements — 3 to existing lessons, 10 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia part — first-steps/my-school-as-a-place — Bab 4 C. Aku Mengenal Lingkungan Sekolahku — teaches: knowing the school as a place — its rooms, grounds and surroundings — Indonesia Grade 1 PP-G1 student, printed p. 141 | Indonesia, *Pendidikan Pancasila untuk SD/MI Kelas I* (student book), Bab 4 C. Aku Mengenal Lingkungan Sekolahku — printed p. 141 |
+
+**Acceptance count: taught in 21 countries (Fiji, Ecuador, Yemen, Libya, Afghanistan, Eritrea, Serbia, Venezuela, Turkey, Iraq, Kazakhstan, North Macedonia, Angola, Sri Lanka, Cambodia, Vietnam, Myanmar, Iran, El Salvador, Mauritania, Indonesia).**
+
+Indonesia's own way (PP-G1 student): Pancasila values are taught from the child's own body, friends and family outward — five recurring child characters from Papua, Bali, Jakarta, Sulawesi and Kalimantan carry every chapter, so national unity is shown as named children from different islands.
+
+Registry note: this placement was filed against `first-steps/my-school-as-a-place`, a lesson named in the slug registry §5 as already standing; it is stocked into this canonical lesson, `first-steps/my-school-as-a-place`, exactly as the registry directs.
+
+Searchable tags: my school as a place, Indonesia, social studies, first-steps

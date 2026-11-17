@@ -1,6 +1,6 @@
 # Sources — Caring for Our School
 
-countries: Libya, Angola, United Arab Emirates, Myanmar, Mauritania, Laos
+countries: Libya, Angola, United Arab Emirates, Myanmar, Mauritania, Laos, Indonesia
 
 **Book 1:** *أنا المواطن (I Am the Citizen), National Education G4* (student book, Arabic) — Title as printed: أنا المواطن — كتاب التربية الوطنية للصف الرابع من مرحلة التعليم الأساسي (I Am the Citizen — National Education book for Grade 4 of basic education). Grade: 4 (student/teacher: STUDENT). Publisher: State of Libya, Ministry of Education — Curriculum and Educational Research Centre (prepared by a specialised committee commissioned by the Centre); year 2019–2020 / 1440–1441 AH; ISBN no ISBN printed on the cover pages read. PDF pages: 88 (cover rendered and verified against the record title; 16,522,163 bytes, Wayback capture 20211209161425 of the recorded source_url — the book is image-only and was read from page renders). Earlier waves: not read before (the National Education books were never targeted by the Geography/History/Economics waves). Verdict: COMPLETE (full page-by-page read, civics track). Contents map: Integrated SS (Unit 2 "I am a human being") Lesson 5 I and my family pp. 41–48, Lesson 6 I and my school pp. 49–56, Lesson 7 I and the neighbourhood pp. 57–65; Morals/Values Lesson 1 I am a human being pp. 8–15; Civics/Citizenship Lesson 6 carries the Convention on the Rights of the Child art. 28 (free compulsory basic education) p. 55; Health (Unit 1 "I and my health") Lesson 2 my cleanliness pp. 16–22, Lesson 3 my nutrition pp. 23–31, Lesson 4 my body's safety pp. 32–39 — named, the Health course's, not placed, except the shared-places and road-safety fragments placed below; Environment (Unit 3) Lesson 8 I and the environment pp. 67–75 (environment components — named, Geography/Science, not placed), Lesson 9 I protect the environment pp. 76–86 (placed — civic behaviour). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/libya-placements.md.
 
@@ -117,3 +117,17 @@ Laos's own way (Book 9): the subject opens in the first weeks of a child's schoo
 Registry note: the original coined string `culture-and-work/caring-for-our-learning-things` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/caring-for-our-school`.
 
 Searchable tags: caring for our school, Laos, social studies, first-steps
+
+Indonesia placements — Social Studies remaining strands (2026-11-17):
+
+**Book 11:** *Pendidikan Pancasila untuk SD/MI Kelas I* (student book, Bahasa Indonesia) — Title as printed: Pendidikan Pancasila untuk SD/MI Kelas I. Grade: Grade 1 / SD/MI Kelas I (student/teacher: STUDENT). Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Kemendikbudristek), Pusat Perbukuan, Jakarta; year 2023 (Cetakan Pertama); ISBN 978-623-194-615-7 (jil. 1); 978-623-194-614-0 (complete set). PDF pages: 200 (xii + 188 printed; cover verified: "PENDIDIKAN PANCASILA — SD/MI KELAS I", authors Canny Ilmiati, Etika Indah Febriani, Elisa Seftriyana; byte size 6,406,919 matching the GitHub mid-size-books release asset; grab.py tree returned 404 — file lives in Releases, read via the recorded official SIBI source_url). Earlier waves: not read before (Geography/History/Economics waves read separate Geografi/Sejarah/Ekonomi books). Verdict: COMPLETE. Contents map: Integrated SS pp. 121–166 (Bab 4 neighbourhood/school); Civics/Citizenship/Government pp. 75–118 (Bab 3 national symbols); Morals/Values pp. 1–74 (Bab 1–2 self, friends, play rules, family rules). Tally: 13 placements — 3 to existing lessons, 10 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia part — first-steps/caring-for-our-school — Bab 4 D. Aku Peduli Lingkungan Sekolahku — teaches: caring for the shared school environment as a pupil's duty — Indonesia Grade 1 PP-G1 student, printed p. 151 | Indonesia, *Pendidikan Pancasila untuk SD/MI Kelas I* (student book), Bab 4 D. Aku Peduli Lingkungan Sekolahku — printed p. 151 |
+
+**Acceptance count: taught in 6 countries (Libya, Angola, United Arab Emirates, Myanmar, Mauritania, Indonesia).**
+
+Indonesia's own way (PP-G1 student): Pancasila values are taught from the child's own body, friends and family outward — five recurring child characters from Papua, Bali, Jakarta, Sulawesi and Kalimantan carry every chapter, so national unity is shown as named children from different islands.
+
+Searchable tags: caring for our school, Indonesia, social studies, first-steps

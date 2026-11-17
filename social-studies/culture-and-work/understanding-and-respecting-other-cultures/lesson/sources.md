@@ -1,6 +1,6 @@
 # Sources — Understanding and Respecting Other Cultures
 
-countries: Mongolia, Mexico, Serbia, Fiji, Colombia, United Arab Emirates, El Salvador, Honduras
+countries: Mongolia, Mexico, Serbia, Fiji, Colombia, United Arab Emirates, El Salvador, Honduras, Indonesia
 
 **Book 1:** *Нийгэм судлал VII (Social Studies VII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2019; ISBN no ISBN printed on the pages checked. Title as printed: Нийгэм судлал VII (Social Studies VII). Grade: Grade 7 (student). 99 PDF pp. (cover verified against the record title; secured GitHub release asset, 48,845,405 bytes, byte-size verified on download; contents also cross-checked against the ministry econtent flipbook of the same book). Verdict: COMPLETE for Geography scope (contents page and chapter structure read in full; the book follows the same five-chapter spiral as Grade 9). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mongolia-placements.md.
 
@@ -104,3 +104,22 @@ Honduras's own way (Book 4): Grade 4 widens civics to Central America and to rig
 Honduras's own way (Book 8): Grade 8 is the moral-and-legal year — moral conscience and dilemmas, the Anti-Bullying Law read article by article, the rule of law traced to 1789, and human rights taught through the Americas' own instruments (the American Declaration, the OAS, the anti-torture and forced-disappearance conventions).
 
 Searchable tags: understanding and respecting other cultures, Honduras, social studies, culture-and-work
+
+Indonesia placements — Social Studies remaining strands (2026-11-17):
+
+**Book 13:** *Pendidikan Pancasila untuk SD/MI Kelas VI (Edisi Revisi)* (student book, Bahasa Indonesia) — Title as printed: Pendidikan Pancasila untuk SD/MI Kelas VI (Edisi Revisi). Grade: Grade 6 / SD/MI Kelas VI (student/teacher: STUDENT). Publisher: Kemendikbudristek, Pusat Perbukuan, Jakarta; year 2023; ISBN 978-623-194-652-2 (jil. 6 PDF). PDF pages: 208 (cover verified: "PENDIDIKAN PANCASILA — SD/MI KELAS VI", authors Mohamad Alwi Lutfi, Listia, Khristina Antariningsih; byte size matches GitHub mid-size-books release asset 13,397,776; grab.py tree 404 — read via recorded SIBI source_url). Earlier waves: not read before. Verdict: COMPLETE (glossary p. 173 inventory-only, named not placed). Contents map: Civics/Citizenship pp. 49–74 (norms, rights and duties in national life), 75–92 (musyawarah), 112–134 (provinces inside the NKRI); Morals/Values pp. 1–48 (practising Pancasila, inviting others); Culture-in-society pp. 93–111 (respecting cultural and religious difference, tolerance); Integrated SS pp. 135–152 (unity kept by gotong royong). Tally: 14 placements — 0 to existing lessons, 14 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/indonesia-placements.md.
+
+**Book 14:** *Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas IV (Edisi Revisi)* (student book, Bahasa Indonesia) — Title as printed: Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas IV (Edisi Revisi). Grade: Grade 4 / SD/MI Kelas IV (student/teacher: STUDENT). Publisher: Kemendikbudristek, Jakarta; year 2023 (Edisi Revisi); ISBN 978-623-118-445-0 (jil. 4 PDF). PDF pages: 208 (cover verified: "ILMU PENGETAHUAN ALAM DAN SOSIAL, Edisi Revisi — SD/MI KELAS IV", Amalia Fitri dkk.; byte size matches GitHub mid-size-books release asset 6,135,974; grab.py tree 404 — read via recorded SIBI source_url). Earlier waves: not read before. Verdict: COMPLETE (contents-first ss read: remaining-strand chapters Bab 5 C, Bab 6, Bab 7 and Bab 8 C read fully; Science/Geography chapters named below, not placed; glossary p. 179 inventory-only). Contents map: Integrated SS pp. 111–118 (community livelihoods), 119–136 (my role in school and community); Culture-in-society pp. 137–160, 174–178 (local wisdom, traditions, preserving culture); Science pp. 1–52 (energy, forces), 73–94 (climate); Geography pp. 53–72 (maps, landscapes), 95–110 (biodiversity and resources), 161–173 (threatened environment, carbon footprint). Tally: 8 placements — 1 to existing lessons, 7 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia part — culture-and-work/understanding-and-respecting-other-cultures — Bab 5 B. Mengajak Teman untuk Bersikap Toleran terhadap Keberagaman Budaya dan Agama — teaches: inviting friends to be tolerant of cultural and religious diversity, and pride in that diversity — Indonesia Grade 6 PP-G6 student, printed p. 107 (filed NEW — the existing lesson is Mongolia-framed; this is Indonesia's own tolerance teaching) | Indonesia, *Pendidikan Pancasila untuk SD/MI Kelas VI (Edisi Revisi)* (student book), Bab 5 B. Mengajak Teman untuk Bersikap Toleran terhadap Keberagaman Budaya dan Agama — printed p. 107 |
+| Indonesia part — culture-and-work/understanding-and-respecting-other-cultures — Bab 7 C. Sikapku Terhadap Keberagaman Budaya — teaches: my attitude towards cultural diversity — respect as the pupil's own stance — Indonesia Grade 4 IPAS-G4 student, printed p. 155 | Indonesia, *Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas IV (Edisi Revisi)* (student book), Bab 7 C. Sikapku Terhadap Keberagaman Budaya — printed p. 155 |
+
+**Acceptance count: taught in 9 countries (Mongolia, Mexico, Serbia, Fiji, Colombia, United Arab Emirates, El Salvador, Honduras, Indonesia).**
+
+Indonesia's own way (PP-G6 student): the primary Pancasila course closes by widening every earlier theme to the nation — norms become norms of berbangsa dan bernegara (national and state life), and gotong royong is finally named as bela negara, defending the country by working together.
+
+Indonesia's own way (IPAS-G4 student): IPAS Grade 4 teaches community through kearifan lokal (local wisdom) — pupils interview classmates and teachers about habits handed down in their families (jamu drinking, speaking Batak at home) before any national culture is named.
+
+Searchable tags: understanding and respecting other cultures, Indonesia, social studies, culture-and-work

@@ -1,6 +1,6 @@
 # Sources — School Rules
 
-countries: Burkina Faso, Serbia, Turkey, Kazakhstan, Iran, Zimbabwe, Honduras, Laos, Mongolia
+countries: Burkina Faso, Serbia, Turkey, Kazakhstan, Iran, Zimbabwe, Honduras, Laos, Mongolia, Indonesia
 
 **Book 1:** *Éducation Civique et Morale CP1 — Fiches d'aide à la préparation* (teacher guide — prepared lesson sheets, French) — Title as printed: Éducation Civique et Morale CP1 — Fiches d'aide à la préparation. Grade: CP1 (Cours Préparatoire 1) (student/teacher: TEACHER). Publisher: Ministère de l'Éducation Nationale, de l'Alphabétisation et de la Promotion des Langues Nationales (MENAPLN), Burkina Faso; year 2020 (édition 2020); no ISBN printed. PDF pages: 83 (cover verified against the record title; record size 655,598 B matches the downloaded file exactly). Earlier waves: not read before. Verdict: COMPLETE — all 25 fiches read; 22 placed, 3 named-not-placed (body/food hygiene = Health course: fiche 4 propreté du corps, fiche 10 propreté des dents, fiche 11 protection des aliments). The companion CP1 teacher guide (Book 1 of the filing, *Education Civique et Morale CP1 — Guide de l'enseignant*) carries the same CP1 lesson contents in its Part 2 "contenus notionnels"; the lessons are placed once, under these fiches, to avoid placing the same lessons twice. Contents map: Civics/Citizenship fiches 2, 9, 15–19, 21–24; Morals/Values fiches 6, 12, 20, 25; Integrated SS (road safety as rules of community life) fiches 1, 7, 13, 14; shared-place care fiches 3, 5, 8; Health (named, not placed) fiches 4, 10, 11. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/burkina-faso-placements-b.md. Teacher guide — evidence only, outside the acceptance count. Staged under the new rule: external download from fasoeducation.bf, the MENAPLN teacher portal, not held in GitHub — all three Burkina Faso books staged under the 2026-11-13 rule, see the group log.
 
@@ -162,3 +162,20 @@ Mongolia's own way (Book 2): Grade 2 civics is taught through custom (ёс) and 
 Registry note: the original coined string `first-steps/rules-we-follow-at-school` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/school-rules`.
 
 Searchable tags: school rules, Mongolia, social studies, culture-and-work
+
+Indonesia placements — Social Studies remaining strands (2026-11-17):
+
+**Book 15:** *Pendidikan Pancasila untuk SD/MI Kelas III* (student book, Bahasa Indonesia) — Title as printed: Pendidikan Pancasila untuk SD/MI Kelas III. Grade: Grade 3 / SD/MI Kelas III (student/teacher: STUDENT). Publisher: Kemendikbudristek, Pusat Perbukuan, Jakarta; year 2023; ISBN 978-623-194-631-7 (jil. 3 PDF). PDF pages: 208 (cover verified: "PENDIDIKAN PANCASILA — SD/MI KELAS III", authors Ressi Kartika Dewi, Kamala Rahayu Candra Sary, Hani Hanifah; byte size matches GitHub mid-size-books release asset 8,674,899; grab.py tree 404 — read via recorded SIBI source_url). Earlier waves: not read before. Verdict: COMPLETE (glossary pp. 177–179 inventory-only, named not placed; per-chapter Evaluasi/Refleksi excluded as assessment apparatus). Contents map: Integrated SS pp. 1–44 (me, family, friends; my place inside the state); Civics/Citizenship pp. 45–86, 123–176 (school rules and agreements, rights and duties, Pancasila meanings and formulators); Morals/Values pp. 87–122 (difference is beautiful — ethnic and cultural wealth, language of unity). Tally: 11 placements — 2 to existing lessons, 9 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia part — first-steps/rules-and-agreements-at-my-school — Bab 2 A. Aturan Sekolahku — teaches: my school's rules and why a school needs them — Indonesia Grade 3 PP-G3 student, printed p. 47 | Indonesia, *Pendidikan Pancasila untuk SD/MI Kelas III* (student book), Bab 2 A. Aturan Sekolahku — printed p. 47 |
+| Indonesia part — first-steps/rules-and-agreements-at-my-school — Bab 2 B. Kesepakatan Sekolahku — teaches: school agreements — rules the class agrees together, not only rules handed down — Indonesia Grade 3 PP-G3 student, printed p. 57 | Indonesia, *Pendidikan Pancasila untuk SD/MI Kelas III* (student book), Bab 2 B. Kesepakatan Sekolahku — printed p. 57 |
+
+**Acceptance count: taught in 8 countries (Serbia, Turkey, Kazakhstan, Iran, Zimbabwe, Honduras, Mongolia, Indonesia).**
+
+Indonesia's own way (PP-G3 student): Grade 3 is the first book to name the state the child lives in — your own street is taught as part of the NKRI (Unitary State of the Republic of Indonesia), and rights are introduced paired, always, with duties.
+
+Registry note: the original coined string `first-steps/rules-and-agreements-at-my-school` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/school-rules`.
+
+Searchable tags: school rules, Indonesia, social studies, culture-and-work

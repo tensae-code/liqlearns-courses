@@ -1,0 +1,9 @@
+# Video script — Preserving Our Regional Cultures
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). This script is full: the placements name a video-script need for this lesson. Made later, when videos are made; the script is the slot's written form until then.
+
+---
+
+Indonesia's Grade 5 PP-G5 student (printed p. 104); Grade 5 PP-G5 teacher (printed p. 100); Grade 4 IPAS-G4 student (printed p. 174); Grade 4 IPAS-G4 teacher (printed p. 222), teaches: Bab 3 B. Ayo Lestarikan Budaya Daerah, Panduan Khusus Bab 3: Keragaman Budaya Indonesiaku, Bab 8 C. Lestari Budayaku, Lestari Jati Diriku, Bab VIII: Menjadi Pahlawan Lingkungan — teaches: preserving regional culture — children's own part in keeping local arts and customs alive; essential material and guidance for regional cultures and preserving them; preserve my culture, preserve my identity — cultural survival stated as identity survival; guidance for the chapter's culture part — preserve my culture, preserve my identity.
+
+Indonesia's own way: Grade 5 names the machinery of Indonesian civic life — norma (religious, decency, social and legal norms as one tree) and musyawarah, deciding by deliberation until consensus (mufakat), practised first in the family. the guide's Materi Esensial sections state the norms/musyawarah material in full adult form, including the norm tree, before it is simplified for pupils. IPAS Grade 4 teaches community through kearifan lokal (local wisdom) — pupils interview classmates and teachers about habits handed down in their families (jamu drinking, speaking Batak at home) before any national culture is named. the guide's Bab VI essential material states roles, rules and responsibilities as one civic package across three environments — home first, then school, then masyarakat (society).

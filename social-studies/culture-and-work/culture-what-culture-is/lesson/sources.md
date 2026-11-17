@@ -1,6 +1,6 @@
 # Sources — Culture — what culture is
 
-countries: Ethiopia, Mongolia, Bahamas, Zimbabwe, Colombia, Kuwait, Jordan, Bhutan, Kiribati, Sierra Leone, Tanzania, Eritrea, Syria, Bangladesh, Angola, Iran, El Salvador, Honduras, Pakistan
+countries: Ethiopia, Mongolia, Bahamas, Zimbabwe, Colombia, Kuwait, Jordan, Bhutan, Kiribati, Sierra Leone, Tanzania, Eritrea, Syria, Bangladesh, Angola, Iran, El Salvador, Honduras, Pakistan, Indonesia
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -259,3 +259,19 @@ Pakistan's own way (Book 10): the older book teaches the same state from the oth
 Pakistan's own way (Book 14): KPK's Class 10 book ends where the PCTB book's culture chapter begins — society first (its features and its named evils: feudalism, the curse of dowry, child labour), then culture defined as a people's inherited way of life, province by province, with the minorities' role and Jinnah's 11 August 1947 speech as the closing civic ground.
 
 Searchable tags: culture — what culture is, Pakistan, social studies, culture-and-work
+
+Indonesia placements — Social Studies remaining strands (2026-11-17):
+
+**Book 35:** *Ilmu Pengetahuan Sosial untuk SMP/MTs Kelas VII (Edisi Revisi)* (student book, Bahasa Indonesia) — Title as printed: Ilmu Pengetahuan Sosial untuk SMP/MTs Kelas VII (Edisi Revisi). Grade: Grade 7 / SMP/MTs Kelas VII (student/teacher: STUDENT). Publisher: Kemendikbudristek, Jakarta; year 2023 (Edisi Revisi); ISBN 978-623-118-437-5 (jil. 1). PDF pages: 280 (cover verified: "ILMU PENGETAHUAN SOSIAL, Edisi Revisi — SMP/MTs KELAS VII", authors Muhammad Nursa'ban, Supardi; read via the links-file SIBI Rev URL, 9,815,328 B as recorded — this Rev edition is the one the target teacher guide accompanies; the target student record's older penerbitcmedia edition is superseded by it). Earlier waves: not read before (Geography/History/Economics waves read separate subject books, not this combined IPS volume). Verdict: COMPLETE (contents-first ss read: remaining-strand sections read fully — Tema I F, Tema II B, Tema III E, Tema IV A, B part 2 and D; Geography/History/Economics sections named below, not placed; glossary p. 233 inventory-only). Contents map: Integrated SS pp. 37–42 (social interaction), 146–160 (status and roles), 217–232 (communities); Culture-in-society pp. 166–177 (cultural diversity), 178–196 part 2 (social-cultural problems); Morals/Values pp. 76–89 (habituating environmental care); Geography pp. 4–36 (location, connectivity, climate, disasters), 62–75, 103–145 (resources, toponymy); History pp. 43–60 (history concepts), 178–196 part 1 (local history heroes); Economics pp. 30–36, 90–102, 126–145, 197–216 (Tema IV C "community empowerment" is in content money, income, saving, investment and financial literacy — Economics, named not placed). Tally: 10 placements — 1 to existing lessons, 9 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia part — culture-and-work/culture-what-culture-is — Tema IV A. Keragaman Sosial Budaya di Masyarakat — teaches: culture as a group's whole way of life — dress, marriage customs, livelihoods, religious ceremonies and its products (customary law books, traditional houses) — Indonesia Grade 7 IPS-G7 student, printed p. 166 | Indonesia, *Ilmu Pengetahuan Sosial untuk SMP/MTs Kelas VII (Edisi Revisi)* (student book), Tema IV A. Keragaman Sosial Budaya di Masyarakat — printed p. 166 |
+
+**Acceptance count: taught in 17 countries (Ethiopia, Mongolia, Bahamas, Colombia, Kuwait, Jordan, Bhutan, Tanzania, Eritrea, Syria, Bangladesh, Angola, Iran, El Salvador, Honduras, Pakistan, Indonesia).**
+
+Indonesia's own way (IPS-G7 student): junior IPS opens sociology before any state content — a child saying goodbye to parents and greeting friends is the first example of interaksi sosial, and status is taught through Sukarno and Hatta's assigned status as Fathers of the Proclamation.
+
+Registry note: this placement was filed against `culture-and-work/culture-what-culture-is`, a lesson named in the slug registry §5 as already standing; it is stocked into this canonical lesson, `culture-and-work/culture-what-culture-is`, exactly as the registry directs.
+
+Searchable tags: culture — what culture is, Indonesia, social studies, culture-and-work

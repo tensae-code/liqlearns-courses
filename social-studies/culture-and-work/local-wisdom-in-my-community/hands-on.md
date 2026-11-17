@@ -1,0 +1,9 @@
+# Hands-on — Local Wisdom in My Community
+
+The lesson with your hands and your feet, not only your eyes.
+
+## The book's topic
+Work through this lesson's topic with your hands: Bab 7 A. Kearifan Lokal di Masyarakat Sekitarku, Bab 7 B. Tradisi dan Budaya Masyarakat di Sekitarku, Bab IV Subbab 1: Jejak Budaya yang Penuh dengan Nilai Luhur, Bab IV Subbab 2: Ragam Kearifan Lokal, Bab IV Subbab 3: Keberagaman yang Menyatukan, Bab VII: Keragaman Budaya dan Kearifan Lokal, Bab 4 A. Jejak Budaya yang Sarat akan Nilai Luhur, Bab 4 B. Warna-Warni Kearifan Lokal, Bab 4 C. Keberagaman yang Menyatukan — teaches: local wisdom (kearifan lokal) around me — interviewing family, friends and teachers about customs handed down, and why they are kept; the traditions and culture of the community around me, including traditional dress (ageman songkok); guidance for cultural traces full of noble values — heritage still practised locally and the meaning and values inside that heritage; guidance for the variety of local wisdom in the home region and applying its values in daily life; guidance for diversity that unites — identifying local diversity and applying local-wisdom values inside it to keep national unity; essential material and guidance for local wisdom, traditions and attitudes to cultural diversity; cultural traces laden with noble values — the filosofi (philosophy of goodness, wisdom and care) inside inherited traditions; pupils interview ten teachers/staff on why each heritage is still kept; the colours of local wisdom — the variety of kearifan lokal and how local wisdom and culture form a region's identity; diversity that unites — Bhinneka Tunggal Ika as the answer to what holds Indonesia's cultures together, worked through cases on respecting accents, customs and prohibitions. Say each part out loud as you do it, from the lesson.
+
+## Indonesia's way
+Say how Indonesia's books teach this thing, in your own words, from the lesson.

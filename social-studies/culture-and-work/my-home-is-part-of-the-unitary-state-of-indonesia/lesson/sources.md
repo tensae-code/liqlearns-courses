@@ -1,0 +1,21 @@
+# Sources — My Home is Part of the Unitary State of Indonesia
+
+countries: Indonesia
+
+**Book 1:** *Pendidikan Pancasila untuk SD/MI Kelas III* (student book, Bahasa Indonesia) — Title as printed: Pendidikan Pancasila untuk SD/MI Kelas III. Grade: Grade 3 / SD/MI Kelas III (student/teacher: STUDENT). Publisher: Kemendikbudristek, Pusat Perbukuan, Jakarta; year 2023; ISBN 978-623-194-631-7 (jil. 3 PDF). PDF pages: 208 (cover verified: "PENDIDIKAN PANCASILA — SD/MI KELAS III", authors Ressi Kartika Dewi, Kamala Rahayu Candra Sary, Hani Hanifah; byte size matches GitHub mid-size-books release asset 8,674,899; grab.py tree 404 — read via recorded SIBI source_url). Earlier waves: not read before. Verdict: COMPLETE (glossary pp. 177–179 inventory-only, named not placed; per-chapter Evaluasi/Refleksi excluded as assessment apparatus). Contents map: Integrated SS pp. 1–44 (me, family, friends; my place inside the state); Civics/Citizenship pp. 45–86, 123–176 (school rules and agreements, rights and duties, Pancasila meanings and formulators); Morals/Values pp. 87–122 (difference is beautiful — ethnic and cultural wealth, language of unity). Tally: 11 placements — 2 to existing lessons, 9 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/indonesia-placements.md.
+
+**Book 2:** *Panduan Guru Pendidikan Pancasila untuk SD/MI Kelas III* (teacher guide, Bahasa Indonesia) — Title as printed: Panduan Guru Pendidikan Pancasila untuk SD/MI Kelas III. Grade: Grade 3 / SD/MI Kelas III (student/teacher: TEACHER). Publisher: Kemendikbudristek, Pusat Perbukuan, Jakarta; year 2023; ISBN 978-623-194-645-4 (jil. 3 PDF). PDF pages: 272 (cover verified: "Panduan Guru PENDIDIKAN PANCASILA — SD/MI KELAS III"; byte size matches GitHub mid-size-books release asset 7,996,792; read via recorded SIBI source_url). Earlier waves: not read before. Verdict: COMPLETE (guide for Book 3; each chapter adds Bahan Bacaan Guru teacher-reading material; assessment/answer-key apparatus named, not placed). Contents map: Panduan Umum pp. 1–22; Panduan Khusus pp. 23–254 mirroring Book 3's four chapters, with parent-interaction and teacher-reading sections per chapter. Tally: 4 placements — 0 to existing lessons, 4 NEW LESSON NEEDED (all TEACHER) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/indonesia-placements.md. Teacher guide — evidence only, outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — culture-and-work/my-home-is-part-of-the-unitary-state-of-indonesia — Bab 1 B. Tempat Tinggalku Bagian dari NKRI — teaches: the place where I live is part of the NKRI — home district inside province inside the one Indonesian state — Indonesia Grade 3 PP-G3 student, printed p. 20 | Indonesia, *Pendidikan Pancasila untuk SD/MI Kelas III* (student book), Bab 1 B. Tempat Tinggalku Bagian dari NKRI — printed p. 20 |
+| Sub lesson 1 — culture-and-work/my-home-is-part-of-the-unitary-state-of-indonesia — Panduan Khusus Bab 1: Aku Anak Indonesia — teaches: guidance and teacher reading for me/family/friends and my place as part of the NKRI — Indonesia Grade 3 PP-G3 teacher, printed p. 23 (TEACHER) | Indonesia, *Panduan Guru Pendidikan Pancasila untuk SD/MI Kelas III* (teacher guide), Panduan Khusus Bab 1: Aku Anak Indonesia — printed p. 23 (teacher guide — evidence) |
+| Sub lesson 2 — Indonesia's way — the books' own teaching way | Indonesia — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Indonesia).** Indonesia's teacher-guide parts in this lesson are teacher-guide evidence only, counted nowhere — Indonesia counts through its student-book parts.
+
+Indonesia's own way (Book 1): Grade 3 is the first book to name the state the child lives in — your own street is taught as part of the NKRI (Unitary State of the Republic of Indonesia), and rights are introduced paired, always, with duties.
+
+Indonesia's own way (Book 2): the guide gives teachers their own reading (Bahan Bacaan Guru) per chapter, so the civics content is taught to the teacher first, then to the class.
+
+Searchable tags: my home is part of the unitary state of indonesia, Indonesia, social studies, culture-and-work

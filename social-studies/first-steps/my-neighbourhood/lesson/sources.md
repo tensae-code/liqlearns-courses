@@ -1,6 +1,6 @@
 # Sources — My Neighbourhood
 
-countries: Iran, Serbia
+countries: Iran, Serbia, Indonesia
 
 **Book 1:** *مطالعات اجتماعی ـ چهارم دبستان (Social Studies, Fourth Grade of Primary School)* (student book, Persian) — Ministry of Education, Organization for Educational Research and Planning (سازمان پژوهش و برنامه‌ریزی آموزشی); printed by the Offset Company (شرکت افست); 13th printing, 1405; ISBN 978-964-05-2358-2; book code 407. Title as printed: مطالعات اجتماعی ـ چهارم دبستان (Social Studies, Fourth Grade of Primary School). Grade: 4 (student/teacher: STUDENT). PDF pages: 120 (printed pagination runs 8 behind the PDF pages: printed p. 2 = PDF p. 10; title page verified as above; read via the record's own GitHub blob URL through grab.py — the first grab was cut short by a download timeout and the file re-grabbed complete, its byte size verified by grab.py). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iran-placements.md.
 
@@ -38,3 +38,24 @@ Registry note: the original coined string `first-steps/getting-to-know-my-neighb
 Acceptance note: Iran was already counted in this lesson on an earlier wave's book; this merge adds the part above without changing the count.
 
 Searchable tags: my neighbourhood, Iran, social studies, first-steps
+
+Indonesia placements — Social Studies remaining strands (2026-11-17):
+
+**Book 3:** *Pendidikan Pancasila untuk SD/MI Kelas I* (student book, Bahasa Indonesia) — Title as printed: Pendidikan Pancasila untuk SD/MI Kelas I. Grade: Grade 1 / SD/MI Kelas I (student/teacher: STUDENT). Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Kemendikbudristek), Pusat Perbukuan, Jakarta; year 2023 (Cetakan Pertama); ISBN 978-623-194-615-7 (jil. 1); 978-623-194-614-0 (complete set). PDF pages: 200 (xii + 188 printed; cover verified: "PENDIDIKAN PANCASILA — SD/MI KELAS I", authors Canny Ilmiati, Etika Indah Febriani, Elisa Seftriyana; byte size 6,406,919 matching the GitHub mid-size-books release asset; grab.py tree returned 404 — file lives in Releases, read via the recorded official SIBI source_url). Earlier waves: not read before (Geography/History/Economics waves read separate Geografi/Sejarah/Ekonomi books). Verdict: COMPLETE. Contents map: Integrated SS pp. 121–166 (Bab 4 neighbourhood/school); Civics/Citizenship/Government pp. 75–118 (Bab 3 national symbols); Morals/Values pp. 1–74 (Bab 1–2 self, friends, play rules, family rules). Tally: 13 placements — 3 to existing lessons, 10 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/indonesia-placements.md.
+
+**Book 4:** *Pendidikan Pancasila untuk SD/MI Kelas IV* (student book, Bahasa Indonesia) — Title as printed: Pendidikan Pancasila untuk SD/MI Kelas IV. Grade: Grade 4 / SD/MI Kelas IV (student/teacher: STUDENT). Publisher: Kemendikbudristek, Pusat Perbukuan, Jakarta; year 2023; ISBN 978-623-194-650-8 (jil. 4 PDF). PDF pages: 176 (cover verified: "PENDIDIKAN PANCASILA — SD/MI KELAS IV", authors Dede Kurniawan, Dwi Nanta Priharto, Yusnawan Lubis; read via recorded SIBI source_url; grab.py tree 404 — file held in GitHub Releases). Earlier waves: not read before. Verdict: COMPLETE (glossary p. 139 inventory-only, named not placed). Contents map: Integrated SS pp. 1–34, 63–96 (neighbourhood identity, diversity, cooperation); Civics/Citizenship/Government pp. 16–21 (village/kelurahan apparatus), 35–62 (rules, rights and duties), 97–138 (Pancasila in society, its formulation history and formulators' character); Morals/Values throughout (discipline, unity). Tally: 15 placements — 3 to existing lessons, 12 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia part — first-steps/my-neighbourhood — Bab 4 A. Aku Mengenal Lingkungan Tempat Tinggalku — teaches: walking and naming the neighbourhood around home — school, river, trees and neighbours — Indonesia Grade 1 PP-G1 student, printed p. 121 | Indonesia, *Pendidikan Pancasila untuk SD/MI Kelas I* (student book), Bab 4 A. Aku Mengenal Lingkungan Tempat Tinggalku — printed p. 121 |
+| Indonesia part — first-steps/my-neighbourhood — Bab 1 D. Menjelajah Lingkungan Tempat Tinggalku — teaches: exploring the environment where I live, place by place — Indonesia Grade 4 PP-G4 student, printed p. 22 | Indonesia, *Pendidikan Pancasila untuk SD/MI Kelas IV* (student book), Bab 1 D. Menjelajah Lingkungan Tempat Tinggalku — printed p. 22 |
+
+**Acceptance count: taught in 3 countries (Iran, Serbia, Indonesia).**
+
+Indonesia's own way (PP-G1 student): Pancasila values are taught from the child's own body, friends and family outward — five recurring child characters from Papua, Bali, Jakarta, Sulawesi and Kalimantan carry every chapter, so national unity is shown as named children from different islands.
+
+Indonesia's own way (PP-G4 student): Grade 4 introduces the child's first government — the perangkat desa/kelurahan, the village and urban-ward officials — inside a book about the child's own street, before any national institution is named.
+
+Registry note: this placement was filed against `first-steps/my-neighbourhood`, a lesson named in the slug registry §5 as already standing; it is stocked into this canonical lesson, `first-steps/my-neighbourhood`, exactly as the registry directs.
+
+Searchable tags: my neighbourhood, Indonesia, social studies, first-steps
