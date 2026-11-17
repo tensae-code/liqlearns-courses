@@ -638,6 +638,36 @@ inside the play chapter, and a special-needs fitness
 course of very short one-idea lessons ending with
 شیرین‌کاری, entertaining trick skills.
 
+**PE expansion — North Macedonia — BUILT 2026-11-16:** 104 placements
+from North Macedonia's two student books — Physical and
+Health Education, Grade 9 (student book, Macedonian,
+COMPLETE) and Sport and Sports Activities, Gymnasium
+Year II / Grade 11 (student book, Macedonian, COMPLETE) —
+stocked: 95 into existing lessons (including canonical
+lessons built earlier in this expansion) and 9 as 7 new
+lessons (Cycling; Pilates; Athletics Competitions; The
+Rules of Football; Futsal; Basketball 3x3; Traditional
+Dances of Macedonia) — bringing this course to
+**170 lessons**. Both books are student books, filed as
+student-book stock, inside the acceptance counts. No
+North Macedonia placement resolves to a Health-course
+lesson through the PE slug registry, so none was excluded
+as Health-bound; the books' health teaching is embedded,
+not separate chapters, and is named in the book headers,
+not placed. North Macedonia's own way is content: one
+combined “Physical and Health Education” subject through
+primary school, whose Grade 9 year runs from
+body-development exercise complexes through athletics,
+apparatus gymnastics with rhythmics, Macedonian folk ora
+and modern dances and the four team games plus table
+tennis to a second half of optional topics agreed with
+parents; in gymnasium the subject is renamed “Sport and
+Sports Activities” and turns encyclopaedic — every sport
+taught as technique, tactics, full rules and its world
+and Macedonian history, with elective areas including a
+“Fitness and health” area with aerobics, gym fitness and
+Pilates.
+
 ## Unit 1 — Moving Basics
 
 1. **Combined Travelling and On-the-Spot Movements** (`moving-basics/combined-travelling-and-on-the-spot`) — joining travelling movements together, joining on-the-spot movements together, and chaining the two families in one sequence.
@@ -663,6 +693,8 @@ course of very short one-idea lessons ending with
 
 19. **Fundamental Movement Skills** (`moving-basics/fundamental-movement-skills`) — fundamental movement skills: locomotor, non-locomotor and manipulative skills — the basics every sport is built from — taught in Fiji's Year 3 Teachers Handbook as Body Movement: fundamental movement skills classified as body management, locomotor and object control, and in its Year 4 Teachers Handbook as Fundamental Motor Skills in the order children learn them (Fiji's teacher guides, evidence only).
 20. **Swimming Strokes** (`moving-basics/swimming-strokes`) — swimming strokes: front crawl (freestyle), backstroke, breaststroke and butterfly, with diving and turns — taught in Fiji's Year 4 Teachers Handbook as swimming in pools, rivers and creeks, and the freestyle, breaststroke, backstroke and butterfly strokes (Fiji's teacher guide, evidence only).
+
+21. **Cycling** (`moving-basics/cycling`) — cycling: road and off-road cycling — the bicycle, where to ride and how to ride — taught in North Macedonia's Grade 9 book as cycling: road cycling on asphalt (the Tour de France and Giro d'Italia named) and off-road cycling in nature, hills, mountains, parks and forests, as transport and recreation (North Macedonia's student book).
 
 ## Unit 2 — Fitness and Stretching
 
@@ -691,6 +723,8 @@ course of very short one-idea lessons ending with
 
 21. **Skill-Related Fitness** (`fitness-and-stretching/skill-related-fitness`) — skill-related fitness: coordination and the fitness skills — doing movements together smoothly, trained through coordination games — taught in Iran's special-needs Year 1 fitness book as its Coordination lesson (Iran's student book).
 22. **Sport for Older People** (`fitness-and-stretching/sport-for-older-people`) — sport for older people: which sports suit older people and how to take part safely — taught in Iran's Grade 11 Health and Lifestyle with Sport book as Sport for the elderly: kinds of older people and which sports suit each, safely (Iran's student book).
+
+23. **Pilates** (`fitness-and-stretching/pilates`) — Pilates: controlled, precise, coordinated movement with correct breathing — taught in North Macedonia's Grade 11 book as Pilates: Joseph Pilates' system of some 50 repeatable exercises, on the mat with body weight or on the reformer, built on breathing, cervical alignment, stabilisation of the ribs and shoulders, pelvic mobility and activating the deep transversus abdominis (North Macedonia's student book).
 
 ## Unit 3 — Gymnastics
 
@@ -722,6 +756,8 @@ course of very short one-idea lessons ending with
 9. **Freestyle Wrestling** (`athletics/wrestling-freestyle`) — freestyle wrestling: holds, throws and scoring — taught in Iran's boys' Grade 10 book as freestyle wrestling techniques, Iran's flagship sport (Iran's student book).
 10. **Greco-Roman Wrestling** (`athletics/wrestling-greco-roman`) — Greco-Roman wrestling: upper-body holds and throws — taught in Iran's boys' Grade 10 book as Greco-Roman wrestling techniques (Iran's student book).
 
+11. **Athletics Competitions** (`athletics/athletics-competitions`) — athletics competitions: the stadium, the events programme, and putting your skills together in individual competition — taught in North Macedonia's Grade 11 book as athletics competitions: the 400 m stadium and the full programme of track races, hurdles, steeplechase, relays, race walking, jumps, throws, decathlon and heptathlon (North Macedonia's student book).
+
 ## Unit 5 — Ball Games
 
 1. **Ball Handling on the Spot** (`ball-games/ball-handling-on-the-spot`) — passing, throwing, catching and bouncing a ball without travelling — the on-the-spot ball skills.
@@ -752,6 +788,12 @@ course of very short one-idea lessons ending with
 23. **The Rules of Badminton** (`ball-games/the-rules-of-badminton`) — the rules of badminton: court, equipment, scoring and how a match is played — taught in Fiji's Year 8 Teachers Guide as badminton skills and rules, including doubles play and service courts (Fiji's teacher guide, evidence only).
 
 24. **Table Tennis Coaching, Refereeing and Tactics** (`ball-games/table-tennis-coaching-refereeing-and-tactics`) — table tennis beyond playing: coaching points, refereeing, tactics, doubles and scoring — taught in Iran's Grade 10 Agility–Mental Skills book as coaching, refereeing and tactics, and in its special-needs Year 2 teacher's guide as spin, push, chop, doubles and scoring (Iran's student book; its teacher guide, evidence only).
+
+25. **The Rules of Football** (`ball-games/the-rules-of-football`) — the rules of football and futsal: the pitch, the laws of the game and how a match runs — taught in North Macedonia's Grade 9 book as the rule that only the goalkeeper may handle the ball, and in its Grade 11 book as the pitch, the team of eleven, substitutions and the two halves of 45 minutes (North Macedonia's student books).
+
+26. **Futsal** (`ball-games/the-rules-of-futsal`) — futsal: the indoor five-a-side game — its court, story and rules — taught in North Macedonia's Grade 11 book as futsal: the court of 25–42 × 16–25 m, universal players and the pivot, two halves of 20 minutes with the clock stopped, and accumulated fouls leading to 10 m penalties (North Macedonia's student book).
+
+27. **Basketball 3x3** (`ball-games/basketball-3x3`) — basketball 3x3: the half-court three-on-three game and its rules — taught in North Macedonia's Grade 11 book as basketball 3x3: one hoop, teams of three plus one substitute, the check-ball start, the 12-second shot clock, and a game of 10 minutes or first to 21 (North Macedonia's student book).
 
 ## Unit 6 — Games to Play
 
@@ -817,6 +859,8 @@ course of very short one-idea lessons ending with
 40. **Dances from Around the World** (`traditional-games-and-dances/dances-from-around-the-world`) — dances of other peoples, such as Ceroc and Flamenco — taught in Fiji's Year 8 Teachers Guide as Ceroc (simplified jive) and Flamenco from Andalucia, Spain, with swirling skirts, castanets and heel stomping (Fiji's teacher guide, evidence only).
 
 41. **Traditional Games of Iran** (`traditional-games-and-dances/traditional-games-of-iran`) — traditional games of Iran: Iran's native and local games, their rules, and planning and running them — taught in Iran's Grade 10 theory book (old Iranian games named as heritage: bazi-ye vasati, gorgam-be-hava, haft-sang), its Grade 11 book (a catalogue of Iran's regional games) and its Grade 12 book (planning traditional games and sports as programmes) (Iran's student books).
+
+42. **Traditional Dances of Macedonia** (`traditional-games-and-dances/traditional-dances-of-macedonia`) — traditional dances of Macedonia: the Macedonian folk dances (ora) — holding hands, chains and steps, danced at feasts and weddings — taught in North Macedonia's Grade 9 book as three ora of the class's choice (Lesnoto, Teškoto, Kalajdžisko, Nevestinsko, Tresenica, Egejsko among them) and in its Grade 11 book as the oro as cultural heritage, in open or closed chains moving to the right, to gajda, tapan, zurla and kaval (North Macedonia's student books).
 
 ## Unit 8 — Sport and Its Story
 

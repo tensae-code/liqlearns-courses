@@ -1,8 +1,8 @@
 # Sources — Swimming Strokes
 
-countries: Fiji, Mauritius, Iran
+countries: Fiji, Mauritius, Iran, North Macedonia
 
-**Acceptance count: taught in 2 countries (Mauritius, Iran).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Fiji is added as teacher-guide evidence only, named in the countries line but outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count.
+**Acceptance count: taught in 3 countries (Mauritius, Iran, North Macedonia).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Fiji is added as teacher-guide evidence only, named in the countries line but outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count.
 
 ## Fiji — PE expansion 2026-11-16
 
@@ -82,3 +82,25 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/iran-pe-plac
 | Iran — Module 4, Unit 2 "Back crawl" — backstroke progression (original target `athletics/swimming-backstroke`) | Iran, *Developing Physical and Motor Skills, boys' edition, Grade 10 (C210300)*, Module 4, Unit 2 "Back crawl", printed p. 197 |
 
 Iran's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Iran's own way is content, as the book lines above record it: PE taught as a profession with a knowledge base — a Grade 10 theory book before any workshop book, workshop books of competency units with continuous and final assessment, team games taught as full coaching units with kabaddi standing as a full module beside them, and a special-needs fitness course of very short lessons with one idea each. Book 3, the girls' edition of Book 2, shares its fitness, athletics and swimming modules with Book 2; those shared modules are placed once under Book 2, with the girls' edition named there in substance, as filed. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## North Macedonia — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/north-macedonia-pe-placements.md. The North Macedonia book stocked in this lesson is Book 1 — student book, read in full from verified copies, as filed. North Macedonia is student-book stock, inside the acceptance count, in this lesson. The books' health teaching is embedded, not separate chapters, and is named in the book headers below, not placed in this lesson.
+
+**Book — North Macedonia Grade 9 HPE (student book):**
+## Book 1 — Physical and Health Education, Grade 9 (student book, Macedonian)
+- Title as printed: Физичко и здравствено образование за IX одделение (во деветгодишно основно образование) — Physical and Health Education for Grade 9
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Authors: Марјан Карапанџевски (Marjan Karapandževski), Лидија Белческа-Карапанџевска (Lidija Belčeska-Karapandževska)
+- Publisher: Ministry of Education and Science of the Republic of North Macedonia, Skopje; approved for use by ministerial decision 22-2316/1 of 21.04.2010; printed 2014, reprint 2020; no ISBN printed (CIP 373.3.016:796(075.2)=163.3)
+- PDF pages: 110 (cover verified against the record title; read in full from the secured copy, 7,049,958 bytes)
+- Verdict: COMPLETE — all ten parts present to the last teaching page (printed p. 109, ice skating); printed p. 110 is blank
+- Tally: 42 placements — 30 to existing lessons, 12 NEW LESSON NEEDED
+- North Macedonia's own way: one combined "Physical and Health Education" subject through primary school; the Grade 9 year runs body-development exercise complexes → athletics → apparatus gymnastics with rhythmics → Macedonian folk ora and modern dances → the four team games plus table tennis, then a whole second half of optional topics agreed with parents (swimming, skiing, excursions, mountaineering, cycling, roller and ice skating).
+- Named in the header, not placed (this record feeds the PE course only): the health teaching is embedded, not separate chapters — the foreword's health aims (protection of health, harmonious development, no bodily deformities), the outcomes list's hygiene habits, and the injury-prevention rationale given for the warm-up complexes (printed pp. 6, 8, 11). The "Positive achievements" outcomes list (printed pp. 8–9) is an outcomes/assessment list, named only. The books' own end-of-part Questions and Activities boxes ride inside their chapters and are not separate Revision lessons.
+
+| Lesson part | Where it comes from |
+|---|---|
+| North Macedonia — Swimming — the four strokes taught one by one: crawl (freestyle, the fastest, with alternating arms and side breathing), breaststroke, backstroke (the only start from the water) and butterfly (delfin, the hardest), plus learning exercises for breaststroke with floats and the teacher's help (original target `moving-basics/swimming-strokes-and-water-skills`) | North Macedonia Grade 9 HPE, printed pp. 93–97 |
+
+North Macedonia's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. North Macedonia's own way is content, as the book lines above record it: one combined “Physical and Health Education” subject through primary school; the Grade 9 year runs body-development exercise complexes → athletics → apparatus gymnastics with rhythmics → Macedonian folk ora and modern dances → the four team games plus table tennis, then a whole second half of optional topics agreed with parents (swimming, skiing, excursions, mountaineering, cycling, roller and ice skating). Game and sport rules are taught only as the placements summarise them; no rules have been invented.

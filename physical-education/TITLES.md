@@ -261,3 +261,15 @@ Trick Skills** (`games-to-play/fun-trick-skills`),
 and **Traditional Games of Iran**
 (`traditional-games-and-dances/traditional-games-of-iran`)
 — 8 new lessons, bringing this course to 163 lessons.
+
+The PE expansion then added: **Cycling**
+(`moving-basics/cycling`), **Pilates**
+(`fitness-and-stretching/pilates`), **Athletics
+Competitions** (`athletics/athletics-competitions`),
+**The Rules of Football**
+(`ball-games/the-rules-of-football`), **Futsal**
+(`ball-games/the-rules-of-futsal`), **Basketball 3x3**
+(`ball-games/basketball-3x3`) and **Traditional Dances
+of Macedonia**
+(`traditional-games-and-dances/traditional-dances-of-macedonia`)
+— 7 new lessons, bringing this course to 170 lessons.
