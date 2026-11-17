@@ -1,6 +1,6 @@
 # Sources — Dribbling, Shooting and the Jump Throw
 
-countries: Ethiopia, China, Philippines, Maldives, Belize, Honduras, Mauritius
+countries: Ethiopia, China, Philippines, Maldives, Belize, Honduras, Mauritius, Iran
 
 **Book — Grade 5 student:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 106 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md. COMPLETE.
 
@@ -32,7 +32,7 @@ countries: Ethiopia, China, Philippines, Maldives, Belize, Honduras, Mauritius
 | Handball — the dive throw, goalkeeping and passing — Grades 8–10 | Ethiopia, Grade 10 student §7.2 Goalkeeping, printed pp. 116–120 |
 | Handball — the dive throw, goalkeeping and passing — Grades 8–10 | Ethiopia, Grade 9 teacher Unit 7 goalkeeping (teacher guide — evidence), printed pp. 95–100 |
 | Handball — the dive throw, goalkeeping and passing — Grades 8–10 | Ethiopia, Grade 10 teacher Unit 7 advanced goalkeeping (teacher guide — evidence), printed pp. 79–80 |
-**Acceptance count: taught in 5 countries (Ethiopia, China, Philippines, Honduras, Mauritius).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. China is added as student-book stock (see its rows below), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count; the Mauritius teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
+**Acceptance count: taught in 6 countries (Ethiopia, China, Philippines, Honduras, Mauritius, Iran).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. China is added as student-book stock (see its rows below), inside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count; the Mauritius teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count.
 
 The Grade 5 and Grade 6 teacher guides' ball-games chapters are in the truncated missing ranges of those scans (G5T Chapter 6, pp. 57–77; G6T Chapter 6, pp. 65–82), so this lesson rests on the complete student books only; no teacher-guide pages are claimed for it.
 
@@ -242,3 +242,23 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/honduras-pe-
 | Honduras — Bloque III Secuencia 1 — one-handed basketball shots: the hook shot (gancho) and the layup (bandeja), and a shooter's three essentials — physical condition, technique and disposition (original target `ball-games/dribbling-shooting-and-the-jump-throw`) | Honduras Grade 8 HN G8 teacher guide, printed p. 137 |
 
 Honduras's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Honduras's own way is content, as the book lines above record it: a television-school (Telebásica) programme built in 4 blocks — body image/expression, fitness for health, games and sport initiation, activities in nature — with Honduran folk dance, traditional games and Garífuna dances as core content, and every block closing in a "Valorando lo que aprendo" self-check sequence (named in the book lines, not placed, per the assessment exclusion). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Iran — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/iran-pe-placements.md. Iran's books stocked in this lesson are official ministry (chap.sch.ir) books for the technical-vocational Physical Education field (رشته تربیت بدنی), in Persian, read as filed in the placements file. Iran is student-book stock, inside the acceptance count, in this lesson. Books 10 and 14 of the placements file are record-only — other subjects entirely (Use of New Technologies, C211136; Biology, C210156) — with 0 placements, and nothing is stocked from them; the Health parts of the Iran books (the Student Companion's safety, health and ergonomics chapter, the sports-nutrition modules, the injury-prevention module and the special-needs book's safety lesson) are cross-filed in iran-health-placements.md and placed in the Health course, not here.
+
+**Book — Iran Grade 11 Group Skills (C211306) (student book):**
+## Book 6 — Developing Group Skills, Grade 11 (C211306) (student book, Persian)
+- Title as printed: توسعه مهارت های گروهی (Developing Group Skills) — رشته تربیت بدنی، گروه بهداشت و سلامت، شاخه فنی و حرفه‌ای
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, OERP, Tehran; 1405-1406 edition; ISBN printed on the title page (digits not reliably extractable from the PDF text layer)
+- PDF pages: 424 (cover verified against the record title; byte size 16,968,711 B, exactly the recorded size)
+- Verdict: COMPLETE
+- Tally: 14 placements — 12 to existing lessons, 2 NEW LESSON NEEDED
+- Iran's own way: team games are taught as full coaching units — technique first, then tactics and systems — and kabaddi, a traditional Asian raiding game, stands as a full module beside volleyball, handball, futsal/football and basketball; futsal and football are offered as an either/or elective module.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran — Module 2, Unit 1 "Handball technique" — dribbling, shooting and the jump throw (original target `ball-games/dribbling-shooting-and-the-jump-throw`) | Iran, *Developing Group Skills, Grade 11 (C211306)*, Module 2, Unit 1 "Handball technique", printed p. 86 |
+
+Iran's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Iran's own way is content, as the book lines above record it: PE taught as a profession with a knowledge base — a Grade 10 theory book before any workshop book, workshop books of competency units with continuous and final assessment, team games taught as full coaching units with kabaddi standing as a full module beside them, and a special-needs fitness course of very short lessons with one idea each. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

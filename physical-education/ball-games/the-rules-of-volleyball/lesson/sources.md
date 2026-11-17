@@ -1,6 +1,6 @@
 # Sources — The Rules of Volleyball
 
-countries: Ethiopia, Timor-Leste, Pakistan, Afghanistan, China, Azerbaijan, Fiji, Mauritius
+countries: Ethiopia, Timor-Leste, Pakistan, Afghanistan, China, Azerbaijan, Fiji, Mauritius, Iran
 
 **Book — Grade 9 student:** *Health and Physical Education Student's Textbook Grade 9* (student textbook, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, First Published August 2023, ISBN 978-99990-0-072-7, 156 printed pp. Printed page = PDF page − 10. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g09-student-placements.md. COMPLETE.
 **Book — Grade 9 teacher (teacher guide — evidence):** *Health and Physical Education — Teacher Guide, Grade 9* (teacher guide, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, © 2022, printed pp. I–IX + 1–116. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g09-teacher-placements.md. COMPLETE.
@@ -15,7 +15,7 @@ countries: Ethiopia, Timor-Leste, Pakistan, Afghanistan, China, Azerbaijan, Fiji
 | Facilities, equipment and the referees (teacher guide — evidence) | Ethiopia, Grade 9 teacher Unit 5, Rules of volleyball (teacher guide — evidence), printed pp. 63–64 |
 
 | Timor-Leste — Appendix 4: Volleyball — the game's rules and mini-games (teacher guide — evidence) (original target `ball-games/the-rules-of-volleyball`) | Timor-Leste, *Educação Física 7, Guia do Professor* (Timor-Leste Grade 7 Teacher Guide), printed pp. 157–230 (Appendix 4) |
-**Acceptance count: taught in 5 countries (Ethiopia, Pakistan, China, Azerbaijan, Mauritius).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Timor-Leste is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count.
+**Acceptance count: taught in 6 countries (Ethiopia, Pakistan, China, Azerbaijan, Mauritius, Iran).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Timor-Leste is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count.
 
 The Grade 9 books are the English federal 2023 GEQIP-E series; Grade 9 target terms are given as the books print them, in English. The Grade 9 teacher guide is COMPLETE.
 
@@ -210,3 +210,23 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/fiji-pe-plac
 | Fiji — Chapter 3: Sports — volleyball among the taught sports (teacher guide — evidence) (original target `ball-games/the-rules-of-volleyball`) | Fiji Year 4 PE for Fun Teachers Handbook, printed p. 51 (Chapter 3) |
 
 Fiji's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Fiji's own way is content, as the book lines above record it: a *PE is Fun* series built on strands and KLA outcomes, moving from movement science to training, sports nutrition and tournament organisation, with Fiji Sevens rugby and the Skipper Cup as worked examples, named Fijian traditional games (Veibuka, Veisole, Veicibi, Veitiqa and more) and the games of Fiji's Indian community taught side by side, and swimming taught as a Fiji survival skill. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Iran — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/iran-pe-placements.md. Iran's books stocked in this lesson are official ministry (chap.sch.ir) books for the technical-vocational Physical Education field (رشته تربیت بدنی), in Persian, read as filed in the placements file. Iran is student-book stock, inside the acceptance count, in this lesson. Books 10 and 14 of the placements file are record-only — other subjects entirely (Use of New Technologies, C211136; Biology, C210156) — with 0 placements, and nothing is stocked from them; the Health parts of the Iran books (the Student Companion's safety, health and ergonomics chapter, the sports-nutrition modules, the injury-prevention module and the special-needs book's safety lesson) are cross-filed in iran-health-placements.md and placed in the Health course, not here.
+
+**Book — Iran Grade 11 Group Skills (C211306) (student book):**
+## Book 6 — Developing Group Skills, Grade 11 (C211306) (student book, Persian)
+- Title as printed: توسعه مهارت های گروهی (Developing Group Skills) — رشته تربیت بدنی، گروه بهداشت و سلامت، شاخه فنی و حرفه‌ای
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, OERP, Tehran; 1405-1406 edition; ISBN printed on the title page (digits not reliably extractable from the PDF text layer)
+- PDF pages: 424 (cover verified against the record title; byte size 16,968,711 B, exactly the recorded size)
+- Verdict: COMPLETE
+- Tally: 14 placements — 12 to existing lessons, 2 NEW LESSON NEEDED
+- Iran's own way: team games are taught as full coaching units — technique first, then tactics and systems — and kabaddi, a traditional Asian raiding game, stands as a full module beside volleyball, handball, futsal/football and basketball; futsal and football are offered as an either/or elective module.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran — Module 1, Unit 1 "Volleyball techniques" — court, rotation and rules taught with the techniques (original target `ball-games/the-rules-of-volleyball`) | Iran, *Developing Group Skills, Grade 11 (C211306)*, Module 1, Unit 1 "Volleyball techniques", printed p. 2 |
+
+Iran's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Iran's own way is content, as the book lines above record it: PE taught as a profession with a knowledge base — a Grade 10 theory book before any workshop book, workshop books of competency units with continuous and final assessment, team games taught as full coaching units with kabaddi standing as a full module beside them, and a special-needs fitness course of very short lessons with one idea each. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

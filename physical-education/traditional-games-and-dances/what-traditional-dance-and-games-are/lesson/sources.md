@@ -1,6 +1,6 @@
 # Sources — What Traditional Dance and Games Are
 
-countries: Ethiopia, Mozambique, Nicaragua, Honduras
+countries: Ethiopia, Mozambique, Nicaragua, Honduras, Iran
 
 **Book 1:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–106 + front matter (114 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md.
 
@@ -18,7 +18,7 @@ countries: Ethiopia, Mozambique, Nicaragua, Honduras
 | Prove-it questions folded from the book's own chapter summary exercises — Sub lesson 2 | Ethiopia, *Grade 7 Student Textbook*, chapter summary exercises, printed p. 95 |
 | Mozambique — 1.ª parte, Jogos tradicionais — what makes a game traditional: known rules and limits handed down from generation to generation (teacher guide — evidence) (original target `traditional-games-and-dances/what-traditional-dance-and-games-are`) | Mozambique, *Grade 1 Teacher Manual (Educação Física)*, 1.ª parte, Jogos tradicionais, printed p. 197 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Honduras).** Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
+**Acceptance count: taught in 3 countries (Ethiopia, Honduras, Iran).** Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count.
 
 The Grade 5 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -123,3 +123,37 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/honduras-pe-
 | Honduras — Bloque I Secuencia 3 (material adicional) — the elements of a folk-dance performance: initial position (body upright, feet slightly apart), how the couples are placed, costume and music (original target `traditional-games-and-dances/what-traditional-dance-and-games-are`) | Honduras Grade 8 HN G8 teacher guide, printed p. 53 |
 
 Honduras's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Honduras's own way is content, as the book lines above record it: a television-school (Telebásica) programme built in 4 blocks — body image/expression, fitness for health, games and sport initiation, activities in nature — with Honduran folk dance, traditional games and Garífuna dances as core content, and every block closing in a "Valorando lo que aprendo" self-check sequence (named in the book lines, not placed, per the assessment exclusion). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Iran — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/iran-pe-placements.md. Iran's books stocked in this lesson are official ministry (chap.sch.ir) books for the technical-vocational Physical Education field (رشته تربیت بدنی), in Persian, read as filed in the placements file. Iran is student-book stock, inside the acceptance count, in this lesson. Books 10 and 14 of the placements file are record-only — other subjects entirely (Use of New Technologies, C211136; Biology, C210156) — with 0 placements, and nothing is stocked from them; the Health parts of the Iran books (the Student Companion's safety, health and ergonomics chapter, the sports-nutrition modules, the injury-prevention module and the special-needs book's safety lesson) are cross-filed in iran-health-placements.md and placed in the Health course, not here.
+
+**Book — Iran Grade 12 Health and Lifestyle with Sport (C212300) (student book):**
+## Book 8 — Developing Health and Lifestyle with Sport, Grade 12 (C212300) (student book, Persian)
+- Title as printed: توسعه سلامت و سبک زندگی با ورزش (Developing Health and Lifestyle with Sport) — رشته تربیت بدنی، گروه بهداشت و سلامت، شاخه فنی و حرفه‌ای
+- Grade: 12 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, OERP, Tehran; 1405-1406 edition; ISBN printed on the title page (digits not reliably extractable from the PDF text layer)
+- PDF pages: 200 (cover verified against the record title; byte size 7,323,458 B, matching the recorded size)
+- Verdict: COMPLETE. Health parts (Module 3 sports nutrition; Module 4 exercise for health levels) are cross-filed in iran-health-placements.md.
+- Tally: 5 placements — 1 to an existing lesson, 4 NEW LESSON NEEDED (1 reuses the NEW sport-psychology slug first filed for Book 1)
+- Iran's own way: the capstone workshop book is about planning, not playing: pupils learn to programme traditional games, sport for people at different health levels including disability, and sport in indoor and outdoor spaces.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran — Module 1 "Planning traditional games and sports" — what traditional games are and how they are organised (original target `traditional-games-and-dances/what-traditional-dance-and-games-are`) | Iran, *Developing Health and Lifestyle with Sport, Grade 12 (C212300)*, Module 1 "Planning traditional games and sports", printed p. 1 |
+
+**Book — Iran Grade 11 Health and Lifestyle with Sport (C211304) (student book):**
+## Book 11 — Developing Health and Lifestyle with Sport, Grade 11 (C211304) (student book, Persian)
+- Title as printed: توسعه سلامت و سبک زندگی با ورزش (Developing Health and Lifestyle with Sport) — رشته تربیت بدنی، گروه بهداشت و سلامت، شاخه فنی و حرفه‌ای
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, OERP, Tehran; 1405-1406 edition; ISBN printed on the title page (digits not reliably extractable from the PDF text layer)
+- PDF pages: 288 (cover verified against the record title; byte size 10,261,358 B, exactly the recorded size)
+- Verdict: COMPLETE. Module 3 (sports nutrition) is cross-filed in iran-health-placements.md as HELD.
+- Tally: 10 placements — 1 to an existing lesson, 9 NEW LESSON NEEDED (2 reuse NEW slugs first filed for Books 1 and 8)
+- Iran's own way: the Grade 11 year of this course is organised around people and places: Iran's own native and local games are catalogued as content, then sport for the elderly, sport for children, and the drawing, equipping and care of sports spaces.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran — Module 1, Unit 1 "Concepts: native-local games and traditional sports" — what native/local games and traditional sports are (original target `traditional-games-and-dances/what-traditional-dance-and-games-are`) | Iran, *Developing Health and Lifestyle with Sport, Grade 11 (C211304)*, Module 1, Unit 1 "Concepts: native-local games and traditional sports", printed p. 2 |
+
+Iran's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Iran's own way is content, as the book lines above record it: PE taught as a profession with a knowledge base — a Grade 10 theory book before any workshop book, workshop books of competency units with continuous and final assessment, team games taught as full coaching units with kabaddi standing as a full module beside them, and a special-needs fitness course of very short lessons with one idea each. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

@@ -1,8 +1,8 @@
 # Sources — Badminton Techniques
 
-countries: China, Azerbaijan, Mauritius
+countries: China, Azerbaijan, Mauritius, Iran
 
-**Acceptance count: taught in 3 countries (China, Azerbaijan, Mauritius).** China is student-book stock (see its rows below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count.
+**Acceptance count: taught in 4 countries (China, Azerbaijan, Mauritius, Iran).** China is student-book stock (see its rows below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count.
 
 ## China — PE expansion 2026-11-16
 
@@ -81,3 +81,24 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/mauritius-pe
 Mauritius's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Mauritius's own way is content, as the book lines above record it: Book 3: eight practical units (one sport each, taught skill-by-skill with “Let's do it” drills and challenges) plus a Theory section (fitness, major sporting events, the muscular system, drugs) — a school must do at least one sport from each of the three themes: Alternative Activities, Net/Ball Activities, Outdoor and Athletics Activities; Book 5: theory and practical units alternate — body systems and health first, then one sport per unit at greater depth (football volleys and goalkeeping, basketball defence and the pick-and-roll, swimming starts and tumble turns, athletics from baton exchange to cross country over Mauritian sugarcane-field courses). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: badminton techniques, badminton, 羽毛球, China Senior High PEP PE & Health
+
+## Iran — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/iran-pe-placements.md. Iran's books stocked in this lesson are official ministry (chap.sch.ir) books for the technical-vocational Physical Education field (رشته تربیت بدنی), in Persian, read as filed in the placements file. Iran is student-book stock, inside the acceptance count, in this lesson. Books 10 and 14 of the placements file are record-only — other subjects entirely (Use of New Technologies, C211136; Biology, C210156) — with 0 placements, and nothing is stocked from them; the Health parts of the Iran books (the Student Companion's safety, health and ergonomics chapter, the sports-nutrition modules, the injury-prevention module and the special-needs book's safety lesson) are cross-filed in iran-health-placements.md and placed in the Health course, not here.
+
+**Book — Iran Grade 10 Agility-Mental Skills (C210302) (student book):**
+## Book 4 — Developing Agility–Mental Skills, Grade 10 (C210302) (student book, Persian)
+- Title as printed: توسعه مهارت های چابکی ـ ذهنی (Developing Agility–Mental Skills) — رشته تربیت بدنی، گروه بهداشت و سلامت، شاخه فنی و حرفه‌ای
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, OERP, Tehran; 1405-1406 edition (2nd printing); ISBN printed on the title page (digits not reliably extractable from the PDF text layer)
+- PDF pages: 296 (cover verified against the record title; byte size 12,350,810 B, exactly the recorded size)
+- Verdict: COMPLETE
+- Tally: 10 placements — 2 to existing lessons, 8 NEW LESSON NEEDED
+- Iran's own way: "agility–mental" is taught through precision sports — tennis, rope skipping, chess, table tennis and badminton — chosen to train speed, accuracy, attention, concentration and quick decisions; every module also teaches the sport's history and equipment before technique.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran — Module 5, Unit 1 "Badminton basic skills" — grip, stance, clear and drop basics (original target `ball-games/badminton-basic-skills`) | Iran, *Developing Agility–Mental Skills, Grade 10 (C210302)*, Module 5, Unit 1 "Badminton basic skills", printed p. 230 |
+| Iran — Module 5, Unit 2 "Playing the strokes" — the full badminton stroke set in rallies (original target `ball-games/badminton-strokes`) | Iran, *Developing Agility–Mental Skills, Grade 10 (C210302)*, Module 5, Unit 2 "Playing the strokes", printed p. 251 |
+
+Iran's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Iran's own way is content, as the book lines above record it: PE taught as a profession with a knowledge base — a Grade 10 theory book before any workshop book, workshop books of competency units with continuous and final assessment, team games taught as full coaching units with kabaddi standing as a full module beside them, and a special-needs fitness course of very short lessons with one idea each. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

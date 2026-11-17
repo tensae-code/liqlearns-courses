@@ -1,8 +1,8 @@
 # Sources — Organising Competitions and Events
 
-countries: Pakistan, Fiji, Mauritius
+countries: Pakistan, Fiji, Mauritius, Iran
 
-**Acceptance count: taught in 2 countries (Pakistan, Fiji).** Pakistan is student-book stock (see its rows below), inside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count. Mauritius is added as teacher-guide evidence only (see its Mauritius section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 3 countries (Pakistan, Fiji, Iran).** Pakistan is student-book stock (see its rows below), inside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count. Mauritius is added as teacher-guide evidence only (see its Mauritius section below), named in the countries line but outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count.
 
 ## Pakistan — PE expansion 2026-11-16
 
@@ -66,3 +66,23 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/fiji-pe-plac
 | Fiji — Physical Activity: Tournaments — single elimination, round robin, extended, ladder and pyramid tournaments, seeding and byes (Fiji Sevens and Skipper Cup examples), and how to organise a tournament (original target `sport-and-its-story/organising-tournaments-and-draws`) | Fiji Year 11 PE is Fun, printed pp. 69–84 |
 
 Fiji's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Fiji's own way is content, as the book lines above record it: a *PE is Fun* series built on strands and KLA outcomes, moving from movement science to training, sports nutrition and tournament organisation, with Fiji Sevens rugby and the Skipper Cup as worked examples, named Fijian traditional games (Veibuka, Veisole, Veicibi, Veitiqa and more) and the games of Fiji's Indian community taught side by side, and swimming taught as a Fiji survival skill. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Iran — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/iran-pe-placements.md. Iran's books stocked in this lesson are official ministry (chap.sch.ir) books for the technical-vocational Physical Education field (رشته تربیت بدنی), in Persian, read as filed in the placements file. Iran is student-book stock, inside the acceptance count, in this lesson. Books 10 and 14 of the placements file are record-only — other subjects entirely (Use of New Technologies, C211136; Biology, C210156) — with 0 placements, and nothing is stocked from them; the Health parts of the Iran books (the Student Companion's safety, health and ergonomics chapter, the sports-nutrition modules, the injury-prevention module and the special-needs book's safety lesson) are cross-filed in iran-health-placements.md and placed in the Health course, not here.
+
+**Book — Iran Grade 12 Supplementary-Corrective Operations (C212302) (student book):**
+## Book 9 — Supplementary–Corrective Operations of Sports, Grade 12 (C212302) (student book, Persian)
+- Title as printed: عملیات تکمیلی ـ اصلاحی ورزش ها (Supplementary–Corrective Operations of Sports) — رشته تربیت بدنی، گروه بهداشت و سلامت، شاخه فنی و حرفه‌ای
+- Grade: 12 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, OERP, Tehran; 1405-1406 edition; ISBN printed on the title page (digits not reliably extractable from the PDF text layer)
+- PDF pages: 220 (cover verified against the record title; byte size 6,954,556 B, exactly the recorded size)
+- Verdict: COMPLETE. Module 2 "Preventing sports injuries" (printed pp. 31–82) is Health content and is cross-filed in iran-health-placements.md.
+- Tally: 4 placements — 2 to existing lessons, 2 NEW LESSON NEEDED (plus 1 Health placement cross-filed)
+- Iran's own way: a practitioner's operations book — plan the training, run the competition table, measure the body (پیکرسنجی anthropometry), and build the body with modern methods.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran — Module 3 "Sports competition tables" — drawing up league and knockout tables and fixtures (original target `sport-and-its-story/competition-fixtures-and-tournament-tables`) | Iran, *Supplementary–Corrective Operations of Sports, Grade 12 (C212302)*, Module 3 "Sports competition tables", printed p. 83 |
+
+Iran's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Iran's own way is content, as the book lines above record it: PE taught as a profession with a knowledge base — a Grade 10 theory book before any workshop book, workshop books of competency units with continuous and final assessment, team games taught as full coaching units with kabaddi standing as a full module beside them, and a special-needs fitness course of very short lessons with one idea each. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

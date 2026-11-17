@@ -1,8 +1,8 @@
 # Sources — Adapted Physical Education
 
-countries: Afghanistan, Azerbaijan
+countries: Afghanistan, Azerbaijan, Iran
 
-**Acceptance count: taught in 1 country (Azerbaijan).** Afghanistan is teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count — the lesson was founded on Afghanistan's teacher guides only; a pupil's book (Azerbaijan's) is now also in hand for it. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count.
+**Acceptance count: taught in 2 countries (Azerbaijan, Iran).** Afghanistan is teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count — the lesson was founded on Afghanistan's teacher guides only; a pupil's book (Azerbaijan's) is now also in hand for it. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count.
 
 ## Afghanistan — PE expansion 2026-11-16
 
@@ -48,3 +48,23 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/azerbaijan-p
 Azerbaijan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Azerbaijan's own way is content, as the book lines above record it: a theory-first course — knowing and managing your own body, the movement abilities taught one by one, then the basic sports, then independent work the pupil runs alone, with Azerbaijan's own sport story (its Olympic successes, its Rio 2016 athletes, and holding the first European Games) taught as national content. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: adapted physical education, adapted PE, disabilities, inclusion, intellectual disability, hearing impairment, sight impairment, Afghanistan Grade 10
+
+## Iran — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/iran-pe-placements.md. Iran's books stocked in this lesson are official ministry (chap.sch.ir) books for the technical-vocational Physical Education field (رشته تربیت بدنی), in Persian, read as filed in the placements file. Iran is student-book stock, inside the acceptance count, in this lesson. Books 10 and 14 of the placements file are record-only — other subjects entirely (Use of New Technologies, C211136; Biology, C210156) — with 0 placements, and nothing is stocked from them; the Health parts of the Iran books (the Student Companion's safety, health and ergonomics chapter, the sports-nutrition modules, the injury-prevention module and the special-needs book's safety lesson) are cross-filed in iran-health-placements.md and placed in the Health course, not here.
+
+**Book — Iran Grade 12 Health and Lifestyle with Sport (C212300) (student book):**
+## Book 8 — Developing Health and Lifestyle with Sport, Grade 12 (C212300) (student book, Persian)
+- Title as printed: توسعه سلامت و سبک زندگی با ورزش (Developing Health and Lifestyle with Sport) — رشته تربیت بدنی، گروه بهداشت و سلامت، شاخه فنی و حرفه‌ای
+- Grade: 12 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, OERP, Tehran; 1405-1406 edition; ISBN printed on the title page (digits not reliably extractable from the PDF text layer)
+- PDF pages: 200 (cover verified against the record title; byte size 7,323,458 B, matching the recorded size)
+- Verdict: COMPLETE. Health parts (Module 3 sports nutrition; Module 4 exercise for health levels) are cross-filed in iran-health-placements.md.
+- Tally: 5 placements — 1 to an existing lesson, 4 NEW LESSON NEEDED (1 reuses the NEW sport-psychology slug first filed for Book 1)
+- Iran's own way: the capstone workshop book is about planning, not playing: pupils learn to programme traditional games, sport for people at different health levels including disability, and sport in indoor and outdoor spaces.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran — Module 4 "Planning sport for different health levels (people with disabilities)" — adapting sport for health conditions and disability (original target `games-to-play/inclusive-sport-for-different-health-levels`) | Iran, *Developing Health and Lifestyle with Sport, Grade 12 (C212300)*, Module 4 "Planning sport for different health levels (people with disabilities)", printed p. 119 |
+
+Iran's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Iran's own way is content, as the book lines above record it: PE taught as a profession with a knowledge base — a Grade 10 theory book before any workshop book, workshop books of competency units with continuous and final assessment, team games taught as full coaching units with kabaddi standing as a full module beside them, and a special-needs fitness course of very short lessons with one idea each. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

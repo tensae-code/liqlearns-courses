@@ -1,8 +1,8 @@
 # Sources — Teaching and Organising PE
 
-countries: Mozambique, Namibia, United Kingdom, Fiji
+countries: Mozambique, Namibia, United Kingdom, Fiji, Iran
 
-**Acceptance count: taught in 1 country (United Kingdom)** (Mozambique's and Namibia's rows below rest on teacher-guide evidence only; the United Kingdom row rests on a pupil's book). Mozambique and Namibia are named in the countries line and in the rows below, but outside the acceptance count. United Kingdom is added as student-book stock (see its rows above), inside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 2 countries (United Kingdom, Iran)** (Mozambique's and Namibia's rows below rest on teacher-guide evidence only; the United Kingdom row rests on a pupil's book). Mozambique and Namibia are named in the countries line and in the rows below, but outside the acceptance count. United Kingdom is added as student-book stock (see its rows above), inside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count.
 
 **Book — Mozambique Grade 1 teacher manual (teacher guide — evidence):** *Manual do Professor — 1.ª classe — Língua Portuguesa / Matemática / Educação Física* (teacher guide, Portuguese) — Title as printed: Manual do Professor — 1.ª classe — Língua Portuguesa / Matemática / Educação Física — Grade: Grade 1 (student/teacher: TEACHER) — Publisher: MINEDH / IEDA (Mozambique); year: no year printed on the cover; ISBN: no ISBN printed — PDF pages: 216 (cover verified against the record title). Other subjects in the same manual (named, not placed): Língua Portuguesa, printed pp. 4–146; Matemática, printed pp. 147–182. The Educação Física part runs printed pp. 183–214, bibliography p. 215. Standing exclusion named: the PE part's Avaliação section (printed p. 194) is assessment guidance — named here, not placed. Verdict: COMPLETE (PE part). Downloaded PDF from the ministry IEDA site (5,891,019 bytes, exactly the recorded size; 216 pages), cover rendered and verified, full text read. Read in full in the 2026-11-16 PE expansion read. Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/mozambique-pe-placements.md. Mozambique's own way: Grade 1 PE is taught entirely through play — the manual's recommended "recreative-formative" method builds every lesson from recreational games, songs and dances; there are no sport modalities in the first cycle, and children teach each other the dances they know. Its traditional games (Neca, O pião, Ao fom fim…) are named as content handed down across generations.
 
@@ -44,3 +44,37 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/fiji-pe-plac
 | Fiji — Chapter 6 Challenges in Physical Education — managing stakeholder expectations, fair competition with clear age groups and rules, right resources and right practice, and school culture (teacher guide — evidence) (original target `sport-and-its-story/challenges-in-physical-education`) | Fiji Year 3 PE for Fun Teachers Handbook, printed p. 39 (Chapter 6) |
 
 Fiji's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Fiji's own way is content, as the book lines above record it: a *PE is Fun* series built on strands and KLA outcomes, moving from movement science to training, sports nutrition and tournament organisation, with Fiji Sevens rugby and the Skipper Cup as worked examples, named Fijian traditional games (Veibuka, Veisole, Veicibi, Veitiqa and more) and the games of Fiji's Indian community taught side by side, and swimming taught as a Fiji survival skill. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Iran — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/iran-pe-placements.md. Iran's books stocked in this lesson are official ministry (chap.sch.ir) books for the technical-vocational Physical Education field (رشته تربیت بدنی), in Persian, read as filed in the placements file. Iran is student-book stock, inside the acceptance count, in this lesson. Books 10 and 14 of the placements file are record-only — other subjects entirely (Use of New Technologies, C211136; Biology, C210156) — with 0 placements, and nothing is stocked from them; the Health parts of the Iran books (the Student Companion's safety, health and ergonomics chapter, the sports-nutrition modules, the injury-prevention module and the special-needs book's safety lesson) are cross-filed in iran-health-placements.md and placed in the Health course, not here.
+
+**Book — Iran Grades 10–12 Student Companion, PE (C210301) (student book):**
+## Book 5 — Student Companion Book, PE field, Grades 10–12 (C210301) (student book, Persian)
+- Title as printed: کتاب همراه هنرجو (Student Companion Book) — رشته تربیت بدنی، گروه بهداشت و سلامت، شاخه فنی و حرفه‌ای، پایه‌های دهم، یازدهم و دوازدهم
+- Grade: 10–12 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, OERP, Tehran; 1405-1406 edition (9th printing); ISBN printed on the title page (digits not reliably extractable from the PDF text layer)
+- PDF pages: 180 (cover verified against the record title; byte size 9,219,964 B, exactly the recorded size)
+- Verdict: COMPLETE as a companion/reference book. Placed: Ch.1 only (PE rules). Named, not placed per the brief's exclusions: Ch.2 equipment-standard lists (apparatus/equipment inventory, printed pp. 19–26), Ch.3 specialist terminology for all six field courses (glossary — inventory only, printed pp. 27–82), Ch.5 non-technical competencies — professional ethics and workplace requirements (printed pp. 105–138), Ch.6 basic technical competencies — a mathematics/physics formula handbook (sets, geometry, trigonometry, statistics, calculus, SI units, levers; out of PE/Health scope, printed pp. 139–168). Ch.4 "Safety, health and ergonomics" (printed pp. 83–104) is cross-filed in iran-health-placements.md.
+- Tally: 1 placement — 0 to existing lessons, 1 NEW LESSON NEEDED (plus 2 Health placements cross-filed)
+- Iran's own way: every vocational pupil carries one companion volume across all three years holding the rules, equipment standards, terminology and safety code of the whole field — the field's single reference shelf in one book.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran — Ch.1 "Principles, rules, regulations and bylaws" — the rules and regulations governing the PE field's courses, workshops and assessment (original target `sport-and-its-story/pe-course-rules-and-regulations`) | Iran, *Student Companion Book, PE field, Grades 10–12 (C210301)*, Ch.1 "Principles, rules, regulations and bylaws", printed p. 9 |
+
+**Book — Iran Grade 12 Specialised Technical Knowledge (C212299) (student book):**
+## Book 7 — Specialised Technical Knowledge, PE field, Grade 12 (C212299) (student book, Persian)
+- Title as printed: دانش فنی تخصصی (Specialised Technical Knowledge) — رشته تربیت بدنی، گروه بهداشت و سلامت، شاخه فنی و حرفه‌ای
+- Grade: 12 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, OERP, Tehran; 1405-1406 edition; ISBN printed on the title page (digits not reliably extractable from the PDF text layer)
+- PDF pages: 128 (cover verified against the record title; byte size 4,849,349 B, exactly the recorded size)
+- Verdict: COMPLETE
+- Tally: 5 placements — 0 to existing lessons, 5 NEW LESSON NEEDED (1 reuses the NEW slug first filed for Book 1)
+- Iran's own way: the final-year theory book is applied: motor development, sport as a teaching tool, spoken communication for international sports settings (English for sport), sports testing and technique analysis — the knowledge a working coach/teacher needs.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran — Module 2 "Using sport to develop educational concepts" — teaching values and school concepts through sport (original target `sport-and-its-story/sport-for-education-and-values`) | Iran, *Specialised Technical Knowledge, PE field, Grade 12 (C212299)*, Module 2 "Using sport to develop educational concepts", printed p. 23 |
+
+Iran's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Iran's own way is content, as the book lines above record it: PE taught as a profession with a knowledge base — a Grade 10 theory book before any workshop book, workshop books of competency units with continuous and final assessment, team games taught as full coaching units with kabaddi standing as a full module beside them, and a special-needs fitness course of very short lessons with one idea each. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

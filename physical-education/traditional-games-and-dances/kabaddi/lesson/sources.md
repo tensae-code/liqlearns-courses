@@ -1,8 +1,8 @@
 # Sources — Kabaddi
 
-countries: Pakistan
+countries: Pakistan, Iran
 
-**Acceptance count: taught in 1 country (Pakistan).** Pakistan is student-book stock (see its rows below), inside the acceptance count.
+**Acceptance count: taught in 2 countries (Pakistan, Iran).** Pakistan is student-book stock (see its rows below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count.
 
 ## Pakistan — PE expansion 2026-11-16
 
@@ -26,3 +26,24 @@ Pakistan's placements in this lesson were filed under the original strings recor
 This is a canonical NEW lesson (slug-registry Part 1: `traditional-games-and-dances/kabaddi` — Kabaddi: the raiding game — how it is played, the court and rules, raiding, holding and tactics.); Pakistan's placements were filed under the original strings recorded in the provenance rows above, resolved by registry Part 2 to this canonical slug where the string differs. Pakistan enters this lesson as student-book stock, inside the acceptance count.
 
 Searchable tags: kabaddi, raiding game, raids, Pakistan Grade 11 Sehat-o-Jismani Taleem
+
+## Iran — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/iran-pe-placements.md. Iran's books stocked in this lesson are official ministry (chap.sch.ir) books for the technical-vocational Physical Education field (رشته تربیت بدنی), in Persian, read as filed in the placements file. Iran is student-book stock, inside the acceptance count, in this lesson. Books 10 and 14 of the placements file are record-only — other subjects entirely (Use of New Technologies, C211136; Biology, C210156) — with 0 placements, and nothing is stocked from them; the Health parts of the Iran books (the Student Companion's safety, health and ergonomics chapter, the sports-nutrition modules, the injury-prevention module and the special-needs book's safety lesson) are cross-filed in iran-health-placements.md and placed in the Health course, not here.
+
+**Book — Iran Grade 11 Group Skills (C211306) (student book):**
+## Book 6 — Developing Group Skills, Grade 11 (C211306) (student book, Persian)
+- Title as printed: توسعه مهارت های گروهی (Developing Group Skills) — رشته تربیت بدنی، گروه بهداشت و سلامت، شاخه فنی و حرفه‌ای
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, OERP, Tehran; 1405-1406 edition; ISBN printed on the title page (digits not reliably extractable from the PDF text layer)
+- PDF pages: 424 (cover verified against the record title; byte size 16,968,711 B, exactly the recorded size)
+- Verdict: COMPLETE
+- Tally: 14 placements — 12 to existing lessons, 2 NEW LESSON NEEDED
+- Iran's own way: team games are taught as full coaching units — technique first, then tactics and systems — and kabaddi, a traditional Asian raiding game, stands as a full module beside volleyball, handball, futsal/football and basketball; futsal and football are offered as an either/or elective module.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran — Module 3, Unit 1 "Basic kabaddi techniques" — raiding, holding and safe falling in kabaddi (original target `traditional-games-and-dances/kabaddi-basic-techniques`) | Iran, *Developing Group Skills, Grade 11 (C211306)*, Module 3, Unit 1 "Basic kabaddi techniques", printed p. 164 |
+| Iran — Module 3, Unit 2 "Kabaddi tactics" — rules, player positioning, attack and defence strategy (original target `traditional-games-and-dances/kabaddi-rules-and-tactics`) | Iran, *Developing Group Skills, Grade 11 (C211306)*, Module 3, Unit 2 "Kabaddi tactics", printed p. 215 |
+
+Iran's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Iran's own way is content, as the book lines above record it: PE taught as a profession with a knowledge base — a Grade 10 theory book before any workshop book, workshop books of competency units with continuous and final assessment, team games taught as full coaching units with kabaddi standing as a full module beside them, and a special-needs fitness course of very short lessons with one idea each. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

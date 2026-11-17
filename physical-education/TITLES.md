@@ -245,3 +245,19 @@ League** (`games-to-play/running-a-class-league`),
 and **Sports Spaces and Equipment**
 (`sport-and-its-story/sports-spaces-and-equipment`)
 — 11 new lessons, bringing this course to 155 lessons.
+
+The PE expansion then added: **Freestyle Wrestling**
+(`athletics/wrestling-freestyle`), **Greco-Roman Wrestling**
+(`athletics/wrestling-greco-roman`), **Table Tennis
+Coaching, Refereeing and Tactics**
+(`ball-games/table-tennis-coaching-refereeing-and-tactics`),
+**Skill-Related Fitness**
+(`fitness-and-stretching/skill-related-fitness`), **Sport
+for Older People**
+(`fitness-and-stretching/sport-for-older-people`), **Fun
+Trick Skills** (`games-to-play/fun-trick-skills`),
+**Aerobic Gymnastics Steps and Choreography**
+(`gymnastics/aerobic-gymnastics-steps-and-choreography`)
+and **Traditional Games of Iran**
+(`traditional-games-and-dances/traditional-games-of-iran`)
+— 8 new lessons, bringing this course to 163 lessons.

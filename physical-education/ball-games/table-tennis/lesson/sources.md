@@ -1,8 +1,8 @@
 # Sources — Table Tennis
 
-countries: Pakistan, China, Mauritius
+countries: Pakistan, China, Mauritius, Iran
 
-**Acceptance count: taught in 3 countries (Pakistan, China, Mauritius).** Pakistan is student-book stock (see its rows below), inside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count.
+**Acceptance count: taught in 4 countries (Pakistan, China, Mauritius, Iran).** Pakistan is student-book stock (see its rows below), inside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count; the Iran teacher guide stocked in this lesson (Book 13) is teacher-guide evidence only, outside the acceptance count.
 
 ## Pakistan — PE expansion 2026-11-16
 
@@ -80,3 +80,37 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/mauritius-pe
 Mauritius's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Mauritius's own way is content, as the book lines above record it: Book 3: eight practical units (one sport each, taught skill-by-skill with “Let's do it” drills and challenges) plus a Theory section (fitness, major sporting events, the muscular system, drugs) — a school must do at least one sport from each of the three themes: Alternative Activities, Net/Ball Activities, Outdoor and Athletics Activities; Book 5: theory and practical units alternate — body systems and health first, then one sport per unit at greater depth (football volleys and goalkeeping, basketball defence and the pick-and-roll, swimming starts and tumble turns, athletics from baton exchange to cross country over Mauritian sugarcane-field courses). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: table tennis, Pakistan Grade 7 Sehat-o-Jismani Taleem
+
+## Iran — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/iran-pe-placements.md. Iran's books stocked in this lesson are official ministry (chap.sch.ir) books for the technical-vocational Physical Education field (رشته تربیت بدنی), in Persian, read as filed in the placements file. Iran is student-book stock, inside the acceptance count, in this lesson. Book 13 below is a teacher guide, filed as evidence only, outside the acceptance count. Books 10 and 14 of the placements file are record-only — other subjects entirely (Use of New Technologies, C211136; Biology, C210156) — with 0 placements, and nothing is stocked from them; the Health parts of the Iran books (the Student Companion's safety, health and ergonomics chapter, the sports-nutrition modules, the injury-prevention module and the special-needs book's safety lesson) are cross-filed in iran-health-placements.md and placed in the Health course, not here.
+
+**Book — Iran Grade 10 Agility-Mental Skills (C210302) (student book):**
+## Book 4 — Developing Agility–Mental Skills, Grade 10 (C210302) (student book, Persian)
+- Title as printed: توسعه مهارت های چابکی ـ ذهنی (Developing Agility–Mental Skills) — رشته تربیت بدنی، گروه بهداشت و سلامت، شاخه فنی و حرفه‌ای
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, OERP, Tehran; 1405-1406 edition (2nd printing); ISBN printed on the title page (digits not reliably extractable from the PDF text layer)
+- PDF pages: 296 (cover verified against the record title; byte size 12,350,810 B, exactly the recorded size)
+- Verdict: COMPLETE
+- Tally: 10 placements — 2 to existing lessons, 8 NEW LESSON NEEDED
+- Iran's own way: "agility–mental" is taught through precision sports — tennis, rope skipping, chess, table tennis and badminton — chosen to train speed, accuracy, attention, concentration and quick decisions; every module also teaches the sport's history and equipment before technique.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran — Module 4, Unit 1 "Table tennis basic skills" — grip, strokes, serve and footwork (original target `ball-games/table-tennis-basic-skills`) | Iran, *Developing Agility–Mental Skills, Grade 10 (C210302)*, Module 4, Unit 1 "Table tennis basic skills", printed p. 154 |
+
+**Book — Iran Special-Needs PE Teacher's Guide Year 2 (C182-25) (teacher guide — evidence):**
+## Book 13 — Physical Education Teacher's Guide, Year 2, special-needs vocational secondary: Table Tennis – Volleyball (C182-25) (teacher guide, Persian)
+- Title as printed: تربیت بدنی (راهنمای معلم)، سال دوم دوره متوسطه حرفه‌ای (تنیس روی میز ـ والیبال) (Physical Education — Teacher's Guide, Year 2 of Vocational Secondary: Table Tennis – Volleyball)
+- Grade: Year 2 of the special-needs vocational secondary course (student/teacher: TEACHER)
+- Publisher: Ministry of Education, سازمان آموزش و پرورش استثنایی (Special Education Organisation), Tehran; year 1390; ISBN printed on the title page
+- PDF pages: 144 (cover verified against the record title; byte size 2,523,210 B)
+- Verdict: COMPLETE. A teacher guide: 24 numbered teaching sessions for table tennis (printed pp. 2–74) and a volleyball session series (printed pp. 75–133); the sessions' own competition/assessment sessions are placed only where they teach scoring and match play, per the brief's assessment exclusion the pure evaluation sessions are named here, not placed (table-tennis sessions 12, 19 and 24; printed pp. 75, 58, 70 in the contents' ordering).
+- Tally: 4 placements — 2 to existing lessons, 2 NEW LESSON NEEDED (both reuse NEW slugs first filed for Book 4)
+- Iran's own way: special-needs PE is taught in numbered single-skill sessions, each with its drills — a whole term of table tennis broken into grip, one stroke, one drill at a time, then volleyball taught the same way.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran — Part 1, sessions 1–11 "Table tennis foundations" — grip, forehand and backhand serves and strokes, the smash, with their drills (teacher guide — evidence) (original target `ball-games/table-tennis-basic-skills`) | Iran, *Physical Education Teacher's Guide, Year 2, special-needs vocational secondary: Table Tennis – Volleyball (C182-25)*, Part 1, sessions 1–11 "Table tennis foundations", printed p. 2 |
+
+Iran's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Iran's own way is content, as the book lines above record it: PE taught as a profession with a knowledge base — a Grade 10 theory book before any workshop book, workshop books of competency units with continuous and final assessment, team games taught as full coaching units with kabaddi standing as a full module beside them, and a special-needs fitness course of very short lessons with one idea each. Book 13 is a teacher guide, filed as evidence only, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

@@ -1,8 +1,8 @@
 # Sources — Correct Posture
 
-countries: Pakistan, China, El Salvador, Philippines, Azerbaijan, Mauritius
+countries: Pakistan, China, El Salvador, Philippines, Azerbaijan, Mauritius, Iran
 
-**Acceptance count: taught in 5 countries (Pakistan, China, Philippines, Azerbaijan, Mauritius).** Pakistan is student-book stock (see its rows below), inside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count.
+**Acceptance count: taught in 6 countries (Pakistan, China, Philippines, Azerbaijan, Mauritius, Iran).** Pakistan is student-book stock (see its rows below), inside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count.
 
 ## Pakistan — PE expansion 2026-11-16
 
@@ -134,3 +134,25 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/mauritius-pe
 Mauritius's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Mauritius's own way is content, as the book lines above record it: Book 5: theory and practical units alternate — body systems and health first, then one sport per unit at greater depth (football volleys and goalkeeping, basketball defence and the pick-and-roll, swimming starts and tumble turns, athletics from baton exchange to cross country over Mauritian sugarcane-field courses). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: correct posture, posture, faulty posture, درست قامت, Pakistan Grade 6 Sehat-o-Jismani Taleem
+
+## Iran — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/iran-pe-placements.md. Iran's books stocked in this lesson are official ministry (chap.sch.ir) books for the technical-vocational Physical Education field (رشته تربیت بدنی), in Persian, read as filed in the placements file. Iran is student-book stock, inside the acceptance count, in this lesson. Books 10 and 14 of the placements file are record-only — other subjects entirely (Use of New Technologies, C211136; Biology, C210156) — with 0 placements, and nothing is stocked from them; the Health parts of the Iran books (the Student Companion's safety, health and ergonomics chapter, the sports-nutrition modules, the injury-prevention module and the special-needs book's safety lesson) are cross-filed in iran-health-placements.md and placed in the Health course, not here.
+
+**Book — Iran Special-Needs PE Year 1, Physical Fitness (C181-11) (student book):**
+## Book 12 — Physical Education, Year 1, special-needs vocational secondary: Physical Fitness (C181-11) (student book, Persian)
+- Title as printed: تربیت بدنی، سال اول دوره متوسطه حرفه‌ای (آمادگی جسمانی) (Physical Education, Year 1 of Vocational Secondary — Physical Fitness)
+- Grade: Year 1 of the special-needs vocational secondary course (دوره متوسطه حرفه‌ای, pupils with special educational needs) (student/teacher: STUDENT). The download-list record described this as "Primary, PE" — the book itself is special-education secondary; the printed book governs.
+- Publisher: Ministry of Education, سازمان آموزش و پرورش استثنایی (Special Education Organisation), Tehran; year 1387; ISBN 964-05-1619-4
+- PDF pages: 96 (cover verified; byte size 1,686,723 B, exactly the recorded size)
+- Verdict: COMPLETE. Excluded per the brief and named here: the two "Review of past lessons" sections (printed pp. 46, 86 — the books' own Revision lessons) and the two "Supplementary exercises and free play" activity sections (printed pp. 45, 85 — pure activity items). The "Safety in sport" lesson (printed p. 41) is cross-filed in iran-health-placements.md.
+- Tally: 20 placements — 11 to existing lessons, 9 NEW LESSON NEEDED (2 reuse the NEW sport-psychology slug first filed for Book 1)
+- Iran's own way: a fitness course written for pupils with special needs, in very short lessons with one idea each — posture faults (round back, bow legs) are taught as fitness content, and mental skills (concentration, imagery, relaxation) sit inside the fitness course, ending with شیرین‌کاری, entertaining trick skills.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran — Lesson "Physical fitness, body type and postural deviations" — recognising and correcting posture faults (original target `fitness-and-stretching/posture-and-postural-deviations`) | Iran, *Physical Education, Year 1, special-needs vocational secondary: Physical Fitness (C181-11)*, Lesson "Physical fitness, body type and postural deviations", printed p. 7 |
+| Iran — Lesson "Sitting, sleeping and round back" — posture in sitting and sleeping, the round back (original target `fitness-and-stretching/posture-and-postural-deviations`) | Iran, *Physical Education, Year 1, special-needs vocational secondary: Physical Fitness (C181-11)*, Lesson "Sitting, sleeping and round back", printed p. 10 |
+| Iran — Lesson "Standing, walking, running and bow legs" — posture in standing and gait, bow legs (original target `fitness-and-stretching/posture-and-postural-deviations`) | Iran, *Physical Education, Year 1, special-needs vocational secondary: Physical Fitness (C181-11)*, Lesson "Standing, walking, running and bow legs", printed p. 14 |
+
+Iran's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Iran's own way is content, as the book lines above record it: PE taught as a profession with a knowledge base — a Grade 10 theory book before any workshop book, workshop books of competency units with continuous and final assessment, team games taught as full coaching units with kabaddi standing as a full module beside them, and a special-needs fitness course of very short lessons with one idea each. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

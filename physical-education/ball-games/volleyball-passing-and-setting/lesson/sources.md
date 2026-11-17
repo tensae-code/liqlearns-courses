@@ -1,6 +1,6 @@
 # Sources — Volleyball Passing and Setting
 
-countries: Ethiopia, Afghanistan, China, Nicaragua, Belize, Mauritius
+countries: Ethiopia, Afghanistan, China, Nicaragua, Belize, Mauritius, Iran
 
 **Book — Grade 5 student:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 106 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md. COMPLETE.
 
@@ -27,7 +27,7 @@ countries: Ethiopia, Afghanistan, China, Nicaragua, Belize, Mauritius
 | The spike — Grade 9 | Ethiopia, Grade 9 teacher Unit 5 spike (teacher guide — evidence), printed pp. 65–72 |
 | Blocking — Grade 10 | Ethiopia, Grade 10 student §5.2 Blocking skills + §5.1 rules, printed pp. 86–98 |
 | Blocking — Grade 10 | Ethiopia, Grade 10 teacher Unit 5 blocking and rules (teacher guide — evidence), printed pp. 60–69 |
-**Acceptance count: taught in 3 countries (Ethiopia, China, Mauritius).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count.
+**Acceptance count: taught in 4 countries (Ethiopia, China, Mauritius, Iran).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Belize is added as teacher-curriculum evidence only (see its Belize section below), named in the countries line but outside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count; the Iran teacher guide stocked in this lesson (Book 13) is teacher-guide evidence only, outside the acceptance count.
 
 The Grade 5 and Grade 6 teacher guides' ball-games chapters are in the truncated missing ranges of those scans (G5T Chapter 6, pp. 57–77; G6T Chapter 6, pp. 65–82), so this lesson rests on the complete student books only; no teacher-guide pages are claimed for it.
 
@@ -155,3 +155,37 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/belize-pe-pl
 | Belize — Sports: Volleyball — batting the ball over a high net and spiking; rules: no player may hit the ball twice in a row, crossing the centre line or touching the net is a foul; volleying (original target `ball-games/volleyball-passing-and-setting`) | Belize, *Belize Grade 6 PE Middle, printed pp. 51–52* |
 
 Belize's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Belize's own way is content, as the book lines above record it: in the Lower Division PE is taught as three skill families — locomotor, manipulative, non-manipulative — spiralled across Infant I → Standard I with the same skills revisited at rising difficulty, and in the Middle Division PE is organised as Training, Work, Sports and Dance for every grade, with "Work" treating sweeping, mopping, chopping and washing as real physical training. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Iran — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/iran-pe-placements.md. Iran's books stocked in this lesson are official ministry (chap.sch.ir) books for the technical-vocational Physical Education field (رشته تربیت بدنی), in Persian, read as filed in the placements file. Iran is student-book stock, inside the acceptance count, in this lesson. Book 13 below is a teacher guide, filed as evidence only, outside the acceptance count. Books 10 and 14 of the placements file are record-only — other subjects entirely (Use of New Technologies, C211136; Biology, C210156) — with 0 placements, and nothing is stocked from them; the Health parts of the Iran books (the Student Companion's safety, health and ergonomics chapter, the sports-nutrition modules, the injury-prevention module and the special-needs book's safety lesson) are cross-filed in iran-health-placements.md and placed in the Health course, not here.
+
+**Book — Iran Grade 11 Group Skills (C211306) (student book):**
+## Book 6 — Developing Group Skills, Grade 11 (C211306) (student book, Persian)
+- Title as printed: توسعه مهارت های گروهی (Developing Group Skills) — رشته تربیت بدنی، گروه بهداشت و سلامت، شاخه فنی و حرفه‌ای
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, OERP, Tehran; 1405-1406 edition; ISBN printed on the title page (digits not reliably extractable from the PDF text layer)
+- PDF pages: 424 (cover verified against the record title; byte size 16,968,711 B, exactly the recorded size)
+- Verdict: COMPLETE
+- Tally: 14 placements — 12 to existing lessons, 2 NEW LESSON NEEDED
+- Iran's own way: team games are taught as full coaching units — technique first, then tactics and systems — and kabaddi, a traditional Asian raiding game, stands as a full module beside volleyball, handball, futsal/football and basketball; futsal and football are offered as an either/or elective module.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran — Module 1, Unit 1 "Volleyball techniques" — passing, setting, serve and spike technique (original target `ball-games/volleyball-passing-and-setting`) | Iran, *Developing Group Skills, Grade 11 (C211306)*, Module 1, Unit 1 "Volleyball techniques", printed p. 2 |
+
+**Book — Iran Special-Needs PE Teacher's Guide Year 2 (C182-25) (teacher guide — evidence):**
+## Book 13 — Physical Education Teacher's Guide, Year 2, special-needs vocational secondary: Table Tennis – Volleyball (C182-25) (teacher guide, Persian)
+- Title as printed: تربیت بدنی (راهنمای معلم)، سال دوم دوره متوسطه حرفه‌ای (تنیس روی میز ـ والیبال) (Physical Education — Teacher's Guide, Year 2 of Vocational Secondary: Table Tennis – Volleyball)
+- Grade: Year 2 of the special-needs vocational secondary course (student/teacher: TEACHER)
+- Publisher: Ministry of Education, سازمان آموزش و پرورش استثنایی (Special Education Organisation), Tehran; year 1390; ISBN printed on the title page
+- PDF pages: 144 (cover verified against the record title; byte size 2,523,210 B)
+- Verdict: COMPLETE. A teacher guide: 24 numbered teaching sessions for table tennis (printed pp. 2–74) and a volleyball session series (printed pp. 75–133); the sessions' own competition/assessment sessions are placed only where they teach scoring and match play, per the brief's assessment exclusion the pure evaluation sessions are named here, not placed (table-tennis sessions 12, 19 and 24; printed pp. 75, 58, 70 in the contents' ordering).
+- Tally: 4 placements — 2 to existing lessons, 2 NEW LESSON NEEDED (both reuse NEW slugs first filed for Book 4)
+- Iran's own way: special-needs PE is taught in numbered single-skill sessions, each with its drills — a whole term of table tennis broken into grip, one stroke, one drill at a time, then volleyball taught the same way.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran — Part 2, volleyball sessions "Dig, forearm pass and serve" — raising the level of dig, forearm pass and serve, including under-pressure drills (teacher guide — evidence) (original target `ball-games/volleyball-passing-and-setting`) | Iran, *Physical Education Teacher's Guide, Year 2, special-needs vocational secondary: Table Tennis – Volleyball (C182-25)*, Part 2, volleyball sessions "Dig, forearm pass and serve", printed p. 76 |
+
+Iran's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Iran's own way is content, as the book lines above record it: PE taught as a profession with a knowledge base — a Grade 10 theory book before any workshop book, workshop books of competency units with continuous and final assessment, team games taught as full coaching units with kabaddi standing as a full module beside them, and a special-needs fitness course of very short lessons with one idea each. Book 13 is a teacher guide, filed as evidence only, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

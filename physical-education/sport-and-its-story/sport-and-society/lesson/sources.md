@@ -1,6 +1,6 @@
 # Sources — Sport and Society — Money, Media, Gender, Technology and Jobs
 
-countries: Ethiopia, Cyprus, Namibia, United Kingdom, Afghanistan, Honduras, Fiji, Mauritius
+countries: Ethiopia, Cyprus, Namibia, United Kingdom, Afghanistan, Honduras, Fiji, Mauritius, Iran
 
 **Book 1:** *Grade 8 Health and Physical Education Teacher Guide* (teacher guide, English) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. TRUNCATED — worst-truncated of the series: the file holds printed pp. 3–50 of 104+ (54 PDF pages); printed pp. 51–104+ (Chapters 4–7 entire) are missing. Printed page = PDF page − 4 (contents scheme; the guide prints no folios). Read in full from 100 DPI renders (no text layer), in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g08-teacher-placements.md.
 
@@ -33,7 +33,7 @@ countries: Ethiopia, Cyprus, Namibia, United Kingdom, Afghanistan, Honduras, Fij
 | United Kingdom — Component 2 Topic 3.2: Commercialisation of physical activity and sport — sponsorship, the media and the golden triangle in sport (original target `sport-and-its-story/sport-and-society`) | United Kingdom, *Edexcel GCSE (9-1) Physical Education Student Book, 2nd edition* (United Kingdom GCSE Edexcel PE Student Book), Component 2 Topic 3.2, printed p. 168 |
 | United Kingdom — Component 2 Topic 3.3: Ethical and socio-cultural issues in physical activity and sport — sportsmanship and gamesmanship, performance-enhancing drugs, and spectator behaviour including hooliganism (original target `sport-and-its-story/sport-and-society`) | United Kingdom, *Edexcel GCSE (9-1) Physical Education Student Book, 2nd edition* (United Kingdom GCSE Edexcel PE Student Book), Component 2 Topic 3.3, printed p. 172 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Cyprus, United Kingdom, Honduras, Fiji, Mauritius).** Cyprus is added as student-book stock (see its rows above), inside the acceptance count. Namibia is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 2. United Kingdom is added as student-book stock (see its rows above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count.
+**Acceptance count: taught in 7 countries (Ethiopia, Cyprus, United Kingdom, Honduras, Fiji, Mauritius, Iran).** Cyprus is added as student-book stock (see its rows above), inside the acceptance count. Namibia is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 2. United Kingdom is added as student-book stock (see its rows above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count.
 
 The Grade 8 teacher guide is truncated — printed pp. 51–104+ missing — and is used only for its held Chapter 1, labelled (teacher guide — evidence). The Grade 9 guide is complete. The Grade 10 guide is truncated only at its §8.3 tail (p. 92); its Unit 1 material here is complete in the held file. The Grade 10 guide's internal period-count inconsistency for its Unit 2 is not used in this lesson. This lesson carries the [Both] sport-and-society placements whose content is societal knowledge, not movement skill; the Grade 9/10 student books are the English federal 2023 GEQIP-E series and their terms are given as printed.
 
@@ -121,3 +121,37 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/fiji-pe-plac
 | Fiji — Innovation in Sports — a timeline of sporting innovations and improvements and how technology changes sport (original target `sport-and-its-story/sport-and-society`) | Fiji Year 11 PE is Fun, printed pp. 7–14 |
 
 Fiji's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Fiji's own way is content, as the book lines above record it: a *PE is Fun* series built on strands and KLA outcomes, moving from movement science to training, sports nutrition and tournament organisation, with Fiji Sevens rugby and the Skipper Cup as worked examples, named Fijian traditional games (Veibuka, Veisole, Veicibi, Veitiqa and more) and the games of Fiji's Indian community taught side by side, and swimming taught as a Fiji survival skill. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Iran — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/iran-pe-placements.md. Iran's books stocked in this lesson are official ministry (chap.sch.ir) books for the technical-vocational Physical Education field (رشته تربیت بدنی), in Persian, read as filed in the placements file. Iran is student-book stock, inside the acceptance count, in this lesson. Books 10 and 14 of the placements file are record-only — other subjects entirely (Use of New Technologies, C211136; Biology, C210156) — with 0 placements, and nothing is stocked from them; the Health parts of the Iran books (the Student Companion's safety, health and ergonomics chapter, the sports-nutrition modules, the injury-prevention module and the special-needs book's safety lesson) are cross-filed in iran-health-placements.md and placed in the Health course, not here.
+
+**Book — Iran Grade 10 Basic Technical Knowledge (C210299) (student book):**
+## Book 1 — Basic Technical Knowledge, PE field, Grade 10 (C210299) (student book, Persian)
+- Title as printed: دانش فنی پایه (Basic Technical Knowledge) — رشته تربیت بدنی، گروه بهداشت و سلامت، شاخه فنی و حرفه‌ای
+- Grade: 10, second period of secondary school (student/teacher: STUDENT)
+- Publisher: Ministry of Education, سازمان پژوهش و برنامه‌ریزی آموزشی (OERP), Tehran; 1405-1406 edition (11th printing as printed); ISBN printed on the title page (digits not reliably extractable from the PDF text layer)
+- PDF pages: 116 (cover verified against the record title; byte size 3,826,661 B, exactly the recorded size)
+- Verdict: COMPLETE
+- Tally: 10 placements — 5 to existing lessons, 5 NEW LESSON NEEDED
+- Iran's own way: the vocational PE field opens with a theory book before any workshop book: concepts and philosophy of PE first, then the basic sciences under it, then facilities, measurement and sports media — PE taught as a profession with a knowledge base, and old Iranian games (بازی وسطی dodgeball, گرگم به هوا, هفت‌سنگ seven-stones) named as heritage inside the play chapter.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran — Module 5 "Sports communication and media" — media, communication and sport's place in society (original target `sport-and-its-story/sport-and-society`) | Iran, *Basic Technical Knowledge, PE field, Grade 10 (C210299)*, Module 5 "Sports communication and media", printed p. 91 |
+
+**Book — Iran Grade 12 Specialised Technical Knowledge (C212299) (student book):**
+## Book 7 — Specialised Technical Knowledge, PE field, Grade 12 (C212299) (student book, Persian)
+- Title as printed: دانش فنی تخصصی (Specialised Technical Knowledge) — رشته تربیت بدنی، گروه بهداشت و سلامت، شاخه فنی و حرفه‌ای
+- Grade: 12 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, OERP, Tehran; 1405-1406 edition; ISBN printed on the title page (digits not reliably extractable from the PDF text layer)
+- PDF pages: 128 (cover verified against the record title; byte size 4,849,349 B, exactly the recorded size)
+- Verdict: COMPLETE
+- Tally: 5 placements — 0 to existing lessons, 5 NEW LESSON NEEDED (1 reuses the NEW slug first filed for Book 1)
+- Iran's own way: the final-year theory book is applied: motor development, sport as a teaching tool, spoken communication for international sports settings (English for sport), sports testing and technique analysis — the knowledge a working coach/teacher needs.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran — Module 3 "Developing verbal communication in international sports environments" — spoken English and communication for international sport (original target `sport-and-its-story/communicating-in-international-sport`) | Iran, *Specialised Technical Knowledge, PE field, Grade 12 (C212299)*, Module 3 "Developing verbal communication in international sports environments", printed p. 41 |
+
+Iran's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Iran's own way is content, as the book lines above record it: PE taught as a profession with a knowledge base — a Grade 10 theory book before any workshop book, workshop books of competency units with continuous and final assessment, team games taught as full coaching units with kabaddi standing as a full module beside them, and a special-needs fitness course of very short lessons with one idea each. Game and sport rules are taught only as the placements summarise them; no rules have been invented.

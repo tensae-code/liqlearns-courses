@@ -600,6 +600,44 @@ Mauritian sugarcane-field courses; and Grade 1 PE runs as
 two themes — People Around Me and My Country: Care for
 the Environment, ending in orienteering.
 
+**PE expansion — Iran — BUILT 2026-11-16:** 101 placements
+from Iran's official ministry (chap.sch.ir) books for the
+technical-vocational Physical Education field (رشته تربیت بدنی),
+in Persian — twelve books stocked (eleven student books
+and one teacher guide) — 88 into existing lessons
+(including canonical lessons built earlier in this
+expansion) and 13 as 8 new lessons (Freestyle Wrestling;
+Greco-Roman Wrestling; Table Tennis Coaching, Refereeing
+and Tactics; Skill-Related Fitness; Sport for Older
+People; Fun Trick Skills; Aerobic Gymnastics Steps and
+Choreography; Traditional Games of Iran) — bringing this
+course to **163 lessons**. The student books are
+student-book stock, inside the acceptance counts; Book 13
+(the special-needs Year 2 teacher's guide, C182-25) is
+teacher-guide evidence only, outside the acceptance
+counts. No Iran placement resolves to a Health-course
+lesson through the PE slug registry, so none was excluded
+as Health-bound; the books' Health parts (the Student
+Companion's safety, health and ergonomics chapter, the
+sports-nutrition modules — Book 11's cross-filed as HELD
+in the Health placements file — the injury-prevention
+module and the special-needs book's safety lesson) are
+cross-filed in iran-health-placements.md and placed in
+the Health course. Books 10 (Use of New Technologies,
+C211136) and 14 (Biology, C210156) are record-only —
+other subjects entirely — with 0 placements. Iran's own
+way is content: PE taught as a profession with a
+knowledge base — a Grade 10 theory book before any
+workshop book, workshop books of competency units with
+continuous and final assessment, wrestling for boys and
+rhythmic gymnastics and aerobics for girls, team games
+taught as full coaching units with kabaddi standing as a
+full module beside them, Iran's own games (bazi-ye
+vasati, gorgam-be-hava, haft-sang) named as heritage
+inside the play chapter, and a special-needs fitness
+course of very short one-idea lessons ending with
+شیرین‌کاری, entertaining trick skills.
+
 ## Unit 1 — Moving Basics
 
 1. **Combined Travelling and On-the-Spot Movements** (`moving-basics/combined-travelling-and-on-the-spot`) — joining travelling movements together, joining on-the-spot movements together, and chaining the two families in one sequence.
@@ -651,6 +689,9 @@ the Environment, ending in orienteering.
 19. **Energy Systems for Exercise** (`fitness-and-stretching/energy-systems-for-exercise`) — energy systems for exercise: how the muscles are powered, from instant sprints to endurance, and oxygen debt in recovery — taught in Fiji's Year 11 student book as Exercise Physiology: Energy Systems, the three energy systems that power activity, and in its Years 9 & 10 student book as oxygen debt in muscular exercise and recovery (Fiji's student books).
 20. **Body Composition and BMI** (`fitness-and-stretching/body-composition-and-bmi`) — body composition and BMI: what the body is made of, body fat, and body types — taught in Fiji's Years 9 & 10 student book as Body Mass Index, with a local BMI chart for iTaukei and other Fijians, and body shapes and the sports they suit, and in its Year 6 Teachers Guide as body composition and body mass index (Fiji's student book; its teacher guide, evidence only).
 
+21. **Skill-Related Fitness** (`fitness-and-stretching/skill-related-fitness`) — skill-related fitness: coordination and the fitness skills — doing movements together smoothly, trained through coordination games — taught in Iran's special-needs Year 1 fitness book as its Coordination lesson (Iran's student book).
+22. **Sport for Older People** (`fitness-and-stretching/sport-for-older-people`) — sport for older people: which sports suit older people and how to take part safely — taught in Iran's Grade 11 Health and Lifestyle with Sport book as Sport for the elderly: kinds of older people and which sports suit each, safely (Iran's student book).
+
 ## Unit 3 — Gymnastics
 
 1. **Balance and Calisthenics** (`gymnastics/balance-and-calisthenics`) — holding your balance without falling, and calisthenics sets for arms, shoulders and legs.
@@ -665,6 +706,8 @@ the Environment, ending in orienteering.
 
 9. **Yoga Poses and Breathing** (`gymnastics/yoga-poses-and-breathing`) — yoga poses and breathing: the asanas, the sun salutation, and breathing exercises (pranayama) for flexibility and calm — taught in Honduras's Grade 9 student book as yoga in nature: postures named after animals and natural things (Mountain, Tree, Dog, Cat, Cow, Fish) and the Sun Salutation (Saludo al Sol) practised outdoors (Honduras's student book).
 
+10. **Aerobic Gymnastics Steps and Choreography** (`gymnastics/aerobic-gymnastics-steps-and-choreography`) — aerobic gymnastics: the basic steps and building routines and choreography from them — taught in Iran's girls' Grade 10 book as basic aerobics moves and step and aerobics chains (Iran's student book).
+
 ## Unit 4 — Athletics
 
 1. **Baton Relay Racing** (`athletics/baton-relay-racing`) — the baton relay — a team race won or lost at the changeover, with its two techniques: upsweep and downsweep.
@@ -675,6 +718,9 @@ the Environment, ending in orienteering.
 6. **Skiing for Beginners** (`athletics/skiing-for-beginners`) — skiing for beginners: the sliding step, the alternating stride, descending in a stance, the step turn, climbing "ladder" style, covering 2–3 km and free skiing, with safety theory and drill on skis (Kazakhstan's Grade 4 teacher guide, evidence only).
 7. **The Rules of Athletics** (`athletics/the-rules-of-athletics`) — the rules of athletics competition: starts, false starts, and the jump, throw and track rules — taught in Pakistan's Grade 7 book as Rules and Skills of Athletics and in its Grade 8 book inside Rules and Skills of Sports and Athletics (Pakistan's student books).
 8. **Orienteering and Hiking** (`athletics/orienteering-and-hiking`) — orienteering and hiking: reading a map and plan, using a compass, following a route and walking the land — taught in China's Senior High book as orienteering (定向运动): moving by map and compass (China's student book).
+
+9. **Freestyle Wrestling** (`athletics/wrestling-freestyle`) — freestyle wrestling: holds, throws and scoring — taught in Iran's boys' Grade 10 book as freestyle wrestling techniques, Iran's flagship sport (Iran's student book).
+10. **Greco-Roman Wrestling** (`athletics/wrestling-greco-roman`) — Greco-Roman wrestling: upper-body holds and throws — taught in Iran's boys' Grade 10 book as Greco-Roman wrestling techniques (Iran's student book).
 
 ## Unit 5 — Ball Games
 
@@ -705,6 +751,8 @@ the Environment, ending in orienteering.
 
 23. **The Rules of Badminton** (`ball-games/the-rules-of-badminton`) — the rules of badminton: court, equipment, scoring and how a match is played — taught in Fiji's Year 8 Teachers Guide as badminton skills and rules, including doubles play and service courts (Fiji's teacher guide, evidence only).
 
+24. **Table Tennis Coaching, Refereeing and Tactics** (`ball-games/table-tennis-coaching-refereeing-and-tactics`) — table tennis beyond playing: coaching points, refereeing, tactics, doubles and scoring — taught in Iran's Grade 10 Agility–Mental Skills book as coaching, refereeing and tactics, and in its special-needs Year 2 teacher's guide as spin, push, chop, doubles and scoring (Iran's student book; its teacher guide, evidence only).
+
 ## Unit 6 — Games to Play
 
 1. **Games for Awareness and Quick Response** (`games-to-play/games-for-awareness-and-quick-response`) — the Grade 3 book's new games family — awareness (ንቃተ ህሊና): hearing, feeling and responding the instant the moment comes.
@@ -720,6 +768,8 @@ the Environment, ending in orienteering.
 
 11. **Running a Class League** (`games-to-play/running-a-class-league`) — running a class league: league seasons, tournaments and sport festivals — fixtures, pupil roles (player, referee, coach, organiser) and learning a sport in depth — taught in Fiji's Year 8 Teachers Guide as intramural games and keeping self-control, and how teachers evaluate their classes (Fiji's teacher guide, evidence only).
 12. **Indoor Board and Table Games** (`games-to-play/indoor-board-and-table-games`) — indoor board and table games: cards, Snakes and Ladders, draughts, carrom and making your own boards — taught in Fiji's Year 4 Teachers Handbook as indoor games: cards, Snakes and Ladders, Monopoly and making your own draughts boards, invented for amusement when confined indoors (Fiji's teacher guide, evidence only).
+
+13. **Fun Trick Skills** (`games-to-play/fun-trick-skills`) — fun trick skills: showy trick skills performed for fun — taught in Iran's special-needs Year 1 fitness book as شیرین‌کاری, entertaining trick skills (Iran's student book).
 
 ## Unit 7 — Traditional Games and Dances
 
@@ -765,6 +815,8 @@ the Environment, ending in orienteering.
 38. **Traditional Games of Fiji** (`traditional-games-and-dances/traditional-games-of-fiji`) — Fijian team, chasing and target games such as Veibuka, Veisole and Veicibi — taught across Fiji's Year 3, 4, 6 and 8 teacher guides/handbooks: Veibuka, Veisole, Veileveleveti, Veitara, Veisabiliga, Veicibi, Veilavo, Vakadovu, Vakatalolovo, the field, reed and lemon games, Veitiqa and Veitiqa Cori (Fiji's teacher guides, evidence only).
 39. **Traditional Games of India** (`traditional-games-and-dances/traditional-games-of-india`) — Indian games such as Kancha (marbles), Poshampa, Bambaram and Mallakhamb — taught in Fiji's Year 8 Teachers Guide as the games of Fiji's Indian community from ancient India: Kancha, Kho Kho with its full rules, Poshampa, Pachisi, Kith-Kith, DhopKhel and Pallanguli, and in its Year 4 Teachers Handbook as Bambaram, Mallakhamb and Gella-Chutt (Fiji's teacher guides, evidence only).
 40. **Dances from Around the World** (`traditional-games-and-dances/dances-from-around-the-world`) — dances of other peoples, such as Ceroc and Flamenco — taught in Fiji's Year 8 Teachers Guide as Ceroc (simplified jive) and Flamenco from Andalucia, Spain, with swirling skirts, castanets and heel stomping (Fiji's teacher guide, evidence only).
+
+41. **Traditional Games of Iran** (`traditional-games-and-dances/traditional-games-of-iran`) — traditional games of Iran: Iran's native and local games, their rules, and planning and running them — taught in Iran's Grade 10 theory book (old Iranian games named as heritage: bazi-ye vasati, gorgam-be-hava, haft-sang), its Grade 11 book (a catalogue of Iran's regional games) and its Grade 12 book (planning traditional games and sports as programmes) (Iran's student books).
 
 ## Unit 8 — Sport and Its Story
 
