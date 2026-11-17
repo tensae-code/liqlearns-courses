@@ -42,3 +42,11 @@ Balanced Diet** (`staying-safe/eating-a-balanced-diet`) and
 **Saying No to Drugs, Alcohol and Tobacco**
 (`staying-safe/saying-no-to-drugs-alcohol-and-tobacco`) —
 2 new lessons, bringing this course to 16 lessons.
+
+The Health expansion then added (Jordan): **Healthy Habits
+Every Day** (`staying-safe/healthy-habits-every-day`),
+**Staying Safe Online** (`staying-safe/staying-safe-online`),
+**Your Body in Exercise**
+(`staying-safe/your-body-in-exercise`) and **Puberty and
+Growing Up** (`staying-safe/puberty-and-growing-up`) —
+4 new lessons, bringing this course to 20 lessons.

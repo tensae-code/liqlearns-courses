@@ -140,6 +140,24 @@ and Preventing Sports Injuries and First Aid rose from 3 to
 Man and His Health, Grade 10*, is RECORD-ONLY — a Biology
 textbook, never placed — with 0 placements.
 
+**Health expansion — Jordan — BUILT 2026-11-16:** 6 placements
+from Jordan's NCCD PE student books (Arabic, 2024) stocked —
+2 into the existing Preventing Sports Injuries and First Aid
+lesson and 4 as new lessons (Healthy Habits Every Day,
+Staying Safe Online, Your Body in Exercise, Puberty and
+Growing Up) — bringing this course to **20 lessons**. The
+Jordan books are student books, so Jordan is student-book
+stock, inside the acceptance counts; each new lesson stands
+at acceptance count 1, and Preventing Sports Injuries and
+First Aid rose from 4 to 5 countries. Jordan was omitted
+from the original Health merge order; a coordinator audit
+found its Health placements unmerged — this merge closes
+that gap. One further Jordan Health-file placement
+(carrying the school bag safely, Grade 1 Term 2, printed
+p. 9) was NOT stocked here: the registry resolves it to the
+PE course's Correct Posture lesson, where it is stocked in
+the Physical Education course.
+
 ## Unit 1 — Staying Safe
 
 1. **Hygiene for Sport — Wash After Exercise** (`staying-safe/hygiene-for-sport`) — personal hygiene around sport: sweat and dirt left unwashed become a breeding place for bacteria — so wash the body after PE and sport, keep sports…
@@ -156,6 +174,10 @@ textbook, never placed — with 0 placements.
 10. **Hardening the Body** (`staying-safe/hardening-the-body`) — hardening the body: using air, sun, water and natural terrain to harden the body and build fitness, safely — taught in Tajikistan's Grades 1–4 Physical Culture book as sun, air and water — our best friends (including walking barefoot on grass and sand in summer), and water and the drinking regime — how much water to drink and when.
 11. **Eating a Balanced Diet** (`staying-safe/eating-a-balanced-diet`) — eating a balanced diet: the nutrients and food groups, what each does, and building balanced meals and menus — taught in Turkmenistan's Bedenterbiýe as the foundations of proper nutrition: the nutrition regime, the main composition of food, and the hygiene characterisation of the main food products.
 12. **Saying No to Drugs, Alcohol and Tobacco** (`staying-safe/saying-no-to-drugs-alcohol-and-tobacco`) — saying no to drugs, alcohol and tobacco: what these substances do, addiction, secondhand smoke, and refusing and quitting — taught in Turkmenistan's Bedenterbiýe as the harmful habits that damage health (Saglyga zeper ýetirýän zyýanly endikler) — the habits that injure health and why to stay away from them.
+13. **Healthy Habits Every Day** (`staying-safe/healthy-habits-every-day`) — healthy habits every day: the daily lifestyle — food, activity, hygiene, rest and check-ups — that keeps you healthy for life — taught in Jordan's Grade 1 PE Term 2 book as following daily healthy habits, telling healthy from unhealthy pictures and aiming a ball at the picture of a daily healthy habit.
+14. **Staying Safe Online** (`staying-safe/staying-safe-online`) — staying safe online: safe use of phones, the internet and social media, and cyberbullying — taught in Jordan's Grade 7 PE Term 2 book as the healthy and best use of technology: useful educational content instead of wasting time, avoiding long sitting in front of screens, regular breaks and exercise, and what technology has done for sport (e.g. the video assistant referee).
+15. **Your Body in Exercise** (`staying-safe/your-body-in-exercise`) — your body in exercise: how the heart, lungs, blood and muscles respond to exercise, and monitoring your own state — taught in Jordan's Grade 7 PE Term 2 book as sport and the respiratory system: the respiratory system's organs and gas exchange, and how sport improves it (better gas exchange in the alveoli, more oxygen to the blood, lower asthma risk) with breathing exercises.
+16. **Puberty and Growing Up** (`staying-safe/puberty-and-growing-up`) — puberty and growing up: the changes of adolescence in body, feelings and life, and the stages of growth and life — taught in Jordan's Grade 9 PE Term 2 book as adolescence and sport: adolescence as the stage between childhood and maturity, sport as a lifestyle (choosing a suitable sport, a timetable, variety and balance, self-reward), and its benefits for adolescents (physical growth, stronger muscles and bones, mental health, less stress, self-confidence).
 
 ## Unit 2 — Fair Play and the Body
 
