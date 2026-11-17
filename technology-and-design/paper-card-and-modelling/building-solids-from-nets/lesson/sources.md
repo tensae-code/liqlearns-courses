@@ -1,6 +1,6 @@
 # Sources — Building solids from nets
 
-countries: Kazakhstan
+countries: Kazakhstan, Mongolia
 
 **Book 1:** Labour Training Grade 3, student book (Muratkyzy; Kazakh + Russian parallel) — Title as printed: Еңбекке баулу 3 (Muratkyzy G., Kazybekkyzy A., Kisimisov E.) Publisher: Atamura, Almaty, 2024; ISBN 978-601-10-0428-8. Grade 3. Languages: Kazakh (1176.pdf, read) + Russian (1177.pdf, parallel edition — placed once here). Pages: 193 PDF pp. (1176.pdf fetched by me via the tree route, 5.0 MB; the PDF carries each printed page twice — the printed book is 96 pp.) — page count verified by me; contents at printed pp. 94–95. Parallel spot-check by me: 1177.pdf (Russian, Kisimisov E.T. et al., Atamura 2024, ISBN 978-601-10-0425-1) is 113 PDF pp. / 112 printed pp. — the staging record's "225 pages" for 1177.pdf is a record error (minor library debt). Art content: placed by the Art wave (its Books 25 + 36) — not re-placed here. Glossary (printed p. 92) inventory only; Lesson 26 is the closing/review lesson. COMPLETE (technology parts). Placements at liqlearns-courses-work/expansion-td-2026-11-17/kazakhstan-placements.md.
 
@@ -11,8 +11,17 @@ countries: Kazakhstan
 | Assembly from flat-pack nets — assembling flat-pack paper toys (giraffe, elephant); a toy vehicle built from boxes and bottles (Section 7 lessons) (original string `Assembly from flat-pack nets`) | Kazakhstan, *KZ G3 Muratkyzy Labour*, printed pp. 74–81 |
 | Box construction from a net — gift wrapping: a folding box built from its net; a festive card with a volume carnation (Section 8 topics) (original string `Box construction from a net`) | Kazakhstan, *KZ G3 NIS Syzdykov Labour*, printed pp. 114–128 |
 
-**Acceptance count: taught in 1 country (Kazakhstan).**
+**Book 3:** *Дүрслэх урлаг, технологи 4 (Visual Art & Technology, Grade 4)* (student book) — Authors: Д.Цэдэн-Иш, А.Ариунболд, Б.Ариунболор, З.Баярмагнай, О.Болор, У.Лхагвадорж, С.Оттонтуяа, С.Цолмон, Г.Чулуунаа. Publisher: Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar. Year/edition: 2020, 7th printing (first edition 2014), ISBN 978-99973-69-59-8. Grade: 4. Language: Mongolian. Kind: student book. Pages: 75 PDF pp. (72 printed pp. + covers). Size verified: 16,111,375 bytes, exact release-asset size. Source + route: GitHub release asset `mid-size-books-9/grade-04-gov-mongolia-mongolia-grade-04-art-and-technology.pdf` via grab.py url. Cover verified. COMPLETE — read in full. Structure: Part I (printed pp. 6–37) is colour, drawing methods and Mongolian painting — placed by the Art wave, not here. Part II (printed pp. 38–71) is the technology part, placed below. Bibliography printed p. 72 (inventory only). Read method note (as filed): this book is an image-only scan with no text layer; it was read by a VISUAL-READ method — rendered pages read as images (every page viewed in contact sheets; covers, contents and technology pages also read at full resolution) — not by text extraction. Placements at liqlearns-courses-work/expansion-td-2026-11-17/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| taking a box apart, counting its faces, edges and glue tabs, and drawing the net with a ruler (original string `Building a rectangular solid from its net (дэлгээс)`) | Mongolia, *Art & Technology 4 (Mongolia)*, printed p. 40 |
+| Drawing and building a parallelepiped (rectangular box) from its net, step by step (original string `Drawing and building a parallelepiped (rectangular box) from its net, step by step`) | Mongolia, *Art & Technology 4 (Mongolia)*, printed p. 44 |
+
+**Acceptance count: taught in 2 countries (Kazakhstan, Mongolia).**
 
 Kazakhstan's own way: Kazakhstan teaches this inside Художественный труд / Көркем еңбек (Artistic Labour) and Трудовое обучение / Еңбекке баулу (Labour Training), where making is learned by making — Assembling flat-pack paper toys (giraffe, elephant); a toy vehicle built from boxes and bottles (Section 7 lessons). The Kazakh classroom's own examples, materials and national crafts named in the provenance rows above are part of the teaching, not decoration.
 
-Searchable tags: building solids from nets, paper, card and modelling, Kazakhstan, Artistic Labour, Художественный труд, Көркем еңбек, Labour Training, Трудовое обучение, Еңбекке баулу
+Mongolia's own way: Mongolia teaches this inside Visual Art & Technology (Дүрслэх урлаг, технологи) — taking a box apart, counting its faces, edges and glue tabs, and drawing the net with a ruler. The Mongolian classroom's own examples named in the provenance rows above are part of the teaching, not decoration. Mongolia's books are image-only scans read by a VISUAL-READ method, as filed in the book entries above.
+
+Searchable tags: building solids from nets, paper, card and modelling, Kazakhstan, Artistic Labour, Художественный труд, Көркем еңбек, Labour Training, Трудовое обучение, Еңбекке баулу, Mongolia, visual read

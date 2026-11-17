@@ -1,6 +1,6 @@
 # Sources — Line types on drawings
 
-countries: Belarus, Malta, Moldova, Sri Lanka
+countries: Belarus, Malta, Moldova, Sri Lanka, Mongolia
 
 **Book 1:** *Design and Technology — Graphical Communication Component — Workbook 1 ("Communicate Graphically")* (workbook) — Malta, Directorate for Quality and Standards in Education, Curriculum Management Department, Malta, 2015; designed by Michael Mallia (Education Officer, Graphical Communication). Grade: Year 7. Language: English. Pages: 20 PDF pp.; printed pagination pp. 2–16 + self-check page; verified byte size 3,109,455 = record size. Kind: workbook (graded exercise workbook; each section is taught through worked examples to copy and graded practice — the exercises are the teaching items; the closing "I can" self-assessment page is assessment-only and is not placed). Source + route: tensae-code/liqlearns-textbooks, tree route via grab.py — grade-07/gov/malta/design-and-technology/workbook/graphical-communication-workbook-1-year-7.pdf. Read: COMPLETE. Placements at liqlearns-courses-work/expansion-td-2026-11-17/malta-placements.md.
 
@@ -17,7 +17,13 @@ countries: Belarus, Malta, Moldova, Sri Lanka
 | The line table: thick continuous = the object's contour; thin continuous = auxiliary/dimension line; dashed = invisible parts (holes); dash-dot = symmetry/centre line; two-dot = the fold line of a development (original string `types of lines in technical drawing`) | Moldova, *Educația tehnologică — Manual pentru clasele a 5-a – a 6-a (Grade 5 half)*, printed p. 14 |
 | Standard line types and what each line means on a drawing (original string `standard line types and what each line means on a drawing`) | Sri Lanka, *Grade 12 Engineering Technology Part VI — Engineering Drawing*, printed p. 25 |
 
-**Acceptance count: taught in 4 countries (Belarus, Malta, Moldova, Sri Lanka).**
+**Book 5:** *Дизайн технологи 6 (Design Technology, Grade 6)* (student book) — Authors: А.Алтантуул, Ч.Алтанчимэг, М.Баасанбаяр, В.Баяржаргал, Р.Гоцбаяр, С.Нямсүрэн, Д.Сэрээтэрдорж, Г.Чулуунаа. Publisher: Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar. Year/edition: 2019, 3rd printing (first edition 2017), ISBN 978-99978-61-00-9. Grade: 6. Language: Mongolian. Kind: student book. Pages: 111 PDF pp. (112 printed pp. incl. back cover). Size verified: 53,182,076 bytes, exact release-asset size. Source + route: GitHub release asset `mid-size-books-8/grade-06-gov-mongolia-mongolia-grade-06-design-technology.pdf` via grab.py url. Cover verified. COMPLETE — read in full. Structure: Unit I Design & drawing (printed pp. 5–27); Unit II Processing technology — textiles, sewing, crafts, food, the workshop, wood, metals (printed pp. 28–94); Unit III Technics (printed pp. 95–107). Bibliography printed p. 108 (inventory only). The book works throughout in five project stages: define the need, research, design, make/test, evaluate. Read method note (as filed): this book is an image-only scan with no text layer; it was read by a VISUAL-READ method — rendered pages read as images (every page viewed in contact sheets; covers, contents and technology pages also read at full resolution) — not by text extraction. Placements at liqlearns-courses-work/expansion-td-2026-11-17/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The line table: main line 0.9–1.5 mm, thin line 0.5–0.7 mm, wavy line, centre/dash line, and dimension lines with their arrowheads and number placement (original string `Line types and their thicknesses in technical drawing`) | Mongolia, *Design Technology 6 (Mongolia)*, printed p. 10 |
+
+**Acceptance count: taught in 5 countries (Belarus, Malta, Moldova, Sri Lanka, Mongolia).**
 
 Malta's own way: Malta teaches technical drawing as the Graphical Communication component of its Design and Technology subject, through graded workbooks — each skill is shown in a worked example to copy, then practised in graded exercises on grids and in the spaces provided, and closed with an "I can" self-check page (assessment-only, not placed). That copy-then-practise workbook way is carried in this lesson exactly as the book teaches it.
 
@@ -27,4 +33,6 @@ Moldova's own way: Moldova teaches the line types as one table inside the Grade 
 
 Sri Lanka's own way: Sri Lanka adds its Tamil-medium Technology stream teaching (Educational Publications Department; visual-read method, as filed in the book entries above) — standard line types and what each line means on a drawing.
 
-Searchable tags: line types, construction line, outline, centre line, fold line, Malta, Year 7, Graphical Communication, Moldova, Grades 5–6, line table, dash-dot, two-dot line, Sri Lanka
+Mongolia's own way: Mongolia teaches this inside Design Technology (Дизайн технологи) — The line table: main line 0.9–1.5 mm, thin line 0.5–0.7 mm, wavy line, centre/dash line, and dimension lines with their arrowheads and number placement. The Mongolian classroom's own examples named in the provenance rows above are part of the teaching, not decoration. Mongolia's books are image-only scans read by a VISUAL-READ method, as filed in the book entries above.
+
+Searchable tags: line types, construction line, outline, centre line, fold line, Malta, Year 7, Graphical Communication, Moldova, Grades 5–6, line table, dash-dot, two-dot line, Sri Lanka, Mongolia, visual read

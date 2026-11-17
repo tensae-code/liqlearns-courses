@@ -1,6 +1,6 @@
 # Sources — Geometrical constructions
 
-countries: Belarus, Cuba, Fiji, Malta
+countries: Belarus, Cuba, Fiji, Malta, Mongolia
 
 **Book 1:** *Design and Technology — Graphical Communication Component — Workbook 1 ("Communicate Graphically")* (workbook) — Malta, Directorate for Quality and Standards in Education, Curriculum Management Department, Malta, 2015; designed by Michael Mallia (Education Officer, Graphical Communication). Grade: Year 7. Language: English. Pages: 20 PDF pp.; printed pagination pp. 2–16 + self-check page; verified byte size 3,109,455 = record size. Kind: workbook (graded exercise workbook; each section is taught through worked examples to copy and graded practice — the exercises are the teaching items; the closing "I can" self-assessment page is assessment-only and is not placed). Source + route: tensae-code/liqlearns-textbooks, tree route via grab.py — grade-07/gov/malta/design-and-technology/workbook/graphical-communication-workbook-1-year-7.pdf. Read: COMPLETE. Placements at liqlearns-courses-work/expansion-td-2026-11-17/malta-placements.md.
 
@@ -29,7 +29,13 @@ countries: Belarus, Cuba, Fiji, Malta
 | Cap. 6 Construcciones geométricas (original string `geometrical constructions in drawing`) | Cuba, *Educación Laboral — Trabajos de Taller y Dibujo Básico — 7mo grado (1989 edition)*, PDF p. 146-158 |
 | Cap. 1 §1.1 Construcciones geométricas (original string `geometrical constructions in drawing`) | Cuba, *Educación Laboral — 8vo grado*, printed p. 1-14 |
 
-**Acceptance count: taught in 4 countries (Belarus, Cuba, Fiji, Malta).**
+**Book 8:** *Дизайн технологи 7 (Design Technology, Grade 7)* (student book) — Authors: Д.Сэрээтэрдорж (lead), Г.Чулуунаа, Д.Хөхөө, С.Оттонтуяа, Д.Алтанцацэг, У.Лхагвадорж, Ч.Алтанчимэг. Publisher: Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar. Year/edition: 2019, 2nd printing (first edition 2017), ISBN 978-99978-61-04-7. Grade: 7. Language: Mongolian. Kind: student book. Pages: 151 PDF pp. (148 printed pp. + covers). Size verified: 68,175,321 bytes, exact release-asset size. Source + route: GitHub release asset `mid-size-books-8/grade-07-gov-mongolia-mongolia-grade-07-design-technology.pdf` via grab.py url. Cover verified (circuit diagram, chain drive, dimensioned drawing). COMPLETE — read in full. Structure: Unit 1 Design drawing (printed pp. 8–34, incl. the packaging project); Unit 2 Processing technology (printed pp. 36–124); Unit 3 Technics (printed pp. 126–146). Answers to exercises printed p. 147, bibliography and web resources printed p. 148 (inventory only). Read method note (as filed): this book is an image-only scan with no text layer; it was read by a VISUAL-READ method — rendered pages read as images (every page viewed in contact sheets; covers, contents and technology pages also read at full resolution) — not by text extraction. Placements at liqlearns-courses-work/expansion-td-2026-11-17/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| building an oval from two circles, and blending (filletting) two lines and two circles with a tangent arc of given radius (original string `Geometric constructions`) | Mongolia, *Design Technology 7 (Mongolia)*, printed p. 15 |
+
+**Acceptance count: taught in 5 countries (Belarus, Cuba, Fiji, Malta, Mongolia).**
 
 Cuba's own way: Cuba teaches geometrical constructions in Grade 8 (dividing the circumference into 3, 4 and 6 equal parts; acuerdos — tangency blends) and in the 1989 Grade 7 book as a full chapter — perpendicularity, parallels, angles, division of the circumference, tangency.
 
@@ -39,4 +45,6 @@ Malta's own way: Malta teaches technical drawing as the Graphical Communication 
 
 Belarus's own way: Belarus teaches geometric constructions as the drafter's graphic toolkit — dividing segments and angles, raising perpendiculars, drawing parallels and joining lines — the compass-and-straightedge work behind the later drawing constructions.
 
-Searchable tags: geometrical constructions, triangle, pentagon, hexagon, octagon, compasses, protractor, Malta, Year 7, Graphical Communication, Fiji, Cuba, Educación Laboral
+Mongolia's own way: Mongolia teaches this inside Design Technology (Дизайн технологи) — building an oval from two circles, and blending (filletting) two lines and two circles with a tangent arc of given radius. The Mongolian classroom's own examples named in the provenance rows above are part of the teaching, not decoration. Mongolia's books are image-only scans read by a VISUAL-READ method, as filed in the book entries above.
+
+Searchable tags: geometrical constructions, triangle, pentagon, hexagon, octagon, compasses, protractor, Malta, Year 7, Graphical Communication, Fiji, Cuba, Educación Laboral, Mongolia, visual read

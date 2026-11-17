@@ -1,6 +1,6 @@
 # Sources — Knitting
 
-countries: Moldova
+countries: Moldova, Mongolia
 
 **Book 1:** *Educație tehnologică — Manual pentru clasa a 4-a (Technological Education — Textbook for Grade 4)* (student textbook) — Moldova, Authors: Elena Grosu, Rodica Croitoru, Lucia Ciobanu, Ion Bălteanu. Publisher: Editura Epigraf, © 2017; approved by Order no. 455 of 31 May 2013 of the Minister of Education; ISBN 978-9975-60-251-8. Grade: Grade 4. Language: Romanian. Pages: 105 (PDF; printed p. = PDF p. − 1), verified byte size 40,111,053 = record size (record also states 105 pages). Source + route: tensae-code/liqlearns-textbooks, release asset in mid-size-books-8 (asset grade-04-gov-moldova-technological-education-student-moldova-g04-technological-education.pdf), downloaded via the Releases API asset route after the tree route failed and the release-object search missed it — grade-04/gov/moldova/technological-education/student/moldova-g04-technological-education.pdf. Kind: student textbook. Read: COMPLETE (all modules read; section openings and technique pages read in full). Placements at liqlearns-courses-work/expansion-td-2026-11-17/moldova-placements.md.
 
@@ -11,8 +11,16 @@ countries: Moldova
 | Knitting stitches worked step by step (knit and purl stitches, edge stitches, casting off) after the module's materials-and-tools introduction (original string `knitting: first techniques`) | Moldova, *Educație tehnologică — Manual pentru clasa a IV-a (Grade 4)*, printed p. 77 |
 | Knitting materials and tools; the basic elements and techniques (casting on and the first stitches); knitting patterns/models (original string `knitting: materials, tools and basic techniques`) | Moldova, *Educația tehnologică — Manual pentru clasele a 5-a – a 6-a (Grade 5 half)*, printed p. 72 |
 
-**Acceptance count: taught in 1 country (Moldova).**
+**Book 3:** *Дизайн технологи 8 (Design Technology, Grade 8)* (student book) — Authors: Г.Чулуунаа (lead), Д.Сэрээтэрдорж, Р.Гоцбаяр, У.Лхагвадорж, Д.Алтанцацэг, С.Гэрэлтуяа, М.Баасанбаяр, С.Нямсүрэн, С.Цолмон. Publisher: Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar. Year/edition: 2019, 3rd printing (first edition 2015), ISBN 978-99962-74-34-3. Grade: 8. Language: Mongolian. Kind: student book. Pages: 95 PDF pp. (96 printed pp. incl. covers). Size verified: 24,800,859 bytes, exact release-asset size. Source + route: GitHub release asset `mid-size-books-8/grade-08-gov-mongolia-mongolia-grade-08-design-technology.pdf` via grab.py url. Cover verified (projection cube, gear-toy hedgehog, hot-wire cutter, planetary gears). COMPLETE — read in full. Structure: Unit 1 Design drawing (printed pp. 8–24); Unit 2 Processing technology — five projects: skirt, knitting, healthy food, wooden toy, plus metals and plastics (printed pp. 26–78); Unit 3 Technics — model aircraft and moving-product projects (printed pp. 80–92). Read method note (as filed): this book is an image-only scan with no text layer; it was read by a VISUAL-READ method — rendered pages read as images (every page viewed in contact sheets; covers, contents and technology pages also read at full resolution) — not by text extraction. Placements at liqlearns-courses-work/expansion-td-2026-11-17/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| casting on, knit and purl stitches, chart symbols, and the tension swatch (counting stitches and rows) (original string `Knitting with two needles`) | Mongolia, *Design Technology 8 (Mongolia)*, printed p. 43 |
+
+**Acceptance count: taught in 2 countries (Moldova, Mongolia).**
 
 Moldova's own way: Moldova teaches knitting in both books as a complete small system — materials and tools, casting on, knit and purl step by step, edge stitches, casting off, and patterns/models to work from.
 
-Searchable tags: knitting, knit stitch, purl stitch, casting on, casting off, edge stitches, patterns, Moldova, Grade 4, Grades 5–6, Romanian
+Mongolia's own way: Mongolia teaches this inside Design Technology (Дизайн технологи) — casting on, knit and purl stitches, chart symbols, and the tension swatch (counting stitches and rows). The Mongolian classroom's own examples named in the provenance rows above are part of the teaching, not decoration. Mongolia's books are image-only scans read by a VISUAL-READ method, as filed in the book entries above.
+
+Searchable tags: knitting, knit stitch, purl stitch, casting on, casting off, edge stitches, patterns, Moldova, Grade 4, Grades 5–6, Romanian, Mongolia, visual read

@@ -1,0 +1,9 @@
+# Hands-on — Where paper comes from and how it is made
+
+Real practice — this subject is learned by doing.
+
+## First make
+Do the lesson's central task with real materials, following the sequence in lesson/lesson.md: the industrial paper-making process in nine stages, from forest to finished paper, and why forests must be protected. Say each step aloud as you do it.
+
+## Check and compare
+Compare your finished work with the lesson's own checks. Fix one thing you find, and tell your partner what you changed and why.

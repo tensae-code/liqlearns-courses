@@ -1,6 +1,6 @@
 # Sources — Metalwork — tools and operations
 
-countries: Cuba
+countries: Cuba, Mongolia
 
 **Book 1:** *Programa: Educación Laboral — 6to grado* (programme) — Publisher: not stated in file (Ministerio de Educación, Cuba programme; older programme series — the file references the G5/G6 pupil textbooks and the 1981 huertos manual) | Year: not stated in file | Grade: 6 | Language: Spanish | Pages: 20 PDF pp | Source: GitHub tree `grade-06/gov/cuba/educacion-laboral/teacher/full-year.pdf`, 191,067 bytes — cover check: the file has NO cover; it opens with the subject characterisation (PDF p. 1) | Kind: teacher (programme) | COMPLETE as filed (20 pp: characterisation, grade objectives, plan temático and the full unit contents for Units 1–4 plus Unit 5 heading; pages unnumbered, cited by PDF page) Note: Unit 3 (Trabajos sencillos de cocina — food conservation, preserves, formal table, cold dishes) is home-science cooking and is NOT placed. Unit 5 (La labor económica más importante del territorio) is workplace visits — not placed. — Kind: EVIDENCE (programme/teacher guide) — placements sourced from this document are stocked as evidence rows and stay outside the acceptance counts. Placements at liqlearns-courses-work/expansion-td-2026-11-17/cuba-placements.md.
 
@@ -20,8 +20,16 @@ countries: Cuba
 | Cap. 3 (original string `metalwork tools and operations`) | Cuba, *Educación Laboral — Trabajos de Taller y Dibujo Básico — 7mo grado (1989 edition)*, PDF p. 50-60 |
 | Cap. 2 §2.2 (original string `metalwork tools and operations`) | Cuba, *Educación Laboral — 8vo grado*, printed p. 77-121 |
 
-**Acceptance count: taught in 1 country (Cuba)** — the programme and methodological-orientations rows above are Cuba evidence only, named here, counted nowhere.
+**Book 6:** *Дизайн технологи 7 (Design Technology, Grade 7)* (student book) — Authors: Д.Сэрээтэрдорж (lead), Г.Чулуунаа, Д.Хөхөө, С.Оттонтуяа, Д.Алтанцацэг, У.Лхагвадорж, Ч.Алтанчимэг. Publisher: Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar. Year/edition: 2019, 2nd printing (first edition 2017), ISBN 978-99978-61-04-7. Grade: 7. Language: Mongolian. Kind: student book. Pages: 151 PDF pp. (148 printed pp. + covers). Size verified: 68,175,321 bytes, exact release-asset size. Source + route: GitHub release asset `mid-size-books-8/grade-07-gov-mongolia-mongolia-grade-07-design-technology.pdf` via grab.py url. Cover verified (circuit diagram, chain drive, dimensioned drawing). COMPLETE — read in full. Structure: Unit 1 Design drawing (printed pp. 8–34, incl. the packaging project); Unit 2 Processing technology (printed pp. 36–124); Unit 3 Technics (printed pp. 126–146). Answers to exercises printed p. 147, bibliography and web resources printed p. 148 (inventory only). Read method note (as filed): this book is an image-only scan with no text layer; it was read by a VISUAL-READ method — rendered pages read as images (every page viewed in contact sheets; covers, contents and technology pages also read at full resolution) — not by text extraction. Placements at liqlearns-courses-work/expansion-td-2026-11-17/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| forging and rolling, cutting with chisel and shears, and heat treatment (hardening and tempering) (original string `Working metal`) | Mongolia, *Design Technology 7 (Mongolia)*, printed p. 105 |
+
+**Acceptance count: taught in 2 countries (Cuba, Mongolia)** — the programme and methodological-orientations rows above are Cuba evidence only, named here, counted nowhere.
 
 Cuba's own way: Cuba's metalwork is taught as a complete bench discipline in Grade 8 — tools, the full operation chain, riveted joints, and finishing and protecting the metal.
 
-Searchable tags: metalwork — tools and operations, Cuba, Educación Laboral, MINED, Spanish, metal
+Mongolia's own way: Mongolia teaches this inside Design Technology (Дизайн технологи) — forging and rolling, cutting with chisel and shears, and heat treatment (hardening and tempering). The Mongolian classroom's own examples named in the provenance rows above are part of the teaching, not decoration. Mongolia's books are image-only scans read by a VISUAL-READ method, as filed in the book entries above.
+
+Searchable tags: metalwork — tools and operations, Cuba, Educación Laboral, MINED, Spanish, metal, Mongolia, visual read

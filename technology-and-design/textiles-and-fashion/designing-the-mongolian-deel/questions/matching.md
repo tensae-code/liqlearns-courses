@@ -1,0 +1,11 @@
+# Designing the Mongolian deel — matching
+
+Match each item on the left with the one on the right.
+
+**1. (Sub lesson 1)** Sub lesson 1 — Designing the Mongolian deel
+
+**2. (Sub lesson 2)** Sub lesson 2 — Designing the Mongolian deel — doing it yourself
+
+**3. (Sub lesson 1)** Mongolia — Design Technology (Дизайн технологи)
+
+**Answer key:** Sub lesson 1 → Designing the Mongolian deel; Sub lesson 2 → Designing the Mongolian deel — doing it yourself; Mongolia → Design Technology (Дизайн технологи)

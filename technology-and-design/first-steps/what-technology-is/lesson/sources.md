@@ -1,6 +1,6 @@
 # Sources — What technology is
 
-countries: Azerbaijan, Canada, Indonesia, Iran, Malaysia, Papua New Guinea
+countries: Azerbaijan, Canada, Indonesia, Iran, Malaysia, Papua New Guinea, Mongolia
 
 **Book 1:** *Technology in the Community* (Tulliniliara Reading Series, Level 14) (student reader) — Canada, Government of Nunavut (Department of Education / Department of Family Services), developed and published in Canada by Inhabit Education. Written by Jordan Hoffman, illustrated by Ali Hinch. Publisher: Inhabit Education / Government of Nunavut, © 2019, ISBN 978-0-2287-0447-8 (English edition). Grade: nursery / early level (Tulliniliara Level 14). English edition `Technology-in-the-Community-English.pdf` (1,659,080 bytes, 36 PDF pp.) and Inuktitut edition `Technology-in-the-Community-Inuktitut.pdf` (1,688,700 bytes, 36 PDF pp.) — same book, same structure and pagination, verified from covers and text (parallel editions, read once, placed once). Kind: student reader. Route: grab.py tree. Source: private repo `tensae-code/liqlearns-textbooks` (recorded pushed in phase3-push-state.json), fetched 2026-11-17 via grab.py tree route. Cover verified: "Technology in the Community", Tulliniliara 14. COMPLETE — read to the last teaching page (printed p. 32; back pages are imprint). Placements at liqlearns-courses-work/expansion-td-2026-11-17/canada-placements.md.
 
@@ -34,7 +34,13 @@ countries: Azerbaijan, Canada, Indonesia, Iran, Malaysia, Papua New Guinea
 |---|---|
 | Unit 11.1 frame + the six subject learning outcomes (design process, safe codes/practices, selecting materials/systems, skills and techniques, evaluating against the design brief, communicating ideas) (teacher guide — evidence) (original string `introduction to design and technology`) | Papua New Guinea, *PNG DesignTech Upper*, printed p. 6, 10, 21-22 |
 
-**Acceptance count: taught in 4 countries (Azerbaijan, Canada, Iran, Malaysia) — plus teacher-guide evidence only (Indonesia, Papua New Guinea), named here, counted nowhere.**
+**Book 7:** *Дизайн технологи 6 (Design Technology, Grade 6)* (student book) — Authors: А.Алтантуул, Ч.Алтанчимэг, М.Баасанбаяр, В.Баяржаргал, Р.Гоцбаяр, С.Нямсүрэн, Д.Сэрээтэрдорж, Г.Чулуунаа. Publisher: Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar. Year/edition: 2019, 3rd printing (first edition 2017), ISBN 978-99978-61-00-9. Grade: 6. Language: Mongolian. Kind: student book. Pages: 111 PDF pp. (112 printed pp. incl. back cover). Size verified: 53,182,076 bytes, exact release-asset size. Source + route: GitHub release asset `mid-size-books-8/grade-06-gov-mongolia-mongolia-grade-06-design-technology.pdf` via grab.py url. Cover verified. COMPLETE — read in full. Structure: Unit I Design & drawing (printed pp. 5–27); Unit II Processing technology — textiles, sewing, crafts, food, the workshop, wood, metals (printed pp. 28–94); Unit III Technics (printed pp. 95–107). Bibliography printed p. 108 (inventory only). The book works throughout in five project stages: define the need, research, design, make/test, evaluate. Read method note (as filed): this book is an image-only scan with no text layer; it was read by a VISUAL-READ method — rendered pages read as images (every page viewed in contact sheets; covers, contents and technology pages also read at full resolution) — not by text extraction. Placements at liqlearns-courses-work/expansion-td-2026-11-17/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Leonardo da Vinci's machine studies, and the machines of ancient Mongolia (siege and lifting machines) (original string `What technics is`) | Mongolia, *Design Technology 6 (Mongolia)*, printed p. 95 |
+
+**Acceptance count: taught in 5 countries (Azerbaijan, Canada, Iran, Malaysia, Mongolia) — plus teacher-guide evidence only (Indonesia, Papua New Guinea), named here, counted nowhere.**
 
 Papua New Guinea's own way: Papua New Guinea teaches this inside Technology and Industrial Arts (TIA), Standards-Based — Unit 11.1 frame + the six subject learning outcomes (design process, safe codes/practices, selecting materials/systems, skills and techniques, evaluating against the design brief, communicating ideas). The PNG classroom's own examples named in the provenance rows above are part of the teaching, not decoration.
 
@@ -48,4 +54,6 @@ Malaysia's own way: Malaysia teaches what technology is in Tahun 4 as applied sc
 
 Iran's own way: Iran opens Grade 11 *Use of New Technologies* with technological literacy itself — what technology and technological literacy are and why they are needed, set beside scientific literacy, weighing the benefits and harms of new technologies and technology's place in future jobs — and then maps the domains of technological literacy: history of technology (taught through the DDT case), futures study (the Lake Urmia warning), critical and cultural literacy of technology, and technology ethics.
 
-Searchable tags: technology, what technology is, community technology, first steps, Nunavut, Canada, Tulliniliara, materials, processing, Azerbaijan, Grade 2, Russian edition, Malaysia, Tahun 4, RBT, fields of technology, Kuala Lumpur, Iran, Grade 11, Persian, Indonesia, Prakarya, teacher guide evidence, Papua New Guinea, Technology and Industrial Arts, TIA, teacher guide evidence
+Mongolia's own way: Mongolia teaches this inside Design Technology (Дизайн технологи) — Leonardo da Vinci's machine studies, and the machines of ancient Mongolia (siege and lifting machines). The Mongolian classroom's own examples named in the provenance rows above are part of the teaching, not decoration. Mongolia's books are image-only scans read by a VISUAL-READ method, as filed in the book entries above.
+
+Searchable tags: technology, what technology is, community technology, first steps, Nunavut, Canada, Tulliniliara, materials, processing, Azerbaijan, Grade 2, Russian edition, Malaysia, Tahun 4, RBT, fields of technology, Kuala Lumpur, Iran, Grade 11, Persian, Indonesia, Prakarya, teacher guide evidence, Papua New Guinea, Technology and Industrial Arts, TIA, teacher guide evidence, Mongolia, visual read

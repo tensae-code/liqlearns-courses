@@ -1,6 +1,6 @@
 # Sources — Metals and alloys
 
-countries: Cuba
+countries: Cuba, Mongolia
 
 **Book 1:** *Orientaciones metodológicas: Educación Laboral — 5to grado* (teacher guide (methodological orientations)) — Publisher: Ministerio de Educación, Cuba / Editorial Pueblo y Educación | Year: 2024 (ISBN 978-959-13-4684-1 print, 978-959-13-4685-8 digital) | Authors: Soler Nariño, Cerezal Mezquita, Ordóñez Suárez | Grade: 5 | Language: Spanish | Pages: 103 PDF pp (printed 1–97 + annexes) | Source: GitHub tree `grade-05/gov/cuba/educacion-laboral/teacher/orientaciones.pdf`, 799,314 bytes, cover verified (title page PDF p. 2; PDF p. 1 is blank) | Kind: teacher (methodological orientations) | COMPLETE Note: no G5 programme or pupil book is in this group's targets — this volume is the only G5 evidence and it carries the grade's unit structure. Unit 3 (Trabajos sencillos de cocina, printed p. 49–56) is home-science cooking and is NOT placed. Unit 5 (La labor económica más importante del territorio, printed p. 70–74) is workplace visits/interviews — vocational context, not a teaching item, not placed. — Kind: EVIDENCE (programme/teacher guide) — placements sourced from this document are stocked as evidence rows and stay outside the acceptance counts. Placements at liqlearns-courses-work/expansion-td-2026-11-17/cuba-placements.md.
 
@@ -17,8 +17,16 @@ countries: Cuba
 | Unit 2 (original string `metals and alloys`) (programme — evidence) | Cuba, *Programa: Educación Laboral — 8vo grado*, printed p. 16-21 |
 | Cap. 2 §2.1 (original string `metals and alloys`) | Cuba, *Educación Laboral — 8vo grado*, printed p. 60-76 |
 
-**Acceptance count: taught in 1 country (Cuba)** — the programme and methodological-orientations rows above are Cuba evidence only, named here, counted nowhere.
+**Book 5:** *Дизайн технологи 6 (Design Technology, Grade 6)* (student book) — Authors: А.Алтантуул, Ч.Алтанчимэг, М.Баасанбаяр, В.Баяржаргал, Р.Гоцбаяр, С.Нямсүрэн, Д.Сэрээтэрдорж, Г.Чулуунаа. Publisher: Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar. Year/edition: 2019, 3rd printing (first edition 2017), ISBN 978-99978-61-00-9. Grade: 6. Language: Mongolian. Kind: student book. Pages: 111 PDF pp. (112 printed pp. incl. back cover). Size verified: 53,182,076 bytes, exact release-asset size. Source + route: GitHub release asset `mid-size-books-8/grade-06-gov-mongolia-mongolia-grade-06-design-technology.pdf` via grab.py url. Cover verified. COMPLETE — read in full. Structure: Unit I Design & drawing (printed pp. 5–27); Unit II Processing technology — textiles, sewing, crafts, food, the workshop, wood, metals (printed pp. 28–94); Unit III Technics (printed pp. 95–107). Bibliography printed p. 108 (inventory only). The book works throughout in five project stages: define the need, research, design, make/test, evaluate. Read method note (as filed): this book is an image-only scan with no text layer; it was read by a VISUAL-READ method — rendered pages read as images (every page viewed in contact sheets; covers, contents and technology pages also read at full resolution) — not by text extraction. Placements at liqlearns-courses-work/expansion-td-2026-11-17/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the families of metals (ferrous, non-ferrous, rare, precious), cast iron and steel, aluminium and copper — melting points and modern uses from bridges to aircraft (original string `Metals`) | Mongolia, *Design Technology 6 (Mongolia)*, printed p. 86 |
+
+**Acceptance count: taught in 2 countries (Cuba, Mongolia)** — the programme and methodological-orientations rows above are Cuba evidence only, named here, counted nowhere.
 
 Cuba's own way: Cuba builds metals in layers: sheet and wire properties in Grade 5, mines and corrosion in Grade 6, the four property families, alloys and metal recycling in Grade 8.
 
-Searchable tags: metals and alloys, Cuba, Educación Laboral, MINED, Spanish, metal
+Mongolia's own way: Mongolia teaches this inside Design Technology (Дизайн технологи) — the families of metals (ferrous, non-ferrous, rare, precious), cast iron and steel, aluminium and copper — melting points and modern uses from bridges to aircraft. The Mongolian classroom's own examples named in the provenance rows above are part of the teaching, not decoration. Mongolia's books are image-only scans read by a VISUAL-READ method, as filed in the book entries above.
+
+Searchable tags: metals and alloys, Cuba, Educación Laboral, MINED, Spanish, metal, Mongolia, visual read

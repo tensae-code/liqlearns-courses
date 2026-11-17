@@ -1,6 +1,6 @@
 # Sources — Plastics as a material
 
-countries: Cuba
+countries: Cuba, Mongolia
 
 **Book 1:** *Orientaciones metodológicas: Educación Laboral — 5to grado* (teacher guide (methodological orientations)) — Publisher: Ministerio de Educación, Cuba / Editorial Pueblo y Educación | Year: 2024 (ISBN 978-959-13-4684-1 print, 978-959-13-4685-8 digital) | Authors: Soler Nariño, Cerezal Mezquita, Ordóñez Suárez | Grade: 5 | Language: Spanish | Pages: 103 PDF pp (printed 1–97 + annexes) | Source: GitHub tree `grade-05/gov/cuba/educacion-laboral/teacher/orientaciones.pdf`, 799,314 bytes, cover verified (title page PDF p. 2; PDF p. 1 is blank) | Kind: teacher (methodological orientations) | COMPLETE Note: no G5 programme or pupil book is in this group's targets — this volume is the only G5 evidence and it carries the grade's unit structure. Unit 3 (Trabajos sencillos de cocina, printed p. 49–56) is home-science cooking and is NOT placed. Unit 5 (La labor económica más importante del territorio, printed p. 70–74) is workplace visits/interviews — vocational context, not a teaching item, not placed. — Kind: EVIDENCE (programme/teacher guide) — placements sourced from this document are stocked as evidence rows and stay outside the acceptance counts. Placements at liqlearns-courses-work/expansion-td-2026-11-17/cuba-placements.md.
 
@@ -11,8 +11,16 @@ countries: Cuba
 | Unit 2 closing guidance: plastic articles brought to class, properties observed, construction process (original string `plastics`) (teacher guide (methodological orientations) — evidence) | Cuba, *Orientaciones metodológicas: Educación Laboral — 5to grado*, printed p. 36, 47-48 |
 | Unit 2 §§2.5–2.6: nociones sobre el plástico; artículos de plástico recuperado (tracing with template, cutting, perforating on the sufridera) (original string `plastics`) (programme — evidence) | Cuba, *Programa: Educación Laboral — 6to grado*, PDF p. 10-11 |
 
-**Acceptance count: taught in 0 countries — Cuba programme/teacher-guide evidence only, named here, counted nowhere.**
+**Book 3:** *Дизайн технологи 8 (Design Technology, Grade 8)* (student book) — Authors: Г.Чулуунаа (lead), Д.Сэрээтэрдорж, Р.Гоцбаяр, У.Лхагвадорж, Д.Алтанцацэг, С.Гэрэлтуяа, М.Баасанбаяр, С.Нямсүрэн, С.Цолмон. Publisher: Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar. Year/edition: 2019, 3rd printing (first edition 2015), ISBN 978-99962-74-34-3. Grade: 8. Language: Mongolian. Kind: student book. Pages: 95 PDF pp. (96 printed pp. incl. covers). Size verified: 24,800,859 bytes, exact release-asset size. Source + route: GitHub release asset `mid-size-books-8/grade-08-gov-mongolia-mongolia-grade-08-design-technology.pdf` via grab.py url. Cover verified (projection cube, gear-toy hedgehog, hot-wire cutter, planetary gears). COMPLETE — read in full. Structure: Unit 1 Design drawing (printed pp. 8–24); Unit 2 Processing technology — five projects: skirt, knitting, healthy food, wooden toy, plus metals and plastics (printed pp. 26–78); Unit 3 Technics — model aircraft and moving-product projects (printed pp. 80–92). Read method note (as filed): this book is an image-only scan with no text layer; it was read by a VISUAL-READ method — rendered pages read as images (every page viewed in contact sheets; covers, contents and technology pages also read at full resolution) — not by text extraction. Placements at liqlearns-courses-work/expansion-td-2026-11-17/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| their history (Parkesine 1862, celluloid 1869) and the two families — thermosets (polyurethane, nylon, polycarbonate, textolite, phenolic) and thermoplastics (polystyrene, PMMA, polyethylene, PVC) with their uses (original string `Plastics`) | Mongolia, *Design Technology 8 (Mongolia)*, printed p. 73 |
+
+**Acceptance count: taught in 1 country (Mongolia) — Cuba programme/teacher-guide evidence only, named here, counted nowhere.**
 
 Cuba's own way: Cuba teaches plastics twice over: as knowledge (origin, heat behaviour, advantages) in the programmes, and as bench work — recovered plastic traced, cut and perforated on the sufridera.
 
-Searchable tags: plastics as a material, Cuba, Educación Laboral, MINED, Spanish, materials
+Mongolia's own way: Mongolia teaches this inside Design Technology (Дизайн технологи) — their history (Parkesine 1862, celluloid 1869) and the two families — thermosets (polyurethane, nylon, polycarbonate, textolite, phenolic) and thermoplastics (polystyrene, PMMA, polyethylene, PVC) with their uses. The Mongolian classroom's own examples named in the provenance rows above are part of the teaching, not decoration. Mongolia's books are image-only scans read by a VISUAL-READ method, as filed in the book entries above.
+
+Searchable tags: plastics as a material, Cuba, Educación Laboral, MINED, Spanish, materials, Mongolia, visual read

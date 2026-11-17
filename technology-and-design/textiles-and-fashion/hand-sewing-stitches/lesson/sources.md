@@ -1,6 +1,6 @@
 # Sources — Hand sewing stitches
 
-countries: Cuba, Samoa
+countries: Cuba, Samoa, Mongolia
 
 **Book 1:** *Food and Textiles Technology — Year 9, Book 3: Design & Textiles* (student) — Samoa, Government of Samoa, Ministry of Education, Sports and Culture (MESC), with NZAID. Year: 2004. Grade: Year 9. Language: English (with Samoan terms). Pages: 55 (53 printed pages + covers). Source: GitHub tree `grade-09/gov/samoa/food-textiles/student/book-3.pdf`, 4,296,067 bytes, cover verified (purple "Food and Textiles Technology — Design and Textiles, Book 3, Year 9"). Kind: student. Read: COMPLETE. Placements at liqlearns-courses-work/expansion-td-2026-11-17/samoa-placements.md.
 
@@ -23,8 +23,22 @@ countries: Cuba, Samoa
 | Unit 2: template tracing on cloth, threading/knotting/finishing, stitch demonstrator, cord/trenza/borla trims (original string `hand sewing stitches`) (programme — evidence; PARTIAL — 7-page excerpt, as filed) | Cuba, *Programa: Educación Laboral — 3er grado*, PDF p. 4-5 |
 | Unit 1 Trabajos sencillos de costura: known stitches (hilvanes, candelillas, punto atrás, dobladillo, pata de gallina, bastilla) + ojal; rellenos; tejido a mano para forrar varillas (original string `hand sewing stitches`) (programme — evidence) | Cuba, *Programa: Educación Laboral — 6to grado*, PDF p. 5-9 |
 
-**Acceptance count: taught in 1 country (Samoa) — plus programme/teacher-guide evidence only (Cuba), named here, counted nowhere.**
+**Book 6:** *Дүрслэх урлаг, технологи 5 (Visual Art & Technology, Grade 5)* (student book) — Authors: Д.Цэдэн-Иш, А.Ариунболд, Б.Ариунболор, З.Баярмагнай, У.Лхагвадорж, С.Оттонтуяа, С.Цолмон, Г.Чулуунаа. Publisher: Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar. Year/edition: 2020, 7th printing (first edition 2014), ISBN 978-99973-69-61-1. Grade: 5. Language: Mongolian. Kind: student book. Pages: 75 PDF pp. (72 printed pp. + covers). Size verified: 15,594,935 bytes, exact release-asset size. Source + route: GitHub release asset `mid-size-books-9/grade-05-gov-mongolia-mongolia-grade-05-art-and-technology.pdf` via grab.py url. Cover verified. COMPLETE — read in full. Structure: Part I (printed pp. 6–37) is art theory, drawing and painting (it includes grid-based geometric pattern drafting, printed pp. 30–31 — Art wave's side of this combined volume). Part II (printed pp. 38–71) is the technology part, placed below. Bibliography printed p. 72 (inventory only). Read method note (as filed): this book is an image-only scan with no text layer; it was read by a VISUAL-READ method — rendered pages read as images (every page viewed in contact sheets; covers, contents and technology pages also read at full resolution) — not by text extraction. Placements at liqlearns-courses-work/expansion-td-2026-11-17/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the stitch table — running stitch, back stitch, the Mongolian хөвөрдох stitch and buttonhole stitch — what each is for, with needle-safety rules (original string `Simple hand sewing`) | Mongolia, *Art & Technology 5 (Mongolia)*, printed p. 61 |
+
+**Book 7:** *Дизайн технологи 6 (Design Technology, Grade 6)* (student book) — Authors: А.Алтантуул, Ч.Алтанчимэг, М.Баасанбаяр, В.Баяржаргал, Р.Гоцбаяр, С.Нямсүрэн, Д.Сэрээтэрдорж, Г.Чулуунаа. Publisher: Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar. Year/edition: 2019, 3rd printing (first edition 2017), ISBN 978-99978-61-00-9. Grade: 6. Language: Mongolian. Kind: student book. Pages: 111 PDF pp. (112 printed pp. incl. back cover). Size verified: 53,182,076 bytes, exact release-asset size. Source + route: GitHub release asset `mid-size-books-8/grade-06-gov-mongolia-mongolia-grade-06-design-technology.pdf` via grab.py url. Cover verified. COMPLETE — read in full. Structure: Unit I Design & drawing (printed pp. 5–27); Unit II Processing technology — textiles, sewing, crafts, food, the workshop, wood, metals (printed pp. 28–94); Unit III Technics (printed pp. 95–107). Bibliography printed p. 108 (inventory only). The book works throughout in five project stages: define the need, research, design, make/test, evaluate. Read method note (as filed): this book is an image-only scan with no text layer; it was read by a VISUAL-READ method — rendered pages read as images (every page viewed in contact sheets; covers, contents and technology pages also read at full resolution) — not by text extraction. Placements at liqlearns-courses-work/expansion-td-2026-11-17/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| running, back, cross (хөвөрдох), darning and hemming stitches — how each is worked and what it joins or repairs (original string `Hand-sewing stitches`) | Mongolia, *Design Technology 6 (Mongolia)*, printed p. 39 |
+
+**Acceptance count: taught in 2 countries (Samoa, Mongolia) — plus programme/teacher-guide evidence only (Cuba), named here, counted nowhere.**
 
 Cuba's own way: Cuba builds hand sewing stitch by stitch across the primary years: threading, knotting and hilván in Grade 2, the pespunte (backstitch) and button fixing in Grade 3, herringbone hem and darning in Grade 5, and the buttonhole stitch (puntada de ojal) in Grade 6 — all programme/teacher-guide evidence, counted nowhere.
 
-Searchable tags: hand sewing, running stitch, hemming, close hemming, curved hem, Samoa, Year 9, textiles and fashion, Cuba, Educación Laboral
+Mongolia's own way: Mongolia teaches this inside Visual Art & Technology (Дүрслэх урлаг, технологи) and Design Technology (Дизайн технологи) — the stitch table — running stitch, back stitch, the Mongolian хөвөрдох stitch and buttonhole stitch — what each is for, with needle-safety rules. The Mongolian classroom's own examples named in the provenance rows above are part of the teaching, not decoration. Mongolia's books are image-only scans read by a VISUAL-READ method, as filed in the book entries above.
+
+Searchable tags: hand sewing, running stitch, hemming, close hemming, curved hem, Samoa, Year 9, textiles and fashion, Cuba, Educación Laboral, Mongolia, visual read

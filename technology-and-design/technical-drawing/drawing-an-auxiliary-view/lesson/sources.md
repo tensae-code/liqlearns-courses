@@ -1,6 +1,6 @@
 # Sources — Drawing an auxiliary view — the true shape of an inclined surface
 
-countries: Belarus, Ethiopia, Fiji
+countries: Belarus, Ethiopia, Fiji, Mongolia
 
 **Book 1:** *Basic Technical Drawing, Teacher Guide, Grade 12* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, in collaboration with Kuraz International Publisher P.L.C., Addis Ababa, first edition, 2003 E.C., ISBN 978-99944-2-097-2, 105 printed pp. Page rule: printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/technical-drawing/g12-teacher-placements.md.
 
@@ -16,7 +16,19 @@ countries: Belarus, Ethiopia, Fiji
 | Transforming images: changing the projection planes and rotating the object to find the true size and shape of its elements | Belarus, *Чарчэнне (Technical Drawing / Drafting) — Grade 9*, printed p. 115 |
 | Strand 1: auxiliary projection (original string `technical-drawing/drawing-an-auxiliary-view`) | Fiji, *Year 12 Technical Drawing Textbook*, printed p. 36-38 |
 
-**Acceptance count: taught in 2 countries (Belarus, Fiji) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+**Book 4:** *Дизайн зураг зүй, технологи 11 (Design Drawing & Technology, Grade 11)* (student book) — Authors: Д.Сэрээтэрдорж (lead), Р.Гоцбаяр, Г.Чулуунаа, О.Оюунбаатар, Ч.Батцэцэг, Т.Ариунаа, С.Оттонтуяа, У.Лхагвадорж, П.Түмэнхишиг, Ч.Мөнхбаяр, Б.Мөнхтуяа. Publisher: Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar. Year/edition: 2019, 2nd printing (first edition 2018), ISBN 978-99978-61-86-3. Grade: 11. Language: Mongolian. Kind: student book. Pages: 199 PDF pp. (196 printed pp. + covers). Size verified: 96,727,168 bytes, exact release-asset size. Source + route: GitHub release asset `mid-size-books-8/grade-11-gov-mongolia-mongolia-grade-11-design-technology.pdf` via grab.py url (fetched on the 4th attempt after proxy disconnects). Cover verified (electronics circuit with 2N7000, welding, floor plan). COMPLETE — read in full. Structure: Unit 1 Design drawing — descriptive geometry, technical drawing, construction drawing, landscape design (printed pp. 9–88); Unit 2 Technical technology — clothing, food, mechanics & electronics, traditional technology (printed pp. 89–191). Glossary printed pp. 192–193 and exercise answers printed p. 194, bibliography pp. 195–196 (inventory only). Read method note (as filed): this book is an image-only scan with no text layer; it was read by a VISUAL-READ method — rendered pages read as images (every page viewed in contact sheets; covers, contents and technology pages also read at full resolution) — not by text extraction. Placements at liqlearns-courses-work/expansion-td-2026-11-17/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Finding the true size of a projecting plane figure: rotating the plane about its trace until it lies in a projection plane, then projecting the true shape (worked for hexagon, ellipse and circle, Ø70) (original string `technical-drawing/drawing-an-auxiliary-view`) | Mongolia, *Design Drawing & Technology 11 (Mongolia)*, printed p. 14 |
+
+**Book 5:** *Дизайн зураг зүй, технологи 12 (Design Drawing & Technology, Grade 12)* (student book) — Authors: Г.Чулуунаа (lead), А.Алтантуул, Н.Батсайхан, В.Баяржаргал, С.Даваа-Очир, Б.Жижид, Ч.Мөнхбаяр, Н.Оюунбилэг, Д.Сэрээтэрдорж, П.Түмэнхишиг. Publisher: Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar. Year/edition: 2019, 2nd printing (first edition 2018), ISBN 978-99978-61-92-4. Grade: 12. Language: Mongolian. Kind: student book. Pages: 199 PDF pp. (196 printed pp. + covers). Size verified: 59,359,723 bytes, exact release-asset size. Source + route: GitHub release asset `mid-size-books-8/grade-12-gov-mongolia-mongolia-grade-12-design-technology.pdf` via grab.py url. Cover verified (surface-development drawing, robot arm, dress). COMPLETE — read in full. Structure: Unit 1 Descriptive geometry (printed pp. 6–44); Unit 2 Media design — photography and animation (printed pp. 45–86); Unit 3 Mechanics & electronics — mechanisms, logic, Arduino robotics (printed pp. 87–132); Unit 4 Occasion-dress design (printed pp. 133–155); Unit 5 Food technology — catering, healthy eating, table setting (printed pp. 156–179); Unit 6 Traditional technology — mass production and the business project (printed pp. 180–194). Bibliography printed pp. 195–196 (inventory only). Read method note (as filed): this book is an image-only scan with no text layer; it was read by a VISUAL-READ method — rendered pages read as images (every page viewed in contact sheets; covers, contents and technology pages also read at full resolution) — not by text extraction. Placements at liqlearns-courses-work/expansion-td-2026-11-17/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| True size of a section figure by changing a projection plane: replacing π₂ with a new plane parallel to the cutting plane so the figure projects in true size (original string `technical-drawing/drawing-an-auxiliary-view`) | Mongolia, *Design Drawing & Technology 12 (Mongolia)*, printed p. 24 |
+
+**Acceptance count: taught in 3 countries (Belarus, Fiji, Mongolia) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
 
 Fiji's own way: Fiji teaches auxiliary projection in Year 12 Strand 1, inside its geometry strand.
 
@@ -26,4 +38,6 @@ Honesty: No book error is flagged in the placements for this lesson. The step or
 
 Belarus's own way: Belarus frames this as transforming images — changing the projection planes and rotating the object — to find the true size and shape of an object's elements.
 
-Searchable tags: technical drawing, auxiliary view, true shape, inclined surface, projection, Grade 12, Ethiopia, Fiji
+Mongolia's own way: Mongolia teaches this inside Visual Art & Technology (Дүрслэх урлаг, технологи) — Finding the true size of a projecting plane figure: rotating the plane about its trace until it lies in a projection plane, then projecting the true shape (worked for hexagon, ellipse and circle, Ø70). The Mongolian classroom's own examples named in the provenance rows above are part of the teaching, not decoration. Mongolia's books are image-only scans read by a VISUAL-READ method, as filed in the book entries above.
+
+Searchable tags: technical drawing, auxiliary view, true shape, inclined surface, projection, Grade 12, Ethiopia, Fiji, Mongolia, visual read

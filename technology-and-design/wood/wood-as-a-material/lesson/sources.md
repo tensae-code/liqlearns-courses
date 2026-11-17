@@ -1,6 +1,6 @@
 # Sources — Wood as a material
 
-countries: Cuba, Iran, Moldova
+countries: Cuba, Iran, Moldova, Mongolia
 
 **Book 1:** *Educația tehnologică — Manual pentru clasele a 5-a – a 6-a (Technological Education — Textbook for Grades 5–6)* (student textbook) — Moldova, Authors: Angela Eșanu, Ion Șaragov, Nicolae Onofreiciuc, Ana Simac. Publisher: Editura ARC; Ministry of Education of the Republic of Moldova; edition approved for reprinting by Order no. 357 of 20 May 2011, 2017 reprint (PDF produced May 2017). Grade: Grades 5–6 combined volume — the library record names it "Manual pentru clasa a VI-a"; the file itself is the combined Grades 5–6 manual (cover: "Manual pentru clasele a 5-a – a 6-a"), so both grades' halves are placed here under this one record. Language: Romanian. Pages: 208 (PDF; printed p. = PDF p.), verified byte size 50,000,056 = record size (record also states 208 pages). Source + route: tensae-code/liqlearns-textbooks, release asset in mid-size-books-8 via grab.py url route after the tree route 404'd — grade-06/gov/moldova/technological-education/student/moldova-g06-technological-education.pdf. Kind: student textbook. Read: COMPLETE (both grades' wood modules read in full; every other module's sections read at their teaching pages). Placements at liqlearns-courses-work/expansion-td-2026-11-17/moldova-placements.md.
 
@@ -27,7 +27,20 @@ countries: Cuba, Iran, Moldova
 | Cap. 3 §3.1 (original string `wood`) | Cuba, *Educación Laboral y Dibujo Básico — 7mo grado (2023 Biblioteca edition)*, printed p. 111-113 |
 | Cap. 3 §3.2 (original string `wood`) | Cuba, *Educación Laboral y Dibujo Básico — 7mo grado (2023 Biblioteca edition)*, printed p. 114-117 |
 
-**Acceptance count: taught in 3 countries (Cuba, Iran, Moldova).**
+**Book 7:** *Дизайн технологи 6 (Design Technology, Grade 6)* (student book) — Authors: А.Алтантуул, Ч.Алтанчимэг, М.Баасанбаяр, В.Баяржаргал, Р.Гоцбаяр, С.Нямсүрэн, Д.Сэрээтэрдорж, Г.Чулуунаа. Publisher: Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar. Year/edition: 2019, 3rd printing (first edition 2017), ISBN 978-99978-61-00-9. Grade: 6. Language: Mongolian. Kind: student book. Pages: 111 PDF pp. (112 printed pp. incl. back cover). Size verified: 53,182,076 bytes, exact release-asset size. Source + route: GitHub release asset `mid-size-books-8/grade-06-gov-mongolia-mongolia-grade-06-design-technology.pdf` via grab.py url. Cover verified. COMPLETE — read in full. Structure: Unit I Design & drawing (printed pp. 5–27); Unit II Processing technology — textiles, sewing, crafts, food, the workshop, wood, metals (printed pp. 28–94); Unit III Technics (printed pp. 95–107). Bibliography printed p. 108 (inventory only). The book works throughout in five project stages: define the need, research, design, make/test, evaluate. Read method note (as filed): this book is an image-only scan with no text layer; it was read by a VISUAL-READ method — rendered pages read as images (every page viewed in contact sheets; covers, contents and technology pages also read at full resolution) — not by text extraction. Placements at liqlearns-courses-work/expansion-td-2026-11-17/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the physical properties of wood — colour, grain figure, lustre, density, sound conduction and moisture — and why they matter for design (original string `Wood`) | Mongolia, *Design Technology 6 (Mongolia)*, printed p. 76 |
+| pine, larch, birch, cedar, fir, poplar and elm — properties, and what each is used for (building, furniture, plywood, matches) (original string `Kinds of wood and their uses`) | Mongolia, *Design Technology 6 (Mongolia)*, printed p. 78 |
+
+**Book 8:** *Дизайн технологи 7 (Design Technology, Grade 7)* (student book) — Authors: Д.Сэрээтэрдорж (lead), Г.Чулуунаа, Д.Хөхөө, С.Оттонтуяа, Д.Алтанцацэг, У.Лхагвадорж, Ч.Алтанчимэг. Publisher: Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar. Year/edition: 2019, 2nd printing (first edition 2017), ISBN 978-99978-61-04-7. Grade: 7. Language: Mongolian. Kind: student book. Pages: 151 PDF pp. (148 printed pp. + covers). Size verified: 68,175,321 bytes, exact release-asset size. Source + route: GitHub release asset `mid-size-books-8/grade-07-gov-mongolia-mongolia-grade-07-design-technology.pdf` via grab.py url. Cover verified (circuit diagram, chain drive, dimensioned drawing). COMPLETE — read in full. Structure: Unit 1 Design drawing (printed pp. 8–34, incl. the packaging project); Unit 2 Processing technology (printed pp. 36–124); Unit 3 Technics (printed pp. 126–146). Answers to exercises printed p. 147, bibliography and web resources printed p. 148 (inventory only). Read method note (as filed): this book is an image-only scan with no text layer; it was read by a VISUAL-READ method — rendered pages read as images (every page viewed in contact sheets; covers, contents and technology pages also read at full resolution) — not by text extraction. Placements at liqlearns-courses-work/expansion-td-2026-11-17/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| sawn timber and semi-finished materials (plywood, chipboard, fibreboard) and how veneer and plywood are made (original string `Wood materials`) | Mongolia, *Design Technology 7 (Mongolia)*, printed p. 82 |
+
+**Acceptance count: taught in 4 countries (Cuba, Iran, Moldova, Mongolia).**
 
 Cuba's own way: Cuba builds wood knowledge in layers: Grade 5 (where timber comes from, Cuba's forests and reforestation, hardness and hygroscopicity, natural wood against plywood), Grade 6 (the tree's cross-section — annual rings, duramen, albura, bark — and the timber profiles), Grade 7 (generalities, classification, principal Cuban woods, the grain's direction).
 
@@ -35,4 +48,6 @@ Moldova's own way: Moldova opens its Grade 5 wood module at the sawmill — spec
 
 Iran's own way: Iran teaches wood by a property table — fibre, colour, hardness, weight and uses, walnut among the woods named — and marks the shift from solid wood to manufactured board, MDF included (Grade 7, Module 9).
 
-Searchable tags: wood, timber, frame saw, gater, plywood, chipboard, veneer, semi-finished products, technology definition, Moldova, Grades 5–6, Romanian, Iran, Grade 7, Persian, Cuba, Educación Laboral
+Mongolia's own way: Mongolia teaches this inside Design Technology (Дизайн технологи) — the physical properties of wood — colour, grain figure, lustre, density, sound conduction and moisture — and why they matter for design. The Mongolian classroom's own examples named in the provenance rows above are part of the teaching, not decoration. Mongolia's books are image-only scans read by a VISUAL-READ method, as filed in the book entries above.
+
+Searchable tags: wood, timber, frame saw, gater, plywood, chipboard, veneer, semi-finished products, technology definition, Moldova, Grades 5–6, Romanian, Iran, Grade 7, Persian, Cuba, Educación Laboral, Mongolia, visual read

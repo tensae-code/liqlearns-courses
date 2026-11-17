@@ -1,6 +1,6 @@
 # Sources — Pictorial sketching — isometric sketching that someone else could build from
 
-countries: Belarus, Cuba, Ethiopia, Fiji, Malaysia, Malta, Sri Lanka, Papua New Guinea
+countries: Belarus, Cuba, Ethiopia, Fiji, Malaysia, Malta, Sri Lanka, Papua New Guinea, Mongolia
 
 **Book 1:** *Basic Technical Drawing, Teacher Guide, Grade 12* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, in collaboration with Kuraz International Publisher P.L.C., Addis Ababa, first edition, 2003 E.C., ISBN 978-99944-2-097-2, 105 printed pp. Page rule: printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/technical-drawing/g12-teacher-placements.md.
 
@@ -67,7 +67,13 @@ countries: Belarus, Cuba, Ethiopia, Fiji, Malaysia, Malta, Sri Lanka, Papua New 
 | Unit 1 Topic 3 lessons: Isometric drawing; Pictorial drawing — taught as building trade drawing (teacher guide — evidence) (original string `technical-drawing/pictorial-sketching-isometric`) | Papua New Guinea, *PNG G9 Construction*, printed p. 46 |
 | Unit 1 Topic 3: isometric and pictorial drawing practised as building trade drawing (teacher guide — evidence) (original string `technical-drawing/pictorial-sketching-isometric`) | Papua New Guinea, *PNG G10 Construction*, printed p. 47 |
 
-**Acceptance count: taught in 6 countries (Belarus, Cuba, Fiji, Malaysia, Malta, Sri Lanka) — plus teacher-guide evidence only (Ethiopia, Papua New Guinea), named here, counted nowhere.**
+**Book 18:** *Дизайн зураг зүй, технологи 12 (Design Drawing & Technology, Grade 12)* (student book) — Authors: Г.Чулуунаа (lead), А.Алтантуул, Н.Батсайхан, В.Баяржаргал, С.Даваа-Очир, Б.Жижид, Ч.Мөнхбаяр, Н.Оюунбилэг, Д.Сэрээтэрдорж, П.Түмэнхишиг. Publisher: Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar. Year/edition: 2019, 2nd printing (first edition 2018), ISBN 978-99978-61-92-4. Grade: 12. Language: Mongolian. Kind: student book. Pages: 199 PDF pp. (196 printed pp. + covers). Size verified: 59,359,723 bytes, exact release-asset size. Source + route: GitHub release asset `mid-size-books-8/grade-12-gov-mongolia-mongolia-grade-12-design-technology.pdf` via grab.py url. Cover verified (surface-development drawing, robot arm, dress). COMPLETE — read in full. Structure: Unit 1 Descriptive geometry (printed pp. 6–44); Unit 2 Media design — photography and animation (printed pp. 45–86); Unit 3 Mechanics & electronics — mechanisms, logic, Arduino robotics (printed pp. 87–132); Unit 4 Occasion-dress design (printed pp. 133–155); Unit 5 Food technology — catering, healthy eating, table setting (printed pp. 156–179); Unit 6 Traditional technology — mass production and the business project (printed pp. 180–194). Bibliography printed pp. 195–196 (inventory only). Read method note (as filed): this book is an image-only scan with no text layer; it was read by a VISUAL-READ method — rendered pages read as images (every page viewed in contact sheets; covers, contents and technology pages also read at full resolution) — not by text extraction. Placements at liqlearns-courses-work/expansion-td-2026-11-17/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Building the isometric projection of a solid from its E-system or A-system views: choosing the x and y axes and transferring the coordinates onto the isometric axes (original string `technical-drawing/pictorial-sketching-isometric`) | Mongolia, *Design Drawing & Technology 12 (Mongolia)*, printed p. 42 |
+
+**Acceptance count: taught in 7 countries (Belarus, Cuba, Fiji, Malaysia, Malta, Sri Lanka, Mongolia) — plus teacher-guide evidence only (Ethiopia, Papua New Guinea), named here, counted nowhere.**
 
 Papua New Guinea's own way: Papua New Guinea teaches this inside Technology and Industrial Arts (TIA), Standards-Based — Isometric drawing; Pictorial drawing — taught as building trade drawing. The PNG classroom's own examples named in the provenance rows above are part of the teaching, not decoration.
 
@@ -87,4 +93,6 @@ Malaysia's own way: Malaysia teaches all three pictorial families in one Tingkat
 
 Sri Lanka's own way: Sri Lanka adds its Tamil-medium Technology stream teaching (Educational Publications Department; visual-read method, as filed in the book entries above) — the pictorial-view chapter's four methods survey — perspective, parallel, dimetric and isometric — as the ways to show length, width and height in one view; the isometric method taught inside the pictorial-view chapter, after perspective, parallel and dimetric methods; perspective view used to present a product design in the metalwork chapter.
 
-Searchable tags: technical drawing, pictorial sketching, isometric sketch, dimensions, marking rubric, Grade 12, Ethiopia, Malaysia, Tingkatan 1, RBT, oblique, cavalier, cabinet, perspective, vanishing point, Sri Lanka, Fiji, Cuba, Educación Laboral, Papua New Guinea, Technology and Industrial Arts, TIA, teacher guide evidence
+Mongolia's own way: Mongolia teaches this inside Visual Art & Technology (Дүрслэх урлаг, технологи) — Building the isometric projection of a solid from its E-system or A-system views: choosing the x and y axes and transferring the coordinates onto the isometric axes. The Mongolian classroom's own examples named in the provenance rows above are part of the teaching, not decoration. Mongolia's books are image-only scans read by a VISUAL-READ method, as filed in the book entries above.
+
+Searchable tags: technical drawing, pictorial sketching, isometric sketch, dimensions, marking rubric, Grade 12, Ethiopia, Malaysia, Tingkatan 1, RBT, oblique, cavalier, cabinet, perspective, vanishing point, Sri Lanka, Fiji, Cuba, Educación Laboral, Papua New Guinea, Technology and Industrial Arts, TIA, teacher guide evidence, Mongolia, visual read

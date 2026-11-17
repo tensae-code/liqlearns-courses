@@ -1,6 +1,6 @@
 # Sources — Assembly drawings
 
-countries: Belarus, Cuba, Fiji, Moldova
+countries: Belarus, Cuba, Fiji, Moldova, Mongolia
 
 **Book 1:** *Чарчэнне — Вучэбны дапаможнік для 9 класа агульнаадукацыйных устаноў з беларускай мовай навучання (Technical Drawing — study aid for Grade 9 of general-education institutions with Belarusian as the language of instruction)* (student textbook) — Belarus, Author: В. Н. Вінаградаў (V. N. Vinogradov). Publisher: Нацыянальны інстытут адукацыі (National Institute of Education), Ministry of Education of the Republic of Belarus, Minsk; approved by the Ministry of Education of the Republic of Belarus; signed to print 10.12.2008; print run 31,023; ISBN 978-985-465-432-4. Year/edition: 2008. Grade: 9. Language: Belarusian. Pages: 224; verified byte size 12,603,822 (the record carries no size; the file was located by exact-name scan of the releases). Source + route: tensae-code/liqlearns-textbooks, release asset in mid-size-books-7 (asset grade-09-gov-belarus-technical-drawing-student-full-year.pdf), downloaded via the Releases API asset route after the tree route 404'd — grade-09/gov/belarus/technical-drawing/student/full-year.pdf. Kind: student textbook (вучэбны дапаможнік — study aid/textbook). Read: COMPLETE (all 34 sections mapped from the book's contents, pp. 220–222, with section content verified at the section pages; the Кароткі тэрміналагічны слоўнік — short terminological dictionary, printed p. 211 — is inventory-only and the Прадметны паказальнік is an index; neither is placed). Note on the record: the book's own text layer uses a broken font encoding, so the read was done from the book's table of contents and section pages via OCR (RapidOCR) plus the decoded text layer; printed page numbers are the book's own (printed p. = PDF p.). Placements at liqlearns-courses-work/expansion-td-2026-11-17/belarus-placements.md.
 
@@ -21,7 +21,13 @@ countries: Belarus, Cuba, Fiji, Moldova
 |---|---|
 | Cap. 8 §8.2 (original string `assembly drawing`) | Cuba, *Educación Laboral — 9no grado*, printed p. 303-313 |
 
-**Acceptance count: taught in 4 countries (Belarus, Cuba, Fiji, Moldova).**
+**Book 5:** *Дизайн зураг зүй, технологи 11 (Design Drawing & Technology, Grade 11)* (student book) — Authors: Д.Сэрээтэрдорж (lead), Р.Гоцбаяр, Г.Чулуунаа, О.Оюунбаатар, Ч.Батцэцэг, Т.Ариунаа, С.Оттонтуяа, У.Лхагвадорж, П.Түмэнхишиг, Ч.Мөнхбаяр, Б.Мөнхтуяа. Publisher: Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar. Year/edition: 2019, 2nd printing (first edition 2018), ISBN 978-99978-61-86-3. Grade: 11. Language: Mongolian. Kind: student book. Pages: 199 PDF pp. (196 printed pp. + covers). Size verified: 96,727,168 bytes, exact release-asset size. Source + route: GitHub release asset `mid-size-books-8/grade-11-gov-mongolia-mongolia-grade-11-design-technology.pdf` via grab.py url (fetched on the 4th attempt after proxy disconnects). Cover verified (electronics circuit with 2N7000, welding, floor plan). COMPLETE — read in full. Structure: Unit 1 Design drawing — descriptive geometry, technical drawing, construction drawing, landscape design (printed pp. 9–88); Unit 2 Technical technology — clothing, food, mechanics & electronics, traditional technology (printed pp. 89–191). Glossary printed pp. 192–193 and exercise answers printed p. 194, bibliography pp. 195–196 (inventory only). Read method note (as filed): this book is an image-only scan with no text layer; it was read by a VISUAL-READ method — rendered pages read as images (every page viewed in contact sheets; covers, contents and technology pages also read at full resolution) — not by text extraction. Placements at liqlearns-courses-work/expansion-td-2026-11-17/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| what an assembly drawing contains — views, the parts list (number, name, quantity, material), position numbers on leader lines, and the three kinds of assembly dimension (overall, joining, fitting) (original string `Assembly drawings`) | Mongolia, *Design Drawing & Technology 11 (Mongolia)*, printed p. 18 |
+
+**Acceptance count: taught in 5 countries (Belarus, Cuba, Fiji, Moldova, Mongolia).**
 
 Cuba's own way: Cuba introduces the assembly drawing (dibujo de ensamble) in Grade 9 as first notions (§8.2), after sections — the drawing of the whole, read from the drawings of the parts.
 
@@ -31,4 +37,6 @@ Belarus's own way: Belarus teaches this inside *Чарчэнне*, its single Gr
 
 Moldova's own way: Moldova teaches the assembly drawing (desen de asamblare) inside the Grade 5 wood module of *Educația tehnologică* — the drawing that carries the form, dimensions and number of pieces needed to assemble an object — and teaches reading one on a stool: how many pieces, what material, what basic dimensions, which line types.
 
-Searchable tags: assembly drawings, detailing, дэталіраванне, parts list, overall dimensions, Belarus, Grade 9, Чарчэнне, Moldova, Grades 5–6, desen de asamblare, stool, Fiji, Cuba, Educación Laboral
+Mongolia's own way: Mongolia teaches this inside Visual Art & Technology (Дүрслэх урлаг, технологи) — what an assembly drawing contains — views, the parts list (number, name, quantity, material), position numbers on leader lines, and the three kinds of assembly dimension (overall, joining, fitting). The Mongolian classroom's own examples named in the provenance rows above are part of the teaching, not decoration. Mongolia's books are image-only scans read by a VISUAL-READ method, as filed in the book entries above.
+
+Searchable tags: assembly drawings, detailing, дэталіраванне, parts list, overall dimensions, Belarus, Grade 9, Чарчэнне, Moldova, Grades 5–6, desen de asamblare, stool, Fiji, Cuba, Educación Laboral, Mongolia, visual read

@@ -1,6 +1,6 @@
 # Sources — What design is
 
-countries: Malaysia, Kazakhstan
+countries: Malaysia, Kazakhstan, Mongolia
 
 **Book 1:** *Reka Bentuk dan Teknologi Tahun 4 (KSSR Semakan 2017), Sekolah Kebangsaan* (student book) — Malaysia, Publisher: Kementerian Pendidikan Malaysia / Dewan Bahasa dan Pustaka (first printing 2019, ISBN 978-983-49-2477-3 per imprint page). Grade: grade-04 (Tahun 4). Language: Malay. Pages: 54 PDF pp. (mostly two-page spreads; printed book runs to printed p. 98). Size verified: 49,124,292 bytes, exact match to the release asset in `mid-size-books-2`. Kind: student book. Route: grab.py url (release asset). Cover verified: "REKA BENTUK DAN TEKNOLOGI TAHUN 4 — SEKOLAH KEBANGSAAN", KSSR Semakan 2017 badge. COMPLETE — read to the last teaching page (Unit 6 closing Uji Minda, printed p. 98). Placements at liqlearns-courses-work/expansion-td-2026-11-17/malaysia-placements.md.
 
@@ -14,10 +14,18 @@ countries: Malaysia, Kazakhstan
 |---|---|
 | What design is; the design process — design as artistic planning of the object world; the designer's four stages (research similar objects, sketch project with many variants, full-size mock-up, working project) under five principles (reliability, manufacturability…) (§13) (original string `What design is; the design process`) | Kazakhstan, *KZ G5 Chukalin (boys)*, printed p. 42 |
 
-**Acceptance count: taught in 2 countries (Malaysia, Kazakhstan).**
+**Book 3:** *Дизайн технологи 6 (Design Technology, Grade 6)* (student book) — Authors: А.Алтантуул, Ч.Алтанчимэг, М.Баасанбаяр, В.Баяржаргал, Р.Гоцбаяр, С.Нямсүрэн, Д.Сэрээтэрдорж, Г.Чулуунаа. Publisher: Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar. Year/edition: 2019, 3rd printing (first edition 2017), ISBN 978-99978-61-00-9. Grade: 6. Language: Mongolian. Kind: student book. Pages: 111 PDF pp. (112 printed pp. incl. back cover). Size verified: 53,182,076 bytes, exact release-asset size. Source + route: GitHub release asset `mid-size-books-8/grade-06-gov-mongolia-mongolia-grade-06-design-technology.pdf` via grab.py url. Cover verified. COMPLETE — read in full. Structure: Unit I Design & drawing (printed pp. 5–27); Unit II Processing technology — textiles, sewing, crafts, food, the workshop, wood, metals (printed pp. 28–94); Unit III Technics (printed pp. 95–107). Bibliography printed p. 108 (inventory only). The book works throughout in five project stages: define the need, research, design, make/test, evaluate. Read method note (as filed): this book is an image-only scan with no text layer; it was read by a VISUAL-READ method — rendered pages read as images (every page viewed in contact sheets; covers, contents and technology pages also read at full resolution) — not by text extraction. Placements at liqlearns-courses-work/expansion-td-2026-11-17/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the kinds of design (decoration, architecture, web, graphic, clothing, print, industrial, transport) and the five stages of project work (original string `What design is`) | Mongolia, *Design Technology 6 (Mongolia)*, printed p. 5 |
+
+**Acceptance count: taught in 3 countries (Malaysia, Kazakhstan, Mongolia).**
 
 Kazakhstan's own way: Kazakhstan teaches this inside Художественный труд / Көркем еңбек (Artistic Labour) and Трудовое обучение / Еңбекке баулу (Labour Training) — Design as artistic planning of the object world; the designer's four stages (research similar objects, sketch project with many variants, full-size mock-up, working project) under five principles (reliability, manufacturability…) (§13). The Kazakh classroom's own examples, materials and national crafts named in the Kazakhstan provenance rows above are part of the teaching, not decoration.
 
 Malaysia's own way: Malaysia introduces reka bentuk in Tahun 4 through everyday products — clothing, glasses, cakes — before any formal elements are named.
 
-Searchable tags: design, reka bentuk, pattern, form, product, Malaysia, Tahun 4, Malay, Kazakhstan, Artistic Labour, Labour Training
+Mongolia's own way: Mongolia teaches this inside Design Technology (Дизайн технологи) — the kinds of design (decoration, architecture, web, graphic, clothing, print, industrial, transport) and the five stages of project work. The Mongolian classroom's own examples named in the provenance rows above are part of the teaching, not decoration. Mongolia's books are image-only scans read by a VISUAL-READ method, as filed in the book entries above.
+
+Searchable tags: design, reka bentuk, pattern, form, product, Malaysia, Tahun 4, Malay, Kazakhstan, Artistic Labour, Labour Training, Mongolia, visual read

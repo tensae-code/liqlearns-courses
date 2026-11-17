@@ -1,6 +1,6 @@
 # Sources — AutoCAD
 
-countries: Papua New Guinea
+countries: Papua New Guinea, Mongolia
 
 **Book 1:** Full title: Technology and Industrial Arts — Construction Technology, Senior High Grade 11 Teacher Guide, Standards-Based | Publisher: Department of Education, Papua New Guinea, 2023, ISBN 978-9980-921-14-7 (as printed; the suffix duplicates the Grade 10 volume's number family — recorded as printed) | Grade: 11 | Language: English | Pages: 402 PDF pp. (printed to p. 395; printed p. = PDF p. − 7) | Source: GitHub release asset `mid-size-books-8/grade-11-gov-papua-new-guinea-construction-technology-teacher-grade-11-construction-technology-teachers-guide.pdf` via grab.py url, 20,618,063 bytes (exact match to record), cover verified from pp. 1/3 (Construction Technology, Senior High Grade 11) | Kind: teacher guide | COMPLETE — Units 1-5 printed p. 49-270, then planning/assessment apparatus, glossaries (inventory only), references and appendices (incl. an AutoCAD drawing appendix) to printed p. 395. Kind: EVIDENCE (teacher guide) — placements sourced from this guide are stocked as evidence rows and stay outside the acceptance counts. Placements at liqlearns-courses-work/expansion-td-2026-11-17/papua-new-guinea-placements.md.
 
@@ -12,8 +12,16 @@ countries: Papua New Guinea
 | Unit 5 Topic 4 lessons: AUTOCAD Program in Engineering Fields; Types of AUTOCAD Program; Significance of AUTOCAD Program; Methods of Downloading AUTOCAD Program (teacher guide — evidence) (original string `AutoCAD in engineering`) | Papua New Guinea, *PNG G11 Construction*, printed p. 238, 385-393 |
 | Unit 1 Topic 3 lessons: Purpose of AutoCAD Program; Types of AutoCAD program; Methods of Downloading CAD/Autodesk Software; Designing Domestic Building Using CAD Program (teacher guide — evidence) (original string `AutoCAD in building`) | Papua New Guinea, *PNG G12 Construction*, printed p. 45 |
 
-**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Papua New Guinea), named here, counted nowhere.**
+**Book 3:** *Дизайн зураг зүй, технологи 11 (Design Drawing & Technology, Grade 11)* (student book) — Authors: Д.Сэрээтэрдорж (lead), Р.Гоцбаяр, Г.Чулуунаа, О.Оюунбаатар, Ч.Батцэцэг, Т.Ариунаа, С.Оттонтуяа, У.Лхагвадорж, П.Түмэнхишиг, Ч.Мөнхбаяр, Б.Мөнхтуяа. Publisher: Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar. Year/edition: 2019, 2nd printing (first edition 2018), ISBN 978-99978-61-86-3. Grade: 11. Language: Mongolian. Kind: student book. Pages: 199 PDF pp. (196 printed pp. + covers). Size verified: 96,727,168 bytes, exact release-asset size. Source + route: GitHub release asset `mid-size-books-8/grade-11-gov-mongolia-mongolia-grade-11-design-technology.pdf` via grab.py url (fetched on the 4th attempt after proxy disconnects). Cover verified (electronics circuit with 2N7000, welding, floor plan). COMPLETE — read in full. Structure: Unit 1 Design drawing — descriptive geometry, technical drawing, construction drawing, landscape design (printed pp. 9–88); Unit 2 Technical technology — clothing, food, mechanics & electronics, traditional technology (printed pp. 89–191). Glossary printed pp. 192–193 and exercise answers printed p. 194, bibliography pp. 195–196 (inventory only). Read method note (as filed): this book is an image-only scan with no text layer; it was read by a VISUAL-READ method — rendered pages read as images (every page viewed in contact sheets; covers, contents and technology pages also read at full resolution) — not by text extraction. Placements at liqlearns-courses-work/expansion-td-2026-11-17/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the draw commands (Line, Polyline, Circle, Arc, Hatch), edit commands (Move, Copy, Fillet, Trim, Mirror, Scale, Array, Rotate), text with the ISOPEUR font and Dimension Style ISO-25 (original string `Drawing assembly parts in AutoCAD`) | Mongolia, *Design Drawing & Technology 11 (Mongolia)*, printed p. 30 |
+
+**Acceptance count: taught in 1 country (Mongolia) — plus teacher-guide evidence only (Papua New Guinea), named here, counted nowhere.**
 
 Papua New Guinea's own way: Papua New Guinea teaches this inside Technology and Industrial Arts (TIA), Standards-Based — Types of CAD Program or Free CAD; Using CAD Program; Methods of Downloading and Installing CAD Program; Methods of Sketching Domestic Building — Gable Roof. The PNG classroom's own examples named in the provenance rows above are part of the teaching, not decoration.
 
-Searchable tags: autocad, technical drawing, Papua New Guinea, Technology and Industrial Arts, TIA, Standards-Based, teacher guide evidence
+Mongolia's own way: Mongolia teaches this inside Visual Art & Technology (Дүрслэх урлаг, технологи) — the draw commands (Line, Polyline, Circle, Arc, Hatch), edit commands (Move, Copy, Fillet, Trim, Mirror, Scale, Array, Rotate), text with the ISOPEUR font and Dimension Style ISO-25. The Mongolian classroom's own examples named in the provenance rows above are part of the teaching, not decoration. Mongolia's books are image-only scans read by a VISUAL-READ method, as filed in the book entries above.
+
+Searchable tags: autocad, technical drawing, Papua New Guinea, Technology and Industrial Arts, TIA, Standards-Based, teacher guide evidence, Mongolia, visual read

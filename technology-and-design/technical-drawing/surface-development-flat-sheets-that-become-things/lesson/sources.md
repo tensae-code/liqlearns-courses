@@ -1,6 +1,6 @@
 # Sources — Surface Development — Flat Sheets That Become Things
 
-countries: Belarus, Cuba, Ethiopia, Fiji, Malta, Moldova, Sri Lanka, Kazakhstan, Papua New Guinea
+countries: Belarus, Cuba, Ethiopia, Fiji, Malta, Moldova, Sri Lanka, Kazakhstan, Papua New Guinea, Mongolia
 
 **Book 1:** *Basic Technical Drawing, Teacher Guide, Grade 12* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, in collaboration with Kuraz International Publisher P.L.C., Addis Ababa. Prepared by: Amanuel Berhanu (BSc), Tolossa Deberie (MSc). Edited and reviewed by: Abebe Basazeneu, Natenael Abebe, Yared Mekuria. First edition, 2003 (E.C.), funded through the General Education Quality Improvement Project (GEQIP). Developed, printed and distributed by Al Ghurair Printing and Publishing House CO. (LLC), Dubai, U.A.E., in collaboration with Kuraz International Publisher. ISBN: 978-99944-2-097-2. 109 PDF pages; printed page = PDF page - 4 throughout. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/technical-drawing/g12-teacher-placements.md.
 
@@ -59,7 +59,13 @@ countries: Belarus, Cuba, Ethiopia, Fiji, Malta, Moldova, Sri Lanka, Kazakhstan,
 |---|---|
 | Unit 1 Topic 3 lesson: Surface Development — taught inside the CAD trade-drawing topic (teacher guide — evidence) (original string `technical-drawing/surface-development-flat-sheets-that-become-things`) | Papua New Guinea, *PNG G11 Construction*, printed p. 47 |
 
-**Acceptance count: taught in 7 countries (Belarus, Cuba, Fiji, Malta, Moldova, Sri Lanka, Kazakhstan) — plus teacher-guide evidence only (Ethiopia, Papua New Guinea), named here, counted nowhere.**
+**Book 15:** *Дизайн зураг зүй, технологи 12 (Design Drawing & Technology, Grade 12)* (student book) — Authors: Г.Чулуунаа (lead), А.Алтантуул, Н.Батсайхан, В.Баяржаргал, С.Даваа-Очир, Б.Жижид, Ч.Мөнхбаяр, Н.Оюунбилэг, Д.Сэрээтэрдорж, П.Түмэнхишиг. Publisher: Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar. Year/edition: 2019, 2nd printing (first edition 2018), ISBN 978-99978-61-92-4. Grade: 12. Language: Mongolian. Kind: student book. Pages: 199 PDF pp. (196 printed pp. + covers). Size verified: 59,359,723 bytes, exact release-asset size. Source + route: GitHub release asset `mid-size-books-8/grade-12-gov-mongolia-mongolia-grade-12-design-technology.pdf` via grab.py url. Cover verified (surface-development drawing, robot arm, dress). COMPLETE — read in full. Structure: Unit 1 Descriptive geometry (printed pp. 6–44); Unit 2 Media design — photography and animation (printed pp. 45–86); Unit 3 Mechanics & electronics — mechanisms, logic, Arduino robotics (printed pp. 87–132); Unit 4 Occasion-dress design (printed pp. 133–155); Unit 5 Food technology — catering, healthy eating, table setting (printed pp. 156–179); Unit 6 Traditional technology — mass production and the business project (printed pp. 180–194). Bibliography printed pp. 195–196 (inventory only). Read method note (as filed): this book is an image-only scan with no text layer; it was read by a VISUAL-READ method — rendered pages read as images (every page viewed in contact sheets; covers, contents and technology pages also read at full resolution) — not by text extraction. Placements at liqlearns-courses-work/expansion-td-2026-11-17/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| What a development (дэлгээс) is for: packaging and container design, clothing patterns, machine and shoe manufacture — every point of the surface laid onto one plane at true size (original string `technical-drawing/surface-development-flat-sheets-that-become-things`) | Mongolia, *Design Drawing & Technology 12 (Mongolia)*, printed p. 31 |
+
+**Acceptance count: taught in 8 countries (Belarus, Cuba, Fiji, Malta, Moldova, Sri Lanka, Kazakhstan, Mongolia) — plus teacher-guide evidence only (Ethiopia, Papua New Guinea), named here, counted nowhere.**
 
 Papua New Guinea's own way: Papua New Guinea teaches this inside Technology and Industrial Arts (TIA), Standards-Based — Surface Development — taught inside the CAD trade-drawing topic. The PNG classroom's own examples named in the provenance rows above are part of the teaching, not decoration.
 
@@ -81,4 +87,6 @@ Moldova's own way: Moldova meets the development inside its Grade 5 line-types t
 
 Sri Lanka's own way: Sri Lanka adds its Tamil-medium Technology stream teaching (Educational Publications Department; visual-read method, as filed in the book entries above) — development drawings named as one of the standard drawing kinds in the mechanical-drawing survey.
 
-Searchable tags: surface development, sheet metal, hem, joint, seam, prism, cylinder, cone, pyramid, Ethiopia Grade 12 Technical Drawing Unit 5, Moldova, Grades 5–6, desfășurata, two-dot line, Sri Lanka, Fiji, Cuba, Educación Laboral, Kazakhstan, Artistic Labour, Labour Training, Papua New Guinea, Technology and Industrial Arts, TIA, teacher guide evidence
+Mongolia's own way: Mongolia teaches this inside Visual Art & Technology (Дүрслэх урлаг, технологи) — What a development (дэлгээс) is for: packaging and container design, clothing patterns, machine and shoe manufacture — every point of the surface laid onto one plane at true size. The Mongolian classroom's own examples named in the provenance rows above are part of the teaching, not decoration. Mongolia's books are image-only scans read by a VISUAL-READ method, as filed in the book entries above.
+
+Searchable tags: surface development, sheet metal, hem, joint, seam, prism, cylinder, cone, pyramid, Ethiopia Grade 12 Technical Drawing Unit 5, Moldova, Grades 5–6, desfășurata, two-dot line, Sri Lanka, Fiji, Cuba, Educación Laboral, Kazakhstan, Artistic Labour, Labour Training, Papua New Guinea, Technology and Industrial Arts, TIA, teacher guide evidence, Mongolia, visual read

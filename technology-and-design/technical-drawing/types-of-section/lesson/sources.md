@@ -1,6 +1,6 @@
 # Sources — Types of section — choosing and drawing the right cut
 
-countries: Belarus, Cuba, Ethiopia, Fiji
+countries: Belarus, Cuba, Ethiopia, Fiji, Mongolia
 
 **Book 1:** *Basic Technical Drawing, Teacher Guide, Grade 12* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, in collaboration with Kuraz International Publisher P.L.C., Addis Ababa, first edition, 2003 E.C., ISBN 978-99944-2-097-2, 105 printed pp. Page rule: printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/technical-drawing/g12-teacher-placements.md.
 
@@ -26,7 +26,13 @@ countries: Belarus, Cuba, Ethiopia, Fiji
 |---|---|
 | Cap. 8 §8.1 Dibujo Técnico: cortes y secciones (cuts and sections) (original string `technical-drawing/types-of-section`) | Cuba, *Educación Laboral — 9no grado*, printed p. 286-302 |
 
-**Acceptance count: taught in 3 countries (Belarus, Cuba, Fiji) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+**Book 6:** *Дизайн технологи 9 (Design Technology, Grade 9)* (student book) — Authors: Г.Чулуунаа (lead), Д.Сэрээтэрдорж, Р.Гоцбаяр, Т.Ариунаа, Ч.Алтанчимэг, Г.Амарсанаа, О.Оюунбаатар. Publisher: Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar. Year/edition: 2019, 3rd printing (first edition 2015), ISBN 978-99962-74-43-5. Grade: 9. Language: Mongolian. Kind: student book. Pages: 99 PDF pp. (98 printed pp. incl. covers). Size verified: 43,701,029 bytes, exact release-asset size. Source + route: GitHub release asset `mid-size-books-8/grade-09-gov-mongolia-mongolia-grade-09-design-technology.pdf` via grab.py url. Cover verified (sectioned axonometric part, gear shaft, deel illustration). COMPLETE — read in full. Structure: Unit 1 Design & drawing — working drawings, sections, composition (printed pp. 6–20); Unit 2 Processing technology — Mongolian clothing, ornaments, dairy, patchwork, carving, blacksmith craft (printed pp. 21–75); Unit 3 Technics — machines, labour-saving devices, model boats (printed pp. 76–96). Read method note (as filed): this book is an image-only scan with no text layer; it was read by a VISUAL-READ method — rendered pages read as images (every page viewed in contact sheets; covers, contents and technology pages also read at full resolution) — not by text extraction. Placements at liqlearns-courses-work/expansion-td-2026-11-17/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Choosing the section: full sections and half sections by the cutting plane's position, with correct and incorrect section drawings compared (original string `technical-drawing/types-of-section`) | Mongolia, *Design Technology 9 (Mongolia)*, printed p. 9 |
+
+**Acceptance count: taught in 4 countries (Belarus, Cuba, Fiji, Mongolia) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
 
 Cuba's own way: Cuba teaches cortes y secciones in Grade 9 (§8.1) — cuts and sections as the first topic of the technical-drawing chapter.
 
@@ -38,4 +44,6 @@ Honesty: The placements state that the guide identifies and compares the types o
 
 Belarus's own way: Belarus teaches разрэзы (sectional views) as the step beyond сячэнні — the cut shows the object behind the cutting plane as well — and then combines view and section in one image, including the half-view/half-section of a symmetric part.
 
-Searchable tags: technical drawing, types of section, full section, half section, offset section, revolved section, removed section, Grade 12, Ethiopia, Fiji, Cuba, Educación Laboral
+Mongolia's own way: Mongolia teaches this inside Design Technology (Дизайн технологи) — Choosing the section: full sections and half sections by the cutting plane's position, with correct and incorrect section drawings compared. The Mongolian classroom's own examples named in the provenance rows above are part of the teaching, not decoration. Mongolia's books are image-only scans read by a VISUAL-READ method, as filed in the book entries above.
+
+Searchable tags: technical drawing, types of section, full section, half section, offset section, revolved section, removed section, Grade 12, Ethiopia, Fiji, Cuba, Educación Laboral, Mongolia, visual read

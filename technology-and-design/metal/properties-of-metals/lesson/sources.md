@@ -1,6 +1,6 @@
 # Sources — Properties of metals
 
-countries: Papua New Guinea
+countries: Papua New Guinea, Mongolia
 
 **Book 1:** Full title: Technology and Industrial Arts — Construction Technology, Junior High Grade 9 Teacher Guide, Standards-Based | Publisher: Department of Education, Papua New Guinea (Curriculum Development Division), 2023, ISBN 978-9980-921-12-3 | Grade: 9 | Language: English | Pages: 428 PDF pp. (printed to p. 421; printed p. = PDF p. − 7) | Source: GitHub release asset `mid-size-books-8/grade-09-gov-papua-new-guinea-construction-technology-teacher-grade-9-construction-technology-teachers-guide.pdf` via grab.py url, 22,255,891 bytes (exact match to books.json record), cover verified (blue TIA cover, bird-of-paradise emblem) | Kind: teacher guide | COMPLETE — teaching runs Unit 1 printed p. 48 to Unit 5, then planning/assessment apparatus, five trade glossaries (inventory only, not placed), references and project appendices to printed p. 421. Kind: EVIDENCE (teacher guide) — placements sourced from this guide are stocked as evidence rows and stay outside the acceptance counts. Placements at liqlearns-courses-work/expansion-td-2026-11-17/papua-new-guinea-placements.md.
 
@@ -8,8 +8,22 @@ countries: Papua New Guinea
 |---|---|
 | Unit 4 Topic 4 lessons: Types of metals; Metal Properties (teacher guide — evidence) (original string `properties of metals`) | Papua New Guinea, *PNG G9 Construction*, printed p. 166 (table) |
 
-**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Papua New Guinea), named here, counted nowhere.**
+**Book 2:** *Дизайн технологи 7 (Design Technology, Grade 7)* (student book) — Authors: Д.Сэрээтэрдорж (lead), Г.Чулуунаа, Д.Хөхөө, С.Оттонтуяа, Д.Алтанцацэг, У.Лхагвадорж, Ч.Алтанчимэг. Publisher: Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar. Year/edition: 2019, 2nd printing (first edition 2017), ISBN 978-99978-61-04-7. Grade: 7. Language: Mongolian. Kind: student book. Pages: 151 PDF pp. (148 printed pp. + covers). Size verified: 68,175,321 bytes, exact release-asset size. Source + route: GitHub release asset `mid-size-books-8/grade-07-gov-mongolia-mongolia-grade-07-design-technology.pdf` via grab.py url. Cover verified (circuit diagram, chain drive, dimensioned drawing). COMPLETE — read in full. Structure: Unit 1 Design drawing (printed pp. 8–34, incl. the packaging project); Unit 2 Processing technology (printed pp. 36–124); Unit 3 Technics (printed pp. 126–146). Answers to exercises printed p. 147, bibliography and web resources printed p. 148 (inventory only). Read method note (as filed): this book is an image-only scan with no text layer; it was read by a VISUAL-READ method — rendered pages read as images (every page viewed in contact sheets; covers, contents and technology pages also read at full resolution) — not by text extraction. Placements at liqlearns-courses-work/expansion-td-2026-11-17/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| pure iron, cast iron and steels — carbon content and steel grades (Ст30, Ст40, У7А–У13), microstructure, and the technological properties (malleability, weldability, machinability) (original string `The structure and properties of metals`) | Mongolia, *Design Technology 7 (Mongolia)*, printed p. 103 |
+
+**Book 3:** *Дизайн технологи 8 (Design Technology, Grade 8)* (student book) — Authors: Г.Чулуунаа (lead), Д.Сэрээтэрдорж, Р.Гоцбаяр, У.Лхагвадорж, Д.Алтанцацэг, С.Гэрэлтуяа, М.Баасанбаяр, С.Нямсүрэн, С.Цолмон. Publisher: Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar. Year/edition: 2019, 3rd printing (first edition 2015), ISBN 978-99962-74-34-3. Grade: 8. Language: Mongolian. Kind: student book. Pages: 95 PDF pp. (96 printed pp. incl. covers). Size verified: 24,800,859 bytes, exact release-asset size. Source + route: GitHub release asset `mid-size-books-8/grade-08-gov-mongolia-mongolia-grade-08-design-technology.pdf` via grab.py url. Cover verified (projection cube, gear-toy hedgehog, hot-wire cutter, planetary gears). COMPLETE — read in full. Structure: Unit 1 Design drawing (printed pp. 8–24); Unit 2 Processing technology — five projects: skirt, knitting, healthy food, wooden toy, plus metals and plastics (printed pp. 26–78); Unit 3 Technics — model aircraft and moving-product projects (printed pp. 80–92). Read method note (as filed): this book is an image-only scan with no text layer; it was read by a VISUAL-READ method — rendered pages read as images (every page viewed in contact sheets; covers, contents and technology pages also read at full resolution) — not by text extraction. Placements at liqlearns-courses-work/expansion-td-2026-11-17/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| strength, hardness, elasticity and plasticity — and the tests that show them (bending, hardness, impact and tensile tests) (original string `The mechanical properties of metals`) | Mongolia, *Design Technology 8 (Mongolia)*, printed p. 68 |
+
+**Acceptance count: taught in 1 country (Mongolia) — plus teacher-guide evidence only (Papua New Guinea), named here, counted nowhere.**
 
 Papua New Guinea's own way: Papua New Guinea teaches this inside Technology and Industrial Arts (TIA), Standards-Based — Types of metals; Metal Properties. The PNG classroom's own examples named in the provenance rows above are part of the teaching, not decoration.
 
-Searchable tags: properties of metals, metal, Papua New Guinea, Technology and Industrial Arts, TIA, Standards-Based, teacher guide evidence
+Mongolia's own way: Mongolia teaches this inside Design Technology (Дизайн технологи) — pure iron, cast iron and steels — carbon content and steel grades (Ст30, Ст40, У7А–У13), microstructure, and the technological properties (malleability, weldability, machinability). The Mongolian classroom's own examples named in the provenance rows above are part of the teaching, not decoration. Mongolia's books are image-only scans read by a VISUAL-READ method, as filed in the book entries above.
+
+Searchable tags: properties of metals, metal, Papua New Guinea, Technology and Industrial Arts, TIA, Standards-Based, teacher guide evidence, Mongolia, visual read

@@ -1,6 +1,6 @@
 # Sources — Sewing tools and equipment
 
-countries: Samoa, Kazakhstan, Papua New Guinea
+countries: Samoa, Kazakhstan, Papua New Guinea, Mongolia
 
 **Book 1:** *Food and Textiles Technology — Year 9, Book 3: Design & Textiles* (student) — Samoa, Government of Samoa, Ministry of Education, Sports and Culture (MESC), with NZAID. Year: 2004. Grade: Year 9. Language: English (with Samoan terms). Pages: 55 (53 printed pages + covers). Source: GitHub tree `grade-09/gov/samoa/food-textiles/student/book-3.pdf`, 4,296,067 bytes, cover verified (purple "Food and Textiles Technology — Design and Textiles, Book 3, Year 9"). Kind: student. Read: COMPLETE. Placements at liqlearns-courses-work/expansion-td-2026-11-17/samoa-placements.md.
 
@@ -20,10 +20,24 @@ countries: Samoa, Kazakhstan, Papua New Guinea
 |---|---|
 | Unit 1 benchmark 9.1.1.4 lessons: Textile Construction methods tools and their functions; Safety when using textile tools and equipment; Care and maintenance of textile products (teacher guide — evidence) (original string `textile tools and equipment`) | Papua New Guinea, *PNG G9 Textile*, printed p. 43 |
 
-**Acceptance count: taught in 2 countries (Samoa, Kazakhstan) — plus teacher-guide evidence only (Papua New Guinea), named here, counted nowhere.**
+**Book 4:** *Дүрслэх урлаг, технологи 4 (Visual Art & Technology, Grade 4)* (student book) — Authors: Д.Цэдэн-Иш, А.Ариунболд, Б.Ариунболор, З.Баярмагнай, О.Болор, У.Лхагвадорж, С.Оттонтуяа, С.Цолмон, Г.Чулуунаа. Publisher: Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar. Year/edition: 2020, 7th printing (first edition 2014), ISBN 978-99973-69-59-8. Grade: 4. Language: Mongolian. Kind: student book. Pages: 75 PDF pp. (72 printed pp. + covers). Size verified: 16,111,375 bytes, exact release-asset size. Source + route: GitHub release asset `mid-size-books-9/grade-04-gov-mongolia-mongolia-grade-04-art-and-technology.pdf` via grab.py url. Cover verified. COMPLETE — read in full. Structure: Part I (printed pp. 6–37) is colour, drawing methods and Mongolian painting — placed by the Art wave, not here. Part II (printed pp. 38–71) is the technology part, placed below. Bibliography printed p. 72 (inventory only). Read method note (as filed): this book is an image-only scan with no text layer; it was read by a VISUAL-READ method — rendered pages read as images (every page viewed in contact sheets; covers, contents and technology pages also read at full resolution) — not by text extraction. Placements at liqlearns-courses-work/expansion-td-2026-11-17/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| hand and machine sewing, needle sizes No. 1–12, thimble, tape measure, pin cushion — matching each tool to its job (original string `Sewing tools and their uses`) | Mongolia, *Art & Technology 4 (Mongolia)*, printed p. 61 |
+
+**Book 5:** *Дизайн технологи 7 (Design Technology, Grade 7)* (student book) — Authors: Д.Сэрээтэрдорж (lead), Г.Чулуунаа, Д.Хөхөө, С.Оттонтуяа, Д.Алтанцацэг, У.Лхагвадорж, Ч.Алтанчимэг. Publisher: Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar. Year/edition: 2019, 2nd printing (first edition 2017), ISBN 978-99978-61-04-7. Grade: 7. Language: Mongolian. Kind: student book. Pages: 151 PDF pp. (148 printed pp. + covers). Size verified: 68,175,321 bytes, exact release-asset size. Source + route: GitHub release asset `mid-size-books-8/grade-07-gov-mongolia-mongolia-grade-07-design-technology.pdf` via grab.py url. Cover verified (circuit diagram, chain drive, dimensioned drawing). COMPLETE — read in full. Structure: Unit 1 Design drawing (printed pp. 8–34, incl. the packaging project); Unit 2 Processing technology (printed pp. 36–124); Unit 3 Technics (printed pp. 126–146). Answers to exercises printed p. 147, bibliography and web resources printed p. 148 (inventory only). Read method note (as filed): this book is an image-only scan with no text layer; it was read by a VISUAL-READ method — rendered pages read as images (every page viewed in contact sheets; covers, contents and technology pages also read at full resolution) — not by text extraction. Placements at liqlearns-courses-work/expansion-td-2026-11-17/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| tape measure and ruler (1 inch = 2.54 cm), tailor's chalk and carbon paper for transferring patterns, the kinds of scissors, pins and needles (original string `Sewing tools and measuring`) | Mongolia, *Design Technology 7 (Mongolia)*, printed p. 42 |
+
+**Acceptance count: taught in 3 countries (Samoa, Kazakhstan, Mongolia) — plus teacher-guide evidence only (Papua New Guinea), named here, counted nowhere.**
 
 Papua New Guinea's own way: Papua New Guinea teaches this inside Technology and Industrial Arts (TIA), Standards-Based — Textile Construction methods tools and their functions; Safety when using textile tools and equipment; Care and maintenance of textile products. The PNG classroom's own examples named in the provenance rows above are part of the teaching, not decoration.
 
 Kazakhstan's own way: Kazakhstan teaches this inside Художественный труд / Көркем еңбек (Artistic Labour) and Трудовое обучение / Еңбекке баулу (Labour Training) — Machines, equipment, tools and devices for processing textile materials (§14). The Kazakh classroom's own examples, materials and national crafts named in the Kazakhstan provenance rows above are part of the teaching, not decoration.
 
-Searchable tags: sewing tools, scissors, tape measure, sewing kit, equipment care, Samoa, Year 9, textiles and fashion, Kazakhstan, Artistic Labour, Labour Training, Papua New Guinea, Technology and Industrial Arts, TIA, teacher guide evidence
+Mongolia's own way: Mongolia teaches this inside Visual Art & Technology (Дүрслэх урлаг, технологи) and Design Technology (Дизайн технологи) — hand and machine sewing, needle sizes No. 1–12, thimble, tape measure, pin cushion — matching each tool to its job. The Mongolian classroom's own examples named in the provenance rows above are part of the teaching, not decoration. Mongolia's books are image-only scans read by a VISUAL-READ method, as filed in the book entries above.
+
+Searchable tags: sewing tools, scissors, tape measure, sewing kit, equipment care, Samoa, Year 9, textiles and fashion, Kazakhstan, Artistic Labour, Labour Training, Papua New Guinea, Technology and Industrial Arts, TIA, teacher guide evidence, Mongolia, visual read

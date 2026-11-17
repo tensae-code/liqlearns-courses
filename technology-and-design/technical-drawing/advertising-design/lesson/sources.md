@@ -1,6 +1,6 @@
 # Sources — Advertising design
 
-countries: Malaysia, Moldova
+countries: Malaysia, Moldova, Mongolia
 
 **Book 1:** *Educație tehnologică — Manual pentru clasa a IX-a (Technological Education — Textbook for Grade 9)* (student textbook) — Moldova, Authors: Ana Tverdohleb, Ion Șaragov, Lilia Platon, Veronica Loghinova, Inga Mațcan-Lîsenco, Angela Tocarciuc, Angela Ghelbet, Sergiu Tronciu, Daniela Holban, Vasile Plămădeală, Elena Bivol. Publisher: Editura Epigraf, 2024 (printed by Editura Universul); Ministry of Education and Research of the Republic of Moldova; written to the discipline curriculum approved by Order no. 1124 of 20 July 2018 and approved by Order no. 683 of 15 May 2024; ISBN 978-9975-60-553-3. Grade: Grade 9. Language: Romanian. Pages: 256 (PDF; printed p. = PDF p.), verified byte size 25,890,552 = record size. Source + route: tensae-code/liqlearns-textbooks, release asset in mid-size-books-8 via grab.py url route — grade-09/gov/moldova/technological-education/student/moldova-g09-technological-education.pdf. Kind: student textbook. Read: COMPLETE (whole book's parts read at their teaching pages; every part's project cycle checked). The book is built as eleven parts, each run as a project: design (elaborare/proiectare) → make (realizare) → evaluate and valorise (evaluare și valorificare). Placements at liqlearns-courses-work/expansion-td-2026-11-17/moldova-placements.md.
 
@@ -12,10 +12,20 @@ countries: Malaysia, Moldova
 
 | Designing the advertisement: choosing the advertising-design method that fits the product made, analysing the chosen method, concluding which method suits the product, and producing the advertising design (original string `Designing the advertisement`) | Malaysia, *RBT Tingkatan 3*, printed p. 139–168 |
 
-**Acceptance count: taught in 2 countries (Malaysia, Moldova).**
+**Book 3:** *Дизайн зураг зүй, технологи X (Design Drawing and Technology, Grade 10)* (student book) — Full title: Дизайн зураг зүй, технологи X — Ерөнхий боловсролын 12 жилийн сургуулийн 10 дугаар ангийн сурах бичиг (Design Drawing and Technology X — textbook for Grade 10 of the 12-year general-education school) Authors: Гоцбаяр Р. ба бус. (R. Gotsbayar et al.); editors Д. Мөнхбаяр, Б. Зоригтбаатар, С. Нямсүрэн, Г. Амарсанаа Publisher: Ministry of Education, Culture, Science and Sports of Mongolia (Боловсрол, Соёл, Шинжлэх Ухаан, Спортын Яам), Ulaanbaatar; printed under an Asian Development Bank education project; ISBN 978-99978-61-83-2 Year/edition: 2019 Grade: 10 Language: Mongolian Pages: 199 page images (printed pp. 1–198 + cover); the library record gives the original PDF as 43,688,716 B Source + route: the recorded file is NOT in GitHub — the tree folder grade-10/gov/mongolia holds only books.json + CURRICULUM.md, and full paginated scans of every release (mid-size-books 1–9, 15, 26; full-quality-oversized-books) found no asset for it, although the push state marks it pushed. Read instead from the record's own source: the Ministry's econtent.edu.mn digital textbook library, book id 345 (https://econtent.edu.mn/pages/more.php?id=345), whose official flipbook serves the book page by page — all 199 page images fetched and assembled for the read. The assembled PDF is STAGED at phase3-staging/grade-10/gov/mongolia/mongolia-grade-10-design-technology.pdf (push-don't-delete; the staging books.json record for this book already exists there). Kind: student textbook Read: COMPLETE (cover, imprint, full contents at printed p. 3 and foreword read directly; every section's pages fetched; printed p. = flipbook page number) Read method note (as filed): the recorded file is not in GitHub; the book was read from the Ministry's econtent.edu.mn digital textbook library (book id 345), whose official flipbook serves the book page by page — all 199 page images fetched and assembled for the read — a visual read of page images, not a text-layer read. Placements at liqlearns-courses-work/expansion-td-2026-11-17/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| advertising design, and photo-collage art (фото зургийн коллаж-зүймэл урлаг) (original string `advertising design and photo collage`) | Mongolia, *Дизайн зураг зүй, технологи X*, printed p. 76 |
+| about advertising: what an advertisement is and what it does (original string `advertising design`) | Mongolia, *Дизайн зураг зүй, технологи X*, printed p. 81 |
+| how advertising affects the human mind — the psychology an advertiser designs for (original string `advertising design`) | Mongolia, *Дизайн зураг зүй, технологи X*, printed p. 87 |
+
+**Acceptance count: taught in 3 countries (Malaysia, Moldova, Mongolia).**
 
 Moldova's own way: Moldova teaches advertising design inside the Grade 9 graphic-design part as staged project work — study, then the production project — worked on a poster for a school event.
 
 Malaysia's own way: Malaysia produces the advertising design as the capstone of its Tingkatan 3 business strand — the method is chosen for the product the learners themselves developed, analysed, concluded on, and only then produced.
 
-Searchable tags: advertising design, poster, graphic design, production project, Moldova, Grade 9, Romanian, Malaysia, Tingkatan 3, advertising method, product
+Mongolia's own way: Mongolia teaches this inside Visual Art & Technology (Дүрслэх урлаг, технологи) — advertising design, and photo-collage art (фото зургийн коллаж-зүймэл урлаг). The Mongolian classroom's own examples named in the provenance rows above are part of the teaching, not decoration. Mongolia's books are image-only scans read by a VISUAL-READ method, as filed in the book entries above.
+
+Searchable tags: advertising design, poster, graphic design, production project, Moldova, Grade 9, Romanian, Malaysia, Tingkatan 3, advertising method, product, Mongolia, visual read

@@ -1,6 +1,6 @@
 # Sources — Sectioning — words and common practice
 
-countries: Belarus, Cuba, Ethiopia, Sri Lanka
+countries: Belarus, Cuba, Ethiopia, Sri Lanka, Mongolia
 
 **Book 1:** *Basic Technical Drawing, Teacher Guide, Grade 12* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, in collaboration with Kuraz International Publisher P.L.C., Addis Ababa, first edition, 2003 E.C., ISBN 978-99944-2-097-2, 105 printed pp. Page rule: printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/technical-drawing/g12-teacher-placements.md.
 
@@ -22,7 +22,13 @@ countries: Belarus, Cuba, Ethiopia, Sri Lanka
 |---|---|
 | Cap. 8 §8.1: how sections are drawn and used in technical drawing (original string `technical-drawing/sectioning-words-and-practice`) | Cuba, *Educación Laboral — 9no grado*, printed p. 286-302 |
 
-**Acceptance count: taught in 3 countries (Belarus, Cuba, Sri Lanka) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+**Book 5:** *Дизайн технологи 9 (Design Technology, Grade 9)* (student book) — Authors: Г.Чулуунаа (lead), Д.Сэрээтэрдорж, Р.Гоцбаяр, Т.Ариунаа, Ч.Алтанчимэг, Г.Амарсанаа, О.Оюунбаатар. Publisher: Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar. Year/edition: 2019, 3rd printing (first edition 2015), ISBN 978-99962-74-43-5. Grade: 9. Language: Mongolian. Kind: student book. Pages: 99 PDF pp. (98 printed pp. incl. covers). Size verified: 43,701,029 bytes, exact release-asset size. Source + route: GitHub release asset `mid-size-books-8/grade-09-gov-mongolia-mongolia-grade-09-design-technology.pdf` via grab.py url. Cover verified (sectioned axonometric part, gear shaft, deel illustration). COMPLETE — read in full. Structure: Unit 1 Design & drawing — working drawings, sections, composition (printed pp. 6–20); Unit 2 Processing technology — Mongolian clothing, ornaments, dairy, patchwork, carving, blacksmith craft (printed pp. 21–75); Unit 3 Technics — machines, labour-saving devices, model boats (printed pp. 76–96). Read method note (as filed): this book is an image-only scan with no text layer; it was read by a VISUAL-READ method — rendered pages read as images (every page viewed in contact sheets; covers, contents and technology pages also read at full resolution) — not by text extraction. Placements at liqlearns-courses-work/expansion-td-2026-11-17/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Section views: the imagined cut, hatching by material (metal at 45°, non-metal cross-hatched, wood with grain), cutting-plane labels with arrows and letters A–A, B–B (MNS ISO 128-44), and removed, revolved and broken-out sections (original string `technical-drawing/sectioning-words-and-practice`) | Mongolia, *Design Technology 9 (Mongolia)*, printed p. 6 |
+
+**Acceptance count: taught in 4 countries (Belarus, Cuba, Sri Lanka, Mongolia) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
 
 Cuba's own way: Cuba teaches cortes y secciones in Grade 9 (§8.1) as the opening of its technical-drawing chapter — how sections are drawn and used.
 
@@ -34,4 +40,6 @@ Belarus's own way: Belarus keeps сячэнні (sections — the cut surface al
 
 Sri Lanka's own way: Sri Lanka adds its Tamil-medium Technology stream teaching (Educational Publications Department; visual-read method, as filed in the book entries above) — drawing cross-section lines and section views (section 1.5.4), worked to a hatched "Section A-A" assembly figure.
 
-Searchable tags: technical drawing, sectioning, sectional view, cutting-plane line, hatching, section lining, Grade 12, Ethiopia, Sri Lanka, Cuba, Educación Laboral
+Mongolia's own way: Mongolia teaches this inside Design Technology (Дизайн технологи) — Section views: the imagined cut, hatching by material (metal at 45°, non-metal cross-hatched, wood with grain), cutting-plane labels with arrows and letters A–A, B–B (MNS ISO 128-44), and removed, revolved and broken-out sections. The Mongolian classroom's own examples named in the provenance rows above are part of the teaching, not decoration. Mongolia's books are image-only scans read by a VISUAL-READ method, as filed in the book entries above.
+
+Searchable tags: technical drawing, sectioning, sectional view, cutting-plane line, hatching, section lining, Grade 12, Ethiopia, Sri Lanka, Cuba, Educación Laboral, Mongolia, visual read

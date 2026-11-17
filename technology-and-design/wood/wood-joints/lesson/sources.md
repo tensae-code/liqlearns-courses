@@ -1,6 +1,6 @@
 # Sources — Wood joints
 
-countries: Cuba, Fiji, Moldova
+countries: Cuba, Fiji, Moldova, Mongolia
 
 **Book 1:** *Educația tehnologică — Manual pentru clasele a 5-a – a 6-a (Technological Education — Textbook for Grades 5–6)* (student textbook) — Moldova, Authors: Angela Eșanu, Ion Șaragov, Nicolae Onofreiciuc, Ana Simac. Publisher: Editura ARC; Ministry of Education of the Republic of Moldova; edition approved for reprinting by Order no. 357 of 20 May 2011, 2017 reprint (PDF produced May 2017). Grade: Grades 5–6 combined volume — the library record names it "Manual pentru clasa a VI-a"; the file itself is the combined Grades 5–6 manual (cover: "Manual pentru clasele a 5-a – a 6-a"), so both grades' halves are placed here under this one record. Language: Romanian. Pages: 208 (PDF; printed p. = PDF p.), verified byte size 50,000,056 = record size (record also states 208 pages). Source + route: tensae-code/liqlearns-textbooks, release asset in mid-size-books-8 via grab.py url route after the tree route 404'd — grade-06/gov/moldova/technological-education/student/moldova-g06-technological-education.pdf. Kind: student textbook. Read: COMPLETE (both grades' wood modules read in full; every other module's sections read at their teaching pages). Placements at liqlearns-courses-work/expansion-td-2026-11-17/moldova-placements.md.
 
@@ -26,7 +26,13 @@ countries: Cuba, Fiji, Moldova
 | Cap. 3 §3.4 (original string `joining wood`) | Cuba, *Educación Laboral y Dibujo Básico — 7mo grado (2023 Biblioteca edition)*, printed p. 152-162 |
 | Cap. 6 (original string `joining wood`) | Cuba, *Educación Laboral — 9no grado*, printed p. 236-253 |
 
-**Acceptance count: taught in 3 countries (Cuba, Fiji, Moldova).**
+**Book 7:** *Дизайн технологи 8 (Design Technology, Grade 8)* (student book) — Authors: Г.Чулуунаа (lead), Д.Сэрээтэрдорж, Р.Гоцбаяр, У.Лхагвадорж, Д.Алтанцацэг, С.Гэрэлтуяа, М.Баасанбаяр, С.Нямсүрэн, С.Цолмон. Publisher: Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar. Year/edition: 2019, 3rd printing (first edition 2015), ISBN 978-99962-74-34-3. Grade: 8. Language: Mongolian. Kind: student book. Pages: 95 PDF pp. (96 printed pp. incl. covers). Size verified: 24,800,859 bytes, exact release-asset size. Source + route: GitHub release asset `mid-size-books-8/grade-08-gov-mongolia-mongolia-grade-08-design-technology.pdf` via grab.py url. Cover verified (projection cube, gear-toy hedgehog, hot-wire cutter, planetary gears). COMPLETE — read in full. Structure: Unit 1 Design drawing (printed pp. 8–24); Unit 2 Processing technology — five projects: skirt, knitting, healthy food, wooden toy, plus metals and plastics (printed pp. 26–78); Unit 3 Technics — model aircraft and moving-product projects (printed pp. 80–92). Read method note (as filed): this book is an image-only scan with no text layer; it was read by a VISUAL-READ method — rendered pages read as images (every page viewed in contact sheets; covers, contents and technology pages also read at full resolution) — not by text extraction. Placements at liqlearns-courses-work/expansion-td-2026-11-17/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| corner, tee and cross joints — halving joints and housed (үүртэй) joints for frames, chair legs and boxes (original string `Wood joints`) | Mongolia, *Design Technology 8 (Mongolia)*, printed p. 64 |
+
+**Acceptance count: taught in 4 countries (Cuba, Fiji, Moldova, Mongolia).**
 
 Cuba's own way: Cuba teaches joining wood in Grade 7 — butt and half-lap (a media madera) joints, nails, dowels (tarugos) and screws, with hot and cold glues — and again in the 2023 book (ensambles and empalmes, the cajuela steps, the tirafondo screw) and in Grade 9 workshop articles.
 
@@ -34,4 +40,6 @@ Fiji's own way: Fiji teaches wood joints in two passes — Year 9 takes the lap,
 
 Moldova's own way: Moldova teaches assembling (asamblare) in Grade 5 as three honest methods — nailing with its strength-versus-splitting trade-off stated, screwing, and gluing in the vice.
 
-Searchable tags: wood joints, assembling, asamblare, nailing, screwing, gluing, vice, nails, Moldova, Grades 5–6, Romanian, Fiji, Cuba, Educación Laboral
+Mongolia's own way: Mongolia teaches this inside Design Technology (Дизайн технологи) — corner, tee and cross joints — halving joints and housed (үүртэй) joints for frames, chair legs and boxes. The Mongolian classroom's own examples named in the provenance rows above are part of the teaching, not decoration. Mongolia's books are image-only scans read by a VISUAL-READ method, as filed in the book entries above.
+
+Searchable tags: wood joints, assembling, asamblare, nailing, screwing, gluing, vice, nails, Moldova, Grades 5–6, Romanian, Fiji, Cuba, Educación Laboral, Mongolia, visual read
