@@ -1,0 +1,11 @@
+# Video script — Peace a Longing of Humanity
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). This script is full: the placements name a video-script need for this lesson. Made later, when videos are made; the script is the slot's written form until then.
+
+---
+
+Venezuela Grade 6 G6 CS Venezuela y Su Gente, printed p. 170, teaches: Peace, a longing of humanity — without justice there is no peace: social justice means defending everyone's right to food, a hygienic house, health, education, paid work and respect for their dignity, and peoples' self-determination makes peaceful coexistence possible; defending human rights everywhere is an individual and collective responsibility, and rights begin in small places close to home — the neighbourhood, the school, the workplace (Eleanor Roosevelt); Venezuela's constitution carries the UN's pacifist principles in its own preamble: peaceful coexistence among nations and respect for peoples' self-determination.
+
+Venezuela Grade 7 G7 CS Patria y Ciudadanía, printed p. 68 (PARTIAL — the secured file ends at printed p. 92, exactly as filed), teaches: Peace spokespersons in the secondary school — summon your school's student spokespersons and constitute the peace spokespersonships (vocerías de paz), to learn to build the culture of peace needed to strengthen citizen coexistence in educational spaces.
+
+Venezuela's own way: the primary course closes with "Misión Ciudadanía" — citizenship as a mission: the constitution's liberty carries the duty to respect others' liberty, democracy is practised in communal councils where "Popular Power is all of us", work is both a right and a duty, and the book ends on peace — human rights begin in the small places near home, in Eleanor Roosevelt's words, and pupils keep a notebook of rights kept and rights violated in their own small world. the first secondary civics book builds belonging as a ladder — family community, school community, municipal, regional and national community, with the Communal Council standing beside them — and participation itself is the lesson: the Constitution gives everyone a broad right to participate in forming, executing and controlling public management, as both a right and a common duty.

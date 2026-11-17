@@ -1,16 +1,24 @@
 # Sources — Social Solidarity Helping Each Other
 
-countries: Kuwait
+countries: Kuwait, Venezuela
 
 **Book 1:** *Social Studies G6 Term 1* (student book, Arabic) — Title as printed: دولة الكويت و دول الخليج العربية — الصف السادس — الفصل الدراسي الأول (State of Kuwait and the Arab Gulf States, Grade 6, Term 1). Grade: Grade 6 Term 1 (student/teacher: STUDENT). Publisher: Ministry of Education, State of Kuwait; year 2026–2027 (2nd edition, 1448H); ISBN 978-9921-33-030-4. PDF pages: 114 (cover verified — Kuwait Towers cover, title and grade as printed; read in place at phase3-staging/grade-06/gov/kuwait/social-studies/student/term-1.pdf, 50,971,017 bytes on disk; printed page numbers = PDF page numbers). Earlier waves: Geography wave placed the Geography units (printed pp. 18–37, 44–46, 64–68, 82–96); History wave placed pp. 47–76 history parts; Economics wave placed pp. 82–97 old economic activities. The values unit was named in all three headers, never placed. Verdict: COMPLETE. Contents map: Geography pp. 18–37; History/Civilisation pp. 44–76; Economics pp. 82–97; Morals/Values pp. 102–110 (the "Stations with Good Kuwait" وقفات مع كويت الطيب unit). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/kuwait-placements.md.
+
+**Book 2:** *¡Viva Venezuela! Ciencias Sociales 3er Grado* (student book, Spanish) — Title as printed: ¡Viva Venezuela! Ciencias Sociales 3er Grado. Grade: Grade 3 (student/teacher: STUDENT). Publisher: Ministerio del Poder Popular para la Educación / Colección Bicentenario; year 2014 (fourth edition, April 2014); ISBN 978-980-218-299-2. PDF pages: 91 (printed pages run to 176 in spreads; cover verified — "VIVA VENEZUELA Ciencias Sociales 3er GRADO"; 12,625,039 bytes via the book's recorded Google Drive source, pdfinfo-verified, matching the earlier waves' verified copy). Earlier waves: Geography wave placed pp. 22–170 geography parts; History wave placed pp. 12, 18, 38, 56–168 history parts (incl. ¿Quiénes somos? p. 60 and Tenemos patria p. 62 in their history angles, and Novedades de la igualdad ante la ley p. 110 in its women's-history angle — those lessons are ALREADY PLACED and not re-placed here); Economics wave placed p. 18 (Simón Rodríguez) and the work lesson p. 74. Verdict: COMPLETE. Contents map: Integrated SS pp. 8–54 (school, rules, family, community); Civics/Citizenship pp. 20, 50–54, 110; Morals/Values pp. 10, 36, 108; Geography pp. 22–48, 66–68, 114–170; History pp. 56–102; Economics pp. 18, 74; Health p. 42 (¡Buen provecho! — food, named not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/venezuela-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — culture-and-work/social-solidarity-helping-each-other — Stations with Good Kuwait 1: Social solidarity (التكافل الاجتماعي) — teaches: the value of social solidarity through the old Failaka neighbourhood story — when the fisherman Bu Khalid fell ill and lost his only income, neighbours visited him and quietly left a rupee or two under his pillow so he was helped without embarrassment, until he recovered and returned to the sea — Kuwait Grade 6 Term 1, printed pp. 102–104 | Kuwait, *Social Studies G6 Term 1* (student book), Stations with Good Kuwait 1: Social solidarity (التكافل الاجتماعي) — printed pp. 102–104 |
 | Sub lesson 2 — Kuwait's way — the book's own teaching way | Kuwait — the book's own way of teaching (see below) |
 
-**Acceptance count: taught in 1 country (Kuwait).**
+| Lesson part | Where it comes from |
+|---|---|
+| Venezuela part 1 — culture-and-work/social-solidarity-helping-each-other — Solidaridad con quienes la necesitan — teaches: solidarity with those who need it — Lincoln collecting money in the streets of New Orleans to buy an enslaved sailor's freedom, and international solidarity today: Caracas's Children's Heart Hospital treats children from Venezuela and the whole world free, because where health is privatised the same operation costs thousands — Venezuela Grade 3 G3 CS Viva Venezuela, printed p. 108 | Venezuela, *¡Viva Venezuela! Ciencias Sociales 3er Grado* (student book), Solidaridad con quienes la necesitan — printed p. 108 |
+
+**Acceptance count: taught in 2 countries (Kuwait, Venezuela).**
 
 Kuwait's own way (Grade 6 Term 1): Every term closes with a "Stations with Good Kuwait" values unit — each value taught through a named Kuwaiti story or person (a Failaka neighbourhood, the poet Mudhi al-Ubaidi, the water benefactor Sabil bin Duaij), then practice activities asking how the value changes the pupil's own daily behaviour.
 
-Searchable tags: social solidarity helping each other, Kuwait, social studies, culture-and-work
+Venezuela's own way (Venezuela Grade 3 G3 CS Viva Venezuela): coexistence is the spine of the primary book — respect, rules, family and community are each defined in plain words, then practised: the class votes in assembly, community leaders must learn to agree, and solidarity is taught from Lincoln's collection for an enslaved sailor to Caracas's free children's heart hospital serving the whole continent.
+
+Searchable tags: social solidarity helping each other, Kuwait, social studies, culture-and-work, Venezuela
