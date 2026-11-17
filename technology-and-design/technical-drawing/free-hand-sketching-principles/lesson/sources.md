@@ -1,6 +1,6 @@
 # Sources — Free-hand sketching — principles and place in design
 
-countries: Belarus, Ethiopia, Fiji, Jamaica, Malaysia, Moldova, Sri Lanka
+countries: Belarus, Ethiopia, Fiji, Indonesia, Jamaica, Malaysia, Moldova, Sri Lanka
 
 **Book 1:** *Basic Technical Drawing, Teacher Guide, Grade 12* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, in collaboration with Kuraz International Publisher P.L.C., Addis Ababa, first edition, 2003 E.C., ISBN 978-99944-2-097-2, 105 printed pp. Page rule: printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/technical-drawing/g12-teacher-placements.md.
 
@@ -38,7 +38,23 @@ countries: Belarus, Ethiopia, Fiji, Jamaica, Malaysia, Moldova, Sri Lanka
 | Geometry: sketching (original string `technical-drawing/free-hand-sketching-principles`) | Fiji, *Basic Technology — Year 10*, printed p. 13-14 |
 | Ch. 3: freehand sketching and tone (original string `technical-drawing/free-hand-sketching-principles`) | Fiji, *Year 13 Technical Drawing Textbook*, printed p. 67-69 |
 
-**Acceptance count: taught in 6 countries (Belarus, Fiji, Jamaica, Malaysia, Moldova, Sri Lanka) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+**Book 11:** *Buku Panduan Guru Prakarya: Kerajinan untuk SMP/MTs Kelas VII* (teacher guide) — Indonesia, Publisher: Kemendikbudristek, Pusat Perbukuan, 2022. Grade 7 (SMP/MTs). Language: Indonesian. 312 PDF pages (printed pp. 1–292 + front matter). Source: GitHub repo tensae-code/liqlearns-textbooks, tree route (`grade-07/gov/indonesia/prakarya/teacher/full-year-kerajinan.pdf`), 4,936,876 bytes, cover verified (title/grade match). Kind: teacher guide. COMPLETE read (general guide + 4 units + supplement; glossary pp. 263–275 inventory-only, not placed; assessment/reflection items not placed). Short name: Prakarya Kerajinan G7 TG. Kind: EVIDENCE (teacher guide) — placements sourced from this guide are stocked as evidence rows and stay outside the acceptance counts. Placements at liqlearns-courses-work/expansion-td-2026-11-17/indonesia-placements.md.
+
+**Book 12:** *Buku Panduan Guru Prakarya dan Kewirausahaan: Kerajinan untuk SMA/MA Kelas X* (teacher guide) — Indonesia, Publisher: Kemendikbudristek, Pusat Perbukuan, 2022. Grade 10 (SMA/MA). Language: Indonesian. 248 PDF pages. Source: GitHub repo RELEASE route (`mid-size-books-6` release, asset `grade-10-gov-indonesia-prakarya-teacher-full-year-kerajinan.pdf`) after the tree route 404'd, 7,012,382 bytes, cover verified. Kind: teacher guide. COMPLETE read. Short name: Prakarya Kerajinan G10 TG. Kind: EVIDENCE (teacher guide) — placements sourced from this guide are stocked as evidence rows and stay outside the acceptance counts. Placements at liqlearns-courses-work/expansion-td-2026-11-17/indonesia-placements.md.
+
+**Book 13:** *Buku Panduan Guru Prakarya Kerajinan untuk SMA/MA Kelas XII* (teacher guide) — Indonesia, Publisher: Kemendikbudristek, Pusat Perbukuan, 2022. Grade 12 (SMA/MA). Language: Indonesian. 256 PDF pages. Source: GitHub repo RELEASE route (`mid-size-books-7`, asset `grade-12-gov-indonesia-prakarya-teacher-full-year-kerajinan.pdf`) after tree 404, 41,001,044 bytes. Kind: teacher guide. COMPLETE read. Short name: Prakarya Kerajinan G12 TG. Kind: EVIDENCE (teacher guide) — placements sourced from this guide are stocked as evidence rows and stay outside the acceptance counts. Placements at liqlearns-courses-work/expansion-td-2026-11-17/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit I Kegiatan 2: designing a soft-natural-material craft product — display, packaging and the product-creation process chart before making — technical-drawing/free-hand-sketching-principles (teacher guide — evidence) (original string `technical-drawing/free-hand-sketching-principles`) | Indonesia, *Prakarya Kerajinan G7 TG*, p. 54 |
+| Unit II Kegiatan 2: product design draft (rancangan) for semi-hard/hard natural materials, incl. display/packaging and advertising the product — technical-drawing/free-hand-sketching-principles (teacher guide — evidence) (original string `technical-drawing/free-hand-sketching-principles`) | Indonesia, *Prakarya Kerajinan G7 TG*, p. 107 |
+| Unit III Kegiatan 2: planning a soft-artificial-material craft product, incl. packaging and display design — technical-drawing/free-hand-sketching-principles (teacher guide — evidence) (original string `technical-drawing/free-hand-sketching-principles`) | Indonesia, *Prakarya Kerajinan G7 TG*, p. 163 |
+| Unit 1 Kegiatan 2: designing (merancang) a ragam hias motif for a fashion product — technical-drawing/free-hand-sketching-principles (teacher guide — evidence) (original string `technical-drawing/free-hand-sketching-principles`) | Indonesia, *Prakarya Kerajinan G10 TG*, p. 62 |
+| Unit 2 Kegiatan 2: idea board (papan ide) and design sketch (sketsa rancang) for a researched craft product — technical-drawing/free-hand-sketching-principles (teacher guide — evidence) (original string `technical-drawing/free-hand-sketching-principles`) | Indonesia, *Prakarya Kerajinan G12 TG*, p. 116 |
+
+**Acceptance count: taught in 6 countries (Belarus, Fiji, Jamaica, Malaysia, Moldova, Sri Lanka) — plus teacher-guide evidence only (Ethiopia, Indonesia), named here, counted nowhere.**
+
+Indonesia's own way: Indonesia stocks this lesson from its Prakarya Kerajinan teacher guides (teacher-guide evidence only, counted nowhere) — sketching is taught inside designing a craft product: the design draft (rancangan) and design sketch (sketsa rancangan) come before making, and carry the product's display, packaging and presentation with them.
 
 Fiji's own way: Fiji teaches free-hand sketching inside Basic Technology geometry — Year 9 takes sketching with rendering and shading, Year 10 returns to sketching in its geometry opening, and Year 13 Technical Drawing closes the set with freehand sketching and tone.
 
@@ -56,4 +72,4 @@ Malaysia's own way: Malaysia teaches sketching as the designer's thinking record
 
 Sri Lanka's own way: Sri Lanka adds its Tamil-medium Technology stream teaching (Educational Publications Department; visual-read method, as filed in the book entries above) — the intro's account of sketches as the first form of a drawing idea, before the formal drawing.
 
-Searchable tags: technical drawing, free-hand sketching, sketching principles, design process, Grade 12, Ethiopia, Jamaica, Grades 4–6, Resource & Technology, concept drawings, peer critique, Moldova, Grades 5–6, Grade 9, crochiu, schiță, schița de proiect, Malaysia, Tingkatan 1, RBT, kinds of sketch, concept sketch, Sri Lanka, Fiji
+Searchable tags: technical drawing, free-hand sketching, sketching principles, design process, Grade 12, Ethiopia, Jamaica, Grades 4–6, Resource & Technology, concept drawings, peer critique, Moldova, Grades 5–6, Grade 9, crochiu, schiță, schița de proiect, Malaysia, Tingkatan 1, RBT, kinds of sketch, concept sketch, Sri Lanka, Fiji, Indonesia, Prakarya, teacher guide evidence

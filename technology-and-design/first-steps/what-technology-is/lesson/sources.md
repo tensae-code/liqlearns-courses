@@ -1,6 +1,6 @@
 # Sources — What technology is
 
-countries: Azerbaijan, Canada, Iran, Malaysia
+countries: Azerbaijan, Canada, Indonesia, Iran, Malaysia
 
 **Book 1:** *Technology in the Community* (Tulliniliara Reading Series, Level 14) (student reader) — Canada, Government of Nunavut (Department of Education / Department of Family Services), developed and published in Canada by Inhabit Education. Written by Jordan Hoffman, illustrated by Ali Hinch. Publisher: Inhabit Education / Government of Nunavut, © 2019, ISBN 978-0-2287-0447-8 (English edition). Grade: nursery / early level (Tulliniliara Level 14). English edition `Technology-in-the-Community-English.pdf` (1,659,080 bytes, 36 PDF pp.) and Inuktitut edition `Technology-in-the-Community-Inuktitut.pdf` (1,688,700 bytes, 36 PDF pp.) — same book, same structure and pagination, verified from covers and text (parallel editions, read once, placed once). Kind: student reader. Route: grab.py tree. Source: private repo `tensae-code/liqlearns-textbooks` (recorded pushed in phase3-push-state.json), fetched 2026-11-17 via grab.py tree route. Cover verified: "Technology in the Community", Tulliniliara 14. COMPLETE — read to the last teaching page (printed p. 32; back pages are imprint). Placements at liqlearns-courses-work/expansion-td-2026-11-17/canada-placements.md.
 
@@ -22,7 +22,15 @@ countries: Azerbaijan, Canada, Iran, Malaysia
 | Module 1 opening: definitions, relation to scientific literacy, benefits and harms of new technologies, technology and future jobs (original string `technological literacy — what technology and technological literacy are, why they are needed`) | Iran, *Use of New Technologies, Grade 11*, printed p. 3-15 |
 | Module 1 domains section, incl. DDT case for history of technology and Lake Urmia case for futures warning (original string `domains of technological literacy — history of technology, futures study, critical and cultural literacy of technology, technology ethics`) | Iran, *Use of New Technologies, Grade 11*, printed p. 10-22 |
 
-**Acceptance count: taught in 4 countries (Azerbaijan, Canada, Iran, Malaysia).**
+**Book 5:** *Dasar-Dasar Literasi, Matematika, Sains, Teknologi, Rekayasa, dan Seni — Panduan Guru PAUD/TK Fase Fondasi (Kurikulum Merdeka, Edisi Revisi)* (teacher guide) — Indonesia, Publisher: Kemendikbudristek, Republik Indonesia, 2023, Edisi Revisi (ISBN 978-623-118-096-4 (PDF); authors Ignatia Widhiharsanto, Muhammad Akkas). Level: nursery / PAUD-TK foundation phase. Language: Indonesian. 168 PDF pages. Source: GitHub repo RELEASE route (`mid-size-books-7`, asset `nursery-gov-indonesia-dasar-dasar-literasi-matematika-sains-teknologi-rekayasa-dan-seni-teacher-full-year.pdf`) after tree 404, 6,165,364 bytes, cover verified. Kind: teacher guide. COMPLETE read. Only the Teknologi and Rekayasa strands are placed; literacy, mathematics, science and art strands belong to their own courses. Short name: PAUD STEAM Foundations TG. Kind: EVIDENCE (teacher guide) — placements sourced from this guide are stocked as evidence rows and stay outside the acceptance counts. Placements at liqlearns-courses-work/expansion-td-2026-11-17/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bab 2 B.4 Teknologi — what technology is, at foundation level: tools and objects that make human work easier (scissors, laptop, everyday tools) — recognising, using and manipulating a tool's function (the spoon example) (teacher guide — evidence) (original string `what technology is, at foundation level: tools and objects that make human work easier (scissors, laptop, everyday tools) — recognising, using and manipulating a tool's function (the spoon example)`) | Indonesia, *PAUD STEAM Foundations TG*, p. 61 |
+
+**Acceptance count: taught in 4 countries (Azerbaijan, Canada, Iran, Malaysia) — plus teacher-guide evidence only (Indonesia), named here, counted nowhere.**
+
+Indonesia's own way: Indonesia stocks this lesson from its Prakarya teacher guides (teacher-guide evidence only, counted nowhere) — the topic is worked the Prakarya way: observe and explore, then design (merancang), then produce, then present, building from local potential (potensi lokal).
 
 Canada's own way (Nunavut): technology is introduced through the learner's own community — home, school, store and health centre — and through northern machines such as the snowmobile, not through abstract definitions alone. That community frame is carried in this lesson exactly as the book teaches it.
 
@@ -32,4 +40,4 @@ Malaysia's own way: Malaysia teaches what technology is in Tahun 4 as applied sc
 
 Iran's own way: Iran opens Grade 11 *Use of New Technologies* with technological literacy itself — what technology and technological literacy are and why they are needed, set beside scientific literacy, weighing the benefits and harms of new technologies and technology's place in future jobs — and then maps the domains of technological literacy: history of technology (taught through the DDT case), futures study (the Lake Urmia warning), critical and cultural literacy of technology, and technology ethics.
 
-Searchable tags: technology, what technology is, community technology, first steps, Nunavut, Canada, Tulliniliara, materials, processing, Azerbaijan, Grade 2, Russian edition, Malaysia, Tahun 4, RBT, fields of technology, Kuala Lumpur, Iran, Grade 11, Persian
+Searchable tags: technology, what technology is, community technology, first steps, Nunavut, Canada, Tulliniliara, materials, processing, Azerbaijan, Grade 2, Russian edition, Malaysia, Tahun 4, RBT, fields of technology, Kuala Lumpur, Iran, Grade 11, Persian, Indonesia, Prakarya, teacher guide evidence
