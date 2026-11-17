@@ -1,6 +1,6 @@
 # Sources — How Laws Are Made
 
-countries: Samoa, Mexico, Bangladesh, Morocco
+countries: Samoa, Mexico, Bangladesh, Morocco, Guatemala
 
 **Book 1:** *Social Studies — Year 10 Book One* (student book, English) — Title as printed: Social Studies — Year 10 Book One. Grade: Year 10 (student/teacher: STUDENT). Publisher: Government of Samoa, Department of Education; year 2001; ISBN 982-517-009-3. PDF pages: 100 (cover/title page verified against the record title; MESC copy, size 2,049,510 B per download list). Read from the MESC ministry source URL recorded in the books.json record — the same MESC PDF the Geography wave verified byte-for-byte against the record and already secured in GitHub (in_pushed: true) — via the browser text route, cover/title page and ISBN checked against the record before reading; no file staged — the book is already in GitHub, as filed in samoa-placements.md. Earlier waves: Geography wave placed Unit 3–4 skills (graphs, census, pp. 59–98) and named Units 1–2 "Civics, not placed"; History wave placed Unit 1 Topic 1's development narrative, Unit 2's historical case studies, the rights-documents chain, the UDHR and the Mau timeline (pp. 5–6, 10, 25–48) and named the present-day civics parts not placed (voting/law-making pp. 8–18, Japan pp. 19–22, UN/Amnesty/protest pp. 33–45, 48–58); Economics wave placed the census/graph skills only. The civics teaching named by both waves was read and placed here. Verdict: COMPLETE. Contents map: Civics/Citizenship/Government pp. 5–58 (Unit 1 Government; Unit 2 Human Rights); Geography/Skills pp. 59–98 (Units 3–4, placed by Geography wave). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/samoa-placements.md.
 
@@ -42,9 +42,21 @@ Morocco placements — Social Studies remaining strands (2026-11-17):
 |---|---|
 | Morocco part 1 — culture-and-work/parliament-and-making-laws — Axis 1 Lesson 4: Parliament (البرلمان) — teaches: parliament's two chambers and how laws are made — Morocco Grade 8 Fadaa Ijtiamiat 2AC, printed p. 158 | Morocco, *Fadaa Ijtiamiat 2AC* (student book), Axis 1 Lesson 4: Parliament (البرلمان) — printed p. 158 |
 
-**Acceptance count: taught in 4 countries (Samoa, Mexico, Bangladesh, Morocco).**
+**Acceptance count: taught in 5 countries (Samoa, Mexico, Bangladesh, Morocco, Guatemala).**
 
 Morocco's own way (Book 5, Fadaa Ijtiamiat 2AC): the second collège year turns citizenship into the machinery of the state itself — the constitution, the King, parliament, government and courts, then the citizen's constitutional rights, parties, unions, press, local democracy and associations.
 
 Registry note: the original coined string `culture-and-work/parliament-and-making-laws` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/how-laws-are-made`.
 
+Guatemala placements — Social Studies remaining strands (2026-11-17):
+
+**Book 7:** *Ciencias Sociales y Formación Ciudadana, Quinto Grado, MINEDUC 2025 (student book, Spanish) — links file* — Title as printed: Ciencias Sociales y Formación Ciudadana para quinto grado del Nivel de Educación Primaria Grade: Grade 5 (student/teacher: STUDENT) Publisher: MINEDUC, Ministerio de Educación de Guatemala; 2025 edition; no ISBN printed PDF pages: 226 (byte size 114,562,608 matches the download-list record exactly; title page verified against the record title; downloaded from the recorded MINEDUC source and staged in phase3-staging under the new rule — see group log) Earlier waves: not read before (no Grade 5 student book was held; the earlier waves read the Segundo ciclo teacher guide for this cycle) Verdict: COMPLETE (remaining strands read fully, page by page: printed pp. 30–33, 45, 48, 91–97, 126–127, 139–145, 174, 187–198) Contents map: Civics/Citizenship/Government pp. 30–33 (school government, human-rights institutions), 45 (gender equity), 48 (children's rights convention), 94–97 (citizenship, taxes), 126–127 (dialogue, law-making), 139–145 (citizenship rights and duties, family obligations), 174 (democracy), 187–198 (citizen duties, participation, culture of peace, peoples' rights); Morals/Values pp. 91–93 (culture of peace and its values); Geography/History/Economics: the Americas units (physical geography, prehispanic and colonial history, independence, 20th-century conflicts and the Esquipulas peace process as history) — named here, not placed (other strands' waves) Tally: 16 placements — 1 to existing lessons, 15 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/guatemala-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Guatemala part 1 — culture-and-work/how-laws-are-made — Unit 3 "Aprobación de leyes" — teaches: the Legislative power, in the Congress of the Republic, holds the power to create and approve laws; a law is a disposition that commands or forbids; the bodies holding the right of initiative (presenting a bill) — the Executive, the Supreme Court of Justice, the University of San Carlos, among others — Guatemala Grade 5 Ciencias Sociales y Formación Ciudadana (2025), printed p. 127 | Guatemala, *Ciencias Sociales y Formación Ciudadana, Quinto Grado, MINEDUC 2025* (student book), Unit 3 "Aprobación de leyes" — printed p. 127 |
+
+**Acceptance count: taught in 5 countries (Samoa, Mexico, Bangladesh, Morocco, Guatemala).**
+
+Guatemala's own way (Book 7): the fifth-grade book is the series' citizenship book proper — a pupil meets democracy four times over (definition, citizenship, duties, participation) and every right is tied to the article of Guatemala's own Constitution that grants it.
+Registry note: the original coined string `culture-and-work/how-a-law-is-made-initiative-and-approval` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/how-laws-are-made`.

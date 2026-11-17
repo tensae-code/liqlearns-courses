@@ -1,6 +1,6 @@
 # Sources — The Judiciary and the Courts
 
-countries: Yemen, Bahamas, Afghanistan, Morocco
+countries: Yemen, Bahamas, Afghanistan, Morocco, Guatemala
 
 **Book 1:** *التربية الوطنية للصف الخامس من مرحلة التعليم الأساسي (National Education for Grade 5 of Basic Education)* (student book, Arabic) — Republic of Yemen, Ministry of Education; year 1442 AH / 2021 CE (cover print); ISBN no ISBN printed. Title as printed: التربية الوطنية للصف الخامس من مرحلة التعليم الأساسي (National Education for Grade 5 of Basic Education). Grade: 5 (student/teacher: STUDENT). PDF pages: 66 (cover/title page verified against the record title; 6,489,380 bytes, Wayback snapshot 20220212143057 of the recorded source_url). Earlier waves: not read before (no earlier wave held this civics book). Verdict: COMPLETE (full page-by-page read, civics track). Contents map: Civics/Citizenship/Government pp. 19–21 (national symbols), pp. 23–33 (Unit 2 administrative organisation), pp. 34–46 (Unit 3 the state's authorities); History pp. 7–18 (Unit 1 Yemeni revolutions and steadfastness — named, not placed), pp. 47–63 (Unit 4 Yemeni figures: Imam al-Qasim ibn Muhammad, Rajih Ghalib Labouza, President Ibrahim al-Hamdi, the poet Abdullah al-Baradouni — named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/yemen-placements.md.
 
@@ -40,7 +40,19 @@ Morocco placements — Social Studies remaining strands (2026-11-17):
 |---|---|
 | Morocco part 1 — culture-and-work/the-judiciary-and-the-courts — Axis 1 Lesson 6: The Judiciary (القضاء) — teaches: the courts of Morocco, their levels and the independence of judges — Morocco Grade 8 Fadaa Ijtiamiat 2AC, printed p. 166 | Morocco, *Fadaa Ijtiamiat 2AC* (student book), Axis 1 Lesson 6: The Judiciary (القضاء) — printed p. 166 |
 
-**Acceptance count: taught in 4 countries (Yemen, Bahamas, Afghanistan, Morocco).**
+**Acceptance count: taught in 5 countries (Yemen, Bahamas, Afghanistan, Morocco, Guatemala).**
 
 Morocco's own way (Book 5, Fadaa Ijtiamiat 2AC): the second collège year turns citizenship into the machinery of the state itself — the constitution, the King, parliament, government and courts, then the citizen's constitutional rights, parties, unions, press, local democracy and associations.
 
+Guatemala placements — Social Studies remaining strands (2026-11-17):
+
+**Book 5:** *Ciencias Sociales y Formación Ciudadana, Cuarto grado (student book, Spanish)* — Title as printed: Ciencias Sociales y Formación Ciudadana, Cuarto grado Grade: Grade 4 (student/teacher: STUDENT) Publisher: MINEDUC, Ministerio de Educación de Guatemala (Gobierno de la República de Guatemala); year 2019 printing (ministerial authorities page); no ISBN printed PDF pages: 256 (byte size 25,726,392 matches the books.json record exactly; cover verified against the record title; the TSV oversized-release and mid-size-release records are the same book — the History wave spot-checked the oversized copy as identical) Earlier waves: Geography wave placed the geography parts (31 placements); History wave placed the history parts (32 placements, Units 1–4 narratives from prehistory to the peace process); Economics wave placed 4 economic parts. The Formación Ciudadana teaching parts below were named in the units' objective lists but not placed by any earlier wave. Verdict: COMPLETE (remaining strands read fully, page by page: printed pp. 30–31, 43–48, 91–96, 127, 143–146, 150–151, 167–168, 187–192) Contents map: Integrated SS / Civics pp. 30–31 (government institutions), 43–48 (human rights, children's and women's rights, coexistence principles), 91–96 (bicycle citizenship, respect, responsibility), 143–146 (civil registry, citizenship, national symbols), 167–168 (constitutional court, electoral tribunal), 187–192 (peace, conflict resolution, the vote); Geography pp. 32–42, 60–107 (parts); History pp. 13–29, 62–89, 108–165; Economics parts inside Units 2–4 Tally: 16 placements — 2 to existing lessons, 14 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/guatemala-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Guatemala part 1 — culture-and-work/the-judiciary-and-the-courts — Unit 4 "Instituciones de gobierno" — teaches: the Corte de Constitucionalidad, the independent tribunal that defends the constitutional order, and the Tribunal Supremo Electoral (TSE), which calls, organises and supervises elections and registers citizens to vote (Guatemalan, 18 years old, with a personal ID document) — Guatemala Grade 4 Ciencias Sociales y Formación Ciudadana, printed pp. 167–168 | Guatemala, *Ciencias Sociales y Formación Ciudadana, Cuarto grado* (student book), Unit 4 "Instituciones de gobierno" — printed pp. 167–168 |
+
+**Acceptance count: taught in 5 countries (Yemen, Bahamas, Afghanistan, Morocco, Guatemala).**
+
+Guatemala's own way (Book 5): citizenship is woven through every unit of the history/geography book — a fourth-grader meets the three powers, the human-rights declaration, the civil registry and the ballot box inside the same volume that tells the national story, under the unit motto "Vivamos en Armonía" (Let us live in harmony).
+Registry note: the original coined string `culture-and-work/the-constitutional-court-and-the-electoral-tribunal` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/the-judiciary-and-the-courts`.

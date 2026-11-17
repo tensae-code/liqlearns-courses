@@ -1,6 +1,6 @@
 # Sources — Taxes and the Common Good
 
-countries: Haiti, Somalia
+countries: Haiti, Somalia, Guatemala
 
 **Book 5:** *Sciences humaines et sociales — Éducation à la citoyenneté — La citoyenne, le citoyen et la citoyenneté haïtienne et caribéenne* (teacher sequence, French) — Title as printed: Sciences humaines et sociales — Éducation à la citoyenneté — La citoyenne, le citoyen et la citoyenneté haïtienne et caribéenne (Projet Nectar, MENFP, 8e année). Grade: Grade 8 (student/teacher: TEACHER). Publisher: MENFP / Projet Nectar (Canoprof); year not printed; no ISBN printed (CC BY-NC-SA licence printed). PDF pages: 30 (cover verified against the record title; 841,675 bytes, grab.py size/SHA verified). Earlier waves: Geography wave filed it record-only (pure Civics); History wave record-only (pure Civics); Economics wave record-only (no Economics parts) — its civics strands are placed here for the first time. Verdict: COMPLETE. Contents map: Civics/Citizenship/Government pp. 7–30 (whole book); Morals/Values pp. 11–13 (citizenship as values and responsibility, inside Séance 2); Economics p. 14 named only (taxation is taught here as a civic duty, placed below as civics; its economic mechanics were the Economics wave's to place and it filed none). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/haiti-placements.md. Teacher guide — evidence only, outside the acceptance count.
 
@@ -13,7 +13,7 @@ countries: Haiti, Somalia
 
 | Somalia part — culture-and-work/taxes-a-citizens-duty — Canshuuraha (Taxes) — teaches: tax is money collected by law and paying it is every citizen's duty, for no person or group alone can build a broad economy; what is taxed (trade, restaurants, shops, cinemas, food, clothes, goods, imports, company profits, salaries) and what the people's money pays for — farm projects and irrigation, factories and jobs, schools in every town and village with trained teachers, hospitals and doctors, a strong army to defend the nation's honour, the government's offices and staff, and roads and wells that save livestock in drought — Somalia Grade 6 Barbaarinta iyo Cilmiga Beesha, printed p. 72 | Somalia, *Barbaarinta iyo Cilmiga Beesha, Fasalka Lixaad* (student book), Canshuuraha (Taxes) — printed p. 72 |
 
-**Acceptance count: taught in 1 country (Somalia). Haiti is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 2 countries (Somalia, Guatemala). Haiti is named here as teacher-guide evidence only, counted nowhere.**
 
 Haiti's own way: Citizenship is closed by the money bond: after defining the citizen and practising engagement, pupils end on contribution — the civic duty to pay taxes (Constitution article 52) and the state's duty to redistribute in national solidarity.
 
@@ -24,3 +24,16 @@ Searchable tags: taxes and the common good, Haiti, social studies, culture-and-w
 Somalia's own way (Grade 6): by Grade 6 the subject is open political education — the enemies of unity are named in a row (colonialism, racism, clanism, Zionism), the world's organisation is studied, the state's doctrine is taught as science, and citizenship becomes fiscal: the book ends with taxes and with the newspapers that keep a citizen informed.
 
 Registry note: the original coined string `culture-and-work/taxes-a-citizens-duty` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/taxes-and-the-common-good`.
+
+Guatemala placements — Social Studies remaining strands (2026-11-17):
+
+**Book 7:** *Ciencias Sociales y Formación Ciudadana, Quinto Grado, MINEDUC 2025 (student book, Spanish) — links file* — Title as printed: Ciencias Sociales y Formación Ciudadana para quinto grado del Nivel de Educación Primaria Grade: Grade 5 (student/teacher: STUDENT) Publisher: MINEDUC, Ministerio de Educación de Guatemala; 2025 edition; no ISBN printed PDF pages: 226 (byte size 114,562,608 matches the download-list record exactly; title page verified against the record title; downloaded from the recorded MINEDUC source and staged in phase3-staging under the new rule — see group log) Earlier waves: not read before (no Grade 5 student book was held; the earlier waves read the Segundo ciclo teacher guide for this cycle) Verdict: COMPLETE (remaining strands read fully, page by page: printed pp. 30–33, 45, 48, 91–97, 126–127, 139–145, 174, 187–198) Contents map: Civics/Citizenship/Government pp. 30–33 (school government, human-rights institutions), 45 (gender equity), 48 (children's rights convention), 94–97 (citizenship, taxes), 126–127 (dialogue, law-making), 139–145 (citizenship rights and duties, family obligations), 174 (democracy), 187–198 (citizen duties, participation, culture of peace, peoples' rights); Morals/Values pp. 91–93 (culture of peace and its values); Geography/History/Economics: the Americas units (physical geography, prehispanic and colonial history, independence, 20th-century conflicts and the Esquipulas peace process as history) — named here, not placed (other strands' waves) Tally: 16 placements — 1 to existing lessons, 15 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/guatemala-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Guatemala part 1 — culture-and-work/taxes-and-the-common-good — Unit 2 "Pago de impuestos" — teaches: taxes are governments' most important income — an obligatory payment by citizens and businesses that the state spends on public services (health, education, citizen security, justice, infrastructure); the taxpayer and the fisc defined — Guatemala Grade 5 Ciencias Sociales y Formación Ciudadana (2025), printed p. 97 | Guatemala, *Ciencias Sociales y Formación Ciudadana, Quinto Grado, MINEDUC 2025* (student book), Unit 2 "Pago de impuestos" — printed p. 97 |
+
+**Acceptance count: taught in 2 countries (Somalia, Guatemala). Haiti is named here as teacher-guide evidence only, counted nowhere.**
+
+Guatemala's own way (Book 7): the fifth-grade book is the series' citizenship book proper — a pupil meets democracy four times over (definition, citizenship, duties, participation) and every right is tied to the article of Guatemala's own Constitution that grants it.
+Registry note: the original coined string `culture-and-work/paying-taxes-funds-public-services` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/taxes-and-the-common-good`.
