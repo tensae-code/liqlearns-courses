@@ -643,7 +643,81 @@ RECORD-ONLY and are not stocked: the Explora 1–6
 (Dar Attakafa) — general-science awakening, out of
 scope for this course per the country map.
 
-**Course totals: 141 lessons** — Technical Drawing 17 lessons
+## Belarus, Чарчэнне — Technical Drawing Grade 9 (T&D expansion, stocked 2026-11-17)
+
+Stocked from Belarus's *Чарчэнне — Вучэбны дапаможнік
+для 9 класа агульнаадукацыйных устаноў з беларускай
+мовай навучання (Technical Drawing — study aid for
+Grade 9 of general-education institutions with
+Belarusian as the language of instruction)* — by
+В. Н. Вінаградаў (V. N. Vinogradov), Нацыянальны
+інстытут адукацыі (National Institute of Education),
+Ministry of Education of the Republic of Belarus,
+Minsk, 2008, ISBN 978-985-465-432-4, 224 pp., in
+Belarusian, read COMPLETE (all 34 sections mapped
+from the book's contents, pp. 220–222; the short
+terminological dictionary, printed p. 211, is
+inventory-only and the index is not placed). Note on
+the record: the brief described this record as labour
+education; the secured file itself is a technical
+drawing (drafting) textbook — the founding subject of
+this course — and it is placed in full. Of the 34
+placements, 15 were NEW LESSON NEEDED (each resolved
+through the T&D slug registry to its canonical
+lesson; 10 built new, 2 stocked into the existing
+Line types on drawings and Geometrical constructions
+lessons, and Reading technical drawings, Assembly
+drawings and Architectural and construction drawings
+each carry 2 of them) and 19 stocked into 10 existing
+founding Technical Drawing lessons. Belarus counts in
+the acceptance count (student textbook, not
+evidence-only).
+
+- **Technical Drawing** (10 new lessons, 13 questions
+  each): Graphic information and the kinds of drawings
+  (printed p. 5); Drawing instruments, materials and
+  the drawing workplace (printed p. 11); Drawing
+  lettering and the title block (printed p. 17);
+  A short history of graphic representation
+  (printed p. 56); Reading technical drawings
+  (printed pp. 105, 108); Drawing an object with a
+  changed form (printed p. 123); Threads on drawings
+  (printed p. 163); Drawings of joined parts
+  (printed p. 169); Assembly drawings (printed
+  pp. 178, 182); Architectural and construction
+  drawings (printed pp. 188, 195).
+- **Existing Technical Drawing lessons stocked from
+  Belarus** (21 placements): Line types on drawings
+  (printed p. 24); Geometrical constructions
+  (printed p. 62); Dimensioning — lines, symbols and
+  reading direction (printed p. 27); Size and location
+  dimensions (printed p. 31); Orthographic projection
+  basics (printed pp. 34, 42, 51, 75, 79, 88, 92);
+  Pictorial sketching — isometric (printed pp. 71,
+  83); Free-hand sketching — principles (printed
+  p. 100); Drawing an auxiliary view (printed
+  p. 115); Surface development — flat sheets that
+  become things (printed p. 120); Sectioning — words
+  and practice (printed p. 134); Types of section
+  (printed pp. 141, 147); Conventional practice in
+  sectioning (printed pp. 152, 156).
+
+Belarus's own way is content and is carried in each
+lesson's sources: *Чарчэнне* is a single complete
+Grade 9 drafting course in Belarusian, in textbook
+order — graphic information and standard execution
+rules (formats, title block / асноўны надпіс, drawing
+font, line types) first, then projection built step
+by step to complete worked drawings, sketches
+(эскізы), developments (разгорткі), сячэнні kept
+distinct from разрэзы, threads, joints, assembly and
+detailing (дэталіраванне), and finally
+architectural-construction drawings.
+
+Placements at
+liqlearns-courses-work/expansion-td-2026-11-17/belarus-placements.md.
+
+**Course totals: 151 lessons** — Technical Drawing 17 lessons
 (Ethiopia, teacher-guide evidence) plus the 7 Canada lessons
 above (First Steps 3, Mechanisms and Machines 1, Electrical
 Installations and the Home 1, Textiles and Fashion 1,
@@ -682,7 +756,18 @@ and Electronics 12, Energy 1 — all teacher-guide
 evidence only, counted nowhere in the acceptance
 count); Morocco also stocked 2 placements into 2
 existing lessons (Renewable energy technology,
-Orthographic projection basics).
+Orthographic projection basics). plus the
+10 Belarus lessons above (Technical Drawing 10);
+Belarus also stocked 21 placements into 12 existing
+Technical Drawing lessons (Line types on drawings,
+Geometrical constructions, Dimensioning — lines,
+symbols and reading direction, Size and location
+dimensions, Orthographic projection basics, Pictorial
+sketching — isometric, Free-hand sketching —
+principles, Drawing an auxiliary view, Surface
+development — flat sheets that become things,
+Sectioning — words and practice, Types of section,
+Conventional practice in sectioning).
 
 - **Coverage-audit fix pass (2026-11-12)** — the placement-coverage
   audit found 17 of 19 placements stocked; the fix build closed

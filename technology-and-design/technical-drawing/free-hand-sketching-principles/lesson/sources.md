@@ -1,10 +1,12 @@
 # Sources — Free-hand sketching — principles and place in design
 
-countries: Ethiopia, Jamaica
+countries: Belarus, Ethiopia, Jamaica
 
 **Book 1:** *Basic Technical Drawing, Teacher Guide, Grade 12* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, in collaboration with Kuraz International Publisher P.L.C., Addis Ababa, first edition, 2003 E.C., ISBN 978-99944-2-097-2, 105 printed pp. Page rule: printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/technical-drawing/g12-teacher-placements.md.
 
 **Book 2:** *National Standards Curriculum Guide — Grades 4–6 — Resource & Technology* (curriculum guide with full unit teaching content) — Jamaica, Ministry of Education, Youth and Information, Kingston, Jamaica; © 2018. Year/edition: 2018 (PDF created in Adobe InDesign CC 13.1, Sep 2018). Grade: Grades 4–6. Language: English. Pages: 188 (PDF); printed pagination runs to p. 167 (printed p. = PDF p. − 20). Source + route: file held on disk in phase3-staging (grade-04/gov/jamaica/curriculum/grades-4-6-resource-technology.pdf), 15,155,269 bytes; copied into scratch and read there — the book is also recorded pushed to GitHub. Kind: curriculum (guide with full unit teaching content). File quirk, verified: the visible cover (rendered and read) is the Resource & Technology Grades 4–6 cover, and the whole body is that guide; the cover page's embedded text layer, however, reads "Grades 7-9 English Language/Literature" — a production artifact in the file's text layer, not a different book. Read: COMPLETE (whole guide checked; Engineering & Mechanisms units and Design Process material read in full). Placements at liqlearns-courses-work/expansion-td-2026-11-17/jamaica-placements.md.
+
+**Book 3:** *Чарчэнне — Вучэбны дапаможнік для 9 класа агульнаадукацыйных устаноў з беларускай мовай навучання (Technical Drawing — study aid for Grade 9 of general-education institutions with Belarusian as the language of instruction)* (student textbook) — Belarus, Author: В. Н. Вінаградаў (V. N. Vinogradov). Publisher: Нацыянальны інстытут адукацыі (National Institute of Education), Ministry of Education of the Republic of Belarus, Minsk; approved by the Ministry of Education of the Republic of Belarus; signed to print 10.12.2008; print run 31,023; ISBN 978-985-465-432-4. Year/edition: 2008. Grade: 9. Language: Belarusian. Pages: 224; verified byte size 12,603,822 (the record carries no size; the file was located by exact-name scan of the releases). Source + route: tensae-code/liqlearns-textbooks, release asset in mid-size-books-7 (asset grade-09-gov-belarus-technical-drawing-student-full-year.pdf), downloaded via the Releases API asset route after the tree route 404'd — grade-09/gov/belarus/technical-drawing/student/full-year.pdf. Kind: student textbook (вучэбны дапаможнік — study aid/textbook). Read: COMPLETE (all 34 sections mapped from the book's contents, pp. 220–222, with section content verified at the section pages; the Кароткі тэрміналагічны слоўнік — short terminological dictionary, printed p. 211 — is inventory-only and the Прадметны паказальнік is an index; neither is placed). Note on the record: the book's own text layer uses a broken font encoding, so the read was done from the book's table of contents and section pages via OCR (RapidOCR) plus the decoded text layer; printed page numbers are the book's own (printed p. = PDF p.). Placements at liqlearns-courses-work/expansion-td-2026-11-17/belarus-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -12,13 +14,16 @@ countries: Ethiopia, Jamaica
 | Sub lesson 2 (teacher guide — evidence) | Book 1, printed pp. 1–4 — sketching integrated into the design process, beginning phase fixing geometric parameters and constraints |
 | Sub lesson 3 (teacher guide — evidence) | Book 1, printed pp. 1–4 — free-hand sketching materials and their proper use; keeping sketch ideas in a notebook |
 | Sketching/drawing as part of designing | Jamaica, *National Standards Curriculum Guide — Grades 4–6 — Resource & Technology*, printed p. 35 — producing concept drawings of the model car, presenting them for peer critique and modifying the drawings; design as visual representation of the solution |
+| Making sketches (эскізы) of parts: the free-hand sketch as a working drawing — its purpose, sequence and rules | Belarus, *Чарчэнне (Technical Drawing / Drafting) — Grade 9*, printed p. 100 |
 
-**Acceptance count: taught in 1 country (Jamaica) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+**Acceptance count: taught in 2 countries (Belarus, Jamaica) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
 
 Jamaica's own way: Jamaica teaches sketching inside designing — learners produce concept drawings of the model car they are making, present them for peer critique, and modify the drawings in response; the drawing is the design's visual representation, revised in public before making begins.
 
 Era note: this guide is an older GEQIP-generation book (first edition 2003 E.C., funded through the General Education Quality Improvement Project, GEQIP) — a different curriculum generation from the current syllabus. These lessons present it as such, as the guide's testimony about the course of its era, never as the current syllabus unchecked. No student book for Technical Drawing exists in hand, so nothing here could be checked against a pupil text.
 
 Honesty: The guide's Unit 1 head states “Total Periods: 5” but its lessons are allocated 1 + 3 + 3 = 7 periods; this lesson follows the lesson-level allocation (Lesson 1.1, 1 period). The placements give no page narrower than printed pp. 1–4 for this lesson, so no narrower page is claimed.
+
+Belarus's own way: Belarus teaches the sketch (эскіз) as a working drawing of a part in its own right — with its own purpose, sequence and rules — placed in the course after the complete projection work, not only at the start of designing.
 
 Searchable tags: technical drawing, free-hand sketching, sketching principles, design process, Grade 12, Ethiopia, Jamaica, Grades 4–6, Resource & Technology, concept drawings, peer critique

@@ -7,9 +7,9 @@ from the hand to the drawing board to the workshop.
 
 **First Steps → Technical Drawing → Materials → Mechanisms and Machines → Electrical Installations and the Home → Textiles and Fashion → Radiography Technology → Design and Making → Models and Robotics → Workshop and Safety → Electricity and Electronics → Food Technology → Paper, Card and Modelling → Construction and Building → Energy**
 
-Stocked titles so far: **141 lessons**.
+Stocked titles so far: **151 lessons**.
 
-**Technical Drawing** (technical-drawing/) — 25 lessons:
+**Technical Drawing** (technical-drawing/) — 35 lessons:
 17 built from Ethiopia's Grade 12 teacher guide (2003 E.C.,
 GEQIP generation) as labelled evidence — see CURRICULUM.md
 and ABOUT.md for the honesty terms — 6 stocked
@@ -27,6 +27,16 @@ Resource & Technology* (Jamaica, 2018):
 - Recognising geometric solids (recognising-geometric-solids/)
 - Drawing a labelled schematic of a made device (drawing-a-labelled-schematic-of-a-made-device/)
 - Technical drawing (technical-drawing/) — stocked 2026-11-17 from Morocco's *Technologie, Guide de l'enseignant(e), 3e année* (teacher-guide evidence only, counted nowhere)
+- Graphic information and the kinds of drawings (graphic-information-and-the-kinds-of-drawings/) — stocked 2026-11-17 from Belarus's *Чарчэнне*, Grade 9 (2008)
+- Drawing instruments, materials and the drawing workplace (drawing-instruments-materials-and-the-drawing-workplace/) — stocked 2026-11-17 from Belarus's *Чарчэнне*, Grade 9 (2008)
+- Drawing lettering and the title block (drawing-lettering-and-the-title-block/) — stocked 2026-11-17 from Belarus's *Чарчэнне*, Grade 9 (2008)
+- A short history of graphic representation (a-short-history-of-graphic-representation/) — stocked 2026-11-17 from Belarus's *Чарчэнне*, Grade 9 (2008)
+- Reading technical drawings (reading-technical-drawings/) — stocked 2026-11-17 from Belarus's *Чарчэнне*, Grade 9 (2008)
+- Drawing an object with a changed form (drawing-an-object-with-a-changed-form/) — stocked 2026-11-17 from Belarus's *Чарчэнне*, Grade 9 (2008)
+- Threads on drawings (threads-on-drawings/) — stocked 2026-11-17 from Belarus's *Чарчэнне*, Grade 9 (2008)
+- Drawings of joined parts (drawings-of-joined-parts/) — stocked 2026-11-17 from Belarus's *Чарчэнне*, Grade 9 (2008)
+- Assembly drawings (assembly-drawings/) — stocked 2026-11-17 from Belarus's *Чарчэнне*, Grade 9 (2008)
+- Architectural and construction drawings (architectural-and-construction-drawings/) — stocked 2026-11-17 from Belarus's *Чарчэнне*, Grade 9 (2008)
 
 Four of the 17 Ethiopia-evidence lessons also carry Malta
 placements (6 placements): Surface development — flat
@@ -38,6 +48,22 @@ principles and place in design; Dimensioning — lines,
 symbols and reading direction. Orthographic projection
 basics also carries a Morocco placement (1 placement,
 teacher-guide evidence only, counted nowhere).
+
+Ten of the founding/expansion Technical Drawing lessons
+also carry Belarus placements, and Line types on
+drawings and Geometrical constructions also carry
+Belarus placements (21 placements in all, from
+Belarus's *Чарчэнне*, Grade 9, 2008 — student
+textbook, counted): Dimensioning — lines, symbols and
+reading direction; Size and location dimensions;
+Orthographic projection basics (7 placements);
+Pictorial sketching — isometric (2); Free-hand
+sketching — principles and place in design; Drawing
+an auxiliary view; Surface development — flat sheets
+that become things; Sectioning — words and practice;
+Types of section (2); Conventional practice in
+sectioning (2); Line types on drawings; Geometrical
+constructions.
 
 **First Steps** (first-steps/) — 22 lessons: 3 stocked
 2026-11-17 from Canada's *Technology in the Community*

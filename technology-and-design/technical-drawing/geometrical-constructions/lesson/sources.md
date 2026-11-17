@@ -1,15 +1,20 @@
 # Sources — Geometrical constructions
 
-countries: Malta
+countries: Belarus, Malta
 
 **Book 1:** *Design and Technology — Graphical Communication Component — Workbook 1 ("Communicate Graphically")* (workbook) — Malta, Directorate for Quality and Standards in Education, Curriculum Management Department, Malta, 2015; designed by Michael Mallia (Education Officer, Graphical Communication). Grade: Year 7. Language: English. Pages: 20 PDF pp.; printed pagination pp. 2–16 + self-check page; verified byte size 3,109,455 = record size. Kind: workbook (graded exercise workbook; each section is taught through worked examples to copy and graded practice — the exercises are the teaching items; the closing "I can" self-assessment page is assessment-only and is not placed). Source + route: tensae-code/liqlearns-textbooks, tree route via grab.py — grade-07/gov/malta/design-and-technology/workbook/graphical-communication-workbook-1-year-7.pdf. Read: COMPLETE. Placements at liqlearns-courses-work/expansion-td-2026-11-17/malta-placements.md.
+
+**Book 2:** *Чарчэнне — Вучэбны дапаможнік для 9 класа агульнаадукацыйных устаноў з беларускай мовай навучання (Technical Drawing — study aid for Grade 9 of general-education institutions with Belarusian as the language of instruction)* (student textbook) — Belarus, Author: В. Н. Вінаградаў (V. N. Vinogradov). Publisher: Нацыянальны інстытут адукацыі (National Institute of Education), Ministry of Education of the Republic of Belarus, Minsk; approved by the Ministry of Education of the Republic of Belarus; signed to print 10.12.2008; print run 31,023; ISBN 978-985-465-432-4. Year/edition: 2008. Grade: 9. Language: Belarusian. Pages: 224; verified byte size 12,603,822 (the record carries no size; the file was located by exact-name scan of the releases). Source + route: tensae-code/liqlearns-textbooks, release asset in mid-size-books-7 (asset grade-09-gov-belarus-technical-drawing-student-full-year.pdf), downloaded via the Releases API asset route after the tree route 404'd — grade-09/gov/belarus/technical-drawing/student/full-year.pdf. Kind: student textbook (вучэбны дапаможнік — study aid/textbook). Read: COMPLETE (all 34 sections mapped from the book's contents, pp. 220–222, with section content verified at the section pages; the Кароткі тэрміналагічны слоўнік — short terminological dictionary, printed p. 211 — is inventory-only and the Прадметны паказальнік is an index; neither is placed). Note on the record: the book's own text layer uses a broken font encoding, so the read was done from the book's table of contents and section pages via OCR (RapidOCR) plus the decoded text layer; printed page numbers are the book's own (printed p. = PDF p.). Placements at liqlearns-courses-work/expansion-td-2026-11-17/belarus-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Instrument constructions with ruler, compasses and protractor: triangle, pentagon, hexagon, octagon (original string `constructing geometric figures`) | Malta, *Design and Technology — Graphical Communication Component — Workbook 1 ("Communicate Graphically")*, printed p. 8 |
+| The graphic constructions a drafter performs: dividing segments and angles, raising perpendiculars, drawing parallels and joining lines — the compass-and-straightedge toolkit behind the drawing constructions (original string `geometric constructions used in drawing`) | Belarus, *Чарчэнне (Technical Drawing / Drafting) — Grade 9*, printed p. 62 |
 
-**Acceptance count: taught in 1 country (Malta).**
+**Acceptance count: taught in 2 countries (Belarus, Malta).**
 
 Malta's own way: Malta teaches technical drawing as the Graphical Communication component of its Design and Technology subject, through graded workbooks — each skill is shown in a worked example to copy, then practised in graded exercises on grids and in the spaces provided, and closed with an "I can" self-check page (assessment-only, not placed). That copy-then-practise workbook way is carried in this lesson exactly as the book teaches it.
+
+Belarus's own way: Belarus teaches geometric constructions as the drafter's graphic toolkit — dividing segments and angles, raising perpendiculars, drawing parallels and joining lines — the compass-and-straightedge work behind the later drawing constructions.
 
 Searchable tags: geometrical constructions, triangle, pentagon, hexagon, octagon, compasses, protractor, Malta, Year 7, Graphical Communication
