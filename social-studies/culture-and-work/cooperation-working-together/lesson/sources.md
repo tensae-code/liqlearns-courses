@@ -1,6 +1,6 @@
 # Sources — Cooperation Working Together
 
-countries: Mauritius, Libya, Oman, Bangladesh, Iraq, North Macedonia, Palestine, Saudi Arabia
+countries: Mauritius, Libya, Oman, Bangladesh, Iraq, North Macedonia, Palestine, Saudi Arabia, Cambodia
 
 **Book 1:** *Values and Citizenship Education — Grade 1 Teacher’s Handbook* (teacher guide, English) — Title as printed: Values and Citizenship Education — Grade 1 Teacher’s Handbook. Grade: Grade 1 (student/teacher: TEACHER). Publisher: Mauritius Institute of Education (MIE); year 2020; ISBN 978-99949-53-93-6. PDF pages: no PDF — read via FlipHTML5 flipbook (88 pages, printed pp. i–80); cover/imprint page verified against the record title (Lesson 14 "About my country" named in the record is present, printed p. 70). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Morals/Values pp. 2–59, 75–79; Civics/Citizenship (national symbols, country identity) pp. 62–74; Health (body care, named only, not placed) pp. 8–20. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mauritius-placements-b.md. Teacher guide — evidence only, outside the acceptance count. Staging note: the book exists only as a FlipHTML5 flipbook — no PDF file was downloadable, so there is no file to stage under the 2026-11-13 rule; the read is from the flipbook’s full text.
 
@@ -97,4 +97,18 @@ Saudi Arabia placements — Social Studies remaining strands (2026-11-17):
 Saudi Arabia's own way (Book 1): the Grade 4 book opens with citizenship — national identity, the system of government, national symbols and the founding story of security and unity under one state — and returns in Unit 6 to responsible citizenship through family and society, rights and duties, the good citizen, teamwork, and heritage stories that teach patience and hard work.
 
 Registry note: the original coined string `culture-and-work/working-together-teamwork` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/cooperation-working-together`.
+
+Cambodia placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *សិក្សាសង្គម ថ្នាក់ទី៨ (Social Studies, Grade 8)* (student book, Khmer) — Title as printed: សិក្សាសង្គម ថ្នាក់ទី៨ (Social Studies, Grade 8). Grade: 8 (student/teacher: STUDENT). Publisher: MoEYS Publishing and Distribution House; year 2020; ISBN 978-9995-001-24-7. PDF pages: 305 (cover/title page verified against the record title; byte size and pdfinfo page count verified EXACT against the record; read in place at ~/workspace/phase3-staging/, never moved or deleted; all reading was visual, from rendered pages, because the book's text layer uses a legacy font encoding; printed p. = PDF p. − 5 in this book). Earlier waves: Geography wave placed the Geography section (printed pp. 1–73); History wave placed the History section (pp. 74–150); Economics wave: no economics parts (the final section is Home Economics). Verdict: COMPLETE. Contents map: Civics/Morals — the section សីលធម៌-ពលរដ្ឋវិទ្យា (Morality–Civics) printed pp. 152–226: Ch. 1 relations with others pp. 152–181; Ch. 2 relations in the family pp. 182–195; Ch. 3 living in the community pp. 196–227; Ch. 4 various beliefs pp. 228–244 (Religion — named, not placed); Home Economics pp. 246–300 (another subject — named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cambodia part — culture-and-work/working-in-a-group — Civics Ch. 3 L4 ការងារក្រុម (Group work) — teaches: working together in a group, cooperation as a community skill | Cambodia, *សិក្សាសង្គម ថ្នាក់ទី៨ (Social Studies, Grade 8)* (student book), Civics Ch. 3 L4 ការងារក្រុម (Group work) — printed p. 218 |
+
+**Acceptance count: taught in 7 countries (Libya, Bangladesh, Iraq, North Macedonia, Palestine, Saudi Arabia, Cambodia).** Mauritius and Oman are named here as teacher-guide evidence only, counted nowhere.
+
+Cambodia's own way (Cambodia Grade 8 Social Studies G8): Grade 8 civics is organised as widening circles of relationship — others, family, community — and its community chapter teaches Cambodia's real elections: commune–sangkat councils first, then the National Assembly. That way is stocked here as the way Cambodia teaches this thing.
+
+Registry note: the original coined string `culture-and-work/working-in-a-group` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/cooperation-working-together`.
 

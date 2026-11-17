@@ -1,6 +1,6 @@
 # Sources — Discipline and Following Rules
 
-countries: Somalia, Sri Lanka
+countries: Somalia, Sri Lanka, Cambodia
 
 **Book 1:** *Barbaarinta iyo Cilmiga Beesha, Fasalka Koowaad* (teacher guide, Somali) — Title as printed: BARBAARINTA IYO CILMIGA BEESHA — FASALKA KOOWAAD (Upbringing and Social Studies — First Grade); Jamhuuriyadda Dimoqraadiga Soomaaliya, Wasaaradda Waxbarashada iyo Barbaarinta, Xafiiska Manaahiijta (Somali Democratic Republic, Ministry of Education, Curriculum Office). Grade: Grade 1 (student/teacher: TEACHER — the book states it is a Tusmo-Bare, a guide for the teacher only; every lesson is written as teacher steps, materials and questions). Publisher: Ministry of Education, Curriculum Office; printed by Madbacadda Qaranka (National Press), 1975 (imprint on verso); authors Maxamed Cali Warsame, Ibraahim Maxamuud Abyan, with Xaliima Cusmaan Axmed; no ISBN printed. PDF pages: 56 (cover and title page verified against the record title; 1,188,918 bytes exact match to the link record). Earlier waves: not read before (no Somalia filings in the Geography, History or Economics waves). Verdict: COMPLETE. Contents map: Integrated SS / Civics / Morals throughout — introduction and the making of the child's personality (qofnimo) printed pp. 1–6; the flag p. 7; the city p. 10; the motherland p. 14; work and socialism p. 17; the Revolution p. 22; Religion p. 28 (named, not placed); work and the workers p. 33; self-help p. 38; discipline and manners pp. 41–47; the society the pupil lives in p. 48. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/somalia-placements.md. Teacher guide — evidence only, outside the acceptance count. External-link book NOT in GitHub, staged under the 2026-11-13 rule, as filed.
 
@@ -31,3 +31,18 @@ Sri Lanka's own way (Sri Lanka Grade 6 Civic Education): civics starts inside th
 Registry note: the original coined string `culture-and-work/discipline-and-good-behaviour` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/discipline-and-following-rules`.
 
 Searchable tags: discipline and following rules, Sri Lanka, social studies, culture-and-work
+
+Cambodia placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *វិទ្យាសាស្ត្រ-សិក្សាសង្គម ថ្នាក់ទី៣ (Science–Social Studies, Grade 3)* (student book, Khmer) — Title as printed: វិទ្យាសាស្ត្រ-សិក្សាសង្គម ថ្នាក់ទី៣ (Science–Social Studies, Grade 3). Grade: 3 (student/teacher: STUDENT). Publisher: MoEYS Publishing and Distribution House; year 2020; ISBN 978-9995-000-78-3. PDF pages: 112 (cover/title page verified against the record title; byte size and pdfinfo page count verified EXACT against the record; read in place at ~/workspace/phase3-staging/, never moved or deleted; all reading was visual, from rendered pages, because the book's text layer uses a legacy font encoding; printed p. = PDF p. − 4 in this book). Earlier waves: Economics wave filed it record-only (senses/body care, disease prevention, food/nutrition, family and community named; no economics parts); not read by the Geography or History waves. Verdict: COMPLETE. Contents map: Integrated SS / Morals — Ch. 1 L5 printed p. 18; Ch. 2 lessons 1–2 pp. 22–29; Ch. 4 lessons 1, 2 and 7 pp. 60, 64, 84; Ch. 5 L1 p. 88; Science/Health pp. 2–17, 45–58, 68, 92–107; Safety (named, Health course) pp. 30, 34, 38, 42; Arts/language (named) pp. 72, 76, 80. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cambodia part — culture-and-work/good-order-and-discipline — Ch. 1 L5 សណ្ដាប់ធ្នាប់ល្អ (Good order) — teaches: good order and discipline in the classroom, preparing pupils to be good students | Cambodia, *វិទ្យាសាស្ត្រ-សិក្សាសង្គម ថ្នាក់ទី៣ (Science–Social Studies, Grade 3)* (student book), Ch. 1 L5 សណ្ដាប់ធ្នាប់ល្អ (Good order) — printed p. 18 |
+
+**Acceptance count: taught in 2 countries (Sri Lanka, Cambodia).** Somalia is named here as teacher-guide evidence only, counted nowhere.
+
+Cambodia's own way (Cambodia Grade 3 Science–Social G3): community living is taught as habits — caring for each other and for the people around — and the safety lessons carry Cambodia's own reality, including keeping safe in areas with landmines; the book ends by widening to the national flag. That way is stocked here as the way Cambodia teaches this thing.
+
+Registry note: the original coined string `culture-and-work/good-order-and-discipline` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/discipline-and-following-rules`.
+

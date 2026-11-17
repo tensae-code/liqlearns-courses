@@ -1,6 +1,6 @@
 # Sources — Discrimination and Its Harms
 
-countries: Haiti, Somalia, Colombia, India, Palestine
+countries: Haiti, Somalia, Colombia, India, Palestine, Cambodia
 
 **Book 2:** *La citoyenne et le citoyen dans un État démocratique* (teacher sequence, French) — Title as printed: La citoyenne et le citoyen dans un État démocratique (Projet Nectar, MENFP, Sciences humaines et sociales — Éducation à la citoyenneté, 7e année). Grade: Grade 7 (student/teacher: TEACHER). Publisher: MENFP / Projet Nectar; year not printed; no ISBN printed. PDF pages: 13 (cover verified against the record title; 145,622 bytes. Route note: grab.py tree route failed three times with RemoteDisconnected (proxy) in this wave, so the book was downloaded from the record's own recorded source URL (projet-nectar.canoprof.fr Version pdf depot) — title and 13-page count match the Geography/History waves' verified copies of the same record; the book is already secured in GitHub per the record, so the reading copy was deleted after filing, not staged). Earlier waves: Geography wave filed it record-only (pure Civics); History wave record-only (pure Civics); Economics wave record-only (no Economics parts) — its civics strands are placed here for the first time. Verdict: COMPLETE. Contents map: Civics/Citizenship/Government pp. 7–13 (whole book); Morals/Values pp. 8–9 (every right as a duty, school charter, inside Séance 2). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/haiti-placements.md. Teacher guide — evidence only, outside the acceptance count.
 
@@ -69,3 +69,16 @@ Registry note: the original coined string `culture-and-work/prejudice-stereotype
 Palestine's own way (Grade 9 Social Studies Part 2): the course ends at world scale and comes home — war is classified and costed, heritage is identity with a UNESCO date (full membership, 31 October 2011), and racial discrimination is defined by the very convention Palestine joined in 2014 without reservations, then answered by its own Basic Law and its protected minorities, the Samaritans of Mount Gerizim first.
 
 Registry note: the original coined string `culture-and-work/discrimination-in-palestinian-life` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/discrimination-and-its-harms`.
+
+Cambodia placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *សិក្សាសង្គម ថ្នាក់ទី៧ (Social Studies, Grade 7)* (student book, Khmer) — Title as printed: សិក្សាសង្គម ថ្នាក់ទី៧ (Social Studies, Grade 7). Grade: 7 (student/teacher: STUDENT). Publisher: MoEYS Publishing and Distribution House; year 2020; ISBN 978-9995-000-82-0. PDF pages: 304 (cover/title page verified against the record title; byte size and pdfinfo page count verified EXACT against the record; read in place at ~/workspace/phase3-staging/, never moved or deleted; all reading was visual, from rendered pages, because the book's text layer uses a legacy font encoding; printed p. = PDF p. − 4 in this book). Earlier waves: Geography wave placed the Geography section (printed pp. 1–75); History wave placed the History section (pp. 76–150); Economics wave filed the final section record-only (Home Economics — food, sewing, home safety — not economics). Verdict: COMPLETE. Contents map: Civics/Morals/Culture — the section សីលធម៌ ពលរដ្ឋវិទ្យា (Morality–Civics) printed pp. 152–246: Ch. 1 gender and human rights pp. 152–173; Ch. 2 friendship pp. 174–185; Ch. 3 family pp. 186–199; Ch. 4 living with the community (elections) pp. 200–215; Ch. 5 setting life goals / choosing a career pp. 216–227 (named, not placed); Ch. 6 religious beliefs pp. 228–245 (Religion — named, not placed); Home Economics pp. 248–302 (another subject — named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cambodia part — culture-and-work/discrimination-and-its-harms — Civics Ch. 1 L4 ការរើសអើងនិងបញ្ហាផ្លូវចិត្ត (Discrimination and psychological problems) — teaches: discrimination and the mental harm it does | Cambodia, *សិក្សាសង្គម ថ្នាក់ទី៧ (Social Studies, Grade 7)* (student book), Civics Ch. 1 L4 ការរើសអើងនិងបញ្ហាផ្លូវចិត្ត (Discrimination and psychological problems) — printed p. 160 |
+
+**Acceptance count: taught in 5 countries (Somalia, Colombia, India, Palestine, Cambodia).**
+
+Cambodia's own way (Cambodia Grade 7 Social Studies G7): lower-secondary civics opens with gender and human rights before friendship and family, and its community chapter is a full election course in miniature — voting, class representatives, candidacy, taking part, and the qualities of the elected. That way is stocked here as the way Cambodia teaches this thing.
+

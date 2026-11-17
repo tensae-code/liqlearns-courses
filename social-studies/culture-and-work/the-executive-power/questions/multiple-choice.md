@@ -1,0 +1,19 @@
+# The Executive Power — multiple choice
+
+Pick the one right answer.
+
+**1. (Sub lesson 1)** The part 1 of this lesson is —
+a) Executive power  b) learning the alphabet  c) counting to ten
+**Answer: a) Executive power**
+
+**2. (Sub lesson 1)** This part of the lesson teaches —
+a) the executive power of the state, the government that carries out the laws  b) ancient kings only  c) the Moon's phases
+**Answer: a) the executive power of the state, the government that carries out the laws**
+
+**3. (Sub lesson 2)** The part 2 of this lesson is —
+a) Cambodia's way — the book's own teaching way  b) learning the alphabet  c) counting to ten
+**Answer: a) Cambodia's way — the book's own teaching way**
+
+**4. (Sub lesson 2)** This part of the lesson teaches —
+a) the conduct chapter opens the book before any geography — a child first learns to set goals, be honest and know children's rights; government arrives in the society chapter as the executive power and the authority over the territory.  b) ancient kings only  c) the Moon's phases
+**Answer: a) the conduct chapter opens the book before any geography — a child first learns to set goals, be honest and know children's rights; government arrives in the society chapter as the executive power and the authority over the territory.**

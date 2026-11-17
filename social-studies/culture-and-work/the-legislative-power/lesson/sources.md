@@ -1,6 +1,6 @@
 # Sources — The Legislative Power
 
-countries: Yemen, India
+countries: Yemen, India, Cambodia
 
 **Book 1:** *التربية الوطنية للصف الخامس من مرحلة التعليم الأساسي (National Education for Grade 5 of Basic Education)* (student book, Arabic) — Republic of Yemen, Ministry of Education; year 1442 AH / 2021 CE (cover print); ISBN no ISBN printed. Title as printed: التربية الوطنية للصف الخامس من مرحلة التعليم الأساسي (National Education for Grade 5 of Basic Education). Grade: 5 (student/teacher: STUDENT). PDF pages: 66 (cover/title page verified against the record title; 6,489,380 bytes, Wayback snapshot 20220212143057 of the recorded source_url). Earlier waves: not read before (no earlier wave held this civics book). Verdict: COMPLETE (full page-by-page read, civics track). Contents map: Civics/Citizenship/Government pp. 19–21 (national symbols), pp. 23–33 (Unit 2 administrative organisation), pp. 34–46 (Unit 3 the state's authorities); History pp. 7–18 (Unit 1 Yemeni revolutions and steadfastness — named, not placed), pp. 47–63 (Unit 4 Yemeni figures: Imam al-Qasim ibn Muhammad, Rajih Ghalib Labouza, President Ibrahim al-Hamdi, the poet Abdullah al-Baradouni — named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/yemen-placements.md.
 
@@ -30,3 +30,18 @@ India placements — Social Studies remaining strands (2026-11-17):
 India's own way (Social and Political Life-III, Grade 8): The Constitution is the spine of the whole book — every later institution (Parliament, courts, police) and every injustice (marginalisation) is measured against it, and marginalised people are shown invoking its Fundamental Rights to force change.
 
 Registry note: the original coined string `culture-and-work/why-we-need-a-parliament-india` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §4 into this canonical lesson, `culture-and-work/the-legislative-power`.
+
+Cambodia placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *សិក្សាសង្គម ថ្នាក់ទី៥ (Social Studies, Grade 5)* (student book, Khmer) — Title as printed: សិក្សាសង្គម ថ្នាក់ទី៥ (Social Studies, Grade 5). Grade: 5 (student/teacher: STUDENT). Publisher: MoEYS Publishing and Distribution House; year 2020; ISBN 978-9995-001-32-2. PDF pages: 129 (cover/title page verified against the record title; byte size and pdfinfo page count verified EXACT against the record; read in place at ~/workspace/phase3-staging/, never moved or deleted; all reading was visual, from rendered pages, because the book's text layer uses a legacy font encoding; printed p. = PDF p. − 5 in this book). Earlier waves: Geography wave placed Ch. 3 L1 preserving Khmer dance and music (printed p. 54), L2 national traditional festivals (p. 60), L3 daily work (p. 68) and L5 land use (p. 82); History wave placed Ch. 4 (pp. 89–128); Economics wave placed the daily-work lesson with Geography. Verdict: COMPLETE. Contents map: Morals/Values — Ch. 1 ឥរិយាបថល្អ (Good conduct) printed pp. 1–38 (goal-setting pp. 2, 10 — named, not placed; conduct and values p. 16; rights and responsibility p. 26; creativity p. 34 — named, not placed); Civics — Ch. 3 L4 legislative power p. 76; Health/safety (named) — Ch. 2 pp. 39–52. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cambodia part — culture-and-work/legislative-power-in-cambodia — Ch. 3 L4 អំណាចនីតិបញ្ញត្តិ (Legislative power) — teaches: the legislative power, the body that makes the laws | Cambodia, *សិក្សាសង្គម ថ្នាក់ទី៥ (Social Studies, Grade 5)* (student book), Ch. 3 L4 អំណាចនីតិបញ្ញត្តិ (Legislative power) — printed p. 76 |
+
+**Acceptance count: taught in 3 countries (Yemen, India, Cambodia).**
+
+Cambodia's own way (Cambodia Grade 5 Social Studies G5): rights arrive paired with responsibility in the same lesson — a Cambodian child learns the two as one coin; government continues from Grade 4's executive to the legislative power that makes the laws. That way is stocked here as the way Cambodia teaches this thing.
+
+Registry note: the original coined string `culture-and-work/legislative-power-in-cambodia` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/the-legislative-power`.
+

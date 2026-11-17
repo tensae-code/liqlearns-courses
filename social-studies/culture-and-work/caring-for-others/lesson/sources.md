@@ -1,6 +1,6 @@
 # Sources — Caring for Others
 
-countries: Mauritius, Tanzania
+countries: Mauritius, Tanzania, Cambodia
 
 **Book 1:** *Values and Citizenship Education — Grade 1 Teacher’s Handbook* (teacher guide, English) — Title as printed: Values and Citizenship Education — Grade 1 Teacher’s Handbook. Grade: Grade 1 (student/teacher: TEACHER). Publisher: Mauritius Institute of Education (MIE); year 2020; ISBN 978-99949-53-93-6. PDF pages: no PDF — read via FlipHTML5 flipbook (88 pages, printed pp. i–80); cover/imprint page verified against the record title (Lesson 14 "About my country" named in the record is present, printed p. 70). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Morals/Values pp. 2–59, 75–79; Civics/Citizenship (national symbols, country identity) pp. 62–74; Health (body care, named only, not placed) pp. 8–20. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mauritius-placements-b.md. Teacher guide — evidence only, outside the acceptance count. Staging note: the book exists only as a FlipHTML5 flipbook — no PDF file was downloadable, so there is no file to stage under the 2026-11-13 rule; the read is from the flipbook’s full text.
 
@@ -23,3 +23,19 @@ Registry note: the original coined string `culture-and-work/caring-for-others-an
 Mauritius’s own way (teacher guide — evidence): Values taught through the child’s widening circles — self, people around me, then "I love my country" — with Mauritius’s own flag colours, anthem words, and its three islands (Mauritius, Rodrigues, Agalega) as the identity content, and unity taught through the country’s many festivals.
 
 Searchable tags: caring for others, Mauritius, social studies, culture-and-work
+
+Cambodia placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *វិទ្យាសាស្ត្រ-សិក្សាសង្គម ថ្នាក់ទី៣ (Science–Social Studies, Grade 3)* (student book, Khmer) — Title as printed: វិទ្យាសាស្ត្រ-សិក្សាសង្គម ថ្នាក់ទី៣ (Science–Social Studies, Grade 3). Grade: 3 (student/teacher: STUDENT). Publisher: MoEYS Publishing and Distribution House; year 2020; ISBN 978-9995-000-78-3. PDF pages: 112 (cover/title page verified against the record title; byte size and pdfinfo page count verified EXACT against the record; read in place at ~/workspace/phase3-staging/, never moved or deleted; all reading was visual, from rendered pages, because the book's text layer uses a legacy font encoding; printed p. = PDF p. − 4 in this book). Earlier waves: Economics wave filed it record-only (senses/body care, disease prevention, food/nutrition, family and community named; no economics parts); not read by the Geography or History waves. Verdict: COMPLETE. Contents map: Integrated SS / Morals — Ch. 1 L5 printed p. 18; Ch. 2 lessons 1–2 pp. 22–29; Ch. 4 lessons 1, 2 and 7 pp. 60, 64, 84; Ch. 5 L1 p. 88; Science/Health pp. 2–17, 45–58, 68, 92–107; Safety (named, Health course) pp. 30, 34, 38, 42; Arts/language (named) pp. 72, 76, 80. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cambodia part — culture-and-work/caring-for-one-another — Ch. 2 L1 ការស្រឡាញ់រាប់អានគ្នា (Loving and caring for each other) — teaches: loving, valuing and caring for one another in the community | Cambodia, *វិទ្យាសាស្ត្រ-សិក្សាសង្គម ថ្នាក់ទី៣ (Science–Social Studies, Grade 3)* (student book), Ch. 2 L1 ការស្រឡាញ់រាប់អានគ្នា (Loving and caring for each other) — printed p. 22 |
+| Cambodia part — culture-and-work/caring-for-one-another — Ch. 2 L2 ការយកចិត្តទុកដាក់ចំពោះអ្នកនៅជុំវិញ (Paying attention to the people around me) — teaches: noticing and caring about the people around me | Cambodia, *វិទ្យាសាស្ត្រ-សិក្សាសង្គម ថ្នាក់ទី៣ (Science–Social Studies, Grade 3)* (student book), Ch. 2 L2 ការយកចិត្តទុកដាក់ចំពោះអ្នកនៅជុំវិញ (Paying attention to the people around me) — printed p. 26 |
+
+**Acceptance count: taught in 2 countries (Tanzania, Cambodia).** Mauritius is named here as teacher-guide evidence only, counted nowhere.
+
+Cambodia's own way (Cambodia Grade 3 Science–Social G3): community living is taught as habits — caring for each other and for the people around — and the safety lessons carry Cambodia's own reality, including keeping safe in areas with landmines; the book ends by widening to the national flag. That way is stocked here as the way Cambodia teaches this thing.
+
+Registry note: the original coined string `culture-and-work/caring-for-one-another` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/caring-for-others`.
+

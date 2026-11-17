@@ -1,0 +1,9 @@
+# Matriarchy in Khmer Society — true or false
+
+Say True or False, and why.
+
+**1. (Sub lesson 1)** This part of the lesson teaches: the matriarchal system, its place in Khmer family and society, and the value of women in Khmer society
+**Answer: True**
+
+**2. (Sub lesson 2)** This part of the lesson teaches: the civics course ends at the state itself — rule of law, the Kingdom's own Constitution (taught through its 1947, 1972, 1975 and 1993 texts), its top institutions, and the citizen's rights, duties, voice and self-protection; its culture-of-peace chapter carries two distinctively Khmer lessons, ancient temple architecture as national heritage and the matriarchal root of Khmer society.
+**Answer: True**

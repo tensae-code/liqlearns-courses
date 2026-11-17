@@ -1,6 +1,6 @@
 # Sources — Sex and Gender
 
-countries: Bangladesh, Palestine
+countries: Bangladesh, Palestine, Cambodia
 
 **Book 1:** *History and Social Science, Class Seven (Experimental version)* (student book, English + Bangla parallel editions) — Title as printed: History and Social Science, Class Seven (Experimental version). Grade: Grade 7 (student/teacher: STUDENT). Publisher: National Curriculum and Textbook Board (NCTB), Dhaka, Bangladesh; year 2022; no ISBN printed. PDF pages: 184 in each edition (cover verified against the record title; printed p. = PDF p. - 7). Earlier waves: Geography wave placed the geography parts; History wave placed the history parts; Economics wave placed 14 economics placements. Verdict: COMPLETE. Editions: English read fully for the remaining strands (15,248,855 bytes, blob-SHA verified); Bangla parallel edition spot-checked (16,307,443 bytes, blob-SHA verified; cover, the values spread at printed p. 100 and the social-contexts spread at printed p. 126 — same content, placed once for both editions). Contents map: Integrated SS / Morals pp. 32–48 (Similarities and Differences between People); Civics/Citizenship/Government pp. 93–118 (Socio-political Structures and Customs); Integrated SS pp. 119–131 (Individual's Stand and Role in a Changing Context); Geography / History / Economics parts already placed or out of scope as filed by the earlier waves. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/bangladesh-placements.md.
 
@@ -25,3 +25,16 @@ Searchable tags: sex and gender, Bangladesh, social studies, culture-and-work, P
 **Acceptance count: taught in 2 countries (Bangladesh, Palestine)..**
 
 Palestine's own way (Grade 8 Social Studies Part 2): the semester's only civics unit pairs gender with violence — sex is biology but gender is society's script, and the four roles (reproductive, productive, community, political) are to be shared, not swapped; violence is then read through Palestine's own causes, the occupation first, and its legal form is discrimination written into the state's own laws.
+
+Cambodia placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *សិក្សាសង្គម ថ្នាក់ទី៧ (Social Studies, Grade 7)* (student book, Khmer) — Title as printed: សិក្សាសង្គម ថ្នាក់ទី៧ (Social Studies, Grade 7). Grade: 7 (student/teacher: STUDENT). Publisher: MoEYS Publishing and Distribution House; year 2020; ISBN 978-9995-000-82-0. PDF pages: 304 (cover/title page verified against the record title; byte size and pdfinfo page count verified EXACT against the record; read in place at ~/workspace/phase3-staging/, never moved or deleted; all reading was visual, from rendered pages, because the book's text layer uses a legacy font encoding; printed p. = PDF p. − 4 in this book). Earlier waves: Geography wave placed the Geography section (printed pp. 1–75); History wave placed the History section (pp. 76–150); Economics wave filed the final section record-only (Home Economics — food, sewing, home safety — not economics). Verdict: COMPLETE. Contents map: Civics/Morals/Culture — the section សីលធម៌ ពលរដ្ឋវិទ្យា (Morality–Civics) printed pp. 152–246: Ch. 1 gender and human rights pp. 152–173; Ch. 2 friendship pp. 174–185; Ch. 3 family pp. 186–199; Ch. 4 living with the community (elections) pp. 200–215; Ch. 5 setting life goals / choosing a career pp. 216–227 (named, not placed); Ch. 6 religious beliefs pp. 228–245 (Religion — named, not placed); Home Economics pp. 248–302 (another subject — named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cambodia part — culture-and-work/sex-and-gender — Civics Ch. 1 L1 ភេទនិងយេនឌ័រ (Sex and gender) — teaches: the difference between sex and gender | Cambodia, *សិក្សាសង្គម ថ្នាក់ទី៧ (Social Studies, Grade 7)* (student book), Civics Ch. 1 L1 ភេទនិងយេនឌ័រ (Sex and gender) — printed p. 152 |
+
+**Acceptance count: taught in 3 countries (Bangladesh, Palestine, Cambodia).**
+
+Cambodia's own way (Cambodia Grade 7 Social Studies G7): lower-secondary civics opens with gender and human rights before friendship and family, and its community chapter is a full election course in miniature — voting, class representatives, candidacy, taking part, and the qualities of the elected. That way is stocked here as the way Cambodia teaches this thing.
+

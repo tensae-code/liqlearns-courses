@@ -1,6 +1,6 @@
 # Sources — Special Places in Our Village and Community
 
-countries: Fiji, Ecuador, Rwanda
+countries: Fiji, Ecuador, Rwanda, Cambodia
 
 **Book 1:** *Social Studies Year 4 (Re-edited Version 2017)* (student book, English) — Fiji, Ministry of Education, Heritage & Arts, Curriculum Development Unit; year 2017 (re-edited); ISBN no ISBN printed. Title as printed: Social Studies Year 4 (Re-edited Version 2017). Grade: Year 4 (student/teacher: STUDENT). PDF pages: 66 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: read from the books.json record's own Wayback source_url (ministry original) after the grab.py GitHub API route failed as in Book 1. Non-Geography parts named, not placed: Strand 1 Social Organisation and Processes — 1.1–1.10 Friends, neighbours and cultural/religious events in our communities (printed pp. 4–31); Strand 2 Time, Continuity and Change — 2.1–2.7 Continuity, change, progress, significant people, studying the past, my village/community history (printed pp. 32–40). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
 
@@ -31,3 +31,16 @@ Searchable tags: special places in our village and community, Fiji, social studi
 **Acceptance count: taught in 3 countries (Fiji, Ecuador, Rwanda).**
 
 Rwanda's own way (Primary Five — Rwanda Grade 5 P5 SB): the province is the child's civic world — complementarity (everyone's work fitting together) is the organising value, and national symbols, the 2003/2015 constitution and province leadership are taught as Rwanda's own frame inside it
+
+Cambodia placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *វិទ្យាសាស្ត្រ-សិក្សាសង្គម ថ្នាក់ទី៣ (Science–Social Studies, Grade 3)* (student book, Khmer) — Title as printed: វិទ្យាសាស្ត្រ-សិក្សាសង្គម ថ្នាក់ទី៣ (Science–Social Studies, Grade 3). Grade: 3 (student/teacher: STUDENT). Publisher: MoEYS Publishing and Distribution House; year 2020; ISBN 978-9995-000-78-3. PDF pages: 112 (cover/title page verified against the record title; byte size and pdfinfo page count verified EXACT against the record; read in place at ~/workspace/phase3-staging/, never moved or deleted; all reading was visual, from rendered pages, because the book's text layer uses a legacy font encoding; printed p. = PDF p. − 4 in this book). Earlier waves: Economics wave filed it record-only (senses/body care, disease prevention, food/nutrition, family and community named; no economics parts); not read by the Geography or History waves. Verdict: COMPLETE. Contents map: Integrated SS / Morals — Ch. 1 L5 printed p. 18; Ch. 2 lessons 1–2 pp. 22–29; Ch. 4 lessons 1, 2 and 7 pp. 60, 64, 84; Ch. 5 L1 p. 88; Science/Health pp. 2–17, 45–58, 68, 92–107; Safety (named, Health course) pp. 30, 34, 38, 42; Arts/language (named) pp. 72, 76, 80. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cambodia part — first-steps/special-places-in-our-village-and-community — Ch. 4 L2 កន្លែងផ្សេងៗនៅភូមិខ្ញុំ (Different places in my village) — teaches: the different places in my village and what each is for | Cambodia, *វិទ្យាសាស្ត្រ-សិក្សាសង្គម ថ្នាក់ទី៣ (Science–Social Studies, Grade 3)* (student book), Ch. 4 L2 កន្លែងផ្សេងៗនៅភូមិខ្ញុំ (Different places in my village) — printed p. 64 |
+
+**Acceptance count: taught in 4 countries (Fiji, Ecuador, Rwanda, Cambodia).**
+
+Cambodia's own way (Cambodia Grade 3 Science–Social G3): community living is taught as habits — caring for each other and for the people around — and the safety lessons carry Cambodia's own reality, including keeping safe in areas with landmines; the book ends by widening to the national flag. That way is stocked here as the way Cambodia teaches this thing.
+

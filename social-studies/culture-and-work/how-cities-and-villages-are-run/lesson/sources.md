@@ -1,6 +1,6 @@
 # Sources — How Cities And Villages Are Run
 
-countries: Iran, Egypt, Philippines, Samoa, Albania, Ecuador, Yemen, Bhutan, Afghanistan, Tanzania, Eritrea, Belarus, Fiji, Venezuela, Bangladesh, Turkey, Morocco, Colombia, Iraq, North Macedonia, India, United States, Rwanda, Sri Lanka
+countries: Iran, Egypt, Philippines, Samoa, Albania, Ecuador, Yemen, Bhutan, Afghanistan, Tanzania, Eritrea, Belarus, Fiji, Venezuela, Bangladesh, Turkey, Morocco, Colombia, Iraq, North Macedonia, India, United States, Rwanda, Sri Lanka, Cambodia
 
 **Book 1:** *مطالعات اجتماعی ـ پایه هفتم دوره اول متوسطه (Social Studies, Grade 7, first secondary cycle)* (student book, Persian) — Ministry of Education, Organization for Educational Research and Planning (سازمان پژوهش و برنامه‌ریزی آموزشی); prepared by the Office for Compiling General and Theoretical Secondary Textbooks (دفتر تألیف کتاب‌های درسی عمومی و متوسطه نظری); printed by the Iran Textbook Printing and Publishing Company; 13th printing, 1405; book code 707 (matches the record's C707). Title as printed: مطالعات اجتماعی ـ پایه هفتم دوره اول متوسطه (Social Studies, Grade 7, first secondary cycle). Grade: 7 (student/teacher: STUDENT). PDF pages: 184 (printed pagination runs 6 behind the PDF pages: printed p. 2 = PDF p. 8; title page verified as above; read via the books.json record's own ministry source file at chap.sch.ir — same book, exact byte size and page count as the record — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iran-placements.md.
 
@@ -309,3 +309,18 @@ Sri Lanka's own way (Sri Lanka Grade 6 Civic Education): civics starts inside th
 Sri Lanka's own way (Sri Lanka Grade 11 Social Education and History 2000): the combined book's second half is a full civics course in disguise — democracy first as an idea with its thinkers and its six conditions, then Sri Lanka's own 1978 constitution opened article by article: the rights chapter with its Ombudsman and Human Rights Commission, the vote's road from McCallum to Donoughmore, the preferential presidential election, Parliament's 225 seats, the cabinet that falls with its bill, provinces and pradeshiya sabhas, and a court ladder that ends in village mediation boards.
 
 Searchable tags: how cities and villages are run, Sri Lanka, social studies, culture-and-work
+
+Cambodia placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *វិទ្យាសាស្ត្រ-សិក្សាសង្គម ថ្នាក់ទី៣ (Science–Social Studies, Grade 3)* (student book, Khmer) — Title as printed: វិទ្យាសាស្ត្រ-សិក្សាសង្គម ថ្នាក់ទី៣ (Science–Social Studies, Grade 3). Grade: 3 (student/teacher: STUDENT). Publisher: MoEYS Publishing and Distribution House; year 2020; ISBN 978-9995-000-78-3. PDF pages: 112 (cover/title page verified against the record title; byte size and pdfinfo page count verified EXACT against the record; read in place at ~/workspace/phase3-staging/, never moved or deleted; all reading was visual, from rendered pages, because the book's text layer uses a legacy font encoding; printed p. = PDF p. − 4 in this book). Earlier waves: Economics wave filed it record-only (senses/body care, disease prevention, food/nutrition, family and community named; no economics parts); not read by the Geography or History waves. Verdict: COMPLETE. Contents map: Integrated SS / Morals — Ch. 1 L5 printed p. 18; Ch. 2 lessons 1–2 pp. 22–29; Ch. 4 lessons 1, 2 and 7 pp. 60, 64, 84; Ch. 5 L1 p. 88; Science/Health pp. 2–17, 45–58, 68, 92–107; Safety (named, Health course) pp. 30, 34, 38, 42; Arts/language (named) pp. 72, 76, 80. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cambodia part — culture-and-work/village-leaders-in-cambodia — Ch. 4 L7 អ្នកដឹកនាំភូមិខ្ញុំ (The leaders of my village) — teaches: who leads my village and what the village leaders do | Cambodia, *វិទ្យាសាស្ត្រ-សិក្សាសង្គម ថ្នាក់ទី៣ (Science–Social Studies, Grade 3)* (student book), Ch. 4 L7 អ្នកដឹកនាំភូមិខ្ញុំ (The leaders of my village) — printed p. 84 |
+
+**Acceptance count: taught in 24 countries (Iran, Egypt, Philippines, Samoa, Ecuador, Yemen, Bhutan, Afghanistan, Tanzania, Eritrea, Belarus, Fiji, Venezuela, Bangladesh, Turkey, Morocco, Colombia, Iraq, North Macedonia, India, United States, Rwanda, Sri Lanka, Cambodia).**
+
+Cambodia's own way (Cambodia Grade 3 Science–Social G3): community living is taught as habits — caring for each other and for the people around — and the safety lessons carry Cambodia's own reality, including keeping safe in areas with landmines; the book ends by widening to the national flag. That way is stocked here as the way Cambodia teaches this thing.
+
+Registry note: the original coined string `culture-and-work/village-leaders-in-cambodia` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §5 into this canonical lesson, `culture-and-work/how-cities-and-villages-are-run`.
+

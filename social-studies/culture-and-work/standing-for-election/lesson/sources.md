@@ -1,6 +1,6 @@
 # Sources — Standing for Election
 
-countries: Palestine
+countries: Palestine, Cambodia
 
 **Book 1:** *الدراسات الاجتماعية (Social Studies), Grade 9, Part 1* (student book, Arabic) — Title as printed: الدراسات الاجتماعية (Social Studies), Grade 9, Part 1. Grade: 9 (student/teacher: STUDENT). Publisher: Ministry of Education, State of Palestine; year 2020 (third edition, 1441 AH, per the History wave's verified cover); no ISBN printed. PDF pages: 84 (verified in this wave by own grab: 2,648,552 bytes exactly as recorded, pdfinfo 84 pages, cover rendered and seen — State of Palestine, Ministry of Education and Higher Education, Social Studies, Grade 9 Part 1 tab; also blob-SHA-verified by the Geography and History waves; this wave read the waves' full-text extract of that verified file, printed p. = PDF p. − 4; own PDF deleted after filing). Earlier waves: Geography wave placed nothing (the book carries no Geography content) and named Unit 3 (pp. 63–79) as civics / History wave placed Units 1–2 (colonial policy; resistance and liberation) and named Unit 3 Participation in Building Civil Society (pp. 61–80) as Civics without placing it / Economics wave placed the colonial-economic-policy lesson (printed pp. 11–16, inside Unit 1). Verdict: COMPLETE. Contents map: History pp. 4–60 (Units 1–2); Economics pp. 11–16 (one lesson inside Unit 1); Civics pp. 61–79 (Unit 3 Participation in building civil society — teaching pp. 63–72; pp. 73–75 project-method appendix and pp. 76–78 bibliography, inventory only). The unit has only two lessons — political participation, and election and candidacy; there is no separate civil-society-institutions lesson in the book itself. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/palestine-placements.md.
 
@@ -14,3 +14,18 @@ countries: Palestine
 Palestine's own way (Grade 9 Social Studies Part 1): participation is taught as existence itself — "I participate, therefore I am" — and the lesson counts women's actual seats (56 of 744 in the National Council, 17 of 132 in the Legislative Council) before teaching the quota women won to change them; elections close the course with Palestine's own candidacy ages: 40 for president, 28 for the Legislative Council, 25 for local councils.
 
 Searchable tags: standing for election, Palestine, social studies, culture-and-work
+
+Cambodia placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *សិក្សាសង្គម ថ្នាក់ទី៧ (Social Studies, Grade 7)* (student book, Khmer) — Title as printed: សិក្សាសង្គម ថ្នាក់ទី៧ (Social Studies, Grade 7). Grade: 7 (student/teacher: STUDENT). Publisher: MoEYS Publishing and Distribution House; year 2020; ISBN 978-9995-000-82-0. PDF pages: 304 (cover/title page verified against the record title; byte size and pdfinfo page count verified EXACT against the record; read in place at ~/workspace/phase3-staging/, never moved or deleted; all reading was visual, from rendered pages, because the book's text layer uses a legacy font encoding; printed p. = PDF p. − 4 in this book). Earlier waves: Geography wave placed the Geography section (printed pp. 1–75); History wave placed the History section (pp. 76–150); Economics wave filed the final section record-only (Home Economics — food, sewing, home safety — not economics). Verdict: COMPLETE. Contents map: Civics/Morals/Culture — the section សីលធម៌ ពលរដ្ឋវិទ្យា (Morality–Civics) printed pp. 152–246: Ch. 1 gender and human rights pp. 152–173; Ch. 2 friendship pp. 174–185; Ch. 3 family pp. 186–199; Ch. 4 living with the community (elections) pp. 200–215; Ch. 5 setting life goals / choosing a career pp. 216–227 (named, not placed); Ch. 6 religious beliefs pp. 228–245 (Religion — named, not placed); Home Economics pp. 248–302 (another subject — named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cambodia part — culture-and-work/standing-as-a-candidate — Civics Ch. 4 L4 លក្ខខណ្ឌនៃការឈរឈ្មោះជាបេក្ខជន (Conditions for standing as a candidate) — teaches: the conditions a person must meet to stand as a candidate | Cambodia, *សិក្សាសង្គម ថ្នាក់ទី៧ (Social Studies, Grade 7)* (student book), Civics Ch. 4 L4 លក្ខខណ្ឌនៃការឈរឈ្មោះជាបេក្ខជន (Conditions for standing as a candidate) — printed p. 206 |
+
+**Acceptance count: taught in 2 countries (Palestine, Cambodia).**
+
+Cambodia's own way (Cambodia Grade 7 Social Studies G7): lower-secondary civics opens with gender and human rights before friendship and family, and its community chapter is a full election course in miniature — voting, class representatives, candidacy, taking part, and the qualities of the elected. That way is stocked here as the way Cambodia teaches this thing.
+
+Registry note: the original coined string `culture-and-work/standing-as-a-candidate` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/standing-for-election`.
+
