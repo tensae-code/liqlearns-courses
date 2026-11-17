@@ -1,8 +1,8 @@
 # Sources — Staying Safe in Disasters
 
-countries: El Salvador, Samoa, Timor-Leste, Azerbaijan, Ukraine, Turkey, Pakistan
+countries: El Salvador, Samoa, Timor-Leste, Azerbaijan, Ukraine, Turkey, Pakistan, Iran
 
-**Acceptance count: taught in 5 countries.** El Salvador is filed as student-book stock, inside the acceptance count, in this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below). Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Turkey is filed as teacher-guide evidence only in this lesson — Book 1 is a TEACHER guide, so Turkey is named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this Turkey row. Pakistan is added as student-book stock (see its Pakistan section below), inside the acceptance count.
+**Acceptance count: taught in 6 countries.** El Salvador is filed as student-book stock, inside the acceptance count, in this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below). Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Turkey is filed as teacher-guide evidence only in this lesson — Book 1 is a TEACHER guide, so Turkey is named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this Turkey row. Pakistan is added as student-book stock (see its Pakistan section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count.
 
 **Book 1 — Ciencia, Salud y Medio Ambiente 1 (student book, Spanish):**
 - Title as printed: Ciencia, Salud y Medio Ambiente 1 (Colección Cipotas y Cipotes)
@@ -180,4 +180,52 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/pakistan-hea
 
 Pakistan is added as student-book stock (see its book lines and rows above), inside the acceptance count — all seven Pakistan books are STUDENT books, so Pakistan is named in the countries line and provenance rows and the acceptance count rises from 4 to 5 countries. The Pakistan placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the health slug registry to this lesson; the original string is recorded in each row. Pakistan's own way is content: Urdu-medium combined Health and Physical Education books for Grades 6–12 in which each grade pairs body-system and disease teaching with diet, medicines and safety chapters, and the senior books close with conflicts, bullying, doping and violence. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: staying safe in disasters, earthquakes, tremors, keeping calm, sheltering beside a strong desk, drill simulacro, El Salvador Ciencia Salud y Medio Ambiente 1, Cuando la Tierra se mece, disaster safety fire earthquake floods cyclone hurricane volcanic eruption tsunami landslide, Samoa Years 1–8 Curriculum, disasters and health types of disasters impact on health, personal disaster plan emergency contact numbers, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, Azerbaijan Fiziki Tərbiyə Grades 6-10, Georgian-language edition, hardening the body, self-control diary, air-raid alert how to act, mine safety explosive objects, emergency situations and their consequences, water and flood safety, Ukraine G7 Health Safety and Wellbeing Shyian, safe or dangerous, Güvenli mi Tehlikeli mi, earthquake simulation course, Deprem Simülasyon Parkuru, Turkey Preschool Movement & Health TG, disasters and hazards, landsliding, landslide, Pakistan Grades 6 7 8 9 Sehat-o-Jismani Taleem
+## Iran — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/iran-health-placements.md. The Iran book(s) stocked in this lesson: Book 9, Book 11, Book 12 of that file. Iran's books are STUDENT books, so Iran is student-book stock, inside the acceptance count, in this lesson; Book 12 is a TEACHER guide, so its rows in this lesson are teacher-guide evidence only, outside the acceptance count (Iran is counted once in this lesson via its student books). Books 10, 11 and 13 are combined Science & Health books filed PARTIAL by scope exactly as filed — only their Health parts are placed, their Science parts named in the book lines and not placed. Two Iran placements were NOT stocked in this course: Book 3, Module 3 "Planning sports nutrition" (Iran Grade 12 Health and Lifestyle with Sport (C212300), printed p. 71) and Book 7, Module 3 "Planning sports nutrition" (Iran Grade 11 Health and Lifestyle with Sport (C211304), printed p. 87) — the registry (Part 2B) resolves both to the PE course's `fitness-and-stretching/sports-nutrition-and-hydration` lesson, so they are excluded here as PE-bound. Books 14–19 of the placements file are RECORD-ONLY plumbing/heating trade books ("sanitary" in the building-trade sense) with 0 placements; nothing is stocked from them. The secured books.json record "Health and Hygiene, Grade 12 (Iran, 1405-1406)" is UNREAD as filed — a possible phantom-push LIBRARY DEBT (recorded pushed, absent from GitHub; third grab.py tree attempt returned HTTP 404) — its content is fully covered by Book 1 (C112268), read in full, and it is not counted as a distinct read book.
+
+**Book — Iran Grade 12 Family Health and Hygiene Vol. 2 (C312265) (student book):**
+- Title as printed: بهداشت و سلامت خانواده (جلد دوم) (Family Health and Hygiene, Vol. 2) — شاخه کاردانش، رشته مهارتی مدیریت و برنامه‌ریزی امور خانواده
+- Grade: 12 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, OERP, Tehran; content adapted 1399; 1405-1406 edition; ISBN printed on the title page (digits not reliably extractable from the PDF text layer)
+- PDF pages: 204 (cover verified against the record title; byte size 6,184,009 B)
+- Verdict: COMPLETE
+- Tally: 5 placements — 1 to an existing lesson, 4 NEW LESSON NEEDED (1 HELD-title-decision; 2 reuse NEW slugs first filed for Book 1)
+- Iran's own way: the second volume turns the carer into the family's first responder: food programme, readiness for home accidents and natural disasters, first aid, and nursing care at home.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/iran-health-placements.md (Book 9 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran — Competency 5, disasters part "Family readiness for natural disasters" — earthquake and flood readiness at home (original string `staying-safe/staying-safe-in-natural-disasters`) | Iran Grade 12 Family Health and Hygiene Vol. 2 (C312265), printed p. 57 |
+
+**Book — Iran Grade 7 Experimental Science and Health, special-needs (C57061) (student book):**
+- Title as printed: علوم تجربی و بهداشت (Experimental Science and Health) — استثنایی، دوره اول متوسط پیش حرفه‌ای (special-needs first pre-vocational secondary course)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Special Education Organisation; 1405-1406 edition
+- PDF pages: 64 (opening pages are decorative; title and structure verified from the book's contents pages; byte size 4,262,947 B)
+- Verdict: PARTIAL by scope — combined Science & Health: the Science chapters (vertebrate animals, printed pp. 46–55; the earth's structure inside Ch. 3) are named here, not placed; the Health parts below are placed.
+- Tally: 5 placements — 0 to existing lessons, 5 NEW LESSON NEEDED (2 HELD-title-decision; 2 reuse NEW slugs first filed for Books 8–9)
+- Iran's own way: for special-needs pupils the combined book teaches the body first (senses, teeth), then survival knowledge — how an earthquake behaves and how to protect yourself, and how to stay safe at the sea.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/iran-health-placements.md (Book 11 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran — Ch. 3 "Earthquake" — what an earthquake does and how to protect yourself (same NEW lesson as Book 9, Competency 5) (original string `staying-safe/staying-safe-in-natural-disasters`) | Iran Grade 7 Experimental Science and Health, special-needs (C57061), printed p. 40 |
+
+**Book — Iran Experimental Science and Health Teacher's Guide, special-needs (C152-17) (teacher guide):**
+- Title as printed: علوم تجربی و بهداشت، دوره راهنمایی تحصیلی پیش حرفه‌ای (Experimental Science and Health — Pre-vocational Guidance Course); the download-list record names it راهنمای معلم (Teacher's Guide), and the book is written throughout as teaching guidance (objectives, teaching notes, assessment checklists)
+- Grade: special-needs pre-vocational guidance course, years 1–3 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Special Education Organisation; year 1389
+- PDF pages: 272 (cover verified against the record title; byte size 2,631,175 B)
+- Verdict: COMPLETE as a guide. The Science teaching chapters (animals, plants, earth and energy…) are named here, not placed; the Health teaching chapters below are placed. Printed pages follow the book's own footer numbering.
+- Tally: 12 placements — 2 to an existing lesson, 10 NEW LESSON NEEDED (3 HELD-title-decision; 4 reuse NEW slugs first filed for Books 1, 8 and 9)
+- Iran's own way: the guide pairs every pupil chapter with objectives in three domains (knowledge, skill, attitude) and portfolio assessment; its health teaching is unusually practical — pupils make a first-aid box, practise brush-and-floss technique, and rehearse earthquake safety.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/iran-health-placements.md (Book 12 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran — Lesson "Protecting yourself in an earthquake" (teaching guide) — earthquake safety drills (same NEW lesson as Book 9, Competency 5) (teacher guide — evidence) (original string `staying-safe/staying-safe-in-natural-disasters`) | Iran Experimental Science and Health Teacher's Guide, special-needs (C152-17), printed p. 69 (teacher guide — evidence) |
+
+Iran is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the acceptance count rises from 5 to 6 countries. The Iran placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved to this lesson by the slug registry (Part 2B for HELD-title-decision lines, Part 2A for descriptive slug strings; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Iran's own way is content, as the book lines above record it: one compulsory Grade 12 health course for every stream with prevention ranked above treatment and self-care at the centre, health defined with physical, mental-emotional, family-social and spiritual dimensions with Avicenna and Nahj al-Balagha set beside the WHO definition, family health taught as a certified carer's competencies, childcare health taught as environmental inspection, and health inside science for the youngest and for special-needs pupils. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: staying safe in disasters, earthquakes, tremors, keeping calm, sheltering beside a strong desk, drill simulacro, El Salvador Ciencia Salud y Medio Ambiente 1, Cuando la Tierra se mece, disaster safety fire earthquake floods cyclone hurricane volcanic eruption tsunami landslide, Samoa Years 1–8 Curriculum, disasters and health types of disasters impact on health, personal disaster plan emergency contact numbers, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, Azerbaijan Fiziki Tərbiyə Grades 6-10, Georgian-language edition, hardening the body, self-control diary, air-raid alert how to act, mine safety explosive objects, emergency situations and their consequences, water and flood safety, Ukraine G7 Health Safety and Wellbeing Shyian, safe or dangerous, Güvenli mi Tehlikeli mi, earthquake simulation course, Deprem Simülasyon Parkuru, Turkey Preschool Movement & Health TG, disasters and hazards, landsliding, landslide, Pakistan Grades 6 7 8 9 Sehat-o-Jismani Taleem, Iran

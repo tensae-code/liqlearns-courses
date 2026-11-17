@@ -660,6 +660,7 @@ trip-goer, at home and online.
 37. **Sleep and Rest** (`staying-safe/sleep-and-rest`) — sleep and rest: why the body and mind need sleep and rest, and sleeping well — taught in Timor-Leste's Grade 7 *Saúde e Bem-Estar* student book as social media, sleep and sleep hygiene: how social media affects sleep, and what sleep hygiene is (Unit 4, printed p. 97).
 38. **Staying Safe in Nature** (`staying-safe/staying-safe-in-nature`) — staying safe in nature: poisonous plants, mushrooms and snakes, harmful insects, and finding the way out of danger outdoors — taught in Bulgaria's Grade 7 *Биология и здравно образование* student book as Bulgaria's own poisonous mushrooms (recognising the fly agaric, panther cap and death cap, symptoms appearing 8–24 hours after eating, and that a few grams of the green death cap can kill, printed p. 66) and Bulgaria's poisonous snakes (6 venomous snakes, the horned viper and adder dangerous to humans, medical help immediately after a bite, printed p. 114).
 39. **Staying Safe as a Passenger** (`staying-safe/staying-safe-as-a-passenger`) — staying safe as a passenger: safe behaviour as a passenger and future driver on road, air and sea transport — taught in Ukraine's Grade 5 *«Здоров'я, безпека та добробут»* student book as «Я — пасажир / пасажирка» (I am a passenger): safe behaviour as a passenger in transport (printed p. 21).
+40. **Workplace Health and Safety** (`staying-safe/workplace-health-and-safety`) — workplace health and safety: occupational safety and health, ergonomics and correct working posture, and safe, healthy work and childcare environments — taught in Iran's Grade 12 *Health and Hygiene* as preventing musculoskeletal disorders (back pain): correct posture and lifting in study and work (Ch.6 Lesson 13, printed p. 157), in Iran's Grades 10–12 *Student Companion, PE* as ergonomics: body posture, workstation fit and avoiding strain (Ch.4, printed p. 83), and in Iran's Grade 10 *Pre-school Environment Health and Safety* as safety control of a childcare centre's open environment (Module 2, printed p. 53) and closed environment (Module 4, printed p. 173), and the health and safety of children's sleep, rest and leisure (Module 5, printed p. 235) (Iran student books).
 
 ## Unit 2 — Fair Play and the Body
 
@@ -1058,3 +1059,70 @@ and Glow food groups, menstruation and mindfulness taught
 openly in the primary classes, doma (betel nut) named
 alongside tobacco and alcohol, and the Bhutanese formal
 greeting (bow with open palms, adding "la").
+
+**Health expansion — Iran — BUILT 2026-11-16:** 55 placements
+stocked — 50 into existing lessons and 5 as 1 new lesson
+(**Workplace Health and Safety**
+(`staying-safe/workplace-health-and-safety`)) — bringing this
+course to **54 lessons**. Stocked into existing lessons: Keeping
+My Body Clean (6), Keeping Our Environment Healthy (5),
+Preventing Sports Injuries and First Aid (4), Caring for My
+Senses (4), Healthy Habits Every Day (3), Eating a Balanced
+Diet (3), Avoiding Accidents and Staying Safe (3), Staying Safe
+in Disasters (3), What Health Is (2), Non-communicable Diseases
+(2), Preventing Common Diseases (2), Saying No to Drugs,
+Alcohol and Tobacco (2), Staying Safe While Exercising (2),
+Common Illnesses and Caring for the Sick (2), Food Hygiene and
+Safe Cooking (1), Malnutrition (1), Reproduction and Pregnancy
+(1), Mental Health and Wellbeing (1), Why Exercise Keeps You
+Healthy (1), Keeping Teeth Healthy (1) and Water Safety (1).
+The 57 placements filed in iran-health-placements.md come from
+13 read books (Persian, Ministry of Education, Tehran): Book 1,
+*Health and Hygiene, Grade 12 (C112268)* (student book,
+COMPLETE); Books 2–4, 6–7 cross-filed Health parts of PE-field
+student books (COMPLETE as filed); Book 5, *Pre-school
+Environment Health and Safety, Grade 10 (C210314)* (student
+book, COMPLETE); Books 8–9, *Family Health and Hygiene,
+Vols. 1–2, Grade 12 (C312264/C312265)* (student books,
+COMPLETE); Books 10, 11 and 13, combined Science & Health
+special-needs student books (PARTIAL by scope exactly as filed
+— only their Health parts placed); and Book 12, the
+*Experimental Science and Health Teacher's Guide (C152-17)*
+(teacher guide, COMPLETE as a guide). Iran's student books are
+student-book stock, inside the acceptance counts, in every
+lesson they touch (each touched lesson's count rose by 1; the
+new lesson stands at acceptance count 1); Book 12's 12 rows are
+teacher-guide evidence only, outside the acceptance counts, in
+lessons Iran also enters with student books. Two Iran
+placements were NOT stocked in this course: Book 3, Module 3
+and Book 7, Module 3, both "Planning sports nutrition" (printed
+pp. 71 and 87) — registry Part 2B resolves both to the PE
+course's Sports Nutrition and Hydration lesson, so they are
+excluded here as PE-bound; the Grade 11 module (Book 7) is
+verified already stocked in the PE course (its Units 1–2,
+printed pp. 88 and 111), while the Grade 12 module (Book 3) is
+NOT stocked anywhere — no PE row for C212300 Module 3 exists on
+origin/main — and is named here for a PE fix-up. Books 14–19 of
+the placements file are RECORD-ONLY plumbing/heating trade
+books ("sanitary" in the building-trade sense) with 0
+placements, nothing stocked from them. Honesty notes, as
+filed: the secured books.json record "Health and Hygiene,
+Grade 12 (Iran, 1405-1406)" is UNREAD — a possible
+phantom-push LIBRARY DEBT (recorded pushed, absent from
+GitHub; third grab.py tree attempt returned HTTP 404) — its
+content fully covered by Book 1 (C112268, read in full), not
+counted as a distinct read book; Book 18's cover gives Grades
+11–12 where its download-list record said Grade 10 — the
+printed book governs, as filed; Books 5, 8 and 9 carry ISBNs
+printed on their title pages whose digits were not reliably
+extractable, recorded as filed. Iran's own way is recorded as
+content in the book lines: one compulsory Grade 12 health
+course for every stream with prevention ranked above treatment
+and self-care at the centre, health defined with physical,
+mental-emotional, family-social and spiritual dimensions with
+Avicenna and Nahj al-Balagha set beside the WHO definition,
+family health taught as a certified carer's competencies,
+childcare health taught as environmental inspection, and
+health inside science for the youngest and for special-needs
+pupils, whose guide has pupils make a first-aid box, practise
+brush-and-floss technique, and rehearse earthquake safety.

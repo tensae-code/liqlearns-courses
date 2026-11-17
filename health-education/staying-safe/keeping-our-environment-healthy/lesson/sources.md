@@ -1,8 +1,8 @@
 # Sources — Keeping Our Environment Healthy
 
-countries: Namibia, China, Philippines, Papua New Guinea, Bhutan
+countries: Namibia, China, Philippines, Papua New Guinea, Bhutan, Iran
 
-**Acceptance count: taught in 3 countries.** Namibia is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. China is filed as student-book stock, inside the acceptance count, in this lesson. Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — all five Bhutan books are STUDENT books.
+**Acceptance count: taught in 4 countries.** Namibia is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. China is filed as student-book stock, inside the acceptance count, in this lesson. Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — all five Bhutan books are STUDENT books. Iran is added as student-book stock (see its Iran section below), inside the acceptance count.
 
 **Book 1 — Physical Education 4 Life: A Guide for Physical Education Teachers in Namibia, Grades 10–11 (teacher guide, English) — Health parts:**
 - Title as printed: Physical Education 4 Life — A Guide for Physical Education Teachers in Namibia — Grades 10–11
@@ -215,4 +215,67 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/bhutan-healt
 | Bhutan — 8.5.2 One's Trash, Another's Cash — sorting degradable and non-degradable waste and filling PET bottles with sand for fencing: the money benefits of refuse, reduce, reuse and recycle (original string `staying-safe/waste-in-the-bin`) | Bhutan Class VI Suggested Activities, printed p. 42 |
 
 Bhutan is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — all five Bhutan books are STUDENT books, so Bhutan is named in the countries line and provenance rows and the acceptance count rises from 2 to 3 countries. The Bhutan placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved to this canonical lesson (`staying-safe/keeping-our-environment-healthy`) by registry Part 2A; the original string is recorded in each provenance row above. Bhutan's own way is content, as the book lines above record it: health is taught through movement games and rhymes, WASH content written with UNICEF/SNV/WFP support, nutrition organised by the Go, Grow and Glow food groups, menstruation and mindfulness taught openly in the primary classes, and the Bhutanese formal greeting (bow with open palms, adding "la"). This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
-Searchable tags: keeping our environment healthy, caring for the environment, recycling groups, effects of litter, reusing waste material, Healthy Lifestyle Session 2, Namibia PE4Life Guide, environment and health, air pollution and health, protecting yourself, China Senior High PEP PE & Health, environmental health and Philippine environment problems, Pearl of the Orient Seas, deforestation soil erosion coral reef mangrove degradation, community health problems and action plans, doing a community health project, barangay, what a healthy community is, WHO healthy community, Philippines Grade 7 Health LM, Papua New Guinea, Papua New Guinea Grade 3 Health TG Grade 3, Papua New Guinea Grade 4 Health TG Grade 4, Papua New Guinea Grade 5 Health TG Grade 5, Papua New Guinea Grade 6 HPE TG Grade 6, Papua New Guinea Grade 8 HPE TG Grade 8, Bhutan, Bhutan PP–I Suggested Activities, Bhutan II–III Suggested Activities, Bhutan Class IV Suggested Activities, Bhutan Class V Suggested Activities, Bhutan Class VI Suggested Activities
+## Iran — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/iran-health-placements.md. The Iran book(s) stocked in this lesson: Book 5, Book 8, Book 11, Book 12 of that file. Iran's books are STUDENT books, so Iran is student-book stock, inside the acceptance count, in this lesson; Book 12 is a TEACHER guide, so its rows in this lesson are teacher-guide evidence only, outside the acceptance count (Iran is counted once in this lesson via its student books). Books 10, 11 and 13 are combined Science & Health books filed PARTIAL by scope exactly as filed — only their Health parts are placed, their Science parts named in the book lines and not placed. Two Iran placements were NOT stocked in this course: Book 3, Module 3 "Planning sports nutrition" (Iran Grade 12 Health and Lifestyle with Sport (C212300), printed p. 71) and Book 7, Module 3 "Planning sports nutrition" (Iran Grade 11 Health and Lifestyle with Sport (C211304), printed p. 87) — the registry (Part 2B) resolves both to the PE course's `fitness-and-stretching/sports-nutrition-and-hydration` lesson, so they are excluded here as PE-bound. Books 14–19 of the placements file are RECORD-ONLY plumbing/heating trade books ("sanitary" in the building-trade sense) with 0 placements; nothing is stocked from them. The secured books.json record "Health and Hygiene, Grade 12 (Iran, 1405-1406)" is UNREAD as filed — a possible phantom-push LIBRARY DEBT (recorded pushed, absent from GitHub; third grab.py tree attempt returned HTTP 404) — its content is fully covered by Book 1 (C112268), read in full, and it is not counted as a distinct read book.
+
+**Book — Iran Grade 10 Pre-school Environment Health and Safety (C210314) (student book):**
+- Title as printed: کنترل بهداشت و ایمنی محیط مراکز پیش از دبستان (Controlling Health and Safety of the Environment of Pre-school Centres) — رشته تربیت کودک (Child Training field)، گروه بهداشت و سلامت، شاخه فنی و حرفه‌ای
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, OERP, Tehran; 1405-1406 edition; ISBN printed on the title page (digits not reliably extractable from the PDF text layer)
+- PDF pages: 308 (cover verified against the record title; byte size 9,596,715 B)
+- Verdict: COMPLETE
+- Tally: 5 placements — 0 to existing lessons, 5 NEW LESSON NEEDED
+- Iran's own way: health taught as inspection: future childcare workers learn to control a centre's environment in a fixed order — open spaces, then closed spaces, health first and safety second in each — and finally the hygiene of children's sleep, rest and free time.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/iran-health-placements.md (Book 5 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran — Module 1 "Health control of the open environment" — cleanliness, water, waste and air in the yards and outdoor areas of a pre-school centre (original string `staying-safe/health-of-the-childcare-environment`) | Iran Grade 10 Pre-school Environment Health and Safety (C210314), printed p. 1 |
+| Iran — Module 3 "Health control of the closed environment" — hygiene of classrooms, kitchens, toilets and ventilation indoors (original string `staying-safe/health-of-the-childcare-environment`) | Iran Grade 10 Pre-school Environment Health and Safety (C210314), printed p. 115 |
+
+**Book — Iran Grade 12 Family Health and Hygiene Vol. 1 (C312264) (student book):**
+- Title as printed: بهداشت و سلامت خانواده (جلد اول) (Family Health and Hygiene, Vol. 1) — شاخه کاردانش، رشته مهارتی مدیریت و برنامه‌ریزی امور خانواده (Family Affairs Management and Planning skill field); skill standard: مراقب امور بهداشت و سلامت خانواده (Carer for Family Health and Hygiene Affairs)
+- Grade: 12 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, OERP, Tehran; content adapted 1399 to the current skill standard; 1405-1406 edition; ISBN printed on the title page (digits not reliably extractable from the PDF text layer)
+- PDF pages: 160 (cover verified against the record title; byte size 5,169,394 B)
+- Verdict: COMPLETE
+- Tally: 3 placements — 0 to existing lessons, 3 NEW LESSON NEEDED (1 HELD-title-decision; 1 reuses the NEW personal-hygiene slug first filed for Book 1)
+- Iran's own way: family health is a certified job skill in the work-and-knowledge branch: the book is built as numbered competencies a family-health carer must demonstrate, not as school chapters.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/iran-health-placements.md (Book 8 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran — Competency 3 "Protecting the environment" — waste, water and surroundings as family health (original string `staying-safe/environmental-health-protecting-our-surroundings`) | Iran Grade 12 Family Health and Hygiene Vol. 1 (C312264), printed p. 95 |
+
+**Book — Iran Grade 7 Experimental Science and Health, special-needs (C57061) (student book):**
+- Title as printed: علوم تجربی و بهداشت (Experimental Science and Health) — استثنایی، دوره اول متوسط پیش حرفه‌ای (special-needs first pre-vocational secondary course)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Special Education Organisation; 1405-1406 edition
+- PDF pages: 64 (opening pages are decorative; title and structure verified from the book's contents pages; byte size 4,262,947 B)
+- Verdict: PARTIAL by scope — combined Science & Health: the Science chapters (vertebrate animals, printed pp. 46–55; the earth's structure inside Ch. 3) are named here, not placed; the Health parts below are placed.
+- Tally: 5 placements — 0 to existing lessons, 5 NEW LESSON NEEDED (2 HELD-title-decision; 2 reuse NEW slugs first filed for Books 8–9)
+- Iran's own way: for special-needs pupils the combined book teaches the body first (senses, teeth), then survival knowledge — how an earthquake behaves and how to protect yourself, and how to stay safe at the sea.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/iran-health-placements.md (Book 11 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran — Ch. 5 "Seas" — sea pollution and keeping the sea clean (same NEW lesson as Book 8, Competency 3) (original string `staying-safe/environmental-health-protecting-our-surroundings`) | Iran Grade 7 Experimental Science and Health, special-needs (C57061), printed p. 62 |
+
+**Book — Iran Experimental Science and Health Teacher's Guide, special-needs (C152-17) (teacher guide):**
+- Title as printed: علوم تجربی و بهداشت، دوره راهنمایی تحصیلی پیش حرفه‌ای (Experimental Science and Health — Pre-vocational Guidance Course); the download-list record names it راهنمای معلم (Teacher's Guide), and the book is written throughout as teaching guidance (objectives, teaching notes, assessment checklists)
+- Grade: special-needs pre-vocational guidance course, years 1–3 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Special Education Organisation; year 1389
+- PDF pages: 272 (cover verified against the record title; byte size 2,631,175 B)
+- Verdict: COMPLETE as a guide. The Science teaching chapters (animals, plants, earth and energy…) are named here, not placed; the Health teaching chapters below are placed. Printed pages follow the book's own footer numbering.
+- Tally: 12 placements — 2 to an existing lesson, 10 NEW LESSON NEEDED (3 HELD-title-decision; 4 reuse NEW slugs first filed for Books 1, 8 and 9)
+- Iran's own way: the guide pairs every pupil chapter with objectives in three domains (knowledge, skill, attitude) and portfolio assessment; its health teaching is unusually practical — pupils make a first-aid box, practise brush-and-floss technique, and rehearse earthquake safety.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/iran-health-placements.md (Book 12 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran — Background chapter "Environment and disease" — waste, sewage and the insects and rodents that carry disease (same NEW lesson as Book 8, Competency 3) (teacher guide — evidence) (original string `staying-safe/environmental-health-protecting-our-surroundings`) | Iran Experimental Science and Health Teacher's Guide, special-needs (C152-17), printed p. 230 (teacher guide — evidence) |
+
+Iran is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the acceptance count rises from 3 to 4 countries. The Iran placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved to this lesson by the slug registry (Part 2B for HELD-title-decision lines, Part 2A for descriptive slug strings; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Iran's own way is content, as the book lines above record it: one compulsory Grade 12 health course for every stream with prevention ranked above treatment and self-care at the centre, health defined with physical, mental-emotional, family-social and spiritual dimensions with Avicenna and Nahj al-Balagha set beside the WHO definition, family health taught as a certified carer's competencies, childcare health taught as environmental inspection, and health inside science for the youngest and for special-needs pupils. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: keeping our environment healthy, caring for the environment, recycling groups, effects of litter, reusing waste material, Healthy Lifestyle Session 2, Namibia PE4Life Guide, environment and health, air pollution and health, protecting yourself, China Senior High PEP PE & Health, environmental health and Philippine environment problems, Pearl of the Orient Seas, deforestation soil erosion coral reef mangrove degradation, community health problems and action plans, doing a community health project, barangay, what a healthy community is, WHO healthy community, Philippines Grade 7 Health LM, Papua New Guinea, Papua New Guinea Grade 3 Health TG Grade 3, Papua New Guinea Grade 4 Health TG Grade 4, Papua New Guinea Grade 5 Health TG Grade 5, Papua New Guinea Grade 6 HPE TG Grade 6, Papua New Guinea Grade 8 HPE TG Grade 8, Bhutan, Bhutan PP–I Suggested Activities, Bhutan II–III Suggested Activities, Bhutan Class IV Suggested Activities, Bhutan Class V Suggested Activities, Bhutan Class VI Suggested Activities, Iran

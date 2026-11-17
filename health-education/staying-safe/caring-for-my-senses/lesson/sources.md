@@ -1,8 +1,8 @@
 # Sources — Caring for My Senses
 
-countries: China, El Salvador, Bulgaria
+countries: China, El Salvador, Bulgaria, Iran
 
-**Acceptance count: taught in 3 countries.** China and El Salvador are filed as student-book stock, inside the acceptance count, in this lesson. Bulgaria is filed as student-book stock, inside the acceptance count, in this lesson.
+**Acceptance count: taught in 4 countries.** China and El Salvador are filed as student-book stock, inside the acceptance count, in this lesson. Bulgaria is filed as student-book stock, inside the acceptance count, in this lesson. Iran is added as student-book stock (see its Iran section below), inside the acceptance count.
 
 **Book 1 — 普通高中教科书·体育与健康必修 全一册 (PEP Senior-High PE & Health, Compulsory, Complete Volume) (student book, Chinese):**
 - Title as printed: 普通高中教科书·体育与健康必修 全一册
@@ -57,4 +57,53 @@ El Salvador is added as student-book stock (see its book line and rows above), i
 
 Bulgaria is added as student-book stock (see its book line and rows above), inside the acceptance count — the Bulgaria book is a STUDENT book, so Bulgaria is named in the countries line and provenance rows and the acceptance count rises from 2 to 3 countries. All three Bulgaria placements were filed under the original strings recorded in the provenance rows above, each resolved to this canonical lesson `staying-safe/caring-for-my-senses` by registry Part 2. Bulgaria's own way is content, as the book line above records it: the senses and skin are taught at the end of the Grade 8 human-body year, each with its own diseases-and-prevention teaching — the visual system, the hearing and balance system, and the skin with its structure and functions. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: caring for my senses, looking after your eyes, preventing serious eye disease, preventing eye injuries, China Senior High PEP PE & Health, five senses, touch taste sight hearing smell, caring for skin nose tongue ears eyes, El Salvador Ciencia Salud y Medio Ambiente 1, Qué dicen los sentidos, visual system diseases prevention, hearing and balance diseases prevention, skin structure functions diseases prevention, Bulgaria Biology and Health Education Grade 8 Pedagog 6
+## Iran — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/iran-health-placements.md. The Iran book(s) stocked in this lesson: Book 10, Book 11, Book 12 of that file. Iran's books are STUDENT books, so Iran is student-book stock, inside the acceptance count, in this lesson; Book 12 is a TEACHER guide, so its rows in this lesson are teacher-guide evidence only, outside the acceptance count (Iran is counted once in this lesson via its student books). Books 10, 11 and 13 are combined Science & Health books filed PARTIAL by scope exactly as filed — only their Health parts are placed, their Science parts named in the book lines and not placed. Two Iran placements were NOT stocked in this course: Book 3, Module 3 "Planning sports nutrition" (Iran Grade 12 Health and Lifestyle with Sport (C212300), printed p. 71) and Book 7, Module 3 "Planning sports nutrition" (Iran Grade 11 Health and Lifestyle with Sport (C211304), printed p. 87) — the registry (Part 2B) resolves both to the PE course's `fitness-and-stretching/sports-nutrition-and-hydration` lesson, so they are excluded here as PE-bound. Books 14–19 of the placements file are RECORD-ONLY plumbing/heating trade books ("sanitary" in the building-trade sense) with 0 placements; nothing is stocked from them. The secured books.json record "Health and Hygiene, Grade 12 (Iran, 1405-1406)" is UNREAD as filed — a possible phantom-push LIBRARY DEBT (recorded pushed, absent from GitHub; third grab.py tree attempt returned HTTP 404) — its content is fully covered by Book 1 (C112268), read in full, and it is not counted as a distinct read book.
+
+**Book — Iran Grade 1 Experimental Sciences, special edition (C11061) (student book):**
+- Title as printed: علوم تجربی، اول دبستان (Experimental Sciences, Grade 1 Primary); the download-list record files it as علوم تجربی و بهداشت - استثنایی (Experimental Science and Health — special), low-vision (کم بینا) edition
+- Grade: 1 primary (student/teacher: STUDENT)
+- Publisher: Ministry of Education, OERP / Special Education Organisation listing; 1405-1406 edition
+- PDF pages: 104 (cover and lesson pages verified against the record title; byte size 15,111,523 B, exactly the recorded size)
+- Verdict: PARTIAL by scope — a combined Science book: the Science lessons (animals, plants, earth, water, soil, hot and cold, magnets…) are named here, not placed; the Health parts below are placed. Health parts: the senses lesson and the "health group" spreads on cleanliness, toothbrushing, healthy snacks and seeing the doctor.
+- Tally: 3 placements — 0 to existing lessons, 3 NEW LESSON NEEDED (2 HELD-title-decision; 1 reuses the NEW personal-hygiene slug first filed for Book 1)
+- Iran's own way: health enters Grade 1 inside science, taught by pupil "health groups" who collect and present cleanliness and care information to the class.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/iran-health-placements.md (Book 10 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran — Lesson "Our senses" — the five senses as gifts to take care of (body-knowledge material, fits neither Health title) (original string `staying-safe/HELD-title-decision`) | Iran Grade 1 Experimental Sciences, special edition (C11061), printed p. 16 |
+
+**Book — Iran Grade 7 Experimental Science and Health, special-needs (C57061) (student book):**
+- Title as printed: علوم تجربی و بهداشت (Experimental Science and Health) — استثنایی، دوره اول متوسط پیش حرفه‌ای (special-needs first pre-vocational secondary course)
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education, Special Education Organisation; 1405-1406 edition
+- PDF pages: 64 (opening pages are decorative; title and structure verified from the book's contents pages; byte size 4,262,947 B)
+- Verdict: PARTIAL by scope — combined Science & Health: the Science chapters (vertebrate animals, printed pp. 46–55; the earth's structure inside Ch. 3) are named here, not placed; the Health parts below are placed.
+- Tally: 5 placements — 0 to existing lessons, 5 NEW LESSON NEEDED (2 HELD-title-decision; 2 reuse NEW slugs first filed for Books 8–9)
+- Iran's own way: for special-needs pupils the combined book teaches the body first (senses, teeth), then survival knowledge — how an earthquake behaves and how to protect yourself, and how to stay safe at the sea.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/iran-health-placements.md (Book 11 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran — Ch. 1 "The sense organs" — seeing, hearing, smelling, tasting and touching, and the organs that do them (body-knowledge material) (original string `staying-safe/HELD-title-decision`) | Iran Grade 7 Experimental Science and Health, special-needs (C57061), printed p. 12 |
+
+**Book — Iran Experimental Science and Health Teacher's Guide, special-needs (C152-17) (teacher guide):**
+- Title as printed: علوم تجربی و بهداشت، دوره راهنمایی تحصیلی پیش حرفه‌ای (Experimental Science and Health — Pre-vocational Guidance Course); the download-list record names it راهنمای معلم (Teacher's Guide), and the book is written throughout as teaching guidance (objectives, teaching notes, assessment checklists)
+- Grade: special-needs pre-vocational guidance course, years 1–3 (student/teacher: TEACHER)
+- Publisher: Ministry of Education, Special Education Organisation; year 1389
+- PDF pages: 272 (cover verified against the record title; byte size 2,631,175 B)
+- Verdict: COMPLETE as a guide. The Science teaching chapters (animals, plants, earth and energy…) are named here, not placed; the Health teaching chapters below are placed. Printed pages follow the book's own footer numbering.
+- Tally: 12 placements — 2 to an existing lesson, 10 NEW LESSON NEEDED (3 HELD-title-decision; 4 reuse NEW slugs first filed for Books 1, 8 and 9)
+- Iran's own way: the guide pairs every pupil chapter with objectives in three domains (knowledge, skill, attitude) and portfolio assessment; its health teaching is unusually practical — pupils make a first-aid box, practise brush-and-floss technique, and rehearse earthquake safety.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/iran-health-placements.md (Book 12 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran — Ch. 1 "The sense organs" (teaching guide) — structure and care of the sense organs, using a sight-testing chart (body-knowledge material) (teacher guide — evidence) (original string `staying-safe/HELD-title-decision`) | Iran Experimental Science and Health Teacher's Guide, special-needs (C152-17), printed p. 43 (teacher guide — evidence) |
+| Iran — Background chapter "The sense organs in detail" — eye and ear diseases and care, vitamin A and the eyes (body-knowledge material) (teacher guide — evidence) (original string `staying-safe/HELD-title-decision`) | Iran Experimental Science and Health Teacher's Guide, special-needs (C152-17), printed p. 188 (teacher guide — evidence) |
+
+Iran is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the acceptance count rises from 3 to 4 countries. The Iran placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved to this lesson by the slug registry (Part 2B for HELD-title-decision lines, Part 2A for descriptive slug strings; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Iran's own way is content, as the book lines above record it: one compulsory Grade 12 health course for every stream with prevention ranked above treatment and self-care at the centre, health defined with physical, mental-emotional, family-social and spiritual dimensions with Avicenna and Nahj al-Balagha set beside the WHO definition, family health taught as a certified carer's competencies, childcare health taught as environmental inspection, and health inside science for the youngest and for special-needs pupils. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: caring for my senses, looking after your eyes, preventing serious eye disease, preventing eye injuries, China Senior High PEP PE & Health, five senses, touch taste sight hearing smell, caring for skin nose tongue ears eyes, El Salvador Ciencia Salud y Medio Ambiente 1, Qué dicen los sentidos, visual system diseases prevention, hearing and balance diseases prevention, skin structure functions diseases prevention, Bulgaria Biology and Health Education Grade 8 Pedagog 6, Iran

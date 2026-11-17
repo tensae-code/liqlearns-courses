@@ -417,3 +417,28 @@ lessons. All 50 placements are from Bhutan's five *Suggested
 Lesson Activities* student books, Classes PP–I to VI (2020,
 all COMPLETE), so Bhutan is student-book stock, inside the
 acceptance counts; each touched lesson's count rose by 1.
+
+The Health expansion then added (Iran): **Workplace Health
+and Safety** (`staying-safe/workplace-health-and-safety`) —
+1 new lesson, bringing this course to 54 lessons. A further
+50 Iran placements were stocked into existing lessons (Keeping
+My Body Clean ×6, Keeping Our Environment Healthy ×5,
+Preventing Sports Injuries and First Aid ×4, Caring for My
+Senses ×4, Healthy Habits Every Day ×3, Eating a Balanced
+Diet ×3, Avoiding Accidents and Staying Safe ×3, Staying Safe
+in Disasters ×3, What Health Is ×2, Non-communicable Diseases
+×2, Preventing Common Diseases ×2, Saying No to Drugs, Alcohol
+and Tobacco ×2, Staying Safe While Exercising ×2, Common
+Illnesses and Caring for the Sick ×2, Food Hygiene and Safe
+Cooking, Malnutrition, Reproduction and Pregnancy, Mental
+Health and Wellbeing, Why Exercise Keeps You Healthy, Keeping
+Teeth Healthy, Water Safety), as student-book stock — Iran's
+12 student books are STUDENT books, so each touched lesson's
+acceptance count rose by 1 and the new lesson stands at
+acceptance count 1; Book 12 (Teacher's Guide, C152-17) is
+teacher-guide evidence only, outside the acceptance counts.
+Two Iran sports-nutrition placements were excluded as
+PE-bound (registry Part 2B → PE Sports Nutrition and
+Hydration): the Grade 11 module is already stocked in PE; the
+Grade 12 module (C212300, printed p. 71) is not stocked
+anywhere and awaits a PE fix-up.
