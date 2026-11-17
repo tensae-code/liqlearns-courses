@@ -92,3 +92,19 @@ sources, as provenance.
   leads are record-only catalogue pages, not in hand. See
   `chile/ABOUT.md` for the full book list and the acceptance
   reckoning.
+- **Micronesia** — [`micronesia/`](micronesia/) · 18 lessons:
+  Levels 1–3 — one long story of self-government: how
+  Micronesians governed themselves traditionally (the Chuuk,
+  Pohnpei and Yap models and their common themes), the road
+  back (first elections and municipalities, separation of
+  powers, the Congress of Micronesia, the Constitution and its
+  Founding Fathers), and the FSM government today (three
+  levels, state–national power, three branches, checks and
+  balances, courts and traditional justice, the bureaucracy,
+  traditional leaders, taking part, and the Amnesty Bill case
+  study), from the Federated States of Micronesia's
+  *Micronesian Government: Yesterday, Today, and Tomorrow*
+  student book (National Department of Education, English,
+  2008 first edition, COMPLETE — its Unit Two colonial-history
+  narrative named, not placed). See `micronesia/ABOUT.md` for
+  the full book list and the acceptance reckoning.
