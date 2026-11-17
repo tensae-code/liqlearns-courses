@@ -1,6 +1,6 @@
 # Sources — Staying Safe on the Road
 
-countries: Maldives, Cuba, Albania, Afghanistan, Burkina Faso, Serbia, Bangladesh, Morocco, North Macedonia, Palestine, Vietnam, Iran, El Salvador, Dominican Republic, Laos, Mongolia
+countries: Maldives, Cuba, Albania, Afghanistan, Burkina Faso, Serbia, Bangladesh, Morocco, North Macedonia, Palestine, Vietnam, Iran, El Salvador, Dominican Republic, Laos, Mongolia, Nepal
 
 **Book 1:** *Exploring Social Studies 4* (student book, English) — Title as printed: Exploring Social Studies 4. Grade: Grade 4 (student/teacher: STUDENT). Publisher: National Institute of Education, Ministry of Education, Maldives; year 2025 (first published 2025); ISBN 978-99915-0-954-9. PDF pages: printed pagination 1–189 plus front matter (read in full via the NIE download's indexed full text — the direct file download from this host failed on every attempt: the WPDM link's refresh token returns an error to shell downloads, so the book could NOT be staged; see the group log. Cover, title page, ISBN and contents verified against the record title in the indexed text.) Earlier waves: not read before. Verdict: COMPLETE — contents-mapped in full; Units 1, 5 and 6 (the remaining strands) read page by page. Contents map: Integrated SS printed pp. 1–30 (Unit 1 Belonging & Connections); Civics/Citizenship/Government pp. 131–160 (Unit 5 Living Together); Culture in society pp. 161–189 (Unit 6 We the Maldivians); Geography pp. 31–76 (Unit 2 People, Places and the Environment — named, not placed); History pp. 77–98 and 183–188 (Unit 3 Time, Continuity and Change; §6.4 Our National Heroes — named, not placed); Economics pp. 99–130 (Unit 4 The Economic World — named, not placed); Religion within §5.2 (Islam teaches peace and harmony — named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/maldives-placements-b.md.
 
@@ -323,3 +323,17 @@ Mongolia's own way (Book 4): the last primary civics book completes the customs 
 Registry note: the original coined string `first-steps/keeping-safe-in-traffic` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/staying-safe-on-the-road`.
 
 Searchable tags: staying safe on the road, Mongolia, social studies, first-steps
+
+**Book 14:** *Samajik Adhyayan tatha Manav Mulya Shiksha Kaksha 6 (Social Studies and Human Value Education Grade 6)* (student book, Nepali) — Title as printed: सामाजिक अध्ययन तथा मानवमूल्य शिक्षा, कक्षा ६ (Samajik Adhyayan tatha Manav Mulya Shiksha, Grade 6) Grade: Grade 6 (student/teacher: STUDENT) Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur PDF pages: 214 (cover verified against the record title; contents read from rendered TOC pages — the legacy-font text layer garbles; grabbed via grab.py after the GitHub API route recovered) Earlier waves: Geography wave placed Unit 7 Our Earth and Unit 8 Population (21 placements); History wave placed Unit 5 Our Past (7); Economics wave placed Unit 6 Nepal's Economic Activities (7). Verdict: COMPLETE Contents map: Integrated SS/Civics pp. 1–19 (Unit 1 We and Our Society — society, municipalities, local development); Morals/Values pp. 20–49 (Unit 2 Our Human Values); Civics pp. 50–87 (Unit 3 Civic Awareness, Duties and Rights; Unit 4 Social Problems and Solutions); History pp. 88–111 (Unit 5 — placed); Economics pp. 112–128 (Unit 6 — placed); Geography pp. 129–166 (Unit 7 — placed); Population pp. 167–190 (Unit 8 — placed by the Geography wave). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal part 1 — culture-and-work/obeying-traffic-rules — Unit 3 L8 Let us obey traffic rules — teaches: traffic rules as civic duty — Nepal Grade 6 Social Studies and Human Value Education, printed p. 70 | Nepal, *Samajik Adhyayan tatha Manav Mulya Shiksha Kaksha 6 (Social Studies and Human Value Education Grade 6)* (student book), Let us obey traffic rules — printed p. 70 |
+| Nepal's way — the books' own teaching way | Nepal — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 13 countries (Maldives, Cuba, Afghanistan, Serbia, Bangladesh, North Macedonia, Palestine, Vietnam, Iran, El Salvador, Dominican Republic, Mongolia, Nepal).** Laos, Burkina Faso, Albania and Morocco are named here as teacher-guide evidence only, counted nowhere.
+
+Nepal's own way (Book 8): Grade 6 is where the federation becomes concrete — rural municipality against municipality, each with its services listed — and where conflict itself becomes a school subject: a lesson on disputes and a lesson on resolving them close the social-problems unit.
+
+Registry note: the original coined string `culture-and-work/obeying-traffic-rules` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/staying-safe-on-the-road`.
+

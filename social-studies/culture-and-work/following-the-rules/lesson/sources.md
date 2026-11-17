@@ -1,6 +1,6 @@
 # Sources — Following the Rules
 
-countries: Afghanistan, Tanzania, Iraq, Jordan, Myanmar, Japan, Zimbabwe, Laos, Mongolia, Indonesia
+countries: Afghanistan, Tanzania, Iraq, Jordan, Myanmar, Japan, Zimbabwe, Laos, Mongolia, Indonesia, Nepal
 
 **Book 1:** *Social Studies, Grade 6 (دروس اجتماعی صنف ششم)* (student book, Dari) — Title as printed: دروس اجتماعی صنف ششم (Social Studies, Grade 6). Grade: 6 (student/teacher: STUDENT). Publisher: Ministry of Education, Afghanistan; year 1398 HS (2019/20) as printed; ISBN no ISBN printed. PDF pages: 106 (cover verified against the record title; 8,468,695 bytes via grab tree route — grab.py's Python route failed three times with proxy RemoteDisconnected, so the same Contents-API route was run through curl with byte-size and blob-SHA verification, matching the earlier waves' size exactly). Earlier waves: Geography wave placed Lessons 1 and 11 (our country; provinces) and Lessons 12–17 (the six neighbouring countries); History wave placed Lessons 26–34 (Afghanistan 1973–2004) and Lessons 35–50 (early Islamic history); Economics wave filed this book's Grade 4/5 companions UNREAD (tree 404) but did not hold this Grade 6 record. Verdict: COMPLETE — the remaining civics/values chapters (Chapter 1 state lessons and Chapter 3 "Peace and national unity") read page by page (printed pp. 3–17 and 35–49) and placed below. Contents map: Integrated SS pp. 1–2 (Lesson 1 our country — placed by Geography); Civics/Citizenship/Government pp. 3–17 (Lessons 2–9: need for a state, constitution, our state, National Council, Wolesi Jirga, Meshrano Jirga, executive, judiciary) and pp. 35–49 (Lessons 18–25: national unity, peace and security, public property, media ethics, human dignity, respecting the law, children's rights, women's rights); Geography pp. 21–33 (provinces; neighbours — placed by Geography); History pp. 19 (Lesson 10 glories of Afghanistan — named by History) and pp. 51–67 (recent events — placed by History); Religion pp. 69–99 (Islamic history — placed by History). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/afghanistan-placements.md.
 
@@ -207,3 +207,17 @@ Indonesia's own way (PP-G2 teacher): the guide organises Grade 2 by Fase A (the 
 Registry note: the original coined string `culture-and-work/obeying-rules-as-a-good-attitude` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/following-the-rules`.
 
 Searchable tags: following the rules, Indonesia, social studies, culture-and-work
+
+**Book 18:** *My Social Studies and Creative Arts Grade 3* (student book, English) — Title as printed: My Social Studies and Creative Arts, Grade 3 Grade: Grade 3 (student/teacher: STUDENT) Publisher: Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition 2051 BS, English version 2066 BS, updated 2067 BS; no ISBN printed (per Economics wave's verified read; title page re-verified in this wave) PDF pages: 99 (cover/title page verified against the record title; grabbed via grab.py after the GitHub API route recovered) Earlier waves: Geography wave placed Unit 5 Our Earth (7 placements); History wave placed Unit 6 Our Past (4); Economics wave placed Unit 7 lessons 2–4 (3) and named lesson 1 (Importance of Work, a work-values story) without placing it — placed here. Verdict: COMPLETE Contents map: Integrated SS pp. 2–9 (Unit 1 Me, My Family and Neighbourhood); Morals/Values pp. 10–25 (Unit 2 Our Tradition, Social Values and Norms; Unit 3 Social Problems and Solutions); Civics pp. 26–35 (Unit 4 Civic Sense, incl. My Ward and its function); Geography pp. 36–43 (Unit 5 — placed); History pp. 44–51 (Unit 6 — placed); Economics pp. 52–59 (Unit 7 — placed by Economics wave, except the values lesson placed here); Creative Arts pp. 61–93 (Art course — named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal part 1 — culture-and-work/obeying-the-civic-rules — Unit 4 L4 Obey the civic rules — teaches: following the rules of civic life — Nepal Grade 3 My Social Studies and Creative Arts, printed p. 32 | Nepal, *My Social Studies and Creative Arts Grade 3* (student book), Obey the civic rules — printed p. 32 |
+| Nepal's way — the books' own teaching way | Nepal — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 9 countries (Afghanistan, Tanzania, Iraq, Jordan, Myanmar, Japan, Mongolia, Indonesia, Nepal).** Zimbabwe and Laos are named here as teacher-guide evidence only, counted nowhere.
+
+Nepal's own way (Book 3): Grade 3 names caste directly — "Abolish Untouchability" is a named lesson — and local government arrives as the child's own ward and what it does.
+
+Registry note: the original coined string `culture-and-work/obeying-the-civic-rules` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/following-the-rules`.
+

@@ -1,0 +1,21 @@
+# Sources — Helping in Neighbours Work
+
+countries: Nepal
+
+**Book 3:** *My Social Studies and Creative Arts Grade 3* (student book, English) — Title as printed: My Social Studies and Creative Arts, Grade 3 Grade: Grade 3 (student/teacher: STUDENT) Publisher: Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition 2051 BS, English version 2066 BS, updated 2067 BS; no ISBN printed (per Economics wave's verified read; title page re-verified in this wave) PDF pages: 99 (cover/title page verified against the record title; grabbed via grab.py after the GitHub API route recovered) Earlier waves: Geography wave placed Unit 5 Our Earth (7 placements); History wave placed Unit 6 Our Past (4); Economics wave placed Unit 7 lessons 2–4 (3) and named lesson 1 (Importance of Work, a work-values story) without placing it — placed here. Verdict: COMPLETE Contents map: Integrated SS pp. 2–9 (Unit 1 Me, My Family and Neighbourhood); Morals/Values pp. 10–25 (Unit 2 Our Tradition, Social Values and Norms; Unit 3 Social Problems and Solutions); Civics pp. 26–35 (Unit 4 Civic Sense, incl. My Ward and its function); Geography pp. 36–43 (Unit 5 — placed); History pp. 44–51 (Unit 6 — placed); Economics pp. 52–59 (Unit 7 — placed by Economics wave, except the values lesson placed here); Creative Arts pp. 61–93 (Art course — named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/nepal-placements.md.
+
+**Book 6:** *My Social Studies and Creative Arts Grade 5, English Version* (student book, English) — Title as printed: My Social Studies and Creative Arts, Grade 5 Grade: Grade 5 (student/teacher: STUDENT) Publisher: Government of Nepal, Ministry of Education, Curriculum Development Centre; first edition 2068 BS, revised 2074 BS; ISBN 978-99933-717-8-6 as printed (per History wave's verified read; title page re-verified in this wave) PDF pages: 156 (cover/title page verified against the record title; grabbed via grab.py after the GitHub API route recovered) Earlier waves: Geography wave placed Unit 5 Our Earth (14 placements); History wave placed Unit 6 lessons 1–6 (7) and explicitly named lesson 7 (Our Head of State and the Head of Government — civics) as not placed, placed here; Economics wave placed Unit 7 (4). Verdict: COMPLETE Contents map: Integrated SS pp. 2–11 (Unit 1 Our Community); Morals/Values pp. 12–33 (Unit 2 Our Traditions, Social Norms and Values; Unit 3 Social Problems and Their Solutions); Civics pp. 34–47 (Unit 4 Civic Sense) and p. 78 (Unit 6 L7); Geography pp. 48–65 (Unit 5 — placed); History pp. 66–77 (Unit 6 L1–6 — placed); Economics pp. 80–89 (Unit 7 — placed); Creative Arts pp. 90–end (Art course — named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — first-steps/helping-in-neighbours-work — Unit 1 L4 Help in neighbour's work — teaches: joining a neighbour's work as help — Nepal Grade 3 My Social Studies and Creative Arts, printed p. 8 | Nepal, *My Social Studies and Creative Arts Grade 3* (student book), Help in neighbour's work — printed p. 8 |
+| Sub lesson 2 — first-steps/helping-in-neighbours-work — Unit 1 L3 Help in the work of the community — teaches: joining the community's work — Nepal Grade 5 My Social Studies and Creative Arts, printed p. 6 | Nepal, *My Social Studies and Creative Arts Grade 5, English Version* (student book), Help in the work of the community — printed p. 6 |
+| Sub lesson 3 — Nepal's way — the book's own teaching way | Nepal — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Nepal).**
+
+Nepal's own way (Book 3): Grade 3 names caste directly — "Abolish Untouchability" is a named lesson — and local government arrives as the child's own ward and what it does.
+
+Nepal's own way (Book 6): Grade 5's civic sense reaches the district — the District Coordination Committee and its functions get two full lessons — and the state itself arrives inside the history unit: head of state against head of government, through the 2062–65 BS movement and the republic.
+
+Searchable tags: helping in neighbours work, Nepal, social studies, first-steps

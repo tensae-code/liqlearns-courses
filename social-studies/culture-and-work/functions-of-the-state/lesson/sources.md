@@ -1,6 +1,6 @@
 # Sources — Functions of the State
 
-countries: Armenia, Guyana
+countries: Armenia, Guyana, Nepal
 
 **Book 1:** *G09 Social Science student* (student book, Armenian) — Title as printed: ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 9-րդ դասարան — Հանրակրթական հիմնական դպրոցի դասագիրք (Social Science, Grade 9, basic-school textbook) — K. Harutyunyan (Themes 2–3), T. Simonyan (Theme 1), A. Manucharyan (Theme 4), N. Galstyan (Theme 5). Grade: 9 (student/teacher: STUDENT). Publisher: «Զանգակ» (Zangak), Yerevan; year 2025; ISBN 978-9939-99-243-3. PDF pages: 180 (cover and title page verified against the record title; image-only PDF read from rendered pages; 38,679,191 bytes from the record's ministry source file — exactly the size the Economics wave recorded for this copy). Earlier waves: Economics wave placed Theme 4 (The State and the Economy, §§4.1–4.4, pp. 84–127); History wave filed it RECORD-ONLY (no History parts).. Verdict: COMPLETE — the four remaining themes placed below (Themes 1, 2, 3, 5); Theme 4 already placed by the Economics wave.. Contents map: The State: Introduction pp. 5–42 (Theme 1); State and Culture pp. 43–58 (Theme 2); State and Political System pp. 59–83 (Theme 3); Economics pp. 84–127 (Theme 4, Economics wave); State and Politics pp. 128–171 (Theme 5); Final glossary pp. 172–174 (inventory-only). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/armenia-placements.md.
 
@@ -28,4 +28,18 @@ Guyana placements — Social Studies remaining strands (2026-11-17):
 Guyana's own way (Book 12 — New Horizons in Social Studies Book 2): Book 2 is the constitution taught as a school subject — government defined from the family and the sports club upward, elections worked through with real Guyanese parties and real seat arithmetic, and the regions taught as the level where government meets the village.
 
 Registry note: the original coined string `culture-and-work/functions-of-central-government` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/functions-of-the-state`.
+
+
+**Book 13:** *Social Studies and Life Skills Education Grade 12* (student book, Nepali) — Title as printed: सामाजिक अध्ययन तथा जीवनोपयोगी शिक्षा, कक्षा १२ (Samajik Adhyayan tatha Jibanupyogi Shiksha, Grade 12) Grade: Grade 12 (student/teacher: STUDENT) Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition 2078 BS (per Economics wave's verified read; cover/title page re-verified in this wave) PDF pages: 365 (cover verified against the record title; contents read from rendered TOC pages — the legacy-font text layer garbles; grabbed via grab.py after the GitHub API route recovered) Earlier waves: Geography wave placed Unit 5 (provinces/disasters), Unit 9 (urbanisation & migration) and Unit 2 data lessons (8 placements); History wave placed Unit 6 (5); Economics wave placed Unit 10 lessons 1, 3–7 (13) and explicitly named Lesson 2 (Nepal's foreign policy and relations with India and China) as not placed — placed here as international relations. Verdict: COMPLETE Contents map: Civics/Sociology/Values/Life Skills — Unit 1 Concept of Social Studies & Life Skills Education pp. 1–8; Unit 3 Life Skills pp. 43–73; Unit 4 Development of Society & Philosophy pp. 74–101; Unit 7 Social Identity & Diversity pp. 192–224; Unit 8 Constitution & Civic Awareness pp. 225–264; Unit 11 Education & Social Development pp. 336–365; Research skills — Unit 2 Digital & Research Skills pp. 9–42 (named, not placed — study skills, and its data lessons placed by the Geography wave); Geography pp. 102–146 (Unit 5 — placed) and pp. 265–297 (Unit 9 — placed); History pp. 147–191 (Unit 6 — placed); Economics pp. 298–335 (Unit 10 — placed, L2 here). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal part 1 — culture-and-work/functions-duties-and-powers-of-government — Unit 8 L2 Government's functions, duties and powers — teaches: what government does and may do — Nepal Grade 12 Social Studies and Life Skills Education, printed p. 230 | Nepal, *Social Studies and Life Skills Education Grade 12* (student book), Government's functions, duties and powers — printed p. 230 |
+| Nepal's way — the books' own teaching way | Nepal — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 3 countries (Armenia, Guyana, Nepal).**
+
+Nepal's own way (Book 17): the senior course turns civic awareness into law and accountability — the constitution unit runs from how government is formed through citizens' and adolescents' rights to the Muluki codes' offences and punishments, the right to information, and integrity — and closes the whole book with education itself as social development.
+
+Registry note: the original coined string `culture-and-work/functions-duties-and-powers-of-government` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/functions-of-the-state`.
 

@@ -1,6 +1,6 @@
 # Sources — Consumer Rights
 
-countries: Nicaragua
+countries: Nicaragua, Nepal
 
 **Book 5:** *Convivencia y Civismo G6 (student book, Spanish)* — Title as printed: Convivencia y Civismo 6 — Educación Primaria. Grade: Grade 6 (student/teacher: STUDENT). Publisher: Ministerio de Educación (MINED), Nicaragua; year not printed on cover; ISBN no ISBN printed. PDF pages: 192 (cover verified against the record title; 41,593,490 bytes — exactly the books.json size_bytes; same Wayback route as Books 2–4). Earlier waves: not read before. Verdict: COMPLETE (full read of the text layer to the last teaching page, printed p. 160; glossary/bibliography inventory-only). Contents map: Morals/Values pp. 2–25 (Unit I values of personal and collective identity, lived in peace); Culture/Identity pp. 26–41 (Unit II patronal festivals, Palo de Mayo, dances, legends, sayings); Civics/Citizenship/Government pp. 42–81 (Unit III Central American symbols and heroes), pp. 82–92 (Unit IV the Constitution and the powers that organise the State), pp. 93–113 (Unit V rights and duties, children's convention and code, gender focus, empowerment), pp. 114–128 (Unit VI road culture), pp. 146–155 (Unit VIII consumer rights and tax education), pp. 156–162 (Unit IX working for the common good); Health pp. 130–145 (Unit VII sexuality education — named, not placed, except the HIV/AIDS rights topic placed under human rights). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/nicaragua-placements.md.
 
@@ -19,3 +19,15 @@ Nicaragua's own way (Book 5 — Convivencia y Civismo G6 (student book, Spanish)
 Nicaragua's own way (Book 6 — Convivencia y Civismo G4 (student book, Spanish)): Grade 4 teaches cultural identity region by region (Pacific, Caribbean Coast, north and centre each with their own traditions) before the Constitution's principles and the Powers of the State.
 
 Searchable tags: consumer rights, Nicaragua, social studies, culture-and-work
+
+**Book 7:** *Social Studies Grade 10* (student book, Nepali) — Title as printed: सामाजिक अध्ययन, कक्षा १० (Social Studies, Grade 10) Grade: Grade 10 (student/teacher: STUDENT) Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre (CDC), Sanothimi, Bhaktapur; first edition VS 2080, revised VS 2082 (title page verified) PDF pages: 316 (cover/title page verified against the record title; grabbed via grab.py after the GitHub API route recovered) Earlier waves: Geography wave placed Unit 6 (Our Earth) and the geography parts (20 placements); History wave placed Unit 7 (Our Past) (8); Economics wave placed Unit 2 (Development) and Unit 8 (Economic Activities) parts (12). The units below were not placed by any earlier wave. Verdict: COMPLETE Contents map: Integrated SS / Culture pp. 1–20 (Unit 1 We and Our Society) and pp. 39–70 (Unit 3 Our Social Values and Norms); Economics/Development pp. 21–38 (Unit 2 — placed by Economics wave); Civics/Values pp. 75–94 (Unit 4 Social Problems and Solutions) and pp. 95–125 (Unit 5 Civic Awareness); Geography pp. 126–172 (Unit 6) and pp. 281–306 (Unit 10 Population — Geography/Health, named not placed); History pp. 173–213 (Unit 7); Economics pp. 214–244 (Unit 8); Civics/Global pp. 245–280 (Unit 9 Our International Relations and Cooperation). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal part 1 — culture-and-work/consumer-rights — Unit 5 L8 Consumer rights — teaches: the rights of the consumer and how to claim them — Nepal Grade 10 Social Studies, printed p. 122 | Nepal, *Social Studies Grade 10* (student book), Consumer rights — printed p. 122 |
+| Nepal's way — the books' own teaching way | Nepal — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 2 countries (Nicaragua, Nepal).**
+
+Nepal's own way (Book 15): the Grade 10 book is organised as the citizen's widening world — society and identity, social values, social problems, then a full civic-awareness unit on Nepal's own federal legislature, executive and judiciary, closing with Nepal's foreign policy and the UN.
+

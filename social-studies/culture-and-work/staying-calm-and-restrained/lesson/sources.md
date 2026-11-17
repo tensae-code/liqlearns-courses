@@ -1,0 +1,16 @@
+# Sources — Staying Calm and Restrained
+
+countries: Nepal
+
+**Book 12:** *Shikshak Nirdeshika Samajik Adhyayan tatha Manav Mulya Shiksha Kaksha 8 (Teacher's Guide Social Studies and Human Value Education Grade 8)* (teacher guide, Nepali) — Title as printed: शिक्षक निर्देशिका, कक्षा ८, विषय : सामाजिक अध्ययन तथा मानव मूल्य शिक्षा (Shikshak Nirdeshika, Class 8, Social Studies and Human Value Education) — issued for the Curriculum Council (पृष्ठपोषण प्राप्तिका लागि) Grade: Grade 8 (student/teacher: TEACHER) Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition 2081 BS PDF pages: 222 (cover verified against the record title; grabbed via grab.py after the GitHub API route recovered. The guide's legacy-font text layer does not extract headings, so its remaining-strand lessons were verified by rendered-page sampling — the seven placements below are the teaching points read first-hand. This guide is the only in-hand source for the Grade 8 course, the student-book record being a wrong file (Book 11), so its own teaching content is placed, marked TEACHER, following the History wave's treatment of this same guide) Earlier waves: Geography 12 placements; History 10; Economics 5 (all TEACHER, their strands only) Verdict: COMPLETE (remaining strands, at the sampling depth stated above) Contents map: Unit 1 Development and Nepal / We and Our Society — development, federalism, the three levels of government, my province (Civics); Unit 2 Our Human Values and Beliefs — values, customs of Nepal's communities, scouting; Unit 3 Civic Consciousness, Duties and Rights — incl. the democratic republic; Unit 4 Social Problems and Distortions; Unit 5 Our Past (History — placed); Units 6–9 Economics, Earth, Population (placed) and International Relations. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/nepal-placements.md. Teacher guide — evidence only, outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — culture-and-work/staying-calm-and-restrained — Unit 2 guide: ways to stay calm and restrained — teaches: the guide's boxed list of ways to keep the mind at peace — speak little and sweetly, keep good company, read inspiring books, do not envy others, take interest in others' work, finish today's work today [TEACHER] — Nepal Grade 8 Teacher's Guide (2081), guide p. 26 | Nepal, *Shikshak Nirdeshika Samajik Adhyayan tatha Manav Mulya Shiksha Kaksha 8 (Teacher's Guide Social Studies and Human Value Education Grade 8)* (teacher guide), guide: ways to stay calm and restrained — guide p. 26 (teacher guide — evidence) |
+| Sub lesson 2 — Nepal's way — the book's own teaching way | Nepal — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Nepal), named here, counted nowhere.**
+
+Nepal's own way (Book 12): the guide opens Grade 8 with development itself — what development is, developed against developing countries, and Nepal's possibilities — then grounds the federation in a table every pupil fills in: their own province, its capital, their district and local headquarters.
+
+Searchable tags: staying calm and restrained, Nepal, social studies, culture-and-work

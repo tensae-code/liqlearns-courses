@@ -1,6 +1,6 @@
 # Sources — Conflict — Negotiation, Mediation, Arbitration
 
-countries: Ethiopia, Mongolia, Bahamas, Kuwait, Mexico, Colombia, Guatemala, Rwanda, United Arab Emirates, South Sudan, Zimbabwe, Dominican Republic, Pakistan, Nicaragua, Guyana
+countries: Ethiopia, Mongolia, Bahamas, Kuwait, Mexico, Colombia, Guatemala, Rwanda, United Arab Emirates, South Sudan, Zimbabwe, Dominican Republic, Pakistan, Nicaragua, Guyana, Nepal
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (placement 74).
 
@@ -312,4 +312,16 @@ Guyana placements — Social Studies remaining strands (2026-11-17):
 Guyana's own way (Book 9 — Guyanese in the World, Social Studies Grade 2): the Grade 2 book of the new series starts citizenship at the child's own doorstep — the many communities a child belongs to at once, the councils that serve them, the peoples and festivals that fill them, then decisions, conflict and rights, all before any map or market is taught.
 
 Guyana's own way (Book 10 — Guyanese in the World, Social Studies Grade 1): the series opens at Grade 1 inside the home — the family that cooks and gardens together, the chores shared out fairly, the groups a small child already belongs to, and rules taught as the way a home and a classroom stay in harmony.
+
+
+**Book 25:** *My Social Studies and Creative Arts Grade 4* (student book, English) — Title as printed: My Social Studies and Creative Arts, Grade 4 Grade: Grade 4 (student/teacher: STUDENT) Publisher: Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur; English edition 2066 BS; no ISBN printed (per Economics wave's verified read; title page re-verified in this wave) PDF pages: 136 (cover/title page verified against the record title; grabbed via grab.py after the GitHub API route recovered) Earlier waves: Geography wave placed Unit 5 Our Earth (10 placements); History wave placed Unit 6 Our History (5); Economics wave placed Unit 7 lessons 3–5 (3) and named lessons 1–2 (Working Habit, Respect of Work — work values) without placing them — placed here. Verdict: COMPLETE Contents map: Integrated SS pp. 2–9 (Unit 1 Our Neighbourhood); Morals/Values pp. 10–35 (Unit 2 Our Tradition, Social Values and Norms; Unit 3 Social Problems and Solutions); Civics pp. 36–53 (Unit 4 Civic Awareness: rights, children's participation, heritage, cleaning public places, traffic rules, the Village Development Committee, the Municipality, equal treatment); Geography pp. 54–65 (Unit 5 — placed); History pp. 66–75 (Unit 6 — placed); Economics pp. 76–85 (Unit 7 — placed by Economics wave, except the two values lessons placed here); Creative Arts pp. 86–end (Art course — named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal part 1 — resources-and-conflict/settling-conflict — Unit 3 L4 Solution of quarrel — teaches: how a quarrel between people is settled peacefully — Nepal Grade 4 My Social Studies and Creative Arts, printed p. 28 | Nepal, *My Social Studies and Creative Arts Grade 4* (student book), Solution of quarrel — printed p. 28 |
+| Nepal's way — the books' own teaching way | Nepal — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 15 countries (Ethiopia, Mongolia, Bahamas, Kuwait, Mexico, Colombia, Guatemala, Rwanda, United Arab Emirates, South Sudan, Dominican Republic, Pakistan, Nicaragua, Guyana, Nepal).** Zimbabwe is named here as teacher-guide evidence only, counted nowhere.
+
+Nepal's own way (Book 4): Grade 4's civic unit is the fullest primary civics in the series — rights, child participation, traffic rules and both tiers of local government (VDC and municipality) — and its social-problems unit teaches settling a quarrel as a named skill.
 

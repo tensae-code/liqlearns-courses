@@ -1,0 +1,16 @@
+# Sources — Social Rules and Community Institutions
+
+countries: Nepal
+
+**Book 7:** *Teacher's Guide Grade 5 Social Studies and Human Value Education (2081)* (teacher guide, Nepali) — Title as printed: शिक्षक निर्देशिका, आधारभूत तह कक्षा ५, सामाजिक अध्ययन तथा मानव मूल्य शिक्षा (Shikshak Nirdeshika, Basic Level Class 5, Social Studies and Human Value Education) — marked "draft for feedback" (पृष्ठपोषणका लागि मस्यौदा प्रति) Grade: Grade 5 (student/teacher: TEACHER) Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition 2081 BS PDF pages: 156 (cover verified against the record title; grabbed via grab.py after the GitHub API route recovered. The guide's legacy-font text layer does not extract headings, so its remaining-strand lessons were verified by rendered-page sampling — the four placements below are the teaching points read first-hand; the guide scripts the NEW-curriculum Grade 5 student book, which is not itself in this record set, so its own teaching content is placed, marked TEACHER, following the earlier waves' treatment of this same guide) Earlier waves: Geography 8 placements; History 4; Economics 4 (all TEACHER, their strands only — the guide's Units 5 (History), 6 (Economics) and 7 (Earth) placed by them; its Units 1–4 named) Verdict: COMPLETE (remaining strands, at the sampling depth stated above) Contents map: Unit 1 Hamra Ra Hamro Samudaya — community and its work (guide pp. 1–~30); Unit 2 Hamra Mulya Manyata — values, language, festivals; Unit 3 Nagarik Chetana — security, rights, duties, social rules, institutions; Unit 4 Samajik Samasya ra Samadhan — social problems and solutions; Unit 5 Hamro Vigat (History — placed); Unit 6 Hamro Arthik Kriyakalap (Economics — placed); Unit 7 Hamro Prithvi (Geography — placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/nepal-placements.md. Teacher guide — evidence only, outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — culture-and-work/social-rules-and-community-institutions — Unit 3 guide: social rules and the community's institutions — teaches: the guide's role-play lesson sorts the work of the community's own institutions (guthi, water-user groups and the like) and the social rules they keep [TEACHER] — Nepal Grade 5 Teacher's Guide (2081), guide p. 64 | Nepal, *Teacher's Guide Grade 5 Social Studies and Human Value Education (2081)* (teacher guide), guide: social rules and the community's institutions — guide p. 64 (teacher guide — evidence) |
+| Sub lesson 2 — Nepal's way — the book's own teaching way | Nepal — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Nepal), named here, counted nowhere.**
+
+Nepal's own way (Book 7): the guide teaches community through doing — its scripts run on role-play (an uncle-and-father dialogue), song, drama of a local event, and group charts of the community's own work, with the teacher building the concept of community out of the children's answers before naming it.
+
+Searchable tags: social rules and community institutions, Nepal, social studies, culture-and-work

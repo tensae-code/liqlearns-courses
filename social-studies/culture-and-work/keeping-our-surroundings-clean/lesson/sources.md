@@ -1,6 +1,6 @@
 # Sources — Keeping Our Surroundings Clean
 
-countries: Vanuatu, Algeria, Sierra Leone, Libya, Serbia, Iraq, Kazakhstan, Angola, Myanmar, Mauritania, Dominican Republic, Pakistan, Nicaragua, Guyana
+countries: Vanuatu, Algeria, Sierra Leone, Libya, Serbia, Iraq, Kazakhstan, Angola, Myanmar, Mauritania, Dominican Republic, Pakistan, Nicaragua, Guyana, Nepal
 
 **Book 1:** *Citoyenneté Sociale, Guide Pédagogique, Années 1 à 6* (teacher guide, French) — Communauté du Pacifique (SPC) and Ministry of Education and Training, Government of Vanuatu; Suva, 2019; ISBN 978-982-00-1158-8; authors Carol Young and Bridget Glasgow with the Vanuatu Curriculum Development Unit. Title as printed: Citoyenneté Sociale — Guide Pédagogique, Années 1 à 6 (Social Citizenship — Teachers Guide, Years 1–6). Grade: Years 1–6 (student/teacher: TEACHER). PDF pages: 35 printed pages (read in full through the Pacific Data Hub's own page text, 2026-11-17: direct PDF download is blocked by the host's bot check — three routes tried: plain curl and browser-UA curl both returned the "Just a moment" challenge page; the hub's text fetch succeeded. No PDF file was obtained, so nothing is staged for this book). Earlier waves: not read before. Verdict: COMPLETE — civics-type teacher guide read in full; placements are the guide's own teaching content, marked TEACHER (the guide carries the themes' substance, not just pupil-book answers). Contents map: Civics/Citizenship/Morals pp. 1–29 (why teach social citizenship; themes T1–T3); learner-centred teaching strategies p. 30 (apparatus, not placed); Glossary p. 31 (inventory only, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/vanuatu-placements.md. Teacher guide — evidence only, outside the acceptance count.
 
@@ -228,4 +228,18 @@ Guyana's own way (Book 8 — Guyanese in the World, Social Studies Grade 6): the
 Guyana's own way (Book 9 — Guyanese in the World, Social Studies Grade 2): the Grade 2 book of the new series starts citizenship at the child's own doorstep — the many communities a child belongs to at once, the councils that serve them, the peoples and festivals that fill them, then decisions, conflict and rights, all before any map or market is taught.
 
 Registry note: the original coined string `culture-and-work/keeping-our-community-clean` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/keeping-our-surroundings-clean`.
+
+
+**Book 12:** *My Social Studies and Creative Arts Grade 4* (student book, English) — Title as printed: My Social Studies and Creative Arts, Grade 4 Grade: Grade 4 (student/teacher: STUDENT) Publisher: Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur; English edition 2066 BS; no ISBN printed (per Economics wave's verified read; title page re-verified in this wave) PDF pages: 136 (cover/title page verified against the record title; grabbed via grab.py after the GitHub API route recovered) Earlier waves: Geography wave placed Unit 5 Our Earth (10 placements); History wave placed Unit 6 Our History (5); Economics wave placed Unit 7 lessons 3–5 (3) and named lessons 1–2 (Working Habit, Respect of Work — work values) without placing them — placed here. Verdict: COMPLETE Contents map: Integrated SS pp. 2–9 (Unit 1 Our Neighbourhood); Morals/Values pp. 10–35 (Unit 2 Our Tradition, Social Values and Norms; Unit 3 Social Problems and Solutions); Civics pp. 36–53 (Unit 4 Civic Awareness: rights, children's participation, heritage, cleaning public places, traffic rules, the Village Development Committee, the Municipality, equal treatment); Geography pp. 54–65 (Unit 5 — placed); History pp. 66–75 (Unit 6 — placed); Economics pp. 76–85 (Unit 7 — placed by Economics wave, except the two values lessons placed here); Creative Arts pp. 86–end (Art course — named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal part 1 — first-steps/cleaning-of-public-places — Unit 4 L5 Cleaning of public places — teaches: keeping shared places clean as a civic duty — Nepal Grade 4 My Social Studies and Creative Arts, printed p. 44 | Nepal, *My Social Studies and Creative Arts Grade 4* (student book), Cleaning of public places — printed p. 44 |
+| Nepal's way — the books' own teaching way | Nepal — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 13 countries (Algeria, Libya, Serbia, Iraq, Kazakhstan, Angola, Myanmar, Mauritania, Dominican Republic, Pakistan, Nicaragua, Guyana, Nepal).**
+
+Nepal's own way (Book 4): Grade 4's civic unit is the fullest primary civics in the series — rights, child participation, traffic rules and both tiers of local government (VDC and municipality) — and its social-problems unit teaches settling a quarrel as a named skill.
+
+Registry note: the original coined string `first-steps/cleaning-of-public-places` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/keeping-our-surroundings-clean`.
 

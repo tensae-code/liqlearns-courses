@@ -1,6 +1,6 @@
 # Sources — Keeping Peace with Others
 
-countries: Mexico, South Sudan
+countries: Mexico, South Sudan, Nepal
 
 **Book 1:** *Ética, naturaleza y sociedades 3, secundaria* (student book, Spanish) — Title as printed: Ética, naturaleza y sociedades. Tercer grado (Colección Nanahuatzin). Grade: Grade 9 (secundaria) (student/teacher: STUDENT). Publisher: Secretaría de Educación Pública (SEP), México; year 2024; ISBN 978-607-579-101-2. PDF pages: 321 (fetched from the record's SEP source_url; 1.4 MB; title page and imprint verified in the extracted text). Earlier waves: none. Verdict: COMPLETE (for the remaining strands). Contents map: Historia printed pp. 14–225 (named, not placed — History strand); Formación Cívica y Ética printed pp. 226–345 (14 articles, all read and placed in this wave); closing questionnaire/apparatus after p. 345 (not placed). This volume has no Geografía section and no separate nature/science section — the nature content sits inside the ethics articles (sustainable development), where it is placed as ethics. Book 5 in the Mexico filing (mexico-placements.md); its Telesecundaria parallel edition (Book 6 in the filing) is RECORD-ONLY — a full-text diff showed the two texts identical apart from the edition label itself ("Telesecundaria"); placed once, under this book, both editions named here, as filed. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mexico-placements.md.
 
@@ -40,3 +40,17 @@ South Sudan's own way (Book 2) (teacher guide — evidence): The guide frames Un
 South Sudan's own way (Book 5): Conflict is taught from the child's own ground — its named causes are theft, refusing other people's religions and corruption; its solvers are the payam chief and the village elder; and the flag itself carries the country's peace story, its two white meanings tied to the 1972 Addis Ababa and 2005 Naivasha agreements.
 
 Searchable tags: keeping peace with others, South Sudan, social studies, resources-and-conflict
+
+**Book 6:** *Samajik Adhyayan tatha Manav Mulya Shiksha Kaksha 7 (Social Studies and Human Value Education Grade 7)* (student book, Nepali) — Title as printed: सामाजिक अध्ययन तथा मानव मूल्य शिक्षा, कक्षा ७ (Samajik Adhyayan tatha Manav Mulya Shiksha, Grade 7) Grade: Grade 7 (student/teacher: STUDENT) Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur PDF pages: 195 (cover verified against the record title; contents read from rendered TOC pages — the legacy-font text layer garbles; grabbed via grab.py after the GitHub API route recovered) Earlier waves: Geography wave placed Unit 1 lessons 3–4 (development infrastructures), Unit 7 Our Earth and Unit 8 Population (20 placements) and named Units 1 (lessons 1–2, 5), 2, 3, 4 and 9 as not placed; History wave placed Unit 5 Our Past (7); Economics wave placed Unit 6 Nepal's Economic Activities (6). Verdict: COMPLETE Contents map: Integrated SS/Civics pp. 1–14 (Unit 1 We and Our Society); Morals/Values pp. 15–44 (Unit 2 Our Human Values); Civics pp. 45–83 (Unit 3 Civic Awareness, Rights and Duties; Unit 4 Social Problems and Solutions); History pp. 84–105 (Unit 5 — placed); Economics pp. 106–120 (Unit 6 — placed); Geography pp. 121–146 (Unit 7 — placed); Population pp. 147–163 (Unit 8 — placed); Global citizenship pp. 164–180 (Unit 9 Our International Relations and Cooperation — its L3, Information and Technology, is ICT, named not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal part 1 — resources-and-conflict/establishing-peace — Unit 4 L6 Establishing peace — teaches: how peace is made — Nepal Grade 7 Social Studies and Human Value Education, printed p. 82 | Nepal, *Samajik Adhyayan tatha Manav Mulya Shiksha Kaksha 7 (Social Studies and Human Value Education Grade 7)* (student book), Establishing peace — printed p. 82 |
+| Nepal's way — the books' own teaching way | Nepal — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 3 countries (Mexico, South Sudan, Nepal).**
+
+Nepal's own way (Book 9): Grade 7 completes the state — elements of the state, democratic government, our constitution, human and women's rights, the provincial government's functions and the security agencies — then turns outward: the United Nations, the proper use of social media, and the world's current events close the book.
+
+Registry note: the original coined string `resources-and-conflict/establishing-peace` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `resources-and-conflict/keeping-peace-with-others`.
+

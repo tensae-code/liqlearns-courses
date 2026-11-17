@@ -1,6 +1,6 @@
 # Sources — The Judiciary and the Courts
 
-countries: Yemen, Bahamas, Afghanistan, Morocco, Guatemala, Armenia, India, United States, Sri Lanka, Jordan, South Sudan, Iran, Dominican Republic, Mongolia, South Korea, Greece, Guyana
+countries: Yemen, Bahamas, Afghanistan, Morocco, Guatemala, Armenia, India, United States, Sri Lanka, Jordan, South Sudan, Iran, Dominican Republic, Mongolia, South Korea, Greece, Guyana, Nepal
 
 **Book 1:** *التربية الوطنية للصف الخامس من مرحلة التعليم الأساسي (National Education for Grade 5 of Basic Education)* (student book, Arabic) — Republic of Yemen, Ministry of Education; year 1442 AH / 2021 CE (cover print); ISBN no ISBN printed. Title as printed: التربية الوطنية للصف الخامس من مرحلة التعليم الأساسي (National Education for Grade 5 of Basic Education). Grade: 5 (student/teacher: STUDENT). PDF pages: 66 (cover/title page verified against the record title; 6,489,380 bytes, Wayback snapshot 20220212143057 of the recorded source_url). Earlier waves: not read before (no earlier wave held this civics book). Verdict: COMPLETE (full page-by-page read, civics track). Contents map: Civics/Citizenship/Government pp. 19–21 (national symbols), pp. 23–33 (Unit 2 administrative organisation), pp. 34–46 (Unit 3 the state's authorities); History pp. 7–18 (Unit 1 Yemeni revolutions and steadfastness — named, not placed), pp. 47–63 (Unit 4 Yemeni figures: Imam al-Qasim ibn Muhammad, Rajih Ghalib Labouza, President Ibrahim al-Hamdi, the poet Abdullah al-Baradouni — named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/yemen-placements.md.
 
@@ -264,4 +264,18 @@ Guyana's own way (Book 12 — New Horizons in Social Studies Book 2): Book 2 is 
 Registry note: the original coined string `culture-and-work/our-courts-and-how-justice-works` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/the-judiciary-and-the-courts`.
 
 Registry note: the original coined string `culture-and-work/the-judiciary-and-the-courts-of-guyana` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/the-judiciary-and-the-courts`.
+
+
+**Book 17:** *Social Studies Grade 10* (student book, Nepali) — Title as printed: सामाजिक अध्ययन, कक्षा १० (Social Studies, Grade 10) Grade: Grade 10 (student/teacher: STUDENT) Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre (CDC), Sanothimi, Bhaktapur; first edition VS 2080, revised VS 2082 (title page verified) PDF pages: 316 (cover/title page verified against the record title; grabbed via grab.py after the GitHub API route recovered) Earlier waves: Geography wave placed Unit 6 (Our Earth) and the geography parts (20 placements); History wave placed Unit 7 (Our Past) (8); Economics wave placed Unit 2 (Development) and Unit 8 (Economic Activities) parts (12). The units below were not placed by any earlier wave. Verdict: COMPLETE Contents map: Integrated SS / Culture pp. 1–20 (Unit 1 We and Our Society) and pp. 39–70 (Unit 3 Our Social Values and Norms); Economics/Development pp. 21–38 (Unit 2 — placed by Economics wave); Civics/Values pp. 75–94 (Unit 4 Social Problems and Solutions) and pp. 95–125 (Unit 5 Civic Awareness); Geography pp. 126–172 (Unit 6) and pp. 281–306 (Unit 10 Population — Geography/Health, named not placed); History pp. 173–213 (Unit 7); Economics pp. 214–244 (Unit 8); Civics/Global pp. 245–280 (Unit 9 Our International Relations and Cooperation). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal part 1 — culture-and-work/the-judiciary-of-nepal — Unit 5 L3 The judiciary — teaches: Nepal's courts and justice — Nepal Grade 10 Social Studies, printed p. 104 | Nepal, *Social Studies Grade 10* (student book), The judiciary — printed p. 104 |
+| Nepal's way — the books' own teaching way | Nepal — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 18 countries (Yemen, Bahamas, Afghanistan, Morocco, Guatemala, Armenia, India, United States, Sri Lanka, Jordan, South Sudan, Iran, Dominican Republic, Mongolia, South Korea, Greece, Guyana, Nepal).**
+
+Nepal's own way (Book 15): the Grade 10 book is organised as the citizen's widening world — society and identity, social values, social problems, then a full civic-awareness unit on Nepal's own federal legislature, executive and judiciary, closing with Nepal's foreign policy and the UN.
+
+Registry note: the original coined string `culture-and-work/the-judiciary-of-nepal` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/the-judiciary-and-the-courts`.
 

@@ -1,6 +1,6 @@
 # Sources — Fundamental Rights in the Constitution
 
-countries: Bhutan, Belarus, Turkey, India, Sri Lanka, United Arab Emirates, Dominican Republic
+countries: Bhutan, Belarus, Turkey, India, Sri Lanka, United Arab Emirates, Dominican Republic, Nepal
 
 **Book 3:** *Social Studies Class VI* (student book, English) — Title as printed: SOCIAL STUDIES CLASS VI. Grade: Class VI (student/teacher: STUDENT). Publisher: Center for School Curriculum Development (CSCD), Department of School Education, Ministry of Education and Skills Development, Royal Government of Bhutan, Thimphu; Provisional Edition 2021, Revised 2025; ISBN no ISBN printed. PDF pages: 68 (cover/title page verified against the record title in the Geography wave; record size 1,628,115 bytes and 68 pages match exactly). Earlier waves: Geography wave placed Ch.1–4, Ch.7–9 parts; History wave placed the Ch.4 heritage part and the 2008 transition line inside Ch.5.1; Economics wave placed Ch.10 Income (pp.53–60). Verdict: COMPLETE. Contents map: Civics/Citizenship/Government pp. 23–28 (Ch.5 The Government); Morals/Values pp. 29–36 (Ch.6 People and the Society — §6.1F Abortion, printed p. 35, is taught on reproductive-health lines — Health course's, named not placed); Culture pp. 17–22 (placed by the Geography/History waves); Geography pp. 1–16, 37–52; Economics pp. 53–60. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/bhutan-placements.md.
 
@@ -119,3 +119,17 @@ Dominican Republic's own way (Book 11): secondary civics is taught as constituti
 Dominican Republic's own way (Book 14): the Grade 10 citizen-education unit is built as close reading — pupils paraphrase the texts aloud in their own words: the Constitution as Carta Magna / Ley de Leyes, sovereignty residing exclusively in the people, Locke's division of powers, and democratic coexistence resting on education and the culture of peace.
 
 Searchable tags: fundamental rights in the constitution, Dominican Republic, social studies, culture-and-work
+
+**Book 15:** *Samajik Adhyayan Kaksha 9 (Social Studies Grade 9)* (student book, Nepali) — Title as printed: सामाजिक अध्ययन, कक्षा ९ (Samajik Adhyayan, Grade 9) Grade: Grade 9 (student/teacher: STUDENT) Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition 2079 BS (per Geography wave's verified read; cover/title page re-verified in this wave) PDF pages: 257 (cover verified against the record title; contents read from rendered TOC pages — the legacy-font text layer garbles; grabbed via grab.py after the GitHub API route recovered) Earlier waves: Geography wave placed Unit 2 (development infrastructures), Unit 6 Our Earth and Unit 10 Population (25 placements) and named Units 1, 3, 4, 5 and 9 as not placed; History wave placed Unit 7 Our Past (9); Economics wave placed Unit 8 Nepal's Economic Activities (7). Verdict: COMPLETE Contents map: Sociology pp. 1–16 (Unit 1 We and Our Society); Development pp. 17–34 (Unit 2 — placed); Morals/Values pp. 35–72 (Unit 3 Our Social Values — its L1 Religions of Nepal is Religion, its L4 Nepali Sculpture and L5 Nepali Architecture are Art: named, not placed); Civics pp. 73–115 (Unit 4 Social Problems and Solutions; Unit 5 Civic Awareness); Geography pp. 116–166 (Unit 6 — placed); History pp. 167–194 (Unit 7 — placed); Economics pp. 195–216 (Unit 8 — placed); Global citizenship pp. 217–234 (Unit 9 International Relations, Peace and Cooperation — its L4 is ICT, named not placed); Population pp. 235–250 (Unit 10 — placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal part 1 — culture-and-work/fundamental-rights — Unit 5 L4 Fundamental rights — teaches: the rights the constitution guarantees — Nepal Grade 9 Social Studies, printed p. 94 | Nepal, *Samajik Adhyayan Kaksha 9 (Social Studies Grade 9)* (student book), Fundamental rights — printed p. 94 |
+| Nepal's way — the books' own teaching way | Nepal — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 8 countries (Bhutan, Belarus, Turkey, India, Sri Lanka, United Arab Emirates, Dominican Republic, Nepal).**
+
+Nepal's own way (Book 13): Grade 9 gives civic awareness its fullest form yet — constitution from first introduction through the constituent assembly, fundamental rights, citizen identity and duties, good governance and democratic conduct — and ends the values unit with a culture of peace.
+
+Registry note: the original coined string `culture-and-work/fundamental-rights` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/fundamental-rights-in-the-constitution`.
+

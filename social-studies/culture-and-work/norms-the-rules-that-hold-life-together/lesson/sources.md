@@ -1,6 +1,6 @@
 # Sources — Norms the Rules That Hold Life Together
 
-countries: Indonesia
+countries: Indonesia, Nepal
 
 **Book 1:** *Pendidikan Pancasila untuk SD/MI Kelas V* (student book, Bahasa Indonesia) — Title as printed: Pendidikan Pancasila untuk SD/MI Kelas V. Grade: Grade 5 / SD/MI Kelas V (student/teacher: STUDENT). Publisher: Kemendikbudristek, Pusat Perbukuan, Jakarta; year 2023; ISBN 978-623-194-651-5 (jil. 5 PDF). PDF pages: 192 (cover verified: "PENDIDIKAN PANCASILA — SD/MI KELAS V", authors Adi Darma Indra, Abdul Azis, Luh Gede Maya Wirastuti Dewi; byte size matches GitHub mid-size-books release asset 8,248,793; grab.py tree 404 — read via recorded SIBI source_url). Earlier waves: not read before. Verdict: COMPLETE (glossary p. 155 inventory-only, named not placed). Contents map: Civics/Citizenship pp. 1–34 (birth of Pancasila, founders' example), 35–72 (norms; musyawarah deliberation), 121–153 (my region, its government offices, gotong royong in practice); Culture-in-society pp. 73–120 (regional cultures and preserving them); Morals/Values throughout (habituating Pancasila behaviour). Tally: 12 placements — 1 to existing lessons, 11 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/indonesia-placements.md.
 
@@ -51,3 +51,24 @@ Indonesia's own way (Book 7): social integration is taught through marakka bola 
 Indonesia's own way (Book 8): the guide builds each chapter around an Aktivitas Kolaborasi (collaboration activity), so the norms and institutions content is taught by group work, not lecture.
 
 Searchable tags: norms the rules that hold life together, Indonesia, social studies, culture-and-work
+
+**Book 9:** *My Social Studies and Creative Arts Grade 5, English Version* (student book, English) — Title as printed: My Social Studies and Creative Arts, Grade 5 Grade: Grade 5 (student/teacher: STUDENT) Publisher: Government of Nepal, Ministry of Education, Curriculum Development Centre; first edition 2068 BS, revised 2074 BS; ISBN 978-99933-717-8-6 as printed (per History wave's verified read; title page re-verified in this wave) PDF pages: 156 (cover/title page verified against the record title; grabbed via grab.py after the GitHub API route recovered) Earlier waves: Geography wave placed Unit 5 Our Earth (14 placements); History wave placed Unit 6 lessons 1–6 (7) and explicitly named lesson 7 (Our Head of State and the Head of Government — civics) as not placed, placed here; Economics wave placed Unit 7 (4). Verdict: COMPLETE Contents map: Integrated SS pp. 2–11 (Unit 1 Our Community); Morals/Values pp. 12–33 (Unit 2 Our Traditions, Social Norms and Values; Unit 3 Social Problems and Their Solutions); Civics pp. 34–47 (Unit 4 Civic Sense) and p. 78 (Unit 6 L7); Geography pp. 48–65 (Unit 5 — placed); History pp. 66–77 (Unit 6 L1–6 — placed); Economics pp. 80–89 (Unit 7 — placed); Creative Arts pp. 90–end (Art course — named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/nepal-placements.md.
+
+**Book 10:** *Samajik Adhyayan tatha Manav Mulya Shiksha Kaksha 6 (Social Studies and Human Value Education Grade 6)* (student book, Nepali) — Title as printed: सामाजिक अध्ययन तथा मानवमूल्य शिक्षा, कक्षा ६ (Samajik Adhyayan tatha Manav Mulya Shiksha, Grade 6) Grade: Grade 6 (student/teacher: STUDENT) Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur PDF pages: 214 (cover verified against the record title; contents read from rendered TOC pages — the legacy-font text layer garbles; grabbed via grab.py after the GitHub API route recovered) Earlier waves: Geography wave placed Unit 7 Our Earth and Unit 8 Population (21 placements); History wave placed Unit 5 Our Past (7); Economics wave placed Unit 6 Nepal's Economic Activities (7). Verdict: COMPLETE Contents map: Integrated SS/Civics pp. 1–19 (Unit 1 We and Our Society — society, municipalities, local development); Morals/Values pp. 20–49 (Unit 2 Our Human Values); Civics pp. 50–87 (Unit 3 Civic Awareness, Duties and Rights; Unit 4 Social Problems and Solutions); History pp. 88–111 (Unit 5 — placed); Economics pp. 112–128 (Unit 6 — placed); Geography pp. 129–166 (Unit 7 — placed); Population pp. 167–190 (Unit 8 — placed by the Geography wave). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal part 1 — culture-and-work/our-social-rules-and-regulations — Unit 4 L4 Our social rules and regulations — teaches: the rules and regulations of social life — Nepal Grade 5 My Social Studies and Creative Arts, printed p. 40 | Nepal, *My Social Studies and Creative Arts Grade 5, English Version* (student book), Our social rules and regulations — printed p. 40 |
+| Nepal part 2 — culture-and-work/our-social-rules — Unit 3 L6 Our social rules — teaches: the rules of our society — Nepal Grade 6 Social Studies and Human Value Education, printed p. 64 | Nepal, *Samajik Adhyayan tatha Manav Mulya Shiksha Kaksha 6 (Social Studies and Human Value Education Grade 6)* (student book), Our social rules — printed p. 64 |
+| Nepal's way — the books' own teaching way | Nepal — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 2 countries (Indonesia, Nepal).**
+
+Nepal's own way (Book 6): Grade 5's civic sense reaches the district — the District Coordination Committee and its functions get two full lessons — and the state itself arrives inside the history unit: head of state against head of government, through the 2062–65 BS movement and the republic.
+
+Nepal's own way (Book 8): Grade 6 is where the federation becomes concrete — rural municipality against municipality, each with its services listed — and where conflict itself becomes a school subject: a lesson on disputes and a lesson on resolving them close the social-problems unit.
+
+Registry note: the original coined string `culture-and-work/our-social-rules-and-regulations` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/norms-the-rules-that-hold-life-together`.
+
+Registry note: the original coined string `culture-and-work/our-social-rules` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/norms-the-rules-that-hold-life-together`.
+

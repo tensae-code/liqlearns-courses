@@ -1,6 +1,6 @@
 # Sources — What a Citizen is
 
-countries: Colombia, Pakistan
+countries: Colombia, Pakistan, Nepal
 
 **Book 3:** *Ciencias Sociales 4 — Segunda Cartilla, Escuela Nueva* (student guide, Spanish) — Title as printed: Ciencias Sociales 4 — Segunda Cartilla, Escuela Nueva. Grade: Grade 4 (student/teacher: STUDENT) Publisher: Ministerio de Educación Nacional, Bogotá; year 2011; ISBN libro 978-958-97482-9-9 (ISBN serie 978-958-97482-3-7) PDF pages: 128 (cover verified: "Ciencias Sociales 4, Segunda Cartilla, Escuela Nueva"; 15,702,136 bytes from the recorded ministry source URL, matching the Economics wave's size-verified release grab; book is in GitHub, copy deleted after filing) Earlier waves: Geography wave placed pp. 7–83 (relief, climate, regions) / History wave placed nothing (no History parts) / Economics wave placed pp. 31–32, 54–59 Verdict: COMPLETE Contents map: Geography pp. 7–83 (placed by earlier waves); Economics pp. 31–32, 54–59 (placed by Economics wave); Civics/Citizenship pp. 107–124 (citizens, institutions, exclusion/inclusion); Morals/Values pp. 85–106 (conflicts, dilemmas) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/colombia-placements.md.
 
@@ -27,3 +27,17 @@ Pakistan's own way (Book 1): citizenship is taught before everything else — a 
 Pakistan's own way (Book 11): the same Single National Curriculum in the KPK board's English — citizenship taught identically in Peshawar and Lahore, with the global-citizen lesson anchored by Dr Ruth Pfau, the German doctor who gave 57 years to Pakistan's leprosy patients, and Malala Yousafzai, KPK's own daughter, as the worked examples in the pupil's copy.
 
 Searchable tags: what a citizen is, Colombia, social studies, culture-and-work, Pakistan
+
+**Book 4:** *Samajik Adhyayan tatha Manav Mulya Shiksha Kaksha 6 (Social Studies and Human Value Education Grade 6)* (student book, Nepali) — Title as printed: सामाजिक अध्ययन तथा मानवमूल्य शिक्षा, कक्षा ६ (Samajik Adhyayan tatha Manav Mulya Shiksha, Grade 6) Grade: Grade 6 (student/teacher: STUDENT) Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur PDF pages: 214 (cover verified against the record title; contents read from rendered TOC pages — the legacy-font text layer garbles; grabbed via grab.py after the GitHub API route recovered) Earlier waves: Geography wave placed Unit 7 Our Earth and Unit 8 Population (21 placements); History wave placed Unit 5 Our Past (7); Economics wave placed Unit 6 Nepal's Economic Activities (7). Verdict: COMPLETE Contents map: Integrated SS/Civics pp. 1–19 (Unit 1 We and Our Society — society, municipalities, local development); Morals/Values pp. 20–49 (Unit 2 Our Human Values); Civics pp. 50–87 (Unit 3 Civic Awareness, Duties and Rights; Unit 4 Social Problems and Solutions); History pp. 88–111 (Unit 5 — placed); Economics pp. 112–128 (Unit 6 — placed); Geography pp. 129–166 (Unit 7 — placed); Population pp. 167–190 (Unit 8 — placed by the Geography wave). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal part 1 — culture-and-work/we-citizens — Unit 3 L1 We citizens — teaches: what makes us citizens — Nepal Grade 6 Social Studies and Human Value Education, printed p. 51 | Nepal, *Samajik Adhyayan tatha Manav Mulya Shiksha Kaksha 6 (Social Studies and Human Value Education Grade 6)* (student book), We citizens — printed p. 51 |
+| Nepal's way — the books' own teaching way | Nepal — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 3 countries (Colombia, Pakistan, Nepal).**
+
+Nepal's own way (Book 8): Grade 6 is where the federation becomes concrete — rural municipality against municipality, each with its services listed — and where conflict itself becomes a school subject: a lesson on disputes and a lesson on resolving them close the social-problems unit.
+
+Registry note: the original coined string `culture-and-work/we-citizens` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/what-a-citizen-is`.
+

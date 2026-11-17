@@ -1,6 +1,6 @@
 # Sources — Security and Protection Services
 
-countries: Saudi Arabia, United Arab Emirates, Mauritania
+countries: Saudi Arabia, United Arab Emirates, Mauritania, Nepal
 
 **Book 1:** *Social Studies, Grade 5 (student book, Arabic)* — Title as printed: الدراسات الاجتماعية — الصف الخامس الابتدائي (Social Studies — Fifth Grade, Primary) Grade: Grade 5 (student/teacher: STUDENT) Publisher: Ministry of Education, Kingdom of Saudi Arabia; cover dated 1448H / 2026 CE PDF pages: 179; printed page = PDF page. File verified: 65,373,328 bytes, size-verified via chunked Range assembly from Google Drive; cover rendered and looked at Verdict: COMPLETE — contents-first; the civics/citizenship strands (Unit 3 National Security, Unit 5 State Institutions) read in full and placed Contents map: Unit 1 History, Unit 2 Religion/History, Unit 3 National Security (this wave), Unit 4 Geography, Unit 5 State Institutions (this wave), Unit 6 Geography, Units 7–8 Economics — named, not placed Staged (2026-11-13 rule — external-link book not in GitHub, never deleted): ~/workspace/phase3-staging/grade-05/gov/saudi-arabia/social-studies/student/full-year.pdf with a new grade-05/gov/saudi-arabia/books.json record Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/saudi-arabia-placements.md.
 
@@ -50,3 +50,17 @@ Mauritania placements — Social Studies remaining strands (2026-11-17):
 Mauritania's own way (Book 7): Year 5 is the state itself — the child climbs the whole ladder of Mauritania's administration (commune → administrative centre → moughataa → wilaya), meets its elections and its three powers, then walks through the working community (professions, crafts) and the uniformed services that protect it, ending with the environmental police
 
 Searchable tags: security and protection services, Mauritania, social studies, culture-and-work
+
+**Book 8:** *Samajik Adhyayan tatha Manav Mulya Shiksha Kaksha 7 (Social Studies and Human Value Education Grade 7)* (student book, Nepali) — Title as printed: सामाजिक अध्ययन तथा मानव मूल्य शिक्षा, कक्षा ७ (Samajik Adhyayan tatha Manav Mulya Shiksha, Grade 7) Grade: Grade 7 (student/teacher: STUDENT) Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur PDF pages: 195 (cover verified against the record title; contents read from rendered TOC pages — the legacy-font text layer garbles; grabbed via grab.py after the GitHub API route recovered) Earlier waves: Geography wave placed Unit 1 lessons 3–4 (development infrastructures), Unit 7 Our Earth and Unit 8 Population (20 placements) and named Units 1 (lessons 1–2, 5), 2, 3, 4 and 9 as not placed; History wave placed Unit 5 Our Past (7); Economics wave placed Unit 6 Nepal's Economic Activities (6). Verdict: COMPLETE Contents map: Integrated SS/Civics pp. 1–14 (Unit 1 We and Our Society); Morals/Values pp. 15–44 (Unit 2 Our Human Values); Civics pp. 45–83 (Unit 3 Civic Awareness, Rights and Duties; Unit 4 Social Problems and Solutions); History pp. 84–105 (Unit 5 — placed); Economics pp. 106–120 (Unit 6 — placed); Geography pp. 121–146 (Unit 7 — placed); Population pp. 147–163 (Unit 8 — placed); Global citizenship pp. 164–180 (Unit 9 Our International Relations and Cooperation — its L3, Information and Technology, is ICT, named not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal part 1 — culture-and-work/security-agencies — Unit 3 L7 Security agencies — teaches: the bodies that keep the state safe — Nepal Grade 7 Social Studies and Human Value Education, printed p. 65 | Nepal, *Samajik Adhyayan tatha Manav Mulya Shiksha Kaksha 7 (Social Studies and Human Value Education Grade 7)* (student book), Security agencies — printed p. 65 |
+| Nepal's way — the books' own teaching way | Nepal — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 4 countries (Saudi Arabia, United Arab Emirates, Mauritania, Nepal).**
+
+Nepal's own way (Book 9): Grade 7 completes the state — elements of the state, democratic government, our constitution, human and women's rights, the provincial government's functions and the security agencies — then turns outward: the United Nations, the proper use of social media, and the world's current events close the book.
+
+Registry note: the original coined string `culture-and-work/security-agencies` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/security-and-protection-services`.
+

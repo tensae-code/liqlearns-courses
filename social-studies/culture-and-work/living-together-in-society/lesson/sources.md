@@ -1,6 +1,6 @@
 # Sources — Living Together in Society
 
-countries: Somalia, Venezuela, El Salvador, Greece
+countries: Somalia, Venezuela, El Salvador, Greece, Nepal
 
 **Book 1:** *Barbaarinta iyo Cilmiga Beesha, Fasalka Saddexaad* (student book, Somali) — Title as printed: BARBAARINTA IYO CILMIGA BEESHA — FASALKA SADDEXAAD (Upbringing and Social Studies — Third Grade). Grade: Grade 3 (student/teacher: STUDENT — pupil readings with Weydiin questions and Shaqa-Guri homework; the introduction addresses the teacher on method). Publisher: Somali Democratic Republic, Ministry of Education, Curriculum Office; authors Cabdiraxmaan Cusmaan Saciid, Caasha Xaaji Maxamed Xuseen; compiled by Ibraahim Maxamuud Abyan and Maxamed Cali Warsame; illustrations Cawil Maxamed Yaasiin; year not printed on the pages read; no ISBN printed. PDF pages: 58 (cover verified against the record title; 1,696,916 bytes exact match to the link record). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Integrated SS / Civics / Morals throughout: pillars of nationhood p. 1; birth of the Revolution p. 5; what the Revolution did p. 8; self-help p. 11; farming and farmers p. 15; fish and fishermen p. 22; cooperation and cooperatives p. 27; mutual need and living together p. 31; the Political Office p. 33; the nomads p. 35; the city p. 41; Somali culture p. 47. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/somalia-placements.md. External-link book NOT in GitHub, staged under the 2026-11-13 rule, as filed.
 
@@ -72,3 +72,17 @@ Greece's own way (Book 7): Grade 3's opening unit is the primary civics core of 
 Registry note: the original coined string `first-steps/living-together-and-cooperating` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/living-together-in-society`.
 
 Searchable tags: living together in society, Greece, social studies, culture-and-work
+
+**Book 8:** *My Social Studies and Creative Arts Grade 5, English Version* (student book, English) — Title as printed: My Social Studies and Creative Arts, Grade 5 Grade: Grade 5 (student/teacher: STUDENT) Publisher: Government of Nepal, Ministry of Education, Curriculum Development Centre; first edition 2068 BS, revised 2074 BS; ISBN 978-99933-717-8-6 as printed (per History wave's verified read; title page re-verified in this wave) PDF pages: 156 (cover/title page verified against the record title; grabbed via grab.py after the GitHub API route recovered) Earlier waves: Geography wave placed Unit 5 Our Earth (14 placements); History wave placed Unit 6 lessons 1–6 (7) and explicitly named lesson 7 (Our Head of State and the Head of Government — civics) as not placed, placed here; Economics wave placed Unit 7 (4). Verdict: COMPLETE Contents map: Integrated SS pp. 2–11 (Unit 1 Our Community); Morals/Values pp. 12–33 (Unit 2 Our Traditions, Social Norms and Values; Unit 3 Social Problems and Their Solutions); Civics pp. 34–47 (Unit 4 Civic Sense) and p. 78 (Unit 6 L7); Geography pp. 48–65 (Unit 5 — placed); History pp. 66–77 (Unit 6 L1–6 — placed); Economics pp. 80–89 (Unit 7 — placed); Creative Arts pp. 90–end (Art course — named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal part 1 — first-steps/living-together-and-cooperating — Unit 3 L4 Co-operation — teaches: working together — Nepal Grade 5 My Social Studies and Creative Arts, printed p. 28 | Nepal, *My Social Studies and Creative Arts Grade 5, English Version* (student book), Co-operation — printed p. 28 |
+| Nepal's way — the books' own teaching way | Nepal — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 5 countries (Somalia, Venezuela, El Salvador, Greece, Nepal).**
+
+Nepal's own way (Book 6): Grade 5's civic sense reaches the district — the District Coordination Committee and its functions get two full lessons — and the state itself arrives inside the history unit: head of state against head of government, through the 2062–65 BS movement and the republic.
+
+Registry note: the original coined string `first-steps/living-together-and-cooperating` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/living-together-in-society`.
+

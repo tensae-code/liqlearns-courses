@@ -1,6 +1,6 @@
 # Sources — The UN — the League's successor, built to last
 
-countries: Ethiopia, Turkmenistan, Venezuela, Samoa, Somalia, Fiji, Bangladesh, Rwanda, Papua New Guinea, Saudi Arabia, Mauritania
+countries: Ethiopia, Turkmenistan, Venezuela, Samoa, Somalia, Fiji, Bangladesh, Rwanda, Papua New Guinea, Saudi Arabia, Mauritania, Nepal
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -127,3 +127,15 @@ Mauritania placements — Social Studies remaining strands (2026-11-17):
 Mauritania's own way (Book 8): civics is built as three competencies — the child's rights and the state's law first, then Mauritania inside its regional and world organisations, then a long values ladder (moderation, advice, volunteering, equality, heritage, honour-brotherhood-justice) taught one value per lesson with observe–learn–discuss–conclude steps
 
 Searchable tags: the un — the league's successor, built to last, Mauritania, social studies, global-issues
+
+**Book 10:** *Social Studies Grade 10* (student book, Nepali) — Title as printed: सामाजिक अध्ययन, कक्षा १० (Social Studies, Grade 10) Grade: Grade 10 (student/teacher: STUDENT) Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre (CDC), Sanothimi, Bhaktapur; first edition VS 2080, revised VS 2082 (title page verified) PDF pages: 316 (cover/title page verified against the record title; grabbed via grab.py after the GitHub API route recovered) Earlier waves: Geography wave placed Unit 6 (Our Earth) and the geography parts (20 placements); History wave placed Unit 7 (Our Past) (8); Economics wave placed Unit 2 (Development) and Unit 8 (Economic Activities) parts (12). The units below were not placed by any earlier wave. Verdict: COMPLETE Contents map: Integrated SS / Culture pp. 1–20 (Unit 1 We and Our Society) and pp. 39–70 (Unit 3 Our Social Values and Norms); Economics/Development pp. 21–38 (Unit 2 — placed by Economics wave); Civics/Values pp. 75–94 (Unit 4 Social Problems and Solutions) and pp. 95–125 (Unit 5 Civic Awareness); Geography pp. 126–172 (Unit 6) and pp. 281–306 (Unit 10 Population — Geography/Health, named not placed); History pp. 173–213 (Unit 7); Economics pp. 214–244 (Unit 8); Civics/Global pp. 245–280 (Unit 9 Our International Relations and Cooperation). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal part 1 — global-issues/the-un-the-leagues-successor-built-to-last — Unit 9 L2 The United Nations — teaches: the UN as the world's organisation of states — Nepal Grade 10 Social Studies, printed p. 259 | Nepal, *Social Studies Grade 10* (student book), The United Nations — printed p. 259 |
+| Nepal's way — the books' own teaching way | Nepal — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Turkmenistan, Venezuela, Samoa, Somalia, Fiji, Bangladesh, Rwanda, Saudi Arabia, Mauritania, Nepal).** Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.
+
+Nepal's own way (Book 15): the Grade 10 book is organised as the citizen's widening world — society and identity, social values, social problems, then a full civic-awareness unit on Nepal's own federal legislature, executive and judiciary, closing with Nepal's foreign policy and the UN.
+

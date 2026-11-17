@@ -1,6 +1,6 @@
 # Sources — Corruption What It is and Its Forms
 
-countries: Armenia, Palestine
+countries: Armenia, Palestine, Nepal
 
 **Book 1:** *G09 Social Science student* (student book, Armenian) — Title as printed: ՀԱՍԱՐԱԿԱԳԻՏՈՒԹՅՈՒՆ 9-րդ դասարան — Հանրակրթական հիմնական դպրոցի դասագիրք (Social Science, Grade 9, basic-school textbook) — K. Harutyunyan (Themes 2–3), T. Simonyan (Theme 1), A. Manucharyan (Theme 4), N. Galstyan (Theme 5). Grade: 9 (student/teacher: STUDENT). Publisher: «Զանգակ» (Zangak), Yerevan; year 2025; ISBN 978-9939-99-243-3. PDF pages: 180 (cover and title page verified against the record title; image-only PDF read from rendered pages; 38,679,191 bytes from the record's ministry source file — exactly the size the Economics wave recorded for this copy). Earlier waves: Economics wave placed Theme 4 (The State and the Economy, §§4.1–4.4, pp. 84–127); History wave filed it RECORD-ONLY (no History parts).. Verdict: COMPLETE — the four remaining themes placed below (Themes 1, 2, 3, 5); Theme 4 already placed by the Economics wave.. Contents map: The State: Introduction pp. 5–42 (Theme 1); State and Culture pp. 43–58 (Theme 2); State and Political System pp. 59–83 (Theme 3); Economics pp. 84–127 (Theme 4, Economics wave); State and Politics pp. 128–171 (Theme 5); Final glossary pp. 172–174 (inventory-only). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/armenia-placements.md.
 
@@ -30,3 +30,17 @@ Searchable tags: Corruption What It is and Its Forms, Armenia, social studies, c
 Palestine's own way (Grade 8 Social Studies Part 1): citizenship is taught as a contract with named forms — including two the Palestinian classroom adds to the usual list, responsible citizenship (with the citizen's right to hold officials accountable) and digital citizenship — and its second lesson turns the same lens on corruption, fought in the book by Palestine's own Anti-Corruption Law and Commission and the AMAN coalition.
 
 Registry note: the original coined string `culture-and-work/the-effects-of-corruption` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/corruption-what-it-is-and-its-forms`.
+
+**Book 3:** *Social Studies Grade 10* (student book, Nepali) — Title as printed: सामाजिक अध्ययन, कक्षा १० (Social Studies, Grade 10) Grade: Grade 10 (student/teacher: STUDENT) Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre (CDC), Sanothimi, Bhaktapur; first edition VS 2080, revised VS 2082 (title page verified) PDF pages: 316 (cover/title page verified against the record title; grabbed via grab.py after the GitHub API route recovered) Earlier waves: Geography wave placed Unit 6 (Our Earth) and the geography parts (20 placements); History wave placed Unit 7 (Our Past) (8); Economics wave placed Unit 2 (Development) and Unit 8 (Economic Activities) parts (12). The units below were not placed by any earlier wave. Verdict: COMPLETE Contents map: Integrated SS / Culture pp. 1–20 (Unit 1 We and Our Society) and pp. 39–70 (Unit 3 Our Social Values and Norms); Economics/Development pp. 21–38 (Unit 2 — placed by Economics wave); Civics/Values pp. 75–94 (Unit 4 Social Problems and Solutions) and pp. 95–125 (Unit 5 Civic Awareness); Geography pp. 126–172 (Unit 6) and pp. 281–306 (Unit 10 Population — Geography/Health, named not placed); History pp. 173–213 (Unit 7); Economics pp. 214–244 (Unit 8); Civics/Global pp. 245–280 (Unit 9 Our International Relations and Cooperation). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal part 1 — culture-and-work/corruption-as-a-social-evil — Unit 4 L4 Corruption as a social evil — teaches: corruption named a social evil and the citizen's stand against it — Nepal Grade 10 Social Studies, printed p. 83 | Nepal, *Social Studies Grade 10* (student book), Corruption as a social evil — printed p. 83 |
+| Nepal's way — the books' own teaching way | Nepal — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 3 countries (Armenia, Palestine, Nepal).**
+
+Nepal's own way (Book 15): the Grade 10 book is organised as the citizen's widening world — society and identity, social values, social problems, then a full civic-awareness unit on Nepal's own federal legislature, executive and judiciary, closing with Nepal's foreign policy and the UN.
+
+Registry note: the original coined string `culture-and-work/corruption-as-a-social-evil` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/corruption-what-it-is-and-its-forms`.
+

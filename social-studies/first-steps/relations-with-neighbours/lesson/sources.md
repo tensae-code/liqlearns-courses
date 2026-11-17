@@ -1,6 +1,6 @@
 # Sources — Relations with Neighbours
 
-countries: Yemen, Libya, Colombia, Iraq
+countries: Yemen, Libya, Colombia, Iraq, Nepal
 
 **Book 1:** *التربية الاجتماعية للصف الثالث الأساسي (Social Education for Grade 3 of Basic Education)* (student book, Arabic) — Republic of Yemen, Ministry of Education; year 1442 AH / 2021 CE (cover print); ISBN no ISBN printed. Title as printed: التربية الاجتماعية للصف الثالث الأساسي (Social Education for Grade 3 of Basic Education). Grade: 3 (student/teacher: STUDENT). PDF pages: 82 (cover/title page verified against the record title; 6,153,895 bytes, Wayback snapshot 20240711065415 of the recorded source_url). Earlier waves: Geography wave placed Unit 3 L1 place of residence, L3 occupations, L4 cleanliness of neighbourhood, and Unit 4 (directions/Earth/seasons/time); History wave placed Unit 1 L1 my family and my relatives and Unit 4 L4 time; Economics wave placed Unit 3 L3 (one economics placement). Those parts are NOT re-placed here. Verdict: COMPLETE. Contents map: Integrated SS pp. 6–24 (Unit 1 family/home), pp. 34–42 (Unit 2 school lessons), p. 50 (Unit 3 L2 neighbours); Civics/Citizenship/Government pp. 12–23 (family relations, kindness, home duties, inside Unit 1); Morals/Values pp. 16–19 (kindness in the family), pp. 50–56 (good neighbourliness); Geography pp. 47–49, 63–75; History p. 73 (time, placed by History wave); Religion pp. 26–33 (Unit 2 mosque lessons — named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/yemen-placements.md.
 
@@ -53,3 +53,17 @@ Iraq placements — Social Studies remaining strands (2026-11-17):
 **Acceptance count: taught in 4 countries (Yemen, Libya, Colombia, Iraq).**
 
 Iraq's own way (Book 5): values are defined first as a system — standards that steer behaviour and spread peace "regardless of sex, religion, nationality, language or race" — and citizenship is cashed out in named rights (education, work, candidacy, the vote, freedom of opinion and belief), while the internet chapter warns in plain terms that the open network "is governed by no restrictions or conditions".
+
+**Book 6:** *Samajik Adhyayan tatha Manav Mulya Shiksha Kaksha 4 [Parikshan] (Social Studies and Human Value Education Grade 4, trial)* (student book, Nepali) — Title as printed: सामाजिक अध्ययन तथा मानवमूल्य शिक्षा, कक्षा ४ (Social Studies and Human Value Education, Grade 4 — trial edition) Grade: Grade 4 (student/teacher: STUDENT) Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur (title page verified) PDF pages: 141 (cover verified against the record title; contents read from rendered contents pages — the text layer uses a legacy Nepali font; grabbed via grab.py after the GitHub API route recovered) Earlier waves: Geography wave placed Unit 7 Our Earth (9 placements); History wave placed Unit 5 Our Past (5); Economics wave placed Unit 6's product/income/market lessons (4) — its L1 (Respect work) is a values lesson, placed here. Verdict: COMPLETE Contents map: Integrated SS pp. 1–20 (Unit 1 We and Our Community); Morals/Values pp. 21–40 (Unit 2 Our Values and Norms); Civics pp. 41–65 (Unit 3 Civic Awareness); Morals/Values pp. 66–80 (Unit 4 Social Problems and Solutions); History pp. 81–91 (Unit 5 — placed); Economics pp. 92–115 (Unit 6 — placed by Economics wave except L1); Geography pp. 116–134 (Unit 7 — placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal part 1 — culture-and-work/relations-with-neighbours — Unit 1 L1 Relations with neighbours — teaches: the bonds between neighbours — Nepal Grade 4 Samajik Adhyayan tatha Manav Mulya Shiksha (trial), printed p. 2 | Nepal, *Samajik Adhyayan tatha Manav Mulya Shiksha Kaksha 4 [Parikshan] (Social Studies and Human Value Education Grade 4, trial)* (student book), Relations with neighbours — printed p. 2 |
+| Nepal's way — the books' own teaching way | Nepal — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 5 countries (Yemen, Libya, Colombia, Iraq, Nepal).**
+
+Nepal's own way (Book 5): the trial Human Value Education edition re-teaches Grade 4 social studies through values first — forgiveness is a named lesson, and civic awareness opens with our security and our rights-and-duties together.
+
+Registry note: the original coined string `culture-and-work/relations-with-neighbours` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/relations-with-neighbours`.
+
