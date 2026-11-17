@@ -1,0 +1,16 @@
+# Sources — The Neighbours Duty
+
+countries: Kuwait
+
+**Book 4:** *Social Studies G7 Term 2* (student book, Arabic) — Title as printed: دولة الكويت والوطن العربي — الصف السابع — الفصل الدراسي الثاني (State of Kuwait and the Arab Homeland, Grade 7, Term 2). Grade: Grade 7 Term 2 (student/teacher: STUDENT). Publisher: Ministry of Education, State of Kuwait; year 2025–2026 (1st edition, 1447H); ISBN no ISBN printed. PDF pages: 102 (cover verified — Kuwait Towers cover, "Grade 7, Second Term", Arab-world map inset; 60,486,335 bytes via the staging books.json's recorded Google Drive source, matching the record size exactly; printed page numbers = PDF page numbers minus the front cover). Earlier waves: Geography wave read this same book from the same Drive source and placed its population/resources/problems-geography/visions-geography parts — including the values unit's heritage angle (Souq Al-Mubarakiya and Nabati poetry, printed pp. 88–90, into culture-and-work/culture-symbols — ALREADY PLACED, not re-placed) and the pearl-diving heritage setting of the neighbour story; Economics wave placed pp. 60–75 economics parts (incl. economic dependency, p. 61 — ALREADY PLACED); History wave found no History parts. Unit 4 Lesson 4 (the digital future: digital transformation, smart government, AI in the Arab world, pp. 79–80) is ICT — outside this wave's scope, named only. Verdict: COMPLETE. Contents map: Geography pp. 15–48; History — none; Economics pp. 60–75; Civics/Organisations pp. 54–56 (political problems), 72–76 (national visions), 81–82 (Arab integration); Morals/Values pp. 57–59 (social problems), 62 (bullying), 88–96 ("Stations with Good Kuwait"). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/kuwait-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — culture-and-work/the-neighbours-duty — Stations with Good Kuwait 4: The neighbour to the neighbour (الجار للجار) — teaches: the neighbour's duty in the pearl-diving season — Khalid sails with his three sons leaving his family without provision, trusting God then his neighbour Hamad, known for generosity and chivalry; Hamad notices the absence, asks after them, and provides for the family until they return — Kuwait Grade 7 Term 2, printed pp. 94–96 | Kuwait, *Social Studies G7 Term 2* (student book), Stations with Good Kuwait 4: The neighbour to the neighbour (الجار للجار) — printed pp. 94–96 |
+| Sub lesson 2 — Kuwait's way — the book's own teaching way | Kuwait — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Kuwait).**
+
+Kuwait's own way (Grade 7 Term 2): Grade 7 Term 2 teaches the pupil to read their region's troubles whole — political (occupation, separatism, nuclear risk), social (addiction, rumours, bullying) — and then to answer them with plans: a national vision with traits and shared Arab goals, Kuwait's own 2035 vision, and Arab integration through named organisations; the values unit grounds it at home — the grandmother who runs the family's learning, and the neighbour who feeds the absent diver's family.
+
+Searchable tags: the neighbours duty, Kuwait, social studies, culture-and-work
