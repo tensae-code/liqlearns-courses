@@ -1,0 +1,102 @@
+# Human Rights and Equality Before the Law
+
+## Do it first
+
+Before you read on, say in your mind what you already think this is about: all human beings are equal in dignity and rights and in Honduras all citizens are equal before the law; human rights are inseparable from the human person, and the UN Universal Declaration exists to guarantee liberty, peace and justice; the Constitution (Art. 60) declares all are born free and equal in rights and that Honduras has no privileged classes; habeas corpus and amparo are the remedies when rights are violated — as Honduras's books teach it. Hold your idea; the lesson will test it.
+
+## Sub lesson 1 — Lección 8 Todos somos iguales en derechos
+
+Honduras Grade 4 G4 Student CCSS, printed p. 45, teaches: All human beings are equal in dignity and rights and in Honduras all citizens are equal before the law; human rights are inseparable from the human person, and the UN Universal Declaration exists to guarantee liberty, peace and justice; the Constitution (Art. 60) declares all are born free and equal in rights and that Honduras has no privileged classes; habeas corpus and amparo are the remedies when rights are violated. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Sub lesson 2 — Lección 9 Ejerzo mis derechos
+
+Honduras Grade 4 G4 Student CCSS, printed p. 50, teaches: Exercising human rights in every sphere, starting at school, where everyone must have the same real chance of quality education regardless of sex, age, origin, religion or condition; freedom is acting by one's own will within social and legal norms; democratic life means accepting what majorities establish while respecting minorities' opinions (simple and absolute majorities); economic and social rights let the family live in dignity. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Sub lesson 3 — Lección 8 Nuestros derechos
+
+Honduras Grade 5 G5 Student CCSS, printed p. 45, teaches: Human rights are the principles that recognise, protect and guarantee human dignity — we are born with them; the Constitution (Art. 59) declares the human person the supreme end of society and the State; civil rights (a name, a nationality, family, property) against political rights (participating in political life); children's right to education in the Children and Adolescents Code (Art. 35) and the 1989 UN Convention on the Rights of the Child. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Sub lesson 4 — Lección 1 El actuar de la persona
+
+Honduras Grade 6 G6 Student CCSS, printed p. 10, teaches: The person is a rational being, conscious of themselves, with a unique identity; freedom is acting or not by one's own criterion within what the law establishes, in its types — conscience, expression (spreading ideas and open debate), assembly and association; the human being is social by nature and organised by coexistence norms, some verbal and practised daily, others written. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Sub lesson 5 — Lección 8 Conozcamos nuestros derechos
+
+Honduras Grade 6 G6 Student CCSS, printed p. 45, teaches: A right (derecho) is the State-made body of obligatory norms whose breach brings sanction; human rights are universal legal guarantees protecting dignity and fundamental freedoms, set out in the Constitution's Title III; they come in three generations — first: civil and political; second: economic, social and cultural; third: the rights of peoples — and every right carries duties (respect parents and all persons, honesty, punctuality, preserving Honduran culture's values). This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Sub lesson 6 — Lección 9 Mis libertades en un Estado de derecho
+
+Honduras Grade 8 G8 Student CCSS, printed p. 56, teaches: My freedoms inside a rule of law — civil rights limit the three powers of the State and affirm that the State's end is the human person; among them forming parties and political movements and freedom of expression without prior censorship (those who abuse it answer before the law); accountability closes the lesson — citizens elect authorities by suffrage and pay public employees through taxes, so officials must handle the country's goods transparently. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Sub lesson 7 — Lección 38 Derechos Humanos en América
+
+Honduras Grade 8 G8 Student CCSS, printed p. 236, teaches: Human rights in America — the UN proclaimed the Universal Declaration in 1948 (today in 500 languages); the American Declaration of the Rights and Duties of Man, the first international agreement on rights, disposed the creation of the OAS; the inter-American instruments include the conventions to prevent and punish torture and on forced disappearance (born of the military dictatorships), the 1989 Children's Convention, the 1990 migrant-workers convention, and ILO Convention 169 for tribal peoples in independent countries. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Sub lesson 8 — Lección 6 Los derechos humanos
+
+Honduras Grade 9 G9 Student CCSS, printed p. 38, teaches: Human rights are the guarantees society has built for people's integral development, rooted in the French Revolution's 1789 Declaration of the Rights of Man and the modern republican ideals of equality and liberty; rights are acquired from conception and are irrenunciable, and States must be their guarantors through their institutions — the lesson shows Eleanor Roosevelt with the Universal Declaration, the Inter-American Court in San José, and Honduras's National Human Rights Commissioner (CONADEH). This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Sub lesson 9 — Lección 7 Los derechos de primera generación
+
+Honduras Grade 9 G9 Student CCSS, printed p. 44, teaches: Human rights are inherent to all persons without distinction of nationality, residence, sex, ethnic origin, colour, religion or language, interrelated and interdependent; first-generation rights — civil and political, consecrated from the late 18th century — protect the person against power, headed by electing and being elected and by physical integrity and life; in Honduras the most violated civil right is precisely physical integrity and life, amid poverty, inequality and impunity. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Sub lesson 10 — Lección 8 Los derechos de segunda generación
+
+Honduras Grade 9 G9 Student CCSS, printed p. 50, teaches: Second-generation rights — economic, social and cultural — materialise citizenship: work and sufficient income for an adequate standard of living assuring health, food, clothing, housing, medical assistance and the necessary social services for oneself and one's family (the Honduran Social Security Institute, IHSS, pictured), plus the cultural rights to create, promote and enjoy artistic manifestations. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Sub lesson 11 — Lección 9, teoría adicional
+
+Honduras Grade 8 G8 Teacher CCSS, printed p. 36, teaches: The rule of law is any state that guarantees respect for civil liberties — human rights and fundamental guarantees — through legal protection, with authorities themselves subject to the law; human rights are fundamental for the development of any society; the state's role must be well defined so its action never violates one right excusing itself by another — a "right" that requires violating another probably never existed; the Constitution sets out political and civil rights (Art. 37 among them). This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Sub lesson 12 — Lección 6, teoría adicional
+
+Honduras Grade 9 G9 Teacher CCSS, printed p. 28, teaches: The enjoyment of all human rights forms a tight net — advancing one advances the rest, and depriving one harms the others (those who cannot read struggle to work, take part in politics or express themselves); peace and security, development and human rights are the UN's three pillars, and its machinery is set out — Security Council resolutions giving ever wider human-rights mandates to peacekeeping, and the treaty bodies, committees of independent experts that watch over each fundamental treaty, with every State party obliged to secure the treaty's rights in its territory; the 1993 Vienna World Conference recognised women's rights as part of human rights. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Sub lesson 13 — Lección 7, teoría adicional
+
+Honduras Grade 9 G9 Teacher CCSS, printed p. 32, teaches: The historical classification of rights answers their chronological recognition, and rights were held through membership of a group long before the 18th century — the golden rule ("do to others what you would have them do to you") and five of the oldest written sources on duties and rights: the Hindu Vedas, Babylon's Code of Hammurabi, the Bible, the Qur'an and Confucius's Analects, with the Inca and Aztec codes of conduct and justice and an Iroquois constitution as native American sources; the timeline runs from the 16th century BC to the 21st, and the Universal Declaration was adopted in Paris on 10 December 1948 by a drafting committee chaired by Eleanor Roosevelt. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Sub lesson 14 — Lección 8, teoría adicional
+
+Honduras Grade 9 G9 Teacher CCSS, printed p. 36, teaches: Legal equality alone did not bring happiness — wealth concentrated in few hands, the Industrial Revolution, workers displaced by technology, unmeasured exploitation and child labour in the cities raised the great social movements of the 20th century (the Mexican, Russian and Chinese revolutions among them), and from those claims were born the second-generation rights; they are collective in type, a State obligation, aimed at real equality through health, education, dignified work and cultural life, and they carry three marks — imposed as a State duty of satisfying needs and providing services, belonging to the person in community, and conditioned by the country's economic possibilities; present already in the 1948 Declaration, they were developed in the 1966 International Covenant on Economic, Social and Cultural Rights, in force from 1976. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Sub lesson 15 — Secuencia 4 Los derechos humanos
+
+Honduras Grade 9 G9 Telebásica Student CCSS, printed p. 45, teaches: Human rights are the freedoms and claims to basic goods that belong to every person by the simple fact of being human, for a dignified life without distinction, and the right to life conditions all the rest — homicide, personal injury and cruel or inhuman treatment are the gravest attacks; their characteristics are listed and defined — universal, irreversible and progressive, indivisible, non-negotiable, inviolable, obligatory, and transcending national borders (no State may plead sovereignty when the international community requires a violation be corrected); the sequence retells the road from England's 1689 declaration through the French Declaration to the Universal Declaration and tabulates its articles. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Sub lesson 16 — Secuencia 5 Derechos humanos en Honduras
+
+Honduras Grade 9 G9 Telebásica Student CCSS, printed p. 55, teaches: Honduras's rights defence was born of the 1980s — after prolonged civil, political and military disturbance the country returned to a democratic process, defence organisations arose (COFADEH, legalised in 2001), and the National Reconciliation Commissions promoted dialogue and pacification; the National Commissioner for Human Rights (CONADEH) was created by Executive Decree 26-92 of 8 June 1992, began work on 17 December 1992, entered the Constitution by Decree 191-94 ratified by Legislative Decree 2-95, and received its Organic Law (Decree 153-95) in 1995; the rights it protects are enumerated — equality, education, work, health, circulation, life, the rights of persons with HIV-AIDS and of the elderly — and the systematic violations documented after 28 June 2009 are named. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Sub lesson 17 — Secuencia 5 Derechos de la mujer en Honduras
+
+Honduras Grade 9 G9 Telebásica Student CCSS, printed p. 61, teaches: Women's rights in Honduras as a won history — from the 1791 Declaration of the Rights of Woman and of the Citizen to 25 January, Honduran Women's Day, marking Decree 29 of 1955, which recognised women's political rights under Julio Lozano Díaz; women first voted in the 1957–1963 period, but only literate women could vote though most were illiterate, and political spaces must be conquered by organised struggle, not accepted as gifts; the protective laws are listed with their instruments — CEDAW (Decree 979, 1980), the Belém do Pará Convention (Decree 72-95, 1995), the Law Against Domestic Violence (Decree 132-97, 1997) and the Equal Opportunities for Women Law (Decree 34-2000, 2000). This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Sub lesson 18 — Honduras's way — the books' own teaching way
+
+Honduras's own way: Grade 4 widens civics to Central America and to rights as law — human rights with the Constitution's own Article 60 and the habeas corpus and amparo remedies, sex versus gender taught for equality, and Honduras's real civic organisations (CODEH, COFADEH, the unions) named as civil society. Grade 5 teaches democracy as a continental story — Latin America's dictatorships and transitions, integral citizenship (political, civil, social), social movements from the 1954 banana strike onward — while the pupil's own rehearsal is the student government with its annual operating plan and suggestion box. Grade 6 completes primary civics with the world system — international organisations defined as voluntary associations of sovereign states, the UN and its specialised agencies with their real founding dates, and Honduras's own memberships and poverty figures (52.6% in poverty, World Bank 2018) as the home case. Grade 8 is the moral-and-legal year — moral conscience and dilemmas, the Anti-Bullying Law read article by article, the rule of law traced to 1789, and human rights taught through the Americas' own instruments (the American Declaration, the OAS, the anti-torture and forced-disappearance conventions). the cycle closes with vocation and rights — three full lessons on the generations of human rights (with Honduras's own record: the most-violated civil right is physical integrity; Garífuna and Miskito peoples organising for third-generation rights), then the UN from Honduras's seat and the country's foreign relations told through its border awards. the final guide deepens the pupil book's rights cycle into doctrine and machinery — the UN treaty bodies and the three pillars, the ancient sources of rights from Hammurabi to the Iroquois constitution, the 1966 Covenants — and widens Bloque 4 from the pupil book's UN seat to Honduras's own regional house: the OAS, ODECA and SICA, and a foreign-relations history that ends at the 1992 Hague judgment and the 2014 Isla Conejo dispute. the Telebásica twin of Grade 9 teaches the same cycle at a distance learner's pace, each sequence paired with its television programme — and it is the more Honduras-specific of the two books on rights: CONADEH's creation decrees dated one by one, women's suffrage won by Decree 29 of 1955 with the literacy limit named, and the protective laws listed with their La Gaceta dates. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Say it to your companion
+
+Explain this lesson to your companion in your own words. Your companion asks you one hard question about it — answer from the lesson.
+
+## Do It Yourself
+
+1. Lección 8 Todos somos iguales en derechos: do the activity in hands-on.md under this name.
+2. Lección 9 Ejerzo mis derechos: do the activity in hands-on.md under this name.
+3. Lección 8 Nuestros derechos: do the activity in hands-on.md under this name.
+4. Lección 1 El actuar de la persona: do the activity in hands-on.md under this name.
+5. Lección 8 Conozcamos nuestros derechos: do the activity in hands-on.md under this name.
+6. Lección 9 Mis libertades en un Estado de derecho: do the activity in hands-on.md under this name.
+7. Lección 38 Derechos Humanos en América: do the activity in hands-on.md under this name.
+8. Lección 6 Los derechos humanos: do the activity in hands-on.md under this name.
+9. Lección 7 Los derechos de primera generación: do the activity in hands-on.md under this name.
+10. Lección 8 Los derechos de segunda generación: do the activity in hands-on.md under this name.
+11. Lección 9, teoría adicional: do the activity in hands-on.md under this name.
+12. Lección 6, teoría adicional: do the activity in hands-on.md under this name.
+13. Lección 7, teoría adicional: do the activity in hands-on.md under this name.
+14. Lección 8, teoría adicional: do the activity in hands-on.md under this name.
+15. Secuencia 4 Los derechos humanos: do the activity in hands-on.md under this name.
+16. Secuencia 5 Derechos humanos en Honduras: do the activity in hands-on.md under this name.
+17. Secuencia 5 Derechos de la mujer en Honduras: do the activity in hands-on.md under this name.
+18. Honduras's way — the books' own teaching way: do the activity in hands-on.md under this name.

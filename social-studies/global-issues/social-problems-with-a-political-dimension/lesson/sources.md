@@ -1,6 +1,6 @@
 # Sources — Social Problems with a Political Dimension
 
-countries: Egypt, Bhutan, Mexico, India
+countries: Egypt, Bhutan, Mexico, India, Honduras
 
 **Book 1:** *الجغرافيا السياسية (Political Geography) — كتاب الطالب والأنشطة والتدريبات (Student Book, Activities and Exercises)* (student book with activities, Arabic) — Egypt, Ministry of Education and Technical Education, Egypt; no year or ISBN on the cover pages read (the file is the ministry's 2026-folder student book). Title as printed: الجغرافيا السياسية (Political Geography). Grade 12, Third Secondary, Term 1 (student). 172 PDF pp. (cover verified against the record title; 28,573,835 bytes = record size exactly, from the recorded Azure source; staged in phase3-staging/grade-12/gov/egypt/Geography_Sec3.pdf under the push-don't-delete rule — its books.json record already existed there). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/egypt-placements.md.
 
@@ -37,3 +37,23 @@ India placements — Social Studies remaining strands (2026-11-17):
 **Acceptance count: taught in 4 countries (Egypt, Bhutan, Mexico, India).**
 
 India's own way (Democratic Politics-II, Grade 10): Class X civics is comparative — Belgium's accommodation against Sri Lanka's majoritarianism, India's own federal map, and Nepal's and Bolivia's people's movements — so India's arrangements are always shown as one choice among real alternatives.
+
+Honduras placements — Social Studies remaining strands (2026-11-17):
+
+**Book 5:** *Libro para Estudiantes, Ciencias Sociales 5, Quinto grado* (student book, Spanish) — Title as printed: Libro para Estudiantes, Ciencias Sociales 5, Quinto grado Grade: Grade 5 (student/teacher: STUDENT) Publisher: Secretaría de Educación de Honduras / UPNFM; year 2020; no ISBN printed PDF pages: 222 (cover verified: "Ciencias Sociales 5 — Quinto grado"; byte size 63,442,906 matches the record; read from the recorded ministry source educatrachos.hn, byte-identical to the secured copy) Earlier waves: Geography wave placed Bloque 2 (Lessons 10–19) and Bloque 4 Lessons 31, 35, 36 / History wave placed Lessons 20–29, 31, 35, 36, 37 / Economics wave placed Lessons 18, 19, 31 and named Lesson 38 Verdict: COMPLETE Contents map: Integrated SS / Civics (Bloque 1, Lessons 1–9) printed pp. 10–54; Civics/Society (Bloque 4, Lessons 30, 32–34, 38) printed pp. 166–170, 176–195, 206–210; Geography pp. 58–107; History pp. 112–161, 171–175, 191–205; Economics pp. 98–107, 171–175 Tally: 14 placements — 1 to existing lessons, 13 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/honduras-placements.md.
+
+**Book 6:** *Libro para Estudiantes, Ciencias Sociales 6, Sexto grado* (student book, Spanish) — Title as printed: Libro para Estudiantes, Ciencias Sociales 6, Sexto grado Grade: Grade 6 (student/teacher: STUDENT) Publisher: Secretaría de Educación de Honduras / UPNFM; year 2020; no ISBN printed PDF pages: 222 (cover verified: "Ciencias Sociales 6 — Sexto grado"; byte size 98,427,961 matches the record; read from the recorded ministry source educatrachos.hn, byte-identical to the secured copy) Earlier waves: Geography wave placed Bloque 2 (Lessons 10–19) and Bloque 4 Lessons 32, 34, 35, 36, 37 / History wave placed Lessons 20–27, 30, 35 / Economics wave placed Lessons 18, 19, 28, 32 and named Lesson 38 Verdict: COMPLETE Contents map: Integrated SS / Civics (Bloque 1, Lessons 1–9) printed pp. 10–54; Civics/Global (Bloque 4, Lessons 31, 33, 38) printed pp. 171–175, 181–185, 206–210; Geography pp. 58–107, 186–200; History pp. 112–151, 166–170, 191–195; Economics pp. 98–107, 152–156, 176–180; Science/technology (Lesson 29) pp. 157–161 — named, not placed Tally: 12 placements — 3 to existing lessons, 9 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part 1 — global-issues/social-problems-with-a-political-dimension — Lección 38 Problemas sociales de América — teaches: the continent's social problems are economic, social, cultural and moral, and can be overcome by governments acting on the people's needs; structural inequality and insecurity — income inequity producing poverty (Cardoso: Brazil is not a poor country but an unjust one), youth poverty near a third of the young, little access to employment — Honduras Grade 5 G5 Student CCSS, printed p. 206 | Honduras, *G5 Student CCSS* (student book), Lección 38 Problemas sociales de América — printed p. 206 |
+| Honduras part 2 — global-issues/social-problems-with-a-political-dimension — Lección 38 Principales problemas sociales en Honduras — teaches: a social problem is an event that impedes a community's, country's or region's development, arising when basic needs go unmet, and the State is the chief responsible party, obliged to give solutions; Honduras's case is poverty (52.6% of the population, World Bank 2018; 6 of 10 rural households in extreme poverty) with scarce job and education opportunities; education is taught as the most reliable alternative, and the loss of moral values as a root to repair — Honduras Grade 6 G6 Student CCSS, printed p. 206 | Honduras, *G6 Student CCSS* (student book), Lección 38 Principales problemas sociales en Honduras — printed p. 206 |
+| Honduras's way — the books' own teaching way | Honduras — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 5 countries (Egypt, Bhutan, Mexico, India, Honduras).**
+
+Honduras's own way (Book 5): Grade 5 teaches democracy as a continental story — Latin America's dictatorships and transitions, integral citizenship (political, civil, social), social movements from the 1954 banana strike onward — while the pupil's own rehearsal is the student government with its annual operating plan and suggestion box.
+
+Honduras's own way (Book 6): Grade 6 completes primary civics with the world system — international organisations defined as voluntary associations of sovereign states, the UN and its specialised agencies with their real founding dates, and Honduras's own memberships and poverty figures (52.6% in poverty, World Bank 2018) as the home case.
+
+Searchable tags: social problems with a political dimension, Honduras, social studies, global-issues

@@ -1,6 +1,6 @@
 # Sources — Human Dignity
 
-countries: Afghanistan, Morocco
+countries: Afghanistan, Morocco, Honduras
 
 **Book 1:** *Social Studies, Grade 6 (دروس اجتماعی صنف ششم)* (student book, Dari) — Title as printed: دروس اجتماعی صنف ششم (Social Studies, Grade 6). Grade: 6 (student/teacher: STUDENT). Publisher: Ministry of Education, Afghanistan; year 1398 HS (2019/20) as printed; ISBN no ISBN printed. PDF pages: 106 (cover verified against the record title; 8,468,695 bytes via grab tree route — grab.py's Python route failed three times with proxy RemoteDisconnected, so the same Contents-API route was run through curl with byte-size and blob-SHA verification, matching the earlier waves' size exactly). Earlier waves: Geography wave placed Lessons 1 and 11 (our country; provinces) and Lessons 12–17 (the six neighbouring countries); History wave placed Lessons 26–34 (Afghanistan 1973–2004) and Lessons 35–50 (early Islamic history); Economics wave filed this book's Grade 4/5 companions UNREAD (tree 404) but did not hold this Grade 6 record. Verdict: COMPLETE — the remaining civics/values chapters (Chapter 1 state lessons and Chapter 3 "Peace and national unity") read page by page (printed pp. 3–17 and 35–49) and placed below. Contents map: Integrated SS pp. 1–2 (Lesson 1 our country — placed by Geography); Civics/Citizenship/Government pp. 3–17 (Lessons 2–9: need for a state, constitution, our state, National Council, Wolesi Jirga, Meshrano Jirga, executive, judiciary) and pp. 35–49 (Lessons 18–25: national unity, peace and security, public property, media ethics, human dignity, respecting the law, children's rights, women's rights); Geography pp. 21–33 (provinces; neighbours — placed by Geography); History pp. 19 (Lesson 10 glories of Afghanistan — named by History) and pp. 51–67 (recent events — placed by History); Religion pp. 69–99 (Islamic history — placed by History). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/afghanistan-placements.md.
 
@@ -29,3 +29,19 @@ Morocco placements — Social Studies remaining strands (2026-11-17):
 
 Morocco's own way (Book 3, Fadaa Ijtiamiat 1AC): collège Social Studies carries a full Citizenship Education component built on ten value lessons in two axes — five personal-social values (dignity, freedom, equality, justice, solidarity), then tolerance, democracy, peace, the role of law, and a field visit to a human-rights institution — each lesson built from constitutional and international-charter texts.
 
+Honduras placements — Social Studies remaining strands (2026-11-17):
+
+**Book 9:** *Libro para Estudiantes, Ciencias Sociales 9, Noveno grado* (student book, Spanish) — Title as printed: Libro para Estudiantes, Ciencias Sociales 9, Noveno grado Grade: Grade 9 (student/teacher: STUDENT) Publisher: Secretaría de Estado en el Despacho de Educación de Honduras; year 2020 (Edición preliminar); no ISBN printed PDF pages: 254 (cover verified: "Ciencias Sociales 9 — Noveno grado"; byte size 178,464,019 matches the record; read from the recorded ministry source educatrachos.hn, byte-identical to the secured copy) Earlier waves: Geography wave placed Bloque 2 (Lessons 10–19) and Bloque 4 Lessons 34, 37 / History wave placed Lessons 20–29 / Economics wave placed Lessons 11, 29, 32, 35–37 Verdict: COMPLETE Contents map: Integrated SS / Civics (Bloque 1, Lessons 1–9) printed pp. 8–61; Civics/Global/Culture (Bloque 4, Lessons 30, 31, 33, 38) printed pp. 188–199, 206–211, 236–241; Geography pp. 64–124, 212–217; History pp. 126–186; Economics pp. 70–75, 180–185, 200–205, 218–235 Tally: 13 placements — 2 to existing lessons, 11 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras part 1 — culture-and-work/human-dignity-as-the-base-of-rights — Lección 2 Valorando nuestras habilidades — teaches: human abilities grow and weaken across a life, and human life has social value; with Kant, humanity itself is a dignity — a person may never be used only as a means, by others or by oneself; we hold value as juridical persons and as moral persons, which gives the right to a human life with dignity — Honduras Grade 9 G9 Student CCSS, printed p. 14 | Honduras, *G9 Student CCSS* (student book), Lección 2 Valorando nuestras habilidades — printed p. 14 |
+| Honduras's way — the books' own teaching way | Honduras — the books' own way of teaching (see below) |
+
+**Acceptance count: taught in 3 countries (Afghanistan, Morocco, Honduras).**
+
+Honduras's own way (Book 9): the cycle closes with vocation and rights — three full lessons on the generations of human rights (with Honduras's own record: the most-violated civil right is physical integrity; Garífuna and Miskito peoples organising for third-generation rights), then the UN from Honduras's seat and the country's foreign relations told through its border awards.
+
+Registry note: the original coined string `culture-and-work/human-dignity-as-the-base-of-rights` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/human-dignity`.
+
+Searchable tags: human dignity, Honduras, social studies, culture-and-work

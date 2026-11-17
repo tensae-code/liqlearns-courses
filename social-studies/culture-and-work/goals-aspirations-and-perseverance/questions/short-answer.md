@@ -1,0 +1,30 @@
+# Goals Aspirations and Perseverance — short answer
+
+Answer in a sentence or two.
+
+**1. (Sub lesson 1)** What does the first part of this lesson teach?
+**Answer: Lección 2 Mis aspiraciones — What I want to be when I grow up; the most important goal is becoming a better person who helps others; will, study, dedication and perseverance reach goals (any close wording).**
+
+**2. (Sub lesson 2)** What does the second part of this lesson teach?
+**Answer: Lección 1 Recuerdo e imagino — A life plan (plan de vida) — a detailed list of what I want in the future, with questions (what do I want to be, in how long, what service will I give others); a plan needs discipline, organisation, commitment, effort, responsibility and punctuality (any close wording).**
+
+**3. (Sub lesson 3)** What does the third part of this lesson teach?
+**Answer: Lección 2 La vida que yo quiero — Believe "sí podemos" — set personal objectives and fight for the life you want; never stop dreaming, because dreams become goals; positive attitudes and putting learning into practice bring success (any close wording).**
+
+**4. (Sub lesson 4)** What does the fourth part of this lesson teach?
+**Answer: Lección 1 Así quiero ser — A life project (proyecto de vida) organises the actions that reach our goals and must be realistic, accepting our potential and limits; Morazán, self-taught after only 18 months of school, is the model; parents are our first life models, and an autobiography gathers what identifies us as unique persons (any close wording).**
+
+**5. (Sub lesson 5)** What does the fifth part of this lesson teach?
+**Answer: Lección 1 Conociendo mis vocaciones — Vocation and profession — work done with vocation is done with greater care and enjoyed; pedagogy and psychology recommend the vocation be a personal, voluntary and rational decision; choosing a career by institutional offer rather than vocation is the error the lesson warns against, and adults are the examples for the decision (any close wording).**
+
+**6. (Sub lesson 6)** What does the sixth part of this lesson teach?
+**Answer: Lección 4 Construyendo un proyecto de vida — Life cannot be managed as a game of chance — a life project is the whole of what the person wants to be and what they will do, with the possibilities of achieving it; the lesson builds it with Robert Dilts's life-project tree and its formulating questions (what are our goals, what do we want to be after school and university, where are we going) (any close wording).**
+
+**7. (Sub lesson 7)** What does the seventh part of this lesson teach?
+**Answer: Lección 1, teoría adicional — Vocation is not a list to look up but a passion woken by doing many activities, and a person may hold several vocations at once; personal satisfaction in the work done well is self-realisation (autorrealización) — giving everything within our reach to make dreams and life projects concrete stage by stage — and the family's counsel, weighing each profession's pros and cons from its knowledge of the national occupational field, eases the choice (any close wording).**
+
+**8. (Sub lesson 8)** What does the eighth part of this lesson teach?
+**Answer: Secuencia 1 Vida y facetas — A professional is not only a title-holder — professionalism also means commitment, ethics and excellence in the work; beneath it stands the human vocation, an interior call, unique and unrepeatable in each person, to develop one's own potentialities in commitment to one's neighbour, the world and transcendence, not in selfish enclosure; a person holds not one vocation but many, and choosing a career weighs likings against abilities, economic and social possibilities and the participation in society the occupation allows — a choice without labour outlet ends in marginalisation and frustration, while recognition gratifies more than money (any close wording).**
+
+**9. (Sub lesson 9)** What does the ninth part of this lesson teach?
+**Answer: Honduras's way — the books' own teaching way — civics begins inside the child's own circles — feelings, family norms and tasks, classroom rules and school authorities, a rehearsal student-government election with a paper ballot, and only then the community's elected authorities (alcaldesa, regidores, patronato, junta de agua). Grade 2 turns civics municipal — the child learns the Corporación Municipal's full membership, the open town meeting (cabildo abierto), a citizen transparency commission, and the country's own Citizen Participation Law with its three instruments (cabildo abierto, plebiscite, citizen initiatives). Grade 4 widens civics to Central America and to rights as law — human rights with the Constitution's own Article 60 and the habeas corpus and amparo remedies, sex versus gender taught for equality, and Honduras's real civic organisations (CODEH, COFADEH, the unions) named as civil society. the cycle closes with vocation and rights — three full lessons on the generations of human rights (with Honduras's own record: the most-violated civil right is physical integrity; Garífuna and Miskito peoples organising for third-generation rights), then the UN from Honduras's seat and the country's foreign relations told through its border awards. the final guide deepens the pupil book's rights cycle into doctrine and machinery — the UN treaty bodies and the three pillars, the ancient sources of rights from Hammurabi to the Iroquois constitution, the 1966 Covenants — and widens Bloque 4 from the pupil book's UN seat to Honduras's own regional house: the OAS, ODECA and SICA, and a foreign-relations history that ends at the 1992 Hague judgment and the 2014 Isla Conejo dispute. the Telebásica twin of Grade 9 teaches the same cycle at a distance learner's pace, each sequence paired with its television programme — and it is the more Honduras-specific of the two books on rights: CONADEH's creation decrees dated one by one, women's suffrage won by Decree 29 of 1955 with the literacy limit named, and the protective laws listed with their La Gaceta dates. (any close wording).**
