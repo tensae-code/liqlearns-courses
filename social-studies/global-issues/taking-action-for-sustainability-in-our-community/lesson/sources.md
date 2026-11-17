@@ -1,0 +1,21 @@
+# Sources — Taking Action for Sustainability in Our Community
+
+countries: Tonga
+
+**Book 1:** *People and the Natural Environment in the Pacific* (student book, English) — Title as printed: People and the Natural Environment in the Pacific — A Social Studies related reader, Book 3 (Years 7–8). Grade: Years 7–8 (student/teacher: STUDENT). Publisher: UNESCO / Japanese Funds-in-Trust with the Institute of Education, University of the South Pacific (Tonga Campus); year 2020; no ISBN printed. PDF pages: 24 (cover verified against the record title). Earlier waves: not read before. Verdict: COMPLETE — read in full. Contents map: Culture in society printed pp. 5–6, 9, 14; Morals/Values (care for the environment as a duty to future generations) pp. 5, 15, 19; Science (named, not placed) pp. 1–4, 11–13, 17–18 (ecosystems, resources, farming methods, waste); Economics (named, not placed) pp. 7–8, 10 (subsistence, trade and cash crops). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/tonga-placements-b.md.
+
+**Book 2:** *Teacher Guide for the Science-Related & Social Studies-Related Primary School ESD Readers* (teacher guide, English) — Title as printed: Teacher Guide for the Science-Related & Social Studies-Related Primary School ESD Readers. Grade: Years 5/6 and 7/8 (student/teacher: TEACHER). Publisher: UNESCO / Japanese Funds-in-Trust with the Institute of Education, University of the South Pacific (Tonga Campus); year 2020; no ISBN printed. PDF pages: 48 (cover verified against the record title; contents run to the Glossary at printed p. 42). Earlier waves: not read before. Verdict: COMPLETE — read in full; placed only for its own teaching content (the ESD method and values it teaches teachers to teach), marked TEACHER. Its per-book notes (printed pp. 16–31) and curriculum links (pp. 32–40) are apparatus for Books 1–2 and the science readers, named here, not placed; the Glossary (p. 42) is inventory-only. Contents map: Morals/Values printed pp. 2–7; Civics/Citizenship (community action, lobbying government) pp. 3–4; Science/Geography apparatus pp. 8–41. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/tonga-placements-b.md. Teacher guide — evidence only, outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — global-issues/taking-action-for-sustainability-in-our-community — What can we do? — teaches: work as a team with elders, teachers, religious leaders, community members and family to name a local issue and act — fortnightly clean-ups, or a class letter to the government asking for recycling bins — Tonga Years 7–8 People and the Natural Environment, printed p. 19 | Tonga, *People and the Natural Environment in the Pacific* (student book), What can we do? — printed p. 19 |
+| Sub lesson 1 — global-issues/taking-action-for-sustainability-in-our-community — The action learning cycle — teaches: pupils identify a sustainability issue in their own community, explore the values in it, build a vision, choose an action with a decision-making grid (poster, beach clean-up, or lobbying the government to ban single-use plastics), act and reflect — Tonga ESD Teacher Guide, printed pp. 3–4, TEACHER (teacher guide — evidence) | Tonga, *Teacher Guide for the Science-Related & Social Studies-Related Primary School ESD Readers* (teacher guide), The action learning cycle — printed pp. 3–4 (teacher guide — evidence) |
+| Sub lesson 2 — Tonga's way — the book's own teaching way | Tonga — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Tonga) — counted on its student book. The Teacher Guide part is teacher-guide evidence only, counted nowhere beyond that.**
+
+Tonga's own way: land is ancestral and sacred — knowledge of it is an inheritance elders hand down, and using it well is a duty owed to grandchildren.
+
+Tonga's own way (teacher guide — evidence): the guide's "Notes for teachers in Tonga" tie the regional readers to Tonga's own classrooms; its method is head, heart and hands — knowledge, values and action together.
+
+Searchable tags: taking action for sustainability in our community, action learning cycle, Tonga, social studies, global-issues
