@@ -1,8 +1,8 @@
 # Sources — Eating a Balanced Diet
 
-countries: Turkmenistan, China
+countries: Turkmenistan, China, El Salvador
 
-**Acceptance count: taught in 2 countries.** Turkmenistan and China are filed as student-book stock, inside the acceptance count, in this lesson.
+**Acceptance count: taught in 3 countries.** Turkmenistan, China and El Salvador are filed as student-book stock, inside the acceptance count, in this lesson.
 
 **Book 1 — Bedenterbiýe (Physical Education) (student book — study guide for higher schools, Turkmen) — Health parts only:**
 - Title as printed: Bedenterbiýe — Ýokary okuw mekdepleri üçin okuw gollanmasy (Physical Education — a study guide for higher schools) (full header in turkmenistan-pe-placements.md, Book 1)
@@ -24,13 +24,30 @@ countries: Turkmenistan, China
 - China's own way: health is taught as behaviour-shaping — lifestyle and disease prevention first, then nutrition, environment, mental health and social adaptation, and a long practical safety section that runs from exercise-safety rules through injury treatment to CPR and AED use.
 - Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/china-health-placements.md (same book as in china-pe-placements.md, read once, Health parts filed in the Health file). Records 2–3 of the placements file are catalogue/notice records filed record-only in china-pe-placements.md (Ningxia selection-results notice; 2025 national catalogue excerpt) — catalogue evidence, not teaching books, with 0 placements here; nothing is stocked from them.
 
+**Book 3 — Ciencia, Salud y Medio Ambiente 1 (student book, Spanish):**
+- Title as printed: Ciencia, Salud y Medio Ambiente 1 (Colección Cipotas y Cipotes)
+- Grade: Grade 1 (student/teacher: STUDENT)
+- Publisher: Ministerio de Educación, El Salvador; year 2007 (1a. ed.); ISBN 978-99923-58-26-9
+- PDF pages: 128 (cover/title page verified against the record title — cover reads "Ciencia, Salud y Medio Ambiente 1")
+- Verdict: COMPLETE
+- Tally: 13 placements — 1 to existing lessons, 12 NEW LESSON NEEDED (incl. 1 HELD)
+- El Salvador's own way: health is taught inside the science book, one whole unit on preventing risks and disasters (tetanus, earthquakes, a safe classroom) and one on food — Salvadoran foods named throughout (pupusas, chipilín, flor de izote, garrobo) — plus a water unit that ends in personal hygiene habits.
+- Other subjects in this combined book, named not placed: Unit 1 "Así somos los seres vivos" — living beings, animals and plants (Science), printed pp. 8–34; Unit 2 Lessons 1, 3–4 — forms/colours/tastes, heat, sound (Science), printed pp. 35–39, 45–53; Unit 5 Lessons 2–3 — properties and states of water (Science), printed pp. 93–100; Unit 6 "La Tierra, nuestro gran hogar" — day/night, Sun, Moon, environment (Science), printed pp. 105–127.
+- Note: the secured books.json record for this book (grade-01/gov/el-salvador/science-and-technology/student/full-year.pdf, recorded in_pushed) is absent from the GitHub tree — grab.py tree returned 404. The book was read from the download-list link instead and the downloaded PDF has been staged back to that exact staging path under the push-don't-delete rule (see group log, library debts). The secured books.json record and the elsalvadoraprende download-list record are the same book, Ciencia, Salud y Medio Ambiente 1, as filed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/el-salvador-health-placements.md (Book 1 of that file).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The nutrition regime; Sub lesson 2 — The main composition of food; Sub lesson 3 — The hygiene characterisation of the main food products (original string `staying-safe/eating-well-basics-of-proper-nutrition`) | Turkmenistan, *Bedenterbiýe (Physical Education)*, Part XI, Foundations of Proper Nutrition, printed pp. 138–152 |
 | China — 第四章 第二节 营养与健康 — nutrients, dietary patterns, the Chinese dietary guidelines, keeping a healthy weight, nutrition for exercise, and drinking water well (original string `staying-safe/nutrition-and-healthy-eating`) | China, *普通高中教科书·体育与健康必修 全一册 (PEP Senior-High PE & Health, Compulsory, Complete Volume)*, 第四章 第二节 营养与健康， printed p. 58 |
+| El Salvador — Unit 4 Lesson 1 Las plantas y los animales que comemos — foods of animal origin (meat, milk, eggs) and plant origin (fruit, vegetables, grains), including Salvadoran foods such as pupusas, chipilín and flor de izote (original string `staying-safe/eating-healthy-food`) | El Salvador, *Ciencia, Salud y Medio Ambiente 1*, Unit 4 Lesson 1, printed pp. 66–70 |
+| El Salvador — Unit 4 Lesson 2 ¡Qué Delicia! — telling whether food is fresh and safe by its colour, smell and taste, and how these change when food is cooked (original string `staying-safe/eating-healthy-food`) | El Salvador, *Ciencia, Salud y Medio Ambiente 1*, Unit 4 Lesson 2, printed pp. 71–74 |
+| El Salvador — Unit 4 Lesson 3 Dulces que hacen daño — sweets and junk food (golosinas) have no nutrients; excess sugar and colourings can cause obesity and tooth decay, while fruit, vegetables and home food are nutritious (original string `staying-safe/sweets-and-junk-food-harm-the-body`) | El Salvador, *Ciencia, Salud y Medio Ambiente 1*, Unit 4 Lesson 3, printed pp. 75–78 |
 
 This is a canonical NEW lesson (slug-registry Part 1: `staying-safe/eating-a-balanced-diet` — Eating a balanced diet: the nutrients and food groups, what each does, and building balanced meals and menus); the Turkmenistan placement was filed under the original string `staying-safe/eating-well-basics-of-proper-nutrition`, resolved to this canonical slug by registry Part 2 and recorded in the provenance row above. The single placement was split by its three named parts — the nutrition regime, the main composition of food, and the hygiene characterisation of the main food products — all on the same source and printed pages, carried in one provenance row. Turkmenistan enters this lesson as student-book stock, inside the acceptance count. Turkmenistan's own way is content, as the book line above records it: health is taught inside the PE theory course as a closing block — what health is, how to eat properly, the habits that damage health, and the medical control that watches over mass sport.
 
 China is added as student-book stock (see its book line and row above), inside the acceptance count — the China book is a STUDENT book, so China is named in the countries line and provenance row and the acceptance count rises from 1 to 2 countries. The China placement was filed under the original string `staying-safe/nutrition-and-healthy-eating`, resolved to this canonical lesson by registry Part 2 and recorded in the provenance row above. China's own way is content, as the book line above records it: nutrition is taught through the Chinese dietary guidelines themselves, with keeping a healthy weight, nutrition for exercise, and drinking water well.
 
-Searchable tags: eating a balanced diet, foundations of proper nutrition, nutrition regime, main composition of food, hygiene characterisation of food products, Turkmenistan Bedenterbiýe, nutrition and healthy eating, Chinese dietary guidelines, healthy weight, nutrition for exercise, drinking water well, China Senior High PEP PE & Health
+El Salvador is added as student-book stock (see its book line and rows above), inside the acceptance count — the El Salvador book is a STUDENT book, so El Salvador is named in the countries line and provenance rows and the acceptance count rises from 2 to 3 countries. Two El Salvador placements were filed under the original string `staying-safe/eating-healthy-food` and one under `staying-safe/sweets-and-junk-food-harm-the-body`, all resolved by registry Part 2 to this canonical lesson and recorded in the provenance rows above. El Salvador's own way is content, as the book line above records it: Salvadoran foods are named throughout the food unit (pupusas, chipilín, flor de izote, garrobo).
+
+Searchable tags: eating a balanced diet, foundations of proper nutrition, nutrition regime, main composition of food, hygiene characterisation of food products, Turkmenistan Bedenterbiýe, nutrition and healthy eating, Chinese dietary guidelines, healthy weight, nutrition for exercise, drinking water well, China Senior High PEP PE & Health, foods of animal and plant origin, pupusas, chipilín, flor de izote, fresh and safe food, sweets and junk food golosinas, obesity tooth decay, El Salvador Ciencia Salud y Medio Ambiente 1

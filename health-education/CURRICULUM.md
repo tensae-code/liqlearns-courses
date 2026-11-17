@@ -285,6 +285,33 @@ catalogue/notice records filed record-only in the PE file with
 resolves to a PE-course lesson, so none was excluded as
 PE-bound.
 
+**Health expansion — El Salvador — BUILT 2026-11-16:** 17 placements
+stocked — 12 into existing lessons (Preventing Sports Injuries
+and First Aid ×2, Hygiene for Sport ×2, Staying Safe While
+Exercising ×1, Caring for My Senses ×2, Eating a Balanced Diet
+×3, Keeping My Body Clean ×1, Safe Water and Toilets ×1) and
+5 as 4 new lessons (Vaccines and Immunisation, Staying Safe in
+Disasters, Avoiding Accidents and Staying Safe, Food Hygiene
+and Safe Cooking) — bringing this course to **37 lessons**.
+Book 1, *Ciencia, Salud y Medio Ambiente 1* (Grade 1 student
+book, Spanish, Ministerio de Educación, 2007), is student-book
+stock, inside the acceptance counts; Book 2, *Guía
+Metodológica de Educación Física, Primer Ciclo* (Grades 1–3
+teacher guide, Spanish), is teacher-guide evidence only,
+outside the acceptance counts. Each new lesson stands at
+acceptance count 1; Preventing Sports Injuries and First Aid
+rose from 7 to 8 countries, Caring for My Senses from 1 to 2,
+Eating a Balanced Diet from 2 to 3, Keeping My Body Clean
+from 1 to 2, and Safe Water and Toilets from 0 to 1; Hygiene
+for Sport and Staying Safe While Exercising are unchanged
+(teacher-guide evidence only in this merge). The secured
+books.json record for Book 1 is absent from the GitHub tree
+(grab.py tree returned 404, as filed); the book was read from
+the download-list link and staged back to its staging path
+under the push-don't-delete rule. No El Salvador placement
+resolves to a PE-course lesson, so none was excluded as
+PE-bound.
+
 ## Unit 1 — Staying Safe
 
 1. **Hygiene for Sport — Wash After Exercise** (`staying-safe/hygiene-for-sport`) — personal hygiene around sport: sweat and dirt left unwashed become a breeding place for bacteria — so wash the body after PE and sport, keep sports…
@@ -316,6 +343,14 @@ PE-bound.
 24. **Knowing My Body** (`staying-safe/knowing-my-body`) — knowing my body: the parts and organs of the body and what each one does — taught in Afghanistan's Grade 7 PE Teacher Guide as the water inside the body: body water as 40–60% of body weight, water inside and outside the cells, where the body's water comes from (drinks, food, metabolic water), and a table of the water content of common foods (Afghanistan teacher guide, evidence only).
 
 25. **Caring for My Senses** (`staying-safe/caring-for-my-senses`) — caring for my senses: the five senses and looking after eyes, ears, nose, tongue and skin — taught in China's Senior High PEP PE & Health book as preventing serious eye disease and preventing eye injuries, inside the lifestyle-and-disease-prevention section (printed p. 56).
+
+26. **Vaccines and Immunisation** (`staying-safe/vaccines-and-immunisation`) — vaccines and immunisation: how vaccines protect, the immunisation schedule, and vaccination visits — taught in El Salvador's Grade 1 *Ciencia, Salud y Medio Ambiente 1* as what tetanus is, where its bacteria live (soil, dust, rusty metal), its symptoms, and that vaccination prevents it (Unit 3 Lesson 1, printed pp. 54–57).
+
+27. **Staying Safe in Disasters** (`staying-safe/staying-safe-in-disasters`) — staying safe in disasters: preparing for and acting in earthquakes, floods, hurricanes and other emergencies, mass-casualty response, and helping afterwards — taught in El Salvador's Grade 1 *Ciencia, Salud y Medio Ambiente 1* as what tremors and earthquakes are, keeping calm, sheltering beside a strong desk with hands over the head, and taking part in a drill (simulacro) (Unit 3 Lesson 2, printed pp. 58–61).
+
+28. **Avoiding Accidents and Staying Safe** (`staying-safe/avoiding-accidents-and-staying-safe`) — avoiding accidents and staying safe: hazards and dangerous objects at home, school and in the community, safety signs and protective gear, and making safe decisions — taught in El Salvador's Grade 1 *Ciencia, Salud y Medio Ambiente 1* as spotting dangerous places and objects in the classroom (glass windows, ceiling lamps, bookcases), never touching electric cables and sockets, and making "No tocar" danger signs (Unit 3 Lesson 3, printed pp. 62–65).
+
+29. **Food Hygiene and Safe Cooking** (`staying-safe/food-hygiene-and-safe-cooking`) — food hygiene and safe cooking: keeping food safe from contamination — handling, storing, cooking, foodborne illness, allergies, additives and preservation — taught in El Salvador's Grade 1 *Ciencia, Salud y Medio Ambiente 1* as flies carrying dysentery, typhoid fever and parasites on their legs onto food, keeping food covered, and hygiene when preparing food (washing and disinfecting vegetables, handwashing) (Unit 4 Lessons 4–5, printed pp. 79–86).
 
 ## Unit 2 — Fair Play and the Body
 

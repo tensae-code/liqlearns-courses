@@ -83,3 +83,13 @@ Senses** (`staying-safe/caring-for-my-senses`) and **Mental
 Health and Wellbeing**
 (`fair-play-and-the-body/mental-health-and-wellbeing`) —
 2 new lessons, bringing this course to 33 lessons.
+
+The Health expansion then added (El Salvador): **Vaccines
+and Immunisation** (`staying-safe/vaccines-and-immunisation`),
+**Staying Safe in Disasters**
+(`staying-safe/staying-safe-in-disasters`), **Avoiding
+Accidents and Staying Safe**
+(`staying-safe/avoiding-accidents-and-staying-safe`) and
+**Food Hygiene and Safe Cooking**
+(`staying-safe/food-hygiene-and-safe-cooking`) —
+4 new lessons, bringing this course to 37 lessons.
