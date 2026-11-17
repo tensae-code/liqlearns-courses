@@ -1,8 +1,8 @@
 # Sources — Eating a Balanced Diet
 
-countries: Turkmenistan, China, El Salvador, Oman, Zambia, Samoa, Timor-Leste, Bulgaria, Honduras, Philippines, Greece, Turkey, Zimbabwe, Sierra Leone, Pakistan, Malaysia, Papua New Guinea, Bhutan, Iran, Estonia, Vietnam, Thailand, Indonesia, Tanzania, Mauritius, Eritrea, Jamaica, Kuwait, Nepal, Maldives
+countries: Turkmenistan, China, El Salvador, Oman, Zambia, Samoa, Timor-Leste, Bulgaria, Honduras, Philippines, Greece, Turkey, Zimbabwe, Sierra Leone, Pakistan, Malaysia, Papua New Guinea, Bhutan, Iran, Estonia, Vietnam, Thailand, Indonesia, Tanzania, Mauritius, Eritrea, Jamaica, Kuwait, Nepal, Maldives, Sri Lanka
 
-**Acceptance count: taught in 20 countries.** Tanzania is added as student-book stock (see its Tanzania section below), inside the acceptance count. Zimbabwe is filed as teacher-guide evidence only in this lesson (see its Zimbabwe section below) — named in the countries line and provenance rows, but outside the acceptance count; no Zimbabwe pupil's book is stocked in this lesson. Honduras is filed as student-book stock, inside the acceptance count, in this lesson (see its Honduras section below). Bulgaria is filed as student-book stock, inside the acceptance count, in this lesson. Turkmenistan, China and El Salvador are filed as student-book stock, inside the acceptance count, in this lesson. Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count (still taught in 3 countries). Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Books 3, 4 and 5 are STUDENT books; Book 1, the Preschool Movement & Health teacher guide, is filed as teacher-guide evidence only, outside the count. Sierra Leone is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Sierra Leone rows (see its Sierra Leone section below). Pakistan is added as student-book stock (see its Pakistan section below), inside the acceptance count. Malaysia is filed as student-book stock, inside the acceptance count, in this lesson (see its Malaysia section below). Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — all five Bhutan books are STUDENT books. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Estonia is filed as teacher-guide evidence only in this lesson (see its Estonia section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is stocked in this lesson for Estonia. Vietnam is added as student-book stock (see its Vietnam section below), inside the acceptance count. Thailand is added as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count. The Indonesia teacher-guide rows in this lesson are filed as teacher-guide evidence only, outside the count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count; the Mauritius Grade 1 Educator's Book (Book 6) rows in this lesson are teacher-guide evidence only, outside the count — the country is counted once via its student books. Eritrea is added as student-book stock (see its Eritrea section below), inside the acceptance count — all three Eritrea books are STUDENT books. Jamaica is filed as curriculum-guide evidence only in this lesson (see its Jamaica section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Jamaica rows in this lesson — both read Jamaica books are curriculum guides (TEACHER). Kuwait is filed as teacher-guide evidence only in this lesson (see its Kuwait section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Kuwait rows in this lesson. Nepal is added as student-book stock (see its Nepal section below), inside the acceptance count. Maldives is filed as teacher-guide evidence only in this lesson (see its Maldives section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Maldives rows in this lesson.
+**Acceptance count: taught in 21 countries.** Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Tanzania is added as student-book stock (see its Tanzania section below), inside the acceptance count. Zimbabwe is filed as teacher-guide evidence only in this lesson (see its Zimbabwe section below) — named in the countries line and provenance rows, but outside the acceptance count; no Zimbabwe pupil's book is stocked in this lesson. Honduras is filed as student-book stock, inside the acceptance count, in this lesson (see its Honduras section below). Bulgaria is filed as student-book stock, inside the acceptance count, in this lesson. Turkmenistan, China and El Salvador are filed as student-book stock, inside the acceptance count, in this lesson. Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count (still taught in 3 countries). Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Books 3, 4 and 5 are STUDENT books; Book 1, the Preschool Movement & Health teacher guide, is filed as teacher-guide evidence only, outside the count. Sierra Leone is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Sierra Leone rows (see its Sierra Leone section below). Pakistan is added as student-book stock (see its Pakistan section below), inside the acceptance count. Malaysia is filed as student-book stock, inside the acceptance count, in this lesson (see its Malaysia section below). Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — all five Bhutan books are STUDENT books. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Estonia is filed as teacher-guide evidence only in this lesson (see its Estonia section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is stocked in this lesson for Estonia. Vietnam is added as student-book stock (see its Vietnam section below), inside the acceptance count. Thailand is added as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count. The Indonesia teacher-guide rows in this lesson are filed as teacher-guide evidence only, outside the count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count; the Mauritius Grade 1 Educator's Book (Book 6) rows in this lesson are teacher-guide evidence only, outside the count — the country is counted once via its student books. Eritrea is added as student-book stock (see its Eritrea section below), inside the acceptance count — all three Eritrea books are STUDENT books. Jamaica is filed as curriculum-guide evidence only in this lesson (see its Jamaica section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Jamaica rows in this lesson — both read Jamaica books are curriculum guides (TEACHER). Kuwait is filed as teacher-guide evidence only in this lesson (see its Kuwait section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Kuwait rows in this lesson. Nepal is added as student-book stock (see its Nepal section below), inside the acceptance count. Maldives is filed as teacher-guide evidence only in this lesson (see its Maldives section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Maldives rows in this lesson.
 
 **Book 1 — Bedenterbiýe (Physical Education) (student book — study guide for higher schools, Turkmen) — Health parts only:**
 - Title as printed: Bedenterbiýe — Ýokary okuw mekdepleri üçin okuw gollanmasy (Physical Education — a study guide for higher schools) (full header in turkmenistan-pe-placements.md, Book 1)
@@ -1152,3 +1152,242 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/nepal-health
 | Nepal — Food and Nutrition — food, nutrition and the nutrients: carbohydrates, fats, proteins, minerals and vitamins (chapter read only in part, to printed p. 50) (original string `HELD-title-decision`) | Nepal 5 Health, Physical Education and Creative Arts (Kafle), printed p. 46 (PARTIAL as filed) |
 
 Nepal is added as student-book stock (see its book lines and rows above), inside the acceptance count — all four Nepal books are STUDENT books, so Nepal is named in the countries line and provenance rows and the acceptance count rises from 19 to 20 countries. The Nepal placement(s) in this lesson filed as HELD-title-decision lines were resolved to this canonical lesson by registry Part 2B from their HELD descriptions, and placements filed directly under this lesson's own slug are recorded as filed; the original string is recorded in each provenance row above. Nepal's own way is content, as the book lines above record it: Health is taught inside combined CDC books on a nine-part spine repeated and deepened by grade, with Nepal's own ladder of health posts and hospitals named in the community-health lessons. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+## Sri Lanka — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/sri-lanka-health-placements.md. 20 Sri Lanka placement(s) stocked in this lesson. The Sri Lanka book(s) stocked in this lesson: Book 1, Book L1, Book L3, Book L5, Book L6, Book L7, Book L8, Book L9, Book L10, Book 7, Book L11, Book L12, Book L13, Book L14, Book L15, Book L16, Book L17, Book 8, Book 9 of that file. Sri Lanka is student-book stock, inside the acceptance count, in this lesson; the teacher-guide books stocked here (where present) are teacher-guide evidence only, outside the count, and their rows are marked (teacher guide — evidence). Book 7 is PARTIAL as filed — image-only Tamil scan: cover, full contents and sampled chapter openings read; placed at chapter level; Book 8 is PARTIAL as filed — image-only Tamil scan: cover and full contents read; placed at unit level; Book 9 is PARTIAL as filed — image-only Tamil scan: cover, imprint and the full five-part contents read from rendered pages and placed at part level; not every interior page was read, and those labels are kept as filed. Books 4 and 5 of that file are parallel Sinhala/Tamil editions of Book 3 with 0 placements, placed once under Book 3, and Book L4 is a parallel edition of the Grade 7 book with no duplicate placements — nothing stocked from them separately. The record-only items of that file (the govdoc.lk category-page records, and the 3 Noolaham records duplicated by secured books) carry 0 placements — nothing stocked from them. No Sri Lanka placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 1 — Grade 7 HPE English (student book, English):**
+- Title as printed: Health and Physical Education, Grade 7
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; year 2015 (fifth print 2019); ISBN 978-955-25-0112-8
+- PDF pages: 186 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 8 placements — 0 to existing lessons, 8 NEW LESSON NEEDED (2 of them HELD-title-decision)
+- Sri Lanka's own way: Health is taught through the family and home first (healthy family environment, love and protection), then food, the body, emotions, adolescence and disease prevention, in the same combined book as PE.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch.9 Let us develop healthy eating habits — healthy diet, food groups, fibre and building balanced eating habits (original string `staying-safe/healthy-eating-habits-and-balanced-diet`) | Sri Lanka Grade 7 HPE English, printed p. 82 |
+
+**Book L1 — G11 English student book (student book, English) [group lk-l]:**
+- Title as printed: Health and Physical Education — Grade 11
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; first print 2015 (this file: fourth print 2019); ISBN 978-955-25-0335-1
+- PDF pages: 210 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 7 placements — 0 to existing lessons, 7 NEW LESSON NEEDED (1 of them HELD-title-decision) (PE parts of this combined book are filed in the PE placements file, Book L1)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 11 "Let us consume nutritious food for a healthy life" — nutrients, balanced meals and eating for health (original string `staying-safe/nutritious-food-for-a-healthy-life`) | Sri Lanka Grade 11 G11 English student book, printed p. 111 |
+
+**Book L3 — G6 HPE Sinhala + Tamil (student book, Sinhala/Tamil parallel editions) [group lk-l]:**
+- Title as printed: Health and Physical Education — Grade 6 (Sinhala medium; Tamil medium)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; Sinhala ed. ISBN 978-955-25-0261-3; Tamil ed. ISBN 978-955-25-0085-5 (prints 2014–2019)
+- PDF pages: Sinhala 158, Tamil 184 (covers verified; archive.org records 6 and 7 in targets-lk-l)
+- Verdict: COMPLETE — parallel editions, placed once (see PE file, Book L3, for the read method)
+- Tally: 5 placements — 0 to existing lessons, 5 NEW LESSON NEEDED (PE parts filed in the PE placements file, Book L3)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 7 — choosing correct food for a healthy life (continues the new healthy-eating lesson opened by the Grade 7 book) (original string `staying-safe/healthy-eating-habits-and-balanced-diet`) | Sri Lanka Grade 6 G6 Sinhala/Tamil student book, printed p. 97 |
+
+**Book L5 — G8 HPE Tamil + Sinhala (student book, Tamil/Sinhala parallel editions) [group lk-l]:**
+- Title as printed: Health and Physical Education — Grade 8 (Tamil medium; Sinhala medium)
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; Tamil ed. ISBN 978-955-25-0139-5 (first print 2016; this file 2019 print)
+- PDF pages: Tamil 210, Sinhala 216 (covers verified; archive.org records 15/16 = edupub.gov.lk records 3/4, read once)
+- Verdict: COMPLETE (see PE file, Book L5, for the read method; a different edition from lk-t's secured 2021 Tamil edition)
+- Tally: 6 placements — 1 to an existing lesson, 5 NEW LESSON NEEDED (PE parts filed in the PE placements file, Book L5)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 6 — food choices for health: junk food and fast food and their effects (original string `staying-safe/choosing-food-and-avoiding-junk-food`) | Sri Lanka Grade 8 G8 Tamil/Sinhala student book, printed p. 53 |
+
+**Book L6 — G9 HPE Sinhala + Tamil (student book, Sinhala/Tamil parallel editions) [group lk-l]:**
+- Title as printed: Health and Physical Education — Grade 9 (Sinhala medium; Tamil medium)
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; Sinhala ed. ISBN 978-955-25-0371-9 (2017); Tamil ed. ISBN 978-955-25-0169-2 (2017)
+- PDF pages: Sinhala 222, Tamil 244 (covers verified; archive.org records 27/28 = edupub record 5 for the Tamil book, read once)
+- Verdict: COMPLETE — parallel editions (see PE file, Book L6)
+- Tally: 9 placements — 0 to existing lessons, 9 NEW LESSON NEEDED (1 of them HELD-title-decision) (PE parts filed in the PE placements file, Book L6)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 10 — identifying nutritional needs and meeting them (continues the new healthy-eating lesson) (original string `staying-safe/healthy-eating-habits-and-balanced-diet`) | Sri Lanka Grade 9 G9 Sinhala/Tamil student book, printed p. 78 |
+| Sri Lanka — Ch. 15 — food from our own surroundings: local foods and their nutrition (continues the new healthy-eating lesson) (original string `staying-safe/healthy-eating-habits-and-balanced-diet`) | Sri Lanka Grade 9 G9 Sinhala/Tamil student book, printed p. 139 |
+
+**Book L7 — G10 HPE Sinhala + Tamil (student book, Sinhala/Tamil parallel editions) [group lk-l]:**
+- Title as printed: Health and Physical Education — Grade 10 (Sinhala medium; Tamil medium)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; Sinhala ed. ISBN 978-955-25-0401-3; Tamil ed. ISBN 978-955-25-0213-2 (prints 2014–2019)
+- PDF pages: Sinhala 238, Tamil 256 (covers verified; archive.org records 29/30 in targets-lk-l)
+- Verdict: COMPLETE — parallel editions; Chapter 6 already placed from the English edition (Book L2 in both files) and not re-placed here
+- Tally: 7 placements — 0 to existing lessons, 7 NEW LESSON NEEDED (PE parts filed in the PE placements file, Book L7)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 7 — taking correct nutrition (continues the new healthy-eating lesson) (original string `staying-safe/healthy-eating-habits-and-balanced-diet`) | Sri Lanka Grade 10 G10 Sinhala/Tamil student book, printed p. 129 |
+
+**Book L8 — Piriven G3 HPE (student book, Sinhala) [group lk-l]:**
+- Title as printed: Health and Physical Education — Grade 3, Piriven textbook (Sinhala medium)
+- Grade: 3 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department, Piriven textbook series (served by govdoc.lk); no imprint page in the file; no ISBN printed in the file
+- PDF pages: 138 (first page verified visually: Chapter 1 opening, printed p. 1; govdoc record E7-14 in targets-lk-l)
+- Verdict: COMPLETE — primary-level health book (the Piriven primary series teaches health almost entirely; no PE/games chapters). Read via chapter-opening pages and sampled spreads across all 8 chapters.
+- Tally: 10 placements — 1 to an existing lesson, 9 NEW LESSON NEEDED (3 of them HELD-title-decision). PE file: Book L8 records 0 PE placements.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 2 — the food and nutrition system: what food does for the body (continues the new healthy-eating lesson) (original string `staying-safe/healthy-eating-habits-and-balanced-diet`) | Sri Lanka Grade 3 Piriven G3 student book, printed p. 23 |
+
+**Book L9 — Piriven G4 HPE (student book, Sinhala) [group lk-l]:**
+- Title as printed: Health and Physical Education — Grade 4, Piriven textbook (Sinhala medium)
+- Grade: 4 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department, Piriven textbook series (served by govdoc.lk); no imprint page in the file; no ISBN printed in the file
+- PDF pages: 145 (first pages verified; govdoc record E7-24 in targets-lk-l)
+- Verdict: COMPLETE — primary health book, no PE/games chapters. Read via chapter openings and sampled spreads across all 7 chapters (disease lists read in full — they name each disease with its prevention steps).
+- Tally: 8 placements — 1 to an existing lesson, 7 NEW LESSON NEEDED. PE file: Book L9 records 0 PE placements.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 3 — food and nutrition: nutrients in food, balanced meals, natural food and keeping food safe (continues the new healthy-eating lesson) (original string `staying-safe/healthy-eating-habits-and-balanced-diet`) | Sri Lanka Grade 4 Piriven G4 student book, printed p. 35 |
+
+**Book L10 — Piriven G5 HPE (student book, Sinhala) [group lk-l]:**
+- Title as printed: Health and Physical Education — Grade 5, Piriven textbook (Sinhala medium)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department, Piriven textbook series (served by govdoc.lk); no imprint page in the file; no ISBN printed in the file
+- PDF pages: 175 (first page verified visually: Chapter 1 opening, printed p. 1; govdoc record E7-35 in targets-lk-l)
+- Verdict: COMPLETE — primary health book built around the body systems, no PE/games chapters. Read via chapter openings and sampled spreads across all 14 chapters.
+- Tally: 14 placements — 1 to an existing lesson, 13 NEW LESSON NEEDED (6 of them HELD-title-decision). PE file: Book L10 records 0 PE placements.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 2 — balanced diet and food hygiene (continues the new healthy-eating lesson) (original string `staying-safe/healthy-eating-habits-and-balanced-diet`) | Sri Lanka Grade 5 Piriven G5 student book, printed p. 10 |
+
+**Book 7 — Grade 8 HPE Tamil (student book, Tamil):**
+- Title as printed: Health and Physical Education (சுகாதாரமும் உடற்கல்வியும்), Grade 8 [Tamil cover verified]
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; year 2021 (per record); ISBN no ISBN printed in the pages sampled
+- PDF pages: 214 (cover and contents verified; Noolaham source copy, GitHub tree route 404 — see group log)
+- Verdict: PARTIAL — image-only Tamil scan: cover, full contents and sampled chapter openings read; placed at chapter level
+- Tally: 4 placements — 0 to existing lessons, 4 NEW LESSON NEEDED
+- Sri Lanka's own way: Grade 8 health centres on self-esteem, a healthy school environment, reproductive health and food quality.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch.14 Let us maintain the nutritional quality of food — keeping the nutritional quality of food (original string `staying-safe/maintaining-nutritional-quality-of-food`) | Sri Lanka Grade 8 HPE Tamil, printed p. 175 (contents) |
+
+**Book L11 — G7 TG 2016 English + Tamil (teacher guide, English/Tamil parallel editions) [group lk-l]:**
+- Title as printed: Health and Physical Education — Teacher's Guide, Grade 7 (effective from 2016)
+- Grade: 7 (student/teacher: TEACHER)
+- Publisher: National Institute of Education; 2016; no ISBN printed
+- PDF pages: English 129, Tamil 128 (nie.lk records e7tim155 / t7tim155 in targets-lk-l)
+- Verdict: COMPLETE — parallel editions; English read, Tamil spot-checked (see PE file, Book L11)
+- Tally: 5 placements — 0 to existing lessons, 5 NEW LESSON NEEDED (1 of them HELD-title-decision) (PE parts filed in the PE placements file, Book L11)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Competency 7 — teaching good eating: what a meal should contain (continues the new healthy-eating lesson) (original string `staying-safe/healthy-eating-habits-and-balanced-diet`) | Sri Lanka Grade 7 G7 TG 2016 English, syllabus printed pp. xi–xxxii (teacher guide — evidence) |
+
+**Book L12 — G7 TG old syllabus English 2008 + Tamil 2007 (teacher guide, English/Tamil parallel editions) [group lk-l]:**
+- Title as printed: Health & Physical Education — Teacher's Guide, Grade 7 (2007 syllabus)
+- Grade: 7 (student/teacher: TEACHER)
+- Publisher: National Institute of Education; English ed. 2008, Tamil ed. 2007; no ISBN printed
+- PDF pages: English 221, Tamil 259 (nie.lk records e7tim20 / t7tim20 in targets-lk-l)
+- Verdict: COMPLETE — old-syllabus edition, filed separately (see PE file, Book L12)
+- Tally: 3 placements — 0 to existing lessons, 3 NEW LESSON NEEDED
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — food competency — teaching food and nutrition under the 2007 syllabus (continues the new healthy-eating lesson) (original string `staying-safe/healthy-eating-habits-and-balanced-diet`) | Sri Lanka Grade 7 G7 TG 2008 English, detailed syllabus (teacher guide — evidence) |
+
+**Book L13 — G8 TG new 2017 English + Tamil (teacher guide, English/Tamil parallel editions) [group lk-l]:**
+- Title as printed: Health and Physical Education — Teacher's Guide, Grade 8 (new)
+- Grade: 8 (student/teacher: TEACHER)
+- Publisher: National Institute of Education; 2017; no ISBN printed
+- PDF pages: English 133, Tamil 148 (nie.lk records Health_TG_Gr_8_English_new / Health_TG_8_Tamil_new in targets-lk-l)
+- Verdict: COMPLETE — parallel editions; English read, Tamil spot-checked (see PE file, Book L13)
+- Tally: 5 placements — 0 to existing lessons, 5 NEW LESSON NEEDED (PE parts filed in the PE placements file, Book L13)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Competency 7 — teaching suitable food: nutritional requirements and preserving food while protecting its nutrition (continues the new healthy-eating lesson) (original string `staying-safe/healthy-eating-habits-and-balanced-diet`) | Sri Lanka Grade 8 G8 TG 2017 English, syllabus printed p. xi ff. (teacher guide — evidence) |
+
+**Book L14 — G8 TG old syllabus Tamil 2009 (teacher guide, Tamil) [group lk-l]:**
+- Title as printed: Health & Physical Education — Teacher's Guide, Grade 8 (2007 syllabus, Tamil medium)
+- Grade: 8 (student/teacher: TEACHER)
+- Publisher: National Institute of Education; 2009; no ISBN printed
+- PDF pages: 245 (nie.lk record t8tim20 in targets-lk-l)
+- Verdict: COMPLETE as the old-syllabus Tamil guide (see PE file, Book L14)
+- Tally: 3 placements — 0 to existing lessons, 3 NEW LESSON NEEDED
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — food competency — teaching food and nutrition (continues the new healthy-eating lesson) (original string `staying-safe/healthy-eating-habits-and-balanced-diet`) | Sri Lanka Grade 8 G8 TG 2009 Tamil, detailed syllabus (teacher guide — evidence) |
+
+**Book L15 — G10 TG 2015 English + Tamil (teacher guide, English/Tamil parallel editions) [group lk-l]:**
+- Title as printed: Health & Physical Education — Teacher's Guide, Grade 10 (2015)
+- Grade: 10 (student/teacher: TEACHER)
+- Publisher: National Institute of Education; 2015; no ISBN printed
+- PDF pages: English 193, Tamil 199 (nie.lk records e10tim116 / t10tim116 in targets-lk-l)
+- Verdict: COMPLETE — parallel editions; English read, Tamil spot-checked (see PE file, Book L15)
+- Tally: 5 placements — 1 to an existing lesson, 4 NEW LESSON NEEDED (PE parts filed in the PE placements file, Book L15)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Competency 7 — teaching consumption of nutritious food (continues the new healthy-eating lesson) (original string `staying-safe/healthy-eating-habits-and-balanced-diet`) | Sri Lanka Grade 10 G10 TG 2015 English, syllabus printed pp. ix–xxvii (teacher guide — evidence) |
+
+**Book L16 — G11 TG 2016 English + Tamil (teacher guide, English/Tamil parallel editions) [group lk-l]:**
+- Title as printed: Health and Physical Education — Teacher's Guide, Grade 11 (effective from 2016)
+- Grade: 11 (student/teacher: TEACHER)
+- Publisher: National Institute of Education; 2016; no ISBN printed
+- PDF pages: English 109, Tamil 146 (nie.lk records e11tim155 / t11tim155 in targets-lk-l)
+- Verdict: COMPLETE — parallel editions; English read, Tamil spot-checked (see PE file, Book L16)
+- Tally: 5 placements — 0 to existing lessons, 5 NEW LESSON NEEDED (PE parts filed in the PE placements file, Book L16)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Competency 7 — teaching hygienic food consumption: selecting natural food fit for consumption over processed food (continues the new lesson) (original string `staying-safe/nutritious-food-for-a-healthy-life`) | Sri Lanka Grade 11 G11 TG 2016 English, syllabus printed pp. xi–xxiii (teacher guide — evidence) |
+
+**Book L17 — G6 TG 2015 Tamil (teacher guide, Tamil) [group lk-l]:**
+- Title as printed: Health & Physical Education — Teacher's Guide, Grade 6 (new, 2015; Tamil medium)
+- Grade: 6 (student/teacher: TEACHER)
+- Publisher: National Institute of Education; 2015; no ISBN printed
+- PDF pages: 133 (nie.lk record t6tim116 in targets-lk-l)
+- Verdict: COMPLETE (see PE file, Book L17)
+- Tally: 4 placements — 0 to existing lessons, 4 NEW LESSON NEEDED (PE parts filed in the PE placements file, Book L17)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — food competency — teaching food and nutrition (continues the new healthy-eating lesson) (original string `staying-safe/healthy-eating-habits-and-balanced-diet`) | Sri Lanka Grade 6 G6 TG 2015 Tamil, syllabus (teacher guide — evidence) |
+
+**Book 8 — Grade 6 HPE Tamil 2007 (student book, Tamil):**
+- Title as printed: Health and Physical Education (சுகாதாரமும் உடற்கல்வியும்), Grade 6 [Tamil cover verified]
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; year 2007 (second edition, per record); ISBN no ISBN printed in the pages sampled
+- PDF pages: 52 (cover and contents verified; byte size matches the record's approval note; Noolaham source copy, GitHub tree route 404 — see group log)
+- Verdict: PARTIAL — image-only Tamil scan: cover and full contents read; placed at unit level
+- Tally: 10 placements — 0 to existing lessons, 10 NEW LESSON NEEDED (2 of them HELD-title-decision)
+- Sri Lanka's own way: Health begins in Grade 6 with the healthy society, healthy living, suitable food, the marvellous body, diseases and emotional balance.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Unit 8.0 — choosing foods suitable for a healthy life (original string `staying-safe/healthy-eating-habits-and-balanced-diet`) | Sri Lanka Grade 6 HPE Tamil 2007, printed p. 23 |
+
+**Book 9 — Grades 9–10 Health Education Tamil 1984 (student book, Tamil):**
+- Title as printed: Health Education (சுகாதாரக் கல்வி) [Tamil cover verified]
+- Grade: 9–10 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department (printed at the Government Press); year 1984 (first edition, per imprint); ISBN no ISBN printed
+- PDF pages: 244 (cover, imprint and full contents verified; Noolaham source copy, GitHub tree route 404 — see group log)
+- Verdict: PARTIAL — image-only Tamil scan: cover, imprint and the full five-part contents read from rendered pages and placed at part level; not every interior page was read. Pure Health Education — no PE parts (see the PE file's record-only entry).
+- Tally: 6 placements — 1 to existing lessons, 5 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- Sri Lanka's own way: The 1984 health textbook is a full medical-foundations course for Grades 9–10: anatomy and physiology first, then food, diseases, water and sanitation, and a long practical first-aid section.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Part III — nutrients and deficiency, milk, food hygiene, malnutrition, food poisoning and food preservation (original string `staying-safe/nutrition-food-hygiene-and-deficiency`) | Sri Lanka Grades 9–10 Health Education Tamil 1984, printed pp. 90–110 |
+
+Sri Lanka is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the student book(s) stocked here are Book 1, Book L1, Book L3, Book L5, Book L6, Book L7, Book L8, Book L9, Book L10, Book 7, Book 8, Book 9, so Sri Lanka is named in the countries line and provenance rows and the acceptance count rises from 20 to 21 countries; the teacher-guide rows, where present, are teacher-guide evidence only, outside the count. The Sri Lanka placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Sri Lanka's own way is content, as the book lines above record it: health is taught through the family and home first, then food, the body, emotions, adolescence and disease prevention, widening to the whole community and society, with the Piriven primary books teaching health almost entirely and the 1984 Grades 9–10 book teaching a full medical-foundations course. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.

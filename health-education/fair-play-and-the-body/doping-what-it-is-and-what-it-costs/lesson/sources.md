@@ -1,6 +1,6 @@
 # Sources — Doping — What It Is and What It Costs
 
-countries: Ethiopia, China, Honduras, Greece, Pakistan, Papua New Guinea, Estonia, Mauritius
+countries: Ethiopia, China, Honduras, Greece, Pakistan, Papua New Guinea, Estonia, Mauritius, Sri Lanka
 
 **Book 1:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–106 + front matter (114 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md.
 
@@ -195,3 +195,21 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/mauritius-he
 Mauritius is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — Book 5 is a STUDENT book, so Mauritius is named in the countries line and provenance rows and the acceptance count rises from 5 to 6 countries. The Mauritius placement in this lesson was filed directly under this lesson's own slug (`fair-play-and-the-body/doping-what-it-is-and-what-it-costs`), recorded as filed, and the original string is recorded in the provenance row above. Mauritius's own way is content, as the book lines above record it. This lesson teaches its placement only as the placements file summarises it, and names nothing the summary does not name.
 
 Searchable tags: doping ዶፒንግ, performance-enhancing substances አበረታች ቅመማዎች, clean sport, WADA 1999, IOC medical commission 1967, Mexico 1968 tests, Ethiopia anti-doping office proclamation 400/2009, doping harms sanctions, Ethiopia HPE Grades 5–7, what doping is, doping violation, China Senior High PEP PE & Health, tabaquismo smoking addiction heart rate blood pressure sudden death, alcohol harm to physical capacities, harmful habits sedentarism smoking alcoholism bad eating habits, Honduras Telebásica Grade 9, true athletes do not cheat, supplements hiding banned substances, doping in sport Φαρμακοδιέγερση, blood doping, anabolics growth plates, diuretics, Greece Grades 5-6 Fysiki Agogi E-ST, Greece Grades 7-9 Fysiki Agogi Gymnasiou, doping, Pakistan Grade 12 Sehat-o-Jismani Taleem, Papua New Guinea, Papua New Guinea Grade 9 PE TG Grade 9, Estonia, Toitumine ja liikumine, Digiõpik Lesson 24, Mauritius, Mauritius HPE, Mauritius Institute of Education, MIE
+
+## Sri Lanka — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/sri-lanka-health-placements.md. 1 Sri Lanka placement(s) stocked in this lesson. The Sri Lanka book(s) stocked in this lesson: Book L2 of that file. Sri Lanka is student-book stock, inside the acceptance count, in this lesson; the teacher-guide books stocked here (where present) are teacher-guide evidence only, outside the count, and their rows are marked (teacher guide — evidence). Book L2 is PARTIAL as filed — the edupub record serves Chapter 6 only, not the whole Grade 10 English book, and those labels are kept as filed. Books 4 and 5 of that file are parallel Sinhala/Tamil editions of Book 3 with 0 placements, placed once under Book 3, and Book L4 is a parallel edition of the Grade 7 book with no duplicate placements — nothing stocked from them separately. The record-only items of that file (the govdoc.lk category-page records, and the 3 Noolaham records duplicated by secured books) carry 0 placements — nothing stocked from them. No Sri Lanka placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book L2 — G10 English Chapter 6 only (student book, English) [group lk-l]:**
+- Title as printed: Health and Physical Education — Grade 10, Chapter 6 "Let us adhere to rules, regulations and ethics in sports"
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; year not printed in the chapter file; no ISBN printed in the chapter file
+- PDF pages: 16 (first page verified visually: chapter opening, printed p. 111; file runs printed pp. 111–126)
+- Verdict: PARTIAL — the edupub record serves Chapter 6 only, not the whole Grade 10 English book
+- Tally: 1 placement — 1 to an existing lesson, 0 NEW LESSON NEEDED (PE parts are filed in the PE placements file, Book L2)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 6, "Sports and doping" — what doping is, why athletes do it and what it costs them and the sport (original string `fair-play-and-the-body/doping-what-it-is-and-what-it-costs`) | Sri Lanka Grade 10 G10 English student book Ch. 6, printed p. 120 |
+
+Sri Lanka is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the student book(s) stocked here are Book L2, so Sri Lanka is named in the countries line and provenance rows and the acceptance count rises from 6 to 7 countries; the teacher-guide rows, where present, are teacher-guide evidence only, outside the count. The Sri Lanka placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Sri Lanka's own way is content, as the book lines above record it: health is taught through the family and home first, then food, the body, emotions, adolescence and disease prevention, widening to the whole community and society, with the Piriven primary books teaching health almost entirely and the 1984 Grades 9–10 book teaching a full medical-foundations course. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.

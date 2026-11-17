@@ -1,8 +1,8 @@
 # Sources — Preventing Common Diseases
 
-countries: Namibia, China, Rwanda, Zambia, Timor-Leste, Bulgaria, Philippines, Turkey, Papua New Guinea, Iran, Thailand, Indonesia, Mauritius, Eritrea, Nepal, Maldives, United Arab Emirates
+countries: Namibia, China, Rwanda, Zambia, Timor-Leste, Bulgaria, Philippines, Turkey, Papua New Guinea, Iran, Thailand, Indonesia, Mauritius, Eritrea, Nepal, Maldives, United Arab Emirates, Sri Lanka
 
-**Acceptance count: taught in 12 countries.** United Arab Emirates is added as student-book stock (see its United Arab Emirates section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Bulgaria is filed as student-book stock, inside the acceptance count, in this lesson. Namibia and Rwanda are filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. China is filed as student-book stock, inside the acceptance count, in this lesson. Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count (still taught in 1 country). Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book. Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Thailand is added as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count — Book 7, the Pupil's Activity Book, is a student book; the Book 2 Teacher's Book row is teacher-guide evidence only, outside the count. Eritrea is added as student-book stock (see its Eritrea section below), inside the acceptance count — all three Eritrea books are STUDENT books. Nepal is added as student-book stock (see its Nepal section below), inside the acceptance count. Maldives is filed as teacher-guide evidence only in this lesson (see its Maldives section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Maldives rows in this lesson.
+**Acceptance count: taught in 13 countries.** Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. United Arab Emirates is added as student-book stock (see its United Arab Emirates section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Bulgaria is filed as student-book stock, inside the acceptance count, in this lesson. Namibia and Rwanda are filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. China is filed as student-book stock, inside the acceptance count, in this lesson. Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count (still taught in 1 country). Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book. Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Thailand is added as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count — Book 7, the Pupil's Activity Book, is a student book; the Book 2 Teacher's Book row is teacher-guide evidence only, outside the count. Eritrea is added as student-book stock (see its Eritrea section below), inside the acceptance count — all three Eritrea books are STUDENT books. Nepal is added as student-book stock (see its Nepal section below), inside the acceptance count. Maldives is filed as teacher-guide evidence only in this lesson (see its Maldives section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Maldives rows in this lesson.
 
 **Book 1 — Physical Education 4 Life: A Guide for Physical Education Teachers in Namibia, Grades 10–11 (teacher guide, English) — Health parts:**
 - Title as printed: Physical Education 4 Life — A Guide for Physical Education Teachers in Namibia — Grades 10–11
@@ -583,3 +583,132 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/nepal-health
 | Nepal — Communicable Diseases — what makes a disease communicable; tuberculosis, whooping cough, measles and cholera: signs and prevention (original string `HELD-title-decision`) | Nepal 5 My Science, Health and Physical Education, printed p. 103 |
 
 Nepal is added as student-book stock (see its book lines and rows above), inside the acceptance count — all four Nepal books are STUDENT books, so Nepal is named in the countries line and provenance rows and the acceptance count rises from 10 to 11 countries. The Nepal placement(s) in this lesson filed as HELD-title-decision lines were resolved to this canonical lesson by registry Part 2B from their HELD descriptions, and placements filed directly under this lesson's own slug are recorded as filed; the original string is recorded in each provenance row above. Nepal's own way is content, as the book lines above record it: Health is taught inside combined CDC books on a nine-part spine repeated and deepened by grade, with Nepal's own ladder of health posts and hospitals named in the community-health lessons. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+## Sri Lanka — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/sri-lanka-health-placements.md. 11 Sri Lanka placement(s) stocked in this lesson. The Sri Lanka book(s) stocked in this lesson: Book L3, Book L5, Book L7, Book L9, Book L12, Book L13, Book L14, Book L17, Book 8, Book 9 of that file. Sri Lanka is student-book stock, inside the acceptance count, in this lesson; the teacher-guide books stocked here (where present) are teacher-guide evidence only, outside the count, and their rows are marked (teacher guide — evidence). Book 8 is PARTIAL as filed — image-only Tamil scan: cover and full contents read; placed at unit level; Book 9 is PARTIAL as filed — image-only Tamil scan: cover, imprint and the full five-part contents read from rendered pages and placed at part level; not every interior page was read, and those labels are kept as filed. Books 4 and 5 of that file are parallel Sinhala/Tamil editions of Book 3 with 0 placements, placed once under Book 3, and Book L4 is a parallel edition of the Grade 7 book with no duplicate placements — nothing stocked from them separately. The record-only items of that file (the govdoc.lk category-page records, and the 3 Noolaham records duplicated by secured books) carry 0 placements — nothing stocked from them. No Sri Lanka placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book L3 — G6 HPE Sinhala + Tamil (student book, Sinhala/Tamil parallel editions) [group lk-l]:**
+- Title as printed: Health and Physical Education — Grade 6 (Sinhala medium; Tamil medium)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; Sinhala ed. ISBN 978-955-25-0261-3; Tamil ed. ISBN 978-955-25-0085-5 (prints 2014–2019)
+- PDF pages: Sinhala 158, Tamil 184 (covers verified; archive.org records 6 and 7 in targets-lk-l)
+- Verdict: COMPLETE — parallel editions, placed once (see PE file, Book L3, for the read method)
+- Tally: 5 placements — 0 to existing lessons, 5 NEW LESSON NEEDED (PE parts filed in the PE placements file, Book L3)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 8 — keeping our body away from diseases, including deficiency diseases and malnutrition (original string `staying-safe/protecting-the-body-from-diseases`) | Sri Lanka Grade 6 G6 Sinhala/Tamil student book, printed p. 111 |
+
+**Book L5 — G8 HPE Tamil + Sinhala (student book, Tamil/Sinhala parallel editions) [group lk-l]:**
+- Title as printed: Health and Physical Education — Grade 8 (Tamil medium; Sinhala medium)
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; Tamil ed. ISBN 978-955-25-0139-5 (first print 2016; this file 2019 print)
+- PDF pages: Tamil 210, Sinhala 216 (covers verified; archive.org records 15/16 = edupub.gov.lk records 3/4, read once)
+- Verdict: COMPLETE (see PE file, Book L5, for the read method; a different edition from lk-t's secured 2021 Tamil edition)
+- Tally: 6 placements — 1 to an existing lesson, 5 NEW LESSON NEEDED (PE parts filed in the PE placements file, Book L5)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 14 — preventing communicable diseases and leading a joyful healthy life (original string `staying-safe/preventing-communicable-diseases`) | Sri Lanka Grade 8 G8 Tamil/Sinhala student book, printed p. 127 |
+
+**Book L7 — G10 HPE Sinhala + Tamil (student book, Sinhala/Tamil parallel editions) [group lk-l]:**
+- Title as printed: Health and Physical Education — Grade 10 (Sinhala medium; Tamil medium)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; Sinhala ed. ISBN 978-955-25-0401-3; Tamil ed. ISBN 978-955-25-0213-2 (prints 2014–2019)
+- PDF pages: Sinhala 238, Tamil 256 (covers verified; archive.org records 29/30 in targets-lk-l)
+- Verdict: COMPLETE — parallel editions; Chapter 6 already placed from the English edition (Book L2 in both files) and not re-placed here
+- Tally: 7 placements — 0 to existing lessons, 7 NEW LESSON NEEDED (PE parts filed in the PE placements file, Book L7)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 8 — protecting the body from diseases (continues the new lesson opened by the Grade 6 book) (original string `staying-safe/protecting-the-body-from-diseases`) | Sri Lanka Grade 10 G10 Sinhala/Tamil student book, printed p. 153 |
+
+**Book L9 — Piriven G4 HPE (student book, Sinhala) [group lk-l]:**
+- Title as printed: Health and Physical Education — Grade 4, Piriven textbook (Sinhala medium)
+- Grade: 4 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department, Piriven textbook series (served by govdoc.lk); no imprint page in the file; no ISBN printed in the file
+- PDF pages: 145 (first pages verified; govdoc record E7-24 in targets-lk-l)
+- Verdict: COMPLETE — primary health book, no PE/games chapters. Read via chapter openings and sampled spreads across all 7 chapters (disease lists read in full — they name each disease with its prevention steps).
+- Tally: 8 placements — 1 to an existing lesson, 7 NEW LESSON NEEDED. PE file: Book L9 records 0 PE placements.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 5 — diseases spread by skin contact, bacteria and viruses: diarrhoea, leprosy, pneumonia, tuberculosis, meningitis, leptospirosis, rabies, dengue and Japanese encephalitis, and preventing each (continues the new lesson) (original string `staying-safe/preventing-communicable-diseases`) | Sri Lanka Grade 4 Piriven G4 student book, printed p. 73 |
+| Sri Lanka — Ch. 5 — diseases spread by parasites and by air: malaria, worm infections, swine flu and Ebola, and protecting yourself (continues the new lesson) (original string `staying-safe/protecting-the-body-from-diseases`) | Sri Lanka Grade 4 Piriven G4 student book, printed p. 73 |
+
+**Book L12 — G7 TG old syllabus English 2008 + Tamil 2007 (teacher guide, English/Tamil parallel editions) [group lk-l]:**
+- Title as printed: Health & Physical Education — Teacher's Guide, Grade 7 (2007 syllabus)
+- Grade: 7 (student/teacher: TEACHER)
+- Publisher: National Institute of Education; English ed. 2008, Tamil ed. 2007; no ISBN printed
+- PDF pages: English 221, Tamil 259 (nie.lk records e7tim20 / t7tim20 in targets-lk-l)
+- Verdict: COMPLETE — old-syllabus edition, filed separately (see PE file, Book L12)
+- Tally: 3 placements — 0 to existing lessons, 3 NEW LESSON NEEDED
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — disease-prevention competency — teaching protection from communicable and non-communicable diseases (continues the new lesson) (original string `staying-safe/protecting-the-body-from-diseases`) | Sri Lanka Grade 7 G7 TG 2008 English, detailed syllabus (teacher guide — evidence) |
+
+**Book L13 — G8 TG new 2017 English + Tamil (teacher guide, English/Tamil parallel editions) [group lk-l]:**
+- Title as printed: Health and Physical Education — Teacher's Guide, Grade 8 (new)
+- Grade: 8 (student/teacher: TEACHER)
+- Publisher: National Institute of Education; 2017; no ISBN printed
+- PDF pages: English 133, Tamil 148 (nie.lk records Health_TG_Gr_8_English_new / Health_TG_8_Tamil_new in targets-lk-l)
+- Verdict: COMPLETE — parallel editions; English read, Tamil spot-checked (see PE file, Book L13)
+- Tally: 5 placements — 0 to existing lessons, 5 NEW LESSON NEEDED (PE parts filed in the PE placements file, Book L13)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Competency 10 — teaching how to lead a joyful life by preventing communicable diseases (continues the new lesson) (original string `staying-safe/preventing-communicable-diseases`) | Sri Lanka Grade 8 G8 TG 2017 English, syllabus printed p. xi ff. (teacher guide — evidence) |
+
+**Book L14 — G8 TG old syllabus Tamil 2009 (teacher guide, Tamil) [group lk-l]:**
+- Title as printed: Health & Physical Education — Teacher's Guide, Grade 8 (2007 syllabus, Tamil medium)
+- Grade: 8 (student/teacher: TEACHER)
+- Publisher: National Institute of Education; 2009; no ISBN printed
+- PDF pages: 245 (nie.lk record t8tim20 in targets-lk-l)
+- Verdict: COMPLETE as the old-syllabus Tamil guide (see PE file, Book L14)
+- Tally: 3 placements — 0 to existing lessons, 3 NEW LESSON NEEDED
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — disease-prevention competency — teaching protection from diseases (continues the new lesson) (original string `staying-safe/protecting-the-body-from-diseases`) | Sri Lanka Grade 8 G8 TG 2009 Tamil, detailed syllabus (teacher guide — evidence) |
+
+**Book L17 — G6 TG 2015 Tamil (teacher guide, Tamil) [group lk-l]:**
+- Title as printed: Health & Physical Education — Teacher's Guide, Grade 6 (new, 2015; Tamil medium)
+- Grade: 6 (student/teacher: TEACHER)
+- Publisher: National Institute of Education; 2015; no ISBN printed
+- PDF pages: 133 (nie.lk record t6tim116 in targets-lk-l)
+- Verdict: COMPLETE (see PE file, Book L17)
+- Tally: 4 placements — 0 to existing lessons, 4 NEW LESSON NEEDED (PE parts filed in the PE placements file, Book L17)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — disease competency — teaching protection from diseases (continues the new lesson) (original string `staying-safe/protecting-the-body-from-diseases`) | Sri Lanka Grade 6 G6 TG 2015 Tamil, syllabus (teacher guide — evidence) |
+
+**Book 8 — Grade 6 HPE Tamil 2007 (student book, Tamil):**
+- Title as printed: Health and Physical Education (சுகாதாரமும் உடற்கல்வியும்), Grade 6 [Tamil cover verified]
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; year 2007 (second edition, per record); ISBN no ISBN printed in the pages sampled
+- PDF pages: 52 (cover and contents verified; byte size matches the record's approval note; Noolaham source copy, GitHub tree route 404 — see group log)
+- Verdict: PARTIAL — image-only Tamil scan: cover and full contents read; placed at unit level
+- Tally: 10 placements — 0 to existing lessons, 10 NEW LESSON NEEDED (2 of them HELD-title-decision)
+- Sri Lanka's own way: Health begins in Grade 6 with the healthy society, healthy living, suitable food, the marvellous body, diseases and emotional balance.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Unit 11.0 — facing diseases successfully (original string `staying-safe/facing-and-preventing-diseases`) | Sri Lanka Grade 6 HPE Tamil 2007, printed p. 33 |
+
+**Book 9 — Grades 9–10 Health Education Tamil 1984 (student book, Tamil):**
+- Title as printed: Health Education (சுகாதாரக் கல்வி) [Tamil cover verified]
+- Grade: 9–10 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department (printed at the Government Press); year 1984 (first edition, per imprint); ISBN no ISBN printed
+- PDF pages: 244 (cover, imprint and full contents verified; Noolaham source copy, GitHub tree route 404 — see group log)
+- Verdict: PARTIAL — image-only Tamil scan: cover, imprint and the full five-part contents read from rendered pages and placed at part level; not every interior page was read. Pure Health Education — no PE parts (see the PE file's record-only entry).
+- Tally: 6 placements — 1 to existing lessons, 5 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- Sri Lanka's own way: The 1984 health textbook is a full medical-foundations course for Grades 9–10: anatomy and physiology first, then food, diseases, water and sanitation, and a long practical first-aid section.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Part IV — communicable diseases (named diseases with causes and prevention) and other diseases including mental illness (original string `staying-safe/communicable-and-other-diseases`) | Sri Lanka Grades 9–10 Health Education Tamil 1984, printed pp. 113–177 |
+
+Sri Lanka is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the student book(s) stocked here are Book L3, Book L5, Book L7, Book L9, Book 8, Book 9, so Sri Lanka is named in the countries line and provenance rows and the acceptance count rises from 12 to 13 countries; the teacher-guide rows, where present, are teacher-guide evidence only, outside the count. The Sri Lanka placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Sri Lanka's own way is content, as the book lines above record it: health is taught through the family and home first, then food, the body, emotions, adolescence and disease prevention, widening to the whole community and society, with the Piriven primary books teaching health almost entirely and the 1984 Grades 9–10 book teaching a full medical-foundations course. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.

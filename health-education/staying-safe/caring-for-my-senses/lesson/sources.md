@@ -1,8 +1,8 @@
 # Sources — Caring for My Senses
 
-countries: China, El Salvador, Bulgaria, Iran, Estonia, Indonesia, Nepal
+countries: China, El Salvador, Bulgaria, Iran, Estonia, Indonesia, Nepal, Sri Lanka
 
-**Acceptance count: taught in 6 countries.** China and El Salvador are filed as student-book stock, inside the acceptance count, in this lesson. Bulgaria is filed as student-book stock, inside the acceptance count, in this lesson. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Estonia is filed as teacher-guide evidence only in this lesson (see its Estonia section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is stocked in this lesson for Estonia. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count. Nepal is added as student-book stock (see its Nepal section below), inside the acceptance count.
+**Acceptance count: taught in 7 countries.** Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. China and El Salvador are filed as student-book stock, inside the acceptance count, in this lesson. Bulgaria is filed as student-book stock, inside the acceptance count, in this lesson. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Estonia is filed as teacher-guide evidence only in this lesson (see its Estonia section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is stocked in this lesson for Estonia. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count. Nepal is added as student-book stock (see its Nepal section below), inside the acceptance count.
 
 **Book 1 — 普通高中教科书·体育与健康必修 全一册 (PEP Senior-High PE & Health, Compulsory, Complete Volume) (student book, Chinese):**
 - Title as printed: 普通高中教科书·体育与健康必修 全一册
@@ -169,3 +169,47 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/nepal-health
 | Nepal — Personal Hygiene — the sense organs and their care: eyes (including the 20-20-20 rule), nose, ears (never poke with cotton buds), tongue and skin (original string `HELD-title-decision`) | Nepal 5 Health, Physical Education and Creative Arts (Kafle), printed p. 5 (PARTIAL as filed) |
 
 Nepal is added as student-book stock (see its book lines and rows above), inside the acceptance count — all four Nepal books are STUDENT books, so Nepal is named in the countries line and provenance rows and the acceptance count rises from 5 to 6 countries. The Nepal placement(s) in this lesson filed as HELD-title-decision lines were resolved to this canonical lesson by registry Part 2B from their HELD descriptions, and placements filed directly under this lesson's own slug are recorded as filed; the original string is recorded in each provenance row above. Nepal's own way is content, as the book lines above record it: Health is taught inside combined CDC books on a nine-part spine repeated and deepened by grade, with Nepal's own ladder of health posts and hospitals named in the community-health lessons. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+## Sri Lanka — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/sri-lanka-health-placements.md. 3 Sri Lanka placement(s) stocked in this lesson. The Sri Lanka book(s) stocked in this lesson: Book 2, Book 3, Book L10 of that file. Sri Lanka is student-book stock, inside the acceptance count, in this lesson; the teacher-guide books stocked here (where present) are teacher-guide evidence only, outside the count, and their rows are marked (teacher guide — evidence). Book 2 is PARTIAL as filed — front cover/imprint pages missing from this copy; all 21 teaching chapters present, and those labels are kept as filed. Books 4 and 5 of that file are parallel Sinhala/Tamil editions of Book 3 with 0 placements, placed once under Book 3, and Book L4 is a parallel edition of the Grade 7 book with no duplicate placements — nothing stocked from them separately. The record-only items of that file (the govdoc.lk category-page records, and the 3 Noolaham records duplicated by secured books) carry 0 placements — nothing stocked from them. No Sri Lanka placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 2 — Grade 9 HPE English (student book, English):**
+- Title as printed: Health and Physical Education, Grade 9 (this copy opens at Chapter 1, printed p. 1; no cover/imprint pages in the file)
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department (inferred from the series; not printed in this copy); year not printed in this copy; ISBN no ISBN printed
+- PDF pages: 211 (first page verified as the book's own Chapter 1 against the record title)
+- Verdict: PARTIAL — front cover/imprint pages missing from this copy; all 21 teaching chapters present
+- Tally: 11 placements — 1 to existing lessons, 10 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- Sri Lanka's own way: Health widens from family (Grade 7) to the whole community and society: community health problems, self-actualization, nutrition, appearance, psychosocial fitness, gender and social challenges.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch.11 Let us protect the features which affect our appearance — protecting skin, hair, nails, ears, eyes and other features that affect appearance (original string `staying-safe/caring-for-appearance-skin-hair-and-senses`) | Sri Lanka Grade 9 HPE English, printed p. 100 |
+
+**Book 3 — Grade 9 HPE Teacher Guide English 2018 (teacher guide, English):**
+- Title as printed: Health and Physical Education — Teachers' Guide, Grade 09 (implemented from 2018). NOTE: the record title calls it a "Health Teacher Guide" and lists health only, but the printed book is the full Health AND Physical Education guide, so it is filed into both courses.
+- Grade: 9 (student/teacher: TEACHER)
+- Publisher: National Institute of Education (Health & Physical Education Unit, Department of Science); year 2018 (first print 2018); ISBN no ISBN printed
+- PDF pages: 172 (cover/title page verified against the record title; downloaded from the record's own NIE source after the GitHub tree route returned 404 — see group log, library debt note)
+- Verdict: COMPLETE
+- Tally: 9 placements — 0 to existing lessons, 9 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- Sri Lanka's own way: Same competency frame as the student book, with lesson-by-lesson guidance, quality inputs and assessment for each health competency.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Competency 8.1 — healthy practices to maintain external appearance (original string `staying-safe/caring-for-appearance-skin-hair-and-senses`) | Sri Lanka Grade 9 HPE TG English 2018, printed pp. 43–86 (teacher guide — evidence) |
+
+**Book L10 — Piriven G5 HPE (student book, Sinhala) [group lk-l]:**
+- Title as printed: Health and Physical Education — Grade 5, Piriven textbook (Sinhala medium)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department, Piriven textbook series (served by govdoc.lk); no imprint page in the file; no ISBN printed in the file
+- PDF pages: 175 (first page verified visually: Chapter 1 opening, printed p. 1; govdoc record E7-35 in targets-lk-l)
+- Verdict: COMPLETE — primary health book built around the body systems, no PE/games chapters. Read via chapter openings and sampled spreads across all 14 chapters.
+- Tally: 14 placements — 1 to an existing lesson, 13 NEW LESSON NEEDED (6 of them HELD-title-decision). PE file: Book L10 records 0 PE placements.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 8 — the sense organs: eye, ear, nose, tongue and skin, and looking after them (original string `staying-safe/our-sense-organs`) | Sri Lanka Grade 5 Piriven G5 student book, printed p. 78 |
+
+Sri Lanka is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the student book(s) stocked here are Book 2, Book L10, so Sri Lanka is named in the countries line and provenance rows and the acceptance count rises from 6 to 7 countries; the teacher-guide rows, where present, are teacher-guide evidence only, outside the count. The Sri Lanka placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Sri Lanka's own way is content, as the book lines above record it: health is taught through the family and home first, then food, the body, emotions, adolescence and disease prevention, widening to the whole community and society, with the Piriven primary books teaching health almost entirely and the 1984 Grades 9–10 book teaching a full medical-foundations course. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.

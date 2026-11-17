@@ -1,6 +1,6 @@
 # Sources — Preventing Sports Injuries and First Aid
 
-countries: Ethiopia, United Kingdom, Tajikistan, Turkmenistan, Jordan, Laos, Finland, Namibia, Haiti, Cyprus, Afghanistan, China, El Salvador, Oman, Samoa, Bulgaria, Honduras, Myanmar, Greece, Azerbaijan, Turkey, Zimbabwe, Malaysia, Papua New Guinea, Iran, Estonia, Vietnam, Thailand, Indonesia, Tanzania, Mauritius, Kuwait, Nepal, Maldives
+countries: Ethiopia, United Kingdom, Tajikistan, Turkmenistan, Jordan, Laos, Finland, Namibia, Haiti, Cyprus, Afghanistan, China, El Salvador, Oman, Samoa, Bulgaria, Honduras, Myanmar, Greece, Azerbaijan, Turkey, Zimbabwe, Malaysia, Papua New Guinea, Iran, Estonia, Vietnam, Thailand, Indonesia, Tanzania, Mauritius, Kuwait, Nepal, Maldives, Sri Lanka
 
 **Book 1:** *Grade 6 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–95 + front matter (103 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g06-student-placements.md.
 
@@ -1000,3 +1000,95 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/nepal-health
 | Nepal — Caution and First Aid — being cautious to prevent accidents and giving first aid (original string `staying-safe/preventing-sports-injuries-and-first-aid`) | Nepal 5 My Science, Health and Physical Education, printed p. 111 |
 
 Nepal is added as student-book stock (see its book lines and rows above), inside the acceptance count — all four Nepal books are STUDENT books, so Nepal is named in the countries line and provenance rows and the acceptance count rises from 22 to 23 countries. The Nepal placements in this lesson were filed directly under this lesson's own slug, recorded as filed in each provenance row above. Nepal's own way is content, as the book lines above record it: Health is taught inside combined CDC books on a nine-part spine repeated and deepened by grade, with Nepal's own ladder of health posts and hospitals named in the community-health lessons. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+## Sri Lanka — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/sri-lanka-health-placements.md. 7 Sri Lanka placement(s) stocked in this lesson. The Sri Lanka book(s) stocked in this lesson: Book 2, Book L5, Book L8, Book L9, Book L10, Book L15, Book 9 of that file. Sri Lanka is student-book stock, inside the acceptance count, in this lesson; the teacher-guide books stocked here (where present) are teacher-guide evidence only, outside the count, and their rows are marked (teacher guide — evidence). Book 2 is PARTIAL as filed — front cover/imprint pages missing from this copy; all 21 teaching chapters present; Book 9 is PARTIAL as filed — image-only Tamil scan: cover, imprint and the full five-part contents read from rendered pages and placed at part level; not every interior page was read, and those labels are kept as filed. Books 4 and 5 of that file are parallel Sinhala/Tamil editions of Book 3 with 0 placements, placed once under Book 3, and Book L4 is a parallel edition of the Grade 7 book with no duplicate placements — nothing stocked from them separately. The record-only items of that file (the govdoc.lk category-page records, and the 3 Noolaham records duplicated by secured books) carry 0 placements — nothing stocked from them. No Sri Lanka placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 2 — Grade 9 HPE English (student book, English):**
+- Title as printed: Health and Physical Education, Grade 9 (this copy opens at Chapter 1, printed p. 1; no cover/imprint pages in the file)
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department (inferred from the series; not printed in this copy); year not printed in this copy; ISBN no ISBN printed
+- PDF pages: 211 (first page verified as the book's own Chapter 1 against the record title)
+- Verdict: PARTIAL — front cover/imprint pages missing from this copy; all 21 teaching chapters present
+- Tally: 11 placements — 1 to existing lessons, 10 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- Sri Lanka's own way: Health widens from family (Grade 7) to the whole community and society: community health problems, self-actualization, nutrition, appearance, psychosocial fitness, gender and social challenges.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch.1 Healthy society — accidents and disasters at home, on roads and in sport, precautions and first aid (original string `staying-safe/preventing-sports-injuries-and-first-aid`) | Sri Lanka Grade 9 HPE English, printed p. 1 |
+
+**Book L5 — G8 HPE Tamil + Sinhala (student book, Tamil/Sinhala parallel editions) [group lk-l]:**
+- Title as printed: Health and Physical Education — Grade 8 (Tamil medium; Sinhala medium)
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; Tamil ed. ISBN 978-955-25-0139-5 (first print 2016; this file 2019 print)
+- PDF pages: Tamil 210, Sinhala 216 (covers verified; archive.org records 15/16 = edupub.gov.lk records 3/4, read once)
+- Verdict: COMPLETE (see PE file, Book L5, for the read method; a different edition from lk-t's secured 2021 Tamil edition)
+- Tally: 6 placements — 1 to an existing lesson, 5 NEW LESSON NEEDED (PE parts filed in the PE placements file, Book L5)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 12 — first aid: airway, breathing, circulation and deformity (the ABC of first aid) (original string `staying-safe/preventing-sports-injuries-and-first-aid`) | Sri Lanka Grade 8 G8 Tamil/Sinhala student book, printed p. 106 |
+
+**Book L8 — Piriven G3 HPE (student book, Sinhala) [group lk-l]:**
+- Title as printed: Health and Physical Education — Grade 3, Piriven textbook (Sinhala medium)
+- Grade: 3 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department, Piriven textbook series (served by govdoc.lk); no imprint page in the file; no ISBN printed in the file
+- PDF pages: 138 (first page verified visually: Chapter 1 opening, printed p. 1; govdoc record E7-14 in targets-lk-l)
+- Verdict: COMPLETE — primary-level health book (the Piriven primary series teaches health almost entirely; no PE/games chapters). Read via chapter-opening pages and sampled spreads across all 8 chapters.
+- Tally: 10 placements — 1 to an existing lesson, 9 NEW LESSON NEEDED (3 of them HELD-title-decision). PE file: Book L8 records 0 PE placements.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 8 — first aid basics: breathing and the ABC of helping an injured person (original string `staying-safe/preventing-sports-injuries-and-first-aid`) | Sri Lanka Grade 3 Piriven G3 student book, printed p. 130 |
+
+**Book L9 — Piriven G4 HPE (student book, Sinhala) [group lk-l]:**
+- Title as printed: Health and Physical Education — Grade 4, Piriven textbook (Sinhala medium)
+- Grade: 4 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department, Piriven textbook series (served by govdoc.lk); no imprint page in the file; no ISBN printed in the file
+- PDF pages: 145 (first pages verified; govdoc record E7-24 in targets-lk-l)
+- Verdict: COMPLETE — primary health book, no PE/games chapters. Read via chapter openings and sampled spreads across all 7 chapters (disease lists read in full — they name each disease with its prevention steps).
+- Tally: 8 placements — 1 to an existing lesson, 7 NEW LESSON NEEDED. PE file: Book L9 records 0 PE placements.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 6 — first aid: when and how to give it — breathing, bleeding, splints, padding and arm slings, bites and stings (original string `staying-safe/preventing-sports-injuries-and-first-aid`) | Sri Lanka Grade 4 Piriven G4 student book, printed p. 93 |
+
+**Book L10 — Piriven G5 HPE (student book, Sinhala) [group lk-l]:**
+- Title as printed: Health and Physical Education — Grade 5, Piriven textbook (Sinhala medium)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department, Piriven textbook series (served by govdoc.lk); no imprint page in the file; no ISBN printed in the file
+- PDF pages: 175 (first page verified visually: Chapter 1 opening, printed p. 1; govdoc record E7-35 in targets-lk-l)
+- Verdict: COMPLETE — primary health book built around the body systems, no PE/games chapters. Read via chapter openings and sampled spreads across all 14 chapters.
+- Tally: 14 placements — 1 to an existing lesson, 13 NEW LESSON NEEDED (6 of them HELD-title-decision). PE file: Book L10 records 0 PE placements.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 11 — first aid in everyday situations: bleeding, breathing, choking, splints and burns (original string `staying-safe/preventing-sports-injuries-and-first-aid`) | Sri Lanka Grade 5 Piriven G5 student book, printed p. 110 |
+
+**Book L15 — G10 TG 2015 English + Tamil (teacher guide, English/Tamil parallel editions) [group lk-l]:**
+- Title as printed: Health & Physical Education — Teacher's Guide, Grade 10 (2015)
+- Grade: 10 (student/teacher: TEACHER)
+- Publisher: National Institute of Education; 2015; no ISBN printed
+- PDF pages: English 193, Tamil 199 (nie.lk records e10tim116 / t10tim116 in targets-lk-l)
+- Verdict: COMPLETE — parallel editions; English read, Tamil spot-checked (see PE file, Book L15)
+- Tally: 5 placements — 1 to an existing lesson, 4 NEW LESSON NEEDED (PE parts filed in the PE placements file, Book L15)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Competency 10.3 — teaching how to provide first aid (original string `staying-safe/preventing-sports-injuries-and-first-aid`) | Sri Lanka Grade 10 G10 TG 2015 English, syllabus printed pp. ix–xxvii (teacher guide — evidence) |
+
+**Book 9 — Grades 9–10 Health Education Tamil 1984 (student book, Tamil):**
+- Title as printed: Health Education (சுகாதாரக் கல்வி) [Tamil cover verified]
+- Grade: 9–10 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department (printed at the Government Press); year 1984 (first edition, per imprint); ISBN no ISBN printed
+- PDF pages: 244 (cover, imprint and full contents verified; Noolaham source copy, GitHub tree route 404 — see group log)
+- Verdict: PARTIAL — image-only Tamil scan: cover, imprint and the full five-part contents read from rendered pages and placed at part level; not every interior page was read. Pure Health Education — no PE parts (see the PE file's record-only entry).
+- Tally: 6 placements — 1 to existing lessons, 5 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- Sri Lanka's own way: The 1984 health textbook is a full medical-foundations course for Grades 9–10: anatomy and physiology first, then food, diseases, water and sanitation, and a long practical first-aid section.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Part V (item 11) — first aid: wounds, bleeding, burns, fractures, poisoning and bites, with special notes (original string `staying-safe/preventing-sports-injuries-and-first-aid`) | Sri Lanka Grades 9–10 Health Education Tamil 1984, printed pp. 201–230 |
+
+Sri Lanka is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the student book(s) stocked here are Book 2, Book L5, Book L8, Book L9, Book L10, Book 9, so Sri Lanka is named in the countries line and provenance rows and the acceptance count rises from 23 to 24 countries; the teacher-guide rows, where present, are teacher-guide evidence only, outside the count. The Sri Lanka placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Sri Lanka's own way is content, as the book lines above record it: health is taught through the family and home first, then food, the body, emotions, adolescence and disease prevention, widening to the whole community and society, with the Piriven primary books teaching health almost entirely and the 1984 Grades 9–10 book teaching a full medical-foundations course. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.

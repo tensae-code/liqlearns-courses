@@ -1,8 +1,8 @@
 # Sources — Malnutrition
 
-countries: Zambia, Samoa, Timor-Leste, Philippines, Greece, Pakistan, Bhutan, Iran, Estonia, Mauritius, Nepal, United Arab Emirates
+countries: Zambia, Samoa, Timor-Leste, Philippines, Greece, Pakistan, Bhutan, Iran, Estonia, Mauritius, Nepal, United Arab Emirates, Sri Lanka
 
-**Acceptance count: taught in 9 countries.** United Arab Emirates is added as student-book stock (see its United Arab Emirates section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Pakistan is added as student-book stock (see its Pakistan section below), inside the acceptance count. Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — all five Bhutan books are STUDENT books. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Estonia is filed as teacher-guide evidence only in this lesson (see its Estonia section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is stocked in this lesson for Estonia. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count — Book 8, Technology Studies Grade 9, is a student book read PARTIAL (scope) as filed; only its Nutrition and Health unit is placed. Nepal is added as student-book stock (see its Nepal section below), inside the acceptance count.
+**Acceptance count: taught in 10 countries.** Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. United Arab Emirates is added as student-book stock (see its United Arab Emirates section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Pakistan is added as student-book stock (see its Pakistan section below), inside the acceptance count. Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — all five Bhutan books are STUDENT books. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Estonia is filed as teacher-guide evidence only in this lesson (see its Estonia section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is stocked in this lesson for Estonia. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count — Book 8, Technology Studies Grade 9, is a student book read PARTIAL (scope) as filed; only its Nutrition and Health unit is placed. Nepal is added as student-book stock (see its Nepal section below), inside the acceptance count.
 
 **Book 1 — Health Teacher Training, Participants Manual 2025 (teacher training manual, English):**
 - Title as printed: Health Teacher Training — Participants Manual (LB)
@@ -270,3 +270,60 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/nepal-health
 | Nepal — Malnutrition — night blindness, marasmus and anaemia: causes and how to prevent them (original string `HELD-title-decision`) | Nepal 5 My Science, Health and Physical Education, printed p. 99 |
 
 Nepal is added as student-book stock (see its book lines and rows above), inside the acceptance count — all four Nepal books are STUDENT books, so Nepal is named in the countries line and provenance rows and the acceptance count rises from 7 to 8 countries. The Nepal placement(s) in this lesson filed as HELD-title-decision lines were resolved to this canonical lesson by registry Part 2B from their HELD descriptions, and placements filed directly under this lesson's own slug are recorded as filed; the original string is recorded in each provenance row above. Nepal's own way is content, as the book lines above record it: Health is taught inside combined CDC books on a nine-part spine repeated and deepened by grade, with Nepal's own ladder of health posts and hospitals named in the community-health lessons. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+## Sri Lanka — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/sri-lanka-health-placements.md. 4 Sri Lanka placement(s) stocked in this lesson. The Sri Lanka book(s) stocked in this lesson: Book 2, Book 3, Book 6, Book L8 of that file. Sri Lanka is student-book stock, inside the acceptance count, in this lesson; the teacher-guide books stocked here (where present) are teacher-guide evidence only, outside the count, and their rows are marked (teacher guide — evidence). Book 2 is PARTIAL as filed — front cover/imprint pages missing from this copy; all 21 teaching chapters present; Book 6 is PARTIAL as filed — legacy-font Sinhala; cover, imprint, subject-scope page, competency/content table (printed pp. 2–5) and sampled spreads read via rendered pages; full lesson-by-lesson guidance not placed, and those labels are kept as filed. Books 4 and 5 of that file are parallel Sinhala/Tamil editions of Book 3 with 0 placements, placed once under Book 3, and Book L4 is a parallel edition of the Grade 7 book with no duplicate placements — nothing stocked from them separately. The record-only items of that file (the govdoc.lk category-page records, and the 3 Noolaham records duplicated by secured books) carry 0 placements — nothing stocked from them. No Sri Lanka placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 2 — Grade 9 HPE English (student book, English):**
+- Title as printed: Health and Physical Education, Grade 9 (this copy opens at Chapter 1, printed p. 1; no cover/imprint pages in the file)
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department (inferred from the series; not printed in this copy); year not printed in this copy; ISBN no ISBN printed
+- PDF pages: 211 (first page verified as the book's own Chapter 1 against the record title)
+- Verdict: PARTIAL — front cover/imprint pages missing from this copy; all 21 teaching chapters present
+- Tally: 11 placements — 1 to existing lessons, 10 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- Sri Lanka's own way: Health widens from family (Grade 7) to the whole community and society: community health problems, self-actualization, nutrition, appearance, psychosocial fitness, gender and social challenges.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch.10 Let us fulfill our nutritional needs — nutrients the body needs, and illness and weakness from unmet nutritional needs (original string `staying-safe/nutritional-needs-and-deficiency`) | Sri Lanka Grade 9 HPE English, printed p. 79 |
+
+**Book 3 — Grade 9 HPE Teacher Guide English 2018 (teacher guide, English):**
+- Title as printed: Health and Physical Education — Teachers' Guide, Grade 09 (implemented from 2018). NOTE: the record title calls it a "Health Teacher Guide" and lists health only, but the printed book is the full Health AND Physical Education guide, so it is filed into both courses.
+- Grade: 9 (student/teacher: TEACHER)
+- Publisher: National Institute of Education (Health & Physical Education Unit, Department of Science); year 2018 (first print 2018); ISBN no ISBN printed
+- PDF pages: 172 (cover/title page verified against the record title; downloaded from the record's own NIE source after the GitHub tree route returned 404 — see group log, library debt note)
+- Verdict: COMPLETE
+- Tally: 9 placements — 0 to existing lessons, 9 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- Sri Lanka's own way: Same competency frame as the student book, with lesson-by-lesson guidance, quality inputs and assessment for each health competency.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Competency 7.1 — consuming food according to nutritional needs (original string `staying-safe/nutritional-needs-and-deficiency`) | Sri Lanka Grade 9 HPE TG English 2018, printed pp. 43–86 (second-term guidelines) (teacher guide — evidence) |
+
+**Book 6 — Grade 9 HPE Teacher Guide Sinhala 2010 (teacher guide, Sinhala):**
+- Title as printed: Health and Physical Education — Teacher Guide Compilation, Grade 9 (2010) [Sinhala cover verified]
+- Grade: 9 (student/teacher: TEACHER)
+- Publisher: National Institute of Education; year 2010; ISBN no ISBN printed
+- PDF pages: 224 (grabbed via grab.py tree from GitHub; cover and imprint verified)
+- Verdict: PARTIAL — legacy-font Sinhala; cover, imprint, subject-scope page, competency/content table (printed pp. 2–5) and sampled spreads read via rendered pages; full lesson-by-lesson guidance not placed
+- Tally: 1 placement — 0 to existing lessons, 1 NEW LESSON NEEDED
+- Sri Lanka's own way: The older competency guide sequences food and nutrition first (Competency 1) before posture and games.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Competency 1 (levels 1.1–1.2) — food, nutrients and balanced eating for a healthy life in the competency table (original string `staying-safe/nutritional-needs-and-deficiency`) | Sri Lanka Grade 9 HPE TG Sinhala 2010, printed p. 3 (teacher guide — evidence) |
+
+**Book L8 — Piriven G3 HPE (student book, Sinhala) [group lk-l]:**
+- Title as printed: Health and Physical Education — Grade 3, Piriven textbook (Sinhala medium)
+- Grade: 3 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department, Piriven textbook series (served by govdoc.lk); no imprint page in the file; no ISBN printed in the file
+- PDF pages: 138 (first page verified visually: Chapter 1 opening, printed p. 1; govdoc record E7-14 in targets-lk-l)
+- Verdict: COMPLETE — primary-level health book (the Piriven primary series teaches health almost entirely; no PE/games chapters). Read via chapter-opening pages and sampled spreads across all 8 chapters.
+- Tally: 10 placements — 1 to an existing lesson, 9 NEW LESSON NEEDED (3 of them HELD-title-decision). PE file: Book L8 records 0 PE placements.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 1 — measuring height and weight and the Body Mass Index (BMI) (original string `staying-safe/body-mass-index-and-healthy-weight`) | Sri Lanka Grade 3 Piriven G3 student book, printed p. 10 |
+
+Sri Lanka is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the student book(s) stocked here are Book 2, Book L8, so Sri Lanka is named in the countries line and provenance rows and the acceptance count rises from 9 to 10 countries; the teacher-guide rows, where present, are teacher-guide evidence only, outside the count. The Sri Lanka placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Sri Lanka's own way is content, as the book lines above record it: health is taught through the family and home first, then food, the body, emotions, adolescence and disease prevention, widening to the whole community and society, with the Piriven primary books teaching health almost entirely and the 1984 Grades 9–10 book teaching a full medical-foundations course. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.

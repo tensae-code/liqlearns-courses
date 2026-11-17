@@ -1,8 +1,8 @@
 # Sources — Knowing Myself and My Feelings
 
-countries: Samoa, Timor-Leste, Bulgaria, Azerbaijan, Turkey, Sierra Leone, Papua New Guinea, Bhutan, Eritrea, Jamaica, Maldives
+countries: Samoa, Timor-Leste, Bulgaria, Azerbaijan, Turkey, Sierra Leone, Papua New Guinea, Bhutan, Eritrea, Jamaica, Maldives, Sri Lanka
 
-**Acceptance count: taught in 5 countries.** Bulgaria is filed as student-book stock, inside the acceptance count, in this lesson. Samoa is filed as curriculum statement evidence only in this lesson — named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below). Turkey is filed as teacher-guide evidence only in this lesson — Book 1 is a TEACHER guide, so Turkey is named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this Turkey row. Sierra Leone is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Sierra Leone rows (see its Sierra Leone section below). Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — all five Bhutan books are STUDENT books. Eritrea is added as student-book stock (see its Eritrea section below), inside the acceptance count — all three Eritrea books are STUDENT books. Jamaica is filed as curriculum-guide evidence only in this lesson (see its Jamaica section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Jamaica rows in this lesson — both read Jamaica books are curriculum guides (TEACHER). Maldives is filed as teacher-guide evidence only in this lesson (see its Maldives section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Maldives rows in this lesson.
+**Acceptance count: taught in 6 countries.** Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Bulgaria is filed as student-book stock, inside the acceptance count, in this lesson. Samoa is filed as curriculum statement evidence only in this lesson — named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below). Turkey is filed as teacher-guide evidence only in this lesson — Book 1 is a TEACHER guide, so Turkey is named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this Turkey row. Sierra Leone is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Sierra Leone rows (see its Sierra Leone section below). Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — all five Bhutan books are STUDENT books. Eritrea is added as student-book stock (see its Eritrea section below), inside the acceptance count — all three Eritrea books are STUDENT books. Jamaica is filed as curriculum-guide evidence only in this lesson (see its Jamaica section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Jamaica rows in this lesson — both read Jamaica books are curriculum guides (TEACHER). Maldives is filed as teacher-guide evidence only in this lesson (see its Maldives section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Maldives rows in this lesson.
 
 **Book 1 — Samoa HPE Primary Curriculum Statement, Years 1–8 (curriculum statement, English):**
 - Title as printed: Health and Physical Education, Years 1–8, Primary School Curriculum
@@ -373,3 +373,149 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-hea
 Maldives is filed as teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — every Maldives book stocked here is a TEACHER guide, so Maldives is named in the countries line and provenance rows and the acceptance count is unchanged at 5 countries. The Maldives placement(s) in this lesson were filed under the original string(s) recorded in each provenance row — `staying-safe/balancing-emotions-and-mental-wellbeing` — resolved to this canonical lesson by the health slug registry Part 2A; `staying-safe/positive-body-image-and-self-worth` — resolved to this canonical lesson by the health slug registry Part 2A — and the original string is recorded in each provenance row above. Maldives's own way is content, as the book lines above record it: health is taught as three strands wound through every grade — growth and body awareness, personality and social development, and health of the individual and community — with the country's own concerns named in the later books (the nutritional status of Maldivians, the tropical diseases of the Maldives including thalassaemia, and first aid for near-drowning with CPR). This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
 Searchable tags: knowing myself feelings, personal identity self-esteem, cultural spiritual beliefs values, social messages stereotyping media, personal strengths teenage challenges, Samoa Years 1–8 Curriculum, self-esteem self-worth body image what lowers confidence, resilience confidence, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, body image perfect figure in a short time discussion, Bulgaria Biology and Health Education Grade 8 Pedagog 6, Azerbaijan Fiziki Tərbiyə Grades 6-10, Georgian-language edition, hardening the body, self-control diary, feelings and wellbeing for young children, Kendimi Nasıl Hissediyorum, Mutluyum Kuvvetliyim, Turkey Preschool Movement & Health TG, Sierra Leone AHLS Teacher's Manual SSS1 SSS2 SSS3, adolescent health and life skills Sierra Leone, Papua New Guinea, Papua New Guinea Grade 4 Health TG Grade 4, Papua New Guinea Grade 5 Health TG Grade 5, Bhutan, Bhutan PP–I Suggested Activities, Bhutan II–III Suggested Activities, Eritrea, Life Skills Based Health Education Eritrea Grades 6 7 8, Who Can Help Me Meet My Goals?, People I Admire, Coping with Emotions and Stress, What Are My Goals?, Obstacles to One's Goals: Stressors, Jamaica, Jamaica HFLE, Health and Family Life Education Jamaica, CARICOM HFLE, Ministry of Education and Youth Jamaica 2023, Personal Growth and Development
+
+## Sri Lanka — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/sri-lanka-health-placements.md. 14 Sri Lanka placement(s) stocked in this lesson. The Sri Lanka book(s) stocked in this lesson: Book 1, Book 2, Book 3, Book L3, Book L5, Book L6, Book 7, Book L11, Book L13, Book L17, Book 8 of that file. Sri Lanka is student-book stock, inside the acceptance count, in this lesson; the teacher-guide books stocked here (where present) are teacher-guide evidence only, outside the count, and their rows are marked (teacher guide — evidence). Book 2 is PARTIAL as filed — front cover/imprint pages missing from this copy; all 21 teaching chapters present; Book 7 is PARTIAL as filed — image-only Tamil scan: cover, full contents and sampled chapter openings read; placed at chapter level; Book 8 is PARTIAL as filed — image-only Tamil scan: cover and full contents read; placed at unit level, and those labels are kept as filed. Books 4 and 5 of that file are parallel Sinhala/Tamil editions of Book 3 with 0 placements, placed once under Book 3, and Book L4 is a parallel edition of the Grade 7 book with no duplicate placements — nothing stocked from them separately. The record-only items of that file (the govdoc.lk category-page records, and the 3 Noolaham records duplicated by secured books) carry 0 placements — nothing stocked from them. No Sri Lanka placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 1 — Grade 7 HPE English (student book, English):**
+- Title as printed: Health and Physical Education, Grade 7
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; year 2015 (fifth print 2019); ISBN 978-955-25-0112-8
+- PDF pages: 186 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 8 placements — 0 to existing lessons, 8 NEW LESSON NEEDED (2 of them HELD-title-decision)
+- Sri Lanka's own way: Health is taught through the family and home first (healthy family environment, love and protection), then food, the body, emotions, adolescence and disease prevention, in the same combined book as PE.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch.2 Let us experience love and protection — human needs, family types, and love, protection and security in the family (original string `staying-safe/love-protection-and-human-needs`) | Sri Lanka Grade 7 HPE English, printed p. 13 |
+| Sri Lanka — Ch.11 Let us balance our emotions — what emotions are and keeping emotional balance (original string `staying-safe/balancing-emotions-and-mental-wellbeing`) | Sri Lanka Grade 7 HPE English, printed p. 121 |
+
+**Book 2 — Grade 9 HPE English (student book, English):**
+- Title as printed: Health and Physical Education, Grade 9 (this copy opens at Chapter 1, printed p. 1; no cover/imprint pages in the file)
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department (inferred from the series; not printed in this copy); year not printed in this copy; ISBN no ISBN printed
+- PDF pages: 211 (first page verified as the book's own Chapter 1 against the record title)
+- Verdict: PARTIAL — front cover/imprint pages missing from this copy; all 21 teaching chapters present
+- Tally: 11 placements — 1 to existing lessons, 10 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- Sri Lanka's own way: Health widens from family (Grade 7) to the whole community and society: community health problems, self-actualization, nutrition, appearance, psychosocial fitness, gender and social challenges.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch.2 Let us achieve towards self actualization — needs growing from simple to complex and working towards self-actualization (original string `staying-safe/self-actualization-and-human-needs`) | Sri Lanka Grade 9 HPE English, printed p. 14 |
+
+**Book 3 — Grade 9 HPE Teacher Guide English 2018 (teacher guide, English):**
+- Title as printed: Health and Physical Education — Teachers' Guide, Grade 09 (implemented from 2018). NOTE: the record title calls it a "Health Teacher Guide" and lists health only, but the printed book is the full Health AND Physical Education guide, so it is filed into both courses.
+- Grade: 9 (student/teacher: TEACHER)
+- Publisher: National Institute of Education (Health & Physical Education Unit, Department of Science); year 2018 (first print 2018); ISBN no ISBN printed
+- PDF pages: 172 (cover/title page verified against the record title; downloaded from the record's own NIE source after the GitHub tree route returned 404 — see group log, library debt note)
+- Verdict: COMPLETE
+- Tally: 9 placements — 0 to existing lessons, 9 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- Sri Lanka's own way: Same competency frame as the student book, with lesson-by-lesson guidance, quality inputs and assessment for each health competency.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Competency 2.1 — building the personality for self-actualization (original string `staying-safe/self-actualization-and-human-needs`) | Sri Lanka Grade 9 HPE TG English 2018, printed pp. 3–41 (teacher guide — evidence) |
+
+**Book L3 — G6 HPE Sinhala + Tamil (student book, Sinhala/Tamil parallel editions) [group lk-l]:**
+- Title as printed: Health and Physical Education — Grade 6 (Sinhala medium; Tamil medium)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; Sinhala ed. ISBN 978-955-25-0261-3; Tamil ed. ISBN 978-955-25-0085-5 (prints 2014–2019)
+- PDF pages: Sinhala 158, Tamil 184 (covers verified; archive.org records 6 and 7 in targets-lk-l)
+- Verdict: COMPLETE — parallel editions, placed once (see PE file, Book L3, for the read method)
+- Tally: 5 placements — 0 to existing lessons, 5 NEW LESSON NEEDED (PE parts filed in the PE placements file, Book L3)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 2 — identifying our needs and our wants (original string `staying-safe/needs-and-wants`) | Sri Lanka Grade 6 G6 Sinhala/Tamil student book, printed p. 40 |
+| Sri Lanka — Ch. 10 — being happy: emotions, attitudes and enjoying a healthy life (continues the new emotions lesson opened by the Grade 7 book) (original string `staying-safe/balancing-emotions-and-mental-wellbeing`) | Sri Lanka Grade 6 G6 Sinhala/Tamil student book, printed p. 136 |
+
+**Book L5 — G8 HPE Tamil + Sinhala (student book, Tamil/Sinhala parallel editions) [group lk-l]:**
+- Title as printed: Health and Physical Education — Grade 8 (Tamil medium; Sinhala medium)
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; Tamil ed. ISBN 978-955-25-0139-5 (first print 2016; this file 2019 print)
+- PDF pages: Tamil 210, Sinhala 216 (covers verified; archive.org records 15/16 = edupub.gov.lk records 3/4, read once)
+- Verdict: COMPLETE (see PE file, Book L5, for the read method; a different edition from lk-t's secured 2021 Tamil edition)
+- Tally: 6 placements — 1 to an existing lesson, 5 NEW LESSON NEEDED (PE parts filed in the PE placements file, Book L5)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 2 — human needs, from basic needs to higher needs (original string `staying-safe/human-needs-and-higher-needs`) | Sri Lanka Grade 8 G8 Tamil/Sinhala student book, printed p. 9 |
+
+**Book L6 — G9 HPE Sinhala + Tamil (student book, Sinhala/Tamil parallel editions) [group lk-l]:**
+- Title as printed: Health and Physical Education — Grade 9 (Sinhala medium; Tamil medium)
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; Sinhala ed. ISBN 978-955-25-0371-9 (2017); Tamil ed. ISBN 978-955-25-0169-2 (2017)
+- PDF pages: Sinhala 222, Tamil 244 (covers verified; archive.org records 27/28 = edupub record 5 for the Tamil book, read once)
+- Verdict: COMPLETE — parallel editions (see PE file, Book L6)
+- Tally: 9 placements — 0 to existing lessons, 9 NEW LESSON NEEDED (1 of them HELD-title-decision) (PE parts filed in the PE placements file, Book L6)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 2 — knowing and understanding myself (original string `staying-safe/knowing-and-understanding-myself`) | Sri Lanka Grade 9 G9 Sinhala/Tamil student book, printed p. 14 |
+| Sri Lanka — Ch. 14 — mental wellbeing and balance (continues the new emotions lesson) (original string `staying-safe/balancing-emotions-and-mental-wellbeing`) | Sri Lanka Grade 9 G9 Sinhala/Tamil student book, printed p. 132 |
+
+**Book 7 — Grade 8 HPE Tamil (student book, Tamil):**
+- Title as printed: Health and Physical Education (சுகாதாரமும் உடற்கல்வியும்), Grade 8 [Tamil cover verified]
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; year 2021 (per record); ISBN no ISBN printed in the pages sampled
+- PDF pages: 214 (cover and contents verified; Noolaham source copy, GitHub tree route 404 — see group log)
+- Verdict: PARTIAL — image-only Tamil scan: cover, full contents and sampled chapter openings read; placed at chapter level
+- Tally: 4 placements — 0 to existing lessons, 4 NEW LESSON NEEDED
+- Sri Lanka's own way: Grade 8 health centres on self-esteem, a healthy school environment, reproductive health and food quality.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch.1 Let us maintain self-esteem — self-esteem and self-worth (original string `staying-safe/self-esteem-and-self-worth`) | Sri Lanka Grade 8 HPE Tamil, printed p. 1 |
+
+**Book L11 — G7 TG 2016 English + Tamil (teacher guide, English/Tamil parallel editions) [group lk-l]:**
+- Title as printed: Health and Physical Education — Teacher's Guide, Grade 7 (effective from 2016)
+- Grade: 7 (student/teacher: TEACHER)
+- Publisher: National Institute of Education; 2016; no ISBN printed
+- PDF pages: English 129, Tamil 128 (nie.lk records e7tim155 / t7tim155 in targets-lk-l)
+- Verdict: COMPLETE — parallel editions; English read, Tamil spot-checked (see PE file, Book L11)
+- Tally: 5 placements — 0 to existing lessons, 5 NEW LESSON NEEDED (1 of them HELD-title-decision) (PE parts filed in the PE placements file, Book L11)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Competency 2 — teaching love and security among human needs (continues the new lesson opened by the Grade 7 student book) (original string `staying-safe/love-protection-and-human-needs`) | Sri Lanka Grade 7 G7 TG 2016 English, syllabus printed pp. xi–xxxii (teacher guide — evidence) |
+
+**Book L13 — G8 TG new 2017 English + Tamil (teacher guide, English/Tamil parallel editions) [group lk-l]:**
+- Title as printed: Health and Physical Education — Teacher's Guide, Grade 8 (new)
+- Grade: 8 (student/teacher: TEACHER)
+- Publisher: National Institute of Education; 2017; no ISBN printed
+- PDF pages: English 133, Tamil 148 (nie.lk records Health_TG_Gr_8_English_new / Health_TG_8_Tamil_new in targets-lk-l)
+- Verdict: COMPLETE — parallel editions; English read, Tamil spot-checked (see PE file, Book L13)
+- Tally: 5 placements — 0 to existing lessons, 5 NEW LESSON NEEDED (PE parts filed in the PE placements file, Book L13)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Competency 2 — teaching human needs: satisfying higher human needs (continues the new lesson) (original string `staying-safe/human-needs-and-higher-needs`) | Sri Lanka Grade 8 G8 TG 2017 English, syllabus printed p. xi ff. (teacher guide — evidence) |
+
+**Book L17 — G6 TG 2015 Tamil (teacher guide, Tamil) [group lk-l]:**
+- Title as printed: Health & Physical Education — Teacher's Guide, Grade 6 (new, 2015; Tamil medium)
+- Grade: 6 (student/teacher: TEACHER)
+- Publisher: National Institute of Education; 2015; no ISBN printed
+- PDF pages: 133 (nie.lk record t6tim116 in targets-lk-l)
+- Verdict: COMPLETE (see PE file, Book L17)
+- Tally: 4 placements — 0 to existing lessons, 4 NEW LESSON NEEDED (PE parts filed in the PE placements file, Book L17)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — needs competency — teaching needs and wants (continues the new lesson) (original string `staying-safe/needs-and-wants`) | Sri Lanka Grade 6 G6 TG 2015 Tamil, syllabus (teacher guide — evidence) |
+
+**Book 8 — Grade 6 HPE Tamil 2007 (student book, Tamil):**
+- Title as printed: Health and Physical Education (சுகாதாரமும் உடற்கல்வியும்), Grade 6 [Tamil cover verified]
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; year 2007 (second edition, per record); ISBN no ISBN printed in the pages sampled
+- PDF pages: 52 (cover and contents verified; byte size matches the record's approval note; Noolaham source copy, GitHub tree route 404 — see group log)
+- Verdict: PARTIAL — image-only Tamil scan: cover and full contents read; placed at unit level
+- Tally: 10 placements — 0 to existing lessons, 10 NEW LESSON NEEDED (2 of them HELD-title-decision)
+- Sri Lanka's own way: Health begins in Grade 6 with the healthy society, healthy living, suitable food, the marvellous body, diseases and emotional balance.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Unit 12.0 — emotional balance for a sound body and mental health (original string `staying-safe/balancing-emotions-and-mental-wellbeing`) | Sri Lanka Grade 6 HPE Tamil 2007, printed p. 35 |
+
+Sri Lanka is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the student book(s) stocked here are Book 1, Book 2, Book L3, Book L5, Book L6, Book 7, Book 8, so Sri Lanka is named in the countries line and provenance rows and the acceptance count rises from 5 to 6 countries; the teacher-guide rows, where present, are teacher-guide evidence only, outside the count. The Sri Lanka placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Sri Lanka's own way is content, as the book lines above record it: health is taught through the family and home first, then food, the body, emotions, adolescence and disease prevention, widening to the whole community and society, with the Piriven primary books teaching health almost entirely and the 1984 Grades 9–10 book teaching a full medical-foundations course. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.

@@ -1,8 +1,8 @@
 # Sources — Fair Play in Sport
 
-countries: Haiti, Oman, Samoa, Honduras, Greece, Bhutan, Estonia, Indonesia
+countries: Haiti, Oman, Samoa, Honduras, Greece, Bhutan, Estonia, Indonesia, Sri Lanka
 
-**Acceptance count: taught in 4 countries.** Haiti is filed as teacher-programme evidence only in this lesson — named in the countries line and provenance row, but outside the acceptance count. Oman is likewise filed as teacher-guide evidence only, outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count — the first pupil's book in hand for this lesson. Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — all five Bhutan books are STUDENT books. Estonia is filed as teacher-guide evidence only in this lesson (see its Estonia section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is stocked in this lesson for Estonia. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count. The Indonesia teacher-guide rows in this lesson are filed as teacher-guide evidence only, outside the count.
+**Acceptance count: taught in 5 countries.** Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Haiti is filed as teacher-programme evidence only in this lesson — named in the countries line and provenance row, but outside the acceptance count. Oman is likewise filed as teacher-guide evidence only, outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count — the first pupil's book in hand for this lesson. Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — all five Bhutan books are STUDENT books. Estonia is filed as teacher-guide evidence only in this lesson (see its Estonia section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is stocked in this lesson for Estonia. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count. The Indonesia teacher-guide rows in this lesson are filed as teacher-guide evidence only, outside the count.
 
 **Book 3 (Haiti placements file) — Programme-Cadre de toutes les Matières, Nouveau Secondaire NS1–NS4 (teacher framework programme, French) — Health parts:**
 - Title as printed: Programme-Cadre de toutes les Matières — Nouveau Secondaire (MENFP/DES)
@@ -270,3 +270,48 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/indonesia-he
 Indonesia is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the acceptance count rises from 3 to 4 countries. The Indonesia teacher-guide rows above are filed as teacher-guide evidence only, outside the count. The Indonesia placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved to this lesson by the slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Indonesia's own way is content, as the book lines above record it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
 Searchable tags: fair play in sport, fair play as democratic culture, values carried by games, managing conflict, refereeing, applying the rules, respect for authority and the adversary, tournaments for peace and camaraderie, Haiti Programme-Cadre NS Grades 10-13, MENFP, sports values and ethics القيم والأخلاق الرياضية, honesty respect fairness good conduct, Oman G6 Teacher Guide, Oman G8 Teacher Guide, sportsmanship safe and fair play practices positive cultural practices sports competitions, Samoa Years 1–8 Curriculum, deportividad sportsmanship respect rules rivals referee fair play, Olympism friendship solidarity excellence sport as a right, Honduras Telebásica Grades 8 and 9, correct sports behaviour ev agonizesthai, respecting rules referees opponents, controlling anger count slowly to ten, aggression and violence in sports venues, violence in the stadiums, levels of responsibility in sport, Greece Grades 5-6 Fysiki Agogi E-ST, Greece Grades 7-9 Fysiki Agogi Gymnasiou, Bhutan, Bhutan Class IV Suggested Activities, Estonia, Toitumine ja liikumine, Digiõpik Lesson 24, Indonesia, Indonesia PJOK, Pendidikan Jasmani Olahraga dan Kesehatan, Dasar-Dasar Layanan Kesehatan, Isi Piringku
+
+## Sri Lanka — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/sri-lanka-health-placements.md. 3 Sri Lanka placement(s) stocked in this lesson. The Sri Lanka book(s) stocked in this lesson: Book 1, Book 3, Book 8 of that file. Sri Lanka is student-book stock, inside the acceptance count, in this lesson; the teacher-guide books stocked here (where present) are teacher-guide evidence only, outside the count, and their rows are marked (teacher guide — evidence). Book 8 is PARTIAL as filed — image-only Tamil scan: cover and full contents read; placed at unit level, and those labels are kept as filed. Books 4 and 5 of that file are parallel Sinhala/Tamil editions of Book 3 with 0 placements, placed once under Book 3, and Book L4 is a parallel edition of the Grade 7 book with no duplicate placements — nothing stocked from them separately. The record-only items of that file (the govdoc.lk category-page records, and the 3 Noolaham records duplicated by secured books) carry 0 placements — nothing stocked from them. No Sri Lanka placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 1 — Grade 7 HPE English (student book, English):**
+- Title as printed: Health and Physical Education, Grade 7
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; year 2015 (fifth print 2019); ISBN 978-955-25-0112-8
+- PDF pages: 186 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 8 placements — 0 to existing lessons, 8 NEW LESSON NEEDED (2 of them HELD-title-decision)
+- Sri Lanka's own way: Health is taught through the family and home first (healthy family environment, love and protection), then food, the body, emotions, adolescence and disease prevention, in the same combined book as PE.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch.12 Let us respect the rules, regulations and ethics in sports — respecting rules, officials' decisions, ethics, discipline and tolerance in sport (original string `fair-play-and-the-body/sports-rules-ethics-and-fair-play`) | Sri Lanka Grade 7 HPE English, printed p. 131 |
+
+**Book 3 — Grade 9 HPE Teacher Guide English 2018 (teacher guide, English):**
+- Title as printed: Health and Physical Education — Teachers' Guide, Grade 09 (implemented from 2018). NOTE: the record title calls it a "Health Teacher Guide" and lists health only, but the printed book is the full Health AND Physical Education guide, so it is filed into both courses.
+- Grade: 9 (student/teacher: TEACHER)
+- Publisher: National Institute of Education (Health & Physical Education Unit, Department of Science); year 2018 (first print 2018); ISBN no ISBN printed
+- PDF pages: 172 (cover/title page verified against the record title; downloaded from the record's own NIE source after the GitHub tree route returned 404 — see group log, library debt note)
+- Verdict: COMPLETE
+- Tally: 9 placements — 0 to existing lessons, 9 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- Sri Lanka's own way: Same competency frame as the student book, with lesson-by-lesson guidance, quality inputs and assessment for each health competency.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Competency 6.1 — conforming to the ethics and social values by following the rules of sports (original string `fair-play-and-the-body/sports-rules-ethics-and-fair-play`) | Sri Lanka Grade 9 HPE TG English 2018, printed pp. 88–144 (third-term guidelines) (teacher guide — evidence) |
+
+**Book 8 — Grade 6 HPE Tamil 2007 (student book, Tamil):**
+- Title as printed: Health and Physical Education (சுகாதாரமும் உடற்கல்வியும்), Grade 6 [Tamil cover verified]
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; year 2007 (second edition, per record); ISBN no ISBN printed in the pages sampled
+- PDF pages: 52 (cover and contents verified; byte size matches the record's approval note; Noolaham source copy, GitHub tree route 404 — see group log)
+- Verdict: PARTIAL — image-only Tamil scan: cover and full contents read; placed at unit level
+- Tally: 10 placements — 0 to existing lessons, 10 NEW LESSON NEEDED (2 of them HELD-title-decision)
+- Sri Lanka's own way: Health begins in Grade 6 with the healthy society, healthy living, suitable food, the marvellous body, diseases and emotional balance.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Unit 7.0 — respecting the rules and ethics of sport (original string `fair-play-and-the-body/sports-rules-ethics-and-fair-play`) | Sri Lanka Grade 6 HPE Tamil 2007, printed p. 20 |
+
+Sri Lanka is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the student book(s) stocked here are Book 1, Book 8, so Sri Lanka is named in the countries line and provenance rows and the acceptance count rises from 4 to 5 countries; the teacher-guide rows, where present, are teacher-guide evidence only, outside the count. The Sri Lanka placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Sri Lanka's own way is content, as the book lines above record it: health is taught through the family and home first, then food, the body, emotions, adolescence and disease prevention, widening to the whole community and society, with the Piriven primary books teaching health almost entirely and the 1984 Grades 9–10 book teaching a full medical-foundations course. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.

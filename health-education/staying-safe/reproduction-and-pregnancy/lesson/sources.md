@@ -1,8 +1,8 @@
 # Sources — Reproduction and Pregnancy
 
-countries: Zambia, Samoa, Sierra Leone, Malaysia, Iran, Thailand, Jamaica, Nepal
+countries: Zambia, Samoa, Sierra Leone, Malaysia, Iran, Thailand, Jamaica, Nepal, Sri Lanka
 
-**Acceptance count: taught in 4 countries.** Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Sierra Leone is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Sierra Leone rows (see its Sierra Leone section below). Malaysia is filed as student-book stock, inside the acceptance count, in this lesson (see its Malaysia section below). Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Thailand is added as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count. Jamaica is filed as curriculum-guide evidence only in this lesson (see its Jamaica section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Jamaica rows in this lesson — both read Jamaica books are curriculum guides (TEACHER). Nepal is added as student-book stock (see its Nepal section below), inside the acceptance count.
+**Acceptance count: taught in 5 countries.** Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Sierra Leone is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Sierra Leone rows (see its Sierra Leone section below). Malaysia is filed as student-book stock, inside the acceptance count, in this lesson (see its Malaysia section below). Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Thailand is added as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count. Jamaica is filed as curriculum-guide evidence only in this lesson (see its Jamaica section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Jamaica rows in this lesson — both read Jamaica books are curriculum guides (TEACHER). Nepal is added as student-book stock (see its Nepal section below), inside the acceptance count.
 
 **Book 1 — Health Teacher Training, Participants Manual 2025 (teacher training manual, English):**
 - Title as printed: Health Teacher Training — Participants Manual (LB)
@@ -199,3 +199,84 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/nepal-health
 | Nepal — Family and Community Health — youth-friendly reproductive health services (original string `HELD-title-decision`) | Nepal 8 Health and Physical Education, printed p. 71 |
 
 Nepal is added as student-book stock (see its book lines and rows above), inside the acceptance count — all four Nepal books are STUDENT books, so Nepal is named in the countries line and provenance rows and the acceptance count rises from 3 to 4 countries. The Nepal placement(s) in this lesson filed as HELD-title-decision lines were resolved to this canonical lesson by registry Part 2B from their HELD descriptions, and placements filed directly under this lesson's own slug are recorded as filed; the original string is recorded in each provenance row above. Nepal's own way is content, as the book lines above record it: Health is taught inside combined CDC books on a nine-part spine repeated and deepened by grade, with Nepal's own ladder of health posts and hospitals named in the community-health lessons. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+## Sri Lanka — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/sri-lanka-health-placements.md. 6 Sri Lanka placement(s) stocked in this lesson. The Sri Lanka book(s) stocked in this lesson: Book 2, Book 3, Book L5, Book L7, Book 7, Book L13 of that file. Sri Lanka is student-book stock, inside the acceptance count, in this lesson; the teacher-guide books stocked here (where present) are teacher-guide evidence only, outside the count, and their rows are marked (teacher guide — evidence). Book 2 is PARTIAL as filed — front cover/imprint pages missing from this copy; all 21 teaching chapters present; Book 7 is PARTIAL as filed — image-only Tamil scan: cover, full contents and sampled chapter openings read; placed at chapter level, and those labels are kept as filed. Books 4 and 5 of that file are parallel Sinhala/Tamil editions of Book 3 with 0 placements, placed once under Book 3, and Book L4 is a parallel edition of the Grade 7 book with no duplicate placements — nothing stocked from them separately. The record-only items of that file (the govdoc.lk category-page records, and the 3 Noolaham records duplicated by secured books) carry 0 placements — nothing stocked from them. No Sri Lanka placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 2 — Grade 9 HPE English (student book, English):**
+- Title as printed: Health and Physical Education, Grade 9 (this copy opens at Chapter 1, printed p. 1; no cover/imprint pages in the file)
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department (inferred from the series; not printed in this copy); year not printed in this copy; ISBN no ISBN printed
+- PDF pages: 211 (first page verified as the book's own Chapter 1 against the record title)
+- Verdict: PARTIAL — front cover/imprint pages missing from this copy; all 21 teaching chapters present
+- Tally: 11 placements — 1 to existing lessons, 10 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- Sri Lanka's own way: Health widens from family (Grade 7) to the whole community and society: community health problems, self-actualization, nutrition, appearance, psychosocial fitness, gender and social challenges.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch.20 Let us identify gender responsibilities — gender as a social concept, male and female reproductive systems and gender responsibilities (original string `staying-safe/gender-roles-and-reproductive-health`) | Sri Lanka Grade 9 HPE English, printed p. 182 |
+
+**Book 3 — Grade 9 HPE Teacher Guide English 2018 (teacher guide, English):**
+- Title as printed: Health and Physical Education — Teachers' Guide, Grade 09 (implemented from 2018). NOTE: the record title calls it a "Health Teacher Guide" and lists health only, but the printed book is the full Health AND Physical Education guide, so it is filed into both courses.
+- Grade: 9 (student/teacher: TEACHER)
+- Publisher: National Institute of Education (Health & Physical Education Unit, Department of Science); year 2018 (first print 2018); ISBN no ISBN printed
+- PDF pages: 172 (cover/title page verified against the record title; downloaded from the record's own NIE source after the GitHub tree route returned 404 — see group log, library debt note)
+- Verdict: COMPLETE
+- Tally: 9 placements — 0 to existing lessons, 9 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- Sri Lanka's own way: Same competency frame as the student book, with lesson-by-lesson guidance, quality inputs and assessment for each health competency.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Competency 10.1 — facing challenges while acting with sexuality in a responsible way (gender responsibilities) (original string `staying-safe/gender-roles-and-reproductive-health`) | Sri Lanka Grade 9 HPE TG English 2018, printed pp. 88–144 (teacher guide — evidence) |
+
+**Book L5 — G8 HPE Tamil + Sinhala (student book, Tamil/Sinhala parallel editions) [group lk-l]:**
+- Title as printed: Health and Physical Education — Grade 8 (Tamil medium; Sinhala medium)
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; Tamil ed. ISBN 978-955-25-0139-5 (first print 2016; this file 2019 print)
+- PDF pages: Tamil 210, Sinhala 216 (covers verified; archive.org records 15/16 = edupub.gov.lk records 3/4, read once)
+- Verdict: COMPLETE (see PE file, Book L5, for the read method; a different edition from lk-t's secured 2021 Tamil edition)
+- Tally: 6 placements — 1 to an existing lesson, 5 NEW LESSON NEEDED (PE parts filed in the PE placements file, Book L5)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 11 — the reproductive system, and keeping safe from misconduct and abuse (original string `staying-safe/the-reproductive-system-and-keeping-safe`) | Sri Lanka Grade 8 G8 Tamil/Sinhala student book, printed p. 97 |
+
+**Book L7 — G10 HPE Sinhala + Tamil (student book, Sinhala/Tamil parallel editions) [group lk-l]:**
+- Title as printed: Health and Physical Education — Grade 10 (Sinhala medium; Tamil medium)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; Sinhala ed. ISBN 978-955-25-0401-3; Tamil ed. ISBN 978-955-25-0213-2 (prints 2014–2019)
+- PDF pages: Sinhala 238, Tamil 256 (covers verified; archive.org records 29/30 in targets-lk-l)
+- Verdict: COMPLETE — parallel editions; Chapter 6 already placed from the English edition (Book L2 in both files) and not re-placed here
+- Tally: 7 placements — 0 to existing lessons, 7 NEW LESSON NEEDED (PE parts filed in the PE placements file, Book L7)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 8 — the reproductive system and reproductive health (continues the new lesson opened by the Grade 8 book) (original string `staying-safe/the-reproductive-system-and-keeping-safe`) | Sri Lanka Grade 10 G10 Sinhala/Tamil student book, printed p. 153 |
+
+**Book 7 — Grade 8 HPE Tamil (student book, Tamil):**
+- Title as printed: Health and Physical Education (சுகாதாரமும் உடற்கல்வியும்), Grade 8 [Tamil cover verified]
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; year 2021 (per record); ISBN no ISBN printed in the pages sampled
+- PDF pages: 214 (cover and contents verified; Noolaham source copy, GitHub tree route 404 — see group log)
+- Verdict: PARTIAL — image-only Tamil scan: cover, full contents and sampled chapter openings read; placed at chapter level
+- Tally: 4 placements — 0 to existing lessons, 4 NEW LESSON NEEDED
+- Sri Lanka's own way: Grade 8 health centres on self-esteem, a healthy school environment, reproductive health and food quality.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch.11 Let us maintain reproductive health — reproductive-system health (original string `staying-safe/reproductive-health-and-puberty`) | Sri Lanka Grade 8 HPE Tamil, printed p. 131 (contents) |
+
+**Book L13 — G8 TG new 2017 English + Tamil (teacher guide, English/Tamil parallel editions) [group lk-l]:**
+- Title as printed: Health and Physical Education — Teacher's Guide, Grade 8 (new)
+- Grade: 8 (student/teacher: TEACHER)
+- Publisher: National Institute of Education; 2017; no ISBN printed
+- PDF pages: English 133, Tamil 148 (nie.lk records Health_TG_Gr_8_English_new / Health_TG_8_Tamil_new in targets-lk-l)
+- Verdict: COMPLETE — parallel editions; English read, Tamil spot-checked (see PE file, Book L13)
+- Tally: 5 placements — 0 to existing lessons, 5 NEW LESSON NEEDED (PE parts filed in the PE placements file, Book L13)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Competency 8 — teaching the wonder of the reproductive system, misconduct and abuse (continues the new lesson) (original string `staying-safe/the-reproductive-system-and-keeping-safe`) | Sri Lanka Grade 8 G8 TG 2017 English, syllabus printed p. xi ff. (teacher guide — evidence) |
+
+Sri Lanka is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the student book(s) stocked here are Book 2, Book L5, Book L7, Book 7, so Sri Lanka is named in the countries line and provenance rows and the acceptance count rises from 4 to 5 countries; the teacher-guide rows, where present, are teacher-guide evidence only, outside the count. The Sri Lanka placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Sri Lanka's own way is content, as the book lines above record it: health is taught through the family and home first, then food, the body, emotions, adolescence and disease prevention, widening to the whole community and society, with the Piriven primary books teaching health almost entirely and the 1984 Grades 9–10 book teaching a full medical-foundations course. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.

@@ -1,8 +1,8 @@
 # Sources — Getting Along and Solving Conflicts
 
-countries: Pakistan, Papua New Guinea, Eritrea
+countries: Pakistan, Papua New Guinea, Eritrea, Sri Lanka
 
-**Acceptance count: taught in 2 country.** Pakistan is filed as student-book stock, inside the acceptance count, in this lesson (see its Pakistan section below). Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Eritrea is added as student-book stock (see its Eritrea section below), inside the acceptance count — all three Eritrea books are STUDENT books.
+**Acceptance count: taught in 3 countries.** Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Pakistan is filed as student-book stock, inside the acceptance count, in this lesson (see its Pakistan section below). Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Eritrea is added as student-book stock (see its Eritrea section below), inside the acceptance count — all three Eritrea books are STUDENT books.
 
 ## Pakistan — Health expansion 2026-11-16
 
@@ -173,3 +173,21 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/eritrea-heal
 Eritrea is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — all the Eritrea books stocked here are STUDENT books, so Eritrea is named in the countries line and provenance rows and the acceptance count rises from 1 to 2 countries. The Eritrea placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved to this canonical lesson (`fair-play-and-the-body/getting-along-and-solving-conflicts`) by the health slug registry (Part 2A; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Eritrea's own way is content, as the book lines above record it: Eritrea teaches Health as "Life Skills Based Health Education" — learner-centred activity books built from case studies, dramas, role plays and community projects, spiralling goals, friendship, gender, abuse protection, HIV, puberty, nutrition, values, risk and community health through Grades 6–8. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
 Searchable tags: getting along and solving conflicts, conflicts, conflict resolution management, precautions for dealing with disputes, bullying, prevention of bullying in school, Pakistan Grades 6 7 8 9 10 Sehat-o-Jismani Taleem, Papua New Guinea, Papua New Guinea Grade 3 Health TG Grade 3, Papua New Guinea Grade 4 Health TG Grade 4, Papua New Guinea Grade 5 Health TG Grade 5, Papua New Guinea Grade 6 HPE TG Grade 6, Papua New Guinea Grade 7 HPE TG Grade 7, Papua New Guinea Grade 8 HPE TG Grade 8, Eritrea, Life Skills Based Health Education Eritrea Grades 6 7 8, Coping with Bullies
+
+## Sri Lanka — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/sri-lanka-health-placements.md. 1 Sri Lanka placement(s) stocked in this lesson. The Sri Lanka book(s) stocked in this lesson: Book L1 of that file. Sri Lanka is student-book stock, inside the acceptance count, in this lesson; the teacher-guide books stocked here (where present) are teacher-guide evidence only, outside the count, and their rows are marked (teacher guide — evidence). Books 4 and 5 of that file are parallel Sinhala/Tamil editions of Book 3 with 0 placements, placed once under Book 3, and Book L4 is a parallel edition of the Grade 7 book with no duplicate placements — nothing stocked from them separately. The record-only items of that file (the govdoc.lk category-page records, and the 3 Noolaham records duplicated by secured books) carry 0 placements — nothing stocked from them. No Sri Lanka placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book L1 — G11 English student book (student book, English) [group lk-l]:**
+- Title as printed: Health and Physical Education — Grade 11
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; first print 2015 (this file: fourth print 2019); ISBN 978-955-25-0335-1
+- PDF pages: 210 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 7 placements — 0 to existing lessons, 7 NEW LESSON NEEDED (1 of them HELD-title-decision) (PE parts of this combined book are filed in the PE placements file, Book L1)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 15 "Let us maintain good interpersonal relationships" — building and keeping healthy relationships (original string `staying-safe/good-interpersonal-relationships`) | Sri Lanka Grade 11 G11 English student book, printed p. 171 |
+
+Sri Lanka is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the student book(s) stocked here are Book L1, so Sri Lanka is named in the countries line and provenance rows and the acceptance count rises from 2 to 3 countries; the teacher-guide rows, where present, are teacher-guide evidence only, outside the count. The Sri Lanka placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Sri Lanka's own way is content, as the book lines above record it: health is taught through the family and home first, then food, the body, emotions, adolescence and disease prevention, widening to the whole community and society, with the Piriven primary books teaching health almost entirely and the 1984 Grades 9–10 book teaching a full medical-foundations course. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.

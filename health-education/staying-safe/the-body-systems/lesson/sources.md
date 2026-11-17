@@ -1,8 +1,8 @@
 # Sources — The Body Systems
 
-countries: Croatia, Honduras, Myanmar, Greece, Azerbaijan, Turkey, Zimbabwe, Pakistan, Papua New Guinea, Estonia, Thailand, Indonesia, Nepal, United Arab Emirates
+countries: Croatia, Honduras, Myanmar, Greece, Azerbaijan, Turkey, Zimbabwe, Pakistan, Papua New Guinea, Estonia, Thailand, Indonesia, Nepal, United Arab Emirates, Sri Lanka
 
-**Acceptance count: taught in 12 countries.** United Arab Emirates is added as student-book stock (see its United Arab Emirates section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Zimbabwe is filed as student-book stock, inside the acceptance count, in this lesson (see its Zimbabwe section below) — Book 1 is a STUDENT book; Books 5–8 stocked there are teacher-guide evidence only, outside the count. Croatia is filed as student-book stock, inside the acceptance count, in this lesson — as a publisher SAMPLE read, exactly as filed (see the book line below). Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guide stocked here is teacher-guide evidence only, outside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count. Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 7, *Foundations of PE & Sport Grade 6*, is a STUDENT book; Book 8, the Grade 6 Differentiation Activities teacher guide, is filed as teacher-guide evidence only, outside the count. Pakistan is added as student-book stock (see its Pakistan section below), inside the acceptance count. Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Estonia is filed as teacher-guide evidence only in this lesson (see its Estonia section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is stocked in this lesson for Estonia. Thailand is added as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count. The Indonesia teacher-guide rows in this lesson are filed as teacher-guide evidence only, outside the count. Nepal is added as student-book stock (see its Nepal section below), inside the acceptance count.
+**Acceptance count: taught in 13 countries.** Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. United Arab Emirates is added as student-book stock (see its United Arab Emirates section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Zimbabwe is filed as student-book stock, inside the acceptance count, in this lesson (see its Zimbabwe section below) — Book 1 is a STUDENT book; Books 5–8 stocked there are teacher-guide evidence only, outside the count. Croatia is filed as student-book stock, inside the acceptance count, in this lesson — as a publisher SAMPLE read, exactly as filed (see the book line below). Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guide stocked here is teacher-guide evidence only, outside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count. Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 7, *Foundations of PE & Sport Grade 6*, is a STUDENT book; Book 8, the Grade 6 Differentiation Activities teacher guide, is filed as teacher-guide evidence only, outside the count. Pakistan is added as student-book stock (see its Pakistan section below), inside the acceptance count. Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Estonia is filed as teacher-guide evidence only in this lesson (see its Estonia section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is stocked in this lesson for Estonia. Thailand is added as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count. The Indonesia teacher-guide rows in this lesson are filed as teacher-guide evidence only, outside the count. Nepal is added as student-book stock (see its Nepal section below), inside the acceptance count.
 
 **Book 1 — Čovjek i zdravlje (student book, Croatian):**
 - Title as printed: Čovjek i zdravlje — Udžbenik iz biologije za strukovne škole (Biology textbook for vocational schools)
@@ -523,3 +523,128 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/nepal-health
 | Nepal — Human Body — the nervous system: brain and spinal cord, the nerves, and the automatic (sympathetic and parasympathetic) system (original string `HELD-title-decision`) | Nepal 8 Health and Physical Education, printed p. 6 |
 
 Nepal is added as student-book stock (see its book lines and rows above), inside the acceptance count — all four Nepal books are STUDENT books, so Nepal is named in the countries line and provenance rows and the acceptance count rises from 10 to 11 countries. The Nepal placement(s) in this lesson filed as HELD-title-decision lines were resolved to this canonical lesson by registry Part 2B from their HELD descriptions, and placements filed directly under this lesson's own slug are recorded as filed; the original string is recorded in each provenance row above. Nepal's own way is content, as the book lines above record it: Health is taught inside combined CDC books on a nine-part spine repeated and deepened by grade, with Nepal's own ladder of health posts and hospitals named in the community-health lessons. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+## Sri Lanka — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/sri-lanka-health-placements.md. 17 Sri Lanka placement(s) stocked in this lesson. The Sri Lanka book(s) stocked in this lesson: Book 1, Book L1, Book L8, Book L10, Book L11, Book L15, Book L16, Book 8, Book 9 of that file. Sri Lanka is student-book stock, inside the acceptance count, in this lesson; the teacher-guide books stocked here (where present) are teacher-guide evidence only, outside the count, and their rows are marked (teacher guide — evidence). Book 8 is PARTIAL as filed — image-only Tamil scan: cover and full contents read; placed at unit level; Book 9 is PARTIAL as filed — image-only Tamil scan: cover, imprint and the full five-part contents read from rendered pages and placed at part level; not every interior page was read, and those labels are kept as filed. Books 4 and 5 of that file are parallel Sinhala/Tamil editions of Book 3 with 0 placements, placed once under Book 3, and Book L4 is a parallel edition of the Grade 7 book with no duplicate placements — nothing stocked from them separately. The record-only items of that file (the govdoc.lk category-page records, and the 3 Noolaham records duplicated by secured books) carry 0 placements — nothing stocked from them. No Sri Lanka placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 1 — Grade 7 HPE English (student book, English):**
+- Title as printed: Health and Physical Education, Grade 7
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; year 2015 (fifth print 2019); ISBN 978-955-25-0112-8
+- PDF pages: 186 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 8 placements — 0 to existing lessons, 8 NEW LESSON NEEDED (2 of them HELD-title-decision)
+- Sri Lanka's own way: Health is taught through the family and home first (healthy family environment, love and protection), then food, the body, emotions, adolescence and disease prevention, in the same combined book as PE.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch.10 Let us discover our body — digestive, respiratory, circulatory and excretory systems and their functions (body-knowledge material held for a title decision) (original string `staying-safe/HELD-title-decision`) | Sri Lanka Grade 7 HPE English, printed p. 103 |
+
+**Book L1 — G11 English student book (student book, English) [group lk-l]:**
+- Title as printed: Health and Physical Education — Grade 11
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; first print 2015 (this file: fourth print 2019); ISBN 978-955-25-0335-1
+- PDF pages: 210 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 7 placements — 0 to existing lessons, 7 NEW LESSON NEEDED (1 of them HELD-title-decision) (PE parts of this combined book are filed in the PE placements file, Book L1)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 13 "Let us understand the musculoskeletal system" — bones, joints and muscles and how they work in movement (body-systems knowledge; fits neither existing Health title) (original string `staying-safe/HELD-title-decision`) | Sri Lanka Grade 11 G11 English student book, printed p. 139 |
+
+**Book L8 — Piriven G3 HPE (student book, Sinhala) [group lk-l]:**
+- Title as printed: Health and Physical Education — Grade 3, Piriven textbook (Sinhala medium)
+- Grade: 3 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department, Piriven textbook series (served by govdoc.lk); no imprint page in the file; no ISBN printed in the file
+- PDF pages: 138 (first page verified visually: Chapter 1 opening, printed p. 1; govdoc record E7-14 in targets-lk-l)
+- Verdict: COMPLETE — primary-level health book (the Piriven primary series teaches health almost entirely; no PE/games chapters). Read via chapter-opening pages and sampled spreads across all 8 chapters.
+- Tally: 10 placements — 1 to an existing lesson, 9 NEW LESSON NEEDED (3 of them HELD-title-decision). PE file: Book L8 records 0 PE placements.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 3 — the blood circulatory system and blood groups (body-systems knowledge; fits neither existing Health title) (original string `staying-safe/HELD-title-decision`) | Sri Lanka Grade 3 Piriven G3 student book, printed p. 44 |
+| Sri Lanka — Ch. 4 — the exercise (muscular) system: how muscles move the body (body-systems knowledge) (original string `staying-safe/HELD-title-decision`) | Sri Lanka Grade 3 Piriven G3 student book, printed p. 53 |
+| Sri Lanka — Ch. 5 — the respiratory system (body-systems knowledge) (original string `staying-safe/HELD-title-decision`) | Sri Lanka Grade 3 Piriven G3 student book, printed p. 61 |
+
+**Book L10 — Piriven G5 HPE (student book, Sinhala) [group lk-l]:**
+- Title as printed: Health and Physical Education — Grade 5, Piriven textbook (Sinhala medium)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department, Piriven textbook series (served by govdoc.lk); no imprint page in the file; no ISBN printed in the file
+- PDF pages: 175 (first page verified visually: Chapter 1 opening, printed p. 1; govdoc record E7-35 in targets-lk-l)
+- Verdict: COMPLETE — primary health book built around the body systems, no PE/games chapters. Read via chapter openings and sampled spreads across all 14 chapters.
+- Tally: 14 placements — 1 to an existing lesson, 13 NEW LESSON NEEDED (6 of them HELD-title-decision). PE file: Book L10 records 0 PE placements.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 3 — the body's exercise (muscular) system (body-systems knowledge) (original string `staying-safe/HELD-title-decision`) | Sri Lanka Grade 5 Piriven G5 student book, printed p. 20 |
+| Sri Lanka — Ch. 4 — the nervous system and its disorders (body-systems knowledge) (original string `staying-safe/HELD-title-decision`) | Sri Lanka Grade 5 Piriven G5 student book, printed p. 31 |
+| Sri Lanka — Ch. 5 — the blood circulatory system (body-systems knowledge) (original string `staying-safe/HELD-title-decision`) | Sri Lanka Grade 5 Piriven G5 student book, printed p. 43 |
+| Sri Lanka — Ch. 6 — the food digestive system and its disorders (body-systems knowledge) (original string `staying-safe/HELD-title-decision`) | Sri Lanka Grade 5 Piriven G5 student book, printed p. 58 |
+| Sri Lanka — Ch. 7 — the respiratory system (body-systems knowledge) (original string `staying-safe/HELD-title-decision`) | Sri Lanka Grade 5 Piriven G5 student book, printed p. 67 |
+| Sri Lanka — Ch. 9 — the excretory system (body-systems knowledge) (original string `staying-safe/HELD-title-decision`) | Sri Lanka Grade 5 Piriven G5 student book, printed p. 96 |
+
+**Book L11 — G7 TG 2016 English + Tamil (teacher guide, English/Tamil parallel editions) [group lk-l]:**
+- Title as printed: Health and Physical Education — Teacher's Guide, Grade 7 (effective from 2016)
+- Grade: 7 (student/teacher: TEACHER)
+- Publisher: National Institute of Education; 2016; no ISBN printed
+- PDF pages: English 129, Tamil 128 (nie.lk records e7tim155 / t7tim155 in targets-lk-l)
+- Verdict: COMPLETE — parallel editions; English read, Tamil spot-checked (see PE file, Book L11)
+- Tally: 5 placements — 0 to existing lessons, 5 NEW LESSON NEEDED (1 of them HELD-title-decision) (PE parts filed in the PE placements file, Book L11)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Competency 8 — teaching the wonder of the body systems (body-systems knowledge; fits neither existing Health title) (original string `staying-safe/HELD-title-decision`) | Sri Lanka Grade 7 G7 TG 2016 English, syllabus printed pp. xi–xxxii (teacher guide — evidence) |
+
+**Book L15 — G10 TG 2015 English + Tamil (teacher guide, English/Tamil parallel editions) [group lk-l]:**
+- Title as printed: Health & Physical Education — Teacher's Guide, Grade 10 (2015)
+- Grade: 10 (student/teacher: TEACHER)
+- Publisher: National Institute of Education; 2015; no ISBN printed
+- PDF pages: English 193, Tamil 199 (nie.lk records e10tim116 / t10tim116 in targets-lk-l)
+- Verdict: COMPLETE — parallel editions; English read, Tamil spot-checked (see PE file, Book L15)
+- Tally: 5 placements — 1 to an existing lesson, 4 NEW LESSON NEEDED (PE parts filed in the PE placements file, Book L15)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Competency 8 — teaching an efficient life through the body systems (body-systems knowledge; fits neither existing Health title) (original string `staying-safe/HELD-title-decision`) | Sri Lanka Grade 10 G10 TG 2015 English, syllabus printed pp. ix–xxvii (teacher guide — evidence) |
+
+**Book L16 — G11 TG 2016 English + Tamil (teacher guide, English/Tamil parallel editions) [group lk-l]:**
+- Title as printed: Health and Physical Education — Teacher's Guide, Grade 11 (effective from 2016)
+- Grade: 11 (student/teacher: TEACHER)
+- Publisher: National Institute of Education; 2016; no ISBN printed
+- PDF pages: English 109, Tamil 146 (nie.lk records e11tim155 / t11tim155 in targets-lk-l)
+- Verdict: COMPLETE — parallel editions; English read, Tamil spot-checked (see PE file, Book L16)
+- Tally: 5 placements — 0 to existing lessons, 5 NEW LESSON NEEDED (PE parts filed in the PE placements file, Book L16)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Competency 8 — teaching the body systems that assist movement and life (body-systems knowledge; fits neither existing Health title) (original string `staying-safe/HELD-title-decision`) | Sri Lanka Grade 11 G11 TG 2016 English, syllabus printed pp. xi–xxiii (teacher guide — evidence) |
+
+**Book 8 — Grade 6 HPE Tamil 2007 (student book, Tamil):**
+- Title as printed: Health and Physical Education (சுகாதாரமும் உடற்கல்வியும்), Grade 6 [Tamil cover verified]
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; year 2007 (second edition, per record); ISBN no ISBN printed in the pages sampled
+- PDF pages: 52 (cover and contents verified; byte size matches the record's approval note; Noolaham source copy, GitHub tree route 404 — see group log)
+- Verdict: PARTIAL — image-only Tamil scan: cover and full contents read; placed at unit level
+- Tally: 10 placements — 0 to existing lessons, 10 NEW LESSON NEEDED (2 of them HELD-title-decision)
+- Sri Lanka's own way: Health begins in Grade 6 with the healthy society, healthy living, suitable food, the marvellous body, diseases and emotional balance.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Unit 9.0 — the marvellous body and living efficiently with it (body-knowledge material held for a title decision) (original string `staying-safe/HELD-title-decision`) | Sri Lanka Grade 6 HPE Tamil 2007, printed p. 26 |
+| Sri Lanka — Unit 10.0 — caring for the muscles (body-knowledge material held for a title decision) (original string `staying-safe/HELD-title-decision`) | Sri Lanka Grade 6 HPE Tamil 2007, printed p. 30 |
+
+**Book 9 — Grades 9–10 Health Education Tamil 1984 (student book, Tamil):**
+- Title as printed: Health Education (சுகாதாரக் கல்வி) [Tamil cover verified]
+- Grade: 9–10 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department (printed at the Government Press); year 1984 (first edition, per imprint); ISBN no ISBN printed
+- PDF pages: 244 (cover, imprint and full contents verified; Noolaham source copy, GitHub tree route 404 — see group log)
+- Verdict: PARTIAL — image-only Tamil scan: cover, imprint and the full five-part contents read from rendered pages and placed at part level; not every interior page was read. Pure Health Education — no PE parts (see the PE file's record-only entry).
+- Tally: 6 placements — 1 to existing lessons, 5 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- Sri Lanka's own way: The 1984 health textbook is a full medical-foundations course for Grades 9–10: anatomy and physiology first, then food, diseases, water and sanitation, and a long practical first-aid section.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Part II — anatomy and physiology: cells and tissues, blood and circulation, heart, alimentary canal, digestion, respiration, excretion, skin, muscles, skeleton, nerves, ear, eye and reproduction (body-knowledge material held for a title decision) (original string `staying-safe/HELD-title-decision`) | Sri Lanka Grades 9–10 Health Education Tamil 1984, printed pp. 11–89 |
+
+Sri Lanka is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the student book(s) stocked here are Book 1, Book L1, Book L8, Book L10, Book 8, Book 9, so Sri Lanka is named in the countries line and provenance rows and the acceptance count rises from 12 to 13 countries; the teacher-guide rows, where present, are teacher-guide evidence only, outside the count. The Sri Lanka placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Sri Lanka's own way is content, as the book lines above record it: health is taught through the family and home first, then food, the body, emotions, adolescence and disease prevention, widening to the whole community and society, with the Piriven primary books teaching health almost entirely and the 1984 Grades 9–10 book teaching a full medical-foundations course. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.

@@ -1,8 +1,8 @@
 # Sources — Health Services and Health Workers
 
-countries: Samoa, Philippines, Turkey, Papua New Guinea, Thailand, Indonesia, Nepal, Maldives, United Arab Emirates
+countries: Samoa, Philippines, Turkey, Papua New Guinea, Thailand, Indonesia, Nepal, Maldives, United Arab Emirates, Sri Lanka
 
-**Acceptance count: taught in 6 countries.** United Arab Emirates is added as student-book stock (see its United Arab Emirates section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Samoa is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this lesson. Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book. Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Thailand is added as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count. The Indonesia teacher-guide rows in this lesson are filed as teacher-guide evidence only, outside the count. Nepal is added as student-book stock (see its Nepal section below), inside the acceptance count. Maldives is filed as teacher-guide evidence only in this lesson (see its Maldives section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Maldives rows in this lesson.
+**Acceptance count: taught in 7 countries.** Sri Lanka is added as student-book stock (see its Sri Lanka section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. United Arab Emirates is added as student-book stock (see its United Arab Emirates section below), inside the acceptance count; its teacher-guide rows in this lesson, where present, are teacher-guide evidence only, outside the count. Samoa is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this lesson. Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book. Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Thailand is added as student-book stock (publisher SAMPLE editions, PARTIAL as filed — see its Thailand section below), inside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count. The Indonesia teacher-guide rows in this lesson are filed as teacher-guide evidence only, outside the count. Nepal is added as student-book stock (see its Nepal section below), inside the acceptance count. Maldives is filed as teacher-guide evidence only in this lesson (see its Maldives section below) — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Maldives rows in this lesson.
 
 **Book 1 — Samoa HPE Teacher Guide, Years 11–12 (teacher guide, English):**
 - Title as printed: Health and Physical Education Teacher Guide, Years 11 and 12
@@ -301,3 +301,206 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/nepal-health
 | Nepal — Let's Enjoy Health Service and Let's Co-operate — a dialogue lesson on using health services and cooperating to keep the community healthy (original string `HELD-title-decision`) | Nepal 5 My Science, Health and Physical Education, printed p. 116 |
 
 Nepal is added as student-book stock (see its book lines and rows above), inside the acceptance count — all four Nepal books are STUDENT books, so Nepal is named in the countries line and provenance rows and the acceptance count rises from 4 to 5 countries. The Nepal placement(s) in this lesson filed as HELD-title-decision lines were resolved to this canonical lesson by registry Part 2B from their HELD descriptions, and placements filed directly under this lesson's own slug are recorded as filed; the original string is recorded in each provenance row above. Nepal's own way is content, as the book lines above record it: Health is taught inside combined CDC books on a nine-part spine repeated and deepened by grade, with Nepal's own ladder of health posts and hospitals named in the community-health lessons. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+## Sri Lanka — Health expansion 2026-11-17
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/sri-lanka-health-placements.md. 18 Sri Lanka placement(s) stocked in this lesson. The Sri Lanka book(s) stocked in this lesson: Book L1, Book 2, Book 3, Book L5, Book L6, Book L7, Book L8, Book L9, Book L10, Book L11, Book L12, Book L13, Book L14, Book L15, Book L16, Book 8 of that file. Sri Lanka is student-book stock, inside the acceptance count, in this lesson; the teacher-guide books stocked here (where present) are teacher-guide evidence only, outside the count, and their rows are marked (teacher guide — evidence). Book 2 is PARTIAL as filed — front cover/imprint pages missing from this copy; all 21 teaching chapters present; Book 8 is PARTIAL as filed — image-only Tamil scan: cover and full contents read; placed at unit level, and those labels are kept as filed. Books 4 and 5 of that file are parallel Sinhala/Tamil editions of Book 3 with 0 placements, placed once under Book 3, and Book L4 is a parallel edition of the Grade 7 book with no duplicate placements — nothing stocked from them separately. The record-only items of that file (the govdoc.lk category-page records, and the 3 Noolaham records duplicated by secured books) carry 0 placements — nothing stocked from them. No Sri Lanka placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book L1 — G11 English student book (student book, English) [group lk-l]:**
+- Title as printed: Health and Physical Education — Grade 11
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; first print 2015 (this file: fourth print 2019); ISBN 978-955-25-0335-1
+- PDF pages: 210 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 7 placements — 0 to existing lessons, 7 NEW LESSON NEEDED (1 of them HELD-title-decision) (PE parts of this combined book are filed in the PE placements file, Book L1)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 1 "Let us build a healthy society" — school health promotion, total health and quality of life in family and community (original string `staying-safe/building-a-healthy-society`) | Sri Lanka Grade 11 G11 English student book, printed p. 1 |
+
+**Book 2 — Grade 9 HPE English (student book, English):**
+- Title as printed: Health and Physical Education, Grade 9 (this copy opens at Chapter 1, printed p. 1; no cover/imprint pages in the file)
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department (inferred from the series; not printed in this copy); year not printed in this copy; ISBN no ISBN printed
+- PDF pages: 211 (first page verified as the book's own Chapter 1 against the record title)
+- Verdict: PARTIAL — front cover/imprint pages missing from this copy; all 21 teaching chapters present
+- Tally: 11 placements — 1 to existing lessons, 10 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- Sri Lanka's own way: Health widens from family (Grade 7) to the whole community and society: community health problems, self-actualization, nutrition, appearance, psychosocial fitness, gender and social challenges.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch.1 Let us build a healthy society — community, the four sides of health, community health problems and health promotion (original string `staying-safe/building-a-healthy-society-and-community-health`) | Sri Lanka Grade 9 HPE English, printed p. 1 |
+
+**Book 3 — Grade 9 HPE Teacher Guide English 2018 (teacher guide, English):**
+- Title as printed: Health and Physical Education — Teachers' Guide, Grade 09 (implemented from 2018). NOTE: the record title calls it a "Health Teacher Guide" and lists health only, but the printed book is the full Health AND Physical Education guide, so it is filed into both courses.
+- Grade: 9 (student/teacher: TEACHER)
+- Publisher: National Institute of Education (Health & Physical Education Unit, Department of Science); year 2018 (first print 2018); ISBN no ISBN printed
+- PDF pages: 172 (cover/title page verified against the record title; downloaded from the record's own NIE source after the GitHub tree route returned 404 — see group log, library debt note)
+- Verdict: COMPLETE
+- Tally: 9 placements — 0 to existing lessons, 9 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- Sri Lanka's own way: Same competency frame as the student book, with lesson-by-lesson guidance, quality inputs and assessment for each health competency.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Competency 1.1 — contributing to minimize social health problems (original string `staying-safe/building-a-healthy-society-and-community-health`) | Sri Lanka Grade 9 HPE TG English 2018, printed pp. 3–41 (first-term guidelines) (teacher guide — evidence) |
+
+**Book L5 — G8 HPE Tamil + Sinhala (student book, Tamil/Sinhala parallel editions) [group lk-l]:**
+- Title as printed: Health and Physical Education — Grade 8 (Tamil medium; Sinhala medium)
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; Tamil ed. ISBN 978-955-25-0139-5 (first print 2016; this file 2019 print)
+- PDF pages: Tamil 210, Sinhala 216 (covers verified; archive.org records 15/16 = edupub.gov.lk records 3/4, read once)
+- Verdict: COMPLETE (see PE file, Book L5, for the read method; a different edition from lk-t's secured 2021 Tamil edition)
+- Tally: 6 placements — 1 to an existing lesson, 5 NEW LESSON NEEDED (PE parts filed in the PE placements file, Book L5)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 1 — building a healthy society through school health promotion (continues the new lesson opened by the Grade 11 book) (original string `staying-safe/building-a-healthy-society`) | Sri Lanka Grade 8 G8 Tamil/Sinhala student book, printed p. 1 |
+
+**Book L6 — G9 HPE Sinhala + Tamil (student book, Sinhala/Tamil parallel editions) [group lk-l]:**
+- Title as printed: Health and Physical Education — Grade 9 (Sinhala medium; Tamil medium)
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; Sinhala ed. ISBN 978-955-25-0371-9 (2017); Tamil ed. ISBN 978-955-25-0169-2 (2017)
+- PDF pages: Sinhala 222, Tamil 244 (covers verified; archive.org records 27/28 = edupub record 5 for the Tamil book, read once)
+- Verdict: COMPLETE — parallel editions (see PE file, Book L6)
+- Tally: 9 placements — 0 to existing lessons, 9 NEW LESSON NEEDED (1 of them HELD-title-decision) (PE parts filed in the PE placements file, Book L6)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 1 — building a healthy society (continues the new lesson) (original string `staying-safe/building-a-healthy-society`) | Sri Lanka Grade 9 G9 Sinhala/Tamil student book, printed p. 1 |
+
+**Book L7 — G10 HPE Sinhala + Tamil (student book, Sinhala/Tamil parallel editions) [group lk-l]:**
+- Title as printed: Health and Physical Education — Grade 10 (Sinhala medium; Tamil medium)
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; Sinhala ed. ISBN 978-955-25-0401-3; Tamil ed. ISBN 978-955-25-0213-2 (prints 2014–2019)
+- PDF pages: Sinhala 238, Tamil 256 (covers verified; archive.org records 29/30 in targets-lk-l)
+- Verdict: COMPLETE — parallel editions; Chapter 6 already placed from the English edition (Book L2 in both files) and not re-placed here
+- Tally: 7 placements — 0 to existing lessons, 7 NEW LESSON NEEDED (PE parts filed in the PE placements file, Book L7)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 1 — building a healthy society (continues the new lesson) (original string `staying-safe/building-a-healthy-society`) | Sri Lanka Grade 10 G10 Sinhala/Tamil student book, printed p. 1 |
+
+**Book L8 — Piriven G3 HPE (student book, Sinhala) [group lk-l]:**
+- Title as printed: Health and Physical Education — Grade 3, Piriven textbook (Sinhala medium)
+- Grade: 3 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department, Piriven textbook series (served by govdoc.lk); no imprint page in the file; no ISBN printed in the file
+- PDF pages: 138 (first page verified visually: Chapter 1 opening, printed p. 1; govdoc record E7-14 in targets-lk-l)
+- Verdict: COMPLETE — primary-level health book (the Piriven primary series teaches health almost entirely; no PE/games chapters). Read via chapter-opening pages and sampled spreads across all 8 chapters.
+- Tally: 10 placements — 1 to an existing lesson, 9 NEW LESSON NEEDED (3 of them HELD-title-decision). PE file: Book L8 records 0 PE placements.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 7 — health promotion and health services, including the school health programme and choosing nutritious food (original string `staying-safe/school-health-services-and-health-promotion`) | Sri Lanka Grade 3 Piriven G3 student book, printed p. 78 |
+
+**Book L9 — Piriven G4 HPE (student book, Sinhala) [group lk-l]:**
+- Title as printed: Health and Physical Education — Grade 4, Piriven textbook (Sinhala medium)
+- Grade: 4 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department, Piriven textbook series (served by govdoc.lk); no imprint page in the file; no ISBN printed in the file
+- PDF pages: 145 (first pages verified; govdoc record E7-24 in targets-lk-l)
+- Verdict: COMPLETE — primary health book, no PE/games chapters. Read via chapter openings and sampled spreads across all 7 chapters (disease lists read in full — they name each disease with its prevention steps).
+- Tally: 8 placements — 1 to an existing lesson, 7 NEW LESSON NEEDED. PE file: Book L9 records 0 PE placements.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 1 "Let us build a healthy society" — total health, health promotion and health services (continues the new lesson) (original string `staying-safe/building-a-healthy-society`) | Sri Lanka Grade 4 Piriven G4 student book, printed p. 1 |
+
+**Book L10 — Piriven G5 HPE (student book, Sinhala) [group lk-l]:**
+- Title as printed: Health and Physical Education — Grade 5, Piriven textbook (Sinhala medium)
+- Grade: 5 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department, Piriven textbook series (served by govdoc.lk); no imprint page in the file; no ISBN printed in the file
+- PDF pages: 175 (first page verified visually: Chapter 1 opening, printed p. 1; govdoc record E7-35 in targets-lk-l)
+- Verdict: COMPLETE — primary health book built around the body systems, no PE/games chapters. Read via chapter openings and sampled spreads across all 14 chapters.
+- Tally: 14 placements — 1 to an existing lesson, 13 NEW LESSON NEEDED (6 of them HELD-title-decision). PE file: Book L10 records 0 PE placements.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Ch. 1 "Let us build a healthy society" (continues the new lesson) (original string `staying-safe/building-a-healthy-society`) | Sri Lanka Grade 5 Piriven G5 student book, printed p. 1 |
+| Sri Lanka — Ch. 10 — health services and our contribution to them (continues the new lesson) (original string `staying-safe/school-health-services-and-health-promotion`) | Sri Lanka Grade 5 Piriven G5 student book, printed p. 102 |
+| Sri Lanka — Ch. 12 — children and the school health programme (continues the new lesson) (original string `staying-safe/school-health-services-and-health-promotion`) | Sri Lanka Grade 5 Piriven G5 student book, printed p. 128 |
+
+**Book L11 — G7 TG 2016 English + Tamil (teacher guide, English/Tamil parallel editions) [group lk-l]:**
+- Title as printed: Health and Physical Education — Teacher's Guide, Grade 7 (effective from 2016)
+- Grade: 7 (student/teacher: TEACHER)
+- Publisher: National Institute of Education; 2016; no ISBN printed
+- PDF pages: English 129, Tamil 128 (nie.lk records e7tim155 / t7tim155 in targets-lk-l)
+- Verdict: COMPLETE — parallel editions; English read, Tamil spot-checked (see PE file, Book L11)
+- Tally: 5 placements — 0 to existing lessons, 5 NEW LESSON NEEDED (1 of them HELD-title-decision) (PE parts filed in the PE placements file, Book L11)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Competency 1 — teaching health promotion: the health promotion concept and school health (continues the new lesson) (original string `staying-safe/building-a-healthy-society`) | Sri Lanka Grade 7 G7 TG 2016 English, syllabus printed pp. xi–xxxii (teacher guide — evidence) |
+
+**Book L12 — G7 TG old syllabus English 2008 + Tamil 2007 (teacher guide, English/Tamil parallel editions) [group lk-l]:**
+- Title as printed: Health & Physical Education — Teacher's Guide, Grade 7 (2007 syllabus)
+- Grade: 7 (student/teacher: TEACHER)
+- Publisher: National Institute of Education; English ed. 2008, Tamil ed. 2007; no ISBN printed
+- PDF pages: English 221, Tamil 259 (nie.lk records e7tim20 / t7tim20 in targets-lk-l)
+- Verdict: COMPLETE — old-syllabus edition, filed separately (see PE file, Book L12)
+- Tally: 3 placements — 0 to existing lessons, 3 NEW LESSON NEEDED
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Competency 1 "Contributes to the building up of a healthy society" — teaching health promotion and maintaining a healthy environment (continues the new lesson) (original string `staying-safe/building-a-healthy-society`) | Sri Lanka Grade 7 G7 TG 2008 English, detailed syllabus (teacher guide — evidence) |
+
+**Book L13 — G8 TG new 2017 English + Tamil (teacher guide, English/Tamil parallel editions) [group lk-l]:**
+- Title as printed: Health and Physical Education — Teacher's Guide, Grade 8 (new)
+- Grade: 8 (student/teacher: TEACHER)
+- Publisher: National Institute of Education; 2017; no ISBN printed
+- PDF pages: English 133, Tamil 148 (nie.lk records Health_TG_Gr_8_English_new / Health_TG_8_Tamil_new in targets-lk-l)
+- Verdict: COMPLETE — parallel editions; English read, Tamil spot-checked (see PE file, Book L13)
+- Tally: 5 placements — 0 to existing lessons, 5 NEW LESSON NEEDED (PE parts filed in the PE placements file, Book L13)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Competency 1 — teaching health promotion of the school and a healthy school environment (continues the new lesson) (original string `staying-safe/building-a-healthy-society`) | Sri Lanka Grade 8 G8 TG 2017 English, syllabus printed p. xi ff. (teacher guide — evidence) |
+
+**Book L14 — G8 TG old syllabus Tamil 2009 (teacher guide, Tamil) [group lk-l]:**
+- Title as printed: Health & Physical Education — Teacher's Guide, Grade 8 (2007 syllabus, Tamil medium)
+- Grade: 8 (student/teacher: TEACHER)
+- Publisher: National Institute of Education; 2009; no ISBN printed
+- PDF pages: 245 (nie.lk record t8tim20 in targets-lk-l)
+- Verdict: COMPLETE as the old-syllabus Tamil guide (see PE file, Book L14)
+- Tally: 3 placements — 0 to existing lessons, 3 NEW LESSON NEEDED
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — health-promotion competency — teaching the building of a healthy society (continues the new lesson) (original string `staying-safe/building-a-healthy-society`) | Sri Lanka Grade 8 G8 TG 2009 Tamil, detailed syllabus (teacher guide — evidence) |
+
+**Book L15 — G10 TG 2015 English + Tamil (teacher guide, English/Tamil parallel editions) [group lk-l]:**
+- Title as printed: Health & Physical Education — Teacher's Guide, Grade 10 (2015)
+- Grade: 10 (student/teacher: TEACHER)
+- Publisher: National Institute of Education; 2015; no ISBN printed
+- PDF pages: English 193, Tamil 199 (nie.lk records e10tim116 / t10tim116 in targets-lk-l)
+- Verdict: COMPLETE — parallel editions; English read, Tamil spot-checked (see PE file, Book L15)
+- Tally: 5 placements — 1 to an existing lesson, 4 NEW LESSON NEEDED (PE parts filed in the PE placements file, Book L15)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Competency 1 — teaching health promotion, including population density and its adverse effects on health (continues the new lesson) (original string `staying-safe/building-a-healthy-society`) | Sri Lanka Grade 10 G10 TG 2015 English, syllabus printed pp. ix–xxvii (teacher guide — evidence) |
+
+**Book L16 — G11 TG 2016 English + Tamil (teacher guide, English/Tamil parallel editions) [group lk-l]:**
+- Title as printed: Health and Physical Education — Teacher's Guide, Grade 11 (effective from 2016)
+- Grade: 11 (student/teacher: TEACHER)
+- Publisher: National Institute of Education; 2016; no ISBN printed
+- PDF pages: English 109, Tamil 146 (nie.lk records e11tim155 / t11tim155 in targets-lk-l)
+- Verdict: COMPLETE — parallel editions; English read, Tamil spot-checked (see PE file, Book L16)
+- Tally: 5 placements — 0 to existing lessons, 5 NEW LESSON NEEDED (PE parts filed in the PE placements file, Book L16)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Competency 1.1 — teaching the health promotion concept and the school health promotion programme, including food sale/consumption rules and the drugs prevention programme in school policy (continues the new lesson) (original string `staying-safe/building-a-healthy-society`) | Sri Lanka Grade 11 G11 TG 2016 English, syllabus printed pp. xi–xxiii (teacher guide — evidence) |
+
+**Book 8 — Grade 6 HPE Tamil 2007 (student book, Tamil):**
+- Title as printed: Health and Physical Education (சுகாதாரமும் உடற்கல்வியும்), Grade 6 [Tamil cover verified]
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: Educational Publications Department; year 2007 (second edition, per record); ISBN no ISBN printed in the pages sampled
+- PDF pages: 52 (cover and contents verified; byte size matches the record's approval note; Noolaham source copy, GitHub tree route 404 — see group log)
+- Verdict: PARTIAL — image-only Tamil scan: cover and full contents read; placed at unit level
+- Tally: 10 placements — 0 to existing lessons, 10 NEW LESSON NEEDED (2 of them HELD-title-decision)
+- Sri Lanka's own way: Health begins in Grade 6 with the healthy society, healthy living, suitable food, the marvellous body, diseases and emotional balance.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sri Lanka — Unit 1.0 — our contribution to building a healthy society (original string `staying-safe/building-a-healthy-society-and-community-health`) | Sri Lanka Grade 6 HPE Tamil 2007, printed p. 1 |
+
+Sri Lanka is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the student book(s) stocked here are Book L1, Book 2, Book L5, Book L6, Book L7, Book L8, Book L9, Book L10, Book 8, so Sri Lanka is named in the countries line and provenance rows and the acceptance count rises from 6 to 7 countries; the teacher-guide rows, where present, are teacher-guide evidence only, outside the count. The Sri Lanka placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the health slug registry (Part 2A for descriptive slug strings, Part 2B for HELD-title-decision lines; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Sri Lanka's own way is content, as the book lines above record it: health is taught through the family and home first, then food, the body, emotions, adolescence and disease prevention, widening to the whole community and society, with the Piriven primary books teaching health almost entirely and the 1984 Grades 9–10 book teaching a full medical-foundations course. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
