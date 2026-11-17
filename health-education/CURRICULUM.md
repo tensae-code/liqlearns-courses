@@ -851,3 +851,38 @@ the school; and Grade 7 healthy living taught as projects
 (clean-up campaigns, walk-to-school, first aid training)
 with SMART goals, alongside the balanced-diet plate model,
 sleep and hygiene.
+
+**Health expansion — Sierra Leone — BUILT 2026-11-16:** 39 placements
+stocked — 28 into existing lessons and 11 as 2 new lessons
+(**Sex and Consent** (`staying-safe/sex-and-consent`) and
+**Making Good Decisions**
+(`fair-play-and-the-body/making-good-decisions`)) — bringing
+this course to **51 lessons**. Stocked into existing lessons:
+Puberty and Growing Up (2), Knowing Myself and My Feelings
+(2), Family and Friends (3), Keeping My Body Clean (1),
+Eating a Balanced Diet (1), Mental Health and Wellbeing (1),
+Reproduction and Pregnancy (8), Protecting Myself from Abuse
+(5), Staying Safe Online (1), Saying No to Drugs, Alcohol and
+Tobacco (1) and STIs and HIV Prevention (3). All 39 placements
+are from Book 1, *Teaching and Learning Materials for
+Adolescent Health and Life Skills (AHLS) — SSS* (AHLS
+Teacher's Manual SSS1–3, teacher guide, MBSSE, Sierra Leone,
+2025, COMPLETE — all 39 lesson plans for SSS1–3 present and
+read). The Sierra Leone book is a TEACHER manual, so Sierra
+Leone is filed as teacher-guide evidence only in every lesson
+it touches — named in the countries lines and provenance rows,
+but outside the acceptance counts (existing lessons' counts
+unchanged; both new lessons stand at acceptance count 0,
+founded on teacher-guide evidence only, no pupil's book in
+hand). No Sierra Leone placement resolves to a PE-course
+lesson, so none was excluded as PE-bound. Records 2 and 3 of
+the placements file (Menstrual Hygiene Kits impact paper
+2022; Hygiene Kits information brief — both Leh Wi Lan
+programme papers, 1 page each) are RECORD-ONLY, non-textbook
+material with 0 placements, never placed; nothing is stocked
+from them. Sierra Leone's own way is recorded as content in
+the book lines: a standalone Adolescent Health and Life
+Skills subject taught through discussion-based lesson plans
+that build year by year — body changes and life skills in
+SSS1, sexuality, relationships and pregnancy in SSS2,
+violence, trafficking, substance abuse and HIV/Ebola in SSS3.

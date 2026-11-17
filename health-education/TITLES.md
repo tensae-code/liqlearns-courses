@@ -320,3 +320,22 @@ none was excluded as PE-bound. The Spring Up in Science
 and Technology Grade 7 preview and the PlusOne G2 and G6
 teacher guides' health parts are record-only / UNREAD with
 0 placements, nothing stocked from them.
+
+The Health expansion then added (Sierra Leone): **Sex and
+Consent** (`staying-safe/sex-and-consent`) and **Making Good
+Decisions** (`fair-play-and-the-body/making-good-decisions`)
+— 2 new lessons, bringing this course to 51 lessons. A
+further 28 Sierra Leone placements were stocked into
+existing lessons (Reproduction and Pregnancy ×8, Protecting
+Myself from Abuse ×5, Family and Friends ×3, STIs and HIV
+Prevention ×3, Puberty and Growing Up ×2, Knowing Myself and
+My Feelings ×2, Keeping My Body Clean, Eating a Balanced
+Diet, Mental Health and Wellbeing, Staying Safe Online,
+Saying No to Drugs, Alcohol and Tobacco), all as
+teacher-guide evidence only — the Sierra Leone book, the
+AHLS Teacher's Manual SSS1–3 (MBSSE, 2025), is a teacher
+manual, so the course's acceptance counts are unchanged by
+this merge and both new lessons stand at acceptance count 0.
+Records 2 and 3 of the Sierra Leone placements file are
+RECORD-ONLY non-textbook programme papers with 0 placements,
+nothing stocked from them.

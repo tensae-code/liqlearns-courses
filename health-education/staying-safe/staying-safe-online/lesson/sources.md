@@ -1,8 +1,8 @@
 # Sources — Staying Safe Online
 
-countries: Jordan, Timor-Leste, Ukraine
+countries: Jordan, Timor-Leste, Ukraine, Sierra Leone
 
-**Acceptance count: taught in 3 countries.** Jordan is filed as student-book stock, inside the acceptance count, in this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below).
+**Acceptance count: taught in 3 countries.** Jordan is filed as student-book stock, inside the acceptance count, in this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Sierra Leone is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Sierra Leone rows (see its Sierra Leone section below).
 
 **Book 5 — التربية الرياضية — الصف السابع — الفصل الدراسي الثاني (Physical Education, Grade Seven, Second Semester) (student book, Arabic):**
 - Title as printed: التربية الرياضية — الصف السابع — الفصل الدراسي الثاني (Physical Education, Grade Seven, Second Semester)
@@ -68,4 +68,22 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/ukraine-heal
 
 Ukraine is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — Ukraine is named in the countries line and provenance row(s) and the acceptance count rises from 2 to 3 countries. The Ukraine placement in this lesson was filed under this lesson's own canonical slug string, `staying-safe/staying-safe-online`, and is recorded as filed. Ukraine's own way is content, as the book lines above record it: the virtual world and its dangers are taught in the Grade 5 book as part of the child's independent safety — at home and online. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: staying safe online, healthy use of technology, useful educational content, long sitting in front of screens, regular breaks, video assistant referee VAR, Health Concepts and Habits, Jordan NCCD Physical Education Grade 7, social networks cyberbullying supporting victims, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, virtual world dangers, behaving safely online, Ukraine G5 Health Safety and Wellbeing Vasylenko
+## Sierra Leone — Health expansion 2026-11-16
+
+**Book 1 — AHLS Teacher's Manual SSS1–3 (teacher guide, English):**
+- Title as printed: Teaching and Learning Materials for Adolescent Health and Life Skills (AHLS) Syllabus — Senior Secondary School (cover); title inside: Teaching and Learning Materials for Adolescent Health and Life Skills (AHLS) — SSS, Dec 2025, New Senior Secondary Curriculum (MBSSE)
+- Grade: SSS1–SSS3 (Grades 10–12) (student/teacher: TEACHER)
+- Publisher: Ministry of Basic and Senior Secondary Education (MBSSE), Sierra Leone; year 2025; ISBN no ISBN printed. Draws heavily on the "I Am Somebody" Facilitator's Guide (Government of Sierra Leone / UNFPA / UNICEF / Irish Aid, 2016)
+- PDF pages: 110 (cover verified against the record title)
+- Verdict: COMPLETE — all 39 lesson plans for SSS1–3 present and read
+- Tally: 39 placements — 0 to existing lessons, 39 NEW LESSON NEEDED (the existing Health course has only sport-hygiene, injury/first-aid, self-defence and doping lessons; Sierra Leone's adolescent-health and life-skills content has no existing lesson to land in)
+- Sierra Leone's own way: a standalone Adolescent Health and Life Skills subject taught through discussion-based lesson plans that build year by year — body changes and life skills in SSS1, sexuality, relationships and pregnancy in SSS2, violence, trafficking, substance abuse and HIV/Ebola in SSS3 — written for teachers to open sensitive topics in a safe, non-judgemental classroom space.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/sierra-leone-health-placements.md. Records 2 and 3 of that file are RECORD-ONLY, non-textbook programme papers (Menstrual Hygiene Kits impact paper 2022; Hygiene Kits to support girls' retention and participation in school — Information Brief; both Leh Wi Lan, from the MBSSE Knowledge Platform, 1 page each) with 0 placements, never placed; nothing is stocked from them.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sierra Leone — SSS1 Lesson 3.6: Safe use of Information Communication Technology — staying safe with phones and the internet (teacher guide — evidence) (original string `staying-safe/safe-use-of-ict`) | Sierra Leone, *Teaching and Learning Materials for Adolescent Health and Life Skills (AHLS) — SSS* (Sierra Leone SSS AHLS Teacher's Manual, teacher guide), printed p. 45 |
+
+Sierra Leone is added as teacher-guide evidence only (see its book line and rows above), outside the acceptance count — the Sierra Leone book is a TEACHER manual, so Sierra Leone is named in the countries line and provenance rows but the acceptance count is unchanged (still taught in 3 countries). The Sierra Leone placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the health slug registry (Part 2A) to this lesson; the original string is recorded in each row. Sierra Leone's own way is content, as the book line above records it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: staying safe online, healthy use of technology, useful educational content, long sitting in front of screens, regular breaks, video assistant referee VAR, Health Concepts and Habits, Jordan NCCD Physical Education Grade 7, social networks cyberbullying supporting victims, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, virtual world dangers, behaving safely online, Ukraine G5 Health Safety and Wellbeing Vasylenko, Sierra Leone AHLS Teacher's Manual SSS1 SSS2 SSS3, adolescent health and life skills Sierra Leone

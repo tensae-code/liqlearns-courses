@@ -1,8 +1,8 @@
 # Sources — Reproduction and Pregnancy
 
-countries: Zambia, Samoa
+countries: Zambia, Samoa, Sierra Leone
 
-**Acceptance count: taught in 0 countries.** Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson.
+**Acceptance count: taught in 0 countries.** Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Sierra Leone is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Sierra Leone rows (see its Sierra Leone section below).
 
 **Book 1 — Health Teacher Training, Participants Manual 2025 (teacher training manual, English):**
 - Title as printed: Health Teacher Training — Participants Manual (LB)
@@ -39,4 +39,29 @@ This is a canonical NEW lesson (slug-registry Part 1: `staying-safe/reproduction
 
 Samoa is added as curriculum-statement / teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — both Samoa books are TEACHER books (Book 1 a curriculum statement for teachers, Book 2 a teacher guide), so Samoa is named in the countries line and provenance row(s) but the acceptance count is unchanged (still taught in 0 countries). The Samoa placement was filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson `staying-safe/reproduction-and-pregnancy` by registry Part 2B (HELD description: "Human reproduction and sexual health, Year 12 Unit 1B"), and the original string is recorded in the provenance row above. Samoa's own way is content, as the book line(s) above record it: reproduction is taught with its consequences and protections together — safe practices, HIV/AIDS, family planning and teenage pregnancy.
 
-Searchable tags: reproduction and pregnancy, sexual and reproductive health, puberty, reproduction, keeping safe, Zambia Health Teacher Training Manual 2025, human reproduction sexual health safe practices HIV AIDS family planning teenage pregnancy, Samoa Years 11–12 TG
+## Sierra Leone — Health expansion 2026-11-16
+
+**Book 1 — AHLS Teacher's Manual SSS1–3 (teacher guide, English):**
+- Title as printed: Teaching and Learning Materials for Adolescent Health and Life Skills (AHLS) Syllabus — Senior Secondary School (cover); title inside: Teaching and Learning Materials for Adolescent Health and Life Skills (AHLS) — SSS, Dec 2025, New Senior Secondary Curriculum (MBSSE)
+- Grade: SSS1–SSS3 (Grades 10–12) (student/teacher: TEACHER)
+- Publisher: Ministry of Basic and Senior Secondary Education (MBSSE), Sierra Leone; year 2025; ISBN no ISBN printed. Draws heavily on the "I Am Somebody" Facilitator's Guide (Government of Sierra Leone / UNFPA / UNICEF / Irish Aid, 2016)
+- PDF pages: 110 (cover verified against the record title)
+- Verdict: COMPLETE — all 39 lesson plans for SSS1–3 present and read
+- Tally: 39 placements — 0 to existing lessons, 39 NEW LESSON NEEDED (the existing Health course has only sport-hygiene, injury/first-aid, self-defence and doping lessons; Sierra Leone's adolescent-health and life-skills content has no existing lesson to land in)
+- Sierra Leone's own way: a standalone Adolescent Health and Life Skills subject taught through discussion-based lesson plans that build year by year — body changes and life skills in SSS1, sexuality, relationships and pregnancy in SSS2, violence, trafficking, substance abuse and HIV/Ebola in SSS3 — written for teachers to open sensitive topics in a safe, non-judgemental classroom space.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/sierra-leone-health-placements.md. Records 2 and 3 of that file are RECORD-ONLY, non-textbook programme papers (Menstrual Hygiene Kits impact paper 2022; Hygiene Kits to support girls' retention and participation in school — Information Brief; both Leh Wi Lan, from the MBSSE Knowledge Platform, 1 page each) with 0 placements, never placed; nothing is stocked from them.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sierra Leone — SSS1 Lesson 2.3: Sexual and reproductive health — an introduction to sexual and reproductive health (teacher guide — evidence) (original string `staying-safe/sexual-and-reproductive-health`) | Sierra Leone, *Teaching and Learning Materials for Adolescent Health and Life Skills (AHLS) — SSS* (Sierra Leone SSS AHLS Teacher's Manual, teacher guide), printed p. 27 |
+| Sierra Leone — SSS1 Lesson 2.4: Sexual and reproductive health rights and human rights — SRH rights as human rights (teacher guide — evidence) (original string `staying-safe/sexual-and-reproductive-health-rights`) | Sierra Leone, *Teaching and Learning Materials for Adolescent Health and Life Skills (AHLS) — SSS* (Sierra Leone SSS AHLS Teacher's Manual, teacher guide), printed p. 29 |
+| Sierra Leone — SSS2 Lesson 2.1: Reproduction — how human reproduction works (teacher guide — evidence) (original string `staying-safe/how-reproduction-works`) | Sierra Leone, *Teaching and Learning Materials for Adolescent Health and Life Skills (AHLS) — SSS* (Sierra Leone SSS AHLS Teacher's Manual, teacher guide), printed p. 63 |
+| Sierra Leone — SSS2 Lesson 2.2: Knowing and valuing our sexual organs — naming and understanding the sexual organs (teacher guide — evidence) (original string `staying-safe/knowing-and-valuing-our-sexual-organs`) | Sierra Leone, *Teaching and Learning Materials for Adolescent Health and Life Skills (AHLS) — SSS* (Sierra Leone SSS AHLS Teacher's Manual, teacher guide), printed p. 65 |
+| Sierra Leone — SSS2 Lesson 3.1: What is pregnancy? — how pregnancy happens and develops (teacher guide — evidence) (original string `staying-safe/what-pregnancy-is`) | Sierra Leone, *Teaching and Learning Materials for Adolescent Health and Life Skills (AHLS) — SSS* (Sierra Leone SSS AHLS Teacher's Manual, teacher guide), printed p. 72 |
+| Sierra Leone — SSS2 Lesson 3.2: Prevention of pregnancy (Part I) — ways of preventing pregnancy (teacher guide — evidence) (original string `staying-safe/preventing-pregnancy`) | Sierra Leone, *Teaching and Learning Materials for Adolescent Health and Life Skills (AHLS) — SSS* (Sierra Leone SSS AHLS Teacher's Manual, teacher guide), printed p. 75 |
+| Sierra Leone — SSS2 Lesson 3.3: Prevention of pregnancy (Part II) — further contraception teaching, continuing Part I (teacher guide — evidence) (original string `staying-safe/preventing-pregnancy`) | Sierra Leone, *Teaching and Learning Materials for Adolescent Health and Life Skills (AHLS) — SSS* (Sierra Leone SSS AHLS Teacher's Manual, teacher guide), printed p. 78 |
+| Sierra Leone — SSS2 Lesson 3.4: Dangers of unsafe abortion — the health dangers of unsafe abortion (teacher guide — evidence) (original string `staying-safe/dangers-of-unsafe-abortion`) | Sierra Leone, *Teaching and Learning Materials for Adolescent Health and Life Skills (AHLS) — SSS* (Sierra Leone SSS AHLS Teacher's Manual, teacher guide), printed p. 82 |
+
+Sierra Leone is added as teacher-guide evidence only (see its book line and rows above), outside the acceptance count — the Sierra Leone book is a TEACHER manual, so Sierra Leone is named in the countries line and provenance rows but the acceptance count is unchanged (still taught in 0 countries). The Sierra Leone placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the health slug registry (Part 2A) to this lesson; the original string is recorded in each row. Sierra Leone's own way is content, as the book line above records it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: reproduction and pregnancy, sexual and reproductive health, puberty, reproduction, keeping safe, Zambia Health Teacher Training Manual 2025, human reproduction sexual health safe practices HIV AIDS family planning teenage pregnancy, Samoa Years 11–12 TG, Sierra Leone AHLS Teacher's Manual SSS1 SSS2 SSS3, adolescent health and life skills Sierra Leone

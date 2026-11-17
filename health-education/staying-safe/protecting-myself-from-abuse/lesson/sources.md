@@ -1,8 +1,8 @@
 # Sources — Protecting Myself from Abuse
 
-countries: Zambia, Samoa, Turkey
+countries: Zambia, Samoa, Turkey, Sierra Leone
 
-**Acceptance count: taught in 0 countries.** Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Turkey is filed as teacher-guide evidence only in this lesson — Book 1 is a TEACHER guide, so Turkey is named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this Turkey row.
+**Acceptance count: taught in 0 countries.** Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Turkey is filed as teacher-guide evidence only in this lesson — Book 1 is a TEACHER guide, so Turkey is named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this Turkey row. Sierra Leone is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Sierra Leone rows (see its Sierra Leone section below).
 
 **Book 1 — Health Teacher Training, Participants Manual 2025 (teacher training manual, English):**
 - Title as printed: Health Teacher Training — Participants Manual (LB)
@@ -62,4 +62,26 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkey-healt
 
 Turkey's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the health slug registry (Part 2A / Part 2B) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Turkey's own way is content, as the book lines above record it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: protecting myself from abuse, corporal punishment, positive discipline, gender-based violence, child abuse, protect and report, ending child marriage ECM, keeping girls in school, Zambia Health Teacher Training Manual 2025, abuse sasa neglect types of abuse how and where to get help, Samoa Years 1–8 Curriculum, my personal space, Kişisel Alanım, body safety, Turkey Preschool Movement & Health TG
+## Sierra Leone — Health expansion 2026-11-16
+
+**Book 1 — AHLS Teacher's Manual SSS1–3 (teacher guide, English):**
+- Title as printed: Teaching and Learning Materials for Adolescent Health and Life Skills (AHLS) Syllabus — Senior Secondary School (cover); title inside: Teaching and Learning Materials for Adolescent Health and Life Skills (AHLS) — SSS, Dec 2025, New Senior Secondary Curriculum (MBSSE)
+- Grade: SSS1–SSS3 (Grades 10–12) (student/teacher: TEACHER)
+- Publisher: Ministry of Basic and Senior Secondary Education (MBSSE), Sierra Leone; year 2025; ISBN no ISBN printed. Draws heavily on the "I Am Somebody" Facilitator's Guide (Government of Sierra Leone / UNFPA / UNICEF / Irish Aid, 2016)
+- PDF pages: 110 (cover verified against the record title)
+- Verdict: COMPLETE — all 39 lesson plans for SSS1–3 present and read
+- Tally: 39 placements — 0 to existing lessons, 39 NEW LESSON NEEDED (the existing Health course has only sport-hygiene, injury/first-aid, self-defence and doping lessons; Sierra Leone's adolescent-health and life-skills content has no existing lesson to land in)
+- Sierra Leone's own way: a standalone Adolescent Health and Life Skills subject taught through discussion-based lesson plans that build year by year — body changes and life skills in SSS1, sexuality, relationships and pregnancy in SSS2, violence, trafficking, substance abuse and HIV/Ebola in SSS3 — written for teachers to open sensitive topics in a safe, non-judgemental classroom space.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/sierra-leone-health-placements.md. Records 2 and 3 of that file are RECORD-ONLY, non-textbook programme papers (Menstrual Hygiene Kits impact paper 2022; Hygiene Kits to support girls' retention and participation in school — Information Brief; both Leh Wi Lan, from the MBSSE Knowledge Platform, 1 page each) with 0 placements, never placed; nothing is stocked from them.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sierra Leone — SSS3 Lesson 1.1: What is gender-based violence (GBV)? — defining gender-based violence (teacher guide — evidence) (original string `staying-safe/what-gender-based-violence-is`) | Sierra Leone, *Teaching and Learning Materials for Adolescent Health and Life Skills (AHLS) — SSS* (Sierra Leone SSS AHLS Teacher's Manual, teacher guide), printed p. 86 |
+| Sierra Leone — SSS3 Lesson 1.2: Different types of GBV — the forms gender-based violence takes (teacher guide — evidence) (original string `staying-safe/types-of-gender-based-violence`) | Sierra Leone, *Teaching and Learning Materials for Adolescent Health and Life Skills (AHLS) — SSS* (Sierra Leone SSS AHLS Teacher's Manual, teacher guide), printed p. 88 |
+| Sierra Leone — SSS3 Lesson 1.3: Strategies to combat gender-based violence — ways to prevent and respond to GBV (teacher guide — evidence) (original string `staying-safe/combating-gender-based-violence`) | Sierra Leone, *Teaching and Learning Materials for Adolescent Health and Life Skills (AHLS) — SSS* (Sierra Leone SSS AHLS Teacher's Manual, teacher guide), printed p. 90 |
+| Sierra Leone — SSS3 Lesson 1.4: Transactional sex — sex exchanged for money or gifts and its risks (teacher guide — evidence) (original string `staying-safe/transactional-sex`) | Sierra Leone, *Teaching and Learning Materials for Adolescent Health and Life Skills (AHLS) — SSS* (Sierra Leone SSS AHLS Teacher's Manual, teacher guide), printed p. 93 |
+| Sierra Leone — SSS3 Lesson 1.6: Human and sex trafficking — trafficking, how it happens and how to stay safe (teacher guide — evidence) (original string `staying-safe/human-and-sex-trafficking`) | Sierra Leone, *Teaching and Learning Materials for Adolescent Health and Life Skills (AHLS) — SSS* (Sierra Leone SSS AHLS Teacher's Manual, teacher guide), printed p. 96 |
+
+Sierra Leone is added as teacher-guide evidence only (see its book line and rows above), outside the acceptance count — the Sierra Leone book is a TEACHER manual, so Sierra Leone is named in the countries line and provenance rows but the acceptance count is unchanged (still taught in 0 countries). The Sierra Leone placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the health slug registry (Part 2A) to this lesson; the original string is recorded in each row. Sierra Leone's own way is content, as the book line above records it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: protecting myself from abuse, corporal punishment, positive discipline, gender-based violence, child abuse, protect and report, ending child marriage ECM, keeping girls in school, Zambia Health Teacher Training Manual 2025, abuse sasa neglect types of abuse how and where to get help, Samoa Years 1–8 Curriculum, my personal space, Kişisel Alanım, body safety, Turkey Preschool Movement & Health TG, Sierra Leone AHLS Teacher's Manual SSS1 SSS2 SSS3, adolescent health and life skills Sierra Leone
