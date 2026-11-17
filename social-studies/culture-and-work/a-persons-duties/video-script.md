@@ -1,0 +1,9 @@
+# Video script — A Persons Duties
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). This script is full: the placements name a video-script need for this lesson. Made later, when videos are made; the script is the slot's written form until then.
+
+---
+
+Iraq Grade 9 Social Studies (printed p. 149), teaches: Duties are everything man must do, whether in his private affairs or toward his homeland, and they include all life's fields; and man's duties divide according to the nature of the relation: his relation with the other — for that relation to be orderly there are values and principles it must rest on, such as the duty of respecting the neighbour, respecting the other's opinion, respecting human dignity, and rendering rights to their owners, such as the debt, the inheritance and the will, and the other human relations, whether inside the family or in society; his relation in his work environment — many duties follow from it, such as the pupil's relation with his school, the teacher in his school, the worker in his factory, whose duty is mastering his work, the soldier in his camp, and the doctor in his hospital; and his relation as a citizen and part of society's members toward his homeland — his relation with his land and homeland, the duty of preserving it and defending it, committing to the regulations and laws and respecting them, and preserving public property.
+
+Iraq's own way: values are defined first as a system — standards that steer behaviour and spread peace "regardless of sex, religion, nationality, language or race" — and citizenship is cashed out in named rights (education, work, candidacy, the vote, freedom of opinion and belief), while the internet chapter warns in plain terms that the open network "is governed by no restrictions or conditions".

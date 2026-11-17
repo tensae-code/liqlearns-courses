@@ -1,0 +1,9 @@
+# Video script — The Components of Iraqi Society
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). This script is full: the placements name a video-script need for this lesson. Made later, when videos are made; the script is the slot's written form until then.
+
+---
+
+Iraq Grade 6 Social Studies (printed pp. 100–102), teaches: The Arabs, who live in most of Iraq's governorates, hold an authentic Arab social and civilisational heritage, and live in harmony and cooperation with the other components; the Kurds, with their distinct social customs drawn from Kurdish civilisation and history, in the northern parts of Iraq and in other governorates, side by side with their Arab brothers and the rest of Iraq's spectra; the Turkmen, of an old social heritage, in northern Iraq, especially Kirkuk, where they form the great majority; the Chaldeans, Assyrians, Syriacs and Armenians, among Iraq's components since the oldest ages, who shared in building Iraq's great civilisation; the Yazidis, integrated into Iraqi society since antiquity, who shared in building the homeland and defending it, living mostly in the governorates of Nineveh and Dohuk; the Shabak, in the northern governorates, especially Nineveh, whose distinct customs reflect their love of peaceful coexistence, and who have their own language; and the Sabians, among the old religious sects, in the central and southern governorates near the rivers, who had an important role in building the homeland and defending it.
+
+Iraq's own way: the components are named one by one with where each lives and what each built, equality is stated in the concept itself — all equal in rights and duties — and the values are taught as a civilisational inheritance, from keeping covenants "for thousands of years" to altruism as the road to social justice.

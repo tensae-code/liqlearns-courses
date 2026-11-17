@@ -1,0 +1,18 @@
+# Sources — Honesty Telling the Truth
+
+countries: Iraq
+
+**Book 4:** *Social Studies for the Sixth Primary Grade* (student book, Arabic) — Title as printed: الاجتماعيات للصف السادس الابتدائي (Social Studies for the Sixth Primary Grade) Grade: 6 (student/teacher: STUDENT) Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 1445 AH / 2023 CE, 7th edition; no ISBN printed. PDF pages: 116 (verified in this wave by own grab via the record's own Google Drive source file: 5,056,737 bytes, exactly the release record's size; pdfinfo 116 pages; cover rendered and seen — Republic of Iraq, Ministry of Education, Social Studies for the Sixth Primary Grade, 7th edition, 1445/2023; the unit was read from the History wave's full-text extract of this same verified file; own PDF and cover render deleted after filing) Earlier waves: Geography wave placed Unit 1 (the governorates) and Unit 2's environment segment (Preserving the environment, printed p. 112, to global-issues/protecting-the-environment-where-you-live) / History wave placed Unit 1's historical sketches / Economics wave placed the governorates' economic-activity segments inside Unit 1 and mapped the civics pages 99–114. Verdict: COMPLETE. Contents map: Geography pp. 4–98 (Unit 1 Our Iraqi governorates) and pp. 111–112 (the environment part of Unit 2, placed by the Geography wave); History pp. 4–98 (the historical sketches inside Unit 1); Economics pp. 4–98 (the governorates' economic-activity segments); Civics pp. 99–114 (Unit 2 Our Iraqi society — society concept and components pp. 100–102, historical and social bonds p. 103, the citizen's rights p. 104, the lofty civilisational values pp. 104–108, general social issues pp. 109–113, of which the environment part, pp. 111–112, was placed by the Geography wave, the landmines enrichment box, p. 113, is a safety notice named here only, and the unit questions, p. 114, are assessment); the book's own contents list stands on printed pp. 115–116. Tally: 15 placements — 0 to existing lessons, 15 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — culture-and-work/truthfulness-a-supreme-value — Unit 2 (the lofty civilisational values): Truthfulness — teaches: truthfulness is a supreme value that cannot be dispensed with in establishing good human relations, and all the heavenly religions emphasised it; truthfulness is that one's speech matches reality; and its benefits are that it purifies man from harm, protects him from dangers — salvation is in truthfulness — and distances him from lying and cheating — Iraq Grade 6 Social Studies, printed p. 105 | Iraq, *Social Studies for the Sixth Primary Grade* (student book), Unit 2 (the lofty civilisational values): Truthfulness — printed p. 105 |
+| Sub lesson 2 — Iraq's way — the book's own teaching way | Iraq — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Iraq).**
+
+Iraq's own way (Book 4): the components are named one by one with where each lives and what each built, equality is stated in the concept itself — all equal in rights and duties — and the values are taught as a civilisational inheritance, from keeping covenants "for thousands of years" to altruism as the road to social justice.
+
+Registry note: the original coined string `culture-and-work/truthfulness-a-supreme-value` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/honesty-telling-the-truth`.
+
+Searchable tags: honesty telling the truth, Iraq, social studies, culture-and-work

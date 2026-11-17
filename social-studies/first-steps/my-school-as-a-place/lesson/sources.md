@@ -1,6 +1,6 @@
 # Sources — My School as a Place
 
-countries: Fiji, Latvia, Mauritius, Ecuador, Yemen, Libya, Afghanistan, Eritrea, Serbia, Venezuela, Turkey
+countries: Fiji, Latvia, Mauritius, Ecuador, Yemen, Libya, Afghanistan, Eritrea, Serbia, Venezuela, Turkey, Iraq
 
 **Book 1:** *Social Studies Year 3 (Re-edited 2017)* (student book, English) — Fiji, Ministry of Education, Heritage & Arts, Curriculum Development Unit (with UNESCO / Fiji Memory of the World support); year 2017 (re-edited); ISBN no ISBN printed. Title as printed: Social Studies Year 3 (Re-edited 2017). Grade: Year 3 (student/teacher: STUDENT). PDF pages: 64 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: grab.py GitHub API failed (RemoteDisconnected, release route ×2 and tree route ×1); read instead from the books.json record's own Wayback source_url — the ministry original of the same book. Non-Geography parts named, not placed: Part One Strand 1 Social Organisation — Lesson 1 My Family (printed p. 5), Lesson 2 Family Relationships (p. 11), Lesson 3 Family Roles (p. 17); Strand 2 Time, Continuity and Change — Lesson 4 Cultural Background (p. 24). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
 
@@ -56,7 +56,7 @@ countries: Fiji, Latvia, Mauritius, Ecuador, Yemen, Libya, Afghanistan, Eritrea,
 |---|---|
 | Turkey part — first-steps/my-school-as-a-place — Area 1: Okulumu Keşfediyorum (I discover my school) — teaches: the school's parts (classroom, principal's office, library, teachers' room, toilets) and its workers (principal and deputy run it, teachers guide learning, support staff keep it clean, safe and orderly), the classroom honour corner with the Turkish flag, the national anthem and Atatürk, and the tools we learn with — Turkey Grade 1 Hayat Bilgisi 1. Kitap, printed p. 22 | Turkey, *Hayat Bilgisi 1. Sınıf, 1. Kitap* (student book), Area 1: Okulumu Keşfediyorum (I discover my school) — printed p. 22 |
 
-**Acceptance count: taught in 9 countries (Fiji, Ecuador, Yemen, Libya, Afghanistan, Eritrea, Serbia, Venezuela, Turkey). Latvia and Mauritius are named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 10 countries (Fiji, Ecuador, Yemen, Libya, Afghanistan, Eritrea, Serbia, Venezuela, Turkey, Iraq). Latvia and Mauritius are named here as teacher-guide evidence only, counted nowhere.**
 
 Turkey's own way (Hayat Bilgisi 1. Sınıf, 1. Kitap): the Grade 1 year opens school itself as the first society: a six-year-old first learns to introduce herself and listen, then the school's rooms and workers, then rules the class itself votes on, and only then the family as the second society — nuclear and extended family, the values that hold it together, and jobs shared like a team.
 
@@ -86,3 +86,16 @@ Searchable tags: my school as a place, Fiji, Latvia, Mauritius, Eritrea, Serbia,
 Libya's own way (National Education G4): the whole book is written in the first person — every lesson is "I and …" (I and my family, I and my school, I and the neighbourhood) — citizenship starts as the child's own relationships, and even the environment unit is framed as the child's own behaviour: what I throw away, what I plant, which beach I clean.
 
 Afghanistan's own way (Grade 4 Social Studies): the child's world widens in rings — social life, family, mosque, school, village, city, homeland, world, Earth — and every ring carries its duties with it: respect for elders at home, duties and order at school, reverence for the flag, obedience to traffic rules.
+
+
+Iraq placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *Social Studies for the Fourth Primary Grade* (student book, Arabic) — Title as printed: الاجتماعيات للصف الرابع الابتدائي (Social Studies for the Fourth Primary Grade) Grade: 4 (student/teacher: STUDENT) Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 1445 AH / 2023 CE, 13th edition; no ISBN printed. PDF pages: 64 (verified in this wave by own grab via the record's own Google Drive source file: 9,135,716 bytes, exactly the release record's size; pdfinfo 64 pages; cover rendered and seen — Republic of Iraq, Ministry of Education, Social Studies for the Fourth Primary Grade, 13th edition, 1445/2023; the civics chapters' image-only pages were read from page renders; own PDF deleted after filing) Earlier waves: Geography wave placed Ch. 1–2 and Ch. 6's governorate/administrative-divisions part (printed p. 60) / History wave placed Ch. 3–4 / Economics wave filed the book record-only (no Economics teaching parts) Verdict: COMPLETE. Contents map: Geography pp. 5–33 (Ch. 1 The local environment; Ch. 2 Geographical environments); History pp. 34–47 (Ch. 3 Historical concepts; Ch. 4 Iraq, land of civilisations); Civics pp. 48–63 (Ch. 5 The school; Ch. 6 The homeland); printed p. 64 is the contents page, closing with a printed line that controlling and preventing corruption is a shared responsibility of the government, parliament, the anti-corruption bodies, civil-society organisations and citizens — named, not placed (a closing motto, not a teaching part) Tally: 8 placements — 2 to existing lessons, 6 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part 1 — first-steps/my-school-as-a-place — Ch. 5 The school: what the school is and what it consists of — teaches: the school is the place where we learn upbringing, knowledge and the various sciences, to be good citizens for our society in the present and the future; the school consists of the building (the classrooms, science laboratories, administration rooms, the playground, the library and the canteen) and the school family (the school principal and his assistants, the teachers, the pupils — you and your classmates — the service staff and the guards); and the school was made to serve you, so take care of it — Iraq Grade 4 Social Studies, printed pp. 48–49 | Iraq, *Social Studies for the Fourth Primary Grade* (student book), Ch. 5 The school: what the school is and what it consists of — printed pp. 48–49 |
+
+**Acceptance count: taught in 10 countries (Fiji, Ecuador, Yemen, Libya, Afghanistan, Eritrea, Serbia, Venezuela, Turkey, Iraq). Latvia and Mauritius are named here as teacher-guide evidence only, counted nowhere.**
+
+Iraq's own way (Book 1): civics starts at the school desk — the first community the Grade 4 child is given duties toward is the school family — and the homeland is then built piece by piece (land, people, waters, sky), with every one of Iraq's communities named in the population list, before rights are matched one-for-one with duties.

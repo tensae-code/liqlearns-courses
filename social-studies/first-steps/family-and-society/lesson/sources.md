@@ -1,6 +1,6 @@
 # Sources — Family and Society
 
-countries: Panama, Bahrain, Turkey
+countries: Panama, Bahrain, Turkey, Iraq
 
 **Book 2:** *Ciencias Sociales 1 — Cuaderno de trabajo — Primer grado* (student workbook, Spanish) — Ministerio de Educación de Panamá; year 2020; no ISBN printed. Title as printed: Ciencias Sociales 1 — Cuaderno de trabajo — Primer grado (Meduca, "Conéctate en casa" series). Grade: Grade 1 (student/teacher: STUDENT). PDF pages: 52 (downloaded via the Wayback capture of 2022-11-16 of the recorded Meduca file — the direct guias.meduca.gob.pa route failed repeatedly from this egress; cover and index verified against the record). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Integrated SS — Área 1 Naturaleza y sociedad en el espacio (family, family work) printed pp. 6–14; Área 2 Dinámica e interacción con el ambiente (housing, transport and communication) printed pp. 15–25; Civics — Área 3 Convivencia armónica (community living rules, duties and rights) printed pp. 26–37; History — Área 4 Acontecimientos históricos de los pueblos (community and national history, fiestas patrias) printed pp. 38–47 (named, not placed). Staged under the new rule: grade-01/gov/panama/social-studies/student/ciencias-sociales-1-cuaderno-de-trabajo.pdf (10,944,762 B as replayed) + books.json record. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/panama-placements-b.md.
 
@@ -18,7 +18,7 @@ countries: Panama, Bahrain, Turkey
 |---|---|
 | Turkey part — first-steps/family-and-society — Area 3: Aile ve Toplum (Family and society) — teaches: a family is bound by emotional ties such as love and respect; a society is made of individuals and families who share an environment and a history, and it has rules everyone must follow — when families keep society's rules, order is secured; the family supports its members and spends planned time together, including joining the neighbourhood muhtar's "let's green our neighbourhood" event — Turkey Grade 3 Hayat Bilgisi 1. Kitap, printed p. 78 | Turkey, *Hayat Bilgisi 3. Sınıf, 1. Kitap* (student book), Area 3: Aile ve Toplum (Family and society) — printed p. 78 |
 
-**Acceptance count: taught in 3 countries (Panama, Bahrain, Turkey).**
+**Acceptance count: taught in 4 countries (Panama, Bahrain, Turkey, Iraq).**
 
 Turkey's own way (Hayat Bilgisi 3. Sınıf, 1. Kitap): Grade 3 is where Hayat Bilgisi turns explicitly civic: an eight-year-old is taught that rights and responsibilities are a pair, and then reads the UN Convention on the Rights of the Child itself — in a child-worded card set (definition of the child, no discrimination, best interests, life and development) — two years before any civics course exists.
 
@@ -28,3 +28,17 @@ Panama's own way (Panama Grade 1 Ciencias Sociales workbook): Grade 1 social stu
 Bahrain's own way (Bahrain Grade 4 BH Citizenship G4): citizenship is taught outwards from the child — homeland love and public property first, then the services of Bahrain's own government, the child's own rights under the UN Convention Bahrain ratified, choosing leaders from the class council up to the King, Crown Prince and Prime Minister, and finally Bahrain inside the Gulf Cooperation Council, its own regional family.
 
 Searchable tags: family and society, la familia, tipos de familias, Panama, Bahrain, social studies, first-steps, Turkey
+
+
+Iraq placements — Social Studies remaining strands (2026-11-17):
+
+**Book 3:** *Social Studies for the Fifth Primary Grade* (student book, Arabic) — Title as printed: الاجتماعيات للصف الخامس الابتدائي (Social Studies for the Fifth Primary Grade) Grade: 5 (student/teacher: STUDENT) Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula; year 1445 AH / 2023 CE, 10th edition; no ISBN printed. PDF pages: 104 (verified in this wave by own grab via the record's own Google Drive source file: 8,907,160 bytes, exactly the release record's size; pdfinfo 104 pages; cover rendered and seen — Republic of Iraq, Ministry of Education, Social Studies for the Fifth Primary Grade, 10th edition, 1445/2023; the unit was read from the book's own text layer, with the five key pages — state concept, authorities, citizen, rights, duties — also read from page renders because the PDF's embedded-font encoding garbles parts of the text layer; own PDF and renders deleted after filing) Earlier waves: Geography wave placed Unit 1 and Unit 3's environment segment (Preserving the environment as a citizen's duty, printed p. 98, to global-issues/protecting-the-environment-where-you-live) / History wave placed Unit 2 / Economics wave placed the economic-activity segments inside Unit 1 (printed pp. 34–39) Verdict: COMPLETE. Contents map: Geography pp. 5–40 (Unit 1 Our homeland Iraq); History pp. 41–80 (Unit 2 Our history, our civilisation, our identity); Economics pp. 34–39 (segments inside Unit 1); Civics pp. 81–101 (Unit 3 National and social education — Ch. 1 Our Iraqi society pp. 82–84, Ch. 2 Our state between rights and duties pp. 85–101, of which the environment duty, printed p. 98, was placed by the Geography wave and the unit questions, pp. 100–101, are assessment) Tally: 9 placements — 2 to existing lessons, 7 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iraq part 1 — first-steps/the-family-part-of-society — Unit 3 Ch. 1: The family is part of society — teaches: the family is formed of the father, the mother and the children, and it is the smallest group in society and a part of it, its members bound by love and affection; and the chapter's values activities practise helping the needy person in the neighbourhood and the street, patience and endurance in hardships and crises, cooperation with brothers and friends, and respecting others' rights and not transgressing against them — Iraq Grade 5 Social Studies, printed p. 84 | Iraq, *Social Studies for the Fifth Primary Grade* (student book), Unit 3 Ch. 1: The family is part of society — printed p. 84 |
+
+**Acceptance count: taught in 4 countries (Panama, Bahrain, Turkey, Iraq).**
+
+Iraq's own way (Book 3): the state is defined as institutions that serve, its pillars are named homeland, people, federal authorities and sovereignty, and citizenship is taught as a two-way street — the state's services (free education first) on one side, and on the other a good citizen whose first quality is knowing his own abilities so he can fix his duties and his rights.
+Registry note: the original coined string `first-steps/the-family-part-of-society` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/family-and-society`.
