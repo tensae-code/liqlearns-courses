@@ -1,6 +1,6 @@
 # Sources — Traffic Signs and Road Safety for Pedestrians
 
-countries: Libya, Afghanistan, Iraq, Angola, Palestine, Jordan
+countries: Libya, Afghanistan, Iraq, Angola, Palestine, Jordan, Mauritania
 
 **Book 1:** *أنا المواطن (I Am the Citizen), National Education G4* (student book, Arabic) — Title as printed: أنا المواطن — كتاب التربية الوطنية للصف الرابع من مرحلة التعليم الأساسي (I Am the Citizen — National Education book for Grade 4 of basic education). Grade: 4 (student/teacher: STUDENT). Publisher: State of Libya, Ministry of Education — Curriculum and Educational Research Centre (prepared by a specialised committee commissioned by the Centre); year 2019–2020 / 1440–1441 AH; ISBN no ISBN printed on the cover pages read. PDF pages: 88 (cover rendered and verified against the record title; 16,522,163 bytes, Wayback capture 20211209161425 of the recorded source_url — the book is image-only and was read from page renders). Earlier waves: not read before (the National Education books were never targeted by the Geography/History/Economics waves). Verdict: COMPLETE (full page-by-page read, civics track). Contents map: Integrated SS (Unit 2 "I am a human being") Lesson 5 I and my family pp. 41–48, Lesson 6 I and my school pp. 49–56, Lesson 7 I and the neighbourhood pp. 57–65; Morals/Values Lesson 1 I am a human being pp. 8–15; Civics/Citizenship Lesson 6 carries the Convention on the Rights of the Child art. 28 (free compulsory basic education) p. 55; Health (Unit 1 "I and my health") Lesson 2 my cleanliness pp. 16–22, Lesson 3 my nutrition pp. 23–31, Lesson 4 my body's safety pp. 32–39 — named, the Health course's, not placed, except the shared-places and road-safety fragments placed below; Environment (Unit 3) Lesson 8 I and the environment pp. 67–75 (environment components — named, Geography/Science, not placed), Lesson 9 I protect the environment pp. 76–86 (placed — civic behaviour). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/libya-placements.md.
 
@@ -92,3 +92,20 @@ Jordan's own way (Book 3): citizenship starts at age six with the self, the fami
 Registry note: the original coined string `first-steps/the-traffic-light-and-crossing-safely` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/traffic-signs-and-road-safety-for-pedestrians`.
 
 Searchable tags: traffic signs and road safety for pedestrians, Jordan, social studies, first-steps
+
+
+Mauritania placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *Civic Education (Awakening and Civic Behaviour), Year 1 student book (student book, Arabic)* — Title as printed: التربية المدنية (الإيقاظ والسلوك المدني) للسنة الأولى من التعليم الأساسي (Civic Education — Awakening and Civic Behaviour — for the First Year of Basic Education) Grade: Year 1 (student/teacher: STUDENT) Publisher: Ministry of Education / IPN, Mauritania; no ISBN printed PDF pages: 64 (cover verified against the record title; fetched from the record's source_url, 5,394,894 bytes, after grab.py failed — see log route note; contents list at printed pp. 63–64) Earlier waves: not read before Verdict: COMPLETE — civics track, full page-by-page read (24 cards in six axes; the two integration situations, printed pp. 61–62, are excluded as assessment apparatus) Contents map: Civics/Citizenship (homeland and national symbols) pp. 7–13; Morals/Values pp. 15–19; Integrated SS pp. 27–29, 51–59; Health pp. 21, 25, 31–49 (water care, swamp dangers, safe play, healthy sitting, rest/sleep, miswak, nails, bathing, handwashing, clean utensils/home/clothes — named, not placed, Health course); Science p. 23 (trees and plants — named, not placed) Tally: 9 placements — 2 to existing lessons, 7 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — first-steps/road-safety-traffic-signs-and-safe-walking — Card: Traffic Signals and Safe Walking — teaches: traffic signals and walking safely on the road — Mauritania Grade 1 Civic Education SB, printed p. 29 | Mauritania, *Mauritania Grade 1 Civic Education SB* (student book), Card: Traffic Signals and Safe Walking — printed p. 29 |
+
+**Acceptance count: taught in 7 countries (Libya, Afghanistan, Iraq, Angola, Palestine, Jordan, Mauritania).**
+
+Mauritania's own way (Book 1): the first school year opens with "My Homeland" and its symbols (flag, anthem, currency), then the values trio tolerance–cooperation–listening, then the body's cleanliness, and closes with the community's places — mosque, school, mahadra, dispensary, playground
+
+Registry note: the original coined string `first-steps/road-safety-traffic-signs-and-safe-walking` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/traffic-signs-and-road-safety-for-pedestrians`.
+
+Searchable tags: traffic signs and road safety for pedestrians, Mauritania, social studies, first-steps

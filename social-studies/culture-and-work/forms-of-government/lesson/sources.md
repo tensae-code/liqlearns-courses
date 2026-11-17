@@ -1,6 +1,6 @@
 # Sources — Forms of Government
 
-countries: Kazakhstan, Kiribati, Costa Rica, Maldives, Micronesia, Samoa, Sierra Leone, Bahamas, Bhutan, Afghanistan, Mexico, Uganda, Fiji, Guatemala, Iraq, India, Rwanda, Papua New Guinea, Sri Lanka, El Salvador
+countries: Kazakhstan, Kiribati, Costa Rica, Maldives, Micronesia, Samoa, Sierra Leone, Bahamas, Bhutan, Afghanistan, Mexico, Uganda, Fiji, Guatemala, Iraq, India, Rwanda, Papua New Guinea, Sri Lanka, El Salvador, Mauritania
 
 **Book 1:** *География — 8-сыныпқа арналған оқулық (К. К. Сахова, Ж. Ф. Тенекебаева, А. Ж. Саддақасов, А. С. Кенжебаев)* (student book, Kazakh) — Нұр-Сұлтан «Назарбаев Зияткерлік мектептері» ДББҰ (NIS); year 2019; ISBN 978-601-328-352-4. Title as printed: География — 8-сыныпқа арналған оқулық (К. К. Сахова, Ж. Ф. Тенекебаева, А. Ж. Саддақасов, А. С. Кенжебаев). Grade: 8 (student/teacher: STUDENT). PDF pages: 160 (cover/title page verified against the record title; record file grade-08/gov/kazakhstan/geografija/student/1072.pdf, 73,315,458 bytes from the recorded okulyk.kz source, page count matches the record). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/kazakhstan-placements.md.
 
@@ -225,3 +225,29 @@ El Salvador placements — Social Studies remaining strands (2026-11-17):
 El Salvador's own way (El Salvador Grade 6 Estudios Sociales 6): Grade 6 reaches the Americas, and its civics peak is El Salvador's own government-ethics law — public servants, their principles, and the 2006 Ley de Ética Gubernamental against corruption.
 
 Searchable tags: forms of government, El Salvador, social studies, culture-and-work
+
+
+Mauritania placements — Social Studies remaining strands (2026-11-17):
+
+**Book 7:** *Civic Education, Year 5 student book (student book, Arabic)* — Title as printed: كتاب التربية المدنية للسنة الخامسة من التعليم الابتدائي (Civic Education Book for the Fifth Year of Primary Education) Grade: Year 5 (student/teacher: STUDENT) Publisher: Institut Pédagogique National (IPN), Mauritania; 2025; no ISBN printed PDF pages: 56 (cover rendered and verified against the record title; fetched from the record's source_url, 17,360,819 bytes, after grab.py failed — see log route note; contents list at printed p. 55) Earlier waves: not read before Verdict: COMPLETE — civics track, full page-by-page read (24 lessons) Contents map: Civics/Citizenship/Government pp. 7–29 (territorial administration, elections, the state's powers, social security); Integrated SS (work and services as community life) pp. 31–53 Tally: 24 placements — 11 to existing lessons, 13 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — culture-and-work/forms-of-government — Lesson: The President of the Republic — teaches: the President as guarantor of national independence and territorial integrity, exercising executive power — Mauritania Grade 5 Civic Education SB, printed p. 21 | Mauritania, *Mauritania Grade 5 Civic Education SB* (student book), Lesson: The President of the Republic — printed p. 21 |
+| Mauritania part — culture-and-work/forms-of-government — Lesson: Parliament — teaches: parliament and its leading role — Mauritania Grade 5 Civic Education SB, printed p. 23 | Mauritania, *Mauritania Grade 5 Civic Education SB* (student book), Lesson: Parliament — printed p. 23 |
+| Mauritania part — culture-and-work/forms-of-government — Lesson: Justice and the Court — teaches: the courts, including the wilaya courts with their administrative, civil, commercial and penal chambers — Mauritania Grade 5 Civic Education SB, printed p. 25 | Mauritania, *Mauritania Grade 5 Civic Education SB* (student book), Lesson: Justice and the Court — printed p. 25 |
+| Mauritania part — culture-and-work/forms-of-government — Lesson: The Government — teaches: the government, its ministries and the great commissions that serve the citizen — Mauritania Grade 5 Civic Education SB, printed p. 27 | Mauritania, *Mauritania Grade 5 Civic Education SB* (student book), Lesson: The Government — printed p. 27 |
+
+**Book 8:** *Civic Education, Year 6 student book (student book, Arabic)* — Title as printed: كتاب التربية المدنية للسنة السادسة من التعليم الابتدائي (Civic Education Book for the Sixth Year of Primary Education) Grade: Year 6 (student/teacher: STUDENT) Publisher: Institut Pédagogique National (IPN), Mauritania; year 2025 edition (file created 2025); no ISBN printed PDF pages: 80 (read IN PLACE in staging at grade-06/gov/mauritania/ic-6af-m.pdf, 3,220,990 bytes; cover rendered and verified against the record title; never moved or deleted) Earlier waves: Geography/History waves read Mauritania's Geography and History books only — this civics book was not read before Verdict: COMPLETE — civics track, full page-by-page read to the last teaching page (Lesson 26, printed p. 75; the closing pages are integration/assessment situations, excluded and named) Contents map: Civics/Citizenship/Government pp. 7–20 (Lessons 1–5); regional/international organisations pp. 21–45 (Lessons 6–15); Morals/Values pp. 47–79 (Lessons 16–26) Tally: 26 placements — 5 to existing lessons, 21 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — culture-and-work/forms-of-government — Lesson 2: The Constitution and the Law — teaches: the constitution as the supreme law that fixes the form of the state and its system of government; Mauritania's constitution — its Article 1, the President's articles, the three powers (legislative, executive, judicial) and each power's role, and how a constitution differs from ordinary law — Mauritania Grade 6 Civic Education SB, printed p. 9 | Mauritania, *Mauritania Grade 6 Civic Education SB* (student book), Lesson 2: The Constitution and the Law — printed p. 9 |
+
+**Acceptance count: taught in 18 countries (Kazakhstan, Costa Rica, Maldives, Micronesia, Samoa, Bahamas, Bhutan, Afghanistan, Mexico, Uganda, Fiji, Guatemala, Iraq, India, Rwanda, Sri Lanka, El Salvador, Mauritania).**
+
+Mauritania's own way (Book 7): Year 5 is the state itself — the child climbs the whole ladder of Mauritania's administration (commune → administrative centre → moughataa → wilaya), meets its elections and its three powers, then walks through the working community (professions, crafts) and the uniformed services that protect it, ending with the environmental police
+
+Mauritania's own way (Book 8): civics is built as three competencies — the child's rights and the state's law first, then Mauritania inside its regional and world organisations, then a long values ladder (moderation, advice, volunteering, equality, heritage, honour-brotherhood-justice) taught one value per lesson with observe–learn–discuss–conclude steps
+
+Searchable tags: forms of government, Mauritania, social studies, culture-and-work

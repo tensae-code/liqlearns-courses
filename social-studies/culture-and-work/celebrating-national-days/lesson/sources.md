@@ -1,6 +1,6 @@
 # Sources — Celebrating National Days
 
-countries: Saudi Arabia
+countries: Saudi Arabia, Mauritania
 
 **Book 1:** *Social Studies, Grade 4 (student book, Arabic)* — Title as printed: الدراسات الاجتماعية — الصف الرابع الابتدائي (Social Studies — Fourth Grade, Primary) Grade: Grade 4 (student/teacher: STUDENT) Publisher: Ministry of Education, Kingdom of Saudi Arabia; cover dated 1448H / 2026 CE; no ISBN printed on the cover PDF pages: 228; printed page = PDF page. File verified in this re-run: release asset assembled by chunked Range requests, 19,132,912 bytes, size-verified; cover rendered and looked at Earlier waves: Geography wave placed 13 geography placements (Units 3 and 5 and map parts) and Unit 1 Lesson 1; History wave placed 11 history placements (Units 2, 7–9 history parts); Economics wave placed 8 economics placements (Unit 4, printed pp. 90–109) Verdict: COMPLETE — the two owed units (Unit 1 Citizenship, printed pp. 10–37; Unit 6 Responsible Citizenship, printed pp. 142–159) read in full at lesson level in this re-run Contents map: Civics/Citizenship/Government pp. 10–37 and pp. 142–159 (this wave); Geography pp. 62–89, 112–141; History pp. 38–61, 160–227; Economics pp. 90–109; Religion parts inside Units 7–8 named, not placed Debts: (a) the books.json tree path grade-04/gov/saudi-arabia/social-studies/student/full-year.pdf returns 404 in the repo — only the release asset exists (confirmed by the Geography wave via git ls-tree); (b) year/ISBN conflict across earlier waves' filings — this re-run's asset cover reads 1448H/2026 with no ISBN; the History wave read a 1446H imprint, ISBN 978-603-8576-98-8; the Geography wave read ISBN 978-603-52-12-2, cover 1444H/2023 — the waves may have read different printings of the same book Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/saudi-arabia-placements.md.
 
@@ -21,3 +21,20 @@ Saudi Arabia's own way (Book 6): the Grade 9 book teaches Saudi systems in detai
 Registry note: the original coined string `culture-and-work/national-days-founding-national-and-flag` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/celebrating-national-days`.
 
 Searchable tags: celebrating national days, Saudi Arabia, social studies, culture-and-work
+
+
+Mauritania placements — Social Studies remaining strands (2026-11-17):
+
+**Book 3:** *Civic Education, Year 2 student book (student book, Arabic)* — Title as printed: التربية المدنية (الإيقاظ والسلوك المدني) للسنة الثانية الابتدائية (Civic Education — Awakening and Civic Behaviour — for the Second Primary Year) Grade: Year 2 (student/teacher: STUDENT) Publisher: Ministry of Education / IPN, Mauritania; 2025; no ISBN printed PDF pages: 79 (cover rendered and verified against the record title; fetched from the record's source_url, 3,332,963 bytes, after grab.py failed — see log route note; contents list at printed pp. 77–78) Earlier waves: not read before Verdict: COMPLETE — civics track, full page-by-page read; each topic is a two-page spread (lesson + practice page, the practice pages are apparatus and not placed separately) Contents map: Integrated SS pp. 33–43 (national festivals, mosque, market, school, municipality), pp. 61–67 (family, relatives, neighbours, peers); Civics/Citizenship pp. 45–51 (homeland, emblem, flag, anthem); Morals/Values pp. 53–59, 69–75; Health pp. 7–17 (cleanliness, water use, soap, miswak, meals, toilets — named, not placed, Health course); Science/awakening pp. 19–35 (plants, pets, day/week/month/year, directions — named, not placed); Religion p. 31 (religious festivals — named, not placed) Tally: 19 placements — 4 to existing lessons, 15 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — culture-and-work/national-days-independence-day — National Festivals — teaches: Mauritania's national celebrations, Independence Day at their head — Mauritania Grade 2 Civic Education SB, printed p. 33 | Mauritania, *Mauritania Grade 2 Civic Education SB* (student book), National Festivals — printed p. 33 |
+
+**Acceptance count: taught in 2 countries (Saudi Arabia, Mauritania).**
+
+Mauritania's own way (Book 3): Year 2 mixes "awakening" (health, time, the living world) with civic behaviour — the child's widening circles (family → neighbours → school → municipality → homeland and its symbols) carry the civics, one short topic per spread
+
+Registry note: the original coined string `culture-and-work/national-days-independence-day` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/celebrating-national-days`.
+
+Searchable tags: celebrating national days, Mauritania, social studies, culture-and-work

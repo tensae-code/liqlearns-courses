@@ -1,6 +1,6 @@
 # Sources — Jobs People Do in Our Community
 
-countries: Latvia, Philippines, Serbia, Bangladesh, Turkey, North Macedonia, Iran
+countries: Latvia, Philippines, Serbia, Bangladesh, Turkey, North Macedonia, Iran, Mauritania
 
 **Book 1:** *Sociālās zinības 1. klase* (teacher guide, Latvian) — Latviešu valodas aģentūra (Latvian Language Agency); year 2023; ISBN 978-9934-617-33-1. Title as printed: Sociālās zinības 1. klase — Latviešu valodas un sociālo zinību satura integrēta apguve lingvistiski neviendabīgā vidē — Metodisks līdzeklis skolotājam. Grade: Grade 1 (student/teacher: TEACHER). PDF pages: 61 (cover/title page verified against the record title — author Linda Krastiņa and ISBN match the record exactly). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Integrated SS (school life) printed pp. 7–17; Morals/Values (safe relationships, honesty, emotions) printed pp. 18–21; Culture in society (family/class festivals) printed pp. 22–24; Integrated SS (work/jobs, wants and needs) printed pp. 25–27; Appendices (worksheets/apparatus, inventory only) printed pp. 28–60. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/latvia-placements-b.md. Teacher guide — evidence only, outside the acceptance count.
 
@@ -80,3 +80,20 @@ Iran's own way (Iran Social Studies Grade 5 (special needs)): the Grade 5 specia
 Registry note: the original coined string `first-steps/getting-to-know-jobs` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/jobs-people-do-in-our-community`.
 
 Searchable tags: jobs people do in our community, Iran, social studies, first-steps
+
+
+Mauritania placements — Social Studies remaining strands (2026-11-17):
+
+**Book 7:** *Civic Education, Year 5 student book (student book, Arabic)* — Title as printed: كتاب التربية المدنية للسنة الخامسة من التعليم الابتدائي (Civic Education Book for the Fifth Year of Primary Education) Grade: Year 5 (student/teacher: STUDENT) Publisher: Institut Pédagogique National (IPN), Mauritania; 2025; no ISBN printed PDF pages: 56 (cover rendered and verified against the record title; fetched from the record's source_url, 17,360,819 bytes, after grab.py failed — see log route note; contents list at printed p. 55) Earlier waves: not read before Verdict: COMPLETE — civics track, full page-by-page read (24 lessons) Contents map: Civics/Citizenship/Government pp. 7–29 (territorial administration, elections, the state's powers, social security); Integrated SS (work and services as community life) pp. 31–53 Tally: 24 placements — 11 to existing lessons, 13 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — first-steps/professions-and-crafts-in-our-community — Lesson: Professions and Crafts — teaches: crafts tied to hand-work skills that can be learned, and the professions of the community — Mauritania Grade 5 Civic Education SB, printed p. 31 | Mauritania, *Mauritania Grade 5 Civic Education SB* (student book), Lesson: Professions and Crafts — printed p. 31 |
+
+**Acceptance count: taught in 7 countries (Philippines, Serbia, Bangladesh, Turkey, North Macedonia, Iran, Mauritania).**
+
+Mauritania's own way (Book 7): Year 5 is the state itself — the child climbs the whole ladder of Mauritania's administration (commune → administrative centre → moughataa → wilaya), meets its elections and its three powers, then walks through the working community (professions, crafts) and the uniformed services that protect it, ending with the environmental police
+
+Registry note: the original coined string `first-steps/professions-and-crafts-in-our-community` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/jobs-people-do-in-our-community`.
+
+Searchable tags: jobs people do in our community, Mauritania, social studies, first-steps

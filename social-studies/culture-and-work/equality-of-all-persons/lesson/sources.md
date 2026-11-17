@@ -1,6 +1,6 @@
 # Sources — Equality of All Persons
 
-countries: Oman, Venezuela, Morocco
+countries: Oman, Venezuela, Morocco, Mauritania
 
 **Book 1:** *Identity and Citizenship Grade 3, Term 2* (teacher guide, Arabic) — Title as printed: دليل المعلم لمادة الهوية والمواطنة — Teacher's Guide for the Subject Identity and Citizenship. Grade: Grade 3 (student/teacher: TEACHER), Term 2. Publisher: Ministry of Education, Sultanate of Oman; experimental edition (same series); no ISBN printed. PDF pages: 60 (15,415,504 bytes — exactly the ministry server's Content-Range total; ministry TeacherBook PDF service, after the afedne landing page for this record returned HTTP 520. Cover verified: الصف الثالث، الفصل الدراسي الثاني. STAGED under the new rule at phase3-staging/grade-03/gov/oman/identity-and-citizenship/teacher/term-2.pdf with a books.json record). Earlier waves: none. Verdict: COMPLETE — contents and standards read; the two units' lessons placed below, marked TEACHER. Contents map: Unit 4 أنا مواطن مسؤول (I Am a Responsible Citizen) printed p. 24 — lessons: حقوقي في وطني (My rights in my homeland), واجباتي تجاه وطني (My duties toward my homeland), وطني أمانة (My homeland is a trust); Unit 5 أنا مواطن عالمي (I Am a Global Citizen) printed p. 39 — lessons: نحن متساوون (We are equal), لنعش بأمان (Let us live in safety), صوتنا مسموع (Our voice is heard). The term's two standards are both "knowing rights and duties and committing to them" — in the homeland, then in the world. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/oman-placements.md. Teacher guide — evidence only, outside the acceptance count. Oman's student books were not held — its placements are based on teacher guides.
 
@@ -48,3 +48,19 @@ Morocco's own way (Book 3, Fadaa Ijtiamiat 1AC): collège Social Studies carries
 
 Registry note: the original coined string `culture-and-work/equality-of-all-people` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/equality-of-all-persons`.
 
+
+Mauritania placements — Social Studies remaining strands (2026-11-17):
+
+**Book 8:** *Civic Education, Year 6 student book (student book, Arabic)* — Title as printed: كتاب التربية المدنية للسنة السادسة من التعليم الابتدائي (Civic Education Book for the Sixth Year of Primary Education) Grade: Year 6 (student/teacher: STUDENT) Publisher: Institut Pédagogique National (IPN), Mauritania; year 2025 edition (file created 2025); no ISBN printed PDF pages: 80 (read IN PLACE in staging at grade-06/gov/mauritania/ic-6af-m.pdf, 3,220,990 bytes; cover rendered and verified against the record title; never moved or deleted) Earlier waves: Geography/History waves read Mauritania's Geography and History books only — this civics book was not read before Verdict: COMPLETE — civics track, full page-by-page read to the last teaching page (Lesson 26, printed p. 75; the closing pages are integration/assessment situations, excluded and named) Contents map: Civics/Citizenship/Government pp. 7–20 (Lessons 1–5); regional/international organisations pp. 21–45 (Lessons 6–15); Morals/Values pp. 47–79 (Lessons 16–26) Tally: 26 placements — 5 to existing lessons, 21 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — culture-and-work/equality-of-all-people — Lesson 24: Equality — teaches: equality of people as a value and a right — Mauritania Grade 6 Civic Education SB, printed p. 69 | Mauritania, *Mauritania Grade 6 Civic Education SB* (student book), Lesson 24: Equality — printed p. 69 |
+
+**Acceptance count: taught in 3 countries (Venezuela, Morocco, Mauritania).**
+
+Mauritania's own way (Book 8): civics is built as three competencies — the child's rights and the state's law first, then Mauritania inside its regional and world organisations, then a long values ladder (moderation, advice, volunteering, equality, heritage, honour-brotherhood-justice) taught one value per lesson with observe–learn–discuss–conclude steps
+
+Registry note: the original coined string `culture-and-work/equality-of-all-people` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/equality-of-all-persons`.
+
+Searchable tags: equality of all persons, Mauritania, social studies, culture-and-work

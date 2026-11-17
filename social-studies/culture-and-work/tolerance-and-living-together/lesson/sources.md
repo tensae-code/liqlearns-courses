@@ -1,6 +1,6 @@
 # Sources — Tolerance and Living Together
 
-countries: Libya, Morocco, Angola, United Arab Emirates, Jordan
+countries: Libya, Morocco, Angola, United Arab Emirates, Jordan, Mauritania
 
 **Book 1:** *أنا المواطن (I Am the Citizen), National Education G5* (student book, Arabic) — Title as printed: أنا المواطن — كتاب التربية الوطنية للصف الخامس من مرحلة التعليم الأساسي (I Am the Citizen — National Education book for Grade 5 of basic education). Grade: 5 (student/teacher: STUDENT). Publisher: State of Libya, Ministry of Education — Curriculum and Educational Research Centre; year 2019–2020 / 1440–1441 AH; ISBN no ISBN printed on the cover pages read. PDF pages: 82 (cover rendered and verified against the record title; 15,170,496 bytes, Wayback capture 20211209161420 of the recorded source_url — image-only, read from page renders). Earlier waves: not read before. Verdict: COMPLETE (full page-by-page read, civics track). Contents map: Civics/Citizenship/Government Lesson 2 Libya is for all pp. 17–24, Lesson 3 equality pp. 26–32 (with the Universal Declaration of Human Rights); Culture-in-society Lesson 1 my country Libya pp. 8–16 (the regions' dress, dishes and customs); Morals/Values (Unit 2 "Human values") Lesson 4 justice pp. 33–42, Lesson 5 cooperation and solidarity pp. 43–52, Lesson 6 tolerance pp. 53–62; Conflict/Peace (Unit 3 "Living together") Lesson 7 accepting the other pp. 64–72, Lesson 8 the culture of dialogue pp. 73–82. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/libya-placements.md.
 
@@ -76,3 +76,28 @@ Jordan's own way (Book 14): media is taught as a citizen's defence — content, 
 Registry note: the original coined string `culture-and-work/tolerance-and-rejecting-fanaticism` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/tolerance-and-living-together`.
 
 Searchable tags: tolerance and living together, Jordan, social studies, culture-and-work
+
+
+Mauritania placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *Civic Education (Awakening and Civic Behaviour), Year 1 student book (student book, Arabic)* — Title as printed: التربية المدنية (الإيقاظ والسلوك المدني) للسنة الأولى من التعليم الأساسي (Civic Education — Awakening and Civic Behaviour — for the First Year of Basic Education) Grade: Year 1 (student/teacher: STUDENT) Publisher: Ministry of Education / IPN, Mauritania; no ISBN printed PDF pages: 64 (cover verified against the record title; fetched from the record's source_url, 5,394,894 bytes, after grab.py failed — see log route note; contents list at printed pp. 63–64) Earlier waves: not read before Verdict: COMPLETE — civics track, full page-by-page read (24 cards in six axes; the two integration situations, printed pp. 61–62, are excluded as assessment apparatus) Contents map: Civics/Citizenship (homeland and national symbols) pp. 7–13; Morals/Values pp. 15–19; Integrated SS pp. 27–29, 51–59; Health pp. 21, 25, 31–49 (water care, swamp dangers, safe play, healthy sitting, rest/sleep, miswak, nails, bathing, handwashing, clean utensils/home/clothes — named, not placed, Health course); Science p. 23 (trees and plants — named, not placed) Tally: 9 placements — 2 to existing lessons, 7 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — culture-and-work/tolerance-living-with-differences — Card: Tolerance — teaches: tolerance of others — Mauritania Grade 1 Civic Education SB, printed p. 15 | Mauritania, *Mauritania Grade 1 Civic Education SB* (student book), Card: Tolerance — printed p. 15 |
+
+**Book 5:** *Civic Education, Year 3 student book (student book, Arabic)* — Title as printed: التربية المدنية للسنة الثالثة من التعليم الابتدائي (Civic Education for the Third Year of Primary Education) Grade: Year 3 (student/teacher: STUDENT) Publisher: Institut Pédagogique National (IPN), Mauritania; 2025 edition; no ISBN printed PDF pages: 50 (cover rendered and verified against the record title; fetched from the record's source_url, 4,593,822 bytes, after grab.py failed — see log route note) Earlier waves: not read before (Geography/History waves read Mauritania's Geography and History books only) Verdict: COMPLETE — civics track, full page-by-page read (20 lessons, contents verified at printed p. 49); the two assessment situations (printed pp. 47–48) are excluded as assessment apparatus Contents map: Integrated SS pp. 7–33 (family and school units); Morals/Values pp. 17–19, 35–43; Health pp. 39–45 (cleanliness, disinfection — named, not placed, Health course) Tally: 18 placements — 2 to existing lessons, 16 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — culture-and-work/tolerance-living-with-differences — Lesson 15: Tolerance — teaches: tolerance of others as a school and family value — Mauritania Grade 3 Civic Education SB, printed p. 35 | Mauritania, *Mauritania Grade 3 Civic Education SB* (student book), Lesson 15: Tolerance — printed p. 35 |
+
+**Acceptance count: taught in 6 countries (Libya, Morocco, Angola, United Arab Emirates, Jordan, Mauritania).**
+
+Mauritania's own way (Book 1): the first school year opens with "My Homeland" and its symbols (flag, anthem, currency), then the values trio tolerance–cooperation–listening, then the body's cleanliness, and closes with the community's places — mosque, school, mahadra, dispensary, playground
+
+Mauritania's own way (Book 5): Year 3 civics is the family and the school — duties run both ways (children to family, family to children) and the values are solidarity, cooperation, tolerance and volunteering practised inside those two communities
+
+Registry note: the original coined string `culture-and-work/tolerance-living-with-differences` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/tolerance-and-living-together`.
+
+Searchable tags: tolerance and living together, Mauritania, social studies, culture-and-work

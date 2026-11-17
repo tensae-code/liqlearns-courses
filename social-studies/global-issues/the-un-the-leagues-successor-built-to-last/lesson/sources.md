@@ -1,6 +1,6 @@
 # Sources — The UN — the League's successor, built to last
 
-countries: Ethiopia, Turkmenistan, Venezuela, Samoa, Somalia, Fiji, Bangladesh, Rwanda, Papua New Guinea, Saudi Arabia
+countries: Ethiopia, Turkmenistan, Venezuela, Samoa, Somalia, Fiji, Bangladesh, Rwanda, Papua New Guinea, Saudi Arabia, Mauritania
 
 **Book 1:** *History, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN 978-99990-0-065-9. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g10-student-placements.md
 
@@ -113,3 +113,17 @@ Saudi Arabia placements — Social Studies remaining strands (2026-11-17):
 
 Saudi Arabia's own way (Book 8): the Grade 10 Tracks book starts from the components that make a state strong and influential and Saudi Arabia's own foundations and components, then follows the Kingdom's work for Arab, Islamic and international causes, and surveys the organisations it belongs to — the European Union as a model of integration, the League of Arab States, the Muslim World League, the Organisation of Islamic Cooperation, OPEC, the United Nations and the G20.
 
+
+Mauritania placements — Social Studies remaining strands (2026-11-17):
+
+**Book 8:** *Civic Education, Year 6 student book (student book, Arabic)* — Title as printed: كتاب التربية المدنية للسنة السادسة من التعليم الابتدائي (Civic Education Book for the Sixth Year of Primary Education) Grade: Year 6 (student/teacher: STUDENT) Publisher: Institut Pédagogique National (IPN), Mauritania; year 2025 edition (file created 2025); no ISBN printed PDF pages: 80 (read IN PLACE in staging at grade-06/gov/mauritania/ic-6af-m.pdf, 3,220,990 bytes; cover rendered and verified against the record title; never moved or deleted) Earlier waves: Geography/History waves read Mauritania's Geography and History books only — this civics book was not read before Verdict: COMPLETE — civics track, full page-by-page read to the last teaching page (Lesson 26, printed p. 75; the closing pages are integration/assessment situations, excluded and named) Contents map: Civics/Citizenship/Government pp. 7–20 (Lessons 1–5); regional/international organisations pp. 21–45 (Lessons 6–15); Morals/Values pp. 47–79 (Lessons 16–26) Tally: 26 placements — 5 to existing lessons, 21 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — global-issues/the-un-the-leagues-successor-built-to-last — Lesson 15: The United Nations — teaches: the UN — what it is, its bodies and Mauritania's membership — Mauritania Grade 6 Civic Education SB, printed p. 43 | Mauritania, *Mauritania Grade 6 Civic Education SB* (student book), Lesson 15: The United Nations — printed p. 43 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Turkmenistan, Venezuela, Samoa, Somalia, Fiji, Bangladesh, Rwanda, Saudi Arabia, Mauritania).**
+
+Mauritania's own way (Book 8): civics is built as three competencies — the child's rights and the state's law first, then Mauritania inside its regional and world organisations, then a long values ladder (moderation, advice, volunteering, equality, heritage, honour-brotherhood-justice) taught one value per lesson with observe–learn–discuss–conclude steps
+
+Searchable tags: the un — the league's successor, built to last, Mauritania, social studies, global-issues

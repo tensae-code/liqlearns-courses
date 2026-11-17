@@ -1,6 +1,6 @@
 # Sources — Security and Protection Services
 
-countries: Saudi Arabia, United Arab Emirates
+countries: Saudi Arabia, United Arab Emirates, Mauritania
 
 **Book 1:** *Social Studies, Grade 5 (student book, Arabic)* — Title as printed: الدراسات الاجتماعية — الصف الخامس الابتدائي (Social Studies — Fifth Grade, Primary) Grade: Grade 5 (student/teacher: STUDENT) Publisher: Ministry of Education, Kingdom of Saudi Arabia; cover dated 1448H / 2026 CE PDF pages: 179; printed page = PDF page. File verified: 65,373,328 bytes, size-verified via chunked Range assembly from Google Drive; cover rendered and looked at Verdict: COMPLETE — contents-first; the civics/citizenship strands (Unit 3 National Security, Unit 5 State Institutions) read in full and placed Contents map: Unit 1 History, Unit 2 Religion/History, Unit 3 National Security (this wave), Unit 4 Geography, Unit 5 State Institutions (this wave), Unit 6 Geography, Units 7–8 Economics — named, not placed Staged (2026-11-13 rule — external-link book not in GitHub, never deleted): ~/workspace/phase3-staging/grade-05/gov/saudi-arabia/social-studies/student/full-year.pdf with a new grade-05/gov/saudi-arabia/books.json record Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/saudi-arabia-placements.md.
 
@@ -30,3 +30,23 @@ United Arab Emirates placements — Social Studies remaining strands (2026-11-17
 United Arab Emirates' own way (Social Studies & National Education G5 Term 2): civics at Grade 5 is taught straight from the country's own constitution — Article 14 for equality, Article 43 for the duty of defence — with the state's own rankings, laws and named institutions (Family Development Foundation, Ministry of Community Development, the 2018 Emirati sign-language dictionary) as the evidence. That way is stocked here as the way United Arab Emirates teaches this thing.
 
 Registry note: the original coined string `culture-and-work/security-and-safety-in-my-country` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/security-and-protection-services`.
+
+
+Mauritania placements — Social Studies remaining strands (2026-11-17):
+
+**Book 7:** *Civic Education, Year 5 student book (student book, Arabic)* — Title as printed: كتاب التربية المدنية للسنة الخامسة من التعليم الابتدائي (Civic Education Book for the Fifth Year of Primary Education) Grade: Year 5 (student/teacher: STUDENT) Publisher: Institut Pédagogique National (IPN), Mauritania; 2025; no ISBN printed PDF pages: 56 (cover rendered and verified against the record title; fetched from the record's source_url, 17,360,819 bytes, after grab.py failed — see log route note; contents list at printed p. 55) Earlier waves: not read before Verdict: COMPLETE — civics track, full page-by-page read (24 lessons) Contents map: Civics/Citizenship/Government pp. 7–29 (territorial administration, elections, the state's powers, social security); Integrated SS (work and services as community life) pp. 31–53 Tally: 24 placements — 11 to existing lessons, 13 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — culture-and-work/security-and-protection-services — Lesson: The Police — teaches: the police, its ranks and its work — Mauritania Grade 5 Civic Education SB, printed p. 43 | Mauritania, *Mauritania Grade 5 Civic Education SB* (student book), Lesson: The Police — printed p. 43 |
+| Mauritania part — culture-and-work/security-and-protection-services — Lesson: The Gendarmerie — teaches: the gendarmerie — following thieves and criminals, organising street traffic — Mauritania Grade 5 Civic Education SB, printed p. 45 | Mauritania, *Mauritania Grade 5 Civic Education SB* (student book), Lesson: The Gendarmerie — printed p. 45 |
+| Mauritania part — culture-and-work/security-and-protection-services — Lesson: Customs — teaches: the customs service at the borders — Mauritania Grade 5 Civic Education SB, printed p. 47 | Mauritania, *Mauritania Grade 5 Civic Education SB* (student book), Lesson: Customs — printed p. 47 |
+| Mauritania part — culture-and-work/security-and-protection-services — Lesson: Civil Security and Crisis Management — teaches: the civil-security workers and their decree, managing crises — Mauritania Grade 5 Civic Education SB, printed p. 49 | Mauritania, *Mauritania Grade 5 Civic Education SB* (student book), Lesson: Civil Security and Crisis Management — printed p. 49 |
+| Mauritania part — culture-and-work/security-and-protection-services — Lesson: Road Security — teaches: security on the road — Mauritania Grade 5 Civic Education SB, printed p. 51 | Mauritania, *Mauritania Grade 5 Civic Education SB* (student book), Lesson: Road Security — printed p. 51 |
+| Mauritania part — culture-and-work/security-and-protection-services — Lesson: The Environmental Police — teaches: the environmental police — protecting forests and reserves — Mauritania Grade 5 Civic Education SB, printed p. 53 | Mauritania, *Mauritania Grade 5 Civic Education SB* (student book), Lesson: The Environmental Police — printed p. 53 |
+
+**Acceptance count: taught in 3 countries (Saudi Arabia, United Arab Emirates, Mauritania).**
+
+Mauritania's own way (Book 7): Year 5 is the state itself — the child climbs the whole ladder of Mauritania's administration (commune → administrative centre → moughataa → wilaya), meets its elections and its three powers, then walks through the working community (professions, crafts) and the uniformed services that protect it, ending with the environmental police
+
+Searchable tags: security and protection services, Mauritania, social studies, culture-and-work

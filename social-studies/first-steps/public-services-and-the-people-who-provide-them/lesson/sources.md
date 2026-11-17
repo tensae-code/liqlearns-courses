@@ -1,6 +1,6 @@
 # Sources — Public Services And The People Who Provide Them
 
-countries: Honduras, Sweden, Bahrain, Philippines, Haiti, Ecuador, Yemen, Afghanistan, Somalia, Mexico, Uganda, Fiji, Oman, Syria, Morocco, India, Angola, United States, Rwanda, Papua New Guinea, Sri Lanka, Saudi Arabia, Vietnam, Myanmar, South Sudan, El Salvador
+countries: Honduras, Sweden, Bahrain, Philippines, Haiti, Ecuador, Yemen, Afghanistan, Somalia, Mexico, Uganda, Fiji, Oman, Syria, Morocco, India, Angola, United States, Rwanda, Papua New Guinea, Sri Lanka, Saudi Arabia, Vietnam, Myanmar, South Sudan, El Salvador, Mauritania
 
 **Book 1:** *Libro para Estudiantes del área de Ciencias Sociales — Primer grado de Educación Básica (cover: 'Ciencias Sociales — Primer grado — Libro para Estudiantes')* (student book, Spanish) — Universidad Pedagógica Nacional Francisco Morazán (UPNFM), elaborated for the Secretaría de Estado en el Despacho de Educación de Honduras; preliminary edition (Edición Preliminar) 2020 as printed on the credits page; no ISBN printed. Title as printed: Libro para Estudiantes del área de Ciencias Sociales — Primer grado de Educación Básica (cover: 'Ciencias Sociales — Primer grado — Libro para Estudiantes'). Grade: Grade 1 (student/teacher: STUDENT). PDF pages: 182 (cover/title page verified against the record title; read from the recorded ministry source educatrachos.hn, 66,184,073 bytes, SHA-256 prefix 1c4e29b7525c2dd3). Verdict: COMPLETE. History/Civics parts NOT placed (named for later waves): Bloque 1 'La persona y su ser social' (personal/social and civics formation, printed pp. 10–46); Bloque 3 'Las sociedades y el tiempo social' (History, printed pp. 94–134); Bloque 4 lessons not placed above (social organisation, authorities, laws and demands — Civics, printed pp. 138 onwards). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/honduras-placements.md.
 
@@ -310,3 +310,22 @@ El Salvador placements — Social Studies remaining strands (2026-11-17):
 El Salvador's own way (El Salvador Grade 2 Estudios Sociales 2): Grade 2 widens Grade 1's frame to the whole society — "¡La sociedad somos todos!" — individuals, families, schools, public and private institutions and communities together form Salvadoran society, and its main institutions are named one by one.
 
 Searchable tags: public services and the people who provide them, El Salvador, social studies, first-steps
+
+
+Mauritania placements — Social Studies remaining strands (2026-11-17):
+
+**Book 7:** *Civic Education, Year 5 student book (student book, Arabic)* — Title as printed: كتاب التربية المدنية للسنة الخامسة من التعليم الابتدائي (Civic Education Book for the Fifth Year of Primary Education) Grade: Year 5 (student/teacher: STUDENT) Publisher: Institut Pédagogique National (IPN), Mauritania; 2025; no ISBN printed PDF pages: 56 (cover rendered and verified against the record title; fetched from the record's source_url, 17,360,819 bytes, after grab.py failed — see log route note; contents list at printed p. 55) Earlier waves: not read before Verdict: COMPLETE — civics track, full page-by-page read (24 lessons) Contents map: Civics/Citizenship/Government pp. 7–29 (territorial administration, elections, the state's powers, social security); Integrated SS (work and services as community life) pp. 31–53 Tally: 24 placements — 11 to existing lessons, 13 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — first-steps/public-services-and-the-people-who-provide-them — Lesson: The Teacher — teaches: the teacher as a provider in the community — Mauritania Grade 5 Civic Education SB, printed p. 33 | Mauritania, *Mauritania Grade 5 Civic Education SB* (student book), Lesson: The Teacher — printed p. 33 |
+| Mauritania part — first-steps/public-services-and-the-people-who-provide-them — Lesson: The Nurse — teaches: the nurse as a health-service provider — Mauritania Grade 5 Civic Education SB, printed p. 35 | Mauritania, *Mauritania Grade 5 Civic Education SB* (student book), Lesson: The Nurse — printed p. 35 |
+| Mauritania part — first-steps/public-services-and-the-people-who-provide-them — Lesson: The Mechanic — teaches: the mechanic's craft in the community — Mauritania Grade 5 Civic Education SB, printed p. 37 | Mauritania, *Mauritania Grade 5 Civic Education SB* (student book), Lesson: The Mechanic — printed p. 37 |
+| Mauritania part — first-steps/public-services-and-the-people-who-provide-them — Lesson: The Electrician — teaches: the electrician's craft in the community — Mauritania Grade 5 Civic Education SB, printed p. 39 | Mauritania, *Mauritania Grade 5 Civic Education SB* (student book), Lesson: The Electrician — printed p. 39 |
+| Mauritania part — first-steps/public-services-and-the-people-who-provide-them — Lesson: Security and Defence Services — teaches: the services that keep security and defence — Mauritania Grade 5 Civic Education SB, printed p. 41 | Mauritania, *Mauritania Grade 5 Civic Education SB* (student book), Lesson: Security and Defence Services — printed p. 41 |
+
+**Acceptance count: taught in 21 countries (Honduras, Bahrain, Philippines, Ecuador, Yemen, Afghanistan, Mexico, Uganda, Fiji, Syria, India, Angola, United States, Rwanda, Sri Lanka, Saudi Arabia, Vietnam, Myanmar, South Sudan, El Salvador, Mauritania).**
+
+Mauritania's own way (Book 7): Year 5 is the state itself — the child climbs the whole ladder of Mauritania's administration (commune → administrative centre → moughataa → wilaya), meets its elections and its three powers, then walks through the working community (professions, crafts) and the uniformed services that protect it, ending with the environmental police
+
+Searchable tags: public services and the people who provide them, Mauritania, social studies, first-steps

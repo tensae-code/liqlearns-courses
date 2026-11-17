@@ -1,6 +1,6 @@
 # Sources — Community Participation Taking Part
 
-countries: Oman, Saudi Arabia
+countries: Oman, Saudi Arabia, Mauritania
 
 **Book 1:** *Social Studies Grade 6, Term 2* (teacher guide, Arabic) — Title as printed: دليل المعلم لمادة الدراسات الاجتماعية — Teacher's Guide for the Subject Social Studies. Grade: Grade 6 (student/teacher: TEACHER), Term 2. Publisher: Ministry of Education, Sultanate of Oman; first edition 1446هـ/2024م; no ISBN printed. PDF pages: 102 (3,340,182 bytes — exactly the ministry server's Content-Range total; ministry TeacherBook PDF service. Cover verified: الدراسات الاجتماعية، الصف السادس، الفصل الدراسي الثاني. STAGED under the new rule at phase3-staging/grade-06/gov/oman/social-studies/teacher/term-2.pdf with a books.json record). Earlier waves: none. Verdict: COMPLETE (scope-noted) — the guide's standards table and unit analyses were read; Unit 3 read and placed; the Geography and History units named below, not placed. Contents map: Geography — map symbols and place-names, population studies and Oman's population (named, not placed); History — the Rashidun era and Oman, the Umayyad state and Oman in the Umayyad era (named, not placed); Economics — the Omani economy field of the grade framework (named, not placed); Civics Unit 3 المجتمع المدني: المشاركة المجتمعية والمؤسسات (Civil Society: Community Participation and Institutions) printed pp. 85–102 — Lesson 1 المشاركة المجتمعية (Community participation), Lesson 2 مؤسسات المجتمع المدني (Civil society institutions). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/oman-placements.md. Teacher guide — evidence only, outside the acceptance count. Oman's student books were not held — its placements are based on teacher guides.
 
@@ -37,3 +37,19 @@ Saudi Arabia's own way (Book 3): the Grade 6 book ties citizenship to Saudi Visi
 
 Registry note: the original coined string `first-steps/community-participation-and-its-rules` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/community-participation-taking-part`.
 
+
+Mauritania placements — Social Studies remaining strands (2026-11-17):
+
+**Book 6:** *Civic Education, Year 4 student book (student book, Arabic)* — Title as printed: كتاب التربية المدنية للسنة الرابعة من التعليم الابتدائي (Civic Education Book for the Fourth Year of Primary Education) Grade: Year 4 (student/teacher: STUDENT) Publisher: Institut Pédagogique National (IPN), Mauritania; 2025; no ISBN printed PDF pages: 46 (image-only scan — read from 100 DPI page renders in 4-up contact sheets, all 46 pages viewed; cover rendered and verified against the record title; fetched from the record's source_url, 6,066,077 bytes, after grab.py failed — see log route note; contents list at printed p. 45) Earlier waves: not read before Verdict: COMPLETE — civics track, full page-by-page read (19 lessons) Contents map: Civics/Citizenship/Government pp. 7–29 (the municipality set, national identity and belonging, the rights to security and health); Morals/Values pp. 33–43; Health/Safety pp. 31, 37, 41 (cleanliness; safe play; home accidents — named, not placed, Health course) Tally: 16 placements — 4 to existing lessons, 12 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — culture-and-work/participation-in-community-life — Participation — teaches: the positive child takes part in everything useful — home work, school cleanliness, the school garden, neighbourhood volunteering — and, grown, in building the homeland — Mauritania Grade 4 Civic Education SB, printed p. 39 | Mauritania, *Mauritania Grade 4 Civic Education SB* (student book), Participation — printed p. 39 |
+
+**Acceptance count: taught in 2 countries (Saudi Arabia, Mauritania).**
+
+Mauritania's own way (Book 6): Year 4 is the commune — the whole first half walks the municipality's own law (Law 87/289), its mayor, councillors and council, and what it owes the school, the playground and the health centre; the second half turns to identity, belonging, two rights, and the behaviour values
+
+Registry note: the original coined string `culture-and-work/participation-in-community-life` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/community-participation-taking-part`.
+
+Searchable tags: community participation taking part, Mauritania, social studies, culture-and-work

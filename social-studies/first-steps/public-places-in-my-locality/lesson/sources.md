@@ -70,3 +70,27 @@ Iran placements — Social Studies remaining strands (2026-11-17):
 Iran's own way (Iran Social Studies Grade 4): the neighbourhood is taught as a moral community before it is a map — the Prophet's saying on treating neighbours well opens the book, and the nation itself is introduced as "one big family in a big house called Iran" whose shared rules are written in the Constitution.
 
 Searchable tags: public places in my locality, Iran, social studies, first-steps
+
+
+Mauritania placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *Civic Education (Awakening and Civic Behaviour), Year 1 student book (student book, Arabic)* — Title as printed: التربية المدنية (الإيقاظ والسلوك المدني) للسنة الأولى من التعليم الأساسي (Civic Education — Awakening and Civic Behaviour — for the First Year of Basic Education) Grade: Year 1 (student/teacher: STUDENT) Publisher: Ministry of Education / IPN, Mauritania; no ISBN printed PDF pages: 64 (cover verified against the record title; fetched from the record's source_url, 5,394,894 bytes, after grab.py failed — see log route note; contents list at printed pp. 63–64) Earlier waves: not read before Verdict: COMPLETE — civics track, full page-by-page read (24 cards in six axes; the two integration situations, printed pp. 61–62, are excluded as assessment apparatus) Contents map: Civics/Citizenship (homeland and national symbols) pp. 7–13; Morals/Values pp. 15–19; Integrated SS pp. 27–29, 51–59; Health pp. 21, 25, 31–49 (water care, swamp dangers, safe play, healthy sitting, rest/sleep, miswak, nails, bathing, handwashing, clean utensils/home/clothes — named, not placed, Health course); Science p. 23 (trees and plants — named, not placed) Tally: 9 placements — 2 to existing lessons, 7 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — first-steps/public-places-in-my-locality — Cards: The Mosque; The Mahadra; The Dispensary; The Playground — teaches: the locality's public places and what each is for — Mauritania Grade 1 Civic Education SB, printed p. 51 | Mauritania, *Mauritania Grade 1 Civic Education SB* (student book), Cards: The Mosque; The Mahadra; The Dispensary; The Playground — printed p. 51 |
+
+**Book 3:** *Civic Education, Year 2 student book (student book, Arabic)* — Title as printed: التربية المدنية (الإيقاظ والسلوك المدني) للسنة الثانية الابتدائية (Civic Education — Awakening and Civic Behaviour — for the Second Primary Year) Grade: Year 2 (student/teacher: STUDENT) Publisher: Ministry of Education / IPN, Mauritania; 2025; no ISBN printed PDF pages: 79 (cover rendered and verified against the record title; fetched from the record's source_url, 3,332,963 bytes, after grab.py failed — see log route note; contents list at printed pp. 77–78) Earlier waves: not read before Verdict: COMPLETE — civics track, full page-by-page read; each topic is a two-page spread (lesson + practice page, the practice pages are apparatus and not placed separately) Contents map: Integrated SS pp. 33–43 (national festivals, mosque, market, school, municipality), pp. 61–67 (family, relatives, neighbours, peers); Civics/Citizenship pp. 45–51 (homeland, emblem, flag, anthem); Morals/Values pp. 53–59, 69–75; Health pp. 7–17 (cleanliness, water use, soap, miswak, meals, toilets — named, not placed, Health course); Science/awakening pp. 19–35 (plants, pets, day/week/month/year, directions — named, not placed); Religion p. 31 (religious festivals — named, not placed) Tally: 19 placements — 4 to existing lessons, 15 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — first-steps/public-places-in-my-locality — The Mosque — teaches: the mosque as a public place of the locality — Mauritania Grade 2 Civic Education SB, printed p. 37 | Mauritania, *Mauritania Grade 2 Civic Education SB* (student book), The Mosque — printed p. 37 |
+| Mauritania part — first-steps/public-places-in-my-locality — The Market — teaches: the market as a public place where the community meets and trades — Mauritania Grade 2 Civic Education SB, printed p. 39 | Mauritania, *Mauritania Grade 2 Civic Education SB* (student book), The Market — printed p. 39 |
+
+**Acceptance count: taught in 5 countries (Mauritania, North Macedonia, Angola, United Arab Emirates, Iran).**
+
+Mauritania's own way (Book 1): the first school year opens with "My Homeland" and its symbols (flag, anthem, currency), then the values trio tolerance–cooperation–listening, then the body's cleanliness, and closes with the community's places — mosque, school, mahadra, dispensary, playground
+
+Mauritania's own way (Book 3): Year 2 mixes "awakening" (health, time, the living world) with civic behaviour — the child's widening circles (family → neighbours → school → municipality → homeland and its symbols) carry the civics, one short topic per spread
+
+Searchable tags: public places in my locality, Mauritania, social studies, first-steps

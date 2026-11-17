@@ -1,6 +1,6 @@
 # Sources — Discipline and Following Rules
 
-countries: Somalia, Sri Lanka, Cambodia, Vietnam
+countries: Somalia, Sri Lanka, Cambodia, Vietnam, Mauritania
 
 **Book 1:** *Barbaarinta iyo Cilmiga Beesha, Fasalka Koowaad* (teacher guide, Somali) — Title as printed: BARBAARINTA IYO CILMIGA BEESHA — FASALKA KOOWAAD (Upbringing and Social Studies — First Grade); Jamhuuriyadda Dimoqraadiga Soomaaliya, Wasaaradda Waxbarashada iyo Barbaarinta, Xafiiska Manaahiijta (Somali Democratic Republic, Ministry of Education, Curriculum Office). Grade: Grade 1 (student/teacher: TEACHER — the book states it is a Tusmo-Bare, a guide for the teacher only; every lesson is written as teacher steps, materials and questions). Publisher: Ministry of Education, Curriculum Office; printed by Madbacadda Qaranka (National Press), 1975 (imprint on verso); authors Maxamed Cali Warsame, Ibraahim Maxamuud Abyan, with Xaliima Cusmaan Axmed; no ISBN printed. PDF pages: 56 (cover and title page verified against the record title; 1,188,918 bytes exact match to the link record). Earlier waves: not read before (no Somalia filings in the Geography, History or Economics waves). Verdict: COMPLETE. Contents map: Integrated SS / Civics / Morals throughout — introduction and the making of the child's personality (qofnimo) printed pp. 1–6; the flag p. 7; the city p. 10; the motherland p. 14; work and socialism p. 17; the Revolution p. 22; Religion p. 28 (named, not placed); work and the workers p. 33; self-help p. 38; discipline and manners pp. 41–47; the society the pupil lives in p. 48. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/somalia-placements.md. Teacher guide — evidence only, outside the acceptance count. External-link book NOT in GitHub, staged under the 2026-11-13 rule, as filed.
 
@@ -60,3 +60,22 @@ Vietnam placements — Social Studies remaining strands (2026-11-17):
 Vietnam's own way (Book 1): Đạo đức (Ethics) is Vietnam's standalone primary moral-education subject; every lesson runs the same four moves — a song to open, picture stories to explore, practice pictures to judge, a role-play to apply — and closes with a two-line rhyme that states the duty; the family is taught three-generational (ông bà – cha mẹ – anh chị em) and school rules are taught as the child's first shared rules.
 
 Registry note: the original coined string `first-steps/keeping-order-in-school-and-class` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/discipline-and-following-rules`.
+
+
+Mauritania placements — Social Studies remaining strands (2026-11-17):
+
+**Book 3:** *Civic Education, Year 2 student book (student book, Arabic)* — Title as printed: التربية المدنية (الإيقاظ والسلوك المدني) للسنة الثانية الابتدائية (Civic Education — Awakening and Civic Behaviour — for the Second Primary Year) Grade: Year 2 (student/teacher: STUDENT) Publisher: Ministry of Education / IPN, Mauritania; 2025; no ISBN printed PDF pages: 79 (cover rendered and verified against the record title; fetched from the record's source_url, 3,332,963 bytes, after grab.py failed — see log route note; contents list at printed pp. 77–78) Earlier waves: not read before Verdict: COMPLETE — civics track, full page-by-page read; each topic is a two-page spread (lesson + practice page, the practice pages are apparatus and not placed separately) Contents map: Integrated SS pp. 33–43 (national festivals, mosque, market, school, municipality), pp. 61–67 (family, relatives, neighbours, peers); Civics/Citizenship pp. 45–51 (homeland, emblem, flag, anthem); Morals/Values pp. 53–59, 69–75; Health pp. 7–17 (cleanliness, water use, soap, miswak, meals, toilets — named, not placed, Health course); Science/awakening pp. 19–35 (plants, pets, day/week/month/year, directions — named, not placed); Religion p. 31 (religious festivals — named, not placed) Tally: 19 placements — 4 to existing lessons, 15 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — culture-and-work/discipline-and-doing-work-well — Knowledge — teaches: valuing knowledge and learning — Mauritania Grade 2 Civic Education SB, printed p. 53 | Mauritania, *Mauritania Grade 2 Civic Education SB* (student book), Knowledge — printed p. 53 |
+| Mauritania part — culture-and-work/discipline-and-doing-work-well — Discipline — teaches: discipline (indibat) as orderly behaviour — Mauritania Grade 2 Civic Education SB, printed p. 57 | Mauritania, *Mauritania Grade 2 Civic Education SB* (student book), Discipline — printed p. 57 |
+| Mauritania part — culture-and-work/discipline-and-doing-work-well — Mastery — teaches: doing work well and thoroughly (itqan) — Mauritania Grade 2 Civic Education SB, printed p. 59 | Mauritania, *Mauritania Grade 2 Civic Education SB* (student book), Mastery — printed p. 59 |
+
+**Acceptance count: taught in 4 countries (Sri Lanka, Cambodia, Vietnam, Mauritania).**
+
+Mauritania's own way (Book 3): Year 2 mixes "awakening" (health, time, the living world) with civic behaviour — the child's widening circles (family → neighbours → school → municipality → homeland and its symbols) carry the civics, one short topic per spread
+
+Registry note: the original coined string `culture-and-work/discipline-and-doing-work-well` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/discipline-and-following-rules`.
+
+Searchable tags: discipline and following rules, Mauritania, social studies, culture-and-work

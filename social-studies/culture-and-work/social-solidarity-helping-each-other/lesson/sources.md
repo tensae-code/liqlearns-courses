@@ -1,6 +1,6 @@
 # Sources — Social Solidarity Helping Each Other
 
-countries: Kuwait, Venezuela, Morocco, Jordan
+countries: Kuwait, Venezuela, Morocco, Jordan, Mauritania
 
 **Book 1:** *Social Studies G6 Term 1* (student book, Arabic) — Title as printed: دولة الكويت و دول الخليج العربية — الصف السادس — الفصل الدراسي الأول (State of Kuwait and the Arab Gulf States, Grade 6, Term 1). Grade: Grade 6 Term 1 (student/teacher: STUDENT). Publisher: Ministry of Education, State of Kuwait; year 2026–2027 (2nd edition, 1448H); ISBN 978-9921-33-030-4. PDF pages: 114 (cover verified — Kuwait Towers cover, title and grade as printed; read in place at phase3-staging/grade-06/gov/kuwait/social-studies/student/term-1.pdf, 50,971,017 bytes on disk; printed page numbers = PDF page numbers). Earlier waves: Geography wave placed the Geography units (printed pp. 18–37, 44–46, 64–68, 82–96); History wave placed pp. 47–76 history parts; Economics wave placed pp. 82–97 old economic activities. The values unit was named in all three headers, never placed. Verdict: COMPLETE. Contents map: Geography pp. 18–37; History/Civilisation pp. 44–76; Economics pp. 82–97; Morals/Values pp. 102–110 (the "Stations with Good Kuwait" وقفات مع كويت الطيب unit). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/kuwait-placements.md.
 
@@ -59,3 +59,21 @@ Jordan's own way (Book 11): Grade 5 civics is Jordan's own state, part by part �
 Registry note: the original coined string `culture-and-work/social-solidarity` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/social-solidarity-helping-each-other`.
 
 Searchable tags: social solidarity helping each other, Jordan, social studies, culture-and-work
+
+
+Mauritania placements — Social Studies remaining strands (2026-11-17):
+
+**Book 5:** *Civic Education, Year 3 student book (student book, Arabic)* — Title as printed: التربية المدنية للسنة الثالثة من التعليم الابتدائي (Civic Education for the Third Year of Primary Education) Grade: Year 3 (student/teacher: STUDENT) Publisher: Institut Pédagogique National (IPN), Mauritania; 2025 edition; no ISBN printed PDF pages: 50 (cover rendered and verified against the record title; fetched from the record's source_url, 4,593,822 bytes, after grab.py failed — see log route note) Earlier waves: not read before (Geography/History waves read Mauritania's Geography and History books only) Verdict: COMPLETE — civics track, full page-by-page read (20 lessons, contents verified at printed p. 49); the two assessment situations (printed pp. 47–48) are excluded as assessment apparatus Contents map: Integrated SS pp. 7–33 (family and school units); Morals/Values pp. 17–19, 35–43; Health pp. 39–45 (cleanliness, disinfection — named, not placed, Health course) Tally: 18 placements — 2 to existing lessons, 16 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — culture-and-work/solidarity-helping-each-other-stand — Lesson 6: Solidarity (Takaful) — teaches: mutual support — members of a community carrying each other — Mauritania Grade 3 Civic Education SB, printed p. 17 | Mauritania, *Mauritania Grade 3 Civic Education SB* (student book), Lesson 6: Solidarity (Takaful) — printed p. 17 |
+| Mauritania part — culture-and-work/solidarity-helping-each-other-stand — Lesson 16: Solidarity — teaches: solidarity practised a second time, in the school community — Mauritania Grade 3 Civic Education SB, printed p. 37 | Mauritania, *Mauritania Grade 3 Civic Education SB* (student book), Lesson 16: Solidarity — printed p. 37 |
+
+**Acceptance count: taught in 5 countries (Kuwait, Venezuela, Morocco, Jordan, Mauritania).**
+
+Mauritania's own way (Book 5): Year 3 civics is the family and the school — duties run both ways (children to family, family to children) and the values are solidarity, cooperation, tolerance and volunteering practised inside those two communities
+
+Registry note: the original coined string `culture-and-work/solidarity-helping-each-other-stand` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/social-solidarity-helping-each-other`.
+
+Searchable tags: social solidarity helping each other, Mauritania, social studies, culture-and-work

@@ -1,6 +1,6 @@
 # Sources — Political and Electoral Systems of the State
 
-countries: Egypt, Costa Rica, Maldives, Micronesia, Philippines, Bahamas, Bhutan, Mexico, Uganda, India, United States, Rwanda, Sri Lanka, Cambodia, El Salvador
+countries: Egypt, Costa Rica, Maldives, Micronesia, Philippines, Bahamas, Bhutan, Mexico, Uganda, India, United States, Rwanda, Sri Lanka, Cambodia, El Salvador, Mauritania
 
 **Book 1:** *الجغرافيا السياسية (Political Geography) — كتاب الطالب والأنشطة والتدريبات (Student Book, Activities and Exercises)* (student book with activities, Arabic) — Egypt, Ministry of Education and Technical Education, Egypt; no year or ISBN on the cover pages read (the file is the ministry's 2026-folder student book). Title as printed: الجغرافيا السياسية (Political Geography). Grade 12, Third Secondary, Term 1 (student). 172 PDF pp. (cover verified against the record title; 28,573,835 bytes = record size exactly, from the recorded Azure source; staged in phase3-staging/grade-12/gov/egypt/Geography_Sec3.pdf under the push-don't-delete rule — its books.json record already existed there). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/egypt-placements.md.
 
@@ -175,3 +175,18 @@ El Salvador placements — Social Studies remaining strands (2026-11-17):
 El Salvador's own way (El Salvador Grade 10 Estudios Sociales y Cívica 1.er año de bachillerato): the bachillerato book turns civics into El Salvador's own democratic repair — rule of law in El Salvador and the Salvadoran political system — and ends in the information society: e-government, access and transparency.
 
 Searchable tags: political and electoral systems of the state, El Salvador, social studies, global-issues
+
+
+Mauritania placements — Social Studies remaining strands (2026-11-17):
+
+**Book 7:** *Civic Education, Year 5 student book (student book, Arabic)* — Title as printed: كتاب التربية المدنية للسنة الخامسة من التعليم الابتدائي (Civic Education Book for the Fifth Year of Primary Education) Grade: Year 5 (student/teacher: STUDENT) Publisher: Institut Pédagogique National (IPN), Mauritania; 2025; no ISBN printed PDF pages: 56 (cover rendered and verified against the record title; fetched from the record's source_url, 17,360,819 bytes, after grab.py failed — see log route note; contents list at printed p. 55) Earlier waves: not read before Verdict: COMPLETE — civics track, full page-by-page read (24 lessons) Contents map: Civics/Citizenship/Government pp. 7–29 (territorial administration, elections, the state's powers, social security); Integrated SS (work and services as community life) pp. 31–53 Tally: 24 placements — 11 to existing lessons, 13 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — global-issues/political-and-electoral-systems-of-the-state — Lesson: Organising Elections in Mauritania — teaches: Mauritania's electoral system and how its elections are organised — Mauritania Grade 5 Civic Education SB, printed p. 17 | Mauritania, *Mauritania Grade 5 Civic Education SB* (student book), Lesson: Organising Elections in Mauritania — printed p. 17 |
+
+**Acceptance count: taught in 16 countries (Egypt, Costa Rica, Maldives, Micronesia, Philippines, Bahamas, Bhutan, Mexico, Uganda, India, United States, Rwanda, Sri Lanka, Cambodia, El Salvador, Mauritania).**
+
+Mauritania's own way (Book 7): Year 5 is the state itself — the child climbs the whole ladder of Mauritania's administration (commune → administrative centre → moughataa → wilaya), meets its elections and its three powers, then walks through the working community (professions, crafts) and the uniformed services that protect it, ending with the environmental police
+
+Searchable tags: political and electoral systems of the state, Mauritania, social studies, global-issues

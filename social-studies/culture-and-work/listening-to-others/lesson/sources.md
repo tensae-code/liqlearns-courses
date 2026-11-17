@@ -1,6 +1,6 @@
 # Sources — Listening to Others
 
-countries: Mauritius, Syria, Iran
+countries: Mauritius, Syria, Iran, Mauritania
 
 **Book 1:** *Values and Citizenship Education — Grade 1 Teacher’s Handbook* (teacher guide, English) — Title as printed: Values and Citizenship Education — Grade 1 Teacher’s Handbook. Grade: Grade 1 (student/teacher: TEACHER). Publisher: Mauritius Institute of Education (MIE); year 2020; ISBN 978-99949-53-93-6. PDF pages: no PDF — read via FlipHTML5 flipbook (88 pages, printed pp. i–80); cover/imprint page verified against the record title (Lesson 14 "About my country" named in the record is present, printed p. 70). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Morals/Values pp. 2–59, 75–79; Civics/Citizenship (national symbols, country identity) pp. 62–74; Health (body care, named only, not placed) pp. 8–20. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mauritius-placements-b.md. Teacher guide — evidence only, outside the acceptance count. Staging note: the book exists only as a FlipHTML5 flipbook — no PDF file was downloadable, so there is no file to stage under the 2026-11-13 rule; the read is from the flipbook’s full text.
 
@@ -46,3 +46,18 @@ Iran's own way (Iran Social Studies Grade 5): civics is taught by analogy from t
 Registry note: the original coined string `culture-and-work/talking-and-listening-well` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/listening-to-others`.
 
 Searchable tags: listening to others, Iran, social studies, culture-and-work
+
+
+Mauritania placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *Civic Education (Awakening and Civic Behaviour), Year 1 student book (student book, Arabic)* — Title as printed: التربية المدنية (الإيقاظ والسلوك المدني) للسنة الأولى من التعليم الأساسي (Civic Education — Awakening and Civic Behaviour — for the First Year of Basic Education) Grade: Year 1 (student/teacher: STUDENT) Publisher: Ministry of Education / IPN, Mauritania; no ISBN printed PDF pages: 64 (cover verified against the record title; fetched from the record's source_url, 5,394,894 bytes, after grab.py failed — see log route note; contents list at printed pp. 63–64) Earlier waves: not read before Verdict: COMPLETE — civics track, full page-by-page read (24 cards in six axes; the two integration situations, printed pp. 61–62, are excluded as assessment apparatus) Contents map: Civics/Citizenship (homeland and national symbols) pp. 7–13; Morals/Values pp. 15–19; Integrated SS pp. 27–29, 51–59; Health pp. 21, 25, 31–49 (water care, swamp dangers, safe play, healthy sitting, rest/sleep, miswak, nails, bathing, handwashing, clean utensils/home/clothes — named, not placed, Health course); Science p. 23 (trees and plants — named, not placed) Tally: 9 placements — 2 to existing lessons, 7 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — culture-and-work/listening-to-others — Card: Listening — teaches: listening to others attentively — Mauritania Grade 1 Civic Education SB, printed p. 19 | Mauritania, *Mauritania Grade 1 Civic Education SB* (student book), Card: Listening — printed p. 19 |
+
+**Acceptance count: taught in 3 countries (Syria, Iran, Mauritania).**
+
+Mauritania's own way (Book 1): the first school year opens with "My Homeland" and its symbols (flag, anthem, currency), then the values trio tolerance–cooperation–listening, then the body's cleanliness, and closes with the community's places — mosque, school, mahadra, dispensary, playground
+
+Searchable tags: listening to others, Mauritania, social studies, culture-and-work

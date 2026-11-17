@@ -1,6 +1,6 @@
 # Sources — Cooperation Working Together
 
-countries: Mauritius, Libya, Oman, Bangladesh, Iraq, North Macedonia, Palestine, Saudi Arabia, Cambodia, Jordan, South Sudan, Iran, El Salvador
+countries: Mauritius, Libya, Oman, Bangladesh, Iraq, North Macedonia, Palestine, Saudi Arabia, Cambodia, Jordan, South Sudan, Iran, El Salvador, Mauritania
 
 **Book 1:** *Values and Citizenship Education — Grade 1 Teacher’s Handbook* (teacher guide, English) — Title as printed: Values and Citizenship Education — Grade 1 Teacher’s Handbook. Grade: Grade 1 (student/teacher: TEACHER). Publisher: Mauritius Institute of Education (MIE); year 2020; ISBN 978-99949-53-93-6. PDF pages: no PDF — read via FlipHTML5 flipbook (88 pages, printed pp. i–80); cover/imprint page verified against the record title (Lesson 14 "About my country" named in the record is present, printed p. 70). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Morals/Values pp. 2–59, 75–79; Civics/Citizenship (national symbols, country identity) pp. 62–74; Health (body care, named only, not placed) pp. 8–20. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mauritius-placements-b.md. Teacher guide — evidence only, outside the acceptance count. Staging note: the book exists only as a FlipHTML5 flipbook — no PDF file was downloadable, so there is no file to stage under the 2026-11-13 rule; the read is from the flipbook’s full text.
 
@@ -191,3 +191,43 @@ El Salvador's own way (El Salvador Grade 6 Estudios Sociales 6): Grade 6 reaches
 Registry note: the original coined string `culture-and-work/working-as-an-organised-team` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/cooperation-working-together`.
 
 Searchable tags: cooperation working together, El Salvador, social studies, culture-and-work
+
+
+Mauritania placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *Civic Education (Awakening and Civic Behaviour), Year 1 student book (student book, Arabic)* — Title as printed: التربية المدنية (الإيقاظ والسلوك المدني) للسنة الأولى من التعليم الأساسي (Civic Education — Awakening and Civic Behaviour — for the First Year of Basic Education) Grade: Year 1 (student/teacher: STUDENT) Publisher: Ministry of Education / IPN, Mauritania; no ISBN printed PDF pages: 64 (cover verified against the record title; fetched from the record's source_url, 5,394,894 bytes, after grab.py failed — see log route note; contents list at printed pp. 63–64) Earlier waves: not read before Verdict: COMPLETE — civics track, full page-by-page read (24 cards in six axes; the two integration situations, printed pp. 61–62, are excluded as assessment apparatus) Contents map: Civics/Citizenship (homeland and national symbols) pp. 7–13; Morals/Values pp. 15–19; Integrated SS pp. 27–29, 51–59; Health pp. 21, 25, 31–49 (water care, swamp dangers, safe play, healthy sitting, rest/sleep, miswak, nails, bathing, handwashing, clean utensils/home/clothes — named, not placed, Health course); Science p. 23 (trees and plants — named, not placed) Tally: 9 placements — 2 to existing lessons, 7 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — culture-and-work/cooperation-working-together — Card: Cooperation — teaches: cooperating with others — Mauritania Grade 1 Civic Education SB, printed p. 17 | Mauritania, *Mauritania Grade 1 Civic Education SB* (student book), Card: Cooperation — printed p. 17 |
+
+**Book 5:** *Civic Education, Year 3 student book (student book, Arabic)* — Title as printed: التربية المدنية للسنة الثالثة من التعليم الابتدائي (Civic Education for the Third Year of Primary Education) Grade: Year 3 (student/teacher: STUDENT) Publisher: Institut Pédagogique National (IPN), Mauritania; 2025 edition; no ISBN printed PDF pages: 50 (cover rendered and verified against the record title; fetched from the record's source_url, 4,593,822 bytes, after grab.py failed — see log route note) Earlier waves: not read before (Geography/History waves read Mauritania's Geography and History books only) Verdict: COMPLETE — civics track, full page-by-page read (20 lessons, contents verified at printed p. 49); the two assessment situations (printed pp. 47–48) are excluded as assessment apparatus Contents map: Integrated SS pp. 7–33 (family and school units); Morals/Values pp. 17–19, 35–43; Health pp. 39–45 (cleanliness, disinfection — named, not placed, Health course) Tally: 18 placements — 2 to existing lessons, 16 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — culture-and-work/cooperation-working-together — Lesson 7: Cooperation — teaches: working together inside family and school — Mauritania Grade 3 Civic Education SB, printed p. 19 | Mauritania, *Mauritania Grade 3 Civic Education SB* (student book), Lesson 7: Cooperation — printed p. 19 |
+| Mauritania part — culture-and-work/cooperation-working-together — Lesson 18: Cooperation — teaches: cooperation revisited as a closing value of the year — Mauritania Grade 3 Civic Education SB, printed p. 41 | Mauritania, *Mauritania Grade 3 Civic Education SB* (student book), Lesson 18: Cooperation — printed p. 41 |
+
+**Book 6:** *Civic Education, Year 4 student book (student book, Arabic)* — Title as printed: كتاب التربية المدنية للسنة الرابعة من التعليم الابتدائي (Civic Education Book for the Fourth Year of Primary Education) Grade: Year 4 (student/teacher: STUDENT) Publisher: Institut Pédagogique National (IPN), Mauritania; 2025; no ISBN printed PDF pages: 46 (image-only scan — read from 100 DPI page renders in 4-up contact sheets, all 46 pages viewed; cover rendered and verified against the record title; fetched from the record's source_url, 6,066,077 bytes, after grab.py failed — see log route note; contents list at printed p. 45) Earlier waves: not read before Verdict: COMPLETE — civics track, full page-by-page read (19 lessons) Contents map: Civics/Citizenship/Government pp. 7–29 (the municipality set, national identity and belonging, the rights to security and health); Morals/Values pp. 33–43; Health/Safety pp. 31, 37, 41 (cleanliness; safe play; home accidents — named, not placed, Health course) Tally: 16 placements — 4 to existing lessons, 12 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — culture-and-work/cooperation-working-together — Cooperation — teaches: cooperation between people in good — a task a group shares is finished whole, where one person alone falls short — Mauritania Grade 4 Civic Education SB, printed p. 43 | Mauritania, *Mauritania Grade 4 Civic Education SB* (student book), Cooperation — printed p. 43 |
+
+**Book 8:** *Civic Education, Year 6 student book (student book, Arabic)* — Title as printed: كتاب التربية المدنية للسنة السادسة من التعليم الابتدائي (Civic Education Book for the Sixth Year of Primary Education) Grade: Year 6 (student/teacher: STUDENT) Publisher: Institut Pédagogique National (IPN), Mauritania; year 2025 edition (file created 2025); no ISBN printed PDF pages: 80 (read IN PLACE in staging at grade-06/gov/mauritania/ic-6af-m.pdf, 3,220,990 bytes; cover rendered and verified against the record title; never moved or deleted) Earlier waves: Geography/History waves read Mauritania's Geography and History books only — this civics book was not read before Verdict: COMPLETE — civics track, full page-by-page read to the last teaching page (Lesson 26, printed p. 75; the closing pages are integration/assessment situations, excluded and named) Contents map: Civics/Citizenship/Government pp. 7–20 (Lessons 1–5); regional/international organisations pp. 21–45 (Lessons 6–15); Morals/Values pp. 47–79 (Lessons 16–26) Tally: 26 placements — 5 to existing lessons, 21 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — culture-and-work/cooperation-working-together — Lesson 23: Cooperation — teaches: cooperation as working together for a shared good — Mauritania Grade 6 Civic Education SB, printed p. 66 | Mauritania, *Mauritania Grade 6 Civic Education SB* (student book), Lesson 23: Cooperation — printed p. 66 |
+
+**Acceptance count: taught in 12 countries (Libya, Bangladesh, Iraq, North Macedonia, Palestine, Saudi Arabia, Cambodia, Jordan, South Sudan, Iran, El Salvador, Mauritania).**
+
+Mauritania's own way (Book 1): the first school year opens with "My Homeland" and its symbols (flag, anthem, currency), then the values trio tolerance–cooperation–listening, then the body's cleanliness, and closes with the community's places — mosque, school, mahadra, dispensary, playground
+
+Mauritania's own way (Book 5): Year 3 civics is the family and the school — duties run both ways (children to family, family to children) and the values are solidarity, cooperation, tolerance and volunteering practised inside those two communities
+
+Mauritania's own way (Book 6): Year 4 is the commune — the whole first half walks the municipality's own law (Law 87/289), its mayor, councillors and council, and what it owes the school, the playground and the health centre; the second half turns to identity, belonging, two rights, and the behaviour values
+
+Mauritania's own way (Book 8): civics is built as three competencies — the child's rights and the state's law first, then Mauritania inside its regional and world organisations, then a long values ladder (moderation, advice, volunteering, equality, heritage, honour-brotherhood-justice) taught one value per lesson with observe–learn–discuss–conclude steps
+
+Searchable tags: cooperation working together, Mauritania, social studies, culture-and-work

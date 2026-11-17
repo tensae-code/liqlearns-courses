@@ -1,6 +1,6 @@
 # Sources — My Family and Relatives
 
-countries: Vanuatu, Serbia, Oman, North Macedonia, Angola, Rwanda
+countries: Vanuatu, Serbia, Oman, North Macedonia, Angola, Rwanda, Mauritania
 
 **Book 1:** *Citoyenneté Sociale, Guide Pédagogique, Années 1 à 6* (teacher guide, French) — Communauté du Pacifique (SPC) and Ministry of Education and Training, Government of Vanuatu; Suva, 2019; ISBN 978-982-00-1158-8; authors Carol Young and Bridget Glasgow with the Vanuatu Curriculum Development Unit. Title as printed: Citoyenneté Sociale — Guide Pédagogique, Années 1 à 6 (Social Citizenship — Teachers Guide, Years 1–6). Grade: Years 1–6 (student/teacher: TEACHER). PDF pages: 35 printed pages (read in full through the Pacific Data Hub's own page text, 2026-11-17: direct PDF download is blocked by the host's bot check — three routes tried: plain curl and browser-UA curl both returned the "Just a moment" challenge page; the hub's text fetch succeeded. No PDF file was obtained, so nothing is staged for this book). Earlier waves: not read before. Verdict: COMPLETE — civics-type teacher guide read in full; placements are the guide's own teaching content, marked TEACHER (the guide carries the themes' substance, not just pupil-book answers). Contents map: Civics/Citizenship/Morals pp. 1–29 (why teach social citizenship; themes T1–T3); learner-centred teaching strategies p. 30 (apparatus, not placed); Glossary p. 31 (inventory only, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/vanuatu-placements.md. Teacher guide — evidence only, outside the acceptance count.
 
@@ -81,3 +81,29 @@ Registry note: the original coined string `first-steps/kinship-relations-who-is-
 **Acceptance count: taught in 4 countries (Serbia, North Macedonia, Angola, Rwanda). Vanuatu is named here as teacher-guide evidence only, counted nowhere. Oman is named here as teacher-guide evidence only, counted nowhere.**
 
 Rwanda's own way (Primary Two — Rwanda P2 SB Kiny): P2 civics starts with who you belong to (small family, wide family, the exact Kinyarwanda name for every relation), then the two smallest rungs of the state — the village and the cell, their elected committees and what umuganda owes them — and the behaviour of peace: playing without discrimination, listening without shouting, and the rights of children and of people with disabilities
+
+
+Mauritania placements — Social Studies remaining strands (2026-11-17):
+
+**Book 3:** *Civic Education, Year 2 student book (student book, Arabic)* — Title as printed: التربية المدنية (الإيقاظ والسلوك المدني) للسنة الثانية الابتدائية (Civic Education — Awakening and Civic Behaviour — for the Second Primary Year) Grade: Year 2 (student/teacher: STUDENT) Publisher: Ministry of Education / IPN, Mauritania; 2025; no ISBN printed PDF pages: 79 (cover rendered and verified against the record title; fetched from the record's source_url, 3,332,963 bytes, after grab.py failed — see log route note; contents list at printed pp. 77–78) Earlier waves: not read before Verdict: COMPLETE — civics track, full page-by-page read; each topic is a two-page spread (lesson + practice page, the practice pages are apparatus and not placed separately) Contents map: Integrated SS pp. 33–43 (national festivals, mosque, market, school, municipality), pp. 61–67 (family, relatives, neighbours, peers); Civics/Citizenship pp. 45–51 (homeland, emblem, flag, anthem); Morals/Values pp. 53–59, 69–75; Health pp. 7–17 (cleanliness, water use, soap, miswak, meals, toilets — named, not placed, Health course); Science/awakening pp. 19–35 (plants, pets, day/week/month/year, directions — named, not placed); Religion p. 31 (religious festivals — named, not placed) Tally: 19 placements — 4 to existing lessons, 15 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — first-steps/my-family-and-relatives — The Family — teaches: the family and its members — Mauritania Grade 2 Civic Education SB, printed p. 61 | Mauritania, *Mauritania Grade 2 Civic Education SB* (student book), The Family — printed p. 61 |
+| Mauritania part — first-steps/my-family-and-relatives — Relatives — teaches: relatives beyond the household — Mauritania Grade 2 Civic Education SB, printed p. 63 | Mauritania, *Mauritania Grade 2 Civic Education SB* (student book), Relatives — printed p. 63 |
+
+**Book 5:** *Civic Education, Year 3 student book (student book, Arabic)* — Title as printed: التربية المدنية للسنة الثالثة من التعليم الابتدائي (Civic Education for the Third Year of Primary Education) Grade: Year 3 (student/teacher: STUDENT) Publisher: Institut Pédagogique National (IPN), Mauritania; 2025 edition; no ISBN printed PDF pages: 50 (cover rendered and verified against the record title; fetched from the record's source_url, 4,593,822 bytes, after grab.py failed — see log route note) Earlier waves: not read before (Geography/History waves read Mauritania's Geography and History books only) Verdict: COMPLETE — civics track, full page-by-page read (20 lessons, contents verified at printed p. 49); the two assessment situations (printed pp. 47–48) are excluded as assessment apparatus Contents map: Integrated SS pp. 7–33 (family and school units); Morals/Values pp. 17–19, 35–43; Health pp. 39–45 (cleanliness, disinfection — named, not placed, Health course) Tally: 18 placements — 2 to existing lessons, 16 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — first-steps/my-family-and-relatives — Lesson 1: The Family — teaches: what a family is and who belongs to it — Mauritania Grade 3 Civic Education SB, printed p. 7 | Mauritania, *Mauritania Grade 3 Civic Education SB* (student book), Lesson 1: The Family — printed p. 7 |
+| Mauritania part — first-steps/my-family-and-relatives — Lesson 2: The Order of the Family — teaches: how a family is organised and the order that keeps it together — Mauritania Grade 3 Civic Education SB, printed p. 9 | Mauritania, *Mauritania Grade 3 Civic Education SB* (student book), Lesson 2: The Order of the Family — printed p. 9 |
+| Mauritania part — first-steps/my-family-and-relatives — Lesson 5: The Extended Family — teaches: the wider family beyond the household — Mauritania Grade 3 Civic Education SB, printed p. 15 | Mauritania, *Mauritania Grade 3 Civic Education SB* (student book), Lesson 5: The Extended Family — printed p. 15 |
+
+**Acceptance count: taught in 5 countries (Serbia, North Macedonia, Angola, Rwanda, Mauritania).**
+
+Mauritania's own way (Book 3): Year 2 mixes "awakening" (health, time, the living world) with civic behaviour — the child's widening circles (family → neighbours → school → municipality → homeland and its symbols) carry the civics, one short topic per spread
+
+Mauritania's own way (Book 5): Year 3 civics is the family and the school — duties run both ways (children to family, family to children) and the values are solidarity, cooperation, tolerance and volunteering practised inside those two communities
+
+Searchable tags: my family and relatives, Mauritania, social studies, first-steps

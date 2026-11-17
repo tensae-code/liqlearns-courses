@@ -1,6 +1,6 @@
 # Sources — Keeping Our Surroundings Clean
 
-countries: Vanuatu, Algeria, Sierra Leone, Libya, Serbia, Iraq, Kazakhstan, Angola, Myanmar
+countries: Vanuatu, Algeria, Sierra Leone, Libya, Serbia, Iraq, Kazakhstan, Angola, Myanmar, Mauritania
 
 **Book 1:** *Citoyenneté Sociale, Guide Pédagogique, Années 1 à 6* (teacher guide, French) — Communauté du Pacifique (SPC) and Ministry of Education and Training, Government of Vanuatu; Suva, 2019; ISBN 978-982-00-1158-8; authors Carol Young and Bridget Glasgow with the Vanuatu Curriculum Development Unit. Title as printed: Citoyenneté Sociale — Guide Pédagogique, Années 1 à 6 (Social Citizenship — Teachers Guide, Years 1–6). Grade: Years 1–6 (student/teacher: TEACHER). PDF pages: 35 printed pages (read in full through the Pacific Data Hub's own page text, 2026-11-17: direct PDF download is blocked by the host's bot check — three routes tried: plain curl and browser-UA curl both returned the "Just a moment" challenge page; the hub's text fetch succeeded. No PDF file was obtained, so nothing is staged for this book). Earlier waves: not read before. Verdict: COMPLETE — civics-type teacher guide read in full; placements are the guide's own teaching content, marked TEACHER (the guide carries the themes' substance, not just pupil-book answers). Contents map: Civics/Citizenship/Morals pp. 1–29 (why teach social citizenship; themes T1–T3); learner-centred teaching strategies p. 30 (apparatus, not placed); Glossary p. 31 (inventory only, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/vanuatu-placements.md. Teacher guide — evidence only, outside the acceptance count.
 
@@ -126,3 +126,20 @@ Myanmar's own way (Book 7): the Grade 3 units keep the story-and-poem shape but 
 Myanmar's own way (Book 9): Grade 4 names children's RIGHTS as a picture inventory (food, water, a house, clothes, care, medicine, play, learning, family) and turns environmental care into two full units — preserving the earth and the natural surroundings, with drought, flood, felled forests and factory smoke as the evidence.
 
 Searchable tags: keeping our surroundings clean, Myanmar, social studies, culture-and-work
+
+
+Mauritania placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *Civic Education (Awakening and Civic Behaviour), Year 1 student book (student book, Arabic)* — Title as printed: التربية المدنية (الإيقاظ والسلوك المدني) للسنة الأولى من التعليم الأساسي (Civic Education — Awakening and Civic Behaviour — for the First Year of Basic Education) Grade: Year 1 (student/teacher: STUDENT) Publisher: Ministry of Education / IPN, Mauritania; no ISBN printed PDF pages: 64 (cover verified against the record title; fetched from the record's source_url, 5,394,894 bytes, after grab.py failed — see log route note; contents list at printed pp. 63–64) Earlier waves: not read before Verdict: COMPLETE — civics track, full page-by-page read (24 cards in six axes; the two integration situations, printed pp. 61–62, are excluded as assessment apparatus) Contents map: Civics/Citizenship (homeland and national symbols) pp. 7–13; Morals/Values pp. 15–19; Integrated SS pp. 27–29, 51–59; Health pp. 21, 25, 31–49 (water care, swamp dangers, safe play, healthy sitting, rest/sleep, miswak, nails, bathing, handwashing, clean utensils/home/clothes — named, not placed, Health course); Science p. 23 (trees and plants — named, not placed) Tally: 9 placements — 2 to existing lessons, 7 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — first-steps/keeping-our-surroundings-clean — Card: Dirt (Rubbish) — teaches: rubbish as dirt to be removed — keeping surroundings clean as a civic duty (the axis's body-hygiene cards are Health, named not placed) — Mauritania Grade 1 Civic Education SB, printed p. 27 | Mauritania, *Mauritania Grade 1 Civic Education SB* (student book), Card: Dirt (Rubbish) — printed p. 27 |
+
+**Acceptance count: taught in 8 countries (Algeria, Libya, Serbia, Iraq, Kazakhstan, Angola, Myanmar, Mauritania).**
+
+Mauritania's own way (Book 1): the first school year opens with "My Homeland" and its symbols (flag, anthem, currency), then the values trio tolerance–cooperation–listening, then the body's cleanliness, and closes with the community's places — mosque, school, mahadra, dispensary, playground
+
+Registry note: the original coined string `first-steps/keeping-our-surroundings-clean` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/keeping-our-surroundings-clean`.
+
+Searchable tags: keeping our surroundings clean, Mauritania, social studies, culture-and-work

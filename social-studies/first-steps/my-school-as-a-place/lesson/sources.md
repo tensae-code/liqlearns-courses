@@ -1,6 +1,6 @@
 # Sources — My School as a Place
 
-countries: Fiji, Latvia, Mauritius, Ecuador, Yemen, Libya, Afghanistan, Eritrea, Serbia, Venezuela, Turkey, Iraq, Kazakhstan, North Macedonia, Angola, Sri Lanka, Cambodia, Vietnam, Myanmar, Iran, El Salvador
+countries: Fiji, Latvia, Mauritius, Ecuador, Yemen, Libya, Afghanistan, Eritrea, Serbia, Venezuela, Turkey, Iraq, Kazakhstan, North Macedonia, Angola, Sri Lanka, Cambodia, Vietnam, Myanmar, Iran, El Salvador, Mauritania
 
 **Book 1:** *Social Studies Year 3 (Re-edited 2017)* (student book, English) — Fiji, Ministry of Education, Heritage & Arts, Curriculum Development Unit (with UNESCO / Fiji Memory of the World support); year 2017 (re-edited); ISBN no ISBN printed. Title as printed: Social Studies Year 3 (Re-edited 2017). Grade: Year 3 (student/teacher: STUDENT). PDF pages: 64 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: grab.py GitHub API failed (RemoteDisconnected, release route ×2 and tree route ×1); read instead from the books.json record's own Wayback source_url — the ministry original of the same book. Non-Geography parts named, not placed: Part One Strand 1 Social Organisation — Lesson 1 My Family (printed p. 5), Lesson 2 Family Relationships (p. 11), Lesson 3 Family Roles (p. 17); Strand 2 Time, Continuity and Change — Lesson 4 Cultural Background (p. 24). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
 
@@ -246,3 +246,35 @@ El Salvador's own way (El Salvador Grade 2 Estudios Sociales 2): Grade 2 widens 
 El Salvador's own way (El Salvador Grade 3 Estudios Sociales 3): the same six-unit Cipotas y Cipotes frame deepens — society now "organises itself" (La sociedad se organiza) and the child's country closes the book (Mi país El Salvador).
 
 Searchable tags: my school as a place, El Salvador, social studies, first-steps
+
+
+Mauritania placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *Civic Education (Awakening and Civic Behaviour), Year 1 student book (student book, Arabic)* — Title as printed: التربية المدنية (الإيقاظ والسلوك المدني) للسنة الأولى من التعليم الأساسي (Civic Education — Awakening and Civic Behaviour — for the First Year of Basic Education) Grade: Year 1 (student/teacher: STUDENT) Publisher: Ministry of Education / IPN, Mauritania; no ISBN printed PDF pages: 64 (cover verified against the record title; fetched from the record's source_url, 5,394,894 bytes, after grab.py failed — see log route note; contents list at printed pp. 63–64) Earlier waves: not read before Verdict: COMPLETE — civics track, full page-by-page read (24 cards in six axes; the two integration situations, printed pp. 61–62, are excluded as assessment apparatus) Contents map: Civics/Citizenship (homeland and national symbols) pp. 7–13; Morals/Values pp. 15–19; Integrated SS pp. 27–29, 51–59; Health pp. 21, 25, 31–49 (water care, swamp dangers, safe play, healthy sitting, rest/sleep, miswak, nails, bathing, handwashing, clean utensils/home/clothes — named, not placed, Health course); Science p. 23 (trees and plants — named, not placed) Tally: 9 placements — 2 to existing lessons, 7 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — first-steps/my-school-as-a-place — Card: The School — teaches: the school as the child's community place — Mauritania Grade 1 Civic Education SB, printed p. 53 | Mauritania, *Mauritania Grade 1 Civic Education SB* (student book), Card: The School — printed p. 53 |
+
+**Book 3:** *Civic Education, Year 2 student book (student book, Arabic)* — Title as printed: التربية المدنية (الإيقاظ والسلوك المدني) للسنة الثانية الابتدائية (Civic Education — Awakening and Civic Behaviour — for the Second Primary Year) Grade: Year 2 (student/teacher: STUDENT) Publisher: Ministry of Education / IPN, Mauritania; 2025; no ISBN printed PDF pages: 79 (cover rendered and verified against the record title; fetched from the record's source_url, 3,332,963 bytes, after grab.py failed — see log route note; contents list at printed pp. 77–78) Earlier waves: not read before Verdict: COMPLETE — civics track, full page-by-page read; each topic is a two-page spread (lesson + practice page, the practice pages are apparatus and not placed separately) Contents map: Integrated SS pp. 33–43 (national festivals, mosque, market, school, municipality), pp. 61–67 (family, relatives, neighbours, peers); Civics/Citizenship pp. 45–51 (homeland, emblem, flag, anthem); Morals/Values pp. 53–59, 69–75; Health pp. 7–17 (cleanliness, water use, soap, miswak, meals, toilets — named, not placed, Health course); Science/awakening pp. 19–35 (plants, pets, day/week/month/year, directions — named, not placed); Religion p. 31 (religious festivals — named, not placed) Tally: 19 placements — 4 to existing lessons, 15 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — first-steps/my-school-as-a-place — The School — teaches: the school as the child's place in the community — Mauritania Grade 2 Civic Education SB, printed p. 41 | Mauritania, *Mauritania Grade 2 Civic Education SB* (student book), The School — printed p. 41 |
+
+**Book 5:** *Civic Education, Year 3 student book (student book, Arabic)* — Title as printed: التربية المدنية للسنة الثالثة من التعليم الابتدائي (Civic Education for the Third Year of Primary Education) Grade: Year 3 (student/teacher: STUDENT) Publisher: Institut Pédagogique National (IPN), Mauritania; 2025 edition; no ISBN printed PDF pages: 50 (cover rendered and verified against the record title; fetched from the record's source_url, 4,593,822 bytes, after grab.py failed — see log route note) Earlier waves: not read before (Geography/History waves read Mauritania's Geography and History books only) Verdict: COMPLETE — civics track, full page-by-page read (20 lessons, contents verified at printed p. 49); the two assessment situations (printed pp. 47–48) are excluded as assessment apparatus Contents map: Integrated SS pp. 7–33 (family and school units); Morals/Values pp. 17–19, 35–43; Health pp. 39–45 (cleanliness, disinfection — named, not placed, Health course) Tally: 18 placements — 2 to existing lessons, 16 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — first-steps/my-school-as-a-place — Lesson 8: My School — teaches: my school as the child's second community — Mauritania Grade 3 Civic Education SB, printed p. 21 | Mauritania, *Mauritania Grade 3 Civic Education SB* (student book), Lesson 8: My School — printed p. 21 |
+| Mauritania part — first-steps/my-school-as-a-place — Lesson 11: The Structure of My School — teaches: the parts of my school and what each part is for — Mauritania Grade 3 Civic Education SB, printed p. 27 | Mauritania, *Mauritania Grade 3 Civic Education SB* (student book), Lesson 11: The Structure of My School — printed p. 27 |
+
+**Acceptance count: taught in 20 countries (Fiji, Ecuador, Yemen, Libya, Afghanistan, Eritrea, Serbia, Venezuela, Turkey, Iraq, Kazakhstan, North Macedonia, Angola, Sri Lanka, Cambodia, Vietnam, Myanmar, Iran, El Salvador, Mauritania).**
+
+Mauritania's own way (Book 1): the first school year opens with "My Homeland" and its symbols (flag, anthem, currency), then the values trio tolerance–cooperation–listening, then the body's cleanliness, and closes with the community's places — mosque, school, mahadra, dispensary, playground
+
+Mauritania's own way (Book 3): Year 2 mixes "awakening" (health, time, the living world) with civic behaviour — the child's widening circles (family → neighbours → school → municipality → homeland and its symbols) carry the civics, one short topic per spread
+
+Mauritania's own way (Book 5): Year 3 civics is the family and the school — duties run both ways (children to family, family to children) and the values are solidarity, cooperation, tolerance and volunteering practised inside those two communities
+
+Searchable tags: my school as a place, Mauritania, social studies, first-steps

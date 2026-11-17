@@ -1,6 +1,6 @@
 # Sources — Caring for Our School
 
-countries: Libya, Angola, United Arab Emirates, Myanmar
+countries: Libya, Angola, United Arab Emirates, Myanmar, Mauritania
 
 **Book 1:** *أنا المواطن (I Am the Citizen), National Education G4* (student book, Arabic) — Title as printed: أنا المواطن — كتاب التربية الوطنية للصف الرابع من مرحلة التعليم الأساسي (I Am the Citizen — National Education book for Grade 4 of basic education). Grade: 4 (student/teacher: STUDENT). Publisher: State of Libya, Ministry of Education — Curriculum and Educational Research Centre (prepared by a specialised committee commissioned by the Centre); year 2019–2020 / 1440–1441 AH; ISBN no ISBN printed on the cover pages read. PDF pages: 88 (cover rendered and verified against the record title; 16,522,163 bytes, Wayback capture 20211209161425 of the recorded source_url — the book is image-only and was read from page renders). Earlier waves: not read before (the National Education books were never targeted by the Geography/History/Economics waves). Verdict: COMPLETE (full page-by-page read, civics track). Contents map: Integrated SS (Unit 2 "I am a human being") Lesson 5 I and my family pp. 41–48, Lesson 6 I and my school pp. 49–56, Lesson 7 I and the neighbourhood pp. 57–65; Morals/Values Lesson 1 I am a human being pp. 8–15; Civics/Citizenship Lesson 6 carries the Convention on the Rights of the Child art. 28 (free compulsory basic education) p. 55; Health (Unit 1 "I and my health") Lesson 2 my cleanliness pp. 16–22, Lesson 3 my nutrition pp. 23–31, Lesson 4 my body's safety pp. 32–39 — named, the Health course's, not placed, except the shared-places and road-safety fragments placed below; Environment (Unit 3) Lesson 8 I and the environment pp. 67–75 (environment components — named, Geography/Science, not placed), Lesson 9 I protect the environment pp. 76–86 (placed — civic behaviour). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/libya-placements.md.
 
@@ -67,3 +67,29 @@ Myanmar's own way (Book 5): Grade 2 widens Grade 1's values from home to school 
 Registry note: the original coined string `culture-and-work/looking-after-school-things-and-the-school-garden` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/caring-for-our-school`.
 
 Searchable tags: caring for our school, Myanmar, social studies, first-steps
+
+
+Mauritania placements — Social Studies remaining strands (2026-11-17):
+
+**Book 3:** *Civic Education, Year 2 student book (student book, Arabic)* — Title as printed: التربية المدنية (الإيقاظ والسلوك المدني) للسنة الثانية الابتدائية (Civic Education — Awakening and Civic Behaviour — for the Second Primary Year) Grade: Year 2 (student/teacher: STUDENT) Publisher: Ministry of Education / IPN, Mauritania; 2025; no ISBN printed PDF pages: 79 (cover rendered and verified against the record title; fetched from the record's source_url, 3,332,963 bytes, after grab.py failed — see log route note; contents list at printed pp. 77–78) Earlier waves: not read before Verdict: COMPLETE — civics track, full page-by-page read; each topic is a two-page spread (lesson + practice page, the practice pages are apparatus and not placed separately) Contents map: Integrated SS pp. 33–43 (national festivals, mosque, market, school, municipality), pp. 61–67 (family, relatives, neighbours, peers); Civics/Citizenship pp. 45–51 (homeland, emblem, flag, anthem); Morals/Values pp. 53–59, 69–75; Health pp. 7–17 (cleanliness, water use, soap, miswak, meals, toilets — named, not placed, Health course); Science/awakening pp. 19–35 (plants, pets, day/week/month/year, directions — named, not placed); Religion p. 31 (religious festivals — named, not placed) Tally: 19 placements — 4 to existing lessons, 15 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — first-steps/caring-for-school-property — School Furniture — teaches: the school's furniture as shared property to care for — Mauritania Grade 2 Civic Education SB, printed p. 55 | Mauritania, *Mauritania Grade 2 Civic Education SB* (student book), School Furniture — printed p. 55 |
+
+**Book 5:** *Civic Education, Year 3 student book (student book, Arabic)* — Title as printed: التربية المدنية للسنة الثالثة من التعليم الابتدائي (Civic Education for the Third Year of Primary Education) Grade: Year 3 (student/teacher: STUDENT) Publisher: Institut Pédagogique National (IPN), Mauritania; 2025 edition; no ISBN printed PDF pages: 50 (cover rendered and verified against the record title; fetched from the record's source_url, 4,593,822 bytes, after grab.py failed — see log route note) Earlier waves: not read before (Geography/History waves read Mauritania's Geography and History books only) Verdict: COMPLETE — civics track, full page-by-page read (20 lessons, contents verified at printed p. 49); the two assessment situations (printed pp. 47–48) are excluded as assessment apparatus Contents map: Integrated SS pp. 7–33 (family and school units); Morals/Values pp. 17–19, 35–43; Health pp. 39–45 (cleanliness, disinfection — named, not placed, Health course) Tally: 18 placements — 2 to existing lessons, 16 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritania part — first-steps/caring-for-school-property — Lesson 12: My School's Furniture — teaches: the school's furniture as shared property to be known and cared for — Mauritania Grade 3 Civic Education SB, printed p. 29 | Mauritania, *Mauritania Grade 3 Civic Education SB* (student book), Lesson 12: My School's Furniture — printed p. 29 |
+| Mauritania part — first-steps/caring-for-school-property — Lesson 13: My School's Garden — teaches: the school garden and caring for the school's grounds — Mauritania Grade 3 Civic Education SB, printed p. 31 | Mauritania, *Mauritania Grade 3 Civic Education SB* (student book), Lesson 13: My School's Garden — printed p. 31 |
+
+**Acceptance count: taught in 5 countries (Libya, Angola, United Arab Emirates, Myanmar, Mauritania).**
+
+Mauritania's own way (Book 3): Year 2 mixes "awakening" (health, time, the living world) with civic behaviour — the child's widening circles (family → neighbours → school → municipality → homeland and its symbols) carry the civics, one short topic per spread
+
+Mauritania's own way (Book 5): Year 3 civics is the family and the school — duties run both ways (children to family, family to children) and the values are solidarity, cooperation, tolerance and volunteering practised inside those two communities
+
+Registry note: the original coined string `first-steps/caring-for-school-property` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/caring-for-our-school`.
+
+Searchable tags: caring for our school, Mauritania, social studies, first-steps
