@@ -1,6 +1,6 @@
 # Sources — Electrical circuits — parts and types
 
-countries: Cuba
+countries: Cuba, Papua New Guinea
 
 **Book 1:** *Programa: Educación Laboral — 8vo grado* (programme) — Publisher: Ministerio de Educación, Cuba / Editorial Pueblo y Educación | Year: 2024 (ISBN 978-959-13-4549-3 print, 978-959-13-4733-6 digital) | Authors: Ordóñez Suárez, López Cordoví | Grade: 8 | Language: Spanish | Pages: 36 PDF pp (printed 1–32) | Source: GitHub tree `grade-08/gov/cuba/educacion-laboral/teacher/full-year.pdf`, 366,236 bytes, cover verified | Kind: teacher (programme) | COMPLETE — Kind: EVIDENCE (programme/teacher guide) — placements sourced from this document are stocked as evidence rows and stay outside the acceptance counts. Placements at liqlearns-courses-work/expansion-td-2026-11-17/cuba-placements.md.
 
@@ -17,8 +17,16 @@ countries: Cuba
 | Cap. 4 (original string `electrical circuits`) | Cuba, *Educación Laboral — Trabajos de Taller y Dibujo Básico — 7mo grado (1989 edition)*, PDF p. 95-103 |
 | Cap. 3 §§3.6–3.8 (original string `electrical circuits`) | Cuba, *Educación Laboral — 8vo grado*, printed p. 173-199 |
 
-**Acceptance count: taught in 1 country (Cuba)** — the programme and methodological-orientations rows above are Cuba evidence only, named here, counted nowhere.
+**Book 5:** Full title: Technology and Industrial Arts — Construction Technology, Junior High Grade 9 Teacher Guide, Standards-Based | Publisher: Department of Education, Papua New Guinea (Curriculum Development Division), 2023, ISBN 978-9980-921-12-3 | Grade: 9 | Language: English | Pages: 428 PDF pp. (printed to p. 421; printed p. = PDF p. − 7) | Source: GitHub release asset `mid-size-books-8/grade-09-gov-papua-new-guinea-construction-technology-teacher-grade-9-construction-technology-teachers-guide.pdf` via grab.py url, 22,255,891 bytes (exact match to books.json record), cover verified (blue TIA cover, bird-of-paradise emblem) | Kind: teacher guide | COMPLETE — teaching runs Unit 1 printed p. 48 to Unit 5, then planning/assessment apparatus, five trade glossaries (inventory only, not placed), references and project appendices to printed p. 421. Kind: EVIDENCE (teacher guide) — placements sourced from this guide are stocked as evidence rows and stay outside the acceptance counts. Placements at liqlearns-courses-work/expansion-td-2026-11-17/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 2 Topic 6 lessons: Types of Circuits; Parts of each circuit; Operations of a practical circuit (teacher guide — evidence) (original string `electric circuits`) | Papua New Guinea, *PNG G9 Construction*, printed p. 101 |
+
+**Acceptance count: taught in 1 country (Cuba)** — the programme and methodological-orientations rows above are Cuba evidence only, named here, counted nowhere. Papua New Guinea's rows are teacher-guide evidence only, named here, counted nowhere.
+
+Papua New Guinea's own way: Papua New Guinea teaches this inside Technology and Industrial Arts (TIA), Standards-Based — Types of Circuits; Parts of each circuit; Operations of a practical circuit. The PNG classroom's own examples named in the provenance rows above are part of the teaching, not decoration.
 
 Cuba's own way: Cuba teaches series and parallel with norm symbols and lands them in the devices of the Cuban home — induction cooker, microwave, energy-saving and LED lamps — plus the electric bell installation.
 
-Searchable tags: electrical circuits — parts and types, Cuba, Educación Laboral, MINED, Spanish, electricity and electronics
+Searchable tags: electrical circuits — parts and types, Cuba, Educación Laboral, MINED, Spanish, electricity and electronics, Papua New Guinea, Technology and Industrial Arts, TIA, teacher guide evidence

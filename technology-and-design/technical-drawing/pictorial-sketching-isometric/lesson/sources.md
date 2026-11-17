@@ -1,6 +1,6 @@
 # Sources — Pictorial sketching — isometric sketching that someone else could build from
 
-countries: Belarus, Cuba, Ethiopia, Fiji, Malaysia, Malta, Sri Lanka
+countries: Belarus, Cuba, Ethiopia, Fiji, Malaysia, Malta, Sri Lanka, Papua New Guinea
 
 **Book 1:** *Basic Technical Drawing, Teacher Guide, Grade 12* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, in collaboration with Kuraz International Publisher P.L.C., Addis Ababa, first edition, 2003 E.C., ISBN 978-99944-2-097-2, 105 printed pp. Page rule: printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/technical-drawing/g12-teacher-placements.md.
 
@@ -58,7 +58,18 @@ countries: Belarus, Cuba, Ethiopia, Fiji, Malaysia, Malta, Sri Lanka
 | Cap. 7 closing: rectangular isometric projection (with scales) (original string `technical-drawing/pictorial-sketching-isometric`) | Cuba, *Educación Laboral — Trabajos de Taller y Dibujo Básico — 7mo grado (1989 edition)*, PDF p. 170-173 |
 | Cap. 1 §1.2: isometric projection; the circle in isometric (four-centre oval); isometrics of prism, pyramid, cone, cylinder and of articles (original string `technical-drawing/pictorial-sketching-isometric`) | Cuba, *Educación Laboral — 8vo grado*, printed p. 15-36 |
 
-**Acceptance count: taught in 6 countries (Belarus, Cuba, Fiji, Malaysia, Malta, Sri Lanka) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+**Book 16:** Full title: Technology and Industrial Arts — Construction Technology, Junior High Grade 9 Teacher Guide, Standards-Based | Publisher: Department of Education, Papua New Guinea (Curriculum Development Division), 2023, ISBN 978-9980-921-12-3 | Grade: 9 | Language: English | Pages: 428 PDF pp. (printed to p. 421; printed p. = PDF p. − 7) | Source: GitHub release asset `mid-size-books-8/grade-09-gov-papua-new-guinea-construction-technology-teacher-grade-9-construction-technology-teachers-guide.pdf` via grab.py url, 22,255,891 bytes (exact match to books.json record), cover verified (blue TIA cover, bird-of-paradise emblem) | Kind: teacher guide | COMPLETE — teaching runs Unit 1 printed p. 48 to Unit 5, then planning/assessment apparatus, five trade glossaries (inventory only, not placed), references and project appendices to printed p. 421. Kind: EVIDENCE (teacher guide) — placements sourced from this guide are stocked as evidence rows and stay outside the acceptance counts. Placements at liqlearns-courses-work/expansion-td-2026-11-17/papua-new-guinea-placements.md.
+
+**Book 17:** Full title: Technology and Industrial Arts — Construction Technology, Junior High Grade 10 Teacher Guide, Standards-Based | Publisher: Department of Education, Papua New Guinea, 2023, ISBN 978-9980-921-14-0 | Grade: 10 | Language: English | Pages: 412 PDF pp. (printed to p. 405; printed p. = PDF p. − 7) | Source: GitHub release asset `mid-size-books-8/grade-10-gov-papua-new-guinea-construction-technology-teacher-grade-10-construction-technology-teachers-guide.pdf` via grab.py url, 24,383,055 bytes (exact match to record; first fetch attempt dropped with IncompleteRead, refetch verified), cover verified from pp. 1/3 (Construction Technology Grade 10) | Kind: teacher guide | COMPLETE — Units 1-5 printed p. 49-250, then planning/assessment apparatus, glossaries (inventory only), references and appendices to printed p. 405. Kind: EVIDENCE (teacher guide) — placements sourced from this guide are stocked as evidence rows and stay outside the acceptance counts. Placements at liqlearns-courses-work/expansion-td-2026-11-17/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 1 Topic 3 lessons: Isometric drawing; Pictorial drawing — taught as building trade drawing (teacher guide — evidence) (original string `technical-drawing/pictorial-sketching-isometric`) | Papua New Guinea, *PNG G9 Construction*, printed p. 46 |
+| Unit 1 Topic 3: isometric and pictorial drawing practised as building trade drawing (teacher guide — evidence) (original string `technical-drawing/pictorial-sketching-isometric`) | Papua New Guinea, *PNG G10 Construction*, printed p. 47 |
+
+**Acceptance count: taught in 6 countries (Belarus, Cuba, Fiji, Malaysia, Malta, Sri Lanka) — plus teacher-guide evidence only (Ethiopia, Papua New Guinea), named here, counted nowhere.**
+
+Papua New Guinea's own way: Papua New Guinea teaches this inside Technology and Industrial Arts (TIA), Standards-Based — Isometric drawing; Pictorial drawing — taught as building trade drawing. The PNG classroom's own examples named in the provenance rows above are part of the teaching, not decoration.
 
 Cuba's own way: Cuba teaches isometric projection in the Grade 8 programme and student book — the circle in isometric by the four-centre oval, and isometrics of prism, pyramid, cone, cylinder and articles — and in the 1989 book as rectangular isometric projection with scales.
 
@@ -76,4 +87,4 @@ Malaysia's own way: Malaysia teaches all three pictorial families in one Tingkat
 
 Sri Lanka's own way: Sri Lanka adds its Tamil-medium Technology stream teaching (Educational Publications Department; visual-read method, as filed in the book entries above) — the pictorial-view chapter's four methods survey — perspective, parallel, dimetric and isometric — as the ways to show length, width and height in one view; the isometric method taught inside the pictorial-view chapter, after perspective, parallel and dimetric methods; perspective view used to present a product design in the metalwork chapter.
 
-Searchable tags: technical drawing, pictorial sketching, isometric sketch, dimensions, marking rubric, Grade 12, Ethiopia, Malaysia, Tingkatan 1, RBT, oblique, cavalier, cabinet, perspective, vanishing point, Sri Lanka, Fiji, Cuba, Educación Laboral
+Searchable tags: technical drawing, pictorial sketching, isometric sketch, dimensions, marking rubric, Grade 12, Ethiopia, Malaysia, Tingkatan 1, RBT, oblique, cavalier, cabinet, perspective, vanishing point, Sri Lanka, Fiji, Cuba, Educación Laboral, Papua New Guinea, Technology and Industrial Arts, TIA, teacher guide evidence

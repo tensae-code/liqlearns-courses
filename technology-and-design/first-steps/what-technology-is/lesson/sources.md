@@ -1,6 +1,6 @@
 # Sources — What technology is
 
-countries: Azerbaijan, Canada, Indonesia, Iran, Malaysia
+countries: Azerbaijan, Canada, Indonesia, Iran, Malaysia, Papua New Guinea
 
 **Book 1:** *Technology in the Community* (Tulliniliara Reading Series, Level 14) (student reader) — Canada, Government of Nunavut (Department of Education / Department of Family Services), developed and published in Canada by Inhabit Education. Written by Jordan Hoffman, illustrated by Ali Hinch. Publisher: Inhabit Education / Government of Nunavut, © 2019, ISBN 978-0-2287-0447-8 (English edition). Grade: nursery / early level (Tulliniliara Level 14). English edition `Technology-in-the-Community-English.pdf` (1,659,080 bytes, 36 PDF pp.) and Inuktitut edition `Technology-in-the-Community-Inuktitut.pdf` (1,688,700 bytes, 36 PDF pp.) — same book, same structure and pagination, verified from covers and text (parallel editions, read once, placed once). Kind: student reader. Route: grab.py tree. Source: private repo `tensae-code/liqlearns-textbooks` (recorded pushed in phase3-push-state.json), fetched 2026-11-17 via grab.py tree route. Cover verified: "Technology in the Community", Tulliniliara 14. COMPLETE — read to the last teaching page (printed p. 32; back pages are imprint). Placements at liqlearns-courses-work/expansion-td-2026-11-17/canada-placements.md.
 
@@ -28,7 +28,15 @@ countries: Azerbaijan, Canada, Indonesia, Iran, Malaysia
 |---|---|
 | Bab 2 B.4 Teknologi — what technology is, at foundation level: tools and objects that make human work easier (scissors, laptop, everyday tools) — recognising, using and manipulating a tool's function (the spoon example) (teacher guide — evidence) (original string `what technology is, at foundation level: tools and objects that make human work easier (scissors, laptop, everyday tools) — recognising, using and manipulating a tool's function (the spoon example)`) | Indonesia, *PAUD STEAM Foundations TG*, p. 61 |
 
-**Acceptance count: taught in 4 countries (Azerbaijan, Canada, Iran, Malaysia) — plus teacher-guide evidence only (Indonesia), named here, counted nowhere.**
+**Book 6:** Full title: Design and Technology, Upper Secondary Teacher Guide | Publisher: Department of Education, Papua New Guinea, 2008, ISBN 978-9980-9925-2-9 (developed with Australian Government Education Capacity Building Program support) | Grades: 11-12 | Language: English | Pages: 97 PDF pp. (printed to p. 95; printed p. = PDF p. − 4) | Source: GitHub tree `grade-11/gov/papua-new-guinea/design-and-technology/teacher/grade-11-12-design-and-technology-upper-secondary-teachers-guide.pdf` via grab.py tree, 530,503 bytes (exact match to record), cover verified (p. 1: Design and Technology, Upper Secondary, Teacher Guide, PNG Department of Education) | Kind: teacher guide | COMPLETE — outcomes/assessment framing, then learning activities and assessment tasks for 16 Practical Skills Technologies units (printed p. 24-66), 4 Food Technology units (p. 67-75) and 5 Textiles Technology units (p. 76-84), resources/references and two glossaries (printed p. 91-95, inventory only). Assessment-task apparatus itself not placed; the unit content lists are placed. Kind: EVIDENCE (teacher guide) — placements sourced from this guide are stocked as evidence rows and stay outside the acceptance counts. Placements at liqlearns-courses-work/expansion-td-2026-11-17/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 11.1 frame + the six subject learning outcomes (design process, safe codes/practices, selecting materials/systems, skills and techniques, evaluating against the design brief, communicating ideas) (teacher guide — evidence) (original string `introduction to design and technology`) | Papua New Guinea, *PNG DesignTech Upper*, printed p. 6, 10, 21-22 |
+
+**Acceptance count: taught in 4 countries (Azerbaijan, Canada, Iran, Malaysia) — plus teacher-guide evidence only (Indonesia, Papua New Guinea), named here, counted nowhere.**
+
+Papua New Guinea's own way: Papua New Guinea teaches this inside Technology and Industrial Arts (TIA), Standards-Based — Unit 11.1 frame + the six subject learning outcomes (design process, safe codes/practices, selecting materials/systems, skills and techniques, evaluating against the design brief, communicating ideas). The PNG classroom's own examples named in the provenance rows above are part of the teaching, not decoration.
 
 Indonesia's own way: Indonesia stocks this lesson from its Prakarya teacher guides (teacher-guide evidence only, counted nowhere) — the topic is worked the Prakarya way: observe and explore, then design (merancang), then produce, then present, building from local potential (potensi lokal).
 
@@ -40,4 +48,4 @@ Malaysia's own way: Malaysia teaches what technology is in Tahun 4 as applied sc
 
 Iran's own way: Iran opens Grade 11 *Use of New Technologies* with technological literacy itself — what technology and technological literacy are and why they are needed, set beside scientific literacy, weighing the benefits and harms of new technologies and technology's place in future jobs — and then maps the domains of technological literacy: history of technology (taught through the DDT case), futures study (the Lake Urmia warning), critical and cultural literacy of technology, and technology ethics.
 
-Searchable tags: technology, what technology is, community technology, first steps, Nunavut, Canada, Tulliniliara, materials, processing, Azerbaijan, Grade 2, Russian edition, Malaysia, Tahun 4, RBT, fields of technology, Kuala Lumpur, Iran, Grade 11, Persian, Indonesia, Prakarya, teacher guide evidence
+Searchable tags: technology, what technology is, community technology, first steps, Nunavut, Canada, Tulliniliara, materials, processing, Azerbaijan, Grade 2, Russian edition, Malaysia, Tahun 4, RBT, fields of technology, Kuala Lumpur, Iran, Grade 11, Persian, Indonesia, Prakarya, teacher guide evidence, Papua New Guinea, Technology and Industrial Arts, TIA, teacher guide evidence

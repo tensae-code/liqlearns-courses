@@ -1,6 +1,6 @@
 # Sources — Surface Development — Flat Sheets That Become Things
 
-countries: Belarus, Cuba, Ethiopia, Fiji, Malta, Moldova, Sri Lanka, Kazakhstan
+countries: Belarus, Cuba, Ethiopia, Fiji, Malta, Moldova, Sri Lanka, Kazakhstan, Papua New Guinea
 
 **Book 1:** *Basic Technical Drawing, Teacher Guide, Grade 12* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, in collaboration with Kuraz International Publisher P.L.C., Addis Ababa. Prepared by: Amanuel Berhanu (BSc), Tolossa Deberie (MSc). Edited and reviewed by: Abebe Basazeneu, Natenael Abebe, Yared Mekuria. First edition, 2003 (E.C.), funded through the General Education Quality Improvement Project (GEQIP). Developed, printed and distributed by Al Ghurair Printing and Publishing House CO. (LLC), Dubai, U.A.E., in collaboration with Kuraz International Publisher. ISBN: 978-99944-2-097-2. 109 PDF pages; printed page = PDF page - 4 throughout. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/technical-drawing/g12-teacher-placements.md.
 
@@ -53,7 +53,15 @@ countries: Belarus, Cuba, Ethiopia, Fiji, Malta, Moldova, Sri Lanka, Kazakhstan
 | Topic 9 continued — the birdhouse's flat part-nets (walls ×2, roof, base) are cut, folded along marked lines and glued into the 3D house, step by step in numbered pictures (original string `technical-drawing/surface-development-flat-sheets-that-become-things`) | Kazakhstan, *KZ G3 NIS Syzdykov Labour*, printed pp. 37–38 |
 | Lesson 32 "City of the future" — the technical drawing (чертёж/сызба) introduced; a house for the future city built from its net drawing and the class city presented (original string `technical-drawing/surface-development-flat-sheets-that-become-things`) | Kazakhstan, *KZ G4 Ormanbekova Labour*, printed p. 138 |
 
-**Acceptance count: taught in 7 countries (Belarus, Cuba, Fiji, Malta, Moldova, Sri Lanka, Kazakhstan) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+**Book 14:** Full title: Technology and Industrial Arts — Construction Technology, Senior High Grade 11 Teacher Guide, Standards-Based | Publisher: Department of Education, Papua New Guinea, 2023, ISBN 978-9980-921-14-7 (as printed; the suffix duplicates the Grade 10 volume's number family — recorded as printed) | Grade: 11 | Language: English | Pages: 402 PDF pp. (printed to p. 395; printed p. = PDF p. − 7) | Source: GitHub release asset `mid-size-books-8/grade-11-gov-papua-new-guinea-construction-technology-teacher-grade-11-construction-technology-teachers-guide.pdf` via grab.py url, 20,618,063 bytes (exact match to record), cover verified from pp. 1/3 (Construction Technology, Senior High Grade 11) | Kind: teacher guide | COMPLETE — Units 1-5 printed p. 49-270, then planning/assessment apparatus, glossaries (inventory only), references and appendices (incl. an AutoCAD drawing appendix) to printed p. 395. Kind: EVIDENCE (teacher guide) — placements sourced from this guide are stocked as evidence rows and stay outside the acceptance counts. Placements at liqlearns-courses-work/expansion-td-2026-11-17/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 1 Topic 3 lesson: Surface Development — taught inside the CAD trade-drawing topic (teacher guide — evidence) (original string `technical-drawing/surface-development-flat-sheets-that-become-things`) | Papua New Guinea, *PNG G11 Construction*, printed p. 47 |
+
+**Acceptance count: taught in 7 countries (Belarus, Cuba, Fiji, Malta, Moldova, Sri Lanka, Kazakhstan) — plus teacher-guide evidence only (Ethiopia, Papua New Guinea), named here, counted nowhere.**
+
+Papua New Guinea's own way: Papua New Guinea teaches this inside Technology and Industrial Arts (TIA), Standards-Based — Surface Development — taught inside the CAD trade-drawing topic. The PNG classroom's own examples named in the provenance rows above are part of the teaching, not decoration.
 
 Kazakhstan's own way: Kazakhstan teaches this inside Художественный труд / Көркем еңбек (Artistic Labour) and Трудовое обучение / Еңбекке баулу (Labour Training) — Topic 9 continued — the birdhouse's flat part-nets (walls ×2, roof, base) are cut, folded along marked lines and glued into the 3D house, step by step in numbered pictures. The Kazakh classroom's own examples, materials and national crafts named in the Kazakhstan provenance rows above are part of the teaching, not decoration.
 
@@ -73,4 +81,4 @@ Moldova's own way: Moldova meets the development inside its Grade 5 line-types t
 
 Sri Lanka's own way: Sri Lanka adds its Tamil-medium Technology stream teaching (Educational Publications Department; visual-read method, as filed in the book entries above) — development drawings named as one of the standard drawing kinds in the mechanical-drawing survey.
 
-Searchable tags: surface development, sheet metal, hem, joint, seam, prism, cylinder, cone, pyramid, Ethiopia Grade 12 Technical Drawing Unit 5, Moldova, Grades 5–6, desfășurata, two-dot line, Sri Lanka, Fiji, Cuba, Educación Laboral, Kazakhstan, Artistic Labour, Labour Training
+Searchable tags: surface development, sheet metal, hem, joint, seam, prism, cylinder, cone, pyramid, Ethiopia Grade 12 Technical Drawing Unit 5, Moldova, Grades 5–6, desfășurata, two-dot line, Sri Lanka, Fiji, Cuba, Educación Laboral, Kazakhstan, Artistic Labour, Labour Training, Papua New Guinea, Technology and Industrial Arts, TIA, teacher guide evidence

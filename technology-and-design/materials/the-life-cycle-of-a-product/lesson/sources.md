@@ -1,6 +1,6 @@
 # Sources \u2014 The life cycle of a product
 
-countries: Gabon
+countries: Gabon, Papua New Guinea
 
 **Book 1:** *Super Efficace en Biologie, Sciences Physiques, Technologie, TIC \u2014 Guide p\u00e9dagogique, 3e Ann\u00e9e* (teacher guide) \u2014 Gabon, EDIG / \u00c9dicef (Institut P\u00e9dagogique National, Gabon); \u00a9 2024 (cover and imprint page verified). Year/edition: 2024 edition. Grade: 3e ann\u00e9e (Grade 3). Language: French. Pages: 64 (PDF), verified byte size 1,385,512 = record size. Source + route: tensae-code/liqlearns-textbooks, tree route via grab.py (landed on the third attempt after two transient proxy disconnects) \u2014 grade-03/gov/gabon/sciences/teacher/gabon-g03-sciences-teacher.pdf. Kind: EVIDENCE (teacher guide). Read: COMPLETE (all 64 pages; Technologie lessons read in full, other strands skimmed for scope). Placements at liqlearns-courses-work/expansion-td-2026-11-17/gabon-placements.md.
 
@@ -11,10 +11,18 @@ countries: Gabon
 | The importance of sorting (tri) and recycling waste and materials; the 3R rule (reduce, reuse, recycle); saving raw materials (oil, ores, wood) and energy and reducing pollution; local sorting/recycling practices (bottle collection in Libreville) (original string `life cycle of an object: sorting and recycling`) | Gabon, *Super Efficace en Biologie, Sciences Physiques, Technologie, TIC \u2014 Guide p\u00e9dagogique, 3e Ann\u00e9e* (teacher guide \u2014 evidence), printed p. 62 |
 | The stages of a technical object's life, from design to end of life, and the questions each stage raises (arrival at the point of sale, what becomes of it at end of life) (original string `the life cycle of a technical object`) | Gabon, *Super Efficace en Biologie, Sciences Physiques, Technologie, TIC \u2014 Guide p\u00e9dagogique, 4e Ann\u00e9e* (teacher guide \u2014 evidence), printed p. 59 |
 
-**Acceptance count: taught in 0 countries \u2014 this lesson stands on teacher-guide evidence only (Gabon), named here, counted nowhere.**
+**Book 3:** Full title: Technology and Industrial Arts — Construction Technology, Senior High Grade 12 Teacher Guide, Standards-Based | Publisher: Department of Education, Papua New Guinea, 2023, ISBN 978-9980-921-15-4 | Grade: 12 | Language: English | Pages: 385 PDF pp. (printed to p. 378; printed p. = PDF p. − 7) | Source: GitHub release asset `mid-size-books-8/grade-12-gov-papua-new-guinea-construction-technology-teacher-grade-12-construction-technology-teachers-guide.pdf` via grab.py url, 24,329,171 bytes (exact match to record), cover verified from pp. 1/3 (Construction Technology, Senior High Grade 12) | Kind: teacher guide | COMPLETE — Units 1-5 printed p. 47-320, then planning/assessment apparatus, glossary (printed p. 321, inventory only), references and appendices to printed p. 378. Kind: EVIDENCE (teacher guide) — placements sourced from this guide are stocked as evidence rows and stay outside the acceptance counts. Placements at liqlearns-courses-work/expansion-td-2026-11-17/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 4 Topic 2 lessons: Carbon steel production process; Economic costs of designed products; Social and environmental impacts of the designing process; Recycling (teacher guide — evidence) (original string `life cycle of designed products`) | Papua New Guinea, *PNG G12 Construction*, printed p. 181 |
+
+**Acceptance count: taught in 0 countries \u2014 this lesson stands on teacher-guide evidence only (Gabon, Papua New Guinea), named here, counted nowhere.**
+
+Papua New Guinea's own way: Papua New Guinea teaches this inside Technology and Industrial Arts (TIA), Standards-Based — Carbon steel production process; Economic costs of designed products; Social and environmental impacts of the designing process; Recycling. The PNG classroom's own examples named in the provenance rows above are part of the teaching, not decoration.
 
 Scope: Gabon's secured books are the combined *Super Efficace* Sciences teacher guides (Biologie / Sciences physiques / Technologie / TIC in one volume). Only the Technologie strand is stocked in this course; the Biologie and Sciences physiques strands belong to the Science course and the TIC strand to the ICT course.
 
 Gabon's own way: Gabon teaches the life cycle from both ends: Grade 3 starts at the end \u2014 sorting (tri), the 3R rule and Libreville's bottle collection \u2014 and Grade 4 then walks the whole life from design to end of life, stage by stage with its questions. The local practice (bottle collection in Libreville) is Gabon's own content and is carried here.
 
-Searchable tags: life cycle, sorting, tri, recycling, 3R, Libreville, Gabon, Super Efficace, Grades 3 and 4, French
+Searchable tags: life cycle, sorting, tri, recycling, 3R, Libreville, Gabon, Super Efficace, Grades 3 and 4, French, Papua New Guinea, Technology and Industrial Arts, TIA, teacher guide evidence
