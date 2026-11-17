@@ -1,8 +1,8 @@
 # Sources — Why Exercise Keeps You Healthy
 
-countries: Haiti, Rwanda, Oman, Samoa, Honduras
+countries: Haiti, Rwanda, Oman, Samoa, Honduras, Greece
 
-**Acceptance count: taught in 1 country.** Haiti and Rwanda are filed as teacher-programme / teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. Oman is likewise filed as teacher-guide evidence only, outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count — the first pupil's book in hand for this lesson.
+**Acceptance count: taught in 2 countries.** Haiti and Rwanda are filed as teacher-programme / teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. Oman is likewise filed as teacher-guide evidence only, outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count — the first pupil's book in hand for this lesson. Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below).
 
 **Book 3 (Haiti placements file) — Programme-Cadre de toutes les Matières, Nouveau Secondaire NS1–NS4 (teacher framework programme, French) — Health parts:**
 - Title as printed: Programme-Cadre de toutes les Matières — Nouveau Secondaire (MENFP/DES)
@@ -97,4 +97,44 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/honduras-hea
 | Honduras — Bloque II Secuencia 1 "Mi condición física es la mejor" — the beneficial effects of systematic exercise, physiological (strength, joints protected, less fatigue) and psychological/social (fitness-concept material that fits neither Health title) (original string `staying-safe/HELD-title-decision`) | Honduras Grade 9 HN G9 student, printed p. 59 |
 
 Honduras is added as student-book stock (see its book line and row above), inside the acceptance count — Book 4 is a STUDENT book, so Honduras is named in the countries line and provenance row and the acceptance count rises from 0 to 1 country. The Honduras placement was filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson `staying-safe/why-exercise-keeps-you-healthy` by registry Part 2B, and the original string is recorded in the provenance row above.
-Searchable tags: why exercise keeps you healthy, physical activity improves health, conference-debates, cooperation and communication for health, Theme 1, Haiti Programme-Cadre NS Grades 10-13, MENFP, walking fast and running or jogging for health and well-being, brisk walking and jogging as health exercise, basic exercises of the circulatory and respiratory systems, exercises that work the heart and lungs, Rwanda Grade 3 PES Teacher Guide, Rwanda Grade 5 PE Teacher Guide MK Publishers, REB Rwanda, physical activity النشاط البدني, sport and health الرياضة والصحة, Oman G3 Teacher Guide, fitness concepts total fitness keep-fit programme log tapuaiga peer pressure, Samoa Years 11–12 TG, Mi condición física es la mejor, beneficial effects of systematic exercise physiological psychological social, Honduras Telebásica Grade 9
+## Greece — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/greece-health-placements.md. The Greece books stocked in this lesson are Book 3 and Book 4. Both Greece books are STUDENT books, so Greece is student-book stock, inside the acceptance count, in this lesson. Greece's Health placements are the Health chapters of the same Fysiki Agogi student books whose PE chapters are filed in greece-pe-placements.md (combined-book split, as filed). No Greece placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 3 — Fysiki Agogi E'-ST' Dimotikou (student book, Greek) — Health chapters:**
+- Title as printed: Φυσική Αγωγή Ε΄ & Στ΄ Δημοτικού (Βιβλίο Μαθητή)
+- Grade: Ε΄ & Στ΄ Δημοτικού — Grades 5-6 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» for the Institute of Educational Policy, Ministry of Education, Religious Affairs and Sports; year 2012 (this file: 3rd version, revised 2016); ISBN 978-960-06-2810-0 (book code 0-10-0145)
+- PDF pages: 106 (cover/title page verified; the book's PE chapters are filed in greece-pe-placements.md)
+- Verdict: COMPLETE (Chapters 8-9 read in full)
+- Tally: 17 placements — 2 to existing lessons, 15 NEW LESSON NEEDED (12 of them HELD-title-decision)
+- Greece's own way: health is taught as self-measurement — pupils take their own pulse, weigh themselves before and after the lesson, score their own eating habits and sportsmanship, and build a personal exercise plan.
+- Edition overlap kept as filed: this file is the 2016 revised 3rd version of the 2012 book, with the earlier ISBN on its back cover — both editions named, as filed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/greece-health-placements.md.
+
+**Book 4 — Fysiki Agogi A'-C' Gymnasiou (student book, Greek) — Health chapters:**
+- Title as printed: Φυσική Αγωγή Α΄, Β΄, Γ΄ Γυμνασίου (Βιβλίο Μαθητή)
+- Grade: Α΄-Γ΄ Γυμνασίου — Grades 7-9 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» for the Institute of Educational Policy, Ministry of Education, Religious Affairs and Sports; year 2013 (this file revised 2015); ISBN 978-960-06-2679-7 (book code 0-21-0042)
+- PDF pages: 154 (cover/title page verified; the book's PE chapters are filed in greece-pe-placements.md; on the book's missing-from-GitHub status see the PE file header and the group log — the ministry copy is now staged in phase3-staging)
+- Verdict: COMPLETE (Chapter 3 and the Chapter 5 special topics read in full; the swimming-safety rules of Chapter 2 also filed here)
+- Tally: 13 placements — 2 to existing lessons, 11 NEW LESSON NEEDED (8 of them HELD-title-decision)
+- Greece's own way: the Gymnasium health teaching is a full "value of lifelong exercise" chapter — the body in exercise system by system, exercise against smoking, obesity and stress — plus a special-topics chapter where injuries and first aid, doping and stadium violence are taught as health subjects in their own right.
+- LIBRARY DEBT, carried as filed: the record claims this book secured but the file was absent from the GitHub tree; the ministry copy is now staged in phase3-staging.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/greece-health-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Άσκηση και καλή υγεία (Exercise and good health) — how exercise prevents various illnesses; the beneficial effects of exercise on the body explained (original string `staying-safe/HELD-title-decision`) | Greece Grades 5-6 Fysiki Agogi E-ST, printed p. 62 |
+| Greece — Πόση άσκηση είναι απαραίτητη για την υγεία μας; (How much exercise do we need?) — how much exercise health needs, and judging your own fitness category from a test (original string `staying-safe/HELD-title-decision`) | Greece Grades 5-6 Fysiki Agogi E-ST, printed p. 68 |
+| Greece — Καρδιοαναπνευστική αντοχή (Cardiorespiratory endurance) — heart-and-lung endurance as a part of fitness; activities of high, medium and low effect, from fast walking down to slow walking (original string `staying-safe/HELD-title-decision`) | Greece Grades 5-6 Fysiki Agogi E-ST, printed p. 70 |
+| Greece — Ευκαμψία για πάντα! (Flexibility forever!) — what stretching is for: feeling looser and more relaxed, moving with a bigger range (original string `staying-safe/HELD-title-decision`) | Greece Grades 5-6 Fysiki Agogi E-ST, printed p. 73 |
+| Greece — Φτιάξτε ένα πλάνο! (Make a plan!) — building your own exercise plan and finding the places in your neighbourhood where you can play (original string `staying-safe/HELD-title-decision`) | Greece Grades 5-6 Fysiki Agogi E-ST, printed p. 75 |
+| Greece — Τι είναι άσκηση (What is exercise) — the basic concepts of PE and sport science, and understanding the importance of lifelong exercise for physical and mental health (original string `staying-safe/HELD-title-decision`) | Greece Grades 7-9 Fysiki Agogi Gymnasiou, printed p. 73 |
+| Greece — Τα οφέλη της άσκησης στην υγεία (The benefits of exercise for health) — exercise protects health across the whole of life once it becomes a habit (original string `staying-safe/HELD-title-decision`) | Greece Grades 7-9 Fysiki Agogi Gymnasiou, printed p. 75 |
+| Greece — Αερόβια άσκηση και υγεία (Aerobic exercise and health) — systematic exercise lengthens life; the inactive risk hypertension more; the lungs breathe more slowly and strongly, using ever more of their capacity (original string `staying-safe/HELD-title-decision`) | Greece Grades 7-9 Fysiki Agogi Gymnasiou, printed p. 76 |
+| Greece — Δεξιότητες και παράγοντες της φυσικής κατάστασης (The skills and factors of physical fitness) — the fitness-related skills (speed-strength, agility and the rest), the factors that affect fitness, and being fit meaning being healthy (original string `staying-safe/HELD-title-decision`) | Greece Grades 7-9 Fysiki Agogi Gymnasiou, printed p. 79 |
+
+Greece is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — both Greece books are STUDENT books, so Greece is named in the countries line and provenance row(s) and the acceptance count rises from 1 to 2 countries. The Greece placement(s) in this lesson were filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson by registry Part 2B (HELD description as recorded in the provenance row), and the original string is recorded in each provenance row above. Greece's own way is content, as the book lines above record it: health is taught as self-measurement — pupils judge their own fitness category from a test and build a personal exercise plan — and the Gymnasium book teaches the value of lifelong exercise as a chapter in its own right. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: why exercise keeps you healthy, physical activity improves health, conference-debates, cooperation and communication for health, Theme 1, Haiti Programme-Cadre NS Grades 10-13, MENFP, walking fast and running or jogging for health and well-being, brisk walking and jogging as health exercise, basic exercises of the circulatory and respiratory systems, exercises that work the heart and lungs, Rwanda Grade 3 PES Teacher Guide, Rwanda Grade 5 PE Teacher Guide MK Publishers, REB Rwanda, physical activity النشاط البدني, sport and health الرياضة والصحة, Oman G3 Teacher Guide, fitness concepts total fitness keep-fit programme log tapuaiga peer pressure, Samoa Years 11–12 TG, Mi condición física es la mejor, beneficial effects of systematic exercise physiological psychological social, Honduras Telebásica Grade 9, exercise and good health, how much exercise we need, cardiorespiratory endurance, flexibility forever, make a plan exercise plan, what is exercise, benefits of exercise for health, aerobic exercise and health, skills and factors of physical fitness, Greece Grades 5-6 Fysiki Agogi E-ST, Greece Grades 7-9 Fysiki Agogi Gymnasiou

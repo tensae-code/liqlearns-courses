@@ -1,8 +1,8 @@
 # Sources — Knowing My Body
 
-countries: Afghanistan, Oman, Samoa
+countries: Afghanistan, Oman, Samoa, Greece
 
-**Acceptance count: taught in 0 countries.** Afghanistan is filed as teacher-guide evidence only, outside the acceptance count, in this lesson — this lesson is founded on teacher-guide evidence only, no pupil's book in hand. Oman is likewise filed as teacher-guide evidence only, outside the acceptance count.
+**Acceptance count: taught in 1 country.** Afghanistan is filed as teacher-guide evidence only, outside the acceptance count, in this lesson — this lesson is founded on teacher-guide evidence only, no pupil's book in hand. Oman is likewise filed as teacher-guide evidence only, outside the acceptance count. Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below).
 
 **Book 1 — رهنمای معلم تربیت بدنی — صنف هفتم (Physical Education Teacher's Guide — Grade Seven) (teacher guide, Dari) — Health chapters only:**
 - Title as printed: رهنمای معلم تربیت بدنی — صنف هفتم (Physical Education Teacher's Guide — Grade Seven)
@@ -53,4 +53,25 @@ Oman is added as teacher-guide evidence only (see its book line and row above), 
 
 Samoa is added as curriculum-statement / teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — both Samoa books are TEACHER books (Book 1 a curriculum statement for teachers, Book 2 a teacher guide), so Samoa is named in the countries line and provenance row(s) but the acceptance count is unchanged (still taught in 0 countries). The Samoa placement was filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson `staying-safe/knowing-my-body` by registry Part 2B (HELD description: "Growth and development, Years 1–8"), and the original string is recorded in the provenance row above. Samoa's own way is content, as the book line(s) above record it: the body is taught whole — external and internal parts and their functions, height and weight recorded, and puberty taught as physical, social, emotional and intellectual change together.
 
-Searchable tags: knowing my body, the water inside the body, body water 40-60 percent of body weight, water inside and outside the cells, metabolic water, water content of common foods, Afghanistan G7 PE Teacher Guide Dari, body types أنماط الجسم, stocky muscular thin, heredity environment nutrition, Oman G4 Teacher Guide, growth and development body parts functions height weight puberty changes, Samoa Years 1–8 Curriculum
+## Greece — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/greece-health-placements.md. The Greece books stocked in this lesson are Book 3. Both Greece books are STUDENT books, so Greece is student-book stock, inside the acceptance count, in this lesson. Greece's Health placements are the Health chapters of the same Fysiki Agogi student books whose PE chapters are filed in greece-pe-placements.md (combined-book split, as filed). No Greece placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 3 — Fysiki Agogi E'-ST' Dimotikou (student book, Greek) — Health chapters:**
+- Title as printed: Φυσική Αγωγή Ε΄ & Στ΄ Δημοτικού (Βιβλίο Μαθητή)
+- Grade: Ε΄ & Στ΄ Δημοτικού — Grades 5-6 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» for the Institute of Educational Policy, Ministry of Education, Religious Affairs and Sports; year 2012 (this file: 3rd version, revised 2016); ISBN 978-960-06-2810-0 (book code 0-10-0145)
+- PDF pages: 106 (cover/title page verified; the book's PE chapters are filed in greece-pe-placements.md)
+- Verdict: COMPLETE (Chapters 8-9 read in full)
+- Tally: 17 placements — 2 to existing lessons, 15 NEW LESSON NEEDED (12 of them HELD-title-decision)
+- Greece's own way: health is taught as self-measurement — pupils take their own pulse, weigh themselves before and after the lesson, score their own eating habits and sportsmanship, and build a personal exercise plan.
+- Edition overlap kept as filed: this file is the 2016 revised 3rd version of the 2012 book, with the earlier ISBN on its back cover — both editions named, as filed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/greece-health-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Το υγιές σώμα (The healthy body) — what the body is made of: muscles that move the parts, bones that support, fat that stores energy, blood and water; and what "exercise" means — activity that makes you sweat and breathe hard (original string `staying-safe/HELD-title-decision`) | Greece Grades 5-6 Fysiki Agogi E-ST, printed p. 59 |
+
+Greece is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — both Greece books are STUDENT books, so Greece is named in the countries line and provenance row(s) and the acceptance count rises from 0 to 1 country. The Greece placement(s) in this lesson were filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson by registry Part 2B (HELD description as recorded in the provenance row), and the original string is recorded in each provenance row above. Greece's own way is content, as the book lines above record it: health is taught as self-measurement, and the healthy body is taught from what it is made of — muscles, bones, fat, blood and water. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: knowing my body, the water inside the body, body water 40-60 percent of body weight, water inside and outside the cells, metabolic water, water content of common foods, Afghanistan G7 PE Teacher Guide Dari, body types أنماط الجسم, stocky muscular thin, heredity environment nutrition, Oman G4 Teacher Guide, growth and development body parts functions height weight puberty changes, Samoa Years 1–8 Curriculum, the healthy body, Το υγιές σώμα, muscles bones fat blood water, what exercise means, Greece Grades 5-6 Fysiki Agogi E-ST

@@ -1,8 +1,8 @@
 # Sources — Malnutrition
 
-countries: Zambia, Samoa, Timor-Leste, Philippines
+countries: Zambia, Samoa, Timor-Leste, Philippines, Greece
 
-**Acceptance count: taught in 2 countries.** Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below).
+**Acceptance count: taught in 3 countries.** Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below).
 
 **Book 1 — Health Teacher Training, Participants Manual 2025 (teacher training manual, English):**
 - Title as printed: Health Teacher Training — Participants Manual (LB)
@@ -87,4 +87,25 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/philippines-
 
 Philippines is added as student-book stock (see its book line and row above), inside the acceptance count — the Philippines book stocked here is a STUDENT book, so Philippines is named in the countries line and provenance row and the acceptance count rises from 1 to 2 countries. The Philippines placement in this lesson was filed under the original string `staying-safe/malnutrition-and-eating-disorders`, resolved to this canonical lesson `staying-safe/malnutrition` by registry Part 2, and the original string is recorded in the provenance row above. Philippines's own way is content, as the book line above records it: malnutrition is taught from the nutritional status of Filipino adolescents themselves — underweight and overweight, micronutrient deficiencies, and the eating disorders named with their signs, symptoms, prevention and control.
 
-Searchable tags: malnutrition, anaemia, undernutrition signs, iron and anaemia, school feeding, Zambia Health Teacher Training Manual 2025, body composition body image body types body size shape skin colour, Samoa Years 11–12 TG, malnutrition stunting undernutrition low height for age causes of malnutrition, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, malnutrition and eating disorders, Do You Eat Right, nutritional status of Filipino adolescents, anorexia nervosa bulimia nervosa compulsive eating, micronutrient deficiencies, Philippines Grade 7 Health LM
+## Greece — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/greece-health-placements.md. The Greece books stocked in this lesson are Book 3. Both Greece books are STUDENT books, so Greece is student-book stock, inside the acceptance count, in this lesson. Greece's Health placements are the Health chapters of the same Fysiki Agogi student books whose PE chapters are filed in greece-pe-placements.md (combined-book split, as filed). No Greece placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 3 — Fysiki Agogi E'-ST' Dimotikou (student book, Greek) — Health chapters:**
+- Title as printed: Φυσική Αγωγή Ε΄ & Στ΄ Δημοτικού (Βιβλίο Μαθητή)
+- Grade: Ε΄ & Στ΄ Δημοτικού — Grades 5-6 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» for the Institute of Educational Policy, Ministry of Education, Religious Affairs and Sports; year 2012 (this file: 3rd version, revised 2016); ISBN 978-960-06-2810-0 (book code 0-10-0145)
+- PDF pages: 106 (cover/title page verified; the book's PE chapters are filed in greece-pe-placements.md)
+- Verdict: COMPLETE (Chapters 8-9 read in full)
+- Tally: 17 placements — 2 to existing lessons, 15 NEW LESSON NEEDED (12 of them HELD-title-decision)
+- Greece's own way: health is taught as self-measurement — pupils take their own pulse, weigh themselves before and after the lesson, score their own eating habits and sportsmanship, and build a personal exercise plan.
+- Edition overlap kept as filed: this file is the 2016 revised 3rd version of the 2012 book, with the earlier ISBN on its back cover — both editions named, as filed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/greece-health-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Άσκηση, διατροφή και έλεγχος του σωματικού βάρους (Exercise, nutrition and body-weight control) — overweight and obesity and their special treatment by diet and exercise; calculating the family's Body Mass Index (original string `staying-safe/HELD-title-decision`) | Greece Grades 5-6 Fysiki Agogi E-ST, printed p. 78 |
+
+Greece is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — both Greece books are STUDENT books, so Greece is named in the countries line and provenance row(s) and the acceptance count rises from 2 to 3 countries. The Greece placement(s) in this lesson were filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson by registry Part 2B (HELD description as recorded in the provenance row), and the original string is recorded in each provenance row above. Greece's own way is content, as the book line above records it: pupils calculate their own family's Body Mass Index — health taught as self-measurement. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: malnutrition, anaemia, undernutrition signs, iron and anaemia, school feeding, Zambia Health Teacher Training Manual 2025, body composition body image body types body size shape skin colour, Samoa Years 11–12 TG, malnutrition stunting undernutrition low height for age causes of malnutrition, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, malnutrition and eating disorders, Do You Eat Right, nutritional status of Filipino adolescents, anorexia nervosa bulimia nervosa compulsive eating, micronutrient deficiencies, Philippines Grade 7 Health LM, exercise nutrition and body-weight control, overweight and obesity treatment by diet and exercise, family Body Mass Index BMI, Greece Grades 5-6 Fysiki Agogi E-ST

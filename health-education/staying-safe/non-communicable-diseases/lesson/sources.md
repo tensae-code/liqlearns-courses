@@ -1,8 +1,8 @@
 # Sources — Non-communicable Diseases
 
-countries: Cuba, Oman, Samoa, Bulgaria
+countries: Cuba, Oman, Samoa, Bulgaria, Greece
 
-**Acceptance count: taught in 0 countries.** Cuba is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand. Oman is likewise filed as teacher-guide evidence only, outside the acceptance count. Bulgaria is filed as student-book stock, inside the acceptance count, in this lesson — the first pupil's book in hand for this lesson, so the acceptance count rises from 0 to 1 country.
+**Acceptance count: taught in 2 countries.** Cuba is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand. Oman is likewise filed as teacher-guide evidence only, outside the acceptance count. Bulgaria is filed as student-book stock, inside the acceptance count, in this lesson — the first pupil's book in hand for this lesson, so the acceptance count rises from 0 to 1 country. Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below).
 
 **Book 2 (cross-filed) — G2 Orientaciones Metodológicas (teacher guide, Spanish):**
 - Title as printed: Orientaciones Metodológicas — Educación Física, segundo grado
@@ -73,4 +73,25 @@ Samoa is added as curriculum-statement / teacher-guide evidence only (see its bo
 
 Bulgaria is added as student-book stock (see its book line and row above), inside the acceptance count — the Bulgaria book is a STUDENT book, so Bulgaria is named in the countries line and provenance row and the acceptance count rises from 0 to 1 country. The Bulgaria placement was filed under the original string `staying-safe/preventing-cardiovascular-diseases`, resolved to this canonical lesson `staying-safe/non-communicable-diseases` by registry Part 2 and recorded in the provenance row above. Bulgaria's own way is content, as the book line above records it: cardiovascular diseases and their prevention get their own dedicated "Заболявания и профилактика" lesson inside the Grade 8 human-body year. This lesson teaches its placement only as the placements file summarises it, and names nothing the summary does not name.
 
-Searchable tags: non-communicable diseases, obesity, overweight, BMI percentile tables, childhood overweight, Cuba, Orientaciones Metodológicas Educación Física segundo grado, obesity السمنة, causes and harms of obesity, preventing obesity, Oman G7 Teacher Guide, lifestyle diseases NCDs health checks blood pressure blood sugar iron levels healthy choices, Samoa Years 1–8 Curriculum, cardiovascular diseases and prevention, Bulgaria Biology and Health Education Grade 8 Pedagog 6
+## Greece — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/greece-health-placements.md. The Greece books stocked in this lesson are Book 4. Both Greece books are STUDENT books, so Greece is student-book stock, inside the acceptance count, in this lesson. Greece's Health placements are the Health chapters of the same Fysiki Agogi student books whose PE chapters are filed in greece-pe-placements.md (combined-book split, as filed). No Greece placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 4 — Fysiki Agogi A'-C' Gymnasiou (student book, Greek) — Health chapters:**
+- Title as printed: Φυσική Αγωγή Α΄, Β΄, Γ΄ Γυμνασίου (Βιβλίο Μαθητή)
+- Grade: Α΄-Γ΄ Γυμνασίου — Grades 7-9 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» for the Institute of Educational Policy, Ministry of Education, Religious Affairs and Sports; year 2013 (this file revised 2015); ISBN 978-960-06-2679-7 (book code 0-21-0042)
+- PDF pages: 154 (cover/title page verified; the book's PE chapters are filed in greece-pe-placements.md; on the book's missing-from-GitHub status see the PE file header and the group log — the ministry copy is now staged in phase3-staging)
+- Verdict: COMPLETE (Chapter 3 and the Chapter 5 special topics read in full; the swimming-safety rules of Chapter 2 also filed here)
+- Tally: 13 placements — 2 to existing lessons, 11 NEW LESSON NEEDED (8 of them HELD-title-decision)
+- Greece's own way: the Gymnasium health teaching is a full "value of lifelong exercise" chapter — the body in exercise system by system, exercise against smoking, obesity and stress — plus a special-topics chapter where injuries and first aid, doping and stadium violence are taught as health subjects in their own right.
+- LIBRARY DEBT, carried as filed: the record claims this book secured but the file was absent from the GitHub tree; the ministry copy is now staged in phase3-staging.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/greece-health-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Άσκηση και παχυσαρκία (Exercise and obesity) — what obesity is and the complications of passing the normal body-fat limits; why exercise should be preferred in treating it, and controlling weight by healthy, balanced eating plus systematic exercise (original string `staying-safe/HELD-title-decision`) | Greece Grades 7-9 Fysiki Agogi Gymnasiou, printed p. 86 |
+
+Greece is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — both Greece books are STUDENT books, so Greece is named in the countries line and provenance row(s) and the acceptance count rises from 1 to 2 countries. The Greece placement(s) in this lesson were filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson by registry Part 2B (HELD description as recorded in the provenance row), and the original string is recorded in each provenance row above. Greece's own way is content, as the book line above records it: obesity is treated by healthy, balanced eating plus systematic exercise, with exercise preferred. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: non-communicable diseases, obesity, overweight, BMI percentile tables, childhood overweight, Cuba, Orientaciones Metodológicas Educación Física segundo grado, obesity السمنة, causes and harms of obesity, preventing obesity, Oman G7 Teacher Guide, lifestyle diseases NCDs health checks blood pressure blood sugar iron levels healthy choices, Samoa Years 1–8 Curriculum, cardiovascular diseases and prevention, Bulgaria Biology and Health Education Grade 8 Pedagog 6, exercise and obesity, Άσκηση και παχυσαρκία, normal body-fat limits, healthy balanced eating systematic exercise, Greece Grades 7-9 Fysiki Agogi Gymnasiou

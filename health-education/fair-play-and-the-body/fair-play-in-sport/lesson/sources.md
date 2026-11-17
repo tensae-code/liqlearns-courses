@@ -1,8 +1,8 @@
 # Sources — Fair Play in Sport
 
-countries: Haiti, Oman, Samoa, Honduras
+countries: Haiti, Oman, Samoa, Honduras, Greece
 
-**Acceptance count: taught in 1 country.** Haiti is filed as teacher-programme evidence only in this lesson — named in the countries line and provenance row, but outside the acceptance count. Oman is likewise filed as teacher-guide evidence only, outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count — the first pupil's book in hand for this lesson.
+**Acceptance count: taught in 2 countries.** Haiti is filed as teacher-programme evidence only in this lesson — named in the countries line and provenance row, but outside the acceptance count. Oman is likewise filed as teacher-guide evidence only, outside the acceptance count. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count — the first pupil's book in hand for this lesson. Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below).
 
 **Book 3 (Haiti placements file) — Programme-Cadre de toutes les Matières, Nouveau Secondaire NS1–NS4 (teacher framework programme, French) — Health parts:**
 - Title as printed: Programme-Cadre de toutes les Matières — Nouveau Secondaire (MENFP/DES)
@@ -97,4 +97,40 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/honduras-hea
 | Honduras — Bloque III Secuencia 2 — Olympism and its values: friendship, solidarity and fair play, respect for others and their differences, excellence as doing your best; sport as a right of children and young people (original target `fair-play-and-the-body/fair-play-and-sportsmanship`) | Honduras Grade 9 HN G9 student, printed p. 117 |
 
 Honduras is added as student-book stock (see its book lines and rows above), inside the acceptance count — both Honduras books stocked here are STUDENT books, so Honduras is named in the countries line and provenance rows and the acceptance count rises from 0 to 1 country. Both Honduras placements were filed under the original string `fair-play-and-the-body/fair-play-and-sportsmanship`, resolved to this canonical lesson `fair-play-and-the-body/fair-play-in-sport` by registry Part 2A, and the original string is recorded in the provenance rows above. Honduras's own way is content, as the book lines above record it: fair play is taught as "deportividad" closing the sport-initiation block, and Olympic values close the sport block in Grade 9.
-Searchable tags: fair play in sport, fair play as democratic culture, values carried by games, managing conflict, refereeing, applying the rules, respect for authority and the adversary, tournaments for peace and camaraderie, Haiti Programme-Cadre NS Grades 10-13, MENFP, sports values and ethics القيم والأخلاق الرياضية, honesty respect fairness good conduct, Oman G6 Teacher Guide, Oman G8 Teacher Guide, sportsmanship safe and fair play practices positive cultural practices sports competitions, Samoa Years 1–8 Curriculum, deportividad sportsmanship respect rules rivals referee fair play, Olympism friendship solidarity excellence sport as a right, Honduras Telebásica Grades 8 and 9
+## Greece — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/greece-health-placements.md. The Greece books stocked in this lesson are Book 3 and Book 4. Both Greece books are STUDENT books, so Greece is student-book stock, inside the acceptance count, in this lesson. Greece's Health placements are the Health chapters of the same Fysiki Agogi student books whose PE chapters are filed in greece-pe-placements.md (combined-book split, as filed). No Greece placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 3 — Fysiki Agogi E'-ST' Dimotikou (student book, Greek) — Health chapters:**
+- Title as printed: Φυσική Αγωγή Ε΄ & Στ΄ Δημοτικού (Βιβλίο Μαθητή)
+- Grade: Ε΄ & Στ΄ Δημοτικού — Grades 5-6 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» for the Institute of Educational Policy, Ministry of Education, Religious Affairs and Sports; year 2012 (this file: 3rd version, revised 2016); ISBN 978-960-06-2810-0 (book code 0-10-0145)
+- PDF pages: 106 (cover/title page verified; the book's PE chapters are filed in greece-pe-placements.md)
+- Verdict: COMPLETE (Chapters 8-9 read in full)
+- Tally: 17 placements — 2 to existing lessons, 15 NEW LESSON NEEDED (12 of them HELD-title-decision)
+- Greece's own way: health is taught as self-measurement — pupils take their own pulse, weigh themselves before and after the lesson, score their own eating habits and sportsmanship, and build a personal exercise plan.
+- Edition overlap kept as filed: this file is the 2016 revised 3rd version of the 2012 book, with the earlier ISBN on its back cover — both editions named, as filed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/greece-health-placements.md.
+
+**Book 4 — Fysiki Agogi A'-C' Gymnasiou (student book, Greek) — Health chapters:**
+- Title as printed: Φυσική Αγωγή Α΄, Β΄, Γ΄ Γυμνασίου (Βιβλίο Μαθητή)
+- Grade: Α΄-Γ΄ Γυμνασίου — Grades 7-9 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» for the Institute of Educational Policy, Ministry of Education, Religious Affairs and Sports; year 2013 (this file revised 2015); ISBN 978-960-06-2679-7 (book code 0-21-0042)
+- PDF pages: 154 (cover/title page verified; the book's PE chapters are filed in greece-pe-placements.md; on the book's missing-from-GitHub status see the PE file header and the group log — the ministry copy is now staged in phase3-staging)
+- Verdict: COMPLETE (Chapter 3 and the Chapter 5 special topics read in full; the swimming-safety rules of Chapter 2 also filed here)
+- Tally: 13 placements — 2 to existing lessons, 11 NEW LESSON NEEDED (8 of them HELD-title-decision)
+- Greece's own way: the Gymnasium health teaching is a full "value of lifelong exercise" chapter — the body in exercise system by system, exercise against smoking, obesity and stress — plus a special-topics chapter where injuries and first aid, doping and stadium violence are taught as health subjects in their own right.
+- LIBRARY DEBT, carried as filed: the record claims this book secured but the file was absent from the GitHub tree; the ministry copy is now staged in phase3-staging.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/greece-health-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Η σωστή αθλητική συμπεριφορά (Correct sports behaviour — "ev agonizesthai") — respecting the rules of the game, the referees' decisions and the opponents; controlling your anger so the game can be played again (original string `fair-play-and-the-body/fair-play-and-good-sportsmanship`) | Greece Grades 5-6 Fysiki Agogi E-ST, printed p. 81 |
+| Greece — Επιθετικότητα και βία στους αθλητικούς χώρους (Aggression and violence in sports venues) — the problems of aggression and violence around sport, and ways of controlling anger (count slowly to ten) (original string `fair-play-and-the-body/aggression-and-violence-in-sport`) | Greece Grades 5-6 Fysiki Agogi E-ST, printed p. 90 |
+| Greece — Είσαι υπεύθυνο άτομο; (Are you a responsible person?) — the levels of responsibility in sport, from not caring to caring for others, tested on yourself (original string `fair-play-and-the-body/being-a-responsible-player`) | Greece Grades 5-6 Fysiki Agogi E-ST, printed p. 92 |
+| Greece — Η βία στα γήπεδα (Violence in the stadiums) — "violence destroys the teams, the athletes, the spectators, the sport": aggression by athletes and fans, coaches who wrongly teach aggression, the principles by which coaches prevent violence, and what parents should teach (success is personal improvement, not beating others) (original string `fair-play-and-the-body/aggression-and-violence-in-sport`) | Greece Grades 7-9 Fysiki Agogi Gymnasiou, printed p. 131 |
+| Greece — Η σωστή αθλητική συμπεριφορά (Correct sports behaviour) — sportsmanship means more than obeying the rules: adapting the game so everyone can take part, and learning while having fun (original string `fair-play-and-the-body/fair-play-and-good-sportsmanship`) | Greece Grades 7-9 Fysiki Agogi Gymnasiou, printed p. 136 |
+
+Greece is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — both Greece books are STUDENT books, so Greece is named in the countries line and provenance row(s) and the acceptance count rises from 1 to 2 countries. The Greece placement(s) in this lesson were filed under the original string recorded in the provenance row, resolved to this canonical lesson by registry Part 2A, and the original string is recorded in each provenance row above. Greece's own way is content, as the book lines above record it: sportsmanship is taught as "ev agonizesthai", pupils test their own level of responsibility on themselves, and anger is controlled by counting slowly to ten. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: fair play in sport, fair play as democratic culture, values carried by games, managing conflict, refereeing, applying the rules, respect for authority and the adversary, tournaments for peace and camaraderie, Haiti Programme-Cadre NS Grades 10-13, MENFP, sports values and ethics القيم والأخلاق الرياضية, honesty respect fairness good conduct, Oman G6 Teacher Guide, Oman G8 Teacher Guide, sportsmanship safe and fair play practices positive cultural practices sports competitions, Samoa Years 1–8 Curriculum, deportividad sportsmanship respect rules rivals referee fair play, Olympism friendship solidarity excellence sport as a right, Honduras Telebásica Grades 8 and 9, correct sports behaviour ev agonizesthai, respecting rules referees opponents, controlling anger count slowly to ten, aggression and violence in sports venues, violence in the stadiums, levels of responsibility in sport, Greece Grades 5-6 Fysiki Agogi E-ST, Greece Grades 7-9 Fysiki Agogi Gymnasiou

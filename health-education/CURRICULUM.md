@@ -514,6 +514,51 @@ not a textbook; Human Movement Reader UNREAD, login-gated) —
 nothing stocked from them. No Philippines placement resolves
 to a PE-course lesson, so none was excluded as PE-bound.
 
+**Health expansion — Greece — BUILT 2026-11-16:** 30 placements
+stocked — all from the Greece Health placements file (Book 3,
+*Φυσική Αγωγή Ε΄ & Στ΄ Δημοτικού (Βιβλίο Μαθητή)*, Grades 5-6
+student book, Greek, ΙΤΥΕ «Διόφαντος» for the Institute of
+Educational Policy, 2012, this file 3rd version revised 2016,
+ISBN 978-960-06-2810-0, COMPLETE — Chapters 8-9 read in full;
+Book 4, *Φυσική Αγωγή Α΄, Β΄, Γ΄ Γυμνασίου (Βιβλίο Μαθητή)*,
+Grades 7-9 student book, Greek, ΙΤΥΕ «Διόφαντος», 2013, this
+file revised 2015, ISBN 978-960-06-2679-7, COMPLETE — Chapter 3
+and the Chapter 5 special topics read in full, the
+swimming-safety rules of Chapter 2 also filed) — all into
+existing lessons (Why Exercise Keeps You Healthy ×9, Fair Play
+in Sport ×5, Mental Health and Wellbeing ×3, Doping — What It
+Is and What It Costs ×2, Knowing My Body, Diseases of
+Inactivity, Your Body in Exercise, The Body Systems, Eating a
+Balanced Diet, Malnutrition, Staying Safe While Exercising,
+Saying No to Drugs, Alcohol and Tobacco, Non-communicable
+Diseases, Water Safety, Preventing Sports Injuries and First
+Aid) and no new lessons — this course stays at **47 lessons**.
+Both Greece books are STUDENT books, so Greece is student-book
+stock, inside the acceptance counts (each touched lesson's
+count rose by 1; Knowing My Body and Water Safety rise from 0
+to 1, their first student-book stock; the Non-communicable
+Diseases header count is set to 2 in this merge — Bulgaria's
+earlier rise to 1 was recorded in that lesson's text but never
+in its header). 20 of the 30 placements were filed as
+HELD-title-decision lines, resolved by registry Part 2B; 6
+were filed under descriptive slug strings, resolved by
+registry Part 2A; 4 were filed directly under existing-lesson
+slugs. Honesty notes carried exactly as filed: Book 3's
+edition overlap (the 2016 revised 3rd version, with the
+earlier ISBN on its back cover — both editions named); Book
+4's LIBRARY DEBT (the record claims the book secured but the
+file was absent from the GitHub tree; the ministry copy is now
+staged in phase3-staging). No Greece placement resolves to a
+PE-course lesson, so none was excluded as PE-bound. Greece's
+own ways are recorded as content in the book lines: health
+taught as self-measurement — pupils take their own pulse, weigh
+themselves before and after the lesson, score their own eating
+habits and sportsmanship, calculate their family's Body Mass
+Index and build a personal exercise plan — and the Gymnasium
+"value of lifelong exercise" chapter, with injuries and first
+aid, doping and stadium violence taught as health subjects in
+their own right.
+
 ## Unit 1 — Staying Safe
 
 1. **Hygiene for Sport — Wash After Exercise** (`staying-safe/hygiene-for-sport`) — personal hygiene around sport: sweat and dirt left unwashed become a breeding place for bacteria — so wash the body after PE and sport, keep sports…

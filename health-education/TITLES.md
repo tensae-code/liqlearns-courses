@@ -207,3 +207,21 @@ student book, COMPLETE as filed) plus 1 PE-file carry-forward
 filed under `fitness-and-stretching/diseases-of-inactivity`,
 stocked into Diseases of Inactivity). Both books are student
 books, so each touched lesson's acceptance count rose by 1.
+
+The Health expansion then added (Greece): no new lessons —
+30 placements stocked into existing lessons (Why Exercise
+Keeps You Healthy ×9, Fair Play in Sport ×5, Mental Health
+and Wellbeing ×3, Doping — What It Is and What It Costs ×2,
+Knowing My Body, Diseases of Inactivity, Your Body in
+Exercise, The Body Systems, Eating a Balanced Diet,
+Malnutrition, Staying Safe While Exercising, Saying No to
+Drugs, Alcohol and Tobacco, Non-communicable Diseases,
+Water Safety, Preventing Sports Injuries and First Aid) —
+this course stays at 47 lessons. Both Greece books (the
+Fysiki Agogi Grades 5-6 and Grades 7-9 student books) are
+student-book stock, inside the acceptance counts. Book 3's
+edition overlap (2016 revised 3rd version, earlier ISBN on
+its back cover — both named) and Book 4's LIBRARY DEBT
+(record claims secured but the file was absent from the
+GitHub tree; ministry copy now staged in phase3-staging)
+are carried as filed — see CURRICULUM.md.

@@ -1,8 +1,8 @@
 # Sources — The Body Systems
 
-countries: Croatia, Honduras, Myanmar
+countries: Croatia, Honduras, Myanmar, Greece
 
-**Acceptance count: taught in 3 countries.** Croatia is filed as student-book stock, inside the acceptance count, in this lesson — as a publisher SAMPLE read, exactly as filed (see the book line below). Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guide stocked here is teacher-guide evidence only, outside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count.
+**Acceptance count: taught in 4 countries.** Croatia is filed as student-book stock, inside the acceptance count, in this lesson — as a publisher SAMPLE read, exactly as filed (see the book line below). Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guide stocked here is teacher-guide evidence only, outside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count. Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below).
 
 **Book 1 — Čovjek i zdravlje (student book, Croatian):**
 - Title as printed: Čovjek i zdravlje — Udžbenik iz biologije za strukovne škole (Biology textbook for vocational schools)
@@ -72,4 +72,25 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/myanmar-heal
 | Myanmar — §2-1 — your body systems in sport: the respiratory, circulatory, muscular and nervous systems and what each does when you play (original string `staying-safe/HELD-title-decision`) | Myanmar, *ကာယပညာ (Physical Education), Grade 10 student textbook* (Myanmar G10 PE Textbook), §2-1, printed pp. 23–27 |
 
 Myanmar is added as student-book stock (see its book line and row above), inside the acceptance count — the Myanmar book stocked here is a STUDENT book, so Myanmar is named in the countries line and provenance row and the acceptance count rises from 2 to 3 countries. The Myanmar placement was filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson `staying-safe/the-body-systems` by registry Part 2B, and the original string is recorded in the provenance row above. Myanmar's own way is content, as the book line above records it: the body systems are taught inside the PE textbook as what each system does when you play.
-Searchable tags: body systems, cells tissues organs organ systems, blood red cells white cells platelets, transport of substances, homeostasis, Croatia, Čovjek i zdravlje, Mi cuerpo es una máquina perfecta, structure of the human body, cardiovascular lymphatic skeletal articular systems, Honduras Telebásica Grades 7, body systems in sport, respiratory circulatory muscular nervous systems, Myanmar PE Textbook Grade 10, ကာယပညာ
+## Greece — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/greece-health-placements.md. The Greece books stocked in this lesson are Book 3. Both Greece books are STUDENT books, so Greece is student-book stock, inside the acceptance count, in this lesson. Greece's Health placements are the Health chapters of the same Fysiki Agogi student books whose PE chapters are filed in greece-pe-placements.md (combined-book split, as filed). No Greece placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 3 — Fysiki Agogi E'-ST' Dimotikou (student book, Greek) — Health chapters:**
+- Title as printed: Φυσική Αγωγή Ε΄ & Στ΄ Δημοτικού (Βιβλίο Μαθητή)
+- Grade: Ε΄ & Στ΄ Δημοτικού — Grades 5-6 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» for the Institute of Educational Policy, Ministry of Education, Religious Affairs and Sports; year 2012 (this file: 3rd version, revised 2016); ISBN 978-960-06-2810-0 (book code 0-10-0145)
+- PDF pages: 106 (cover/title page verified; the book's PE chapters are filed in greece-pe-placements.md)
+- Verdict: COMPLETE (Chapters 8-9 read in full)
+- Tally: 17 placements — 2 to existing lessons, 15 NEW LESSON NEEDED (12 of them HELD-title-decision)
+- Greece's own way: health is taught as self-measurement — pupils take their own pulse, weigh themselves before and after the lesson, score their own eating habits and sportsmanship, and build a personal exercise plan.
+- Edition overlap kept as filed: this file is the 2016 revised 3rd version of the 2012 book, with the earlier ISBN on its back cover — both editions named, as filed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/greece-health-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Μύες, οστά και κίνηση! (Muscles, bones and movement!) — force makes things move; muscles and bones in movement, and how stopping exercise ages the body faster (original string `staying-safe/HELD-title-decision`) | Greece Grades 5-6 Fysiki Agogi E-ST, printed p. 72 |
+
+Greece is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — both Greece books are STUDENT books, so Greece is named in the countries line and provenance row(s) and the acceptance count rises from 3 to 4 countries. The Greece placement(s) in this lesson were filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson by registry Part 2B (HELD description as recorded in the provenance row), and the original string is recorded in each provenance row above. Greece's own way is content, as the book line above records it: muscles and bones are taught in movement — force makes things move — and stopping exercise is taught as ageing the body faster. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: body systems, cells tissues organs organ systems, blood red cells white cells platelets, transport of substances, homeostasis, Croatia, Čovjek i zdravlje, Mi cuerpo es una máquina perfecta, structure of the human body, cardiovascular lymphatic skeletal articular systems, Honduras Telebásica Grades 7, body systems in sport, respiratory circulatory muscular nervous systems, Myanmar PE Textbook Grade 10, ကာယပညာ, muscles bones and movement, Μύες οστά και κίνηση, force makes things move, stopping exercise ages the body faster, Greece Grades 5-6 Fysiki Agogi E-ST

@@ -1,6 +1,6 @@
 # Sources — Doping — What It Is and What It Costs
 
-countries: Ethiopia, China, Honduras
+countries: Ethiopia, China, Honduras, Greece
 
 **Book 1:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–106 + front matter (114 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md.
 
@@ -41,7 +41,7 @@ countries: Ethiopia, China, Honduras
 | Prove-it questions folded from the book's own Chapter 1 review — Sub lesson 4 (teacher guide — evidence) | Ethiopia, *Grade 7 Teacher Guide*, Chapter 1 review answers, printed pp. 12–13 (teacher guide — evidence) |
 | China — 第四章 第五节 运动安全（八）— what doping is and what counts as a doping violation (filed under `fair-play-and-the-body/doping-what-it-is-and-what-it-costs`, this lesson itself) | China, *普通高中教科书·体育与健康必修 全一册 (PEP Senior-High PE & Health, Compulsory, Complete Volume)*, 第四章 第五节 运动安全（八）, printed p. 78 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, China, Honduras).** Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count.
+**Acceptance count: taught in 4 countries (Ethiopia, China, Honduras, Greece).** Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below).
 
 The Grade 5 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -80,4 +80,37 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/honduras-hea
 | Honduras — Bloque II Secuencia 1 — smoking (tabaquismo): an addiction that raises heart rate and blood pressure, cuts 5–8 years of life, and smoking before sport raises the risk of sudden death; alcohol's harm to the physical capacities — studied as group poster work on sedentarism, smoking, alcoholism and bad eating habits (original target `fair-play-and-the-body/doping-what-it-is-and-what-it-costs`) | Honduras Grade 9 HN G9 student, printed p. 63 |
 
 Honduras is added as student-book stock (see its book line and row above), inside the acceptance count — Book 4 is a STUDENT book, so Honduras is named in the countries line and provenance row and the acceptance count rises from 2 to 3 countries. The Honduras placement was filed under the slug `fair-play-and-the-body/doping-what-it-is-and-what-it-costs`, this lesson itself. Honduras's own way is content, as the book line above records it: the harmful habits — sedentarism, smoking, alcoholism and bad eating habits — are studied as group poster work in the Grade 9 book.
-Searchable tags: doping ዶፒንግ, performance-enhancing substances አበረታች ቅመማዎች, clean sport, WADA 1999, IOC medical commission 1967, Mexico 1968 tests, Ethiopia anti-doping office proclamation 400/2009, doping harms sanctions, Ethiopia HPE Grades 5–7, what doping is, doping violation, China Senior High PEP PE & Health, tabaquismo smoking addiction heart rate blood pressure sudden death, alcohol harm to physical capacities, harmful habits sedentarism smoking alcoholism bad eating habits, Honduras Telebásica Grade 9
+## Greece — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/greece-health-placements.md. The Greece books stocked in this lesson are Book 3 and Book 4. Both Greece books are STUDENT books, so Greece is student-book stock, inside the acceptance count, in this lesson. Greece's Health placements are the Health chapters of the same Fysiki Agogi student books whose PE chapters are filed in greece-pe-placements.md (combined-book split, as filed). No Greece placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 3 — Fysiki Agogi E'-ST' Dimotikou (student book, Greek) — Health chapters:**
+- Title as printed: Φυσική Αγωγή Ε΄ & Στ΄ Δημοτικού (Βιβλίο Μαθητή)
+- Grade: Ε΄ & Στ΄ Δημοτικού — Grades 5-6 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» for the Institute of Educational Policy, Ministry of Education, Religious Affairs and Sports; year 2012 (this file: 3rd version, revised 2016); ISBN 978-960-06-2810-0 (book code 0-10-0145)
+- PDF pages: 106 (cover/title page verified; the book's PE chapters are filed in greece-pe-placements.md)
+- Verdict: COMPLETE (Chapters 8-9 read in full)
+- Tally: 17 placements — 2 to existing lessons, 15 NEW LESSON NEEDED (12 of them HELD-title-decision)
+- Greece's own way: health is taught as self-measurement — pupils take their own pulse, weigh themselves before and after the lesson, score their own eating habits and sportsmanship, and build a personal exercise plan.
+- Edition overlap kept as filed: this file is the 2016 revised 3rd version of the 2012 book, with the earlier ISBN on its back cover — both editions named, as filed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/greece-health-placements.md.
+
+**Book 4 — Fysiki Agogi A'-C' Gymnasiou (student book, Greek) — Health chapters:**
+- Title as printed: Φυσική Αγωγή Α΄, Β΄, Γ΄ Γυμνασίου (Βιβλίο Μαθητή)
+- Grade: Α΄-Γ΄ Γυμνασίου — Grades 7-9 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» for the Institute of Educational Policy, Ministry of Education, Religious Affairs and Sports; year 2013 (this file revised 2015); ISBN 978-960-06-2679-7 (book code 0-21-0042)
+- PDF pages: 154 (cover/title page verified; the book's PE chapters are filed in greece-pe-placements.md; on the book's missing-from-GitHub status see the PE file header and the group log — the ministry copy is now staged in phase3-staging)
+- Verdict: COMPLETE (Chapter 3 and the Chapter 5 special topics read in full; the swimming-safety rules of Chapter 2 also filed here)
+- Tally: 13 placements — 2 to existing lessons, 11 NEW LESSON NEEDED (8 of them HELD-title-decision)
+- Greece's own way: the Gymnasium health teaching is a full "value of lifelong exercise" chapter — the body in exercise system by system, exercise against smoking, obesity and stress — plus a special-topics chapter where injuries and first aid, doping and stadium violence are taught as health subjects in their own right.
+- LIBRARY DEBT, carried as filed: the record claims this book secured but the file was absent from the GitHub tree; the ministry copy is now staged in phase3-staging.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/greece-health-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Οι αληθινοί αθλητές δεν εξαπατούν! (True athletes do not cheat!) — cheating steals the victory; supplements that claim to hold only vitamins or amino acids may hide banned substances; athletes shut out of the sport they loved because of doping (original string `fair-play-and-the-body/doping-what-it-is-and-what-it-costs`) | Greece Grades 5-6 Fysiki Agogi E-ST, printed p. 88 |
+| Greece — Φαρμακοδιέγερση στα σπορ (Doping in sport) — "a dishonest and health-dangerous behaviour": what doping is, the banned methods including blood doping, and the harms of anabolics to adolescents (early closing of the growth plates) and of diuretics (original string `fair-play-and-the-body/doping-what-it-is-and-what-it-costs`) | Greece Grades 7-9 Fysiki Agogi Gymnasiou, printed p. 127 |
+
+Greece is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — both Greece books are STUDENT books, so Greece is named in the countries line and provenance row(s) and the acceptance count rises from 3 to 4 countries. The Greece placement(s) in this lesson were filed under this lesson's own slug, stocked directly, and the original string is recorded in each provenance row above. Greece's own way is content, as the book lines above record it: doping is taught as cheating that steals the victory and as a dishonest and health-dangerous behaviour, with the harms of anabolics to adolescents named. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: doping ዶፒንግ, performance-enhancing substances አበረታች ቅመማዎች, clean sport, WADA 1999, IOC medical commission 1967, Mexico 1968 tests, Ethiopia anti-doping office proclamation 400/2009, doping harms sanctions, Ethiopia HPE Grades 5–7, what doping is, doping violation, China Senior High PEP PE & Health, tabaquismo smoking addiction heart rate blood pressure sudden death, alcohol harm to physical capacities, harmful habits sedentarism smoking alcoholism bad eating habits, Honduras Telebásica Grade 9, true athletes do not cheat, supplements hiding banned substances, doping in sport Φαρμακοδιέγερση, blood doping, anabolics growth plates, diuretics, Greece Grades 5-6 Fysiki Agogi E-ST, Greece Grades 7-9 Fysiki Agogi Gymnasiou

@@ -1,8 +1,8 @@
 # Sources — Saying No to Drugs, Alcohol and Tobacco
 
-countries: Turkmenistan, Namibia, Zambia, Samoa, Bulgaria
+countries: Turkmenistan, Namibia, Zambia, Samoa, Bulgaria, Greece
 
-**Acceptance count: taught in 2 countries.** Bulgaria is filed as student-book stock, inside the acceptance count, in this lesson. Turkmenistan is filed as student-book stock, inside the acceptance count, in this lesson. Namibia is filed as teacher-guide evidence only — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Namibia row. Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count (still taught in 1 country).
+**Acceptance count: taught in 3 countries.** Bulgaria is filed as student-book stock, inside the acceptance count, in this lesson. Turkmenistan is filed as student-book stock, inside the acceptance count, in this lesson. Namibia is filed as teacher-guide evidence only — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Namibia row. Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count (still taught in 1 country). Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below).
 
 **Book 1 — Bedenterbiýe (Physical Education) (student book — study guide for higher schools, Turkmen) — Health parts only:**
 - Title as printed: Bedenterbiýe — Ýokary okuw mekdepleri üçin okuw gollanmasy (Physical Education — a study guide for higher schools) (full header in turkmenistan-pe-placements.md, Book 1)
@@ -98,4 +98,25 @@ Samoa is added as curriculum-statement / teacher-guide evidence only (see its bo
 
 Bulgaria is added as student-book stock (see its book lines and rows above), inside the acceptance count — both Bulgaria books are STUDENT books, so Bulgaria is named in the countries line and provenance rows and the acceptance count rises from 1 to 2 countries. All three Bulgaria placements were filed under the original strings recorded in the provenance rows above, each resolved to this canonical lesson `staying-safe/saying-no-to-drugs-alcohol-and-tobacco` by registry Part 2. Bulgaria's own way is content, as the book lines above record it: smoking and psychoactive substances are taught as structured discussion lessons ("Гледна точка") in Grade 8, and drugs ("Наркотиците") as a discussions-and-projects lesson in Grade 10. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: saying no to drugs alcohol and tobacco, harmful habits that damage health, Saglyga zeper ýetirýän zyýanly endikler, habits that injure health, Turkmenistan Bedenterbiýe, substance abuse types consequences risks, legal alcohol age 18 Namibia, Healthy Lifestyle Session 4, Namibia PE4Life Guide, drugs and alcohol harms to learners, prevention, Zambia Health Teacher Training Manual 2025, alcohol drugs smoking impact on the family unsafe sex STDs HIV AIDS hepatitis, Samoa Years 11–12 TG, tobacco smoking discussion, psychoactive substances discussion, drugs narcotics discussions and projects, Bulgaria Biology and Health Education Grades 8 and 10 Pedagog 6
+## Greece — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/greece-health-placements.md. The Greece books stocked in this lesson are Book 4. Both Greece books are STUDENT books, so Greece is student-book stock, inside the acceptance count, in this lesson. Greece's Health placements are the Health chapters of the same Fysiki Agogi student books whose PE chapters are filed in greece-pe-placements.md (combined-book split, as filed). No Greece placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 4 — Fysiki Agogi A'-C' Gymnasiou (student book, Greek) — Health chapters:**
+- Title as printed: Φυσική Αγωγή Α΄, Β΄, Γ΄ Γυμνασίου (Βιβλίο Μαθητή)
+- Grade: Α΄-Γ΄ Γυμνασίου — Grades 7-9 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» for the Institute of Educational Policy, Ministry of Education, Religious Affairs and Sports; year 2013 (this file revised 2015); ISBN 978-960-06-2679-7 (book code 0-21-0042)
+- PDF pages: 154 (cover/title page verified; the book's PE chapters are filed in greece-pe-placements.md; on the book's missing-from-GitHub status see the PE file header and the group log — the ministry copy is now staged in phase3-staging)
+- Verdict: COMPLETE (Chapter 3 and the Chapter 5 special topics read in full; the swimming-safety rules of Chapter 2 also filed here)
+- Tally: 13 placements — 2 to existing lessons, 11 NEW LESSON NEEDED (8 of them HELD-title-decision)
+- Greece's own way: the Gymnasium health teaching is a full "value of lifelong exercise" chapter — the body in exercise system by system, exercise against smoking, obesity and stress — plus a special-topics chapter where injuries and first aid, doping and stadium violence are taught as health subjects in their own right.
+- LIBRARY DEBT, carried as filed: the record claims this book secured but the file was absent from the GitHub tree; the ministry copy is now staged in phase3-staging.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/greece-health-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Η άσκηση μάς αποτρέπει από το κάπνισμα (Exercise keeps us from smoking) — reducing young smokers is a basic aim of many countries; imitate the healthy behaviours of friends, family and environment (original string `staying-safe/HELD-title-decision`) | Greece Grades 7-9 Fysiki Agogi Gymnasiou, printed p. 82 |
+
+Greece is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — both Greece books are STUDENT books, so Greece is named in the countries line and provenance row(s) and the acceptance count rises from 2 to 3 countries. The Greece placement(s) in this lesson were filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson by registry Part 2B (HELD description as recorded in the provenance row), and the original string is recorded in each provenance row above. Greece's own way is content, as the book line above records it: exercise itself is taught as what keeps young people from smoking — imitate the healthy behaviours of friends, family and environment. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: saying no to drugs alcohol and tobacco, harmful habits that damage health, Saglyga zeper ýetirýän zyýanly endikler, habits that injure health, Turkmenistan Bedenterbiýe, substance abuse types consequences risks, legal alcohol age 18 Namibia, Healthy Lifestyle Session 4, Namibia PE4Life Guide, drugs and alcohol harms to learners, prevention, Zambia Health Teacher Training Manual 2025, alcohol drugs smoking impact on the family unsafe sex STDs HIV AIDS hepatitis, Samoa Years 11–12 TG, tobacco smoking discussion, psychoactive substances discussion, drugs narcotics discussions and projects, Bulgaria Biology and Health Education Grades 8 and 10 Pedagog 6, exercise keeps us from smoking, reducing young smokers, imitate healthy behaviours, Greece Grades 7-9 Fysiki Agogi Gymnasiou

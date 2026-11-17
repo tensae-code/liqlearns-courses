@@ -1,8 +1,8 @@
 # Sources — Mental Health and Wellbeing
 
-countries: China, Zambia, Timor-Leste
+countries: China, Zambia, Timor-Leste, Greece
 
-**Acceptance count: taught in 2 countries.** China is filed as student-book stock, inside the acceptance count, in this lesson. Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count (still taught in 1 country). Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count).
+**Acceptance count: taught in 3 countries.** China is filed as student-book stock, inside the acceptance count, in this lesson. Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count (still taught in 1 country). Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below).
 
 **Book 1 — 普通高中教科书·体育与健康必修 全一册 (PEP Senior-High PE & Health, Compulsory, Complete Volume) (student book, Chinese):**
 - Title as printed: 普通高中教科书·体育与健康必修 全一册
@@ -61,4 +61,38 @@ Zambia is added as teacher training manual evidence only (see its book line and 
 
 Timor-Leste is added as student-book stock (see its book lines and row above), inside the acceptance count — Book 1 is a STUDENT book, so Timor-Leste is named in the countries line and provenance row and the acceptance count rises (now taught in 2 countries). Book 2, the teacher guide, is filed as evidence only, outside the acceptance count — it carries the same ten units as Book 1 as full lesson plans and is the student book's evidence pair; its content is not double-placed. The Timor-Leste placement was filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson `fair-play-and-the-body/mental-health-and-wellbeing` by registry Part 2B (HELD description: "Unit 8: Stress — stress and its causes, stress and the brain, and strategies to control stress"), and the original string is recorded in the provenance row above. The page number follows the teacher guide's index (the student book prints the same units a few pages later), as filed. Timor-Leste's own way is content, as the book lines above record it: stress is taught as its own unit — stress and its causes, stress and the brain, and strategies to control stress. This lesson teaches its placement only as the placements file summarises it, and names nothing the summary does not name.
 
-Searchable tags: mental health and wellbeing, mental health and fitting in, knowing yourself, adapting to society, 心理健康与社会适应， China Senior High PEP PE & Health, mental health, recognising distress in learners, supporting learners, Zambia Health Teacher Training Manual 2025, stress causes stress and the brain strategies to control stress, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book
+## Greece — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/greece-health-placements.md. The Greece books stocked in this lesson are Book 3 and Book 4. Both Greece books are STUDENT books, so Greece is student-book stock, inside the acceptance count, in this lesson. Greece's Health placements are the Health chapters of the same Fysiki Agogi student books whose PE chapters are filed in greece-pe-placements.md (combined-book split, as filed). No Greece placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 3 — Fysiki Agogi E'-ST' Dimotikou (student book, Greek) — Health chapters:**
+- Title as printed: Φυσική Αγωγή Ε΄ & Στ΄ Δημοτικού (Βιβλίο Μαθητή)
+- Grade: Ε΄ & Στ΄ Δημοτικού — Grades 5-6 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» for the Institute of Educational Policy, Ministry of Education, Religious Affairs and Sports; year 2012 (this file: 3rd version, revised 2016); ISBN 978-960-06-2810-0 (book code 0-10-0145)
+- PDF pages: 106 (cover/title page verified; the book's PE chapters are filed in greece-pe-placements.md)
+- Verdict: COMPLETE (Chapters 8-9 read in full)
+- Tally: 17 placements — 2 to existing lessons, 15 NEW LESSON NEEDED (12 of them HELD-title-decision)
+- Greece's own way: health is taught as self-measurement — pupils take their own pulse, weigh themselves before and after the lesson, score their own eating habits and sportsmanship, and build a personal exercise plan.
+- Edition overlap kept as filed: this file is the 2016 revised 3rd version of the 2012 book, with the earlier ISBN on its back cover — both editions named, as filed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/greece-health-placements.md.
+
+**Book 4 — Fysiki Agogi A'-C' Gymnasiou (student book, Greek) — Health chapters:**
+- Title as printed: Φυσική Αγωγή Α΄, Β΄, Γ΄ Γυμνασίου (Βιβλίο Μαθητή)
+- Grade: Α΄-Γ΄ Γυμνασίου — Grades 7-9 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» for the Institute of Educational Policy, Ministry of Education, Religious Affairs and Sports; year 2013 (this file revised 2015); ISBN 978-960-06-2679-7 (book code 0-21-0042)
+- PDF pages: 154 (cover/title page verified; the book's PE chapters are filed in greece-pe-placements.md; on the book's missing-from-GitHub status see the PE file header and the group log — the ministry copy is now staged in phase3-staging)
+- Verdict: COMPLETE (Chapter 3 and the Chapter 5 special topics read in full; the swimming-safety rules of Chapter 2 also filed here)
+- Tally: 13 placements — 2 to existing lessons, 11 NEW LESSON NEEDED (8 of them HELD-title-decision)
+- Greece's own way: the Gymnasium health teaching is a full "value of lifelong exercise" chapter — the body in exercise system by system, exercise against smoking, obesity and stress — plus a special-topics chapter where injuries and first aid, doping and stadium violence are taught as health subjects in their own right.
+- LIBRARY DEBT, carried as filed: the record claims this book secured but the file was absent from the GitHub tree; the ministry copy is now staged in phase3-staging.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/greece-health-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Άσκηση και ψυχική υγεία (Exercise and mental health) — Galen's saying that medicine and gymnastics are branches of one science, the science of health; exercise for the mind as well as the body (original string `staying-safe/HELD-title-decision`) | Greece Grades 5-6 Fysiki Agogi E-ST, printed p. 65 |
+| Greece — Ψυχολογικά οφέλη από την άσκηση (Psychological benefits of exercise) — lifelong exercise brings mental balance as well as physical; people who exercise two or three times a week or walk daily are less angry and less stressed (original string `staying-safe/HELD-title-decision`) | Greece Grades 7-9 Fysiki Agogi Gymnasiou, printed p. 84 |
+| Greece — Άσκηση και στρες (Exercise and stress) — the psychosomatic diseases, where body and mind act on each other, and calming stress with deep slow breathing (original string `staying-safe/HELD-title-decision`) | Greece Grades 7-9 Fysiki Agogi Gymnasiou, printed p. 90 |
+
+Greece is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — both Greece books are STUDENT books, so Greece is named in the countries line and provenance row(s) and the acceptance count rises from 2 to 3 countries. The Greece placement(s) in this lesson were filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson by registry Part 2B (HELD description as recorded in the provenance row), and the original string is recorded in each provenance row above. Greece's own way is content, as the book lines above record it: exercise for the mind is taught through Galen — medicine and gymnastics as branches of one science, the science of health — and stress is calmed with deep slow breathing. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: mental health and wellbeing, mental health and fitting in, knowing yourself, adapting to society, 心理健康与社会适应， China Senior High PEP PE & Health, mental health, recognising distress in learners, supporting learners, Zambia Health Teacher Training Manual 2025, stress causes stress and the brain strategies to control stress, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, exercise and mental health, Galen medicine and gymnastics one science of health, psychological benefits of exercise, mental balance less angry less stressed, exercise and stress, psychosomatic diseases, deep slow breathing, Greece Grades 5-6 Fysiki Agogi E-ST, Greece Grades 7-9 Fysiki Agogi Gymnasiou

@@ -1,8 +1,8 @@
 # Sources — Your Body in Exercise
 
-countries: Jordan, Haiti, Rwanda, Oman, Honduras
+countries: Jordan, Haiti, Rwanda, Oman, Honduras, Greece
 
-**Acceptance count: taught in 1 country.** Jordan is filed as student-book stock, inside the acceptance count, in this lesson. Haiti is filed as teacher-programme evidence only, outside the acceptance count. Rwanda is filed as teacher-guide evidence only, outside the acceptance count. Honduras is added as teacher-guide evidence only (see its Honduras section below), outside the acceptance count.
+**Acceptance count: taught in 2 countries.** Jordan is filed as student-book stock, inside the acceptance count, in this lesson. Haiti is filed as teacher-programme evidence only, outside the acceptance count. Rwanda is filed as teacher-guide evidence only, outside the acceptance count. Honduras is added as teacher-guide evidence only (see its Honduras section below), outside the acceptance count. Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below).
 
 **Book 5 — التربية الرياضية — الصف السابع — الفصل الدراسي الثاني (Physical Education, Grade Seven, Second Semester) (student book, Arabic):**
 - Title as printed: التربية الرياضية — الصف السابع — الفصل الدراسي الثاني (Physical Education, Grade Seven, Second Semester)
@@ -80,4 +80,25 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/honduras-hea
 | Honduras — Bloque II Secuencia 2 — muscle fatigue: the chronic fatigue syndrome that appears when the muscles and organs cannot adapt to continuous maximum demand (body-in-exercise material that fits neither Health title) (teacher guide — evidence) (original string `staying-safe/HELD-title-decision`) | Honduras Grade 7 HN G7 teacher guide, printed p. 110 (teacher guide — evidence) |
 
 Honduras is added as teacher-guide evidence only (see its book line and row above), outside the acceptance count — Book 3 is a TEACHER guide, so Honduras is named in the countries line and provenance row but the acceptance count is unchanged (still taught in 1 country). The Honduras placement was filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson `staying-safe/your-body-in-exercise` by registry Part 2B, and the original string is recorded in the provenance row above.
-Searchable tags: your body in exercise, sport and the respiratory system, respiratory organs, gas exchange, alveoli, oxygen to the blood, asthma risk, breathing exercises, Health Concepts and Habits, Jordan NCCD Physical Education Grade 7, body responses to exercise, rising heart rate, breathing rate, sweating, fatigue, scientific knowledge inside EPS, Haiti EPS Programme Grades 10-13, MENFP, role of physical exercise for the circulatory and respiratory systems, heart circulation and breathing, Rwanda Grade 5 PE Teacher Guide MK Publishers, changes in the body during sports activity, faster heart, faster breathing, sweating, measuring the pulse, Oman G2 Teacher Guide, muscle fatigue chronic fatigue syndrome continuous maximum demand, Honduras Telebásica Grade 7 teacher guide
+## Greece — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/greece-health-placements.md. The Greece books stocked in this lesson are Book 3. Both Greece books are STUDENT books, so Greece is student-book stock, inside the acceptance count, in this lesson. Greece's Health placements are the Health chapters of the same Fysiki Agogi student books whose PE chapters are filed in greece-pe-placements.md (combined-book split, as filed). No Greece placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 3 — Fysiki Agogi E'-ST' Dimotikou (student book, Greek) — Health chapters:**
+- Title as printed: Φυσική Αγωγή Ε΄ & Στ΄ Δημοτικού (Βιβλίο Μαθητή)
+- Grade: Ε΄ & Στ΄ Δημοτικού — Grades 5-6 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» for the Institute of Educational Policy, Ministry of Education, Religious Affairs and Sports; year 2012 (this file: 3rd version, revised 2016); ISBN 978-960-06-2810-0 (book code 0-10-0145)
+- PDF pages: 106 (cover/title page verified; the book's PE chapters are filed in greece-pe-placements.md)
+- Verdict: COMPLETE (Chapters 8-9 read in full)
+- Tally: 17 placements — 2 to existing lessons, 15 NEW LESSON NEEDED (12 of them HELD-title-decision)
+- Greece's own way: health is taught as self-measurement — pupils take their own pulse, weigh themselves before and after the lesson, score their own eating habits and sportsmanship, and build a personal exercise plan.
+- Edition overlap kept as filed: this file is the 2016 revised 3rd version of the 2012 book, with the earlier ISBN on its back cover — both editions named, as filed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/greece-health-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Μετράω τον σφυγμό μου (I measure my pulse) — finding and counting your pulse; the normal resting rate for children over 6 is 60-100 beats a minute (original string `staying-safe/HELD-title-decision`) | Greece Grades 5-6 Fysiki Agogi E-ST, printed p. 67 |
+
+Greece is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — both Greece books are STUDENT books, so Greece is named in the countries line and provenance row(s) and the acceptance count rises from 1 to 2 countries. The Greece placement(s) in this lesson were filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson by registry Part 2B (HELD description as recorded in the provenance row), and the original string is recorded in each provenance row above. Greece's own way is content, as the book line above records it: health is taught as self-measurement — pupils find and count their own pulse. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: your body in exercise, sport and the respiratory system, respiratory organs, gas exchange, alveoli, oxygen to the blood, asthma risk, breathing exercises, Health Concepts and Habits, Jordan NCCD Physical Education Grade 7, body responses to exercise, rising heart rate, breathing rate, sweating, fatigue, scientific knowledge inside EPS, Haiti EPS Programme Grades 10-13, MENFP, role of physical exercise for the circulatory and respiratory systems, heart circulation and breathing, Rwanda Grade 5 PE Teacher Guide MK Publishers, changes in the body during sports activity, faster heart, faster breathing, sweating, measuring the pulse, Oman G2 Teacher Guide, muscle fatigue chronic fatigue syndrome continuous maximum demand, Honduras Telebásica Grade 7 teacher guide, I measure my pulse, Μετράω τον σφυγμό μου, finding and counting your pulse, resting rate 60-100 beats a minute, Greece Grades 5-6 Fysiki Agogi E-ST

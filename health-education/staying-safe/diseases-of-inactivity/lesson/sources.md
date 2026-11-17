@@ -1,8 +1,8 @@
 # Sources — Diseases of Inactivity
 
-countries: United Kingdom, Cyprus, Oman, Samoa, Honduras, Philippines
+countries: United Kingdom, Cyprus, Oman, Samoa, Honduras, Philippines, Greece
 
-**Acceptance count: taught in 4 countries.** United Kingdom and Cyprus are filed as student-book stock, inside the acceptance count, in this lesson. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below).
+**Acceptance count: taught in 5 countries.** United Kingdom and Cyprus are filed as student-book stock, inside the acceptance count, in this lesson. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below).
 
 **Book 1 — Edexcel GCSE (9-1) Physical Education Student Book, 2nd edition (student book, English):**
 - Title as printed: Edexcel GCSE (9-1) Physical Education — Tony Scott (cover: "2nd edition")
@@ -99,4 +99,25 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/philippines-
 
 Philippines is added as student-book stock (see its book line and row above), inside the acceptance count — the Philippines book stocked here is a STUDENT book, so Philippines is named in the countries line and provenance row and the acceptance count rises from 3 to 4 countries. The Philippines placement in this lesson is a carry-forward from philippines-pe-placements.md (Book 1), filed there under the original string `fitness-and-stretching/diseases-of-inactivity`, resolved to this Health canonical lesson `staying-safe/diseases-of-inactivity` by the Health slug registry, and the original string is recorded in the provenance row above. Philippines's own way is content, as the book line above records it: the hypokinetic diseases are taught inside the Grade 7 PE fitness module itself, in the session after learners have built their own exercise programme.
 
-Searchable tags: diseases of inactivity, sedentary lifestyle, consequences of inactivity, obesity, somatotypes body types, hypokinetic diseases, Edexcel GCSE Physical Education, United Kingdom GCSE Edexcel PE Student Book, sedentary life, Καθιστική Ζωή, sitting-still life, Cyprus Olympic Education Insert Grades 11-12, physical activity and chronic diseases النشاط البدني وعلاقته بالأمراض المزمنة, Oman G8 Teacher Guide, diseases of inactivity sedentary lifestyle processed foods diabetes heart disease hypertension obesity gout, Samoa Years 11–12 TG, Mantén tu salud física, sedentary living muscles degenerate spinal deviations foot deformities degenerative diseases, Honduras Telebásica Grade 8, Hypokinetic Diseases, diseases of a sedentary lifestyle, hyperlipidemia LDL HDL cholesterol, systolic diastolic pressure, type 1 vs type 2 diabetes, Philippines Grade 7 PE LM Units 1-2
+## Greece — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/greece-health-placements.md. The Greece books stocked in this lesson are Book 3. Both Greece books are STUDENT books, so Greece is student-book stock, inside the acceptance count, in this lesson. Greece's Health placements are the Health chapters of the same Fysiki Agogi student books whose PE chapters are filed in greece-pe-placements.md (combined-book split, as filed). No Greece placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 3 — Fysiki Agogi E'-ST' Dimotikou (student book, Greek) — Health chapters:**
+- Title as printed: Φυσική Αγωγή Ε΄ & Στ΄ Δημοτικού (Βιβλίο Μαθητή)
+- Grade: Ε΄ & Στ΄ Δημοτικού — Grades 5-6 (student/teacher: STUDENT)
+- Publisher: ΙΤΥΕ «Διόφαντος» for the Institute of Educational Policy, Ministry of Education, Religious Affairs and Sports; year 2012 (this file: 3rd version, revised 2016); ISBN 978-960-06-2810-0 (book code 0-10-0145)
+- PDF pages: 106 (cover/title page verified; the book's PE chapters are filed in greece-pe-placements.md)
+- Verdict: COMPLETE (Chapters 8-9 read in full)
+- Tally: 17 placements — 2 to existing lessons, 15 NEW LESSON NEEDED (12 of them HELD-title-decision)
+- Greece's own way: health is taught as self-measurement — pupils take their own pulse, weigh themselves before and after the lesson, score their own eating habits and sportsmanship, and build a personal exercise plan.
+- Edition overlap kept as filed: this file is the 2016 revised 3rd version of the 2012 book, with the earlier ISBN on its back cover — both editions named, as filed.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/greece-health-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece — Υγεία, άσκηση και ο κύκλος της ζωής (Health, exercise and the cycle of life) — what a sedentary life does to the body and health (a table of rising risks), causes of death such as heart attack, and the harms of smoking (original string `staying-safe/HELD-title-decision`) | Greece Grades 5-6 Fysiki Agogi E-ST, printed p. 63 |
+
+Greece is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — both Greece books are STUDENT books, so Greece is named in the countries line and provenance row(s) and the acceptance count rises from 4 to 5 countries. The Greece placement(s) in this lesson were filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson by registry Part 2B (HELD description as recorded in the provenance row), and the original string is recorded in each provenance row above. Greece's own way is content, as the book line above records it: the harms of a sedentary life are taught as a table of rising risks inside the cycle of life. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: diseases of inactivity, sedentary lifestyle, consequences of inactivity, obesity, somatotypes body types, hypokinetic diseases, Edexcel GCSE Physical Education, United Kingdom GCSE Edexcel PE Student Book, sedentary life, Καθιστική Ζωή, sitting-still life, Cyprus Olympic Education Insert Grades 11-12, physical activity and chronic diseases النشاط البدني وعلاقته بالأمراض المزمنة, Oman G8 Teacher Guide, diseases of inactivity sedentary lifestyle processed foods diabetes heart disease hypertension obesity gout, Samoa Years 11–12 TG, Mantén tu salud física, sedentary living muscles degenerate spinal deviations foot deformities degenerative diseases, Honduras Telebásica Grade 8, Hypokinetic Diseases, diseases of a sedentary lifestyle, hyperlipidemia LDL HDL cholesterol, systolic diastolic pressure, type 1 vs type 2 diabetes, Philippines Grade 7 PE LM Units 1-2, health exercise and the cycle of life, sedentary life rising risks, heart attack, harms of smoking, Greece Grades 5-6 Fysiki Agogi E-ST
