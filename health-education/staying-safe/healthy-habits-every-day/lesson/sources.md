@@ -1,8 +1,8 @@
 # Sources — Healthy Habits Every Day
 
-countries: Jordan, China, Oman, Honduras, Azerbaijan, Ukraine
+countries: Jordan, China, Oman, Honduras, Azerbaijan, Ukraine, Turkey
 
-**Acceptance count: taught in 5 countries.** Jordan and China are filed as student-book stock, inside the acceptance count, in this lesson. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below). Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below).
+**Acceptance count: taught in 5 countries.** Jordan and China are filed as student-book stock, inside the acceptance count, in this lesson. Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count. Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below). Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Turkey is filed as teacher-guide evidence only in this lesson — Book 1 is a TEACHER guide, so Turkey is named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this Turkey row.
 
 **Book 1 — التربية الرياضية — الصف الأول الأساسي — الفصل الدراسي الثاني (Physical Education, First Basic Grade, Second Semester) (student book, Arabic):**
 - Title as printed: التربية الرياضية — الصف الأول الأساسي — الفصل الدراسي الثاني (Physical Education, First Basic Grade, Second Semester)
@@ -133,4 +133,26 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/ukraine-heal
 
 Ukraine is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — Ukraine is named in the countries line and provenance row(s) and the acceptance count rises from 4 to 5 countries. The Ukraine placement in this lesson was filed as a HELD-title-decision line, resolved to this canonical lesson by registry Part 2B (HELD description as recorded in the provenance row), and the original string is recorded in the provenance row above. Ukraine's own way is content, as the book lines above record it: the healthy lifestyle is taught in the Grade 7 book by its components and its advantages for health and personal wellbeing. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: healthy habits every day, daily healthy habits, healthy and unhealthy pictures, Movement and Health, Jordan NCCD Physical Education Grade 1, healthy lifestyle and preventing disease, building healthy behaviour, balanced diet, mental balance, scientific exercise, preventing chronic non-communicable diseases, diabetes, China Senior High PEP PE & Health, sport is our life الرياضة حياتنا, the healthy lifestyle نمط الحياة الصحي, Oman G5 Teacher Guide, Oman G7 Teacher Guide, healthy-life habits balanced diet sleep medical check-ups exercise outdoor life, Honduras Telebásica Grade 9, Azerbaijan Fiziki Tərbiyə Grades 6-10, Georgian-language edition, hardening the body, self-control diary, advantages of a healthy lifestyle, components of a healthy lifestyle, Ukraine G7 Health Safety and Wellbeing Shyian
+
+## Turkey — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkey-health-placements.md. The Turkey book(s) stocked in this lesson: B1 of that file. The Turkey book stocked in this lesson is a TEACHER guide, so Turkey is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. Records R1–R10 of the placements file are record-only Geography books tagged "health" in error (R1 secured, R2–R9 download-list records) and one UNREAD malformed record (R10), with 0 placements; nothing is stocked from them.
+
+
+**Book — Turkey B1 (teacher guide — evidence):**
+## Book 1 — Preschool Movement & Health TG (teacher guide, Turkish) — Health parts
+- Title as printed: Okul Öncesi Hareket ve Sağlık Alanı Öğretmen Kılavuz Kitabı
+- Grade: Preschool (okul öncesi) (student/teacher: TEACHER)
+- Publisher: MEB Devlet Kitapları; year 2026; ISBN 978-625-8867-30-5
+- PDF pages: 132 (cover/title page verified against the record title)
+- Verdict: COMPLETE — combined Movement & Health book; PE parts filed in turkey-pe-placements.md
+- Tally (Health file): 7 placements — 1 to an existing lesson, 6 NEW LESSON NEEDED
+- Turkey's own way: health for the youngest children is taught as daily-life play — hand washing, naming healthy foods, dressing for the weather, judging safe/dangerous, and knowing to call 112 in an emergency, including an earthquake drill course.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Bu Mevsimde Neler Giymeliyiz? / Fırtınada Ne Giyilir? — choosing clothes for the season and for stormy weather (teacher guide — evidence) (original string `staying-safe/dressing-for-the-weather`) | Turkey, *Turkey Preschool Movement & Health TG* (Turkey Preschool Movement & Health TG), printed pp. 44, 92 |
+
+Turkey's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the health slug registry (Part 2A / Part 2B) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Turkey's own way is content, as the book lines above record it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: healthy habits every day, daily healthy habits, healthy and unhealthy pictures, Movement and Health, Jordan NCCD Physical Education Grade 1, healthy lifestyle and preventing disease, building healthy behaviour, balanced diet, mental balance, scientific exercise, preventing chronic non-communicable diseases, diabetes, China Senior High PEP PE & Health, sport is our life الرياضة حياتنا, the healthy lifestyle نمط الحياة الصحي, Oman G5 Teacher Guide, Oman G7 Teacher Guide, healthy-life habits balanced diet sleep medical check-ups exercise outdoor life, Honduras Telebásica Grade 9, Azerbaijan Fiziki Tərbiyə Grades 6-10, Georgian-language edition, hardening the body, self-control diary, advantages of a healthy lifestyle, components of a healthy lifestyle, Ukraine G7 Health Safety and Wellbeing Shyian, dressing for the weather, Bu Mevsimde Neler Giymeliyiz, Fırtınada Ne Giyilir, Turkey Preschool Movement & Health TG

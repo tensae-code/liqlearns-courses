@@ -1,8 +1,8 @@
 # Sources — What Health Is
 
-countries: United Kingdom, Turkmenistan, Timor-Leste, Philippines, Ukraine
+countries: United Kingdom, Turkmenistan, Timor-Leste, Philippines, Ukraine, Turkey
 
-**Acceptance count: taught in 5 countries.** United Kingdom is filed as student-book stock, inside the acceptance count, in this lesson. Turkmenistan is filed as student-book stock, inside the acceptance count, in this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below).
+**Acceptance count: taught in 6 countries.** United Kingdom is filed as student-book stock, inside the acceptance count, in this lesson. Turkmenistan is filed as student-book stock, inside the acceptance count, in this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book.
 
 **Book 1 — Edexcel GCSE (9-1) Physical Education Student Book, 2nd edition (student book, English):**
 - Title as printed: Edexcel GCSE (9-1) Physical Education — Tony Scott (cover: "2nd edition")
@@ -103,4 +103,27 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/ukraine-heal
 
 Ukraine is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — Ukraine is named in the countries line and provenance row(s) and the acceptance count rises from 4 to 5 countries. The Ukraine placement in this lesson was filed as a HELD-title-decision line, resolved to this canonical lesson by registry Part 2B (HELD description as recorded in the provenance row), and the original string is recorded in the provenance row above. Ukraine's own way is content, as the book lines above record it: the Grade 5 course opens its body teaching with the components of health and how they fit together. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: what health is, physical emotional social health, fitness and well-being, benefits of physical activity, Edexcel GCSE Physical Education, United Kingdom GCSE Edexcel PE Student Book, foundations of a healthy lifestyle, concept of health, work-and-rest regime, sleep, heredity, adapting to the environment, Turkmenistan Bedenterbiýe, holistic health five linked areas physical social emotional spiritual intellectual, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, holistic health and its dimensions, five dimensions of health, health more than being disease-free, Philippines Grade 7 Health LM, components of health, Ukraine G5 Health Safety and Wellbeing Vasylenko
+
+## Turkey — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkey-health-placements.md. The Turkey book(s) stocked in this lesson: B4 of that file. Turkey is student-book stock, inside the acceptance count, in this lesson (teacher-guide books stocked here are evidence only, outside the count, as their book lines record). Records R1–R10 of the placements file are record-only Geography books tagged "health" in error (R1 secured, R2–R9 download-list records) and one UNREAD malformed record (R10), with 0 placements; nothing is stocked from them.
+
+
+**Book — Turkey B4 (student book):**
+## Book 4 — Health Knowledge & Traffic Culture (student book, Turkish)
+- Title as printed: Sağlık Bilgisi ve Trafik Kültürü Ders Kitabı (Ortaöğretim — elective, lise)
+- Grade: Secondary elective (Seçmeli; lise) (student/teacher: STUDENT)
+- Publisher: MEB Devlet Kitapları; year 2026; ISBN not legible in extracted front matter (MEB Yayınları No 10703)
+- PDF pages: 200 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 19 placements — 4 to existing lessons, 15 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- Turkey's own way: Turkey's one full health textbook joins health knowledge to traffic culture in a single elective — healthy person and society, healthy habits, adolescence, life-saving first aid, and a whole final theme on safe transport.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Sağlık ve Sağlığın Toplum Üzerindeki Etkileri — what health is, its effect on society, and the factors that affect it (socioeconomic, genetic, services, lifestyle, environment) (original string `staying-safe/what-health-is-and-what-affects-it`) | Turkey, *Turkey Health & Traffic Culture* (Turkey Health & Traffic Culture), printed pp. 18, 19 |
+| Turkey — Sağlıkta Biyopsikososyal Yaklaşım — the biopsychosocial approach to health, including spirituality's effect on health (original string `staying-safe/health-in-body-mind-and-society`) | Turkey, *Turkey Health & Traffic Culture* (Turkey Health & Traffic Culture), printed pp. 54, 57 |
+
+Turkey's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the health slug registry (Part 2A / Part 2B) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Turkey's own way is content, as the book lines above record it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: what health is, physical emotional social health, fitness and well-being, benefits of physical activity, Edexcel GCSE Physical Education, United Kingdom GCSE Edexcel PE Student Book, foundations of a healthy lifestyle, concept of health, work-and-rest regime, sleep, heredity, adapting to the environment, Turkmenistan Bedenterbiýe, holistic health five linked areas physical social emotional spiritual intellectual, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, holistic health and its dimensions, five dimensions of health, health more than being disease-free, Philippines Grade 7 Health LM, components of health, Ukraine G5 Health Safety and Wellbeing Vasylenko, what health is and what affects it, Sağlık ve Sağlığın Toplum Üzerindeki Etkileri, biopsychosocial approach, Sağlıkta Biyopsikososyal Yaklaşım, Turkey Health & Traffic Culture

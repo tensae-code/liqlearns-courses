@@ -1,8 +1,8 @@
 # Sources — Avoiding Accidents and Staying Safe
 
-countries: El Salvador, Ukraine
+countries: El Salvador, Ukraine, Turkey
 
-**Acceptance count: taught in 2 countries.** El Salvador is filed as student-book stock, inside the acceptance count, in this lesson. Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below).
+**Acceptance count: taught in 3 countries.** El Salvador is filed as student-book stock, inside the acceptance count, in this lesson. Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book.
 
 **Book 1 — Ciencia, Salud y Medio Ambiente 1 (student book, Spanish):**
 - Title as printed: Ciencia, Salud y Medio Ambiente 1 (Colección Cipotas y Cipotes)
@@ -63,4 +63,26 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/ukraine-heal
 
 Ukraine is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — Ukraine is named in the countries line and provenance row(s) and the acceptance count rises from 1 to 2 countries. All eight Ukraine placements in this lesson were filed under descriptive slug strings, resolved to this canonical lesson by registry Part 2A, and the original string is recorded in each provenance row above. Ukraine's own way is content, as the book lines above record it: the NUSH courses teach danger as something a child learns to read for themselves — hazard sources and danger factors in the Grade 7 book, and in the Grade 5 book the child recognising danger at home, on trips and in games, and finding the way out of it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: avoiding accidents and staying safe, safe classroom, dangerous places and objects, glass windows ceiling lamps bookcases, electric cables and sockets, No tocar danger signs, El Salvador Ciencia Salud y Medio Ambiente 1, Un aula segura, hazard sources and danger factors, trauma and injury prevention, recognising and avoiding danger, dangerous games, safe excursions and trips, finding a way out of danger, safety at home, making safe decisions, Ukraine G7 Health Safety and Wellbeing Shyian, Ukraine G5 Health Safety and Wellbeing Vasylenko
+
+## Turkey — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkey-health-placements.md. The Turkey book(s) stocked in this lesson: B4 of that file. Turkey is student-book stock, inside the acceptance count, in this lesson (teacher-guide books stocked here are evidence only, outside the count, as their book lines record). Records R1–R10 of the placements file are record-only Geography books tagged "health" in error (R1 secured, R2–R9 download-list records) and one UNREAD malformed record (R10), with 0 placements; nothing is stocked from them.
+
+
+**Book — Turkey B4 (student book):**
+## Book 4 — Health Knowledge & Traffic Culture (student book, Turkish)
+- Title as printed: Sağlık Bilgisi ve Trafik Kültürü Ders Kitabı (Ortaöğretim — elective, lise)
+- Grade: Secondary elective (Seçmeli; lise) (student/teacher: STUDENT)
+- Publisher: MEB Devlet Kitapları; year 2026; ISBN not legible in extracted front matter (MEB Yayınları No 10703)
+- PDF pages: 200 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 19 placements — 4 to existing lessons, 15 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- Turkey's own way: Turkey's one full health textbook joins health knowledge to traffic culture in a single elective — healthy person and society, healthy habits, adolescence, life-saving first aid, and a whole final theme on safe transport.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Sağlıklı ve Güvenli Yaşam: Risk Kontrol Tedbirleri — healthy and safe living: controlling risks at the source, substitution, engineering and administrative controls, and personal protective equipment (original string `staying-safe/risk-control-and-protective-equipment`) | Turkey, *Turkey Health & Traffic Culture* (Turkey Health & Traffic Culture), printed pp. 142, 144, 145 |
+
+Turkey's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the health slug registry (Part 2A / Part 2B) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Turkey's own way is content, as the book lines above record it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: avoiding accidents and staying safe, safe classroom, dangerous places and objects, glass windows ceiling lamps bookcases, electric cables and sockets, No tocar danger signs, El Salvador Ciencia Salud y Medio Ambiente 1, Un aula segura, hazard sources and danger factors, trauma and injury prevention, recognising and avoiding danger, dangerous games, safe excursions and trips, finding a way out of danger, safety at home, making safe decisions, Ukraine G7 Health Safety and Wellbeing Shyian, Ukraine G5 Health Safety and Wellbeing Vasylenko, risk control and protective equipment, Risk Kontrol Tedbirleri, Turkey Health & Traffic Culture

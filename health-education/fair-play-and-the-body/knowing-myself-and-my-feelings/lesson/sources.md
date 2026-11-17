@@ -1,8 +1,8 @@
 # Sources — Knowing Myself and My Feelings
 
-countries: Samoa, Timor-Leste, Bulgaria, Azerbaijan
+countries: Samoa, Timor-Leste, Bulgaria, Azerbaijan, Turkey
 
-**Acceptance count: taught in 3 countries.** Bulgaria is filed as student-book stock, inside the acceptance count, in this lesson. Samoa is filed as curriculum statement evidence only in this lesson — named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below).
+**Acceptance count: taught in 3 countries.** Bulgaria is filed as student-book stock, inside the acceptance count, in this lesson. Samoa is filed as curriculum statement evidence only in this lesson — named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below). Turkey is filed as teacher-guide evidence only in this lesson — Book 1 is a TEACHER guide, so Turkey is named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this Turkey row.
 
 **Book 1 — Samoa HPE Primary Curriculum Statement, Years 1–8 (curriculum statement, English):**
 - Title as printed: Health and Physical Education, Years 1–8, Primary School Curriculum
@@ -101,4 +101,26 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/azerbaijan-h
 
 Azerbaijan is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — all five Azerbaijan books are STUDENT books, so Azerbaijan is named in the countries line and provenance row(s) and the acceptance count rises from 2 to 3 countries. The Azerbaijan placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the slug registry (Part 2B for HELD-title-decision lines, Part 2A for descriptive slug strings; placements filed directly under this lesson's own slug, or under its canonical NEW string, are recorded as filed), and the original string is recorded in each provenance row above. Azerbaijan's own way is content, as the book lines above record it: health is taught inside the Fiziki Tərbiyə textbooks as opening theory chapters, including hardening the body and a sample self-control diary. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: knowing myself feelings, personal identity self-esteem, cultural spiritual beliefs values, social messages stereotyping media, personal strengths teenage challenges, Samoa Years 1–8 Curriculum, self-esteem self-worth body image what lowers confidence, resilience confidence, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, body image perfect figure in a short time discussion, Bulgaria Biology and Health Education Grade 8 Pedagog 6, Azerbaijan Fiziki Tərbiyə Grades 6-10, Georgian-language edition, hardening the body, self-control diary
+
+## Turkey — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkey-health-placements.md. The Turkey book(s) stocked in this lesson: B1 of that file. The Turkey book stocked in this lesson is a TEACHER guide, so Turkey is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. Records R1–R10 of the placements file are record-only Geography books tagged "health" in error (R1 secured, R2–R9 download-list records) and one UNREAD malformed record (R10), with 0 placements; nothing is stocked from them.
+
+
+**Book — Turkey B1 (teacher guide — evidence):**
+## Book 1 — Preschool Movement & Health TG (teacher guide, Turkish) — Health parts
+- Title as printed: Okul Öncesi Hareket ve Sağlık Alanı Öğretmen Kılavuz Kitabı
+- Grade: Preschool (okul öncesi) (student/teacher: TEACHER)
+- Publisher: MEB Devlet Kitapları; year 2026; ISBN 978-625-8867-30-5
+- PDF pages: 132 (cover/title page verified against the record title)
+- Verdict: COMPLETE — combined Movement & Health book; PE parts filed in turkey-pe-placements.md
+- Tally (Health file): 7 placements — 1 to an existing lesson, 6 NEW LESSON NEEDED
+- Turkey's own way: health for the youngest children is taught as daily-life play — hand washing, naming healthy foods, dressing for the weather, judging safe/dangerous, and knowing to call 112 in an emergency, including an earthquake drill course.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Kendimi Nasıl Hissediyorum? / Mutluyum, Kuvvetliyim — naming how I feel; feeling happy and strong (teacher guide — evidence) (original string `staying-safe/feelings-and-wellbeing-for-young-children`) | Turkey, *Turkey Preschool Movement & Health TG* (Turkey Preschool Movement & Health TG), printed pp. 36, 90 |
+
+Turkey's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the health slug registry (Part 2A / Part 2B) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Turkey's own way is content, as the book lines above record it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: knowing myself feelings, personal identity self-esteem, cultural spiritual beliefs values, social messages stereotyping media, personal strengths teenage challenges, Samoa Years 1–8 Curriculum, self-esteem self-worth body image what lowers confidence, resilience confidence, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, body image perfect figure in a short time discussion, Bulgaria Biology and Health Education Grade 8 Pedagog 6, Azerbaijan Fiziki Tərbiyə Grades 6-10, Georgian-language edition, hardening the body, self-control diary, feelings and wellbeing for young children, Kendimi Nasıl Hissediyorum, Mutluyum Kuvvetliyim, Turkey Preschool Movement & Health TG

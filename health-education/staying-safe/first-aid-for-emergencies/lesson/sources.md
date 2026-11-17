@@ -1,8 +1,8 @@
 # Sources — First Aid for Emergencies
 
-countries: Zambia, Ukraine
+countries: Zambia, Ukraine, Turkey
 
-**Acceptance count: taught in 1 country.** Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below).
+**Acceptance count: taught in 1 country.** Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Turkey is filed as teacher-guide evidence only in this lesson — Book 1 is a TEACHER guide, so Turkey is named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this Turkey row.
 
 **Book 1 — Health Teacher Training, Participants Manual 2025 (teacher training manual, English):**
 - Title as printed: Health Teacher Training — Participants Manual (LB)
@@ -59,4 +59,26 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/ukraine-heal
 
 Ukraine is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — Ukraine is named in the countries line and provenance row(s) and the acceptance count rises from 0 to 1 country. All three Ukraine placements in this lesson were filed under descriptive slug strings, resolved to this canonical lesson by registry Part 2A, and the original string is recorded in each provenance row above. Ukraine is this lesson's first student-book stock — the lesson previously stood on teacher training manual evidence only, at acceptance count 0. Ukraine's own way is content, as the book lines above record it: pre-medical aid is taught as a practicum a teenager performs for themselves and others, and the Grade 5 year ends on prevention before treatment. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: first aid for emergencies, ThinkMD, sick learner examination, child health referral system, refer a sick child, health facility, front-line care theory, Zambia Health Teacher Training Manual 2025, self-help and urgent aid, pre-medical aid after injury practicum, prevention over treatment, recognising illness by symptoms, measuring temperature, epidemic and pandemic behaviour, Ukraine G7 Health Safety and Wellbeing Shyian, Ukraine G5 Health Safety and Wellbeing Vasylenko
+
+## Turkey — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkey-health-placements.md. The Turkey book(s) stocked in this lesson: B1 of that file. The Turkey book stocked in this lesson is a TEACHER guide, so Turkey is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. Records R1–R10 of the placements file are record-only Geography books tagged "health" in error (R1 secured, R2–R9 download-list records) and one UNREAD malformed record (R10), with 0 placements; nothing is stocked from them.
+
+
+**Book — Turkey B1 (teacher guide — evidence):**
+## Book 1 — Preschool Movement & Health TG (teacher guide, Turkish) — Health parts
+- Title as printed: Okul Öncesi Hareket ve Sağlık Alanı Öğretmen Kılavuz Kitabı
+- Grade: Preschool (okul öncesi) (student/teacher: TEACHER)
+- Publisher: MEB Devlet Kitapları; year 2026; ISBN 978-625-8867-30-5
+- PDF pages: 132 (cover/title page verified against the record title)
+- Verdict: COMPLETE — combined Movement & Health book; PE parts filed in turkey-pe-placements.md
+- Tally (Health file): 7 placements — 1 to an existing lesson, 6 NEW LESSON NEEDED
+- Turkey's own way: health for the youngest children is taught as daily-life play — hand washing, naming healthy foods, dressing for the weather, judging safe/dangerous, and knowing to call 112 in an emergency, including an earthquake drill course.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Acil Durumda 112'yi Ara / Kim Yardıma Gelir? / Kaplumbağa Yardım İstiyor — calling 112 in an emergency and knowing who comes to help (teacher guide — evidence) (original string `staying-safe/calling-for-help-112`) | Turkey, *Turkey Preschool Movement & Health TG* (Turkey Preschool Movement & Health TG), printed pp. 30, 74, 117 |
+
+Turkey's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the health slug registry (Part 2A / Part 2B) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Turkey's own way is content, as the book lines above record it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: first aid for emergencies, ThinkMD, sick learner examination, child health referral system, refer a sick child, health facility, front-line care theory, Zambia Health Teacher Training Manual 2025, self-help and urgent aid, pre-medical aid after injury practicum, prevention over treatment, recognising illness by symptoms, measuring temperature, epidemic and pandemic behaviour, Ukraine G7 Health Safety and Wellbeing Shyian, Ukraine G5 Health Safety and Wellbeing Vasylenko, calling for help 112, Acil Durumda 112'yi Ara, who comes to help, Turkey Preschool Movement & Health TG

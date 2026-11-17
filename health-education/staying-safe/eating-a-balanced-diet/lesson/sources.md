@@ -1,8 +1,8 @@
 # Sources — Eating a Balanced Diet
 
-countries: Turkmenistan, China, El Salvador, Oman, Zambia, Samoa, Timor-Leste, Bulgaria, Honduras, Philippines, Greece
+countries: Turkmenistan, China, El Salvador, Oman, Zambia, Samoa, Timor-Leste, Bulgaria, Honduras, Philippines, Greece, Turkey
 
-**Acceptance count: taught in 8 countries.** Honduras is filed as student-book stock, inside the acceptance count, in this lesson (see its Honduras section below). Bulgaria is filed as student-book stock, inside the acceptance count, in this lesson. Turkmenistan, China and El Salvador are filed as student-book stock, inside the acceptance count, in this lesson. Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count (still taught in 3 countries). Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below).
+**Acceptance count: taught in 9 countries.** Honduras is filed as student-book stock, inside the acceptance count, in this lesson (see its Honduras section below). Bulgaria is filed as student-book stock, inside the acceptance count, in this lesson. Turkmenistan, China and El Salvador are filed as student-book stock, inside the acceptance count, in this lesson. Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count (still taught in 3 countries). Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Books 3, 4 and 5 are STUDENT books; Book 1, the Preschool Movement & Health teacher guide, is filed as teacher-guide evidence only, outside the count.
 
 **Book 1 — Bedenterbiýe (Physical Education) (student book — study guide for higher schools, Turkmen) — Health parts only:**
 - Title as printed: Bedenterbiýe — Ýokary okuw mekdepleri üçin okuw gollanmasy (Physical Education — a study guide for higher schools) (full header in turkmenistan-pe-placements.md, Book 1)
@@ -221,4 +221,57 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/greece-healt
 
 Greece is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — both Greece books are STUDENT books, so Greece is named in the countries line and provenance row(s) and the acceptance count rises from 7 to 8 countries. The Greece placement(s) in this lesson were filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson by registry Part 2B (HELD description as recorded in the provenance row), and the original string is recorded in each provenance row above. Greece's own way is content, as the book line above records it: pupils score their own eating habits, and breakfast is taught as breaking the night's fast. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: eating a balanced diet, foundations of proper nutrition, nutrition regime, main composition of food, hygiene characterisation of food products, Turkmenistan Bedenterbiýe, nutrition and healthy eating, Chinese dietary guidelines, healthy weight, nutrition for exercise, drinking water well, China Senior High PEP PE & Health, foods of animal and plant origin, pupusas, chipilín, flor de izote, fresh and safe food, sweets and junk food golosinas, obesity tooth decay, El Salvador Ciencia Salud y Medio Ambiente 1, food groups, healthy food menu, healthy food for the body and for sport, Health Culture and Awareness, Oman G1 Teacher Guide, nutrition, Zambia six food groups, balanced diet, Zambia Health Teacher Training Manual 2025, food and nutrition food groups energy input output local imported processed whole foods breast milk, Samoa Years 1–8 Curriculum, what nutrition is health data, iron folic acid vitamin B12 blood, healthy eating colours of foods cooking oil sugar salt analysing my diet, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, food and nutrition practical lesson, Bulgaria Biology and Health Education Grade 8 Pedagog 6, healthy balanced diet for growing active young people, goals of a healthy diet, balancing energy in and out, Honduras Telebásica Grade 8, foods from plants and animals, Pagkaing mula sa Halaman at Hayop, nutritious and non-nutritious foods, Masustansiya, eating at the right times, good manners at the table, Filipino Food Guide Pyramid, healthful eating guidelines for adolescents, Philippines Grade 1 PE and Health LM, Philippines Grade 7 Health LM, nutrition and health, Διατροφή και υγεία, foods freely with measure in small amounts and rarely, breakfast after the night's fast, scoring your own eating habits, Greece Grades 5-6 Fysiki Agogi E-ST
+
+## Turkey — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkey-health-placements.md. The Turkey book(s) stocked in this lesson: B1, B3, B4, B5 of that file. Turkey is student-book stock, inside the acceptance count, in this lesson (teacher-guide books stocked here are evidence only, outside the count, as their book lines record). Records R1–R10 of the placements file are record-only Geography books tagged "health" in error (R1 secured, R2–R9 download-list records) and one UNREAD malformed record (R10), with 0 placements; nothing is stocked from them.
+
+
+**Book — Turkey B1 (teacher guide — evidence):**
+## Book 1 — Preschool Movement & Health TG (teacher guide, Turkish) — Health parts
+- Title as printed: Okul Öncesi Hareket ve Sağlık Alanı Öğretmen Kılavuz Kitabı
+- Grade: Preschool (okul öncesi) (student/teacher: TEACHER)
+- Publisher: MEB Devlet Kitapları; year 2026; ISBN 978-625-8867-30-5
+- PDF pages: 132 (cover/title page verified against the record title)
+- Verdict: COMPLETE — combined Movement & Health book; PE parts filed in turkey-pe-placements.md
+- Tally (Health file): 7 placements — 1 to an existing lesson, 6 NEW LESSON NEEDED
+- Turkey's own way: health for the youngest children is taught as daily-life play — hand washing, naming healthy foods, dressing for the weather, judging safe/dangerous, and knowing to call 112 in an emergency, including an earthquake drill course.
+
+**Book — Turkey B3 (student book):**
+## Book 3 — PE, Game & Music Grade 3, Music Primary School (student book, Turkish) — Health part
+- Title as printed: Beden Eğitimi, Oyun ve Müzik 3. Sınıf Ders Kitabı (Müzik İlkokulu)
+- Grade: 3 (student/teacher: STUDENT)
+- Publisher: MEB; year 2026; ISBN not legible in extracted front matter (MEB Yayınları No 10802)
+- PDF pages: 144 (cover/title page verified against the record title)
+- Verdict: COMPLETE — PE parts filed in turkey-pe-placements.md; this header covers only the book's healthy-eating section
+- Tally (Health file): 1 placement — 0 to existing lessons, 1 NEW LESSON NEEDED
+
+**Book — Turkey B4 (student book):**
+## Book 4 — Health Knowledge & Traffic Culture (student book, Turkish)
+- Title as printed: Sağlık Bilgisi ve Trafik Kültürü Ders Kitabı (Ortaöğretim — elective, lise)
+- Grade: Secondary elective (Seçmeli; lise) (student/teacher: STUDENT)
+- Publisher: MEB Devlet Kitapları; year 2026; ISBN not legible in extracted front matter (MEB Yayınları No 10703)
+- PDF pages: 200 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 19 placements — 4 to existing lessons, 15 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- Turkey's own way: Turkey's one full health textbook joins health knowledge to traffic culture in a single elective — healthy person and society, healthy habits, adolescence, life-saving first aid, and a whole final theme on safe transport.
+
+**Book — Turkey B5 (student book):**
+## Book 5 — PE, Game & Music Grade 1, Music Primary School (student book, Turkish) — Health part
+- Title as printed: Beden Eğitimi, Oyun ve Müzik 1. Sınıf Ders Kitabı (Müzik İlkokulu)
+- Grade: 1 (student/teacher: STUDENT)
+- Publisher: MEB; year 2026; ISBN not legible in extracted front matter
+- PDF pages: 180 (cover/title page verified against the record title)
+- Verdict: COMPLETE — PE parts filed in turkey-pe-placements.md; this header covers only the nutrition section
+- Tally (Health file): 1 placement — 0 to existing lessons, 1 NEW LESSON NEEDED
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Sağlıklı Besinleri Tanıyorum / Renkli Sağlık Tabağım / Besin Pazarı / Pazardan Tabağa / Meyve Bahçesi — recognising healthy foods and building a colourful healthy plate, from market to table (teacher guide — evidence) (original string `staying-safe/healthy-eating-for-young-children`) | Turkey, *Turkey Preschool Movement & Health TG* (Turkey Preschool Movement & Health TG), printed pp. 38, 40, 46, 56, 70 |
+| Turkey — Sağlıklı Beslenme (Theme 1: Hareket Et, Sağlıklı Beslen) — eating healthily, taught beside movement for grade 3 (original string `staying-safe/healthy-eating-for-young-children`) | Turkey, *Turkey G3 PE Game & Music (Music PS)* (Turkey G3 PE Game & Music (Music PS)), printed p. 38 |
+| Turkey — Beslenme — nutrition: principles of healthy eating, weight management, eating behaviour and disorders, and obesity (original string `staying-safe/healthy-eating-and-weight`) | Turkey, *Turkey Health & Traffic Culture* (Turkey Health & Traffic Culture), printed pp. 80, 82, 83 |
+| Turkey — Dengeli ve Düzenli Beslenme — balanced and regular eating for grade 1 (original string `staying-safe/healthy-eating-for-young-children`) | Turkey, *Turkey G1 PE Game & Music (Music PS)* (Turkey G1 PE Game & Music (Music PS)), printed p. 56 |
+
+Turkey's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the health slug registry (Part 2A / Part 2B) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Turkey's own way is content, as the book lines above record it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: eating a balanced diet, foundations of proper nutrition, nutrition regime, main composition of food, hygiene characterisation of food products, Turkmenistan Bedenterbiýe, nutrition and healthy eating, Chinese dietary guidelines, healthy weight, nutrition for exercise, drinking water well, China Senior High PEP PE & Health, foods of animal and plant origin, pupusas, chipilín, flor de izote, fresh and safe food, sweets and junk food golosinas, obesity tooth decay, El Salvador Ciencia Salud y Medio Ambiente 1, food groups, healthy food menu, healthy food for the body and for sport, Health Culture and Awareness, Oman G1 Teacher Guide, nutrition, Zambia six food groups, balanced diet, Zambia Health Teacher Training Manual 2025, food and nutrition food groups energy input output local imported processed whole foods breast milk, Samoa Years 1–8 Curriculum, what nutrition is health data, iron folic acid vitamin B12 blood, healthy eating colours of foods cooking oil sugar salt analysing my diet, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, food and nutrition practical lesson, Bulgaria Biology and Health Education Grade 8 Pedagog 6, healthy balanced diet for growing active young people, goals of a healthy diet, balancing energy in and out, Honduras Telebásica Grade 8, foods from plants and animals, Pagkaing mula sa Halaman at Hayop, nutritious and non-nutritious foods, Masustansiya, eating at the right times, good manners at the table, Filipino Food Guide Pyramid, healthful eating guidelines for adolescents, Philippines Grade 1 PE and Health LM, Philippines Grade 7 Health LM, nutrition and health, Διατροφή και υγεία, foods freely with measure in small amounts and rarely, breakfast after the night's fast, scoring your own eating habits, Greece Grades 5-6 Fysiki Agogi E-ST, healthy eating for young children, colourful healthy plate, Sağlıklı Besinleri Tanıyorum, balanced and regular eating, Dengeli ve Düzenli Beslenme, nutrition and weight, Beslenme, Turkey Health & Traffic Culture

@@ -725,3 +725,80 @@ Fiziki Tərbiyə textbooks as opening theory chapters —
 knowing your own body, how exercise acts on the body's main
 systems, hardening with air, sun and water, hygiene for
 exercise, harmful habits, and a sample self-control diary.
+
+**Health expansion — Turkey — BUILT 2026-11-16:** 34 placements
+stocked — 33 into existing lessons and 1 as a new lesson
+(Using Medicines Safely) — bringing this course to
+**49 lessons**. From Book 1, *Okul Öncesi Hareket ve Sağlık
+Alanı Öğretmen Kılavuz Kitabı* (Preschool Movement & Health
+teacher guide, MEB Devlet Kitapları, 2026, COMPLETE), 7
+placements stocked as teacher-guide evidence only, outside
+the acceptance counts (Hygiene for Sport, Eating a Balanced
+Diet, Knowing Myself and My Feelings, Staying Safe in
+Disasters, First Aid for Emergencies, Healthy Habits Every
+Day, Protecting Myself from Abuse). From Book 2,
+*Foundations of PE & Sport Grade 7 (Sports Middle School)*
+(student book, MEB, 2026, COMPLETE), 1 placement stocked
+(Preventing Sports Injuries and First Aid). From Book 3,
+*PE, Game & Music Grade 3 (Music Primary School)* (student
+book, MEB, 2026, COMPLETE), 1 placement stocked (Eating a
+Balanced Diet). From Book 4, *Sağlık Bilgisi ve Trafik
+Kültürü / Health Knowledge & Traffic Culture* (secondary
+elective student book, MEB Devlet Kitapları, 2026,
+COMPLETE), 19 placements stocked (What Health Is ×2,
+Health Services and Health Workers, Hygiene for Sport,
+Preventing Common Diseases, Using Medicines Safely — the
+new lesson, Why Exercise Keeps You Healthy, Sleep and Rest,
+Eating a Balanced Diet, Food Hygiene and Safe Cooking,
+Puberty and Growing Up, Mental Health and Wellbeing, Saying
+No to Drugs, Alcohol and Tobacco, Preventing Sports
+Injuries and First Aid, Avoiding Accidents and Staying Safe,
+Paying Attention and Crossing the Road Safely ×2, Staying
+Safe as a Passenger ×2). From Book 5, *PE, Game & Music
+Grade 1 (Music Primary School)* (student book, MEB, 2026,
+COMPLETE), 1 placement stocked (Eating a Balanced Diet).
+From Book 6, *PE, Game & Music Grade 2 (Music Primary
+School)* (student book, MEB, 2025/2026, COMPLETE), 1
+placement stocked (Staying Safe While Exercising). From
+Book 7, *Foundations of PE & Sport Grade 6 (Sports Middle
+School)* (student book, MEB, 2026, COMPLETE), 2 placements
+stocked (The Body Systems, Your Body in Exercise). From
+Book 8, *Foundations of PE & Sport Grade 6 Differentiation
+Activities Teacher Guide* (teacher guide, MEB Devlet
+Kitapları, 2026, COMPLETE), 1 placement stocked as
+teacher-guide evidence only (The Body Systems). From Book
+9, *Foundations of PE & Sport Grade 7 Differentiation
+Activities Teacher Guide* (teacher guide, MEB Devlet
+Kitapları, 2026, COMPLETE), 1 placement stocked as
+teacher-guide evidence only (Preventing Sports Injuries and
+First Aid). The student books are student-book stock, inside
+the acceptance counts (each lesson touched only by student
+books, or by a student book alongside a teacher guide, rose
+by 1 country; the new lesson stands at acceptance count 1;
+lessons touched only by teacher guides — Knowing Myself and
+My Feelings, Staying Safe in Disasters, First Aid for
+Emergencies, Healthy Habits Every Day, Protecting Myself
+from Abuse — are unchanged in count). PE-BOUND EXCLUSIONS:
+3 of the file's 37 placements were NOT stocked in Health
+because the registry resolves them to a PE-course lesson —
+Book 2's Sporcu Beslenmesi (athlete nutrition, printed
+pp. 75, 79) and Enerji Tüketimi / Sporcu Beslenmesinin Önemi
+/ Sağlıklı Yaşam Alışkanlıkları (printed pp. 92, 98, 104),
+and Book 9's Unit 3 differentiated Sporcu Beslenmesi
+activities, all → PE canonical
+`fitness-and-stretching/sports-nutrition-and-hydration`.
+Verified by git grep on origin/main: those Health-file
+Turkey placements are NOT stocked in that PE lesson (its
+Turkey rows are from turkey-pe-placements.md, a different
+book — the Grade 10 PE teacher guide) — the coordinator
+will dispatch a PE fix-up; the placements are not silently
+dropped. Records R1–R10 of the placements file are
+record-only Geography books tagged "health" in error (R1
+secured, R2–R9 download-list records) and one UNREAD
+malformed record (R10), with 0 placements, nothing stocked
+from them. Turkey's own ways are recorded as content in the
+book lines: health for the youngest children taught as
+daily-life play (hand washing, healthy foods, dressing for
+the weather, safe/dangerous, calling 112, an earthquake
+drill course), and Turkey's one full health textbook joining
+health knowledge to traffic culture in a single elective.

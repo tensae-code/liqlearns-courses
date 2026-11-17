@@ -1,8 +1,8 @@
 # Sources — Your Body in Exercise
 
-countries: Jordan, Haiti, Rwanda, Oman, Honduras, Greece, Azerbaijan
+countries: Jordan, Haiti, Rwanda, Oman, Honduras, Greece, Azerbaijan, Turkey
 
-**Acceptance count: taught in 3 countries.** Jordan is filed as student-book stock, inside the acceptance count, in this lesson. Haiti is filed as teacher-programme evidence only, outside the acceptance count. Rwanda is filed as teacher-guide evidence only, outside the acceptance count. Honduras is added as teacher-guide evidence only (see its Honduras section below), outside the acceptance count. Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below).
+**Acceptance count: taught in 4 countries.** Jordan is filed as student-book stock, inside the acceptance count, in this lesson. Haiti is filed as teacher-programme evidence only, outside the acceptance count. Rwanda is filed as teacher-guide evidence only, outside the acceptance count. Honduras is added as teacher-guide evidence only (see its Honduras section below), outside the acceptance count. Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 7, *Foundations of PE & Sport Grade 6*, is a STUDENT book.
 
 **Book 5 — التربية الرياضية — الصف السابع — الفصل الدراسي الثاني (Physical Education, Grade Seven, Second Semester) (student book, Arabic):**
 - Title as printed: التربية الرياضية — الصف السابع — الفصل الدراسي الثاني (Physical Education, Grade Seven, Second Semester)
@@ -147,4 +147,25 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/azerbaijan-h
 
 Azerbaijan is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — all five Azerbaijan books are STUDENT books, so Azerbaijan is named in the countries line and provenance row(s) and the acceptance count rises from 2 to 3 countries. The Azerbaijan placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the slug registry (Part 2B for HELD-title-decision lines, Part 2A for descriptive slug strings; placements filed directly under this lesson's own slug, or under its canonical NEW string, are recorded as filed), and the original string is recorded in each provenance row above. Azerbaijan's own way is content, as the book lines above record it: health is taught inside the Fiziki Tərbiyə textbooks as opening theory chapters, including hardening the body and a sample self-control diary. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: your body in exercise, sport and the respiratory system, respiratory organs, gas exchange, alveoli, oxygen to the blood, asthma risk, breathing exercises, Health Concepts and Habits, Jordan NCCD Physical Education Grade 7, body responses to exercise, rising heart rate, breathing rate, sweating, fatigue, scientific knowledge inside EPS, Haiti EPS Programme Grades 10-13, MENFP, role of physical exercise for the circulatory and respiratory systems, heart circulation and breathing, Rwanda Grade 5 PE Teacher Guide MK Publishers, changes in the body during sports activity, faster heart, faster breathing, sweating, measuring the pulse, Oman G2 Teacher Guide, muscle fatigue chronic fatigue syndrome continuous maximum demand, Honduras Telebásica Grade 7 teacher guide, I measure my pulse, Μετράω τον σφυγμό μου, finding and counting your pulse, resting rate 60-100 beats a minute, Greece Grades 5-6 Fysiki Agogi E-ST, Azerbaijan Fiziki Tərbiyə Grades 6-10, Georgian-language edition, hardening the body, self-control diary
+
+## Turkey — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkey-health-placements.md. The Turkey book(s) stocked in this lesson: B7 of that file. Turkey is student-book stock, inside the acceptance count, in this lesson (teacher-guide books stocked here are evidence only, outside the count, as their book lines record). Records R1–R10 of the placements file are record-only Geography books tagged "health" in error (R1 secured, R2–R9 download-list records) and one UNREAD malformed record (R10), with 0 placements; nothing is stocked from them.
+
+
+**Book — Turkey B7 (student book):**
+## Book 7 — Foundations of PE & Sport Grade 6, Sports Middle School (student book, Turkish) — body unit
+- Title as printed: Beden Eğitimi ve Sporun Temelleri 6. Sınıf Ders Kitabı (Spor Ortaokulu)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: MEB; year 2026; ISBN not legible in extracted front matter (MEB Yayınları No 10543)
+- PDF pages: 178 (cover/title page verified against the record title)
+- Verdict: COMPLETE — PE units filed in turkey-pe-placements.md; this header covers only Unit 1, filed under the HELD pattern (body-in-exercise material fitting neither Health title)
+- Tally (Health file): 2 placements — 0 to existing lessons, 2 NEW LESSON NEEDED (both HELD-title-decision)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Egzersizin Vücuda Etkisini Analiz Etme — analysing what exercise does to the body (filed as HELD-title-decision; resolved by registry Part 2B to this lesson) (original string `staying-safe/HELD-title-decision`) | Turkey, *Turkey G6 Foundations of PE & Sport* (Turkey G6 Foundations of PE & Sport), printed p. 43 |
+
+Turkey's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the health slug registry (Part 2A / Part 2B) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Turkey's own way is content, as the book lines above record it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: your body in exercise, sport and the respiratory system, respiratory organs, gas exchange, alveoli, oxygen to the blood, asthma risk, breathing exercises, Health Concepts and Habits, Jordan NCCD Physical Education Grade 7, body responses to exercise, rising heart rate, breathing rate, sweating, fatigue, scientific knowledge inside EPS, Haiti EPS Programme Grades 10-13, MENFP, role of physical exercise for the circulatory and respiratory systems, heart circulation and breathing, Rwanda Grade 5 PE Teacher Guide MK Publishers, changes in the body during sports activity, faster heart, faster breathing, sweating, measuring the pulse, Oman G2 Teacher Guide, muscle fatigue chronic fatigue syndrome continuous maximum demand, Honduras Telebásica Grade 7 teacher guide, I measure my pulse, Μετράω τον σφυγμό μου, finding and counting your pulse, resting rate 60-100 beats a minute, Greece Grades 5-6 Fysiki Agogi E-ST, Azerbaijan Fiziki Tərbiyə Grades 6-10, Georgian-language edition, hardening the body, self-control diary, analysing what exercise does to the body, Egzersizin Vücuda Etkisini Analiz Etme, Turkey G6 Foundations of PE & Sport

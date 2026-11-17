@@ -1,8 +1,8 @@
 # Sources — The Body Systems
 
-countries: Croatia, Honduras, Myanmar, Greece, Azerbaijan
+countries: Croatia, Honduras, Myanmar, Greece, Azerbaijan, Turkey
 
-**Acceptance count: taught in 5 countries.** Croatia is filed as student-book stock, inside the acceptance count, in this lesson — as a publisher SAMPLE read, exactly as filed (see the book line below). Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guide stocked here is teacher-guide evidence only, outside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count. Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below).
+**Acceptance count: taught in 6 countries.** Croatia is filed as student-book stock, inside the acceptance count, in this lesson — as a publisher SAMPLE read, exactly as filed (see the book line below). Honduras is added as student-book stock (see its Honduras section below), inside the acceptance count; the Honduras teacher guide stocked here is teacher-guide evidence only, outside the acceptance count. Myanmar is added as student-book stock (see its Myanmar section below), inside the acceptance count. Greece is filed as student-book stock, inside the acceptance count, in this lesson (see its Greece section below). Azerbaijan is filed as student-book stock, inside the acceptance count, in this lesson (see its Azerbaijan section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 7, *Foundations of PE & Sport Grade 6*, is a STUDENT book; Book 8, the Grade 6 Differentiation Activities teacher guide, is filed as teacher-guide evidence only, outside the count.
 
 **Book 1 — Čovjek i zdravlje (student book, Croatian):**
 - Title as printed: Čovjek i zdravlje — Udžbenik iz biologije za strukovne škole (Biology textbook for vocational schools)
@@ -116,4 +116,35 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/azerbaijan-h
 
 Azerbaijan is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — all five Azerbaijan books are STUDENT books, so Azerbaijan is named in the countries line and provenance row(s) and the acceptance count rises from 4 to 5 countries. The Azerbaijan placement(s) in this lesson were filed under the original string(s) recorded in each provenance row, resolved to this lesson by the slug registry (Part 2B for HELD-title-decision lines, Part 2A for descriptive slug strings; placements filed directly under this lesson's own slug, or under its canonical NEW string, are recorded as filed), and the original string is recorded in each provenance row above. Azerbaijan's own way is content, as the book lines above record it: health is taught inside the Fiziki Tərbiyə textbooks as opening theory chapters, including hardening the body and a sample self-control diary. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: body systems, cells tissues organs organ systems, blood red cells white cells platelets, transport of substances, homeostasis, Croatia, Čovjek i zdravlje, Mi cuerpo es una máquina perfecta, structure of the human body, cardiovascular lymphatic skeletal articular systems, Honduras Telebásica Grades 7, body systems in sport, respiratory circulatory muscular nervous systems, Myanmar PE Textbook Grade 10, ကာယပညာ, muscles bones and movement, Μύες οστά και κίνηση, force makes things move, stopping exercise ages the body faster, Greece Grades 5-6 Fysiki Agogi E-ST, Azerbaijan Fiziki Tərbiyə Grades 6-10, Georgian-language edition, hardening the body, self-control diary
+
+## Turkey — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkey-health-placements.md. The Turkey book(s) stocked in this lesson: B7, B8 of that file. Turkey is student-book stock, inside the acceptance count, in this lesson (teacher-guide books stocked here are evidence only, outside the count, as their book lines record). Records R1–R10 of the placements file are record-only Geography books tagged "health" in error (R1 secured, R2–R9 download-list records) and one UNREAD malformed record (R10), with 0 placements; nothing is stocked from them.
+
+
+**Book — Turkey B7 (student book):**
+## Book 7 — Foundations of PE & Sport Grade 6, Sports Middle School (student book, Turkish) — body unit
+- Title as printed: Beden Eğitimi ve Sporun Temelleri 6. Sınıf Ders Kitabı (Spor Ortaokulu)
+- Grade: 6 (student/teacher: STUDENT)
+- Publisher: MEB; year 2026; ISBN not legible in extracted front matter (MEB Yayınları No 10543)
+- PDF pages: 178 (cover/title page verified against the record title)
+- Verdict: COMPLETE — PE units filed in turkey-pe-placements.md; this header covers only Unit 1, filed under the HELD pattern (body-in-exercise material fitting neither Health title)
+- Tally (Health file): 2 placements — 0 to existing lessons, 2 NEW LESSON NEEDED (both HELD-title-decision)
+
+**Book — Turkey B8 (teacher guide — evidence):**
+## Book 8 — Differentiation Activities TG, Foundations of PE & Sport Grade 6 (teacher guide, Turkish) — body unit
+- Title as printed: Beden Eğitimi ve Sporun Temelleri 6. Sınıf Farklılaştırma Etkinlikleri Öğretmen Kılavuz Kitabı (Spor Ortaokulu)
+- Grade: 6 (student/teacher: TEACHER)
+- Publisher: MEB Devlet Kitapları (supplementary/resource series); year 2026
+- PDF pages: 52 (cover/title page verified; record size matches exactly)
+- Verdict: COMPLETE — PE units filed in turkey-pe-placements.md; this header covers only Unit 1, filed under the HELD pattern
+- Tally (Health file): 1 placement — 0 to existing lessons, 1 NEW LESSON NEEDED (HELD-title-decision)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — İnsan Vücudunun Temel Anatomisi: Temel Anatomi ve Fizyolojiyi Anlama — the basic anatomy and physiology of the human body (filed as HELD-title-decision; resolved by registry Part 2B to this lesson) (original string `staying-safe/HELD-title-decision`) | Turkey, *Turkey G6 Foundations of PE & Sport* (Turkey G6 Foundations of PE & Sport), printed p. 12 |
+| Turkey — Unit 1 differentiated activities: İnsan Vücudunun Temel Anatomisi — differentiated activities for the body's basic anatomy (teacher guide — evidence) (filed as HELD-title-decision; resolved by registry Part 2B to this lesson) (original string `staying-safe/HELD-title-decision`) | Turkey, *Turkey G6 Foundations Differentiation TG* (Turkey G6 Foundations Differentiation TG), no printed page given in the placements file |
+
+Turkey's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the health slug registry (Part 2A / Part 2B) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Turkey's own way is content, as the book lines above record it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: body systems, cells tissues organs organ systems, blood red cells white cells platelets, transport of substances, homeostasis, Croatia, Čovjek i zdravlje, Mi cuerpo es una máquina perfecta, structure of the human body, cardiovascular lymphatic skeletal articular systems, Honduras Telebásica Grades 7, body systems in sport, respiratory circulatory muscular nervous systems, Myanmar PE Textbook Grade 10, ကာယပညာ, muscles bones and movement, Μύες οστά και κίνηση, force makes things move, stopping exercise ages the body faster, Greece Grades 5-6 Fysiki Agogi E-ST, Azerbaijan Fiziki Tərbiyə Grades 6-10, Georgian-language edition, hardening the body, self-control diary, basic anatomy and physiology, İnsan Vücudunun Temel Anatomisi, Turkey G6 Foundations of PE & Sport

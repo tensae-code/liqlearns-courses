@@ -1,8 +1,8 @@
 # Sources — Sleep and Rest
 
-countries: Timor-Leste, Philippines, Ukraine
+countries: Timor-Leste, Philippines, Ukraine, Turkey
 
-**Acceptance count: taught in 3 countries.** Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below).
+**Acceptance count: taught in 4 countries.** Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book.
 
 **Book 1 — Saúde e Bem-Estar 7, Manual do aluno (student book, Portuguese/Tetum):**
 - Title as printed: Saúde e Bem-Estar / Saúde no Rahun-Di'ak 7 — Manual do aluno / Manuál ba estudante
@@ -73,4 +73,26 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/ukraine-heal
 
 Ukraine is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — Ukraine is named in the countries line and provenance row(s) and the acceptance count rises from 2 to 3 countries. The two Ukraine placements in this lesson were filed under the strings recorded in the provenance rows — one descriptive slug string resolved to this canonical lesson by registry Part 2A, and one HELD-title-decision line resolved by registry Part 2B (HELD description as recorded in the provenance row). Ukraine's own way is content, as the book lines above record it: the Grade 5 book teaches food and sleep together as what decides health, and active rest as what the body needs. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: sleep and rest, social media and sleep, sleep hygiene, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, sleep and rest for health, Ang Aking Pagtulog, sleeping and waking early, 11 hours sleep, clean bedding, Philippines Grade 1 PE and Health LM, food and sleep decide health, active rest, Ukraine G5 Health Safety and Wellbeing Vasylenko
+
+## Turkey — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkey-health-placements.md. The Turkey book(s) stocked in this lesson: B4 of that file. Turkey is student-book stock, inside the acceptance count, in this lesson (teacher-guide books stocked here are evidence only, outside the count, as their book lines record). Records R1–R10 of the placements file are record-only Geography books tagged "health" in error (R1 secured, R2–R9 download-list records) and one UNREAD malformed record (R10), with 0 placements; nothing is stocked from them.
+
+
+**Book — Turkey B4 (student book):**
+## Book 4 — Health Knowledge & Traffic Culture (student book, Turkish)
+- Title as printed: Sağlık Bilgisi ve Trafik Kültürü Ders Kitabı (Ortaöğretim — elective, lise)
+- Grade: Secondary elective (Seçmeli; lise) (student/teacher: STUDENT)
+- Publisher: MEB Devlet Kitapları; year 2026; ISBN not legible in extracted front matter (MEB Yayınları No 10703)
+- PDF pages: 200 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 19 placements — 4 to existing lessons, 15 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- Turkey's own way: Turkey's one full health textbook joins health knowledge to traffic culture in a single elective — healthy person and society, healthy habits, adolescence, life-saving first aid, and a whole final theme on safe transport.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Uyku Düzeni ve Sağlık — sleep patterns and health: the sleep cycle and sleep hygiene (original string `staying-safe/sleep-and-health`) | Turkey, *Turkey Health & Traffic Culture* (Turkey Health & Traffic Culture), printed pp. 76, 77, 78 |
+
+Turkey's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the health slug registry (Part 2A / Part 2B) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Turkey's own way is content, as the book lines above record it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: sleep and rest, social media and sleep, sleep hygiene, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, sleep and rest for health, Ang Aking Pagtulog, sleeping and waking early, 11 hours sleep, clean bedding, Philippines Grade 1 PE and Health LM, food and sleep decide health, active rest, Ukraine G5 Health Safety and Wellbeing Vasylenko, sleep and health, Uyku Düzeni ve Sağlık, sleep cycle, sleep hygiene, Turkey Health & Traffic Culture

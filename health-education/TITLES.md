@@ -272,3 +272,31 @@ Bekh & Vorontsova G5–G8 Russian editions; Boychenko et al.
 G9 2017; Polishchuk G8 2016) with 0 placements, nothing
 stocked from them, and no other edition substituted.
 
+The Health expansion then added (Turkey): **Using Medicines
+Safely** (`staying-safe/using-medicines-safely`) — 1 new
+lesson, bringing this course to 49 lessons. A further 33
+Turkey placements were stocked into existing lessons
+(Eating a Balanced Diet ×4, Preventing Sports Injuries and
+First Aid ×3, What Health Is ×2, Paying Attention and
+Crossing the Road Safely ×2, Staying Safe as a Passenger
+×2, The Body Systems ×2, Hygiene for Sport ×2, Knowing
+Myself and My Feelings, Staying Safe in Disasters, First Aid
+for Emergencies, Healthy Habits Every Day, Protecting
+Myself from Abuse, Health Services and Health Workers,
+Preventing Common Diseases, Sleep and Rest, Food Hygiene
+and Safe Cooking, Puberty and Growing Up, Mental Health and
+Wellbeing, Saying No to Drugs, Alcohol and Tobacco, Avoiding
+Accidents and Staying Safe, Staying Safe While Exercising,
+Why Exercise Keeps You Healthy, Your Body in Exercise) —
+the student books as student-book stock, inside the
+acceptance counts, and the teacher guides (Preschool
+Movement & Health TG; the Grade 6 and Grade 7 Differentiation
+Activities TGs) as teacher-guide evidence only, outside the
+counts. Three Turkey placements (athlete nutrition ×3, from
+the Grade 7 Foundations student book and the Grade 7
+Differentiation TG) resolve to the PE course's Sports
+Nutrition and Hydration lesson and were excluded here; they
+are not yet stocked in PE either (verified by git grep on
+origin/main — see CURRICULUM.md). Records R1–R10 are
+record-only Geography books tagged "health" in error and
+one UNREAD malformed record, with 0 placements.

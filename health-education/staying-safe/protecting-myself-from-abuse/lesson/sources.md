@@ -1,8 +1,8 @@
 # Sources — Protecting Myself from Abuse
 
-countries: Zambia, Samoa
+countries: Zambia, Samoa, Turkey
 
-**Acceptance count: taught in 0 countries.** Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson.
+**Acceptance count: taught in 0 countries.** Zambia is filed as teacher training manual evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Turkey is filed as teacher-guide evidence only in this lesson — Book 1 is a TEACHER guide, so Turkey is named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this Turkey row.
 
 **Book 1 — Health Teacher Training, Participants Manual 2025 (teacher training manual, English):**
 - Title as printed: Health Teacher Training — Participants Manual (LB)
@@ -40,4 +40,26 @@ This is a canonical NEW lesson (slug-registry Part 1: `staying-safe/protecting-m
 
 Samoa is added as curriculum-statement / teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — both Samoa books are TEACHER books (Book 1 a curriculum statement for teachers, Book 2 a teacher guide), so Samoa is named in the countries line and provenance row(s) but the acceptance count is unchanged (still taught in 0 countries). The Samoa placement was filed under the original string `staying-safe/protecting-yourself-from-abuse`, resolved to this canonical lesson `staying-safe/protecting-myself-from-abuse` by registry Part 2A, and the original string is recorded in the provenance row above. Samoa's own way is content, as the book line(s) above record it: protection teaching names Samoa's own sasa — physical abuse is taught as how to avoid sasa, with neglect named as a form of abuse and how and where to get help.
 
-Searchable tags: protecting myself from abuse, corporal punishment, positive discipline, gender-based violence, child abuse, protect and report, ending child marriage ECM, keeping girls in school, Zambia Health Teacher Training Manual 2025, abuse sasa neglect types of abuse how and where to get help, Samoa Years 1–8 Curriculum
+
+## Turkey — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkey-health-placements.md. The Turkey book(s) stocked in this lesson: B1 of that file. The Turkey book stocked in this lesson is a TEACHER guide, so Turkey is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. Records R1–R10 of the placements file are record-only Geography books tagged "health" in error (R1 secured, R2–R9 download-list records) and one UNREAD malformed record (R10), with 0 placements; nothing is stocked from them.
+
+
+**Book — Turkey B1 (teacher guide — evidence):**
+## Book 1 — Preschool Movement & Health TG (teacher guide, Turkish) — Health parts
+- Title as printed: Okul Öncesi Hareket ve Sağlık Alanı Öğretmen Kılavuz Kitabı
+- Grade: Preschool (okul öncesi) (student/teacher: TEACHER)
+- Publisher: MEB Devlet Kitapları; year 2026; ISBN 978-625-8867-30-5
+- PDF pages: 132 (cover/title page verified against the record title)
+- Verdict: COMPLETE — combined Movement & Health book; PE parts filed in turkey-pe-placements.md
+- Tally (Health file): 7 placements — 1 to an existing lesson, 6 NEW LESSON NEEDED
+- Turkey's own way: health for the youngest children is taught as daily-life play — hand washing, naming healthy foods, dressing for the weather, judging safe/dangerous, and knowing to call 112 in an emergency, including an earthquake drill course.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Kişisel Alanım — my personal space: recognising and protecting my own body space (teacher guide — evidence) (original string `staying-safe/my-personal-space-and-body-safety`) | Turkey, *Turkey Preschool Movement & Health TG* (Turkey Preschool Movement & Health TG), printed pp. 58, 124 |
+
+Turkey's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the health slug registry (Part 2A / Part 2B) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Turkey's own way is content, as the book lines above record it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: protecting myself from abuse, corporal punishment, positive discipline, gender-based violence, child abuse, protect and report, ending child marriage ECM, keeping girls in school, Zambia Health Teacher Training Manual 2025, abuse sasa neglect types of abuse how and where to get help, Samoa Years 1–8 Curriculum, my personal space, Kişisel Alanım, body safety, Turkey Preschool Movement & Health TG

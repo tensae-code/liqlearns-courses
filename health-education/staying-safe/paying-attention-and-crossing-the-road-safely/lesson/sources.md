@@ -1,6 +1,6 @@
 # Sources — Paying Attention and Crossing the Road Safely
 
-countries: Ethiopia, Oman, Samoa, Ukraine
+countries: Ethiopia, Oman, Samoa, Ukraine, Turkey
 
 **Book 1:** *Grade 3 Health and Physical Education Teacher Guide* (የጤናና ሰውነት ማጎልመሻ ትምህርት የመምህር መምሪያ መጽሐፍ, ሦስተኛ ክፍል) (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. (58 PDF pages). Printed page = PDF page − 6. TRUNCATED — the file holds printed pp. 1–52 of 89+. Read in full, page by page, from 100 DPI renders (no usable text layer), in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g03-teacher-placements.md.
 
@@ -9,7 +9,7 @@ countries: Ethiopia, Oman, Samoa, Ukraine
 | Sub lesson 1 — attention defined; the traffic-light teaching text; keep left; the pedestrian crossing (teacher guide — evidence) | Ethiopia, *Grade 3 Teacher Guide*, §3.3.1, printed pp. 47–49 |
 | Sub lesson 2 — the road-traffic movement game: set-up, cards, crossing, both directions (teacher guide — evidence) | Ethiopia, *Grade 3 Teacher Guide*, §3.3.2 Task 1, printed pp. 48–49 |
 
-**Acceptance count: taught in 1 country.** Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Ethiopia is filed as teacher-guide evidence only (Ethiopia), named here, counted nowhere. Oman is likewise filed as teacher-guide evidence only, outside the acceptance count.
+**Acceptance count: taught in 2 countries.** Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Ethiopia is filed as teacher-guide evidence only (Ethiopia), named here, counted nowhere. Oman is likewise filed as teacher-guide evidence only, outside the acceptance count. Turkey is added as student-book stock (see its Turkey section below), inside the acceptance count — Book 4, *Health Knowledge & Traffic Culture*, is a STUDENT book.
 
 The Grade 3 teacher guide is a TRUNCATED scan: the file holds printed pp. 1–52 of 89+. Missing from the file: §4.1 Cardiovascular activity (p. 53), §4.2 Muscle-strength activity (p. 57), §4.3 Stretching and flexibility (p. 62), §4.4 Agility (p. 65), all of Chapter 5 Gymnastics (pp. 69–84) and all of Chapter 6 Addis Ababa traditional movements and games (pp. 85–89+). Parts resting on this guide are labelled (teacher guide — evidence) and never count as pupil-taught.
 
@@ -71,4 +71,27 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/ukraine-heal
 
 Ukraine is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — Ukraine is named in the countries line and provenance row(s) and the acceptance count rises from 0 to 1 country. The Ukraine placement in this lesson was filed under the descriptive slug string `staying-safe/pedestrian-safety-rules`, resolved by registry Part 2A to the EXISTING lesson `staying-safe/paying-attention-and-crossing-the-road-safely` — this lesson — and the original string is recorded in the provenance row above. Ukraine is this lesson's first student-book stock — the lesson previously stood on teacher-guide / curriculum-statement evidence only, at acceptance count 0. Ukraine's own way is content, as the book lines above record it: the Grade 5 course teaches safety as a habit of independence — the child as pedestrian in their own right («Я — пішохід», I am a pedestrian). This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: road safety, traffic game, attention ትኩረት, pedestrian crossing የእግረኛ መሻገሪያ, red light green light, Ethiopia HPE Grade 3 teacher guide, road-safety rules by acting out a trip to the garden, A Trip to the Garden movement story, Oman G1 Teacher Guide, road safety rules recited demonstrated practised every year, Samoa Years 1–8 Curriculum, pedestrian safety rules, I am a pedestrian, Ukraine G5 Health Safety and Wellbeing Vasylenko
+
+## Turkey — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkey-health-placements.md. The Turkey book(s) stocked in this lesson: B4 of that file. Turkey is student-book stock, inside the acceptance count, in this lesson (teacher-guide books stocked here are evidence only, outside the count, as their book lines record). Records R1–R10 of the placements file are record-only Geography books tagged "health" in error (R1 secured, R2–R9 download-list records) and one UNREAD malformed record (R10), with 0 placements; nothing is stocked from them.
+
+
+**Book — Turkey B4 (student book):**
+## Book 4 — Health Knowledge & Traffic Culture (student book, Turkish)
+- Title as printed: Sağlık Bilgisi ve Trafik Kültürü Ders Kitabı (Ortaöğretim — elective, lise)
+- Grade: Secondary elective (Seçmeli; lise) (student/teacher: STUDENT)
+- Publisher: MEB Devlet Kitapları; year 2026; ISBN not legible in extracted front matter (MEB Yayınları No 10703)
+- PDF pages: 200 (cover/title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 19 placements — 4 to existing lessons, 15 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- Turkey's own way: Turkey's one full health textbook joins health knowledge to traffic culture in a single elective — healthy person and society, healthy habits, adolescence, life-saving first aid, and a whole final theme on safe transport.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey — Trafik Kültürü — traffic culture: rules, courtesy, empathy, anger management and body language in traffic (original string `staying-safe/paying-attention-and-crossing-the-road-safely`) | Turkey, *Turkey Health & Traffic Culture* (Turkey Health & Traffic Culture), printed pp. 156, 157, 158 |
+| Turkey — Trafik Güvenliği / Yaya Güvenliği — traffic and pedestrian safety: seat belts, helmets, life jackets, safe crossings, lights, visibility and signs (original string `staying-safe/paying-attention-and-crossing-the-road-safely`) | Turkey, *Turkey Health & Traffic Culture* (Turkey Health & Traffic Culture), printed pp. 161, 162, 163, 165, 166, 167 |
+
+Turkey's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the health slug registry (Part 2A / Part 2B) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Turkey's own way is content, as the book lines above record it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: road safety, traffic game, attention ትኩረት, pedestrian crossing የእግረኛ መሻገሪያ, red light green light, Ethiopia HPE Grade 3 teacher guide, road-safety rules by acting out a trip to the garden, A Trip to the Garden movement story, Oman G1 Teacher Guide, road safety rules recited demonstrated practised every year, Samoa Years 1–8 Curriculum, pedestrian safety rules, I am a pedestrian, Ukraine G5 Health Safety and Wellbeing Vasylenko, traffic culture, Trafik Kültürü, pedestrian safety, Yaya Güvenliği, Turkey Health & Traffic Culture
