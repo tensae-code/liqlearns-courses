@@ -1,0 +1,22 @@
+# Political Parties
+
+## Do it first
+
+Before you read on, say in your mind what you already think this is about: what parties do and how they organise citizens' participation — as Morocco's books teach it. Hold your idea; the lesson will test it.
+
+## Sub lesson 1 — Political parties and their role in framing citizens (الأحزاب السياسية ودورها في تأطير المواطنين)
+
+Morocco Grade 8 Fadaa Ijtiamiat 2AC, printed p. 182, teaches: what parties do and how they organise citizens' participation. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Sub lesson 2 — Morocco's way (Book 5) — the book's own teaching way
+
+Morocco's own way: the second collège year turns citizenship into the machinery of the state itself — the constitution, the King, parliament, government and courts, then the citizen's constitutional rights, parties, unions, press, local democracy and associations. This lesson teaches the placements' thing in the course's own words — the book's text itself is never transcribed.
+
+## Say it to your companion
+
+Explain this lesson to your companion in your own words. Your companion asks you one hard question about it — answer from the lesson.
+
+## Do It Yourself
+
+1. Political parties and their role in framing citizens (الأحزاب السياسية ودورها في تأطير المواطنين): do the activity in hands-on.md under this name.
+2. Morocco's way (Book 5) — the book's own teaching way: do the activity in hands-on.md under this name.

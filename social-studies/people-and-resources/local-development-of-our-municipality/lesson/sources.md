@@ -1,6 +1,6 @@
 # Sources — Local Development Of Our Municipality
 
-countries: Honduras, Greece
+countries: Honduras, Greece, Morocco
 
 **Book 1:** *Libro para Estudiantes del área de Ciencias Sociales — Segundo grado de Educación Básica (cover: 'Ciencias Sociales — Segundo grado — Libro para Estudiantes')* (student book, Spanish) — Universidad Pedagógica Nacional Francisco Morazán (UPNFM), elaborated for the Secretaría de Estado en el Despacho de Educación de Honduras; preliminary edition (Edición Preliminar) 2020 as printed on the credits page; no ISBN printed. Title as printed: Libro para Estudiantes del área de Ciencias Sociales — Segundo grado de Educación Básica (cover: 'Ciencias Sociales — Segundo grado — Libro para Estudiantes'). Grade: Grade 2 (student/teacher: STUDENT). PDF pages: 182 (cover/title page verified against the record title; read from the recorded ministry source educatrachos.hn, 84,745,386 bytes, SHA-256 prefix 1a231bbabc43d67e). Verdict: COMPLETE. History/Civics parts NOT placed (named for later waves): Bloque 1 'La persona y su ser social' (personal/social and civics formation, printed pp. 10–46); Bloque 3 'Las sociedades y el tiempo social' (History, printed pp. 94–134); Bloque 4 lessons not placed above (social organisation, authorities, laws and demands — Civics, printed pp. 138 onwards). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/honduras-placements.md.
 
@@ -18,7 +18,7 @@ countries: Honduras, Greece
 |---|---|
 | Greece part — Η οικονομική οργάνωση των Δήμων — teaches: how a municipality is financed and what it funds — revenues from state grants, municipal fees and taxes, municipal enterprises, cooperatives, donations and renting municipal property, against spending on public works, events and school buildings; a closing activity weighs a weaving and embroidery cooperative's effects, including more jobs [greece-placements-b.md] | Greece, *Greece Grade 6 Koinoniki kai Politiki Agogi*, Η οικονομική οργάνωση των Δήμων — printed pp. 35–37 |
 
-**Acceptance count: taught in 2 countries (Honduras, Greece).**
+**Acceptance count: taught in 3 countries (Honduras, Greece, Morocco).**
 
 Honduras's own way (Honduras Grade 2 Student Book): widening-circles design — the municipality and the department — the circle widens one step from the community to the municipio and departamento. Every lesson runs the same 'Sembrar y cosechar' activity cycle.
 
@@ -27,3 +27,18 @@ Honduras's own way (Honduras Grade 2 Teacher Guide) (teacher guide — evidence)
 Greece's own way (Greece Grade 6 Koinoniki kai Politiki Agogi): economics enters primary school as the town hall's money — where a municipality's revenue comes from and what it is spent on, told through two photos of the same Cretan harbour 42 years apart (greece-placements.md); the one Economics chapter teaches public finance at the scale a child can see — the municipality: where its money comes from and what it is spent on, with the child's own household electricity bill as the data source (greece-placements-b.md).
 
 Searchable tags: local development of our municipality, Honduras, social studies, people-and-resources, greece
+
+Morocco placements — Social Studies remaining strands (2026-11-17):
+
+**Book 2:** *Al-Massar Ijtiamiat 6e* (student book, Arabic) — Title as printed: المسار — الاجتماعيات: تاريخ وجغرافيا وتربية مدنية — كتاب المتعلمة والمتعلم (Al-Massar — Social Studies: History, Geography and Civic Education — the Pupil's Book), السنة السادسة من التعليم الابتدائي (Sixth Year of Primary Education) Grade: Grade 6 (student/teacher: STUDENT) Publisher: Al-Massar series; authors Makki Chakir (primary-education teacher, history didactics — team coordinator), Bayaa Abdelaziz (geography), Aaboud Mohamed (history); year not printed on the pages read; no ISBN printed PDF pages: 176 (cover verified against the record title; 13,036,526 bytes exact match to the link record's stated size for this file) Earlier waves: not read before. The same link record also names two further Grade 6 series (الجديد في الاجتماعيات and النجاح في الاجتماعيات) for which it gives no separate file URL — named here, not held. Verdict: COMPLETE Contents map: History printed pp. 3–59; Geography printed pp. 61–116; Civics/Citizenship (التربية المدنية) printed pp. 117–172 — programme p. 117, twelve lessons pp. 118–168, two semester projects (p. 125; p. 152, "Moroccan women between yesterday and today"), assessment/support blocks pp. 126, 134, 142, 144, 153, 161–162, 169, 171 (named, not placed, per standing exclusions); glossary of concepts and names p. 173 (inventory only, named, not placed); references pp. 174–175 Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/morocco-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Morocco part 1 — people-and-resources/local-development-of-our-municipality — Civics Lesson 11: We contribute to developing our local commune — teaches: the class plans a project for a real right of children in its commune (a poster for a ministry/UNICEF child-protection campaign analysed first), writes the project document in the council's own form (paragraphs: the idea, the summary, the means, the partners), presents it to the communal council and takes roles in carrying it out — Morocco Grade 6 Al-Massar Ijtiamiat, printed p. 163 | Morocco, *Al-Massar Ijtiamiat 6e* (student book), Civics Lesson 11: We contribute to developing our local commune — printed p. 163 |
+
+**Acceptance count: taught in 3 countries (Honduras, Greece, Morocco).**
+
+Morocco's own way (Book 2, Al-Massar Ijtiamiat 6e): the Grade 6 civics course is a working apprenticeship in democracy — it opens with law, freedom and responsibility (Rousseau: no freedom without responsibility), runs the class as a republic (charter, elected cooperative), then walks out of the school gate: local democracy is learned by studying the elected communal council from the 2011 Constitution (Articles 135 and 139), visiting the commune headquarters, simulating a full council meeting with agenda, president, budget rapporteur and association representatives, and finally pleading a real solidarity proposal before that council.
+
+Registry note: this lesson is a pre-existing lesson (not a registry NEW lesson); the Morocco placement was filed directly against it, exactly as filed.
+

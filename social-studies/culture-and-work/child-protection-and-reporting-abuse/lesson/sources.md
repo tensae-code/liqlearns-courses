@@ -1,6 +1,6 @@
 # Sources — Child Protection and Reporting Abuse
 
-countries: Haiti, Uganda
+countries: Haiti, Uganda, Morocco
 
 **Book 4:** *Sciences sociales — Éducation à la citoyenneté — Droits, devoirs et valeurs (l'école inclusive et le droit à l'éducation)* (teacher sequence, French) — Title as printed: Sciences sociales — Éducation à la citoyenneté — Droits, devoirs et valeurs (l'école inclusive et le droit à l'éducation) (Projet Nectar, MENFP, 8e année; authors Mélanie Albaret, Arnaud Dechelle). Grade: Grade 8 (student/teacher: TEACHER). Publisher: MENFP / Projet Nectar (Canoprof); year not printed; no ISBN printed (CC BY-NC-SA licence printed). PDF pages: 28 (cover verified against the record title; 849,191 bytes, grab.py size/SHA verified — byte size also matches the links-file record for the same PDF). Earlier waves: Geography wave filed it record-only (pure Civics); History wave record-only (pure Civics); Economics wave record-only (no Economics parts) — its civics strands are placed here for the first time. Verdict: COMPLETE. Contents map: Civics/Citizenship/Government pp. 9–28 (whole book); Morals/Values pp. 11–16 (the notion of value and its making into law, inside Séance 2 and Séance 3). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/haiti-placements.md. Teacher guide — evidence only, outside the acceptance count.
 
@@ -15,7 +15,7 @@ countries: Haiti, Uganda
 | Uganda part — culture-and-work/child-abuse-protecting-children — Causes, Effects and Ways of Controlling Child Abuse — teaches: causes (poverty, alcohol, broken families, early marriage), effects on the child, and how leaders and community prevent abuse — Uganda Grade 4 P4 SST Home-Study, printed p. 27 | Uganda, *Social Studies Home-Study Learning, Primary Four* (student book), Causes, Effects and Ways of Controlling Child Abuse — printed p. 27 |
 | Uganda part — Uganda's way — the book's own teaching way (Uganda Grade 4 P4 SST Home-Study) | Uganda — the book's own way of teaching (see below) |
 
-**Acceptance count: taught in 1 country (Uganda). Haiti is named here as teacher-guide evidence only, counted nowhere.**
+**Acceptance count: taught in 1 country (Uganda). Haiti and Morocco are named here as teacher-guide evidence only, counted nowhere.**
 
 Uganda's own way (Uganda Grade 4 P4 SST Home-Study): the district is the child's civic unit — its leaders (LCV chairperson, CAO, RDC, DPC, DEO, DAO) are named by title and role, and children's rights are taught straight from Uganda's laws (a child is anyone below 18).
 
@@ -26,3 +26,18 @@ Registry note: the original coined string `culture-and-work/the-right-to-educati
 Registry note: the original coined string `culture-and-work/child-abuse-protecting-children` is recorded in the provenance rows above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/child-protection-and-reporting-abuse`.
 
 Searchable tags: child protection and reporting abuse, Haiti, social studies, culture-and-work, Uganda
+
+Morocco placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *Dalil Moufid Ijtiamiat 5e* (teacher guide, Arabic) — Title as printed: المفيد في الاجتماعيات — دليل الأستاذة والأستاذ — السنة الخامسة من التعليم الابتدائي (Al-Moufid in Social Studies — Teacher's Guide — Fifth Year of Primary Education), new edition September 2020 (طبعة جديدة شتنبر 2020) Grade: Grade 5 (student/teacher: TEACHER) Publisher: Al-Moufid series (Dar Attakafa file source); approved by the Ministry of National Education; authors Abdelaziz Hamdani (coordinator), Abdelghani Maaroufi, Mohamed Soubla, Sidi Mohamed Abdessamad; year 2020; no ISBN printed PDF pages: 180 (cover verified against the record title; 25,599,951 bytes and 180 pages both exact matches to the books.json record) Earlier waves: Geography wave placed the Geography component (guide pp. 85–118, 14 placements); History wave placed the History component (guide pp. 37–84, 13 placements); Economics wave filed this record UNREAD (phantom push). Both earlier waves named the Civics component but did NOT place it — this wave places it. Verdict: COMPLETE Contents map: History pp. 37–84; Geography pp. 85–118; Civics/Citizenship/Morals (مكون التربية المدنية) pp. 119–180 — framework and scientific summaries printed pp. 119–123, twelve lessons printed pp. 124–177, unit assessment/support activities printed pp. 132–133, 141, 149, 159–160, 170, 178–180 (assessment — named, not placed, per standing exclusions) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/morocco-placements.md. Teacher guide — evidence only, outside the acceptance count. Named, not placed (Health course's): Civics Lesson 6 "I keep my health and safety" (printed p. 146) and Lesson 7 "I protect myself from the dangers of smoking" (printed p. 152), exactly as filed. Parallel edition named, with no duplicate placements: Book 4 — Al-Moufid Ijtiamiat 5e (student book, Arabic), the pupil companion of this guide, carries the same twelve civic-education lessons in pupil form (spot-verified: the anti-smoking poster activity at printed p. 131 and the road-safety card at printed p. 143 match the guide's Lessons 7 and 10) — placed once, from this guide, with both editions named, exactly as filed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Morocco part 1 — culture-and-work/childrens-right-to-protection-from-violence — Civics Lesson 9: My right not to be assaulted, and my role in protecting myself — teaches: violence against children in its forms (physical, sexual, commercial exploitation), the facts and figures of it, what children should do to avoid assault, and how a child reports an assault — a rights lesson taught as self-protection — Morocco Grade 5 Dalil Moufid Ijtiamiat (Teacher Guide), printed p. 163 (teacher guide — evidence) | Morocco, *Dalil Moufid Ijtiamiat 5e* (teacher guide), Civics Lesson 9: My right not to be assaulted, and my role in protecting myself — printed p. 163 (teacher guide — evidence) |
+
+**Acceptance count: taught in 1 country (Uganda). Haiti and Morocco are named here as teacher-guide evidence only, counted nowhere.**
+
+Morocco's own way (Book 1, Dalil Moufid Ijtiamiat 5e): Moroccan primary Social Studies is one integrated subject (History + Geography + Civic Education) built around "my homeland"; its civics third is a full civic-education programme in its own right — civic behaviour defined as the citizen's relation to society and to the state through its institutions, civic values (freedom, dignity, solidarity, equality, tolerance, rejecting discrimination) learned by practice not memorisation, and the classroom itself run as a small democracy (a negotiated class charter and an elected class cooperative with ballot box and vote count).
+
+Registry note: the original coined string `culture-and-work/childrens-right-to-protection-from-violence` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/child-protection-and-reporting-abuse`.
+

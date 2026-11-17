@@ -1,6 +1,6 @@
 # Sources — Justice and Fairness
 
-countries: Libya
+countries: Libya, Morocco
 
 **Book 1:** *أنا المواطن (I Am the Citizen), National Education G5* (student book, Arabic) — Title as printed: أنا المواطن — كتاب التربية الوطنية للصف الخامس من مرحلة التعليم الأساسي (I Am the Citizen — National Education book for Grade 5 of basic education). Grade: 5 (student/teacher: STUDENT). Publisher: State of Libya, Ministry of Education — Curriculum and Educational Research Centre; year 2019–2020 / 1440–1441 AH; ISBN no ISBN printed on the cover pages read. PDF pages: 82 (cover rendered and verified against the record title; 15,170,496 bytes, Wayback capture 20211209161420 of the recorded source_url — image-only, read from page renders). Earlier waves: not read before. Verdict: COMPLETE (full page-by-page read, civics track). Contents map: Civics/Citizenship/Government Lesson 2 Libya is for all pp. 17–24, Lesson 3 equality pp. 26–32 (with the Universal Declaration of Human Rights); Culture-in-society Lesson 1 my country Libya pp. 8–16 (the regions' dress, dishes and customs); Morals/Values (Unit 2 "Human values") Lesson 4 justice pp. 33–42, Lesson 5 cooperation and solidarity pp. 43–52, Lesson 6 tolerance pp. 53–62; Conflict/Peace (Unit 3 "Living together") Lesson 7 accepting the other pp. 64–72, Lesson 8 the culture of dialogue pp. 73–82. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/libya-placements.md.
 
@@ -9,8 +9,21 @@ countries: Libya
 | Sub lesson 1 — culture-and-work/justice-giving-everyone-their-due — Lesson 4 العدل (Justice) — teaches: justice is a supreme value: giving every right-holder their due without regard to colour, sex or nature; justice in the family, the courts, trade and the school — including the extra exam time a pupil with Down syndrome needs, which is justice, not favour (Convention on the Rights of the Child art. 2) — Libya Grade 5 National Education G5, printed p. 33 | Libya, *أنا المواطن (I Am the Citizen) — National Education G5* (student book), Lesson 4 العدل (Justice) — printed p. 33 |
 | Sub lesson 2 — Libya's way — the book's own teaching way | Libya — the book's own way of teaching (see below) |
 
-**Acceptance count: taught in 1 country (Libya).**
+**Acceptance count: taught in 2 countries (Libya, Morocco).**
 
 Libya's own way (National Education G5): Grade 5 is a pure values book — eight lessons, each a single civic virtue (equality, justice, solidarity, tolerance, accepting the other, dialogue), each anchored in a real instrument a child can hold: the Universal Declaration of Human Rights, the Convention on the Rights of the Child, UNESCO's 1995 Declaration on Tolerance, and the Libyan Scouts' "A World of Peace for Children" charter, which the pupil signs.
 
 Searchable tags: justice and fairness, Libya, social studies, culture-and-work
+
+Morocco placements — Social Studies remaining strands (2026-11-17):
+
+**Book 3:** *Fadaa Ijtiamiat 1AC* (student book, Arabic) — Title as printed: فضاء الاجتماعيات — كتاب التلميذ — السنة الأولى من التعليم الثانوي الإعدادي (Fadaa Social Studies — Pupil's Book — First Year of Collège) Grade: Grade 7 (student/teacher: STUDENT) Publisher: Ministry-approved (cover: مصادق عليه من لدن وزارة التربية الوطنية), National Education imprint; authors Mohamed Abderrahmani, Mohamed Amzaz, Ahmed Maatalla, Ahmed Acharkawi (secondary inspectors); طبعة 2010; legal deposit 2004/158; ISBN 9954-20-047-9; Imprimerie El Maarif Al Jadida, Rabat PDF pages: 208 (cover verified against the record title; 47,461,786 bytes, matching the record's stated 45.3 MB) Earlier waves: not read before Verdict: COMPLETE for the remaining strands — the book's third component is Citizenship Education (التربية على المواطنة), printed pp. 143–201 (its own presentation, competencies table and programme at pp. 143–146; the component's glossary and the book index close the book and are named, not placed). History (pp. 5–~100: ancient civilisations, then the Islamic civilisation) and Geography (to p. 142: atmosphere and climate at p. 104) are named here, not placed — they belong to the earlier waves' strands. A first sampling missed this component; the full-book scan found it, and the component was then read from its programme page and lesson starts. Contents map (printed pp.): History component pp. 5–~100; Geography component ~101–142; Citizenship Education component pp. 143–201 — Axis 1: dignity, freedom, equality, justice, solidarity; Axis 2: tolerance, democracy, peace, the role of law in our life, and a visit to a human-rights institution; support-and-strengthen pages and the three components' glossaries named, not placed. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/morocco-placements.md. Parallel edition named, with no duplicate placements: Book 7 — Fi Rihab Ijtiamiat 1AC (student book, Arabic) is a parallel edition of the same national collège programme (its Citizenship Education component opens at printed p. 148, its Lesson 1 is Dignity at printed p. 151) — placed once, from this Fadaa edition, with both editions named, exactly as filed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Morocco part 1 — culture-and-work/justice-and-fairness — Axis 1 Lesson 4: Justice (العدل) — teaches: justice as a value and a right, read through real legal texts including the Family Code — Morocco Grade 7 Fadaa Ijtiamiat 1AC, printed p. 161 | Morocco, *Fadaa Ijtiamiat 1AC* (student book), Axis 1 Lesson 4: Justice (العدل) — printed p. 161 |
+
+**Acceptance count: taught in 2 countries (Libya, Morocco).**
+
+Morocco's own way (Book 3, Fadaa Ijtiamiat 1AC): collège Social Studies carries a full Citizenship Education component built on ten value lessons in two axes — five personal-social values (dignity, freedom, equality, justice, solidarity), then tolerance, democracy, peace, the role of law, and a field visit to a human-rights institution — each lesson built from constitutional and international-charter texts.
+

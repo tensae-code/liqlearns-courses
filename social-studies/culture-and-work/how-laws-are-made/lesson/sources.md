@@ -1,6 +1,6 @@
 # Sources — How Laws Are Made
 
-countries: Samoa, Mexico, Bangladesh
+countries: Samoa, Mexico, Bangladesh, Morocco
 
 **Book 1:** *Social Studies — Year 10 Book One* (student book, English) — Title as printed: Social Studies — Year 10 Book One. Grade: Year 10 (student/teacher: STUDENT). Publisher: Government of Samoa, Department of Education; year 2001; ISBN 982-517-009-3. PDF pages: 100 (cover/title page verified against the record title; MESC copy, size 2,049,510 B per download list). Read from the MESC ministry source URL recorded in the books.json record — the same MESC PDF the Geography wave verified byte-for-byte against the record and already secured in GitHub (in_pushed: true) — via the browser text route, cover/title page and ISBN checked against the record before reading; no file staged — the book is already in GitHub, as filed in samoa-placements.md. Earlier waves: Geography wave placed Unit 3–4 skills (graphs, census, pp. 59–98) and named Units 1–2 "Civics, not placed"; History wave placed Unit 1 Topic 1's development narrative, Unit 2's historical case studies, the rights-documents chain, the UDHR and the Mau timeline (pp. 5–6, 10, 25–48) and named the present-day civics parts not placed (voting/law-making pp. 8–18, Japan pp. 19–22, UN/Amnesty/protest pp. 33–45, 48–58); Economics wave placed the census/graph skills only. The civics teaching named by both waves was read and placed here. Verdict: COMPLETE. Contents map: Civics/Citizenship/Government pp. 5–58 (Unit 1 Government; Unit 2 Human Rights); Geography/Skills pp. 59–98 (Units 3–4, placed by Geography wave). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/samoa-placements.md.
 
@@ -18,7 +18,7 @@ countries: Samoa, Mexico, Bangladesh
 |---|---|
 | Bangladesh part — culture-and-work/how-a-law-is-made — Socio-political Structures and Customs — teaches: law-making acted out in a Shadow Parliament — a bill is drafted, presented, debated by government and opposition MPs, passed by the Speaker's voice vote and signed by the President to become an Act, with President, Prime Minister, ministers and Speaker in their real roles — Bangladesh Grade 7 BD G7 HSS, printed pp. 110–112 | Bangladesh, *History and Social Science, Class Seven (Experimental version)* (student book), Socio-political Structures and Customs — printed pp. 110–112 |
 
-**Acceptance count: taught in 3 countries (Samoa, Mexico, Bangladesh).**
+**Acceptance count: taught in 4 countries (Samoa, Mexico, Bangladesh, Morocco).**
 
 Bangladesh's own way (Grade 7): civics is learned by doing it — the class runs a real club election with an Election Commission, code of conduct and manifestos, then sits as a Shadow Parliament and passes a law, and only then is told that the national Parliament works the same way; sociology is anchored in living communities the class visits (the Bedey boat fleet) and in guests the class interviews (Sharifa, a third-gender person).
 
@@ -33,3 +33,18 @@ Registry note: the original coined string `culture-and-work/how-laws-are-made-in
 Searchable tags: how laws are made, Samoa, social studies, culture-and-work, Mexico, Bangladesh
 
 Registry note: the original coined string `culture-and-work/how-a-law-is-made` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/how-laws-are-made`.
+
+Morocco placements — Social Studies remaining strands (2026-11-17):
+
+**Book 5:** *Fadaa Ijtiamiat 2AC* (student book, Arabic) — Title as printed: فضاء الاجتماعيات — للسنة الثانية من التعليم الثانوي الإعدادي — كتاب التلميذ والتلميذة (Fadaa Social Studies — Second Year of Collège — Pupil's Book), new revised edition (طبعة جديدة ومنقحة) Grade: Grade 8 (student/teacher: STUDENT) Publisher: Ministry-approved (cover: مصادق عليه من لدن وزارة التربية الوطنية والتكوين المهني); authors Ahmed Maatalla (coordinator), Mohamed Abderrahmani, Mohamed Amzaz, Ahmed Acharkawi, Mohamed Jabouri (secondary inspectors); no ISBN or year printed on the pages read PDF pages: 218 (cover verified against the record title; 32,959,263 bytes) Earlier waves: not read before Verdict: COMPLETE for the remaining strands — the Citizenship Education component (التربية على المواطنة) runs printed pp. 143–~213, with its own presentation and competencies/programme table at pp. 143–144. History and Geography components (the rest of the book) are named here, not placed. Contents map (printed pp.): History + Geography components pp. 5–142; Citizenship Education pp. 143–213 — Axis 1, Constitutional institutions: foundations of the Moroccan state, the constitution, the King, parliament, the government, the judiciary; Axis 2, Constitutional rights: civil and political rights, public freedoms, political parties, unions and professional organisations, the press, economic/social/cultural rights, local democracy, associations. Support pages and glossaries named, not placed. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/morocco-placements.md. Parallel editions named, with no duplicate placements: Book 8 — Manar Ijtiamiat 2AC (student book, Arabic) and Book 10 — Al-Najah Ijtiamiat 2AC (student book, Arabic) are parallel editions of the same national collège programme (Manar's Constitutional Institutions axis at printed p. 144; Najah's Lesson 3, the King, at printed p. 142, Lesson 4, Parliament, at printed p. 147, Lesson 5, the Government, at printed p. 152) — placed once, from this Fadaa edition, with all editions named, exactly as filed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Morocco part 1 — culture-and-work/parliament-and-making-laws — Axis 1 Lesson 4: Parliament (البرلمان) — teaches: parliament's two chambers and how laws are made — Morocco Grade 8 Fadaa Ijtiamiat 2AC, printed p. 158 | Morocco, *Fadaa Ijtiamiat 2AC* (student book), Axis 1 Lesson 4: Parliament (البرلمان) — printed p. 158 |
+
+**Acceptance count: taught in 4 countries (Samoa, Mexico, Bangladesh, Morocco).**
+
+Morocco's own way (Book 5, Fadaa Ijtiamiat 2AC): the second collège year turns citizenship into the machinery of the state itself — the constitution, the King, parliament, government and courts, then the citizen's constitutional rights, parties, unions, press, local democracy and associations.
+
+Registry note: the original coined string `culture-and-work/parliament-and-making-laws` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/how-laws-are-made`.
+

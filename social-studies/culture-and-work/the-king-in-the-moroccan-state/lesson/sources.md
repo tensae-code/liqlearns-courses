@@ -1,0 +1,15 @@
+# Sources — The King in the Moroccan State
+
+countries: Morocco
+
+**Book 5:** *Fadaa Ijtiamiat 2AC* (student book, Arabic) — Title as printed: فضاء الاجتماعيات — للسنة الثانية من التعليم الثانوي الإعدادي — كتاب التلميذ والتلميذة (Fadaa Social Studies — Second Year of Collège — Pupil's Book), new revised edition (طبعة جديدة ومنقحة) Grade: Grade 8 (student/teacher: STUDENT) Publisher: Ministry-approved (cover: مصادق عليه من لدن وزارة التربية الوطنية والتكوين المهني); authors Ahmed Maatalla (coordinator), Mohamed Abderrahmani, Mohamed Amzaz, Ahmed Acharkawi, Mohamed Jabouri (secondary inspectors); no ISBN or year printed on the pages read PDF pages: 218 (cover verified against the record title; 32,959,263 bytes) Earlier waves: not read before Verdict: COMPLETE for the remaining strands — the Citizenship Education component (التربية على المواطنة) runs printed pp. 143–~213, with its own presentation and competencies/programme table at pp. 143–144. History and Geography components (the rest of the book) are named here, not placed. Contents map (printed pp.): History + Geography components pp. 5–142; Citizenship Education pp. 143–213 — Axis 1, Constitutional institutions: foundations of the Moroccan state, the constitution, the King, parliament, the government, the judiciary; Axis 2, Constitutional rights: civil and political rights, public freedoms, political parties, unions and professional organisations, the press, economic/social/cultural rights, local democracy, associations. Support pages and glossaries named, not placed. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/morocco-placements.md. Parallel editions named, with no duplicate placements: Book 8 — Manar Ijtiamiat 2AC (student book, Arabic) and Book 10 — Al-Najah Ijtiamiat 2AC (student book, Arabic) are parallel editions of the same national collège programme (Manar's Constitutional Institutions axis at printed p. 144; Najah's Lesson 3, the King, at printed p. 142, Lesson 4, Parliament, at printed p. 147, Lesson 5, the Government, at printed p. 152) — placed once, from this Fadaa edition, with all editions named, exactly as filed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Morocco part 1 — culture-and-work/the-king-in-the-moroccan-state — Axis 1 Lesson 3: The King (الملك) — teaches: the King's place and powers in the Moroccan state — Morocco Grade 8 Fadaa Ijtiamiat 2AC, printed p. 154 | Morocco, *Fadaa Ijtiamiat 2AC* (student book), Axis 1 Lesson 3: The King (الملك) — printed p. 154 |
+
+**Acceptance count: taught in 1 country (Morocco).**
+
+Morocco's own way (Book 5, Fadaa Ijtiamiat 2AC): the second collège year turns citizenship into the machinery of the state itself — the constitution, the King, parliament, government and courts, then the citizen's constitutional rights, parties, unions, press, local democracy and associations.
+
+Searchable tags: the king in the moroccan state, Morocco, social studies, culture-and-work

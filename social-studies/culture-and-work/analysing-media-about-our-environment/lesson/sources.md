@@ -1,0 +1,15 @@
+# Sources — Analysing Media About Our Environment
+
+countries: Morocco
+
+**Book 2:** *Al-Massar Ijtiamiat 6e* (student book, Arabic) — Title as printed: المسار — الاجتماعيات: تاريخ وجغرافيا وتربية مدنية — كتاب المتعلمة والمتعلم (Al-Massar — Social Studies: History, Geography and Civic Education — the Pupil's Book), السنة السادسة من التعليم الابتدائي (Sixth Year of Primary Education) Grade: Grade 6 (student/teacher: STUDENT) Publisher: Al-Massar series; authors Makki Chakir (primary-education teacher, history didactics — team coordinator), Bayaa Abdelaziz (geography), Aaboud Mohamed (history); year not printed on the pages read; no ISBN printed PDF pages: 176 (cover verified against the record title; 13,036,526 bytes exact match to the link record's stated size for this file) Earlier waves: not read before. The same link record also names two further Grade 6 series (الجديد في الاجتماعيات and النجاح في الاجتماعيات) for which it gives no separate file URL — named here, not held. Verdict: COMPLETE Contents map: History printed pp. 3–59; Geography printed pp. 61–116; Civics/Citizenship (التربية المدنية) printed pp. 117–172 — programme p. 117, twelve lessons pp. 118–168, two semester projects (p. 125; p. 152, "Moroccan women between yesterday and today"), assessment/support blocks pp. 126, 134, 142, 144, 153, 161–162, 169, 171 (named, not placed, per standing exclusions); glossary of concepts and names p. 173 (inventory only, named, not placed); references pp. 174–175 Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/morocco-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Morocco part 1 — culture-and-work/analysing-media-about-our-environment — Civics Lesson 6: I analyse a media product on a topic of our environment — teaches: what a media product is (website, magazine, poster, leaflet) and the grid for analysing one (kind, topic, issuing body, target group, media aim, expression means); two worked examples — a climate-change awareness poster and a Greenpeace page; Greta Thunberg met as a young media personality for the environment; then the class prepares its own environmental leaflet — Morocco Grade 6 Al-Massar Ijtiamiat, printed p. 139 | Morocco, *Al-Massar Ijtiamiat 6e* (student book), Civics Lesson 6: I analyse a media product on a topic of our environment — printed p. 139 |
+
+**Acceptance count: taught in 1 country (Morocco).**
+
+Morocco's own way (Book 2, Al-Massar Ijtiamiat 6e): the Grade 6 civics course is a working apprenticeship in democracy — it opens with law, freedom and responsibility (Rousseau: no freedom without responsibility), runs the class as a republic (charter, elected cooperative), then walks out of the school gate: local democracy is learned by studying the elected communal council from the 2011 Constitution (Articles 135 and 139), visiting the commune headquarters, simulating a full council meeting with agenda, president, budget rapporteur and association representatives, and finally pleading a real solidarity proposal before that council.
+
+Searchable tags: analysing media about our environment, Morocco, social studies, culture-and-work

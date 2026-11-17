@@ -1,6 +1,6 @@
 # Sources — The Judiciary and the Courts
 
-countries: Yemen, Bahamas, Afghanistan
+countries: Yemen, Bahamas, Afghanistan, Morocco
 
 **Book 1:** *التربية الوطنية للصف الخامس من مرحلة التعليم الأساسي (National Education for Grade 5 of Basic Education)* (student book, Arabic) — Republic of Yemen, Ministry of Education; year 1442 AH / 2021 CE (cover print); ISBN no ISBN printed. Title as printed: التربية الوطنية للصف الخامس من مرحلة التعليم الأساسي (National Education for Grade 5 of Basic Education). Grade: 5 (student/teacher: STUDENT). PDF pages: 66 (cover/title page verified against the record title; 6,489,380 bytes, Wayback snapshot 20220212143057 of the recorded source_url). Earlier waves: not read before (no earlier wave held this civics book). Verdict: COMPLETE (full page-by-page read, civics track). Contents map: Civics/Citizenship/Government pp. 19–21 (national symbols), pp. 23–33 (Unit 2 administrative organisation), pp. 34–46 (Unit 3 the state's authorities); History pp. 7–18 (Unit 1 Yemeni revolutions and steadfastness — named, not placed), pp. 47–63 (Unit 4 Yemeni figures: Imam al-Qasim ibn Muhammad, Rajih Ghalib Labouza, President Ibrahim al-Hamdi, the poet Abdullah al-Baradouni — named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/yemen-placements.md.
 
@@ -16,7 +16,7 @@ countries: Yemen, Bahamas, Afghanistan
 | Bahamas part — culture-and-work/the-court-system — Court System spreads — teaches: the courts and how they settle cases and uphold the law — Bahamas Grade 6 Bahamas Primary Social Studies Digital Textbook G6, spreads 12–22 | Bahamas, *Bahamas Primary Social Studies Digital Textbook — Grade 6* (student book), Court System spreads — spreads 12–22 |
 | Afghanistan part — culture-and-work/the-judiciary-courts-and-independent-judges — Lesson 9: Judiciary power — teaches: an independent branch — Supreme Court, appeal courts and primary courts; judges apply the constitution and laws, answer to no one's personal orders, and carry the heavy duty of securing justice — Afghanistan Grade 6 Social Studies (Dari), printed p. 17 | Afghanistan, *Social Studies, Grade 6* (student book), Lesson 9: Judiciary power — printed p. 17 |
 
-**Acceptance count: taught in 3 countries (Yemen, Bahamas, Afghanistan).**
+**Acceptance count: taught in 4 countries (Yemen, Bahamas, Afghanistan, Morocco).**
 
 Bahamas' own way (Grade 6): Grade 6 is the state year — government type, elections, courts, the constitution and citizenship are taught as one civics block closing primary school.
 
@@ -31,3 +31,16 @@ Searchable tags: the judiciary and the courts, Yemen, social studies, culture-an
 Afghanistan's own way (Grade 6 Social Studies): the Afghan state is taught as the child's own house — society needs a state as a family needs order; the 2004 constitution is the "mother law"; the two houses are named in Pashto (Wolesi Jirga, Meshrano Jirga) and every right (children's, women's, human dignity) is grounded first in Islam and then in the constitution's own articles.
 
 Registry note: the original coined string `culture-and-work/the-judiciary-courts-and-independent-judges` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/the-judiciary-and-the-courts`.
+
+Morocco placements — Social Studies remaining strands (2026-11-17):
+
+**Book 5:** *Fadaa Ijtiamiat 2AC* (student book, Arabic) — Title as printed: فضاء الاجتماعيات — للسنة الثانية من التعليم الثانوي الإعدادي — كتاب التلميذ والتلميذة (Fadaa Social Studies — Second Year of Collège — Pupil's Book), new revised edition (طبعة جديدة ومنقحة) Grade: Grade 8 (student/teacher: STUDENT) Publisher: Ministry-approved (cover: مصادق عليه من لدن وزارة التربية الوطنية والتكوين المهني); authors Ahmed Maatalla (coordinator), Mohamed Abderrahmani, Mohamed Amzaz, Ahmed Acharkawi, Mohamed Jabouri (secondary inspectors); no ISBN or year printed on the pages read PDF pages: 218 (cover verified against the record title; 32,959,263 bytes) Earlier waves: not read before Verdict: COMPLETE for the remaining strands — the Citizenship Education component (التربية على المواطنة) runs printed pp. 143–~213, with its own presentation and competencies/programme table at pp. 143–144. History and Geography components (the rest of the book) are named here, not placed. Contents map (printed pp.): History + Geography components pp. 5–142; Citizenship Education pp. 143–213 — Axis 1, Constitutional institutions: foundations of the Moroccan state, the constitution, the King, parliament, the government, the judiciary; Axis 2, Constitutional rights: civil and political rights, public freedoms, political parties, unions and professional organisations, the press, economic/social/cultural rights, local democracy, associations. Support pages and glossaries named, not placed. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/morocco-placements.md. Parallel editions named, with no duplicate placements: Book 8 — Manar Ijtiamiat 2AC (student book, Arabic) and Book 10 — Al-Najah Ijtiamiat 2AC (student book, Arabic) are parallel editions of the same national collège programme (Manar's Constitutional Institutions axis at printed p. 144; Najah's Lesson 3, the King, at printed p. 142, Lesson 4, Parliament, at printed p. 147, Lesson 5, the Government, at printed p. 152) — placed once, from this Fadaa edition, with all editions named, exactly as filed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Morocco part 1 — culture-and-work/the-judiciary-and-the-courts — Axis 1 Lesson 6: The Judiciary (القضاء) — teaches: the courts of Morocco, their levels and the independence of judges — Morocco Grade 8 Fadaa Ijtiamiat 2AC, printed p. 166 | Morocco, *Fadaa Ijtiamiat 2AC* (student book), Axis 1 Lesson 6: The Judiciary (القضاء) — printed p. 166 |
+
+**Acceptance count: taught in 4 countries (Yemen, Bahamas, Afghanistan, Morocco).**
+
+Morocco's own way (Book 5, Fadaa Ijtiamiat 2AC): the second collège year turns citizenship into the machinery of the state itself — the constitution, the King, parliament, government and courts, then the citizen's constitutional rights, parties, unions, press, local democracy and associations.
+
