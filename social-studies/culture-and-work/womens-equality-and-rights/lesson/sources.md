@@ -1,0 +1,18 @@
+# Sources — Womens Equality and Rights
+
+countries: Bolivia
+
+**Book 1:** *BO Social Sciences Secundaria 4* (student book, Spanish) — Title as printed: Texto de Aprendizaje — Área: Ciencias Sociales, Campo: Comunidad y Sociedad — Cuarto Año de Educación Secundaria Comunitaria Productiva. Grade: Grade 10 (Secundaria 4) (student/teacher: STUDENT). Publisher: Ministerio de Educación, Estado Plurinacional de Bolivia; year not printed in the pages read; no ISBN printed. PDF pages: 108 (cover verified against the record title; 16,369,358 bytes and 108 pages, matching the books.json record's page count; grabbed via the mid-size-books release asset). Earlier waves: Geography wave placed the opening Census unit, the Geography/economic-geography units and the closing nature/Vivir Bien units, and named the units below as Civics, not placed; History wave placed the nineteenth-century History units; Economics wave placed the economic-history parts. Verdict: COMPLETE (contents-first; the remaining strands — Democracia Directa y Participativa, Conceptos Ciudadanos de Fortalecimiento de Identidad Nacional, Las Olas del Feminismo and Despatriarcalización — read fully). Contents map: Civics/Citizenship pp. 39–41 (direct and participative democracy), 83–85 (citizen identity, biometrics, democratic values), 99–107 (women's rights, feminism, despatriarcalización) in the Geography wave's printed pagination; Integrated SS p. 2 (the Census — placed by the Geography wave); Geography pp. 74–98 (economic geography, nature and Vivir Bien — Geography wave); History pp. 6–73 (the nineteenth century — History wave); Economics within the history units (Economics wave). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/bolivia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — culture-and-work/womens-rights-in-bolivia — Derechos de la mujer en Bolivia / El rol de la mujer en la actualidad / Participación de las mujeres en la democracia — teaches: the slow Bolivian road — Ateneo Femenino 1923, divorce law 1932, the municipal vote 1945, universal suffrage 1952, the Bartolina Sisa federation 1983 — today's gaps in education, pay and the digital treatment of women's bodies, and the emblematic women of Bolivian democracy from Juana Azurduy and Adela Zamudio to Domitila Barrios and Remedios Loza — Bolivia Grade 10 BO Social Sciences Sec 4, printed p. 104 | Bolivia, *BO Social Sciences Secundaria 4* (student book), Derechos de la mujer en Bolivia / El rol de la mujer en la actualidad / Participación de las mujeres en la democracia — printed p. 104 |
+| Sub lesson 2 — Bolivia's way — the book's own teaching way | Bolivia — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Bolivia).**
+
+Bolivia's own way: citizenship is taught as intercultural democracy — the Western forms (direct, participative, representative) completed by the indigenous peoples' own communitarian democracy, with parity and alternation between women and men written into every candidate list, and the year's closing civics arc runs from women's rights to despatriarcalización, the dismantling of patriarchy as a task of the Plurinational State itself.
+
+Registry note: the original coined string `culture-and-work/womens-rights-in-bolivia` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/womens-equality-and-rights`.
+
+Searchable tags: womens equality and rights, Bolivia, social studies, culture-and-work

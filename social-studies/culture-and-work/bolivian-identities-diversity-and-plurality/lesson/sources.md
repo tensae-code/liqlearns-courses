@@ -1,0 +1,16 @@
+# Sources — Bolivian Identities Diversity and Plurality
+
+countries: Bolivia
+
+**Book 1:** *BO Social Sciences Secundaria 6* (student book, Spanish) — Title as printed: Texto de Aprendizaje — Área: Ciencias Sociales, Campo: Comunidad y Sociedad — Sexto Año de Educación Secundaria Comunitaria Productiva. Grade: Grade 12 (Secundaria 6) (student/teacher: STUDENT). Publisher: Ministerio de Educación, Estado Plurinacional de Bolivia; year 2024; no ISBN printed. PDF pages: 126 (cover verified against the record title; 14,185,463 bytes and 126 pages, matching the books.json record's page count; grabbed via the mid-size-books-2 release asset). Earlier waves: Geography wave placed the opening Census unit, geopolitics and the resources units, and named the units below as History/Civics, not placed; History wave placed the twentieth-century History units; Economics wave placed the money/inflation and integration parts. Verdict: COMPLETE (contents-first; the remaining strands — Las Identidades Bolivianas, Despatriarcalización en las Instituciones Públicas, Ley Nº 342 Ley Plurinacional de la Juventud, Ley Nº 263 contra la Trata y Tráfico, and the child-and-adolescent labour unit — read fully; page numbers cited are the ones printed on the pages themselves). Contents map: Civics/Citizenship/Rights printed pp. 446–474 (identities and plurality; despatriarcalización in public institutions under Decreto Supremo Nº 4650; the Youth Law Nº 342 and young people's political rights; the Anti-Trafficking Law Nº 263; child and adolescent labour law — Ley Nº 548 and the ILO conventions); Integrated SS p. 3 (the Census — Geography wave); Geography pp. 27–41 (globalisation, geopolitics, scales, resources — Geography wave); History pp. 6–97 (Second World War to the Democratic-Cultural Revolution — History wave); Economics pp. 118–125 (money, the boliviano, the Central Bank — Economics wave). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/bolivia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — culture-and-work/bolivian-identities-diversity-and-plurality — Las Identidades Bolivianas — teaches: Bolivian identity as plurality — the CPE Preamble's "composición plural" people, the 36 recognised nations with their rights, knowledges and languages; how identity is built in city, countryside and community (belonging, recognition, and today's media and social networks); culture as the source of identity that preserves a people's memory and values; and natural versus juridical subjects of rights — Bolivia Grade 12 BO Social Sciences Sec 6, printed p. 446 | Bolivia, *BO Social Sciences Secundaria 6* (student book), Las Identidades Bolivianas — printed p. 446 |
+| Sub lesson 2 — Bolivia's way — the book's own teaching way | Bolivia — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Bolivia).**
+
+Bolivia's own way: the final year turns from history to the citizen's own legal armour — identity in a plural nation, a supreme decree ordering the state itself to despatriarcalise, a Youth Law, an anti-trafficking law taught with self-protection advice for teenagers, and the labour rights of working children under Bolivia's own Código Niña, Niño y Adolescente.
+
+Searchable tags: bolivian identities diversity and plurality, Bolivia, social studies, culture-and-work
