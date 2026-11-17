@@ -1,15 +1,20 @@
 # Sources — Setting and serving the table
 
-countries: Azerbaijan
+countries: Azerbaijan, Moldova
 
 **Book 1:** Учебник по предмету «Технология» для 2-х классов общеобразовательных заведений — *Technology, Grade 2* (student textbook) — Azerbaijan. Authors: Натик Ахундов (Natik Akhundov), Гумеир Ахмедов (Gumeir Akhmedov), Светлана Яхьяева (Svetlana Yakhyaeva). Publisher: © Ministry of Education of the Republic of Azerbaijan (Azərbaycan Respublikası Təhsil Nazirliyi); published under CC BY-NC-SA 4.0 via www.trims.edu.az (AS Poliqraf). Year/edition: not stated on the pages read (current trims.edu.az edition). Grade: 2. Language: Russian — the file actually held is the RUSSIAN edition (cover: «ТЕХНОЛОГИЯ 2 — УЧЕБНИК»); the library record and the placements record name this book as the Azerbaijani-sector edition ("Texnologiya — 2-ci sinif"), but the secured file actually held is the parallel Russian-language edition of the same textbook, and the content placed here is that Russian edition's. Pages: 75 (PDF, image-only scan — read via OCR and the printed contents, pp. 4–5 of the PDF); verified byte size 71,599,562 (the record carries no size; the file was located by exact-name scan of the releases). Source + route: tensae-code/liqlearns-textbooks, release asset in mid-size-books-2 (asset grade-02-gov-azerbaijan-technology-student-full-year.pdf), downloaded via the Releases API asset route after the tree route 404'd — grade-02/gov/azerbaijan/technology/student/full-year.pdf. Kind: student textbook. Read: COMPLETE (contents read in full; every lesson's pages OCR'd and checked; printed p. = PDF p. − 2). Placements at liqlearns-courses-work/expansion-td-2026-11-17/azerbaijan-placements.md.
+
+**Book 2:** *Educație tehnologică — Manual pentru clasa a 4-a (Technological Education — Textbook for Grade 4)* (student textbook) — Moldova, Authors: Elena Grosu, Rodica Croitoru, Lucia Ciobanu, Ion Bălteanu. Publisher: Editura Epigraf, © 2017; approved by Order no. 455 of 31 May 2013 of the Minister of Education; ISBN 978-9975-60-251-8. Grade: Grade 4. Language: Romanian. Pages: 105 (PDF; printed p. = PDF p. − 1), verified byte size 40,111,053 = record size (record also states 105 pages). Source + route: tensae-code/liqlearns-textbooks, release asset in mid-size-books-8 (asset grade-04-gov-moldova-technological-education-student-moldova-g04-technological-education.pdf), downloaded via the Releases API asset route after the tree route failed and the release-object search missed it — grade-04/gov/moldova/technological-education/student/moldova-g04-technological-education.pdf. Kind: student textbook. Read: COMPLETE (all modules read; section openings and technique pages read in full). Placements at liqlearns-courses-work/expansion-td-2026-11-17/moldova-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Cutlery and setting the table: the tableware used at breakfast and at lunch, how each piece is used, and how the table is laid for breakfast and for lunch (original string `cutlery and setting the table`) | Azerbaijan, *Технология (Technology), Grade 2* (Russian edition, as held), printed p. 12 |
+| Ways of serving the table and laying it for a meal (original string `setting and serving the table`) | Moldova, *Educație tehnologică — Manual pentru clasa a IV-a (Grade 4)*, printed p. 20 |
 
-**Acceptance count: taught in 1 country (Azerbaijan).**
+**Acceptance count: taught in 2 countries (Azerbaijan, Moldova).**
 
 Azerbaijan's own way: Grade 2 *Технология* teaches technology through making from the very first lessons — materials and the means of processing them first, then a named sequence of makes: plasticine modelling by named methods, appliqué, mosaic from many small materials, origami, paper-strip weaving and first sewing — each technique taught on one pictured make, in the Russian edition of Azerbaijan's textbook as held.
 
-Searchable tags: table setting, cutlery, tableware, breakfast, lunch, food technology, Azerbaijan, Grade 2, Russian edition
+Moldova's own way: Moldova teaches table setting inside the Grade 4 food module of *Educație tehnologică* — the ways of serving the table and laying it for a meal — alongside checking food quality, kitchen hygiene and first dishes.
+
+Searchable tags: table setting, cutlery, tableware, breakfast, lunch, food technology, Azerbaijan, Grade 2, Russian edition, Moldova, Grade 4, serving the table

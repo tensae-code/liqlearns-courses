@@ -5,11 +5,11 @@ things works the same everywhere; only the way of teaching
 differs, and the way shows inside as examples. The path climbs
 from the hand to the drawing board to the workshop.
 
-**First Steps → Technical Drawing → Materials → Metal → Wood → Mechanisms and Machines → Electrical Installations and the Home → Textiles and Fashion → Radiography Technology → Design and Making → Models and Robotics → Workshop and Safety → Electricity and Electronics → Food Technology → Paper, Card and Modelling → Construction and Building → Agriculture Technology → Energy**
+**First Steps → Technical Drawing → Materials → Metal → Machining → Wood → Mechanisms and Machines → Electrical Installations and the Home → Textiles and Fashion → Radiography Technology → Design and Making → Models and Robotics → Workshop and Safety → Electricity and Electronics → Food Technology → Paper, Card and Modelling → Construction and Building → Vehicle Technology → Printing and Bookbinding → Agriculture Technology → Energy**
 
-Stocked titles so far: **225 lessons**.
+Stocked titles so far: **276 lessons**.
 
-**Technical Drawing** (technical-drawing/) — 37 lessons:
+**Technical Drawing** (technical-drawing/) — 40 lessons:
 17 built from Ethiopia's Grade 12 teacher guide (2003 E.C.,
 GEQIP generation) as labelled evidence — see CURRICULUM.md
 and ABOUT.md for the honesty terms — 6 stocked
@@ -39,6 +39,21 @@ Resource & Technology* (Jamaica, 2018):
 - Architectural and construction drawings (architectural-and-construction-drawings/) — stocked 2026-11-17 from Belarus's *Чарчэнне*, Grade 9 (2008)
 - Drawing scales and material representation symbols in architectural drawing (drawing-scales-and-material-representation-symbols-in/) — stocked 2026-11-17 from Samoa's *Design and Technology, Year 11* (MESC, 2003)
 - Drawing and reading architectural floor plans and elevations (drawing-and-reading-architectural-floor-plans-and-elevations/) — stocked 2026-11-17 from Samoa's *Design and Technology, Year 11* (MESC, 2003)
+- Graphic design (graphic-design/) — stocked 2026-11-17 from Moldova's *Educație tehnologică, Grade 9* (Editura Epigraf, 2024)
+- Drawing the living-space layout plan (drawing-the-living-space-layout-plan/) — stocked 2026-11-17 from Moldova's *Educație tehnologică, Grade 9* (Editura Epigraf, 2024)
+- Advertising design (advertising-design/) — stocked 2026-11-17 from Moldova's *Educație tehnologică, Grade 9* (Editura Epigraf, 2024)
+
+Assembly drawings and Line types on drawings also
+carry Moldova placements (1 placement each, from
+Moldova's *Educația tehnologică — Manual pentru
+clasele a 5-a – a 6-a*, Grades 5–6), and four of
+the 17 Ethiopia-evidence lessons also carry Moldova
+placements (5 placements, student textbooks,
+counted): Orthographic projection basics; Surface
+development — flat sheets that become things; Size
+and location dimensions; Free-hand sketching —
+principles and place in design (2 placements,
+Grades 5–6 and Grade 9).
 
 Four of the 17 Ethiopia-evidence lessons also carry Malta
 placements (6 placements): Surface development — flat
@@ -73,7 +88,7 @@ and Technology, Year 11*, 2003 — student textbook,
 counted): Dimensioning — lines, symbols and reading
 direction; Orthographic projection basics.
 
-**First Steps** (first-steps/) — 22 lessons: 3 stocked
+**First Steps** (first-steps/) — 23 lessons: 3 stocked
 2026-11-17 from Canada's *Technology in the Community*
 (Nunavut, Tulliniliara Level 14, student reader), 1
 stocked 2026-11-17 from Jamaica's *National Standards
@@ -108,8 +123,9 @@ counted nowhere):
 - The need (the-need/) — stocked 2026-11-17 from Morocco's *Al Marjie en Technologie, Guide de l'enseignant(e), 2e année* (teacher-guide evidence only, counted nowhere)
 - Technology as a system (technology-as-a-system/) — stocked 2026-11-17 from Morocco's *Al Marjie en Technologie, Guide de l'enseignant(e), 2e année* (teacher-guide evidence only, counted nowhere)
 - Evolution of technical systems (evolution-of-technical-systems/) — stocked 2026-11-17 from Morocco's *Technologie, Guide de l'enseignant(e), 3e année* (teacher-guide evidence only, counted nowhere)
+- Professional fields and the labour market (professional-fields-and-the-labour-market/) — stocked 2026-11-17 from Moldova's *Educație tehnologică, Grade 9* (Editura Epigraf, 2024)
 
-**Materials** (materials/) — 7 lessons: 2 stocked
+**Materials** (materials/) — 8 lessons: 2 stocked
 2026-11-17 from Finland's *Katse tulevaan*
 (TuleVa project learning material, published via aoe.fi),
 2 stocked 2026-11-17 from Gabon's *Super
@@ -127,19 +143,43 @@ Technology* pupil's books (REB, Primary 5–6):
 - Recycling as a technical chain (recycling-as-a-technical-chain/) — stocked 2026-11-17 from Morocco's *Al Marjie en Technologie, Guide de l'enseignant(e), 2e année* (teacher-guide evidence only, counted nowhere)
 - Classification of materials (classification-of-materials/) — stocked 2026-11-17 from Rwanda's *Science and Elementary Technology, Primary 5* (REB)
 - Sustainable waste management (sustainable-waste-management/) — stocked 2026-11-17 from Rwanda's *Science and Elementary Technology, Primary 6* (REB)
+- Ceramics (ceramics/) — stocked 2026-11-17 from Moldova's *Educația tehnologică — Manual pentru clasele a 5-a – a 6-a* (Grades 5–6, G6 half)
 
-**Metal** (metal/) — 1 lesson, stocked 2026-11-17
+**Metal** (metal/) — 2 lessons: 1 stocked 2026-11-17
 from Rwanda's *Science and Elementary Technology,
-Primary 5* (REB) — a new unit in this course:
+Primary 5* (REB), and 1 stocked 2026-11-17 from
+Moldova's *Educație tehnologică, Grade 9* (Editura
+Epigraf, 2024):
 
 - Maintenance of metals (maintenance-of-metals/)
+- Artistic metal processing (artistic-metal-processing/) — stocked 2026-11-17 from Moldova's *Educație tehnologică, Grade 9* (Editura Epigraf, 2024)
 
-**Wood** (wood/) — 2 lessons, stocked 2026-11-17
+**Machining** (machining/) — 2 lessons, stocked
+2026-11-17 from Moldova's *Educație tehnologică*
+textbooks (Grades 5–6 and Grade 9) — a new unit
+in this course:
+
+- The electric drilling machine (the-electric-drilling-machine/)
+- Turning and the lathe (turning-and-the-lathe/)
+
+**Wood** (wood/) — 12 lessons: 2 stocked 2026-11-17
 from Samoa's *Design and Technology, Year 11*
-(MESC, 2003):
+(MESC, 2003), and 10 stocked 2026-11-17 from
+Moldova's *Educație tehnologică* textbooks
+(Grades 4, 5–6 and 9):
 
 - Particleboard, fibreboard and manufactured boards (particleboard-fibreboard-and-manufactured-boards/)
 - Protecting and preserving timber (protecting-and-preserving-timber/)
+- Wood as a material (wood-as-a-material/)
+- Properties of wood (properties-of-wood/)
+- Woodwork — tools and operations (woodwork-tools-and-operations/)
+- Wood joints (wood-joints/)
+- Finishing wood (finishing-wood/)
+- Pyrography (pyrography/)
+- Fretwork (fretwork/)
+- Sharpening and adjusting woodworking tools (sharpening-and-adjusting-woodworking-tools/)
+- Artistic wood carving (artistic-wood-carving/)
+- Artistic wood processing technologies (artistic-wood-processing-technologies/)
 
 **Mechanisms and Machines** (mechanisms-and-machines/) —
 11 lessons: 1 stocked 2026-11-17 from the same Canada book,
@@ -164,7 +204,7 @@ nowhere), and 3 stocked 2026-11-17 from Rwanda's
 - Dangers when using simple machines, and safety in using simple machines (dangers-when-using-simple-machines-and-safety-in-using-simple/) — stocked 2026-11-17 from Rwanda's *Science and Elementary Technology, Primary 6* (REB)
 
 **Electrical Installations and the Home**
-(electrical-installations/) — 3 lessons: 1 stocked
+(electrical-installations/) — 5 lessons: 1 stocked
 2026-11-17 from the same Canada book, 1 stocked
 2026-11-17 from Azerbaijan's *Технология (Technology),
 Grade 2* (Russian edition as held), and 1 stocked
@@ -174,9 +214,11 @@ Technology, Primary 5* (REB):
 - Heating technology at home (heating-technology-at-home/)
 - Technological machines and household appliances (technological-machines-and-household-appliances/)
 - Electrical safety (electrical-safety/) — stocked 2026-11-17 from Rwanda's *Science and Elementary Technology, Primary 5* (REB)
+- Electrical installation work (electromontaj) (electrical-installation-work-electromontaj/) — stocked 2026-11-17 from Moldova's *Educație tehnologică, Grade 9* (Editura Epigraf, 2024)
+- Making a simple electrical article (making-a-simple-electrical-article/) — stocked 2026-11-17 from Moldova's *Educație tehnologică, Grade 9* (Editura Epigraf, 2024)
 
 **Textiles and Fashion** (textiles-and-fashion/) —
-25 lessons: 1 stocked 2026-11-17 from the same Canada book,
+38 lessons: 1 stocked 2026-11-17 from the same Canada book,
 5 stocked 2026-11-17 from Finland's *Katse tulevaan*
 (TuleVa project learning material, published via aoe.fi),
 2 stocked 2026-11-17 from Azerbaijan's *Технология
@@ -211,13 +253,26 @@ Samoa placement (Year 9 Book 3, printed p. 36, 50):
 - Matching decoration to the fibre (matching-decoration-to-the-fibre/)
 - Textile printing (textile-printing/)
 - Twill weaving with pandanus (twill-weaving-with-pandanus/)
+- Embroidery (embroidery/) — stocked 2026-11-17 from Moldova's *Educație tehnologică* textbooks (Grades 4, 5–6 and 9)
+- Embroidery stitches (embroidery-stitches/) — stocked 2026-11-17 from Moldova's *Educație tehnologică* textbooks (Grades 4, 5–6 and 9)
+- Crochet (crochet/) — stocked 2026-11-17 from Moldova's *Educație tehnologică* textbooks (Grades 4, 5–6 and 9)
+- Crochet in the round (crochet-in-the-round/) — stocked 2026-11-17 from Moldova's *Educație tehnologică* textbooks (Grades 4, 5–6 and 9)
+- Knitting (knitting/) — stocked 2026-11-17 from Moldova's *Educație tehnologică* textbooks (Grades 4, 5–6 and 9)
+- Knitting a useful article (knitting-a-useful-article/) — stocked 2026-11-17 from Moldova's *Educație tehnologică* textbooks (Grades 4, 5–6 and 9)
+- Traditional sewing and embroidery techniques (traditional-sewing-and-embroidery-techniques/) — stocked 2026-11-17 from Moldova's *Educație tehnologică* textbooks (Grades 4, 5–6 and 9)
+- Weaving from plant fibres (weaving-from-plant-fibres/) — stocked 2026-11-17 from Moldova's *Educație tehnologică* textbooks (Grades 4, 5–6 and 9)
+- Reading knitting schemes and calculating from a sample (reading-knitting-schemes-and-calculating-from-a-sample/) — stocked 2026-11-17 from Moldova's *Educație tehnologică* textbooks (Grades 4, 5–6 and 9)
+- Beadwork (beadwork/) — stocked 2026-11-17 from Moldova's *Educație tehnologică* textbooks (Grades 4, 5–6 and 9)
+- Clothing design (clothing-design/) — stocked 2026-11-17 from Moldova's *Educație tehnologică* textbooks (Grades 4, 5–6 and 9)
+- Interior design (interior-design/) — stocked 2026-11-17 from Moldova's *Educație tehnologică* textbooks (Grades 4, 5–6 and 9)
+- The ABC of interior designing (the-abc-of-interior-designing/) — stocked 2026-11-17 from Moldova's *Educație tehnologică* textbooks (Grades 4, 5–6 and 9)
 
 **Radiography Technology** (radiography-technology/) —
 1 lesson, stocked 2026-11-17 from the same Canada book:
 
 - X-ray machines (x-ray-machines/)
 
-**Design and Making** (design-and-making/) — 23 lessons:
+**Design and Making** (design-and-making/) — 24 lessons:
 1 stocked 2026-11-17 from Kuwait's الذكاء الرقمي 8
 (*Digital Intelligence, Grade 8, Term 2*, Ministry of
 Education, State of Kuwait), 6 stocked 2026-11-17
@@ -259,9 +314,10 @@ Technology, Year 11*, 2003):
 - Setting up an enterprise (setting-up-an-enterprise/) — stocked 2026-11-17 from Morocco's *Al Marjie en Technologie, Guide de l'enseignant(e), 2e année* (teacher-guide evidence only, counted nowhere)
 - The design project — carrying a project through (the-design-project/) — stocked 2026-11-17 from Morocco's *Technologie, Guide de l'enseignant(e), 3e année* (teacher-guide evidence only, counted nowhere)
 - The design brief (the-design-brief/) — stocked 2026-11-17 from Samoa's *Food & Textiles Technology* books (Year 9 Book 3, 2004; Year 11 Book 2, 2004)
+- Implementing and presenting a design project (implementing-and-presenting-a-design-project/) — stocked 2026-11-17 from Moldova's *Educație tehnologică, Grade 9* (Editura Epigraf, 2024). The design process also carries a Moldova placement (Grade 9, printed p. 28)
 
 **Models and Robotics** (models-and-robotics/) —
-10 lessons: 6 stocked 2026-11-17 from the same Kuwait book,
+11 lessons: 6 stocked 2026-11-17 from the same Kuwait book,
 1 stocked 2026-11-17 from Jamaica's *National
 Standards Curriculum Guide — Grades 4–6 — Resource
 & Technology* (Jamaica, 2018) — Making a toy car
@@ -281,6 +337,7 @@ nowhere):
 - Making a model of a truck (making-a-model-of-a-truck/)
 - Making a balloon-powered car (making-a-balloon-powered-car/)
 - Making an object that uses wind energy (making-an-object-that-uses-wind-energy/)
+- Robotics — how robots are built and move (robotics/) — stocked 2026-11-17 from Moldova's *Educație tehnologică, Grade 9* (Editura Epigraf, 2024)
 
 **Workshop and Safety** (workshop-and-safety/) —
 8 lessons: 1 stocked 2026-11-17 from Malta's Workbook 1,
@@ -343,7 +400,7 @@ The simple electric circuit also carries a Rwanda
 placement (*Science and Elementary Technology,
 Primary 5*, printed p. 198).
 
-**Food Technology** (food-technology/) — 11 lessons:
+**Food Technology** (food-technology/) — 15 lessons:
 1 stocked 2026-11-17 from Azerbaijan's *Технология
 (Technology), Grade 2* (Russian edition as held), and
 10 stocked 2026-11-17 from Samoa's MESC food books —
@@ -363,9 +420,13 @@ reprinted 2004), and *Food Technology* Year 12 (2004):
 - Commercial freezing (commercial-freezing/)
 - Commercial drying of food as a preservation method (commercial-drying-of-food-as-a-preservation-method/)
 - Packaging food (packaging-food/)
+- Checking food quality and storing food (checking-food-quality-and-storing-food/) — stocked 2026-11-17 from Moldova's *Educație tehnologică, Grade 4* (Editura Epigraf, 2017)
+- Hygiene and work-protection norms in the kitchen (hygiene-and-work-protection-norms-in-the-kitchen/) — stocked 2026-11-17 from Moldova's *Educație tehnologică, Grade 4* (Editura Epigraf, 2017)
+- Culinary processing (culinary-processing/) — stocked 2026-11-17 from Moldova's *Educație tehnologică* textbooks (Grade 4; Grades 5–6)
+- Food technology (food-technology/) — stocked 2026-11-17 from Moldova's *Educația tehnologică — Manual pentru clasele a 5-a – a 6-a* (Grades 5–6, G6 half). Setting and serving the table also carries a Moldova placement (Grade 4, printed p. 20)
 
 **Paper, Card and Modelling** (paper-card-and-modelling/) —
-27 lessons: 7 stocked 2026-11-17 from Azerbaijan's
+34 lessons: 7 stocked 2026-11-17 from Azerbaijan's
 *Технология (Technology), Grade 2* (Russian edition
 as held), and 20 stocked 2026-11-17 from Rwanda's
 *Science and Elementary Technology* books (REB,
@@ -399,6 +460,13 @@ teacher-guide evidence only, counted nowhere):
 - Making solids from paper (making-solids-from-paper/) — stocked 2026-11-17 from Rwanda's *Science and Elementary Technology, Primary 6* (REB)
 - Waste management techniques for handling waste sustainably (waste-management-techniques-for-handling-waste-sustainably/) — stocked 2026-11-17 from Rwanda's *Science and Elementary Technology, Primary 6* (REB)
 - Toys, various materials and teaching aids (toys-various-materials-and-teaching-aids/) — stocked 2026-11-17 from Rwanda's *Ubumenyi n'Ikoranabuhanga Riciriritse, Inyoborabarezi, Umwaka wa kabiri* (Kinyarwanda Primary 2 Teacher Guide — evidence only, counted nowhere)
+- Making traditional celebration objects (making-traditional-celebration-objects/) — stocked 2026-11-17 from Moldova's *Educație tehnologică* textbooks (Grades 4, 5–6 and 9)
+- Clay modelling (clay-modelling/) — stocked 2026-11-17 from Moldova's *Educație tehnologică* textbooks (Grades 4, 5–6 and 9)
+- Decorating eggs (folk craft technique) (decorating-eggs-folk-craft-technique/) — stocked 2026-11-17 from Moldova's *Educație tehnologică* textbooks (Grades 4, 5–6 and 9)
+- Making a folk mask / costume (making-a-folk-mask-costume/) — stocked 2026-11-17 from Moldova's *Educație tehnologică* textbooks (Grades 4, 5–6 and 9)
+- Modelling clay on the potter's wheel (modelling-clay-on-the-potter-s-wheel/) — stocked 2026-11-17 from Moldova's *Educație tehnologică* textbooks (Grades 4, 5–6 and 9)
+- Tenon joints (tenon-joints/) — stocked 2026-11-17 from Moldova's *Educație tehnologică* textbooks (Grades 4, 5–6 and 9)
+- The woodworking workplace (the-woodworking-workplace/) — stocked 2026-11-17 from Moldova's *Educație tehnologică* textbooks (Grades 4, 5–6 and 9)
 
 **Agriculture Technology** (agriculture-technology/) —
 2 lessons, stocked 2026-11-17 from Rwanda's *Science
@@ -409,7 +477,7 @@ unit in this course:
 - Caring for agricultural tools (caring-for-agricultural-tools/)
 
 **Construction and Building** (construction-and-building/) —
-7 lessons: 2 stocked 2026-11-17 from Haiti's ITAP Projet
+9 lessons: 2 stocked 2026-11-17 from Haiti's ITAP Projet
 Nectar pedagogical sequences (MENFP, 8e AF —
 teacher-guide evidence only, counted nowhere), and
 5 stocked 2026-11-17 from Samoa's *Design and
@@ -423,8 +491,25 @@ technology also carries 2 Samoa placements:
 - Designing and constructing shelters (designing-and-constructing-shelters/)
 - Concrete work (concrete-work/)
 - Metric and imperial measurement conversion for building (metric-and-imperial-measurement-conversion-for-building/)
+- Building design (building-design/) — stocked 2026-11-17 from Moldova's *Educație tehnologică, Grade 9* (Editura Epigraf, 2024)
+- The dwelling through time (the-dwelling-through-time/) — stocked 2026-11-17 from Moldova's *Educație tehnologică, Grade 9* (Editura Epigraf, 2024)
 
-**Energy** (energy/) — 4 lessons: 3 stocked 2026-11-17
+**Vehicle Technology** (vehicle-technology/) —
+1 lesson, stocked 2026-11-17 from Moldova's
+*Educație tehnologică, Grade 9* (Editura Epigraf,
+2024) — a new unit in this course:
+
+- The motor car (the-motor-car/)
+
+**Printing and Bookbinding** (printing-and-bookbinding/) —
+1 lesson, stocked 2026-11-17 from Moldova's
+*Educația tehnologică — Manual pentru clasele
+a 5-a – a 6-a* (Grades 5–6, G6 half) — a new unit
+in this course:
+
+- Engraving and printing a matrix (engraving-and-printing-a-matrix/)
+
+**Energy** (energy/) — 5 lessons: 3 stocked 2026-11-17
 from Haiti's ITAP Projet Nectar pedagogical sequences
 (MENFP, 8e AF — teacher-guide evidence only, counted
 nowhere), and 1 stocked 2026-11-17 from Morocco's
@@ -437,3 +522,4 @@ placement (1 placement, teacher-guide evidence):
 - Sizing a photovoltaic installation (sizing-a-photovoltaic-installation/)
 - Components of a photovoltaic system (components-of-a-photovoltaic-system/)
 - The energy chain (the-energy-chain/) — 5 Morocco placements, one per function (feed, distribute, convert, transmit, act)
+- Generating electrical energy (generating-electrical-energy/) — stocked 2026-11-17 from Moldova's *Educație tehnologică, Grade 9* (Editura Epigraf, 2024)

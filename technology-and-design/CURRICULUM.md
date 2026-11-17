@@ -1026,6 +1026,145 @@ new materials as the demand rises.
 Placements at
 liqlearns-courses-work/expansion-td-2026-11-17/rwanda-placements.md.
 
+## Moldova, Educație tehnologică — Technological Education (T&D expansion, stocked 2026-11-17)
+
+Stocked from Moldova's *Educație tehnologică*
+(Technological Education) textbooks, in Romanian:
+Grade 4 (Editura Epigraf, © 2017, ISBN
+978-9975-60-251-8), the Grades 5–6 combined volume
+(Editura ARC, 2017 reprint) and Grade 9 (Editura
+Epigraf, 2024, ISBN 978-9975-60-553-3), each read
+COMPLETE. Moldova's subject is the school technology
+subject itself, organised in modules (wood, metal,
+textiles, food, ceramics, design, electrotechnics,
+robotics). Its agriculture modules belong to the
+Agriculture course and are not placed; the Grade 9
+book's business-plan/marketing parts belong to the
+Business course and its hairdressing/cosmetology
+part is occupation-specific service training — none
+of those is placed, as the placements file records;
+end-of-module "Test" pages and glossaries are not
+placed either. Of the 69 placements, 64 were NEW
+LESSON NEEDED — each resolved through the T&D slug
+registry to its canonical lesson: 51 built new (60
+provenance rows) and 4 stocked into existing
+expansion lessons — and 5 were placed directly into
+founding Technical Drawing lessons. Moldova counts
+in the acceptance count (student textbooks, not
+evidence-only).
+
+- **First Steps** (1 new lesson, 13 questions):
+  Professional fields and the labour market (G9,
+  printed p. 145).
+- **Technical Drawing** (3 new lessons, 13 questions
+  each): Graphic design (G9, printed p. 90); Drawing
+  the living-space layout plan (G9, printed p. 83);
+  Advertising design (G9, printed p. 99). Assembly
+  drawings and Line types on drawings also carry
+  Moldova placements (Grades 5–6, printed pp. 15
+  and 14), and four founding lessons carry 5
+  Moldova placements: Orthographic projection
+  basics (printed p. 13); Surface development —
+  flat sheets that become things (printed p. 14);
+  Size and location dimensions (printed p. 14);
+  Free-hand sketching — principles and place in
+  design (Grades 5–6, printed p. 15; Grade 9,
+  printed p. 58).
+- **Design and Making** (1 new lesson, 13
+  questions): Implementing and presenting a design
+  project (G9, printed p. 58). The design process
+  also carries a Moldova placement (G9, printed
+  p. 28).
+- **Materials** (1 new lesson, 13 questions):
+  Ceramics (Grades 5–6, G6 half, printed p. 188).
+- **Wood** (10 new lessons, 13 questions each):
+  Wood as a material (G5, printed p. 5); Properties
+  of wood (printed p. 10); Woodwork — tools and
+  operations (printed pp. 18, 113); Wood joints
+  (printed p. 20); Finishing wood (printed p. 22);
+  Pyrography (printed p. 23); Fretwork (printed
+  p. 27); Sharpening and adjusting woodworking
+  tools (G6, printed p. 121); Artistic wood carving
+  (printed p. 126); Artistic wood processing
+  technologies (G9, printed p. 17).
+- **Metal** (1 new lesson, 13 questions): Artistic
+  metal processing (G9, printed p. 35).
+- **Machining** (2 new lessons, 13 questions each
+  — a new unit in this course): The electric
+  drilling machine (G6, printed p. 120); Turning
+  and the lathe (G9, printed p. 38).
+- **Models and Robotics** (1 new lesson, 13
+  questions): Robotics — how robots are built and
+  move (G9, printed pp. 240, 250).
+- **Electrical Installations and the Home** (2 new
+  lessons, 13 questions each): Electrical
+  installation work (electromontaj) (G9, printed
+  p. 133); Making a simple electrical article
+  (G9, printed p. 137).
+- **Energy** (1 new lesson, 13 questions):
+  Generating electrical energy (G9, printed
+  p. 127).
+- **Textiles and Fashion** (13 new lessons, 13
+  questions each): Embroidery (G4, printed p. 36);
+  Embroidery stitches (printed pp. 39, 138);
+  Crochet (printed pp. 49, 86); Crochet in the
+  round (printed pp. 54, 173); Knitting (printed
+  pp. 77, 72); Knitting a useful article (printed
+  p. 80); Traditional sewing and embroidery
+  techniques (G5, printed p. 34); Weaving from
+  plant fibres (printed pp. 95, 179); Reading
+  knitting schemes and calculating from a sample
+  (G6, printed p. 163); Beadwork (G9, printed
+  p. 9); Clothing design (printed p. 54); Interior
+  design (printed p. 67); The ABC of interior
+  designing (printed p. 80).
+- **Food Technology** (4 new lessons, 13 questions
+  each): Checking food quality and storing food
+  (G4, printed p. 10); Hygiene and work-protection
+  norms in the kitchen (printed p. 14); Culinary
+  processing (printed pp. 16, 53); Food technology
+  (G6, printed p. 144). Setting and serving the
+  table also carries a Moldova placement (G4,
+  printed p. 20).
+- **Paper, Card and Modelling** (7 new lessons, 13
+  questions each): Making traditional celebration
+  objects (G4, printed p. 26); Clay modelling
+  (printed pp. 62, 64); Decorating eggs (folk craft
+  technique) (G5, printed p. 68); Making a folk
+  mask / costume (G6, printed p. 158); Modelling
+  clay on the potter's wheel (printed p. 193);
+  Tenon joints (printed p. 116); The woodworking
+  workplace (G5, printed p. 11). (Tenon joints and
+  The woodworking workplace sit in this unit per
+  the T&D slug registry §1.)
+- **Construction and Building** (2 new lessons, 13
+  questions each): Building design (G9, printed
+  p. 118); The dwelling through time (printed
+  p. 195).
+- **Vehicle Technology** (1 new lesson, 13
+  questions — a new unit in this course): The motor
+  car (G9, printed p. 105).
+- **Printing and Bookbinding** (1 new lesson, 13
+  questions — a new unit in this course): Engraving
+  and printing a matrix (G6, printed p. 131).
+
+Moldova's own way is content and is carried in each
+lesson's sources: *Educație tehnologică* spirals up
+the grades — Grade 4 makes (food under kitchen
+norms, embroidery, crochet, clay, knitting,
+celebration objects), Grades 5–6 systematise (wood
+from the frame saw, drawing standards STAS/ISO,
+the ceramics room and the potter's wheel,
+plant-fibre weaving), and Grade 9 designs: eleven
+parts each run as one project — design
+(elaborare/proiectare) → make (realizare) →
+evaluate and valorise (evaluare și valorificare) —
+from beadwork and clothing design to electromontaj
+and robotics.
+
+Placements at
+liqlearns-courses-work/expansion-td-2026-11-17/moldova-placements.md.
+
 - **Coverage-audit fix pass (2026-11-12)** — the placement-coverage
   audit found 17 of 19 placements stocked; the fix build closed
   the last two. Placement #18 (the solution plates A–J, guide
