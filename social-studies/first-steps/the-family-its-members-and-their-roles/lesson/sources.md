@@ -1,6 +1,6 @@
 # Sources — The Family Its Members and Their Roles
 
-countries: Honduras
+countries: Honduras, Greece
 
 **Book 1:** *Libro para Estudiantes, Ciencias Sociales 1, Primer grado* (student book, Spanish) — Title as printed: Libro para Estudiantes, Ciencias Sociales 1, Primer grado Grade: Grade 1 (student/teacher: STUDENT) Publisher: Secretaría de Educación de Honduras / UPNFM; year 2020 (Edición Preliminar); ISBN 978-99979-59-14-0 (per History wave imprint check) PDF pages: 182 (cover verified: "Ciencias Sociales 1 — Primer grado — Libro para Estudiantes"; byte size 66,184,073 matches the record) Earlier waves: Geography wave placed Bloque 2 (Lessons 10–19), printed pp. 50–93 / History wave placed Bloque 3 lessons (8–9 identity and symbols, 20–23, 25–29), printed pp. 38–46, 94–133 / Economics wave placed Lessons 14 and 31, printed pp. 66, 142 Verdict: COMPLETE Contents map: Integrated SS / Civics (Bloque 1, Lessons 1–7) printed pp. 10–37; Civics/Society (Bloque 4, Lessons 30–38) printed pp. 138–174; stray Civics Lesson 24 printed pp. 110–113; Geography pp. 50–93; History pp. 38–46, 94–137; Economics pp. 66, 142; Personal-health (Lesson 4, sex differences/sexuality) printed pp. 22–25 — named, not placed (Health course's) Tally: 15 placements — 3 to existing lessons, 12 NEW LESSON NEEDED (split corrected by the finisher's mechanical line count: the book's lines carry 3 existing-slug placements — Lessons 24, 37 and 38; the original tally read 2/13) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/honduras-placements.md.
 
@@ -26,3 +26,20 @@ Honduras's own way (Book 1): civics begins inside the child's own circles — fe
 Honduras's own way (Book 7): secondary civics starts from the family as a legal institution — the Family Code (Decree 76-84) enters in Lesson 1 — and builds to the State itself: its elements (population, territory, power), Montesquieu's separation, and the full legislative process ending in publication in La Gaceta.
 
 Searchable tags: the family its members and their roles, Honduras, social studies, first-steps
+
+Greece placements — Social Studies remaining strands (2026-11-17):
+
+**Book 2:** *Koinoniki kai Politiki Agogi ST' Dimotikou* (student book, Greek) — Title as printed: Κοινωνική και Πολιτική Αγωγή Στ΄ Δημοτικού (Social and Political Education, Grade 6 Primary). Grade: Grade 6 (ΣΤ' Δημοτικού) (student/teacher: STUDENT). Publisher: Υπουργείο Παιδείας / ΙΤΥΕ «Διόφαντος»; ISBN 978-960-06-2632-2 (book code 0-10-0204); the record notes this is the older edition. PDF pages: 98 (cover/title page verified against the record title; byte size 13,928,658 = record size exactly). Verdict: COMPLETE. Contents map: Integrated SS (family, education system) pp. 7–22; Religion (the Church of Greece, other religions in Greece) pp. 23–27 — named, not placed (religion strand); Civics/Citizenship/Government pp. 28–63 and pp. 64–79 (municipalities and associations; the state, its forms and constitution; citizen rights; the European Union as a polity and European citizens); Economics p. 35–37 (already placed by the Economics wave); Civics/Global (world problems, international organisations, human rights, rights of the child) pp. 80–97. Tally: 27 placements — 9 to existing lessons, 18 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/greece-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — first-steps/the-family-its-members-and-their-relations — Theme 1 Unit A Ch.1 The family, its members and the relations between them — teaches: who is in a family and how its members relate and care for each other — Greece Grade 6 Koinoniki kai Politiki Agogi ST' Dimotikou, printed p. 8 | Greece, *Koinoniki kai Politiki Agogi ST' Dimotikou* (student book), Theme 1 Unit A Ch.1 The family, its members and the relations between them — printed p. 8 |
+| Greece's way — the book's own teaching way | Greece — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 2 countries (Honduras, Greece).**
+
+Greece's own way (Book 2): two Aristophanes characters (Dikaiopolis and Eirini, "Justice-City" and "Peace") guide the pupil outward from the family to the state, the EU and the world; Greece's own municipalities, constitution and EU membership are the worked examples.
+
+Registry note: the original coined string `first-steps/the-family-its-members-and-their-relations` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/the-family-its-members-and-their-roles`.
+
+Searchable tags: the family its members and their roles, Greece, social studies, first-steps

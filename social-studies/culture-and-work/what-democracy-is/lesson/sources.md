@@ -1,6 +1,6 @@
 # Sources — What Democracy Is
 
-countries: Guatemala, Cambodia, Jordan, South Sudan
+countries: Guatemala, Cambodia, Jordan, South Sudan, Greece
 
 **Book 8:** *Ciencias Sociales y Formación Ciudadana, Sexto Grado, MINEDUC 2025 (student book, Spanish) — links file* — Title as printed: Ciencias Sociales y Formación Ciudadana para sexto grado del Nivel de Educación Primaria Grade: Grade 6 (student/teacher: STUDENT) Publisher: MINEDUC, Ministerio de Educación de Guatemala; 2025 edition; no ISBN printed PDF pages: 226 (byte size 130,541,356 matches the download-list record exactly; title page verified; downloaded from the recorded MINEDUC source and staged in phase3-staging under the new rule — see group log) Earlier waves: not read before (no Grade 6 student book was held) Verdict: COMPLETE (remaining strands read fully: printed pp. 30–31, 46, 50, 93–94, 98, 124–126, 174–175, 187–192, 198–200) Contents map: Civics/Citizenship/Government pp. 30–31 (history of democracy, state institutions), 98 (social participation), 124–126 (authoritarianism vs democracy, parties), 174–175 (democracy in Latin America), 187–192 (duties, citizen rights under Art. 147, participation, human-rights and justice institutions), 198–200 (the Belize case and the International Court of Justice); Morals/Values pp. 46 (conflict resolution), 50 (solidarity coexistence), 93–94 (culture of peace, UN Declaration), 192 (peace as a condition of citizen life); Geography/History/Economics: world-history units (ancient civilisations, Eastern civilisations, the Modern Age, imperialism, world wars, the Cold War, the armed conflict and truth reports as history, poverty) — named here, not placed (other strands' waves) Tally: 14 placements — 2 to existing lessons, 12 NEW LESSON NEEDED (five of them to slugs first needed by Books 5 and 7 of this same wave) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/guatemala-placements.md.
 
@@ -66,3 +66,18 @@ South Sudan's own way (Book 12) (teacher guide — evidence): The guide names th
 Registry note: the original coined string `culture-and-work/what-democracy-is-and-why-it-matters` is recorded in the provenance rows above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/what-democracy-is`.
 
 Searchable tags: what democracy is, South Sudan, social studies, culture-and-work
+
+Greece placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *Koinoniki kai Politiki Agogi E' Dimotikou* (student book, Greek) — Title as printed: Κοινωνική και Πολιτική Αγωγή Ε΄ Δημοτικού (Social and Political Education, Grade 5 Primary). Grade: Grade 5 (Ε' Δημοτικού) (student/teacher: STUDENT). Publisher: Υπουργείο Παιδείας, Θρησκευμάτων και Αθλητισμού / ΙΕΠ / ΙΤΥΕ «Διόφαντος»; ISBN 978-960-06-2587-5 (book code 0-10-0203). PDF pages: 94 (cover/title page verified against the record title; byte size 10,925,204 = record size exactly). Earlier waves: Geography wave filed this book RECORD ONLY (pure Civics, contents named, nothing placed); History wave the same; Economics wave the same (no Economics parts). No earlier wave placed its civics strands — this wave places them. Verdict: COMPLETE. Contents map: Civics/Citizenship pp. 8–86 (whole book: Unit A We are all citizens pp. 8–43; Unit B We have rights and obligations pp. 46–60; Unit C We live in democracy pp. 62–76; Unit D We take part in decisions pp. 78–86); the four "Τι έμαθα ως τώρα" (What I learned so far) chapters and the "Εν συντομία" summaries are Revision/Assessment — named, not placed. Tally: 17 placements — 4 to existing lessons, 13 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/greece-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — culture-and-work/what-democracy-is — Unit C Ch.1 What is democracy? — teaches: democracy as rule by the people, deciding together and respecting the decision — Greece Grade 5 Koinoniki kai Politiki Agogi E' Dimotikou, printed p. 62 | Greece, *Koinoniki kai Politiki Agogi E' Dimotikou* (student book), Unit C Ch.1 What is democracy? — printed p. 62 |
+| Greece's way — the book's own teaching way | Greece — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 5 countries (Guatemala, Cambodia, Jordan, South Sudan, Greece).**
+
+Greece's own way (Book 1): citizenship is taught through two child guides (Danai and Alexandros) who walk the pupil from belonging, through rights, to the Greek Parliament and the municipality — Greece's own institutions are the examples throughout.
+
+Searchable tags: what democracy is, Greece, social studies, culture-and-work

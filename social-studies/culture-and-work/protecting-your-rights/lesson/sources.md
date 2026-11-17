@@ -1,6 +1,6 @@
 # Sources — Protecting Your Rights
 
-countries: Cambodia, South Sudan, Mongolia
+countries: Cambodia, South Sudan, Mongolia, Greece
 
 **Book 1:** *សិក្សាសង្គម ថ្នាក់ទី១០ (Social Studies, Grade 10)* (student book, Khmer) — Title as printed: សិក្សាសង្គម ថ្នាក់ទី១០ (Social Studies, Grade 10). Grade: 10 (student/teacher: STUDENT). Publisher: MoEYS Publishing and Distribution House; year 2020; ISBN 978-9995-000-98-1. PDF pages: 385 (cover/title page verified against the record title; byte size and pdfinfo page count verified EXACT against the record; read in place at ~/workspace/phase3-staging/, never moved or deleted; all reading was visual, from rendered pages, because the book's text layer uses a legacy font encoding; printed p. = PDF p. − 5 in this book). Earlier waves: Geography wave placed the Geography section (printed pp. 1–96); History wave placed the History section (pp. 97–194); Economics wave placed the Home Economics section's family-economy and family-business parts (pp. 289–380). Verdict: COMPLETE. Contents map: Civics/Morals/Culture — the section សីលធម៌-ពលរដ្ឋវិទ្យា (Morality–Civics) printed pp. 195–288: Ch. 1 តម្លៃមនុស្ស (Human values) pp. 195–222 (creativity p. 196 — named, not placed; responsible decision-making p. 200; helping each other in brotherhood p. 204; volunteering p. 208; morality and human values p. 212; sujivadharm p. 216); Ch. 2 វប្បធម៌សន្តិភាព (Culture of peace) pp. 223–256 (violence p. 224; Khmer ancient temple architecture p. 230; matriarchy p. 238; family happiness p. 244; mental health p. 250 — Health, named, not placed); Ch. 3 ការចូលរួមអភិវឌ្ឍសហគមន៍ (Joining community development) pp. 257–288 (the rule of law p. 258; the Constitution p. 264; top institutions p. 270; rights and duties p. 276; expressing opinions p. 280; protecting one's own rights p. 284). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/cambodia-placements.md.
 
@@ -63,3 +63,20 @@ Registry note: the original coined string `culture-and-work/how-the-law-protects
 Registry note: the original coined string `culture-and-work/who-guards-our-rights-at-home-and-in-the-world` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/protecting-your-rights`.
 
 Searchable tags: protecting your rights, Mongolia, social studies, culture-and-work
+
+Greece placements — Social Studies remaining strands (2026-11-17):
+
+**Book 16:** *Koinoniki kai Politiki Agogi G' Gymnasiou* (student book, Greek) — Title as printed: Κοινωνική & Πολιτική Αγωγή, Γ΄ Γυμνασίου (Koinoniki kai Politiki Agogi, Grade 9 — Social and Political Education). Grade: Grade 9 (Γ' Gymnasiou) (student/teacher: STUDENT). Publisher: Ministry of Education, Religious Affairs and Sports / IEP / ITYE «Διόφαντος»; authors Stella Sotiriou, Styliani Kordonouri, Aikaterini Zafranidou (as printed on the cover); ISBN 978-960-06-5170-8; book code 0-21-0209. PDF pages: 154 (22,693,648 bytes — byte-exact against the release asset and the Economics wave's verified read; cover rendered and read in this wave. The release asset repeatedly truncated under grab.py; it was finally fetched complete with a resumable Range-request download over the same GitHub API asset route, size-matched to the byte.). Earlier waves: Economics wave filed this book RECORD-ONLY (no Economics parts) with a verified contents map; Geography/History waves did not place it either. Its civics/sociology strands — this wave's target — are placed here. Verdict: COMPLETE. Contents map: Sociology pp. 11–58 (Part A, Unit I: The Individual and Society — concepts, social groups, organisation and change, institutions, socialisation and social control, social problems); Civics/State pp. 59–119 (Part B, Unit II: The Individual and the State — the state, constitutions, elections/parties/media, state functions, administration, rights and obligations); European Union pp. 120–133 (Unit III); International Community pp. 134–147 (Unit IV); index of terms pp. 148–151 and index of web addresses p. 151 (inventory only, not placed). Tally: 56 placements — 3 to existing lessons, 53 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/greece-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — culture-and-work/protection-of-rights — Unit II Ch.12 §12.2 Protection of rights — teaches: how rights are protected — Greece Grade 9 Koinoniki kai Politiki Agogi, printed p. 106 | Greece, *Koinoniki kai Politiki Agogi* (student book), Unit II Ch.12 §12.2 Protection of rights — printed p. 106 |
+| Greece's way — the book's own teaching way | Greece — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 4 countries (Cambodia, South Sudan, Mongolia, Greece).**
+
+Greece's own way (Book 16): the Gymnasium course is built as four widening circles — the individual in society, in the state, in the European Union, in the international community — and its sociology is full-dress: stratification, institutions, socialisation and social control each get their own sections before the state is ever mentioned.
+
+Registry note: the original coined string `culture-and-work/protection-of-rights` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/protecting-your-rights`.
+
+Searchable tags: protecting your rights, Greece, social studies, culture-and-work

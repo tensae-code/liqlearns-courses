@@ -1,6 +1,6 @@
 # Sources — Society and Its Institutions
 
-countries: Samoa, Belarus, Syria, El Salvador, Indonesia
+countries: Samoa, Belarus, Syria, El Salvador, Indonesia, Greece
 
 **Book 1:** *Social Studies — Year 11 Book One* (student book, English) — Title as printed: Social Studies — Year 11 Book One. Grade: Year 11 (student/teacher: STUDENT). Publisher: Government of Samoa, Department of Education; year 2003; ISBN 982-517-039-5. PDF pages: 122 (cover/title page verified against the record title; MESC copy, size 38,977,700 B per download list). Read from the MESC ministry source URL recorded in the books.json record — the same MESC PDF the Geography wave verified byte-for-byte against the record and already secured in GitHub (in_pushed: true) — via the browser text route, cover/title page and ISBN checked against the record before reading; no file staged — the book is already in GitHub, as filed in samoa-placements.md. Earlier waves: Geography wave placed Unit 3 The Marine Environment (pp. 58–96) and Unit 5 inquiry skills, and named Units 1–2 "Sociology/History, not placed"; History wave placed Unit 1 Topics 2–3's Black America narrative and Unit 2 Topic 2's Mau story (pp. 11–57) and named Unit 1 Topic 1 (What Are Social Institutions, pp. 6–10) not placed; Economics wave filed the book record-only. The sociology/civics concept teaching (institutions, social change, rights-roles-responsibilities) was read and placed here. Verdict: COMPLETE. Contents map: Integrated SS / Civics pp. 5–57 (Units 1–2 For Better Or For Worse — social institutions, social change, rights/roles/responsibilities, taught through Black America and the Mau); Geography pp. 58–96 (Unit 3, placed by Geography wave); Skills pp. 97–118 (Units 4–5). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/samoa-placements.md.
 
@@ -87,3 +87,20 @@ Indonesia's own way (IPS-G8 teacher): the guide builds each chapter around an Ak
 Registry note: the original coined string `culture-and-work/social-institutions-the-rules-that-order-society` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/society-and-its-institutions`.
 
 Searchable tags: society and its institutions, Indonesia, social studies, culture-and-work
+
+Greece placements — Social Studies remaining strands (2026-11-17):
+
+**Book 16:** *Koinoniki kai Politiki Agogi G' Gymnasiou* (student book, Greek) — Title as printed: Κοινωνική & Πολιτική Αγωγή, Γ΄ Γυμνασίου (Koinoniki kai Politiki Agogi, Grade 9 — Social and Political Education). Grade: Grade 9 (Γ' Gymnasiou) (student/teacher: STUDENT). Publisher: Ministry of Education, Religious Affairs and Sports / IEP / ITYE «Διόφαντος»; authors Stella Sotiriou, Styliani Kordonouri, Aikaterini Zafranidou (as printed on the cover); ISBN 978-960-06-5170-8; book code 0-21-0209. PDF pages: 154 (22,693,648 bytes — byte-exact against the release asset and the Economics wave's verified read; cover rendered and read in this wave. The release asset repeatedly truncated under grab.py; it was finally fetched complete with a resumable Range-request download over the same GitHub API asset route, size-matched to the byte.). Earlier waves: Economics wave filed this book RECORD-ONLY (no Economics parts) with a verified contents map; Geography/History waves did not place it either. Its civics/sociology strands — this wave's target — are placed here. Verdict: COMPLETE. Contents map: Sociology pp. 11–58 (Part A, Unit I: The Individual and Society — concepts, social groups, organisation and change, institutions, socialisation and social control, social problems); Civics/State pp. 59–119 (Part B, Unit II: The Individual and the State — the state, constitutions, elections/parties/media, state functions, administration, rights and obligations); European Union pp. 120–133 (Unit III); International Community pp. 134–147 (Unit IV); index of terms pp. 148–151 and index of web addresses p. 151 (inventory only, not placed). Tally: 56 placements — 3 to existing lessons, 53 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/greece-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — culture-and-work/functions-of-social-institutions — Unit I Ch.4 §4.3 Functions of social institutions — teaches: what institutions do — Greece Grade 9 Koinoniki kai Politiki Agogi, printed p. 32 | Greece, *Koinoniki kai Politiki Agogi* (student book), Unit I Ch.4 §4.3 Functions of social institutions — printed p. 32 |
+| Greece's way — the book's own teaching way | Greece — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 6 countries (Samoa, Belarus, Syria, El Salvador, Indonesia, Greece).**
+
+Greece's own way (Book 16): the Gymnasium course is built as four widening circles — the individual in society, in the state, in the European Union, in the international community — and its sociology is full-dress: stratification, institutions, socialisation and social control each get their own sections before the state is ever mentioned.
+
+Registry note: the original coined string `culture-and-work/functions-of-social-institutions` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/society-and-its-institutions`.
+
+Searchable tags: society and its institutions, Greece, social studies, culture-and-work

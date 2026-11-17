@@ -1,6 +1,6 @@
 # Sources — Global Problems — Peace, Ecology and Demography
 
-countries: Turkmenistan, South Korea
+countries: Turkmenistan, South Korea, Greece
 
 **Book 1:** *Dünýäniň ykdysady we durmuş geografiýasy (World Economic and Social Geography)* (student book, Turkmen) — Turkmenistan, Türkmen döwlet neşirýat gullugy (Turkmen State Publishing Service), Aşgabat; year 2022; no ISBN printed (UDC 373:911.3; order no. 2149). Title as printed: Dünýäniň ykdysady we durmuş geografiýasy (Umumy orta bilim berýän mekdepleriň X synpy üçin okuw kitaby). Grade 10 (X synp) (student). 264 PDF pp. (cover/title page verified against the record title; 264 pages exact match to the books.json record; read via grab.py url (GitHub release; byte size 7,680,130 exact match to the books.json record), verified by pdfinfo + title page; contents read from the printed Mazmuny (pp. 260-262)). Verdict: COMPLETE. Records: 2 records / 1 distinct book (TSV release URL + books.json record are the same book). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/turkmenistan-placements.md.
 
@@ -38,3 +38,18 @@ South Korea's own way (Book 10): this Cheonjae edition reorganises the same nati
 South Korea's own way (Book 11): a second Cheonjae author team's telling of the same frame — its Unit I wrap-up drills the exact constitutional mechanics of rights (restriction only by law, for national security, order or public welfare, never touching the essential content), and its labour pages speak directly to teenagers: young workers hold the same legal protections, and wages, hours, rest and leave are guaranteed by statute.
 
 Searchable tags: global problems — peace, ecology and demography, South Korea, social studies, global-issues
+
+Greece placements — Social Studies remaining strands (2026-11-17):
+
+**Book 2:** *Koinoniki kai Politiki Agogi ST' Dimotikou* (student book, Greek) — Title as printed: Κοινωνική και Πολιτική Αγωγή Στ΄ Δημοτικού (Social and Political Education, Grade 6 Primary). Grade: Grade 6 (ΣΤ' Δημοτικού) (student/teacher: STUDENT). Publisher: Υπουργείο Παιδείας / ΙΤΥΕ «Διόφαντος»; ISBN 978-960-06-2632-2 (book code 0-10-0204); the record notes this is the older edition. PDF pages: 98 (cover/title page verified against the record title; byte size 13,928,658 = record size exactly). Verdict: COMPLETE. Contents map: Integrated SS (family, education system) pp. 7–22; Religion (the Church of Greece, other religions in Greece) pp. 23–27 — named, not placed (religion strand); Civics/Citizenship/Government pp. 28–63 and pp. 64–79 (municipalities and associations; the state, its forms and constitution; citizen rights; the European Union as a polity and European citizens); Economics p. 35–37 (already placed by the Economics wave); Civics/Global (world problems, international organisations, human rights, rights of the child) pp. 80–97. Tally: 27 placements — 9 to existing lessons, 18 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/greece-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — global-issues/global-problems-peace-ecology-demography — Theme 4 Unit A Ch.1 World problems — teaches: the problems the whole world shares (war, poverty, the environment) and why no country solves them alone — Greece Grade 6 Koinoniki kai Politiki Agogi ST' Dimotikou, printed p. 81 | Greece, *Koinoniki kai Politiki Agogi ST' Dimotikou* (student book), Theme 4 Unit A Ch.1 World problems — printed p. 81 |
+| Greece's way — the book's own teaching way | Greece — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 3 countries (Turkmenistan, South Korea, Greece).**
+
+Greece's own way (Book 2): two Aristophanes characters (Dikaiopolis and Eirini, "Justice-City" and "Peace") guide the pupil outward from the family to the state, the EU and the world; Greece's own municipalities, constitution and EU membership are the worked examples.
+
+Searchable tags: global problems — peace, ecology and demography, Greece, social studies, global-issues

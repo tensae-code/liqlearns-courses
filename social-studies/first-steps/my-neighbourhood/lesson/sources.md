@@ -1,6 +1,6 @@
 # Sources — My Neighbourhood
 
-countries: Iran, Serbia, Indonesia
+countries: Iran, Serbia, Indonesia, Greece
 
 **Book 1:** *مطالعات اجتماعی ـ چهارم دبستان (Social Studies, Fourth Grade of Primary School)* (student book, Persian) — Ministry of Education, Organization for Educational Research and Planning (سازمان پژوهش و برنامه‌ریزی آموزشی); printed by the Offset Company (شرکت افست); 13th printing, 1405; ISBN 978-964-05-2358-2; book code 407. Title as printed: مطالعات اجتماعی ـ چهارم دبستان (Social Studies, Fourth Grade of Primary School). Grade: 4 (student/teacher: STUDENT). PDF pages: 120 (printed pagination runs 8 behind the PDF pages: printed p. 2 = PDF p. 10; title page verified as above; read via the record's own GitHub blob URL through grab.py — the first grab was cut short by a download timeout and the file re-grabbed complete, its byte size verified by grab.py). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iran-placements.md.
 
@@ -59,3 +59,24 @@ Indonesia's own way (PP-G4 student): Grade 4 introduces the child's first govern
 Registry note: this placement was filed against `first-steps/my-neighbourhood`, a lesson named in the slug registry §5 as already standing; it is stocked into this canonical lesson, `first-steps/my-neighbourhood`, exactly as the registry directs.
 
 Searchable tags: my neighbourhood, Indonesia, social studies, first-steps
+
+Greece placements — Social Studies remaining strands (2026-11-17):
+
+**Book 3:** *Meleti Perivallontos A' Dimotikou* (student book, Greek) — Title as printed: Μελέτη Περιβάλλοντος Α΄ Δημοτικού (Environmental Studies, Grade 1 Primary). Grade: Grade 1 (Α' Δημοτικού) (student/teacher: STUDENT). Publisher: Υπουργείο Παιδείας / ΙΕΠ / ΙΤΥΕ «Διόφαντος»; ISBN 978-960-06-2467-0 (book code 0-10-0014). PDF pages: 162 (cover verified against the record title; fetched from the record's ebooks.edu.gr source URL after grab.py tree failed — api.github.com unreachable; STAGED at ~/workspace/phase3-staging/grade-01/gov/greece/environmental-studies/full-year.pdf, 30,821,133 bytes, under the 2026-11-13 rule — its books.json record already exists in that folder). Earlier waves: not read before (the EVS series was not in any earlier wave's targets). Verdict: COMPLETE. Contents map: Integrated SS pp. 10–31 and 50–59 (my classroom, my school, my family, my home, my neighbourhood); History/Time pp. 34–42 (family history, my own history, measuring time; the 28 October 1940 and 25 March chapters inside other units are national-history commemorations — named, not placed); Science pp. 45–47, 124–153 (the sun, plants, animals, materials, electricity, sound — named, not placed); Health/Body pp. 81–87 and PE/Sport pp. 90–92 (named, not placed — Health/PE courses); Integrated SS (human needs, people with special needs, goods and professions) pp. 75–78, 96; Communication pp. 101–103; Culture (games then and now, the culture of our place, museum, customs, proverbs, Carnival, Easter, Christmas/New Year) pp. 41, 106–121; Geography pp. 64–72 (coasts, islands, rivers, mountains — named, not placed). Tally: 28 placements — 3 to existing lessons, 25 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/greece-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part 1 — first-steps/my-neighbourhood — My Place, Unit 2 Ch.1 How is my neighbourhood? — teaches: the neighbourhood around the home and what is found in it — Greece Grade 1 Meleti Perivallontos A' Dimotikou, printed p. 53 | Greece, *Meleti Perivallontos A' Dimotikou* (student book), My Place, Unit 2 Ch.1 How is my neighbourhood? — printed p. 53 |
+| Greece part 2 — first-steps/the-people-of-the-neighbourhood — My Place, Unit 2 Ch.2 The people of the neighbourhood — teaches: the people who live and work around us — Greece Grade 1 Meleti Perivallontos A' Dimotikou, printed p. 55 | Greece, *Meleti Perivallontos A' Dimotikou* (student book), My Place, Unit 2 Ch.2 The people of the neighbourhood — printed p. 55 |
+| Greece part 3 — first-steps/the-neighbourhood-and-the-environment — My Place, Unit 2 Ch.4 The neighbourhood and the environment — teaches: keeping the neighbourhood clean and cared for as a shared duty — Greece Grade 1 Meleti Perivallontos A' Dimotikou, printed p. 59 | Greece, *Meleti Perivallontos A' Dimotikou* (student book), My Place, Unit 2 Ch.4 The neighbourhood and the environment — printed p. 59 |
+| Greece's way — the book's own teaching way | Greece — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 4 countries (Iran, Serbia, Indonesia, Greece).**
+
+Greece's own way (Book 3): the youngest pupils' integrated subject is built as widening circles — classroom, school, family, home, neighbourhood — introduced by two puppet-like guides (Leon and Milo), with Greek feasts and customs carrying the culture strand.
+
+Registry note: the original coined string `first-steps/the-people-of-the-neighbourhood` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §5 into this existing lesson, `first-steps/my-neighbourhood`.
+
+Registry note: the original coined string `first-steps/the-neighbourhood-and-the-environment` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §5 into this existing lesson, `first-steps/my-neighbourhood`.
+
+Searchable tags: my neighbourhood, Greece, social studies, first-steps

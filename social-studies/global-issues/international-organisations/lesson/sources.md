@@ -1,6 +1,6 @@
 # Sources — International Organisations
 
-countries: North Macedonia, Costa Rica, Sierra Leone, Bahamas, Bhutan, Tanzania, Mexico, Fiji, Bangladesh, Palestine, Sri Lanka, Cambodia, Jordan, South Sudan, Zimbabwe, Dominican Republic, Honduras, Laos, South Korea
+countries: North Macedonia, Costa Rica, Sierra Leone, Bahamas, Bhutan, Tanzania, Mexico, Fiji, Bangladesh, Palestine, Sri Lanka, Cambodia, Jordan, South Sudan, Zimbabwe, Dominican Republic, Honduras, Laos, South Korea, Greece
 
 **Book 1:** *Географија за I година гимназиско образование (Geography for Year 1 of gymnasium education)* (student book, Macedonian) — North Macedonia, Тримакс (Trimaks), Skopje; year 2025; ISBN 978-608-204-519-1; author Prof. Dr. Blagoja Markoski; approved by the National Textbook Commission, decision 26-936/1 of 26.08.2025. Title as printed: Географија за I година гимназиско образование (Geography for Year 1 of gymnasium education). Grade: Grade 10 / gymnasium Year 1 (student/teacher: STUDENT). PDF pages: 128 (cover/title verified against the record; matches the record's 128 pages). Verdict: COMPLETE. Records note: 11 records / 6 distinct books (2 TSV blob records for Grades 7 and 9 + 6 books.json records for Grades 7–12, of which Grades 7 and 9 duplicate the TSV records; plus 3 link_records from Telegram for Grades 8, 11 and 12, which are the same 3 books as the books.json Grade 8/11/12 records) / Grades 7, 9, 10 read full page-by-page via pdftotext -layout after cover verification (fetched by git sparse-checkout from the repo tree — the API routes truncated every transfer over ~21 MB, git transport verified the blobs itself). Grades 8, 11, 12 filed UNREAD: their files are NOT in the repo tree (verified by git ls-tree on main), NOT in any GitHub release (all 12 release tags searched), their phase3-staging geography/student folders are empty, the ministry source URLs now return 404, and Wayback holds no snapshot of the Macedonian Grade 8/11/12 editions — the only remaining copy is the Telegram channel named in the link records, which needs a Telegram browser task. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/north-macedonia-placements.md.
 
@@ -266,3 +266,18 @@ South Korea's own way (Book 3): Cheonjae's Integrated Society teaches the same n
 South Korea's own way (Book 7): Donga writes every lesson as a question ("Why is civil disobedience ever needed?", "What does universal ethics do in understanding a culture?") and is the only one of the five publishers to teach civil disobedience (시민 불복종) beside the law-abiding spirit, and to split the conditions of happiness into two lessons — living environment/economic stability, then democracy's development and moral practice.
 
 Searchable tags: international organisations, South Korea, social studies, global-issues
+
+Greece placements — Social Studies remaining strands (2026-11-17):
+
+**Book 2:** *Koinoniki kai Politiki Agogi ST' Dimotikou* (student book, Greek) — Title as printed: Κοινωνική και Πολιτική Αγωγή Στ΄ Δημοτικού (Social and Political Education, Grade 6 Primary). Grade: Grade 6 (ΣΤ' Δημοτικού) (student/teacher: STUDENT). Publisher: Υπουργείο Παιδείας / ΙΤΥΕ «Διόφαντος»; ISBN 978-960-06-2632-2 (book code 0-10-0204); the record notes this is the older edition. PDF pages: 98 (cover/title page verified against the record title; byte size 13,928,658 = record size exactly). Verdict: COMPLETE. Contents map: Integrated SS (family, education system) pp. 7–22; Religion (the Church of Greece, other religions in Greece) pp. 23–27 — named, not placed (religion strand); Civics/Citizenship/Government pp. 28–63 and pp. 64–79 (municipalities and associations; the state, its forms and constitution; citizen rights; the European Union as a polity and European citizens); Economics p. 35–37 (already placed by the Economics wave); Civics/Global (world problems, international organisations, human rights, rights of the child) pp. 80–97. Tally: 27 placements — 9 to existing lessons, 18 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/greece-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — global-issues/international-organisations — Theme 4 Unit A Ch.2 The role of international organisations — teaches: what international organisations do and why states work through them — Greece Grade 6 Koinoniki kai Politiki Agogi ST' Dimotikou, printed p. 83 | Greece, *Koinoniki kai Politiki Agogi ST' Dimotikou* (student book), Theme 4 Unit A Ch.2 The role of international organisations — printed p. 83 |
+| Greece's way — the book's own teaching way | Greece — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 16 countries (North Macedonia, Costa Rica, Bahamas, Tanzania, Mexico, Fiji, Bangladesh, Palestine, Sri Lanka, Cambodia, Jordan, South Sudan, Dominican Republic, Honduras, South Korea, Greece).** Sierra Leone, Bhutan, Zimbabwe and Laos are named here as teacher-guide evidence only, counted nowhere.
+
+Greece's own way (Book 2): two Aristophanes characters (Dikaiopolis and Eirini, "Justice-City" and "Peace") guide the pupil outward from the family to the state, the EU and the world; Greece's own municipalities, constitution and EU membership are the worked examples.
+
+Searchable tags: international organisations, Greece, social studies, global-issues

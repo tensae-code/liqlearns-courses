@@ -1,0 +1,9 @@
+# Video script — Knowing Our Rights Taking Our Obligations
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). This script is full: the placements name a video-script need for this lesson. Made later, when videos are made; the script is the slot's written form until then.
+
+---
+
+Greece Grade 5 Koinoniki kai Politiki Agogi E' Dimotikou (printed p. 46), teaches: Rights and duties come as a pair; knowing both is the citizen's start.
+
+Greece's own way: citizenship is taught through two child guides (Danai and Alexandros) who walk the pupil from belonging, through rights, to the Greek Parliament and the municipality — Greece's own institutions are the examples throughout.

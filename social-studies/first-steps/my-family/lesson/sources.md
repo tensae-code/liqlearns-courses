@@ -1,6 +1,6 @@
 # Sources — My Family
 
-countries: Ecuador, Fiji, Oman, Syria, Venezuela, Colombia, Kazakhstan, Angola, Cambodia, Jordan, Myanmar, Iran, El Salvador, Laos
+countries: Ecuador, Fiji, Oman, Syria, Venezuela, Colombia, Kazakhstan, Angola, Cambodia, Jordan, Myanmar, Iran, El Salvador, Laos, Greece
 
 **Book 1:** *Estudios Sociales 2do EGB* (student book, Spanish) — Ministerio de Educación del Ecuador; year 2024 (Primera Edición); ISBN 978-9942-662-16-3. Title as printed: Estudios Sociales — Educación General Básica, Subnivel Elemental, Segundo de Básica; Texto del estudiante para la transición curricular. Grade: Grade 2 (student/teacher: STUDENT). PDF pages: 114 (cover/title page verified against the record title; read in place in phase3-staging, 8.6 MB on disk; full text layer read). Earlier waves: Geography wave placed pp. 25–113 geography parts and over-placed three remaining-strand topics (Tipos de viviendas, Grupos étnicos del Ecuador, Patrimonios culturales) plus the parish/administrative-division topics as geography lessons — none re-placed here / History wave placed 4 history placements / Economics wave filed it RECORD-ONLY (no Economics parts; its contents evidence names the same Civics temas placed here). Verdict: COMPLETE. Contents map: Integrated SS pp. 6–51 (family; my school and school coexistence; community actors and places); Civics/Citizenship pp. 6–24 (family rights, responsibilities, commitments and agreements), p. 87ff. (universal human rights); Morals/Values pp. 39–51 (convivencia — respect, difference, helping the community); Geography pp. 25–37, 52–86, 87–113 (placed by the Geography wave); Culture pp. 52–67 (placed by the Geography wave). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/ecuador-placements.md.
 
@@ -297,3 +297,20 @@ Laos's teacher-guide placements in this section are evidence only, outside the a
 Laos's own way (Book 9): the subject opens in the first weeks of a child's schooling with the road, the school and the flag, then moves home — thank-you and sorry, elders, neighbours — ending the year by widening respect to the whole community.
 
 Searchable tags: my family, Laos, social studies, first-steps
+
+Greece placements — Social Studies remaining strands (2026-11-17):
+
+**Book 3:** *Meleti Perivallontos A' Dimotikou* (student book, Greek) — Title as printed: Μελέτη Περιβάλλοντος Α΄ Δημοτικού (Environmental Studies, Grade 1 Primary). Grade: Grade 1 (Α' Δημοτικού) (student/teacher: STUDENT). Publisher: Υπουργείο Παιδείας / ΙΕΠ / ΙΤΥΕ «Διόφαντος»; ISBN 978-960-06-2467-0 (book code 0-10-0014). PDF pages: 162 (cover verified against the record title; fetched from the record's ebooks.edu.gr source URL after grab.py tree failed — api.github.com unreachable; STAGED at ~/workspace/phase3-staging/grade-01/gov/greece/environmental-studies/full-year.pdf, 30,821,133 bytes, under the 2026-11-13 rule — its books.json record already exists in that folder). Earlier waves: not read before (the EVS series was not in any earlier wave's targets). Verdict: COMPLETE. Contents map: Integrated SS pp. 10–31 and 50–59 (my classroom, my school, my family, my home, my neighbourhood); History/Time pp. 34–42 (family history, my own history, measuring time; the 28 October 1940 and 25 March chapters inside other units are national-history commemorations — named, not placed); Science pp. 45–47, 124–153 (the sun, plants, animals, materials, electricity, sound — named, not placed); Health/Body pp. 81–87 and PE/Sport pp. 90–92 (named, not placed — Health/PE courses); Integrated SS (human needs, people with special needs, goods and professions) pp. 75–78, 96; Communication pp. 101–103; Culture (games then and now, the culture of our place, museum, customs, proverbs, Carnival, Easter, Christmas/New Year) pp. 41, 106–121; Geography pp. 64–72 (coasts, islands, rivers, mountains — named, not placed). Tally: 28 placements — 3 to existing lessons, 25 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/greece-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — first-steps/the-family-who-we-are — The Group, Unit 3 Ch.1 The family — teaches: what a family is and who belongs to it — Greece Grade 1 Meleti Perivallontos A' Dimotikou, printed p. 26 | Greece, *Meleti Perivallontos A' Dimotikou* (student book), The Group, Unit 3 Ch.1 The family — printed p. 26 |
+| Greece's way — the book's own teaching way | Greece — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 13 countries (Ecuador, Fiji, Syria, Venezuela, Colombia, Kazakhstan, Angola, Cambodia, Jordan, Myanmar, Iran, El Salvador, Greece).** Oman and Laos are named here as teacher-guide evidence only, counted nowhere.
+
+Greece's own way (Book 3): the youngest pupils' integrated subject is built as widening circles — classroom, school, family, home, neighbourhood — introduced by two puppet-like guides (Leon and Milo), with Greek feasts and customs carrying the culture strand.
+
+Registry note: the original coined string `first-steps/the-family-who-we-are` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/my-family`.
+
+Searchable tags: my family, Greece, social studies, first-steps

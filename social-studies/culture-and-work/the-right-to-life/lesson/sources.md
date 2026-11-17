@@ -1,6 +1,6 @@
 # Sources — The Right to Life
 
-countries: Honduras
+countries: Honduras, Greece
 
 **Book 6:** *Libro para Estudiantes, Ciencias Sociales 6, Sexto grado* (student book, Spanish) — Title as printed: Libro para Estudiantes, Ciencias Sociales 6, Sexto grado Grade: Grade 6 (student/teacher: STUDENT) Publisher: Secretaría de Educación de Honduras / UPNFM; year 2020; no ISBN printed PDF pages: 222 (cover verified: "Ciencias Sociales 6 — Sexto grado"; byte size 98,427,961 matches the record; read from the recorded ministry source educatrachos.hn, byte-identical to the secured copy) Earlier waves: Geography wave placed Bloque 2 (Lessons 10–19) and Bloque 4 Lessons 32, 34, 35, 36, 37 / History wave placed Lessons 20–27, 30, 35 / Economics wave placed Lessons 18, 19, 28, 32 and named Lesson 38 Verdict: COMPLETE Contents map: Integrated SS / Civics (Bloque 1, Lessons 1–9) printed pp. 10–54; Civics/Global (Bloque 4, Lessons 31, 33, 38) printed pp. 171–175, 181–185, 206–210; Geography pp. 58–107, 186–200; History pp. 112–151, 166–170, 191–195; Economics pp. 98–107, 152–156, 176–180; Science/technology (Lesson 29) pp. 157–161 — named, not placed Tally: 12 placements — 3 to existing lessons, 9 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/honduras-placements.md.
 
@@ -31,3 +31,18 @@ Honduras's own way (Book 8): Grade 8 is the moral-and-legal year — moral consc
 Registry note: the original coined string `culture-and-work/the-right-to-life-and-respect-for-life` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/the-right-to-life`.
 
 Searchable tags: the right to life, Honduras, social studies, culture-and-work
+
+Greece placements — Social Studies remaining strands (2026-11-17):
+
+**Book 4:** *Meleti Perivallontos B' Dimotikou* (student book, Greek) — Title as printed: Μελέτη Περιβάλλοντος Β΄ Δημοτικού (Environmental Studies, Grade 2 Primary). Grade: Grade 2 (Β' Δημοτικού) (student/teacher: STUDENT). Publisher: Υπουργείο Παιδείας / ΙΕΠ / ΙΤΥΕ «Διόφαντος»; ISBN 978-960-06-2500-4 (book code 0-10-0043). PDF pages: 154 (cover verified against the record title; contents read from rendered pages — the text layer's display font does not extract; fetched from the record's ebooks.edu.gr source URL after grab.py tree failed — api.github.com unreachable; STAGED at ~/workspace/phase3-staging/grade-02/gov/greece/environmental-studies/full-year.pdf, 32,794,089 bytes, under the 2026-11-13 rule — its books.json record already exists in that folder). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Integrated SS pp. 12–20 (my school, its surroundings, school rules) and pp. 24–39 (my neighbourhood: its places, homes and families, its services, its green, caring for it, village and city); Civics/Rights pp. 48–50 (the right to life, the right to peace); Religion p. 32 (the neighbourhood church — named, not placed); Geography pp. 40–42 (orientation), 86–96 (places of my homeland), 97–99 (water); History pp. 38, 44–47 (the neighbourhood from yesterday to today; grandma remembers; changes through time — the change-in-my-place chapter is placed below under the Strand B target lesson); Science pp. 52–84 (animals, plants), 100–112 (weather, living/non-living, materials, energy); Integrated SS (transport, communication) pp. 113–122; Culture pp. 124–132 (monuments, folklore museum, old objects, the panigyri festival) and p. 142 (Let's celebrate); PE/Leisure pp. 133–134 and Health p. 136 (named, not placed); the "Τι θα μάθουμε" review lessons and the Glossary (p. 146, inventory only) are not placed. Tally: 25 placements — 9 to existing lessons, 16 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/greece-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — culture-and-work/the-right-to-life — Unit 5.1 Right to life — teaches: every child's right to live and be safe — Greece Grade 2 Meleti Perivallontos B' Dimotikou, printed p. 48 | Greece, *Meleti Perivallontos B' Dimotikou* (student book), Unit 5.1 Right to life — printed p. 48 |
+| Greece's way — the book's own teaching way | Greece — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 2 countries (Honduras, Greece).**
+
+Greece's own way (Book 4): Grade 2 widens Grade 1's circles — the neighbourhood is now studied service by service (its church named as a landmark, its green discovered, its past compared with today), and the child's first rights appear as their own unit: the right to life and the right to peace.
+
+Searchable tags: the right to life, Greece, social studies, culture-and-work

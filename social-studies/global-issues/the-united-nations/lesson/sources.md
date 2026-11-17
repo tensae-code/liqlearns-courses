@@ -1,6 +1,6 @@
 # Sources — The United Nations
 
-countries: Kuwait, Bangladesh, Sri Lanka
+countries: Kuwait, Bangladesh, Sri Lanka, Greece
 
 **Book 6:** *Social Studies G9 Term 2* (student book, Arabic) — Title as printed: دولة الكويت والعالم — الصف التاسع — الفصل الدراسي الثاني (State of Kuwait and the World, Grade 9, Term 2). Grade: Grade 9 Term 2 (student/teacher: STUDENT). Publisher: Ministry of Education, State of Kuwait; year 2025–2026 (1st edition, 1447H); ISBN no ISBN printed. PDF pages: 106 (cover verified — Kuwait Towers cover, "Grade 9, Second Term", world-map inset; 27,418,994 bytes via the staging books.json's recorded Google Drive source, matching the record size exactly; printed page numbers = PDF page numbers). Earlier waves: Geography wave placed this book's Term-1-carryover geography/economics parts (printed pp. 84–100); Economics wave placed the economics slices inside the civics units (the tolerance lesson's economic pages 25–27, economic relations 36–38, the agencies' economic pages 59–61, poverty and education 74–76, oil prices 80–83) — ALREADY PLACED, not re-placed; the civics teachings around those slices are placed here. History wave found no History parts. Verdict: COMPLETE. Contents map: Civics/Global citizenship pp. 14–30; Civics/International relations pp. 32–45; Civics/Organisations pp. 48–62 (world organisations, the UN and its agencies); Morals/Values pp. 68–79 (future challenges: national identity, bullying); Economics pp. 25–27, 36–38, 59–61, 74–83, 84–100. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/kuwait-placements.md.
 
@@ -41,3 +41,18 @@ Sri Lanka's own way (Sri Lanka Grade 11 Social Education and History 2000): the 
 Registry note: the original coined string `global-issues/sri-lanka-and-the-united-nations` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `global-issues/the-united-nations`.
 
 Searchable tags: the united nations, Sri Lanka, social studies, global-issues
+
+Greece placements — Social Studies remaining strands (2026-11-17):
+
+**Book 16:** *Koinoniki kai Politiki Agogi G' Gymnasiou* (student book, Greek) — Title as printed: Κοινωνική & Πολιτική Αγωγή, Γ΄ Γυμνασίου (Koinoniki kai Politiki Agogi, Grade 9 — Social and Political Education). Grade: Grade 9 (Γ' Gymnasiou) (student/teacher: STUDENT). Publisher: Ministry of Education, Religious Affairs and Sports / IEP / ITYE «Διόφαντος»; authors Stella Sotiriou, Styliani Kordonouri, Aikaterini Zafranidou (as printed on the cover); ISBN 978-960-06-5170-8; book code 0-21-0209. PDF pages: 154 (22,693,648 bytes — byte-exact against the release asset and the Economics wave's verified read; cover rendered and read in this wave. The release asset repeatedly truncated under grab.py; it was finally fetched complete with a resumable Range-request download over the same GitHub API asset route, size-matched to the byte.). Earlier waves: Economics wave filed this book RECORD-ONLY (no Economics parts) with a verified contents map; Geography/History waves did not place it either. Its civics/sociology strands — this wave's target — are placed here. Verdict: COMPLETE. Contents map: Sociology pp. 11–58 (Part A, Unit I: The Individual and Society — concepts, social groups, organisation and change, institutions, socialisation and social control, social problems); Civics/State pp. 59–119 (Part B, Unit II: The Individual and the State — the state, constitutions, elections/parties/media, state functions, administration, rights and obligations); European Union pp. 120–133 (Unit III); International Community pp. 134–147 (Unit IV); index of terms pp. 148–151 and index of web addresses p. 151 (inventory only, not placed). Tally: 56 placements — 3 to existing lessons, 53 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/greece-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — global-issues/the-united-nations — Unit IV Ch.14 §14.2 The United Nations — teaches: the UN (section identified from the book's own cross-references and credits: πίν. 14.2 ΟΗΕ) — Greece Grade 9 Koinoniki kai Politiki Agogi, printed p. 138 | Greece, *Koinoniki kai Politiki Agogi* (student book), Unit IV Ch.14 §14.2 The United Nations — printed p. 138 |
+| Greece's way — the book's own teaching way | Greece — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 4 countries (Kuwait, Bangladesh, Sri Lanka, Greece).**
+
+Greece's own way (Book 16): the Gymnasium course is built as four widening circles — the individual in society, in the state, in the European Union, in the international community — and its sociology is full-dress: stratification, institutions, socialisation and social control each get their own sections before the state is ever mentioned.
+
+Searchable tags: the united nations, Greece, social studies, global-issues

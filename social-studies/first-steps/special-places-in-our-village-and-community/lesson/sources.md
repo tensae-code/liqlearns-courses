@@ -1,6 +1,6 @@
 # Sources — Special Places in Our Village and Community
 
-countries: Fiji, Ecuador, Rwanda, Cambodia, South Sudan, Iran
+countries: Fiji, Ecuador, Rwanda, Cambodia, South Sudan, Iran, Greece
 
 **Book 1:** *Social Studies Year 4 (Re-edited Version 2017)* (student book, English) — Fiji, Ministry of Education, Heritage & Arts, Curriculum Development Unit; year 2017 (re-edited); ISBN no ISBN printed. Title as printed: Social Studies Year 4 (Re-edited Version 2017). Grade: Year 4 (student/teacher: STUDENT). PDF pages: 66 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: read from the books.json record's own Wayback source_url (ministry original) after the grab.py GitHub API route failed as in Book 1. Non-Geography parts named, not placed: Strand 1 Social Organisation and Processes — 1.1–1.10 Friends, neighbours and cultural/religious events in our communities (printed pp. 4–31); Strand 2 Time, Continuity and Change — 2.1–2.7 Continuity, change, progress, significant people, studying the past, my village/community history (printed pp. 32–40). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
 
@@ -71,3 +71,18 @@ Iran placements — Social Studies remaining strands (2026-11-17):
 Iran's own way (Iran Social Studies Grade 4): the neighbourhood is taught as a moral community before it is a map — the Prophet's saying on treating neighbours well opens the book, and the nation itself is introduced as "one big family in a big house called Iran" whose shared rules are written in the Constitution.
 
 Searchable tags: special places in our village and community, Iran, social studies, first-steps
+
+Greece placements — Social Studies remaining strands (2026-11-17):
+
+**Book 4:** *Meleti Perivallontos B' Dimotikou* (student book, Greek) — Title as printed: Μελέτη Περιβάλλοντος Β΄ Δημοτικού (Environmental Studies, Grade 2 Primary). Grade: Grade 2 (Β' Δημοτικού) (student/teacher: STUDENT). Publisher: Υπουργείο Παιδείας / ΙΕΠ / ΙΤΥΕ «Διόφαντος»; ISBN 978-960-06-2500-4 (book code 0-10-0043). PDF pages: 154 (cover verified against the record title; contents read from rendered pages — the text layer's display font does not extract; fetched from the record's ebooks.edu.gr source URL after grab.py tree failed — api.github.com unreachable; STAGED at ~/workspace/phase3-staging/grade-02/gov/greece/environmental-studies/full-year.pdf, 32,794,089 bytes, under the 2026-11-13 rule — its books.json record already exists in that folder). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Integrated SS pp. 12–20 (my school, its surroundings, school rules) and pp. 24–39 (my neighbourhood: its places, homes and families, its services, its green, caring for it, village and city); Civics/Rights pp. 48–50 (the right to life, the right to peace); Religion p. 32 (the neighbourhood church — named, not placed); Geography pp. 40–42 (orientation), 86–96 (places of my homeland), 97–99 (water); History pp. 38, 44–47 (the neighbourhood from yesterday to today; grandma remembers; changes through time — the change-in-my-place chapter is placed below under the Strand B target lesson); Science pp. 52–84 (animals, plants), 100–112 (weather, living/non-living, materials, energy); Integrated SS (transport, communication) pp. 113–122; Culture pp. 124–132 (monuments, folklore museum, old objects, the panigyri festival) and p. 142 (Let's celebrate); PE/Leisure pp. 133–134 and Health p. 136 (named, not placed); the "Τι θα μάθουμε" review lessons and the Glossary (p. 146, inventory only) are not placed. Tally: 25 placements — 9 to existing lessons, 16 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/greece-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — first-steps/special-places-in-our-village-and-community — Unit 2.6 I discover the green in my neighbourhood — teaches: the green, living places of the neighbourhood as its special places — Greece Grade 2 Meleti Perivallontos B' Dimotikou, printed p. 34 | Greece, *Meleti Perivallontos B' Dimotikou* (student book), Unit 2.6 I discover the green in my neighbourhood — printed p. 34 |
+| Greece's way — the book's own teaching way | Greece — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 7 countries (Fiji, Ecuador, Rwanda, Cambodia, South Sudan, Iran, Greece).**
+
+Greece's own way (Book 4): Grade 2 widens Grade 1's circles — the neighbourhood is now studied service by service (its church named as a landmark, its green discovered, its past compared with today), and the child's first rights appear as their own unit: the right to life and the right to peace.
+
+Searchable tags: special places in our village and community, Greece, social studies, first-steps

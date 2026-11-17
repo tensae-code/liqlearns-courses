@@ -1,6 +1,6 @@
 # Sources — Forms of Government
 
-countries: Kazakhstan, Kiribati, Costa Rica, Maldives, Micronesia, Samoa, Sierra Leone, Bahamas, Bhutan, Afghanistan, Mexico, Uganda, Fiji, Guatemala, Iraq, India, Rwanda, Papua New Guinea, Sri Lanka, El Salvador, Mauritania, Pakistan
+countries: Kazakhstan, Kiribati, Costa Rica, Maldives, Micronesia, Samoa, Sierra Leone, Bahamas, Bhutan, Afghanistan, Mexico, Uganda, Fiji, Guatemala, Iraq, India, Rwanda, Papua New Guinea, Sri Lanka, El Salvador, Mauritania, Pakistan, Greece
 
 **Book 1:** *География — 8-сыныпқа арналған оқулық (К. К. Сахова, Ж. Ф. Тенекебаева, А. Ж. Саддақасов, А. С. Кенжебаев)* (student book, Kazakh) — Нұр-Сұлтан «Назарбаев Зияткерлік мектептері» ДББҰ (NIS); year 2019; ISBN 978-601-328-352-4. Title as printed: География — 8-сыныпқа арналған оқулық (К. К. Сахова, Ж. Ф. Тенекебаева, А. Ж. Саддақасов, А. С. Кенжебаев). Grade: 8 (student/teacher: STUDENT). PDF pages: 160 (cover/title page verified against the record title; record file grade-08/gov/kazakhstan/geografija/student/1072.pdf, 73,315,458 bytes from the recorded okulyk.kz source, page count matches the record). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/kazakhstan-placements.md.
 
@@ -271,3 +271,23 @@ Pakistan's own way (Book 1): citizenship is taught before everything else — a 
 Pakistan's own way (Book 12): the KPK Class 5 book gives the citizen's charter in two plain lists — seven rights (ending in the right to vote) against nine responsibilities (ending in honest dealing) — and makes Abdul Sattar Edhi, who "served the suffering humanity", its model of what a responsible citizen is.
 
 Searchable tags: forms of government, Pakistan, social studies, culture-and-work
+
+Greece placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *Koinoniki kai Politiki Agogi E' Dimotikou* (student book, Greek) — Title as printed: Κοινωνική και Πολιτική Αγωγή Ε΄ Δημοτικού (Social and Political Education, Grade 5 Primary). Grade: Grade 5 (Ε' Δημοτικού) (student/teacher: STUDENT). Publisher: Υπουργείο Παιδείας, Θρησκευμάτων και Αθλητισμού / ΙΕΠ / ΙΤΥΕ «Διόφαντος»; ISBN 978-960-06-2587-5 (book code 0-10-0203). PDF pages: 94 (cover/title page verified against the record title; byte size 10,925,204 = record size exactly). Earlier waves: Geography wave filed this book RECORD ONLY (pure Civics, contents named, nothing placed); History wave the same; Economics wave the same (no Economics parts). No earlier wave placed its civics strands — this wave places them. Verdict: COMPLETE. Contents map: Civics/Citizenship pp. 8–86 (whole book: Unit A We are all citizens pp. 8–43; Unit B We have rights and obligations pp. 46–60; Unit C We live in democracy pp. 62–76; Unit D We take part in decisions pp. 78–86); the four "Τι έμαθα ως τώρα" (What I learned so far) chapters and the "Εν συντομία" summaries are Revision/Assessment — named, not placed. Tally: 17 placements — 4 to existing lessons, 13 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/greece-placements.md.
+
+**Book 2:** *Koinoniki kai Politiki Agogi ST' Dimotikou* (student book, Greek) — Title as printed: Κοινωνική και Πολιτική Αγωγή Στ΄ Δημοτικού (Social and Political Education, Grade 6 Primary). Grade: Grade 6 (ΣΤ' Δημοτικού) (student/teacher: STUDENT). Publisher: Υπουργείο Παιδείας / ΙΤΥΕ «Διόφαντος»; ISBN 978-960-06-2632-2 (book code 0-10-0204); the record notes this is the older edition. PDF pages: 98 (cover/title page verified against the record title; byte size 13,928,658 = record size exactly). Verdict: COMPLETE. Contents map: Integrated SS (family, education system) pp. 7–22; Religion (the Church of Greece, other religions in Greece) pp. 23–27 — named, not placed (religion strand); Civics/Citizenship/Government pp. 28–63 and pp. 64–79 (municipalities and associations; the state, its forms and constitution; citizen rights; the European Union as a polity and European citizens); Economics p. 35–37 (already placed by the Economics wave); Civics/Global (world problems, international organisations, human rights, rights of the child) pp. 80–97. Tally: 27 placements — 9 to existing lessons, 18 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/greece-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part 1 — culture-and-work/forms-of-government — Unit A Ch.4 Pericles, citizen of Athens — teaches: citizenship and taking part in the city's decisions through the ancient Athenian example of Pericles — Greece Grade 5 Koinoniki kai Politiki Agogi E' Dimotikou, printed p. 20 | Greece, *Koinoniki kai Politiki Agogi E' Dimotikou* (student book), Unit A Ch.4 Pericles, citizen of Athens — printed p. 20 |
+| Greece part 2 — culture-and-work/forms-of-government — Theme 2 Unit A Ch.2 The polity and its forms — teaches: the forms a polity (system of government) can take — Greece Grade 6 Koinoniki kai Politiki Agogi ST' Dimotikou, printed p. 43 | Greece, *Koinoniki kai Politiki Agogi ST' Dimotikou* (student book), Theme 2 Unit A Ch.2 The polity and its forms — printed p. 43 |
+| Greece's way — the book's own teaching way | Greece — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 20 countries (Kazakhstan, Costa Rica, Maldives, Micronesia, Samoa, Bahamas, Bhutan, Afghanistan, Mexico, Uganda, Fiji, Guatemala, Iraq, India, Rwanda, Sri Lanka, El Salvador, Mauritania, Pakistan, Greece).** Kiribati, Sierra Leone and Papua New Guinea are named here as teacher-guide evidence only, counted nowhere.
+
+Greece's own way (Book 1): citizenship is taught through two child guides (Danai and Alexandros) who walk the pupil from belonging, through rights, to the Greek Parliament and the municipality — Greece's own institutions are the examples throughout.
+
+Greece's own way (Book 2): two Aristophanes characters (Dikaiopolis and Eirini, "Justice-City" and "Peace") guide the pupil outward from the family to the state, the EU and the world; Greece's own municipalities, constitution and EU membership are the worked examples.
+
+Searchable tags: forms of government, Greece, social studies, culture-and-work

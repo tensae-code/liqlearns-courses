@@ -1,6 +1,6 @@
 # Sources — Changes in the Place Where We Live
 
-countries: South Sudan, Eritrea, Oman, Papua New Guinea, Iran
+countries: South Sudan, Eritrea, Oman, Papua New Guinea, Iran, Greece
 
 **Book 1:** *Primary Social Studies 2 Pupil's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Primary Social Studies 2 Pupil's Book. Grade: Primary 2 / Grade 2 (student/teacher: STUDENT). PDF pages: 83 (cover/title page verified against the record title). Image-only PDF: read via 100-DPI 4-up contact sheets; the full printed table of contents (printed pp. 1–77) was read and the Geography units spot-checked on the sheets.. Verdict: COMPLETE (combined Social Studies book — Geography parts placed; other-subject parts named here, not placed). Other subjects in this book (named, not placed): Unit 1's objects and events of long ago (History), printed pp. 12–16; Unit 4 Our Community — community groups, origin of a community, rituals and ceremonies (Civics/culture), printed pp. 55–67; Unit 5 Time to Decide — choices and decision making (life skills), printed pp. 68–77. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
 
@@ -58,3 +58,18 @@ Iran placements — Social Studies remaining strands (2026-11-17):
 Iran's own way (Iran Social Studies Grade 4): the neighbourhood is taught as a moral community before it is a map — the Prophet's saying on treating neighbours well opens the book, and the nation itself is introduced as "one big family in a big house called Iran" whose shared rules are written in the Constitution.
 
 Searchable tags: changes in the place where we live, Iran, social studies, first-steps
+
+Greece placements — Social Studies remaining strands (2026-11-17):
+
+**Book 4:** *Meleti Perivallontos B' Dimotikou* (student book, Greek) — Title as printed: Μελέτη Περιβάλλοντος Β΄ Δημοτικού (Environmental Studies, Grade 2 Primary). Grade: Grade 2 (Β' Δημοτικού) (student/teacher: STUDENT). Publisher: Υπουργείο Παιδείας / ΙΕΠ / ΙΤΥΕ «Διόφαντος»; ISBN 978-960-06-2500-4 (book code 0-10-0043). PDF pages: 154 (cover verified against the record title; contents read from rendered pages — the text layer's display font does not extract; fetched from the record's ebooks.edu.gr source URL after grab.py tree failed — api.github.com unreachable; STAGED at ~/workspace/phase3-staging/grade-02/gov/greece/environmental-studies/full-year.pdf, 32,794,089 bytes, under the 2026-11-13 rule — its books.json record already exists in that folder). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Integrated SS pp. 12–20 (my school, its surroundings, school rules) and pp. 24–39 (my neighbourhood: its places, homes and families, its services, its green, caring for it, village and city); Civics/Rights pp. 48–50 (the right to life, the right to peace); Religion p. 32 (the neighbourhood church — named, not placed); Geography pp. 40–42 (orientation), 86–96 (places of my homeland), 97–99 (water); History pp. 38, 44–47 (the neighbourhood from yesterday to today; grandma remembers; changes through time — the change-in-my-place chapter is placed below under the Strand B target lesson); Science pp. 52–84 (animals, plants), 100–112 (weather, living/non-living, materials, energy); Integrated SS (transport, communication) pp. 113–122; Culture pp. 124–132 (monuments, folklore museum, old objects, the panigyri festival) and p. 142 (Let's celebrate); PE/Leisure pp. 133–134 and Health p. 136 (named, not placed); the "Τι θα μάθουμε" review lessons and the Glossary (p. 146, inventory only) are not placed. Tally: 25 placements — 9 to existing lessons, 16 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/greece-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — first-steps/changes-in-the-place-where-we-live — Unit 2.8 From yesterday to today — teaches: how my neighbourhood has changed from the past to now — Greece Grade 2 Meleti Perivallontos B' Dimotikou, printed p. 38 | Greece, *Meleti Perivallontos B' Dimotikou* (student book), Unit 2.8 From yesterday to today — printed p. 38 |
+| Greece's way — the book's own teaching way | Greece — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 4 countries (South Sudan, Eritrea, Iran, Greece).** Oman and Papua New Guinea are named here as teacher-guide evidence only, counted nowhere.
+
+Greece's own way (Book 4): Grade 2 widens Grade 1's circles — the neighbourhood is now studied service by service (its church named as a landmark, its green discovered, its past compared with today), and the child's first rights appear as their own unit: the right to life and the right to peace.
+
+Searchable tags: changes in the place where we live, Greece, social studies, first-steps

@@ -1,6 +1,6 @@
 # Sources — Houses And Homes Where Families Live
 
-countries: Venezuela, India, Vietnam
+countries: Venezuela, India, Vietnam, Greece
 
 **Book 1:** *¡Viva Venezuela! Ciencias Sociales 1er Grado* (student book, Spanish) — Ministerio del Poder Popular para la Educación / Colección Bicentenario; year 2014 (fourth edition, April 2014); ISBN 978-980-218-297-8. Title as printed: ¡Viva Venezuela! Ciencias Sociales 1er Grado. Grade: Grade 1 (student/teacher: STUDENT). PDF pages: 67 (printed pages run to 128 in two-page spreads; cover/title page verified against the record title; grab SHA/size verified by grab.py). Verdict: COMPLETE. (Combined book — Geography parts placed below; parts named, not placed — History parts named, not placed: El niño Simón Bolívar (printed p. 103); Días para recordar (p. 80); Antes, es el pasado (p. 117, time/history notion).; Civics parts named, not placed: La bandera de las 8 estrellas (p. 82); La plaza Bolívar de Caracas (p. 90); Igualdad entre diferentes (p. 92); Ustedes tienen derechos y deberes (p. 105); school/family community lessons (pp. 8–24, 54).; Science parts named, not placed: ¿Para qué sirven los pies? (p. 22, the body).) Placements at liqlearns-courses-work/expansion-geography-2026-11-14/venezuela-placements.md.
 
@@ -63,3 +63,18 @@ Vietnam placements — Social Studies remaining strands (2026-11-17):
 **Acceptance count: taught in 3 countries (Venezuela, India, Vietnam).**
 
 Vietnam's own way (Book 7): the local community is introduced through two big picture scenes — the home village (health station, post office, market, school) against the city (hospital, supermarket, cinema, traffic) — and every job, from farmer to traffic policeman, is summed up in one sentence: any work that benefits society is precious.
+
+Greece placements — Social Studies remaining strands (2026-11-17):
+
+**Book 4:** *Meleti Perivallontos B' Dimotikou* (student book, Greek) — Title as printed: Μελέτη Περιβάλλοντος Β΄ Δημοτικού (Environmental Studies, Grade 2 Primary). Grade: Grade 2 (Β' Δημοτικού) (student/teacher: STUDENT). Publisher: Υπουργείο Παιδείας / ΙΕΠ / ΙΤΥΕ «Διόφαντος»; ISBN 978-960-06-2500-4 (book code 0-10-0043). PDF pages: 154 (cover verified against the record title; contents read from rendered pages — the text layer's display font does not extract; fetched from the record's ebooks.edu.gr source URL after grab.py tree failed — api.github.com unreachable; STAGED at ~/workspace/phase3-staging/grade-02/gov/greece/environmental-studies/full-year.pdf, 32,794,089 bytes, under the 2026-11-13 rule — its books.json record already exists in that folder). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Integrated SS pp. 12–20 (my school, its surroundings, school rules) and pp. 24–39 (my neighbourhood: its places, homes and families, its services, its green, caring for it, village and city); Civics/Rights pp. 48–50 (the right to life, the right to peace); Religion p. 32 (the neighbourhood church — named, not placed); Geography pp. 40–42 (orientation), 86–96 (places of my homeland), 97–99 (water); History pp. 38, 44–47 (the neighbourhood from yesterday to today; grandma remembers; changes through time — the change-in-my-place chapter is placed below under the Strand B target lesson); Science pp. 52–84 (animals, plants), 100–112 (weather, living/non-living, materials, energy); Integrated SS (transport, communication) pp. 113–122; Culture pp. 124–132 (monuments, folklore museum, old objects, the panigyri festival) and p. 142 (Let's celebrate); PE/Leisure pp. 133–134 and Health p. 136 (named, not placed); the "Τι θα μάθουμε" review lessons and the Glossary (p. 146, inventory only) are not placed. Tally: 25 placements — 9 to existing lessons, 16 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/greece-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — first-steps/houses-and-homes-where-families-live — Unit 2.3 Homes and families — teaches: the neighbourhood's houses and the families who live in them — Greece Grade 2 Meleti Perivallontos B' Dimotikou, printed p. 28 | Greece, *Meleti Perivallontos B' Dimotikou* (student book), Unit 2.3 Homes and families — printed p. 28 |
+| Greece's way — the book's own teaching way | Greece — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 4 countries (Venezuela, India, Vietnam, Greece).**
+
+Greece's own way (Book 4): Grade 2 widens Grade 1's circles — the neighbourhood is now studied service by service (its church named as a landmark, its green discovered, its past compared with today), and the child's first rights appear as their own unit: the right to life and the right to peace.
+
+Searchable tags: houses and homes where families live, Greece, social studies, first-steps

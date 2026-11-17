@@ -1,6 +1,6 @@
 # Sources — Understanding and Respecting Other Cultures
 
-countries: Mongolia, Mexico, Serbia, Fiji, Colombia, United Arab Emirates, El Salvador, Honduras, Indonesia, South Korea
+countries: Mongolia, Mexico, Serbia, Fiji, Colombia, United Arab Emirates, El Salvador, Honduras, Indonesia, South Korea, Greece
 
 **Book 1:** *Нийгэм судлал VII (Social Studies VII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2019; ISBN no ISBN printed on the pages checked. Title as printed: Нийгэм судлал VII (Social Studies VII). Grade: Grade 7 (student). 99 PDF pp. (cover verified against the record title; secured GitHub release asset, 48,845,405 bytes, byte-size verified on download; contents also cross-checked against the ministry econtent flipbook of the same book). Verdict: COMPLETE for Geography scope (contents page and chapter structure read in full; the book follows the same five-chapter spiral as Grade 9). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mongolia-placements.md.
 
@@ -162,3 +162,18 @@ South Korea's own way (Book 7): Donga writes every lesson as a question ("Why is
 South Korea's own way (Book 12): the 2022 middle-school course opens its society half with the pupil's own formation — socialisation and self-identity, status and roles, and the conflict and discrimination inside our society — then builds the full civics ladder in one volume: democracy's ideals and history, elections and political actors, local self-government, law in daily life and how trials work, and finally human rights with the limits and remedies for basic rights and the relief for violated labour rights.
 
 Searchable tags: understanding and respecting other cultures, South Korea, social studies, culture-and-work
+
+Greece placements — Social Studies remaining strands (2026-11-17):
+
+**Book 8:** *Meleti Perivallontos D' Dimotikou* (student book, Greek) — Title as printed: Μελέτη Περιβάλλοντος Δ΄ Δημοτικού (Environmental Studies, Grade 4 Primary). Grade: Grade 4 (Δ' Δημοτικού) (student/teacher: STUDENT). Publisher: Υπουργείο Παιδείας / ΙΕΠ / ΙΤΥΕ «Διόφαντος»; ISBN 978-960-06-2593-9 (book code 0-10-0195); the record notes this is the older edition. PDF pages: 154 (cover verified against the record title; fetched from the record's ebooks.edu.gr source URL after grab.py tree failed — api.github.com unreachable; STAGED at ~/workspace/phase3-staging/grade-04/gov/greece/environmental-studies/full-year.pdf, 24,300,116 bytes, under the 2026-11-13 rule — its books.json record already exists in that folder). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Geography pp. 10–34 (Unit 1 Greece — Our Country: regions, political map, our place's features, its way of life then and now, places with history, important works — named, not placed); Culture pp. 36–55 (Unit 2 The Culture of the Greeks and of Other Peoples; the religious-monuments chapter, p. 46, is named as Religion/heritage, not placed); Science/Environment pp. 58–88 (Unit 3 Nature Is Our Home) and pp. 114–132 (Unit 6 We Study the Physical World) — named, not placed; Integrated SS (work and professions as community life) pp. 90–101 (Unit 4); Health pp. 104–112 (Unit 5 We Know and Care for Our Body — named, not placed, Health course); Integrated SS (communication and information) pp. 134–149 (Unit 7); Glossary p. 150 inventory only; unit Reviews are assessment — named, not placed. Tally: 16 placements — 1 to existing lessons, 15 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/greece-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — culture-and-work/understanding-and-respecting-other-cultures — Unit 2 Ch.3 A dialogue with culture — teaches: meeting another culture as a dialogue — understanding and respecting what is different — Greece Grade 4 Meleti Perivallontos D' Dimotikou, printed p. 43 | Greece, *Meleti Perivallontos D' Dimotikou* (student book), Unit 2 Ch.3 A dialogue with culture — printed p. 43 |
+| Greece's way — the book's own teaching way | Greece — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 11 countries (Mongolia, Mexico, Serbia, Fiji, Colombia, United Arab Emirates, El Salvador, Honduras, Indonesia, South Korea, Greece).**
+
+Greece's own way (Book 8): Grade 4 turns from the neighbourhood to the whole country and its culture — Greek culture is set beside other peoples' cultures, and work is taught as the web of professions that together make one product.
+
+Searchable tags: understanding and respecting other cultures, Greece, social studies, culture-and-work

@@ -1,6 +1,6 @@
 # Sources — Jobs People Do in Our Community
 
-countries: Latvia, Philippines, Serbia, Bangladesh, Turkey, North Macedonia, Iran, Mauritania, Laos
+countries: Latvia, Philippines, Serbia, Bangladesh, Turkey, North Macedonia, Iran, Mauritania, Laos, Greece
 
 **Book 1:** *Sociālās zinības 1. klase* (teacher guide, Latvian) — Latviešu valodas aģentūra (Latvian Language Agency); year 2023; ISBN 978-9934-617-33-1. Title as printed: Sociālās zinības 1. klase — Latviešu valodas un sociālo zinību satura integrēta apguve lingvistiski neviendabīgā vidē — Metodisks līdzeklis skolotājam. Grade: Grade 1 (student/teacher: TEACHER). PDF pages: 61 (cover/title page verified against the record title — author Linda Krastiņa and ISBN match the record exactly). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Integrated SS (school life) printed pp. 7–17; Morals/Values (safe relationships, honesty, emotions) printed pp. 18–21; Culture in society (family/class festivals) printed pp. 22–24; Integrated SS (work/jobs, wants and needs) printed pp. 25–27; Appendices (worksheets/apparatus, inventory only) printed pp. 28–60. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/latvia-placements-b.md. Teacher guide — evidence only, outside the acceptance count.
 
@@ -116,3 +116,20 @@ Laos's own way (Book 18): Grade 2's world widens from the body to the village �
 Registry note: the original coined string `first-steps/occupations-in-our-village` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/jobs-people-do-in-our-community`.
 
 Searchable tags: jobs people do in our community, Laos, social studies, first-steps
+
+Greece placements — Social Studies remaining strands (2026-11-17):
+
+**Book 8:** *Meleti Perivallontos D' Dimotikou* (student book, Greek) — Title as printed: Μελέτη Περιβάλλοντος Δ΄ Δημοτικού (Environmental Studies, Grade 4 Primary). Grade: Grade 4 (Δ' Δημοτικού) (student/teacher: STUDENT). Publisher: Υπουργείο Παιδείας / ΙΕΠ / ΙΤΥΕ «Διόφαντος»; ISBN 978-960-06-2593-9 (book code 0-10-0195); the record notes this is the older edition. PDF pages: 154 (cover verified against the record title; fetched from the record's ebooks.edu.gr source URL after grab.py tree failed — api.github.com unreachable; STAGED at ~/workspace/phase3-staging/grade-04/gov/greece/environmental-studies/full-year.pdf, 24,300,116 bytes, under the 2026-11-13 rule — its books.json record already exists in that folder). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Geography pp. 10–34 (Unit 1 Greece — Our Country: regions, political map, our place's features, its way of life then and now, places with history, important works — named, not placed); Culture pp. 36–55 (Unit 2 The Culture of the Greeks and of Other Peoples; the religious-monuments chapter, p. 46, is named as Religion/heritage, not placed); Science/Environment pp. 58–88 (Unit 3 Nature Is Our Home) and pp. 114–132 (Unit 6 We Study the Physical World) — named, not placed; Integrated SS (work and professions as community life) pp. 90–101 (Unit 4); Health pp. 104–112 (Unit 5 We Know and Care for Our Body — named, not placed, Health course); Integrated SS (communication and information) pp. 134–149 (Unit 7); Glossary p. 150 inventory only; unit Reviews are assessment — named, not placed. Tally: 16 placements — 1 to existing lessons, 15 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/greece-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — first-steps/professions-that-offer-services — Unit 4 Ch.4 Professions that offer services — teaches: the service jobs the community depends on — Greece Grade 4 Meleti Perivallontos D' Dimotikou, printed p. 97 | Greece, *Meleti Perivallontos D' Dimotikou* (student book), Unit 4 Ch.4 Professions that offer services — printed p. 97 |
+| Greece's way — the book's own teaching way | Greece — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 8 countries (Philippines, Serbia, Bangladesh, Turkey, North Macedonia, Iran, Mauritania, Greece).** Latvia and Laos are named here as teacher-guide evidence only, counted nowhere.
+
+Greece's own way (Book 8): Grade 4 turns from the neighbourhood to the whole country and its culture — Greek culture is set beside other peoples' cultures, and work is taught as the web of professions that together make one product.
+
+Registry note: the original coined string `first-steps/professions-that-offer-services` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/jobs-people-do-in-our-community`.
+
+Searchable tags: jobs people do in our community, Greece, social studies, first-steps

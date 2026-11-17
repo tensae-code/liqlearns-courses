@@ -1,6 +1,6 @@
 # Sources — The Active Citizen
 
-countries: Turkey, Palestine
+countries: Turkey, Palestine, Greece
 
 **Book 9:** *Sosyal Bilgiler 5. Sınıf, 2. Kitap* (student book, Turkish) — Title as printed: Sosyal Bilgiler 5. Sınıf Ders Kitabı — 2. Kitap (same editorial team as Book 8). Grade: Grade 5 (student/teacher: STUDENT). Publisher: Millî Eğitim Bakanlığı (MEB) Yayınları; ISBN 978-975-11-8011-7 (the imprint prints this same ISBN in both Grade 5 books). PDF pages: 150 (file 96,347,946 bytes from cdn.eba.gov.tr, matching the record's 91.9 MB; cover verified — "SOSYAL BİLGİLER 5. Sınıf, 2. Kitap"). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Civics / Citizenship pp. 10–67 (Area 4 Yaşayan Demokrasimiz: democracy and the republic's basic qualities, the active citizen, our fundamental rights and responsibilities, institutions in solving our problems); Economics pp. 68–119 (Area 5 Hayatımızda Ekonomi: efficient use of resources, planning my budget, our province's economic activities — named, not placed); Technology and society pp. 120–145 (Area 6 Teknoloji ve Sosyal Bilimler: technology's effects on social life, conscious use of technological products — named, not placed); end maps pp. 149–150 (Geography, named not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/turkey-placements.md.
 
@@ -25,3 +25,20 @@ Searchable tags: the active citizen, Turkey, social studies, culture-and-work, P
 **Acceptance count: taught in 2 countries (Turkey, Palestine)..**
 
 Palestine's own way (Grade 6 Social Studies Part 2): citizenship is defined by a contrast the pupils must judge — one group of sixth-graders, faced with repeated traffic accidents at their school, forms a committee, organises the crossing and teaches the others (the active citizens), while the second group only blames and criticises; the book's verdict is that citizenship is measured by what you do.
+
+Greece placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *Koinoniki kai Politiki Agogi E' Dimotikou* (student book, Greek) — Title as printed: Κοινωνική και Πολιτική Αγωγή Ε΄ Δημοτικού (Social and Political Education, Grade 5 Primary). Grade: Grade 5 (Ε' Δημοτικού) (student/teacher: STUDENT). Publisher: Υπουργείο Παιδείας, Θρησκευμάτων και Αθλητισμού / ΙΕΠ / ΙΤΥΕ «Διόφαντος»; ISBN 978-960-06-2587-5 (book code 0-10-0203). PDF pages: 94 (cover/title page verified against the record title; byte size 10,925,204 = record size exactly). Earlier waves: Geography wave filed this book RECORD ONLY (pure Civics, contents named, nothing placed); History wave the same; Economics wave the same (no Economics parts). No earlier wave placed its civics strands — this wave places them. Verdict: COMPLETE. Contents map: Civics/Citizenship pp. 8–86 (whole book: Unit A We are all citizens pp. 8–43; Unit B We have rights and obligations pp. 46–60; Unit C We live in democracy pp. 62–76; Unit D We take part in decisions pp. 78–86); the four "Τι έμαθα ως τώρα" (What I learned so far) chapters and the "Εν συντομία" summaries are Revision/Assessment — named, not placed. Tally: 17 placements — 4 to existing lessons, 13 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/greece-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — culture-and-work/the-active-citizen-decides-takes-part-acts — Unit D Ch.3 The active citizen decides, participates and acts — teaches: the active citizen as the book's closing ideal — deciding, joining in and acting for the common good — Greece Grade 5 Koinoniki kai Politiki Agogi E' Dimotikou, printed p. 85 | Greece, *Koinoniki kai Politiki Agogi E' Dimotikou* (student book), Unit D Ch.3 The active citizen decides, participates and acts — printed p. 85 |
+| Greece's way — the book's own teaching way | Greece — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 3 countries (Turkey, Palestine, Greece).**
+
+Greece's own way (Book 1): citizenship is taught through two child guides (Danai and Alexandros) who walk the pupil from belonging, through rights, to the Greek Parliament and the municipality — Greece's own institutions are the examples throughout.
+
+Registry note: the original coined string `culture-and-work/the-active-citizen-decides-takes-part-acts` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/the-active-citizen`.
+
+Searchable tags: the active citizen, Greece, social studies, culture-and-work

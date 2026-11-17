@@ -1,6 +1,6 @@
 # Sources — The Universal Declaration of Human Rights
 
-countries: Ecuador, Libya, Sri Lanka, Jordan
+countries: Ecuador, Libya, Sri Lanka, Jordan, Greece
 
 **Book 1:** *Estudios Sociales 2do EGB* (student book, Spanish) — Ministerio de Educación del Ecuador; year 2024 (Primera Edición); ISBN 978-9942-662-16-3. Title as printed: Estudios Sociales — Educación General Básica, Subnivel Elemental, Segundo de Básica; Texto del estudiante para la transición curricular. Grade: Grade 2 (student/teacher: STUDENT). PDF pages: 114 (cover/title page verified against the record title; read in place in phase3-staging, 8.6 MB on disk; full text layer read). Earlier waves: Geography wave placed pp. 25–113 geography parts and over-placed three remaining-strand topics (Tipos de viviendas, Grupos étnicos del Ecuador, Patrimonios culturales) plus the parish/administrative-division topics as geography lessons — none re-placed here / History wave placed 4 history placements / Economics wave filed it RECORD-ONLY (no Economics parts; its contents evidence names the same Civics temas placed here). Verdict: COMPLETE. Contents map: Integrated SS pp. 6–51 (family; my school and school coexistence; community actors and places); Civics/Citizenship pp. 6–24 (family rights, responsibilities, commitments and agreements), p. 87ff. (universal human rights); Morals/Values pp. 39–51 (convivencia — respect, difference, helping the community); Geography pp. 25–37, 52–86, 87–113 (placed by the Geography wave); Culture pp. 52–67 (placed by the Geography wave). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/ecuador-placements.md.
 
@@ -62,3 +62,20 @@ Jordan's own way (Book 15): human rights are taught as a ladder of charters — 
 Registry note: the original coined string `culture-and-work/the-international-bill-of-human-rights` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/the-universal-declaration-of-human-rights`.
 
 Searchable tags: the universal declaration of human rights, Jordan, social studies, culture-and-work
+
+Greece placements — Social Studies remaining strands (2026-11-17):
+
+**Book 2:** *Koinoniki kai Politiki Agogi ST' Dimotikou* (student book, Greek) — Title as printed: Κοινωνική και Πολιτική Αγωγή Στ΄ Δημοτικού (Social and Political Education, Grade 6 Primary). Grade: Grade 6 (ΣΤ' Δημοτικού) (student/teacher: STUDENT). Publisher: Υπουργείο Παιδείας / ΙΤΥΕ «Διόφαντος»; ISBN 978-960-06-2632-2 (book code 0-10-0204); the record notes this is the older edition. PDF pages: 98 (cover/title page verified against the record title; byte size 13,928,658 = record size exactly). Verdict: COMPLETE. Contents map: Integrated SS (family, education system) pp. 7–22; Religion (the Church of Greece, other religions in Greece) pp. 23–27 — named, not placed (religion strand); Civics/Citizenship/Government pp. 28–63 and pp. 64–79 (municipalities and associations; the state, its forms and constitution; citizen rights; the European Union as a polity and European citizens); Economics p. 35–37 (already placed by the Economics wave); Civics/Global (world problems, international organisations, human rights, rights of the child) pp. 80–97. Tally: 27 placements — 9 to existing lessons, 18 NEW LESSON NEEDED. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/greece-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece part — global-issues/the-universal-declaration-of-human-rights — Theme 4 Unit B Ch.1 The Universal Declaration of Human Rights — teaches: the 1948 Declaration and the rights it names for every person — Greece Grade 6 Koinoniki kai Politiki Agogi ST' Dimotikou, printed p. 89 | Greece, *Koinoniki kai Politiki Agogi ST' Dimotikou* (student book), Theme 4 Unit B Ch.1 The Universal Declaration of Human Rights — printed p. 89 |
+| Greece's way — the book's own teaching way | Greece — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 5 countries (Ecuador, Libya, Sri Lanka, Jordan, Greece).**
+
+Greece's own way (Book 2): two Aristophanes characters (Dikaiopolis and Eirini, "Justice-City" and "Peace") guide the pupil outward from the family to the state, the EU and the world; Greece's own municipalities, constitution and EU membership are the worked examples.
+
+Registry note: the original coined string `global-issues/the-universal-declaration-of-human-rights` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/the-universal-declaration-of-human-rights`.
+
+Searchable tags: the universal declaration of human rights, Greece, social studies, culture-and-work
