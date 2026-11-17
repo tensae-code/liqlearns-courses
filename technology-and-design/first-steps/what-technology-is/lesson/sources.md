@@ -1,6 +1,6 @@
 # Sources — What technology is
 
-countries: Azerbaijan, Canada, Malaysia
+countries: Azerbaijan, Canada, Iran, Malaysia
 
 **Book 1:** *Technology in the Community* (Tulliniliara Reading Series, Level 14) (student reader) — Canada, Government of Nunavut (Department of Education / Department of Family Services), developed and published in Canada by Inhabit Education. Written by Jordan Hoffman, illustrated by Ali Hinch. Publisher: Inhabit Education / Government of Nunavut, © 2019, ISBN 978-0-2287-0447-8 (English edition). Grade: nursery / early level (Tulliniliara Level 14). English edition `Technology-in-the-Community-English.pdf` (1,659,080 bytes, 36 PDF pp.) and Inuktitut edition `Technology-in-the-Community-Inuktitut.pdf` (1,688,700 bytes, 36 PDF pp.) — same book, same structure and pagination, verified from covers and text (parallel editions, read once, placed once). Kind: student reader. Route: grab.py tree. Source: private repo `tensae-code/liqlearns-textbooks` (recorded pushed in phase3-push-state.json), fetched 2026-11-17 via grab.py tree route. Cover verified: "Technology in the Community", Tulliniliara 14. COMPLETE — read to the last teaching page (printed p. 32; back pages are imprint). Placements at liqlearns-courses-work/expansion-td-2026-11-17/canada-placements.md.
 
@@ -15,7 +15,14 @@ countries: Azerbaijan, Canada, Malaysia
 
 | What technology is and why it matters: technology as applying science to make tools that ease human work; technology then and now (Kuala Lumpur transport 1980s vs today); the fields of technology (tools/equipment, transport, agriculture, construction, communication, food) and its benefits (saves time/energy/cost, creates jobs, eases tasks, speeds communication) (original string `What technology is and why it matters`) | Malaysia, *RBT Tahun 4*, printed p. 38–43 |
 
-**Acceptance count: taught in 3 countries (Azerbaijan, Canada, Malaysia).**
+**Book 4:** *Use of New Technologies — common vocational course, Grade 11 (کاربرد فناوری‌های نوین)* (student book) — Iran, Publisher: سازمان پژوهش و برنامه‌ریزی آموزشی (Organisation for Educational Research and Planning), وزارت آموزش و پرورش | Year: 1405-1406 school year (book code 211136) | Grade: 11, technical-vocational & work-knowledge branches | Language: Persian | Pages: 160 PDF pages (149 printed pages) | Source: TSV record — GitHub release asset route via grab.py url `https://github.com/tensae-code/liqlearns-textbooks/releases/download/mid-size-books-9/grade-11-gov-iran-use-of-new-technologies-student-full-year.pdf`, 5,778,942 bytes, cover verified (blue cover, کاربرد فناوری‌های نوین, پایه یازدهم) | Kind: student | COMPLETE (read page by page to the last teaching page, printed p. 145; references and field list follow) Placements at liqlearns-courses-work/expansion-td-2026-11-17/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Module 1 opening: definitions, relation to scientific literacy, benefits and harms of new technologies, technology and future jobs (original string `technological literacy — what technology and technological literacy are, why they are needed`) | Iran, *Use of New Technologies, Grade 11*, printed p. 3-15 |
+| Module 1 domains section, incl. DDT case for history of technology and Lake Urmia case for futures warning (original string `domains of technological literacy — history of technology, futures study, critical and cultural literacy of technology, technology ethics`) | Iran, *Use of New Technologies, Grade 11*, printed p. 10-22 |
+
+**Acceptance count: taught in 4 countries (Azerbaijan, Canada, Iran, Malaysia).**
 
 Canada's own way (Nunavut): technology is introduced through the learner's own community — home, school, store and health centre — and through northern machines such as the snowmobile, not through abstract definitions alone. That community frame is carried in this lesson exactly as the book teaches it.
 
@@ -23,4 +30,6 @@ Azerbaijan's own way: Grade 2 *Технология* (Russian edition, as held) 
 
 Malaysia's own way: Malaysia teaches what technology is in Tahun 4 as applied science that eases human work, proved by Kuala Lumpur's own transport — 1980s against today — then mapped into six fields (tools/equipment, transport, agriculture, construction, communication, food) and four benefits (saves time/energy/cost, creates jobs, eases tasks, speeds communication).
 
-Searchable tags: technology, what technology is, community technology, first steps, Nunavut, Canada, Tulliniliara, materials, processing, Azerbaijan, Grade 2, Russian edition, Malaysia, Tahun 4, RBT, fields of technology, Kuala Lumpur
+Iran's own way: Iran opens Grade 11 *Use of New Technologies* with technological literacy itself — what technology and technological literacy are and why they are needed, set beside scientific literacy, weighing the benefits and harms of new technologies and technology's place in future jobs — and then maps the domains of technological literacy: history of technology (taught through the DDT case), futures study (the Lake Urmia warning), critical and cultural literacy of technology, and technology ethics.
+
+Searchable tags: technology, what technology is, community technology, first steps, Nunavut, Canada, Tulliniliara, materials, processing, Azerbaijan, Grade 2, Russian edition, Malaysia, Tahun 4, RBT, fields of technology, Kuala Lumpur, Iran, Grade 11, Persian

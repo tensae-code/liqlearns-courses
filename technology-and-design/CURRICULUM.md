@@ -1294,3 +1294,141 @@ proof.
 
 Placements at
 liqlearns-courses-work/expansion-td-2026-11-17/malaysia-placements.md.
+
+## Iran, Work & Technology (کار و فناوری) and Use of New Technologies (کاربرد فناوری‌های نوین) (T&D expansion, stocked 2026-11-17)
+
+Stocked from Iran's textbooks, Organisation for Educational
+Research and Planning (سازمان پژوهش و برنامه‌ریزی آموزشی),
+Ministry of Education (وزارت آموزش و پرورش), in Persian:
+*Use of New Technologies*, Grade 11 (book code 211136,
+1405-1406 school year, read COMPLETE to printed p. 145), and
+*Work & Technology*, Grades 7 (book code 717), 8 (book
+code 817) and 9 (book code and year not stated in the file;
+current curriculum edition), each read COMPLETE page by
+page. All 82 placements stocked: 76 NEW LESSON NEEDED
+resolved through the T&D slug registry — 51 lessons built
+new (63 canonical lessons carrying Iran provenance rows;
+multi-row lessons: Renewable energy technology 5 rows,
+Sheet metal work 3, Architectural model making 3, The
+design process 3, Electronic components 2, What technology
+is 2, Woodwork — tools and operations 2) — and 6 placed
+directly into founding Technical Drawing lessons. Iran
+counts in the acceptance count (student books, not
+evidence-only). The Grade 10 *Entrepreneurship and
+Production Workshop* is RECORD-ONLY in the placements
+file — a standalone entrepreneurship subject (Business
+course territory) with no placement lines. The Iranian
+books' ICT modules (including the Grade 11 book's Module
+2), their agriculture and guidance modules, and their
+self-evaluation tables are not placed here, as recorded
+in the placements file.
+
+- **First Steps** (1 new lesson, 13 questions): Biotechnology
+  (G11, printed pp. 81–88). What technology is also carries
+  2 Iran placements (G11, pp. 3–15, 10–22); Inventors and
+  inventions 1 (G7, pp. 3–9); Technology as a system 1
+  (G7, pp. 11–15).
+- **Materials** (6 new lessons, 13 questions each):
+  Converging technologies (G11, p. 57); Nanotechnology
+  (pp. 58–65); How nanomaterials are made (pp. 69–72);
+  Carbon nanostructures (pp. 73–75); Composite materials
+  (pp. 76–77); Smart materials and shape-memory materials
+  (pp. 78–80).
+- **Energy** (no new lesson): Renewable energy technology
+  carries 5 Iran placements (G11: solar pp. 94–103; wind
+  pp. 104–107; geothermal pp. 108–112; biomass and biogas
+  pp. 113–117; hydro, pumped-storage, tidal and wave
+  pp. 118–122) — the lesson's first counted country.
+- **Design and Making** (6 new lessons, 13 questions
+  each): Idea generation techniques (G11, pp. 130–135);
+  Screening ideas and feasibility study (pp. 136–140);
+  Prototyping, patenting and commercialisation
+  (pp. 141–143); Setting up a small business (G7,
+  pp. 71–84, 179); Drawing simple shapes with the line,
+  circle and arc tools in CAD software (G9, p. 17);
+  Editing tools in CAD (G9, pp. 18–20). The design
+  process also carries 3 Iran placements (G11,
+  pp. 125–130; G7, pp. 9–10; G9, p. 2).
+- **Technical Drawing** (2 new lessons, 13 questions
+  each): Drawing instruments and materials (G7,
+  pp. 88–90); Computer-aided drawing (CAD) (G9, p. 13).
+  Four founding lessons also carry 6 Iran placements:
+  Sketching techniques (G7, pp. 91–92); Dimensioning —
+  lines, symbols and reading direction (G7, pp. 95–96;
+  G9, p. 21); Orthographic projection basics (G7,
+  pp. 97–99; G8, pp. 143–145); Size and location
+  dimensions (G7, pp. 100–102).
+- **Wood** (no new lesson): Wood as a material carries
+  1 Iran placement (G7, pp. 106–107); Woodwork — tools
+  and operations carries 2 (G7, pp. 108–111, 112–115).
+- **Textiles and Fashion** (3 new lessons, 13 questions
+  each): Sewing tools, safety and hand stitches (G7,
+  pp. 141–145); Machine sewing (pp. 146–152); Flat
+  weaving (G8, pp. 82–95). Fabrics also carries 1 Iran
+  placement (G7, pp. 153–154).
+- **Food Technology** (no new lesson): Food technology
+  carries 1 Iran placement (G7, pp. 170–176).
+- **Electricity and Electronics** (2 new lessons, 13
+  questions each): Electronic components (G8, 2 rows,
+  pp. 48–49, 50); Building an electronic product (G8,
+  pp. 52–56). The simple electric circuit also carries
+  1 Iran placement (G8, pp. 42–47); Soldering electronic
+  components 1 (G8, p. 51).
+- **Metal** (6 new lessons, 13 questions each): Sheet
+  metal work (G8, 3 rows, pp. 63–65, 67–69, 70–71);
+  Joining with screws (pp. 73–75); Copper as a material
+  (G9, p. 142); Designing and making an embossed copper
+  plaque (pp. 143–144); Embossing technique (p. 145);
+  Texturing and patina (pp. 146–148).
+- **Models and Robotics** (1 new lesson, 13 questions;
+  3 provenance rows): Architectural model making (G8,
+  pp. 146–149, 150–156, 157–159).
+- **Mechanisms and Machines** (5 new lessons, 13
+  questions each): Mechanisms that transmit and
+  transform movement (G9, p. 26); Gear mechanisms
+  (p. 27); Analysing a mechanism part by part
+  (pp. 28–30); Simulating a mechanism in software
+  (Interactive Physics) before building it (p. 31);
+  Building the mechanism (pp. 33–37).
+- **Electrical Installations and the Home** (10 new
+  lessons, 13 questions each): Reading a real wiring
+  diagram (G9, p. 77); Wiring a one-way switch circuit
+  for a lamp (p. 78); The wiring procedure (pp. 79–81);
+  Practical wiring (pp. 84–85); Mechanical installations
+  in the home (pp. 87–89); Taps and valves (pp. 90–92);
+  Clearing a blocked sink drain (pp. 93–94); Repairing
+  a flush tank, step by step (p. 95); Servicing an
+  evaporative (water) cooler (pp. 96–97); Gas
+  installation safety (pp. 98–99). Electrical safety
+  also carries 1 Iran placement (G9, pp. 74–76).
+- **Construction and Building** (5 new lessons, 13
+  questions each): The civil-engineering field (G9,
+  pp. 102–103); Brick parts and wall thicknesses
+  (pp. 104–105); Bricklaying (pp. 106–107); Building
+  walls in other bonds (pp. 108–109); Plaster work
+  (pp. 110–112).
+- **Vehicle Technology** (4 new lessons, 13 questions
+  each): The car and its systems (G9, p. 116); Using
+  the owner's manual (pp. 117–122); Reading the
+  dashboard warning lights and fault-finding from them
+  (p. 123); Checking tyres and the periodic technical
+  inspection (pp. 124–127).
+
+Iran's own way is content and is carried in each lesson's
+sources: one Work & Technology course climbing grade by
+grade — systems and invention in Grade 7, electronics,
+metalwork and architectural models in Grade 8, CAD,
+mechanisms, home installations, civil building and the
+car in Grade 9 — every module closing in a complete make
+(a Quran stand, a musical warning box, a mosque model at
+1:50, a toy crane); named local things taught as the
+content itself (the سنبه نشان centre punch, the شیر فلکه
+stop valve, شیرازه edge binding, یونولیت foam sheet, the
+evaporative water cooler); and the Grade 11 book opening
+with technological literacy and its ethics, running new
+materials from convergence to biotechnology, and carrying
+one idea down the full path — idea, concept, pilot,
+patent, company, production, market.
+
+Placements at
+liqlearns-courses-work/expansion-td-2026-11-17/iran-placements.md.

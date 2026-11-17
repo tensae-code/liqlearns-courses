@@ -1,6 +1,6 @@
 # Sources — Orthographic projection — points, lines, planes and surfaces
 
-countries: Belarus, Ethiopia, Malta, Moldova, Morocco, Samoa
+countries: Belarus, Ethiopia, Iran, Malta, Moldova, Morocco, Samoa
 
 **Book 1:** *Basic Technical Drawing, Teacher Guide, Grade 12* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, in collaboration with Kuraz International Publisher P.L.C., Addis Ababa, first edition, 2003 E.C., ISBN 978-99944-2-097-2, 105 printed pp. Page rule: printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/technical-drawing/g12-teacher-placements.md.
 
@@ -13,6 +13,10 @@ countries: Belarus, Ethiopia, Malta, Moldova, Morocco, Samoa
 **Book 5:** *Design and Technology, Year 11* (student) — Samoa, Government of Samoa, Ministry of Education, Sports and Culture (MESC), with NZAID; drawings by Terry Smith. Year: 2003. Grade: Year 11. Language: English. Pages: 89. Source: GitHub release asset, mid-size-books-7 `grade-11-gov-samoa-design-technology-student-full-year.pdf`, 5,536,932 bytes, cover verified ("Design and Technology, Year 11") — tree route 404'd; the file lives only as a release asset. Kind: student. Read: COMPLETE. Placements at liqlearns-courses-work/expansion-td-2026-11-17/samoa-placements.md.
 
 **Book 6:** *Educația tehnologică — Manual pentru clasele a 5-a – a 6-a (Technological Education — Textbook for Grades 5–6)* (student textbook) — Moldova, Authors: Angela Eșanu, Ion Șaragov, Nicolae Onofreiciuc, Ana Simac. Publisher: Editura ARC; Ministry of Education of the Republic of Moldova; edition approved for reprinting by Order no. 357 of 20 May 2011, 2017 reprint (PDF produced May 2017). Grade: Grades 5–6 combined volume — the library record names it "Manual pentru clasa a VI-a"; the file itself is the combined Grades 5–6 manual (cover: "Manual pentru clasele a 5-a – a 6-a"), so both grades' halves are placed here under this one record. Language: Romanian. Pages: 208 (PDF; printed p. = PDF p.), verified byte size 50,000,056 = record size (record also states 208 pages). Source + route: tensae-code/liqlearns-textbooks, release asset in mid-size-books-8 via grab.py url route after the tree route 404'd — grade-06/gov/moldova/technological-education/student/moldova-g06-technological-education.pdf. Kind: student textbook. Read: COMPLETE (both grades' wood modules read in full; every other module's sections read at their teaching pages). Placements at liqlearns-courses-work/expansion-td-2026-11-17/moldova-placements.md.
+
+**Book 7:** *Work and Technology, Grade 7 (کار و فناوری, book code 717)* (student book) — Iran, Publisher: سازمان پژوهش و برنامه‌ریزی آموزشی, وزارت آموزش و پرورش | Year: 1405-1406 school year | Grade: 7 | Language: Persian | Pages: 192 (180 printed pages) | Source: GitHub release asset, mid-size-books-6 `grade-07-gov-iran-work-and-technology-student-full-year.pdf`, 11,619,626 bytes, cover verified (کار و فناوری, پایه هفتم) — tree route 404'd; the file lives only as a release asset | Kind: student | COMPLETE (read page by page) Placements at liqlearns-courses-work/expansion-td-2026-11-17/iran-placements.md.
+
+**Book 8:** *Work and Technology, Grade 8 (کار و فناوری, book code 817)* (student book) — Iran, Publisher: سازمان پژوهش و برنامه‌ریزی آموزشی, وزارت آموزش و پرورش | Year: 1405-1406 school year | Grade: 8 | Language: Persian | Pages: 175 (163 printed pages) | Source: GitHub release asset, mid-size-books-6 `grade-08-gov-iran-work-and-technology-student-full-year.pdf`, 15,385,505 bytes, cover verified (کار و فناوری, پایه هشتم) — tree route 404'd; the file lives only as a release asset | Kind: student | COMPLETE (read page by page) Placements at liqlearns-courses-work/expansion-td-2026-11-17/iran-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -30,8 +34,10 @@ countries: Belarus, Ethiopia, Malta, Moldova, Morocco, Samoa
 | Worked examples: complete drawings of objects built up step by step from their views | Belarus, *Чарчэнне (Technical Drawing / Drafting) — Grade 9*, printed p. 92 |
 | Preparing three-view architectural drawings of a shelter (left-hand view with footing details, front view, top view) and side/front views of an attached shelter | Samoa, *Design and Technology, Year 11*, printed p. 9, 12 |
 | Technical drawing of wooden pieces: the object shown from the front, from above and from the side, with its form, dimensions (cote) and technical conditions; technical drawing as an international graphic language governed by standards (STAS/ISO) | Moldova, *Educația tehnologică — Manual pentru clasele a 5-a – a 6-a (Grade 5 half)*, printed p. 13 |
+| Module 8's three views (سه‌نما): front, top and side views of an object and how they are placed (original string `technical-drawing/orthographic-projection-basics`) | Iran, *Work & Technology, Grade 7*, printed p. 97-99 |
+| Module 9 (Architecture & structures): reading architectural drawings — plans, the four elevations (نما) and the architect's symbol table; hidden lines are not drawn in architectural elevations (original string `technical-drawing/orthographic-projection-basics`) | Iran, *Work & Technology, Grade 8*, printed p. 143-145 |
 
-**Acceptance count: taught in 4 countries (Belarus, Malta, Moldova, Samoa) — plus teacher-guide evidence only (Ethiopia, Morocco), named here, counted nowhere.**
+**Acceptance count: taught in 5 countries (Belarus, Iran, Malta, Moldova, Samoa) — plus teacher-guide evidence only (Ethiopia, Morocco), named here, counted nowhere.**
 
 Era note: this guide is an older GEQIP-generation book (first edition 2003 E.C., funded through the General Education Quality Improvement Project, GEQIP) — a different curriculum generation from the current syllabus. These lessons present it as such, as the guide's testimony about the course of its era, never as the current syllabus unchecked. No student book for Technical Drawing exists in hand, so nothing here could be checked against a pupil text.
 
@@ -47,4 +53,6 @@ Samoa's own way: Samoa teaches orthographic projection on the building the cours
 
 Moldova's own way: Moldova teaches orthographic drawing inside the Grade 5 wood module — the technical drawing of wooden pieces, shown from the front, from above and from the side, with form, dimensions (cote) and technical conditions — and names technical drawing an international graphic language governed by standards (STAS/ISO).
 
-Searchable tags: technical drawing, orthographic projection, principal views, inclined surface, oblique surface, auxiliary view, Grade 12, Ethiopia, Samoa, Year 11, shelter, three-view drawing, Moldova, Grades 5–6, wooden pieces, STAS, ISO
+Iran's own way: Iran teaches the three views (سه‌نما) in Grade 7 — front, top and side views of an object and how they are placed — and returns in Grade 8 to read architectural drawings: plans, the four elevations (نما) and the architect's symbol table, with hidden lines not drawn in architectural elevations.
+
+Searchable tags: technical drawing, orthographic projection, principal views, inclined surface, oblique surface, auxiliary view, Grade 12, Ethiopia, Samoa, Year 11, shelter, three-view drawing, Moldova, Grades 5–6, wooden pieces, STAS, ISO, Iran, Grade 7, Persian, Iran, Grade 8, Persian

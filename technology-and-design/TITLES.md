@@ -7,9 +7,9 @@ from the hand to the drawing board to the workshop.
 
 **First Steps → Technical Drawing → Materials → Metal → Machining → Wood → Mechanisms and Machines → Electrical Installations and the Home → Textiles and Fashion → Radiography Technology → Design and Making → Models and Robotics → Workshop and Safety → Electricity and Electronics → Food Technology → Paper, Card and Modelling → Construction and Building → Vehicle Technology → Printing and Bookbinding → Agriculture Technology → Networks and Computers → Energy**
 
-Stocked titles so far: **341 lessons**.
+Stocked titles so far: **392 lessons**.
 
-**Technical Drawing** (technical-drawing/) — 41 lessons:
+**Technical Drawing** (technical-drawing/) — 43 lessons:
 17 built from Ethiopia's Grade 12 teacher guide (2003 E.C.,
 GEQIP generation) as labelled evidence — see CURRICULUM.md
 and ABOUT.md for the honesty terms — 6 stocked
@@ -92,7 +92,12 @@ direction; Orthographic projection basics.
 
 Three founding Technical Drawing lessons also carry Malaysia placements (3 placements, *RBT Tingkatan 1*): Free-hand sketching — principles and place in design (printed pp. 68–73); Sketching techniques — lines, circles and proportion (printed pp. 74, 86–88); Pictorial sketching — isometric (printed pp. 74–85). Advertising design also carries a Malaysia placement (*RBT Tingkatan 3*, printed pp. 139–168).
 
-**First Steps** (first-steps/) — 28 lessons: 3 stocked
+- Computer-aided drawing (CAD) (computer-aided-drawing-cad/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
+- Drawing instruments and materials (drawing-instruments-and-materials/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
+
+Four founding Technical Drawing lessons also carry Iran placements (6 placements): Sketching techniques — lines, circles and proportion (*Work & Technology, Grade 7*, printed pp. 91–92); Dimensioning — lines, symbols and reading direction (Grade 7, printed pp. 95–96; Grade 9, printed p. 21); Orthographic projection basics (Grade 7, printed pp. 97–99; Grade 8, printed pp. 143–145); Size and location dimensions (Grade 7, printed pp. 100–102).
+
+**First Steps** (first-steps/) — 29 lessons: 3 stocked
 2026-11-17 from Canada's *Technology in the Community*
 (Nunavut, Tulliniliara Level 14, student reader), 1
 stocked 2026-11-17 from Jamaica's *National Standards
@@ -137,7 +142,11 @@ counted nowhere):
 
 What technology is also carries a Malaysia placement (*RBT Tahun 4*, printed pp. 38–43).
 
-**Materials** (materials/) — 8 lessons: 2 stocked
+- Biotechnology (biotechnology/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
+
+What technology is also carries 2 Iran placements (*Use of New Technologies, Grade 11*, printed pp. 3–15, 10–22). Inventors and inventions also carries an Iran placement (*Work & Technology, Grade 7*, printed pp. 3–9), and Technology as a system also carries an Iran placement (Grade 7, printed pp. 11–15).
+
+**Materials** (materials/) — 14 lessons: 2 stocked
 2026-11-17 from Finland's *Katse tulevaan*
 (TuleVa project learning material, published via aoe.fi),
 2 stocked 2026-11-17 from Gabon's *Super
@@ -157,7 +166,14 @@ Technology* pupil's books (REB, Primary 5–6):
 - Sustainable waste management (sustainable-waste-management/) — stocked 2026-11-17 from Rwanda's *Science and Elementary Technology, Primary 6* (REB)
 - Ceramics (ceramics/) — stocked 2026-11-17 from Moldova's *Educația tehnologică — Manual pentru clasele a 5-a – a 6-a* (Grades 5–6, G6 half)
 
-**Metal** (metal/) — 2 lessons: 1 stocked 2026-11-17
+- Converging technologies (converging-technologies/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
+- Nanotechnology (nanotechnology/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
+- How nanomaterials are made (how-nanomaterials-are-made/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
+- Carbon nanostructures (carbon-nanostructures/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
+- Composite materials (composite-materials/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
+- Smart materials and shape-memory materials (smart-materials-and-shape-memory-materials/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
+
+**Metal** (metal/) — 8 lessons: 1 stocked 2026-11-17
 from Rwanda's *Science and Elementary Technology,
 Primary 5* (REB), and 1 stocked 2026-11-17 from
 Moldova's *Educație tehnologică, Grade 9* (Editura
@@ -165,6 +181,13 @@ Epigraf, 2024):
 
 - Maintenance of metals (maintenance-of-metals/)
 - Artistic metal processing (artistic-metal-processing/) — stocked 2026-11-17 from Moldova's *Educație tehnologică, Grade 9* (Editura Epigraf, 2024)
+
+- Sheet metal work — marking out, cutting, sawing, filing and drilling (sheet-metal-work/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
+- Joining with screws (joining-with-screws/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
+- Copper as a material (copper-as-a-material/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
+- Designing and making an embossed copper plaque (designing-and-making-an-embossed-copper-plaque/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
+- Embossing technique (embossing-technique/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
+- Texturing and patina (texturing-and-patina/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
 
 **Machining** (machining/) — 2 lessons, stocked
 2026-11-17 from Moldova's *Educație tehnologică*
@@ -193,8 +216,10 @@ Moldova's *Educație tehnologică* textbooks
 - Artistic wood carving (artistic-wood-carving/)
 - Artistic wood processing technologies (artistic-wood-processing-technologies/)
 
+Wood as a material also carries an Iran placement (*Work & Technology, Grade 7*, printed pp. 106–107), and Woodwork — tools and operations also carries 2 Iran placements (Grade 7, printed pp. 108–111, 112–115).
+
 **Mechanisms and Machines** (mechanisms-and-machines/) —
-11 lessons: 1 stocked 2026-11-17 from the same Canada book,
+16 lessons: 1 stocked 2026-11-17 from the same Canada book,
 3 stocked 2026-11-17 from Jamaica's *National
 Standards Curriculum Guide — Grades 4–6 — Resource
 & Technology* (Jamaica, 2018), 4 stocked 2026-11-17
@@ -215,8 +240,14 @@ nowhere), and 3 stocked 2026-11-17 from Rwanda's
 - Levers (levers/) — stocked 2026-11-17 from Rwanda's *Science and Elementary Technology, Primary 6* (REB)
 - Dangers when using simple machines, and safety in using simple machines (dangers-when-using-simple-machines-and-safety-in-using-simple/) — stocked 2026-11-17 from Rwanda's *Science and Elementary Technology, Primary 6* (REB)
 
+- Mechanisms that transmit and transform movement (mechanisms-that-transmit-and-transform-movement/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
+- Gear mechanisms (gear-mechanisms/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
+- Analysing a mechanism part by part (analysing-a-mechanism-part-by-part/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
+- Simulating a mechanism in software (Interactive Physics) before building it (simulating-a-mechanism-in-software-interactive-physics-before/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
+- Building the mechanism (building-the-mechanism/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
+
 **Electrical Installations and the Home**
-(electrical-installations/) — 5 lessons: 1 stocked
+(electrical-installations/) — 15 lessons: 1 stocked
 2026-11-17 from the same Canada book, 1 stocked
 2026-11-17 from Azerbaijan's *Технология (Technology),
 Grade 2* (Russian edition as held), and 1 stocked
@@ -229,8 +260,21 @@ Technology, Primary 5* (REB):
 - Electrical installation work (electromontaj) (electrical-installation-work-electromontaj/) — stocked 2026-11-17 from Moldova's *Educație tehnologică, Grade 9* (Editura Epigraf, 2024)
 - Making a simple electrical article (making-a-simple-electrical-article/) — stocked 2026-11-17 from Moldova's *Educație tehnologică, Grade 9* (Editura Epigraf, 2024)
 
+- Reading a real wiring diagram (reading-a-real-wiring-diagram/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
+- Wiring a one-way switch circuit for a lamp (wiring-a-one-way-switch-circuit-for-a-lamp/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
+- The wiring procedure (the-wiring-procedure/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
+- Practical wiring (practical-wiring/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
+- Mechanical installations in the home (mechanical-installations-in-the-home/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
+- Taps and valves (taps-and-valves/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
+- Clearing a blocked sink drain (clearing-a-blocked-sink-drain/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
+- Repairing a flush tank, step by step (repairing-a-flush-tank-step-by-step/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
+- Servicing an evaporative (water) cooler (servicing-an-evaporative-water-cooler/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
+- Gas installation safety (gas-installation-safety/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
+
+Electrical safety also carries an Iran placement (*Work & Technology, Grade 9*, printed pp. 74–76).
+
 **Textiles and Fashion** (textiles-and-fashion/) —
-42 lessons: 1 stocked 2026-11-17 from the same Canada book,
+45 lessons: 1 stocked 2026-11-17 from the same Canada book,
 5 stocked 2026-11-17 from Finland's *Katse tulevaan*
 (TuleVa project learning material, published via aoe.fi),
 2 stocked 2026-11-17 from Azerbaijan's *Технология
@@ -279,12 +323,18 @@ Samoa placement (Year 9 Book 3, printed p. 36, 50):
 - Interior design (interior-design/) — stocked 2026-11-17 from Moldova's *Educație tehnologică* textbooks (Grades 4, 5–6 and 9)
 - The ABC of interior designing (the-abc-of-interior-designing/) — stocked 2026-11-17 from Moldova's *Educație tehnologică* textbooks (Grades 4, 5–6 and 9)
 
+- Sewing tools, safety and hand stitches (sewing-tools-safety-and-hand-stitches/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
+- Machine sewing (machine-sewing/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
+- Flat weaving (flat-weaving/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
+
+Fabrics also carries an Iran placement (*Work & Technology, Grade 7*, printed pp. 153–154).
+
 **Radiography Technology** (radiography-technology/) —
 1 lesson, stocked 2026-11-17 from the same Canada book:
 
 - X-ray machines (x-ray-machines/)
 
-**Design and Making** (design-and-making/) — 57 lessons:
+**Design and Making** (design-and-making/) — 63 lessons:
 1 stocked 2026-11-17 from Kuwait's الذكاء الرقمي 8
 (*Digital Intelligence, Grade 8, Term 2*, Ministry of
 Education, State of Kuwait), 6 stocked 2026-11-17
@@ -364,8 +414,17 @@ Technology, Year 11*, 2003):
 
 The design brief also carries a Malaysia placement (*RBT Tingkatan 1*, printed pp. 49–55).
 
+- Idea generation techniques (idea-generation-techniques/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
+- Screening ideas and feasibility study (screening-ideas-and-feasibility-study/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
+- Prototyping, patenting and commercialisation (prototyping-patenting-and-commercialisation/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
+- Setting up a small business (setting-up-a-small-business/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
+- Drawing simple shapes with the line, circle and arc tools in CAD software (drawing-simple-shapes-with-the-line-circle-and-arc-tools-in-cad/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
+- Editing tools in CAD (editing-tools-in-cad/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
+
+The design process also carries 3 Iran placements (*Use of New Technologies, Grade 11*, printed pp. 125–130; *Work & Technology, Grade 7*, printed pp. 9–10; *Work & Technology, Grade 9*, printed p. 2).
+
 **Models and Robotics** (models-and-robotics/) —
-15 lessons: 6 stocked 2026-11-17 from the same Kuwait book,
+16 lessons: 6 stocked 2026-11-17 from the same Kuwait book,
 1 stocked 2026-11-17 from Jamaica's *National
 Standards Curriculum Guide — Grades 4–6 — Resource
 & Technology* (Jamaica, 2018) — Making a toy car
@@ -391,6 +450,8 @@ nowhere):
 - Mechatronic design (mechatronic-design/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
 - Reading and drawing the block diagram (gambar rajah blok) of an existing mechatronic product (reading-and-drawing-the-block-diagram-gambar-rajah-blok-of-an/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
 - Modifying a mechatronic product (modifying-a-mechatronic-product/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+
+- Architectural model making (architectural-model-making/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
 
 **Workshop and Safety** (workshop-and-safety/) —
 12 lessons: 1 stocked 2026-11-17 from Malta's Workbook 1,
@@ -419,7 +480,7 @@ marking out also carries a Jamaica placement:
 - Keeping the workshop safe and tools maintained (keeping-the-workshop-safe-and-tools-maintained/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
 
 **Electricity and Electronics**
-(electricity-and-electronics/) — 27 lessons: 2 stocked
+(electricity-and-electronics/) — 29 lessons: 2 stocked
 2026-11-17 from Malta's Workbook 2, 6 stocked
 2026-11-17 from Jamaica's *National Standards Curriculum
 Guide — Grades 4–6 — Resource & Technology*
@@ -462,6 +523,11 @@ Primary 5*, printed p. 198).
 - Electrical gadget project (electrical-gadget-project/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
 - Electronic design (electronic-design/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
 
+- Electronic components (electronic-components/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
+- Building an electronic product (building-an-electronic-product/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
+
+The simple electric circuit also carries an Iran placement (*Work & Technology, Grade 8*, printed pp. 42–47), and Soldering electronic components also carries an Iran placement (Grade 8, printed p. 51).
+
 **Food Technology** (food-technology/) — 18 lessons:
 1 stocked 2026-11-17 from Azerbaijan's *Технология
 (Technology), Grade 2* (Russian edition as held), and
@@ -490,6 +556,8 @@ reprinted 2004), and *Food Technology* Year 12 (2004):
 - Food design (food-design/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
 - Food-design project (my attractive sandwich) (food-design-project-my-attractive-sandwich/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
 - Food design at Tingkatan 2 (food-design-at-tingkatan-2/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
+
+Food technology also carries an Iran placement (*Work & Technology, Grade 7*, printed pp. 170–176).
 
 **Paper, Card and Modelling** (paper-card-and-modelling/) —
 34 lessons: 7 stocked 2026-11-17 from Azerbaijan's
@@ -549,7 +617,7 @@ unit in this course:
 - Aquaponic design project (aquaponic-design-project/) — stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks (KPM / Dewan Bahasa dan Pustaka)
 
 **Construction and Building** (construction-and-building/) —
-9 lessons: 2 stocked 2026-11-17 from Haiti's ITAP Projet
+14 lessons: 2 stocked 2026-11-17 from Haiti's ITAP Projet
 Nectar pedagogical sequences (MENFP, 8e AF —
 teacher-guide evidence only, counted nowhere), and
 5 stocked 2026-11-17 from Samoa's *Design and
@@ -566,12 +634,23 @@ technology also carries 2 Samoa placements:
 - Building design (building-design/) — stocked 2026-11-17 from Moldova's *Educație tehnologică, Grade 9* (Editura Epigraf, 2024)
 - The dwelling through time (the-dwelling-through-time/) — stocked 2026-11-17 from Moldova's *Educație tehnologică, Grade 9* (Editura Epigraf, 2024)
 
+- The civil-engineering field (the-civil-engineering-field/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
+- Brick parts and wall thicknesses (brick-parts-and-wall-thicknesses/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
+- Bricklaying (bricklaying/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
+- Building walls in other bonds (building-walls-in-other-bonds/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
+- Plaster work (plaster-work/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
+
 **Vehicle Technology** (vehicle-technology/) —
-1 lesson, stocked 2026-11-17 from Moldova's
+5 lessons, stocked 2026-11-17 from Moldova's
 *Educație tehnologică, Grade 9* (Editura Epigraf,
 2024) — a new unit in this course:
 
 - The motor car (the-motor-car/)
+
+- The car and its systems (the-car-and-its-systems/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
+- Using the owner's manual (using-the-owner-s-manual/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
+- Reading the dashboard warning lights and fault-finding from them (reading-the-dashboard-warning-lights-and-fault-finding-from-them/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
+- Checking tyres and the periodic technical inspection (checking-tyres-and-the-periodic-technical-inspection/) — stocked 2026-11-17 from Iran's *Work & Technology* and *Use of New Technologies* textbooks (Organisation for Educational Research and Planning, Ministry of Education, in Persian)
 
 **Printing and Bookbinding** (printing-and-bookbinding/) —
 1 lesson, stocked 2026-11-17 from Moldova's
@@ -595,6 +674,8 @@ placement (1 placement, teacher-guide evidence):
 - Components of a photovoltaic system (components-of-a-photovoltaic-system/)
 - The energy chain (the-energy-chain/) — 5 Morocco placements, one per function (feed, distribute, convert, transmit, act)
 - Generating electrical energy (generating-electrical-energy/) — stocked 2026-11-17 from Moldova's *Educație tehnologică, Grade 9* (Editura Epigraf, 2024)
+
+Renewable energy technology also carries 5 Iran placements (*Use of New Technologies, Grade 11*, printed pp. 94–103, 104–107, 108–112, 113–117, 118–122).
 
 **Textiles and Fashion** additions — 4 lessons stocked 2026-11-17 from Malaysia's *Reka Bentuk dan Teknologi* (RBT) textbooks:
 

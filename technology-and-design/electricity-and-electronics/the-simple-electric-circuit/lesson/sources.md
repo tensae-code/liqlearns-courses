@@ -1,6 +1,6 @@
 # Sources — The simple electric circuit
 
-countries: Jamaica, Haiti, Rwanda
+countries: Jamaica, Haiti, Rwanda, Iran
 
 **Book 1:** *National Standards Curriculum Guide — Grades 4–6 — Resource & Technology* (curriculum guide with full unit teaching content) — Jamaica, Ministry of Education, Youth and Information, Kingston, Jamaica; © 2018. Year/edition: 2018 (PDF created in Adobe InDesign CC 13.1, Sep 2018). Grade: Grades 4–6. Language: English. Pages: 188 (PDF); printed pagination runs to p. 167 (printed p. = PDF p. − 20). Source + route: file held on disk in phase3-staging (grade-04/gov/jamaica/curriculum/grades-4-6-resource-technology.pdf), 15,155,269 bytes; copied into scratch and read there — the book is also recorded pushed to GitHub. Kind: curriculum (guide with full unit teaching content). File quirk, verified: the visible cover (rendered and read) is the Resource & Technology Grades 4–6 cover, and the whole body is that guide; the cover page's embedded text layer, however, reads "Grades 7-9 English Language/Literature" — a production artifact in the file's text layer, not a different book. Read: COMPLETE (whole guide checked; Engineering & Mechanisms units and Design Process material read in full). Placements at liqlearns-courses-work/expansion-td-2026-11-17/jamaica-placements.md.
 
@@ -14,7 +14,13 @@ countries: Jamaica, Haiti, Rwanda
 
 **Book 3:** *Science and Elementary Technology for Rwandan Schools — Pupil's Book 5* (pupil's book) — Rwanda, Spotlight Publishers (EA) Limited for Rwanda Education Board (REB); authors David Kamoce, Daniel Arapai, Rosalia Wacuka (title page); 2019 (record). Grade: Primary 5. Language: English (native text layer). Pages: 228 (PDF). Source + route: tensae-code/liqlearns-textbooks release asset `mid-size-books/grade-05-gov-rwanda-science-and-elementary-technology-student-full-year.pdf` via grab.py url route; 60,161,568 bytes — matches the asset index. Cover verified. Kind: student (pupil's book). Read: COMPLETE (technology parts read page by page from the text layer). Placements at liqlearns-courses-work/expansion-td-2026-11-17/rwanda-placements.md.
 
-**Acceptance count: taught in 2 countries (Jamaica, Rwanda) — plus teacher-guide evidence only (Haiti), named here, counted nowhere.**
+**Book 4:** *Work and Technology, Grade 8 (کار و فناوری, book code 817)* (student book) — Iran, Publisher: سازمان پژوهش و برنامه‌ریزی آموزشی, وزارت آموزش و پرورش | Year: 1405-1406 school year | Grade: 8 | Language: Persian | Pages: 175 (163 printed pages) | Source: GitHub release asset, mid-size-books-6 `grade-08-gov-iran-work-and-technology-student-full-year.pdf`, 15,385,505 bytes, cover verified (کار و فناوری, پایه هشتم) — tree route 404'd; the file lives only as a release asset | Kind: student | COMPLETE (read page by page) Placements at liqlearns-courses-work/expansion-td-2026-11-17/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Module 4 (Electronics) opening, taught around the project of a musical warning box (original string `basic electric circuits — sources of DC and AC voltage, the parts of a circuit, electrical safety`) | Iran, *Work & Technology, Grade 8*, printed p. 42-47 |
+
+**Acceptance count: taught in 3 countries (Iran, Jamaica, Rwanda) — plus teacher-guide evidence only (Haiti), named here, counted nowhere.**
 
 Jamaica's own way: Jamaica teaches the circuit inside the flashlight the class will make — electrical energy is surveyed in familiar devices first (fans, flashlights, calculators, radios), current flow is discovered, and the circuit's components are learned with a diagram of the very circuit the learners will build.
 
@@ -24,4 +30,6 @@ Rwanda's own way: Rwanda teaches the simple circuit inside its Primary 5 electri
 
 Haiti programme note: Haiti's ETAP programmes for the 3e cycle (MENFP, Direction Enseignement Fondamental, version définitive 28 juillet 2024) are curriculum/framework documents, recorded RECORD-ONLY in the placements file and not stocked; the teaching stocked here comes from the Projet Nectar pedagogical sequences that deliver the programme. The LibreOffice Impress (PAO) Nectar sequence in the same placements file is likewise RECORD-ONLY — pure ICT content, stocked in the ICT course, not here.
 
-Searchable tags: electric circuit, current, battery, conductor, bulb, switch, Jamaica, Grade 5, Resource & Technology, open circuit, closed circuit, circuit maquette, Haiti, ITAP, Projet Nectar, 8e AF, French, Rwanda, REB, Primary 5, dynamo
+Iran's own way: Iran opens Grade 8 electronics with the circuit itself — sources of DC and AC voltage, the parts of a circuit and electrical safety — taught around the project of a musical warning box (Work & Technology G8, Module 4).
+
+Searchable tags: electric circuit, current, battery, conductor, bulb, switch, Jamaica, Grade 5, Resource & Technology, open circuit, closed circuit, circuit maquette, Haiti, ITAP, Projet Nectar, 8e AF, French, Rwanda, REB, Primary 5, dynamo, Iran, Grade 8, Persian

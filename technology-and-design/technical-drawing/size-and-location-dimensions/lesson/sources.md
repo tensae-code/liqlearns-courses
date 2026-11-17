@@ -1,6 +1,6 @@
 # Sources — Size and Location Dimensions — the Theory
 
-countries: Belarus, Ethiopia, Malta, Moldova
+countries: Belarus, Ethiopia, Iran, Malta, Moldova
 
 **Book 1:** *Basic Technical Drawing, Teacher Guide, Grade 12* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, in collaboration with Kuraz International Publisher P.L.C., Addis Ababa. Prepared by: Amanuel Berhanu (BSc), Tolossa Deberie (MSc). Edited and reviewed by: Abebe Basazeneu, Natenael Abebe, Yared Mekuria. First edition, 2003 (E.C.), funded through the General Education Quality Improvement Project (GEQIP). Developed, printed and distributed by Al Ghurair Printing and Publishing House CO. (LLC), Dubai, U.A.E., in collaboration with Kuraz International Publisher. ISBN: 978-99944-2-097-2. 109 PDF pages; printed page = PDF page - 4 throughout. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/technical-drawing/g12-teacher-placements.md.
 
@@ -10,6 +10,8 @@ countries: Belarus, Ethiopia, Malta, Moldova
 
 **Book 4:** *Educația tehnologică — Manual pentru clasele a 5-a – a 6-a (Technological Education — Textbook for Grades 5–6)* (student textbook) — Moldova, Authors: Angela Eșanu, Ion Șaragov, Nicolae Onofreiciuc, Ana Simac. Publisher: Editura ARC; Ministry of Education of the Republic of Moldova; edition approved for reprinting by Order no. 357 of 20 May 2011, 2017 reprint (PDF produced May 2017). Grade: Grades 5–6 combined volume — the library record names it "Manual pentru clasa a VI-a"; the file itself is the combined Grades 5–6 manual (cover: "Manual pentru clasele a 5-a – a 6-a"), so both grades' halves are placed here under this one record. Language: Romanian. Pages: 208 (PDF; printed p. = PDF p.), verified byte size 50,000,056 = record size (record also states 208 pages). Source + route: tensae-code/liqlearns-textbooks, release asset in mid-size-books-8 via grab.py url route after the tree route 404'd — grade-06/gov/moldova/technological-education/student/moldova-g06-technological-education.pdf. Kind: student textbook. Read: COMPLETE (both grades' wood modules read in full; every other module's sections read at their teaching pages). Placements at liqlearns-courses-work/expansion-td-2026-11-17/moldova-placements.md.
 
+**Book 5:** *Work and Technology, Grade 7 (کار و فناوری, book code 717)* (student book) — Iran, Publisher: سازمان پژوهش و برنامه‌ریزی آموزشی, وزارت آموزش و پرورش | Year: 1405-1406 school year | Grade: 7 | Language: Persian | Pages: 192 (180 printed pages) | Source: GitHub release asset, mid-size-books-6 `grade-07-gov-iran-work-and-technology-student-full-year.pdf`, 11,619,626 bytes, cover verified (کار و فناوری, پایه هفتم) — tree route 404'd; the file lives only as a release asset | Kind: student | COMPLETE (read page by page) Placements at liqlearns-courses-work/expansion-td-2026-11-17/iran-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Size dimensions (teacher guide — evidence) | Ethiopia, *Basic Technical Drawing, Teacher Guide, Grade 12*, Unit 4, Lesson 4.2, printed pp. 59–62 |
@@ -18,8 +20,9 @@ countries: Belarus, Ethiopia, Malta, Moldova
 | The same object drawn at scale 1:1 (full size) and at scale 1:2 in the project working-drawing set — the drawing's scale changes, the object's true size does not | Malta, *Design and Technology — Graphical Communication Component — Workbook 2 ("Communicate Graphically")*, printed p. 12 |
 | Scale: drawing an object larger or smaller than life while the dimension figure always states the object's true size | Belarus, *Чарчэнне (Technical Drawing / Drafting) — Grade 9*, printed p. 31 |
 | Drawing scale (enlargement 2:1, 4:1; reduction 1:2, 1:4; natural size 1:1) and the rule that all dimensions on a technical drawing are in millimetres, with “mm” not written beside the figure | Moldova, *Educația tehnologică — Manual pentru clasele a 5-a – a 6-a (Grade 5 half)*, printed p. 14 |
+| Module 8's dimensioning (اندازه‌گذاری) of a drawn part and drawing to scale, incl. enlarging scales 2:1, 5:1, 10:1 and the woodwork project drawn at 1:2 and dimensioned (original string `technical-drawing/size-and-location-dimensions`) | Iran, *Work & Technology, Grade 7*, printed p. 100-102 |
 
-**Acceptance count: taught in 3 countries (Belarus, Malta, Moldova) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+**Acceptance count: taught in 4 countries (Belarus, Iran, Malta, Moldova) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
 
 Era note: this guide is an older GEQIP-generation book (first edition, 2003 E.C., about 2010/11) — an earlier curriculum generation than Ethiopia's newer books. This lesson presents it as exactly that: the guide's testimony about that era's Grade 12 Technical Drawing course. It is never presented as the current syllabus, and nothing here has been checked against a current syllabus. No pupil (student) book for Technical Drawing has been read — no student book exists in hand — so this lesson stands on teacher-guide evidence only.
 
@@ -31,4 +34,6 @@ Belarus's own way: Belarus teaches scale as a drawing rule in its own right — 
 
 Moldova's own way: Moldova teaches scale inside the Grade 5 drawing pages — enlargement 2:1 and 4:1, reduction 1:2 and 1:4, natural size 1:1 — with the rule that every dimension on a technical drawing is in millimetres and “mm” is not written beside the figure.
 
-Searchable tags: size dimension, location dimension, scale, true size, complete set of instructions, Ethiopia Grade 12 Technical Drawing Unit 4, Moldova, Grades 5–6, millimetres, enlargement, reduction
+Iran's own way: Iran teaches dimensioning (اندازه‌گذاری) of a drawn part together with drawing to scale in Grade 7 — enlarging scales 2:1, 5:1, 10:1 included — and applies it in the woodwork project drawn at 1:2 and dimensioned.
+
+Searchable tags: size dimension, location dimension, scale, true size, complete set of instructions, Ethiopia Grade 12 Technical Drawing Unit 4, Moldova, Grades 5–6, millimetres, enlargement, reduction, Iran, Grade 7, Persian

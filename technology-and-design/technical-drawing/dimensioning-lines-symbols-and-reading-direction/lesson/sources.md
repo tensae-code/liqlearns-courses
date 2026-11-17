@@ -1,6 +1,6 @@
 # Sources — Dimensioning — Lines, Symbols and Reading Direction
 
-countries: Belarus, Ethiopia, Jamaica, Samoa
+countries: Belarus, Ethiopia, Iran, Jamaica, Samoa
 
 **Book 1:** *Basic Technical Drawing, Teacher Guide, Grade 12* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, in collaboration with Kuraz International Publisher P.L.C., Addis Ababa. Prepared by: Amanuel Berhanu (BSc), Tolossa Deberie (MSc). Edited and reviewed by: Abebe Basazeneu, Natenael Abebe, Yared Mekuria. First edition, 2003 (E.C.), funded through the General Education Quality Improvement Project (GEQIP). Developed, printed and distributed by Al Ghurair Printing and Publishing House CO. (LLC), Dubai, U.A.E., in collaboration with Kuraz International Publisher. ISBN: 978-99944-2-097-2. 109 PDF pages; printed page = PDF page - 4 throughout. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/technical-drawing/g12-teacher-placements.md.
 
@@ -10,6 +10,10 @@ countries: Belarus, Ethiopia, Jamaica, Samoa
 
 **Book 4:** *Design and Technology, Year 11* (student) — Samoa, Government of Samoa, Ministry of Education, Sports and Culture (MESC), with NZAID; drawings by Terry Smith. Year: 2003. Grade: Year 11. Language: English. Pages: 89. Source: GitHub release asset, mid-size-books-7 `grade-11-gov-samoa-design-technology-student-full-year.pdf`, 5,536,932 bytes, cover verified ("Design and Technology, Year 11") — tree route 404'd; the file lives only as a release asset. Kind: student. Read: COMPLETE. Placements at liqlearns-courses-work/expansion-td-2026-11-17/samoa-placements.md.
 
+**Book 5:** *Work and Technology, Grade 7 (کار و فناوری, book code 717)* (student book) — Iran, Publisher: سازمان پژوهش و برنامه‌ریزی آموزشی, وزارت آموزش و پرورش | Year: 1405-1406 school year | Grade: 7 | Language: Persian | Pages: 192 (180 printed pages) | Source: GitHub release asset, mid-size-books-6 `grade-07-gov-iran-work-and-technology-student-full-year.pdf`, 11,619,626 bytes, cover verified (کار و فناوری, پایه هفتم) — tree route 404'd; the file lives only as a release asset | Kind: student | COMPLETE (read page by page) Placements at liqlearns-courses-work/expansion-td-2026-11-17/iran-placements.md.
+
+**Book 6:** *Work and Technology, Grade 9 (کار و فناوری, book code not stated in file)* (student book) — Iran, Publisher: سازمان پژوهش و برنامه‌ریزی آموزشی, وزارت آموزش و پرورش | Year: not stated in the file (current curriculum edition) | Grade: 9 | Language: Persian | Pages: 160 (152 printed pages) | Source: GitHub release asset, mid-size-books-6 `grade-09-gov-iran-work-and-technology-full-year.pdf`, 12,463,387 bytes, cover verified — tree route 404'd; the file lives only as a release asset | Kind: student | COMPLETE (read page by page) Placements at liqlearns-courses-work/expansion-td-2026-11-17/iran-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The parts of a dimension (teacher guide — evidence) | Ethiopia, *Basic Technical Drawing, Teacher Guide, Grade 12*, Unit 4, Lesson 4.1, printed pp. 54–59 |
@@ -17,8 +21,10 @@ countries: Belarus, Ethiopia, Jamaica, Samoa
 | Reading a working drawing | Jamaica, *National Standards Curriculum Guide — Grades 4–6 — Resource & Technology*, printed p. 33 — interpreting dimensions and annotations on a simple working drawing of the toy car; evaluating the finished product against the working drawing/plan |
 | Applying dimensions: dimension lines, extension lines, arrowheads and the dimension figure placed and read to the rules | Belarus, *Чарчэнне (Technical Drawing / Drafting) — Grade 9*, printed p. 27 |
 | Architectural dimensioning conventions: show only necessary dimensions, never repeat a dimension, dimension figures placed to be read clearly | Samoa, *Design and Technology, Year 11*, printed p. 7 |
+| Module 8's table of line types and thicknesses (main line, centre/symmetry line…) and what each is used for (original string `technical-drawing/dimensioning-lines-symbols-and-reading-direction`) | Iran, *Work & Technology, Grade 7*, printed p. 95-96 |
+| dimensioning a drawing in CAD software, following the hand-dimensioning rules (original string `technical-drawing/dimensioning-lines-symbols-and-reading-direction`) | Iran, *Work & Technology, Grade 9*, printed p. 21 |
 
-**Acceptance count: taught in 3 countries (Belarus, Jamaica, Samoa) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+**Acceptance count: taught in 4 countries (Belarus, Iran, Jamaica, Samoa) — plus teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
 
 Jamaica's own way: Jamaica teaches working-drawing reading on the toy car the class is making — dimensions and annotations are interpreted on the car's own simple working drawing, and the finished product is evaluated against that drawing/plan, so the drawing is both the making instructions and the judge.
 
@@ -30,4 +36,6 @@ Belarus's own way: Belarus teaches applying dimensions inside its standard execu
 
 Samoa's own way: Samoa teaches dimensioning as architectural convention for building drawings — show only necessary dimensions, never repeat a dimension, and place figures to be read clearly — rules stated for the shelter drawings the learner is about to make.
 
-Searchable tags: dimensioning, dimension line, extension line, arrowhead, leader line, aligned system, unidirectional system, Ethiopia Grade 12 Technical Drawing Unit 4, Samoa, Year 11, architectural dimensioning
+Iran's own way: Iran teaches dimensioning twice over: in Grade 7 through Module 8's table of line types and thicknesses — main line, centre/symmetry line and the rest, with what each is used for — and in Grade 9 by dimensioning a drawing in CAD software, following the hand-dimensioning rules.
+
+Searchable tags: dimensioning, dimension line, extension line, arrowhead, leader line, aligned system, unidirectional system, Ethiopia Grade 12 Technical Drawing Unit 4, Samoa, Year 11, architectural dimensioning, Iran, Grade 7, Persian, Iran, Grade 9, Persian
