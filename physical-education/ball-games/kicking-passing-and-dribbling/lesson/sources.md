@@ -1,6 +1,6 @@
 # Sources — Kicking, Passing and Dribbling
 
-countries: Ethiopia, Kazakhstan, Tajikistan, Timor-Leste, Pakistan, China, El Salvador, Azerbaijan
+countries: Ethiopia, Kazakhstan, Tajikistan, Timor-Leste, Pakistan, China, El Salvador, Azerbaijan, Maldives
 
 **Book — Grade 1 student:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 81 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md. COMPLETE.
 
@@ -51,7 +51,7 @@ countries: Ethiopia, Kazakhstan, Tajikistan, Timor-Leste, Pakistan, China, El Sa
 | Kazakhstan — Quarter 1, football elements — dribbling the ball with the inside and outside of the instep, kicking the ball, and stopping a rolling ball (teacher guide — evidence) (original target `ball-games/kicking-passing-and-dribbling`) | Kazakhstan, *Physical Culture, Methodological Guide for Grade 4 Teachers* (Kazakhstan Grade 4 TG), printed p. 5 |
 | Tajikistan — Part 2, Mini-Football — learning mini-football technique at the first stage, passing the ball with running, and the game "Score a Goal" (Забей гол) (original target `ball-games/kicking-passing-and-dribbling`) | Tajikistan, *Fizicheskaya Kultura (Physical Culture), Grades 1–4*, Part 2, printed pp. ~128–140 |
 | Timor-Leste — Appendix 4: Football/Futsal — basic rules (goalkeeper's hands, fouls, throw-ins, corners) and football games and activities (teacher guide — evidence) (original target `ball-games/kicking-passing-and-dribbling`) | Timor-Leste, *Educação Física 7, Guia do Professor* (Timor-Leste Grade 7 Teacher Guide), printed p. 157 |
-**Acceptance count: taught in 5 countries (Ethiopia, Tajikistan, Pakistan, China, Azerbaijan).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Timor-Leste is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count.
+**Acceptance count: taught in 5 countries (Ethiopia, Tajikistan, Pakistan, China, Azerbaijan).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Timor-Leste is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count.
 
 The Grade 4 teacher guide scan is TRUNCATED: it holds printed pp. 1–39 of 72+. Missing: all of Chapter 4 (pp. 40–54), Chapter 5 Gymnastics (pp. 55–65) and Chapter 6 (pp. 66–72+). Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
 
@@ -197,5 +197,47 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/azerbaijan-p
 | Azerbaijan — Part II: Football (original target `ball-games/kicking-passing-and-dribbling`) | Azerbaijan, *Fiziki Tərbiyə 10*, printed p. 54 |
 
 Azerbaijan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Azerbaijan's own way is content, as the book lines above record it: a theory-first course — knowing and managing your own body, the movement abilities taught one by one, then the basic sports, then independent work the pupil runs alone, with Azerbaijan's own sport story (its Olympic successes, its Rio 2016 athletes, and holding the first European Games) taught as national content. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Maldives — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-pe-placements.md. The Maldives books stocked in this lesson are Book 2 (*Exploring H&PE 3 TG*), Book 4 (*Exploring H&PE 5 TG*), Book 5 (*Exploring H&PE 6 TG*) — all TEACHER guides, read COMPLETE as filed. Teacher guides are used as evidence of what is taught, not as substitute pupil books, so Maldives is teacher-guide evidence only in this lesson, named in the countries line and provenance rows but outside the acceptance count. The books' Health chapters (Units I–III) are filed in maldives-health-placements.md and placed in the Health course. Book 1, the Grade 1 Health & Physical Education Syllabus, is RECORD-ONLY with 0 placements, and Book 8, the Scribd Grade 3 student book, is UNREAD with 0 placements (view-only, no-login rule) — nothing is stocked from either in this lesson.
+
+**Book — Maldives Grade 3 Exploring H&PE TG (teacher guide):**
+## Book 2 — Exploring H&PE 3 TG (teacher guide, English)
+- Title as printed: Exploring Health and Physical Education — Teacher's Guide 3
+- Grade: Grade 3 (student/teacher: TEACHER)
+- Publisher: National Institute of Education, Maldives and Cambridge University Press, India; year 2015 (first published 2015); ISBN 978-11-07528-70-3 as printed on the copyright page
+- PDF pages: 247 (cover verified — "Exploring Health and Physical Education / Teacher's Guide / 3", NIE + Cambridge University Press; read in full)
+- Verdict: COMPLETE — its Health chapters (Units I–III) are filed in maldives-health-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book. The same book is also recorded as a direct nie.edu.mv download-list record (pkg 5324); filed once.
+- Tally: 9 placements — 9 to existing lessons, 0 NEW LESSON NEEDED
+- Maldives's own way: one combined Health & PE course per grade built on the national syllabus strands; the PE side at this grade is a fitness unit (health-related fitness, skill-related fitness, fundamental movement skills) rather than named sports.
+
+**Book — Maldives Grade 5 Exploring H&PE TG (teacher guide):**
+## Book 4 — Exploring H&PE 5 TG (teacher guide, English)
+- Title as printed: Exploring Health and Physical Education — Teacher's Guide 5
+- Grade: Grade 5 (student/teacher: TEACHER)
+- Publisher: National Institute of Education, Maldives and Cambridge University Press, India; year 2016 (first published 2016); ISBN 978-1-316-60520-2
+- PDF pages: 164 (cover verified against the record title; read in full)
+- Verdict: COMPLETE — its Health chapters (Units I–III) are filed in maldives-health-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book. The same book is also recorded as a direct nie.edu.mv download-list record (pkg 5324); filed once.
+- Tally: 14 placements — 13 to existing lessons, 1 NEW LESSON NEEDED
+- Maldives's own way: Grade 5 adds the series' practical PE chapter — fundamental movement skills, educational gymnastics and swimming taught as one lesson, with timed survival swimming (sculling, floating, treading water, survival strokes) as the island standard.
+
+**Book — Maldives Grade 6 Exploring H&PE TG (teacher guide):**
+## Book 5 — Exploring H&PE 6 TG (teacher guide, English)
+- Title as printed: Exploring Health and Physical Education — Teacher's Guide 6
+- Grade: Grade 6 (student/teacher: TEACHER)
+- Publisher: National Institute of Education, Maldives and Cambridge University Press, India; year 2016 (first published 2016); ISBN 978-1-316-60522-6
+- PDF pages: 169 (cover verified against the record title; read in full)
+- Verdict: COMPLETE — its Health chapters (Units I–III) are filed in maldives-health-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book. The same book is also recorded as a direct nie.edu.mv download-list record (pkg 5324); filed once.
+- Tally: 14 placements — 13 to existing lessons, 1 NEW LESSON NEEDED
+- Maldives's own way: the last Key Stage 2 book — the same movement, gymnastics and swimming chapter as Grade 5, now at refined level (skills shown inside real games: basketball, football, volleyball, softball), and fitness taught through formal assessment and personal goal setting.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Maldives — Unit IV, Lesson 14: Physical Fitness — kicking with either foot and passing to a stationary target; striking with forehand and backhand (original target `ball-games/kicking-passing-and-dribbling`) | Maldives, *Exploring H&PE 3 TG*, printed pp. 209–233 |
+| Maldives — Unit IV, Lesson 14: Fundamental Movement Skills — kicking while passing to another person (football) (original target `ball-games/kicking-passing-and-dribbling`) | Maldives, *Exploring H&PE 5 TG*, printed pp. 141–156 |
+| Maldives — Unit IV, Lesson 14: Fundamental Movement Skills — a variety of kicks used against defenders, with increased velocity and accuracy (football) (original target `ball-games/kicking-passing-and-dribbling`) | Maldives, *Exploring H&PE 6 TG*, printed pp. 149–161 |
+
+Maldives's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Maldives's own way is content, as the book lines above record it: one combined Health & PE course per grade built on the national syllabus strands, with swimming and water survival built in from Grade 1 — an island nation's syllabus — the PE side moving from a fitness unit in the early grades through fundamental movement skills, educational gymnastics and timed survival swimming, to movement skills, athletics and the big game families (territorial, net/wall and striking-and-fielding) in Key Stage 3. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: kicking, passing and dribbling, kicking and passing a ball, ball control with the feet, equipment skills — balls, rings and targets, football dribbling and net ball (teacher guide — evidence), physical education, Ethiopia, Kicking a ball, and up-and-down steps (teacher guide — evidence), Passing the football; hit the target (teacher guide — evidence)

@@ -1,6 +1,6 @@
 # Sources — Ball Handling on the Spot
 
-countries: Ethiopia, Mozambique, Namibia, Samoa, Timor-Leste, Thailand, Afghanistan, El Salvador, Philippines, Azerbaijan
+countries: Ethiopia, Mozambique, Namibia, Samoa, Timor-Leste, Thailand, Afghanistan, El Salvador, Philippines, Azerbaijan, Maldives
 
 **Book — Grade 1 student:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 81 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md. COMPLETE.
 
@@ -41,7 +41,7 @@ countries: Ethiopia, Mozambique, Namibia, Samoa, Timor-Leste, Thailand, Afghanis
 | Timor-Leste — Period 3: Skills development phase — a focused phase of developing sport skills (original target `ball-games/ball-handling-on-the-spot`) | Timor-Leste, *Educação Física 7, Manual do aluno* (Timor-Leste Grade 7 Student Book), printed p. 42 |
 | Thailand — Unit 8 (part 1) Gripping and hitting — movement with equipment: gripping/holding (การคีบ) and hitting (การตี) (student book — MAC sample, PARTIAL) (original target `ball-games/ball-handling-on-the-spot`) | Thailand, *Health & PE, Grade 2* (Thailand Grade 2 MAC Health & PE), Unit 8 (part 1), printed pp. 132–140 |
 | Thailand — Unit 9 (part 4) Games with equipment — Clipping Ping-Pong Balls into a Plate (เกมคีบลูกปิงปองใส่จาน), Hitting the Beach Ball Across the Border (เกมตีลูกบอลชายหาดข้ามแดน), the Throwing Relay Queue (เกมขว้างวิ่งต่อแถว) and Hitting the Ball into the Goal (เกมตีลูกบอลเข้าประตู) (student book — MAC sample, PARTIAL) (original target `ball-games/ball-handling-on-the-spot`) | Thailand, *Health & PE, Grade 2* (Thailand Grade 2 MAC Health & PE), Unit 9 (part 4), printed pp. 161–165 |
-**Acceptance count: taught in 5 countries (Ethiopia, Timor-Leste, Thailand, Philippines, Azerbaijan).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Namibia is added as teacher-guide evidence only the same way, outside the acceptance count. Samoa is added as curriculum-statement evidence only (see its row above), named in the countries line but outside the acceptance count. Timor-Leste is added as student-book stock (see its row above), inside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count.
+**Acceptance count: taught in 5 countries (Ethiopia, Timor-Leste, Thailand, Philippines, Azerbaijan).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Namibia is added as teacher-guide evidence only the same way, outside the acceptance count. Samoa is added as curriculum-statement evidence only (see its row above), named in the countries line but outside the acceptance count. Timor-Leste is added as student-book stock (see its row above), inside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count.
 
 The Grade 3 teacher guide scan is TRUNCATED: it holds printed pp. 1–52 of 89+. Missing: §4.1 (p. 53), §4.2 (p. 57), §4.3 (p. 62), §4.4 (p. 65), all of Chapter 5 Gymnastics (pp. 69–84) and all of Chapter 6 (pp. 85–89+). Chapter 4 is present as its introduction page (printed p. 52) only. Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
 
@@ -154,5 +154,58 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/azerbaijan-p
 | Azerbaijan — Basketball: Stops and Turns — stopping and turning with the ball (original target `ball-games/ball-handling-on-the-spot`) | Azerbaijan, *Fiziki Tərbiyə 7*, printed p. 54 |
 
 Azerbaijan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Azerbaijan's own way is content, as the book lines above record it: a theory-first course — knowing and managing your own body, the movement abilities taught one by one, then the basic sports, then independent work the pupil runs alone, with Azerbaijan's own sport story (its Olympic successes, its Rio 2016 athletes, and holding the first European Games) taught as national content. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Maldives — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-pe-placements.md. The Maldives books stocked in this lesson are Book 2 (*Exploring H&PE 3 TG*), Book 4 (*Exploring H&PE 5 TG*), Book 5 (*Exploring H&PE 6 TG*), Book 6 (*Exploring H&PE 7 TG*) — all TEACHER guides, read COMPLETE as filed. Teacher guides are used as evidence of what is taught, not as substitute pupil books, so Maldives is teacher-guide evidence only in this lesson, named in the countries line and provenance rows but outside the acceptance count. The books' Health chapters (Units I–III) are filed in maldives-health-placements.md and placed in the Health course. Book 1, the Grade 1 Health & Physical Education Syllabus, is RECORD-ONLY with 0 placements, and Book 8, the Scribd Grade 3 student book, is UNREAD with 0 placements (view-only, no-login rule) — nothing is stocked from either in this lesson.
+
+**Book — Maldives Grade 3 Exploring H&PE TG (teacher guide):**
+## Book 2 — Exploring H&PE 3 TG (teacher guide, English)
+- Title as printed: Exploring Health and Physical Education — Teacher's Guide 3
+- Grade: Grade 3 (student/teacher: TEACHER)
+- Publisher: National Institute of Education, Maldives and Cambridge University Press, India; year 2015 (first published 2015); ISBN 978-11-07528-70-3 as printed on the copyright page
+- PDF pages: 247 (cover verified — "Exploring Health and Physical Education / Teacher's Guide / 3", NIE + Cambridge University Press; read in full)
+- Verdict: COMPLETE — its Health chapters (Units I–III) are filed in maldives-health-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book. The same book is also recorded as a direct nie.edu.mv download-list record (pkg 5324); filed once.
+- Tally: 9 placements — 9 to existing lessons, 0 NEW LESSON NEEDED
+- Maldives's own way: one combined Health & PE course per grade built on the national syllabus strands; the PE side at this grade is a fitness unit (health-related fitness, skill-related fitness, fundamental movement skills) rather than named sports.
+
+**Book — Maldives Grade 5 Exploring H&PE TG (teacher guide):**
+## Book 4 — Exploring H&PE 5 TG (teacher guide, English)
+- Title as printed: Exploring Health and Physical Education — Teacher's Guide 5
+- Grade: Grade 5 (student/teacher: TEACHER)
+- Publisher: National Institute of Education, Maldives and Cambridge University Press, India; year 2016 (first published 2016); ISBN 978-1-316-60520-2
+- PDF pages: 164 (cover verified against the record title; read in full)
+- Verdict: COMPLETE — its Health chapters (Units I–III) are filed in maldives-health-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book. The same book is also recorded as a direct nie.edu.mv download-list record (pkg 5324); filed once.
+- Tally: 14 placements — 13 to existing lessons, 1 NEW LESSON NEEDED
+- Maldives's own way: Grade 5 adds the series' practical PE chapter — fundamental movement skills, educational gymnastics and swimming taught as one lesson, with timed survival swimming (sculling, floating, treading water, survival strokes) as the island standard.
+
+**Book — Maldives Grade 6 Exploring H&PE TG (teacher guide):**
+## Book 5 — Exploring H&PE 6 TG (teacher guide, English)
+- Title as printed: Exploring Health and Physical Education — Teacher's Guide 6
+- Grade: Grade 6 (student/teacher: TEACHER)
+- Publisher: National Institute of Education, Maldives and Cambridge University Press, India; year 2016 (first published 2016); ISBN 978-1-316-60522-6
+- PDF pages: 169 (cover verified against the record title; read in full)
+- Verdict: COMPLETE — its Health chapters (Units I–III) are filed in maldives-health-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book. The same book is also recorded as a direct nie.edu.mv download-list record (pkg 5324); filed once.
+- Tally: 14 placements — 13 to existing lessons, 1 NEW LESSON NEEDED
+- Maldives's own way: the last Key Stage 2 book — the same movement, gymnastics and swimming chapter as Grade 5, now at refined level (skills shown inside real games: basketball, football, volleyball, softball), and fitness taught through formal assessment and personal goal setting.
+
+**Book — Maldives Grade 7 Exploring H&PE TG (teacher guide):**
+## Book 6 — Exploring H&PE 7 TG (teacher guide, English)
+- Title as printed: Exploring Health and Physical Education — Teacher's Guide 7
+- Grade: Grade 7 (student/teacher: TEACHER)
+- Publisher: National Institute of Education, Maldives and Cambridge University Press, India; year 2017 (first published 2017); ISBN 978-1-316-63968-9
+- PDF pages: 246 (cover verified against the record title; read in full)
+- Verdict: COMPLETE — its Health chapters (Units I–III) are filed in maldives-health-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book. The same book is also recorded as a direct nie.edu.mv download-list record (pkg 5324); filed once.
+- Tally: 19 placements — 18 to existing lessons, 1 NEW LESSON NEEDED
+- Maldives's own way: Key Stage 3 turns the fitness strand into full physical education — a movement-skills and educational-gymnastics chapter (rolls about the longitudinal and medial axes) and an athletics-and-swimming chapter that also teaches the big game families: territorial, net/wall and striking-and-fielding games.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Maldives — Unit IV, Lesson 14: Physical Fitness — throwing underarm and overarm for accuracy and distance with either hand, catching, and trapping balls of different sizes and shapes with hands and feet (original target `ball-games/ball-handling-on-the-spot`) | Maldives, *Exploring H&PE 3 TG*, printed pp. 209–233 |
+| Maldives — Unit IV, Lesson 14: Fundamental Movement Skills — throwing accurately and for distance with preferred and non-preferred hand, and catching objects of different sizes and shapes, including with gloves (original target `ball-games/ball-handling-on-the-spot`) | Maldives, *Exploring H&PE 5 TG*, printed pp. 141–156 |
+| Maldives — Unit IV, Lesson 14: Fundamental Movement Skills — throwing and catching an object with increased velocity and accuracy (original target `ball-games/ball-handling-on-the-spot`) | Maldives, *Exploring H&PE 6 TG*, printed pp. 149–161 |
+| Maldives — Unit IV, Lesson 12: Movement Skills — manipulative skills: throwing, catching, dribbling, rolling, trapping, punting, kicking and volleying, and the sports each skill belongs to (original target `ball-games/ball-handling-on-the-spot`) | Maldives, *Exploring H&PE 7 TG*, printed pp. 197–211 |
+
+Maldives's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Maldives's own way is content, as the book lines above record it: one combined Health & PE course per grade built on the national syllabus strands, with swimming and water survival built in from Grade 1 — an island nation's syllabus — the PE side moving from a fitness unit in the early grades through fundamental movement skills, educational gymnastics and timed survival swimming, to movement skills, athletics and the big game families (territorial, net/wall and striking-and-fielding) in Key Stage 3. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: ball handling on the spot, passing in a circle, throw up and catch; bouncing on the spot, toss, chest pass and still-ball kick (teacher guide — evidence), throw it up and catch it with two hands (teacher guide — evidence), physical education, Ethiopia, Skills with objects — throw, catch, kick (teacher guide — evidence), Ball control with hands and feet together (teacher guide — evidence), Balls into the basket, and heel kicks (teacher guide — evidence)

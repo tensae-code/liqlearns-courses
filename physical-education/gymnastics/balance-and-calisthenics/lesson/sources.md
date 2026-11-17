@@ -1,6 +1,6 @@
 # Sources — Balance and Calisthenics
 
-countries: Ethiopia, Kazakhstan, Afghanistan, El Salvador, Philippines, Nicaragua
+countries: Ethiopia, Kazakhstan, Afghanistan, El Salvador, Philippines, Nicaragua, Maldives
 
 **Book — Grade 1 student:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 81 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md. COMPLETE.
 
@@ -19,7 +19,7 @@ countries: Ethiopia, Kazakhstan, Afghanistan, El Salvador, Philippines, Nicaragu
 | Free gymnastics and balance — Grade 5 | Ethiopia, Grade 5 student §5.2.1, printed pp. 66–68 |
 
 | Kazakhstan — All quarters — general developing exercises (ОРУ) on the spot and in movement, without objects and with objects, opening the lesson work (teacher guide — evidence) (original target `gymnastics/balance-and-calisthenics`) | Kazakhstan, *Physical Culture, Methodological Guide for Grade 4 Teachers* (Kazakhstan Grade 4 TG), printed pp. 4–5, 20, 48 |
-**Acceptance count: taught in 3 countries (Ethiopia, Philippines, Nicaragua).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
+**Acceptance count: taught in 3 countries (Ethiopia, Philippines, Nicaragua).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count.
 
 Student books Grades 1–4 are complete. No page is claimed that the placements do not give. Dance and game rules are taught only as the placements summarise them; no rules have been invented for any game the placements leave game-dependent.
 
@@ -157,5 +157,36 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/nicaragua-pe
 | Nicaragua — Unidad III, Ejercicios de equilibrio — balance types (static, kinetic, dynamic) and balance exercises on one hand/one foot, with ropes, holding balance ten seconds (original target `gymnastics/balance-and-calisthenics`) | Nicaragua Grade 6, Unidad III (unit begins printed p. 30) |
 
 Nicaragua's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Nicaragua's own way is content, as the book lines above record it: PE taught in 45-minute periods twice weekly, every exercise and game introduced by its practical use in daily life, values, hygiene checks and the one-minute "fisminuto" movement break built into the method, chess taught as a PE unit with a cut-out board and pieces the class makes itself, and traditional and pre-sport games played with improvised local materials (rag-ball baseball, street football). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Maldives — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-pe-placements.md. The Maldives books stocked in this lesson are Book 6 (*Exploring H&PE 7 TG*), Book 7 (*Exploring H&PE 8 TG*) — all TEACHER guides, read COMPLETE as filed. Teacher guides are used as evidence of what is taught, not as substitute pupil books, so Maldives is teacher-guide evidence only in this lesson, named in the countries line and provenance rows but outside the acceptance count. The books' Health chapters (Units I–III) are filed in maldives-health-placements.md and placed in the Health course. Book 1, the Grade 1 Health & Physical Education Syllabus, is RECORD-ONLY with 0 placements, and Book 8, the Scribd Grade 3 student book, is UNREAD with 0 placements (view-only, no-login rule) — nothing is stocked from either in this lesson.
+
+**Book — Maldives Grade 7 Exploring H&PE TG (teacher guide):**
+## Book 6 — Exploring H&PE 7 TG (teacher guide, English)
+- Title as printed: Exploring Health and Physical Education — Teacher's Guide 7
+- Grade: Grade 7 (student/teacher: TEACHER)
+- Publisher: National Institute of Education, Maldives and Cambridge University Press, India; year 2017 (first published 2017); ISBN 978-1-316-63968-9
+- PDF pages: 246 (cover verified against the record title; read in full)
+- Verdict: COMPLETE — its Health chapters (Units I–III) are filed in maldives-health-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book. The same book is also recorded as a direct nie.edu.mv download-list record (pkg 5324); filed once.
+- Tally: 19 placements — 18 to existing lessons, 1 NEW LESSON NEEDED
+- Maldives's own way: Key Stage 3 turns the fitness strand into full physical education — a movement-skills and educational-gymnastics chapter (rolls about the longitudinal and medial axes) and an athletics-and-swimming chapter that also teaches the big game families: territorial, net/wall and striking-and-fielding games.
+
+**Book — Maldives Grade 8 Exploring H&PE TG (teacher guide):**
+## Book 7 — Exploring H&PE 8 TG (teacher guide, English)
+- Title as printed: Exploring Health and Physical Education — Teacher's Guide 8
+- Grade: Grade 8 (student/teacher: TEACHER)
+- Publisher: National Institute of Education, Maldives and Cambridge University Press, India; year 2017 (first published 2017); ISBN 978-1-316-63970-2
+- PDF pages: 270 (cover verified against the record title; read in full)
+- Verdict: COMPLETE — its Health chapters (Units I–III) are filed in maldives-health-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book. The same book is also recorded as a direct nie.edu.mv download-list record (pkg 5324); filed once.
+- Tally: 18 placements — 16 to existing lessons, 2 NEW LESSON NEEDED
+- Maldives's own way: the last book of the series adds the rules and code of conduct of athletics and a named warm-up routine to the athletics chapter, and expects twenty minutes of sustained daily activity with warm-up and cool-down in the movement-skills chapter.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Maldives — Unit IV, Lesson 12: Educational Gymnastics — balance, body positioning and weight transfer in general gymnastics movements, with safe landing surfaces (original target `gymnastics/balance-and-calisthenics`) | Maldives, *Exploring H&PE 7 TG*, printed pp. 197–211 |
+| Maldives — Unit IV, Lesson 12: Educational Gymnastics — balance and body control in gymnastics movements (original target `gymnastics/balance-and-calisthenics`) | Maldives, *Exploring H&PE 8 TG*, printed pp. 218–232 |
+
+Maldives's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Maldives's own way is content, as the book lines above record it: one combined Health & PE course per grade built on the national syllabus strands, with swimming and water survival built in from Grade 1 — an island nation's syllabus — the PE side moving from a fitness unit in the early grades through fundamental movement skills, educational gymnastics and timed survival swimming, to movement skills, athletics and the big game families (territorial, net/wall and striking-and-fielding) in Key Stage 3. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: balance and calisthenics, what balance is, calisthenics — arms and shoulders, calisthenics — legs, combined gymnastics movements, physical education, Ethiopia

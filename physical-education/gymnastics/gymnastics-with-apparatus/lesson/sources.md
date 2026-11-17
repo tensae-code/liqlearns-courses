@@ -1,6 +1,6 @@
 # Sources — Gymnastics with Apparatus
 
-countries: Ethiopia, Kazakhstan, China, El Salvador, Philippines, Azerbaijan
+countries: Ethiopia, Kazakhstan, China, El Salvador, Philippines, Azerbaijan, Maldives
 
 **Book — Grade 5 student:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 106 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md. COMPLETE.
 
@@ -24,7 +24,7 @@ countries: Ethiopia, Kazakhstan, China, El Salvador, Philippines, Azerbaijan
 | Parallel bars — the support swing — Grade 8 | Ethiopia, Grade 8 student §5.3 Apparatus gymnastics — parallel bars, printed pp. 59–63 |
 | Strong in my own space: weight shifts and hanging — Grade 3 (teacher guide — evidence) | Ethiopia, Grade 3 teacher §1.2 Tasks 1–3 (teacher guide — evidence), printed pp. 8–11 |
 | Kazakhstan — Quarters 1, 2 and 4 — exercises on gymnastic apparatus (mats, bars, vaulting horse, goat, rope, horizontal bar in the Lesson 19 equipment list) and the obstacle course (полоса препятствий) (teacher guide — evidence) (original target `gymnastics/gymnastics-with-apparatus`) | Kazakhstan, *Physical Culture, Methodological Guide for Grade 4 Teachers* (Kazakhstan Grade 4 TG), printed pp. 5, 20 |
-**Acceptance count: taught in 4 countries (Ethiopia, China, Philippines, Azerbaijan).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count.
+**Acceptance count: taught in 4 countries (Ethiopia, China, Philippines, Azerbaijan).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count. Maldives is added as teacher-guide evidence only (see its Maldives section below), named in the countries line but outside the acceptance count.
 
 The Grade 3 teacher guide scan is TRUNCATED: it holds printed pp. 1–52 of 89+. Missing: §4.1 (p. 53), §4.2 (p. 57), §4.3 (p. 62), §4.4 (p. 65), all of Chapter 5 Gymnastics (pp. 69–84) and all of Chapter 6 (pp. 85–89+). Chapter 4 is present as its introduction page (printed p. 52) only. Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
 
@@ -124,5 +124,36 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/azerbaijan-p
 | Azerbaijan — Hangs and Supports; Exercises on the Horizontal Bar and Parallel Bars (boys) — apparatus work (original target `gymnastics/gymnastics-with-apparatus`) | Azerbaijan, *Fiziki Tərbiyə 7*, printed pp. 43–48 |
 
 Azerbaijan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Azerbaijan's own way is content, as the book lines above record it: a theory-first course — knowing and managing your own body, the movement abilities taught one by one, then the basic sports, then independent work the pupil runs alone, with Azerbaijan's own sport story (its Olympic successes, its Rio 2016 athletes, and holding the first European Games) taught as national content. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Maldives — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/maldives-pe-placements.md. The Maldives books stocked in this lesson are Book 4 (*Exploring H&PE 5 TG*), Book 5 (*Exploring H&PE 6 TG*) — all TEACHER guides, read COMPLETE as filed. Teacher guides are used as evidence of what is taught, not as substitute pupil books, so Maldives is teacher-guide evidence only in this lesson, named in the countries line and provenance rows but outside the acceptance count. The books' Health chapters (Units I–III) are filed in maldives-health-placements.md and placed in the Health course. Book 1, the Grade 1 Health & Physical Education Syllabus, is RECORD-ONLY with 0 placements, and Book 8, the Scribd Grade 3 student book, is UNREAD with 0 placements (view-only, no-login rule) — nothing is stocked from either in this lesson.
+
+**Book — Maldives Grade 5 Exploring H&PE TG (teacher guide):**
+## Book 4 — Exploring H&PE 5 TG (teacher guide, English)
+- Title as printed: Exploring Health and Physical Education — Teacher's Guide 5
+- Grade: Grade 5 (student/teacher: TEACHER)
+- Publisher: National Institute of Education, Maldives and Cambridge University Press, India; year 2016 (first published 2016); ISBN 978-1-316-60520-2
+- PDF pages: 164 (cover verified against the record title; read in full)
+- Verdict: COMPLETE — its Health chapters (Units I–III) are filed in maldives-health-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book. The same book is also recorded as a direct nie.edu.mv download-list record (pkg 5324); filed once.
+- Tally: 14 placements — 13 to existing lessons, 1 NEW LESSON NEEDED
+- Maldives's own way: Grade 5 adds the series' practical PE chapter — fundamental movement skills, educational gymnastics and swimming taught as one lesson, with timed survival swimming (sculling, floating, treading water, survival strokes) as the island standard.
+
+**Book — Maldives Grade 6 Exploring H&PE TG (teacher guide):**
+## Book 5 — Exploring H&PE 6 TG (teacher guide, English)
+- Title as printed: Exploring Health and Physical Education — Teacher's Guide 6
+- Grade: Grade 6 (student/teacher: TEACHER)
+- Publisher: National Institute of Education, Maldives and Cambridge University Press, India; year 2016 (first published 2016); ISBN 978-1-316-60522-6
+- PDF pages: 169 (cover verified against the record title; read in full)
+- Verdict: COMPLETE — its Health chapters (Units I–III) are filed in maldives-health-placements.md. Teacher guide used as evidence of what is taught, not as a substitute pupil book. The same book is also recorded as a direct nie.edu.mv download-list record (pkg 5324); filed once.
+- Tally: 14 placements — 13 to existing lessons, 1 NEW LESSON NEEDED
+- Maldives's own way: the last Key Stage 2 book — the same movement, gymnastics and swimming chapter as Grade 5, now at refined level (skills shown inside real games: basketball, football, volleyball, softball), and fitness taught through formal assessment and personal goal setting.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Maldives — Unit IV, Lesson 14: Educational Gymnastics — bunny hop from a beat board to a soft vault jump and landing, and sequences from apparatus such as beam and bench (original target `gymnastics/gymnastics-with-apparatus`) | Maldives, *Exploring H&PE 5 TG*, printed pp. 141–156 |
+| Maldives — Unit IV, Lesson 14: Educational Gymnastics — apparatus work (vault, beam, bench) at refined level (original target `gymnastics/gymnastics-with-apparatus`) | Maldives, *Exploring H&PE 6 TG*, printed pp. 149–161 |
+
+Maldives's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Maldives's own way is content, as the book lines above record it: one combined Health & PE course per grade built on the national syllabus strands, with swimming and water survival built in from Grade 1 — an island nation's syllabus — the PE side moving from a fitness unit in the early grades through fundamental movement skills, educational gymnastics and timed survival swimming, to movement skills, athletics and the big game families (territorial, net/wall and striking-and-fielding) in Key Stage 3. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: gymnastics with apparatus, apparatus gymnastics, single bar, uneven bars, bar work, weight shifts ክብደትን በመስናክል ላይ የማከተላለፍ እንቅስቃሴ, high rope hanging ለከፍታ ገመድ ማንጠልጠል, alternate hanging መሳብና በአምራጭ መንጠልጠል, physical education, Ethiopia

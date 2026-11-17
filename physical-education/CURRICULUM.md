@@ -373,6 +373,40 @@ alone, with Azerbaijan's own sport story (its Olympic
 successes, its Rio 2016 athletes, and holding the first
 European Games) taught as national content.
 
+**PE expansion — Maldives — BUILT 2026-11-16:** 80 placements
+from the Maldives' Exploring Health and Physical Education
+Teacher's Guides, Grades 3–8 (NIE Maldives and Cambridge
+University Press, all COMPLETE) stocked — all 80 into
+existing lessons, including Water Safety and Rescue and
+Fair Play and Sporting Character, built earlier in this
+expansion, and 0 new lessons — bringing this course to
+**137 lessons** (unchanged in count). All six books are
+teacher guides, filed as teacher-guide evidence only,
+outside the acceptance counts, in every lesson they touch.
+The five placements filed under NEW strings resolve through
+the slug registry: `moving-basics/swimming-strokes-and-water-survival`
+(4 placements, Grades 5–8) to `moving-basics/water-safety-and-rescue`,
+and `sport-and-its-story/rules-and-conduct-in-athletics`
+(1 placement, Grade 8) to
+`sport-and-its-story/fair-play-and-sporting-character`;
+the original strings are recorded in the provenance rows.
+No Maldives placement resolves to a Health-course lesson,
+so none was excluded as Health-bound; the books' Health
+chapters (Units I–III) are filed in
+maldives-health-placements.md and placed in the Health
+course. Book 1, the Grade 1 syllabus, is RECORD-ONLY with
+0 placements, and Book 8, the Scribd Grade 3 student book,
+is UNREAD with 0 placements (view-only, no-login rule).
+Maldives's own way is content: one combined Health & PE
+course per grade built on the national syllabus strands,
+with swimming and water survival built in from Grade 1 —
+an island nation's syllabus — moving from a fitness unit
+in the early grades through fundamental movement skills,
+educational gymnastics and timed survival swimming, to
+movement skills, athletics and the big game families
+(territorial, net/wall and striking-and-fielding) in
+Key Stage 3.
+
 ## Unit 1 — Moving Basics
 
 1. **Combined Travelling and On-the-Spot Movements** (`moving-basics/combined-travelling-and-on-the-spot`) — joining travelling movements together, joining on-the-spot movements together, and chaining the two families in one sequence.
