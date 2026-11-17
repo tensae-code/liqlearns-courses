@@ -1,6 +1,6 @@
 # Sources — Games for Communication and Cooperation
 
-countries: Ethiopia, Samoa, Timor-Leste, Nicaragua, Honduras, Fiji, Cuba
+countries: Ethiopia, Samoa, Timor-Leste, Nicaragua, Honduras, Fiji, Cuba, Indonesia
 
 **Book 1:** *Grade 3 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–65 + front matter (72 PDF pages). Printed page = PDF page − 7. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g03-student-placements.md.
 
@@ -40,7 +40,7 @@ countries: Ethiopia, Samoa, Timor-Leste, Nicaragua, Honduras, Fiji, Cuba
 | Prove-it questions folded from the book's own Chapter 2 review — Sub lesson 7 (teacher guide — evidence) | Ethiopia, *Grade 7 Teacher Guide*, Chapter 2 review answers, printed pp. 25–26 (teacher guide — evidence) |
 | Samoa — Socialisation through physical activities, Years 1–4 — life skills in movement lessons: cooperation and sharing, following instructions and rules, trusting others (curriculum statement — evidence) (original target `games-to-play/games-for-communication-and-cooperation`) | Samoa, *Health and Physical Education, Years 1–8, Primary School Curriculum* (Samoa Years 1–8 Curriculum), printed p. 26 |
 | Timor-Leste — Period 1: Getting to know each other and creating essential agreements — the class agrees how it will work, play and treat each other (original target `games-to-play/games-for-communication-and-cooperation`) | Timor-Leste, *Educação Física 7, Manual do aluno* (Timor-Leste Grade 7 Student Book), printed p. 4 |
-**Acceptance count: taught in 2 countries (Ethiopia, Timor-Leste).** Samoa is added as curriculum-statement evidence only (see its row above), named in the countries line but outside the acceptance count. Timor-Leste is added as student-book stock (see its row above), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Honduras is added as teacher-guide evidence only (see its Honduras section below), named in the countries line but outside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 3 countries (Ethiopia, Timor-Leste, Indonesia).** Samoa is added as curriculum-statement evidence only (see its row above), named in the countries line but outside the acceptance count. Timor-Leste is added as student-book stock (see its row above), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Honduras is added as teacher-guide evidence only (see its Honduras section below), named in the countries line but outside the acceptance count. Fiji is added as teacher-guide evidence only (see its Fiji section below), named in the countries line but outside the acceptance count. Cuba is added as teacher-guide/programme evidence only (see its Cuba section below), named in the countries line but outside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count; the Indonesia teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
 
 The Grade 3 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -151,3 +151,70 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/cuba-pe-plac
 | Cuba — Unidad Juegos: juegos combinados — named games combining two or more basic skills in small groups (original target `games-to-play/games-for-communication-and-cooperation`) | Cuba Grade 2 G2 Orientaciones, printed p. 111 |
 
 Cuba's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Cuba enters this lesson as teacher-guide/programme evidence only, outside the acceptance count. Cuba's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Indonesia — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/indonesia-pe-placements.md. Indonesia's PJOK books are the Kurikulum Merdeka Pendidikan Jasmani, Olahraga, dan Kesehatan (Physical Education, Sport and Health) student books and teacher guides for Grades 7–12, read in full from the official SIBI / Kemendikdasmen ministry PDFs: the GitHub tree route returned 404 for every secured record (files absent from the repo — phantom-push library debts, as the placements file records), every book's byte size was verified against its download-list record and its cover verified, and the file was staged into its phase3-staging path under the push-don't-delete rule. The books' health parts (the fitness and healthy-life chapters, fair play, nutrition, sedentary behaviour, first aid and personal and social health) are filed in indonesia-health-placements.md and placed in the Health course. The Indonesia books stocked in this lesson are Book 1, Book 2, Book 5 and Book 11. Indonesia is student-book stock, inside the acceptance count, in this lesson; the Indonesia teacher guides stocked here are teacher-guide evidence only, outside the acceptance count.
+
+**Book — PJOK G7 Student (student book):**
+## Book 1 — PJOK G7 Student (student book, Indonesian)
+- Title as printed: Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SMP/MTs Kelas VII
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-623-388-727-4 (jil.1 PDF)
+- PDF pages: 216 (cover/title page verified against the record title; byte size 11,290,722 = record)
+- Verdict: COMPLETE
+- Tally: see end of section
+- Indonesia's own way: the revised Kurikulum Merdeka PJOK book is concept-first, not sport-by-sport: pupils learn how movement skills are acquired, how tactics and space work, and how teams function, practising through small-sided games (4v4 volleyball, 3v3 handball, give-and-go) rather than drilling one sport's technique at a time. Health sits inside the same book as fitness and healthy-lifestyle chapters.
+- Combined book: PE parts placed here; the fitness/healthy-life health parts are placed in indonesia-health-placements.md (Book 1 there).
+
+Tally (Book 1, PE): 27 placements — 7 to existing lessons, 20 NEW LESSON NEEDED. Excluded per brief: Uji Kompetensi chapter tests and Refleksi/Pengayaan items (assessment/enrichment), Glosarium (inventory only).
+
+**Book — PJOK G7 Teacher (teacher guide):**
+## Book 2 — PJOK G7 Teacher (teacher guide, Indonesian)
+- Title as printed: Panduan Guru Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SMP/MTs Kelas VII
+- Grade: 7 (student/teacher: TEACHER)
+- Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-623-388-739-7 (jil.1 PDF)
+- PDF pages: 248 (cover verified against the record title; byte size 7,127,838 = record)
+- Verdict: COMPLETE
+- Indonesia's own way: the guide mirrors the student book chapter by chapter (Panduan Khusus per Bab) with prerequisite concepts, apperception, pre-learning checks, a step-by-step teaching walk-through of the student book, follow-up (remedial/enrichment), summative assessment and answer keys; the assessment, answer-key and reflection parts are excluded per the brief, and the chapter teaching walk-throughs are placed below.
+- Combined book: PE parts placed here; the health-chapter teaching guides (Bab V–VI) are placed in indonesia-health-placements.md (Book 2 there).
+
+Tally (Book 2, PE): 5 placements — 2 to existing lessons, 3 NEW LESSON NEEDED.
+
+**Book — PJOK G9 Student (student book):**
+## Book 5 — PJOK G9 Student (student book, Indonesian)
+- Title as printed: Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SMP/MTs Kelas IX
+- Grade: 9 (student/teacher: STUDENT)
+- Publisher: Kementerian Pendidikan Dasar dan Menengah (Kemendikdasmen); year 2025; ISBN 978-634-00-3179-9 (jil.3 PDF)
+- PDF pages: 280 (cover verified against the record title; byte size 6,740,759 = record)
+- Verdict: COMPLETE
+- Indonesia's own way: Grade 9 is built around a class league (Liga Kelas) run on the Sport Education model — pupils combine complex movement sequences, then play a season in roles, and finish with leadership/collaboration, beating sedentary behaviour, and a full first-aid chapter.
+- Combined book: PE parts placed here; Bab 4 (sedentary behaviour) and Bab 5 (first aid) are placed in indonesia-health-placements.md (Book 5 there).
+
+Tally (Book 5, PE): 12 placements — 1 to existing lessons, 11 NEW LESSON NEEDED. Excluded per brief: chapter assessments/reflections, Glosarium (inventory only).
+
+**Book — PJOK G12 Student (student book):**
+## Book 11 — PJOK G12 Student (student book, Indonesian)
+- Title as printed: Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SMA/MA/SMK/MAK Kelas XII
+- Grade: 12 (student/teacher: STUDENT)
+- Publisher: Kementerian Pendidikan Dasar dan Menengah (Kemendikdasmen); year 2025; ISBN 978-634-00-0093-1 (no.jil.lengkap; no separate jil PDF ISBN printed)
+- PDF pages: 280 (cover verified against the record title; byte size 8,811,987 = record)
+- Verdict: COMPLETE
+- Indonesia's own way: the final year is evaluative — skills in complex situations improved through video/data reflection, adaptive strategy transferred between games (including into the traditional game Gobak Sodor), leadership and strategic decision-making, fitness designed from personal data for a lifelong commitment, and health and safety in activity.
+- Combined book: PE parts placed here; Bab 3 C (fair play evaluation) and Bab 5 (health and safety) are placed in indonesia-health-placements.md (Book 11 there).
+
+Tally (Book 11, PE): 15 placements — 1 to existing lessons, 14 NEW LESSON NEEDED. Excluded per brief: chapter assessments/reflections, Glosarium (inventory only).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — team cohesion: what holds a team together (original target `games-to-play/team-cohesion`) | Indonesia, *PJOK G7 Student*, Bab IV A Kohesi (Kepaduan) Tim, printed p. 101 |
+| Indonesia — cooperation and teamwork training activities (original target `games-to-play/games-for-communication-and-cooperation`) | Indonesia, *PJOK G7 Student*, Bab IV B Kerja Sama, printed p. 106 |
+| Indonesia — how to teach team cohesion, cooperation and team roles (teacher guide — evidence) (original target `games-to-play/games-for-communication-and-cooperation`) | Indonesia, *PJOK G7 Teacher*, Panduan Khusus Bab IV E Panduan Pembelajaran Buku Siswa, printed p. 148 |
+| Indonesia — collaboration as strength in togetherness (original target `games-to-play/games-for-communication-and-cooperation`) | Indonesia, *PJOK G9 Student*, Bab 3 C Kolaborasi: Kekuatan dalam Kebersamaan, printed p. 106 |
+| Indonesia — collaborating inside physical activities (original target `games-to-play/collaboration-in-physical-activity`) | Indonesia, *PJOK G9 Student*, Bab 3 D Kolaborasi dalam Aktivitas Jasmani, printed p. 114 |
+| Indonesia — combining strategy, leadership and collaboration (original target `games-to-play/strategy-leadership-and-collaboration`) | Indonesia, *PJOK G9 Student*, Bab 3 E Strategi, Kepemimpinan, dan Kolaborasi, printed p. 120 |
+| Indonesia — effective collaboration and communication: components of communication, team cohesion and performance (original target `games-to-play/games-for-communication-and-cooperation`) | Indonesia, *PJOK G12 Student*, Bab 3 D Kolaborasi Efektif dan Komunikasi dalam Aktivitas Kelompok, printed p. 123 |
+
+Indonesia's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Indonesia's own way is content, as the book lines above record it for each book stocked here. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+Searchable tags: games for communication and cooperation, Indonesia, PJOK G7 Student, PJOK G7 Teacher, PJOK G9 Student, PJOK G12 Student

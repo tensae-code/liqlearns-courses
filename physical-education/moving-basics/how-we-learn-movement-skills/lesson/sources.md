@@ -1,8 +1,8 @@
 # Sources — How We Learn Movement Skills
 
-countries: Samoa, United Kingdom, China, Fiji, Iran
+countries: Samoa, United Kingdom, China, Fiji, Iran, Indonesia
 
-**Acceptance count: taught in 4 countries (United Kingdom, China, Fiji, Iran)** (Samoa's rows below rest on teacher-guide evidence only; the United Kingdom rows rest on a pupil's book). Samoa is named in the countries line and in the rows below, but outside the acceptance count. United Kingdom is added as student-book stock (see its rows above), inside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; the Fiji teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count.
+**Acceptance count: taught in 5 countries (United Kingdom, China, Fiji, Iran, Indonesia)** (Samoa's rows below rest on teacher-guide evidence only; the United Kingdom rows rest on a pupil's book). Samoa is named in the countries line and in the rows below, but outside the acceptance count. United Kingdom is added as student-book stock (see its rows above), inside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; the Fiji teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count; the Indonesia teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
 
 **Book — Samoa Years 11–12 teacher guide (teacher guide — evidence):** *Health and Physical Education Teacher Guide, Years 11 and 12* (teacher guide, English) — Title as printed: Health and Physical Education Teacher Guide, Years 11 and 12 — Grade: Years 11–12 (student/teacher: TEACHER) — Publisher: Ministry of Education, Sports and Culture, Samoa; year 2004 (© MESC Samoa 2004); no ISBN printed — PDF pages: 88 (title page verified: "01 Health & PE Yr11-12 Final"; 18,702,938 bytes, exactly the size in the download-list record). Verdict: COMPLETE as a guide — all four units for both years plus Appendix 1 (Samoa Secondary Schools Fitness Test Battery) present. NOTE: the two secured books.json records (grade-11 and grade-12 staging paths) are NOT in GitHub (Contents API 404 on both) although marked pushed — a phantom-push library debt; the book was read from the ministry download-list copy and that copy has been staged at both staging paths under the push-don't-delete rule. Read in full in the 2026-11-16 PE expansion read. Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/samoa-pe-placements.md. Samoa's own way: senior HPE is organised family-outward — personal health, then human movement, then family health, then community health — and movement science (biomechanics, sports psychology, club organisation) is taught as examinable knowledge alongside a national fitness test battery.
 
@@ -124,3 +124,91 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/iran-pe-plac
 | Iran — Module 1 "Applying motor development in sport" — growth stages and how motor development shapes coaching (original target `moving-basics/motor-development-and-sport`) | Iran, *Specialised Technical Knowledge, PE field, Grade 12 (C212299)*, Module 1 "Applying motor development in sport", printed p. 1 |
 
 Iran's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Iran's own way is content, as the book lines above record it: PE taught as a profession with a knowledge base — a Grade 10 theory book before any workshop book, workshop books of competency units with continuous and final assessment, team games taught as full coaching units with kabaddi standing as a full module beside them, and a special-needs fitness course of very short lessons with one idea each. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Indonesia — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/indonesia-pe-placements.md. Indonesia's PJOK books are the Kurikulum Merdeka Pendidikan Jasmani, Olahraga, dan Kesehatan (Physical Education, Sport and Health) student books and teacher guides for Grades 7–12, read in full from the official SIBI / Kemendikdasmen ministry PDFs: the GitHub tree route returned 404 for every secured record (files absent from the repo — phantom-push library debts, as the placements file records), every book's byte size was verified against its download-list record and its cover verified, and the file was staged into its phase3-staging path under the push-don't-delete rule. The books' health parts (the fitness and healthy-life chapters, fair play, nutrition, sedentary behaviour, first aid and personal and social health) are filed in indonesia-health-placements.md and placed in the Health course. The Indonesia books stocked in this lesson are Book 1, Book 7, Book 9, Book 10 and Book 11. Indonesia is student-book stock, inside the acceptance count, in this lesson; the Indonesia teacher guides stocked here are teacher-guide evidence only, outside the acceptance count.
+
+**Book — PJOK G7 Student (student book):**
+## Book 1 — PJOK G7 Student (student book, Indonesian)
+- Title as printed: Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SMP/MTs Kelas VII
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-623-388-727-4 (jil.1 PDF)
+- PDF pages: 216 (cover/title page verified against the record title; byte size 11,290,722 = record)
+- Verdict: COMPLETE
+- Tally: see end of section
+- Indonesia's own way: the revised Kurikulum Merdeka PJOK book is concept-first, not sport-by-sport: pupils learn how movement skills are acquired, how tactics and space work, and how teams function, practising through small-sided games (4v4 volleyball, 3v3 handball, give-and-go) rather than drilling one sport's technique at a time. Health sits inside the same book as fitness and healthy-lifestyle chapters.
+- Combined book: PE parts placed here; the fitness/healthy-life health parts are placed in indonesia-health-placements.md (Book 1 there).
+
+Tally (Book 1, PE): 27 placements — 7 to existing lessons, 20 NEW LESSON NEEDED. Excluded per brief: Uji Kompetensi chapter tests and Refleksi/Pengayaan items (assessment/enrichment), Glosarium (inventory only).
+
+**Book — PJOK G10 Student (student book):**
+## Book 7 — PJOK G10 Student (student book, Indonesian)
+- Title as printed: Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SMA/MA/SMK/MAK Kelas X
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-634-00-0094-8 (jil.1 PDF)
+- PDF pages: 240 (cover verified against the record title; byte size 7,042,962 = record)
+- Verdict: COMPLETE
+- Indonesia's own way: senior-high PJOK deepens the same concept-first line — refining skills with feedback, movement concepts in games, tactical skill, a personal fitness programme built on training zones and the FITT principle (with fitness technology), ethical behaviour in sport, and a personal/social health chapter.
+- Combined book: PE parts placed here; Bab 5 D (fair play) and Bab 6 (personal and social health) are placed in indonesia-health-placements.md (Book 7 there).
+
+Tally (Book 7, PE): 17 placements — 2 to existing lessons, 15 NEW LESSON NEEDED. Excluded per brief: chapter assessments/reflections, Glosarium (inventory only).
+
+**Book — PJOK G11 Student (student book):**
+## Book 9 — PJOK G11 Student (student book, Indonesian)
+- Title as printed: Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SMA/MA/SMK/MAK Kelas XI
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-634-00-0095-5 (jil.2 PDF)
+- PDF pages: 256 (cover verified against the record title; byte size 12,398,992 = record)
+- Verdict: COMPLETE
+- Indonesia's own way: Grade 11 is an optimisation year — pupils observe their own skill level against Generic Levels of Skill Proficiency, keep a training reflection journal, refine decision-making and tactics, evaluate movement concepts, keep daily fitness, and finish by advocating an active, healthy lifestyle to others.
+- Combined book: PE parts placed here; Bab IV (fair play and ethical behaviour) and Bab VI (advocating an active, healthy life) are placed in indonesia-health-placements.md (Book 9 there).
+
+Tally (Book 9, PE): 16 placements — 0 to existing lessons, 16 NEW LESSON NEEDED. Excluded per brief: Uji Kompetensi, Pengayaan and Refleksi items, Glosarium (inventory only).
+
+**Book — PJOK G11 Teacher (teacher guide):**
+## Book 10 — PJOK G11 Teacher (teacher guide, Indonesian)
+- Title as printed: Buku Panduan Guru Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SMA/MA/SMK/MAK Kelas XI
+- Grade: 11 (student/teacher: TEACHER)
+- Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-634-00-0105-1 (jil.2 PDF)
+- PDF pages: 280 (cover verified against the record title; byte size 6,992,000 = record)
+- Verdict: COMPLETE
+- Indonesia's own way: guide mirrors the Grade 11 student book with a Panduan Khusus per chapter (prerequisites, apperception, pre-check instruments, teaching activities, follow-up, summative assessment — assessment excluded per the brief).
+- Combined book: PE parts placed here; the Bab IV (fair play) and Bab VI (healthy-life advocacy) teaching guides are placed in indonesia-health-placements.md (Book 10 there).
+
+Tally (Book 10, PE): 4 placements — 0 to existing lessons, 4 NEW LESSON NEEDED.
+
+**Book — PJOK G12 Student (student book):**
+## Book 11 — PJOK G12 Student (student book, Indonesian)
+- Title as printed: Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SMA/MA/SMK/MAK Kelas XII
+- Grade: 12 (student/teacher: STUDENT)
+- Publisher: Kementerian Pendidikan Dasar dan Menengah (Kemendikdasmen); year 2025; ISBN 978-634-00-0093-1 (no.jil.lengkap; no separate jil PDF ISBN printed)
+- PDF pages: 280 (cover verified against the record title; byte size 8,811,987 = record)
+- Verdict: COMPLETE
+- Indonesia's own way: the final year is evaluative — skills in complex situations improved through video/data reflection, adaptive strategy transferred between games (including into the traditional game Gobak Sodor), leadership and strategic decision-making, fitness designed from personal data for a lifelong commitment, and health and safety in activity.
+- Combined book: PE parts placed here; Bab 3 C (fair play evaluation) and Bab 5 (health and safety) are placed in indonesia-health-placements.md (Book 11 there).
+
+Tally (Book 11, PE): 15 placements — 1 to existing lessons, 14 NEW LESSON NEEDED. Excluded per brief: chapter assessments/reflections, Glosarium (inventory only).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — stages of acquiring a new movement skill (original target `moving-basics/how-the-body-learns-movement`) | Indonesia, *PJOK G7 Student*, Bab I C Mendapatkan Keterampilan Baru: Bagaimana Tubuh Belajar Gerak, printed p. 10 |
+| Indonesia — intrinsic and extrinsic feedback, video and observation feedback in learning skills (original target `moving-basics/feedback-in-learning-movement`) | Indonesia, *PJOK G7 Student*, Bab I D Umpan Balik dalam Belajar Keterampilan Gerak, printed p. 14 |
+| Indonesia — positive, negative, bilateral, proactive and retroactive transfer between skills (original target `moving-basics/transfer-of-movement-skills`) | Indonesia, *PJOK G7 Student*, Bab III C Transfer Keterampilan Gerak, printed p. 78 |
+| Indonesia — refining movement skills through structured practice (dribbling courses, paired passing, pencak silat kick training) (original target `moving-basics/refining-skills-through-practice`) | Indonesia, *PJOK G10 Student*, Bab 1 B Menyempurnakan Keterampilan Gerak dengan Berlatih, printed p. 14 |
+| Indonesia — using feedback to perfect movement skills (original target `moving-basics/feedback-in-learning-movement`) | Indonesia, *PJOK G10 Student*, Bab 1 D Umpan Balik untuk Menyempurnakan Keterampilan Gerak, printed p. 33 |
+| Indonesia — observing your own skill mastery and the Generic Levels of Skill Proficiency (original target `moving-basics/skill-proficiency-levels`) | Indonesia, *PJOK G11 Student*, Bab I A Perkembangan Keterampilan Gerak, printed p. 5 |
+| Indonesia — composing and keeping a training reflection journal to optimise skills (original target `moving-basics/training-reflection-journal`) | Indonesia, *PJOK G11 Student*, Bab I B Mengoptimalkan Keterampilan Gerak, printed p. 22 |
+| Indonesia — analysing skill-level evaluation results and feedback (original target `moving-basics/analysing-skill-evaluation-and-feedback`) | Indonesia, *PJOK G11 Student*, Bab I C Analisis Hasil Evaluasi, printed p. 27 |
+| Indonesia — short- and long-term improvement plans and the skill-optimisation cycle (original target `moving-basics/improvement-plans-for-movement-skills`) | Indonesia, *PJOK G11 Student*, Bab I D Perbaikan Keterampilan Gerak dalam Berbagai Situasi, printed p. 48 |
+| Indonesia — raising movement mastery (original target `moving-basics/improving-movement-mastery`) | Indonesia, *PJOK G11 Student*, Bab III C Peningkatan Kemampuan Penguasaan Gerak, printed p. 110 |
+| Indonesia — perfecting movement ability (original target `moving-basics/perfecting-movement-ability`) | Indonesia, *PJOK G11 Student*, Bab III D Penyempurnaan Kemampuan Gerak, printed p. 121 |
+| Indonesia — how to teach skill development, journals and improvement cycles (student Bab I) (teacher guide — evidence) (original target `moving-basics/skill-proficiency-levels`) | Indonesia, *PJOK G11 Teacher*, BAB I E Panduan Pembelajaran Buku Siswa, printed p. 39 |
+| Indonesia — managing feedback to improve skills (volleyball smash, pencak silat side kick, freestyle swimming) (original target `moving-basics/feedback-in-learning-movement`) | Indonesia, *PJOK G12 Student*, Bab 1 B Menggunakan Umpan Balik untuk Perbaikan Keterampilan Gerak, printed p. 22 |
+| Indonesia — reflecting on your own movement from video and observation data (softball hitting, taekwondo kicks, aerobics) (original target `moving-basics/video-and-observation-reflection`) | Indonesia, *PJOK G12 Student*, Bab 1 C Refleksi Berbasis Video dan Data Observasi, printed p. 31 |
+
+Indonesia's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Indonesia's own way is content, as the book lines above record it for each book stocked here. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+This is a canonical NEW lesson (slug-registry Part 1: `moving-basics/how-we-learn-movement-skills` — How we learn movement skills: the stages of learning, feedback, practice, transfer between skills, and checking and improving your own level.); Indonesia's placements were filed under the original strings recorded in the provenance rows above, resolved by registry Part 2 to this canonical slug where the string differs. Indonesia is student-book stock, inside the acceptance count, in this lesson; the Indonesia teacher guides stocked here are teacher-guide evidence only, outside the acceptance count.
+
+Searchable tags: how we learn movement skills, Indonesia, PJOK G7 Student, PJOK G10 Student, PJOK G11 Student, PJOK G11 Teacher, PJOK G12 Student

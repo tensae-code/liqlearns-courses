@@ -1,8 +1,8 @@
 # Sources — Biomechanics in Sport
 
-countries: United Kingdom, Pakistan, Fiji, Iran
+countries: United Kingdom, Pakistan, Fiji, Iran, Indonesia
 
-**Acceptance count: taught in 4 countries (United Kingdom, Pakistan, Fiji, Iran).** United Kingdom is student-book stock (see its rows below), inside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; the Fiji teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count.
+**Acceptance count: taught in 5 countries (United Kingdom, Pakistan, Fiji, Iran, Indonesia).** United Kingdom is student-book stock (see its rows below), inside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count; the Fiji teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count; the Indonesia teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
 
 **Book — United Kingdom GCSE Edexcel PE student book (student book):** *Edexcel GCSE (9-1) Physical Education Student Book, 2nd edition* (student book, English) — Title as printed: Edexcel GCSE (9-1) Physical Education — Tony Scott (cover: "2nd edition") — Grade: GCSE, Years 10–11 (student/teacher: STUDENT) — Publisher: Pearson Education; year first published 2016 (2nd edition; imprint number line 19 18 17 16); ISBN 978 1 29212 988 4 — PDF pages: 228 (cover verified against the record title; file size 20,156,655 B and MD5 match the archive.org item metadata exactly). Verdict: COMPLETE — read in full via the extracted text layer. The book's own "Preparing for your exam" sections (printed pp. 118, 176) are assessment preparation — named here, excluded from placements per the standing exclusions; the glossary (p. 205) and index (p. 210) are inventory-only, named, not placed. Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/united-kingdom-pe-placements.md. United Kingdom's own way: PE at GCSE is an examined academic subject — anatomy, physiology, movement analysis and training theory, plus health, psychology and the sociology of sport, with practical performance in three chosen activities and a written Personal Exercise Programme. The second United Kingdom record, *Edexcel GCSE Physical Education Student Book* (2009 edition, Pearson (Edexcel), archive.org item `edexcelgcsephysi0000scot`), is UNREAD — lending-restricted on archive.org, direct GET returned 401/403, no login routes permitted — with 0 placements; nothing is stocked from it.
 
@@ -161,3 +161,62 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/iran-pe-plac
 | Iran — Module 5 "Analysing sports techniques" — breaking down and correcting technique (original target `fitness-and-stretching/analysing-sport-technique`) | Iran, *Specialised Technical Knowledge, PE field, Grade 12 (C212299)*, Module 5 "Analysing sports techniques", printed p. 97 |
 
 Iran's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Iran's own way is content, as the book lines above record it: PE taught as a profession with a knowledge base — a Grade 10 theory book before any workshop book, workshop books of competency units with continuous and final assessment, team games taught as full coaching units with kabaddi standing as a full module beside them, and a special-needs fitness course of very short lessons with one idea each. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Indonesia — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/indonesia-pe-placements.md. Indonesia's PJOK books are the Kurikulum Merdeka Pendidikan Jasmani, Olahraga, dan Kesehatan (Physical Education, Sport and Health) student books and teacher guides for Grades 7–12, read in full from the official SIBI / Kemendikdasmen ministry PDFs: the GitHub tree route returned 404 for every secured record (files absent from the repo — phantom-push library debts, as the placements file records), every book's byte size was verified against its download-list record and its cover verified, and the file was staged into its phase3-staging path under the push-don't-delete rule. The books' health parts (the fitness and healthy-life chapters, fair play, nutrition, sedentary behaviour, first aid and personal and social health) are filed in indonesia-health-placements.md and placed in the Health course. The Indonesia books stocked in this lesson are Book 1, Book 3 and Book 4. Indonesia is student-book stock, inside the acceptance count, in this lesson; the Indonesia teacher guides stocked here are teacher-guide evidence only, outside the acceptance count.
+
+**Book — PJOK G7 Student (student book):**
+## Book 1 — PJOK G7 Student (student book, Indonesian)
+- Title as printed: Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SMP/MTs Kelas VII
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-623-388-727-4 (jil.1 PDF)
+- PDF pages: 216 (cover/title page verified against the record title; byte size 11,290,722 = record)
+- Verdict: COMPLETE
+- Tally: see end of section
+- Indonesia's own way: the revised Kurikulum Merdeka PJOK book is concept-first, not sport-by-sport: pupils learn how movement skills are acquired, how tactics and space work, and how teams function, practising through small-sided games (4v4 volleyball, 3v3 handball, give-and-go) rather than drilling one sport's technique at a time. Health sits inside the same book as fitness and healthy-lifestyle chapters.
+- Combined book: PE parts placed here; the fitness/healthy-life health parts are placed in indonesia-health-placements.md (Book 1 there).
+
+Tally (Book 1, PE): 27 placements — 7 to existing lessons, 20 NEW LESSON NEEDED. Excluded per brief: Uji Kompetensi chapter tests and Refleksi/Pengayaan items (assessment/enrichment), Glosarium (inventory only).
+
+**Book — PJOK G8 Student (student book):**
+## Book 3 — PJOK G8 Student (student book, Indonesian)
+- Title as printed: Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SMP/MTs Kelas VIII
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-623-388-721-2 (jil.2)
+- PDF pages: 256 (cover verified against the record title; byte size 12,795,979 = record)
+- Verdict: COMPLETE
+- Indonesia's own way: Grade 8 turns from learning skills to analysing them — force, parabolic and projectile motion, balance and stability — then composing and testing strategies, modifying games (equipment, rules, scoring) with fair play, outdoor activity in nature, and a closing nutrition chapter.
+- Combined book: PE parts placed here; Bab IV C (fair play) and Bab VI (nutrition) are placed in indonesia-health-placements.md (Book 3 there).
+
+Tally (Book 3, PE): 18 placements — 1 to existing lessons, 17 NEW LESSON NEEDED. Excluded per brief: Uji Kompetensi chapter tests, Pengayaan and Refleksi items, Glosarium (inventory only).
+
+**Book — PJOK G8 Teacher (teacher guide):**
+## Book 4 — PJOK G8 Teacher (teacher guide, Indonesian)
+- Title as printed: Panduan Guru Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SMP/MTs Kelas VIII
+- Grade: 8 (student/teacher: TEACHER)
+- Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-623-388-735-9 (jil.2)
+- PDF pages: 288 (cover verified against the record title; byte size 5,856,361 = record)
+- Verdict: COMPLETE
+- Indonesia's own way: same Panduan Khusus structure as the Grade 7 guide — one teaching guide per student chapter with prerequisites, apperception, pre-checks, the teaching walk-through (Panduan Pembelajaran), follow-up, summative assessment and answer keys (assessment/keys excluded per the brief).
+- Combined book: PE parts placed here; the fair-play and nutrition chapter guides are placed in indonesia-health-placements.md (Book 4 there).
+
+Tally (Book 4, PE): 5 placements — 0 to existing lessons, 5 NEW LESSON NEEDED.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — phases of a movement: preparation, force production, execution and follow-through across sports (original target `moving-basics/phases-of-movement`) | Indonesia, *PJOK G7 Student*, Bab III B Fase Gerak, printed p. 75 |
+| Indonesia — describing movement in activities such as sprinting and kicking a ball (original target `moving-basics/describing-movement`) | Indonesia, *PJOK G8 Student*, Bab I A Mendeskripsikan Gerak, printed p. 6 |
+| Indonesia — force in movement activities: push, pull, gravity and friction (original target `moving-basics/force-in-movement`) | Indonesia, *PJOK G8 Student*, Bab I B Gaya (Force) dalam Aktivitas Gerak, printed p. 15 |
+| Indonesia — applying force in different sports (original target `moving-basics/applying-force-in-sport`) | Indonesia, *PJOK G8 Student*, Bab I C Penerapan Gaya (Force) dalam Berbagai Aktivitas Olahraga, printed p. 24 |
+| Indonesia — analysing movement skills for effectiveness (original target `moving-basics/analysing-movement-skills`) | Indonesia, *PJOK G8 Student*, Bab I D Menganalisis Keterampilan Gerak, printed p. 33 |
+| Indonesia — parabolic motion of balls and bodies in sport (original target `moving-basics/parabolic-motion-in-sport`) | Indonesia, *PJOK G8 Student*, Bab II A Gerak Parabola, printed p. 44 |
+| Indonesia — projectile motion: angle, speed and range (original target `moving-basics/projectile-motion`) | Indonesia, *PJOK G8 Student*, Bab II B Gerak Proyektil, printed p. 54 |
+| Indonesia — how to teach describing movement and force (student Bab I) (teacher guide — evidence) (original target `moving-basics/describing-movement`) | Indonesia, *PJOK G8 Teacher*, Panduan Khusus Bab I E Panduan Pembelajaran, printed p. 34 |
+| Indonesia — how to teach parabolic/projectile motion, balance and stability (student Bab II) (teacher guide — evidence) (original target `moving-basics/projectile-motion`) | Indonesia, *PJOK G8 Teacher*, Panduan Khusus Bab II E Panduan Pembelajaran, printed p. 77 |
+
+Indonesia's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Indonesia's own way is content, as the book lines above record it for each book stocked here. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+This is a canonical NEW lesson (slug-registry Part 1: `fitness-and-stretching/biomechanics-in-sport` — Biomechanics in sport: forces, levers, planes of movement, projectile flight, and analysing and correcting technique.); Indonesia's placements were filed under the original strings recorded in the provenance rows above, resolved by registry Part 2 to this canonical slug where the string differs. Indonesia is student-book stock, inside the acceptance count, in this lesson; the Indonesia teacher guides stocked here are teacher-guide evidence only, outside the acceptance count.
+
+Searchable tags: biomechanics in sport, Indonesia, PJOK G7 Student, PJOK G8 Student, PJOK G8 Teacher

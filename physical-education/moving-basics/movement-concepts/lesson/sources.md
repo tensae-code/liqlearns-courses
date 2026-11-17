@@ -1,8 +1,8 @@
 # Sources — Movement Concepts
 
-countries: Philippines
+countries: Philippines, Indonesia
 
-**Acceptance count: taught in 1 country (Philippines).** Philippines is student-book stock (see its rows below), inside the acceptance count.
+**Acceptance count: taught in 2 countries (Philippines, Indonesia).** Philippines is student-book stock (see its rows below), inside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count; the Indonesia teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
 
 ## Philippines — PE expansion 2026-11-16
 
@@ -39,3 +39,96 @@ Philippines's placements in this lesson were filed under the original strings re
 This is a canonical NEW lesson (slug-registry Part 1: `moving-basics/movement-concepts` — Movement concepts: body, space, effort (time, force and flow) and relationships in movement.); the Philippines placements were filed under the original strings recorded in the provenance rows above, resolved by registry Part 2 to this canonical slug where the string differs. Philippines enters this lesson as student-book stock, inside the acceptance count.
 
 Searchable tags: movement concepts, Philippines, DepEd Learner's Material
+
+## Indonesia — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/indonesia-pe-placements.md. Indonesia's PJOK books are the Kurikulum Merdeka Pendidikan Jasmani, Olahraga, dan Kesehatan (Physical Education, Sport and Health) student books and teacher guides for Grades 7–12, read in full from the official SIBI / Kemendikdasmen ministry PDFs: the GitHub tree route returned 404 for every secured record (files absent from the repo — phantom-push library debts, as the placements file records), every book's byte size was verified against its download-list record and its cover verified, and the file was staged into its phase3-staging path under the push-don't-delete rule. The books' health parts (the fitness and healthy-life chapters, fair play, nutrition, sedentary behaviour, first aid and personal and social health) are filed in indonesia-health-placements.md and placed in the Health course. The Indonesia books stocked in this lesson are Book 1, Book 2, Book 7, Book 8, Book 9 and Book 10. Indonesia is student-book stock, inside the acceptance count, in this lesson; the Indonesia teacher guides stocked here are teacher-guide evidence only, outside the acceptance count.
+
+**Book — PJOK G7 Student (student book):**
+## Book 1 — PJOK G7 Student (student book, Indonesian)
+- Title as printed: Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SMP/MTs Kelas VII
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-623-388-727-4 (jil.1 PDF)
+- PDF pages: 216 (cover/title page verified against the record title; byte size 11,290,722 = record)
+- Verdict: COMPLETE
+- Tally: see end of section
+- Indonesia's own way: the revised Kurikulum Merdeka PJOK book is concept-first, not sport-by-sport: pupils learn how movement skills are acquired, how tactics and space work, and how teams function, practising through small-sided games (4v4 volleyball, 3v3 handball, give-and-go) rather than drilling one sport's technique at a time. Health sits inside the same book as fitness and healthy-lifestyle chapters.
+- Combined book: PE parts placed here; the fitness/healthy-life health parts are placed in indonesia-health-placements.md (Book 1 there).
+
+Tally (Book 1, PE): 27 placements — 7 to existing lessons, 20 NEW LESSON NEEDED. Excluded per brief: Uji Kompetensi chapter tests and Refleksi/Pengayaan items (assessment/enrichment), Glosarium (inventory only).
+
+**Book — PJOK G7 Teacher (teacher guide):**
+## Book 2 — PJOK G7 Teacher (teacher guide, Indonesian)
+- Title as printed: Panduan Guru Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SMP/MTs Kelas VII
+- Grade: 7 (student/teacher: TEACHER)
+- Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-623-388-739-7 (jil.1 PDF)
+- PDF pages: 248 (cover verified against the record title; byte size 7,127,838 = record)
+- Verdict: COMPLETE
+- Indonesia's own way: the guide mirrors the student book chapter by chapter (Panduan Khusus per Bab) with prerequisite concepts, apperception, pre-learning checks, a step-by-step teaching walk-through of the student book, follow-up (remedial/enrichment), summative assessment and answer keys; the assessment, answer-key and reflection parts are excluded per the brief, and the chapter teaching walk-throughs are placed below.
+- Combined book: PE parts placed here; the health-chapter teaching guides (Bab V–VI) are placed in indonesia-health-placements.md (Book 2 there).
+
+Tally (Book 2, PE): 5 placements — 2 to existing lessons, 3 NEW LESSON NEEDED.
+
+**Book — PJOK G10 Student (student book):**
+## Book 7 — PJOK G10 Student (student book, Indonesian)
+- Title as printed: Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SMA/MA/SMK/MAK Kelas X
+- Grade: 10 (student/teacher: STUDENT)
+- Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-634-00-0094-8 (jil.1 PDF)
+- PDF pages: 240 (cover verified against the record title; byte size 7,042,962 = record)
+- Verdict: COMPLETE
+- Indonesia's own way: senior-high PJOK deepens the same concept-first line — refining skills with feedback, movement concepts in games, tactical skill, a personal fitness programme built on training zones and the FITT principle (with fitness technology), ethical behaviour in sport, and a personal/social health chapter.
+- Combined book: PE parts placed here; Bab 5 D (fair play) and Bab 6 (personal and social health) are placed in indonesia-health-placements.md (Book 7 there).
+
+Tally (Book 7, PE): 17 placements — 2 to existing lessons, 15 NEW LESSON NEEDED. Excluded per brief: chapter assessments/reflections, Glosarium (inventory only).
+
+**Book — PJOK G10 Teacher (teacher guide):**
+## Book 8 — PJOK G10 Teacher (teacher guide, Indonesian)
+- Title as printed: Panduan Guru Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SMA/MA/SMK/MAK Kelas X
+- Grade: 10 (student/teacher: TEACHER)
+- Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-634-00-0104-4 (jil.1 PDF)
+- PDF pages: 312 (cover verified against the record title; byte size 6,206,600 = record)
+- Verdict: COMPLETE
+- Indonesia's own way: guide mirrors the Grade 10 student book chapter by chapter with prerequisites, apperception, pre-checks and a long teaching walk-through per chapter; assessment and answer keys excluded per the brief.
+- Combined book: PE parts placed here; the Bab 6 (personal and social health) teaching guide is placed in indonesia-health-placements.md (Book 8 there).
+
+Tally (Book 8, PE): 5 placements — 0 to existing lessons, 5 NEW LESSON NEEDED.
+
+**Book — PJOK G11 Student (student book):**
+## Book 9 — PJOK G11 Student (student book, Indonesian)
+- Title as printed: Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SMA/MA/SMK/MAK Kelas XI
+- Grade: 11 (student/teacher: STUDENT)
+- Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-634-00-0095-5 (jil.2 PDF)
+- PDF pages: 256 (cover verified against the record title; byte size 12,398,992 = record)
+- Verdict: COMPLETE
+- Indonesia's own way: Grade 11 is an optimisation year — pupils observe their own skill level against Generic Levels of Skill Proficiency, keep a training reflection journal, refine decision-making and tactics, evaluate movement concepts, keep daily fitness, and finish by advocating an active, healthy lifestyle to others.
+- Combined book: PE parts placed here; Bab IV (fair play and ethical behaviour) and Bab VI (advocating an active, healthy life) are placed in indonesia-health-placements.md (Book 9 there).
+
+Tally (Book 9, PE): 16 placements — 0 to existing lessons, 16 NEW LESSON NEEDED. Excluded per brief: Uji Kompetensi, Pengayaan and Refleksi items, Glosarium (inventory only).
+
+**Book — PJOK G11 Teacher (teacher guide):**
+## Book 10 — PJOK G11 Teacher (teacher guide, Indonesian)
+- Title as printed: Buku Panduan Guru Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SMA/MA/SMK/MAK Kelas XI
+- Grade: 11 (student/teacher: TEACHER)
+- Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-634-00-0105-1 (jil.2 PDF)
+- PDF pages: 280 (cover verified against the record title; byte size 6,992,000 = record)
+- Verdict: COMPLETE
+- Indonesia's own way: guide mirrors the Grade 11 student book with a Panduan Khusus per chapter (prerequisites, apperception, pre-check instruments, teaching activities, follow-up, summative assessment — assessment excluded per the brief).
+- Combined book: PE parts placed here; the Bab IV (fair play) and Bab VI (healthy-life advocacy) teaching guides are placed in indonesia-health-placements.md (Book 10 there).
+
+Tally (Book 10, PE): 4 placements — 0 to existing lessons, 4 NEW LESSON NEEDED.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — movement concepts: body, space, effort and relationships (original target `moving-basics/movement-concepts`) | Indonesia, *PJOK G7 Student*, Bab III A Konsep Gerak, printed p. 73 |
+| Indonesia — how to teach movement concepts, phases and transfer through games (teacher guide — evidence) (original target `moving-basics/movement-concepts`) | Indonesia, *PJOK G7 Teacher*, Panduan Khusus Bab III E Panduan Pembelajaran Buku Siswa, printed p. 117 |
+| Indonesia — movement concepts deepened: body, space, effort, relationships in senior-high play (original target `moving-basics/movement-concepts`) | Indonesia, *PJOK G10 Student*, Bab 2 A Konsep Gerak (Movement Concepts), printed p. 45 |
+| Indonesia — how to teach movement concepts deepened (student Bab 2) (teacher guide — evidence) (original target `moving-basics/movement-concepts`) | Indonesia, *PJOK G10 Teacher*, Bab 2 E Panduan Pembelajaran Buku Siswa, printed p. 89 |
+| Indonesia — applying movement concepts in PE (original target `moving-basics/movement-concepts-in-pe`) | Indonesia, *PJOK G11 Student*, Bab III A Penerapan Konsep Gerak dalam Pendidikan Jasmani, printed p. 97 |
+| Indonesia — judging how effective movement concepts are (original target `moving-basics/effectiveness-of-movement-concepts`) | Indonesia, *PJOK G11 Student*, Bab III B Efektivitas Konsep Gerak, printed p. 103 |
+| Indonesia — how to teach evaluating the impact of movement concepts (student Bab III) (teacher guide — evidence) (original target `moving-basics/movement-concepts-in-pe`) | Indonesia, *PJOK G11 Teacher*, BAB III E Panduan Pembelajaran Buku Siswa, printed p. 122 |
+
+Indonesia's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Indonesia's own way is content, as the book lines above record it for each book stocked here. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+This is a canonical NEW lesson (slug-registry Part 1: `moving-basics/movement-concepts` — Movement concepts: body, space, effort (time, force and flow) and relationships in movement.); Indonesia's placements were filed under the original strings recorded in the provenance rows above, resolved by registry Part 2 to this canonical slug where the string differs. Indonesia is student-book stock, inside the acceptance count, in this lesson; the Indonesia teacher guides stocked here are teacher-guide evidence only, outside the acceptance count.
+
+Searchable tags: movement concepts, Indonesia, PJOK G7 Student, PJOK G7 Teacher, PJOK G10 Student, PJOK G10 Teacher, PJOK G11 Student, PJOK G11 Teacher

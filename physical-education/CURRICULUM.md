@@ -833,6 +833,55 @@ separate guide for Kuwaiti girls' folk games, and at
 Grade 10 four six-week courses built on measuring the
 pupils' fitness and measuring again.
 
+**PE expansion — Indonesia — BUILT 2026-11-16:** 136
+placements from Indonesia's twelve read PJOK books — the
+Kurikulum Merdeka Pendidikan Jasmani, Olahraga, dan
+Kesehatan student books and teacher guides for Grades
+7–12 (Kementerian Pendidikan, Kebudayaan, Riset, dan
+Teknologi / Kemendikdasmen, 2022–2025), all COMPLETE —
+stocked: 99 into existing lessons (including canonical
+lessons built earlier in this expansion) and 37 as 6 new
+lessons (Learning Tactics in Games; Technology for
+Fitness; Making and Changing Games; Combining and
+Adapting Movements; Pencak Silat; Leadership and Roles
+in Sport) — bringing this course to **204 lessons**. The
+six student books are student-book stock, inside the
+acceptance counts, in every lesson they touch; the six
+teacher guides are teacher-guide evidence only, outside
+the acceptance counts — in six lessons (Jumping for
+Distance and Height; Skill-Related Fitness; Gymnastics
+Basics — Rolls and Supports; Moving to a Beat; Swimming
+Strokes; Pencak Silat) Indonesia rests on Book 12, the
+Grade 12 teacher guide, alone, so it is named there but
+outside the counts, and the new Pencak Silat lesson
+stands at acceptance count 0, founded on teacher-guide
+evidence only. Book 12 is the older 2022 sport-by-sport
+unit guide; it does NOT mirror the 2025 Merdeka Grade 12
+student book and is filed as its own book, as filed. No
+Indonesia placement resolves to a Health-course lesson,
+so none was excluded as Health-bound; the books' health
+parts (fitness and healthy-life chapters, fair play,
+nutrition, sedentary behaviour, first aid, personal and
+social health) are placed in the Health course from
+indonesia-health-placements.md, and the chapters' Uji
+Kompetensi tests, Refleksi/Pengayaan items and
+Glosarium are excluded as assessment/enrichment and
+inventory matter, as filed. Every book was read from the
+official SIBI ministry PDF after the GitHub tree route
+returned 404 for every secured record — a phantom-push
+library debt, as the placements file records — with byte
+size and cover verified, and staged under the
+push-don't-delete rule. Indonesia's own way is content:
+the Merdeka PJOK books are concept-first, not
+sport-by-sport — movement skills and how they are
+learned, tactics and space through small-sided games,
+movement concepts, strategy composed and analysed, a
+class league run on the Sport Education model,
+leadership and collaboration, and a personal fitness
+programme built on training zones and FITT — with
+pencak silat, Indonesia's own martial art, taught in
+Book 12's bela diri unit.
+
 ## Unit 1 — Moving Basics
 
 1. **Combined Travelling and On-the-Spot Movements** (`moving-basics/combined-travelling-and-on-the-spot`) — joining travelling movements together, joining on-the-spot movements together, and chaining the two families in one sequence.
@@ -862,6 +911,8 @@ pupils' fitness and measuring again.
 21. **Cycling** (`moving-basics/cycling`) — cycling: road and off-road cycling — the bicycle, where to ride and how to ride — taught in North Macedonia's Grade 9 book as cycling: road cycling on asphalt (the Tour de France and Giro d'Italia named) and off-road cycling in nature, hills, mountains, parks and forests, as transport and recreation (North Macedonia's student book).
 
 22. **Combat Sports** (`moving-basics/combat-sports`) — combat sports: safe falling, gripping, throws, holds and escapes — taught through judo-style practice, with combat ethics — taught in Zimbabwe's Grade 6 learner's book as stance: upright posture and stance in martial arts/combat games (printed p. 71), and in its Grade 5 and Grade 7 teacher guides as stance in target/combat games (teacher guides, evidence only) (Zimbabwe's Grade 6 student book; its Grade 5 and Grade 7 teacher guides, evidence only).
+23. **Combining and Adapting Movements** (`moving-basics/combining-and-adapting-movements`) — combining and adapting movements: joining skills into sequences and adapting them in complex, real and changing situations — taught in Indonesia's Grade 9 PJOK book as combinations and sequences of movement, complex advanced movements, applying movement in real situations and body control and accuracy, in its Grade 10 book as adapting to challenging movement situations, and in its Grade 12 book as movement skills in complex situations and innovating movement solutions (Indonesia's student books; its teacher guides, evidence only).
+24. **Pencak Silat** (`moving-basics/pencak-silat`) — pencak silat: Indonesia's martial art — punches, kicks and sweeps — taught in Indonesia's Grade 12 PJOK teacher guide as pencak silat techniques: straight and circular punches, T-kick, back kick and sweeps (Indonesia's Grade 12 teacher guide, evidence only).
 
 ## Unit 2 — Fitness and Stretching
 
@@ -893,6 +944,7 @@ pupils' fitness and measuring again.
 
 23. **Pilates** (`fitness-and-stretching/pilates`) — Pilates: controlled, precise, coordinated movement with correct breathing — taught in North Macedonia's Grade 11 book as Pilates: Joseph Pilates' system of some 50 repeatable exercises, on the mat with body weight or on the reformer, built on breathing, cervical alignment, stabilisation of the ribs and shoulders, pelvic mobility and activating the deep transversus abdominis (North Macedonia's student book).
 24. **The King Abdullah II Award for Physical Fitness** (`fitness-and-stretching/king-abdullah-ii-award-for-physical-fitness`) — the King Abdullah II Award for Physical Fitness: Jordan's national school fitness award, its aims and its five test axes — taught in Jordan's Grade 3, Grade 7 and Grade 9 PE books as the award's closing page, introducing its aims and its five test axes (Jordan's student books).
+25. **Technology for Fitness** (`fitness-and-stretching/technology-for-fitness`) — technology for fitness: apps, wearables and heart-rate tracking, and judging your fitness with them — taught in Indonesia's Grade 10 PJOK book as technology that supports fitness, in its Grade 11 book as evaluating fitness-support technology, and in its Grade 12 book as evaluating your own fitness with technology (Indonesia's student books).
 
 
 ## Unit 3 — Gymnastics
@@ -980,6 +1032,7 @@ pupils' fitness and measuring again.
 33. **Dodgeball** (`ball-games/dodgeball`) — dodgeball: the throwing-and-dodging game's basic skills and how it is played — taught in Malaysia's Grade 9 PJPK Tingkatan 3 book as dodgeball, with the Malaysian Dodgeball Association acknowledged as a source (Malaysia's student book).
 34. **Volleyball Serving** (`ball-games/volleyball-serving`) — volleyball serving: the underhand, overhand and sidearm serves that start the rally — taught in Jordan's Grade 7 Term 2 book as the underhand serve (facing) and in its Grade 9 Term 2 book as the overhand serve (directed) (Jordan's student books).
 35. **Baseball 5** (`ball-games/baseball-5`) — baseball 5: the five-a-side street version of baseball — its fundamentals (defensive stance, grip, throws and receiving, fielding grounders, hitting, running home to first) and how it is played — taught in Cuba's Grade 5 Programa as the Béisbol 5 unit, rooted in the street games pelota a la mano and las cuatro esquinas, with the full teaching treatment in its Grade 5 Orientaciones Metodológicas (Cuba's teacher guides/programmes, evidence only).
+36. **Learning Tactics in Games** (`ball-games/learning-tactics-in-games`) — learning tactics in games: game principles, tactical awareness, using space, and movement with and without the ball — taught in Indonesia's Grade 7 PJOK book as learning tactics through games, space in team and individual sports, creating, using and defending space, movement with and without the ball, and choosing zone or man-to-man defence, and in its Grade 10 book as game principles joined to movement concepts, understanding tactical skills, developing tactical awareness and choosing the difficulty level of tactical skills (Indonesia's student books; its teacher guides, evidence only).
 
 
 ## Unit 6 — Games to Play
@@ -1005,6 +1058,7 @@ pupils' fitness and measuring again.
 15. **Camp Craft** (`games-to-play/camp-craft`) — camp craft: knots and lashings, making fires and campfire places safely, and cooking food outdoors — taught in Malaysia's Grade 8 PJPK book as camping knots and lashings and in its Grade 11 book as primitive fire-making and cooking (Malaysia's student books).
 16. **Fit-ball Games** (`games-to-play/fit-ball-games`) — fit-ball games: games played with a big fit ball (Swiss ball) — taught in Malaysia's Grade 11 PJPK Tingkatan 5 book as games played with a fit ball: Pukul Golek and Bola Lantunan (Malaysia's student book).
 17. **Relay Games** (`games-to-play/relay-games`) — relay games: team relays — walking, hopping and running relays that hand over to the next player — taught in Jordan's Grade 1 Term 2 book as its Relay Games unit: relay walking, relay hopping and relay jumping (Jordan's student book).
+18. **Making and Changing Games** (`games-to-play/making-and-changing-games`) — making and changing games: inventing your own game, and modifying rules, equipment, scoring and activities so everyone can play — taught in Indonesia's Grade 8 PJOK book as investigating and modifying equipment and modifying rules and scoring systems, and in its Grade 10 book as modifying activities and games to keep learning (Indonesia's student books; its teacher guide, evidence only).
 
 
 ## Unit 7 — Traditional Games and Dances
@@ -1094,3 +1148,4 @@ pupils' fitness and measuring again.
 23. **Sports Spaces and Equipment** (`sport-and-its-story/sports-spaces-and-equipment`) — sports spaces and equipment: halls, grounds, pools and apparatus — how they are laid out, equipped, used safely and looked after — taught in Fiji's Year 3 Teachers Handbook as the Sports Environment: outdoor, indoor and aquatic environments with safety first, and in its Year 4 Teachers Handbook as natural facilities such as the sea and human-made facilities (Fiji's teacher guides, evidence only).
 24. **Cuba's Sporting Glories** (`sport-and-its-story/cubas-sporting-glories`) — Cuba's sporting glories: the leading figures and heroes of Cuban sport — taught in Cuba's Grade 2, 5, 8 and 11 Programas, where every grade's general objectives include knowing and admiring the "glorias deportivas" of the Cuban Sports Movement, local and national (Cuba's teacher guides/programmes, evidence only).
 25. **Kuwait's Famous Athletes** (`sport-and-its-story/kuwaits-famous-athletes`) — Kuwait's famous athletes: the champions of Kuwait held up as role models — taught in both Kuwait girls' guides as "Heroes of My Homeland", closing the folk-heritage teaching (Kuwait's teacher guides, evidence only).
+26. **Leadership and Roles in Sport** (`sport-and-its-story/leadership-and-roles-in-sport`) — leadership and roles in sport: captains, coaches, referees and organisers, and leading and collaborating in a team — taught in Indonesia's Grade 7 PJOK book as the roles in sport (captain, coach, referee and the Sport Education Model's pupil roles), in its Grade 9 book as leadership in PJOK lessons and applying leadership and collaboration, in its Grade 10 book as decision-making in teamwork, leadership skills and collaboration, and in its Grade 12 book as developing your leadership style (Indonesia's student books; its teacher guide, evidence only).

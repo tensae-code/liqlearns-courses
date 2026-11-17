@@ -1,8 +1,8 @@
 # Sources — Camping and Survival Outdoors
 
-countries: Honduras, North Macedonia, Zimbabwe, Malaysia
+countries: Honduras, North Macedonia, Zimbabwe, Malaysia, Indonesia
 
-**Acceptance count: taught in 4 countries (Honduras, North Macedonia, Zimbabwe, Malaysia).** Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Honduras is student-book stock (see its rows below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
+**Acceptance count: taught in 5 countries (Honduras, North Macedonia, Zimbabwe, Malaysia, Indonesia).** Malaysia is added as student-book stock (see its Malaysia section below), inside the acceptance count. Honduras is student-book stock (see its rows below), inside the acceptance count; the Honduras teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. North Macedonia is added as student-book stock (see its North Macedonia section below), inside the acceptance count. Zimbabwe is added as student-book stock (see its Zimbabwe section below), inside the acceptance count; the Zimbabwe teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count; the Indonesia teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
 
 ## Honduras — PE expansion 2026-11-16
 
@@ -166,3 +166,44 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/malaysia-pe-
 | Malaysia — Unit 5 Rekreasi dan Kesenggangan — the explore race (checkpoint tasks: touch-sense guessing, creativity dance station, gimnastrada station) and the obstacle race as planned recreation races (original target `games-to-play/explore-race-and-obstacle-race`) | Malaysia Grade 10 PJPK Tingkatan 4, printed p. 124 |
 
 Malaysia's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Malaysia is student-book stock, inside the acceptance count, in this lesson. Malaysia's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Indonesia — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/indonesia-pe-placements.md. Indonesia's PJOK books are the Kurikulum Merdeka Pendidikan Jasmani, Olahraga, dan Kesehatan (Physical Education, Sport and Health) student books and teacher guides for Grades 7–12, read in full from the official SIBI / Kemendikdasmen ministry PDFs: the GitHub tree route returned 404 for every secured record (files absent from the repo — phantom-push library debts, as the placements file records), every book's byte size was verified against its download-list record and its cover verified, and the file was staged into its phase3-staging path under the push-don't-delete rule. The books' health parts (the fitness and healthy-life chapters, fair play, nutrition, sedentary behaviour, first aid and personal and social health) are filed in indonesia-health-placements.md and placed in the Health course. The Indonesia books stocked in this lesson are Book 3 and Book 4. Indonesia is student-book stock, inside the acceptance count, in this lesson; the Indonesia teacher guides stocked here are teacher-guide evidence only, outside the acceptance count.
+
+**Book — PJOK G8 Student (student book):**
+## Book 3 — PJOK G8 Student (student book, Indonesian)
+- Title as printed: Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SMP/MTs Kelas VIII
+- Grade: 8 (student/teacher: STUDENT)
+- Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-623-388-721-2 (jil.2)
+- PDF pages: 256 (cover verified against the record title; byte size 12,795,979 = record)
+- Verdict: COMPLETE
+- Indonesia's own way: Grade 8 turns from learning skills to analysing them — force, parabolic and projectile motion, balance and stability — then composing and testing strategies, modifying games (equipment, rules, scoring) with fair play, outdoor activity in nature, and a closing nutrition chapter.
+- Combined book: PE parts placed here; Bab IV C (fair play) and Bab VI (nutrition) are placed in indonesia-health-placements.md (Book 3 there).
+
+Tally (Book 3, PE): 18 placements — 1 to existing lessons, 17 NEW LESSON NEEDED. Excluded per brief: Uji Kompetensi chapter tests, Pengayaan and Refleksi items, Glosarium (inventory only).
+
+**Book — PJOK G8 Teacher (teacher guide):**
+## Book 4 — PJOK G8 Teacher (teacher guide, Indonesian)
+- Title as printed: Panduan Guru Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SMP/MTs Kelas VIII
+- Grade: 8 (student/teacher: TEACHER)
+- Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-623-388-735-9 (jil.2)
+- PDF pages: 288 (cover verified against the record title; byte size 5,856,361 = record)
+- Verdict: COMPLETE
+- Indonesia's own way: same Panduan Khusus structure as the Grade 7 guide — one teaching guide per student chapter with prerequisites, apperception, pre-checks, the teaching walk-through (Panduan Pembelajaran), follow-up, summative assessment and answer keys (assessment/keys excluded per the brief).
+- Combined book: PE parts placed here; the fair-play and nutrition chapter guides are placed in indonesia-health-placements.md (Book 4 there).
+
+Tally (Book 4, PE): 5 placements — 0 to existing lessons, 5 NEW LESSON NEEDED.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — types of outdoor and nature physical activities (original target `games-to-play/types-of-outdoor-and-nature-activities`) | Indonesia, *PJOK G8 Student*, Bab V C Jenis Aktivitas Jasmani di Luar Ruangan/Alam, printed p. 168 |
+| Indonesia — gear and equipment needed for outdoor activity (original target `games-to-play/equipment-for-outdoor-activities`) | Indonesia, *PJOK G8 Student*, Bab V D Perlengkapan dan Peralatan yang dibutuhkan untuk Aktivitas Jasmani di Luar Ruangan/Alam, printed p. 177 |
+| Indonesia — caring for the natural environment during activities (original target `games-to-play/caring-for-nature-during-activities`) | Indonesia, *PJOK G8 Student*, Bab V E Menjaga Lingkungan Alam, printed p. 180 |
+| Indonesia — how to teach the outdoor/nature activity chapter (student Bab V) (teacher guide — evidence) (original target `games-to-play/types-of-outdoor-and-nature-activities`) | Indonesia, *PJOK G8 Teacher*, Panduan Khusus Bab V Alam untuk Aktivitas Jasmani, printed p. 181 |
+
+Indonesia's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Indonesia's own way is content, as the book lines above record it for each book stocked here. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+This is a canonical NEW lesson (slug-registry Part 1: `moving-basics/camping-and-survival-outdoors` — Camping and survival outdoors: camps, shelters, fire, camp equipment, outdoor trips and caring for nature while you are out.); Indonesia's placements were filed under the original strings recorded in the provenance rows above, resolved by registry Part 2 to this canonical slug where the string differs. Indonesia is student-book stock, inside the acceptance count, in this lesson; the Indonesia teacher guides stocked here are teacher-guide evidence only, outside the acceptance count.
+
+Searchable tags: camping and survival outdoors, Indonesia, PJOK G8 Student, PJOK G8 Teacher

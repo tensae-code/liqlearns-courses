@@ -1,6 +1,6 @@
 # Sources — Games for Thinking Carefully
 
-countries: Ethiopia, Iran
+countries: Ethiopia, Iran, Indonesia
 
 **Book 1:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–106 + front matter (114 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md.
 
@@ -25,7 +25,7 @@ countries: Ethiopia, Iran
 | Sub lesson 3 — Special football — winning by thinking, talking and respect | Ethiopia, *Grade 7 Student Textbook*, §§2.4–2.4.2, printed pp. 21–23 |
 | Sub lesson 4 — Deep thinking in games — plan, notice, correct (teacher guide — evidence) | Ethiopia, *Grade 5 Teacher Guide*, §2.2.2, printed p. 18; and *Grade 6 Teacher Guide*, §2.2.2, printed p. 21 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Iran).** Iran is added as student-book stock (see its Iran section below), inside the acceptance count.
+**Acceptance count: taught in 3 countries (Ethiopia, Iran, Indonesia).** Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count.
 
 The Grade 5 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -62,3 +62,28 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/iran-pe-plac
 | Iran — Module 3, Unit 2 "Chess tactics" — tactical thinking, combinations and careful calculation (original target `games-to-play/games-for-thinking-carefully`) | Iran, *Developing Agility–Mental Skills, Grade 10 (C210302)*, Module 3, Unit 2 "Chess tactics", printed p. 141 |
 
 Iran's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Iran's own way is content, as the book lines above record it: PE taught as a profession with a knowledge base — a Grade 10 theory book before any workshop book, workshop books of competency units with continuous and final assessment, team games taught as full coaching units with kabaddi standing as a full module beside them, and a special-needs fitness course of very short lessons with one idea each. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Indonesia — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/indonesia-pe-placements.md. Indonesia's PJOK books are the Kurikulum Merdeka Pendidikan Jasmani, Olahraga, dan Kesehatan (Physical Education, Sport and Health) student books and teacher guides for Grades 7–12, read in full from the official SIBI / Kemendikdasmen ministry PDFs: the GitHub tree route returned 404 for every secured record (files absent from the repo — phantom-push library debts, as the placements file records), every book's byte size was verified against its download-list record and its cover verified, and the file was staged into its phase3-staging path under the push-don't-delete rule. The books' health parts (the fitness and healthy-life chapters, fair play, nutrition, sedentary behaviour, first aid and personal and social health) are filed in indonesia-health-placements.md and placed in the Health course. The Indonesia books stocked in this lesson are Book 1. Indonesia is student-book stock, inside the acceptance count, in this lesson.
+
+**Book — PJOK G7 Student (student book):**
+## Book 1 — PJOK G7 Student (student book, Indonesian)
+- Title as printed: Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SMP/MTs Kelas VII
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-623-388-727-4 (jil.1 PDF)
+- PDF pages: 216 (cover/title page verified against the record title; byte size 11,290,722 = record)
+- Verdict: COMPLETE
+- Tally: see end of section
+- Indonesia's own way: the revised Kurikulum Merdeka PJOK book is concept-first, not sport-by-sport: pupils learn how movement skills are acquired, how tactics and space work, and how teams function, practising through small-sided games (4v4 volleyball, 3v3 handball, give-and-go) rather than drilling one sport's technique at a time. Health sits inside the same book as fitness and healthy-lifestyle chapters.
+- Combined book: PE parts placed here; the fitness/healthy-life health parts are placed in indonesia-health-placements.md (Book 1 there).
+
+Tally (Book 1, PE): 27 placements — 7 to existing lessons, 20 NEW LESSON NEEDED. Excluded per brief: Uji Kompetensi chapter tests and Refleksi/Pengayaan items (assessment/enrichment), Glosarium (inventory only).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — finding solutions to movement problems in play (original target `games-to-play/games-for-thinking-carefully`) | Indonesia, *PJOK G7 Student*, Bab III E Menemukan Solusi pada Masalah Gerak, printed p. 90 |
+
+Indonesia's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Indonesia's own way is content, as the book lines above record it for each book stocked here. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+Searchable tags: games for thinking carefully, Indonesia, PJOK G7 Student

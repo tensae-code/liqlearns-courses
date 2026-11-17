@@ -326,3 +326,16 @@ Kuwait**
 and **Kuwait's Famous Athletes**
 (`sport-and-its-story/kuwaits-famous-athletes`)
 — 4 new lessons, bringing this course to 198 lessons.
+
+The PE expansion then added: **Learning Tactics in
+Games** (`ball-games/learning-tactics-in-games`),
+**Technology for Fitness**
+(`fitness-and-stretching/technology-for-fitness`),
+**Making and Changing Games**
+(`games-to-play/making-and-changing-games`),
+**Combining and Adapting Movements**
+(`moving-basics/combining-and-adapting-movements`),
+**Pencak Silat** (`moving-basics/pencak-silat`) and
+**Leadership and Roles in Sport**
+(`sport-and-its-story/leadership-and-roles-in-sport`)
+— 6 new lessons, bringing this course to 204 lessons.

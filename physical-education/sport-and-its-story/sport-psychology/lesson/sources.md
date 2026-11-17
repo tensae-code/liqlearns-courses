@@ -1,8 +1,8 @@
 # Sources — Sport Psychology
 
-countries: Samoa, Fiji, Iran
+countries: Samoa, Fiji, Iran, Indonesia
 
-**Acceptance count: taught in 2 countries (Fiji, Iran).** Samoa is teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count.
+**Acceptance count: taught in 3 countries (Fiji, Iran, Indonesia).** Samoa is teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. Fiji is added as student-book stock (see its Fiji section below), inside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count.
 
 **Book — Samoa Years 11–12 teacher guide (teacher guide — evidence):** *Health and Physical Education Teacher Guide, Years 11 and 12* (teacher guide, English) — Title as printed: Health and Physical Education Teacher Guide, Years 11 and 12 — Grade: Years 11–12 (student/teacher: TEACHER) — Publisher: Ministry of Education, Sports and Culture, Samoa; year 2004 (© MESC Samoa 2004); no ISBN printed — PDF pages: 88 (title page verified: "01 Health & PE Yr11-12 Final"; 18,702,938 bytes, exactly the size in the download-list record). Verdict: COMPLETE as a guide — all four units for both years plus Appendix 1 (Samoa Secondary Schools Fitness Test Battery) present. NOTE: the two secured books.json records (grade-11 and grade-12 staging paths) are NOT in GitHub (Contents API 404 on both) although marked pushed — a phantom-push library debt; the book was read from the ministry download-list copy and that copy has been staged at both staging paths under the push-don't-delete rule. Read in full in the 2026-11-16 PE expansion read. Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/samoa-pe-placements.md. Samoa's own way: senior HPE is organised family-outward — personal health, then human movement, then family health, then community health — and movement science (biomechanics, sports psychology, club organisation) is taught as examinable knowledge alongside a national fitness test battery.
 
@@ -83,3 +83,30 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/iran-pe-plac
 | Iran — Lesson "Mental imagery" — picturing a skill before doing it (original target `sport-and-its-story/sport-psychology`) | Iran, *Physical Education, Year 1, special-needs vocational secondary: Physical Fitness (C181-11)*, Lesson "Mental imagery", printed p. 78 |
 
 Iran's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Iran's own way is content, as the book lines above record it: PE taught as a profession with a knowledge base — a Grade 10 theory book before any workshop book, workshop books of competency units with continuous and final assessment, team games taught as full coaching units with kabaddi standing as a full module beside them, and a special-needs fitness course of very short lessons with one idea each. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Indonesia — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/indonesia-pe-placements.md. Indonesia's PJOK books are the Kurikulum Merdeka Pendidikan Jasmani, Olahraga, dan Kesehatan (Physical Education, Sport and Health) student books and teacher guides for Grades 7–12, read in full from the official SIBI / Kemendikdasmen ministry PDFs: the GitHub tree route returned 404 for every secured record (files absent from the repo — phantom-push library debts, as the placements file records), every book's byte size was verified against its download-list record and its cover verified, and the file was staged into its phase3-staging path under the push-don't-delete rule. The books' health parts (the fitness and healthy-life chapters, fair play, nutrition, sedentary behaviour, first aid and personal and social health) are filed in indonesia-health-placements.md and placed in the Health course. The Indonesia books stocked in this lesson are Book 1. Indonesia is student-book stock, inside the acceptance count, in this lesson.
+
+**Book — PJOK G7 Student (student book):**
+## Book 1 — PJOK G7 Student (student book, Indonesian)
+- Title as printed: Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SMP/MTs Kelas VII
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-623-388-727-4 (jil.1 PDF)
+- PDF pages: 216 (cover/title page verified against the record title; byte size 11,290,722 = record)
+- Verdict: COMPLETE
+- Tally: see end of section
+- Indonesia's own way: the revised Kurikulum Merdeka PJOK book is concept-first, not sport-by-sport: pupils learn how movement skills are acquired, how tactics and space work, and how teams function, practising through small-sided games (4v4 volleyball, 3v3 handball, give-and-go) rather than drilling one sport's technique at a time. Health sits inside the same book as fitness and healthy-lifestyle chapters.
+- Combined book: PE parts placed here; the fitness/healthy-life health parts are placed in indonesia-health-placements.md (Book 1 there).
+
+Tally (Book 1, PE): 27 placements — 7 to existing lessons, 20 NEW LESSON NEEDED. Excluded per brief: Uji Kompetensi chapter tests and Refleksi/Pengayaan items (assessment/enrichment), Glosarium (inventory only).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — emotions felt in sport and handling them (original target `sport-and-its-story/emotions-in-sport`) | Indonesia, *PJOK G7 Student*, Bab IV E Emosi dalam Olahraga, printed p. 120 |
+
+Indonesia's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Indonesia's own way is content, as the book lines above record it for each book stocked here. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+This is a canonical NEW lesson (slug-registry Part 1: `sport-and-its-story/sport-psychology` — Sport psychology: mind, motivation, emotions, anxiety and arousal — and how they shape performance.); Indonesia's placements were filed under the original strings recorded in the provenance rows above, resolved by registry Part 2 to this canonical slug where the string differs. Indonesia is student-book stock, inside the acceptance count, in this lesson.
+
+Searchable tags: sport psychology, Indonesia, PJOK G7 Student

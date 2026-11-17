@@ -1,8 +1,8 @@
 # Sources — Fundamental Movement Skills
 
-countries: Fiji, Iran
+countries: Fiji, Iran, Indonesia
 
-**Acceptance count: taught in 1 country (Iran).** Fiji's rows in this lesson rest on teacher-guide evidence only (Fiji's *PE is Fun* teacher guides/handbooks); Fiji is named in the countries line and in the rows below, but outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count — the first pupil's book in hand for this lesson.
+**Acceptance count: taught in 2 countries (Iran, Indonesia).** Fiji's rows in this lesson rest on teacher-guide evidence only (Fiji's *PE is Fun* teacher guides/handbooks); Fiji is named in the countries line and in the rows below, but outside the acceptance count. Iran is added as student-book stock (see its Iran section below), inside the acceptance count — the first pupil's book in hand for this lesson. Indonesia is added as student-book stock (see its Indonesia section below), inside the acceptance count; the Indonesia teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
 
 ## Fiji — PE expansion 2026-11-16
 
@@ -62,3 +62,44 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/iran-pe-plac
 | Iran — Module 4, Unit 2 "Games with a fundamental-movement approach" — designing children's games out of running, jumping, throwing and catching (original target `games-to-play/games-built-on-fundamental-movements`) | Iran, *Developing Health and Lifestyle with Sport, Grade 11 (C211304)*, Module 4, Unit 2 "Games with a fundamental-movement approach", printed p. 174 |
 
 Iran's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Iran's own way is content, as the book lines above record it: PE taught as a profession with a knowledge base — a Grade 10 theory book before any workshop book, workshop books of competency units with continuous and final assessment, team games taught as full coaching units with kabaddi standing as a full module beside them, and a special-needs fitness course of very short lessons with one idea each. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Indonesia — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/indonesia-pe-placements.md. Indonesia's PJOK books are the Kurikulum Merdeka Pendidikan Jasmani, Olahraga, dan Kesehatan (Physical Education, Sport and Health) student books and teacher guides for Grades 7–12, read in full from the official SIBI / Kemendikdasmen ministry PDFs: the GitHub tree route returned 404 for every secured record (files absent from the repo — phantom-push library debts, as the placements file records), every book's byte size was verified against its download-list record and its cover verified, and the file was staged into its phase3-staging path under the push-don't-delete rule. The books' health parts (the fitness and healthy-life chapters, fair play, nutrition, sedentary behaviour, first aid and personal and social health) are filed in indonesia-health-placements.md and placed in the Health course. The Indonesia books stocked in this lesson are Book 1 and Book 2. Indonesia is student-book stock, inside the acceptance count, in this lesson; the Indonesia teacher guides stocked here are teacher-guide evidence only, outside the acceptance count.
+
+**Book — PJOK G7 Student (student book):**
+## Book 1 — PJOK G7 Student (student book, Indonesian)
+- Title as printed: Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SMP/MTs Kelas VII
+- Grade: 7 (student/teacher: STUDENT)
+- Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-623-388-727-4 (jil.1 PDF)
+- PDF pages: 216 (cover/title page verified against the record title; byte size 11,290,722 = record)
+- Verdict: COMPLETE
+- Tally: see end of section
+- Indonesia's own way: the revised Kurikulum Merdeka PJOK book is concept-first, not sport-by-sport: pupils learn how movement skills are acquired, how tactics and space work, and how teams function, practising through small-sided games (4v4 volleyball, 3v3 handball, give-and-go) rather than drilling one sport's technique at a time. Health sits inside the same book as fitness and healthy-lifestyle chapters.
+- Combined book: PE parts placed here; the fitness/healthy-life health parts are placed in indonesia-health-placements.md (Book 1 there).
+
+Tally (Book 1, PE): 27 placements — 7 to existing lessons, 20 NEW LESSON NEEDED. Excluded per brief: Uji Kompetensi chapter tests and Refleksi/Pengayaan items (assessment/enrichment), Glosarium (inventory only).
+
+**Book — PJOK G7 Teacher (teacher guide):**
+## Book 2 — PJOK G7 Teacher (teacher guide, Indonesian)
+- Title as printed: Panduan Guru Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SMP/MTs Kelas VII
+- Grade: 7 (student/teacher: TEACHER)
+- Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-623-388-739-7 (jil.1 PDF)
+- PDF pages: 248 (cover verified against the record title; byte size 7,127,838 = record)
+- Verdict: COMPLETE
+- Indonesia's own way: the guide mirrors the student book chapter by chapter (Panduan Khusus per Bab) with prerequisite concepts, apperception, pre-learning checks, a step-by-step teaching walk-through of the student book, follow-up (remedial/enrichment), summative assessment and answer keys; the assessment, answer-key and reflection parts are excluded per the brief, and the chapter teaching walk-throughs are placed below.
+- Combined book: PE parts placed here; the health-chapter teaching guides (Bab V–VI) are placed in indonesia-health-placements.md (Book 2 there).
+
+Tally (Book 2, PE): 5 placements — 2 to existing lessons, 3 NEW LESSON NEEDED.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — training movement skills: locomotor, non-locomotor and manipulative fundamental skills and how they are practised (original target `moving-basics/fundamental-movement-skills`) | Indonesia, *PJOK G7 Student*, Bab I A Melatih Keterampilan Gerak, printed p. 3 |
+| Indonesia — how basic movement skills combine into sport-specific skills (original target `moving-basics/from-basic-to-sport-specific-skills`) | Indonesia, *PJOK G7 Student*, Bab I B Hubungan Keterampilan Gerak Dasar dan Keterampilan Gerak Spesifik Olahraga, printed p. 7 |
+| Indonesia — how to teach the movement-skills chapter: sequencing locomotor/non-locomotor/manipulative practice and feedback (teacher guide — evidence) (original target `moving-basics/fundamental-movement-skills`) | Indonesia, *PJOK G7 Teacher*, Panduan Khusus Bab I E Panduan Pembelajaran Buku Siswa, printed p. 48 |
+
+Indonesia's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Indonesia's own way is content, as the book lines above record it for each book stocked here. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+This is a canonical NEW lesson (slug-registry Part 1: `moving-basics/fundamental-movement-skills` — Fundamental movement skills: locomotor, non-locomotor and manipulative skills — the basics every sport is built from.); Indonesia's placements were filed under the original strings recorded in the provenance rows above, resolved by registry Part 2 to this canonical slug where the string differs. Indonesia is student-book stock, inside the acceptance count, in this lesson; the Indonesia teacher guides stocked here are teacher-guide evidence only, outside the acceptance count.
+
+Searchable tags: fundamental movement skills, Indonesia, PJOK G7 Student, PJOK G7 Teacher

@@ -1,8 +1,8 @@
 # Sources — Skill-Related Fitness
 
-countries: Iran, Jordan
+countries: Iran, Jordan, Indonesia
 
-**Acceptance count: taught in 2 countries (Iran, Jordan).** Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Iran is student-book stock (see its rows below), inside the acceptance count.
+**Acceptance count: taught in 2 countries (Iran, Jordan).** Jordan is added as student-book stock (see its Jordan section below), inside the acceptance count. Iran is student-book stock (see its rows below), inside the acceptance count. Indonesia is added as teacher-guide evidence only (see its Indonesia section below), named in the countries line but outside the acceptance count.
 
 ## Iran — PE expansion 2026-11-16
 
@@ -47,3 +47,29 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/jordan-pe-pl
 | Jordan — Unit 4 Coordination Games, Lesson 1: Motor Coordination — doing two or more movements at the same time; safe partner play (original target `fitness-and-stretching/coordination-games`) | Jordan Grade 3 PE Term 2, printed p. 7 |
 
 Jordan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Jordan is student-book stock, inside the acceptance count, in this lesson. Jordan's own way is content, as the book lines above record it. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Indonesia — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/indonesia-pe-placements.md. Indonesia's PJOK books are the Kurikulum Merdeka Pendidikan Jasmani, Olahraga, dan Kesehatan (Physical Education, Sport and Health) student books and teacher guides for Grades 7–12, read in full from the official SIBI / Kemendikdasmen ministry PDFs: the GitHub tree route returned 404 for every secured record (files absent from the repo — phantom-push library debts, as the placements file records), every book's byte size was verified against its download-list record and its cover verified, and the file was staged into its phase3-staging path under the push-don't-delete rule. The books' health parts (the fitness and healthy-life chapters, fair play, nutrition, sedentary behaviour, first aid and personal and social health) are filed in indonesia-health-placements.md and placed in the Health course. The Indonesia books stocked in this lesson are Book 12. Indonesia's rows in this lesson rest on teacher-guide evidence only — Book 12, its Grade 12 PJOK teacher guide, an older sport-by-sport unit guide that does NOT mirror the 2025 Merdeka Grade 12 student book, filed as its own book as the placements file records; Indonesia is named in the countries line and in the rows below, but outside the acceptance count.
+
+**Book — PJOK G12 Teacher (teacher guide):**
+## Book 12 — PJOK G12 Teacher (teacher guide, Indonesian)
+- Title as printed: Buku Panduan Guru Pendidikan Jasmani, Olahraga, dan Kesehatan untuk SMA/MA Kelas XII
+- Grade: 12 (student/teacher: TEACHER)
+- Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2022; ISBN 978-602-427-976-9 (jil.2)
+- PDF pages: 328 (cover verified against the record title; byte size 18,427,360 = record)
+- Verdict: COMPLETE — NOTE: this guide is the older sport-by-sport unit guide (10 units: basketball, volleyball, softball, high jump, pencak silat, gymnastics, rhythmic movement, backstroke swimming, skill-related fitness, sexually transmitted diseases); it does NOT mirror the 2025 Merdeka Grade 12 student book (Book 11) — it is a different, earlier guide for the same grade, filed as its own book.
+- Indonesia's own way: unlike the concept-first Merdeka books, this guide teaches one sport per unit through attack/defence patterns in modified small-sided games (fast break progressions, 3-1-2 volleyball defence, softball hit-and-run and double play, straddle and Scots high jump, floor-gymnastics sequences).
+- Combined book: PE parts placed here; Unit 10 (Penyakit Menular Seksual) is placed in indonesia-health-placements.md (Book 12 there).
+
+Tally (Book 12, PE): 9 placements — 3 to existing lessons, 6 NEW LESSON NEEDED. Excluded per brief: unit assessments and apparatus-only items, Glosarium (inventory only).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Indonesia — skill-related fitness training (step-ups, muscle-endurance work, squat, push-up, pull-up, sit-up) (teacher guide — evidence) (original target `fitness-and-stretching/skill-related-fitness`) | Indonesia, *PJOK G12 Teacher*, Unit 9 Aktivitas Kebugaran Jasmani Terkait Keterampilan, printed p. 245 |
+
+Indonesia's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Indonesia's own way is content, as the book lines above record it for each book stocked here. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+This is a canonical NEW lesson (slug-registry Part 1: `fitness-and-stretching/skill-related-fitness` — Skill-related fitness: coordination and the fitness skills — doing movements together smoothly, trained through coordination games.); Indonesia's placements were filed under the original strings recorded in the provenance rows above, resolved by registry Part 2 to this canonical slug where the string differs. Indonesia's rows in this lesson rest on teacher-guide evidence only — Book 12, its Grade 12 PJOK teacher guide, an older sport-by-sport unit guide that does NOT mirror the 2025 Merdeka Grade 12 student book, filed as its own book as the placements file records; Indonesia is named in the countries line and in the rows below, but outside the acceptance count.
+
+Searchable tags: skill related fitness, Indonesia, PJOK G12 Teacher
