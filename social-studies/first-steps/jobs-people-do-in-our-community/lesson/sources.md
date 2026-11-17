@@ -1,6 +1,6 @@
 # Sources — Jobs People Do in Our Community
 
-countries: Latvia, Philippines, Serbia, Bangladesh
+countries: Latvia, Philippines, Serbia, Bangladesh, Turkey
 
 **Book 1:** *Sociālās zinības 1. klase* (teacher guide, Latvian) — Latviešu valodas aģentūra (Latvian Language Agency); year 2023; ISBN 978-9934-617-33-1. Title as printed: Sociālās zinības 1. klase — Latviešu valodas un sociālo zinību satura integrēta apguve lingvistiski neviendabīgā vidē — Metodisks līdzeklis skolotājam. Grade: Grade 1 (student/teacher: TEACHER). PDF pages: 61 (cover/title page verified against the record title — author Linda Krastiņa and ISBN match the record exactly). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Integrated SS (school life) printed pp. 7–17; Morals/Values (safe relationships, honesty, emotions) printed pp. 18–21; Culture in society (family/class festivals) printed pp. 22–24; Integrated SS (work/jobs, wants and needs) printed pp. 25–27; Appendices (worksheets/apparatus, inventory only) printed pp. 28–60. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/latvia-placements-b.md. Teacher guide — evidence only, outside the acceptance count.
 
@@ -23,7 +23,16 @@ countries: Latvia, Philippines, Serbia, Bangladesh
 |---|---|
 | Bangladesh part — first-steps/professional-communities-people-who-serve-us — Similarities and Differences between People — teaches: professional communities — cleaners, doctors, nurses and others each keep society running (a hospital stops without its cleaners), found by inquiry around the school — Bangladesh Grade 7 BD G7 HSS, printed pp. 45–46 | Bangladesh, *History and Social Science, Class Seven (Experimental version)* (student book), Similarities and Differences between People — printed pp. 45–46 |
 
-**Acceptance count: taught in 3 countries (Philippines, Serbia, Bangladesh). Latvia is named here as teacher-guide evidence only, counted nowhere.**
+**Book 6 (Turkey):** *Hayat Bilgisi 3. Sınıf, 1. Kitap* (student book, Turkish) — Title as printed: İlkokul Hayat Bilgisi 3. Sınıf Ders Kitabı — 1. Kitap (authors Dr. Nagihan Şahin, Betül Altuntaş, Gürhan Dikmen, Hüseyin Güleç, Nurgül Genç). Grade: Grade 3 (student/teacher: STUDENT). Publisher: Millî Eğitim Bakanlığı (MEB), Devlet Kitapları; approved as a teaching tool by the TTKB 13.07.2026; ISBN 978-975-11-9895-2. PDF pages: 117 (file 79,552,622 bytes from cdn.eba.gov.tr, matching the record's 75.9 MB; cover and title page verified — "HAYAT BİLGİSİ 3. Sınıf, 1. Kitap"). Earlier waves: not read before. Verdict: COMPLETE (for Book 1 — areas 4–6 sit in Book 2, filed below as Book 7). Contents map: Integrated SS / Civics pp. 12–41 (Area 1 Ben ve Okulum: I am strong and developing; I have rights and responsibilities too; I am a child, I exist with my rights); Health/Safety pp. 42–73 (Area 2 Sağlığım ve Güvenliğim: protecting my health, situations that threaten our safety, the importance of traffic rules — Health course / Geography strand, named not placed); Integrated SS / Morals pp. 74–102 (Area 3 Ailem ve Toplum: family and society, mutual help, occupations); Civics (special-days spreads) pp. 14–15, 44, 76–77; end maps pp. 114–115 (Geography, named not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/turkey-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey part — first-steps/occupations-the-jobs-people-do-around-us — Area 3: Meslekler (Occupations) — teaches: the jobs people do around us and what each is for, met through riddles and visiting parents — doctor, dentist, firefighter, teacher, pilot, farmer, police officer, engineer — and why every occupation matters to the community — Turkey Grade 3 Hayat Bilgisi 1. Kitap, printed p. 93 | Turkey, *Hayat Bilgisi 3. Sınıf, 1. Kitap* (student book), Area 3: Meslekler (Occupations) — printed p. 93 |
+
+**Acceptance count: taught in 4 countries (Philippines, Serbia, Bangladesh, Turkey). Latvia is named here as teacher-guide evidence only, counted nowhere.**
+
+Turkey's own way (Hayat Bilgisi 3. Sınıf, 1. Kitap): Grade 3 is where Hayat Bilgisi turns explicitly civic: an eight-year-old is taught that rights and responsibilities are a pair, and then reads the UN Convention on the Rights of the Child itself — in a child-worded card set (definition of the child, no discrimination, best interests, life and development) — two years before any civics course exists.
+
 
 Bangladesh's own way (Grade 7): civics is learned by doing it — the class runs a real club election with an Election Commission, code of conduct and manifestos, then sits as a Shadow Parliament and passes a law, and only then is told that the national Parliament works the same way; sociology is anchored in living communities the class visits (the Bedey boat fleet) and in guests the class interviews (Sharifa, a third-gender person).
 
@@ -35,6 +44,8 @@ Philippines's own way: Grade 2 social studies is organised by community ("Buhay 
 Serbia's own way (Grade 2 Свет око нас): the second year widens the circles again — family rules are now made by all members together, the settlement's people become "fellow citizens" with shared things (street, park, river, school, bus are all "ours"), and the state enters through its symbols: flag, coat of arms and the anthem "Боже правде", with the behaviour owed while it plays.
 
 Registry note: the original coined string `culture-and-work/peoples-jobs-in-village-and-town` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/jobs-people-do-in-our-community`.
-Searchable tags: jobs people do in our community, Latvia, Philippines, Serbia, social studies, first-steps, Bangladesh
+Searchable tags: jobs people do in our community, Latvia, Philippines, Serbia, social studies, first-steps, Bangladesh, Turkey
 
 Registry note: the original coined string `first-steps/professional-communities-people-who-serve-us` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/jobs-people-do-in-our-community`.
+
+Registry note: the original coined string `first-steps/occupations-the-jobs-people-do-around-us` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/jobs-people-do-in-our-community`.

@@ -1,6 +1,6 @@
 # Sources — Our Rights and Duties
 
-countries: Maldives, Samoa, Albania, Fiji
+countries: Maldives, Samoa, Albania, Fiji, Turkey
 
 **Book 1:** *Exploring Social Studies 4* (student book, English) — Title as printed: Exploring Social Studies 4. Grade: Grade 4 (student/teacher: STUDENT). Publisher: National Institute of Education, Ministry of Education, Maldives; year 2025 (first published 2025); ISBN 978-99915-0-954-9. PDF pages: printed pagination 1–189 plus front matter (read in full via the NIE download's indexed full text — the direct file download from this host failed on every attempt: the WPDM link's refresh token returns an error to shell downloads, so the book could NOT be staged; see the group log. Cover, title page, ISBN and contents verified against the record title in the indexed text.) Earlier waves: not read before. Verdict: COMPLETE — contents-mapped in full; Units 1, 5 and 6 (the remaining strands) read page by page. Contents map: Integrated SS printed pp. 1–30 (Unit 1 Belonging & Connections); Civics/Citizenship/Government pp. 131–160 (Unit 5 Living Together); Culture in society pp. 161–189 (Unit 6 We the Maldivians); Geography pp. 31–76 (Unit 2 People, Places and the Environment — named, not placed); History pp. 77–98 and 183–188 (Unit 3 Time, Continuity and Change; §6.4 Our National Heroes — named, not placed); Economics pp. 99–130 (Unit 4 The Economic World — named, not placed); Religion within §5.2 (Islam teaches peace and harmony — named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/maldives-placements-b.md.
 
@@ -21,7 +21,16 @@ countries: Maldives, Samoa, Albania, Fiji
 | Albania part — culture-and-work/my-rights-and-my-responsibilities — 2.2 Të drejtat, përgjegjësitë (Rights, responsibilities) — teaches: a child's rights paired with their own responsibilities — Albania Grade 5 Qytetaria teacher guide, printed p. 36 (TEACHER) | Albania, *Libër Mësuesi Qytetaria 5* (teacher guide), 2.2 Të drejtat, përgjegjësitë (Rights, responsibilities) — printed p. 36 (teacher guide — evidence) |
 | Fiji part — culture-and-work/our-rights-and-duties — Strand 1.2 Rights and Responsibilities — teaches: rights come with responsibilities; families, groups and classrooms have written and unwritten rules; a child's rights (safe home, expressing opinions, equal treatment, respected religion, language and culture, taking part in decisions) paired with their responsibilities — and leaders are chosen by election — Fiji Grade 7 Year 7 Social Science Pupil's Book, printed p. 24 | Fiji, *Year 7 Social Science Pupil's Book* (student book), Strand 1.2 Rights and Responsibilities — printed p. 24 |
 
-**Acceptance count: taught in 3 countries (Maldives, Samoa, Fiji). Albania is named here as teacher-guide evidence only, counted nowhere.**
+**Book 6 (Turkey):** *Hayat Bilgisi 3. Sınıf, 1. Kitap* (student book, Turkish) — Title as printed: İlkokul Hayat Bilgisi 3. Sınıf Ders Kitabı — 1. Kitap (authors Dr. Nagihan Şahin, Betül Altuntaş, Gürhan Dikmen, Hüseyin Güleç, Nurgül Genç). Grade: Grade 3 (student/teacher: STUDENT). Publisher: Millî Eğitim Bakanlığı (MEB), Devlet Kitapları; approved as a teaching tool by the TTKB 13.07.2026; ISBN 978-975-11-9895-2. PDF pages: 117 (file 79,552,622 bytes from cdn.eba.gov.tr, matching the record's 75.9 MB; cover and title page verified — "HAYAT BİLGİSİ 3. Sınıf, 1. Kitap"). Earlier waves: not read before. Verdict: COMPLETE (for Book 1 — areas 4–6 sit in Book 2, filed below as Book 7). Contents map: Integrated SS / Civics pp. 12–41 (Area 1 Ben ve Okulum: I am strong and developing; I have rights and responsibilities too; I am a child, I exist with my rights); Health/Safety pp. 42–73 (Area 2 Sağlığım ve Güvenliğim: protecting my health, situations that threaten our safety, the importance of traffic rules — Health course / Geography strand, named not placed); Integrated SS / Morals pp. 74–102 (Area 3 Ailem ve Toplum: family and society, mutual help, occupations); Civics (special-days spreads) pp. 14–15, 44, 76–77; end maps pp. 114–115 (Geography, named not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/turkey-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey part — culture-and-work/my-rights-and-my-responsibilities — Area 1: Hakkım da Var Sorumluluğum da (I have rights, and responsibilities too) — teaches: at home and at school we hold rights and responsibilities as a pair (playing is a right, tidying the toys afterwards a responsibility); knowing and using our rights, respecting others' rights, and doing our duties keeps school safe, healthy, happy and successful — worked through an imagined school, an interview with a teacher or manager, and a class-agreed rights-and-duties list on the class board — Turkey Grade 3 Hayat Bilgisi 1. Kitap, printed p. 24 | Turkey, *Hayat Bilgisi 3. Sınıf, 1. Kitap* (student book), Area 1: Hakkım da Var Sorumluluğum da (I have rights, and responsibilities too) — printed p. 24 |
+
+**Acceptance count: taught in 4 countries (Maldives, Samoa, Fiji, Turkey). Albania is named here as teacher-guide evidence only, counted nowhere.**
+
+Turkey's own way (Hayat Bilgisi 3. Sınıf, 1. Kitap): Grade 3 is where Hayat Bilgisi turns explicitly civic: an eight-year-old is taught that rights and responsibilities are a pair, and then reads the UN Convention on the Rights of the Child itself — in a child-worded card set (definition of the child, no discrimination, best interests, life and development) — two years before any civics course exists.
+
 
 Maldives's own way: belonging widens in rings — me, family, school, island, atoll, country, world — and citizenship is taught through the island itself: its councilors, its roads, its flag and its crafts.
 
@@ -38,4 +47,6 @@ Registry note: the original coined string `culture-and-work/my-rights-and-my-res
 
 Fiji's own way (Grade 7): Identity is taught as "what makes you who you are" — family, friends, school, church, province and culture — and valuing cultures starts from respecting your own roots.
 
-Searchable tags: our rights and duties, Maldives, Samoa, social studies, culture-and-work, Albania, Fiji
+Searchable tags: our rights and duties, Maldives, Samoa, social studies, culture-and-work, Albania, Fiji, Turkey
+
+Registry note: the original coined string `culture-and-work/my-rights-and-my-responsibilities` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/our-rights-and-duties`.

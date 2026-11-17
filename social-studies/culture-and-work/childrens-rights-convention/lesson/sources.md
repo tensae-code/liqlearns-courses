@@ -1,6 +1,6 @@
 # Sources — Childrens Rights Convention
 
-countries: Uganda, Bangladesh
+countries: Uganda, Bangladesh, Turkey
 
 **Book 1:** *Social Studies Home-Study Learning, Primary Four* (student book, English) — Title as printed: Social Studies Home-Study Learning — Primary Four (NCDC home-study booklet, COVID-19 continued learning). Grade: Primary 4 (student/teacher: STUDENT). Publisher: National Curriculum Development Centre (NCDC), Uganda; 2020; no ISBN printed. PDF pages: 42 (cover/title verified against the record; fetched from the record's source_url after grab.py failed — see log route note). Earlier waves: Geography wave placed Term One physical features/vegetation, settlement, work types and the transport part of the Transport and Security lesson; History wave placed the People in Our District legends; Economics wave placed work/way-of-life parts and How to Meet People's Needs in Our District (printed p. 30). Verdict: COMPLETE — contents-first read; the remaining-strand (Term Three civics/services) parts below read fully page by page. Contents map: Civics/Citizenship/Government printed pp. 21–29, 31–35; Integrated SS printed pp. 30–35; Geography printed pp. 3–19; History (legends) Term Two; Economics printed pp. 15–19, 30. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/uganda-placements.md.
 
@@ -19,7 +19,16 @@ countries: Uganda, Bangladesh
 |---|---|
 | Bangladesh part — global-issues/childrens-rights-crc — Social Structure in Personal Life — teaches: the Convention on the Rights of the Child (adopted 1989, 54 articles) — children's rights to health, education, family life and protection from abuse and discrimination; Bangladesh was among the first to sign and ratify, and the state, parents, teachers and every responsible citizen share the duty — Bangladesh Grade 9 BD G9-10 HSS, printed pp. 120–121 | Bangladesh, *History and Social Science, Class Nine (Experimental version)* (student book), Social Structure in Personal Life — printed pp. 120–121 |
 
-**Acceptance count: taught in 2 countries (Uganda, Bangladesh).**
+**Book 6 (Turkey):** *Hayat Bilgisi 3. Sınıf, 1. Kitap* (student book, Turkish) — Title as printed: İlkokul Hayat Bilgisi 3. Sınıf Ders Kitabı — 1. Kitap (authors Dr. Nagihan Şahin, Betül Altuntaş, Gürhan Dikmen, Hüseyin Güleç, Nurgül Genç). Grade: Grade 3 (student/teacher: STUDENT). Publisher: Millî Eğitim Bakanlığı (MEB), Devlet Kitapları; approved as a teaching tool by the TTKB 13.07.2026; ISBN 978-975-11-9895-2. PDF pages: 117 (file 79,552,622 bytes from cdn.eba.gov.tr, matching the record's 75.9 MB; cover and title page verified — "HAYAT BİLGİSİ 3. Sınıf, 1. Kitap"). Earlier waves: not read before. Verdict: COMPLETE (for Book 1 — areas 4–6 sit in Book 2, filed below as Book 7). Contents map: Integrated SS / Civics pp. 12–41 (Area 1 Ben ve Okulum: I am strong and developing; I have rights and responsibilities too; I am a child, I exist with my rights); Health/Safety pp. 42–73 (Area 2 Sağlığım ve Güvenliğim: protecting my health, situations that threaten our safety, the importance of traffic rules — Health course / Geography strand, named not placed); Integrated SS / Morals pp. 74–102 (Area 3 Ailem ve Toplum: family and society, mutual help, occupations); Civics (special-days spreads) pp. 14–15, 44, 76–77; end maps pp. 114–115 (Geography, named not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/turkey-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey part — culture-and-work/i-am-a-child-i-have-rights-the-un-convention — Area 1: Çocuğum, Haklarımla Varım (I am a child, I exist with my rights) — teaches: from birth children hold rights — a name and identity, life, healthy food, school, play; the UN Convention on the Rights of the Child protects them, and its cards are read one by one: everyone under 18 is a child, no discrimination, the child's best interest first, the right to live, survive and develop, and the state must watch over these rights — Turkey Grade 3 Hayat Bilgisi 1. Kitap, printed p. 33 | Turkey, *Hayat Bilgisi 3. Sınıf, 1. Kitap* (student book), Area 1: Çocuğum, Haklarımla Varım (I am a child, I exist with my rights) — printed p. 33 |
+
+**Acceptance count: taught in 3 countries (Uganda, Bangladesh, Turkey).**
+
+Turkey's own way (Hayat Bilgisi 3. Sınıf, 1. Kitap): Grade 3 is where Hayat Bilgisi turns explicitly civic: an eight-year-old is taught that rights and responsibilities are a pair, and then reads the UN Convention on the Rights of the Child itself — in a child-worded card set (definition of the child, no discrimination, best interests, life and development) — two years before any civics course exists.
+
 
 Bangladesh's own way (Grade 9–10): civics becomes a full field manual — pupils questionnaire a real Union Parishad chairman and their own headteacher, then learn the whole local-government ladder tier by tier with membership counts, and meet the United Nations through Bangladesh's own seat in it (Bangabandhu's 1974 Bengali speech) before the Charter is summarised.
 
@@ -27,6 +36,8 @@ Uganda's own way (Uganda Grade 4 P4 SST Home-Study): the district is the child's
 
 Uganda's own way (Uganda Excel P6 SST): P6 looks outward and inward at once — the East African Community's own organs and symbols beside the member states' flags, then the citizen: what citizenship is, the child's rights, what violating rights looks like (mob justice named plainly), and how elections actually run.
 
-Searchable tags: childrens rights convention, Uganda, social studies, culture-and-work, Bangladesh
+Searchable tags: childrens rights convention, Uganda, social studies, culture-and-work, Bangladesh, Turkey
 
 Registry note: the original coined string `global-issues/childrens-rights-crc` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/childrens-rights-convention`.
+
+Registry note: the original coined string `culture-and-work/i-am-a-child-i-have-rights-the-un-convention` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/childrens-rights-convention`.

@@ -1,0 +1,18 @@
+# Sources — Being a Good Friend
+
+countries: Turkey
+
+**Book 1:** *Hayat Bilgisi 2. Sınıf, 1. Kitap* (student book, Turkish) — Title as printed: İlkokul Hayat Bilgisi 2. Sınıf Ders Kitabı — 1. Kitap (authors Dr. Nagihan Şahin, Betül Altuntaş, Gürhan Dikmen, Hüseyin Güleç, Nurgül Genç). Grade: Grade 2 (student/teacher: STUDENT). Publisher: Millî Eğitim Bakanlığı (MEB), Devlet Kitapları; printed 2025; ISBN 978-975-11-8768-0. PDF pages: 126 (repo file 65,118,982 bytes, cover verified by the earlier waves; this wave's grab.py attempts failed on the down GitHub egress, so the book was read from the earlier waves' own full text extract of that same verified repo file, kept in the Geography/History wave scratch — contents and every remaining-strand topic read from it). Earlier waves: Geography wave placed p. 60 (traffic signs) and the two end maps pp. 123–124 / History wave placed the Belirli Gün ve Haftalar national-days poems of Areas 1–2 (pp. 12–13, 46) as the lesson now existing as first-steps/turkeys-national-days-republic-day-and-remembering-ataturk — ALREADY PLACED, not placed again here / Economics wave filed the book RECORD-ONLY (no Economics parts; its contents evidence names the same areas placed here). Verdict: COMPLETE (for Book 1 / Semester 1 — areas 4–6 sit in Book 2, a link record below). Contents map: Integrated SS pp. 10–43 (Area 1 Ben ve Okulum: planning, communication, friendship, class decision-making); Health/Safety pp. 44–77 (Area 2 Sağlığım ve Güvenliğim: healthy habits, online safety, traffic signs, emergencies — Health course, named not placed, except traffic signs placed by the Geography wave); Integrated SS / Civics / Morals pp. 78–102 (Area 3 Ailem ve Toplum: my family, courtesy and manners in society, my duties and responsibilities); Civics (special-days poems) pp. 12–13, 46, 80–81 (national days placed by the History wave; the helping/values days placed below). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/turkey-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — first-steps/friendship-how-friends-treat-each-other — Area 1: Arkadaşlık İlişkilerimiz (Our friendship relations) — teaches: in friendship both sides are affected by each other's behaviour; telling positive from negative behaviour in case situations (the forgotten pencil case, the friend who wants to play ball), growing the positive, and checking one's own friendship behaviour on a checklist — Turkey Grade 2 Hayat Bilgisi 1. Kitap, printed p. 28 | Turkey, *Hayat Bilgisi 2. Sınıf, 1. Kitap* (student book), Area 1: Arkadaşlık İlişkilerimiz (Our friendship relations) — printed p. 28 |
+| Sub lesson 2 — Turkey's way — the book's own teaching way | Turkey — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Turkey).**
+
+Turkey's own way (Hayat Bilgisi 2. Sınıf, 1. Kitap): Hayat Bilgisi (Life Studies) is Turkey's integrated primary subject, rebuilt under the Türkiye Yüzyılı Maarif Modeli as six learning areas; this first book runs Me-and-My-School → My Health and Safety → My Family and Society, every topic in the same rhythm (remember, explore, knowledge journey, practise, what we learned), with the year's special days carried as poems at the head of each area and the Student Oath (Andımız) printed at the front.
+
+Searchable tags: being a good friend, Turkey, social studies, culture-and-work
+
+Registry note: the original coined string `first-steps/friendship-how-friends-treat-each-other` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/being-a-good-friend`.

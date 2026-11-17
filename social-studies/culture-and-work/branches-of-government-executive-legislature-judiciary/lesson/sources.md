@@ -1,6 +1,6 @@
 # Sources — Branches of Government Executive Legislature Judiciary
 
-countries: Kiribati, Micronesia, Philippines, Yemen, Bhutan, Afghanistan, Eritrea, Belarus, Venezuela
+countries: Kiribati, Micronesia, Philippines, Yemen, Bhutan, Afghanistan, Eritrea, Belarus, Venezuela, Turkey
 
 **Book 1:** *Social Science Teacher Guide, Year 8, Term 1* (teacher guide, English) — written, edited and formatted by the Curriculum Development and Assessment Division, Ministry of Education, Kiribati (developed with Australian Government support, per the acknowledgment page); year no year printed in the pages read; ISBN no ISBN printed. Title as printed: TEACHER GUIDE — Social Science — Year 8 — Term 1. Grade: Year 8 (student/teacher: TEACHER). PDF pages: 102 (cover verified: "Teacher Guide / Social Science / Year 8 / Term 1" under the Kiribati crest matches the record; 5,754,618 bytes; fetched via the drive.usercontent.google.com route after the uc route timed out). Earlier waves: not read before. Verdict: COMPLETE. Contents map: History printed pp. 17–42 (Unit 1 Decolonisation — Banaba phosphate, nuclear testing, colonised/decolonised countries); Geography pp. 43–64 (Unit 2 Population Studies); Civics/Citizenship/Government pp. 65–73 information + teaching activities to p. 101 (Unit 3, Strand 4 Governance). The links file’s second Year 8 record ("Copy of Yr 8 Social Science TG Term 1 CDRC PRINT READY VERSION") is a byte-for-byte duplicate of this book (102 pages, 5,754,618 bytes, SHA-256 identical), filed record-only, not re-read and not staged twice. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/kiribati-placements.md. Teacher guide — evidence only, outside the acceptance count.
 
@@ -50,7 +50,16 @@ countries: Kiribati, Micronesia, Philippines, Yemen, Bhutan, Afghanistan, Eritre
 |---|---|
 | Venezuela part 1 — culture-and-work/five-public-powers — Eso que llamamos poderes públicos, ¿qué es? — teaches: what we call the public powers — once a king in Spain held all powers; now the sovereign is the people, exercising sovereignty through five public powers: to the three traditional ones (Legislative, Executive, Judicial — Montesquieu's division against absolutism) the 1999 Constitution added two Bolívar had imagined: the Citizen Power, exercised by the Moral Council of the Republic (Ombudsman/Defensoría del Pueblo, Public Prosecution/Fiscalía, Comptroller General), and the Electoral Power, exercised by the National Electoral Council, guarantor of fair, impartial, lawful elections — Venezuela Grade 5 G5 CS Venezuela y Su Gente, printed p. 140 | Venezuela, *Venezuela y su gente — Ciencias Sociales 5to Grado* (student book), Eso que llamamos poderes públicos, ¿qué es? — printed p. 140 |
 
-**Acceptance count: taught in 8 countries (Micronesia, Philippines, Yemen, Bhutan, Afghanistan, Eritrea, Belarus, Venezuela). Kiribati is named here as teacher-guide evidence only, counted nowhere.**
+**Book 13 (Turkey):** *Sosyal Bilgiler 7. Sınıf, 2. Kitap* (student book, Turkish) — Title as printed: Sosyal Bilgiler 7. Sınıf Ders Kitabı — 2. Kitap (editor Prof. Dr. Selahattin Kaymakcı). Grade: Grade 7 (student/teacher: STUDENT). Publisher: Millî Eğitim Bakanlığı (MEB) Yayınları; ISBN 978-975-11-9916-4. PDF pages: 151 (file 101,723,967 bytes from cdn.eba.gov.tr, matching the record's 97.0 MB; cover verified — "SOSYAL BİLGİLER 7. Sınıf, 2. Kitap"). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Civics pp. 10–73 (Area 4 Yaşayan Demokrasimiz: the qualities of the Republic of Turkey, the Republic's governing structure, the development of democracy in our country, problems met in applying democracy); Economics pp. 74–113 (Area 5 Hayatımızda Ekonomi: national development drives, the production–distribution–consumption cycle — named, not placed); Science / Technology pp. 114–150 (Area 6 Teknoloji ve Sosyal Bilimler: scientific and technological developments' effect on future life — named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/turkey-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey part — culture-and-work/how-the-turkish-republic-is-governed-separation-of-powers — Area 4: Türkiye Cumhuriyeti'nin Yönetim Yapısı (The governing structure of the Republic of Turkey) — teaches: the state's three powers balance each other — the legislative makes the laws, the executive carries them out, the judiciary secures justice — under the 1982 Constitution; contrasted with the National Struggle years, when the assembly-government system gathered legislation and execution (and partly the judiciary) in the Grand National Assembly itself — Turkey Grade 7 Sosyal Bilgiler 2. Kitap, printed p. 25 | Turkey, *Sosyal Bilgiler 7. Sınıf, 2. Kitap* (student book), Area 4: Türkiye Cumhuriyeti'nin Yönetim Yapısı (The governing structure of the Republic of Turkey) — printed p. 25 |
+
+**Acceptance count: taught in 9 countries (Micronesia, Philippines, Yemen, Bhutan, Afghanistan, Eritrea, Belarus, Venezuela, Turkey). Kiribati is named here as teacher-guide evidence only, counted nowhere.**
+
+Turkey's own way (Sosyal Bilgiler 7. Sınıf, 2. Kitap): the course ends where citizenship becomes constitutional: thirteen-year-olds read Articles 1–3 of their own constitution (the ones that cannot even be proposed for change), separate the state's three powers, walk democracy's road from the Tanzimat edicts to the first multi-party election of 1946, and finish by naming the behaviours that wound democracy in daily life.
+
 
 Kiribati's own way: Governance is taught as a citizen’s audit — pupils learn to tell good leadership from poor (with Fiji’s coups, Stalin and Saddam as the warning examples), then open up their own state: three branches, an elected Maneaba ni Maungatabu, a Beretitenti who must assent to bills yet can be overridden, and parliamentary broadcasts on Kiribati radio as everyday transparency.
 
@@ -76,7 +85,7 @@ Venezuela's own way (Venezuela Grade 5 G5 CS Venezuela y Su Gente): Grade 5's ci
 
 Registry note: the original coined string `culture-and-work/five-public-powers` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/branches-of-government-executive-legislature-judiciary`.
 
-Searchable tags: branches of government executive legislature judiciary, separation of powers, Kiribati, Micronesia, Philippines, Eritrea, social studies, culture-and-work, Yemen, Bhutan, Afghanistan, Belarus, Venezuela
+Searchable tags: branches of government executive legislature judiciary, separation of powers, Kiribati, Micronesia, Philippines, Eritrea, social studies, culture-and-work, Yemen, Bhutan, Afghanistan, Belarus, Venezuela, Turkey
 
 Afghanistan's own way (Grade 6 Social Studies): the Afghan state is taught as the child's own house — society needs a state as a family needs order; the 2004 constitution is the "mother law"; the two houses are named in Pashto (Wolesi Jirga, Meshrano Jirga) and every right (children's, women's, human dignity) is grounded first in Islam and then in the constitution's own articles.
 
@@ -95,3 +104,5 @@ Registry note: the original coined string `culture-and-work/a-democratic-state-r
 Registry note: the original coined string `culture-and-work/a-democratic-state-rule-of-law-and-separation-of-powers` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/branches-of-government-executive-legislature-judiciary`.
 
 PARTIAL note, carried exactly as filed: the Grade 9 book is a PARTIAL read — printed pp. 4–85 are missing from the scan; every provenance row from that book above keeps the PARTIAL label, exactly as filed.
+
+Registry note: the original coined string `culture-and-work/how-the-turkish-republic-is-governed-separation-of-powers` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/branches-of-government-executive-legislature-judiciary`.

@@ -1,6 +1,6 @@
 # Sources — National Unity
 
-countries: Afghanistan, Kuwait
+countries: Afghanistan, Kuwait, Turkey
 
 **Book 1:** *Social Studies, Grade 6 (دروس اجتماعی صنف ششم)* (student book, Dari) — Title as printed: دروس اجتماعی صنف ششم (Social Studies, Grade 6). Grade: 6 (student/teacher: STUDENT). Publisher: Ministry of Education, Afghanistan; year 1398 HS (2019/20) as printed; ISBN no ISBN printed. PDF pages: 106 (cover verified against the record title; 8,468,695 bytes via grab tree route — grab.py's Python route failed three times with proxy RemoteDisconnected, so the same Contents-API route was run through curl with byte-size and blob-SHA verification, matching the earlier waves' size exactly). Earlier waves: Geography wave placed Lessons 1 and 11 (our country; provinces) and Lessons 12–17 (the six neighbouring countries); History wave placed Lessons 26–34 (Afghanistan 1973–2004) and Lessons 35–50 (early Islamic history); Economics wave filed this book's Grade 4/5 companions UNREAD (tree 404) but did not hold this Grade 6 record. Verdict: COMPLETE — the remaining civics/values chapters (Chapter 1 state lessons and Chapter 3 "Peace and national unity") read page by page (printed pp. 3–17 and 35–49) and placed below. Contents map: Integrated SS pp. 1–2 (Lesson 1 our country — placed by Geography); Civics/Citizenship/Government pp. 3–17 (Lessons 2–9: need for a state, constitution, our state, National Council, Wolesi Jirga, Meshrano Jirga, executive, judiciary) and pp. 35–49 (Lessons 18–25: national unity, peace and security, public property, media ethics, human dignity, respecting the law, children's rights, women's rights); Geography pp. 21–33 (provinces; neighbours — placed by Geography); History pp. 19 (Lesson 10 glories of Afghanistan — named by History) and pp. 51–67 (recent events — placed by History); Religion pp. 69–99 (Islamic history — placed by History). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/afghanistan-placements.md.
 
@@ -11,12 +11,23 @@ countries: Afghanistan, Kuwait
 | Sub lesson 2 — Afghanistan's way — the book's own teaching way | Afghanistan — the book's own way of teaching (see below) |
 | Kuwait part — culture-and-work/national-unity — A Pause with Good Kuwait 1: National unity (الوحدة الوطنية) — teaches: Kuwaiti society historically as a living model of homogeneity, cohesion and accepting the other — its people living under one roof and one land — Kuwait Grade 8 Term 2, printed pp. 99–100 | Kuwait, *Social Studies G8 Term 2* (student book), A Pause with Good Kuwait 1: National unity (الوحدة الوطنية) — printed pp. 99–100 |
 
-**Acceptance count: taught in 2 countries (Afghanistan, Kuwait).**
+**Book 7 (Turkey):** *Hayat Bilgisi 3. Sınıf, 2. Kitap* (student book, Turkish) — Title as printed: İlkokul Hayat Bilgisi 3. Sınıf Ders Kitabı — 2. Kitap (authors Dr. Nagihan Şahin, Betül Altuntaş, Gürhan Dikmen, Hüseyin Güleç, Nurgül Genç). Grade: Grade 3 (student/teacher: STUDENT). Publisher: Millî Eğitim Bakanlığı (MEB), Devlet Kitapları; ISBN 978-975-11-9896-9. PDF pages: 129 (file 95,310,510 bytes from cdn.eba.gov.tr, matching the record's 90.9 MB; cover verified — "HAYAT BİLGİSİ 3. Sınıf, 2. Kitap"). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Civics pp. 12–49 (Area 4 Yaşadığım Yer ve Ülkem: historical places and natural beauties — Geography/History, named not placed; our country's form of government; Atatürk's achievements and character — History, named not placed; national unity and togetherness); Science / Geography / Safety pp. 50–89 (Area 5 Doğa ve Çevre: the importance of nature's beings — Science, named not placed; sketch maps and position — Geography, named not placed; before/during/after a disaster — Safety, named not placed; environmental sustainability); Science / Technology / Art pp. 90–116 (Area 6 Bilim, Teknoloji ve Sanat — named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/turkey-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey part — culture-and-work/national-unity-and-togetherness — Area 4: Millî Birlik ve Beraberlik (National unity and togetherness) — teaches: on national days and bayrams the whole country decks homes, schools and workplaces with flags and feels one — "birlikten kuvvet doğar" (strength is born of unity); Sedef's memory notebook moves through 29 October, 23 April, 19 May, 15 July and 30 August, and a national match gathers people the same way — Turkey Grade 3 Hayat Bilgisi 2. Kitap, printed p. 38 | Turkey, *Hayat Bilgisi 3. Sınıf, 2. Kitap* (student book), Area 4: Millî Birlik ve Beraberlik (National unity and togetherness) — printed p. 38 |
+
+**Acceptance count: taught in 3 countries (Afghanistan, Kuwait, Turkey).**
+
+Turkey's own way (Hayat Bilgisi 3. Sınıf, 2. Kitap): the republic is taught by research the children run themselves — interviewing family and school staff and searching the net to answer "how is our country governed, who serves in it, and what do we citizens contribute?" — and national unity is taught through one girl's memory notebook of the year's bayrams.
+
 
 Afghanistan's own way (Grade 6 Social Studies): the Afghan state is taught as the child's own house — society needs a state as a family needs order; the 2004 constitution is the "mother law"; the two houses are named in Pashto (Wolesi Jirga, Meshrano Jirga) and every right (children's, women's, human dignity) is grounded first in Islam and then in the constitution's own articles.
 
 Registry note: the original coined string `culture-and-work/national-unity-one-people-one-homeland` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/national-unity`.
 
-Searchable tags: national unity, Afghanistan, social studies, culture-and-work, Kuwait
+Searchable tags: national unity, Afghanistan, social studies, culture-and-work, Kuwait, Turkey
 
 Kuwait's own way (Grade 8 Term 2): Grade 8 Term 2 frames the whole Islamic world as one body of challenges and answers — wars, contested borders and besieged minorities on one side; on the other, an organisation with principles (self-determination, human rights, rule of law) and Kuwait itself cast as the helper-state — its Fund, its charities, its Red Crescent — while the values unit keeps the same virtues at home scale: unity, altruism, rushing to help, the mother's home clinic.
+
+Registry note: the original coined string `culture-and-work/national-unity-and-togetherness` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/national-unity`.

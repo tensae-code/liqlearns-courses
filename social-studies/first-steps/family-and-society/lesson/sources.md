@@ -1,6 +1,6 @@
 # Sources — Family and Society
 
-countries: Panama, Bahrain
+countries: Panama, Bahrain, Turkey
 
 **Book 2:** *Ciencias Sociales 1 — Cuaderno de trabajo — Primer grado* (student workbook, Spanish) — Ministerio de Educación de Panamá; year 2020; no ISBN printed. Title as printed: Ciencias Sociales 1 — Cuaderno de trabajo — Primer grado (Meduca, "Conéctate en casa" series). Grade: Grade 1 (student/teacher: STUDENT). PDF pages: 52 (downloaded via the Wayback capture of 2022-11-16 of the recorded Meduca file — the direct guias.meduca.gob.pa route failed repeatedly from this egress; cover and index verified against the record). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Integrated SS — Área 1 Naturaleza y sociedad en el espacio (family, family work) printed pp. 6–14; Área 2 Dinámica e interacción con el ambiente (housing, transport and communication) printed pp. 15–25; Civics — Área 3 Convivencia armónica (community living rules, duties and rights) printed pp. 26–37; History — Área 4 Acontecimientos históricos de los pueblos (community and national history, fiestas patrias) printed pp. 38–47 (named, not placed). Staged under the new rule: grade-01/gov/panama/social-studies/student/ciencias-sociales-1-cuaderno-de-trabajo.pdf (10,944,762 B as replayed) + books.json record. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/panama-placements-b.md.
 
@@ -12,10 +12,19 @@ countries: Panama, Bahrain
 | Sub lesson 2 — Panama's way — the book's own teaching way | Panama — the book's own way of teaching (see below) |
 | Sub lesson 1 — first-steps/the-family-and-society — Lesson 3 الأسرة والمجتمع (The family and society) — teaches: the family is society's first building block; the duties of the individual and the family toward society — raising children to bear responsibility, strengthening family bonds, teaching love of homeland and its customs — and how society's institutions shape the person in return — Bahrain Grade 4 BH Citizenship G4, printed p. 19 | Bahrain, *التربية للمواطنة للصف الرابع الابتدائي (Citizenship Education for the Fourth Primary Grade)* (student book), Lesson 3 الأسرة والمجتمع (The family and society) — printed p. 19 |
 
-**Acceptance count: taught in 2 countries (Panama, Bahrain).**
+**Book 6 (Turkey):** *Hayat Bilgisi 3. Sınıf, 1. Kitap* (student book, Turkish) — Title as printed: İlkokul Hayat Bilgisi 3. Sınıf Ders Kitabı — 1. Kitap (authors Dr. Nagihan Şahin, Betül Altuntaş, Gürhan Dikmen, Hüseyin Güleç, Nurgül Genç). Grade: Grade 3 (student/teacher: STUDENT). Publisher: Millî Eğitim Bakanlığı (MEB), Devlet Kitapları; approved as a teaching tool by the TTKB 13.07.2026; ISBN 978-975-11-9895-2. PDF pages: 117 (file 79,552,622 bytes from cdn.eba.gov.tr, matching the record's 75.9 MB; cover and title page verified — "HAYAT BİLGİSİ 3. Sınıf, 1. Kitap"). Earlier waves: not read before. Verdict: COMPLETE (for Book 1 — areas 4–6 sit in Book 2, filed below as Book 7). Contents map: Integrated SS / Civics pp. 12–41 (Area 1 Ben ve Okulum: I am strong and developing; I have rights and responsibilities too; I am a child, I exist with my rights); Health/Safety pp. 42–73 (Area 2 Sağlığım ve Güvenliğim: protecting my health, situations that threaten our safety, the importance of traffic rules — Health course / Geography strand, named not placed); Integrated SS / Morals pp. 74–102 (Area 3 Ailem ve Toplum: family and society, mutual help, occupations); Civics (special-days spreads) pp. 14–15, 44, 76–77; end maps pp. 114–115 (Geography, named not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/turkey-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey part — first-steps/family-and-society — Area 3: Aile ve Toplum (Family and society) — teaches: a family is bound by emotional ties such as love and respect; a society is made of individuals and families who share an environment and a history, and it has rules everyone must follow — when families keep society's rules, order is secured; the family supports its members and spends planned time together, including joining the neighbourhood muhtar's "let's green our neighbourhood" event — Turkey Grade 3 Hayat Bilgisi 1. Kitap, printed p. 78 | Turkey, *Hayat Bilgisi 3. Sınıf, 1. Kitap* (student book), Area 3: Aile ve Toplum (Family and society) — printed p. 78 |
+
+**Acceptance count: taught in 3 countries (Panama, Bahrain, Turkey).**
+
+Turkey's own way (Hayat Bilgisi 3. Sınıf, 1. Kitap): Grade 3 is where Hayat Bilgisi turns explicitly civic: an eight-year-old is taught that rights and responsibilities are a pair, and then reads the UN Convention on the Rights of the Child itself — in a child-worded card set (definition of the child, no discrimination, best interests, life and development) — two years before any civics course exists.
+
 
 Panama's own way (Panama Grade 1 Ciencias Sociales workbook): Grade 1 social studies is a home workbook ("Conéctate en casa") worked through with family; rights and duties are taught as "normas de convivencia" — the rules of living together — sorted by the child into family, school and community.
 
 Bahrain's own way (Bahrain Grade 4 BH Citizenship G4): citizenship is taught outwards from the child — homeland love and public property first, then the services of Bahrain's own government, the child's own rights under the UN Convention Bahrain ratified, choosing leaders from the class council up to the King, Crown Prince and Prime Minister, and finally Bahrain inside the Gulf Cooperation Council, its own regional family.
 
-Searchable tags: family and society, la familia, tipos de familias, Panama, Bahrain, social studies, first-steps
+Searchable tags: family and society, la familia, tipos de familias, Panama, Bahrain, social studies, first-steps, Turkey

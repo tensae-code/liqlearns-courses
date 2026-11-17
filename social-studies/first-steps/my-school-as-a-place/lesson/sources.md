@@ -1,6 +1,6 @@
 # Sources — My School as a Place
 
-countries: Fiji, Latvia, Mauritius, Ecuador, Yemen, Libya, Afghanistan, Eritrea, Serbia, Venezuela
+countries: Fiji, Latvia, Mauritius, Ecuador, Yemen, Libya, Afghanistan, Eritrea, Serbia, Venezuela, Turkey
 
 **Book 1:** *Social Studies Year 3 (Re-edited 2017)* (student book, English) — Fiji, Ministry of Education, Heritage & Arts, Curriculum Development Unit (with UNESCO / Fiji Memory of the World support); year 2017 (re-edited); ISBN no ISBN printed. Title as printed: Social Studies Year 3 (Re-edited 2017). Grade: Year 3 (student/teacher: STUDENT). PDF pages: 64 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: grab.py GitHub API failed (RemoteDisconnected, release route ×2 and tree route ×1); read instead from the books.json record's own Wayback source_url — the ministry original of the same book. Non-Geography parts named, not placed: Part One Strand 1 Social Organisation — Lesson 1 My Family (printed p. 5), Lesson 2 Family Relationships (p. 11), Lesson 3 Family Roles (p. 17); Strand 2 Time, Continuity and Change — Lesson 4 Cultural Background (p. 24). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
 
@@ -50,7 +50,16 @@ countries: Fiji, Latvia, Mauritius, Ecuador, Yemen, Libya, Afghanistan, Eritrea,
 | Venezuela part 4 — first-steps/my-school-as-a-place — En grupo pequeño se aprende mejor — teaches: in a small group you learn better — the school lesson on learning together in small groups rather than alone — Venezuela Grade 3 G3 CS Viva Venezuela, printed p. 14 | Venezuela, *¡Viva Venezuela! Ciencias Sociales 3er Grado* (student book), En grupo pequeño se aprende mejor — printed p. 14 |
 | Venezuela part 5 — first-steps/my-school-as-a-place — Nosotros somos la escuela — teaches: we are the school — the school is not just its building: the pupils, teachers and families who live it are the school — Venezuela Grade 3 G3 CS Viva Venezuela, printed p. 16 | Venezuela, *¡Viva Venezuela! Ciencias Sociales 3er Grado* (student book), Nosotros somos la escuela — printed p. 16 |
 
-**Acceptance count: taught in 8 countries (Fiji, Ecuador, Yemen, Libya, Afghanistan, Eritrea, Serbia, Venezuela). Latvia and Mauritius are named here as teacher-guide evidence only, counted nowhere.**
+**Book 2 (Turkey):** *Hayat Bilgisi 1. Sınıf, 1. Kitap* (student book, Turkish) — Title as printed: Hayat Bilgisi 1. Sınıf Ders Kitabı — 1. Kitap (authors Dr. Nagihan Şahin, Ali Hemde, Betül Altuntaş, Gürhan Dikmen, Hüseyin Güleç, Nuray Başpınar, Nurgül Genç, Selma Taşcı). Grade: Grade 1 (student/teacher: STUDENT). Publisher: Millî Eğitim Bakanlığı (MEB), Devlet Kitapları; printed 2024; ISBN 978-975-11-8009-4. PDF pages: 129 (file 93,446,814 bytes from cdn.eba.gov.tr, matching the record's 89.1 MB; cover and title page verified — "HAYAT BİLGİSİ 1. Sınıf, 1. Kitap"). Earlier waves: not read before (Geography/History/Economics waves read only the Grade 2 Book 1 of this series). Verdict: COMPLETE (for Book 1 — areas 4–6 sit in Book 2, filed below as Book 3). Contents map: Integrated SS pp. 14–47 (Area 1 Ben ve Okulum: meeting people, discovering my school, rules everywhere, how I look and what I feel); Health/Safety pp. 48–83 (Area 2 Sağlığım ve Güvenliğim: healthy life, my personal space, traffic rules, emergencies — Health course, named not placed; the traffic-rules topic is the Geography strand's, named not placed); Integrated SS / Morals pp. 84–108 (Area 3 Ailem ve Toplum: our home and family kinds, courtesy and manners at home, we are a good team — sharing jobs at home); Civics (special-days spreads) pp. 14–15, 50–51, 84–85; end maps pp. 126–127 (Geography, named not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/turkey-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey part — first-steps/my-school-as-a-place — Area 1: Okulumu Keşfediyorum (I discover my school) — teaches: the school's parts (classroom, principal's office, library, teachers' room, toilets) and its workers (principal and deputy run it, teachers guide learning, support staff keep it clean, safe and orderly), the classroom honour corner with the Turkish flag, the national anthem and Atatürk, and the tools we learn with — Turkey Grade 1 Hayat Bilgisi 1. Kitap, printed p. 22 | Turkey, *Hayat Bilgisi 1. Sınıf, 1. Kitap* (student book), Area 1: Okulumu Keşfediyorum (I discover my school) — printed p. 22 |
+
+**Acceptance count: taught in 9 countries (Fiji, Ecuador, Yemen, Libya, Afghanistan, Eritrea, Serbia, Venezuela, Turkey). Latvia and Mauritius are named here as teacher-guide evidence only, counted nowhere.**
+
+Turkey's own way (Hayat Bilgisi 1. Sınıf, 1. Kitap): the Grade 1 year opens school itself as the first society: a six-year-old first learns to introduce herself and listen, then the school's rooms and workers, then rules the class itself votes on, and only then the family as the second society — nuclear and extended family, the values that hold it together, and jobs shared like a team.
+
 
 Fiji's own way (Fiji Year 3 Social Studies): Expanding-circles ("cyclic") approach — starts with self/family and widens to community/nation/world in later years; place is learned through the child's own home and school first.
 
@@ -72,7 +81,7 @@ Venezuela's own way (Venezuela Grade 1 G1 CS Viva Venezuela): the child's own wo
 
 Venezuela's own way (Venezuela Grade 3 G3 CS Viva Venezuela): coexistence is the spine of the primary book — respect, rules, family and community are each defined in plain words, then practised: the class votes in assembly, community leaders must learn to agree, and solidarity is taught from Lincoln's collection for an enslaved sailor to Caracas's free children's heart hospital serving the whole continent.
 
-Searchable tags: my school as a place, Fiji, Latvia, Mauritius, Eritrea, Serbia, social studies, first-steps, Ecuador, Yemen, Libya, Afghanistan, Venezuela
+Searchable tags: my school as a place, Fiji, Latvia, Mauritius, Eritrea, Serbia, social studies, first-steps, Ecuador, Yemen, Libya, Afghanistan, Venezuela, Turkey
 
 Libya's own way (National Education G4): the whole book is written in the first person — every lesson is "I and …" (I and my family, I and my school, I and the neighbourhood) — citizenship starts as the child's own relationships, and even the environment unit is framed as the child's own behaviour: what I throw away, what I plant, which beach I clean.
 

@@ -1,6 +1,6 @@
 # Sources — Deciding Together in a Group
 
-countries: Samoa, Ecuador
+countries: Samoa, Ecuador, Turkey
 
 **Book 1:** *Social Studies — Year 9 Book One* (student book, English) — Title as printed: Social Studies — Year 9 Book One. Grade: Year 9 (student/teacher: STUDENT). Publisher: Ministry of Education, Sports and Culture, Samoa; year 2004 (reprint of 2001); ISBN 982-517-008-5. PDF pages: 84 (cover/title page verified against the record title; MESC copy, size 12,715,801 B per download list). Read from the MESC ministry source URL recorded in the books.json record — the same MESC PDF the Geography wave verified byte-for-byte against the record and already secured in GitHub (in_pushed: true) — via the browser text route, cover/title page and ISBN checked against the record before reading; no file staged — the book is already in GitHub, as filed in samoa-placements.md. Earlier waves: Geography wave placed Units 1–3 (resources/economic activities, printed pp. 5–56); History wave placed two history story-parts inside Unit 4 Topic 4 "Tonga" (settlement, Tupou I) and Unit 3 heritage activities; Economics wave placed Units 1–3. Unit 4's groups/village-organisation/kautaha/Tonga-political-system teaching was named "Civics, not placed" by both Geography and History waves — read and placed here. Verdict: COMPLETE. Contents map: Integrated SS pp. 57–83 (Unit 4 Being Part of a Group); Civics/Citizenship/Government pp. 75–83 (Topic 6 The Political System of Tonga); Geography pp. 5–26; History pp. 71–72 (inside Topic 4); Economics pp. 27–56. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/samoa-placements.md.
 
@@ -12,7 +12,16 @@ countries: Samoa, Ecuador
 | Sub lesson 2 — Samoa's way — the book's own teaching way | Samoa — the book's own way of teaching (see below) |
 | Ecuador part — culture-and-work/class-assembly-deciding-and-voting-together — Sección 8 Tema 1, activity 9 — teaches: running a grade assembly — electing the representatives who chair it, researching Ecuador's social organisations that protect children from child labour, debating respectfully, voting for or against proposals, and writing to the school's highest authority in defence of children's rights — Ecuador Grade 5 Estudios Sociales 5to EGB, printed p. 190 | Ecuador, *Estudios Sociales 5to EGB* (student book), Sección 8 Tema 1, activity 9 — printed p. 190 |
 
-**Acceptance count: taught in 2 countries (Samoa, Ecuador).**
+**Book 1 (Turkey):** *Hayat Bilgisi 2. Sınıf, 1. Kitap* (student book, Turkish) — Title as printed: İlkokul Hayat Bilgisi 2. Sınıf Ders Kitabı — 1. Kitap (authors Dr. Nagihan Şahin, Betül Altuntaş, Gürhan Dikmen, Hüseyin Güleç, Nurgül Genç). Grade: Grade 2 (student/teacher: STUDENT). Publisher: Millî Eğitim Bakanlığı (MEB), Devlet Kitapları; printed 2025; ISBN 978-975-11-8768-0. PDF pages: 126 (repo file 65,118,982 bytes, cover verified by the earlier waves; this wave's grab.py attempts failed on the down GitHub egress, so the book was read from the earlier waves' own full text extract of that same verified repo file, kept in the Geography/History wave scratch — contents and every remaining-strand topic read from it). Earlier waves: Geography wave placed p. 60 (traffic signs) and the two end maps pp. 123–124 / History wave placed the Belirli Gün ve Haftalar national-days poems of Areas 1–2 (pp. 12–13, 46) as the lesson now existing as first-steps/turkeys-national-days-republic-day-and-remembering-ataturk — ALREADY PLACED, not placed again here / Economics wave filed the book RECORD-ONLY (no Economics parts; its contents evidence names the same areas placed here). Verdict: COMPLETE (for Book 1 / Semester 1 — areas 4–6 sit in Book 2, a link record below). Contents map: Integrated SS pp. 10–43 (Area 1 Ben ve Okulum: planning, communication, friendship, class decision-making); Health/Safety pp. 44–77 (Area 2 Sağlığım ve Güvenliğim: healthy habits, online safety, traffic signs, emergencies — Health course, named not placed, except traffic signs placed by the Geography wave); Integrated SS / Civics / Morals pp. 78–102 (Area 3 Ailem ve Toplum: my family, courtesy and manners in society, my duties and responsibilities); Civics (special-days poems) pp. 12–13, 46, 80–81 (national days placed by the History wave; the helping/values days placed below). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/turkey-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Turkey part — culture-and-work/deciding-together-in-class — Area 1: Karar Verme Zamanı (Decision time) — teaches: the class takes joint decisions (the seating plan, class activities) by sharing views, starting group communication, listening to friends' ideas and reaching a common decision — Turkey Grade 2 Hayat Bilgisi 1. Kitap, printed p. 34 | Turkey, *Hayat Bilgisi 2. Sınıf, 1. Kitap* (student book), Area 1: Karar Verme Zamanı (Decision time) — printed p. 34 |
+
+**Acceptance count: taught in 3 countries (Samoa, Ecuador, Turkey).**
+
+Turkey's own way (Hayat Bilgisi 2. Sınıf, 1. Kitap): Hayat Bilgisi (Life Studies) is Turkey's integrated primary subject, rebuilt under the Türkiye Yüzyılı Maarif Modeli as six learning areas; this first book runs Me-and-My-School → My Health and Safety → My Family and Society, every topic in the same rhythm (remember, explore, knowledge journey, practise, what we learned), with the year's special days carried as poems at the head of each area and the Student Oath (Andımız) printed at the front.
+
 
 Samoa's own way: Social organisation is taught from the inside out — the groups a child belongs to first, then the aiga and its matai, then the village's own circle of groups (matai at the centre, aumaga as the matai's right hand), and only then a neighbour kingdom's political system as the worked example of government.
 
@@ -22,4 +31,6 @@ Ecuador's own way (Estudios Sociales 5to EGB): the Grade 5 book ends its history
 
 Registry note: the original coined string `culture-and-work/class-assembly-deciding-and-voting-together` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/deciding-together-in-a-group`.
 
-Searchable tags: deciding together in a group, Samoa, social studies, culture-and-work, Ecuador
+Searchable tags: deciding together in a group, Samoa, social studies, culture-and-work, Ecuador, Turkey
+
+Registry note: the original coined string `culture-and-work/deciding-together-in-class` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/deciding-together-in-a-group`.
