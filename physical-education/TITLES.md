@@ -194,3 +194,14 @@ The PE expansion then added: **Chess**
 Nicaragua**
 (`traditional-games-and-dances/traditional-games-of-nicaragua`)
 — 2 new lessons, bringing this course to 131 lessons.
+
+The PE expansion then added: **Basic Exercise
+Positions**
+(`fitness-and-stretching/basic-exercise-positions`),
+**Morning Gymnastics**
+(`fitness-and-stretching/morning-gymnastics`), **Rest and
+Recovery** (`fitness-and-stretching/rest-and-recovery`),
+**Acrobatics** (`gymnastics/acrobatics`), **Goalkeeping**
+(`ball-games/goalkeeping`) and **Azerbaijan's Sport Story**
+(`sport-and-its-story/azerbaijans-sport-story`)
+— 6 new lessons, bringing this course to 137 lessons.

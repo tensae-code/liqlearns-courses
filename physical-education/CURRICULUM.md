@@ -349,6 +349,30 @@ unit with a cut-out board and pieces the class makes itself,
 and traditional and pre-sport games with improvised local
 materials (rag-ball baseball, street football).
 
+**PE expansion — Azerbaijan — BUILT 2026-11-16:** 76 placements
+from Azerbaijan's Fiziki Tərbiyə student textbooks, Grades
+6–10 (Georgian-language editions for Georgian-medium schools
+in Azerbaijan, published in Baku) stocked — 67 into existing
+lessons and 9 as 6 new lessons (Basic Exercise Positions;
+Morning Gymnastics; Rest and Recovery; Acrobatics;
+Goalkeeping; Azerbaijan's Sport Story) — bringing this
+course to **137 lessons**. All five books are student books,
+filed as student-book stock, inside the acceptance counts;
+Grades 6, 7, 9 and 10 were read COMPLETE and Grade 8 is
+PARTIAL as filed — an image-only scan placed from its own
+full contents and opening chapters. The books' Health
+chapters are filed in azerbaijan-health-placements.md and
+placed in the Health course; the Grade 9 fitness-test
+normatives (printed p. 13) and the Grade 10 diagnostic
+normatives (printed p. 7) are assessment items, named in the
+placements file and not placed. Azerbaijan's own way is
+content: a theory-first course — knowing and managing your
+own body, the movement abilities taught one by one, then the
+six basic sports, then independent work the pupil runs
+alone, with Azerbaijan's own sport story (its Olympic
+successes, its Rio 2016 athletes, and holding the first
+European Games) taught as national content.
+
 ## Unit 1 — Moving Basics
 
 1. **Combined Travelling and On-the-Spot Movements** (`moving-basics/combined-travelling-and-on-the-spot`) — joining travelling movements together, joining on-the-spot movements together, and chaining the two families in one sequence.
@@ -384,6 +408,9 @@ materials (rag-ball baseball, street football).
 12. **Planning Your Own Training** (`fitness-and-stretching/planning-your-own-training`) — planning your own training: fitness plans, FITT, training zones and cycles, and designing training from your goals and data — taught in Pakistan's Grade 11 book as the Fitness Plan (Pakistan's student book).
 13. **Adapted Physical Education** (`fitness-and-stretching/adapted-physical-education`) — adapted physical education: adjusting activity so every child — including children with disabilities — can take part — taught in Afghanistan's Grade 10 guide as PE for children with disabilities: who needs adapted PE, and how activity is adjusted for children with intellectual disability, postural and bone problems, hearing and sight impairment, hyperactivity, and children who are withdrawn or afraid of activity (Afghanistan's Grade 10 teacher guide, evidence only).
 14. **Rope Skipping** (`fitness-and-stretching/rope-skipping`) — rope skipping: swinging and jumping the rope — basic, fancy and complex rope skills, alone and in groups — taught in China's Senior High book as fancy rope skipping (花样跳绳): solo and group patterned skipping (China's student book).
+15. **Basic Exercise Positions** (`fitness-and-stretching/basic-exercise-positions`) — basic exercise positions: the standing, sitting, kneeling and lying positions exercises start from, their derived positions, and general developmental exercises — taught in Azerbaijan's Grade 7 book as the general developmental exercises that open the practical course (Azerbaijan's student book).
+16. **Morning Gymnastics** (`fitness-and-stretching/morning-gymnastics`) — morning gymnastics: the morning exercise routine that starts the day — taught in Azerbaijan's Grade 8 book (PARTIAL, contents-level, as filed) and Grade 9 book in the parts the pupil runs alone (Azerbaijan's student books).
+17. **Rest and Recovery** (`fitness-and-stretching/rest-and-recovery`) — rest and recovery: why rest is part of training and how the body recovers — taught in Azerbaijan's Grade 8 book as Rest, closing its individual-exercise part (Azerbaijan's student book, PARTIAL, contents-level, as filed).
 
 ## Unit 3 — Gymnastics
 
@@ -394,6 +421,8 @@ materials (rag-ball baseball, street football).
 5. **Moving to a Beat — Rhythmic Movement** (`gymnastics/moving-to-a-beat`) — moving in sequence to a beat — simple sequences first, then continuous, progressive, with equipment, and finally creating your own.
 6. **Gymnastics — Rules and Competition Types** (`gymnastics/gymnastics-rules-and-competition-types`) — the basic laws of gymnastics and its competition families — artistic, rhythmic and aerobics — as the Grade 8 book teaches them.
 7. **Expressing with the Body** (`gymnastics/expressing-with-the-body`) — expressing with the body: communicating feelings and ideas through body, face and mime, and dramatising situations — taught in El Salvador's Grades 1–3 guide as Me comunico con mi cuerpo (Grade 1: gestures and movement representing animals, natural things and feelings), Mi cuerpo se comunica (Grade 2: body language in everyday communication) and Comunicación con todo mi cuerpo (Grade 3: gesture and movement with verbal expression) (El Salvador's teacher guide, evidence only).
+
+8. **Acrobatics** (`gymnastics/acrobatics`) — acrobatics: acrobatic elements and partner work on the floor — taught in Azerbaijan's Grade 7 book as acrobatics (boys), inside its gymnastics part (Azerbaijan's student book).
 
 ## Unit 4 — Athletics
 
@@ -427,6 +456,8 @@ materials (rag-ball baseball, street football).
 17. **Tennis Strokes and Serves** (`ball-games/tennis-strokes-and-serves`) — tennis strokes and serves: grips, groundstrokes, the serve, volleys, smashes and touch shots — taught in Afghanistan's Grade 10 guide as the groundstrokes and the serve, volley and touch shots (Afghanistan's Grade 10 teacher guide, evidence only).
 18. **Using Tactics in a Match** (`ball-games/using-tactics-in-a-match`) — using tactics in a match: planning a tactic, attack and defence patterns, and making decisions under pressure — taught in China's Senior High book as drawing up a match tactic plan (比赛战术的制订) and applying tactics in a match (比赛战术的运用) (China's student book).
 19. **Badminton Techniques** (`ball-games/badminton-techniques`) — badminton techniques: grip, serves, clears, drop shots, drives, smashes and rally play — taught in China's Senior High book as badminton (羽毛球): the game, its techniques and how a match is played (China's student book).
+
+20. **Goalkeeping** (`ball-games/goalkeeping`) — goalkeeping: the goalkeeper's positioning, catching, clearing and technique in football and handball — taught in Azerbaijan's Grade 7 book as the goalkeeper's game, inside its football part (Azerbaijan's student book).
 
 ## Unit 6 — Games to Play
 
@@ -503,3 +534,4 @@ materials (rag-ball baseball, street football).
 19. **Basketball in Afghanistan** (`sport-and-its-story/basketball-in-afghanistan`) — basketball in Afghanistan: how the game arrived and grew — the foreign coach at Bala Hissar in 1317 HS, Kabul University and the schools, girls' and women's teams, the national team tours and joining FIBA (Afghanistan's Grade 10 teacher guide, evidence only).
 20. **Choosing Your Sport** (`sport-and-its-story/choosing-your-sport`) — choosing your sport: picking the sports and modules you will learn, by interest, foundation and what is offered — taught in China's Senior High book as the guidance on choosing option modules in its 12-module course (2 required + 10 elective) (China's student book).
 21. **Fair Play and Sporting Character** (`sport-and-its-story/fair-play-and-sporting-character`) — fair play and sporting character: why sport needs rules, sporting spirit, ethics, codes of conduct and equal participation — taught in China's Senior High book as sporting spirit (体育精神), sports morality (体育道德) and sporting character (体育品格) (China's student book).
+22. **Azerbaijan's Sport Story** (`sport-and-its-story/azerbaijans-sport-story`) — Azerbaijan's sport story: its Olympic successes, its athletes at the Rio Games, and holding the first European Games — taught in Azerbaijan's Grade 8 book as the Olympic successes of Azerbaijani athletes (PARTIAL, contents-level, as filed), its Grade 9 book as Azerbaijan, the country that held the first European Games, and its Grade 10 book as its athletes at the Rio 2016 Olympic Games (Azerbaijan's student books).

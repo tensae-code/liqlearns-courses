@@ -1,8 +1,8 @@
 # Sources — Correct Posture
 
-countries: Pakistan, China, El Salvador, Philippines
+countries: Pakistan, China, El Salvador, Philippines, Azerbaijan
 
-**Acceptance count: taught in 3 countries (Pakistan, China, Philippines).** Pakistan is student-book stock (see its rows below), inside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count.
+**Acceptance count: taught in 4 countries (Pakistan, China, Philippines, Azerbaijan).** Pakistan is student-book stock (see its rows below), inside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count.
 
 ## Pakistan — PE expansion 2026-11-16
 
@@ -92,5 +92,25 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/philippines-
 | Philippines — Aralin 4.5.1: Tikas ng Katawan… Ating Sanayin — posture as a practised habit: the book-on-the-head walking relay, model walking, and the "chest out–stomach in" self-check (original target `moving-basics/good-posture-standing-sitting-walking`) | Philippines Grade 2 PE LM (Tagalog), printed p. 380 |
 
 Philippines's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Philippines's own way is content, as the book lines above record it: PE 7 is a self-paced workbook whose sessions run Introductory Activity / Skill Development / Application / Assessment, with learners measuring their own pulse, target heart-rate zones and activity index; Grade 3 PE is taught through Filipino action songs and familiar scenes; the Grade 3 Unit 3 quarter moves from movement concepts to Kunday-Kunday and Tumbang Preso; and Grade 2 PE is taught entirely in the mother tongue inside the single MAPEH book, returning to tikas (posture) every quarter. Game and dance rules and steps are taught only as the placements summarise them; no rules have been invented.
+
+## Azerbaijan — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/azerbaijan-pe-placements.md. The Azerbaijan books stocked in this lesson are Book 4. All five Azerbaijan books read for this expansion are STUDENT textbooks — the Georgian-language editions of Azerbaijan's Fiziki Tərbiyə textbooks for Georgian-medium schools in Azerbaijan, published in Baku. Grades 6, 7, 9 and 10 were read COMPLETE from their full text layers; Grade 8 is PARTIAL as filed — an image-only scan placed from its own full contents and opening chapters, its rows labelled as filed. Azerbaijan is therefore student-book stock, inside the acceptance count, in this lesson. The books' Health chapters are filed in azerbaijan-health-placements.md and placed in the Health course.
+
+**Book — Azerbaijan Grade 9 (student book):**
+## Book 4 — Fiziki Tərbiyə 9 (student book, Georgian-language edition of the Azerbaijani textbook)
+- Title as printed: ფიზიკური აღზრდა 9 — სახელმძღვანელო (Physical Education 9 — Textbook, for Grade 9 pupils of general schools)
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Ministry of Education of Azerbaijan, Baku; year 2018; ISBN no ISBN printed (author: Firat Hüseynov)
+- PDF pages: 204 (title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 16 placements — 11 to existing lessons, 5 NEW LESSON NEEDED (Health chapters filed in azerbaijan-health-placements.md: 5 placements, incl. 3 HELD)
+- Azerbaijan's own way: Grade 9 adds load control — measuring and regulating physical load, organising independent training — and national pride content (Azerbaijan, the country that held the first European Games), then the six basic sports, then independent work including badminton, athletic gymnastics (weights) and self-defence elements. Fitness-test normatives (Part I, printed p. 13) are assessment items — named here, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Azerbaijan — Part I: Proportionality of Body Build and Ways of Forming It (original target `fitness-and-stretching/body-proportions-and-posture`) | Azerbaijan, *Fiziki Tərbiyə 9*, printed p. 37 |
+
+Azerbaijan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Azerbaijan's own way is content, as the book lines above record it: a theory-first course — knowing and managing your own body, the movement abilities taught one by one, then the basic sports, then independent work the pupil runs alone, with Azerbaijan's own sport story (its Olympic successes, its Rio 2016 athletes, and holding the first European Games) taught as national content. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: correct posture, posture, faulty posture, درست قامت, Pakistan Grade 6 Sehat-o-Jismani Taleem

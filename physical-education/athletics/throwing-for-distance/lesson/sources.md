@@ -1,6 +1,6 @@
 # Sources — Throwing for Distance
 
-countries: Ethiopia, Kazakhstan, Tajikistan, Thailand, Pakistan, China, El Salvador, Nicaragua
+countries: Ethiopia, Kazakhstan, Tajikistan, Thailand, Pakistan, China, El Salvador, Nicaragua, Azerbaijan
 
 **Book — Grade 5 student:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 106 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md. COMPLETE.
 
@@ -29,7 +29,7 @@ countries: Ethiopia, Kazakhstan, Tajikistan, Thailand, Pakistan, China, El Salva
 | Kazakhstan — Quarter 1 — the thrower's special exercises and throwing a small ball for distance and at a target (teacher guide — evidence) (original target `athletics/throwing-for-distance`) | Kazakhstan, *Physical Culture, Methodological Guide for Grade 4 Teachers* (Kazakhstan Grade 4 TG), printed p. 5 |
 | Tajikistan — Part 2, Throwing the Ball (Метание мяча) — throwing the small ball at horizontal and vertical targets from 3–4 m and throwing for distance (original target `athletics/throwing-for-distance`) | Tajikistan, *Fizicheskaya Kultura (Physical Culture), Grades 1–4*, Part 2, printed pp. ~106–112 |
 | Thailand — Unit 8 (part 2) Throwing — movement with equipment: throwing (การขว้าง) (student book — MAC sample, PARTIAL) (original target `athletics/throwing-for-distance`) | Thailand, *Health & PE, Grade 2* (Thailand Grade 2 MAC Health & PE), Unit 8 (part 2), printed pp. 141–146 |
-**Acceptance count: taught in 6 countries (Ethiopia, Tajikistan, Thailand, Pakistan, China, Nicaragua).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
+**Acceptance count: taught in 7 countries (Ethiopia, Tajikistan, Thailand, Pakistan, China, Nicaragua, Azerbaijan).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count.
 
 Student books Grades 5–7 are complete. No page is claimed that the placements do not give.
 
@@ -127,5 +127,53 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/nicaragua-pe
 | Nicaragua — Unidad III, Ejercicios de lanzamientos y su técnica (original target `athletics/throwing-for-distance`) | Nicaragua Grade 6, Unidad III (unit begins printed p. 30) |
 
 Nicaragua's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Nicaragua's own way is content, as the book lines above record it: PE taught in 45-minute periods twice weekly, every exercise and game introduced by its practical use in daily life, values, hygiene checks and the one-minute "fisminuto" movement break built into the method, chess taught as a PE unit with a cut-out board and pieces the class makes itself, and traditional and pre-sport games played with improvised local materials (rag-ball baseball, street football). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Azerbaijan — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/azerbaijan-pe-placements.md. The Azerbaijan books stocked in this lesson are Book 1, Book 4, Book 5. All five Azerbaijan books read for this expansion are STUDENT textbooks — the Georgian-language editions of Azerbaijan's Fiziki Tərbiyə textbooks for Georgian-medium schools in Azerbaijan, published in Baku. Grades 6, 7, 9 and 10 were read COMPLETE from their full text layers; Grade 8 is PARTIAL as filed — an image-only scan placed from its own full contents and opening chapters, its rows labelled as filed. Azerbaijan is therefore student-book stock, inside the acceptance count, in this lesson. The books' Health chapters are filed in azerbaijan-health-placements.md and placed in the Health course.
+
+**Book — Azerbaijan Grade 6 (student book):**
+## Book 1 — Fiziki Tərbiyə 6 (student book, Georgian-language edition of the Azerbaijani textbook)
+- Title as printed: ფიზიკური აღზრდა 6 — სახელმძღვანელო (Physical Education 6 — Textbook, for Grade 6 of general schools)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Ministry of Education of Azerbaijan, Baku; year 2018; ISBN no ISBN printed (author: Firat Hüseynov)
+- PDF pages: 164 (title page verified against the record title — title page reads "Physical Education 6, Textbook, Baku 2018")
+- Verdict: COMPLETE
+- Tally: 15 placements — 14 to existing lessons, 1 NEW LESSON NEEDED (Health chapters filed in azerbaijan-health-placements.md: 14 placements)
+- Azerbaijan's own way: a theory-first textbook — a long opening part on knowing and managing your own body, healthy lifestyle, hygiene, hardening and self-control with a sample self-control diary, then the movement abilities (speed, strength, flexibility, endurance) taught one by one, then athletics, gymnastics, basketball, football and swimming.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Azerbaijan — Throwing — throwing events in the athletics part (original target `athletics/throwing-for-distance`) | Azerbaijan, *Fiziki Tərbiyə 6*, printed p. 128 |
+
+**Book — Azerbaijan Grade 9 (student book):**
+## Book 4 — Fiziki Tərbiyə 9 (student book, Georgian-language edition of the Azerbaijani textbook)
+- Title as printed: ფიზიკური აღზრდა 9 — სახელმძღვანელო (Physical Education 9 — Textbook, for Grade 9 pupils of general schools)
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Ministry of Education of Azerbaijan, Baku; year 2018; ISBN no ISBN printed (author: Firat Hüseynov)
+- PDF pages: 204 (title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 16 placements — 11 to existing lessons, 5 NEW LESSON NEEDED (Health chapters filed in azerbaijan-health-placements.md: 5 placements, incl. 3 HELD)
+- Azerbaijan's own way: Grade 9 adds load control — measuring and regulating physical load, organising independent training — and national pride content (Azerbaijan, the country that held the first European Games), then the six basic sports, then independent work including badminton, athletic gymnastics (weights) and self-defence elements. Fitness-test normatives (Part I, printed p. 13) are assessment items — named here, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Azerbaijan — Part II: Athletics — throwing events (original target `athletics/throwing-for-distance`) | Azerbaijan, *Fiziki Tərbiyə 9*, printed p. 51 |
+
+**Book — Azerbaijan Grade 10 (student book):**
+## Book 5 — Fiziki Tərbiyə 10 (student book, Georgian-language edition of the Azerbaijani textbook)
+- Title as printed: Fiziki Tərbiyə — 10 (Azerbaijani title page: "FİZİKİ TƏRBİYƏ – 10, textbook for Grade 10 of general schools"; Georgian title page: Physical Education 10 — Textbook)
+- Grade: Grade 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education of Azerbaijan (approved by Ministry order No. 369 of 03.06.2016); year 2017; ISBN no ISBN printed (authors: Firat Hüseynov, Soltan Bağırov, İlqar Əliyev, Şamil Əbdürrəhmanov)
+- PDF pages: 214 (title pages verified against the record title, in both Azerbaijani and Georgian)
+- Verdict: COMPLETE
+- Tally: 10 placements — 8 to existing lessons, 2 NEW LESSON NEEDED (Health/defence chapter filed in azerbaijan-health-placements.md: 1 placement)
+- Azerbaijan's own way: Grade 10 opens with the nation's Rio 2016 Olympians, runs the six basic sports at full length (swimming alone spans printed pp. 115–155), and closes with independent exercises centred on preparing school pupils for defence. The diagnostic fitness normatives (printed p. 7) are assessment items — named here, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Azerbaijan — Part II: Athletics — throwing events (original target `athletics/throwing-for-distance`) | Azerbaijan, *Fiziki Tərbiyə 10*, printed p. 28 |
+
+Azerbaijan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Azerbaijan's own way is content, as the book lines above record it: a theory-first course — knowing and managing your own body, the movement abilities taught one by one, then the basic sports, then independent work the pupil runs alone, with Azerbaijan's own sport story (its Olympic successes, its Rio 2016 athletes, and holding the first European Games) taught as national content. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: throwing for distance, throwing a small ball and a stick, ring and javelin-style throwing, shot put, javelin, discus, physical education, Ethiopia

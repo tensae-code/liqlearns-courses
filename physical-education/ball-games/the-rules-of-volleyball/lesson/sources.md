@@ -1,6 +1,6 @@
 # Sources — The Rules of Volleyball
 
-countries: Ethiopia, Timor-Leste, Pakistan, Afghanistan, China
+countries: Ethiopia, Timor-Leste, Pakistan, Afghanistan, China, Azerbaijan
 
 **Book — Grade 9 student:** *Health and Physical Education Student's Textbook Grade 9* (student textbook, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, First Published August 2023, ISBN 978-99990-0-072-7, 156 printed pp. Printed page = PDF page − 10. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g09-student-placements.md. COMPLETE.
 **Book — Grade 9 teacher (teacher guide — evidence):** *Health and Physical Education — Teacher Guide, Grade 9* (teacher guide, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, © 2022, printed pp. I–IX + 1–116. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g09-teacher-placements.md. COMPLETE.
@@ -15,7 +15,7 @@ countries: Ethiopia, Timor-Leste, Pakistan, Afghanistan, China
 | Facilities, equipment and the referees (teacher guide — evidence) | Ethiopia, Grade 9 teacher Unit 5, Rules of volleyball (teacher guide — evidence), printed pp. 63–64 |
 
 | Timor-Leste — Appendix 4: Volleyball — the game's rules and mini-games (teacher guide — evidence) (original target `ball-games/the-rules-of-volleyball`) | Timor-Leste, *Educação Física 7, Guia do Professor* (Timor-Leste Grade 7 Teacher Guide), printed pp. 157–230 (Appendix 4) |
-**Acceptance count: taught in 3 countries (Ethiopia, Pakistan, China).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Timor-Leste is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count.
+**Acceptance count: taught in 4 countries (Ethiopia, Pakistan, China, Azerbaijan).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Timor-Leste is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count.
 
 The Grade 9 books are the English federal 2023 GEQIP-E series; Grade 9 target terms are given as the books print them, in English. The Grade 9 teacher guide is COMPLETE.
 
@@ -92,5 +92,67 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/china-pe-pla
 | China — how a volleyball game is played: method and rules (original target `ball-games/the-rules-of-volleyball`) | China, *China Senior High PEP PE & Health*, 第八章 第三节 排球, printed p. 138 |
 
 China's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. China's own way is content, as the book line above records it: one compulsory combined volume for all senior-high students built around three core competencies (movement ability, healthy behaviour, sporting character), with traditional Chinese content (wushu, Taijiquan, folk sports, health-keeping qigong sets) beside Olympic and world sport. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Azerbaijan — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/azerbaijan-pe-placements.md. The Azerbaijan books stocked in this lesson are Book 2, Book 3, Book 4, Book 5. All five Azerbaijan books read for this expansion are STUDENT textbooks — the Georgian-language editions of Azerbaijan's Fiziki Tərbiyə textbooks for Georgian-medium schools in Azerbaijan, published in Baku. Grades 6, 7, 9 and 10 were read COMPLETE from their full text layers; Grade 8 is PARTIAL as filed — an image-only scan placed from its own full contents and opening chapters, its rows labelled as filed. Azerbaijan is therefore student-book stock, inside the acceptance count, in this lesson. The books' Health chapters are filed in azerbaijan-health-placements.md and placed in the Health course.
+
+**Book — Azerbaijan Grade 7 (student book):**
+## Book 2 — Fiziki Tərbiyə 7 (student book, Georgian-language edition of the Azerbaijani textbook)
+- Title as printed: ფიზიკური აღზრდა 7 — სახელმძღვანელო (Physical Education 7 — Textbook, for Grade 7 of general schools)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education of Azerbaijan, Baku; year 2018; ISBN no ISBN printed (author: Firat Hüseynov)
+- PDF pages: 140 (title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 20 placements — 15 to existing lessons, 5 NEW LESSON NEEDED (Health chapters filed in azerbaijan-health-placements.md: 5 placements, incl. 3 HELD)
+- Azerbaijan's own way: Grade 7 turns to sport technique — athletics with relay and run-up high jump, apparatus gymnastics and acrobatics for boys, then four ball games with named technique chapters (basketball stops, turns, passes and shots; football ball-carrying, goalkeeping and defence), swimming with rescuing a drowning person, and a closing part that develops each physical ability.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Azerbaijan — Volleyball — the volleyball part (original target `ball-games/the-rules-of-volleyball`) | Azerbaijan, *Fiziki Tərbiyə 7*, printed p. 71 |
+
+**Book — Azerbaijan Grade 8 (student book):**
+## Book 3 — Fiziki Tərbiyə 8 (student book, Georgian-language edition of the Azerbaijani textbook)
+- Title as printed: ფიზიკური აღზრდა — სახელმძღვანელო, საერთო სკოლების მე-8 კლასისთვის (Physical Education — Textbook for Grade 8 of general schools)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: «ASPOLİQRAF», Baku (for the Ministry of Education of Azerbaijan); year no year printed on the pages read; ISBN no ISBN printed (author: Firat Hüseynov)
+- PDF pages: 147 (cover verified against the record title — cover reads "Physical Education 8" with the grade numeral 8; this copy is image-only with no text layer, so it was read from rendered pages: cover, title page, full contents and the opening theory chapters)
+- Verdict: PARTIAL — contents-level read of an image-only scan: every part and chapter is placed from the book's own full contents (printed pp. 3–4 of the PDF) and the opening chapters were read in full; chapter interiors were not read page by page
+- Tally: 15 placements — 11 to existing lessons, 4 NEW LESSON NEEDED (Health chapters filed in azerbaijan-health-placements.md: 10 placements, incl. 5 HELD)
+- Azerbaijan's own way: Grade 8 is organised as theory (the adolescent body system by system, self-control, hygiene, hardening, adaptive PE, safety), then the six basic sports, then a large individual-exercise part the pupil runs alone — morning gymnastics, raising your own preparedness, training methods, and nutrition and rest around training.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Azerbaijan — Part II: Volleyball (original target `ball-games/the-rules-of-volleyball`) | Azerbaijan, *Fiziki Tərbiyə 8*, printed p. 84 |
+
+**Book — Azerbaijan Grade 9 (student book):**
+## Book 4 — Fiziki Tərbiyə 9 (student book, Georgian-language edition of the Azerbaijani textbook)
+- Title as printed: ფიზიკური აღზრდა 9 — სახელმძღვანელო (Physical Education 9 — Textbook, for Grade 9 pupils of general schools)
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Ministry of Education of Azerbaijan, Baku; year 2018; ISBN no ISBN printed (author: Firat Hüseynov)
+- PDF pages: 204 (title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 16 placements — 11 to existing lessons, 5 NEW LESSON NEEDED (Health chapters filed in azerbaijan-health-placements.md: 5 placements, incl. 3 HELD)
+- Azerbaijan's own way: Grade 9 adds load control — measuring and regulating physical load, organising independent training — and national pride content (Azerbaijan, the country that held the first European Games), then the six basic sports, then independent work including badminton, athletic gymnastics (weights) and self-defence elements. Fitness-test normatives (Part I, printed p. 13) are assessment items — named here, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Azerbaijan — Part II: Volleyball (original target `ball-games/the-rules-of-volleyball`) | Azerbaijan, *Fiziki Tərbiyə 9*, printed p. 95 |
+
+**Book — Azerbaijan Grade 10 (student book):**
+## Book 5 — Fiziki Tərbiyə 10 (student book, Georgian-language edition of the Azerbaijani textbook)
+- Title as printed: Fiziki Tərbiyə — 10 (Azerbaijani title page: "FİZİKİ TƏRBİYƏ – 10, textbook for Grade 10 of general schools"; Georgian title page: Physical Education 10 — Textbook)
+- Grade: Grade 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education of Azerbaijan (approved by Ministry order No. 369 of 03.06.2016); year 2017; ISBN no ISBN printed (authors: Firat Hüseynov, Soltan Bağırov, İlqar Əliyev, Şamil Əbdürrəhmanov)
+- PDF pages: 214 (title pages verified against the record title, in both Azerbaijani and Georgian)
+- Verdict: COMPLETE
+- Tally: 10 placements — 8 to existing lessons, 2 NEW LESSON NEEDED (Health/defence chapter filed in azerbaijan-health-placements.md: 1 placement)
+- Azerbaijan's own way: Grade 10 opens with the nation's Rio 2016 Olympians, runs the six basic sports at full length (swimming alone spans printed pp. 115–155), and closes with independent exercises centred on preparing school pupils for defence. The diagnostic fitness normatives (printed p. 7) are assessment items — named here, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Azerbaijan — Part II: Volleyball (original target `ball-games/the-rules-of-volleyball`) | Azerbaijan, *Fiziki Tərbiyə 10*, printed p. 99 |
+
+Azerbaijan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Azerbaijan's own way is content, as the book lines above record it: a theory-first course — knowing and managing your own body, the movement abilities taught one by one, then the basic sports, then independent work the pupil runs alone, with Azerbaijan's own sport story (its Olympic successes, its Rio 2016 athletes, and holding the first European Games) taught as national content. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: the rules of volleyball, volleyball court and free zone, net 9.50-10 m, rotational order, twelve players, three hits and block contact, facilities and equipment, referees, physical education, Ethiopia

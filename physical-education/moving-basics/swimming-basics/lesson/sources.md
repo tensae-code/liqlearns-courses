@@ -1,8 +1,8 @@
 # Sources — Swimming Basics
 
-countries: Turkmenistan, Tajikistan, Timor-Leste, China
+countries: Turkmenistan, Tajikistan, Timor-Leste, China, Azerbaijan
 
-**Acceptance count: taught in 4 countries (Turkmenistan, Tajikistan, Timor-Leste, China).** Turkmenistan is student-book stock (see its row below), inside the acceptance count. Tajikistan is added as student-book stock (see its row below), inside the acceptance count. Timor-Leste is added as student-book stock (see its rows below), inside the acceptance count; its teacher-guide water-safety row is evidence only. China is added as student-book stock (see its rows below), inside the acceptance count.
+**Acceptance count: taught in 5 countries (Turkmenistan, Tajikistan, Timor-Leste, China, Azerbaijan).** Turkmenistan is student-book stock (see its row below), inside the acceptance count. Tajikistan is added as student-book stock (see its row below), inside the acceptance count. Timor-Leste is added as student-book stock (see its rows below), inside the acceptance count; its teacher-guide water-safety row is evidence only. China is added as student-book stock (see its rows below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count.
 
 **Book — Turkmenistan Bedenterbiýe (student book):** *Bedenterbiýe (Physical Education)* (student book — study guide for higher schools, Turkmen) — Title as printed: Bedenterbiýe — Ýokary okuw mekdepleri üçin okuw gollanmasy (Physical Education — a study guide for higher schools) — Grade: Higher education (university) students and PE teachers; the abstract also names school PE teachers, coaches and athletes as users (student/teacher: STUDENT — university textbook) — Publisher: Türkmen döwlet neşirýat gullugy (Turkmen State Publishing Service), Aşgabat; year 2020; author S. Altyýew (Sapardurdy Altyýew); recommended by the Ministry of Education of Turkmenistan; no ISBN printed (UDK 378.796) — PDF pages: 192 (cover/title page verified against the record title; downloaded 12,849,582 B). Verdict: COMPLETE — with two parts named but not placed: Part IX (the PE teacher's and coach's professional pedagogy, pp. 120–131) is written for teachers about their own profession, and Part XIV (promoting mass PE and sport through TV/radio, print and visual agitation, pp. 171–177) is organiser-facing promotion method; the closing Tests (pp. 178–184) are the book's own assessment and the glossary of main concepts (pp. 185–188) is inventory-only, both excluded per the brief. Read in full in the 2026-11-16 PE expansion read. Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/turkmenistan-pe-placements.md. Turkmenistan's own way: PE theory is taught as one systematic university course that runs from the origin of physical culture through the physical qualities, training loads and recovery to healthy lifestyle, nutrition and medical control — the same theory spine Turkmen school PE teachers are trained on.
 
@@ -46,5 +46,67 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/china-pe-pla
 | China — swimming: breaststroke and freestyle technique improvement (the section's drowning-rescue part is filed in the Health file) (original target `moving-basics/swimming`) | China, *China Senior High PEP PE & Health*, 第十二章 第一节 游泳, printed p. 218 |
 
 China's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. China's own way is content, as the book line above records it: one compulsory combined volume for all senior-high students built around three core competencies (movement ability, healthy behaviour, sporting character), with traditional Chinese content (wushu, Taijiquan, folk sports, health-keeping qigong sets) beside Olympic and world sport. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Azerbaijan — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/azerbaijan-pe-placements.md. The Azerbaijan books stocked in this lesson are Book 1, Book 2, Book 4, Book 5. All five Azerbaijan books read for this expansion are STUDENT textbooks — the Georgian-language editions of Azerbaijan's Fiziki Tərbiyə textbooks for Georgian-medium schools in Azerbaijan, published in Baku. Grades 6, 7, 9 and 10 were read COMPLETE from their full text layers; Grade 8 is PARTIAL as filed — an image-only scan placed from its own full contents and opening chapters, its rows labelled as filed. Azerbaijan is therefore student-book stock, inside the acceptance count, in this lesson. The books' Health chapters are filed in azerbaijan-health-placements.md and placed in the Health course.
+
+**Book — Azerbaijan Grade 6 (student book):**
+## Book 1 — Fiziki Tərbiyə 6 (student book, Georgian-language edition of the Azerbaijani textbook)
+- Title as printed: ფიზიკური აღზრდა 6 — სახელმძღვანელო (Physical Education 6 — Textbook, for Grade 6 of general schools)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Ministry of Education of Azerbaijan, Baku; year 2018; ISBN no ISBN printed (author: Firat Hüseynov)
+- PDF pages: 164 (title page verified against the record title — title page reads "Physical Education 6, Textbook, Baku 2018")
+- Verdict: COMPLETE
+- Tally: 15 placements — 14 to existing lessons, 1 NEW LESSON NEEDED (Health chapters filed in azerbaijan-health-placements.md: 14 placements)
+- Azerbaijan's own way: a theory-first textbook — a long opening part on knowing and managing your own body, healthy lifestyle, hygiene, hardening and self-control with a sample self-control diary, then the movement abilities (speed, strength, flexibility, endurance) taught one by one, then athletics, gymnastics, basketball, football and swimming.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Azerbaijan — Swimming — the swimming part of the course (original target `moving-basics/swimming-basics`) | Azerbaijan, *Fiziki Tərbiyə 6*, printed p. 153 |
+
+**Book — Azerbaijan Grade 7 (student book):**
+## Book 2 — Fiziki Tərbiyə 7 (student book, Georgian-language edition of the Azerbaijani textbook)
+- Title as printed: ფიზიკური აღზრდა 7 — სახელმძღვანელო (Physical Education 7 — Textbook, for Grade 7 of general schools)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education of Azerbaijan, Baku; year 2018; ISBN no ISBN printed (author: Firat Hüseynov)
+- PDF pages: 140 (title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 20 placements — 15 to existing lessons, 5 NEW LESSON NEEDED (Health chapters filed in azerbaijan-health-placements.md: 5 placements, incl. 3 HELD)
+- Azerbaijan's own way: Grade 7 turns to sport technique — athletics with relay and run-up high jump, apparatus gymnastics and acrobatics for boys, then four ball games with named technique chapters (basketball stops, turns, passes and shots; football ball-carrying, goalkeeping and defence), swimming with rescuing a drowning person, and a closing part that develops each physical ability.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Azerbaijan — Swimming; Improving Swimming Technique — swimming and perfecting stroke technique (original target `moving-basics/swimming-basics`) | Azerbaijan, *Fiziki Tərbiyə 7*, printed pp. 97–98 |
+
+**Book — Azerbaijan Grade 9 (student book):**
+## Book 4 — Fiziki Tərbiyə 9 (student book, Georgian-language edition of the Azerbaijani textbook)
+- Title as printed: ფიზიკური აღზრდა 9 — სახელმძღვანელო (Physical Education 9 — Textbook, for Grade 9 pupils of general schools)
+- Grade: Grade 9 (student/teacher: STUDENT)
+- Publisher: Ministry of Education of Azerbaijan, Baku; year 2018; ISBN no ISBN printed (author: Firat Hüseynov)
+- PDF pages: 204 (title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 16 placements — 11 to existing lessons, 5 NEW LESSON NEEDED (Health chapters filed in azerbaijan-health-placements.md: 5 placements, incl. 3 HELD)
+- Azerbaijan's own way: Grade 9 adds load control — measuring and regulating physical load, organising independent training — and national pride content (Azerbaijan, the country that held the first European Games), then the six basic sports, then independent work including badminton, athletic gymnastics (weights) and self-defence elements. Fitness-test normatives (Part I, printed p. 13) are assessment items — named here, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Azerbaijan — Part II: Swimming (original target `moving-basics/swimming-basics`) | Azerbaijan, *Fiziki Tərbiyə 9*, printed p. 125 |
+
+**Book — Azerbaijan Grade 10 (student book):**
+## Book 5 — Fiziki Tərbiyə 10 (student book, Georgian-language edition of the Azerbaijani textbook)
+- Title as printed: Fiziki Tərbiyə — 10 (Azerbaijani title page: "FİZİKİ TƏRBİYƏ – 10, textbook for Grade 10 of general schools"; Georgian title page: Physical Education 10 — Textbook)
+- Grade: Grade 10 (student/teacher: STUDENT)
+- Publisher: Ministry of Education of Azerbaijan (approved by Ministry order No. 369 of 03.06.2016); year 2017; ISBN no ISBN printed (authors: Firat Hüseynov, Soltan Bağırov, İlqar Əliyev, Şamil Əbdürrəhmanov)
+- PDF pages: 214 (title pages verified against the record title, in both Azerbaijani and Georgian)
+- Verdict: COMPLETE
+- Tally: 10 placements — 8 to existing lessons, 2 NEW LESSON NEEDED (Health/defence chapter filed in azerbaijan-health-placements.md: 1 placement)
+- Azerbaijan's own way: Grade 10 opens with the nation's Rio 2016 Olympians, runs the six basic sports at full length (swimming alone spans printed pp. 115–155), and closes with independent exercises centred on preparing school pupils for defence. The diagnostic fitness normatives (printed p. 7) are assessment items — named here, not placed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Azerbaijan — Part II: Swimming (original target `moving-basics/swimming-basics`) | Azerbaijan, *Fiziki Tərbiyə 10*, printed p. 115 |
+
+Azerbaijan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Azerbaijan's own way is content, as the book lines above record it: a theory-first course — knowing and managing your own body, the movement abilities taught one by one, then the basic sports, then independent work the pupil runs alone, with Azerbaijan's own sport story (its Olympic successes, its Rio 2016 athletes, and holding the first European Games) taught as national content. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: swimming basics, swimming in the water, Suwda ýüzmek, the importance of swimming, Suwda ýüzmegiň ähmiýeti, all-round physical development, Turkmenistan Bedenterbiýe, water safety investigation, Segurança na Água, Timor-Leste Educação Física Grade 7

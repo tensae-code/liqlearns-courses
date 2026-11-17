@@ -1,6 +1,6 @@
 # Sources — Playing the Team Games
 
-countries: Ethiopia, Kazakhstan, Tajikistan, Samoa, Timor-Leste, Thailand, China, Nicaragua
+countries: Ethiopia, Kazakhstan, Tajikistan, Samoa, Timor-Leste, Thailand, China, Nicaragua, Azerbaijan
 
 **Book — Grade 5 student:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 106 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md. COMPLETE.
 
@@ -43,7 +43,7 @@ countries: Ethiopia, Kazakhstan, Tajikistan, Samoa, Timor-Leste, Thailand, China
 | Timor-Leste — Period 3: Choosing a sport — the class chooses its Period 3 sport (original target `ball-games/playing-the-team-games`) | Timor-Leste, *Educação Física 7, Manual do aluno* (Timor-Leste Grade 7 Student Book), printed p. 43 |
 | Timor-Leste — Appendix 2: Organising a tournament — a teacher's guide to running the class tournament (teacher guide — evidence) (original target `ball-games/playing-the-team-games`) | Timor-Leste, *Educação Física 7, Guia do Professor* (Timor-Leste Grade 7 Teacher Guide), printed p. 129 |
 | Thailand — Unit 4, Ch. 2 International sports (กีฬาสากล) — playing one individual and one team international sport, observing the rules, rights and duties of play, with sporting spirit (student book — SSR flipbook sample, PARTIAL) (original target `ball-games/playing-the-team-games`) | Thailand, *Health & PE, Grade 5* (Thailand Grade 5 SSR Health & PE), Unit 4, Ch. 2, printed p. 104 |
-**Acceptance count: taught in 6 countries (Ethiopia, Tajikistan, Timor-Leste, Thailand, China, Nicaragua).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Samoa is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Timor-Leste is added as student-book stock (see its rows above), inside the acceptance count; its Appendix 2 tournament row rests on the teacher guide and is evidence only. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
+**Acceptance count: taught in 7 countries (Ethiopia, Tajikistan, Timor-Leste, Thailand, China, Nicaragua, Azerbaijan).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Samoa is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Timor-Leste is added as student-book stock (see its rows above), inside the acceptance count; its Appendix 2 tournament row rests on the teacher guide and is evidence only. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count.
 
 Student books Grades 5–7 are complete. No page is claimed that the placements do not give.
 
@@ -136,5 +136,25 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/nicaragua-pe
 | Nicaragua — Unidad Juegos Tradicionales, Participemos jugando los siguientes juegos pre-deportivos — pre-sport games (original target `ball-games/playing-the-team-games`) | Nicaragua Grade 5, printed p. 226 |
 
 Nicaragua's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Nicaragua's own way is content, as the book lines above record it: PE taught in 45-minute periods twice weekly, every exercise and game introduced by its practical use in daily life, values, hygiene checks and the one-minute "fisminuto" movement break built into the method, chess taught as a PE unit with a cut-out board and pieces the class makes itself, and traditional and pre-sport games played with improvised local materials (rag-ball baseball, street football). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Azerbaijan — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/azerbaijan-pe-placements.md. The Azerbaijan books stocked in this lesson are Book 2. All five Azerbaijan books read for this expansion are STUDENT textbooks — the Georgian-language editions of Azerbaijan's Fiziki Tərbiyə textbooks for Georgian-medium schools in Azerbaijan, published in Baku. Grades 6, 7, 9 and 10 were read COMPLETE from their full text layers; Grade 8 is PARTIAL as filed — an image-only scan placed from its own full contents and opening chapters, its rows labelled as filed. Azerbaijan is therefore student-book stock, inside the acceptance count, in this lesson. The books' Health chapters are filed in azerbaijan-health-placements.md and placed in the Health course.
+
+**Book — Azerbaijan Grade 7 (student book):**
+## Book 2 — Fiziki Tərbiyə 7 (student book, Georgian-language edition of the Azerbaijani textbook)
+- Title as printed: ფიზიკური აღზრდა 7 — სახელმძღვანელო (Physical Education 7 — Textbook, for Grade 7 of general schools)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education of Azerbaijan, Baku; year 2018; ISBN no ISBN printed (author: Firat Hüseynov)
+- PDF pages: 140 (title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 20 placements — 15 to existing lessons, 5 NEW LESSON NEEDED (Health chapters filed in azerbaijan-health-placements.md: 5 placements, incl. 3 HELD)
+- Azerbaijan's own way: Grade 7 turns to sport technique — athletics with relay and run-up high jump, apparatus gymnastics and acrobatics for boys, then four ball games with named technique chapters (basketball stops, turns, passes and shots; football ball-carrying, goalkeeping and defence), swimming with rescuing a drowning person, and a closing part that develops each physical ability.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Azerbaijan — Football: The Element of Defence — defending as part of team play (original target `ball-games/playing-the-team-games`) | Azerbaijan, *Fiziki Tərbiyə 7*, printed p. 89 |
+
+Azerbaijan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Azerbaijan's own way is content, as the book lines above record it: a theory-first course — knowing and managing your own body, the movement abilities taught one by one, then the basic sports, then independent work the pupil runs alone, with Azerbaijan's own sport story (its Olympic successes, its Rio 2016 athletes, and holding the first European Games) taught as national content. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: playing the team games, small ball games, team games, football rules, 110 m by 75 m pitch, offside, throw-in, corner kick, Pierluigi Collina, physical education, Ethiopia

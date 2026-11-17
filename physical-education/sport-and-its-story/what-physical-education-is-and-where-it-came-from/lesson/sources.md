@@ -1,6 +1,6 @@
 # Sources — What Physical Education Is and Where It Came From
 
-countries: Ethiopia, Mozambique, Namibia, Turkmenistan, Tajikistan, Afghanistan, China, Nicaragua
+countries: Ethiopia, Mozambique, Namibia, Turkmenistan, Tajikistan, Afghanistan, China, Nicaragua, Azerbaijan
 
 **Book 1:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–106 + front matter (114 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md.
 
@@ -32,7 +32,7 @@ countries: Ethiopia, Mozambique, Namibia, Turkmenistan, Tajikistan, Afghanistan,
 
 | Turkmenistan — Part I, The Origin of Physical Education — PE as part of general human culture, sport as the future of cultural life, and how PE and sport differ and join (original target `sport-and-its-story/what-physical-education-is-and-where-it-came-from`) | Turkmenistan, *Bedenterbiýe (Physical Education)*, Part I, printed pp. 15–18 |
 | Tajikistan — Part 1, The Origin of Physical Culture and Sport — how physical exercise began with early people's hunting, defence and work, and how throws, runs and jumps became practised movements (original target `sport-and-its-story/what-physical-education-is-and-where-it-came-from`) | Tajikistan, *Fizicheskaya Kultura (Physical Culture), Grades 1–4*, Part 1, printed pp. 6–9 |
-**Acceptance count: taught in 5 countries (Ethiopia, Turkmenistan, Tajikistan, China, Nicaragua).** Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Namibia is likewise added as teacher-guide evidence only, outside the acceptance count. Turkmenistan is added as student-book stock (see its row above), inside the acceptance count. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count.
+**Acceptance count: taught in 6 countries (Ethiopia, Turkmenistan, Tajikistan, China, Nicaragua, Azerbaijan).** Mozambique is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Namibia is likewise added as teacher-guide evidence only, outside the acceptance count. Turkmenistan is added as student-book stock (see its row above), inside the acceptance count. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. Nicaragua is added as student-book stock (Book 4; see its Nicaragua section below), inside the acceptance count; the Nicaragua teacher guides stocked in this lesson are teacher-guide evidence only, outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count.
 
 The Grade 5 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
 
@@ -172,5 +172,25 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/nicaragua-pe
 | Nicaragua — Unidad I, Breve Reseña histórica de la Educación Física — history of PE: prehistory, Greece/Sparta, Rome, Galen, pre-Columbian ball games, birth of modern gymnastics and of football/rugby/cricket (original target `sport-and-its-story/what-physical-education-is-and-where-it-came-from`) | Nicaragua Grade 6 Manual para Docentes, printed p. 8 |
 
 Nicaragua's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Nicaragua's own way is content, as the book lines above record it: PE taught in 45-minute periods twice weekly, every exercise and game introduced by its practical use in daily life, values, hygiene checks and the one-minute "fisminuto" movement break built into the method, chess taught as a PE unit with a cut-out board and pieces the class makes itself, and traditional and pre-sport games played with improvised local materials (rag-ball baseball, street football). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Azerbaijan — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/azerbaijan-pe-placements.md. The Azerbaijan books stocked in this lesson are Book 1. All five Azerbaijan books read for this expansion are STUDENT textbooks — the Georgian-language editions of Azerbaijan's Fiziki Tərbiyə textbooks for Georgian-medium schools in Azerbaijan, published in Baku. Grades 6, 7, 9 and 10 were read COMPLETE from their full text layers; Grade 8 is PARTIAL as filed — an image-only scan placed from its own full contents and opening chapters, its rows labelled as filed. Azerbaijan is therefore student-book stock, inside the acceptance count, in this lesson. The books' Health chapters are filed in azerbaijan-health-placements.md and placed in the Health course.
+
+**Book — Azerbaijan Grade 6 (student book):**
+## Book 1 — Fiziki Tərbiyə 6 (student book, Georgian-language edition of the Azerbaijani textbook)
+- Title as printed: ფიზიკური აღზრდა 6 — სახელმძღვანელო (Physical Education 6 — Textbook, for Grade 6 of general schools)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Ministry of Education of Azerbaijan, Baku; year 2018; ISBN no ISBN printed (author: Firat Hüseynov)
+- PDF pages: 164 (title page verified against the record title — title page reads "Physical Education 6, Textbook, Baku 2018")
+- Verdict: COMPLETE
+- Tally: 15 placements — 14 to existing lessons, 1 NEW LESSON NEEDED (Health chapters filed in azerbaijan-health-placements.md: 14 placements)
+- Azerbaijan's own way: a theory-first textbook — a long opening part on knowing and managing your own body, healthy lifestyle, hygiene, hardening and self-control with a sample self-control diary, then the movement abilities (speed, strength, flexibility, endurance) taught one by one, then athletics, gymnastics, basketball, football and swimming.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Azerbaijan — From the History of Sport — how physical exercise has been used since the first humans for food and self-defence (original target `sport-and-its-story/what-physical-education-is-and-where-it-came-from`) | Azerbaijan, *Fiziki Tərbiyə 6*, printed p. 6 |
+
+Azerbaijan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Azerbaijan's own way is content, as the book lines above record it: a theory-first course — knowing and managing your own body, the movement abilities taught one by one, then the basic sports, then independent work the pupil runs alone, with Azerbaijan's own sport story (its Olympic successes, its Rio 2016 athletes, and holding the first European Games) taught as national content. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: what physical education is, history of physical education, ancient Greece PE, modern PE, four words ጤና ሰውነት ማጎልመሻ ትምህርት, four growths, four purposes of PE, Ethiopia HPE Grades 5–6

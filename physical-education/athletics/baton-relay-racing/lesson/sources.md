@@ -1,6 +1,6 @@
 # Sources — Baton Relay Racing
 
-countries: Ethiopia, Pakistan, Afghanistan, Philippines, Nicaragua
+countries: Ethiopia, Pakistan, Afghanistan, Philippines, Nicaragua, Azerbaijan
 
 **Book — Grade 7 student:** *Grade 7 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 96 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g07-student-placements.md. COMPLETE.
 
@@ -18,7 +18,7 @@ countries: Ethiopia, Pakistan, Afghanistan, Philippines, Nicaragua
 | Relay exchanges in motion — Grade 9 | Ethiopia, Grade 9 student §3.2.2 Relay technique, printed pp. 51–55 |
 | Relay exchanges in motion — Grade 9 | Ethiopia, Grade 9 teacher Unit 3 sprint relay (teacher guide — evidence), printed pp. 37–38 |
 | The first relay — out, back, hand over; copy the broom game — Grade 3 (teacher guide — evidence) | Ethiopia, Grade 3 teacher §1.3 Tasks 1–2 (teacher guide — evidence), printed pp. 12–14 |
-**Acceptance count: taught in 3 countries (Ethiopia, Pakistan, Philippines).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 4 countries (Ethiopia, Pakistan, Philippines, Azerbaijan).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count.
 
 The Grade 3 teacher guide scan is TRUNCATED: it holds printed pp. 1–52 of 89+. Missing: §4.1 (p. 53), §4.2 (p. 57), §4.3 (p. 62), §4.4 (p. 65), all of Chapter 5 Gymnastics (pp. 69–84) and all of Chapter 6 (pp. 85–89+). Chapter 4 is present as its introduction page (printed p. 52) only. Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
 
@@ -107,5 +107,25 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/nicaragua-pe
 | Nicaragua — Unidad 5, Carrera de relevos — relay race as a pre-sport game (original target `athletics/baton-relay-racing`) | Nicaragua Grade 4 Manual para Docentes, printed p. 116 |
 
 Nicaragua's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Nicaragua's own way is content, as the book lines above record it: PE taught in 45-minute periods twice weekly, every exercise and game introduced by its practical use in daily life, values, hygiene checks and the one-minute "fisminuto" movement break built into the method, chess taught as a PE unit with a cut-out board and pieces the class makes itself, and traditional and pre-sport games played with improvised local materials (rag-ball baseball, street football). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Azerbaijan — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/azerbaijan-pe-placements.md. The Azerbaijan books stocked in this lesson are Book 2. All five Azerbaijan books read for this expansion are STUDENT textbooks — the Georgian-language editions of Azerbaijan's Fiziki Tərbiyə textbooks for Georgian-medium schools in Azerbaijan, published in Baku. Grades 6, 7, 9 and 10 were read COMPLETE from their full text layers; Grade 8 is PARTIAL as filed — an image-only scan placed from its own full contents and opening chapters, its rows labelled as filed. Azerbaijan is therefore student-book stock, inside the acceptance count, in this lesson. The books' Health chapters are filed in azerbaijan-health-placements.md and placed in the Health course.
+
+**Book — Azerbaijan Grade 7 (student book):**
+## Book 2 — Fiziki Tərbiyə 7 (student book, Georgian-language edition of the Azerbaijani textbook)
+- Title as printed: ფიზიკური აღზრდა 7 — სახელმძღვანელო (Physical Education 7 — Textbook, for Grade 7 of general schools)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education of Azerbaijan, Baku; year 2018; ISBN no ISBN printed (author: Firat Hüseynov)
+- PDF pages: 140 (title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 20 placements — 15 to existing lessons, 5 NEW LESSON NEEDED (Health chapters filed in azerbaijan-health-placements.md: 5 placements, incl. 3 HELD)
+- Azerbaijan's own way: Grade 7 turns to sport technique — athletics with relay and run-up high jump, apparatus gymnastics and acrobatics for boys, then four ball games with named technique chapters (basketball stops, turns, passes and shots; football ball-carrying, goalkeeping and defence), swimming with rescuing a drowning person, and a closing part that develops each physical ability.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Azerbaijan — Relay Running — relay running technique (original target `athletics/baton-relay-racing`) | Azerbaijan, *Fiziki Tərbiyə 7*, printed p. 32 |
+
+Azerbaijan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Azerbaijan's own way is content, as the book lines above record it: a theory-first course — knowing and managing your own body, the movement abilities taught one by one, then the basic sports, then independent work the pupil runs alone, with Azerbaijan's own sport story (its Olympic successes, its Rio 2016 athletes, and holding the first European Games) taught as national content. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: baton relay racing, the baton relay, the upsweep changeover, the downsweep changeover, first relay የደርስ መልስ ሩጫ, broom game መሣረቢን ያየችሁ ጨዋታ, object skills, physical education, Ethiopia

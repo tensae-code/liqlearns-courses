@@ -1,6 +1,6 @@
 # Sources — Gymnastics with Apparatus
 
-countries: Ethiopia, Kazakhstan, China, El Salvador, Philippines
+countries: Ethiopia, Kazakhstan, China, El Salvador, Philippines, Azerbaijan
 
 **Book — Grade 5 student:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 106 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md. COMPLETE.
 
@@ -24,7 +24,7 @@ countries: Ethiopia, Kazakhstan, China, El Salvador, Philippines
 | Parallel bars — the support swing — Grade 8 | Ethiopia, Grade 8 student §5.3 Apparatus gymnastics — parallel bars, printed pp. 59–63 |
 | Strong in my own space: weight shifts and hanging — Grade 3 (teacher guide — evidence) | Ethiopia, Grade 3 teacher §1.2 Tasks 1–3 (teacher guide — evidence), printed pp. 8–11 |
 | Kazakhstan — Quarters 1, 2 and 4 — exercises on gymnastic apparatus (mats, bars, vaulting horse, goat, rope, horizontal bar in the Lesson 19 equipment list) and the obstacle course (полоса препятствий) (teacher guide — evidence) (original target `gymnastics/gymnastics-with-apparatus`) | Kazakhstan, *Physical Culture, Methodological Guide for Grade 4 Teachers* (Kazakhstan Grade 4 TG), printed pp. 5, 20 |
-**Acceptance count: taught in 3 countries (Ethiopia, China, Philippines).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count.
+**Acceptance count: taught in 4 countries (Ethiopia, China, Philippines, Azerbaijan).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Kazakhstan is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count, so the count stays 1. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count.
 
 The Grade 3 teacher guide scan is TRUNCATED: it holds printed pp. 1–52 of 89+. Missing: §4.1 (p. 53), §4.2 (p. 57), §4.3 (p. 62), §4.4 (p. 65), all of Chapter 5 Gymnastics (pp. 69–84) and all of Chapter 6 (pp. 85–89+). Chapter 4 is present as its introduction page (printed p. 52) only. Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
 
@@ -104,5 +104,25 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/philippines-
 | Philippines — Aralin 2.3.1: Ritmikong Pagkakasunud-sunod sa Tulong ng mga Kagamitan — building rhythmic sequences with implements (ribbon/laso, hula hoop, ball), combining skip, gallop step, walk and clap patterns to the song Magtanim ay di Biro (original target `gymnastics/gymnastics-with-apparatus`) | Philippines Grade 2 PE LM (Tagalog), printed p. 337 |
 
 Philippines's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Philippines's own way is content, as the book lines above record it: PE 7 is a self-paced workbook whose sessions run Introductory Activity / Skill Development / Application / Assessment, with learners measuring their own pulse, target heart-rate zones and activity index; Grade 3 PE is taught through Filipino action songs and familiar scenes; the Grade 3 Unit 3 quarter moves from movement concepts to Kunday-Kunday and Tumbang Preso; and Grade 2 PE is taught entirely in the mother tongue inside the single MAPEH book, returning to tikas (posture) every quarter. Game and dance rules and steps are taught only as the placements summarise them; no rules have been invented.
+
+## Azerbaijan — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/azerbaijan-pe-placements.md. The Azerbaijan books stocked in this lesson are Book 2. All five Azerbaijan books read for this expansion are STUDENT textbooks — the Georgian-language editions of Azerbaijan's Fiziki Tərbiyə textbooks for Georgian-medium schools in Azerbaijan, published in Baku. Grades 6, 7, 9 and 10 were read COMPLETE from their full text layers; Grade 8 is PARTIAL as filed — an image-only scan placed from its own full contents and opening chapters, its rows labelled as filed. Azerbaijan is therefore student-book stock, inside the acceptance count, in this lesson. The books' Health chapters are filed in azerbaijan-health-placements.md and placed in the Health course.
+
+**Book — Azerbaijan Grade 7 (student book):**
+## Book 2 — Fiziki Tərbiyə 7 (student book, Georgian-language edition of the Azerbaijani textbook)
+- Title as printed: ფიზიკური აღზრდა 7 — სახელმძღვანელო (Physical Education 7 — Textbook, for Grade 7 of general schools)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education of Azerbaijan, Baku; year 2018; ISBN no ISBN printed (author: Firat Hüseynov)
+- PDF pages: 140 (title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 20 placements — 15 to existing lessons, 5 NEW LESSON NEEDED (Health chapters filed in azerbaijan-health-placements.md: 5 placements, incl. 3 HELD)
+- Azerbaijan's own way: Grade 7 turns to sport technique — athletics with relay and run-up high jump, apparatus gymnastics and acrobatics for boys, then four ball games with named technique chapters (basketball stops, turns, passes and shots; football ball-carrying, goalkeeping and defence), swimming with rescuing a drowning person, and a closing part that develops each physical ability.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Azerbaijan — Hangs and Supports; Exercises on the Horizontal Bar and Parallel Bars (boys) — apparatus work (original target `gymnastics/gymnastics-with-apparatus`) | Azerbaijan, *Fiziki Tərbiyə 7*, printed pp. 43–48 |
+
+Azerbaijan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Azerbaijan's own way is content, as the book lines above record it: a theory-first course — knowing and managing your own body, the movement abilities taught one by one, then the basic sports, then independent work the pupil runs alone, with Azerbaijan's own sport story (its Olympic successes, its Rio 2016 athletes, and holding the first European Games) taught as national content. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: gymnastics with apparatus, apparatus gymnastics, single bar, uneven bars, bar work, weight shifts ክብደትን በመስናክል ላይ የማከተላለፍ እንቅስቃሴ, high rope hanging ለከፍታ ገመድ ማንጠልጠል, alternate hanging መሳብና በአምራጭ መንጠልጠል, physical education, Ethiopia

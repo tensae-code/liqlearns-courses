@@ -1,8 +1,8 @@
 # Sources — Adapted Physical Education
 
-countries: Afghanistan
+countries: Afghanistan, Azerbaijan
 
-**Acceptance count: taught in 0 countries.** Afghanistan is teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count — this lesson is founded on Afghanistan's teacher guides only, and no pupil's book is in hand for it.
+**Acceptance count: taught in 1 country (Azerbaijan).** Afghanistan is teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count — the lesson was founded on Afghanistan's teacher guides only; a pupil's book (Azerbaijan's) is now also in hand for it. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count.
 
 ## Afghanistan — PE expansion 2026-11-16
 
@@ -26,5 +26,25 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/afghanistan-
 Afghanistan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Afghanistan's own way is content, as the book lines above record it: the Grade 7 year is planned twice over — one annual plan for cold-region schools (year starts in Hamal) and one for warm-region schools (year starts in Sunbula) — with theory taught orally at the start or end of the practical hour, and the practical year resting on fitness, athletics, volleyball and Afghanistan's own traditional games; the Grade 10 lycee year is built on exactly two sports — basketball in the first half-year, tennis in the second — over a base of physical fitness, with the sciences around sport, first aid, sports massage and a full chapter on including disabled children in PE. Both Afghanistan books are teacher guides, filed as evidence only, outside the acceptance count. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 This is a canonical NEW lesson (slug-registry Part 1: `fitness-and-stretching/adapted-physical-education` — Adapted physical education: adjusting activity so every child — including children with disabilities — can take part.); Afghanistan's placements were filed under the original strings recorded in the provenance rows above, resolved by registry Part 2 to this canonical slug where the string differs. Afghanistan enters this lesson as teacher-guide evidence only, outside the acceptance count.
+
+## Azerbaijan — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/azerbaijan-pe-placements.md. The Azerbaijan books stocked in this lesson are Book 3. All five Azerbaijan books read for this expansion are STUDENT textbooks — the Georgian-language editions of Azerbaijan's Fiziki Tərbiyə textbooks for Georgian-medium schools in Azerbaijan, published in Baku. Grades 6, 7, 9 and 10 were read COMPLETE from their full text layers; Grade 8 is PARTIAL as filed — an image-only scan placed from its own full contents and opening chapters, its rows labelled as filed. Azerbaijan is therefore student-book stock, inside the acceptance count, in this lesson. The books' Health chapters are filed in azerbaijan-health-placements.md and placed in the Health course.
+
+**Book — Azerbaijan Grade 8 (student book):**
+## Book 3 — Fiziki Tərbiyə 8 (student book, Georgian-language edition of the Azerbaijani textbook)
+- Title as printed: ფიზიკური აღზრდა — სახელმძღვანელო, საერთო სკოლების მე-8 კლასისთვის (Physical Education — Textbook for Grade 8 of general schools)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: «ASPOLİQRAF», Baku (for the Ministry of Education of Azerbaijan); year no year printed on the pages read; ISBN no ISBN printed (author: Firat Hüseynov)
+- PDF pages: 147 (cover verified against the record title — cover reads "Physical Education 8" with the grade numeral 8; this copy is image-only with no text layer, so it was read from rendered pages: cover, title page, full contents and the opening theory chapters)
+- Verdict: PARTIAL — contents-level read of an image-only scan: every part and chapter is placed from the book's own full contents (printed pp. 3–4 of the PDF) and the opening chapters were read in full; chapter interiors were not read page by page
+- Tally: 15 placements — 11 to existing lessons, 4 NEW LESSON NEEDED (Health chapters filed in azerbaijan-health-placements.md: 10 placements, incl. 5 HELD)
+- Azerbaijan's own way: Grade 8 is organised as theory (the adolescent body system by system, self-control, hygiene, hardening, adaptive PE, safety), then the six basic sports, then a large individual-exercise part the pupil runs alone — morning gymnastics, raising your own preparedness, training methods, and nutrition and rest around training.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Azerbaijan — Part I: Adaptive Physical Education — physical education adapted to the pupil's condition (original target `fitness-and-stretching/adaptive-physical-education`) | Azerbaijan, *Fiziki Tərbiyə 8*, printed p. 32 |
+
+Azerbaijan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Azerbaijan's own way is content, as the book lines above record it: a theory-first course — knowing and managing your own body, the movement abilities taught one by one, then the basic sports, then independent work the pupil runs alone, with Azerbaijan's own sport story (its Olympic successes, its Rio 2016 athletes, and holding the first European Games) taught as national content. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: adapted physical education, adapted PE, disabilities, inclusion, intellectual disability, hearing impairment, sight impairment, Afghanistan Grade 10

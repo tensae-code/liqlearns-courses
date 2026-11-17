@@ -1,6 +1,6 @@
 # Sources — Heart and Breathing Fitness
 
-countries: Ethiopia, Namibia, Turkmenistan, Tajikistan, Samoa, Timor-Leste, United Kingdom, Thailand, Afghanistan, China, El Salvador, Philippines, Nicaragua
+countries: Ethiopia, Namibia, Turkmenistan, Tajikistan, Samoa, Timor-Leste, United Kingdom, Thailand, Afghanistan, China, El Salvador, Philippines, Nicaragua, Azerbaijan
 
 **Book — Grade 1 student:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 81 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md. COMPLETE.
 
@@ -74,7 +74,7 @@ countries: Ethiopia, Namibia, Turkmenistan, Tajikistan, Samoa, Timor-Leste, Unit
 | United Kingdom — Component 1 Topic 1.3: Anaerobic and aerobic exercise — how the body makes energy with and without oxygen, and recovery (original target `fitness-and-stretching/heart-and-breathing-fitness`) | United Kingdom, *Edexcel GCSE (9-1) Physical Education Student Book, 2nd edition* (United Kingdom GCSE Edexcel PE Student Book), Component 1 Topic 1.3, printed p. 35 |
 | Thailand — Unit 3, Ch. 4 Exercise to build fitness — choosing exercise, folk play and games that suit your own strengths and limits, and building physical fitness as advised (student book — SSR flipbook sample, PARTIAL) (original target `fitness-and-stretching/heart-and-breathing-fitness`) | Thailand, *Health & PE, Grade 3* (Thailand Grade 3 SSR Health & PE), Unit 3, Ch. 4, printed pp. 72–86 |
 | Thailand — Unit 3, Ch. 1 Exercise — combined movement patterns and controlling yourself while using movement skills (student book — SSR flipbook sample, PARTIAL) (original target `fitness-and-stretching/heart-and-breathing-fitness`) | Thailand, *Health & PE, Grade 5* (Thailand Grade 5 SSR Health & PE), Unit 3, Ch. 1, printed pp. 53–66 |
-**Acceptance count: taught in 8 countries (Ethiopia, Turkmenistan, Tajikistan, Timor-Leste, United Kingdom, Thailand, China, Philippines).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Namibia is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Turkmenistan is added as student-book stock (see its row above), inside the acceptance count. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Samoa is added as curriculum-statement and teacher-guide evidence only (see its rows above), named in the countries line but outside the acceptance count. Timor-Leste is added as student-book stock (see its row above), inside the acceptance count. United Kingdom is added as student-book stock (see its rows above), inside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count.
+**Acceptance count: taught in 9 countries (Ethiopia, Turkmenistan, Tajikistan, Timor-Leste, United Kingdom, Thailand, China, Philippines, Azerbaijan).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught. Namibia is added as teacher-guide evidence only (see its row above), named in the countries line but outside the acceptance count. Turkmenistan is added as student-book stock (see its row above), inside the acceptance count. Tajikistan is added as student-book stock (see its row above), inside the acceptance count. Samoa is added as curriculum-statement and teacher-guide evidence only (see its rows above), named in the countries line but outside the acceptance count. Timor-Leste is added as student-book stock (see its row above), inside the acceptance count. United Kingdom is added as student-book stock (see its rows above), inside the acceptance count. Thailand is added as student-book stock from publisher sample editions (PARTIAL reads, labelled as filed — see its book lines above), inside the acceptance count. Afghanistan is added as teacher-guide evidence only (see its rows below), named in the countries line but outside the acceptance count. China is added as student-book stock (see its rows below), inside the acceptance count. El Salvador is added as teacher-guide evidence only (see its El Salvador section below), named in the countries line but outside the acceptance count. Philippines is added as student-book stock (see its Philippines section below), inside the acceptance count. Nicaragua is added as teacher-guide evidence only (see its Nicaragua section below), named in the countries line but outside the acceptance count. Azerbaijan is added as student-book stock (see its Azerbaijan section below), inside the acceptance count.
 
 Student books Grades 1–4 are complete. No page is claimed that the placements do not give. Dance and game rules are taught only as the placements summarise them; no rules have been invented for any game the placements leave game-dependent.
 
@@ -220,5 +220,53 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/nicaragua-pe
 | Nicaragua — Unidad 3, Ejercicios y actividades de respiración — breathing exercises and activities within athletics training (original target `fitness-and-stretching/heart-and-breathing-fitness`) | Nicaragua Grade 4 Manual para Docentes, printed p. 84 |
 
 Nicaragua's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Nicaragua's own way is content, as the book lines above record it: PE taught in 45-minute periods twice weekly, every exercise and game introduced by its practical use in daily life, values, hygiene checks and the one-minute "fisminuto" movement break built into the method, chess taught as a PE unit with a cut-out board and pieces the class makes itself, and traditional and pre-sport games played with improvised local materials (rag-ball baseball, street football). Game and sport rules are taught only as the placements summarise them; no rules have been invented.
+
+## Azerbaijan — PE expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/azerbaijan-pe-placements.md. The Azerbaijan books stocked in this lesson are Book 1, Book 2, Book 3. All five Azerbaijan books read for this expansion are STUDENT textbooks — the Georgian-language editions of Azerbaijan's Fiziki Tərbiyə textbooks for Georgian-medium schools in Azerbaijan, published in Baku. Grades 6, 7, 9 and 10 were read COMPLETE from their full text layers; Grade 8 is PARTIAL as filed — an image-only scan placed from its own full contents and opening chapters, its rows labelled as filed. Azerbaijan is therefore student-book stock, inside the acceptance count, in this lesson. The books' Health chapters are filed in azerbaijan-health-placements.md and placed in the Health course.
+
+**Book — Azerbaijan Grade 6 (student book):**
+## Book 1 — Fiziki Tərbiyə 6 (student book, Georgian-language edition of the Azerbaijani textbook)
+- Title as printed: ფიზიკური აღზრდა 6 — სახელმძღვანელო (Physical Education 6 — Textbook, for Grade 6 of general schools)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Ministry of Education of Azerbaijan, Baku; year 2018; ISBN no ISBN printed (author: Firat Hüseynov)
+- PDF pages: 164 (title page verified against the record title — title page reads "Physical Education 6, Textbook, Baku 2018")
+- Verdict: COMPLETE
+- Tally: 15 placements — 14 to existing lessons, 1 NEW LESSON NEEDED (Health chapters filed in azerbaijan-health-placements.md: 14 placements)
+- Azerbaijan's own way: a theory-first textbook — a long opening part on knowing and managing your own body, healthy lifestyle, hygiene, hardening and self-control with a sample self-control diary, then the movement abilities (speed, strength, flexibility, endurance) taught one by one, then athletics, gymnastics, basketball, football and swimming.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Azerbaijan — Endurance — developing endurance (original target `fitness-and-stretching/heart-and-breathing-fitness`) | Azerbaijan, *Fiziki Tərbiyə 6*, printed p. 116 |
+
+**Book — Azerbaijan Grade 7 (student book):**
+## Book 2 — Fiziki Tərbiyə 7 (student book, Georgian-language edition of the Azerbaijani textbook)
+- Title as printed: ფიზიკური აღზრდა 7 — სახელმძღვანელო (Physical Education 7 — Textbook, for Grade 7 of general schools)
+- Grade: Grade 7 (student/teacher: STUDENT)
+- Publisher: Ministry of Education of Azerbaijan, Baku; year 2018; ISBN no ISBN printed (author: Firat Hüseynov)
+- PDF pages: 140 (title page verified against the record title)
+- Verdict: COMPLETE
+- Tally: 20 placements — 15 to existing lessons, 5 NEW LESSON NEEDED (Health chapters filed in azerbaijan-health-placements.md: 5 placements, incl. 3 HELD)
+- Azerbaijan's own way: Grade 7 turns to sport technique — athletics with relay and run-up high jump, apparatus gymnastics and acrobatics for boys, then four ball games with named technique chapters (basketball stops, turns, passes and shots; football ball-carrying, goalkeeping and defence), swimming with rescuing a drowning person, and a closing part that develops each physical ability.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Azerbaijan — Developing the Abilities: Endurance (original target `fitness-and-stretching/heart-and-breathing-fitness`) | Azerbaijan, *Fiziki Tərbiyə 7*, printed p. 117 |
+
+**Book — Azerbaijan Grade 8 (student book):**
+## Book 3 — Fiziki Tərbiyə 8 (student book, Georgian-language edition of the Azerbaijani textbook)
+- Title as printed: ფიზიკური აღზრდა — სახელმძღვანელო, საერთო სკოლების მე-8 კლასისთვის (Physical Education — Textbook for Grade 8 of general schools)
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: «ASPOLİQRAF», Baku (for the Ministry of Education of Azerbaijan); year no year printed on the pages read; ISBN no ISBN printed (author: Firat Hüseynov)
+- PDF pages: 147 (cover verified against the record title — cover reads "Physical Education 8" with the grade numeral 8; this copy is image-only with no text layer, so it was read from rendered pages: cover, title page, full contents and the opening theory chapters)
+- Verdict: PARTIAL — contents-level read of an image-only scan: every part and chapter is placed from the book's own full contents (printed pp. 3–4 of the PDF) and the opening chapters were read in full; chapter interiors were not read page by page
+- Tally: 15 placements — 11 to existing lessons, 4 NEW LESSON NEEDED (Health chapters filed in azerbaijan-health-placements.md: 10 placements, incl. 5 HELD)
+- Azerbaijan's own way: Grade 8 is organised as theory (the adolescent body system by system, self-control, hygiene, hardening, adaptive PE, safety), then the six basic sports, then a large individual-exercise part the pupil runs alone — morning gymnastics, raising your own preparedness, training methods, and nutrition and rest around training.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Azerbaijan — Part III: Endurance (original target `fitness-and-stretching/heart-and-breathing-fitness`) | Azerbaijan, *Fiziki Tərbiyə 8*, printed p. 122 |
+
+Azerbaijan's placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the PE slug registry (Part 2) to this lesson where the string differs from this lesson's slug; the original string is recorded in each row. Azerbaijan's own way is content, as the book lines above record it: a theory-first course — knowing and managing your own body, the movement abilities taught one by one, then the basic sports, then independent work the pupil runs alone, with Azerbaijan's own sport story (its Olympic successes, its Rio 2016 athletes, and holding the first European Games) taught as national content. Game and sport rules are taught only as the placements summarise them; no rules have been invented.
 
 Searchable tags: heart and breathing fitness, what heart and breathing fitness is, heart and breathing fitness grows, fitness that protects the heart and breathing, the six-minute run and steady stepping, physical education, Ethiopia, Rope jumping for fitness — your own rope, and the long rope (teacher guide — evidence)
