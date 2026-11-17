@@ -427,6 +427,30 @@ index (the student book prints the same units a few pages
 later), as filed. No Timor-Leste placement resolves to a
 PE-course lesson, so none was excluded as PE-bound.
 
+**Health expansion — Bulgaria — BUILT 2026-11-16:** 22 placements
+stocked — 20 into existing lessons (Preventing Common Diseases
+×9, Caring for My Senses ×3, Saying No to Drugs, Alcohol and
+Tobacco ×3, Eating a Balanced Diet, Non-communicable Diseases,
+Vaccines and Immunisation, Knowing Myself and My Feelings,
+Preventing Sports Injuries and First Aid) and 2 as a new lesson
+(Staying Safe in Nature) — bringing this course to **47 lessons**.
+All 22 placements are from Bulgaria's four Педагог 6 *Биология и
+здравно образование* (Biology and Health Education) student
+books, Grades 7–10 (2024, all COMPLETE for Health scope; the
+Biology parts are named in each book line and not placed). All
+four books are STUDENT books, so Bulgaria is student-book stock,
+inside the acceptance count, in every lesson it touches (each
+touched lesson's count rose by 1; the new lesson stands at
+acceptance count 1). The four books are image-only PDFs secured
+as oversized release assets in the textbooks repo — the grab.py
+tree 404 is because oversized books live in Releases, not the
+git tree; they are NOT phantom pushes, as filed. Record 5 of
+the placements file is an UNREAD link lead (a different book —
+Klett/Булвест 2000 English G9 Part 1 via FlipHTML5) with
+0 placements, nothing stocked from it. No Bulgaria placement
+resolves to a PE-course lesson, so none was excluded as
+PE-bound.
+
 ## Unit 1 — Staying Safe
 
 1. **Hygiene for Sport — Wash After Exercise** (`staying-safe/hygiene-for-sport`) — personal hygiene around sport: sweat and dirt left unwashed become a breeding place for bacteria — so wash the body after PE and sport, keep sports…
@@ -475,6 +499,7 @@ PE-course lesson, so none was excluded as PE-bound.
 35. **Water Safety** (`staying-safe/water-safety`) — water safety: staying safe in and around water — pools, rivers and the sea — taught in Samoa's Years 1–8 Curriculum as simple water safety rules for river, sea and swimming pools, practised every year, with swimming classes (optional) (Samoa curriculum statement, evidence only).
 36. **Health Services and Health Workers** (`staying-safe/health-services-and-health-workers`) — health services and health workers: doctors, nurses and health workers, clinics and hospitals, health checks and screening, patient rights, and health information and promotion in the community — taught in Samoa's Years 11–12 Teacher Guide as family and community health promotion: family health issues, family involvement in health promotion, health agencies and where to find them (AIDS awareness, family planning and others), effective use of community resources, the rights of all community members to good health, and village co-operatives such as Asiasiga Maumaga (taro growers) whose labour-intensive work keeps them fit (Samoa teacher guide, evidence only).
 37. **Sleep and Rest** (`staying-safe/sleep-and-rest`) — sleep and rest: why the body and mind need sleep and rest, and sleeping well — taught in Timor-Leste's Grade 7 *Saúde e Bem-Estar* student book as social media, sleep and sleep hygiene: how social media affects sleep, and what sleep hygiene is (Unit 4, printed p. 97).
+38. **Staying Safe in Nature** (`staying-safe/staying-safe-in-nature`) — staying safe in nature: poisonous plants, mushrooms and snakes, harmful insects, and finding the way out of danger outdoors — taught in Bulgaria's Grade 7 *Биология и здравно образование* student book as Bulgaria's own poisonous mushrooms (recognising the fly agaric, panther cap and death cap, symptoms appearing 8–24 hours after eating, and that a few grams of the green death cap can kill, printed p. 66) and Bulgaria's poisonous snakes (6 venomous snakes, the horned viper and adder dangerous to humans, medical help immediately after a bite, printed p. 114).
 
 ## Unit 2 — Fair Play and the Body
 

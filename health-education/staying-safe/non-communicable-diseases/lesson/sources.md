@@ -1,8 +1,8 @@
 # Sources — Non-communicable Diseases
 
-countries: Cuba, Oman, Samoa
+countries: Cuba, Oman, Samoa, Bulgaria
 
-**Acceptance count: taught in 0 countries.** Cuba is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand. Oman is likewise filed as teacher-guide evidence only, outside the acceptance count.
+**Acceptance count: taught in 0 countries.** Cuba is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand. Oman is likewise filed as teacher-guide evidence only, outside the acceptance count. Bulgaria is filed as student-book stock, inside the acceptance count, in this lesson — the first pupil's book in hand for this lesson, so the acceptance count rises from 0 to 1 country.
 
 **Book 2 (cross-filed) — G2 Orientaciones Metodológicas (teacher guide, Spanish):**
 - Title as printed: Orientaciones Metodológicas — Educación Física, segundo grado
@@ -54,4 +54,23 @@ Oman is added as teacher-guide evidence only (see its book line and row above), 
 
 Samoa is added as curriculum-statement / teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — both Samoa books are TEACHER books (Book 1 a curriculum statement for teachers, Book 2 a teacher guide), so Samoa is named in the countries line and provenance row(s) but the acceptance count is unchanged (still taught in 0 countries). The Samoa placement was filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson `staying-safe/non-communicable-diseases` by registry Part 2B (HELD description: "Lifestyle diseases and healthy choices, Years 5–8"), and the original string is recorded in the provenance row above. Samoa's own way is content, as the book line(s) above record it: lifestyle diseases are taught with Samoa's own health checks — blood pressure, blood sugar and iron levels — and strategies to maintain personal health into old age.
 
-Searchable tags: non-communicable diseases, obesity, overweight, BMI percentile tables, childhood overweight, Cuba, Orientaciones Metodológicas Educación Física segundo grado, obesity السمنة, causes and harms of obesity, preventing obesity, Oman G7 Teacher Guide, lifestyle diseases NCDs health checks blood pressure blood sugar iron levels healthy choices, Samoa Years 1–8 Curriculum
+
+**Book 2 — Биология и здравно образование за 8. клас (student book, Bulgarian):**
+- Title as printed: БИОЛОГИЯ И ЗДРАВНО ОБРАЗОВАНИЕ 8 КЛАС (cover also carries the dual-use line "Първа част за 9. клас при обучение с интензивно изучаване на чужд език") — Наташа Цанова, Снежана Томова, Петър Райчев, Надежда Райчева, Иса Хаджиали
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Издателство „Педагог 6"; year 2024; ISBN no ISBN printed on the pages read
+- PDF pages: 154 (cover verified against the record title; byte size 131,433,247 matches the record)
+- Verdict: COMPLETE (for Health scope)
+- Tally: 16 placements — 1 to existing lessons, 15 NEW LESSON NEEDED
+- Bulgaria's own way: This is the human-body year: every body system is taught in the same rhythm — structure, then a dedicated "Заболявания и профилактика" (Diseases and prevention) lesson, then discussion lessons ("Гледна точка") where pupils debate smoking, psychoactive substances and the "perfect figure in no time" body-image promise. Health education here IS disease prevention system by system, plus a practical first-aid lesson.
+- Biology parts (named, not placed): Структурна организация на човешкия организъм (pp. 10–17); the anatomy/physiology lessons of each system — digestive (pp. 18–26), respiratory (pp. 34–36), urinary (pp. 44–46), cardiovascular (pp. 50–56), musculoskeletal (pp. 69–80), reproductive incl. embryonic/postnatal development (pp. 91–106), nervous (pp. 110–118), endocrine (pp. 126–128), sensory systems and skin structure (pp. 131–141). "ЗНАМ И МОГА" sections are the book's own assessment — excluded per brief.
+- The 4 secured Bulgaria books are image-only PDFs (assembled from the publisher's free reader page images); they were secured as oversized release assets in the textbooks repo (release `full-quality-oversized-books`, asset names = repo path with dashes; byte sizes match the records exactly) and were read via cover + full table of contents + the health chapters rendered and read page by page. The tree route in grab.py returns 404 for these files because oversized books live in Releases, not the git tree — they are NOT phantom pushes (see group log).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/bulgaria-health-placements.md (Book 2 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bulgaria — Lesson 19, Заболявания и профилактика на сърдечносъдовата система — cardiovascular diseases and prevention (original string `staying-safe/preventing-cardiovascular-diseases`) | Bulgaria, *Биология и здравно образование за 8. клас* (Bulgaria Grade 8 Biology and Health Education), Lesson 19, printed p. 57 |
+
+Bulgaria is added as student-book stock (see its book line and row above), inside the acceptance count — the Bulgaria book is a STUDENT book, so Bulgaria is named in the countries line and provenance row and the acceptance count rises from 0 to 1 country. The Bulgaria placement was filed under the original string `staying-safe/preventing-cardiovascular-diseases`, resolved to this canonical lesson `staying-safe/non-communicable-diseases` by registry Part 2 and recorded in the provenance row above. Bulgaria's own way is content, as the book line above records it: cardiovascular diseases and their prevention get their own dedicated "Заболявания и профилактика" lesson inside the Grade 8 human-body year. This lesson teaches its placement only as the placements file summarises it, and names nothing the summary does not name.
+
+Searchable tags: non-communicable diseases, obesity, overweight, BMI percentile tables, childhood overweight, Cuba, Orientaciones Metodológicas Educación Física segundo grado, obesity السمنة, causes and harms of obesity, preventing obesity, Oman G7 Teacher Guide, lifestyle diseases NCDs health checks blood pressure blood sugar iron levels healthy choices, Samoa Years 1–8 Curriculum, cardiovascular diseases and prevention, Bulgaria Biology and Health Education Grade 8 Pedagog 6

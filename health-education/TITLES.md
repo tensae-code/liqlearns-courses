@@ -157,3 +157,18 @@ Sick, Preventing Common Diseases, Staying Safe in Disasters
 7, Manual do aluno*, is a student book, so each touched
 lesson's acceptance count rose by 1; Book 2, the teacher
 guide, is filed as evidence only, outside the counts.
+
+The Health expansion then added (Bulgaria): **Staying Safe
+in Nature** (`staying-safe/staying-safe-in-nature`) — 1 new
+lesson, bringing this course to 47 lessons. A further 20
+Bulgaria placements were stocked into existing lessons
+(Preventing Common Diseases ×9, Caring for My Senses ×3,
+Saying No to Drugs, Alcohol and Tobacco ×3, Eating a Balanced
+Diet, Non-communicable Diseases, Vaccines and Immunisation,
+Knowing Myself and My Feelings, Preventing Sports Injuries
+and First Aid), all as student-book stock — all four Bulgaria
+books (Педагог 6 *Биология и здравно образование*, Grades
+7–10) are student books, so each touched lesson's acceptance
+count rose by 1; the new lesson stands at acceptance count 1.
+Record 5 of the Bulgaria placements file is an UNREAD link
+lead with 0 placements, nothing stocked from it.

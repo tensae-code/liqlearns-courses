@@ -1,8 +1,8 @@
 # Sources — Knowing Myself and My Feelings
 
-countries: Samoa, Timor-Leste
+countries: Samoa, Timor-Leste, Bulgaria
 
-**Acceptance count: taught in 1 country.** Samoa is filed as curriculum statement evidence only in this lesson — named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count).
+**Acceptance count: taught in 2 countries.** Bulgaria is filed as student-book stock, inside the acceptance count, in this lesson. Samoa is filed as curriculum statement evidence only in this lesson — named in the countries line and provenance row, but outside the acceptance count; no pupil's book is in hand for this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count).
 
 **Book 1 — Samoa HPE Primary Curriculum Statement, Years 1–8 (curriculum statement, English):**
 - Title as printed: Health and Physical Education, Years 1–8, Primary School Curriculum
@@ -49,4 +49,23 @@ This is a canonical NEW lesson (slug-registry Part 1: `fair-play-and-the-body/kn
 
 Timor-Leste is added as student-book stock (see its book lines and rows above), inside the acceptance count — Book 1 is a STUDENT book, so Timor-Leste is named in the countries line and provenance rows and the acceptance count rises (now taught in 1 country). Book 2, the teacher guide, is filed as evidence only, outside the acceptance count — it carries the same ten units as Book 1 as full lesson plans and is the student book's evidence pair; its content is not double-placed. Both Timor-Leste placements were filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson `fair-play-and-the-body/knowing-myself-and-my-feelings` by registry Part 2B (HELD descriptions: "Unit 3: Self-esteem and body image — self-esteem, self-worth, what lowers confidence, and body image" and "Unit 3: Resilience and confidence — building resilience and confidence"), and the original string is recorded in the provenance rows above. Each placement is carried in its own provenance row. Timor-Leste's own way is content, as the book lines above record it: self-esteem, self-worth and body image are taught as their own unit, followed by building resilience and confidence. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: knowing myself feelings, personal identity self-esteem, cultural spiritual beliefs values, social messages stereotyping media, personal strengths teenage challenges, Samoa Years 1–8 Curriculum, self-esteem self-worth body image what lowers confidence, resilience confidence, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book
+
+**Book 2 — Биология и здравно образование за 8. клас (student book, Bulgarian):**
+- Title as printed: БИОЛОГИЯ И ЗДРАВНО ОБРАЗОВАНИЕ 8 КЛАС (cover also carries the dual-use line "Първа част за 9. клас при обучение с интензивно изучаване на чужд език") — Наташа Цанова, Снежана Томова, Петър Райчев, Надежда Райчева, Иса Хаджиали
+- Grade: Grade 8 (student/teacher: STUDENT)
+- Publisher: Издателство „Педагог 6"; year 2024; ISBN no ISBN printed on the pages read
+- PDF pages: 154 (cover verified against the record title; byte size 131,433,247 matches the record)
+- Verdict: COMPLETE (for Health scope)
+- Tally: 16 placements — 1 to existing lessons, 15 NEW LESSON NEEDED
+- Bulgaria's own way: This is the human-body year: every body system is taught in the same rhythm — structure, then a dedicated "Заболявания и профилактика" (Diseases and prevention) lesson, then discussion lessons ("Гледна точка") where pupils debate smoking, psychoactive substances and the "perfect figure in no time" body-image promise. Health education here IS disease prevention system by system, plus a practical first-aid lesson.
+- Biology parts (named, not placed): Структурна организация на човешкия организъм (pp. 10–17); the anatomy/physiology lessons of each system — digestive (pp. 18–26), respiratory (pp. 34–36), urinary (pp. 44–46), cardiovascular (pp. 50–56), musculoskeletal (pp. 69–80), reproductive incl. embryonic/postnatal development (pp. 91–106), nervous (pp. 110–118), endocrine (pp. 126–128), sensory systems and skin structure (pp. 131–141). "ЗНАМ И МОГА" sections are the book's own assessment — excluded per brief.
+- The 4 secured Bulgaria books are image-only PDFs (assembled from the publisher's free reader page images); they were secured as oversized release assets in the textbooks repo (release `full-quality-oversized-books`, asset names = repo path with dashes; byte sizes match the records exactly) and were read via cover + full table of contents + the health chapters rendered and read page by page. The tree route in grab.py returns 404 for these files because oversized books live in Releases, not the git tree — they are NOT phantom pushes (see group log).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/bulgaria-health-placements.md (Book 2 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bulgaria — Lesson 22, Гледна точка „Перфектна фигура за кратко време" (дискусия) — discussion lesson questioning "a perfect figure in a short time" promises (original string `staying-safe/body-image-and-the-perfect-figure`) | Bulgaria, *Биология и здравно образование за 8. клас* (Bulgaria Grade 8 Biology and Health Education), Lesson 22, printed p. 64 |
+
+Bulgaria is added as student-book stock (see its book line and row above), inside the acceptance count — the Bulgaria book is a STUDENT book, so Bulgaria is named in the countries line and provenance row and the acceptance count rises from 1 to 2 countries. The Bulgaria placement was filed under the original string `staying-safe/body-image-and-the-perfect-figure`, resolved to this canonical lesson `fair-play-and-the-body/knowing-myself-and-my-feelings` by registry Part 2 and recorded in the provenance row above. Bulgaria's own way is content, as the book line above records it: the "perfect figure in no time" body-image promise is questioned in a structured discussion lesson ("Гледна точка") in the Grade 8 book. This lesson teaches its placement only as the placements file summarises it, and names nothing the summary does not name.
+
+Searchable tags: knowing myself feelings, personal identity self-esteem, cultural spiritual beliefs values, social messages stereotyping media, personal strengths teenage challenges, Samoa Years 1–8 Curriculum, self-esteem self-worth body image what lowers confidence, resilience confidence, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, body image perfect figure in a short time discussion, Bulgaria Biology and Health Education Grade 8 Pedagog 6
