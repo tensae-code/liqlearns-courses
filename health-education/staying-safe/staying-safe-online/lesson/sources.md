@@ -1,8 +1,8 @@
 # Sources — Staying Safe Online
 
-countries: Jordan, Timor-Leste, Ukraine, Sierra Leone
+countries: Jordan, Timor-Leste, Ukraine, Sierra Leone, Mauritius
 
-**Acceptance count: taught in 3 countries.** Jordan is filed as student-book stock, inside the acceptance count, in this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Sierra Leone is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Sierra Leone rows (see its Sierra Leone section below).
+**Acceptance count: taught in 4 countries.** Jordan is filed as student-book stock, inside the acceptance count, in this lesson. Timor-Leste is filed as student-book stock, inside the acceptance count, in this lesson (Book 1 is a student book; Book 2, its teacher guide, is filed as evidence only, outside the count). Ukraine is filed as student-book stock, inside the acceptance count, in this lesson (see its Ukraine section below). Sierra Leone is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Sierra Leone rows (see its Sierra Leone section below). Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count — Book 7, the Pupil's Activity Book, is a student book; the Book 2 Teacher's Book rows are teacher-guide evidence only, outside the count.
 
 **Book 5 — التربية الرياضية — الصف السابع — الفصل الدراسي الثاني (Physical Education, Grade Seven, Second Semester) (student book, Arabic):**
 - Title as printed: التربية الرياضية — الصف السابع — الفصل الدراسي الثاني (Physical Education, Grade Seven, Second Semester)
@@ -86,4 +86,37 @@ Ukraine is added as student-book stock (see its book line(s) and row(s) above), 
 
 Sierra Leone is added as teacher-guide evidence only (see its book line and rows above), outside the acceptance count — the Sierra Leone book is a TEACHER manual, so Sierra Leone is named in the countries line and provenance rows but the acceptance count is unchanged (still taught in 3 countries). The Sierra Leone placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved through the health slug registry (Part 2A) to this lesson; the original string is recorded in each row. Sierra Leone's own way is content, as the book line above records it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: staying safe online, healthy use of technology, useful educational content, long sitting in front of screens, regular breaks, video assistant referee VAR, Health Concepts and Habits, Jordan NCCD Physical Education Grade 7, social networks cyberbullying supporting victims, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, virtual world dangers, behaving safely online, Ukraine G5 Health Safety and Wellbeing Vasylenko, Sierra Leone AHLS Teacher's Manual SSS1 SSS2 SSS3, adolescent health and life skills Sierra Leone
+## Mauritius — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/mauritius-health-placements.md. 4 Mauritius placement(s) stocked in this lesson. The Mauritius book(s) stocked in this lesson: Book 2, Book 7 of that file. Book 7 of that file is a STUDENT activity book and Book 2 is a teacher guide, so Mauritius is student-book stock, inside the acceptance count, in this lesson (the Book 2 rows are teacher-guide evidence only, outside the count; the country is counted once via its student book). No Mauritius placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 2 — HPE Grade 6 Teacher's Book (teacher guide, English):**
+- Title as printed: Health and Physical Education Grade 6 Teacher's Book
+- Grade: Grade 6 (student/teacher: TEACHER)
+- Publisher: Mauritius Institute of Education (MIE); year 2017; ISBN 978-99949-44-09-5
+- PDF pages: read as FlipHTML5 flipbook (mirror upload by Jahidul Alam; title page, panel and ISBN verified as the MIE book), 116 flip pages, printed pp. i–108 (cover/title page verified against the record title)
+- Verdict: COMPLETE — Part B (Physical Education, printed pp. 63–106) is filed in the Mauritius PE placements file; the per-unit My Progress sheets are the book's own assessment, excluded per the brief; Appendix of websites (printed pp. 107–108) is inventory-only, not placed
+- Tally: 13 placements — 2 to existing lessons, 11 NEW LESSON NEEDED
+- Mauritius's own way: Health is taught as four full units — Diseases, Harmful Substances, Growing Up, Safety and Injury Prevention — with local diseases (dengue, chikungunya), local foods, role-plays and a signed no-smoking/no-drinking pledge; sexuality education and life skills (empathy, assertiveness, decision-making) are woven through.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/mauritius-health-placements.md (Book 2 of that file).
+
+**Book 7 — Health Education Grade 6 Pupil's Activity Book (2027) (student activity book, English):**
+- Title as printed: Health Education, Grade 6, Pupil's Activity Book (Holistic Education Programme)
+- Grade: Grade 6 (student/teacher: STUDENT)
+- Publisher: Mauritius Institute of Education (MIE); year 2025, reprinted 2027; ISBN 978-99993-50-08-2
+- PDF pages: read as FlipHTML5 flipbook, printed pp. i–v + 1–58 (cover/title page verified against the record title)
+- Verdict: COMPLETE — the pupil activity companion to the HPE Grade 6 units filed as Book 2 in this file; its lessons teach the same topics through the child's own activities, and are placed by lesson topic below
+- Tally: 14 placements — 0 to existing lessons, 14 NEW LESSON NEEDED
+- Mauritius's own way: the same Grade 6 Health units as the teacher's book, worked by the pupil: Dr Popo's comic for HIV, case studies (Lenn's story) for non-communicable diseases, and activity pages for every lesson.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/mauritius-health-placements.md (Book 7 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritius — Part A Unit 4 Lesson 4.1 Digital Communication Devices — what digital devices are, advantages and disadvantages, and mobile-phone precautions (radiation, distraction on the road, who may have your number) (original string `staying-safe/staying-safe-online-and-with-phones`) | Mauritius Grade 6 HPE Teacher's Book, printed p. 44 |
+| Mauritius — Part A Unit 4 Lesson 4.2 Online Safety and Electronic Games — dangers of internet and gaming (addiction, lost sleep, less activity, strangers, card details) and precautions such as hourly breaks and screen distance (original string `staying-safe/staying-safe-online-and-with-phones`) | Mauritius Grade 6 HPE Teacher's Book, printed p. 48 |
+| Mauritius — Lesson 14 Digital Communication — devices, uses and precautions (original string `staying-safe/staying-safe-online-and-with-phones`) | Mauritius HE Grade 6 Pupil's Activity Book (2027), printed p. 47 |
+| Mauritius — Lesson 15 Online Safety and Electronic Games — staying safe online and with games (original string `staying-safe/staying-safe-online-and-with-phones`) | Mauritius HE Grade 6 Pupil's Activity Book (2027), printed p. 53 |
+
+Mauritius is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — Book 7 is a STUDENT activity book, so Mauritius is named in the countries line and provenance rows and the acceptance count rises from 3 to 4 countries; the Book 2 rows are teacher-guide evidence only, outside the count. The Mauritius placements in this lesson were filed under the original string recorded in the provenance rows above, resolved to this canonical lesson (`staying-safe/staying-safe-online`) by the health slug registry (Part 2A), and the original string is recorded in each provenance row above. Mauritius's own way is content, as the book lines above record it. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+
+Searchable tags: staying safe online, healthy use of technology, useful educational content, long sitting in front of screens, regular breaks, video assistant referee VAR, Health Concepts and Habits, Jordan NCCD Physical Education Grade 7, social networks cyberbullying supporting victims, Timor-Leste Grade 7 Saúde e Bem-Estar Student Book, virtual world dangers, behaving safely online, Ukraine G5 Health Safety and Wellbeing Vasylenko, Sierra Leone AHLS Teacher's Manual SSS1 SSS2 SSS3, adolescent health and life skills Sierra Leone, Mauritius, Mauritius HPE, Mauritius Institute of Education, MIE

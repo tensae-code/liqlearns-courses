@@ -1426,3 +1426,92 @@ pre-primary health taught entirely through songs and
 picture tasks including the "Don't touch my body" song,
 and the 2023 editions teaching in first-person steps
 with a cartoon cat guide and "boasting" activities.
+**Health expansion — Mauritius — BUILT 2026-11-16:** 73 placements
+from Mauritius's eight Mauritius Institute of Education (MIE)
+books stocked into 17 existing lessons — Eating a Balanced
+Diet ×17, Saying No to Drugs, Alcohol and Tobacco ×14,
+Avoiding Accidents and Staying Safe ×9, Non-communicable
+Diseases ×6, Keeping My Body Clean ×5, Puberty and Growing
+Up ×4, Staying Safe Online ×4, Preventing Common Diseases
+×2, STIs and HIV Prevention ×2, Preventing Sports Injuries
+and First Aid ×2, Your Body in Exercise ×2, Keeping Teeth
+Healthy ×1, Staying Safe While Exercising ×1, Why Exercise
+Keeps You Healthy ×1, Doping — What It Is and What It Costs
+×1, Keeping Our Environment Healthy ×1, Malnutrition ×1 —
+bringing no new lessons; this course stays at **55
+lessons**. The books: Book 1, *Health and Physical Education
+(HPE) Grade 2 Pupil's Book* (student book, 2017, COMPLETE);
+Book 2, *Health and Physical Education Grade 6 Teacher's
+Book* (teacher guide, 2017, COMPLETE); Book 3, *A Pictorial
+Primer — Say No to Tobacco* (student primer, 2023,
+COMPLETE); Book 4, *Physical Education Grade 9* theory units
+(student book, REPRINT 2021, COMPLETE); Book 5, *Physical
+Education Grade 8*, Theory Chapter 4 only (student book,
+2018, COMPLETE); Book 6, *Health & Physical Education,
+Grade 1, Educator's Book, Part 2* — Health Education part
+(teacher guide, 2022, COMPLETE for Part 2 as published);
+Book 7, *Health Education, Grade 6, Pupil's Activity Book
+(Holistic Education Programme)* (student activity book,
+2025, reprinted 2027, COMPLETE); and Book 8, *Technology
+Studies Grade 9* (student book, 2022, PARTIAL (scope) as
+filed — only Strand 2 Unit 1, Nutrition and Health, printed
+pp. 153–176, is Health teaching and is placed; the book's
+other strands and units are named in the placements file
+and not placed). All 73 placements were filed as NEW LESSON
+NEEDED or under descriptive / HELD strings and are resolved
+by the health slug registry: Part 2A resolves
+`staying-safe/keeping-clean-and-well-groomed` → Keeping My
+Body Clean, `staying-safe/caring-for-mouth-and-teeth` →
+Keeping Teeth Healthy,
+`fair-play-and-the-body/eating-well-food-and-our-meals` →
+Eating a Balanced Diet, `staying-safe/staying-safe-at-home`
+and `staying-safe/staying-safe-at-school` → Avoiding
+Accidents and Staying Safe,
+`staying-safe/communicable-diseases-and-how-they-spread` →
+Preventing Common Diseases,
+`staying-safe/understanding-hiv-and-aids` → STIs and HIV
+Prevention,
+`fair-play-and-the-body/unhealthy-eating-and-non-communicable-diseases`
+→ Non-communicable Diseases,
+`fair-play-and-the-body/alcohol-tobacco-and-other-harmful-substances`
+and `staying-safe/secondhand-smoke-harms-the-family` →
+Saying No to Drugs, Alcohol and Tobacco,
+`fair-play-and-the-body/growing-up-changes-of-puberty` →
+Puberty and Growing Up,
+`staying-safe/staying-safe-online-and-with-phones` →
+Staying Safe Online, `staying-safe/creating-a-healthy-environment`
+→ Keeping Our Environment Healthy and
+`fair-play-and-the-body/eating-disorders-and-healthy-weight`
+→ Malnutrition; Part 2B resolves the three HELD-title-decision
+lines (Respiratory System and Circulatory System → Your Body
+in Exercise; the Health, Diet and Fitness fitness part → Why
+Exercise Keeps You Healthy); the remaining placements were
+filed under their lessons' own slugs (Staying Safe While
+Exercising, Preventing Sports Injuries and First Aid, Doping
+— What It Is and What It Costs), with the original string
+recorded in every provenance row. The student books (Books
+1, 3, 4, 5, 7 and 8) are student-book stock, inside the
+acceptance counts, in every lesson they touch (each touched
+lesson's count rose by 1); the teacher guides (Books 2 and
+6) are teacher-guide evidence only, outside the counts —
+Staying Safe While Exercising, touched only by the Grade 6
+Teacher's Book, is unchanged at 16 countries. Honesty notes,
+exactly as filed: Book 1's end-of-unit Evaluations and Book
+2's per-unit My Progress sheets are the books' own
+assessment, excluded; Book 2's Appendix of websites
+(printed pp. 107–108) is inventory-only, not placed; Book
+8's non-Health strands are named, not placed; no Health
+record is unread. No Mauritius placement resolves to a
+PE-course lesson, so none was excluded as PE-bound.
+Mauritius's own ways are content: Health taught inside the
+same three primary units as PE, one short picture-led part
+per lesson tied to the child's own home, meals and body;
+Grade 6 Health as four full units with local diseases
+(dengue, chikungunya), the Dr Popo comic for HIV, Lenn's
+story case study for non-communicable diseases, role-plays
+and a signed no-smoking/no-drinking pledge; a picture-first
+anti-tobacco primer ending in an ambassador pledge; Grade 9
+pupils designing and testing their own 12-week fitness and
+diet programme; and nutrition inside Food & Textiles
+Studies, with fruits and vegetables taught by colour and
+the food habits of Mauritian adolescents.

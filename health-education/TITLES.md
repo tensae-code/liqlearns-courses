@@ -539,3 +539,27 @@ is student-book stock, inside the acceptance counts, in
 every lesson it touches (each touched lesson's count rose
 by 1). No Tanzania placement resolves to a PE-course
 lesson, so none was excluded as PE-bound.
+
+The Health expansion then added (Mauritius): no new lessons —
+73 placements stocked into existing lessons (Eating a Balanced
+Diet ×17, Saying No to Drugs, Alcohol and Tobacco ×14,
+Avoiding Accidents and Staying Safe ×9, Non-communicable
+Diseases ×6, Keeping My Body Clean ×5, Puberty and Growing
+Up ×4, Staying Safe Online ×4, Preventing Common Diseases
+×2, STIs and HIV Prevention ×2, Preventing Sports Injuries
+and First Aid ×2, Your Body in Exercise ×2, Keeping Teeth
+Healthy, Staying Safe While Exercising, Why Exercise Keeps
+You Healthy, Doping — What It Is and What It Costs, Keeping
+Our Environment Healthy, Malnutrition) — this course stays
+at 55 lessons. The student books (HPE Grade 2 Pupil's Book,
+the Pictorial Primer: Say No to Tobacco, PE Grade 9 and
+Grade 8 Pupil's Books, the HE Grade 6 Pupil's Activity Book
+(2027) and Technology Studies Grade 9, the last PARTIAL
+(scope) as filed) are student-book stock, inside the
+acceptance counts, in every lesson they touch (each touched
+lesson's count rose by 1); the teacher guides (HPE Grade 6
+Teacher's Book and HPE Grade 1 Educator's Book Part 2) are
+teacher-guide evidence only, outside the counts — Staying
+Safe While Exercising, touched only by a teacher guide,
+stays at 16 countries. No Mauritius placement resolves to a
+PE-course lesson, so none was excluded as PE-bound.

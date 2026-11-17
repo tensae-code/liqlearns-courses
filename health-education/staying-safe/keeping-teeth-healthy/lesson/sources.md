@@ -1,8 +1,8 @@
 # Sources — Keeping Teeth Healthy
 
-countries: Papua New Guinea, Bhutan, Iran
+countries: Papua New Guinea, Bhutan, Iran, Mauritius
 
-**Acceptance count: taught in 2 countries.** Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson (see its Papua New Guinea section below). Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — all five Bhutan books are STUDENT books, so this lesson now stands at acceptance count 1. Iran is added as student-book stock (see its Iran section below), inside the acceptance count.
+**Acceptance count: taught in 3 countries.** Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson (see its Papua New Guinea section below). Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — all five Bhutan books are STUDENT books, so this lesson now stands at acceptance count 1. Iran is added as student-book stock (see its Iran section below), inside the acceptance count. Mauritius is added as student-book stock (see its Mauritius section below), inside the acceptance count.
 
 ## Papua New Guinea — Health expansion 2026-11-16
 
@@ -79,4 +79,24 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/iran-health-
 
 Iran is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — the acceptance count rises from 1 to 2 countries. The Iran placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved to this lesson by the slug registry (Part 2B for HELD-title-decision lines, Part 2A for descriptive slug strings; placements filed directly under this lesson's own slug are recorded as filed), and the original string is recorded in each provenance row above. Iran's own way is content, as the book lines above record it: one compulsory Grade 12 health course for every stream with prevention ranked above treatment and self-care at the centre, health defined with physical, mental-emotional, family-social and spiritual dimensions with Avicenna and Nahj al-Balagha set beside the WHO definition, family health taught as a certified carer's competencies, childcare health taught as environmental inspection, and health inside science for the youngest and for special-needs pupils. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: keeping teeth healthy, teeth and mouth, brushing teeth, oral hygiene, gums, dental products, Papua New Guinea Health TG Grade 3, Papua New Guinea Health TG Grade 4, Papua New Guinea, Bhutan, Bhutan PP–I Suggested Activities, Iran
+## Mauritius — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/mauritius-health-placements.md. 1 Mauritius placement(s) stocked in this lesson. The Mauritius book(s) stocked in this lesson: Book 1 of that file. Book 1 of that file is a STUDENT book, so Mauritius is student-book stock, inside the acceptance count, in this lesson. No Mauritius placement in this lesson resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 1 — HPE Grade 2 Pupil's Book (student book, English):**
+- Title as printed: Health and Physical Education (HPE) Grade 2 Pupil's Book
+- Grade: Grade 2 (student/teacher: STUDENT)
+- Publisher: Mauritius Institute of Education (MIE); year 2017; ISBN 978-99949-40-15-8
+- PDF pages: read as FlipHTML5 flipbook, 98 flip pages, printed pp. i–88 (cover/title page verified against the record title)
+- Verdict: COMPLETE — the PE parts (b) of each lesson are filed in the Mauritius PE placements file; end-of-unit Evaluations are the book's own assessment sheets, excluded per the brief
+- Tally: 19 placements — 0 to existing lessons, 19 NEW LESSON NEEDED
+- Mauritius's own way: Health is taught inside the same three units as PE (Good practices and healthy living; Food and active living; Movement and safe practices), one short picture-led Health part per lesson, always tied to the child's own home, meals and body.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/mauritius-health-placements.md (Book 1 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mauritius — Unit 1 Lesson 6 My mouth and teeth — parts of the mouth, brushing morning, night and after meals, sweet foods harm teeth, visiting the dentist (original string `staying-safe/caring-for-mouth-and-teeth`) | Mauritius Grade 2 HPE Pupil's Book, printed p. 28 |
+
+Mauritius is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — Book 1 is a STUDENT book, so Mauritius is named in the countries line and provenance rows and the acceptance count rises from 2 to 3 countries. The Mauritius placement in this lesson was filed under the original string recorded in the provenance row above, resolved to this canonical lesson (`staying-safe/keeping-teeth-healthy`) by the health slug registry (Part 2A), and the original string is recorded in the provenance row above. Mauritius's own way is content, as the book lines above record it. This lesson teaches its placement only as the placements file summarises it, and names nothing the summary does not name.
+
+Searchable tags: keeping teeth healthy, teeth and mouth, brushing teeth, oral hygiene, gums, dental products, Papua New Guinea Health TG Grade 3, Papua New Guinea Health TG Grade 4, Papua New Guinea, Bhutan, Bhutan PP–I Suggested Activities, Iran, Mauritius, Mauritius HPE, Mauritius Institute of Education, MIE
