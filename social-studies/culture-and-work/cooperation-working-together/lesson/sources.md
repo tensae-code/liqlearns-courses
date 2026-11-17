@@ -1,6 +1,6 @@
 # Sources — Cooperation Working Together
 
-countries: Mauritius, Libya, Oman, Bangladesh, Iraq, North Macedonia, Palestine, Saudi Arabia, Cambodia, Jordan, South Sudan, Iran
+countries: Mauritius, Libya, Oman, Bangladesh, Iraq, North Macedonia, Palestine, Saudi Arabia, Cambodia, Jordan, South Sudan, Iran, El Salvador
 
 **Book 1:** *Values and Citizenship Education — Grade 1 Teacher’s Handbook* (teacher guide, English) — Title as printed: Values and Citizenship Education — Grade 1 Teacher’s Handbook. Grade: Grade 1 (student/teacher: TEACHER). Publisher: Mauritius Institute of Education (MIE); year 2020; ISBN 978-99949-53-93-6. PDF pages: no PDF — read via FlipHTML5 flipbook (88 pages, printed pp. i–80); cover/imprint page verified against the record title (Lesson 14 "About my country" named in the record is present, printed p. 70). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Morals/Values pp. 2–59, 75–79; Civics/Citizenship (national symbols, country identity) pp. 62–74; Health (body care, named only, not placed) pp. 8–20. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mauritius-placements-b.md. Teacher guide — evidence only, outside the acceptance count. Staging note: the book exists only as a FlipHTML5 flipbook — no PDF file was downloadable, so there is no file to stage under the 2026-11-13 rule; the read is from the flipbook’s full text.
 
@@ -175,3 +175,19 @@ Registry note: the original coined string `culture-and-work/groups-and-working-t
 Registry note: the original coined string `culture-and-work/cooperation-helping-one-another` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/cooperation-working-together`.
 
 Searchable tags: cooperation working together, Iran, social studies, culture-and-work
+
+El Salvador placements — Social Studies remaining strands (2026-11-17):
+
+**Book 6:** *El Salvador Grade 6 Estudios Sociales 6* (student book, Spanish) — Title as printed: Estudios Sociales 6 (Colección Cipotas y Cipotes). Grade: Grade 6 (student/teacher: STUDENT). Publisher: Ministerio de Educación (MINED), El Salvador; year 2008, 1st edition; ISBN in the series sequence (cover verified against the record title). PDF pages: 184 (16,238,239 bytes — exactly the download-list size for the record's own source_url; read from that source after the grab.py route failed). Earlier waves: not read before (see Book 1 note). Verdict: COMPLETE. Contents map: Integrated SS pp. 66–95 (Unit 3 how the Americas live: ways of life, teamwork, communication, road conduct, family), 102–109 (Unit 4 work); Civics pp. 110–115 (government ethics), 122 (citizenship project), 168–173 (political regimes); Culture p. 50 (our cultural wealth); Geography pp. 8–59 (Units 1–2 the continent and its resources); Economics pp. 60–65, 116–121 (production, taxation — named, not placed); History pp. 96–101, 126–167, 174–183 (named, not placed). Tally: 10 placements — 2 to existing lessons, 8 NEW LESSON NEEDED (4 first proposed here, 4 proposed in earlier books of this file) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---
+| El Salvador part — culture-and-work/working-as-an-organised-team — Unidad 3 Lección 3 Un equipo organizado trabaja mejor — teaches: an organised team works better — cooperation and shared roles in work — El Salvador Grade 6 Estudios Sociales 6, printed p. 72 | El Salvador, *El Salvador Grade 6 Estudios Sociales 6* (student book), Unidad 3 Lección 3 Un equipo organizado trabaja mejor — printed p. 72 |
+
+**Acceptance count: taught in 11 countries (Libya, Bangladesh, Iraq, North Macedonia, Palestine, Saudi Arabia, Cambodia, Jordan, South Sudan, Iran, El Salvador).** South Sudan's teacher-guide parts are evidence only, counted nowhere in addition — South Sudan counts through its student-book parts.
+
+El Salvador's own way (El Salvador Grade 6 Estudios Sociales 6): Grade 6 reaches the Americas, and its civics peak is El Salvador's own government-ethics law — public servants, their principles, and the 2006 Ley de Ética Gubernamental against corruption.
+
+Registry note: the original coined string `culture-and-work/working-as-an-organised-team` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/cooperation-working-together`.
+
+Searchable tags: cooperation working together, El Salvador, social studies, culture-and-work

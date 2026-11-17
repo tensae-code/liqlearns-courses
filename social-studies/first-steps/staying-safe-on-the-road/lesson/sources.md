@@ -1,6 +1,6 @@
 # Sources — Staying Safe on the Road
 
-countries: Maldives, Cuba, Albania, Afghanistan, Burkina Faso, Serbia, Bangladesh, Morocco, North Macedonia, Palestine, Vietnam, Iran
+countries: Maldives, Cuba, Albania, Afghanistan, Burkina Faso, Serbia, Bangladesh, Morocco, North Macedonia, Palestine, Vietnam, Iran, El Salvador
 
 **Book 1:** *Exploring Social Studies 4* (student book, English) — Title as printed: Exploring Social Studies 4. Grade: Grade 4 (student/teacher: STUDENT). Publisher: National Institute of Education, Ministry of Education, Maldives; year 2025 (first published 2025); ISBN 978-99915-0-954-9. PDF pages: printed pagination 1–189 plus front matter (read in full via the NIE download's indexed full text — the direct file download from this host failed on every attempt: the WPDM link's refresh token returns an error to shell downloads, so the book could NOT be staged; see the group log. Cover, title page, ISBN and contents verified against the record title in the indexed text.) Earlier waves: not read before. Verdict: COMPLETE — contents-mapped in full; Units 1, 5 and 6 (the remaining strands) read page by page. Contents map: Integrated SS printed pp. 1–30 (Unit 1 Belonging & Connections); Civics/Citizenship/Government pp. 131–160 (Unit 5 Living Together); Culture in society pp. 161–189 (Unit 6 We the Maldivians); Geography pp. 31–76 (Unit 2 People, Places and the Environment — named, not placed); History pp. 77–98 and 183–188 (Unit 3 Time, Continuity and Change; §6.4 Our National Heroes — named, not placed); Economics pp. 99–130 (Unit 4 The Economic World — named, not placed); Religion within §5.2 (Islam teaches peace and harmony — named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/maldives-placements-b.md.
 
@@ -197,3 +197,19 @@ Registry note: the original coined string `first-steps/staying-safe-in-the-stree
 Registry note: the original coined string `first-steps/staying-safe-on-the-way` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/staying-safe-on-the-road`.
 
 Searchable tags: staying safe on the road, Iran, social studies, first-steps
+
+El Salvador placements — Social Studies remaining strands (2026-11-17):
+
+**Book 6:** *El Salvador Grade 6 Estudios Sociales 6* (student book, Spanish) — Title as printed: Estudios Sociales 6 (Colección Cipotas y Cipotes). Grade: Grade 6 (student/teacher: STUDENT). Publisher: Ministerio de Educación (MINED), El Salvador; year 2008, 1st edition; ISBN in the series sequence (cover verified against the record title). PDF pages: 184 (16,238,239 bytes — exactly the download-list size for the record's own source_url; read from that source after the grab.py route failed). Earlier waves: not read before (see Book 1 note). Verdict: COMPLETE. Contents map: Integrated SS pp. 66–95 (Unit 3 how the Americas live: ways of life, teamwork, communication, road conduct, family), 102–109 (Unit 4 work); Civics pp. 110–115 (government ethics), 122 (citizenship project), 168–173 (political regimes); Culture p. 50 (our cultural wealth); Geography pp. 8–59 (Units 1–2 the continent and its resources); Economics pp. 60–65, 116–121 (production, taxation — named, not placed); History pp. 96–101, 126–167, 174–183 (named, not placed). Tally: 10 placements — 2 to existing lessons, 8 NEW LESSON NEEDED (4 first proposed here, 4 proposed in earlier books of this file) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---
+| El Salvador part — first-steps/getting-around-safely-roads-and-signals — Unidad 3 Lección 5 Así nos conducimos — teaches: how we conduct ourselves on the roads — traffic signals, the road legal framework for drivers and pedestrians, and why obeying transit rules prevents accidents (the younger grades' parallel road-safety lessons, Books 4–5, are named in their files) — El Salvador Grade 6 Estudios Sociales 6, printed p. 84 | El Salvador, *El Salvador Grade 6 Estudios Sociales 6* (student book), Unidad 3 Lección 5 Así nos conducimos — printed p. 84 |
+
+**Acceptance count: taught in 10 countries (Maldives, Cuba, Afghanistan, Serbia, Bangladesh, North Macedonia, Palestine, Vietnam, Iran, El Salvador).** Albania is named here as teacher-guide evidence only, counted nowhere. Burkina Faso is named here as teacher-guide evidence only, counted nowhere. Morocco is named here as teacher-guide evidence only, counted nowhere.
+
+El Salvador's own way (El Salvador Grade 6 Estudios Sociales 6): Grade 6 reaches the Americas, and its civics peak is El Salvador's own government-ethics law — public servants, their principles, and the 2006 Ley de Ética Gubernamental against corruption.
+
+Registry note: the original coined string `first-steps/getting-around-safely-roads-and-signals` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/staying-safe-on-the-road`.
+
+Searchable tags: staying safe on the road, El Salvador, social studies, first-steps

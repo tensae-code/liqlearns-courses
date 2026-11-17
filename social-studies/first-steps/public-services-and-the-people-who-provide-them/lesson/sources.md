@@ -1,6 +1,6 @@
 # Sources — Public Services And The People Who Provide Them
 
-countries: Honduras, Sweden, Bahrain, Philippines, Haiti, Ecuador, Yemen, Afghanistan, Somalia, Mexico, Uganda, Fiji, Oman, Syria, Morocco, India, Angola, United States, Rwanda, Papua New Guinea, Sri Lanka, Saudi Arabia, Vietnam, Myanmar, South Sudan
+countries: Honduras, Sweden, Bahrain, Philippines, Haiti, Ecuador, Yemen, Afghanistan, Somalia, Mexico, Uganda, Fiji, Oman, Syria, Morocco, India, Angola, United States, Rwanda, Papua New Guinea, Sri Lanka, Saudi Arabia, Vietnam, Myanmar, South Sudan, El Salvador
 
 **Book 1:** *Libro para Estudiantes del área de Ciencias Sociales — Primer grado de Educación Básica (cover: 'Ciencias Sociales — Primer grado — Libro para Estudiantes')* (student book, Spanish) — Universidad Pedagógica Nacional Francisco Morazán (UPNFM), elaborated for the Secretaría de Estado en el Despacho de Educación de Honduras; preliminary edition (Edición Preliminar) 2020 as printed on the credits page; no ISBN printed. Title as printed: Libro para Estudiantes del área de Ciencias Sociales — Primer grado de Educación Básica (cover: 'Ciencias Sociales — Primer grado — Libro para Estudiantes'). Grade: Grade 1 (student/teacher: STUDENT). PDF pages: 182 (cover/title page verified against the record title; read from the recorded ministry source educatrachos.hn, 66,184,073 bytes, SHA-256 prefix 1c4e29b7525c2dd3). Verdict: COMPLETE. History/Civics parts NOT placed (named for later waves): Bloque 1 'La persona y su ser social' (personal/social and civics formation, printed pp. 10–46); Bloque 3 'Las sociedades y el tiempo social' (History, printed pp. 94–134); Bloque 4 lessons not placed above (social organisation, authorities, laws and demands — Civics, printed pp. 138 onwards). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/honduras-placements.md.
 
@@ -296,3 +296,17 @@ South Sudan placements — Social Studies remaining strands (2026-11-17):
 South Sudan's own way (Book 1): Community is learned through Okot's own family and compound first — children's duties include looking after cattle and younger siblings, safety means fencing the home and reporting thieves to the police, and peace is taught as class-made rules against fighting plus a peace song in the mother tongue.
 
 Searchable tags: public services and the people who provide them, South Sudan, social studies, first-steps
+
+El Salvador placements — Social Studies remaining strands (2026-11-17):
+
+**Book 2:** *El Salvador Grade 2 Estudios Sociales 2* (student book, Spanish) — Title as printed: Estudios Sociales 2 (Colección Cipotas y Cipotes). Grade: Grade 2 (student/teacher: STUDENT). Publisher: Ministerio de Educación (MINED), El Salvador; year 2008, 1st edition; ISBN 978-99923-58-76-4. PDF pages: 160 (cover verified against the record title; 12,330,872 bytes — exactly the download-list size for the record's own source_url; read from that source after the grab.py route failed). Earlier waves: not read before (see Book 1 note). Verdict: COMPLETE. Contents map: Integrated SS pp. 27–47 (Unit 2 work and communication), 62–82 (Unit 3 family, school, society and institutions), 83–115 (Unit 4 living together, rights and duties, communication, customs); Civics pp. 76–82 (society and institutions; organisation of El Salvador and government); Culture p. 104; Geography/Science pp. 8–26, 40–61 (environment; risk situations pp. 48–61 named, not placed — safety/disaster content); History pp. 116–159. Tally: 11 placements — 3 to existing lessons, 8 NEW LESSON NEEDED (2 first proposed here, 6 proposed in Book 1 of this file) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---
+| El Salvador part — first-steps/public-services-and-the-people-who-provide-them — Unidad 3 Lección 3 Sociedad e instituciones — teaches: El Salvador's main institutions and the people who work in them — the alcaldía (mayor's office), the school, health institutions, firefighters, police, post office, libraries, transport services, ANDA water, telephone companies and Casas de la Cultura — El Salvador Grade 2 Estudios Sociales 2, printed p. 78 | El Salvador, *El Salvador Grade 2 Estudios Sociales 2* (student book), Unidad 3 Lección 3 Sociedad e instituciones — printed p. 78 |
+
+**Acceptance count: taught in 20 countries (Honduras, Bahrain, Philippines, Ecuador, Yemen, Afghanistan, Mexico, Uganda, Fiji, Syria, India, Angola, United States, Rwanda, Sri Lanka, Saudi Arabia, Vietnam, Myanmar, South Sudan, El Salvador).**
+
+El Salvador's own way (El Salvador Grade 2 Estudios Sociales 2): Grade 2 widens Grade 1's frame to the whole society — "¡La sociedad somos todos!" — individuals, families, schools, public and private institutions and communities together form Salvadoran society, and its main institutions are named one by one.
+
+Searchable tags: public services and the people who provide them, El Salvador, social studies, first-steps

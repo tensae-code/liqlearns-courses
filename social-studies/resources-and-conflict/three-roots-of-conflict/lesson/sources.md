@@ -1,6 +1,6 @@
 # Sources — Conflict — Its Three Roots
 
-countries: Ethiopia, Mexico, South Sudan
+countries: Ethiopia, Mexico, South Sudan, El Salvador
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (placement 72).
 
@@ -49,3 +49,17 @@ South Sudan's own way (Book 11): The country's own conflict is the textbook — 
 South Sudan's own way (Book 13): Gender equality is argued from South Sudanese lives — an elder who educates his daughters against tradition, and four named women leaders — and peace itself is put in women's hands: the book prints the view that gender equality is a tool that can end South Sudan's civil war.
 
 Searchable tags: conflict — its three roots, South Sudan, social studies, resources-and-conflict
+
+El Salvador placements — Social Studies remaining strands (2026-11-17):
+
+**Book 9:** *El Salvador Grade 9 Estudios Sociales y Cívica 9* (student book, Spanish) — Title as printed: Estudios Sociales y Cívica 9: libro de texto. Grade: Grade 9 (student/teacher: STUDENT). Publisher: Ministerio de Educación (MINED), El Salvador; ISBN in the series sequence (cover verified against the record title). PDF pages: 224 (8,050,594 bytes — exactly the download-list size for the record's own source_url; read from that source after the grab.py route failed). Earlier waves: not read before (see Book 1 note). Verdict: COMPLETE. Contents map: Integrated SS / Culture pp. 93–136 (Unit 3 our societies: diversity, conflict and coexistence); Civics pp. 119–136 in part, 137–146 (Unit 4 family rights), 181–224 (Unit 5 democracy and rule of law; its origin-of-democracy and Latin American political history lessons pp. 183–190, 207–214 are History, named not placed); Morals/Conflict pp. 119–126, 147–154 (sources of conflict; intrafamily violence); Geography pp. 5–48 (Unit 1, incl. environment-protection institutions p. 39 — named); History pp. 49–92 (Unit 2 world history); personal-development and youth-profile lessons pp. 155–170 named, not placed. Tally: 11 placements — 2 to existing lessons, 9 NEW LESSON NEEDED (8 first proposed here, 1 proposed in the Fiji file) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---
+| El Salvador part — resources-and-conflict/three-roots-of-conflict — Unidad 3 Lección 4 Fuentes de conflicto — teaches: the sources from which conflicts grow — El Salvador Grade 9 Estudios Sociales y Cívica 9, printed p. 119 | El Salvador, *El Salvador Grade 9 Estudios Sociales y Cívica 9* (student book), Unidad 3 Lección 4 Fuentes de conflicto — printed p. 119 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Mexico, South Sudan, El Salvador).**
+
+El Salvador's own way (El Salvador Grade 9 Estudios Sociales y Cívica 9): Grade 9 faces conflict directly — where conflicts come from, violence inside the family, and democracy practised as a culture of diversity.
+
+Searchable tags: conflict — its three roots, El Salvador, social studies, resources-and-conflict

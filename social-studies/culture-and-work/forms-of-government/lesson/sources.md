@@ -1,6 +1,6 @@
 # Sources — Forms of Government
 
-countries: Kazakhstan, Kiribati, Costa Rica, Maldives, Micronesia, Samoa, Sierra Leone, Bahamas, Bhutan, Afghanistan, Mexico, Uganda, Fiji, Guatemala, Iraq, India, Rwanda, Papua New Guinea, Sri Lanka
+countries: Kazakhstan, Kiribati, Costa Rica, Maldives, Micronesia, Samoa, Sierra Leone, Bahamas, Bhutan, Afghanistan, Mexico, Uganda, Fiji, Guatemala, Iraq, India, Rwanda, Papua New Guinea, Sri Lanka, El Salvador
 
 **Book 1:** *География — 8-сыныпқа арналған оқулық (К. К. Сахова, Ж. Ф. Тенекебаева, А. Ж. Саддақасов, А. С. Кенжебаев)* (student book, Kazakh) — Нұр-Сұлтан «Назарбаев Зияткерлік мектептері» ДББҰ (NIS); year 2019; ISBN 978-601-328-352-4. Title as printed: География — 8-сыныпқа арналған оқулық (К. К. Сахова, Ж. Ф. Тенекебаева, А. Ж. Саддақасов, А. С. Кенжебаев). Grade: 8 (student/teacher: STUDENT). PDF pages: 160 (cover/title page verified against the record title; record file grade-08/gov/kazakhstan/geografija/student/1072.pdf, 73,315,458 bytes from the recorded okulyk.kz source, page count matches the record). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/kazakhstan-placements.md.
 
@@ -211,3 +211,17 @@ Sri Lanka's own way (Sri Lanka Grade 10 Social Education 1998): systems of gover
 Sri Lanka's own way (Sri Lanka Grade 11 Social Education and History 2000): the combined book's second half is a full civics course in disguise — democracy first as an idea with its thinkers and its six conditions, then Sri Lanka's own 1978 constitution opened article by article: the rights chapter with its Ombudsman and Human Rights Commission, the vote's road from McCallum to Donoughmore, the preferential presidential election, Parliament's 225 seats, the cabinet that falls with its bill, provinces and pradeshiya sabhas, and a court ladder that ends in village mediation boards.
 
 Searchable tags: forms of government, Sri Lanka, social studies, culture-and-work
+
+El Salvador placements — Social Studies remaining strands (2026-11-17):
+
+**Book 6:** *El Salvador Grade 6 Estudios Sociales 6* (student book, Spanish) — Title as printed: Estudios Sociales 6 (Colección Cipotas y Cipotes). Grade: Grade 6 (student/teacher: STUDENT). Publisher: Ministerio de Educación (MINED), El Salvador; year 2008, 1st edition; ISBN in the series sequence (cover verified against the record title). PDF pages: 184 (16,238,239 bytes — exactly the download-list size for the record's own source_url; read from that source after the grab.py route failed). Earlier waves: not read before (see Book 1 note). Verdict: COMPLETE. Contents map: Integrated SS pp. 66–95 (Unit 3 how the Americas live: ways of life, teamwork, communication, road conduct, family), 102–109 (Unit 4 work); Civics pp. 110–115 (government ethics), 122 (citizenship project), 168–173 (political regimes); Culture p. 50 (our cultural wealth); Geography pp. 8–59 (Units 1–2 the continent and its resources); Economics pp. 60–65, 116–121 (production, taxation — named, not placed); History pp. 96–101, 126–167, 174–183 (named, not placed). Tally: 10 placements — 2 to existing lessons, 8 NEW LESSON NEEDED (4 first proposed here, 4 proposed in earlier books of this file) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---
+| El Salvador part — culture-and-work/forms-of-government — Unidad 6 Lección 4 Regímenes políticos del siglo XX en América — teaches: the political regimes of twentieth-century America as forms of government — El Salvador Grade 6 Estudios Sociales 6, printed p. 168 | El Salvador, *El Salvador Grade 6 Estudios Sociales 6* (student book), Unidad 6 Lección 4 Regímenes políticos del siglo XX en América — printed p. 168 |
+
+**Acceptance count: taught in 17 countries (Kazakhstan, Costa Rica, Maldives, Micronesia, Samoa, Bahamas, Bhutan, Afghanistan, Mexico, Uganda, Fiji, Guatemala, Iraq, India, Rwanda, Sri Lanka, El Salvador).** Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+
+El Salvador's own way (El Salvador Grade 6 Estudios Sociales 6): Grade 6 reaches the Americas, and its civics peak is El Salvador's own government-ethics law — public servants, their principles, and the 2006 Ley de Ética Gubernamental against corruption.
+
+Searchable tags: forms of government, El Salvador, social studies, culture-and-work

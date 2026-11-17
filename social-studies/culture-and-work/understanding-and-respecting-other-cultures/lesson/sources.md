@@ -1,6 +1,6 @@
 # Sources — Understanding and Respecting Other Cultures
 
-countries: Mongolia, Mexico, Serbia, Fiji, Colombia, United Arab Emirates
+countries: Mongolia, Mexico, Serbia, Fiji, Colombia, United Arab Emirates, El Salvador
 
 **Book 1:** *Нийгэм судлал VII (Social Studies VII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports, Ulaanbaatar; year 2019; ISBN no ISBN printed on the pages checked. Title as printed: Нийгэм судлал VII (Social Studies VII). Grade: Grade 7 (student). 99 PDF pp. (cover verified against the record title; secured GitHub release asset, 48,845,405 bytes, byte-size verified on download; contents also cross-checked against the ministry econtent flipbook of the same book). Verdict: COMPLETE for Geography scope (contents page and chapter structure read in full; the book follows the same five-chapter spiral as Grade 9). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mongolia-placements.md.
 
@@ -65,3 +65,17 @@ United Arab Emirates placements — Social Studies remaining strands (2026-11-17
 **Acceptance count: taught in 6 countries (Mongolia, Mexico, Serbia, Fiji, Colombia, United Arab Emirates).**
 
 United Arab Emirates' own way (Social Studies & National Education G1 Term 3): at Grade 1 "order" is taught as one widening circle — home, then school, then neighbourhood — each part closing with a "Zayed taught me" saying and a named national value (respect, safety), and the country itself is introduced as a homeland of happiness and tolerance with its own Minister of Happiness and a Year of Tolerance. That way is stocked here as the way United Arab Emirates teaches this thing.
+
+El Salvador placements — Social Studies remaining strands (2026-11-17):
+
+**Book 8:** *El Salvador Grade 8 Estudios Sociales y Cívica 8* (student book, Spanish) — Title as printed: Estudios Sociales y Cívica 8: libro de texto. Grade: Grade 8 (student/teacher: STUDENT). Publisher: Ministerio de Educación (MINED), El Salvador; ISBN in the series sequence (cover verified against the record title). PDF pages: 224 (8,650,131 bytes — exactly the download-list size for the record's own source_url; read from that source after the grab.py route failed). Earlier waves: not read before (see Book 1 note). Verdict: COMPLETE. Contents map: Culture pp. 93–136 (Unit 3 sociocultural diversity and identity in America; the three Latin American art lessons pp. 111–135 named, not placed — Art course content); Integrated SS pp. 137–180 (Unit 4 family, culture and adolescence; adolescent development/personality lessons pp. 147–162 named, not placed — personal development); Civics/Citizenship/Government pp. 163–180 in part and 181–224 (Unit 5 democratic institutionality in El Salvador and Central America); Geography pp. 5–48 (Unit 1); History pp. 49–92 (Unit 2). Tally: 11 placements — 3 to existing lessons, 8 NEW LESSON NEEDED (4 first proposed here, 4 proposed in earlier books of this file) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---
+| El Salvador part — culture-and-work/understanding-and-respecting-other-cultures — Unidad 3 Lección 2 Respeto hacia la diversidad cultural de los pueblos — teaches: respect for the cultural diversity of peoples — El Salvador Grade 8 Estudios Sociales y Cívica 8, printed p. 103 | El Salvador, *El Salvador Grade 8 Estudios Sociales y Cívica 8* (student book), Unidad 3 Lección 2 Respeto hacia la diversidad cultural de los pueblos — printed p. 103 |
+
+**Acceptance count: taught in 7 countries (Mongolia, Mexico, Serbia, Fiji, Colombia, United Arab Emirates, El Salvador).**
+
+El Salvador's own way (El Salvador Grade 8 Estudios Sociales y Cívica 8): Grade 8's democracy unit is El Salvador's and Central America's own institutionality — the State, electoral rights, and municipal governments in El Salvador itself.
+
+Searchable tags: understanding and respecting other cultures, El Salvador, social studies, culture-and-work

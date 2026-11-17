@@ -1,6 +1,6 @@
 # Sources — How Cities And Villages Are Run
 
-countries: Iran, Egypt, Philippines, Samoa, Albania, Ecuador, Yemen, Bhutan, Afghanistan, Tanzania, Eritrea, Belarus, Fiji, Venezuela, Bangladesh, Turkey, Morocco, Colombia, Iraq, North Macedonia, India, United States, Rwanda, Sri Lanka, Cambodia
+countries: Iran, Egypt, Philippines, Samoa, Albania, Ecuador, Yemen, Bhutan, Afghanistan, Tanzania, Eritrea, Belarus, Fiji, Venezuela, Bangladesh, Turkey, Morocco, Colombia, Iraq, North Macedonia, India, United States, Rwanda, Sri Lanka, Cambodia, El Salvador
 
 **Book 1:** *مطالعات اجتماعی ـ پایه هفتم دوره اول متوسطه (Social Studies, Grade 7, first secondary cycle)* (student book, Persian) — Ministry of Education, Organization for Educational Research and Planning (سازمان پژوهش و برنامه‌ریزی آموزشی); prepared by the Office for Compiling General and Theoretical Secondary Textbooks (دفتر تألیف کتاب‌های درسی عمومی و متوسطه نظری); printed by the Iran Textbook Printing and Publishing Company; 13th printing, 1405; book code 707 (matches the record's C707). Title as printed: مطالعات اجتماعی ـ پایه هفتم دوره اول متوسطه (Social Studies, Grade 7, first secondary cycle). Grade: 7 (student/teacher: STUDENT). PDF pages: 184 (printed pagination runs 6 behind the PDF pages: printed p. 2 = PDF p. 8; title page verified as above; read via the books.json record's own ministry source file at chap.sch.ir — same book, exact byte size and page count as the record — after the GitHub route failed). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/iran-placements.md.
 
@@ -324,3 +324,19 @@ Cambodia's own way (Cambodia Grade 3 Science–Social G3): community living is t
 
 Registry note: the original coined string `culture-and-work/village-leaders-in-cambodia` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §5 into this canonical lesson, `culture-and-work/how-cities-and-villages-are-run`.
 
+El Salvador placements — Social Studies remaining strands (2026-11-17):
+
+**Book 8:** *El Salvador Grade 8 Estudios Sociales y Cívica 8* (student book, Spanish) — Title as printed: Estudios Sociales y Cívica 8: libro de texto. Grade: Grade 8 (student/teacher: STUDENT). Publisher: Ministerio de Educación (MINED), El Salvador; ISBN in the series sequence (cover verified against the record title). PDF pages: 224 (8,650,131 bytes — exactly the download-list size for the record's own source_url; read from that source after the grab.py route failed). Earlier waves: not read before (see Book 1 note). Verdict: COMPLETE. Contents map: Culture pp. 93–136 (Unit 3 sociocultural diversity and identity in America; the three Latin American art lessons pp. 111–135 named, not placed — Art course content); Integrated SS pp. 137–180 (Unit 4 family, culture and adolescence; adolescent development/personality lessons pp. 147–162 named, not placed — personal development); Civics/Citizenship/Government pp. 163–180 in part and 181–224 (Unit 5 democratic institutionality in El Salvador and Central America); Geography pp. 5–48 (Unit 1); History pp. 49–92 (Unit 2). Tally: 11 placements — 3 to existing lessons, 8 NEW LESSON NEEDED (4 first proposed here, 4 proposed in earlier books of this file) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---
+| El Salvador part — culture-and-work/how-cities-and-villages-are-run — Unidad 5 Lección 4 Gobiernos locales de Centroamérica — teaches: the local governments of Central America — El Salvador Grade 8 Estudios Sociales y Cívica 8, printed p. 207 | El Salvador, *El Salvador Grade 8 Estudios Sociales y Cívica 8* (student book), Unidad 5 Lección 4 Gobiernos locales de Centroamérica — printed p. 207 |
+| El Salvador part — culture-and-work/municipal-governments-in-el-salvador — Unidad 5 Lección 5 Gobiernos municipales en El Salvador — teaches: El Salvador's own municipal governments — El Salvador Grade 8 Estudios Sociales y Cívica 8, printed p. 215 | El Salvador, *El Salvador Grade 8 Estudios Sociales y Cívica 8* (student book), Unidad 5 Lección 5 Gobiernos municipales en El Salvador — printed p. 215 |
+
+**Acceptance count: taught in 25 countries (Iran, Egypt, Philippines, Samoa, Ecuador, Yemen, Bhutan, Afghanistan, Tanzania, Eritrea, Belarus, Fiji, Venezuela, Bangladesh, Turkey, Morocco, Colombia, Iraq, North Macedonia, India, United States, Rwanda, Sri Lanka, Cambodia, El Salvador).**
+
+El Salvador's own way (El Salvador Grade 8 Estudios Sociales y Cívica 8): Grade 8's democracy unit is El Salvador's and Central America's own institutionality — the State, electoral rights, and municipal governments in El Salvador itself.
+
+Registry note: the original coined string `culture-and-work/municipal-governments-in-el-salvador` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/how-cities-and-villages-are-run`.
+
+Searchable tags: how cities and villages are run, El Salvador, social studies, culture-and-work

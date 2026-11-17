@@ -1,6 +1,6 @@
 # Sources — What Social Studies Is
 
-countries: Ethiopia, Saudi Arabia, Niue, Bolivia, Eritrea, Nicaragua, Kiribati, Sierra Leone, Somalia
+countries: Ethiopia, Saudi Arabia, Niue, Bolivia, Eritrea, Nicaragua, Kiribati, Sierra Leone, Somalia, El Salvador
 
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md.
 
@@ -58,3 +58,22 @@ Kiribati's own way (teacher guide — evidence): Social Science is built island-
 Sierra Leone's own way (teacher guide — evidence): primary civics is taught as Sierra Leone's own citizenship — the flag's green-white-blue meanings, the coat of arms, anthem and pledge, and the country's own provinces, districts and 190 chiefdoms.
 
 Somalia's own way (Grade 1, teacher guide — evidence): this subject was created by the 1969 Revolution to form the new Somali person — personality (qofnimo) is built, not born: family, food, dress, schooling and society shape it, and the school's job is to graft onto the child Somali-ness, straight morals, a living conscience, patriotism, responsibility and tolerance, in that order, from the flag outward to the society the pupil lives in.
+
+El Salvador placements — Social Studies remaining strands (2026-11-17):
+
+**Book 10:** *El Salvador Grade 10 Estudios Sociales y Cívica 1.er año de bachillerato* (student book, Spanish) — Title as printed: Estudios Sociales y Cívica: libro de texto, 1.er año de bachillerato. Grade: Grade 10 (student/teacher: STUDENT). Publisher: Ministerio de Educación (MINED), El Salvador; ISBN in the series sequence (cover verified against the record title). PDF pages: 224 (5,557,653 bytes from the record's own source_url, matching the download list's truncated "5,5…" figure; read from that source after the grab.py route failed). Earlier waves: not read before (see Book 1 note). Verdict: COMPLETE. Contents map: Civics/Citizenship/Government pp. 83–91 (Unit 2 closing lesson), 137–180 (Unit 4 rights, duties, legality and democracy), 181–224 (Unit 5 politics, democracy and the information society); Culture pp. 111–126 (new social movements; cultural globalisation); History pp. 49–92 (Unit 2 in bulk), 93–110 (Unit 3 in bulk — named, not placed); Science/methods pp. 5–48 (Unit 1: what the social sciences are — placed below — and social research methodology, named, not placed); Economics p. 127 (named). Tally: 14 placements — 3 to existing lessons, 11 NEW LESSON NEEDED (9 first proposed here, 2 proposed in earlier books of this file) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/el-salvador-placements.md.
+
+**Book 11:** *El Salvador Grade 11 Estudios Sociales y Cívica 2.° año de bachillerato* (student book, Spanish) — Title as printed: Estudios Sociales y Cívica: libro de texto, 2.° año de bachillerato. Grade: Grade 11 (student/teacher: STUDENT). Publisher: Ministerio de Educación (MINED), El Salvador; ISBN in the series sequence (cover verified against the record title). PDF pages: 224 (5,267,135 bytes from the record's own source_url, matching the download list's truncated "5,26…" figure; read from that source after the grab.py route failed). Earlier waves: not read before (see Book 1 note). Verdict: COMPLETE. Contents map: Civics/Citizenship pp. 139–154 (third/fourth-generation rights; new ideologies), 191–224 in part (communication technologies, labour legislation, intellectual property); History/Economics pp. 49–136 (Units 2–3 in bulk, incl. globalisation p. 171 — named, not placed), 155–170 (environmental degradation and legislation — named, not placed), 183–190, 199–206 (named); Science/methods pp. 5–48 (Unit 1, of which the social-reality/social-sciences lessons are placed below). Tally: 7 placements — 1 to existing lessons, 6 NEW LESSON NEEDED (5 first proposed here, 1 proposed in Book 1) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---
+| El Salvador part — first-steps/what-social-studies-is — Unidad 1 Lección 1 Los Estudios Sociales y las Ciencias Sociales — teaches: what Social Studies and the social sciences are — El Salvador Grade 10 Estudios Sociales y Cívica 1.er año de bachillerato, printed p. 7 | El Salvador, *El Salvador Grade 10 Estudios Sociales y Cívica 1.er año de bachillerato* (student book), Unidad 1 Lección 1 Los Estudios Sociales y las Ciencias Sociales — printed p. 7 |
+| El Salvador part — first-steps/what-social-studies-is — Unidad 1 Lecciones 1–2 La realidad social / Las ciencias sociales — teaches: social reality and the social sciences that study it — El Salvador Grade 11 Estudios Sociales y Cívica 2.° año de bachillerato, printed p. 7 | El Salvador, *El Salvador Grade 11 Estudios Sociales y Cívica 2.° año de bachillerato* (student book), Unidad 1 Lecciones 1–2 La realidad social / Las ciencias sociales — printed p. 7 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Saudi Arabia, Bolivia, Eritrea, Nicaragua, El Salvador).** Niue, Kiribati, Sierra Leone and Somalia are named here as teacher-guide evidence only, counted nowhere.**
+
+El Salvador's own way (El Salvador Grade 10 Estudios Sociales y Cívica 1.er año de bachillerato): the bachillerato book turns civics into El Salvador's own democratic repair — rule of law in El Salvador and the Salvadoran political system — and ends in the information society: e-government, access and transparency.
+
+El Salvador's own way (El Salvador Grade 11 Estudios Sociales y Cívica 2.° año de bachillerato): the final book's civics is law for working life — labour legislation and intellectual property — and rights pushed to their third and fourth generations.
+
+Searchable tags: what social studies is, El Salvador, social studies, first-steps

@@ -1,6 +1,6 @@
 # Sources — Families Can Be Different
 
-countries: Bahamas, Colombia, India, Angola
+countries: Bahamas, Colombia, India, Angola, El Salvador
 
 **Book 1:** *Social Science — Grade 1 (Lower Primary Social Science Content Notes, Version 2, January 2024)* (student book, English) — Bahamas Ministry of Education; year 2024; ISBN no ISBN printed. Title as printed: Social Science — Grade 1 (Lower Primary Social Science Content Notes, Version 2, January 2024). Grade: Grade 1 (student/teacher: STUDENT). PDF pages: 49 (verified first-hand in the retry pass: complete file, 26,948,940 bytes, trailer present, cover and credits pages match the record — MOETVT, coordinator Vanria L. Jack, Version 2, January 2024). Earlier waves: Geography wave placed the Geography/Science parts (17 placements, incl. Transportation p. 30 and Protecting the Environment pp. 36–37); History wave placed 4 history-scope placements; Economics wave filed RECORD-ONLY — no Economics parts, and enumerated all 29 topics with page spans (Civics pp. 16, 23–30). Verdict: COMPLETE — upgraded from PARTIAL in the retry pass (2026-11-17); the whole book was read first-hand and every placement below was re-verified against the real book, with page citations corrected to the book's own printed pages. Contents map: Integrated SS / Civics pp. 16–30 (I Have Rights and Responsibilities p. 16; Families are Special pp. 17–18; Leaders p. 23; The Bahamas, My Country p. 24; Our Culture p. 25; Being a Peaceful Citizen pp. 26–27; I Can Help, Too! pp. 28–29; Transportation p. 30 — placed by the Geography wave); Religion pp. 4–6, 19–22, 42–47; Health/self pp. 7–18; Science/Geography pp. 30–41, 48; Economics parts: none. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/bahamas-placements.md.
 
@@ -69,3 +69,19 @@ Angola placements — Social Studies remaining strands (2026-11-17):
 Angola's own way (Book 4): a moral-and-civic book built on the child's own reflection — every unit opens with the pupil's own life (my habits, my family, my school) and only then names the rule; equality is taught straight from Angola's own Constitution (art. 23: all are equal before the Constitution and the law), and the book ends not on the state but on national reconciliation — building a better Angola, then a better world.
 
 Registry note: the original coined string `first-steps/my-family-and-other-families` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/families-can-be-different`.
+
+El Salvador placements — Social Studies remaining strands (2026-11-17):
+
+**Book 7:** *El Salvador Grade 7 Estudios Sociales y Cívica 7* (student book, Spanish) — Title as printed: Estudios Sociales y Cívica 7: libro de texto. Grade: Grade 7 (student/teacher: STUDENT). Publisher: Ministerio de Educación (MINED), El Salvador; ISBN in the series sequence (cover verified against the record title). PDF pages: 224 (7,465,085 bytes — exactly the download-list size for the record's own source_url; read from that source after the grab.py route failed). Earlier waves: not read before (see Book 1 note). Verdict: COMPLETE. Contents map: Culture pp. 93–136 (Unit 3 our societies: sociocultural diversity, identity and territory); Integrated SS pp. 137–180 (Unit 4 family, society and childhood); Civics/Citizenship/Government pp. 181–224 (Unit 5 democracy and rule of law); Geography pp. 5–48 (Unit 1, incl. environmental protection laws p. 39 — named, not placed); History/Economics pp. 49–92 (Unit 2 Central America cultural, economic and political — named, not placed). Tally: 15 placements — 2 to existing lessons, 13 NEW LESSON NEEDED (11 first proposed here, 2 proposed in earlier books of this file) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---
+| El Salvador part — culture-and-work/families-change — Unidad 4 Lección 2 Las familias cambian — teaches: families change over time — their forms and members are not fixed — El Salvador Grade 7 Estudios Sociales y Cívica 7, printed p. 147 | El Salvador, *El Salvador Grade 7 Estudios Sociales y Cívica 7* (student book), Unidad 4 Lección 2 Las familias cambian — printed p. 147 |
+
+**Acceptance count: taught in 5 countries (Bahamas, Colombia, India, Angola, El Salvador).**
+
+El Salvador's own way (El Salvador Grade 7 Estudios Sociales y Cívica 7): the Tercer Ciclo book is built as five themes, and its civics is El Salvador's own — Salvadoran identity, Salvadoran families, the institutions that protect Salvadoran children, and the rights of Salvadorans under their own constitution.
+
+Registry note: the original coined string `culture-and-work/families-change` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/families-can-be-different`.
+
+Searchable tags: families can be different, El Salvador, social studies, first-steps

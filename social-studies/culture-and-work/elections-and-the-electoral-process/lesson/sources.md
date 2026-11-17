@@ -1,6 +1,6 @@
 # Sources — Elections and the Electoral Process
 
-countries: Samoa, Albania, Bangladesh, United States, Papua New Guinea
+countries: Samoa, Albania, Bangladesh, United States, Papua New Guinea, El Salvador
 
 **Book 1:** *Social Studies — Year 10 Book One* (student book, English) — Title as printed: Social Studies — Year 10 Book One. Grade: Year 10 (student/teacher: STUDENT). Publisher: Government of Samoa, Department of Education; year 2001; ISBN 982-517-009-3. PDF pages: 100 (cover/title page verified against the record title; MESC copy, size 2,049,510 B per download list). Read from the MESC ministry source URL recorded in the books.json record — the same MESC PDF the Geography wave verified byte-for-byte against the record and already secured in GitHub (in_pushed: true) — via the browser text route, cover/title page and ISBN checked against the record before reading; no file staged — the book is already in GitHub, as filed in samoa-placements.md. Earlier waves: Geography wave placed Unit 3–4 skills (graphs, census, pp. 59–98) and named Units 1–2 "Civics, not placed"; History wave placed Unit 1 Topic 1's development narrative, Unit 2's historical case studies, the rights-documents chain, the UDHR and the Mau timeline (pp. 5–6, 10, 25–48) and named the present-day civics parts not placed (voting/law-making pp. 8–18, Japan pp. 19–22, UN/Amnesty/protest pp. 33–45, 48–58); Economics wave placed the census/graph skills only. The civics teaching named by both waves was read and placed here. Verdict: COMPLETE. Contents map: Civics/Citizenship/Government pp. 5–58 (Unit 1 Government; Unit 2 Human Rights); Geography/Skills pp. 59–98 (Units 3–4, placed by Geography wave). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/samoa-placements.md.
 
@@ -77,3 +77,18 @@ Papua New Guinea's own way (teacher guide — evidence) (Social Science Upper Pr
 
 Papua New Guinea's own way (teacher guide — evidence) (Social Science Lower Secondary TG, Grades 9–10): the old lower-secondary course makes citizens by doing — a mock campaign and election counted by limited preferential voting (LPV), a mock parliament debate, and a hard look at corruption and nepotism — then turns outward to PNG's place in the global community and how conflicts, including Bougainville, are resolved.
 
+El Salvador placements — Social Studies remaining strands (2026-11-17):
+
+**Book 8:** *El Salvador Grade 8 Estudios Sociales y Cívica 8* (student book, Spanish) — Title as printed: Estudios Sociales y Cívica 8: libro de texto. Grade: Grade 8 (student/teacher: STUDENT). Publisher: Ministerio de Educación (MINED), El Salvador; ISBN in the series sequence (cover verified against the record title). PDF pages: 224 (8,650,131 bytes — exactly the download-list size for the record's own source_url; read from that source after the grab.py route failed). Earlier waves: not read before (see Book 1 note). Verdict: COMPLETE. Contents map: Culture pp. 93–136 (Unit 3 sociocultural diversity and identity in America; the three Latin American art lessons pp. 111–135 named, not placed — Art course content); Integrated SS pp. 137–180 (Unit 4 family, culture and adolescence; adolescent development/personality lessons pp. 147–162 named, not placed — personal development); Civics/Citizenship/Government pp. 163–180 in part and 181–224 (Unit 5 democratic institutionality in El Salvador and Central America); Geography pp. 5–48 (Unit 1); History pp. 49–92 (Unit 2). Tally: 11 placements — 3 to existing lessons, 8 NEW LESSON NEEDED (4 first proposed here, 4 proposed in earlier books of this file) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---
+| El Salvador part — culture-and-work/electoral-rights-and-elections — Unidad 5 Lección 2 Derechos humanos y electorales — teaches: electoral rights — the citizen's right to vote and be elected — El Salvador Grade 8 Estudios Sociales y Cívica 8, printed p. 191 | El Salvador, *El Salvador Grade 8 Estudios Sociales y Cívica 8* (student book), Unidad 5 Lección 2 Derechos humanos y electorales — printed p. 191 |
+
+**Acceptance count: taught in 4 countries (Samoa, Bangladesh, United States, El Salvador).** Albania is named here as teacher-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+
+El Salvador's own way (El Salvador Grade 8 Estudios Sociales y Cívica 8): Grade 8's democracy unit is El Salvador's and Central America's own institutionality — the State, electoral rights, and municipal governments in El Salvador itself.
+
+Registry note: the original coined string `culture-and-work/electoral-rights-and-elections` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/elections-and-the-electoral-process`.
+
+Searchable tags: elections and the electoral process, El Salvador, social studies, culture-and-work

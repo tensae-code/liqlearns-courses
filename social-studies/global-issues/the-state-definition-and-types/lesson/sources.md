@@ -1,6 +1,6 @@
 # Sources — The State — Definition and Types
 
-countries: Egypt, Haiti, Afghanistan, Eritrea, Mexico, Belarus, Syria, Bangladesh, Iraq, Armenia, Kazakhstan, United States, Palestine, Sri Lanka, Jordan
+countries: Egypt, Haiti, Afghanistan, Eritrea, Mexico, Belarus, Syria, Bangladesh, Iraq, Armenia, Kazakhstan, United States, Palestine, Sri Lanka, Jordan, El Salvador
 
 **Book 1:** *الجغرافيا السياسية (Political Geography) — كتاب الطالب والأنشطة والتدريبات (Student Book, Activities and Exercises)* (student book with activities, Arabic) — Egypt, Ministry of Education and Technical Education, Egypt; no year or ISBN on the cover pages read (the file is the ministry's 2026-folder student book). Title as printed: الجغرافيا السياسية (Political Geography). Grade 12, Third Secondary, Term 1 (student). 172 PDF pp. (cover verified against the record title; 28,573,835 bytes = record size exactly, from the recorded Azure source; staged in phase3-staging/grade-12/gov/egypt/Geography_Sec3.pdf under the push-don't-delete rule — its books.json record already existed there). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/egypt-placements.md.
 
@@ -166,3 +166,17 @@ Jordan placements — Social Studies remaining strands (2026-11-17):
 Jordan's own way (Book 1): civics opens the year — the state, Jordan's constitution and the law come before any geography or history, and media is taught as a citizen's practice (expression, ethics, criticism), not as technology.
 
 Searchable tags: the state — definition and types, Jordan, social studies, global-issues
+
+El Salvador placements — Social Studies remaining strands (2026-11-17):
+
+**Book 8:** *El Salvador Grade 8 Estudios Sociales y Cívica 8* (student book, Spanish) — Title as printed: Estudios Sociales y Cívica 8: libro de texto. Grade: Grade 8 (student/teacher: STUDENT). Publisher: Ministerio de Educación (MINED), El Salvador; ISBN in the series sequence (cover verified against the record title). PDF pages: 224 (8,650,131 bytes — exactly the download-list size for the record's own source_url; read from that source after the grab.py route failed). Earlier waves: not read before (see Book 1 note). Verdict: COMPLETE. Contents map: Culture pp. 93–136 (Unit 3 sociocultural diversity and identity in America; the three Latin American art lessons pp. 111–135 named, not placed — Art course content); Integrated SS pp. 137–180 (Unit 4 family, culture and adolescence; adolescent development/personality lessons pp. 147–162 named, not placed — personal development); Civics/Citizenship/Government pp. 163–180 in part and 181–224 (Unit 5 democratic institutionality in El Salvador and Central America); Geography pp. 5–48 (Unit 1); History pp. 49–92 (Unit 2). Tally: 11 placements — 3 to existing lessons, 8 NEW LESSON NEEDED (4 first proposed here, 4 proposed in earlier books of this file) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---
+| El Salvador part — global-issues/the-state-definition-and-types — Unidad 5 Lección 1 El Estado — teaches: the State — what it is — El Salvador Grade 8 Estudios Sociales y Cívica 8, printed p. 183 | El Salvador, *El Salvador Grade 8 Estudios Sociales y Cívica 8* (student book), Unidad 5 Lección 1 El Estado — printed p. 183 |
+
+**Acceptance count: taught in 15 countries (Egypt, Afghanistan, Eritrea, Mexico, Belarus, Syria, Bangladesh, Iraq, Armenia, Kazakhstan, United States, Palestine, Sri Lanka, Jordan, El Salvador).**
+
+El Salvador's own way (El Salvador Grade 8 Estudios Sociales y Cívica 8): Grade 8's democracy unit is El Salvador's and Central America's own institutionality — the State, electoral rights, and municipal governments in El Salvador itself.
+
+Searchable tags: the state — definition and types, El Salvador, social studies, global-issues

@@ -1,6 +1,6 @@
 # Sources — Culture — what culture is
 
-countries: Ethiopia, Mongolia, Bahamas, Zimbabwe, Colombia, Kuwait, Jordan, Bhutan, Kiribati, Sierra Leone, Tanzania, Eritrea, Syria, Bangladesh, Angola, Iran
+countries: Ethiopia, Mongolia, Bahamas, Zimbabwe, Colombia, Kuwait, Jordan, Bhutan, Kiribati, Sierra Leone, Tanzania, Eritrea, Syria, Bangladesh, Angola, Iran, El Salvador
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -179,3 +179,17 @@ Iran's own way (Iran Social Studies Grade 9): the last middle-school civics year
 Registry note: the original coined string `culture-and-work/what-culture-is` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/culture-what-culture-is`.
 
 Searchable tags: culture — what culture is, Iran, social studies, culture-and-work
+
+El Salvador placements — Social Studies remaining strands (2026-11-17):
+
+**Book 7:** *El Salvador Grade 7 Estudios Sociales y Cívica 7* (student book, Spanish) — Title as printed: Estudios Sociales y Cívica 7: libro de texto. Grade: Grade 7 (student/teacher: STUDENT). Publisher: Ministerio de Educación (MINED), El Salvador; ISBN in the series sequence (cover verified against the record title). PDF pages: 224 (7,465,085 bytes — exactly the download-list size for the record's own source_url; read from that source after the grab.py route failed). Earlier waves: not read before (see Book 1 note). Verdict: COMPLETE. Contents map: Culture pp. 93–136 (Unit 3 our societies: sociocultural diversity, identity and territory); Integrated SS pp. 137–180 (Unit 4 family, society and childhood); Civics/Citizenship/Government pp. 181–224 (Unit 5 democracy and rule of law); Geography pp. 5–48 (Unit 1, incl. environmental protection laws p. 39 — named, not placed); History/Economics pp. 49–92 (Unit 2 Central America cultural, economic and political — named, not placed). Tally: 15 placements — 2 to existing lessons, 13 NEW LESSON NEEDED (11 first proposed here, 2 proposed in earlier books of this file) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---
+| El Salvador part — culture-and-work/culture-what-culture-is — Unidad 3 Lección 2 La cultura — teaches: what culture is — the whole way of life of a people — El Salvador Grade 7 Estudios Sociales y Cívica 7, printed p. 103 | El Salvador, *El Salvador Grade 7 Estudios Sociales y Cívica 7* (student book), Unidad 3 Lección 2 La cultura — printed p. 103 |
+
+**Acceptance count: taught in 14 countries (Ethiopia, Mongolia, Bahamas, Colombia, Kuwait, Jordan, Bhutan, Tanzania, Eritrea, Syria, Bangladesh, Angola, Iran, El Salvador).**
+
+El Salvador's own way (El Salvador Grade 7 Estudios Sociales y Cívica 7): the Tercer Ciclo book is built as five themes, and its civics is El Salvador's own — Salvadoran identity, Salvadoran families, the institutions that protect Salvadoran children, and the rights of Salvadorans under their own constitution.
+
+Searchable tags: culture — what culture is, El Salvador, social studies, culture-and-work

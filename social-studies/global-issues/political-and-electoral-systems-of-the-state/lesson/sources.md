@@ -1,6 +1,6 @@
 # Sources — Political and Electoral Systems of the State
 
-countries: Egypt, Costa Rica, Maldives, Micronesia, Philippines, Bahamas, Bhutan, Mexico, Uganda, India, United States, Rwanda, Sri Lanka, Cambodia
+countries: Egypt, Costa Rica, Maldives, Micronesia, Philippines, Bahamas, Bhutan, Mexico, Uganda, India, United States, Rwanda, Sri Lanka, Cambodia, El Salvador
 
 **Book 1:** *الجغرافيا السياسية (Political Geography) — كتاب الطالب والأنشطة والتدريبات (Student Book, Activities and Exercises)* (student book with activities, Arabic) — Egypt, Ministry of Education and Technical Education, Egypt; no year or ISBN on the cover pages read (the file is the ministry's 2026-folder student book). Title as printed: الجغرافيا السياسية (Political Geography). Grade 12, Third Secondary, Term 1 (student). 172 PDF pp. (cover verified against the record title; 28,573,835 bytes = record size exactly, from the recorded Azure source; staged in phase3-staging/grade-12/gov/egypt/Geography_Sec3.pdf under the push-don't-delete rule — its books.json record already existed there). Verdict: COMPLETE. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/egypt-placements.md.
 
@@ -162,3 +162,16 @@ Cambodia's own way (Cambodia Grade 7 Social Studies G7): lower-secondary civics 
 
 Cambodia's own way (Cambodia Grade 8 Social Studies G8): Grade 8 civics is organised as widening circles of relationship — others, family, community — and its community chapter teaches Cambodia's real elections: commune–sangkat councils first, then the National Assembly. That way is stocked here as the way Cambodia teaches this thing.
 
+El Salvador placements — Social Studies remaining strands (2026-11-17):
+
+**Book 10:** *El Salvador Grade 10 Estudios Sociales y Cívica 1.er año de bachillerato* (student book, Spanish) — Title as printed: Estudios Sociales y Cívica: libro de texto, 1.er año de bachillerato. Grade: Grade 10 (student/teacher: STUDENT). Publisher: Ministerio de Educación (MINED), El Salvador; ISBN in the series sequence (cover verified against the record title). PDF pages: 224 (5,557,653 bytes from the record's own source_url, matching the download list's truncated "5,5…" figure; read from that source after the grab.py route failed). Earlier waves: not read before (see Book 1 note). Verdict: COMPLETE. Contents map: Civics/Citizenship/Government pp. 83–91 (Unit 2 closing lesson), 137–180 (Unit 4 rights, duties, legality and democracy), 181–224 (Unit 5 politics, democracy and the information society); Culture pp. 111–126 (new social movements; cultural globalisation); History pp. 49–92 (Unit 2 in bulk), 93–110 (Unit 3 in bulk — named, not placed); Science/methods pp. 5–48 (Unit 1: what the social sciences are — placed below — and social research methodology, named, not placed); Economics p. 127 (named). Tally: 14 placements — 3 to existing lessons, 11 NEW LESSON NEEDED (9 first proposed here, 2 proposed in earlier books of this file) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---
+| El Salvador part — global-issues/political-and-electoral-systems-of-the-state — Unidad 4 Lección 5 El sistema político salvadoreño — teaches: the Salvadoran political system — El Salvador Grade 10 Estudios Sociales y Cívica 1.er año de bachillerato, printed p. 171 | El Salvador, *El Salvador Grade 10 Estudios Sociales y Cívica 1.er año de bachillerato* (student book), Unidad 4 Lección 5 El sistema político salvadoreño — printed p. 171 |
+
+**Acceptance count: taught in 15 countries (Egypt, Costa Rica, Maldives, Micronesia, Philippines, Bahamas, Bhutan, Mexico, Uganda, India, United States, Rwanda, Sri Lanka, Cambodia, El Salvador).**
+
+El Salvador's own way (El Salvador Grade 10 Estudios Sociales y Cívica 1.er año de bachillerato): the bachillerato book turns civics into El Salvador's own democratic repair — rule of law in El Salvador and the Salvadoran political system — and ends in the information society: e-government, access and transparency.
+
+Searchable tags: political and electoral systems of the state, El Salvador, social studies, global-issues

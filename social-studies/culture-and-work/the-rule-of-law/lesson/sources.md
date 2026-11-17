@@ -1,6 +1,6 @@
 # Sources — The Rule of Law
 
-countries: China, India, Cambodia, Jordan, South Sudan
+countries: China, India, Cambodia, Jordan, South Sudan, El Salvador
 
 **Book 1:** *思想政治必修3 政治与法治 (Ideological & Political, Compulsory 3: Politics and Rule of Law)* (student book, Chinese) — Title as printed: 普通高中教科书 思想政治 必修3 政治与法治. Grade: Senior high (filed grade-12) (student/teacher: STUDENT). Publisher: 人民教育出版社 (People's Education Press), Beijing, compiled by the Ministry of Education (教育部组织编写); chief editor Zhang Yibin (张异宾), volume editors Liu Jianjun (刘建军) and Zhu Liyu (朱力宇); year 2019 first edition (2019 统编 seal on cover), this scan a later printing carrying material to 2021 (the 2021–2025 rule-of-law government outline in Lesson 8); ISBN 978-7-107-24394-3 (read from the back-cover barcode). PDF pages: 122 (cover verified — 思想政治 必修3 政治与法治 over the Great Hall of the People ceiling lights and red star matches the record; byte size 7,190,119 matches the books.json record exactly; the tensae-code textbooks repo was checked by authenticated GitHub API curl and returns 404 for this file, and no copy sat on disk in staging, so the book was read from its recorded source_url, the kyohwang/ChinaTextbook PEP collection — the same route as Books 1–5 — and staged beside its record, below). Earlier waves: not read before (Geography/History/Economics waves held no record of this book; the cn-ki reader of Books 1–5 flagged it in its log as the map gap this add-on closes). Verdict: COMPLETE. Contents map: Civics/Citizenship/Government (China's own system taught as its own way) printed pp. 1–113 entire — Unit 1 中国共产党的领导 (the Party's leadership) pp. 1–34; Unit 2 人民当家作主 (the people as masters of the country) pp. 35–72; Unit 3 全面依法治国 (comprehensive rule of law) pp. 73–113; History pp. 2–14 (the pre-1949 political forces and the stand-up / grow-rich / become-strong narrative inside Lessons 1–2 — named here; it is taught as the ground of the Party's leadership and is placed with the civics lessons it serves, not as history). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/china-placements.md.
 
@@ -71,3 +71,19 @@ South Sudan placements — Social Studies remaining strands (2026-11-17):
 South Sudan's own way (Book 15): The final primary book is a civics of unity for a country at war with itself — power sharing is taught from the 2016 Transitional Government of National Unity cabinet photograph, the constitution's Section 33 equality clause is quoted in full, and Kenya's 2007–08 crisis and Kofi Annan's mediation are the worked example of how a neighbour's unity process shapes South Sudan's own.
 
 Searchable tags: the rule of law, South Sudan, social studies, culture-and-work
+
+El Salvador placements — Social Studies remaining strands (2026-11-17):
+
+**Book 10:** *El Salvador Grade 10 Estudios Sociales y Cívica 1.er año de bachillerato* (student book, Spanish) — Title as printed: Estudios Sociales y Cívica: libro de texto, 1.er año de bachillerato. Grade: Grade 10 (student/teacher: STUDENT). Publisher: Ministerio de Educación (MINED), El Salvador; ISBN in the series sequence (cover verified against the record title). PDF pages: 224 (5,557,653 bytes from the record's own source_url, matching the download list's truncated "5,5…" figure; read from that source after the grab.py route failed). Earlier waves: not read before (see Book 1 note). Verdict: COMPLETE. Contents map: Civics/Citizenship/Government pp. 83–91 (Unit 2 closing lesson), 137–180 (Unit 4 rights, duties, legality and democracy), 181–224 (Unit 5 politics, democracy and the information society); Culture pp. 111–126 (new social movements; cultural globalisation); History pp. 49–92 (Unit 2 in bulk), 93–110 (Unit 3 in bulk — named, not placed); Science/methods pp. 5–48 (Unit 1: what the social sciences are — placed below — and social research methodology, named, not placed); Economics p. 127 (named). Tally: 14 placements — 3 to existing lessons, 11 NEW LESSON NEEDED (9 first proposed here, 2 proposed in earlier books of this file) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---
+| El Salvador part — culture-and-work/the-rule-of-law-in-el-salvador — Unidad 4 Lección 4 El Estado de Derecho en El Salvador — teaches: the rule of law in El Salvador — El Salvador Grade 10 Estudios Sociales y Cívica 1.er año de bachillerato, printed p. 163 | El Salvador, *El Salvador Grade 10 Estudios Sociales y Cívica 1.er año de bachillerato* (student book), Unidad 4 Lección 4 El Estado de Derecho en El Salvador — printed p. 163 |
+
+**Acceptance count: taught in 6 countries (China, India, Cambodia, Jordan, South Sudan, El Salvador).**
+
+El Salvador's own way (El Salvador Grade 10 Estudios Sociales y Cívica 1.er año de bachillerato): the bachillerato book turns civics into El Salvador's own democratic repair — rule of law in El Salvador and the Salvadoran political system — and ends in the information society: e-government, access and transparency.
+
+Registry note: the original coined string `culture-and-work/the-rule-of-law-in-el-salvador` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/the-rule-of-law`.
+
+Searchable tags: the rule of law, El Salvador, social studies, culture-and-work

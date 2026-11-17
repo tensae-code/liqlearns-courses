@@ -1,6 +1,6 @@
 # Sources — Culture — globalisation and cultural change
 
-countries: Ethiopia, Brazil, Costa Rica, Mongolia, Ecuador, Jamaica, Samoa, South Sudan, Tanzania, Fiji, Papua New Guinea
+countries: Ethiopia, Brazil, Costa Rica, Mongolia, Ecuador, Jamaica, Samoa, South Sudan, Tanzania, Fiji, Papua New Guinea, El Salvador
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -121,3 +121,16 @@ Papua New Guinea's own way (teacher guide — evidence) (Social Science Upper Pr
 
 Papua New Guinea's own way (teacher guide — evidence) (Social Science Lower Secondary TG, Grades 9–10): the old lower-secondary course makes citizens by doing — a mock campaign and election counted by limited preferential voting (LPV), a mock parliament debate, and a hard look at corruption and nepotism — then turns outward to PNG's place in the global community and how conflicts, including Bougainville, are resolved.
 
+El Salvador placements — Social Studies remaining strands (2026-11-17):
+
+**Book 10:** *El Salvador Grade 10 Estudios Sociales y Cívica 1.er año de bachillerato* (student book, Spanish) — Title as printed: Estudios Sociales y Cívica: libro de texto, 1.er año de bachillerato. Grade: Grade 10 (student/teacher: STUDENT). Publisher: Ministerio de Educación (MINED), El Salvador; ISBN in the series sequence (cover verified against the record title). PDF pages: 224 (5,557,653 bytes from the record's own source_url, matching the download list's truncated "5,5…" figure; read from that source after the grab.py route failed). Earlier waves: not read before (see Book 1 note). Verdict: COMPLETE. Contents map: Civics/Citizenship/Government pp. 83–91 (Unit 2 closing lesson), 137–180 (Unit 4 rights, duties, legality and democracy), 181–224 (Unit 5 politics, democracy and the information society); Culture pp. 111–126 (new social movements; cultural globalisation); History pp. 49–92 (Unit 2 in bulk), 93–110 (Unit 3 in bulk — named, not placed); Science/methods pp. 5–48 (Unit 1: what the social sciences are — placed below — and social research methodology, named, not placed); Economics p. 127 (named). Tally: 14 placements — 3 to existing lessons, 11 NEW LESSON NEEDED (9 first proposed here, 2 proposed in earlier books of this file) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---
+| El Salvador part — culture-and-work/culture-globalisation-and-cultural-change — Unidad 3 Lección 4 Globalización cultural — teaches: cultural globalisation — El Salvador Grade 10 Estudios Sociales y Cívica 1.er año de bachillerato, printed p. 119 | El Salvador, *El Salvador Grade 10 Estudios Sociales y Cívica 1.er año de bachillerato* (student book), Unidad 3 Lección 4 Globalización cultural — printed p. 119 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Brazil, Costa Rica, Mongolia, Ecuador, Samoa, Tanzania, Fiji, El Salvador).** Jamaica is named here as curriculum-guide evidence only, counted nowhere. South Sudan is named here as teacher-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.**
+
+El Salvador's own way (El Salvador Grade 10 Estudios Sociales y Cívica 1.er año de bachillerato): the bachillerato book turns civics into El Salvador's own democratic repair — rule of law in El Salvador and the Salvadoran political system — and ends in the information society: e-government, access and transparency.
+
+Searchable tags: culture — globalisation and cultural change, El Salvador, social studies, culture-and-work
