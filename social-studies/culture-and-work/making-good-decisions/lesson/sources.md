@@ -1,6 +1,6 @@
 # Sources — Making Good Decisions
 
-countries: Cambodia, South Sudan
+countries: Cambodia, South Sudan, Iran
 
 **Book 1:** *សិក្សាសង្គម ថ្នាក់ទី១០ (Social Studies, Grade 10)* (student book, Khmer) — Title as printed: សិក្សាសង្គម ថ្នាក់ទី១០ (Social Studies, Grade 10). Grade: 10 (student/teacher: STUDENT). Publisher: MoEYS Publishing and Distribution House; year 2020; ISBN 978-9995-000-98-1. PDF pages: 385 (cover/title page verified against the record title; byte size and pdfinfo page count verified EXACT against the record; read in place at ~/workspace/phase3-staging/, never moved or deleted; all reading was visual, from rendered pages, because the book's text layer uses a legacy font encoding; printed p. = PDF p. − 5 in this book). Earlier waves: Geography wave placed the Geography section (printed pp. 1–96); History wave placed the History section (pp. 97–194); Economics wave placed the Home Economics section's family-economy and family-business parts (pp. 289–380). Verdict: COMPLETE. Contents map: Civics/Morals/Culture — the section សីលធម៌-ពលរដ្ឋវិទ្យា (Morality–Civics) printed pp. 195–288: Ch. 1 តម្លៃមនុស្ស (Human values) pp. 195–222 (creativity p. 196 — named, not placed; responsible decision-making p. 200; helping each other in brotherhood p. 204; volunteering p. 208; morality and human values p. 212; sujivadharm p. 216); Ch. 2 វប្បធម៌សន្តិភាព (Culture of peace) pp. 223–256 (violence p. 224; Khmer ancient temple architecture p. 230; matriarchy p. 238; family happiness p. 244; mental health p. 250 — Health, named, not placed); Ch. 3 ការចូលរួមអភិវឌ្ឍសហគមន៍ (Joining community development) pp. 257–288 (the rule of law p. 258; the Constitution p. 264; top institutions p. 270; rights and duties p. 276; expressing opinions p. 280; protecting one's own rights p. 284). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/cambodia-placements.md.
 
@@ -39,3 +39,19 @@ South Sudan's own way (Book 7): Law enters as the rules each community governs i
 South Sudan's own way (Book 9): Citizenship is taught as a sung list of duties — loyalty, voting, peace, defending the country, paying taxes, obeying laws, helping in disasters — and leadership is measured against citizenship itself: to be a good leader a person must first be a good citizen, and the President is named as the example of both.
 
 Searchable tags: making good decisions, South Sudan, social studies, culture-and-work
+
+Iran placements — Social Studies remaining strands (2026-11-17):
+
+**Book 4:** *Iran Social Studies Grade 6* (student book, Persian) — Title as printed: مطالعات اجتماعی ـ ششم دبستان (Social Studies, sixth year of primary). Grade: Grade 6 (student/teacher: STUDENT). Publisher: Ministry of Education, Organization for Educational Research and Planning; year 1405-1406 school edition (record); book code 607; no ISBN printed. PDF pages: 152 (cover verified against the record title; 15,753,303 bytes, matching the earlier waves' verified size). Earlier waves: Geography wave placed Ch. 3, 9, 10 geography; History wave placed Ch. 5, 6, 11, 12; Economics wave placed Ch. 4 (energy) and Ch. 8 Lesson 16 (clothing production). Verdict: COMPLETE. Contents map: Integrated SS / morals pp. 11–30 (Ch. 1 Our friends; Ch. 2 Decision-making) and pp. 83–94 (Ch. 7 Free time) and pp. 95–99 (Ch. 8 Lesson 15, types of clothing); Geography pp. 31–44, 107–130; Economics pp. 45–58, 100–106; History pp. 59–82, 131–151. Tally: 5 placements — 0 to existing lessons, 5 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran part — culture-and-work/decision-making-choosing-well — Lessons 3–4 "What is decision-making? / How shall we decide?" — teaches: deciding as choosing between options whose results must be predicted; the steps — think well, ask and consult (مشورت) elders and counsellors, weigh each option's results, refuse peer pressure; the check questions — is it against religion, home/school/society rules, family wishes, or anyone's health? — Iran Grade 6 Social Studies, printed p. 21 | Iran, *Iran Social Studies Grade 6* (student book), Lessons 3–4 "What is decision-making? / How shall we decide?" — printed p. 21 |
+
+**Acceptance count: taught in 3 countries (Cambodia, South Sudan, Iran).**
+
+Iran's own way (Iran Social Studies Grade 6): the last primary year turns from places to the inner life — friendship, decisions and free time — and every moral rule is anchored in a saying of Imam Ali or a classroom dilemma (a friend who urges cheating, a found purse with no name in it).
+
+Registry note: the original coined string `culture-and-work/decision-making-choosing-well` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/making-good-decisions`.
+
+Searchable tags: making good decisions, Iran, social studies, culture-and-work

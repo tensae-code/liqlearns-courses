@@ -1,6 +1,6 @@
 # Sources — What a Family Does Functions of the Family
 
-countries: Yemen, Libya, Vietnam
+countries: Yemen, Libya, Vietnam, Iran
 
 **Book 1:** *التربية الوطنية للصف السادس من مرحلة التعليم الأساسي (National Education for Grade 6 of Basic Education)* (student book, Arabic) — Republic of Yemen, Ministry of Education; year 1443 AH / 2021 CE (cover print); ISBN no ISBN printed. Title as printed: التربية الوطنية للصف السادس من مرحلة التعليم الأساسي (National Education for Grade 6 of Basic Education). Grade: 6 (student/teacher: STUDENT). PDF pages: 81 (cover/title page verified against the record title; 11,413,532 bytes, Wayback snapshot 20240711065747 of the recorded source_url). Earlier waves: not read before (no earlier wave held this civics book). Verdict: COMPLETE (full page-by-page read, civics track). Contents map: Integrated SS pp. 6–27 (Unit 1 the Yemeni family); Civics/Citizenship/Government pp. 40–58 (Unit 3 the Yemeni constitution); Morals/Values pp. 22–26 (family rights and duties), pp. 53–56 (qualities of the good citizen); Culture-in-society pp. 28–39 (Unit 2 the Yemeni tribe — its customs and its role in social peace); History pp. 59–77 (Unit 4 Yemeni figures: Imam al-Hadi ila al-Haqq, President Salih Ali al-Sammad, Jarallah Omar, the poet al-Hasan ibn Ali ibn Jabir al-Habal — named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/yemen-placements.md.
 
@@ -49,3 +49,19 @@ Vietnam's own way (Book 8): work is met first inside the family — the adults' 
 Vietnam's own way (Book 9): kinship is mapped on both sides of the family with the exact word of address for every relative (and a note that regions address them differently), and the school's link to its community is made of named joint deeds — flood relief, a rubbish-for-plants fair, traffic-safety campaigning and tree planting.
 
 Registry note: the original coined string `first-steps/my-family-and-why-we-need-one` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/what-a-family-does-functions-of-the-family`.
+
+Iran placements — Social Studies remaining strands (2026-11-17):
+
+**Book 7:** *Iran Social Studies Grade 9* (student book, Persian) — Title as printed: مطالعات اجتماعی (جغرافیا، تاریخ، مدنی) — Social Studies (Geography, History, Civics), Grade 9. Grade: Grade 9 (student/teacher: STUDENT). Publisher: Ministry of Education, Organization for Educational Research and Planning; book code 907; no ISBN printed. PDF pages: 200 (cover verified against the record title; 15,729,422 bytes, matching the earlier waves' verified size; fetched via the mid-size-books-6 release asset). Earlier waves: Geography wave placed Ch. 1–4; History wave placed Ch. 5–8; Economics wave placed Ch. 12 (productivity) and the economic sections of the Southwest Asia chapter. Verdict: COMPLETE. Contents map: Geography pp. 1–60; History pp. 61–116; Civics / integrated SS pp. 117–156 (Ch. 9 Culture and identity; Ch. 10 Family and society; Ch. 11 Government and the people); Economics pp. 157–184 (productivity). Tally: 6 placements — 0 to existing lessons, 6 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran part — culture-and-work/the-family-and-what-it-does — Lesson 19 "The family's values and functions" — teaches: the family, the smallest and most important social institution, begins with marriage — a divine covenant joining a woman and a man as partners; its functions are love and emotional support and care (the family's first shelter), and the upbringing (تربیت) of its members — teaching each person the society's beliefs, values and norms and how to live in it — Iran Grade 9 Social Studies, printed p. 132 | Iran, *Iran Social Studies Grade 9* (student book), Lesson 19 "The family's values and functions" — printed p. 132 |
+
+**Acceptance count: taught in 4 countries (Yemen, Libya, Vietnam, Iran).**
+
+Iran's own way (Iran Social Studies Grade 9): the last middle-school civics year turns sociological — culture, identity and the family are defined as concepts (layers of culture, functions of the family) before the book returns to the state, and citizenship is finally named as a two-way bond of rights and duties between people and government.
+
+Registry note: the original coined string `culture-and-work/the-family-and-what-it-does` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/what-a-family-does-functions-of-the-family`.
+
+Searchable tags: what a family does functions of the family, Iran, social studies, first-steps

@@ -1,6 +1,6 @@
 # Sources — My Family
 
-countries: Ecuador, Fiji, Oman, Syria, Venezuela, Colombia, Kazakhstan, Angola, Cambodia, Jordan, Myanmar
+countries: Ecuador, Fiji, Oman, Syria, Venezuela, Colombia, Kazakhstan, Angola, Cambodia, Jordan, Myanmar, Iran
 
 **Book 1:** *Estudios Sociales 2do EGB* (student book, Spanish) — Ministerio de Educación del Ecuador; year 2024 (Primera Edición); ISBN 978-9942-662-16-3. Title as printed: Estudios Sociales — Educación General Básica, Subnivel Elemental, Segundo de Básica; Texto del estudiante para la transición curricular. Grade: Grade 2 (student/teacher: STUDENT). PDF pages: 114 (cover/title page verified against the record title; read in place in phase3-staging, 8.6 MB on disk; full text layer read). Earlier waves: Geography wave placed pp. 25–113 geography parts and over-placed three remaining-strand topics (Tipos de viviendas, Grupos étnicos del Ecuador, Patrimonios culturales) plus the parish/administrative-division topics as geography lessons — none re-placed here / History wave placed 4 history placements / Economics wave filed it RECORD-ONLY (no Economics parts; its contents evidence names the same Civics temas placed here). Verdict: COMPLETE. Contents map: Integrated SS pp. 6–51 (family; my school and school coexistence; community actors and places); Civics/Citizenship pp. 6–24 (family rights, responsibilities, commitments and agreements), p. 87ff. (universal human rights); Morals/Values pp. 39–51 (convivencia — respect, difference, helping the community); Geography pp. 25–37, 52–86, 87–113 (placed by the Geography wave); Culture pp. 52–67 (placed by the Geography wave). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/ecuador-placements.md.
 
@@ -215,3 +215,19 @@ Myanmar's own way (Book 1): the whole primary course is carried by one child, Ma
 Registry note: the original coined string `first-steps/my-family-and-who-lives-with-me` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/my-family`.
 
 Searchable tags: my family, Myanmar, social studies, first-steps
+
+Iran placements — Social Studies remaining strands (2026-11-17):
+
+**Book 1:** *Iran Social Studies Grade 3* (student book, Persian) — Title as printed: مطالعات اجتماعی ـ سوم دبستان (Social Studies, third year of primary). Grade: Grade 3 (student/teacher: STUDENT). Publisher: Ministry of Education, Organization for Educational Research and Planning; year 1405-1406 school edition (record); book code 307; ISBN 978-964-05-1915-8. PDF pages: 104 (cover verified against the record title; 9,380,673 bytes, matching the earlier waves' verified size). Earlier waves: Geography wave placed Lessons 11–13 (resources), 15–16 (houses), the Ch. 6 school-map worksheet and Lessons 20–21 (address, directions); History wave placed Lessons 1–2 and 6 (personal timeline / change in the family); Economics wave placed Chapter 4 (Lessons 10–13, the family's needs). Verdict: COMPLETE. Contents map: Integrated SS / family / morals pp. 1–37 (Ch. 1 I am growing up, Ch. 2 The family, Ch. 3 Cooperation in the family) and pp. 56, 63–71 (Ch. 5 Lessons 14 and 17) and pp. 72–81 (Ch. 6 Our school) and pp. 86–95 (Ch. 7 Lessons 22–23); Economics pp. 38–55; Geography pp. 57–62, 76, 80–85. Tally: 12 placements — 1 to existing lessons, 11 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran part — first-steps/family-members-who-is-in-a-family — Lesson 4 "Family members" — teaches: a family begins with marriage and grows with children; families differ in size and shape — a child may live with mother and sister after a father's death, or with grandparents — Iran Grade 3 Social Studies, printed p. 16 | Iran, *Iran Social Studies Grade 3* (student book), Lesson 4 "Family members" — printed p. 16 |
+
+**Acceptance count: taught in 11 countries (Ecuador, Fiji, Syria, Venezuela, Colombia, Kazakhstan, Angola, Cambodia, Jordan, Myanmar, Iran).**
+
+Iran's own way (Iran Social Studies Grade 3): the whole primary course works outward from the child — me, my family, my house, my school, from home to school — and moral teaching (gratitude, cooperation, not mocking others) is carried by family stories, one of them built around a grandmother and the Qur'anic command to speak gently to aged parents.
+
+Registry note: the original coined string `first-steps/family-members-who-is-in-a-family` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/my-family`.
+
+Searchable tags: my family, Iran, social studies, first-steps

@@ -1,6 +1,6 @@
 # Sources — Branches of Government Executive Legislature Judiciary
 
-countries: Kiribati, Micronesia, Philippines, Yemen, Bhutan, Afghanistan, Eritrea, Belarus, Venezuela, Turkey, Morocco, Colombia, Guatemala, Iraq, Armenia, Palestine, Papua New Guinea, Sri Lanka, Saudi Arabia, Cambodia, Jordan
+countries: Kiribati, Micronesia, Philippines, Yemen, Bhutan, Afghanistan, Eritrea, Belarus, Venezuela, Turkey, Morocco, Colombia, Guatemala, Iraq, Armenia, Palestine, Papua New Guinea, Sri Lanka, Saudi Arabia, Cambodia, Jordan, Iran
 
 **Book 1:** *Social Science Teacher Guide, Year 8, Term 1* (teacher guide, English) — written, edited and formatted by the Curriculum Development and Assessment Division, Ministry of Education, Kiribati (developed with Australian Government support, per the acknowledgment page); year no year printed in the pages read; ISBN no ISBN printed. Title as printed: TEACHER GUIDE — Social Science — Year 8 — Term 1. Grade: Year 8 (student/teacher: TEACHER). PDF pages: 102 (cover verified: "Teacher Guide / Social Science / Year 8 / Term 1" under the Kiribati crest matches the record; 5,754,618 bytes; fetched via the drive.usercontent.google.com route after the uc route timed out). Earlier waves: not read before. Verdict: COMPLETE. Contents map: History printed pp. 17–42 (Unit 1 Decolonisation — Banaba phosphate, nuclear testing, colonised/decolonised countries); Geography pp. 43–64 (Unit 2 Population Studies); Civics/Citizenship/Government pp. 65–73 information + teaching activities to p. 101 (Unit 3, Strand 4 Governance). The links file’s second Year 8 record ("Copy of Yr 8 Social Science TG Term 1 CDRC PRINT READY VERSION") is a byte-for-byte duplicate of this book (102 pages, 5,754,618 bytes, SHA-256 identical), filed record-only, not re-read and not staged twice. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/kiribati-placements.md. Teacher guide — evidence only, outside the acceptance count.
 
@@ -273,3 +273,19 @@ Registry note: the original coined string `culture-and-work/the-executive-author
 Registry note: the original coined string `culture-and-work/how-jordans-constitutional-authorities-grew` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/branches-of-government-executive-legislature-judiciary`.
 
 Searchable tags: branches of government executive legislature judiciary, Jordan, social studies, culture-and-work
+
+Iran placements — Social Studies remaining strands (2026-11-17):
+
+**Book 3:** *Iran Social Studies Grade 5* (student book, Persian) — Title as printed: مطالعات اجتماعی ـ پنجم دبستان (Social Studies, fifth year of primary). Grade: Grade 5 (student/teacher: STUDENT). Publisher: Ministry of Education, Organization for Educational Research and Planning; year 1405-1406 school edition (record); book code 507; ISBN 978-964-05-2426-8. PDF pages: 136 (cover verified against the record title; 19,377,073 bytes, matching the earlier waves' verified size). Earlier waves: Geography wave placed Ch. 2–3 geography (population, water, transport, neighbouring countries, world regions); History wave placed Ch. 4–5 (pilgrimage narratives, Iran after Islam); Economics wave placed Lesson 7 (Iran's industrial areas). Verdict: COMPLETE. Contents map: Integrated SS / civics / morals pp. 2–23 (Ch. 1 Living with others) and pp. 51–65 (Lesson 10 How our country is governed); Geography pp. 24–50, 66–91; Economics p. 34–38; Religion (pilgrimage journeys) pp. 92–113; History pp. 114–135. Tally: 8 placements — 0 to existing lessons, 8 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran part — culture-and-work/the-three-powers-and-the-leader — Lesson 10, powers sections — teaches: government is divided into three powers, each with its duties — the legislature (the Islamic Consultative Assembly, whose deputies the people elect every four years), the executive (which carries out the laws) and the judiciary — with the Leadership supervising and guiding all three — Iran Grade 5 Social Studies, printed p. 54 | Iran, *Iran Social Studies Grade 5* (student book), Lesson 10, powers sections — printed p. 54 |
+
+**Acceptance count: taught in 20 countries (Micronesia, Philippines, Yemen, Bhutan, Afghanistan, Eritrea, Belarus, Venezuela, Turkey, Morocco, Colombia, Guatemala, Iraq, Armenia, Palestine, Sri Lanka, Saudi Arabia, Cambodia, Jordan, Iran).** Kiribati and Papua New Guinea are named here as teacher-guide evidence only, counted nowhere.
+
+Iran's own way (Iran Social Studies Grade 5): civics is taught by analogy from the school camp trip — a group needs roles, rules and a leader, so a country needs a government — and the Islamic Republic is presented as the people's own choice, made in the Farvardin 1358 referendum and renewed in every Majlis election.
+
+Registry note: the original coined string `culture-and-work/the-three-powers-and-the-leader` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/branches-of-government-executive-legislature-judiciary`.
+
+Searchable tags: branches of government executive legislature judiciary, Iran, social studies, culture-and-work

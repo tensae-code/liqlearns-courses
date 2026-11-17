@@ -1,6 +1,6 @@
 # Sources — Jobs People Do in Our Community
 
-countries: Latvia, Philippines, Serbia, Bangladesh, Turkey, North Macedonia
+countries: Latvia, Philippines, Serbia, Bangladesh, Turkey, North Macedonia, Iran
 
 **Book 1:** *Sociālās zinības 1. klase* (teacher guide, Latvian) — Latviešu valodas aģentūra (Latvian Language Agency); year 2023; ISBN 978-9934-617-33-1. Title as printed: Sociālās zinības 1. klase — Latviešu valodas un sociālo zinību satura integrēta apguve lingvistiski neviendabīgā vidē — Metodisks līdzeklis skolotājam. Grade: Grade 1 (student/teacher: TEACHER). PDF pages: 61 (cover/title page verified against the record title — author Linda Krastiņa and ISBN match the record exactly). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Integrated SS (school life) printed pp. 7–17; Morals/Values (safe relationships, honesty, emotions) printed pp. 18–21; Culture in society (family/class festivals) printed pp. 22–24; Integrated SS (work/jobs, wants and needs) printed pp. 25–27; Appendices (worksheets/apparatus, inventory only) printed pp. 28–60. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/latvia-placements-b.md. Teacher guide — evidence only, outside the acceptance count.
 
@@ -64,3 +64,19 @@ North Macedonia placements — Social Studies remaining strands (2026-11-17):
 North Macedonia's own way (Book 1): Society in Grade 2 is the child in three widening circles — school, home, settlement — and already runs a miniature democracy: the class community elects its president by secret ballot, sits in a pupil parliament, and learns decision-making, equality and respect as daily school practice, in a multi-ethnic classroom cast (Macedonian, Albanian and other names throughout).
 
 Registry note: the original coined string `culture-and-work/jobs-people-do-in-villages-and-towns` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/jobs-people-do-in-our-community`.
+
+Iran placements — Social Studies remaining strands (2026-11-17):
+
+**Link book L3:** *Iran Social Studies Grade 5 (special needs)* (student book, Persian) — Title as printed: مطالعات اجتماعی — پنجم دبستان (Social Studies, Grade 5 primary), special-needs edition, book code 35071. Grade: Grade 5 (student/teacher: STUDENT) — published by the Special Education Organization (سازمان آموزش و پرورش استثنایی کشور), named on the imprint page. Publisher: Ministry of Education, Special Education Organization. PDF pages: 92 (cover and imprint verified against the link record; 12,700,539 bytes; fetched from the record's chap.sch.ir URL — NOT in GitHub, so staged under the 2026-11-13 rule, see the log). Earlier waves: none read the special-needs editions; the regular Grade 5 book is Book 3 above — this is its adapted parallel. Verdict: COMPLETE. Contents map: 14 lessons in 5 chapters — Ch. 1 Living with others (Lessons 1–4: Our feelings; I communicate with others; Social manners and proper behaviour 1 and 2); Ch. 2 Safety points (Lessons 5–7: Care and safety at home; at school; Caring for myself in alley and street); Ch. 3 Our living environment (Lessons 8–10: Beautiful mountains and plains; Water and life; Weather — Geography scope, named, not placed); Ch. 4 Our needs (Lesson 11: Buying goods — Economics scope, named, not placed; Lesson 12: Getting to know jobs); Ch. 5 My glorious country (Lessons 13–14: Travel to Tabriz; Travel to Shiraz — the printed contents page lists the two cities the other way round; the lessons themselves run Tabriz first). Chapter review/activity pages named, not placed. Tally: 10 placements — 0 to existing lessons, 10 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran part — first-steps/getting-to-know-jobs — Lesson 12 "Getting to know jobs" — teaches: everyone works and has a job to earn an income; the lesson follows one job closely — Mr Masoudi, the building painter, who paints the walls, ceilings, doors and windows of buildings: before painting he smooths the wall's surface with sandpaper and fills its holes, then paints — and sets the painter beside the other jobs around us — Iran Social Studies Grade 5 (special needs), printed p. 74 | Iran, *Iran Social Studies Grade 5 (special needs)* (student book), Lesson 12 "Getting to know jobs" — printed p. 74 |
+
+**Acceptance count: taught in 6 countries (Philippines, Serbia, Bangladesh, Turkey, North Macedonia, Iran).** Latvia is named here as teacher-guide evidence only, counted nowhere.
+
+Iran's own way (Iran Social Studies Grade 5 (special needs)): the Grade 5 special-needs book teaches social life through the Iranian year and the Iranian map — feelings and manners at the Yalda gathering and on the phone to the taxi office, safety as a daily habit in three places, and the country learned by travelling it at Nowruz, to Tabriz and to Shiraz.
+
+Registry note: the original coined string `first-steps/getting-to-know-jobs` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/jobs-people-do-in-our-community`.
+
+Searchable tags: jobs people do in our community, Iran, social studies, first-steps

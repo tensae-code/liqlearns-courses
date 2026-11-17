@@ -1,6 +1,6 @@
 # Sources — Managing My Time
 
-countries: Turkey, Saudi Arabia, Vietnam, Jordan
+countries: Turkey, Saudi Arabia, Vietnam, Jordan, Iran
 
 **Book 1:** *Hayat Bilgisi 2. Sınıf, 1. Kitap* (student book, Turkish) — Title as printed: İlkokul Hayat Bilgisi 2. Sınıf Ders Kitabı — 1. Kitap (authors Dr. Nagihan Şahin, Betül Altuntaş, Gürhan Dikmen, Hüseyin Güleç, Nurgül Genç). Grade: Grade 2 (student/teacher: STUDENT). Publisher: Millî Eğitim Bakanlığı (MEB), Devlet Kitapları; printed 2025; ISBN 978-975-11-8768-0. PDF pages: 126 (repo file 65,118,982 bytes, cover verified by the earlier waves; this wave's grab.py attempts failed on the down GitHub egress, so the book was read from the earlier waves' own full text extract of that same verified repo file, kept in the Geography/History wave scratch — contents and every remaining-strand topic read from it). Earlier waves: Geography wave placed p. 60 (traffic signs) and the two end maps pp. 123–124 / History wave placed the Belirli Gün ve Haftalar national-days poems of Areas 1–2 (pp. 12–13, 46) as the lesson now existing as first-steps/turkeys-national-days-republic-day-and-remembering-ataturk — ALREADY PLACED, not placed again here / Economics wave filed the book RECORD-ONLY (no Economics parts; its contents evidence names the same areas placed here). Verdict: COMPLETE (for Book 1 / Semester 1 — areas 4–6 sit in Book 2, a link record below). Contents map: Integrated SS pp. 10–43 (Area 1 Ben ve Okulum: planning, communication, friendship, class decision-making); Health/Safety pp. 44–77 (Area 2 Sağlığım ve Güvenliğim: healthy habits, online safety, traffic signs, emergencies — Health course, named not placed, except traffic signs placed by the Geography wave); Integrated SS / Civics / Morals pp. 78–102 (Area 3 Ailem ve Toplum: my family, courtesy and manners in society, my duties and responsibilities); Civics (special-days poems) pp. 12–13, 46, 80–81 (national days placed by the History wave; the helping/values days placed below). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/turkey-placements.md.
 
@@ -70,3 +70,19 @@ Jordan's own way (Book 2): the year's values teaching is gathered into one Life 
 Jordan's own way (Book 5): the term's values unit is called "Let's Work Together" — a six-year-old's citizenship is organising his time, speaking politely, keeping his clothes tidy and learning what makes a person succeed.
 
 Searchable tags: managing my time, Jordan, social studies, culture-and-work
+
+Iran placements — Social Studies remaining strands (2026-11-17):
+
+**Link book L2:** *Iran Social Studies Grade 4 (special needs)* (student book, Persian) — Title as printed: مطالعات اجتماعی — چهارم دبستان — نیازهای ویژه (Social Studies, Grade 4 primary, special needs). Grade: Grade 4 (student/teacher: STUDENT) — the special-education track, published by the Special Education Organization (سازمان آموزش و پرورش استثنایی کشور). Publisher: Ministry of Education, Special Education Organization; 1397 edition; book code 50/45. PDF pages: 96 (cover verified against the link record's title; 5,978,585 bytes; fetched from the record's chap.sch.ir URL — NOT in GitHub, so staged under the 2026-11-13 rule, see the log). Earlier waves: none read the special-needs editions; the regular Grade 4 book is Book 2 above — this is its adapted parallel. Verdict: COMPLETE. Contents map: 15 short lessons in 4 chapters — Ch. 1 Know ourselves better (Lessons 1–4: Are we alike?; Personal details; My programmes; Our house); Ch. 2 Our neighbourhood (Lessons 5–8: A day with relatives; Knowing our neighbourhood better; Neighbours in the neighbourhood; The tailoring workshop); Ch. 3 Life in city and village (Lessons 9–12: Life in the city; Life in the village; Recycling; Safety in alley and street); Ch. 4 Our country (Lessons 13–15: Our country Iran; Travel to Iran's sights 1 and 2). Each chapter closes with the book's own review pages — named, not placed. Tally: 14 placements — 0 to existing lessons, 14 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran part — first-steps/planning-my-time — Lesson 3 "My programmes" — teaches: what I did in the summer — swimming lessons, working in father's shop — are my programmes (برنامه‌ها); each person's programme differs because our needs and abilities differ; we must learn to plan for the future so our time is used properly — free time is the time when we have no important work — and the pupil orders their own free-time programme and writes today's school timetable — Iran Social Studies Grade 4 (special needs), printed p. 18 | Iran, *Iran Social Studies Grade 4 (special needs)* (student book), Lesson 3 "My programmes" — printed p. 18 |
+
+**Acceptance count: taught in 5 countries (Turkey, Saudi Arabia, Vietnam, Jordan, Iran).**
+
+Iran's own way (Iran Social Studies Grade 4 (special needs)): the Grade 4 special-needs book widens the circle from self to country — my identity booklet, my address, my neighbourhood and its people, city against village, and finally Iran itself as "our big home" divided into provinces.
+
+Registry note: the original coined string `first-steps/planning-my-time` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/managing-my-time`.
+
+Searchable tags: managing my time, Iran, social studies, culture-and-work

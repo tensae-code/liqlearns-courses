@@ -1,6 +1,6 @@
 # Sources — The Legislative Power
 
-countries: Yemen, India, Cambodia, Jordan
+countries: Yemen, India, Cambodia, Jordan, Iran
 
 **Book 1:** *التربية الوطنية للصف الخامس من مرحلة التعليم الأساسي (National Education for Grade 5 of Basic Education)* (student book, Arabic) — Republic of Yemen, Ministry of Education; year 1442 AH / 2021 CE (cover print); ISBN no ISBN printed. Title as printed: التربية الوطنية للصف الخامس من مرحلة التعليم الأساسي (National Education for Grade 5 of Basic Education). Grade: 5 (student/teacher: STUDENT). PDF pages: 66 (cover/title page verified against the record title; 6,489,380 bytes, Wayback snapshot 20220212143057 of the recorded source_url). Earlier waves: not read before (no earlier wave held this civics book). Verdict: COMPLETE (full page-by-page read, civics track). Contents map: Civics/Citizenship/Government pp. 19–21 (national symbols), pp. 23–33 (Unit 2 administrative organisation), pp. 34–46 (Unit 3 the state's authorities); History pp. 7–18 (Unit 1 Yemeni revolutions and steadfastness — named, not placed), pp. 47–63 (Unit 4 Yemeni figures: Imam al-Qasim ibn Muhammad, Rajih Ghalib Labouza, President Ibrahim al-Hamdi, the poet Abdullah al-Baradouni — named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/yemen-placements.md.
 
@@ -60,3 +60,19 @@ Jordan's own way (Book 11): Grade 5 civics is Jordan's own state, part by part �
 Registry note: the original coined string `culture-and-work/the-legislative-authority` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/the-legislative-power`.
 
 Searchable tags: the legislative power, Jordan, social studies, culture-and-work
+
+Iran placements — Social Studies remaining strands (2026-11-17):
+
+**Link book L5:** *Iran Social Studies Grade 10 (special needs, Kardanesh)* (student book, Persian) — Title as printed: مطالعات اجتماعی — پایه دهم دوره دوم متوسطه کاردانش خاص دانش‌آموزان با نیازهای ویژه (Social Studies, Grade 10 of the second secondary period, Kardanesh vocational track for pupils with special needs), book code 51071. Grade: Grade 10 (student/teacher: STUDENT) — published by the Special Education Organization (سازمان آموزش و پرورش استثنایی کشور), named on the imprint page. Publisher: Ministry of Education, Special Education Organization. PDF pages: 71 (cover and imprint verified against the link record; 6,413,840 bytes; fetched from the record's chap.sch.ir URL — NOT in GitHub, so staged under the 2026-11-13 rule, see the log). The PDF is largely image-based; the lessons were read from page renders. Earlier waves: none read the special-needs editions. Verdict: COMPLETE. Contents map: 11 lessons — 1 Need (1); 2 Need (2); 3 Family; 4 Groups; 5 What is an institution?; 6 Communication; 7 Government; 8 The Islamic Consultative Assembly; 9 Income (Economics scope — named, not placed); 10 The geography of our province, and 11 Human geography (Geography scope — named, not placed). Tally: 8 placements — 0 to existing lessons, 8 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran part — culture-and-work/the-majlis-where-laws-are-made — Lesson 8 "The Islamic Consultative Assembly" — teaches: law-making is one of the government's most important duties — as a school has rules and regulations that everyone must respect so disorder is prevented, society too needs different laws to prevent disorder; the most important law written in every country is called the Constitution (قانون اساسی) — the mother of laws; the people's representatives in the Islamic Consultative Assembly (مجلس شورای اسلامی), whom the people elect by their votes and send to the Majlis, approve the other laws society needs in accordance with the Constitution; the representatives choose one from among themselves as the Majlis's Speaker to coordinate and administer its affairs; and the Majlis's duty is not only approving laws — it can do other work on the people's behalf, and investigate how the laws are carried out — Iran Social Studies Grade 10 (special needs, Kardanesh), printed p. 47 | Iran, *Iran Social Studies Grade 10 (special needs, Kardanesh)* (student book), Lesson 8 "The Islamic Consultative Assembly" — printed p. 47 |
+
+**Acceptance count: taught in 5 countries (Yemen, India, Cambodia, Jordan, Iran).**
+
+Iran's own way (Iran Social Studies Grade 10 (special needs, Kardanesh)): the special-needs secondary book is a citizen's primer in the plainest form — needs first (things, then love and company), then the circles that meet them: family, groups, institutions — and at the top, government and the Majlis, explained through a ship and its captain and a school and its rules.
+
+Registry note: the original coined string `culture-and-work/the-majlis-where-laws-are-made` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/the-legislative-power`.
+
+Searchable tags: the legislative power, Iran, social studies, culture-and-work

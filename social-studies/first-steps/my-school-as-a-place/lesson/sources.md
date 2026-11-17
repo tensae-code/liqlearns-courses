@@ -1,6 +1,6 @@
 # Sources — My School as a Place
 
-countries: Fiji, Latvia, Mauritius, Ecuador, Yemen, Libya, Afghanistan, Eritrea, Serbia, Venezuela, Turkey, Iraq, Kazakhstan, North Macedonia, Angola, Sri Lanka, Cambodia, Vietnam, Myanmar
+countries: Fiji, Latvia, Mauritius, Ecuador, Yemen, Libya, Afghanistan, Eritrea, Serbia, Venezuela, Turkey, Iraq, Kazakhstan, North Macedonia, Angola, Sri Lanka, Cambodia, Vietnam, Myanmar, Iran
 
 **Book 1:** *Social Studies Year 3 (Re-edited 2017)* (student book, English) — Fiji, Ministry of Education, Heritage & Arts, Curriculum Development Unit (with UNESCO / Fiji Memory of the World support); year 2017 (re-edited); ISBN no ISBN printed. Title as printed: Social Studies Year 3 (Re-edited 2017). Grade: Year 3 (student/teacher: STUDENT). PDF pages: 64 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: grab.py GitHub API failed (RemoteDisconnected, release route ×2 and tree route ×1); read instead from the books.json record's own Wayback source_url — the ministry original of the same book. Non-Geography parts named, not placed: Part One Strand 1 Social Organisation — Lesson 1 My Family (printed p. 5), Lesson 2 Family Relationships (p. 11), Lesson 3 Family Roles (p. 17); Strand 2 Time, Continuity and Change — Lesson 4 Cultural Background (p. 24). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
 
@@ -206,3 +206,19 @@ Vietnam's own way (Book 7): the local community is introduced through two big pi
 Myanmar's own way (Book 3): the child's world widens one ring a year — Grade 1 was self, family and home; Grade 2 is classroom, then the whole school seen from above, then the school's surroundings read through a simple symbol map (post office, factory, hospital, place of worship).
 
 Searchable tags: my school as a place, Myanmar, social studies, first-steps
+
+Iran placements — Social Studies remaining strands (2026-11-17):
+
+**Link book L1:** *Iran Social Studies Grade 3 (special needs)* (student book, Persian) — Title as printed: مطالعات اجتماعی — سوم دبستان — نیازهای ویژه (Social Studies, Grade 3 primary, special needs). Grade: Grade 3 (student/teacher: STUDENT) — the special-education track for pupils with intellectual disability (کم‌توان ذهنی), published by the Special Education Organization (سازمان آموزش و پرورش استثنایی کشور). Publisher: Ministry of Education, Special Education Organization; book code 33071; 1405-1406 edition (chap.sch.ir). PDF pages: 88 (cover verified against the link record's title; 13,918,072 bytes; fetched from the record's chap.sch.ir URL — NOT in GitHub, so staged under the 2026-11-13 rule, see the log). Earlier waves: none read the special-needs editions; the regular Grade 3 book is Book 1 above — this is its adapted parallel, not a duplicate. Verdict: COMPLETE. Contents map: 14 short lessons in 4 chapters — Ch. 1 Knowing myself (Lessons 1–4: Me; I grow up; Me and my needs; My house); Ch. 2 Family (Lessons 5–7: My family; This is our house — rules and cooperation; Birthday celebration); Ch. 3 School (Lessons 8–10: Let's know our school; This is our school — rules and cooperation; The 22 Bahman celebration); Ch. 4 From home to school (Lessons 11–14: Our neighbourhood; Our neighbourhood shop; Our neighbourhood park; Our neighbourhood mosque). Each chapter closes with the book's own review pages — named, not placed. Tally: 13 placements — 0 to existing lessons, 13 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran part — first-steps/getting-to-know-my-school — Lesson 8 "Let's know our school" — teaches: the places of my school and where they are — Sara's classroom on the second floor beside the prayer room, the principal's office on the first floor opposite the library, the school shop on the right of the yard and the drinking fountain and toilets on the left — and turning the tap off after use — Iran Social Studies Grade 3 (special needs), printed p. 50 | Iran, *Iran Social Studies Grade 3 (special needs)* (student book), Lesson 8 "Let's know our school" — printed p. 50 |
+
+**Acceptance count: taught in 18 countries (Fiji, Ecuador, Yemen, Libya, Afghanistan, Eritrea, Serbia, Venezuela, Turkey, Iraq, Kazakhstan, North Macedonia, Angola, Sri Lanka, Cambodia, Vietnam, Myanmar, Iran).**
+
+Iran's own way (Iran Social Studies Grade 3 (special needs)): the special-needs track teaches the same social world as the regular book but rebuilt in one-sentence pages through two named children, Sara and Saman — self, family, school, neighbourhood — with every rule and every act of cooperation stated as a single pictured example.
+
+Registry note: the original coined string `first-steps/getting-to-know-my-school` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/my-school-as-a-place`.
+
+Searchable tags: my school as a place, Iran, social studies, first-steps

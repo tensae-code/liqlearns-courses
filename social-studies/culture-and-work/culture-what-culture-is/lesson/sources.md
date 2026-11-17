@@ -1,6 +1,6 @@
 # Sources — Culture — what culture is
 
-countries: Ethiopia, Mongolia, Bahamas, Zimbabwe, Colombia, Kuwait, Jordan, Bhutan, Kiribati, Sierra Leone, Tanzania, Eritrea, Syria, Bangladesh, Angola
+countries: Ethiopia, Mongolia, Bahamas, Zimbabwe, Colombia, Kuwait, Jordan, Bhutan, Kiribati, Sierra Leone, Tanzania, Eritrea, Syria, Bangladesh, Angola, Iran
 
 **Book 1:** *Social Studies Student Textbook, Grade 8* — የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Belay Tsega (MA), Alemayehu Erqiyhun (Dr). Editors: Shimelis Ayele (MA), Abebe Tayeqe (MA). Team leader: Mulugeta Neqatie (Assistant Professor). Illustrators: Kebede Alemu and Qelemeworq Tegegne. Designer: Atrisaw Tigihu. No ISBN (blank on cover). 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 2 — Population Studies and Socio-Economic Activities, printed pp. 44–76).
 
@@ -163,3 +163,19 @@ Angola placements — Social Studies remaining strands (2026-11-17):
 **Acceptance count: taught in 12 countries (Ethiopia, Mongolia, Bahamas, Colombia, Kuwait, Jordan, Bhutan, Tanzania, Eritrea, Syria, Bangladesh, Angola).**
 
 Angola's own way (Book 26): Grade 6 makes the pupils legislators of their own classroom — the class writes its own regulation (with a no-violence chapter) as the lived rehearsal for democracy — and teaches duties concretely, down to naming the taxes (IVA, income, property) and calling the non-payer a tax evader; tolerance is defined as the price of choosing democracy.
+
+Iran placements — Social Studies remaining strands (2026-11-17):
+
+**Book 7:** *Iran Social Studies Grade 9* (student book, Persian) — Title as printed: مطالعات اجتماعی (جغرافیا، تاریخ، مدنی) — Social Studies (Geography, History, Civics), Grade 9. Grade: Grade 9 (student/teacher: STUDENT). Publisher: Ministry of Education, Organization for Educational Research and Planning; book code 907; no ISBN printed. PDF pages: 200 (cover verified against the record title; 15,729,422 bytes, matching the earlier waves' verified size; fetched via the mid-size-books-6 release asset). Earlier waves: Geography wave placed Ch. 1–4; History wave placed Ch. 5–8; Economics wave placed Ch. 12 (productivity) and the economic sections of the Southwest Asia chapter. Verdict: COMPLETE. Contents map: Geography pp. 1–60; History pp. 61–116; Civics / integrated SS pp. 117–156 (Ch. 9 Culture and identity; Ch. 10 Family and society; Ch. 11 Government and the people); Economics pp. 157–184 (productivity). Tally: 6 placements — 0 to existing lessons, 6 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran part — culture-and-work/what-culture-is — Lesson 17 "Culture" — teaches: culture is a society's whole way of life; it is learned, not inherited — passed from generation to generation by teaching and upbringing, in the process of socialisation (family first, then media, friends and peers, school, university, work); its layers are like an onion's — symbols, norms (the accepted rules and customs for doing things), values and beliefs; and not every norm is good — fashion-chasing, fortune-telling and showing off can become norms, so norms must be judged, not blindly followed — Iran Grade 9 Social Studies, printed p. 117 | Iran, *Iran Social Studies Grade 9* (student book), Lesson 17 "Culture" — printed p. 117 |
+
+**Acceptance count: taught in 13 countries (Ethiopia, Mongolia, Bahamas, Colombia, Kuwait, Jordan, Bhutan, Tanzania, Eritrea, Syria, Bangladesh, Angola, Iran).**
+
+Iran's own way (Iran Social Studies Grade 9): the last middle-school civics year turns sociological — culture, identity and the family are defined as concepts (layers of culture, functions of the family) before the book returns to the state, and citizenship is finally named as a two-way bond of rights and duties between people and government.
+
+Registry note: the original coined string `culture-and-work/what-culture-is` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/culture-what-culture-is`.
+
+Searchable tags: culture — what culture is, Iran, social studies, culture-and-work

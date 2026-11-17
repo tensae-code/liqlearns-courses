@@ -1,6 +1,6 @@
 # Sources — Public Places In My Locality
 
-countries: Mauritania, North Macedonia, Angola, United Arab Emirates
+countries: Mauritania, North Macedonia, Angola, United Arab Emirates, Iran
 
 **Book 1:** *Kitab al-Jughrafia lilsana al-Thalitha min al-Ta'lim al-Ibtida'i (Geography Book, Third Year of Primary Education)* (student book, Arabic) — Institut Pédagogique National (IPN), Mauritania; year no year printed on title page; ISBN no ISBN printed. Title as printed: Kitab al-Jughrafia lilsana al-Thalitha min al-Ta'lim al-Ibtida'i (Geography Book, Third Year of Primary Education). Grade: Grade 3 (3e année fondamentale) (student/teacher: STUDENT). PDF pages: 52 (cover/title page verified against the record title; fetched from the record's source URL docs.bsimr.com/pdfs/fondamentals/GEO-3AF-M.pdf, 6,193,761 bytes — the same file the repo record was built from). Verdict: COMPLETE. Geography scope placed below; the book's time-landmark axis is local HISTORY and is NOT placed, as the placements file labels it: History of my village (printed p. 37), History of the founding of the mosque (p. 39), History of the founding of the mahadra (p. 41), History of the founding of the school (p. 43), History of the founding of the dispensary (p. 45). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/mauritania-placements.md.
 
@@ -56,3 +56,17 @@ United Arab Emirates placements — Social Studies remaining strands (2026-11-17
 **Acceptance count: taught in 4 countries (Mauritania, North Macedonia, Angola, United Arab Emirates).**
 
 United Arab Emirates' own way (Social Studies & National Education G1 Term 3): at Grade 1 "order" is taught as one widening circle — home, then school, then neighbourhood — each part closing with a "Zayed taught me" saying and a named national value (respect, safety), and the country itself is introduced as a homeland of happiness and tolerance with its own Minister of Happiness and a Year of Tolerance. That way is stocked here as the way United Arab Emirates teaches this thing.
+
+Iran placements — Social Studies remaining strands (2026-11-17):
+
+**Book 2:** *Iran Social Studies Grade 4* (student book, Persian) — Title as printed: مطالعات اجتماعی ـ چهارم دبستان (Social Studies, fourth year of primary). Grade: Grade 4 (student/teacher: STUDENT). Publisher: Ministry of Education, Organization for Educational Research and Planning; year 1405-1406 school edition (record); book code 407; ISBN 978-964-05-2358-2. PDF pages: 120 (cover verified against the record title; 17,058,924 bytes, matching the earlier waves' verified size). Earlier waves: Geography wave placed the neighbourhood-map lessons and Ch. 2/5 geography; History wave placed Ch. 3–4 and Ch. 6 Lessons 20–22 (national symbols, calendar, important days); Economics wave placed Lesson 3 (buying and selling in the neighbourhood). Verdict: COMPLETE. Contents map: Integrated SS / civics pp. 2–14 (Ch. 1 Our neighbourhood) and pp. 100–110 (Ch. 6 Our national symbols — the constitution-and-nation section); Economics pp. 10–14; Geography pp. 15–37, 74–99; History pp. 38–73, 100–110. Tally: 6 placements — 3 to existing lessons, 3 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran part — first-steps/public-places-in-my-locality — Lesson 3, public-facilities section — teaches: every neighbourhood has facilities made for everyone's use and belonging to all the people; the class names which exist where they live and how to use and look after them properly — Iran Grade 4 Social Studies, printed p. 11 | Iran, *Iran Social Studies Grade 4* (student book), Lesson 3, public-facilities section — printed p. 11 |
+
+**Acceptance count: taught in 5 countries (Mauritania, North Macedonia, Angola, United Arab Emirates, Iran).**
+
+Iran's own way (Iran Social Studies Grade 4): the neighbourhood is taught as a moral community before it is a map — the Prophet's saying on treating neighbours well opens the book, and the nation itself is introduced as "one big family in a big house called Iran" whose shared rules are written in the Constitution.
+
+Searchable tags: public places in my locality, Iran, social studies, first-steps

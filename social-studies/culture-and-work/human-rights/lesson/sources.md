@@ -1,6 +1,6 @@
 # Sources — Human Rights
 
-countries: Oman, Bangladesh, Colombia, Guatemala, Iraq, Palestine, Papua New Guinea, Jordan
+countries: Oman, Bangladesh, Colombia, Guatemala, Iraq, Palestine, Papua New Guinea, Jordan, Iran
 
 **Book 1:** *Identity and Citizenship Grade 3, Term 2* (teacher guide, Arabic) — Title as printed: دليل المعلم لمادة الهوية والمواطنة — Teacher's Guide for the Subject Identity and Citizenship. Grade: Grade 3 (student/teacher: TEACHER), Term 2. Publisher: Ministry of Education, Sultanate of Oman; experimental edition (same series); no ISBN printed. PDF pages: 60 (15,415,504 bytes — exactly the ministry server's Content-Range total; ministry TeacherBook PDF service, after the afedne landing page for this record returned HTTP 520. Cover verified: الصف الثالث، الفصل الدراسي الثاني. STAGED under the new rule at phase3-staging/grade-03/gov/oman/identity-and-citizenship/teacher/term-2.pdf with a books.json record). Earlier waves: none. Verdict: COMPLETE — contents and standards read; the two units' lessons placed below, marked TEACHER. Contents map: Unit 4 أنا مواطن مسؤول (I Am a Responsible Citizen) printed p. 24 — lessons: حقوقي في وطني (My rights in my homeland), واجباتي تجاه وطني (My duties toward my homeland), وطني أمانة (My homeland is a trust); Unit 5 أنا مواطن عالمي (I Am a Global Citizen) printed p. 39 — lessons: نحن متساوون (We are equal), لنعش بأمان (Let us live in safety), صوتنا مسموع (Our voice is heard). The term's two standards are both "knowing rights and duties and committing to them" — in the homeland, then in the world. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/oman-placements.md. Teacher guide — evidence only, outside the acceptance count. Oman's student books were not held — its placements are based on teacher guides.
 
@@ -120,3 +120,19 @@ Jordan's own way (Book 15): human rights are taught as a ladder of charters — 
 Registry note: the original coined string `culture-and-work/human-rights-in-jordanian-legislation` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/human-rights`.
 
 Searchable tags: human rights, Jordan, social studies, culture-and-work
+
+Iran placements — Social Studies remaining strands (2026-11-17):
+
+**Book 5:** *Iran Social Studies Grade 7* (student book, Persian) — Title as printed: مطالعات اجتماعی (مدنی، جغرافیا، تاریخ) — Social Studies (Civics, Geography, History), first year of secondary. Grade: Grade 7 (student/teacher: STUDENT). Publisher: Ministry of Education, Organization for Educational Research and Planning; year 1405-1406 school edition (record); book code 707; no ISBN printed. PDF pages: 184 (cover verified against the record title; 17,567,146 bytes, matching the earlier waves' verified size; fetched via the mid-size-books-6 release asset — the books.json tree path returns 404 because mid-size files live in releases). Earlier waves: Geography wave placed Ch. 5–8; History wave placed Ch. 9–12; Economics wave placed Ch. 4 and the insurance/economics parts of Lessons 6, 15 and 22. Verdict: COMPLETE. Contents map: Civics pp. 1–20 (Ch. 1 Our rights and responsibilities; Ch. 2 Law) and pp. 21–25 (Ch. 3 Lesson 5, empathy and help in disasters); Economics pp. 26–42, 90–93; Geography pp. 43–102; History pp. 103–183. Tally: 6 placements — 0 to existing lessons, 6 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran part — culture-and-work/our-rights-from-birth — Lesson 1 "I have rights" — teaches: God has given every human natural rights from birth — the right to life first of all; a name, a surname and an identity card (شناسنامه) that shows whose child you are and which country you belong to; rights at home (parents' love and care), at school (no mockery or harm, equal attention, a polite say on school problems) and in society (a clean environment, quiet neighbourhood, health services) — Iran Grade 7 Social Studies, printed p. 1 | Iran, *Iran Social Studies Grade 7* (student book), Lesson 1 "I have rights" — printed p. 1 |
+
+**Acceptance count: taught in 7 countries (Bangladesh, Colombia, Guatemala, Iraq, Palestine, Jordan, Iran).**
+
+Iran's own way (Iran Social Studies Grade 7): secondary civics opens with God-given natural rights and immediately balances them with reciprocal duties; the Constitution is quoted directly (Chapter 3, "Rights of the Nation", Articles 19–20) and a referendum is defined in the word box as the people voting directly, yes or no.
+
+Registry note: the original coined string `culture-and-work/our-rights-from-birth` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/human-rights`.
+
+Searchable tags: human rights, Iran, social studies, culture-and-work

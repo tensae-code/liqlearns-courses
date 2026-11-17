@@ -1,6 +1,6 @@
 # Sources — Friendship Choosing Good Friends
 
-countries: Bahrain, Eritrea, Syria
+countries: Bahrain, Eritrea, Syria, Iran
 
 **Book 1:** *التربية للمواطنة للصف الرابع الابتدائي (Citizenship Education for the Fourth Primary Grade)* (student book, Arabic) — Title as printed: التربية للمواطنة للصف الرابع الابتدائي (Citizenship Education for the Fourth Primary Grade). Grade: Grade 4 Primary (student/teacher: STUDENT). Publisher: Ministry of Education, Kingdom of Bahrain; authorship panel of MoE social-studies curriculum specialists (lead author Safia Khalifa al-Shorouqi); first edition 1431 AH / 2010 CE (experimental edition 1426 AH / 2005 CE); no ISBN printed. PDF pages: 66 (cover/title page verified against the record title — the GEI Edumedia Depot item 11163/6396 named in the record; 20,026,775 bytes; image-only legacy-font PDF, read in full from 100-DPI renders, 17 contact sheets). Earlier waves: not read before (Bahrain is link-only in all three earlier waves; no earlier-wave placements file exists for this country). Verdict: COMPLETE — standalone primary civics book, read page by page to the last teaching page (printed p. 64); the references list (printed pp. 65–66) is inventory-only, named not placed. Lesson 9 is Economics and is named in the contents map, not placed. Contents map: Civics/Citizenship/Government pp. 9–46, 53–64 (Lessons 1–8, 10–11); Integrated SS pp. 15–26 (Lessons 2–4: government services, family and society, the friends group); Morals/Values throughout (citizen's values in Lesson 1; friendship qualities and manners in Lesson 4; leader's qualities in Lesson 7); Economics p. 47 (Lesson 9, family income sources and daily dealings — jobs, the family's economic role, household spending and saving, with Constitution Arts. 13/16 on work quoted inside it — named, not placed: Economics strand). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/bahrain-placements-b.md.
 
@@ -30,3 +30,19 @@ Syria's own way (Social Studies Grade 2): Grade 2 is the honesty-and-safety year
 Registry note: the original coined string `culture-and-work/friends-making-new-friends-and-keeping-the-old` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/friendship-choosing-good-friends`.
 
 Searchable tags: friendship, choosing good friends, good friend qualities, Bahrain, Eritrea, social studies, culture-and-work, Syria
+
+Iran placements — Social Studies remaining strands (2026-11-17):
+
+**Book 4:** *Iran Social Studies Grade 6* (student book, Persian) — Title as printed: مطالعات اجتماعی ـ ششم دبستان (Social Studies, sixth year of primary). Grade: Grade 6 (student/teacher: STUDENT). Publisher: Ministry of Education, Organization for Educational Research and Planning; year 1405-1406 school edition (record); book code 607; no ISBN printed. PDF pages: 152 (cover verified against the record title; 15,753,303 bytes, matching the earlier waves' verified size). Earlier waves: Geography wave placed Ch. 3, 9, 10 geography; History wave placed Ch. 5, 6, 11, 12; Economics wave placed Ch. 4 (energy) and Ch. 8 Lesson 16 (clothing production). Verdict: COMPLETE. Contents map: Integrated SS / morals pp. 11–30 (Ch. 1 Our friends; Ch. 2 Decision-making) and pp. 83–94 (Ch. 7 Free time) and pp. 95–99 (Ch. 8 Lesson 15, types of clothing); Geography pp. 31–44, 107–130; Economics pp. 45–58, 100–106; History pp. 59–82, 131–151. Tally: 5 placements — 0 to existing lessons, 5 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran part — culture-and-work/friendship-choosing-and-keeping-friends — Lessons 1–2 "Friendship / The manners of friendship" — teaches: friendship as a human need; choosing friends who hold you back from wrongdoing (Imam Ali's sayings); keeping friendship — loyalty, defending a friend in absence, forgiving apologies, respect, friendship's limits, and saying a firm polite "no" to a friend's wrong request — Iran Grade 6 Social Studies, printed p. 11 | Iran, *Iran Social Studies Grade 6* (student book), Lessons 1–2 "Friendship / The manners of friendship" — printed p. 11 |
+
+**Acceptance count: taught in 4 countries (Bahrain, Eritrea, Syria, Iran).**
+
+Iran's own way (Iran Social Studies Grade 6): the last primary year turns from places to the inner life — friendship, decisions and free time — and every moral rule is anchored in a saying of Imam Ali or a classroom dilemma (a friend who urges cheating, a found purse with no name in it).
+
+Registry note: the original coined string `culture-and-work/friendship-choosing-and-keeping-friends` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/friendship-choosing-good-friends`.
+
+Searchable tags: friendship choosing good friends, Iran, social studies, culture-and-work

@@ -1,6 +1,6 @@
 # Sources — How Laws Are Made
 
-countries: Samoa, Mexico, Bangladesh, Morocco, Guatemala, United States, Papua New Guinea, Saudi Arabia
+countries: Samoa, Mexico, Bangladesh, Morocco, Guatemala, United States, Papua New Guinea, Saudi Arabia, Iran
 
 **Book 1:** *Social Studies — Year 10 Book One* (student book, English) — Title as printed: Social Studies — Year 10 Book One. Grade: Year 10 (student/teacher: STUDENT). Publisher: Government of Samoa, Department of Education; year 2001; ISBN 982-517-009-3. PDF pages: 100 (cover/title page verified against the record title; MESC copy, size 2,049,510 B per download list). Read from the MESC ministry source URL recorded in the books.json record — the same MESC PDF the Geography wave verified byte-for-byte against the record and already secured in GitHub (in_pushed: true) — via the browser text route, cover/title page and ISBN checked against the record before reading; no file staged — the book is already in GitHub, as filed in samoa-placements.md. Earlier waves: Geography wave placed Unit 3–4 skills (graphs, census, pp. 59–98) and named Units 1–2 "Civics, not placed"; History wave placed Unit 1 Topic 1's development narrative, Unit 2's historical case studies, the rights-documents chain, the UDHR and the Mau timeline (pp. 5–6, 10, 25–48) and named the present-day civics parts not placed (voting/law-making pp. 8–18, Japan pp. 19–22, UN/Amnesty/protest pp. 33–45, 48–58); Economics wave placed the census/graph skills only. The civics teaching named by both waves was read and placed here. Verdict: COMPLETE. Contents map: Civics/Citizenship/Government pp. 5–58 (Unit 1 Government; Unit 2 Human Rights); Geography/Skills pp. 59–98 (Units 3–4, placed by Geography wave). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/samoa-placements.md.
 
@@ -103,3 +103,18 @@ Saudi Arabia's own way (Book 5): the Grade 8 book places Saudi Arabia inside the
 
 Registry note: the original coined string `culture-and-work/laws-and-regulations-how-a-law-is-made` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/how-laws-are-made`.
 
+Iran placements — Social Studies remaining strands (2026-11-17):
+
+**Book 5:** *Iran Social Studies Grade 7* (student book, Persian) — Title as printed: مطالعات اجتماعی (مدنی، جغرافیا، تاریخ) — Social Studies (Civics, Geography, History), first year of secondary. Grade: Grade 7 (student/teacher: STUDENT). Publisher: Ministry of Education, Organization for Educational Research and Planning; year 1405-1406 school edition (record); book code 707; no ISBN printed. PDF pages: 184 (cover verified against the record title; 17,567,146 bytes, matching the earlier waves' verified size; fetched via the mid-size-books-6 release asset — the books.json tree path returns 404 because mid-size files live in releases). Earlier waves: Geography wave placed Ch. 5–8; History wave placed Ch. 9–12; Economics wave placed Ch. 4 and the insurance/economics parts of Lessons 6, 15 and 22. Verdict: COMPLETE. Contents map: Civics pp. 1–20 (Ch. 1 Our rights and responsibilities; Ch. 2 Law) and pp. 21–25 (Ch. 3 Lesson 5, empathy and help in disasters); Economics pp. 26–42, 90–93; Geography pp. 43–102; History pp. 103–183. Tally: 6 placements — 0 to existing lessons, 6 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran part — culture-and-work/how-laws-are-made-the-legislature — Lesson 4, legislature sections — teaches: the legislative power makes and passes the country's laws inside the Constitution's frame; the Islamic Consultative Assembly's deputies are the people's elected representatives, chosen for four-year terms by the people of each region, who swear an oath to guard the country's independence and the people's freedom and interests; a referendum (همه‌پرسی) is defined — the people themselves vote yes or no on a matter directly — Iran Grade 7 Social Studies, printed p. 18 | Iran, *Iran Social Studies Grade 7* (student book), Lesson 4, legislature sections — printed p. 18 |
+
+**Acceptance count: taught in 8 countries (Samoa, Mexico, Bangladesh, Morocco, Guatemala, United States, Saudi Arabia, Iran).** Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.
+
+Iran's own way (Iran Social Studies Grade 7): secondary civics opens with God-given natural rights and immediately balances them with reciprocal duties; the Constitution is quoted directly (Chapter 3, "Rights of the Nation", Articles 19–20) and a referendum is defined in the word box as the people voting directly, yes or no.
+
+Registry note: the original coined string `culture-and-work/how-laws-are-made-the-legislature` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/how-laws-are-made`.
+
+Searchable tags: how laws are made, Iran, social studies, culture-and-work

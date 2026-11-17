@@ -1,6 +1,6 @@
 # Sources — Staying Safe at Home
 
-countries: Syria
+countries: Syria, Iran
 
 **Book 1:** *الدراسات الاجتماعية — الصف الأول الأساسي (Social Studies, First Grade Basic)* (student book, Arabic) — Title as printed: الدراسات الاجتماعية — الصف الأول الأساسي (Social Studies, First Grade Basic). Grade: Grade 1 (student/teacher: STUDENT). Publisher: Ministry of Education, Syrian Arab Republic; year 2025–2026 (1446–1447 H), first printed 2018–2019; no ISBN printed. PDF pages: 74 (cover/title page verified against the record title; read in place in phase3-staging, 84,728,729 bytes). Earlier waves: Geography wave placed pp. 27, 43–62 (road safety, environment, homeland geography); History wave placed pp. 11, 18, 64, 66, 68 (my day on a timeline, growing up, antiquities, old/new pictures, tools then-and-now); Economics wave placed pp. 64, 70 (banknotes, saving). Verdict: COMPLETE. Contents map: Integrated SS pp. 5–16 (Unit 1 Me), pp. 18–25 (Unit 2 Me and You); Civics/Citizenship pp. 33–41 (vaccination as a right; Unit 4 My Society — my school, my rights and duties, I have a role); Morals/Values pp. 7–25, 29–32 (difference and respect, feelings, helping, dialogue manners, safety behaviour); Geography pp. 43–62 (Unit 5 My Environment; Syria's place and capital); History pp. 11, 18, 64–68; Economics p. 70 (saving — already placed); closing projects pp. 73–74 (activity pages, named, not placed) Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/syria-placements.md.
 
@@ -22,3 +22,17 @@ Syria's own way (Social Studies Grade 2): Grade 2 is the honesty-and-safety year
 Registry note: the original coined string `first-steps/staying-careful-things-that-can-hurt-me-at-home` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `first-steps/staying-safe-at-home`.
 
 Searchable tags: staying safe at home, Syria, social studies, first-steps
+
+Iran placements — Social Studies remaining strands (2026-11-17):
+
+**Link book L3:** *Iran Social Studies Grade 5 (special needs)* (student book, Persian) — Title as printed: مطالعات اجتماعی — پنجم دبستان (Social Studies, Grade 5 primary), special-needs edition, book code 35071. Grade: Grade 5 (student/teacher: STUDENT) — published by the Special Education Organization (سازمان آموزش و پرورش استثنایی کشور), named on the imprint page. Publisher: Ministry of Education, Special Education Organization. PDF pages: 92 (cover and imprint verified against the link record; 12,700,539 bytes; fetched from the record's chap.sch.ir URL — NOT in GitHub, so staged under the 2026-11-13 rule, see the log). Earlier waves: none read the special-needs editions; the regular Grade 5 book is Book 3 above — this is its adapted parallel. Verdict: COMPLETE. Contents map: 14 lessons in 5 chapters — Ch. 1 Living with others (Lessons 1–4: Our feelings; I communicate with others; Social manners and proper behaviour 1 and 2); Ch. 2 Safety points (Lessons 5–7: Care and safety at home; at school; Caring for myself in alley and street); Ch. 3 Our living environment (Lessons 8–10: Beautiful mountains and plains; Water and life; Weather — Geography scope, named, not placed); Ch. 4 Our needs (Lesson 11: Buying goods — Economics scope, named, not placed; Lesson 12: Getting to know jobs); Ch. 5 My glorious country (Lessons 13–14: Travel to Tabriz; Travel to Shiraz — the printed contents page lists the two cities the other way round; the lessons themselves run Tabriz first). Chapter review/activity pages named, not placed. Tally: 10 placements — 0 to existing lessons, 10 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran part — first-steps/staying-safe-at-home — Lesson 5 "Care and safety at home" — teaches: safety points (نکات ایمنی) are the things we do so danger stays away and no harm reaches us; Sara wants to pour herself tea — what must she take care with?; at home we do not play with matches, and the lesson works through the house's dangers one by one — Iran Social Studies Grade 5 (special needs), printed p. 32 | Iran, *Iran Social Studies Grade 5 (special needs)* (student book), Lesson 5 "Care and safety at home" — printed p. 32 |
+
+**Acceptance count: taught in 2 countries (Syria, Iran).**
+
+Iran's own way (Iran Social Studies Grade 5 (special needs)): the Grade 5 special-needs book teaches social life through the Iranian year and the Iranian map — feelings and manners at the Yalda gathering and on the phone to the taxi office, safety as a daily habit in three places, and the country learned by travelling it at Nowruz, to Tabriz and to Shiraz.
+
+Searchable tags: staying safe at home, Iran, social studies, first-steps

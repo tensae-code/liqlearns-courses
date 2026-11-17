@@ -1,6 +1,6 @@
 # Sources — Changes in the Place Where We Live
 
-countries: South Sudan, Eritrea, Oman, Papua New Guinea
+countries: South Sudan, Eritrea, Oman, Papua New Guinea, Iran
 
 **Book 1:** *Primary Social Studies 2 Pupil's Book* (student book, English) — Mountain Top Publishers for MoGEI, Republic of South Sudan; year 2018; ISBN no ISBN printed. Title as printed: Primary Social Studies 2 Pupil's Book. Grade: Primary 2 / Grade 2 (student/teacher: STUDENT). PDF pages: 83 (cover/title page verified against the record title). Image-only PDF: read via 100-DPI 4-up contact sheets; the full printed table of contents (printed pp. 1–77) was read and the Geography units spot-checked on the sheets.. Verdict: COMPLETE (combined Social Studies book — Geography parts placed; other-subject parts named here, not placed). Other subjects in this book (named, not placed): Unit 1's objects and events of long ago (History), printed pp. 12–16; Unit 4 Our Community — community groups, origin of a community, rituals and ceremonies (Civics/culture), printed pp. 55–67; Unit 5 Time to Decide — choices and decision making (life skills), printed pp. 68–77. Placements at liqlearns-courses-work/expansion-geography-2026-11-14/south-sudan-placements.md.
 
@@ -45,3 +45,16 @@ Country honesty note: Oman's student books were not held — its placements are 
 
 Papua New Guinea's own way (teacher guide — evidence) (Social Science TG Grade 3): the youngest primary guide starts civics at home scale — what a community is and how it changes, how people relate in families, school and church, and rules in different places including safety rules for travel by vehicle and canoe — beside a culture strand taught by doing: singing and dancing, fishing and hunting, ceremonies for birth and death, food taboos and sacred places.
 
+Iran placements — Social Studies remaining strands (2026-11-17):
+
+**Book 2:** *Iran Social Studies Grade 4* (student book, Persian) — Title as printed: مطالعات اجتماعی ـ چهارم دبستان (Social Studies, fourth year of primary). Grade: Grade 4 (student/teacher: STUDENT). Publisher: Ministry of Education, Organization for Educational Research and Planning; year 1405-1406 school edition (record); book code 407; ISBN 978-964-05-2358-2. PDF pages: 120 (cover verified against the record title; 17,058,924 bytes, matching the earlier waves' verified size). Earlier waves: Geography wave placed the neighbourhood-map lessons and Ch. 2/5 geography; History wave placed Ch. 3–4 and Ch. 6 Lessons 20–22 (national symbols, calendar, important days); Economics wave placed Lesson 3 (buying and selling in the neighbourhood). Verdict: COMPLETE. Contents map: Integrated SS / civics pp. 2–14 (Ch. 1 Our neighbourhood) and pp. 100–110 (Ch. 6 Our national symbols — the constitution-and-nation section); Economics pp. 10–14; Geography pp. 15–37, 74–99; History pp. 38–73, 100–110. Tally: 6 placements — 3 to existing lessons, 3 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran part — first-steps/changes-in-the-place-where-we-live — Lesson 2, changes section — teaches: neighbourhoods change with time — people move away and others arrive, buildings and activities change, and new public facilities (a bus stop, a library, green space) appear; residents want their place to grow better day by day — Iran Grade 4 Social Studies, printed p. 8 | Iran, *Iran Social Studies Grade 4* (student book), Lesson 2, changes section — printed p. 8 |
+
+**Acceptance count: taught in 3 countries (South Sudan, Eritrea, Iran).** Oman is named here as teacher-guide evidence only, counted nowhere. Papua New Guinea is named here as teacher-guide evidence only, counted nowhere.
+
+Iran's own way (Iran Social Studies Grade 4): the neighbourhood is taught as a moral community before it is a map — the Prophet's saying on treating neighbours well opens the book, and the nation itself is introduced as "one big family in a big house called Iran" whose shared rules are written in the Constitution.
+
+Searchable tags: changes in the place where we live, Iran, social studies, first-steps

@@ -1,6 +1,6 @@
 # Sources — Listening to Others
 
-countries: Mauritius, Syria
+countries: Mauritius, Syria, Iran
 
 **Book 1:** *Values and Citizenship Education — Grade 1 Teacher’s Handbook* (teacher guide, English) — Title as printed: Values and Citizenship Education — Grade 1 Teacher’s Handbook. Grade: Grade 1 (student/teacher: TEACHER). Publisher: Mauritius Institute of Education (MIE); year 2020; ISBN 978-99949-53-93-6. PDF pages: no PDF — read via FlipHTML5 flipbook (88 pages, printed pp. i–80); cover/imprint page verified against the record title (Lesson 14 "About my country" named in the record is present, printed p. 70). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Morals/Values pp. 2–59, 75–79; Civics/Citizenship (national symbols, country identity) pp. 62–74; Health (body care, named only, not placed) pp. 8–20. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mauritius-placements-b.md. Teacher guide — evidence only, outside the acceptance count. Staging note: the book exists only as a FlipHTML5 flipbook — no PDF file was downloadable, so there is no file to stage under the 2026-11-13 rule; the read is from the flipbook’s full text.
 
@@ -30,3 +30,19 @@ Syria's own way (Social Studies Grade 2): Grade 2 is the honesty-and-safety year
 Registry note: the original coined string `culture-and-work/manners-of-dialogue-listening-and-not-interrupting` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/listening-to-others`.
 
 Searchable tags: listening to others, good listener, Mauritius, social studies, culture-and-work, Syria
+
+Iran placements — Social Studies remaining strands (2026-11-17):
+
+**Book 3:** *Iran Social Studies Grade 5* (student book, Persian) — Title as printed: مطالعات اجتماعی ـ پنجم دبستان (Social Studies, fifth year of primary). Grade: Grade 5 (student/teacher: STUDENT). Publisher: Ministry of Education, Organization for Educational Research and Planning; year 1405-1406 school edition (record); book code 507; ISBN 978-964-05-2426-8. PDF pages: 136 (cover verified against the record title; 19,377,073 bytes, matching the earlier waves' verified size). Earlier waves: Geography wave placed Ch. 2–3 geography (population, water, transport, neighbouring countries, world regions); History wave placed Ch. 4–5 (pilgrimage narratives, Iran after Islam); Economics wave placed Lesson 7 (Iran's industrial areas). Verdict: COMPLETE. Contents map: Integrated SS / civics / morals pp. 2–23 (Ch. 1 Living with others) and pp. 51–65 (Lesson 10 How our country is governed); Geography pp. 24–50, 66–91; Economics p. 34–38; Religion (pilgrimage journeys) pp. 92–113; History pp. 114–135. Tally: 8 placements — 0 to existing lessons, 8 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran part — culture-and-work/talking-and-listening-well — Lesson 1 "I communicate with others" — teaches: good conversation — listening with attention, not cutting the speaker off, looking at the speaker — and respecting personal privacy (حریم شخصی): no one may enter another's private space or ask about private matters without permission — Iran Grade 5 Social Studies, printed p. 2 | Iran, *Iran Social Studies Grade 5* (student book), Lesson 1 "I communicate with others" — printed p. 2 |
+
+**Acceptance count: taught in 2 countries (Syria, Iran).** Mauritius is named here as teacher-guide evidence only, counted nowhere.
+
+Iran's own way (Iran Social Studies Grade 5): civics is taught by analogy from the school camp trip — a group needs roles, rules and a leader, so a country needs a government — and the Islamic Republic is presented as the people's own choice, made in the Farvardin 1358 referendum and renewed in every Majlis election.
+
+Registry note: the original coined string `culture-and-work/talking-and-listening-well` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/listening-to-others`.
+
+Searchable tags: listening to others, Iran, social studies, culture-and-work

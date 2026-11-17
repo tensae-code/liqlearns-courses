@@ -1,0 +1,9 @@
+# Video script — Rules in the Community Around Me
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). This script is full: the placements name a video-script need for this lesson. Made later, when videos are made; the script is the slot's written form until then.
+
+---
+
+Iran Social Studies Grade 4 (student book, Persian), printed p. 4, teaches: the neighbourhood has rules like home and school — no ball games or loud noise while neighbours rest, radio and TV kept low, and care not to dirty the building, street and shared places.
+
+Iran's own way: the neighbourhood is taught as a moral community before it is a map — the Prophet's saying on treating neighbours well opens the book, and the nation itself is introduced as "one big family in a big house called Iran" whose shared rules are written in the Constitution.

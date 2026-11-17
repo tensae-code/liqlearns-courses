@@ -1,0 +1,16 @@
+# Sources — Government and Its Duties
+
+countries: Iran
+
+**Link book L5:** *Iran Social Studies Grade 10 (special needs, Kardanesh)* (student book, Persian) — Title as printed: مطالعات اجتماعی — پایه دهم دوره دوم متوسطه کاردانش خاص دانش‌آموزان با نیازهای ویژه (Social Studies, Grade 10 of the second secondary period, Kardanesh vocational track for pupils with special needs), book code 51071. Grade: Grade 10 (student/teacher: STUDENT) — published by the Special Education Organization (سازمان آموزش و پرورش استثنایی کشور), named on the imprint page. Publisher: Ministry of Education, Special Education Organization. PDF pages: 71 (cover and imprint verified against the link record; 6,413,840 bytes; fetched from the record's chap.sch.ir URL — NOT in GitHub, so staged under the 2026-11-13 rule, see the log). The PDF is largely image-based; the lessons were read from page renders. Earlier waves: none read the special-needs editions. Verdict: COMPLETE. Contents map: 11 lessons — 1 Need (1); 2 Need (2); 3 Family; 4 Groups; 5 What is an institution?; 6 Communication; 7 Government; 8 The Islamic Consultative Assembly; 9 Income (Economics scope — named, not placed); 10 The geography of our province, and 11 Human geography (Geography scope — named, not placed). Tally: 8 placements — 0 to existing lessons, 8 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — culture-and-work/government-and-its-duties — Lesson 7 "Government" — teaches: how is a country administered? — think of a great ship at sea: to reach its destination its different parts must work together, and the one who creates that coordination is the captain (ناخدا); society is the same — it is formed of different parts, each with a duty of its own toward people's needs, and a society can do its work well only when connection and coordination between its parts are established; establishing that coordination in every society is the government's charge, and it uses laws and special instructions for it; our country's government carries out the laws and commands of the religion of Islam — the Islamic Republic — and the highest office in its order is the Leader of Iran, who supervises all the country's affairs; the government's duties include law-making, executing the laws, guarding the country's borders against the enemy's attacks, and creating welfare and social justice for all the people — Iran Social Studies Grade 10 (special needs, Kardanesh), printed p. 43 | Iran, *Iran Social Studies Grade 10 (special needs, Kardanesh)* (student book), Lesson 7 "Government" — printed p. 43 |
+| Sub lesson 2 — Iran's way — the book's own teaching way | Iran — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Iran).**
+
+Iran's own way (Iran Social Studies Grade 10 (special needs, Kardanesh)): the special-needs secondary book is a citizen's primer in the plainest form — needs first (things, then love and company), then the circles that meet them: family, groups, institutions — and at the top, government and the Majlis, explained through a ship and its captain and a school and its rules.
+
+Searchable tags: government and its duties, Iran, social studies, culture-and-work

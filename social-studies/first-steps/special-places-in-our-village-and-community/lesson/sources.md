@@ -1,6 +1,6 @@
 # Sources — Special Places in Our Village and Community
 
-countries: Fiji, Ecuador, Rwanda, Cambodia, South Sudan
+countries: Fiji, Ecuador, Rwanda, Cambodia, South Sudan, Iran
 
 **Book 1:** *Social Studies Year 4 (Re-edited Version 2017)* (student book, English) — Fiji, Ministry of Education, Heritage & Arts, Curriculum Development Unit; year 2017 (re-edited); ISBN no ISBN printed. Title as printed: Social Studies Year 4 (Re-edited Version 2017). Grade: Year 4 (student/teacher: STUDENT). PDF pages: 66 (cover/title page verified against the record title). Verdict: COMPLETE. Acquisition note: read from the books.json record's own Wayback source_url (ministry original) after the grab.py GitHub API route failed as in Book 1. Non-Geography parts named, not placed: Strand 1 Social Organisation and Processes — 1.1–1.10 Friends, neighbours and cultural/religious events in our communities (printed pp. 4–31); Strand 2 Time, Continuity and Change — 2.1–2.7 Continuity, change, progress, significant people, studying the past, my village/community history (printed pp. 32–40). Placements at liqlearns-courses-work/expansion-geography-2026-11-14/fiji-placements.md.
 
@@ -57,3 +57,17 @@ South Sudan placements — Social Studies remaining strands (2026-11-17):
 South Sudan's own way (Book 3): A community is defined by common interests across different traditions and languages, with peace promoted inside the definition itself; civic life appears at age 7 as a ballot box and a president's swearing-in photograph, and decision-making is taught as a citizen's skill that ends in human rights and peaceful living.
 
 Searchable tags: special places in our village and community, South Sudan, social studies, first-steps
+
+Iran placements — Social Studies remaining strands (2026-11-17):
+
+**Book 2:** *Iran Social Studies Grade 4* (student book, Persian) — Title as printed: مطالعات اجتماعی ـ چهارم دبستان (Social Studies, fourth year of primary). Grade: Grade 4 (student/teacher: STUDENT). Publisher: Ministry of Education, Organization for Educational Research and Planning; year 1405-1406 school edition (record); book code 407; ISBN 978-964-05-2358-2. PDF pages: 120 (cover verified against the record title; 17,058,924 bytes, matching the earlier waves' verified size). Earlier waves: Geography wave placed the neighbourhood-map lessons and Ch. 2/5 geography; History wave placed Ch. 3–4 and Ch. 6 Lessons 20–22 (national symbols, calendar, important days); Economics wave placed Lesson 3 (buying and selling in the neighbourhood). Verdict: COMPLETE. Contents map: Integrated SS / civics pp. 2–14 (Ch. 1 Our neighbourhood) and pp. 100–110 (Ch. 6 Our national symbols — the constitution-and-nation section); Economics pp. 10–14; Geography pp. 15–37, 74–99; History pp. 38–73, 100–110. Tally: 6 placements — 3 to existing lessons, 3 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran part — first-steps/special-places-in-our-village-and-community — Lesson 2 "This is our neighbourhood", mosque and park sections — teaches: the neighbourhood mosque as the people's gathering place — worship, meeting, hearing each other's news and consulting on the neighbourhood's problems — and the neighbourhood park/green space for rest, play and exercise — Iran Grade 4 Social Studies, printed p. 6 | Iran, *Iran Social Studies Grade 4* (student book), Lesson 2 "This is our neighbourhood", mosque and park sections — printed p. 6 |
+
+**Acceptance count: taught in 6 countries (Fiji, Ecuador, Rwanda, Cambodia, South Sudan, Iran).**
+
+Iran's own way (Iran Social Studies Grade 4): the neighbourhood is taught as a moral community before it is a map — the Prophet's saying on treating neighbours well opens the book, and the nation itself is introduced as "one big family in a big house called Iran" whose shared rules are written in the Constitution.
+
+Searchable tags: special places in our village and community, Iran, social studies, first-steps

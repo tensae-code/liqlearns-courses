@@ -1,6 +1,6 @@
 # Sources — The Judiciary and the Courts
 
-countries: Yemen, Bahamas, Afghanistan, Morocco, Guatemala, Armenia, India, United States, Sri Lanka, Jordan, South Sudan
+countries: Yemen, Bahamas, Afghanistan, Morocco, Guatemala, Armenia, India, United States, Sri Lanka, Jordan, South Sudan, Iran
 
 **Book 1:** *التربية الوطنية للصف الخامس من مرحلة التعليم الأساسي (National Education for Grade 5 of Basic Education)* (student book, Arabic) — Republic of Yemen, Ministry of Education; year 1442 AH / 2021 CE (cover print); ISBN no ISBN printed. Title as printed: التربية الوطنية للصف الخامس من مرحلة التعليم الأساسي (National Education for Grade 5 of Basic Education). Grade: 5 (student/teacher: STUDENT). PDF pages: 66 (cover/title page verified against the record title; 6,489,380 bytes, Wayback snapshot 20220212143057 of the recorded source_url). Earlier waves: not read before (no earlier wave held this civics book). Verdict: COMPLETE (full page-by-page read, civics track). Contents map: Civics/Citizenship/Government pp. 19–21 (national symbols), pp. 23–33 (Unit 2 administrative organisation), pp. 34–46 (Unit 3 the state's authorities); History pp. 7–18 (Unit 1 Yemeni revolutions and steadfastness — named, not placed), pp. 47–63 (Unit 4 Yemeni figures: Imam al-Qasim ibn Muhammad, Rajih Ghalib Labouza, President Ibrahim al-Hamdi, the poet Abdullah al-Baradouni — named, not placed). Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/yemen-placements.md.
 
@@ -151,3 +151,17 @@ South Sudan's own way (Book 13): Gender equality is argued from South Sudanese l
 Registry note: the original coined string `culture-and-work/the-constitution-and-the-courts` is recorded in the provenance rows above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/the-judiciary-and-the-courts`.
 
 Searchable tags: the judiciary and the courts, South Sudan, social studies, culture-and-work
+
+Iran placements — Social Studies remaining strands (2026-11-17):
+
+**Book 6:** *Iran Social Studies Grade 8* (student book, Persian) — Title as printed: مطالعات اجتماعی (مدنی، تاریخ، جغرافیا) — Social Studies (Civics, History, Geography), Grade 8. Grade: Grade 8 (student/teacher: STUDENT). Publisher: Ministry of Education, Organization for Educational Research and Planning; year 1405-1406 school edition (record); book code 807; no ISBN printed. PDF pages: 200 (cover verified against the record title; 21,287,483 bytes, matching the earlier waves' verified size; fetched via the mid-size-books-6 release asset). Earlier waves: Geography wave placed Ch. 9–12; History wave placed Ch. 5–8; Economics wave placed the waqf/cooperative-company sections as business forms, Lesson 4's tax and budget sections, and the Southwest Asia economics sections. Verdict: COMPLETE. Contents map: Civics / integrated SS pp. 1–46 (Ch. 1 Cooperation; Ch. 2 The government's role in running the country; Ch. 3 Adolescents and the law; Ch. 4 The age of communications); History pp. 47–106; Geography pp. 107–199. Inside Ch. 3, the addiction/drugs pages (printed pp. 29–30) are health teaching — named, not placed. Tally: 7 placements — 0 to existing lessons, 7 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran part — culture-and-work/the-judiciary-and-the-courts — Lesson 6 "The judiciary" — teaches: the law protects everyone's rights and all are equal before it; when disputes come, settle them peacefully first — talk, experienced elders, the neighbourhood dispute-resolution council (شورای حل اختلاف) — and only then go to court, never taking your right by force; in court a just judge hears plaintiff and defendant, everyone may choose a lawyer (وکیل), and those who cannot pay may ask the court for one — Iran Grade 8 Social Studies, printed p. 30 | Iran, *Iran Social Studies Grade 8* (student book), Lesson 6 "The judiciary" — printed p. 30 |
+
+**Acceptance count: taught in 12 countries (Yemen, Bahamas, Afghanistan, Morocco, Guatemala, Armenia, India, United States, Sri Lanka, Jordan, South Sudan, Iran).**
+
+Iran's own way (Iran Social Studies Grade 8): the civics year is built as an institutional tour taken in the order a citizen meets the state — cooperation in home and neighbourhood, then the executive (this book's "government"), then the judiciary — and every institution is introduced through newspaper headlines and the pupil's own town.
+
+Searchable tags: the judiciary and the courts, Iran, social studies, culture-and-work

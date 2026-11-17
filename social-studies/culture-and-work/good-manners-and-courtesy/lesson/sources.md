@@ -1,6 +1,6 @@
 # Sources — Good Manners and Courtesy
 
-countries: Mauritius, Jordan, Myanmar
+countries: Mauritius, Jordan, Myanmar, Iran
 
 **Book 1:** *Values and Citizenship Education — Grade 1 Teacher’s Handbook* (teacher guide, English) — Title as printed: Values and Citizenship Education — Grade 1 Teacher’s Handbook. Grade: Grade 1 (student/teacher: TEACHER). Publisher: Mauritius Institute of Education (MIE); year 2020; ISBN 978-99949-53-93-6. PDF pages: no PDF — read via FlipHTML5 flipbook (88 pages, printed pp. i–80); cover/imprint page verified against the record title (Lesson 14 "About my country" named in the record is present, printed p. 70). Earlier waves: not read before. Verdict: COMPLETE. Contents map: Morals/Values pp. 2–59, 75–79; Civics/Citizenship (national symbols, country identity) pp. 62–74; Health (body care, named only, not placed) pp. 8–20. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/mauritius-placements-b.md. Teacher guide — evidence only, outside the acceptance count. Staging note: the book exists only as a FlipHTML5 flipbook — no PDF file was downloadable, so there is no file to stage under the 2026-11-13 rule; the read is from the flipbook’s full text.
 
@@ -45,3 +45,19 @@ Myanmar's own way (Book 7): the Grade 3 units keep the story-and-poem shape but 
 Registry note: the original coined string `culture-and-work/good-manners-in-the-street` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/good-manners-and-courtesy`.
 
 Searchable tags: good manners and courtesy, Myanmar, social studies, culture-and-work
+
+Iran placements — Social Studies remaining strands (2026-11-17):
+
+**Link book L3:** *Iran Social Studies Grade 5 (special needs)* (student book, Persian) — Title as printed: مطالعات اجتماعی — پنجم دبستان (Social Studies, Grade 5 primary), special-needs edition, book code 35071. Grade: Grade 5 (student/teacher: STUDENT) — published by the Special Education Organization (سازمان آموزش و پرورش استثنایی کشور), named on the imprint page. Publisher: Ministry of Education, Special Education Organization. PDF pages: 92 (cover and imprint verified against the link record; 12,700,539 bytes; fetched from the record's chap.sch.ir URL — NOT in GitHub, so staged under the 2026-11-13 rule, see the log). Earlier waves: none read the special-needs editions; the regular Grade 5 book is Book 3 above — this is its adapted parallel. Verdict: COMPLETE. Contents map: 14 lessons in 5 chapters — Ch. 1 Living with others (Lessons 1–4: Our feelings; I communicate with others; Social manners and proper behaviour 1 and 2); Ch. 2 Safety points (Lessons 5–7: Care and safety at home; at school; Caring for myself in alley and street); Ch. 3 Our living environment (Lessons 8–10: Beautiful mountains and plains; Water and life; Weather — Geography scope, named, not placed); Ch. 4 Our needs (Lesson 11: Buying goods — Economics scope, named, not placed; Lesson 12: Getting to know jobs); Ch. 5 My glorious country (Lessons 13–14: Travel to Tabriz; Travel to Shiraz — the printed contents page lists the two cities the other way round; the lessons themselves run Tabriz first). Chapter review/activity pages named, not placed. Tally: 10 placements — 0 to existing lessons, 10 NEW LESSON NEEDED Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Iran part — first-steps/good-manners-when-we-go-out — Lesson 4 "Social manners and proper behaviour (2)" — teaches: manners on an outing — the family goes to the city's big park by phone-taxi; father asks Saman to dial the taxi number himself and say what he wants; Saman gives the address clearly — Kashani Street, Niloofar Alley, No. 34, first floor — and behaves properly when the car arrives — Iran Social Studies Grade 5 (special needs), printed p. 28 | Iran, *Iran Social Studies Grade 5 (special needs)* (student book), Lesson 4 "Social manners and proper behaviour (2)" — printed p. 28 |
+
+**Acceptance count: taught in 3 countries (Jordan, Myanmar, Iran).**
+
+Iran's own way (Iran Social Studies Grade 5 (special needs)): the Grade 5 special-needs book teaches social life through the Iranian year and the Iranian map — feelings and manners at the Yalda gathering and on the phone to the taxi office, safety as a daily habit in three places, and the country learned by travelling it at Nowruz, to Tabriz and to Shiraz.
+
+Registry note: the original coined string `first-steps/good-manners-when-we-go-out` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/good-manners-and-courtesy`.
+
+Searchable tags: good manners and courtesy, Iran, social studies, culture-and-work
