@@ -35,6 +35,15 @@ sources, as provenance.
   evidence; the Senior Four teacher's guide is record-only,
   UNREAD). See `uganda/ABOUT.md` for the full book list and the
   acceptance reckoning.
+- **Slovenia** — [`slovenia/`](slovenia/) · 10 lessons: Level 1 only —
+  first steps into the homeland (who we are and where we are at
+  home, the anthem, the flag and coat of arms, the year's
+  holidays, and the country place by place through its tales),
+  from Slovenia's *Slovenija, moja domovina* teacher handbook
+  for the first triad of primary school (Slovenian, 2012;
+  teacher-handbook evidence only — the pupil booklet is not in
+  hand). See `slovenia/ABOUT.md` for the full book list and the
+  acceptance reckoning.
 - **Tunisia** — [`tunisia/`](tunisia/) · 9 lessons: Level 2 only —
   the citizen in the world (the international community, rights at
   the international level, and world challenges), from Tunisia's
