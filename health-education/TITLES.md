@@ -65,3 +65,9 @@ Prevention** (`staying-safe/stis-and-hiv-prevention`),
 (`staying-safe/preventing-common-diseases`) and **Family and
 Friends** (`fair-play-and-the-body/family-and-friends`) —
 4 new lessons, bringing this course to 27 lessons.
+
+The Health expansion then added (Haiti): **Why Exercise
+Keeps You Healthy**
+(`staying-safe/why-exercise-keeps-you-healthy`) and **Fair
+Play in Sport** (`fair-play-and-the-body/fair-play-in-sport`)
+— 2 new lessons, bringing this course to 29 lessons.

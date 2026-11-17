@@ -219,6 +219,26 @@ Textbook Catalogue, Grades 4–7 (2015) (an approved-textbook
 catalogue, not a teaching book). No Namibia placement resolves
 to a PE-course lesson, so none was excluded as PE-bound.
 
+**Health expansion — Haiti — BUILT 2026-11-16:** 9 placements
+from Haiti's three EPS teacher programmes (French, MENFP,
+2024 and undated framework) stocked — 7 into existing lessons
+(Preventing Sports Injuries and First Aid ×2, Hygiene for
+Sport ×2, Staying Safe While Exercising ×2, Your Body in
+Exercise ×1) and 2 as new lessons (Why Exercise Keeps You
+Healthy, Fair Play in Sport) — bringing this course to
+**29 lessons**. All three Haiti books are teacher programmes,
+so Haiti is teacher-programme evidence only, outside the
+acceptance counts; each new lesson stands at acceptance
+count 0, founded on teacher-programme evidence only, no
+pupil's book in hand, and the four existing lessons' counts
+are unchanged. Haiti was omitted from the original Health
+merge order; a coordinator audit found its Health placements
+unmerged — this merge closes that gap. The placements file's
+record-only item, the MSPP *Enquête SMART* national nutrition
+survey report (2012), is NOT A TEXTBOOK with 0 placements;
+nothing is stocked from it. No Haiti placement resolves to a
+PE-course lesson, so none was excluded as PE-bound.
+
 ## Unit 1 — Staying Safe
 
 1. **Hygiene for Sport — Wash After Exercise** (`staying-safe/hygiene-for-sport`) — personal hygiene around sport: sweat and dirt left unwashed become a breeding place for bacteria — so wash the body after PE and sport, keep sports…
@@ -245,9 +265,11 @@ to a PE-course lesson, so none was excluded as PE-bound.
 20. **STIs and HIV Prevention** (`staying-safe/stis-and-hiv-prevention`) — STIs and HIV prevention: how sexually transmitted infections and HIV spread and do not spread, preventing them, and caring without stigma — taught in Namibia's Grades 10–11 PE4Life Guide as sport and education against HIV (Chapter 2, Sport 4 Development in Namibia — using sport and education against HIV in one of the world's highest-prevalence countries) and HIV and AIDS key messages taught through games (Healthy Lifestyle Session 3) (Namibia teacher guide, evidence only).
 21. **Keeping Our Environment Healthy** (`staying-safe/keeping-our-environment-healthy`) — keeping our environment healthy: clean home, school and surroundings, waste, pollution, natural resources and a healthy community environment — taught in Namibia's Grades 10–11 PE4Life Guide as care for the environment: recycling groups, the effects of litter, and reusing waste material (Healthy Lifestyle Session 2) (Namibia teacher guide, evidence only).
 22. **Preventing Common Diseases** (`staying-safe/preventing-common-diseases`) — preventing common diseases: germs, how diseases spread, the chain of infection, and stopping communicable diseases — taught in Namibia's Grades 10–11 PE4Life Guide as the common diseases in Namibia and staying well (Healthy Lifestyle Session 6) (Namibia teacher guide, evidence only).
+23. **Why Exercise Keeps You Healthy** (`staying-safe/why-exercise-keeps-you-healthy`) — why exercise keeps you healthy: what fitness is, its components (health-related and skill-related), and how moving, rest and activity build health across life — taught in Haiti's Grades 10–13 Programme-Cadre as Theme 1: physical activity improves health — conference-debates across the four years on practising physical activities, cooperation and communication for the improvement of health (Haiti teacher framework programme, evidence only).
 
 ## Unit 2 — Fair Play and the Body
 
 1. **Doping — What It Is and What It Costs** (`fair-play-and-the-body/doping-what-it-is-and-what-it-costs`) — what doping is — prohibited substances an athlete takes to gain strength and energy unfairly, strength not earned by nature or training — why it is…
 2. **The Athlete's Mind** (`fair-play-and-the-body/the-athletes-mind`) — the athlete's mind: mental hygiene in sport — pressure, concentration, imagery, goal-setting, motivation and confidence — taught in the United Kingdom's Edexcel GCSE PE Student Book as mental preparation for performance: arousal, stress and anxiety management, and motivation.
 3. **Family and Friends** (`fair-play-and-the-body/family-and-friends`) — family and friends: family roles and love, choosing and keeping friends, manners and respect, diversity and including everyone — taught in Namibia's Grades 10–11 PE4Life Guide as healthy relationships (Healthy Lifestyle Session 5) and gender and sex: sex is not gender (Healthy Lifestyle Session 8) (Namibia teacher guide, evidence only).
+4. **Fair Play in Sport** (`fair-play-and-the-body/fair-play-in-sport`) — fair play in sport: sportsmanship, sporting values and ethics, responsibility in sport, and aggression and violence in sport — taught in Haiti's Grades 10–13 Programme-Cadre as fair play as democratic culture: identifying the values carried by games and physical activities, managing conflict in and out of play, learning refereeing and applying the rules, respecting authority and the adversary, and organising recreational tournaments for peace and camaraderie at school (Haiti teacher framework programme, evidence only).
