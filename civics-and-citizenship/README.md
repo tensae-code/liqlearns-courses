@@ -52,3 +52,15 @@ sources, as provenance.
   Subjects civics unit was absent from its scan (PARTIAL, 0
   placements). See `tunisia/ABOUT.md` for the full book list and
   the acceptance reckoning.
+- **Morocco** — [`morocco/`](morocco/) · 14 lessons: Level 2 only —
+  constitutional institutions first (the state's components, the
+  constitution, the King, Parliament, the Government, the
+  Judiciary), then constitutional rights and the bodies citizens
+  act through (rights, freedoms, parties, unions, the press,
+  local councils, associations), from Morocco's *Fadaa
+  al-Ijtima'iyat* Collège Year 2 Social Studies student book
+  (Arabic, COMPLETE by combined scope — Citizenship Education
+  strand placed in full; History and Geography strands named, not
+  placed); Level 1 is sketched, not stocked. See
+  `morocco/ABOUT.md` for the full book list and the acceptance
+  reckoning.
