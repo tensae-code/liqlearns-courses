@@ -1,6 +1,6 @@
 # Sources — Diseases of Inactivity
 
-countries: United Kingdom, Cyprus
+countries: United Kingdom, Cyprus, Oman
 
 **Acceptance count: taught in 2 countries.** United Kingdom and Cyprus are filed as student-book stock, inside the acceptance count, in this lesson.
 
@@ -26,4 +26,20 @@ This is a canonical NEW lesson (slug-registry Part 1: `staying-safe/diseases-of-
 
 Cyprus is added as student-book stock (see its book line and row above), inside the acceptance count — the Cyprus book is a STUDENT book, so Cyprus is named in the countries line and provenance row and the acceptance count rises from 1 to 2 countries. The Cyprus placement was filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson `staying-safe/diseases-of-inactivity` by registry Part 2B (HELD description: "Part 3, Sedentary Life (Καθιστική Ζωή) — how inactivity and the sitting-still life waste the muscles and wear the body down, named by modern science as health's chief destroyer"), and the original string is recorded in the provenance row above. Cyprus's own way is content, as the book line above records it: the cost of the sitting-still life is taught inside the Olympic insert's lifelong-exercise part, as the reason to stay active for life.
 
-Searchable tags: diseases of inactivity, sedentary lifestyle, consequences of inactivity, obesity, somatotypes body types, hypokinetic diseases, Edexcel GCSE Physical Education, United Kingdom GCSE Edexcel PE Student Book, sedentary life, Καθιστική Ζωή, sitting-still life, Cyprus Olympic Education Insert Grades 11-12
+**Book — Teacher Guide: Physical & Health Education, Grade 8 (teacher guide, Arabic) — Health unit only:**
+- Title as printed: دليل المعلم لمادة التربية البدنية والصحية للصف الثامن (Teacher's Guide for Physical and Health Education, Grade Eight)
+- Grade: 8 (TEACHER)
+- Publisher/year/ISBN: Ministry of Education, Sultanate of Oman — Experimental Edition 1448 AH / 2026 CE; Ministerial Decision 265/2025; includes outcomes for students with disabilities; no ISBN printed
+- PDF pages: 230
+- Verdict: COMPLETE (read from rendered pages — this PDF's text layer extracts garbled)
+- Tally: 2 placements — 0 existing, 2 NEW
+- Oman's own way: the Grade 8 health unit is physical activity against the chronic diseases of inactivity — the founding Health wave's held pattern in its purest form — plus sports values and ethics.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/oman-health-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Oman — Unit 4, Health Culture and Awareness — Physical Activity and Its Relation to Chronic Diseases (النشاط البدني وعلاقته بالأمراض المزمنة): how regular physical activity protects against the chronic diseases of inactivity, and how inactivity feeds them (teacher guide — evidence) (original string `staying-safe/HELD-title-decision`) | Oman, *Teacher Guide: Physical & Health Education, Grade 8* (Oman G8 Teacher Guide), printed p. 205 (teacher guide — evidence) |
+
+Oman is added as teacher-guide evidence only (see its book line and row above), outside the acceptance count — the Oman book is a TEACHER guide, so Oman is named in the countries line and provenance row but the acceptance count is unchanged (still taught in 2 countries). The Oman placement was filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson `staying-safe/diseases-of-inactivity` by registry Part 2B (HELD description: "Unit 4, Health Culture and Awareness — Physical Activity and Its Relation to Chronic Diseases (النشاط البدني وعلاقته بالأمراض المزمنة): how regular physical activity protects against the chronic diseases of inactivity, and how inactivity feeds them"), and the original string is recorded in the provenance row above. Oman's own way is content, as the book line above records it: physical activity is taught directly against the chronic diseases of inactivity.
+
+Searchable tags: diseases of inactivity, sedentary lifestyle, consequences of inactivity, obesity, somatotypes body types, hypokinetic diseases, Edexcel GCSE Physical Education, United Kingdom GCSE Edexcel PE Student Book, sedentary life, Καθιστική Ζωή, sitting-still life, Cyprus Olympic Education Insert Grades 11-12, physical activity and chronic diseases النشاط البدني وعلاقته بالأمراض المزمنة, Oman G8 Teacher Guide

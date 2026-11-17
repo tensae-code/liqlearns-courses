@@ -93,3 +93,17 @@ Accidents and Staying Safe**
 **Food Hygiene and Safe Cooking**
 (`staying-safe/food-hygiene-and-safe-cooking`) —
 4 new lessons, bringing this course to 37 lessons.
+
+The Health expansion then added (Oman): no new lessons —
+15 placements stocked into existing lessons (Paying
+Attention and Crossing the Road Safely, Hygiene for Sport,
+Keeping My Body Clean, Eating a Balanced Diet, Your Body
+in Exercise, Why Exercise Keeps You Healthy, Healthy Habits
+Every Day, Non-communicable Diseases, Knowing My Body,
+Preventing Sports Injuries and First Aid, Fair Play in
+Sport, Diseases of Inactivity), all as teacher-guide
+evidence only — this course stays at 37 lessons. Three
+Oman placements (Sound Posture ×2, Healthy Food and Sport)
+resolve to PE-course lessons and were excluded here; they
+are not yet stocked in PE (verified by git grep on
+origin/main — see CURRICULUM.md).

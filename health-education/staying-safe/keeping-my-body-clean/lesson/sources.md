@@ -1,6 +1,6 @@
 # Sources — Keeping My Body Clean
 
-countries: Kiribati, El Salvador
+countries: Kiribati, El Salvador, Oman
 
 **Acceptance count: taught in 2 countries.** Kiribati and El Salvador are filed as student-book stock, inside the acceptance count, in this lesson — Kiribati Book 1 is a student book (its Book 2 is a teacher guide, so its row there is teacher-guide evidence only; the country is already counted once via the student book), and El Salvador's book is a student book.
 
@@ -47,4 +47,20 @@ This is a canonical NEW lesson (slug-registry Part 1: `staying-safe/keeping-my-b
 
 El Salvador is added as student-book stock (see its book line and row above), inside the acceptance count — the El Salvador book is a STUDENT book, so El Salvador is named in the countries line and provenance row and the acceptance count rises from 1 to 2 countries. The El Salvador placement was filed under the original string `staying-safe/keeping-ourselves-clean`, resolved by registry Part 2 to this canonical lesson and recorded in the provenance row above. El Salvador's own way is content, as the book line above records it: the water unit ends in personal hygiene habits.
 
-Searchable tags: keeping my body clean, personal hygiene, morning washing routine, washing hands, hygiene in puberty, Stay Clean and Healthy, Kiribati Year 3 big book, WASH MHM Guide, water in personal hygiene, bathing daily, washing hands with soap, brushing teeth three times a day, cleaning ears and nails, El Salvador Ciencia Salud y Medio Ambiente 1, El agua fuente de salud
+**Book — Teacher Guide: Physical & Health Education, Grade 1 (teacher guide, Arabic) — Health unit only:**
+- Title as printed: دليل معلم مادة التربية البدنية والصحية — الصف الأول (Teacher's Guide, Physical and Health Education, Grade One)
+- Grade: 1 (TEACHER)
+- Publisher/year/ISBN: Ministry of Education, Sultanate of Oman — First Edition 1446 AH / 2024–2025 CE; Ministerial Decision 315/2016; no ISBN printed
+- PDF pages: 186
+- Verdict: COMPLETE
+- Tally: 4 placements — 2 existing, 2 NEW
+- Oman's own way: health is taught inside the PE lesson, through movement and games — the Grade 1 health unit pairs cleanliness with healthy food, and the year's first movement story ("A Trip to the Garden", in the PE file) teaches road-safety rules by acting them out.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/oman-health-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Oman — Unit 6, Health Culture and Awareness — Cleanliness and Health: personal cleanliness habits and how cleanliness protects from disease (teacher guide — evidence) (original string `staying-safe/HELD-title-decision`) | Oman, *Teacher Guide: Physical & Health Education, Grade 1* (Oman G1 Teacher Guide), printed p. 168 (teacher guide — evidence) |
+
+Oman is added as teacher-guide evidence only (see its book line and row above), outside the acceptance count — the Oman book is a TEACHER guide, so Oman is named in the countries line and provenance row but the acceptance count is unchanged (still taught in 2 countries). The Oman placement was filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson `staying-safe/keeping-my-body-clean` by registry Part 2B (HELD description: "Unit 6, Health Culture and Awareness — Cleanliness and Health: personal cleanliness habits and how cleanliness protects from disease"), and the original string is recorded in the provenance row above. Oman's own way is content, as the book line above records it: the Grade 1 health unit pairs cleanliness with healthy food inside the PE lesson.
+
+Searchable tags: keeping my body clean, personal hygiene, morning washing routine, washing hands, hygiene in puberty, Stay Clean and Healthy, Kiribati Year 3 big book, WASH MHM Guide, water in personal hygiene, bathing daily, washing hands with soap, brushing teeth three times a day, cleaning ears and nails, El Salvador Ciencia Salud y Medio Ambiente 1, El agua fuente de salud, personal cleanliness habits, cleanliness protects from disease, Health Culture and Awareness, Oman G1 Teacher Guide

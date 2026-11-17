@@ -312,6 +312,34 @@ under the push-don't-delete rule. No El Salvador placement
 resolves to a PE-course lesson, so none was excluded as
 PE-bound.
 
+**Health expansion — Oman — BUILT 2026-11-16:** 15 placements
+from Oman's eight Ministry of Education teacher guides for
+Physical & Health Education, Grades 1–8 (Arabic, COMPLETE;
+Grades 4, 6 and 8 read from rendered pages as filed) stocked —
+all into existing lessons (Paying Attention and Crossing the
+Road Safely ×1, Hygiene for Sport ×1, Keeping My Body Clean
+×1, Eating a Balanced Diet ×1, Your Body in Exercise ×1, Why
+Exercise Keeps You Healthy ×2, Healthy Habits Every Day ×2,
+Non-communicable Diseases ×1, Knowing My Body ×1, Preventing
+Sports Injuries and First Aid ×1, Fair Play in Sport ×2,
+Diseases of Inactivity ×1) and 0 as new lessons — this course
+stays at **37 lessons**. All eight Oman books are TEACHER
+guides, so Oman is teacher-guide evidence only, outside the
+acceptance counts; every lesson it touches keeps its count.
+Three further Oman Health-file placements were NOT stocked
+here because the slug registry resolves them to PE-course
+lessons: Sound Posture (Grade 2, printed p. 168) and Sound
+Posture (Grade 5, printed p. 262), both to the PE canonical
+`moving-basics/correct-posture`, and Healthy Food and Sport
+(Grade 6, printed p. 266) to the PE canonical
+`fitness-and-stretching/sports-nutrition-and-hydration`.
+Verification, recorded honestly: `git grep` against
+origin/main finds NO Oman rows in either PE lesson — the
+Oman PE merge placed only the guides' PE units and left
+their Health units to this file — so these 3 placements are
+excluded from Health as PE-bound but are NOT yet stocked in
+PE; they remain an open PE-side gap for the coordinator.
+
 ## Unit 1 — Staying Safe
 
 1. **Hygiene for Sport — Wash After Exercise** (`staying-safe/hygiene-for-sport`) — personal hygiene around sport: sweat and dirt left unwashed become a breeding place for bacteria — so wash the body after PE and sport, keep sports…

@@ -1,8 +1,8 @@
 # Sources — Why Exercise Keeps You Healthy
 
-countries: Haiti, Rwanda
+countries: Haiti, Rwanda, Oman
 
-**Acceptance count: taught in 0 countries.** Haiti and Rwanda are filed as teacher-programme / teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson.
+**Acceptance count: taught in 0 countries.** Haiti and Rwanda are filed as teacher-programme / teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson. Oman is likewise filed as teacher-guide evidence only, outside the acceptance count.
 
 **Book 3 (Haiti placements file) — Programme-Cadre de toutes les Matières, Nouveau Secondaire NS1–NS4 (teacher framework programme, French) — Health parts:**
 - Title as printed: Programme-Cadre de toutes les Matières — Nouveau Secondaire (MENFP/DES)
@@ -43,4 +43,21 @@ This is a canonical NEW lesson (slug-registry Part 1: `staying-safe/why-exercise
 
 Rwanda is added as teacher-guide evidence only (see its book lines and rows above), outside the acceptance count — both Rwanda books are TEACHER guides, so Rwanda is named in the countries line and provenance rows but the acceptance count is unchanged (still taught in 0 countries). Both Rwanda placements were filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical slug by registry Part 2B (the HELD descriptions "Walking fast and running or jogging for health and well-being — brisk walking and jogging as health exercise (Unit 6, Lesson 2)", mapped to `staying-safe/why-exercise-keeps-you-healthy`, and "Basic exercises of the circulatory and respiratory systems — exercises that work the heart and lungs (Unit 1, Lesson 2)", mapped to `staying-safe/why-exercise-keeps-you-healthy`) and recorded in the provenance rows above. Book 3 is kept with both editions named, as filed: English 2020 + Kinyarwanda 2019 parallel editions, placed once.
 
-Searchable tags: why exercise keeps you healthy, physical activity improves health, conference-debates, cooperation and communication for health, Theme 1, Haiti Programme-Cadre NS Grades 10-13, MENFP, walking fast and running or jogging for health and well-being, brisk walking and jogging as health exercise, basic exercises of the circulatory and respiratory systems, exercises that work the heart and lungs, Rwanda Grade 3 PES Teacher Guide, Rwanda Grade 5 PE Teacher Guide MK Publishers, REB Rwanda
+**Book — Teacher Guide: Physical & Health Education, Grade 3 (teacher guide, Arabic) — Health unit only:**
+- Title as printed: دليل معلم مادة التربية البدنية والصحية — الصف الثالث (Teacher's Guide, Physical and Health Education, Grade Three)
+- Grade: 3 (TEACHER)
+- Publisher/year/ISBN: Ministry of Education, Sultanate of Oman — First Edition 1446 AH / 2024 CE; Ministerial Decision 232/2018; no ISBN printed
+- PDF pages: 214
+- Verdict: COMPLETE
+- Tally: 2 placements — 0 existing, 2 NEW
+- Oman's own way: the Grade 3 health unit is two topics — physical activity itself, and sport and health — pure fitness-concept material of the kind the founding wave held.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/oman-health-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Oman — Unit 6, Health Culture and Awareness — Physical Activity (النشاط البدني): what physical activity is and why the body needs it (teacher guide — evidence) (original string `staying-safe/HELD-title-decision`) | Oman, *Teacher Guide: Physical & Health Education, Grade 3* (Oman G3 Teacher Guide), printed p. 194 (teacher guide — evidence) |
+| Oman — Unit 6, Health Culture and Awareness — Sport and Health (الرياضة والصحة): how practising sport protects and builds health (teacher guide — evidence) (original string `staying-safe/HELD-title-decision`) | Oman, *Teacher Guide: Physical & Health Education, Grade 3* (Oman G3 Teacher Guide), printed p. 202 (teacher guide — evidence) |
+
+Oman is added as teacher-guide evidence only (see its book line and rows above), outside the acceptance count — the Oman book is a TEACHER guide, so Oman is named in the countries line and provenance rows but the acceptance count is unchanged (still taught in 0 countries). Both Oman placements were filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson `staying-safe/why-exercise-keeps-you-healthy` by registry Part 2B (HELD descriptions: "Unit 6, Health Culture and Awareness — Physical Activity (النشاط البدني): what physical activity is and why the body needs it" and "Unit 6, Health Culture and Awareness — Sport and Health (الرياضة والصحة): how practising sport protects and builds health"), and the original string is recorded in the provenance rows above. Oman's own way is content, as the book line above records it: the Grade 3 health unit is physical activity itself, and sport and health.
+
+Searchable tags: why exercise keeps you healthy, physical activity improves health, conference-debates, cooperation and communication for health, Theme 1, Haiti Programme-Cadre NS Grades 10-13, MENFP, walking fast and running or jogging for health and well-being, brisk walking and jogging as health exercise, basic exercises of the circulatory and respiratory systems, exercises that work the heart and lungs, Rwanda Grade 3 PES Teacher Guide, Rwanda Grade 5 PE Teacher Guide MK Publishers, REB Rwanda, physical activity النشاط البدني, sport and health الرياضة والصحة, Oman G3 Teacher Guide

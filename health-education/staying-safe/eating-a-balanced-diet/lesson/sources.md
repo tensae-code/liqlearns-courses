@@ -1,6 +1,6 @@
 # Sources — Eating a Balanced Diet
 
-countries: Turkmenistan, China, El Salvador
+countries: Turkmenistan, China, El Salvador, Oman
 
 **Acceptance count: taught in 3 countries.** Turkmenistan, China and El Salvador are filed as student-book stock, inside the acceptance count, in this lesson.
 
@@ -50,4 +50,20 @@ China is added as student-book stock (see its book line and row above), inside t
 
 El Salvador is added as student-book stock (see its book line and rows above), inside the acceptance count — the El Salvador book is a STUDENT book, so El Salvador is named in the countries line and provenance rows and the acceptance count rises from 2 to 3 countries. Two El Salvador placements were filed under the original string `staying-safe/eating-healthy-food` and one under `staying-safe/sweets-and-junk-food-harm-the-body`, all resolved by registry Part 2 to this canonical lesson and recorded in the provenance rows above. El Salvador's own way is content, as the book line above records it: Salvadoran foods are named throughout the food unit (pupusas, chipilín, flor de izote, garrobo).
 
-Searchable tags: eating a balanced diet, foundations of proper nutrition, nutrition regime, main composition of food, hygiene characterisation of food products, Turkmenistan Bedenterbiýe, nutrition and healthy eating, Chinese dietary guidelines, healthy weight, nutrition for exercise, drinking water well, China Senior High PEP PE & Health, foods of animal and plant origin, pupusas, chipilín, flor de izote, fresh and safe food, sweets and junk food golosinas, obesity tooth decay, El Salvador Ciencia Salud y Medio Ambiente 1
+**Book — Teacher Guide: Physical & Health Education, Grade 1 (teacher guide, Arabic) — Health unit only:**
+- Title as printed: دليل معلم مادة التربية البدنية والصحية — الصف الأول (Teacher's Guide, Physical and Health Education, Grade One)
+- Grade: 1 (TEACHER)
+- Publisher/year/ISBN: Ministry of Education, Sultanate of Oman — First Edition 1446 AH / 2024–2025 CE; Ministerial Decision 315/2016; no ISBN printed
+- PDF pages: 186
+- Verdict: COMPLETE
+- Tally: 4 placements — 2 existing, 2 NEW
+- Oman's own way: health is taught inside the PE lesson, through movement and games — the Grade 1 health unit pairs cleanliness with healthy food, and the year's first movement story ("A Trip to the Garden", in the PE file) teaches road-safety rules by acting them out.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/oman-health-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Oman — Unit 6, Health Culture and Awareness — Healthy Food: the food groups, why healthy food matters for the body and for sport, and building a healthy food menu (teacher guide — evidence) (original string `staying-safe/HELD-title-decision`) | Oman, *Teacher Guide: Physical & Health Education, Grade 1* (Oman G1 Teacher Guide), printed p. 175 (teacher guide — evidence) |
+
+Oman is added as teacher-guide evidence only (see its book line and row above), outside the acceptance count — the Oman book is a TEACHER guide, so Oman is named in the countries line and provenance row but the acceptance count is unchanged (still taught in 3 countries). The Oman placement was filed under the original string `staying-safe/HELD-title-decision`, resolved to this canonical lesson `staying-safe/eating-a-balanced-diet` by registry Part 2B (HELD description: "Unit 6, Health Culture and Awareness — Healthy Food: the food groups, why healthy food matters for the body and for sport, and building a healthy food menu"), and the original string is recorded in the provenance row above. Oman's own way is content, as the book line above records it: the Grade 1 health unit pairs cleanliness with healthy food. One further Oman Health-file placement from the Grade 6 guide (Healthy Food and Sport, printed p. 266, HELD) was NOT stocked in this course: registry Part 2B resolves it to the PE canonical lesson `fitness-and-stretching/sports-nutrition-and-hydration`; see the exclusions note in CURRICULUM.md.
+
+Searchable tags: eating a balanced diet, foundations of proper nutrition, nutrition regime, main composition of food, hygiene characterisation of food products, Turkmenistan Bedenterbiýe, nutrition and healthy eating, Chinese dietary guidelines, healthy weight, nutrition for exercise, drinking water well, China Senior High PEP PE & Health, foods of animal and plant origin, pupusas, chipilín, flor de izote, fresh and safe food, sweets and junk food golosinas, obesity tooth decay, El Salvador Ciencia Salud y Medio Ambiente 1, food groups, healthy food menu, healthy food for the body and for sport, Health Culture and Awareness, Oman G1 Teacher Guide
