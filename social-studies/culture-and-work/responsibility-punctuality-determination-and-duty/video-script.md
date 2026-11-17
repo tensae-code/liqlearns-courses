@@ -1,0 +1,9 @@
+# Video script — Responsibility Punctuality Determination and Duty
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). This script is full: the placements name a video-script need for this lesson. Made later, when videos are made; the script is the slot's written form until then.
+
+---
+
+Bhutan Class III Values and Citizenship Education Student Workbook 2017, printed pp. 10–19, teaches: responsibility practised a week at a time — punctuality (Pema, who snoozed her alarm and missed the bus; the child plans wake-up, breakfast and getting-ready times), determination (the Itsy Bitsy Spider sung and climbed again; three things I will do to reach what I want to become), and duty (Sonam's unfinished holiday homework; my responsibilities written out for home, the clean classroom and the environment); and Bhutan Class III Values and Citizenship Education Teacher's Handbook 2017, printed pp. 11–23, teaches: TEACHER: responsibility as doing the duty expected of you and accepting the consequences of your actions — punctuality (always on time; Pema, who kept snoozing her alarm, missed the school bus), determination (the Itsy Bitsy Spider, washed down and climbing again), and duty (Sonam, who left his holiday homework to the last day and learned shame; there are no big or small responsibilities).
+
+Bhutan's own way: the workbook turns each value into a week of doing — a sorry-card actually drawn and given, a day planned to the minute, kind acts collected as leaves on a classroom Kindness Tree until they earn a fruit, and obedience sealed with written pledges to teacher and parents; the values are Bhutan's own (Tha-Dam-Tse Ley-Judy, Tsawa Sum) carried in stories the whole world tells (the Giving Tree, Little Red Riding Hood, the Itsy Bitsy Spider).

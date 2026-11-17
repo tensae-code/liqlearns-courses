@@ -1,0 +1,16 @@
+# Sources — World Problems and What Children Can Do
+
+countries: Bhutan
+
+**Book 7:** *Social Studies Class V — Teachers' Manual* (teacher guide, English) — Title as printed: SOCIAL STUDIES Class V — TEACHERS' MANUAL (cover and title pages verified in the retry pass; the download list's "Teacher's Guide 2019" is this manual, reprint 2019). Grade: Class V (student/teacher: TEACHER). Publisher: Royal Education Council (REC), Royal Government of Bhutan, Paro; © 2018 REC, reprint 2019; ISBN no ISBN printed; file size 601,515 bytes. PDF pages: 83 (verified by pdfinfo in the retry pass; landed via the Wayback Machine capture of its recorded download URL by curl, after the first wave's routes had failed, exactly as filed). Earlier waves: not read before. Verdict: COMPLETE (retry pass) — read in full. Like the Class IV manual, it serves the older block-structured course; its §4.5 Our Government and §4.6 The Judiciary Systems duplicate content already placed from the student books — named, not re-placed; its own teaching content for this wave is Block Six's closing sequence on the world's problems and the United Nations, placed marked TEACHER. This is an external-link book not in the targets/GitHub set: obtained and read in the retry pass, it is staged under the 2026-11-13 rule, exactly as filed. Contents map: History Block Two and Block Five — named, not placed; Geography Block Three and Block Six parts — named, not placed; Integrated/Civics Block Four (4.5 and 4.6 duplicates, named not placed); Global citizenship Block Six 6.7–6.9 (world problems; the UN helps us; how the UN works) pp. 74–76. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/bhutan-placements.md. Teacher guide — evidence only, outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — global-issues/world-problems-and-what-children-can-do — Block Six 6.7 Some of the problems in the world (teacher information) — teaches: TEACHER: the world's shared problems opened to ten-year-olds — disease, poverty, destruction of the earth, and people harming others — each taken in turn in group discussion with the question "what can we do?", as the doorway into the United Nations lessons that follow — Bhutan Class V Social Studies Teachers' Manual 2019, printed p. 74 — TEACHER | Bhutan, *Social Studies Class V — Teachers' Manual* (teacher guide), Block Six 6.7 Some of the problems in the world (teacher information) — printed p. 74 (teacher guide — evidence) |
+| Sub lesson 2 — Bhutan's way — the book's own teaching way | Bhutan — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Bhutan), named here, counted nowhere.**
+
+Bhutan's own way (teacher guide — evidence): the world is brought to the village school through the agencies the child can already see — the UN is introduced not from a chart of organs but from UNICEF's materials in the child's own school, the WFP food the school serves and the WHO's work in the village health unit, and only then by name and function.
+
+Searchable tags: world problems and what children can do, Bhutan, social studies, global-issues
