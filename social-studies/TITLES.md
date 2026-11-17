@@ -4701,3 +4701,4 @@ Money: The triangular trade and the slave trade, The coffee value chain and ICAF
 ; +4 for Argentina, 2026-11-17 — Culture and Work: What Advertising is, Advertising Changes from Place to Place, A Short History of Advertising, Advertising Technology and Society.
 ; +5 for Panama, 2026-11-17 — First Steps: Family and Society, Transport and Communication in Our Community, Important Events at Home School Community; Culture and Work: Work of Family Members, Rules and Norms for Living Together.
 ; +6 for Latvia, 2026-11-17 — First Steps: Jobs People Do in Our Community; Culture and Work: Safe Relationships and Honesty, Festivals in Family and Class, Social Groups Kinds and Features, Keeping Traditions Taking Part, Character and Pride in Community.
+; +1 for Nauru, 2026-11-17 — Culture and Work: Traditional Rules That Protect Shared Places.
