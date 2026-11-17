@@ -1013,3 +1013,48 @@ Guinea's own way is recorded as content in the book lines: Health
 in four strands with betelnut chewing, local herbs as medicine and
 life jackets and floaters for sea travel, and senior Health
 separating medical facts from sorcery/witchcraft beliefs.
+
+**Health expansion — Bhutan — BUILT 2026-11-16:** 50 placements
+stocked — all into existing lessons, no new lessons — this
+course stays at **53 lessons**. Stocked into: Eating a Balanced
+Diet (9), Hygiene for Sport (7), Keeping Our Environment
+Healthy (6), Safe Water and Toilets (4), Why Exercise Keeps
+You Healthy (4), Menstruation (3), Knowing Myself and My
+Feelings (3), Staying Safe While Exercising (2), Keeping My
+Body Clean (2), Saying No to Drugs, Alcohol and Tobacco (2),
+Family and Friends (2), Keeping Teeth Healthy (1), Avoiding
+Accidents and Staying Safe (1), Malnutrition (1), Puberty and
+Growing Up (1), Mental Health and Wellbeing (1) and Fair Play
+in Sport (1). All 50 placements are from Bhutan's five
+combined Health and Physical Education *Suggested Lesson
+Activities* student books, Classes PP–I, II–III, IV, V and VI
+(Curriculum Development Centre / Department of Curriculum and
+Professional Development, Royal Education Council / Ministry
+of Education, 2020, all COMPLETE); their PE parts are filed
+in bhutan-pe-placements.md and placed in the Physical
+Education course. The Bhutan books are STUDENT books, so
+Bhutan is student-book stock, inside the acceptance counts,
+in every lesson it touches (each touched lesson's count rose
+by 1; Keeping Teeth Healthy and Menstruation rise from 0 to
+1, their first student-book stock). Of the 41 placements
+filed as NEW LESSON NEEDED, 37 were resolved by registry
+Part 2A to canonical lessons that already exist in this
+course, and 4 were filed as HELD-title-decision lines (the Aerobic Dance /
+Aerobics Teacher Information in Classes II–III, IV, V and
+VI), resolved by registry Part 2B to Why Exercise Keeps You
+Healthy, with the original strings recorded in the
+provenance rows. No Bhutan placement resolves to a PE-course
+lesson, so none was excluded as PE-bound. Records L1 and L2
+of the placements file are RECORD-ONLY link records (an
+AnyFlip record REJECTED as the wrong country, and a teacher
+blog holding no textbook file) with 0 placements, nothing
+stocked from them. Each book's First Aid objectives named in
+its theme list but given no dedicated activity are
+objectives only, not placed, as filed. Bhutan's own way is
+recorded as content in the book lines: health taught through
+movement games and rhymes, WASH content written with
+UNICEF/SNV/WFP support, nutrition organised by the Go, Grow
+and Glow food groups, menstruation and mindfulness taught
+openly in the primary classes, doma (betel nut) named
+alongside tobacco and alcohol, and the Bhutanese formal
+greeting (bow with open palms, adding "la").

@@ -402,3 +402,18 @@ teacher-guide evidence only — all Papua New Guinea books (Health
 TG Grades 3–5 and combined HPE TG Grades 6–8, plus the Grade 9 PE
 TG for the carry-forward) are teacher guides, so no acceptance
 count changed; the new lesson stands at acceptance count 0.
+
+The Health expansion then added (Bhutan): no new lessons —
+50 placements stocked into existing lessons (Eating a Balanced
+Diet ×9, Hygiene for Sport ×7, Keeping Our Environment Healthy
+×6, Safe Water and Toilets ×4, Why Exercise Keeps You Healthy
+×4, Menstruation ×3, Knowing Myself and My Feelings ×3,
+Staying Safe While Exercising ×2, Keeping My Body Clean ×2,
+Saying No to Drugs, Alcohol and Tobacco ×2, Family and Friends
+×2, Keeping Teeth Healthy, Avoiding Accidents and Staying
+Safe, Malnutrition, Puberty and Growing Up, Mental Health and
+Wellbeing, Fair Play in Sport) — this course stays at 53
+lessons. All 50 placements are from Bhutan's five *Suggested
+Lesson Activities* student books, Classes PP–I to VI (2020,
+all COMPLETE), so Bhutan is student-book stock, inside the
+acceptance counts; each touched lesson's count rose by 1.

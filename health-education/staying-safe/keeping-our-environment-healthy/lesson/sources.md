@@ -1,8 +1,8 @@
 # Sources — Keeping Our Environment Healthy
 
-countries: Namibia, China, Philippines, Papua New Guinea
+countries: Namibia, China, Philippines, Papua New Guinea, Bhutan
 
-**Acceptance count: taught in 2 countries.** Namibia is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. China is filed as student-book stock, inside the acceptance count, in this lesson. Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below).
+**Acceptance count: taught in 3 countries.** Namibia is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count. China is filed as student-book stock, inside the acceptance count, in this lesson. Philippines is filed as student-book stock, inside the acceptance count, in this lesson (see its Philippines section below). Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for the Papua New Guinea rows (see its Papua New Guinea section below). Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — all five Bhutan books are STUDENT books.
 
 **Book 1 — Physical Education 4 Life: A Guide for Physical Education Teachers in Namibia, Grades 10–11 (teacher guide, English) — Health parts:**
 - Title as printed: Physical Education 4 Life — A Guide for Physical Education Teachers in Namibia — Grades 10–11
@@ -139,4 +139,80 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/papua-new-gu
 
 Papua New Guinea is added as teacher-guide evidence only (see its book line(s) and row(s) above), outside the acceptance count — all the Papua New Guinea books stocked here are TEACHER guides, so Papua New Guinea is named in the countries line and provenance rows and the acceptance count is unchanged. The Papua New Guinea placements in this lesson were filed under the original strings recorded in the provenance rows above; the placements were resolved to this canonical lesson (`staying-safe/keeping-our-environment-healthy`) by registry Part 2A (the strings filed directly under this lesson's own slug needed no resolution). Papua New Guinea's own way is content, as the book lines above record it: Health is organised in four strands — Growth and Development, Individual and Community Health, Nutrition, Safety and First Aid — with PNG-specific teaching on betelnut chewing, local herbs as medicine, and life jackets and floaters for sea travel, and senior Health separating medical facts from sorcery/witchcraft beliefs about illness. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: keeping our environment healthy, caring for the environment, recycling groups, effects of litter, reusing waste material, Healthy Lifestyle Session 2, Namibia PE4Life Guide, environment and health, air pollution and health, protecting yourself, China Senior High PEP PE & Health, environmental health and Philippine environment problems, Pearl of the Orient Seas, deforestation soil erosion coral reef mangrove degradation, community health problems and action plans, doing a community health project, barangay, what a healthy community is, WHO healthy community, Philippines Grade 7 Health LM, Papua New Guinea, Papua New Guinea Grade 3 Health TG Grade 3, Papua New Guinea Grade 4 Health TG Grade 4, Papua New Guinea Grade 5 Health TG Grade 5, Papua New Guinea Grade 6 HPE TG Grade 6, Papua New Guinea Grade 8 HPE TG Grade 8
+## Bhutan — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/bhutan-health-placements.md. The Bhutan book(s) stocked in this lesson: Book 1, Book 2, Book 3, Book 4, Book 5 of that file. All five Bhutan books are STUDENT books (suggested-activities books), so Bhutan is student-book stock, inside the acceptance count, in this lesson. The placements file's two link records (L1, an AnyFlip record REJECTED as the wrong country, and L2, a teacher blog holding no textbook file) are RECORD-ONLY with 0 placements; nothing is stocked from them. No Bhutan placement in this merge resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 1 — PP–I Suggested Activities (student book, English):**
+- Title as printed: Health and Physical Education — Suggested Lesson Activities, Class PP and I
+- Grade: Classes PP and I (Grades PP–1) (student/teacher: STUDENT — suggested-activities book)
+- Publisher: Curriculum Development Centre (CDC), Royal Education Council, Paro; year 2020 (1st Edition); ISBN 978-99936-0-505-8
+- PDF pages: 77 (cover/title page verified against the record title)
+- Verdict: COMPLETE — note: the Class I theme list (printed p. 36) names Safety and First Aid objectives (space awareness; first aid for sunburn, fever and nosebleed) for which the book prints no dedicated activity; objectives only, not placed
+- Tally: 13 placements — 3 to existing lessons, 10 NEW LESSON NEEDED
+- Bhutan's own way: Health is taught through movement games and rhymes — handwashing, safe water, waste and food lessons are all played as relays and station games; WASH content was written with UNICEF/SNV/WFP support; greeting teaching names the Bhutanese custom (bow with open palms, adding "la" for politeness).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/bhutan-health-placements.md (Book 1 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan — Class PP 8.3.4 Wastes in the Bin — putting waste in designated bins keeps surroundings clean and prevents disease; recycling in school (original string `staying-safe/waste-in-the-bin`) | Bhutan Class PP PP–I Suggested Activities, printed p. 26 |
+| Bhutan — Class I 10.4.3 Waste in the Right Bin — segregating paper, plastic, bottles, food waste and tins into the right bins; how landfills cause sickness (original string `staying-safe/waste-in-the-bin`) | Bhutan Class I PP–I Suggested Activities, printed p. 55 |
+
+**Book 2 — II–III Suggested Activities (student book, English):**
+- Title as printed: Health and Physical Education — Suggested Lesson Activities, Classes II and III
+- Grade: Classes II and III (Grades 2–3) (student/teacher: STUDENT — suggested-activities book; one physical book serves both grade records)
+- Publisher: Curriculum Development Centre (CDC), Royal Education Council, Paro; year 2020 (1st Edition); ISBN 978-99936-0-506-5
+- PDF pages: 97 (cover/title page verified against the record title)
+- Verdict: COMPLETE — note: the Class III theme list (printed p. 43) names First Aid objectives (cuts, hot liquid and steam burns, bites and stings, blister) and correct-posture objectives for which the book prints no dedicated activity; objectives only, not placed
+- Tally: 13 placements — 2 to existing lessons, 11 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- Bhutan's own way: WASH teaching deepens (eight handwashing steps as a station journey; a dice game of health tips); nutrition is organised by the Go, Grow and Glow food groups; unusually for this level, Class III also teaches menstruation openly to the whole class, and mindfulness ("Little Buddha") as the way to handle unfavourable emotions.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/bhutan-health-placements.md (Book 2 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan — Class III 10.4.3 Managing Waste — reusing waste to make balls and toys, selling plastic/paper/tins to scrap dealers for recycling, composting kitchen waste, waste pits (original string `staying-safe/waste-in-the-bin`) | Bhutan Class III II–III Suggested Activities, printed p. 70 |
+
+**Book 3 — Class IV Suggested Activities (student book, English):**
+- Title as printed: Health and Physical Education — Suggested Lesson Activities, Class IV
+- Grade: Class IV (Grade 4) (student/teacher: STUDENT — suggested-activities book)
+- Publisher: Department of Curriculum and Professional Development (DCPD), Ministry of Education, Thimphu; year 2020 (1st Edition, Reprint 2022); ISBN 978-99936-0-507-2
+- PDF pages: 73 (cover/title page verified against the record title)
+- Verdict: COMPLETE — note: the theme list (printed p. 5) names First Aid objectives (wounds, choking, lodged foreign objects in eyes/ears/nose/mouth) for which the book prints no dedicated activity; objectives only, not placed
+- Tally: 9 placements — 2 to existing lessons, 7 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- Bhutan's own way: Class IV adds a whole theme on healthy and ethical use of substances, taught as a four-track safety maze (flammable, poison, explosive, corrosive); menstrual hygiene returns with management detail (pad changing, disposal, privacy), and handwashing occasions widen to adult care tasks (feeding babies, changing diapers and pads).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/bhutan-health-placements.md (Book 3 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan — 8.5.1 Waste in the Bin — sorting degradable from non-degradable waste into labelled bins and why separation matters (original string `staying-safe/waste-in-the-bin`) | Bhutan Class IV Suggested Activities, printed p. 33 |
+
+**Book 4 — Class V Suggested Activities (student book, English):**
+- Title as printed: Health and Physical Education — Suggested Lesson Activities, Class V
+- Grade: Class V (Grade 5) (student/teacher: STUDENT — suggested-activities book)
+- Publisher: Department of Curriculum and Professional Development (DCPD), Ministry of Education, Thimphu; year 2020 (1st Edition, Reprint 2022); ISBN 978-99936-0-508-9
+- PDF pages: 55 (cover/title page verified against the record title)
+- Verdict: COMPLETE — note: the theme list names First Aid objectives (wounds, choking, lodged foreign objects) for which the book prints no dedicated activity; objectives only, not placed
+- Tally: 7 placements — 1 to an existing lesson, 6 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- Bhutan's own way: Puberty teaching becomes practical and frank — step-by-step pad changing, iron tablets and diet during menstruation, and a plain warning that menstruation means pregnancy is possible; the substances lesson names doma (betel nut) alongside tobacco and alcohol, and links alcohol to domestic violence.
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/bhutan-health-placements.md (Book 4 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan — 8.4.1 4Rs for Zero Waste — the 4Rs (reduce, reuse, recycle, recover): collecting waste materials and making soft balls from them to play with (original string `staying-safe/waste-in-the-bin`) | Bhutan Class V Suggested Activities, printed p. 30 |
+
+**Book 5 — Class VI Suggested Activities (student book, English):**
+- Title as printed: Health and Physical Education — Suggested Lesson Activities, Class VI
+- Grade: Class VI (Grade 6) (student/teacher: STUDENT — suggested-activities book)
+- Publisher: Department of Curriculum and Professional Development (DCPD), Ministry of Education, Thimphu; year 2020 (1st Edition, Reprint 2022); ISBN 978-99936-0-509-6
+- PDF pages: 65 (cover/title page verified against the record title)
+- Verdict: COMPLETE — note: the theme list names First Aid objectives (wounds, choking, lodged foreign objects, minor injuries) for which the book prints no dedicated activity; objectives only, not placed
+- Tally: 8 placements — 1 to an existing lesson, 7 NEW LESSON NEEDED (1 of them HELD-title-decision)
+- Bhutan's own way: The primary course closes with its most advanced health teaching — nutrient-deficiency diseases diagnosed in a Doctor, Doctor role-play, the F-diagram of faecal-oral transmission after a real tour of the school toilets, puberty taught to both sexes together with height/weight measuring, and waste reframed as income ("One's Trash, Another's Cash").
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/bhutan-health-placements.md (Book 5 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan — 8.5.2 One's Trash, Another's Cash — sorting degradable and non-degradable waste and filling PET bottles with sand for fencing: the money benefits of refuse, reduce, reuse and recycle (original string `staying-safe/waste-in-the-bin`) | Bhutan Class VI Suggested Activities, printed p. 42 |
+
+Bhutan is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — all five Bhutan books are STUDENT books, so Bhutan is named in the countries line and provenance rows and the acceptance count rises from 2 to 3 countries. The Bhutan placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved to this canonical lesson (`staying-safe/keeping-our-environment-healthy`) by registry Part 2A; the original string is recorded in each provenance row above. Bhutan's own way is content, as the book lines above record it: health is taught through movement games and rhymes, WASH content written with UNICEF/SNV/WFP support, nutrition organised by the Go, Grow and Glow food groups, menstruation and mindfulness taught openly in the primary classes, and the Bhutanese formal greeting (bow with open palms, adding "la"). This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+Searchable tags: keeping our environment healthy, caring for the environment, recycling groups, effects of litter, reusing waste material, Healthy Lifestyle Session 2, Namibia PE4Life Guide, environment and health, air pollution and health, protecting yourself, China Senior High PEP PE & Health, environmental health and Philippine environment problems, Pearl of the Orient Seas, deforestation soil erosion coral reef mangrove degradation, community health problems and action plans, doing a community health project, barangay, what a healthy community is, WHO healthy community, Philippines Grade 7 Health LM, Papua New Guinea, Papua New Guinea Grade 3 Health TG Grade 3, Papua New Guinea Grade 4 Health TG Grade 4, Papua New Guinea Grade 5 Health TG Grade 5, Papua New Guinea Grade 6 HPE TG Grade 6, Papua New Guinea Grade 8 HPE TG Grade 8, Bhutan, Bhutan PP–I Suggested Activities, Bhutan II–III Suggested Activities, Bhutan Class IV Suggested Activities, Bhutan Class V Suggested Activities, Bhutan Class VI Suggested Activities

@@ -1,8 +1,8 @@
 # Sources — Keeping Teeth Healthy
 
-countries: Papua New Guinea
+countries: Papua New Guinea, Bhutan
 
-**Acceptance count: taught in 0 countries.** Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson (see its Papua New Guinea section below). This lesson stands at acceptance count 0, founded on teacher-guide evidence only.
+**Acceptance count: taught in 1 country.** Papua New Guinea is filed as teacher-guide evidence only in this lesson — named in the countries line and provenance rows, but outside the acceptance count; no pupil's book is in hand for this lesson (see its Papua New Guinea section below). Bhutan is added as student-book stock (see its Bhutan section below), inside the acceptance count — all five Bhutan books are STUDENT books, so this lesson now stands at acceptance count 1.
 
 ## Papua New Guinea — Health expansion 2026-11-16
 
@@ -40,4 +40,23 @@ Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/papua-new-gu
 
 This is a canonical NEW lesson (slug-registry Part 1: `staying-safe/keeping-teeth-healthy` — Keeping teeth healthy: the teeth and mouth, brushing, and the foods that help or harm teeth); the Papua New Guinea placements were filed under the original string `staying-safe/brushing-teeth-and-oral-hygiene`, resolved to this canonical slug by registry Part 2A and recorded in the provenance rows above. Papua New Guinea enters this lesson as teacher-guide evidence only, outside the acceptance count — both books stocked here are TEACHER guides, so this lesson stands at acceptance count 0, founded on teacher-guide evidence only, no pupil's book in hand. The Grade 4 placement's printed page is recorded exactly as filed (printed p. 10). Papua New Guinea's own way is content, as the book lines above record it: Health is organised in four strands — Growth and Development, Individual and Community Health, Nutrition, Safety and First Aid. This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
 
-Searchable tags: keeping teeth healthy, teeth and mouth, brushing teeth, oral hygiene, gums, dental products, Papua New Guinea Health TG Grade 3, Papua New Guinea Health TG Grade 4, Papua New Guinea
+## Bhutan — Health expansion 2026-11-16
+
+Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/bhutan-health-placements.md. The Bhutan book(s) stocked in this lesson: Book 1 of that file. All five Bhutan books are STUDENT books (suggested-activities books), so Bhutan is student-book stock, inside the acceptance count, in this lesson. The placements file's two link records (L1, an AnyFlip record REJECTED as the wrong country, and L2, a teacher blog holding no textbook file) are RECORD-ONLY with 0 placements; nothing is stocked from them. No Bhutan placement in this merge resolves to a PE-course lesson, so none was excluded as PE-bound.
+
+**Book 1 — PP–I Suggested Activities (student book, English):**
+- Title as printed: Health and Physical Education — Suggested Lesson Activities, Class PP and I
+- Grade: Classes PP and I (Grades PP–1) (student/teacher: STUDENT — suggested-activities book)
+- Publisher: Curriculum Development Centre (CDC), Royal Education Council, Paro; year 2020 (1st Edition); ISBN 978-99936-0-505-8
+- PDF pages: 77 (cover/title page verified against the record title)
+- Verdict: COMPLETE — note: the Class I theme list (printed p. 36) names Safety and First Aid objectives (space awareness; first aid for sunburn, fever and nosebleed) for which the book prints no dedicated activity; objectives only, not placed
+- Tally: 13 placements — 3 to existing lessons, 10 NEW LESSON NEEDED
+- Bhutan's own way: Health is taught through movement games and rhymes — handwashing, safe water, waste and food lessons are all played as relays and station games; WASH content was written with UNICEF/SNV/WFP support; greeting teaching names the Bhutanese custom (bow with open palms, adding "la" for politeness).
+- Placements at liqlearns-courses-work/expansion-pe-health-2026-11-16/bhutan-health-placements.md (Book 1 of that file).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bhutan — Class PP 8.3.5 Oral Hygiene — brushing twice a day, the correct brushing steps taught through body movements, preventing toothache, decay and bad breath (original string `staying-safe/brushing-teeth-and-oral-hygiene`) | Bhutan Class PP PP–I Suggested Activities, printed p. 28 |
+
+Bhutan is added as student-book stock (see its book line(s) and row(s) above), inside the acceptance count — all five Bhutan books are STUDENT books, so Bhutan is named in the countries line and provenance rows and the acceptance count rises from 0 to 1 country. The Bhutan placements in this lesson were filed under the original strings recorded in the provenance rows above, resolved to this canonical lesson (`staying-safe/keeping-teeth-healthy`) by registry Part 2A; the original string is recorded in each provenance row above. Bhutan's own way is content, as the book lines above record it: health is taught through movement games and rhymes, WASH content written with UNICEF/SNV/WFP support, nutrition organised by the Go, Grow and Glow food groups, menstruation and mindfulness taught openly in the primary classes, and the Bhutanese formal greeting (bow with open palms, adding "la"). This lesson teaches its placements only as the placements file summarises them, and names nothing the summaries do not name.
+Searchable tags: keeping teeth healthy, teeth and mouth, brushing teeth, oral hygiene, gums, dental products, Papua New Guinea Health TG Grade 3, Papua New Guinea Health TG Grade 4, Papua New Guinea, Bhutan, Bhutan PP–I Suggested Activities
