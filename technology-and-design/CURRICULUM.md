@@ -237,7 +237,77 @@ practice on grids and in the spaces provided, closed by an
 Placements at
 liqlearns-courses-work/expansion-td-2026-11-17/malta-placements.md.
 
-**Course totals: 47 lessons** — Technical Drawing 17 lessons
+## Jamaica, Resource & Technology — Engineering & Mechanisms projects (T&D expansion, stocked 2026-11-17)
+
+Stocked from Jamaica's *National Standards Curriculum
+Guide — Grades 4–6 — Resource & Technology* —
+Ministry of Education, Youth and Information, Kingston,
+Jamaica, © 2018, 188 PDF pp. (printed pagination to
+p. 167; printed p. = PDF p. − 20), read COMPLETE. The
+guide's Engineering & Mechanisms units — one
+design-and-make project per grade — and its Design
+Process material are stocked here; its other strands
+(Agriculture, Family & Consumer Management, Business
+Basics) belong to other courses and are not stocked.
+Of the 23 placements, 21 were NEW LESSON NEEDED (each
+resolved through the T&D slug registry to its canonical
+lesson; 19 built new, 1 stocked into the existing
+Measuring and marking out lesson, and Evaluating a made
+product carries 2 of the 21) and 2 stocked into existing
+Technical Drawing lessons. Jamaica counts in the
+acceptance count (curriculum guide with full unit
+teaching content, not evidence-only).
+
+- **Grade 4 — 'Keep the Wheels Turning' (toy car):**
+  The design process (printed p. 31); Mechanical energy
+  in devices and transport (printed p. 30); Forces and
+  friction in mechanisms (printed p. 31); Shapes and
+  solids for movement (printed p. 34); Hand tools
+  (printed p. 33); Making a toy car (printed p. 33);
+  Prototyping — a mock-up before making (printed
+  p. 35); Working safely with tools and materials
+  (printed p. 33); Careers in automotive and mechanical
+  engineering (printed p. 35); plus Measuring and
+  marking out stocked into the existing lesson (printed
+  p. 33) and the 2 existing-lesson placements below.
+- **Grade 5 — 'This Little Light of Mine' (flashlight):**
+  The simple electric circuit (printed p. 72); Reading a
+  circuit schematic and a cross-section (printed p. 75);
+  Designing a product for a need (design criteria)
+  (printed p. 75); Making a working flashlight (printed
+  p. 76); Safety with simple circuits and cutting tools
+  (printed p. 75); Evaluating a made product (printed
+  p. 75).
+- **Grade 6 — 'Let's Magnetize Together' (electromagnet
+  and motor):** Magnets and electromagnetism for
+  technology (printed p. 115); Making an electromagnet
+  (printed p. 115); Building a simple electromagnetic
+  motor (printed p. 116); Drawing a labelled schematic
+  of a made device (printed p. 116); Evaluating a made
+  product, second placement (printed p. 116).
+- **Existing Technical Drawing lessons stocked from
+  Jamaica** (2 placements): Free-hand sketching —
+  principles (printed p. 35); Dimensioning — lines,
+  symbols and reading direction (printed p. 33). Both
+  also keep their Ethiopia teacher-guide evidence,
+  counted nowhere.
+
+Jamaica's own way is content and is carried in each
+lesson's sources: one named method — the 'E' Design
+Process — runs through every project; each grade's
+teaching rides on one design-and-make project (toy car,
+flashlight, electromagnet and motor); safety is attached
+to every practical task; products are evaluated with a
+prescribed checklist and rating scale for neatness,
+accuracy and functionality against the original need;
+and the flashlight is designed for a stated Jamaican
+need — a simple light for children, for hurricane
+season.
+
+Placements at
+liqlearns-courses-work/expansion-td-2026-11-17/jamaica-placements.md.
+
+**Course totals: 66 lessons** — Technical Drawing 17 lessons
 (Ethiopia, teacher-guide evidence) plus the 7 Canada lessons
 above (First Steps 3, Mechanisms and Machines 1, Electrical
 Installations and the Home 1, Textiles and Fashion 1,
@@ -245,9 +315,16 @@ Radiography Technology 1) plus the 7 Finland lessons above
 (Materials 2, Textiles and Fashion 5) plus the 7 Kuwait
 lessons above (Models and Robotics 6, Design and Making 1)
 plus the 9 Malta lessons above (Technical Drawing 6,
-Workshop and Safety 1, Electricity and Electronics 2);
+Workshop and Safety 1, Electricity and Electronics 2)
+plus the 19 Jamaica lessons above (First Steps 1,
+Technical Drawing 1, Design and Making 6, Workshop and
+Safety 1, Mechanisms and Machines 3, Models and
+Robotics 1, Electricity and Electronics 6);
 Malta also stocked 6 placements into 4 existing Technical
-Drawing lessons.
+Drawing lessons, and Jamaica also stocked 3 placements
+into 3 existing lessons (Measuring and marking out,
+Free-hand sketching — principles, Dimensioning —
+lines, symbols and reading direction).
 
 - **Coverage-audit fix pass (2026-11-12)** — the placement-coverage
   audit found 17 of 19 placements stocked; the fix build closed

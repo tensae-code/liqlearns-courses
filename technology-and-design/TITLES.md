@@ -7,15 +7,17 @@ from the hand to the drawing board to the workshop.
 
 **First Steps → Technical Drawing → Materials → Mechanisms and Machines → Electrical Installations and the Home → Textiles and Fashion → Radiography Technology → Design and Making → Models and Robotics → Workshop and Safety → Electricity and Electronics**
 
-Stocked titles so far: **47 lessons**.
+Stocked titles so far: **66 lessons**.
 
-**Technical Drawing** (technical-drawing/) — 23 lessons:
+**Technical Drawing** (technical-drawing/) — 24 lessons:
 17 built from Ethiopia's Grade 12 teacher guide (2003 E.C.,
 GEQIP generation) as labelled evidence — see CURRICULUM.md
-and ABOUT.md for the honesty terms — and 6 stocked
+and ABOUT.md for the honesty terms — 6 stocked
 2026-11-17 from Malta's *Design and Technology —
 Graphical Communication Component* workbooks 1 and 2
-(Malta, 2015):
+(Malta, 2015), and 1 stocked 2026-11-17 from Jamaica's
+*National Standards Curriculum Guide — Grades 4–6 —
+Resource & Technology* (Jamaica, 2018):
 
 - Technical lettering (technical-lettering/)
 - Line types on drawings (line-types-on-drawings/)
@@ -23,20 +25,28 @@ Graphical Communication Component* workbooks 1 and 2
 - Preparing a project's working drawings (preparing-a-project-s-working-drawings/)
 - Tessellation (tessellation/)
 - Recognising geometric solids (recognising-geometric-solids/)
+- Drawing a labelled schematic of a made device (drawing-a-labelled-schematic-of-a-made-device/)
 
 Four of the 17 Ethiopia-evidence lessons also carry Malta
 placements (6 placements): Surface development — flat
 sheets that become things; Pictorial sketching —
 isometric; Orthographic projection basics; Size and
-location dimensions.
+location dimensions. Two of the 17 also carry Jamaica
+placements (2 placements): Free-hand sketching —
+principles and place in design; Dimensioning — lines,
+symbols and reading direction.
 
-**First Steps** (first-steps/) — 3 lessons, stocked
+**First Steps** (first-steps/) — 4 lessons: 3 stocked
 2026-11-17 from Canada's *Technology in the Community*
-(Nunavut, Tulliniliara Level 14, student reader):
+(Nunavut, Tulliniliara Level 14, student reader), and 1
+stocked 2026-11-17 from Jamaica's *National Standards
+Curriculum Guide — Grades 4–6 — Resource &
+Technology* (Jamaica, 2018):
 
 - What technology is (what-technology-is/)
 - Computers as community technology (computers-as-community-technology/)
 - GPS technology (gps-technology/)
+- Careers in automotive and mechanical engineering (careers-in-automotive-and-mechanical-engineering/)
 
 **Materials** (materials/) — 2 lessons, stocked
 2026-11-17 from Finland's *Katse tulevaan*
@@ -46,9 +56,15 @@ location dimensions.
 - Life-cycle thinking in the craft process (life-cycle-thinking-in-the-craft-process/)
 
 **Mechanisms and Machines** (mechanisms-and-machines/) —
-1 lesson, stocked 2026-11-17 from the same Canada book:
+4 lessons: 1 stocked 2026-11-17 from the same Canada book,
+and 3 stocked 2026-11-17 from Jamaica's *National
+Standards Curriculum Guide — Grades 4–6 — Resource
+& Technology* (Jamaica, 2018):
 
 - How a piston engine moves a snowmobile (how-a-piston-engine-moves-a-snowmobile/)
+- Mechanical energy in devices and transport (mechanical-energy-in-devices-and-transport/)
+- Forces and friction in mechanisms (forces-and-friction-in-mechanisms/)
+- Shapes and solids for movement (shapes-and-solids-for-movement/)
 
 **Electrical Installations and the Home**
 (electrical-installations/) — 1 lesson, stocked 2026-11-17
@@ -73,15 +89,27 @@ and 5 stocked 2026-11-17 from Finland's *Katse tulevaan*
 
 - X-ray machines (x-ray-machines/)
 
-**Design and Making** (design-and-making/) — 1 lesson,
-stocked 2026-11-17 from Kuwait's الذكاء الرقمي 8
+**Design and Making** (design-and-making/) — 7 lessons:
+1 stocked 2026-11-17 from Kuwait's الذكاء الرقمي 8
 (*Digital Intelligence, Grade 8, Term 2*, Ministry of
-Education, State of Kuwait):
+Education, State of Kuwait), and 6 stocked 2026-11-17
+from Jamaica's *National Standards Curriculum Guide —
+Grades 4–6 — Resource & Technology* (Jamaica, 2018):
 
 - The integrated smart-building project (design side) (the-integrated-smart-building-project-design-side/)
+- The design process (the-design-process/)
+- Prototyping — a mock-up before making (prototyping-a-mock-up-before-making/)
+- Working safely with tools and materials (working-safely-with-tools-and-materials/)
+- Designing a product for a need (design criteria) (designing-a-product-for-a-need-design-criteria/)
+- Safety with simple circuits and cutting tools (safety-with-simple-circuits-and-cutting-tools/)
+- Evaluating a made product (evaluating-a-made-product/)
 
 **Models and Robotics** (models-and-robotics/) —
-6 lessons, stocked 2026-11-17 from the same Kuwait book:
+7 lessons: 6 stocked 2026-11-17 from the same Kuwait book,
+and 1 stocked 2026-11-17 from Jamaica's *National
+Standards Curriculum Guide — Grades 4–6 — Resource
+& Technology* (Jamaica, 2018) — Making a toy car
+(making-a-toy-car/):
 
 - 3D printing, from idea to model (3d-printing-from-idea-to-model/)
 - First steps with UltiMaker Cura (first-steps-with-ultimaker-cura/)
@@ -91,13 +119,27 @@ Education, State of Kuwait):
 - Making the model stick to the printer bed (making-the-model-stick-to-the-printer-bed/)
 
 **Workshop and Safety** (workshop-and-safety/) —
-1 lesson, stocked 2026-11-17 from Malta's Workbook 1:
+2 lessons: 1 stocked 2026-11-17 from Malta's Workbook 1,
+and 1 stocked 2026-11-17 from Jamaica's *National
+Standards Curriculum Guide — Grades 4–6 — Resource
+& Technology* (Jamaica, 2018). Measuring and marking out
+also carries a Jamaica placement:
 
 - Measuring and marking out (measuring-and-marking-out/)
+- Hand tools (hand-tools/)
 
 **Electricity and Electronics**
-(electricity-and-electronics/) — 2 lessons, stocked
-2026-11-17 from Malta's Workbook 2:
+(electricity-and-electronics/) — 8 lessons: 2 stocked
+2026-11-17 from Malta's Workbook 2, and 6 stocked
+2026-11-17 from Jamaica's *National Standards Curriculum
+Guide — Grades 4–6 — Resource & Technology*
+(Jamaica, 2018):
 
 - Electrical/electronic circuit diagrams and symbols (electrical-electronic-circuit-diagrams-and-symbols/)
 - Soldering electronic components (soldering-electronic-components/)
+- The simple electric circuit (the-simple-electric-circuit/)
+- Reading a circuit schematic and a cross-section (reading-a-circuit-schematic-and-a-cross-section/)
+- Making a working flashlight (making-a-working-flashlight/)
+- Magnets and electromagnetism for technology (magnets-and-electromagnetism-for-technology/)
+- Making an electromagnet (making-an-electromagnet/)
+- Building a simple electromagnetic motor (building-a-simple-electromagnetic-motor/)
