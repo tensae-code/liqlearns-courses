@@ -1,0 +1,16 @@
+# Sources — Costa Rica Without an Army Perpetual Neutrality and Peace Diplomacy
+
+countries: Costa Rica
+
+**Book 1:** *Estudios Sociales 11* (student book, Spanish) — Title as printed: Estudios Sociales 11 (cover: "Estudios Sociales 11 — Publicaciones Porras"). Grade: Grade 11 (student/teacher: STUDENT). Publisher: Publicaciones Porras y Gamboa, San José (printed imprint: Editorial Compas ERV); year 2018, 1st edition; ISBN 978-9930-9622-3-7 as printed on the copyright page (the targets record gives 978-9990-96223-7 — record/printed mismatch, noted in the group log). PDF pages: 200 (cover verified visually against the record title; 56,329,080 bytes = record size_bytes; image-only PDF, read via 100-DPI 4-up contact sheets). Earlier waves: Geography wave placed Unit 1 (globalisation, pp. 12–54); History wave placed Units 2–3 as national History (including the electoral and movements sections as History lessons and the women's-suffrage struggle); Economics wave placed the Economics parts and named the History/Civics parts at pp. 22–43, 48–59, 74–87, 95–104, 114–135, 149–163, not placed. Verdict: COMPLETE. Contents map: Geography pp. 12–54; History pp. 59–98, 105–123, 131–151; Economics pp. 12–21, 30–35, 44–47, 60–73, 80–81, 88–94, 105–113, 117–121, 136–148; Civics/Citizenship/Government pp. 78–80 (electoral reform and electoral life), p. 99 (the 1949 Constitution), pp. 124–127 (parties, the electoral system and the banned party), pp. 152–159 (state, movements, two-party rule, neutrality); Assessment pp. 168–199 (Unit 4 Bachillerato practice exams — excluded as assessment, named here); Bibliography p. 200. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/costa-rica-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — resources-and-conflict/costa-rica-without-an-army-perpetual-neutrality-and-peace-diplomacy — Unidad 3 B: Costa Rica's peaceful way in the world — a country with no dictator in over 100 years signs the Proclama de Neutralidad Perpetua (never to take part in any war), and President Óscar Arias builds the Esquipulas peace plan with the other Central American presidents — ceasefires, free elections and respect between peoples — winning the 1987 Nobel Peace Prize — Costa Rica Grade 11 Estudios Sociales 11 (Porras y Gamboa), printed p. 152 | Costa Rica, *Estudios Sociales 11* (student book), Unidad 3 B — printed p. 152 |
+| Sub lesson 2 — Costa Rica's way — the book's own teaching way | Costa Rica — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Costa Rica).**
+
+Costa Rica's own way: the commercial workbook twin of the CONED 11 anthology teaches the same civics as a fixed cycle (my previous ideas, basic concepts, widening my knowledge, I apply my knowledge) — and it is blunt where the anthology is neutral: the banned Communist Party is judged "a very dangerous restriction", abstention is tabled year by year from the TSE's own figures, and the answer offered is civic education itself — student elections run with the Tribunal Supremo de Elecciones.
+
+Searchable tags: no army, perpetual neutrality, peace diplomacy, esquipulas, nobel peace prize, Costa Rica, social studies, resources-and-conflict

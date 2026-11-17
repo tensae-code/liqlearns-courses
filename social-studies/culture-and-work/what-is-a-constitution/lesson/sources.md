@@ -1,0 +1,18 @@
+# Sources — What is a Constitution
+
+countries: Costa Rica
+
+**Book 1:** *Estudios Sociales 11* (student book, Spanish) — Title as printed: Estudios Sociales 11 (cover: "Estudios Sociales 11 — Publicaciones Porras"). Grade: Grade 11 (student/teacher: STUDENT). Publisher: Publicaciones Porras y Gamboa, San José (printed imprint: Editorial Compas ERV); year 2018, 1st edition; ISBN 978-9930-9622-3-7 as printed on the copyright page (the targets record gives 978-9990-96223-7 — record/printed mismatch, noted in the group log). PDF pages: 200 (cover verified visually against the record title; 56,329,080 bytes = record size_bytes; image-only PDF, read via 100-DPI 4-up contact sheets). Earlier waves: Geography wave placed Unit 1 (globalisation, pp. 12–54); History wave placed Units 2–3 as national History (including the electoral and movements sections as History lessons and the women's-suffrage struggle); Economics wave placed the Economics parts and named the History/Civics parts at pp. 22–43, 48–59, 74–87, 95–104, 114–135, 149–163, not placed. Verdict: COMPLETE. Contents map: Geography pp. 12–54; History pp. 59–98, 105–123, 131–151; Economics pp. 12–21, 30–35, 44–47, 60–73, 80–81, 88–94, 105–113, 117–121, 136–148; Civics/Citizenship/Government pp. 78–80 (electoral reform and electoral life), p. 99 (the 1949 Constitution), pp. 124–127 (parties, the electoral system and the banned party), pp. 152–159 (state, movements, two-party rule, neutrality); Assessment pp. 168–199 (Unit 4 Bachillerato practice exams — excluded as assessment, named here); Bibliography p. 200. Placements at liqlearns-courses-work/expansion-ss-remaining-2026-11-17/costa-rica-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — culture-and-work/costa-ricas-constitution-of-1949-and-what-it-changed — Unidad 2 C: Constitución de 1949 y su importancia para el Estado y la sociedad — Costa Rica's own constitution taught as its own way: a Constituent Assembly after the civil war writes a modern constitution on the 1871 base — autonomous institutions created, the Legislative Power strengthened over the other powers, discrimination by sex, ethnicity or religion prohibited, women given the vote, the Central Bank and the Tribunal Supremo de Elecciones created, the Social Guarantees kept, the army abolished so its money goes to education and health and a civilian culture is forged, banks nationalised, and a neutral Civil Service to end political clientelism — Costa Rica Grade 11 Estudios Sociales 11 (Porras y Gamboa), printed p. 99 | Costa Rica, *Estudios Sociales 11* (student book), Unidad 2 C — printed p. 99 |
+| Sub lesson 2 — Costa Rica's way — the book's own teaching way | Costa Rica — the book's own way of teaching (see below) |
+
+**Acceptance count: taught in 1 country (Costa Rica).**
+
+Costa Rica's own way: the commercial workbook twin of the CONED 11 anthology teaches the same civics as a fixed cycle (my previous ideas, basic concepts, widening my knowledge, I apply my knowledge) — and it is blunt where the anthology is neutral: the banned Communist Party is judged "a very dangerous restriction", abstention is tabled year by year from the TSE's own figures, and the answer offered is civic education itself — student elections run with the Tribunal Supremo de Elecciones.
+
+Registry note: the original coined string `culture-and-work/costa-ricas-constitution-of-1949-and-what-it-changed` is recorded in the provenance row above, exactly as filed; it resolves through the slug registry §3 into this canonical lesson, `culture-and-work/what-is-a-constitution`.
+
+Searchable tags: constitution, 1949 constitution, what is a constitution, Costa Rica, social studies, culture-and-work
